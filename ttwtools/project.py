@@ -30,6 +30,10 @@ import pandas as pd
 TTWA_MIME_TYPE = "application/x-ttwa+sqlite3"
 TTWA_EXTENSION = ".ttwa"
 
+# Modos de arquivo .ttwa gravados em project_meta['project_mode']
+TTWA_MODE_FULL    = "full"      # corpus original + tagged + análise
+TTWA_MODE_COMPACT = "compact"   # apenas tagged + análise (sem textos originais)
+
 # ---------------------------------------------------------------------------
 # DDL
 # ---------------------------------------------------------------------------
@@ -268,9 +272,20 @@ class TTWAProject:
         self._con.commit()
 
     def list_corpus_names(self) -> list[str]:
-        """Lista todos os nomes de corpora armazenados."""
+        """
+        Lista todos os nomes de corpora conhecidos pelo projeto.
+        Inclui nomes presentes em corpus_files, tagged_files ou feature_tables,
+        garantindo que o modo 'compact' (sem originais) também liste os corpora.
+        """
         rows = self._con.execute(
-            "SELECT DISTINCT corpus_name FROM corpus_files ORDER BY corpus_name"
+            """
+            SELECT corpus_name FROM corpus_files
+            UNION
+            SELECT corpus_name FROM tagged_files
+            UNION
+            SELECT corpus_name FROM feature_tables
+            ORDER BY corpus_name
+            """
         ).fetchall()
         return [r["corpus_name"] for r in rows]
 
@@ -545,6 +560,7 @@ def save_analysis_to_project(
     overwrite: bool = False,
     kfa_min_effect: float = 0.2,
     kfa_join_method: str = "union",
+    include_originals: bool = True,
 ) -> TTWAProject:
     """
     Função all-in-one: cria (ou sobrescreve) um projeto .ttwa e importa tudo de uma vez.
@@ -557,18 +573,25 @@ def save_analysis_to_project(
 
     Parâmetros opcionais:
         kfa_results_df            — DataFrame de KFA já calculado
-        corpus*_folder            — pasta com os .txt originais (importa conteúdos)
+        corpus*_folder            — pasta com os .txt originais (importa conteúdos;
+                                    ignorado se include_originals=False)
         corpus*_tagged_folder     — pasta com os .tsv tagueados
+        include_originals         — True  → modo 'full': salva textos originais + tagged + análise
+                                    False → modo 'compact': salva apenas tagged + análise
+                                    O modo fica registrado em project_meta['project_mode'].
 
     Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
     """
+    mode = TTWA_MODE_FULL if include_originals else TTWA_MODE_COMPACT
     proj = TTWAProject.create(project_path, name=project_name, overwrite=overwrite)
+    proj._set_meta("project_mode", mode)
+    proj._con.commit()
 
     for cname, raw_csv, norm_csv, folder, tagged_folder in [
         (corpus1_name, corpus1_rawcount_csv, corpus1_norm1000_csv, corpus1_folder, corpus1_tagged_folder),
         (corpus2_name, corpus2_rawcount_csv, corpus2_norm1000_csv, corpus2_folder, corpus2_tagged_folder),
     ]:
-        if folder:
+        if include_originals and folder:
             proj.add_corpus_folder(cname, folder)
         if tagged_folder:
             proj.save_tagged_folder(cname, tagged_folder)

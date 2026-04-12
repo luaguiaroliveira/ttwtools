@@ -8,6 +8,8 @@ from .project import (
     save_analysis_to_project,
     TTWA_MIME_TYPE,
     TTWA_EXTENSION,
+    TTWA_MODE_FULL,
+    TTWA_MODE_COMPACT,
 )
 
 __all__ = [
@@ -31,4 +33,6 @@ __all__ = [
     "save_analysis_to_project",
     "TTWA_MIME_TYPE",
     "TTWA_EXTENSION",
+    "TTWA_MODE_FULL",
+    "TTWA_MODE_COMPACT",
 ]
