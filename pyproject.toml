@@ -15,6 +15,7 @@ dependencies = [
   "matplotlib",
   "seaborn",
   "biberplus",
+  # sqlite3 é built-in do Python — sem dependência extra
 ]
 
 [tool.setuptools]

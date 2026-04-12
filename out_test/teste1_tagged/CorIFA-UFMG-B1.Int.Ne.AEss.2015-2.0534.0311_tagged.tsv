@@ -1,0 +1,85 @@
+# filename: CorIFA-UFMG-B1.Int.Ne.AEss.2015-2.0534.0311.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B1.Int	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2015	CAP NNP
+-	
+2.0534.0311	NUM
+>	
+ 	
+The	ART CAP DET
+graph	NN
+above	RB PLACE
+shows	VPRT PRIV
+how	RB WHCL SCONJ WH
+the	ART DET
+factors	NN
+age	NN
+and	PHC CCONJ
+gender	NN
+interact	NN
+,	
+give	INF
+a	ART DET INDA
+ 	
+picture	NN
+about	PIN PREP
+the	ART DET
+percent	NN
+of	PIN PREP
+divorces	NN
+in	PIN CONJ PREP
+USA	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+women	NN
+,	
+the	ART DET
+ 	
+percentil	NN
+of	PIN PREP
+divorcies	NN
+incresead	VPRT
+from	PIN PREP
+the	ART DET
+age	NN
+of	PIN PREP
+40	NUM
+,	
+reachind	VPRT
+the	ART DET
+percent	NN
+ 	
+above	PIN PLACE PREP
+35	NUM
+%	NN
+in	PIN CONJ PREP
+the	ART DET
+age	NN
+of	PIN PREP
+55	NUM
+.	
+It	PIT CAP PRP SBJP
+seems	VPRT SMP
+that	PIN THVC SCONJ PREP
+the	ART DET
+women	NN
+divorced	VBD
+more	JJ EMPH CMADJ
+than	PIN PREP
+ 	
+men	NN
+,	
+mainly	RB
+.	
+ 	

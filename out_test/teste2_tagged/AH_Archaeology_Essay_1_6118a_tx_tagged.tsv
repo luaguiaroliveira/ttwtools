@@ -1,0 +1,2215 @@
+# filename: AH_Archaeology_Essay_1_6118a_tx.txt
+token	tags
+A	ART CAP DET INDA
+variety	NN
+of	PIN PREP
+agents	NN
+contribute	VPRT
+to	PIN PREP
+the	ART DET
+understanding	GER PRIV
+of	PIN PREP
+the	ART DET
+Roman	JJ CAP
+economy	NN
+,	
+two	NUM
+of	PIN PREP
+such	JJ
+are	BEMA VPRT AUXB
+samian	JJ
+ware	NN
+and	PHC CCONJ
+shipwrecks	NN
+.	
+Both	CAP DET
+reveal	VPRT PRIV
+great	JJ
+deals	NN
+of	PIN PREP
+useful	JJ
+information	NOMZ
+,	
+however	RB CONJ
+there	EX
+are	VPRT AUXB
+remaining	PGAS
+unanswered	JJ
+questions	NOMZ
+and	PHC CCONJ
+limitations	NOMZ
+to	PIN TO PREP
+deal	INF
+with	PIN STPR PREP
+.	
+The	ART CAP DET
+study	NN
+of	PIN PREP
+the	ART DET
+Roman	JJ CAP
+economy	NN
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+can	POMD
+explain	PUBV INF
+many	QUAN JJ
+social	JJ
+aspects	NN
+such	JJ
+as	PIN CONJ PREP
+urbanisation	NOMZ
+,	
+agriculture	NN
+,	
+technological	JJ
+advances	NN
+and	ANDC CCONJ
+so	RB
+on	PIN STPR PREP
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+13	NUM
+)	
+.	
+Investigation	NOMZ CAP
+has	VPRT PEAS
+resulted	
+in	PIN CONJ PREP
+two	NUM
+main	JJ
+schools	NN
+of	PIN PREP
+thought	PRIV NN
+concerning	GER WZPRES PGAS
+the	ART DET
+state	PUBV NN
+of	PIN PREP
+the	ART DET
+economy	NN
+.	
+One	CAP NUM
+group	NN
+,	
+including	PRESP PGAS
+the	ART DET
+historian	NNP
+Rostovtzeff	CAP NNP
+,	
+claim	VPRT PUBV
+the	ART DET
+economy	NN
+was	VBD AUXB
+actually	RB
+much	QUAN RB
+like	PIN PREP
+that	DEMP DET
+experienced	
+in	PIN CONJ PREP
+the	ART DET
+Western	JJ CAP
+world	NN
+today	TIME NN
+.	
+The	ART CAP DET
+second	JJ
+,	
+led	PASTP
+by	PIN PREP
+Finley	CAP NNP
+and	PHC CCONJ
+Jones	CAP NNP
+,	
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+was	VBD AUXB
+much	QUAN RB
+more	RB EMPH CMADJ
+humble	JJ
+.	
+Agriculture	NN CAP
+was	BEMA VBD AUXB
+at	PIN PREP
+its	PIT PRP SBJP
+centre	NN
+and	PHC CCONJ
+towns	NN
+never	RB
+developed	VBD
+into	PIN PREP
+large	JJ
+-	
+scale	NN
+industrial	JJ
+areas	NN
+financed	WZPAST
+by	PIN PREP
+trade	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+14	NUM
+)	
+.	
+Firstly	RB CAP
+considering	GER PRIV PGAS
+samian	JJ
+ware	NN
+,	
+for	PIN PREP
+a	ART DET INDA
+long	JJ
+time	NN
+it	PIT PRP SBJP
+appears	VPRT SMP
+that	PIN THVC SCONJ PREP
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+the	ART DET
+general	JJ
+abundance	NN
+of	PIN PREP
+pottery	NN
+,	
+the	ART DET
+area	NN
+seems	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+been	PASS AUXB
+disregarded	
+compared	
+to	PIN PREP
+others	NN
+linked	WZPAST
+to	PIN PREP
+economic	JJ
+factors	NN
+.	
+However	RB CONJ CAP
+pottery	NN
+does	VPRT EMPH
+allow	SUAV INF
+"	QUOT
+a	ART DET INDA
+unique	JJ
+opportunity	NOMZ
+to	PIN TO PREP
+apply	INF
+archaeology	NN
+"	QUOT
+to	PIN PREP
+the	ART DET
+field	NN
+of	PIN PREP
+economics	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+156	NUM
+)	
+,	
+especially	RB
+through	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+samian	NNP
+as	RB CONJ
+much	QUAN RB
+more	JJ EMPH CMADJ
+is	PASS VPRT AUXB
+known	PRIV
+about	PIN PREP
+it	PIT PRP SBJP
+than	PIN PREP
+other	JJ
+,	
+perhaps	RB
+hand	NN
+-	
+made	
+ceramic	JJ
+items	NN
+(	
+Peacock	CAP NNP
+1982	NUM
+:	
+75	NUM
+)	
+.	
+There	EX CAP
+are	VPRT AUXB
+several	QUAN JJ
+areas	NN
+that	TOBJ WHOBJ WH
+samian	NNP
+can	POMD
+provide	INF
+information	NOMZ
+about	PIN STPR PREP
+.	
+Firstly	RB CAP
+,	
+the	ART DET
+development	NOMZ
+of	PIN PREP
+the	ART DET
+industry	NN
+.	
+To	PIN TO CAP PREP
+answer	INF
+economic	JJ
+questions	NOMZ
+,	
+typology	NN
+and	PHC CCONJ
+growth	NN
+and	PHC CCONJ
+decline	NN
+over	PIN PREP
+the	ART DET
+period	NN
+must	NEMD
+be	PASS AUXB INF
+understood	PRIV
+if	COND PIN SCONJ PREP
+the	ART DET
+tableware	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+act	INF
+as	PIN CONJ PREP
+an	ART DET INDA
+indicator	NN
+.	
+Forms	NN CAP
+of	PIN PREP
+samian	NNP
+were	PASS VBD AUXB
+standardised	
+,	
+therefore	RB CONJ
+a	ART DET INDA
+typology	NN
+can	POMD
+be	PASS AUXB INF
+allotted	
+.	
+However	RB CONJ CAP
+variations	NOMZ
+were	PASS VBD AUXB
+made	
+at	PIN PREP
+different	JJ
+places	NN
+and	PHC CCONJ
+times	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+157	NUM
+-	
+158	NUM
+)	
+.	
+This	DEMP CAP DET
+allows	VPRT SUAV
+for	PIN PREP
+conclusions	NOMZ
+of	PIN PREP
+how	RB SCONJ WH
+much	QUAN JJ
+was	PASS VBD AUXB
+produced	
+,	
+how	RB WHQU SCONJ WH
+much	QUAN JJ
+was	PASS VBD AUXB
+traded	
+and	ANDC CCONJ
+where	RB SCONJ WH
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+traded	
+to	PIN STPR PREP
+.	
+Samian	CAP NNP
+was	PASS VBD AUXB
+found	PRIV
+to	PIN TO PREP
+have	PEAS INF
+moved	SUAV
+long	JJ
+distances	NN
+having	WZPRES PEAS PGAS
+originated	
+from	PIN PREP
+only	DWNT RB
+a	ART DET INDA
+few	QUAN JJ
+production	NOMZ
+centres	NN
+(	
+Peacock	CAP NNP
+1982	NUM
+:	
+161	NUM
+)	
+.	
+Simplification	NOMZ CAP
+of	PIN PREP
+samian	NNP
+in	PIN CONJ PREP
+the	ART DET
+later	JJ TIME
+Roman	JJ CAP
+periods	NN
+appears	VPRT SMP
+to	PIN TO PREP
+suggest	PUBV SUAV INF
+that	PIN THVC SCONJ PREP
+speed	NN
+of	PIN PREP
+production	NOMZ
+had	VBD PEAS
+become	
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+factor	NN
+(	
+Greene	CAP NNP
+1978	NUM
+:	
+57	NUM
+)	
+.	
+Indeed	RB CAP
+by	PIN PREP
+the	ART DET
+fourth	JJ
+century	NN
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+noted	PRIV
+that	PIN THVC SCONJ PREP
+quality	NOMZ
+and	PHC CCONJ
+care	NN
+,	
+especially	RB
+in	PIN CONJ PREP
+the	ART DET
+native	JJ
+regions	NN
+had	VBD PEAS
+declined	
+(	
+Fulford	CAP NNP
+1978	NUM
+:	
+59	NUM
+)	
+.	
+Scale	NN CAP
+of	PIN PREP
+production	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+further	RB
+important	JJ
+economic	JJ
+feature	NN
+that	TSUB WHSUB WH
+needs	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+examined	
+.	
+Investigations	NOMZ CAP
+into	PIN PREP
+how	RB SCONJ WH
+many	QUAN JJ
+workshops	NN
+there	EX
+were	VBD AUXB
+and	CCONJ
+their	TPP3 PRP SBJP
+size	NN
+,	
+established	PRIV
+"	QUOT
+by	PIN PREP
+the	ART DET
+number	NN
+of	PIN PREP
+slave	NN
+names	NN
+associated	WZPAST
+with	PIN PREP
+a	ART DET INDA
+single	JJ
+owner	NN
+"	QUOT
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+158	NUM
+)	
+,	
+can	POMD
+lead	INF
+to	PIN PREP
+figures	NN
+of	PIN PREP
+production	NOMZ
+,	
+therefore	RB CONJ
+can	POMD
+gauge	INF
+the	ART DET
+significance	NN
+of	PIN PREP
+samian	JJ
+ware	NN
+to	PIN PREP
+the	ART DET
+Roman	JJ CAP
+economy	NN
+.	
+Kilns	CAP NNP
+can	POMD SPAU
+also	RB
+provide	INF
+numerical	JJ
+knowledge	NN
+to	PIN TO PREP
+aid	INF
+estimates	PRIV NN
+of	PIN PREP
+levels	NN
+of	PIN PREP
+production	NOMZ
+(	
+Peacock	CAP NNP
+1982	NUM
+:	
+123	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+known	PRIV
+through	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+samian	NNP
+found	VBD PRIV
+,	
+how	RB SCONJ WH
+the	ART DET
+industry	NN
+moved	VBD SUAV
+its	PIT PRP SBJP
+way	NN
+through	PIN PREP
+Western	CAP NNP
+Europe	CAP NNP
+.	
+Originally	RB TIME CAP
+Arretine	JJ CAP
+ware	NN
+was	PASS VBD AUXB
+produced	
+in	PIN CONJ PREP
+Arezzo	CAP NNP
+,	
+Italy	CAP NNP
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+thought	PRIV
+potters	NN
+from	PIN PREP
+here	RB
+established	VBD PRIV
+the	ART DET
+first	JJ
+kiln	NN
+sites	NN
+in	PIN CONJ PREP
+southern	JJ
+Gaul	CAP NNP
+.	
+Later	RB TIME CAP
+sites	NN
+began	VBD
+in	PIN CONJ PREP
+central	JJ
+Gaul	CAP NNP
+followed	
+by	PIN PREP
+smaller	JJ CMADJ
+ones	NN
+in	PIN CONJ PREP
+eastern	JJ
+Gaul	CAP NNP
+.	
+A	ART CAP DET INDA
+pottery	NN
+kiln	NN
+has	VPRT PEAS
+been	PASS AUXB
+discovered	PRIV
+in	PIN CONJ PREP
+Britain	CAP NNP
+at	PIN PREP
+Colchester	CAP NNP
+but	CCONJ
+it	PIT PRP SBJP
+was	VBD AUXB
+making	PGAS
+a	ART DET INDA
+much	QUAN RB
+more	RB EMPH CMADJ
+primitive	JJ
+style	NN
+of	PIN PREP
+samian	NNP
+(	
+Hartley	CAP NNP
+1969	NUM
+:	
+236	NUM
+-	
+239	NUM
+)	
+.	
+A	ART CAP DET INDA
+general	JJ
+observation	NOMZ
+made	
+,	
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+further	RB CMADJ
+away	RB PLACE
+the	ART DET
+production	NOMZ
+moved	VBD SUAV
+away	RB PLACE
+from	PIN PREP
+Italy	CAP NNP
+the	ART DET
+larger	JJ CMADJ
+the	ART DET
+decline	NN
+in	PIN CONJ PREP
+quality	NOMZ
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+160	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+increasingly	RB
+the	ART DET
+industry	NN
+did	VBD EMPH
+get	INF
+taken	
+away	RB PLACE
+from	PIN PREP
+Italy	CAP NNP
+by	PIN PREP
+its	PIT PRP SBJP
+provinces	NN
+as	PIN CONJ PREP
+ironically	RB
+products	NN
+from	PIN PREP
+Gaul	CAP NNP
+were	PASS VBD SPAU AUXB
+most	RB EMPH SPADJ
+sought	
+after	RB
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+161	NUM
+)	
+.	
+This	DEMP CAP DET
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+not	XX0 RB
+all	QUAN DET
+samian	JJ
+ware	NN
+workshops	NN
+were	PASS VBD SPAU AUXB
+economically	RB
+linked	
+,	
+perhaps	RB
+in	PIN CONJ PREP
+the	ART DET
+beginning	NN
+but	CCONJ
+not	XX0 RB
+as	PIN CONJ PREP
+the	ART DET
+competition	NOMZ
+for	PIN PREP
+the	ART DET
+market	NN
+grew	VBD
+(	
+Peacock	CAP NNP
+1982	NUM
+:	
+127	NUM
+)	
+.	
+The	ART CAP DET
+growth	NN
+in	PIN CONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+sites	NN
+does	VPRT PROD SPAU
+not	XX0 RB
+necessarily	RB
+mean	PRIV INF
+a	ART DET INDA
+parallel	JJ
+growth	NN
+in	PIN CONJ PREP
+demand	SUAV NN
+.	
+The	ART CAP DET
+pottery	NN
+at	PIN PREP
+Colchester	CAP NNP
+especially	RB
+,	
+could	POMD
+have	PEAS INF
+signified	PRIV
+difficulties	NN
+in	PIN CONJ PREP
+trade	NN
+or	CCONJ
+transportation	NOMZ
+of	PIN PREP
+ceramics	NN
+from	PIN PREP
+the	ART DET
+continent	NN
+(	
+Hull	NN CAP
+1963	NUM
+:	
+57	NUM
+)	
+.	
+Perhaps	RB CAP
+the	ART DET
+cost	NN
+of	PIN PREP
+samian	NNP
+became	VBD
+too	RB
+much	QUAN JJ
+and	ANDC CCONJ
+so	RB
+to	PIN TO PREP
+make	INF
+it	PIT PRP SBJP
+cheaper	JJ CMADJ
+,	
+rather	RB CONJ
+than	PIN PREP
+import	INF
+it	PIT PRP SBJP
+they	TPP3 PRP SBJP
+began	VBD
+to	PIN TO PREP
+make	INF
+it	PIT PRP SBJP
+locally	RB PLACE
+.	
+This	DEMO CAP DET
+however	RB CONJ
+did	VBD SPAU
+not	XX0 RB
+seem	SMP INF
+to	PIN TO PREP
+apply	INF
+in	PIN CONJ PREP
+Italy	CAP NNP
+,	
+as	PIN CONJ PREP
+people	NN
+appear	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+been	BEMA AUXB
+willing	JJ PRED
+to	PIN TO PREP
+pay	INF
+more	JJ EMPH CMADJ
+for	PIN PREP
+the	ART DET
+imported	
+product	NN
+(	
+Pucci	CAP NNP
+1983	NUM
+:	
+110	NUM
+)	
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+highlighted	
+in	PIN CONJ PREP
+a	ART DET INDA
+discovery	NN
+from	PIN PREP
+Pompeii	CAP NNP
+.	
+A	ART CAP DET INDA
+case	NN
+of	PIN PREP
+samian	JJ
+ware	NN
+from	PIN PREP
+Gaul	CAP NNP
+was	PASS VBD AUXB
+found	PRIV
+freshly	RB
+delivered	
+(	
+Potter	CAP NNP
+1987	NUM
+:	
+169	NUM
+)	
+.	
+Samian	CAP NNP
+can	POMD
+highlight	INF
+other	JJ
+important	JJ
+issues	NN
+surrounding	GER WZPRES PGAS
+trade	NN
+and	PHC CCONJ
+transportation	NOMZ
+including	WZPRES PGAS
+the	ART DET
+extent	NN
+of	PIN PREP
+it	PIT PRP SBJP
+.	
+In	PIN CONJ CAP PREP
+most	JJ EMPH SPADJ
+cases	NN
+pottery	NN
+did	VBD SPAU
+not	XX0 RB
+comprise	INF
+much	QUAN JJ
+of	PIN PREP
+the	ART DET
+cargo	NN
+however	RB CONJ
+;	
+the	ART DET
+economic	JJ
+value	NN
+must	NEMD
+have	PEAS INF
+been	BEMA AUXB
+of	PIN PREP
+some	QUAN DET
+importance	NN
+for	PIN PREP
+samian	JJ
+ware	NN
+to	PIN TO PREP
+have	PEAS INF
+travelled	
+such	JJ
+large	JJ
+distances	NN
+(	
+Pucci	CAP NNP
+1983	NUM
+:	
+111	NUM
+-	
+112	NUM
+)	
+.	
+Wheeler	NN CAP
+claims	VPRT PUBV
+the	ART DET
+distribution	NOMZ
+of	PIN PREP
+tableware	NN
+travelled	VBD
+as	RB CONJ
+far	RB PLACE
+as	PIN CONJ STPR PREP
+,	
+and	ANDC CCONJ
+in	PIN CONJ STPR PREP
+-	
+between	PIN STPR NN PREP
+,	
+Britain	CAP NNP
+and	PHC CCONJ
+India	CAP NNP
+(	
+Wheeler	NN CAP
+:	
+1946	NUM
+:	
+116	NUM
+)	
+.	
+An	ART CAP DET INDA
+argument	NOMZ
+against	PIN PREP
+the	ART DET
+economic	JJ
+value	NN
+of	PIN PREP
+ceramics	NN
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+pottery	NN
+from	PIN PREP
+the	ART DET
+La	CAP NNP
+Graufesenque	CAP NNP
+kiln	NN
+site	NN
+only	DWNT RB
+accomplished	VBD
+as	RB CONJ
+much	QUAN RB
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+did	VBD PROD
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+the	ART DET
+metal	NN
+trade	NN
+from	PIN PREP
+the	ART DET
+region	NN
+(	
+Middleton	CAP NNP
+1980	NUM
+:	
+163	NUM
+)	
+.	
+The	ART CAP DET
+quantities	NN
+traded	WZPAST
+are	BEMA VPRT AUXB
+however	RB CONJ
+extraordinary	JJ
+.	
+In	PIN CONJ CAP PREP
+Romano	JJ CAP
+-	
+British	JJ CAP
+settlements	NOMZ
+for	PIN PREP
+example	NN
+,	
+with	PIN PREP
+few	QUAN JJ
+exceptions	NOMZ
+,	
+examples	NN
+have	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+of	PIN PREP
+samian	NN
+from	PIN PREP
+central	JJ
+Gaul	CAP NNP
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+167	NUM
+)	
+.	
+Why	RB WHQU CAP SCONJ WH
+was	BEMA VBD AUXB
+samian	JJ
+ware	NN
+traded	VBD
+such	JJ
+distances	NN
+?	QUES
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+that	PIN THAC SCONJ PREP
+Romans	CAP NNP
+who	WH
+colonised	VBD
+other	JJ
+areas	NN
+of	PIN PREP
+the	ART DET
+Empire	CAP NNP
+,	
+when	RB SCONJ WH
+leaving	PGAS
+the	ART DET
+army	NN
+for	PIN PREP
+example	NN
+,	
+still	RB
+enjoyed	VBD
+'	CONT QUOT
+home	NN
+comforts	NN
+'	CONT QUOT
+.	
+In	PIN CONJ CAP PREP
+support	NN
+of	PIN PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+statement	NOMZ
+that	TSUB WHSUB WH
+suggests	VPRT PUBV SUAV THATD
+it	PIT PRP SBJP
+was	VBD AUXB
+not	XX0 RB
+only	DWNT RB
+colonists	NN
+who	WHSUB WH
+were	PASS VBD AUXB
+provided	
+for	PIN PREP
+but	CCONJ
+also	RB
+the	ART DET
+people	NN
+on	PIN PREP
+new	JJ
+military	JJ
+bases	NN
+in	PIN CONJ PREP
+the	ART DET
+provinces	NN
+(	
+Potter	NN CAP
+1987	NUM
+:	
+163	NUM
+)	
+.	
+Despite	PIN CAP SCONJ PREP
+all	QUAN DET
+of	PIN PREP
+this	DEMO DET
+evidence	NN
+samian	JJ
+ware	NN
+does	VPRT PROD
+have	INF
+limitations	NOMZ
+,	
+as	PIN CONJ PREP
+pottery	NN
+can	POMD SPAU
+only	DWNT RB
+offer	INF
+a	ART DET INDA
+"	QUOT
+restricted	JJ
+range	NN
+of	PIN PREP
+information	NOMZ
+"	QUOT
+(	
+Pucci	CAP NNP
+1983	NUM
+:	
+107	NUM
+)	
+.	
+The	ART CAP DET
+economic	JJ
+importance	NN
+of	PIN PREP
+tableware	NN
+has	VPRT PEAS
+been	PASS AUXB
+debated	
+and	CCONJ
+is	PASS VPRT AUXB
+thought	PRIV
+not	XX0 RB
+to	PIN TO PREP
+be	BEMA AUXB INF
+an	ART DET INDA
+overly	RB
+significant	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+ancient	JJ
+economy	NN
+(	
+Pucci	CAP NNP
+1983	NUM
+:	
+109	NUM
+)	
+.	
+However	RB CONJ CAP
+one	NUM
+area	NN
+of	PIN PREP
+economic	JJ
+importance	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+study	NN
+of	PIN PREP
+samian	NNP
+does	VPRT EMPH
+play	INF
+an	ART DET INDA
+important	JJ
+role	NN
+in	PIN CONJ PREP
+is	BEMA VPRT AUXB
+its	PIT PRP SBJP
+use	NN
+,	
+to	PIN PREP
+an	ART DET INDA
+extent	NN
+,	
+to	PIN TO PREP
+measure	INF
+Romanisation	CAP NNP
+(	
+Hartley	CAP NNP
+1969	NUM
+:	
+235	NUM
+)	
+.	
+Also	RB CAP
+investigation	NOMZ
+into	PIN PREP
+the	ART DET
+extent	NN
+and	PHC CCONJ
+quantity	NOMZ
+of	PIN PREP
+trade	NN
+can	POMD
+be	PASS AUXB INF
+used	
+to	PIN TO PREP
+suggest	PUBV SUAV INF
+times	NN
+of	PIN PREP
+political	JJ
+and/or	CCONJ
+economic	JJ
+crisis	NN
+in	PIN CONJ PREP
+Rome	CAP NNP
+,	
+as	PIN CONJ PREP
+turbulent	JJ
+times	NN
+appear	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+affected	
+samian	JJ
+potteries	NN
+and	PHC CCONJ
+industry	NN
+(	
+Greene	CAP NNP
+1978	NUM
+:	
+57	NUM
+)	
+.	
+The	ART CAP DET
+second	JJ
+area	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+discussed	
+,	
+shipwrecks	NN
+can	POMD
+of	PIN PREP
+course	NN
+be	PASS AUXB INF
+linked	
+to	PIN PREP
+samian	NNP
+ware	NN
+as	PIN CONJ PREP
+the	ART DET
+preferred	JJ SUAV
+method	NN
+of	PIN PREP
+transportation	NOMZ
+was	BEMA VBD AUXB
+by	PIN PREP
+sea	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+the	ART DET
+famous	JJ
+samian	JJ
+wreck	NN
+in	PIN CONJ PREP
+the	ART DET
+Thames	CAP NNP
+estuary	JJ
+at	PIN PREP
+Pudding	CAP NNP
+Pan	CAP NNP
+Rock	CAP NNP
+(	
+Smith	CAP NNP
+1907	NUM
+:	
+158	NUM
+)	
+and	ANDC CCONJ
+another	DET
+at	PIN PREP
+Riou	CAP NNP
+that	DEMO WH
+indeed	RB
+carried	VBD
+more	JJ EMPH CMADJ
+pottery	NN
+than	PIN PREP
+other	JJ
+goods	NN
+(	
+Pucci	CAP NNP
+1983	NUM
+:	
+111	NUM
+)	
+.	
+Shipwrecks	NN CAP
+have	VPRT PEAS SPAU
+also	RB
+proved	PRIV
+a	ART DET INDA
+valuable	JJ
+source	NN
+of	PIN PREP
+information	NOMZ
+concerning	GER WZPRES PGAS
+the	ART DET
+understanding	GER PRIV
+of	PIN PREP
+the	ART DET
+Roman	JJ CAP
+economy	NN
+.	
+Especially	RB CAP
+as	PIN CONJ PREP
+some	QUAN DET
+reveal	VPRT PRIV
+parts	NN
+of	PIN PREP
+the	ART DET
+cargo	NN
+that	TSUB WHSUB WH
+otherwise	RB CONJ
+might	POMD SPAU
+not	XX0 RB
+have	PEAS INF
+survived	
+if	COND PIN SCONJ PREP
+on	PIN PREP
+land	NN
+(	
+Fulford	CAP NNP
+1978	NUM
+:	
+59	NUM
+)	
+.	
+Again	RB TIME CAP
+many	QUAN JJ
+aspects	NN
+concerning	GER WZPRES PGAS
+shipping	NN
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+investigated	
+because	CAUS PIN SCONJ PREP
+its	PIT PRP SBJP
+cost	NN
+,	
+type	NN
+and	PHC CCONJ
+speed	NN
+are	BEMA VPRT AUXB
+essential	JJ
+influences	NN
+on	PIN PREP
+any	QUAN DET
+economy	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+17	NUM
+)	
+.	
+Firstly	RB CAP
+shipwrecks	NN
+can	POMD SPAU
+obviously	RB
+reveal	PRIV INF
+the	ART DET
+type	NN
+of	PIN PREP
+cargo	NN
+often	RB
+on	PIN PREP
+board	NN
+merchant	NN
+ships	NN
+.	
+Complete	CAP NNP
+cargoes	VPRT
+can	POMD
+be	PASS AUXB INF
+found	PRIV
+as	PIN CONJ PREP
+ships	NN
+can	POMD
+be	PASS AUXB INF
+preserved	
+wholly	RB
+if	COND PIN SCONJ PREP
+in	PIN CONJ PREP
+water	NN
+-	
+logged	
+conditions	NOMZ
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+18	NUM
+)	
+.	
+Trade	NN CAP
+of	PIN PREP
+food	NN
+stuffs	NN
+,	
+wine	NN
+,	
+oil	NN
+,	
+metal	NN
+and	PHC CCONJ
+pottery	NN
+can	POMD
+be	PASS BYPA AUXB INF
+measured	
+by	PIN PREP
+the	ART DET
+surviving	PGAS
+ceramics	NN
+,	
+amphorae	NN
+and	PHC CCONJ
+ingots	NN
+(	
+Greene	CAP NNP
+1993	NUM
+:	
+18	NUM
+)	
+.	
+Evidence	NN CAP
+for	PIN PREP
+the	ART DET
+type	NN
+of	PIN PREP
+cargo	NN
+has	VPRT PEAS SPAU
+also	RB
+been	PASS AUXB
+suggested	PUBV SUAV
+through	PIN PREP
+pictorial	JJ
+depictions	NOMZ
+on	PIN PREP
+a	ART DET INDA
+tombstone	NN
+found	PRIV WZPAST
+in	PIN CONJ PREP
+Mainz	CAP NNP
+.	
+Barrels	NN CAP
+,	
+presumably	RB
+for	PIN PREP
+wine	NN
+from	PIN PREP
+the	ART DET
+Germanic	JJ CAP
+regions	NN
+and	PHC CCONJ
+sacks	NN
+for	PIN PREP
+grain	NN
+have	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+in	PIN CONJ PREP
+the	ART DET
+iconography	NN
+(	
+Ellmers	NN CAP
+1978	NUM
+:	
+12	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+mostly	RB
+amphorae	NN
+that	TSUB WHSUB WH
+survive	VPRT
+in	PIN CONJ PREP
+wrecks	NN
+however	RB CONJ
+compared	
+to	PIN PREP
+barrels	NN
+and	PHC CCONJ
+sacks	NN
+and	ANDC CCONJ
+so	RB
+evidence	NN
+could	POMD
+be	PASS AUXB INF
+considered	PRIV
+biased	JJ
+(	
+Parker	CAP NNP
+1980	NUM
+:	
+50	NUM
+)	
+.	
+The	ART CAP DET
+quantity	NOMZ
+of	PIN PREP
+goods	NN
+that	TSUB WHSUB WH
+could	POMD
+be	PASS AUXB INF
+transported	
+is	BEMA VPRT AUXB
+another	DET
+obvious	JJ
+question	NOMZ
+.	
+There	EX CAP
+has	VPRT PEAS
+been	BEMA AUXB
+a	ART DET INDA
+range	NN
+in	PIN CONJ PREP
+the	ART DET
+size	NN
+of	PIN PREP
+ships	NN
+either	CCONJ
+found	PRIV
+wrecked	JJ
+or	CCONJ
+in	PIN CONJ PREP
+historic	JJ
+descriptions	NOMZ
+.	
+The	ART CAP DET
+majority	NOMZ
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+estimated	PRIV
+could	POMD
+carry	INF
+between	PIN PREP
+one	NUM
+hundred	NUM
+and	CCONJ
+one	NUM
+hundred	NUM
+and	CCONJ
+fifty	NUM
+tons	NN
+.	
+The	ART CAP DET
+largest	JJ SPADJ
+,	
+the	ART DET
+Isis	NN CAP
+,	
+is	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+have	PEAS INF
+held	PRIV
+up	PIN PREP
+to	PIN PREP
+one	NUM
+thousand	NUM
+two	NUM
+hundred	NUM
+tons	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+24	NUM
+-	
+25	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+termed	
+a	ART DET INDA
+"	QUOT
+super	JJ
+-	JJ
+freighter	INF
+"	QUOT
+(	
+White	CAP NNP
+1984	NUM
+:	
+212	NUM
+)	
+.	
+These	DEMO CAP DET
+capacity	NOMZ
+estimates	PRIV NN
+are	PASS VPRT AUXB
+made	
+possible	JJ
+through	PIN PREP
+the	ART DET
+improvements	NOMZ
+in	PIN CONJ PREP
+underwater	JJ
+archaeology	NN
+(	
+White	CAP NNP
+1984	NUM
+:	
+145	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+not	XX0 RB
+only	DWNT RB
+capacity	NOMZ
+that	TSUB WHSUB WH
+can	POMD
+be	PASS AUXB INF
+estimated	PRIV
+through	PIN PREP
+wreckages	NN
+but	CCONJ
+also	RB
+the	ART DET
+ancient	JJ
+trade	NN
+routes	NN
+can	POMD
+be	PASS AUXB INF
+established	PRIV
+.	
+Sea	CAP NNP
+trade	NN
+appears	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+flourished	
+under	PIN PREP
+the	ART DET
+reign	NN
+of	PIN PREP
+Augustus	CAP NNP
+as	PIN CONJ PREP
+demand	SUAV NN
+for	PIN PREP
+foreign	JJ
+goods	NN
+grew	VBD
+and	CCONJ
+land	NN
+transportation	NOMZ
+was	BEMA VBD AUXB
+expensive	JJ PRED
+and	PHC CCONJ
+dangerous	JJ PRED
+(	
+Parker	CAP NNP
+1980	NUM
+:	
+54	NUM
+)	
+.	
+The	ART CAP DET
+study	NN
+and	PHC CCONJ
+charter	NN
+of	PIN PREP
+dates	NN
+of	PIN PREP
+wrecks	NN
+can	POMD
+help	INF
+establish	PRIV INF
+how	RB WHCL SCONJ WH
+and	PHC ANDC CCONJ
+when	RB SCONJ WH
+trade	NN
+grew	VBD
+in	PIN CONJ PREP
+size	NN
+and	PHC CCONJ
+destination	NOMZ
+(	
+Parker	CAP NNP
+1980	NUM
+:	
+50	NUM
+)	
+.	
+Many	QUAN JJ CAP
+wrecks	NN
+lie	VPRT
+within	PIN PREP
+the	ART DET
+Mediterranean	CAP NNP
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+18	NUM
+)	
+with	PIN PREP
+many	QUAN JJ
+on	PIN PREP
+traditional	JJ
+Eastern	JJ CAP
+routes	NN
+(	
+Throckmorton	CAP NNP
+1972	NUM
+:	
+75	NUM
+)	
+.	
+There	EX CAP
+are	VPRT AUXB
+many	QUAN JJ PRED
+well	RB
+known	PRIV
+case	NN
+studies	NN
+that	TSUB WHSUB WH
+illustrate	VPRT
+all	QUAN DET
+of	PIN PREP
+the	ART DET
+aforementioned	JJ
+aspects	NN
+.	
+The	ART CAP DET
+shipwreck	NN
+at	PIN PREP
+Madrague	CAP NNP
+de	X
+Giens	CAP NNP
+in	PIN CONJ PREP
+Southern	CAP NNP
+France	CAP NNP
+was	PASS VBD BYPA AUXB
+excavated	
+by	PIN PREP
+Tchernia	CAP NNP
+.	
+Much	QUAN JJ CAP
+of	PIN PREP
+the	ART DET
+cargo	NN
+had	VBD PEAS
+survived	
+and	CCONJ
+the	ART DET
+bulk	NN
+was	PASS VBD AUXB
+found	PRIV
+to	PIN TO PREP
+be	AUXB INF
+Dressel	CAP NNP
+1B	JJ
+amphorae	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+26	NUM
+)	
+,	
+known	PASTP PRIV
+for	PIN PREP
+carrying	PGAS
+Italian	JJ CAP
+wine	NN
+(	
+Potter	NN CAP
+1987	NUM
+:	
+155	NUM
+)	
+.	
+There	EX CAP
+was	VBD AUXB
+also	RB
+fine	JJ
+and	PHC CCONJ
+coarse	JJ
+ceramics	NN
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+26	NUM
+)	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+grapes	NN
+(	
+Potter	NN CAP
+1987	NUM
+:	
+157	NUM
+)	
+.	
+The	ART CAP DET
+vessel	NN
+and	PHC CCONJ
+cargo	NN
+remained	VBD
+largely	RB
+intact	JJ
+therefore	RB CONJ
+estimates	PRIV NN
+of	PIN PREP
+capacity	NOMZ
+were	BEMA VBD AUXB
+possible	JJ PRED
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+25	NUM
+)	
+.	
+A	ART CAP DET INDA
+trade	NN
+route	NN
+was	PASS VBD AUXB
+established	PRIV
+as	PIN CONJ PREP
+many	QUAN JJ
+of	PIN PREP
+the	ART DET
+wine	NN
+vessels	NN
+bore	VBD
+the	ART DET
+stamp	NN
+P.	CAP NNP
+VEVEIVS	CAP NNP
+PAPVS	CAP NNP
+.	
+His	TPP3 CAP PRP SBJP
+kiln	NN
+site	NN
+is	PASS VPRT AUXB
+known	PRIV
+to	PIN TO PREP
+have	PEAS INF
+been	BEMA AUXB
+south	RB PLACE
+of	PIN PREP
+Rome	CAP NNP
+in	PIN CONJ PREP
+Terracina	CAP NNP
+(	
+Parker	CAP NNP
+1980	NUM
+:	
+53	NUM
+-	
+54	NUM
+)	
+.	
+A	ART CAP DET INDA
+nearby	JJ PLACE
+port	NN
+is	BEMA VPRT AUXB
+therefore	RB CONJ
+the	ART DET
+most	RB EMPH SPADJ
+likely	JJ
+place	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+ship	NN
+last	RB
+docked	VBD
+before	PIN PREP
+setting	PGAS
+out	PIN PREP
+for	PIN PREP
+its	PIT PRP SBJP
+next	JJ
+destination	NOMZ
+(	
+Tchernia	CAP NNP
+et.al	NNP
+.	
+1978	NUM
+:	
+26	NUM
+)	
+.	
+A	ART CAP DET INDA
+further	JJ
+wreckage	NN
+example	NN
+was	PASS VBD BYPA AUXB
+investigated	
+by	PIN PREP
+Nino	CAP NNP
+Lamboglia	CAP NNP
+.	
+It	PIT CAP PRP SBJP
+sunk	VBD
+close	RB
+to	PIN PREP
+Albenga	CAP NNP
+.	
+Again	RB TIME CAP
+the	ART DET
+cargo	NN
+was	VBD AUXB
+mostly	RB
+amphorae	NN
+and	CCONJ
+the	ART DET
+estimated	PRIV THATD
+capacity	NOMZ
+revealed	VBD PRIV
+a	ART DET INDA
+modest	JJ
+vessel	NN
+that	TSUB WHSUB WH
+could	POMD
+carry	INF
+up	PIN PREP
+to	PIN PREP
+four	NUM
+hundred	NUM
+and	CCONJ
+fifty	NUM
+tons	NN
+(	
+Potter	NN CAP
+1987	NUM
+:	
+155	NUM
+)	
+.	
+Shipwrecks	NN CAP
+however	RB CONJ
+do	VPRT PROD
+have	INF
+limitations	NOMZ
+concerning	GER WZPRES PGAS
+how	RB SCONJ WH
+much	QUAN JJ
+economic	JJ
+information	NOMZ
+they	TPP3 PRP SBJP
+can	POMD
+reveal	PRIV INF
+.	
+There	EX CAP
+is	VPRT AUXB
+biased	JJ
+evidence	NN
+as	PIN CONJ PREP
+mostly	RB
+cargoes	NN
+of	PIN PREP
+liquids	NN
+leave	INF
+their	TPP3 PRP SBJP
+presence	NN
+on	PIN PREP
+the	ART DET
+archaeological	JJ
+record	NN
+(	
+Casson	CAP NNP
+1971	NUM
+:	
+211	NUM
+)	
+.	
+Also	RB CAP
+concentrations	NOMZ
+of	PIN PREP
+wrecks	NN
+found	PRIV
+might	POMD SPAU
+not	XX0 RB
+necessarily	RB
+mean	PRIV INF
+more	JJ EMPH CMADJ
+trade	NN
+along	PIN PREP
+that	DEMO DET
+route	NN
+than	PIN PREP
+any	QUAN DET
+other	JJ
+.	
+It	PIT CAP PRP SBJP
+could	POMD
+have	PEAS INF
+been	BEMA AUXB
+a	ART DET INDA
+more	RB EMPH CMADJ
+treacherous	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+sea	NN
+but	CCONJ
+also	RB
+there	EX
+could	POMD
+have	PEAS INF
+been	AUXB
+"	QUOT
+more	RB EMPH CMADJ
+intensive	JJ
+diving	NN
+"	QUOT
+due	JJ
+to	PIN PREP
+easier	JJ CMADJ
+conditions	NOMZ
+,	
+for	PIN PREP
+example	NN
+off	PIN PREP
+the	ART DET
+south	PLACE NN
+of	PIN PREP
+France	CAP NNP
+(	
+Parker	CAP NNP
+1980	NUM
+:	
+50	NUM
+)	
+.	
+However	RB CONJ CAP
+the	ART DET
+expansion	NOMZ
+of	PIN PREP
+underwater	JJ
+archaeology	NN
+has	VPRT PEAS
+lead	
+to	PIN PREP
+a	ART DET INDA
+much	QUAN RB
+greater	JJ CMADJ
+knowledge	NN
+then	RB
+was	PASS VBD SPAU AUXB
+previously	RB TIME
+held	PRIV
+and	ANDC CCONJ
+so	RB
+findings	NN
+can	POMD
+be	BEMA AUXB INF
+relatively	RB
+conclusive	JJ
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+the	ART DET
+Finley	CAP NNP
+/	
+Jones	CAP NNP
+model	NN
+of	PIN PREP
+the	ART DET
+Roman	JJ CAP
+economy	NN
+does	VPRT EMPH
+appear	SMP INF
+to	PIN TO PREP
+fit	INF
+better	JJ CMADJ
+than	PIN PREP
+the	ART DET
+'	CONT QUOT
+modernising	GER
+'	CONT QUOT
+theory	NN
+through	PIN PREP
+the	ART DET
+two	NUM
+aspects	NN
+studied	
+.	
+Modern	JJ CAP
+economic	JJ
+theories	NN
+can	POMD
+not	XX0 RB
+easily	RB
+,	
+or	CCONJ
+without	PIN PREP
+problems	NN
+,	
+be	PASS AUXB INF
+applied	
+to	PIN PREP
+the	ART DET
+ancient	JJ
+world	NN
+(	
+Potter	CAP NNP
+1987	NUM
+:	
+171	NUM
+)	
+.	
+Finley	CAP NNP
+goes	VPRT
+as	RB CONJ
+far	RB PLACE
+as	PIN CONJ PREP
+to	PIN TO PREP
+say	PUBV INF
+the	ART DET
+Romans	CAP NNP
+had	VBD
+no	SYNE DET
+concept	NN
+of	PIN PREP
+economy	NN
+,	
+therefore	RB CONJ
+did	VBD SPAU
+not	XX0 RB
+possess	INF
+the	ART DET
+"	QUOT
+conceptual	JJ
+elements	NOMZ
+"	QUOT
+which	SERE DET WH
+make	VPRT
+one	NUM
+(	
+Finley	CAP NNP
+1992	NUM
+:	
+21	NUM
+)	
+.	
+However	RB CONJ CAP
+the	ART DET
+more	RB EMPH CMADJ
+open	JJ
+version	NOMZ
+of	PIN PREP
+the	ART DET
+Finely	CAP NNP
+/	
+Jones	CAP NNP
+model	NN
+offered	WZPAST
+by	PIN PREP
+Hopkins	CAP NNP
+is	VPRT AUXB
+probably	RB
+,	
+overall	RB
+the	ART DET
+best	JJ SPADJ
+to	PIN TO PREP
+apply	INF
+.	
+It	PIT CAP PRP SBJP
+allows	VPRT SUAV
+manoeuvrability	NOMZ
+and	ANDC CCONJ
+therefore	RB CONJ
+the	ART DET
+aspects	NN
+discovered	VBD PRIV THATD
+that	DEMP WH
+could	POMD SPAU
+possibly	RB
+suggest	PUBV SUAV INF
+a	ART DET INDA
+lean	NN
+more	JJ EMPH CMADJ
+towards	PIN PREP
+the	ART DET
+modernising	GER
+model	NN
+can	POMD
+be	PASS AUXB INF
+explained	PUBV
+(	
+Greene	CAP NNP
+1992	NUM
+:	
+14	NUM
+)	
+.	
+However	RB CONJ CAP
+to	PIN TO PREP
+get	INF
+a	ART DET INDA
+full	JJ
+idea	NN
+of	PIN PREP
+the	ART DET
+economy	NN
+,	
+more	JJ EMPH CMADJ
+than	PIN PREP
+just	RB EMPH
+two	NUM
+elements	NOMZ
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+investigated	
+.	
+Therefore	RB CONJ CAP
+areas	NN
+such	JJ
+as	PIN CONJ PREP
+coinage	NN
+and	PHC CCONJ
+amphorae	NN
+should	NEMD
+be	PASS AUXB INF
+considered	PRIV
+simultaneously	RB TIME
+with	PIN PREP
+those	DEMO DET
+already	RB
+looked	VBD
+at	PIN STPR PREP
+.	
+Even	RB CAP
+then	RB
+only	DWNT RB
+cautious	JJ
+conclusions	NOMZ
+can	POMD
+be	PASS AUXB INF
+made	
+due	JJ
+to	PIN PREP
+the	ART DET
+erratic	JJ
+nature	NN
+of	PIN PREP
+the	ART DET
+evidence	NN
+(	
+Potter	NN CAP
+1987	NUM
+:	
+171	NUM
+)	
+.	

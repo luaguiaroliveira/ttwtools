@@ -1,0 +1,223 @@
+# filename: CorIFA-UFMG-B1.Int.Ne.AEss.2015-2.0532.0309.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B1.Int	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2015	CAP NNP
+-	
+2.0532.0309	NUM
+>	
+  	
+The	ART CAP DET
+graph	NN
+showed	VBD PRIV
+gives	VPRT
+information	NOMZ
+about	PIN PREP
+the	ART DET
+percent	NN
+of	PIN PREP
+American	JJ CAP
+adults	NN
+ever	RB
+divorced	
+,	
+by	PIN PREP
+age	NN
+and	PHC CCONJ
+gender	NN
+.	
+In	PIN CONJ CAP PREP
+general	JJ
+women	NN
+get	VPRT
+more	JJ EMPH CMADJ
+divorce	NN
+and	CCONJ
+early	RB TIME
+than	PIN PREP
+men	NN
+in	PIN CONJ PREP
+all	QUAN DET
+the	ART DET
+generations	NOMZ
+.	
+This	DEMP CAP DET
+happens	VPRT
+especialy	NN
+beacause	INF
+the	ART DET
+modernization	NOMZ
+of	PIN PREP
+society	NN
+and	CCONJ
+the	ART DET
+Second	CAP NNP
+World	CAP NNP
+War	CAP NNP
+,	
+when	RB SCONJ WH
+the	ART DET
+couples	NN
+needed	VBD
+to	PIN TO PREP
+be	PASS AUXB INF
+separareted	
+when	RB SCONJ WH
+one	NUM
+of	PIN PREP
+then	RB
+,	
+usually	RB
+a	ART DET INDA
+men	NN
+,	
+need	VPRT
+go	INF
+off	PIN PREP
+your	SPP2 PRP SBJP
+home	NN
+to	PIN TO PREP
+fight	INF
+.	
+ 	
+Beteween	CAP
+1940	NUM
+to	PIN PREP
+1949	NUM
+there	EX
+are	VPRT AUXB
+an	ART DET INDA
+higher	JJ CMADJ
+increase	NN
+of	PIN PREP
+divorce	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+'s	VPRT
+does	VPRT SPAU
+n't	XX0 CONT RB
+sustain	INF
+beteween	JJ
+1950	NUM
+-	
+1959	NUM
+when	RB SCONJ WH
+the	ART DET
+divorce	NN
+rate	NN
+tended	VBD
+to	PIN PREP
+mantein	NNP
+,	
+despiste	INF
+to	PIN PREP
+an	ART DET INDA
+decrease	NN
+in	PIN CONJ PREP
+the	ART DET
+rates	NN
+of	PIN PREP
+1950	NUM
+-	
+1954	NUM
+generation	NOMZ
+for	PIN PREP
+women	NN
+in	PIN CONJ PREP
+the	ART DET
+age	NN
+of	PIN PREP
+30	NUM
+,	
+for	PIN PREP
+men	NN
+in	PIN CONJ PREP
+the	ART DET
+same	JJ
+generation	NOMZ
+for	PIN PREP
+the	ART DET
+age	NN
+of	PIN PREP
+35	NUM
+and	CCONJ
+40	NUM
+.	
+Afther	PIN CAP PREP
+this	DEMP DET
+,	
+in	PIN CONJ PREP
+the	ART DET
+generation	NOMZ
+of	PIN PREP
+1960	NUM
+-	
+1964	NUM
+there	EX
+are	VPRT AUXB
+a	ART DET INDA
+decrese	NN
+of	PIN PREP
+divorce	NN
+rates	NN
+for	PIN PREP
+women	NN
+and	PHC CCONJ
+men	NN
+in	PIN CONJ PREP
+the	ART DET
+ages	NN
+of	PIN PREP
+30	NUM
+and	CCONJ
+35	NUM
+,	
+but	CCONJ
+this	DEMP DET
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+expressive	JJ
+in	PIN CONJ PREP
+the	ART DET
+age	NN
+of	PIN PREP
+35	NUM
+.	
+For	PIN CAP PREP
+the	ART DET
+generation	NOMZ
+of	PIN PREP
+1970	NUM
+-	
+1974	NUM
+there	EX
+are	VPRT AUXB
+a	ART DET INDA
+descrese	NN
+in	PIN CONJ PREP
+the	ART DET
+divorce	NN
+rates	NN
+,	
+but	CCONJ
+more	RB EMPH CMADJ
+expressive	JJ
+for	PIN PREP
+men	NN
+than	PIN PREP
+the	ART DET
+women	NN
+where	RB WHSUB SCONJ WH
+are	BEMA VPRT AUXB
+a	ART DET INDA
+lightly	RB
+descrese	JJ
+happens	VPRT
+.	

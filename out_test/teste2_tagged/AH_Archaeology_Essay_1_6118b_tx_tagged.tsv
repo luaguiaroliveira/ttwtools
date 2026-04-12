@@ -1,0 +1,2198 @@
+# filename: AH_Archaeology_Essay_1_6118b_tx.txt
+token	tags
+Traditionally	RB CAP
+the	ART DET
+disciplines	NN
+of	PIN PREP
+Science	CAP NNP
+and	PHC CCONJ
+Egyptology	CAP NNP
+only	DWNT RB
+met	VBD
+when	RB SCONJ WH
+the	ART DET
+Egyptologist	CAP NNP
+had	VBD PEAS
+exhausted	
+all	QUAN DET
+of	PIN PREP
+the	ART DET
+sources	NN
+at	PIN PREP
+their	TPP3 PRP SBJP
+disposal	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+answer	INF
+further	JJ
+questions	NOMZ
+,	
+turned	VBD
+to	PIN PREP
+the	ART DET
+natural	JJ
+scientist	NN
+(	
+Germer	CAP NNP
+1986	NUM
+:	
+521	NUM
+)	
+.	
+Findings	NN CAP
+from	PIN PREP
+the	ART DET
+scientific	JJ
+investigation	NOMZ
+of	PIN PREP
+mummies	NN
+,	
+in	PIN CONJ PREP
+many	QUAN JJ
+cases	NN
+should	NEMD SPAU
+not	XX0 RB
+be	AUXB INF
+generalisations	NOMZ
+as	PIN CONJ PREP
+the	ART DET
+quantity	NOMZ
+of	PIN PREP
+cadaver	NN
+found	PRIV
+has	VPRT PEAS
+provided	
+ample	JJ
+examples	NN
+for	PIN PREP
+study	NN
+(	
+David	CAP NNP
+1999	NUM
+:	
+372	NUM
+)	
+.	
+Therefore	RB CONJ CAP
+consequent	JJ
+studies	NN
+of	PIN PREP
+Egyptian	JJ CAP
+mummies	NN
+have	VPRT PEAS
+revealed	PRIV
+many	QUAN JJ
+aspects	NN
+both	DET
+to	PIN TO PREP
+do	PROD INF
+with	PIN PREP
+the	ART DET
+life	NN
+style	NN
+and	PHC CCONJ
+beliefs	NN
+of	PIN PREP
+this	DEMO DET
+ancient	JJ
+culture	NN
+.	
+Concerning	GER CAP PGAS
+life	NN
+style	NN
+,	
+the	ART DET
+corpses	NN
+can	POMD
+relate	INF
+to	PIN PREP
+us	FPP1 PRP SBJP ACCU
+what	WH
+every	QUAN DET
+day	NN
+life	NN
+was	BEMA VBD AUXB
+like	PIN PREP
+for	PIN PREP
+the	ART DET
+ancient	JJ
+Egyptians	CAP NNP
+,	
+what	WH
+they	TPP3 PRP SBJP
+ate	VBD
+,	
+and	ANDC CCONJ
+their	TPP3 PRP SBJP
+health	NN
+,	
+how	RB SCONJ WH
+far	RB PLACE
+they	TPP3 PRP SBJP
+traded	VBD
+for	PIN PREP
+example	NN
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+known	PRIV
+from	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+teeth	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+preliminary	JJ
+diet	NN
+of	PIN PREP
+almost	DWNT RB
+all	QUAN DET
+people	NN
+was	BEMA VBD AUXB
+very	AMP RB
+coarse	JJ
+.	
+Much	QUAN JJ CAP
+food	NN
+was	BEMA VBD AUXB
+likely	JJ PRED
+to	PIN TO PREP
+have	PEAS INF
+contained	
+a	ART DET INDA
+degree	NN
+of	PIN PREP
+sand	NN
+,	
+a	ART DET INDA
+natural	JJ
+hazard	NN
+of	PIN PREP
+the	ART DET
+location	NOMZ
+(	
+Puech	CAP NNP
+1986	NUM
+:	
+239	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+not	XX0 RB
+only	DWNT RB
+teeth	NN
+that	TSUB WHSUB WH
+can	POMD
+show	PRIV INF
+what	WHCL WH
+the	ART DET
+Egyptians	CAP NNP
+ate	VBD
+.	
+The	ART CAP DET
+contents	NN
+in	PIN CONJ PREP
+the	ART DET
+digestive	JJ
+system	NN
+of	PIN PREP
+a	ART DET INDA
+naturally	RB
+mummified	
+body	NN
+were	PASS VBD AUXB
+found	PRIV
+and	PHC CCONJ
+examined	
+(	
+Sandison	CAP NNP
+1986	NUM
+:	
+1	NUM
+)	
+.	
+There	EX CAP
+is	VPRT AUXB
+evidence	NN
+that	PIN DEMO SCONJ PREP
+Egyptians	CAP NNP
+ate	VBD
+meat	NN
+occasionally	RB
+,	
+as	PIN CONJ PREP
+tapeworm	NN
+eggs	NN
+have	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+inside	PIN PLACE PREP
+ROM	CAP NNP
+I	FPP1 CAP NNP
+,	
+suggesting	GER PUBV SUAV PGAS
+that	PIN THVC SCONJ PREP
+undercooked	JJ
+meat	NN
+was	PASS VBD AUXB
+eaten	
+at	PIN PREP
+some	QUAN DET
+point	NN
+.	
+The	ART CAP DET
+implication	NOMZ
+of	PIN PREP
+meat	NN
+eating	WZPRES PGAS
+in	PIN CONJ PREP
+another	DET
+individual	NN
+has	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+as	RB CONJ
+well	RB
+(	
+Millet	CAP NNP
+,	
+Hart	CAP NNP
+,	
+Reyman	CAP NNP
+,	
+Zimmerman	CAP NNP
+,	
+Lewin	CAP NNP
+1980	NUM
+:	
+79	NUM
+)	
+.	
+Teeth	NN CAP
+however	RB CONJ
+,	
+predominately	RB
+show	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+Egyptian	JJ CAP
+diet	NN
+was	BEMA VBD AUXB
+mainly	RB
+vegetarian	JJ
+(	
+Puech	CAP NNP
+1986	NUM
+:	
+240	NUM
+)	
+.	
+Dental	JJ CAP
+studies	NN
+can	POMD
+reveal	PRIV INF
+other	JJ
+things	NN
+such	JJ
+as	PIN CONJ STPR PREP
+"	QUOT
+pathological	JJ
+and	PHC CCONJ
+non	JJ
+-	JJ
+pathological	JJ
+dental	JJ
+abnormalities	NN
+"	QUOT
+(	
+Leek	CAP NNP
+1986	NUM
+:	
+35	NUM
+)	
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+unlike	PIN PREP
+when	RB SCONJ WH
+studying	PGAS
+other	JJ
+ancient	JJ
+corpses	NN
+,	
+mummification	NOMZ
+has	VPRT PEAS
+preserved	
+the	ART DET
+soft	JJ
+tissue	NN
+surrounding	GER WZPRES PGAS
+the	ART DET
+teeth	NN
+as	RB CONJ
+well	RB
+.	
+The	ART CAP DET
+coarse	JJ
+diet	NN
+had	VBD
+a	ART DET INDA
+significant	JJ
+effect	NN
+on	PIN PREP
+the	ART DET
+wear	NN
+of	PIN PREP
+teeth	NN
+.	
+Many	QUAN JJ CAP
+people	NN
+,	
+rich	JJ
+and	PHC CCONJ
+poor	JJ
+were	PASS VBD AUXB
+found	PRIV
+likely	JJ
+to	PIN TO PREP
+have	PEAS INF
+been	PASS AUXB
+inflicted	
+with	PIN PREP
+infections	NOMZ
+and	PHC CCONJ
+abscesses	NN
+in	PIN CONJ PREP
+the	ART DET
+mouth	NN
+as	PIN CONJ PREP
+the	ART DET
+enamel	NNP
+was	PASS VBD AUXB
+worn	
+away	RB PLACE
+(	
+Harris	CAP NNP
+and	PHC CCONJ
+Ponitz	CAP NNP
+1980	NUM
+:	
+45	NUM
+)	
+.	
+Decay	CAP NNP
+and	CCONJ
+cavities	NN
+however	RB CONJ
+were	PASS VBD SPAU AUXB
+rarely	RB
+found	PRIV
+.	
+This	DEMP CAP DET
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+Egyptians	CAP NNP
+generally	RB
+had	VBD
+very	AMP RB
+little	JJ
+sugar	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+diet	NN
+(	
+Harris	CAP NNP
+and	PHC CCONJ
+Ponitz	CAP NNP
+1980	NUM
+:	
+46	NUM
+)	
+.	
+The	ART CAP DET
+body	NN
+can	POMD
+reveal	PRIV INF
+further	JJ
+health	NN
+related	
+issues	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+Steven	CAP NNP
+Snape	CAP NNP
+,	
+compared	PASTP
+to	PIN PREP
+many	QUAN JJ
+other	JJ
+ancient	JJ
+cultures	NN
+,	
+we	FPP1 PRP SBJP
+know	VPRT PRIV
+far	RB PLACE
+more	JJ EMPH CMADJ
+about	PIN PREP
+the	ART DET
+health	NN
+of	PIN PREP
+the	ART DET
+Egyptians	CAP NNP
+due	PIN PREP
+to	PIN PREP
+their	TPP3 PRP SBJP
+preservation	NOMZ
+techniques	NN
+(	
+Snape	CAP NNP
+1998	NUM
+:	
+186	NUM
+)	
+.	
+Examination	NOMZ CAP
+of	PIN PREP
+the	ART DET
+bones	NN
+can	POMD
+reveal	PRIV INF
+how	RB WHCL SCONJ WH
+well	RB
+nourished	JJ
+people	NN
+of	PIN PREP
+the	ART DET
+time	NN
+were	VBD AUXB
+.	
+'	CONT QUOT
+Harris	CAP NNP
+'s	
+lines	NN
+'	CONT QUOT
+,	
+found	PASTP PRIV
+on	PIN PREP
+the	ART DET
+tibia	NN
+,	
+are	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+be	BEMA AUXB INF
+an	ART DET INDA
+indication	NOMZ
+of	PIN PREP
+periods	NN
+of	PIN PREP
+poor	JJ
+health	NN
+and	CCONJ
+have	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+in	PIN CONJ PREP
+many	QUAN JJ
+cases	NN
+(	
+Gray	CAP NNP
+1967	NUM
+:	
+30	NUM
+)	
+.	
+However	RB CONJ CAP
+the	ART DET
+most	RB EMPH SPADJ
+common	JJ
+bone	NN
+affliction	NOMZ
+to	PIN TO PREP
+be	PASS AUXB INF
+found	PRIV
+was	VBD AUXB
+arthritis	NN
+(	
+Sandison	CAP NNP
+1980	NUM
+:	
+36	NUM
+)	
+.	
+Concerning	GER CAP PGAS
+disease	NN
+,	
+evidence	NN
+of	PIN PREP
+tuberculosis	NN
+are	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+have	PEAS INF
+been	PASS AUXB
+discovered	PRIV
+(	
+Morse	CAP NNP
+1964	NUM
+and	CCONJ
+Morse	CAP NNP
+et.al	NNP
+.	
+1964	NUM
+:	
+31	NUM
+)	
+.	
+Also	RB CAP
+the	ART DET
+face	NN
+of	PIN PREP
+Rameses	CAP NNP
+V	CAP NNP
+is	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+show	PRIV INF
+evidence	NN
+of	PIN PREP
+smallpox	NN
+(	
+Sandison	CAP NNP
+1980	NUM
+:	
+33	NUM
+)	
+.	
+Leprosy	NN CAP
+has	VPRT PEAS
+been	PASS SPAU AUXB
+widely	RB
+investigated	
+in	PIN CONJ PREP
+mummies	NN
+from	PIN PREP
+ancient	JJ
+Egypt	CAP NNP
+however	RB CONJ
+,	
+it	PIT PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+determined	PRIV SUAV
+through	PIN PREP
+the	ART DET
+lack	NN
+of	PIN PREP
+clear	JJ
+evidence	NN
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+an	ART DET INDA
+uncommon	JJ
+disease	NN
+(	
+Møller	CAP NNP
+-	
+Christensen	CAP NNP
+1967	NUM
+:	
+31	NUM
+)	
+.	
+A	ART CAP DET INDA
+further	JJ
+hazard	NN
+of	PIN PREP
+living	PGAS
+in	PIN CONJ PREP
+desert	NN
+found	PRIV WZPAST
+through	PIN PREP
+scientific	JJ
+investigation	NOMZ
+is	VPRT AUXB
+sand	NN
+-	
+pneumoconiosis	NN
+.	
+The	ART CAP DET
+lungs	NN
+become	VPRT
+scarred	JJ
+from	PIN PREP
+the	ART DET
+inhalation	NOMZ
+of	PIN PREP
+sand	NN
+(	
+Snape	NN CAP
+1998	NUM
+:	
+187	NUM
+)	
+.	
+Linked	PASTP CAP
+to	PIN PREP
+life	NN
+style	NN
+is	BEMA VPRT AUXB
+the	ART DET
+actual	JJ
+embalmment	NOMZ
+itself	PIT PRP SBJP ACCU
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+said	PUBV
+the	ART DET
+inspiration	NOMZ
+came	VBD
+from	PIN PREP
+an	ART DET INDA
+everyday	JJ
+occurrence	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+drying	NN
+of	PIN PREP
+meat	NN
+and	PHC CCONJ
+fish	NN
+(	
+Peck	NN CAP
+1980	NUM
+:	
+14	NUM
+)	
+.	
+Another	CAP DET
+view	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+discoveries	NN
+of	PIN PREP
+naturally	RB
+mummified	JJ
+cadaver	NN
+by	PIN PREP
+the	ART DET
+ancient	JJ
+Egyptians	CAP NNP
+may	POMD
+have	PEAS INF
+helped	
+to	PIN TO PREP
+develop	INF
+the	ART DET
+method	NN
+(	
+Snape	CAP NNP
+1998	NUM
+:	
+182	NUM
+)	
+.	
+The	ART CAP DET
+process	NN
+however	RB CONJ
+was	VBD AUXB
+obviously	RB
+not	XX0 RB
+fully	AMP RB
+understood	PRIV
+in	PIN CONJ PREP
+the	ART DET
+beginning	NN
+because	CAUS PIN SCONJ PREP
+although	CONC PIN SCONJ PREP
+because	CAUS PIN SCONJ PREP
+the	ART DET
+Egyptians	CAP NNP
+'	CONT QUOT
+protected	
+'	CONT QUOT
+the	ART DET
+body	NN
+with	PIN PREP
+linen	NN
+and	CCONJ
+a	ART DET INDA
+sarcophagus	NN
+,	
+they	TPP3 PRP SBJP
+took	VBD
+away	RB PLACE
+the	ART DET
+crucial	JJ
+element	NOMZ
+of	PIN PREP
+the	ART DET
+natural	JJ
+desiccating	GER PGAS
+sand	NN
+(	
+Snape	NN CAP
+1998	NUM
+:	
+182	NUM
+)	
+.	
+Generally	RB CAP
+the	ART DET
+increase	NN
+in	PIN CONJ PREP
+use	NN
+and	PHC CCONJ
+perfection	NOMZ
+of	PIN PREP
+mummies	NN
+followed	VBD
+a	ART DET INDA
+chronological	JJ
+order	SUAV NN
+;	
+however	RB CONJ
+the	ART DET
+trial	NN
+and	PHC CCONJ
+error	NN
+process	NN
+"	QUOT
+took	VBD
+a	ART DET INDA
+considerable	JJ
+time	NN
+"	QUOT
+(	
+Peck	NN CAP
+1980	NUM
+:	
+18	NUM
+-	
+19	NUM
+)	
+.	
+There	EX CAP
+is	VPRT AUXB
+evidence	NN
+for	PIN PREP
+mummification	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+Early	TIME CAP NNP
+Dynastic	JJ CAP
+Period	CAP NNP
+however	RB CONJ
+by	PIN PREP
+the	ART DET
+Middle	CAP NNP
+Kingdom	CAP NNP
+there	EX
+was	VBD AUXB
+still	RB
+little	JJ
+complete	JJ
+preservation	NOMZ
+(	
+David	CAP NNP
+1999	NUM
+:	
+173	NUM
+)	
+.	
+The	ART CAP DET
+exterior	JJ
+wrappings	NN
+had	VBD PEAS
+progressed	
+significantly	RB
+however	RB CONJ
+little	JJ
+was	PASS VBD AUXB
+done	PROD
+to	PIN TO PREP
+dry	INF
+out	PIN PREP
+the	ART DET
+body	NN
+on	PIN PREP
+the	ART DET
+inside	PLACE NN
+therefore	RB CONJ
+still	RB
+allowing	SUAV PGAS
+decomposition	NOMZ
+(	
+Callender	NN CAP
+2003	NUM
+:	
+170	NUM
+)	
+.	
+During	PIN CAP PREP
+the	ART DET
+New	CAP NNP
+Kingdom	CAP NNP
+and	PHC CCONJ
+Third	CAP NNP
+Intermediate	CAP NNP
+Period	CAP NNP
+mummification	NOMZ
+reached	VBD
+its	PIT PRP SBJP
+height	NN
+with	PIN PREP
+many	QUAN JJ
+surviving	PGAS
+well	RB
+to	PIN PREP
+this	DEMO DET
+day	NN
+(	
+David	CAP NNP
+1999	NUM
+:	
+173	NUM
+)	
+.	
+There	EX CAP
+is	VPRT AUXB
+evidence	NN
+of	PIN PREP
+packing	PGAS
+the	ART DET
+body	NN
+to	PIN TO PREP
+make	INF
+it	PIT PRP SBJP
+appear	SMP INF
+more	JJ EMPH CMADJ
+life	NN
+like	JJ
+and	CCONJ
+placing	PGAS
+artificial	JJ
+eyes	NN
+in	PIN CONJ PREP
+the	ART DET
+orbits	NN
+(	
+Sandison	CAP NNP
+1973	NUM
+:	
+3	NUM
+)	
+.	
+However	RB CONJ CAP
+through	PIN PREP
+the	ART DET
+Late	JJ TIME CAP
+,	
+Ptolemaic	JJ CAP
+and	PHC CCONJ
+Roman	JJ CAP
+Periods	CAP NNP
+there	EX
+was	VBD AUXB
+a	ART DET INDA
+significant	JJ
+decline	NN
+in	PIN CONJ PREP
+the	ART DET
+detail	NN
+paid	WZPAST
+to	PIN PREP
+preservation	NOMZ
+as	PIN CONJ PREP
+people	NN
+appeared	VBD SMP
+to	PIN TO PREP
+have	PEAS INF
+become	
+preoccupied	JJ
+with	PIN PREP
+the	ART DET
+outward	JJ
+decoration	NOMZ
+and	PHC CCONJ
+features	NN
+(	
+David	CAP NNP
+1999	NUM
+:	
+174	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+was	VBD AUXB
+not	XX0 RB
+only	DWNT RB
+during	PIN PREP
+the	ART DET
+later	JJ TIME
+periods	NN
+when	RB WHOBJ SCONJ WH
+Egyptian	JJ CAP
+mummification	NOMZ
+suffered	VBD
+a	ART DET INDA
+lapse	NN
+.	
+During	PIN CAP PREP
+the	ART DET
+First	JJ CAP
+and	CCONJ
+Second	CAP NNP
+Intermediate	CAP NNP
+Periods	CAP NNP
+far	RB PLACE
+fewer	JJ CMADJ
+mummies	NN
+have	VPRT PEAS
+survived	
+,	
+if	COND PIN SCONJ PREP
+there	EX
+were	VBD AUXB
+as	RB CONJ
+many	QUAN JJ
+made	
+as	PIN CONJ PREP
+during	PIN PREP
+other	JJ
+times	NN
+.	
+One	CAP NUM
+explanation	NOMZ
+offered	VBD
+for	PIN PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+political	JJ
+turmoil	NN
+during	PIN PREP
+these	DEMO DET
+periods	NN
+(	
+Aufderheide	NN CAP
+2003	NUM
+:	
+227/230	NN
+)	
+All	QUAN CAP DET
+of	PIN PREP
+the	ART DET
+advancements	NOMZ
+made	WZPAST
+in	PIN CONJ PREP
+mummification	NOMZ
+would	PRMD SPAU
+not	XX0 RB
+have	PEAS INF
+been	BEMA AUXB
+possible	JJ PRED
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+not	XX0 RB
+for	PIN PREP
+the	ART DET
+gradual	JJ
+increase	NN
+in	PIN CONJ PREP
+trade	NN
+,	
+especially	RB
+during	PIN PREP
+the	ART DET
+New	CAP NNP
+Kingdom	CAP NNP
+.	
+Major	JJ CAP
+developments	NOMZ
+were	PASS VBD AUXB
+made	
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+a	ART DET INDA
+wider	JJ CMADJ
+range	NN
+of	PIN PREP
+embalming	PGAS
+materials	NN
+available	JJ
+to	PIN PREP
+the	ART DET
+ancient	JJ
+Egyptians	CAP NNP
+(	
+Chamberlain	CAP NNP
+and	PHC CCONJ
+Parker	CAP NNP
+-	
+Pearson	CAP NNP
+2004	NUM
+:	
+106	NUM
+)	
+.	
+There	EX CAP
+is	VPRT AUXB
+also	RB
+however	RB CONJ
+proof	NN
+that	PIN TOBJ SCONJ PREP
+goods	NN
+were	PASS VBD AUXB
+traded	
+before	PIN PREP
+this	DEMP DET
+.	
+The	ART CAP DET
+components	NN
+of	PIN PREP
+the	ART DET
+resin	NN
+used	WZPAST
+for	PIN PREP
+PUM	CAP NNP
+II	CAP NNP
+were	BEMA VBD AUXB
+not	XX0 RB
+local	JJ
+(	
+Cockburn	CAP NNP
+and	PHC CCONJ
+Barraco	CAP NNP
+1980	NUM
+:	
+62	NUM
+)	
+.	
+Also	RB CAP
+,	
+bodies	NN
+dating	WZPRES PGAS
+from	PIN PREP
+the	ART DET
+Second	CAP NNP
+Dynasty	CAP NNP
+have	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+in	PIN CONJ PREP
+resin	NN
+soaked	
+bandages	NN
+.	
+This	DEMP CAP DET
+suggests	VPRT PUBV SUAV
+contact	NN
+with	PIN PREP
+the	ART DET
+"	QUOT
+Lebanese	JJ CAP
+region	NN
+"	QUOT
+.	
+(	
+Bard	CAP NNP
+2003	NUM
+:	
+81	NUM
+)	
+.	
+Trade	NN CAP
+in	PIN CONJ PREP
+other	JJ
+goods	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+more	JJ EMPH CMADJ
+sugary	JJ
+substances	NN
+during	PIN PREP
+the	ART DET
+Graeco	CAP NNP
+-	
+Roman	CAP NNP
+era	NN
+seems	VPRT SMP
+to	PIN TO PREP
+account	INF
+for	PIN PREP
+the	ART DET
+apparent	JJ
+decline	NN
+in	PIN CONJ PREP
+dental	JJ
+health	NN
+with	PIN PREP
+more	JJ EMPH CMADJ
+cavities	NN
+occurring	WZPRES PGAS
+than	PIN PREP
+at	PIN PREP
+any	QUAN DET
+other	JJ
+time	NN
+(	
+Leek	CAP NNP
+1986	NUM
+:	
+41	NUM
+)	
+.	
+Trade	NN CAP
+can	POMD SPAU
+also	RB
+link	INF
+into	PIN PREP
+a	ART DET INDA
+cultures	NN
+ability	NOMZ
+to	PIN TO PREP
+open	INF
+itself	PIT PRP SBJP ACCU
+to	PIN PREP
+others	NN
+.	
+There	EX CAP
+appears	VPRT SMP
+to	PIN TO PREP
+be	AUXB INF
+evidence	NN
+suggesting	GER WZPRES PUBV SUAV PGAS
+that	PIN THVC SCONJ PREP
+the	ART DET
+Egyptian	JJ CAP
+culture	NN
+was	BEMA VBD AUXB
+in	PIN CONJ PREP
+fact	NN
+relatively	RB
+open	JJ
+.	
+Egyptian	JJ CAP
+attitudes	NN
+seem	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+changed	
+or	CCONJ
+adapted	
+at	PIN PREP
+certain	JJ
+points	NN
+of	PIN PREP
+time	NN
+under	PIN PREP
+foreign	JJ
+influence	NN
+(	
+Taylor	CAP NNP
+2003	NUM
+:	
+358	NUM
+)	
+.	
+This	DEMP CAP DET
+seems	VPRT SMP
+especially	RB
+eminent	JJ
+during	PIN PREP
+the	ART DET
+later	JJ TIME
+Roman	JJ CAP
+rule	SUAV NN
+over	PIN PREP
+Egypt	CAP NNP
+.	
+Roman	JJ CAP
+style	NN
+appears	VPRT SMP
+to	PIN TO PREP
+have	PEAS SPAU INF
+highly	AMP RB
+influenced	
+some	QUAN DET
+individuals	NN
+,	
+fashioning	GER PGAS
+"	QUOT
+themselves	TPP3 PRP SBJP ACCU
+as	PIN CONJ PREP
+Romanised	CAP NNP
+"	QUOT
+through	PIN PREP
+the	ART DET
+portraiture	NN
+on	PIN PREP
+sarcophaguses	NN
+(	
+Walker	CAP NNP
+1997	NUM
+:	
+2	NUM
+)	
+.	
+This	DEMO CAP DET
+influence	NN
+was	PASS VBD AUXB
+reciprocated	
+as	PIN CONJ PREP
+some	QUAN DET
+Romans	CAP NNP
+opted	VBD
+for	PIN PREP
+an	ART DET INDA
+Egyptian	JJ CAP
+type	NN
+of	PIN PREP
+burial	NN
+(	
+Montserrat	CAP NNP
+1997	NUM
+:	
+33	NUM
+)	
+.	
+Could	POMD CAP
+this	DEMP DET
+have	PEAS INF
+been	BEMA AUXB
+the	ART DET
+beginnings	GER
+of	PIN PREP
+an	ART DET INDA
+'	CONT QUOT
+Egyptian	JJ CAP
+death	NN
+industry	NN
+'	CONT QUOT
+?	QUES
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+not	XX0 RB
+an	ART DET INDA
+unfeasible	JJ
+notion	NOMZ
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+later	JJ TIME
+periods	NN
+there	EX
+was	VBD AUXB
+obviously	RB
+enough	JJ
+labour	NN
+for	PIN PREP
+craftsmen	NN
+to	PIN TO PREP
+branch	INF
+out	PIN PREP
+into	PIN STPR PREP
+"	QUOT
+non	JJ
+-	JJ
+functional	JJ
+products	NN
+"	QUOT
+(	
+Seidlmayer	NN CAP
+2003	NUM
+:	
+114	NUM
+)	
+.	
+These	DEMO CAP DET
+products	NN
+being	WZPRES AUXB
+masks	NN
+and	PHC CCONJ
+decorations	NOMZ
+for	PIN PREP
+the	ART DET
+mummy	NNP
+and	CCONJ
+its	PIT PRP SBJP
+sarcophagus	NN
+.	
+It	PIT CAP PRP SBJP
+does	VPRT EMPH
+appear	SMP INF
+that	PIN THVC SCONJ PREP
+during	PIN PREP
+the	ART DET
+Ptolemaic	JJ CAP
+and	CCONJ
+certainly	RB
+Roman	JJ CAP
+era	NN
+mummification	NOMZ
+had	VBD
+much	QUAN RB
+less	JJ CMADJ
+to	PIN TO PREP
+do	PROD INF
+with	PIN PREP
+religion	NN
+and	CCONJ
+had	VBD PEAS
+developed	
+into	PIN PREP
+quite	DET
+a	ART DET INDA
+commercial	JJ
+manufacture	NN
+.	
+It	PIT CAP PRP SBJP
+was	BEMA VBD AUXB
+another	DET
+way	NN
+for	PIN PREP
+the	ART DET
+rich	JJ
+and	PHC CCONJ
+powerful	JJ
+to	PIN TO PREP
+show	PRIV INF
+their	TPP3 PRP SBJP
+wealth	NN
+,	
+even	RB
+post	X
+mortem	NNP
+(	
+David	CAP NNP
+1999	NUM
+:	
+374	NUM
+)	
+.	
+Closely	RB CAP
+related	
+of	PIN PREP
+course	NN
+to	PIN PREP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+embalming	NN
+is	BEMA VPRT AUXB
+why	RB SCONJ WH
+the	ART DET
+Egyptians	CAP NNP
+chose	VBD
+to	PIN TO PREP
+mummify	INF
+their	TPP3 PRP SBJP
+dead	JJ
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+place	NN
+.	
+Life	NN CAP
+style	NN
+and	PHC CCONJ
+beliefs	NN
+are	VPRT AUXB
+not	XX0 RB
+two	NUM
+separate	JJ
+topics	NN
+.	
+Egyptians	CAP NNP
+were	BEMA VBD AUXB
+very	AMP RB
+conscious	JJ
+of	PIN PREP
+religion	NN
+and	CCONJ
+the	ART DET
+dead	JJ
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+everyday	JJ
+lives	NN
+.	
+Some	QUAN CAP DET
+have	VPRT PEAS
+asked	SUAV
+"	QUOT
+Were	BEMA VBD AUXB CAP
+the	ART DET
+ancient	JJ
+Egyptians	CAP NNP
+obsessed	
+with	PIN PREP
+death	NN
+?	QUES
+"	QUOT
+(	
+Corcoran	CAP NNP
+1997	NUM
+:	
+45	NUM
+)	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+valid	JJ
+question	NOMZ
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+seems	VPRT SMP
+the	ART DET
+elite	NN
+especially	RB
+,	
+spent	VBD
+a	ART DET INDA
+good	JJ
+proportion	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+lives	NN
+preparing	WZPRES PGAS
+for	PIN PREP
+their	TPP3 PRP SBJP
+deaths	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+Pharaoh	CAP NNP
+'s	
+tombs	NN
+were	PASS VBD SPAU AUXB
+often	RB
+begun	
+not	XX0 RB
+long	RB
+after	PIN PREP
+they	TPP3 PRP SBJP
+were	PASS VBD AUXB
+instated	
+.	
+One	CAP NUM
+explanation	NOMZ
+given	WZPAST
+for	PIN PREP
+why	RB SCONJ WH
+the	ART DET
+Egyptians	CAP NNP
+disposed	
+of	PIN PREP
+their	TPP3 PRP SBJP
+dead	JJ
+through	PIN PREP
+mummification	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+ka	NNP
+,	
+a	ART DET INDA
+part	NN
+of	PIN PREP
+the	ART DET
+deceased	JJ
+personality	NOMZ
+or	CCONJ
+spirit	NN
+that	TSUB WHSUB WH
+lingered	VBD
+on	PIN PREP
+earth	NN
+(	
+Snape	CAP NNP
+1998	NUM
+:	
+182	NUM
+)	
+.	
+Therefore	RB CONJ CAP
+the	ART DET
+body	NN
+was	PASS VBD SPAU AUXB
+still	RB
+needed	
+and	CCONJ
+had	VBD
+to	PIN TO PREP
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+the	ART DET
+best	JJ SPADJ
+state	PUBV NN
+possible	JJ
+(	
+Dzierzykray	CAP NNP
+-	
+Rogalski	CAP NNP
+1986	NUM
+:	
+101	NUM
+)	
+.	
+A	ART CAP DET INDA
+further	JJ
+possibility	NOMZ
+suggests	VPRT PUBV SUAV
+a	ART DET INDA
+more	RB EMPH CMADJ
+religious	JJ
+purpose	NN
+,	
+in	PIN CONJ PREP
+remembrance	NN
+of	PIN PREP
+the	ART DET
+god	NNP
+Osiris	CAP NNP
+who	WH
+was	PASS VBD AUXB
+dismembered	
+and	PHC CCONJ
+bandaged	
+back	RB
+together	RB
+(	
+Sandison	CAP NNP
+1986	NUM
+:	
+1	NUM
+)	
+.	
+Another	CAP DET
+aspect	NN
+of	PIN PREP
+Egyptian	JJ CAP
+religious	JJ
+devotion	NOMZ
+has	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+on	PIN PREP
+many	QUAN JJ
+males	NN
+examined	
+.	
+Circumcision	NOMZ CAP
+appears	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+been	AUXB
+regularly	RB
+practice	NN
+throughout	PIN PREP
+the	ART DET
+ages	NN
+until	PIN PREP
+the	ART DET
+Christian	JJ CAP
+era	NN
+began	VBD
+(	
+Sandison	CAP NNP
+1980	NUM
+:	
+42	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+not	XX0 RB
+only	DWNT RB
+circumcision	NOMZ
+that	TSUB WHSUB WH
+illustrates	VPRT
+the	ART DET
+apparent	JJ
+importance	NN
+of	PIN PREP
+tradition	NOMZ
+to	PIN PREP
+the	ART DET
+Egyptians	CAP NNP
+.	
+The	ART CAP DET
+funerary	JJ
+rituals	NN
+were	PASS VBD SPAU AUXB
+rarely	RB
+changed	
+throughout	PIN PREP
+the	ART DET
+years	NN
+,	
+only	DWNT RB
+added	VBD PUBV
+to	PIN STPR PREP
+(	
+Sandison	CAP NNP
+1986	NUM
+:	
+1	NUM
+)	
+.	
+Superstition	NOMZ CAP
+and	PHC CCONJ
+tradition	NOMZ
+seem	VPRT SMP
+to	PIN TO PREP
+intertwine	INF
+as	PIN CONJ PREP
+part	NN
+of	PIN PREP
+the	ART DET
+funerary	JJ
+process	NN
+involved	
+appeasing	PGAS
+the	ART DET
+dead	JJ
+through	PIN PREP
+gifts	NN
+(	
+Cockburn	NN CAP
+1980	NUM
+:	
+7	NUM
+)	
+.	
+Concerning	GER CAP PGAS
+theory	NN
+of	PIN PREP
+why	RB SCONJ WH
+the	ART DET
+heart	NN
+was	VBD AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+main	JJ
+organs	NN
+left	WZPAST
+in	PIN CONJ PREP
+place	NN
+during	PIN PREP
+mummification	NOMZ
+,	
+it	PIT PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+suggested	PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+Egyptians	CAP NNP
+saw	VBD PRIV THATD
+it	PIT PRP SBJP
+as	PIN CONJ PREP
+the	ART DET
+"	QUOT
+centre	NN
+of	PIN PREP
+life	NN
+"	QUOT
+(	
+Sandison	CAP NNP
+1986	NUM
+:	
+2	NUM
+)	
+.	
+On	PIN CAP PREP
+a	ART DET INDA
+similar	JJ
+principle	NN
+is	BEMA VPRT AUXB
+the	ART DET
+theory	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+Egyptians	CAP NNP
+perhaps	RB
+thought	VBD PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+heart	NN
+was	VBD AUXB
+where	RB SCONJ WH
+thinking	PRIV NN
+occurred	VBD
+,	
+thus	RB CONJ
+explaining	GER PUBV PGAS
+why	RB WHCL SCONJ WH
+they	TPP3 PRP SBJP
+were	BEMA VBD AUXB
+happy	JJ PRED
+to	PIN TO PREP
+remove	INF
+the	ART DET
+brain	NN
+(	
+Peck	CAP NNP
+1980	NUM
+:	
+21	NUM
+)	
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+beliefs	NN
+that	TSUB WHSUB WH
+seem	VPRT SMP
+to	PIN TO PREP
+have	PEAS INF
+been	PASS BYPA AUXB
+held	PRIV
+,	
+especially	RB
+by	PIN PREP
+the	ART DET
+wealthy	JJ
+,	
+was	BEMA VBD AUXB
+that	PIN DEMO SCONJ PREP
+people	NN
+were	BEMA VBD AUXB
+not	XX0 RB
+equal	JJ
+in	PIN CONJ PREP
+death	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+apparent	JJ
+not	XX0 RB
+only	DWNT RB
+in	PIN CONJ PREP
+the	ART DET
+type	NN
+of	PIN PREP
+grave	JJ
+or	CCONJ
+grave	JJ
+goods	NN
+found	PRIV
+but	CCONJ
+also	RB
+through	PIN PREP
+scientific	JJ
+study	NN
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+noted	PRIV
+that	PIN THVC SCONJ PREP
+few	QUAN JJ
+mummies	NN
+from	PIN PREP
+the	ART DET
+Old	CAP NNP
+Kingdom	CAP NNP
+have	VPRT PEAS
+survived	
+to	PIN PREP
+the	ART DET
+present	JJ
+day	NN
+.	
+However	RB CONJ CAP
+,	
+this	DEMP DET
+is	VPRT AUXB
+not	XX0 RB
+only	DWNT RB
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+the	ART DET
+embalming	PGAS
+techniques	NN
+employed	
+but	CCONJ
+also	RB
+because	CAUS PIN SCONJ PREP
+fewer	JJ CMADJ
+people	NN
+were	BEMA VBD AUXB
+able	JJ PRED
+to	PIN TO PREP
+or	CCONJ
+allowed	SUAV
+to	PIN TO PREP
+be	PASS AUXB INF
+mummified	
+(	
+Snape	CAP NNP
+1998	NUM
+:	
+184	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+was	BEMA VBD AUXB
+a	ART DET INDA
+privilege	NN
+reserved	WZPAST
+for	PIN PREP
+the	ART DET
+wealthy	JJ
+and	PHC CCONJ
+powerful	JJ
+.	
+Even	RB CAP
+later	RB TIME
+when	RB SCONJ WH
+the	ART DET
+poorer	JJ CMADJ
+were	PASS VBD AUXB
+given	
+the	ART DET
+right	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+mummified	
+the	ART DET
+process	NN
+was	VBD AUXB
+not	XX0 RB
+exactly	RB
+the	ART DET
+same	JJ
+.	
+A	ART CAP DET INDA
+smaller	JJ CMADJ
+budget	NN
+was	PASS VBD AUXB
+used	
+and	CCONJ
+the	ART DET
+rich	JJ
+still	RB
+found	VBD PRIV
+more	RB EMPH CMADJ
+elaborate	JJ
+ways	NN
+of	PIN PREP
+differentiating	GER PGAS
+themselves	TPP3 PRP SBJP ACCU
+.	
+Examples	NN CAP
+of	PIN PREP
+modest	JJ
+mummifications	NOMZ
+were	PASS VBD AUXB
+found	PRIV
+when	RB WHCL SCONJ WH
+the	ART DET
+bodies	NN
+of	PIN PREP
+PUM	CAP NNP
+III	CAP NNP
+and	PHC CCONJ
+IV	CAP NNP
+were	PASS VBD AUXB
+studied	
+(	
+Reyman	CAP NNP
+and	PHC CCONJ
+Peck	CAP NNP
+1980	NUM
+:	
+85	NUM
+)	
+.	
+Dating	CAP PGAS
+of	PIN PREP
+naturally	RB
+desiccated	
+corpses	NN
+reveals	VPRT PRIV
+that	PIN THVC SCONJ PREP
+most	JJ EMPH SPADJ
+of	PIN PREP
+the	ART DET
+population	NOMZ
+continued	VBD
+to	PIN TO PREP
+be	PASS AUXB INF
+buried	
+unprepared	JJ
+in	PIN CONJ PREP
+the	ART DET
+desert	NN
+which	WHSUB DET WH
+holds	VPRT PRIV
+irony	NN
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+many	QUAN JJ
+cases	NN
+especially	RB
+until	PIN PREP
+the	ART DET
+New	CAP NNP
+Kingdom	CAP NNP
+,	
+preservation	NOMZ
+would	PRMD SPAU
+probably	RB
+have	PEAS INF
+been	SPAU AUXB
+best	RB SPADJ
+occurring	PGAS
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+natural	JJ
+environment	NOMZ
+(	
+Grimal	CAP NNP
+2005	NUM
+:	
+130	NUM
+)	
+.	
+The	ART CAP DET
+evidence	NN
+presented	VBD
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+scientific	JJ
+study	NN
+of	PIN PREP
+mummies	NN
+can	POMD
+bring	INF
+fruitful	JJ
+results	NN
+.	
+However	RB CONJ CAP
+there	EX
+are	VPRT AUXB
+areas	NN
+that	TSUB WHSUB WH
+can	POMD SPAU
+not	XX0 RB
+be	PASS BYPA AUXB INF
+explained	PUBV
+by	PIN PREP
+science	NN
+.	
+For	PIN CAP PREP
+example	NN
+during	PIN PREP
+the	ART DET
+earlier	JJ TIME CMADJ
+periods	NN
+when	RB SCONJ WH
+only	DWNT RB
+the	ART DET
+elite	NN
+of	PIN PREP
+ancient	JJ
+Egypt	CAP NNP
+were	PASS VBD AUXB
+mummified	
+,	
+is	VPRT AUXB
+it	PIT PRP SBJP
+not	XX0 RB
+possible	JJ
+that	PIN THAC SCONJ PREP
+a	ART DET INDA
+lack	NN
+of	PIN PREP
+mummification	NOMZ
+evidence	NN
+could	POMD SPAU
+also	RB
+suggest	PUBV SUAV INF
+that	PIN THVC SCONJ PREP
+not	XX0 RB
+everyone	QUPR INPR
+who	WH
+did	VBD
+have	INF
+the	ART DET
+opportunity	NOMZ
+decided	PRIV SUAV WZPAST
+to	PIN TO PREP
+take	INF
+it	PIT PRP SBJP
+?	QUES
+If	COND PIN CAP SCONJ PREP
+this	DEMP DET
+was	BEMA VBD AUXB
+the	ART DET
+case	NN
+,	
+science	NN
+can	POMD SPAU
+not	XX0 RB
+explain	PUBV INF
+why	RB WHCL SCONJ WH
+people	NN
+made	VBD
+that	DEMO DET
+decision	NOMZ
+or	CCONJ
+chart	NN
+why	RB WHOBJ SCONJ WH
+the	ART DET
+process	NN
+became	VBD
+more	RB EMPH CMADJ
+popular	JJ
+,	
+only	DWNT RB
+when	RB SCONJ WH
+.	
+There	EX CAP
+can	POMD SPAU
+also	RB
+sometimes	RB
+be	AUXB INF
+problems	NN
+with	PIN PREP
+scientific	JJ
+methods	NN
+that	TSUB WHSUB WH
+have	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+overcome	
+.	
+There	EX CAP
+can	POMD
+be	AUXB INF
+difficulties	NN
+with	PIN PREP
+radiocarbon	NN
+dating	WZPRES PGAS
+,	
+blood	NN
+group	NN
+analysis	NN
+in	PIN CONJ PREP
+lineage	NN
+projects	NN
+and	PHC CCONJ
+handling	NN
+and	PHC CCONJ
+labelling	NN
+of	PIN PREP
+mummies	NN
+by	PIN PREP
+later	JJ TIME
+peoples	NN
+(	
+Germer	NN CAP
+1986	NUM
+:	
+522	X
+)	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+collaboration	NOMZ
+of	PIN PREP
+Egyptology	CAP NNP
+and	PHC CCONJ
+Science	CAP NNP
+is	VPRT AUXB
+not	XX0 RB
+always	RB
+easy	JJ
+but	CCONJ
+can	POMD
+bring	INF
+rewards	NN
+to	PIN PREP
+both	DET
+fields	NN
+(	
+Germer	NN CAP
+1986	NUM
+:	
+525	NUM
+)	
+.	
+However	RB CONJ CAP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+new	JJ
+disciplines	NN
+and	PHC CCONJ
+incorporation	NOMZ
+of	PIN PREP
+older	JJ CMADJ
+ones	NN
+has	VPRT PEAS
+created	
+a	ART DET INDA
+multidisciplinary	JJ
+area	NN
+where	RB WHOBJ SCONJ WH
+many	QUAN JJ
+previously	RB TIME
+unanswered	JJ
+questions	NOMZ
+can	POMD
+be	PASS AUXB INF
+resolved	SUAV
+(	
+David	CAP NNP
+1999	NUM
+:	
+372	NUM
+)	
+.	
+Therefore	RB CONJ CAP
+the	ART DET
+scientific	JJ
+study	NN
+of	PIN PREP
+mummies	NN
+has	VPRT
+,	
+in	PIN CONJ PREP
+many	QUAN JJ
+cases	NN
+,	
+revealed	VBD PRIV
+to	PIN PREP
+us	FPP1 PRP SBJP ACCU
+a	EMPH ART DET INDA
+lot	NN
+about	PIN PREP
+the	ART DET
+beliefs	NN
+and	PHC CCONJ
+life	NN
+style	NN
+of	PIN PREP
+the	ART DET
+ancient	JJ
+Egyptians	CAP NNP
+.	

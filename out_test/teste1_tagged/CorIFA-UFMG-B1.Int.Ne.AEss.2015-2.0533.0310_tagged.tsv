@@ -1,0 +1,66 @@
+# filename: CorIFA-UFMG-B1.Int.Ne.AEss.2015-2.0533.0310.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B1.Int	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2015	CAP NNP
+-	
+2.0533.0310	NUM
+>	
+ 	
+The	ART CAP DET
+graph	NN
+shown	VBD PRIV
+us	FPP1 PRP SBJP ACCU
+information	NOMZ
+about	PIN PREP
+the	ART DET
+percent	NN
+of	PIN PREP
+American	JJ CAP
+adults	NN
+ever	RB
+ 	
+divorced	
+.	
+The	ART CAP DET
+difference	NN
+between	PIN PREP
+women	NN
+and	PHC CCONJ
+men	NN
+are	BEMA VPRT AUXB
+the	ART DET
+percent	NN
+of	PIN PREP
+adults	NN
+ 	
+that	DEMP WH
+borned	VBD
+in	PIN CONJ PREP
+early	JJ TIME
+fourty	NN
+'s	
+.	
+The	ART CAP DET
+other	JJ
+great	JJ
+difference	NN
+about	PIN PREP
+the	ART DET
+graph	NN
+ 	
+is	BEMA VPRT AUXB
+the	ART DET
+percent	NN
+of	PIN PREP
+age	NN
+40	NUM
+.	
+ 	

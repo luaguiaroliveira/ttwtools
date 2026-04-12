@@ -1,0 +1,203 @@
+# filename: CorIFA-UFMG-B1.Int.Ne.AEss.2015-2.0531.0308.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B1.Int	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2015	CAP NNP
+-	
+2.0531.0308	NUM
+>	X
+  	
+We	FPP1 CAP PRP SBJP
+can	POMD
+see	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+divorce	NN
+grow	INF
+every	QUAN DET
+year	NN
+and	PHC CCONJ
+women	NN
+are	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+close	JJ
+of	PIN PREP
+the	ART DET
+numbers	NN
+of	PIN PREP
+mens	NN
+divorce	NN
+,	
+this	DEMP DET
+shows	VPRT PRIV
+a	ART DET INDA
+tendence	NN
+of	PIN PREP
+the	ART DET
+society	NN
+.	
+So	RB CAP
+this	DEMP DET
+is	BEMA VPRT AUXB
+important	JJ PRED
+and	CCONJ
+can	POMD
+be	BEMA AUXB INF
+harmful	JJ PRED
+for	PIN PREP
+a	ART DET INDA
+children	NN
+even	RB
+for	PIN PREP
+a	ART DET INDA
+conthy	NN
+.	
+Because	CAUS PIN CAP SCONJ PREP
+the	ART DET
+children	NN
+can	POMD
+be	AUXB INF
+depres	NN
+and	CCONJ
+have	VPRT
+oders	NN
+mental	JJ
+problems	NN
+,	
+for	PIN PREP
+the	ART DET
+society	NN
+this	DEMP DET
+is	VPRT AUXB
+dificul	NNP
+because	CAUS PIN SCONJ PREP
+people	NN
+started	VBD
+to	PIN TO PREP
+think	PRIV INF
+that	PIN THVC SCONJ PREP
+divorce	NN
+is	BEMA VPRT AUXB
+comum	JJ PRED
+and	CCONJ
+nature	NN
+so	PIN SCONJ PREP
+the	ART DET
+vision	NOMZ
+of	PIN PREP
+fidelity	NNP
+no	RB
+longer	RB
+exist	INF
+what	WH
+is	PASS VPRT AUXB
+sed	
+,	
+is	BEMA VPRT AUXB
+undestend	JJ PRED
+that	THAC WH
+exist	VPRT
+bad	JJ
+marege	NN
+and	CCONJ
+shuld	
+be	AUXB INF
+respect	NN
+but	CCONJ
+every	QUAN DET
+marege	NN
+have	VPRT
+problems	NN
+and	CCONJ
+sometimes	RB
+they	TPP3 PRP SBJP
+can	POMD
+solve	INF
+than	PIN PREP
+but	CCONJ
+most	JJ EMPH SPADJ
+of	PIN PREP
+peeople	NN
+became	VBD
+more	RB EMPH CMADJ
+selfish	JJ
+and	CCONJ
+do	VPRT SPAU
+nt	RB
+belive	INF
+in	PIN CONJ PREP
+parneship	NN
+.	
+whit	NN
+the	ART DET
+grow	NN
+of	PIN PREP
+same	JJ
+rigth	NN
+of	PIN PREP
+sex	NN
+we	FPP1 PRP SBJP
+can	POMD
+see	PRIV INF
+that	PIN THVC SCONJ PREP
+nunbers	NN
+of	PIN PREP
+womens	NN
+divorce	NN
+is	VPRT AUXB
+more	RB EMPH CMADJ
+largest	JJ SPADJ
+than	PIN PREP
+year	NN
+before	PIN PREP
+one	NUM
+reason	PRIV NN
+is	VPRT AUXB
+becase	NN
+they	TPP3 PRP SBJP
+have	VPRT
+more	JJ EMPH CMADJ
+rights	NN
+and	CCONJ
+the	ART DET
+individual	JJ
+life	NN
+of	PIN PREP
+peeople	NN
+,	
+years	NN
+ago	RB
+womens	NN
+want	VPRT
+to	PIN TO PREP
+marege	INF
+have	INF
+kids	NN
+today	TIME NN
+they	TPP3 PRP SBJP
+want	VPRT
+have	VPRT
+a	ART DET INDA
+good	JJ
+job	NN
+a	ART DET INDA
+good	JJ
+body	NN
+and	PHC CCONJ
+properity	NOMZ
+,	
+so	RB
+sometimes	RB
+is	VPRT AUXB
+dificul	NNP
+to	PIN TO PREP
+have	INF
+time	NN
+.	
