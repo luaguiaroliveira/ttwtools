@@ -1,0 +1,78 @@
+In Brazil the peach tree Prunus persica L Batsch is one of the most studied
+temperate crops in terms of its adaptability to subtropical conditions ZANETTE BIASI 2004
+This deciduous tree native to northwest China represents an important option to growers
+because of dual suitability for table and canned fruit as well as strong productivity MAIDAL
+RASEIRA 2008 GARRIDO et al 2011 MAY DE MIO et al 2011a Additionally peach
+gross production value GPV ranks this crop among the most valuable crops in the country
+SEAB 2013 As a temperate crop most of the production in Brazil is located in the states of
+Rio Grande do Sul Santa Catarina Paraná São Paulo and Minas Gerais where temperatures
+favor cultivation BIASI et al 2004
+         Among the most important limiting factors for the production of peaches in Brazil the
+diseases are responsible for considerable economic losses MAY DE MIO et al 2008
+According to Facchinello and Marodin 2004 the combination of rain temperature and winds
+in the spring and early summer is correlated to increased disease levels in southern Brazil This
+was also confirmed by May De Mio et al 2014 and Keske et al 2011 who linked the
+occurrence of brown rot disease to climatic conditions The temperature in peach production
+areas is usually constant with little variation and ultimately results in more intense and uniform
+disease incidence CALPOUZOS 1962 SEQUEIRA 1962 WELLMAN 1962
+         The brown rot disease includes blossom and twig blights in addition to pre and post
+harvest fruit decay It is mainly caused by Monilinia fructicola Wint Honey the most
+important fungal pathogen in Brazil FORTES MARTINS 1998 MAY DE MIO et al 2004
+and North America HARVEY et al 1972 BATRA 1991 OGAWA et al 1995
+ADASKAVEG et al 2008 Two other species are known to cause brown rot in peaches as
+well Monilinia laxa Aderrh  Ruhl and Monilinia fructigena Honey in Whetzel BYRDE
+WILLETTS 1977 BATRA 1991 So far M fructicola is the main brown rot pathogen in
+Brazil BLEICHER 1997 FORTES MARTINS 1998 MAY DE MIO et al 2004 although
+M laxa has been reported once in São Paulo SOUZA et al 2008
+         Sanitation practices are important for brown rot control aiming to reduce the primary
+inoculum and ultimately disease incidence However the best control of brown rot is achieved
+by spraying with protective fungicides ADASKAVEG et al 2008 The proper use of
+fungicides with some systemic activity protects flowers and fruits reduces the amount of
+                                                                                              16
+
+
+
+sporulation formed on the infected tissue and reduces sources of overwintering inoculum
+OGAWA et al 1995
+         Demethylation inhibiting DMI fungicides are one of four classes that comprise the
+sterol biosynthesis inhibitors SBIs group They inhibit the 14αdemethylase enzyme in the
+fungal cell interrupting the ergosterol biosynthesis an important component of membrane
+fluidity and stability JOSEPHHORNE HOLLOMON 1997 SANGLARD et al 1998
+DMIs include a few different chemical groups with a broad spectrum and systemic activity
+against a range of economically important pathogens BRENT K J HOLLOMON 2007a
+When introduced in early 80s DMI fungicides replaced the benzimidazoles ZEHR et al 1999
+CHEN et al 2013a Later more effective products such as propiconazole fenbuconazole and
+tebuconazole were introduced and became the industry standard for brown rot control In Brazil
+tebuconazole is the most commonly sprayed DMI fungicide among peach growers for brown
+rot control SILVA et al 2011
+         The almost exclusive use of DMI for brown rot control combined with multiple sprays
+applied in areas with high rainfall has resulted in a M fructicola population shift towards
+resistance The emergence of resistance was reported in New Zealand with triforine ELMER
+et al 1992 in the United States and Australia with propiconazole ZEHR et al 1999
+WHERRETT et al 2001 SCHNABEL et al 2004 BURNETT et al 2010 VILLANI COX
+2011 HALBRENDT et al 2013 and in Brazil with tebuconazole MAY DE MIO et al
+2011b Although M fructicola control failure associated with DMI are still rare and have only
+been reported in Georgia and New York BRANNEN et al 2006 PARKER et al 2006
+         The emergence of resistance to DMI was considered less likely to occur due to fitness
+disadvantages of resistant genotypes The gradual shift toward resistance is referred as
+quantitative or multistep resistance GEORGOPOULOS 1985 SCHEINPFLUG KUCK
+1987 BRENT HOLLOMON 2007a While new reports about Monilinia species resistant to
+DMIs are appearing studies are focusing on practical solutions to problems of resistance such
+as fitness dynamics GILPATRICK 1981 ELMER et al 1992 COX et al 2007 CHEN et
+al 2012 as well as documenting molecular changes that benefit resistance SCHNABEL et
+al 2003 LUO et al 2008 LUO SCHNABEL 2008
+         In southern Brazil productivity remains low due to the lack of information regarding
+disease control and fungicide resistance management With this in mind research must be
+focused on the development of local information and techniques to support timely field decision
+making and to avoid or delay problems related to fungicide resistance The objectives of this
+study were i to monitor the frequency of tebuconazole resistant isolates of M fructicola in
+                                                                                                 17
+
+
+
+peach producing areas of São Paulo Paraná and Rio Grande do Sul ii to determine changes
+in sensitivity of the current M fructicola population compared to previous surveys iii to
+determine the instability of resistance in the absence of tebuconazole fungicide iv to evaluate
+the competitive ability of resistant versus sensitive M fructicola isolates v and to investigate
+the potential role of the Mona element and the expression of MfCYP51 and MfABC1 genes
+as molecular mechanisms conferring tebuconazole resistance in M fructicola isolates in Brazil

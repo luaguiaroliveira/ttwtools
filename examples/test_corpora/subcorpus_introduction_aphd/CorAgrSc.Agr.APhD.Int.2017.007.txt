@@ -1,0 +1,72 @@
+According to IPCC 2014 the atmospheric CO2 concentration CO2 is
+estimated to reach values between 750 and 1300 ppm by the end of the century
+what is likely to be followed by global warming changes in precipitation patterns
+and reduction in soil moisture content up to 70 Schultz 2000 Kimball et al 2001
+Reich et al 2016 Considering that grapevines Vitis spp are grown on nearly
+every continent FAOSTAT 2014 climate change is likely to cause profound
+management modifications in such important crop Flexas et al 2010 Thereby it
+is imperative to study the effects of climate change on important physiological traits
+in grapevines and the consequences on yield and fruit quality
+        Increased CO2 can improve carbon assimilation in C3 plants such as
+grapevines SalazarParra et al 2012 SalazarParra et al 2015 because the
+enzyme Ribulose15bisphosphate carboxylaseoxygenase Rubisco the primary
+carboxylating enzyme of photosynthesis in C3 plants is CO2limited under current
+atmospheric conditions Ainsworth and Rogers 2007 Therefore any increase in
+CO2 could upregulate grapevines photosynthetic capacity However several
+aspects can influence this upregulation of photosynthesis under elevated CO2
+such as exposure duration growth conditions and species Long et al 2004
+Aranjuelo et al 2005 Erice et al 2006 Ainsworth and Rogers 2007 Aranjuelo et
+al 2009a SanzSáez et al 2010 SalazarParra et al 2015 Rodrigues et al
+2016 so that the maximum photosynthetic potential is not always maintained or
+achieved Luo et al 1994 Griffin and Seemann 1996 and contradictory responses
+of photosynthesis under elevated CO2 have been reported Herrick and Thomas
+
+2001 Long et al 2004 Springer et al 2005 Aranjuelo et al 2005 Erice et al
+2006 Springer and Thomas 2007 Ainsworth and Rogers 2007 Aranjuelo et al
+2009a Albert et al 2011 SalazarParra et al 2015
+        Since climate change is likely to reduce water available for agriculture
+Schultz 2000 the future of the sustainable grapevine cultivation requires a major
+reduction in water use Flexas et al 2016 Thereby a promising alternative to be
+explored is the use of deficit irrigation techniques such as Regulated Deficit
+Irrigation RDI and Partial Rootzone Drying PRD Under RDI the water is
+supplied at levels below that required for full crop evapotranspiration ET c during
+specific phenological stages particularly after fruit set when fruit growth is less
+sensitive to reductions in water supply Chaves et al 2010 Tarara and Peña 2015
+Under PRD on the other hand the two sides of grapevines root system are
+alternately irrigated providing a spatial reduction in water availability Although
+deficit irrigation can improve water use efficiency in plants the physiological
+responses in grapevines depend on both specific ambient growth conditions and
+plants particularities such as hydraulic resistances within the soilplant system
+plant age and climate Schultz 2003 Lovisolo et al 2010 Chaves et al 2010
+Hochberg et al 2013 Thus there is a demand for knowledge about the
+ecophysiological responses of grapevine cultivars deficit irrigated Chaves et al
+2010 Flexas et al 2010 Flexas et al 2016 LavoieLamoureux et al 2017
+especially in both elevated CO2 and tropical conditions
+        The future of grapevine cultivation is also likely to require an expansion to
+unusual sites Flexas et al 2016 such as the tropics Protected cultivation using
+transparent plastic covering TPC could be a good option for extending the range
+of grapevine cultivation since this technique can protect plants from adverse
+meteorological conditions such as wind and heavy rains Roberto et al 2011 Du
+et al 2015 Permanhani et al 2016 However advantages and disadvantages of
+TPC use are still under debate in the literature so that both negative and positive
+impacts on grapevines photosynthetic capacity fruit yield and quality have been
+observed when TCP is used Stanghellini 2014 Permanhani et al 2016
+        A complete understanding of the effects of elevated CO2 reduced water
+availability and TPC in grapevines is only possible if the balance between
+photosynthesis and leaf respiration R is assessed Flexas et al 2006 Poni et al
+2009 Despite the importance of R to plant life Amthor 2000 SharmaNatu and
+
+Ghildiyal 2005 much less attention has been given to this metabolic process
+Flexas et al 2006 Schultz and Stoll 2010 Morales et al 2016 It is important to
+consider that R occurs continuously throughout the day and the night so that
+approximately 30 to 80 of daily carbon fixed by photosynthesis is respired back
+into the atmosphere Loveys et al 2002 Therefore even small changes in R can
+result in substantial variation in the plants carbon balance Poni et al 2009 Flexas
+et al 2010 Griffin and Heskel 2013 Tomás et al 2014 In addition maintaining
+the balance between photosynthesis and leaf respiration could be advantageous to
+grapevines growth and development especially because the starch stored within
+grapevines tissues at the end of the current season is crucial to early growth on the
+following season Greer and Sicard 2009 Therefore our work aimed to investigate
+the interactive effects of deficit irrigation and both elevated CO2 concentration CO2
+and TPC in the tropics on important physiological traits in grapevines Vitis
+labrusca such as photosynthetic capacity leaf respiration and leaf carbon balance

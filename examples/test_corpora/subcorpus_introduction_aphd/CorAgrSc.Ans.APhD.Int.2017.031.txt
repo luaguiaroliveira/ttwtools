@@ -1,0 +1,64 @@
+1. INTRODUCTION
+
+Tambaqui (Colossoma macropomum) is the largest native Characiform species from the Amazon and Orinoco
+river basins of South America 1. It is a semi-migratory fish 2, with seasonal migrations restrict to floodplains and floodplain lakes for reproduction and feeding 3. In aquaculture, tambaqui has been recognized as an economically
+valuable species because it has an omnivorous behavior, fast-growing, poor water quality tolerance, and has a well
+market acceptance by the consumer. Tambaqui farming is growing rapidly in Brazil, its production reached 139,209
+
+tons in 2014, what corresponds to 57.7% of increase compared with 2013 5. This species is also farmed in different
+countries around the Amazon boundary and was introduced into other countries of Latin America, Asia, and Africa. However, genetic studies of tambaqui are limited to genetic diversity surveys 7,8,9, transcriptome analysis under
+
+specific conditions 10, a couple of SNPs studies 11 and mitochondrial genome sequencing 12. The tambaqui genetic
+studies of farmed and wild populations need a holistic approach for a rational action facing ecological and market
+challenges in aquaculture.
+Genetic studies have provided important information to understand population dynamics, local adaptation,
+gene function and improve selection strategies based on genomic information in breeding programs for several
+species 13,14. Generally, these studies use molecular markers to characterize a population or to evaluate traits of
+interest associated with them. Genetic markers are polymorphic DNA regions distributed along the chromosomes 15
+as restriction fragment length polymorphisms (RFLPs), simple sequence length polymorphisms (SSLPs), amplified
+fragment length polymorphisms (AFLPs), single-nucleotide polymorphisms (SNPs) and short tandem repeats (STR)
+16. SNPs have been well-recognized as the marker of choice for genetic studies in various organisms 17. SNPs are the
+most abundant molecular markers in any vertebrate genome, with a SNP presented in each 100–500 bp on average
+18. SNPs are mostly bi-allelic, making them amenable for high-throughput genotyping using SNP arrays 19,20. The
+SNP markers development before next-generation sequencing (NGS) technology had been a costly, laborious and
+time-consuming work 21.
+
+The NGS allowed huge advance in genomic and transcriptomic approaches 22,23,24 especially for non-model
+species 21. The reduced complexity libraries from NGS approaches based on digestion by restriction enzyme are now
+highlighted because they allow efficient and cost-effective SNP discovery on a genome-scale in any organisms
+without prior genome information 25. Specifically, the genotype-by-sequencing (GBS) is one of these NGS
+approaches 24 characterized as simple, quick, specific, reproducible 24, and has been extensively used to identify a
+large number of SNPs in various model and non-model species 26,27,28,29.
+
+Genetic linkage maps are essential resources for genome and genetic research. They provide frameworks
+for understanding genome structure and function. Linkage maps are essential for quantitative trait locus (QTL)
+identification and mapping. QTLs mapping has been an important way to identify genes related to trait variations
+within and between populations or species, allowing implementation of genetic and breeding programs 30. Genetic
+maps can be used to facilitate genome assembly corrections, anchoring scaffolds onto linkage groups to build
+chromosomal assembly 31.
+
+The recent introduction of tambaqui in several regions of Brazil could create new patterns of adaptive
+variation. The identification of patterns of adaptive variation in non-model species has been challenging particularly
+for species with recently demographic histories34. Genomic datasets are now permitting the identification of outlier
+loci with unprecedented accuracy. Outliers may be an important tool to indicate regions under selection. allowing a
+quick response to the challenges posed by climate changes35. Also, allows the identification of putative loci associated
+or integrated to genes with a known adaptive function. These genes can contribute to important particular processes
+that can be related to metabolic pathways, or be associated with important phenotypes in aquaculture 36.
+
+The presence of intermuscular bones has been a problem in consumption of many farmed fish species
+37,38,39. This phenotype originates from incomplete membranous ossifications of connective tissue in the muscular
+septum 40 as a response to strains suffered by muscles41. It can have important functions in transmission of force,
+contraction, body firmness, and reduction of myomere deformation40. These characteristics can be of great
+importance to wild fishes 42,43, however, they can be secondary in farmed fishes that are not exposed to stresses
+characteristic of wild environments, such as food competition, predation, migration and seasonal variations.
+Tambaqui lacking intermuscular bones were found and reported by Perazza et al. (2016), and can be a model in
+studies of lack intermuscular bones for other species44. However, the genetic mechanisms involved in this phenotype
+have not yet been discovered. Advances in genomic research have significantly improved the tools available for the
+study of commercially important traits in aquaculture 45,46. The use of association studies can help to unravel the
+biological mechanisms involved in this characteristic.
+This thesis presents the effort in the development of studies and tools that can provide advances in the
+genetic improvement of tambaqui. Our approach based on GBS provided a high-density SNPs panel that allowed us
+to develop the first linkage map of tambaqui and association studies with environmental variables, local adaptation,
+and lack intermuscular bones in tambaqui. This thesis is a first effort to discover theoretical references in tambaqui
+breeding, allowing the understanding of genetic processes that are involved with important traits in aquaculture of
+this species.

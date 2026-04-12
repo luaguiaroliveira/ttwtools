@@ -1,0 +1,109 @@
+According to FAO 2014 the current and future production safe food must be in
+accordance with the principles of sustainable agriculture in a manner that is
+environmentally economically and socially responsible over time This requires proper
+management of agricultural systems in food and other products production in relation
+to the available ecological resources while improving or maintaining ecosystem
+services measured in a specified area and over a given period of time GUTON et al
+2016 STRUIK and KUYPER 2017
+   The integrated croplivestock systems ICLS are an alternative aligned with the
+aspirations of sustainable agriculture BONAUDO et al 2014 LEMAIRE et al 2014
+FRANZLUEBBERS et al 2014 GARRET et al 2017 The ICLS are planned systems
+involving temporal and spatial interactions at different scales with animal and crop
+exploitation within the same area simultaneously or disjointedly and in rotation or
+succession ICLS aim to achieve synergism and emergent properties as a result of
+soilplantanimalatmosphere interactions MORAES et al 2014
+   Thus the design and management of ICLS should be concentrated in the
+application ecological concepts and principles GLIESSMAN 1998 TITTONELL
+2014 LEVAIN et al 2015 to act on the functions of ecosystems BONAUDO et al
+2014 thereby increasing efficiency KEATING et al 2010 ALTIERI et al 2012
+resilience ALTIERI et al 2015 BRISKE et al 2017 and productivity TILMAN et al
+1996 CARVALHO et al 2013 into agriculture
+   This can be achieved by practices that promote biodiversity TSCHARNTKE et al
+2012 DURU et al 2015 FAUCON et al 2017 soil carbon and nitrogen stock soil
+conservation mitigation of greenhouse gas emissions MARTINS et al 2017 SÁ et
+al 2017 STAHL et al 2017 SAVIAN et al 2018 water conservation TANG et al
+2014 KUNRATH et al 2015 landscape heterogeneity SABATIER et al 2013
+integrated pest and disease management BARZMAN et al 2015 and stocking rate
+of livestock BRISKE 1993 VON WEHEDEN et al 2012 MUTHONI et al 2014
+MEZZALIRA et al 2017 etc
+   Therefore it is fundamental to understand the functioning of processes such as
+nutrient cycling predatorprey interactions competition symbiosis successional
+changes and social systems involved in agroecosystems for the determination of
+                                                                                                     17
+
+
+
+management targets to promote sustainable ecologicallybased intensification of
+agriculture ALTIERI AND NICHOLLS 2005 TOMICH et al 2011
+    This thesis is organized in three chapters in the form of scientific articles Each
+chapter includes a study of different ecological andor economic processes at different
+spatial and temporal scales performed in separate experiments The processes
+involved in each chapter are summarized in a single conceptual model proposed for
+the thesis
+    The main objective of the conceptual model was to facilitate the understanding of
+the studied processes and identify the importance of each variable between chapters
+    The first chapter consists of understanding of the interactions between the sward
+structure and the processes of herbage harvesting of sheep In addition the shortterm
+intake rate of sheep was assessed for the formulation of pasture management targets
+were interpreted in this chapter
+    The second chapter is composed of herbage mass accumulation modeling for the
+estimation of the instantaneous herbage accumulation rate as a function of the
+herbage mass This study links the results of the first chapter under the perspective
+of optimizing the efficiency of the process of herbage growth and the herbage intake
+by the animals
+    The third chapter consists of the understanding of ecological and social processes
+involved in the interactions between soil livestock crop components and external
+environment under the context of integrated systems The objective of this study was
+to interpret the effect of different grazing intensities in the economic and flow of nitrogen
+and phosphorus dynamics to promote resilience1 The grazing intensities in this study
+represent the level of interaction between the pasture and the animals studied in the
+first two chapters
+    The first and second chapters are studies that evaluate plant animal and climate
+interactions in small spatialtemporal scales In the third the study evaluates the
+productive system within the context of large scales of space and time
+
+
+Hypotheses
+       Is there a sward structure of Schedonorus arundinaceus that maximizes the
+        shortterm intake rate of sheep
+
+1
+  Resilience is understood in this thesis as the ability of a system to absorb an amount of disturbance
+in nutrient flow and economic context and under time effect without changing to a different state
+                                                                                     18
+
+
+
+      If the previous hypothesis is confirmed is there an optimal convergent point
+       between shortterm intake rate and instantaneous herbage accumulation rate
+       of Schedonorus arundinaceus
+      Can integrated agricultural production systems contribute to the promotion of
+       resilience in the economic and nutrient flow context
+      If confirmed can grazing intensities contribute to increased resilience
+
+
+Objectives
+
+
+       The thesis aims to identify pasture management strategies based on a more
+efficient use ecological processes of the plantanimal interface and to evaluate if they
+can contribute to the promotion of sustainability in agricultural systems through
+resilience
+
+
+Specific objectives
+      To evaluate shortterm intake rate of sheep as a function of different structures
+       of Schedonorus arundinaceus
+      To model the herbage mass accumulation of Schedonorus arundinaceus
+       throughout the seasons based on the Gompertz curve model
+      To estimate the instantaneous herbage accumulation rate of Schedonorus
+       arundinaceus as a function of the herbage mass throughout the seasons
+      To develop a model of nutrient flow in an integrated croplivestock system under
+       different grazing intensities
+      To calculate resilience of nitrogen and phosphorus flow using Ecological
+       Network Analysis in an integrated croplivestock system under different grazing
+       intensities
+      To develop and calculate the economic resilience index of an integrated crop
+       livestock system under different grazing intensities
+      To evaluate the correspondence between flow and economic resilience an
+       integrated croplivestock system under different grazing intensities

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ttwtools"
+version = "0.1.0"
+description = "Tagging and key feature analysis tools built around BiberPlus workflows."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  "numpy",
+  "pandas",
+  "tqdm",
+  "matplotlib",
+  "seaborn",
+  "biberplus",
+]
+
+[tool.setuptools]
+packages = ["ttwtools"]

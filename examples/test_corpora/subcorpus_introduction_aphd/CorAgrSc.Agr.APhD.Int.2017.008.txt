@@ -1,0 +1,80 @@
+In recent years the impact of global climate changes is a central issue in
+scientific events in particular those from biology ecology and agriculture areas
+This is due to the foreseeable effects of climate changes on plants metabolism
+namely on plants growth and productivity as well as on agricultural products
+quality In fact global climate changes are usually associated with the increase in
+air CO2 concentration CO2 and temperature and reduced amount of water
+available for agriculture Drake et al 1997 Idso and Kimball 1997 Luo et al
+1999 with negative impacts for the food and feed supply regarding a growing
+world population DaMatta et al 2010
+        Presently mostly related to anthropogenic action air CO2 is increasing at
+a rate close to 2 µL L1per year and depending on future emissions it is estimated
+to reach values exceeding 700 μL CO2 L1 along the second half of the present
+century probably accompanied by global warming up to 37 to 48 C by 2100
+IPCC 2014 Since the optimal annual mean temperatures for plant development
+are in the range of 1823 ºC for C arabica and of 2226 C for C canephora
+DaMatta and Ramalho 2006 it has been argued that coffee particularly C
+arabica will be highly sensitive to climate changes and that global warming will
+threaten the coffee supply in a near future Davis et al 2012 Bunn et al 2015
+        Coffee is a tropical crop that is grown in approximately 80 countries
+making it one of the worlds most traded agricultural products The world coffee
+trade is supported by C arabica L Arabica type of coffee and C canephora
+Pierre ex A Froehner Robusta type of coffee species which are responsible for
+nearly 99 of coffee production Davis et al 2012 Global annual yield is
+currently above 85 million tons of green coffee beans ICO 2016 and is
+estimated that the chain of value of coffee generates an income of ca US
+173000 million and involves ca 100 million people worldwide ICO 2014
+        For some crops considered as primary foodstuffs such as rice wheat
+cotton and soybeans Baker 2004 Caldwell et al 2005 Luo et al 2005
+Ainsworth and Rogers 2007 Yoon et al 2009 as well as shrub species such as
+coffee Ramalho et al 2013a Ghini et al 2015 DaMatta et al 2016 several
+research have been designed to study the effects of the changes in air CO2 on
+plant metabolism growth and yield However only a relatively small percentage of
+such studies combine the other environmental disturbances that are predicted to
+accompany such air CO2 rise such as increased temperature and decreased
+water availability either by scarcity or by changing rainfall patterns and their
+interactive impacts on plant productivity In this context studies that integrate
+these different variables can constitute a more realistic view of how productivity
+and quality of products obtained from cultivated plants will be affected by global
+climate changes DaMatta et al 2010 Silva et al 2017 With respect to coffee a
+plant with economic and social importance until very recently Ramalho et al
+2013a nothing was known about the potential effects of CO2 increase and its
+interaction with other environmental changes at physiological and biochemical
+level and grain yield and quality Recent efforts have addressed the combined
+effect of increased CO2 and supraoptimal temperatures namely on the dynamic
+of mineral nutrients Martins et al 2014 Cassimilation metabolism Rodrigues et
+al 2016a which constitutes part of this thesis and protective mechanisms and
+gene expression patterns Martins et al 2016 in coffee genotypes
+        The use of tools to identify the effects of changes in air temperature andor
+CO2 on both plant metabolism and adaptationtolerance mechanisms is crucial to
+future crop yields Among these useful tools gas exchanges chlorophyll a
+fluorescence electrons transport rates involving photosystems I and II enzymes
+activities eg related to antioxidant photosynthetic and respiratory pathway
+photosynthetic pigments dynamics of assimilate partitioning and membrane lipid
+composition growth rates and genes expression measurements have been used
+as probe to the global functioning of the plant Falcone et al 2004 Ramalho et
+al 2013a Ghini et al 2015 Martins et al 2016 Silva et al 2017 Regarding
+the gas exchange measurements many ones have been reported widely at single
+leaf level and it cannot be extrapolated to the whole plant In this context
+measuring wholecanopy gas exchange will integrate net photosynthesis and
+transpired water values at the global plant level and can becomes an important
+tool to improve the accuracy of data interpretation and consequently our
+knowledge about plants responses to these environmental modifications Glenn et
+al 2003 Poni et al 2014 Ferraz et al 2011 Ferraz et al 2016
+        Although several reports have predicted negative impacts of elevated
+temperature on coffee crop in the most important coffee production areas around
+the World including Brazil Assad et al 2004 Davis et al 2012 Bunn et al
+2015 the real impacts of supraoptimal temperature on a long term basis on
+coffee physiology remains to be studied This is because under gradual exposure
+several reports have showed coffee plants might cope with some stress such as
+cold high irradiance and drought Ramalho et al 1998 Lima et al 2002
+Campos et al 2003 Partelli et al 2009 Ramalho et al 2014 The coffee ability
+to cope with such stress is mainly due to increases in both enzymatic and non
+enzymatic antioxidants system as well as changes in lipid classes and degree of
+saturation of fatty acids in the chloroplast membrane Ramalho et al 1998 Lima
+et al 2002 Campos et al 2003 Additionally global warming is associated with
+rising atmospheric CO2 which in turn can stimulate photosynthetic rates in
+coffee plants Ramalho et al 2013a Therefore our pioneering work focuses on
+analyzing the physiological and biochemical performance of coffee genotypes from
+two main cropped species C arabica and C canephora exposed to enhanced air
+CO2 andor supraoptimal temperature on a long term basis

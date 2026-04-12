@@ -1,0 +1,510 @@
+CHAPTER I– INTRODUCTION
+
+Ration formulation that targets the maximal N efficiency diets for dairy cattle is a
+desirable objective for achieving optimal nitrogen utilization and improved dairy system
+profitability given that protein typically represents about 40% of total cost of the diet for
+lactating dairy cows (St-Pierre and Sylvester, 2005). Furthermore, reductions in nitrogen
+(N) intake and N excretion have environmental benefits as livestock systems impact air
+and water quality and excess N can contribute negatively to eutrophication and soil acidity
+(Castillo et al., 2000).
+Conversely, several nutrition models indicate that low crude protein (CP) diets,
+especially corn-based diets, commonly result inadequate postruminal flow of lysine
+(Lys), and contribution to metabolizable protein, to the small intestine. Because lactating
+dairy cows have a high need for protein as a source of amino acids, and supplementation
+with the optimal amino acid profile in the diet may reduce nitrogen excretion while also
+not affecting production, it is critical to develop feeding strategies that accomplish both
+reduced CP intake and optimal postruminal AA supply. Based on these goals the
+recommended level for Lys and Met in metabolizable protein range from 2.2% to 2.4%
+for Met and 6.6 to 7.2% for Lys resulting in Lys to Met ratio in the metabolizable protein
+(MP) of approximately 3 (NRC, 2001a; Arriola Apelo et al., 2014a). Thus, diets balanced
+to the established AA requirements offer the opportunity to provide similar or gre ater
+amounts of limiting AA in the small intestine.
+Lysine is an essential amino acid for dairy cattle. Because the rumen microbes are
+able to effectively hydrolyze, deaminate and decarboxylate amino acids from the diet the
+success of postruminal Lys supplementation depends on a protective coating to avoid
+Lys utilization by rumen microorganisms but permits absorption by the cow (Berthiaume
+et al., 2000). Increasing the supply of Lys to dairy cows, using rumen protection
+technologies, is a strategy to increase Lys availability for absorption and potential for use
+by the lactating mammary gland for protein synthesis. Although the potential value of
+feeding rumen protected Lys has been recognized for some time (Donkin et al., 1989)
+there are still only a few studies reported using protected Lys (RP-Lys) sources
+(Robinson, 2010). One of the hallmarks of the studies that have been published for RPLys 
+is a small nonsignificant response in milk production and milk protein composition
+and yield (Mullins et al., 2013; Giallongo et al., 2016; Weiss, 2019). The lack of strong
+and positive results due to Lys supplementation may have been du e to Lys is first limiting
+but not sufficiently supplied. This may also be related to the requirement calculation,
+feeding method and strategy, or Lys supplementation alone resulting in an
+imbalance/deficiency in another essential AA. Therefore, a better understanding of the
+observed failures in RP-Lys supplementation should be further investigated.
+In addition to the resilience against the rumen environment, RP-Lys technologies
+must also resist breakdown during the mechanical mixing process with common
+feedstuffs, the impact of exposure to moist feeds in the diet, and the effects of acidic and
+basic feeds. A lack of protection from these factors may decrease the Lys delivered from
+a RP-Lys source. In many cases the characterization of the stability of RP-Lys in feeds
+and the mechanical mixing process are overlooked while rumen stability is documented.
+It is important to recognize this potential effect of feed mixing in assessing rumen
+protection strategies and postruminal delivery of AA to dairy cattle.
+The duodenum, commonly referred to as the small intestine, is the primary site
+for AA absorption in dairy cows, therefore, ensuring that dietary AA are able to reach the
+small intestine for digestion and absorption is crucial to improving AA nutrition and
+potentiating a production response.
+
+Determining the bioavailability of individual
+
+essential amino acids (EAA) in the small intestine is difficult. The dairy NRC (2001) uses
+an empirical equation to predict EAA flows, but such an approach likely misses some of
+the subtler changes in supply and cannot be used outside of the range of the data used to
+derive the equations. Plasma amino acid concentrations reflect AA supply and rumenprotected 
+aminoacid supplementation and have been used as an index of dietary AA
+supply but are subject to fluctuations in intake, supply and physiological status (Weekes
+et al., 2006). Changes in plasma AA with acute changes in postruminal AA are possible
+(Weekes et al., 2006) and provide a relative assessment of level of rumen-protection
+combined with digestibility and absorption across the small intestine. All these steps are
+crucial to increase the postruminal supply of AA and as a strategy to increase N use
+efficiency and dairy cattle performance.
+The work described in this thesis is an evaluation of a rumen-protected Lys
+product including test of stability in feeds and in the rumen, relative estimates of post
+ruminal bioavailability, and impact on production parameters when fed to lactating dairy
+cows receiving a Lys deficient corn-based diet. In supporting a greater understanding of
+postabsortive lysine metabolism, the effects of lysine and energy supply were explored in
+an in vitro system of bovine cellular metabolism. Taken together the information uncovers
+important criteria necessary for the full evaluation of RP Lys for lactating dairy cows.
+
+CHAPTER II - LITERATURE REVIEW
+
+2.1. Current protein recommendation for dairy cattle
+Dietary crude protein (CP) for ruminants and nonruminants is expressed as the
+nitrogen content of feeds multiplied by a factor of 6.25. However, in balancing diets for
+ruminants the partitioning of CP to rumen degradable (RDP) and rumen undegradable
+(RUP) creates a level of complexity necessary in defining and meeting the CP needs of
+the animal (NRC 2001). Regardless, many practicing nutritionists in the field are still
+considering CP in balancing diets (Schwab and Broderick, 2017) despite recognition
+since the 1990s that requirements for dairy cattle are met through a combination of RUP,
+RDP, and the dynamics between RDP and ruminal energy available for microbial protein
+synthesis (NRC, 2001). Optimal feeding strategies combine balances for the amount of
+N and amino acids that maximize the microbial protein synthesis linked to the right
+amount of rumen undegradable protein and AA profile that meets the requirements for
+metabolizable protein by the cow (NRC, 2001a; Schwab and Broderick, 2017).
+Meeting the amino acid requirements for dairy cows hinges on optimizing the
+rumen environment to maximize the synthesis of microbial protein and flow of amino
+acids from microbial protein to the small intestine (SI) and then augmenting with rumen
+undegradable protein and amino acids to match the post-absorptive requirements of the
+cow for maintenance, growth, pregnancy, if applicable and lactation. The NRC (2001)
+model divides dietary protein into RDP, and RUP. Both microbial CP and RUP flowing
+out the rumen and are digested in the abomasum and small intestine, the AA from which
+are then absorbed in the SI for host utilization. Thus, conceptually the total supply of MP
+fulfilling the AA needs of the cow is met from ruminally synthesized microbial CP, RUP
+and, to a much lesser extent, endogenous CP reaching the SI (Clark et al., 1992; NRC,
+2001a). In practice, CP that could be easily measured in the feed, however the
+contribution of CP to metabolizable protein is dependent of several factors such as total
+N to fermentable carbohydrate, protein solubility, rumen digestibility and passage rate,
+and consequently because of this complexity computer models are necessary to estimate
+rumen parameters and relationships (Zanton, 2017) and reduction of parameter estimates
+to measurable chemical and physical attributes in feeds is still a challenge.
+Protein requirements of dairy cows have been assessed in dose-response studies
+(NRC, 2001a). Similar diets are fed to the animals containing increasing amounts of CP
+and milk production is tracked as the response variable. The point at which in milk volume
+or milk protein production reaches a plateau with increasing supply of crude protein is
+identified as adequate, or requirement. The NRC (2001), compared protein milk yield and
+milk protein yield response to changes in the dietary CP concentration using a data set of
+393 means from 82 protein studies. They observed that milk yield increased quadratically
+as diet CP concentrations increased and the maximum milk production was obtained at
+23% of CP. The milk production expected increases is 0.75 kg/d to 1 % of CP increases
+between 15 to 16 percent of diet CP and increasing dietary CP 1% unit from 19 to 20%
+would be expected to increase milk yield by 0.35 kg/d.
+Increasing dietary crude protein in diets for lactating dairy cattle to support high
+levels of milk production could increase the N excretion and reduce the nitrogen use
+efficiency (NUE) (Olmos Colmenero and Broderick, 2006). These authors reported an
+increase in milk yield, with increasing dietary CP concentration up to 165 g/kg of DM,
+after which point, they observed a decline in milk yield.
+In excess, the crude protein is extensively degraded in the rumen exceeding the
+capacity of rumen microorganism assimilate the amino acid and ammonia, which leads
+to an increase in ammonia concentration in the rumen. Ammonia can be removed from
+the ruminal environment, mainly via diffusion, and can subsequently be returned to the
+rumen or lost as urea through urine, feces and milk (Russell et al., 1991). Overfeeding
+crude protein often results in a decrease in profit margin due to the high costs of protein
+supplements and low efficiency of ruminants in using nitrogen (Broderick, 2003; Hristov
+and Giallongo, 2014).
+Cows are inefficient in using N (Hanigan et al., 2018; Vandaele et al., 2019) but
+it is probably not an inherent limitation of the specie and might be related to the
+overestimation of the requirements. Ruminants have a nitrogen use efficiency (NUE)
+that is typically 20–35% of intake N. In a metanalytical study Spek et al. (2013) presented
+NUE for modern lactating dairy cow that averaged 26.1% in North America and 27.4 in
+Northern Europe. These low efficiency use rates are associated with high CP
+supplementation and results in increasing N excretion in urine and feces which may
+contribute to environmental pollution (Hristov et al., 2011; Powell and Rotz, 2015).
+The concentration of N in urine, especially in the form of urea, varies more than
+N in feces. After excretion, fecal N is relatively stable, but urinary urea N can transform
+rapidly to ammonium (NH 4+) and can subsequently be lost as NH 3. Ammonium can also
+nitrify and denitrify, forming NO 3- and N2O (the most potent greenhouse gas emitted from
+agricultural systems) (Edouard et al., 2016). As reducing the environmental footprint of
+milk production concern (FAO, 2006), especially with the reduction of N pollution, there
+is a need to increase the efficiency of nutrient utilization so as to minimize nutrient
+excretion.
+The maximum efficiency is not necessarily aligned with the best performance
+related to cost, animal longevity, efficiency of nutrient use, or with environmental
+conservation practices. Therefore some degree of deficiency and reduced animal
+performance may be acceptable in justifying the marginally deficient nutrient supply
+(Owens et al., 2014).
+Chibisa and Mutsvangwa (2013) showed that milk yield decreased by 3 kg per
+cow per day and milk protein yield decreased by 140 g per cow per day when dairy cows
+were fed diets containing 15.2% CP compared to 17.3% CP. Lee et al. (2012) observed a
+reduction in milk yield in dairy cows fed a diet deficient in metabolizable protein
+compared to a diet adequate in metabolizable protein. Colmenero and Broderick (2006)
+studied the crude protein content of diets fed to dairy cattle ranging from 13.5 to 19.4 %
+CP and observed a trend towards decreased DMI of 0.7 kg/d (P = 0.22) and milk
+production 2 kg (P = 0.1 in a quadratic fashion) with reduced CP feeding.
+Owens et al. (2014) in order to examine the relationship between performance and
+dietary protein concentration, used a dataset from 13 published trials. Data were analyzed
+by regressing the performance data in relation to dietary CP concentration and tested for
+significance of linear, quadratic and cubic dietary CP responses including diet as a fixed
+factor. The authors observed with the equations that decreasing dietary protein from 18%
+to 17, 16, and 15% of diet DM would be expected to decrease expected daily fat corrected
+milk (FCM) yield by an average of 1.4, 3.0, and 5.0 kg/d below FCM yield with 18% CP.
+Although the changes identified by the authors were not statistically different in single
+studies the magnitude of the effect, if consistent would be economically imp ortant.
+A primary goal for the modern dairy nutritionist is formulating diets that meet the
+metabolizable protein needs of dairy cows by feeding to match the least amount of protein
+content possible without causing detrimental effects in milk production and on this way
+reduce the N excretion. Some of the uncertainty in response to reducing CP in diets may
+be the result of inaccuracies in predicting rumen metabolism and microbial protein
+synthesis, in predicting RUP, estimating flow and postruminal digestion or a combination
+of these factors. Furthermore, because AA supply with reduced CP is close to borderline
+sufficiency the effects of these inaccuracies may be amplified. Although many diets,
+when fed at low CP levels, may be deficient in Lys and methionine (NRC, 2001a) because
+of that overfeeding crude protein (> 17% of the diet) has overcome potential amino acid
+deficiencies for high producing dairy cows. However, it may be possible to achieve high
+milk yield and milk protein yield in dairy cows with lower CP diets by supplementation
+using ruminal protected AA especially for those AA that are limiting for milk production
+and optimal health. Thus, supplementing rumen protected Lys and Met is a strategy to
+increase or maintain milk yield when dietary CP content are lower (Armentano et al.,
+1997; Dinn et al., 1998).
+
+2.2.
+
+Current amino acid recommendation for dairy cattle
+
+Amino acids are designated as dietary essential and non-essential depending on
+the body's ability to synthesize it in adequate quantities to meet tissue needs or not. Nine
+AA cannot be formed in cellular metabolism and must be absorbed from the
+gastrointestinal tract (His, Ile, Leu, Lys, Met, Phe, Thr, Trp and Val). Three amino acids
+(Arg, Cys, Tyr) are denoted as “semi-essential” because they can be synthesized but
+supplementation improve performance, Arg is synthesized in the urea cycle, or because
+they can spare other AA requirements since they are used partly to synthesize, Cys and
+Tyr could spare Met and Phe requirements. The remaining 8 AA are referred to as “nonessential” (Broderick, 2016)
+High milk production requires high output of amino acids, which means that the
+CP intake needs to be increased and/or a supplemented, to improve the AA ratio of the
+protein that reach the small intestine.
+A survey conducted by the Dairy Herd Management show that 81 % of the
+nutritionists and veterinarians formulate diets to balance for AA content (Dairy Herd
+Network, 2010), aiming to reduce CP level of the diet. The value of feeding diets with
+reduced CP levels is recognized as a means to reduce feed costs but also as a means to
+reduce N output in the manure (Arriola Apelo et al., 2014a). Thus, rumen protected amino
+acid supplementation could be used as a strategy to avoid the lost in milk and solids
+production due to the use of the low protein diets (Broderick et al., 2008).
+Initial studies explored the sequence of AA limitations in dairy cows fed with
+corn-based diets and Lys and methionine were identified as the two main limiting amino
+acids (Schwab et al., 1976; NRC, 2001a). However, histidine may be the first limiting
+amino acid when high producing dairy cows are fed with high forage diets due to the low
+content of rumen undegradable in the diet, the reliance in the microbial protein to supply
+metabolizable protein and the low level of His in microbial protein (Vanhatalo et al.,
+1999; Lee et al., 2012). Despite recognizing the potential limitation in His with high
+forage diets current nutritional standards for dairy cows in the US (NRC, 2001) provide
+recommendations for methionine 2,5 % of MP and Lys 7.2 % of MP only. Histidine has
+been shown to limit milk production in lactating cows in some studies, but histidine
+requirements in the diets have not been defined.
+Metabolizable protein, the sum of the microbial protein, protein which escapes
+degradation in the rumen and endogenous protein secreted into the gastrointestinal tract
+prior to the duodenum, represents the total protein which is available to the animal for
+maintenance, growth, fetal growth during gestation, and milk production (NRC, 2001a).
+Together, RUP and microbial protein have been estimated to represents 50 to 80% of the
+total protein flow to the small intestine (Bach et al., 2005). The range in this estimate
+creates an inaccuracy in predicting protein flow from the rumen. However, Pacheco et al.
+(2012) comparing four rumen sub models predictions with observed values of duodenal
+flows of EAA concluded that recent commercial models may more accurately predict the
+flow of EAA to the duodenum. It would appear that additional work is needed to test,
+refine and implement models that permit greater precision in AA nutrition for dairy cows.
+There are two different approaches that have been used to determine the AA
+requirements of lactating cows. The proportional approach adopted by the (NRC, 2001a)
+and (INRA, 2007) which includes a broken stick model, a dose-response relationship
+between the % of individual AA in MP supply and milk protein yield or percentage. The
+% observed at the breakpoint represents the proportion of this AA in MP supply required
+to maximize the targeted output (Lapierre et al., 2014). The second is the factorial
+approach which takes into account the AA needs for each individual function with a
+defined AA composition and a defined efficiency of transfer. This approach is used by
+CNCPS (Fox et al., 2004), AMTS and Amino cow, two commercially available models
+designed to predict MP and metabolizable (or digested) AA supply with needs using feed
+input data (Pacheco et al., 2012).
+Without quantitative estimates and knowledge of the supply of the amino acids
+reaching the small intestine coupled with knowledge of the AA requirements of lactating
+cows the response to AA supplementation might be random and inconsistent (Robinson,
+2010; Pacheco et al., 2012). Deficient post-ruminal AA supply, related to the limitation
+of one or more AA available to tissue, will result in limitations for protein synthesis.
+According with the limiting AA theory, the most limiting AA dictates the efficiency of
+utilization of absorbed AA and it could explain the observed performance limitations.
+When the first limiting AA supply is corrected the performance will be improved until
+other AA becomes limiting in the synthesis process (Schwab et al., 1992).
+Attempts in identify the first single limiting AA for milk protein synthesis or
+sequentially limiting AA have failed (Cant et al., 2018) leading to the belief that there
+may be limiting set of EAA that are needed simultaneousness to promote protein
+synthesis. The fact that milk production could be affected by the same magnitude when
+different amino acids are removed from duodenal EAA supply or the fact that insulin or
+glucose could change the milk protein synthesis even when plasma EAA concentrations
+are reduced tends to support the theory that AA are required as a group (Mackle et al.,
+2000; Weekes et al., 2006; Toerien et al., 2009; Doelman et al., 2015; Cant et al., 2018).
+The optimal amounts of Lys and Met requirements indicated by the NRC (2001)
+model are 7.2 and 2.4 % of metabolizable protein respectively. Schwab, (2012) presented
+a compilation of breakpoint estimates for required concentrations of Lys and Met in MP
+for maximal content and yield of milk protein for the NRC (2001), CPM, and AMTS
+models using the NRC (2001) database re-evaluated by Schwab et al., (2009) and
+Whitehouse et al. (2009). The results observed by the authors are different for the updated
+NRC (2001) version when compared with the first version of the NRC (2001) mostly
+because of the difference in feed inputs for some of the studies. They also observed
+differences in the estimative for different models which was expected since the models
+differ in the approach for predicting supplies of AA.
+Knowledge about Lys and methionine requirements in lactating cattle has made
+significant progress (Schwab et al., 1992; Rulquin et al., 1993) and, by providing
+recommendations and adequately supplementing the animals, an improvement in
+performance is observed (Leonardi et al., 2003; Noftsger and St-Pierre, 2003). The same
+effort must be made in an attempt to establish requirements for all essential amino acids
+and thus be able to replace the crude protein as the main reference in the diets formulation
+(LaPierre et al., 2019). The use of low crude protein diets supplemented with amino acids
+protected from ruminal degradation seems to be the best economically productive and
+environmental approach in milk production systems.
+Estimations of the optimal supply of individual AA, as defined in Doepel et al
+(2004), using a meta-analysis approach are presented in Table 1. These authors used
+studies where AA or proteins were infused postruminally in order to determine the
+influence of AA supply on the variation of the efficiency of conversion of AA into milk
+and to estimate requirements for EAA. The results indicate a similar pattern of amino acid
+MP regardless of the method used to evaluate the data available in the literature.
+
+2.3. Rumen protected amino acid technologies
+The great advantage of ruminants, the symbiotic association of rumen bacteria
+with the animal in the rumen, can be both beneficial with regard to the protein nutrition
+because of the ability to convert non-protein N into a high-quality protein through
+microbial protein synthesis but also detrimental due to the degradation of supplemented
+free amino acids by the rumen microorganisms (Wu and Papas, 1997). Consequently,
+supplementation in a non-protect form usually results in an AA utilization by the ruminal
+microorganism and no changes in the metabolizable protein. The initial attempts to
+supplement unprotected Lys for lactating cows suggested that this could be a viable
+alternative. Early research (described in Wu and Papas, 1997) evaluated ruminal Lys
+escape using pulse dose infusion, reported ruminal escape of free Lys that varied from 10
+to 29% of the infused dose and suggest that free Lys might represent an option f or
+enhancing Lys supply. However this approach was later discarded due to the confirmation
+of the low rumen escape rate especially when the source of Lys was mixed with TMR
+(Robinson et al. 2004) where ruminal escape rate is only 7.2 % of the free lysine.
+Consequently, the amount of Lys escaping the rumen relative to the quantity provided in
+the diet necessitated other approaches to supplementation.
+Thus, AA supplementation success depends of the adequate coating protection to
+avoid the Lys utilization by rumen microorganisms (Berthiaume et al., 2000). The
+protecting derivate must be then stable in the rumen but release the amino acid in the
+abomasum/small intestine. The main industrial methods used to protect AA are: 1) the
+production of AA analogs, which are more stable under ruminal condition; 2) coating
+with fat, mixtures of fats and proteins, proteins treated with formaldehyde or calcium
+soaps of long chain fatty acids; 3) encapsulation with polymer compounds resistant to
+rumen degradation, but which are hydrolyzed in the abomasum (Alves, 2004).
+Wu and Papas (1997) defined desirable characteristics of rumen-protected amino
+acid pellets (Fig 1). This authors also listed the criteria that should be meet for a polymer
+used to formulate the rumen-stable delivery system: 1. Physiologically inert, nonabsorbable, unchanged in excretions in animals such as rats, dogs, cows and steers, 2.
+Non-mutagenic; 3. Produces no adverse effect following chronic feeding; 4. Thermally
+stable or non-degradable at temperatures experienced during process and storage; 5.
+Insoluble in ruminal fluid, but soluble in abomasal fluid; 6. Soluble in common volatile
+organic solvents for coating applications. The water solubility of Lys is so high that the
+development of RP-Lys has been a great challenge which to date has favored ruminal
+protection technologies for Lys that utilize hydrogenated fat and/or minerals. These are
+advantageous because they are already registered as feed ingredients, regarded as safe
+and do not require special testing for approval as feed supplements (Watanabe et al.,
+2006).
+A variety of rumen protected products are available in the market with different
+coated protection forms and amino acid cores. Other factors such as the mechanical
+mixing process, diet moisture, acidity and the time that RP-Lys product is exposed to feed
+could decrease the AA retained in the rumen protected products. Several studies have
+evaluated the stability of the ruminal protected amino acids in the feeding and mixing
+process, and the bioavailability through the performance response of the cows and also
+using the plasma amino acid concentrations changes due to supplementation
+
+As indicated above most of the Lys rumen protected amino acids available in the
+market are lipid-coated. Studies that evaluated the stability of the Lys coated products
+exposed to the mixing process concluded that methods of manufacture together with the
+physical and chemical composition of the diets can affect the amounts of Lys provided
+from the lipid coated products to the ruminants (Ji et al., 2016; Reiners et al., 2017, 2018).
+Those studies also found a wide variation in the stability of the products related to the
+capacity of retain the Lys which clearly impacts the final bioavailability of the product.
+Increases in the plasma AA concentrations in response to postruminal delivery of
+a RP AA have been used to determine the ability of RP-Lys products to be absorbed
+across the duodenum. Whitehouse et al. (2017) using this principle and the dose-response
+technique determined the relative bioavailability of 27 products tested in 13 different
+experiments using the free AA dose technique. There was a wide range (5 to 85%) in the
+bioavailability between products delivered postruminally at different levels. This high
+variability observed may reflect the difficulties in creating a coating process that
+effectively protects Lys from ruminal degradation while allowing consistent release of
+the encapsulated Lys in the intestine. This inability to consistently provide products that
+deliver predictable payloads of Lys may help to explain the challenges faced by the
+industry in effectively developing an RP Lys source and documenting the effects of
+postruminal Lys supply (Robinson, 2010).
+
+2.4. Postruminal amino acids supplementation
+Lysine and Met have been the primary focus of the research on postruminal AA
+supplementation because those two amino acids are identified as the first limiting in a
+typical corn-based diets in US. Postruminal infusion of 6 to 12 g/d of Met (Pisulewski et
+al. 1996) increased milk protein yield and content in a linear fashion. A meta-analysis of
+129 RP-Met studies determined that supplementation increased milk protein content and
+yield and slightly increased milk production (Patton, 2010). A more recent metanalysis
+(Zanton, 2017) indicated that infusing or supplementing with sources of Met which
+increased Met in MP resulted in increases in both milk protein and fat yield.
+In contrast, postruminal methionine supplementation, when combined with Lys,
+frequently increases milk production (Lean et al., 2017). Post ruminal infusion of a
+complete mixture of amino acids increases in milk protein yield, although, when Lys was
+eliminated from the EAA mixture milk production and milk protein production were
+similar to saline infusion (Weekes et al., 2006; Lapierre et al., 2009). Guo et al. (2017)
+investigated responses of milk protein synthesis and mammary AA metabolism to a
+graded decrease of post ruminal Lys supply used 4 lactating goats in a 4 × 4 Latin square
+experiment. Treatments included a graded decrease of Lys content in the infusate to 100
+(complete), 60, 30, or 0% of Lys in casein. When Lys was removed from the infusate
+there was a linear decrease in milk yield and a tendency for an increase in milk fat to
+protein ratio. Milk protein content and yield were linearly decreased by graded Lys
+deficiency. For the authors these data suggest that a decrease in milk protein yield linked
+to graded Lys deficiency was mainly a result of the varied physiological status, indicated
+by the elevated circulating glucagon and glucose, rather than a result of the decreased
+mammary Lys uptake or depressed signals in the mTOR pathway.
+In other studies, when Lys was infused postruminally there are inconsistent effects
+on milk production and composition (Rulquin et al., 1993; Tucker et al., 2017). Increasing
+post ruminal Lys supply failed to alter mRNA transcripts of key genes in Lys and protein
+catabolism in liver and mammary tissue despite the fact that these genes are regulated in
+other species by lysine supply and there was an increase in alpha amin o adipic acid, a
+breakdown product of Lys, with increasing lysine supply (Tucker et al. 2017). The data
+suggest that hepatic Lys metabolism in bovine is not responsive to Lys supply at the
+transcription level, and that the availability of Lys to extrahepatic tissue may be
+determined by hepatic Lys metabolism.
+
+The determination of Lys requirements together with other essential amino acids
+are the first step to optimize the nutrition and efficiency of N use by dairy cows. However,
+the profile of amino acids that reach the mammary gland, and are available for milk
+protein synthesis, is different from that one which is available to be absorbed in the small
+intestine. If the ultimately goal is to maximize milk protein synthesis and N use efficiency
+then the next step to be taken is understand the potential modifications of the AA profile
+supplied, post absorptive metabolism, and also the portioning of the available AA
+between mammary gland and other tissue (Bequette and Nelson, 2006).
+Overall only a small number of studies have evaluated RP Lys (RP-Lys)
+supplementation alone without another RP AA.
+
+For most there is a small or nonsignificant response in milk production and milk protein composition and yield
+(Mullins et al., 2013; Giallongo et al., 2016; Weiss, 2019). Robinson (2010),
+systematically evaluated the literature to determine if duodenal Lys level and RP Lys
+impacts the performance of dairy cows. Results demonstrate that Lys supplementation
+decreased DM intake as much as 1.9% when compared with control groups and increased
+the milk/DM ratio. In the 13 studies that were used for the analysis there were no other
+differences in milk yield, milk protein production or N efficiency due to Lys feeding
+(Robinson, 2010). Awawdeh (2016) reported an increase in milk production and protein
+content when cows were supplemented with RP-Lys and RP-Met compared with cows
+supplemented only with RP-Met or not supplemented suggesting a co-limitation in Lys
+and Met.
+Several hypotheses could explain the lack of response to RP-Lys feeding
+especially in diets that were formulated to be lysine deficient. Among them, is the
+potential that a single level of Lys feeding may create an AA imbalance at the intestine
+to impair Lys absorption (Robinson et al., 2011). Other explanations include insufficient
+supply of a colimiting essential amino acid (Robinson, 2010; Mullins et al., 2013; Lee et
+al., 2019), or increased hepatic catabolism and loss of absorbed Lys to other tissues
+including the mammary gland (Doepel et al., 2004; Swanepoel et al., 2010; Nichols et al.,
+2019). Evaluating these hypotheses will require a more detailed understanding of
+metabolism of AA and the relationship to other nutrients including energy metabolism.
+Although Lys and Met have been identified as potentially limiting in corn based
+diets, histidine is been identified as also colimiting amino acid in the corn based diets fed
+to dairy cattle in the US and as first limiting for cows feed with diets based on grass silage
+and a cereal‐based supplement (Korhonen et al., 2000). Hadrová et al. (2012) evaluated
+the effect of duodenal infusion of histidine on milk yield, milk composition, and plasma
+amino acids in lactating dairy cows, failed to observe any difference for milk production
+or composition despite of the increase in plasma His concentration.
+Most of the beneficial effects of His supplementation have been observed when
+low protein diets were fed to dairy cows (Kim et al., 1999; Lee et al., 2012) and have led
+to the working hypothesis (Lee et al. 2012) that low CP diets increase the dependency on
+the microbial crude protein (MCP) to supply to meet MP supply and that MCP may be
+limiting in His. Despite recognition as one of the top three limiting amino acids for high
+yielding dairy cows, the benefits of postruminal supplementation of Met Lys and His
+combined has been small. A more thorough understanding of feeding strategies,
+evaluation of amino acid sources, and determination of cow requirements are necessary
+to improve response supplementation and to achieve the goal of improving performance
+and efficiency of dairy cows N use.
+
+2.5. Postabsorptive Lys metabolism
+Once absorbed by the intestine AA are first transported to liver through portal
+blood. Is well recognized that approximately 1/3 of the EAA amino acid pool that
+disappears from the lumen of the small intestine will be oxidized by the portal drained
+viscera, primarily enterocytes and another third by the hepatic tissue (Hanigan et al.,
+2004; Pacheco et al., 2006; Larsen et al., 2015). Removal of amino acids by the splanchnic
+tissues (intestine and liver) is not constant for all AA, and the composition of the postsplanchnic AA availability to other tissues is altered relative to absorbed AA profile
+(Hanigan and Cyriac, 2006). It is recognized that uptake and oxidation of amino acids is
+a mass action reaction and increases in of AA availability will result in higher oxidation
+by peripheral tissues and consequently in lower efficiency use (Hanigan et al., 1998). The
+AA removed from the circulation by intestine and liver can be used for several anabolic
+processes; for example, synthesis of export proteins (e.g., albumin, peptide hormones,
+and immune proteins) and constitutive proteins, as well as for catabolic processes such as
+gluconeogenesis and complete oxidation (Larsen et al., 2015).
+Hepatic extraction of Lys is less than 10% of portal drained viscera Lys flux,
+therefore intestinal oxidation is mainly responsible for reducing the net flux of absorbed
+Lys to the mammary gland. The gut oxidation of Lys in sheep accounted for 29% of whole
+body Lys oxidation (Lapierre and Lobley, 2001) and this estimate did not account for
+oxidation of AA derived from the gut lumen (i.e. during absorption). Van Goudoever et
+al. (2000) observed, in pig, a negligible oxidation of systemic (arterial) Lys, although the
+luminal-derived Lys catabolism represents 30% of whole-body Lys oxidation. These
+authors also showed that the source of Lys used by these tissues is sensitive to protein
+status, although Lys is catabolized by the intestines and accounts for 31% of whole-body
+Lys oxidation in high protein fed piglets, it is strongly suppressed when protein becomes
+the limiting nutrient. The data would suggest that intestinal lysine supply does not
+translate to a linear increase in Lys supply to other tissues therefore a linear response in
+milk production to increased postruminal Lys supply, if possible, would not be expected
+to be linear.
+Liver represents only 2% of the body weight but is highly active and account for
+25% of the whole-body oxygen use (Huntington and Reynolds, 1987). The high blood
+flow through the liver, that can reach 2000 l h -1, and the fact that AA could be extracted
+in the first or second pass through this organ, results in an clearance capacity of up to two thirds of circulating AA (Reynolds et al., 1988; Wray-Cahen et al., 1997; Hanigan et al.,
+2004). The AA clearance by the liver vary widely between AA. Bequette et al. (2003)
+indicated that although the regulation of hepatic removal and oxidation of AA is still not
+understood, there must be coordination between the demand by peripheral tissues and
+hepatic removal of AA which suggests that AA catabolism by liver is a potential point of
+regulation (Figure 2).
+
+
+
+In liver Lys is metabolized via the saccharopine-dependent pathway to αaminoadipic acid. Activities of both enzymes in the AASS protein have been shown to be
+sensitive to Lys supply (Muramatsu et al., 1984; Blemings et al., 1994) and dietary protein
+content (Kiess et al., 2008). Increase in the activity of those enzymes could result in a
+high activity of this complex and high oxidation rate of Lys when this AA is
+supplemented. Kiess et al., (2008) observed higher LKR activity when mice were fed with
+46% casein diet compared with a 21% casein diet. However, the observed increases in
+AASS mRNA did not translate to an increase in AASS protein abundance (Kiess et al.,
+2008). Tucker et al., (2017) did not observe a change in AASS due to post abomasal Lys
+infusion in early lactation dairy cows, although there was an observed increase in plasma
+α-aminoadipic acid.
+The reduction of Lys oxidation by saccharopine-dependent pathway could be an
+opportunity to increase Lys availability for peripherical tissues including mammary
+gland. Therefore, the fully understand the regulation of AASS expression and activity
+
+may provide important strategies to reducing postabsorptive Lys catabolism and
+increasing Lys use for protein synthesis in mammary gland and other tissues.
+
+2.6. Summary and conclusions
+Lys is the first limiting amino acid for high producing lactating dairy cows when
+fed a corn-based diet. There are few sources of proteins that can meet the shortfall of Lys
+when corn-based diets are fed and protein sources that are available are often expensive
+and/or are inconsistent on the amount of Lys that is biologically available to the cow.
+The use of rumen protected AA is a well-established method to augment the
+profile of AA needed to maintain high levels of milk and milk protein production and
+maximizing the N use efficiency. Products that provide rumen protected Lys must be
+evaluated for both rumen protection against microbial degradation and also evaluated for
+postruminal delivery of Lys that can be absorbed and utilized by the lactating dairy cow.
+Milk protein production and plasma amino acid concentrations are response variables that
+have been used previously to assess the efficacy of rumen protected Lys products in
+meeting the Lys needs of lactating dairy cows. Matching Lys supply to requirements
+depends complete knowledge of rumen dynamics and the impact on postruminal Lys
+supply and the post absorptive Lys metabolism. Identifying processes that are sensitive
+to altered AA supply may prove beneficial in determining the source of inefficient N
+utilization.
+
+The guiding hypothesis explored in this dissertation is that value of RP Lys is a
+function of its stability when premixed in feeds, inertness in the rumen, post ruminal
+bioavailability, and impact on production parameters when fed to lactating dairy cows.
+A second hypothesis tested was that lysine and energy supply regulate genes that are
+critical for lysine catabolism in bovine. Taken together this dissertation explores
+important criteria necessary for the full evaluation of RP Lys for lactating dairy cows and
+subsequent use of absorbed lysine in dairy cattle.

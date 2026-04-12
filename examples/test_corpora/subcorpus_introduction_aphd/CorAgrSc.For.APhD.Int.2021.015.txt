@@ -1,0 +1,93 @@
+﻿1 GENERAL INTRODUCTION
+
+
+The pressure for natural forest conservation, global population, and demand
+for wood products expect to largely increase until 2050, then we will face an increment
+in investments, research, and importance in planted forest around the world (World
+Wildlife Fund, 2012), especially in areas where industrial forestry is dominant such as
+South America (Elias and Boucher, 2014). Countries in South America were dominated
+by annual forest plantation, mainly Eucalyptus species (Payn et al., 2015) and these
+plantations sum up billions of dollars into world economies (Booth, 2013).
+Eucalyptus competitiveness is high productivity compared to other species and
+natural forests (above 30 m3 ha-1 yr-1), short rotations (average 10 years), and a wide
+variation of wood products such as charcoal, pulp, paper, and solid products
+(Rockwood et al., 2008; Booth, 2013). This was possible due to advances in
+silvicultural practices, breeding programs, hybridization, and clonal forest production
+(Gonçalves et al., 2013).
+Recent studies have shown that the increase in environmental changes, such
+as drought and extremes temperatures along Eucalyptus development, generate
+impacts in final timber production (Binkley et al., 2017; Elli et al., 2020). Global climate
+is undergoing changes that will impact all ecosystems and the consequences of these
+changes are still uncertain as well (IPCC, 2014). In this context, ecophysiological
+approaches are necessary to understand the influence rate of environmental variables
+in early forest production (Gauthier and Jacobs, 2018).
+Chile is one of these countries that faced environmental constraints because
+most forest plantations are in areas with a Mediterranean climate, characterized by
+rains during winter and a drought period in summer (INIA, 1989). Since 2000, the
+reforestation areas increased in the country, and forest plantation areas with
+eucalyptus species accumulated in Chile were of 45,482 hectares. E. globulus and E.
+nitens species and its hybrids genotypes have been extensively planted in Chile
+because of high productivity, desire for fiber and pulp yield, and tolerance to drought
+and cold temperatures (INFLOR, 2020; Rubilar et al., 2020).
+Among environmental constraints, variations in air temperature and soil water
+content are recognized as being key factors that control plant growth and development
+along the months, seasons, and years (Battaglia et al., 1996; Wang et al., 2013). These
+factors have a direct relation with Eucalyptus productivity, affecting physiological processes such as photosynthesis (Taiz et al., 2017) and efficiency of resources use
+and consequently wood production (Stape et al., 2004; Binkley et al., 2017).
+For instance, water supply influence carbohydrate available for wood
+production (Stape et al., 2008), increased net primary production by 27%, foliage
+production by 14%, and light use efficiency by 20% in response to irrigation in different
+sites in Brazil (Ryan et al., 2010), because increasing in available water increase
+fraction of photosynthesis used for wood growth. Furthermore, sub-optimal
+temperatures also affect plant metabolism due to this effect in enzymatic reactions
+(Taiz et al., 2017), since out of minimum and maximum temperatures for development,
+forest growth is interrupted (Landsberg and Sands, 2011).
+Considering these environmental traits, the foresters decision of the proper
+Eucalyptus species and genotypes must be related to the susceptibility of plants to
+water deficit, growth, survival and adaptations during establishment, with selection of
+best materials for ecophysiological attributes, such as photosynthesis, leaf area index,
+growth efficiency, water use efficiency and leaf water potential (Albaugh et al., 2013).
+For this, seeking a better understanding of the genetic, growth, and
+physiological process along the early Eucalyptus development is crucial for better
+understanding stress tolerance and match genotypes to a particular site, due higher
+susceptibility to abiotic stress by young Eucalyptus plantations (Drake et al., 2009).
+Faced with these gaps, it defined the three chapters of this thesis. In the first chapter,
+we discuss the changes in early growth and leaf area (growth efficiency) relationships
+among eucalyptus genotypes in different growing seasons. In the second chapter, we
+discuss changes in physiology during decreased soil water content among eucalyptus
+genotypes with different growth rates and accumulated water stress integral. Finally,
+the third chapter will deal with cardinal air temperature effects in early growth among
+eucalyptus genotypes. The chapters were entitled as follows:
+
+
+1) Differences in early seasonal growth efficiency and productivity of Eucalyptus
+genotypes.
+2) Physiological responses and growth of Eucalyptus genotypes under cumulative
+water stress.
+3) Temperature effects on early growth of Eucalyptus genotypes of three taxa.
+
+
+1.1 OBJECTIVES
+
+
+1.1.1 General objective
+
+
+The study aimed to evaluate the response of different Eucalyptus genotypes
+to environmental drivers (e.g., soil water content and temperature), in changes of early
+growth, leaf area and physiological behavior on 1.5-year of development in experiment
+in Central South Chile.
+
+
+1.1.2 Specific objectives
+
+
+- The first chapter aimed to determine the interaction between season and
+genotype on early growth efficiency over 1.5 year of development of different
+Eucalyptus genotypes.
+- The second chapter aimed to analyze the relationship between growth and
+water stress integral on changes in photosynthesis, intrinsic water use efficiency,
+midday water potential and leaf area index of different Eucalyptus genotypes under a
+short period of decreased soil water content.
+- The third chapter aimed to identify the cardinal air temperatures effects on
+early daily growth over 1.3 year of development of different Eucalyptus genotypes.

@@ -1,0 +1,117 @@
+﻿1 INTRODUCTION
+
+
+The polymerization of lactones by ring-opening polymerization via enzyme-
+catalyzed reaction was studied for the first time in the beginning of the 1990s by Uyama
+
+
+and Kobayashi (1993). Since then, the number of researches about this technique has
+grown exponentially as the scientific community began to see the potentialities of this
+process.
+The first works of polymerization of lactones by ring-opening that used lipases
+from Pseudomonas fluorescences, Candida cylindracea, Aspergillus niger, Candida
+rugosa, and porcine pancreatic lipase obtained low monomer conversion and low
+molar mass (UYAMA; KOBAYASHI, 1993; UYAMA et al., 1995; UYAMA; TAKEYA;
+KOBAYASHI, 1995; MACDONALD et al., 1995; HENDERSON et al., 1996). Only with
+the beginning of the use of Novozym 435, CALB lipase immobilized on an hydrophobic
+carrier (acrylic resin), it was observed a considerable evolution in monomer conversion
+rates and molar mass growth (BISHT et al., 1997a, 1997; BISHT et al., 1997b; KUMAR;
+GROSS, 2000; BANKOVA et al., 2002; MEI; KUMAR; GROSS, 2003).
+The lactones are cyclic esters formed by condensation reaction between a
+functional alcohol group and a carboxylic acid group. The lactones can be classified in
+smaller sizes (4-carbons), medium sizes (6- and 7-carbons) and macrolides (12-, 13-
+to 16-carbons) (UYAMA; TAKEYA; KOBAYASHI, 1995).
+The ε-caprolactone is a cyclic lactone with 6 carbons and from this lactone it
+is possible to synthesize the poly(ε-caprolactone). This polymer is a biodegradable,
+bioresorbable and biocompatible polymer used in a wide variety of high-value
+biomedical, pharmaceutical, and food applications and eliminated from the human
+body as low molar mass by-products, with no residual side effects (BENDER et al.,
+2010a; COMIM et al., 2015; BANG; LEE, 2019).
+For poly(ε-caprolactone) to have a noblest application in biomedical,
+pharmaceutical, and food applications it is necessary to be free of toxic residues. The
+use of enzymes as catalysts already makes this technique cleaner; however, there
+may still be residues from organic solvents. One of the alternatives found was to
+replace the organic solvent by supercritical carbon dioxide (LOEKER et al., 2004;
+
+
+18
+
+
+THURECHT et al., 2006; COMIM et al., 2013; COMIM et al., 2015). The supercritical
+carbon dioxide can be easily separated at the end of the process from the reaction
+medium by a simply decompression of the system. This is interesting since both
+solvent and enzyme can be recovered and thus providing the enzyme and solvent
+reuse.
+Though supercritical carbon dioxide may be a good solvent for ε-caprolactone,
+it is not a proper solvent for poly(ε-caprolactone), leading to the sedimentation of its
+organic solutions upon mixing (KALOGIANNIS; PANAYIOTOU; 2006; BENDER et al.,
+2010a). An alternative to overcome such drawback is to use a co-solvent together with
+supercritical carbon dioxide, as for example dichloromethane. Dichloromethane is a
+colorless and volatile liquid at ambient conditions, being widely used as a solvent
+because it is considered one of the least harmful organochloride compounds
+(ROSSBERG et al., 2012).
+
+
+Literature data show that the enzymatic ring-opening polymerization of ε-
+caprolactone in supercritical carbon dioxide medium leads to yields and molar mass
+
+
+similar to those reactions in organic solvents and metallic catalysts (THURECHT et al.,
+2006; COMIM et al., 2015). However, it is still necessary to better understand the
+thermodynamic behavior of the chemical species during the process of polymerization
+as carbon dioxide, dichloromethane, ε-caprolactone and poly(ε-caprolactone).
+In the literature, there are a series of studies that evaluate the behavior of
+phases of binary systems [carbon dioxide + ε-caprolactone] (XU; WAGNER; DAHMEN,
+
+
+2003; BERGEOT et al., 2004; BENDER et al, 2010b) and [carbon dioxide + poly(ε-
+caprolactone)] (de PAZ et al., 2010; BANG; LEE, 2019) and, ternary system [carbon
+
+
+dioxide + dichloromethane + poly(ε-caprolactone)] (KALOGIANNIS; PANAYIOTOU,
+2006; BENDER et al, 2010a)], but there are not studies that evaluate the phases
+behavior of the ternary systems [carbon dioxide + dichloromethane + ε-caprolactone]
+
+
+and quaternary system [carbon dioxide + dichloromethane + ε-caprolactone + poly(ε-
+caprolactone)].
+
+
+Note that up to now phase equilibrium studies with carbon dioxide and ε-
+caprolactone are aimed at the initial stage of the polymerization reaction. Therefore,
+
+
+there is no information about the phase behavior during the stages of the
+polymerization reaction. In the literature, there is only one work that evaluated the
+phase behavior during the polymerization reaction that was the work performed by
+
+
+19
+
+
+Nascimento (2019). In this work it has been evaluated the phase equilibrium of
+
+
+quaternary system [carbon dioxide + chloroform + ω-pentadecalactone + poly(ω-
+pentadecalactone)], where solvents mass ratio was kept fixed and ω-
+pentadecalactone and poly(ω-pentadecalactone) mass ratio was varied (trying to
+
+
+imitate a polymerization reaction through the conversion of ω-pentadecalactone to
+poly(ω-pentadecalactone)).
+The work of Nascimento (2019) is very important since it evaluates the stages
+of the polymerization reaction (monomer to polymer transformation). This
+transformation generates the system composition change and consequently affecting
+the phase equilibrium.
+
+
+Therefore, the study of ternary system [carbon dioxide + dichloromethane + ε-
+caprolactone] and quaternary system [carbon dioxide + dichloromethane + ε-
+caprolactone + poly(ε-caprolactone)] is important for the development and
+
+
+understanding of the polymerization of the poly(ε-caprolactone) in high pressure. In
+addition to obtaining phase equilibrium data, thermodynamic modeling by the use of
+appropriate equations of state is also important, since it is possible to simulate
+experimental conditions not tested, and thus with a significant saving in time and
+operating costs.

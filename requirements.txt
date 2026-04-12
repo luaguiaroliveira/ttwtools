@@ -1,0 +1,10 @@
+# Core runtime dependencies for ttwtools
+numpy
+pandas
+tqdm
+matplotlib
+seaborn
+biberplus
+
+# Required model for tagging workflow (install separately):
+# python -m spacy download en_core_web_sm

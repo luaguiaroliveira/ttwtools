@@ -1,0 +1,106 @@
+﻿1. Introduction
+Bacillus cereus is a pathogenic bacterium commonly found in
+raw materials and processed foods (CEUPPENS et al, 2011; WIJNANDS
+et al, 2006). It can endure high temperature short time (HTST)
+pasteurization, resist spray drying and survive in final products
+(McAULEY et al, 2014). Additionally, B. cereus strains are highly
+variable in terms of their growth limits, characteristic mainly dependent
+on their phylogenetic group (CARLIN et al, 2013). Emetic strains of B.
+cereus are of concern since they are toxin producers and it is not possible
+to eliminate the toxin (cereulide) once preformed in the food.
+Given B. cereus thermo tolerance, it is of extreme importance to
+investigate the effect of heat stress(es) on the kinetic behaviour of this
+microorganism at population and single-cell levels as well as
+investigating how can it affect the growth potential of individual cells.
+That’s where predictive microbiology can be useful and make the
+difference when analysing experimental data.
+Predictive Microbiology is a multidisciplinary area making use
+of mathematics and statistics in food microbiology since 1980s when the
+increase in public awareness of the need for safe food supply came
+together with the fact that traditional methods for assessing
+microbiological quality and safety were limited by the time to obtain
+results and the poor predictive and reproducible value. Since then, the
+area has deeply developed, constituting important instrument for safety
+assurance within the food industry.
+
+
+Conventionally, predictive modelling is carried out via a two-
+step identification procedure. A series of experiments is performed at
+
+
+various (constant) temperatures, and for each temperature the produced
+growth / survival curve is modelled by a so-called primary model, whose
+parameters includes the maximum specific growth rate (first step). Then
+a secondary model is fitted to the obtained primary parameter estimates,
+most importantly the maximum specific growth rate estimates, as a
+function of one or more environmental factors, most commonly the
+temperature (second step).
+By comparing secondary models that describe how growth rates
+vary with temperature using two different growth media, it is possible to
+assess the medium effect on the growth rate and create a link between
+29
+
+
+them that, based on certain assumptions, can be extrapolated to a wider
+range of the environmental factor. Commonly, this link is measured
+between culture medium and a given food. Namely, it is desirable to use
+culture medium-based models to predict the bacterial behaviour in food
+matrices since more literature data are available for the former.
+From a population kinetic perspective, two main techniques are
+widely used to measure the microorganism growth with time: plate count,
+a direct method, which estimates the bacterial concentration, and optical
+density (OD-) measurements, an indirect method, which estimates the
+turbidity that the cells cause. Plate counts method have the advantage that
+they can span through orders of magnitude of bacterial concentrations and
+that they can be applied to several growth matrices, while turbidity
+measurements can be used only with culture medium, and only for the
+late exponential phase of the growth curve. However, the latter method
+has the advantage that it can produce several OD-curves simultaneously,
+under identical conditions. It is not obvious whether the results from the
+two measurement methods can be transformed into each other, making it
+important to compare/merge them to validate their applicability at
+different levels.
+By validation, it is meant checking if the chosen models and
+assumptions made are valid and can predict the microorganism behaviour
+correctly. Here, the validation procedure intends to compare (and at a
+certain level, merge) information coming from both measurement
+methods described above and compare predictions to data produced by
+this work (internal validation) and data coming from various sources
+(external validation).
+Lately, predictive microbiology research has begun to focus on
+the understanding of the microorganism behaviour at single cell or even
+molecular level. This approach needs to take into account the complexity
+of intracellular mechanisms and their intrinsic variability. This is
+important because food poisoning outbreaks may be initiated by
+contamination with just a few pathogenic cells if they are able grow in the
+food to reach an infective dose. Quantitative Microbial Risk Assessment
+studies frequently need to estimate the probability that a few
+contaminating cells multiply to a population level above a tolerance limit
+(BARANYI et al, 2009). To analyse this, one needs to identify the
+probability of growth and distribution of the lag times of single cells
+coming from similar population. Turbidity measurements can also be
+30
+
+
+useful here with a standard procedure where cultures are diluted to a level
+until the majority of the inoculated wells will receive zero or one cell. The
+disadvantage is that, using an automated turbidimeter, many wells will be
+empty and, for a statistically robust estimation, it is desirable to have as
+many positive wells as possible, revealing the urgent need of an
+experimental optimization for this technique aiming at single cells
+probability of growth assessment.
+Taking all this information into account, the thesis was divided
+into four main chapters, where the three first ones refer to population level
+and the last one to single-cell level: (i) to provide a better understanding
+on the kinetic behaviour of different strains of B. cereusin RIF and culture
+medium by means of viable counts, analysing how to properly estimate
+the bias factor between the two media; (ii) to characterize the cardinal
+values for temperature, pH and aw for a selection of emetic B. cereus
+strains by means of turbidity measurements, (iii) to validate the proposed
+kinetic models by assessing how applicable are the cardinal values -
+coupled with two different approaches of estimating optimal growth rate
+(μopt) in RIF - to food scenarios and (iv) to study the impact of heat
+treatment on the probability of growth and individual lag times of a
+reference strain of B. cereus and propose an experimental optimization
+for assessment of probability of growth of individual cells using turbidity
+measurements.

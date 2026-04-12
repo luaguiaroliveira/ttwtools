@@ -1,0 +1,73 @@
+1. INTRODUCTION
+
+Energy expenditure and the efficiency of energy conversion into body weight
+gain is of enormous importance. First, it is related to obesity in humans, which has
+extraordinary health and economic implications. Secondly, in animal agriculture feed
+efficiency (FE) is related to cost and profitability of meat production. Thirdly, feed
+efficiency is of paramount importance in determining the environmental impact of
+animal agriculture. Animal feed conversion efficiency accounts for most of the
+variation in the emission of pollutants, green house gases, and in the utilization of
+many natural resources for meat production.
+In animal cells, Shc proteins act as adaptor molecules which specifically bind
+to phosphorylated tyrosine residues on the cytoplasmic motif of growth factor
+receptors, thereby serving as mitogenic signaling molecules. These proteins have an
+important influence on energy metabolism and previous reports have implicated their
+role in energy expenditure, whereby animals with low levels of Shc proteins (Shc
+knockout or ShcKO) have lower body weight than wild-type (WT) at the same level of
+energy intake [1]. In addition, Shc proteins appear to influence the fuels used for
+energy metabolism in the mitochondria [2]. Thus, a decrease in Shc levels may help
+animals adapt to periods of consumption of high fat diet (HFD). However, the overall
+impact of Shc proteins on energy metabolism is not entirely clear when ShcKO
+animals are fed a HFD.
+In parallel, the mitochondrial uncoupling proteins (UCPs) are involved in
+different processes such as control of ATP synthesis and mediating the production of
+reactive oxygen species (ROS) [3]. Additionally, the UCPs may increase energy
+expenditure (by producing heat instead of ATP), which aroused interest in the studies
+regarding FE traits in animal agriculture. The association between mitochondrial
+function (and UCPs) and FE relates to the fact that cells of less efficient animals may
+have higher requirements for the production of the same amount of ATP [4-6].
+Additionally, in mitochondria from these animals there may be a greater protein
+oxidation due to greater basal mitochondrial ROS production [5]. This increased ROS
+production could oxidize proteins, as well as mitochondrial DNA (mtDNA) causing
+impaired protein synthesis and oxidative phosphorylation [3, 7-9]. However, more
+studies are needed to understand the role of mtDNA and UCPs on the phenotypic
+expression of FE.
+In the context of energy metabolism and mitochondrial function, this thesis
+has two main objectives: I) To determine if Shc proteins influence the metabolic
+response of animals to acute feeding of an HFD; II) To determine the possible
+association between heat production, blood physiological indicators, mitochondrial
+content (mtDNA copy number), hepatic protein profile and levels of UCPs in liver,
+muscle, and adipose tissue from animals classified according to FE (efficient versus
+inefficient).
+To this end, in chapter 2 we discuss the results of published studies
+regarding the role of Shc proteins on growth, enzyme activities of energy metabolism,
+mitochondrial function, and oxidative stress. We also review the importance of UCPs
+on energy metabolism, as well as how the mtDNA and the abundance of
+mitochondria are regulated in animals under different physiological conditions.
+In chapter 3, we provide a study with ShcKO and WT mice fed a control
+(chow) or HFD. In addition, in this study we performed a whole animal energy
+expenditure and substrate oxidation study, where we measured the activities of
+enzymes of glycolysis, the citric acid cycle, electron transport chain, and β-oxidation
+in liver and skeletal muscle. We report higher energy expenditure in ShcKO mice and
+these results could be due to a better ability to alter substrate oxidation in response
+to a shift in diet composition and/or energy metabolism. Although decreased levels of
+Shc proteins influenced the activity of a central enzyme of β-oxidation in response to
+high fat feeding, it did not produce concerted changes in enzymes of glycolysis, citric
+acid cycle or the electron transport chain.
+In chapter 4 we performed a study with Nellore bulls which were classified
+according to residual feed intake, an index commonly used to measure FE. Residual
+feed intake (RFI) is the difference between observed feed intake and that predicted
+based on a regression of average body weight and growth rate in animals fed the
+same diet in the same group environment. Efficient animals (low RFI) eat less that
+what is predicted based on their weights and rate of growth. On the other hand,
+animals that eat more than predicted are considered inefficient (high RFI).
+Our hypothesis was that estimated heat production (EHP), blood parameters,
+liver protein profile, UCPs levels, and mtDNA copy number in liver, muscle, and
+adipose tissue would differ among RFI phenotypes (high versus low RFI). Briefly, we
+describe that EHP and mtDNA copy number per cell were similar between RFI
+groups, while heart rate, hemoglobin, and hematocrit were lower in the efficient
+phenotype (low RFI). We also found that liver protein profile measured by two-
+dimensional electrophoresis is different between RFI groups. Also, we investigated
+the levels of UCP in the liver, muscle, and adipose tissue from these animals and
+discuss these results as related to FE. Finally, in chapter 5, we present the general
+conclusions of this thesis.

@@ -1,0 +1,97 @@
+﻿1 GENERAL INTRODUCTION
+
+
+Regardless of the potential economic crises and cyclical conditions associated with
+the prices of raw materials, commodities and agricultural products, Brazil is experiencing a
+satisfactory period of technological development and production in agribusiness while
+expanding its international trade and increasing producers' incomes. However, there is a
+conflict of information regarding the status of beef production. Topics such as health,
+environment, product quality and exports are constantly questioned by agents and
+consumers, generating a diversity of opinions on beef production.
+Since 2004, Brazil has become one of the largest beef producers in the world. During
+this period, there has been a shift in livestock production in the country, with a migration
+from the Southern and Southeastern regions, where land is more expensive and production
+
+
+is small in scale, to the Midwestern and Northern regions, which are characterised by large-
+scale production and relatively cheap land that partly originated from deforested areas.
+
+
+However, the expansion of beef production into deforested areas of the so-called Legal
+Amazon, a conceptual and political-geographical area that expands far beyond the
+rainforest, has brought serious concerns to this segment of Brazilian agribusiness because
+international consumers have been led to believe that all Brazilian beef production results
+from the use of pristine land.
+The development of the Brazilian cattle industry involves sustainable production and
+the rational exploitation of beef cattle, which is mainly performed in pastures under an
+extensive farming system. The land that is occupied by pastures and intended for beef cattle
+production is generally marginal when compared to those lands used for grain production.
+These soils have problems associated with natural fertility, acidity, topography or drainage
+limitations (ADAMOLI et al., 1986; MACEDO, 2009). Soils better suited for agriculture are
+occupied by annual grain crops or high-value industrial crops for the production of oil, fibres,
+resins and sugar, for example. Therefore, it is expected that areas used for beef cattle
+
+
+18
+
+
+farming will cause problems related to the productivity and sustainability3
+
+
+of meat
+production. The relevance of debates surrounding the beef production system, the
+environment in general and, in particular, those related to global warming has finally
+reached the general public throughout most of the world. The current challenge in
+agricultural research consists of adopting the concept of sustainable development through
+innovations in methodologies and research tools to achieve agricultural and livestock
+production that is in agreement with the principles of sustainability.
+It should be noted that any human interference in the production processes creates
+changes and damages to the original environment, and it is up to man himself to seek ways
+to maximise the benefits of the production process and minimise the negative effects. The
+worsening of the greenhouse effect is considered to be among the most serious concerns
+related to environmental impacts, and this issue has been highlighted due to the size of the
+cattle herd in the country, which is currently at 205 million heads (IBGE, 2008). Emissions
+from this sector, mainly carbon dioxide (CO2), nitrous oxide (N2O) and methane (CH4), are
+prominent when compared to other emitting sectors of the economy (STEINFELD et al.,
+2006; IPCC, 2007).
+The main strategies for mitigating the emission of greenhouse gases (GHGs) resulting
+from agricultural and livestock activities consist of reducing the rates of deforestation and
+the burning of plant material, better land use and strategies for maximising carbon (C)
+sequestration in the soil and vegetation (VILELA et al., 2005; SEGNINI, 2007; SAWYER, 2008;
+BERNARDI et al., 2009; URQUIAGA et al., 2010). This increase in the emission of GHGs, and
+consequent global warming, has led to the search for strategies that aim to reduce the
+sources of these gases.
+In this context, the use of tools with which to analyse the contribution of a certain
+technology to sustainability and evaluate its environmental impact becomes important
+(FIGUEIREDO et al., 2007). However, for this change to be successful, the management tools
+must be appropriate. Therefore, the application of Life Cycle Assessment (LCA) to agriculture
+
+
+3
+Sustainability refers to the creation and transformation of products using non-polluting processes and
+systems that conserve energy and natural resources that and are economically viable, safe and healthy for
+workers, communities and consumers (VELEVA et al., 2001).
+
+
+19
+and livestock has been implemented in a relatively new and complex manner, given that this
+method allows for the evaluation of resource consumption and impacts on the environment
+associated with a given product, process or activity. LCA also enables the identification and
+evaluation of opportunities to improve the performance of the process or activity from an
+environmental perspective (FAVA, 1991; CHEHEBE, 1997).
+LCA is a tool for evaluating the environmental impact associated with a product or
+process, comprising steps that range from the withdrawal of basic raw materials from nature
+that enter the production system (cradle) to the final disposal of the product after use
+(grave). To date, studies involving LCA have not been conducted for the various beef
+production systems in Brazil and the use of LCA in certain production systems characteristic
+of the state of Rio Grande do Sul have been proposed with the purpose of better exploiting
+the natural resources of the Pampa biome. We chose to evaluate the complete beef
+production system of natural and/or cultivated pastures in the summer and winter to
+estimate the potential environmental impact of beef cattle production, known as the carbon
+footprint.
+The present thesis is divided into 5 chapters. The first chapter presents an
+introduction to the topic, the proposed objectives and a literature review on LCA. The use of
+LCA throughout the world and in Brazil is presented in chapter 2. The third chapter
+addresses the use of LCA in bovine traceability. The fourth chapter discusses the
+implementation of LCA on a beef cattle farm. The final considerations of the study are
+presented in chapter 5.

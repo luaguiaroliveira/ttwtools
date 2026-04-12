@@ -1,0 +1,52 @@
+﻿1.1. GENERAL INTRODUCTION
+
+
+Forest biometric is a part of forest science focused to obtain current and future yield
+predictions of forest resources, especially as regards the timber productions for industrial
+supply. The quantification of individual tree volume and the stem form is a basic procedure for
+obtaining the financial values of a forest. Thus, some information called of random variables
+must be collected from the forests, such as the tree diameter, tree height, site occupancy, and
+many others. These variables are basic components of growth-yield systems, allowing to
+estimate the changes on a forest and the expected production over the time.
+The volume prediction is a fundamental element of the large-scale forest management
+and planning. The most versatile and accurate approach for estimating tree volume are the
+modelling methods (DE-MIGUEL et al., 2012), which include a set of statistical approaches
+with particularly features. The regression methods are largely applied to forest biometric for
+volume predictions at tree-level. In forestry literature, we can find two main strategies for
+volume modeling. The first one is based on volume models that describe the total or partial tree
+stem volume; while the second approach involve the so-called tree stem taper functions. The
+analytical flexibility afforded by stem taper models has been reported in last decades
+(WESTFALL & SCOTT, 2010), and can be observed in many research, such as Arias-Rodil et
+al. (2015), Cao & Wang (2015), Diéguez-Aranda et al. (2006), Fortin et al. (2013), MacFarlane
+& Weiskittel (2016), De-Miguel et al. (2012), and Sabatia & Burkhart (2015).
+Data for the stem taper models usually present interesting features. Due to the natural
+hierarchical structure of the data, an autocorrelation among observations taken within-tree are
+expected. This feature is not always well accommodated in taper functions, and the variance of
+the residuals usually become non-constant over tree stem (LEJEUNE et al., 2009; LI &
+WEISKITTEL, 2009; MACFARLANE & WEISKITTEL, 2016), which can directly influence
+the standard errors of the parameter estimates and increase the prediction variance. In this
+context, we introduce the covariance generalized linear models proposed by Bonat & Jørgensen
+(2016), which is an alternative approach for stem taper modeling and allows to handle with
+correlated data in an easy way, besides the non-constant variance. This class of models is based
+on a marginal model specification and second-moment assumptions, what allows us to obtain
+a flexible specification of the mean and covariance structures.
+Tree height is also an important variable commonly used in growth-yield systems. The
+diameter at breast height is relatively cheap and can be more accurately measured than the total
+tree height, usually quantified in a subsample. Height-diameter models are then applied for
+predicting the height behavior of the trees (CASTEDO DORADO et al., 2006; MEHTÄTALO
+et al., 2015; TRINCADO et al., 2007). The multivariate case of covariance generalized linear
+models handle with two or more response variables simultaneously (BONAT, 2017; BONAT
+et al., 2017). This feature is very interesting, once that we can obtain a jointly model for volume
+and height predictions and to quantify the correlation between the response variables.
+From the height and volume models developed, the total volume of any individual tree
+is easily obtained in growth-yield systems. However, the natural competition among individuals
+lead to a fundamental process in forest development related to tree mortality or survival process
+(SZMYT et al., 2018). The tree survival in forest stands are associated to a set of potential
+factors (BOSE et al., 2018; ZHANG et al., 2017) that can influence the forest dynamic. The
+quantification of alive trees indicates the forest structure and how many individuals will be
+available for industrial supply. In this context, statistical models must be applied for predicting
+the tree survival probability over the time; and help us to understand how the tree survival
+manifests in a forest.
+Therefore, we present some statistical approaches for handling with correlated data,
+mainly in the context of tree stem taper modeling; jointly modeling of response variables height
+and volume; and for tree survival probability in forest stands.

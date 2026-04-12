@@ -1,0 +1,90 @@
+        Integrated croplivestock systems ICLSs are longstanding production
+systems that include diversified agricultural practices like crops and animals grazing
+in the same area FAO 2010 MORAES et al 2014a These systems are considered
+the main form of agricultural land use in the world BELL MOORE 2012 HAAN
+STEINFELD BLACKBURN 1997 They are responsible for more than a half of food
+production in the world HERRERO et al 2010 and considered as a sustainable
+intensification way to approach the increasing demand for food production with
+reduced land availability GODFRAY et al 2010 THORNTON HERRERO 2001
+        Studies in ICLSs have been intensified in recent years CARVALHO et al
+2014 due to its benefits when compared to the monoculture or not integrated crops
+The benefits of ICLSs include the increase in the efficiency of land and machinery use
+reductions in plant diseases and weed incidence increased profitability and incomes
+and greenhouse gas mitigation ALTIERI 1999 BELL MOORE 2012 CARVALHO et
+al 2010 RYSCHAWY et al 2012
+        In the subtropical region of Brazil ICLSs are characterized by annual rotation
+of pastures and crops in the same area MORAES et al 2014b In Brazils tropical
+region ICLSs include permanent pastures for two years rotated with one or two years
+of soybean or corn in the summer and annual winter pastures SALTON et al 2014
+Even that trees are encompassed in the definition of ICLS their inclusion in such
+production systems is still not common MORAES et al 2014a
+        Agricultural diversification promoted by ICLS influences the ecosystem
+properties and pathogen growth can either be facilitated or inhibited depending on the
+particular requirements of the organism so that generalizations about reduction in
+plant disease are difficult MATSON 1997 Little is known about the influence of
+different arrangements of ICLSs in plant disease occurrence or progress particularly
+when the forestry component is added GAMBLE et al 2014 SCHROTH et al 2000
+        Disease suppression is frequently associated to soil microbiota BONILLA et
+al 2012 Microorganisms present in a particular soil are not well known and have
+been underexplored in agriculture STOCKDALE BROOKES 2006 VAN DER
+HEIJDEN WAGG 2013 An exception is the genus Trichoderma reported as an
+antagonist of several plant pathogens by different mechanisms of action LORITO et
+al 2010
+                                                                                        15
+
+
+
+        Soils suppressive to plant pathogens are found throughout the world and can
+be defined as an inhospitable soil that limits either the survival or the growth of the
+pathogens in a general or specific way GARBEVA VAN VEEN VAN ELSAS 2004
+Although the mechanisms by which soil are suppressive to different pathogens can
+involve biotic and abiotic factors GHINI MORANDI 2006 microorganisms play key
+roles in suppressing soilborne pathogens GARBEVA VAN VEEN VAN ELSAS
+2004 Soil suppressiveness to pathogens is a relevant attribute of healthy soils
+GARBISU ALKORTA EPELDE 2011 LARKIN 2015 Research on soil
+suppressiveness to plant pathogens in production systems that integrate grain
+production livestock and forestry is still limited
+        The presence of trees in a production system can also implies in a drastic
+modification of the microclimate including light intensity temperature and relative
+humidity RH and its consequences on dew formation and leaf wetness duration
+DIETZ et al 2007 LUO GOUDRIAAN 2000 Leaf wetness promoted by dew is
+favored by low nocturnal temperature more common during clearsky nights
+ROWLANDSON et al 2015 And the RH is higher below the tree canopy than outside
+then DIETZ et al 2007 KOECH WHITBREAD 2006
+        The microclimate is relevant for powdery mildew PM and several
+microclimatic characteristics have been studied Particularly leaf wetness and RH are
+important components for spore germination and infection PM is one of the most
+frequent and important disease for a variety of summer and winter cereals fruit and
+vegetable crops GLAWE 2008
+        White mold is an ancient and important plant disease caused by Sclerotinia
+sclerotiorum a cosmopolitan plant pathogen BOLTON THOMMA NELSON 2006
+hosted by more than 500 species of 75 botanical families SAHARAN MEHTA 2008
+Sclerotia produced by the pathogen are the central component of epidemics as they
+are the primary longterm survival structures and survive in the soil for one to eight
+years depending on several factors as the soil biology chemical and physical
+characteristics the presence of susceptible plants depth of sclerotial burial in the soil
+and soil atmosphere ADAMS AYERS 1979 COLEYSMITH COOKE 1971 REIS
+TOMAZINI 2005 SAHARAN MEHTA 2008 WU SUBBARAO 2008
+        The decline in population of sclerotia in the soil can be predominantly attributed
+to their germination or decomposition by microorganism both influenced by physical
+and chemical characteristics of the soil and atmosphere MERRIMAN 1976 WILLIAMS WESTERN 1965 The carpogenic germination of sclerotia is favored after
+passing through a cold period near to 10 to 15 C COLEYSMITH COOKE 1971
+and is stimulated by the light incidence SUN YANG 2000 VENTUROSO et al
+2013One or more apothecia arise from the sclerotia GRAU 1989 LIU PAUL 2007
+Ascospores germination requires an external nutrient source typically provided by
+plant tissue under decomposition hence the relation between the bloom and the
+beginning of the epidemic ABAWI GROGAN 1979 DANIELSON NELSON HELMS
+2004
+         In summary ICLSs modifies the soil biology and the microclimate and these
+modifications can influence plant diseases For this reason the objective of this study
+was to assess the influence of agricultural diversification promoted by ICLSs on plant
+diseases using some important plant pathogens and microorganisms as models In
+the chapter 3 it was shown the soil suppressiveness to soybean dampingoff caused
+by R solani the biotic influence on this suppressiveness and also how ICLSs
+influence the native Fusarium and Trichoderma densities in the soil Chapter 4 explores
+the PM severity on oats and soybean related to the microclimatic characteristics of the
+production systems And the chapter 5 presents a low survival period of sclerotia of S
+sclerotiorum buried and in the soil surface in ICLSs Agropastoral AP and
+agrosilvopastoral ASP systems were compared to a not integrated crop CO in a
+long term ICLS experiment in the Ponta Grossa municipality of the Campos Gerais
+region of Paraná State in the Brazilian subtropics

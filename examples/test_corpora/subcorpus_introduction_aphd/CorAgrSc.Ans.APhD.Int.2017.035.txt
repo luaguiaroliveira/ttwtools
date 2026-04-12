@@ -1,0 +1,1013 @@
+1. INTRODUCTION
+
+         Grassland ecosystems are characterized by a large number of entities,
+interacting in several levels of temporal and spatial scales. The degree of
+complexity is given by the number and heterogeneity of those entities, and
+especially by how the system is organized (TAINTON et al., 1996; PARSONS &
+DUMONT, 2003). Those components, however, interact non-linearly, frequently
+having “response delays and feedback loops” among them, generating
+emergent proprieties and unexpected behaviors (WU & MARCEAU, 2002). The
+identification of the main entities and their interface is fundamental for
+understanding causes and direction of changes, and the effects of management
+on the system (FRIEDEL et al., 2000; GORDON, 2000). There are several
+underlying mechanisms from the interaction of the grazing animal and the
+pasture that will affect both herbage growth and animal performance (UNGAR,
+1996; PARSONS & DUMONT, 2003; LACA, 2008). Besides being very
+heterogeneous in terms of species composition and distribution, rangelands and
+native grasslands are also, in many times, climatically marginal environments.
+Variations in abiotic conditions (especially rainfall) can have a large effect in the
+equilibrium of the system, and effects can be larger than any change caused by
+management (FRIEDEL et al., 2000). Therefore, the definition of stability may
+have to come along a definition of spatial and temporal scales (LACA, 2008).
+            The Campos in Rio Grande do Sul, Brazil, is a complex pastoral
+ecosystem, composed of a large diversity of species (and functional groups)
+interacting with edaphoclimatic conditions and herbivores. Thirty years of
+experimentation to evaluate the productivity potential of native grasslands under
+variable management practices shows that moderate herbage allowances have
+an advantage over high or low stocking rates on gain per area and per animal
+(MARASCHIN, 1998; SOARES et al., 2005). Reductionist experiments
+conducted to explore specific mechanisms of animal and vegetation processes
+determined management rules for achieving high intake rates and help
+identifying vegetation characteristics for increasing productivity (GONÇALVES
+et al., 2009a; NEVES et al., 2009; da TRINDADE et al., 2012, 2016; BONNET
+et al., 2015). Results, however, are disguised by large interannual and seasonal
+variations, which difficult the understanding of the process related to herbage
+and grazing dynamics. Besides having a large quantity of data, animal
+performance and herbage allowance relationships are not as clear as previously
+thought, and there is still a lot to understand about animal production in our
+environment.
+            For advancing in the understanding of this pastoral system, a novel
+approach is needed, incorporating all information already generated, and
+identifying future research needs. A recent effort using a deterministic, top-down
+model for exploring the influence of short-term intake on animal performance
+indicated that most of the explained variation on animal performance is related
+to season and inter-tussock canopy height, used as a proxy for bite mass
+(CARVALHO et al., 2015). We believe that there are other non-linear
+interactions between vegetation and cattle more difficult to be accounted for,
+requiring a more detailed spatially-explicit model to be explored. Thus, we
+propose the adaptation of a mechanistic dynamic model (JOUVEN et al.,
+2006a) to study the underlying forces influencing herbage production and cattle
+grazing behavior in heterogeneous, complex native grasslands in southern
+Brazil.
+         The global objectives of this project are to 1) develop a theoretical
+model for studying the dynamics of vegetation and animal production in multi-
+specific subtropical grasslands, including the vegetation composition and
+structure response to variable grazing and environmental conditions; and, from
+this model to 2) develop a decision support system that allows managers to
+define stocking rates and predict production indexes based on management
+characteristics and weather forecast. Here, set the stage by presenting the first
+step towards that direction. The core of this thesis is based on two main models
+(the vegetation and the grazing models) which need to incorporate principles of
+heterogeneity (vertical and horizontal distribution of plant components) and
+diversity (botanic composition), and their influence on herbage dynamics and
+grazing behavior, and accommodate to the knowledge, information, and tools
+available. It integrates mechanistic and empiric equations, both from local and
+international literature, and from data obtained in 30 years of experimentation in
+native grasslands in southern Brazil. The vegetation model utilizes the
+principles of functional groups to describe the vegetation diversity, distributed in
+space, with functional attributes simulating biomass fluxes and responses to
+environmental factors and seasonality. The grazing model uses the concept of
+profitability of bites available per patch, incorporating empirical and mechanistic
+equations based on optimality principles.
+         A vast literature was reviewed for achieving the objectives. In the
+literature review (Chapter 2), I will briefly summarize the most important
+information studied for each of the models, which will complement what has
+been written on the two proposed papers (Chapters 3, the vegetation model;
+and 4, the grazing model), presented in a logical way which led to the origins
+and development of the ideas behind this project. Chapter 3 brings the
+adaptations proposed for the original model (which is detailed described in
+Chapter 2), as well as verification and validation against observed experimental
+data. The grazing model is proposed on Chapter 4, incorporating observed data
+on grazing behavior with classical mechanistic equations, held together in the
+theoretical framework of the “optimal foraging theories”. Both models can be
+expanded and improved to integrate dynamics of vegetation composition and
+animal performance, for example. At the end, Chapter 5 brings the general
+conclusions and main findings of this thesis, as well as personal remarks on
+how this project was influential on my professional and personal career.
+
+CHAPTER II – LITERATURE REVIEW
+2. LITERATURE REVIEW
+
+   2.1. Complex grazing environments and animal production – the origins of
+       the ideas
+
+      2.1.1. General overview
+
+         Complexity in ecosystems science can be described as composed by
+three main axes: heterogeneity, connectivity and historical contingency
+(CADENASSO et al., 2006). Heterogeneity per se is a multidimensional
+concept, related to patch richness and configuration, how the pieces of the
+system are arranged and how they differ from each other (LACA, 2008).
+Connectivity is regarding the organization and how the pieces interact
+(TRAITON et al., 1996). Lastly, the historical contingency describes the
+changes on the system over time (CADENSASSO et al., 2006). While herders
+many times, empirically, consider those axis together (MEURET & PROVENZA,
+2015), historically, natural resources management has been characterized by
+high efforts on reducing variability for increasing predictability in
+agroecosystems (FUHLENDORF et al., 2017). From controlled experiments
+designed to minimize heterogeneity for studying specific mechanisms, to high-
+intensity grazing and mowing for homogenizing the pastures, our focus has,
+been on the pieces of the system instead of on its functioning. Those are
+important steps on the information building process, but knowledge only
+emerges when putting the pieces together for making sense of the whole. But
+when adding those components in a system’s perspective, in an organized and
+interactive manner, the results are quite different from expected, and new
+proprieties emerge (TRAINTON et al., 1996; CADENASSO et al., 2006;
+HIERONYMI, 2013; FUHLENDORF et al., 2017).
+         Complexity in grazing systems arise from the relationships of plants and
+environment, the plant-animal interface which are driven by herbivore species
+and category, and from the management techniques which influence the
+allocation and use of resources (TRAINTON et al., 1996). The relative
+importance of (a few) specific species of native grasslands on the diet
+composition and animal performance adds to the complexity of the system and
+is, many times, the focus of management goals (e.g. reduce proportion of
+tussocks or increase the proportion of legumes). Heterogeneity is difficult to
+conceive and generally hard to manage. Naturally, for lack of understanding, we
+regard it as detrimental. But homogenizing grasslands could be an answer?
+Heterogeneity is critical for the ecosystem functioning (LACA, 2008; BLOOR &
+POTTIER, 2014; FUHLENDORF et al., 2017). If we think from an ecological
+perspective, the diversity of species, or functional diversity (DIAZ & CABIDO,
+2002), is essential for providing ecosystem services. From the animal
+perspective, it can be seen as opportunity for a varied and more complete diet,
+but, depending on vegetation characteristics, a hindrance on foraging behavior.
+The question, therefore, is: how can we better utilize heterogeneity?
+        An example of those complex grassland ecosystems is the Pampa
+biome, extending from southern Brazil to Uruguay and north-eastern Argentina.
+It covers an area of approximately 700,000 km², housing 43 million head of
+cattle and 14 million sheep, along with 400 species of vertebrates exploiting
+over 4000 native plant species (MODERNEL et al., 2016). This vast botanical
+composition is arranged in a mosaic organized in time and space, interacting
+with edaphic and macro- and micro-climatic conditions, largely influenced by
+use characteristics, and with specific features depending on local characteristics
+and scale. The grassland physiognomy of the Campos region, in the northern
+part of the Pampa (Brazil and Uruguay), is dominated by perennial C4 grasses,
+but composed by over 450 grass and 200 legume species (BOLDRINI, 2009).
+Climatic characteristics are determining factor affecting the maintenance and
+productivity of those grasslands, which are kept by disturbances (White et al.,
+2000) such as periodic draughts and herbivory, despite actual precipitation
+levels already be supportive of shrub encroachment and forest expansion
+(OVERBACK et al., 2007).
+      2.1.2. A brief scientific history of our long-term experiment in native
+            grasslands
+
+        Grazing experiments, especially in native grasslands, can take a long
+period of time to stabilize. Thus, long-term experiments are important for
+allowing for a better interpretation of the trajectory of the system and magnitude
+of changes in components along time (KNAPP et al., 2012; PORENSKI et al.,
+2015). This facilitates the study of the mechanisms and temporal dynamics of
+the cause and effect relationships to a greater extent, especially if
+complemented with side experiments for studying specific questions of the
+mechanisms of the system (KNAPP et al., 2012).
+        In 1986, Professor G. E. Maraschin started an experiment to
+understand the production dynamics of native grasslands in Rio Grande do Sul,
+at the Federal University’s (UFRGS) Agronomic Experimental Station. The
+objective was to assess the productive capacity of the Campos grasslands for
+beef cattle by only managing herbage allowance. Four herbage allowance
+levels were tested, based on the amount of forage (kg) by 100 kg live weight
+(LW) per day, or % LW d-1: 4, 8, 12 and 16 % LW d-1 offered (MARASCHIN,
+1998) based on an estimated ideal intake of 3 % LW d-1 (VAN SOEST, 1994).
+         In a first moment, it was observed that maintaining herbage allowance
+between 11 and 13 % LW d-1 (moderate grazing pressure) allowed for gains
+around 120 kg ha-1 yr-1, while the average for the State was 70 kg ha-1 yr-1, and
+0.4 kg LW animal-1 d-1 (MARASCHIN, 1998). Soares et al. (2005) then realized
+that by attempting to manage vegetation structure it was possible to achieve
+better animal performance. They imposed three new treatments with variable
+herbage allowance though out the year: 8 % LW d-1 in the spring, 12 % LW d-1
+the rest of the year (8-12 % LW d-1); 12 % LW d-1 in the spring, 8 % LW d-1 the
+rest of the year; and 16 % LW d-1 in the spring, 12 % LW d-1 the rest of the year.
+The 8-12 % LW d-1 outperformed the original treatments, and productivity raised
+to approximately 230 kg LW ha-1 yr-1.
+        But besides achieving those results, there was no understanding on the
+mechanisms behind the responses. Herbage allowance brought no information
+on vegetation structure (UNGAR, 1996) and it’s relationships with animal
+productivity were not as strong as previous thought (MARASCHIN, 1998),
+proving not being a good predictor of intake and performance (CARVALHO et
+al., 2015). Mass per unit of area available for the animal to graze is in a two-
+dimensional plane, while bites are taken in a three-dimensional universe,
+regulated by many factors other than just vegetation biomass (UNGAR, 1996;
+LACA, 2008; VAN LANGEVELDE et al., 2008).
+        As researches advanced and a better understanding of the production
+system was achieved, new questionings emerged and along came new
+hypotheses based on the basic processes of the system’s functioning. Thus, a
+third stage of experimentation began with reductionist essays, focusing on
+instantaneous and daily intake (GONÇALVES et al., 2009a,b; NEVES et al.,
+2009; DA TRINDADE et al., 2016), selectivity (TISCHLER, 2014; BONNET et
+al., 2015) and space utilization patterns (SANTANA, 2015). It was believed that
+cespitose grasses available and other tussock-forming species, in general, were
+not part of the cattle’s diet composition, because of low nutritive value,
+secondary metabolites or difficulty in accessing forage (PINTO et al., 2007;
+CARVALHO et al., 2008; NEVES et al., 2009). However, those species can
+have a larger than thought importance on vegetation dynamics (BRISKE &
+DERNER, 1998) and herbage intake (BONNET et al., 2015), but the interaction
+between upper (tussocks) and lower (lawn) strata, and upper strata and
+herbage intake are not clear. Some researches already indicate that an
+important fraction of grazing time and total intake is actually from those
+tussocks (TISCHLER, 2014; BONNET et al., 2015).
+         The constant application of herbage allowance levels along time
+resulted in very particular vegetation characteristics for each treatment,
+characterized by variable proportions a bimodal structure composed of grazing
+lawns (lower stratum) of prostrate species intermingled within tall tussocks
+(upper stratum) of cespitose, less-desired species (BOLDRINI, 1997; SOARES,
+2005; NEVES et al., 2009). The most frequent species on the lower stratum are
+Paspalum notatum, P. pumilum, P. paucifolium, Axonopus affinis e
+Piptochaetium montevidensis; while the upper stratum is composed by
+Andropogon lateralis, Aristida jubata, A. laevis e Schyzachirium microstachyum.
+With increasing herbage allowances, there is an increase in frequency and
+dominance of tussocks, with significant participation of non-grass species such
+as Eryngium horridum, Baccharis coridifolia e Vernonia nudiflora (Da
+TRINDADE et al., 2012). The arrangement and disposition of those other
+species in the vertical structure of the canopy and on the area, respectively,
+affect directly animal performance, by influencing factors related to intake, such
+as bite size and rate, selectivity, and prehension capacity SOLLENBERGER &
+BURNS, 2001; LACA, 2008).
+         Gonçalves et al. (2009a,b), found a linear relationship of bite depth and
+inter-tussock stratum canopy height, but a quadratic relationship with bite mass
+because of lower densities of taller canopies. The highest intake rates were
+observed at canopy heights between 10 and 11 cm. The effects of tussocks
+was studied by Bremm et al. (2012), which found a decrease in 0.6% in grazing
+time in the inter-tussock strata for each 1% increase in tussock cover, but intake
+rates were higher when proportion of tussocks was between 34 and 44%. Thus,
+as rule of thumb, the “ideal” vegetation structure for native grasslands would be
+between 1400 to 2200 kg DM ha-1 standing biomass, with < 35% tussock cover,
+and inter-tussock stratum height between 9 and 13 cm for increasing intake and
+decreasing grazing time (DA TRINDADE et al., 2012).
+      The problem, however, is that this sort of structure proved very hard to
+be maintained by managing grazing only, especially with fixed herbage
+allowances. For intermediate herbage allowance, which had the highest
+productivity, 60 to 70% of grazing patches have heights < 6 cm, considered
+limited to intake potential (NEVES et al., 2009). Increasing herbage allowance
+decreases effectively grazed area while increasing grazing intensity reduces
+tussock cover and inter-tussock canopy height. Despite the high forage
+availability at high herbage allowance, structure of the canopy (low density) and
+of the pasture (high frequency of tussocks) limits intake. The arrangement of
+those tussock-forming species in the area and canopy profile affect directly
+animal performance, since they are determining factors affecting intake
+parameters, such as selectivity, bite mass and rate, and easiness of prehension
+(SOLLENBERGER & BURNS, 2001; LACA, 2008). Hence, managing only
+based on herbage allowance imposes significant restrictions to animal
+performance (CARVALHO et al., 2008; Da TRINDADE et al 2012).
+        Furthermore, the relationship of animal intake, vegetation structure and
+herbage allowance with animal performance was not clear. Carvalho et al.
+(2015) performed a general statistical analysis of 10 years of data from this
+experiment, based on a conceptual model where bite mass (short-term intake
+rate) was determinant of long-term animal performance across a range of
+canopy conditions. Around 78% of the variation on live weight gain was
+explained by the model, but only 35% were related to known fixed effects, being
+16% due to season variations and 11% to bite mass (which were simulated
+based on canopy height). The lack of prediction was attributed to not accounting
+tussocks on the model, which, as mentioned before can represent a significant
+proportion of forage intake, thus performance (BONNET et al., 2015).
+           For evolving on this line of research on native grasslands, there was a
+need for a different approach, something that could integrate all this information,
+analyzing in more depth the relationships between herbage production and
+consumption, the effects of distinct groups of plants, and their interaction with
+the foraging animals and environment. This scenario led us to the idea of
+developing a mechanistic model that could represent vegetal species diversity
+and heterogeneity, be influenced by weather constraints, and allow for selective
+grazing leading to simulating vegetation dynamics and animal production. To
+the best of our knowledge, this is the first of such effort in our environment, and
+still fairly unique across other biomes.
+   2.2. Modeling grasslands
+
+        Empirical and mechanistic models, collectively, have increased
+considerably our fundamental knowledge and understanding of several aspects
+and processes of ecosystem functioning and dynamics (DERNER et al., 2012).
+Although large advance in ecological and agricultural models in recent years
+(JORGENSEN 2011; and see JONES et al., 2016), few of those explore the
+effects of spatiotemporal and climatic variability on grassland management
+(TEAGUE et al., 2009).
+       Studying the major components of a system in isolation, which it is the
+focus and design of many of our agricultural field experiments, is not
+necessarily sufficient to understand the overall systems’ functioning
+(HIERONYMI, 2013; JONES et al., 2016). Adding the components together, in
+an organized manner, interacting among them and with the external
+environment creates properties previously unseen, affecting the behavior of the
+system within its boundaries and even expanding them (THORNLEY, 2001;
+JONES et al., 2016). Mechanistic modeling is a tool for adding those
+components together and exploring their relationships, in a way to study how
+grazing systems work and identify research needs and opportunities for
+intervening for maximizing future events (THORNLEY, 2001).
+         Identifying the main entities and their relationship is fundamental for
+understanding the causes and direction of changes and the effects of
+management interferences in the system (FRIEDEL et al., 2000; GORDON,
+2000). Many times, the lack of knowledge about those entities and their
+interaction, or even neglecting for simplifying the studies, limits our
+interpretation and weakens the analysis of the results. On the other hand, high
+degree of complexity and large number of variables and parameters does not
+guarantee higher confidence or representability, especially if parameters are
+have large estimation errors (uncertainty on parameters – e.g. RYKEL 1995;
+GAN et al., 2014; SUMNER et al 2012). Thus, knowing how much and when to
+simplify is essential (THORNLEY, 2001).
+         First ecological models of grasslands were developed in the late 1960’s
+and 1970’s, supported by early developments on ecophysiological process of
+photosynthesis, resource allocation and herbage production (e.g. BROUGHAM,
+1959; DE WIT et al., 1978; PARSONS et al., 1983; and see JONES et al., 2016
+for general review on agricultural systems modeling and PETERS 2011 for
+more specific grassland models). Peters (2011) classify grassland models into
+five major classes, regarding drivers and key response variables: demographic
+models, including individual-based models and cellular automata (which is the
+classification of this project), for simulating processes affected by competition
+and succession in plant population across landscapes; physiological models, or
+source-sink models, for simulating carbon assimilation, allocation and growth of
+plant species; physical models, which are appropriate for simulating soil and
+water processes and vegetation responses; biogeochemical models, for global
+carbon, water and nutrient flows; and dynamic global vegetation models, for
+simulating vegetation functional and structural dynamics at global scale.
+         The model choice has to take in account many aspects, including, first,
+objectives of the study, or the question we intend to answer. At the end of the
+project, what matters is if the model used was adequate for testing the
+hypothesis and helped us improving he understanding of the process or system
+being simulated. The scale being simulated is an important factor to be
+considered both for the representability of the simulation and computing
+capacities. Generally, the main hurdle modelers face is the availability and
+quality of the data for parametrizing, and the high variation and difference of
+measurement techniques across the literature. Considering that most species
+composing perennial grasslands are poorly or not at all studied, this can
+seriously impair the quality of simulations since not only parameters, but some
+processes themselves are not very clear (especially when involving grazing).
+Finally, the level of detail desired, which is aligned with the objectives, but has
+to be thoroughly planned considering limitations in assumptions and
+generalizations. The lack of understanding of the functioning of specific
+mechanisms, on the other hand, should not be an impediment for modeling, and
+the chosen model has to be able to consider those limitations. In fact, identifying
+those limitations is part of the modeling process and knowledge development,
+which may guide research needs and evolving on the study of such problems.
+       2.2.1. Some models and ecological considerations
+
+         There is a very broad array of models available for simulating pasture,
+grassland and rangeland systems, with varied levels of details to fulfill distinct
+demands. The objective of this section is not making a broad review of the
+literature on all type models, but to illustrate the path which guided to the choice
+of model used on this dissertation. More detailed information can be obtained in
+the referred literature and reviews such as from Bryant and Snow (2008),
+Peters (2011), Derner et al. (2012), Andrade et al. (2015) and Jones et al.
+(2016).
+          2.2.1.1. Developing the ideas for this project
+
+         As mentioned in the previous section, there was an eagerness to
+understand the whole functioning of the Campos grasslands, including the
+effects of management and environment on herbage and species dynamics,
+searching for the most appropriate theoretical framework (e.g. Dykste9rius,
+1949; NOY-MAYER, 1975; WESTOBY et al., 1989; LOCKWOOD &
+LOCKWOOD 1993). As we started with Noy-Mayer’s idea of dynamic
+equilibrium, the natural line to be followed was the work developed by A.
+Parsons, I. R. Johnsons and J. H. M. Thornley (JOHNSON & THORNLEY,
+1983; JOHNSON & PARSONS, 1985; PARSONS et al., 1994; THORNLEY et al
+1994; which are the origins and developments of the Hurley Pasture Model,
+THORNLEY 1998; and further SWCHINNING & PARSONS, 1996, 1999).
+          Johnson and Thornley (1983) proposed an herbage growth model
+based on the leaf area expansion, including leaf age structure and senescence
+process. Leaf area index (LAI) was considered as independent variable, since
+distinct canopy structures could yield the same LAI (i.e.: cutting the forage to a
+specific LAI has a totally different structure than allowing growing to that same
+LAI). This model was latter complemented with grazing functions (JOHNSON &
+PARSONS, 1985) where at each time span a proportion of each leaf age
+compartment (4 compartments, leaf 1 – expanding – to leaf 4 – senescing) was
+harvested (being grazing considered a continuous and deterministic process).
+The authors suggested, based on the propositions made by Noy-Meir (1975),
+that depending on the initial/residual canopy state and on climatic conditions
+(i.e. season or limitation event such as drought) there could be two vegetation
+equilibria for a same stocking rate. This was regarded as a discontinuous
+stability, because the system could move from a stable state of high productivity
+to a lower stable state of productivity with a small increase in grazing pressure
+or minor disturbance. Returning to a higher equilibrium would require a large
+reduction on stocking rates or significant increase in herbage production.
+       This implies that a continuously stocked pasture would have multiple
+steady states, but being “discontinuously stable”. The idea was then reviewed
+by Schwinning and Parsons (1999), with a slight different approach in some of
+the main aspects of the model. They reduced complexity by narrowing to 1
+compartment for herbage growth, without aging function, while altering the
+conventional logistic equation for growth, adding a factor to consider residual
+sward state in each grazing interval. They modeled grazing and herbage growth
+processes at the bite scale, adding spatial variability by combining discrete and
+stochastic defoliation process (instead of continuous and deterministic,
+respectively, as in JOHNSON & PARSONS, 1985). However, considering only
+one leaf compartment, they lost the differential effect of grazing on leaf
+compartments, altering significantly the herbage and consumption dynamics.
+Consumption was a function of sward state and limited by grazing time or by
+maximum intake. The authors suggested that previous models (NOY-MAIR,
+1975; JOHNSONS & PARSONS, 1985) had overemphasized the importance of
+the dual stability, mainly because they were not considering the stochasticity of
+the grazing process and spatial heterogeneity of the vegetation.
+         On the other hand, Schwinning and Parsons (1999) also showed that
+the dual stability region largely expands when accounting for animal patch
+selection (rejection of low biomass patches) rather than random consumption.
+Their model was proposed by mono-specific, temperate grasslands, without
+environmental restrictions and considering grazing a random process. Grazing
+activity is not random, but regulated by several factors, including animal
+characteristics (species, selectivity, foraging history), vegetation characteristics
+(structure and composition), and habitat (paddock and patch sizes, attractive
+spots, terrain) (PARSONS & DUMONT, 2003; BONNET et al., 2015). When
+considering a larger botanical composition (more than one species), animal’s
+selectivity between different plant species or vegetation compartments,
+especially in natural grasslands, will add heterogeneity to system (Parsons and
+Dumont, 2003). We believe that not considering grazing as a stochastic
+process, adding preference guidelines (depending on preference vs. availability)
+and grazing strategies (gut fill vs. nutrient harvesting, based on the grazing
+behavior data from direct observations already collected), as well as limiting
+environmental conditions, we will probably find large discontinuities in the
+system (NEWMAN et al., 2007).
+         Moving along with our literature review, some models proposed the use
+of functional traits to predict herbage growth, nutritive value and management
+influences on perennial pastures (JOUVEN et al., 2006a; DURU et al, 2009).
+This approach groups plant species into functional types (groups) of similar
+response to environmental characteristics and defoliation regimes, assuming
+that the functional traits incorporate most of the relevant variables needed for
+modeling the capture and use of resources and tissue flows (JOUVEN et al.,
+2006a; for a more detailed description of the model functioning and assumption,
+see following sections). The model was validated (JOUVEN et al., 2006b) and
+tested over other conditions (HURTADO-URIA et al., 2012; CALANCA et al.,
+2016), producing reasonable results, being considered appropriate for studying
+the vegetation and management dynamics in permanent grasslands (JOUVEN
+et al., 2006b). One of the drawbacks is that the model is sensitive mostly to
+temperature and seasonal effects (same problem as previous attempts on
+modelling our experimental data, CARVALHO et al., 2015), and being somehow
+less sensitive to the actual functional traits. For Hurtado-Uria et al (2012), the
+model tended to under-predict herbage growth of perennial ryegrass (Lollium
+perenne), with quality of responses dependent on season. Calanca et al.
+(2016), testing Jouven’s et al. (2006a) model for temperate perennial
+grasslands in Switzerland, found that it adequately simulated drought effects
+and seasonality on growth, but there was a tendency for overestimating the
+impacts of moderate water stress. Both authors noted adjustments for
+improving accuracy, some of which were already suggested by Jouven et al.
+(2006b). Similar idea of using functional attributes for simulating perennial
+grasslands was explored and improved by Duru et al. (2009), with more
+emphasis given to leaf traits (leaf dry matter content and LAI) and nutrient
+availability. They adapted a mono-specific grass model to species-rich
+grassland under cutting regime, using environmental conditions to control the
+rates of biological processes. Simulated results were tested against two
+datasets and found good fit for the results, with few discrepancies related
+probably to the presence of non-grass species.
+          2.2.1.2. Brief on other grassland and rangeland models
+
+         Different lines of models were also considered and studied for this
+project, and some of them with more relevance will be briefly discussed in this
+section. Along with the Hurley Pasture Model (THORNLEY, 1996), SAVANNA
+are two of the most influential models and modeling lines (Jones et al., 2016).
+SAVANNA was developed by Coughenour (1993) for grazing studies in arid and
+semi-arid regions of Africa, and further adapted to Australia (e.g. LUDWIG et
+al., 2011) and western US and Canadian rangelands (e.g. WEISBERG &
+COUGHNOUR, 2003). It is a spatial model for simulating feedbacks between
+plants and herbivores (livestock and wildlife), accounting for most key
+ecosystem components and processes, allowing for simulating multiple
+ecosystem goods and services, and with practical herd management outputs for
+stakeholders and policy makers (Bonne et al., 2002). The model is consisted by
+vegetation, soil and ungulate sub-models, subjected to weather, animal and
+vegetation management. The level of output details from the SAVANNA allows
+for a thorough analysis on the historic drivers and spatiotemporal variation on
+vegetation and landscape, but, on the other hand, is very demanding in terms of
+computation and parametrization for new locations, requiring practical field
+expertise and local knowledge for fitting (DERNER et al., 2012).
+         ALMANAC (KINIRY et al., 1992) has also been used to simulate
+production of perennial native grasses in the North American Great Plains
+(KINIRY et al., 2002, 2007, 2013, 2014; KIM et al., 2016) under variable rainfall
+regimes. Since it was first developed in the base of row-crop weed competition
+model (an evolution of the EPIC model), ALMANAC is able to simulate inter-
+species competition for resources, especially water, nutrients and light. It does
+require significant detailed soil information and potential LAI of the considered
+species, as well as reduction coefficients for biomass and LAI after anthesis.
+Despite the intensive parametrization needed, the model was developed to use
+readily available inputs and has been intensively tested for many crops
+(including bermudagrass [Cynodon dactylon (L.)] and bahiagrass [Paspalum
+notatum Flügge]; KINIRY et al., 2007).
+         Another line of models have been developed by B.D. Hahn and F.D.
+Richardson (HAHN et al., 1999, 2005; RICHARDSON & HAHN, 2007a,b;
+RICHARDSON et al., 2005; 2010; RICHARDSON 2009) for the semi-arid
+Succulent Karoo in South Africa, for addressing questions from conservation to
+applied management practices. The models account for changes in vegetation
+(production and composition) in response to grazing and climate variability, and
+nutritional conditions and performance of cattle and goats. Despite objectives
+being similar to ours, their complex models have a high level of details and
+parameter requirements, which would made relatively complicated to be
+adapted to our grasslands, especially in a spatially-explicit manner.
+         McCall and Bishop-Hurley (2003) proposed a generalized climate-
+driven model to evaluate and describe observed data for Lolium perenne,
+further evolved by Romera et al. (2009). The rationale and parts of this model
+have been considered when implementing Jouven’s et al. (2006a) ModVege
+[i.e. f(W), eq. 14-16 and Fig. 4 in following section]. The reasonable simplicity
+is appealing, but for our purposes it lacks the species diversity would be difficult
+to parametrize for other species than the more commonly known in the Pampas
+(e.g. Paspalum notatum).
+         Paruelo et al (2008) presented COIRON, grid-based approach for
+simulating long-term vegetation dynamics of the Patagonian steppe under
+stochastic climate and different grazing regimes. The focus on their model is on
+the effect of those variables on Festuca pallensis tussocks distribution and
+survival, especially for analyzing management influences on desertification
+process. This model was later upscaled from 0.15 ha to 2500 ha for analyzing
+regional variations (CIPRIOTTI et al., 2015) using a non-parametric approach
+with transition matrixes. The model’s time step is one year, and, since the focus
+is on vegetation transition, does not represent the grazing process to the level
+of detail we need. Grazing is considered as a sequence of events which
+continue until forage needs are met, available forage reaches a minimum or no
+suitable cells are found. Defoliation intensity is subject to a grazing probability,
+which declines with increased accumulation of dead material, but increases with
+higher stocking rates. Vegetation state transition probability matrix are
+conditioned to precipitation class and stocking rate, which stored in a previously
+generated library to facilitate computation.
+          Simulation models for tropical pastures are somehow more limited and
+more recent. A effort in that sense has been put to adapt CROPGRO and
+APSIM to simulate growth of Brachiaria brizantha (e.g. PEDREIRA et al., 2011)
+and Panicum maximum (e.g. LARA et al., 2012; ARAUJO et al., 2013) in a large
+initiative involving research institutions from US, Australia, Brazil and Colombia
+[see ARAUJO et al. (2016) for more references]. Neither of those models,
+however, includes a grazing component [but check GRAZPLAN suite for
+APSIM, in BRYANT & SNOW (2008) for more references].
+        And the list of available models keeps increasing, as more uses are
+given and more adaptations are made. From whole rangeland and animal
+production models, like the SPUR (e.g. CORSON et al., 2006) to empirically-
+based management simulation model to assess ecological and socioeconomic
+issues (MÜLLER et al., 2007), to theoretical spatialized models to study
+heterogeneity in grazing (MARION et al., 2005), or creation and maintenance of
+structural vegetation patters (MOUISSIE et al., 2008) and functional responses
+van Langevelde et al. (2008). Searching for the “right model” is not an easy
+task, but has to begin with the “right question” and assessment of available
+tools.
+       2.2.2. Cellular automata
+
+        The use of spatially explicit models on the study of vegetation and
+herbivore dynamics can be a great tool for investigating of those complex
+systems, and bring new insights for previously set assumptions (VAN
+LANGEVELDE et al., 2008; MOUISSIE et al., 2008; DERNER et al., 2012;
+JAKOBY et al., 2015), particularly when non-linear relationships emerge from
+the interactions between herbage, climate and livestock (COLASANTI et al.,
+2007). Spatial patterns of vegetation distribution have large impact on resource
+use by the foragers, affecting movement, intake and selection (PARSONS &
+DUMONT, 2003; LACA, 2008), creating and maintaining heterogeneity
+(MOUISSIE et al., 2008).
+        Cellular automata are discrete models in time, space and state, popular
+on the study of ecosystem dynamics (see BALTZER et al., 1998; DEUSTCH &
+DORMANN, 2005). A simple cellular automaton is defined by a lattice of cells
+characterized by a set of elementary states, interacting with a neighborhood
+template via space- and time-independent transaction rules (DEUSTCH &
+DORMANN, 2005). Shape, size, organization and interaction of the cells are
+defined by the modeler. A commonly-used lattice is composed by hexagonal
+cells which interact with the six nearest neighbors (Figure 1), but many other
+formats and cell arrangements in one- or two-dimensional grids are available
+(DEUSTCH & DORMANN, 2005). Change in state of each specific cell is given
+by deterministic or stochastic rules, influenced by the state of the neighbors, in
+discrete time steps. A general detailed description of the functioning and
+equations of a cellular automata model can be found on Chapter 4 on
+DEUSTCH & DORMANN (2005).
+      2.2.3. ModVege description
+
+         Our choice of model took in account three important aspects, based on
+data availability and our long-term objectives with this project. First, we need a
+model which is fairly simple to adapt and work, based on the limited expertise in
+the modeling process and programing, and that requires few parameters,
+considering that some of those would have to be calculated or estimated based
+on the little available data. Second, a model which allowed for vegetative and
+reproductive growth, representing heterogeneity of vegetation structure, and
+that grew year around, regulated by environmental constraints. And finally, a
+model which allowed us to evaluate the effect of vegetation composition and
+distribution on the forager’s choice, and the impact of the forager’s choice on
+vegetation dynamics including shifts on functional composition.
+         Jouven et al. (2006a) presented a simple mechanistic, dynamic
+approach to study “the effects of management (type and intensity) on biomass,
+structure and quality dynamics” of multi-specific perennial pastures. It is based
+in the combination of two approaches, functional and structural. Vegetation
+flows are based on functional attributes of plant groups, which can be used to
+simulate herbage production under variable composition of functional groups
+(diversity), environmental conditions (especially N nutrition and water
+availability) subjected to cutting regime. The structural part is a squeme of four
+compartments representing both green and dead biomass of vegetative and
+reproductive growth.
+      The conceptual base for the Jouven et al. (2006a) model has five main
+assumptions:
+   1) The functioning of perennial grasslands can be explained by the mean
+      value of functional parameters (biological attributes) of the composing
+      functional groups. Those traits can be associated to production dynamics
+         in response to environmental conditions and defoliation regimes. Values
+         for the functional attributes are given by the weighted averages of the
+         values for each functional group given the proportion of the group in the
+         community.
+    2)   Sward heterogeneity can be described by the relative abundance of
+         structural components, which determines nutritive value and allow for
+         grazing selectivity within the sward. The sward is divided into green
+         vegetative (GV3), green reproductive (GR), dead vegetative (DV) and dead
+         reproductive (DR)(CARRÈRE et al., 2002).
+    3)   Growth, senescence and decay4 can be described as continuous flows
+         (JOHNSON & PARSONS, 1985), giving that a cohort of leaves which
+         appear on the same day will successively expand, mature and disappear
+         together.
+    4)   Shoot growth is regulated by seasonal pattern which accounts for
+         storage and mobilization of carbon reserves. Growth starts with
+         mobilization of reserves in the springs, peaks in late spring and early
+         summer, and decreases from late summer on. This decrease in growth
+         accounts for allocation of reserves to storage or reserves and root
+         growth.
+    5)   Nutritive value of green compartments, senescence and decay are
+         determined by compartment aging, and related to the leaf lifespan.
+         Digestibility of green compartments decrease linearly with age (from
+         maximum to minimum digestibility), while it is constant (at minimum
+         digestibility) for the dead compartments. Senescence rate of young
+         vegetative material is low, and increases as the compartment ages,
+         especially when approaching leaf lifespan.
+
+         A first set of differential equations are responsible for describing the
+change in state of the system. A second group is responsible for the flows
+(growth, senescence and decay) and limitations (environment) of the system.
+Site is described by nutrient index, soil water availability and functional group.
+            2.2.3.1. Differential equations
+
+         The whole assembly of the model is based on the processes within
+each of the four structural compartments. Each of the four compartments works
+separately, and is described by a state variable of standing biomass (       , kg
+                      -1
+dry matter [DM] ha , where “c” designates each of the four compartment).
+Flows between compartments (senescence and decay) are described by age
+according to thermal units (        , degree-days, °C d). As compartment ages,
+nutritive value (as organic matter digestibility –    ) decreases linearly. A set
+of differential equations control biomass accumulation and disappearance, and
+aging dynamics within each compartment, in a daily time step.
+          The changes in biomass of each green compartment is calculated by
+
+
+    3
+       Underwritten “c” refers to compartment within cell, and underwritten “i” refers to cell
+characteristics
+    4
+      The original model (Jouven et al., 2006) uses the term “abscission”. We chose to change to decay
+since grasses in general do not have abscission layer, and decay seems more appropriate
+
+
+
+          2.2.3.2. Growth functions
+
+         The growth function (     , kg DM ha-1) considers only above-ground
+biomass, and partitioning between growth and reserves, or reserve mobilization,
+is accounted for by the seasonal effects (        , unitless). This partitioning is
+different than the one mentioned above, where assimilates either go for
+vegetative or reproductive growth.      is then given by potential growth (       ,
+kg DM ha-1), which assumes optimal conditions, and growth-limiting factors,
+based on environmental limitations (     , unitless), and regulated by season.
+             
+          The               is calculated by the equation after Schapendonk et al.
+(1998):
+                 
+         Nutrient index ( ) is a site specific parameter that restricts for mineral
+nutrition deficit, calculated after Bélenger et al. (1992).
+        The conversion efficiency of absorbed light into assimilates is variable,
+and dependent on radiation intensity, temperature and water availability
+(SCHAPENDONK et al., 1998). The three following functions on            equation
+account for those limitations, in the original model as: (i) (    ) decrease in
+       at radiation intensities (      ) over     5 MJ m-2 [eq. (12); after
+SCHAPENDONK et al., 1988]; (ii) at the beginning of the season,
+photosynthesis starts after 10 day moving average temperature (          , °C) is
+above      [ ( ), eq (13); after SCHAPENDONK et al., 1998]; and (iii) water
+stress [ ( ), eq. (14-16) after MCCALL & BISHOP-HURLEY, 2003). (                )
+(Figure 1) is given by:
+          
+               
+        Water availability is one of the most restrictive factors in native
+grassland environments. Photosynthesis is limited by of stomatal closure, which
+reduces plant transpiration and restricts CO2 uptake. Growth limitation by water
+stress [ ( ); Figure 3] is a function of potential evapotranspiration (     , mm)
+and water stress ( ) which is calculated as the ratio between water reserves
+(    , mm) to soil water holding capacity (      , mm; after McCall and Bishop-
+Hurley, 2003), where the maximum value for the nominator is the           . Water
+reserves are replenished by precipitation ( , mm) up to             , after when
+runoff starts and is not accounted for. Depletion occurs by actual
+evapotranspiration (     , mm), which is considered as being equal to          at
+canopy light interception of 95%, when      > 3 (Johnsons and Parsons, 1985),
+so
+
+          Those values are based on work developed by Denmead and Shaw
+(1962), with corn plants in containers filled with Colo silty clay loam soils,
+subjected to different water restriction treatments and varying potential
+transpiration rates. Available for plant growth then depends on rooting depth
+and soil       between wilting point (-15 atm) and field capacity (-0.3 atm). Soil
+       for McCall and Bishop-Hurley (2003) is calculated to a depth of 75 cm,
+which is divided into top (A) horizon (10 cm) and remaining (B) horizon of 65
+cm. To simplify calculations, the Jouven et al. (2006a) model just considers one
+soil horizon and the same rooting depth for all functional groups.
+         The season (       , unitless; Figure 4) is an empirical function proposed
+by Jouven et al (2006a) based on information from the literature, especially on
+N remobilization. Season regulates growth by indicating whether there is
+mobilization of reserves or storage of assimilates. The function sets season at
+minimum (           ) during fall and winter, and increases to maximum (             )
+after the onset of growth.          starts increasing at 200°C d, and               is
+when ST − 200 < ST < ST − 100.                 starts decreasing again at ST and
+levels out in           when reproductive period ends, at ST .          > 1 indicates
+above-ground growth is supported also by mobilization of reserves, while if
+      < 1 there is allocation of assimilates for storage of reserves. Minimum and
+maximum          values and ST and ST vary depending on the functional group
+(see parameters on Table 1). More conservative groups (i.e. C and D) are more
+dependable on mobilization of reserves for growth (Thornton et al., 1993; 1994;
+Gong et al 2014), thus the lower values for              along with a longer lag time
+for reaching maximum growth (at a greater               ).
+        The reproductive growth is determined by the                      function (from eq. 2),
+which is given by:
+                         
+
+          2.2.3.3. Senescence and decay
+
+         Senescence (     , kg DM ha-1) is proportional to the BM , mean daily
+temperature ( , °C) and senescing rates ( , °d-1) proposed after Ducrocq
+(1996). For > , senescence is stimulated by pool-aging functions (Figure 5),
+while for temperatures between      and 0 °C, senescence flow stops. When
+temperature drops below freezing point, senescence is driven by freezing
+effects.     is given by:
+                
+    The decay of dead tissue (     , kg DM ha-1) is a function of the standing
+biomass in the dead compartment, mean daily temperature and decay rates
+( , unitless; after Ducrocq, 1996), and is determined by pool-ageing (Figure 5):
+               
+          2.2.3.4. Nutritive value
+
+         Nutritive value in the Jouven et al (2006) model is represented by
+organic matter digestibility (       , fraction). For both dead compartments
+(        , fraction) it is considered constant at a minimum level (equal to
+          ). For the green compartments, digestibility starts at maximum
+(           ) and declines linearly with the aging of the compartment to a
+theoretical minimum (           ) which corresponds to the leaf life span (   , °C
+d) or to the duration of reproductive growth period (from ST to ST , in °C d). So,
+for green vegetative compartment the equation is:
+
+and for green reproductive
+               
+
+   2.3. Grazing behavior
+
+      2.3.1. From bite to intake
+
+          2.3.1.1. Classical approaches
+
+         There are many approaches used for studying intake, as noted by
+Ungar (1996), “partially defined by the balance between management-oriented
+problem solving, hypothesis-testing, the provision of factual information and the
+elucidation of causal relationships”. For each approach, a set of methodologies
+(UNGAR, 1996) and timescale (SHIPLEY et al., 1994) is chosen, depending on
+the emphasis on descriptive of diet selection (e.g. BONNET., 2015), or on the
+mechanics of bite formation and behavioral components of intake (e.g.
+STOBBS, 1973; LACA et al., 1992) in relation to the food environment. Intake
+and foraging behavior in heterogeneous environments can be affected by non-
+linearity of response to local and instantaneous conditions, selectivity, and
+change of functional response due to global conditions (Laca, 2008). Thus, the
+more complex this food environment is, the more variable the bites are, and the
+more difficult it is to measure or to simulate intake.
+          Most of the classical, mechanistic approaches studying grazing
+behavior have been based on homogenous monocultures or simple mixtures
+(e.g. STOBBS, 1973), while bite components have been studied using hand-
+made microswards (e.g. LACA et al., 1994) or cut sods (WALLISDEVRIES et
+al., 1989). Those experiments provide information on the components of bite
+formation, time budget and bite dimensions, which can be allometrically
+extrapolated to different animal and canopy characteristics, resulting in an
+estimated intake rate (ILLIUS & GORDON, 1987, 1991; LAca et al., 1992;
+SHIPLEY et al., 1994; UNGAR, 1996, BAUMONT et al., 2004). Arithmetically,
+intake can be given by mean bite mass multiplied by bite rate over a defined
+period of time (STOBBS, 1973; BURNS & SOLLENBERGER, 2002). This
+approach, however, does not bring information on the functional relationship
+among intake components and grazing behavior (UNGAR, 1996), nor the
+relationship with the food environment. While in homogenous monocultures this
+is sufficient, for simulating intake in complex, heterogeneous environments it is
+rather limiting, since many other factors are involved on diet selection (Bonnet
+et al., 2015). The mechanics of grazing in heterogeneous environments, where
+a high diversity of species is available, is relatively different from those
+aforementioned. There is a strong interaction of species composition,
+distribution and canopy structure with bite selection (BREMM et al., 2012, DA
+TRINDADE et al., 2016; CARVALHO et al., in prep;). Thus, we chose an
+empirical approach based on data collected on our long-term experiment using
+a continuous bite monitoring evaluation (BONNET et al., 2015 and unpublished
+data) for being more realistic with the environment being modeled.
+          2.3.1.2. Continuous bite monitoring and empirical equations
+         The continuous bite monitoring (AGREIL & MEURET, 2004; BONNET
+et al., 2015) is a direct observation method for evaluating the herbivore’s
+interaction with the food environment. It consists of continuous observation of
+the animal while foraging, recording bite per bite the forage selection and
+associated behavior for describing in details the diet composition, herbage
+intake and other behavioral activities (BOLZAN et al., in prep.). Intake is
+simulated by mimicking observed bites, hand-plucking the chosen forage by the
+animal in similar vegetation patch (species and structure). This technique was
+successfully used to describe diet composition and intake of sheep (AGREIL &
+MEURET, 2004; O. Bonnet and A. Bolzan, unpublished data), rhino (O. Bonnet,
+unpublished data), horses (BOLZAN et al., 2017) and beef cattle (TISCHLER,
+2014; BONNET et al., 2015). O. Bonnet and A. Bolzan (unpublished data),
+when validating the continuous bite monitoring for lambs grazing ryegrass
+against the classical double-weighing technique found a correlation of r² = 0.84
+for short-term intake rate between the two methodologies.
+         The data used for calculating the empirical equations for bite mass and
+bite rate were obtained during 2012 and 2013, in our long-term native grassland
+grazing experiment (TISCHLER, 2014; BONNET et al., 2015; O. Bonnet,
+unpublished data). The grazing behavior of three animals per experimental unit
+(see section 2.1.2 for more information regarding treatments) was accessed
+using the continuous bite monitoring technique, in different seasons of the year.
+Based on the hand-plucked bite simulation and on frequency of bites, bite mass
+and bite rates were calculated for each vegetation group or species. Major
+differences on parameters measured were between vegetation structure, being
+influenced by treatment and season. Treatment effect was suppressed and
+vegetation categorized in four functional groups (CRUZ et al., 2010) and divided
+in “spring” or “other season” (more details on equations, see Chapter 4).
+       2.3.2. Foraging theories
+
+         The optimality approach for simulating and studying diet choices for
+foragers was originated from the idea of linking economic theories to population
+biology (MACARTHUR & PIANKA, 1966) by assuming that species evolved
+though natural selection of individuals which were able to survive and reproduce
+using more efficiently the available resources, which is related to their fitness (in
+the Darwinian sense of the number of offspring that survived to reproduce)
+(STEPHEN & KREBS, 1986; NEWMAN et al., 1995, NEWMAN, 2007). But how
+does this relate to how animal looks for and selects food? Well, it is not just a
+matter of whether individuals survive, but how their design is related to that.
+And, actually, when studying the design, breaking the system down into parts to
+determine interrelationships, the question is not “how do”, but “how should”
+animals look for and select food (STEPHEN & KREBS, 1986; GREEN, R.F
+1990, unpublished manuscript). If we consider the rather simplistic approach
+that fitness is dependable on foraging behavior and this behavior is passed on
+through generations, and that this relationship is known, given by a currency
+which rate can be maximized for increasing survival, we then have the basic
+assumptions of the optimal foraging theories (MACARTHUR & PIANKA, 1966;
+ELMEN, 1966; STEPHENS & KREBS, 1986; PYKE, 1984). This is where
+biology and mathematics come together for simulating foraging behavior
+(CHARNOV, 1976).
+         The optimal foraging theories offer a simple and solid approach for
+studying the relationships of food environment and diet choices. Despite some
+of the criticism (e.g. PIERCE & OLLASON, 1987; PROVENZA & CINCOTTA,
+1993), there is no ambition on explaining the evolution of species or finding a
+revolutionary way to predict in details what animals are eating. Indeed, it offers
+a mathematical framework which can help understanding what animals should
+choose, especially when foraging in heterogeneous food environments, by
+maximizing a specific function (STEPHENS & KREBS, 1986; YDENBERG et al,
+2007). There are two main lines of models under the foraging theories umbrella
+(STEPHEN & KREBS, 1986; YDENBERG et al., 2007; NEWMAN et al., 2007)
+further developed with many different approaches by a series of researchers:
+the diet and the patch models. The diet model (aka prey, contingency or diet
+breadth) analyses the decision of taking or not taking a food item upon
+encounter, based on the relative profitability (rate of currency uptake) of that
+specific item in relation to the food environment, or keep searching. The patch
+model determines how long the forager should stay in the same patch, given
+diminishing returns as the patch is exploited in relation to the whole food
+environment available.
+          The use of the diet breadth model in this project is to aid on determining
+the probability of specific items being grazed by determining the proportion of
+total bites that should be taken at each patch visited. The bulk of the (important)
+literature on foraging theories is from the 1970’s and 80’s (PERRY & PIANKA,
+1997; OSHANIN ET AL., 2009; VINCENOT Et al,. 2015), but the principles are
+still being used in many areas of research, from herbivores (e.g. THORNLEY et
+al., 1994) and mollusk-eating shorebirds (Gil et al., 2005), to archeology and
+neurosciences (HAYDEN et al., 2011; HAYDEN & WALTON, 2014; CODDING
+& BIRD, 2015), going through a myriad of other uses. The reason of such broad
+application is because it offers a strong theoretical basis and framework to
+study behavioral patterns (LACA & DEMMENT, 1996), while being flexible for
+adapting to new constraints and different scenarios. Here, we do a brief review
+of some of the principles related to the diet model (aka. prey, diet breadth or
+contingency model), since it will be the focus of this work. Both diet and patch
+models have similar mathematical solutions, and are well described in Stephen
+and Krebs (1986) and other literature (CHARNOV, 1976; PYKE, 1984;
+MCNAMARA & HOUSTON, 1985). More comprehensive documents on the
+various derivations of foraging theories, comparisons and applications can be
+find on the cited literature and on recommended papers (also see: WESTOBY,
+1974; PYKE et al, 1977; OLLASON, 1980; OWEN-SMITH & NOVELLIE, 1982;
+BELOVSKY, 1984; MCNAMARA & HOUSTON, 1985; DUMONT, 1995;
+NEWMAN et al., 1995; FARNSWORTH & ILLUS, 1998; BERGMAN et al 2001;
+FRYXELL et al., 2004; VAN LANGEVELDE et al., 2008; HENGEVELD et al.,
+2009).
+          2.3.2.1. The functioning and application of the diet breadth model
+
+        The objective of the foraging theory is maximizing an objective function
+subject to their constraints (NEWMAN, 2007), assuming that this function is
+related to the species survival. Many of the classical studies use net energy
+intake as surrogate for evolutionary fitness, while other objective to minimize
+foraging time. One of the most important steps of the implementation of such
+models is a clear definition of the constraints (VANDERLIN & WILEY, 1989;
+BERGAM et al., 2001; NEWMAN, 2007; FRYXEL, 2008). There are three main
+elements of the foraging models: decision assumptions, which are the base for
+the forager’s choice; currency assumptions, which determine in what the
+decisions will be based on; and constraint assumptions, which limit animal’s
+feasible choices and limits the pay-off obtained. The decision assumption will
+determine the best way to make a particular choice, which is the principle of
+optimization (selection of the best available elements of a specific function).
+There are two main problems studied by the foraging models: which items to
+consume and when to leave a patch. Those questions are the base for the two
+main branches of forage models, the diet and the patch models. The diet model
+analyses the decision of taking or not a prey, based on the relative revenue
+(pay-off) of that specific prey in relation to the food environment. The patch
+model determines the residency time, how long a forager should stay in the
+same patch, given diminishing returns as the patch is exploited in relation to the
+whole food environment available (STEPHEN & KREBS, 1986; NEWMAN,
+2007). For both cases, decisions are based on the principles of the marginal
+value theorem proposed by Charnov (1976), whether is the marginal increase
+in, for example, net energy intake by adding one more prey item to the diet, or
+to leave a patch when the marginal capture rate drops to the average rate of the
+whole food environment.
+         The currency assumption is regarding the criterion which will be used to
+compare alternative values of the decision variables. The currency is used to
+compare all items across the range using a same rate or time parameter, which
+can be maximized (e.g. net energy or protein intake rate), minimized (e.g. toxin
+intake rate or time foraging) or stabilized. The constraint assumptions are
+related to morphological or physiological factors which define limit the
+relationships between the currency and the decision variables. Constraints can
+be intrinsic, such as the digestive capacity of the animal or maximum time
+foraging; or extrinsic, which are the constraints placed by the environment on
+the animal, such as temperature-limit behaviors. The three basic constraint
+assumptions are exclusive search and exploitation, which states that the forager
+cannot handle an item while searching for new ones (which is not completely
+applied for herbivory, see FRANSWHORTH & ILLUS, 1996; 1998); sequential
+Poisson encounters, saying that items are encountered in a sequential order,
+one at the time; and that the forager has complete information of the food
+environment and the rules of the model.
+          2.3.2.2. The mathematical solution
+
+        If we consider that the rate being maximized ( ) as being a function of
+the amount of currency obtained during the period foraging ( ) by the time
+foraging ( ), which can be further broken down in time searching ( ) and time
+handling ( ) the food item, then we have (HOLLING, 1959; STEPHENS &
+KREBS, 1986):
+         
+         Both     and   are linear functions of . So for a given period of time
+searching, where certain number of preys were encountered at an average rate
+of λ, yielding ̅ amount of currency at expense per unit of time searching, and
+taking an average of ℎ amount of time per item handled, then we have that:
+                   ̅
+which can be simplified to (CHARNOV & ORIANS, 1973)
+               
+giving us the rate to be maximized. Considering        as a constant, the long-term
+rate maximization is
+             
+where underwritten represents each item in the diet. Given that each pray has
+a probability of being consumed upon encounter, then
+           
+where   and      are the sum of terms not involving    in the numerator and
+denominator, respectively. When deriving in relation to , we have
+             
+which means that the sign of the derivate of is independent of       (for a more
+comprehensive explanation on the mathematical development, see Chapter 2 in
+STEPHEN & KREBS, 1986). For maximizing the rate of currency intake
+needs to be either the largest ( = 1) or smallest ( = 0) possible value, which
+means either always take or always ignore the food item. This is the base of the
+“zero-one rule” of the diet model (STEPHEN & KREBS, 1986), and implies that
+the forager knows the food environment and recognizes the food item
+immediately upon encounter.
+        To determine which items should be included in the diet for maximizing
+the average rate of currency intake, all food items are ranked in decreasing
+order of profitability (the ratio of currency earned per item by the time it takes for
+handling it; ⁄ ) and added to the diet always that the marginal value for
+including the         item is larger than the item’s profitability [eq. (31)]. Although
+the marginal value theorem of Charnov (1976) is normally associated to the
+patch model (diminishing returns), the mathematical solution is similar, and can
+be further explored on the graphical solution in Figure 6.
+          
+        Three main results from the diet model are noted by Stephens & Krebs
+(1986): the zero-one rule, where for maximizing the objective function item
+should always or never be taken; ranking items, where food items should be
+added to the diet by order of profitability (largest to lowest ⁄ ); and
+independence of inclusion from encounter rate, where the inclusion of an item
+on the diet depends only on its profitability. Important to note, however,
+regarding this latest results, is that encounter rates (availability of items) will
+influence the number of items included in the diet (i.e. if the higher order items
+are scares, lower order items have greater probability of being added to the
+diet).
+        In a more practical example, if we consider energy as our objective
+function to be maximized, then each item is classified (ranked) from the greatest
+to smallest net energy content (amount of energy harvested by the maximum
+amount of time between cropping or digesting, thus assuming that digestion is
+one of the main constraints). This is the instantaneous intake rate of the item
+(slope of the curve). If food items were to be added to the diet in the order of
+their effective value, the optimal solution is obtained when the maximum
+marginal value is reached (i.e. the cumulative net energy obtained when
+including the ith food item is no longer larger than the set of food items already
+included in the diet). Whether the item should be included in the diet is then
+given by comparing the net energy of the specific item to the marginal value.
+          2.3.2.3. Some general comments
+
+          Reading many recent papers and thesis, I realized the misinterpretation
+of the words “optimal” and “theory”. One student wrote that “the observed
+behavior of heifers [in a field experiment with variable proportion of tussocks,
+measuring instantaneous intake rate] was in accordance with the optimal
+foraging theory". I argued that it should be the opposite: the model should be in
+accordance (validated) with the results obtained in the field since, at the end of
+the day, the animal is the one making the choices, and we are just trying to
+understand those decisions based on our limited knowledge on behavior and
+mathematical tools. The animal is the standard, not what we think it should eat.
+In fact, the goal of the optimality strategy is not to test whether the animals are
+optimal per se, but to aid on identifying the objective function being used and
+constraints associated to it (MICHELL & VALONE, 1990; DUMONT, 1995;
+NEWMAN, 2007).
+         Some very interesting points regarding those misinterpretation are
+noted by Ydenberg et al (2007) on the first chapter of “Foraging Ecology”
+(STEPHENS et al., 2007), which could be viewed almost as a sequence to
+Stephens & Krebs’ 1986 Foraging Theory. First, the “optimality” is just a
+mathematical procedure used to identify the diet which will give the best
+marginal return. It does not imply an optimal diet from the animal’s stand point
+(DUMONT, 1995; NEWMAN, 2007). Furthermore, it is not the only focus of the
+foraging theory, and the term overemphasizes the wrong aspects of the
+problem. The word “theory” adds to the confusion. Many take it as an inflexible
+set of rules, the general principles of a system or behavior, such as the
+Evolution Theory or the Relativity Theory, for example. In fact, in this case it
+relates more to the “theoretical approach” than to a body of principles to explain
+the phenomena. More than a theory, it is a method. The optimal foraging theory
+is a set of mathematical procedures (or a mathematical approach) used to, in a
+simple manner, simulate diet decisions taken by the forager. This
+misinterpretation lead many ecologist to view this “theory” as a “stumbling
+block” that lead to “[...] a sterile pursuit with little relevance to the rough-and-
+tumble reality of the field” (YDENBERG et al., 2007; see also NEWMAN, 2007).
+         Ydenberg et al (2007) finish their chapter saying that “the simplicity of
+both the diet and the patch models is deceptive”, and for reaching a full
+understanding of the functioning of the mechanisms involved takes a large
+effort. One needs to be careful as well, since the literature also contains a
+variety of misinterpretation and misconceptions, which persist with the
+published material (e.g. BARKAM & WITHMAN, 1989; c.f. SMITH &
+WINTERHALDER, 1985; NEWMAN, 2007; VINCENOT et al,. 2015). Thus, I
+recommend reading the classical papers (e.g. CHARNOV, 1976; PYKE, 1977;
+OWEN-SMITH & NOVELLIE, 1982; STEPHENS & KREBS, 1986;
+FRANSWORTH & ILLIUS, 1998; STEPHENS et al., 2007) for a deeper
+understanding of the principles of foraging ecology and diet choices.

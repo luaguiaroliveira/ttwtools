@@ -1,0 +1,95 @@
+﻿1. INTRODUCTION, OBJECTIVES AND THESIS STRUCTURE
+
+
+Sensory characterization is fundamental for the development of food and
+beverages (Lawless & Heymann, 2010). The sensory science, responsible for
+providing the descriptive and hedonic measures of foods, has changed in the last
+decades (Valentin et al., 2012). The main change was “to incorporate the response
+of consumers” into description of the sensory properties of a product, supported with
+sophisticated statistical methods (Qannari, 2017). Due to this transition, different
+consumer-based sensory methods have emerged, which provide results close to the
+sensory profile given by a trained panel. Despite the improvements of the sensory
+methods, there is still a little explored factor, the "social media", in which consumers
+interact daily. In this context, the following question arises: Will the inclusion of the
+underlying information of social media improve the understanding of the consumer’s
+behavior regarding a product? The present thesis that studied in depth the smoked
+bacon, was held to answer this question.
+Smoked bacon is a meat product consumed throughout the world due to its
+pleasant sensory characteristics, coming from the smoking process. Despite this, few
+works have focused on the sensory properties of bacon. The available studies
+revealed that sensory measurements were only complementary to instrumental
+measurements. For this reason, this thesis addresses the four main dimensions of
+the sensory perception, i.e., the quantitative, qualitative, temporal and hedonic
+dimensions (Issanchou & Niklaus, 2006). To explore these four dimensions, different
+sensory methods were used. For instance, the descriptive analysis explores the
+qualitative and quantitative dimension of the sensory perception, while the projective
+mapping addresses the quantitative (distances between samples) and qualitative
+(description of samples) dimensions.
+The starting point of this thesis came from a new Brazilian regulation that
+restricts the use of the term "smoked bacon" to products that are not smoked by the
+pyrolysis of wood (Brasil, 2012). This regulation, which would require modifications in
+the bacon processing, could also modify the sensory profile and, consequently, the
+preference of the consumers. In addition, to our knowledge, there are no preliminary
+reports that studied the sensory profile of smoked bacon with different Brazilian
+woods. Even in the world, there are few studies where bacon has been analyzed
+from a sensory perspective. Figure 1 presents a word cloud made with the most cited
+
+
+16
+
+
+words from 12 scientific articles (title and abstract) retrieved from Scopus using
+"sensory" and "smoked bacon" as inductor words.
+
+
+Figure 1.1. Word cloud created with the most cited words in the 12 papers
+retrieved from Scopus using "sensory" and "smoked bacon" as inductor words.
+
+
+Figure 1.1 indicated that the most cited word was flavor, followed by smoking,
+smoke, liquid, traditional, and cured, among others. This simple representation of the
+most cited words indicates a clear pattern: the flavor of smoked bacon is directly
+related to the smoking process.
+In this context, the present thesis is organized in three parts, composed of
+seven original researches, as described in the Figure 1.2. In the first part, the
+changes in the static sensory characteristics (descriptive analysis, CATA, Napping)
+and the acceptance of smoked bacons due to smoking with different woods from
+reforestation were studied. In addition, the potential of these three methodologies in
+the identification of the ideal product based on the drivers of liking was compared. In
+the second part of this thesis the dynamic sensory properties during tasting due to
+smoking and fat content in the bacon were studied. In the third and final part of this
+
+
+17
+
+
+thesis, it is presented how to analyze tweets associated with the word bacon from a
+lexicometric perspective.
+The general objective of this thesis was to study the transition of classical
+sensory analysis to social media as an alternative to develop smoked bacon
+considering the consumer ́s response. For that, some specific objectives were
+intended:
+
+
+• To evaluate the impact of smoking on the sensory profile of bacon
+using descriptive analysis (Chapter 2);
+• To correlate the consumer-based sensory properties (Napping) and
+volatile profile of smoked bacon using multi-block analysis (Chapter 3);
+• To evaluate the descriptive and hedonic sensory perception to obtain
+the drivers of liking of smoked bacons using CATA questions coupled
+with Ideal Profile, considering the interindividual differences of the
+consumers (Chapter 4);
+• To evaluate the influence of the product space provided by DA, PM,
+and CATA questions to identify and describe the ideal smoked bacon
+through the application of PrefMFA and PrefMap (Chapter 5).
+• To evaluate the impact of the type of smoking and fat content on the
+dynamic sensory perception of bacon by Brazilian consumers using
+Temporal Dominance of Sensations (TDS) (Chapter 6);
+• To evaluate the sensory aspects of bacon smoked with reforestation
+woods and liquid smoke using the TDS (Chapter 7);
+• To evaluate the impact of non-sensory factors on the relative
+importance and utility values of expected liking and purchase intention
+of bacons, as well as the representation of their labels (Chapter 8);
+• To describe a lexicometric approach for analysis and interpretation of
+Twitter data, considering Brazil as the geographical area and bacon as the
+inductor word (Chapter 9).

@@ -1,0 +1,205 @@
+1. INTRODUCTION
+
+In face of the growing demand for food, the climate changes, and the relevance of food
+security and sustainability, Brazil presents global importance as a grain and animal protein
+producer. The approximate area of the Brazilian territory is 851.5 million ha, of which 63.99 million
+ha are used as arable land, placing Brazil as fifth country with the largest extensions of cultivated
+land, following India (179.8 million ha), United States (167.8 million ha), China (165.2 million ha)
+and Russia (155.8 million ha) (Massey et al. 2018; Xiong et al. 2017a; Teluguntla et al. 2018; Xiong
+et al. 2017b; Teluguntla et al. 2017; Oliphant et al. 2017; Gumma et al. 2017; Phalke et al. 2017;
+Massey et al. 2017; Zhong et al. 2017). Besides that, 2018 data from mapbiomas indicate that there
+
+are 66% of natural forests and native vegetation, 31% of areas destined for agriculture, 1% of non-
+vegetated areas and 2% of water (Souza et al. 2020), indicating that Brazil is and will be increasingly
+
+recognized as both an agricultural and environmental potency.
+Brazilian beef production supplies domestic market with 8.01 million CWE per year
+(Carcass Weight Equivalent: 242.3 kg), equivalent to 76.3% of its production, while 23.6% is
+exported to 124 countries such as China, Hong Kong, USA, European Union, and Egypt (ABIEC,
+2020). The country has the largest commercial cattle herd in the world, with 213.7 million bovine
+heads (ABIEC, 2020). The Brazilian livestock production activity is mainly based on tropical grasses
+pastures that are used as summer season forage in subtropical areas and as perennial forage in
+tropical regions (Tsuruta et al. 2015). Marandu palisadegrass {Urochloa brizantha (Hochst. ex A.
+Rich.) R.D. Webster [syn. Brachiaria brizantha (Hochst. ex A. Rich.) Stapf]}, released by EMBRAPA
+(Empresa Brasileira de Pesquisa Agropecuária) in 1984, is the most widely cultivated forage grass
+across the country, with excellent adaptation and high yields promoted by its C4 metabolism, and
+adapted to rotational grazing, hay and silage production.
+In the last two decades, the Brazilian pasture area reduced 12.4% while the herd cattle
+have increased 49.3%, resulting in an increase on the average stocking rate from 0.71 AU ha-1
+to
+
+
+(ABIEC, 2020). Part of the Brazillian pastures areas is considered in some level of
+degradation, mainly due to poor grazing management and the use of stocking rates that exceed the
+pasture recovery capacity. In addition to overgrazing, the lack of periodic fertilization, failures in
+pastures establishment, the use of fire and problems such as pests attack are pointed out as the
+main causes of pasture degradation in Brazil (Dias-Filho, 2011).
+Long-term estimates of forage production can contribute to studies about yield-gap,
+aptitude and climate risk zoning, projection trends in response to climate change, sustainable
+management, as well as become the basis for development of public policies for the agricultural
+sector. Despite that, there are still several difficulties for the development of forage production
+modelsfor long-term simulations, like: few long-term field experiments with good record of pasture
+management and herbage growth; few experiments monitoring the soil-plant-animal interactions;
+difficulty in carrying out multiple sequential destructive samples in a perennial crop; few
+experiments measuring total plant production and partition of photoassimilates under grazing
+conditions; lack of accurate measurements of residual leaf area and its effects on pasture regrowth.
+The yield-gap analysis of pasture-based animal production systems faces several
+challenges regarding the application of concepts and methods already established for agricultural
+crops. The concepts of yield levels (yield potential, water-limited yield potential, water-and
+nutrient-limited yield or attainable yield and actual yield) must be redefined for livestock systems,
+as the animal component and animal-plant interactions must also be taken into account, in addition
+to the plant component. Pasture-based animal production depends on primary productivity by
+forage plants growth and production, harvesting efficiency (herbage consumed as a proportion of
+herbage accumulated) and feed efficiency (conversion of consumed herbage into animal products
+as beef or milk) (Pearson and Ison, 1987). Besides that, most studies estimate pastures carrying
+capacity by dividing annual dry matter production by animal intake (Strassburg et al. 2014; Arantes
+et al., 2018; Araújo, 2018), not considering the relationship between supply and demand of
+seasonal forage production throughout the year, which is primarily regulated by climatic factors.
+Thus, the same annual pasture productivity may be associated with different potential stocking
+rates and attainable systems productivity.
+The Global Yield Gap Atlas (GYGA) protocols may be adapted for animal production
+systems. Therefore, this study aimed to develop a protocol for yield-gap analysis of pasture-based
+livestock production systems in different edaphoclimatic conditions through process-based models.
+
+1.1. Objectives
+1.1.1. General
+Develop a protocol for yield-gap analysis in pasture-based animal production systems,
+under different edaphoclimatic conditions, using simulation models.
+1.1.2. Specific
+a) Adapt Global Yield Gap Atlas Extrapolation Domain to perennial tropical pastures.
+b) Estimate long-term forage production of Marandu palisadegrass at different
+edaphoclimatic conditions and levels of intensification in Central Brazil.
+c) Estimate the stocking rates based on estimates of forage mass and adequate pasture
+carrying capacity.
+d) Estimate yield-gap of pasture-based beef cattle production systems in Southeast and
+Central-west regions of Brazil.
+
+
+2. LITERATURE REVIEW
+
+2.1. Brazilian livestock overview
+Brazil is an important player in global food production and is expected to help the world
+to achieve the growing demand for food in the coming decades. For that, changes on actual land
+use and on agriculture production levels will be necessary, arising concerns about the sustainability
+of Brazilian beef and milk production (Banco Mundial, 2010; MAPA, 2014; FAO, 2018).
+Brazil was the second beef producer in the world (10.5 million CWE) and the main beef
+exporter 2.48 million CWE in 2019. In addition, the country has the largest herd cattle (213.7 million
+head) (ABIEC, 2020), fed mainly with tropical grasses pastures that are used as summer season
+forage in subtropical areas and as perennial forage in tropical regions (Tsuruta et al. 2015). From
+2018 to 2019, the used pasture area remained practically stable, at 162.5 million hectares, with a
+current average stocking rate of 1.06 AU ha-1 (ABIEC, 2020).
+
+Usually, livestock areas are marginal and located in soil with properties not suitable for
+big crop production, what can explain problems in livestock productivity and sustainability
+(Macedo, 2009). On the other hand, although the negative environmental impacts described for
+pasture-based beef cattle production (IPCC, 2007), a land saving effect was observed on intensified
+systems when technology was adopted (Martha Junior et al., 2012). Animal production systems
+intensification may also contribute to greenhouse gases emissions mitigation due to the earlier
+termination and slaughter that implies on a smaller number of animals and shorter animal life time
+(Banco Mundial, 2010; Thornton and Herrero, 2010). Furthermore, in addition to serving as a source
+of food for herbivores, productive tropical pastures also contribute to environmental services and
+a reduction in disservices, such as the large capacity of soil cover and, due to the highly efficient
+photosynthetic process in assimilation of atmospheric CO2 by forage plants (mostly C4
+metabolism), greater root production and greater carbon stocks in the soil, in addition to better soil
+use and conservation.
+However, it is estimated that the Brazilian area with degraded pastures or in some degree
+of degradation is about 53 million hectares (IMAFLORA, 2018), negatively affecting the entire
+
+production chain. Overgrazing is the greatest cause of grassland degradation, an overriding human-
+influenced factor in determining soil carbon levels of grasslands (FAO, 2008). Moreover, livestock
+
+systems are projected to be adversely affected by impacts of climate change, such as the rising
+temperatures, depending on the extent of changes in pasture and feed quality, spread of diseases,
+and water resource availability (Mbow et al. 2019)
+
+Despite the concern over livestock projections, in many systems, improved grazing
+management, such as optimized stock numbers and rotational grazing, improved pasture
+management and integrated agroforestry systems are effective alternatives in conserving the
+environment and mitigating climate change, while providing more diversified and secure livelihoods
+for inhabitants (FAO, 2008)
+In Brazil, there is a great potential for increasing productive efficiency with the recovery
+of unproductive areas. This can be observed in productive potential studies, as the Strassburg et al.
+(2014) work, based on modeling and simulation of future scenarios, in which the results concluded
+that the increase of only 20% in the current pasture productivity would save areas and,
+consequently, these areas would be enough to produce and meet demands of meat, grains, wood
+products and biofuels for the next 30 years with no need of opening new areas.
+
+2.2. Yield-gap analysis of Global Yield Gap Atlas: Concepts and importance
+Food security analysis can help on the national forecasting of food production capacity,
+potential for food self-sufficiency and variability of food production capacity due to variation in
+weather; the determination of the potential of land use and assessment of the amount of additional
+land compensation or food imports to meet future food demand; the interpretation of historical
+yield trends and projections of future yield trends at regional, national and global scales (Mbow et
+al. 2019). In this context, Global Yield Gap Atlas (GYGA) was created for developing a global
+coverage of yield-gaps for all major food crops (www.yieldgap.org).
+The GYGA is an international project that has the collaboration of people with knowledge
+of production systems, soils, and climate governing crop performance in their countries. A standard
+protocol for assessing yield potential (Yp), water-limited yield potential (Yw), yield gaps (Yg) and
+water productivity (WP) is applied for all crops and countries based on best available data, robust
+crop simulation models, and a bottom-up approach to upscale results from location to region and
+country (Lobel et al. 2009; Van Ittersum et al. 2013).
+In yield-gap analysis protocols described by GYGA for agricultural crops, yield-gap (Yg) is
+defined as the difference between potential yield (Yp - defined as the yield of an adapted crop
+cultivar when grown without water and nutrient limitations and kept free of diseases, weeds and
+insect pests) and the observed average real or actual production (Ya) which is obtained by farmers
+of the region, involving the most varied management practices such as date of sowing, varieties,
+population density, nutritional management and crop protection against pests and diseases (yield
+affected by limiting factors, water and nutrients; and reducing factors such as weeds, pests,
+diseases and pollutants) (Van Ittersum e Rabbinge, 1997). The concept of attainable productivity
+(Yw) is based on productivity obtained by a genotype adapted under real growing conditions and
+under unfavorable influence of one or more limiting factors. In rainfed crops, where the only
+limitation is the water factor, Yp is considered as the potential productivity limited by water (Yw).
+The concept of attainable productivity is based on productivity obtained by a genotype adapted
+under real growing conditions and under unfavorable influence of one or more limiting factors
+(Figure 1). Furthermore, there is the exploitable yield-gap, which is the difference between the Ya
+(actual productivity) and Yp or Yw, commonly, about 80% of Yp or Yw (Van Wart et al., 2013). There
+is a hypothesis that average national yields begin to plateau when average farm yields reach 70-
+90% of Yp or Yw (Cassman, 1999; Cassman et al., 2003; Lobell et al., 2009, Grassini et al., 2009; Van
+Wart et al., 2013). Estimates of yield gap for rice in China, wheat in Germany, and irrigated maize
+in the USA are consistent with that hypothesis. The plateaus occur because it is impossible for
+average yield in a region or nation to reach Yp or Yw because 100% of farmers cannot achieve the
+perfection of crop and soil management required to reach Yp or Yw (Van Wart et al., 2013), and the
+cost of marginal increments in yield, given existing technologies and policies, could exceed the
+incremental gain. The cost is high not only in terms of increased use of inputs such as fertilizer, fuel,
+and water, but also in terms of increased management and supervision time for achieving more
+efficient input use (Lobell et al., 2009).
+
+There is still no standard protocol described by GYGA for analyzing pasture-based
+livestock yields and there are controversies regarding the indexes and estimates of the productive
+potential for the Brazilian livestock activity.
+
+2.3. Yield-gap analysis for pasture-based livestock systems
+The same pasture annual primary productivity may be associated to different potential
+stocking rates and so attainable systems productivity. Seasonality of forage production between
+the dry and rainy periods must be considered in the estimates and analysis of the productive
+potential and yield-gap of livestock system. Pasture annual primary productivity is a very crude
+measure of the pasture-based animal production systems productivity, and the concepts related to
+yield-gap analysis described for crops by GYGA are not suitable. In pasture-based livestock systems,
+the defining factors (CO2, solar radiation, temperature and genetic features), limiting factors (water
+or/and nutrient) and reducing factors (weeds, pests, diseases and pollutants) affects plants,
+animals, and plant-animal interactions in different ways. The animal productivity . In addition, if the system is not
+well managed, the animal component can be a limiting or reducing factor for the plants and the
+opposite condition is also true for the animal’s performance.
+Pasture carrying capacity is the maximum stocking rate that will achieve a target level of
+animal performance without deterioration of the grazing land (Allen et al. 2011). Carrying capacity
+is a useful concept when based on adequate historical data and experience, but it is site-specific
+and varies from season to season and year to year.
+Yield-gap analysis and estimates of potential for pasture intensification in Brazil generally
+does not consider the effect of seasonal forage production and climate risk, tending to overestimate
+pastures carrying capacity. Araújo (2018) performed a yield-gap analysis for Marandu palisadegrass
+pastures in the São Paulo state, Brazil, using the CROPGRO perennial forage model to estimate
+pastures annual dry matter production based on protocols proposed by GYGA, and Strassburg et al.
+2014 equation to estimated pastures carrying capacity. The author suggested a possible increase of
+0.96 AU ha-1, when compared to stocking rate of 1.33 AU ha-1 from IBGE census. In another study
+about livestock intensification potential, a yearly-based forage production was estimated by
+dividing dry matter yield in the growing period by 0.8 and a daily dry matter yield estimated by
+dividing annual yield (kg DM) by 365 (day), so that the stocking rate was calculated by dividing daily
+dry matter yield by daily animal intake from one animal unit (i.e., 11.25 kg DM), considering a
+harvest efficiency of 50%, obtaining a daily demand of 22.5 kg DM AU-1 (Arantes et al., 2018).
+Arantes et al. (2018) estimated a potential carrying capacity from 4.7 to 11.2 UA ha-1
+for the South of Brazil. Studies in southern Brazil, where predominates natural pastures, suggests that carrying
+capacity of pastures throughout the year should not exceed 0.8 AU ha-1, thus maintaining
+productive systems with positive animal performance (live weight gain) and avoiding pasture
+degradation by overgrazing (Tanure et al. 2011; Mezzalira et al 2012)
+
+This work was divided in two parts, according to the following action plan (Figure 2):
