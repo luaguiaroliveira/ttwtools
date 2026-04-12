@@ -1,0 +1,382 @@
+[
+    {
+        "tag": "VBD",
+        "definition": "Past tense POS"
+    },
+    {
+        "tag": "PEAS",
+        "definition": "Perfect aspect using patterns like HAVE + (ADV) + (ADV) + VBD/VBN"
+    },
+    {
+        "tag": "VPRT",
+        "definition": "Present tense: VBP or VBZ tag"
+    },
+    {
+        "tag": "PLACE",
+        "definition": "Any item in the place adverbials list that is not a proper noun (NNP)"
+    },
+    {
+        "tag": "TIME",
+        "definition": "Time adverbials excluding ‘soon‘ when followed by ‘as‘"
+    },
+    {
+        "tag": "FPP1",
+        "definition": "First person pronouns"
+    },
+    {
+        "tag": "SPP2",
+        "definition": "Second person pronouns"
+    },
+    {
+        "tag": "TPP3",
+        "definition": "Third person pronouns"
+    },
+    {
+        "tag": "PIT",
+        "definition": "Pronoun ‘it‘ and its related forms"
+    },
+    {
+        "tag": "INPR",
+        "definition": "Indefinite pronouns list"
+    },
+    {
+        "tag": "DEMP",
+        "definition": "Demonstrative pronouns under certain conditions"
+    },
+    {
+        "tag": "PROD",
+        "definition": "Pro-verb ‘do‘ excluding specific patterns"
+    },
+    {
+        "tag": "WHQU",
+        "definition": "Direct WH-questions"
+    },
+    {
+        "tag": "NOMZ",
+        "definition": "Noun endings like -tion, -ment, -ness"
+    },
+    {
+        "tag": "GER",
+        "definition": "Gerunds of length greater than or equal to 10 ending in ing or ings"
+    },
+    {
+        "tag": "NN",
+        "definition": "Total other nouns (not nominalisations or gerunds)"
+    },
+    {
+        "tag": "PASS",
+        "definition": "Agentless passives"
+    },
+    {
+        "tag": "BYPA",
+        "definition": "By-passives following ‘PASS‘ tag"
+    },
+    {
+        "tag": "BEMA",
+        "definition": "Be as the main verb"
+    },
+    {
+        "tag": "EX",
+        "definition": "Existential ‘there‘"
+    },
+    {
+        "tag": "THVC",
+        "definition": "That-verb complements with specific preceding or succeeding patterns"
+    },
+    {
+        "tag": "PASTP",
+        "definition": "Past participial clauses: punctuation + VBN"
+    },
+    {
+        "tag": "WZPAST",
+        "definition": "Past participial WHIZ-deletion relatives"
+    },
+    {
+        "tag": "WZPRES",
+        "definition": "Present participial WHIZ-deletion relatives: VBG preceded by an NN"
+    },
+    {
+        "tag": "TSUB",
+        "definition": "That-rel. clauses on subject position"
+    },
+    {
+        "tag": "TOBJ",
+        "definition": "That-rel. clauses on object position"
+    },
+    {
+        "tag": "WHSUB",
+        "definition": "WH-rel. clauses on subject position"
+    },
+    {
+        "tag": "WHOBJ",
+        "definition": "WH rel. clauses on object position"
+    },
+    {
+        "tag": "PIRE",
+        "definition": "Pied-piping relatives (prep + whom/who/whose/which)"
+    },
+    {
+        "tag": "SERE",
+        "definition": "Sentence relatives: punctuation + ‘which‘"
+    },
+    {
+        "tag": "CAUS",
+        "definition": "Any occurrence of the word \"because\""
+    },
+    {
+        "tag": "CONC",
+        "definition": "Any occurrence of \"although\", \"though\", \"tho\""
+    },
+    {
+        "tag": "COND",
+        "definition": "Any occurrence of \"if\" or \"unless\""
+    },
+    {
+        "tag": "OSUB",
+        "definition": "Other adverbial subordinators (multi-word)"
+    },
+    {
+        "tag": "PIN",
+        "definition": "Total prepositional phrases"
+    },
+    {
+        "tag": "JJ",
+        "definition": "Attributive adjectives"
+    },
+    {
+        "tag": "PRED",
+        "definition": "Predicative adjectives"
+    },
+    {
+        "tag": "RB",
+        "definition": "Adverbs (POS tags RB, RBS, RBR, WRB)"
+    },
+    {
+        "tag": "CONJ",
+        "definition": "Conjuncts with preceding punctuation or specific words"
+    },
+    {
+        "tag": "DWNT",
+        "definition": "Specific downtoners"
+    },
+    {
+        "tag": "AMP",
+        "definition": "Specific amplifiers"
+    },
+    {
+        "tag": "DPAR",
+        "definition": "Discourse particle: pattern preceded by punctuation"
+    },
+    {
+        "tag": "HDG",
+        "definition": "Hedge words"
+    },
+    {
+        "tag": "EMPH",
+        "definition": "Emphatics"
+    },
+    {
+        "tag": "DEMO",
+        "definition": "Demonstratives"
+    },
+    {
+        "tag": "POMD",
+        "definition": "Possibility modals"
+    },
+    {
+        "tag": "NEMD",
+        "definition": "Necessity modals"
+    },
+    {
+        "tag": "PRMD",
+        "definition": "Predictive modals"
+    },
+    {
+        "tag": "PUBV",
+        "definition": "Public verbs"
+    },
+    {
+        "tag": "PRIV",
+        "definition": "Private verbs"
+    },
+    {
+        "tag": "SUAV",
+        "definition": "Suasive verbs"
+    },
+    {
+        "tag": "SMP",
+        "definition": "Seem/Appear verbs"
+    },
+    {
+        "tag": "CONT",
+        "definition": "Reduced forms (contractions)"
+    },
+    {
+        "tag": "THATD",
+        "definition": "Subordinator “that” deletion"
+    },
+    {
+        "tag": "STPR",
+        "definition": "Stranded preposition"
+    },
+    {
+        "tag": "SPIN",
+        "definition": "Split infinitives"
+    },
+    {
+        "tag": "SPAU",
+        "definition": "Split auxiliaries"
+    },
+    {
+        "tag": "PHC",
+        "definition": "Phrasal coordination"
+    },
+    {
+        "tag": "ANDC",
+        "definition": "‘and‘ in coordination of independent clauses"
+    },
+    {
+        "tag": "XX0",
+        "definition": "Words indicating analytic negation (‘not‘)"
+    },
+    {
+        "tag": "SYNE",
+        "definition": "Synthetic negations before adj./noun"
+    },
+    {
+        "tag": "QUAN",
+        "definition": "Quantifier words"
+    },
+    {
+        "tag": "QUPR",
+        "definition": "Quantifier pronouns"
+    },
+    {
+        "tag": "ART",
+        "definition": "Articles (‘the‘, ‘a‘, ‘an‘)"
+    },
+    {
+        "tag": "AUXB",
+        "definition": "Auxiliary verbs that are forms of ‘be‘"
+    },
+    {
+        "tag": "CAP",
+        "definition": "Words starting with a capital letter"
+    },
+    {
+        "tag": "SCONJ",
+        "definition": "Subordinating conjunctions"
+    },
+    {
+        "tag": "CCONJ",
+        "definition": "Coordinating conjunctions"
+    },
+    {
+        "tag": "DET",
+        "definition": "Determiners"
+    },
+    {
+        "tag": "EMOJ",
+        "definition": "Emojis"
+    },
+    {
+        "tag": "EMOT",
+        "definition": "Common emoticons"
+    },
+    {
+        "tag": "EXCL",
+        "definition": "Exclamation mark ‘¡"
+    },
+    {
+        "tag": "HASH",
+        "definition": "Words starting with #"
+    },
+    {
+        "tag": "INF",
+        "definition": "Infinitive verb forms"
+    },
+    {
+        "tag": "UH",
+        "definition": "Interjections"
+    },
+    {
+        "tag": "NUM",
+        "definition": "Numerals"
+    },
+    {
+        "tag": "LAUGH",
+        "definition": "Laughter acronyms like ‘lol‘"
+    },
+    {
+        "tag": "PRP",
+        "definition": "Possessive pronouns"
+    },
+    {
+        "tag": "PREP",
+        "definition": "Prepositions"
+    },
+    {
+        "tag": "NNP",
+        "definition": "Proper nouns"
+    },
+    {
+        "tag": "QUES",
+        "definition": "Question mark ‘¿"
+    },
+    {
+        "tag": "QUOT",
+        "definition": "Quotation marks"
+    },
+    {
+        "tag": "AT",
+        "definition": "Words starting with ‘@‘"
+    },
+    {
+        "tag": "SBJP",
+        "definition": "Subject pronouns"
+    },
+    {
+        "tag": "URL",
+        "definition": "URLs"
+    },
+    {
+        "tag": "WH",
+        "definition": "WH words (‘who‘, ‘what‘, ‘where‘)"
+    },
+    {
+        "tag": "INDA",
+        "definition": "Indefinite articles (‘a‘, ‘an‘)"
+    },
+    {
+        "tag": "ACCU",
+        "definition": "Accusative case pronouns"
+    },
+    {
+        "tag": "PGAS",
+        "definition": "Progressive aspect verb forms"
+    },
+    {
+        "tag": "CMADJ",
+        "definition": "Comparative adjectives"
+    },
+    {
+        "tag": "SPADJ",
+        "definition": "Superlative adjectives"
+    },
+    {
+        "tag": "X",
+        "definition": "Words not fitting other POS categories"
+    },
+    {
+        "tag": "AWL",
+        "definition": "Mean word length"
+    },
+    {
+        "tag": "TTR",
+        "definition": "Type-token ratio"
+    },
+    {
+        "tag": "TRB",
+        "definition": "Total adverbs"
+    }
+]
