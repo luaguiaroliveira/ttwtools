@@ -1,0 +1,851 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2318.1116.txt
+token	tags
+    	
+The	ART CAP DET
+relevance	NN
+of	PIN PREP
+microscopical	JJ
+life	NN
+is	BEMA VPRT AUXB
+easy	JJ PRED
+to	PIN TO PREP
+be	PASS AUXB INF
+underestimated	
+or	CCONJ
+associated	
+only	DWNT RB
+with	PIN PREP
+bad	JJ
+things	NN
+like	PIN PREP
+diseases	NN
+and	PHC CCONJ
+contamination	NOMZ
+.	
+But	CAP CCONJ
+,	
+in	PIN CONJ PREP
+fact	NN
+,	
+this	DEMO DET
+kind	NN HDG
+of	PIN PREP
+life	NN
+forms	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+common	JJ
+and	PHC CCONJ
+important	JJ
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+life	NN
+than	PIN PREP
+we	FPP1 PRP SBJP
+can	POMD
+imagine	PRIV INF
+.	
+Every	QUAN CAP DET
+day	NN
+we	FPP1 PRP SBJP
+have	VPRT
+contact	NN
+with	PIN PREP
+many	QUAN JJ
+microscopic	JJ
+bacteria	NN
+,	
+algae	NN
+,	
+animals	NN
+,	
+fungi	NN
+and	PHC CCONJ
+others	NN
+without	PIN PREP
+even	RB
+noticing	PRIV THATD PGAS
+that	DEMP DET
+.	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+highlight	INF
+the	ART DET
+importance	NN
+of	PIN PREP
+several	QUAN JJ
+groups	NN
+of	PIN PREP
+these	DEMO DET
+organisms	NN
+on	PIN PREP
+our	FPP1 PRP SBJP
+daily	JJ
+life	NN
+and	CCONJ
+for	PIN PREP
+the	ART DET
+history	NN
+of	PIN PREP
+life	NN
+on	PIN PREP
+earth	NN
+.	
+ 	
+One	CAP NUM
+important	JJ
+group	NN
+of	PIN PREP
+microorganisms	NN
+are	BEMA VPRT AUXB
+the	ART DET
+photosynthetic	JJ
+microorganisms	NN
+,	
+which	SERE DET WH
+not	XX0 RB
+only	DWNT RB
+are	BEMA VPRT AUXB
+of	PIN PREP
+essential	JJ
+importance	NN
+to	PIN PREP
+our	FPP1 PRP SBJP
+environment	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+present	JJ
+days	NN
+,	
+being	BEMA AUXB
+responsible	JJ PRED
+for	PIN PREP
+the	ART DET
+vast	JJ
+majority	NOMZ
+of	PIN PREP
+the	ART DET
+production	NOMZ
+of	PIN PREP
+oxygen	NN
+and	PHC CCONJ
+fixation	NOMZ
+of	PIN PREP
+carbon	NN
+in	PIN CONJ PREP
+the	ART DET
+atmosphere	NN
+but	CCONJ
+have	VPRT PEAS
+participated	
+on	PIN PREP
+the	ART DET
+earth	NN
+atmosphere	NN
+shaped	VBD
+and	CCONJ
+have	INF
+a	ART DET INDA
+relevant	JJ
+role	NN
+at	PIN PREP
+origin	NN
+of	PIN PREP
+the	ART DET
+life	NN
+that	TSUB WHSUB WH
+is	PASS VPRT AUXB
+known	PRIV
+today	TIME NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+beginning	NN
+,	
+earth	NN
+was	BEMA VBD AUXB
+very	AMP RB
+different	JJ
+from	PIN PREP
+now	RB TIME
+,	
+with	PIN PREP
+the	ART DET
+primitive	JJ
+atmosphere	NN
+being	BEMA WZPRES AUXB
+relatively	RB
+poor	JJ
+in	PIN CONJ PREP
+oxygen	NN
+,	
+being	PASS PRESP SPAU AUXB
+mostly	RB
+composed	
+of	PIN PREP
+carbon	NN
+dioxide	NN
+and	PHC CCONJ
+water	NN
+vapor	NN
+,	
+a	ART DET INDA
+situation	NOMZ
+in	PIN CONJ PREP
+which	PIRE DET WH
+multicellular	JJ
+life	NN
+as	PIN CONJ PREP
+we	FPP1 PRP SBJP
+know	VPRT PRIV THATD
+it	PIT PRP SBJP
+would	PRMD
+be	BEMA AUXB INF
+very	AMP RB
+unlikely	JJ
+to	PIN TO PREP
+form	INF
+,	
+given	
+the	ART DET
+central	JJ
+importance	NN
+of	PIN PREP
+processes	NN
+like	PIN PREP
+oxidative	JJ
+phosphorylation	NOMZ
+(	
+which	SERE DET WH
+as	PIN CONJ PREP
+the	ART DET
+name	NN
+suggests	VPRT PUBV SUAV
+,	
+depends	VPRT
+on	PIN PREP
+the	ART DET
+availability	NOMZ
+of	PIN PREP
+oxygen	NN
+)	
+to	PIN PREP
+the	ART DET
+high	JJ
+energy	NN
+-	
+demanding	SUAV PGAS
+metabolism	NN
+of	PIN PREP
+these	DEMO DET
+organisms	NN
+.	
+Luckily	RB CAP
+,	
+after	PIN PREP
+many	QUAN JJ
+years	NN
+of	PIN PREP
+evolution	NOMZ
+of	PIN PREP
+primitive	JJ
+microorganisms	NN
+,	
+the	ART DET
+anaerobic	JJ
+microscopical	JJ
+life	NN
+had	VBD PEAS
+spread	
+over	PIN PREP
+the	ART DET
+planet	NN
+and	CCONJ
+some	QUAN DET
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+developed	VBD
+the	ART DET
+process	NN
+of	PIN PREP
+photosynthesis	NN
+,	
+a	ART DET INDA
+metabolic	NN
+process	NN
+which	WHSUB DET WH
+uses	VPRT
+carbon	NN
+dioxide	NN
+,	
+water	NN
+,	
+nutrients	NN
+and	PHC CCONJ
+sunlight	NN
+to	PIN TO PREP
+produce	INF
+energy	NN
+,	
+with	PIN PREP
+one	NUM
+product	NN
+of	PIN PREP
+photosynthesis	NN
+,	
+being	AUXB
+oxygen	NN
+.	
+The	ART CAP DET
+proliferation	NOMZ
+of	PIN PREP
+such	JJ
+organisms	NN
+allowed	SUAV WZPAST
+for	PIN PREP
+extensive	JJ
+photosynthesis	NN
+to	PIN TO SPIN PREP
+eventually	RB TIME
+reshape	INF
+earth	NN
+’s	
+atmosphere	NN
+allowing	WZPRES SUAV PGAS
+for	PIN PREP
+the	ART DET
+appearance	NN
+of	PIN PREP
+more	RB EMPH CMADJ
+complex	JJ
+organisms	NN
+which	WHSUB DET WH
+needed	VBD
+it	PIT PRP SBJP
+to	PIN TO PREP
+survive	INF
+.	
+ 	
+At	PIN CAP PREP
+the	ART DET
+food	NN
+industry	NN
+the	ART DET
+microorganisms	NN
+have	VPRT
+a	ART DET INDA
+strong	JJ
+importance	NN
+too	RB
+.	
+ 	
+Vinegar	NN CAP
+,	
+bread	NN
+,	
+dairy	NN
+products	NN
+are	BEMA VPRT AUXB
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+examples	NN
+that	TSUB WHSUB WH
+use	VPRT
+ 	
+microorganisms	NN
+fermentation	NOMZ
+to	PIN PREP
+product	NN
+.	
+Fermentation	NOMZ CAP
+is	BEMA VPRT AUXB
+another	DET
+way	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+ 	
+organisms	NN
+could	POMD
+get	INF
+energy	NN
+.	
+This	DEMO CAP DET
+process	NN
+produce	VPRT
+gases	NN
+and	PHC CCONJ
+alcohol	NN
+which	WHOBJ DET WH
+ 	
+human	NN
+learn	VPRT PRIV
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+use	INF
+to	PIN TO PREP
+have	INF
+more	JJ EMPH CMADJ
+variety	NN
+of	PIN PREP
+food	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+every	QUAN DET
+living	NN
+ 	
+being	AUXB
+have	INF
+their	TPP3 PRP SBJP
+own	JJ
+microbiota	NN
+.	
+It	PIT CAP PRP SBJP
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+microorganisms	NN
+live	VPRT
+inside	PIN PLACE PREP
+their	TPP3 PRP SBJP
+ 	
+body	NN
+.	
+And	ANDC CAP CCONJ
+outside	RB PLACE
+too	RB
+.	
+The	ART CAP DET
+stomach	NN
+and	PHC CCONJ
+intestine	NN
+have	VPRT
+many	QUAN JJ
+bacterias	NN
+that	DEMO WHOBJ WH
+ 	
+help	INF
+the	ART DET
+digestion	NOMZ
+.	
+The	ART CAP DET
+cows	NN
+,	
+for	PIN PREP
+example	NN
+,	
+ca	SPAU
+n’t	RB
+survive	INF
+without	PIN PREP
+their	TPP3 PRP SBJP
+bacterias	NN
+.	
+ 	
+They	TPP3 CAP PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+really	RB EMPH
+digest	INF
+grass	NN
+,	
+the	ART DET
+bacterias	NN
+digest	VPRT
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+and	ANDC CCONJ
+then	RB
+they	TPP3 PRP SBJP
+ 	
+can	POMD
+use	INF
+the	ART DET
+fragmental	JJ
+protein	NN
+.	
+The	ART CAP DET
+termite	NN
+only	DWNT RB
+digests	VPRT
+wood	NN
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+ 	
+have	VPRT
+bacterias	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+intestine	NN
+.	
+Human	JJ CAP
+have	VPRT
+bacterias	NN
+which	WHSUB DET WH
+protect	INF
+their	TPP3 PRP SBJP
+ 	
+intestine	NN
+against	PIN PREP
+bacterias	NN
+which	WHSUB DET WH
+could	POMD
+cause	INF
+diseases	NN
+.	
+Is	BEMA VPRT AUXB CAP
+that	DEMP DET
+why	RB SCONJ WH
+when	RB SCONJ WH
+ 	
+sometimes	RB
+people	NN
+drink	VPRT
+probiotics	NN
+.	
+Those	DEMO CAP DET
+microorganisms	NN
+colonize	VPRT
+the	ART DET
+ 	
+intestine	NN
+,	
+and	ANDC CCONJ
+occupied	VBD
+the	ART DET
+space	NN
+that	TOBJ WHOBJ WH
+other	JJ
+bacteria	NN
+could	POMD
+stay	INF
+.	
+The	ART CAP DET
+body	NN
+ 	
+recognize	VPRT PRIV
+this	DEMO DET
+kind	NN HDG
+of	PIN PREP
+bacteria	NN
+and	CCONJ
+notice	PRIV INF
+that	PIN THVC SCONJ PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+pathogen	NN
+(	
+causer	NN
+of	PIN PREP
+ 	
+disease	NN
+)	
+so	PIN SCONJ PREP
+they	TPP3 PRP SBJP
+stay	VPRT
+.	
+Also	RB CAP
+medications	NOMZ
+uses	VPRT
+microorganisms	NN
+.	
+Penicillin	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+ 	
+first	JJ
+antibiotic	JJ
+and	CCONJ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+product	NN
+of	PIN PREP
+a	ART DET INDA
+fungi	NN
+metabolism	NN
+.	
+ 	
+Another	CAP DET
+microorganism	NN
+very	AMP RB
+common	JJ
+in	PIN CONJ PREP
+the	ART DET
+planet	NN
+are	BEMA VPRT AUXB
+the	ART DET
+virus	NN
+.	
+Until	PIN CAP PREP
+ 	
+today	TIME NN
+have	VPRT
+discussions	NOMZ
+about	PIN PREP
+whether	PIN SCONJ PREP
+or	CCONJ
+not	XX0 RB
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+living	PGAS
+beings	NN
+.	
+The	ART CAP DET
+biggest	JJ SPADJ
+ 	
+justification	NOMZ
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+not	XX0 RB
+able	JJ
+to	PIN TO PREP
+have	INF
+their	TPP3 PRP SBJP
+metabolism	NN
+complete	JJ
+without	PIN PREP
+a	ART DET INDA
+ 	
+host	NN
+.	
+However	RB CONJ CAP
+,	
+some	QUAN DET
+bacteria	NN
+also	RB
+can	POMD
+not	XX0 RB
+and	CCONJ
+are	PASS VPRT AUXB
+considered	PRIV
+alive	JJ
+.	
+Viruses	NN CAP
+ 	
+are	PASS VPRT SPAU AUXB
+little	RB
+studied	
+,	
+although	CONC PIN SCONJ PREP
+this	DEMP DET
+is	VPRT AUXB
+changing	PGAS
+,	
+more	RB EMPH CMADJ
+and	PHC CCONJ
+more	RB EMPH CMADJ
+its	PIT PRP SBJP
+importance	NN
+has	VPRT
+ 	
+been	PASS AUXB
+noticed	PRIV
+.	
+Like	PIN CAP PREP
+bacteria	NN
+,	
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+scattered	
+throughout	PIN PREP
+the	ART DET
+world	NN
+.	
+And	ANDC CAP CCONJ
+just	RB EMPH
+ 	
+like	PIN PREP
+bacteria	NN
+there	EX
+are	VPRT AUXB
+pathogenic	JJ
+viruses	NN
+and	PHC CCONJ
+others	NN
+do	VPRT PROD
+not	XX0 RB
+.	
+Viruses	NN CAP
+are	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+ 	
+cut	INF
+off	PIN PREP
+the	ART DET
+DNA	NN CAP
+of	PIN PREP
+some	QUAN DET
+organism	NN
+and	CCONJ
+paste	INF
+their	TPP3 PRP SBJP
+own	JJ
+,	
+this	DEMP DET
+is	VPRT AUXB
+how	RB SCONJ WH
+they	TPP3 PRP SBJP
+multiply	VPRT
+.	
+ 	
+When	RB CAP SCONJ WH
+humans	NN
+understood	VBD PRIV
+how	RB WHCL SCONJ WH
+viruses	NN
+caused	VBD
+diseases	NN
+and	ANDC CCONJ
+how	RB SCONJ WH
+they	TPP3 PRP SBJP
+became	VBD
+ 	
+immune	JJ
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+,	
+the	ART DET
+vaccines	NN
+were	PASS VBD AUXB
+created	
+.	
+A	ART CAP DET INDA
+vaccine	NN
+is	VPRT AUXB
+nothing	INPR
+more	JJ EMPH CMADJ
+than	PIN PREP
+ 	
+part	NN
+of	PIN PREP
+a	ART DET INDA
+virus	NN
+or	CCONJ
+an	ART DET INDA
+inactivated	JJ
+virus	NN
+,	
+that	RB DEMO
+is	RB
+,	
+structures	NN
+incapable	JJ
+of	PIN PREP
+transmitting	GER PGAS
+ 	
+disease	NN
+.	
+Virus	CAP NNP
+,	
+probably	RB
+,	
+are	BEMA VPRT AUXB
+present	JJ PRED
+since	OSUB PIN SCONJ PREP
+the	ART DET
+beginning	NN
+of	PIN PREP
+times	NN
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+ 	
+history	NN
+still	RB
+missing	PGAS
+many	QUAN JJ
+parts	NN
+.	
+ 	
+Knowing	PRIV CAP PGAS
+the	ART DET
+importance	NN
+of	PIN PREP
+microorganisms	NN
+and	CCONJ
+their	TPP3 PRP SBJP
+function	NOMZ
+in	PIN CONJ PREP
+various	JJ
+ 	
+systems	NN
+helps	VPRT
+us	FPP1 PRP SBJP ACCU
+deal	INF
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+in	PIN CONJ PREP
+the	ART DET
+best	JJ SPADJ
+way	NN
+.	
+When	RB WHQU CAP SCONJ WH
+they	TPP3 PRP SBJP
+are	PASS VPRT SPAU AUXB
+simply	RB
+treated	
+ 	
+as	PIN CONJ PREP
+something	QUPR INPR
+bad	JJ
+,	
+disease	NN
+-	
+causing	NN
+,	
+an	ART DET INDA
+unjustifiable	JJ
+repulsion	NOMZ
+is	PASS VPRT AUXB
+created	
+and	CCONJ
+ 	
+something	QUPR INPR
+that	DEMP WH
+could	POMD
+improve	INF
+many	QUAN JJ
+lives	NN
+is	PASS VPRT AUXB
+discarded	
+or	CCONJ
+has	VPRT
+its	PIT PRP SBJP
+implementation	NOMZ
+ 	
+delayed	
+.	
+Microorganisms	NN CAP
+are	BEMA VPRT AUXB
+present	JJ PRED
+in	PIN CONJ PREP
+Earth	CAP NNP
+'s	
+history	NN
+since	OSUB PIN SCONJ PREP
+the	ART DET
+beginning	NN
+of	PIN PREP
+ 	
+the	ART DET
+first	JJ
+form	NN
+of	PIN PREP
+life	NN
+.	
+Understanding	GER PRIV PRESP THATD CAP PGAS
+them	TPP3 PRP SBJP ACCU
+is	VPRT AUXB
+understanding	GER PRIV PGAS
+the	ART DET
+workings	NN
+of	PIN PREP
+life	NN
+in	PIN CONJ PREP
+ 	
+general	JJ
+.	

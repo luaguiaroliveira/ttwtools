@@ -1,0 +1,1653 @@
+# filename: SS_Law_Essay_1_0086c_tx.txt
+token	tags
+INTRODUCTION	NOMZ CAP
+:	
+Tort	NN CAP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+civil	JJ
+wrong	NN
+which	WHOBJ DET WH
+neither	CCONJ
+a	ART DET INDA
+breach	NN
+of	PIN PREP
+contract	NN
+nor	CCONJ
+a	ART DET INDA
+breach	NN
+of	PIN PREP
+trust	NN
+.	
+The	ART CAP DET
+main	JJ
+goal	NN
+of	PIN PREP
+tort	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+compensate	INF
+for	PIN PREP
+injury	NN
+suffered	WZPAST
+by	PIN PREP
+the	ART DET
+victim	NN
+and	CCONJ
+try	INF
+to	PIN TO PREP
+put	INF
+him	TPP3 PRP SBJP ACCU
+back	RB
+to	PIN PREP
+the	ART DET
+position	NOMZ
+had	VBD
+the	ART DET
+accident	NN
+not	XX0 RB
+occurred	VBD
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+I	FPP1 CAP PRP SBJP
+would	PRMD
+look	INF
+at	PIN PREP
+several	QUAN JJ
+areas	NN
+of	PIN PREP
+law	NN
+which	WHSUB DET WH
+tort	VPRT
+law	NN
+delves	VPRT
+into	PIN STPR PREP
+,	
+its	PIT PRP SBJP
+implications	NOMZ
+and	ANDC CCONJ
+what	WH
+can	POMD
+be	PASS AUXB INF
+done	PROD
+to	PIN TO PREP
+improve	INF
+the	ART DET
+law	NN
+.	
+AREAS	NN CAP
+OF	PIN CAP PREP
+TORT	JJ CAP
+LAW	NN CAP
+:	
+Negligence	NN CAP
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+important	JJ
+areas	NN
+under	PIN PREP
+tort	NN
+law	NN
+.	
+A	ART CAP DET INDA
+person	NN
+owes	VPRT
+a	ART DET INDA
+duty	NN
+of	PIN PREP
+care	NN
+to	PIN PREP
+several	QUAN JJ
+persons	NN
+and	CCONJ
+would	PRMD
+be	BEMA AUXB INF
+liable	JJ PRED
+if	COND PIN SCONJ PREP
+he	TPP3 PRP SBJP
+breaches	VPRT
+the	ART DET
+same	JJ
+.	
+There	EX CAP
+are	VPRT AUXB
+special	JJ
+duties	NN
+owed	
+,	
+e.g.	RB CONJ
+in	PIN CONJ PREP
+cases	NN
+of	PIN PREP
+nervous	JJ
+shock	NN
+.	
+But	CAP CCONJ
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+tension	NOMZ
+as	PIN CONJ PREP
+to	PIN PREP
+the	ART DET
+degree	NN
+of	PIN PREP
+proximity	NOMZ
+(	
+the	ART DET
+"	QUOT
+neighbour	JJ
+principle	NN
+"	QUOT
+)	
+required	PASTP SUAV
+to	PIN TO PREP
+be	BEMA AUXB INF
+liable	JJ PRED
+under	PIN PREP
+this	DEMP DET
+.	
+Until	PIN CAP PREP
+recently	RB TIME
+the	ART DET
+'	CONT QUOT
+foreseeability	NOMZ
+of	PIN PREP
+injury	NN
+by	PIN PREP
+shock	NN
+'	CONT QUOT
+was	BEMA VBD AUXB
+the	ART DET
+basis	NN
+of	PIN PREP
+compensating	GER PGAS
+victims	NN
+of	PIN PREP
+nervous	JJ
+shock	NN
+(	
+King	NN CAP
+v	PIN PREP
+Phillips	CAP NNP
+[	X
+1953	NUM
+]	
+1	NUM
+QB	CAP NNP
+429	NUM
+)	
+.	
+Now	DPAR RB TIME CAP
+there	EX
+are	VPRT AUXB
+'	CONT QUOT
+primary	JJ
+victims	NN
+'	CONT QUOT
+who	WHQU WH
+are	BEMA VPRT AUXB
+at	PIN PREP
+a	ART DET INDA
+risk	NN
+of	PIN PREP
+physical	JJ
+damage	NN
+and	CCONJ
+'	CONT QUOT
+secondary	JJ
+victims	NN
+'	CONT QUOT
+who	WHQU WH
+are	BEMA VPRT AUXB
+not	XX0 RB
+at	PIN PREP
+risk	NN
+of	PIN PREP
+suffering	PGAS
+physical	JJ
+damage	NN
+,	
+but	CCONJ
+saw	VBD PRIV
+or	CCONJ
+heard	VBD PRIV
+the	ART DET
+accident	NN
+,	
+which	SERE DET WH
+caused	VBD
+the	ART DET
+shock	NN
+.	
+He	TPP3 CAP PRP SBJP
+can	POMD SPAU
+only	DWNT RB
+recover	INF
+if	COND PIN SCONJ PREP
+he	TPP3 PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+person	NN
+of	PIN STPR PREP
+"	QUOT
+normal	JJ
+fortitude	NN
+"	QUOT
+and	ANDC CCONJ
+"	QUOT
+customary	JJ
+phlegm	NN
+"	QUOT
+.	
+Tort	NN CAP
+,	
+Hedley	CAP NNP
+,	
+Steve	CAP NNP
+.	
+Fourth	CAP NNP
+Edition	CAP NNP
+-	
+2004	NUM
+,	
+LexisNexis	CAP NNP
+Butterworths	CAP NNP
+@	PIN PREP AT
+pg	NN
+79	NUM
+Casebook	CAP NNP
+on	PIN PREP
+Torts	CAP NNP
+,	
+Kidner	CAP NNP
+,	
+Richard	CAP NNP
+.	
+Eighth	CAP NNP
+Edition	CAP NNP
+-	
+2004	NUM
+,	
+Oxford	CAP NNP
+University	CAP NNP
+Press	CAP NNP
+.	
+Bourhill	NN CAP
+v	PIN PREP
+Young	CAP NNP
+[	X
+1943	NUM
+]	
+AC	CAP NNP
+92	NUM
+;	
+Page	NN CAP
+v	NN
+Smith	CAP NNP
+[	X
+1996	NUM
+]	X
+1	NUM
+AC	CAP NNP
+155	NUM
+In	PIN CONJ CAP PREP
+Page	CAP NNP
+v	PIN PREP
+Smith	CAP NNP
+the	ART DET
+claimant	JJ
+(	
+primary	JJ
+victim	NN
+)	
+did	VBD SPAU
+not	XX0 RB
+suffer	INF
+any	QUAN DET
+physical	JJ
+damage	NN
+in	PIN CONJ PREP
+the	ART DET
+accident	NN
+but	CCONJ
+saw	VBD PRIV
+a	ART DET INDA
+revival	NN
+of	PIN PREP
+chronic	JJ
+fatigue	NN
+syndrome	NN
+,	
+which	SERE WHQU DET WH
+he	TPP3 PRP SBJP
+had	VBD PEAS
+suffered	
+a	ART DET INDA
+few	QUAN JJ
+years	NN
+before	RB
+.	
+The	ART CAP DET
+defendant	NN
+was	PASS VBD AUXB
+held	PRIV
+liable	JJ
+for	PIN PREP
+psychiatric	JJ
+illness	NOMZ
+.	
+It	PIT CAP PRP SBJP
+was	PASS VBD AUXB
+laid	
+down	PIN PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+defendant	NN
+could	POMD SPAU
+only	DWNT RB
+be	BEMA AUXB INF
+liable	JJ PRED
+if	COND PIN SCONJ PREP
+the	ART DET
+risk	NN
+of	PIN PREP
+psychiatric	JJ
+illness	NOMZ
+was	PASS VBD SPAU AUXB
+reasonably	RB
+foreseen	
+or	CCONJ
+the	ART DET
+risk	NN
+of	PIN PREP
+physical	JJ
+injury	NN
+was	PASS VBD AUXB
+foreseen	
+.	
+There	EX CAP
+was	VBD AUXB
+the	ART DET
+earlier	JJ TIME CMADJ
+case	NN
+of	PIN PREP
+Bourhill	CAP NNP
+v	PIN PREP
+Young	CAP NNP
+where	RB SCONJ WH
+the	ART DET
+claimant	NN
+who	WHSUB WH
+was	BEMA VBD AUXB
+just	RB EMPH
+a	ART DET INDA
+bystander	NN
+miscarried	VBD
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+witnessing	GER PGAS
+a	ART DET INDA
+motorcycle	NN
+accident	NN
+from	PIN PREP
+a	ART DET INDA
+distance	NN
+.	
+Held	PRIV CAP
+,	
+was	BEMA VBD AUXB
+not	XX0 RB
+a	ART DET INDA
+foreseeable	JJ
+victim	NN
+.	
+The	ART CAP DET
+law	NN
+is	BEMA VPRT AUXB
+rather	RB
+absurd	JJ
+because	CAUS PIN SCONJ PREP
+had	VBD PEAS
+she	TPP3 PRP SBJP
+suffered	
+physical	JJ
+injury	NN
+she	TPP3 PRP SBJP
+could	POMD
+have	PEAS INF
+recovered	
+for	PIN PREP
+that	DEMO DET
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+her	TPP3 PRP SBJP
+mental	JJ
+trauma	NN
+but	CCONJ
+since	OSUB PIN SCONJ PREP
+she	TPP3 PRP SBJP
+did	VBD PROD
+n't	XX0 CONT RB
+,	
+she	TPP3 PRP SBJP
+could	POMD SPAU
+not	XX0 RB
+recover	INF
+for	PIN PREP
+anything	QUPR INPR
+.	
+[	X
+1996	NUM
+]	X
+1	NUM
+AC	CAP NNP
+155	NUM
+[	
+1943	NUM
+]	
+AC	CAP NNP
+92	NUM
+Tort	CAP NNP
+,	
+Hedley	CAP NNP
+,	
+Steve	CAP NNP
+.	
+Fourth	CAP NNP
+Edition	CAP NNP
+-	
+2004	NUM
+,	
+LexisNexis	CAP NNP
+Butterworths	CAP NNP
+@	PIN PREP AT
+pg	NNP
+.	
+80	NUM
+Alcock	CAP NNP
+v	PIN PREP
+Chief	CAP NNP
+Constable	CAP NNP
+of	PIN PREP
+South	CAP NNP
+Yorkshire	CAP NNP
+was	BEMA VBD AUXB
+a	ART DET INDA
+case	NN
+where	RB WHOBJ SCONJ WH
+the	ART DET
+relatives	NN
+and	PHC CCONJ
+friends	NN
+of	PIN PREP
+Hillsborough	JJ CAP
+disaster	NN
+victims	NN
+brought	VBD
+claims	PUBV NN
+.	
+It	PIT CAP PRP SBJP
+failed	VBD
+because	CAUS PIN SCONJ PREP
+there	EX
+was	VBD AUXB
+no	SYNE DET
+sufficient	JJ
+proximity	NOMZ
+in	PIN CONJ STPR PREP
+'	CONT QUOT
+time	NN
+and	PHC CCONJ
+space	NN
+'	CONT QUOT
+.	
+The	ART CAP DET
+people	NN
+did	VBD SPAU
+not	XX0 RB
+suffer	INF
+injury	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+witnessing	GER PGAS
+the	ART DET
+incident	NN
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+"	QUOT
+immediate	JJ
+aftermath	NN
+"	QUOT
+.	
+The	ART CAP DET
+court	NN
+also	RB
+held	VBD PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+people	NN
+who	WHSUB WH
+brought	VBD
+the	ART DET
+claims	PUBV NN
+had	VBD
+no	SYNE DET
+close	JJ
+tie	NN
+of	PIN PREP
+love	NN
+and	PHC CCONJ
+affection	NOMZ
+.	
+It	PIT CAP PRP SBJP
+was	PASS VBD AUXB
+restricted	
+to	PIN PREP
+spouses	NN
+,	
+parent	NN
+and	PHC CCONJ
+children	NN
+of	PIN PREP
+victims	NN
+.	
+Psychiatric	CAP NNP
+illness	NOMZ
+resulting	WZPRES PGAS
+from	PIN PREP
+witnessing	GER PGAS
+the	ART DET
+incident	NN
+on	PIN PREP
+TV	NN CAP
+was	BEMA VBD AUXB
+not	XX0 RB
+actionable	JJ
+.	
+The	ART CAP DET
+judges	PRIV NN
+may	POMD
+have	PEAS INF
+had	
+the	ART DET
+floodgates	NN
+issue	NN
+at	PIN PREP
+the	ART DET
+back	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+mind	NN
+when	RB WHOBJ SCONJ WH
+they	TPP3 PRP SBJP
+limited	VBD
+the	ART DET
+persons	NN
+who	WHSUB WH
+could	POMD
+bring	INF
+an	ART DET INDA
+action	NOMZ
+for	PIN PREP
+damages	NN
+.	
+In	PIN CONJ CAP PREP
+Chadwick	CAP NNP
+v	PIN PREP
+British	CAP NNP
+Railways	CAP NNP
+Board	CAP NNP
+the	ART DET
+claimant	NN
+assisted	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+Lewisham	CAP NNP
+Train	CAP NNP
+crash	NN
+by	PIN PREP
+giving	PGAS
+injections	NOMZ
+to	PIN PREP
+the	ART DET
+injured	
+by	PIN PREP
+crawling	PGAS
+between	PIN PREP
+the	ART DET
+two	NUM
+collided	
+trains	NN
+.	
+He	TPP3 CAP PRP SBJP
+suffered	VBD
+clinical	JJ
+depression	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+witnessing	GER PGAS
+the	ART DET
+incident	NN
+and	CCONJ
+committed	VBD
+suicide	NN
+.	
+His	TPP3 CAP PRP SBJP
+wife	NN
+could	POMD
+recover	INF
+since	OSUB PIN SCONJ PREP
+rescuers	NN
+were	BEMA VBD AUXB
+primary	JJ
+victims	NN
+.	
+Contrasting	GER PRESP CAP PGAS
+this	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+case	NN
+of	PIN PREP
+White	CAP NNP
+v	NNP
+Chief	CAP NNP
+Constable	CAP NNP
+of	PIN PREP
+South	CAP NNP
+Yorkshire	CAP NNP
+where	RB SCONJ WH
+the	ART DET
+policemen	NN
+who	WHSUB WH
+had	VBD PEAS
+assisted	
+the	ART DET
+victims	NN
+in	PIN CONJ PREP
+the	ART DET
+Hillsborough	CAP NNP
+football	NN
+disaster	NN
+could	POMD SPAU
+not	XX0 RB
+recover	INF
+for	PIN PREP
+the	ART DET
+harm	NN
+suffered	
+.	
+Held	PRIV CAP
+,	
+rescuers	NN
+were	BEMA VBD AUXB
+not	XX0 RB
+primary	JJ
+victims	NN
+or	CCONJ
+a	ART DET INDA
+special	JJ
+category	NN
+of	PIN PREP
+people	NN
+.	
+But	CAP CCONJ
+Lord	CAP NNP
+Steyn	CAP NNP
+has	VPRT PEAS
+said	PUBV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+should	NEMD SPAU
+not	XX0 RB
+make	INF
+a	ART DET INDA
+difference	NN
+because	CAUS PIN STPR SCONJ PREP
+:	
+a	ART DET INDA
+rescuer	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+rescuer	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+rescuer	NN
+.	
+In	PIN CONJ CAP PREP
+McLoughlin	CAP NNP
+v	NN
+O	NN CAP
+'	CONT QUOT
+Brian	CAP NNP
+the	ART DET
+House	CAP NNP
+of	PIN PREP
+Lords	CAP NNP
+held	PRIV
+,	
+liability	NOMZ
+was	PASS VBD AUXB
+owed	
+only	DWNT RB
+if	COND PIN SCONJ PREP
+the	ART DET
+claimant	NN
+was	BEMA VBD AUXB
+present	JJ PRED
+at	PIN PREP
+the	ART DET
+scene	NN
+of	PIN PREP
+the	ART DET
+incident	NN
+,	
+or	CCONJ
+was	BEMA VBD AUXB
+a	ART DET INDA
+person	NN
+who	WHSUB WH
+witnessed	VBD
+the	ART DET
+incident	NN
+in	PIN CONJ PREP
+the	ART DET
+"	QUOT
+immediate	JJ
+aftermath	NN
+"	QUOT
+and	ANDC CCONJ
+had	VBD
+ties	NN
+of	PIN PREP
+love	NN
+and	PHC CCONJ
+affection	NOMZ
+with	PIN PREP
+the	ART DET
+victim	NN
+.	
+[	X
+1991	NUM
+]	
+4	NUM
+All	QUAN CAP DET
+ER	CAP NNP
+907	NUM
+[	X
+1967	NUM
+]	
+2	NUM
+All	QUAN CAP DET
+ER	CAP NNP
+97	NUM
+[	
+1999	NUM
+]	X
+1	NUM
+All	QUAN CAP DET
+ER	CAP NNP
+1	NUM
+'	CONT QUOT
+Nervous	JJ CAP
+Shock	NN CAP
+:	
+Wider	RB CAP
+still	RB
+&	CCONJ
+wider	JJ CMADJ
+?	QUES
+'	CONT QUOT
+[	
+1997	NUM
+]	
+CLJ	NN CAP
+254	NUM
+@	PIN PREP AT
+pg	NNP
+.	
+255	NUM
+.	
+[	X
+1983	NUM
+]	
+AC	CAP NNP
+410	NUM
+The	ART CAP DET
+'	CONT QUOT
+secondary	JJ
+victims	NN
+'	CONT QUOT
+are	BEMA VPRT AUXB
+to	PIN TO PREP
+prove	PRIV INF
+that	PIN THVC SCONJ PREP
+close	JJ
+friends	NN
+or	CCONJ
+relatives	NN
+witnessed	VBD
+a	ART DET INDA
+'	CONT QUOT
+shocking	JJ
+'	CONT QUOT
+event	NN
+.	
+Another	CAP DET
+important	JJ
+area	NN
+under	PIN PREP
+tort	NN
+law	NN
+is	BEMA VPRT AUXB
+Economic	JJ CAP
+loss	NN
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+principle	JJ
+pure	JJ
+economic	JJ
+loss	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+recoverable	JJ
+unless	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+consequential	JJ PRED
+to	PIN PREP
+physical	JJ
+loss	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+an	ART DET INDA
+area	NN
+of	PIN PREP
+contract	NN
+law	NN
+but	CCONJ
+tort	NN
+fills	VPRT
+in	PIN CONJ PREP
+for	PIN PREP
+the	ART DET
+gaps	NN
+created	WZPAST
+by	PIN PREP
+contract	NN
+law	NN
+.	
+Here	RB CAP
+it	PIT PRP SBJP
+only	DWNT RB
+compensates	VPRT
+losses	NN
+,	
+but	CCONJ
+does	VPRT SPAU
+not	XX0 RB
+restore	INF
+status	NN
+quo	NN
+like	PIN PREP
+under	PIN PREP
+the	ART DET
+other	JJ
+areas	NN
+.	
+It	PIT CAP PRP SBJP
+also	RB
+redresses	VPRT
+the	ART DET
+wrongs	NN
+done	WZPAST PROD
+by	PIN PREP
+contract	NN
+law	NN
+.	
+Tort	NN CAP
+law	NN
+provides	VPRT
+remedies	NN
+for	PIN PREP
+strangers	NN
+too	RB
+.	
+Spartan	CAP NNP
+Steel	CAP NNP
+&	CCONJ
+Metal	CAP NNP
+Alloys	CAP NNP
+v	PIN PREP
+Martin	CAP NNP
+&	CCONJ
+Co.	CAP NNP
+[	X
+1972	NUM
+]	
+QB	CAP NNP
+27	NUM
+.	
+Duty	CAP NNP
+of	PIN PREP
+Care	CAP NNP
+&	CCONJ
+Economic	CAP NNP
+Loss	CAP NNP
+:	
+A	ART CAP DET INDA
+wider	JJ CMADJ
+agenda	NN
+(	
+1991	NUM
+)	
+107	NUM
+LQR	CAP NNP
+249	NUM
+@	PIN PREP AT
+pg	NNP
+.	
+249	NUM
+Hedley	CAP NNP
+Byrne	CAP NNP
+&	CCONJ
+Co	CAP NNP
+Ltd.	CAP NNP
+v	PIN PREP
+Heller	CAP NNP
+and	PHC CCONJ
+Partners	CAP NNP
+Ltd	CAP NNP
+.	
+is	BEMA VPRT AUXB
+the	ART DET
+leading	PGAS
+case	NN
+which	WHSUB DET WH
+says	VPRT PUBV
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+person	NN
+is	BEMA VPRT AUXB
+responsible	JJ PRED
+for	PIN PREP
+economic	JJ
+loss	NN
+arising	WZPRES PGAS
+out	PIN PREP
+of	PIN PREP
+negligent	JJ
+misstatement	NOMZ
+if	COND PIN SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+special	JJ
+relationship	NN
+between	PIN PREP
+the	ART DET
+parties	NN
+and	ANDC CCONJ
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+voluntary	JJ
+assumption	NOMZ
+of	PIN PREP
+responsibility	NOMZ
+.	
+These	DEMO CAP DET
+restrictions	NOMZ
+are	PASS VPRT AUXB
+placed	
+reduce	INF
+the	ART DET
+number	NN
+of	PIN PREP
+cases	NN
+coming	WZPRES PGAS
+before	PIN PREP
+the	ART DET
+court	NN
+,	
+i.e.	CONJ X
+,	
+the	ART DET
+floodgate	NN
+issue	NN
+.	
+If	COND PIN CAP SCONJ PREP
+there	EX
+were	VBD AUXB
+a	ART DET INDA
+disclaimer	NN
+then	RB
+the	ART DET
+person	NN
+is	BEMA VPRT AUXB
+exempt	JJ PRED
+from	PIN PREP
+responsibility	NOMZ
+;	
+if	COND PIN SCONJ PREP
+someone	QUPR INPR
+with	PIN PREP
+special	JJ
+skill	NN
+gives	VPRT
+any	QUAN DET
+advice	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+reasonably	RB
+foreseeable	JJ
+that	PIN THAC SCONJ PREP
+there	EX
+would	PRMD
+be	BEMA AUXB INF
+a	ART DET INDA
+reliance	NN
+on	PIN PREP
+the	ART DET
+statement	NOMZ
+,	
+making	PRESP PGAS
+him	TPP3 PRP SBJP ACCU
+liable	JJ
+.	
+White	CAP NNP
+v	PIN PREP
+Jones	CAP NNP
+says	VPRT PUBV
+the	ART DET
+relationship	NN
+of	PIN PREP
+a	ART DET INDA
+solicitor	NN
+and	PHC CCONJ
+beneficiary	NN
+of	PIN PREP
+will	PRMD
+is	BEMA VPRT AUXB
+a	ART DET INDA
+fiduciary	JJ
+relationship	NN
+and	CCONJ
+a	ART DET INDA
+special	JJ
+one	NN
+.	
+[	X
+1964	NUM
+]	
+AC	CAP NNP
+465	NUM
+Smith	CAP NNP
+v	PIN PREP
+Eric	CAP NNP
+S.	CAP NNP
+Bush	CAP NNP
+[	X
+1990	NUM
+]	X
+1	NUM
+AC	CAP NNP
+831	NUM
+where	RB SCONJ WH
+it	PIT PRP SBJP
+could	POMD
+be	PASS AUXB INF
+foreseen	
+that	PIN DEMO SCONJ PREP
+the	ART DET
+purchaser	NN
+would	PRMD
+rely	INF
+on	PIN PREP
+the	ART DET
+surveyor	NN
+'s	
+statement	NOMZ
+even	RB
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+was	PASS VBD SPAU AUXB
+not	XX0 RB
+made	
+to	PIN PREP
+her	TPP3 PRP SBJP ACCU
+directly	RB
+.	
+Per	PIN CAP PREP
+Lord	CAP NNP
+Morrison	CAP NNP
+in	PIN CONJ PREP
+Hedley	CAP NNP
+Byrne	CAP NNP
+v	PIN PREP
+Heller	CAP NNP
+&	CCONJ
+Partners	CAP NNP
+[	
+1995	NUM
+]	X
+1	NUM
+All	QUAN CAP DET
+ER	CAP NNP
+691	NUM
+Per	PIN CAP PREP
+Lord	CAP NNP
+Browne	CAP NNP
+Wilkinson	CAP NNP
+in	PIN CONJ PREP
+White	CAP NNP
+v	PIN PREP
+Jones	CAP NNP
+Another	CAP DET
+important	JJ
+yet	RB
+rare	JJ
+area	NN
+of	PIN PREP
+tort	NN
+law	NN
+is	VPRT AUXB
+awarding	PGAS
+punitive	JJ
+damages	NN
+(	
+exemplary	JJ
+damages	NN
+)	
+.	
+These	DEMP CAP DET
+are	PASS VPRT SPAU AUXB
+only	DWNT RB
+awarded	
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+required	SUAV
+for	PIN PREP
+adequately	RB
+punishing	PGAS
+the	ART DET
+defendant	NN
+.	
+Rookes	NN CAP
+v	PIN PREP
+Barnard	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+authority	NOMZ
+on	PIN PREP
+this	DEMP DET
+,	
+it	PIT PRP SBJP
+says	VPRT PUBV
+that	PIN THVC SCONJ PREP
+punitive	JJ
+damages	NN
+can	POMD SPAU
+only	DWNT RB
+be	PASS AUXB INF
+awarded	
+if	COND PIN SCONJ PREP
+the	ART DET
+person	NN
+was	BEMA VBD AUXB
+a	ART DET INDA
+servant	NN
+of	PIN PREP
+the	ART DET
+Government	CAP NNP
+at	PIN PREP
+the	ART DET
+time	NN
+of	PIN PREP
+commission	NOMZ
+of	PIN PREP
+the	ART DET
+tort	NN
+;	
+he	TPP3 PRP SBJP
+committed	VBD
+it	PIT PRP SBJP
+because	CAUS PIN SCONJ PREP
+he	TPP3 PRP SBJP
+figured	VBD
+he	TPP3 PRP SBJP
+would	PRMD
+make	INF
+more	JJ EMPH CMADJ
+money	NN
+than	PIN PREP
+he	TPP3 PRP SBJP
+would	PRMD
+have	INF
+to	PIN TO PREP
+pay	INF
+as	PIN CONJ PREP
+damages	NN
+or	CCONJ
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+statutory	JJ
+award	NN
+.	
+Tort	CAP NNP
+Law	CAP NNP
+,	
+McBride	CAP NNP
+,	
+Nicholas	CAP NNP
+J	CAP NNP
+&	CCONJ
+Bagshaw	CAP NNP
+,	
+Roderick	CAP NNP
+.	
+Second	CAP NNP
+Edition	CAP NNP
+-	
+2005	NUM
+,	
+Pearson	CAP NNP
+Longman	CAP NNP
+@	PIN PREP AT
+pg	NN
+.	
+673	NUM
+.	
+[	X
+1964	NUM
+]	
+AC	CAP NNP
+1129	NUM
+Tort	CAP NNP
+Law	CAP NNP
+,	
+McBride	CAP NNP
+,	
+Nicholas	CAP NNP
+J	CAP NNP
+&	CCONJ
+Bagshaw	CAP NNP
+,	
+Roderick	CAP NNP
+.	
+Second	CAP NNP
+Edition	CAP NNP
+-	
+2005	NUM
+,	
+Pearson	CAP NNP
+Longman	CAP NNP
+@	PIN PREP AT
+pg	NN
+.	
+676	NUM
+.	
+CONCLUSION	NOMZ CAP
+:	
+Having	PEAS CAP PGAS
+looked	
+at	PIN PREP
+few	QUAN JJ
+important	JJ
+areas	NN
+under	PIN PREP
+tort	NN
+law	NN
+one	PRP SBJP
+would	PRMD
+think	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+law	NN
+deals	VPRT
+with	PIN PREP
+a	ART DET INDA
+number	NN
+of	PIN PREP
+issues	NN
+.	
+If	COND PIN CAP SCONJ PREP
+a	ART DET INDA
+case	NN
+does	VPRT SPAU
+not	XX0 RB
+fall	INF
+under	PIN PREP
+any	QUAN DET
+other	JJ
+civil	JJ
+law	NN
+,	
+it	PIT PRP SBJP
+falls	VPRT
+under	PIN PREP
+tort	NN
+.	
+But	CAP CCONJ
+we	FPP1 PRP SBJP
+can	POMD
+see	PRIV INF
+that	PIN THVC SCONJ PREP
+not	XX0 RB
+only	DWNT RB
+does	VPRT PROD
+tort	NN
+law	NN
+deal	INF
+with	PIN PREP
+cases	NN
+which	WHOBJ DET WH
+other	JJ
+branches	NN
+of	PIN PREP
+law	NN
+do	VPRT SPAU
+not	XX0 RB
+deal	INF
+with	PIN PREP
+but	CCONJ
+also	RB
+ones	NN
+that	TSUB WHSUB WH
+fall	VPRT
+under	PIN PREP
+categories	NN
+of	PIN PREP
+law	NN
+,	
+like	PIN PREP
+contract	NN
+law	NN
+(	
+economic	JJ
+loss	NN
+-	
+contractual	JJ
+breach	NN
+)	
+.	
+Again	RB TIME CAP
+,	
+the	ART DET
+aim	NN
+of	PIN PREP
+tort	NN
+law	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+to	PIN TO PREP
+punish	INF
+people	NN
+,	
+but	CCONJ
+to	PIN TO PREP
+compensate	INF
+the	ART DET
+party	NN
+and	CCONJ
+restore	INF
+status	NN
+quo	NN
+.	
+The	ART CAP DET
+award	NN
+of	PIN PREP
+punitive	JJ
+damages	NN
+falls	VPRT
+under	PIN PREP
+criminal	JJ
+law	NN
+.	
+These	DEMO CAP DET
+only	DWNT RB
+increase	VPRT
+the	ART DET
+number	NN
+of	PIN PREP
+cases	NN
+.	
+But	CAP CCONJ
+exemplary	JJ
+damages	NN
+are	PASS VPRT SPAU AUXB
+only	DWNT RB
+awarded	
+rarely	RB
+.	
+Usually	RB CAP
+regular	JJ
+or	CCONJ
+special	JJ
+damages	NN
+are	PASS VPRT AUXB
+awarded	
+.	
+Tort	NN CAP
+law	NN
+has	VPRT PEAS
+been	BEMA AUXB
+there	RB
+for	PIN PREP
+centuries	NN
+and	CCONJ
+there	EX
+can	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+a	ART DET INDA
+sudden	JJ
+change	NN
+,	
+the	ART DET
+judges	PRIV NN
+can	POMD SPAU
+not	XX0 RB
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+would	PRMD SPAU
+only	DWNT RB
+deal	INF
+with	PIN PREP
+particular	JJ CONJ
+areas	NN
+and	CCONJ
+reject	VPRT
+the	ART DET
+rest	NN
+;	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+expected	PRIV
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+address	INF
+the	ART DET
+claims	PUBV NN
+of	PIN PREP
+the	ART DET
+injured	
+party	NN
+.	
+Yet	CAP CCONJ
+it	PIT PRP SBJP
+would	PRMD
+be	BEMA AUXB INF
+desirable	JJ PRED
+if	COND PIN SCONJ PREP
+tort	NN
+law	NN
+limited	VBD
+its	PIT PRP SBJP
+scope	NN
+to	PIN TO PREP
+promote	INF
+efficiency	NN
+.	
+Yet	RB CAP
+another	DET
+important	JJ
+problem	NN
+under	PIN PREP
+tort	NN
+law	NN
+is	VPRT AUXB
+it	PIT PRP SBJP
+lacks	VPRT
+coherence	NN
+.	
+When	RB CAP SCONJ WH
+we	FPP1 PRP SBJP
+look	VPRT
+at	PIN PREP
+the	ART DET
+cases	NN
+above	PIN PLACE PREP
+we	FPP1 PRP SBJP
+can	POMD
+notice	PRIV INF
+that	PIN THVC SCONJ PREP
+there	EX
+are	VPRT AUXB
+conflicting	JJ
+decisions	NOMZ
+.	
+Judges	PRIV NN CAP
+mostly	RB
+decide	VPRT PRIV SUAV
+cases	NN
+on	PIN PREP
+policy	NN
+arguments	NOMZ
+than	PIN PREP
+relying	PGAS
+upon	PIN SCONJ PREP
+precedents	NN
+.	
+This	DEMP CAP DET
+leads	VPRT
+to	PIN PREP
+incoherence	NN
+in	PIN CONJ PREP
+the	ART DET
+law	NN
+.	
+But	CAP CCONJ
+this	DEMP DET
+has	VPRT PEAS
+been	BEMA AUXB
+the	ART DET
+problem	NN
+prevailing	GER WZPRES PGAS
+since	OSUB PIN SCONJ PREP
+times	NN
+immemorial	NN
+.	
+But	CAP CCONJ
+it	PIT PRP SBJP
+would	PRMD
+be	BEMA AUXB INF
+welcome	JJ PRED
+to	PIN TO PREP
+see	PRIV INF
+tort	NN
+law	NN
+being	BEMA WZPRES AUXB
+more	RB EMPH CMADJ
+coherent	JJ
+,	
+if	COND PIN SCONJ PREP
+the	ART DET
+judges	PRIV NN
+follow	VPRT
+the	ART DET
+'	CONT QUOT
+rule	SUAV NN
+of	PIN PREP
+precedents	NN
+'	CONT QUOT
+,	
+there	EX
+would	PRMD SPAU
+automatically	RB
+be	BEMA AUXB INF
+more	JJ EMPH CMADJ
+coherence	NN
+.	
+And	ANDC CAP CCONJ
+also	RB
+if	COND PIN SCONJ PREP
+the	ART DET
+law	NN
+concentrates	VPRT
+on	PIN PREP
+its	PIT PRP SBJP
+primary	JJ
+aim	NN
+of	PIN PREP
+compensating	GER PGAS
+for	PIN PREP
+the	ART DET
+injuries	NN
+suffered	VBD
+and	PHC CCONJ
+tries	VPRT
+not	XX0 RB
+to	PIN TO PREP
+extend	INF
+the	ART DET
+law	NN
+,	
+then	RB
+tort	NN
+law	NN
+would	PRMD
+be	BEMA AUXB INF
+more	RB EMPH CMADJ
+certain	JJ
+.	
+Extending	PRESP CAP PGAS
+the	ART DET
+law	NN
+would	PRMD SPAU
+only	DWNT RB
+increase	INF
+the	ART DET
+cases	NN
+before	PIN PREP
+it	PIT PRP SBJP
+and	CCONJ
+would	PRMD
+make	INF
+the	ART DET
+law	NN
+inefficient	JJ
+and	PHC CCONJ
+incoherent	JJ
+which	DET WH
+is	BEMA VPRT AUXB
+not	XX0 RB
+desirable	JJ
+.	

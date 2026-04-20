@@ -1,0 +1,582 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0696.0436.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0696.0436	NUM
+>	X
+  	
+<	X
+An	ART CAP DET INDA
+ethical	JJ
+and	PHC CCONJ
+critical	JJ
+work	NN
+for	PIN PREP
+journalists	NN
+>	X
+  	
+In	PIN CONJ CAP PREP
+2009	NUM
+,	
+Brazilian	CAP NNP
+Federal	CAP NNP
+Court	CAP NNP
+of	PIN PREP
+Justice	CAP NNP
+decided	VBD PRIV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+obligation	NOMZ
+of	PIN PREP
+undergraduate	JJ
+course	NN
+of	PIN PREP
+Social	CAP NNP
+Communication	CAP NNP
+or	CCONJ
+Journalism	CAP NNP
+and	CCONJ
+professional	JJ
+record	NN
+to	PIN TO PREP
+exercise	INF
+that	DEMO DET
+profession	NOMZ
+was	BEMA VBD AUXB
+unconstitutional	JJ PRED
+.	
+In	PIN CONJ CAP PREP
+2015	NUM
+,	
+the	ART DET
+question	NOMZ
+came	VBD
+back	RB
+to	PIN PREP
+the	ART DET
+discussion	NOMZ
+field	NN
+,	
+but	CCONJ
+first	JJ
+decision	NOMZ
+still	RB
+applies	VPRT
+.	
+However	RB CONJ CAP
+,	
+this	DEMO DET
+kind	NN HDG
+of	PIN PREP
+work	NN
+needs	VPRT
+more	JJ EMPH CMADJ
+than	PIN PREP
+the	ART DET
+ability	NOMZ
+to	PIN TO PREP
+speak	INF
+or	CCONJ
+to	PIN TO PREP
+write	PUBV INF
+.	
+In	PIN CONJ CAP PREP
+fact	NN
+,	
+words	NN
+are	BEMA VPRT AUXB
+like	PIN PREP
+weapons	NN
+.	
+Journalists	NN CAP
+should	NEMD
+undergraduate	INF
+to	PIN TO PREP
+work	INF
+more	RB EMPH CMADJ
+critical	JJ
+and	PHC CCONJ
+ethical	JJ
+,	
+not	XX0 RB
+only	DWNT RB
+technical	JJ
+.	
+The	ART CAP DET
+reflection	NOMZ
+provided	WZPAST
+by	PIN PREP
+the	ART DET
+degree	NN
+is	BEMA VPRT AUXB
+essential	JJ PRED
+to	PIN PREP
+a	ART DET INDA
+serious	JJ
+work	NN
+.	
+ 	
+When	RB CAP SCONJ WH
+a	ART DET INDA
+young	JJ
+person	NN
+starts	VPRT
+undergraduate	JJ
+course	NN
+of	PIN PREP
+Journalism	CAP NNP
+,	
+s	NNP
+/	PRP SBJP
+he	TPP3 PRP SBJP
+could	POMD SPAU
+not	XX0 RB
+know	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+course	NN
+is	BEMA VPRT AUXB
+more	JJ PRED EMPH CMADJ
+than	PIN PREP
+technical	JJ
+information	NOMZ
+.	
+We	FPP1 CAP PRP SBJP
+have	VPRT
+to	PIN TO PREP
+know	PRIV INF
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+write	PUBV INF
+a	ART DET INDA
+text	NN
+for	PIN PREP
+radio	NN
+or	CCONJ
+for	PIN PREP
+television	NOMZ
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+fact	NN
+.	
+Seems	VPRT SMP CAP
+that	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+same	JJ
+thing	NN
+,	
+but	CCONJ
+there	EX
+are	VPRT AUXB
+details	NN
+that	TSUB WHSUB WH
+say	VPRT PUBV
+if	COND PIN SCONJ PREP
+we	FPP1 PRP SBJP
+are	VPRT AUXB
+talking	PGAS
+to	PIN PREP
+a	ART DET INDA
+expecting	PRIV NN
+or	CCONJ
+a	ART DET INDA
+spectator	NN
+,	
+for	PIN PREP
+example	NN
+.	
+However	RB CONJ CAP
+,	
+a	ART DET INDA
+future	JJ
+journalist	NN
+will	PRMD
+discuss	INF
+,	
+also	RB
+,	
+theories	NN
+about	PIN PREP
+Communication	CAP NNP
+field	NN
+,	
+the	ART DET
+relation	NOMZ
+between	PIN PREP
+communication	NOMZ
+and	CCONJ
+popular	JJ
+culture	NN
+and	CCONJ
+ethical	JJ
+implications	NOMZ
+about	PIN PREP
+this	DEMO DET
+work	NN
+.	
+With	PIN CAP PREP
+this	DEMO DET
+background	NN
+we	FPP1 PRP SBJP
+will	PRMD
+have	INF
+a	ART DET INDA
+journalist	NN
+that	TSUB WHSUB WH
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+able	JJ
+to	PIN TO PREP
+work	INF
+with	PIN PREP
+responsibility	NOMZ
+.	
+We	FPP1 CAP PRP SBJP
+are	VPRT SPAU AUXB
+not	XX0 RB
+saying	PUBV PGAS
+that	PIN THVC SCONJ PREP
+all	QUAN DET
+of	PIN PREP
+the	ART DET
+journalists	NN
+with	PIN PREP
+undergraduate	JJ
+degree	NN
+on	PIN PREP
+the	ART DET
+world	NN
+will	PRMD
+be	AUXB INF
+corrects	NN
+,	
+but	CCONJ
+academic	JJ
+reflections	NOMZ
+should	NEMD
+help	INF
+these	DEMO DET
+future	JJ
+professionals	NN
+.	
+ 	
+Journalists	NN CAP
+will	PRMD
+be	BEMA AUXB INF
+responsible	JJ PRED
+for	PIN PREP
+all	QUAN DET
+words	NN
+,	
+ideas	NN
+or	CCONJ
+concepts	NN
+that	TSUB DET
+use	VPRT
+.	
+We	FPP1 CAP PRP SBJP
+should	NEMD
+remember	PRIV INF
+that	PIN THVC SCONJ PREP
+stereotypes	NN
+and	PHC CCONJ
+prejudices	NN
+are	PASS VPRT BYPA AUXB
+nourished	
+by	PIN PREP
+simple	JJ
+communication	NOMZ
+between	PIN PREP
+two	NUM
+or	CCONJ
+more	JJ EMPH CMADJ
+characters	NN
+.	
+Well	DPAR CAP UH
+,	
+one	NUM
+of	PIN PREP
+the	ART DET
+subsidies	NN
+for	PIN PREP
+conversation	NOMZ
+are	PASS VPRT BYPA AUXB
+things	NN
+publicized	WZPAST
+by	PIN PREP
+journalism	NN
+.	
+This	DEMP CAP DET
+is	VPRT AUXB
+one	NUM
+side	NN
+of	PIN PREP
+the	ART DET
+ethical	JJ
+journalism	NN
+work	NN
+.	
+We	FPP1 CAP PRP SBJP
+need	VPRT
+a	ART DET INDA
+journalism	NN
+less	JJ CMADJ
+sensationalist	JJ
+and	CCONJ
+more	RB EMPH CMADJ
+responsible	JJ
+.	
+But	CAP CCONJ
+we	FPP1 PRP SBJP
+need	VPRT
+,	
+also	RB
+,	
+readers	NN
+expecting	WZPRES PRIV PGAS
+for	PIN PREP
+a	ART DET INDA
+constructive	JJ
+text	NN
+.	
+Respect	NN CAP
+has	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+the	ART DET
+key	NN
+to	PIN PREP
+the	ART DET
+Communication	CAP NNP
+.	
+ 	
+Another	CAP DET
+important	JJ
+point	NN
+about	PIN PREP
+critical	JJ
+and	PHC CCONJ
+ethical	JJ
+training	NN
+for	PIN PREP
+this	DEMO DET
+professionals	NN
+concerns	NN
+to	PIN PREP
+the	ART DET
+use	NN
+and	PHC CCONJ
+approach	NN
+with	PIN PREP
+journalistic	JJ
+sources	NN
+.	
+Journalists	NN CAP
+should	NEMD
+perceive	PRIV INF
+that	PIN THVC SCONJ PREP
+an	ART DET INDA
+incorrect	JJ
+or	CCONJ
+malicious	JJ
+text	NN
+will	PRMD
+reverberate	INF
+over	PIN PREP
+people	NN
+,	
+families	NN
+,	
+communities	NN
+,	
+social	JJ
+groups	NN
+or	CCONJ
+even	RB
+the	ART DET
+History	NN CAP
+.	
+The	ART CAP DET
+inattention	NOMZ
+with	PIN PREP
+information	NOMZ
+and	CCONJ
+with	PIN PREP
+the	ART DET
+person	NN
+that	TSUB WHSUB WH
+says	VPRT PUBV THATD
+this	DEMP DET
+has	VPRT
+serious	JJ
+consequences	NN
+.	
+In	PIN CONJ CAP PREP
+an	ART DET INDA
+undergraduate	JJ
+course	NN
+of	PIN PREP
+Social	CAP NNP
+Communication	CAP NNP
+or	CCONJ
+Journalism	CAP NNP
+,	
+specially	RB
+,	
+we	FPP1 PRP SBJP
+have	VPRT
+to	PIN TO PREP
+cultivate	INF
+in	PIN CONJ PREP
+the	ART DET
+students	NN
+the	ART DET
+value	NN
+of	PIN PREP
+treat	NN
+ethically	RB
+the	ART DET
+sources	NN
+.	
+ 	
+A	ART CAP DET INDA
+journalist	NN
+text	NN
+is	BEMA VPRT AUXB
+more	JJ PRED EMPH CMADJ
+than	PIN PREP
+independent	JJ
+words	NN
+.	
+Write	PUBV CAP NNP
+is	BEMA VPRT AUXB
+more	JJ PRED EMPH CMADJ
+than	PIN PREP
+put	
+letters	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+specific	JJ
+order	SUAV NN
+.	
+Defends	NN CAP
+that	PIN TOBJ SCONJ PREP
+journalists	NN
+need	VPRT
+a	ART DET INDA
+degree	NN
+is	BEMA VPRT AUXB
+more	JJ PRED EMPH CMADJ
+than	PIN PREP
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+another	DET
+person	NN
+can	POMD SPAU
+not	XX0 RB
+speak	INF
+.	
+Freedom	NN CAP
+of	PIN PREP
+expression	NOMZ
+and	CCONJ
+use	INF
+ethic	NN
+to	PIN TO PREP
+express	INF
+some	QUAN DET
+facts	NN
+are	VPRT AUXB
+two	NUM
+different	JJ
+things	NN
+.	
+All	QUAN CAP DET
+of	PIN PREP
+us	FPP1 PRP SBJP ACCU
+can	POMD
+say	PUBV INF
+our	FPP1 PRP SBJP
+opinions	NN
+to	PIN PREP
+an	ART DET INDA
+interlocutor	NN
+.	
+However	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+supposed	PRIV
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+good	JJ
+journalist	NN
+text	NN
+can	POMD
+express	INF
+something	QUPR INPR
+that	DEMP WH
+happened	VBD
+with	PIN PREP
+the	ART DET
+least	JJ SPADJ
+damage	NN
+possible	JJ
+:	
+to	PIN PREP
+the	ART DET
+society	NN
+,	
+to	PIN PREP
+the	ART DET
+sources	NN
+or	CCONJ
+to	PIN PREP
+the	ART DET
+own	JJ
+journalism	NN
+.	
+Only	DWNT RB CAP
+a	ART DET INDA
+good	JJ
+and	PHC CCONJ
+critical	JJ
+education	NOMZ
+will	PRMD
+help	INF
+people	NN
+that	TSUB WHSUB WH
+can	POMD
+talk	INF
+to	PIN PREP
+the	ART DET
+society	NN
+.	
+Have	CAP INF
+this	DEMO DET
+opportunity	NOMZ
+means	PRIV NN
+do	PROD INF
+a	ART DET INDA
+work	NN
+that	TSUB WHSUB WH
+impact	VPRT
+the	ART DET
+social	JJ
+constructions	NOMZ
+of	PIN PREP
+the	ART DET
+world	NN
+.	
+ 	

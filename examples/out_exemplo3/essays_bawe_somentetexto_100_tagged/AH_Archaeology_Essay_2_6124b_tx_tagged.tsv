@@ -1,0 +1,1549 @@
+# filename: AH_Archaeology_Essay_2_6124b_tx.txt
+token	tags
+Neanderthals	NN CAP
+are	PASS VPRT AUXB
+known	PRIV
+as	PIN CONJ PREP
+lived	
+between	PIN PREP
+250k	NNP
+and	CCONJ
+40kya	NN
+in	PIN CONJ PREP
+Europe	CAP NNP
+and	PHC CCONJ
+South	CAP NNP
+West	CAP NNP
+Asia	CAP NNP
+,	
+and	ANDC CCONJ
+500	NUM
+individuals	NN
+in	PIN CONJ PREP
+total	NN
+have	VPRT PEAS
+been	PASS AUXB
+identified	
+,	
+and	ANDC CCONJ
+12	NUM
+semi	JJ
+-	JJ
+complete	JJ
+skeletons	NN
+have	VPRT PEAS
+been	SPAU AUXB
+largely	RB
+contributing	GER PGAS
+the	ART DET
+study	NN
+of	PIN PREP
+Neanderthal	JJ CAP
+anatomy	NN
+to	PIN TO PREP
+investigate	INF
+their	TPP3 PRP SBJP
+environment	NOMZ
+,	
+behaviour	NN
+and	PHC CCONJ
+lifestyles	NN
+.	
+The	ART CAP DET
+physical	JJ
+features	NN
+of	PIN PREP
+Neanderthals	CAP NNP
+are	BEMA VPRT AUXB
+relatively	RB
+robust	JJ
+in	PIN CONJ PREP
+appearance	NN
+,	
+short	JJ
+heavily	RB
+muscled	
+body	NN
+with	PIN PREP
+relatively	RB
+short	JJ
+distal	JJ
+limbs	NN
+,	
+distinctive	JJ
+cranial	JJ
+features	NN
+in	PIN CONJ PREP
+brain	NN
+size	NN
+,	
+prominent	JJ
+brow	NN
+ridge	NNP
+,	
+projecting	GER PGAS
+nose	NN
+and	CCONJ
+nasal	JJ
+cavities	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+traditional	JJ
+view	NN
+,	
+these	DEMO DET
+Neanderthal	JJ CAP
+features	NN
+might	POMD
+be	BEMA AUXB INF
+the	ART DET
+result	NN
+of	PIN PREP
+a	ART DET INDA
+genetic	JJ
+isolation	NOMZ
+under	PIN PREP
+heavy	JJ
+selective	JJ
+stress	NN
+.	
+However	RB CONJ CAP
+,	
+recently	RB TIME
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+suggested	PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+possible	JJ
+reflection	NOMZ
+of	PIN PREP
+severe	JJ
+lifestyle	NN
+and	CCONJ
+cold	JJ
+adaptation	NOMZ
+during	PIN PREP
+the	ART DET
+last	JJ
+ice	NN
+age	NN
+.	
+Thus	RB CONJ CAP
+this	DEMO DET
+essay	NN
+focused	VBD
+on	PIN PREP
+the	ART DET
+Question	NOMZ CAP
+of	PIN PREP
+how	RB SCONJ WH
+much	QUAN JJ
+Neanderthal	JJ CAP
+anatomy	NN
+represents	VPRT
+adaptations	NOMZ
+to	PIN PREP
+the	ART DET
+cold	JJ
+environments	NOMZ
+,	
+with	PIN PREP
+representing	GER PGAS
+the	ART DET
+significance	NN
+of	PIN PREP
+Neanderthal	CAP NNP
+living	NN
+environment	NOMZ
+,	
+the	ART DET
+climate	NN
+reconstruction	NOMZ
+by	PIN PREP
+oxygen	NN
+isotope	NNP
+ratio	NN
+analysis	NN
+in	PIN CONJ PREP
+deep	JJ
+sea	NN
+sediments	NOMZ
+,	
+and	ANDC CCONJ
+possible	JJ
+anatomical	JJ
+adaptation	NOMZ
+with	PIN PREP
+several	QUAN JJ
+theories	NN
+and	PHC CCONJ
+researches	NN
+.	
+The	ART CAP DET
+Middle	JJ CAP
+Palaeolithic	CAP NNP
+period	NN
+is	PASS VPRT AUXB
+known	PRIV
+for	PIN PREP
+its	PIT PRP SBJP
+dramatic	JJ
+climatic	JJ
+change	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+later	JJ TIME
+stages	NN
+of	PIN PREP
+Middle	JJ CAP
+and	PHC CCONJ
+early	JJ TIME
+late	JJ TIME
+Pleistocene	CAP NNP
+.	
+Pleistocene	CAP NNP
+has	VPRT
+at	RB PIN PREP
+least	JJ SPADJ
+ten	NUM
+of	PIN PREP
+condition	NOMZ
+shifts	NN
+between	PIN PREP
+glacial	JJ
+and	PHC CCONJ
+interglacial	JJ
+.	
+The	ART CAP DET
+definition	NOMZ
+of	PIN PREP
+glacial	JJ
+periods	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+cold	JJ
+climatic	JJ
+episode	NN
+with	PIN PREP
+widespread	JJ
+ice	NN
+sheets	NN
+and	CCONJ
+reduced	
+sea	NN
+levels	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+interglacials	NN
+are	BEMA VPRT AUXB
+warm	JJ
+climatic	JJ
+episodes	NN
+,	
+with	PIN PREP
+little	JJ
+or	CCONJ
+no	SYNE DET
+glacial	JJ
+climatic	JJ
+process	NN
+and	CCONJ
+high	JJ
+sea	NN
+levels	NN
+.	
+The	ART CAP DET
+study	NN
+of	PIN PREP
+oxygen	NN
+isotope	NN
+ratios	NN
+in	PIN CONJ PREP
+deep	JJ
+sea	NN
+sediment	NOMZ
+is	BEMA VPRT AUXB
+key	JJ PRED
+for	PIN PREP
+investigating	GER PGAS
+past	JJ
+climate	NN
+,	
+because	CAUS PIN SCONJ PREP
+deep	JJ
+sea	NN
+sediments	NOMZ
+represent	VPRT
+accumulation	NOMZ
+of	PIN PREP
+oxygen	NN
+isotopes	NN
+.	
+The	ART CAP DET
+skeletons	NN
+of	PIN PREP
+microscopic	JJ
+organisms	NN
+,	
+foraminifera	NN
+,	
+are	PASS VPRT SPAU AUXB
+mainly	RB
+applied	
+.	
+These	DEMO CAP DET
+foraminifera	NN
+absorb	INF
+two	NUM
+stable	JJ
+oxygen	NN
+isotopes	NN
+from	PIN PREP
+sea	NN
+water	NN
+.	
+Measuring	PRESP CAP PGAS
+the	ART DET
+ration	NOMZ
+of	PIN PREP
+18O	NUM
+and	CCONJ
+16O	NUM
+in	PIN CONJ PREP
+foraminifera	NN
+reveals	VPRT PRIV
+relative	JJ
+balance	NN
+of	PIN PREP
+global	JJ
+sea	NN
+water	NN
+and	PHC CCONJ
+ice	NN
+sheets	NN
+.	
+High	JJ CAP
+18O	NUM
+means	VPRT PRIV
+growing	PGAS
+ice	NN
+sheets	NN
+,	
+and	ANDC CCONJ
+reducing	PGAS
+global	JJ
+sea	NN
+levels	NN
+in	PIN CONJ PREP
+glacial	JJ
+period	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+high	JJ
+16O	NUM
+represent	INF
+warm	JJ
+climate	NN
+with	PIN PREP
+rising	PGAS
+sea	NN
+levels	NN
+and	CCONJ
+reducing	PGAS
+ice	NN
+sheets	NN
+.	
+Early	JJ TIME CAP
+Weichselian	CAP NNP
+OIS3	CAP NNP
+-	
+5d	NNP
+40	NUM
+-	
+118k	NUM
+Full	JJ CAP
+glacial	JJ
+OIS4	CAP NNP
+(	
+58	NUM
+-	
+71k	NN
+)	
+Early	JJ TIME CAP
+glacial	JJ
+OIS5a-5d	CAP NNP
+(	
+71	NUM
+-	
+118k	NN
+)	
+Last	JJ CAP
+interglacial	JJ
+OIS5e	NN CAP
+(	
+118	NUM
+-	
+128k	NNP
+)	
+Eemian	JJ CAP
+Saalian	JJ CAP
+cool	JJ
+period	NN
+OIS6	CAP NNP
+(	
+128	NUM
+-	
+186k	NNP
+)	
+Penultimate	CAP NNP
+interglacial	JJ
+OIS7	CAP NNP
+(	
+186	NUM
+-	
+242k	NUM
+)	
+Saalian	JJ CAP
+cool	JJ
+period	NN
+OIS8	CAP NNP
+242	NUM
+-	
+301	NUM
+OIS6	CAP NNP
+and	CCONJ
+8	NUM
+is	BEMA VPRT AUXB
+Saalian	JJ CAP
+cool	JJ
+period	NN
+,	
+landscapes	NN
+are	PASS VPRT BYPA AUXB
+covered	
+by	PIN PREP
+steppe	NNP
+in	PIN CONJ PREP
+southern	JJ
+and	CCONJ
+Mediterranean	CAP NNP
+Europe	CAP NNP
+,	
+and	ANDC CCONJ
+tundra	NNP
+&	CCONJ
+steppe	NNP
+mosaic	NNP
+in	PIN CONJ PREP
+Scandinavian	CAP NNP
+.	
+Early	JJ TIME CAP
+glacial	JJ
+OIS	CAP NNP
+5a-5d	NN
+(	
+71	NUM
+-	
+118k	NN
+)	
+5b	NN
+and	CCONJ
+5d	NNP
+is	BEMA VPRT AUXB
+glacial	JJ
+sub	NN
+stages	NN
+,	
+very	AMP RB
+short	JJ
+in	PIN CONJ PREP
+duration	NOMZ
+.	
+5a	NN
+and	PHC CCONJ
+5c	NN
+is	VPRT AUXB
+temperate	INF
+interstadial	JJ
+Full	JJ CAP
+glacial	JJ
+OIS4	CAP NNP
+(	
+58	NUM
+-	
+71k	NN
+)	
+lack	NN
+of	PIN PREP
+vegetation	NOMZ
+led	WZPAST
+to	PIN PREP
+soil	NN
+erosion	NOMZ
+,	
+in	PIN CONJ PREP
+arid	NNP
+open	JJ
+environment	NOMZ
+.	
+Penultimate	JJ CAP
+interglacial	JJ
+OIS7	CAP NNP
+(	
+186	NUM
+-	
+242k	NN
+)	
+7b	NN
+a	ART DET INDA
+short	JJ
+ice	NN
+age	NN
+7a	NUM
+and	CCONJ
+7c	NNP
+full	JJ
+interglacial	NN
+supported	WZPAST
+by	PIN PREP
+environmental	JJ
+evidence	NN
+Last	JJ CAP
+interglacial	JJ
+OIS5e	NN CAP
+(	
+118	NUM
+-	
+128	NUM
+)	
+hipo	NN
+in	PIN CONJ PREP
+London	CAP NNP
+Ice	CAP NNP
+core	NN
+data	NN
+divide	NN
+stage	NN
+5e	NUM
+into	PIN PREP
+5	NUM
+further	JJ
+stages	NN
+.	
+Eemian	NN CAP
+has	VPRT
+high	JJ
+frequency	NN
+oscillations	NOMZ
+in	PIN CONJ PREP
+ice	NN
+volume	NN
+The	ART CAP DET
+means	PRIV NN
+for	PIN PREP
+hominids	NN
+Interglacial	JJ CAP
+climate	NN
+fluctuated	VBD
+with	PIN PREP
+rapid	JJ
+internal	JJ
+temperature	NN
+shift	NN
+,	
+changes	NN
+happen	VPRT
+within	PIN PREP
+individual	NN
+'s	
+life	NN
+time	NN
+.	
+Hominine	NN CAP
+adaptation	NOMZ
+to	PIN PREP
+millennia	NNP
+of	PIN PREP
+constant	JJ
+climate/	NUM
+sea	NN
+level/	NUM
+plant	NN
+cover	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+increasingly	RB
+unlikely	JJ
+scenario	NN
+.	
+More	RB EMPH CAP CMADJ
+dominant	JJ
+condition	NOMZ
+is	BEMA VPRT AUXB
+early	RB TIME
+glacial	JJ
+,	
+open	JJ
+landscape	NN
+and	CCONJ
+steppe	NNP
+environments	NOMZ
+.	
+But	CAP CCONJ
+Ice	CAP NNP
+core	NN
+data	NN
+is	VPRT AUXB
+indicating	GER PRIV PGAS
+the	ART DET
+rapidity	NOMZ
+of	PIN PREP
+change/	NUM
+oscillation	NOMZ
+.	
+Therefore	RB CONJ CAP
+millennia	NNP
+of	PIN PREP
+stability	NOMZ
+model	NN
+is	BEMA VPRT AUXB
+out	RB PIN STPR PREP
+.	
+This	DEMO CAP DET
+section	NOMZ
+is	VPRT AUXB
+going	PGAS
+to	PIN TO PREP
+discuss	INF
+Neanderthal	JJ CAP
+anatomical	JJ
+adaptation	NOMZ
+,	
+mainly	RB
+the	ART DET
+function	NOMZ
+of	PIN PREP
+projecting	GER PGAS
+nose	NN
+,	
+large	JJ
+nasal	JJ
+cavities	NN
+and	CCONJ
+the	ART DET
+large	JJ
+brain	NN
+size	NN
+of	PIN PREP
+Neanderthals	CAP NNP
+.	
+The	ART CAP DET
+size	NN
+of	PIN PREP
+Neanderthal	CAP NNP
+nose	NN
+is	BEMA VPRT AUXB
+remarkably	RB
+prominent	JJ
+and	PHC CCONJ
+nasal	JJ
+cavity	NOMZ
+was	BEMA VBD AUXB
+large	JJ PRED
+.	
+However	RB CONJ CAP
+,	
+comparing	PRESP PGAS
+the	ART DET
+length	NN
+and	PHC CCONJ
+breadth	NN
+of	PIN PREP
+Neanderthal	CAP NNP
+noses	NN
+with	PIN PREP
+those	DEMO DET
+of	PIN PREP
+modern	JJ
+humans	NN
+,	
+the	ART DET
+combination	NOMZ
+is	BEMA VPRT AUXB
+unusual	JJ PRED
+,	
+because	CAUS PIN SCONJ PREP
+the	ART DET
+modern	JJ
+cold	JJ
+adapted	
+people	NN
+,	
+as	PIN CONJ PREP
+Inuit	CAP NNP
+,	
+commonly	RB
+have	VPRT
+long	JJ
+and	PHC CCONJ
+narrow	JJ
+.	
+Thus	RB CONJ CAP
+,	
+this	DEMP DET
+is	PASS VPRT AUXB
+considered	PRIV
+as	PIN CONJ PREP
+other	JJ
+types	NN
+of	PIN PREP
+cold	JJ
+adaptation	NOMZ
+.	
+Large	JJ CAP
+nasal	JJ
+cavities	NN
+of	PIN PREP
+Neanderthals	CAP NNP
+likely	RB
+suggest	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+adaptation	NOMZ
+to	PIN PREP
+the	ART DET
+cold	JJ
+climate	NN
+by	PIN PREP
+providing	PGAS
+more	JJ EMPH CMADJ
+surfaces	NN
+for	PIN PREP
+both	DET
+warming	PGAS
+and	PHC CCONJ
+moistening	GER PGAS
+the	ART DET
+cold	NNP
+arid	NNP
+air	NNP
+before	PIN PREP
+reaching	PGAS
+the	ART DET
+lungs	NN
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+for	PIN PREP
+preventing	GER PGAS
+the	ART DET
+damage	NN
+to	PIN PREP
+the	ART DET
+brain	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+the	ART DET
+other	JJ
+hypothesis	NN
+of	PIN PREP
+the	ART DET
+Neanderthal	CAP NNP
+nose	NN
+function	NOMZ
+was	BEMA VBD AUXB
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+lose	INF
+heat	NN
+from	PIN PREP
+energetic	JJ
+activities	NN
+as	PIN CONJ PREP
+hunting	NN
+.	
+This	DEMO CAP DET
+theory	NN
+is	BEMA VPRT AUXB
+largely	RB
+controversial	JJ
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+assume	PRIV INF
+Neanderthals	CAP NNP
+as	PIN CONJ PREP
+more	RB EMPH CMADJ
+active	JJ
+to	PIN TO PREP
+heat	INF
+stress	NN
+than	PIN PREP
+earlier	RB TIME CMADJ
+and	CCONJ
+modern	JJ
+tropical	JJ
+human	NN
+who	WHSUB WH
+did	VBD SPAU
+not	XX0 RB
+have	INF
+large	JJ
+nose	NN
+cavities	NN
+.	
+Moreover	RB CONJ CAP
+,	
+freezing	PGAS
+after	PIN PREP
+overheating	GER PGAS
+and	CCONJ
+sweating	NN
+would	PRMD
+have	PEAS INF
+been	BEMA AUXB
+harmful	JJ PRED
+in	PIN CONJ PREP
+cold	JJ
+climatic	JJ
+conditions	NOMZ
+.	
+The	ART CAP DET
+distinctive	JJ
+brain	NN
+size	NN
+is	PASS VPRT SPAU AUXB
+also	RB
+considered	PRIV
+as	PIN CONJ PREP
+the	ART DET
+cold	JJ
+adaptations	NOMZ
+in	PIN CONJ PREP
+Neanderthal	CAP NNP
+body	NN
+.	
+Neanderthal	JJ CAP
+skull	NN
+was	BEMA VBD AUXB
+long	JJ PRED
+,	
+low	JJ
+and	PHC CCONJ
+flat	JJ
+.	
+The	ART CAP DET
+average	JJ
+brain	NN
+capacity	NOMZ
+of	PIN PREP
+Neanderthals	CAP NNP
+is	VPRT AUXB
+1600	NUM
+-	
+1700cc	NN
+for	PIN PREP
+male	NN
+in	PIN CONJ PREP
+volume	NN
+,	
+1300	NUM
+for	PIN PREP
+female	JJ
+in	PIN CONJ PREP
+volume	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+large	JJ PRED
+compared	
+Homo	CAP NNP
+erectus	NN
+,	
+which	SERE WHQU DET WH
+had	VBD
+brain	NN
+capacity	NOMZ
+1000cc	NN
+in	PIN CONJ PREP
+average	JJ
+.	
+Hence	RB CONJ CAP
+the	ART DET
+large	JJ
+brain	NN
+sizes	NN
+tend	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+interpreted	
+as	PIN CONJ PREP
+the	ART DET
+tendency	NN
+through	PIN PREP
+the	ART DET
+human	JJ
+evolution	NOMZ
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+average	JJ
+size	NN
+of	PIN PREP
+Neanderthal	JJ CAP
+brain	NN
+is	BEMA VPRT AUXB
+larger	JJ PRED CMADJ
+than	PIN PREP
+anatomically	RB
+modern	JJ
+humans	NN
+,	
+therefore	RB CONJ
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+interpreted	
+as	PIN CONJ PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+large	JJ
+brain	NN
+capacity	NOMZ
+is	BEMA VPRT AUXB
+due	JJ PRED
+to	PIN PREP
+the	ART DET
+correlation	NOMZ
+of	PIN PREP
+large	JJ
+body	NN
+mass	NN
+and	CCONJ
+environmental	JJ
+temperature	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+people	NN
+who	WHSUB WH
+living	PGAS
+in	PIN CONJ PREP
+high	JJ
+latitude	NN
+have	VPRT
+both	CCONJ
+large	JJ
+brain	NN
+sizes	NN
+and	PHC CCONJ
+body	NN
+masses	VPRT
+The	ART CAP DET
+typical	JJ
+features	NN
+of	PIN PREP
+Neanderthal	JJ CAP
+body	NN
+structure	NN
+are	BEMA VPRT AUXB
+their	TPP3 PRP SBJP
+strongly	AMP RB
+built	
+bodies	NN
+with	PIN PREP
+relatively	RB
+short	JJ
+distal	JJ
+limbs	NN
+,	
+compared	PASTP
+with	PIN PREP
+anatomically	RB
+modern	JJ
+humans	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+physical	JJ
+differences	NN
+might	POMD
+be	PASS BYPA AUXB INF
+affected	
+by	PIN PREP
+the	ART DET
+varying	PGAS
+nutrition	NOMZ
+,	
+the	ART DET
+climatic	JJ
+evidence	NN
+is	PASS VPRT SPAU AUXB
+possibly	RB
+related	
+to	PIN PREP
+the	ART DET
+distinct	JJ
+body	NN
+shape	NN
+and	PHC CCONJ
+size	NN
+.	
+The	ART CAP DET
+heights	NN
+of	PIN PREP
+Neanderthal	CAP NNP
+from	PIN PREP
+Near	CAP NNP
+East	CAP NNP
+and	CCONJ
+anatomically	RB
+modern	JJ
+human	NN
+are	BEMA VPRT AUXB
+relatively	RB
+taller	JJ CMADJ
+than	PIN PREP
+European	CAP NNP
+Neanderthals	CAP NNP
+.	
+Neanderthal	NN CAP
+from	PIN PREP
+Near	CAP NNP
+East	CAP NNP
+represent	VPRT
+clearly	RB
+warm	JJ
+adapted	
+physical	JJ
+features	NN
+.	
+However	RB CONJ CAP
+the	ART DET
+methods	NN
+which	WHSUB DET WH
+have	VPRT PEAS
+been	PASS AUXB
+applied	
+for	PIN PREP
+estimating	GER PRIV PGAS
+Neanderthals	CAP NNP
+heights	NN
+are	PASS VPRT AUXB
+derived	
+from	PIN PREP
+the	ART DET
+methods	NN
+for	PIN PREP
+modern	JJ
+humans	NN
+,	
+therefore	RB CONJ
+the	ART DET
+reliability	NOMZ
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+assess	INF
+.	
+The	ART CAP DET
+massiveness	NOMZ
+of	PIN PREP
+Neanderthals	CAP NNP
+is	PASS VPRT BYPA AUXB
+suggested	PUBV SUAV
+by	PIN PREP
+the	ART DET
+enlargements	NOMZ
+of	PIN PREP
+the	ART DET
+muscle	NN
+attachments	NOMZ
+areas	NN
+on	PIN PREP
+Neanderthal	JJ CAP
+bones	NN
+.	
+Moreover	RB CONJ CAP
+,	
+the	ART DET
+skeletons	NN
+of	PIN PREP
+Neanderthal	JJ CAP
+children	NN
+also	RB
+indicate	VPRT PRIV
+that	THVC DET
+muscularity	NOMZ
+as	PIN CONJ PREP
+inherited	
+features	NN
+.	
+The	ART CAP DET
+muscularity	NOMZ
+of	PIN PREP
+Neanderthals	CAP NNP
+are	PASS VPRT SPAU AUXB
+commonly	RB
+interpreted	
+as	PIN CONJ PREP
+reflecting	GER PRIV PGAS
+a	ART DET INDA
+demanding	JJ SUAV
+physical	JJ
+lifestyle	NN
+in	PIN CONJ PREP
+cold	JJ
+environment	NOMZ
+for	PIN PREP
+hunting	PGAS
+abilities	NN
+,	
+although	CONC PIN SCONJ PREP
+the	ART DET
+enlargement	NOMZ
+of	PIN PREP
+muscle	NN
+has	VPRT
+the	ART DET
+risk	NN
+of	PIN PREP
+reaching	PGAS
+the	ART DET
+limit	NN
+to	PIN PREP
+energy	NN
+reserves	NN
+.	
+This	DEMP CAP DET
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+massiveness	NOMZ
+for	PIN PREP
+Neanderthals	CAP NNP
+was	BEMA VBD AUXB
+necessary	JJ PRED
+for	PIN PREP
+their	TPP3 PRP SBJP
+survival	NN
+.	
+The	ART CAP DET
+physical	JJ
+features	NN
+of	PIN PREP
+Neanderthals	CAP NNP
+body	NN
+shape	NN
+and	PHC CCONJ
+muscularity	NOMZ
+are	PASS VPRT BYPA AUXB
+suggested	PUBV SUAV
+by	PIN PREP
+two	NUM
+main	JJ
+theories	NN
+by	PIN PREP
+Bergmann	CAP NNP
+and	PHC CCONJ
+Allen	CAP NNP
+.	
+Bergmann	CAP NNP
+'s	
+rule	SUAV NN
+supposed	VBD PRIV
+that	PIN THVC SCONJ PREP
+body	NN
+weight	NN
+would	PRMD
+tend	INF
+to	PIN TO PREP
+be	BEMA AUXB INF
+larger	JJ PRED CMADJ
+.	
+Moreover	RB CONJ CAP
+,	
+Allen	CAP NNP
+'s	
+rule	SUAV NN
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+body	NN
+extremities	NN
+will	PRMD
+be	BEMA AUXB INF
+relatively	RB
+shorter	JJ CMADJ
+.	
+Both	CAP DET
+theories	NN
+suggest	VPRT PUBV SUAV THATD
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+for	PIN PREP
+conserve	INF
+heat	NN
+in	PIN CONJ PREP
+cold	JJ
+environments	NOMZ
+by	PIN PREP
+minimizing	GER PGAS
+body	NN
+surface	NN
+for	PIN PREP
+its	PIT PRP SBJP
+volume	NN
+and	PHC CCONJ
+weight	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+these	DEMO DET
+rules	SUAV NN
+,	
+Neanderthals	NN CAP
+are	PASS VPRT AUXB
+considered	PRIV
+as	PIN CONJ PREP
+cold	JJ
+adapted	
+and	CCONJ
+early	JJ TIME
+anatomically	RB
+modern	JJ
+humans	NN
+were	PASS VBD AUXB
+heat	NN
+adapted	
+.	
+Moreover	RB CONJ CAP
+,	
+the	ART DET
+proportions	NOMZ
+of	PIN PREP
+the	ART DET
+leg	NN
+and	PHC CCONJ
+arm	NN
+bones	NN
+were	PASS VBD AUXB
+applied	
+as	PIN CONJ PREP
+the	ART DET
+limb	NN
+thermometer	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+indicate	PRIV INF
+the	ART DET
+average	JJ
+temperature	NN
+of	PIN PREP
+the	ART DET
+place	NN
+of	PIN PREP
+origin	NN
+.	
+The	ART CAP DET
+Neanderthal	JJ CAP
+result	NN
+indicate	VPRT PRIV
+the	ART DET
+average	JJ
+estimated	PRIV THATD
+temperature	NN
+is	VPRT AUXB
+about	RB
+0	NUM
+degree	NN
+for	PIN PREP
+Neanderthal	JJ CAP
+habitats	NN
+.	
+This	DEMO CAP DET
+estimation	NOMZ
+overlaps	VPRT
+the	ART DET
+estimated	PRIV
+Ice	CAP NNP
+age	NN
+temperature	NN
+in	PIN CONJ PREP
+Europe	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+as	PIN CONJ PREP
+discussed	
+above	RB PLACE
+,	
+the	ART DET
+study	NN
+of	PIN PREP
+deep	JJ
+sea	NN
+cores	NN
+suggests	VPRT PUBV SUAV
+the	ART DET
+ice	NN
+age	NN
+climates	NN
+was	VBD AUXB
+not	XX0 RB
+always	RB
+cold	JJ
+as	PIN CONJ PREP
+previously	RB TIME
+thought	PRIV
+.	
+Moreover	RB CONJ CAP
+,	
+the	ART DET
+Neanderthals	CAP NNP
+lived	VBD
+for	PIN PREP
+a	ART DET INDA
+long	JJ
+time	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+vast	JJ
+area	NN
+,	
+therefore	RB CONJ
+no	SYNE DET
+typical	JJ
+environments	NOMZ
+fro	NNP
+Neanderthals	CAP NNP
+.	
+Hence	RB CONJ CAP
+there	EX
+are	VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+consider	PRIV THATD INF
+only	DWNT RB
+cold	JJ
+adaptation	NOMZ
+leads	VPRT
+to	PIN PREP
+the	ART DET
+Neanderthal	JJ CAP
+distinctive	JJ
+anatomical	JJ
+features	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+possible	JJ
+that	PIN THAC SCONJ PREP
+they	TPP3 PRP SBJP
+result	VPRT
+from	PIN PREP
+interaction	NOMZ
+with	PIN PREP
+complex	JJ
+factors	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+cold	JJ
+adaptations	NOMZ
+,	
+the	ART DET
+mating	NN
+patterns	NN
+,	
+sampling	PGAS
+errors	NN
+,	
+mutations	NOMZ
+,	
+evolutionary	JJ
+specialisations	NOMZ
+,	
+and	ANDC CCONJ
+other	JJ
+factors	NN
+as	RB CONJ
+yet	RB
+determined	PRIV SUAV
+.	
+This	DEMO CAP DET
+conclusion	NOMZ
+attempts	VPRT
+to	PIN TO PREP
+summarise	INF
+the	ART DET
+possible	JJ
+Neanderthal	JJ CAP
+anatomical	JJ
+climate	NN
+adaptation	NOMZ
+in	PIN CONJ PREP
+cold	JJ
+environments	NOMZ
+,	
+comparing	PGAS
+with	PIN PREP
+anatomically	RB
+modern	JJ
+humans	NN
+and	CCONJ
+modern	JJ
+cold	JJ
+adapted	
+people	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+this	DEMO DET
+essay	NN
+,	
+the	ART DET
+Neanderthal	JJ CAP
+prominent	JJ
+nose	NN
+and	CCONJ
+large	JJ
+basal	NN
+cavities	NN
+are	BEMA VPRT AUXB
+the	ART DET
+combination	NOMZ
+of	PIN PREP
+the	ART DET
+low	JJ
+temperatures	NN
+and	PHC CCONJ
+humidity	NOMZ
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+avoid	INF
+the	ART DET
+chance	NN
+of	PIN PREP
+damaging	PGAS
+the	ART DET
+lung	NN
+and	PHC CCONJ
+brain	NN
+.	
+Moreover	RB CONJ CAP
+large	JJ
+body	NN
+core	NN
+and	CCONJ
+the	ART DET
+shortness	NOMZ
+of	PIN PREP
+the	ART DET
+limbs	NN
+were	VBD AUXB
+result	NN
+from	PIN PREP
+cold	JJ
+adaptation	NOMZ
+for	PIN PREP
+conserving	GER PGAS
+heat	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT BYPA AUXB
+supported	
+by	PIN PREP
+the	ART DET
+Bergman	CAP NNP
+'s	
+and	CCONJ
+Allen	CAP NNP
+'s	
+rule	SUAV NN
+.	
+However	RB CONJ CAP
+the	ART DET
+study	NN
+of	PIN PREP
+oxygen	NN
+isotopic	JJ
+rates	NN
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+ice	NN
+age	NN
+climate	NN
+was	VBD AUXB
+not	XX0 RB
+always	RB
+severe	JJ
+as	PIN CONJ PREP
+previous	JJ
+thoughts	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+widespread	JJ
+Neanderthal	JJ CAP
+occupation	NOMZ
+represents	VPRT
+there	EX
+are	VPRT AUXB
+no	SYNE DET
+typical	JJ
+Neanderthal	JJ CAP
+environment	NOMZ
+.	
+Hence	RB CONJ CAP
+this	DEMO DET
+essay	NN
+conclude	VPRT PRIV
+that	PIN THVC SCONJ PREP
+Neanderthal	JJ CAP
+skeletal	JJ
+features	NN
+are	PASS VPRT SPAU AUXB
+not	XX0 RB
+only	DWNT RB
+derived	
+from	PIN PREP
+cold	JJ
+adaptation	NOMZ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+better	JJ PRED CMADJ
+to	PIN TO PREP
+consider	PRIV INF
+as	PIN CONJ PREP
+the	ART DET
+collaboration	NOMZ
+of	PIN PREP
+various	JJ
+factors	NN
+led	VBD
+to	PIN PREP
+unique	JJ
+Neanderthal	JJ CAP
+anatomical	JJ
+configuration	NOMZ
+.	

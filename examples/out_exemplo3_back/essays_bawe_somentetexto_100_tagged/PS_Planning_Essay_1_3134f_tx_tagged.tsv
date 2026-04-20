@@ -1,0 +1,1612 @@
+# filename: PS_Planning_Essay_1_3134f_tx.txt
+token	tags
+Introduction	NOMZ CAP
+Urban	JJ CAP
+growth	NN
+or	CCONJ
+sprawl	NN
+is	BEMA VPRT AUXB
+the	ART DET
+process	NN
+of	PIN PREP
+cities	NN
+spreading	WZPRES PGAS
+outwards	NN
+into	PIN PREP
+the	ART DET
+surrounding	GER PGAS
+countryside	NN
+(	
+Drake	CAP NNP
+and	PHC CCONJ
+Lee	CAP NNP
+,	
+2000	NUM
+.	
+)	
+This	DEMO CAP DET
+essay	NN
+aims	VPRT
+to	PIN TO STPR PREP
+;	
+a	X
+)	
+Examine	CAP INF
+the	ART DET
+problems	NN
+and	PHC CCONJ
+reasons	PRIV NN
+for	PIN PREP
+urban	JJ
+sprawl	NN
+and	ANDC CCONJ
+why	RB SCONJ WH
+it	PIT PRP SBJP
+needs	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+contained	
+.	
+b	X
+)	
+Look	CAP INF
+at	PIN PREP
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+ways	NN
+planners	NN
+have	VPRT PEAS
+tried	
+to	PIN TO PREP
+address	INF
+these	DEMO DET
+problems	NN
+and	CCONJ
+discuss	INF
+how	RB SCONJ WH
+successful	JJ
+they	TPP3 PRP SBJP
+have	VPRT PEAS
+been	AUXB
+.	
+Urban	CAP NNP
+Growth	CAP NNP
+and	CCONJ
+its	PIT PRP SBJP
+effects	NN
+In	PIN CONJ CAP PREP
+Britain	CAP NNP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+a	ART DET INDA
+cheap	JJ
+and	PHC CCONJ
+effective	JJ
+public	JJ
+transport	NN
+system	NN
+has	VPRT PEAS SPAU
+greatly	AMP RB
+influenced	
+the	ART DET
+spatial	JJ
+organisation	NOMZ
+of	PIN PREP
+cities	NN
+.	
+It	PIT CAP PRP SBJP
+has	VPRT PEAS
+allowed	SUAV
+people	NN
+to	PIN TO PREP
+live	INF
+further	RB CMADJ
+away	RB PLACE
+from	PIN PREP
+their	TPP3 PRP SBJP
+place	NN
+of	PIN PREP
+work	NN
+,	
+and	ANDC CCONJ
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+factors	NN
+that	TSUB WHSUB WH
+have	VPRT PEAS
+facilitated	
+urban	JJ
+growth	NN
+.	
+The	ART CAP DET
+map	NN
+below	PIN PLACE PREP
+demonstrates	VPRT PRIV THATD
+this	DEMP DET
+:	
+(	
+Hall	CAP NNP
+,	
+2002	NUM
+,	
+p20	NN
+)	
+Population	CAP NNP
+growth	NN
+and	CCONJ
+the	ART DET
+subsequent	JJ
+need	NN
+for	PIN PREP
+new	JJ
+housing	NN
+also	RB
+contributes	VPRT
+to	PIN PREP
+urban	JJ
+spread	NN
+.	
+The	ART CAP DET
+development	NOMZ
+of	PIN PREP
+land	NN
+at	PIN PREP
+the	ART DET
+fringe	NN
+of	PIN PREP
+cities	NN
+can	POMD
+lead	INF
+to	PIN PREP
+the	ART DET
+availability	NOMZ
+of	PIN PREP
+higher	JJ CMADJ
+quality	NOMZ
+housing	NN
+at	PIN PREP
+a	ART DET INDA
+lower	JJ CMADJ
+density	NOMZ
+than	PIN PREP
+could	POMD
+be	PASS AUXB INF
+built	
+in	PIN CONJ PREP
+the	ART DET
+city	NN
+.	
+For	PIN CAP PREP
+those	DEMP DET
+who	WH
+want	VPRT
+and	CCONJ
+can	POMD
+afford	INF
+it	PIT PRP SBJP
+,	
+this	DEMO DET
+suburban	JJ
+housing	NN
+,	
+spacious	JJ
+and	PHC CCONJ
+close	JJ
+to	PIN PREP
+the	ART DET
+countryside	NN
+is	BEMA VPRT AUXB
+very	AMP RB
+desirable	JJ
+.	
+However	RB CONJ CAP
+,	
+urban	JJ
+growth	NN
+can	POMD SPAU
+also	RB
+have	INF
+negative	JJ
+impacts	NN
+.	
+These	DEMP CAP DET
+include	VPRT
+the	ART DET
+loss	NN
+of	PIN PREP
+the	ART DET
+countryside	NN
+and	CCONJ
+rural	JJ
+habitats	NN
+.	
+This	DEMO CAP DET
+land	NN
+could	POMD SPAU
+otherwise	RB CONJ
+have	INF
+a	ART DET INDA
+recreational	JJ
+use	NN
+,	
+or	CCONJ
+it	PIT PRP SBJP
+may	POMD
+be	BEMA AUXB INF
+valuable	JJ
+agricultural	JJ
+land	NN
+.	
+By	PIN CAP PREP
+the	ART DET
+mid	JJ
+1930	NUM
+'s	
+some	QUAN DET
+60,000	NUM
+acres	NN
+per	PIN PREP
+year	NN
+were	PASS VBD AUXB
+being	PASS AUXB
+taken	
+from	PIN PREP
+agriculture	NN
+in	PIN CONJ PREP
+England	CAP NNP
+and	PHC CCONJ
+Wales	CAP NNP
+.	
+'	CONT QUOT
+The	ART CAP DET
+suburban	JJ
+spread	NN
+of	PIN PREP
+London	CAP NNP
+took	VBD
+much	QUAN JJ
+of	PIN PREP
+the	ART DET
+finest	JJ SPADJ
+market	NN
+gardening	NN
+land	NN
+in	PIN CONJ PREP
+all	QUAN DET
+England	CAP NNP
+.	
+'	CONT QUOT
+(	
+Hall	CAP NNP
+,	
+2002	NUM
+p23	NN
+)	
+Urban	JJ CAP
+spread	NN
+can	POMD SPAU
+also	RB
+lead	INF
+to	PIN PREP
+the	ART DET
+swallowing	GER
+up	PIN PREP
+of	PIN PREP
+villages	NN
+and	CCONJ
+the	ART DET
+loss	NN
+of	PIN PREP
+character	NN
+of	PIN PREP
+urban	JJ
+areas	NN
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+merge	VPRT
+into	PIN PREP
+each	QUAN DET
+other	JJ
+.	
+As	PIN CONJ CAP PREP
+quoted	
+by	PIN PREP
+a	ART DET INDA
+campaigner	NN
+for	PIN PREP
+the	ART DET
+protection	NOMZ
+of	PIN PREP
+the	ART DET
+countryside	NN
+,	
+'	CONT QUOT
+without	PIN PREP
+open	JJ
+spaces	NN
+between	PIN PREP
+communities	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+extremely	AMP RB
+difficult	JJ
+...	
+to	PIN TO PREP
+create	INF
+communities	NN
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+become	VPRT
+soulless	JJ
+and	CCONJ
+lost	
+.	
+'	CONT QUOT
+(	
+Ollie	CAP NNP
+Stone	CAP NNP
+-	
+Lee	CAP NNP
+,	
+2004).In	NUM
+some	QUAN DET
+cases	NN
+,	
+urban	JJ
+sprawl	NN
+may	POMD
+contribute	INF
+to	PIN PREP
+inner	JJ
+city	NN
+decline	NN
+,	
+if	COND PIN SCONJ PREP
+the	ART DET
+wealthier	JJ CMADJ
+move	SUAV NN
+into	PIN PREP
+the	ART DET
+new	JJ
+suburbs	NN
+and	ANDC CCONJ
+those	DEMP DET
+who	WH
+are	PASS VPRT AUXB
+left	
+behind	RB PLACE
+become	
+'	CONT QUOT
+trapped	
+'	CONT QUOT
+in	PIN CONJ PREP
+inner	JJ
+cities	NN
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+these	DEMO DET
+concerns	NN
+a	ART DET INDA
+growing	PGAS
+movement	NOMZ
+campaigning	GER WZPRES PGAS
+against	PIN PREP
+urban	JJ
+sprawl	NN
+developed	
+and	CCONJ
+planners	NN
+introduced	VBD
+measures	NN
+to	PIN TO PREP
+try	INF
+and	PHC CCONJ
+control	INF
+it	PIT PRP SBJP
+.	
+The	ART CAP DET
+Green	CAP NNP
+Belt	CAP NNP
+In	PIN CONJ CAP PREP
+1955	NUM
+,	
+a	ART DET INDA
+green	JJ
+belt	NN
+policy	NN
+was	PASS VBD AUXB
+introduced	
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+;	
+to	PIN TO PREP
+try	INF
+to	PIN TO PREP
+limit	INF
+urban	JJ
+growth	NN
+.	
+A	ART CAP DET INDA
+green	JJ
+belt	NN
+is	VPRT AUXB
+'	CONT QUOT
+an	ART DET INDA
+area	NN
+of	PIN PREP
+land	NN
+encircling	GER WZPRES PGAS
+an	ART DET INDA
+urban	JJ
+area	NN
+within	PIN PREP
+which	PIRE DET WH
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+very	AMP RB
+difficult	JJ
+to	PIN TO PREP
+obtain	INF
+planning	NN
+permission	NOMZ
+for	PIN PREP
+new	JJ
+developments	NOMZ
+'	CONT QUOT
+(	
+Drake	CAP NNP
+and	PHC CCONJ
+Lee	CAP NNP
+,	
+2000	NUM
+,	
+p60	NN
+)	
+.	
+Green	JJ CAP
+belts	NN
+are	PASS VPRT BYPA AUXB
+designated	
+by	PIN PREP
+local	JJ
+planning	NN
+authorities	NN
+,	
+and	ANDC CCONJ
+now	RB TIME
+cover	VPRT
+13	NUM
+%	NN
+of	PIN PREP
+England	CAP NNP
+(	
+Ollie	CAP NNP
+Stone	CAP NNP
+-	
+Lee	CAP NNP
+,	
+2004	NUM
+)	
+.	
+Green	JJ CAP
+belts	NN
+have	VPRT PEAS
+been	BEMA AUXB
+a	ART DET INDA
+useful	JJ
+tool	NN
+for	PIN PREP
+planners	NN
+and	CCONJ
+,	
+as	PIN CONJ PREP
+a	ART DET INDA
+planning	NN
+official	NN
+commented	VBD PUBV
+,	
+'	CONT QUOT
+probably	RB
+no	SYNE DET
+planning	NN
+circular	NN
+has	VPRT PEAS SPAU
+ever	RB
+been	BEMA AUXB
+so	RB EMPH
+popular	JJ
+with	PIN PREP
+the	ART DET
+public	NN
+.	
+'(Cullingworth	CONT
+and	ANDC CCONJ
+Nadin	CAP NNP
+,	
+2002	NUM
+)	
+However	RB CONJ CAP
+,	
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+not	XX0 RB
+without	PIN PREP
+their	TPP3 PRP SBJP
+critics	NN
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+criticisms	NN
+if	COND PIN SCONJ PREP
+green	JJ
+belts	NN
+are	BEMA VPRT AUXB
+that	DEMO DET
+development	NOMZ
+may	POMD
+simply	RB
+'	CONT QUOT
+leap	NNP
+frog	NN
+'	CONT QUOT
+the	ART DET
+green	JJ
+belt	NN
+.	
+People	NN CAP
+may	POMD
+commute	INF
+through	PIN PREP
+it	PIT PRP SBJP
+to	PIN PREP
+the	ART DET
+town	NN
+centre	NN
+,	
+resulting	PGAS
+in	PIN CONJ PREP
+increased	
+traffic	NN
+,	
+congestion	NOMZ
+and	PHC CCONJ
+inefficiency	NN
+.	
+The	ART CAP DET
+type	NN
+of	PIN PREP
+countryside	NN
+found	PRIV WZPAST
+in	PIN CONJ PREP
+green	JJ
+belt	NN
+may	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+particularly	RB
+attractive	JJ
+or	CCONJ
+environmentally	RB
+important	JJ
+.	
+The	ART CAP DET
+vice	NN
+-	NN
+president	NN
+of	PIN PREP
+the	ART DET
+RTPI	CAP NNP
+is	PASS VPRT AUXB
+quoted	
+as	PIN CONJ PREP
+saying	PUBV PGAS
+'	CONT QUOT
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+it	PIT PRP SBJP
+is	VPRT AUXB
+"	QUOT
+awful	JJ
+land	NN
+"	QUOT
+containing	GER PGAS
+quarries	NN
+or	CCONJ
+landfill	NN
+sites	NN
+'	CONT QUOT
+(	
+Ollie	CAP NNP
+Stone	CAP NNP
+-	
+Lee	CAP NNP
+,	
+2004	NUM
+)	
+.	
+Given	CAP
+the	ART DET
+enormous	JJ
+pressures	NN
+on	PIN PREP
+land	NN
+for	PIN PREP
+housing	NN
+and	CCONJ
+other	JJ
+developments	NOMZ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+questionable	JJ PRED
+whether	PIN SCONJ PREP
+such	EMPH DET
+a	ART DET INDA
+blanket	NN
+approach	NN
+is	BEMA VPRT AUXB
+still	RB
+appropriate	JJ
+.	
+The	ART CAP DET
+Barker	CAP NNP
+report	PUBV NN
+(	
+2004	NUM
+)	
+says	VPRT PUBV
+that	PIN THVC SCONJ PREP
+140,000	NUM
+new	JJ
+homes	NN
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+built	
+each	QUAN DET
+year	NN
+.	
+Limited	JJ CAP
+housing	NN
+stock	NN
+can	POMD
+lead	INF
+to	PIN PREP
+reduced	
+labour	JJ
+mobility	NOMZ
+and	CCONJ
+to	PIN PREP
+increased	
+house	NN
+prices	NN
+,	
+making	PGAS
+home	NN
+ownership	NN
+out	PIN PREP
+of	PIN PREP
+the	ART DET
+reach	NN
+for	PIN PREP
+an	ART DET INDA
+increasing	GER PGAS
+proportion	NOMZ
+of	PIN PREP
+society	NN
+.	
+Another	CAP DET
+possible	JJ
+way	NN
+to	PIN PREP
+safe	JJ
+guard	NN
+areas	NN
+of	PIN PREP
+countryside	NN
+and	CCONJ
+to	PIN TO PREP
+allow	SUAV INF
+certain	JJ
+amount	NN
+of	PIN PREP
+development	NOMZ
+could	POMD
+be	BEMA AUXB INF
+the	ART DET
+introduction	NOMZ
+of	PIN STPR PREP
+'	CONT QUOT
+green	JJ
+wedges	NN
+'	CONT QUOT
+as	PIN CONJ PREP
+an	ART DET INDA
+alternative	NN
+to	PIN PREP
+the	ART DET
+green	JJ
+belt	NN
+.	
+New	JJ CAP
+Towns	NN CAP
+Another	CAP DET
+measure	NN
+used	WZPAST
+by	PIN PREP
+planners	NN
+to	PIN TO PREP
+contain	INF
+urban	JJ
+growth	NN
+was	BEMA VBD AUXB
+the	ART DET
+development	NOMZ
+of	PIN PREP
+new	JJ
+or	CCONJ
+satellite	NN
+towns	NN
+.	
+These	DEMP CAP DET
+were	PASS VBD AUXB
+built	
+to	PIN TO PREP
+take	INF
+overspill	NN
+populations	NOMZ
+from	PIN PREP
+large	JJ
+cities	NN
+and	CCONJ
+'	CONT QUOT
+used	PASTP
+as	PIN CONJ PREP
+a	ART DET INDA
+conscious	JJ
+strategy	NN
+for	PIN PREP
+metropolitan	JJ
+de	NN
+-	NN
+centralisation	NOMZ
+'	CONT QUOT
+(	
+Purdom	CAP NNP
+,	
+1925	NUM
+)	
+cited	PASTP
+in	PIN CONJ STPR PREP
+(	
+Ward	CAP NNP
+,	
+1994	NUM
+,	
+p52	NN
+.	
+)	
+In	PIN CONJ CAP PREP
+1946	NUM
+the	ART DET
+New	CAP NNP
+Towns	CAP NNP
+Act	CAP NNP
+was	PASS VBD AUXB
+passed	
+into	PIN PREP
+law	NN
+.	
+The	ART CAP DET
+first	JJ
+new	JJ
+town	NN
+was	VBD AUXB
+Stevenage	CAP NNP
+,	
+which	SERE WHQU DET WH
+was	PASS VBD AUXB
+designated	
+in	PIN CONJ PREP
+1946	NUM
+.	
+By	PIN CAP PREP
+1980	NUM
+there	EX
+were	VBD AUXB
+28	NUM
+New	JJ CAP
+Towns	NN CAP
+in	PIN CONJ PREP
+Britain	CAP NNP
+accounting	GER WZPRES PGAS
+for	PIN PREP
+over	PIN PREP
+one	NUM
+million	NUM
+people	NN
+.	
+New	JJ CAP
+Towns	NN CAP
+were	PASS VBD AUXB
+planned	
+to	PIN TO PREP
+be	AUXB INF
+'	CONT QUOT
+self	NN
+contained	VBD
+communities	NN
+for	PIN PREP
+living	NN
+and	CCONJ
+working	PGAS
+.	
+'	CONT QUOT
+(	
+Hall	CAP NNP
+,	
+2002	NUM
+,	
+p64	NN
+)	
+They	TPP3 CAP PRP SBJP
+were	PASS VBD SPAU AUXB
+sometimes	RB
+developed	
+in	PIN CONJ PREP
+conjunction	NOMZ
+with	PIN PREP
+green	JJ
+belts	NN
+;	
+as	PIN CONJ PREP
+shown	PRIV
+below	PIN PLACE PREP
+around	PIN PLACE PREP
+London	CAP NNP
+:	
+(	
+Hall	CAP NNP
+,	
+2002	NUM
+,	
+p64	NN
+)	
+It	PIT CAP PRP SBJP
+was	PASS VBD AUXB
+reasoned	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+width	NN
+of	PIN PREP
+the	ART DET
+green	JJ
+belt	NN
+would	PRMD
+put	INF
+commuting	PGAS
+to	PIN PREP
+London	CAP NNP
+far	RB PLACE
+beyond	PIN PREP
+the	ART DET
+means	PRIV NN
+of	PIN PREP
+most	JJ EMPH SPADJ
+people	NN
+at	PIN PREP
+the	ART DET
+time	NN
+,	
+encouraging	GER PGAS
+self	NN
+-	
+containment	NOMZ
+.	
+As	PIN CONJ CAP PREP
+discussed	
+by	PIN PREP
+Nicholson	CAP NNP
+(	
+1961	NUM
+)	
+providing	PRESP PGAS
+an	ART DET INDA
+adequate	JJ
+volume	NN
+or	CCONJ
+balance	NN
+of	PIN PREP
+employment	NOMZ
+for	PIN PREP
+the	ART DET
+different	JJ
+sectors	NN
+of	PIN PREP
+the	ART DET
+community	NOMZ
+proved	VBD PRIV
+difficult	JJ
+.	
+He	TPP3 CAP PRP SBJP
+also	RB
+stated	VBD PUBV THATD
+that	PIN STPR DEMP SCONJ PREP
+'	CONT QUOT
+the	ART DET
+principle	NN
+of	PIN PREP
+self	NN
+containment	NOMZ
+should	NEMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+pressed	
+too	RB
+far	RB PLACE
+'	CONT QUOT
+as	PIN CONJ STPR PREP
+'	CONT QUOT
+at	PIN PREP
+Hatfield	CAP NNP
+,	
+over	PIN PREP
+half	DET
+the	ART DET
+dwellings	NN
+are	PASS VPRT BYPA AUXB
+occupied	
+by	PIN PREP
+workers	NN
+for	PIN PREP
+one	NUM
+firm	NN
+;	
+a	ART DET INDA
+recession	NOMZ
+in	PIN CONJ PREP
+that	DEMO DET
+industry	NN
+would	PRMD
+hit	INF
+the	ART DET
+town	NN
+hard	RB
+.	
+'	CONT QUOT
+New	JJ CAP
+Towns	NN CAP
+often	RB
+incorporated	VBD
+existing	PGAS
+settlements	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+area	NN
+;	
+'	CONT QUOT
+Basildon	CAP NNP
+had	VBD
+to	PIN TO PREP
+link	INF
+up	PIN PREP
+the	ART DET
+two	NUM
+widely	RB
+separated	
+settlements	NOMZ
+and	CCONJ
+their	TPP3 PRP SBJP
+populations	NOMZ
+and	CCONJ
+to	PIN TO PREP
+absorb	INF
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+re	PIN NN PREP
+-	NN
+house	NN
+,	
+those	DEMP DET
+displaced	
+by	PIN PREP
+the	ART DET
+demolitions	NOMZ
+'	CONT QUOT
+(	
+Nicholson	CAP NNP
+,	
+1961	NUM
+)	
+.	
+The	ART CAP DET
+lives	NN
+of	PIN PREP
+the	ART DET
+original	JJ
+populations	NOMZ
+were	PASS VBD BYPA SPAU AUXB
+greatly	AMP RB
+affected	
+by	PIN PREP
+the	ART DET
+new	JJ
+developments	NOMZ
+.	
+This	DEMO CAP DET
+sometimes	RB
+led	VBD
+to	PIN PREP
+problems	NN
+integrating	GER WZPRES PGAS
+old	JJ
+and	PHC CCONJ
+new	JJ
+residents	NN
+and	CCONJ
+to	PIN PREP
+tensions	NOMZ
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+especially	RB
+initially	RB TIME
+.	
+New	JJ CAP
+towns	NN
+achieved	VBD
+the	ART DET
+aim	NN
+of	PIN PREP
+establishing	GER PRIV PGAS
+new	JJ
+settlements	NOMZ
+,	
+providing	PGAS
+housing	NN
+,	
+jobs	NN
+and	PHC CCONJ
+facilities	NN
+for	PIN PREP
+people	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+very	AMP RB
+short	JJ
+time	NN
+,	
+helping	PRESP PGAS
+somewhat	DWNT RB
+to	PIN TO PREP
+relieve	INF
+the	ART DET
+pressure	NN
+of	PIN PREP
+urban	JJ
+sprawl	NN
+.	
+Their	TPP3 CAP PRP SBJP
+development	NOMZ
+did	VBD EMPH
+result	INF
+in	PIN CONJ PREP
+some	QUAN DET
+conflicts	NN
+;	
+for	PIN PREP
+example	NN
+there	EX
+were	VBD AUXB
+objections	NOMZ
+to	PIN PREP
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+land	NN
+designated	WZPAST
+for	PIN PREP
+use	NN
+,	
+e.g.	RB CONJ
+in	PIN CONJ PREP
+Stevenage	CAP NNP
+where	RB SCONJ WH
+the	ART DET
+land	NN
+included	VBD
+some	QUAN DET
+good	JJ
+quality	NOMZ
+farm	NN
+land	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+currently	RB
+resurgence	NN
+in	PIN CONJ PREP
+interest	NN
+in	PIN CONJ PREP
+the	ART DET
+potential	NN
+of	PIN PREP
+new	JJ
+towns	NN
+for	PIN PREP
+development	NOMZ
+.A	
+2004	NUM
+report	PUBV NN
+commissioned	WZPAST
+by	PIN PREP
+the	ART DET
+Government	CAP NNP
+recommends	VPRT SUAV THATD
+that	PIN STPR DEMP SCONJ PREP
+'	CONT QUOT
+the	ART DET
+government	NOMZ
+promotes	VPRT
+further	JJ
+expansion	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+existing	PGAS
+new	JJ
+towns	NN
+to	PIN TO PREP
+help	INF
+meet	INF
+its	PIT PRP SBJP
+housing	NN
+targets	NN
+,	
+particularly	RB
+where	RB SCONJ WH
+new	JJ
+towns	NN
+have	VPRT SPAU
+not	XX0 RB
+meet	INF
+their	TPP3 PRP SBJP
+critical	JJ
+mass	NN
+.	
+'	CONT QUOT
+(	
+Government	CAP NNP
+Report	PUBV CAP NNP
+,	
+2004	NUM
+)	
+The	ART CAP DET
+new	JJ
+towns	NN
+may	POMD
+have	INF
+a	ART DET INDA
+role	NN
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+for	PIN PREP
+helping	PGAS
+accommodate	INF
+the	ART DET
+growing	PGAS
+population	NOMZ
+.	
+Urban	CAP NNP
+Regeneration	CAP NNP
+Another	CAP DET
+measure	NN
+to	PIN TO PREP
+help	INF
+reduce	INF
+the	ART DET
+pressure	NN
+on	PIN PREP
+greenfield	NN
+sites	NN
+at	PIN PREP
+the	ART DET
+urban	JJ
+fringe	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+encourage	INF
+urban	JJ
+regeneration	NOMZ
+.	
+The	ART CAP DET
+government	NOMZ
+currently	RB
+has	VPRT
+a	ART DET INDA
+target	NN
+of	PIN PREP
+building	PGAS
+60	NUM
+%	NN
+of	PIN PREP
+new	JJ
+dwellings	NN
+on	PIN PREP
+previously	RB TIME
+developed	
+land	NN
+(	
+Urban	CAP NNP
+Task	CAP NNP
+force	NN
+,	
+1999	NUM
+)	
+and	ANDC CCONJ
+is	VPRT AUXB
+encouraging	GER PGAS
+the	ART DET
+idea	NN
+of	PIN PREP
+an	ART DET INDA
+urban	JJ
+renaissance	NN
+.	
+This	DEMP CAP DET
+involves	VPRT
+having	PGAS
+high	JJ
+density	NOMZ
+cities	NN
+which	WHSUB DET WH
+have	VPRT PEAS
+mixed	
+uses	NN
+,	
+good	JJ
+transport	NN
+links	NN
+and	ANDC CCONJ
+that	DEMP DET
+are	BEMA VPRT AUXB
+desirable	JJ
+places	NN
+to	PIN TO PREP
+live	INF
+:	
+(	
+Urban	CAP NNP
+Task	CAP NNP
+Force	CAP NNP
+,	
+1999	NUM
+)	
+For	PIN CAP PREP
+those	DEMO DET
+people	NN
+that	TSUB WHSUB WH
+want	VPRT
+to	PIN TO PREP
+live	INF
+in	PIN CONJ PREP
+the	ART DET
+cities	NN
+,	
+these	DEMP DET
+would	PRMD SPAU
+once	RB TIME
+again	RB TIME
+provide	INF
+attractive	JJ
+places	NN
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+live	INF
+and	PHC CCONJ
+work	INF
+and	PHC CCONJ
+reduce	INF
+pressure	NN
+for	PIN PREP
+housing	NN
+at	PIN PREP
+the	ART DET
+urban	JJ
+fringes	NN
+.	
+Compact	JJ CAP
+cities	NN
+that	TSUB WHSUB WH
+have	VPRT
+good	JJ
+public	JJ
+transport	NN
+links	NN
+would	PRMD
+help	INF
+reduce	INF
+adverse	JJ
+environmental	JJ
+effects	NN
+In	PIN CONJ CAP PREP
+the	ART DET
+1960	NUM
+'s	
+during	PIN PREP
+a	ART DET INDA
+phase	NN
+of	PIN PREP
+urban	JJ
+renewal	NN
+,	
+slums	NN
+were	PASS VBD AUXB
+cleared	
+and	PHC CCONJ
+replaced	
+with	PIN PREP
+high	JJ
+density	NOMZ
+housing	NN
+,	
+namely	RB CONJ
+tower	NN
+blocks	NN
+.	
+Due	PIN CAP PREP
+to	PIN PREP
+bad	JJ
+design	NN
+and	CCONJ
+low	JJ
+structural	JJ
+quality	NOMZ
+inhabitants	NN
+were	BEMA VBD AUXB
+rarely	RB
+happy	JJ
+and	CCONJ
+the	ART DET
+schemes	NN
+were	BEMA VBD AUXB
+not	XX0 RB
+a	ART DET INDA
+success	NN
+.	
+This	DEMP CAP DET
+demonstrates	VPRT PRIV
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+key	JJ
+part	NN
+of	PIN PREP
+making	PGAS
+cities	NN
+places	NN
+where	RB WHOBJ SCONJ WH
+people	NN
+want	VPRT
+to	PIN TO PREP
+live	INF
+,	
+especially	RB
+where	RB SCONJ WH
+high	JJ
+densities	NN
+are	PASS VPRT AUXB
+being	PASS AUXB
+encouraged	
+is	BEMA VPRT AUXB
+good	JJ
+quality	NOMZ
+design	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+city	NN
+centre	NN
+renewal	NN
+may	POMD
+be	AUXB INF
+way	NN
+of	PIN PREP
+providing	PGAS
+housing	NN
+for	PIN PREP
+many	QUAN JJ
+people	NN
+,	
+not	XX0 RB
+everyone	QUPR INPR
+wants	VPRT
+to	PIN TO PREP
+live	INF
+in	PIN CONJ PREP
+city	NN
+centres	NN
+;	
+families	NN
+often	RB
+want	VPRT
+to	PIN TO PREP
+move	SUAV INF
+to	PIN PREP
+the	ART DET
+suburbs	NN
+,	
+especially	RB
+those	DEMO DET
+with	PIN PREP
+children	NN
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+close	JJ PRED
+to	PIN TO PREP
+countryside	INF
+and	CCONJ
+have	INF
+space	NN
+for	PIN PREP
+gardens	NN
+etc	X
+.	
+So	RB CAP
+no	RB
+matter	RB
+how	RB SCONJ WH
+successful	JJ
+the	ART DET
+urban	JJ
+renaissance	NN
+is	VPRT AUXB
+,	
+some	QUAN DET
+people	NN
+may	POMD SPAU
+always	RB
+want	INF
+to	PIN TO PREP
+live	INF
+in	PIN CONJ PREP
+the	ART DET
+suburbs	NN
+.	
+Conclusion	CAP NNP
+The	ART CAP DET
+problem	NN
+of	PIN PREP
+urban	JJ
+sprawl	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+ongoing	JJ
+one	NN
+.	
+Different	JJ CAP
+measures	NN
+have	VPRT PEAS
+been	PASS BYPA AUXB
+taken	
+by	PIN PREP
+planners	NN
+both	DET
+at	PIN PREP
+the	ART DET
+local	JJ
+and	PHC CCONJ
+national	JJ
+level	NN
+.	
+They	TPP3 CAP PRP SBJP
+have	VPRT PEAS
+had	
+a	ART DET INDA
+varying	JJ
+degree	NN
+of	PIN PREP
+success	NN
+;	
+whilst	OSUB PIN SCONJ PREP
+they	TPP3 PRP SBJP
+may	POMD
+reduce	INF
+urban	JJ
+sprawl	NN
+,	
+all	QUAN DET
+schemes	NN
+have	VPRT
+costs	NN
+and	PHC CCONJ
+benefits	NN
+to	PIN PREP
+different	JJ
+sectors	NN
+of	PIN PREP
+the	ART DET
+population	NOMZ
+,	
+the	ART DET
+environment	NOMZ
+and	CCONJ
+the	ART DET
+economy	NN
+.	
+The	ART CAP DET
+continuing	GER PGAS
+growth	NN
+of	PIN PREP
+the	ART DET
+population	NOMZ
+and	CCONJ
+the	ART DET
+demand	SUAV NN
+for	PIN PREP
+affordable	JJ
+housing	NN
+means	VPRT PRIV THATD
+this	DEMP DET
+is	BEMA VPRT AUXB
+an	ART DET INDA
+issue	NN
+that	TSUB WHSUB WH
+faces	VPRT
+planners	NN
+both	DET
+currently	RB
+and	ANDC CCONJ
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+.	
+As	PIN CONJ CAP PREP
+stated	PUBV
+by	PIN PREP
+Martin	CAP NNP
+Wolf	CAP NNP
+'	CONT QUOT
+we	FPP1 PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+have	INF
+a	ART DET INDA
+rising	PGAS
+population	NOMZ
+,	
+spacious	JJ
+housing	NN
+for	PIN PREP
+each	QUAN DET
+household	NN
+and	CCONJ
+an	ART DET INDA
+unchanged	JJ
+quantity	NOMZ
+of	PIN PREP
+un	JJ
+-	JJ
+developed	JJ
+countryside	NN
+.	
+'	CONT QUOT
+(	
+Cited	PASTP CAP
+in	PIN CONJ PREP
+Barker	CAP NNP
+,	
+2004	NUM
+)	

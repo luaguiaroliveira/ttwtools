@@ -1,0 +1,1160 @@
+# filename: SS_Economics_Essay_1_0080a_tx.txt
+token	tags
+This	DEMO CAP DET
+essay	NN
+discusses	VPRT
+the	ART DET
+consumer	NN
+behaviour	NN
+.	
+Factors	NN CAP
+that	DEMO WHOBJ WH
+influence	NN
+consumption	NOMZ
+will	PRMD
+be	PASS AUXB INF
+analysed	
+firstly	RB
+,	
+following	PGAS
+by	PIN PREP
+comparison	NN
+of	PIN PREP
+current	JJ
+income	NN
+with	PIN PREP
+expected	JJ PRIV
+future	JJ
+income	NN
+,	
+with	PIN PREP
+the	ART DET
+help	NN
+of	PIN PREP
+empirical	JJ
+data	NN
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+the	ART DET
+different	JJ
+responses	NN
+to	PIN PREP
+expectation	NOMZ
+and	CCONJ
+current	JJ
+income	NN
+on	PIN PREP
+consumption	NOMZ
+will	PRMD
+be	PASS AUXB INF
+examined	
+with	PIN PREP
+respect	NN
+to	PIN PREP
+certain	JJ
+groups	NN
+.	
+A	ART CAP DET INDA
+conclusion	NOMZ
+will	PRMD SPAU
+then	RB
+be	PASS AUXB INF
+drawn	
+.	
+Consumption	NOMZ CAP
+behaviour	NN
+depends	VPRT
+on	PIN PREP
+disposable	JJ
+income	NN
+Y	CAP NNP
+d	NNP
+,	
+i.e.	CONJ X
+income	NN
+minus	PIN CCONJ PREP
+tax	NN
+.	
+The	ART CAP DET
+higher	JJ CMADJ
+the	ART DET
+disposable	JJ
+income	NN
+,	
+the	ART DET
+higher	JJ CMADJ
+the	ART DET
+level	NN
+of	PIN PREP
+consumption	NOMZ
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+the	ART DET
+level	NN
+of	PIN PREP
+financial	JJ
+wealth	NN
+such	JJ
+as	PIN CONJ PREP
+accumulative	JJ
+savings	NN
+in	PIN CONJ PREP
+the	ART DET
+bank	NN
+,	
+the	ART DET
+value	NN
+of	PIN PREP
+stocks	NN
+and	PHC CCONJ
+bonds	NN
+owned	
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+housing	NN
+wealth	NN
+,	
+play	VPRT
+an	ART DET INDA
+important	JJ
+role	NN
+in	PIN CONJ PREP
+consumer	NN
+'s	
+behaviour	NN
+.	
+The	ART CAP DET
+sum	NN
+of	PIN PREP
+financial	JJ
+wealth	NN
+and	PHC CCONJ
+housing	NN
+wealth	NN
+is	PASS VPRT AUXB
+defined	
+as	PIN CONJ PREP
+nonhuman	JJ
+wealth	NN
+.	
+In	PIN CONJ CAP PREP
+contrast	NN
+,	
+the	ART DET
+sum	NN
+of	PIN PREP
+disposable	JJ
+income	NN
+is	PASS VPRT AUXB
+called	
+as	PIN CONJ PREP
+human	JJ
+wealth	NN
+.	
+Therefore	RB CONJ CAP
+,	
+the	ART DET
+total	JJ
+wealth	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+summation	NOMZ
+of	PIN PREP
+human	JJ
+and	PHC CCONJ
+nonhuman	JJ
+wealth	NN
+,	
+determines	VPRT PRIV SUAV
+the	ART DET
+consumption	NOMZ
+function	NOMZ
+.	
+Assume	PRIV CAP INF
+that	PIN THVC SCONJ PREP
+consumers	NN
+maximize	VPRT
+their	TPP3 PRP SBJP
+consumption	NOMZ
+utility	NOMZ
+subject	JJ
+to	PIN PREP
+a	ART DET INDA
+budget	NN
+constraint	NN
+that	TSUB WHSUB WH
+is	BEMA VPRT AUXB
+total	JJ
+wealth	NN
+.	
+Over	PIN CAP PREP
+a	ART DET INDA
+lifetime	NN
+,	
+we	FPP1 PRP SBJP
+will	PRMD
+spend	INF
+all	QUAN DET
+of	PIN PREP
+our	FPP1 PRP SBJP
+total	JJ
+wealth	NN
+on	PIN PREP
+goods	NN
+and	PHC CCONJ
+services	NN
+.	
+Hence	RB CONJ CAP
+,	
+the	ART DET
+lifetime	NN
+from	PIN PREP
+year	NN
+0	NUM
+to	PIN PREP
+year	NN
+N	CAP NNP
+,	
+consumption	NOMZ
+will	PRMD
+equal	INF
+to	PIN PREP
+the	ART DET
+sum	NN
+of	PIN PREP
+lifetime	NN
+disposable	JJ
+income	NN
+,	
+and	ANDC CCONJ
+initial	JJ
+wealth	NN
+,	
+less	RB CMADJ
+intended	SUAV
+inheritance	NN
+for	PIN PREP
+the	ART DET
+next	JJ
+generation	NOMZ
+.	
+The	ART CAP DET
+equation	NOMZ
+is	PASS VPRT AUXB
+written	PUBV
+as	PIN CONJ STPR PREP
+:	
+Σ	CAP NNP
+C	CAP NNP
+t	NN
+=	NNP
+Σ	CAP NNP
+Yt	CAP NNP
++	CCONJ
+(	
+W	CAP NNP
+o	NNP
+-	
+W	CAP NNP
+n	NNP
+)	
+.	
+Thus	RB CONJ CAP
+the	ART DET
+average	NN
+of	PIN PREP
+consumption	NOMZ
+each	QUAN DET
+year	NN
+during	PIN PREP
+the	ART DET
+lifetime	NN
+will	PRMD
+be	PASS AUXB INF
+calculated	PRIV
+as	PIN CONJ PREP
+total	JJ
+consumption	NOMZ
+divided	WZPAST
+by	PIN PREP
+the	ART DET
+number	NN
+of	PIN PREP
+years	NN
+N.	CAP NNP
+The	ART CAP DET
+sum	NN
+of	PIN PREP
+lifetime	NN
+disposable	JJ
+income	NN
+Yt	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+result	NN
+of	PIN PREP
+current	JJ
+disposable	JJ
+income	NN
+which	WHSUB DET WH
+is	PASS VPRT AUXB
+known	PRIV
+,	
+plus	PIN CCONJ PREP
+expected	PRIV
+future	JJ
+after	PIN STPR PREP
+-	
+tax	NN
+labour	JJ
+income	NN
+.	
+The	ART CAP DET
+implication	NOMZ
+of	PIN PREP
+the	ART DET
+equation	NOMZ
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+consumption	NOMZ
+today	TIME NN
+is	PASS VPRT BYPA SPAU AUXB
+not	XX0 RB
+only	DWNT RB
+determined	PRIV SUAV
+by	PIN PREP
+how	RB SCONJ WH
+much	QUAN RB
+we	FPP1 PRP SBJP
+earn	VPRT
+today	TIME NN
+,	
+but	CCONJ
+also	RB
+how	RB SCONJ WH
+much	QUAN RB
+we	FPP1 PRP SBJP
+expect	VPRT PRIV
+to	PIN TO PREP
+have	INF
+later	RB TIME
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+implication	NOMZ
+was	BEMA VBD AUXB
+the	ART DET
+correct	JJ
+,	
+should	NEMD
+we	FPP1 PRP SBJP
+spend	INF
+an	ART DET INDA
+amount	NN
+that	TSUB WHSUB WH
+excesses	VPRT
+the	ART DET
+current	JJ
+disposable	JJ
+income	NN
+,	
+simply	RB
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+expectation	NOMZ
+?	QUES
+Figure	NN CAP
+3	NUM
+Real	JJ EMPH CAP
+average	JJ
+house	NN
+price	NN
+(	
+1985	NUM
+prices	NN
+)	
+1968	NUM
+-	
+1989	NUM
+Before	PIN CAP PREP
+comparing	PGAS
+current	JJ
+income	NN
+with	PIN PREP
+expectations	NOMZ
+of	PIN PREP
+future	JJ
+income	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+worthy	JJ PRED
+examining	PGAS
+how	RB SCONJ WH
+expectations	NOMZ
+affect	VPRT
+consumption	NOMZ
+.	
+There	EX CAP
+are	VPRT AUXB
+two	NUM
+ways	NN
+.	
+Directly	RB CAP
+,	
+expectations	NOMZ
+affect	VPRT
+consumer	NN
+decisions	NOMZ
+through	PIN PREP
+human	JJ
+wealth	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+future	JJ
+income	NN
+.	
+If	COND PIN CAP SCONJ PREP
+consumers	NN
+expect	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+economy	NN
+will	PRMD
+do	PROD INF
+well	RB
+,	
+expected	PRIV
+future	JJ
+income	NN
+will	PRMD
+rise	INF
+,	
+leading	PGAS
+to	PIN PREP
+higher	JJ CMADJ
+consumption	NOMZ
+today	TIME NN
+.	
+Besides	RB PIN CAP PREP
+,	
+the	ART DET
+indirect	JJ
+way	NN
+is	BEMA VPRT AUXB
+via	PIN PREP
+nonhuman	JJ
+wealth	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+stocks	NN
+'	CONT QUOT
+value	NN
+,	
+bonds	NN
+and	PHC CCONJ
+housing	NN
+.	
+If	COND PIN CAP SCONJ PREP
+consumers	NN
+expect	VPRT PRIV
+the	ART DET
+values	NN
+of	PIN PREP
+these	DEMO DET
+assets	NN
+to	PIN TO PREP
+rise	INF
+,	
+they	TPP3 PRP SBJP
+will	PRMD
+increase	INF
+consumption	NOMZ
+now	RB TIME
+.	
+Let	CAP INF
+'s	PRP SBJP
+look	INF
+at	PIN PREP
+the	ART DET
+data	NN
+of	PIN PREP
+average	JJ
+house	NN
+prices	NN
+from	PIN PREP
+1968	NUM
+to	PIN PREP
+1989	NUM
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+which	DET WH
+is	PASS VPRT AUXB
+shown	PRIV
+in	PIN CONJ PREP
+Figure	CAP NNP
+(	
+1	NUM
+)	
+.	
+House	CAP NNP
+prices	NN
+increased	VBD
+significantly	RB
+over	PIN PREP
+the	ART DET
+period	NN
+,	
+with	PIN PREP
+a	ART DET INDA
+upward	JJ
+slopping	NN
+trend	NN
+,	
+despite	PIN SCONJ PREP
+some	QUAN DET
+fluctuations	NOMZ
+during	PIN PREP
+70s	NN
+and	CCONJ
+the	ART DET
+early	JJ TIME
+80s	NN
+.	
+From	PIN CAP PREP
+the	ART DET
+diagram	NN
+,	
+we	FPP1 PRP SBJP
+can	POMD
+see	PRIV INF
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+housing	NN
+boom	NN
+occurred	VBD
+with	PIN PREP
+a	ART DET INDA
+dramatic	JJ
+rise	NN
+in	PIN CONJ PREP
+house	NN
+prices	NN
+during	PIN PREP
+the	ART DET
+late	JJ TIME
+80s	NN
+.	
+Interestingly	RB CAP
+,	
+the	ART DET
+late	JJ TIME
+80s	NN
+was	PASS VBD BYPA AUXB
+characterized	
+by	PIN PREP
+rapid	JJ
+growth	NN
+of	PIN PREP
+consumer	NN
+expenditure	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+growth	NN
+rate	NN
+of	PIN PREP
+consumption	NOMZ
+was	BEMA VBD AUXB
+even	RB
+greater	JJ CMADJ
+than	PIN PREP
+the	ART DET
+growth	NN
+in	PIN CONJ PREP
+real	JJ EMPH
+personal	JJ
+income	NN
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+illustrated	
+in	PIN CONJ PREP
+Figure	CAP NNP
+(	
+2	NUM
+)	
+.	
+The	ART CAP DET
+message	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+traditional	JJ
+models	NN
+of	PIN PREP
+consumption	NOMZ
+that	TOBJ WHOBJ WH
+consumptions	NOMZ
+depend	VPRT
+on	PIN PREP
+current	JJ
+disposable	JJ
+income	NN
+seem	VPRT SMP
+no	RB
+longer	RB CMADJ
+able	JJ
+to	PIN TO PREP
+explain	PUBV INF
+the	ART DET
+full	JJ
+picture	NN
+of	PIN PREP
+consumer	NN
+behaviour	NN
+.	
+Figure	NN CAP
+1	NUM
+Annual	JJ CAP
+change	NN
+in	PIN CONJ PREP
+real	JJ
+consumer	NN
+spending	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+real	JJ EMPH
+personal	JJ
+disposable	JJ
+income	NN
+,	
+1968	NUM
+-	
+1988	NUM
+.	
+Source	NN CAP
+:	
+Figure	NN CAP
+(	
+1	NUM
+)	
+and	ANDC CCONJ
+(	
+2	X
+)	
+are	BEMA VPRT AUXB
+from	PIN PREP
+Alan	CAP NNP
+Carruth	CAP NNP
+and	PHC CCONJ
+Andrew	CAP NNP
+Henley	CAP NNP
+'s	
+"	QUOT
+Spending	CAP NNP
+,	
+Saving	CAP NNP
+and	CCONJ
+the	ART DET
+Housing	CAP NNP
+Market	CAP NNP
+"	QUOT
+©	NNP
+Economic	CAP NNP
+Review	CAP NNP
+,	
+8(1	NUM
+)	
+,	
+September	CAP NNP
+1990	NUM
+Is	BEMA VPRT AUXB CAP
+current	JJ
+income	NN
+more	RB EMPH CMADJ
+important	JJ
+than	PIN PREP
+expected	PRIV
+future	JJ
+income	NN
+?	QUES
+If	COND PIN CAP SCONJ PREP
+expectations	NOMZ
+are	BEMA VPRT AUXB
+of	PIN PREP
+greater	JJ CMADJ
+importance	NN
+,	
+people	NN
+will	PRMD SPAU
+surely	RB
+intend	SUAV INF
+to	PIN TO PREP
+borrow	INF
+a	ART DET INDA
+huge	JJ
+amount	NN
+of	PIN PREP
+money	NN
+for	PIN PREP
+today	TIME NN
+'s	
+living	NN
+,	
+according	PGAS
+to	PIN PREP
+the	ART DET
+forward	JJ
+looking	PGAS
+models	NN
+.	
+However	RB CONJ CAP
+,	
+what	WH
+happens	VPRT
+in	PIN CONJ PREP
+the	ART DET
+reality	NOMZ
+is	BEMA VPRT AUXB
+another	DET
+story	NN
+.	
+The	ART CAP DET
+reasons	PRIV NN
+are	BEMA VPRT AUXB
+the	ART DET
+followings	GER
+.	
+First	RB CAP
+of	PIN PREP
+all	QUAN DET
+,	
+there	EX
+are	VPRT AUXB
+liquidity	NOMZ
+constraints	NN
+that	PIN TOBJ SCONJ PREP
+you	SPP2 PRP SBJP
+are	BEMA VPRT AUXB
+unable	JJ PRED
+to	PIN TO PREP
+borrow	INF
+that	DEMO DET
+large	JJ
+amount	NN
+of	PIN PREP
+money	NN
+.	
+Banks	NN CAP
+feel	VPRT PRIV
+reluctant	JJ
+to	PIN TO PREP
+give	INF
+you	SPP2 PRP SBJP
+a	ART DET INDA
+loan	NN
+which	WHSUB DET WH
+is	BEMA VPRT AUXB
+a	EMPH ART DET INDA
+lot	NN
+more	JJ EMPH CMADJ
+than	PIN PREP
+your	SPP2 PRP SBJP
+current	JJ
+income	NN
+.	
+This	DEMO CAP DET
+probably	RB
+is	BEMA VPRT AUXB
+the	ART DET
+most	RB EMPH SPADJ
+obvious	JJ
+restriction	NOMZ
+preventing	GER WZPRES PGAS
+you	SPP2 PRP SBJP
+from	PIN PREP
+consumption	NOMZ
+based	WZPAST
+on	PIN PREP
+expectation	NOMZ
+.	
+Secondly	RB CAP
+,	
+consumers	NN
+personally	RB
+may	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+willing	JJ PRED
+to	PIN TO PREP
+spend	INF
+more	JJ EMPH CMADJ
+than	PIN PREP
+they	TPP3 PRP SBJP
+earn	VPRT
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+people	NN
+are	BEMA VPRT AUXB
+afraid	JJ PRED
+of	PIN PREP
+running	PGAS
+into	PIN PREP
+debts	NN
+that	PIN TOBJ SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+unable	JJ PRED
+to	PIN TO PREP
+repay	INF
+they	TPP3 PRP SBJP
+back	RB
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+the	ART DET
+fears	PRIV NN
+of	PIN PREP
+the	ART DET
+risks	NN
+involved	WZPAST
+are	BEMA VPRT AUXB
+greater	JJ PRED CMADJ
+than	PIN PREP
+the	ART DET
+possible	JJ
+utility	NOMZ
+gained	WZPAST
+from	PIN PREP
+consumption	NOMZ
+.	
+Another	CAP DET
+reason	PRIV NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+people	NN
+may	POMD SPAU
+not	XX0 RB
+consider	PRIV INF
+wealth	NN
+,	
+but	CCONJ
+only	DWNT RB
+consider	PRIV INF
+disposable	JJ
+income	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+function	NOMZ
+of	PIN PREP
+consumption	NOMZ
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+case	NN
+,	
+consumption	NOMZ
+will	PRMD
+depend	INF
+on	PIN PREP
+current	JJ
+income	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+very	AMP RB
+relevant	JJ
+with	PIN PREP
+many	QUAN JJ
+households	NN
+'	CONT QUOT
+consumption	NOMZ
+decisions	NOMZ
+:	
+a	ART DET INDA
+less	RB CMADJ
+forward	RB
+looking	PGAS
+way	NN
+.	
+Put	CAP INF
+in	PIN CONJ PREP
+other	JJ
+words	NN
+,	
+the	ART DET
+real	JJ
+world	NN
+restricts	VPRT
+the	ART DET
+effects	NN
+of	PIN PREP
+expectations	NOMZ
+on	PIN PREP
+consumption	NOMZ
+behaviour	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+current	JJ
+income	NN
+plays	VPRT
+a	ART DET INDA
+very	AMP RB
+vital	JJ
+role	NN
+in	PIN CONJ PREP
+determination	NOMZ
+of	PIN PREP
+spending	NN
+activities	NN
+,	
+simply	RB
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+best	JJ SPADJ
+signal	NN
+and	CCONJ
+real	JJ
+evidence	NN
+that	TSUB WHSUB WH
+satisfies	VPRT
+consumers	NN
+themselves	TPP3 PRP SBJP ACCU
+and	CCONJ
+other	JJ
+third	JJ
+parties	NN
+such	JJ
+as	PIN CONJ PREP
+banks	NN
+to	PIN TO PREP
+make	INF
+decisions	NOMZ
+.	
+The	ART CAP DET
+question	NOMZ
+we	FPP1 PRP SBJP
+are	VPRT AUXB
+going	PGAS
+to	PIN TO PREP
+ask	SUAV INF
+is	BEMA VPRT AUXB
+to	PIN PREP
+what	WH
+extend	INF
+the	ART DET
+expectations	NOMZ
+affect	VPRT
+consumptions	NOMZ
+,	
+and	ANDC CCONJ
+apparently	RB
+to	PIN PREP
+what	WH
+extend	INF
+the	ART DET
+current	JJ
+disposable	JJ
+income	NN
+matters	NN
+.	
+It	PIT CAP PRP SBJP
+depends	VPRT
+on	PIN PREP
+the	ART DET
+participants	NN
+referred	VBD
+to	PIN STPR PREP
+.	
+Some	QUAN CAP DET
+consumers	NN
+with	PIN PREP
+a	ART DET INDA
+low	JJ
+paid	
+wage	NN
+tend	VPRT
+to	PIN TO PREP
+have	INF
+more	JJ EMPH CMADJ
+difficulty	NN
+to	PIN TO PREP
+get	INF
+a	ART DET INDA
+loan	NN
+,	
+are	BEMA VPRT AUXB
+very	AMP RB
+likely	JJ
+to	PIN TO PREP
+make	INF
+consumption	NOMZ
+decisions	NOMZ
+based	WZPAST
+on	PIN PREP
+their	TPP3 PRP SBJP
+current	JJ
+income	NN
+,	
+even	RB
+though	CONC PIN SCONJ PREP
+they	TPP3 PRP SBJP
+expect	VPRT PRIV
+a	ART DET INDA
+fantastic	JJ
+future	NN
+.	
+In	PIN CONJ CAP PREP
+contrast	NN
+,	
+people	NN
+with	PIN PREP
+higher	JJ CMADJ
+paid	
+salaries	NN
+and	CCONJ
+wealthier	JJ CMADJ
+can	POMD
+get	INF
+access	NN
+to	PIN PREP
+credits	NN
+easier	JJ CMADJ
+,	
+and	ANDC CCONJ
+the	ART DET
+future	JJ
+expectation	NOMZ
+may	POMD
+play	INF
+a	ART DET INDA
+greater	JJ CMADJ
+part	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+consumption	NOMZ
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+current	JJ
+income	NN
+.	
+Another	CAP DET
+interesting	JJ
+group	NN
+is	VPRT AUXB
+retirees	NN
+.	
+Those	DEMP CAP DET
+who	WHQU WH
+retire	VPRT
+have	VPRT
+zero	NUM
+current	JJ
+income	NN
+,	
+but	CCONJ
+live	VPRT
+on	PIN PREP
+accumulative	JJ
+wealth	NN
+such	JJ
+as	PIN CONJ PREP
+savings	NN
+and	PHC CCONJ
+pensions	NOMZ
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+case	NN
+,	
+expectations	NOMZ
+have	VPRT
+greater	JJ CMADJ
+importance	NN
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+both	CCONJ
+wealth	NN
+and	CCONJ
+current	JJ
+income	NN
+affect	VPRT
+consumption	NOMZ
+,	
+but	CCONJ
+to	PIN PREP
+different	JJ
+extend	NN
+.	
+Expectations	NOMZ CAP
+seem	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+less	RB CMADJ
+realistic	JJ
+,	
+whereas	OSUB PIN SCONJ PREP
+current	JJ
+incomes	NN
+can	POMD
+give	INF
+the	ART DET
+best	JJ SPADJ
+signal	NN
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+available	JJ PRED
+immediately	RB TIME
+.	
+These	DEMO CAP DET
+characteristics	NN
+allow	VPRT SUAV
+current	JJ
+income	NN
+to	PIN TO PREP
+have	INF
+substantial	JJ
+influence	NN
+on	PIN PREP
+consumer	NN
+behaviour	NN
+in	PIN CONJ PREP
+general	JJ
+.	
+Different	JJ CAP
+groups	NN
+may	POMD
+have	INF
+different	JJ
+reaction	NOMZ
+to	PIN PREP
+expectations	NOMZ
+and	CCONJ
+current	JJ
+income	NN
+on	PIN PREP
+consumption	NOMZ
+decisions	NOMZ
+.	

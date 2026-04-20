@@ -1,0 +1,1261 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2474.1320.txt
+token	tags
+    	
+The	ART CAP DET
+number	NN
+of	PIN PREP
+political	JJ
+regimes	NN
+with	PIN PREP
+democratic	JJ
+foundations	NOMZ
+has	VPRT PEAS
+grown	
+at	PIN PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+twentieth	JJ
+century	NN
+,	
+raising	PGAS
+questions	NOMZ
+about	PIN PREP
+the	ART DET
+characteristics	NN
+of	PIN PREP
+each	QUAN DET
+type	NN
+of	PIN PREP
+regime	NN
+and	CCONJ
+going	PGAS
+deeper	RB CMADJ
+,	
+seeking	PGAS
+to	PIN TO PREP
+identify	INF
+the	ART DET
+ideal	JJ
+type	NN
+.	
+But	CAP CCONJ
+before	PIN PREP
+thinking	PRIV PGAS
+about	PIN PREP
+which	PIRE DET WH
+type	NN
+would	PRMD
+be	AUXB INF
+best	JJ PRED SPADJ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+clarify	INF
+the	ART DET
+characteristics	NN
+of	PIN PREP
+each	QUAN DET
+type	NN
+of	PIN PREP
+regime	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+dichotomy	NN
+between	PIN PREP
+presidentialism	NN
+and	PHC CCONJ
+parliamentarism	NN
+has	VPRT PEAS SPAU
+historically	RB
+been	BEMA AUXB
+the	ART DET
+focus	NN
+of	PIN PREP
+academic	JJ
+work	NN
+on	PIN PREP
+constitution	NOMZ
+design	NN
+,	
+the	ART DET
+choice	NN
+of	PIN PREP
+some	QUAN DET
+countries	NN
+,	
+especially	RB
+during	PIN PREP
+the	ART DET
+democratization	NOMZ
+process	NN
+by	PIN PREP
+hybrid	JJ
+systems	NN
+,	
+has	VPRT PEAS
+drawn	
+attention	NOMZ
+by	PIN PREP
+highlighting	GER PGAS
+its	PIT PRP SBJP
+relevance	NN
+.	
+ 	
+During	PIN CAP PREP
+the	ART DET
+process	NN
+of	PIN STPR PREP
+(	
+re)democratization	NOMZ
+,	
+many	QUAN JJ
+issues	NN
+related	WZPAST
+to	PIN PREP
+institutional	JJ
+incentives	NN
+for	PIN PREP
+maintaining	GER PUBV THATD PGAS
+stability	NOMZ
+emerged	VBD
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+the	ART DET
+socioeconomic	JJ
+impact	NN
+that	TOBJ WHOBJ WH
+systems	NN
+changes	NN
+may	POMD
+entail	INF
+.	
+ 	
+According	CAP PGAS
+to	PIN PREP
+John	CAP NNP
+Carey	CAP NNP
+(	
+2005	NUM
+)	
+,	
+the	ART DET
+major	JJ
+consequence	NN
+of	PIN PREP
+this	DEMO DET
+transition	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+attention	NOMZ
+focus	NN
+on	PIN PREP
+issues	NN
+about	PIN PREP
+constitutional	JJ
+rules	SUAV NN
+,	
+in	PIN CONJ PREP
+other	JJ
+words	NN
+,	
+about	PIN PREP
+the	ART DET
+conformation	NOMZ
+of	PIN PREP
+these	DEMO DET
+new	JJ
+democracies	NN
+.	
+ 	
+After	RB CAP
+all	QUAN RB
+,	
+the	ART DET
+constitutional	JJ
+design	NN
+of	PIN PREP
+contemporary	JJ
+democracies	NN
+can	POMD
+range	INF
+through	PIN PREP
+the	ART DET
+combination	NOMZ
+of	PIN PREP
+its	PIT PRP SBJP
+components	NN
+,	
+which	SERE DET WH
+according	PGAS
+to	PIN PREP
+Antonio	CAP NNP
+Cintra	CAP NNP
+,	
+prevents	VPRT
+the	ART DET
+construction	NOMZ
+of	PIN PREP
+a	ART DET INDA
+ 	
+(	
+2007	NUM
+,	
+p.	NN
+37	NUM
+)	
+.	
+ 	
+The	ART CAP DET
+constitutional	JJ
+design	NN
+has	VPRT
+many	QUAN JJ
+important	JJ
+aspects	NN
+that	DEMO WHOBJ WH
+impact	NN
+stability	NOMZ
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+fundamental	JJ
+aspects	NN
+,	
+for	PIN PREP
+John	CAP NNP
+Carey	CAP NNP
+(	
+2005	NUM
+)	
+,	
+is	BEMA VPRT AUXB
+the	ART DET
+choice	NN
+between	PIN PREP
+parliamentary	JJ
+,	
+presidential	JJ
+,	
+or	CCONJ
+a	ART DET INDA
+hybrid	JJ
+format	NN
+of	PIN PREP
+government	NOMZ
+.	
+However	RB CONJ CAP
+,	
+what	WHQU WH
+is	BEMA VPRT AUXB
+the	ART DET
+hybrid	JJ
+format	NN
+?	QUES
+Is	VPRT AUXB CAP
+there	EX
+an	ART DET INDA
+academic	JJ
+consensus	NN
+about	PIN PREP
+this	DEMO DET
+concept	NN
+?	QUES
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+,	
+the	ART DET
+theoretical	JJ
+discussion	NOMZ
+of	PIN PREP
+the	ART DET
+idea	NN
+of	PIN PREP
+a	ART DET INDA
+hybrid	JJ
+format	NN
+will	PRMD
+be	PASS AUXB INF
+exposed	
+to	PIN TO PREP
+show	PRIV INF
+its	PIT PRP SBJP
+importance	NN
+and	PHC CCONJ
+complexity	NOMZ
+,	
+seeing	PRIV PRESP PGAS
+that	THVC DET
+for	PIN PREP
+Robert	CAP NNP
+Elgie	CAP NNP
+:	
+ 	
+(	
+1998	NUM
+,	
+p.	NN
+220	NUM
+)	
+.	
+Initially	RB TIME CAP
+,	
+t	NNP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+resume	INF
+the	ART DET
+concept	NN
+of	PIN PREP
+Parliamentarism	CAP NNP
+and	PHC CCONJ
+Presidentialism	CAP NNP
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+idea	NN
+of	PIN PREP
+the	ART DET
+hybrid	NN
+since	OSUB PIN SCONJ PREP
+ 	
+(	
+Elgie	CAP NNP
+,	
+2004	NUM
+,	
+p.	NN
+3	NUM
+)	
+.	
+ 	
+The	ART CAP DET
+distinction	NOMZ
+about	PIN PREP
+these	DEMO DET
+two	NUM
+regimes	NN
+types	NN
+,	
+according	PGAS
+to	PIN PREP
+John	CAP NNP
+Carey	CAP NNP
+(	
+2005	NUM
+)	
+,	
+is	PASS VPRT AUXB
+based	
+on	PIN PREP
+the	ART DET
+origin	NN
+and	CCONJ
+the	ART DET
+survival	NN
+of	PIN PREP
+the	ART DET
+popular	JJ
+branches	NN
+.	
+Under	PIN CAP PREP
+de	PIN PREP
+parliamentary	JJ
+system	NN
+,	
+according	PGAS
+to	PIN PREP
+Carey	CAP NNP
+,	
+ 	
+while	OSUB PIN SCONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+presidential	JJ
+system	NN
+the	ART DET
+origin	NN
+of	PIN PREP
+these	DEMO DET
+two	NUM
+branches	NN
+are	VPRT AUXB
+ 	
+(	
+2005	NUM
+,	
+p.92	NN
+)	
+.	
+ 	
+About	PIN CAP PREP
+survival	NN
+,	
+in	PIN CONJ PREP
+Parliamentarism	CAP NNP
+the	ART DET
+executive	NN
+needs	VPRT
+the	ART DET
+legislative	JJ
+confidence	NN
+to	PIN TO PREP
+remain	INF
+in	PIN CONJ PREP
+the	ART DET
+power	NN
+,	
+meaning	PRIV PGAS
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+needs	VPRT
+the	ART DET
+approval	NN
+of	PIN PREP
+an	ART DET INDA
+assembly	NN
+majority	NOMZ
+.	
+However	RB CONJ CAP
+,	
+like	PIN PREP
+Carey	CAP NNP
+shows	VPRT PRIV
+,	
+usually	RB
+this	DEMO DET
+dependence	NN
+is	BEMA VPRT AUXB
+mutual	JJ PRED
+,	
+therefore	RB CONJ
+Parliamentarism	CAP NNP
+is	PASS VPRT AUXB
+distinguished	
+from	PIN PREP
+Presidentialism	CAP NNP
+for	PIN PREP
+having	PGAS
+the	ART DET
+powers	NN
+fused	
+,	
+rather	RB CONJ
+than	PIN PREP
+separated	
+.	
+Beyond	PIN CAP PREP
+this	DEMO DET
+separation	NOMZ
+of	PIN PREP
+the	ART DET
+power	NN
+,	
+in	PIN CONJ PREP
+accordance	NN
+withCarey	NNP
+(	
+2005	NUM
+)	
+,	
+in	PIN CONJ PREP
+Presidentialism	CAP NNP
+the	ART DET
+person	NN
+who	WHSUB WH
+is	PASS VPRT AUXB
+elected	
+to	PIN PREP
+the	ART DET
+executive	JJ
+branch	NN
+names	NN
+and	CCONJ
+directs	VPRT
+the	ART DET
+composition	NOMZ
+government	NOMZ
+,	
+which	SERE DET WH
+reinforces	VPRT
+the	ART DET
+idea	NN
+of	PIN PREP
+separation	NOMZ
+.	
+ 	
+When	RB CAP SCONJ WH
+the	ART DET
+debate	NN
+about	PIN PREP
+the	ART DET
+regime	NN
+types	NN
+started	VBD
+,	
+Presidentialism	CAP NNP
+was	PASS VBD SPAU AUXB
+strongly	AMP RB
+criticized	
+.	
+The	ART CAP DET
+most	RB EMPH SPADJ
+influential	JJ
+author	NN
+that	TSUB WHSUB WH
+promotes	VPRT
+these	DEMO DET
+critics	NN
+was	VBD AUXB
+Juan	CAP NNP
+Linz	CAP NNP
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+work	NN
+“	
+The	ART CAP DET
+Perils	CAP NNP
+of	PIN PREP
+Presidentialism	CAP NNP
+”	
+,	
+in	PIN CONJ PREP
+1990	NUM
+.	
+The	ART CAP DET
+author	NN
+indicates	VPRT PRIV
+Parliamentarism	CAP NNP
+to	PIN PREP
+the	ART DET
+new	JJ
+Latin	JJ CAP
+American	JJ CAP
+democracies	NN
+,	
+because	CAUS PIN SCONJ PREP
+he	TPP3 PRP SBJP
+believed	VBD PRIV
+that	PIN THVC SCONJ PREP
+Presidentialism	CAP NNP
+was	BEMA VBD AUXB
+more	RB EMPH CMADJ
+prone	JJ
+to	PIN PREP
+democratic	JJ
+breakdown	NN
+than	PIN PREP
+Parliamentarism	CAP NNP
+,	
+as	PIN CONJ PREP
+John	CAP NNP
+Carey	CAP NNP
+states	VPRT PUBV
+:	
+ 	
+The	ART CAP DET
+central	JJ
+elements	NOMZ
+of	PIN PREP
+Linz	CAP NNP
+'s	
+case	NN
+against	PIN PREP
+Presidentialism	CAP NNP
+are	BEMA VPRT AUXB
+twofold	JJ PRED
+.	
+First	RB CAP
+,	
+Presidentialism	CAP NNP
+lacks	VPRT
+Parliamentarism	CAP NNP
+'s	
+safety	NN
+valve	NN
+,	
+the	ART DET
+confidence	NN
+vote	SUAV NN
+,	
+that	DEMP WH
+allows	VPRT SUAV
+for	PIN PREP
+the	ART DET
+removal	NN
+of	PIN PREP
+a	ART DET INDA
+government	NOMZ
+from	PIN PREP
+office	NN
+in	PIN CONJ PREP
+the	ART DET
+event	NN
+of	PIN PREP
+a	ART DET INDA
+crisis	NN
+without	PIN PREP
+discarding	GER PGAS
+the	ART DET
+constitution	NOMZ
+.	
+Second	RB CAP
+,	
+Presidentialism	CAP NNP
+creates	VPRT
+incentives	NN
+and	PHC CCONJ
+conditions	NOMZ
+that	TSUB WHSUB WH
+encourage	VPRT
+such	JJ
+crises	NN
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+place	NN
+,	
+and	ANDC CCONJ
+particularly	RB
+that	DEMP DET
+aggravate	VPRT
+the	ART DET
+relationship	NN
+between	PIN PREP
+the	ART DET
+executive	NN
+and	CCONJ
+the	ART DET
+legislature	NN
+(	
+Carey	CAP NNP
+,	
+2005	NUM
+,	
+p.	NN
+94	NUM
+)	
+.	
+ 	
+Then	RB CAP
+,	
+an	ART DET INDA
+academic	JJ
+consensus	NN
+in	PIN CONJ PREP
+favor	NN
+of	PIN PREP
+to	PIN PREP
+Parliamentarism	CAP NNP
+was	PASS VBD BYPA AUXB
+generated	
+by	PIN PREP
+the	ART DET
+time	NN
+,	
+nevertheless	RB CONJ
+,	
+the	ART DET
+political	JJ
+world	NN
+was	VBD AUXB
+moving	SUAV PGAS
+to	PIN PREP
+another	DET
+direction	NOMZ
+ 	
+(	
+Carey	CAP NNP
+,	
+2005	NUM
+,	
+p.	NN
+95	NUM
+)	
+.	
+Briefly	RB CAP
+,	
+the	ART DET
+new	JJ
+democracies	NN
+were	PASS VBD AUXB
+established	PRIV
+mostly	RB
+in	PIN CONJ PREP
+presidential	JJ
+or	CCONJ
+hybrid	JJ
+systems	NN
+.	
+ 	
+Many	QUAN JJ CAP
+constitutional	JJ
+regimes	NN
+combined	
+elements	NOMZ
+from	PIN PREP
+both	DET
+regimes	NN
+types	NN
+–	
+parliamentary	JJ
+and	PHC CCONJ
+presidential	JJ
+,	
+that	WHQU DEMP WH
+is	PASS VPRT AUXB
+called	
+hybrid	JJ
+,	
+although	CONC PIN SCONJ PREP
+the	ART DET
+concept	NN
+of	PIN PREP
+this	DEMO DET
+blend	NN
+has	VPRT PEAS
+been	BEMA AUXB
+particularly	RB
+prone	JJ
+to	PIN PREP
+definitional	JJ
+problems	NN
+(	
+Elgie	CAP NNP
+,	
+2004	NUM
+)	
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+way	NN
+to	PIN TO PREP
+unite	INF
+the	ART DET
+knowledge	NN
+hitherto	NN
+developed	
+,	
+Robert	CAP NNP
+Elgie	CAP NNP
+identified	VBD
+three	NUM
+types	NN
+of	PIN PREP
+definition	NOMZ
+of	PIN PREP
+hybrid	NN
+,	
+which	SERE DET WH
+he	TPP3 PRP SBJP
+called	VBD
+semi	JJ
+-	NN
+presidentialism	NN
+,	
+in	PIN CONJ PREP
+the	ART DET
+literature	NN
+.	
+ 	
+The	ART CAP DET
+three	NUM
+concepts	NN
+exposed	WZPAST
+by	PIN PREP
+Elgie	CAP NNP
+show	VPRT PRIV
+a	ART DET INDA
+progressive	JJ
+development	NOMZ
+of	PIN PREP
+the	ART DET
+theme	NN
+.	
+The	ART CAP DET
+first	JJ
+type	NN
+of	PIN PREP
+definition	NOMZ
+of	PIN PREP
+the	ART DET
+hybrid	NN
+,	
+which	SERE WHQU DET WH
+was	PASS VBD AUXB
+based	
+in	PIN CONJ PREP
+the	ART DET
+works	NN
+of	PIN PREP
+Patrick	CAP NNP
+O’Neil	CAP NNP
+,	
+is	VPRT AUXB
+one	NUM
+ 	
+(	
+Elgie	CAP NNP
+,	
+2004	NUM
+,	
+p.3	NN
+)	
+.	
+The	ART CAP DET
+second	JJ
+was	PASS VBD AUXB
+based	
+on	PIN PREP
+Maurice	CAP NNP
+Duverger	CAP NNP
+’s	
+view	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+divided	
+into	PIN PREP
+three	NUM
+parts	NN
+:	
+the	ART DET
+election	NOMZ
+by	PIN PREP
+universal	JJ
+suffrage	NN
+of	PIN PREP
+a	ART DET INDA
+president	NN
+;	
+this	DEMP DET
+elected	
+president	NN
+has	VPRT
+many	QUAN JJ
+powers	NN
+;	
+and	ANDC CCONJ
+,	
+he	TPP3 PRP SBJP
+has	VPRT
+a	ART DET INDA
+prime	JJ
+minister	NN
+and	PHC CCONJ
+ministers	NN
+as	PIN CONJ PREP
+opposition	NOMZ
+.	
+These	DEMO CAP DET
+first	JJ
+two	NUM
+conceptualizations	NOMZ
+have	VPRT
+the	ART DET
+figure	NN
+of	PIN PREP
+the	ART DET
+president	NN
+with	PIN PREP
+power	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+necessary	JJ
+criterion	NN
+,	
+which	SERE DET WH
+significantly	RB
+reduces	VPRT
+the	ART DET
+number	NN
+of	PIN PREP
+countries	NN
+that	TSUB WHSUB WH
+can	POMD
+be	PASS AUXB INF
+viewed	
+as	PIN CONJ PREP
+hybrids	NN
+and	CCONJ
+ 	
+(	
+Elgie	CAP NNP
+,	
+2004	NUM
+,	
+p.4	NN
+)	
+.	
+Therefore	RB CONJ CAP
+,	
+the	ART DET
+third	JJ
+type	NN
+presented	WZPAST
+by	PIN PREP
+Elgie	CAP NNP
+(	
+2004	NUM
+)	
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+definition	NOMZ
+made	WZPAST
+by	PIN PREP
+himself	TPP3 PRP SBJP ACCU
+,	
+should	NEMD
+be	PASS BYPA AUXB INF
+defined	
+by	PIN PREP
+the	ART DET
+dispositional	JJ
+properties	NN
+of	PIN PREP
+regime	NN
+types	NN
+alone	RB
+,	
+wherein	RB SCONJ WH
+the	ART DET
+president	NN
+must	NEMD
+be	PASS SPAU AUXB INF
+popularly	RB
+elected	
+,	
+and	ANDC CCONJ
+exist	INF
+alongside	PIN PLACE PREP
+a	ART DET INDA
+prime	JJ
+minister	NN
+and	PHC CCONJ
+cabinet	NN
+.	
+Lastly	RB CAP
+,	
+this	DEMO DET
+type	NN
+of	PIN PREP
+definition	NOMZ
+removes	VPRT
+the	ART DET
+characteristic	NN
+of	PIN PREP
+subjectivity	NOMZ
+of	PIN PREP
+the	ART DET
+analysis	NN
+,	
+because	CAUS PIN SCONJ PREP
+if	COND PIN SCONJ PREP
+requires	VPRT SUAV
+no	SYNE DET
+judgment	NOMZ
+about	PIN PREP
+a	ART DET INDA
+powerful	JJ
+president	NN
+or	CCONJ
+the	ART DET
+opposition	NOMZ
+of	PIN PREP
+the	ART DET
+two	NUM
+branches	NN
+.	
+  	
+Even	RB CAP
+though	CONC PIN SCONJ PREP
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+single	JJ
+concept	NN
+about	PIN PREP
+the	ART DET
+hybrids	NN
+,	
+this	DEMO DET
+system	NN
+has	VPRT PEAS
+grown	
+around	PIN PLACE PREP
+the	ART DET
+world	NN
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+presidentialism	NN
+itself	PIT PRP SBJP ACCU
+,	
+which	SERE DET WH
+contradicts	VPRT
+the	ART DET
+negative	JJ
+view	NN
+of	PIN PREP
+presidentialism	NN
+,	
+and	ANDC CCONJ
+parliamentary	JJ
+supremacy	NN
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+result	NN
+,	
+the	ART DET
+expansion	NOMZ
+of	PIN PREP
+countries	NN
+that	TSUB WHSUB WH
+present	VPRT
+the	ART DET
+plan	NN
+called	
+hybrid	JJ
+confirms	VPRT PUBV
+Antonio	CAP NNP
+Cintra	CAP NNP
+’s	
+view	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+use	NN
+of	PIN PREP
+only	DWNT RB
+two	NUM
+systems	NN
+would	PRMD
+be	BEMA AUXB INF
+only	DWNT RB
+a	ART DET INDA
+simplification	NOMZ
+(	
+2007	NUM
+,	
+37	NUM
+)	
+.	
+Understanding	GER PRIV PRESP CAP PGAS
+the	ART DET
+constitutional	JJ
+choices	NN
+that	TSUB WHSUB WH
+characterize	VPRT
+regimes	NN
+can	POMD
+ensure	PRIV SUAV INF
+their	TPP3 PRP SBJP
+maintenance	NN
+and	CCONJ
+prevent	INF
+democratic	JJ
+breakdowns	NN
+.	
+ 	
+As	PIN CONJ CAP PREP
+noted	PRIV
+,	
+many	QUAN JJ
+details	NN
+influence	VPRT
+the	ART DET
+categorization	NOMZ
+of	PIN PREP
+a	ART DET INDA
+regime	NN
+type	NN
+.	
+Therefore	RB CONJ CAP
+,	
+choosing	PRESP PGAS
+one	NUM
+type	NN
+as	PIN CONJ PREP
+ideal	JJ
+over	PIN PREP
+others	NN
+can	POMD
+lead	INF
+to	PIN PREP
+institutional	JJ
+choices	NN
+that	TSUB WHSUB WH
+generate	VPRT
+instability	NOMZ
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+best	JJ PRED SPADJ
+to	PIN TO SPIN PREP
+deeply	RB
+understand	PRIV INF
+the	ART DET
+institutional	JJ
+and	PHC CCONJ
+cultural	JJ
+reality	NOMZ
+of	PIN PREP
+a	ART DET INDA
+system	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO STPR PREP
+(	
+re)design	INF
+the	ART DET
+constitutional	JJ
+features	NN
+of	PIN PREP
+a	ART DET INDA
+regime	NN
+.	
+  	
+The	ART CAP DET
+transition	NOMZ
+towards	PIN PREP
+democracy	NN
+,	
+which	SERE WHQU DET WH
+has	VPRT PEAS
+been	PASS AUXB
+called	
+the	ART DET
+“	
+Third	CAP NNP
+Wave	CAP NNP
+of	PIN PREP
+Democracy	CAP NNP
+”	
+,	
+was	PASS VBD AUXB
+composed	
+of	PIN PREP
+two	NUM
+main	JJ
+trends	NN
+.	
+The	ART CAP DET
+first	JJ
+one	NN
+is	BEMA VPRT AUXB
+the	ART DET
+establishment	NOMZ
+of	PIN PREP
+democracy	NN
+in	PIN CONJ PREP
+countries	NN
+that	TSUB WHSUB WH
+did	VBD SPAU
+not	XX0 RB
+have	INF
+these	DEMO DET
+experiences	NN
+previously	RB TIME
+–	
+this	DEMO DET
+process	NN
+is	PASS VPRT AUXB
+called	
+democratization	NOMZ
+.	
+The	ART CAP DET
+second	JJ
+one	NN
+is	BEMA VPRT AUXB
+the	ART DET
+re	PIN NN PREP
+-	NN
+establishment	NOMZ
+of	PIN PREP
+democracy	NN
+in	PIN CONJ PREP
+countries	NN
+that	TSUB WHSUB WH
+are	VPRT AUXB
+no	RB
+longer	RB CMADJ
+a	ART DET INDA
+part	NN
+of	PIN PREP
+European	JJ CAP
+and	PHC CCONJ
+Soviet	JJ CAP
+communism	NN
+,	
+and	ANDC CCONJ
+others	NN
+that	TSUB WHSUB WH
+had	VBD
+periods	NN
+of	PIN PREP
+authoritarianism	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+Latin	JJ CAP
+American	JJ CAP
+countries	NN
+–	
+this	DEMO DET
+process	NN
+is	PASS VPRT AUXB
+called	
+re	PIN NN PREP
+-	NN
+democratization	NOMZ
+.	
+    	
+To	PIN TO CAP PREP
+deepen	INF
+on	PIN PREP
+the	ART DET
+subject	NN
+of	PIN PREP
+the	ART DET
+gap	NN
+between	PIN PREP
+theory	NN
+and	PHC CCONJ
+practice	NN
+against	PIN PREP
+presidenialism	NN
+,	
+consult	INF
+Carey	CAP NNP
+(	
+2005	NUM
+)	
+,	
+who	WH
+present	VPRT
+examples	NN
+of	PIN PREP
+cases	NN
+that	TSUB WHSUB WH
+have	VPRT PEAS
+occurred	
+in	PIN CONJ PREP
+Latin	CAP NNP
+America	CAP NNP
+and	CCONJ
+post	JJ
+-	JJ
+Communist	JJ CAP
+countries	NN
+.	
+ 	

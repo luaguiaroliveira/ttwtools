@@ -1,0 +1,1511 @@
+# filename: AH_Philosophy_Essay_1_0057a_tx.txt
+token	tags
+Introduction	NOMZ CAP
+In	PIN CONJ STPR CAP PREP
+"	QUOT
+What	CAP WH
+Achilles	CAP NNP
+said	VBD PUBV
+to	PIN PREP
+the	ART DET
+tortoise	NN
+"	QUOT
+Lewis	CAP NNP
+Carroll	CAP NNP
+asks	VPRT SUAV
+for	PIN PREP
+a	ART DET INDA
+way	NN
+to	PIN TO PREP
+make	INF
+clear	JJ
+the	ART DET
+inherent	JJ
+"	QUOT
+truth	NN
+"	QUOT
+of	PIN PREP
+logical	JJ
+or	CCONJ
+analytic	JJ
+statements	NOMZ
+to	PIN PREP
+an	ART DET INDA
+observer	NN
+insensitive	JJ
+to	PIN PREP
+logical	JJ
+intuition	NOMZ
+.	
+Achilles	CAP NNP
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+this	DEMP DET
+can	POMD SPAU
+not	XX0 RB
+be	PASS BYPA AUXB INF
+accomplished	
+by	PIN PREP
+adding	PUBV PGAS
+instructive	JJ
+premises	NN
+to	PIN PREP
+an	ART DET INDA
+argument	NOMZ
+.	
+Rather	RB CONJ CAP
+,	
+the	ART DET
+"	QUOT
+truth	NN
+"	QUOT
+of	PIN PREP
+a	ART DET INDA
+valid	JJ
+argument	NOMZ
+is	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+be	BEMA AUXB INF
+inherent	JJ PRED
+in	PIN CONJ PREP
+the	ART DET
+logical	JJ
+form	NN
+or	CCONJ
+pattern	NN
+of	PIN PREP
+the	ART DET
+argument	NOMZ
+.	
+More	RB EMPH CAP CMADJ
+generally	RB
+,	
+the	ART DET
+question	NOMZ
+we	FPP1 PRP SBJP
+want	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+answer	INF
+objectively	RB
+seems	VPRT SMP
+to	PIN TO PREP
+be	AUXB INF
+is	BEMA VPRT AUXB
+this	DEMO DET
+or	CCONJ
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+valid	JJ
+argument	NOMZ
+?	QUES
+We	FPP1 CAP PRP SBJP
+want	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+say	PUBV INF
+yes	UH
+,	
+because	CAUS PIN SCONJ PREP
+or	CCONJ
+no	UH
+,	
+because	CAUS PIN STPR SCONJ PREP
+,	
+hold	PRIV INF
+something	QUPR INPR
+up	PIN STPR PREP
+,	
+and	ANDC CCONJ
+point	NN
+to	PIN PREP
+it	PIT PRP SBJP
+.	
+The	ART CAP DET
+question	NOMZ
+is	BEMA VPRT AUXB
+similar	JJ PRED
+to	PIN PREP
+the	ART DET
+question	NOMZ
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+sentence	NN
+grammatical	JJ
+or	CCONJ
+not	XX0 RB
+?	QUES
+in	PIN CONJ PREP
+the	ART DET
+sense	PRIV NN
+that	PIN TOBJ THVC SCONJ PREP
+an	ART DET INDA
+infinite	JJ
+number	NN
+of	PIN PREP
+novel	JJ
+sentences	NN
+may	POMD
+be	PASS AUXB INF
+checked	PRIV
+for	PIN PREP
+grammatical	JJ
+soundness	NOMZ
+even	RB
+though	CONC PIN SCONJ PREP
+grammatical	JJ
+rules	SUAV NN
+are	BEMA VPRT AUXB
+finite	JJ PRED
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+same	JJ
+way	NN
+most	RB EMPH SPADJ
+well	RB
+formulated	JJ
+arguments	NOMZ
+are	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+be	AUXB INF
+either	CCONJ
+valid	JJ
+or	CCONJ
+invalid	JJ
+,	
+although	CONC PIN SCONJ PREP
+Russell	CAP NNP
+and	CCONJ
+others	NN
+have	VPRT PEAS
+showed	PRIV
+by	PIN PREP
+debate	NN
+that	PIN TOBJ THVC SCONJ PREP
+some	QUAN DET
+sentences	NN
+(	
+e.g.	RB CONJ
+"	QUOT
+The	ART CAP DET
+present	JJ
+king	NN
+of	PIN PREP
+France	CAP NNP
+is	BEMA VPRT AUXB
+bald	JJ PRED
+"	QUOT
+)	
+may	POMD
+be	BEMA AUXB INF
+ambiguous	JJ PRED
+.	
+Still	RB CAP
+,	
+while	OSUB PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+clear	JJ PRED
+that	PIN THAC SCONJ PREP
+grammar	NN
+,	
+although	CONC PIN SCONJ PREP
+infinite	JJ
+in	PIN CONJ PREP
+scope	NN
+,	
+is	VPRT AUXB
+man	NN
+-	
+made	
+,	
+or	CCONJ
+at	PIN PREP
+any	QUAN DET
+rate	NN
+hard	RB
+-	
+wired	PASTP
+into	PIN PREP
+our	FPP1 PRP SBJP
+organisms	NN
+,	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+try	INF
+in	PIN CONJ PREP
+this	DEMO DET
+essay	NN
+to	PIN TO PREP
+defend	INF
+the	ART DET
+view	NN
+that	PIN DEMO SCONJ PREP
+logic	NN
+is	BEMA VPRT AUXB
+more	JJ PRED EMPH CMADJ
+than	PIN PREP
+that	DEMP DET
+-	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+feature	NN
+of	PIN PREP
+the	ART DET
+physical	JJ
+world	NN
+.	
+As	PIN CONJ CAP PREP
+such	JJ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+not	XX0 RB
+revisable	JJ
+as	PIN CONJ PREP
+thinkers	NN
+such	JJ
+as	PIN CONJ PREP
+WVO	CAP NNP
+Quine	CAP NNP
+will	PRMD
+have	INF
+us	FPP1 PRP SBJP ACCU
+believe	PRIV INF
+.	
+Admitting	PUBV CAP PGAS
+physical	JJ
+paradox	NN
+Consider	PRIV CAP INF
+the	ART DET
+following	PGAS
+piece	NN
+of	PIN PREP
+reasoning	PRIV NN
+:	
+The	ART CAP DET
+sun	NN
+is	VPRT AUXB
+shining	PGAS
+on	PIN PREP
+my	FPP1 PRP SBJP
+back	NN
+through	PIN PREP
+the	ART DET
+window	NN
+so	PIN SCONJ PREP
+there	EX
+must	NEMD
+be	BEMA AUXB INF
+no	SYNE DET
+clouds	NN
+covering	WZPRES PGAS
+the	ART DET
+sun	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+thinkers	NN
+like	PIN PREP
+Quine	CAP NNP
+(	
+I	FPP1 CAP PRP SBJP
+believe	VPRT PRIV
+)	
+this	DEMO DET
+sentence	NN
+is	VPRT AUXB
+not	XX0 RB
+completely	AMP RB
+reducible	JJ
+(	
+analytically	RB
+)	
+to	PIN PREP
+P	CAP NNP
+,	
+P->-Q	CAP NNP
+|-	NNP
+-Q.	UH
+The	ART CAP DET
+reason	PRIV NN
+being	BEMA WZPRES AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+sun	NN
+is	VPRT AUXB
+shining	PGAS
+on	PIN PREP
+my	FPP1 PRP SBJP
+back	NN
+can	POMD SPAU
+not	XX0 RB
+mean	PRIV INF
+that	PIN THVC SCONJ PREP
+no	SYNE DET
+clouds	NN
+are	VPRT AUXB
+covering	PGAS
+the	ART DET
+sun	NN
+(	
+or	CCONJ
+anything	QUPR INPR
+else	RB
+for	PIN PREP
+that	DEMO DET
+matter	NN
+)	
+.	
+Quine	JJ CAP
+imagines	PRIV NN
+that	PIN THVC SCONJ PREP
+in	PIN CONJ PREP
+all	QUAN DET
+possible	JJ
+worlds	NN
+a	ART DET INDA
+number	NN
+of	PIN PREP
+explanations	NOMZ
+could	POMD
+account	INF
+for	PIN PREP
+sunshine	NN
+on	PIN PREP
+my	FPP1 PRP SBJP
+back	NN
+:	
+two	NUM
+new	JJ
+suns	NN
+might	POMD
+have	PEAS SPAU INF
+suddenly	RB
+appeared	SMP
+in	PIN CONJ PREP
+the	ART DET
+sky	NN
+without	PIN PREP
+my	FPP1 PRP SBJP
+notice	PRIV NN
+,	
+rendering	PRESP PGAS
+the	ART DET
+clouds	NN
+a	ART DET INDA
+useless	JJ
+cover	NN
+;	
+a	ART DET INDA
+UV	NN CAP
+-	
+lamp	NN
+might	POMD
+have	PEAS INF
+been	PASS AUXB
+placed	
+just	RB EMPH
+outside	PIN PLACE PREP
+my	FPP1 PRP SBJP
+window	NN
+,	
+and	ANDC CCONJ
+so	RB
+on	RB PIN STPR PREP
+.	
+So	RB CAP
+far	RB PLACE
+I	FPP1 CAP PRP SBJP
+agree	VPRT PUBV SUAV
+with	PIN PREP
+Quine	CAP NNP
+.	
+All	QUAN CAP DET
+I	FPP1 CAP PRP SBJP
+can	POMD
+do	PROD INF
+in	PIN CONJ PREP
+my	FPP1 PRP SBJP
+attempts	NN
+to	PIN TO PREP
+know	PRIV INF
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+make	INF
+sure	JJ
+the	ART DET
+explanation	NOMZ
+I	FPP1 CAP PRP SBJP
+chose	VBD
+as	RB CONJ
+most	RB EMPH SPADJ
+likely	JJ
+coheres	NN
+logically	RB
+with	PIN PREP
+the	ART DET
+rest	NN
+of	PIN PREP
+my	FPP1 PRP SBJP
+beliefs	NN
+in	PIN CONJ PREP
+what	WH
+Quine	CAP NNP
+calls	VPRT
+my	FPP1 PRP SBJP
+"	QUOT
+web	NN
+of	PIN PREP
+beliefs	NN
+"	QUOT
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+more	RB EMPH CMADJ
+austere	JJ
+words	NN
+,	
+all	QUAN DET
+my	FPP1 PRP SBJP
+conclusions	NOMZ
+and	PHC CCONJ
+beliefs	NN
+are	VPRT AUXB
+and	CCONJ
+must	NEMD
+be	BEMA AUXB INF
+falsifiable	JJ PRED
+and	PHC CCONJ
+subject	JJ PRED
+to	PIN PREP
+revision	NOMZ
+.	
+However	RB CONJ CAP
+,	
+Quine	CAP NNP
+holds	VPRT PRIV
+the	ART DET
+idea	NN
+that	PIN DEMO SCONJ PREP
+not	XX0 RB
+only	DWNT RB
+are	BEMA VPRT AUXB
+all	QUAN DET
+statements	NOMZ
+subject	JJ
+to	PIN PREP
+possible	JJ
+error	NN
+and	PHC CCONJ
+revisability	NOMZ
+but	CCONJ
+so	RB
+is	VPRT AUXB
+logic	NN
+itself	PIT PRP SBJP ACCU
+.	
+What	WHQU CAP WH
+does	VPRT
+this	DEMO DET
+really	RB EMPH
+mean	PRIV INF
+?	QUES
+At	PIN CAP PREP
+the	ART DET
+most	RB EMPH SPADJ
+immediate	JJ
+level	NN
+,	
+if	COND PIN SCONJ PREP
+logic	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+be	PASS AUXB INF
+considered	PRIV
+revisable	JJ
+I	FPP1 CAP PRP SBJP
+think	VPRT PRIV
+Quine	CAP NNP
+would	PRMD
+have	INF
+to	PIN TO PREP
+allow	SUAV INF
+consideration	NOMZ
+of	PIN PREP
+a	ART DET INDA
+fundamentally	RB
+different	JJ
+explanation	NOMZ
+for	PIN PREP
+why	RB SCONJ WH
+sun	NN
+is	VPRT AUXB
+shining	PGAS
+on	PIN PREP
+my	FPP1 PRP SBJP
+back	NN
+:	
+that	PIN DEMO SCONJ PREP
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+sun	NN
+shining	WZPRES PGAS
+on	PIN PREP
+my	FPP1 PRP SBJP
+back	NN
+.	
+In	PIN CONJ CAP PREP
+my	FPP1 PRP SBJP
+opinion	NN
+,	
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+this	DEMO DET
+explanation	NOMZ
+must	NEMD
+follow	INF
+if	COND PIN SCONJ PREP
+one	PRP SBJP
+admits	VPRT PUBV
+the	ART DET
+revisability	NOMZ
+of	PIN PREP
+logic	NN
+.	
+But	CAP CCONJ
+to	PIN TO PREP
+admit	PUBV INF
+such	DET
+an	ART DET INDA
+explanation	NOMZ
+would	PRMD
+be	BEMA AUXB INF
+to	PIN TO PREP
+admit	PUBV INF
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+an	ART DET INDA
+existing	PGAS
+physical	JJ
+paradox	NN
+,	
+two	NUM
+contradictory	JJ
+events	NN
+existing	WZPRES PGAS
+and	CCONJ
+being	PASS AUXB
+observed	PRIV
+at	PIN PREP
+a	ART DET INDA
+singular	JJ
+moment	NOMZ
+in	PIN CONJ PREP
+time	NN
+,	
+an	ART DET INDA
+absurdity	NOMZ
+not	XX0 RB
+even	RB
+allowed	SUAV
+at	PIN PREP
+the	ART DET
+Quantum	CAP NNP
+level	NN
+.	
+Is	VPRT AUXB CAP
+Quine	CAP NNP
+really	RB EMPH
+arguing	PUBV PGAS
+for	PIN PREP
+the	ART DET
+revisability	NOMZ
+of	PIN PREP
+logic	NN
+?	QUES
+I	FPP1 CAP PRP SBJP
+still	RB
+want	VPRT
+to	PIN TO PREP
+believe	PRIV THATD INF
+he	TPP3 PRP SBJP
+is	VPRT AUXB
+not	XX0 RB
+,	
+but	CCONJ
+statements	NOMZ
+like	PIN STPR PREP
+"	QUOT
+even	RB
+pure	JJ
+mathematics	NN
+and	PHC CCONJ
+logic	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+man	NN
+-	
+made	
+fabric	NN
+"	QUOT
+have	VPRT PEAS
+confused	
+me	FPP1 PRP SBJP ACCU
+for	PIN PREP
+weeks	NN
+.	
+"	QUOT
+...	
+the	ART DET
+logical	JJ
+laws	NN
+being	BEMA WZPRES AUXB
+in	PIN CONJ PREP
+turn	NN
+simply	RB
+further	JJ
+statements	NOMZ
+of	PIN PREP
+the	ART DET
+system	NN
+"	QUOT
+states	PUBV NN
+Quine	CAP NNP
+while	OSUB PIN SCONJ PREP
+asserting	PUBV PGAS
+the	ART DET
+revisability	NOMZ
+of	PIN PREP
+that	DEMO DET
+very	AMP JJ
+system	NN
+on	PIN PREP
+the	ART DET
+basis	NN
+of	PIN PREP
+sensory	JJ
+experience	NN
+.	
+Any	QUAN CAP DET
+statement	NOMZ
+can	POMD
+be	PASS AUXB INF
+held	PRIV
+true	JJ
+come	INF
+what	WH
+may	POMD
+,	
+he	TPP3 PRP SBJP
+declares	VPRT PUBV
+,	
+and	ANDC CCONJ
+enthusiastically	RB
+goes	VPRT
+on	PIN PREP
+to	PIN TO PREP
+announce	PUBV INF
+that	PIN THVC SCONJ PREP
+even	RB
+revision	NOMZ
+of	PIN PREP
+the	ART DET
+logical	JJ
+law	NN
+of	PIN PREP
+the	ART DET
+excluded	
+middle	NN
+(	
+|-	NNP
+Pv	CAP NNP
+-	NNP
+P	NN CAP
+)	
+has	VPRT PEAS
+been	PASS AUXB
+proposed	SUAV
+as	PIN CONJ PREP
+a	ART DET INDA
+means	PRIV NN
+of	PIN PREP
+simplifying	GER PGAS
+quantum	JJ
+mechanics	NN
+.	
+But	CAP CCONJ
+looking	PGAS
+at	PIN PREP
+present	JJ
+-	
+day	NN
+physics	NN
+,	
+this	DEMO DET
+last	JJ
+statement	NOMZ
+sounds	VPRT
+like	PIN PREP
+a	ART DET INDA
+misunderstanding	GER
+of	PIN PREP
+the	ART DET
+nature	NN
+of	PIN PREP
+quantum	JJ
+mechanics	NN
+,	
+which	SERE DET WH
+clearly	RB
+states	VPRT PUBV
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+particle	NN
+can	POMD SPAU
+never	RB
+be	PASS AUXB INF
+observed	PRIV
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+simultaneous	JJ
+quantum	JJ
+states	PUBV NN
+by	PIN PREP
+a	ART DET INDA
+(	
+conscious	JJ
+)	
+observer	NN
+and	ANDC CCONJ
+therefore	RB CONJ
+could	POMD SPAU
+never	RB
+constitute	INF
+the	ART DET
+sensory	JJ
+data	NN
+upon	PIN SCONJ PREP
+which	PIRE DET WH
+Quine	CAP NNP
+'s	
+web	NN
+of	PIN PREP
+belief	JJ
+hinges	NN
+.	
+To	PIN CAP PREP
+my	FPP1 PRP SBJP
+knowledge	NN
+,	
+this	DEMP DET
+is	VPRT AUXB
+what	WH
+Heisenberg	CAP NNP
+'s	
+uncertainty	NN
+principle	NN
+implies	VPRT PRIV
+and	ANDC CCONJ
+what	WH
+mind	NN
+-	
+games	NN
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+famous	JJ
+"	QUOT
+Schrödinger	CAP NNP
+'s	
+cat	NN
+"	QUOT
+tries	VPRT
+to	PIN TO PREP
+illustrate	INF
+.	
+Challenging	GER PRESP CAP PGAS
+the	ART DET
+law	NN
+of	PIN PREP
+the	ART DET
+excluded	
+middle	NN
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+many	QUAN JJ
+ways	NN
+of	PIN PREP
+demonstrating	GER PRIV PGAS
+the	ART DET
+multiple	JJ
+,	
+yet	CCONJ
+simultaneous	JJ
+states	PUBV NN
+of	PIN PREP
+sub	JJ
+-	JJ
+atomic	JJ
+particles	NN
+at	PIN PREP
+the	ART DET
+quantum	JJ
+level	NN
+,	
+not	XX0 RB
+a	ART DET INDA
+suggested	PUBV SUAV
+revision	NOMZ
+of	PIN PREP
+a	ART DET INDA
+cornerstone	NN
+of	PIN PREP
+classical	JJ
+logic	NN
+.	
+Theory	NN CAP
+of	PIN PREP
+logic	NN
+vs.	PIN PREP
+real	JJ
+logic	NN
+in	PIN CONJ PREP
+Quine	CAP NNP
+'s	
+Web	NN CAP
+of	PIN PREP
+Belief	CAP NNP
+In	PIN CONJ CAP PREP
+addressing	GER PGAS
+Susan	CAP NNP
+Haack	CAP NNP
+,	
+who	WH
+also	RB
+advocates	VPRT
+the	ART DET
+revisability	NOMZ
+of	PIN PREP
+logic	NN
+(	
+albeit	PIN SCONJ PREP
+in	PIN CONJ PREP
+a	ART DET INDA
+less	RB CMADJ
+extreme	JJ
+form	NN
+compared	WZPAST
+to	PIN PREP
+Quine	CAP NNP
+)	
+Michael	CAP NNP
+Neumann	CAP NNP
+of	PIN PREP
+Trent	CAP NNP
+University	CAP NNP
+highlights	VPRT
+an	ART DET INDA
+important	JJ
+distinction	NOMZ
+between	PIN PREP
+an	ART DET INDA
+object	PUBV NN
+-	
+oriented	
+and	CCONJ
+a	ART DET INDA
+subject	NN
+-	
+oriented	
+conception	NOMZ
+of	PIN PREP
+logic	NN
+in	PIN CONJ PREP
+the	ART DET
+following	JJ
+way	NN
+:	
+If	COND PIN CAP SCONJ PREP
+we	FPP1 PRP SBJP
+imagine	VPRT PRIV
+a	ART DET INDA
+physics	NN
+of	PIN PREP
+soap	NN
+bubbles	NN
+,	
+the	ART DET
+phrase	NN
+may	POMD
+refer	INF
+either	RB
+to	PIN PREP
+our	FPP1 PRP SBJP
+current	JJ
+theories	NN
+about	PIN PREP
+the	ART DET
+behaviour	NN
+of	PIN PREP
+bubbles	NN
+(	
+subject	NN
+-	
+oriented	
+)	
+or	CCONJ
+to	PIN PREP
+that	DEMP DET
+which	DET WH
+our	FPP1 PRP SBJP
+studies	NN
+are	VPRT AUXB
+trying	PGAS
+to	PIN TO PREP
+investigate	INF
+(	
+obeject	NN
+-	
+oriented	
+)	
+-	
+the	ART DET
+actual	JJ
+behaviour	NN
+of	PIN PREP
+soap	NN
+bubbles	NN
+.	
+"	QUOT
+We	FPP1 CAP PRP SBJP
+have	VPRT PEAS
+discovered	PRIV
+the	ART DET
+physics	NN
+of	PIN PREP
+soap	NN
+bubbles	NN
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+sense	PRIV NN
+,	
+when	RB SCONJ WH
+we	FPP1 PRP SBJP
+get	VPRT
+our	FPP1 PRP SBJP
+physics	NN
+of	PIN PREP
+soap	NN
+bubbles	NN
+,	
+in	PIN CONJ PREP
+the	ART DET
+'	CONT QUOT
+study	NN
+'	CONT QUOT
+sense	PRIV NN
+,	
+right	RB
+"	QUOT
+(	
+Neumann	CAP NNP
+,	
+1997	NUM
+)	
+.	
+The	ART CAP DET
+object	PUBV NN
+-	
+oriented	
+view	NN
+of	PIN PREP
+the	ART DET
+physics	NN
+of	PIN PREP
+soap	NN
+bubbles	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+extreme	JJ
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+realism	NN
+:	
+no	SYNE DET
+independent	JJ
+mechanism	NN
+exists	VPRT
+independently	RB
+of	PIN PREP
+the	ART DET
+things	NN
+(	
+the	ART DET
+soap	NN
+bubbles	VPRT
+)	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+mechanism	NN
+of	PIN STPR PREP
+,	
+but	CCONJ
+the	ART DET
+bubbles	NN
+do	VPRT EMPH
+exist	INF
+and	PHC CCONJ
+behave	INF
+in	PIN CONJ PREP
+a	ART DET INDA
+certain	JJ
+,	
+perhaps	RB
+lawlike	JJ
+way	NN
+.	
+Like	PIN CAP PREP
+physics	NN
+,	
+logic	NN
+has	VPRT
+a	ART DET INDA
+subject	NN
+-	
+oriented	
+sense	PRIV NN
+which	WHSUB DET WH
+is	BEMA VPRT AUXB
+subject	JJ PRED
+to	PIN PREP
+correction	NOMZ
+,	
+expansion	NOMZ
+and	PHC CCONJ
+replacement	NOMZ
+.	
+No	SYNE CAP DET
+one	NN
+will	PRMD
+deny	PUBV INF
+that	THVC DET
+logic	NN
+in	PIN CONJ PREP
+the	ART DET
+subject	NN
+-	
+oriented	
+sense	PRIV NN
+is	BEMA VPRT AUXB
+revisable	JJ PRED
+;	
+every	QUAN DET
+one	NUM
+has	VPRT PEAS
+made	
+mistakes	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+reasoning	PRIV NN
+,	
+and	ANDC CCONJ
+new	JJ
+formal	JJ
+languages	NN
+are	PASS VPRT SPAU AUXB
+continually	RB
+devised	
+.	
+But	CAP CCONJ
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+object	PUBV NN
+-	
+oriented	
+sense	PRIV NN
+,	
+logic	NN
+,	
+like	PIN PREP
+physics	NN
+,	
+is	BEMA VPRT AUXB
+not	XX0 RB
+an	ART DET INDA
+assertion	NOMZ
+or	CCONJ
+a	ART DET INDA
+theory	NN
+and	CCONJ
+,	
+therefore	RB CONJ
+,	
+is	BEMA VPRT AUXB
+not	XX0 RB
+revisable	JJ
+.	
+As	PIN CONJ CAP PREP
+I	FPP1 CAP PRP SBJP
+understand	VPRT PRIV THATD
+it	PIT PRP SBJP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+the	ART DET
+object	PUBV NN
+-	
+oriented	
+sense	PRIV NN
+that	PIN TOBJ THVC SCONJ PREP
+logic	JJ
+impinges	NN
+on	PIN PREP
+our	FPP1 PRP SBJP
+sensory	JJ
+experience	NN
+and	ANDC CCONJ
+hence	RB CONJ
+on	PIN PREP
+our	FPP1 PRP SBJP
+"	QUOT
+web	NN
+of	PIN PREP
+belief	NN
+"	QUOT
+.	
+The	ART CAP DET
+macroscopic	JJ
+,	
+Newtonian	JJ CAP
+world	NN
+we	FPP1 PRP SBJP
+inhabit	VPRT
+is	BEMA VPRT AUXB
+logical	JJ PRED
+and	CCONJ
+remains	VPRT
+logical	JJ
+in	PIN CONJ PREP
+all	QUAN DET
+possible	JJ
+worlds	NN
+,	
+even	RB
+in	PIN CONJ PREP
+a	ART DET INDA
+so	RB
+called	
+level	NN
+4	NUM
+multiverse	NN
+(	
+Max	CAP NNP
+Tegmark	CAP NNP
+,	
+2004	NUM
+)	
+where	RB SCONJ WH
+particles	NN
+exist	VPRT
+in	PIN CONJ PREP
+all	QUAN DET
+possible	JJ
+arrangements	NOMZ
+.	
+Thus	RB CONJ CAP
+Quine	CAP NNP
+is	VPRT AUXB
+making	PGAS
+a	ART DET INDA
+mistake	NN
+if	COND PIN SCONJ PREP
+he	TPP3 PRP SBJP
+in	PIN CONJ PREP
+statements	NOMZ
+like	PIN STPR PREP
+"	QUOT
+...	
+the	ART DET
+logical	JJ
+laws	NN
+being	BEMA WZPRES AUXB
+in	PIN CONJ PREP
+turn	NN
+simply	RB
+further	JJ
+statements	NOMZ
+of	PIN PREP
+the	ART DET
+system	NN
+"	QUOT
+asserts	VPRT PUBV
+that	PIN THVC SCONJ PREP
+our	FPP1 PRP SBJP
+beliefs	NN
+are	PASS VPRT BYPA SPAU AUXB
+logically	RB
+interconnected	
+by	PIN PREP
+logic	NN
+in	PIN CONJ PREP
+the	ART DET
+subject	NN
+-	
+oriented	
+sense	PRIV NN
+only	DWNT RB
+.	
+Conclusion	CAP NNP
+What	WHQU CAP WH
+I	FPP1 CAP PRP SBJP
+have	VPRT PEAS
+tried	
+to	PIN TO PREP
+do	PROD INF
+in	PIN CONJ PREP
+this	DEMO DET
+essay	NN
+is	VPRT AUXB
+advocate	INF
+a	ART DET INDA
+sort	NN HDG
+of	PIN PREP
+direct	JJ
+realism	NN
+concerning	GER WZPRES PGAS
+logic	NN
+.	
+For	PIN CAP PREP
+a	ART DET INDA
+while	OSUB NN
+it	PIT PRP SBJP
+seemed	VBD SMP
+fruitful	JJ
+-	
+if	COND PIN SCONJ PREP
+the	ART DET
+physical	JJ
+world	NN
+at	PIN PREP
+a	ART DET INDA
+macroscopic	JJ
+level	NN
+does	VPRT SPAU
+n't	XX0 CONT RB
+admit	PUBV INF
+to	PIN TO PREP
+paradox	INF
+this	DEMP DET
+must	NEMD
+have	INF
+directly	RB
+discernable	JJ
+effects	NN
+on	PIN PREP
+our	FPP1 PRP SBJP
+experience	NN
+and	ANDC CCONJ
+thus	RB CONJ
+our	FPP1 PRP SBJP
+epistemology	NN
+.	
+I	FPP1 CAP PRP SBJP
+maintain	VPRT PUBV
+that	PIN THVC SCONJ PREP
+logical	JJ
+principles	NN
+hinging	WZPRES PGAS
+on	PIN PREP
+such	JJ
+non	JJ
+-	JJ
+paradox	JJ
+reasoning	PRIV NN
+[	X
+e.g.	RB CONJ
+Pv	NN CAP
+-	
+P	CAP NNP
+,	
+-(Q&-Q	NNP
+)	
+]	
+can	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+revisable	JJ PRED
+.	
+But	CAP CCONJ
+semantic	JJ
+connectives	NN
+(	
+such	JJ
+as	PIN CONJ PREP
+and	CCONJ
+,	
+if	COND PIN STPR SCONJ PREP
+...	
+then	RB
+,	
+either	RB
+...	
+or	CCONJ
+,	
+not	XX0 RB
+etc	X
+.	X
+)	
+,	
+truth	NN
+-	
+tables	NN
+(	
+as	PIN CONJ PREP
+advocated	
+by	PIN PREP
+Stevenson	CAP NNP
+)	
+and	ANDC CCONJ
+(	
+formalised	
+)	
+logical	JJ
+intuition	NOMZ
+(	
+Belnap	NN CAP
+)	
+remain	VPRT
+in	PIN CONJ PREP
+practise	NN
+our	FPP1 PRP SBJP
+tools	NN
+for	PIN PREP
+vindication	NOMZ
+or	CCONJ
+articulation	NOMZ
+of	PIN PREP
+even	RB
+the	ART DET
+most	RB EMPH SPADJ
+classical	JJ
+or	CCONJ
+primitive	JJ
+rules	SUAV NN
+of	PIN PREP
+logic	NN
+.	
+At	PIN CAP PREP
+this	DEMO DET
+semantic	JJ
+level	NN
+there	EX
+is	VPRT AUXB
+still	RB
+room	NN
+for	PIN PREP
+possible	JJ
+error	NN
+and	PHC CCONJ
+counter	NN
+-	NN
+examples	NN
+and	ANDC CCONJ
+I	FPP1 CAP PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+see	PRIV INF
+a	ART DET INDA
+way	NN
+to	PIN TO PREP
+refute	INF
+Quine	CAP NNP
+or	CCONJ
+Haack	CAP NNP
+when	RB SCONJ WH
+they	TPP3 PRP SBJP
+bring	VPRT
+what	WH
+I	FPP1 CAP PRP SBJP
+see	VPRT PRIV
+as	PIN CONJ PREP
+knowledge	NN
+about	PIN PREP
+valid	JJ
+patterns	NN
+of	PIN PREP
+argumentation	NOMZ
+down	PIN PREP
+to	PIN PREP
+the	ART DET
+level	NN
+of	PIN PREP
+uncertainty	NN
+associated	WZPAST
+with	PIN PREP
+scientific	JJ
+theory	NN
+.	
+Incidentally	RB CAP
+,	
+Michael	CAP NNP
+Neumann	CAP NNP
+whom	WH
+I	FPP1 CAP PRP SBJP
+referred	VBD
+to	PIN PREP
+earlier	RB TIME CMADJ
+reaches	VPRT
+a	ART DET INDA
+similar	JJ
+conclusion	NOMZ
+.	
+The	ART CAP DET
+answer	NN
+in	PIN CONJ PREP
+my	FPP1 PRP SBJP
+opinion	NN
+to	PIN PREP
+the	ART DET
+essay	NN
+-	
+question	NOMZ
+:	
+must	NEMD
+a	ART DET INDA
+subject	JJ
+/	
+object	PUBV NN
+-	
+oriented	
+conception	NOMZ
+of	PIN PREP
+logic	NN
+admit	VPRT PUBV
+to	PIN PREP
+the	ART DET
+revisability	NOMZ
+of	PIN PREP
+logic	NN
+?	QUES
+seems	VPRT SMP
+to	PIN TO PREP
+remain	INF
+:	
+probably	RB
+.	

@@ -1,0 +1,632 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0936.0543.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2017	NN CAP
+-	
+1.0936.0543	NUM
+>	X
+ 	
+<	X
+Computer	NN CAP
+and	PHC CCONJ
+video	NN
+games	NN
+are	BEMA VPRT AUXB
+harmful	JJ PRED
+to	PIN PREP
+children	NN
+?	QUES
+>	X
+ 	
+In	PIN CONJ CAP PREP
+modern	JJ
+society	NN
+,	
+the	ART DET
+way	NN
+children	NN
+interact	VPRT
+with	PIN PREP
+computers	NN
+and	PHC CCONJ
+video	NN
+games	NN
+is	BEMA VPRT AUXB
+important	JJ PRED
+.	
+One	CAP NUM
+reason	PRIV NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+with	PIN PREP
+the	ART DET
+increasing	GER PGAS
+popularization	NOMZ
+and	PHC CCONJ
+advancement	NOMZ
+of	PIN PREP
+technology	NN
+,	
+these	DEMO DET
+medias	NN
+are	BEMA VPRT AUXB
+widely	RB
+present	JJ
+in	PIN CONJ PREP
+children	NN
+'s	
+life	NN
+.	
+The	ART CAP DET
+influence	NN
+of	PIN PREP
+these	DEMO DET
+electronics	NN
+is	BEMA VPRT AUXB
+considerate	JJ PRED
+by	PIN PREP
+many	QUAN JJ
+people	NN
+as	PIN CONJ PREP
+harmful	JJ
+,	
+considering	GER PRIV PRESP PGAS
+the	ART DET
+time	NN
+children	NN
+’s	
+plays	NN
+,	
+the	ART DET
+unconscious	JJ
+influence	NN
+and	PHC CCONJ
+others	NN
+ways	NN
+to	PIN TO PREP
+have	INF
+fun	NN
+.	
+However	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+consider	PRIV INF
+their	TPP3 PRP SBJP
+benefits	NN
+and	CCONJ
+the	ART DET
+context	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+used	
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+the	ART DET
+need	NN
+to	PIN TO PREP
+supervise	INF
+these	DEMO DET
+medias	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+ensure	PRIV SUAV INF
+the	ART DET
+best	JJ SPADJ
+use	NN
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+,	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+argue	PUBV THATD INF
+that	PIN STPR DEMP SCONJ PREP
+,	
+because	CAUS PIN SCONJ PREP
+there	EX
+are	VPRT AUXB
+clear	JJ
+advantages	NN
+for	PIN PREP
+children	NN
+in	PIN CONJ PREP
+having	PGAS
+access	NN
+to	PIN PREP
+these	DEMO DET
+technologies	NN
+,	
+computer	NN
+and	PHC CCONJ
+video	NN
+games	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS SPAU AUXB INF
+generally	RB
+considered	PRIV
+harmful	JJ
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+–	
+it	PIT PRP SBJP
+only	DWNT RB
+needs	VPRT
+some	QUAN DET
+precautions	NOMZ
+in	PIN CONJ PREP
+use	NN
+.	
+ 	
+First	RB CAP
+,	
+the	ART DET
+way	NN
+children	NN
+have	VPRT
+fun	NN
+today	TIME NN
+is	BEMA VPRT AUXB
+different	JJ PRED
+from	PIN PREP
+years	NN
+ago	RB
+.	
+Computer	NN CAP
+and	PHC CCONJ
+video	NN
+games	NN
+has	VPRT PEAS
+taken	
+the	ART DET
+place	NN
+of	PIN PREP
+the	ART DET
+“	
+street	NN
+games	NN
+”	
+,	
+as	PIN CONJ PREP
+collective	JJ
+games	NN
+-	
+and	ANDC CCONJ
+this	DEMP DET
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+considered	PRIV
+a	ART DET INDA
+bad	JJ
+change	NN
+,	
+but	CCONJ
+a	ART DET INDA
+consequence	NN
+of	PIN PREP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+technology	NN
+,	
+urban	JJ
+structure	NN
+and	PHC CCONJ
+culture	NN
+.	
+More	JJ EMPH CAP CMADJ
+than	PIN PREP
+that	DEMP DET
+,	
+these	DEMO DET
+medias	NN
+entertain	VPRT
+children	NN
+in	PIN CONJ PREP
+the	ART DET
+safety	NN
+of	PIN PREP
+home	NN
+,	
+exposing	PRESP PGAS
+them	TPP3 PRP SBJP ACCU
+less	JJ CMADJ
+to	PIN PREP
+risks	NN
+.	
+With	PIN CAP PREP
+a	ART DET INDA
+globalized	JJ
+world	NN
+,	
+it	PIT PRP SBJP
+is	VPRT AUXB
+no	RB
+longer	RB CMADJ
+possible	JJ
+to	PIN TO PREP
+eliminate	INF
+the	ART DET
+technology	NN
+from	PIN PREP
+children	NN
+’s	
+life	NN
+.	
+ 	
+Another	CAP DET
+reason	PRIV NN
+is	BEMA VPRT AUXB
+that	PIN STPR DEMP SCONJ PREP
+,	
+with	PIN PREP
+the	ART DET
+proper	JJ
+supervision	NOMZ
+,	
+no	SYNE DET
+technology	NN
+is	BEMA VPRT AUXB
+harmful	JJ PRED
+to	PIN PREP
+kids	NN
+.	
+Some	QUAN CAP DET
+people	NN
+think	VPRT PRIV
+that	PIN THVC SCONJ PREP
+computer	NN
+and	PHC CCONJ
+games	NN
+takes	VPRT
+much	QUAN JJ
+time	NN
+of	PIN PREP
+children	NN
+,	
+influence	NN
+behavior	NN
+unconsciously	RB
+and	CCONJ
+are	BEMA VPRT AUXB
+a	ART DET INDA
+bad	JJ
+way	NN
+of	PIN PREP
+fun	NN
+because	CAUS PIN SCONJ PREP
+its	PIT PRP SBJP
+individuality	NOMZ
+.	
+But	CAP CCONJ
+,	
+the	ART DET
+point	NN
+in	PIN CONJ PREP
+this	DEMO DET
+issue	NN
+is	BEMA VPRT AUXB
+that	PIN STPR DEMP SCONJ PREP
+,	
+if	COND PIN SCONJ PREP
+you	SPP2 PRP SBJP
+select	VPRT
+what	DET WH
+type	NN
+of	PIN PREP
+games	NN
+and	PHC CCONJ
+time	NN
+that	TOBJ WHOBJ WH
+children	NN
+play	VPRT
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+option	NOMZ
+.	
+For	PIN CAP PREP
+example	NN
+,	
+one	PRP SBJP
+can	POMD
+control	INF
+the	ART DET
+time	NN
+that	TOBJ WHOBJ WH
+children	NN
+play	VPRT
+,	
+the	ART DET
+type	NN
+of	PIN PREP
+games	NN
+and	CCONJ
+let	INF
+them	TPP3 PRP SBJP ACCU
+play	INF
+only	DWNT RB
+with	PIN PREP
+supervision	NOMZ
+.	
+Furthermore	RB CONJ CAP
+,	
+should	NEMD
+be	PASS AUXB INF
+talked	
+openly	RB
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+about	PIN PREP
+that	DEMP DET
+.	
+With	PIN CAP PREP
+an	ART DET INDA
+open	JJ
+relationship	NN
+with	PIN PREP
+children	NN
+,	
+the	ART DET
+responsible	JJ
+will	PRMD
+become	INF
+a	ART DET INDA
+behavior	NN
+influence	NN
+and	CCONJ
+not	XX0 RB
+the	ART DET
+video	NN
+or	CCONJ
+computer	NN
+-	
+and	ANDC CCONJ
+the	ART DET
+children	NN
+will	PRMD SPAU
+still	RB
+have	INF
+time	NN
+to	PIN TO PREP
+study	INF
+and	CCONJ
+do	PROD INF
+other	JJ
+social	JJ
+things	NN
+.	
+So	RB CAP
+,	
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+ways	NN
+to	PIN TO PREP
+prevent	INF
+and	PHC CCONJ
+eliminate	INF
+misuse	NN
+of	PIN PREP
+technology	NN
+–	
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+not	XX0 RB
+harmful	JJ
+by	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+.	
+ 	
+Finally	RB CAP
+,	
+technology	NN
+is	BEMA VPRT AUXB
+likely	JJ PRED
+to	PIN TO PREP
+bring	INF
+more	JJ EMPH CMADJ
+benefits	NN
+than	PIN PREP
+anything	QUPR INPR
+else	RB
+.	
+Most	JJ EMPH CAP SPADJ
+of	PIN PREP
+responsible	JJ
+do	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+the	ART DET
+time	NN
+to	PIN TO PREP
+play	INF
+with	PIN PREP
+your	SPP2 PRP SBJP
+children	NN
+everyday	RB
+–	
+like	PIN PREP
+many	QUAN JJ
+people	NN
+nowadays	RB TIME
+.	
+So	RB CAP
+,	
+the	ART DET
+solution	NOMZ
+is	BEMA VPRT AUXB
+not	XX0 RB
+to	PIN TO PREP
+struggle	INF
+with	PIN PREP
+technology	NN
+.	
+Technology	NN CAP
+appears	VPRT SMP
+in	PIN CONJ PREP
+nowadays	RB TIME
+context	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+ally	NN
+for	PIN PREP
+parents	NN
+in	PIN CONJ PREP
+fun	NN
+and	PHC CCONJ
+study	NN
+.	
+The	ART CAP DET
+fact	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+computers	NN
+and	PHC CCONJ
+video	NN
+games	NN
+strongly	AMP RB
+develop	VPRT
+creativity	NOMZ
+and	CCONJ
+cognitive	JJ
+thinking	PRIV NN
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+can	POMD
+be	PASS AUXB INF
+used	
+for	PIN PREP
+interactive	JJ
+learning	PRIV NN
+,	
+even	RB
+for	PIN PREP
+a	ART DET INDA
+new	JJ
+language	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+way	NN
+,	
+we	FPP1 PRP SBJP
+should	NEMD
+see	PRIV INF
+technology	NN
+as	PIN CONJ PREP
+an	ART DET INDA
+opportunity	NOMZ
+to	PIN TO PREP
+develop	INF
+children	NN
+'s	
+skills	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+like	PIN PREP
+anything	QUPR INPR
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+,	
+computer	NN
+and	PHC CCONJ
+video	NN
+games	NN
+can	POMD
+be	PASS AUXB INF
+used	
+in	PIN CONJ PREP
+the	ART DET
+wrong	JJ
+way	NN
+,	
+but	CCONJ
+it	PIT PRP SBJP
+will	PRMD SPAU
+only	DWNT RB
+be	BEMA AUXB INF
+harmful	JJ PRED
+to	PIN PREP
+children	NN
+if	COND PIN SCONJ PREP
+some	QUAN DET
+points	NN
+were	PASS VBD AUXB
+neglected	
+.	
+Its	PIT CAP PRP SBJP
+a	ART DET INDA
+wrong	JJ
+definition	NOMZ
+to	PIN TO PREP
+consider	PRIV INF
+them	TPP3 PRP SBJP ACCU
+harmful	JJ
+by	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+.	
+With	PIN CAP PREP
+the	ART DET
+right	JJ
+orientation	NOMZ
+and	ANDC CCONJ
+in	PIN CONJ PREP
+a	ART DET INDA
+supervised	
+context	NN
+,	
+computer	NN
+,	
+video	NN
+games	NN
+and	CCONJ
+other	JJ
+types	NN
+of	PIN PREP
+technology	NN
+are	BEMA VPRT AUXB
+an	ART DET INDA
+opportunity	NOMZ
+to	PIN TO PREP
+develop	INF
+children	NN
+'s	
+skills	NN
+and	CCONJ
+can	POMD SPAU
+only	DWNT RB
+bring	INF
+benefits	NN
+.	
+   	

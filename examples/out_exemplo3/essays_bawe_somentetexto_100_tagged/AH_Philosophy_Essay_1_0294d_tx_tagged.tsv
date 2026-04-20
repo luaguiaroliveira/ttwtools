@@ -1,0 +1,1358 @@
+# filename: AH_Philosophy_Essay_1_0294d_tx.txt
+token	tags
+In	PIN CONJ CAP PREP
+the	ART DET
+majority	NOMZ
+of	PIN PREP
+life	NN
+'s	
+situations	NOMZ
+,	
+we	FPP1 PRP SBJP
+seem	VPRT SMP
+to	PIN TO PREP
+have	INF
+no	SYNE DET
+problem	NN
+identifying	GER WZPRES PGAS
+what	WH
+we	FPP1 PRP SBJP
+call	VPRT
+people	NN
+.	
+And	ANDC CAP CCONJ
+yet	RB
+when	RB SCONJ WH
+we	FPP1 PRP SBJP
+are	PASS VPRT AUXB
+pushed	
+to	PIN TO PREP
+examine	INF
+what	WH
+exactly	RB
+it	PIT PRP SBJP
+is	VPRT AUXB
+we	FPP1 PRP SBJP
+are	VPRT AUXB
+pointing	PGAS
+to	PIN STPR PREP
+,	
+often	RB
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+clear	JJ
+answer	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+most	RB EMPH SPADJ
+basic	JJ
+level	NN
+,	
+we	FPP1 PRP SBJP
+may	POMD
+point	INF
+to	PIN PREP
+a	ART DET INDA
+human	JJ
+being	NN
+'s	
+body	NN
+and	CCONJ
+call	INF
+that	PIN DEMO SCONJ PREP
+a	ART DET INDA
+person	NN
+,	
+and	ANDC CCONJ
+yet	RB
+many	QUAN JJ
+people	NN
+,	
+and	ANDC CCONJ
+most	JJ EMPH SPADJ
+religions	NN
+,	
+believe	VPRT PRIV
+a	ART DET INDA
+person	NN
+will	PRMD
+continue	INF
+to	PIN TO PREP
+exist	INF
+after	PIN PREP
+the	ART DET
+death	NN
+of	PIN PREP
+this	DEMO DET
+body	NN
+.	
+Even	RB CAP
+if	COND PIN SCONJ PREP
+one	PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+believe	PRIV INF
+in	PIN CONJ PREP
+any	QUAN DET
+kind	NN HDG
+of	PIN PREP
+soul	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+still	RB
+possible	JJ
+to	PIN TO PREP
+maintain	PUBV THATD INF
+that	PIN THVC SCONJ PREP
+what	WH
+makes	VPRT
+a	ART DET INDA
+person	NN
+a	ART DET INDA
+person	NN
+is	PASS VPRT BYPA SPAU AUXB
+not	XX0 RB
+characterised	
+by	PIN PREP
+their	TPP3 PRP SBJP
+body	NN
+but	CCONJ
+by	PIN PREP
+their	TPP3 PRP SBJP
+mind	NN
+or	CCONJ
+consciousness	NOMZ
+.	
+Whether	PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+coherent	JJ PRED
+to	PIN TO PREP
+believe	PRIV INF
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+person	NN
+can	POMD
+be	PASS AUXB INF
+identified	
+solely	RB
+with	PIN PREP
+reference	NN
+to	PIN PREP
+a	ART DET INDA
+mind	NN
+is	BEMA VPRT AUXB
+questionable	JJ PRED
+.	
+Descartes	NN CAP
+is	PASS VPRT AUXB
+committed	
+to	PIN PREP
+a	ART DET INDA
+distinction	NOMZ
+between	PIN PREP
+mind	NN
+and	PHC CCONJ
+body	NN
+.	
+In	PIN CONJ CAP PREP
+his	TPP3 PRP SBJP
+meditations	NOMZ
+he	TPP3 PRP SBJP
+makes	VPRT
+it	PIT PRP SBJP
+clear	JJ
+that	PIN THAC SCONJ PREP
+what	WH
+defines	VPRT
+an	ART DET INDA
+individual	NN
+can	POMD
+be	PASS AUXB INF
+separated	
+from	PIN PREP
+the	ART DET
+body	NN
+.	
+He	TPP3 CAP PRP SBJP
+writes	VPRT PUBV
+:	
+"	QUOT
+What	WHQU CAP WH
+then	RB
+am	VPRT AUXB
+I	FPP1 CAP PRP SBJP
+?	QUES
+A	ART CAP DET INDA
+thing	NN
+that	TSUB WHSUB WH
+thinks	VPRT PRIV
+.	
+A	ART CAP DET INDA
+thing	NN
+that	TSUB WHSUB WH
+doubts	VPRT PRIV
+,	
+understands	PRIV NN
+,	
+affirms	PUBV NN
+,	
+denies	VPRT PUBV
+,	
+is	BEMA VPRT AUXB
+willing	JJ PRED
+,	
+is	BEMA VPRT AUXB
+unwilling	JJ PRED
+,	
+and	ANDC CCONJ
+also	RB
+imagines	VPRT PRIV
+and	CCONJ
+has	VPRT
+sensory	JJ
+perceptions	NOMZ
+.	
+"	QUOT
+Meditations	NOMZ CAP
+on	PIN PREP
+First	CAP NNP
+Philosophy	CAP NNP
+,	
+28	NUM
+All	QUAN CAP DET
+the	ART DET
+things	NN
+that	TSUB WHSUB WH
+compose	VPRT
+who	WH
+he	TPP3 PRP SBJP
+is	PASS VPRT AUXB
+are	PASS VPRT AUXB
+limited	
+to	PIN PREP
+mental	JJ
+states	PUBV NN
+;	
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+reference	NN
+to	PIN PREP
+the	ART DET
+body	NN
+at	RB PIN PREP
+all	QUAN RB
+.	
+Even	RB CAP
+having	PGAS
+sensory	JJ
+perceptions	NOMZ
+he	TPP3 PRP SBJP
+distinguishes	VPRT
+from	PIN PREP
+any	QUAN DET
+actual	JJ
+objects	PUBV NN
+his	TPP3 PRP SBJP
+body	NN
+might	POMD
+perceive	PRIV INF
+.	
+It	PIT CAP PRP SBJP
+can	POMD
+be	PASS AUXB INF
+argued	PUBV
+that	PIN THVC SCONJ PREP
+Descartes	CAP NNP
+'s	
+explanation	NOMZ
+is	BEMA VPRT AUXB
+simply	RB
+a	ART DET INDA
+list	NN
+of	PIN PREP
+things	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+mind	NN
+can	POMD
+do	PROD INF
+,	
+without	PIN PREP
+any	QUAN DET
+firm	JJ
+idea	NN
+of	PIN PREP
+what	WH
+makes	VPRT
+it	PIT PRP SBJP
+the	ART DET
+same	JJ
+mind	NN
+and	ANDC CCONJ
+hence	RB CONJ
+a	ART DET INDA
+person	NN
+.	
+He	TPP3 CAP PRP SBJP
+simply	RB
+writes	VPRT PUBV
+:	
+"	QUOT
+The	ART CAP DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+is	VPRT AUXB
+I	FPP1 CAP PRP SBJP
+who	WH
+am	BEMA VPRT AUXB
+doubting	JJ PRIV PRED
+and	CCONJ
+understanding	GER PRIV
+and	CCONJ
+willing	JJ
+is	BEMA VPRT AUXB
+so	RB EMPH
+evident	JJ
+that	PIN THAC SCONJ PREP
+I	FPP1 CAP PRP SBJP
+see	VPRT PRIV
+no	SYNE DET
+way	NN
+of	PIN PREP
+making	PGAS
+it	PIT PRP SBJP
+any	QUAN DET
+clearer	JJ CMADJ
+"	QUOT
+.	
+Ibid	CAP INF
+.	
+Strawson	CAP NNP
+accepts	VPRT PRIV
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+single	JJ
+mind	NN
+has	VPRT
+a	ART DET INDA
+sustained	JJ
+existence	NN
+,	
+but	CCONJ
+he	TPP3 PRP SBJP
+believes	VPRT PRIV THATD
+we	FPP1 PRP SBJP
+can	POMD SPAU
+only	DWNT RB
+identify	INF
+this	DEMO DET
+mind	NN
+with	PIN PREP
+reference	NN
+to	PIN PREP
+a	ART DET INDA
+certain	JJ
+person	NN
+;	
+the	ART DET
+idea	NN
+of	PIN STPR PREP
+'	CONT QUOT
+person	NN
+'	CONT QUOT
+incorporating	GER PGAS
+more	RB EMPH CMADJ
+than	PIN PREP
+simply	RB
+the	ART DET
+mind	NN
+.	
+He	TPP3 CAP PRP SBJP
+writes	VPRT PUBV
+:	
+"	QUOT
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+anti	JJ
+-	JJ
+Cartesian	JJ CAP
+regards	VPRT
+the	ART DET
+concept	NN
+of	PIN PREP
+mind	NN
+or	CCONJ
+consciousness	NOMZ
+as	PIN CONJ PREP
+secondary	JJ
+to	PIN STPR PREP
+,	
+or	CCONJ
+derivative	JJ
+from	PIN STPR PREP
+,	
+he	TPP3 PRP SBJP
+can	POMD
+advance	INF
+the	ART DET
+following	PGAS
+simple	JJ
+rule	SUAV NN
+:	
+'	CONT QUOT
+one	NUM
+person	NN
+,	
+one	NUM
+consciousness	NOMZ
+;	
+same	JJ
+person	NN
+,	
+same	JJ
+consciousness	NOMZ
+.	
+'	CONT QUOT
+"	QUOT
+Stawson	CAP NNP
+:	
+Self	NN CAP
+,	
+Mind	CAP NNP
+and	PHC CCONJ
+Body	CAP NNP
+in	PIN CONJ PREP
+Reading	CAP NNP
+Philosophy	CAP NNP
+,	
+p.32	NNP
+When	RB CAP SCONJ WH
+we	FPP1 PRP SBJP
+talk	VPRT
+about	PIN PREP
+the	ART DET
+'	CONT QUOT
+same	JJ
+consciousness	NOMZ
+'	CONT QUOT
+,	
+what	WHQU WH
+can	POMD
+we	FPP1 PRP SBJP
+mean	PRIV INF
+other	JJ
+than	PIN PREP
+the	ART DET
+'	CONT QUOT
+same	JJ
+person	NN
+'s	
+consciousness	NOMZ
+'	CONT QUOT
+?	QUES
+Strawson	CAP NNP
+does	VPRT SPAU
+not	XX0 RB
+provide	INF
+a	ART DET INDA
+satisfactory	JJ
+definition	NOMZ
+of	PIN PREP
+personhood	NN
+,	
+but	CCONJ
+he	TPP3 PRP SBJP
+points	VPRT
+out	PIN PREP
+that	PIN DEMO SCONJ PREP
+an	ART DET INDA
+anti	JJ
+-	JJ
+Cartesian	JJ CAP
+can	POMD
+accept	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+question	NOMZ
+of	PIN PREP
+the	ART DET
+criteria	NN
+of	PIN PREP
+personal	JJ
+identity	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+difficult	JJ
+one	NN
+,	
+while	OSUB PIN SCONJ PREP
+at	PIN PREP
+the	ART DET
+same	JJ
+time	NN
+using	WZPRES PGAS
+adequate	JJ
+criteria	NN
+for	PIN PREP
+most	JJ EMPH SPADJ
+ordinary	JJ
+cases	NN
+,	
+and	ANDC CCONJ
+may	POMD SPAU
+intelligently	RB
+adapt	INF
+these	DEMO DET
+criteria	NN
+when	RB WHOBJ SCONJ WH
+extraordinary	JJ
+cases	NN
+arise	VPRT
+.	
+Without	PIN CAP PREP
+a	ART DET INDA
+higher	JJ CMADJ
+concept	NN
+of	PIN PREP
+personhood	NN
+,	
+Strawson	CAP NNP
+points	VPRT
+out	PIN PREP
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+is	VPRT AUXB
+just	RB EMPH
+as	RB CONJ
+coherent	JJ
+to	PIN TO PREP
+suggest	PUBV SUAV INF
+that	PIN THVC SCONJ PREP
+there	EX
+are	VPRT AUXB
+a	ART DET INDA
+whole	JJ
+series	NN
+of	PIN PREP
+minds	NN
+transmitting	GER WZPRES PGAS
+their	TPP3 PRP SBJP
+state	PUBV NN
+and	PHC CCONJ
+consciousness	NOMZ
+from	PIN PREP
+one	NUM
+to	PIN PREP
+the	ART DET
+other	JJ
+as	PIN CONJ PREP
+to	PIN TO PREP
+think	PRIV INF
+that	PIN THVC SCONJ PREP
+there	EX
+is	VPRT AUXB
+only	DWNT RB
+a	ART DET INDA
+single	JJ
+mind	NN
+.	
+If	COND PIN CAP SCONJ PREP
+a	ART DET INDA
+Cartesian	JJ CAP
+reduction	NOMZ
+is	BEMA VPRT AUXB
+feasible	JJ PRED
+then	RB
+it	PIT PRP SBJP
+must	NEMD
+be	BEMA AUXB INF
+possible	JJ PRED
+to	PIN TO SPIN PREP
+independently	RB
+define	INF
+a	ART DET INDA
+single	JJ
+identity	NOMZ
+and	PHC CCONJ
+consciousness	NOMZ
+,	
+but	CCONJ
+Strawson	CAP NNP
+suggests	VPRT PUBV SUAV THATD
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+there	EX
+is	VPRT AUXB
+not	XX0 RB
+the	ART DET
+slightest	JJ SPADJ
+reason	PRIV NN
+for	PIN PREP
+thinking	PRIV PGAS
+that	PIN THVC SCONJ PREP
+this	DEMP DET
+can	POMD
+be	PASS AUXB INF
+done	PROD
+"	QUOT
+.	
+Ibid	CAP INF
+.	
+p.33	VPRT
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+this	DEMO DET
+claim	PUBV NN
+that	PIN TOBJ THVC SCONJ PREP
+Foster	CAP NNP
+confronts	NN
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+book	NN
+The	ART CAP DET
+Immaterial	CAP NNP
+Self	CAP NNP
+:	
+A	ART CAP DET INDA
+defence	NN
+of	PIN PREP
+the	ART DET
+Cartesian	CAP NNP
+Dualism	CAP NNP
+Conception	CAP NNP
+of	PIN PREP
+Mind	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+define	INF
+a	ART DET INDA
+person	NN
+independently	RB
+of	PIN PREP
+anything	QUPR INPR
+other	JJ
+than	PIN PREP
+mind	NN
+he	TPP3 PRP SBJP
+writes	VPRT PUBV
+that	PIN THVC SCONJ PREP
+the	ART DET
+essential	JJ
+nature	NN
+of	PIN PREP
+a	ART DET INDA
+non	JJ
+-	JJ
+physical	JJ
+'	CONT QUOT
+basic	JJ
+subject	NN
+'	CONT QUOT
+(	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS AUXB INF
+taken	
+to	PIN TO PREP
+mean	PRIV INF
+person	NN
+)	
+must	NEMD
+be	BEMA AUXB INF
+a	ART DET INDA
+purely	RB
+mental	JJ
+attribute	NN
+that	TOBJ WHOBJ WH
+it	PIT PRP SBJP
+necessarily	RB
+possesses	VPRT
+at	PIN PREP
+every	QUAN DET
+point	NN
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+history	NN
+.	
+It	PIT CAP PRP SBJP
+must	NEMD
+be	BEMA AUXB INF
+sufficiently	RB
+broad	JJ
+so	PIN SCONJ PREP
+as	PIN CONJ PREP
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+constant	JJ
+feature	NN
+throughout	PIN PREP
+the	ART DET
+subject	NN
+'s	
+widely	RB
+varying	PGAS
+mental	JJ
+conditions	NOMZ
+.	
+Descartes	NN CAP
+thought	VBD PRIV
+this	DEMO DET
+property	NN
+was	BEMA VBD AUXB
+the	ART DET
+cogitatio	NN
+,	
+but	CCONJ
+the	ART DET
+varying	JJ
+ways	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+this	DEMO DET
+word	NN
+can	POMD
+be	PASS AUXB INF
+interpreted	
+will	PRMD
+alter	INF
+the	ART DET
+argument	NOMZ
+significantly	RB
+.	
+If	COND PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+taken	
+to	PIN TO PREP
+mean	PRIV INF
+simply	RB
+'	CONT QUOT
+thought	PRIV
+'	CONT QUOT
+then	RB
+Foster	CAP NNP
+points	VPRT
+out	PIN PREP
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+is	VPRT AUXB
+not	XX0 RB
+sufficiently	RB
+generic	JJ
+as	PIN CONJ PREP
+to	PIN TO PREP
+cover	INF
+all	QUAN DET
+of	PIN PREP
+our	FPP1 PRP SBJP
+mental	JJ
+activity	NOMZ
+:	
+it	PIT PRP SBJP
+is	VPRT AUXB
+just	RB EMPH
+one	NUM
+of	PIN PREP
+a	ART DET INDA
+group	NN
+of	PIN PREP
+mental	JJ
+states	PUBV NN
+and	CCONJ
+not	XX0 RB
+its	PIT PRP SBJP
+common	JJ
+factor	NN
+.	
+If	COND PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+interpreted	
+as	PIN CONJ PREP
+meaning	PRIV PGAS
+'	CONT QUOT
+consciousness	NOMZ
+'	CONT QUOT
+then	RB
+it	PIT PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+an	ART DET INDA
+attribute	NN
+that	TSUB WHSUB WH
+is	PASS VPRT SPAU AUXB
+necessarily	RB
+possessed	
+at	PIN PREP
+every	QUAN DET
+point	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+person	NN
+'s	
+existence	NN
+because	CAUS PIN SCONJ PREP
+a	ART DET INDA
+subject	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+conscious	JJ
+when	RB SCONJ WH
+asleep	JJ
+or	CCONJ
+under	PIN PREP
+Anaesthesia	CAP NNP
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+Cartesian	CAP NNP
+insists	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+consciousness	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+essential	JJ
+attribute	NN
+of	PIN PREP
+personhood	NN
+he	TPP3 PRP SBJP
+must	NEMD
+make	INF
+a	ART DET INDA
+choice	NN
+between	PIN PREP
+two	NUM
+alternatives	NN
+.	
+Either	CAP CCONJ
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+constant	JJ
+stream	NN
+of	PIN PREP
+consciousness	NOMZ
+during	PIN PREP
+sleep	NN
+of	PIN PREP
+which	PIRE DET WH
+we	FPP1 PRP SBJP
+have	VPRT
+no	SYNE DET
+memory	NN
+,	
+or	CCONJ
+we	FPP1 PRP SBJP
+cease	VPRT
+to	PIN TO PREP
+exist	INF
+as	PIN CONJ PREP
+people	NN
+when	RB WHOBJ SCONJ WH
+we	FPP1 PRP SBJP
+are	BEMA VPRT AUXB
+asleep	JJ PRED
+or	CCONJ
+otherwise	RB CONJ
+unconscious	JJ
+.	
+In	PIN CONJ CAP PREP
+light	NN
+of	PIN PREP
+this	DEMO DET
+it	PIT PRP SBJP
+seems	VPRT SMP
+the	ART DET
+meaning	PRIV NN
+of	PIN PREP
+cogitatio	NN
+must	NEMD
+be	PASS AUXB INF
+expanded	
+further	RB CMADJ
+to	PIN TO PREP
+mean	PRIV INF
+simply	RB
+'	CONT QUOT
+mentality	NOMZ
+'	CONT QUOT
+,	
+i.e.	CONJ X
+all	QUAN DET
+mental	JJ
+activity	NOMZ
+.	
+But	CAP CCONJ
+is	BEMA VPRT AUXB
+this	DEMO DET
+the	ART DET
+'	CONT QUOT
+unitary	JJ
+intrinsic	JJ
+attribute	NN
+'	CONT QUOT
+that	THVC WHQU WH
+Foster	CAP NNP
+was	VBD AUXB
+looking	PGAS
+for	PIN STPR PREP
+,	
+or	CCONJ
+simply	RB
+a	ART DET INDA
+disjunction	NOMZ
+of	PIN PREP
+all	QUAN DET
+the	ART DET
+states	PUBV NN THATD
+it	PIT PRP SBJP
+covers	VPRT
+?	QUES
+There	EX CAP
+must	NEMD
+be	BEMA AUXB INF
+a	ART DET INDA
+common	JJ
+factor	NN
+that	TSUB WHSUB WH
+binds	VPRT
+them	TPP3 PRP SBJP ACCU
+,	
+something	QUPR INPR
+in	PIN CONJ PREP
+virtue	NN
+of	PIN PREP
+which	PIRE DET WH
+they	TPP3 PRP SBJP
+all	QUAN DET
+qualify	VPRT
+as	PIN CONJ PREP
+mental	JJ
+.	
+Descartes	NN CAP
+identified	VBD
+this	DEMO DET
+common	JJ
+factor	NN
+as	PIN CONJ PREP
+the	ART DET
+ability	NOMZ
+to	PIN PREP
+all	QUAN DET
+be	BEMA AUXB INF
+accessible	JJ PRED
+to	PIN PREP
+introspective	JJ
+awareness	NOMZ
+when	RB WHOBJ SCONJ WH
+the	ART DET
+subject	NN
+is	BEMA VPRT AUXB
+conscious	JJ PRED
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+case	NN
+a	ART DET INDA
+mind	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+like	PIN PREP
+a	ART DET INDA
+rope	NN
+.	
+There	EX CAP
+are	VPRT AUXB
+many	QUAN JJ
+mental	JJ
+processes	NN
+taking	WZPRES PGAS
+place	NN
+through	PIN PREP
+time	NN
+,	
+like	PIN PREP
+the	ART DET
+many	QUAN JJ
+threads	NN
+that	TSUB WHSUB WH
+make	VPRT
+up	PIN PREP
+a	ART DET INDA
+rope	NN
+.	
+They	TPP3 CAP PRP SBJP
+overlap	VPRT
+with	PIN PREP
+each	QUAN DET
+other	JJ
+and	CCONJ
+vary	VPRT
+in	PIN CONJ PREP
+size	NN
+,	
+without	PIN PREP
+any	QUAN DET
+single	JJ
+process	NN
+,	
+or	CCONJ
+thread	NN
+,	
+lasting	PGAS
+for	PIN PREP
+the	ART DET
+entire	JJ
+length	NN
+.	
+They	TPP3 CAP PRP SBJP
+are	PASS VPRT BYPA AUXB
+united	
+by	PIN PREP
+our	FPP1 PRP SBJP
+introspective	JJ
+awareness	NOMZ
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Principles	NN CAP
+of	PIN PREP
+Philosophy	CAP NNP
+,	
+Part	CAP NNP
+I	FPP1 CAP NNP
+,	
+IX	CAP NNP
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+interesting	JJ PRED
+to	PIN TO PREP
+note	PRIV INF
+that	PIN THVC SCONJ PREP
+Descartes	CAP NNP
+does	VPRT SPAU
+not	XX0 RB
+suggest	PUBV SUAV INF
+memory	NN
+as	PIN CONJ PREP
+the	ART DET
+answer	NN
+to	PIN PREP
+the	ART DET
+problem	NN
+of	PIN PREP
+continued	
+identity	NOMZ
+.	
+The	ART CAP DET
+majority	NOMZ
+of	PIN PREP
+his	TPP3 PRP SBJP
+illustrations	NOMZ
+are	VPRT AUXB
+snapshots	NN
+of	PIN PREP
+the	ART DET
+mind	NN
+at	PIN PREP
+a	ART DET INDA
+single	JJ
+point	NN
+,	
+without	PIN PREP
+any	QUAN DET
+real	JJ
+consideration	NOMZ
+for	PIN PREP
+its	PIT PRP SBJP
+continuity	NOMZ
+.	
+Surely	RB CAP
+,	
+if	COND PIN SCONJ PREP
+anything	QUPR INPR
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+our	FPP1 PRP SBJP
+memory	NN
+that	TSUB WHSUB WH
+assures	VPRT
+us	FPP1 PRP SBJP ACCU
+that	PIN DEMO SCONJ PREP
+we	FPP1 PRP SBJP
+remain	VPRT
+the	ART DET
+same	JJ
+person	NN
+,	
+and	ANDC CCONJ
+allows	VPRT SUAV
+for	PIN PREP
+any	QUAN DET
+conception	NOMZ
+of	PIN PREP
+continuity	NOMZ
+at	RB PIN PREP
+all	QUAN RB
+.	
+Perhaps	RB CAP
+the	ART DET
+answer	NN
+lies	VPRT
+in	PIN CONJ PREP
+Descartes	CAP NNP
+'s	
+attributing	GER PGAS
+the	ART DET
+same	JJ
+level	NN
+of	PIN PREP
+doubt	PRIV NN
+to	PIN PREP
+memory	NN
+as	PIN CONJ PREP
+to	PIN PREP
+perception	NOMZ
+of	PIN PREP
+the	ART DET
+external	JJ
+world	NN
+.	
+Nothing	INPR CAP
+so	RB EMPH
+doubtful	JJ
+can	POMD
+be	PASS AUXB INF
+relied	
+on	PIN PREP
+to	PIN TO PREP
+guarantee	PUBV INF
+our	FPP1 PRP SBJP
+identity	NOMZ
+.	
+However	RB CONJ CAP
+Descartes	CAP NNP
+'s	
+cogitatio	NN
+is	PASS VPRT AUXB
+defined	
+,	
+the	ART DET
+whole	JJ
+notion	NOMZ
+of	PIN PREP
+defining	PGAS
+personhood	NN
+solely	RB
+with	PIN PREP
+reference	NN
+to	PIN PREP
+mental	JJ
+activity	NOMZ
+raises	VPRT
+problems	NN
+.	
+A	ART CAP DET INDA
+baby	NN
+has	VPRT
+very	AMP RB
+little	JJ
+brain	NN
+activity	NOMZ
+,	
+and	ANDC CCONJ
+is	VPRT AUXB
+certainly	RB
+not	XX0 RB
+capable	JJ
+of	PIN STPR PREP
+'	CONT QUOT
+introspective	JJ
+awareness	NOMZ
+'	CONT QUOT
+,	
+whilst	OSUB PIN SCONJ PREP
+a	ART DET INDA
+very	AMP RB
+early	JJ TIME
+foetus	NN
+has	VPRT
+no	SYNE DET
+brain	NN
+activity	NOMZ
+at	RB PIN PREP
+all	QUAN RB
+.	
+And	ANDC CAP CCONJ
+yet	RB
+many	QUAN JJ
+people	NN
+will	PRMD
+argue	PUBV INF
+that	PIN THVC SCONJ PREP
+both	DET
+of	PIN PREP
+these	DEMP DET
+,	
+certainly	RB
+the	ART DET
+former	JJ
+,	
+are	VPRT AUXB
+persons	NN
+.	
+We	FPP1 CAP PRP SBJP
+seem	VPRT SMP
+to	PIN TO PREP
+have	INF
+no	SYNE DET
+problem	NN
+identifying	GER WZPRES PGAS
+what	WH
+we	FPP1 PRP SBJP
+think	VPRT PRIV
+are	VPRT AUXB
+people	NN
+.	
+But	CAP CCONJ
+it	PIT PRP SBJP
+soon	RB
+becomes	VPRT
+clear	JJ
+that	PIN THAC SCONJ PREP
+many	QUAN JJ
+of	PIN PREP
+our	FPP1 PRP SBJP
+seemingly	RB
+natural	JJ
+judgements	NOMZ
+do	VPRT SPAU
+not	XX0 RB
+stand	INF
+up	PIN PREP
+to	PIN PREP
+analysis	NN
+.	
+Generally	RB CAP
+we	FPP1 PRP SBJP
+will	PRMD
+combine	INF
+an	ART DET INDA
+individual	JJ
+mind	NN
+and	PHC CCONJ
+body	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+come	INF
+up	PIN PREP
+with	PIN PREP
+our	FPP1 PRP SBJP
+idea	NN
+of	PIN PREP
+a	ART DET INDA
+person	NN
+.	
+Whether	PIN CAP SCONJ PREP
+either	DET
+of	PIN PREP
+these	DEMO DET
+on	PIN PREP
+its	PIT PRP SBJP
+own	JJ
+still	RB
+constitutes	VPRT
+a	ART DET INDA
+person	NN
+remains	VPRT
+a	ART DET INDA
+matter	NN
+of	PIN PREP
+debate	NN
+.	
+If	COND PIN CAP SCONJ PREP
+forced	
+to	PIN TO PREP
+make	INF
+a	ART DET INDA
+choice	NN
+,	
+we	FPP1 PRP SBJP
+would	PRMD SPAU
+most	RB EMPH SPADJ
+likely	RB
+say	PUBV THATD INF
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+mental	JJ
+processes	NN
+and	PHC CCONJ
+personality	NOMZ
+that	TSUB WHSUB WH
+define	VPRT
+a	ART DET INDA
+person	NN
+rather	RB
+than	PIN PREP
+their	TPP3 PRP SBJP
+body	NN
+,	
+hence	RB CONJ
+the	ART DET
+belief	NN
+among	PIN PREP
+many	QUAN JJ
+that	PIN THAC SCONJ PREP
+a	ART DET INDA
+person	NN
+continues	VPRT
+to	PIN TO PREP
+exist	INF
+after	PIN PREP
+the	ART DET
+death	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+body	NN
+.	
+But	CAP CCONJ
+as	PIN CONJ PREP
+has	VPRT PEAS
+been	PASS AUXB
+shown	PRIV
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+very	AMP RB
+difficult	JJ
+to	PIN TO PREP
+pinpoint	INF
+which	DET WH
+of	PIN PREP
+the	ART DET
+multitude	NN
+of	PIN PREP
+mental	JJ
+states	PUBV NN
+,	
+if	COND PIN SCONJ PREP
+any	QUAN DET
+,	
+constitutes	VPRT
+who	WH
+we	FPP1 PRP SBJP
+really	RB EMPH
+are	VPRT AUXB
+.	

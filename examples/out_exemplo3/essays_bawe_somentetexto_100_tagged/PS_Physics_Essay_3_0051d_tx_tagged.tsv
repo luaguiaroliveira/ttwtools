@@ -1,0 +1,1127 @@
+# filename: PS_Physics_Essay_3_0051d_tx.txt
+token	tags
+Abstract	CAP NNP
+With	PIN CAP PREP
+the	ART DET
+increased	
+interest	NN
+in	PIN CONJ PREP
+nuclear	JJ
+power	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+viable	JJ
+source	NN
+of	PIN PREP
+energy	NN
+,	
+little	JJ
+consideration	NOMZ
+has	VPRT PEAS
+been	PASS AUXB
+given	
+to	PIN PREP
+waste	NN
+management	NOMZ
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+paper	NN
+the	ART DET
+two	NUM
+current	JJ
+methods	NN
+of	PIN PREP
+the	ART DET
+disposal	NN
+of	PIN PREP
+high	JJ
+-	
+level	NN
+radioactive	JJ
+waste	NN
+have	VPRT PEAS
+been	PASS AUXB
+discussed	
+and	CCONJ
+their	TPP3 PRP SBJP
+associated	
+problems	NN
+critically	RB
+evaluated	VBD
+.	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+_	
+With	PIN CAP PREP
+the	ART DET
+current	JJ
+energy	NN
+crisis	NN
+and	CCONJ
+the	ART DET
+imminent	JJ
+demise	NN
+of	PIN PREP
+fossil	JJ
+fuels	NN
+world	NN
+governments	NOMZ
+are	VPRT AUXB
+looking	PGAS
+for	PIN PREP
+reliable	JJ
+energy	NN
+sources	NN
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+more	RB EMPH CMADJ
+favourable	JJ
+solutions	NOMZ
+they	TPP3 PRP SBJP
+have	VPRT PEAS
+chosen	
+is	BEMA VPRT AUXB
+nuclear	JJ
+power	NN
+.	
+The	ART CAP DET
+main	JJ
+disadvantage	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+unwanted	JJ
+by	PIN STPR PREP
+-	
+product	NN
+of	PIN PREP
+nuclear	JJ
+fission	NOMZ
+process	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+large	JJ
+amount	NN
+of	PIN PREP
+hazardous	JJ
+radioactive	JJ
+waste	NN
+.	
+For	PIN CAP PREP
+each	QUAN DET
+year	NN
+that	PIN TOBJ SCONJ PREP
+a	ART DET INDA
+reactor	NN
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+operation	NOMZ
+a	ART DET INDA
+third	NN
+of	PIN PREP
+its	PIT PRP SBJP
+core	NN
+material	NN
+-	
+around	RB PLACE
+30	NUM
+tons	NN
+-	
+has	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+removed	
+and	PHC CCONJ
+replaced	
+.	
+During	PIN CAP PREP
+their	TPP3 PRP SBJP
+time	NN
+within	PIN PREP
+the	ART DET
+reactor	NN
+these	DEMO DET
+uranium	NN
+fuel	NN
+rods	NN
+increase	VPRT
+in	PIN CONJ PREP
+radioactivity	NOMZ
+to	PIN PREP
+the	ART DET
+extent	NN
+that	PIN DEMP SCONJ PREP
+when	RB SCONJ WH
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+removed	
+they	TPP3 PRP SBJP
+contain	VPRT
+hundreds	NN
+of	PIN PREP
+radioactive	JJ
+chemicals	NN
+that	TSUB WHSUB WH
+generate	VPRT
+large	JJ
+amounts	NN
+of	PIN PREP
+heat	NN
+and	PHC CCONJ
+radiation	NOMZ
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+regarded	
+as	PIN CONJ PREP
+high	JJ
+-	
+level	NN
+waste	NN
+.	
+The	ART CAP DET
+equipment	NOMZ
+and	PHC CCONJ
+tools	NN
+involved	WZPAST
+in	PIN CONJ PREP
+manipulating	GER PGAS
+the	ART DET
+materials	NN
+is	PASS VPRT AUXB
+categorised	
+as	PIN CONJ PREP
+low	JJ
+-	
+level	NN
+waste	NN
+,	
+given	
+its	PIT PRP SBJP
+relatively	RB
+short	JJ
+contact	NN
+time	NN
+with	PIN PREP
+the	ART DET
+reactor	NN
+.	
+At	PIN CAP PREP
+the	ART DET
+dawn	NN
+of	PIN PREP
+the	ART DET
+nuclear	JJ
+age	NN
+nobody	INPR
+foresaw	VBD PRIV THATD
+any	QUAN DET
+problems	NN
+regarding	WZPRES PGAS
+the	ART DET
+disposal	NN
+of	PIN PREP
+the	ART DET
+radioactive	JJ
+waste	NN
+.	
+Whilst	OSUB PIN CAP SCONJ PREP
+low	JJ
+-	
+level	NN
+waste	NN
+is	PASS VPRT SPAU AUXB
+easily	RB
+dealt	
+with	PIN PREP
+there	EX
+are	VPRT AUXB
+currently	RB
+two	NUM
+ways	NN
+of	PIN PREP
+dealing	PGAS
+with	PIN PREP
+high	JJ
+-	
+level	NN
+waste	NN
+,	
+each	QUAN DET
+of	PIN PREP
+which	PIRE DET WH
+has	VPRT
+obvious	JJ
+disadvantages	NN
+.	
+'	CONT QUOT
+One	CAP NUM
+method	NN
+preferred	SUAV WZPAST
+by	PIN PREP
+Canada	CAP NNP
+and	CCONJ
+the	ART DET
+US	FPP1 CAP NNP
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+bury	INF
+the	ART DET
+waste	NN
+deep	RB
+underground	RB PLACE
+in	PIN CONJ PREP
+a	ART DET INDA
+remote	JJ
+location	NOMZ
+'	CONT QUOT
+[	X
+1	NUM
+]	X
+.	
+This	DEMP CAP DET
+is	VPRT AUXB
+proving	PRIV PGAS
+increasingly	RB
+difficult	JJ
+due	PIN PREP
+to	PIN PREP
+the	ART DET
+lack	NN
+of	PIN PREP
+geographically	RB
+suitable	JJ
+areas	NN
+.	
+There	EX CAP
+are	VPRT AUXB
+also	RB
+political	JJ
+consequences	NN
+of	PIN PREP
+storing	PGAS
+dangerous	JJ
+nuclear	JJ
+waste	NN
+in	PIN CONJ PREP
+populated	JJ
+areas	NN
+that	TSUB WHSUB WH
+will	PRMD
+remain	INF
+a	ART DET INDA
+threat	NN
+for	PIN PREP
+as	OSUB RB CONJ
+long	JJ
+as	PIN CONJ PREP
+twenty	NUM
+-	
+four	NUM
+thousands	NN
+years	NN
+[	X
+2	NUM
+]	
+-	
+longer	RB CMADJ
+than	PIN PREP
+the	ART DET
+recorded	
+history	NN
+of	PIN PREP
+man	NN
+-	
+and	ANDC CCONJ
+at	PIN PREP
+a	ART DET INDA
+cost	NN
+of	PIN PREP
+tens	NN
+of	PIN PREP
+millions	NN
+of	PIN PREP
+pounds	NN
+per	PIN PREP
+year	NN
+[	X
+3	NUM
+]	
+.	
+The	ART CAP DET
+alternative	JJ
+approach	NN
+practiced	WZPAST
+by	PIN PREP
+European	JJ CAP
+countries	NN
+[	X
+1	NUM
+]	
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+reprocess	INF
+the	ART DET
+spent	
+fuel	NN
+rods	NN
+to	PIN TO PREP
+extract	INF
+unused	JJ
+uranium	NN
+and	PHC CCONJ
+plutonium	NN
+,	
+both	DET
+of	PIN PREP
+which	PIRE DET WH
+are	PASS VPRT AUXB
+used	
+in	PIN CONJ PREP
+atomic	JJ
+bomb	NN
+construction	NOMZ
+,	
+an	ART DET INDA
+obvious	JJ
+unethical	JJ
+by	PIN STPR NN PREP
+-	
+product	NN
+.	
+Of	PIN CAP PREP
+the	ART DET
+three	NUM
+commercial	JJ
+reprocessing	GER
+centres	NN
+planned	WZPAST
+for	PIN PREP
+construction	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+United	CAP NNP
+States	PUBV CAP NNP
+during	PIN PREP
+the	ART DET
+1960	NUM
+'s	
+,	
+only	DWNT RB
+one	NUM
+saw	VBD PRIV
+completion	NOMZ
+and	ANDC CCONJ
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+closed	
+down	PIN PREP
+in	PIN CONJ PREP
+1972	NUM
+under	PIN PREP
+a	ART DET INDA
+cloud	NN
+of	PIN PREP
+controversy	NN
+concerning	GER WZPRES PGAS
+accidental	JJ
+contamination	NOMZ
+at	PIN PREP
+the	ART DET
+site	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+reprocessing	GER PGAS
+was	VBD AUXB
+and	CCONJ
+still	RB
+is	BEMA VPRT AUXB
+a	ART DET INDA
+viable	JJ
+option	NOMZ
+,	
+it	PIT PRP SBJP
+merely	DWNT RB
+separates	VPRT
+the	ART DET
+much	QUAN RB
+sought	
+after	PIN PREP
+plutonium	NN
+from	PIN PREP
+the	ART DET
+remaining	PGAS
+fission	NOMZ
+products	NN
+which	WHSUB DET WH
+still	RB
+remain	VPRT
+radioactive	JJ
+for	PIN PREP
+over	PIN PREP
+a	ART DET INDA
+millennium	NN
+.	
+Unfortunately	RB CAP
+the	ART DET
+political	JJ
+situation	NOMZ
+throughout	PIN PREP
+the	ART DET
+latter	JJ
+twentieth	JJ
+century	NN
+has	VPRT PEAS
+forced	
+laws	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+passed	
+to	PIN TO PREP
+prevent	INF
+governments	NOMZ
+from	PIN PREP
+reprocessing	GER PGAS
+radioactive	JJ
+waste	NN
+.	
+While	OSUB PIN CAP SCONJ PREP
+this	DEMP DET
+does	VPRT EMPH
+remove	INF
+the	ART DET
+threat	NN
+of	PIN PREP
+countries	NN
+obtaining	WZPRES PGAS
+nuclear	JJ
+missile	NN
+capabilities	NN
+,	
+it	PIT PRP SBJP
+also	RB
+results	VPRT
+in	PIN CONJ PREP
+an	ART DET INDA
+increase	NN
+in	PIN CONJ PREP
+high	JJ
+-	
+level	NN
+waste	NN
+being	PASS WZPRES AUXB
+deposited	
+at	PIN PREP
+the	ART DET
+reactor	NN
+sites	NN
+.	
+The	ART CAP DET
+untreated	JJ
+waste	NN
+has	VPRT PEAS
+been	PASS AUXB
+allowed	SUAV
+to	PIN TO PREP
+accumulate	INF
+to	PIN PREP
+the	ART DET
+extent	NN
+that	PIN DEMO SCONJ PREP
+today	TIME NN
+'	CONT QUOT
+approximately	RB
+7000	NUM
+tons	NN
+of	PIN PREP
+spent	
+fuel	NN
+from	PIN PREP
+commercial	JJ
+reactors	NN
+is	PASS VPRT AUXB
+stored	
+on	PIN PREP
+racks	NN
+submerged	WZPAST
+in	PIN CONJ PREP
+cooling	PGAS
+ponds	NN
+or	CCONJ
+"	QUOT
+swimming	NN
+pools	NN
+"	QUOT
+at	PIN PREP
+each	QUAN DET
+reactor	NN
+site	NN
+[	X
+in	PIN CONJ PREP
+America	CAP NNP
+]	
+.	
+'	CONT QUOT
+[	X
+1	X
+]	X
+This	DEMO CAP DET
+waste	NN
+is	BEMA VPRT AUXB
+highly	AMP RB
+dangerous	JJ
+and	ANDC CCONJ
+if	COND PIN SCONJ PREP
+left	
+untreated	JJ
+can	POMD
+be	BEMA AUXB INF
+damaging	JJ PRED
+to	PIN PREP
+the	ART DET
+local	JJ
+environment	NOMZ
+.	
+Before	PIN CAP PREP
+understanding	GER PRIV PGAS
+the	ART DET
+severity	NOMZ
+of	PIN PREP
+the	ART DET
+radiation	NOMZ
+emitted	WZPAST
+by	PIN PREP
+radioactive	JJ
+waste	NN
+,	
+one	PRP SBJP
+must	NEMD
+understand	PRIV INF
+the	ART DET
+units	NN
+and	PHC CCONJ
+scales	NN
+used	
+.	
+Radiation	NOMZ CAP
+dosage	NN
+is	PASS VPRT AUXB
+measured	
+in	PIN CONJ PREP
+rem	NNP
+s	VPRT
+with	PIN PREP
+a	ART DET INDA
+thousand	NUM
+millirems	NN
+constituting	GER WZPRES PGAS
+one	NUM
+rem	NN
+.	
+Table	NN CAP
+1	NUM
+shows	VPRT PRIV
+how	RB WHCL SCONJ WH
+differing	PGAS
+values	NN
+affect	VPRT
+the	ART DET
+human	JJ
+body	NN
+.	
+Table	NN CAP
+1	NUM
+-	
+Radiation	NOMZ CAP
+dosages	NN
+and	CCONJ
+their	TPP3 PRP SBJP
+resultant	JJ
+effects	NN
+on	PIN PREP
+subjects	NN
+The	ART CAP DET
+reason	PRIV NN
+that	PIN TOBJ THVC SCONJ PREP
+nuclear	JJ
+power	NN
+plants	NN
+are	BEMA VPRT AUXB
+so	RB EMPH
+low	JJ
+on	PIN PREP
+the	ART DET
+scale	NN
+is	BEMA VPRT AUXB
+due	JJ PRED
+to	PIN PREP
+heavy	JJ
+shielding	NN
+around	PIN PLACE PREP
+the	ART DET
+reactor	NN
+core	NN
+,	
+but	CCONJ
+once	PIN TIME SCONJ PREP
+the	ART DET
+waste	NN
+leaves	VPRT
+the	ART DET
+core	NN
+the	ART DET
+radioactive	JJ
+emissions	NOMZ
+are	BEMA VPRT AUXB
+far	RB PLACE
+in	PIN CONJ PREP
+excess	NN
+of	PIN PREP
+background	NN
+radiation	NOMZ
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+table	NN
+shows	VPRT PRIV
+,	
+radiation	NOMZ
+effects	NN
+are	VPRT AUXB
+not	XX0 RB
+easily	RB
+observable	JJ
+below	PIN PLACE PREP
+50	NUM
+rems	NN
+.	
+'	CONT QUOT
+Few	QUAN JJ CAP
+low	JJ
+-	
+level	NN
+studies	NN
+exist	VPRT
+,	
+not	XX0 RB
+only	DWNT RB
+because	CAUS PIN SCONJ PREP
+the	ART DET
+results	NN
+are	BEMA VPRT AUXB
+ambiguous	JJ PRED
+,	
+but	CCONJ
+also	RB
+because	CAUS PIN SCONJ PREP
+studies	NN
+that	TSUB WHSUB WH
+require	VPRT SUAV
+research	NN
+and	CCONJ
+follow	INF
+-	
+up	NN
+for	PIN PREP
+a	ART DET INDA
+period	NN
+of	PIN PREP
+forty	NUM
+years	NN
+are	BEMA VPRT AUXB
+prohibitively	RB
+expensive	JJ
+.	
+'	CONT QUOT
+[	X
+4	X
+]	X
+This	DEMP CAP DET
+makes	VPRT
+it	PIT PRP SBJP
+difficult	JJ
+to	PIN TO PREP
+know	PRIV INF
+what	WHCL WH
+the	ART DET
+effects	NN
+of	PIN PREP
+low	JJ
+-	
+level	NN
+radiation	NOMZ
+are	BEMA VPRT AUXB
+over	PIN PREP
+long	JJ
+periods	NN
+of	PIN PREP
+time	NN
+.	
+Cancer	CAP NNP
+may	POMD SPAU
+not	XX0 RB
+appear	SMP INF
+for	PIN PREP
+decades	NN
+after	PIN PREP
+exposure	NN
+and	CCONJ
+genetic	JJ
+defects	NN
+may	POMD
+lay	INF
+dormant	JJ
+for	PIN PREP
+generations	NOMZ
+.	
+The	ART CAP DET
+closest	JJ SPADJ
+scientists	NN
+have	VPRT PEAS
+come	
+to	PIN PREP
+a	ART DET INDA
+model	NN
+for	PIN PREP
+low	JJ
+-	
+level	NN
+radiation	NOMZ
+behaviour	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+study	INF
+the	ART DET
+high	JJ
+-	
+dose	NN
+effects	NN
+and	CCONJ
+extrapolate	INF
+the	ART DET
+information	NOMZ
+down	PIN PREP
+to	PIN PREP
+the	ART DET
+low	JJ
+-	
+dose	NN
+range	NN
+[	X
+4	NUM
+]	
+.	
+Here	RB CAP
+lies	VPRT
+the	ART DET
+source	NN
+of	PIN PREP
+the	ART DET
+radiation	NOMZ
+controversy	NN
+.	
+Whilst	OSUB PIN CAP SCONJ PREP
+many	QUAN JJ
+scientists	NN
+support	VPRT
+the	ART DET
+linear	JJ
+hypothesis	NN
+,	
+there	EX
+is	VPRT AUXB
+an	ART DET INDA
+increasing	GER PGAS
+belief	NN
+that	PIN DEMO SCONJ PREP
+more	JJ EMPH CMADJ
+damage	NN
+is	PASS VPRT AUXB
+caused	
+per	PIN PREP
+rem	NN
+at	PIN PREP
+low	JJ
+doses	NN
+than	PIN PREP
+at	PIN PREP
+high	JJ
+ones	NN
+.	
+Their	TPP3 CAP PRP SBJP
+argument	NOMZ
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+lower	JJ CMADJ
+doses	NN
+only	DWNT RB
+weaken	INF
+and	CCONJ
+damage	NN
+cells	NN
+rather	RB
+than	PIN PREP
+kill	INF
+them	TPP3 PRP SBJP ACCU
+.	
+These	DEMO CAP DET
+cells	NN
+then	RB
+live	VPRT
+on	PIN PREP
+to	PIN TO PREP
+damage	INF
+neighbouring	GER PGAS
+healthy	JJ
+cells	NN
+-	
+similar	JJ
+to	PIN PREP
+a	ART DET INDA
+cancer	NN
+.	
+Whilst	OSUB PIN CAP SCONJ PREP
+highly	AMP RB
+radioactive	JJ
+waste	NN
+can	POMD
+be	PASS AUXB INF
+buried	
+well	RB
+below	PIN PLACE PREP
+ground	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+minimise	INF
+the	ART DET
+resultant	JJ
+effects	NN
+at	PIN PREP
+surface	NN
+level	NN
+,	
+the	ART DET
+resultant	JJ
+low	JJ
+-	
+level	NN
+increase	NN
+in	PIN CONJ PREP
+the	ART DET
+radioactivity	NOMZ
+at	PIN PREP
+the	ART DET
+surface	NN
+could	POMD
+raise	INF
+the	ART DET
+level	NN
+beyond	PIN PREP
+the	ART DET
+tolerable	JJ
+limit	NN
+and	ANDC CCONJ
+hence	RB CONJ
+cause	INF
+damage	NN
+to	PIN PREP
+the	ART DET
+human	JJ
+body	NN
+that	TSUB WHSUB WH
+is	BEMA VPRT AUXB
+not	XX0 RB
+visible	JJ
+.	
+'	CONT QUOT
+This	DEMP CAP DET
+may	POMD
+manifest	INF
+itself	PIT PRP SBJP ACCU
+as	PIN CONJ PREP
+an	ART DET INDA
+increased	
+risk	NN
+of	PIN PREP
+mental	JJ
+retardation	NOMZ
+along	PIN PREP
+with	PIN PREP
+other	JJ
+congenital	JJ
+malformations	NOMZ
+.	
+'	CONT QUOT
+[	X
+5	X
+]	X
+Conclusion	CAP NNP
+Nuclear	CAP NNP
+power	NN
+plants	NN
+produce	VPRT
+thousands	NN
+of	PIN PREP
+tons	NN
+of	PIN PREP
+radioactive	JJ
+waste	NN
+each	QUAN DET
+year	NN
+and	CCONJ
+yet	RB
+there	EX
+is	VPRT AUXB
+still	RB
+no	SYNE DET
+safe	JJ
+and	PHC CCONJ
+efficient	JJ
+method	NN
+of	PIN PREP
+disposal	NN
+.	
+Burial	CAP NNP
+is	VPRT AUXB
+very	AMP RB
+much	QUAN RB
+limited	JJ
+by	PIN PREP
+the	ART DET
+suitability	NOMZ
+of	PIN PREP
+potential	JJ
+sites	NN
+and	CCONJ
+even	RB
+when	RB SCONJ WH
+a	ART DET INDA
+suitable	JJ
+site	NN
+is	PASS VPRT AUXB
+found	PRIV
+,	
+there	EX
+are	VPRT AUXB
+still	RB
+adverse	JJ
+effects	NN
+on	PIN PREP
+the	ART DET
+surrounding	GER PGAS
+environment	NOMZ
+.	
+Reprocessing	GER CAP PGAS
+is	BEMA VPRT AUXB
+both	DET
+expensive	JJ
+and	PHC CCONJ
+ineffective	JJ
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+only	DWNT RB
+marginally	RB
+reduces	VPRT
+the	ART DET
+amount	NN
+of	PIN PREP
+radioactive	JJ
+constituents	NN
+which	WHSUB DET WH
+then	RB
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+buried	
+.	
+As	PIN CONJ CAP PREP
+such	JJ
+nuclear	JJ
+power	NN
+is	VPRT AUXB
+still	RB
+very	AMP RB
+much	QUAN RB
+an	ART DET INDA
+unethical	JJ
+and	PHC CCONJ
+dangerous	JJ
+power	NN
+source	NN
+and	CCONJ
+will	PRMD
+remain	INF
+so	RB
+until	PIN PREP
+significant	JJ
+breakthroughs	NN
+have	VPRT PEAS
+been	PASS AUXB
+made	
+regarding	PGAS
+waste	NN
+disposal	NN
+.	

@@ -1,0 +1,902 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0710.0445.txt
+token	tags
+﻿	NNP
+    	
+Making	CAP PGAS
+decisions	NOMZ
+based	WZPAST
+on	PIN PREP
+rational	JJ
+thought	PRIV NN
+is	BEMA VPRT AUXB
+the	ART DET
+general	JJ
+assumptions	NOMZ
+of	PIN PREP
+must	NEMD
+part	NN
+of	PIN PREP
+researchers	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+opposite	JJ PIN PREP
+way	NN
+,	
+Ariely	RB CAP
+(	
+2008	NUM
+)	
+,	
+in	PIN CONJ PREP
+the	ART DET
+book	NN
+‘	
+ 	
+’	
+,	
+presents	VPRT
+a	ART DET INDA
+series	NN
+of	PIN PREP
+scientific	JJ
+experiments	NOMZ
+,	
+and	ANDC CCONJ
+findings	NN
+that	TSUB WHSUB WH
+supports	VPRT
+the	ART DET
+existence	NN
+of	PIN PREP
+behaviors	NN
+that	TSUB WHSUB WH
+may	POMD
+skew	INF
+the	ART DET
+traditional	JJ
+rational	JJ
+choice	NN
+theory	NN
+.	
+ 	
+According	CAP PGAS
+to	PIN PREP
+Ariely	RB CAP
+(	
+2008	NUM
+)	
+a	ART DET INDA
+type	NN
+of	PIN PREP
+asymmetric	JJ
+dominance	NN
+or	CCONJ
+decoy	NN
+effect	NN
+is	BEMA VPRT AUXB
+the	ART DET
+"	QUOT
+secret	JJ
+agent	NN
+"	QUOT
+in	PIN CONJ PREP
+many	QUAN JJ
+decisions	NOMZ
+.	
+Following	CAP PGAS
+observations	NOMZ
+,	
+a	ART DET INDA
+number	NN
+of	PIN PREP
+situations	NOMZ
+influences	VPRT
+the	ART DET
+phenomenon	NN
+of	PIN PREP
+specific	JJ
+change	NN
+in	PIN CONJ PREP
+preference	NN
+of	PIN PREP
+choosing	PGAS
+process	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+his	TPP3 PRP SBJP
+book	NN
+,	
+Ariely	RB CAP
+challenges	VPRT
+the	ART DET
+theory	NN
+of	PIN PREP
+supply	NN
+and	PHC CCONJ
+demand	SUAV NN
+,	
+claiming	PUBV PGAS
+that	PIN THVC SCONJ PREP
+the	ART DET
+methods	NN
+of	PIN PREP
+appointing	GER PGAS
+a	ART DET INDA
+value	NN
+can	POMD
+be	PASS AUXB INF
+manipulated	
+.	
+In	PIN CONJ CAP PREP
+some	QUAN DET
+situations	NOMZ
+,	
+consumers	NN
+buy	VPRT
+a	ART DET INDA
+product	NN
+at	PIN PREP
+a	ART DET INDA
+certain	JJ
+price	NN
+,	
+before	PIN PREP
+they	TPP3 PRP SBJP
+become	VPRT
+"	QUOT
+anchored	
+"	QUOT
+to	PIN PREP
+that	DEMO DET
+price	NN
+moved	SUAV WZPAST
+by	PIN PREP
+a	ART DET INDA
+arbitrary	JJ
+coherence	NN
+.	
+Thus	RB CONJ CAP
+,	
+the	ART DET
+consumers	NN
+are	BEMA VPRT AUXB
+susceptible	JJ PRED
+to	PIN PREP
+irrational	JJ
+pricing	NN
+,	
+making	PGAS
+decisions	NOMZ
+without	PIN PREP
+rationalizing	GER PGAS
+the	ART DET
+outcomes	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+choices	NN
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+based	PASTP
+on	PIN PREP
+memory	NN
+rather	RB
+than	PIN PREP
+on	PIN PREP
+preferences	NN
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+Ariely	RB CAP
+explains	VPRT PUBV
+the	ART DET
+human	JJ
+reaction	NOMZ
+to	PIN PREP
+the	ART DET
+words	NN
+"	QUOT
+free	JJ
+"	QUOT
+and	ANDC CCONJ
+"	QUOT
+zero	NUM
+"	QUOT
+.	
+Mentioning	GER PUBV CAP PGAS
+multiple	JJ
+experiments	NOMZ
+,	
+the	ART DET
+author	NN
+shown	VBD PRIV THATD
+that	PIN THVC SCONJ PREP
+when	RB SCONJ WH
+person	NN
+faced	VBD
+multiple	JJ
+choices	NN
+,	
+they	TPP3 PRP SBJP
+commonly	RB
+choose	VPRT
+the	ART DET
+free	JJ
+option	NOMZ
+.	
+ 	
+Regarding	CAP PGAS
+social	JJ
+and	CCONJ
+market	NN
+norms	NN
+,	
+Ariely	RB CAP
+speaks	VPRT
+about	PIN PREP
+the	ART DET
+differences	NN
+between	PIN PREP
+this	DEMO DET
+to	PIN PREP
+elements	NOMZ
+.	
+An	ART CAP DET INDA
+example	NN
+,	
+of	PIN PREP
+social	JJ
+norms	NN
+could	POMD
+be	BEMA AUXB INF
+friendly	JJ
+requests	SUAV NN
+of	PIN PREP
+payback	NN
+and	PHC CCONJ
+market	NN
+norms	NN
+as	PIN CONJ PREP
+accounts	NN
+for	PIN PREP
+prices	NN
+,	
+cost	NN
+benefits	NN
+,	
+repayment	NOMZ
+being	BEMA WZPRES AUXB
+essential	JJ PRED
+,	
+and	ANDC CCONJ
+others	NN
+.	
+Ariely	RB CAP
+talks	NN
+about	PIN PREP
+the	ART DET
+influence	NN
+of	PIN PREP
+social	JJ
+norms	NN
+into	PIN PREP
+the	ART DET
+market	NN
+norms	NN
+.	
+He	TPP3 CAP PRP SBJP
+comments	VPRT PUBV
+that	PIN THVC SCONJ PREP
+the	ART DET
+relations	NOMZ
+between	PIN PREP
+this	DEMO DET
+too	JJ
+elements	NOMZ
+could	POMD
+cause	INF
+troubles	NN
+.	
+Such	JJ CAP
+as	PIN CONJ PREP
+people	NN
+that	TSUB WHSUB WH
+prefer	VPRT SUAV
+to	PIN TO PREP
+do	PROD INF
+things	NN
+when	RB WHOBJ SCONJ WH
+they	TPP3 PRP SBJP
+feel	VPRT PRIV
+good	JJ
+rather	RB
+when	RB SCONJ WH
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+been	PASS AUXB
+paid	
+for	PIN PREP
+that	DEMP DET
+.	
+The	ART CAP DET
+authors	NN
+describe	VPRT
+some	QUAN DET
+situation	NOMZ
+in	PIN CONJ PREP
+which	PIRE DET WH
+work	NN
+output	NN
+is	PASS VPRT BYPA SPAU AUXB
+negatively	RB
+affected	
+by	PIN PREP
+payment	NOMZ
+,	
+even	RB
+if	COND PIN SCONJ PREP
+will	PRMD
+be	BEMA AUXB INF
+a	ART DET INDA
+small	JJ
+or	CCONJ
+large	JJ
+amounts	NN
+of	PIN PREP
+money	NN
+.	
+Experiments	NOMZ CAP
+made	WZPAST
+by	PIN PREP
+others	NN
+researchers	NN
+cited	VBD
+in	PIN CONJ PREP
+the	ART DET
+book	NN
+,	
+confirm	PUBV INF
+the	ART DET
+assumptions	NOMZ
+of	PIN PREP
+Ariely	RB CAP
+,	
+This	DEMO CAP DET
+tests	NN
+showed	VBD PRIV THATD
+that	PIN STPR DEMP SCONJ PREP
+“	
+favor	NN
+”	
+works	NN
+,	
+in	PIN CONJ PREP
+other	JJ
+words	NN
+,	
+done	PASTP
+as	PIN CONJ PREP
+a	ART DET INDA
+request	SUAV NN
+of	PIN PREP
+a	ART DET INDA
+friend	NN
+,	
+sometimes	RB
+produced	VBD
+better	JJ CMADJ
+results	NN
+than	PIN PREP
+work	NN
+paid	
+.	
+ 	
+Probably	RB CAP
+,	
+this	DEMO DET
+effect	NN
+on	PIN PREP
+working	PGAS
+live	RB
+could	POMD
+be	PASS BYPA AUXB INF
+explained	PUBV
+by	PIN PREP
+an	ART DET INDA
+attempt	NN
+to	PIN TO PREP
+connect	INF
+people	NN
+on	PIN PREP
+a	ART DET INDA
+social	JJ
+level	NN
+,	
+or	CCONJ
+a	ART DET INDA
+desire	SUAV NN
+of	PIN PREP
+it	PIT PRP SBJP
+,	
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+gain	INF
+trust	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+author	NN
+words	NN
+"	QUOT
+ 	
+"	QUOT
+.	
+Seeing	PRIV CAP PGAS
+in	PIN CONJ PREP
+this	DEMO DET
+perspective	NN
+,	
+the	ART DET
+employer	NN
+could	POMD
+use	INF
+this	DEMO DET
+effect	NN
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+favor	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+what	WH
+it	PIT PRP SBJP
+refers	VPRT
+to	PIN PREP
+emotion	NOMZ
+situation	NOMZ
+,	
+the	ART DET
+theory	NN
+indicates	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+human	JJ
+behavior	NN
+is	PASS VPRT BYPA AUXB
+controlled	
+by	PIN PREP
+emotions	NOMZ
+.	
+Ariely	RB CAP
+(	
+2008	NUM
+)	
+use	VPRT
+data	NN
+and	PHC CCONJ
+experiments	NOMZ
+to	PIN TO PREP
+argues	VPRT PUBV
+that	PIN THVC SCONJ PREP
+anger	NN
+,	
+frustration	NOMZ
+,	
+and	ANDC CCONJ
+hunger	NN
+named	
+high	JJ
+-	
+emotions	NOMZ
+potentially	RB
+trigger	VPRT
+effect	NN
+s	X
+in	PIN CONJ PREP
+the	ART DET
+same	JJ
+level	NN
+on	PIN PREP
+decision	NOMZ
+-	
+making	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+sense	PRIV NN
+,	
+the	ART DET
+people	NN
+are	VPRT AUXB
+not	XX0 RB
+what	WH
+they	TPP3 PRP SBJP
+think	VPRT PRIV THATD
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+.	
+It	PIT CAP PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+matter	INF
+the	ART DET
+experiences	NN
+or	CCONJ
+live	JJ
+history	NN
+in	PIN CONJ PREP
+some	QUAN DET
+subject	NN
+,	
+everyone	QUPR INPR
+could	POMD
+make	INF
+irrational	JJ
+decisions	NOMZ
+all	QUAN DET
+the	ART DET
+time	NN
+,	
+because	CAUS PIN SCONJ PREP
+the	ART DET
+behavior	NN
+is	BEMA VPRT AUXB
+under	PIN PREP
+the	ART DET
+influence	NN
+of	PIN PREP
+arousal	NN
+whether	PIN SCONJ PREP
+biological	JJ
+,	
+social	JJ
+,	
+physical	JJ
+,	
+sexual	JJ
+,	
+etc	X
+.	X
+A	ART CAP DET INDA
+positive	JJ
+aspect	NN
+emerge	INF
+in	PIN CONJ PREP
+this	DEMO DET
+context	NN
+,	
+researchers	NN
+have	VPRT PEAS
+appointed	
+ideas	NN
+to	PIN TO PREP
+improve	INF
+decision	NOMZ
+-	
+making	PGAS
+abilities	NN
+,	
+using	PGAS
+emotion	NOMZ
+-	
+provoking	PGAS
+situations	NOMZ
+for	PIN PREP
+making	PGAS
+other	JJ
+life	NN
+decisions	NOMZ
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+very	AMP RB
+relevant	JJ
+,	
+because	CAUS PIN SCONJ PREP
+positive	JJ
+emotions	NOMZ
+could	POMD
+be	AUXB INF
+use	NN
+in	PIN CONJ PREP
+live	JJ
+changes	NN
+in	PIN CONJ PREP
+irrational	JJ
+behaviors	NN
+.	
+ 	
+Otherwise	RB CONJ CAP
+,	
+the	ART DET
+irrationality	NOMZ
+of	PIN PREP
+the	ART DET
+decision	NOMZ
+making	NN
+process	NN
+seems	VPRT SMP
+to	PIN TO PREP
+influence	INF
+the	ART DET
+lack	NN
+of	PIN PREP
+self	NN
+-	
+control	NN
+on	PIN PREP
+Americans	CAP NNP
+.	
+Ariely	RB CAP
+(	
+2008	NUM
+)	
+analyses	VPRT
+two	NUM
+states	PUBV NN
+of	PIN PREP
+humor	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+people	NN
+make	VPRT
+their	TPP3 PRP SBJP
+judgments	NOMZ
+,	
+he	TPP3 PRP SBJP
+calls	VPRT
+it	PIT PRP SBJP
+cool	VPRT
+state	PUBV NN
+and	CCONJ
+hot	JJ
+state	PUBV NN
+.	
+If	COND PIN CAP SCONJ PREP
+so	RB
+,	
+the	ART DET
+theory	NN
+also	RB
+should	NEMD
+be	PASS AUXB INF
+applied	
+to	PIN PREP
+other	JJ
+aspects	NN
+in	PIN CONJ PREP
+life	NN
+such	JJ
+as	PIN CONJ PREP
+health	NN
+care	NN
+and	PHC CCONJ
+savings	NN
+.	
+Companies	NN CAP
+must	NEMD
+be	AUXB INF
+using	PGAS
+this	DEMO DET
+knowledge	NN
+to	PIN TO PREP
+manipulate	INF
+the	ART DET
+clients	NN
+.	
+ 	
+Specifically	RB CAP
+and	PHC CCONJ
+individually	RB
+,	
+Ariely	RB CAP
+(	
+2008	NUM
+)	
+builds	VPRT
+all	QUAN DET
+the	ART DET
+argumentation	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+comprehensions	NOMZ
+of	PIN PREP
+the	ART DET
+irrationality	NOMZ
+of	PIN PREP
+decision	NOMZ
+-	
+making	NN
+.	
+Think	PRIV CAP INF
+about	PIN PREP
+irrational	JJ
+decisions	NOMZ
+about	PIN PREP
+ownership	NN
+,	
+each	QUAN DET
+person	NN
+could	POMD
+realize	PRIV INF
+this	DEMO DET
+theory	NN
+,	
+especially	RB
+when	RB SCONJ WH
+they	TPP3 PRP SBJP
+overvalue	VPRT
+what	WH
+they	TPP3 PRP SBJP
+have	VPRT
+.	
+This	DEMO CAP DET
+idea	NN
+makes	VPRT
+them	TPP3 PRP SBJP ACCU
+perceive	PRIV INF
+the	ART DET
+value	NN
+of	PIN PREP
+an	ART DET INDA
+object	PUBV NN
+as	RB CONJ
+much	QUAN RB
+higher	JJ CMADJ
+.	
+Three	CAP NUM
+reasons	PRIV NN
+could	POMD
+be	PASS AUXB INF
+used	
+to	PIN TO PREP
+explain	PUBV INF
+why	RB WHCL SCONJ WH
+thinking	PRIV PGAS
+rationally	RB
+about	PIN PREP
+own	JJ
+possessions	NOMZ
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+:	
+1	X
+)	
+people	NN
+worry	VPRT
+more	RB EMPH CMADJ
+about	PIN PREP
+what	WH
+they	TPP3 PRP SBJP
+may	POMD
+lose	INF
+rather	RB
+than	PIN PREP
+on	PIN PREP
+what	WH
+we	FPP1 PRP SBJP
+may	POMD
+gain	INF
+;	
+2	X
+)	
+the	ART DET
+connection	NOMZ
+between	PIN PREP
+the	ART DET
+person	NN
+and	CCONJ
+the	ART DET
+things	NN
+,	
+makes	VPRT
+difficult	JJ
+dispose	NN
+of	PIN PREP
+it	PIT PRP SBJP
+;	
+and	ANDC CCONJ
+3	X
+)	
+seen	PRIV
+the	ART DET
+transaction	NOMZ
+could	POMD
+influence	INF
+the	ART DET
+perception	NOMZ
+of	PIN PREP
+it	PIT PRP SBJP
+.	
+Finally	RB CAP
+,	
+the	ART DET
+feeling	PRIV NN
+of	PIN PREP
+ownership	NN
+it	PIT PRP SBJP
+seems	VPRT SMP
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+determined	PRIV SUAV
+by	PIN PREP
+the	ART DET
+level	NN
+of	PIN PREP
+work	NN
+the	ART DET
+person	NN
+spend	VPRT
+on	PIN PREP
+it	PIT PRP SBJP
+,	
+that	RB DEMO
+is	RB
+,	
+the	ART DET
+harder	JJ CMADJ
+someone	QUPR INPR
+work	INF
+on	PIN PREP
+something	QUPR INPR
+,	
+the	ART DET
+more	JJ EMPH CMADJ
+he	TPP3 PRP SBJP
+/	
+she	TPP3 PRP SBJP
+start	VPRT
+feeling	PRIV PGAS
+about	PIN PREP
+them	TPP3 PRP SBJP ACCU
+as	PIN CONJ PREP
+our	FPP1 PRP SBJP
+own	JJ
+.	
+ 	
+In	PIN CONJ CAP PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+book	NN
+,	
+Ariely	RB CAP
+(	
+2008	NUM
+)	
+states	VPRT PUBV
+that	PIN THVC SCONJ PREP
+previous	JJ
+knowledge	NN
+about	PIN PREP
+on	PIN PREP
+topic	NN
+could	POMD
+change	INF
+the	ART DET
+experience	NN
+of	PIN PREP
+it	PIT PRP SBJP
+.	
+Thus	RB CONJ CAP
+,	
+expectations	NOMZ
+must	NEMD
+shape	INF
+stereotypes	NN
+.	
+The	ART CAP DET
+author	NN
+concludes	VPRT PRIV
+“	
+ 	
+”	
+.	
+     	

@@ -1,0 +1,1566 @@
+# filename: LS_Psychology_Essay_1_0262g_tx.txt
+token	tags
+Antisocial	JJ CAP
+personality	NOMZ
+disorder	NN
+is	PASS VPRT SPAU AUXB
+also	RB
+known	PRIV
+as	PIN CONJ PREP
+psychopathy	JJ
+,	
+sociopathy	JJ
+or	CCONJ
+dissocial	JJ
+personality	NOMZ
+disorder	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+'	CONT QUOT
+Diagnostic	JJ CAP
+and	CCONJ
+Statistical	CAP NNP
+Manual	CAP NNP
+of	PIN PREP
+Mental	CAP NNP
+Disorders	CAP NNP
+'	CONT QUOT
+or	CCONJ
+'	CONT QUOT
+DSM	CAP NNP
+-	
+IV	CAP NNP
+'	CONT QUOT
+,	
+it	PIT PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+grouped	
+in	PIN CONJ PREP
+cluster	NN
+B	CAP NNP
+of	PIN PREP
+axis	JJ
+II	CAP NNP
+.	
+The	ART CAP DET
+manual	NN
+defines	VPRT
+individuals	NN
+with	PIN PREP
+this	DEMO DET
+disorder	NN
+as	PIN CONJ PREP
+having	PGAS
+a	ART DET INDA
+tendency	NN
+to	PIN TO SPIN PREP
+repeatedly	RB
+break	INF
+the	ART DET
+law	NN
+without	PIN PREP
+regarding	PGAS
+the	ART DET
+feelings	NN
+and	PHC CCONJ
+rights	NN
+of	PIN PREP
+people	NN
+who	WHSUB WH
+may	POMD
+become	INF
+victims	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+crimes	NN
+.	
+DSM	CAP NNP
+-	
+IV	CAP NNP
+includes	VPRT
+evidence	NN
+of	PIN PREP
+impulsiveness	NOMZ
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+description	NOMZ
+,	
+and	ANDC CCONJ
+signs	NN
+of	PIN PREP
+aggressiveness	NOMZ
+and	PHC CCONJ
+lack	NN
+of	PIN PREP
+empathy	NN
+.	
+The	ART CAP DET
+manual	NN
+also	RB
+defines	VPRT
+someone	QUPR INPR
+with	PIN PREP
+this	DEMO DET
+disorder	NN
+as	PIN CONJ PREP
+being	BEMA AUXB
+at	RB PIN PREP
+least	RB SPADJ
+eighteen	NUM
+years	NN
+old	JJ
+and	CCONJ
+having	PGAS
+a	ART DET INDA
+history	NN
+of	PIN PREP
+conduct	NN
+disorder	NN
+earlier	RB TIME CMADJ
+in	PIN CONJ PREP
+life	NN
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+criminal	JJ
+behaviour	NN
+,	
+many	QUAN JJ
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+end	VPRT
+up	PIN PREP
+in	PIN CONJ PREP
+prison	NN
+and	ANDC CCONJ
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+questions	NOMZ
+about	PIN PREP
+how	RB SCONJ WH
+the	ART DET
+criminal	JJ
+justice	NN
+system	NN
+could	POMD SPAU
+better	RB CMADJ
+understand	PRIV INF
+these	DEMO DET
+individuals	NN
+and	CCONJ
+deal	INF
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+in	PIN CONJ PREP
+an	ART DET INDA
+appropriate	JJ
+way	NN
+,	
+encouraging	GER PRESP PGAS
+them	TPP3 PRP SBJP ACCU
+not	XX0 RB
+to	PIN TO PREP
+re	PIN INF PREP
+-	INF
+offend	INF
+.	
+Some	QUAN CAP DET
+of	PIN PREP
+these	DEMO DET
+questions	NOMZ
+may	POMD
+be	PASS BYPA AUXB INF
+answered	
+by	PIN PREP
+considering	GER PRIV PGAS
+the	ART DET
+bio	JJ
+-	JJ
+behavioural	JJ
+approach	NN
+to	PIN PREP
+this	DEMO DET
+disorder	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+work	INF
+with	PIN PREP
+people	NN
+with	PIN PREP
+this	DEMO DET
+disorder	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+try	INF
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+way	NN
+they	TPP3 PRP SBJP
+think	VPRT PRIV
+such	JJ
+as	PIN CONJ PREP
+their	TPP3 PRP SBJP
+capacity	NOMZ
+to	PIN TO PREP
+understand	PRIV INF
+emotion	NOMZ
+and	ANDC CCONJ
+how	RB SCONJ WH
+this	DEMO DET
+effects	NN
+responsibility	NOMZ
+for	PIN PREP
+their	TPP3 PRP SBJP
+acts	NN
+(	
+Ciocchetti	CAP NNP
+,	
+2003	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+also	RB
+important	JJ
+to	PIN TO PREP
+consider	PRIV INF
+the	ART DET
+findings	NN
+of	PIN PREP
+behavioural	JJ
+studies	NN
+on	PIN PREP
+passive	JJ
+-	
+avoidance	NN
+learning	PRIV NN
+of	PIN PREP
+psychopaths	NN
+(	
+Thornquist	CAP NNP
+&	CCONJ
+Zuckerman	CAP NNP
+,	
+1995	NUM
+and	CCONJ
+Newman	CAP NNP
+,	
+Patterson	CAP NNP
+,	
+Howland	CAP NNP
+&	CCONJ
+Nichols	CAP NNP
+,	
+1990	NUM
+)	
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+research	NN
+on	PIN STPR PREP
+'	CONT QUOT
+delay	NN
+of	PIN PREP
+gratification	NOMZ
+'	CONT QUOT
+,	
+(	
+Newman	CAP NNP
+,	
+Patterson	CAP NNP
+&	CCONJ
+Kosson	CAP NNP
+,	
+1992	NUM
+)	
+and	ANDC CCONJ
+'	CONT QUOT
+the	ART DET
+response	NN
+modulation	NOMZ
+hypothesis	NN
+'	CONT QUOT
+,	
+(	
+Newman	CAP NNP
+,	
+Schmitt	CAP NNP
+&	CCONJ
+Voss	CAP NNP
+,	
+1997	NUM
+)	
+.	
+Biological	JJ CAP
+accounts	NN
+can	POMD SPAU
+also	RB
+give	INF
+insight	NN
+into	PIN PREP
+the	ART DET
+problem	NN
+,	
+including	PGAS
+accounts	NN
+of	PIN PREP
+neuropsychology	NN
+(	
+Smith	CAP NNP
+,	
+Arnett	CAP NNP
+&	CCONJ
+Newman	CAP NNP
+,	
+1992	NUM
+)	
+,	
+and	ANDC CCONJ
+studies	NN
+of	PIN PREP
+genetic	JJ
+influences	NN
+using	WZPRES PGAS
+twins	NN
+(	
+Carey	CAP NNP
+,	
+1992	NUM
+)	
+.	
+Finally	RB CAP
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+help	INF
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+,	
+different	JJ
+types	NN
+of	PIN PREP
+therapy	NN
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+addressed	
+and	CCONJ
+the	ART DET
+effectiveness	NOMZ
+of	PIN PREP
+these	DEMO DET
+therapies	NN
+considered	PRIV
+.	
+In	PIN CONJ CAP PREP
+his	TPP3 PRP SBJP
+article	NN
+'	CONT QUOT
+The	ART CAP DET
+Responsibility	CAP NNP
+of	PIN PREP
+the	ART DET
+Psychopathic	CAP NNP
+Offender	CAP NNP
+'	CONT QUOT
+,	
+Ciocchetti	CAP NNP
+(	
+2003	NUM
+)	
+,	
+describes	VPRT
+how	RB WHQU SCONJ WH
+psychopaths	NN
+are	BEMA VPRT AUXB
+incapable	JJ PRED
+of	PIN PREP
+forming	PGAS
+relationships	NN
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+relate	INF
+and	PHC CCONJ
+respond	INF
+to	PIN PREP
+the	ART DET
+reactions	NOMZ
+of	PIN PREP
+others	NN
+.	
+He	TPP3 CAP PRP SBJP
+proposes	VPRT SUAV
+that	PIN THVC SCONJ PREP
+psychopathic	JJ
+offenders	NN
+can	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+fully	AMP RB
+responsible	JJ
+for	PIN PREP
+their	TPP3 PRP SBJP
+actions	NOMZ
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+lack	VPRT
+emotion	NOMZ
+and	CCONJ
+do	VPRT SPAU
+not	XX0 RB
+understand	PRIV INF
+the	ART DET
+full	JJ
+impact	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+actions	NOMZ
+like	PIN PREP
+non	JJ
+-	JJ
+psychopathic	JJ
+offenders	NN
+do	VPRT PROD
+.	
+He	TPP3 CAP PRP SBJP
+also	RB
+argues	VPRT PUBV
+that	PIN THVC SCONJ PREP
+psychopathic	JJ
+offenders	NN
+must	NEMD
+be	PASS AUXB INF
+treated	
+differently	RB
+to	PIN PREP
+non	JJ
+-	JJ
+psychopathic	JJ
+offenders	NN
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+lack	VPRT
+moral	JJ
+values	NN
+and	CCONJ
+do	VPRT SPAU
+not	XX0 RB
+respond	INF
+to	PIN PREP
+common	JJ
+forms	NN
+of	PIN PREP
+punishment	NOMZ
+.	
+Ciocchetti	CAP NNP
+emphasises	VPRT
+his	TPP3 PRP SBJP
+belief	NN
+that	PIN TOBJ SCONJ PREP
+appropriate	JJ
+psychiatric	JJ
+care	NN
+would	PRMD
+be	AUXB INF
+far	RB PLACE
+more	RB EMPH CMADJ
+appropriate	JJ
+than	PIN PREP
+common	JJ
+punishment	NOMZ
+.	
+A	ART CAP DET INDA
+number	NN
+of	PIN PREP
+experiments	NOMZ
+have	VPRT PEAS
+been	PASS AUXB
+carried	
+out	PIN PREP
+to	PIN TO PREP
+investigate	INF
+why	RB SCONJ WH
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+do	VPRT SPAU
+not	XX0 RB
+respond	INF
+to	PIN PREP
+punishment	NOMZ
+.	
+They	TPP3 CAP PRP SBJP
+especially	RB
+look	VPRT
+at	PIN PREP
+passive	JJ
+avoidance	NN
+learning	PRIV NN
+(	
+Newman	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+1990	NUM
+and	CCONJ
+Thornquist	CAP NNP
+&	CCONJ
+Zuckerman	CAP NNP
+,	
+1995	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+shown	PRIV
+that	PIN THVC SCONJ PREP
+psychopaths	NN
+are	BEMA VPRT AUXB
+deficient	JJ PRED
+in	PIN CONJ PREP
+avoidance	NN
+learning	PRIV NN
+and	ANDC CCONJ
+this	DEMP DET
+is	PASS VPRT BYPA AUXB
+caused	
+by	PIN STPR PREP
+'	CONT QUOT
+poor	JJ
+fear	PRIV NN
+conditioning	GER
+'	CONT QUOT
+,	
+(	
+Eysenck	CAP NNP
+,	
+1967	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Newman	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+1990	NUM
+)	
+.	
+Psychopaths	NN CAP
+have	VPRT
+a	ART DET INDA
+reduced	
+level	NN
+of	PIN PREP
+fear	PRIV NN
+arousal	NN
+and	ANDC CCONJ
+this	DEMP DET
+interferes	VPRT
+with	PIN PREP
+learning	PRIV PGAS
+to	PIN TO PREP
+avoid	INF
+situations	NOMZ
+that	TSUB WHSUB WH
+appear	VPRT SMP
+unpleasant	JJ
+to	PIN PREP
+people	NN
+without	PIN PREP
+the	ART DET
+disorder	NN
+.	
+However	RB CONJ CAP
+,	
+a	ART DET INDA
+study	NN
+by	PIN PREP
+Schmauk	NN CAP
+(	
+1970	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Newmanal	CAP NNP
+.	
+1990	NUM
+)	
+,	
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+psychopaths	NN
+did	VBD SPAU
+not	XX0 RB
+tend	INF
+to	PIN TO PREP
+react	INF
+to	PIN PREP
+social	JJ
+or	CCONJ
+physical	JJ
+punishment	NOMZ
+but	CCONJ
+did	VBD EMPH
+react	INF
+when	RB SCONJ WH
+punished	
+with	PIN PREP
+loss	NN
+of	PIN PREP
+money	NN
+.	
+This	DEMP CAP DET
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+psychopaths	NN
+are	BEMA VPRT AUXB
+capable	JJ PRED
+of	PIN PREP
+some	QUAN DET
+sort	NN HDG
+of	PIN PREP
+avoidance	NN
+learning	PRIV NN
+and	CCONJ
+criminal	JJ
+justice	NN
+should	NEMD
+consider	PRIV INF
+other	JJ
+ways	NN
+of	PIN PREP
+punishing	PGAS
+them	TPP3 PRP SBJP ACCU
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+react	VPRT
+to	PIN PREP
+and	CCONJ
+learn	PRIV INF
+from	PIN STPR PREP
+.	
+A	ART CAP DET INDA
+study	NN
+by	PIN PREP
+Newman	CAP NNP
+,	
+Widom	CAP NNP
+and	PHC CCONJ
+Nathan	CAP NNP
+(	
+1985	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Thornquist	CAP NNP
+&	CCONJ
+Zuckerman	CAP NNP
+,	
+1995	NUM
+)	
+,	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+psychopaths	NN
+were	BEMA VBD AUXB
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+respond	INF
+to	PIN PREP
+a	ART DET INDA
+loss	NN
+of	PIN PREP
+reward	NN
+for	PIN PREP
+not	XX0 RB
+responding	GER PGAS
+to	PIN PREP
+a	ART DET INDA
+'	CONT QUOT
+positive	JJ
+'	CONT QUOT
+stimulus	NN
+than	PIN PREP
+a	ART DET INDA
+punishment	NOMZ
+when	RB WHSUB SCONJ WH
+responding	GER PGAS
+to	PIN PREP
+a	ART DET INDA
+'	CONT QUOT
+negative	JJ
+'	CONT QUOT
+stimulus	NN
+.	
+This	DEMP CAP DET
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+encouragement	NOMZ
+to	PIN TO PREP
+take	INF
+positive	JJ
+action	NOMZ
+is	BEMA VPRT AUXB
+a	EMPH ART DET INDA
+lot	NN
+more	RB EMPH CMADJ
+effective	JJ
+than	PIN PREP
+punishing	PGAS
+negative	JJ
+acts	NN
+.	
+Prisons	NN CAP
+could	POMD
+try	INF
+to	PIN TO PREP
+encourage	INF
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+to	PIN TO PREP
+concentrate	INF
+on	PIN PREP
+positive	JJ
+activities	NN
+,	
+to	PIN TO PREP
+discourage	INF
+them	TPP3 PRP SBJP ACCU
+from	PIN PREP
+negative	JJ
+activities	NN
+,	
+including	PGAS
+breaking	PGAS
+the	ART DET
+law	NN
+.	
+Experiments	NOMZ CAP
+on	PIN STPR PREP
+'	CONT QUOT
+delay	NN
+of	PIN PREP
+gratification	NOMZ
+'	CONT QUOT
+have	VPRT PEAS SPAU
+also	RB
+been	PASS AUXB
+carried	
+out	PIN PREP
+to	PIN TO SPIN PREP
+further	RB
+investigate	INF
+the	ART DET
+response	NN
+of	PIN PREP
+psychopaths	NN
+to	PIN TO PREP
+reward	INF
+,	
+(	
+Blanchard	CAP NNP
+,	
+Bassett	CAP NNP
+,	
+&	CCONJ
+Koshland	CAP NNP
+,	
+1977	NUM
+;	
+Widom	CAP NNP
+1977	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Newman	CAP NNP
+,	
+Kosson	CAP NNP
+,	
+&	CCONJ
+Patterson	CAP NNP
+,	
+1992	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+Widom	CAP NNP
+'s	
+(	
+1977	NUM
+)	
+experiment	NOMZ
+participants	NN
+were	PASS VBD AUXB
+offered	
+immediate	JJ
+cash	NN
+payment	NOMZ
+and	CCONJ
+the	ART DET
+decision	NOMZ
+to	PIN TO PREP
+refuse	INF
+it	PIT PRP SBJP
+and	CCONJ
+get	INF
+twice	DET
+the	ART DET
+amount	NN
+the	ART DET
+following	PGAS
+week	NN
+.	
+Participants	NN CAP
+were	PASS VBD AUXB
+measured	
+on	PIN PREP
+the	ART DET
+MMPI	CAP NNP
+Psychopathic	CAP NNP
+Deviate	CAP NNP
+scale	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+found	PRIV
+that	PIN THVC SCONJ PREP
+those	DEMO DET
+with	PIN PREP
+higher	JJ CMADJ
+scores	NN
+on	PIN PREP
+the	ART DET
+scale	NN
+were	BEMA VBD AUXB
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+accept	PRIV INF
+the	ART DET
+immediate	JJ
+cash	NN
+payment	NOMZ
+.	
+The	ART CAP DET
+ability	NOMZ
+to	PIN TO PREP
+resist	INF
+the	ART DET
+immediate	JJ
+reward	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+measure	NN
+of	PIN PREP
+self	NN
+-	
+control	NN
+,	
+(	
+Newman	CAP NNP
+,	
+Kosson	CAP NNP
+&	CCONJ
+Patterson	CAP NNP
+,	
+1992	NUM
+)	
+,	
+and	ANDC CCONJ
+this	DEMP DET
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+have	VPRT PEAS
+limited	
+self	NN
+-	
+control	NN
+.	
+The	ART CAP DET
+studies	NN
+mentioned	PUBV WZPAST
+so	RB
+far	RB PLACE
+have	VPRT PEAS
+concentrated	
+on	PIN PREP
+behavioural	JJ
+accounts	NN
+of	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+.	
+There	EX CAP
+have	VPRT PEAS SPAU
+also	RB
+been	AUXB
+investigations	NOMZ
+into	PIN PREP
+whether	PIN SCONJ PREP
+there	EX
+are	VPRT AUXB
+biological	JJ PRED
+or	CCONJ
+genetic	JJ
+differences	NN
+between	PIN PREP
+psychopathic	JJ
+and	PHC CCONJ
+non	JJ
+-	JJ
+psychopathic	JJ
+offenders	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+study	NN
+by	PIN PREP
+Smith	CAP NNP
+,	
+Arnett	CAP NNP
+and	PHC CCONJ
+Newman	CAP NNP
+(	
+1992	NUM
+)	
+both	DET
+psychopathic	JJ
+and	PHC CCONJ
+non	JJ
+-	JJ
+psychopathic	JJ
+participants	NN
+were	PASS VBD AUXB
+divided	
+in	PIN CONJ PREP
+to	PIN PREP
+groups	NN
+of	PIN PREP
+either	CCONJ
+low	JJ
+or	CCONJ
+high	JJ
+anxious	JJ
+psychopaths	NN
+or	CCONJ
+low	JJ
+or	CCONJ
+high	JJ
+anxious	JJ
+non	NN
+-	NN
+psychopaths	NN
+.	
+They	TPP3 CAP PRP SBJP
+were	PASS VBD SPAU AUXB
+then	RB
+tested	
+on	PIN PREP
+different	JJ
+tasks	NN
+designed	WZPAST
+to	PIN TO PREP
+use	INF
+different	JJ
+functions	NOMZ
+of	PIN PREP
+the	ART DET
+brain	NN
+.	
+Vague	JJ CAP
+support	NN
+was	PASS VBD AUXB
+found	PRIV
+for	PIN PREP
+the	ART DET
+hypothesis	NN
+that	TOBJ WHOBJ WH
+psychopaths	NN
+would	PRMD
+perform	INF
+poorer	RB CMADJ
+on	PIN PREP
+tasks	NN
+involving	WZPRES PGAS
+the	ART DET
+frontal	JJ
+lobe	NN
+.	
+Also	RB CAP
+low	JJ
+-	
+anxious	JJ
+psychopaths	NN
+did	VBD SPAU
+not	XX0 RB
+perform	INF
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+low	JJ
+-	
+anxious	JJ
+non	NN
+-	NN
+psychopaths	NN
+on	PIN PREP
+certain	JJ
+tasks	NN
+involving	WZPRES PGAS
+block	NN
+design	NN
+.	
+This	DEMO CAP DET
+study	NN
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+there	EX
+may	POMD
+be	BEMA AUXB INF
+some	QUAN DET
+differences	NN
+in	PIN CONJ PREP
+brain	NN
+functioning	GER WZPRES PGAS
+between	PIN PREP
+psychopaths	NN
+and	PHC CCONJ
+non	NN
+-	NN
+psychopaths	NN
+.	
+Antisocial	JJ CAP
+personality	NOMZ
+disorder	NN
+and	PHC CCONJ
+criminality	NOMZ
+have	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+to	PIN TO PREP
+have	INF
+genetic	JJ
+factors	NN
+.	
+In	PIN CONJ CAP PREP
+St.	CAP NNP
+Louis	CAP NNP
+a	ART DET INDA
+link	NN
+has	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+between	PIN PREP
+females	NN
+with	PIN PREP
+hysteria	NN
+and	CCONJ
+first	JJ
+-	
+degree	NN
+male	JJ
+relatives	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+(	
+McGuffin	CAP NNP
+,	
+Shanks	CAP NNP
+&	CCONJ
+Hodgson	CAP NNP
+,	
+1984	NUM
+)	
+.	
+Also	RB CAP
+,	
+a	ART DET INDA
+higher	JJ CMADJ
+concordance	NN
+of	PIN PREP
+personality	NOMZ
+disorder	NN
+was	PASS VBD AUXB
+found	PRIV
+in	PIN CONJ PREP
+MZ	CAP NNP
+twins	NN
+than	PIN PREP
+in	PIN CONJ PREP
+DZ	CAP NNP
+twins	NN
+(	
+Slater	CAP NNP
+&	CCONJ
+Shields	CAP NNP
+,	
+1969	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+McGuffin	CAP NNP
+,	
+Shanks	CAP NNP
+&	CCONJ
+Hodgson	CAP NNP
+,	
+1984	NUM
+)	
+.	
+Genetics	NN CAP
+factors	NN
+have	VPRT PEAS SPAU
+also	RB
+been	PASS AUXB
+shown	PRIV
+,	
+in	PIN CONJ PREP
+adoption	NOMZ
+studies	NN
+,	
+to	PIN TO PREP
+influence	INF
+criminality	NOMZ
+.	
+A	ART CAP DET INDA
+study	NN
+by	PIN PREP
+Hutchings	CAP NNP
+&	CCONJ
+Mednick	CAP NNP
+(	
+1975	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+McGuffin	CAP NNP
+,	
+Shanks	CAP NNP
+&	CCONJ
+Hodgson	CAP NNP
+,	
+1984	NUM
+)	
+,	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+people	NN
+were	BEMA VBD AUXB
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+commit	INF
+crimes	NN
+if	COND PIN SCONJ PREP
+their	TPP3 PRP SBJP
+biological	JJ
+father	NN
+was	BEMA VBD AUXB
+a	ART DET INDA
+criminal	JJ
+than	PIN PREP
+if	COND PIN SCONJ PREP
+there	EX
+adopted	VBD
+father	NN
+was	BEMA VBD AUXB
+a	ART DET INDA
+criminal	NN
+.	
+Criminality	NOMZ CAP
+was	VBD AUXB
+even	RB
+more	RB EMPH CMADJ
+likely	JJ
+if	COND PIN SCONJ PREP
+both	DET
+biological	JJ
+and	CCONJ
+adopted	VBD
+fathers	NN
+were	VBD AUXB
+criminals	NN
+.	
+Whatever	CAP DET WH
+factors	NN
+cause	VPRT
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+,	
+theories	NN
+of	PIN PREP
+how	RB SCONJ WH
+to	PIN TO PREP
+treat	INF
+people	NN
+with	PIN PREP
+this	DEMO DET
+condition	NOMZ
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+put	
+into	PIN PREP
+practice	NN
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+therapy	NN
+.	
+The	ART CAP DET
+most	RB EMPH SPADJ
+popular	JJ
+is	BEMA VPRT AUXB
+individual	JJ
+psychotherapy	NN
+along	PIN PREP
+with	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+a	ART DET INDA
+cognitive	JJ
+-	
+behavioural	JJ
+approach	NN
+(	
+Kraus	CAP NNP
+&	CCONJ
+Reynolds	CAP NNP
+,	
+2001	NUM
+)	
+.	
+Methods	NN CAP
+which	WHSUB DET WH
+seem	VPRT SMP
+to	PIN TO PREP
+work	INF
+are	VPRT AUXB
+concentration	NOMZ
+on	PIN PREP
+anger	NN
+management	NOMZ
+,	
+alcohol	NN
+or	CCONJ
+drug	NN
+abuse	NN
+,	
+which	SERE DET WH
+the	ART DET
+patient	NN
+may	POMD
+have	INF
+a	ART DET INDA
+problem	NN
+with	PIN STPR PREP
+,	
+and	ANDC CCONJ
+empathy	JJ
+training	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+try	INF
+and	PHC CCONJ
+understand	PRIV INF
+how	RB WHCL SCONJ WH
+their	TPP3 PRP SBJP
+actions	NOMZ
+affect	VPRT
+others	NN
+.	
+Suggestions	NOMZ CAP
+have	VPRT PEAS
+been	PASS AUXB
+made	
+that	PIN DEMO SCONJ PREP
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+should	NEMD SPAU
+not	XX0 RB
+take	INF
+part	NN
+in	PIN CONJ PREP
+group	NN
+therapy	NN
+and	CCONJ
+individual	JJ
+therapy	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+appropriate	JJ
+(	
+Yalom	CAP NNP
+,	
+1985	NUM
+,	
+MacKenzie	CAP NNP
+,	
+1997	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Kraus	CAP NNP
+&	CCONJ
+Reynolds	CAP NNP
+,	
+2001	NUM
+)	
+.	
+Family	NN CAP
+and	CCONJ
+marital	JJ
+group	NN
+therapy	NN
+,	
+however	RB CONJ
+,	
+have	VPRT PEAS
+been	PASS AUXB
+considered	PRIV
+more	RB EMPH CMADJ
+appropriate	JJ
+than	PIN PREP
+other	JJ
+types	NN
+of	PIN PREP
+group	NN
+therapy	NN
+(	
+Melroy	CAP NNP
+,	
+1995	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Kraus	CAP NNP
+&	CCONJ
+Reynolds	CAP NNP
+,	
+2001	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+some	QUAN DET
+situations	NOMZ
+,	
+medication	NOMZ
+has	VPRT PEAS
+been	PASS AUXB
+used	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+therapy	NN
+,	
+to	PIN TO PREP
+alleviate	INF
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+symptoms	NN
+,	
+although	CONC PIN SCONJ PREP
+there	EX
+are	VPRT AUXB
+no	SYNE DET
+drugs	NN
+to	PIN TO PREP
+treat	INF
+the	ART DET
+disorder	NN
+specifically	RB
+(	
+Gabbard	CAP NNP
+&	CCONJ
+Coyne	CAP NNP
+,	
+1987	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Kraus	CAP NNP
+&	CCONJ
+Reynolds	CAP NNP
+,	
+2001	NUM
+)	
+.	
+Most	JJ EMPH CAP SPADJ
+drugs	NN
+are	PASS VPRT AUXB
+used	
+to	PIN TO PREP
+treat	INF
+symptoms	NN
+of	PIN PREP
+aggression	NOMZ
+which	WHSUB DET WH
+are	PASS VPRT BYPA AUXB
+expressed	
+by	PIN PREP
+many	QUAN JJ
+people	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+.	
+There	EX CAP
+are	VPRT AUXB
+some	QUAN DET
+concerns	NN
+about	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+drug	NN
+therapy	NN
+because	CAUS PIN SCONJ PREP
+many	QUAN JJ
+patients	NN
+have	VPRT PEAS
+been	PASS AUXB
+known	PRIV
+to	PIN TO PREP
+abuse	INF
+the	ART DET
+medication	NOMZ
+or	CCONJ
+become	INF
+addicted	JJ
+to	PIN PREP
+drugs	NN
+such	JJ
+as	PIN CONJ PREP
+benzodiazapines	NN
+(	
+Kraus	CAP NNP
+&	CCONJ
+Reynolds	CAP NNP
+,	
+2001	NUM
+)	
+.	
+When	RB CAP SCONJ WH
+criminal	JJ
+justice	NN
+and	PHC CCONJ
+law	NN
+enforcement	NOMZ
+are	VPRT AUXB
+dealing	PGAS
+with	PIN PREP
+criminals	NN
+with	PIN PREP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+they	TPP3 PRP SBJP
+have	VPRT
+to	PIN TO PREP
+understand	PRIV INF
+their	TPP3 PRP SBJP
+reasons	PRIV NN
+behind	PIN PLACE PREP
+the	ART DET
+crime	NN
+and	CCONJ
+find	PRIV INF
+appropriate	JJ
+ways	NN
+to	PIN TO PREP
+help	INF
+them	TPP3 PRP SBJP ACCU
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+that	PIN THAC SCONJ PREP
+they	TPP3 PRP SBJP
+understand	VPRT PRIV
+that	PIN THVC SCONJ PREP
+imprisonment	NOMZ
+by	PIN PREP
+itself	PIT PRP SBJP ACCU
+is	BEMA VPRT AUXB
+not	XX0 RB
+an	ART DET INDA
+adequate	JJ
+way	NN
+to	PIN TO PREP
+punish	INF
+psychopaths	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+stop	INF
+them	TPP3 PRP SBJP ACCU
+committing	GER PGAS
+the	ART DET
+same	JJ
+crimes	NN
+again	RB TIME
+.	
+They	TPP3 CAP PRP SBJP
+should	NEMD SPAU
+also	RB
+learn	PRIV THATD INF
+that	PIN DEMP SCONJ PREP
+making	PGAS
+therapy	NN
+available	JJ
+to	PIN PREP
+psychopaths	NN
+may	POMD
+help	INF
+them	TPP3 PRP SBJP ACCU
+with	PIN PREP
+their	TPP3 PRP SBJP
+antisocial	JJ
+personality	NOMZ
+disorder	NN
+.	

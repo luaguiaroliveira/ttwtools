@@ -1,0 +1,585 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1854.1091.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2018	CAP NNP
+-	NNP
+1.1854.1091	NUM
+>	X
+  	
+<	X
+Code	CAP NNP
+in	PIN CONJ PREP
+School	CAP NNP
+>	
+  	
+The	ART CAP DET
+Brazilian	JJ CAP
+system	NN
+of	PIN PREP
+education	NOMZ
+is	BEMA VPRT AUXB
+old	JJ PRED
+and	PHC CCONJ
+inefficient	JJ PRED
+.	
+Technology	NN CAP
+and	PHC CCONJ
+society	NN
+has	VPRT PEAS
+evolved	
+but	CCONJ
+the	ART DET
+method	NN
+of	PIN PREP
+teach	NN
+has	VPRT PEAS SPAU
+not	XX0 RB
+changed	
+.	
+Almost	DWNT RB CAP
+none	INPR NN
+professor	NN
+stimulate	VPRT
+students	NN
+to	PIN TO PREP
+think	PRIV INF
+,	
+to	PIN TO PREP
+be	BEMA AUXB INF
+creative	JJ PRED
+,	
+to	PIN TO PREP
+use	INF
+logic	NN
+.	
+The	ART CAP DET
+technology	NN
+,	
+like	PIN PREP
+tablets	NN
+and	PHC CCONJ
+computers	NN
+,	
+is	BEMA VPRT AUXB
+a	ART DET INDA
+wonderful	JJ
+solution	NOMZ
+to	PIN PREP
+that	DEMO DET
+issue	NN
+.	
+But	CAP CCONJ
+the	ART DET
+solution	NOMZ
+is	VPRT AUXB
+not	XX0 RB
+just	RB EMPH
+to	PIN TO PREP
+teach	INF
+how	RB SCONJ WH
+to	PIN TO PREP
+use	INF
+computers	NN
+in	PIN CONJ PREP
+class	NN
+,	
+because	CAUS PIN SCONJ PREP
+children	NN
+already	RB
+have	VPRT
+a	ART DET INDA
+great	JJ
+familiarity	NOMZ
+with	PIN PREP
+interacting	GER PGAS
+with	PIN PREP
+new	JJ
+technologies	NN
+,	
+what	WHQU WH
+is	VPRT AUXB
+missing	PGAS
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+is	BEMA VPRT AUXB
+the	ART DET
+capability	NOMZ
+of	PIN PREP
+being	BEMA AUXB
+creative	JJ PRED
+and	CCONJ
+to	PIN TO PREP
+express	INF
+themselves	TPP3 PRP SBJP ACCU
+using	PGAS
+those	DEMO DET
+technologies	NN
+.	
+To	PIN CAP PREP
+that	DEMO DET
+end	NN
+,	
+schools	NN
+should	NEMD
+teach	INF
+how	RB SCONJ WH
+to	PIN TO PREP
+code	INF
+,	
+and	ANDC CCONJ
+how	RB WHQU SCONJ WH
+students	NN
+can	POMD
+use	INF
+that	DEMO DET
+to	PIN TO PREP
+express	INF
+their	TPP3 PRP SBJP
+own	JJ
+idea	NN
+.	
+          	
+Children	NN CAP
+have	VPRT
+an	ART DET INDA
+incredible	JJ
+ability	NOMZ
+to	PIN TO SPIN PREP
+not	XX0 RB
+fear	PRIV INF
+being	BEMA AUXB
+wrong	JJ PRED
+,	
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+do	VPRT SPAU
+not	XX0 RB
+know	PRIV INF
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+do	PROD INF
+something	QUPR INPR
+they	TPP3 PRP SBJP
+will	PRMD
+give	INF
+a	ART DET INDA
+try	NN
+no	RB
+matter	RB
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+doing	PROD PGAS
+it	PIT PRP SBJP
+right	RB
+or	CCONJ
+incorrectly	RB
+.	
+That	DEMP CAP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+wonderful	JJ
+thing	NN
+about	PIN PREP
+them	TPP3 PRP SBJP ACCU
+,	
+not	XX0 RB
+because	CAUS PIN SCONJ PREP
+be	BEMA AUXB INF
+mistaken	JJ PRED
+is	BEMA VPRT AUXB
+good	JJ PRED
+,	
+but	CCONJ
+because	CAUS PIN SCONJ PREP
+if	COND PIN SCONJ PREP
+you	SPP2 PRP SBJP
+are	BEMA VPRT AUXB
+afraid	JJ PRED
+of	PIN PREP
+being	BEMA AUXB
+wrong	JJ PRED
+,	
+you	SPP2 PRP SBJP
+will	PRMD SPAU
+never	RB
+come	INF
+up	PIN PREP
+with	PIN PREP
+anything	QUPR INPR
+original	JJ
+.	
+However	RB CONJ CAP
+in	PIN CONJ PREP
+the	ART DET
+actual	JJ
+education	NOMZ
+systems	NN
+commit	VPRT
+a	ART DET INDA
+mistake	NN
+is	BEMA VPRT AUXB
+the	ART DET
+worst	JJ SPADJ
+thing	NN
+a	ART DET INDA
+student	NN
+can	POMD
+do	PROD INF
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+people	NN
+have	VPRT
+being	PASS AUXB
+educated	
+out	PIN PREP
+of	PIN PREP
+their	TPP3 PRP SBJP
+creative	JJ
+capabilities	NN
+,	
+making	PGAS
+adults	NN
+that	TSUB WHSUB WH
+are	BEMA VPRT AUXB
+fright	JJ PRED
+of	PIN PREP
+being	BEMA AUXB
+wrong	JJ PRED
+.	
+  	
+Therefore	RB CONJ CAP
+teach	INF
+to	PIN TO PREP
+code	NN
+in	PIN CONJ PREP
+school	NN
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+.	
+Te	CAP NNP
+ability	NOMZ
+to	PIN TO PREP
+code	INF
+would	PRMD SPAU
+not	XX0 RB
+only	DWNT RB
+allow	SUAV INF
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+be	BEMA AUXB INF
+creative	JJ PRED
+,	
+but	CCONJ
+also	RB
+would	PRMD
+provide	INF
+the	ART DET
+skill	NN
+of	PIN PREP
+creation	NOMZ
+.	
+Develop	CAP INF
+something	QUPR INPR
+,	
+like	PIN PREP
+a	ART DET INDA
+code	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+really	RB EMPH
+hard	JJ
+task	NN
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+starts	VPRT
+only	DWNT RB
+with	PIN PREP
+an	ART DET INDA
+idea	NN
+and	ANDC CCONJ
+then	RB
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+turn	INF
+a	ART DET INDA
+thought	PRIV NN
+in	PIN CONJ PREP
+a	ART DET INDA
+functionally	RB
+project	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+build	INF
+the	ART DET
+project	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+essential	JJ PRED
+to	PIN TO PREP
+reason	PRIV NN
+systematically	RB
+,	
+by	PIN PREP
+take	INF
+complex	JJ
+ideas	NN
+and	CCONJ
+break	INF
+them	TPP3 PRP SBJP ACCU
+down	PIN PREP
+in	PIN CONJ PREP
+to	PIN PREP
+simpler	JJ CMADJ
+parts	NN
+,	
+which	SERE WHQU DET WH
+already	RB
+are	PASS VPRT AUXB
+known	PRIV
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+do	PROD INF
+it	PIT PRP SBJP
+.	
+In	PIN CONJ CAP PREP
+others	NN
+words	NN
+the	ART DET
+children	NN
+will	PRMD
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+give	INF
+live	RB
+to	PIN PREP
+their	TPP3 PRP SBJP
+ideas	NN
+and	PHC CCONJ
+fantasies	NN
+.	
+  	
+And	ANDC CAP CCONJ
+that	DEMP DET
+is	VPRT AUXB
+only	DWNT RB
+one	NUM
+of	PIN PREP
+the	ART DET
+amazing	JJ
+things	NN
+that	TOBJ WHOBJ WH
+you	SPP2 PRP SBJP
+learn	VPRT PRIV
+when	RB WHCL SCONJ WH
+you	SPP2 PRP SBJP
+are	VPRT AUXB
+starting	PGAS
+to	PIN TO PREP
+code	INF
+.	
+It	PIT CAP PRP SBJP
+also	RB
+teaches	VPRT
+firstly	RB
+how	RB SCONJ WH
+to	PIN TO PREP
+be	BEMA AUXB INF
+persistent	JJ PRED
+,	
+by	PIN PREP
+trying	PGAS
+to	PIN TO PREP
+find	PRIV INF
+and	PHC CCONJ
+solve	INF
+bugs	NN
+in	PIN CONJ PREP
+your	SPP2 PRP SBJP
+code	NN
+when	RB WHOBJ SCONJ WH
+it	PIT PRP SBJP
+is	VPRT SPAU AUXB
+not	XX0 RB
+working	PGAS
+perfectly	AMP RB
+.	
+And	ANDC CAP CCONJ
+secondly	RB
+how	RB SCONJ WH
+to	PIN TO PREP
+work	INF
+collaboratively	RB
+when	RB SCONJ WH
+the	ART DET
+project	NN
+is	PASS VPRT BYPA AUXB
+being	PASS BYPA AUXB
+developed	
+by	PIN PREP
+more	JJ EMPH CMADJ
+than	PIN PREP
+one	NUM
+person	NN
+.	
+Even	RB CAP
+saying	PUBV PGAS
+all	QUAN DET
+that	DEMP DET
+,	
+the	ART DET
+most	RB EMPH SPADJ
+amazing	JJ
+apart	RB
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+school	NN
+can	POMD SPAU
+also	RB
+use	INF
+the	ART DET
+codification	NOMZ
+to	PIN TO PREP
+teach	INF
+other	JJ
+things	NN
+like	PIN PREP
+mathematics	NN
+and	PHC CCONJ
+physics	NN
+by	PIN PREP
+asking	SUAV PGAS
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+develop	INF
+something	QUPR INPR
+correlated	WZPAST
+to	PIN PREP
+those	DEMO DET
+subjects	NN
+.	
+  	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+learn	PRIV INF
+to	PIN TO PREP
+code	NN
+brings	VPRT
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+benefits	NN
+,	
+and	ANDC CCONJ
+this	DEMP DET
+should	NEMD
+be	PASS AUXB INF
+done	PROD
+in	PIN CONJ PREP
+the	ART DET
+childhood	NN
+because	CAUS PIN SCONJ PREP
+after	PIN PREP
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+will	PRMD
+learn	PRIV INF
+more	RB EMPH CMADJ
+efficiently	RB
+and	PHC CCONJ
+quickly	RB
+.	
+Above	PIN PLACE CAP PREP
+all	QUAN DET
+the	ART DET
+children	NN
+will	PRMD
+want	INF
+to	PIN TO PREP
+learn	PRIV INF
+to	PIN TO PREP
+code	INF
+to	PIN TO PREP
+have	INF
+fun	NN
+.	
+Some	QUAN CAP DET
+people	NN
+think	VPRT PRIV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+not	XX0 RB
+worth	JJ
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT SPAU AUXB
+not	XX0 RB
+going	PGAS
+to	PIN TO PREP
+use	INF
+code	NN
+in	PIN CONJ PREP
+life	NN
+,	
+but	CCONJ
+kids	NN
+do	VPRT SPAU
+not	XX0 RB
+learn	PRIV INF
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+read	INF
+and	PHC CCONJ
+write	PUBV INF
+to	PIN TO PREP
+become	INF
+a	ART DET INDA
+professional	JJ
+writer	NN
+,	
+so	PIN SCONJ PREP
+they	TPP3 PRP SBJP
+can	POMD
+learn	PRIV INF
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+code	INF
+and	CCONJ
+not	XX0 RB
+turn	INF
+into	PIN PREP
+a	ART DET INDA
+computer	NN
+scientist	NN
+.	
+And	ANDC CAP CCONJ
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+damage	NN
+by	PIN PREP
+learning	PRIV THATD PGAS
+it	PIT PRP SBJP
+.	

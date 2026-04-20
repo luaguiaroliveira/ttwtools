@@ -1,0 +1,992 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2485.1327.txt
+token	tags
+  	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+present	INF
+and	PHC CCONJ
+discuss	INF
+the	ART DET
+idea	NN
+proposed	SUAV WZPAST
+in	PIN CONJ PREP
+Alan	CAP NNP
+Turing	CAP NNP
+’s	
+most	RB EMPH SPADJ
+cited	
+academical	JJ
+work	NN
+,	
+namely	RB CONJ
+,	
+Computing	CAP NNP
+Machinery	CAP NNP
+and	PHC CCONJ
+Intelligence	CAP NNP
+.	
+This	DEMO CAP DET
+work	NN
+is	PASS VPRT AUXB
+claimed	PUBV
+as	PIN CONJ PREP
+one	NUM
+of	PIN PREP
+the	ART DET
+keystones	NN
+upon	PIN SCONJ PREP
+which	PIRE DET WH
+Artificial	CAP NNP
+Intelligence	CAP NNP
+(	
+AI	CAP NNP
+)	
+has	VPRT PEAS
+been	AUXB
+developing	GER PGAS
+since	OSUB PIN SCONJ PREP
+the	ART DET
+advent	NN
+of	PIN PREP
+digital	JJ
+computers	NN
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+half	NN
+of	PIN PREP
+the	ART DET
+20th	JJ
+century	NN
+.	
+ 	
+The	ART CAP DET
+first	JJ
+half	NN
+of	PIN PREP
+the	ART DET
+past	JJ
+century	NN
+was	PASS VBD BYPA AUXB
+marked	
+by	PIN PREP
+strong	JJ
+concept	NN
+proofs	NN
+and	PHC CCONJ
+developments	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+Computer	CAP NNP
+Science	CAP NNP
+field	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+Turing	CAP NNP
+Machines	CAP NNP
+-	
+a	ART DET INDA
+theoretical	JJ
+computational	JJ
+model	NN
+capable	JJ
+of	PIN PREP
+proving	PRIV PGAS
+whether	PIN SCONJ PREP
+or	CCONJ
+not	XX0 RB
+a	ART DET INDA
+given	
+problem	NN
+is	BEMA VPRT AUXB
+computable	JJ PRED
+-	
+,	
+the	ART DET
+first	JJ
+general	JJ
+-	
+purpose	NN
+digital	JJ
+computer	NN
+,	
+and	ANDC CCONJ
+so	RB
+on	RB PIN STPR PREP
+.	
+Among	PIN CAP PREP
+the	ART DET
+greatest	JJ SPADJ
+names	NN
+is	VPRT AUXB
+Alan	CAP NNP
+Turing	CAP NNP
+,	
+regarded	VBD
+as	PIN CONJ PREP
+the	ART DET
+father	NN
+of	PIN PREP
+modern	JJ
+computing	NN
+and	CCONJ
+acknowledged	PUBV
+by	PIN PREP
+his	TPP3 PRP SBJP
+direct	JJ
+and	PHC CCONJ
+indirect	JJ
+contributions	NOMZ
+to	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+varied	JJ
+fields	NN
+of	PIN PREP
+action	NOMZ
+.	
+The	ART CAP DET
+work	NN
+here	RB
+to	PIN TO PREP
+be	PASS AUXB INF
+discussed	
+establishes	PRIV NN
+one	NUM
+of	PIN PREP
+the	ART DET
+first	JJ
+statements	NOMZ
+regarding	WZPRES PGAS
+Artificial	CAP NNP
+Intelligence	CAP NNP
+.	
+ 	
+In	PIN CONJ CAP PREP
+the	ART DET
+paper	NN
+,	
+Turing	CAP PGAS
+proposes	VPRT SUAV
+a	ART DET INDA
+simple	JJ
+test	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+way	NN
+to	PIN TO PREP
+ensure	PRIV SUAV INF
+whether	PIN SCONJ PREP
+or	CCONJ
+not	XX0 RB
+a	ART DET INDA
+given	
+computer	NN
+is	PASS VPRT AUXB
+endowed	
+with	PIN PREP
+intelligence	NN
+.	
+The	ART CAP DET
+test	NN
+comprises	VPRT
+two	NUM
+players	NN
+,	
+a	ART DET INDA
+man	NN
+(	
+A	CAP NNP
+)	
+and	ANDC CCONJ
+a	ART DET INDA
+woman	NN
+(	
+B	CAP NNP
+)	
+,	
+and	ANDC CCONJ
+one	NUM
+digital	JJ
+computer	NN
+.	
+The	ART CAP DET
+players	NN
+and	CCONJ
+the	ART DET
+computer	NN
+are	PASS VPRT SPAU AUXB
+physically	RB
+separated	
+and	CCONJ
+the	ART DET
+test	NN
+is	PASS VPRT AUXB
+performed	
+in	PIN CONJ PREP
+a	ART DET INDA
+question	NOMZ
+-	
+answering	PGAS
+fashion	NN
+where	RB WHOBJ SCONJ WH
+the	ART DET
+computer	NN
+performs	VPRT
+questions	NOMZ
+about	PIN PREP
+any	QUAN DET
+topic	NN
+it	PIT PRP SBJP
+finds	VPRT PRIV
+useful	JJ
+to	PIN TO PREP
+unveil	INF
+the	ART DET
+true	JJ
+identity	NOMZ
+of	PIN PREP
+the	ART DET
+individuals	NN
+,	
+however	RB CONJ
+,	
+one	NUM
+of	PIN PREP
+the	ART DET
+players	NN
+’	
+goal	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+provide	INF
+misleading	GER PGAS
+responses	NN
+whereas	OSUB PIN SCONJ PREP
+the	ART DET
+other	JJ
+one	NUM
+must	NEMD SPAU
+always	RB
+give	INF
+correct	JJ
+answers	NN
+.	
+By	PIN CAP PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+endeavor	NN
+,	
+a	ART DET INDA
+computer	NN
+is	PASS VPRT AUXB
+said	PUBV
+intelligent	JJ
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+capable	JJ PRED
+of	PIN PREP
+realizing	PRIV PGAS
+the	ART DET
+individuals	NN
+’	
+correct	JJ
+identities	NN
+.	
+ 	
+However	RB CONJ CAP
+,	
+Alan	CAP NNP
+Turing	WZPRES CAP PGAS
+itself	PIT PRP SBJP ACCU
+presents	NN
+,	
+as	PIN CONJ PREP
+a	ART DET INDA
+counterpart	NN
+,	
+the	ART DET
+argument	NOMZ
+of	PIN PREP
+consciousness	NOMZ
+.	
+For	PIN CAP PREP
+some	QUAN DET
+,	
+intelligence	NN
+may	POMD
+be	PASS AUXB INF
+interpreted	
+as	PIN CONJ PREP
+a	ART DET INDA
+creative	JJ
+and	PHC CCONJ
+inventive	JJ
+process	NN
+strictly	RB
+bonded	
+to	PIN PREP
+thoughts	NN
+and	PHC CCONJ
+emotions	NOMZ
+in	PIN CONJ PREP
+such	EMPH DET
+a	ART DET INDA
+way	NN
+that	TOBJ WHOBJ WH
+no	SYNE DET
+machine	NN
+would	PRMD SPAU
+ever	RB
+be	BEMA AUXB INF
+capable	JJ PRED
+of	PIN PREP
+developing	GER PGAS
+.	
+This	DEMO CAP DET
+contrastive	JJ
+point	NN
+of	PIN PREP
+view	NN
+may	POMD
+seem	SMP INF
+a	ART DET INDA
+piece	NN
+of	PIN PREP
+evidence	NN
+for	PIN PREP
+the	ART DET
+non	NN
+-	NN
+validity	NOMZ
+of	PIN PREP
+the	ART DET
+aforementioned	JJ
+Turing	CAP PGAS
+test	NN
+and	CCONJ
+might	POMD SPAU
+even	RB
+suggest	PUBV SUAV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+only	JJ DWNT
+way	NN
+one	PRP SBJP
+could	POMD
+conclude	PRIV INF
+that	PIN THVC SCONJ PREP
+machines	NN
+think	VPRT PRIV
+is	BEMA VPRT AUXB
+through	PIN PREP
+being	BEMA AUXB
+a	ART DET INDA
+machine	NN
+and	CCONJ
+recognizing	GER PRIV PGAS
+itself	PIT PRP SBJP ACCU
+as	PIN CONJ PREP
+a	ART DET INDA
+thinking	PRIV NN
+being	NN
+,	
+what	WH
+we	FPP1 PRP SBJP
+nowadays	RB TIME
+call	VPRT
+Singularity	NOMZ CAP
+.	
+Likewise	RB CONJ CAP
+,	
+one	NUM
+valid	JJ
+conclusion	NOMZ
+that	TSUB WHSUB WH
+can	POMD
+branch	INF
+from	PIN PREP
+this	DEMO DET
+argument	NOMZ
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+only	JJ DWNT
+way	NN
+to	PIN TO PREP
+tell	INF
+whether	PIN SCONJ PREP
+a	ART DET INDA
+human	JJ
+being	NN
+thinks	PRIV NN
+or	CCONJ
+not	XX0 RB
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+be	BEMA AUXB INF
+that	PIN DEMO SCONJ PREP
+human	JJ
+being	AUXB
+itself	PIT PRP SBJP ACCU
+.	
+ 	
+The	ART CAP DET
+intelligence	NN
+test	NN
+can	POMD
+be	PASS AUXB INF
+framed	
+into	PIN PREP
+a	ART DET INDA
+wide	JJ
+variety	NN
+of	PIN PREP
+displays	NN
+related	WZPAST
+to	PIN PREP
+interactions	NOMZ
+between	PIN PREP
+humans	NN
+and	PHC CCONJ
+machines	NN
+.	
+One	CAP NUM
+possible	JJ
+display	NN
+of	PIN PREP
+the	ART DET
+test	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+well	RB
+-	
+known	PRIV THATD
+approach	NN
+named	
+Viva	CAP NNP
+Voce	CAP NNP
+that	DEMP WH
+is	PASS VPRT SPAU AUXB
+often	RB
+applied	
+to	PIN PREP
+real	JJ
+-	
+world	NN
+situations	NOMZ
+.	
+Viva	CAP NNP
+Voce	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+very	AMP RB
+specific	JJ
+type	NN
+of	PIN PREP
+exam	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+,	
+instead	RB CONJ
+of	PIN PREP
+answering	PGAS
+written	PUBV
+questions	NOMZ
+,	
+the	ART DET
+individuals	NN
+are	PASS VPRT AUXB
+given	
+spoken	
+questions	NOMZ
+and	CCONJ
+their	TPP3 PRP SBJP
+performances	NN
+are	PASS VPRT AUXB
+evaluated	
+based	
+on	PIN PREP
+their	TPP3 PRP SBJP
+abilities	NN
+to	PIN TO PREP
+demonstrate	PRIV INF
+sufficient	JJ
+knowledge	NN
+about	PIN PREP
+the	ART DET
+specific	JJ
+subject	NN
+.	
+To	PIN TO CAP PREP
+cast	INF
+the	ART DET
+original	JJ
+formulation	NOMZ
+of	PIN PREP
+Turing	CAP PGAS
+test	NN
+in	PIN CONJ PREP
+this	DEMO DET
+type	NN
+of	PIN PREP
+exam	NN
+,	
+suppose	PRIV INF
+instead	RB CONJ
+of	PIN PREP
+three	NUM
+parts	NN
+,	
+the	ART DET
+test	NN
+has	VPRT
+now	RB TIME
+only	DWNT RB
+two	NUM
+,	
+the	ART DET
+computer	NN
+and	CCONJ
+one	NUM
+of	PIN PREP
+the	ART DET
+persons	NN
+,	
+either	CCONJ
+the	ART DET
+man	NN
+or	CCONJ
+the	ART DET
+woman	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+spoken	JJ
+fashion	NN
+,	
+the	ART DET
+human	JJ
+participant	NN
+would	PRMD
+be	BEMA AUXB INF
+responsible	JJ PRED
+for	PIN PREP
+conjecturing	GER PRIV PGAS
+questions	NOMZ
+about	PIN PREP
+a	ART DET INDA
+topic	NN
+whereas	OSUB PIN SCONJ PREP
+the	ART DET
+machine	NN
+has	VPRT
+the	ART DET
+obligation	NOMZ
+to	PIN TO PREP
+answer	INF
+the	ART DET
+questions	NOMZ
+.	
+A	ART CAP DET INDA
+machine	NN
+passes	VPRT
+the	ART DET
+test	NN
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+capable	JJ PRED
+of	PIN PREP
+satisfactorily	RB
+answer	INF
+the	ART DET
+formulation	NOMZ
+as	RB CONJ
+inventively	RB
+as	PIN CONJ PREP
+a	ART DET INDA
+human	NN
+would	PRMD
+do	PROD INF
+.	
+ 	
+Alan	CAP NNP
+Turing	CAP NNP
+’s	
+perspective	NN
+in	PIN CONJ PREP
+the	ART DET
+proposed	SUAV THATD
+work	NN
+was	BEMA VBD AUXB
+that	PIN STPR DEMP SCONJ PREP
+,	
+by	PIN PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+century	NN
+,	
+there	EX
+would	PRMD
+have	INF
+such	JJ
+advancements	NOMZ
+in	PIN CONJ PREP
+computational	JJ
+storage	NN
+and	PHC CCONJ
+power	NN
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+would	PRMD
+be	BEMA AUXB INF
+natural	JJ PRED
+to	PIN TO PREP
+speak	INF
+about	PIN PREP
+machine	NN
+intelligence	NN
+without	PIN PREP
+even	RB
+be	PASS AUXB INF
+criticized	
+or	CCONJ
+questioned	
+.	
+However	RB CONJ CAP
+,	
+nowadays	RB TIME
+,	
+almost	DWNT RB
+70	NUM
+years	NN
+since	OSUB PIN SCONJ PREP
+his	TPP3 PRP SBJP
+work	NN
+was	PASS VBD AUXB
+released	
+,	
+what	WHQU WH
+can	POMD
+be	PASS AUXB INF
+said	PUBV
+about	PIN PREP
+the	ART DET
+state	PUBV NN
+of	PIN PREP
+Artificial	CAP NNP
+Intelligence	CAP NNP
+systems	NN
+?	QUES
+What	WHQU CAP WH
+are	BEMA VPRT AUXB
+the	ART DET
+main	JJ
+challenges	NN
+?	QUES
+Was	BEMA VBD AUXB CAP
+any	QUAN DET
+system	NN
+capable	JJ
+of	PIN PREP
+passing	PGAS
+Turing	CAP PGAS
+test	NN
+?	QUES
+ 	
+Indeed	RB CAP
+,	
+as	PIN CONJ PREP
+Turing	CAP NNP
+expected	VBD PRIV
+,	
+the	ART DET
+advancements	NOMZ
+in	PIN CONJ PREP
+processing	GER
+and	PHC CCONJ
+storage	NN
+were	BEMA VBD AUXB
+quite	RB
+remarkable	JJ
+in	PIN CONJ PREP
+the	ART DET
+last	JJ
+decades	NN
+,	
+however	RB CONJ
+,	
+not	XX0 RB
+enough	JJ
+.	
+With	PIN CAP PREP
+the	ART DET
+advent	NN
+of	PIN PREP
+social	JJ
+media	NN
+and	CCONJ
+mobile	JJ
+devices	NN
+,	
+the	ART DET
+quantity	NOMZ
+of	PIN PREP
+data	NN
+produced	WZPAST
+daily	RB
+(	
+approximately	RB
+2.5	NUM
+x	
+1018	NUM
+bytes	NN
+)	
+is	BEMA VPRT AUXB
+way	RB
+above	PIN PLACE PREP
+the	ART DET
+current	JJ
+processing	GER
+and	PHC CCONJ
+storage	NN
+capacity	NOMZ
+.	
+Data	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+key	JJ
+ingredient	NN
+in	PIN CONJ PREP
+building	PGAS
+powerful	JJ
+artificial	JJ
+intelligence	NN
+systems	NN
+,	
+nonetheless	RB CONJ
+,	
+contemporary	JJ
+approaches	NN
+are	PASS VPRT BYPA SPAU AUXB
+still	RB
+bounded	
+by	PIN PREP
+the	ART DET
+available	JJ
+processors	NN
+’	
+capacities	NN
+and	CCONJ
+the	ART DET
+ability	NOMZ
+to	PIN TO PREP
+handle	INF
+and	PHC CCONJ
+gather	PRIV INF
+representative	JJ
+data	NN
+points	NN
+to	PIN PREP
+the	ART DET
+construction	NOMZ
+of	PIN PREP
+such	JJ
+systems	NN
+.	
+ 	
+Actual	JJ CAP
+AI	CAP NNP
+systems	NN
+are	BEMA VPRT AUXB
+capable	JJ PRED
+of	PIN PREP
+satisfactorily	RB
+perform	INF
+a	ART DET INDA
+series	NN
+of	PIN PREP
+tasks	NN
+like	PIN PREP
+text	NN
+/	
+image	NN
+classification	NOMZ
+,	
+anomaly	NNP
+detection	NOMZ
+,	
+clusterization	NOMZ
+,	
+and	ANDC CCONJ
+so	RB
+on	RB PIN STPR PREP
+,	
+however	RB CONJ
+,	
+they	TPP3 PRP SBJP
+have	VPRT PEAS
+shown	PRIV THATD
+a	ART DET INDA
+poor	JJ
+performance	NN
+regarding	WZPRES PGAS
+natural	JJ
+tasks	NN
+for	PIN PREP
+humans	NN
+such	JJ
+as	PIN CONJ PREP
+walking	PGAS
+,	
+identifying	GER PGAS
+sarcasm	NN
+,	
+talking	NN
+and	PHC CCONJ
+speech	NN
+recognition	NNP
+-	
+the	ART DET
+latter	JJ
+two	NUM
+specifically	RB
+related	
+to	PIN PREP
+Turing	CAP PGAS
+’s	
+test	NN
+.	
+Many	QUAN JJ CAP
+companies	NN
+like	PIN PREP
+Google	CAP NNP
+,	
+Apple	CAP NNP
+,	
+IBM	CAP NNP
+,	
+Microsoft	CAP NNP
+and	PHC CCONJ
+Amazon	CAP NNP
+have	VPRT PEAS
+been	AUXB
+trying	PGAS
+to	PIN TO PREP
+develop	INF
+efficient	JJ
+ways	NN
+to	PIN TO PREP
+synthesize	INF
+and	PHC CCONJ
+understand	PRIV INF
+speech	NN
+at	PIN PREP
+an	ART DET INDA
+acceptable	JJ
+level	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+way	NN
+to	PIN TO PREP
+aggregate	INF
+value	NN
+to	PIN PREP
+their	TPP3 PRP SBJP
+final	JJ
+products	NN
+and	CCONJ
+,	
+one	NUM
+recent	JJ
+announcement	NOMZ
+from	PIN PREP
+Google	CAP NNP
+suggested	VBD PUBV SUAV
+that	PIN THVC SCONJ PREP
+their	TPP3 PRP SBJP
+artificial	JJ
+intelligence	NN
+system	NN
+passed	VBD
+the	ART DET
+Turing	CAP PGAS
+test	NN
+,	
+a	ART DET INDA
+still	RB
+difficult	JJ
+task	NN
+,	
+nonetheless	RB CONJ
+,	
+easier	JJ CMADJ
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+accomplished	
+by	PIN PREP
+Google	CAP NNP
+due	PIN PREP
+to	PIN PREP
+its	PIT PRP SBJP
+extensive	JJ
+amount	NN
+of	PIN PREP
+relevant	NN
+.	
+The	ART CAP DET
+main	JJ
+challenges	NN
+yet	RB
+to	PIN TO PREP
+be	BEMA AUXB INF
+unsolved	JJ PRED
+are	BEMA VPRT AUXB
+to	PIN TO PREP
+develop	INF
+a	ART DET INDA
+consistent	JJ
+way	NN
+to	PIN TO PREP
+build	INF
+artificial	JJ
+intelligence	NN
+systems	NN
+without	PIN PREP
+the	ART DET
+necessity	NOMZ
+for	PIN PREP
+big	JJ
+loads	NN
+of	PIN PREP
+data	NN
+and	CCONJ
+to	PIN TO PREP
+reduce	INF
+cultural	JJ
+and	PHC CCONJ
+negative	JJ
+biases	NN
+(	
+racism	NN
+,	
+misogyny	NNP
+,	
+xenophobia	NNP
+,	
+etc	X
+.	X
+)	
+from	PIN PREP
+the	ART DET
+learning	PRIV PGAS
+procedure	NN
+.	

@@ -1,0 +1,643 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0705.0441.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0705.0441	NUM
+>	X
+  	
+<	X
+Transgenic	NN CAP
+the	ART DET
+dishes	NN
+of	PIN PREP
+others	NN
+is	VPRT AUXB
+poison	NN
+>	X
+  	
+Transgenic	CAP NNP
+organisms	NN
+,	
+or	CCONJ
+genetic	JJ
+modified	
+organisms	NN
+(	
+GM	CAP NNP
+)	
+,	
+are	PASS VPRT BYPA AUXB
+produced	
+by	PIN PREP
+transferring	GER PGAS
+genes	NN
+from	PIN PREP
+one	NUM
+living	PGAS
+being	BEMA AUXB
+to	PIN PREP
+another	DET
+,	
+often	RB
+from	PIN PREP
+different	JJ
+species	NN
+.	
+Transgenic	JJ CAP
+plants	NN
+are	PASS VPRT BYPA AUXB
+formed	
+by	PIN PREP
+extraction	NOMZ
+,	
+isolation	NOMZ
+and	PHC CCONJ
+cloning	NN
+of	PIN PREP
+bacterial	JJ
+DNA	NN CAP
+with	PIN PREP
+the	ART DET
+desired	SUAV
+characteristics	NN
+,	
+and	ANDC CCONJ
+then	RB
+inserted	
+into	PIN PREP
+the	ART DET
+plant	NN
+tissue	NN
+.	
+Currently	RB CAP
+there	EX
+are	VPRT AUXB
+some	QUAN DET
+transgenic	JJ
+varieties	NN
+of	PIN PREP
+soybean	NN
+,	
+corn	NN
+,	
+cotton	NN
+and	PHC CCONJ
+rice	NN
+released	WZPAST
+for	PIN PREP
+cultivation	NOMZ
+in	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+The	ART CAP DET
+production	NOMZ
+and	PHC CCONJ
+marketing	NN
+of	PIN PREP
+GM	CAP NNP
+first	RB
+announced	VBD PUBV
+as	PIN CONJ PREP
+the	ART DET
+solution	NOMZ
+to	PIN PREP
+the	ART DET
+extensive	JJ
+use	NN
+of	PIN PREP
+pesticides	NN
+,	
+creating	PGAS
+more	JJ EMPH CMADJ
+productive	JJ
+varieties	NN
+,	
+increase	INF
+the	ART DET
+nutritional	JJ
+value	NN
+of	PIN PREP
+food	NN
+and	CCONJ
+reducing	PGAS
+production	NOMZ
+costs	NN
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+production	NOMZ
+of	PIN PREP
+GM	CAP NNP
+seeds	NN
+is	BEMA VPRT AUXB
+far	RB PLACE
+from	PIN PREP
+being	BEMA AUXB
+free	JJ PRED
+of	PIN PREP
+questioning	GER PGAS
+.	
+There	EX CAP
+have	VPRT PEAS
+been	PASS AUXB
+reported	PUBV
+cases	NN
+of	PIN PREP
+contamination	NOMZ
+of	PIN PREP
+conventional	JJ
+crop	NN
+fields	NN
+,	
+illegal	JJ
+planting	NN
+and	CCONJ
+negative	JJ
+effects	NN
+on	PIN PREP
+agriculture	NN
+in	PIN CONJ PREP
+56	NUM
+countries	NN
+.	
+The	ART CAP DET
+release	NN
+of	PIN PREP
+commercial	JJ
+GM	CAP NNP
+crops	NN
+should	NEMD SPAU
+nt	RB
+be	PASS SPAU AUXB INF
+not	XX0 RB
+given	
+in	PIN CONJ PREP
+Brazil	CAP NNP
+without	PIN PREP
+the	ART DET
+extensive	JJ
+research	NN
+about	PIN PREP
+environmental	JJ
+,	
+social	JJ
+-	
+economic	JJ
+and	CCONJ
+health	NN
+impacts	NN
+.	
+  	
+Studies	NN CAP
+conducted	WZPAST
+over	PIN PREP
+the	ART DET
+past	JJ
+decades	NN
+point	VPRT
+several	QUAN JJ
+negative	JJ
+environmental	JJ
+impacts	NN
+caused	WZPAST
+by	PIN PREP
+planting	PGAS
+GMs	CAP X
+varieties	NN
+.	
+The	ART CAP DET
+increase	NN
+in	PIN CONJ PREP
+selection	NOMZ
+pressure	NN
+caused	WZPAST
+by	PIN PREP
+the	ART DET
+indiscriminate	JJ
+cultivation	NOMZ
+of	PIN PREP
+GMs	CAP NNP
+favors	VPRT
+the	ART DET
+emergence	NN
+of	PIN PREP
+weeds	NN
+and	PHC CCONJ
+pests	NN
+resistant	JJ
+to	PIN PREP
+pesticides	NN
+.	
+Evidence	NN CAP
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+pollen	NN
+of	PIN PREP
+GM	CAP NNP
+plants	NN
+can	POMD
+be	PASS AUXB INF
+transferred	
+to	PIN PREP
+the	ART DET
+domestic	JJ
+varieties	NN
+and	CCONJ
+other	JJ
+species	NN
+,	
+causing	PGAS
+horizontal	JJ
+transfer	NN
+of	PIN PREP
+genetic	JJ
+material	NN
+changed	VBD
+.	
+This	DEMP CAP DET
+can	POMD
+induce	INF
+changes	NN
+in	PIN CONJ PREP
+the	ART DET
+genome	NN
+of	PIN PREP
+native	JJ
+plants	NN
+,	
+threatening	GER PRESP PGAS
+the	ART DET
+genetic	JJ
+diversity	NOMZ
+.	
+Moreover	RB CONJ CAP
+,	
+the	ART DET
+impact	NN
+of	PIN PREP
+planting	PGAS
+GM	CAP NNP
+crops	NN
+on	PIN PREP
+wildlife	NN
+may	POMD
+last	INF
+more	JJ EMPH CMADJ
+than	PIN PREP
+two	NUM
+years	NN
+,	
+mainly	RB
+due	PIN PREP
+to	PIN PREP
+extensive	JJ
+use	NN
+of	PIN PREP
+herbicides	NN
+.	
+  	
+The	ART CAP DET
+expansion	NOMZ
+of	PIN PREP
+planted	
+areas	NN
+with	PIN PREP
+GMs	NN CAP
+leads	VPRT
+important	JJ
+sectors	NN
+of	PIN PREP
+agriculture	NN
+to	PIN PREP
+reliance	NN
+on	PIN PREP
+biotech	JJ
+companies	NN
+that	TSUB WHSUB WH
+hold	VPRT PRIV
+the	ART DET
+patents	NN
+of	PIN PREP
+genetically	RB
+modified	
+seeds	NN
+and	PHC CCONJ
+pesticides	NN
+.	
+Some	QUAN CAP DET
+GMs	NN CAP
+are	PASS VPRT AUXB
+produced	
+in	PIN CONJ PREP
+order	SUAV NN
+that	PIN TOBJ THVC SCONJ PREP
+their	TPP3 PRP SBJP
+seeds	NN
+are	BEMA VPRT AUXB
+only	DWNT RB
+viable	JJ
+after	PIN PREP
+the	ART DET
+application	NOMZ
+of	PIN PREP
+a	ART DET INDA
+given	
+chemical	NN
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+several	QUAN JJ
+producers	NN
+had	VBD
+losses	NN
+with	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+transgenic	JJ
+varieties	NN
+.	
+In	PIN CONJ CAP PREP
+2009	NUM
+,	
+Mato	CAP NNP
+Grosso	CAP NNP
+producers	NN
+obtain	VPRT
+lower	JJ CMADJ
+gains	NN
+from	PIN PREP
+transgenic	NN
+soybeans	NN
+than	PIN PREP
+with	PIN PREP
+traditional	JJ
+soybean	NN
+;	
+in	PIN CONJ PREP
+South	CAP NNP
+Africa	CAP NNP
+,	
+an	ART DET INDA
+area	NN
+related	WZPAST
+to	PIN PREP
+80,000	NUM
+football	NN
+fields	NN
+did	VBD SPAU
+not	XX0 RB
+produce	INF
+a	ART DET INDA
+single	JJ
+grain	NN
+of	PIN PREP
+corn	NN
+!	EXCL
+  	
+The	ART CAP DET
+impacts	NN
+on	PIN PREP
+health	NN
+,	
+yet	CCONJ
+not	XX0 RB
+vary	VPRT
+studied	
+,	
+also	RB
+exist	VPRT
+.	
+Reports	PUBV NN CAP
+of	PIN PREP
+allergic	JJ
+reactions	NOMZ
+caused	WZPAST
+by	PIN PREP
+ingestion	NOMZ
+of	PIN PREP
+foods	NN
+derived	WZPAST
+from	PIN PREP
+GM	CAP NNP
+crops	NN
+already	RB
+appear	VPRT SMP
+,	
+and	ANDC CCONJ
+these	DEMO DET
+allergies	NN
+can	POMD
+be	PASS BYPA AUXB INF
+caused	
+by	PIN PREP
+the	ART DET
+presence	NN
+of	PIN PREP
+genes	NN
+that	TSUB WHSUB WH
+produce	VPRT
+allergenic	JJ
+proteins	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+also	RB
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+horizontal	JJ
+gene	NN
+transfer	NN
+to	PIN PREP
+bacteria	NN
+present	JJ
+in	PIN CONJ PREP
+the	ART DET
+human	JJ
+body	NN
+and	CCONJ
+potentially	RB
+increase	INF
+in	PIN CONJ PREP
+antibiotic	JJ
+resistance	NN
+,	
+as	PIN CONJ PREP
+genetic	JJ
+engineering	GER
+using	WZPRES PGAS
+genes	NN
+which	WHSUB DET WH
+confer	VPRT
+immunity	NOMZ
+to	PIN PREP
+certain	JJ
+antibiotics	NN
+as	PIN CONJ PREP
+markers	NN
+for	PIN PREP
+identification	NOMZ
+of	PIN PREP
+modified	
+cells	NN
+.	
+The	ART CAP DET
+use	NN
+of	PIN PREP
+genetically	RB
+modified	
+products	NN
+in	PIN CONJ PREP
+food	NN
+is	VPRT AUXB
+still	RB
+very	AMP RB
+new	JJ
+,	
+research	NN
+is	BEMA VPRT AUXB
+limited	JJ PRED
+and	ANDC CCONJ
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+doubts	PRIV NN
+about	PIN PREP
+the	ART DET
+real	JJ
+consequences	NN
+of	PIN PREP
+transgenic	NN
+intake	NN
+.	
+  	
+Based	CAP
+on	PIN PREP
+the	ART DET
+evidence	NN
+presented	WZPAST
+above	RB PLACE
+and	ANDC CCONJ
+in	PIN CONJ PREP
+other	JJ
+previously	RB TIME
+reported	PUBV
+by	PIN PREP
+the	ART DET
+scientific	JJ
+community	NOMZ
+,	
+it	PIT PRP SBJP
+can	POMD
+be	PASS AUXB INF
+stated	PUBV
+that	PIN THVC SCONJ PREP
+control	NN
+over	PIN PREP
+GM	CAP NNP
+and	CCONJ
+their	TPP3 PRP SBJP
+side	NN
+effects	NN
+are	BEMA VPRT AUXB
+ineffective	JJ PRED
+and	CCONJ
+potentially	RB
+harmful	JJ
+genes	NN
+can	POMD
+be	PASS AUXB INF
+inserted	
+into	PIN PREP
+the	ART DET
+food	NN
+chain	NN
+and	CCONJ
+the	ART DET
+environment	NOMZ
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+extremely	AMP RB
+important	JJ
+that	PIN THAC SCONJ PREP
+the	ART DET
+political	JJ
+authorities	NN
+society	NN
+have	VPRT
+a	ART DET INDA
+more	RB EMPH CMADJ
+critical	JJ
+look	NN
+at	PIN PREP
+the	ART DET
+release	NN
+and	PHC CCONJ
+cultivation	NOMZ
+of	PIN PREP
+GM	CAP NNP
+varieties	NN
+.	
+Measures	NN CAP
+to	PIN TO PREP
+ensure	PRIV SUAV INF
+food	NN
+security	NOMZ
+,	
+social	JJ
+,	
+economic	JJ
+and	PHC CCONJ
+environmental	JJ
+should	NEMD
+be	PASS AUXB INF
+taken	
+on	PIN PREP
+an	ART DET INDA
+urgent	JJ
+basis	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+creating	PGAS
+stricter	JJ CMADJ
+laws	NN
+and	CCONJ
+the	ART DET
+requirement	NOMZ
+for	PIN PREP
+companies	NN
+to	PIN TO PREP
+conduct	INF
+research	NN
+with	PIN PREP
+reliable	JJ
+and	PHC CCONJ
+suitable	JJ
+results	NN
+on	PIN PREP
+the	ART DET
+real	JJ
+impacts	NN
+of	PIN PREP
+GMs	NN CAP
+in	PIN CONJ PREP
+environment	NOMZ
+to	PIN PREP
+human	JJ
+health	NN
+.	
+ 	

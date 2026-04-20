@@ -1,0 +1,1627 @@
+# filename: SS_Business_Essay_1_0271a_tx.txt
+token	tags
+Businesses	NOMZ CAP
+are	VPRT SPAU AUXB
+constantly	RB
+facing	PGAS
+the	ART DET
+dilemma	NN
+to	PIN TO PREP
+balance	INF
+between	PIN PREP
+the	ART DET
+two	NUM
+basic	JJ
+organizational	JJ
+objectives	NN
+.	
+One	CAP NUM
+is	BEMA VPRT AUXB
+the	ART DET
+need	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+flexible	JJ PRED
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+tackle	INF
+emergent	JJ
+changes	NN
+in	PIN CONJ PREP
+the	ART DET
+micro	JJ
+and	PHC CCONJ
+macro	JJ
+environment	NOMZ
+,	
+whilst	OSUB PIN SCONJ PREP
+the	ART DET
+other	JJ
+is	BEMA VPRT AUXB
+the	ART DET
+necessity	NOMZ
+to	PIN TO PREP
+implement	INF
+long	JJ
+-	
+term	NN
+strategic	JJ
+direction	NOMZ
+.	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+discuss	INF
+whether	PIN SCONJ PREP
+increasing	GER PGAS
+short	JJ
+-	
+term	NN
+flexibility	NOMZ
+or	CCONJ
+pursuing	PGAS
+a	ART DET INDA
+long	JJ
+-	
+term	NN
+strategic	JJ
+plan	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+fundamental	JJ
+.	
+Most	JJ EMPH CAP SPADJ
+businesses	NOMZ
+operate	VPRT
+alongside	PIN PLACE PREP
+a	ART DET INDA
+constantly	RB
+changing	PGAS
+internal	JJ
+and	PHC CCONJ
+external	JJ
+environment	NOMZ
+.	
+The	ART CAP DET
+internal	JJ
+(	
+or	CCONJ
+micro	JJ
+)	
+environment	NOMZ
+refers	VPRT
+to	PIN PREP
+the	ART DET
+infrastructure	NN
+of	PIN PREP
+a	ART DET INDA
+business	NOMZ
+and	CCONJ
+is	PASS VPRT AUXB
+concerned	
+with	PIN PREP
+the	ART DET
+relationships	NN
+between	PIN PREP
+members	NN
+in	PIN CONJ PREP
+the	ART DET
+organization	NOMZ
+.	
+The	ART CAP DET
+external	JJ
+(	
+or	CCONJ
+macro	JJ
+)	
+environment	NOMZ
+,	
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+refers	VPRT
+to	PIN PREP
+the	ART DET
+market	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+business	NOMZ
+is	VPRT AUXB
+operating	PGAS
+in	PIN CONJ STPR PREP
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+unpredictable	JJ
+environment	NOMZ
+directs	VPRT
+businesses	NOMZ
+to	PIN PREP
+numerous	JJ
+opportunities	NN
+,	
+it	PIT PRP SBJP
+also	RB
+generates	VPRT
+a	ART DET INDA
+high	JJ
+level	NN
+of	PIN PREP
+ambiguity	NOMZ
+and	PHC CCONJ
+insecurity	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+firm	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+cope	INF
+with	PIN PREP
+these	DEMO DET
+changes	NN
+and	CCONJ
+to	PIN TO PREP
+sustain	INF
+competitiveness	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+market	NN
+,	
+businesses	NOMZ
+are	PASS VPRT AUXB
+required	SUAV
+to	PIN TO PREP
+develop	INF
+swift	JJ
+responses	NN
+to	PIN PREP
+internal	JJ
+and	PHC CCONJ
+external	JJ
+changes	NN
+.	
+Thus	RB CONJ CAP
+,	
+managers	NN
+are	PASS VPRT AUXB
+required	SUAV
+to	PIN TO PREP
+establish	PRIV INF
+the	ART DET
+maximum	JJ
+level	NN
+of	PIN PREP
+flexibility	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+short	JJ
+-	
+term	NN
+to	PIN TO PREP
+accommodate	INF
+unexpected	JJ
+changes	NN
+.	
+However	RB CONJ CAP
+,	
+according	PGAS
+to	PIN PREP
+Robbins	CAP NNP
+,	
+businesses	NOMZ
+generally	RB
+adopt	VPRT
+strategies	NN
+to	PIN TO PREP
+plan	INF
+"	QUOT
+the	ART DET
+overall	JJ
+direction	NOMZ
+of	PIN PREP
+the	ART DET
+work	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+done	PROD
+"	QUOT
+,	
+which	SERE DET WH
+includes	VPRT
+"	QUOT
+forecasting	GER PUBV PGAS
+future	JJ
+trends	NN
+,	
+assessing	PGAS
+actual	JJ
+and	PHC CCONJ
+potential	JJ
+resources	NN
+and	CCONJ
+developing	GER PGAS
+objectives	NN
+and	PHC CCONJ
+targets	NN
+for	PIN PREP
+future	JJ
+performance	NN
+"	QUOT
+.	
+This	DEMP CAP DET
+reflects	VPRT PRIV
+a	ART DET INDA
+long	JJ
+-	
+term	NN
+strategic	JJ
+approach	NN
+,	
+where	RB SCONJ WH
+businesses	NOMZ
+arrange	VPRT SUAV
+carefully	RB
+and	PHC CCONJ
+tactfully	RB
+for	PIN PREP
+organizational	JJ
+goals	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+achieved	
+over	PIN PREP
+at	RB PIN PREP
+least	JJ SPADJ
+ten	NUM
+years	NN
+time	NN
+.	
+These	DEMO CAP DET
+organizational	JJ
+goals	NN
+are	PASS VPRT SPAU AUXB
+often	RB
+concerned	
+with	PIN PREP
+establishing	GER PRIV PGAS
+clear	JJ
+internal	JJ
+policies	NN
+and	CCONJ
+handling	PGAS
+relations	NOMZ
+with	PIN PREP
+competing	PGAS
+firms	NN
+.	
+The	ART CAP DET
+managerial	JJ
+role	NN
+in	PIN CONJ PREP
+the	ART DET
+long	JJ
+run	NN
+is	PASS VPRT AUXB
+concerned	
+with	PIN PREP
+implementing	GER PGAS
+strategic	JJ
+plans	NN
+to	PIN TO PREP
+achieve	INF
+set	
+organizational	JJ
+targets	NN
+.	
+Freeman	CAP NNP
+,	
+J.	CAP NNP
+,	
+Croom	CAP NNP
+,	
+S.	CAP NNP
+,	
+Kotlarsky	CAP NNP
+,	
+J.	CAP NNP
+,	
+Dean	CAP NNP
+,	
+D.	CAP NNP
+and	PHC CCONJ
+Caldart	CAP NNP
+,	
+A.	NN CAP
+(	
+2005	NUM
+)	
+,	
+Business	CAP NNP
+and	PHC CCONJ
+Management	CAP NNP
+:	
+Selected	CAP
+Readings	NN CAP
+for	PIN PREP
+Non	CAP NNP
+-	
+Business	CAP NNP
+Students	CAP NNP
+Volume	CAP NNP
+1	NUM
+,	
+Pearson	CAP NNP
+Education	CAP NNP
+Limited	CAP NNP
+,	
+United	CAP NNP
+Kingdom	CAP NNP
+,	
+p.14	NNP
+Ibid	CAP NNP
+.	
+p.14	NN
+-	
+15	NUM
+Most	JJ EMPH CAP SPADJ
+business	NOMZ
+strategies	NN
+allow	VPRT SUAV
+short	JJ
+-	
+term	NN
+elasticity	NOMZ
+and	CCONJ
+long	JJ
+-	
+term	NN
+goals	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+achieved	
+simultaneously	RB TIME
+.	
+Studying	CAP PGAS
+models	NN
+of	PIN PREP
+management	NOMZ
+,	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+Open	CAP NNP
+Systems	CAP NNP
+models	NN
+,	
+sheds	VPRT
+light	NN
+on	PIN PREP
+how	RB SCONJ WH
+short	JJ
+-	
+term	NN
+flexibility	NOMZ
+and	CCONJ
+long	JJ
+-	
+term	NN
+strategic	JJ
+plans	NN
+are	BEMA VPRT AUXB
+equally	RB
+important	JJ
+in	PIN CONJ PREP
+business	NOMZ
+strategies	NN
+.	
+Early	JJ TIME CAP
+theorists	NN
+assumed	VBD PRIV
+a	ART DET INDA
+business	NOMZ
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+closed	JJ
+system	NN
+,	
+and	ANDC CCONJ
+hence	RB CONJ
+,	
+focused	VBD
+on	PIN PREP
+the	ART DET
+inner	JJ
+arrangements	NOMZ
+of	PIN PREP
+a	ART DET INDA
+business	NOMZ
+such	JJ
+as	PIN CONJ PREP
+altering	PGAS
+policies	NN
+and	PHC CCONJ
+working	NN
+incentives	NN
+for	PIN PREP
+employees	NN
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+Open	CAP NNP
+Systems	CAP NNP
+models	NN
+stress	VPRT
+on	PIN PREP
+the	ART DET
+view	NN
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+organizations	NOMZ
+depend	VPRT
+on	PIN PREP
+the	ART DET
+wider	JJ CMADJ
+environment	NOMZ
+for	PIN PREP
+different	JJ
+kinds	NN
+of	PIN PREP
+sustenance	NN
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+to	PIN TO PREP
+survive	INF
+and	PHC CCONJ
+prosper	INF
+"	QUOT
+.	
+The	ART CAP DET
+fundamental	JJ
+idea	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+organizations	NOMZ
+are	BEMA VPRT AUXB
+interdependent	JJ PRED
+.	
+Hence	RB CONJ CAP
+,	
+if	COND PIN SCONJ PREP
+an	ART DET INDA
+organization	NOMZ
+is	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+respond	INF
+flexibly	RB
+and	PHC CCONJ
+acutely	RB
+to	PIN PREP
+changes	NN
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+surroundings	GER
+,	
+then	RB
+the	ART DET
+long	JJ
+-	
+term	NN
+capacity	NOMZ
+of	PIN PREP
+the	ART DET
+organization	NOMZ
+should	NEMD
+,	
+in	PIN CONJ PREP
+theory	NN
+,	
+be	PASS AUXB INF
+amplified	
+as	RB CONJ
+well	RB
+.	
+Ibid	CAP INF
+.	
+p.60	NNP
+Ibid	CAP NNP
+.	
+p.57	NN
+Ibid	NN CAP
+.	
+p.59	NN
+Yet	CAP CCONJ
+the	ART DET
+constantly	RB
+changing	PGAS
+environment	NOMZ
+makes	VPRT
+it	PIT PRP SBJP
+difficult	JJ
+for	PIN PREP
+managers	NN
+to	PIN TO PREP
+motivate	INF
+employees	NN
+to	PIN TO PREP
+consider	PRIV INF
+both	DET
+short	JJ
+-	
+term	NN
+and	CCONJ
+long	JJ
+-	
+term	NN
+welfare	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+company	NN
+at	PIN PREP
+an	ART DET INDA
+equal	JJ
+standing	NN
+.	
+Some	QUAN CAP DET
+firms	NN
+tend	VPRT
+to	PIN TO PREP
+use	INF
+strategies	NN
+that	TSUB WHSUB WH
+consider	VPRT PRIV
+establishing	GER PRIV PGAS
+flexibility	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+short	JJ
+-	
+term	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+of	PIN PREP
+greater	JJ CMADJ
+concern	NN
+.	
+The	ART CAP DET
+most	RB EMPH SPADJ
+distinguishing	GER
+strategy	NN
+is	BEMA VPRT AUXB
+the	ART DET
+measurement	NOMZ
+and	PHC CCONJ
+reward	NN
+system	NN
+,	
+where	RB WHQU SCONJ WH
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+recognized	PRIV THATD
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+short	JJ
+-	
+run	
+goals	NN
+will	PRMD
+prevail	INF
+"	QUOT
+.	
+Employees	NN CAP
+are	PASS VPRT SPAU AUXB
+frequently	RB
+motivated	
+to	PIN TO PREP
+compete	INF
+for	PIN PREP
+short	JJ
+-	
+range	NN
+successes	NN
+such	JJ
+as	PIN CONJ PREP
+bonuses	NN
+and	PHC CCONJ
+promotions	NOMZ
+.	
+Although	CONC PIN CAP SCONJ PREP
+a	ART DET INDA
+well	RB
+-	
+designed	
+rewards	NN
+system	NN
+will	PRMD
+motivate	INF
+employees	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+highly	AMP RB
+efficient	JJ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+assess	INF
+whether	PIN SCONJ PREP
+the	ART DET
+long	JJ
+-	
+term	NN
+interests	NN
+of	PIN PREP
+the	ART DET
+firm	NN
+will	PRMD
+be	AUXB INF
+well	RB
+-	
+maintained	PUBV
+.	
+The	ART CAP DET
+reason	PRIV NN
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+employees	NN
+are	PASS VPRT BYPA SPAU AUXB
+merely	DWNT RB
+driven	
+by	PIN PREP
+self	NN
+-	
+interest	NN
+and	CCONJ
+short	JJ
+-	
+term	NN
+successes	NN
+in	PIN CONJ PREP
+this	DEMO DET
+system	NN
+.	
+When	RB CAP SCONJ WH
+the	ART DET
+weight	NN
+is	BEMA VPRT AUXB
+on	PIN PREP
+strengthening	GER PGAS
+a	ART DET INDA
+business	NOMZ
+'	CONT QUOT
+flexibility	NOMZ
+to	PIN TO PREP
+address	INF
+emergent	JJ
+changes	NN
+,	
+long	JJ
+-	
+term	NN
+strategic	JJ
+plans	NN
+can	POMD
+be	PASS SPAU AUXB INF
+easily	RB
+overlooked	
+.	
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+long	JJ
+-	
+term	NN
+direction	NOMZ
+is	BEMA VPRT AUXB
+only	DWNT RB
+dependent	JJ
+on	PIN PREP
+the	ART DET
+chief	JJ
+executive	JJ
+officer	NN
+and	CCONJ
+a	ART DET INDA
+few	QUAN JJ
+of	PIN PREP
+the	ART DET
+high	RB
+-	
+ranking	PGAS
+managers	NN
+,	
+the	ART DET
+business	NOMZ
+becomes	VPRT
+more	RB EMPH CMADJ
+susceptible	JJ
+to	PIN PREP
+errors	NN
+in	PIN CONJ PREP
+judgment	NOMZ
+.	
+M.A.C.	CAP NNP
+/	
+Stonish	CAP NNP
+,	
+P.	CAP NNP
+J.	CAP NNP
+(	
+1982	NUM
+)	
+,	
+Implementing	GER CAP PGAS
+Strategy	NN CAP
+:	
+Making	CAP PGAS
+Strategy	CAP NNP
+Happen	CAP NNP
+,	
+Ballinger	CAP NNP
+Publisher	CAP NNP
+Company	CAP NNP
+,	
+United	CAP NNP
+States	PUBV CAP NNP
+of	PIN PREP
+America	CAP NNP
+,	
+p.134	NNP
+Ibid	CAP NNP
+.	
+p.134	X
+Alternatively	RB CONJ CAP
+,	
+businesses	NOMZ
+can	POMD
+place	INF
+emphasis	NN
+on	PIN PREP
+long	JJ
+-	
+term	NN
+strategic	JJ
+performance	NN
+and	PHC CCONJ
+direction	NOMZ
+.	
+Pursuing	PRESP CAP PGAS
+a	ART DET INDA
+long	RB
+-	
+run	NN
+perspective	NN
+is	BEMA VPRT AUXB
+crucial	JJ PRED
+to	PIN PREP
+a	ART DET INDA
+business	NOMZ
+'	CONT QUOT
+success	NN
+because	CAUS PIN SCONJ PREP
+every	QUAN DET
+business	NOMZ
+needs	VPRT
+a	ART DET INDA
+set	
+goal	NN
+to	PIN TO PREP
+work	INF
+towards	PIN STPR PREP
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+Chem	CAP NNP
+-	
+Tec	CAP NNP
+Ltd	CAP NNP
+,	
+Bill	CAP NNP
+Johnson	CAP NNP
+has	VPRT PEAS
+encouraged	
+employees	NN
+to	PIN TO PREP
+take	INF
+on	PIN PREP
+larger	JJ CMADJ
+roles	NN
+for	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+.	
+Since	OSUB PIN CAP SCONJ PREP
+Johnson	CAP NNP
+'s	
+concept	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+develop	INF
+the	ART DET
+business	NOMZ
+strategy	NN
+of	PIN STPR PREP
+"	QUOT
+managing	PGAS
+others	NN
+at	PIN PREP
+the	ART DET
+same	JJ
+time	NN
+as	PIN CONJ PREP
+managing	PGAS
+themselves	TPP3 PRP SBJP ACCU
+"	QUOT
+,	
+he	TPP3 PRP SBJP
+taught	VBD
+employees	NN
+not	XX0 RB
+only	DWNT RB
+the	ART DET
+skills	NN
+,	
+but	CCONJ
+also	RB
+the	ART DET
+purpose	NN
+behind	PIN PLACE PREP
+the	ART DET
+work	NN
+involved	
+.	
+Johnson	CAP NNP
+eventually	RB TIME
+transferred	VBD
+his	TPP3 PRP SBJP
+managerial	JJ
+perspective	NN
+to	PIN PREP
+employees	NN
+in	PIN CONJ PREP
+Chem	CAP NNP
+-	
+Tec	CAP NNP
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+they	TPP3 PRP SBJP
+can	POMD SPAU
+now	RB TIME
+plan	INF
+production	NOMZ
+and	CCONJ
+raise	INF
+purchase	NN
+orders	SUAV NN
+"	QUOT
+independently	RB
+.	
+As	PIN CONJ CAP PREP
+Johnson	CAP NNP
+decentralizes	VPRT
+his	TPP3 PRP SBJP
+managerial	JJ
+responsibilities	NN
+,	
+Chem	CAP NNP
+-	
+Tec	CAP NNP
+gains	VPRT
+flexibility	NOMZ
+because	CAUS PIN SCONJ PREP
+employees	NN
+are	VPRT AUXB
+no	RB
+longer	RB CMADJ
+entirely	AMP RB
+dependent	JJ
+on	PIN PREP
+the	ART DET
+manager	NN
+to	PIN TO PREP
+make	INF
+decisions	NOMZ
+.	
+Since	OSUB PIN CAP SCONJ PREP
+employees	NN
+are	BEMA VPRT AUXB
+aware	JJ PRED
+of	PIN PREP
+the	ART DET
+long	JJ
+-	
+run	
+managerial	JJ
+perspective	NN
+,	
+they	TPP3 PRP SBJP
+will	PRMD
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+base	INF
+their	TPP3 PRP SBJP
+decisions	NOMZ
+on	PIN PREP
+the	ART DET
+long	JJ
+-	
+term	NN
+welfare	NN
+of	PIN PREP
+Chem	CAP NNP
+-	
+Tec	CAP NNP
+.	
+Hence	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+justifiable	JJ PRED
+to	PIN TO PREP
+propose	SUAV INF
+long	JJ
+-	
+term	NN
+strategic	JJ
+plans	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+more	RB EMPH CMADJ
+crucial	JJ
+.	
+Freeman	CAP NNP
+,	
+op	NN
+.	
+cit	NNP
+.	NNP
+note	PRIV NN
+1	NUM
+,	
+p.5	NN
+,	
+p.11	NNP
+Freeman	CAP NNP
+,	
+op	NN
+.	
+cit	NNP
+.	NNP
+note	PRIV NN
+1	NUM
+,	
+p.10	NNP
+Freeman	CAP NNP
+,	
+op	NN
+.	
+cit	NNP
+.	NNP
+note	PRIV NN
+1	NUM
+,	
+p.11	NN
+The	ART CAP DET
+decentralization	NOMZ
+of	PIN PREP
+operations	NOMZ
+is	BEMA VPRT AUXB
+also	RB
+a	ART DET INDA
+situation	NOMZ
+where	RB WHOBJ SCONJ WH
+businesses	NOMZ
+face	VPRT
+the	ART DET
+dilemma	NN
+of	PIN PREP
+deciding	PRIV SUAV PGAS
+whether	PIN SCONJ PREP
+an	ART DET INDA
+emphasis	NN
+should	NEMD
+be	PASS AUXB INF
+placed	
+on	PIN PREP
+the	ART DET
+short	JJ
+-	
+term	NN
+or	CCONJ
+the	ART DET
+long	JJ
+-	
+term	NN
+.	
+Texas	CAP NNP
+Instruments	CAP NNP
+,	
+Inc.	CAP NNP
+decentralized	VBD
+their	TPP3 PRP SBJP
+operations	NOMZ
+as	PIN CONJ PREP
+its	PIT PRP SBJP
+business	NOMZ
+grew	VBD
+in	PIN CONJ PREP
+size	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+increase	INF
+the	ART DET
+level	NN
+of	PIN PREP
+flexibility	NOMZ
+and	PHC CCONJ
+efficiency	NN
+.	
+However	RB CONJ CAP
+,	
+managers	NN
+became	VBD
+concerned	JJ
+about	PIN PREP
+how	RB SCONJ WH
+the	ART DET
+division	NOMZ
+"	QUOT
+would	PRMD
+become	INF
+short	JJ
+-	
+term	NN
+oriented	
+and	PHC CCONJ
+fail	VPRT
+to	PIN TO PREP
+see	PRIV INF
+and	PHC CCONJ
+solve	INF
+problems	NN
+on	PIN PREP
+a	ART DET INDA
+scale	NN
+appropriate	JJ
+to	PIN PREP
+the	ART DET
+total	JJ
+organization	NOMZ
+"	QUOT
+.	
+Therefore	RB CONJ CAP
+,	
+Texas	CAP NNP
+Instruments	CAP NNP
+reinstated	VBD
+corporate	JJ
+values	NN
+into	PIN PREP
+the	ART DET
+entire	JJ
+operating	NN
+system	NN
+by	PIN PREP
+setting	PGAS
+corporate	JJ
+objectives	NN
+,	
+which	SERE DET WH
+acted	VBD
+as	PIN CONJ PREP
+guidelines	NN
+describing	GER WZPRES PGAS
+the	ART DET
+business	NOMZ
+'	CONT QUOT
+general	JJ
+direction	NOMZ
+.	
+The	ART CAP DET
+purpose	NN
+of	PIN PREP
+these	DEMO DET
+corporate	JJ
+objectives	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+satisfy	INF
+stakeholders	NN
+in	PIN CONJ PREP
+the	ART DET
+company	NN
+,	
+and	ANDC CCONJ
+to	PIN TO PREP
+create	INF
+a	ART DET INDA
+"	QUOT
+psychological	JJ
+rewards	NN
+"	QUOT
+system	NN
+for	PIN PREP
+motivating	GER PGAS
+employees	NN
+.	
+The	ART CAP DET
+decentralization	NOMZ
+provides	VPRT
+incentive	NN
+by	PIN PREP
+maintaining	GER PUBV PGAS
+a	ART DET INDA
+personal	JJ
+sense	PRIV NN
+of	PIN PREP
+identity	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+business	NOMZ
+,	
+whereas	OSUB PIN SCONJ PREP
+corporate	JJ
+objectives	NN
+reinforce	VPRT
+the	ART DET
+long	JJ
+-	
+term	NN
+organizational	JJ
+target	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+business	NOMZ
+is	VPRT AUXB
+trying	PGAS
+to	PIN TO PREP
+achieve	INF
+.	
+The	ART CAP DET
+decentralization	NOMZ
+process	NN
+by	PIN PREP
+itself	PIT PRP SBJP ACCU
+will	PRMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+a	ART DET INDA
+successful	JJ
+business	NOMZ
+strategy	NN
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+lacks	VPRT
+a	ART DET INDA
+long	JJ
+run	
+corporate	JJ
+vision	NOMZ
+for	PIN PREP
+employees	NN
+to	PIN TO PREP
+follow	INF
+.	
+Quinn	CAP NNP
+,	
+J.	CAP NNP
+B.	CAP NNP
+(	
+1980	NUM
+)	
+,	
+Strategies	NN CAP
+for	PIN PREP
+Change	CAP NNP
+:	
+Logical	CAP NNP
+Incrementalism	CAP NNP
+,	
+Richard	CAP NNP
+D.	CAP NNP
+Irwin	CAP NNP
+,	
+Inc.	CAP NNP
+,	
+United	CAP NNP
+States	PUBV CAP NNP
+of	PIN PREP
+America	CAP NNP
+,	
+p.189	NUM
+Ibid	CAP NNP
+.	
+p.189	NUM
+Ibid	CAP NNP
+.	
+p.191	X
+Some	QUAN CAP DET
+businesses	NOMZ
+initially	RB TIME
+adopted	VBD
+long	JJ
+-	
+term	NN
+strategies	NN
+that	TSUB WHSUB WH
+lean	VPRT
+towards	PIN PREP
+bureaucracy	NN
+and	PHC CCONJ
+control	NN
+,	
+but	CCONJ
+now	RB TIME
+,	
+have	VPRT PEAS
+changed	
+to	PIN TO PREP
+use	INF
+strategies	NN
+that	TSUB WHSUB WH
+stress	VPRT
+on	PIN PREP
+the	ART DET
+importance	NN
+of	PIN PREP
+flexibility	NOMZ
+and	PHC CCONJ
+change	NN
+.	
+British	CAP NNP
+Petroleum	CAP NNP
+Co	CAP NNP
+is	BEMA VPRT AUXB
+an	ART DET INDA
+established	PRIV
+business	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+oil	NN
+industry	NN
+,	
+but	CCONJ
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+based	
+on	PIN PREP
+a	ART DET INDA
+culture	NN
+so	RB EMPH
+rigid	JJ
+and	ANDC CCONJ
+so	RB EMPH
+inflexible	JJ
+that	PIN STPR THAC SCONJ PREP
+"	QUOT
+financial	JJ
+proposals	NN
+required	VBD SUAV
+15	NUM
+signatures	NN
+before	PIN PREP
+they	TPP3 PRP SBJP
+could	POMD
+be	PASS AUXB INF
+accepted	PRIV
+"	QUOT
+.	
+When	RB CAP SCONJ WH
+new	JJ
+businesses	NOMZ
+entered	VBD
+into	PIN PREP
+the	ART DET
+market	NN
+,	
+British	CAP NNP
+Petroleum	CAP NNP
+was	BEMA VBD AUXB
+incapable	JJ PRED
+of	PIN PREP
+responding	GER PGAS
+to	PIN PREP
+the	ART DET
+increased	
+competition	NOMZ
+.	
+It	PIT CAP PRP SBJP
+was	VBD AUXB
+losing	PGAS
+their	TPP3 PRP SBJP
+monopoly	NN
+in	PIN CONJ PREP
+the	ART DET
+oil	NN
+industry	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+stay	INF
+in	PIN CONJ PREP
+the	ART DET
+oil	NN
+industry	NN
+in	PIN CONJ PREP
+the	ART DET
+long	JJ
+run	NN
+,	
+British	CAP NNP
+Petroleum	CAP NNP
+had	VBD
+to	PIN TO PREP
+change	INF
+its	PIT PRP SBJP
+business	NOMZ
+policy	NN
+from	PIN PREP
+bureaucratic	JJ
+to	PIN PREP
+flexible	NN
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+result	NN
+,	
+Robert	CAP NNP
+Horton	CAP NNP
+initiated	VBD
+significant	JJ
+change	NN
+in	PIN CONJ PREP
+British	CAP NNP
+Petroleum	CAP NNP
+'s	
+business	NOMZ
+policy	NN
+,	
+namely	RB CONJ
+'	CONT QUOT
+Project	NN CAP
+1990	NUM
+'	CONT QUOT
+,	
+and	ANDC CCONJ
+promoted	VBD
+the	ART DET
+corporate	JJ
+"	QUOT
+values	NN
+of	PIN PREP
+caring	NN
+,	
+trust	NN
+,	
+openness	NOMZ
+,	
+teamwork	NN
+,	
+and	ANDC CCONJ
+cooperation	NOMZ
+"	QUOT
+.	
+These	DEMO CAP DET
+new	JJ
+corporate	JJ
+values	NN
+encouraged	VBD
+the	ART DET
+company	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+more	RB EMPH CMADJ
+flexible	JJ
+when	RB SCONJ WH
+addressing	GER PGAS
+unexpected	JJ
+changes	NN
+or	CCONJ
+events	NN
+.	
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+ultimate	JJ
+concern	NN
+is	BEMA VPRT AUXB
+the	ART DET
+long	JJ
+run	
+position	NOMZ
+of	PIN PREP
+British	CAP NNP
+Petroleum	CAP NNP
+,	
+it	PIT PRP SBJP
+can	POMD
+be	PASS AUXB INF
+argued	PUBV
+that	PIN THVC SCONJ PREP
+long	JJ
+-	
+term	NN
+strategic	JJ
+plans	NN
+are	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+critical	JJ
+.	
+The	ART CAP DET
+flexibility	NOMZ
+is	VPRT AUXB
+,	
+in	PIN CONJ PREP
+a	ART DET INDA
+sense	PRIV NN
+,	
+a	ART DET INDA
+means	PRIV NN
+,	
+whereas	OSUB PIN SCONJ PREP
+the	ART DET
+long	JJ
+-	
+term	NN
+direction	NOMZ
+is	BEMA VPRT AUXB
+an	ART DET INDA
+end	NN
+.	
+The	ART CAP DET
+short	JJ
+-	
+term	NN
+flexibility	NOMZ
+is	BEMA VPRT AUXB
+ultimately	RB
+a	ART DET INDA
+tool	NN
+used	WZPAST
+for	PIN PREP
+contouring	GER PGAS
+British	CAP NNP
+Petroleum	CAP NNP
+'s	
+,	
+or	CCONJ
+any	QUAN DET
+other	JJ
+business	NOMZ
+'	CONT QUOT
+organizational	JJ
+objectives	NN
+.	
+Freeman	CAP NNP
+,	
+op	NN
+.	
+cit	NNP
+.	NNP
+note	PRIV NN
+1	NUM
+,	
+p.61	NNP
+Roberts	CAP NNP
+,	
+J.	CAP NNP
+(	
+2005	NUM
+)	
+,	
+"	QUOT
+Organizing	GER CAP PGAS
+for	PIN PREP
+Performance	NN CAP
+:	
+How	RB WHQU CAP SCONJ WH
+BP	CAP NNP
+Did	VBD PROD CAP
+It	PIT CAP PRP SBJP
+"	QUOT
+,	
+Date	CAP NNP
+Accessed	CAP NNP
+:	
+27	NUM
+November	CAP NNP
+2005	NUM
+,	
+Ibid	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+implementing	GER PGAS
+long	JJ
+-	
+term	NN
+strategic	JJ
+plans	NN
+and	CCONJ
+achieving	PGAS
+short	JJ
+-	
+term	NN
+flexibility	NOMZ
+are	VPRT AUXB
+two	NUM
+complementary	JJ
+attributes	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+long	JJ
+-	
+term	NN
+direction	NOMZ
+in	PIN CONJ PREP
+a	ART DET INDA
+business	NOMZ
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+critical	JJ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+unattainable	JJ PRED
+if	COND PIN SCONJ PREP
+employees	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+motivated	JJ
+to	PIN TO PREP
+be	BEMA AUXB INF
+flexible	JJ PRED
+in	PIN CONJ PREP
+addressing	GER PGAS
+sudden	JJ
+changes	NN
+.	
+Business	NOMZ CAP
+managers	NN
+must	NEMD SPAU
+therefore	RB CONJ
+adopt	INF
+a	ART DET INDA
+structured	JJ
+approach	NN
+to	PIN PREP
+planning	PGAS
+business	NOMZ
+strategies	NN
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+long	JJ
+-	
+term	NN
+strategic	JJ
+objectives	NN
+and	CCONJ
+the	ART DET
+events	NN
+that	TSUB WHSUB WH
+enhance	VPRT
+these	DEMO DET
+objectives	NN
+can	POMD
+be	PASS AUXB INF
+accomplished	
+simultaneously	RB TIME
+.	

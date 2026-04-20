@@ -1,0 +1,1231 @@
+# filename: SS_Hospitality_Leisure_Tourism_Management_Essay_3_3101h_tx.txt
+token	tags
+Yield	NN CAP
+management	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+process	NN
+of	PIN PREP
+maximising	GER PGAS
+revenue	NN
+by	PIN PREP
+selling	PGAS
+the	ART DET
+allocating	GER PGAS
+the	ART DET
+right	JJ
+amount	NN
+of	PIN PREP
+capacity	NOMZ
+to	PIN PREP
+the	ART DET
+right	JJ
+customer	NN
+at	PIN PREP
+the	ART DET
+right	JJ
+time	NN
+(	
+Kimes	CAP NNP
+,	
+1989	NUM
+)	
+.	
+This	DEMP CAP DET
+means	VPRT PRIV
+setting	PGAS
+prices	NN
+according	WZPRES PGAS
+to	PIN PREP
+the	ART DET
+demand	SUAV NN
+for	PIN PREP
+a	ART DET INDA
+given	
+period	NN
+.	
+In	PIN CONJ CAP PREP
+periods	NN
+of	PIN PREP
+low	JJ
+demand	SUAV NN
+,	
+customers	NN
+can	POMD
+take	INF
+advantage	NN
+of	PIN PREP
+lower	JJ CMADJ
+prices	NN
+,	
+where	RB SCONJ WH
+as	PIN CONJ PREP
+when	RB SCONJ WH
+demand	SUAV NN
+is	BEMA VPRT AUXB
+high	JJ PRED
+,	
+higher	JJ CMADJ
+prices	NN
+are	PASS VPRT AUXB
+charged	
+(	
+Ingold	CAP NNP
+,	
+McMahon	CAP NNP
+-	
+Beattie	CAP NNP
+and	PHC CCONJ
+Yeoman	CAP NNP
+,	
+2000	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+has	VPRT PEAS
+been	PASS SPAU AUXB
+well	RB
+documented	
+that	PIN DEMO SCONJ PREP
+the	ART DET
+process	NN
+of	PIN PREP
+yield	NN
+management	NOMZ
+can	POMD
+be	PASS AUXB INF
+perceived	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+unfair	JJ PRED
+by	PIN PREP
+the	ART DET
+consumer	NN
+,	
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+may	POMD
+be	AUXB INF
+paying	PGAS
+a	ART DET INDA
+different	JJ
+price	NN
+to	PIN PREP
+another	DET
+consumer	NN
+.	
+Yield	NN CAP
+management	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+practice	NN
+that	TSUB WHSUB WH
+is	PASS VPRT SPAU AUXB
+fairly	RB
+widely	RB
+accepted	PRIV
+in	PIN CONJ PREP
+the	ART DET
+airline	NN
+industry	NN
+(	
+Kimes	CAP NNP
+,	
+1994	NUM
+)	
+.	
+Kimes	CAP NNP
+believes	VPRT PRIV
+that	PIN THVC SCONJ PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+the	ART DET
+practice	NN
+has	VPRT PEAS
+been	AUXB
+happening	PGAS
+for	PIN PREP
+longer	RB CMADJ
+in	PIN CONJ PREP
+the	ART DET
+airline	NN
+industry	NN
+.	
+Customers	NN CAP
+of	PIN PREP
+the	ART DET
+hotel	NN
+industry	NN
+find	VPRT PRIV THATD
+it	PIT PRP SBJP
+hard	JJ
+to	PIN TO PREP
+accept	PRIV INF
+the	ART DET
+fairness	NOMZ
+of	PIN PREP
+yield	NN
+management	NOMZ
+,	
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+often	RB
+can	POMD SPAU
+not	XX0 RB
+differentiate	INF
+the	ART DET
+products	NN
+received	WZPAST
+by	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+and	CCONJ
+others	NN
+who	WHSUB WH
+may	POMD
+be	AUXB INF
+paying	PGAS
+a	ART DET INDA
+different	JJ
+price	NN
+(	
+Kimes	CAP NNP
+,	
+1994	NUM
+)	
+.	
+When	RB CAP SCONJ WH
+consumers	NN
+pay	VPRT
+for	PIN PREP
+a	ART DET INDA
+product	NN
+,	
+they	TPP3 PRP SBJP
+have	VPRT
+a	ART DET INDA
+reference	NN
+price	NN
+for	PIN PREP
+that	DEMO DET
+product	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+price	NN
+that	TOBJ WHOBJ WH
+they	TPP3 PRP SBJP
+perceive	VPRT PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+reasonable	JJ PRED
+for	PIN PREP
+the	ART DET
+product	NN
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+receiving	PGAS
+.	
+This	DEMO CAP DET
+reference	NN
+price	NN
+is	VPRT AUXB
+either	CCONJ
+gained	
+from	PIN PREP
+previous	JJ
+experience	NN
+or	CCONJ
+what	WH
+other	JJ
+people	NN
+have	VPRT PEAS
+paid	
+for	PIN PREP
+the	ART DET
+same	JJ
+product	NN
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2003	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+hotel	NN
+,	
+a	ART DET INDA
+guest	NN
+may	POMD
+compare	INF
+their	TPP3 PRP SBJP
+room	NN
+rate	NN
+with	PIN PREP
+someone	QUPR INPR
+else	RB
+'s	
+.	
+When	RB CAP SCONJ WH
+yield	NN
+management	NOMZ
+is	PASS VPRT AUXB
+practiced	
+,	
+the	ART DET
+room	NN
+rates	NN
+that	TOBJ WHOBJ WH
+people	NN
+pay	VPRT
+may	POMD
+be	BEMA AUXB INF
+different	JJ PRED
+,	
+and	ANDC CCONJ
+so	RB
+the	ART DET
+reference	NN
+price	NN
+may	POMD
+be	PASS AUXB INF
+lowered	
+for	PIN PREP
+the	ART DET
+person	NN
+who	WHSUB WH
+paid	VBD
+more	JJ EMPH CMADJ
+,	
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+hence	RB CONJ
+perceive	VPRT PRIV
+the	ART DET
+rate	NN
+they	TPP3 PRP SBJP
+pay	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+unfair	JJ PRED
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2003	NUM
+)	
+.	
+Consumers	NN CAP
+consider	VPRT PRIV
+a	ART DET INDA
+price	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+fair	JJ PRED
+when	RB SCONJ WH
+they	TPP3 PRP SBJP
+feel	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+price	NN
+is	BEMA VPRT AUXB
+reasonable	JJ PRED
+,	
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+the	ART DET
+firm	NN
+is	VPRT AUXB
+making	PGAS
+a	ART DET INDA
+reasonable	JJ
+profit	NN
+(	
+Kahnenan	CAP NNP
+,	
+1986	NUM
+)	
+.	
+The	ART CAP DET
+price	NN
+becomes	VPRT
+unfair	JJ
+to	PIN PREP
+the	ART DET
+consumer	NN
+when	RB WHOBJ SCONJ WH
+this	DEMO DET
+balance	NN
+shifts	NN
+in	PIN CONJ PREP
+favour	NN
+of	PIN PREP
+the	ART DET
+firm	NN
+.	
+However	RB CONJ CAP
+,	
+price	NN
+increases	NN
+can	POMD
+be	BEMA AUXB INF
+acceptable	JJ PRED
+.	
+Consumers	NN CAP
+consider	VPRT PRIV
+that	THVC DET
+price	NN
+rises	NN
+are	BEMA VPRT AUXB
+fair	JJ PRED
+when	RB SCONJ WH
+the	ART DET
+costs	NN
+increase	VPRT
+for	PIN PREP
+the	ART DET
+firm	NN
+or	CCONJ
+the	ART DET
+market	NN
+changes	NN
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2002	NUM
+)	
+.	
+Much	QUAN JJ CAP
+can	POMD
+be	PASS BYPA AUXB INF
+done	PROD
+by	PIN PREP
+firms	NN
+to	PIN TO PREP
+increase	INF
+the	ART DET
+perceived	PRIV
+fairness	NOMZ
+of	PIN PREP
+a	ART DET INDA
+yield	NN
+management	NOMZ
+system	NN
+.	
+The	ART CAP DET
+main	JJ
+way	NN
+to	PIN TO PREP
+make	INF
+the	ART DET
+system	NN
+seem	SMP INF
+fair	JJ
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+differentiate	INF
+the	ART DET
+products	NN
+in	PIN CONJ PREP
+the	ART DET
+mind	NN
+of	PIN PREP
+the	ART DET
+consumer	NN
+(	
+Kimes	CAP NNP
+,	
+1994	NUM
+and	CCONJ
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2003	NUM
+)	
+.	
+Restrictions	NOMZ CAP
+can	POMD
+be	PASS AUXB INF
+applied	
+to	PIN PREP
+the	ART DET
+hotel	NN
+rates	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+reward	INF
+those	DEMP DET
+that	DEMP WH
+can	POMD
+be	BEMA AUXB INF
+more	RB EMPH CMADJ
+flexible	JJ
+with	PIN PREP
+their	TPP3 PRP SBJP
+dates	NN
+,	
+by	PIN PREP
+giving	PGAS
+them	TPP3 PRP SBJP ACCU
+more	RB EMPH CMADJ
+favourable	JJ
+rates	NN
+.	
+A	ART CAP DET INDA
+study	NN
+by	PIN PREP
+Kimes	CAP NNP
+(	
+1994	NUM
+)	
+discovered	VBD PRIV
+that	PIN THVC SCONJ PREP
+consumers	NN
+felt	VBD PRIV
+that	PIN THVC SCONJ PREP
+some	QUAN DET
+restrictions	NOMZ
+were	BEMA VBD AUXB
+fair	JJ PRED
+,	
+as	OSUB RB CONJ
+long	RB
+as	PIN CONJ PREP
+sufficient	JJ
+reward	NN
+was	BEMA VBD AUXB
+available	JJ PRED
+for	PIN PREP
+the	ART DET
+restriction	NOMZ
+being	BEMA WZPRES AUXB
+in	PIN CONJ PREP
+place	NN
+.	
+An	ART CAP DET INDA
+example	NN
+of	PIN PREP
+such	JJ
+restriction	NOMZ
+would	PRMD
+be	BEMA AUXB INF
+an	ART DET INDA
+advance	JJ
+payment	NOMZ
+with	PIN PREP
+no	DET
+or	CCONJ
+limited	JJ
+refund	NN
+for	PIN PREP
+cancellations	NOMZ
+.	
+However	RB CONJ CAP
+,	
+Kimes	CAP NNP
+(	
+1994	NUM
+)	
+discovered	VBD PRIV
+that	PIN THVC SCONJ PREP
+if	COND PIN SCONJ PREP
+too	RB
+many	QUAN JJ
+restrictions	NOMZ
+were	PASS VBD AUXB
+put	
+in	PIN CONJ PREP
+place	NN
+,	
+then	RB
+they	TPP3 PRP SBJP
+would	PRMD
+be	PASS AUXB INF
+considered	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+unfair	JJ PRED
+.	
+Another	CAP DET
+way	NN
+to	PIN TO PREP
+differentiate	INF
+the	ART DET
+product	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+introduce	INF
+rate	NN
+fences	NN
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2003	NUM
+)	
+.	
+These	DEMO CAP DET
+fences	NN
+could	POMD
+include	INF
+the	ART DET
+length	NN
+of	PIN PREP
+stay	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+hotel	NN
+,	
+or	CCONJ
+how	RB SCONJ WH
+far	RB PLACE
+in	PIN CONJ PREP
+advance	NN
+the	ART DET
+room	NN
+is	PASS VPRT AUXB
+booked	
+.	
+The	ART CAP DET
+Marriott	CAP NNP
+tests	NN
+discovered	VBD PRIV
+that	PIN THVC SCONJ PREP
+87	NUM
+%	NN
+of	PIN PREP
+business	NOMZ
+and	PHC CCONJ
+leisure	NN
+travellers	NN
+felt	VBD PRIV
+that	PIN THVC SCONJ PREP
+their	TPP3 PRP SBJP
+advance	NN
+booking	NN
+and	PHC CCONJ
+purchasing	GER
+system	NN
+was	BEMA VBD AUXB
+fair	JJ PRED
+(	
+Hanks	CAP NNP
+,	
+Cross	CAP NNP
+and	PHC CCONJ
+Noland	CAP NNP
+,	
+1992	NUM
+)	
+.	
+Another	CAP DET
+way	NN
+to	PIN TO PREP
+make	INF
+the	ART DET
+price	NN
+differences	NN
+seem	VPRT SMP
+fair	JJ
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+frame	INF
+the	ART DET
+lower	JJ CMADJ
+price	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+discount	NN
+of	PIN PREP
+the	ART DET
+full	JJ
+price	NN
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2002	NUM
+)	
+.	
+During	PIN CAP PREP
+the	ART DET
+study	NN
+by	PIN PREP
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+discovered	PRIV
+that	PIN THVC SCONJ PREP
+consumers	NN
+perceived	VBD PRIV
+the	ART DET
+discount	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+fairer	JJ PRED CMADJ
+than	PIN PREP
+a	ART DET INDA
+surcharge	NN
+that	TSUB WHSUB WH
+would	PRMD
+be	PASS AUXB INF
+charged	
+in	PIN CONJ PREP
+times	NN
+of	PIN PREP
+higher	JJ CMADJ
+demand	SUAV NN
+.	
+An	ART CAP DET INDA
+example	NN
+of	PIN PREP
+this	DEMO DET
+type	NN
+of	PIN PREP
+pricing	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+'	CONT QUOT
+early	JJ TIME
+bird	NN
+'	CONT QUOT
+discount	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+restaurant	NN
+,	
+where	RB SCONJ WH
+a	ART DET INDA
+lower	JJ CMADJ
+price	NN
+is	PASS VPRT AUXB
+paid	
+if	COND PIN SCONJ PREP
+customers	NN
+eat	VPRT
+before	PIN PREP
+a	ART DET INDA
+certain	JJ
+time	NN
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2002	NUM
+)	
+.	
+Choi	CAP NNP
+and	PHC CCONJ
+Mattila	CAP NNP
+(	
+2004	NUM
+)	
+studied	VBD
+the	ART DET
+effect	NN
+that	PIN TSUB SCONJ PREP
+providing	PGAS
+information	NOMZ
+on	PIN PREP
+pricing	NN
+policies	NN
+would	PRMD
+have	INF
+on	PIN PREP
+the	ART DET
+perceived	PRIV
+fairness	NOMZ
+of	PIN PREP
+yield	NN
+management	NOMZ
+.	
+It	PIT CAP PRP SBJP
+was	PASS VBD AUXB
+discovered	PRIV
+that	PIN THVC SCONJ PREP
+consumers	NN
+were	VBD AUXB
+far	RB PLACE
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+perceive	PRIV INF
+the	ART DET
+practice	NN
+of	PIN PREP
+yield	NN
+management	NOMZ
+to	PIN TO PREP
+be	BEMA AUXB INF
+fair	JJ PRED
+if	COND PIN SCONJ PREP
+a	ART DET INDA
+full	JJ
+explanation	NOMZ
+was	PASS VBD AUXB
+given	
+for	PIN PREP
+the	ART DET
+different	JJ
+rates	NN
+,	
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+allowed	VBD SUAV
+the	ART DET
+consumer	NN
+to	PIN TO PREP
+help	INF
+themselves	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+get	INF
+a	ART DET INDA
+lower	JJ CMADJ
+rate	NN
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+customer	NN
+was	PASS VBD SPAU AUXB
+only	DWNT RB
+given	
+the	ART DET
+information	NOMZ
+that	TOBJ WHOBJ WH
+the	ART DET
+rates	NN
+varied	VBD
+,	
+the	ART DET
+practice	NN
+was	PASS VBD SPAU AUXB
+not	XX0 RB
+deemed	PRIV
+as	PIN CONJ PREP
+fair	JJ
+,	
+as	PIN CONJ PREP
+there	EX
+was	VBD AUXB
+no	SYNE DET
+way	NN
+of	PIN PREP
+being	BEMA AUXB
+able	JJ PRED
+to	PIN TO STPR PREP
+'	CONT QUOT
+work	INF
+the	ART DET
+system	NN
+'	CONT QUOT
+to	PIN TO PREP
+get	INF
+a	ART DET INDA
+lower	JJ CMADJ
+rate	NN
+(	
+Choi	CAP NNP
+and	PHC CCONJ
+Mattila	CAP NNP
+,	
+2005	NUM
+)	
+.	
+By	PIN CAP PREP
+making	PGAS
+all	QUAN DET
+their	TPP3 PRP SBJP
+pricing	NN
+information	NOMZ
+available	JJ
+,	
+hotels	NN
+are	VPRT AUXB
+showing	PRIV PGAS
+the	ART DET
+customer	NN
+that	PIN TOBJ SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+willing	JJ PRED
+to	PIN TO PREP
+be	BEMA AUXB INF
+open	JJ PRED
+about	PIN PREP
+their	TPP3 PRP SBJP
+policies	NN
+,	
+and	ANDC CCONJ
+are	VPRT SPAU AUXB
+also	RB
+demonstrating	GER PRIV PGAS
+that	PIN THVC SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+method	NN
+behind	PIN PLACE PREP
+the	ART DET
+rates	NN
+they	TPP3 PRP SBJP
+charge	VPRT
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+not	XX0 RB
+jus	NN
+randomly	RB
+generated	
+(	
+Choi	CAP NNP
+and	PHC CCONJ
+Mattila	CAP NNP
+,	
+2005	NUM
+)	
+.	
+One	CAP NUM
+disadvantage	NN
+to	PIN PREP
+the	ART DET
+hotel	NN
+is	BEMA VPRT AUXB
+the	ART DET
+marginally	RB
+increased	
+cost	NN
+of	PIN PREP
+making	PGAS
+the	ART DET
+booking	NN
+when	RB WHOBJ SCONJ WH
+the	ART DET
+policy	NN
+is	PASS VPRT AUXB
+explained	PUBV
+to	PIN PREP
+each	QUAN DET
+customer	NN
+,	
+as	PIN CONJ PREP
+the	ART DET
+booking	NN
+phone	NN
+call	NN
+could	POMD
+take	INF
+longer	RB CMADJ
+(	
+Choi	CAP NNP
+and	PHC CCONJ
+Mattila	CAP NNP
+,	
+2005	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+Choi	CAP NNP
+and	PHC CCONJ
+Mattila	CAP NNP
+(	
+2004	NUM
+)	
+believe	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+benefits	NN
+outweigh	VPRT
+the	ART DET
+costs	NN
+as	PIN CONJ PREP
+customers	NN
+may	POMD
+be	PASS AUXB INF
+lost	
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+perceive	VPRT PRIV
+the	ART DET
+pricing	NN
+policy	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+unfair	JJ PRED
+.	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+(	
+2003	NUM
+)	
+also	RB
+suggested	VBD PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+prices	NN
+of	PIN PREP
+rooms	NN
+could	POMD
+be	AUXB INF
+"	QUOT
+bundled	
+"	QUOT
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+room	NN
+price	NN
+itself	PIT PRP SBJP ACCU
+would	PRMD
+be	BEMA AUXB INF
+indeterminable	JJ PRED
+.	
+This	DEMP CAP DET
+removes	VPRT
+the	ART DET
+issue	NN
+of	PIN PREP
+fairness	NOMZ
+for	PIN PREP
+the	ART DET
+customer	NN
+,	
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+unable	JJ PRED
+to	PIN TO PREP
+compare	INF
+the	ART DET
+room	NN
+rate	NN
+with	PIN PREP
+someone	QUPR INPR
+else	RB
+who	WH
+may	POMD
+have	PEAS INF
+paid	
+the	ART DET
+room	NN
+only	DWNT RB
+rate	NN
+.	
+However	RB CONJ CAP
+,	
+this	DEMO DET
+method	NN
+does	VPRT SPAU
+n't	XX0 CONT RB
+seem	SMP INF
+to	PIN TO PREP
+address	INF
+the	ART DET
+issue	NN
+of	PIN PREP
+how	RB SCONJ WH
+fair	JJ
+the	ART DET
+practice	NN
+is	VPRT AUXB
+.	
+Due	PIN CAP PREP
+to	PIN PREP
+the	ART DET
+extent	NN
+of	PIN PREP
+literature	NN
+on	PIN PREP
+this	DEMO DET
+subject	NN
+,	
+the	ART DET
+fairness	NOMZ
+of	PIN PREP
+yield	NN
+management	NOMZ
+clearly	RB
+worries	VPRT
+those	DEMP DET
+that	DEMP WH
+practice	VPRT
+it	PIT PRP SBJP
+.	
+However	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+the	ART DET
+hotel	NN
+industry	NN
+,	
+yield	NN
+management	NOMZ
+is	VPRT AUXB
+becoming	PGAS
+more	RB EMPH CMADJ
+acceptable	JJ
+(	
+Choi	CAP NNP
+and	PHC CCONJ
+Mattila	CAP NNP
+,	
+2005	NUM
+)	
+.	
+This	DEMP CAP DET
+is	PASS VPRT BYPA AUXB
+backed	
+up	PIN PREP
+by	PIN PREP
+an	ART DET INDA
+updated	
+study	NN
+by	PIN PREP
+Kimes	CAP NNP
+(	
+2002	NUM
+)	
+.	
+Yield	NN CAP
+management	NOMZ
+can	POMD SPAU
+only	DWNT RB
+help	INF
+achieve	INF
+long	JJ
+term	NN
+profit	NN
+if	COND PIN SCONJ PREP
+the	ART DET
+consumer	NN
+perceives	VPRT PRIV
+the	ART DET
+process	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+fair	JJ PRED
+(	
+Wirtz	CAP NNP
+and	PHC CCONJ
+Kimes	CAP NNP
+,	
+2003	NUM
+)	
+.	
+Fair	NN CAP
+practices	NN
+also	RB
+have	VPRT
+a	ART DET INDA
+positive	JJ
+effect	NN
+on	PIN PREP
+the	ART DET
+service	NN
+encounter	NN
+,	
+which	SERE WHQU DET WH
+will	PRMD
+result	INF
+in	PIN CONJ PREP
+better	JJ CMADJ
+customer	NN
+satisfaction	NOMZ
+(	
+Namasivayam	CAP NNP
+and	PHC CCONJ
+Hinkin	CAP NNP
+,	
+2003	NUM
+)	
+.	
+There	EX CAP
+are	VPRT AUXB
+several	QUAN JJ
+ways	NN
+that	TOBJ WHOBJ WH
+managers	NN
+can	POMD
+make	INF
+yield	NN
+management	NOMZ
+appear	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+fair	JJ PRED
+.	
+The	ART CAP DET
+products	NN
+can	POMD
+be	PASS AUXB INF
+differentiated	
+to	PIN TO PREP
+justify	INF
+their	TPP3 PRP SBJP
+different	JJ
+prices	NN
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+make	INF
+the	ART DET
+pricing	NN
+policy	NN
+very	AMP RB
+clear	JJ
+to	PIN PREP
+customers	NN
+so	PIN SCONJ PREP
+they	TPP3 PRP SBJP
+can	POMD
+make	INF
+an	ART DET INDA
+informed	JJ
+choice	NN
+.	
+These	DEMO CAP DET
+methods	NN
+will	PRMD
+educate	INF
+the	ART DET
+customer	NN
+,	
+and	ANDC CCONJ
+hopefully	RB
+make	INF
+them	TPP3 PRP SBJP ACCU
+more	RB EMPH CMADJ
+accepting	PRIV PGAS
+of	PIN PREP
+yield	NN
+management	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+practice	NN
+in	PIN CONJ PREP
+the	ART DET
+hospitality	NOMZ
+industry	NN
+.	

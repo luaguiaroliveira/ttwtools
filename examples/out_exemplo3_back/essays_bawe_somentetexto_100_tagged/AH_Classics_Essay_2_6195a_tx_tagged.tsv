@@ -1,0 +1,1216 @@
+# filename: AH_Classics_Essay_2_6195a_tx.txt
+token	tags
+The	ART CAP DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+transcript	NN
+-	
+like	JJ
+inscription	NOMZ
+that	TSUB WHSUB WH
+contains	VPRT
+Claudius	CAP NNP
+'	CONT QUOT
+actual	JJ
+speech	NN
+in	PIN CONJ PREP
+contrast	NN
+to	PIN PREP
+Tacitus	CAP NNP
+Annals	CAP NNP
+,	
+which	SERE WHQU DET WH
+was	PASS VBD AUXB
+written	PUBV
+nearly	DWNT RB
+70	NUM
+years	NN
+after	PIN PREP
+by	PIN PREP
+someone	QUPR INPR
+who	WH
+was	VBD AUXB
+not	XX0 RB
+there	RB
+or	CCONJ
+even	RB
+a	ART DET INDA
+contemporary	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+note	PRIV INF
+the	ART DET
+purpose	NN
+of	PIN PREP
+each	QUAN DET
+of	PIN PREP
+these	DEMO DET
+texts	NN
+as	PIN CONJ PREP
+the	ART DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+inscription	NOMZ
+is	BEMA VPRT AUXB
+an	ART DET INDA
+informative	JJ
+record	NN
+of	PIN PREP
+the	ART DET
+speech	NN
+by	PIN PREP
+Claudius	CAP NNP
+whereas	OSUB PIN SCONJ PREP
+the	ART DET
+Tacitus	CAP NNP
+version	NOMZ
+is	VPRT AUXB
+,	
+although	CONC PIN SCONJ PREP
+meant	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+to	PIN PREP
+an	ART DET INDA
+extent	NN
+informative	JJ
+,	
+intended	PASTP SUAV
+to	PIN TO PREP
+entertain	INF
+the	ART DET
+readers	NN
+of	PIN PREP
+the	ART DET
+time	NN
+i.e.	CONJ X
+the	ART DET
+aristocracy	NN
+.	
+Therefore	RB CONJ CAP
+the	ART DET
+style	NN
+and	PHC CCONJ
+presentation	NOMZ
+is	BEMA VPRT AUXB
+fundamentally	RB
+differing	JJ
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+evident	JJ PRED
+in	PIN CONJ PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+Tacitus	CAP NNP
+version	NOMZ
+summarises	VPRT
+the	ART DET
+senator	NN
+'s	
+early	JJ TIME
+views	NN
+clearly	RB
+in	PIN CONJ PREP
+speech	NN
+whereas	OSUB PIN SCONJ PREP
+the	ART DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+has	VPRT
+interruptions	NOMZ
+from	PIN PREP
+individuals	NN
+who	WHSUB WH
+appear	VPRT SMP
+to	PIN TO PREP
+be	AUXB INF
+senators	NN
+.	
+From	PIN CAP PREP
+a	ART DET INDA
+dramatic	JJ
+and	PHC CCONJ
+stylistic	JJ
+perspective	NN
+this	DEMP DET
+would	PRMD SPAU
+obviously	RB
+not	XX0 RB
+have	PEAS INF
+suited	
+Tacitus	CAP NNP
+,	
+thus	RB CONJ
+he	TPP3 PRP SBJP
+uses	VPRT
+narrative	NN
+prose	NN
+.	
+The	ART CAP DET
+Tacitus	CAP NNP
+version	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+whole	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+summarised	JJ
+.	
+"	QUOT
+Not	XX0 RB CAP
+to	PIN TO PREP
+enquire	INF
+too	RB
+minutely	RB
+into	PIN PREP
+the	ART DET
+past	NN
+...	
+new	JJ
+members	NN
+have	VPRT PEAS
+been	PASS AUXB
+brought	
+into	PIN PREP
+the	ART DET
+senate	NNP
+from	PIN PREP
+Etruria	CAP NNP
+...	
+and	ANDC CCONJ
+the	ART DET
+whole	NN
+of	PIN PREP
+Italy	CAP NNP
+...	
+so	RB
+not	XX0 RB
+only	DWNT RB
+single	JJ
+persons	NN
+but	CCONJ
+entire	JJ
+countries	NN
+and	PHC CCONJ
+tribes	NN
+might	POMD
+be	PASS AUXB INF
+united	
+under	PIN PREP
+one	NUM
+name	NN
+.	
+"	QUOT
+The	ART CAP DET
+Lyon	CAP NNP
+tablet	NN
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+does	VPRT EMPH
+go	INF
+into	PIN PREP
+minute	JJ
+detail	NN
+about	PIN PREP
+the	ART DET
+past	NN
+,	
+indeed	RB
+the	ART DET
+entire	JJ
+second	JJ
+paragraph	NN
+talks	NN
+about	PIN PREP
+the	ART DET
+ancient	JJ
+history	NN
+of	PIN PREP
+Rome	CAP NNP
+.	
+This	DEMP CAP DET
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+Tactitus	CAP NNP
+may	POMD
+have	PEAS INF
+read	
+this	DEMP DET
+and	CCONJ
+decided	VBD PRIV SUAV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+was	PASS VBD SPAU AUXB
+too	RB
+long	RB
+winded	
+and	ANDC CCONJ
+so	RB
+chose	VBD
+to	PIN TO PREP
+use	INF
+his	TPP3 PRP SBJP
+own	JJ
+examples	NN
+including	WZPRES PGAS
+,	
+as	PIN CONJ PREP
+the	ART DET
+origin	NN
+of	PIN PREP
+the	ART DET
+Julii	CAP NNP
+,	
+Coruncaii	CAP NNP
+and	PHC CCONJ
+Porcii	CAP NNP
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+his	TPP3 PRP SBJP
+own	JJ
+seemingly	RB
+made	
+-	
+up	PIN PREP
+rhetorical	JJ
+questions	NOMZ
+:	
+"	QUOT
+Are	VPRT AUXB CAP
+we	FPP1 PRP SBJP
+sorry	JJ
+that	PIN THAC SCONJ PREP
+the	ART DET
+Balbi	CAP NNP
+came	VBD
+to	PIN TO PREP
+use	INF
+from	PIN PREP
+Spain	CAP NNP
+?	QUES
+"	QUOT
+these	DEMO DET
+inaccuracies	NN
+are	PASS VPRT AUXB
+seen	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+more	RB EMPH CMADJ
+dramatic	JJ
+but	CCONJ
+deviate	JJ
+from	PIN PREP
+the	ART DET
+facts	NN
+.	
+The	ART CAP DET
+senator	NN
+'s	
+speech	NN
+to	PIN PREP
+Claudius	CAP NNP
+at	PIN PREP
+the	ART DET
+beginning	NN
+of	PIN PREP
+Tacitus	CAP NNP
+is	PASS VPRT SPAU AUXB
+completely	AMP RB
+fabricated	
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+existence	NN
+,	
+according	PGAS
+to	PIN PREP
+the	ART DET
+Lyons	CAP NNP
+inscription	NOMZ
+,	
+and	ANDC CCONJ
+in	PIN CONJ PREP
+context	NN
+it	PIT PRP SBJP
+is	VPRT AUXB
+mainly	RB
+over	RB
+-	
+dramatised	
+.	
+For	PIN CAP PREP
+example	NN
+,	
+in	PIN CONJ PREP
+the	ART DET
+Lyons	CAP NNP
+inscription	NOMZ
+Claudius	CAP NNP
+does	VPRT EMPH
+explain	PUBV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+senate	NNP
+may	POMD
+have	INF
+concerns	NN
+over	PIN PREP
+the	ART DET
+"	QUOT
+novelty	NN
+"	QUOT
+of	PIN PREP
+introducing	GER PGAS
+new	JJ
+tribes	NN
+into	PIN PREP
+the	ART DET
+senate	NNP
+,	
+however	RB CONJ
+the	ART DET
+Tacitus	CAP NNP
+version	NOMZ
+reads	VPRT
+"	QUOT
+that	PIN THVC SCONJ PREP
+every	QUAN DET
+place	NN
+will	PRMD
+be	PASS AUXB INF
+crowded	
+with	PIN PREP
+these	DEMO DET
+millionaires	NN
+[	X
+The	ART CAP DET
+Gallic	CAP NNP
+chieftains	NN
+who	WHSUB WH
+wish	VPRT
+to	PIN TO PREP
+join	INF
+the	ART DET
+senate]	NNP
+...	
+whose	DET WH
+second	JJ
+and	PHC CCONJ
+third	JJ
+generation	NOMZ
+destroyed	VBD
+our	FPP1 PRP SBJP
+armies	NN
+with	PIN PREP
+fire	NN
+and	PHC CCONJ
+sword	NN
+!	EXCL
+"	QUOT
+.	
+Against	PIN CAP PREP
+such	JJ
+strong	JJ
+opposition	NOMZ
+as	PIN CONJ PREP
+this	DEMO DET
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+see	PRIV INF
+why	RB WHCL SCONJ WH
+after	PIN PREP
+only	DWNT RB
+the	ART DET
+short	JJ
+speech	NN
+by	PIN PREP
+Claudius	CAP NNP
+,	
+the	ART DET
+Senate	CAP NNP
+was	BEMA VBD AUXB
+so	RB EMPH
+eager	JJ
+to	PIN TO PREP
+pass	INF
+a	ART DET INDA
+decree	SUAV NN
+.	
+True	JJ CAP
+the	ART DET
+Lyon	CAP NNP
+inscription	NOMZ
+does	VPRT EMPH
+show	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+senate	NNP
+was	BEMA VBD AUXB
+in	PIN CONJ PREP
+opposition	NOMZ
+but	CCONJ
+it	PIT PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+use	INF
+the	ART DET
+same	JJ
+analogies	NN
+or	CCONJ
+opinions	NN
+shown	PRIV WZPAST
+by	PIN PREP
+the	ART DET
+senator	NN
+in	PIN CONJ PREP
+Tacitus	CAP NNP
+,	
+for	PIN PREP
+example	NN
+there	EX
+being	AUXB
+no	SYNE DET
+distinctions	NOMZ
+left	WZPAST
+for	PIN STPR PREP
+"	QUOT
+our	FPP1 PRP SBJP
+noble	JJ
+houses	NN
+"	QUOT
+.	
+This	DEMO CAP DET
+therefore	RB CONJ
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+Tacitus	CAP NNP
+shows	VPRT PRIV
+a	ART DET INDA
+greater	JJ CMADJ
+opposition	NOMZ
+to	PIN TO PREP
+add	PUBV INF
+more	RB EMPH CMADJ
+dramatic	JJ
+and	PHC CCONJ
+romantic	JJ
+effect	NN
+to	PIN PREP
+Claudius	CAP NNP
+speech	NN
+.	
+This	DEMO CAP DET
+explanation	NOMZ
+is	PASS VPRT BYPA AUXB
+re	PIN PREP
+-	
+enforced	
+by	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+he	TPP3 PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+state	PUBV INF
+which	WHCL DET WH
+senator	NN
+says	VPRT PUBV
+this	DEMO DET
+he	TPP3 PRP SBJP
+simply	RB
+says	VPRT PUBV
+"	QUOT
+These	DEMP CAP DET
+and	CCONJ
+alike	JJ
+arguments	NOMZ
+failed	VBD
+to	PIN TO PREP
+impress	INF
+the	ART DET
+emperor	NN
+"	QUOT
+which	SERE DET WH
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+views	NN
+expressed	WZPAST
+were	BEMA VBD AUXB
+possibly	RB
+a	ART DET INDA
+mixture	NN
+between	PIN PREP
+what	WH
+he	TPP3 PRP SBJP
+himself	TPP3 PRP SBJP ACCU
+thought	VBD PRIV
+might	POMD
+have	PEAS INF
+been	PASS AUXB
+said	PUBV
+at	PIN PREP
+the	ART DET
+time	NN
+and	ANDC CCONJ
+what	WH
+he	TPP3 PRP SBJP
+factually	RB
+knew	VBD PRIV
+.	
+Claudius	CAP NNP
+personality	NOMZ
+emerges	VPRT
+to	PIN PREP
+us	FPP1 PRP SBJP ACCU
+as	RB CONJ
+greatly	AMP RB
+improved	
+in	PIN CONJ PREP
+Tacitus	CAP NNP
+,	
+the	ART DET
+lack	NN
+of	PIN PREP
+interruptions	NOMZ
+,	
+the	ART DET
+narration	NOMZ
+,	
+the	ART DET
+more	RB EMPH CMADJ
+heroic	JJ
+,	
+dramatic	JJ
+sentences	NN
+and	CCONJ
+the	ART DET
+rousing	PGAS
+examples	NN
+all	QUAN DET
+create	VPRT
+a	ART DET INDA
+strong	JJ
+,	
+articulate	JJ
+character	NN
+.	
+There	EX CAP
+are	VPRT AUXB
+numerous	JJ
+sentences	NN
+that	TSUB WHSUB WH
+show	VPRT PRIV THATD
+this	DEMP DET
+,	
+that	WHQU DEMP WH
+are	VPRT AUXB
+totally	AMP RB
+or	CCONJ
+partially	DWNT RB
+distorted	
+from	PIN PREP
+those	DEMP DET
+shown	PRIV
+in	PIN CONJ PREP
+the	ART DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+,	
+but	CCONJ
+create	INF
+a	ART DET INDA
+more	RB EMPH CMADJ
+impressive	JJ
+character	NN
+of	PIN PREP
+the	ART DET
+emperor	NN
+.	
+Firstly	RB CAP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+Tacitus	CAP NNP
+version	NOMZ
+is	BEMA VPRT AUXB
+shorter	JJ PRED CMADJ
+in	PIN CONJ PREP
+comparison	NN
+to	PIN PREP
+the	ART DET
+Lyon	CAP NNP
+tablet	NN
+,	
+creates	VPRT
+a	ART DET INDA
+notion	NOMZ
+that	PIN TOBJ SCONJ PREP
+Claudius	CAP NNP
+ability	NOMZ
+to	PIN TO PREP
+persuade	INF
+is	BEMA VPRT AUXB
+very	AMP RB
+great	JJ
+,	
+especially	RB
+as	PIN CONJ PREP
+has	VPRT PEAS SPAU
+previously	RB TIME
+been	PASS AUXB
+discussed	
+,	
+because	CAUS PIN SCONJ PREP
+the	ART DET
+senators	NN
+speech	NN
+at	PIN PREP
+the	ART DET
+beginning	NN
+is	PASS VPRT SPAU AUXB
+directly	RB
+polarised	
+.	
+Tacitus	CAP NNP
+also	RB
+keeps	VPRT
+the	ART DET
+attention	NOMZ
+of	PIN PREP
+the	ART DET
+reader	NN
+to	PIN PREP
+a	ART DET INDA
+greater	JJ CMADJ
+extent	NN
+,	
+suggesting	GER PUBV SUAV PGAS
+that	PIN THVC SCONJ PREP
+Claudius	CAP NNP
+had	VBD
+great	JJ
+oratory	JJ
+skills	NN
+whereas	OSUB PIN SCONJ PREP
+the	ART DET
+Lyon	CAP NNP
+inscription	NOMZ
+shows	VPRT PRIV
+this	DEMO DET
+to	PIN PREP
+a	ART DET INDA
+lesser	JJ CMADJ
+extent	NN
+.	
+For	PIN CAP PREP
+example	NN
+realistically	RB
+,	
+The	ART CAP DET
+Lyon	CAP NNP
+tablets	NN
+contain	VPRT
+tangents	NN
+and	CCONJ
+slight	JJ
+irrelevancies	NN
+such	JJ
+as	PIN CONJ PREP
+Claudius	CAP NNP
+mention	PUBV NOMZ
+of	PIN PREP
+himself	TPP3 PRP SBJP ACCU
+seeming	PGAS
+boastful	JJ
+about	PIN PREP
+Rome	CAP NNP
+'s	
+many	QUAN JJ
+conquests	NN
+,	
+to	PIN PREP
+which	PIRE DET WH
+he	TPP3 PRP SBJP
+follows	VPRT
+by	PIN PREP
+saying	PUBV PGAS
+"	QUOT
+But	CAP CCONJ
+I	FPP1 CAP PRP SBJP
+will	PRMD
+return	INF
+to	PIN PREP
+the	ART DET
+point	NN
+"	QUOT
+and	ANDC CCONJ
+the	ART DET
+second	JJ
+interruption	NOMZ
+by	PIN PREP
+a	ART DET INDA
+senator	NN
+asking	WZPRES SUAV PGAS
+"	QUOT
+where	RB SCONJ WH
+the	ART DET
+speech	NN
+is	VPRT AUXB
+tending	PGAS
+"	QUOT
+.	
+It	PIT CAP PRP SBJP
+also	RB
+ends	VPRT
+slowly	RB
+without	PIN PREP
+giving	PGAS
+something	QUPR INPR
+for	PIN PREP
+the	ART DET
+listeners	NN
+to	PIN TO PREP
+hang	INF
+on	PIN PREP
+whereas	OSUB PIN SCONJ PREP
+Tacitus	CAP NNP
+'	CONT QUOT
+version	NOMZ
+ends	VPRT
+"	QUOT
+What	WHQU CAP WH
+we	FPP1 PRP SBJP
+are	VPRT AUXB
+,	
+this	DEMO DET
+day	NN
+justifying	GER WZPRES PGAS
+with	PIN PREP
+precedents	NN
+,	
+will	PRMD
+one	NUM
+day	NN
+become	INF
+one	NUM
+in	PIN CONJ PREP
+itself	PIT PRP SBJP ACCU
+.	
+"	QUOT
+Indeed	RB CAP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+authority	NOMZ
+with	PIN PREP
+which	PIRE DET WH
+Claudius	CAP NNP
+speaks	VPRT
+in	PIN CONJ PREP
+Tacitus	CAP NNP
+that	DEMP WH
+seems	VPRT SMP
+so	RB EMPH
+influential	JJ
+and	PHC CCONJ
+important	JJ
+to	PIN PREP
+the	ART DET
+debate	NN
+"	QUOT
+My	FPP1 CAP PRP SBJP
+ancestors	NN
+,	
+the	ART DET
+most	RB EMPH SPADJ
+ancient	JJ
+of	PIN PREP
+whom	PIRE WH
+...	
+governed	PASTP
+by	PIN PREP
+the	ART DET
+same	JJ
+policy	NN
+of	PIN PREP
+transferring	GER PGAS
+to	PIN PREP
+the	ART DET
+city	NN
+all	QUAN DET
+conspicuous	JJ
+merit	NN
+wherever	RB WHOBJ SCONJ WH
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+found	PRIV
+.	
+"	QUOT
+Claudius	CAP NNP
+begins	VPRT
+in	PIN CONJ PREP
+Tacitus	CAP NNP
+and	CCONJ
+yet	RB
+the	ART DET
+beginning	NN
+of	PIN PREP
+his	TPP3 PRP SBJP
+actual	JJ
+speech	NN
+shown	PRIV WZPAST
+on	PIN PREP
+the	ART DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+seems	VPRT SMP
+to	PIN TO PREP
+speak	INF
+with	PIN PREP
+much	QUAN RB
+less	JJ CMADJ
+conviction	NOMZ
+and	PHC CCONJ
+authority	NOMZ
+,	
+he	TPP3 PRP SBJP
+deprecates	VPRT
+his	TPP3 PRP SBJP
+main	JJ
+obstacle	NN
+and	CCONJ
+asks	VPRT SUAV
+the	ART DET
+senate	NNP
+not	XX0 RB
+to	PIN TO PREP
+be	PASS AUXB INF
+alarmed	
+but	CCONJ
+to	PIN TO PREP
+remember	PRIV INF
+the	ART DET
+changes	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+city	NN
+has	VPRT PEAS
+undergone	
+throughout	PIN PREP
+the	ART DET
+ages	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+a	ART DET INDA
+luke	JJ
+-	
+warm	JJ
+statement	NOMZ
+for	PIN PREP
+his	TPP3 PRP SBJP
+character	NN
+.	
+The	ART CAP DET
+entire	JJ
+tone	NN
+of	PIN PREP
+Tacitus	CAP NNP
+version	NOMZ
+is	VPRT AUXB
+inspiring	PGAS
+using	PGAS
+such	JJ
+words	NN
+as	PIN CONJ STPR PREP
+"	QUOT
+patriotic	JJ
+"	QUOT
+and	ANDC CCONJ
+using	PGAS
+an	ART DET INDA
+example	NN
+of	PIN PREP
+Athens	CAP NNP
+and	PHC CCONJ
+Sparta	CAP NNP
+'s	
+decline	NN
+due	PIN PREP
+to	PIN PREP
+their	TPP3 PRP SBJP
+inability	NOMZ
+to	PIN TO PREP
+befriend	INF
+and	PHC CCONJ
+capitalise	INF
+on	PIN PREP
+their	TPP3 PRP SBJP
+conquered	JJ
+foes	NN
+,	
+yet	CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+virtually	RB
+all	QUAN DET
+fabricated	
+and	CCONJ
+greatly	AMP RB
+more	RB EMPH CMADJ
+concise	JJ
+if	COND PIN SCONJ PREP
+the	ART DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+be	PASS AUXB INF
+believed	PRIV
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+also	RB
+probably	RB
+no	SYNE DET
+coincidence	NN
+that	TOBJ WHOBJ WH
+Tacitus	CAP NNP
+was	BEMA VBD AUXB
+a	ART DET INDA
+himself	TPP3 PRP SBJP ACCU
+a	ART DET INDA
+great	JJ
+writer	NN
+,	
+being	PASS AUXB
+taught	
+rhetoric	NN
+from	PIN PREP
+a	ART DET INDA
+young	JJ
+age	NN
+it	PIT PRP SBJP
+seems	VPRT SMP
+that	PIN THVC SCONJ PREP
+the	ART DET
+majority	NOMZ
+of	PIN PREP
+the	ART DET
+devices	NN
+used	WZPAST
+were	PASS VBD BYPA AUXB
+created	
+by	PIN PREP
+himself	TPP3 PRP SBJP ACCU
+.	
+There	EX CAP
+is	VPRT AUXB
+further	JJ
+evidence	NN
+for	PIN PREP
+this	DEMO DET
+in	PIN CONJ PREP
+that	PIN DEMO SCONJ PREP
+Tactitus	CAP NNP
+does	VPRT PROD
+have	INF
+several	QUAN JJ
+distortions	NOMZ
+of	PIN PREP
+the	ART DET
+truth	NN
+,	
+for	PIN PREP
+example	NN
+he	TPP3 PRP SBJP
+says	VPRT PUBV
+"	QUOT
+if	COND PIN SCONJ PREP
+you	SPP2 PRP SBJP
+review	VPRT
+the	ART DET
+Romans	CAP NNP
+wars	NN
+,	
+never	RB
+has	VPRT
+one	NUM
+been	BEMA AUXB
+shorter	JJ PRED CMADJ
+than	PIN PREP
+the	ART DET
+one	NUM
+with	PIN PREP
+Gaul	CAP NNP
+"	QUOT
+,	
+this	DEMP DET
+is	VPRT AUXB
+vastly	RB
+far	RB PLACE
+from	PIN PREP
+the	ART DET
+truth	NN
+as	PIN CONJ PREP
+Caesars	CAP NNP
+conquest	NN
+of	PIN PREP
+Gaul	CAP NNP
+took	VBD
+eight	NUM
+years	NN
+of	PIN PREP
+intense	JJ
+fighting	NN
+(	
+other	JJ
+wars	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+social	JJ
+war	NN
+,	
+lasted	VBD
+significantly	RB
+less	JJ CMADJ
+time	NN
+)	
+.	
+The	ART CAP DET
+Tacitus	CAP NNP
+version	NOMZ
+of	PIN PREP
+Claudius	CAP NNP
+'	CONT QUOT
+speech	NN
+then	RB
+is	BEMA VPRT AUXB
+a	ART DET INDA
+significantly	RB
+different	JJ
+one	NUM
+to	PIN PREP
+the	ART DET
+actual	JJ
+speech	NN
+as	PIN CONJ PREP
+shown	PRIV
+by	PIN PREP
+the	ART DET
+Lyons	CAP NNP
+inscriptions	NOMZ
+.	
+There	EX CAP
+are	VPRT AUXB
+some	QUAN DET
+distortions	NOMZ
+of	PIN PREP
+the	ART DET
+facts	NN
+,	
+over	PIN STPR PREP
+-	
+dramatising	GER
+of	PIN PREP
+the	ART DET
+situation	NOMZ
+and	CCONJ
+a	ART DET INDA
+great	JJ
+deal	NN
+of	PIN PREP
+what	WH
+appears	VPRT SMP
+to	PIN TO PREP
+be	AUXB INF
+Tacitus	CAP NNP
+'s	
+own	JJ
+opinions	NN
+of	PIN PREP
+what	WH
+people	NN
+may	POMD
+have	PEAS INF
+thought	PRIV
+.	
+Nevertheless	RB CONJ CAP
+it	PIT PRP SBJP
+has	VPRT
+historical	JJ
+use	NN
+in	PIN CONJ PREP
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+accurately	RB
+describes	VPRT
+that	PIN DEMO SCONJ PREP
+the	ART DET
+decree	SUAV NN
+was	PASS VBD AUXB
+passed	
+,	
+it	PIT PRP SBJP
+gives	VPRT
+some	QUAN DET
+useful	JJ
+insights	NN
+into	PIN PREP
+what	WH
+the	ART DET
+senators	NN
+may	POMD
+have	PEAS INF
+thought	PRIV
+(	
+as	RB CONJ
+admittedly	RB
+the	ART DET
+Lyon	CAP NNP
+Tablet	CAP NNP
+only	DWNT RB
+gives	VPRT
+two	NUM
+senators	NN
+interruptions	NOMZ
+and	CCONJ
+the	ART DET
+rest	NN
+must	NEMD
+be	PASS AUXB INF
+deducted	
+from	PIN PREP
+what	WH
+Claudius	CAP NNP
+says	VPRT PUBV
+)	
+and	ANDC CCONJ
+illustrates	VPRT
+the	ART DET
+issues	NN
+of	PIN PREP
+provincial	JJ
+relationships	NN
+with	PIN PREP
+Rome	CAP NNP
+at	PIN PREP
+that	DEMO DET
+time	NN
+.	

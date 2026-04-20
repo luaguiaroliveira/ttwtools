@@ -1,0 +1,1546 @@
+# filename: LS_Psychology_Essay_2_0190c_tx.txt
+token	tags
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+discuss	INF
+various	JJ
+advantages	NN
+of	PIN PREP
+using	PGAS
+qualitative	JJ
+methods	NN
+.	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+explain	PUBV INF
+why	RB WHCL SCONJ WH
+I	FPP1 CAP PRP SBJP
+believe	VPRT PRIV THATD
+that	PIN STPR DEMP SCONJ PREP
+,	
+despite	PIN SCONJ PREP
+controversy	NN
+,	
+qualitative	JJ
+methods	NN
+can	POMD
+be	BEMA AUXB INF
+valid	JJ PRED
+and	PHC CCONJ
+reliable	JJ PRED
+whilst	OSUB PIN SCONJ PREP
+highlighting	GER PGAS
+the	ART DET
+care	NN
+psychologists	NN
+need	VPRT
+to	PIN TO PREP
+take	INF
+to	PIN TO PREP
+use	INF
+them	TPP3 PRP SBJP ACCU
+affectively	RB
+.	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+conclude	PRIV INF
+by	PIN PREP
+explaining	GER PUBV THATD PGAS
+how	RB WHCL SCONJ WH
+qualitative	JJ
+methods	NN
+can	POMD SPAU
+best	RB SPADJ
+be	PASS AUXB INF
+used	
+in	PIN CONJ PREP
+psychological	JJ
+research	NN
+.	
+Burt	CAP NNP
+and	PHC CCONJ
+Oaksford	CAP NNP
+*	
+(	
+1999	NUM
+)	
+say	VPRT PUBV
+scientific	JJ
+research	NN
+involves	VPRT
+experimentation	NOMZ
+to	PIN TO PREP
+test	INF
+a	ART DET INDA
+hypothesis	NN
+.	
+However	RB CONJ CAP
+,	
+whilst	OSUB PIN SCONJ PREP
+in	PIN CONJ PREP
+long	RB
+-	
+established	PRIV
+physical	JJ
+sciences	NN
+such	JJ
+as	PIN CONJ PREP
+chemistry	NN
+,	
+'	CONT QUOT
+the	ART DET
+depth	NN
+of	PIN PREP
+knowledge	NN
+from	PIN PREP
+past	JJ
+theorising	GER
+constrains	NN
+the	ART DET
+choice	NN
+of	PIN PREP
+sensible	JJ
+hypotheses	NN
+,	
+'	CONT QUOT
+psychology	NN
+remains	VPRT
+a	ART DET INDA
+relatively	RB
+'	CONT QUOT
+new	JJ
+'	CONT QUOT
+science	NN
+(	
+Burt	CAP NNP
+&	CCONJ
+Oaksford	CAP NNP
+*	NNP
+,	
+1999	NUM
+)	
+.	
+They	TPP3 CAP PRP SBJP
+argue	VPRT PUBV
+that	PIN THVC SCONJ PREP
+qualitative	JJ
+methods	NN
+are	BEMA VPRT AUXB
+essential	JJ PRED
+when	RB SCONJ WH
+generating	GER PGAS
+hypothesis	NN
+for	PIN PREP
+research	NN
+in	PIN CONJ PREP
+new	JJ
+fields	NN
+,	
+which	SERE WHQU DET WH
+we	FPP1 PRP SBJP
+are	BEMA VPRT AUXB
+interested	JJ PRED
+in	PIN CONJ PREP
+but	CCONJ
+unsure	JJ
+which	DET WH
+questions	NOMZ
+to	PIN TO PREP
+ask	SUAV INF
+.	
+Without	PIN CAP PREP
+them	TPP3 PRP SBJP ACCU
+,	
+we	FPP1 PRP SBJP
+could	POMD SPAU
+only	DWNT RB
+resort	INF
+to	PIN PREP
+an	ART DET INDA
+'	CONT QUOT
+armchair	NN
+technique	NN
+'	CONT QUOT
+;	
+reading	PGAS
+limited	JJ
+existing	PGAS
+literature	NN
+,	
+then	RB
+'	CONT QUOT
+sitting	PRESP PGAS
+around	RB PLACE
+'	CONT QUOT
+waiting	PGAS
+for	PIN PREP
+a	ART DET INDA
+hypothesis	NN
+to	PIN TO PREP
+strike	INF
+you	SPP2 PRP SBJP
+(	
+Burt	CAP NNP
+&	CCONJ
+Oaksford	CAP NNP
+*	NNP
+,	
+1999	NUM
+)	
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+practical	JJ
+example	NN
+,	
+Abaunza	CAP NNP
+et	NNP
+al	NNP
+(	
+2005	NUM
+)	
+used	VBD
+a	ART DET INDA
+grounded	JJ
+approach	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+longitudinal	JJ
+study	NN
+on	PIN STPR PREP
+'	CONT QUOT
+the	ART DET
+social	JJ
+mechanisms	NN
+that	TSUB WHSUB WH
+encourage	VPRT
+and	PHC CCONJ
+discourage	VPRT
+the	ART DET
+uptake	NN
+of	PIN PREP
+smoking	NN
+'	CONT QUOT
+(	
+2005	NUM
+,	
+p.397	NUM
+)	
+in	PIN CONJ PREP
+young	JJ
+people	NN
+.	
+They	TPP3 CAP PRP SBJP
+say	VPRT PUBV
+discourse	INF
+analysis	NN
+of	PIN PREP
+interviews	NN
+with	PIN PREP
+youth	NN
+-	
+club	NN
+attendees	NN
+,	
+allowed	VBD SUAV
+research	NN
+'	CONT QUOT
+from	PIN PREP
+the	ART DET
+perspective	NN
+of	PIN PREP
+young	JJ
+people	NN
+themselves	TPP3 PRP SBJP ACCU
+'	CONT QUOT
+(	
+2005	NUM
+,	
+p.400	NUM
+)	
+.	
+Such	JJ CAP
+research	NN
+could	POMD
+uncover	INF
+ideas	NN
+the	ART DET
+researchers	NN
+would	PRMD SPAU
+not	XX0 RB
+have	PEAS INF
+discovered	PRIV
+in	PIN CONJ PREP
+text	NN
+books	NN
+.	
+Despite	PIN CAP SCONJ PREP
+the	ART DET
+usefulness	NOMZ
+of	PIN PREP
+qualitative	JJ
+methods	NN
+in	PIN CONJ PREP
+hypothesis	NN
+generation	NOMZ
+they	TPP3 PRP SBJP
+have	VPRT PEAS
+encountered	
+criticism	NN
+involving	WZPRES PGAS
+'	CONT QUOT
+reliability	NOMZ
+'	CONT QUOT
+and	ANDC CCONJ
+'	CONT QUOT
+validity	NOMZ
+'	CONT QUOT
+and	ANDC CCONJ
+questioning	GER PGAS
+whether	PIN SCONJ PREP
+qualitative	JJ
+methods	NN
+could	POMD SPAU
+ever	RB
+pass	INF
+tests	NN
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Reliability	NOMZ CAP
+,	
+put	PASTP
+simply	RB
+,	
+is	BEMA VPRT AUXB
+the	ART DET
+extent	NN
+to	PIN PREP
+which	PIRE DET WH
+an	ART DET INDA
+experiment	NOMZ
+is	BEMA VPRT AUXB
+stable	JJ PRED
+'	CONT QUOT
+within	PIN PREP
+itself	PIT PRP SBJP ACCU
+'	CONT QUOT
+(	
+Flanagan	CAP NNP
+,	
+2000	NUM
+,	
+p.170	NN
+)	
+and	ANDC CCONJ
+the	ART DET
+likelihood	NN
+of	PIN PREP
+the	ART DET
+results	NN
+being	PASS WZPRES AUXB
+repeated	PUBV
+.	
+Validity	NOMZ CAP
+involves	VPRT
+the	ART DET
+'	CONT QUOT
+truth	NN
+'	CONT QUOT
+of	PIN PREP
+the	ART DET
+results	NN
+and	CCONJ
+whether	PIN SCONJ PREP
+findings	NN
+could	POMD
+be	PASS AUXB INF
+generalised	
+to	PIN PREP
+the	ART DET
+greater	JJ CMADJ
+population	NOMZ
+(	
+Flanagan	CAP NNP
+,	
+2000	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+Merrick	CAP NNP
+*	
+(	
+1993	NUM
+)	
+points	VPRT
+out	PIN PREP
+these	DEMO DET
+concepts	NN
+have	VPRT
+'	CONT QUOT
+traditionally	RB
+been	PASS AUXB
+used	
+to	PIN TO PREP
+access	INF
+the	ART DET
+quality	NOMZ
+of	PIN PREP
+quantitative	JJ
+research	NN
+'	CONT QUOT
+.	
+In	PIN CONJ CAP PREP
+my	FPP1 PRP SBJP
+opinion	NN
+the	ART DET
+issue	NN
+is	BEMA VPRT AUXB
+whether	PIN SCONJ PREP
+these	DEMO DET
+concepts	NN
+should	NEMD
+be	BEMA AUXB INF
+of	PIN PREP
+consideration	NOMZ
+with	PIN PREP
+regard	NN
+to	PIN PREP
+qualitative	INF
+research	NN
+and	ANDC CCONJ
+if	COND PIN SCONJ PREP
+so	RB
+,	
+how	RB WHQU SCONJ WH
+should	NEMD
+we	FPP1 PRP SBJP
+define	INF
+them	TPP3 PRP SBJP ACCU
+?	QUES
+Morgan	CAP NNP
+*	
+(	
+1998	NUM
+)	
+,	
+a	ART DET INDA
+biologist	NN
+,	
+proposes	VPRT SUAV
+'	CONT QUOT
+a	ART DET INDA
+minimum	JJ
+attribute	NN
+of	PIN PREP
+good	JJ
+science	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+should	NEMD
+be	PASS AUXB INF
+based	
+upon	PIN SCONJ PREP
+observations	NOMZ
+that	TSUB WHSUB WH
+can	POMD
+be	PASS BYPA AUXB INF
+repeated	PUBV
+by	PIN PREP
+other	JJ
+competent	JJ
+scientists	NN
+.	
+'	CONT QUOT
+However	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+Coyle	CAP NNP
+et	NNP
+al	NNP
+'s	
+(	
+2004	NUM
+)	
+study	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+hard	JJ PRED
+to	PIN TO PREP
+see	PRIV INF
+how	RB WHCL SCONJ WH
+or	CCONJ
+why	RB SCONJ WH
+this	DEMP DET
+could	POMD
+be	PASS AUXB INF
+expected	PRIV
+.	
+The	ART CAP DET
+participants	NN
+were	PASS VBD AUXB
+informed	
+the	ART DET
+study	NN
+was	BEMA VBD AUXB
+about	PIN STPR PREP
+'	CONT QUOT
+what	WHQU WH
+men	NN
+had	VBD
+to	PIN TO PREP
+say	PUBV INF
+about	PIN PREP
+emotions	NOMZ
+'	CONT QUOT
+(	
+2004	NUM
+,	
+p.403	NNP
+)	
+and	ANDC CCONJ
+the	ART DET
+'	CONT QUOT
+interview	NN
+guide	NN
+was	BEMA VBD AUXB
+brief	JJ PRED
+,	
+relatively	RB
+unstructured	JJ
+and	PHC CCONJ
+non	JJ
+-	JJ
+specific	JJ
+'	CONT QUOT
+(	
+2004	NUM
+,	
+p.403	NUM
+)	
+.	
+Clearly	RB CAP
+,	
+a	ART DET INDA
+natural	JJ
+conversation	NOMZ
+could	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+reproduced	
+.	
+Does	VPRT CAP
+this	DEMP DET
+mean	PRIV INF
+the	ART DET
+results	NN
+are	VPRT AUXB
+not	XX0 RB
+'	CONT QUOT
+reliable	JJ
+'	CONT QUOT
+?	QUES
+Merrick	CAP NNP
+(	
+1993	NUM
+)	
+takes	VPRT
+a	ART DET INDA
+post	
+positive	JJ
+position	NOMZ
+,	
+rejecting	PGAS
+defining	PGAS
+'	CONT QUOT
+reliability	NOMZ
+'	CONT QUOT
+regarding	PGAS
+qualitative	JJ
+research	NN
+on	PIN PREP
+the	ART DET
+basis	NN
+of	PIN PREP
+replicability	NOMZ
+.	
+Instead	RB CONJ CAP
+,	
+she	TPP3 PRP SBJP
+suggests	VPRT PUBV SUAV THATD
+we	FPP1 PRP SBJP
+should	NEMD
+consider	PRIV INF
+how	RB WHCL SCONJ WH
+'	CONT QUOT
+dependable	JJ
+on	PIN STPR PREP
+'	CONT QUOT
+(	
+*	NUM
+1993	NUM
+)	
+the	ART DET
+research	NN
+is	VPRT AUXB
+,	
+by	PIN PREP
+considering	GER PRIV PGAS
+methods	NN
+,	
+the	ART DET
+researchers	NN
+'	CONT QUOT
+backgrounds	NN
+and	ANDC CCONJ
+how	RB SCONJ WH
+these	DEMP DET
+would	PRMD
+influence	INF
+the	ART DET
+results	NN
+.	
+I	FPP1 CAP PRP SBJP
+agree	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+qualitative	JJ
+methods	NN
+can	POMD
+be	PASS AUXB INF
+declared	PUBV
+'	CONT QUOT
+reliable	JJ
+'	CONT QUOT
+,	
+and	ANDC CCONJ
+therefore	RB CONJ
+useful	JJ
+in	PIN CONJ PREP
+psychology	NN
+,	
+without	PIN PREP
+using	PGAS
+the	ART DET
+criteria	NN
+developed	WZPAST
+for	PIN PREP
+quantitative	JJ
+studies	NN
+.	
+In	PIN CONJ CAP PREP
+my	FPP1 PRP SBJP
+view	NN
+,	
+the	ART DET
+concern	NN
+of	PIN PREP
+qualitative	JJ
+research	NN
+is	BEMA VPRT AUXB
+the	ART DET
+patterns	NN
+emerging	WZPRES PGAS
+from	PIN PREP
+the	ART DET
+data	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS AUXB INF
+looked	
+for	PIN PREP
+in	PIN CONJ PREP
+future	JJ
+similar	JJ
+studies	NN
+,	
+not	XX0 RB
+an	ART DET INDA
+exact	JJ
+replication	NOMZ
+of	PIN PREP
+what	WH
+they	TPP3 PRP SBJP
+find	VPRT PRIV
+.	
+Some	QUAN CAP DET
+critics	NN
+also	RB
+question	VPRT
+whether	PIN SCONJ PREP
+qualitative	JJ
+research	NN
+could	POMD SPAU
+ever	RB
+be	BEMA AUXB INF
+valid	JJ PRED
+.	
+Morgan	CAP NNP
+maintains	VPRT PUBV THATD
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+essential	JJ PRED
+'	CONT QUOT
+observers	NN
+should	NEMD
+try	INF
+to	PIN TO PREP
+keep	INF
+personal	JJ
+prejudices	NN
+out	PIN PREP
+of	PIN PREP
+science	NN
+'	CONT QUOT
+(	
+*	NUM
+1998	NUM
+)	
+.	
+However	RB CONJ CAP
+in	PIN CONJ PREP
+both	DET
+Abaunza	CAP NNP
+et	NNP
+al	NNP
+'s	
+(	
+2005	NUM
+)	
+study	NN
+and	CCONJ
+Coyle	CAP NNP
+et	NNP
+al	NNP
+'s	
+(	
+2004	NUM
+)	
+study	NN
+researchers	NN
+lead	VPRT
+discussions	NOMZ
+and	CCONJ
+undoubtedly	RB
+influence	INF
+responses	NN
+.	
+This	DEMP CAP DET
+is	VPRT AUXB
+'	CONT QUOT
+reflexivity	NOMZ
+...	
+the	ART DET
+ways	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+researcher	NN
+influences	VPRT
+the	ART DET
+research	NN
+'	CONT QUOT
+(	
+Johnson	CAP NNP
+*	NNP
+,	
+1999	NUM
+)	
+.	
+If	COND PIN CAP SCONJ PREP
+we	FPP1 PRP SBJP
+apply	VPRT
+here	RB
+the	ART DET
+traditional	JJ
+ways	NN
+of	PIN PREP
+ensuring	PRIV SUAV PGAS
+the	ART DET
+internal	JJ
+validity	NOMZ
+of	PIN PREP
+quantitative	JJ
+research	NN
+-	
+minimising	GER PGAS
+extraneous	JJ
+variables	NN
+so	PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+certain	JJ PRED
+the	ART DET
+Independent	CAP NNP
+Variable	CAP NNP
+is	VPRT AUXB
+what	WH
+is	VPRT AUXB
+influencing	GER PGAS
+the	ART DET
+Dependent	CAP NNP
+Variable	CAP NNP
+-	
+then	RB
+Morgan	CAP NNP
+would	PRMD
+be	BEMA AUXB INF
+right	JJ PRED
+.	
+However	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+qualitative	JJ
+studies	NN
+validity	NOMZ
+should	NEMD SPAU
+not	XX0 RB
+be	PASS SPAU AUXB INF
+so	RB
+simply	RB
+defined	
+.	
+To	PIN TO CAP PREP
+illustrate	INF
+,	
+Hammersly	CAP NNP
+and	PHC CCONJ
+Atkinson	CAP NNP
+(	
+1983	NUM
+,	
+as	PIN CONJ PREP
+cited	
+by	PIN PREP
+Johnson	CAP NNP
+,	
+1999	NUM
+)	
+regard	VPRT
+reflexivity	NOMZ
+as	PIN CONJ PREP
+an	ART DET INDA
+important	JJ
+aspect	NN
+of	PIN PREP
+research	NN
+because	CAUS PIN STPR SCONJ PREP
+'	CONT QUOT
+researchers	NN
+should	NEMD
+set	INF
+about	PIN PREP
+understanding	GER PRIV PGAS
+the	ART DET
+effects	NN
+they	TPP3 PRP SBJP
+will	PRMD
+have	INF
+*	NUM
+.	
+'	CONT QUOT
+In	PIN CONJ CAP PREP
+Coyle	CAP NNP
+et	NNP
+al	NNP
+'s	
+(	
+2004	NUM
+)	
+study	NN
+they	TPP3 PRP SBJP
+discuss	VPRT
+ways	NN
+they	TPP3 PRP SBJP
+personally	RB
+could	POMD
+have	PEAS INF
+influenced	
+interpretation	NOMZ
+;	
+'	CONT QUOT
+we	FPP1 PRP SBJP
+drew	VBD
+on	PIN PREP
+our	FPP1 PRP SBJP
+familiarity	NOMZ
+with	PIN PREP
+mainstream	JJ
+and	PHC CCONJ
+critical	JJ
+European	JJ CAP
+social	JJ
+psychology	NN
+...	
+our	FPP1 PRP SBJP
+different	JJ
+gender	NN
+positions	NOMZ
+also	RB
+meant	VBD PRIV
+that	PIN THVC SCONJ PREP
+we	FPP1 PRP SBJP
+positioned	VBD
+ourselves	FPP1 PRP SBJP ACCU
+differently	RB
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+the	ART DET
+text	NN
+and	CCONJ
+the	ART DET
+speakers	NN
+'	CONT QUOT
+(	
+p.404	NNP
+)	
+.	
+I	FPP1 CAP PRP SBJP
+believe	VPRT PRIV
+as	OSUB RB CONJ
+long	RB
+as	PIN CONJ PREP
+researchers	NN
+give	VPRT
+as	RB CONJ
+much	QUAN JJ
+relevant	JJ
+information	NOMZ
+as	PIN CONJ PREP
+to	PIN PREP
+how	RB SCONJ WH
+they	TPP3 PRP SBJP
+may	POMD
+have	PEAS INF
+influenced	
+research	NN
+,	
+and	ANDC CCONJ
+do	VPRT SPAU
+not	XX0 RB
+try	INF
+to	PIN TO PREP
+pass	INF
+off	PIN PREP
+results	NN
+as	PIN CONJ PREP
+objective	JJ
+truth	NN
+'	CONT QUOT
+out	RB PIN PREP
+there	RB
+'	CONT QUOT
+(	
+a	ART DET INDA
+concept	NN
+which	WHOBJ DET WH
+Morgan	CAP NNP
+,	
+1998	NUM
+,	
+p.488	NNP
+thinks	VPRT PRIV THATD
+science	NN
+should	NEMD
+involve	INF
+)	
+,	
+the	ART DET
+results	NN
+can	POMD SPAU
+still	RB
+be	BEMA AUXB INF
+internally	RB
+valid	JJ
+.	
+Furthermore	RB CONJ CAP
+,	
+I	FPP1 CAP PRP SBJP
+agree	VPRT PUBV SUAV
+with	PIN PREP
+Woolgar	CAP NNP
+(	
+1996	NUM
+,	
+cited	PASTP
+by	PIN PREP
+Johnson	CAP NNP
+,	
+1999	NUM
+)	
+that	PIN DEMO SCONJ PREP
+reflexivity	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+problem	NN
+in	PIN CONJ PREP
+all	QUAN DET
+research	NN
+,	
+whether	PIN SCONJ PREP
+quantitative	JJ
+or	CCONJ
+qualitative	JJ
+-	
+all	QUAN DET
+interpretation	NOMZ
+of	PIN PREP
+results	NN
+will	PRMD
+depend	INF
+on	PIN PREP
+who	PIRE WH
+is	VPRT AUXB
+interpreting	GER PGAS
+them	TPP3 PRP SBJP ACCU
+and	ANDC CCONJ
+why	RB SCONJ WH
+.	
+Merick	CAP NNP
+(	
+1993	NUM
+*	
+)	
+says	VPRT PUBV
+that	PIN THVC SCONJ PREP
+in	PIN CONJ PREP
+qualitative	JJ
+research	NN
+,	
+'	CONT QUOT
+reliability	NOMZ
+and	PHC CCONJ
+validity	NOMZ
+depend	VPRT
+on	PIN PREP
+the	ART DET
+relationship	NN
+between	PIN PREP
+the	ART DET
+researcher	NN
+and	PHC CCONJ
+research	NN
+purpose	NN
+...	
+(	
+and	ANDC CCONJ
+)	
+between	PIN PREP
+the	ART DET
+researcher	NN
+and	CCONJ
+the	ART DET
+interpretive	JJ
+community	NOMZ
+.	
+'	CONT QUOT
+Therefore	RB CONJ CAP
+psychologists	NN
+must	NEMD
+be	BEMA AUXB INF
+aware	JJ PRED
+of	PIN PREP
+these	DEMO DET
+relationships	NN
+and	CCONJ
+take	INF
+these	DEMO DET
+into	PIN PREP
+account	NN
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+qualitative	JJ
+research	NN
+does	VPRT SPAU
+not	XX0 RB
+mislead	INF
+.	
+The	ART CAP DET
+last	JJ
+major	JJ
+consideration	NOMZ
+is	BEMA VPRT AUXB
+external	JJ
+validity	NOMZ
+-	
+if	COND PIN SCONJ PREP
+qualitative	JJ
+results	NN
+are	BEMA VPRT AUXB
+dependent	JJ PRED
+on	PIN PREP
+context	NN
+,	
+how	RB WHQU SCONJ WH
+could	POMD
+we	FPP1 PRP SBJP
+generalise	INF
+to	PIN PREP
+the	ART DET
+greater	JJ CMADJ
+population	NOMZ
+?	QUES
+Johnson	CAP NNP
+(	
+1999	NUM
+)	
+points	VPRT
+out	PIN PREP
+that	PIN DEMP SCONJ PREP
+making	PGAS
+generalisations	NOMZ
+is	VPRT AUXB
+not	XX0 RB
+usually	RB
+the	ART DET
+intent	NN
+of	PIN PREP
+qualitative	JJ
+research	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+discourse	VPRT
+analysis	NN
+'	CONT QUOT
+recognises	PRIV NN
+that	THVC DET
+objectivity	NOMZ
+is	VPRT AUXB
+never	RB
+actually	RB
+obtainable	JJ
+and	ANDC CCONJ
+that	DEMO DET
+intense	JJ
+scrutiny	NN
+made	WZPAST
+of	PIN PREP
+each	QUAN DET
+discourse	NN
+produces	VPRT
+data	NN
+that	TSUB WHSUB WH
+is	BEMA VPRT AUXB
+as	RB CONJ
+biased	JJ
+(	
+or	CCONJ
+unbiased	JJ
+)	
+as	PIN CONJ PREP
+any	QUAN DET
+other	JJ
+form	NN
+of	PIN PREP
+research	NN
+'	CONT QUOT
+(	
+Flanagan	CAP NNP
+,	
+2000	NUM
+,	
+p.130	NN
+)	
+.	
+Normally	RB CAP
+more	JJ EMPH CMADJ
+research	NN
+would	PRMD
+be	BEMA AUXB INF
+necessary	JJ PRED
+before	PIN PREP
+any	QUAN DET
+generalisations	NOMZ
+could	POMD
+be	PASS AUXB INF
+made	
+and	CCONJ
+psychologists	NN
+should	NEMD
+keep	INF
+this	DEMO DET
+in	PIN CONJ PREP
+mind	NN
+.	
+Another	CAP DET
+advantage	NN
+of	PIN PREP
+using	PGAS
+Qualitative	CAP NNP
+methods	NN
+is	VPRT SPAU AUXB
+when	RB SCONJ WH
+studying	PGAS
+groups	NN
+.	
+For	PIN CAP PREP
+example	NN
+when	RB WHSUB SCONJ WH
+studying	PGAS
+'	CONT QUOT
+men	NN
+'s	
+talk	NN
+about	PIN PREP
+emotions	NOMZ
+'	CONT QUOT
+(	
+Coyle	CAP NNP
+et	NNP
+al	NNP
+,	
+2004	NUM
+,	
+p.401	NNP
+)	
+the	ART DET
+'	CONT QUOT
+placing	NN
+of	PIN PREP
+an	ART DET INDA
+individual	NN
+,	
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+one	NUM
+or	CCONJ
+two	NUM
+others	NN
+'	CONT QUOT
+(	
+p.402	NNP
+)	
+was	BEMA VBD AUXB
+of	PIN PREP
+interest	NN
+.	
+In	PIN CONJ CAP PREP
+my	FPP1 PRP SBJP
+opinion	NN
+it	PIT PRP SBJP
+would	PRMD
+be	BEMA AUXB INF
+ridiculous	JJ PRED
+to	PIN TO PREP
+suggest	PUBV SUAV INF
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+quantitative	JJ
+method	NN
+such	JJ
+as	PIN CONJ PREP
+a	ART DET INDA
+questionnaire	NN
+would	PRMD
+be	BEMA AUXB INF
+a	ART DET INDA
+more	JJ EMPH CMADJ
+'	CONT QUOT
+valid	JJ
+'	CONT QUOT
+or	CCONJ
+'	CONT QUOT
+reliable	JJ
+'	CONT QUOT
+way	NN
+to	PIN TO PREP
+study	INF
+individuals	NN
+in	PIN CONJ PREP
+groups	NN
+than	PIN PREP
+discourse	JJ
+analysis	NN
+.	
+Finally	RB CAP
+,	
+qualitative	JJ
+research	NN
+may	POMD
+be	BEMA AUXB INF
+of	PIN PREP
+use	NN
+to	PIN PREP
+psychologists	NN
+when	RB WHOBJ SCONJ WH
+quantitative	JJ
+methods	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+practical	JJ
+or	CCONJ
+are	BEMA VPRT AUXB
+simply	RB
+unethical	JJ
+.	
+An	ART CAP DET INDA
+example	NN
+is	VPRT AUXB
+Burt	CAP NNP
+'s	
+postgraduate	NN
+research	NN
+on	PIN PREP
+treating	PGAS
+survivors	NN
+of	PIN PREP
+child	NN
+sexual	JJ
+abuse	NN
+(	
+unpublished	JJ
+,	
+cited	PASTP
+by	PIN PREP
+Burt	CAP NNP
+&	CCONJ
+Oaksford	CAP NNP
+,	
+1999	NUM
+)	
+.	
+They	TPP3 CAP PRP SBJP
+point	VPRT
+out	PIN PREP
+that	PIN DEMO SCONJ PREP
+to	PIN TO PREP
+study	INF
+this	DEMO DET
+quantitatively	RB
+,	
+they	TPP3 PRP SBJP
+would	PRMD
+need	INF
+unbiased	JJ
+samples	NN
+of	PIN PREP
+people	NN
+who	WHSUB WH
+were	VBD AUXB
+or	CCONJ
+were	PASS VBD SPAU AUXB
+not	XX0 RB
+abused	
+and	ANDC CCONJ
+who	WH
+are	PASS VPRT SPAU AUXB
+now	RB TIME
+adjusted	
+or	CCONJ
+maladjusted	
+.	
+Ethically	RB CAP
+,	
+survivors	NN
+can	POMD SPAU
+only	DWNT RB
+take	INF
+part	NN
+voluntarily	RB
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+unlikely	RB
+many	QUAN JJ
+would	PRMD
+come	INF
+forward	RB
+for	PIN PREP
+laboratory	NN
+testing	NN
+.	
+However	RB CONJ CAP
+,	
+most	RB EMPH SPADJ
+respond	VPRT
+well	RB
+to	PIN PREP
+discussions	NOMZ
+in	PIN CONJ PREP
+a	ART DET INDA
+'	CONT QUOT
+nurturing	PGAS
+environment	NOMZ
+'	CONT QUOT
+(	
+Burt	CAP NNP
+&	CCONJ
+Oaksford	CAP NNP
+*	NNP
+,	
+1999	NUM
+)	
+and	ANDC CCONJ
+good	JJ
+treatment	NOMZ
+methods	NN
+have	VPRT PEAS
+been	PASS AUXB
+derived	
+from	PIN PREP
+this	DEMO DET
+source	NN
+.	
+As	PIN CONJ CAP PREP
+Burt	CAP NNP
+and	PHC CCONJ
+Oaksford	CAP NNP
+(	
+1999	NUM
+)	
+point	NN
+out	PIN STPR PREP
+,	
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+pressing	PGAS
+need	NN
+for	PIN PREP
+such	JJ
+studies	NN
+;	
+society	NN
+needs	VPRT
+answers	NN
+to	PIN PREP
+psychological	JJ
+questions	NOMZ
+such	JJ
+as	PIN CONJ STPR PREP
+'	CONT QUOT
+how	RB WHQU SCONJ WH
+do	VPRT
+we	FPP1 PRP SBJP
+best	RB SPADJ
+treat	INF
+survivors	NN
+of	PIN PREP
+abuse	NN
+?	QUES
+'	CONT QUOT
+and	ANDC CCONJ
+'	CONT QUOT
+how	RB WHQU SCONJ WH
+can	POMD
+we	FPP1 PRP SBJP
+stop	INF
+young	JJ
+people	NN
+starting	WZPRES PGAS
+smoking	PGAS
+?	QUES
+'	CONT QUOT
+right	RB
+now	RB TIME
+,	
+and	ANDC CCONJ
+right	RB
+now	RB TIME
+qualitative	JJ
+methods	NN
+appear	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+productive	JJ
+methods	NN
+to	PIN PREP
+reaching	PGAS
+answers	NN
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+qualitative	JJ
+methods	NN
+can	POMD SPAU
+best	RB
+be	PASS BYPA AUXB INF
+used	
+by	PIN PREP
+psychologists	NN
+to	PIN TO PREP
+generate	INF
+hypotheses	NN
+in	PIN CONJ PREP
+new	JJ
+areas	NN
+,	
+study	NN
+groups	NN
+,	
+develop	INF
+treatments	NOMZ
+,	
+and	ANDC CCONJ
+as	PIN CONJ PREP
+an	ART DET INDA
+alternative	NN
+when	RB WHOBJ SCONJ WH
+quantitative	JJ
+tests	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+possible	JJ
+.	
+However	RB CONJ CAP
+,	
+if	COND PIN SCONJ PREP
+conducting	GER PGAS
+the	ART DET
+research	NN
+psychologists	NN
+must	NEMD
+give	INF
+detailed	JJ
+information	NOMZ
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+study	NN
+can	POMD
+be	PASS AUXB INF
+considered	PRIV
+in	PIN CONJ PREP
+the	ART DET
+appropriate	JJ
+context	NN
+.	
+If	COND PIN CAP SCONJ PREP
+reading	PGAS
+a	ART DET INDA
+qualitative	JJ
+study	NN
+,	
+psychologists	NN
+must	NEMD
+be	BEMA AUXB INF
+careful	JJ PRED
+not	XX0 RB
+to	PIN PREP
+over	RB
+-	
+generalise	NN
+.	
+Under	PIN CAP PREP
+these	DEMO DET
+guidelines	NN
+,	
+qualitative	JJ
+research	NN
+is	BEMA VPRT AUXB
+very	AMP RB
+valuable	JJ
+in	PIN CONJ PREP
+psychology	NN
+.	

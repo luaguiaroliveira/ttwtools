@@ -1,0 +1,878 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0703.0405.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0703.0405	NUM
+>	X
+  	
+<	X
+Graphene	NN CAP
+:	
+the	ART DET
+strong	JJ
+and	PHC CCONJ
+cheap	JJ
+2D	NNP
+material	NN
+>	X
+  	
+If	COND PIN CAP SCONJ PREP
+you	SPP2 PRP SBJP
+have	VPRT PEAS SPAU
+never	RB
+heard	PRIV
+about	PIN PREP
+graphene	INF
+before	RB
+,	
+try	INF
+to	PIN TO PREP
+get	INF
+yourself	SPP2 PRP SBJP ACCU
+updated	
+,	
+because	CAUS PIN SCONJ PREP
+this	DEMO DET
+material	NN
+has	VPRT
+a	ART DET INDA
+big	JJ
+potential	NN
+to	PIN TO PREP
+change	INF
+the	ART DET
+world	NN
+,	
+bringing	PRESP PGAS
+a	ART DET INDA
+revolution	NOMZ
+to	PIN PREP
+technology	NN
+.	
+With	PIN CAP PREP
+just	RB EMPH
+a	ART DET INDA
+stick	NN
+tape	NN
+and	CCONJ
+a	ART DET INDA
+pencil	NN
+,	
+the	ART DET
+scientists	NN
+Andre	CAP NNP
+Geim	CAP NNP
+and	PHC CCONJ
+Konstantin	CAP NNP
+Novoselov	CAP NNP
+discovered	VBD PRIV
+graphene	NN
+in	PIN CONJ PREP
+2004	NUM
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+a	ART DET INDA
+thin	JJ
+layer	NN
+of	PIN PREP
+graphite	NN
+.	
+Because	CAUS PIN CAP SCONJ PREP
+of	PIN PREP
+its	PIT PRP SBJP
+dimensions	NOMZ
+,	
+graphene	NN
+is	PASS VPRT AUXB
+known	PRIV
+as	PIN CONJ PREP
+a	ART DET INDA
+two	NUM
+-	
+dimensional	JJ
+(	
+2D	NNP
+)	
+material	NN
+.	
+Despite	PIN CAP SCONJ PREP
+being	BEMA AUXB
+thinner	JJ PRED CMADJ
+than	PIN PREP
+a	ART DET INDA
+hair	NN
+(	
+it	PIT PRP SBJP
+has	VPRT
+approximate	INF
+the	ART DET
+thickness	NOMZ
+of	PIN PREP
+one	NUM
+atom	NN
+)	
+,	
+this	DEMO DET
+material	NN
+is	BEMA VPRT AUXB
+stronger	JJ PRED CMADJ
+than	PIN PREP
+steel	NN
+and	CCONJ
+even	RB
+diamond	NN
+.	
+ 	
+Graphene	CAP NNP
+has	VPRT
+great	JJ
+properties	NN
+that	TSUB WHSUB WH
+make	VPRT
+it	PIT PRP SBJP
+even	RB
+more	RB EMPH CMADJ
+revolutionary	JJ
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+conduct	INF
+more	JJ EMPH CMADJ
+electricity	NOMZ
+than	PIN PREP
+silicon	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+very	AMP RB
+useful	JJ
+in	PIN CONJ PREP
+electrical	JJ
+circuits	NN
+.	
+It	PIT CAP PRP SBJP
+will	PRMD SPAU
+not	XX0 RB
+take	INF
+longer	RB CMADJ
+and	CCONJ
+graphene	NN
+will	PRMD
+replace	INF
+silicon	NN
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+technological	JJ
+devices	NN
+,	
+making	PRESP PGAS
+them	TPP3 PRP SBJP ACCU
+faster	RB CMADJ
+.	
+Besides	PIN CAP SCONJ PREP
+that	DEMP DET
+,	
+with	PIN PREP
+graphene	NN
+we	FPP1 PRP SBJP
+will	PRMD
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+develop	INF
+a	ART DET INDA
+super	JJ
+thin	JJ
+,	
+flexible	JJ
+and	PHC CCONJ
+unbreakable	JJ
+touchscreen	NN
+,	
+so	PIN SCONJ PREP
+in	PIN CONJ PREP
+a	ART DET INDA
+near	JJ PLACE
+future	NN
+your	SPP2 PRP SBJP
+cellphone	NN
+will	PRMD SPAU
+not	XX0 RB
+be	AUXB INF
+something	QUPR INPR
+fragile	JJ
+any	QUAN DET
+more	RB EMPH CMADJ
+.	
+ 	
+Moreover	RB CONJ CAP
+,	
+Andre	CAP NNP
+Geim	CAP NNP
+believes	VPRT PRIV
+that	THVC DET
+graphene	NN
+could	POMD
+be	PASS AUXB INF
+used	
+to	PIN TO PREP
+increase	INF
+the	ART DET
+efficacy	NN
+of	PIN PREP
+proton	NN
+-	
+conducting	GER PGAS
+membranes	NN
+,	
+which	SERE WHQU DET WH
+are	VPRT AUXB
+constituents	NN
+of	PIN PREP
+fuel	NN
+cell	NN
+technology	NN
+.	
+It	PIT CAP PRP SBJP
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+we	FPP1 PRP SBJP
+could	POMD
+use	INF
+insignificant	JJ
+amounts	NN
+of	PIN PREP
+hydrogen	NN
+in	PIN CONJ PREP
+the	ART DET
+air	NN
+to	PIN TO PREP
+get	INF
+energy	NN
+to	PIN TO PREP
+power	INF
+a	ART DET INDA
+car	NN
+,	
+for	PIN PREP
+example	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+the	ART DET
+benefits	NN
+to	PIN PREP
+environment	NOMZ
+are	VPRT AUXB
+even	RB
+more	RB EMPH CMADJ
+impactful	JJ
+when	RB SCONJ WH
+thinking	PRIV PGAS
+that	THVC DET
+graphene	NN
+could	POMD
+make	INF
+ocean	NN
+water	NN
+drinkable	NNP
+,	
+what	WHQU WH
+could	POMD
+solve	INF
+the	ART DET
+world	NN
+’s	
+water	NN
+crisis	NN
+.	
+Some	QUAN CAP DET
+MIT	CAP NNP
+researchers	NN
+have	VPRT PEAS
+discovered	PRIV
+“	
+that	PIN THVC SCONJ PREP
+the	ART DET
+water	NN
+permeability	NOMZ
+of	PIN PREP
+this	DEMO DET
+material	NN
+is	BEMA VPRT AUXB
+several	QUAN JJ
+orders	SUAV NN
+of	PIN PREP
+magnitude	NN
+higher	JJ CMADJ
+than	PIN PREP
+conventional	JJ
+reverse	JJ
+osmosis	NN
+membranes	NN
+,	
+and	ANDC CCONJ
+that	DEMO DET
+nanoporous	JJ
+graphene	NN
+may	POMD
+have	INF
+a	ART DET INDA
+valuable	JJ
+role	NN
+to	PIN TO PREP
+play	INF
+for	PIN PREP
+water	NN
+purification	NOMZ
+”	
+.	
+ 	
+Samsung	CAP NNP
+,	
+the	ART DET
+Korean	JJ CAP
+electronics	NN
+brand	NN
+,	
+has	VPRT
+many	QUAN JJ
+graphene	JJ
+patents	NN
+.	
+However	RB CONJ CAP
+,	
+institutions	NOMZ
+of	PIN PREP
+research	NN
+have	VPRT PEAS
+been	BEMA AUXB
+more	RB EMPH CMADJ
+efficient	JJ
+in	PIN CONJ PREP
+the	ART DET
+studies	NN
+of	PIN PREP
+this	DEMO DET
+material	NN
+.	
+The	ART CAP DET
+University	CAP NNP
+of	PIN PREP
+Manchester	CAP NNP
+,	
+for	PIN PREP
+example	NN
+,	
+has	VPRT
+a	ART DET INDA
+great	JJ
+participation	NOMZ
+in	PIN CONJ PREP
+research	NN
+and	PHC CCONJ
+findings	NN
+related	WZPAST
+to	PIN TO PREP
+graphene	INF
+.	
+They	TPP3 CAP PRP SBJP
+have	VPRT
+at	RB PIN PREP
+least	RB SPADJ
+eight	NUM
+group	NN
+of	PIN PREP
+studies	NN
+related	WZPAST
+to	PIN TO PREP
+graphene	INF
+,	
+with	PIN PREP
+different	JJ
+applications	NOMZ
+and	PHC CCONJ
+uses	NN
+.	
+ 	
+Graphene	CAP NNP
+’s	
+properties	NN
+suggest	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+can	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+great	JJ
+candidate	NN
+for	PIN PREP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+a	ART DET INDA
+fast	JJ
+and	PHC CCONJ
+efficient	JJ
+bioelectric	JJ
+device	NN
+like	PIN PREP
+sensors	NN
+.	
+It	PIT CAP PRP SBJP
+could	POMD
+be	PASS AUXB INF
+used	
+to	PIN TO PREP
+monitor	INF
+cholesterol	NN
+and	CCONJ
+even	RB
+DNA	NN CAP
+sequencing	GER
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+even	RB
+possible	JJ
+to	PIN TO PREP
+use	INF
+graphene	NN
+in	PIN CONJ PREP
+the	ART DET
+treatment	NOMZ
+of	PIN PREP
+infections	NOMZ
+.	
+Currently	RB CAP
+,	
+some	QUAN DET
+researchers	NN
+from	PIN PREP
+the	ART DET
+University	CAP NNP
+of	PIN PREP
+Bath	CAP NNP
+are	VPRT AUXB
+studying	PGAS
+graphene	NN
+to	PIN TO PREP
+monitor	INF
+glucose	NN
+in	PIN CONJ PREP
+diabetes	NN
+,	
+to	PIN TO PREP
+detect	INF
+cell	NN
+oxidation	NOMZ
+both	CCONJ
+in	PIN CONJ PREP
+a	ART DET INDA
+non	JJ
+-	JJ
+invasive	JJ
+way	NN
+,	
+what	WHQU WH
+is	BEMA VPRT AUXB
+relevant	JJ PRED
+to	PIN PREP
+diabetic	JJ
+care	NN
+,	
+and	ANDC CCONJ
+to	PIN TO PREP
+reduce	INF
+the	ART DET
+risks	NN
+of	PIN PREP
+cancer	NN
+.	
+However	RB CONJ CAP
+,	
+scientists	NN
+still	RB
+have	VPRT
+to	PIN TO PREP
+make	INF
+a	ART DET INDA
+considerable	JJ
+number	NN
+of	PIN PREP
+experiments	NOMZ
+to	PIN TO PREP
+make	INF
+sure	JJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+potentially	RB
+safe	JJ
+to	PIN TO PREP
+be	PASS AUXB INF
+used	
+in	PIN CONJ PREP
+humans	NN
+.	
+ 	
+As	PIN CONJ CAP PREP
+if	COND PIN SCONJ PREP
+that	DEMP DET
+were	BEMA VBD AUXB
+not	XX0 RB
+enough	JJ
+,	
+graphene	NN
+is	BEMA VPRT AUXB
+still	RB
+able	JJ
+to	PIN TO PREP
+revolutionize	INF
+global	JJ
+health	NN
+as	RB CONJ
+well	RB
+.	
+Some	QUAN CAP DET
+sexually	RB
+transmitted	
+diseases	NN
+such	JJ
+as	PIN CONJ PREP
+SIDA	CAP NNP
+and	PHC CCONJ
+HPV	CAP NNP
+can	POMD
+become	INF
+increasingly	RB
+rare	JJ
+when	RB SCONJ WH
+condoms	NN
+made	WZPAST
+by	PIN PREP
+graphene	NN
+get	INF
+to	PIN PREP
+market	NN
+.	
+By	PIN CAP PREP
+being	BEMA AUXB
+an	ART DET INDA
+extremely	AMP RB
+strong	JJ
+and	PHC CCONJ
+thin	JJ
+material	NN
+,	
+condoms	NN
+would	PRMD
+be	BEMA AUXB INF
+indestructible	JJ PRED
+and	CCONJ
+extremely	AMP RB
+slim	JJ
+.	
+This	DEMO CAP DET
+fact	NN
+would	PRMD SPAU
+also	RB
+contribute	INF
+to	PIN PREP
+the	ART DET
+reduction	NOMZ
+of	PIN PREP
+unexpected	JJ
+pregnancies	NN
+.	
+ 	
+Another	CAP DET
+area	NN
+that	TSUB WHSUB WH
+has	VPRT PEAS
+been	PASS SPAU AUXB
+highly	AMP RB
+studied	
+is	BEMA VPRT AUXB
+the	ART DET
+energy	NN
+storage	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+true	JJ PRED
+that	PIN THAC SCONJ PREP
+the	ART DET
+electronic	JJ
+area	NN
+has	VPRT PEAS
+been	AUXB
+increasing	GER PGAS
+in	PIN CONJ PREP
+a	ART DET INDA
+very	AMP RB
+fast	JJ
+way	NN
+in	PIN CONJ PREP
+the	ART DET
+last	JJ
+years	NN
+,	
+however	RB CONJ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+still	RB
+a	ART DET INDA
+problem	NN
+for	PIN PREP
+scientists	NN
+to	PIN TO PREP
+store	INF
+the	ART DET
+energy	NN
+in	PIN CONJ PREP
+batteries	NN
+and	PHC CCONJ
+capacitors	NN
+.	
+A	ART CAP DET INDA
+capacitor	NN
+can	POMD
+be	PASS AUXB INF
+charged	
+very	AMP RB
+quickly	RB
+,	
+but	CCONJ
+it	PIT PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+hold	PRIV INF
+that	THVC DET
+much	QUAN JJ
+energy	NN
+as	RB CONJ
+much	QUAN RB
+as	PIN CONJ PREP
+batteries	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+batteries	NN
+take	VPRT
+a	ART DET INDA
+long	JJ
+time	NN
+to	PIN TO PREP
+charge	INF
+.	
+Basically	RB CAP
+,	
+developing	GER PRESP PGAS
+a	ART DET INDA
+component	NN
+like	PIN PREP
+a	ART DET INDA
+supercapacitor	NN
+a	ART DET INDA
+battery	NN
+that	TSUB WHSUB WH
+could	POMD
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+storage	INF
+energy	NN
+without	PIN PREP
+compromise	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+potential	JJ
+solution	NOMZ
+for	PIN PREP
+this	DEMO DET
+problem	NN
+.	
+Because	CAUS PIN CAP SCONJ PREP
+of	PIN PREP
+this	DEMP DET
+,	
+graphene	NN
+is	PASS VPRT AUXB
+being	PASS AUXB
+studied	
+and	PHC CCONJ
+used	
+in	PIN CONJ PREP
+experiments	NOMZ
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+act	INF
+as	PIN CONJ PREP
+a	ART DET INDA
+supercapacitor	NN
+that	TSUB WHSUB WH
+can	POMD
+charge	INF
+very	AMP RB
+quickly	RB
+and	CCONJ
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+store	INF
+a	ART DET INDA
+large	JJ
+amount	NN
+of	PIN PREP
+energy	NN
+.	
+The	ART CAP DET
+graphene	NN
+supercapacitors	NN
+can	POMD
+be	PASS AUXB INF
+used	
+in	PIN CONJ PREP
+electronic	JJ
+devices	NN
+such	JJ
+as	PIN CONJ PREP
+smartphones	NN
+and	ANDC CCONJ
+if	COND PIN SCONJ PREP
+scientists	NN
+succeed	VPRT
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+studies	NN
+,	
+these	DEMO DET
+devices	NN
+will	PRMD
+be	BEMA AUXB INF
+available	JJ PRED
+for	PIN PREP
+sale	NN
+in	PIN CONJ PREP
+five	NUM
+or	CCONJ
+ten	NUM
+years	NN
+and	PHC CCONJ
+costumers	NN
+would	PRMD SPAU
+not	XX0 RB
+have	INF
+to	PIN TO PREP
+worry	INF
+about	PIN PREP
+the	ART DET
+life	NN
+time	NN
+of	PIN PREP
+the	ART DET
+device	NN
+’s	
+battery	NN
+,	
+what	WHQU WH
+would	PRMD
+be	BEMA AUXB INF
+a	ART DET INDA
+great	JJ
+improvement	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+technological	JJ
+era	NN
+.	
+ 	
+Despite	PIN CAP SCONJ PREP
+the	ART DET
+various	JJ
+discoveries	NN
+about	PIN PREP
+the	ART DET
+graphene	NN
+and	CCONJ
+the	ART DET
+great	JJ
+advances	NN
+in	PIN CONJ PREP
+research	NN
+since	OSUB PIN SCONJ PREP
+its	PIT PRP SBJP
+discovery	NN
+,	
+there	EX
+is	VPRT AUXB
+still	RB
+much	QUAN JJ
+to	PIN TO PREP
+learn	PRIV INF
+about	PIN PREP
+this	DEMO DET
+material	NN
+and	PHC CCONJ
+studies	NN
+will	PRMD
+bring	INF
+new	JJ
+applications	NOMZ
+for	PIN PREP
+it	PIT PRP SBJP
+in	PIN CONJ PREP
+a	ART DET INDA
+near	JJ PLACE
+future	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+no	SYNE DET
+one	NN
+can	POMD
+disagree	INF
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+can	POMD
+bring	INF
+numerous	JJ
+benefits	NN
+to	PIN PREP
+the	ART DET
+routine	NN
+of	PIN PREP
+people	NN
+,	
+and	ANDC CCONJ
+undoubtedly	RB
+,	
+we	FPP1 PRP SBJP
+can	POMD
+say	PUBV THATD INF
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+futuristic	JJ
+and	PHC CCONJ
+revolutionary	JJ
+material	NN
+.	
+ 	

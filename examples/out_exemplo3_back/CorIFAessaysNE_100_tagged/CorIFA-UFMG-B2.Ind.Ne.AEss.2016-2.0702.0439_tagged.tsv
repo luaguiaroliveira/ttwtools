@@ -1,0 +1,955 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0702.0439.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0702.0439	NUM
+>	X
+  	
+<	X
+The	ART CAP DET
+importance	NN
+of	PIN PREP
+popularizing	GER PGAS
+Science	CAP NNP
+in	PIN CONJ PREP
+Brazil	CAP NNP
+>	
+  	
+Brazil	CAP NNP
+has	VPRT PEAS
+faced	
+a	ART DET INDA
+scenery	NN
+of	PIN PREP
+sharp	JJ
+changes	NN
+in	PIN CONJ PREP
+most	JJ EMPH SPADJ
+of	PIN PREP
+essential	JJ
+sectors	NN
+for	PIN PREP
+the	ART DET
+functionality	NOMZ
+of	PIN PREP
+the	ART DET
+country	NN
+,	
+mostly	RB
+the	ART DET
+ones	NN
+that	TSUB WHSUB WH
+are	PASS VPRT BYPA SPAU AUXB
+strongly	AMP RB
+influenced	
+by	PIN PREP
+politics	NN
+.	
+These	DEMO CAP DET
+areas	NN
+are	VPRT AUXB
+,	
+principally	RB
+,	
+education	NOMZ
+,	
+health	NN
+care	NN
+,	
+Science	CAP NNP
+,	
+technology	NN
+and	PHC CCONJ
+innovation	NOMZ
+.	
+Although	CONC PIN CAP SCONJ PREP
+they	TPP3 PRP SBJP
+are	PASS VPRT SPAU AUXB
+not	XX0 RB
+naturally	RB
+separated	
+and	CCONJ
+none	INPR NN
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+works	VPRT
+singly	RB
+,	
+the	ART DET
+main	JJ
+themes	NN
+here	RB
+are	BEMA VPRT AUXB
+the	ART DET
+last	JJ
+three	NUM
+ones	NN
+.	
+ 	
+Science	CAP NNP
+,	
+since	OSUB PIN SCONJ PREP
+before	PIN PREP
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+called	
+by	PIN PREP
+this	DEMO DET
+name	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+kind	NN HDG
+of	PIN PREP
+knowledge	NN
+that	TSUB WHSUB WH
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+shared	
+with	PIN PREP
+all	QUAN DET
+population	NOMZ
+.	
+Instead	RB CONJ CAP
+,	
+as	PIN CONJ PREP
+claimed	PUBV
+for	PIN PREP
+great	JJ
+Scientists	NN CAP
+,	
+such	JJ
+as	PIN CONJ PREP
+Einstein	CAP NNP
+(	
+1920	NUM
+)	
+,	
+every	QUAN DET
+single	JJ
+person	NN
+should	NEMD
+be	PASS AUXB INF
+allowed	SUAV
+to	PIN TO PREP
+be	BEMA AUXB INF
+aware	JJ PRED
+of	PIN PREP
+Science	CAP NNP
+,	
+taking	PGAS
+part	NN
+of	PIN PREP
+decisions	NOMZ
+and	CCONJ
+being	PASS AUXB
+informed	
+of	PIN PREP
+all	QUAN DET
+the	ART DET
+activities	NN
+developed	WZPAST
+by	PIN PREP
+Scientists	NN CAP
+(	
+and	ANDC CCONJ
+politicians	NN
+,	
+of	PIN PREP
+course	NN
+)	
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+context	NN
+,	
+the	ART DET
+science	NN
+divulgation	NOMZ
+grows	VPRT
+together	RB
+with	PIN PREP
+the	ART DET
+proper	JJ
+science	NN
+.	
+ 	
+If	COND PIN CAP SCONJ PREP
+science	NN
+is	VPRT AUXB
+“	
+what	WHQU WH
+scientists	NN
+do	VPRT PROD
+”	
+,	
+we	FPP1 PRP SBJP
+can	POMD
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+medley	JJ
+system	NN
+which	WHSUB DET WH
+involves	VPRT
+a	ART DET INDA
+number	NN
+of	PIN PREP
+activities	NN
+,	
+from	PIN PREP
+watch	INF
+the	ART DET
+reality	NOMZ
+,	
+make	VPRT
+predictions	NOMZ
+,	
+get	INF
+data	NN
+and	CCONJ
+testify	PUBV INF
+or	CCONJ
+refute	INF
+to	PIN PREP
+partnering	GER
+with	PIN PREP
+sponsors	NN
+,	
+negotiate	INF
+patent	NN
+and	CCONJ
+,	
+moreover	RB CONJ
+,	
+maintain	PUBV INF
+the	ART DET
+contact	NN
+with	PIN PREP
+clients	NN
+,	
+this	DEMP DET
+is	VPRT AUXB
+,	
+the	ART DET
+population	NOMZ
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+the	ART DET
+point	NN
+of	PIN PREP
+scientific	JJ
+divulgation	NOMZ
+:	
+tell	INF
+the	ART DET
+story	NN
+of	PIN PREP
+the	ART DET
+research	NN
+since	OSUB PIN SCONJ PREP
+the	ART DET
+beginning	NN
+and	CCONJ
+be	BEMA AUXB INF
+attentive	JJ PRED
+to	PIN PREP
+possible	JJ
+feedbacks	NN
+during	PIN PREP
+and	CCONJ
+until	PIN PREP
+after	PIN PREP
+publication	NOMZ
+.	
+ 	
+When	RB CAP SCONJ WH
+discussing	GER PGAS
+about	PIN PREP
+popularizing	GER PGAS
+Science	CAP NNP
+,	
+more	RB EMPH CMADJ
+than	PIN PREP
+communicate	JJ
+,	
+the	ART DET
+objective	NN
+is	VPRT AUXB
+making	PGAS
+the	ART DET
+real	JJ EMPH
+scientific	JJ
+world	NN
+accessible	JJ
+for	PIN PREP
+all	QUAN DET
+,	
+into	PIN PREP
+or	CCONJ
+out	PIN PREP
+of	PIN PREP
+the	ART DET
+academy	NN
+.	
+The	ART CAP DET
+importance	NN
+of	PIN PREP
+this	DEMO DET
+matter	NN
+is	BEMA VPRT AUXB
+evident	JJ PRED
+:	
+if	COND PIN SCONJ PREP
+all	QUAN DET
+people	NN
+must	NEMD
+have	INF
+equal	JJ
+rights	NN
+,	
+everyone	QUPR INPR
+should	NEMD
+have	INF
+the	ART DET
+opportunity	NOMZ
+of	PIN PREP
+being	BEMA AUXB
+in	PIN CONJ PREP
+contact	NN
+with	PIN PREP
+all	QUAN DET
+kinds	NN
+of	PIN PREP
+knowledge	NN
+.	
+However	RB CONJ CAP
+,	
+there	EX
+is	VPRT AUXB
+another	DET
+point	NN
+hardly	DWNT RB
+ever	RB
+seen	PRIV
+by	PIN STPR PREP
+“	
+holders	NN
+of	PIN PREP
+knowledge	NN
+”	
+and	ANDC CCONJ
+this	DEMP DET
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+instead	RB CONJ
+of	PIN PREP
+showing	PRIV PGAS
+Science	CAP NNP
+in	PIN CONJ PREP
+a	ART DET INDA
+way	NN
+that	TSUB WHSUB WH
+maintain	VPRT PUBV
+that	PIN THVC SCONJ PREP
+outlying	JJ
+,	
+a	ART DET INDA
+better	JJ CMADJ
+exposition	NOMZ
+plays	VPRT
+a	ART DET INDA
+role	NN
+of	PIN PREP
+inviting	PGAS
+public	NN
+to	PIN TO PREP
+participate	INF
+of	PIN PREP
+Science	CAP NNP
+.	
+This	DEMO CAP DET
+goal	NN
+is	PASS VPRT SPAU AUXB
+only	DWNT RB
+reached	
+when	RB SCONJ WH
+the	ART DET
+disseminator	NN
+awakens	VPRT
+a	ART DET INDA
+critical	JJ
+view	NN
+of	PIN PREP
+Science	CAP NNP
+and	CCONJ
+all	QUAN DET
+the	ART DET
+hidden	
+factors	NN
+influencing	GER WZPRES PGAS
+it	PIT PRP SBJP
+,	
+including	PGAS
+politics	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+previous	JJ
+years	NN
+,	
+Brazil	CAP NNP
+has	VPRT PEAS
+been	BEMA AUXB
+the	ART DET
+target	NN
+of	PIN PREP
+multinationals	NN
+(	
+Fundação	CAP NNP
+Dom	CAP NNP
+Cabral	CAP NNP
+,	
+2014	NUM
+)	
+.	
+The	ART CAP DET
+president	NN
+not	XX0 RB
+democratically	RB
+elected	
+Michel	CAP NNP
+Temer	CAP NNP
+has	VPRT
+being	AUXB
+proposing	SUAV THATD PGAS
+attitudes	NN
+threatening	GER WZPRES PGAS
+the	ART DET
+public	JJ
+sectors	NN
+,	
+as	PIN CONJ PREP
+PEC	CAP NNP
+(	
+proposed	SUAV
+amendment	NOMZ
+constitutional	JJ
+)	
+257	NUM
+,	
+which	SERE DET WH
+establishes	VPRT PRIV
+a	ART DET INDA
+limit	NN
+for	PIN PREP
+public	JJ
+spending	NN
+,	
+and	ANDC CCONJ
+this	DEMP DET
+includes	VPRT
+the	ART DET
+investments	NOMZ
+in	PIN CONJ PREP
+Science	CAP NNP
+,	
+technology	NN
+and	PHC CCONJ
+innovation	NOMZ
+,	
+such	JJ
+as	PIN CONJ PREP
+public	JJ
+education	NOMZ
+,	
+in	PIN CONJ PREP
+basic	JJ
+and	PHC CCONJ
+high	JJ
+schools	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+the	ART DET
+universities	NN
+,	
+in	PIN CONJ PREP
+which	PIRE DET WH
+professionals	NN
+capable	JJ
+to	PIN TO PREP
+make	INF
+Science	NN CAP
+work	NN
+,	
+are	VPRT AUXB
+graduating	GER PGAS
+.	
+ 	
+It	PIT CAP PRP SBJP
+can	POMD
+be	PASS AUXB INF
+said	PUBV
+that	PIN THVC SCONJ PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+an	ART DET INDA
+example	NN
+that	PIN TOBJ SCONJ PREP
+Science	CAP NNP
+does	VPRT SPAU
+not	XX0 RB
+survive	INF
+without	PIN PREP
+Science	CAP NNP
+divulgation	NOMZ
+.	
+All	QUAN CAP DET
+the	ART DET
+process	NN
+that	TOBJ WHOBJ WH
+a	ART DET INDA
+scientist	NN
+faces	VPRT
+involves	VPRT
+an	ART DET INDA
+environment	NOMZ
+much	QUAN RB
+bigger	JJ CMADJ
+than	PIN PREP
+the	ART DET
+laboratory	NN
+and	ANDC CCONJ
+this	DEMP DET
+requires	VPRT SUAV
+a	ART DET INDA
+game	NN
+of	PIN PREP
+explanations	NOMZ
+and	PHC CCONJ
+requirements	NOMZ
+.	
+An	ART CAP DET INDA
+example	NN
+of	PIN PREP
+a	ART DET INDA
+situation	NOMZ
+like	PIN PREP
+that	DEMP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+scientist	NN
+who	WHSUB WH
+aims	VPRT
+develop	INF
+a	ART DET INDA
+research	NN
+about	PIN PREP
+a	ART DET INDA
+transgenic	JJ
+corn	NN
+.	
+A	ART CAP DET INDA
+series	NN
+of	PIN PREP
+account	NN
+should	NEMD
+be	PASS AUXB INF
+given	
+to	PIN PREP
+the	ART DET
+institution	NOMZ
+,	
+to	PIN PREP
+the	ART DET
+government	NOMZ
+,	
+to	PIN PREP
+the	ART DET
+other	JJ
+scientists	NN
+,	
+to	PIN PREP
+the	ART DET
+farmers	NN
+and	CCONJ
+to	PIN PREP
+the	ART DET
+consumers	NN
+.	
+This	DEMO CAP DET
+last	JJ
+group	NN
+can	POMD
+be	BEMA AUXB INF
+decisive	JJ PRED
+from	PIN PREP
+the	ART DET
+beginning	NN
+to	PIN PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+work	NN
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+acceptance	NN
+of	PIN PREP
+those	DEMP DET
+who	WH
+,	
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+,	
+will	PRMD
+spend	INF
+or	CCONJ
+not	XX0 RB
+their	TPP3 PRP SBJP
+money	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+new	JJ
+product	NN
+of	PIN PREP
+science	NN
+is	BEMA VPRT AUXB
+good	JJ PRED
+,	
+then	RB
+,	
+probably	RB
+,	
+the	ART DET
+investment	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+research	NN
+in	PIN CONJ PREP
+question	NOMZ
+will	PRMD
+be	BEMA AUXB INF
+good	JJ PRED
+,	
+and	ANDC CCONJ
+this	DEMP DET
+can	POMD SPAU
+strongly	AMP RB
+change	INF
+the	ART DET
+directions	NOMZ
+of	PIN PREP
+Science	CAP NNP
+.	
+Later	RB TIME CAP
+,	
+perhaps	RB
+in	PIN CONJ PREP
+the	ART DET
+middle	NN
+of	PIN PREP
+research	NN
+,	
+if	COND PIN SCONJ PREP
+public	JJ
+defends	VPRT
+the	ART DET
+idea	NN
+of	PIN PREP
+a	ART DET INDA
+new	JJ
+product	NN
+,	
+difficultly	RB
+a	ART DET INDA
+cutting	NN
+found	PRIV
+,	
+for	PIN PREP
+example	NN
+,	
+will	PRMD
+be	PASS BYPA AUXB INF
+accepted	PRIV
+by	PIN PREP
+the	ART DET
+population	NOMZ
+.	
+ 	
+Talking	CAP PGAS
+specifically	RB
+about	PIN PREP
+Brazil	CAP NNP
+,	
+we	FPP1 PRP SBJP
+can	POMD
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+something	QUPR INPR
+has	VPRT PEAS
+failed	
+in	PIN CONJ PREP
+this	DEMO DET
+issues	NN
+:	
+or	CCONJ
+the	ART DET
+scientists	NN
+and	PHC CCONJ
+divulgators	NN
+has	VPRT PEAS SPAU
+not	XX0 RB
+done	PROD
+a	ART DET INDA
+successful	JJ
+job	NN
+when	RB WHSUB SCONJ WH
+being	BEMA AUXB
+in	PIN CONJ PREP
+contact	NN
+with	PIN PREP
+population	NOMZ
+,	
+showing	PRIV PGAS
+that	PIN THVC SCONJ PREP
+science	NN
+is	BEMA VPRT AUXB
+extremely	AMP RB
+important	JJ
+and	CCONJ
+should	NEMD
+be	PASS AUXB INF
+valued	
+as	PIN CONJ PREP
+a	ART DET INDA
+public	JJ
+question	NOMZ
+,	
+avoiding	PGAS
+privatizations	NOMZ
+and	PHC CCONJ
+precariousness	NOMZ
+,	
+or	CCONJ
+the	ART DET
+government	NOMZ
+in	PIN CONJ PREP
+partnership	NN
+with	PIN PREP
+influent	JJ
+business	NOMZ
+people	NN
+has	VPRT PEAS
+done	PROD
+an	ART DET INDA
+incredibly	RB
+good	JJ
+marketing	NN
+for	PIN PREP
+making	PGAS
+up	PIN PREP
+the	ART DET
+changes	NN
+to	PIN TO PREP
+come	INF
+.	
+Still	RB CAP
+,	
+both	DET
+could	POMD
+be	BEMA AUXB INF
+probable	JJ
+options	NOMZ
+.	
+At	PIN CAP PREP
+the	ART DET
+same	JJ
+time	NN
+the	ART DET
+mass	NN
+media	NN
+does	VPRT SPAU
+not	XX0 RB
+promotes	VPRT
+a	ART DET INDA
+quality	NOMZ
+science	NN
+divulgation	NOMZ
+,	
+it	PIT PRP SBJP
+has	VPRT PEAS
+shown	PRIV
+uncritically	RB
+the	ART DET
+attitudes	NN
+of	PIN PREP
+the	ART DET
+new	JJ
+government	NOMZ
+.	
+Perhaps	RB CAP
+,	
+the	ART DET
+scientists	NN
+also	RB
+took	VBD
+an	ART DET INDA
+impartial	JJ
+position	NOMZ
+,	
+not	XX0 RB
+worrying	PGAS
+about	PIN PREP
+put	INF
+science	NN
+out	PIN PREP
+of	PIN PREP
+the	ART DET
+barriers	NN
+of	PIN PREP
+universities	NN
+and	PHC CCONJ
+institutes	NN
+.	
+ 	
+What	WHQU CAP WH
+must	NEMD
+be	PASS SPAU AUXB INF
+soon	RB
+done	PROD
+is	BEMA VPRT AUXB
+a	ART DET INDA
+heavy	JJ
+awareness	NOMZ
+in	PIN CONJ PREP
+those	DEMO DET
+scientists	NN
+who	WHSUB WH
+did	VBD SPAU
+not	XX0 RB
+perceive	PRIV INF
+yet	RB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+support	NN
+of	PIN PREP
+population	NOMZ
+is	BEMA VPRT AUXB
+essential	JJ PRED
+and	ANDC CCONJ
+in	PIN CONJ PREP
+the	ART DET
+people	NN
+who	WHSUB WH
+did	VBD SPAU
+not	XX0 RB
+perceive	PRIV INF
+as	RB CONJ
+well	RB
+that	PIN DEMO SCONJ PREP
+Science	NN CAP
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+bases	NN
+for	PIN PREP
+progress	NN
+and	ANDC CCONJ
+this	DEMP DET
+,	
+such	JJ
+as	PIN CONJ PREP
+its	PIT PRP SBJP
+decisions	NOMZ
+,	
+must	NEMD
+be	PASS SPAU AUXB INF
+not	XX0 RB
+only	DWNT RB
+used	
+for	PIN PREP
+the	ART DET
+welfare	NN
+of	PIN PREP
+everyone	QUPR INPR
+,	
+but	CCONJ
+also	RB
+done	PROD
+by	PIN PREP
+everyone	QUPR INPR
+.	
+This	DEMP CAP DET
+requires	VPRT SUAV
+that	PIN THVC SCONJ PREP
+divulgators	NN
+know	VPRT PRIV
+,	
+not	XX0 RB
+only	DWNT RB
+the	ART DET
+subject	NN
+in	PIN CONJ PREP
+question	NOMZ
+,	
+but	CCONJ
+the	ART DET
+public	NN
+and	CCONJ
+the	ART DET
+media	NN
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+popularization	NOMZ
+can	POMD
+reach	INF
+their	TPP3 PRP SBJP
+objectives	NN
+.	
+Moreover	RB CONJ CAP
+,	
+science	NN
+e	NNP
+society	NN
+,	
+if	COND PIN SCONJ PREP
+these	DEMP DET
+seen	PRIV
+separate	JJ
+,	
+need	VPRT
+unification	NOMZ
+in	PIN CONJ PREP
+a	ART DET INDA
+way	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+forces	NN
+become	VPRT
+enough	JJ
+to	PIN TO PREP
+prevent	INF
+setbacks	NN
+for	PIN PREP
+anyone	QUPR INPR
+of	PIN PREP
+sectors	NN
+.	

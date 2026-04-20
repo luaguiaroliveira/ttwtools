@@ -1,0 +1,652 @@
+# filename: AH_English_Essay_1_3131a_tx.txt
+token	tags
+A	ART CAP DET INDA
+simplified	JJ
+initial	JJ
+view	NN
+of	PIN PREP
+Anne	CAP NNP
+Bradshaw	CAP NNP
+'s	
+poem	NN
+'	CONT QUOT
+The	ART CAP DET
+Author	CAP NNP
+to	PIN PREP
+Her	TPP3 CAP PRP SBJP
+Book	CAP NNP
+'	CONT QUOT
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+she	TPP3 PRP SBJP
+has	VPRT
+a	ART DET INDA
+negative	JJ
+view	NN
+on	PIN PREP
+her	TPP3 PRP SBJP
+poetry	NN
+.	
+Within	PIN CAP PREP
+the	ART DET
+first	JJ
+few	QUAN JJ
+lines	NN
+of	PIN PREP
+verse	NN
+,	
+she	TPP3 PRP SBJP
+uses	VPRT
+negative	JJ
+words	NN
+and	PHC CCONJ
+phrases	NN
+;	
+"	QUOT
+ill	RB
+-	
+formed	
+"	QUOT
+,	
+"	QUOT
+feeble"(1	NNP
+)	
+,	
+"	QUOT
+snatched"(3	NNP
+)	
+and	ANDC CCONJ
+"	QUOT
+exposed"(4	NNP
+)	
+,	
+all	QUAN DET
+of	PIN PREP
+which	PIRE DET WH
+primarily	RB
+produce	VPRT
+pessimistic	JJ
+connotations	NOMZ
+.	
+They	TPP3 CAP PRP SBJP
+could	POMD SPAU
+also	RB
+be	PASS AUXB INF
+considered	PRIV
+litotes	NN
+;	
+the	ART DET
+word	NN
+"	QUOT
+feeble	JJ
+"	QUOT
+especially	RB
+.	
+Bradshaw	CAP NNP
+goes	VPRT
+on	PIN PREP
+to	PIN TO PREP
+describe	INF
+how	RB SCONJ WH
+editing	PGAS
+her	TPP3 PRP SBJP
+writing	PUBV NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+difficult	JJ
+process	NN
+,	
+"	QUOT
+I	FPP1 CAP PRP SBJP
+cast	VBD
+thee	SPP2 PRP SBJP
+by	PIN PREP
+as	PIN CONJ PREP
+one	NUM
+unfit	JJ
+for	PIN PREP
+light	NN
+"	QUOT
+.	
+This	DEMO CAP DET
+statement	NOMZ
+could	POMD
+be	PASS AUXB INF
+considered	PRIV
+a	ART DET INDA
+continuation	NOMZ
+of	PIN PREP
+the	ART DET
+negative	JJ
+language	NN
+felt	VBD PRIV
+earlier	RB TIME CMADJ
+.	
+To	PIN CAP PREP
+me	FPP1 PRP SBJP ACCU
+however	RB CONJ
+,	
+she	TPP3 PRP SBJP
+shows	VPRT PRIV
+herself	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+highly	AMP RB
+competent	JJ
+poet	NN
+,	
+who	WHQU WH
+is	BEMA VPRT AUXB
+prepared	JJ PRED
+to	PIN TO PREP
+scrutinise	INF
+her	TPP3 PRP SBJP
+own	JJ
+work	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+achieve	INF
+the	ART DET
+best	JJ SPADJ
+possible	JJ
+result	NN
+.	
+Indeed	RB CAP
+one	PRP SBJP
+could	POMD
+argue	PUBV INF
+that	PIN THVC SCONJ PREP
+from	PIN PREP
+the	ART DET
+moment	NOMZ
+the	ART DET
+poem	NN
+begins	VPRT
+,	
+she	TPP3 PRP SBJP
+personifies	VPRT
+her	TPP3 PRP SBJP ACCU
+written	PUBV
+work	NN
+,	
+likening	PRESP PGAS
+it	PIT PRP SBJP
+to	PIN PREP
+the	ART DET
+birth	NN
+of	PIN PREP
+a	ART DET INDA
+child	NN
+,	
+"	QUOT
+Thou	SPP2 CAP NNP
+ill	RB
+formed	VBD
+off	PIN STPR PREP
+-	
+spring	NN
+from	PIN PREP
+my	FPP1 PRP SBJP
+brain	NN
+"	QUOT
+.	
+Offspring	NN CAP
+is	BEMA VPRT AUXB
+usually	RB
+a	ART DET INDA
+word	NN
+to	PIN TO PREP
+describe	INF
+something	QUPR INPR
+that	DEMP WH
+is	BEMA VPRT AUXB
+positive	JJ PRED
+and	PHC CCONJ
+special	JJ PRED
+,	
+something	QUPR INPR
+to	PIN TO PREP
+be	PASS AUXB INF
+celebrated	
+.	
+One	CAP PRP SBJP
+could	POMD
+infer	PRIV INF
+therefore	RB CONJ
+that	PIN DEMO SCONJ PREP
+Bradshaw	CAP NNP
+draws	VPRT
+attention	NOMZ
+to	PIN PREP
+the	ART DET
+weaknesses	NOMZ
+of	PIN PREP
+her	TPP3 PRP SBJP
+work	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+highlight	INF
+its	PIT PRP SBJP
+main	JJ
+strengths	NN
+.	
+Her	TPP3 CAP PRP SBJP
+modesty	NN
+allows	VPRT SUAV
+the	ART DET
+reader	NN
+to	PIN TO PREP
+engage	INF
+with	PIN PREP
+the	ART DET
+text	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+more	RB EMPH CMADJ
+natural	JJ
+and	PHC CCONJ
+sympathetic	JJ
+fashion	NN
+.	
+I	FPP1 CAP PRP SBJP
+do	VPRT SPAU
+not	XX0 RB
+feel	PRIV INF
+for	PIN PREP
+example	NN
+,	
+that	PIN THVC SCONJ PREP
+the	ART DET
+poem	NN
+would	PRMD
+have	PEAS INF
+been	BEMA AUXB
+as	RB CONJ
+effective	JJ
+had	VBD
+she	TPP3 PRP SBJP
+initially	RB TIME
+applauded	VBD
+her	TPP3 PRP SBJP
+work	NN
+.	
+Bradshaw	CAP NNP
+continues	VPRT
+to	PIN TO PREP
+use	INF
+negative	JJ
+imagery	NN
+throughout	PIN PREP
+the	ART DET
+rest	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+.	
+A	ART CAP DET INDA
+hyperbole	NN
+in	PIN CONJ PREP
+line	NN
+10	NUM
+exemplifies	NN
+this	DEMP DET
+,	
+"	QUOT
+Thy	SPP2 CAP PRP SBJP
+visage	NN
+was	BEMA VBD AUXB
+so	RB EMPH
+irksome	JJ
+in	PIN CONJ PREP
+my	FPP1 PRP SBJP
+sight	NN
+"	QUOT
+,	
+drawing	PGAS
+further	JJ
+sympathy	NN
+from	PIN PREP
+the	ART DET
+reader	NN
+.	
+One	CAP NUM
+might	POMD SPAU
+also	RB
+see	PRIV INF
+a	ART DET INDA
+socially	RB
+contextual	JJ
+allegory	NN
+in	PIN CONJ PREP
+this	DEMO DET
+image	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+as	PIN CONJ PREP
+her	TPP3 PRP SBJP
+'	CONT QUOT
+child	NN
+'	CONT QUOT
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+female	JJ
+writer	NN
+in	PIN CONJ PREP
+the	ART DET
+17	NUM
+th	NNP
+Century	CAP NNP
+,	
+Bradshaw	CAP NNP
+'s	
+literature	NN
+may	POMD SPAU
+not	XX0 RB
+have	PEAS INF
+seemed	SMP
+as	RB CONJ
+widely	RB
+accepted	PRIV
+as	PIN CONJ PREP
+that	DEMO DET
+of	PIN PREP
+her	TPP3 PRP SBJP
+male	JJ
+counterparts	NN
+.	
+The	ART CAP DET
+image	NN
+of	PIN PREP
+her	TPP3 PRP SBJP ACCU
+'	CONT QUOT
+giving	PGAS
+birth	NN
+'	CONT QUOT
+to	PIN PREP
+this	DEMO DET
+writing	PUBV NN
+celebrates	VPRT
+motherhood	NN
+and	CCONJ
+outlines	VPRT
+the	ART DET
+importance	NN
+of	PIN PREP
+female	JJ
+contribution	NOMZ
+to	PIN PREP
+literature	NN
+at	PIN PREP
+the	ART DET
+time	NN
+.	
+Her	TPP3 CAP PRP SBJP
+choice	NN
+of	PIN PREP
+masculine	NN
+rhyme	NN
+is	BEMA VPRT AUXB
+probably	RB
+to	PIN TO PREP
+make	INF
+her	TPP3 PRP SBJP
+poem	NN
+sound	NN
+manlier	JJ CMADJ
+,	
+and	ANDC CCONJ
+enable	INF
+her	TPP3 PRP SBJP
+work	NN
+to	PIN TO PREP
+be	PASS SPAU AUXB INF
+more	RB EMPH CMADJ
+accepted	PRIV
+amongst	PIN PREP
+both	DET
+genders	NN
+.	
+The	ART CAP DET
+poem	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+24	NUM
+-	
+line	NN
+verse	NN
+,	
+formed	PASTP
+in	PIN CONJ PREP
+regular	JJ
+iambic	JJ
+pentameter	NN
+.	
+The	ART CAP DET
+use	NN
+of	PIN PREP
+rhyming	PGAS
+couplets	NN
+adds	VPRT PUBV
+a	ART DET INDA
+light	JJ
+tone	NN
+,	
+making	PGAS
+poem	NNP
+easy	JJ
+to	PIN TO PREP
+read	INF
+.	
+The	ART CAP DET
+'	CONT QUOT
+fun	NN
+'	CONT QUOT
+rhyme	NN
+of	PIN PREP
+the	ART DET
+poem	NNP
+further	RB
+supports	VPRT
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+Bradshaw	CAP NNP
+is	BEMA VPRT AUXB
+in	PIN CONJ STPR PREP
+-	
+fact	NN
+celebrative	NN
+of	PIN PREP
+her	TPP3 PRP SBJP
+work	NN
+.	
+There	EX CAP
+are	VPRT AUXB
+however	RB CONJ
+,	
+a	ART DET INDA
+few	QUAN JJ
+anomalies	NN
+;	
+in	PIN CONJ PREP
+lines	NN
+19	NUM
+-	
+22	NUM
+,	
+Bradshaw	CAP NNP
+does	VPRT SPAU
+not	XX0 RB
+use	INF
+the	ART DET
+expected	PRIV
+rhyme	NN
+scheme	NN
+of	PIN PREP
+J	CAP NNP
+,	
+J	CAP NNP
+,	
+K	CAP NNP
+,	
+K.	CAP NNP
+Instead	RB CONJ CAP
+she	TPP3 PRP SBJP
+alternates	VPRT
+between	PIN PREP
+J	CAP NNP
+and	PHC CCONJ
+K	CAP NNP
+and	CCONJ
+uses	VPRT
+half	JJ
+-	
+rhyme	NN
+.	
+This	DEMP CAP DET
+would	PRMD SPAU
+perhaps	RB
+strengthen	INF
+the	ART DET
+content	NN
+of	PIN PREP
+these	DEMO DET
+lines	NN
+though	CONC RB
+,	
+as	PIN CONJ PREP
+the	ART DET
+poet	NN
+talks	NN
+of	PIN STPR PREP
+"	QUOT
+roam(ing	PGAS
+)	
+"	QUOT
+and	ANDC CCONJ
+"	QUOT
+find(ing	PGAS
+)	
+"	QUOT
+-	
+general	JJ
+feelings	NN
+of	PIN PREP
+disorientation	NOMZ
+.	
+Here	RB CAP
+the	ART DET
+rhyme	NNP
+scheme	NN
+is	VPRT AUXB
+itself	PIT PRP SBJP ACCU
+'	CONT QUOT
+disorientated	
+'	CONT QUOT
+.	
+One	CAP NUM
+sees	VPRT PRIV
+interesting	JJ
+parallels	NN
+with	PIN PREP
+the	ART DET
+work	NN
+of	PIN PREP
+Seamus	CAP NNP
+Heaney	CAP NNP
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+poem	NN
+'	CONT QUOT
+Digging	CAP PGAS
+'	CONT QUOT
+.	
+Both	CAP DET
+poets	NN
+take	VPRT
+themselves	TPP3 PRP SBJP ACCU
+and	CCONJ
+the	ART DET
+reader	NN
+on	PIN PREP
+a	ART DET INDA
+journey	NN
+of	PIN PREP
+self	NN
+-	
+identification	NOMZ
+,	
+and	ANDC CCONJ
+begin	INF
+to	PIN TO PREP
+question	INF
+their	TPP3 PRP SBJP
+work	NN
+or	CCONJ
+profession	NOMZ
+.	
+Both	CAP DET
+relate	VPRT
+to	PIN PREP
+their	TPP3 PRP SBJP
+families	NN
+,	
+and	ANDC CCONJ
+use	INF
+figurative	JJ
+language	NN
+to	PIN TO PREP
+help	INF
+describe	INF
+their	TPP3 PRP SBJP
+thoughts	NN
+or	CCONJ
+inspirations	NOMZ
+.	
+Heaney	CAP NNP
+'s	
+thoughts	NN
+are	PASS VPRT AUXB
+considered	PRIV
+to	PIN TO PREP
+be	AUXB INF
+'	CONT QUOT
+good	JJ
+turf	NN
+'	CONT QUOT
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+also	RB
+interesting	JJ
+to	PIN TO PREP
+see	PRIV INF
+how	RB WHCL SCONJ WH
+both	DET
+poems	NN
+begin	VPRT
+with	PIN PREP
+a	ART DET INDA
+fairly	RB
+negative	JJ
+tone	NN
+,	
+but	CCONJ
+reach	INF
+the	ART DET
+conclusion	NOMZ
+that	PIN TOBJ SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+proud	JJ PRED
+of	PIN PREP
+their	TPP3 PRP SBJP
+work	NN
+as	PIN CONJ PREP
+poets	NN
+.	

@@ -1,0 +1,1578 @@
+# filename: LS_Food_Sciences_Essay_1_6079a_tx.txt
+token	tags
+Genetically	RB CAP
+modified	
+(	
+GM	CAP NNP
+)	
+food	NN
+is	VPRT AUXB
+food	NN
+that	TSUB WHSUB WH
+has	VPRT PEAS
+had	
+genes	NN
+,	
+not	XX0 RB
+normally	RB
+present	JJ
+,	
+added	PASTP PUBV
+to	PIN PREP
+it	PIT PRP SBJP
+.	
+Genes	NN CAP
+are	PASS VPRT AUXB
+transferred	
+from	PIN PREP
+one	NUM
+organism	NN
+to	PIN PREP
+another	DET
+via	PIN PREP
+modified	JJ
+strains	NN
+of	PIN PREP
+viruses	NN
+and	PHC CCONJ
+bacteria	NN
+.	
+Some	QUAN CAP DET
+of	PIN PREP
+the	ART DET
+reasons	PRIV NN
+given	WZPAST
+for	PIN PREP
+genetic	JJ
+modification	NOMZ
+include	VPRT
+delayed	
+ripening	NN
+,	
+decreased	VBD
+allergens	NN
+,	
+crops	NN
+that	TSUB WHQU WHSUB WH
+are	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+resistant	JJ
+to	PIN TO PREP
+climate	INF
+extremes	NN
+or	CCONJ
+disease	NN
+,	
+altering	PRESP PGAS
+the	ART DET
+nutrient	JJ
+content	NN
+of	PIN PREP
+foods	NN
+and	CCONJ
+increasing	GER PGAS
+the	ART DET
+efficiency	NN
+of	PIN PREP
+food	NN
+production	NOMZ
+systems	NN
+.	
+A	ART CAP DET INDA
+key	JJ
+reason	PRIV NN
+for	PIN PREP
+genetic	JJ
+engineering	GER
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+make	INF
+production	NOMZ
+cheaper	JJ CMADJ
+and	PHC CCONJ
+easier	JJ CMADJ
+.	
+There	EX CAP
+are	VPRT AUXB
+also	RB
+many	QUAN JJ
+negative	JJ
+consequences	NN
+and	PHC CCONJ
+risks	NN
+to	PIN TO PREP
+take	INF
+in	PIN CONJ PREP
+to	PIN PREP
+account	NN
+;	
+such	JJ
+as	PIN CONJ PREP
+loss	NN
+of	PIN PREP
+biodiversity	NOMZ
+,	
+risk	NN
+to	PIN PREP
+human	JJ
+health	NN
+,	
+increased	
+power	NN
+of	PIN PREP
+giant	JJ
+biotech	JJ
+firms	NN
+,	
+contamination	NOMZ
+of	PIN PREP
+crops	NN
+through	PIN PREP
+cross	NN
+-	NN
+pollination	NOMZ
+and	CCONJ
+the	ART DET
+potential	NN
+for	PIN STPR PREP
+'	CONT QUOT
+super	JJ
+weeds	NN
+'	CONT QUOT
+,	
+which	SERE WHQU DET WH
+would	PRMD
+be	AUXB INF
+pest	JJ SPADJ
+resistant	JJ
+.	
+For	PIN CAP PREP
+these	DEMO DET
+reasons	PRIV NN
+genetic	JJ
+modification	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+highly	AMP RB
+controversial	JJ
+topic	NN
+.	
+The	ART CAP DET
+attitude	NN
+of	PIN PREP
+individual	JJ
+consumers	NN
+is	PASS VPRT BYPA AUXB
+influenced	
+by	PIN PREP
+their	TPP3 PRP SBJP
+perceptions	NOMZ
+of	PIN PREP
+the	ART DET
+benefits	NN
+and	PHC CCONJ
+risks	NN
+posed	WZPAST
+by	PIN PREP
+GM	CAP NNP
+foods	NN
+,	
+levels	NN
+of	PIN PREP
+risk	NN
+aversion	NOMZ
+,	
+knowledge	NN
+of	PIN PREP
+science	NN
+,	
+views	NN
+about	PIN PREP
+government	NOMZ
+and	PHC CCONJ
+corporations	NOMZ
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+their	TPP3 PRP SBJP
+moral	JJ
+and	PHC CCONJ
+ethical	JJ
+views	NN
+.	
+Consumers	NN CAP
+are	VPRT SPAU AUXB
+constantly	RB
+being	PASS BYPA AUXB
+influenced	
+by	PIN PREP
+sources	NN
+such	JJ
+as	PIN CONJ PREP
+newspapers	NN
+and	PHC CCONJ
+television	NOMZ
+programs	NN
+,	
+which	SERE WHQU DET WH
+are	VPRT AUXB
+not	XX0 RB
+always	RB
+reliable	JJ
+but	CCONJ
+add	PUBV INF
+to	PIN PREP
+ones	NN
+paradigms	NNP
+.	
+That	DEMP CAP DET
+said	VBD PUBV
+;	
+a	ART DET INDA
+study	NN
+carried	WZPAST
+out	PIN PREP
+by	PIN PREP
+the	ART DET
+University	CAP NNP
+of	PIN PREP
+Manchester	CAP NNP
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+only	JJ DWNT
+source	NN
+of	PIN PREP
+GM	CAP NNP
+information	NOMZ
+,	
+which	SERE DET WH
+over	PIN PREP
+10	NUM
+%	NN
+of	PIN PREP
+respondents	NN
+said	VBD PUBV THATD
+they	TPP3 PRP SBJP
+would	PRMD
+'	CONT INF QUOT
+definitely	RB
+trust	INF
+'	CONT QUOT
+,	
+was	VBD AUXB
+universities	NN
+/	
+educational	JJ
+organisations	NOMZ
+.	
+The	ART CAP DET
+government	NOMZ
+was	PASS VBD SPAU AUXB
+widely	RB
+distrusted	
+in	PIN CONJ PREP
+the	ART DET
+field	NN
+of	PIN PREP
+GM	CAP NNP
+technology	NN
+.	
+The	ART CAP DET
+study	NN
+also	RB
+found	VBD PRIV
+considerable	JJ
+variation	NOMZ
+in	PIN CONJ PREP
+preferences	NN
+in	PIN CONJ PREP
+terms	NN
+of	PIN PREP
+class	NN
+,	
+age	NN
+,	
+gender	NN
+,	
+attitudes	NN
+and	CCONJ
+the	ART DET
+presence	NN
+of	PIN PREP
+children	NN
+in	PIN CONJ PREP
+the	ART DET
+household	NN
+.	
+Studies	NN CAP
+have	VPRT PEAS SPAU
+also	RB
+found	PRIV
+that	PIN THVC SCONJ PREP
+socio	NN
+-	
+economic	JJ
+factors	NN
+do	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+a	ART DET INDA
+major	JJ
+influence	NN
+on	PIN PREP
+consumer	NN
+choice	NN
+regarding	WZPRES PGAS
+GM	CAP NNP
+produce	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+very	AMP RB
+hard	JJ
+for	PIN PREP
+consumers	NN
+to	PIN TO PREP
+become	INF
+adequately	RB
+informed	JJ
+on	PIN PREP
+the	ART DET
+topic	NN
+of	PIN PREP
+genetic	JJ
+modification	NOMZ
+from	PIN PREP
+non	JJ
+-	JJ
+biased	JJ
+sources	NN
+,	
+which	SERE WHQU DET WH
+would	PRMD
+enable	INF
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+form	INF
+their	TPP3 PRP SBJP
+own	JJ
+informed	JJ
+judgement	NOMZ
+on	PIN PREP
+the	ART DET
+matter	NN
+.	
+With	PIN CAP PREP
+that	DEMO DET
+in	PIN CONJ PREP
+mind	NN
+,	
+this	DEMO DET
+essay	NN
+aims	VPRT
+to	PIN TO PREP
+compare	INF
+the	ART DET
+attitude	NN
+towards	PIN PREP
+GM	CAP NNP
+food	NN
+of	PIN PREP
+the	ART DET
+majority	NOMZ
+of	PIN PREP
+consumers	NN
+in	PIN CONJ PREP
+Europe	CAP NNP
+with	PIN PREP
+the	ART DET
+USA	CAP NNP
+.	
+Products	NN CAP
+containing	GER WZPRES PGAS
+genetically	RB
+modified	
+ingredients	NN
+first	RB
+appeared	VBD SMP
+on	PIN PREP
+shelves	NN
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+in	PIN CONJ PREP
+1997	NUM
+.	
+This	DEMO CAP DET
+new	JJ
+technology	NN
+was	PASS VBD SPAU AUXB
+not	XX0 RB
+well	RB
+received	
+as	PIN CONJ PREP
+was	PASS VBD BYPA AUXB
+shown	PRIV
+by	PIN PREP
+over	PIN PREP
+30	NUM
+crop	NN
+destructions	NOMZ
+,	
+protests	PUBV NN
+and	PHC CCONJ
+rallies	NN
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+1999	NUM
+.	
+The	ART CAP DET
+most	RB EMPH SPADJ
+high	JJ
+profile	NN
+of	PIN PREP
+these	DEMO DET
+events	NN
+,	
+which	SERE DET WH
+Lord	CAP NNP
+Melchett	CAP NNP
+;	
+the	ART DET
+then	RB
+head	NN
+of	PIN PREP
+Greenpeace	CAP NNP
+played	VBD
+a	ART DET INDA
+part	NN
+in	PIN CONJ STPR PREP
+,	
+was	BEMA VBD AUXB
+the	ART DET
+destruction	NOMZ
+of	PIN PREP
+herbicide	NN
+-	
+tolerant	JJ
+maize	NN
+belonging	WZPRES PGAS
+to	PIN PREP
+the	ART DET
+biotechnology	NN
+company	NN
+AgrEvo	CAP NNP
+.	
+Subsequently	RB TIME CAP
+UK	CAP NNP
+food	NN
+retailers	NN
+began	VBD
+removing	PGAS
+GM	CAP NNP
+foods	NN
+and	PHC CCONJ
+ingredients	NN
+from	PIN PREP
+their	TPP3 PRP SBJP
+supply	NN
+chain	NN
+.	
+A	ART CAP DET INDA
+national	JJ
+survey	NN
+,	
+conducted	PASTP
+by	PIN PREP
+the	ART DET
+Food	CAP NNP
+Standards	CAP NNP
+Agency	CAP NNP
+(	
+FSA	CAP NNP
+)	
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+in	PIN CONJ PREP
+2003	NUM
+concluded	VBD PRIV
+that	PIN THVC SCONJ PREP
+around	PIN PLACE PREP
+80	NUM
+%	NN
+of	PIN PREP
+consumers	NN
+were	BEMA VBD AUXB
+against	PIN PREP
+GM	CAP NNP
+crops	NN
+and	CCONJ
+only	DWNT RB
+2	NUM
+%	NN
+would	PRMD
+eat	INF
+GM	CAP NNP
+foods	NN
+.	
+However	RB CONJ CAP
+another	DET
+survey	NN
+carried	WZPAST
+out	PIN PREP
+by	PIN PREP
+the	ART DET
+FSA	CAP NNP
+in	PIN CONJ PREP
+2002	NUM
+showed	VBD PRIV
+a	ART DET INDA
+decrease	NN
+in	PIN CONJ PREP
+public	JJ
+concern	NN
+over	PIN PREP
+the	ART DET
+previous	JJ
+3	NUM
+years	NN
+.	
+Similar	JJ CAP
+resistance	NN
+has	VPRT PEAS
+been	PASS AUXB
+observed	PRIV
+throughout	PIN PREP
+Europe	CAP NNP
+.	
+One	CAP NUM
+survey	NN
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+70	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+European	JJ CAP
+public	NN
+are	BEMA VPRT AUXB
+against	PIN PREP
+GM	CAP NNP
+food	NN
+.	
+Due	PIN CAP PREP
+to	PIN PREP
+the	ART DET
+success	NN
+of	PIN PREP
+the	ART DET
+anti	JJ
+-	JJ
+GM	JJ CAP
+movement	NOMZ
+no	SYNE DET
+GM	CAP NNP
+crops	NN
+are	PASS VPRT SPAU AUXB
+currently	RB
+grown	
+commercially	RB
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+food	NN
+made	WZPAST
+from	PIN PREP
+or	CCONJ
+containing	GER PGAS
+GM	CAP NNP
+products	NN
+grown	WZPAST
+abroad	RB PLACE
+(	
+e.g.	RB CONJ
+GM	CAP NNP
+tomatoes	NN
+,	
+Soya	CAP NNP
+,	
+maize	NN
+)	
+is	BEMA VPRT AUXB
+on	PIN PREP
+sale	NN
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+,	
+and	ANDC CCONJ
+many	QUAN JJ
+more	JJ EMPH CMADJ
+GM	CAP NNP
+products	NN
+are	VPRT AUXB
+awaiting	PGAS
+EU	CAP NNP
+approval	NN
+.	
+Europe	CAP NNP
+has	VPRT PEAS
+imposed	
+restrictive	JJ
+regulations	NOMZ
+on	PIN PREP
+GM	CAP NNP
+crops	NN
+in	PIN CONJ PREP
+any	QUAN DET
+portion	NOMZ
+of	PIN PREP
+the	ART DET
+food	NN
+chain	NN
+,	
+and	ANDC CCONJ
+any	QUAN DET
+food	NN
+or	CCONJ
+drink	INF
+products	NN
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+will	PRMD
+be	PASS AUXB INF
+labelled	
+as	PIN CONJ PREP
+containing	GER PGAS
+GM	CAP NNP
+Soya	CAP NNP
+or	CCONJ
+corn	NN
+protein	NN
+.	
+It	PIT CAP PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+main	JJ
+consumer	NN
+concern	NN
+to	PIN TO PREP
+do	PROD INF
+with	PIN PREP
+GM	CAP NNP
+crops	NN
+is	BEMA VPRT AUXB
+the	ART DET
+potential	JJ
+risk	NN
+to	PIN PREP
+the	ART DET
+environment	NOMZ
+,	
+although	CONC PIN SCONJ PREP
+there	EX
+is	VPRT AUXB
+still	RB
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+worry	NN
+regarding	WZPRES PGAS
+the	ART DET
+safety	NN
+of	PIN PREP
+GM	CAP NNP
+food	NN
+.	
+These	DEMO CAP DET
+concerns	NN
+could	POMD SPAU
+well	RB
+be	PASS AUXB INF
+justified	
+.	
+According	CAP PGAS
+to	PIN PREP
+Dr.	CAP NNP
+Mae	CAP NNP
+-	
+Wan	CAP NNP
+Ho	CAP NNP
+from	PIN PREP
+the	ART DET
+Institute	CAP NNP
+of	PIN PREP
+Science	CAP NNP
+in	PIN CONJ PREP
+Society	CAP NNP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+serious	JJ
+risk	NN
+of	PIN PREP
+horizontal	JJ
+gene	NN
+transfer	NN
+and	ANDC CCONJ
+there	EX
+is	VPRT AUXB
+enough	JJ
+evidence	NN
+to	PIN TO PREP
+indicate	PRIV INF
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+'s	VPRT
+possible	JJ
+for	PIN PREP
+transgenic	JJ
+DNA	NN CAP
+in	PIN CONJ PREP
+GM	CAP NNP
+crops	NN
+and	PHC CCONJ
+products	NN
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+spread	
+by	PIN PREP
+viruses	NN
+and	PHC CCONJ
+bacteria	NN
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+by	PIN PREP
+plant	NN
+and	PHC CCONJ
+animal	NN
+cells	NN
+.	
+Horizontal	JJ CAP
+gene	NN
+transfer	NN
+poses	VPRT
+many	QUAN JJ
+health	NN
+risks	NN
+.	
+These	DEMP CAP DET
+include	VPRT
+the	ART DET
+spread	NN
+of	PIN PREP
+antibiotic	JJ
+resistant	JJ
+genes	NN
+to	PIN PREP
+pathogenic	JJ
+bacteria	NN
+,	
+the	ART DET
+creation	NOMZ
+of	PIN PREP
+new	JJ
+viruses	NN
+and	PHC CCONJ
+disease	NN
+causing	WZPRES PGAS
+bacteria	NN
+and	CCONJ
+the	ART DET
+transfer	NN
+of	PIN PREP
+transgenic	NN
+DNA	NN CAP
+into	PIN PREP
+human	JJ
+cells	NN
+,	
+causing	PGAS
+cancer	NN
+.	
+As	PIN CONJ CAP PREP
+an	ART DET INDA
+example	NN
+of	PIN PREP
+negative	JJ
+consequences	NN
+,	
+E.coli	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+normally	RB
+harmless	JJ
+bacterium	NN
+,	
+which	SERE WHQU DET WH
+has	VPRT PEAS SPAU
+commonly	RB
+been	PASS AUXB
+used	
+for	PIN PREP
+gene	NN
+transfer	NN
+,	
+but	CCONJ
+modified	
+strains	NN
+have	VPRT PEAS
+managed	
+to	PIN TO PREP
+escape	INF
+from	PIN PREP
+laboratories	NN
+.	
+E.coli	CAP X
+0157	NUM
+:	
+H7	CAP NNP
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	BEMA AUXB INF
+fatal	JJ PRED
+,	
+was	PASS VBD SPAU AUXB
+first	RB
+detected	
+in	PIN CONJ PREP
+the	ART DET
+US	FPP1 CAP NNP
+in	PIN CONJ PREP
+1982	NUM
+.	
+In	PIN CONJ CAP PREP
+2002	NUM
+there	EX
+were	VBD AUXB
+1084	NUM
+reported	PUBV
+cases	NN
+in	PIN CONJ PREP
+the	ART DET
+UK	CAP NNP
+.	
+Meat	NN CAP
+and	CCONJ
+raw	JJ
+milk	NN
+are	BEMA VPRT AUXB
+the	ART DET
+most	RB EMPH SPADJ
+common	JJ
+sources	NN
+of	PIN PREP
+infection	NOMZ
+.	
+Furthermore	RB CONJ CAP
+,	
+the	ART DET
+New	CAP NNP
+Scientist	CAP NNP
+reported	VBD PUBV
+an	ART DET INDA
+environmental	JJ
+crisis	NN
+in	PIN CONJ PREP
+Argentina	CAP NNP
+where	RB SCONJ WH
+Soya	CAP NNP
+has	VPRT PEAS
+damaged	
+soil	NN
+bacteria	NN
+and	CCONJ
+allowed	VBD SUAV
+herbicide	NN
+-	
+resistant	JJ
+weeds	NN
+to	PIN TO PREP
+grow	INF
+out	PIN PREP
+of	PIN PREP
+control	NN
+.	
+The	ART CAP DET
+four	NUM
+main	JJ
+producers	NN
+of	PIN PREP
+GM	CAP NNP
+crops	NN
+are	BEMA VPRT AUXB
+the	ART DET
+US	FPP1 CAP NNP
+,	
+Argentina	CAP NNP
+,	
+Canada	CAP NNP
+and	PHC CCONJ
+China	CAP NNP
+.	
+The	ART CAP DET
+crops	NN
+being	PASS WZPRES SPAU AUXB
+commercially	RB
+grown	
+include	VPRT
+pest	NN
+-	
+resistant	JJ
+maize	NN
+and	PHC CCONJ
+cotton	NN
+,	
+and	ANDC CCONJ
+Soya	CAP NNP
+resistant	JJ
+to	PIN PREP
+weed	NN
+killer	NN
+.	
+In	PIN CONJ CAP PREP
+contrast	NN
+to	PIN PREP
+Europe	CAP NNP
+,	
+the	ART DET
+US	FPP1 CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+large	JJ
+producer	NN
+of	PIN PREP
+GM	CAP NNP
+crops	NN
+and	CCONJ
+is	VPRT SPAU AUXB
+also	RB
+pressurising	GER PGAS
+other	JJ
+trading	NN
+countries	NN
+to	PIN TO PREP
+accept	PRIV INF
+GM	CAP NNP
+too	RB
+.	
+According	CAP PGAS
+to	PIN PREP
+the	ART DET
+USDA	CAP NNP
+'s	
+National	CAP NNP
+Agricultural	CAP NNP
+Statistics	CAP NNP
+Service	CAP NNP
+(	
+NASS	CAP NNP
+)	
+,	
+biotechnology	NN
+plantings	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+percentage	NN
+of	PIN PREP
+total	JJ
+crop	NN
+plantings	NN
+in	PIN CONJ PREP
+the	ART DET
+United	CAP NNP
+States	PUBV CAP NNP
+in	PIN CONJ PREP
+2004	NUM
+were	VBD AUXB
+about	RB
+46	NUM
+percent	NN
+for	PIN PREP
+corn	NN
+,	
+76	NUM
+percent	NN
+for	PIN PREP
+cotton	NN
+,	
+and	ANDC CCONJ
+85	NUM
+percent	NN
+for	PIN PREP
+soybeans	NN
+.	
+Estimates	PRIV NN CAP
+also	RB
+predict	VPRT PUBV
+that	PIN THVC SCONJ PREP
+60	NUM
+-	
+70	NUM
+%	NN
+of	PIN PREP
+processed	
+food	NN
+products	NN
+on	PIN PREP
+American	JJ CAP
+store	NN
+shelves	NN
+contain	VPRT
+some	QUAN DET
+trace	NN
+from	PIN PREP
+GM	CAP NNP
+crops	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+despite	PIN SCONJ PREP
+agricultural	JJ
+technology	NN
+being	BEMA WZPRES AUXB
+so	RB EMPH
+widespread	JJ
+in	PIN CONJ PREP
+the	ART DET
+USA	CAP NNP
+,	
+public	JJ
+acceptance	NN
+is	VPRT AUXB
+still	RB
+very	AMP RB
+mixed	JJ
+and	CCONJ
+genetically	RB
+modified	
+food	NN
+remains	VPRT
+a	ART DET INDA
+topic	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+average	JJ
+American	JJ CAP
+consumer	NN
+has	VPRT
+very	AMP RB
+little	JJ
+knowledge	NN
+of	PIN STPR PREP
+.	
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+low	JJ
+awareness	NOMZ
+of	PIN PREP
+biotechnology	NN
+in	PIN CONJ PREP
+general	JJ
+amongst	PIN PREP
+Americans	CAP NNP
+,	
+as	PIN CONJ PREP
+was	PASS VBD BYPA AUXB
+shown	PRIV
+by	PIN PREP
+a	ART DET INDA
+national	JJ
+study	NN
+carried	WZPAST
+out	PIN PREP
+by	PIN PREP
+the	ART DET
+Food	CAP NNP
+Policy	CAP NNP
+Institute	CAP NNP
+,	
+Rutgers	CAP NNP
+University	CAP NNP
+of	PIN PREP
+New	CAP NNP
+Jersey	CAP NNP
+,	
+in	PIN CONJ PREP
+late	JJ TIME
+2003	NUM
+.	
+This	DEMO CAP DET
+survey	NN
+claims	VPRT PUBV
+that	PIN THVC SCONJ PREP
+only	DWNT RB
+half	NN
+of	PIN PREP
+Americans	CAP NNP
+are	BEMA VPRT AUXB
+aware	JJ PRED
+that	PIN THAC SCONJ PREP
+foods	NN
+containing	GER WZPRES PGAS
+GM	CAP NNP
+ingredients	NN
+are	PASS VPRT SPAU AUXB
+currently	RB
+sold	
+in	PIN CONJ PREP
+stores	NN
+.	
+When	RB CAP SCONJ WH
+asked	SUAV
+directly	RB
+,	
+about	PIN PREP
+half	NN
+of	PIN PREP
+Americans	CAP NNP
+reported	VBD PUBV
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+approve	VPRT
+plant	NN
+based	
+GM	CAP NNP
+foods	NN
+,	
+and	ANDC CCONJ
+about	RB
+a	ART DET INDA
+quarter	NN
+approve	RB
+of	PIN PREP
+animal	NN
+-	
+based	
+GM	CAP NNP
+foods	NN
+.	
+The	ART CAP DET
+study	NN
+also	RB
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+opinions	NN
+of	PIN PREP
+GM	CAP NNP
+foods	NN
+could	POMD
+be	PASS SPAU AUXB INF
+easily	RB
+influenced	
+.	
+Approval	NN CAP
+increased	VBD
+when	RB SCONJ WH
+specific	JJ
+benefits	NN
+of	PIN PREP
+GM	CAP NNP
+food	NN
+were	PASS VBD AUXB
+mentioned	PUBV
+.	
+A	ART CAP DET INDA
+study	NN
+by	PIN PREP
+Benjamin	CAP NNP
+Onyango	CAP NNP
+,	
+a	ART DET INDA
+research	NN
+associate	NN
+at	PIN PREP
+the	ART DET
+Food	CAP NNP
+Policy	CAP NNP
+Institute	CAP NNP
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+male	JJ
+,	
+white	JJ
+,	
+southerners	NN
+and	ANDC CCONJ
+those	DEMO DET
+with	PIN PREP
+some	QUAN DET
+college	NN
+education	NOMZ
+are	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+consume	INF
+genetically	RB
+modified	
+fruit	NN
+and	PHC CCONJ
+vegetables	NN
+.	
+He	TPP3 CAP PRP SBJP
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+once	PIN TIME SCONJ PREP
+the	ART DET
+respondents	NN
+were	BEMA VBD AUXB
+well	RB
+informed	JJ
+of	PIN PREP
+the	ART DET
+risks	NN
+of	PIN PREP
+the	ART DET
+product	NN
+,	
+their	TPP3 PRP SBJP
+willingness	NOMZ
+to	PIN TO PREP
+consume	INF
+such	JJ
+products	NN
+greatly	AMP RB
+diminished	VBD
+.	
+This	DEMP CAP DET
+supports	VPRT
+the	ART DET
+claim	PUBV NN
+that	PIN TOBJ THVC SCONJ PREP
+their	TPP3 PRP SBJP
+opinions	NN
+could	POMD
+be	PASS SPAU AUXB INF
+easily	RB
+influenced	
+.	
+The	ART CAP DET
+Food	CAP NNP
+Policy	CAP NNP
+Institute	CAP NNP
+study	NN
+found	VBD PRIV
+the	ART DET
+stance	NN
+of	PIN PREP
+Americans	CAP NNP
+on	PIN PREP
+labelling	NN
+of	PIN PREP
+GM	CAP NNP
+foods	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+unclear	JJ PRED
+.	
+When	RB CAP SCONJ WH
+asked	SUAV
+directly	RB
+94	NUM
+%	NN
+agreed	VBD PUBV SUAV
+that	PIN THVC SCONJ PREP
+GM	CAP NNP
+ingredients	NN
+should	NEMD
+be	PASS AUXB INF
+labelled	
+as	PIN CONJ PREP
+such	JJ
+,	
+however	RB CONJ
+before	PIN PREP
+GM	CAP NNP
+was	PASS VBD AUXB
+mentioned	PUBV
+less	JJ CMADJ
+than	PIN PREP
+1	NUM
+%	NN
+mentioned	VBD PUBV
+GM	CAP NNP
+ingredients	NN
+as	PIN CONJ PREP
+something	QUPR INPR
+they	TPP3 PRP SBJP
+would	PRMD
+wish	INF
+to	PIN TO PREP
+appear	SMP INF
+on	PIN PREP
+labels	NN
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+not	XX0 RB
+currently	RB
+law	NN
+for	PIN PREP
+food	NN
+products	NN
+in	PIN CONJ PREP
+the	ART DET
+USA	CAP NNP
+to	PIN TO PREP
+be	PASS AUXB INF
+labelled	
+as	PIN CONJ PREP
+containing	GER PGAS
+genetically	RB
+modified	
+ingredients	NN
+.	
+However	RB CONJ CAP
+,	
+at	PIN PREP
+the	ART DET
+next	JJ
+session	NOMZ
+of	PIN PREP
+the	ART DET
+Codex	CAP NNP
+Committee	CAP NNP
+on	PIN PREP
+Food	CAP NNP
+Labelling	CAP NNP
+(	
+Ottawa	CAP NNP
+,	
+Canada	CAP NNP
+,	
+on	PIN PREP
+May	POMD CAP NNP
+1	NUM
+-	
+5	NUM
+,	
+2006	NUM
+)	
+,	
+the	ART DET
+Committee	CAP NNP
+will	PRMD
+be	AUXB INF
+discussing	GER PGAS
+"	QUOT
+proposed	SUAV
+Draft	CAP NNP
+Guidelines	CAP NNP
+for	PIN PREP
+the	ART DET
+Labelling	CAP NNP
+of	PIN PREP
+Foods	CAP NNP
+and	PHC CCONJ
+Food	CAP NNP
+Ingredients	CAP NNP
+obtained	VBD
+through	PIN PREP
+Certain	CAP NNP
+Techniques	CAP NNP
+of	PIN PREP
+Genetic	CAP NNP
+Modification	CAP NNP
+/	
+Genetic	CAP NNP
+Engineering	CAP NNP
+.	
+"	QUOT
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+large	JJ
+difference	NN
+between	PIN PREP
+the	ART DET
+attitude	NN
+towards	PIN PREP
+genetic	JJ
+modification	NOMZ
+in	PIN CONJ PREP
+Europe	CAP NNP
+and	CCONJ
+the	ART DET
+USA	CAP NNP
+.	
+Of	PIN CAP PREP
+all	QUAN DET
+countries	NN
+,	
+consumers	NN
+in	PIN CONJ PREP
+North	CAP NNP
+America	CAP NNP
+are	BEMA VPRT AUXB
+among	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+willing	JJ
+to	PIN TO PREP
+accept	PRIV INF
+GM	CAP NNP
+produce	NN
+,	
+whereas	OSUB PIN SCONJ PREP
+consumers	NN
+in	PIN CONJ PREP
+Europe	CAP NNP
+hold	VPRT PRIV
+the	ART DET
+most	JJ EMPH SPADJ
+concerns	NN
+.	
+However	RB CONJ CAP
+many	QUAN JJ
+Americans	CAP NNP
+still	RB
+harbour	VPRT
+concerns	NN
+and	PHC CCONJ
+consumer	NN
+attitude	NN
+is	BEMA VPRT AUXB
+critical	JJ PRED
+to	PIN PREP
+the	ART DET
+acceptance	NN
+of	PIN PREP
+a	ART DET INDA
+new	JJ
+technology	NN
+.	
+This	DEMP CAP DET
+is	PASS VPRT BYPA AUXB
+shown	PRIV
+by	PIN PREP
+the	ART DET
+refusal	NN
+of	PIN PREP
+major	JJ
+food	NN
+companies	NN
+Mc	CAP NNP
+Donald	CAP NNP
+'s	
+and	CCONJ
+Frito	CAP NNP
+-	
+Lays	CAP NNP
+to	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+GM	CAP NNP
+potatoes	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN PREP
+analyse	NN
+which	WHOBJ DET WH
+of	PIN PREP
+these	DEMO DET
+concerns	NN
+are	BEMA VPRT AUXB
+real	JJ PRED
+,	
+and	ANDC CCONJ
+which	WHQU DET WH
+are	PASS VPRT AUXB
+perceived	PRIV
+.	
+Consumer	NN CAP
+concerns	NN
+should	NEMD SPAU
+not	XX0 RB
+be	PASS SPAU AUXB INF
+simply	RB
+dismissed	
+as	PIN CONJ PREP
+false	JJ
+perceptions	NOMZ
+due	PIN PREP
+to	PIN PREP
+their	TPP3 PRP SBJP
+lack	NN
+of	PIN PREP
+understanding	GER PRIV
+.	
+Rather	RB CONJ CAP
+,	
+the	ART DET
+concerns	NN
+should	NEMD
+be	PASS AUXB INF
+acknowledged	PUBV
+;	
+and	ANDC CCONJ
+unbiased	JJ
+information	NOMZ
+regarding	WZPRES PGAS
+the	ART DET
+technology	NN
+should	NEMD
+be	PASS AUXB INF
+made	
+readily	RB
+available	JJ
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+enable	INF
+the	ART DET
+consumers	NN
+to	PIN TO PREP
+form	INF
+better	JJ CMADJ
+judgements	NOMZ
+.	
+It	PIT CAP PRP SBJP
+should	NEMD
+be	BEMA AUXB INF
+the	ART DET
+consumers	NN
+right	JJ
+to	PIN TO PREP
+have	INF
+access	NN
+to	PIN PREP
+this	DEMO DET
+information	NOMZ
+.	
+Consumer	NN CAP
+acceptance	NN
+of	PIN PREP
+GM	CAP NNP
+foods	NN
+is	BEMA VPRT AUXB
+critical	JJ PRED
+to	PIN PREP
+the	ART DET
+future	JJ
+development	NOMZ
+of	PIN PREP
+this	DEMO DET
+technology	NN
+.	

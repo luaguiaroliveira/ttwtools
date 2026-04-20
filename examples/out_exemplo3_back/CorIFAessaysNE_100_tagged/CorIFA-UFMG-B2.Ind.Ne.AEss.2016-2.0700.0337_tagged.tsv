@@ -1,0 +1,1084 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0700.0337.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0700.0337	NUM
+>	X
+  	
+<	X
+Carbonaceous	JJ CAP
+materials	NN
+obtained	WZPAST
+by	PIN PREP
+the	ART DET
+CVD	CAP NNP
+process	NN
+for	PIN PREP
+environmental	JJ
+applications	NOMZ
+>	
+  	
+The	ART CAP DET
+industrial	JJ
+development	NOMZ
+and	PHC CCONJ
+growth	NN
+of	PIN PREP
+the	ART DET
+world	NN
+population	NOMZ
+created	VBD
+several	QUAN JJ
+environmental	JJ
+problems	NN
+,	
+one	NUM
+of	PIN PREP
+these	DEMO DET
+problems	NN
+is	BEMA VPRT AUXB
+the	ART DET
+excessive	JJ
+generation	NOMZ
+of	PIN PREP
+waste	NN
+or	CCONJ
+contaminated	VBD
+,	
+both	DET
+in	PIN CONJ PREP
+the	ART DET
+industrial	JJ
+sector	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+pharmaceuticals	NN
+and	PHC CCONJ
+textiles	NN
+,	
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+teaching	NN
+and	PHC CCONJ
+research	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+homes	NN
+.	
+Thus	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+became	VBD
+necessary	JJ
+to	PIN TO PREP
+develop	INF
+processes	NN
+for	PIN PREP
+the	ART DET
+removal	NN
+of	PIN PREP
+these	DEMO DET
+environmental	JJ
+contaminants	NN
+.	
+ 	
+Among	PIN CAP PREP
+these	DEMO DET
+residues	NN
+are	VPRT AUXB
+emerging	PGAS
+contaminants	NN
+,	
+which	SERE WHQU DET WH
+are	PASS VPRT AUXB
+defined	
+as	PIN CONJ PREP
+natural	JJ
+or	CCONJ
+synthetic	JJ
+substances	NN
+that	TSUB WHSUB WH
+interfere	VPRT
+with	PIN PREP
+the	ART DET
+endocrine	NN
+system	NN
+or	CCONJ
+a	ART DET INDA
+system	NN
+biota	NN
+.	
+Antibiotics	NN CAP
+and	PHC CCONJ
+hormones	NN
+are	BEMA VPRT AUXB
+in	PIN CONJ PREP
+this	DEMO DET
+class	NN
+of	PIN PREP
+emerging	PGAS
+contaminants	NN
+,	
+considering	GER PRIV PRESP PGAS
+the	ART DET
+use	NN
+of	PIN PREP
+these	DEMO DET
+compounds	NN
+has	VPRT PEAS
+increased	
+greatly	AMP RB
+in	PIN CONJ PREP
+recent	JJ
+decades	NN
+.	
+ 	
+The	ART CAP DET
+amount	NN
+of	PIN PREP
+antibiotics	NN
+manufactured	WZPAST
+from	PIN PREP
+1940	NUM
+increased	VBD
+significantly	RB
+due	PIN PREP
+to	PIN PREP
+its	PIT PRP SBJP
+wide	JJ
+use	NN
+in	PIN CONJ PREP
+humans	NN
+,	
+veterinary	JJ
+medicine	NN
+and	PHC CCONJ
+agroindustry	NN
+(	
+for	PIN PREP
+example	NN
+,	
+control	NN
+of	PIN PREP
+pests	NN
+and	PHC CCONJ
+plants	NN
+cloning	NN
+)	
+.	
+The	ART CAP DET
+release	NN
+of	PIN PREP
+these	DEMO DET
+drugs	NN
+in	PIN CONJ PREP
+the	ART DET
+environment	NOMZ
+can	POMD
+cause	INF
+the	ART DET
+bacteria	NN
+resistant	JJ
+and	PHC CCONJ
+physiological	JJ
+damage	NN
+for	PIN PREP
+the	ART DET
+populations	NOMZ
+,	
+even	RB
+in	PIN CONJ PREP
+low	JJ
+amounts	NN
+.	
+Already	RB CAP
+hormones	NN
+once	RB TIME
+administrated	
+,	
+has	VPRT PEAS
+released	
+part	NN
+of	PIN PREP
+it	PIT PRP SBJP
+by	PIN PREP
+through	PIN PREP
+the	ART DET
+urine	NN
+and/or	CCONJ
+faeces	NN
+,	
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+active	JJ
+form	NN
+,	
+causing	PGAS
+many	QUAN JJ
+environmental	JJ
+problems	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+feminization	NOMZ
+of	PIN PREP
+male	JJ
+fish	NN
+and	PHC CCONJ
+infertility	NOMZ
+that	DEMO DET
+environment	NOMZ
+.	
+ 	
+The	ART CAP DET
+search	NN
+for	PIN PREP
+multifunctional	JJ
+materials	NN
+has	VPRT PEAS
+increased	
+significantly	RB
+,	
+therefore	RB CONJ
+,	
+not	XX0 RB
+all	QUAN DET
+the	ART DET
+desired	SUAV
+characteristics	NN
+for	PIN PREP
+using	PGAS
+them	TPP3 PRP SBJP ACCU
+are	PASS VPRT AUXB
+found	PRIV
+in	PIN CONJ PREP
+a	ART DET INDA
+unique	JJ
+material	NN
+.	
+The	ART CAP DET
+organic	JJ
+-	
+inorganic	JJ
+hybrid	NN
+have	VPRT
+complementary	JJ
+properties	NN
+that	TSUB WHSUB WH
+are	PASS VPRT SPAU AUXB
+not	XX0 RB
+found	PRIV
+in	PIN CONJ PREP
+a	ART DET INDA
+unique	JJ
+substance	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS AUXB INF
+applied	
+in	PIN CONJ PREP
+several	QUAN JJ
+areas	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+these	DEMO DET
+materials	NN
+to	PIN TO PREP
+be	AUXB INF
+amphiphilics	NN
+,	
+have	VPRT
+good	JJ
+dispersion	NOMZ
+in	PIN CONJ PREP
+water	NN
+due	PIN PREP
+to	PIN PREP
+its	PIT PRP SBJP
+hydrophilic	JJ
+character	NN
+and	CCONJ
+good	JJ
+interaction	NOMZ
+with	PIN PREP
+organic	JJ
+compounds	NN
+due	JJ
+to	PIN PREP
+character	NN
+hydrophobic	NN
+.	
+ 	
+Carbon	CAP NNP
+is	VPRT AUXB
+one	NUM
+the	ART DET
+most	RB EMPH SPADJ
+versatile	JJ
+chemical	JJ
+elements	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+periodic	JJ
+table	NN
+,	
+due	PIN PREP
+to	PIN PREP
+the	ART DET
+type	NN
+,	
+strength	NN
+and	PHC CCONJ
+number	NN
+of	PIN PREP
+bond	NN
+that	TSUB WHSUB WH
+can	POMD
+form	INF
+with	PIN PREP
+many	QUAN JJ
+different	JJ
+elements	NOMZ
+.	
+The	ART CAP DET
+carbonaceous	JJ
+materials	NN
+are	BEMA VPRT AUXB
+available	JJ PRED
+in	PIN CONJ PREP
+a	ART DET INDA
+wide	JJ
+variety	NN
+of	PIN PREP
+forms	NN
+including	WZPRES PGAS
+graphite	NN
+,	
+diamond	NN
+,	
+fullerene	NN
+,	
+carbon	NN
+foam	NN
+,	
+activated	
+carbon	NN
+and	PHC CCONJ
+carbon	NN
+nanotubes	NN
+.	
+ 	
+Carbon	NN CAP
+nanotubes	NN
+have	VPRT PEAS
+been	PASS AUXB
+used	
+to	PIN TO PREP
+produce	INF
+hybrid	JJ
+composites	NN
+,	
+which	SERE WHQU DET WH
+are	PASS VPRT AUXB
+used	
+as	PIN CONJ PREP
+part	NN
+of	PIN PREP
+the	ART DET
+hydrophobic	JJ
+material	NN
+and	CCONJ
+the	ART DET
+matrix	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+used	
+in	PIN CONJ PREP
+the	ART DET
+synthesis	NN
+thereof	RB
+,	
+it	PIT PRP SBJP
+act	VPRT
+as	PIN CONJ PREP
+a	ART DET INDA
+hydrophobic	JJ
+part	NN
+.	
+The	ART CAP DET
+carbon	NN
+nanotubes	NN
+has	VPRT PEAS
+been	BEMA AUXB
+investigate	JJ PRED
+as	PIN CONJ PREP
+potential	JJ
+adsorbents	NN
+in	PIN CONJ PREP
+removing	PGAS
+contaminates	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+one	NUM
+studied	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+single	JJ
+-	
+way	NN
+carbon	NN
+nanotubes	NN
+were	BEMA VBD AUXB
+able	JJ PRED
+to	PIN TO PREP
+remove	INF
+phenanthrene	NN
+,	
+another	DET
+study	NN
+reported	VBD PUBV
+the	ART DET
+competitive	JJ
+sorption	NOMZ
+of	PIN PREP
+the	ART DET
+pyrene	NN
+,	
+phenanthrene	NN
+and	CCONJ
+naphthalene	JJ
+multiwall	NNP
+carbon	NN
+nanotube	NN
+.	
+ 	
+These	DEMO CAP DET
+materials	NN
+can	POMD
+be	PASS BYPA AUXB INF
+produced	
+by	PIN PREP
+different	JJ
+methods	NN
+such	JJ
+as	PIN CONJ PREP
+laser	NN
+ablation	NOMZ
+,	
+arc	NN
+discharge	NN
+and	PHC CCONJ
+chemical	NN
+vapor	NN
+deposition	NOMZ
+(	
+CVD	CAP NNP
+)	
+.	
+The	ART CAP DET
+laser	NN
+ablation	NOMZ
+and	PHC CCONJ
+arc	NN
+discharge	NN
+are	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+produced	
+either	DET
+single	JJ
+-	
+wall	NN
+nanotubes	NN
+and	CCONJ
+multi	JJ
+-	JJ
+walled	JJ
+nanotubes	NN
+,	
+but	CCONJ
+the	ART DET
+former	JJ
+is	BEMA VPRT AUXB
+unable	JJ PRED
+to	PIN TO PREP
+produce	INF
+carbon	NN
+nanotubes	NN
+on	PIN PREP
+a	ART DET INDA
+large	JJ
+scale	NN
+,	
+however	RB CONJ
+the	ART DET
+method	NN
+discharge	NN
+arc	NN
+produced	WZPAST
+on	PIN PREP
+a	ART DET INDA
+large	JJ
+scale	NN
+nanotubes	NN
+,	
+but	CCONJ
+simultaneously	RB TIME
+is	PASS VPRT AUXB
+produced	
+a	ART DET INDA
+large	JJ
+amount	NN
+of	PIN PREP
+carbon	NN
+structure	NN
+,	
+amorphous	JJ
+carbon	NN
+,	
+being	BEMA PRESP AUXB
+therefore	RB CONJ
+necessary	JJ
+purification	NOMZ
+.	
+ 	
+The	ART CAP DET
+CVD	CAP NNP
+process	NN
+is	VPRT AUXB
+gaining	PGAS
+importance	NN
+and	CCONJ
+is	PASS VPRT AUXB
+considered	PRIV
+the	ART DET
+most	RB EMPH SPADJ
+practical	JJ
+and	PHC CCONJ
+economical	JJ
+method	NN
+for	PIN PREP
+the	ART DET
+production	NOMZ
+of	PIN PREP
+carbon	NN
+nanotubes	NN
+on	PIN PREP
+a	ART DET INDA
+large	JJ
+scale	NN
+.	
+Different	JJ CAP
+compounds	NN
+can	POMD
+be	PASS AUXB INF
+used	
+as	PIN CONJ PREP
+a	ART DET INDA
+carbon	NN
+source	NN
+for	PIN PREP
+the	ART DET
+synthesis	NN
+of	PIN PREP
+such	JJ
+nanostructures	NN
+.	
+CVD	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+process	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+one	NUM
+or	CCONJ
+more	JJ EMPH CMADJ
+precursors	NN
+are	PASS VPRT AUXB
+transported	
+through	PIN PREP
+the	ART DET
+vapor	NN
+phase	NN
+to	PIN PREP
+the	ART DET
+reaction	NOMZ
+site	NN
+,	
+usually	RB
+a	ART DET INDA
+tube	NN
+within	PIN PREP
+a	ART DET INDA
+furnace	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+heated	
+over	PIN PREP
+a	ART DET INDA
+Decomposes	CAP NNP
+matrix	NN
+.	
+ 	
+For	PIN CAP PREP
+the	ART DET
+formation	NOMZ
+of	PIN PREP
+nanotubes	NN
+,	
+the	ART DET
+presence	NN
+of	PIN PREP
+catalysts	NN
+,	
+generally	RB
+transition	NOMZ
+metals	NN
+,	
+dispersed	VBD
+on	PIN PREP
+the	ART DET
+support	NN
+is	PASS VPRT AUXB
+required	SUAV
+.	
+The	ART CAP DET
+catalyst	NN
+system	NN
+is	PASS VPRT BYPA AUXB
+prepared	
+by	PIN PREP
+precipitation	NOMZ
+of	PIN PREP
+metal	NN
+salts	NN
+or	CCONJ
+impregnation	NOMZ
+of	PIN PREP
+salts	NN
+of	PIN PREP
+the	ART DET
+catalysts	NN
+in	PIN CONJ PREP
+the	ART DET
+ceramic	JJ
+carrier	NN
+,	
+followed	PASTP
+by	PIN PREP
+calcination	NOMZ
+.	
+ 	
+In	PIN CONJ CAP PREP
+the	ART DET
+CVD	CAP NNP
+carbon	NN
+,	
+there	EX
+is	VPRT AUXB
+the	ART DET
+deposition	NOMZ
+of	PIN PREP
+carbonaceous	JJ
+structures	NN
+via	PIN PREP
+catalytic	JJ
+decomposition	NOMZ
+of	PIN PREP
+a	ART DET INDA
+volatile	JJ
+carbon	NN
+source	NN
+,	
+on	PIN PREP
+a	ART DET INDA
+thermally	RB
+stable	JJ
+support	NN
+with	PIN PREP
+the	ART DET
+formation	NOMZ
+of	PIN PREP
+some	QUAN DET
+gaseous	JJ
+by	PIN PREP
+products	NN
+that	TSUB WHSUB WH
+are	PASS VPRT AUXB
+expelled	
+out	PIN PREP
+of	PIN PREP
+the	ART DET
+tube	NN
+.	
+More	RB EMPH CAP CMADJ
+used	
+carbon	NN
+sources	NN
+include	VPRT
+carbon	NN
+monoxide	NN
+,	
+benzene	NN
+,	
+ethylene	NN
+,	
+methane	NN
+and	PHC CCONJ
+ethanol	NN
+.	
+The	ART CAP DET
+principal	JJ
+media	NN
+used	WZPAST
+are	VPRT AUXB
+silica	NNP
+,	
+magnesium	NN
+oxide	NN
+(	
+MgO	CAP NNP
+)	
+and	ANDC CCONJ
+alumina	NNP
+,	
+as	PIN CONJ PREP
+such	JJ
+materials	NN
+and	CCONJ
+are	BEMA VPRT AUXB
+thermally	RB
+stable	JJ
+have	VPRT
+large	JJ
+surface	NN
+areas	NN
+.	
+ 	
+Given	CAP
+this	DEMO DET
+context	NN
+,	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+concluded	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+obtaining	NN
+of	PIN PREP
+carbon	NN
+nanotubes	NN
+through	PIN PREP
+CVD	CAP NNP
+process	NN
+,	
+suggests	VPRT PUBV SUAV THATD
+an	ART DET INDA
+alternative	JJ
+route	NN
+organized	WZPAST
+as	PIN CONJ PREP
+carbon	NN
+nanotubes	NN
+and	CCONJ
+staggered	VBD
+and	CCONJ
+are	VPRT AUXB
+promising	PUBV THATD PGAS
+materials	NN
+obtained	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+removal	NN
+of	PIN PREP
+contaminants	NN
+from	PIN PREP
+aqueous	JJ
+solution	NOMZ
+emerging	WZPRES PGAS
+.	
+  	
+<	X
+References	NN CAP
+:>	NN
+ 	
+<	X
+Khetan	CAP NNP
+,	
+S.K.	CAP NNP
+and	PHC CCONJ
+T.J.	CAP NNP
+Collins	CAP NNP
+,	
+Human	CAP NNP
+Pharmaceuticals	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+Aquatic	CAP NNP
+Environment	CAP NNP
+:	
+?	QUES
+A	ART CAP DET INDA
+Challenge	NN CAP
+to	PIN PREP
+Green	CAP NNP
+Chemistry	CAP NNP
+.	
+Chemical	CAP NNP
+Reviews	CAP NNP
+,	
+2007	NUM
+.	
+107(6	NUM
+):	
+p.	NN
+2319	NUM
+-	
+2364	NUM
+.	
+>	X
+ 	
+<	X
+Ali	CAP NNP
+,	
+I.	CAP NNP
+,	
+New	CAP NNP
+Generation	CAP NNP
+Adsorbents	CAP NNP
+for	PIN PREP
+Water	CAP NNP
+Treatment	CAP NNP
+.	
+Chemical	CAP NNP
+Reviews	CAP NNP
+,	
+2012	NUM
+.	
+112(10	NUM
+):	
+p.	NN
+5073	NUM
+-	
+5091	NUM
+.	
+>	X
+ 	
+<	X
+Fernandes	CAP NNP
+,	
+A.N.G.	CAP NNP
+,	
+M.	CAP NNP
+;	
+Almeida	CAP NNP
+,	
+C.A.P.	CAP NNP
+;	
+Esteves	CAP NNP
+,	
+V.I.	CAP NNP
+;	
+Sierra	CAP NNP
+,	
+M.M.D.	CAP NNP
+;	
+Grassi	CAP NNP
+,	
+M.T.	CAP NNP
+,	
+Removal	CAP NNP
+of	PIN PREP
+the	ART DET
+hormones	NN
+17ß	NN
+-	
+estradiol	NN
+and	CCONJ
+17a	NNP
+-	
+ethinylestradiol	NN
+from	PIN PREP
+aqueous	JJ
+solutions	NOMZ
+employing	WZPRES PGAS
+a	ART DET INDA
+decomposed	
+peat	NN
+as	PIN CONJ PREP
+adsorbent	NN
+material	NN
+.	
+Química	CAP NNP
+Nova	CAP NNP
+,	
+2011	NUM
+.	
+34	NUM
+:	
+p.	NN
+1526	NUM
+-	
+1533	NUM
+.	
+>	X
+ 	
+<	X
+Joseph	CAP NNP
+,	
+L.	CAP NNP
+,	
+et	NNP
+al	NNP
+.	NNP
+,	
+Removal	CAP NNP
+of	PIN PREP
+bisphenol	NN
+A	CAP NNP
+and	PHC CCONJ
+17a	NNP
+-	
+ethinyl	NN
+estradiol	NN
+by	PIN PREP
+combined	JJ
+coagulation	NOMZ
+and	PHC CCONJ
+adsorption	NOMZ
+using	WZPRES PGAS
+carbon	NN
+nanomaterials	NN
+and	CCONJ
+powdered	
+activated	
+carbon	NN
+.	
+Separation	NOMZ CAP
+and	CCONJ
+Purification	CAP NNP
+Technology	CAP NNP
+,	
+2013	NUM
+.	
+107(0	NUM
+):	
+p.	NN
+37	NUM
+-	
+47	NUM
+.	
+>	X
+ 	
+<	X
+Jong	CAP NNP
+-	
+Hee	CAP NNP
+Park	CAP NNP
+,	
+T.S.S.	CAP NNP
+,	
+Chemical	CAP NNP
+Vapor	CAP NNP
+Deposition	CAP NNP
+.	
+Vol	CAP NNP
+.	NNP
+2	NUM
+.	NUM
+2001	NUM
+.	
+476	NUM
+.	
+>	X
+ 	
+<	X
+Serp	CAP NNP
+,	
+P.	CAP NNP
+,	
+P.	CAP NNP
+Kalck	CAP NNP
+,	
+and	ANDC CCONJ
+R.	CAP NNP
+Feurer	CAP NNP
+,	
+Chemical	CAP NNP
+Vapor	CAP NNP
+Deposition	CAP NNP
+Methods	CAP NNP
+for	PIN PREP
+the	ART DET
+Controlled	CAP NNP
+Preparation	CAP NNP
+of	PIN PREP
+Supported	CAP
+Catalytic	CAP NNP
+Materials	CAP NNP
+.	
+Chemical	CAP NNP
+Reviews	CAP NNP
+,	
+2002	NUM
+.	
+102(9	NUM
+):	
+p.	NN
+3085	NUM
+-	
+3128	NUM
+.	
+>	X
+ 	
+<	X
+Dresselhaus	CAP NNP
+,	
+M.S.	CAP NNP
+,	
+Dresselhaus	CAP NNP
+,	
+Gene	CAP NNP
+,	
+Avouris	CAP NNP
+,	
+Phaedon	CAP NNP
+,	
+Carbon	CAP NNP
+Nanotubes	CAP NNP
+:	
+Synthesis	CAP NNP
+,	
+Structure	NN CAP
+,	
+Properties	CAP NNP
+,	
+and	ANDC CCONJ
+Applications	CAP NNP
+,	
+Springer	CAP NNP
+-	
+Verlag	CAP NNP
+Berlin	CAP NNP
+Heidelberg	CAP NNP
+.	
+p.	NN
+448	NUM
+.	
+>	X
+ 	

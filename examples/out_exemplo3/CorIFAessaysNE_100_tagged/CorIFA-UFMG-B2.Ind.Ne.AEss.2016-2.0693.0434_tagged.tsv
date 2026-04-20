@@ -1,0 +1,546 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0693.0434.txt
+token	tags
+﻿	NNP
+    	
+Our	FPP1 CAP PRP SBJP
+World	CAP NNP
+is	VPRT AUXB
+facing	PGAS
+serious	JJ
+environmental	JJ
+problems	NN
+related	WZPAST
+to	PIN PREP
+climate	NN
+changes	NN
+and	CCONJ
+higher	JJ CMADJ
+global	JJ
+temperatures	NN
+.	
+The	ART CAP DET
+consequences	NN
+are	PASS VPRT AUXB
+reported	PUBV
+everyday	NN
+:	
+the	ART DET
+polar	JJ
+ice	NN
+caps	NN
+are	VPRT AUXB
+thawing	PGAS
+;	
+the	ART DET
+natural	JJ
+disasters	NN
+are	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+severe	JJ
+;	
+some	QUAN DET
+populations	NOMZ
+are	VPRT AUXB
+suffering	PGAS
+from	PIN PREP
+more	JJ EMPH CMADJ
+diseases	NN
+like	PIN PREP
+Cancer	NN CAP
+and	CCONJ
+respiratory	JJ
+syndromes	NN
+;	
+the	ART DET
+water	NN
+is	PASS VPRT BYPA AUXB
+being	PASS BYPA AUXB
+polluted	
+by	PIN PREP
+human	JJ
+waste	NN
+.	
+Photovoltaic	CAP NNP
+(	
+PV	NN CAP
+)	
+power	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+decentralized	JJ
+system	NN
+can	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+solution	NOMZ
+to	PIN PREP
+the	ART DET
+impacts	NN
+caused	WZPAST
+by	PIN PREP
+humans	NN
+when	RB WHSUB SCONJ WH
+generating	GER PGAS
+energy	NN
+from	PIN PREP
+large	JJ
+,	
+fossil	NN
+fuel	NN
+based	
+and	CCONJ
+centralized	JJ
+power	NN
+plants	NN
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+PV	NN CAP
+power	NN
+fuel	NN
+is	BEMA VPRT AUXB
+clean	JJ PRED
+and	PHC CCONJ
+renewable	JJ PRED
+(	
+sunlight	NN
+)	
+,	
+it	PIT PRP SBJP
+can	POMD
+be	PASS AUXB INF
+produced	
+close	RB
+to	PIN PREP
+the	ART DET
+consumers	NN
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+require	SUAV INF
+the	ART DET
+destruction	NOMZ
+of	PIN PREP
+large	JJ
+areas	NN
+for	PIN PREP
+constructing	GER PGAS
+a	ART DET INDA
+big	JJ
+power	NN
+plant	NN
+.	
+  	
+Most	JJ EMPH CAP SPADJ
+of	PIN PREP
+the	ART DET
+power	NN
+systems	NN
+are	PASS VPRT AUXB
+based	
+on	PIN PREP
+thermal	JJ
+plants	NN
+,	
+supplied	PASTP
+by	PIN PREP
+coal	NN
+,	
+gas	NN
+and	PHC CCONJ
+oil	NN
+.	
+Those	DEMO CAP DET
+fuels	NN
+are	BEMA VPRT AUXB
+environmentally	RB
+harmful	JJ
+within	PIN PREP
+all	QUAN DET
+their	TPP3 PRP SBJP
+value	NN
+chain	NN
+:	
+starting	PGAS
+from	PIN PREP
+their	TPP3 PRP SBJP
+extraction	NOMZ
+until	PIN PREP
+the	ART DET
+power	NN
+plants	NN
+emissions	NOMZ
+.	
+Thus	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+look	INF
+forward	RB
+energy	NN
+solutions	NOMZ
+that	TSUB WHSUB WH
+does	VPRT SPAU
+not	XX0 RB
+use	INF
+fossil	NN
+fuels	NN
+.	
+The	ART CAP DET
+PV	NN CAP
+energy	NN
+is	PASS VPRT BYPA AUXB
+produced	
+by	PIN PREP
+the	ART DET
+conversion	NOMZ
+of	PIN PREP
+sunlight	NN
+to	PIN PREP
+electric	JJ
+power	NN
+,	
+which	SERE DET WH
+means	VPRT PRIV THATD
+it	PIT PRP SBJP
+uses	VPRT
+a	ART DET INDA
+renewable	JJ
+,	
+clean	JJ
+and	PHC CCONJ
+abundant	JJ
+fuel	NN
+to	PIN TO PREP
+produce	INF
+an	ART DET INDA
+essential	JJ
+human	NN
+’s	
+resource	NN
+that	TSUB WHSUB WH
+is	VPRT AUXB
+electricity	NOMZ
+.	
+  	
+Moreover	RB CONJ CAP
+,	
+PV	NN CAP
+power	NN
+can	POMD
+be	PASS AUXB INF
+generated	
+in	PIN CONJ PREP
+a	ART DET INDA
+decentralized	JJ
+way	NN
+,	
+which	SERE DET WH
+means	VPRT PRIV THATD
+anyone	QUPR INPR
+can	POMD
+produce	INF
+his	TPP3 PRP SBJP
+own	JJ
+energy	NN
+.	
+People	NN CAP
+can	POMD
+buy	INF
+PV	NN CAP
+panels	NN
+and	CCONJ
+put	VBD
+them	TPP3 PRP SBJP ACCU
+on	PIN PREP
+their	TPP3 PRP SBJP
+roofs	NN
+,	
+becoming	PGAS
+prosumers	NN
+and	CCONJ
+protecting	GER PGAS
+themselves	TPP3 PRP SBJP ACCU
+from	PIN PREP
+market	NN
+volatilities	NN
+.	
+Even	RB CAP
+though	CONC PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+still	RB
+expensive	JJ
+,	
+PV	NN CAP
+panels	NN
+are	PASS VPRT AUXB
+used	
+to	PIN TO STPR PREP
+“	
+bring	INF
+light	NN
+”	
+to	PIN PREP
+many	QUAN JJ
+isolated	JJ
+and/or	CCONJ
+poor	JJ
+areas	NN
+,	
+for	PIN PREP
+example	NN
+,	
+remote	JJ
+communities	NN
+in	PIN CONJ PREP
+Amazonia	CAP NNP
+and	CCONJ
+underdeveloped	JJ
+countries	NN
+in	PIN CONJ PREP
+Africa	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+the	ART DET
+PV	CAP NNP
+technology	NN
+prevents	VPRT
+the	ART DET
+transmission	NOMZ
+losses	NN
+in	PIN CONJ PREP
+long	JJ
+distances	NN
+when	RB WHSUB SCONJ WH
+connected	
+directly	RB
+to	PIN PREP
+the	ART DET
+load	NN
+.	
+  	
+Furthermore	RB CONJ CAP
+,	
+PV	NN CAP
+systems	NN
+do	VPRT SPAU
+not	XX0 RB
+require	SUAV INF
+large	JJ
+areas	NN
+to	PIN TO PREP
+generate	INF
+power	NN
+,	
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+can	POMD
+be	PASS AUXB INF
+placed	
+on	PIN PREP
+existing	PGAS
+human	NN
+’s	
+areas	NN
+,	
+as	PIN CONJ PREP
+roofs	NN
+and	PHC CCONJ
+warehouses	NN
+.	
+Some	QUAN CAP DET
+scientists	NN
+are	VPRT SPAU AUXB
+even	RB
+developing	GER PGAS
+PV	NN CAP
+panels	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+installed	
+on	PIN PREP
+hydroelectric	JJ
+lakes	NN
+.	
+These	DEMP CAP DET
+prevent	VPRT
+the	ART DET
+destruction	NOMZ
+of	PIN PREP
+natural	JJ
+areas	NN
+to	PIN PREP
+the	ART DET
+construction	NOMZ
+of	PIN PREP
+dams	NN
+or	CCONJ
+large	JJ
+thermal	JJ
+plants	NN
+.	
+In	PIN CONJ CAP PREP
+Germany	CAP NNP
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+first	JJ
+PV	NN CAP
+power	NN
+producer	NN
+,	
+almost	DWNT RB
+all	QUAN DET
+the	ART DET
+solar	JJ
+energy	NN
+comes	VPRT
+from	PIN PREP
+rooftop	NN
+panels	NN
+.	
+  	
+Although	CONC PIN CAP SCONJ PREP
+these	DEMO DET
+benefits	NN
+,	
+some	QUAN DET
+scientists	NN
+and	PHC CCONJ
+politicians	NN
+do	VPRT SPAU
+not	XX0 RB
+support	INF
+PV	NN CAP
+power	NN
+.	
+They	TPP3 CAP PRP SBJP
+claim	VPRT PUBV THATD
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+expensive	JJ PRED
+,	
+less	RB CMADJ
+efficient	JJ
+than	PIN PREP
+conventional	JJ
+technologies	NN
+and	CCONJ
+,	
+more	RB EMPH CMADJ
+importantly	RB
+,	
+its	PIT PRP SBJP
+generation	NOMZ
+is	BEMA VPRT AUXB
+random	JJ PRED
+,	
+unpredictable	JJ
+and	PHC CCONJ
+uncontrollable	JJ
+.	
+These	DEMP CAP DET
+are	BEMA VPRT AUXB
+true	JJ
+concerns	NN
+,	
+indeed	RB
+,	
+but	CCONJ
+there	EX
+are	VPRT AUXB
+much	QUAN JJ
+research	NN
+related	WZPAST
+to	PIN PREP
+energy	NN
+storage	NN
+,	
+operational	JJ
+and	CCONJ
+control	NN
+technologies	NN
+,	
+ancillary	JJ
+capabilities	NN
+and	PHC CCONJ
+others	NN
+features	VPRT
+to	PIN TO PREP
+diminish	INF
+PV	NN CAP
+related	
+problems	NN
+.	
+  	
+Having	PEAS CAP PGAS
+said	VBD PUBV THATD
+these	DEMP DET
+,	
+PV	NN CAP
+power	NN
+should	NEMD
+be	BEMA AUXB INF
+a	ART DET INDA
+priority	NOMZ
+of	PIN PREP
+governments	NOMZ
+around	PIN PLACE PREP
+the	ART DET
+World	CAP NNP
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+can	POMD
+generate	INF
+energy	NN
+using	WZPRES PGAS
+clean	JJ
+and	PHC CCONJ
+inexhaustible	JJ
+fuel	NN
+,	
+preventing	GER PRESP PGAS
+us	FPP1 PRP SBJP ACCU
+from	PIN PREP
+an	ART DET INDA
+environmental	JJ
+collapse	NN
+,	
+it	PIT PRP SBJP
+can	POMD
+bring	INF
+people	NN
+self	NN
+-	
+sustainability	NOMZ
+,	
+it	PIT PRP SBJP
+can	POMD
+reduce	INF
+transmission	NOMZ
+losses	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+can	POMD
+prevent	INF
+the	ART DET
+destruction	NOMZ
+of	PIN PREP
+new	JJ
+areas	NN
+on	PIN PREP
+behalf	NN
+of	PIN PREP
+progress	NN
+.	
+ 	

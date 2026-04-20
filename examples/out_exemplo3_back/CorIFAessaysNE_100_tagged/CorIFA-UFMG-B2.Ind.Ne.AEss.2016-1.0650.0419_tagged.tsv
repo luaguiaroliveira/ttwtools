@@ -1,0 +1,627 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0650.0419.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+1.0650.0419	NNP
+>	
+   	
+The	ART CAP DET
+modern	JJ
+society	NN
+,	
+most	RB EMPH SPADJ
+notoriously	RB
+after	PIN PREP
+World	CAP NNP
+War	CAP NNP
+II	CAP NNP
+,	
+has	VPRT PEAS
+shown	PRIV
+an	ART DET INDA
+excessively	RB
+consumption	NOMZ
+behavior	NN
+.	
+This	DEMO CAP DET
+consumptive	JJ
+pattern	NN
+was	BEMA VBD AUXB
+extremely	AMP RB
+important	JJ
+for	PIN PREP
+the	ART DET
+economies	NN
+recover	VPRT
+after	PIN PREP
+that	DEMP DET
+,	
+mainly	RB
+on	PIN PREP
+those	DEMO DET
+from	PIN PREP
+capitalist	JJ
+block	NN
+of	PIN PREP
+countries	NN
+.	
+However	RB CONJ CAP
+,	
+for	PIN PREP
+each	QUAN DET
+behavioral	JJ
+movement	NOMZ
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+consequent	JJ
+result	NN
+.	
+The	ART CAP DET
+consumption	NOMZ
+leads	VPRT
+to	PIN PREP
+disposal	NN
+and	CCONJ
+its	PIT PRP SBJP
+consequential	JJ
+garbage	NN
+production	NOMZ
+increase	NN
+,	
+with	PIN PREP
+a	ART DET INDA
+noticeable	JJ
+effect	NN
+near	PIN PLACE PREP
+urban	JJ
+population	NOMZ
+concentration	NOMZ
+.	
+The	ART CAP DET
+international	JJ
+community	NOMZ
+already	RB
+perceive	VPRT PRIV
+that	PIN THVC SCONJ PREP
+this	DEMO DET
+consume	NN
+model	NN
+has	VPRT PEAS
+shown	PRIV
+unsustainable	JJ
+.	
+Countries	NN CAP
+around	PIN PLACE PREP
+the	ART DET
+world	NN
+are	VPRT AUXB
+adopting	PGAS
+recycling	NN
+programs	NN
+and	PHC CCONJ
+legislations	NOMZ
+as	PIN CONJ PREP
+way	NN
+to	PIN TO PREP
+minimize	INF
+the	ART DET
+effects	NN
+of	PIN PREP
+wasted	
+materials	NN
+.	
+In	PIN CONJ CAP PREP
+Brazil	CAP NNP
+the	ART DET
+most	RB EMPH SPADJ
+significant	JJ
+results	NN
+come	VPRT
+from	PIN PREP
+associations	NOMZ
+of	PIN PREP
+recyclable	JJ
+materials	NN
+collectors	NN
+(	
+i.e.	CONJ X
+ASMARE	CAP NNP
+-	
+Associação	CAP NNP
+dos	NN
+catadores	VPRT
+de	PIN PREP
+material	NN
+reciclável	NN
+)	
+.	
+Perhaps	RB CAP
+there	EX
+is	VPRT AUXB
+an	ART DET INDA
+enormous	JJ
+field	NN
+for	PIN PREP
+increasing	GER PGAS
+of	PIN PREP
+consciousness	NOMZ
+and	PHC CCONJ
+education	NOMZ
+environment	NOMZ
+policies	NN
+that	TSUB WHSUB WH
+can	POMD
+mitigate	INF
+more	RB EMPH CMADJ
+efficiently	RB
+the	ART DET
+problem	NN
+.	
+  	
+The	ART CAP DET
+consciousness	NOMZ
+level	NN
+of	PIN PREP
+Brazilians	CAP NNP
+population	NOMZ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+bellow	JJ PRED
+from	PIN PREP
+what	WH
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+tackle	INF
+a	ART DET INDA
+correct	JJ
+disposal	NN
+problem	NN
+.	
+Quick	JJ CAP
+television	NOMZ
+news	NN
+watching	WZPRES PGAS
+on	PIN PREP
+rainy	JJ
+periods	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+enough	JJ PRED
+to	PIN TO PREP
+observe	PRIV INF
+the	ART DET
+amount	NN
+of	PIN PREP
+floating	PGAS
+garbage	NN
+carried	WZPAST
+by	PIN PREP
+the	ART DET
+rain	NN
+,	
+what	WHQU WH
+is	BEMA VPRT AUXB
+a	ART DET INDA
+strong	JJ
+evidence	NN
+of	PIN PREP
+opportunities	NN
+to	PIN PREP
+government	NOMZ
+improvements	NOMZ
+on	PIN PREP
+environmental	JJ
+education	NOMZ
+policies	NN
+.	
+Research	NN CAP
+and	PHC CCONJ
+articles	NN
+about	PIN PREP
+environment	NOMZ
+education	NOMZ
+[	X
+1	NUM
+]	
+started	VBD
+at	PIN PREP
+early	RB TIME
+90	NUM
+,	
+although	CONC PIN SCONJ PREP
+in	PIN CONJ PREP
+small	JJ
+number	NN
+and	PHC CCONJ
+publishing	GER
+.	
+  	
+By	PIN CAP PREP
+another	DET
+hand	NN
+,	
+the	ART DET
+catchers	NN
+of	PIN PREP
+recyclable	JJ
+materials	NN
+have	VPRT PEAS
+contributed	
+for	PIN PREP
+avoiding	PGAS
+an	ART DET INDA
+even	RB
+worst	JJ SPADJ
+country	NN
+scene	NN
+.	
+With	PIN CAP PREP
+an	ART DET INDA
+undeniable	JJ
+financial	JJ
+biased	JJ
+actuation	NOMZ
+,	
+they	TPP3 PRP SBJP
+prioritized	VBD
+materials	NN
+such	JJ
+as	PIN CONJ PREP
+aluminum	NN
+and	CCONJ
+PET	CAP NNP
+(	
+polyethylene	NN
+terephthalate	NN
+)	
+and	ANDC CCONJ
+some	QUAN DET
+papers	NN
+.	
+This	DEMO CAP DET
+procedure	NN
+circumscribes	VPRT
+the	ART DET
+recycling	NN
+process	NN
+,	
+wasting	PGAS
+good	JJ
+opportunities	NN
+for	PIN PREP
+a	ART DET INDA
+wide	JJ
+range	NN
+of	PIN PREP
+materials	NN
+.	
+In	PIN CONJ CAP PREP
+spite	NN
+of	PIN PREP
+its	PIT PRP SBJP
+importance	NN
+for	PIN PREP
+social	JJ
+income	NN
+distribution	NOMZ
+,	
+their	TPP3 PRP SBJP
+overall	JJ
+performance	NN
+could	POMD
+be	PASS BYPA AUXB INF
+improved	
+by	PIN PREP
+achieving	PGAS
+more	JJ EMPH CMADJ
+scholarship	NN
+.	
+An	ART CAP DET INDA
+example	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+concept	NN
+of	PIN PREP
+PET	CAP NNP
+just	RB EMPH
+associated	
+with	PIN PREP
+bottles	NN
+of	PIN PREP
+refrigerants	NN
+,	
+ignoring	PGAS
+many	QUAN JJ
+others	NN
+kind	RB
+of	PIN PREP
+applications	NOMZ
+for	PIN PREP
+this	DEMO DET
+material	NN
+.	
+Almost	DWNT RB CAP
+all	QUAN DET
+kind	NN HDG
+of	PIN PREP
+metals	NN
+are	BEMA VPRT AUXB
+subject	JJ PRED
+to	PIN PREP
+a	ART DET INDA
+recycling	NN
+process	NN
+,	
+but	CCONJ
+the	ART DET
+case	NN
+of	PIN PREP
+aluminum	NN
+recycling	NN
+poses	VPRT
+Brazil	CAP NNP
+in	PIN CONJ PREP
+a	ART DET INDA
+good	JJ
+position	NOMZ
+on	PIN PREP
+the	ART DET
+rank	NN
+of	PIN PREP
+countries	NN
+that	TSUB WHSUB WH
+recycle	VPRT
+it	PIT PRP SBJP
+.	
+  	
+Although	CONC PIN CAP SCONJ PREP
+its	PIT PRP SBJP
+long	JJ
+list	NN
+of	PIN PREP
+programs	NN
+and	PHC CCONJ
+actions	NOMZ
+[	X
+2	NUM
+,	
+3	NUM
+]	
+on	PIN PREP
+the	ART DET
+field	NN
+of	PIN PREP
+selective	JJ
+collection	NOMZ
+and	PHC CCONJ
+recycling	NN
+process	NN
+,	
+the	ART DET
+results	NN
+are	BEMA VPRT AUXB
+shy	JJ PRED
+for	PIN PREP
+a	ART DET INDA
+country	NN
+like	PIN PREP
+Brazil	CAP NNP
+,	
+most	JJ EMPH SPADJ
+of	PIN PREP
+it	PIT PRP SBJP
+due	JJ
+to	PIN PREP
+slowly	RB
+government	NOMZ
+actions	NOMZ
+.	
+The	ART CAP DET
+reversal	NN
+logistic	NN
+,	
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+producer	NN
+of	PIN PREP
+some	QUAN DET
+kind	NN HDG
+of	PIN PREP
+good	NN
+is	BEMA VPRT AUXB
+responsible	JJ PRED
+to	PIN TO PREP
+enhance	INF
+the	ART DET
+final	JJ
+level	NN
+of	PIN PREP
+waste	NN
+destination	NOMZ
+,	
+is	BEMA VPRT AUXB
+still	RB
+incipient	JJ
+.	
+The	ART CAP DET
+most	RB EMPH SPADJ
+known	PRIV
+program	NN
+just	RB EMPH
+applies	VPRT
+to	PIN PREP
+batteries	NN
+but	CCONJ
+could	POMD SPAU
+also	RB
+be	BEMA AUXB INF
+to	PIN PREP
+tires	NN
+,	
+cars	NN
+,	
+electronics	NN
+etc	X
+..	
+This	DEMO CAP DET
+kind	NN HDG
+of	PIN PREP
+program	NN
+is	PASS VPRT BYPA AUXB
+spoiled	
+by	PIN PREP
+political	JJ
+and	PHC CCONJ
+corporative	JJ
+interest	NN
+,	
+reducing	PRESP PGAS
+even	RB
+more	RB EMPH CMADJ
+the	ART DET
+process	NN
+of	PIN PREP
+recycling	NN
+.	
+  	
+The	ART CAP DET
+problem	NN
+of	PIN PREP
+dealing	PGAS
+with	PIN PREP
+wasted	
+materials	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+complex	JJ PRED
+,	
+enrolling	PGAS
+different	JJ
+groups	NN
+of	PIN PREP
+interests	NN
+and	CCONJ
+economic	JJ
+issues	NN
+.	
+A	ART CAP DET INDA
+continuous	JJ
+increment	NOMZ
+of	PIN PREP
+government	NOMZ
+policies	NN
+for	PIN PREP
+environment	NOMZ
+education	NOMZ
+,	
+specially	RB
+applied	
+to	PIN PREP
+children	NN
+,	
+may	POMD SPAU
+absolutely	AMP RB
+produce	INF
+a	ART DET INDA
+better	JJ CMADJ
+scenario	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+long	JJ
+run	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+short	JJ
+time	NN
+the	ART DET
+reversal	NN
+logistic	NN
+seems	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+the	ART DET
+most	RB EMPH SPADJ
+effective	JJ
+solution	NOMZ
+,	
+despite	PIN SCONJ PREP
+of	PIN PREP
+economic	JJ
+implications	NOMZ
+and	PHC CCONJ
+conflict	NN
+of	PIN PREP
+interests	NN
+.	
+    	
+<	X
+References	NN CAP
+>	X
+ 	
+<	X
+[	X
+1]http://www.educadores.diaadia.pr.gov.br	NUM URL
+/	
+arquivos	NN
+/	
+File	CAP NNP
+/	
+marco2012	NNP
+/	
+biologia_artigos/10educacao_ambiental.pdf	NNP
+>	X
+ 	
+<	X
+[	X
+2]http://www.mma.gov.br	NUM URL
+/	
+cidades	NN
+-	
+sustentaveis	NN
+/	
+residuos	NN
+-	
+solidos	NN
+/	
+catadores	NN
+-	
+de	JJ
+-	JJ
+materiais	JJ
+-	
+reciclaveis	NNP
+/	
+reciclagem	NNP
+-	
+e	NN
+-	NN
+reaproveitamento	NN
+>	X
+ 	
+<	X
+[	X
+3]http://www.mma.gov.br	NUM URL
+/	
+port	NN
+/	
+gab	NNP
+/	
+asin	NNP
+/	
+ambp.html	NNP
+>	
+ 	

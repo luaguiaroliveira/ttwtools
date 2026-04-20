@@ -1,0 +1,1359 @@
+# filename: PS_Chemistry_Essay_3_0388e_tx.txt
+token	tags
+Liquid	JJ CAP
+chromatography	NN
+mass	NN
+spectrometry	NNP
+(	
+LCMS	CAP NNP
+)	
+is	BEMA VPRT AUXB
+a	ART DET INDA
+rapidly	RB
+growing	PGAS
+analytical	JJ
+technique	NN
+.	
+The	ART CAP DET
+combination	NOMZ
+of	PIN PREP
+two	NUM
+analytical	JJ
+techniques	NN
+provides	VPRT
+far	RB PLACE
+more	JJ EMPH CMADJ
+information	NOMZ
+than	PIN PREP
+using	PGAS
+each	QUAN DET
+separately	RB
+.	
+LCMS	CAP NNP
+can	POMD
+provide	INF
+a	ART DET INDA
+chromatographic	JJ
+trace	NN
+of	PIN PREP
+a	ART DET INDA
+sample	NN
+,	
+on	PIN PREP
+par	NN
+with	PIN PREP
+HPLC	CAP NNP
+,	
+along	PIN PREP
+with	PIN PREP
+the	ART DET
+mass	JJ
+spectra	NN
+of	PIN PREP
+each	QUAN DET
+fraction	NOMZ
+of	PIN PREP
+the	ART DET
+sample	NN
+.	
+This	DEMP CAP DET
+can	POMD
+provide	INF
+essential	JJ
+structural	JJ
+information	NOMZ
+on	PIN PREP
+compounds	NN
+in	PIN CONJ PREP
+the	ART DET
+sample	NN
+without	PIN PREP
+having	PGAS
+to	PIN TO PREP
+isolate	INF
+them	TPP3 PRP SBJP ACCU
+and	CCONJ
+analyse	INF
+them	TPP3 PRP SBJP ACCU
+separately	RB
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+aspects	NN
+of	PIN PREP
+LCMS	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+interface	NN
+between	PIN PREP
+the	ART DET
+liquid	JJ
+chromatograph	NN
+and	CCONJ
+the	ART DET
+mass	NN
+spectrometer	NN
+.	
+Mass	JJ CAP
+analysis	NN
+requires	VPRT SUAV
+the	ART DET
+analyte	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+gaseous	JJ
+ions	NN
+within	PIN PREP
+a	ART DET INDA
+vacuum	NN
+.	
+However	RB CONJ CAP
+,	
+liquid	JJ
+chromatography	NN
+requires	VPRT SUAV
+the	ART DET
+analyte	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+neutral	JJ PRED
+and	ANDC CCONJ
+in	PIN CONJ PREP
+solution	NOMZ
+at	PIN PREP
+atmospheric	JJ
+pressure	NN
+.	
+Therefore	RB CONJ CAP
+,	
+there	EX
+are	VPRT AUXB
+three	NUM
+main	JJ
+aspects	NN
+important	JJ
+to	PIN PREP
+each	QUAN DET
+type	NN
+of	PIN PREP
+LCMS	CAP NNP
+interface	NN
+:	
+evaporation	NOMZ
+,	
+pressure	NN
+reduction	NOMZ
+and	PHC CCONJ
+ionisation	NOMZ
+.	
+The	ART CAP DET
+evaporation	NOMZ
+of	PIN PREP
+the	ART DET
+eluent	NN
+from	PIN PREP
+the	ART DET
+LC	CAP NNP
+is	PASS VPRT AUXB
+required	SUAV
+to	PIN TO PREP
+convert	INF
+the	ART DET
+analyte	NN
+from	PIN PREP
+the	ART DET
+liquid	NN
+to	PIN PREP
+the	ART DET
+gas	NN
+phase	NN
+.	
+The	ART CAP DET
+pressure	NN
+reduction	NOMZ
+is	PASS VPRT AUXB
+required	SUAV
+to	PIN TO PREP
+create	INF
+the	ART DET
+low	JJ
+pressures	NN
+or	CCONJ
+vacuum	NN
+needed	
+.	
+Ionisation	NOMZ CAP
+converts	VPRT
+the	ART DET
+neutral	JJ
+analyte	NN
+molecules	NN
+to	PIN PREP
+ions	NN
+.	
+Different	JJ CAP
+interfaces	NN
+deal	VPRT
+with	PIN PREP
+these	DEMO DET
+three	NUM
+issues	NN
+in	PIN CONJ PREP
+different	JJ
+ways	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+different	JJ
+orders	SUAV NN
+,	
+with	PIN PREP
+each	QUAN DET
+with	PIN PREP
+its	PIT PRP SBJP
+own	JJ
+advantages	NN
+and	PHC CCONJ
+disadvantages	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+atmospheric	JJ
+pressure	NN
+chemical	NN
+ionisation	NOMZ
+(	
+APCI	CAP NNP
+)	
+,	
+particle	NN
+beam	NN
+(	
+PB	CAP NNP
+)	
+and	ANDC CCONJ
+thermospray	NN
+(	
+TS	CAP NNP
+)	
+.	
+R.	CAP NNP
+Willoughby	CAP NNP
+,	
+E.	CAP NNP
+Sheehan	CAP NNP
+,	
+S.	CAP NNP
+Mitrovich	CAP NNP
+,	
+A	ART CAP DET INDA
+Global	JJ CAP
+View	NN CAP
+of	PIN PREP
+LCMS	CAP NNP
+,	
+Global	CAP NNP
+View	CAP NNP
+Publishing	CAP NNP
+,	
+Pittsburgh	CAP NNP
+,	
+2nd	JJ
+edn	NNP
+.	NNP
+,	
+2002	NUM
+,	
+ch	NN
+.	NNP
+2	NUM
+,	
+pp	NNP
+.	
+60	NUM
+Figure	NN CAP
+1	NUM
+:	
+The	ART CAP DET
+interface	NN
+between	PIN PREP
+LC	CAP NNP
+and	PHC CCONJ
+MS	CAP NNP
+In	PIN CONJ CAP PREP
+Process	CAP NNP
+Chemistry	CAP NNP
+at	PIN PREP
+AstraZeneca	CAP NNP
+the	ART DET
+LCMS	CAP NNP
+instruments	NOMZ
+use	VPRT
+the	ART DET
+electrospray	NN
+(	
+ES	CAP NNP
+)	
+interface	NN
+.	
+Work	NN CAP
+by	PIN PREP
+John	CAP NNP
+Fenn	CAP NNP
+and	CCONJ
+colleagues	NN
+developed	VBD
+ES	CAP NNP
+for	PIN PREP
+commercial	JJ
+use	NN
+16	NUM
+years	NN
+ago	RB
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+has	VPRT PEAS
+increased	
+in	PIN CONJ PREP
+popularity	NOMZ
+ever	RB
+since	OSUB PIN SCONJ PREP
+due	PIN PREP
+to	PIN PREP
+its	PIT PRP SBJP
+ability	NOMZ
+to	PIN TO PREP
+ionise	INF
+a	ART DET INDA
+wide	JJ
+range	NN
+of	PIN PREP
+compounds	NN
+.	
+Its	PIT CAP PRP SBJP
+low	JJ
+energy	NN
+ionisation	NOMZ
+technique	NN
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+most	JJ EMPH SPADJ
+organic	JJ
+molecules	NN
+can	POMD
+be	PASS BYPA AUXB INF
+ionised	
+by	PIN PREP
+it	PIT PRP SBJP
+without	PIN PREP
+causing	PGAS
+major	JJ
+fragmentation	NOMZ
+,	
+so	RB
+a	ART DET INDA
+mass	NN
+ion	NN
+can	POMD
+be	PASS AUXB INF
+detected	
+.	
+It	PIT CAP PRP SBJP
+also	RB
+has	VPRT
+the	ART DET
+ability	NOMZ
+to	PIN TO PREP
+vaporise	INF
+large	JJ
+involatile	JJ
+molecules	NN
+that	TSUB WHSUB WH
+would	PRMD
+decompose	INF
+through	PIN PREP
+vaporisation	NOMZ
+by	PIN PREP
+heat	NN
+.	
+J.	CAP NNP
+B.	CAP NNP
+Fenn	CAP NNP
+,	
+M.	CAP NNP
+Mann	CAP NNP
+,	
+C.	CAP NNP
+K.	CAP NNP
+Meng	CAP NNP
+,	
+S.	CAP NNP
+F.	CAP NNP
+Wong	CAP NNP
+,	
+Mass	CAP NNP
+Spectrometry	CAP NNP
+Reviews	CAP NNP
+,	
+1990	NUM
+,	
+9	NUM
+,	
+37	NUM
+-	
+70	NUM
+ES	CAP NNP
+ionises	VPRT
+the	ART DET
+analyte	NN
+molecules	NN
+whilst	OSUB PIN SCONJ PREP
+still	RB
+in	PIN CONJ PREP
+solution	NOMZ
+,	
+vaporises	VPRT
+the	ART DET
+ions	NN
+and	ANDC CCONJ
+then	RB
+submits	VPRT PUBV
+them	TPP3 PRP SBJP ACCU
+to	PIN PREP
+a	ART DET INDA
+pressure	NN
+gradient	NN
+.	
+Ionisation	NOMZ CAP
+occurs	VPRT
+by	PIN PREP
+passing	PGAS
+the	ART DET
+analyte	NN
+solution	NOMZ
+through	PIN PREP
+a	ART DET INDA
+fine	JJ
+needle	NN
+with	PIN PREP
+a	ART DET INDA
+high	JJ
+electrical	JJ
+potential	NN
+.	
+The	ART CAP DET
+potential	NN
+is	PASS VPRT AUXB
+concentrated	
+at	PIN PREP
+the	ART DET
+tip	NN
+of	PIN PREP
+the	ART DET
+needle	NN
+,	
+causing	PRESP PGAS
+the	ART DET
+positively	RB
+charged	
+ions	NN
+to	PIN TO PREP
+accumulate	INF
+there	RB
+,	
+creating	PRESP PGAS
+a	ART DET INDA
+cone	NN
+-	
+like	JJ
+meniscus	NN
+,	
+called	VBD
+a	ART DET INDA
+"	QUOT
+Taylor	CAP NNP
+cone	NN
+"	QUOT
+.	
+Droplets	NN CAP
+of	PIN PREP
+the	ART DET
+solution	NOMZ
+are	PASS VPRT AUXB
+formed	
+when	RB SCONJ WH
+the	ART DET
+electrostatic	JJ
+forces	NN
+exceed	VPRT
+the	ART DET
+surface	NN
+tension	NOMZ
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+droplets	NN
+travel	VPRT
+down	PIN PREP
+the	ART DET
+pressure	NN
+gradient	JJ
+solvent	NN
+evaporates	VPRT
+from	PIN PREP
+the	ART DET
+droplet	NN
+,	
+causing	PRESP PGAS
+the	ART DET
+electrical	JJ
+field	NN
+strength	NN
+of	PIN PREP
+the	ART DET
+droplet	JJ
+surface	NN
+to	PIN TO PREP
+increase	INF
+.	
+Eventually	RB TIME CAP
+the	ART DET
+field	NN
+strength	NN
+will	PRMD
+reach	INF
+the	ART DET
+Rayleigh	CAP NNP
+instability	NOMZ
+limit	NN
+,	
+causing	PRESP PGAS
+the	ART DET
+droplet	NN
+to	PIN TO PREP
+explode	INF
+into	PIN PREP
+microdroplets	NN
+.	
+This	DEMO CAP DET
+process	NN
+is	PASS VPRT AUXB
+repeated	PUBV
+over	RB
+and	PHC CCONJ
+over	RB
+until	PIN PREP
+the	ART DET
+ions	NN
+are	BEMA VPRT AUXB
+completely	AMP RB
+desolvated	JJ
+and	ANDC CCONJ
+in	PIN CONJ PREP
+the	ART DET
+gaseous	JJ
+phase	NN
+.	
+However	RB CONJ CAP
+,	
+at	PIN PREP
+a	ART DET INDA
+critical	JJ
+field	NN
+strength	NN
+of	PIN PREP
+the	ART DET
+microdroplets	NN
+direct	JJ
+desorption	NOMZ
+of	PIN PREP
+ions	NN
+from	PIN PREP
+the	ART DET
+droplet	NN
+'s	
+surface	NN
+can	POMD
+occur	INF
+.	
+The	ART CAP DET
+gaseous	JJ
+ions	NN
+are	PASS VPRT SPAU AUXB
+then	RB
+sampled	
+into	PIN PREP
+the	ART DET
+mass	JJ
+analyser	NN
+.	
+S.	CAP NNP
+J.	CAP NNP
+Gaskell	CAP NNP
+,	
+Journal	CAP NNP
+of	PIN PREP
+Mass	CAP NNP
+Spectrometry	CAP NNP
+,	
+1997	NUM
+,	
+32	NUM
+,	
+677	NUM
+-	
+688	NUM
+W.	CAP NNP
+M.	CAP NNP
+A.	CAP NNP
+Niessen	CAP NNP
+,	
+A.	NN CAP
+P.	CAP NNP
+Tinke	CAP NNP
+,	
+Journal	CAP NNP
+of	PIN PREP
+Chromtography	CAP NNP
+A	CAP NNP
+,	
+1995	NUM
+,	
+703	NUM
+,	
+37	NUM
+-	
+57	NUM
+Figure	CAP NNP
+2	NUM
+:	
+Desolvation	NOMZ CAP
+of	PIN PREP
+analyte	NN
+ions	NN
+As	PIN CONJ CAP PREP
+with	PIN PREP
+interfaces	NN
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+different	JJ
+types	NN
+of	PIN PREP
+mass	JJ
+analysers	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+section	NOMZ
+mass	NN
+analysers	NN
+,	
+time	NN
+-	
+of	PIN STPR PREP
+-	
+flight	NN
+analysers	NN
+(	
+TOF	CAP NNP
+)	
+and	ANDC CCONJ
+ion	NN
+trap	NN
+mass	NN
+analysers	NN
+(	
+IT	CAP NNP
+)	
+.	
+The	ART CAP DET
+Process	CAP NNP
+Chemistry	CAP NNP
+LCMS	CAP NNP
+instruments	NOMZ
+generally	RB
+use	VPRT
+quadrupole	NN
+mass	NN
+analysers	NN
+.	
+A	ART CAP DET INDA
+quadrupole	NN
+mass	NN
+analyser	NN
+consists	VPRT
+of	PIN PREP
+four	NUM
+poles	NN
+that	TSUB WHSUB WH
+run	VPRT
+parallel	NN
+down	PIN PREP
+a	ART DET INDA
+central	JJ
+axis	NN
+.	
+Controlled	CAP
+voltages	NN
+are	PASS VPRT AUXB
+applied	
+to	PIN PREP
+opposite	JJ PIN PREP
+sets	NN
+of	PIN PREP
+poles	NN
+,	
+which	SERE DET WH
+interact	VPRT
+with	PIN PREP
+the	ART DET
+charges	NN
+on	PIN PREP
+the	ART DET
+ions	NN
+that	TSUB WHSUB WH
+pass	VPRT
+down	PIN PREP
+the	ART DET
+central	JJ
+axis	NN
+.	
+The	ART CAP DET
+voltages	NN
+are	PASS VPRT AUXB
+used	
+to	PIN TO PREP
+distinguish	INF
+a	ART DET INDA
+certain	JJ
+mass	NN
+-	
+to	PIN STPR PREP
+-	
+charge	NN
+ratio	NN
+(	
+m	NNP
+/	
+z	NN
+)	
+range	NN
+,	
+which	SERE DET WH
+creates	VPRT
+a	ART DET INDA
+mass	NN
+filter	NN
+.	
+Ions	NN CAP
+of	PIN PREP
+a	ART DET INDA
+too	RB
+low	JJ
+m	NN
+/	
+z	NN
+will	PRMD
+be	PASS AUXB INF
+attracted	
+to	PIN PREP
+one	NUM
+set	NN
+of	PIN PREP
+poles	NN
+&	CCONJ
+collide	INF
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Ions	NN CAP
+of	PIN PREP
+too	RB
+high	JJ
+an	ART DET INDA
+m	NN
+/	
+z	NN
+will	PRMD
+be	PASS AUXB INF
+attracted	
+to	PIN PREP
+the	ART DET
+opposite	JJ PIN PREP
+set	NN
+of	PIN PREP
+poles	NN
+.	
+Ions	NN CAP
+of	PIN PREP
+the	ART DET
+selected	
+m	NN
+/	
+z	NN
+will	PRMD
+pass	INF
+down	PIN PREP
+the	ART DET
+axis	NN
+to	PIN PREP
+the	ART DET
+detector	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+voltages	NN
+of	PIN PREP
+the	ART DET
+poles	NN
+can	POMD
+be	PASS AUXB INF
+changed	
+to	PIN PREP
+analyse	NNP
+different	JJ
+m	NNP
+/	
+z	NN
+range	NN
+,	
+only	DWNT RB
+one	NUM
+range	NN
+can	POMD
+be	PASS AUXB INF
+analysed	
+at	PIN PREP
+a	ART DET INDA
+time	NN
+.	
+R.	CAP NNP
+Willoughby	CAP NNP
+,	
+E.	CAP NNP
+Sheehan	CAP NNP
+,	
+S.	CAP NNP
+Mitrovich	CAP NNP
+,	
+A	ART CAP DET INDA
+Global	JJ CAP
+View	NN CAP
+of	PIN PREP
+LCMS	CAP NNP
+,	
+Global	CAP NNP
+View	CAP NNP
+Publishing	CAP NNP
+,	
+Pittsburgh	CAP NNP
+,	
+2nd	JJ
+edn	NNP
+.	NNP
+,	
+2002	NUM
+,	
+ch	NN
+.	NNP
+2	NUM
+,	
+pp	NNP
+.	
+50	NUM
+LCMS	CAP NNP
+plays	VPRT
+an	ART DET INDA
+important	JJ
+role	NN
+when	RB WHSUB SCONJ WH
+characterising	GER PGAS
+impurities	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+reaction	NOMZ
+.	
+Isolating	PRESP CAP PGAS
+the	ART DET
+impurities	NN
+to	PIN TO PREP
+acquire	INF
+NMR	CAP NNP
+spectra	NN
+would	PRMD
+require	SUAV INF
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+resource	NN
+,	
+compared	PASTP
+to	PIN PREP
+running	PGAS
+a	ART DET INDA
+reaction	NOMZ
+sample	NN
+on	PIN PREP
+an	ART DET INDA
+LCMS	JJ CAP
+instrument	NOMZ
+to	PIN TO PREP
+obtain	INF
+its	PIT PRP SBJP
+retention	NOMZ
+time	NN
+and	PHC CCONJ
+mass	NN
+.	
+The	ART CAP DET
+mass	NN
+spectrum	NN
+can	POMD SPAU
+also	RB
+be	PASS AUXB INF
+used	
+to	PIN TO PREP
+determine	PRIV SUAV INF
+other	JJ
+structural	JJ
+information	NOMZ
+,	
+such	DET
+the	ART DET
+presence	NN
+of	PIN PREP
+heteroatoms	NN
+and	CCONJ
+certain	JJ
+functional	JJ
+groups	NN
+.	
+This	DEMO CAP DET
+information	NOMZ
+allows	VPRT SUAV
+for	PIN PREP
+a	ART DET INDA
+preliminary	JJ
+chemical	JJ
+structure	NN
+of	PIN PREP
+the	ART DET
+impurity	NOMZ
+to	PIN TO PREP
+be	PASS AUXB INF
+deduced	PRIV
+.	
+LCMS	CAP NNP
+has	VPRT PEAS SPAU
+also	RB
+been	BEMA AUXB
+instrumental	JJ PRED
+in	PIN CONJ PREP
+my	FPP1 PRP SBJP
+work	NN
+in	PIN CONJ PREP
+the	ART DET
+synthesis	NN
+of	PIN PREP
+impurities	NN
+.	
+Using	CAP PGAS
+LCMS	CAP NNP
+to	PIN TO PREP
+monitor	INF
+the	ART DET
+reaction	NOMZ
+I	FPP1 CAP PRP SBJP
+was	BEMA VBD AUXB
+able	JJ PRED
+to	PIN TO PREP
+determine	PRIV SUAV INF
+if	COND PIN SCONJ PREP
+I	FPP1 CAP PRP SBJP
+was	VBD AUXB
+producing	PGAS
+the	ART DET
+correct	JJ
+compound	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+useful	JJ
+than	PIN PREP
+HPLC	CAP NNP
+alone	RB
+,	
+as	PIN CONJ PREP
+the	ART DET
+reaction	NOMZ
+could	POMD
+have	PEAS INF
+been	AUXB
+producing	PGAS
+an	ART DET INDA
+undesired	JJ
+compound	NN
+with	PIN PREP
+the	ART DET
+same	JJ
+retention	NOMZ
+time	NN
+as	PIN CONJ PREP
+the	ART DET
+desired	SUAV
+one	NUM
+,	
+which	SERE WHQU DET WH
+would	PRMD
+lead	INF
+to	PIN PREP
+the	ART DET
+wrong	JJ
+conclusion	NOMZ
+about	PIN PREP
+the	ART DET
+synthesis	NN
+.	
+However	RB CONJ CAP
+,	
+using	PGAS
+LCMS	CAP NNP
+the	ART DET
+mass	NN
+spectrum	NN
+of	PIN PREP
+the	ART DET
+relevant	JJ
+peak	NN
+can	POMD
+be	PASS AUXB INF
+scrutinised	
+,	
+and	ANDC CCONJ
+the	ART DET
+compound	NN
+correctly	RB
+identified	
+.	
+LCMS	CAP NNP
+is	BEMA VPRT AUXB
+also	RB
+useful	JJ
+for	PIN PREP
+actually	RB
+determining	GER PRIV SUAV PGAS
+the	ART DET
+retention	NOMZ
+times	NN
+of	PIN PREP
+compounds	NN
+,	
+when	RB SCONJ WH
+using	PGAS
+a	ART DET INDA
+new	JJ
+LC	CAP NNP
+method	NN
+.	
+When	RB CAP SCONJ WH
+a	ART DET INDA
+reaction	NOMZ
+sample	NN
+is	PASS VPRT AUXB
+submitted	PUBV
+to	PIN PREP
+a	ART DET INDA
+new	JJ
+method	NN
+the	ART DET
+peaks	NN
+on	PIN PREP
+the	ART DET
+chromatogram	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS SPAU AUXB INF
+conclusively	RB
+assigned	
+to	PIN PREP
+any	QUAN DET
+compounds	NN
+without	PIN PREP
+knowledge	NN
+of	PIN PREP
+the	ART DET
+retention	NOMZ
+times	NN
+.	
+This	DEMP CAP DET
+requires	VPRT SUAV
+running	PGAS
+standards	NN
+of	PIN PREP
+the	ART DET
+compounds	NN
+on	PIN PREP
+the	ART DET
+LC	CAP NNP
+method	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+require	SUAV INF
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+time	NN
+.	
+However	RB CONJ CAP
+,	
+with	PIN PREP
+LCMS	CAP NNP
+the	ART DET
+mass	JJ
+ions	NN
+of	PIN PREP
+each	QUAN DET
+peak	NN
+are	BEMA VPRT AUXB
+available	JJ PRED
+so	PIN SCONJ PREP
+the	ART DET
+compounds	NN
+can	POMD
+be	PASS BYPA AUXB INF
+assigned	
+by	PIN PREP
+their	TPP3 PRP SBJP
+molecular	JJ
+masses	NN
+,	
+without	PIN PREP
+need	NN
+for	PIN PREP
+standards	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+also	RB
+useful	JJ
+when	RB SCONJ WH
+no	SYNE DET
+standard	NN
+has	VPRT PEAS
+been	PASS AUXB
+produced	
+of	PIN PREP
+a	ART DET INDA
+compound	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+way	NN
+LCMS	NN CAP
+saves	VPRT
+time	NN
+and	PHC CCONJ
+resource	NN
+.	
+Figure	NN CAP
+3	NUM
+:	
+A	ART CAP DET INDA
+mass	NN
+spectrum	NN
+of	PIN PREP
+an	ART DET INDA
+LC	CAP NNP
+chromatogram	NN
+peak	NN
+Throughout	PIN CAP PREP
+this	DEMO DET
+report	PUBV NN
+the	ART DET
+advantages	NN
+of	PIN PREP
+the	ART DET
+dual	JJ
+analysis	NN
+by	PIN PREP
+LCMS	CAP NNP
+have	VPRT PEAS
+been	PASS AUXB
+detailed	
+.	
+However	RB CONJ CAP
+,	
+this	DEMO DET
+analytical	JJ
+method	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+infallible	JJ
+.	
+It	PIT CAP PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+analyse	INF
+all	QUAN DET
+organic	JJ
+compounds	NN
+and	CCONJ
+has	VPRT
+the	ART DET
+same	JJ
+disadvantages	NN
+as	PIN CONJ PREP
+the	ART DET
+two	NUM
+individual	JJ
+methods	NN
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+LC	CAP NNP
+generally	RB
+uses	VPRT
+a	ART DET INDA
+UV	NN CAP
+detector	NN
+a	NN
+without	PIN PREP
+a	ART DET INDA
+UV	NN CAP
+chromaphore	NN
+will	PRMD SPAU
+not	XX0 RB
+appear	SMP INF
+on	PIN PREP
+the	ART DET
+chromatogram	NN
+.	
+Therefore	RB CONJ CAP
+its	PIT PRP SBJP
+retention	NOMZ
+time	NN
+is	BEMA VPRT AUXB
+unknown	JJ PRED
+,	
+along	PIN PREP
+with	PIN PREP
+the	ART DET
+location	NOMZ
+of	PIN PREP
+its	PIT PRP SBJP
+mass	NN
+spectrum	NN
+on	PIN PREP
+the	ART DET
+chromatogram	NN
+.	
+Also	RB CAP
+not	XX0 RB
+all	QUAN DET
+organic	JJ
+compounds	NN
+ionise	VPRT
+,	
+so	PIN SCONJ PREP
+they	TPP3 PRP SBJP
+may	POMD
+appear	SMP INF
+on	PIN PREP
+the	ART DET
+chromatogram	NN
+but	CCONJ
+only	DWNT RB
+have	VPRT
+background	NN
+noise	NN
+for	PIN PREP
+the	ART DET
+corresponding	JJ
+mass	NN
+spectrum	NN
+.	
+Also	RB CAP
+mass	INF
+analysis	NN
+measures	NN
+m	NN
+/	
+z	NN
+,	
+so	RB
+multiply	NN
+charged	
+compounds	NN
+will	PRMD
+have	INF
+a	ART DET INDA
+mass	JJ
+ion	NN
+at	PIN PREP
+an	ART DET INDA
+m	NN
+/	
+z	NN
+a	ART DET INDA
+fraction	NOMZ
+of	PIN PREP
+its	PIT PRP SBJP
+actual	JJ
+mass	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	BEMA AUXB INF
+misleading	JJ PRED
+if	COND PIN SCONJ PREP
+not	XX0 RB
+considered	PRIV
+.	
+However	RB CONJ CAP
+,	
+these	DEMO DET
+disadvantages	NN
+only	DWNT RB
+cover	VPRT
+a	ART DET INDA
+small	JJ
+percentage	NN
+of	PIN PREP
+compounds	NN
+that	TSUB WHSUB WH
+may	POMD
+require	SUAV INF
+analysis	NN
+.	
+Therefore	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+general	JJ
+LCMS	CAP NNP
+is	BEMA VPRT AUXB
+an	ART DET INDA
+extremely	AMP RB
+useful	JJ
+analytical	JJ
+tool	NN
+,	
+which	SERE WHQU DET WH
+will	PRMD SPAU
+no	RB
+doubt	RB PRIV
+continue	INF
+to	PIN TO PREP
+increase	INF
+in	PIN CONJ PREP
+popularity	NOMZ
+.	

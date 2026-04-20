@@ -1,0 +1,1378 @@
+# filename: SS_Anthropology_Essay_1_3098a_tx.txt
+token	tags
+Different	JJ CAP
+societies	NN
+have	VPRT
+different	JJ
+ways	NN
+of	PIN PREP
+seeing	PRIV PGAS
+the	ART DET
+world	NN
+.	
+People	NN CAP
+,	
+places	NN
+,	
+objects	PUBV NN
+and	PHC CCONJ
+situations	NOMZ
+are	PASS VPRT AUXB
+placed	
+in	PIN CONJ PREP
+categories	NN
+related	WZPAST
+to	PIN PREP
+appropriate	JJ
+behaviour	NN
+,	
+and	ANDC CCONJ
+how	RB WHQU SCONJ WH
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+categorised	
+is	BEMA VPRT AUXB
+unique	JJ PRED
+to	PIN PREP
+each	QUAN DET
+individual	JJ
+culture	NN
+.	
+WHR	CAP NNP
+Rivers	CAP NNP
+provided	VBD
+an	ART DET INDA
+excellent	JJ
+example	NN
+of	PIN PREP
+the	ART DET
+importance	NN
+of	PIN PREP
+understanding	GER PRIV PGAS
+the	ART DET
+classification	NOMZ
+systems	NN
+of	PIN PREP
+these	DEMO DET
+cultures	NN
+,	
+and	ANDC CCONJ
+how	RB SCONJ WH
+failing	PGAS
+to	PIN TO PREP
+do	PROD INF
+so	RB
+can	POMD
+lead	INF
+to	PIN PREP
+confusion	NOMZ
+.	
+The	ART CAP DET
+Primitive	CAP NNP
+Conception	CAP NNP
+of	PIN PREP
+Death	CAP NNP
+shows	VPRT PRIV
+how	RB WHCL SCONJ WH
+the	ART DET
+Melanesian	JJ CAP
+words	NN
+for	PIN STPR PREP
+"	QUOT
+dead	JJ
+"	QUOT
+and	ANDC CCONJ
+"	QUOT
+alive	JJ
+"	QUOT
+,	
+mate	NN
+and	CCONJ
+toa	INF
+,	
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+translated	
+into	PIN PREP
+Western	JJ CAP
+thinking	PRIV NN
+literally	RB
+.	
+The	ART CAP DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+some	QUAN DET
+Melanesian	JJ CAP
+people	NN
+carry	VPRT
+out	PIN PREP
+live	JJ
+burials	NN
+is	BEMA VPRT AUXB
+incomprehensible	JJ PRED
+unless	COND PIN SCONJ PREP
+we	FPP1 PRP SBJP
+understand	VPRT PRIV
+that	THVC DET
+mate	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+term	NN
+applied	WZPAST
+to	PIN PREP
+someone	QUPR INPR
+in	PIN CONJ PREP
+the	ART DET
+transitional	JJ
+state	PUBV NN
+of	PIN PREP
+dying	PGAS
+.	
+They	TPP3 CAP PRP SBJP
+are	VPRT AUXB
+not	XX0 RB
+yet	RB
+dead	JJ
+as	PIN CONJ PREP
+we	FPP1 PRP SBJP
+conceive	VPRT
+the	ART DET
+term	NN
+,	
+but	CCONJ
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+very	AMP RB
+ill	JJ
+or	CCONJ
+very	AMP RB
+old	JJ
+they	TPP3 PRP SBJP
+cease	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+toa	JJ PRED
+.	
+Classification	NOMZ CAP
+is	BEMA VPRT AUXB
+the	ART DET
+process	NN
+by	PIN PREP
+which	PIRE DET WH
+people	NN
+interpret	VPRT
+what	WH
+is	VPRT AUXB
+happening	PGAS
+around	PIN PLACE PREP
+them	TPP3 PRP SBJP ACCU
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+essential	JJ PRED
+to	PIN TO PREP
+set	INF
+all	QUAN DET
+observations	NOMZ
+of	PIN PREP
+a	ART DET INDA
+certain	JJ
+culture	NN
+within	PIN PREP
+this	DEMO DET
+context	NN
+.	
+The	ART CAP DET
+concepts	NN
+of	PIN PREP
+purity	NOMZ
+,	
+pollution	NOMZ
+and	PHC CCONJ
+taboo	NN
+can	POMD
+be	BEMA AUXB INF
+very	AMP RB
+useful	JJ
+for	PIN PREP
+understanding	GER PRIV PGAS
+a	ART DET INDA
+system	NN
+of	PIN PREP
+classification	NOMZ
+.	
+Besides	PIN CAP SCONJ PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+these	DEMO DET
+ideas	NN
+produce	VPRT
+observable	JJ
+behaviour	NN
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+rituals	NN
+,	
+they	TPP3 PRP SBJP
+can	POMD
+give	INF
+us	FPP1 PRP SBJP ACCU
+a	ART DET INDA
+good	JJ
+idea	NN
+about	PIN PREP
+the	ART DET
+boundaries	NN
+of	PIN PREP
+certain	JJ
+categories	NN
+.	
+The	ART CAP DET
+word	NN
+taboo	NN
+comes	VPRT
+from	PIN PREP
+the	ART DET
+Polynesian	JJ CAP
+tabu	NN
+,	
+which	SERE DET WH
+Franz	CAP NNP
+Steiner	CAP NNP
+took	VBD
+to	PIN TO PREP
+be	PASS AUXB INF
+comprised	
+of	PIN PREP
+two	NUM
+parts	NN
+,	
+ta	NNP
+,	
+"	QUOT
+to	PIN TO PREP
+mark	INF
+off	PIN STPR PREP
+"	QUOT
+and	ANDC CCONJ
+bu	UH
+,	
+meaning	PRIV PGAS
+"	QUOT
+thoroughly	AMP RB
+"	QUOT
+.	
+Many	QUAN JJ CAP
+anthropologists	NN
+have	VPRT PEAS
+suggested	PUBV SUAV
+that	PIN THVC SCONJ PREP
+taboo	JJ
+concepts	NN
+are	BEMA VPRT AUXB
+those	DEMP DET
+which	DET WH
+fall	VPRT
+outside	PIN PLACE PREP
+normal	JJ
+categories	NN
+.	
+Therefore	RB CONJ CAP
+,	
+many	QUAN JJ
+taboos	NN
+are	PASS VPRT AUXB
+associated	
+with	PIN PREP
+people	NN
+in	PIN CONJ PREP
+liminal	JJ
+states	PUBV NN
+,	
+such	JJ
+as	PIN CONJ PREP
+initiates	NN
+to	PIN PREP
+manhood	NN
+,	
+or	CCONJ
+menstruating	GER PGAS
+women	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+Lynn	CAP NNP
+Bennett	CAP NNP
+,	
+in	PIN CONJ PREP
+the	ART DET
+Brahman	CAP NNP
+-	
+Chetri	CAP NNP
+culture	NN
+of	PIN PREP
+Narikot	CAP NNP
+,	
+Nepal	CAP NNP
+,	
+women	NN
+are	PASS VPRT AUXB
+forbidden	
+to	PIN TO PREP
+touch	INF
+adult	NN
+males	NN
+,	
+for	PIN PREP
+fear	PRIV NN
+of	PIN PREP
+the	ART DET
+contaminating	GER
+properties	NN
+of	PIN PREP
+menstrual	JJ
+blood	NN
+.	
+While	OSUB PIN CAP SCONJ PREP
+in	PIN CONJ PREP
+this	DEMO DET
+liminal	JJ
+state	PUBV NN
+,	
+women	NN
+are	PASS VPRT AUXB
+removed	
+from	PIN PREP
+society	NN
+and	CCONJ
+have	VPRT
+to	PIN TO PREP
+observe	PRIV INF
+certain	JJ
+purification	NOMZ
+rules	SUAV NN
+.	
+During	PIN CAP PREP
+this	DEMO DET
+time	NN
+they	TPP3 PRP SBJP
+are	PASS VPRT SPAU AUXB
+even	RB
+more	RB EMPH CMADJ
+downgraded	
+in	PIN CONJ PREP
+status	NN
+than	PIN PREP
+normal	JJ
+,	
+and	ANDC CCONJ
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+sense	PRIV NN
+of	PIN PREP
+sin	NN
+attached	WZPAST
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Taboos	NN CAP
+can	POMD SPAU
+also	RB
+be	PASS AUXB INF
+interpreted	
+as	PIN CONJ PREP
+holding	PRIV PGAS
+up	PIN PREP
+precarious	JJ
+political	JJ
+systems	NN
+.	
+Supernatural	JJ CAP
+power	NN
+inhabits	VPRT
+those	DEMO DET
+of	PIN PREP
+high	JJ
+social	JJ
+status	NN
+,	
+thus	RB CONJ
+making	PGAS
+them	TPP3 PRP SBJP ACCU
+dangerous	JJ
+to	PIN TO PREP
+lower	JJ CMADJ
+ranks	NN
+and	CCONJ
+vice	RB
+versa	RB
+.	
+The	ART CAP DET
+strict	JJ
+Hindu	CAP NNP
+caste	NN
+system	NN
+is	PASS VPRT BYPA AUXB
+enforced	
+by	PIN PREP
+notions	NOMZ
+about	PIN PREP
+the	ART DET
+polluting	PGAS
+nature	NN
+of	PIN PREP
+lower	JJ CMADJ
+castes	NN
+.	
+The	ART CAP DET
+highest	JJ SPADJ
+group	NN
+,	
+the	ART DET
+Brahman	CAP NNP
+are	PASS VPRT AUXB
+held	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+the	ART DET
+purest	JJ SPADJ
+and	CCONJ
+the	ART DET
+pani	NN
+na	PIN PREP
+caln	NNP
+,	
+the	ART DET
+untouchables	NN
+,	
+are	VPRT AUXB
+defiling	PGAS
+for	PIN PREP
+any	QUAN DET
+high	JJ
+caste	NN
+who	WHSUB WH
+come	VPRT
+into	PIN PREP
+contact	NN
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+A	ART CAP DET INDA
+symbolic	JJ
+expression	NOMZ
+of	PIN PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+giving	NN
+of	PIN PREP
+dal	NN
+-	
+bhat	NNP
+,	
+a	ART DET INDA
+ritually	RB
+significant	JJ
+staple	JJ
+food	NN
+made	WZPAST
+from	PIN PREP
+lentils	NN
+and	PHC CCONJ
+rice	NN
+.	
+Dal	CAP NNP
+-	
+Bhat	CAP NNP
+would	PRMD SPAU
+never	RB
+be	PASS BYPA AUXB INF
+accepted	PRIV
+by	PIN PREP
+a	ART DET INDA
+Brahman	CAP NNP
+from	PIN PREP
+a	ART DET INDA
+lower	JJ CMADJ
+class	NN
+unless	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+fried	
+in	PIN CONJ PREP
+butter	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+purify	INF
+it	PIT PRP SBJP
+.	
+A	ART CAP DET INDA
+Brahman	CAP NNP
+who	WH
+accidentally	RB
+comes	VPRT
+into	PIN PREP
+contact	NN
+with	PIN PREP
+an	ART DET INDA
+untouchable	JJ
+,	
+whether	PIN SCONJ PREP
+directly	RB
+or	CCONJ
+indirectly	RB
+must	NEMD
+be	PASS AUXB INF
+cleaned	
+with	PIN PREP
+pure	JJ
+water	NN
+.	
+The	ART CAP DET
+idea	NN
+of	PIN PREP
+purification	NOMZ
+is	BEMA VPRT AUXB
+central	JJ PRED
+to	PIN PREP
+the	ART DET
+Hindu	CAP NNP
+world	NN
+view	NN
+.	
+To	PIN TO CAP PREP
+understand	PRIV INF
+this	DEMO DET
+we	FPP1 PRP SBJP
+must	NEMD
+understand	PRIV INF
+a	ART DET INDA
+little	JJ
+about	PIN PREP
+the	ART DET
+context	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+ideas	NN
+of	PIN PREP
+pollution	NOMZ
+are	PASS VPRT AUXB
+held	PRIV
+.	
+To	PIN CAP PREP
+Hindus	CAP NNP
+,	
+the	ART DET
+world	NN
+is	BEMA VPRT AUXB
+full	JJ PRED
+of	PIN PREP
+mutually	RB
+opposing	JJ
+concepts	NN
+.	
+Highly	AMP RB CAP
+important	JJ
+are	BEMA VPRT AUXB
+the	ART DET
+religious	JJ
+notions	NOMZ
+of	PIN PREP
+samsara	NNP
+and	CCONJ
+mukti	NN
+.	
+Samsara	CAP NNP
+refers	VPRT
+to	PIN PREP
+all	QUAN DET
+earthly	JJ
+human	JJ
+affairs	NN
+,	
+a	ART DET INDA
+condition	NOMZ
+held	PRIV WZPAST
+to	PIN TO PREP
+be	BEMA AUXB INF
+highly	AMP RB
+unstable	JJ
+and	CCONJ
+effectively	RB
+a	ART DET INDA
+delusion	NOMZ
+of	PIN PREP
+subjective	JJ
+consciousness	NOMZ
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+Nepalese	JJ CAP
+villagers	NN
+explained	VBD PUBV
+to	PIN PREP
+Bennett	CAP NNP
+it	PIT PRP SBJP
+is	VPRT AUXB
+"	QUOT
+an	ART DET INDA
+unending	JJ
+and	PHC CCONJ
+trustworthy	JJ
+fluctuation	NOMZ
+between	PIN PREP
+different	JJ
+physical	JJ
+,	
+emotional	JJ
+,	
+ritual	JJ
+,	
+social	JJ
+,	
+and	ANDC CCONJ
+economic	JJ
+states	PUBV NN
+.	
+"	QUOT
+Therefore	RB CONJ CAP
+the	ART DET
+concept	NN
+of	PIN PREP
+samsara	NNP
+invades	VPRT
+all	QUAN DET
+parts	NN
+of	PIN PREP
+Hindu	CAP NNP
+society	NN
+,	
+as	PIN CONJ PREP
+does	VPRT PROD
+its	PIT PRP SBJP
+opposite	JJ PIN PREP
+mukti	NNP
+,	
+the	ART DET
+reward	NN
+of	PIN PREP
+the	ART DET
+enlightened	
+individual	NN
+who	WHSUB WH
+passes	VPRT
+to	PIN PREP
+a	ART DET INDA
+transcendental	JJ
+state	PUBV NN
+through	PIN PREP
+correct	JJ
+living	NN
+(	
+dharma	NN
+)	
+.	
+Samsara	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+state	PUBV NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+individual	NN
+constantly	RB
+swings	VPRT
+between	PIN PREP
+the	ART DET
+opposing	PGAS
+ideas	NN
+of	PIN PREP
+jutho	NN
+(	
+"	QUOT
+impurity	NOMZ
+"	QUOT
+)	
+and	ANDC CCONJ
+cokho	NNP
+(	
+"	QUOT
+purity	NOMZ
+"	QUOT
+)	
+.	
+Because	CAUS PIN CAP SCONJ PREP
+of	PIN PREP
+this	DEMO DET
+the	ART DET
+Hindu	CAP NNP
+is	PASS VPRT AUXB
+engaged	
+in	PIN CONJ PREP
+a	ART DET INDA
+constant	JJ
+battle	NN
+to	PIN TO PREP
+purify	INF
+his	TPP3 PRP SBJP
+or	CCONJ
+herself	TPP3 PRP SBJP ACCU
+,	
+especially	RB
+in	PIN CONJ PREP
+conjunction	NOMZ
+with	PIN PREP
+eating	NN
+and	PHC CCONJ
+copulation	NOMZ
+,	
+the	ART DET
+most	RB EMPH SPADJ
+tempting	JJ
+pleasures	NN
+of	PIN PREP
+the	ART DET
+flesh	NN
+.	
+However	RB CONJ CAP
+,	
+almost	DWNT RB
+all	QUAN DET
+everyday	JJ
+essential	JJ
+functions	NOMZ
+of	PIN PREP
+being	BEMA AUXB
+human	JJ PRED
+are	VPRT SPAU AUXB
+potentially	RB
+polluting	PGAS
+.	
+In	PIN CONJ CAP PREP
+relation	NOMZ
+to	PIN PREP
+eating	PGAS
+,	
+one	NUM
+necessary	JJ
+purification	NOMZ
+ritual	JJ
+involves	VPRT
+cleaning	PGAS
+up	PIN PREP
+scraps	NN
+and	PHC CCONJ
+leftover	NN
+rice	NN
+with	PIN PREP
+a	ART DET INDA
+ball	NN
+of	PIN PREP
+cow	NN
+dung	NN
+.	
+The	ART CAP DET
+dung	NN
+of	PIN PREP
+the	ART DET
+cow	NN
+is	VPRT AUXB
+defiling	PGAS
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+a	ART DET INDA
+god	NNP
+,	
+but	CCONJ
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+a	ART DET INDA
+human	JJ
+being	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+relatively	RB
+safe	JJ
+,	
+and	ANDC CCONJ
+even	RB
+a	ART DET INDA
+Brahman	CAP NNP
+can	POMD
+wash	INF
+his	TPP3 PRP SBJP
+body	NN
+with	PIN PREP
+it	PIT PRP SBJP
+for	PIN PREP
+ritual	JJ
+cleansing	NN
+.	
+We	FPP1 CAP PRP SBJP
+see	VPRT PRIV
+the	ART DET
+relation	NOMZ
+of	PIN PREP
+the	ART DET
+castes	NN
+expressed	VBD
+through	PIN PREP
+food	NN
+,	
+as	PIN CONJ PREP
+no	SYNE DET
+one	NN
+of	PIN PREP
+a	ART DET INDA
+lower	JJ CMADJ
+caste	NN
+than	PIN PREP
+any	QUAN DET
+member	NN
+of	PIN PREP
+a	ART DET INDA
+particular	JJ CONJ
+household	NN
+may	POMD
+enter	INF
+the	ART DET
+kitchen	NN
+area	NN
+for	PIN PREP
+fear	PRIV NN
+of	PIN PREP
+defiling	PGAS
+it	PIT PRP SBJP
+.	
+This	DEMO CAP DET
+pollution	NOMZ
+rules	SUAV NN
+could	POMD
+be	PASS AUXB INF
+interpreted	
+as	PIN CONJ PREP
+an	ART DET INDA
+attempted	
+to	PIN TO PREP
+bring	INF
+some	QUAN DET
+unity	NOMZ
+to	PIN PREP
+the	ART DET
+chaotic	JJ
+world	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+we	FPP1 PRP SBJP
+all	QUAN DET
+live	VPRT
+.	
+As	PIN CONJ CAP PREP
+Mary	CAP NNP
+Douglas	CAP NNP
+wrote	VBD PUBV
+in	PIN CONJ PREP
+Purity	CAP NNP
+and	PHC CCONJ
+Danger	CAP NNP
+,	
+"	QUOT
+ideas	NN
+about	PIN PREP
+separating	GER PGAS
+,	
+purifying	NN
+,	
+demarcating	GER PGAS
+and	PHC CCONJ
+punishing	PGAS
+transgressions	NOMZ
+have	VPRT
+as	PIN CONJ PREP
+their	TPP3 PRP SBJP
+main	JJ
+function	NOMZ
+to	PIN TO PREP
+impose	INF
+system	NN
+on	PIN PREP
+an	ART DET INDA
+inherently	RB
+untidy	JJ
+system	NN
+.	
+"	QUOT
+The	ART CAP DET
+Hindu	CAP NNP
+can	POMD
+protect	INF
+his	TPP3 PRP SBJP
+or	CCONJ
+her	TPP3 PRP SBJP
+cokho	NNP
+,	
+hopefully	RB
+enough	RB
+to	PIN TO PREP
+obtain	INF
+mukti	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+an	ART DET INDA
+interesting	JJ
+insight	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+had	
+into	PIN PREP
+the	ART DET
+kinship	NN
+system	NN
+of	PIN PREP
+this	DEMO DET
+Nepalese	CAP NNP
+Hindu	CAP NNP
+community	NOMZ
+through	PIN PREP
+the	ART DET
+idea	NN
+of	PIN PREP
+purity	NOMZ
+.	
+One	CAP NUM
+way	NN
+of	PIN PREP
+determining	GER PRIV SUAV PGAS
+the	ART DET
+lineage	NN
+of	PIN PREP
+those	DEMO DET
+of	PIN PREP
+Brahman	CAP NNP
+or	CCONJ
+Chetri	JJ CAP
+caste	NN
+is	BEMA VPRT AUXB
+by	PIN PREP
+reference	NN
+to	PIN PREP
+the	ART DET
+gotra	NN
+he	TPP3 PRP SBJP
+or	CCONJ
+she	TPP3 PRP SBJP
+belongs	VPRT
+to	PIN STPR PREP
+.	
+The	ART CAP DET
+gotra	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+Hindu	CAP NNP
+agnatic	JJ
+unit	NN
+,	
+a	ART DET INDA
+group	NN
+bound	WZPAST
+together	RB
+by	PIN PREP
+shared	
+relation	NOMZ
+to	PIN PREP
+a	ART DET INDA
+particular	JJ CONJ
+mythological	JJ
+patrilineal	JJ
+ancestor	NN
+,	
+known	PASTP PRIV
+as	PIN CONJ PREP
+a	ART DET INDA
+rishi	NN
+.	
+The	ART CAP DET
+rishis	NN
+were	BEMA VBD AUXB
+exceptionally	RB
+pure	JJ
+sages	NN
+and	CCONJ
+to	PIN TO PREP
+have	INF
+one	NUM
+as	PIN CONJ PREP
+one	NUM
+'s	
+ancestor	NN
+suggests	VPRT PUBV SUAV
+a	ART DET INDA
+certain	JJ
+"	QUOT
+spiritual	JJ
+pedigree	NN
+"	QUOT
+.	
+As	PIN CONJ CAP PREP
+Bennett	CAP NNP
+writes	VPRT PUBV
+,	
+the	ART DET
+rishi	NN
+"	QUOT
+provide	INF
+conceptual	JJ
+basis	NN
+for	PIN PREP
+the	ART DET
+cherished	JJ
+ideas	NN
+of	PIN PREP
+patrilineal	JJ
+continuity	NOMZ
+and	PHC CCONJ
+purity	NOMZ
+of	PIN PREP
+descent	NN
+.	
+"	QUOT
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+taboo	NN
+resembling	GER WZPRES PGAS
+incest	NN
+rules	SUAV NN
+against	PIN PREP
+anyone	QUPR INPR
+marrying	WZPRES PGAS
+into	PIN PREP
+his	TPP3 PRP SBJP
+or	CCONJ
+her	TPP3 PRP SBJP
+own	JJ
+gotra	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+Bennett	CAP NNP
+'s	
+own	JJ
+translation	NOMZ
+of	PIN PREP
+the	ART DET
+Gorkha	CAP NNP
+Thar	CAP NNP
+Gotra	CAP NNP
+,	
+any	QUAN DET
+offspring	NN
+born	WZPAST
+to	PIN PREP
+an	ART DET INDA
+endogamous	JJ
+marriage	NN
+"	QUOT
+will	PRMD SPAU
+most	RB EMPH SPADJ
+certainly	RB
+be	AUXB INF
+one	NUM
+who	WH
+is	PASS VPRT AUXB
+accursed	
+.	
+"This	NNP
+is	BEMA VPRT AUXB
+an	ART DET INDA
+example	NN
+of	PIN PREP
+a	ART DET INDA
+pollution	NOMZ
+/	
+purity	NOMZ
+idea	NN
+defining	WZPRES PGAS
+and	PHC CCONJ
+highlighting	GER PGAS
+important	JJ
+classificatory	JJ
+boundaries	NN
+.	
+The	ART CAP DET
+term	NN
+taboo	NN
+can	POMD
+be	PASS AUXB INF
+applied	
+to	PIN PREP
+a	ART DET INDA
+broad	JJ
+range	NN
+of	PIN PREP
+ideas	NN
+in	PIN CONJ PREP
+any	QUAN DET
+society	NN
+,	
+and	ANDC CCONJ
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+grasp	INF
+precisely	RB
+.	
+What	WHQU CAP WH
+is	BEMA VPRT AUXB
+clear	JJ PRED
+however	RB CONJ
+is	BEMA VPRT AUXB
+that	PIN DEMP SCONJ PREP
+perceived	PRIV
+dangers	NN
+,	
+whether	PIN SCONJ PREP
+real	JJ
+or	CCONJ
+imaginary	JJ
+play	VPRT
+a	ART DET INDA
+highly	AMP RB
+important	JJ
+role	NN
+in	PIN CONJ PREP
+bracketing	GER PGAS
+off	PIN PREP
+sacred	JJ
+or	CCONJ
+unclean	JJ
+objects	PUBV NN
+.	
+To	PIN TO CAP PREP
+return	INF
+to	PIN PREP
+the	ART DET
+original	JJ
+source	NN
+of	PIN PREP
+the	ART DET
+word	NN
+,	
+the	ART DET
+Polynesian	JJ CAP
+meaning	PRIV NN
+is	BEMA VPRT AUXB
+unique	JJ PRED
+,	
+but	CCONJ
+there	EX
+are	VPRT AUXB
+parallels	NN
+with	PIN PREP
+many	QUAN JJ
+cultures	NN
+.	
+In	PIN CONJ CAP PREP
+Polynesia	CAP NNP
+there	EX
+seems	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+little	JJ
+differentiation	NOMZ
+between	PIN PREP
+the	ART DET
+concepts	NN
+of	PIN PREP
+sacredness	JJ
+and	PHC CCONJ
+ritual	JJ
+impurity	NOMZ
+however	RB CONJ
+,	
+the	ART DET
+"	QUOT
+constellation	NOMZ
+of	PIN PREP
+meaning	PRIV NN
+"	QUOT
+as	PIN CONJ PREP
+Steiner	CAP NNP
+puts	VPRT
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+similar	JJ PRED
+to	PIN PREP
+that	DEMO DET
+of	PIN PREP
+the	ART DET
+Nepalese	CAP NNP
+Hindus	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+opposition	NOMZ
+between	PIN PREP
+sacred	JJ
+and	PHC CCONJ
+profane	JJ
+.	
+Each	QUAN CAP DET
+category	NN
+is	VPRT AUXB
+polluting	PGAS
+to	PIN PREP
+the	ART DET
+other	JJ
+,	
+and	ANDC CCONJ
+so	RB EMPH
+sacred	JJ
+objects	PUBV NN
+(	
+which	SERE WHQU DET WH
+are	VPRT AUXB
+polluting	PGAS
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+profane	JJ
+ones	NN
+)	
+must	NEMD
+be	PASS AUXB INF
+fenced	
+off	PIN PREP
+and	CCONJ
+have	INF
+particular	JJ CONJ
+sanctions	NOMZ
+associated	WZPAST
+with	PIN PREP
+contact	NN
+.	
+Thus	RB CONJ CAP
+we	FPP1 PRP SBJP
+can	POMD
+see	PRIV INF
+how	RB WHCL SCONJ WH
+sexual	JJ
+division	NOMZ
+,	
+class	NN
+division	NOMZ
+,	
+moral	JJ
+ideals	NN
+and	CCONJ
+other	JJ
+such	JJ
+societal	JJ
+structures	NN
+can	POMD
+be	PASS AUXB INF
+maintained	PUBV
+.	
+This	DEMO CAP DET
+concept	NN
+of	PIN PREP
+opposing	PGAS
+sections	NOMZ
+of	PIN PREP
+human	JJ
+experience	NN
+is	PASS VPRT AUXB
+expressed	
+in	PIN CONJ PREP
+a	ART DET INDA
+myriad	NN
+of	PIN PREP
+ways	NN
+,	
+and	ANDC CCONJ
+one	NUM
+of	PIN PREP
+my	FPP1 PRP SBJP
+favourites	NN
+is	VPRT AUXB
+Hertz	CAP NNP
+'s	
+comparison	NN
+of	PIN PREP
+the	ART DET
+right	NN
+and	CCONJ
+left	JJ
+hand	NN
+,	
+in	PIN CONJ PREP
+which	PIRE DET WH
+he	TPP3 PRP SBJP
+suggested	VBD PUBV SUAV
+that	PIN THVC SCONJ PREP
+left	JJ
+-	
+handedness	NOMZ
+is	BEMA VPRT AUXB
+rare	JJ PRED
+,	
+not	XX0 RB
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+any	QUAN DET
+organic	JJ
+bias	NN
+,	
+but	CCONJ
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+a	ART DET INDA
+taboo	NN
+against	PIN PREP
+its	PIT PRP SBJP
+use	NN
+.	
+The	ART CAP DET
+dualistic	JJ
+nature	NN
+of	PIN PREP
+man	NN
+is	PASS VPRT BYPA AUXB
+symbolised	
+by	PIN PREP
+the	ART DET
+fencing	NN
+off	PIN PREP
+of	PIN PREP
+the	ART DET
+left	JJ
+hand	NN
+.	
+"	QUOT
+If	COND PIN CAP SCONJ PREP
+organic	JJ
+asymmetry	NN
+had	VBD PEAS SPAU
+not	XX0 RB
+existed	
+,	
+it	PIT PRP SBJP
+would	PRMD
+have	PEAS INF
+had	
+to	PIN TO PREP
+be	PASS AUXB INF
+invented	
+.	
+"	QUOT

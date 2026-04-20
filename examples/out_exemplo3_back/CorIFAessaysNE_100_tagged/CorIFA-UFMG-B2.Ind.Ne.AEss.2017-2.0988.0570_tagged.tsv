@@ -1,0 +1,948 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0988.0570.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2017	CAP NNP
+-	
+2.0988.0570	NUM
+>	X
+  	
+The	ART CAP DET
+traditional	JJ
+communities	NN
+land	NN
+demarcation	NOMZ
+has	VPRT PEAS SPAU
+always	RB
+been	BEMA AUXB
+an	ART DET INDA
+polemic	JJ
+theme	NN
+,	
+specially	RB
+in	PIN CONJ PREP
+Brazil	CAP NNP
+,	
+the	ART DET
+nation	NOMZ
+where	RB WHOBJ SCONJ WH
+the	ART DET
+traditional	JJ
+people	NN
+are	VPRT AUXB
+approximately	RB
+five	NUM
+million	NUM
+persons	NN
+,	
+according	PGAS
+to	PIN PREP
+the	ART DET
+United	CAP NNP
+Nations	CAP NNP
+Development	CAP NNP
+Program	CAP NNP
+.	
+The	ART CAP DET
+hydroelectric	JJ
+instalation	NOMZ
+and	CCONJ
+the	ART DET
+big	JJ
+farming	NN
+business	NOMZ
+are	BEMA VPRT AUXB
+the	ART DET
+most	RB EMPH SPADJ
+common	JJ
+complications	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+recognition	NOMZ
+of	PIN PREP
+traditional	JJ
+lands	NN
+,	
+like	PIN PREP
+in	PIN CONJ PREP
+the	ART DET
+case	NN
+of	PIN PREP
+the	ART DET
+Yudjá	CAP NNP
+people	NN
+,	
+located	PASTP
+in	PIN CONJ PREP
+two	NUM
+indigenous	JJ
+territorries	NN
+:	
+the	ART DET
+Paquiçamba	CAP NNP
+Indigenous	CAP NNP
+Land	CAP NNP
+and	CCONJ
+the	ART DET
+Xingu	CAP NNP
+Indigenous	CAP NNP
+Park	CAP NNP
+.	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+discourse	INF
+about	PIN PREP
+how	RB SCONJ WH
+these	DEMO DET
+populations	NOMZ
+are	PASS VPRT BYPA AUXB
+afected	
+by	PIN PREP
+the	ART DET
+Belo	CAP NNP
+Monte	CAP NNP
+hydroelectric	JJ
+for	PIN PREP
+three	NUM
+reasons	PRIV NN
+:	
+failure	NN
+by	PIN PREP
+the	ART DET
+company	NN
+in	PIN CONJ PREP
+complying	PGAS
+with	PIN PREP
+the	ART DET
+operator	NN
+plan	NN
+,	
+loud	JJ
+noises	NN
+and	PHC CCONJ
+explosions	NOMZ
+bordering	WZPRES PGAS
+the	ART DET
+Yudja	CAP NNP
+land	NN
+and	CCONJ
+the	ART DET
+change	NN
+of	PIN PREP
+the	ART DET
+river	NN
+flow	NN
+and	CCONJ
+its	PIT PRP SBJP
+ecosystem	NN
+.	
+  	
+The	ART CAP DET
+main	JJ
+cause	NN
+of	PIN PREP
+these	DEMO DET
+conflicts	NN
+is	BEMA VPRT AUXB
+the	ART DET
+refusal	NN
+of	PIN PREP
+indigenous	JJ
+communities	NN
+to	PIN TO PREP
+mvoe	INF
+from	PIN PREP
+their	TPP3 PRP SBJP
+lands	NN
+,	
+and	ANDC CCONJ
+this	DEMP DET
+occurs	VPRT
+in	PIN CONJ PREP
+reason	PRIV NN
+of	PIN PREP
+the	ART DET
+indigenous	JJ
+attatchmento	PIN PREP
+to	PIN PREP
+the	ART DET
+land	NN
+,	
+in	PIN CONJ PREP
+case	NN
+the	ART DET
+land	NN
+is	BEMA VPRT AUXB
+the	ART DET
+priority	NOMZ
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+their	TPP3 PRP SBJP
+cosmologies	NN
+,	
+in	PIN CONJ PREP
+according	PGAS
+to	PIN PREP
+Philippe	CAP NNP
+Descola	CAP NNP
+in	PIN CONJ PREP
+Les	CAP NNP
+Lances	CAP NNP
+Du	CAP NNP
+Crepuscule	CAP NNP
+or	CCONJ
+The	ART CAP DET
+Spears	CAP NNP
+of	PIN PREP
+Twilight	CAP NNP
+(	
+2006	NUM
+,	
+p.6	NN
+):	
+“	
+<	
+Whatever	CAP DET WH
+their	TPP3 PRP SBJP
+specific	JJ
+purpose	NN
+,	
+all	QUAN DET
+the	ART DET
+anent	NN
+(	
+songs	NN
+)	
+of	PIN PREP
+cultivation	NOMZ
+refer	NN
+,	
+in	PIN CONJ PREP
+one	NUM
+way	NN
+or	CCONJ
+another	DET
+,	
+to	PIN PREP
+Nunkui	CAP NNP
+.	
+She	TPP3 CAP PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+creator	NN
+and	PHC CCONJ
+owner	NN
+of	PIN PREP
+cultivated	
+plants	NN
+[	X
+...	X
+]	X
+>	
+”	
+.	
+Besides	PIN CAP SCONJ PREP
+the	ART DET
+Yudjá	CAP NNP
+conider	VPRT
+their	TPP3 PRP SBJP
+soil	NN
+as	PIN CONJ PREP
+sacred	JJ
+,	
+some	QUAN DET
+obstacles	NN
+arose	VBD
+for	PIN PREP
+the	ART DET
+excution	NOMZ
+of	PIN PREP
+the	ART DET
+hydroelectric	NN
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+mandatory	JJ
+requiremente	NN
+that	PIN STPR DEMP SCONJ PREP
+,	
+for	PIN PREP
+a	ART DET INDA
+work	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+built	
+,	
+it	PIT PRP SBJP
+must	NEMD
+be	PASS AUXB INF
+approved	
+and	PHC CCONJ
+receive	INF
+the	ART DET
+operating	PGAS
+license	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+construction	NOMZ
+company	NN
+responsable	JJ
+for	PIN PREP
+Belo	CAP NNP
+Monte	CAP NNP
+had	VBD PEAS SPAU
+not	XX0 RB
+complied	
+with	PIN PREP
+the	ART DET
+duty	NN
+of	PIN PREP
+receive	INF
+financerally	RB
+the	ART DET
+affected	JJ
+indigenous	JJ
+acording	NN
+to	PIN PREP
+the	ART DET
+Socio	CAP NNP
+-	
+Environmental	CAP NNP
+Institute	CAP NNP
+:	
+“	
+<	X
+The	ART CAP DET
+decision	NOMZ
+,	
+according	PGAS
+to	PIN PREP
+the	ART DET
+news	NN
+published	WZPAST
+on	PIN PREP
+the	ART DET
+website	NN
+of	PIN PREP
+the	ART DET
+Federal	CAP NNP
+Public	CAP NNP
+Ministry	CAP NNP
+,	
+is	BEMA VPRT AUXB
+due	JJ PRED
+to	PIN PREP
+the	ART DET
+noncomplience	NN
+of	PIN PREP
+with	PIN PREP
+the	ART DET
+condition	NOMZ
+that	TSUB WHSUB WH
+determined	VBD PRIV SUAV
+the	ART DET
+re	PIN NN PREP
+-	NN
+structuring	GER
+of	PIN PREP
+the	ART DET
+local	JJ
+FUNAI	NN CAP
+(	
+National	CAP NNP
+Fundation	CAP NNP
+of	PIN PREP
+Indigenous	CAP NNP
+)	
+to	PIN TO PREP
+serve	INF
+the	ART DET
+indigenous	JJ
+people	NN
+affected	WZPAST
+by	PIN PREP
+the	ART DET
+work	NN
+>	
+”	
+(	
+2016	NUM
+)	
+.	
+  	
+Another	CAP DET
+factor	NN
+that	TSUB WHSUB WH
+bothers	VPRT
+the	ART DET
+Yudjá	CAP NNP
+people	NN
+is	BEMA VPRT AUXB
+the	ART DET
+hungry	JJ
+caused	
+by	PIN PREP
+the	ART DET
+explosions	NOMZ
+close	JJ
+to	PIN PREP
+their	TPP3 PRP SBJP
+village	NN
+,	
+which	SERE DET WH
+kills	VPRT
+the	ART DET
+fishes	NN
+and	CCONJ
+scare	INF
+the	ART DET
+animals	NN
+in	PIN CONJ PREP
+the	ART DET
+surroundings	GER
+according	WZPRES PGAS
+to	PIN PREP
+the	ART DET
+Socio	CAP NNP
+-	
+Environmental	CAP NNP
+Institute	CAP NNP
+:	
+ 	
+According	CAP PGAS
+to	PIN PREP
+the	ART DET
+Atlas	CAP NNP
+of	PIN PREP
+Fishing	CAP NNP
+,	
+important	JJ
+fishing	NN
+áreas	NN
+were	PASS VBD AUXB
+extinguished	
+or	CCONJ
+compromised	
+with	PIN PREP
+the	ART DET
+beggining	NN
+of	PIN PREP
+the	ART DET
+construction	NOMZ
+of	PIN PREP
+Belo	CAP NNP
+Monte	CAP NNP
+,	
+due	JJ
+to	PIN PREP
+impacts	NN
+such	JJ
+as	PIN CONJ PREP
+artificial	JJ
+lighting	NN
+or	CCONJ
+construction	NOMZ
+sites	NN
+,	
+use	NN
+of	PIN PREP
+explosives	NN
+,	
+launching	PGAS
+or	CCONJ
+cofferdams	NN
+(	
+provisional	JJ
+river	NN
+bus	NN
+)	
+,	
+silting	PGAS
+of	PIN PREP
+watercouses	NN
+and	PHC CCONJ
+grounding	NN
+of	PIN PREP
+river	NN
+areas	NN
+.	
+With	PIN CAP PREP
+the	ART DET
+definitive	JJ
+riverblock	NN
+in	PIN CONJ PREP
+November	CAP NNP
+2015	NUM
+,	
+new	JJ
+impacts	NN
+have	VPRT PEAS
+been	AUXB
+forming	PGAS
+and	PHC CCONJ
+tend	VPRT
+to	PIN TO PREP
+worsen	INF
+due	PIN PREP
+to	PIN PREP
+decrease	NN
+in	PIN CONJ PREP
+river	NN
+flow	NN
+and	PHC CCONJ
+conflicts	NN
+in	PIN CONJ PREP
+fishing	NN
+areas	NN
+,	
+since	OSUB PIN SCONJ PREP
+many	QUAN JJ
+fisherman	NN
+who	WHSUB WH
+lost	VBD
+their	TPP3 PRP SBJP
+areas	NN
+in	PIN CONJ PREP
+Altamira	CAP NNP
+and	CCONJ
+other	JJ
+regions	NN
+are	VPRT AUXB
+advancing	PGAS
+to	PIN TO PREP
+fish	INF
+in	PIN CONJ PREP
+the	ART DET
+Indigenous	CAP NNP
+Land	CAP NNP
+,	
+generating	GER PGAS
+pressure	NN
+in	PIN CONJ PREP
+the	ART DET
+territory	NN
+.	
+(	
+ISA	CAP NNP
+,	
+2016	NUM
+)	
+  	
+Besides	PIN CAP SCONJ PREP
+all	QUAN DET
+the	ART DET
+social	JJ
+side	NN
+of	PIN PREP
+the	ART DET
+problem	NN
+,	
+there	EX
+is	VPRT AUXB
+an	ART DET INDA
+ecologycal	JJ
+side	NN
+,	
+that	DEMP WH
+consists	VPRT
+in	PIN CONJ PREP
+the	ART DET
+environmental	JJ
+problems	NN
+caused	WZPAST
+by	PIN PREP
+the	ART DET
+diversion	NOMZ
+of	PIN PREP
+the	ART DET
+Xingu	CAP NNP
+river	NN
+flow	NN
+,	
+for	PIN PREP
+example	NN
+the	ART DET
+displacement	NOMZ
+of	PIN PREP
+species	NN
+from	PIN PREP
+their	TPP3 PRP SBJP
+natural	JJ
+habitats	NN
+and	CCONJ
+the	ART DET
+delayy	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+reprodutive	JJ
+cycles	NN
+,	
+especially	RB
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+fishes	NN
+that	TSUB WHSUB WH
+depends	VPRT
+of	PIN PREP
+the	ART DET
+water	NN
+to	PIN TO PREP
+spawn	INF
+,	
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN TO PREP
+notice	PRIV INF
+in	PIN CONJ PREP
+the	ART DET
+Environmental	CAP NNP
+Impact	CAP NNP
+Report	PUBV CAP NNP
+:	
+ 	
+The	ART CAP DET
+Xingu	CAP NNP
+River	CAP NNP
+is	VPRT AUXB
+becoming	PGAS
+different	JJ
+along	PIN PREP
+the	ART DET
+way	NN
+,	
+within	PIN PREP
+the	ART DET
+Indirect	CAP NNP
+Influence	CAP NNP
+Area	CAP NNP
+.	
+From	PIN CAP PREP
+its	PIT PRP SBJP
+encounter	NN
+with	PIN PREP
+the	ART DET
+Amazon	CAP NNP
+River	CAP NNP
+to	PIN PREP
+the	ART DET
+village	NN
+of	PIN PREP
+Belo	CAP NNP
+Monte	CAP NNP
+,	
+the	ART DET
+Xingu	CAP NNP
+River	CAP NNP
+is	PASS VPRT BYPA AUXB
+influenced	
+by	PIN PREP
+the	ART DET
+tides	NN
+,	
+forming	PGAS
+islands	NN
+and	PHC CCONJ
+sand	NN
+banks	NN
+.	
+These	DEMO CAP DET
+environments	NOMZ
+are	BEMA VPRT AUXB
+important	JJ PRED
+for	PIN PREP
+the	ART DET
+reproduction	NOMZ
+of	PIN PREP
+Amazonian	CAP NNP
+turtles	NN
+.	
+The	ART CAP DET
+Xingu	CAP NNP
+river	NN
+pedals	NN
+-	
+important	JJ
+environments	NOMZ
+for	PIN PREP
+fish	NN
+such	JJ
+as	PIN CONJ PREP
+ornamental	JJ
+acaris	NN
+-	
+are	PASS VPRT AUXB
+located	
+between	PIN PREP
+the	ART DET
+village	NN
+of	PIN PREP
+Belo	CAP NNP
+Monte	CAP NNP
+and	CCONJ
+the	ART DET
+Paquiçamba	CAP NNP
+and	PHC CCONJ
+Arara	CAP NNP
+Indigenous	CAP NNP
+Lands	CAP NNP
+of	PIN PREP
+the	ART DET
+Volta	CAP NNP
+Grande	CAP NNP
+do	VPRT PROD
+Xingu	CAP NNP
+.	
+The	ART CAP DET
+rapids	NN
+and	PHC CCONJ
+channels	NN
+make	VPRT
+navigation	NOMZ
+more	RB EMPH CMADJ
+difficult	JJ
+in	PIN CONJ PREP
+this	DEMO DET
+part	NN
+of	PIN PREP
+the	ART DET
+river	NN
+.	
+From	PIN CAP PREP
+the	ART DET
+river	NN
+Bacajá	CAP NNP
+until	PIN PREP
+near	PIN PLACE PREP
+the	ART DET
+encounter	NN
+with	PIN PREP
+the	ART DET
+river	NN
+Iriri	CAP NNP
+,	
+the	ART DET
+Xingu	CAP NNP
+runs	VPRT
+more	RB EMPH CMADJ
+slowly	RB
+,	
+with	PIN PREP
+the	ART DET
+formation	NOMZ
+of	PIN PREP
+several	QUAN JJ
+islands	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+section	NOMZ
+of	PIN PREP
+the	ART DET
+river	NN
+,	
+near	PIN PLACE PREP
+the	ART DET
+Iriri	CAP NNP
+,	
+the	ART DET
+pedals	NN
+reappear	VPRT
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+Belo	CAP NNP
+Monte	CAP NNP
+AHE	CAP NNP
+Indirect	CAP NNP
+Influence	CAP NNP
+Area	CAP NNP
+,	
+the	ART DET
+rainy	JJ
+season	NN
+is	BEMA VPRT AUXB
+different	JJ PRED
+from	PIN PREP
+that	DEMO DET
+in	PIN CONJ PREP
+much	QUAN JJ
+of	PIN PREP
+the	ART DET
+country	NN
+.	
+The	ART CAP DET
+rains	NN
+occur	VPRT
+more	RB EMPH CMADJ
+in	PIN CONJ PREP
+the	ART DET
+months	NN
+of	PIN PREP
+January	CAP NNP
+to	PIN PREP
+April	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+dry	JJ
+period	NN
+,	
+the	ART DET
+amount	NN
+of	PIN PREP
+water	NN
+that	TSUB WHSUB WH
+flows	VPRT
+in	PIN CONJ PREP
+the	ART DET
+river	NN
+is	BEMA VPRT AUXB
+much	QUAN RB
+smaller	JJ CMADJ
+than	PIN PREP
+in	PIN CONJ PREP
+the	ART DET
+flood	NN
+(	
+on	PIN PREP
+average	JJ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+less	JJ PRED CMADJ
+than	PIN PREP
+5	NUM
+percent	NN
+of	PIN PREP
+the	ART DET
+amount	NN
+of	PIN PREP
+water	NN
+that	TSUB WHSUB WH
+normally	RB
+flows	VPRT
+through	PIN PREP
+the	ART DET
+Xingu	CAP NNP
+River	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+rainy	JJ
+season)(EIA	NNP
+RIMA	CAP NNP
+,	
+2009	NUM
+)	
+.	
+  	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+it	PIT PRP SBJP
+’s	VPRT
+possible	JJ
+to	PIN TO PREP
+reason	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+Belo	CAP NNP
+Monte	CAP NNP
+hydroelectric	JJ
+usin	NN
+is	VPRT AUXB
+affecting	PGAS
+directly	RB
+the	ART DET
+Yudjá	CAP NNP
+people	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+traditional	JJ
+eating	NN
+and	PHC CCONJ
+lifestyle	NN
+customs	NN
+and	CCONJ
+the	ART DET
+environment	NOMZ
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+balance	NN
+,	
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+the	ART DET
+reallocation	NOMZ
+is	BEMA VPRT AUXB
+not	XX0 RB
+an	ART DET INDA
+option	NOMZ
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+breaking	PGAS
+with	PIN PREP
+the	ART DET
+patrimonial	JJ
+and	PHC CCONJ
+ethical	JJ
+aspects	NN
+related	WZPAST
+to	PIN PREP
+the	ART DET
+indigenous	JJ
+group	NN
+.	
+Unfortunately	RB CAP
+,	
+due	PIN PREP
+to	PIN PREP
+the	ART DET
+politic	JJ
+and	PHC CCONJ
+economic	JJ
+interests	NN
+on	PIN PREP
+Belo	CAP NNP
+Monte	CAP NNP
+,	
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+this	DEMO DET
+question	NOMZ
+will	PRMD
+still	RB
+without	PIN PREP
+an	ART DET INDA
+acceptable	JJ
+answer	NN
+,	
+and	ANDC CCONJ
+a	ART DET INDA
+provision	NOMZ
+will	PRMD
+be	PASS AUXB INF
+taken	
+when	RB SCONJ WH
+the	ART DET
+water	NN
+drought	NN
+affects	VPRT
+the	ART DET
+high	JJ
+social	JJ
+levels	NN
+.	

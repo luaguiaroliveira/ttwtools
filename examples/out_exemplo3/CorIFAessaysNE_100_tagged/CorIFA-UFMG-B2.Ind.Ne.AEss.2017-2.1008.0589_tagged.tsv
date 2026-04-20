@@ -1,0 +1,547 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.1008.0589.txt
+token	tags
+﻿	NNP
+     	
+Brazil	CAP NNP
+has	VPRT
+a	ART DET INDA
+big	JJ
+territory	NN
+and	PHC CCONJ
+watersheds	NN
+with	PIN PREP
+a	ART DET INDA
+great	JJ
+amount	NN
+of	PIN PREP
+water	NN
+,	
+what	WH
+gives	VPRT
+us	FPP1 PRP SBJP ACCU
+a	ART DET INDA
+natural	JJ
+vocation	NOMZ
+in	PIN CONJ PREP
+producing	PGAS
+power	NN
+by	PIN PREP
+hydroelectric	NNP
+.	
+Along	PIN CAP PREP
+the	ART DET
+century	NN
+XXth	NN CAP
+,	
+big	JJ
+hydropower	NN
+plants	NN
+were	PASS VBD AUXB
+constructed	
+as	PIN CONJ PREP
+a	ART DET INDA
+political	JJ
+decision	NOMZ
+to	PIN TO PREP
+move	SUAV INF
+the	ART DET
+industries	NN
+and	CCONJ
+grow	INF
+the	ART DET
+cities	NN
+,	
+which	SERE DET WH
+demanded	VBD SUAV
+big	JJ
+investments	NOMZ
+and	CCONJ
+resulted	VBD
+in	PIN CONJ PREP
+big	JJ
+social	JJ
+and	PHC CCONJ
+environmental	JJ
+impacts	NN
+inherent	JJ
+to	PIN PREP
+big	JJ
+hydropowers	NN
+.	
+During	PIN CAP PREP
+the	ART DET
+last	JJ
+years	NN
+,	
+an	ART DET INDA
+alternative	NN
+based	WZPAST
+on	PIN PREP
+small	JJ
+power	NN
+plant	NN
+(	
+SHP	CAP NNP
+)	
+,	
+operating	PGAS
+as	PIN CONJ PREP
+run	
+-	
+of	PIN STPR PREP
+-	
+river	NN
+,	
+have	VPRT PEAS
+been	PASS AUXB
+emerged	
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+it	PIT PRP SBJP
+will	PRMD
+be	PASS AUXB INF
+discussed	
+the	ART DET
+advantages	NN
+and	PHC CCONJ
+disadvantages	NN
+of	PIN PREP
+building	PGAS
+few	QUAN JJ
+and	PHC CCONJ
+big	JJ
+or	CCONJ
+many	QUAN JJ
+and	PHC CCONJ
+small	JJ
+hydropower	NN
+plants	NN
+.	
+Particularities	NN CAP
+of	PIN PREP
+each	QUAN DET
+basin	NN
+and	CCONJ
+each	QUAN DET
+construction	NOMZ
+might	POMD
+be	AUXB INF
+taking	PGAS
+account	NN
+.	
+   	
+Big	JJ CAP
+hydropower	NN
+has	VPRT PEAS
+been	PASS AUXB
+considered	PRIV
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+a	ART DET INDA
+clean	JJ
+way	NN
+to	PIN TO PREP
+produce	INF
+power	NN
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+produces	VPRT
+much	QUAN JJ
+greenhouse	NN
+gas	NN
+,	
+as	PIN CONJ PREP
+coal	NN
+plants	NN
+do	VPRT PROD
+,	
+or	CCONJ
+needs	VPRT
+nuclear	JJ
+processes	NN
+,	
+what	WH
+generates	VPRT
+garbage	NN
+with	PIN PREP
+no	SYNE DET
+solutions	NOMZ
+.	
+Stimulated	PASTP CAP
+by	PIN PREP
+its	PIT PRP SBJP
+natural	JJ
+resources	NN
+and	CCONJ
+recent	JJ
+environmental	JJ
+issues	NN
+,	
+Brazil	CAP NNP
+has	VPRT PEAS
+constructed	
+many	QUAN JJ
+hydropower	JJ CMADJ
+plants	NN
+,	
+many	QUAN JJ
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+among	PIN PREP
+the	ART DET
+largest	JJ SPADJ
+of	PIN PREP
+the	ART DET
+world	NN
+.	
+Good	JJ CAP
+examples	NN
+of	PIN PREP
+that	DEMP DET
+are	BEMA VPRT AUXB
+the	ART DET
+hydroelectric	JJ
+powerplant	JJ
+Itaipu	CAP NNP
+Binacional	CAP NNP
+,	
+Altamira	CAP NNP
+,	
+Paulo	CAP NNP
+Afonso	CAP NNP
+and	PHC CCONJ
+Belo	CAP NNP
+Monte	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+big	JJ
+hydroelectric	NN
+usually	RB
+result	VPRT
+in	PIN CONJ PREP
+problems	NN
+related	WZPAST
+to	PIN PREP
+high	JJ
+costs	NN
+,	
+long	JJ
+time	NN
+construction	NOMZ
+and	CCONJ
+various	JJ
+social	JJ
+and	PHC CCONJ
+environmental	JJ
+impacts	NN
+.	
+  	
+Trying	CAP PGAS
+work	NN
+around	PIN PLACE PREP
+these	DEMO DET
+issues	NN
+,	
+SHP	CAP NNP
+have	VPRT PEAS
+been	PASS SPAU AUXB
+massively	RB
+stimulated	
+since	OSUB PIN SCONJ PREP
+the	ART DET
+beginning	NN
+of	PIN PREP
+the	ART DET
+XXIth	CAP NNP
+century	NN
+,	
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+usually	RB
+do	VPRT SPAU
+not	XX0 RB
+cause	INF
+so	RB EMPH
+many	QUAN JJ
+problems	NN
+,	
+although	CONC PIN SCONJ PREP
+they	TPP3 PRP SBJP
+do	VPRT SPAU
+not	XX0 RB
+produce	INF
+the	ART DET
+same	JJ
+quantity	NOMZ
+of	PIN PREP
+power	NN
+.	
+Therefore	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+build	INF
+dozens	NN
+times	NN
+more	JJ EMPH CMADJ
+SHP	NN CAP
+.	
+As	PIN CONJ CAP PREP
+an	ART DET INDA
+example	NN
+,	
+in	PIN CONJ PREP
+2017	NUM
+there	EX
+are	VPRT AUXB
+approximately	RB
+the	ART DET
+triple	NN
+of	PIN PREP
+hydropower	NN
+in	PIN CONJ PREP
+operation	NOMZ
+related	WZPAST
+to	PIN PREP
+2002	NUM
+,	
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+spread	
+all	QUAN RB
+over	PIN PREP
+the	ART DET
+country	NN
+.	
+These	DEMO CAP DET
+constructions	NOMZ
+can	POMD
+influence	INF
+fishes	NN
+’	
+reproduction	NOMZ
+,	
+the	ART DET
+transport	NN
+of	PIN PREP
+nutrient	NN
+and	PHC CCONJ
+sediments	NOMZ
+and	CCONJ
+modify	INF
+the	ART DET
+natural	JJ
+cycle	NN
+of	PIN PREP
+river	NN
+runoff	NN
+.	
+This	DEMP CAP DET
+might	POMD
+follows	VPRT
+other	JJ
+unknown	JJ
+environmental	JJ
+impacts	NN
+,	
+with	PIN PREP
+cumulative	JJ
+and	PHC CCONJ
+synergic	JJ
+bad	JJ
+effects	NN
+,	
+which	SERE WHQU DET WH
+must	NEMD
+be	PASS SPAU AUXB INF
+better	RB CMADJ
+studied	
+.	
+All	QUAN CAP DET
+of	PIN PREP
+these	DEMO DET
+impacts	NN
+are	PASS VPRT SPAU AUXB
+easily	RB
+observed	PRIV
+in	PIN CONJ PREP
+the	ART DET
+big	JJ
+hydrpowerplants	NN
+.	
+   	
+Studies	NN CAP
+have	VPRT PEAS
+been	PASS AUXB
+realized	PRIV
+around	PIN PLACE PREP
+the	ART DET
+world	NN
+to	PIN TO PREP
+investigate	INF
+the	ART DET
+characteristics	NN
+of	PIN PREP
+each	QUAN DET
+powerplant	JJ
+.	
+One	CAP NUM
+and	CCONJ
+another	DET
+way	NN
+of	PIN PREP
+production	NOMZ
+has	VPRT
+its	PIT PRP SBJP
+points	NN
+.	
+Some	QUAN CAP DET
+basins	NN
+are	BEMA VPRT AUXB
+extremely	AMP RB
+sensitive	JJ
+to	PIN PREP
+environmental	JJ
+changes	NN
+,	
+for	PIN PREP
+example	NN
+:	
+the	ART DET
+Pantanal	JJ CAP
+watershed	NN
+in	PIN CONJ PREP
+water	NN
+runoff	NN
+cycles	NN
+of	PIN PREP
+long	JJ
+period	NN
+,	
+nutrient	NN
+and	CCONJ
+sediment	JJ
+transport	NN
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+its	PIT PRP SBJP
+lateral	JJ
+and	PHC CCONJ
+longitudinal	JJ
+runoff	NN
+;	
+and	ANDC CCONJ
+Amazon	CAP NNP
+watershed	VBD
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+population	NOMZ
+that	TSUB WHSUB WH
+lives	VPRT
+in	PIN CONJ PREP
+function	NOMZ
+of	PIN PREP
+annual	JJ
+inundations	NOMZ
+.	
+One	CAP NUM
+and	CCONJ
+another	DET
+way	NN
+of	PIN PREP
+production	NOMZ
+has	VPRT
+its	PIT PRP SBJP
+points	NN
+,	
+and	ANDC CCONJ
+some	QUAN DET
+aspects	NN
+can	POMD
+be	PASS AUXB INF
+minimized	
+with	PIN PREP
+techniques	NN
+in	PIN CONJ PREP
+each	QUAN DET
+powerplant	JJ
+that	THAC WH
+could	POMD
+make	INF
+one	NUM
+more	RB EMPH CMADJ
+feasible	JJ
+than	PIN PREP
+other	JJ
+.	
+Considering	GER PRIV PRESP CAP PGAS
+the	ART DET
+peculiarities	NN
+of	PIN PREP
+plants	NN
+,	
+more	RB EMPH CMADJ
+important	JJ
+than	PIN PREP
+define	INF
+which	DET WH
+powerplant	JJ
+model	NN
+is	BEMA VPRT AUXB
+better	JJ PRED CMADJ
+in	PIN CONJ PREP
+a	ART DET INDA
+generic	JJ
+view	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+know	PRIV INF
+the	ART DET
+features	NN
+and	PHC CCONJ
+requirements	NOMZ
+of	PIN PREP
+each	QUAN DET
+basin	NN
+and	PHC CCONJ
+details	NN
+in	PIN CONJ PREP
+the	ART DET
+powerplants	NN
+’	
+operation	NOMZ
+to	PIN TO PREP
+meet	INF
+the	ART DET
+needs	NN
+.	
+More	JJ EMPH CAP CMADJ
+studies	NN
+have	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+done	PROD
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+basins	NN
+and	CCONJ
+the	ART DET
+generation	NOMZ
+of	PIN PREP
+power	NN
+therein	RB
+.	
+ 	

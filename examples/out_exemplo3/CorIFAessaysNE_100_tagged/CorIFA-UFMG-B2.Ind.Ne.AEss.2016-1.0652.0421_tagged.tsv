@@ -1,0 +1,561 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0652.0421.txt
+token	tags
+    	
+Human	JJ CAP
+being	NN
+is	BEMA VPRT AUXB
+completely	AMP RB
+reliant	JJ
+on	PIN PREP
+of	PIN PREP
+the	ART DET
+usage	NN
+of	PIN PREP
+water	NN
+,	
+in	PIN CONJ PREP
+Brazil	CAP NNP
+is	BEMA VPRT AUXB
+not	XX0 RB
+different	JJ
+,	
+but	CCONJ
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+surely	RB
+dependent	JJ
+on	PIN PREP
+their	TPP3 PRP SBJP
+water	NN
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+use	VPRT
+it	PIT PRP SBJP
+for	PIN PREP
+two	NUM
+main	JJ
+things	NN
+.	
+First	RB CAP
+,	
+is	BEMA VPRT AUXB
+for	PIN PREP
+the	ART DET
+trivial	JJ
+things	NN
+in	PIN CONJ PREP
+human	JJ
+lives	NN
+like	PIN PREP
+drinking	NN
+,	
+washing	NN
+,	
+taking	PGAS
+shower	NN
+,	
+etc	X
+.	X
+,	
+and	ANDC CCONJ
+second	RB
+for	PIN PREP
+generate	INF
+their	TPP3 PRP SBJP
+electric	JJ
+energy	NN
+.	
+More	JJ EMPH CAP CMADJ
+than	PIN PREP
+80	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+electricity	NOMZ
+generation	NOMZ
+is	PASS VPRT AUXB
+based	
+in	PIN CONJ PREP
+hydroelectric	NNP
+,	
+so	CCONJ
+if	COND PIN SCONJ PREP
+Brazil	CAP NNP
+have	VPRT
+a	ART DET INDA
+problem	NN
+with	PIN PREP
+the	ART DET
+rainfalls	NN
+or	CCONJ
+with	PIN PREP
+the	ART DET
+ground	NN
+waters	NN
+,	
+it	PIT PRP SBJP
+will	PRMD
+be	BEMA AUXB INF
+a	ART DET INDA
+disaster	NN
+.	
+Unfortunately	RB CAP
+,	
+Brazilians	CAP NNP
+do	VPRT SPAU
+not	XX0 RB
+care	INF
+about	PIN PREP
+their	TPP3 PRP SBJP
+water	NN
+,	
+this	DEMO DET
+source	NN
+were	BEMA VBD AUXB
+always	RB
+plenty	JJ
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Since	OSUB PIN CAP SCONJ PREP
+2014	NUM
+,	
+they	TPP3 PRP SBJP
+have	VPRT
+problems	NN
+with	PIN PREP
+their	TPP3 PRP SBJP
+water	NN
+reservoir	NN
+because	CAUS PIN SCONJ PREP
+rains	VPRT
+less	JJ CMADJ
+than	PIN PREP
+they	TPP3 PRP SBJP
+imagine	VPRT PRIV
+,	
+so	CCONJ
+the	ART DET
+government	NOMZ
+started	VBD
+doing	PROD PGAS
+some	QUAN DET
+programs	NN
+to	PIN TO PREP
+reduce	INF
+the	ART DET
+consumption	NOMZ
+and	CCONJ
+maintain	PUBV INF
+water	NN
+for	PIN PREP
+population	NOMZ
+.	
+  	
+To	PIN TO SPIN CAP PREP
+not	XX0 RB
+be	AUXB INF
+as	RB CONJ
+dependently	RB
+as	PIN CONJ PREP
+Brazilians	CAP NNP
+is	VPRT AUXB
+,	
+there	EX
+are	VPRT AUXB
+some	QUAN DET
+ideas	NN
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+starting	PGAS
+to	PIN TO PREP
+think	PRIV INF
+and	PHC CCONJ
+make	INF
+a	ART DET INDA
+change	NN
+the	ART DET
+way	NN
+of	PIN PREP
+using	PGAS
+their	TPP3 PRP SBJP
+water	NN
+.	
+For	PIN CAP PREP
+maintenance	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+water	NN
+fountains	NN
+they	TPP3 PRP SBJP
+could	POMD
+start	INF
+doing	PROD PGAS
+a	ART DET INDA
+controlling	GER PGAS
+and	PHC CCONJ
+monitoring	GER PGAS
+system	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+principals	NN
+environmental	JJ
+areas	NN
+(	
+those	DEMP DET
+who	WHQU WH
+had	VBD
+a	ART DET INDA
+directly	RB
+impact	NN
+on	PIN PREP
+their	TPP3 PRP SBJP
+sources	NN
+)	
+,	
+promote	VPRT
+reinstatement	NOMZ
+in	PIN CONJ PREP
+affected	JJ
+areas	NN
+and	CCONJ
+always	RB
+keep	INF
+looking	PGAS
+throw	INF
+new	JJ
+technologies	NN
+for	PIN PREP
+conservation	NOMZ
+and	PHC CCONJ
+preservation	NOMZ
+of	PIN STPR PREP
+,	
+unless	COND PIN STPR SCONJ PREP
+,	
+these	DEMO DET
+principal	JJ
+regions	NN
+.	
+  	
+Like	PIN CAP PREP
+said	VBD PUBV
+before	RB
+,	
+other	JJ
+huge	JJ
+problem	NN
+caused	WZPAST
+by	PIN PREP
+water	NN
+’s	
+deficient	NN
+is	BEMA VPRT AUXB
+the	ART DET
+generation	NOMZ
+of	PIN PREP
+energy	NN
+,	
+almost	DWNT RB
+all	QUAN DET
+electric	JJ
+energy	NN
+,	
+in	PIN CONJ PREP
+Brazil	CAP NNP
+,	
+is	PASS VPRT BYPA AUXB
+generated	
+by	PIN PREP
+hydroelectric	NNP
+,	
+therefor	PIN PREP
+using	PGAS
+water	NN
+.	
+For	PIN CAP PREP
+improve	INF
+this	DEMO DET
+situation	NOMZ
+,	
+the	ART DET
+government	NOMZ
+could	POMD
+encourage	INF
+people	NN
+and	PHC CCONJ
+investors	NN
+(	
+using	PGAS
+tax	NN
+incentive	NN
+or	CCONJ
+giving	PGAS
+other	JJ
+types	NN
+of	PIN PREP
+benefits	NN
+)	
+to	PIN TO PREP
+build	INF
+and	PHC CCONJ
+invest	INF
+in	PIN CONJ PREP
+renewable	JJ
+energy	NN
+sources	NN
+like	PIN PREP
+solar	JJ
+or	CCONJ
+wind	NN
+energy	NN
+.	
+Brazil	CAP NNP
+have	VPRT
+a	ART DET INDA
+vast	JJ
+potential	NN
+to	PIN TO PREP
+use	INF
+solar	JJ
+and	CCONJ
+wind	NN
+power	NN
+and	CCONJ
+,	
+these	DEMO DET
+kinds	NN
+of	PIN PREP
+generation	NOMZ
+are	PASS VPRT AUXB
+considered	PRIV
+clean	JJ
+(	
+do	VPRT SPAU
+not	XX0 RB
+emit	INF
+carbon	NN
+gas	NN
+to	PIN PREP
+atmosphere	NN
+)	
+and	ANDC CCONJ
+are	BEMA VPRT AUXB
+less	RB CMADJ
+harmful	JJ
+than	PIN PREP
+the	ART DET
+usual	JJ
+forms	NN
+.	
+  	
+Finally	RB CAP
+,	
+other	JJ
+object	PUBV NN
+important	JJ
+for	PIN PREP
+Brazil	CAP NNP
+invest	INF
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+education	NOMZ
+!	EXCL
+Everything	QUPR INPR CAP
+might	POMD
+be	AUXB INF
+change	INF
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+start	VPRT
+to	PIN TO PREP
+change	INF
+the	ART DET
+culture	NN
+of	PIN PREP
+a	ART DET INDA
+population	NOMZ
+,	
+if	COND PIN SCONJ PREP
+Brazilians	NN CAP
+start	VPRT
+to	PIN TO PREP
+understand	PRIV THATD INF
+how	RB WHCL SCONJ WH
+important	JJ
+water	NN
+is	VPRT AUXB
+and	CCONJ
+start	INF
+to	PIN TO PREP
+see	PRIV INF
+the	ART DET
+relation	NOMZ
+with	PIN PREP
+water	NN
+and	CCONJ
+their	TPP3 PRP SBJP
+habits	NN
+they	TPP3 PRP SBJP
+will	PRMD
+change	INF
+their	TPP3 PRP SBJP
+conscious	JJ
+and	CCONJ
+begin	INF
+to	PIN TO PREP
+take	INF
+care	NN
+of	PIN PREP
+nature	NN
+and	CCONJ
+treat	INF
+it	PIT PRP SBJP
+with	PIN PREP
+respect	NN
+.	
+This	DEMP CAP DET
+changing	PGAS
+maybe	RB HDG
+will	PRMD
+take	INF
+a	ART DET INDA
+long	JJ
+time	NN
+,	
+but	CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+essential	JJ PRED
+for	PIN PREP
+a	ART DET INDA
+healthy	JJ
+living	NN
+and	CCONJ
+keep	INF
+the	ART DET
+planet	NN
+in	PIN CONJ PREP
+harmony	NN
+,	
+we	FPP1 PRP SBJP
+can	POMD
+initiate	INF
+it	PIT PRP SBJP
+with	PIN PREP
+kids	NN
+,	
+in	PIN CONJ PREP
+school	NN
+,	
+and	ANDC CCONJ
+then	RB
+in	PIN CONJ PREP
+two	NUM
+or	CCONJ
+three	NUM
+generations	NOMZ
+we	FPP1 PRP SBJP
+would	PRMD
+see	PRIV INF
+results	NN
+.	
+  	
+Knowing	PRIV CAP PGAS
+the	ART DET
+importance	NN
+of	PIN PREP
+have	VPRT
+a	ART DET INDA
+good	JJ
+relation	NOMZ
+between	PIN PREP
+human	NN
+being	NN
+and	PHC CCONJ
+nature	NN
+it	PIT PRP SBJP
+is	VPRT AUXB
+time	NN
+to	PIN TO PREP
+change	INF
+and	PHC CCONJ
+start	INF
+to	PIN TO PREP
+care	INF
+with	PIN PREP
+our	FPP1 PRP SBJP
+planet	NN
+,	
+not	XX0 RB
+just	RB EMPH
+Brazilians	CAP NNP
+but	CCONJ
+all	QUAN DET
+world	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+essential	JJ PRED
+to	PIN TO PREP
+change	INF
+our	FPP1 PRP SBJP
+current	JJ
+view	NN
+that	TSUB WHSUB WH
+is	VPRT AUXB
+focus	NN
+on	PIN PREP
+profits	NN
+,	
+even	RB
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+gain	NN
+from	PIN PREP
+exploration	NOMZ
+and	PHC CCONJ
+degradation	NOMZ
+of	PIN PREP
+nature	NN
+,	
+without	PIN PREP
+thinking	PRIV PGAS
+in	PIN CONJ PREP
+the	ART DET
+future	JJ
+consequences	NN
+of	PIN PREP
+these	DEMO DET
+actions	NOMZ
+.	
+Nature	NN CAP
+is	BEMA VPRT AUXB
+bigger	JJ PRED CMADJ
+than	PIN PREP
+we	FPP1 PRP SBJP
+are	VPRT AUXB
+,	
+so	RB
+we	FPP1 PRP SBJP
+need	VPRT
+to	PIN TO PREP
+start	INF
+a	ART DET INDA
+new	JJ
+vision	NOMZ
+for	PIN PREP
+living	NN
+,	
+thinking	PRIV PGAS
+in	PIN CONJ PREP
+future	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+maintenance	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+species	NN
+.	
+  	

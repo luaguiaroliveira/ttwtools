@@ -1,0 +1,565 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1813.1065.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2018	CAP NNP
+-	NNP
+1.1813.1065	NUM
+>	X
+  	
+<	X
+Why	RB CAP SCONJ WH
+Self	NN CAP
+-	
+knowledge	NN
+is	BEMA VPRT AUXB
+Indispensable	JJ PRED CAP
+in	PIN CONJ PREP
+Every	QUAN CAP DET
+Aspect	CAP NNP
+of	PIN PREP
+our	FPP1 PRP SBJP
+Lives	NN CAP
+>	X
+  	
+In	PIN CONJ CAP PREP
+nowadays	RB TIME
+the	ART DET
+outside	JJ PLACE
+information	NOMZ
+is	VPRT SPAU AUXB
+increasingly	RB
+gaining	PGAS
+more	JJ EMPH CMADJ
+importance	NN
+than	PIN PREP
+the	ART DET
+knowledge	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+can	POMD
+gather	PRIV INF
+from	PIN PREP
+ourselves	FPP1 PRP SBJP ACCU
+.	
+The	ART CAP DET
+experiences	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+world	NN
+can	POMD
+provide	INF
+leads	VPRT
+us	FPP1 PRP SBJP ACCU
+to	PIN TO PREP
+chase	INF
+materialistics	NN
+goals	NN
+,	
+and	ANDC CCONJ
+,	
+for	PIN PREP
+many	QUAN JJ
+times	NN
+,	
+we	FPP1 PRP SBJP
+struggle	VPRT
+at	PIN PREP
+things	NN
+that	TSUB WHSUB WH
+are	PASS VPRT AUXB
+supposed	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+simple	JJ PRED
+,	
+as	PIN CONJ PREP
+the	ART DET
+interpersonal	JJ
+relationships	NN
+.	
+The	ART CAP DET
+profound	JJ
+analysis	NN
+of	PIN PREP
+how	RB SCONJ WH
+our	FPP1 PRP SBJP
+brain	NN
+thinks	VPRT PRIV
+is	BEMA VPRT AUXB
+the	ART DET
+main	JJ
+tool	NN
+to	PIN TO PREP
+understand	PRIV INF
+yourself	SPP2 PRP SBJP ACCU
+and	CCONJ
+others	NN
+,	
+and	ANDC CCONJ
+from	PIN PREP
+this	DEMP DET
+,	
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+react	INF
+better	RB CMADJ
+to	PIN PREP
+adversities	NN
+-	
+as	PIN CONJ PREP
+Carl	CAP NNP
+Jung	CAP NNP
+(	
+founder	NN
+of	PIN PREP
+analytical	JJ
+psychology	NN
+)	
+defended	VBD
+.	
+The	ART CAP DET
+theory	NN
+around	PIN PLACE PREP
+this	DEMO DET
+subject	NN
+is	BEMA VPRT AUXB
+very	AMP RB
+rich	JJ
+and	CCONJ
+,	
+after	PIN PREP
+the	ART DET
+comprehension	NOMZ
+of	PIN PREP
+the	ART DET
+enormous	JJ
+applicability	NOMZ
+of	PIN PREP
+knowing	PRIV PGAS
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+use	INF
+it	PIT PRP SBJP
+,	
+is	BEMA VPRT AUXB
+impossible	JJ PRED
+to	PIN TO SPIN PREP
+just	RB EMPH
+live	INF
+without	PIN STPR PREP
+.	
+ 	
+How	RB WHQU CAP SCONJ WH
+can	POMD
+we	FPP1 PRP SBJP
+stop	INF
+and	PHC CCONJ
+think	PRIV INF
+more	RB EMPH CMADJ
+about	PIN PREP
+our	FPP1 PRP SBJP
+actions	NOMZ
+instead	RB CONJ
+of	PIN PREP
+just	RB EMPH
+live	INF
+in	PIN CONJ PREP
+the	ART DET
+moment	NOMZ
+?	QUES
+This	DEMP CAP DET
+can	POMD
+be	BEMA AUXB INF
+the	ART DET
+hardest	JJ SPADJ
+task	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+lives	NN
+,	
+and	ANDC CCONJ
+,	
+if	COND PIN SCONJ PREP
+we	FPP1 PRP SBJP
+do	VPRT SPAU
+n’t	RB
+get	INF
+to	PIN TO PREP
+know	PRIV INF
+the	ART DET
+methods	NN
+to	PIN TO PREP
+achieve	INF
+this	DEMP DET
+,	
+it	PIT PRP SBJP
+becomes	VPRT
+impossible	JJ
+.	
+The	ART CAP DET
+first	JJ
+step	NN
+in	PIN CONJ PREP
+solving	PGAS
+any	QUAN DET
+kind	NN HDG
+of	PIN PREP
+problem	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+identify	INF
+and	PHC CCONJ
+characterize	INF
+it	PIT PRP SBJP
+.	
+So	RB CAP
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+case	NN
+,	
+we	FPP1 PRP SBJP
+need	VPRT
+to	PIN TO PREP
+establish	PRIV INF
+the	ART DET
+central	JJ
+points	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+failures	NN
+.	
+The	ART CAP DET
+method	NN
+of	PIN PREP
+developing	GER PGAS
+this	DEMP DET
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+have	INF
+the	ART DET
+courage	NN
+to	PIN TO PREP
+face	INF
+the	ART DET
+ugliests	NN
+imperfections	NOMZ
+of	PIN PREP
+our	FPP1 PRP SBJP
+own	JJ
+.	
+ 	
+Every	QUAN CAP DET
+fear	PRIV NN
+that	PIN TOBJ THVC SCONJ PREP
+we	FPP1 PRP SBJP
+have	VPRT
+is	PASS VPRT AUXB
+derived	
+from	PIN PREP
+an	ART DET INDA
+unreasonable	JJ
+motive	NN
+.	
+If	COND PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+faced	
+and	PHC CCONJ
+rationalized	
+,	
+it	PIT PRP SBJP
+will	PRMD
+hunt	INF
+you	SPP2 PRP SBJP
+for	PIN PREP
+the	ART DET
+rest	NN
+of	PIN PREP
+your	SPP2 PRP SBJP
+live	NN
+.	
+Take	CAP INF
+a	ART DET INDA
+time	NN
+to	PIN TO PREP
+think	PRIV INF
+rationally	RB
+in	PIN CONJ PREP
+those	DEMO DET
+situations	NOMZ
+:	
+a	ART DET INDA
+woman	NN
+who	WHSUB WH
+is	BEMA VPRT AUXB
+jealous	JJ PRED
+of	PIN PREP
+her	TPP3 PRP SBJP
+companion	NN
+,	
+an	ART DET INDA
+anxious	JJ
+student	NN
+on	PIN PREP
+exams	NN
+eve	NN
+and	CCONJ
+a	ART DET INDA
+man	NN
+afraid	JJ
+of	PIN PREP
+take	INF
+blood	NN
+.	
+Would	PRMD SPAU CAP
+n't	XX0 CONT RB
+be	BEMA AUXB INF
+easier	JJ PRED CMADJ
+to	PIN TO PREP
+see	PRIV INF
+if	COND PIN SCONJ PREP
+there	EX
+is	VPRT AUXB
+any	QUAN DET
+practical	JJ
+action	NOMZ
+they	TPP3 PRP SBJP
+can	POMD
+take	INF
+instead	RB CONJ
+of	PIN PREP
+unreasonable	JJ
+overthinking	GER PGAS
+the	ART DET
+problem	NN
+?	QUES
+In	PIN CONJ CAP PREP
+general	JJ
+lines	NN
+,	
+facing	PGAS
+our	FPP1 PRP SBJP
+problems	NN
+shall	PRMD
+be	BEMA AUXB INF
+painful	JJ PRED
+,	
+but	CCONJ
+is	BEMA VPRT AUXB
+the	ART DET
+shortest	JJ SPADJ
+path	NN
+to	PIN TO PREP
+achieve	INF
+the	ART DET
+so	RB
+wanted	
+inner	JJ
+peace	NN
+.	
+ 	
+To	PIN TO CAP PREP
+apply	INF
+this	DEMO DET
+train	NN
+of	PIN PREP
+thought	PRIV NN
+is	BEMA VPRT AUXB
+very	AMP RB
+important	JJ
+to	PIN TO PREP
+know	PRIV INF
+yourself	SPP2 PRP SBJP ACCU
+,	
+but	CCONJ
+also	RB
+the	ART DET
+others	NN
+around	PIN PLACE PREP
+you	SPP2 PRP SBJP
+,	
+since	OSUB PIN SCONJ PREP
+we	FPP1 PRP SBJP
+live	VPRT
+in	PIN CONJ PREP
+community	NOMZ
+and	PHC CCONJ
+relations	NOMZ
+between	PIN PREP
+people	NN
+are	BEMA VPRT AUXB
+imprescindible	JJ PRED
+.	
+There	EX CAP
+is	VPRT AUXB
+always	RB
+a	ART DET INDA
+better	JJ CMADJ
+method	NN
+of	PIN PREP
+proceeding	GER PGAS
+in	PIN CONJ PREP
+everything	QUPR INPR
+,	
+and	ANDC CCONJ
+in	PIN CONJ PREP
+this	DEMO DET
+case	NN
+,	
+to	PIN TO PREP
+unravel	INF
+the	ART DET
+brain	NN
+functions	NOMZ
+that	TSUB WHSUB WH
+grants	VPRT SUAV
+the	ART DET
+characteristics	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+personalities	NN
+.	
+The	ART CAP DET
+model	NN
+proposed	SUAV WZPAST
+by	PIN PREP
+Carl	CAP NNP
+Jung	CAP NNP
+,	
+David	CAP NNP
+Mark	CAP NNP
+Keirsey	CAP NNP
+and	PHC CCONJ
+Isabel	CAP NNP
+Briggs	CAP NNP
+Myers	CAP NNP
+is	BEMA VPRT AUXB
+widespread	JJ PRED
+and	CCONJ
+well	RB
+accepted	PRIV
+as	PIN CONJ PREP
+a	ART DET INDA
+complete	JJ
+well	RB
+-	
+funded	
+theory	NN
+.	
+Briefly	RB CAP
+every	QUAN DET
+person	NN
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+can	POMD
+be	PASS AUXB INF
+categorized	
+as	PIN CONJ PREP
+belonging	PGAS
+to	PIN PREP
+one	NUM
+of	PIN PREP
+sixteen	NUM
+personalities	NN
+,	
+having	PRESP PGAS
+each	QUAN DET
+one	NUM
+four	NUM
+predominant	JJ
+functions	NOMZ
+.	
+Knowing	PRIV PRESP CAP PGAS
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+categorize	INF
+yourself	SPP2 PRP SBJP ACCU
+and	CCONJ
+the	ART DET
+people	NN
+around	PIN PLACE PREP
+you	SPP2 PRP SBJP
+makes	VPRT
+easier	JJ CMADJ
+to	PIN TO PREP
+comprehend	INF
+each	QUAN DET
+individual	JJ
+mistakes	NN
+and	PHC CCONJ
+qualities	NN
+,	
+including	PGAS
+yours	NN PRP
+.	
+ 	
+To	PIN TO CAP PREP
+course	INF
+the	ART DET
+journey	NN
+of	PIN PREP
+self	NN
+-	
+acceptance	NN
+and	PHC CCONJ
+knowledge	NN
+have	VPRT PEAS
+got	
+a	ART DET INDA
+little	JJ
+easier	JJ CMADJ
+now	RB TIME
+,	
+is	VPRT AUXB
+n’t	NUM
+true	JJ
+?	QUES
+Once	RB TIME CAP
+rationalized	VBD
+the	ART DET
+existing	PGAS
+risks	NN
+and	PHC CCONJ
+possibles	NN
+unforeseen	JJ
+by	PIN PREP
+a	ART DET INDA
+well	RB
+-	
+studied	
+methodology	NN
+everything	QUPR INPR
+is	BEMA VPRT AUXB
+possible	JJ PRED
+,	
+because	CAUS PIN SCONJ PREP
+now	RB TIME
+you	SPP2 PRP SBJP
+comprehend	VPRT
+the	ART DET
+motives	NN
+behind	PIN PLACE PREP
+the	ART DET
+facts	NN
+,	
+and	ANDC CCONJ
+is	BEMA VPRT AUXB
+no	DET
+more	RB EMPH CMADJ
+a	ART DET INDA
+victim	NN
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	

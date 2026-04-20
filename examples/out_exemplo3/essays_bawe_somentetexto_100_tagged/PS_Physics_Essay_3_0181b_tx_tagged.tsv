@@ -1,0 +1,1178 @@
+# filename: PS_Physics_Essay_3_0181b_tx.txt
+token	tags
+GM	CAP NNP
+(	
+genetically	RB
+modified	
+)	
+foods	NN
+are	BEMA VPRT AUXB
+a	ART DET INDA
+source	NN
+of	PIN PREP
+much	QUAN JJ
+controversy	NN
+in	PIN CONJ PREP
+today	TIME NN
+'s	
+world	NN
+.	
+Tales	NN CAP
+of	PIN STPR PREP
+"	QUOT
+killer	NN
+tomatoes	NN
+"	QUOT
+abound	INF
+-	
+however	RB CONJ
+,	
+behind	PIN PLACE PREP
+the	ART DET
+scandal	NN
+and	PHC CCONJ
+gossip	NN
+,	
+a	ART DET INDA
+real	JJ
+threat	NN
+lurks	NN
+.	
+The	ART CAP DET
+dangers	NN
+of	PIN PREP
+GM	CAP NNP
+foods	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+mere	JJ
+gossip	NN
+;	
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+valid	JJ
+concerns	NN
+,	
+which	SERE DET WH
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+addressed	
+before	PIN PREP
+any	QUAN DET
+more	JJ EMPH CMADJ
+harm	NN
+is	PASS VPRT AUXB
+done	PROD
+.	
+To	PIN TO CAP PREP
+discuss	INF
+the	ART DET
+dangers	NN
+of	PIN PREP
+genetic	JJ
+modification	NOMZ
+,	
+first	RB
+we	FPP1 PRP SBJP
+must	NEMD
+understand	PRIV INF
+the	ART DET
+concept	NN
+of	PIN PREP
+genetics	NN
+.	
+Every	QUAN CAP DET
+living	PGAS
+thing	NN
+known	PRIV WZPAST
+to	PIN PREP
+date	NN
+is	PASS VPRT AUXB
+made	
+up	PIN PREP
+of	PIN PREP
+small	JJ
+building	NN
+blocks	NN
+,	
+known	PASTP PRIV
+as	PIN CONJ STPR PREP
+"	QUOT
+cells	NN
+"	QUOT
+.	
+These	DEMO CAP DET
+cells	NN
+contain	VPRT
+a	ART DET INDA
+genetic	JJ
+code	NN
+,	
+unique	JJ
+to	PIN PREP
+each	QUAN DET
+individual	NN
+,	
+which	SERE DET WH
+tells	VPRT
+the	ART DET
+cell	NN
+what	WH
+it	PIT PRP SBJP
+should	NEMD
+be	AUXB INF
+.	
+In	PIN CONJ CAP PREP
+essence	NN
+,	
+this	DEMO DET
+code	NN
+,	
+or	CCONJ
+"	QUOT
+DNA	CAP NNP
+"	QUOT
+,	
+is	BEMA VPRT AUXB
+the	ART DET
+biological	JJ
+description	NOMZ
+of	PIN PREP
+what	WH
+each	QUAN DET
+creature	NN
+is	VPRT AUXB
+,	
+from	PIN PREP
+human	JJ
+hair	NN
+and	PHC CCONJ
+eye	NN
+colour	NN
+,	
+right	RB
+down	RB
+to	PIN PREP
+the	ART DET
+shape	NN
+of	PIN PREP
+bacteria	NN
+.	
+Selective	JJ CAP
+breeding	NN
+,	
+the	ART DET
+process	NN
+of	PIN PREP
+selecting	PGAS
+and	PHC CCONJ
+encouraging	GER PGAS
+desirable	JJ
+traits	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+subject	JJ
+population	NOMZ
+,	
+has	VPRT PEAS
+been	PASS BYPA AUXB
+used	
+by	PIN PREP
+humankind	NN
+for	PIN PREP
+hundreds	NN
+of	PIN PREP
+years	NN
+.	
+The	ART CAP DET
+principle	NN
+behind	PIN PLACE PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+idea	NN
+that	PIN TSUB SCONJ PREP
+crossing	PGAS
+two	NUM
+parents	NN
+with	PIN PREP
+strong	JJ
+genes	NN
+leads	VPRT
+to	PIN PREP
+the	ART DET
+child	NN
+inheriting	GER WZPRES PGAS
+those	DEMO DET
+strong	JJ
+genes	NN
+.	
+If	COND PIN CAP SCONJ PREP
+one	PRP SBJP
+continues	VPRT
+to	PIN TO PREP
+match	INF
+parents	NN
+with	PIN PREP
+certain	JJ
+genes	NN
+,	
+the	ART DET
+traits	NN
+these	DEMO DET
+genes	NN
+represent	VPRT
+will	PRMD SPAU
+gradually	RB
+become	INF
+more	RB EMPH CMADJ
+pronounced	JJ PUBV SUAV
+in	PIN CONJ PREP
+the	ART DET
+offspring	NN
+.	
+This	DEMP CAP DET
+has	VPRT
+lead	NN
+to	PIN PREP
+the	ART DET
+evolution	NOMZ
+of	PIN PREP
+distinct	JJ
+types	NN
+of	PIN PREP
+animal	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+domesticated	JJ
+dog	NN
+,	
+whose	DET WH
+instincts	NN
+to	PIN TO PREP
+attack	INF
+people	NN
+and	PHC CCONJ
+livestock	NN
+have	VPRT PEAS
+been	PASS SPAU AUXB
+selectively	RB
+bred	
+out	PIN PREP
+over	PIN PREP
+generations	NOMZ
+.	
+Genetic	JJ CAP
+modification	NOMZ
+is	BEMA VPRT AUXB
+different	JJ PRED
+.	
+It	PIT CAP PRP SBJP
+uses	VPRT
+artificial	JJ
+methods	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+specially	RB
+designed	
+viruses	NN
+,	
+to	PIN TO PREP
+introduce	INF
+the	ART DET
+desired	SUAV
+DNA	NN CAP
+directly	RB
+into	PIN PREP
+a	ART DET INDA
+subject	NN
+,	
+be	AUXB INF
+it	PIT PRP SBJP
+a	ART DET INDA
+plant	NN
+seed	NN
+,	
+or	CCONJ
+a	ART DET INDA
+living	PGAS
+animal	NN
+.	
+Nor	CAP CCONJ
+does	VPRT PROD
+this	DEMO DET
+DNA	NN CAP
+have	INF
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+gene	NN
+the	ART DET
+subject	NN
+could	POMD SPAU
+usually	RB
+carry	INF
+.	
+Genetic	JJ CAP
+modification	NOMZ
+has	VPRT PEAS
+created	
+goats	NN
+which	WHSUB DET WH
+produce	VPRT
+spider	NN
+silk	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+milk	NN
+(	
+more	RB EMPH CMADJ
+at	PIN STPR PREP
+)	
+,	
+and	ANDC CCONJ
+pets	NN
+which	WHSUB DET WH
+glow	VPRT
+under	PIN PREP
+UV	NN CAP
+light	NN
+(	
+more	RB EMPH CMADJ
+at	PIN STPR PREP
+)	
+.	
+These	DEMO CAP DET
+unnatural	JJ
+combinations	NOMZ
+show	VPRT PRIV
+the	ART DET
+potential	NN
+of	PIN PREP
+genetic	JJ
+modification	NOMZ
+,	
+for	PIN PREP
+good	JJ
+,	
+or	CCONJ
+for	PIN PREP
+harm	NN
+.	
+The	ART CAP DET
+potential	JJ
+benefits	NN
+of	PIN PREP
+genetic	JJ
+modification	NOMZ
+are	BEMA VPRT AUXB
+great	JJ PRED
+.	
+It	PIT CAP PRP SBJP
+holds	VPRT PRIV
+the	ART DET
+possibility	NOMZ
+to	PIN TO PREP
+revolutionise	INF
+the	ART DET
+agricultural	JJ
+industry	NN
+,	
+through	PIN PREP
+pest	NN
+-	
+resistant	JJ
+plants	NN
+,	
+abundantly	RB
+fertile	JJ
+and	PHC CCONJ
+hardy	JJ
+crops	NN
+,	
+and	ANDC CCONJ
+even	RB
+meat	NN
+-	
+flavoured	
+vegetables	NN
+.	
+However	RB CONJ CAP
+,	
+these	DEMO DET
+benefits	NN
+may	POMD
+be	PASS BYPA SPAU AUXB INF
+far	RB PLACE
+outweighed	
+by	PIN PREP
+the	ART DET
+potential	JJ
+threats	NN
+of	PIN PREP
+GM	CAP NNP
+foods	NN
+.	
+The	ART CAP DET
+process	NN
+by	PIN PREP
+which	PIRE DET WH
+most	JJ EMPH SPADJ
+plants	NN
+reproduce	VPRT
+is	PASS VPRT AUXB
+termed	
+"	QUOT
+pollination	NOMZ
+"	QUOT
+.	
+It	PIT CAP PRP SBJP
+involves	VPRT
+the	ART DET
+DNA	NN CAP
+of	PIN PREP
+a	ART DET INDA
+plant	NN
+,	
+contained	PASTP
+in	PIN CONJ PREP
+small	JJ
+cells	NN
+called	
+"	QUOT
+pollen	NN
+"	QUOT
+.	
+Each	QUAN CAP DET
+grain	NN
+of	PIN PREP
+pollen	NN
+contains	VPRT
+randomly	RB
+selected	
+DNA	NN CAP
+,	
+totalling	PGAS
+half	NN
+of	PIN PREP
+the	ART DET
+DNA	NN CAP
+of	PIN PREP
+the	ART DET
+original	JJ
+plant	NN
+.	
+These	DEMO CAP DET
+cells	NN
+,	
+scattered	PASTP
+to	PIN PREP
+the	ART DET
+winds	NN
+,	
+or	CCONJ
+communicated	
+by	PIN PREP
+insects	NN
+,	
+land	NN
+on	PIN PREP
+specialised	JJ
+parts	NN
+of	PIN PREP
+other	JJ
+plants	NN
+,	
+and	ANDC CCONJ
+allow	SUAV INF
+the	ART DET
+mixing	NN
+of	PIN PREP
+genes	NN
+of	PIN PREP
+the	ART DET
+two	NUM
+plants	NN
+-	
+half	NN
+from	PIN PREP
+the	ART DET
+pollen	NN
+of	PIN PREP
+one	NUM
+plant	NN
+,	
+half	NN
+from	PIN PREP
+the	ART DET
+recipient	NN
+plant	NN
+.	
+The	ART CAP DET
+offspring	NN
+created	WZPAST
+thus	RB CONJ
+has	VPRT
+genes	NN
+,	
+and	ANDC CCONJ
+therefore	RB CONJ
+traits	NN
+,	
+of	PIN PREP
+both	DET
+of	PIN PREP
+the	ART DET
+parent	NN
+plants	NN
+.	
+However	RB CONJ CAP
+,	
+GM	CAP NNP
+crops	NN
+contain	VPRT
+DNA	CAP NNP
+not	XX0 RB
+normally	RB
+found	PRIV
+in	PIN CONJ PREP
+such	EMPH DET
+a	ART DET INDA
+plant	NN
+.	
+If	COND PIN CAP SCONJ PREP
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+allowed	SUAV
+to	PIN TO PREP
+pollinate	INF
+other	JJ
+crops	NN
+(	
+by	PIN PREP
+the	ART DET
+nature	NN
+of	PIN PREP
+pollination	NOMZ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+prevent	INF
+them	TPP3 PRP SBJP ACCU
+from	PIN PREP
+doing	PROD PGAS
+so	RB
+)	
+,	
+those	DEMO DET
+genes	NN
+could	POMD
+spread	INF
+to	PIN PREP
+the	ART DET
+crop	NN
+population	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+whole	NN
+.	
+Should	NEMD CAP
+the	ART DET
+gene	NN
+be	BEMA AUXB INF
+harmful	JJ PRED
+,	
+to	PIN PREP
+the	ART DET
+plant	NN
+or	CCONJ
+indeed	RB
+to	PIN PREP
+humans	NN
+,	
+the	ART DET
+damage	NN
+this	DEMP DET
+would	PRMD
+cause	INF
+is	VPRT AUXB
+indeed	RB
+reason	PRIV NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+cautious	JJ PRED
+.	
+This	DEMO CAP DET
+problem	NN
+can	POMD
+be	PASS AUXB INF
+managed	
+,	
+albeit	PIN SCONJ PREP
+with	PIN PREP
+difficulty	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+to	PIN TO PREP
+minimise	INF
+the	ART DET
+risks	NN
+of	PIN PREP
+contamination	NOMZ
+.	
+Other	JJ CAP
+risks	NN
+posed	WZPAST
+by	PIN PREP
+GM	CAP NNP
+foods	NN
+are	VPRT AUXB
+not	XX0 RB
+so	RB
+easily	RB
+dealt	
+with	PIN STPR PREP
+,	
+however	RB CONJ
+.	
+The	ART CAP DET
+world	NN
+of	PIN PREP
+nature	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+complex	JJ
+one	NN
+,	
+such	JJ OSUB
+that	PIN THAC SCONJ PREP
+no	DET
+-	
+one	NN
+in	PIN CONJ PREP
+current	JJ
+society	NN
+can	POMD
+claim	PUBV INF
+to	PIN TO SPIN PREP
+truly	RB
+understand	PRIV INF
+how	RB WHCL SCONJ WH
+nature	NN
+,	
+in	PIN CONJ PREP
+all	QUAN DET
+its	PIT PRP SBJP
+glory	NN
+,	
+works	VPRT
+.	
+As	PIN CONJ CAP PREP
+such	JJ
+,	
+interfering	GER PGAS
+with	PIN PREP
+the	ART DET
+natural	JJ
+order	SUAV NN
+of	PIN PREP
+things	NN
+can	POMD SPAU
+potentially	RB
+cause	INF
+havoc	NN
+in	PIN CONJ PREP
+the	ART DET
+living	PGAS
+world	NN
+.	
+The	ART CAP DET
+introduction	NOMZ
+of	PIN PREP
+rabbits	NN
+to	PIN PREP
+Australia	CAP NNP
+,	
+in	PIN CONJ PREP
+1859	NUM
+,	
+forever	RB
+changed	VBD
+the	ART DET
+natural	JJ
+balance	NN
+of	PIN PREP
+the	ART DET
+continent	NN
+.	
+Rabbits	NN CAP
+have	VPRT PEAS
+been	AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+major	JJ
+causes	NN
+of	PIN PREP
+extinction	NOMZ
+in	PIN CONJ PREP
+Australia	CAP NNP
+(	
+12	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+native	JJ
+mammal	JJ
+species	NN
+are	BEMA VPRT AUXB
+now	RB TIME
+extinct	JJ
+)	
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+causing	PGAS
+widespread	JJ
+damage	NN
+to	PIN TO PREP
+plant	INF
+life	NN
+in	PIN CONJ PREP
+the	ART DET
+area	NN
+.	
+If	COND PIN CAP SCONJ PREP
+something	QUPR INPR
+so	RB
+seemingly	RB
+benign	JJ
+could	POMD
+cause	INF
+such	JJ
+harm	NN
+to	PIN PREP
+the	ART DET
+environment	NOMZ
+,	
+what	WH
+untold	JJ
+destruction	NOMZ
+could	POMD
+genetic	JJ
+modification	NOMZ
+unleash	NN
+?	QUES
+Scientists	NN CAP
+have	VPRT
+only	DWNT RB
+a	ART DET INDA
+limited	JJ
+understanding	GER PRIV
+of	PIN PREP
+the	ART DET
+specifics	NN
+of	PIN PREP
+various	JJ
+genes	NN
+-	
+the	ART DET
+use	NN
+of	PIN PREP
+such	JJ
+unknown	JJ
+quantities	NN
+in	PIN CONJ PREP
+foodstuffs	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+release	NN
+of	PIN PREP
+these	DEMO DET
+potential	JJ
+contaminants	NN
+into	PIN PREP
+the	ART DET
+environment	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+whole	NN
+,	
+is	BEMA VPRT AUXB
+risky	JJ PRED
+at	PIN PREP
+best	RB SPADJ
+.	
+Even	RB CAP
+with	PIN PREP
+control	NN
+measures	NN
+in	PIN CONJ PREP
+effect	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+still	RB
+possible	JJ
+for	PIN PREP
+contamination	NOMZ
+of	PIN PREP
+the	ART DET
+environment	NOMZ
+to	PIN TO PREP
+occur	INF
+.	
+Pollen	CAP NNP
+can	POMD
+be	PASS AUXB INF
+contained	
+with	PIN PREP
+difficulty	NN
+,	
+however	RB CONJ
+other	JJ
+avenues	NN
+of	PIN PREP
+transmission	NOMZ
+are	BEMA VPRT AUXB
+possible	JJ PRED
+.	
+Nature	NN CAP
+is	BEMA VPRT AUXB
+astoundingly	RB
+adaptable	JJ
+,	
+to	PIN PREP
+the	ART DET
+point	NN
+where	RB WHOBJ SCONJ WH
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+for	PIN PREP
+genes	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+transferred	
+between	PIN PREP
+species	NN
+.	
+This	DEMO CAP DET
+process	NN
+,	
+known	PASTP PRIV
+as	PIN CONJ STPR PREP
+"	QUOT
+horizontal	JJ
+gene	NN
+transfer	NN
+"	QUOT
+,	
+makes	VPRT
+a	ART DET INDA
+truly	RB
+worrying	JJ
+case	NN
+against	PIN PREP
+genetically	RB
+modified	
+crops	NN
+.	
+Horizontal	JJ CAP
+gene	NN
+transfer	NN
+does	VPRT SPAU
+not	XX0 RB
+require	SUAV INF
+pollen	NN
+to	PIN TO PREP
+contaminate	INF
+other	JJ
+plants	NN
+-	
+in	PIN CONJ PREP
+fact	NN
+there	EX
+are	VPRT AUXB
+three	NUM
+different	JJ
+ways	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+transfer	NN
+can	POMD
+occur	INF
+.	
+One	CAP PRP SBJP
+requires	VPRT SUAV
+physical	JJ
+contact	NN
+between	PIN PREP
+the	ART DET
+GM	CAP NNP
+plant	NN
+and	CCONJ
+another	DET
+plant	NN
+,	
+however	RB CONJ
+no	SYNE DET
+such	JJ
+limit	NN
+exists	VPRT
+for	PIN PREP
+the	ART DET
+other	JJ
+methods	NN
+.	
+The	ART CAP DET
+combination	NOMZ
+of	PIN PREP
+these	DEMO DET
+three	NUM
+avenues	NN
+holds	VPRT PRIV
+the	ART DET
+potential	NN
+for	PIN PREP
+a	ART DET INDA
+gene	NN
+to	PIN TO PREP
+travel	INF
+from	PIN PREP
+a	ART DET INDA
+GM	CAP NNP
+plant	NN
+,	
+through	PIN PREP
+bacteria	NN
+,	
+viruses	NN
+,	
+other	JJ
+plants	NN
+,	
+and	ANDC CCONJ
+animals	NN
+,	
+even	RB
+to	PIN PREP
+humans	NN
+.	
+Needless	JJ CAP
+to	PIN TO PREP
+say	PUBV INF
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+grave	JJ
+threat	NN
+to	PIN PREP
+the	ART DET
+environment	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+whole	NN
+.	
+Should	NEMD CAP
+the	ART DET
+wrong	JJ
+gene	NN
+"	QUOT
+escape	INF
+"	QUOT
+into	PIN PREP
+the	ART DET
+environment	NOMZ
+,	
+the	ART DET
+ecosystem	NN
+of	PIN PREP
+the	ART DET
+local	JJ
+area	NN
+,	
+and	ANDC CCONJ
+potentially	RB
+that	DEMO DET
+of	PIN PREP
+the	ART DET
+entire	JJ
+planet	NN
+,	
+could	POMD
+be	PASS SPAU AUXB INF
+irrevocably	RB
+altered	
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+concern	NN
+from	PIN PREP
+both	CCONJ
+the	ART DET
+biological	JJ
+and	PHC CCONJ
+ethical	JJ
+points	NN
+of	PIN PREP
+view	NN
+-	
+What	WHQU CAP WH
+would	PRMD
+the	ART DET
+consequences	NN
+of	PIN PREP
+such	JJ
+changes	NN
+be	VPRT
+?	QUES
+Do	VPRT CAP
+we	FPP1 PRP SBJP
+have	INF
+the	ART DET
+right	NN
+to	PIN TO STPR PREP
+"	QUOT
+rebuild	INF
+"	QUOT
+Mother	CAP NNP
+Nature	CAP NNP
+?	QUES
+In	PIN CONJ CAP PREP
+the	ART DET
+worst	JJ SPADJ
+case	NN
+,	
+what	WHQU DET WH
+effects	NN
+would	PRMD
+a	ART DET INDA
+rogue	JJ
+gene	NN
+have	VPRT
+if	COND PIN SCONJ PREP
+passed	
+to	PIN TO PREP
+humankind	INF
+?	QUES
+All	QUAN CAP DET
+of	PIN PREP
+the	ART DET
+scenarios	NN
+above	RB PLACE
+are	VPRT AUXB
+conjecture	PRIV NN
+-	
+in	PIN CONJ PREP
+truth	NN
+,	
+no	DET
+-	
+one	NN
+knows	VPRT PRIV THATD
+what	WH
+may	POMD
+or	CCONJ
+will	PRMD
+happen	INF
+if	COND PIN SCONJ PREP
+the	ART DET
+use	NN
+of	PIN PREP
+GM	CAP NNP
+foods	NN
+continues	VPRT
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+risks	NN
+associated	WZPAST
+with	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+this	DEMO DET
+technology	NN
+are	BEMA VPRT AUXB
+sufficiently	RB
+great	JJ
+to	PIN TO PREP
+warrant	INF
+further	JJ
+consideration	NOMZ
+as	PIN CONJ PREP
+to	PIN PREP
+the	ART DET
+future	NN
+of	PIN PREP
+GM	CAP NNP
+technology	NN
+.	
+We	FPP1 CAP PRP SBJP
+only	DWNT RB
+have	VPRT
+one	NUM
+planet	NN
+;	
+neither	SYNE CCONJ
+science	NN
+nor	SYNE CCONJ
+technology	NN
+is	BEMA VPRT AUXB
+advanced	JJ PRED
+enough	RB
+to	PIN TO PREP
+replace	INF
+or	CCONJ
+repair	INF
+it	PIT PRP SBJP
+should	NEMD
+we	FPP1 PRP SBJP
+inadvertently	RB
+damage	INF
+the	ART DET
+natural	JJ
+balance	NN
+of	PIN PREP
+the	ART DET
+ecology	NN
+.	
+GM	CAP NNP
+foods	NN
+are	BEMA VPRT AUXB
+an	ART DET INDA
+unnecessary	JJ
+threat	NN
+to	PIN PREP
+the	ART DET
+stability	NOMZ
+of	PIN PREP
+Nature	CAP NNP
+;	
+to	PIN TO PREP
+preserve	INF
+our	FPP1 PRP SBJP
+ecology	NN
+the	ART DET
+use	NN
+of	PIN PREP
+GM	CAP NNP
+technology	NN
+must	NEMD
+be	PASS AUXB INF
+reconsidered	
+.	

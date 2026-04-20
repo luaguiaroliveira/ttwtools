@@ -1,0 +1,552 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1825.1072.txt
+token	tags
+    	
+In	PIN CONJ CAP PREP
+the	ART DET
+last	JJ
+decade	NN
+major	JJ
+attention	NOMZ
+has	VPRT PEAS
+been	PASS AUXB
+focused	
+on	PIN PREP
+developing	GER PGAS
+energy	NN
+harvesting	GER
+technologies	NN
+using	WZPRES PGAS
+new	JJ
+and	PHC CCONJ
+clean	JJ
+sources	NN
+.	
+Unfortunately	RB CAP
+,	
+these	DEMO DET
+kind	NN HDG
+of	PIN PREP
+sources	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+solar	JJ
+and	CCONJ
+wind	NN
+,	
+are	BEMA VPRT AUXB
+intermittent	JJ PRED
+and	CCONJ
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+used	
+in	PIN CONJ PREP
+conjugation	NOMZ
+with	PIN PREP
+an	ART DET INDA
+energy	NN
+storage	NN
+system	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+provide	INF
+uninterrupted	JJ
+electric	JJ
+energy	NN
+.	
+An	ART CAP DET INDA
+example	NN
+is	BEMA VPRT AUXB
+the	ART DET
+wind	NN
+farm	NN
+that	TSUB WHSUB WH
+has	VPRT
+its	PIT PRP SBJP
+highest	JJ SPADJ
+production	NOMZ
+during	PIN PREP
+the	ART DET
+night	NN
+,	
+when	RB SCONJ WH
+the	ART DET
+consumption	NOMZ
+is	BEMA VPRT AUXB
+at	PIN PREP
+its	PIT PRP SBJP
+lowest	JJ SPADJ
+need	NN
+.	
+This	DEMO CAP DET
+essay	NN
+aims	VPRT
+to	PIN TO PREP
+look	INF
+at	PIN PREP
+the	ART DET
+new	JJ
+possibility	NOMZ
+of	PIN PREP
+using	PGAS
+hybrid	JJ
+systems	NN
+(	
+lithium	NN
+-	
+ion	NN
+hybrid	NN
+supercapacitor	NN
+)	
+as	PIN CONJ PREP
+energy	NN
+storage	NN
+devices	NN
+in	PIN CONJ PREP
+grid	NN
+systems	NN
+or	CCONJ
+electric	NN
+/	
+hybrid	JJ
+vehicles	NN
+instead	RB CONJ
+of	PIN PREP
+lithium	NN
+-	
+ion	NN
+batteries	NN
+or	CCONJ
+supercapacitors	NN
+.	
+ 	
+The	ART CAP DET
+storage	NN
+mechanism	NN
+is	BEMA VPRT AUXB
+of	PIN PREP
+great	JJ
+importance	NN
+in	PIN CONJ PREP
+an	ART DET INDA
+energy	NN
+storage	NN
+device	NN
+.	
+The	ART CAP DET
+supercapacitors	NN
+are	PASS VPRT AUXB
+known	PRIV
+as	PIN CONJ PREP
+high	JJ
+power	NN
+density	NOMZ
+system	NN
+,	
+that	DEMP DET
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+can	POMD
+charge	INF
+/	
+discharge	NN
+within	PIN PREP
+minutes	NN
+or	CCONJ
+seconds	NN
+.	
+Their	TPP3 CAP PRP SBJP
+function	NOMZ
+consists	VPRT
+on	PIN PREP
+a	ART DET INDA
+physical	JJ
+process	NN
+,	
+basically	RB
+charge	VPRT
+accumulation	NOMZ
+on	PIN PREP
+the	ART DET
+surface	NN
+of	PIN PREP
+the	ART DET
+electrode	NNP
+material	NN
+/	
+electrolyte	NN
+.	
+Unfortunately	RB CAP
+,	
+they	TPP3 PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+storage	INF
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+energy	NN
+and	CCONJ
+,	
+by	PIN PREP
+so	RB
+,	
+have	VPRT PEAS
+been	PASS AUXB
+used	
+in	PIN CONJ PREP
+an	ART DET INDA
+external	JJ
+combination	NOMZ
+with	PIN PREP
+batteries	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+batteries	NN
+can	POMD
+storage	INF
+almost	DWNT RB
+twenty	NUM
+times	NN
+more	JJ EMPH CMADJ
+energy	NN
+than	PIN PREP
+supercapacitors	NN
+,	
+but	CCONJ
+within	PIN PREP
+a	ART DET INDA
+larger	JJ CMADJ
+period	NN
+of	PIN PREP
+time	NN
+,	
+typically	RB
+,	
+hours	NN
+.	
+This	DEMP CAP DET
+happens	VPRT
+because	CAUS PIN SCONJ PREP
+the	ART DET
+charge	NN
+/	
+discharge	NN
+process	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+battery	NN
+consists	VPRT
+in	PIN CONJ PREP
+a	ART DET INDA
+chemical	JJ
+reaction	NOMZ
+that	TSUB WHSUB WH
+occurs	VPRT
+in	PIN CONJ PREP
+a	ART DET INDA
+lower	JJ CMADJ
+rate	NN
+than	PIN PREP
+physical	JJ
+processes	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+way	NN
+,	
+the	ART DET
+combination	NOMZ
+of	PIN PREP
+both	DET
+processes	NN
+may	POMD
+be	BEMA AUXB INF
+the	ART DET
+solution	NOMZ
+to	PIN PREP
+the	ART DET
+problem	NN
+of	PIN PREP
+developing	GER PGAS
+energy	NN
+storage	NN
+system	NN
+for	PIN PREP
+grid	NN
+and	PHC CCONJ
+electric	NN
+/	
+hybrid	NN
+vehicles	NN
+[	X
+1	NUM
+,	
+2	NUM
+]	
+.	
+ 	
+It	PIT CAP PRP SBJP
+is	PASS VPRT SPAU AUXB
+well	RB
+known	PRIV
+that	PIN THVC SCONJ PREP
+no	SYNE DET
+conventional	JJ
+energy	NN
+storage	NN
+system	NN
+is	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+work	INF
+in	PIN CONJ PREP
+a	ART DET INDA
+high	JJ
+charge	NN
+/	
+discharge	NN
+rate	NN
+and	CCONJ
+also	RB
+storage	INF
+considerable	JJ
+energy	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+last	JJ
+two	NUM
+decades	NN
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+academic	JJ
+and	CCONJ
+industry	NN
+efforts	NN
+have	VPRT PEAS
+been	PASS AUXB
+made	
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+enhance	INF
+common	JJ
+devices	NN
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+developing	GER PGAS
+new	JJ
+storage	NN
+systems	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+so	RB
+-	
+called	
+,	
+lithium	NN
+-	
+ion	NN
+hybrid	NN
+supercapacitor	NN
+.	
+This	DEMO CAP DET
+system	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+internal	JJ
+combination	NOMZ
+of	PIN PREP
+supercapacitors	NN
+and	CCONJ
+Li	CAP NNP
+-	
+ion	NN
+batteries	NN
+and	CCONJ
+can	POMD
+have	INF
+a	ART DET INDA
+higher	JJ CMADJ
+power	NN
+density	NOMZ
+than	PIN PREP
+the	ART DET
+batteries	NN
+and	CCONJ
+a	ART DET INDA
+higher	JJ CMADJ
+energy	NN
+density	NOMZ
+than	PIN PREP
+supercapacitors	NN
+.	
+In	PIN CONJ CAP PREP
+2016	NUM
+a	ART DET INDA
+paper	NN
+was	PASS VBD AUXB
+published	
+in	PIN CONJ PREP
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+magazine	NN
+for	PIN PREP
+the	ART DET
+chemistry	NN
+research	NN
+area	NN
+,	
+the	ART DET
+Nature	CAP NNP
+Magazine	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+paper	NN
+,	
+Gogotsi	CAP NNP
+et	NNP
+al	NNP
+presented	VBD
+information	NOMZ
+that	TSUB WHSUB WH
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+hybridization	NOMZ
+of	PIN PREP
+electrical	JJ
+energy	NN
+storage	NN
+devices	NN
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+promising	JJ PUBV
+alternative	NN
+to	PIN TO PREP
+overcome	INF
+current	JJ
+limitations	NOMZ
+and	CCONJ
+providing	PGAS
+future	JJ
+research	NN
+directions	NOMZ
+towards	PIN PREP
+the	ART DET
+next	JJ
+generation	NOMZ
+of	PIN PREP
+energy	NN
+storage	NN
+systems	NN
+[	X
+3	NUM
+]	
+.	
+ 	
+The	ART CAP DET
+hybrid	JJ
+energy	NN
+storage	NN
+devices	NN
+are	PASS VPRT AUXB
+seen	PRIV
+as	PIN CONJ PREP
+the	ART DET
+future	NN
+of	PIN PREP
+portable	JJ
+electric	JJ
+energy	NN
+.	
+The	ART CAP DET
+combination	NOMZ
+of	PIN PREP
+the	ART DET
+high	JJ
+energy	NN
+–	
+from	PIN PREP
+the	ART DET
+batteries	NN
+–	
+and	ANDC CCONJ
+the	ART DET
+fast	JJ
+charge	NN
+/	
+discharge	NN
+process	NN
+–	
+of	PIN PREP
+the	ART DET
+supercapacitors	NN
+–	
+can	POMD
+make	INF
+it	PIT PRP SBJP
+possible	JJ
+to	PIN TO PREP
+use	INF
+only	DWNT RB
+one	NUM
+device	NN
+instead	RB CONJ
+of	PIN PREP
+the	ART DET
+external	JJ
+combination	NOMZ
+of	PIN PREP
+these	DEMO DET
+two	NUM
+types	NN
+of	PIN PREP
+systems	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+future	JJ
+years	NN
+we	FPP1 PRP SBJP
+may	POMD
+hear	PRIV INF
+more	JJ EMPH CMADJ
+about	PIN PREP
+these	DEMO DET
+new	JJ
+technology	NN
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+become	VPRT
+more	RB EMPH CMADJ
+popular	JJ
+,	
+especially	RB
+in	PIN CONJ PREP
+grid	NN
+systems	NN
+and	PHC CCONJ
+electric	NN
+/	
+hybrid	JJ
+vehicles	NN
+.	

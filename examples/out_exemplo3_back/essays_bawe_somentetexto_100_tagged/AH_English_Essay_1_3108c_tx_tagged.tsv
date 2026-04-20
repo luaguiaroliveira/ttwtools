@@ -1,0 +1,732 @@
+# filename: AH_English_Essay_1_3108c_tx.txt
+token	tags
+On	PIN CAP PREP
+a	ART DET INDA
+first	JJ
+observation	NOMZ
+of	PIN PREP
+Song	CAP NNP
+:	
+On	PIN CAP PREP
+Her	TPP3 CAP PRP SBJP
+Loving	CAP NNP
+Two	CAP NUM
+Equally	RB CAP
+the	ART DET
+reader	NN
+is	BEMA VPRT AUXB
+aware	JJ PRED
+that	PIN THAC SCONJ PREP
+the	ART DET
+poem	NN
+is	PASS VPRT AUXB
+set	
+out	PIN PREP
+visually	RB
+and	PHC CCONJ
+rhythmically	RB
+in	PIN CONJ PREP
+a	ART DET INDA
+song	NN
+-	
+like	JJ
+format	NN
+further	RB
+signified	PRIV
+by	PIN PREP
+the	ART DET
+indication	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+title	NN
+;	
+'	CONT QUOT
+Song	NN CAP
+'	CONT QUOT
+.	
+Each	QUAN CAP DET
+of	PIN PREP
+the	ART DET
+three	NUM
+stanzas	NN
+is	BEMA VPRT AUXB
+of	PIN PREP
+equal	JJ
+length	NN
+and	PHC CCONJ
+metre	NN
+,	
+the	ART DET
+first	JJ
+five	NUM
+lines	NN
+of	PIN PREP
+each	QUAN DET
+stanza	NN
+working	WZPRES PGAS
+in	PIN CONJ PREP
+iambic	JJ
+tetrameter	NN
+followed	WZPAST
+by	PIN PREP
+the	ART DET
+final	JJ
+line	NN
+of	PIN PREP
+iambic	JJ
+pentameter	NN
+,	
+reverting	PGAS
+to	PIN PREP
+the	ART DET
+traditional	JJ
+metre	NN
+in	PIN CONJ PREP
+Shakespeare	CAP NNP
+'s	
+love	NN
+sonnets	NN
+.	
+Perhaps	RB CAP
+this	DEMO DET
+steady	JJ
+lyrical	JJ
+rhythm	NN
+represents	VPRT
+the	ART DET
+steady	JJ
+heartbeat	NN
+of	PIN PREP
+the	ART DET
+speaker	NN
+emphasised	WZPAST
+by	PIN PREP
+the	ART DET
+masculine	JJ
+single	JJ
+rhyme	NNP
+scheme	NN
+,	
+thus	RB CONJ
+linking	PGAS
+to	PIN PREP
+the	ART DET
+theme	NN
+of	PIN PREP
+love	NN
+presented	WZPAST
+throughout	PIN PREP
+the	ART DET
+poem	NN
+.	
+Supporting	GER PRESP CAP PGAS
+this	DEMO DET
+idea	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+as	PIN CONJ PREP
+the	ART DET
+poem	NN
+draws	VPRT
+to	PIN PREP
+a	ART DET INDA
+climax	NN
+in	PIN CONJ PREP
+the	ART DET
+third	JJ
+stanza	NN
+,	
+the	ART DET
+natural	JJ
+flow	NN
+of	PIN PREP
+the	ART DET
+final	JJ
+lines	NN
+are	PASS VPRT BYPA AUXB
+broken	
+up	PIN PREP
+by	PIN PREP
+punctuation	NOMZ
+more	RB EMPH CMADJ
+often	RB
+than	PIN PREP
+elsewhere	RB
+in	PIN CONJ PREP
+the	ART DET
+'	CONT QUOT
+song	NN
+'	CONT QUOT
+and	ANDC CCONJ
+an	ART DET INDA
+exclamation	NOMZ
+of	PIN STPR PREP
+'	CONT QUOT
+But	CAP CCONJ
+which	DET WH
+,	
+O	CAP NNP
+Cupid	CAP NNP
+,	
+wilt	NN
+thou	SPP2 NN
+take	VPRT
+?	QUES
+'	CONT QUOT
+possibly	RB
+conveying	PUBV PGAS
+the	ART DET
+increasing	GER PGAS
+intensity	NOMZ
+of	PIN PREP
+feelings	NN
+of	PIN PREP
+the	ART DET
+speaker	NN
+and	PHC CCONJ
+confusion	NOMZ
+in	PIN CONJ PREP
+her	TPP3 PRP SBJP
+heart	NN
+,	
+showing	PRIV PRESP PGAS
+how	RB WHCL SCONJ WH
+deeply	RB
+the	ART DET
+situation	NOMZ
+affects	VPRT
+her	TPP3 PRP SBJP ACCU
+.	
+M.	CAP NNP
+Ferguson	CAP NNP
+,	
+M.	CAP NNP
+J.	CAP NNP
+Salter	CAP NNP
+,	
+J.	CAP NNP
+Stallworthy	CAP NNP
+,	
+The	ART CAP DET
+Norton	CAP NNP
+Anthology	CAP NNP
+of	PIN PREP
+Poetry	CAP NNP
+,	
+(	
+Fifth	JJ CAP
+edition	NOMZ
+,	
+W.	CAP NNP
+W.	CAP NNP
+Norton	CAP NNP
+&	CCONJ
+Company	CAP NNP
+,	
+London	CAP NNP
+,	
+2005	NUM
+)	
+,	
+p.	NN
+545	NUM
+,	
+Song	NN CAP
+:	
+On	PIN CAP PREP
+Her	TPP3 CAP PRP SBJP
+Loving	CAP NNP
+Two	CAP NUM
+Equally	RB CAP
+.	
+The	ART CAP DET
+rhyme	NNP
+scheme	NN
+differs	VPRT
+in	PIN CONJ PREP
+the	ART DET
+middle	JJ
+stanza	NN
+from	PIN PREP
+the	ART DET
+first	JJ
+and	PHC CCONJ
+final	JJ
+as	PIN CONJ PREP
+the	ART DET
+pattern	NN
+changes	VPRT
+from	PIN PREP
+aabbcc	NN
+to	PIN PREP
+ababcc	NN
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+final	JJ
+syllable	NN
+in	PIN CONJ PREP
+each	QUAN DET
+line	NN
+is	PASS VPRT AUXB
+stressed	
+it	PIT PRP SBJP
+creates	VPRT
+a	ART DET INDA
+greater	JJ CMADJ
+impact	NN
+and	CCONJ
+more	RB EMPH CMADJ
+resounding	JJ
+effect	NN
+encouraging	GER WZPRES PGAS
+the	ART DET
+awareness	NOMZ
+of	PIN PREP
+the	ART DET
+seriousness	NOMZ
+of	PIN PREP
+the	ART DET
+poem	NN
+.	
+Behn	NN CAP
+uses	VPRT
+mainly	RB
+imperfect	VPRT
+rhyme	NN
+;	
+'	CONT QUOT
+god	NNP
+'	CONT QUOT
+,	
+'	CONT QUOT
+blood	NN
+'	CONT QUOT
+and	ANDC CCONJ
+even	RB
+eye	NN
+pararhyme	NN
+;	
+'	CONT QUOT
+prove	PRIV INF
+'	CONT QUOT
+and	ANDC CCONJ
+'	CONT QUOT
+love	NN
+'	CONT QUOT
+.	
+The	ART CAP DET
+poet	NN
+could	POMD
+be	AUXB INF
+using	PGAS
+these	DEMO DET
+fairly	RB
+unsatisfying	JJ
+techniques	NN
+to	PIN TO PREP
+signify	PRIV INF
+the	ART DET
+complexity	NOMZ
+and	PHC CCONJ
+irregularity	NOMZ
+of	PIN PREP
+emotions	NOMZ
+and	CCONJ
+deep	JJ
+feelings	NN
+,	
+the	ART DET
+chaos	NN
+of	PIN PREP
+love	NN
+.	
+The	ART CAP DET
+lack	NN
+of	PIN PREP
+perfect	JJ
+rhyme	NN
+also	RB
+maybe	RB HDG
+represents	VPRT
+her	TPP3 PRP SBJP
+indecisiveness	NOMZ
+about	PIN PREP
+which	PIRE DET WH
+lover	NN
+to	PIN TO PREP
+choose	INF
+and	CCONJ
+the	ART DET
+unorganised	JJ
+thoughts	NN
+in	PIN CONJ PREP
+her	TPP3 PRP SBJP
+mind	NN
+.	
+Throughout	PIN CAP PREP
+this	DEMO DET
+piece	NN
+of	PIN PREP
+literature	NN
+can	POMD
+be	PASS AUXB INF
+seen	PRIV
+a	ART DET INDA
+specific	JJ
+lexical	JJ
+cluster	NN
+containing	GER WZPRES PGAS
+such	JJ
+words	NN
+as	PIN CONJ STPR PREP
+'	CONT QUOT
+heart	NN
+'	CONT QUOT
+,	
+'	CONT QUOT
+love	INF
+'	CONT QUOT
+,	
+'	CONT QUOT
+passion	NOMZ
+'	CONT QUOT
+,	
+'	CONT QUOT
+flow	INF
+'	CONT QUOT
+,	
+'	CONT QUOT
+blood	NN
+'	CONT QUOT
+and	ANDC CCONJ
+'	CONT QUOT
+Cupid	CAP NNP
+'	CONT QUOT
+working	PGAS
+to	PIN TO PREP
+conjure	INF
+up	PIN PREP
+a	ART DET INDA
+strong	JJ
+image	NN
+in	PIN CONJ PREP
+the	ART DET
+reader	NN
+'s	
+mind	NN
+.	
+This	DEMO CAP DET
+collection	NOMZ
+of	PIN PREP
+words	NN
+appear	VPRT SMP
+to	PIN TO PREP
+link	INF
+to	PIN PREP
+the	ART DET
+natural	JJ
+world	NN
+;	
+'	CONT QUOT
+flow	INF
+'	CONT QUOT
+,	
+evoking	PRESP PGAS
+an	ART DET INDA
+image	NN
+of	PIN PREP
+a	ART DET INDA
+river	NN
+and	CCONJ
+'	CONT QUOT
+blood	NN
+'	CONT QUOT
+,	
+a	ART DET INDA
+vital	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+human	JJ
+body	NN
+reminding	WZPRES PGAS
+the	ART DET
+reader	NN
+of	PIN PREP
+the	ART DET
+naturalness	NOMZ
+of	PIN PREP
+love	NN
+and	PHC CCONJ
+emotions	NOMZ
+.	
+The	ART CAP DET
+particular	JJ CONJ
+image	NN
+of	PIN STPR PREP
+'	CONT QUOT
+Cupid	CAP NNP
+'	CONT QUOT
+acts	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+metaphor	NN
+for	PIN PREP
+the	ART DET
+speaker	NN
+'s	
+own	JJ
+decision	NOMZ
+on	PIN PREP
+which	PIRE DET WH
+lover	NN
+to	PIN TO PREP
+choose	INF
+and	PHC CCONJ
+relates	VPRT
+to	PIN PREP
+the	ART DET
+traditional	JJ
+views	NN
+on	PIN PREP
+love	NN
+as	PIN CONJ PREP
+this	DEMO DET
+Roman	JJ CAP
+god	NNP
+is	PASS VPRT AUXB
+brought	
+into	PIN PREP
+the	ART DET
+picture	NN
+.	
+Language	NN CAP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+key	JJ
+feature	NN
+in	PIN CONJ PREP
+the	ART DET
+'	CONT QUOT
+song	NN
+'	CONT QUOT
+and	ANDC CCONJ
+many	QUAN JJ
+types	NN
+are	PASS VPRT AUXB
+used	
+for	PIN PREP
+dramatic	JJ
+effect	NN
+.	
+The	ART CAP DET
+archaic	JJ
+language	NN
+used	VBD
+;	
+'	CONT QUOT
+wilt	INF
+thou	SPP2 NNP
+'	CONT QUOT
+,	
+''	CONT
+twixt	VBD
+'	CONT QUOT
+,	
+creates	VPRT
+a	ART DET INDA
+sense	PRIV NN
+of	PIN PREP
+tradition	NOMZ
+and	PHC CCONJ
+importance	NN
+enhancing	WZPRES PGAS
+the	ART DET
+significance	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+'s	
+meaning	PRIV NN
+and	CCONJ
+the	ART DET
+gravity	NOMZ
+of	PIN STPR PREP
+'	CONT QUOT
+love	NN
+'	CONT QUOT
+.	
+Behn	NN CAP
+also	RB
+occasionally	RB
+uses	VPRT
+onomatopoeia	NN
+in	PIN CONJ PREP
+the	ART DET
+poem	NN
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+repeated	PUBV
+word	NN
+'	CONT QUOT
+sigh	NN
+'	CONT QUOT
+to	PIN TO PREP
+enable	INF
+the	ART DET
+reader	NN
+to	PIN TO PREP
+obtain	INF
+a	ART DET INDA
+clearer	JJ CMADJ
+insight	NN
+into	PIN PREP
+the	ART DET
+speakers	NN
+mind	INF
+and	PHC CCONJ
+create	INF
+a	ART DET INDA
+sharper	JJ CMADJ
+picture	NN
+through	PIN PREP
+the	ART DET
+detail	NN
+of	PIN PREP
+sound	NN
+.	
+The	ART CAP DET
+'	CONT QUOT
+fever	NN
+in	PIN CONJ STPR PREP
+'	CONT QUOT
+her	TPP3 PRP SBJP
+'	CONT QUOT
+blood	NN
+'	CONT QUOT
+is	PASS VPRT AUXB
+personified	
+and	PHC CCONJ
+becomes	VPRT
+'	CONT QUOT
+restless	JJ
+'	CONT QUOT
+.	
+This	DEMP CAP DET
+emphasises	VPRT
+the	ART DET
+torturous	JJ
+quality	NOMZ
+of	PIN PREP
+her	TPP3 PRP SBJP
+feelings	NN
+and	CCONJ
+enhances	VPRT
+the	ART DET
+physical	JJ
+passion	NOMZ
+she	TPP3 PRP SBJP
+feels	VPRT PRIV
+in	PIN CONJ PREP
+the	ART DET
+situation	NOMZ
+.	
+The	ART CAP DET
+idea	NN
+of	PIN PREP
+possessive	JJ
+love	NN
+is	PASS VPRT AUXB
+conveyed	PUBV
+powerfully	RB
+it	PIT PRP SBJP
+seems	VPRT SMP
+by	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+first	JJ
+person	NN
+and	CCONJ
+the	ART DET
+consistent	JJ
+use	NN
+of	PIN STPR PREP
+'	CONT QUOT
+my	FPP1 UH
+'	CONT QUOT
+especially	RB
+whilst	OSUB PIN SCONJ PREP
+referring	PGAS
+to	PIN STPR PREP
+'	CONT QUOT
+Damon	CAP NNP
+'	CONT QUOT
+and	ANDC CCONJ
+'	CONT QUOT
+Alexis	CAP NNP
+'	CONT QUOT
+.	
+She	TPP3 CAP PRP SBJP
+loves	VPRT
+both	DET
+and	CCONJ
+can	POMD SPAU
+not	XX0 RB
+live	INF
+with	PIN PREP
+one	NUM
+without	PIN PREP
+the	ART DET
+other	JJ
+,	
+therefore	RB CONJ
+attaches	VPRT
+herself	TPP3 PRP SBJP ACCU
+to	PIN PREP
+the	ART DET
+'	CONT QUOT
+two	NUM
+'	CONT QUOT
+and	ANDC CCONJ
+is	BEMA VPRT AUXB
+afraid	JJ PRED
+to	PIN TO PREP
+let	INF
+one	PRP SBJP
+go	INF
+.	
+There	EX CAP
+are	VPRT AUXB
+many	QUAN JJ
+formal	JJ
+features	NN
+in	PIN CONJ PREP
+Song	CAP NNP
+:	
+On	PIN CAP PREP
+Her	TPP3 CAP PRP SBJP
+Loving	CAP NNP
+Two	CAP NUM
+Equally	RB CAP
+that	DEMP WH
+emphasise	VPRT
+the	ART DET
+ideas	NN
+and	CCONJ
+enhance	INF
+the	ART DET
+poem	NN
+'s	
+quality	NOMZ
+to	PIN TO PREP
+make	INF
+the	ART DET
+piece	NN
+effective	JJ
+to	PIN PREP
+the	ART DET
+reader	NN
+.	

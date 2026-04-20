@@ -1,0 +1,1447 @@
+# filename: AH_other_Essay_1_0061d_tx.txt
+token	tags
+La	CAP NNP
+Place	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+piece	NN
+of	PIN PREP
+work	NN
+,	
+of	PIN PREP
+biographical	JJ
+intent	NN
+,	
+targeting	PRESP PGAS
+the	ART DET
+narration	NOMZ
+of	PIN PREP
+the	ART DET
+life	NN
+of	PIN PREP
+the	ART DET
+father	NN
+of	PIN PREP
+Annie	CAP NNP
+Ernaux	CAP NNP
+.	
+The	ART CAP DET
+narrator	NN
+wishes	VPRT
+to	PIN TO PREP
+depict	INF
+a	ART DET INDA
+portrait	NN
+of	PIN PREP
+her	TPP3 PRP SBJP
+father	NN
+'s	
+life	NN
+which	WHSUB DET WH
+is	BEMA VPRT AUXB
+objective	JJ PRED
+and	CCONJ
+does	VPRT SPAU
+not	XX0 RB
+suffer	INF
+from	PIN PREP
+bias	NN
+or	CCONJ
+which	DET WH
+becomes	VPRT
+subjective	JJ
+or	CCONJ
+sentimental	JJ
+-	
+a	ART DET INDA
+flaw	NN
+she	TPP3 PRP SBJP
+readily	RB
+points	VPRT
+out	PIN PREP
+of	PIN PREP
+accounts	NN
+of	PIN PREP
+similar	JJ
+intent	NN
+:	
+'	CONT QUOT
+Pour	CAP INF
+rendre	NN
+compte	NN
+d'une	NUM
+vie	NNP
+soumise	NNP
+à	NNP
+la	NNP
+nécessité	NN
+,	
+je	NNP
+n'ai	NNP
+pas	NNP
+le	NNP
+droit	NNP
+de	NNP
+prendre	NNP
+d'abord	NNP
+le	NNP
+partie	NNP
+de	NNP
+l'art	NNP
+,	
+ni	NNP
+de	NNP
+chercher	NNP
+à	NNP
+faire	NN
+quelque	NN
+chose	VBD
+de	X
+"	QUOT
+passionnant	JJ
+"	QUOT
+,	
+ou	NNP
+d'"émouvant	NNP
+"	QUOT
+.	
+'	CONT QUOT
+This	DEMO CAP DET
+piece	NN
+,	
+however	RB CONJ
+,	
+fails	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+scientific	JJ PRED
+and	PHC CCONJ
+non	JJ PRED
+-	JJ
+emotive	JJ
+throughout	RB PIN STPR PREP
+;	
+it	PIT PRP SBJP
+becomes	VPRT
+instead	RB CONJ
+one	NUM
+filled	
+with	PIN PREP
+auto	NN
+-	
+reflection	NOMZ
+and	CCONJ
+removed	
+from	PIN PREP
+the	ART DET
+intended	SUAV
+narrative	NN
+into	PIN PREP
+a	ART DET INDA
+meta	JJ
+-	
+narrative	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+partly	DWNT RB
+due	JJ
+to	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+Ernaux	CAP NNP
+transforms	VPRT
+herself	TPP3 PRP SBJP ACCU
+as	PIN CONJ PREP
+the	ART DET
+narration	NOMZ
+progresses	VPRT
+and	PHC CCONJ
+realises	VPRT PRIV
+that	PIN THVC SCONJ PREP
+she	TPP3 PRP SBJP
+herself	TPP3 PRP SBJP ACCU
+is	PASS VPRT AUXB
+split	
+between	PIN PREP
+two	NUM
+social	JJ
+classes	NN
+.	
+The	ART CAP DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+she	TPP3 PRP SBJP
+fails	VPRT
+to	PIN TO PREP
+remain	INF
+audit	NN
+throughout	PIN PREP
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+key	JJ
+pessimistic	JJ
+views	NN
+in	PIN CONJ PREP
+the	ART DET
+book	NN
+,	
+as	PIN CONJ PREP
+she	TPP3 PRP SBJP
+has	VPRT PEAS
+failed	
+this	DEMO DET
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+the	ART DET
+class	NN
+divisions	NOMZ
+.	
+The	ART CAP DET
+themes	NN
+of	PIN PREP
+social	JJ
+conditioning	GER
+and	PHC CCONJ
+class	NN
+divisions	NOMZ
+are	VPRT AUXB
+,	
+therefore	RB CONJ
+,	
+paramount	NN
+throughout	PIN STPR PREP
+'	CONT QUOT
+La	CAP NNP
+Place	CAP NNP
+'	CONT QUOT
+-	
+the	ART DET
+title	NN
+itself	PIT PRP SBJP ACCU
+hints	VPRT PUBV
+at	PIN PREP
+the	ART DET
+importance	NN
+of	PIN PREP
+one	NN
+'s	
+'	CONT QUOT
+place	NN
+'	CONT QUOT
+in	PIN CONJ PREP
+society	NN
+-	
+and	ANDC CCONJ
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+examples	NN
+in	PIN CONJ PREP
+the	ART DET
+text	NN
+of	PIN PREP
+alienation	NOMZ
+,	
+guilt	NN
+and	PHC CCONJ
+schism	NN
+to	PIN TO PREP
+prove	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+narrator	NN
+'s	
+views	NN
+on	PIN PREP
+these	DEMO DET
+issues	NN
+are	VPRT AUXB
+,	
+on	PIN PREP
+the	ART DET
+whole	JJ
+,	
+pessimistic	JJ
+.	
+Ernaux	CAP NNP
+,	
+Annie	CAP NNP
+.	
+,	
+La	CAP NNP
+Place	CAP NNP
+(	
+1983	NUM
+)	
+,	
+p.24	NNP
+Western	JJ CAP
+civilisation	NOMZ
+is	VPRT AUXB
+one	NUM
+geared	
+towards	PIN PREP
+consumption	NOMZ
+under	PIN PREP
+the	ART DET
+aegis	NN
+of	PIN PREP
+capitalism	NN
+and	CCONJ
+,	
+therefore	RB CONJ
+,	
+in	PIN CONJ PREP
+every	QUAN DET
+similar	JJ
+society	NN
+,	
+a	ART DET INDA
+class	NN
+structure	NN
+will	PRMD SPAU
+inevitably	RB
+emerge	INF
+.	
+Social	JJ CAP
+conditions	NOMZ
+and	CCONJ
+external	JJ
+forces	NN
+-	
+such	JJ
+as	PIN CONJ PREP
+peer	NN
+-	
+pressure	NN
+,	
+create	INF
+a	ART DET INDA
+certain	JJ
+social	JJ
+model	NN
+or	CCONJ
+"	QUOT
+norm	NN
+"	QUOT
+to	PIN PREP
+which	PIRE DET WH
+one	NN
+feels	VPRT PRIV
+compelled	
+to	PIN TO PREP
+abide	INF
+by	PIN STPR PREP
+.	
+There	EX CAP
+are	VPRT AUXB
+many	QUAN JJ
+examples	NN
+of	PIN PREP
+the	ART DET
+pressure	NN
+on	PIN PREP
+people	NN
+to	PIN TO PREP
+follow	INF
+these	DEMO DET
+artificial	JJ
+criteria	NN
+in	PIN CONJ STPR PREP
+'	CONT QUOT
+La	CAP NNP
+Place	CAP NNP
+'	CONT QUOT
+.	
+The	ART CAP DET
+father	NN
+of	PIN PREP
+the	ART DET
+narrator	NN
+is	PASS VPRT AUXB
+portrayed	
+as	PIN CONJ PREP
+desperate	JJ
+ensure	PRIV SUAV INF
+that	PIN THVC SCONJ PREP
+his	TPP3 PRP SBJP
+daughter	NN
+is	PASS VPRT AUXB
+educated	
+into	PIN PREP
+a	ART DET INDA
+higher	JJ CMADJ
+social	JJ
+class	NN
+,	
+perhaps	RB
+so	PIN SCONJ PREP
+she	TPP3 PRP SBJP
+will	PRMD SPAU
+never	RB
+feel	PRIV INF
+as	RB CONJ
+uncomfortable	JJ
+in	PIN CONJ PREP
+the	ART DET
+company	NN
+of	PIN PREP
+the	ART DET
+bourgeoisie	NN
+as	PIN CONJ PREP
+he	TPP3 PRP SBJP
+often	RB
+does	VPRT PROD
+.	
+He	TPP3 CAP PRP SBJP
+becomes	VPRT
+increasingly	RB
+more	RB EMPH CMADJ
+distant	JJ
+from	PIN PREP
+his	TPP3 PRP SBJP
+daughter	NN
+but	CCONJ
+wishes	VPRT
+to	PIN TO PREP
+ensure	PRIV SUAV INF
+her	TPP3 PRP SBJP
+elevation	NOMZ
+nonetheless	RB CONJ
+:	
+'	CONT QUOT
+Il	CAP INF
+me	FPP1 PRP SBJP ACCU
+conduisait	NNP
+de	NNP
+la	X
+maison	NNP
+à	X
+l'école	NNP
+sur	NNP
+son	NN
+vélo	NNP
+.	
+'	CONT QUOT
+The	ART CAP DET
+social	JJ
+conditions	NOMZ
+are	BEMA VPRT AUXB
+so	RB EMPH
+strong	JJ
+that	PIN THAC SCONJ PREP
+the	ART DET
+father	NN
+actually	RB
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+example	NN
+,	
+takes	VPRT
+her	TPP3 PRP SBJP
+daughter	NN
+to	PIN PREP
+a	ART DET INDA
+place	NN
+which	WHOBJ DET WH
+he	TPP3 PRP SBJP
+knows	VPRT PRIV
+will	PRMD
+distance	INF
+him	TPP3 PRP SBJP ACCU
+further	RB
+from	PIN PREP
+his	TPP3 PRP SBJP
+daughter	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+pessimistic	JJ
+view	NN
+.	
+The	ART CAP DET
+idea	NN
+of	PIN PREP
+being	PASS AUXB
+educated	
+into	PIN PREP
+a	ART DET INDA
+higher	JJ CMADJ
+sector	NN
+of	PIN PREP
+society	NN
+,	
+mirrors	VPRT
+those	DEMO DET
+of	PIN PREP
+Bourdieu	CAP NNP
+-	
+a	ART DET INDA
+French	JJ CAP
+sociologist	NN
+who	WHSUB WH
+outlines	VPRT
+'	CONT QUOT
+linguitic	JJ
+and	PHC CCONJ
+cultural	JJ
+capital	NN
+as	RB CONJ
+significant	JJ
+as	PIN CONJ PREP
+economic	JJ
+capital	NN
+'	CONT QUOT
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+mirrored	
+in	PIN CONJ PREP
+La	CAP NNP
+Place	CAP NNP
+:	
+'	CONT QUOT
+Tout	CAP NNP
+ce	NNP
+qui	X
+touché	NN
+au	NN
+langage	NN
+est	NNP
+dans	NNP
+mon	NNP
+souvenir	NNP
+motif	NN
+de	NNP
+rancœur	NNP
+et	NNP
+de	NNP
+chicanes	NNP
+douloureuses	NN
+,	
+bien	NN
+plus	PIN CCONJ PREP
+que	NNP
+l'argent	NNP
+.	
+'	CONT QUOT
+Bordieu	CAP NNP
+also	RB
+expresses	VPRT
+the	ART DET
+difference	NN
+between	PIN PREP
+the	ART DET
+'	CONT QUOT
+classes	NN
+dominantes	VPRT
+/	
+classes	NN
+dominées	NN
+'	CONT QUOT
+which	SERE DET WH
+Ernaux	CAP NNP
+also	RB
+outlines	VPRT
+and	PHC CCONJ
+shares	VPRT
+a	ART DET INDA
+pessimistic	JJ
+view	NN
+of	PIN STPR PREP
+.	
+Ibid	CAP INF
+.	
+,	
+p.112	NNP
+Bourdieu	CAP NNP
+,	
+La	CAP NNP
+Distinction	CAP NNP
+,	
+critique	NN
+sociale	NN
+du	NN
+jugement	JJ
+(	
+1979	NUM
+)	
+Ernaux	CAP NNP
+,	
+Annie	CAP NNP
+.	
+,	
+La	CAP NNP
+Place	CAP NNP
+(	
+1983	NUM
+)	
+,	
+p.64	NNP
+Bourdieu	CAP NNP
+,	
+La	CAP NNP
+Distinction	CAP NNP
+,	
+critique	NN
+sociale	NN
+du	NN
+jugement	JJ
+(	
+1979	NUM
+)	
+Ernaux	CAP NNP
+outlines	VPRT
+further	JJ
+pessimism	NN
+as	PIN CONJ PREP
+regards	NN
+to	PIN PREP
+social	JJ
+conditioning	GER
+and	CCONJ
+the	ART DET
+concept	NN
+of	PIN PREP
+a	ART DET INDA
+class	NN
+structure	NN
+,	
+by	PIN PREP
+explaining	GER PUBV PGAS
+that	PIN THVC SCONJ PREP
+people	NN
+who	WHSUB WH
+attempt	VPRT
+to	PIN TO PREP
+move	SUAV INF
+from	PIN PREP
+one	NUM
+sector	NN
+to	PIN PREP
+another	DET
+become	INF
+alienated	JJ
+.	
+This	DEMO CAP DET
+indeed	RB
+happens	VPRT
+to	PIN PREP
+the	ART DET
+narrator	NN
+herself	TPP3 PRP SBJP ACCU
+;	
+she	TPP3 PRP SBJP
+,	
+who	WHQU WH
+has	VPRT PEAS
+moved	SUAV
+into	PIN PREP
+the	ART DET
+bourgeoisie	NN
+,	
+has	VPRT
+a	ART DET INDA
+resulting	PGAS
+split	NN
+-	
+personality	NOMZ
+.	
+That	DEMP CAP DET
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+she	TPP3 PRP SBJP
+feels	VPRT PRIV
+alienated	JJ
+from	PIN PREP
+her	TPP3 PRP SBJP
+family	NN
+and	CCONJ
+her	TPP3 PRP SBJP
+previous	JJ
+social	JJ
+class	NN
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+herself	TPP3 PRP SBJP ACCU
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+shown	PRIV
+when	RB WHCL SCONJ WH
+she	TPP3 PRP SBJP
+goes	VPRT
+back	RB
+to	PIN PREP
+the	ART DET
+café	NN
+and	CCONJ
+reports	VPRT PUBV
+to	PIN TO PREP
+feel	PRIV INF
+almost	DWNT RB
+like	PIN PREP
+an	ART DET INDA
+impostor	NN
+.	
+Another	CAP DET
+example	NN
+of	PIN PREP
+La	CAP NNP
+Place	CAP NNP
+being	BEMA WZPRES AUXB
+a	ART DET INDA
+pessimistic	JJ
+view	NN
+of	PIN PREP
+class	NN
+divisions	NOMZ
+and	CCONJ
+social	JJ
+conditioning	GER
+is	BEMA VPRT AUXB
+the	ART DET
+point	NN
+that	TOBJ WHOBJ WH
+her	TPP3 PRP SBJP
+father	NN
+does	VPRT SPAU
+not	XX0 RB
+fit	INF
+in	PIN CONJ PREP
+and	CCONJ
+even	RB
+feels	VPRT PRIV
+embarrassed	JJ
+when	RB SCONJ WH
+speaking	PGAS
+to	PIN STPR PREP
+,	
+or	CCONJ
+in	PIN CONJ PREP
+the	ART DET
+company	NN
+of	PIN STPR PREP
+,	
+those	DEMO DET
+from	PIN PREP
+a	ART DET INDA
+higher	JJ CMADJ
+social	JJ
+class	NN
+.	
+Because	CAUS PIN CAP SCONJ PREP
+of	PIN PREP
+the	ART DET
+class	NN
+divisions	NOMZ
+and	PHC CCONJ
+language	NN
+barriers	NN
+which	WHSUB DET WH
+coincide	VPRT
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+,	
+he	TPP3 PRP SBJP
+can	POMD SPAU
+never	RB
+be	AUXB INF
+himself	TPP3 PRP SBJP ACCU
+in	PIN CONJ PREP
+certain	JJ
+groups	NN
+and	ANDC CCONJ
+this	DEMP DET
+is	BEMA VPRT AUXB
+how	RB SCONJ WH
+a	ART DET INDA
+person	NN
+'s	
+identity	NOMZ
+is	PASS VPRT SPAU AUXB
+partly	DWNT RB
+lost	
+.	
+He	TPP3 CAP PRP SBJP
+is	PASS VPRT BYPA SPAU AUXB
+always	RB
+compelled	
+by	PIN STPR PREP
+'	CONT QUOT
+La	CAP NNP
+peur	NNP
+d'être	NNP
+déplacé	NNP
+,	
+d'avoir	NNP
+honte	NNP
+.	
+'	CONT QUOT
+he	TPP3 PRP SBJP
+feels	VPRT PRIV
+always	RB
+out	PIN PREP
+of	PIN PREP
+place	NN
+and	CCONJ
+,	
+because	CAUS PIN SCONJ PREP
+he	TPP3 PRP SBJP
+has	VPRT PEAS
+become	
+a	ART DET INDA
+marchant	NN
+,	
+is	BEMA VPRT AUXB
+afraid	JJ PRED
+of	PIN PREP
+making	PGAS
+mistakes	NN
+and	CCONJ
+being	PASS AUXB
+found	PRIV
+out	PIN PREP
+of	PIN PREP
+being	BEMA AUXB
+a	ART DET INDA
+paysan	NN
+-	
+'	CONT QUOT
+devant	JJ
+les	X
+gens	VPRT
+qui	NNP
+parlaient	NNP
+bien	NNP
+il	NNP
+se	NNP
+taisait,	NNP
+...	
+toujours	NN
+parler	NN
+(	
+parlait	NNP
+)	
+avec	PIN PREP
+précaution	NOMZ
+...	
+il	NNP
+détestait	NNP
+aussi	NNP
+les	NNP
+grandes	VPRT
+phrases	NN
+et	NNP
+les	NN
+expressions	NOMZ
+nouvelles	NN
+'	CONT QUOT
+.	
+The	ART CAP DET
+pessimistic	JJ
+view	NN
+put	WZPAST
+forward	RB
+here	RB
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+presence	NN
+of	PIN PREP
+a	ART DET INDA
+different	JJ
+class	NN
+ensures	VPRT PRIV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+father	NN
+has	VPRT
+always	RB
+to	PIN TO PREP
+be	BEMA AUXB INF
+on	PIN PREP
+his	TPP3 PRP SBJP
+guard	NN
+,	
+he	TPP3 PRP SBJP
+is	PASS VPRT AUXB
+separated	
+from	PIN PREP
+them	TPP3 PRP SBJP ACCU
+and	CCONJ
+his	TPP3 PRP SBJP
+daughter	NN
+as	PIN CONJ PREP
+he	TPP3 PRP SBJP
+belongs	VPRT
+to	PIN PREP
+a	ART DET INDA
+different	JJ
+sphere	NN
+of	PIN PREP
+knowledge	NN
+.	
+The	ART CAP DET
+point	NN
+of	PIN PREP
+language	NN
+further	RB
+alienates	VPRT
+her	TPP3 PRP SBJP
+father	NN
+as	PIN CONJ PREP
+we	FPP1 PRP SBJP
+discover	VPRT PRIV
+that	PIN THVC SCONJ PREP
+her	TPP3 PRP SBJP
+mother	NN
+is	BEMA VPRT AUXB
+somewhat	DWNT RB
+different	JJ
+;	
+in	PIN CONJ PREP
+that	PIN DEMO SCONJ PREP
+she	TPP3 PRP SBJP
+is	VPRT AUXB
+'	CONT QUOT
+soucieuse	NN
+de	NNP
+faire	X
+évoluée	NNP
+,	
+qui	NNP
+osait	NNP
+experimenter	NNP
+,	
+avec	PIN PREP
+un	NNP
+rien	NNP
+d'incertitude	NNP
+,	
+ce	NNP
+qu'elle	NNP
+venait	NNP
+d'entendre	NNP
+ou	PIN PREP
+de	NNP
+lire	NNP
+'	CONT QUOT
+as	PIN CONJ PREP
+opposed	
+to	PIN PREP
+him	TPP3 PRP SBJP ACCU
+who	WH
+'	CONT QUOT
+se	RB
+refusait	VPRT
+à	DET
+employer	NN
+un	NNP
+vocabulaire	NNP
+qui	NNP
+n'était	NNP
+pas	NNP
+le	NNP
+sien	NNP
+.	
+'	CONT QUOT
+He	TPP3 CAP PRP SBJP
+is	VPRT AUXB
+,	
+therefore	RB CONJ
+,	
+portrayed	PASTP
+as	PIN CONJ PREP
+being	PASS AUXB
+left	
+completely	AMP RB
+isolated	JJ
+.	
+Ernaux	CAP NNP
+,	
+Annie	CAP NNP
+.	
+,	
+La	CAP NNP
+Place	CAP NNP
+(	
+1983	NUM
+)	
+,	
+p.59	NNP
+Ibid	CAP NNP
+.	
+,	
+p.63	X
+Ibid	NN CAP
+.	
+,	
+p.63	X
+Ibid	NN CAP
+.	
+,	
+pp.63	NUM
+-	
+64	NUM
+The	ART CAP DET
+social	JJ
+conditions	NOMZ
+and	CCONJ
+the	ART DET
+very	AMP JJ
+fact	NN
+that	PIN TOBJ SCONJ PREP
+a	ART DET INDA
+class	NN
+structure	NN
+exists	VPRT
+cause	VPRT
+the	ART DET
+narrator	NN
+to	PIN TO PREP
+feel	PRIV INF
+guilty	JJ
+.	
+She	TPP3 CAP PRP SBJP
+feels	VPRT PRIV
+guilty	JJ
+when	RB SCONJ WH
+coming	PGAS
+back	RB
+to	PIN PREP
+the	ART DET
+café	NN
+and	CCONJ
+also	RB
+when	RB SCONJ WH
+she	TPP3 PRP SBJP
+meets	VPRT
+her	TPP3 PRP SBJP
+former	JJ
+pupil	NN
+who	WHSUB WH
+says	VPRT PUBV
+to	PIN PREP
+her	TPP3 PRP SBJP ACCU
+she	TPP3 PRP SBJP
+has	VPRT PEAS
+failed	
+.	
+The	ART CAP DET
+narrator	NN
+can	POMD SPAU
+not	XX0 RB
+even	RB
+remember	PRIV INF
+the	ART DET
+woman	NN
+and	CCONJ
+feels	VPRT PRIV THATD
+she	TPP3 PRP SBJP
+has	VPRT PEAS
+failed	
+in	PIN CONJ PREP
+some	QUAN DET
+way	NN
+.	
+'	CONT QUOT
+"	QUOT
+Le	CAP NNP
+C.E.T.	CAP NNP
+,	
+ça	NNP
+n'a	NNP
+pas	NNP
+marché	NN
+.	
+"	QUOT
+...	
+Mais	CAP NNP
+j'avais	NNP
+oublié	NNP
+pourquoi	NNP
+elle	NNP
+avait	NNP
+été	NNP
+envoyé	NNP
+en	X
+C.E.T.	CAP NNP
+'	CONT QUOT
+The	ART CAP DET
+arrogance	NN
+of	PIN PREP
+the	ART DET
+librarians	NN
+is	BEMA VPRT AUXB
+another	DET
+pessimistic	JJ
+view	NN
+concerning	GER WZPRES PGAS
+the	ART DET
+class	NN
+divisions	NOMZ
+;	
+when	RB SCONJ WH
+the	ART DET
+father	NN
+asks	VPRT SUAV
+for	PIN PREP
+some	QUAN DET
+books	NN
+one	NUM
+of	PIN PREP
+the	ART DET
+librarians	NNP
+'	CONT QUOT
+a	ART DET INDA
+choisi	JJ
+à	NNP
+notre	NNP
+place	NN
+,	
+Columba	CAP NNP
+pour	NN
+moi	NN
+,	
+un	NNP
+roman	NNP
+léger	NNP
+de	NNP
+Maupassant	CAP NNP
+pour	VPRT
+mon	NNP
+père	NNP
+.	
+'	CONT QUOT
+These	DEMP CAP DET
+are	BEMA VPRT AUXB
+both	DET
+non	JJ
+-	JJ
+challenging	JJ
+pieces	NN
+.	
+The	ART CAP DET
+appearance	NN
+of	PIN PREP
+exclusivity	NOMZ
+evoked	WZPAST
+by	PIN PREP
+the	ART DET
+librarians	NN
+of	PIN PREP
+the	ART DET
+educated	
+,	
+higher	JJ CMADJ
+class	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+negative	JJ
+one	NUM
+.	
+Ibid	CAP INF
+.	
+,	
+p.114	NNP
+Ibid	CAP NNP
+.	
+,	
+p.112	X
+Whilst	OSUB PIN CAP SCONJ PREP
+everyone	QUPR INPR
+is	VPRT AUXB
+trying	PGAS
+desperately	RB
+to	PIN TO PREP
+fit	INF
+in	PIN CONJ PREP
+to	PIN PREP
+a	ART DET INDA
+place	NN
+where	RB WHOBJ SCONJ WH
+their	TPP3 PRP SBJP
+identity	NOMZ
+is	PASS VPRT AUXB
+contradicted	
+,	
+people	NN
+become	VPRT
+isolated	JJ
+.	
+This	DEMP CAP DET
+occurs	VPRT
+in	PIN CONJ PREP
+each	QUAN DET
+generation	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+book	NN
+.	
+It	PIT CAP PRP SBJP
+seems	VPRT SMP
+also	RB
+,	
+that	PIN THVC SCONJ PREP
+the	ART DET
+targeted	
+ideal	NN
+is	PASS VPRT BYPA SPAU AUXB
+actually	RB
+never	RB
+reached	
+by	PIN PREP
+anyone	QUPR INPR
+.	
+However	RB CONJ CAP
+,	
+there	EX
+are	VPRT AUXB
+some	QUAN DET
+themes	NN
+in	PIN CONJ PREP
+the	ART DET
+book	NN
+which	WHOBJ DET WH
+one	PRP SBJP
+could	POMD
+interpret	INF
+as	PIN CONJ PREP
+not	XX0 RB
+pessimistic	JJ
+of	PIN PREP
+social	JJ
+standing	NN
+and	PHC CCONJ
+class	NN
+divisions	NOMZ
+.	
+The	ART CAP DET
+father	NN
+,	
+although	CONC PIN SCONJ PREP
+uneasy	JJ
+in	PIN CONJ PREP
+certain	JJ
+situations	NOMZ
+,	
+never	RB
+suffers	VPRT
+any	QUAN DET
+real	JJ
+hardship	NN
+so	PIN SCONJ PREP
+it	PIT PRP SBJP
+could	POMD
+be	PASS AUXB INF
+argued	PUBV
+that	PIN THVC SCONJ PREP
+pessimism	NN
+is	BEMA VPRT AUXB
+too	RB
+strong	JJ
+a	ART DET INDA
+word	NN
+.	
+The	ART CAP DET
+narrator	NN
+is	VPRT AUXB
+part	NN
+of	PIN PREP
+these	DEMO DET
+class	NN
+divisions	NOMZ
+and	CCONJ
+social	JJ
+conditions	NOMZ
+and	CCONJ
+helps	VPRT
+to	PIN TO PREP
+judge	PRIV INF
+them	TPP3 PRP SBJP ACCU
+,	
+being	BEMA PRESP AUXB
+a	ART DET INDA
+teacher	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+unlikely	JJ PRED
+therefore	RB CONJ
+that	PIN DEMO SCONJ PREP
+she	TPP3 PRP SBJP
+would	PRMD
+speak	INF
+with	PIN PREP
+total	JJ
+pessimism	NN
+.	
+Another	CAP DET
+example	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+one	PRP SBJP
+could	POMD
+interpret	INF
+the	ART DET
+class	NN
+divisions	NOMZ
+and	CCONJ
+indeed	RB
+the	ART DET
+social	JJ
+conditions	NOMZ
+as	PIN CONJ PREP
+being	BEMA AUXB
+the	ART DET
+reason	PRIV NN
+for	PIN PREP
+people	NN
+-	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+narrator	NN
+-	
+to	PIN TO PREP
+become	INF
+educated	JJ
+and	CCONJ
+want	VPRT
+to	PIN TO PREP
+better	INF
+themselves	TPP3 PRP SBJP ACCU
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+reasons	PRIV NN
+for	PIN PREP
+this	DEMP DET
+(	
+the	ART DET
+want	NN
+to	PIN TO PREP
+fit	INF
+in	PIN CONJ PREP
+with	PIN PREP
+a	ART DET INDA
+higher	JJ CMADJ
+society	NN
+)	
+may	POMD SPAU
+not	XX0 RB
+be	AUXB INF
+entirely	AMP RB
+just	RB EMPH
+or	CCONJ
+ideal	JJ
+,	
+a	ART DET INDA
+population	NOMZ
+filled	WZPAST
+with	PIN PREP
+such	JJ
+sorts	NN
+-	
+those	DEMP DET
+who	WH
+strive	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+educated	
+-	
+can	POMD SPAU
+surely	RB
+only	DWNT RB
+be	BEMA AUXB INF
+beneficial	JJ PRED
+to	PIN PREP
+a	ART DET INDA
+society	NN
+.	
+Therefore	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+situation	NOMZ
+such	JJ
+class	NN
+divisions	NOMZ
+and	CCONJ
+social	JJ
+conditions	NOMZ
+can	POMD SPAU
+hardly	DWNT RB
+be	PASS AUXB INF
+viewed	
+as	PIN CONJ PREP
+pessimistic	JJ
+.	
+The	ART CAP DET
+narrator	NN
+indeed	RB
+speaks	VPRT
+highly	AMP RB
+of	PIN PREP
+her	TPP3 PRP SBJP
+education	NOMZ
+throughout	PIN STPR PREP
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+therefore	RB CONJ
+,	
+although	CONC PIN SCONJ PREP
+there	EX
+are	VPRT AUXB
+a	ART DET INDA
+small	JJ
+number	NN
+of	PIN PREP
+examples	NN
+which	WHSUB DET WH
+could	POMD
+be	PASS AUXB INF
+interpreted	
+as	PIN CONJ PREP
+contradicting	GER PGAS
+to	PIN PREP
+this	DEMO DET
+statement	NOMZ
+,	
+due	PIN PREP
+to	PIN PREP
+the	ART DET
+portrayal	NN
+of	PIN PREP
+guilt	NN
+but	CCONJ
+mainly	RB
+alienation	NOMZ
+and	PHC CCONJ
+pressure	NN
+,	
+La	CAP NNP
+Place	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+pessimistic	JJ
+view	NN
+of	PIN PREP
+social	JJ
+conditions	NOMZ
+and	PHC CCONJ
+class	NN
+divisions	NOMZ
+.	

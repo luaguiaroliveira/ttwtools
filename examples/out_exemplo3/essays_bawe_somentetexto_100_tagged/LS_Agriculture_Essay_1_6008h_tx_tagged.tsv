@@ -1,0 +1,899 @@
+# filename: LS_Agriculture_Essay_1_6008h_tx.txt
+token	tags
+A	ART CAP DET INDA
+firm	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+institution	NOMZ
+that	TSUB WHSUB WH
+hires	VPRT
+factors	NN
+of	PIN PREP
+production	NOMZ
+and	ANDC CCONJ
+that	DEMP WH
+organizes	VPRT
+those	DEMO DET
+factors	NN
+to	PIN TO PREP
+produce	INF
+and	PHC CCONJ
+sell	INF
+goods	NN
+and	PHC CCONJ
+services	NN
+.	
+Modern	JJ CAP
+firms	NN
+are	PASS VPRT SPAU AUXB
+often	RB
+made	
+up	PIN PREP
+of	PIN PREP
+a	ART DET INDA
+number	NN
+of	PIN PREP
+individuals	NN
+and	CCONJ
+are	BEMA VPRT AUXB
+interchangeable	JJ PRED
+with	PIN PREP
+market	NN
+.	
+Individuals	NN CAP
+interact	VPRT
+with	PIN PREP
+each	QUAN DET
+other	JJ
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+make	INF
+decisions	NOMZ
+.	
+That	DEMP CAP DET
+'s	VPRT
+also	RB
+an	ART DET INDA
+obvious	JJ
+difference	NN
+from	PIN PREP
+the	ART DET
+traditional	JJ
+firm	NN
+as	PIN CONJ PREP
+traditional	JJ
+firm	NN
+only	DWNT RB
+make	VPRT
+decision	NOMZ
+in	PIN CONJ PREP
+response	NN
+to	PIN PREP
+market	NN
+price	NN
+.	
+But	CAP CCONJ
+as	PIN CONJ PREP
+there	EX
+are	VPRT AUXB
+more	JJ EMPH CMADJ
+small	JJ
+individuals	NN
+,	
+communication	NOMZ
+problems	NN
+arise	VPRT
+.	
+Incomplete	JJ CAP
+information	NOMZ
+and	CCONJ
+misunderstanding	GER PGAS
+onset	NN
+conflicts	NN
+.	
+The	ART CAP DET
+'	CONT QUOT
+principal	JJ
+-	
+agent	NN
+problem	NN
+'	CONT QUOT
+(	
+P	NN CAP
+-	
+A	NN CAP
+problem	NN
+)	
+takes	VPRT
+place	NN
+when	RB WHOBJ SCONJ WH
+people	NN
+(	
+principals	NN
+)	
+,	
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+lack	NN
+of	PIN PREP
+knowledge	NN
+,	
+can	POMD SPAU
+not	XX0 RB
+ensure	PRIV SUAV INF
+that	PIN THVC SCONJ PREP
+their	TPP3 PRP SBJP
+best	JJ SPADJ
+interests	NN
+are	PASS VPRT BYPA AUXB
+ensured	PRIV SUAV
+by	PIN PREP
+their	TPP3 PRP SBJP
+agents	NN
+.	
+Then	RB CAP
+who	WHQU WH
+are	BEMA VPRT AUXB
+the	ART DET
+principals	NN
+and	ANDC CCONJ
+who	WH
+are	BEMA VPRT AUXB
+their	TPP3 PRP SBJP
+agents	NN
+?	QUES
+The	ART CAP DET
+relationship	NN
+between	PIN PREP
+the	ART DET
+shareholders	NN
+and	CCONJ
+its	PIT PRP SBJP
+managers	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+agency	NN
+relationship	NN
+.	
+The	ART CAP DET
+shareholders	NN
+(	
+the	ART DET
+principals	NN
+)	
+want	VPRT
+the	ART DET
+managers	NN
+(	
+agents	NN
+)	
+to	PIN TO PREP
+act	INF
+in	PIN CONJ PREP
+the	ART DET
+shareholders	NN
+'	CONT QUOT
+best	JJ SPADJ
+interest	NN
+.	
+We	FPP1 CAP PRP SBJP
+can	POMD
+a	ART DET INDA
+software	NN
+company	NN
+,	
+Microsoft	CAP NNP
+as	PIN CONJ PREP
+an	ART DET INDA
+example	NN
+.	
+The	ART CAP DET
+Microsoft	CAP NNP
+Corporation	CAP NNP
+senior	JJ
+managers	NN
+(	
+the	ART DET
+principals	NN
+)	
+and	ANDC CCONJ
+programmers	NN
+working	WZPRES PGAS
+on	PIN PREP
+the	ART DET
+next	JJ
+version	NOMZ
+of	PIN PREP
+Windows	CAP NNP
+(	
+agent	NN
+)	
+is	BEMA VPRT AUXB
+an	ART DET INDA
+agency	NN
+relationship	NN
+.	
+Microsoft	CAP NNP
+managers	NN
+want	VPRT
+the	ART DET
+programmers	NN
+to	PIN TO PREP
+work	INF
+towards	PIN PREP
+their	TPP3 PRP SBJP
+managerial	JJ
+goals	NN
+.	
+The	ART CAP DET
+P	NN CAP
+-	
+A	NN CAP
+problem	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+firm	NN
+occurs	VPRT
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+difficult	JJ PRED
+to	PIN TO PREP
+monitor	INF
+the	ART DET
+activities	NN
+of	PIN PREP
+all	QUAN DET
+employees	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+large	JJ
+company	NN
+,	
+the	ART DET
+flow	NN
+of	PIN PREP
+information	NOMZ
+can	POMD
+be	BEMA AUXB INF
+slow	JJ PRED
+and	PHC CCONJ
+misleading	JJ PRED
+.	
+Some	QUAN CAP DET
+firms	NN
+or	CCONJ
+some	QUAN DET
+forms	NN
+of	PIN PREP
+business	NOMZ
+organization	NOMZ
+are	BEMA VPRT AUXB
+complex	JJ PRED
+.	
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+long	JJ
+chain	NN
+of	PIN PREP
+connections	NOMZ
+,	
+interests	NN
+and	PHC CCONJ
+procedures	NN
+from	PIN PREP
+the	ART DET
+shareholders	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+this	DEMP DET
+takes	VPRT
+up	PIN PREP
+the	ART DET
+advantage	NN
+of	PIN PREP
+division	NOMZ
+of	PIN PREP
+labour	NN
+,	
+this	DEMO DET
+also	RB
+generates	VPRT
+two	NUM
+P	NN CAP
+-	
+A	NN CAP
+problems	NN
+:	
+1	X
+.	X
+Separation	NOMZ CAP
+of	PIN PREP
+ownership	NN
+and	PHC CCONJ
+control	NN
+2	NUM
+.	
+Monitoring	GER CAP
+and	PHC CCONJ
+motivation	NOMZ
+problems	NN
+The	ART CAP DET
+separation	NOMZ
+of	PIN PREP
+ownership	NN
+from	PIN PREP
+control	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+problem	NN
+if	COND PIN SCONJ PREP
+managers	NN
+pursue	VPRT
+different	JJ
+goals	NN
+from	PIN PREP
+shareholders	NN
+.	
+Sometimes	RB CAP
+shareholders	NN
+(	
+the	ART DET
+principals	NN
+)	
+want	VPRT
+the	ART DET
+firm	NN
+to	PIN TO PREP
+maximize	INF
+profit	NN
+but	CCONJ
+the	ART DET
+managers	NN
+(	
+agents	NN
+)	
+have	VPRT
+their	TPP3 PRP SBJP
+own	JJ
+goals	NN
+such	JJ
+as	PIN CONJ PREP
+maximizing	GER PGAS
+salaries	NN
+.	
+The	ART CAP DET
+monitoring	GER
+and	PHC CCONJ
+motivation	NOMZ
+problems	NN
+raise	VPRT
+costs	NN
+and	CCONJ
+reduce	INF
+profits	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+difficult	JJ
+for	PIN PREP
+managers	NN
+(	
+principals	NN
+)	
+to	PIN TO PREP
+monitor	INF
+their	TPP3 PRP SBJP
+workforce	NN
+(	
+agents	NN
+)	
+in	PIN CONJ PREP
+complex	JJ
+organizations	NOMZ
+.	
+Workers	NN CAP
+'	CONT QUOT
+utility	NOMZ
+falls	VPRT
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+do	VPRT PROD
+more	JJ EMPH CMADJ
+work	NN
+for	PIN PREP
+a	ART DET INDA
+given	
+weekly	JJ
+wage	NN
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+may	POMD
+do	PROD INF
+less	JJ CMADJ
+work	INF
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	PASS VPRT BYPA SPAU AUXB
+not	XX0 RB
+closely	RB
+monitored	
+by	PIN PREP
+their	TPP3 PRP SBJP
+managers	NN
+.	
+Any	QUAN CAP DET
+problems	NN
+arise	VPRT
+within	PIN PREP
+the	ART DET
+firm	NN
+will	PRMD
+affect	INF
+its	PIT PRP SBJP
+efficiency	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+turn	NN
+reduce	INF
+the	ART DET
+profit	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+raise	INF
+efficiency	NN
+and	CCONJ
+avoid	INF
+the	ART DET
+problems	NN
+of	PIN PREP
+limited	JJ
+information	NOMZ
+,	
+a	ART DET INDA
+rich	JJ
+variety	NN
+of	PIN PREP
+institutions	NOMZ
+,	
+contractual	JJ
+relationships	NN
+and	PHC CCONJ
+compensation	NOMZ
+schemes	NN
+have	VPRT PEAS
+been	PASS AUXB
+devised	
+in	PIN CONJ PREP
+business	NOMZ
+organizations	NOMZ
+.	
+Actually	RB CAP
+,	
+the	ART DET
+P	NN CAP
+-	
+A	NN CAP
+problem	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS BYPA AUXB INF
+solved	
+just	RB EMPH
+by	PIN PREP
+giving	PGAS
+orders	SUAV NN
+and	CCONJ
+having	PEAS PGAS
+them	TPP3 PRP SBJP ACCU
+obeyed	
+.	
+The	ART CAP DET
+firm	NN
+'s	
+owner	NN
+(	
+principals	NN
+)	
+must	NEMD
+find	PRIV INF
+a	ART DET INDA
+way	NN
+to	PIN TO PREP
+induce	INF
+the	ART DET
+managers	NN
+(	
+agents	NN
+)	
+to	PIN TO PREP
+pursue	INF
+the	ART DET
+maximum	JJ
+possible	JJ
+profit	NN
+and	CCONJ
+the	ART DET
+managers	NN
+(	
+principals	NN
+)	
+must	NEMD
+induce	INF
+the	ART DET
+workers	NN
+(	
+agents	NN
+)	
+to	PIN TO PREP
+work	INF
+efficiently	RB
+.	
+The	ART CAP DET
+four	NUM
+main	JJ
+ways	NN
+are	VPRT AUXB
+ownership	NN
+,	
+incentive	NN
+pay	NN
+,	
+long	JJ
+-	
+term	NN
+contracts	NN
+and	CCONJ
+internal	JJ
+restructuring	GER
+.	
+The	ART CAP DET
+structure	NN
+and	PHC CCONJ
+behaviour	NN
+of	PIN PREP
+the	ART DET
+firms	NN
+are	PASS VPRT AUXB
+made	
+to	PIN TO PREP
+minimize	INF
+the	ART DET
+P	NN CAP
+-	
+A	NN CAP
+problems	NN
+.	
+The	ART CAP DET
+firm	NN
+devises	VPRT
+incentive	NN
+mechanisms	NN
+and	PHC CCONJ
+structures	NN
+such	JJ OSUB
+that	PIN THAC SCONJ PREP
+the	ART DET
+agents	NN
+'	CONT QUOT
+behaviour	NN
+is	BEMA VPRT AUXB
+consistent	JJ PRED
+with	PIN PREP
+the	ART DET
+objectives	NN
+of	PIN PREP
+the	ART DET
+principal	NN
+and	CCONJ
+or	CCONJ
+the	ART DET
+monitoring	GER PGAS
+role	NN
+is	BEMA VPRT AUXB
+easier	JJ PRED CMADJ
+.	
+Ownership	NN CAP
+Giving	WZPRES CAP PGAS
+a	ART DET INDA
+manager	NN
+or	CCONJ
+worker	NN
+ownership	NN
+of	PIN PREP
+a	ART DET INDA
+business	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+way	NN
+of	PIN PREP
+improving	PGAS
+job	NN
+performance	NN
+and	CCONJ
+increasing	GER PGAS
+a	ART DET INDA
+firm	NN
+'s	
+profits	NN
+.	
+The	ART CAP DET
+manager	NN
+(	
+agent	NN
+)	
+becomes	VPRT
+more	RB EMPH CMADJ
+like	PIN PREP
+the	ART DET
+owner	NN
+(	
+principal	NN
+)	
+and	ANDC CCONJ
+profit	NN
+maximization	NOMZ
+will	PRMD
+become	INF
+a	ART DET INDA
+more	RB EMPH CMADJ
+important	JJ
+management	NOMZ
+goal	NN
+.	
+Many	QUAN JJ CAP
+large	JJ
+retails	NN
+stores	NN
+now	RB TIME
+offer	VPRT
+staff	NN
+cheap	JJ
+share	NN
+purchase	NN
+options	NOMZ
+.	
+Incentive	NN CAP
+pay	NN
+Staff	CAP NNP
+are	PASS VPRT AUXB
+assessed	
+annually	RB
+against	PIN PREP
+a	ART DET INDA
+wide	JJ
+variety	NN
+of	PIN PREP
+performance	NN
+criteria	NN
+.	
+Many	QUAN JJ CAP
+firms	NN
+reward	VPRT
+managers	NN
+and	PHC CCONJ
+staff	NN
+by	PIN PREP
+offering	PGAS
+separate	JJ
+bonuses	NN
+for	PIN PREP
+meeting	PGAS
+production	NOMZ
+or	CCONJ
+sales	NN
+targets	NN
+.	
+These	DEMO CAP DET
+types	NN
+of	PIN PREP
+incentive	NN
+pay	NN
+schemes	NN
+help	VPRT
+focus	INF
+the	ART DET
+goals	NN
+of	PIN PREP
+all	QUAN DET
+employees	NN
+on	PIN PREP
+profit	NN
+maximization	NOMZ
+,	
+reducing	PRESP PGAS
+the	ART DET
+P	NN CAP
+-	
+A	NN CAP
+problem	NN
+.	
+Long	JJ CAP
+-	
+term	NN
+contracts	NN
+The	ART CAP DET
+contracts	NN
+tie	VPRT
+the	ART DET
+long	JJ
+-	
+term	NN
+fortunes	NN
+of	PIN PREP
+managers	NN
+and	PHC CCONJ
+workers	NN
+to	PIN PREP
+the	ART DET
+success	NN
+of	PIN PREP
+the	ART DET
+owners	NN
+of	PIN PREP
+the	ART DET
+firms	NN
+.	
+They	TPP3 CAP PRP SBJP
+also	RB
+help	VPRT
+cut	INF
+labour	JJ
+cost	NN
+.	
+Internal	JJ CAP
+structure	NN
+Monitoring	CAP NNP
+and	CCONJ
+motivating	GER PGAS
+your	SPP2 PRP SBJP
+workforce	NN
+is	BEMA VPRT AUXB
+easier	JJ PRED CMADJ
+in	PIN CONJ PREP
+a	ART DET INDA
+small	JJ
+organization	NOMZ
+as	PIN CONJ PREP
+the	ART DET
+owner	NN
+is	BEMA VPRT AUXB
+also	RB
+the	ART DET
+manager	NN
+and	CCONJ
+knows	VPRT PRIV
+all	QUAN DET
+the	ART DET
+staff	NN
+personally	RB
+.	
+By	PIN CAP PREP
+changing	PGAS
+the	ART DET
+internal	JJ
+structure	NN
+of	PIN PREP
+the	ART DET
+firm	NN
+,	
+the	ART DET
+flow	NN
+of	PIN PREP
+information	NOMZ
+and	CCONJ
+the	ART DET
+benefits	NN
+of	PIN PREP
+team	NN
+work	NN
+and	PHC CCONJ
+specialization	NOMZ
+can	POMD
+be	PASS AUXB INF
+increased	
+.	
+This	DEMO CAP DET
+also	RB
+reduces	VPRT
+the	ART DET
+monitoring	GER
+costs	NN
+and	CCONJ
+makes	VPRT
+the	ART DET
+performance	NN
+of	PIN PREP
+one	NUM
+division	NOMZ
+less	RB CMADJ
+dependent	JJ
+on	PIN PREP
+that	DEMO DET
+of	PIN PREP
+another	DET
+.	
+Nowadays	RB TIME CAP
+,	
+large	JJ
+companies	NN
+always	RB
+dominate	VPRT
+trade	NN
+although	CONC PIN SCONJ PREP
+there	EX
+are	VPRT AUXB
+more	JJ EMPH CMADJ
+chances	NN
+for	PIN PREP
+the	ART DET
+P	CAP NNP
+-	
+A	NN CAP
+problem	NN
+to	PIN TO PREP
+occur	INF
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+those	DEMO DET
+companies	NN
+are	BEMA VPRT AUXB
+large	JJ PRED
+in	PIN CONJ PREP
+scale	NN
+and	CCONJ
+low	JJ
+cost	NN
+capital	NN
+will	PRMD
+be	BEMA AUXB INF
+available	JJ PRED
+.	
+They	TPP3 CAP PRP SBJP
+have	VPRT
+better	JJ CMADJ
+planning	NN
+and	CCONJ
+are	BEMA VPRT AUXB
+easier	JJ PRED CMADJ
+to	PIN TO PREP
+carry	INF
+out	PIN PREP
+the	ART DET
+schemes	NN
+which	WHSUB DET WH
+cope	VPRT
+with	PIN PREP
+the	ART DET
+P	NN CAP
+-	
+A	NN CAP
+problem	NN
+.	
+Actually	RB CAP
+solving	PGAS
+the	ART DET
+P	CAP NNP
+-	
+A	NN CAP
+problem	NN
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+means	PRIV NN
+to	PIN TO PREP
+reduce	INF
+cost	NN
+too	RB
+.	

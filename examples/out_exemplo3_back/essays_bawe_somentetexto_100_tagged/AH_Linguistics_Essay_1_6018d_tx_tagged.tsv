@@ -1,0 +1,599 @@
+# filename: AH_Linguistics_Essay_1_6018d_tx.txt
+token	tags
+When	RB CAP SCONJ WH
+acquiring	PGAS
+language	NN
+children	NN
+are	PASS VPRT AUXB
+taught	
+to	PIN TO PREP
+read	INF
+and	PHC CCONJ
+write	PUBV INF
+but	CCONJ
+seemingly	RB
+pick	INF
+up	PIN PREP
+language	NN
+and	CCONJ
+learn	PRIV INF
+to	PIN TO PREP
+speak	INF
+without	PIN PREP
+any	QUAN DET
+formal	JJ
+instruction	NOMZ
+.	
+There	EX CAP
+are	VPRT AUXB
+many	QUAN JJ
+ways	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+it	PIT PRP SBJP
+can	POMD
+be	PASS AUXB INF
+shown	PRIV
+that	PIN THVC SCONJ PREP
+children	NN
+are	PASS VPRT SPAU AUXB
+n't	XX0 CONT RB
+taught	
+language	NN
+whereas	OSUB PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+reading	PGAS
+and	CCONJ
+writing	PUBV NN
+.	
+Children	NN CAP
+are	PASS VPRT AUXB
+supplied	
+with	PIN PREP
+both	CCONJ
+informal	JJ
+and	PHC CCONJ
+formal	JJ
+tuition	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+reading	NN
+and	CCONJ
+writing	PUBV PGAS
+systems	NN
+.	
+By	PIN CAP PREP
+the	ART DET
+time	NN
+children	NN
+reach	VPRT
+school	NN
+age	NN
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+likely	JJ PRED
+to	PIN TO PREP
+have	PEAS INF
+received	
+some	QUAN DET
+form	NN
+of	PIN PREP
+informal	JJ
+teaching	NN
+of	PIN PREP
+reading	NN
+and	CCONJ
+writing	PUBV PGAS
+from	PIN PREP
+parents	NN
+which	WHOBJ DET WH
+as	PIN CONJ PREP
+Crystal	CAP NNP
+notes	PRIV NN
+,	
+is	BEMA VPRT AUXB
+often	RB
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+a	ART DET INDA
+colourful	JJ
+alphabet	NN
+book	NN
+bought	WZPAST
+for	PIN PREP
+the	ART DET
+child	NN
+by	PIN PREP
+relatives	NN
+.	
+Whatever	CAP DET WH
+the	ART DET
+source	NN
+though	CONC RB
+,	
+the	ART DET
+point	NN
+is	VPRT AUXB
+;	
+even	RB
+by	PIN PREP
+the	ART DET
+time	NN
+the	ART DET
+child	NN
+reaches	VPRT
+school	NN
+age	NN
+they	TPP3 PRP SBJP
+have	VPRT PEAS
+received	
+some	QUAN DET
+form	NN
+of	PIN PREP
+teaching	NN
+regarding	WZPRES PGAS
+reading	NN
+and	PHC CCONJ
+writing	PUBV NN
+.	
+Crystal	CAP NNP
+,	
+David	CAP NNP
+Encyclopaedia	CAP NNP
+of	PIN PREP
+the	ART DET
+English	CAP NNP
+Language	CAP NNP
+2nd	NN
+Ed	CAP NNP
+.	
+Cambridge	NN CAP
+2003	NUM
+Page	CAP NNP
+256	NUM
+.	
+At	PIN CAP PREP
+school	NN
+this	DEMO DET
+obviously	RB
+increases	VPRT
+to	PIN PREP
+formal	JJ
+teaching	NN
+and	PHC CCONJ
+schools	NN
+are	PASS VPRT SPAU AUXB
+legally	RB
+required	SUAV
+to	PIN TO PREP
+teach	INF
+children	NN
+reading	WZPRES PGAS
+and	CCONJ
+writing	PUBV NN
+.	
+There	EX CAP
+can	POMD
+be	AUXB INF
+no	RB SYNE
+doubt	PRIV NN
+therefore	RB CONJ
+that	PIN DEMO SCONJ PREP
+children	NN
+are	PASS VPRT AUXB
+taught	
+to	PIN TO PREP
+read	INF
+and	PHC CCONJ
+write	PUBV INF
+-	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+simple	JJ
+fact	NN
+.	
+We	FPP1 CAP PRP SBJP
+can	POMD SPAU
+now	RB TIME
+turn	INF
+to	PIN TO PREP
+look	INF
+then	RB
+at	PIN PREP
+whether	PIN SCONJ PREP
+children	NN
+are	PASS VPRT AUXB
+taught	
+to	PIN TO PREP
+speak	INF
+.	
+The	ART CAP DET
+answer	NN
+is	VPRT AUXB
+no	UH
+,	
+at	PIN PREP
+least	JJ SPADJ
+not	XX0 RB
+in	PIN CONJ PREP
+any	QUAN DET
+formal	JJ
+way	NN
+.	
+By	PIN CAP PREP
+the	ART DET
+time	NN
+children	NN
+start	VPRT
+to	PIN TO PREP
+attend	INF
+school	NN
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+expected	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+speak	INF
+showing	PRIV PGAS
+that	PIN THVC SCONJ PREP
+children	NN
+have	VPRT PEAS
+learnt	PRIV
+to	PIN TO PREP
+speak	INF
+without	PIN PREP
+formal	JJ
+teaching	NN
+.	
+It	PIT CAP PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+argued	PUBV
+that	PIN THVC SCONJ PREP
+children	NN
+learn	VPRT PRIV
+to	PIN TO PREP
+speak	INF
+through	PIN PREP
+imitating	NN
+adults	NN
+,	
+which	SERE WHQU DET WH
+could	POMD
+be	PASS AUXB INF
+considered	PRIV
+a	ART DET INDA
+form	NN
+of	PIN PREP
+indirect	JJ
+teaching	NN
+.	
+However	RB CONJ CAP
+the	ART DET
+existence	NN
+of	PIN PREP
+virtuous	JJ
+errors	NN
+where	RB WHOBJ SCONJ WH
+children	NN
+produce	VPRT
+utterances	NN
+they	TPP3 PRP SBJP
+could	POMD SPAU
+n't	XX0 CONT RB
+have	PEAS INF
+heard	PRIV
+have	VPRT PEAS
+disproved	
+this	DEMO DET
+idea	NN
+.	
+Chomsky	CAP NNP
+'s	
+idea	NN
+of	PIN PREP
+innateness	NOMZ
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+children	NN
+have	VPRT
+a	ART DET INDA
+Language	CAP NNP
+Acquisition	CAP NNP
+Device	CAP NNP
+and	CCONJ
+are	BEMA VPRT AUXB
+as	RB CONJ
+such	JJ
+are	VPRT AUXB
+"	QUOT
+genetically	RB
+'	CONT QUOT
+prewired	
+'	CONT QUOT
+to	PIN TO PREP
+acquire	INF
+language	NN
+"	QUOT
+lends	VPRT
+credence	NN
+to	PIN PREP
+the	ART DET
+idea	NN
+that	PIN TOBJ SCONJ PREP
+children	NN
+are	PASS VPRT SPAU AUXB
+n't	XX0 CONT RB
+taught	
+language	NN
+but	CCONJ
+instead	RB CONJ
+acquire	INF
+it	PIT PRP SBJP
+naturally	RB
+.	
+Fromkin	CAP NNP
+and	PHC CCONJ
+Rodman	CAP NNP
+An	ART CAP DET INDA
+Introduction	NOMZ CAP
+to	PIN PREP
+Language	CAP NNP
+4th	JJ
+Ed	CAP NNP
+.	
+Holt	CAP NNP
+,	
+Rinehart	CAP NNP
+and	PHC CCONJ
+Winston	CAP NNP
+1988	NUM
+Page	CAP NNP
+382	NUM
+One	CAP NUM
+example	NN
+that	TSUB WHSUB WH
+also	RB
+helps	VPRT
+support	INF
+the	ART DET
+idea	NN
+is	BEMA VPRT AUXB
+that	DEMO DET
+of	PIN PREP
+the	ART DET
+silent	JJ
+kids	NN
+of	PIN PREP
+Nicaragua	CAP NNP
+.	
+These	DEMP CAP DET
+were	BEMA VBD AUXB
+deaf	JJ
+children	NN
+who	WHSUB WH
+had	VBD
+no	SYNE DET
+language	NN
+.	
+Instead	RB CONJ CAP
+they	TPP3 PRP SBJP
+simply	RB
+created	VBD
+their	TPP3 PRP SBJP
+own	JJ
+(	
+with	PIN PREP
+signs	NN
+as	PIN CONJ PREP
+the	ART DET
+equivalent	NN
+of	PIN PREP
+spoken	JJ
+language	NN
+)	
+.	
+The	ART CAP DET
+fact	NN
+that	PIN DEMO SCONJ PREP
+in	PIN CONJ PREP
+places	NN
+where	RB WHOBJ SCONJ WH
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+language	NN
+,	
+a	ART DET INDA
+language	NN
+can	POMD
+be	PASS AUXB INF
+created	
+also	RB
+shows	VPRT PRIV THATD
+that	PIN DEMP SCONJ PREP
+spoken	
+language	NN
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+taught	
+.	
+The	ART CAP DET
+main	JJ
+issue	NN
+here	RB
+can	POMD
+be	PASS AUXB INF
+simplified	
+into	PIN PREP
+one	NUM
+short	JJ
+question	NOMZ
+;	
+"	QUOT
+without	PIN PREP
+teaching	NN
+,	
+would	PRMD
+spoken	
+and	PHC CCONJ
+written	PUBV THATD
+language	NN
+exist	INF
+?	QUES
+"	QUOT
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+spoken	JJ
+language	NN
+we	FPP1 PRP SBJP
+can	POMD
+see	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+answer	NN
+is	VPRT AUXB
+yes	UH
+,	
+in	PIN CONJ PREP
+extreme	JJ
+cases	NN
+like	PIN PREP
+that	DEMO DET
+of	PIN PREP
+Nicaragua	CAP NNP
+a	ART DET INDA
+new	JJ
+spoken	
+language	NN
+can	POMD
+be	PASS AUXB INF
+created	
+therefore	RB CONJ
+without	PIN PREP
+any	QUAN DET
+teaching	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+more	RB EMPH CMADJ
+mundane	JJ
+everyday	JJ
+life	NN
+we	FPP1 PRP SBJP
+can	POMD
+observe	PRIV THATD INF
+that	PIN DEMP SCONJ PREP
+spoken	
+language	NN
+is	PASS VPRT BYPA AUXB
+acquired	
+by	PIN PREP
+children	NN
+before	PIN PREP
+they	TPP3 PRP SBJP
+start	VPRT
+formal	JJ
+schooling	NN
+.	
+Informal	JJ CAP
+teaching	NN
+through	PIN PREP
+imitation	NOMZ
+is	BEMA VPRT AUXB
+not	XX0 RB
+enough	JJ
+to	PIN TO PREP
+teach	INF
+a	ART DET INDA
+child	NN
+to	PIN TO PREP
+speak	INF
+(	
+as	PIN CONJ PREP
+we	FPP1 PRP SBJP
+have	VPRT PEAS
+seen	PRIV
+,	
+imitation	NOMZ
+theory	NN
+simply	RB
+does	VPRT SPAU
+n't	XX0 CONT RB
+stand	INF
+up	PIN PREP
+to	PIN PREP
+close	JJ
+scrutiny	NN
+)	
+and	ANDC CCONJ
+hence	RB CONJ
+children	NN
+must	NEMD
+acquire	INF
+speech	NN
+reasonably	RB
+naturally	RB
+.	
+For	PIN CAP PREP
+written	PUBV
+language	NN
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+the	ART DET
+answer	NN
+is	BEMA VPRT AUXB
+the	ART DET
+opposite	PIN STPR NN PREP
+.	
+Without	PIN CAP PREP
+specific	JJ
+teaching	NN
+,	
+it	PIT PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+exist	INF
+.	
+Many	QUAN JJ CAP
+languages	NN
+for	PIN PREP
+instance	NN
+have	VPRT
+no	DET
+written	PUBV
+form	NN
+.	
+We	FPP1 CAP PRP SBJP
+can	POMD SPAU
+therefore	RB CONJ
+conclude	PRIV INF
+that	PIN THVC SCONJ PREP
+children	NN
+'s	
+reading	NN
+and	PHC CCONJ
+writing	PUBV NN
+has	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+taught	
+in	PIN CONJ PREP
+contrast	NN
+to	PIN PREP
+their	TPP3 PRP SBJP
+speech	NN
+.	

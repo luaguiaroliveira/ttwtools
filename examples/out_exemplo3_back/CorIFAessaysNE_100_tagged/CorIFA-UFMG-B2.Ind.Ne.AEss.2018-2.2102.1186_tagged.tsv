@@ -1,0 +1,706 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2102.1186.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2018	CAP NNP
+-	
+2.2102.1186	NUM
+>	X
+  	
+<	
+ANN	CAP NNP
+as	PIN CONJ PREP
+the	ART DET
+best	JJ SPADJ
+methodology	NN
+to	PIN TO PREP
+calculate	PRIV INF
+Forest	CAP NNP
+Fire	CAP NNP
+Risk	CAP NNP
+>	
+  	
+Forest	CAP NNP
+Fires	CAP NNP
+became	VBD
+a	ART DET INDA
+great	JJ
+concern	NN
+in	PIN CONJ PREP
+terms	NN
+of	PIN PREP
+environmental	JJ
+problems	NN
+,	
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+affects	VPRT
+the	ART DET
+vegetation	NOMZ
+,	
+the	ART DET
+air	NN
+quality	NOMZ
+and	CCONJ
+the	ART DET
+soil	NN
+.	
+The	ART CAP DET
+fire	NN
+risk	NN
+assessment	NOMZ
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+establish	PRIV INF
+the	ART DET
+priority	NOMZ
+risk	NN
+zones	NN
+to	PIN TO PREP
+have	INF
+a	ART DET INDA
+better	JJ CMADJ
+planning	NN
+of	PIN PREP
+prevention	NOMZ
+and	PHC CCONJ
+firefighting	GER
+activities	NN
+.	
+Although	CONC PIN STPR CAP SCONJ PREP
+,	
+to	PIN TO PREP
+determine	PRIV SUAV INF
+this	DEMO DET
+fire	NN
+risk	NN
+there	EX
+is	VPRT AUXB
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+approaches	NN
+,	
+as	PIN CONJ PREP
+statistic	JJ
+methods	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+logistic	JJ
+regression	NOMZ
+,	
+qualitative	JJ
+and	PHC CCONJ
+quantitative	JJ
+methods	NN
+such	JJ
+as	PIN CONJ PREP
+multi	NNP
+criteria	NN
+analysis	NN
+,	
+and	ANDC CCONJ
+artificial	JJ
+intelligence	NN
+methods	NN
+such	JJ
+as	PIN CONJ PREP
+artificial	JJ
+neural	NN
+networks	NN
+(	
+ANN	CAP NNP
+)	
+and	ANDC CCONJ
+fuzzy	JJ
+logic	NN
+.	
+The	ART CAP DET
+one	NN
+that	TSUB WHSUB WH
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+commonly	RB
+used	
+,	
+but	CCONJ
+has	VPRT PEAS
+showed	PRIV
+effectiveness	NOMZ
+results	NN
+is	BEMA VPRT AUXB
+the	ART DET
+ANN	CAP NNP
+,	
+based	PASTP
+on	PIN PREP
+human	JJ
+nervous	JJ
+system	NN
+,	
+comprehends	VPRT
+a	ART DET INDA
+network	NN
+of	PIN PREP
+neurons	NN
+which	WHSUB DET WH
+restore	VPRT
+a	ART DET INDA
+knowledge	NN
+learn	PRIV INF
+in	PIN CONJ PREP
+a	ART DET INDA
+training	NN
+process	NN
+.	
+So	RB CAP
+,	
+this	DEMO DET
+essay	NN
+will	PRMD
+compare	INF
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+methods	NN
+and	CCONJ
+show	VPRT PRIV
+that	PIN THVC SCONJ PREP
+ANN	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+best	JJ SPADJ
+one	NUM
+to	PIN TO PREP
+used	
+for	PIN PREP
+calculating	GER PRIV PGAS
+the	ART DET
+forest	NN
+fires	NN
+risk	NN
+.	
+ 	
+The	ART CAP DET
+multi	NN
+criteria	NN
+analysis	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+robust	JJ
+method	NN
+that	TSUB WHSUB WH
+depends	VPRT
+a	EMPH ART DET INDA
+lot	NN
+on	PIN PREP
+the	ART DET
+preview	NN
+knowledge	NN
+of	PIN PREP
+specialized	JJ
+people	NN
+.	
+Since	OSUB PIN CAP SCONJ PREP
+its	PIT PRP SBJP
+structures	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+hierarchy	JJ
+decision	NOMZ
+,	
+where	RB WHQU SCONJ WH
+is	PASS VPRT AUXB
+decided	PRIV SUAV
+that	PIN THVC SCONJ PREP
+elements	NOMZ
+which	WHSUB DET WH
+affects	VPRT
+more	JJ EMPH CMADJ
+the	ART DET
+fires	NN
+received	VBD
+higher	JJ CMADJ
+weights	NN
+,	
+and	ANDC CCONJ
+those	DEMP DET
+which	DET WH
+affects	VPRT
+less	RB CMADJ
+received	VBD
+lower	JJ CMADJ
+weights	NN
+,	
+and	ANDC CCONJ
+this	DEMO DET
+weighting	NN
+is	PASS VPRT BYPA AUXB
+given	
+by	PIN PREP
+the	ART DET
+decision	NOMZ
+makers	NN
+based	WZPAST
+on	PIN PREP
+their	TPP3 PRP SBJP
+knowledge	NN
+on	PIN PREP
+the	ART DET
+study	NN
+area	NN
+.	
+Chuvieco	CAP NNP
+et	NNP
+al	NNP
+(	
+1989	NUM
+)	
+used	VBD
+this	DEMO DET
+method	NN
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+research	NN
+and	CCONJ
+your	SPP2 PRP SBJP
+results	NN
+were	BEMA VBD AUXB
+not	XX0 RB
+satisfactory	JJ
+,	
+in	PIN CONJ PREP
+a	ART DET INDA
+comparison	NN
+with	PIN PREP
+real	JJ
+fires	NN
+spots	NN
+and	CCONJ
+your	SPP2 PRP SBJP
+map	NN
+for	PIN PREP
+risk	NN
+areas	NN
+,	
+only	DWNT RB
+22,72	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+spots	NN
+were	PASS VBD AUXB
+classified	
+as	PIN CONJ PREP
+high	JJ
+risk	NN
+.	
+Above	PIN PLACE CAP PREP
+all	QUAN DET
+,	
+this	DEMO DET
+method	NN
+does	VPRT SPAU
+not	XX0 RB
+look	INF
+very	AMP RB
+effective	JJ
+,	
+but	CCONJ
+can	POMD
+help	INF
+to	PIN TO PREP
+have	INF
+an	ART DET INDA
+idea	NN
+of	PIN PREP
+the	ART DET
+areas	NN
+with	PIN PREP
+risk	NN
+of	PIN PREP
+fire	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+the	ART DET
+other	JJ
+side	NN
+,	
+the	ART DET
+Fuzzy	CAP NNP
+Logic	CAP NNP
+,	
+instead	RB CONJ
+of	PIN PREP
+the	ART DET
+multi	NNP
+criteria	NN
+analysis	NN
+that	TSUB WHSUB WH
+have	VPRT
+solid	JJ
+limits	NN
+between	PIN PREP
+the	ART DET
+classes	NN
+of	PIN PREP
+the	ART DET
+elements	NOMZ
+,	
+does	VPRT SPAU
+n’t	RB
+have	INF
+a	ART DET INDA
+defined	
+transition	NOMZ
+.	
+So	RB CAP
+in	PIN CONJ PREP
+the	ART DET
+other	JJ
+method	NN
+,	
+for	PIN PREP
+example	NN
+,	
+the	ART DET
+weight	NN
+for	PIN PREP
+precipitation	NOMZ
+until	PIN PREP
+100	NUM
+mm	NN
+were	PASS VBD AUXB
+classified	
+as	PIN CONJ PREP
+high	JJ
+risk	NN
+and	CCONJ
+the	ART DET
+precipitation	NOMZ
+from	PIN PREP
+100	NUM
+to	PIN PREP
+150	NUM
+mm	NN
+were	PASS VBD AUXB
+classified	
+as	PIN CONJ PREP
+moderated	JJ
+risk	NN
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+approach	NN
+the	ART DET
+classes	NN
+are	PASS VPRT AUXB
+defined	
+as	PIN CONJ PREP
+a	ART DET INDA
+function	NOMZ
+comprising	GER WZPRES PGAS
+a	ART DET INDA
+fuzzy	JJ
+set	NN
+.	
+The	ART CAP DET
+continuous	JJ
+classes	NN
+of	PIN PREP
+the	ART DET
+fuzzy	JJ
+sets	NN
+are	PASS VPRT AUXB
+constructed	
+from	PIN PREP
+concepts	NN
+defined	VBD
+a	ART DET INDA
+priori	NN
+using	WZPRES PGAS
+the	ART DET
+experience	NN
+,	
+science	NN
+or	CCONJ
+heuristic	JJ
+knowledge	NN
+.	
+So	RB CAP
+this	DEMO DET
+method	NN
+is	VPRT AUXB
+already	RB
+not	XX0 RB
+so	RB EMPH
+suitable	JJ
+,	
+besides	RB PIN PREP
+have	VPRT
+better	JJ CMADJ
+performance	NN
+.	
+ 	
+The	ART CAP DET
+logistic	JJ
+regression	NOMZ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+independent	JJ PRED
+from	PIN PREP
+the	ART DET
+knowledge	NN
+of	PIN PREP
+the	ART DET
+researcher	NN
+,	
+it	PIT PRP SBJP
+only	DWNT RB
+needs	VPRT
+a	ART DET INDA
+set	NN
+of	PIN PREP
+data	NN
+of	PIN PREP
+fire	NN
+and	CCONJ
+no	SYNE DET
+fire	NN
+places	NN
+,	
+that	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+dependent	JJ
+variable	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+elements	NOMZ
+that	TSUB WHSUB WH
+affects	VPRT
+the	ART DET
+fire	NN
+,	
+that	WHQU DEMP WH
+are	BEMA VPRT AUXB
+the	ART DET
+independent	JJ
+variables	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+statistical	JJ
+method	NN
+,	
+where	RB SCONJ WH
+the	ART DET
+probability	NOMZ
+of	PIN PREP
+a	ART DET INDA
+fire	NN
+occur	NN
+is	PASS VPRT BYPA AUXB
+given	
+by	PIN PREP
+a	ART DET INDA
+function	NOMZ
+were	BEMA VBD AUXB
+each	QUAN DET
+variable	NN
+is	PASS VPRT AUXB
+associated	
+with	PIN PREP
+a	ART DET INDA
+coefficient	NN
+,	
+so	PIN SCONJ PREP
+the	ART DET
+fire	NN
+data	NN
+is	PASS VPRT AUXB
+used	
+to	PIN TO PREP
+calculated	PRIV
+this	DEMO DET
+coefficient	NN
+.	
+The	ART CAP DET
+ANN	CAP NNP
+,	
+similarly	RB CONJ
+,	
+also	RB
+need	VPRT
+this	DEMO DET
+data	NN
+to	PIN TO PREP
+work	INF
+,	
+but	CCONJ
+the	ART DET
+variables	NN
+became	VBD
+the	ART DET
+input	NN
+layer	NN
+of	PIN PREP
+the	ART DET
+network	NN
+,	
+that	WHQU DEMP WH
+are	PASS VPRT AUXB
+linked	
+in	PIN CONJ PREP
+the	ART DET
+neurons	NN
+,	
+where	RB SCONJ WH
+in	PIN CONJ PREP
+each	QUAN DET
+neuron	NN
+,	
+the	ART DET
+entries	NN
+are	PASS VPRT BYPA AUXB
+multiplied	
+by	PIN PREP
+a	ART DET INDA
+weighted	NN
+given	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+connections	NOMZ
+and	CCONJ
+the	ART DET
+data	NN
+is	PASS VPRT AUXB
+summed	
+up	PIN PREP
+and	CCONJ
+applied	VBD
+in	PIN CONJ PREP
+the	ART DET
+best	JJ SPADJ
+transfer	NN
+function	NOMZ
+.	
+Being	BEMA PRESP AUXB CAP
+the	ART DET
+difficulty	NN
+of	PIN PREP
+this	DEMO DET
+process	NN
+the	ART DET
+calculation	NOMZ
+of	PIN PREP
+this	DEMO DET
+weighted	NN
+,	
+that	WHQU DEMP WH
+are	PASS VPRT AUXB
+given	
+from	PIN PREP
+a	ART DET INDA
+training	NN
+,	
+where	RB WHQU SCONJ WH
+is	PASS VPRT AUXB
+used	
+the	ART DET
+fire	NN
+data	NN
+.	
+In	PIN CONJ CAP PREP
+an	ART DET INDA
+experiment	NOMZ
+of	PIN PREP
+Goldarag	CAP NNP
+(	
+2006	NUM
+)	
+is	PASS VPRT AUXB
+compared	
+these	DEMO DET
+two	NUM
+methods	NN
+and	ANDC CCONJ
+he	TPP3 PRP SBJP
+found	VBD PRIV
+a	ART DET INDA
+accuracy	NN
+of	PIN PREP
+50.84	NUM
+%	NN
+for	PIN PREP
+the	ART DET
+logistic	JJ
+regression	NOMZ
+and	CCONJ
+91	NUM
+%	NN
+for	PIN PREP
+the	ART DET
+ANN	CAP NNP
+.	
+So	RB CAP
+the	ART DET
+ANN	CAP NNP
+has	VPRT
+better	JJ CMADJ
+performance	NN
+.	
+ 	
+Despite	PIN CAP SCONJ PREP
+the	ART DET
+complexity	NOMZ
+of	PIN PREP
+the	ART DET
+Artificial	CAP NNP
+Neural	CAP NNP
+Networks	CAP NNP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+method	NN
+that	TSUB WHSUB WH
+have	VPRT
+the	ART DET
+better	JJ CMADJ
+performance	NN
+among	PIN PREP
+other	JJ
+and	CCONJ
+the	ART DET
+more	RB EMPH CMADJ
+confident	JJ
+,	
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+uses	VPRT
+techniques	NN
+of	PIN PREP
+artificial	JJ
+intelligence	NN
+and	PHC CCONJ
+converts	NN
+the	ART DET
+knowledge	NN
+given	WZPAST
+to	PIN PREP
+it	PIT PRP SBJP
+in	PIN CONJ PREP
+results	NN
+.	

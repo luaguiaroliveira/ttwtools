@@ -1,0 +1,2076 @@
+# filename: LS_Psychology_Essay_2_0240e_tx.txt
+token	tags
+Language	NN CAP
+development	NOMZ
+seems	VPRT SMP
+like	PIN PREP
+a	ART DET INDA
+very	AMP RB
+difficult	JJ
+task	NN
+,	
+and	ANDC CCONJ
+yet	RB
+nearly	DWNT RB
+all	QUAN DET
+babies	NN
+are	BEMA VPRT AUXB
+very	AMP RB
+successful	JJ
+at	PIN PREP
+it	PIT PRP SBJP
+.	
+This	DEMP CAP DET
+has	VPRT PEAS
+prompted	
+Chomsky	CAP NNP
+to	PIN TO SPIN PREP
+famously	RB
+suggest	PUBV SUAV INF
+that	PIN THVC SCONJ PREP
+babies	NN
+have	VPRT
+an	ART DET INDA
+innate	JJ
+'	CONT QUOT
+language	NN
+acquisition	NOMZ
+device	NN
+'	CONT QUOT
+(	
+Harley	CAP NNP
+,	
+2001	NUM
+)	
+,	
+but	CCONJ
+now	RB TIME
+it	PIT PRP SBJP
+seems	VPRT SMP
+rather	RB
+that	PIN DEMO SCONJ PREP
+babies	NN
+are	PASS VPRT AUXB
+born	
+with	PIN PREP
+a	ART DET INDA
+number	NN
+of	PIN PREP
+various	JJ
+'	CONT QUOT
+devices	NN
+'	CONT QUOT
+,	
+or	CCONJ
+predispositions	NOMZ
+and	PHC CCONJ
+abilities	NN
+,	
+through	PIN PREP
+which	PIRE DET WH
+they	TPP3 PRP SBJP
+learn	VPRT PRIV
+language	NN
+.	
+Despite	PIN CAP SCONJ PREP
+the	ART DET
+tendency	NN
+to	PIN TO PREP
+see	PRIV INF
+babies	NN
+as	PIN CONJ PREP
+passive	JJ
+learners	NN
+,	
+just	RB EMPH
+absorbing	PGAS
+language	NN
+,	
+babies	NN
+are	VPRT AUXB
+actually	RB
+very	AMP RB
+active	JJ
+in	PIN CONJ PREP
+the	ART DET
+process	NN
+,	
+interacting	GER PGAS
+with	PIN PREP
+the	ART DET
+people	NN
+around	PIN PLACE PREP
+them	TPP3 PRP SBJP ACCU
+in	PIN CONJ PREP
+a	ART DET INDA
+way	NN
+that	TSUB WHSUB WH
+will	PRMD
+help	INF
+their	TPP3 PRP SBJP
+language	NN
+development	NOMZ
+.	
+There	EX CAP
+are	VPRT AUXB
+several	QUAN JJ
+mechanisms	NN
+that	TOBJ WHOBJ WH
+they	TPP3 PRP SBJP
+have	VPRT
+to	PIN TO PREP
+help	INF
+them	TPP3 PRP SBJP ACCU
+along	PIN PREP
+this	DEMO DET
+path	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+getting	PGAS
+attention	NOMZ
+from	PIN PREP
+adults	NN
+,	
+innate	VPRT
+preferences	NN
+for	PIN PREP
+useful	JJ
+stimuli	NN
+,	
+in	PIN CONJ STPR PREP
+-	
+built	
+perception	NOMZ
+skills	NN
+to	PIN TO PREP
+help	INF
+them	TPP3 PRP SBJP ACCU
+decode	JJ
+speech	NN
+,	
+and	ANDC CCONJ
+forming	PGAS
+an	ART DET INDA
+attachment	NOMZ
+which	WHSUB DET WH
+helps	VPRT
+construct	INF
+a	ART DET INDA
+very	AMP RB
+beneficial	JJ
+environment	NOMZ
+for	PIN PREP
+improving	PGAS
+language	NN
+abilities	NN
+.	
+The	ART CAP DET
+first	JJ
+and	CCONJ
+most	RB EMPH SPADJ
+important	JJ
+characteristic	NN
+of	PIN PREP
+babies	NN
+for	PIN PREP
+their	TPP3 PRP SBJP
+later	JJ TIME
+language	NN
+development	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+indisputable	JJ
+fact	NN
+that	PIN TOBJ SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+very	AMP RB
+social	JJ
+,	
+that	DEMP DET
+is	VPRT AUXB
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+predisposed	
+to	PIN TO PREP
+seek	INF
+interaction	NOMZ
+with	PIN PREP
+other	JJ
+human	JJ
+beings	NN
+,	
+right	RB
+from	PIN PREP
+birth	NN
+.	
+Babies	NN CAP
+depend	VPRT
+entirely	AMP RB
+on	PIN PREP
+care	NN
+provision	NOMZ
+from	PIN PREP
+others	NN
+,	
+and	ANDC CCONJ
+even	RB
+when	RB SCONJ WH
+their	TPP3 PRP SBJP
+basic	JJ
+needs	NN
+of	PIN PREP
+food	NN
+,	
+warmth	NN
+and	CCONJ
+physical	JJ
+comfort	NN
+are	PASS VPRT AUXB
+met	
+,	
+they	TPP3 PRP SBJP
+still	RB
+have	VPRT
+an	ART DET INDA
+insatiable	JJ
+need	NN
+for	PIN PREP
+stimulation	NOMZ
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+waking	PGAS
+hours	NN
+,	
+so	PIN SCONJ PREP
+they	TPP3 PRP SBJP
+need	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+get	INF
+this	DEMP DET
+and	CCONJ
+also	RB
+to	PIN TO PREP
+make	INF
+the	ART DET
+most	JJ EMPH SPADJ
+of	PIN PREP
+it	PIT PRP SBJP
+.	
+Even	RB CAP
+neonates	NN
+are	PASS VPRT AUXB
+orientated	
+towards	PIN PREP
+people	NN
+,	
+being	BEMA AUXB
+able	JJ PRED
+to	PIN TO PREP
+identify	INF
+suitable	JJ
+models	NN
+to	PIN PREP
+which	PIRE DET WH
+they	TPP3 PRP SBJP
+should	NEMD
+attend	INF
+to	PIN TO PREP
+learn	PRIV INF
+about	PIN PREP
+social	JJ
+interactions	NOMZ
+(	
+Messer	CAP NNP
+,	
+1994	NUM
+)	
+.	
+They	TPP3 CAP PRP SBJP
+also	RB
+show	VPRT PRIV
+the	ART DET
+ability	NOMZ
+to	PIN TO PREP
+recognise	PRIV INF
+the	ART DET
+face	NN
+,	
+and	ANDC CCONJ
+prefer	VPRT SUAV
+to	PIN TO PREP
+look	INF
+at	PIN PREP
+a	ART DET INDA
+face	NN
+-	
+like	JJ
+stimulus	NN
+than	PIN PREP
+an	ART DET INDA
+equally	RB
+complex	JJ
+stimulus	NN
+(	
+Johnson	CAP NNP
+&	CCONJ
+Morton	CAP NNP
+,	
+1991	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+important	JJ PRED
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+will	PRMD
+focus	INF
+the	ART DET
+attention	NOMZ
+of	PIN PREP
+the	ART DET
+baby	NN
+on	PIN PREP
+any	QUAN DET
+vocalisations	NOMZ
+made	WZPAST
+by	PIN PREP
+the	ART DET
+person	NN
+,	
+and	ANDC CCONJ
+seeing	PRIV PGAS
+the	ART DET
+other	JJ
+persons	NN
+face	NN
+move	SUAV NN
+may	POMD
+stimulate	INF
+infants	NN
+to	PIN TO PREP
+move	SUAV INF
+their	TPP3 PRP SBJP
+own	JJ
+faces	NN
+and	CCONJ
+to	PIN TO PREP
+imitate	INF
+vocalisations	NOMZ
+(	
+Locke	CAP NNP
+,	
+1993	NUM
+)	
+.	
+Neonates	CAP NNP
+identify	VPRT
+faces	NN
+by	PIN PREP
+an	ART DET INDA
+analysis	NN
+of	PIN PREP
+the	ART DET
+edges	NN
+of	PIN PREP
+the	ART DET
+face	NN
+,	
+but	CCONJ
+after	PIN PREP
+8	NUM
+weeks	NN
+they	TPP3 PRP SBJP
+begin	VPRT
+to	PIN TO PREP
+look	INF
+more	JJ EMPH CMADJ
+at	PIN PREP
+the	ART DET
+internal	JJ
+features	NN
+of	PIN PREP
+the	ART DET
+face	NN
+,	
+especially	RB
+the	ART DET
+eyes	NN
+(	
+Maurer	CAP NNP
+&	CCONJ
+Salapateh	CAP NNP
+,	
+1976	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+.	
+As	PIN CONJ CAP PREP
+a	EMPH ART DET INDA
+lot	NN
+is	PASS VPRT AUXB
+communicated	
+through	PIN PREP
+the	ART DET
+face	NN
+,	
+and	ANDC CCONJ
+much	QUAN JJ
+of	PIN PREP
+it	PIT PRP SBJP
+non	JJ
+-	JJ
+verbally	RB
+,	
+this	DEMP DET
+enables	VPRT
+babies	NN
+to	PIN TO PREP
+gain	INF
+a	ART DET INDA
+greater	JJ CMADJ
+awareness	NOMZ
+of	PIN PREP
+these	DEMO DET
+communications	NOMZ
+and	CCONJ
+become	INF
+sensitive	JJ
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+,	
+establishing	GER PRIV PGAS
+more	RB EMPH CMADJ
+reciprocal	JJ
+interactions	NOMZ
+with	PIN PREP
+adults	NN
+(	
+Tronwick	CAP NNP
+,	
+Als	CAP NNP
+&	CCONJ
+Brazelton	CAP NNP
+,	
+1977	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+.	
+Tronwickal	CAP NNP
+.	
+(	
+1977	NUM
+)	
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+infants	NN
+became	VBD
+distressed	JJ
+when	RB SCONJ WH
+their	TPP3 PRP SBJP
+mothers	NN
+stopped	VBD
+interacting	GER PGAS
+and	PHC CCONJ
+held	VBD PRIV
+an	ART DET INDA
+expressionless	NN
+face	NN
+,	
+and	ANDC CCONJ
+similarly	RB CONJ
+Cohn	CAP NNP
+and	PHC CCONJ
+Tronwick	CAP NNP
+(	
+1983	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+also	RB
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+babies	NN
+were	BEMA VBD AUXB
+sensitive	JJ PRED
+to	PIN PREP
+their	TPP3 PRP SBJP
+mothers	NN
+expression	NOMZ
+showing	WZPRES PRIV PGAS
+negative	JJ
+emotion	NOMZ
+.	
+This	DEMP CAP DET
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+babies	NN
+are	BEMA VPRT AUXB
+sensitive	JJ PRED
+to	PIN PREP
+changes	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+mothers	NN
+facial	JJ
+expression	NOMZ
+,	
+but	CCONJ
+it	PIT PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+show	PRIV INF
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+understanding	GER PRIV PGAS
+their	TPP3 PRP SBJP
+mothers	NN
+emotion	NOMZ
+-	
+it	PIT PRP SBJP
+could	POMD SPAU
+just	RB EMPH
+be	BEMA AUXB INF
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+responding	GER PGAS
+to	PIN PREP
+a	ART DET INDA
+departure	NN
+from	PIN PREP
+the	ART DET
+norm	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+the	ART DET
+outcome	NN
+is	BEMA VPRT AUXB
+the	ART DET
+same	JJ
+,	
+and	ANDC CCONJ
+that	DEMP DET
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+this	DEMO DET
+kind	NN HDG
+of	PIN PREP
+reaction	NOMZ
+to	PIN PREP
+the	ART DET
+change	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+mother	NN
+'s	
+expression	NOMZ
+makes	VPRT
+it	PIT PRP SBJP
+very	AMP RB
+hard	JJ
+for	PIN PREP
+their	TPP3 PRP SBJP
+mothers	NN
+to	PIN TO PREP
+maintain	PUBV INF
+their	TPP3 PRP SBJP
+'	CONT QUOT
+poker	NN
+face	NN
+'	CONT QUOT
+(	
+Tronwick	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+1978	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Locke	CAP NNP
+1993	NUM
+)	
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+mothers	NN
+are	PASS VPRT AUXB
+motivated	
+to	PIN TO PREP
+interact	INF
+and	PHC CCONJ
+provide	INF
+the	ART DET
+stimulation	NOMZ
+that	TOBJ WHOBJ WH
+the	ART DET
+baby	NN
+wants	VPRT
+.	
+Murray	CAP NNP
+and	PHC CCONJ
+Trevarthen	CAP NNP
+(	
+1985	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+not	XX0 RB
+only	DWNT RB
+are	BEMA VPRT AUXB
+early	JJ TIME
+infants	NN
+sensitive	JJ
+to	PIN PREP
+changes	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+mothers	NN
+expressions	NOMZ
+and	PHC CCONJ
+vocalisations	NOMZ
+,	
+but	CCONJ
+also	RB
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+could	POMD
+detect	INF
+how	RB SCONJ WH
+responsive	JJ
+their	TPP3 PRP SBJP
+mother	NN
+was	VBD AUXB
+being	BEMA AUXB
+to	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+actions	NOMZ
+at	PIN PREP
+the	ART DET
+time	NN
+.	
+This	DEMP CAP DET
+was	PASS VBD BYPA AUXB
+demonstrated	PRIV
+by	PIN PREP
+showing	PRIV PGAS
+babies	NN
+a	ART DET INDA
+live	JJ
+video	NN
+feed	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+mother	NN
+,	
+which	SERE DET WH
+they	TPP3 PRP SBJP
+liked	VBD
+,	
+and	ANDC CCONJ
+a	ART DET INDA
+prerecorded	
+video	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+mother	NN
+showing	WZPRES PRIV PGAS
+the	ART DET
+same	JJ
+kinds	NN
+of	PIN PREP
+behaviours	NN
+,	
+which	SERE DET WH
+they	TPP3 PRP SBJP
+quickly	RB
+disliked	VBD
+and	PHC CCONJ
+caused	VBD
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+become	INF
+distressed	JJ
+.	
+This	DEMP CAP DET
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+babies	NN
+know	VPRT PRIV
+whether	PIN SCONJ PREP
+their	TPP3 PRP SBJP
+mother	NN
+is	VPRT AUXB
+reacting	PGAS
+to	PIN PREP
+their	TPP3 PRP SBJP
+actions	NOMZ
+,	
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+prefer	VPRT SUAV THATD
+it	PIT PRP SBJP
+when	RB SCONJ WH
+their	TPP3 PRP SBJP
+mothers	NN
+are	VPRT AUXB
+being	BEMA AUXB
+responsive	JJ PRED
+.	
+When	RB WHQU CAP SCONJ WH
+mothers	NN
+are	VPRT AUXB
+being	BEMA AUXB
+responsive	JJ PRED
+,	
+babies	NN
+will	PRMD
+smile	INF
+and	PHC CCONJ
+move	SUAV INF
+their	TPP3 PRP SBJP
+mouth	NN
+and	PHC CCONJ
+tongue	NN
+more	JJ EMPH CMADJ
+,	
+which	SERE DET WH
+in	PIN CONJ PREP
+turn	NN
+encourages	VPRT
+a	ART DET INDA
+positive	JJ
+response	NN
+from	PIN PREP
+their	TPP3 PRP SBJP
+mothers	NN
+(	
+Murray	CAP NNP
+&	CCONJ
+Trevarthen	CAP NNP
+,	
+1985	NUM
+)	
+.	
+The	ART CAP DET
+question	NOMZ
+of	PIN PREP
+whether	PIN SCONJ PREP
+early	JJ TIME
+infants	NN
+are	BEMA VPRT AUXB
+capable	JJ PRED
+of	PIN PREP
+turn	NN
+taking	WZPRES PGAS
+like	UH
+in	PIN CONJ PREP
+a	ART DET INDA
+real	JJ
+conversation	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+contentious	JJ
+one	NN
+,	
+but	CCONJ
+Bloom	CAP NNP
+,	
+Russell	CAP NNP
+and	PHC CCONJ
+Wassenberg	CAP NNP
+(	
+1987	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+suggest	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+infants	NN
+may	POMD
+be	BEMA AUXB INF
+capable	JJ PRED
+of	PIN PREP
+actively	RB
+adapting	PGAS
+their	TPP3 PRP SBJP
+interactions	NOMZ
+in	PIN CONJ PREP
+a	ART DET INDA
+way	NN
+which	WHSUB DET WH
+makes	VPRT
+it	PIT PRP SBJP
+feel	PRIV INF
+more	RB EMPH CMADJ
+like	PIN PREP
+a	ART DET INDA
+conversation	NOMZ
+to	PIN PREP
+adults	NN
+,	
+which	SERE DET WH
+encourages	VPRT
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+take	INF
+part	NN
+in	PIN CONJ STPR PREP
+'	CONT QUOT
+conversation	NOMZ
+like	PIN PREP
+exchanges	NN
+'	CONT QUOT
+with	PIN PREP
+the	ART DET
+infant	NN
+.	
+Early	JJ TIME CAP
+infants	NN
+can	POMD
+attract	INF
+attention	NOMZ
+by	PIN PREP
+crying	PGAS
+(	
+Frodi	CAP NNP
+,	
+1985	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+,	
+and	ANDC CCONJ
+this	DEMP DET
+may	POMD
+start	INF
+a	ART DET INDA
+social	JJ
+interaction	NOMZ
+with	PIN PREP
+an	ART DET INDA
+adult	NN
+.	
+Importantly	RB CAP
+,	
+they	TPP3 PRP SBJP
+then	RB
+have	VPRT
+the	ART DET
+strategies	NN
+to	PIN TO PREP
+encourage	INF
+the	ART DET
+adult	NN
+to	PIN TO PREP
+maintain	PUBV INF
+the	ART DET
+interaction	NOMZ
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+,	
+and	ANDC CCONJ
+even	RB
+illicit	INF
+the	ART DET
+kinds	NN
+of	PIN PREP
+interactions	NOMZ
+from	PIN PREP
+adults	NN
+that	TSUB WHSUB WH
+will	PRMD
+facilitate	INF
+their	TPP3 PRP SBJP
+language	NN
+development	NOMZ
+.	
+Another	CAP DET
+important	JJ
+ability	NOMZ
+that	TOBJ WHOBJ WH
+early	JJ TIME
+infants	NN
+utilise	VPRT
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+language	NN
+development	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+ability	NOMZ
+for	PIN PREP
+joint	JJ
+attention	NOMZ
+,	
+to	PIN TO PREP
+refer	INF
+to	PIN PREP
+things	NN
+manually	RB
+,	
+and	ANDC CCONJ
+recognising	GER PRIV PGAS
+when	RB WHCL SCONJ WH
+someone	QUPR INPR
+else	RB
+refers	VPRT
+to	PIN PREP
+something	QUPR INPR
+.	
+Butterworth	CAP NNP
+(	
+1998a	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+,	
+2002	NUM
+)	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+as	RB CONJ
+early	RB TIME
+as	PIN CONJ PREP
+at	PIN PREP
+6	NUM
+months	NN
+old	JJ
+,	
+babies	NN
+can	POMD
+follow	INF
+their	TPP3 PRP SBJP
+mothers	NN
+line	NN
+of	PIN PREP
+sight	NN
+to	PIN PREP
+the	ART DET
+thing	NN
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+attending	PGAS
+to	PIN TO STPR PREP
+,	
+turning	PGAS
+their	TPP3 PRP SBJP
+head	NN
+to	PIN TO PREP
+see	PRIV INF
+the	ART DET
+same	JJ
+thing	NN
+.	
+Leung	CAP NNP
+and	PHC CCONJ
+Rheingold	CAP NNP
+(	
+1981	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+,	
+2002	NUM
+)	
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+from	PIN PREP
+around	PIN PLACE PREP
+12	NUM
+months	NN
+babies	NN
+began	VBD
+to	PIN TO PREP
+understand	PRIV INF
+when	RB WHCL SCONJ WH
+adults	NN
+pointed	VBD
+,	
+and	ANDC CCONJ
+looked	VBD
+in	PIN CONJ PREP
+the	ART DET
+pointed	JJ
+direction	NOMZ
+.	
+This	DEMO CAP DET
+ability	NOMZ
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+adults	NN
+can	POMD
+direct	INF
+the	ART DET
+baby	NN
+'s	
+attention	NOMZ
+to	PIN PREP
+something	QUPR INPR
+,	
+improving	PGAS
+communication	NOMZ
+and	PHC CCONJ
+providing	NN
+means	PRIV NN
+for	PIN PREP
+more	RB EMPH CMADJ
+efficient	JJ
+learning	PRIV NN
+.	
+Babies	NN CAP
+themselves	TPP3 PRP SBJP ACCU
+start	VPRT
+to	PIN TO PREP
+point	INF
+from	PIN PREP
+around	PIN PLACE PREP
+7	NUM
+months	NN
+(	
+Murphy	CAP NNP
+&	CCONJ
+Messer	CAP NNP
+,	
+1977	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+,	
+and	ANDC CCONJ
+parents	NN
+are	BEMA VPRT AUXB
+very	AMP RB
+responsive	JJ
+to	PIN PREP
+this	DEMP DET
+,	
+often	RB
+naming	PGAS
+the	ART DET
+appropriate	JJ
+object	PUBV NN
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+(	
+Musu	CAP NNP
+1982	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Locke	CAP NNP
+1993	NUM
+)	
+.	
+This	DEMO CAP DET
+clearly	RB
+provides	VPRT
+a	ART DET INDA
+very	AMP RB
+useful	JJ
+mechanism	NN
+for	PIN PREP
+babies	NN
+to	PIN TO PREP
+learn	PRIV INF
+new	JJ
+vocabulary	NN
+in	PIN CONJ PREP
+later	JJ TIME
+development	NOMZ
+.	
+Wells	CAP NNP
+and	PHC CCONJ
+Robinson	CAP NNP
+(	
+1982	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+supported	VBD
+this	DEMP DET
+,	
+by	PIN PREP
+showing	PRIV PGAS
+that	PIN THVC SCONJ PREP
+infants	NN
+who	WHSUB WH
+received	VBD
+more	JJ EMPH CMADJ
+speech	NN
+about	PIN PREP
+things	NN
+that	TOBJ WHOBJ WH
+they	TPP3 PRP SBJP
+had	VBD PEAS
+identified	
+were	BEMA VBD AUXB
+more	RB EMPH CMADJ
+advanced	JJ
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+language	NN
+abilities	NN
+later	RB TIME
+on	RB PIN STPR PREP
+.	
+For	PIN CAP PREP
+language	NN
+development	NOMZ
+,	
+infants	NN
+need	VPRT
+to	PIN TO PREP
+focus	INF
+on	PIN PREP
+speech	NN
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+communication	NOMZ
+in	PIN CONJ PREP
+general	JJ
+.	
+Early	JJ TIME CAP
+infants	NN
+prefer	VPRT SUAV
+to	PIN TO PREP
+listen	INF
+to	PIN PREP
+human	JJ
+speech	NN
+than	PIN PREP
+other	JJ
+sounds	NN
+(	
+DeCasper	CAP NNP
+&	CCONJ
+Fifer	CAP NNP
+,	
+1980	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+,	
+2002	NUM
+)	
+.	
+Neonates	CAP NNP
+have	VPRT PEAS SPAU
+also	RB
+been	PASS AUXB
+shown	PRIV
+to	PIN TO PREP
+prefer	SUAV INF
+listening	PGAS
+to	PIN PREP
+their	TPP3 PRP SBJP
+native	JJ
+language	NN
+(	
+Mehler	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+1994	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+2002	NUM
+)	
+,	
+which	SERE WHQU DET WH
+they	TPP3 PRP SBJP
+can	POMD
+distinguish	INF
+by	PIN PREP
+judging	PRIV PGAS
+on	PIN PREP
+rhythmical	JJ
+and	PHC CCONJ
+prosodic	JJ
+properties	NN
+(	
+Christophe	CAP NNP
+&	CCONJ
+Morton	CAP NNP
+1998	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+2002	NUM
+)	
+.	
+They	TPP3 CAP PRP SBJP
+also	RB
+are	PASS VPRT AUXB
+born	
+with	PIN PREP
+innate	JJ
+perceptual	JJ
+biases	NN
+that	TSUB WHSUB WH
+help	VPRT
+them	TPP3 PRP SBJP ACCU
+to	PIN TO SPIN PREP
+categorically	RB
+percieve	INF
+phonemes	NN
+(	
+Locke	CAP NNP
+,	
+1993	NUM
+)	
+,	
+which	SERE WHQU DET WH
+are	PASS VPRT BYPA AUXB
+adjusted	
+by	PIN PREP
+their	TPP3 PRP SBJP
+first	JJ
+birthday	NN
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+sensitive	JJ PRED
+only	DWNT RB
+to	PIN PREP
+contrasts	NN
+that	TSUB WHSUB WH
+exist	VPRT
+within	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+language	NN
+(	
+Werker	CAP NNP
+&	CCONJ
+Tees	CAP NNP
+,	
+1984	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+,	
+2002	NUM
+)	
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+important	JJ PRED
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+means	VPRT PRIV THATD
+they	TPP3 PRP SBJP
+will	PRMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+sensitive	JJ PRED
+to	PIN PREP
+irrelevant	JJ
+variations	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+speech	NN
+sounds	VPRT
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+hear	VPRT PRIV
+due	PIN PREP
+to	PIN PREP
+different	JJ
+speakers	NN
+,	
+or	CCONJ
+even	RB
+the	ART DET
+same	JJ
+person	NN
+speaking	WZPRES PGAS
+on	PIN PREP
+different	JJ
+occasions	NOMZ
+.	
+A	ART CAP DET INDA
+difficult	JJ
+task	NN
+for	PIN PREP
+infants	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+establish	PRIV INF
+where	RB WHCL SCONJ WH
+one	NUM
+word	NN
+starts	VPRT
+and	CCONJ
+another	DET
+begins	VPRT
+in	PIN CONJ PREP
+free	JJ
+flowing	PGAS
+speech	NN
+.	
+Fernald	CAP NNP
+(	
+1991	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Locke	CAP NNP
+,	
+1993	NUM
+)	
+,	
+and	ANDC CCONJ
+Gleitman	CAP NNP
+and	PHC CCONJ
+Warner	CAP NNP
+(	
+1982	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+have	VPRT PEAS
+proposed	SUAV
+that	PIN THVC SCONJ PREP
+infants	NN
+pick	VPRT
+out	PIN PREP
+words	NN
+from	PIN PREP
+speech	NN
+by	PIN PREP
+using	PGAS
+prosodic	JJ
+variations	NOMZ
+,	
+like	PIN PREP
+stressed	
+syllables	NN
+.	
+Saffran	CAP NNP
+,	
+Aslin	CAP NNP
+and	PHC CCONJ
+Newport	CAP NNP
+(	
+1996	NUM
+)	
+suggested	VBD PUBV SUAV
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+use	VPRT
+implicit	JJ
+calculations	NOMZ
+of	PIN PREP
+statistical	JJ
+regularities	NN
+to	PIN TO PREP
+determine	PRIV SUAV INF
+the	ART DET
+starts	NN
+and	PHC CCONJ
+ends	NN
+of	PIN PREP
+words	NN
+.	
+It	PIT CAP PRP SBJP
+seems	VPRT SMP
+that	PIN THVC SCONJ PREP
+infants	NN
+have	VPRT PEAS SPAU
+quite	RB
+specialised	
+techniques	NN
+to	PIN TO PREP
+meet	INF
+the	ART DET
+challenge	NN
+of	PIN PREP
+identifying	GER PGAS
+individual	JJ
+words	NN
+in	PIN CONJ PREP
+speech	NN
+.	
+In	PIN CONJ CAP PREP
+terms	NN
+of	PIN PREP
+actually	RB
+producing	PGAS
+vocalisations	NOMZ
+themselves	TPP3 PRP SBJP ACCU
+,	
+Stark	CAP NNP
+(	
+1989	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+,	
+1994	NUM
+)	
+argued	VBD PUBV
+that	PIN THVC SCONJ PREP
+crying	NN
+might	POMD
+help	INF
+babies	NN
+practice	NN
+producing	WZPRES PGAS
+vowel	NN
+sounds	NN
+,	
+and	ANDC CCONJ
+vegetative	JJ
+sounds	NN
+might	POMD
+encourage	INF
+the	ART DET
+practice	NN
+of	PIN PREP
+consonants	NN
+,	
+however	RB CONJ
+this	DEMO DET
+research	NN
+has	VPRT PEAS
+received	
+little	JJ
+support	NN
+.	
+The	ART CAP DET
+importance	NN
+of	PIN PREP
+babbling	PGAS
+in	PIN CONJ PREP
+language	NN
+development	NOMZ
+is	PASS VPRT AUXB
+debated	
+,	
+as	PIN CONJ PREP
+infants	NN
+whose	WHOBJ DET WH
+babbling	NN
+is	PASS VPRT AUXB
+delayed	
+do	VPRT PROD SPAU
+n't	XX0 CONT RB
+always	RB
+seem	SMP INF
+to	PIN TO PREP
+be	PASS SPAU AUXB INF
+negatively	RB
+affected	
+(	
+Netsell	CAP NNP
+,	
+1981	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+,	
+1984	NUM
+)	
+,	
+but	CCONJ
+in	PIN CONJ PREP
+general	JJ
+it	PIT PRP SBJP
+seems	VPRT SMP
+that	PIN THVC SCONJ PREP
+babbling	NN
+does	VPRT EMPH
+provide	INF
+some	QUAN DET
+form	NN
+of	PIN PREP
+platform	NN
+to	PIN TO PREP
+develop	INF
+phonetic	JJ
+abilities	NN
+(	
+Locke	CAP NNP
+,	
+1993	NUM
+)	
+,	
+and	ANDC CCONJ
+hence	RB CONJ
+the	ART DET
+spontaneous	JJ
+babbling	NN
+that	PIN TOBJ SCONJ PREP
+babies	NN
+start	VPRT
+to	PIN TO PREP
+produce	INF
+at	PIN PREP
+around	RB PLACE
+6	NUM
+months	NN
+(	
+Messer	CAP NNP
+,	
+1994	NUM
+)	
+can	POMD
+be	PASS AUXB INF
+seen	PRIV
+as	PIN CONJ PREP
+facilitating	GER PGAS
+their	TPP3 PRP SBJP
+language	NN
+development	NOMZ
+.	
+Early	JJ TIME CAP
+infants	NN
+show	VPRT PRIV
+a	ART DET INDA
+strong	JJ
+preference	NN
+for	PIN PREP
+things	NN
+which	WHSUB DET WH
+are	BEMA VPRT AUXB
+familiar	JJ PRED
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Not	XX0 RB CAP
+only	DWNT RB
+do	VPRT PROD
+they	TPP3 PRP SBJP
+prefer	SUAV INF
+their	TPP3 PRP SBJP
+native	JJ
+language	NN
+as	PIN CONJ PREP
+discussed	
+above	RB PLACE
+,	
+but	CCONJ
+they	TPP3 PRP SBJP
+also	RB
+prefer	VPRT SUAV
+their	TPP3 PRP SBJP
+mother	NN
+'s	
+voice	NN
+which	WHSUB DET WH
+is	BEMA VPRT AUXB
+familiar	JJ PRED
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+(	
+Mehler	CAP NNP
+&	CCONJ
+Dupoux	CAP NNP
+,	
+1994	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Harris	CAP NNP
+&	CCONJ
+Butterworth	CAP NNP
+,	
+2002	NUM
+)	
+.	
+Walton	CAP NNP
+,	
+Bower	CAP NNP
+and	PHC CCONJ
+Bower	CAP NNP
+(	
+1992	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+,	
+1994	NUM
+)	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+babies	NN
+will	PRMD SPAU
+also	RB
+work	INF
+to	PIN TO PREP
+see	PRIV INF
+a	ART DET INDA
+video	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+mother	NN
+rather	RB
+than	PIN PREP
+another	DET
+person	NN
+,	
+and	ANDC CCONJ
+MacFarland	CAP NNP
+(	
+1975	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+1994	NUM
+)	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+neonates	NN
+prefer	VPRT SUAV
+the	ART DET
+smell	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+mother	NN
+'s	
+breast	NN
+pad	NN
+to	PIN PREP
+one	NUM
+from	PIN PREP
+another	DET
+woman	NN
+.	
+Similarly	RB CONJ CAP
+Camras	CAP NNP
+,	
+Maltatesta	CAP NNP
+and	PHC CCONJ
+Izard	CAP NNP
+(	
+1991	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Messer	CAP NNP
+,	
+1994	NUM
+)	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+infants	NN
+will	PRMD
+smile	INF
+more	RB EMPH CMADJ
+at	PIN PREP
+familiar	JJ
+faces	NN
+.	
+This	DEMP CAP DET
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+infants	NN
+will	PRMD SPAU
+quickly	RB
+build	INF
+up	PIN PREP
+a	ART DET INDA
+strong	JJ
+preference	NN
+for	PIN PREP
+the	ART DET
+people	NN
+that	TSUB WHSUB WH
+are	BEMA VPRT AUXB
+around	PIN PLACE PREP
+them	TPP3 PRP SBJP ACCU
+regularly	RB
+,	
+and	ANDC CCONJ
+especially	RB
+their	TPP3 PRP SBJP
+mother	NN
+(	
+unless	COND PIN SCONJ PREP
+the	ART DET
+child	NN
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+institutional	JJ
+care	NN
+)	
+.	
+This	DEMP CAP DET
+fits	VPRT
+in	PIN CONJ PREP
+with	PIN PREP
+Bowlby	CAP NNP
+'s	
+(	
+1969	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Locke	CAP NNP
+,	
+1993	NUM
+)	
+theory	NN
+of	PIN PREP
+attachment	NOMZ
+,	
+which	SERE DET WH
+states	VPRT PUBV
+that	PIN THVC SCONJ PREP
+within	PIN PREP
+the	ART DET
+first	JJ
+few	QUAN JJ
+months	NN
+the	ART DET
+infant	NN
+will	PRMD
+form	INF
+a	ART DET INDA
+deep	JJ
+bond	NN
+to	PIN PREP
+her	TPP3 PRP SBJP ACCU
+/	
+his	TPP3 PRP SBJP
+mother	NN
+.	
+Messer	CAP NNP
+(	
+1994	NUM
+)	
+claimed	VBD PUBV
+that	PIN THVC SCONJ PREP
+communication	NOMZ
+develops	VPRT
+best	RB
+when	RB SCONJ WH
+the	ART DET
+infant	NN
+has	VPRT
+a	ART DET INDA
+small	JJ
+group	NN
+of	PIN PREP
+adults	NN
+to	PIN PREP
+whom	PIRE WH
+he	TPP3 PRP SBJP
+/	
+she	TPP3 PRP SBJP
+is	PASS VPRT AUXB
+attached	
+,	
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+will	PRMD
+have	INF
+a	ART DET INDA
+good	JJ
+understanding	GER PRIV
+of	PIN PREP
+each	QUAN DET
+other	JJ
+through	PIN PREP
+shared	
+experiences	NN
+.	
+Locke	CAP NNP
+(	
+1993	NUM
+)	
+stated	VBD PUBV THATD
+it	PIT PRP SBJP
+more	RB EMPH CMADJ
+strongly	AMP RB
+,	
+saying	PUBV THATD PGAS
+that	PIN STPR DEMP SCONJ PREP
+'	CONT QUOT
+attachment	NOMZ
+starts	VPRT
+children	NN
+down	PIN PREP
+the	ART DET
+path	NN
+that	TSUB WHSUB WH
+leads	VPRT
+it	PIT PRP SBJP
+to	PIN PREP
+language	NN
+'	CONT QUOT
+.	
+He	TPP3 CAP PRP SBJP
+claimed	VBD PUBV
+that	PIN THVC SCONJ PREP
+attachment	NOMZ
+helps	VPRT
+in	PIN CONJ PREP
+many	QUAN JJ
+ways	NN
+,	
+including	PGAS
+encouraging	GER PGAS
+vocal	JJ
+exploration	NOMZ
+,	
+imitation	NOMZ
+and	CCONJ
+turn	INF
+taking	PGAS
+.	
+Infants	NN CAP
+have	VPRT
+a	ART DET INDA
+plethora	NN
+of	PIN PREP
+strategies	NN
+and	PHC CCONJ
+preferences	NN
+that	TSUB WHSUB WH
+help	VPRT
+them	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+meet	INF
+the	ART DET
+difficult	JJ
+challenge	NN
+of	PIN PREP
+developing	GER PGAS
+language	NN
+,	
+and	ANDC CCONJ
+these	DEMP DET
+are	PASS VPRT AUXB
+used	
+right	RB
+from	PIN PREP
+birth	NN
+,	
+some	QUAN DET
+even	RB
+prenatally	RB
+.	
+They	TPP3 CAP PRP SBJP
+are	BEMA VPRT AUXB
+very	AMP RB
+social	JJ
+and	CCONJ
+can	POMD
+recognise	PRIV INF
+their	TPP3 PRP SBJP
+targets	NN
+-	
+people	NN
+,	
+and	ANDC CCONJ
+especially	RB
+familiar	JJ
+people	NN
+.	
+Equipped	PASTP CAP
+with	PIN PREP
+the	ART DET
+means	PRIV NN
+to	PIN TO PREP
+attract	INF
+and	PHC CCONJ
+hold	PRIV INF
+attention	NOMZ
+,	
+and	ANDC CCONJ
+influence	INF
+the	ART DET
+type	NN
+of	PIN PREP
+interaction	NOMZ
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+suits	VPRT
+their	TPP3 PRP SBJP
+learning	PRIV NN
+needs	NN
+,	
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+very	AMP RB
+active	JJ
+in	PIN CONJ PREP
+bringing	PGAS
+about	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+progression	NOMZ
+in	PIN CONJ PREP
+language	NN
+development	NOMZ
+.	
+Their	TPP3 CAP PRP SBJP
+auditory	JJ
+perceptual	JJ
+systems	NN
+are	PASS VPRT SPAU AUXB
+also	RB
+well	RB
+geared	
+up	PIN PREP
+to	PIN TO PREP
+handle	INF
+speech	NN
+and	CCONJ
+learn	PRIV INF
+patterns	NN
+.	
+Also	RB CAP
+very	AMP RB
+importantly	RB
+,	
+is	BEMA VPRT AUXB
+their	TPP3 PRP SBJP
+ability	NOMZ
+to	PIN TO PREP
+form	INF
+and	PHC CCONJ
+maintain	PUBV INF
+attachments	NOMZ
+to	PIN PREP
+their	TPP3 PRP SBJP
+primary	JJ
+care	NN
+giver	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+vital	JJ PRED
+for	PIN PREP
+the	ART DET
+next	JJ
+stages	NN
+of	PIN PREP
+language	NN
+development	NOMZ
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+can	POMD
+build	INF
+up	PIN PREP
+mutual	JJ
+understanding	GER PRIV
+,	
+consistency	NN
+,	
+shared	JJ
+knowledge	NN
+,	
+and	ANDC CCONJ
+develop	INF
+a	ART DET INDA
+shared	
+repertoire	NN
+of	PIN PREP
+language	NN
+stimulating	GER WZPRES PGAS
+games	NN
+(	
+Messer	CAP NNP
+,	
+1994	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+short	JJ
+,	
+this	DEMP DET
+will	PRMD
+provide	INF
+the	ART DET
+optimal	JJ
+environment	NOMZ
+for	PIN PREP
+learning	PRIV PGAS
+about	PIN PREP
+social	JJ
+interactions	NOMZ
+in	PIN CONJ PREP
+general	JJ
+and	CCONJ
+progressing	GER PGAS
+in	PIN CONJ PREP
+language	NN
+development	NOMZ
+.	

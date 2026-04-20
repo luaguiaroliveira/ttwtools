@@ -1,0 +1,569 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2109.0972.txt
+token	tags
+  	
+The	ART CAP DET
+important	NN
+of	PIN PREP
+Quality	CAP NNP
+manager	NN
+in	PIN CONJ PREP
+Aerospace	CAP NNP
+Industry	CAP NNP
+  	
+The	ART CAP DET
+industry	NN
+already	RB
+has	VPRT PEAS
+gone	
+through	PIN PREP
+many	QUAN JJ
+phases	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+early	JJ TIME
+twentieth	JJ
+century	NN
+,	
+the	ART DET
+companies	NN
+around	PIN PLACE PREP
+the	ART DET
+world	NN
+were	BEMA VBD AUXB
+worried	JJ PRED
+about	PIN PREP
+production	NOMZ
+,	
+so	RB
+,	
+as	PIN CONJ PREP
+more	JJ EMPH CMADJ
+outcome	VPRT
+the	ART DET
+company	NN
+could	POMD
+produce	INF
+,	
+more	JJ EMPH CMADJ
+power	NN
+they	TPP3 PRP SBJP
+would	PRMD
+have	INF
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+middle	NN
+of	PIN PREP
+the	ART DET
+twentieth	JJ
+century	NN
+,	
+the	ART DET
+companies	NN
+changed	VBD
+their	TPP3 PRP SBJP
+mentality	NOMZ
+,	
+in	PIN CONJ PREP
+that	DEMO DET
+as	PIN CONJ PREP
+more	JJ EMPH CMADJ
+money	NN
+the	ART DET
+company	NN
+had	VBD
+,	
+more	RB EMPH CMADJ
+powerful	JJ
+they	TPP3 PRP SBJP
+were	VBD AUXB
+.	
+Today	TIME NN CAP
+,	
+the	ART DET
+quality	NOMZ
+of	PIN PREP
+the	ART DET
+income	NN
+governs	VPRT
+the	ART DET
+world	NN
+’s	
+markets	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+quality	NOMZ
+manager	NN
+position	NOMZ
+is	PASS VPRT SPAU AUXB
+very	AMP RB
+required	SUAV
+the	ART DET
+aerospace	NN
+industry	NN
+,	
+especially	RB
+.	
+ 	
+Nowadays	RB TIME CAP
+,	
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+companies	NN
+that	DEMO WHOBJ WH
+work	NN
+relates	VPRT
+to	PIN PREP
+aerospace	NN
+.	
+Among	PIN CAP PREP
+them	TPP3 PRP SBJP ACCU
+,	
+there	EX
+are	VPRT AUXB
+companies	NN
+that	TSUB WHSUB WH
+work	VPRT
+with	PIN PREP
+maintenance	NN
+of	PIN PREP
+airplane	NN
+or	CCONJ
+parts	NN
+,	
+aircraft	NN
+assembly	NN
+,	
+research	NN
+and	PHC CCONJ
+development	NOMZ
+of	PIN PREP
+aerospace	NN
+technology	NN
+and	PHC CCONJ
+companies	NN
+that	TSUB WHSUB WH
+work	VPRT
+with	PIN PREP
+design	NN
+and	PHC CCONJ
+manufacture	NN
+of	PIN PREP
+airplane	NN
+’s	
+parts	NN
+.	
+Therefore	RB CONJ CAP
+,	
+the	ART DET
+quality	NOMZ
+manager	NN
+has	VPRT
+importants	NN
+roles	NN
+in	PIN CONJ PREP
+aerospace	NN
+company	NN
+around	PIN PLACE PREP
+the	ART DET
+world	NN
+,	
+specially	RB
+in	PIN CONJ PREP
+companies	NN
+that	TSUB WHSUB WH
+work	VPRT
+with	PIN PREP
+design	NN
+and	PHC CCONJ
+manufacture	NN
+of	PIN PREP
+aerospace	NN
+parts	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+these	DEMO DET
+companies	NN
+,	
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+types	NN
+of	PIN PREP
+process	NN
+which	WHOBJ DET WH
+the	ART DET
+product	NN
+need	VPRT
+to	PIN TO PREP
+pass	INF
+to	PIN TO PREP
+reach	INF
+the	ART DET
+phase	NN
+of	PIN PREP
+delivery	NN
+with	PIN PREP
+desire	SUAV NN THATD
+quality	NOMZ
+required	SUAV WZPAST
+by	PIN PREP
+client	NN
+.	
+The	ART CAP DET
+first	JJ
+step	NN
+assure	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+parts	NN
+can	POMD
+be	PASS BYPA AUXB INF
+manufactured	
+by	PIN PREP
+the	ART DET
+company	NN
+or	CCONJ
+need	INF
+some	QUAN DET
+design	NN
+modification	NOMZ
+to	PIN TO SPIN PREP
+better	RB CMADJ
+adapt	INF
+the	ART DET
+type	NN
+of	PIN PREP
+process	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+company	NN
+have	VPRT
+.	
+After	PIN CAP PREP
+that	DEMP DET
+,	
+there	EX
+is	VPRT AUXB
+the	ART DET
+process	NN
+of	PIN PREP
+manufacturing	GER
+of	PIN PREP
+the	ART DET
+parts	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	AUXB INF
+laminating	GER PGAS
+in	PIN CONJ PREP
+composite	JJ
+material	NN
+,	
+that	DEMP WH
+precedes	VPRT
+the	ART DET
+finishing	NN
+phase	NN
+,	
+where	RB SCONJ WH
+the	ART DET
+parts	NN
+goes	VPRT
+through	PIN PREP
+a	ART DET INDA
+final	JJ
+verification	NOMZ
+,	
+to	PIN TO PREP
+know	PRIV INF
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+is	VPRT AUXB
+compliance	NN
+with	PIN PREP
+the	ART DET
+initial	JJ
+requirement	NOMZ
+presented	WZPAST
+by	PIN PREP
+client	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+non	JJ
+-	NN
+compliance	JJ
+,	
+the	ART DET
+process	NN
+have	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+repeated	PUBV
+.	
+ 	
+The	ART CAP DET
+quality	NOMZ
+manager	NN
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+all	QUAN DET
+this	DEMO DET
+steps	NN
+,	
+since	OSUB PIN SCONJ PREP
+the	ART DET
+contract	NN
+phase	NN
+until	PIN PREP
+the	ART DET
+process	NN
+to	PIN PREP
+delivery	NN
+of	PIN PREP
+the	ART DET
+product	NN
+to	PIN PREP
+client	NN
+.	
+During	PIN CAP PREP
+the	ART DET
+contract	NN
+phase	NN
+,	
+the	ART DET
+quality	NOMZ
+manager	NN
+need	VPRT
+to	PIN TO PREP
+verify	INF
+if	COND PIN SCONJ PREP
+the	ART DET
+company	NN
+is	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+make	INF
+the	ART DET
+product	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+customer	NN
+require	SUAV INF
+.	
+After	PIN CAP PREP
+that	DEMP DET
+,	
+he	TPP3 PRP SBJP
+need	VPRT
+to	PIN TO PREP
+guarantee	PUBV INF
+that	PIN THVC SCONJ PREP
+during	PIN PREP
+all	QUAN DET
+step	NN
+of	PIN PREP
+manufacturing	GER
+,	
+the	ART DET
+company	NN
+is	VPRT AUXB
+complying	PGAS
+with	PIN PREP
+the	ART DET
+customer	NN
+requirement	NOMZ
+.	
+This	DEMO CAP DET
+verification	NOMZ
+is	BEMA VPRT AUXB
+possible	JJ PRED
+though	CONC PIN SCONJ PREP
+monitoring	GER PGAS
+all	QUAN DET
+the	ART DET
+processes	NN
+,	
+finding	PRIV PGAS
+and	PHC CCONJ
+correcting	GER PGAS
+failures	NN
+.	
+At	PIN CAP PREP
+the	ART DET
+end	NN
+,	
+before	PIN PREP
+delivery	NN
+the	ART DET
+product	NN
+,	
+the	ART DET
+manager	NN
+needs	VPRT
+analyze	INF
+the	ART DET
+degree	NN
+of	PIN PREP
+compliance	NN
+of	PIN PREP
+the	ART DET
+parts	NN
+,	
+through	PIN PREP
+different	JJ
+types	NN
+of	PIN PREP
+inspection	NOMZ
+.	
+ 	
+For	PIN CAP PREP
+that	DEMP DET
+,	
+the	ART DET
+quality	NOMZ
+manager	NN
+has	VPRT
+important	JJ
+roles	NN
+in	PIN CONJ PREP
+industry	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+through	PIN PREP
+of	PIN PREP
+the	ART DET
+manager	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+company	NN
+can	POMD
+know	PRIV INF
+if	COND PIN SCONJ PREP
+the	ART DET
+process	NN
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+accordance	NN
+with	PIN PREP
+the	ART DET
+company	NN
+’s	
+policies	NN
+,	
+if	COND PIN SCONJ PREP
+the	ART DET
+process	NN
+is	VPRT AUXB
+spending	PGAS
+more	JJ EMPH CMADJ
+money	NN
+than	PIN PREP
+predicted	PUBV
+,	
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+had	VBD
+losses	NN
+of	PIN PREP
+raw	JJ
+material	NN
+or	CCONJ
+even	JJ
+parts	NN
+,	
+product	NN
+.	
+Along	PIN CAP PREP
+with	PIN PREP
+all	QUAN DET
+these	DEMO DET
+knowledge	NN
+relates	VPRT
+to	PIN PREP
+manufacturing	GER
+process	NN
+,	
+the	ART DET
+manager	NN
+can	POMD
+standardize	INF
+processes	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+reduce	INF
+the	ART DET
+cost	NN
+of	PIN PREP
+manufacturing	GER
+and	CCONJ
+allows	VPRT SUAV
+assure	NN
+quality	NOMZ
+of	PIN PREP
+the	ART DET
+product	NN
+.	
+ 	
+Summarizing	CAP NNP
+,	
+the	ART DET
+companies	NN
+needs	VPRT
+to	PIN TO PREP
+have	INF
+quality	NOMZ
+manager	NN
+to	PIN TO PREP
+get	INF
+better	JJ CMADJ
+competitiveness	NOMZ
+in	PIN CONJ PREP
+today	TIME NN
+’s	
+globalized	JJ
+market	NN
+,	
+especially	RB
+in	PIN CONJ PREP
+an	ART DET INDA
+aerospace	NN
+area	NN
+.	
+The	ART CAP DET
+important	JJ
+to	PIN TO PREP
+have	INF
+quality	NOMZ
+manager	NN
+in	PIN CONJ PREP
+the	ART DET
+company	NN
+is	VPRT AUXB
+standardize	INF
+process	NN
+,	
+assure	INF
+compliance	NN
+of	PIN PREP
+the	ART DET
+product	NN
+with	PIN PREP
+customer	NN
+requirements	NOMZ
+,	
+decrease	NN
+of	PIN PREP
+production	NOMZ
+cost	NN
+.	

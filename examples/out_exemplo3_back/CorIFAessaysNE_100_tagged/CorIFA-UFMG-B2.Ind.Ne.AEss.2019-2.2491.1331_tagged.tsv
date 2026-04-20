@@ -1,0 +1,781 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2491.1331.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2019	CAP NNP
+-	
+2.2491.1331	NUM
+>	X
+  	
+In	PIN CONJ CAP PREP
+modern	JJ
+society	NN
+,	
+those	DEMP DET
+who	WHQU WH
+have	VPRT
+success	NN
+in	PIN CONJ PREP
+School	CAP NNP
+or	CCONJ
+University	CAP NNP
+context	NN
+are	PASS VPRT AUXB
+considered	PRIV
+extremely	AMP RB
+intelligent	JJ
+.	
+However	RB CONJ CAP
+,	
+despite	PIN SCONJ PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+these	DEMO DET
+people	NN
+are	VPRT AUXB
+certainly	RB
+very	AMP RB
+smart	JJ
+,	
+the	ART DET
+called	
+unsuccessful	JJ
+ones	NN
+are	BEMA VPRT AUXB
+also	RB
+capable	JJ
+to	PIN TO PREP
+obtain	INF
+knowledge	NN
+.	
+The	ART CAP DET
+problem	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+education	NOMZ
+system	NN
+that	TSUB WHSUB WH
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+effect	NN
+in	PIN CONJ PREP
+nowadays	RB TIME
+is	BEMA VPRT AUXB
+unfair	JJ PRED
+and	CCONJ
+people	NN
+who	WHSUB WH
+are	BEMA VPRT AUXB
+not	XX0 RB
+adapt	JJ
+are	VPRT AUXB
+label	NN
+as	PIN CONJ PREP
+powerless	JJ
+.	
+As	OSUB RB CONJ CAP
+long	RB
+as	PIN CONJ PREP
+the	ART DET
+maladjusted	
+ones	NN
+keep	VPRT
+being	AUXB
+label	NN
+like	PIN PREP
+that	DEMP DET
+,	
+they	TPP3 PRP SBJP
+start	VPRT
+believe	VPRT PRIV
+in	PIN CONJ PREP
+this	DEMO DET
+vision	NOMZ
+of	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+and	CCONJ
+do	VPRT SPAU
+not	XX0 RB
+change	INF
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+,	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+defend	INF
+that	PIN DEMP SCONJ PREP
+how	RB SCONJ WH
+others	NN
+define	VPRT
+people	NN
+in	PIN CONJ PREP
+the	ART DET
+education	NOMZ
+-	
+mostly	RB
+in	PIN CONJ PREP
+subtle	JJ
+ways	NN
+-	
+and	ANDC CCONJ
+consequently	RB CONJ
+how	RB SCONJ WH
+these	DEMO DET
+people	NN
+define	VPRT
+their	TPP3 PRP SBJP
+own	JJ
+habillity	NOMZ
+in	PIN CONJ PREP
+studying	PGAS
+affects	VPRT
+the	ART DET
+learning	PRIV NN
+process	NN
+.	
+ 	
+Primarily	RB CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+emphasize	INF
+that	DEMO DET
+care	NN
+about	PIN PREP
+each	QUAN DET
+other	JJ
+'s	
+opinions	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+basic	JJ
+characteristic	NN
+of	PIN PREP
+the	ART DET
+human	JJ
+behavior	NN
+.	
+People	NN CAP
+start	VPRT
+to	PIN PREP
+concern	NN
+about	PIN PREP
+what	WH
+society	NN
+thinks	VPRT PRIV
+about	PIN PREP
+them	TPP3 PRP SBJP ACCU
+since	OSUB PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+very	AMP RB
+young	JJ
+and	CCONJ
+change	INF
+their	TPP3 PRP SBJP
+natural	JJ
+behavior	NN
+due	PIN PREP
+to	PIN PREP
+that	DEMP DET
+-	
+even	RB
+without	PIN PREP
+realizing	PRIV PGAS
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+are	VPRT AUXB
+changing	PGAS
+.	
+The	ART CAP DET
+mechanism	NN
+that	TSUB WHSUB WH
+results	VPRT
+in	PIN CONJ PREP
+social	JJ
+readjustments	NOMZ
+is	BEMA VPRT AUXB
+very	AMP RB
+simple	JJ
+:	
+if	COND PIN SCONJ PREP
+one	NUM
+behavior	NN
+makes	VPRT
+someone	QUPR INPR
+get	INF
+uncomfortable	JJ
+,	
+this	DEMO DET
+person	NN
+stop	INF
+the	ART DET
+initial	JJ
+action	NOMZ
+,	
+so	CCONJ
+the	ART DET
+discomfort	NN
+goes	VPRT
+away	RB PLACE
+.	
+Humans	NN CAP
+do	VPRT PROD
+that	DEMO DET
+all	QUAN DET
+the	ART DET
+time	NN
+because	CAUS PIN SCONJ PREP
+the	ART DET
+are	BEMA VPRT AUXB
+social	JJ
+beings	NN
+and	ANDC CCONJ
+that	DEMP DET
+is	VPRT AUXB
+why	RB SCONJ WH
+people	NN
+structure	VPRT
+their	TPP3 PRP SBJP
+perspective	NN
+about	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+based	
+on	PIN PREP
+their	TPP3 PRP SBJP
+relationship	NN
+with	PIN PREP
+the	ART DET
+individuals	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+environment	NOMZ
+.	
+ 	
+This	DEMO CAP DET
+relationship	NN
+is	BEMA VPRT AUXB
+extremely	AMP RB
+observable	JJ
+in	PIN CONJ PREP
+the	ART DET
+education	NOMZ
+context	NN
+,	
+where	RB SCONJ WH
+teachers	NN
+and	PHC CCONJ
+classmates	NN
+crate	VPRT
+expectations	NOMZ
+on	PIN PREP
+the	ART DET
+students	NN
+based	WZPAST
+in	PIN CONJ PREP
+things	NN
+that	TSUB WHSUB WH
+do	VPRT SPAU
+not	XX0 RB
+necessarily	RB
+reveals	VPRT PRIV
+the	ART DET
+cognitive	JJ
+abilities	NN
+of	PIN PREP
+people	NN
+-	
+one	NUM
+bad	JJ
+result	NN
+on	PIN PREP
+a	ART DET INDA
+test	NN
+for	PIN PREP
+example	NN
+.	
+At	PIN CAP PREP
+1966	NUM
+Rosenthal	CAP NNP
+and	PHC CCONJ
+Jacobson	CAP NNP
+validade	VBD
+this	DEMO DET
+phenomenon	NN
+in	PIN CONJ PREP
+the	ART DET
+experiment	NOMZ
+“	
+Teachers	NN CAP
+expectancies	VPRT
+:	
+Determinants	NN CAP
+of	PIN PREP
+pupils	NN
+IQ	NN CAP
+gains	NN
+”	
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+test	NN
+the	ART DET
+psychologists	NN
+told	VBD
+the	ART DET
+teachers	NN
+of	PIN PREP
+Oak	CAP NNP
+School	CAP NNP
+that	PIN DEMO SCONJ PREP
+their	TPP3 PRP SBJP
+students	NN
+took	VBD
+the	ART DET
+"	QUOT
+"	QUOT
+Harvard	CAP NNP
+Test	CAP NNP
+of	PIN PREP
+Inflected	CAP NNP
+Acquisition	CAP NNP
+"	QUOT
+"	QUOT
+-	
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+supposed	PRIV
+to	PIN TO PREP
+show	PRIV INF
+wich	NN
+kids	NN
+would	PRMD
+have	INF
+more	RB EMPH CMADJ
+academic	JJ
+success	NN
+-	
+,	
+than	PIN PREP
+gave	VBD
+the	ART DET
+educators	NN
+a	ART DET INDA
+list	NN
+of	PIN PREP
+the	ART DET
+10	NUM
+students	NN
+that	TSUB WHSUB WH
+achieved	VBD
+better	JJ CMADJ
+results	NN
+,	
+but	CCONJ
+this	DEMO DET
+ten	NUM
+names	NN
+were	PASS VBD AUXB
+selected	
+randomly	RB
+and	ANDC CCONJ
+those	DEMO DET
+kids	NN
+had	VBD
+nothing	INPR
+else	RB
+different	JJ
+then	RB
+the	ART DET
+others	NN
+.	
+At	PIN CAP PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+school	NN
+year	NN
+,	
+the	ART DET
+students	NN
+were	PASS VBD AUXB
+submit	PUBV
+at	PIN PREP
+the	ART DET
+same	JJ
+test	NN
+and	CCONJ
+the	ART DET
+improvement	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+IQ	CAP NNP
+score	NN
+was	BEMA VBD AUXB
+more	RB EMPH CMADJ
+significant	JJ
+at	PIN PREP
+the	ART DET
+experimental	JJ
+group	NN
+(	
+the	ART DET
+10	NUM
+kids	NN
+on	PIN PREP
+the	ART DET
+list	NN
+)	
+compared	PASTP
+with	PIN PREP
+the	ART DET
+control	NN
+group	NN
+(	
+the	ART DET
+other	JJ
+kids	NN
+)	
+.	
+It	PIT CAP PRP SBJP
+became	VBD
+clear	JJ
+that	PIN THAC SCONJ PREP
+teachers	NN
+opinions	NN
+of	PIN PREP
+the	ART DET
+students	NN
+had	VBD PEAS
+influenced	
+on	PIN PREP
+the	ART DET
+academic	JJ
+achievement	NOMZ
+of	PIN PREP
+the	ART DET
+kids	NN
+.	
+ 	
+Nevertheless	RB CONJ CAP
+,	
+the	ART DET
+more	RB EMPH CMADJ
+impressive	JJ
+result	NN
+at	PIN PREP
+this	DEMO DET
+experiment	NOMZ
+was	BEMA VBD AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+preference	NN
+for	PIN PREP
+some	QUAN DET
+students	NN
+was	BEMA VBD AUXB
+not	XX0 RB
+explicit	JJ
+.	
+The	ART CAP DET
+teachers	NN
+tended	VBD
+to	PIN TO PREP
+smile	INF
+more	RB EMPH CMADJ
+frequently	RB
+to	PIN PREP
+the	ART DET
+designed	
+smarts	NN
+ones	NN
+and	CCONJ
+be	BEMA AUXB INF
+more	RB EMPH CMADJ
+open	JJ
+to	PIN PREP
+the	ART DET
+questions	NOMZ
+of	PIN PREP
+this	DEMO DET
+students	NN
+.	
+Just	RB EMPH CAP
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+this	DEMO DET
+subtle	JJ
+actions	NOMZ
+,	
+those	DEMO DET
+kids	NN
+who	WHSUB WH
+were	VBD AUXB
+receiving	PGAS
+special	JJ
+treatment	NOMZ
+believed	PRIV WZPAST
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+own	JJ
+capacity	NOMZ
+and	CCONJ
+had	VBD
+the	ART DET
+opportunity	NOMZ
+to	PIN TO PREP
+development	INF
+their	TPP3 PRP SBJP
+process	NN
+of	PIN PREP
+learning	PRIV PGAS
+;	
+in	PIN CONJ PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+those	DEMP DET
+who	WHQU WH
+were	BEMA VBD AUXB
+implicitly	RB
+unappreciated	JJ
+stopped	VBD
+to	PIN TO PREP
+believe	PRIV INF
+in	PIN CONJ PREP
+themselves	TPP3 PRP SBJP ACCU
+,	
+what	WHQU WH
+had	VBD PEAS
+affected	
+in	PIN CONJ PREP
+a	ART DET INDA
+negative	JJ
+way	NN
+their	TPP3 PRP SBJP
+habillites	NN
+on	PIN PREP
+studies	NN
+.	
+This	DEMO CAP DET
+situations	NOMZ
+demonstrates	VPRT PRIV
+that	PIN THVC SCONJ PREP
+students	NN
+are	PASS VPRT BYPA AUXB
+influenced	
+by	PIN PREP
+teachers	NN
+opinions	NN
+about	PIN PREP
+them	TPP3 PRP SBJP ACCU
+that	DEMO WH
+consequently	RB CONJ
+became	VBD
+their	TPP3 PRP SBJP
+own	JJ
+version	NOMZ
+of	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+.	
+Also	RB CAP
+,	
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+remind	INF
+that	PIN DEMO SCONJ PREP
+students	NN
+have	VPRT
+more	JJ EMPH CMADJ
+influences	NN
+than	PIN PREP
+only	DWNT RB
+their	TPP3 PRP SBJP
+teachers	NN
+,	
+family	NN
+and	PHC CCONJ
+friends	NN
+for	PIN PREP
+example	NN
+.	
+That	DEMO CAP DET
+way	NN
+,	
+it	PIT PRP SBJP
+became	VBD
+clear	JJ
+that	PIN THAC SCONJ PREP
+learning	PRIV NN THATD
+process	NN
+is	VPRT AUXB
+n’t	NN
+a	ART DET INDA
+individual	JJ
+development	NOMZ
+,	
+but	CCONJ
+is	BEMA VPRT AUXB
+actually	RB
+a	ART DET INDA
+social	JJ
+growth	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+it	PIT PRP SBJP
+’s	VPRT
+impossible	JJ
+to	PIN TO PREP
+think	PRIV INF
+about	PIN PREP
+learning	PRIV PGAS
+as	PIN CONJ PREP
+an	ART DET INDA
+one	NUM
+person	NN
+responsibility	NOMZ
+,	
+this	DEMO DET
+cognitive	JJ
+ability	NOMZ
+is	VPRT AUXB
+build	INF
+by	PIN PREP
+a	ART DET INDA
+serie	NN
+of	PIN PREP
+influences	NN
+that	TSUB WHSUB WH
+are	VPRT AUXB
+,	
+most	JJ EMPH SPADJ
+of	PIN PREP
+the	ART DET
+times	NN
+,	
+out	PIN PREP
+of	PIN PREP
+control	NN
+of	PIN PREP
+those	DEMP DET
+who	WH
+are	VPRT AUXB
+trying	PGAS
+to	PIN TO PREP
+learn	PRIV INF
+.	
+The	ART CAP DET
+education	NOMZ
+system	NN
+ 	
+is	BEMA VPRT AUXB
+unfair	JJ PRED
+,	
+because	CAUS PIN SCONJ PREP
+humans	NN
+action	NOMZ
+naturally	RB
+in	PIN CONJ PREP
+an	ART DET INDA
+unfair	JJ
+way	NN
+,	
+constantly	RB
+shaping	PGAS
+others	NN
+,	
+making	PGAS
+people	NN
+accept	PRIV INF
+others	NN
+'	CONT QUOT
+view	NN
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+as	PIN CONJ PREP
+their	TPP3 PRP SBJP
+own	JJ
+perspective	NN
+.	
+Even	RB CAP
+though	CONC PIN SCONJ PREP
+the	ART DET
+majority	NOMZ
+of	PIN PREP
+this	DEMO DET
+influences	NN
+are	BEMA VPRT AUXB
+an	ART DET INDA
+unintentional	JJ
+process	NN
+,	
+they	TPP3 PRP SBJP
+cause	VPRT
+a	ART DET INDA
+large	JJ
+amount	NN
+of	PIN PREP
+people	NN
+not	XX0 RB
+trusting	PGAS
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+capacity	NOMZ
+of	PIN PREP
+learning	PRIV PGAS
+.	
+If	COND PIN CAP SCONJ PREP
+society	NN
+could	POMD
+see	PRIV INF
+learning	PRIV PGAS
+as	PIN CONJ PREP
+a	ART DET INDA
+social	JJ
+construction	NOMZ
+,	
+the	ART DET
+maladjusted	
+ones	NN
+will	PRMD
+stop	INF
+to	PIN TO PREP
+label	INF
+like	PIN PREP
+that	DEMP DET
+,	
+and	ANDC CCONJ
+,	
+therefore	RB CONJ
+,	
+star	NNP
+build	VPRT
+a	ART DET INDA
+fair	JJ
+and	PHC CCONJ
+real	JJ
+vision	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+cognitive	JJ
+abilities	NN
+.	
+ 	

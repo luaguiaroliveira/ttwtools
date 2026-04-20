@@ -1,0 +1,608 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0935.0542.txt
+token	tags
+  	
+Technology	CAP NNP
+has	VPRT PEAS
+been	BEMA AUXB
+a	ART DET INDA
+target	NN
+of	PIN PREP
+concern	NN
+when	RB WHSUB SCONJ WH
+linked	
+to	PIN PREP
+the	ART DET
+childhood	NN
+.	
+Among	PIN CAP PREP
+children	NN
+,	
+games	NN
+and	CCONJ
+social	JJ
+medias	NN
+have	VPRT PEAS
+been	AUXB
+more	RB EMPH CMADJ
+and	PHC CCONJ
+more	RB EMPH CMADJ
+popular	JJ
+as	PIN CONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+access	NN
+platforms	NN
+increases	VPRT
+:	
+computers	NN
+,	
+smartphones	NN
+,	
+tablets	NN
+,	
+video	NN
+games	NN
+and	ANDC CCONJ
+so	RB
+on	RB PIN STPR PREP
+.	
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+role	NN
+of	PIN PREP
+technology	NN
+in	PIN CONJ PREP
+children	NN
+lives	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+important	JJ
+field	NN
+of	PIN PREP
+discussion	NOMZ
+at	PIN PREP
+the	ART DET
+post	JJ
+-	JJ
+modern	JJ
+world	NN
+and	CCONJ
+a	ART DET INDA
+controversial	JJ
+one	NN
+,	
+this	DEMO DET
+essay	NN
+has	VPRT
+the	ART DET
+intention	NOMZ
+of	PIN PREP
+treat	NN
+that	DEMO DET
+theme	NN
+in	PIN CONJ PREP
+some	QUAN DET
+of	PIN PREP
+its	PIT PRP SBJP
+relevant	JJ
+aspects	NN
+,	
+showing	PRIV PGAS
+that	PIN THVC SCONJ PREP
+the	ART DET
+society	NN
+is	VPRT AUXB
+evolving	PGAS
+with	PIN PREP
+the	ART DET
+technology	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+should	NEMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+seen	PRIV
+as	PIN CONJ PREP
+harmful	JJ
+.	
+  	
+First	RB CAP
+of	PIN PREP
+all	QUAN DET
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+demystify	INF
+the	ART DET
+early	JJ TIME
+exposure	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+very	AMP RB
+common	JJ
+to	PIN TO PREP
+think	PRIV INF
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+children	NN
+predisposition	NOMZ
+,	
+here	RB
+considering	GER PRIV THATD PGAS
+those	DEMP DET
+who	WH
+have	VPRT
+a	ART DET INDA
+certain	JJ
+level	NN
+of	PIN PREP
+thought	PRIV NN
+independence	NN
+and	PHC CCONJ
+ability	NOMZ
+to	PIN TO PREP
+manipulate	INF
+appliances	NN
+,	
+that	DEMP WH
+leads	VPRT
+to	PIN PREP
+an	ART DET INDA
+overly	RB
+alienation	NOMZ
+.	
+Nevertheless	RB CONJ CAP
+,	
+that	DEMO DET
+exposure	NN
+can	POMD
+come	INF
+from	PIN PREP
+the	ART DET
+parents	NN
+as	RB CONJ
+well	RB
+,	
+one	NUM
+example	NN
+is	BEMA VPRT AUXB
+the	ART DET
+so	RB
+called	
+“	
+sharent	JJ
+”	
+.	
+Sharent	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+blend	NN
+of	PIN PREP
+the	ART DET
+verb	NN
+“	
+share	NN
+”	
+and	ANDC CCONJ
+the	ART DET
+noun	NNP
+“	
+parent	NNP
+”	
+,	
+a	ART DET INDA
+concept	NN
+created	WZPAST
+to	PIN TO PREP
+illustrate	INF
+the	ART DET
+parents	NN
+action	NOMZ
+of	PIN PREP
+communicate	NN
+by	PIN PREP
+social	JJ
+medias	NN
+their	TPP3 PRP SBJP
+children	NN
+’s	
+pictures	NN
+,	
+private	JJ
+moments	NOMZ
+and	CCONJ
+general	JJ
+information	NOMZ
+.	
+As	PIN CONJ CAP PREP
+all	QUAN DET
+the	ART DET
+aspects	NN
+of	PIN PREP
+technology	NN
+,	
+this	DEMO DET
+action	NOMZ
+has	VPRT
+a	ART DET INDA
+bad	JJ
+and	CCONJ
+a	ART DET INDA
+good	JJ
+side	NN
+:	
+although	CONC PIN SCONJ PREP
+it	PIT PRP SBJP
+interferes	VPRT
+in	PIN CONJ PREP
+the	ART DET
+child	NN
+privacy	NN
+and	PHC CCONJ
+security	NOMZ
+,	
+it	PIT PRP SBJP
+can	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+mediator	NN
+between	PIN PREP
+the	ART DET
+family	NN
+and	CCONJ
+distant	JJ
+relatives	NN
+,	
+all	QUAN DET
+depends	VPRT
+of	PIN PREP
+the	ART DET
+people	NN
+’s	
+information	NOMZ
+usage	NN
+.	
+  	
+Whereas	OSUB PIN CAP SCONJ PREP
+some	QUAN DET
+see	VPRT PRIV
+the	ART DET
+electronic	JJ
+usage	NN
+as	RB CONJ
+problematic	JJ
+for	PIN PREP
+many	QUAN JJ
+reasons	PRIV NN
+,	
+like	PIN PREP
+sedentary	JJ
+lifestyle	NN
+,	
+difficulty	NN
+in	PIN CONJ PREP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+empathy	NN
+and	PHC CCONJ
+curiosity	NOMZ
+,	
+aggressive	JJ
+behaviour	NN
+,	
+sleep	NN
+deprivation	NOMZ
+and	PHC CCONJ
+shortening	GER
+of	PIN PREP
+family	NN
+quality	NOMZ
+time	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+blame	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+laid	
+in	PIN CONJ PREP
+the	ART DET
+devices	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+the	ART DET
+figure	NN
+of	PIN PREP
+children	NN
+and	PHC CCONJ
+teenagers	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+worthwhile	JJ PRED
+to	PIN TO PREP
+utter	INF
+that	PIN DEMO SCONJ PREP
+younger	JJ CMADJ
+generations	NOMZ
+are	PASS VPRT AUXB
+provided	
+with	PIN PREP
+a	ART DET INDA
+much	QUAN RB
+wider	JJ CMADJ
+framework	NN
+of	PIN PREP
+action	NOMZ
+and	PHC CCONJ
+interaction	NOMZ
+,	
+thus	RB CONJ
+the	ART DET
+same	JJ
+behaviour	NN
+as	PIN CONJ PREP
+that	DEMO DET
+of	PIN PREP
+previous	JJ
+ones	NN
+is	PASS VPRT AUXB
+highlighted	
+and	PHC CCONJ
+expanded	
+,	
+what	WH
+happens	VPRT
+in	PIN CONJ PREP
+extraordinary	JJ
+cases	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+problem	NN
+of	PIN PREP
+the	ART DET
+family	NN
+structure	NN
+,	
+which	SERE WHQU DET WH
+is	VPRT SPAU AUXB
+not	XX0 RB
+being	BEMA AUXB
+able	JJ PRED
+to	PIN TO PREP
+deal	INF
+with	PIN PREP
+those	DEMO DET
+environment	NOMZ
+changes	NN
+–	
+environment	NOMZ
+changes	NN
+do	VPRT SPAU
+not	XX0 RB
+mean	PRIV INF
+,	
+by	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+,	
+character	NN
+or	CCONJ
+behavioural	JJ
+disorders	NN
+.	
+  	
+Given	CAP
+the	ART DET
+right	JJ
+usage	NN
+,	
+technology	NN
+can	POMD
+lead	INF
+to	PIN PREP
+many	QUAN JJ
+positive	JJ
+effects	NN
+in	PIN CONJ PREP
+children	NN
+and	PHC CCONJ
+family	NN
+lives	NN
+.	
+Computers	NN CAP
+,	
+videogames	NN
+and	CCONJ
+other	JJ
+devices	NN
+can	POMD
+help	INF
+with	PIN PREP
+fine	JJ
+motor	NN
+skills	NN
+like	PIN PREP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+eye	NN
+hand	NN
+coordination	NOMZ
+,	
+promote	INF
+contact	NN
+with	PIN PREP
+a	ART DET INDA
+wider	JJ CMADJ
+cultural	JJ
+field	NN
+,	
+contributing	GER PGAS
+with	PIN PREP
+language	NN
+and	CCONJ
+intellectual	JJ
+development	NOMZ
+,	
+can	POMD
+mediate	INF
+and	PHC CCONJ
+facilitate	INF
+family	NN
+conversation	NOMZ
+on	PIN PREP
+more	RB EMPH CMADJ
+delicate	JJ
+topics	NN
+and	CCONJ
+can	POMD
+be	PASS AUXB INF
+involved	
+in	PIN CONJ PREP
+family	NN
+reunions	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+keep	INF
+up	PIN PREP
+with	PIN PREP
+the	ART DET
+youngers	NN
+dynamics	NN
+.	
+  	
+As	PIN CONJ CAP PREP
+shown	PRIV
+,	
+computers	NN
+and	PHC CCONJ
+videogames	NN
+play	VPRT
+a	ART DET INDA
+big	JJ
+role	NN
+in	PIN CONJ PREP
+children	NN
+lives	VPRT
+nowadays	RB TIME
+,	
+but	CCONJ
+that	DEMP DET
+should	NEMD SPAU
+not	XX0 RB
+instantly	RB TIME
+have	INF
+a	ART DET INDA
+bad	JJ
+meaning	PRIV NN
+.	
+Technology	NN CAP
+does	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+a	ART DET INDA
+free	JJ
+will	NN
+,	
+all	QUAN DET
+it	PIT PRP SBJP
+does	VPRT PROD
+is	VPRT AUXB
+reflect	PRIV INF
+humans	NN
+’	
+values	NN
+.	
+As	PIN CONJ CAP PREP
+it	PIT PRP SBJP
+can	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+very	AMP RB
+present	JJ
+trigger	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+for	PIN PREP
+the	ART DET
+society	NN
+to	PIN TO PREP
+learn	PRIV INF
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+deal	INF
+with	PIN PREP
+this	DEMO DET
+tool	NN
+which	WHSUB DET WH
+can	POMD
+,	
+very	AMP RB
+easily	RB
+,	
+become	VPRT
+a	ART DET INDA
+weapon	NN
+.	
+The	ART CAP DET
+family	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+whole	NN
+have	VPRT
+to	PIN TO PREP
+learn	PRIV INF
+about	PIN PREP
+the	ART DET
+potential	JJ
+dangers	NN
+and	PHC CCONJ
+benefits	NN
+they	TPP3 PRP SBJP
+may	POMD
+face	INF
+and	CCONJ
+about	PIN PREP
+the	ART DET
+power	NN
+it	PIT PRP SBJP
+gives	VPRT
+for	PIN PREP
+the	ART DET
+user	NN
+.	
+Build	CAP INF
+a	ART DET INDA
+solid	JJ
+foundation	NOMZ
+about	PIN PREP
+the	ART DET
+topic	NN
+leads	VPRT
+to	PIN PREP
+a	ART DET INDA
+well	RB
+-	
+formed	
+digital	JJ
+child	NN
+and	PHC CCONJ
+home	NN
+.	
+  	

@@ -1,0 +1,587 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2107.1018.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2018	CAP NNP
+-	
+2.2107.1018	NUM
+>	X
+  	
+<	X
+Fuzzy	CAP NNP
+Model	CAP NNP
+-	
+Based	CAP NNP
+Control	CAP NNP
+:	
+An	ART CAP DET INDA
+Efficient	CAP NNP
+Framework	CAP NNP
+to	PIN PREP
+Control	CAP NNP
+Nonlinear	CAP NNP
+Systems	CAP NNP
+>	X
+  	
+A	ART CAP DET INDA
+number	NN
+of	PIN PREP
+real	JJ
+-	
+world	NN
+systems	NN
+such	JJ
+as	PIN CONJ PREP
+power	NN
+converters	NN
+,	
+biochemical	JJ
+reactors	NN
+,	
+cars	NN
+,	
+and	ANDC CCONJ
+aircraft	NN
+can	POMD
+be	PASS BYPA SPAU AUXB INF
+mathematically	RB
+modeled	
+by	PIN PREP
+a	ART DET INDA
+set	NN
+of	PIN PREP
+nonlinear	JJ
+differential	JJ
+equations	NOMZ
+usually	RB
+derived	
+from	PIN PREP
+physical	JJ
+laws	NN
+.	
+For	PIN CAP PREP
+this	DEMO DET
+reason	PRIV NN
+,	
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+called	
+nonlinear	JJ
+systems	NN
+.	
+Frequently	RB CAP
+,	
+linear	JJ
+controllers	NN
+are	PASS VPRT AUXB
+employed	
+to	PIN TO PREP
+control	INF
+(	
+or	CCONJ
+stabilize	INF
+)	
+them	TPP3 PRP SBJP ACCU
+.	
+However	RB CONJ CAP
+,	
+these	DEMO DET
+controllers	NN
+can	POMD
+exhibit	INF
+poor	JJ
+performance	NN
+when	RB WHOBJ SCONJ WH
+a	ART DET INDA
+large	JJ
+operating	NN
+range	NN
+is	PASS VPRT AUXB
+required	SUAV
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+outperform	INF
+linear	JJ
+control	NN
+limitations	NOMZ
+,	
+nonlinear	JJ
+techniques	NN
+were	PASS VBD AUXB
+proposed	SUAV
+,	
+but	CCONJ
+their	TPP3 PRP SBJP
+design	NN
+can	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+hard	JJ
+task	NN
+for	PIN PREP
+applications	NOMZ
+involving	WZPRES PGAS
+complex	JJ
+nonlinear	JJ
+systems	NN
+.	
+This	DEMO CAP DET
+essay	NN
+aims	VPRT
+at	PIN PREP
+discussing	GER PGAS
+the	ART DET
+advantages	NN
+of	PIN PREP
+employing	PGAS
+fuzzy	JJ
+model	NN
+-	
+based	
+control	NN
+to	PIN TO PREP
+stabilize	INF
+nonlinear	JJ
+systems	NN
+when	RB WHSUB SCONJ WH
+compared	
+to	PIN PREP
+conventional	JJ
+linear	JJ
+/	
+nonlinear	JJ
+techniques	NN
+.	
+  	
+Most	JJ EMPH CAP SPADJ
+of	PIN PREP
+control	NN
+applications	NOMZ
+regard	VPRT
+linear	JJ
+techniques	NN
+.	
+Designers	NN CAP
+usually	RB
+prefer	VPRT SUAV
+this	DEMO DET
+class	NN
+of	PIN PREP
+controllers	NN
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+their	TPP3 PRP SBJP
+long	JJ
+successful	JJ
+history	NN
+in	PIN CONJ PREP
+industrial	JJ
+applications	NOMZ
+.	
+The	ART CAP DET
+design	NN
+of	PIN PREP
+linear	JJ
+controllers	NN
+is	PASS VPRT AUXB
+performed	
+concerning	GER PGAS
+linearized	
+models	NN
+whose	WHOBJ DET WH
+validity	NOMZ
+is	PASS VPRT AUXB
+restricted	
+to	PIN PREP
+the	ART DET
+vicinity	NOMZ
+of	PIN PREP
+a	ART DET INDA
+given	
+operating	NN
+point	NN
+of	PIN PREP
+the	ART DET
+nonlinear	JJ
+system	NN
+.	
+Thus	RB CONJ CAP
+,	
+when	RB SCONJ WH
+a	ART DET INDA
+large	JJ
+operating	NN
+range	NN
+is	PASS VPRT AUXB
+required	SUAV
+,	
+or	CCONJ
+a	ART DET INDA
+time	NN
+-	
+variant	JJ
+reference	NN
+must	NEMD
+be	PASS AUXB INF
+tracked	
+,	
+linear	JJ
+controllers	NN
+can	POMD
+exhibit	INF
+poor	JJ
+performance	NN
+or	CCONJ
+,	
+in	PIN CONJ PREP
+extreme	JJ
+cases	NN
+,	
+lead	INF
+the	ART DET
+system	NN
+to	PIN PREP
+instability	NOMZ
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+if	COND PIN SCONJ PREP
+the	ART DET
+model	NN
+owns	VPRT
+"	QUOT
+hard	JJ
+nonlinearities	NN
+"	QUOT
+,	
+the	ART DET
+linearization	NOMZ
+procedure	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+applied	
+.	
+This	DEMO CAP DET
+motivated	JJ
+development	NOMZ
+of	PIN PREP
+nonlinear	JJ
+techniques	NN
+.	
+  	
+Nonlinear	JJ CAP
+control	NN
+techniques	NN
+have	VPRT PEAS
+been	PASS AUXB
+proposed	SUAV
+to	PIN TO PREP
+outperform	INF
+linear	JJ
+control	NN
+limitations	NOMZ
+,	
+but	CCONJ
+many	QUAN JJ
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+can	POMD
+be	BEMA AUXB INF
+difficult	JJ PRED
+to	PIN TO PREP
+be	PASS AUXB INF
+designed	
+for	PIN PREP
+complex	JJ
+nonlinear	JJ
+systems	NN
+.	
+In	PIN CONJ CAP PREP
+classical	JJ
+nonlinear	JJ
+control	NN
+techniques	NN
+such	JJ
+as	PIN CONJ PREP
+feedback	NN
+linearization	NOMZ
+,	
+this	DEMO DET
+difficulty	NN
+is	PASS VPRT BYPA AUXB
+avoided	
+by	PIN PREP
+nonlinearity	NOMZ
+cancellation	NOMZ
+which	WHSUB DET WH
+attempts	VPRT
+to	PIN TO PREP
+impose	INF
+some	QUAN DET
+predetermined	
+dynamical	JJ
+behavior	NN
+for	PIN PREP
+the	ART DET
+system	NN
+.	
+Other	JJ CAP
+techniques	NN
+like	PIN PREP
+passivity	NOMZ
+-	
+based	
+control	NN
+try	VPRT
+to	PIN TO PREP
+respect	INF
+the	ART DET
+system	NN
+’s	
+structure	NN
+and	CCONJ
+incorporate	INF
+it	PIT PRP SBJP
+into	PIN PREP
+control	NN
+design	NN
+.	
+However	RB CONJ CAP
+,	
+passivity	NOMZ
+-	
+based	
+methods	NN
+require	VPRT SUAV
+solving	PGAS
+partial	JJ
+differential	JJ
+equations	NOMZ
+,	
+which	SERE DET WH
+also	RB
+introduces	VPRT
+difficulties	NN
+to	PIN TO PREP
+design	INF
+.	
+  	
+In	PIN CONJ CAP PREP
+the	ART DET
+last	JJ
+three	NUM
+decades	NN
+,	
+fuzzy	JJ
+model	NN
+-	
+based	
+control	NN
+has	VPRT PEAS
+provided	
+a	ART DET INDA
+suitable	JJ
+compromise	NN
+between	PIN PREP
+effectiveness	NOMZ
+and	PHC CCONJ
+design	NN
+complexity	NOMZ
+.	
+The	ART CAP DET
+main	JJ
+feature	NN
+of	PIN PREP
+this	DEMO DET
+nonlinear	JJ
+technique	NN
+is	PASS VPRT AUXB
+related	
+to	PIN PREP
+the	ART DET
+ability	NOMZ
+of	PIN PREP
+fuzzy	JJ
+models	NN
+describe	VPRT
+nonlinear	JJ
+dynamics	NN
+by	PIN PREP
+blending	PGAS
+simple	JJ
+linear	NN
+subsystems	NN
+.	
+This	DEMO CAP DET
+local	JJ
+linearity	NOMZ
+of	PIN PREP
+fuzzy	JJ
+models	NN
+allows	VPRT SUAV
+fuzzy	JJ
+controllers	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+designed	
+using	PGAS
+Linear	CAP NNP
+Matrix	CAP NNP
+Inequalities	CAP NNP
+,	
+a	ART DET INDA
+convex	JJ
+optimization	NOMZ
+tool	NN
+that	TSUB WHSUB WH
+can	POMD
+be	PASS BYPA SPAU AUXB INF
+efficiently	RB
+solved	
+by	PIN PREP
+existing	PGAS
+software	NN
+.	
+Another	CAP DET
+advantage	NN
+of	PIN PREP
+fuzzy	JJ
+control	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+nonlinearity	NOMZ
+information	NOMZ
+is	PASS VPRT AUXB
+introduced	
+into	PIN PREP
+control	NN
+scheme	NN
+,	
+thus	RB CONJ
+respecting	GER PGAS
+the	ART DET
+system	NN
+’s	
+structure	NN
+.	
+  	
+In	PIN CONJ CAP PREP
+general	JJ
+,	
+the	ART DET
+control	NN
+design	NN
+for	PIN PREP
+nonlinear	JJ
+systems	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+simple	JJ
+task	NN
+.	
+On	PIN CAP PREP
+one	NUM
+hand	NN
+,	
+if	COND PIN SCONJ PREP
+linear	JJ
+control	NN
+is	PASS VPRT AUXB
+employed	
+,	
+the	ART DET
+system	NN
+'s	
+performance	NN
+can	POMD
+be	PASS AUXB INF
+deteriorated	
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+designing	PGAS
+nonlinear	JJ
+controllers	NN
+may	POMD
+be	BEMA AUXB INF
+difficult	JJ PRED
+since	OSUB PIN SCONJ PREP
+it	PIT PRP SBJP
+may	POMD
+require	SUAV INF
+solving	PGAS
+hard	JJ
+equations	NOMZ
+,	
+which	SERE WHQU DET WH
+even	RB
+can	POMD
+have	INF
+multiple	JJ
+solutions	NOMZ
+.	
+Fuzzy	JJ CAP
+model	NN
+-	
+based	
+control	NN
+offers	VPRT
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+design	NN
+nonlinear	JJ
+controllers	NN
+simply	RB
+solving	PGAS
+a	ART DET INDA
+convex	JJ
+optimization	NOMZ
+problem	NN
+.	
+Therefore	RB CONJ CAP
+,	
+fuzzy	JJ
+control	NN
+can	POMD
+be	PASS AUXB INF
+viewed	
+as	PIN CONJ PREP
+a	ART DET INDA
+promising	JJ PUBV
+alternative	NN
+to	PIN TO PREP
+stabilize	INF
+nonlinear	JJ
+systems	NN
+,	
+since	OSUB PIN SCONJ PREP
+it	PIT PRP SBJP
+catches	VPRT
+the	ART DET
+good	JJ
+features	NN
+of	PIN PREP
+both	DET
+linear	JJ
+and	PHC CCONJ
+nonlinear	JJ
+classical	JJ
+techniques	NN
+.	

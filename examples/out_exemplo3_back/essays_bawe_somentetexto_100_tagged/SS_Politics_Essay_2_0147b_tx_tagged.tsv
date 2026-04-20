@@ -1,0 +1,1463 @@
+# filename: SS_Politics_Essay_2_0147b_tx.txt
+token	tags
+To	PIN TO CAP PREP
+deliberate	INF
+whether	PIN SCONJ PREP
+John	CAP NNP
+Maynard	CAP NNP
+Keynes	CAP NNP
+was	BEMA VBD AUXB
+a	ART DET INDA
+classical	JJ
+or	CCONJ
+neo	JJ
+-	JJ
+classical	JJ
+economist	NN
+is	BEMA VPRT AUXB
+essentially	RB
+to	PIN TO PREP
+compare	INF
+the	ART DET
+two	NUM
+traditions	NOMZ
+in	PIN CONJ PREP
+light	NN
+of	PIN PREP
+Keynes	CAP NNP
+'	CONT QUOT
+theories	NN
+.	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+consider	PRIV INF
+how	RB WHCL SCONJ WH
+Keynes	CAP NNP
+'	CONT QUOT
+thought	PRIV NN
+compares	VPRT
+with	PIN PREP
+either	DET
+school	NN
+.	
+Above	PIN PLACE CAP PREP
+this	DEMO DET
+analysis	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+equally	RB
+important	JJ
+to	PIN TO PREP
+interpret	INF
+Keynes	CAP NNP
+general	JJ
+approach	NN
+to	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+economics	NN
+.	
+The	ART CAP DET
+tradition	NOMZ
+of	PIN PREP
+the	ART DET
+classical	JJ
+political	JJ
+economy	NN
+should	NEMD
+be	PASS AUXB INF
+taken	
+synonymous	JJ
+with	PIN PREP
+the	ART DET
+liberal	JJ
+critique	NN
+of	PIN PREP
+mercantilism	NN
+and	CCONJ
+the	ART DET
+analyses	NN
+of	PIN PREP
+the	ART DET
+advantages	NN
+of	PIN PREP
+international	JJ
+trade	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+way	NN
+,	
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+economy	NN
+further	RB
+advocated	VBD
+the	ART DET
+principles	NN
+of	PIN PREP
+free	JJ
+trade	NN
+within	PIN PREP
+British	JJ CAP
+hegemony	NN
+in	PIN CONJ PREP
+the	ART DET
+19	NUM
+th	X
+century	NN
+.	
+The	ART CAP DET
+approach	NN
+of	PIN PREP
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+marginalist	NN
+revolution	NOMZ
+signaled	VBD
+a	ART DET INDA
+specialization	NOMZ
+of	PIN PREP
+economics	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+purely	RB
+technical	JJ
+discipline	NN
+.	
+As	PIN CONJ CAP PREP
+Michael	CAP NNP
+Bleaney	CAP NNP
+comments	VPRT PUBV
+,	
+'	CONT QUOT
+Keynes	CAP NNP
+'	CONT QUOT
+achievement	NOMZ
+was	BEMA VBD AUXB
+to	PIN TO PREP
+bridge	INF
+the	ART DET
+gulf	NN
+between	PIN PREP
+these	DEMO DET
+practical	JJ
+ideas	NN
+and	CCONJ
+pure	JJ
+neo	JJ
+-	JJ
+classical	JJ
+theory	NN
+;	
+to	PIN TO PREP
+root	INF
+these	DEMO DET
+thoughts	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+new	JJ
+general	JJ
+theory	NN
+of	PIN PREP
+economics	NN
+'	CONT QUOT
+.	
+Hence	RB CONJ CAP
+,	
+Keynes	CAP NNP
+'	CONT QUOT
+writing	PUBV NN
+was	PASS VBD AUXB
+composed	
+of	PIN PREP
+a	ART DET INDA
+mélange	NN
+of	PIN PREP
+classical	JJ
+and	PHC CCONJ
+neo	JJ
+-	JJ
+classical	JJ
+ideas	NN
+.	
+Yet	RB CAP
+,	
+his	TPP3 PRP SBJP
+approach	NN
+to	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+economics	NN
+most	RB EMPH SPADJ
+closely	RB
+resembles	VPRT
+the	ART DET
+classical	JJ
+consideration	NOMZ
+of	PIN PREP
+a	ART DET INDA
+political	JJ
+economy	NN
+.	
+These	DEMO CAP DET
+arguments	NOMZ
+of	PIN PREP
+theory	NN
+and	PHC CCONJ
+approach	NN
+will	PRMD
+be	PASS AUXB INF
+brought	
+forward	RB
+hereinafter	NN
+.	
+Bleaney	CAP NNP
+,	
+p.1	NN
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+essential	JJ PRED
+to	PIN TO PREP
+compare	INF
+the	ART DET
+two	NUM
+strands	NN
+of	PIN PREP
+liberal	JJ
+political	JJ
+economy	NN
+-	
+both	DET
+the	ART DET
+classical	JJ
+and	PHC CCONJ
+neo	JJ
+-	JJ
+classical	JJ
+approach	NN
+.	
+The	ART CAP DET
+classical	JJ
+political	JJ
+economy	NN
+is	PASS VPRT BYPA SPAU AUXB
+most	RB EMPH SPADJ
+commonly	RB
+characterized	
+by	PIN PREP
+the	ART DET
+works	NN
+of	PIN PREP
+Adam	CAP NNP
+Smith	CAP NNP
+and	PHC CCONJ
+David	CAP NNP
+Ricardo	CAP NNP
+.	
+Both	CAP DET
+wrote	VBD PUBV
+about	PIN PREP
+an	ART DET INDA
+economy	NN
+deeply	RB
+rooted	JJ
+in	PIN CONJ PREP
+a	ART DET INDA
+social	JJ
+context	NN
+.	
+Social	JJ CAP
+relations	NOMZ
+were	PASS VBD AUXB
+did	VBD SPAU
+not	XX0 RB
+take	INF
+a	ART DET INDA
+backseat	NN
+to	PIN PREP
+economic	JJ
+theory	NN
+.	
+Hence	RB CONJ CAP
+,	
+Smith	CAP NNP
+,	
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+analysis	NN
+of	PIN PREP
+social	JJ
+institutions	NOMZ
+,	
+was	BEMA VBD AUXB
+careful	JJ PRED
+to	PIN TO PREP
+point	INF
+out	PIN PREP
+the	ART DET
+properties	NN
+of	PIN PREP
+a	ART DET INDA
+market	NN
+society	NN
+that	TSUB WHSUB WH
+could	POMD SPAU
+potentially	RB
+have	INF
+adverse	JJ
+effects	NN
+on	PIN PREP
+the	ART DET
+human	JJ
+condition	NOMZ
+.	
+From	PIN CAP PREP
+this	DEMO DET
+background	NN
+Smith	CAP NNP
+develops	VPRT
+the	ART DET
+theory	NN
+of	PIN PREP
+the	ART DET
+invisible	JJ
+hand	NN
+would	PRMD
+direct	INF
+individual	JJ
+interests	NN
+to	PIN TO PREP
+benefit	INF
+the	ART DET
+collective	NN
+of	PIN PREP
+society	NN
+.	
+However	RB CONJ CAP
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+not	XX0 RB
+to	PIN TO PREP
+be	PASS AUXB INF
+confused	
+with	PIN PREP
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+perception	NOMZ
+of	PIN PREP
+the	ART DET
+homo	NN
+economicus	NNP
+.	
+More	RB EMPH CAP CMADJ
+importantly	RB
+,	
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+Wealth	CAP NNP
+of	PIN PREP
+Nations	CAP NNP
+he	TPP3 PRP SBJP
+outlined	VBD
+that	PIN DEMO SCONJ PREP
+the	ART DET
+real	JJ
+value	NN
+of	PIN PREP
+a	ART DET INDA
+nation	NOMZ
+is	BEMA VPRT AUXB
+not	XX0 RB
+the	ART DET
+gold	NN
+or	CCONJ
+silver	JJ
+reserves	NN
+it	PIT PRP SBJP
+possesses	VPRT
+but	CCONJ
+the	ART DET
+labor	NN
+it	PIT PRP SBJP
+holds	VPRT PRIV
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+19	NUM
+th	X
+century	NN
+David	CAP NNP
+Ricardo	CAP NNP
+contributes	VPRT
+to	PIN PREP
+the	ART DET
+classical	JJ
+political	JJ
+economy	NN
+thought	PRIV WZPAST
+by	PIN PREP
+introducing	GER PGAS
+his	TPP3 PRP SBJP
+theory	NN
+of	PIN PREP
+comparative	JJ
+advantage	NN
+.	
+This	DEMO CAP DET
+theory	NN
+essentially	RB
+puts	VPRT
+forward	RB
+the	ART DET
+idea	NN
+of	PIN PREP
+international	JJ
+trade	NN
+being	BEMA WZPRES AUXB
+a	ART DET INDA
+positive	JJ
+sum	NN
+rather	RB
+than	PIN PREP
+a	ART DET INDA
+zero	NUM
+sum	NN
+game	NN
+.	
+Hence	RB CONJ CAP
+,	
+these	DEMP DET
+are	BEMA VPRT AUXB
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+fundamental	JJ
+points	NN
+that	TSUB WHSUB WH
+contribute	VPRT
+to	PIN PREP
+the	ART DET
+understanding	GER PRIV
+of	PIN PREP
+classical	JJ
+political	JJ
+economy	NN
+.	
+Both	CAP DET
+Smith	CAP NNP
+and	PHC CCONJ
+Ricardo	CAP NNP
+directly	RB
+criticize	VPRT
+the	ART DET
+mercantilist	NN
+approach	NN
+to	PIN PREP
+political	JJ
+economy	NN
+.	
+They	TPP3 CAP PRP SBJP
+label	VPRT
+it	PIT PRP SBJP
+a	ART DET INDA
+statist	NN
+and	CCONJ
+protectionist	JJ
+doctrine	NN
+that	TSUB WHSUB WH
+emphasizes	VPRT
+the	ART DET
+wealth	NN
+of	PIN PREP
+nations	NOMZ
+on	PIN PREP
+the	ART DET
+basis	NN
+on	PIN PREP
+material	JJ
+reserves	NN
+.	
+Indeed	RB CAP
+,	
+mercantilist	NN
+economies	NN
+understand	VPRT PRIV
+the	ART DET
+benefits	NN
+the	ART DET
+trade	NN
+as	PIN CONJ PREP
+mutually	RB
+exclusive	JJ
+.	
+In	PIN CONJ CAP PREP
+contrast	NN
+,	
+according	PGAS
+to	PIN PREP
+Ricardo	CAP NNP
+'s	
+theory	NN
+of	PIN PREP
+comparative	JJ
+advantage	NN
+if	COND PIN SCONJ PREP
+a	ART DET INDA
+country	NN
+engages	VPRT
+in	PIN CONJ PREP
+free	JJ
+trade	NN
+then	RB
+it	PIT PRP SBJP
+will	PRMD
+be	BEMA AUXB INF
+beneficial	JJ PRED
+to	PIN PREP
+all	QUAN DET
+nations	NOMZ
+involved	WZPAST
+due	PIN PREP
+to	PIN PREP
+specialization	NOMZ
+.	
+Hence	RB CONJ CAP
+,	
+both	DET
+classical	JJ
+political	JJ
+economists	NN
+are	BEMA VPRT AUXB
+similar	JJ PRED
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+view	NN
+that	PIN TSUB SCONJ PREP
+acting	PGAS
+out	PIN PREP
+of	PIN PREP
+self	NN
+-	
+interest	NN
+,	
+either	CCONJ
+in	PIN CONJ PREP
+society	NN
+or	CCONJ
+in	PIN CONJ PREP
+international	JJ
+relations	NOMZ
+becomes	VPRT
+the	ART DET
+general	JJ
+interest	NN
+of	PIN PREP
+all	QUAN DET
+.	
+States	PUBV CAP NNP
+and	PHC CCONJ
+Market	CAP NNP
+Lecture	CAP NNP
+,	
+No	SYNE NN CAP
+.	NN
+2	NUM
+,	
+The	ART CAP DET
+development	NOMZ
+of	PIN PREP
+a	ART DET INDA
+neo	JJ
+-	JJ
+classical	JJ
+school	NN
+saw	VBD PRIV
+the	ART DET
+discipline	NN
+of	PIN PREP
+economical	JJ
+thought	PRIV NN
+evolve	NN
+into	PIN PREP
+a	ART DET INDA
+more	RB EMPH CMADJ
+scientific	JJ
+and	CCONJ
+more	RB EMPH CMADJ
+technical	JJ
+direction	NOMZ
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT SPAU AUXB
+generally	RB
+seen	PRIV
+as	PIN CONJ PREP
+a	ART DET INDA
+departure	NN
+point	NN
+from	PIN PREP
+the	ART DET
+classical	JJ
+political	JJ
+economy	NN
+.	
+The	ART CAP DET
+analysis	NN
+of	PIN STPR PREP
+'	CONT QUOT
+how	RB WHQU SCONJ WH
+choices	NN
+are	PASS VPRT AUXB
+made	
+between	PIN PREP
+alternative	JJ
+ends	NN
+under	PIN PREP
+conditions	NOMZ
+of	PIN PREP
+scarcity	NOMZ
+'	CONT QUOT
+became	VBD
+the	ART DET
+focus	NN
+point	NN
+of	PIN PREP
+neo	JJ
+-	JJ
+classical	JJ
+studies	NN
+.	
+Therefore	RB CONJ CAP
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+seen	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+science	NN
+free	JJ
+of	PIN PREP
+any	QUAN DET
+political	JJ
+or	CCONJ
+moral	JJ
+undertones	NN
+.	
+Indeed	RB CAP
+,	
+the	ART DET
+Austrian	JJ CAP
+school	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT SPAU AUXB
+most	RB EMPH SPADJ
+commonly	RB
+associated	
+with	PIN PREP
+neo	JJ
+-	JJ
+classical	JJ
+thought	PRIV NN
+,	
+emphasized	VBD
+the	ART DET
+need	NN
+for	PIN PREP
+the	ART DET
+universality	NOMZ
+of	PIN PREP
+economic	JJ
+concepts	NN
+.	
+This	DEMP CAP DET
+stands	VPRT
+in	PIN CONJ PREP
+opposition	NOMZ
+to	PIN PREP
+the	ART DET
+historical	JJ
+school	NN
+who	WHSUB WH
+are	VPRT SPAU AUXB
+firmly	RB
+believe	PRIV INF
+in	PIN CONJ PREP
+a	ART DET INDA
+historically	RB
+contingent	JJ
+analysis	NN
+.	
+Hence	RB CONJ CAP
+,	
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+approach	NN
+treats	VPRT
+economics	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+pure	JJ
+science	NN
+that	TSUB WHSUB WH
+considers	VPRT PRIV
+socially	RB
+indifferent	JJ
+individuals	NN
+.	
+This	DEMO CAP DET
+approach	NN
+has	VPRT PEAS SPAU
+often	RB
+lent	
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+economists	NN
+a	ART DET INDA
+reputation	NOMZ
+for	PIN PREP
+being	AUXB
+market	NN
+fundamentalists	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+they	TPP3 PRP SBJP
+are	PASS VPRT SPAU AUXB
+additionally	RB
+seen	PRIV
+as	PIN CONJ PREP
+predecessors	NN
+to	PIN PREP
+the	ART DET
+Hayekian	JJ CAP
+neo	JJ
+-	JJ
+liberal	JJ
+political	JJ
+economy	NN
+.	
+Gamble	JJ CAP
+1995	NUM
+:	
+518	NUM
+Gamble	CAP NNP
+,	
+p.5	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+compare	INF
+Keynes	CAP NNP
+'	CONT QUOT
+thought	PRIV NN
+with	PIN PREP
+the	ART DET
+classical	JJ
+and	PHC CCONJ
+neo	JJ
+-	JJ
+classical	JJ
+school	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+analyze	INF
+some	QUAN DET
+of	PIN PREP
+Keynes	CAP NNP
+'	CONT QUOT
+viewpoints	NN
+and	PHC CCONJ
+stances	NN
+.	
+Several	QUAN JJ CAP
+of	PIN PREP
+his	TPP3 PRP SBJP
+economic	JJ
+theories	NN
+point	VPRT
+towards	PIN PREP
+Keynes	CAP NNP
+as	PIN CONJ PREP
+disapproving	GER PGAS
+of	PIN PREP
+classical	JJ
+economic	JJ
+thought	PRIV NN
+.	
+Ricardo	CAP NNP
+and	CCONJ
+the	ART DET
+classics	NN
+were	PASS VBD AUXB
+convinced	
+that	PIN DEMO SCONJ PREP
+savings	NN
+would	PRMD
+be	PASS SPAU AUXB INF
+automatically	RB
+reinvested	
+.	
+However	RB CONJ CAP
+,	
+'	CONT QUOT
+the	ART DET
+difference	NN
+between	PIN PREP
+Keynes	CAP NNP
+and	CCONJ
+the	ART DET
+classical	JJ
+economists	NN
+was	BEMA VBD AUXB
+that	PIN DEMO SCONJ PREP
+while	OSUB PIN SCONJ PREP
+they	TPP3 PRP SBJP
+thought	VBD PRIV
+of	PIN PREP
+this	DEMO DET
+as	PIN CONJ PREP
+the	ART DET
+normal	JJ
+,	
+universal	JJ
+state	PUBV NN
+of	PIN PREP
+affairs	NN
+,	
+he	TPP3 PRP SBJP
+saw	VBD PRIV THATD
+it	PIT PRP SBJP
+as	PIN CONJ PREP
+a	ART DET INDA
+special	JJ
+case	NN
+.	
+'	CONT QUOT
+Stewart	CAP NNP
+,	
+p.99	NNP
+In	PIN CONJ CAP PREP
+this	DEMO DET
+way	NN
+the	ART DET
+classical	JJ
+economists	NN
+believed	VBD PRIV
+that	PIN THVC SCONJ PREP
+balance	NN
+between	PIN PREP
+savings	NN
+and	PHC CCONJ
+investment	NOMZ
+was	PASS VBD BYPA AUXB
+regulated	
+by	PIN PREP
+a	ART DET INDA
+changing	PGAS
+interest	NN
+rate	NN
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+if	COND PIN SCONJ PREP
+the	ART DET
+level	NN
+of	PIN PREP
+savings	NN
+increases	VPRT
+the	ART DET
+interest	NN
+rates	NN
+will	PRMD
+fall	INF
+with	PIN PREP
+a	ART DET INDA
+consequence	NN
+of	PIN PREP
+investments	NOMZ
+rising	WZPRES PGAS
+again	RB TIME
+.	
+Thus	RB CONJ CAP
+,	
+a	ART DET INDA
+decrease	NN
+in	PIN CONJ PREP
+consumption	NOMZ
+would	PRMD
+be	PASS BYPA AUXB INF
+balanced	
+by	PIN PREP
+a	ART DET INDA
+rise	NN
+in	PIN CONJ PREP
+investment	NOMZ
+and	ANDC CCONJ
+hence	RB CONJ
+employment	NOMZ
+would	PRMD
+stay	INF
+equal	JJ
+.	
+Yet	RB CAP
+,	
+as	PIN CONJ PREP
+Keynes	CAP NNP
+argues	VPRT PUBV
+that	PIN THVC SCONJ PREP
+savings	NN
+are	PASS VPRT BYPA SPAU AUXB
+not	XX0 RB
+reinvested	
+by	PIN PREP
+default	NN
+,	
+an	ART DET INDA
+increase	NN
+of	PIN PREP
+savings	NN
+would	PRMD SPAU
+then	RB
+mean	PRIV INF
+a	ART DET INDA
+decrease	NN
+in	PIN CONJ PREP
+consumption	NOMZ
+.	
+The	ART CAP DET
+subsequent	JJ
+decrease	NN
+in	PIN CONJ PREP
+national	JJ
+income	NN
+would	PRMD
+signal	INF
+a	ART DET INDA
+rise	NN
+in	PIN CONJ PREP
+unemployment	NOMZ
+.	
+Hence	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+respect	NN
+Keynes	CAP NNP
+'	CONT QUOT
+thought	PRIV NN
+hardly	DWNT RB
+aligns	NN
+with	PIN PREP
+classical	JJ
+economic	JJ
+concepts	NN
+of	PIN PREP
+savings	NN
+and	PHC CCONJ
+investments	NOMZ
+.	
+Classical	JJ CAP
+economists	NN
+and	CCONJ
+Keynes	CAP NNP
+clash	VPRT
+once	RB TIME
+more	RB EMPH CMADJ
+about	PIN PREP
+the	ART DET
+relationship	NN
+of	PIN PREP
+wages	NN
+to	PIN PREP
+unemployment	NOMZ
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+regard	NN
+,	
+Michael	CAP NNP
+Stewart	CAP NNP
+has	VPRT PEAS
+argued	PUBV
+that	PIN THVC SCONJ PREP
+Keynes	CAP NNP
+relied	VBD
+on	PIN PREP
+fundamental	JJ
+classical	JJ
+concepts	NN
+,	
+yet	CCONJ
+developed	VBD
+a	ART DET INDA
+different	JJ
+conclusion	NOMZ
+.	
+A	ART CAP DET INDA
+combination	NOMZ
+of	PIN PREP
+the	ART DET
+Law	CAP NNP
+of	PIN PREP
+Diminishing	GER CAP PGAS
+Returns	NN CAP
+and	CCONJ
+the	ART DET
+Theory	NN CAP
+of	PIN PREP
+Marginal	CAP NNP
+Productivity	CAP NNP
+results	VPRT
+in	PIN CONJ PREP
+the	ART DET
+observation	NOMZ
+if	COND PIN SCONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+workers	NN
+increases	NN
+then	RB
+individual	JJ
+must	NEMD
+fall	INF
+.	
+The	ART CAP DET
+studies	NN
+of	PIN PREP
+Keynes	CAP NNP
+'	CONT QUOT
+theories	NN
+indicate	VPRT PRIV
+that	PIN THVC SCONJ PREP
+there	EX
+was	VBD AUXB
+concurrence	NN
+on	PIN PREP
+this	DEMO DET
+issue	NN
+between	PIN PREP
+him	TPP3 PRP SBJP ACCU
+and	CCONJ
+the	ART DET
+classics	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+he	TPP3 PRP SBJP
+claimed	VBD PUBV
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+had	VBD PEAS SPAU
+not	XX0 RB
+distinguished	
+between	PIN PREP
+real	JJ
+and	CCONJ
+money	NN
+wages	NN
+.	
+In	PIN CONJ CAP PREP
+terms	NN
+of	PIN PREP
+macroeconomic	JJ
+principle	NN
+if	COND PIN SCONJ PREP
+everyone	QUPR INPR
+experiences	VPRT
+similar	JJ
+changes	NN
+in	PIN CONJ PREP
+money	NN
+wages	NN
+then	RB
+the	ART DET
+combined	
+real	JJ
+wage	NN
+will	PRMD
+remain	INF
+unchanged	JJ
+.	
+From	PIN CAP PREP
+this	DEMO DET
+it	PIT PRP SBJP
+follows	VPRT
+that	PIN DEMO SCONJ PREP
+if	COND PIN SCONJ PREP
+real	JJ
+wages	NN
+do	VPRT SPAU
+not	XX0 RB
+change	INF
+,	
+then	RB
+neither	CCONJ
+will	PRMD
+the	ART DET
+level	NN
+of	PIN PREP
+employment	NOMZ
+.	
+Hence	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+opposition	NOMZ
+to	PIN PREP
+the	ART DET
+classical	JJ
+economists	NN
+Keynes	CAP NNP
+argued	VBD PUBV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+was	VBD AUXB
+interest	NN
+rates	NN
+and	CCONJ
+not	XX0 RB
+wages	NN
+that	TSUB WHSUB WH
+cause	VPRT
+unemployment	NOMZ
+.	
+Interestingly	RB CAP
+,	
+however	RB CONJ
+,	
+this	DEMO DET
+theory	NN
+is	PASS VPRT SPAU AUXB
+somewhat	DWNT RB
+negated	
+in	PIN CONJ PREP
+light	NN
+of	PIN PREP
+the	ART DET
+international	JJ
+political	JJ
+economy	NN
+where	RB WHOBJ SCONJ WH
+individual	JJ
+countries	NN
+are	PASS VPRT AUXB
+seen	PRIV
+to	PIN TO PREP
+have	INF
+open	JJ
+economies	NN
+.	
+Stewart	CAP NNP
+,	
+pp	NNP
+.	
+109	NUM
+-	
+112	NUM
+Stewart	CAP NNP
+,	
+p.	NN
+109	NUM
+In	PIN CONJ CAP PREP
+terms	NN
+of	PIN PREP
+theory	NN
+Keynes	CAP NNP
+is	VPRT AUXB
+not	XX0 RB
+significantly	RB
+closer	JJ CMADJ
+to	PIN PREP
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+thought	PRIV NN
+of	PIN PREP
+economics	NN
+.	
+Indeed	RB CAP
+,	
+Keynes	CAP NNP
+disagreed	VBD
+with	PIN PREP
+Say	PUBV CAP NNP
+'s	
+Law	CAP NNP
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+seen	PRIV
+to	PIN TO PREP
+be	AUXB INF
+one	NUM
+of	PIN PREP
+the	ART DET
+cornerstones	NN
+of	PIN PREP
+neo	JJ
+-	JJ
+classical	JJ
+economics	NN
+.	
+Keynes	CAP NNP
+contradicted	VBD
+this	DEMO DET
+proposition	NOMZ
+by	PIN PREP
+disagreeing	GER PGAS
+with	PIN PREP
+the	ART DET
+stipulation	NOMZ
+that	DEMO WHOBJ WH
+supply	NN
+will	PRMD
+create	INF
+its	PIT PRP SBJP
+own	JJ
+demand	SUAV NN
+.	
+However	RB CONJ CAP
+,	
+Michael	CAP NNP
+Bleaney	CAP NNP
+notes	VPRT PRIV
+that	PIN THVC SCONJ PREP
+Keynes	CAP NNP
+'	CONT QUOT
+did	VBD SPAU
+not	XX0 RB
+make	INF
+any	QUAN DET
+obvious	JJ
+departures	NN
+from	PIN PREP
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+tradition	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+assumptions	NOMZ
+around	PIN PLACE PREP
+which	PIRE DET WH
+his	TPP3 PRP SBJP
+theory	NN
+was	PASS VBD AUXB
+built	
+'	CONT QUOT
+.	
+This	DEMP CAP DET
+leads	VPRT
+us	FPP1 PRP SBJP ACCU
+to	PIN PREP
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+synthesis	NN
+argument	NOMZ
+that	TSUB WHSUB WH
+claims	VPRT PUBV
+the	ART DET
+Keynes	CAP NNP
+'	CONT QUOT
+General	CAP NNP
+Theory	CAP NNP
+was	BEMA VBD AUXB
+merely	DWNT RB
+a	ART DET INDA
+'	CONT QUOT
+special	JJ
+case	NN
+of	PIN PREP
+the	ART DET
+classical	JJ
+theory	NN
+'	CONT QUOT
+.	
+Yet	RB CAP
+,	
+as	PIN CONJ PREP
+seen	PRIV
+above	RB PLACE
+,	
+Keynes	CAP NNP
+'	CONT QUOT
+thoughts	NN
+are	VPRT AUXB
+not	XX0 RB
+necessarily	RB
+favorable	JJ
+towards	PIN PREP
+the	ART DET
+classical	JJ
+political	JJ
+economy	NN
+.	
+Indeed	RB CAP
+,	
+Keynes	CAP NNP
+'	CONT QUOT
+accusation	NOMZ
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+the	ART DET
+classical	JJ
+economic	JJ
+theory	NN
+of	PIN PREP
+being	AUXB
+itself	PIT PRP SBJP ACCU
+one	NUM
+of	PIN PREP
+these	DEMO DET
+petty	JJ
+,	
+polite	JJ
+techniques	NN
+which	WHSUB DET WH
+tries	VPRT
+to	PIN TO PREP
+deal	INF
+with	PIN PREP
+the	ART DET
+present	NN
+by	PIN PREP
+abstracting	GER PGAS
+from	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+we	FPP1 PRP SBJP
+know	VPRT PRIV
+very	AMP RB
+little	JJ
+about	PIN PREP
+the	ART DET
+future	NN
+"	QUOT
+is	VPRT AUXB
+not	XX0 RB
+exactly	RB
+favorable	JJ
+to	PIN PREP
+the	ART DET
+classical	JJ
+thought	PRIV NN
+.	
+Bleaney	CAP NNP
+,	
+p.17	NNP
+Togati	CAP NNP
+,	
+p.3	NN
+Keynes	CAP NNP
+cited	VBD
+in	PIN CONJ PREP
+Togati	CAP NNP
+,	
+p.47	NNP
+In	PIN CONJ CAP PREP
+light	NN
+of	PIN PREP
+these	DEMO DET
+theoretical	JJ
+comparisons	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN PREP
+abstract	JJ
+and	CCONJ
+analyze	INF
+what	WH
+scientific	JJ
+approach	NN
+Keynes	CAP NNP
+used	VBD
+to	PIN TO PREP
+develop	INF
+these	DEMO DET
+theories	NN
+.	
+The	ART CAP DET
+constructive	JJ
+method	NN
+of	PIN PREP
+the	ART DET
+neo	JJ
+-	JJ
+classical	JJ
+school	NN
+was	PASS VBD BYPA AUXB
+criticized	
+by	PIN PREP
+Keynes	CAP NNP
+as	PIN CONJ PREP
+merely	DWNT RB
+dealing	PGAS
+with	PIN PREP
+particular	JJ CONJ
+cases	NN
+.	
+Therefore	RB CONJ CAP
+,	
+Keynes	CAP NNP
+is	PASS VPRT AUXB
+seen	PRIV
+as	PIN CONJ PREP
+placing	PGAS
+'	CONT QUOT
+emphasis	NN
+on	PIN PREP
+aggregates	NN
+rather	RB
+than	PIN PREP
+on	PIN PREP
+representative	JJ
+agents	NN
+as	PIN CONJ PREP
+irreducible	JJ
+realities	NN
+of	PIN PREP
+economics	NN
+'	CONT QUOT
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+the	ART DET
+General	CAP NNP
+Theory	CAP NNP
+market	NN
+...	
+mathematics	NN
+graph	NN
+only	DWNT RB
+developed	
+later	RB TIME
+.	
+Togati	CAP NNP
+,	
+p.44	NN

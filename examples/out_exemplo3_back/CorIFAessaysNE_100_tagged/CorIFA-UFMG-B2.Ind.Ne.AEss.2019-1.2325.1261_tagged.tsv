@@ -1,0 +1,785 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2325.1261.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2019	CAP NNP
+-	
+1.2325.1261	NNP
+>	X
+  	
+<	X
+Title	NN CAP
+:	
+Relevance	NN CAP
+of	PIN PREP
+taxonomical	JJ
+collections	NOMZ
+and	CCONJ
+the	ART DET
+advantages	NN
+of	PIN PREP
+its	PIT PRP SBJP
+informatization	NOMZ
+through	PIN PREP
+collaborative	JJ
+networks	NN
+.	
+>	X
+  	
+In	PIN CONJ CAP PREP
+2007	NUM
+,	
+the	ART DET
+United	CAP NNP
+Nations	CAP NNP
+Convention	CAP NNP
+on	PIN PREP
+Biological	CAP NNP
+Diversity	CAP NNP
+(	
+CBD	CAP NNP
+/	
+UN	CAP NNP
+)	
+was	PASS VBD AUXB
+launched	
+and	CCONJ
+Brazil	CAP NNP
+became	VBD
+one	NUM
+of	PIN PREP
+the	ART DET
+signatories	NN
+of	PIN PREP
+the	ART DET
+agreement	NOMZ
+that	DEMP WHOBJ WH
+,	
+herein	INF
+with	PIN PREP
+the	ART DET
+fifteen	NUM
+of	PIN PREP
+the	ART DET
+seventeen	NUM
+U.N.	CAP NNP
+goals	NN
+for	PIN PREP
+sustainable	JJ
+development	NOMZ
+,	
+defined	VBD
+specific	JJ
+targets	NN
+and	PHC CCONJ
+commitments	NOMZ
+to	PIN TO PREP
+understand	PRIV INF
+and	PHC CCONJ
+assess	INF
+biodiversity	NOMZ
+through	PIN PREP
+a	ART DET INDA
+series	NN
+of	PIN PREP
+methodologies	NN
+of	PIN PREP
+which	PIRE DET WH
+the	ART DET
+herbariums	NN
+and	CCONJ
+other	JJ
+taxonomical	JJ
+collections	NOMZ
+plays	VPRT
+a	ART DET INDA
+critical	JJ
+role	NN
+as	PIN CONJ PREP
+the	ART DET
+main	JJ
+source	NN
+for	PIN PREP
+present	JJ
+and	PHC CCONJ
+historical	JJ
+data	NN
+about	PIN PREP
+species	NN
+diversity	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+.	
+Our	FPP1 CAP PRP SBJP
+country	NN
+possesses	VPRT
+a	ART DET INDA
+huge	JJ
+and	PHC CCONJ
+threatened	JJ
+biodiversity	NOMZ
+,	
+that	PIN DEMO SCONJ PREP
+ultimately	RB
+,	
+has	VPRT
+an	ART DET INDA
+uncounted	JJ
+impact	NN
+over	PIN PREP
+the	ART DET
+economy	NN
+,	
+culture	NN
+,	
+medicine	NN
+and	CCONJ
+other	JJ
+aspects	NN
+.	
+ 	
+Besides	PIN CAP SCONJ PREP
+a	ART DET INDA
+great	JJ
+amount	NN
+of	PIN PREP
+species	NN
+,	
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+considerable	JJ
+knowledge	NN
+gap	NN
+that	TSUB WHSUB WH
+must	NEMD
+be	PASS AUXB INF
+understood	PRIV
+and	PHC CCONJ
+fulfilled	
+with	PIN PREP
+a	ART DET INDA
+range	NN
+of	PIN PREP
+public	JJ
+and	PHC CCONJ
+collective	JJ
+investments	NOMZ
+that	DEMP WHOBJ WH
+,	
+nevertheless	RB CONJ
+,	
+are	PASS VPRT SPAU AUXB
+actually	RB
+been	PASS AUXB
+slowed	
+down	PIN PREP
+in	PIN CONJ PREP
+the	ART DET
+last	JJ
+three	NUM
+years	NN
+in	PIN CONJ PREP
+Brazil	CAP NNP
+(	
+Angelo	CAP NNP
+,	
+2017	NUM
+)	
+,	
+despite	PIN SCONJ PREP
+the	ART DET
+massive	JJ
+rates	NN
+of	PIN PREP
+species	NN
+extinction	NOMZ
+today	TIME NN
+.	
+ 	
+Taxonomical	JJ CAP
+collections	NOMZ
+and	PHC CCONJ
+species	NN
+databases	NN
+are	BEMA VPRT AUXB
+an	ART DET INDA
+important	JJ
+tool	NN
+for	PIN PREP
+society	NN
+and	PHC CCONJ
+governments	NOMZ
+to	PIN TO PREP
+acknowledge	PUBV INF
+,	
+assess	INF
+and	PHC CCONJ
+plan	VPRT
+the	ART DET
+sustainable	JJ
+use	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+subjacent	NN
+biodiversity	NOMZ
+.	
+Until	PIN CAP PREP
+very	AMP RB
+recently	RB TIME
+,	
+practically	DWNT RB
+only	JJ DWNT
+scientists	NN
+could	POMD
+have	INF
+access	NN
+to	PIN PREP
+biodiversity	NOMZ
+information	NOMZ
+,	
+without	PIN PREP
+such	JJ
+practicality	NOMZ
+and	CCONJ
+collectiveness	VPRT
+though	CONC RB
+.	
+Nowadays	RB TIME CAP
+,	
+access	NN
+to	PIN PREP
+these	DEMO DET
+datasets	NN
+have	VPRT PEAS
+become	
+much	QUAN RB
+more	RB EMPH CMADJ
+attainable	JJ
+through	PIN PREP
+the	ART DET
+implementation	NOMZ
+of	PIN PREP
+an	ART DET INDA
+online	JJ
+collaborating	GER PGAS
+network	NN
+.	
+In	PIN CONJ CAP PREP
+Brazil	CAP NNP
+many	QUAN JJ
+projects	NN
+and	CCONJ
+online	JJ
+tools	NN
+were	PASS VBD AUXB
+launched	
+in	PIN CONJ PREP
+that	DEMO DET
+way	NN
+:	
+INCT	NN CAP
+–	
+Herbario	CAP NNP
+Virtual	CAP NNP
+;	
+CRIA	CAP NNP
+;	
+speciesLink	NN
+;	
+SisBiota	CAP NNP
+;	
+Lacunas	CAP NNP
+;	
+BioGeo	CAP NNP
+;	
+ABELHA	CAP NNP
+;	
+SiBBr	CAP NNP
+;	
+Reflora	CAP NNP
+and	PHC CCONJ
+Flora	CAP NNP
+do	VPRT PROD
+Brasil	CAP NNP
+are	BEMA VPRT AUXB
+a	ART DET INDA
+few	QUAN JJ
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Together	RB CAP
+,	
+they	TPP3 PRP SBJP
+provide	VPRT
+free	JJ
+and	PHC CCONJ
+open	JJ
+access	NN
+to	PIN PREP
+biodiversity	NOMZ
+data	NN
+for	PIN PREP
+society	NN
+,	
+scientists	NN
+and	PHC CCONJ
+policy	NN
+makers	NN
+,	
+corresponding	GER PGAS
+for	PIN PREP
+more	JJ EMPH CMADJ
+than	PIN PREP
+40	NUM
+terabytes	NN
+of	PIN PREP
+information	NOMZ
+,	
+20	NUM
+million	NUM
+exsiccate	NN
+images	NN
+,	
+125	NUM
+national	JJ
+and	PHC CCONJ
+international	JJ
+participating	GER PGAS
+herbariums	NN
+and	CCONJ
+486	NUM
+dataset	JJ
+providers	NN
+.	
+ 	
+The	ART CAP DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+we	FPP1 PRP SBJP
+live	VPRT
+in	PIN CONJ PREP
+one	NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+biodiverse	NN
+countries	NN
+in	PIN CONJ PREP
+the	ART DET
+planet	NN
+is	BEMA VPRT AUXB
+already	RB
+familiar	JJ
+.	
+According	CAP PGAS
+to	PIN PREP
+the	ART DET
+Flora	CAP NNP
+do	VPRT PROD
+Brasil	CAP NNP
+project	NN
+(	
+2019	NUM
+)	
+,	
+Brazil	CAP NNP
+accounts	VPRT
+for	PIN PREP
+a	ART DET INDA
+quarter	NN
+of	PIN PREP
+the	ART DET
+worlds	NN
+plants	VPRT
+species	NN
+,	
+of	PIN PREP
+which	PIRE DET WH
+about	RB
+55	NUM
+%	NN
+only	DWNT RB
+exists	VPRT
+in	PIN CONJ PREP
+here	RB
+.	
+Moreover	RB CONJ CAP
+,	
+there	EX
+is	VPRT AUXB
+an	ART DET INDA
+estimated	PRIV
+5.1	NUM
+million	NUM
+fungi	NN
+species	NN
+,	
+yet	RB
+,	
+only	DWNT RB
+70.000	NUM
+are	PASS VPRT BYPA AUXB
+described	
+by	PIN PREP
+science	NN
+(	
+Blackwell	CAP NNP
+,	
+2011	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+estimated	PRIV
+that	PIN THVC SCONJ PREP
+an	ART DET INDA
+extensive	JJ
+part	NN
+of	PIN PREP
+global	JJ
+biodiversity	NOMZ
+will	PRMD
+be	PASS SPAU AUXB INF
+forever	RB
+destroyed	
+even	RB
+before	RB
+been	PASS BYPA SPAU AUXB
+ever	RB
+known	PRIV
+by	PIN PREP
+science	NN
+,	
+and	ANDC CCONJ
+that	DEMP DET
+is	BEMA VPRT AUXB
+an	ART DET INDA
+already	RB
+present	JJ
+issue	NN
+(	
+Maia	CAP NNP
+,	
+2017	NUM
+)	
+.	
+The	ART CAP DET
+so	RB
+-	
+called	
+sixth	JJ
+global	JJ
+mass	JJ
+extinction	NOMZ
+event	NN
+(	
+associated	PASTP
+with	PIN PREP
+the	ART DET
+demographic	JJ
+human	JJ
+growth	NN
+and	PHC CCONJ
+use	NN
+of	PIN PREP
+planet	NN
+resources	NN
+)	
+may	POMD SPAU
+also	RB
+lead	INF
+to	PIN PREP
+the	ART DET
+coextinction	NOMZ
+of	PIN PREP
+traditional	JJ
+knowledge	NN
+,	
+and	ANDC CCONJ
+certainly	RB
+,	
+to	PIN PREP
+all	QUAN DET
+technological	JJ
+and	PHC CCONJ
+medicinal	JJ
+potential	NN
+associated	WZPAST
+with	PIN PREP
+species	NN
+entities	NN
+and	CCONJ
+their	TPP3 PRP SBJP
+genes	NN
+,	
+that	PIN STPR DEMP SCONJ PREP
+,	
+without	PIN PREP
+mentioning	GER PUBV PGAS
+the	ART DET
+intrinsic	JJ
+biodiversity	NOMZ
+,	
+biological	JJ
+and	PHC CCONJ
+ecosystemic	JJ
+value	NN
+.	
+ 	
+As	PIN CONJ CAP PREP
+already	RB
+mentioned	PUBV
+,	
+biodiversity	NOMZ
+implies	VPRT PRIV
+in	PIN CONJ PREP
+many	QUAN JJ
+cultural	JJ
+and	PHC CCONJ
+economic	JJ
+important	JJ
+aspects	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+society	NN
+,	
+for	PIN PREP
+instance	NN
+,	
+biodiversity	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+multibillionaire	NN
+global	JJ
+market	NN
+,	
+although	CONC PIN SCONJ PREP
+the	ART DET
+costs	NN
+of	PIN PREP
+its	PIT PRP SBJP
+correct	JJ
+conservation	NOMZ
+could	POMD
+surpass	INF
+    	
+U.S.$	CAP NNP
+76	NUM
+billion	NUM
+(	
+McCarthy	CAP NNP
+,	
+2012	NUM
+)	
+.	
+Culturally	RB CAP
+,	
+every	QUAN DET
+traditional	JJ
+population	NOMZ
+,	
+to	PIN TO PREP
+ancient	INF
+until	PIN PREP
+modern	JJ
+times	NN
+,	
+relies	VPRT
+upon	PIN SCONJ PREP
+local	JJ
+biodiversity	NOMZ
+to	PIN TO PREP
+sustain	INF
+its	PIT PRP SBJP
+way	NN
+of	PIN PREP
+life	NN
+,	
+a	ART DET INDA
+very	AMP RB
+conservative	JJ
+estimative	JJ
+suggest	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+each	QUAN DET
+dollar	NN
+invested	WZPAST
+in	PIN CONJ PREP
+conservation	NOMZ
+returns	NN
+seven	NUM
+dollars	NN
+to	PIN PREP
+the	ART DET
+economy	NN
+(	
+Souza	CAP NNP
+et	NN
+al	NNP
+.	NNP
+2017	NUM
+)	
+,	
+therefore	RB CONJ
+,	
+conservation	NOMZ
+and	PHC CCONJ
+comprehension	NOMZ
+of	PIN PREP
+biodiversity	NOMZ
+is	BEMA VPRT AUXB
+essential	JJ PRED
+for	PIN PREP
+a	ART DET INDA
+responsible	JJ
+and	PHC CCONJ
+sustainable	JJ
+human	JJ
+development	NOMZ
+for	PIN PREP
+future	JJ
+and	PHC CCONJ
+present	JJ
+generations	NOMZ
+.	
+ 	
+Improving	CAP PGAS
+species	NN
+and	CCONJ
+natural	JJ
+resources	NN
+conservation	NOMZ
+and	CCONJ
+sustainable	JJ
+economic	JJ
+development	NOMZ
+,	
+is	BEMA VPRT AUXB
+already	RB
+a	ART DET INDA
+big	JJ
+task	NN
+by	PIN PREP
+itself	PIT PRP SBJP ACCU
+,	
+however	RB CONJ
+,	
+to	PIN TO PREP
+do	PROD INF
+so	RB
+,	
+we	FPP1 PRP SBJP
+must	NEMD SPAU
+properly	RB
+access	INF
+our	FPP1 PRP SBJP
+biodiversity	NOMZ
+in	PIN CONJ PREP
+collaborative	JJ
+ways	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+solve	INF
+this	DEMO DET
+knowledge	NN
+-	
+gap	NN
+problem	NN
+,	
+investments	NOMZ
+on	PIN PREP
+basic	JJ
+science	NN
+,	
+infrastructure	NN
+and	CCONJ
+human	JJ
+resources	NN
+formation	NOMZ
+must	NEMD
+be	PASS AUXB INF
+made	
+,	
+nevertheless	RB CONJ
+,	
+the	ART DET
+Brazilian	CAP NNP
+Science	CAP NNP
+budget	NN
+is	BEMA VPRT AUXB
+now	RB TIME
+at	PIN PREP
+its	PIT PRP SBJP
+lowest	JJ SPADJ
+on	PIN PREP
+a	ART DET INDA
+12	NUM
+-	
+year	NN
+history	NN
+record	NN
+,	
+in	PIN CONJ PREP
+2019	NUM
+,	
+the	ART DET
+Ministry	CAP NNP
+of	PIN PREP
+Science	CAP NNP
+,	
+Technology	CAP NNP
+,	
+Innovations	CAP NNP
+and	PHC CCONJ
+Communications	CAP NNP
+(	
+MCTIC	CAP NNP
+)	
+is	VPRT AUXB
+facing	PGAS
+a	ART DET INDA
+catastrophic	JJ
+42	NUM
+%	NN
+halt	NN
+in	PIN CONJ PREP
+budget	NN
+whilst	OSUB PIN SCONJ PREP
+public	JJ
+universities	NN
+are	BEMA VPRT AUXB
+also	RB
+under	PIN PREP
+threat	NN
+.	
+Undoubtedly	RB CAP
+,	
+Brazil	CAP NNP
+is	VPRT AUXB
+losing	PGAS
+biodiversity	NOMZ
+and	CCONJ
+economic	JJ
+potential	NN
+that	TSUB WHSUB WH
+will	PRMD SPAU
+possibly	RB
+never	RB
+be	PASS AUXB INF
+recovered	
+.	
+  	
+<	X
+REFERENCES	NN CAP
+>	X

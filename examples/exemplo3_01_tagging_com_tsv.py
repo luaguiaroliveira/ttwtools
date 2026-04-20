@@ -11,8 +11,8 @@ OUTPUT_DIR = 'out_exemplo3'
 
 # Lista de corpora (pastas com arquivos .txt) a processar.
 PASTAS = [
-    "examples/test_corpora/CorIFAessaysNE_100",
-    "examples/test_corpora/essays_bawe_somentetexto_100",
+    "test_corpora/CorIFAessaysNE_100",
+    "test_corpora/essays_bawe_somentetexto_100",
 ]
 
 # Se True, copia os arquivos originais de cada corpus para OUTPUT_DIR/originals/<corpus>

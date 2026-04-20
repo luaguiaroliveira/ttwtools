@@ -1,0 +1,541 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0994.0576.txt
+token	tags
+        	
+According	CAP PGAS
+to	PIN PREP
+the	ART DET
+Tufts	CAP NNP
+Center	CAP NNP
+for	PIN PREP
+the	ART DET
+Study	CAP NNP
+of	PIN PREP
+Drug	CAP NNP
+Development	CAP NNP
+it	PIT PRP SBJP
+takes	VPRT
+approximately	RB
+10	NUM
+to	PIN PREP
+15	NUM
+years	NN
+to	PIN TO PREP
+produce	INF
+a	ART DET INDA
+new	JJ
+drug	NN
+based	WZPAST
+on	PIN PREP
+data	NN
+collected	WZPAST
+from	PIN PREP
+1994	NUM
+to	PIN PREP
+1998	NUM
+.	
+Besides	PIN CAP SCONJ PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+Medicines	CAP NNP
+in	PIN CONJ PREP
+Development	CAP NNP
+for	PIN PREP
+Skin	CAP NNP
+Diseases	CAP NNP
+2011	NUM
+Report	PUBV CAP NNP
+,	
+PhRMS	CAP NNP
+(	
+Pharmaceutical	CAP NNP
+and	PHC CCONJ
+Manufactures	CAP NNP
+of	PIN PREP
+America	CAP NNP
+)	
+affirmed	VBD PUBV
+that	PIN THVC SCONJ PREP
+only	DWNT RB
+5	NUM
+of	PIN PREP
+5000	NUM
+compounds	NN
+that	TSUB WHSUB WH
+enter	VPRT
+the	ART DET
+preclinical	JJ
+evaluation	NOMZ
+can	POMD
+be	PASS AUXB INF
+tested	
+in	PIN CONJ PREP
+humans	NN
+.	
+Based	PASTP CAP
+on	PIN PREP
+this	DEMO DET
+context	NN
+this	DEMO DET
+essay	NN
+will	PRMD
+explain	PUBV INF
+the	ART DET
+main	JJ
+points	NN
+in	PIN CONJ PREP
+the	ART DET
+production	NOMZ
+of	PIN PREP
+a	ART DET INDA
+new	JJ
+medicine	NN
+,	
+highlighting	GER PRESP PGAS
+the	ART DET
+reasons	PRIV NN
+why	RB WHOBJ WHCL SCONJ WH
+it	PIT PRP SBJP
+takes	VPRT
+a	ART DET INDA
+long	JJ
+time	NN
+to	PIN TO PREP
+introduce	INF
+a	ART DET INDA
+new	JJ
+product	NN
+in	PIN CONJ PREP
+the	ART DET
+market	NN
+.	
+ 	
+Firstly	RB CAP
+,	
+all	QUAN DET
+kind	NN HDG
+of	PIN PREP
+medication	NOMZ
+that	TSUB WHSUB WH
+is	PASS VPRT AUXB
+released	
+to	PIN PREP
+the	ART DET
+common	JJ
+use	NN
+have	VPRT
+to	PIN TO PREP
+pass	INF
+through	PIN PREP
+a	ART DET INDA
+series	NN
+of	PIN PREP
+researches	NN
+and	PHC CCONJ
+tests	NN
+until	PIN PREP
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+approved	
+by	PIN PREP
+the	ART DET
+competent	JJ
+organ	NN
+of	PIN PREP
+the	ART DET
+country	NN
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+Anvisa	CAP NNP
+(	
+Agência	CAP NNP
+Nacional	CAP NNP
+de	PIN PREP
+Vigilância	CAP NNP
+Sanitária	CAP NNP
+)	
+is	BEMA VPRT AUXB
+the	ART DET
+competent	JJ
+organ	NN
+from	PIN PREP
+Brazil	CAP NNP
+.	
+The	ART CAP DET
+regulation	NOMZ
+process	NN
+of	PIN PREP
+one	NUM
+medication	NOMZ
+is	BEMA VPRT AUXB
+long	JJ PRED
+,	
+strict	JJ
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+really	RB EMPH
+expensive	JJ
+for	PIN PREP
+the	ART DET
+pharmaceutical	NN
+industry	NN
+.	
+Because	CAUS PIN CAP SCONJ PREP
+of	PIN PREP
+that	DEMO DET
+every	QUAN DET
+new	JJ
+compound	NN
+have	VPRT
+to	PIN TO PREP
+be	AUXB INF
+study	INF
+before	RB
+and	CCONJ
+after	PIN PREP
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+used	
+by	PIN PREP
+people	NN
+to	PIN TO PREP
+make	INF
+sure	JJ
+that	PIN THAC SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+n’t	RB
+injurious	JJ
+.	
+This	DEMO CAP DET
+kind	NN HDG
+of	PIN PREP
+research	NN
+is	PASS VPRT AUXB
+called	
+clinical	JJ
+trial	NN
+.	
+  	
+Before	PIN CAP PREP
+the	ART DET
+clinical	JJ
+trial	NN
+,	
+have	VPRT
+the	ART DET
+preclinical	JJ
+stage	NN
+which	WHSUB DET WH
+aims	VPRT
+to	PIN TO PREP
+verify	INF
+if	COND PIN SCONJ PREP
+the	ART DET
+compound	NN
+is	BEMA VPRT AUXB
+efficient	JJ PRED
+and	PHC CCONJ
+safe	JJ PRED
+for	PIN PREP
+consumption	NOMZ
+.	
+Usually	RB CAP
+,	
+this	DEMO DET
+part	NN
+of	PIN PREP
+the	ART DET
+process	NN
+is	PASS VPRT AUXB
+performed	
+first	RB
+in	PIN CONJ PREP
+vitro	X
+(	
+without	PIN PREP
+using	PGAS
+animals	NN
+)	
+and	ANDC CCONJ
+then	RB
+in	PIN CONJ PREP
+vivo	NN
+(	
+using	PGAS
+animals	NN
+)	
+.	
+This	DEMP CAP DET
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+stage	NN
+in	PIN CONJ PREP
+the	ART DET
+preclinical	JJ
+evaluation	NOMZ
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN TO PREP
+analyze	INF
+the	ART DET
+activity	NOMZ
+of	PIN PREP
+a	ART DET INDA
+drug	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+life	NN
+form	NN
+and	CCONJ
+select	INF
+the	ART DET
+components	NN
+that	TSUB WHSUB WH
+are	VPRT AUXB
+going	PGAS
+to	PIN TO PREP
+continue	INF
+in	PIN CONJ PREP
+this	DEMO DET
+process	NN
+to	PIN PREP
+the	ART DET
+clinical	JJ
+research	NN
+.	
+  	
+The	ART CAP DET
+clinical	JJ
+study	NN
+involves	VPRT
+3	NUM
+stages	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+systematic	JJ
+process	NN
+that	TSUB WHSUB WH
+follows	VPRT
+scientific	JJ
+methods	NN
+that	TSUB WHSUB WH
+can	POMD
+be	PASS AUXB INF
+applied	
+to	PIN PREP
+humans	NN
+that	TSUB WHSUB WH
+volunteer	VPRT
+to	PIN TO PREP
+participate	INF
+.	
+In	PIN CONJ CAP PREP
+Phase	CAP NNP
+I	FPP1 CAP PRP SBJP
+the	ART DET
+drug	NN
+is	PASS VPRT AUXB
+tested	
+for	PIN PREP
+the	ART DET
+first	JJ
+time	NN
+in	PIN CONJ PREP
+healthy	JJ
+humans	NN
+and	CCONJ
+the	ART DET
+main	JJ
+goal	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+determinate	INF
+the	ART DET
+best	JJ SPADJ
+form	NN
+to	PIN TO PREP
+administrate	INF
+the	ART DET
+compound	NN
+and	ANDC CCONJ
+what	DET WH
+undesirable	JJ
+effect	NN
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+can	POMD
+cause	INF
+.	
+Only	DWNT RB CAP
+this	DEMO DET
+stage	NN
+can	POMD
+last	INF
+3	NUM
+years	NN
+.	
+On	PIN CAP PREP
+Phase	CAP NNP
+II	CAP NNP
+the	ART DET
+medication	NOMZ
+is	PASS VPRT AUXB
+tested	
+in	PIN CONJ PREP
+patients	NN
+that	TSUB WHSUB WH
+have	VPRT
+the	ART DET
+disease	NN
+related	WZPAST
+to	PIN PREP
+the	ART DET
+study	NN
+.	
+The	ART CAP DET
+purpose	NN
+is	VPRT AUXB
+establish	PRIV INF
+a	ART DET INDA
+dose	NN
+,	
+obtain	INF
+more	JJ EMPH CMADJ
+information	NOMZ
+about	PIN PREP
+the	ART DET
+effects	NN
+that	TOBJ WHOBJ WH
+it	PIT PRP SBJP
+can	POMD
+cause	INF
+and	PHC CCONJ
+evaluate	INF
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+really	RB EMPH
+works	VPRT
+to	PIN TO PREP
+treat	INF
+the	ART DET
+disease	NN
+.	
+This	DEMO CAP DET
+stage	NN
+can	POMD SPAU
+also	RB
+last	INF
+3	NUM
+years	NN
+.	
+The	ART CAP DET
+last	JJ
+phase	NN
+,	
+Phase	CAP NNP
+III	CAP NNP
+,	
+evaluate	INF
+the	ART DET
+efficacy	NN
+again	RB TIME
+but	CCONJ
+this	DEMO DET
+time	NN
+comparing	WZPRES PGAS
+the	ART DET
+new	JJ
+drug	NN
+to	PIN PREP
+the	ART DET
+one	NN
+that	TSUB WHSUB WH
+is	BEMA VPRT AUXB
+already	RB
+in	PIN CONJ PREP
+the	ART DET
+market	NN
+and	CCONJ
+is	PASS VPRT AUXB
+used	
+to	PIN TO PREP
+treat	INF
+the	ART DET
+disease	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+can	POMD
+last	INF
+approximately	RB
+4	NUM
+years	NN
+.	
+  	
+All	QUAN CAP DET
+things	NN
+considered	PRIV
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+easier	JJ PRED CMADJ
+to	PIN TO PREP
+understand	PRIV INF
+why	RB WHCL SCONJ WH
+it	PIT PRP SBJP
+takes	VPRT
+a	ART DET INDA
+long	JJ
+time	NN
+to	PIN TO PREP
+introduce	INF
+a	ART DET INDA
+new	JJ
+product	NN
+in	PIN CONJ PREP
+the	ART DET
+market	NN
+.	
+Besides	PIN CAP SCONJ PREP
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+remember	PRIV INF
+that	PIN THVC SCONJ PREP
+this	DEMO DET
+product	NN
+is	PASS VPRT AUXB
+being	PASS AUXB
+created	
+to	PIN TO PREP
+treat	INF
+a	ART DET INDA
+disease	NN
+so	PIN SCONJ PREP
+scientist	NN
+have	VPRT
+to	PIN TO PREP
+make	INF
+sure	JJ
+is	BEMA VPRT AUXB
+safe	JJ PRED
+for	PIN PREP
+consumption	NOMZ
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+works	VPRT
+.	
+ 	

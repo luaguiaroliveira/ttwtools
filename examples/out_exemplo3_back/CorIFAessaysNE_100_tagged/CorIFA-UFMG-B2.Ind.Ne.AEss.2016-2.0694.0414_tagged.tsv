@@ -1,0 +1,1995 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0694.0414.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0694.0414	NUM
+>	X
+  	
+<	X
+Some	QUAN CAP DET
+remarks	VPRT PUBV
+on	PIN PREP
+the	ART DET
+meaning	PRIV NN
+of	PIN PREP
+the	ART DET
+world	NN
+>	X
+  	
+<	X
+“	
+_	NN
+But	CAP CCONJ
+excuse	NN
+-	
+me	FPP1 PRP SBJP ACCU
+,	
+what	WHQU WH
+do	VPRT
+you	SPP2 PRP SBJP
+think	PRIV INF
+about	PIN PREP
+this	DEMO DET
+world	NN
+?	QUES
+What	WHQU CAP WH
+thing	NN
+is	BEMA VPRT AUXB
+the	ART DET
+world	NN
+?	QUES
+”	
+>	X
+ 	
+<	X
+Canary	CAP NNP
+'s	
+Ideas	CAP NNP
+,	
+Machado	CAP NNP
+de	NNP
+Assis	CAP NNP
+>	
+   	
+World	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+very	AMP RB
+common	JJ
+word	NN
+.	
+Everybody	QUPR INPR CAP
+says	VPRT PUBV
+all	QUAN DET
+the	ART DET
+time	NN
+the	ART DET
+word	NN
+world	NN
+,	
+in	PIN CONJ PREP
+various	JJ
+contexts	NN
+and	CCONJ
+with	PIN PREP
+several	QUAN JJ
+different	JJ
+meanings	NN
+.	
+World	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+familiar	JJ
+word	NN
+and	CCONJ
+,	
+supposedly	RB
+,	
+a	ART DET INDA
+concept	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+have	VPRT
+acquaintance	NN
+with	PIN STPR PREP
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+employed	
+in	PIN CONJ PREP
+the	ART DET
+field	NN
+of	PIN PREP
+geopolitics	NN
+,	
+sports	NN
+,	
+cultures	NN
+and	PHC CCONJ
+others	NN
+,	
+either	CCONJ
+in	PIN CONJ PREP
+common	JJ
+and	PHC CCONJ
+academic	JJ
+language	NN
+.	
+But	CAP CCONJ
+when	RB SCONJ WH
+we	FPP1 PRP SBJP
+think	VPRT PRIV
+radically	RB
+about	PIN PREP
+an	ART DET INDA
+all	QUAN RB
+-	
+encompassing	GER PGAS
+concept	NN
+like	PIN PREP
+that	DEMP DET
+,	
+we	FPP1 PRP SBJP
+can	POMD
+realize	PRIV INF
+that	PIN THVC SCONJ PREP
+we	FPP1 PRP SBJP
+do	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+a	ART DET INDA
+precise	JJ
+notion	NOMZ
+or	CCONJ
+definition	NOMZ
+to	PIN TO PREP
+explain	PUBV INF
+this	DEMO DET
+experience	NN
+of	PIN PREP
+being	BEMA AUXB
+in	PIN CONJ PREP
+a	ART DET INDA
+world	NN
+,	
+or	CCONJ
+how	RB WHQU SCONJ WH
+it	PIT PRP SBJP
+can	POMD
+be	BEMA AUXB INF
+strange	JJ PRED
+or	CCONJ
+even	RB
+weird	JJ
+.	
+Notwithstanding	RB PIN CONJ STPR CAP PREP
+,	
+we	FPP1 PRP SBJP
+continue	VPRT
+to	PIN TO PREP
+refer	INF
+to	PIN PREP
+it	PIT PRP SBJP
+as	PIN CONJ PREP
+we	FPP1 PRP SBJP
+say	VPRT PUBV
+the	ART DET
+“	
+muslim	JJ
+world	NN
+”	
+,	
+“	
+latin	JJ
+world	NN
+”	
+,	
+“	
+third	JJ
+world	NN
+”	
+,	
+the	ART DET
+“	
+ancient	JJ
+world	NN
+”	
+,	
+the	ART DET
+“	
+globalized	JJ
+world	NN
+”	
+,	
+“	
+fictional	JJ
+worlds	NN
+”	
+,	
+“	
+virtual	JJ
+world	NN
+”	
+,	
+etc	X
+,	
+as	PIN CONJ PREP
+the	ART DET
+meaning	PRIV NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+expressions	NOMZ
+were	BEMA VBD AUXB
+clear	JJ PRED
+.	
+But	CAP CCONJ
+in	PIN CONJ PREP
+a	ART DET INDA
+close	JJ
+inspection	NOMZ
+,	
+we	FPP1 PRP SBJP
+are	BEMA VPRT AUXB
+to	PIN TO PREP
+face	INF
+value	NN
+at	PIN PREP
+the	ART DET
+mismatch	NN
+between	PIN PREP
+our	FPP1 PRP SBJP
+confidence	NN
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+beliefs	NN
+and	CCONJ
+the	ART DET
+vagueness	NOMZ
+of	PIN PREP
+our	FPP1 PRP SBJP
+definitions	NOMZ
+.	
+ 	
+Beyond	PIN CAP PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+all	QUAN DET
+meanings	NN
+can	POMD
+be	PASS AUXB INF
+integrated	
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+sense	PRIV NN
+of	PIN PREP
+world	NN
+,	
+we	FPP1 PRP SBJP
+proceed	VPRT
+like	PIN PREP
+the	ART DET
+bird	NN
+of	PIN PREP
+the	ART DET
+story	NN
+of	PIN PREP
+the	ART DET
+Brazilian	JJ CAP
+writer	NN
+Machado	CAP NNP
+de	NNP
+Assis	CAP NNP
+(	
+1839	NUM
+-	
+1908	NUM
+)	
+,	
+who	WH
+portraits	VPRT
+a	ART DET INDA
+canary	NN
+which	WHSUB DET WH
+is	BEMA VPRT AUXB
+capable	JJ PRED
+of	PIN PREP
+thinking	PRIV PGAS
+and	PHC CCONJ
+speaking	PGAS
+.	
+Founded	PASTP CAP
+in	PIN CONJ PREP
+a	ART DET INDA
+thrift	NN
+store	NN
+and	CCONJ
+questioned	
+by	PIN PREP
+an	ART DET INDA
+ornithologist	JJ
+amateur	NN
+named	
+Macedo	CAP NNP
+about	PIN STPR PREP
+“	
+what	WHQU DET WH
+thing	NN
+is	BEMA VPRT AUXB
+the	ART DET
+world	NN
+?	QUES
+”	
+,	
+the	ART DET
+canary	NN
+presumes	PRIV NN
+that	TOBJ THVC WHOBJ WHCL WH
+himself	TPP3 PRP SBJP ACCU
+is	BEMA VPRT AUXB
+the	ART DET
+owner	NN
+of	PIN PREP
+the	ART DET
+world	NN
+,	
+which	SERE DET WH
+he	TPP3 PRP SBJP
+defines	VPRT
+based	
+on	PIN PREP
+the	ART DET
+limits	NN
+of	PIN PREP
+his	TPP3 PRP SBJP
+experiences	NN
+:	
+first	RB
+he	TPP3 PRP SBJP
+says	VPRT PUBV
+that	PIN THVC SCONJ PREP
+the	ART DET
+world	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+square	JJ
+cage	NN
+on	PIN PREP
+a	ART DET INDA
+thrift	NN
+store	NN
+;	
+them	TPP3 PRP SBJP ACCU
+,	
+the	ART DET
+world	NN
+comes	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+another	DET
+cage	NN
+,	
+this	DEMO DET
+time	NN
+a	ART DET INDA
+circular	JJ
+and	PHC CCONJ
+broader	JJ CMADJ
+one	NUM
+,	
+located	PASTP
+on	PIN PREP
+the	ART DET
+balcony	NN
+of	PIN PREP
+a	ART DET INDA
+house	NN
+,	
+with	PIN PREP
+its	PIT PRP SBJP
+garden	NN
+,	
+its	PIT PRP SBJP
+trees	NN
+and	CCONJ
+its	PIT PRP SBJP
+view	NN
+to	PIN PREP
+part	NN
+of	PIN PREP
+the	ART DET
+blue	JJ
+sky	NN
+,	
+and	ANDC CCONJ
+,	
+as	PIN CONJ PREP
+the	ART DET
+canary	NN
+escaped	VBD
+to	PIN PREP
+Macedo	CAP NNP
+'s	
+house	NN
+,	
+to	PIN TO PREP
+be	AUXB INF
+refound	NN
+after	PIN PREP
+by	PIN PREP
+a	ART DET INDA
+desperate	JJ
+man	NN
+who	WHSUB WH
+lost	VBD
+his	TPP3 PRP SBJP
+fantastic	JJ
+friend	NN
+,	
+the	ART DET
+bird	NN
+does	VPRT SPAU
+not	XX0 RB
+recognize	PRIV INF
+anymore	RB
+his	TPP3 PRP SBJP
+previous	JJ
+definition	NOMZ
+of	PIN PREP
+the	ART DET
+world	NN
+,	
+which	SERE DET WH
+now	RB TIME
+seems	VPRT SMP
+to	PIN PREP
+him	TPP3 PRP SBJP ACCU
+a	ART DET INDA
+totally	AMP RB
+new	JJ
+thing	NN
+:	
+the	ART DET
+world	NN
+is	VPRT AUXB
+now	RB TIME
+“	
+the	ART DET
+infinite	JJ
+and	PHC CCONJ
+blue	JJ
+space	NN
+,	
+with	PIN PREP
+the	ART DET
+sun	NN
+above	PIN PLACE STPR PREP
+”	
+,	
+and	ANDC CCONJ
+the	ART DET
+thrift	NN
+store	NN
+is	PASS VPRT SPAU AUXB
+totally	AMP RB
+forgotten	PRIV
+.	
+  	
+The	ART CAP DET
+story	NN
+tells	VPRT
+us	FPP1 PRP SBJP ACCU
+(	
+with	PIN PREP
+a	ART DET INDA
+graceful	JJ
+irony	NN
+)	
+how	RB SCONJ WH
+our	FPP1 PRP SBJP
+thinking	PRIV NN
+is	PASS VPRT AUXB
+limited	
+to	PIN PREP
+our	FPP1 PRP SBJP
+experience	NN
+and	ANDC CCONJ
+how	RB SCONJ WH
+we	FPP1 PRP SBJP
+tend	VPRT
+to	PIN TO PREP
+universalize	INF
+from	PIN PREP
+our	FPP1 PRP SBJP
+point	NN
+of	PIN PREP
+view	NN
+to	PIN TO PREP
+judge	PRIV INF
+and	PHC CCONJ
+comprehend	INF
+all	QUAN DET
+things	NN
+.	
+Actually	RB CAP
+,	
+it	PIT PRP SBJP
+seems	VPRT SMP
+that	PIN THVC SCONJ PREP
+human	JJ
+beings	NN
+,	
+necessarily	RB
+located	
+on	PIN PREP
+time	NN
+and	PHC CCONJ
+space	NN
+,	
+and	ANDC CCONJ
+them	TPP3 PRP SBJP ACCU
+confined	VBD
+to	PIN PREP
+a	ART DET INDA
+certain	JJ
+portion	NOMZ
+of	PIN PREP
+reality	NOMZ
+,	
+nowadays	RB TIME
+presume	PRIV INF
+and	PHC CCONJ
+assume	VPRT PRIV
+a	ART DET INDA
+general	JJ
+condition	NOMZ
+,	
+developing	GER PRESP PGAS
+a	ART DET INDA
+sense	PRIV NN
+of	PIN PREP
+the	ART DET
+whole	NN
+and	PHC CCONJ
+integration	NOMZ
+.	
+This	DEMO CAP DET
+sense	PRIV NN
+of	PIN PREP
+unity	NOMZ
+and	PHC CCONJ
+integration	NOMZ
+seems	VPRT SMP
+to	PIN TO PREP
+underlie	INF
+many	QUAN JJ
+senses	PRIV NN
+of	PIN PREP
+the	ART DET
+polysemous	JJ
+noun	NN
+“	
+world	NN
+”	
+.	
+ 	
+But	CAP CCONJ
+the	ART DET
+story	NN
+tells	VPRT
+also	RB
+basic	JJ
+characteristics	NN
+often	RB
+associated	
+with	PIN PREP
+the	ART DET
+definition	NOMZ
+of	PIN PREP
+the	ART DET
+world	NN
+,	
+or	CCONJ
+with	PIN PREP
+possible	JJ
+definitions	NOMZ
+of	PIN PREP
+the	ART DET
+world	NN
+.	
+The	ART CAP DET
+tail	NN
+narrates	VPRT
+how	RB SCONJ WH
+the	ART DET
+human	JJ
+kind	NN
+elaborate	INF
+their	TPP3 PRP SBJP
+concepts	NN
+,	
+and	ANDC CCONJ
+dramatize	INF
+the	ART DET
+limits	NN
+of	PIN PREP
+human	JJ
+experience	NN
+,	
+the	ART DET
+confusion	NOMZ
+between	PIN PREP
+meanings	NN
+,	
+the	ART DET
+hesitation	NOMZ
+and	PHC CCONJ
+presumption	NOMZ
+of	PIN PREP
+human	JJ
+beings	NN
+;	
+these	DEMP DET
+are	VPRT AUXB
+boundaries	NN
+of	PIN PREP
+the	ART DET
+mankind	NN
+,	
+showed	PASTP PRIV
+by	PIN PREP
+an	ART DET INDA
+animal	NN
+,	
+which	SERE DET WH
+forces	VPRT
+us	FPP1 PRP SBJP ACCU
+to	PIN TO PREP
+see	PRIV INF
+the	ART DET
+limits	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+quest	NN
+for	PIN PREP
+meaning	PRIV NN
+.	
+This	DEMO CAP DET
+passionate	JJ
+quest	NN
+for	PIN PREP
+knowledge	NN
+of	PIN PREP
+all	QUAN DET
+things	NN
+is	PASS VPRT BYPA AUXB
+carried	
+on	PIN PREP
+by	PIN PREP
+a	ART DET INDA
+dilettante	NN
+,	
+which	SERE WHQU DET WH
+has	VPRT
+his	TPP3 PRP SBJP
+mental	JJ
+sanity	NOMZ
+frequently	RB
+questioned	
+during	PIN PREP
+the	ART DET
+story	NN
+,	
+and	ANDC CCONJ
+actually	RB
+becomes	VPRT
+sick	JJ
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+his	TPP3 PRP SBJP
+fragility	NOMZ
+and	CCONJ
+his	TPP3 PRP SBJP
+disquiet	NN
+work	NN
+.	
+Only	DWNT RB CAP
+Macedo	CAP NNP
+can	POMD
+talk	INF
+to	PIN PREP
+the	ART DET
+canary	NN
+,	
+and	ANDC CCONJ
+,	
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+conversation	NOMZ
+,	
+the	ART DET
+canary	NN
+,	
+having	PEAS PGAS
+heard	PRIV
+the	ART DET
+man	NN
+inquiring	WZPRES PGAS
+why	RB SCONJ WH
+so	RB EMPH
+beautiful	JJ
+and	PHC CCONJ
+extraordinary	JJ
+animal	NN
+was	PASS VBD AUXB
+dropped	
+in	PIN CONJ PREP
+a	ART DET INDA
+so	RB EMPH
+desolate	JJ
+and	PHC CCONJ
+obscure	JJ
+store	NN
+,	
+responds	VPRT
+that	PIN DEMO SCONJ PREP
+the	ART DET
+man	NN
+was	BEMA VBD AUXB
+not	XX0 RB
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+right	JJ
+mind	NN
+,	
+because	CAUS PIN SCONJ PREP
+he	TPP3 PRP SBJP
+,	
+the	ART DET
+bird	NN
+,	
+was	PASS VBD BYPA SPAU AUXB
+not	XX0 RB
+dropped	
+by	PIN PREP
+anyone	QUPR INPR
+,	
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+the	ART DET
+seller	NN
+was	BEMA VBD AUXB
+in	PIN CONJ PREP
+fact	NN
+his	TPP3 PRP SBJP
+servant	NN
+,	
+feeding	PRESP PGAS
+him	TPP3 PRP SBJP ACCU
+every	QUAN DET
+day	NN
+without	PIN PREP
+earn	INF
+a	ART DET INDA
+payment	NOMZ
+,	
+and	ANDC CCONJ
+,	
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+said	PUBV
+,	
+that	PIN THVC SCONJ PREP
+the	ART DET
+canary	NN
+feels	VPRT PRIV
+himself	TPP3 PRP SBJP ACCU
+the	ART DET
+owner	NN
+of	PIN PREP
+the	ART DET
+world	NN
+,	
+in	PIN CONJ PREP
+that	DEMO DET
+occasion	NOMZ
+conceived	WZPAST
+as	PIN CONJ PREP
+the	ART DET
+store	NN
+and	CCONJ
+the	ART DET
+square	JJ
+cage	NN
+.	
+Macedo	CAP NNP
+the	ART DET
+ornithologist	NN
+buys	VPRT
+the	ART DET
+canary	NN
+,	
+and	ANDC CCONJ
+develops	VPRT
+with	PIN PREP
+him	TPP3 PRP SBJP ACCU
+a	ART DET INDA
+obsessive	JJ
+relationship	NN
+,	
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+obtain	INF
+knowledge	NN
+and	CCONJ
+reveal	PRIV INF
+to	PIN PREP
+the	ART DET
+world	NN
+the	ART DET
+incredible	JJ
+experiences	NN
+and	PHC CCONJ
+knowledge	NN
+of	PIN PREP
+what	WH
+we	FPP1 PRP SBJP
+could	POMD
+name	INF
+the	ART DET
+“	
+world	NN
+”	
+of	PIN PREP
+canaries	NN
+.	
+Machado	CAP NNP
+de	NNP
+Assis	CAP NNP
+often	RB
+mocks	VPRT
+with	PIN PREP
+the	ART DET
+pretension	NOMZ
+of	PIN PREP
+knowledge	NN
+of	PIN PREP
+human	JJ
+beings	NN
+,	
+and	ANDC CCONJ
+stresses	VPRT
+its	PIT PRP SBJP
+boundaries	NN
+,	
+including	PRESP PGAS
+the	ART DET
+very	AMP JJ
+possibility	NOMZ
+of	PIN PREP
+knowing	PRIV PGAS
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+our	FPP1 PRP SBJP
+mental	JJ
+capacities	NN
+,	
+prejudices	NN
+,	
+imperfections	NOMZ
+,	
+social	JJ
+conditionings	GER
+and	CCONJ
+all	QUAN DET
+the	ART DET
+obstacles	NN
+which	WHSUB DET WH
+prevent	VPRT
+us	FPP1 PRP SBJP ACCU
+to	PIN TO PREP
+achieve	INF
+plentiful	JJ
+awareness	NOMZ
+of	PIN PREP
+our	FPP1 PRP SBJP
+situation	NOMZ
+and	PHC CCONJ
+actions	NOMZ
+.	
+Some	QUAN CAP DET
+authors	NN
+think	VPRT PRIV
+that	PIN THVC SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+real	JJ
+commitment	NOMZ
+of	PIN PREP
+Machado	CAP NNP
+'s	
+writings	NN
+to	PIN PREP
+the	ART DET
+skeptic	JJ
+epistemology	NN
+and	CCONJ
+moral	JJ
+(	
+MAIA	CAP NNP
+NETO	RB CAP
+,	
+1994	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+sense	PRIV NN
+,	
+the	ART DET
+notion	NOMZ
+or	CCONJ
+concept	NN
+of	PIN PREP
+the	ART DET
+world	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+privileged	JJ
+sample	NN
+of	PIN PREP
+how	RB SCONJ WH
+a	ART DET INDA
+definition	NOMZ
+immediately	RB TIME
+understood	PRIV
+by	PIN PREP
+all	QUAN DET
+can	POMD
+be	BEMA AUXB INF
+at	PIN PREP
+the	ART DET
+same	JJ
+time	NN
+one	NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+profound	JJ
+and	PHC CCONJ
+distant	JJ
+.	
+ 	
+World	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+concept	NN
+discussed	WZPAST
+throughout	PIN PREP
+the	ART DET
+centuries	NN
+,	
+by	PIN PREP
+literates	NN
+and	PHC CCONJ
+philosophers	NN
+of	PIN PREP
+diverse	JJ
+proveniences	NN
+,	
+and	ANDC CCONJ
+also	RB
+by	PIN PREP
+scientists	NN
+.	
+Despite	PIN CAP SCONJ PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+people	NN
+generally	RB
+do	VPRT SPAU
+not	XX0 RB
+pose	INF
+abstract	JJ
+and	PHC CCONJ
+deep	JJ
+questions	NOMZ
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+very	AMP JJ
+meaning	PRIV NN
+of	PIN PREP
+all	QUAN DET
+things	NN
+and	CCONJ
+do	VPRT PROD SPAU
+not	XX0 RB
+always	RB
+seek	INF
+to	PIN TO PREP
+establish	PRIV INF
+the	ART DET
+deep	JJ
+meaning	PRIV NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+beliefs	NN
+and	PHC CCONJ
+feelings	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+systematic	JJ
+and	PHC CCONJ
+thoughtful	JJ
+way	NN
+,	
+many	QUAN JJ
+thinkers	NN
+posed	VBD
+this	DEMO DET
+question	NOMZ
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS AUXB INF
+considered	PRIV
+,	
+in	PIN CONJ PREP
+the	ART DET
+realm	NN
+of	PIN PREP
+abstract	JJ
+thought	PRIV NN
+,	
+a	ART DET INDA
+perennial	JJ
+one	NN
+,	
+reposed	
+every	QUAN DET
+time	NN
+under	PIN PREP
+new	JJ
+perspectives	NN
+and	PHC CCONJ
+methods	NN
+.	
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+antiquity	NOMZ
+philosophers	NN
+wondered	VBD
+about	PIN PREP
+the	ART DET
+composition	NOMZ
+,	
+creation	NOMZ
+and	PHC CCONJ
+working	NN
+of	PIN PREP
+all	QUAN DET
+things	NN
+;	
+they	TPP3 PRP SBJP
+created	VBD
+a	ART DET INDA
+method	NN
+what	WHSUB WH
+will	PRMD
+be	PASS AUXB INF
+named	
+cosmology	NN
+and	CCONJ
+elaborated	VBD
+a	ART DET INDA
+mode	NN
+of	PIN PREP
+inquiring	PGAS
+which	DET WH
+involves	VPRT
+the	ART DET
+basic	JJ
+structures	NN
+of	PIN PREP
+reality	NOMZ
+and	CCONJ
+its	PIT PRP SBJP
+transformations	NOMZ
+.	
+The	ART CAP DET
+question	NOMZ
+has	VPRT
+its	PIT PRP SBJP
+origin	NN
+in	PIN CONJ PREP
+the	ART DET
+ancient	JJ
+greek	JJ
+world	NN
+,	
+in	PIN CONJ PREP
+the	ART DET
+works	NN
+of	PIN PREP
+philosophers	NN
+such	JJ
+as	PIN CONJ PREP
+Anaximander	CAP NNP
+,	
+Thales	CAP NNP
+,	
+Heraclitus	CAP NNP
+,	
+Parmenides	CAP NNP
+,	
+Plato	CAP NNP
+and	CCONJ
+many	QUAN JJ
+others	NN
+,	
+who	WH
+proposed	VBD SUAV
+some	QUAN DET
+models	NN
+of	PIN PREP
+studying	PGAS
+and	PHC CCONJ
+comprehending	GER PGAS
+the	ART DET
+kósmos	JJ
+,	
+or	CCONJ
+tò	NN
+pân	NN
+(	
+the	ART DET
+ancient	JJ
+greek	JJ
+words	NN
+for	PIN STPR PREP
+“	
+world	NN
+”	
+and	ANDC CCONJ
+“	
+whole	JJ
+”	
+)	
+(	
+DIELS	CAP NNP
+&	CCONJ
+KRANZ	CAP NNP
+,	
+1952	NUM
+)	
+.	
+ 	
+To	PIN TO CAP PREP
+make	INF
+a	ART DET INDA
+little	JJ
+digression	NOMZ
+,	
+in	PIN CONJ PREP
+the	ART DET
+case	NN
+of	PIN PREP
+Plato	CAP NNP
+(	
+427	NUM
+-	
+347	NUM
+B.C.	CAP NNP
+)	
+,	
+indeed	RB
+,	
+he	TPP3 PRP SBJP
+was	PASS VBD AUXB
+imputed	
+to	PIN TO PREP
+have	INF
+being	PASS AUXB
+created	
+an	ART DET INDA
+allegedly	RB
+dichotomy	NN
+between	PIN PREP
+what	WH
+we	FPP1 PRP SBJP
+perceive	VPRT PRIV
+with	PIN PREP
+the	ART DET
+senses	PRIV NN
+and	ANDC CCONJ
+what	WH
+we	FPP1 PRP SBJP
+think	VPRT PRIV
+independently	RB
+of	PIN PREP
+our	FPP1 PRP SBJP
+sensory	JJ
+system	NN
+,	
+as	PIN CONJ PREP
+if	COND PIN SCONJ PREP
+were	VBD AUXB
+two	NUM
+-	
+worlds	NN
+and	CCONJ
+not	XX0 RB
+only	DWNT RB
+this	DEMO DET
+one	NN
+which	WHSUB DET WH
+are	PASS VPRT BYPA AUXB
+perceived	PRIV
+by	PIN PREP
+us	FPP1 PRP SBJP ACCU
+,	
+in	PIN CONJ PREP
+which	PIRE DET WH
+we	FPP1 PRP SBJP
+live	VPRT
+and	CCONJ
+inhabit	NN
+,	
+which	SERE WHQU DET WH
+would	PRMD
+be	BEMA AUXB INF
+no	SYNE DET
+more	JJ EMPH CMADJ
+than	PIN PREP
+a	ART DET INDA
+delusion	NOMZ
+and	CCONJ
+a	ART DET INDA
+shadowy	JJ
+copy	NN
+of	PIN PREP
+an	ART DET INDA
+intelligible	JJ
+model	NN
+,	
+supposedly	RB
+the	ART DET
+only	JJ DWNT
+true	JJ
+world	NN
+.	
+This	DEMP CAP DET
+supposed	PRIV
+dichotomy	NN
+between	PIN PREP
+a	ART DET INDA
+“	
+world	NN
+of	PIN PREP
+appearances	NN
+”	
+and	ANDC CCONJ
+a	ART DET INDA
+“	
+world	NN
+of	PIN PREP
+ideas	NN
+”	
+was	PASS VBD SPAU AUXB
+widely	RB
+discussed	
+in	PIN CONJ PREP
+the	ART DET
+past	JJ
+century	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+profound	JJ
+hallmark	NN
+of	PIN PREP
+the	ART DET
+Western	JJ CAP
+world	NN
+,	
+and	ANDC CCONJ
+denounced	VBD
+as	PIN CONJ PREP
+a	ART DET INDA
+evasive	JJ
+and	PHC CCONJ
+pernicious	JJ
+attitude	NN
+by	PIN PREP
+thinkers	NN
+like	PIN PREP
+Martin	CAP NNP
+Heidegger	CAP NNP
+(	
+1962	NUM
+)	
+and	ANDC CCONJ
+Hannah	CAP NNP
+Arendt	CAP NNP
+(	
+1978	NUM
+)	
+,	
+among	PIN PREP
+others	NN
+,	
+in	PIN CONJ PREP
+the	ART DET
+line	NN
+of	PIN PREP
+Nietzsche	CAP NNP
+'s	
+critique	NN
+of	PIN PREP
+Platonism	CAP NNP
+,	
+rationality	NOMZ
+and	CCONJ
+God	CAP NNP
+,	
+that	DEMP WH
+grounds	VPRT
+the	ART DET
+morality	NOMZ
+and	CCONJ
+the	ART DET
+way	NN
+of	PIN PREP
+living	NN
+of	PIN PREP
+the	ART DET
+Judaic	CAP NNP
+-	
+christian	JJ
+tradition	NOMZ
+(	
+NIETZSCHE	CAP NNP
+,	
+1986	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+while	OSUB PIN SCONJ PREP
+some	QUAN DET
+denounced	VBD
+the	ART DET
+two	NUM
+worlds	NN
+theory	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+deep	JJ
+error	NN
+of	PIN PREP
+category	NN
+and	CCONJ
+a	ART DET INDA
+vital	JJ
+mistake	NN
+,	
+others	NN
+have	VPRT PEAS
+saw	PRIV
+this	DEMO DET
+dichotomy	NN
+between	PIN PREP
+two	NUM
+worlds	NN
+in	PIN CONJ PREP
+less	RB CMADJ
+bitter	JJ
+terms	NN
+,	
+or	CCONJ
+even	RB
+favorable	JJ
+,	
+such	JJ
+as	PIN CONJ PREP
+Immanuel	CAP NNP
+Kant	CAP NNP
+(	
+2002	NUM
+)	
+,	
+some	QUAN DET
+early	JJ TIME
+Christian	JJ CAP
+writers	NN
+,	
+and	ANDC CCONJ
+yet	RB
+contemporary	JJ
+personalities	NN
+such	JJ
+as	PIN CONJ PREP
+Julian	CAP NNP
+Assange	CAP NNP
+(	
+2012	NUM
+:	
+p.	NN
+3	NUM
+-	
+6	NUM
+)	
+,	
+who	WH
+associated	VBD
+the	ART DET
+purely	RB
+incorporeal	JJ
+platonic	JJ
+realm	NN
+of	PIN PREP
+ideas	NN
+with	PIN PREP
+a	ART DET INDA
+certain	JJ
+vision	NOMZ
+of	PIN PREP
+the	ART DET
+virtual	JJ
+world	NN
+,	
+the	ART DET
+“	
+world	NN
+of	PIN PREP
+the	ART DET
+internet	NN
+”	
+,	
+which	SERE WHQU DET WH
+would	PRMD
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+principle	JJ
+immune	NN
+to	PIN PREP
+control	NN
+and	PHC CCONJ
+surveillance	NN
+,	
+but	CCONJ
+has	VPRT PEAS
+been	PASS BYPA AUXB
+dominated	
+by	PIN PREP
+big	JJ
+corporations	NOMZ
+,	
+governments	NOMZ
+and	PHC CCONJ
+spy	NN
+agencies	NN
+that	TSUB WHSUB WH
+seek	VPRT
+to	PIN TO PREP
+control	INF
+this	DEMO DET
+virtual	JJ
+word	NN
+.	
+Finally	RB CAP
+,	
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+relatively	RB
+new	JJ
+trend	NN
+of	PIN PREP
+research	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+authors	NN
+do	VPRT SPAU
+not	XX0 RB
+see	PRIV INF
+in	PIN CONJ PREP
+the	ART DET
+work	NN
+of	PIN PREP
+Plato	CAP NNP
+any	QUAN DET
+distinction	NOMZ
+between	PIN PREP
+two	NUM
+worlds	NN
+,	
+a	ART DET INDA
+much	QUAN RB
+more	RB EMPH CMADJ
+interestingly	RB
+view	NN
+that	TSUB WHSUB WH
+must	NEMD
+be	PASS AUXB INF
+carried	
+on	PIN PREP
+forward	RB
+(	
+FINE	CAP UH
+,	
+1978	NUM
+;	
+MARQUES	NN CAP
+,	
+2011	NUM
+)	
+.	
+ 	
+In	PIN CONJ CAP PREP
+any	QUAN DET
+case	NN
+,	
+what	WH
+seems	VPRT SMP
+to	PIN TO PREP
+prevail	INF
+is	BEMA VPRT AUXB
+the	ART DET
+question	NOMZ
+about	PIN PREP
+the	ART DET
+meaning	PRIV NN
+(	
+or	CCONJ
+meanings	NN
+)	
+of	PIN PREP
+the	ART DET
+world	NN
+.	
+Such	EMPH CAP DET
+a	ART DET INDA
+question	NOMZ
+might	POMD
+seem	SMP INF
+at	PIN PREP
+first	JJ
+glance	NN
+meaningless	JJ
+and	PHC CCONJ
+useless	JJ
+,	
+and	ANDC CCONJ
+,	
+if	COND PIN SCONJ PREP
+carried	
+out	PIN STPR PREP
+,	
+it	PIT PRP SBJP
+could	POMD
+look	INF
+something	QUPR INPR HDG
+like	PIN PREP
+an	ART DET INDA
+insane	JJ
+undertaking	GER
+,	
+as	PIN CONJ PREP
+the	ART DET
+canary	NN
+and	CCONJ
+Macedo	CAP NNP
+'s	
+friends	NN
+suggest	VPRT PUBV SUAV
+in	PIN CONJ PREP
+Machado	CAP NNP
+'s	
+story	NN
+.	
+But	CAP CCONJ
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+the	ART DET
+message	NN
+of	PIN PREP
+the	ART DET
+story	NN
+also	RB
+teaches	VPRT
+us	FPP1 PRP SBJP ACCU
+that	PIN DEMO SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+danger	NN
+in	PIN CONJ PREP
+being	PASS AUXB
+trapped	
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+beliefs	NN
+and	PHC CCONJ
+thoughts	NN
+,	
+and	ANDC CCONJ
+judge	PRIV INF
+that	PIN THVC SCONJ PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+all	QUAN DET
+there	EX
+is	VPRT AUXB
+.	
+The	ART CAP DET
+reality	NOMZ
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+complex	JJ
+,	
+and	ANDC CCONJ
+always	RB
+seems	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+"	QUOT
+whole	JJ
+"	QUOT
+inside	PIN PLACE PREP
+a	ART DET INDA
+"	QUOT
+whole	JJ
+"	QUOT
+.	
+The	ART CAP DET
+boundaries	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+experience	NN
+and	PHC CCONJ
+language	NN
+can	POMD SPAU
+always	RB
+be	PASS AUXB INF
+expanded	
+,	
+and	ANDC CCONJ
+consequently	RB CONJ
+,	
+the	ART DET
+boundaries	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+conception(s	NN
+)	
+of	PIN PREP
+the	ART DET
+world(s	NNP
+)	
+.	
+  	
+<	X
+Bibliography	CAP NNP
+:>	NNP
+ 	
+<	X
+ASSANGE	CAP NNP
+,	
+J.	CAP NNP
+(	
+2012	NUM
+)	
+,	
+Cypherpunks	VPRT CAP
+:	
+freedom	NN
+and	CCONJ
+the	ART DET
+future	NN
+of	PIN PREP
+humanity	NOMZ
+.	
+New	CAP NNP
+York	CAP NNP
+,	
+OR	CAP CCONJ
+Books	CAP NNP
+.	
+>	X
+ 	
+<	X
+ASSIS	CAP NNP
+,	
+M.	CAP NNP
+(	
+1959	NUM
+)	
+.	
+Machado	CAP NNP
+de	NNP
+Assis	CAP NNP
+,	
+obras	NN
+completas	NN
+v.	PIN PREP
+2	NUM
+.	
+Rio	CAP NNP
+de	NNP
+Janeiro	CAP NNP
+:	
+José	CAP NNP
+Aguilar	CAP NNP
+.	
+>	
+ 	
+<	X
+ARENDT	CAP NNP
+,	
+H.	CAP NNP
+(	
+1978	NUM
+)	
+,	
+The	ART CAP DET
+life	NN
+of	PIN PREP
+the	ART DET
+mind	NN
+.	
+London	CAP NNP
+:	
+Secker	CAP NNP
+&	CCONJ
+Warburg	CAP NNP
+.	
+>	X
+ 	
+<	X
+MAIA	CAP NNP
+NETO	CAP NNP
+,	
+J.	CAP NNP
+R.	CAP NNP
+(	
+1994	NUM
+)	
+,	
+Machado	CAP NNP
+de	NNP
+Assis	CAP NNP
+,	
+the	ART DET
+Brazilian	JJ CAP
+Pyrrhonian	CAP NNP
+.	
+Purdue	CAP NNP
+:	
+Purdue	CAP NNP
+University	CAP NNP
+Press	CAP NNP
+.	
+>	X
+ 	
+<	X
+NIETZSCHE	CAP NNP
+,	
+F.	CAP NNP
+(	
+1986	NUM
+)	
+,	
+Twilight	CAP NNP
+of	PIN PREP
+the	ART DET
+Idols	CAP NNP
+.	
+Translated	PASTP CAP
+by	PIN PREP
+R.	CAP NNP
+J.	CAP NNP
+Hollingdale	CAP NNP
+.	
+Harmondsworth	NN CAP
+:	
+Penguin	CAP NNP
+Books	CAP NNP
+.	
+>	
+ 	
+<	X
+KANT	CAP NNP
+,	
+I.	NN CAP
+(	
+2002	NUM
+)	
+,	
+The	ART CAP DET
+critique	NN
+of	PIN PREP
+practical	JJ
+reason	PRIV NN
+.	
+Translated	PASTP CAP
+by	PIN PREP
+W.	CAP NNP
+S.	CAP NNP
+Pluhar	CAP NNP
+.	
+INDIANAPOLIS	CAP NNP
+/	
+CAMBRIDGE	CAP NNP
+:	
+Hackett	CAP NNP
+Publishing	CAP NNP
+Company	CAP NNP
+.	
+>	
+ 	
+<	X
+HEIDEGGER	CAP NNP
+,	
+M.	CAP NNP
+(	
+1962	NUM
+)	
+,	
+Being	AUXB CAP
+and	CCONJ
+Time	NN CAP
+.	
+Translated	PASTP CAP
+by	PIN PREP
+Macquarrie	CAP NNP
+and	PHC CCONJ
+Robinson	CAP NNP
+.	
+New	CAP NNP
+York	CAP NNP
+:	
+Harper	CAP NNP
+&	CCONJ
+Row	CAP NNP
+.	
+>	X
+ 	
+<	X
+PLATO	CAP NNP
+(	
+1997	NUM
+)	
+,	
+The	ART CAP DET
+complete	JJ
+works	NN
+of	PIN PREP
+Plato	CAP NNP
+,	
+in	PIN CONJ PREP
+Cooper	CAP NNP
+,	
+J.	CAP NNP
+M.	CAP NNP
+(	
+Ed	CAP NNP
+.	
+)	
+.	
+Indianapolis	CAP NNP
+:	
+Hackett	CAP NNP
+.	
+>	
+ 	
+<	X
+MARQUES	RB CAP
+,	
+M.	CAP NNP
+(	
+2011	NUM
+)	
+,	
+Contra	CAP NNP
+a	ART DET INDA
+teoria	X
+de	X
+dois	NNP
+mundos	NN
+na	TO
+filosofia	NN
+de	X
+Platão	CAP NNP
+.	
+República	CAP NNP
+V	CAP NNP
+476E-478E	NN
+in	PIN CONJ PREP
+Conte	CAP NNP
+,	
+J.	CAP NNP
+;	
+Bauchwitz	CAP NNP
+,	
+O.	CAP NNP
+(	
+Org	CAP NNP
+.	
+)	
+,	
+O	CAP UH
+que	NN
+é	NNP
+metafísica	NNP
+?	QUES
+Atas	CAP NNP
+do	VPRT PROD
+III	CAP NNP
+Colóquio	CAP NNP
+Internacional	CAP NNP
+de	NNP
+Metafísica	CAP NNP
+.	
+Natal	NN CAP
+:	
+EDUFRN	CAP NNP
+,	
+pp	NNP
+.	
+245	NUM
+-	
+260	NUM
+.	
+>	X
+ 	
+<	X
+FINE	CAP UH
+,	
+G.	CAP NNP
+(	
+1978	NUM
+)	
+,	
+Knowledge	CAP NNP
+and	CCONJ
+belief	NN
+in	PIN CONJ PREP
+Republic	CAP NNP
+V	CAP NNP
+,	
+Archiv	CAP NNP
+für	NN
+Geschichte	CAP NNP
+der	NNP
+Philosophie	CAP NNP
+,	
+60	NUM
+:	
+pp	NUM
+.	
+121	NUM
+-	
+39	NUM
+.	
+>	X
+ 	

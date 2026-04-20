@@ -1,0 +1,866 @@
+# filename: SS_Economics_Essay_1_0206f_tx.txt
+token	tags
+A	ART CAP DET INDA
+change	NN
+in	PIN CONJ PREP
+oil	NN
+price	NN
+is	VPRT AUXB
+what	WH
+economists	NN
+would	PRMD SPAU
+usually	RB
+refer	INF
+to	PIN PREP
+as	PIN CONJ PREP
+a	ART DET INDA
+supply	NN
+shock	NN
+,	
+that	DEMP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+shift	NN
+in	PIN CONJ PREP
+the	ART DET
+aggregate	JJ
+supply	NN
+(	
+AS	CONJ CAP NNP
+)	
+,	
+hence	RB CONJ
+leading	PGAS
+to	PIN PREP
+a	ART DET INDA
+change	NN
+in	PIN CONJ PREP
+employment	NOMZ
+level	NN
+.	
+Before	PIN CAP PREP
+that	DEMP DET
+,	
+the	ART DET
+price	NN
+setting	WZPRES PGAS
+relation	NOMZ
+of	PIN PREP
+wages	NN
+and	CCONJ
+other	JJ
+factors	NN
+of	PIN PREP
+production	NOMZ
+need	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+studied	
+carefully	RB
+.	
+The	ART CAP DET
+general	JJ
+price	NN
+level	NN
+of	PIN PREP
+goods	NN
+and	PHC CCONJ
+services	NN
+in	PIN CONJ PREP
+the	ART DET
+economy	NN
+is	PASS VPRT AUXB
+determined	PRIV SUAV
+as	PIN CONJ PREP
+a	ART DET INDA
+function	NOMZ
+of	PIN PREP
+the	ART DET
+sum	NN
+of	PIN PREP
+factor	NN
+payments	NOMZ
+,	
+such	JJ
+as	PIN CONJ PREP
+wages	NN
+,	
+rent	NN
+etc	X
+.	
+Since	OSUB PIN CAP SCONJ PREP
+this	DEMO DET
+essay	NN
+is	BEMA VPRT AUXB
+concerned	JJ PRED
+about	PIN PREP
+the	ART DET
+effects	NN
+on	PIN PREP
+employment	NOMZ
+due	PIN PREP
+to	PIN PREP
+a	ART DET INDA
+rise	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+,	
+it	PIT PRP SBJP
+shall	PRMD
+be	PASS AUXB INF
+assumed	PRIV
+that	PIN THVC SCONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+economy	NN
+only	DWNT RB
+labour	NN
+and	PHC CCONJ
+oil	NN
+are	BEMA VPRT AUXB
+the	ART DET
+factors	NN
+of	PIN PREP
+production	NOMZ
+.	
+Factor	NN CAP
+payments	NOMZ
+for	PIN PREP
+labour	NN
+are	PASS VPRT AUXB
+called	
+wages	NN
+and	PHC CCONJ
+oil	NN
+,	
+rent	NN
+(	
+since	OSUB PIN SCONJ PREP
+oil	NN
+is	BEMA VPRT AUXB
+basically	RB
+a	ART DET INDA
+product	NN
+of	PIN PREP
+land	NN
+)	
+.	
+It	PIT CAP PRP SBJP
+shall	PRMD SPAU
+also	RB
+be	PASS AUXB INF
+assumed	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+economy	NN
+is	VPRT AUXB
+not	XX0 RB
+perfectly	AMP RB
+competitive	JJ
+;	
+hence	RB CONJ
+there	EX
+will	PRMD
+be	BEMA AUXB INF
+a	ART DET INDA
+chance	NN
+to	PIN TO PREP
+make	INF
+supernormal	JJ
+profits	NN
+.	
+Hence	RB CONJ CAP
+the	ART DET
+general	JJ
+price	NN
+level	NN
+is	PASS VPRT AUXB
+defined	
+as	PIN CONJ PREP
+Where	RB CAP SCONJ WH
+a	ART DET INDA
+unit	NN
+of	PIN PREP
+labour	NN
+is	PASS VPRT AUXB
+paid	
+W	CAP NNP
+and	CCONJ
+a	ART DET INDA
+unit	NN
+of	PIN PREP
+oil	NN
+paid	VBD
+R.	CAP NNP
+a	ART DET INDA
+and	CCONJ
+b	X
+are	BEMA VPRT AUXB
+how	RB SCONJ WH
+many	QUAN JJ
+units	NN
+of	PIN PREP
+labour	NN
+and	PHC CCONJ
+oil	NN
+used	WZPAST
+to	PIN TO PREP
+produce	INF
+a	ART DET INDA
+unit	NN
+of	PIN PREP
+output	NN
+and	CCONJ
+M	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+profit	NN
+obtained	WZPAST
+per	PIN PREP
+unit	NN
+of	PIN PREP
+output	NN
+,	
+otherwise	RB CONJ
+known	PRIV
+as	PIN CONJ PREP
+the	ART DET
+markup	NN
+.	
+Rearranging	GER PRESP CAP PGAS
+the	ART DET
+variable	NN
+in	PIN CONJ PREP
+the	ART DET
+equation	NOMZ
+to	PIN TO PREP
+form	INF
+what	WH
+is	PASS VPRT AUXB
+known	PRIV
+as	PIN CONJ PREP
+the	ART DET
+price	NN
+setting	WZPRES PGAS
+relation	NOMZ
+,	
+the	ART DET
+real	JJ
+wage	NN
+is	BEMA VPRT AUXB
+The	ART CAP DET
+equilibrium	NN
+real	JJ
+wage	NN
+and	PHC CCONJ
+unemployment	NOMZ
+rate	NN
+are	BEMA VPRT AUXB
+determined	JJ PRIV SUAV PRED
+when	RB WHCL SCONJ WH
+the	ART DET
+price	NN
+setting	NN
+and	PHC CCONJ
+wage	NN
+setting	WZPRES PGAS
+curves	NN
+are	PASS VPRT AUXB
+put	
+together	RB
+.	
+The	ART CAP DET
+wage	NN
+setting	NN
+curve	NN
+slopes	NN
+downwards	RB
+since	OSUB PIN SCONJ PREP
+a	ART DET INDA
+reduction	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+real	JJ
+wages	NN
+will	PRMD
+lead	INF
+to	PIN PREP
+more	JJ EMPH CMADJ
+people	NN
+being	BEMA WZPRES AUXB
+willing	JJ PRED
+to	PIN TO PREP
+forgo	INF
+working	PGAS
+(	
+in	PIN CONJ PREP
+return	NN
+for	PIN PREP
+consumption	NOMZ
+)	
+,	
+since	OSUB PIN SCONJ PREP
+the	ART DET
+incentive	NN
+for	PIN PREP
+people	NN
+to	PIN TO PREP
+work	INF
+,	
+due	PIN PREP
+to	PIN PREP
+the	ART DET
+substitution	NOMZ
+effect	NN
+.	
+Looking	CAP PGAS
+at	PIN PREP
+the	ART DET
+real	JJ
+wage	NN
+equation	NOMZ
+(	
+price	NN
+setting	WZPRES PGAS
+relation	NOMZ
+)	
+,	
+an	ART DET INDA
+increase	NN
+in	PIN CONJ PREP
+the	ART DET
+price	NN
+of	PIN PREP
+oil	NN
+will	PRMD
+cause	INF
+real	JJ
+wages	NN
+to	PIN TO PREP
+fall	INF
+,	
+and	ANDC CCONJ
+this	DEMP DET
+will	PRMD
+be	PASS BYPA AUXB INF
+demonstrated	PRIV
+by	PIN PREP
+a	ART DET INDA
+downward	JJ
+shift	NN
+of	PIN PREP
+the	ART DET
+price	NN
+setting	NN
+curve	NN
+.	
+At	PIN CAP PREP
+the	ART DET
+new	JJ
+equilibrium	NN
+,	
+real	JJ
+wages	NN
+are	BEMA VPRT AUXB
+lower	JJ PRED CMADJ
+and	CCONJ
+the	ART DET
+unemployment	NOMZ
+rate	NN
+is	BEMA VPRT AUXB
+higher	JJ PRED CMADJ
+(	
+Unemployment	NOMZ CAP
+has	VPRT PEAS
+increased	
+to	PIN PREP
+U2	NN CAP
+)	
+.	
+The	ART CAP DET
+increase	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+can	POMD
+be	PASS AUXB INF
+demonstrated	PRIV
+in	PIN CONJ PREP
+the	ART DET
+aggregate	JJ
+supply	NN
+and	PHC CCONJ
+demand	SUAV NN
+model	NN
+also	RB
+to	PIN TO PREP
+show	PRIV INF
+the	ART DET
+effects	NN
+on	PIN PREP
+unemployment	NOMZ
+.	
+An	ART CAP DET INDA
+increase	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+will	PRMD
+cause	INF
+the	ART DET
+AS	CONJ CAP NNP
+curve	NN
+to	PIN TO PREP
+shift	INF
+to	PIN PREP
+the	ART DET
+left	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+to	PIN TO PREP
+produce	INF
+a	ART DET INDA
+particular	JJ CONJ
+amount	NN
+of	PIN PREP
+output	NN
+now	RB TIME
+,	
+it	PIT PRP SBJP
+costs	VPRT
+more	JJ EMPH CMADJ
+than	PIN PREP
+before	PIN PREP
+to	PIN TO PREP
+do	PROD INF
+so	RB
+.	
+As	PIN CONJ CAP PREP
+observed	PRIV
+from	PIN PREP
+the	ART DET
+diagram	NN
+,	
+the	ART DET
+general	JJ
+price	NN
+level	NN
+has	VPRT PEAS
+increased	
+and	CCONJ
+output	NN
+has	VPRT PEAS
+gone	
+down	RB
+.	
+This	DEMO CAP DET
+reduction	NOMZ
+in	PIN CONJ PREP
+output	NN
+would	PRMD
+cause	INF
+fewer	JJ CMADJ
+resources	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+employed	
+-	
+workers	NN
+laid	VBD
+off	PIN PREP
+or	CCONJ
+less	JJ CMADJ
+oil	NN
+used	
+or	CCONJ
+both	DET
+,	
+depending	PGAS
+on	PIN PREP
+the	ART DET
+marginal	JJ
+rate	NN
+of	PIN PREP
+technical	JJ
+substitution	NOMZ
+of	PIN PREP
+both	DET
+resources	NN
+.	
+But	CAP CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+quite	RB
+obvious	JJ
+that	PIN THAC SCONJ PREP
+an	ART DET INDA
+increase	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+would	PRMD
+lead	INF
+to	PIN PREP
+a	ART DET INDA
+reduction	NOMZ
+of	PIN PREP
+both	DET
+resources	NN
+since	OSUB PIN SCONJ PREP
+labour	NN
+and	PHC CCONJ
+oil	NN
+(	
+land	NN
+)	
+are	VPRT AUXB
+complements	NOMZ
+to	PIN PREP
+each	QUAN DET
+other	JJ
+.	
+Hence	RB CONJ CAP
+unemployment	NOMZ
+would	PRMD
+follow	INF
+.	
+An	ART CAP DET INDA
+increase	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+may	POMD SPAU
+also	RB
+affect	INF
+the	ART DET
+aggregate	JJ
+demand	SUAV NN
+curve	NN
+and	CCONJ
+not	XX0 RB
+just	RB EMPH
+aggregate	JJ
+supply	NN
+.	
+Oil	NN CAP
+price	NN
+increases	NN
+lead	VPRT
+to	PIN PREP
+the	ART DET
+AD	NN CAP
+curve	NN
+to	PIN TO PREP
+shift	INF
+downwards	NN
+.	
+Rising	CAP PGAS
+oil	NN
+prices	NN
+may	POMD
+cause	INF
+firms	NN
+to	PIN TO PREP
+change	INF
+investment	NOMZ
+decisions	NOMZ
+such	JJ
+as	PIN CONJ PREP
+by	PIN PREP
+postponing	GER PGAS
+or	CCONJ
+canceling	PGAS
+investment	NOMZ
+.	
+Less	JJ CAP CMADJ
+oil	NN
+changing	WZPRES PGAS
+hands	NN
+may	POMD
+mean	PRIV INF
+that	PIN THVC SCONJ PREP
+governments	NOMZ
+collect	VPRT
+less	JJ CMADJ
+oil	NN
+royalties	NN
+or	CCONJ
+oil	NN
+taxes	NN
+and	ANDC CCONJ
+hence	RB CONJ
+affect	INF
+its	PIT PRP SBJP
+ability	NOMZ
+to	PIN TO PREP
+sustain	INF
+public	JJ
+expenditure	NN
+at	PIN PREP
+previous	JJ
+levels	NN
+.	
+However	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+may	POMD SPAU
+also	RB
+work	INF
+the	ART DET
+other	JJ
+way	NN
+round	RB
+.	
+Consider	PRIV CAP INF
+an	ART DET INDA
+oil	NN
+producing	WZPRES PGAS
+economy	NN
+.	
+An	ART CAP DET INDA
+increase	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+may	POMD
+allow	SUAV INF
+this	DEMO DET
+oil	NN
+economy	NN
+to	PIN TO PREP
+enjoy	INF
+higher	JJ CMADJ
+profits	NN
+,	
+depending	PGAS
+on	PIN PREP
+the	ART DET
+price	NN
+elasticity	NOMZ
+of	PIN PREP
+demand	SUAV NN
+of	PIN PREP
+oil	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+production	NOMZ
+of	PIN PREP
+oil	NN
+will	PRMD
+be	PASS AUXB INF
+lowered	
+and	CCONJ
+some	QUAN DET
+workers	NN
+employed	WZPAST
+in	PIN CONJ PREP
+this	DEMO DET
+industry	NN
+laid	VBD
+off	PIN STPR PREP
+,	
+profits	NN
+from	PIN PREP
+firms	NN
+accumulated	
+can	POMD
+be	PASS AUXB INF
+injected	
+into	PIN PREP
+the	ART DET
+economy	NN
+when	RB WHOBJ SCONJ WH
+firms	NN
+decide	VPRT PRIV SUAV
+to	PIN TO PREP
+reinvest	INF
+profits	NN
+through	PIN PREP
+other	JJ
+sectors	NN
+causing	WZPRES PGAS
+aggregate	JJ
+demand	SUAV NN
+and	PHC CCONJ
+employment	NOMZ
+to	PIN TO PREP
+increase	INF
+.	
+Or	CAP CCONJ
+consider	PRIV INF
+an	ART DET INDA
+economy	NN
+which	WHSUB DET WH
+produces	VPRT
+a	ART DET INDA
+competing	PGAS
+fuel	NN
+such	JJ
+as	PIN CONJ PREP
+coal	NN
+or	CCONJ
+uranium	NN
+.	
+Rising	CAP PGAS
+oil	NN
+prices	NN
+in	PIN CONJ PREP
+the	ART DET
+long	JJ
+run	NN
+may	POMD
+cause	INF
+countries	NN
+to	PIN TO PREP
+consider	PRIV INF
+these	DEMO DET
+forms	NN
+of	PIN PREP
+fuel	NN
+and	CCONJ
+substitute	INF
+them	TPP3 PRP SBJP ACCU
+in	PIN CONJ PREP
+place	NN
+of	PIN PREP
+oil	NN
+.	
+A	ART CAP DET INDA
+reduction	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+use	NN
+of	PIN PREP
+oil	NN
+will	PRMD
+cause	INF
+the	ART DET
+economy	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+less	RB CMADJ
+reactive	JJ
+and	PHC CCONJ
+elastic	JJ
+to	PIN PREP
+the	ART DET
+change	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+the	ART DET
+long	JJ
+run	NN
+and	ANDC CCONJ
+so	RB
+there	EX
+would	PRMD
+be	BEMA AUXB INF
+little	JJ
+effect	NN
+on	PIN PREP
+unemployment	NOMZ
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+whole	NN
+it	PIT PRP SBJP
+can	POMD
+be	PASS AUXB INF
+seen	PRIV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+usually	RB
+likely	JJ
+that	PIN THAC SCONJ PREP
+an	ART DET INDA
+increase	NN
+in	PIN CONJ PREP
+oil	NN
+prices	NN
+will	PRMD
+lead	INF
+to	PIN PREP
+an	ART DET INDA
+increase	NN
+in	PIN CONJ PREP
+the	ART DET
+level	NN
+of	PIN PREP
+unemployment	NOMZ
+and	ANDC CCONJ
+though	CONC PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+that	PIN THAC SCONJ PREP
+the	ART DET
+employment	NOMZ
+level	NN
+may	POMD SPAU
+actually	RB
+rise	INF
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+very	AMP RB
+unlikely	JJ
+and	CCONJ
+would	PRMD SPAU
+usually	RB
+occur	INF
+in	PIN CONJ PREP
+oil	NN
+exporting	WZPRES PGAS
+countries	NN
+,	
+which	SERE DET WH
+most	JJ EMPH SPADJ
+countries	NN
+are	VPRT AUXB
+n't	XX0 CONT RB
+anyway	RB
+.	
+However	RB CONJ CAP
+in	PIN CONJ PREP
+the	ART DET
+long	JJ
+run	NN
+,	
+as	PIN CONJ PREP
+economies	NN
+start	VPRT
+replacing	PGAS
+oil	NN
+with	PIN PREP
+other	JJ
+forms	NN
+of	PIN PREP
+fuel	NN
+,	
+the	ART DET
+effects	NN
+on	PIN PREP
+unemployment	NOMZ
+,	
+and	ANDC CCONJ
+the	ART DET
+natural	JJ
+rate	NN
+of	PIN PREP
+unemployment	NOMZ
+in	PIN CONJ PREP
+particular	JJ CONJ
+would	PRMD
+be	BEMA AUXB INF
+minimal	JJ PRED
+.	

@@ -1,0 +1,1211 @@
+# filename: LS_Health_Essay_1_3058a_tx.txt
+token	tags
+Introduction	NOMZ CAP
+The	ART CAP DET
+importance	NN
+of	PIN PREP
+nutrition	NOMZ
+for	PIN PREP
+overall	JJ
+health	NN
+is	PASS VPRT BYPA SPAU AUXB
+well	RB
+known	PRIV
+by	PIN PREP
+both	DET
+professionals	NN
+and	PHC CCONJ
+patients	NN
+,	
+and	ANDC CCONJ
+yet	RB
+statistics	NN
+and	CCONJ
+ward	NNP
+experiences	NN
+demonstrate	VPRT PRIV
+that	THVC DET
+nutrition	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+component	NN
+of	PIN PREP
+patient	JJ
+care	NN
+that	TSUB WHSUB WH
+is	VPRT AUXB
+all	QUAN RB
+too	RB
+often	RB
+overlooked	
+,	
+or	CCONJ
+at	PIN PREP
+best	RB
+dealt	
+with	PIN PREP
+when	RB SCONJ WH
+problems	NN
+arise	VPRT
+rather	RB
+than	PIN PREP
+managed	
+preventatively	RB
+by	PIN PREP
+staff	NN
+.	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+endeavour	INF
+to	PIN TO PREP
+posit	INF
+reasons	PRIV NN
+for	PIN PREP
+this	DEMP DET
+,	
+and	ANDC CCONJ
+to	PIN TO PREP
+discuss	INF
+in	PIN CONJ PREP
+greater	JJ CMADJ
+detail	NN
+the	ART DET
+nutritional	JJ
+needs	NN
+of	PIN PREP
+the	ART DET
+hospital	NN
+inpatient	NN
+and	CCONJ
+the	ART DET
+negative	JJ
+affects	NN
+of	PIN PREP
+malnutrition	NOMZ
+.	
+The	ART CAP DET
+skills	NN
+,	
+knowledge	NN
+,	
+attitudes	NN
+,	
+strategies	NN
+and	PHC CCONJ
+assessment	NOMZ
+tools	NN
+the	ART DET
+professional	JJ
+practitioner	NN
+might	POMD
+employ	INF
+to	PIN TO PREP
+ensure	PRIV SUAV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+patient	NN
+'s	
+nutritional	JJ
+needs	NN
+are	PASS VPRT AUXB
+identified	
+and	PHC CCONJ
+catered	
+for	PIN PREP
+will	PRMD SPAU
+then	RB
+be	PASS AUXB INF
+considered	PRIV
+.	
+Prevalence	NN CAP
+and	PHC CCONJ
+affects	NN
+of	PIN PREP
+malnutrition	NOMZ
+in	PIN CONJ PREP
+hospitalised	
+patients	NN
+There	EX CAP
+are	VPRT AUXB
+varying	PGAS
+statistics	NN
+for	PIN PREP
+the	ART DET
+prevalence	NN
+of	PIN PREP
+malnutrition	NOMZ
+amongst	PIN PREP
+hospital	NN
+inpatients	NN
+,	
+although	CONC PIN SCONJ PREP
+the	ART DET
+numbers	NN
+are	BEMA VPRT AUXB
+uniformly	RB
+high	JJ
+:	
+around	RB PLACE
+40	NUM
+to	PIN PREP
+50	NUM
+percent	NN
+(	
+Holmes	CAP NNP
+2003	NUM
+,	
+Whitney	CAP NNP
+and	PHC CCONJ
+Heitkemper	CAP NNP
+1999	NUM
+)	
+,	
+with	PIN PREP
+malnutrition	NOMZ
+being	PASS WZPRES AUXB
+defined	
+as	PIN CONJ STPR PREP
+"	QUOT
+any	QUAN DET
+condition	NOMZ
+in	PIN CONJ PREP
+which	PIRE DET WH
+deficiency	NN
+,	
+excess	NN
+or	CCONJ
+imbalance	NN
+of	PIN PREP
+energy	NN
+,	
+protein	NN
+or	CCONJ
+other	JJ
+nutrients	NN
+adversely	RB
+affects	VPRT
+body	NN
+function	NOMZ
+and/or	CCONJ
+clinical	JJ
+outcome	NN
+"	QUOT
+(	
+RCP	CAP NNP
+2002	NUM
+,	
+cited	PASTP
+in	PIN CONJ PREP
+Holmes	CAP NNP
+2003:45	NUM
+)	
+.	
+The	ART CAP DET
+affects	NN
+of	PIN PREP
+nutrition	NOMZ
+on	PIN PREP
+rates	NN
+of	PIN PREP
+healing	NN
+and	PHC CCONJ
+length	NN
+of	PIN PREP
+hospital	NN
+stay	NN
+are	PASS VPRT SPAU AUXB
+well	RB
+documented	
+.	
+Evidence	NN CAP
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+wound	NN
+healing	NN
+is	PASS VPRT BYPA AUXB
+accelerated	
+by	PIN PREP
+nutritional	JJ
+repletion	NOMZ
+and	CCONJ
+delayed	
+by	PIN PREP
+malnutrition	NOMZ
+,	
+even	RB
+where	RB WHQU SCONJ WH
+we	FPP1 PRP SBJP
+are	BEMA VPRT AUXB
+unsure	JJ PRED
+of	PIN PREP
+the	ART DET
+physiological	JJ
+reasons	PRIV NN
+why	RB WHOBJ WHCL SCONJ WH
+in	PIN CONJ PREP
+the	ART DET
+case	NN
+of	PIN PREP
+certain	JJ
+nutrient	NN
+substrates	NN
+(	
+Whitney	CAP NNP
+and	PHC CCONJ
+Heitkemper	CAP NNP
+,	
+1999	NUM
+)	
+.	
+The	ART CAP DET
+body	NN
+'s	
+response	NN
+to	PIN PREP
+physiological	JJ
+trauma	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+complex	JJ
+one	NN
+,	
+but	CCONJ
+even	RB
+at	PIN PREP
+a	ART DET INDA
+basic	JJ
+level	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+obvious	JJ PRED
+that	PIN THAC SCONJ PREP
+the	ART DET
+healing	NN
+process	NN
+makes	VPRT
+additional	JJ
+energy	NN
+demands	SUAV NN
+which	WHSUB DET WH
+will	PRMD
+need	INF
+to	PIN TO PREP
+be	PASS SPAU AUXB INF
+nutritionally	RB
+met	
+in	PIN CONJ PREP
+order	SUAV NN
+for	PIN PREP
+the	ART DET
+body	NN
+'s	
+systems	NN
+to	PIN TO PREP
+respond	INF
+and	PHC CCONJ
+function	INF
+at	PIN PREP
+the	ART DET
+optimum	JJ
+level	NN
+.	
+Further	JJ CAP
+evidence	NN
+for	PIN PREP
+the	ART DET
+influence	NN
+of	PIN PREP
+nutrition	NOMZ
+on	PIN PREP
+patient	JJ
+recovery	NN
+can	POMD
+be	PASS AUXB INF
+seen	PRIV
+in	PIN CONJ PREP
+a	ART DET INDA
+recent	JJ
+study	NN
+conducted	WZPAST
+by	PIN PREP
+Pichard	CAP NNP
+et	NNP
+al	NNP
+(	
+2004	NUM
+)	
+monitoring	GER PRESP PGAS
+a	ART DET INDA
+total	NN
+of	PIN PREP
+995	NUM
+hospital	NN
+patients	NN
+from	PIN PREP
+admission	NOMZ
+to	PIN TO PREP
+discharge	INF
+.	
+The	ART CAP DET
+study	NN
+'s	
+findings	NN
+demonstrate	VPRT PRIV
+a	ART DET INDA
+clear	JJ
+correlation	NOMZ
+between	PIN PREP
+poor	JJ
+nutritional	JJ
+status	NN
+(	
+as	PIN CONJ PREP
+measured	
+via	PIN PREP
+the	ART DET
+depletion	NOMZ
+of	PIN PREP
+lean	JJ
+or	CCONJ
+fat	JJ
+-	
+free	JJ
+body	NN
+mass	NN
+on	PIN PREP
+admission	NOMZ
+)	
+and	ANDC CCONJ
+increased	
+length	NN
+of	PIN PREP
+hospital	NN
+stay	NN
+.	
+Possible	JJ CAP
+reasons	PRIV NN
+for	PIN PREP
+poor	JJ
+nutrition	NOMZ
+in	PIN CONJ PREP
+hospitals	NN
+The	ART CAP DET
+reasons	PRIV NN
+for	PIN PREP
+the	ART DET
+prevalence	NN
+of	PIN PREP
+malnutrition	NOMZ
+amongst	PIN PREP
+inpatients	NN
+are	BEMA VPRT AUXB
+manifold	JJ PRED
+but	CCONJ
+often	RB
+surprisingly	RB
+basic	JJ
+.	
+Despite	PIN CAP SCONJ PREP
+numerous	JJ
+initiatives	NN
+to	PIN TO PREP
+improve	INF
+hospital	NN
+catering	NN
+in	PIN CONJ PREP
+terms	NN
+of	PIN PREP
+both	CCONJ
+food	NN
+and	PHC CCONJ
+service	NN
+(	
+DH	CAP NNP
+2005	NUM
+)	
+,	
+hospital	NN
+food	NN
+continues	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+common	JJ
+cause	NN
+for	PIN PREP
+patient	JJ
+complaints	NN
+,	
+whether	PIN SCONJ PREP
+it	PIT PRP SBJP
+be	AUXB INF
+taste	NN
+,	
+temperature	NN
+,	
+menu	NN
+choices	NN
+,	
+timing	NN
+,	
+availability	NOMZ
+or	CCONJ
+portion	NOMZ
+sizes	NN
+that	TSUB WHSUB WH
+are	PASS VPRT AUXB
+objected	PUBV
+to	PIN STPR PREP
+.	
+Experience	NN CAP
+in	PIN CONJ PREP
+a	ART DET INDA
+ward	NN
+setting	NN
+has	VPRT PEAS
+highlighted	
+staff	NN
+frustration	NOMZ
+and	CCONJ
+patient	JJ
+dissatisfaction	NOMZ
+at	PIN STPR PREP
+'	CONT QUOT
+hot	JJ
+'	CONT QUOT
+meals	NN
+being	PASS WZPRES AUXB
+served	
+lukewarm	JJ
+or	CCONJ
+cold	JJ
+,	
+patients	NN
+'	CONT QUOT
+menu	NN
+selections	NOMZ
+not	XX0 RB
+being	PASS AUXB
+met	
+,	
+ice	NN
+cream	NN
+delivered	VBD
+melted	
+and	CCONJ
+jellies	NN
+not	XX0 RB
+set	
+,	
+inappropriate	JJ
+portion	NOMZ
+sizes	NN
+,	
+and	ANDC CCONJ
+meals	NN
+being	PASS WZPRES AUXB
+whisked	
+away	RB PLACE
+again	RB TIME
+untouched	JJ
+before	PIN PREP
+a	ART DET INDA
+member	NN
+of	PIN PREP
+nursing	NN
+staff	NN
+has	VPRT PEAS
+been	BEMA AUXB
+able	JJ PRED
+to	PIN TO PREP
+attend	INF
+to	PIN TO PREP
+assist	INF
+the	ART DET
+patient	NN
+in	PIN CONJ PREP
+eating	PGAS
+them	TPP3 PRP SBJP ACCU
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+to	PIN PREP
+these	DEMP DET
+,	
+further	JJ
+simple	JJ
+factors	NN
+impede	VPRT
+patient	JJ
+nutrition	NOMZ
+for	PIN PREP
+which	PIRE DET WH
+nursing	NN
+staff	NN
+themselves	TPP3 PRP SBJP ACCU
+may	POMD
+be	PASS AUXB INF
+deemed	PRIV
+more	RB EMPH CMADJ
+culpable	JJ
+.	
+Food	NN CAP
+is	PASS VPRT SPAU AUXB
+frequently	RB
+left	
+out	PIN PREP
+of	PIN PREP
+reach	NN
+,	
+patients	NN
+who	WHQU WHSUB WH
+are	BEMA VPRT AUXB
+unable	JJ PRED
+to	PIN TO PREP
+feed	INF
+themselves	TPP3 PRP SBJP ACCU
+unaided	JJ
+are	PASS VPRT SPAU AUXB
+not	XX0 RB
+given	
+assistance	NN
+,	
+and	ANDC CCONJ
+other	JJ
+nursing	NN
+tasks	NN
+interrupt	JJ
+or	CCONJ
+delay	NN
+mealtimes	NN
+.	
+An	ART CAP DET INDA
+overall	JJ
+lack	NN
+of	PIN PREP
+time	NN
+and	PHC CCONJ
+resources	NN
+,	
+along	PIN PREP
+with	PIN PREP
+conflicting	GER PGAS
+demands	SUAV NN
+,	
+combine	INF
+to	PIN TO PREP
+make	INF
+patient	JJ
+mealtimes	NN
+stressful	JJ
+periods	NN
+of	PIN PREP
+the	ART DET
+day	NN
+for	PIN PREP
+both	DET
+patients	NN
+and	PHC CCONJ
+staff	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+little	JJ
+wonder	NN
+that	PIN TOBJ SCONJ PREP
+these	DEMO DET
+collective	JJ
+factors	NN
+can	POMD
+quell	INF
+the	ART DET
+appetite	NN
+of	PIN PREP
+a	ART DET INDA
+patient	NN
+whose	WHOBJ DET WH
+desire	SUAV NN
+to	PIN TO PREP
+eat	INF
+is	PASS VPRT BYPA SPAU AUXB
+already	RB
+impaired	
+by	PIN PREP
+the	ART DET
+physiological	JJ
+and	PHC CCONJ
+psychological	JJ
+effects	NN
+of	PIN PREP
+illness	NOMZ
+,	
+trauma	NN
+and	PHC CCONJ
+medication	NOMZ
+,	
+not	XX0 RB
+to	PIN TO PREP
+mention	PUBV INF
+the	ART DET
+radical	JJ
+change	NN
+to	PIN PREP
+personal	JJ
+routine	NN
+that	PIN TOBJ SCONJ PREP
+any	QUAN DET
+period	NN
+of	PIN PREP
+hospital	NN
+stay	NN
+engenders	NN
+.	
+How	RB CAP SCONJ WH
+the	ART DET
+professional	JJ
+practitioner	NN
+might	POMD
+improve	INF
+patient	JJ
+nutrition	NOMZ
+in	PIN CONJ PREP
+hospitals	NN
+:	
+Knowledge	CAP NNP
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+begin	INF
+to	PIN TO PREP
+improve	INF
+the	ART DET
+situation	NOMZ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+vital	JJ PRED
+that	PIN THAC SCONJ PREP
+the	ART DET
+professional	JJ
+practitioner	NN
+have	VPRT
+knowledge	NN
+of	PIN PREP
+why	RB SCONJ WH
+nutrition	NOMZ
+is	BEMA VPRT AUXB
+important	JJ PRED
+,	
+and	ANDC CCONJ
+what	WH
+constitutes	VPRT
+a	ART DET INDA
+balanced	JJ
+and	PHC CCONJ
+nutritious	JJ
+diet	NN
+.	
+It	PIT CAP PRP SBJP
+may	POMD SPAU
+also	RB
+be	BEMA AUXB INF
+necessary	JJ PRED
+for	PIN PREP
+the	ART DET
+practitioner	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+aware	JJ PRED
+of	PIN PREP
+nutritional	JJ
+needs	NN
+particular	JJ CONJ
+to	PIN PREP
+certain	JJ
+patient	JJ
+groups	NN
+and	CCONJ
+clinical	JJ
+specialities	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+inform	INF
+patient	JJ
+choices	NN
+and	CCONJ
+provide	INF
+nutritional	JJ
+repletion	NOMZ
+where	RB WHOBJ SCONJ WH
+it	PIT PRP SBJP
+may	POMD
+be	BEMA AUXB INF
+beneficial	JJ PRED
+(	
+such	JJ
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+wound	NN
+healing	NN
+as	PIN CONJ PREP
+discussed	
+above	RB PLACE
+)	
+.	
+Further	RB CAP
+to	PIN PREP
+this	DEMO DET
+the	ART DET
+practitioner	NN
+must	NEMD
+be	BEMA AUXB INF
+quick	JJ PRED
+to	PIN TO PREP
+recognise	PRIV INF
+malnutrition	NOMZ
+and	CCONJ
+its	PIT PRP SBJP
+stages	NN
+,	
+and	ANDC CCONJ
+understand	PRIV INF
+its	PIT PRP SBJP
+far	RB PLACE
+-	
+reaching	PGAS
+implications	NOMZ
+for	PIN PREP
+the	ART DET
+patient	NN
+.	
+Skills	NN CAP
+and	CCONJ
+attitudes	VPRT
+Many	QUAN JJ CAP
+skills	NN
+come	VPRT
+into	PIN PREP
+play	NN
+in	PIN CONJ PREP
+the	ART DET
+promotion	NOMZ
+of	PIN PREP
+good	JJ
+nutrition	NOMZ
+,	
+but	CCONJ
+communication	NOMZ
+is	BEMA VPRT AUXB
+probably	RB
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+.	
+Many	QUAN JJ CAP
+barriers	NN
+to	PIN PREP
+adequate	JJ
+nutrition	NOMZ
+can	POMD
+be	PASS BYPA AUXB INF
+overcome	
+merely	DWNT RB
+by	PIN PREP
+listening	PGAS
+to	PIN PREP
+patients	NN
+and	CCONJ
+finding	PRIV PGAS
+out	PIN PREP
+why	RB SCONJ WH
+they	TPP3 PRP SBJP
+are	VPRT SPAU AUXB
+not	XX0 RB
+eating	PGAS
+enough	JJ
+or	CCONJ
+the	ART DET
+right	JJ
+things	NN
+.	
+The	ART CAP DET
+practitioner	NN
+needs	VPRT
+to	PIN TO PREP
+become	INF
+a	ART DET INDA
+resourceful	JJ
+and	PHC CCONJ
+subtle	JJ
+negotiator	NN
+when	RB WHOBJ SCONJ WH
+it	PIT PRP SBJP
+comes	VPRT
+to	PIN PREP
+encouraging	GER PGAS
+patients	NN
+to	PIN TO PREP
+eat	INF
+,	
+treating	PRESP PGAS
+each	QUAN DET
+patient	NN
+as	PIN CONJ PREP
+an	ART DET INDA
+individual	NN
+and	CCONJ
+adopting	PGAS
+different	JJ
+strategies	NN
+to	PIN TO PREP
+suit	INF
+their	TPP3 PRP SBJP
+needs	NN
+.	
+Communication	NOMZ CAP
+also	RB
+plays	VPRT
+a	ART DET INDA
+major	JJ
+function	NOMZ
+in	PIN CONJ PREP
+involving	PGAS
+family	NN
+members	NN
+and	CCONJ
+other	JJ
+staff	NN
+in	PIN CONJ PREP
+the	ART DET
+promotion	NOMZ
+of	PIN PREP
+good	JJ
+nutrition	NOMZ
+.	
+The	ART CAP DET
+provision	NOMZ
+of	PIN PREP
+food	NN
+and	CCONJ
+of	PIN PREP
+nutritional	JJ
+education	NOMZ
+incorporates	VPRT
+a	ART DET INDA
+large	JJ
+variety	NN
+of	PIN PREP
+staff	NN
+members	NN
+,	
+from	PIN PREP
+catering	NN
+managers	NN
+,	
+serving	PGAS
+staff	NN
+and	PHC CCONJ
+housekeepers	NN
+to	PIN PREP
+dieticians	NN
+and	CCONJ
+specialist	JJ
+nurses	NN
+(	
+Mason	CAP NNP
+and	PHC CCONJ
+Brady	CAP NNP
+,	
+2003	NUM
+)	
+.	
+Good	JJ CAP
+interdisciplinary	NN
+teamwork	NN
+is	BEMA VPRT AUXB
+therefore	RB CONJ
+crucial	JJ
+if	COND PIN SCONJ PREP
+lasting	JJ
+improvements	NOMZ
+are	BEMA VPRT AUXB
+to	PIN TO PREP
+be	PASS AUXB INF
+made	
+.	
+Other	JJ CAP
+skills	NN
+also	RB
+have	VPRT
+a	ART DET INDA
+bearing	NN
+on	PIN PREP
+nutrition	NOMZ
+,	
+notably	RB
+in	PIN CONJ PREP
+the	ART DET
+use	NN
+of	PIN PREP
+certain	JJ
+clinical	JJ
+tools	NN
+to	PIN TO PREP
+assess	INF
+and	PHC CCONJ
+document	INF
+a	ART DET INDA
+patient	NN
+'s	
+nutritional	JJ
+status	NN
+and	PHC CCONJ
+food	NN
+intake	NN
+.	
+Risk	NN CAP
+assessment	NOMZ
+charts	NN
+are	BEMA VPRT AUXB
+particularly	RB
+crucial	JJ
+in	PIN CONJ PREP
+pre	JJ
+-	JJ
+empting	PGAS
+malnutrition	NOMZ
+,	
+and	ANDC CCONJ
+these	DEMP DET
+can	POMD
+be	PASS AUXB INF
+carried	
+out	PIN PREP
+using	PGAS
+tried	
+and	PHC CCONJ
+tested	VBD
+frameworks	NN
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+MUST	NEMD NN CAP
+(	
+Malnutririon	CAP NNP
+Universal	CAP NNP
+Screening	CAP NNP
+Tool	CAP NNP
+)	
+assessment	NOMZ
+(	
+Godfrey	CAP NNP
+,	
+2004	NUM
+)	
+,	
+and	ANDC CCONJ
+BMI	CAP NNP
+(	
+Body	CAP NNP
+Mass	CAP NNP
+Index	CAP NNP
+)	
+scoring	NN
+.	
+These	DEMO CAP DET
+in	PIN CONJ PREP
+turn	NN
+can	POMD
+prompt	INF
+the	ART DET
+monitoring	GER
+of	PIN PREP
+daily	JJ
+intake	NN
+where	RB WHSUB SCONJ WH
+required	SUAV
+using	PGAS
+food	NN
+record	NN
+charts	NN
+(	
+Freeman	CAP NNP
+,	
+2002	NUM
+)	
+.	
+As	PIN CONJ CAP PREP
+with	PIN PREP
+many	QUAN JJ
+other	JJ
+core	NN
+nursing	NN
+skills	NN
+,	
+benchmarking	GER
+is	BEMA VPRT AUXB
+also	RB
+a	ART DET INDA
+positive	JJ
+step	NN
+towards	PIN PREP
+best	JJ SPADJ
+practice	NN
+(	
+Ellis	CAP NNP
+2002	NUM
+,	
+Mason	CAP NNP
+and	PHC CCONJ
+Brady	CAP NNP
+,	
+2003	NUM
+)	
+.	
+The	ART CAP DET
+patient	NN
+themselves	TPP3 PRP SBJP ACCU
+should	NEMD
+be	PASS AUXB INF
+involved	
+in	PIN CONJ PREP
+the	ART DET
+planning	NN
+and	PHC CCONJ
+documentation	NOMZ
+process	NN
+at	PIN PREP
+every	QUAN DET
+stage	NN
+where	RB WHOBJ SCONJ WH
+possible	JJ
+(	
+Freeman	CAP NNP
+2002	NUM
+)	
+.	
+Conclusion	NOMZ CAP
+To	PIN TO CAP PREP
+summarize	INF
+the	ART DET
+above	JJ PLACE
+,	
+malnutrition	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+widespread	JJ
+problem	NN
+in	PIN CONJ PREP
+hospitals	NN
+,	
+with	PIN PREP
+a	ART DET INDA
+significant	JJ
+effect	NN
+on	PIN PREP
+healing	NN
+and	PHC CCONJ
+recovery	NN
+rates	NN
+and	PHC CCONJ
+length	NN
+of	PIN PREP
+hospital	NN
+stay	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+improve	INF
+nutrition	NOMZ
+in	PIN CONJ PREP
+hospitals	NN
+the	ART DET
+professional	JJ
+practitioner	NN
+must	NEMD
+have	INF
+knowledge	NN
+of	PIN PREP
+the	ART DET
+importance	NN
+and	PHC CCONJ
+composition	NOMZ
+of	PIN PREP
+a	ART DET INDA
+nutritious	JJ
+diet	NN
+,	
+adopt	INF
+an	ART DET INDA
+attitude	NN
+of	PIN PREP
+accountability	NOMZ
+and	PHC CCONJ
+cooperation	NOMZ
+,	
+and	ANDC CCONJ
+have	VPRT
+skills	NN
+in	PIN CONJ PREP
+communication	NOMZ
+and	CCONJ
+the	ART DET
+use	NN
+of	PIN PREP
+pre	JJ
+-	JJ
+established	JJ PRIV
+screening	NN
+tools	NN
+.	
+Nutrition	NOMZ CAP
+should	NEMD
+be	PASS AUXB INF
+prioritised	
+in	PIN CONJ PREP
+accordance	NN
+with	PIN PREP
+its	PIT PRP SBJP
+importance	NN
+for	PIN PREP
+the	ART DET
+overall	JJ
+health	NN
+and	PHC CCONJ
+wellbeing	NN
+of	PIN PREP
+the	ART DET
+patient	NN
+,	
+and	ANDC CCONJ
+not	XX0 RB
+superseded	
+by	PIN PREP
+less	JJ CMADJ
+fundamental	JJ
+tasks	NN
+or	CCONJ
+delegated	
+to	PIN PREP
+untrained	
+staff	NN
+who	WHSUB WH
+might	POMD
+lack	INF
+the	ART DET
+skills	NN
+,	
+knowledge	NN
+and	PHC CCONJ
+attitude	NN
+to	PIN TO PREP
+achieve	INF
+the	ART DET
+best	JJ SPADJ
+results	NN
+.	

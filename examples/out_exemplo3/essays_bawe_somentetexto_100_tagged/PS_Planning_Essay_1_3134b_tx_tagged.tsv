@@ -1,0 +1,1247 @@
+# filename: PS_Planning_Essay_1_3134b_tx.txt
+token	tags
+Introduction	NOMZ CAP
+This	DEMO CAP DET
+essay	NN
+aims	VPRT
+to	PIN TO PREP
+identify	INF
+the	ART DET
+roles	NN
+and	PHC CCONJ
+interactions	NOMZ
+of	PIN PREP
+different	JJ
+actors	NN
+in	PIN CONJ PREP
+the	ART DET
+development	NOMZ
+of	PIN PREP
+two	NUM
+different	JJ
+urban	JJ
+areas	NN
+:	
+the	ART DET
+Florence	CAP NNP
+Park	CAP NNP
+estate	NN
+in	PIN CONJ PREP
+Cowley	CAP NNP
+,	
+Oxford	CAP NNP
+and	CCONJ
+the	ART DET
+Byker	CAP NNP
+estate	NN
+in	PIN CONJ PREP
+Newcastle	CAP NNP
+.	
+The	ART CAP DET
+Florence	CAP NNP
+Park	CAP NNP
+estate	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+housing	NN
+development	NOMZ
+in	PIN CONJ PREP
+Cowley	CAP NNP
+.	
+The	ART CAP DET
+area	NN
+developed	VBD
+rapidly	RB
+in	PIN CONJ PREP
+the	ART DET
+20	NUM
+'s	
+and	CCONJ
+30	NUM
+'s	VPRT
+with	PIN PREP
+the	ART DET
+arrival	NN
+of	PIN PREP
+the	ART DET
+Morris	CAP NNP
+Motors	CAP NNP
+car	NN
+works	VPRT
+.	
+The	ART CAP DET
+Byker	CAP NNP
+estate	NN
+in	PIN CONJ PREP
+Newcastle	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+planned	
+social	JJ
+housing	NN
+development	NOMZ
+built	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+70	NUM
+'s	
+as	PIN CONJ PREP
+part	NN
+of	PIN PREP
+a	ART DET INDA
+slum	NN
+clearance	NN
+project	NN
+.	
+This	DEMO CAP DET
+essay	NN
+will	PRMD
+examine	INF
+each	QUAN DET
+example	NN
+in	PIN CONJ PREP
+turn	NN
+and	ANDC CCONJ
+then	RB
+draw	INF
+conclusions	NOMZ
+about	PIN PREP
+the	ART DET
+varying	PGAS
+importance	NN
+of	PIN PREP
+different	JJ
+actors	NN
+in	PIN CONJ PREP
+each	QUAN DET
+area	NN
+.	
+Cowley	CAP NNP
+,	
+East	CAP NNP
+Oxford	CAP NNP
+Boundary	CAP NNP
+of	PIN PREP
+Florence	CAP NNP
+Park	CAP NNP
+Estate	CAP NNP
+Map	CAP NNP
+of	PIN PREP
+Cowley	CAP NNP
+(	
+Ordnance	CAP NNP
+survey	NN
+,	
+2003	NUM
+)	
+Up	PIN CAP PREP
+until	PIN PREP
+the	ART DET
+1920s	NN
+Cowley	CAP NNP
+was	BEMA VBD AUXB
+a	ART DET INDA
+predominantly	RB
+rural	JJ
+area	NN
+with	PIN PREP
+only	DWNT RB
+a	ART DET INDA
+few	QUAN JJ
+small	JJ
+clustered	
+settlements	NOMZ
+.	
+Morris	CAP NNP
+motor	NN
+car	NN
+works	NN
+was	PASS VBD AUXB
+established	PRIV
+in	PIN CONJ PREP
+the	ART DET
+area	NN
+in	PIN CONJ PREP
+1913	NUM
+and	CCONJ
+the	ART DET
+Pressed	CAP NNP
+Steel	CAP NNP
+Co.	CAP NNP
+followed	VBD
+.	
+There	EX CAP
+was	VBD AUXB
+a	ART DET INDA
+demand	SUAV NN
+for	PIN PREP
+housing	NN
+close	RB
+to	PIN PREP
+the	ART DET
+factories	NN
+for	PIN PREP
+the	ART DET
+workers	NN
+,	
+many	QUAN JJ
+of	PIN PREP
+whom	PIRE WH
+had	VBD PEAS
+migrated	
+to	PIN PREP
+the	ART DET
+area	NN
+.	
+The	ART CAP DET
+area	NN
+developed	VBD
+rapidly	RB
+from	PIN PREP
+rural	JJ
+to	PIN PREP
+urban	JJ
+.	
+The	ART CAP DET
+housing	NN
+built	WZPAST
+still	RB
+remains	VPRT
+in	PIN CONJ PREP
+Cowley	CAP NNP
+today	TIME NN
+,	
+although	CONC PIN SCONJ PREP
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+houses	NN
+have	VPRT PEAS
+been	PASS AUXB
+extended	
+and	ANDC CCONJ
+there	EX
+are	VPRT AUXB
+areas	NN
+of	PIN PREP
+infill	NN
+.	
+Private	JJ CAP
+housebuilders	NN
+bought	VBD
+areas	NN
+of	PIN PREP
+land	NN
+and	CCONJ
+built	VBD
+large	JJ
+estate	NN
+of	PIN PREP
+houses	NN
+speculatively	RB
+.	
+Florence	CAP NNP
+Park	CAP NNP
+was	PASS VBD BYPA AUXB
+built	
+in	PIN CONJ PREP
+1934	NUM
+by	PIN PREP
+N.	CAP NNP
+Moss	CAP NNP
+and	PHC CCONJ
+Son	CAP NNP
+.	
+The	ART CAP DET
+houses	NN
+were	BEMA VBD AUXB
+all	QUAN DET
+built	
+to	PIN PREP
+a	ART DET INDA
+standard	JJ
+design	NN
+and	PHC CCONJ
+architects	NN
+were	PASS VBD SPAU AUXB
+not	XX0 RB
+used	
+.	
+They	TPP3 CAP PRP SBJP
+were	PASS VBD AUXB
+developed	
+for	PIN PREP
+profit	NN
+and	CCONJ
+were	VBD AUXB
+either	CCONJ
+sold	
+or	CCONJ
+let	INF
+.	
+Example	NN CAP
+of	PIN PREP
+style	NN
+of	PIN PREP
+houses	NN
+.	
+Outram	CAP NNP
+Road	CAP NNP
+,	
+Cowley	CAP NNP
+Estate	CAP NNP
+agents	NN
+were	PASS VBD AUXB
+used	
+to	PIN TO PREP
+sell	INF
+properties	NN
+and	ANDC CCONJ
+they	TPP3 PRP SBJP
+were	PASS VBD SPAU AUXB
+also	RB
+advertised	
+in	PIN CONJ PREP
+papers	NN
+and	PHC CCONJ
+magazines	NN
+.	
+Example	NN CAP
+of	PIN PREP
+an	ART DET INDA
+advert	NN
+placed	WZPAST
+at	PIN PREP
+the	ART DET
+time	NN
+(	
+Oxford	CAP NNP
+Monthly	CAP NNP
+,	
+1934	NUM
+)	
+There	EX CAP
+was	VBD AUXB
+no	SYNE DET
+formal	JJ
+planning	NN
+system	NN
+at	PIN PREP
+this	DEMO DET
+time	NN
+although	CONC PIN SCONJ PREP
+the	ART DET
+housing	NN
+had	VBD
+to	PIN TO PREP
+adhere	INF
+to	PIN PREP
+certain	JJ
+bylaws	NN
+.	
+The	ART CAP DET
+council	NN
+had	VBD
+a	ART DET INDA
+role	NN
+in	PIN CONJ PREP
+checking	PRIV PGAS
+and	PHC CCONJ
+approving	PGAS
+plans	NN
+before	PIN PREP
+development	NOMZ
+(	
+the	ART DET
+Housing	CAP NNP
+Subcommittee	CAP NNP
+.	
+)	
+Tenants	NN CAP
+had	VBD
+little	JJ
+power	NN
+and	PHC CCONJ
+conflicts	NN
+arose	VBD
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+united	VBD
+to	PIN TO PREP
+protest	PUBV INF
+at	PIN PREP
+the	ART DET
+high	JJ
+rents	NN
+and	CCONJ
+poor	JJ
+design	NN
+/	
+quality	NOMZ
+of	PIN PREP
+the	ART DET
+houses	NN
+.	
+They	TPP3 CAP PRP SBJP
+felt	VBD PRIV
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+had	VBD PEAS
+been	PASS AUXB
+built	
+as	RB CONJ
+cheaply	RB
+as	PIN CONJ PREP
+possible	JJ
+and	CCONJ
+were	VBD AUXB
+'	CONT QUOT
+so	RB
+badly	RB
+built	
+they	TPP3 PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+said	PUBV
+even	RB
+to	PIN TO PREP
+conform	INF
+with	PIN PREP
+the	ART DET
+bylaws	NN
+.	
+'	CONT QUOT
+(	
+Florence	CAP NNP
+Park	CAP NNP
+Tenants	CAP NNP
+Committee	CAP NNP
+,	
+n.d	NNP
+.	
+)	
+They	TPP3 CAP PRP SBJP
+also	RB
+felt	VBD PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+council	NN
+had	VBD PEAS
+done	PROD
+little	JJ
+to	PIN TO PREP
+protect	INF
+their	TPP3 PRP SBJP
+interests	NN
+,	
+especially	RB
+as	PIN CONJ PREP
+the	ART DET
+builder	NN
+of	PIN PREP
+Florence	CAP NNP
+Park	CAP NNP
+,	
+F.E.	CAP NNP
+Moss	CAP NNP
+,	
+was	BEMA VBD AUXB
+also	RB
+a	ART DET INDA
+city	NN
+councillor	NN
+.	
+Developers	NN CAP
+seem	VPRT SMP
+to	PIN TO PREP
+have	INF
+the	ART DET
+most	JJ EMPH SPADJ
+power	NN
+and	CCONJ
+were	VBD AUXB
+setting	PGAS
+the	ART DET
+agenda	NN
+.	
+Byker	CAP NNP
+estate	NN
+,	
+Newcastle	CAP NNP
+Location	CAP NNP
+of	PIN PREP
+Byker	CAP NNP
+estate	NN
+(	
+Multimap	CAP NNP
+,	
+2005	NUM
+)	
+This	DEMO CAP DET
+area	NN
+of	PIN PREP
+Newcastle	CAP NNP
+was	BEMA VBD AUXB
+originally	RB TIME
+a	ART DET INDA
+working	JJ
+-	
+class	NN
+area	NN
+of	PIN PREP
+high	JJ
+density	NOMZ
+back	RB
+-	
+to	PIN STPR PREP
+-	
+back	RB
+Victorian	JJ CAP
+terraces	NN
+.	
+Many	QUAN JJ CAP
+of	PIN PREP
+these	DEMP DET
+were	BEMA VBD AUXB
+in	PIN CONJ PREP
+poor	JJ
+condition	NOMZ
+and	CCONJ
+lacked	VBD
+one	NUM
+or	CCONJ
+more	JJ EMPH CMADJ
+basic	JJ
+household	NN
+amenities	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+1960s	NN
+Newcastle	CAP NNP
+City	CAP NNP
+Council	CAP NNP
+took	VBD
+the	ART DET
+decision	NOMZ
+to	PIN TO PREP
+redevelop	INF
+it	PIT PRP SBJP
+.	
+80	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+residents	NN
+wanted	VBD
+to	PIN TO PREP
+stay	INF
+in	PIN CONJ PREP
+Byker	CAP NNP
+and	ANDC CCONJ
+in	PIN CONJ PREP
+1968	NUM
+the	ART DET
+Conservatives	CAP NNP
+won	VBD
+one	NUM
+of	PIN PREP
+the	ART DET
+council	NN
+seats	NN
+after	PIN PREP
+campaigning	GER PGAS
+on	PIN PREP
+the	ART DET
+slogan	NN
+'	CONT QUOT
+Byker	CAP NNP
+for	PIN PREP
+Byker	CAP NNP
+people	NN
+.	
+'	CONT QUOT
+The	ART CAP DET
+council	NN
+decided	VBD PRIV SUAV
+to	PIN TO PREP
+clear	INF
+the	ART DET
+slums	NN
+but	CCONJ
+to	PIN TO PREP
+try	INF
+to	PIN TO PREP
+keep	INF
+the	ART DET
+community	NOMZ
+.	
+Ralph	CAP NNP
+Erskine	CAP NNP
+,	
+an	ART DET INDA
+architect	NN
+,	
+was	PASS VBD BYPA AUXB
+appointed	
+by	PIN PREP
+the	ART DET
+Housing	CAP NNP
+Committee	CAP NNP
+as	PIN CONJ PREP
+the	ART DET
+master	NN
+planner	NN
+and	PHC CCONJ
+consultant	NN
+for	PIN PREP
+the	ART DET
+redevelopment	NOMZ
+.	
+The	ART CAP DET
+local	JJ
+authority	NOMZ
+owned	VBD
+the	ART DET
+land	NN
+,	
+financed	VBD
+the	ART DET
+development	NOMZ
+and	CCONJ
+was	BEMA VBD AUXB
+responsible	JJ PRED
+for	PIN PREP
+approving	PGAS
+the	ART DET
+plans	NN
+,	
+and	ANDC CCONJ
+giving	PGAS
+planning	NN
+permission	NOMZ
+.	
+Erskine	CAP NNP
+opened	VBD
+up	PIN PREP
+an	ART DET INDA
+office	NN
+in	PIN CONJ PREP
+an	ART DET INDA
+old	JJ
+shop	NN
+in	PIN CONJ PREP
+the	ART DET
+middle	NN
+of	PIN PREP
+the	ART DET
+redevelopment	JJ
+area	NN
+,	
+and	ANDC CCONJ
+there	EX
+was	VBD AUXB
+an	ART DET INDA
+'	CONT QUOT
+open	JJ
+house	NN
+'	CONT QUOT
+policy	NN
+that	TSUB WHSUB WH
+encouraged	VBD
+local	JJ
+people	NN
+to	PIN TO PREP
+drop	INF
+in	RB PIN CONJ PREP
+and	CCONJ
+talk	INF
+to	PIN PREP
+the	ART DET
+architects	NN
+and	CCONJ
+get	INF
+involved	
+with	PIN PREP
+the	ART DET
+design	NN
+team	NN
+.	
+At	PIN CAP PREP
+the	ART DET
+time	NN
+there	EX
+were	VBD AUXB
+plans	NN
+for	PIN PREP
+a	ART DET INDA
+motorway	NN
+bypass	NN
+to	PIN TO PREP
+run	INF
+through	PIN PREP
+the	ART DET
+area	NN
+.	
+Part	NN CAP
+of	PIN PREP
+the	ART DET
+design	NN
+solution	NOMZ
+to	PIN TO PREP
+screen	INF
+the	ART DET
+rest	NN
+of	PIN PREP
+the	ART DET
+site	NN
+from	PIN PREP
+this	DEMP DET
+was	BEMA VBD AUXB
+the	ART DET
+Byker	CAP NNP
+Wall	CAP NNP
+:	
+The	ART CAP DET
+Byker	CAP NNP
+Wall	CAP NNP
+(	
+Byker	CAP NNP
+Wall	CAP NNP
+Website	CAP NNP
+,	
+2000	NUM
+)	
+This	DEMO CAP DET
+wall	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+block	NN
+of	PIN PREP
+flats	NN
+/	
+maisonettes	NN
+which	WHSUB DET WH
+winds	VPRT
+around	PIN PLACE PREP
+the	ART DET
+north	PLACE NN
+of	PIN PREP
+the	ART DET
+estate	NN
+.	
+Within	PIN CAP PREP
+the	ART DET
+wall	NN
+,	
+the	ART DET
+development	NOMZ
+consists	VPRT
+of	PIN PREP
+low	JJ
+rise	NN
+housing	NN
+,	
+comprising	GER PGAS
+of	PIN PREP
+a	ART DET INDA
+mixture	NN
+of	PIN PREP
+terraces	NN
+and	PHC CCONJ
+maisonettes	NN
+for	PIN PREP
+2	NUM
+to	PIN PREP
+6	NUM
+people	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+great	JJ
+mix	NN
+in	PIN CONJ PREP
+textures	NN
+,	
+styles	NN
+,	
+scales	NN
+and	PHC CCONJ
+colour	NN
+of	PIN PREP
+the	ART DET
+housing	NN
+:	
+Example	NN CAP
+of	PIN PREP
+the	ART DET
+style	NN
+of	PIN PREP
+dwelling	NN
+in	PIN CONJ PREP
+the	ART DET
+Byker	CAP NNP
+Estate	CAP NNP
+(	
+Byker	CAP NNP
+Wall	CAP NNP
+Website	CAP NNP
+,	
+2000	NUM
+)	
+Another	CAP DET
+example	NN
+of	PIN PREP
+the	ART DET
+housing	NN
+in	PIN CONJ PREP
+the	ART DET
+Byker	CAP NNP
+Estate	CAP NNP
+(	
+Byker	CAP NNP
+Wall	CAP NNP
+Website	CAP NNP
+,	
+2000	NUM
+)	
+Green	CAP NNP
+spaces	NN
+and	PHC CCONJ
+landscaping	GER
+were	PASS VBD AUXB
+included	
+in	PIN CONJ PREP
+the	ART DET
+redevelopment	NOMZ
+and	CCONJ
+communal	JJ
+'	CONT QUOT
+hobby	NN
+rooms	NN
+'	CONT QUOT
+were	PASS VBD AUXB
+provided	
+for	PIN PREP
+each	QUAN DET
+group	NN
+of	PIN PREP
+residents	NN
+.	
+The	ART CAP DET
+architects	NN
+had	VBD
+constant	JJ
+feedback	NN
+from	PIN PREP
+tenants	NN
+and	CCONJ
+many	QUAN JJ
+changes	NN
+were	PASS VBD AUXB
+made	
+to	PIN PREP
+the	ART DET
+design	NN
+and	PHC CCONJ
+building	NN
+standards	NN
+in	PIN CONJ PREP
+response	NN
+to	PIN PREP
+the	ART DET
+tenant	NN
+'s	
+views	NN
+.	
+The	ART CAP DET
+scheme	NN
+has	VPRT PEAS
+been	PASS AUXB
+heralded	
+as	PIN CONJ PREP
+the	ART DET
+first	JJ
+example	NN
+of	PIN STPR PREP
+'	CONT QUOT
+community	NOMZ
+architecture	NN
+.	
+'	CONT QUOT
+The	ART CAP DET
+estate	NN
+still	RB
+remains	VPRT
+,	
+although	CONC PIN SCONJ PREP
+in	PIN CONJ PREP
+recent	JJ
+years	NN
+some	QUAN DET
+social	JJ
+problems	NN
+have	VPRT PEAS
+developed	
+,	
+partly	DWNT RB
+due	JJ
+to	PIN PREP
+poor	JJ
+maintenance	NN
+of	PIN PREP
+the	ART DET
+site	NN
+.	
+The	ART CAP DET
+estate	NN
+was	VBD AUXB
+grade	NN
+II	CAP NNP
+listed	
+in	PIN CONJ PREP
+2003	NUM
+The	ART CAP DET
+majority	NOMZ
+view	NN
+seems	VPRT SMP
+to	PIN TO PREP
+be	BEMA AUXB INF
+that	PIN DEMO SCONJ PREP
+the	ART DET
+Byker	CAP NNP
+development	NOMZ
+was	VBD AUXB
+'	CONT QUOT
+highly	AMP RB
+successful	JJ
+'	CONT QUOT
+and	ANDC CCONJ
+'	CONT QUOT
+set	VBD
+new	JJ
+standards	NN
+for	PIN PREP
+local	JJ
+authority	NOMZ
+housing	NN
+.	
+'(Grundy	CONT NNP
+,	
+1992	NUM
+)	
+However	RB CONJ CAP
+due	PIN PREP
+to	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+new	JJ
+housing	NN
+was	BEMA VBD AUXB
+at	PIN PREP
+a	ART DET INDA
+lower	JJ CMADJ
+density	NOMZ
+than	PIN PREP
+the	ART DET
+slums	NN
+not	XX0 RB
+all	QUAN DET
+of	PIN PREP
+the	ART DET
+community	NOMZ
+could	POMD
+be	PASS AUXB INF
+rehoused	
+in	PIN CONJ PREP
+the	ART DET
+same	JJ
+area	NN
+.	
+The	ART CAP DET
+main	JJ
+actors	NN
+in	PIN CONJ PREP
+this	DEMO DET
+development	NOMZ
+were	BEMA VBD AUXB
+the	ART DET
+architect	NN
+,	
+the	ART DET
+residents	NN
+and	CCONJ
+the	ART DET
+local	JJ
+authority	NOMZ
+.	
+Conclusion	CAP NNP
+The	ART CAP DET
+Byker	CAP NNP
+estate	NN
+and	CCONJ
+Florence	CAP NNP
+Park	CAP NNP
+estate	NN
+were	PASS VBD AUXB
+developed	
+at	PIN PREP
+different	JJ
+times	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+very	AMP RB
+different	JJ
+ways	NN
+.	
+The	ART CAP DET
+Florence	CAP NNP
+Park	CAP NNP
+estate	NN
+was	PASS VBD AUXB
+developed	
+on	PIN PREP
+greenfield	NN
+land	NN
+,	
+speculatively	RB
+,	
+by	PIN PREP
+private	JJ
+developers	NN
+for	PIN PREP
+profit	NN
+.	
+The	ART CAP DET
+Byker	CAP NNP
+estate	NN
+was	PASS VBD AUXB
+planned	
+redevelopment	NOMZ
+of	PIN PREP
+an	ART DET INDA
+area	NN
+.	
+The	ART CAP DET
+council	NN
+had	VBD
+several	QUAN JJ
+roles	NN
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+the	ART DET
+landowner	NN
+and	PHC CCONJ
+client	NN
+for	PIN PREP
+the	ART DET
+project	NN
+and	CCONJ
+the	ART DET
+development	NOMZ
+was	BEMA VBD AUXB
+for	PIN PREP
+public	JJ
+housing	NN
+.	
+The	ART CAP DET
+council	NN
+also	RB
+had	VBD
+a	ART DET INDA
+role	NN
+as	PIN CONJ PREP
+the	ART DET
+planning	NN
+authority	NOMZ
+.	
+When	RB CAP SCONJ WH
+Florence	CAP NNP
+Park	CAP NNP
+was	PASS VBD AUXB
+being	PASS AUXB
+developed	
+there	EX
+was	VBD AUXB
+not	XX0 RB
+yet	RB
+such	EMPH DET
+a	ART DET INDA
+formal	JJ
+planning	NN
+system	NN
+although	CONC PIN SCONJ PREP
+there	EX
+were	VBD AUXB
+regulations	NOMZ
+that	TSUB WHSUB WH
+should	NEMD
+have	PEAS INF
+been	PASS AUXB
+adhered	
+to	PIN STPR PREP
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+developer	NN
+was	BEMA VBD AUXB
+also	RB
+a	ART DET INDA
+councillor	NN
+,	
+there	EX
+was	VBD AUXB
+a	ART DET INDA
+conflict	NN
+of	PIN PREP
+interest	NN
+.	
+Private	JJ CAP
+developers	NN
+instigated	VBD
+the	ART DET
+development	NOMZ
+of	PIN PREP
+Florence	CAP NNP
+Park	CAP NNP
+and	CCONJ
+had	VBD
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+power	NN
+.	
+Tenants	NN CAP
+had	VBD
+no	SYNE DET
+influence	NN
+whereas	OSUB PIN SCONJ PREP
+at	PIN PREP
+Byker	CAP NNP
+the	ART DET
+tenant	NN
+'s	
+views	NN
+were	VBD AUXB
+much	QUAN RB
+more	RB EMPH CMADJ
+influential	JJ
+.	
+The	ART CAP DET
+Byker	CAP NNP
+estate	NN
+was	PASS VBD BYPA AUXB
+designed	
+by	PIN PREP
+an	ART DET INDA
+architect	NN
+,	
+and	ANDC CCONJ
+was	PASS VBD AUXB
+thought	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+very	AMP RB
+innovative	JJ
+.	
+Housing	NN CAP
+was	PASS VBD SPAU AUXB
+individually	RB
+designed	
+with	PIN PREP
+300	NUM
+different	JJ
+types	NN
+of	PIN PREP
+dwelling	NN
+which	WHSUB DET WH
+were	BEMA VBD AUXB
+of	PIN PREP
+good	JJ
+quality	NOMZ
+.	
+Florence	CAP NNP
+Park	CAP NNP
+did	VBD SPAU
+not	XX0 RB
+use	INF
+an	ART DET INDA
+architect	NN
+,	
+housing	NN
+was	BEMA VBD AUXB
+uniform	JJ PRED
+,	
+and	ANDC CCONJ
+there	EX
+were	VBD AUXB
+many	QUAN JJ
+complaints	NN
+about	PIN PREP
+the	ART DET
+standards	NN
+of	PIN PREP
+its	PIT PRP SBJP
+design	NN
+.	
+Tenants	NN CAP
+were	VBD AUXB
+much	QUAN RB
+more	RB EMPH CMADJ
+satisfied	JJ
+with	PIN PREP
+the	ART DET
+housing	NN
+at	PIN PREP
+Byker	CAP NNP
+.	
+These	DEMO CAP DET
+two	NUM
+examples	NN
+demonstrate	VPRT PRIV
+that	PIN THVC SCONJ PREP
+urban	JJ
+areas	NN
+are	PASS VPRT BYPA AUXB
+shaped	
+by	PIN PREP
+a	ART DET INDA
+combination	NOMZ
+of	PIN PREP
+influences	NN
+and	PHC CCONJ
+interactions	NOMZ
+between	PIN PREP
+different	JJ
+actors	NN
+,	
+who	WHQU WH
+have	VPRT
+varying	PGAS
+degrees	NN
+of	PIN PREP
+power	NN
+in	PIN CONJ PREP
+the	ART DET
+development	NOMZ
+process	NN
+.	
+These	DEMO CAP DET
+different	JJ
+influences	NN
+are	BEMA VPRT AUXB
+apparent	JJ PRED
+in	PIN CONJ PREP
+the	ART DET
+final	JJ
+form	NN
+of	PIN PREP
+the	ART DET
+built	
+environment	NOMZ
+.	

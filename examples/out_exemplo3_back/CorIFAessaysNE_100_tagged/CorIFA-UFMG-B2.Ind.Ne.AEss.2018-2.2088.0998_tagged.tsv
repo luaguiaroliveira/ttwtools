@@ -1,0 +1,1461 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2088.0998.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2018	CAP NNP
+-	
+2.2088.0998	NUM
+>	X
+  	
+<	X
+MATERIAL	NN CAP
+CULTURE	NN CAP
+AND	PHC CAP CCONJ
+PAST	NN CAP
+AS	CONJ CAP NNP
+EXPERIENCE	NN CAP
+OF	PIN CAP PREP
+CONSUME	CAP NNP
+IN	PIN CONJ CAP PREP
+CONTEMPORARY	CAP NNP
+>	NNP
+  	
+Material	NN CAP
+culture	NN
+studies	NN
+shows	VPRT PRIV
+the	ART DET
+multiplicity	NOMZ
+of	PIN PREP
+object	PUBV NN
+functions	NOMZ
+and	CCONJ
+their	TPP3 PRP SBJP
+relevance	NN
+to	PIN PREP
+humans	NN
+.	
+Objects	PUBV NN CAP
+remains	VPRT
+the	ART DET
+setting	NN
+of	PIN PREP
+human	JJ
+societies	NN
+,	
+their	TPP3 PRP SBJP
+ability	NOMZ
+to	PIN TO PREP
+interfere	INF
+at	PIN PREP
+the	ART DET
+environment	NOMZ
+changing	WZPRES PGAS
+the	ART DET
+nature	NN
+landscape	NN
+to	PIN TO PREP
+built	
+their	TPP3 PRP SBJP
+own	JJ
+ones	NN
+thru	PIN PREP
+at	PIN PREP
+the	ART DET
+time	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+brief	JJ
+analyse	NN
+,	
+human	JJ
+societies	NN
+seems	VPRT SMP
+to	PIN TO PREP
+configure	INF
+themselves	TPP3 PRP SBJP ACCU
+measured	
+by	PIN PREP
+objects	PUBV NN
+.	
+Once	RB TIME CAP
+into	PIN PREP
+society	NN
+as	PIN CONJ PREP
+an	ART DET INDA
+specie	NN
+of	PIN PREP
+reason	PRIV NN
+for	PIN PREP
+what	WH
+people	NN
+organize	VPRT
+their	TPP3 PRP SBJP
+lives	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+territory	NN
+and	CCONJ
+built	VBD
+systems	NN
+of	PIN PREP
+distinction	NOMZ
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+,	
+objects	PUBV NN
+becomes	VPRT
+to	PIN PREP
+human	JJ
+beings	NN
+the	ART DET
+more	JJ EMPH CMADJ
+than	PIN PREP
+a	ART DET INDA
+reason	PRIV NN
+why	RB WHOBJ WHCL SCONJ WH
+they	TPP3 PRP SBJP
+expand	VPRT
+themselves	TPP3 PRP SBJP ACCU
+into	PIN PREP
+territory	NN
+and	CCONJ
+change	INF
+the	ART DET
+environment	NOMZ
+landscape	NN
+;	
+they	TPP3 PRP SBJP
+establish	VPRT PRIV
+a	ART DET INDA
+certain	JJ
+supremacy	NN
+in	PIN CONJ PREP
+it	PIT PRP SBJP
+and	CCONJ
+attribute	INF
+to	PIN PREP
+the	ART DET
+object	PUBV NN
+different	JJ
+meanings	NN
+and	PHC CCONJ
+uses	NN
+.	
+Every	QUAN CAP DET
+object	PUBV NN
+is	BEMA VPRT AUXB
+functional	JJ PRED
+:	
+they	TPP3 PRP SBJP
+obtain	VPRT
+a	ART DET INDA
+social	JJ
+life	NN
+,	
+which	SERE DET WH
+their	TPP3 PRP SBJP
+uses	NN
+depend	VPRT
+of	PIN PREP
+social	JJ
+class	NN
+,	
+gender	NN
+and	CCONJ
+personal	JJ
+interest	NN
+,	
+which	SERE DET WH
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+people	NN
+attribute	VPRT
+many	QUAN JJ
+values	NN
+as	PIN CONJ PREP
+aesthetic	JJ
+,	
+ethnic	JJ
+,	
+historical	JJ
+,	
+documental	NN
+,	
+functional	JJ
+,	
+merchandise	NN
+,	
+technical	JJ
+,	
+etc	X
+.	
+It	PIT CAP PRP SBJP
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+objects	PUBV NN
+are	VPRT AUXB
+mechanism	NN
+that	TSUB WHSUB WH
+materialize	VPRT
+ideas	NN
+,	
+emotional	JJ
+expression	NOMZ
+,	
+provision	NOMZ
+of	PIN PREP
+services	NN
+,	
+exchange	NN
+,	
+etc	X
+.	X
+There	EX CAP
+is	VPRT AUXB
+an	ART DET INDA
+specific	JJ
+importance	NN
+of	PIN PREP
+objects	PUBV NN
+to	PIN PREP
+human	JJ
+beings	NN
+that	TSUB WHSUB WH
+'s	VPRT
+the	ART DET
+main	NN
+of	PIN PREP
+material	NN
+culture	NN
+studies	NN
+:	
+they	TPP3 PRP SBJP
+compose	VPRT
+the	ART DET
+scenery	NN
+where	RB WHOBJ SCONJ WH
+history	NN
+pass	INF
+thru	PIN STPR NN PREP
+.	
+Meaning	PRIV NN CAP
+and	PHC CCONJ
+uses	NN
+of	PIN PREP
+these	DEMO DET
+objects	PUBV NN
+turns	VPRT
+possible	JJ
+analyze	VPRT
+the	ART DET
+social	JJ
+structure	NN
+,	
+the	ART DET
+influence	NN
+of	PIN PREP
+some	QUAN DET
+type	NN
+of	PIN PREP
+professional	JJ
+and	CCONJ
+the	ART DET
+relation	NOMZ
+between	PIN PREP
+social	JJ
+classes	NN
+,	
+gender	NN
+and	CCONJ
+the	ART DET
+subjectivity	NOMZ
+of	PIN PREP
+these	DEMO DET
+one	NUM
+.	
+Thus	RB CONJ CAP
+it	PIT PRP SBJP
+whether	PIN SCONJ PREP
+object	PUBV NN
+measure	NN
+human	JJ
+relations	NOMZ
+,	
+his	TPP3 PRP SBJP
+experience	NN
+in	PIN CONJ PREP
+environment	NOMZ
+produce	VPRT
+memories	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+bases	NN
+of	PIN PREP
+tradition	NOMZ
+and	PHC CCONJ
+unity	NOMZ
+of	PIN PREP
+these	DEMO DET
+societies	NN
+.	
+ 	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+human	JJ
+experience	NN
+in	PIN CONJ PREP
+environment	NOMZ
+which	WHSUB DET WH
+turns	VPRT
+possible	JJ
+the	ART DET
+exchange	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+experiences	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+territory	NN
+,	
+once	RB TIME
+shared	
+into	PIN PREP
+groups	NN
+,	
+memories	VPRT
+propitiate	JJ
+identification	NOMZ
+between	PIN PREP
+people	NN
+and	CCONJ
+them	TPP3 PRP SBJP ACCU
+with	PIN PREP
+things	NN
+that	TSUB WHSUB WH
+compose	VPRT
+the	ART DET
+environment	NOMZ
+.	
+It	PIT CAP PRP SBJP
+turns	VPRT
+possibile	JJ
+to	PIN TO PREP
+say	PUBV INF
+that	PIN THVC SCONJ PREP
+human	JJ
+experience	NN
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+is	BEMA VPRT AUXB
+essentially	RB
+sensorial	JJ
+,	
+communicative	JJ
+and	PHC CCONJ
+interpretative	JJ
+ones	NN
+.	
+That	DEMP CAP DET
+is	BEMA VPRT AUXB
+the	ART DET
+main	NN
+of	PIN PREP
+groups	NN
+and	PHC CCONJ
+society	NN
+:	
+the	ART DET
+exchange	NN
+of	PIN PREP
+memories	NN
+shared	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+same	JJ
+context	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+territory	NN
+cause	NN
+identification	NOMZ
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+inserted	
+as	PIN CONJ PREP
+element	NOMZ
+that	TSUB WHSUB WH
+compose	VPRT
+someone	QUPR INPR
+or	CCONJ
+some	QUAN DET
+group	NN
+subjectivity	NOMZ
+.	
+ 	
+Although	CONC PIN STPR CAP SCONJ PREP
+,	
+in	PIN CONJ PREP
+modern	JJ
+society	NN
+,	
+measured	PASTP
+by	PIN PREP
+techniques	NN
+and	CCONJ
+constant	JJ
+culture	NN
+update	NN
+,	
+which	SERE DET WH
+notion	NOMZ
+of	PIN PREP
+time	NN
+is	PASS VPRT BYPA AUXB
+marked	
+by	PIN PREP
+rupture	NN
+between	PIN PREP
+past	NN
+,	
+present	JJ
+and	CCONJ
+future	NN
+-	
+past	NN
+becomes	VPRT
+some	QUAN DET
+unusual	JJ
+,	
+a	ART DET INDA
+memory	NN
+that	TSUB WHSUB WH
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+revived	
+into	PIN PREP
+nowadays	RB TIME
+or	CCONJ
+their	TPP3 PRP SBJP
+culture	NN
+and	PHC CCONJ
+material	NN
+elements	NOMZ
+exactly	RB
+way	NN
+they	TPP3 PRP SBJP
+were	VBD AUXB
+can	POMD SPAU
+not	XX0 RB
+become	INF
+an	ART DET INDA
+experience	NN
+in	PIN CONJ PREP
+present	JJ
+-	
+objects	PUBV NN
+gain	VPRT
+a	ART DET INDA
+social	JJ
+life	NN
+,	
+which	SERE DET WH
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+relevance	VPRT
+,	
+fabrication	NOMZ
+of	PIN PREP
+certain	JJ
+serial	JJ
+model	NN
+or	CCONJ
+even	RB
+that	DEMO DET
+type	NN
+of	PIN PREP
+object	PUBV NN
+may	POMD
+be	PASS BYPA AUXB INF
+substituted	
+by	PIN PREP
+other	JJ
+technique	NN
+that	TSUB WHSUB WH
+stimulate	VPRT
+consume	NN
+trends	NN
+and	CCONJ
+turns	VPRT
+it	PIT PRP SBJP
+obsolete	JJ
+in	PIN CONJ PREP
+a	ART DET INDA
+short	JJ
+period	NN
+of	PIN PREP
+time	NN
+.	
+Therefore	RB CONJ CAP
+,	
+objects	PUBV NN
+can	POMD
+be	PASS BYPA AUXB INF
+seen	PRIV
+by	PIN PREP
+two	NUM
+optical	JJ
+:	
+(	
+1	X
+)	
+it	PIT PRP SBJP
+got	VBD
+some	QUAN DET
+merchandise	NN
+value	NN
+or	CCONJ
+,	
+(	
+2	X
+)	
+in	PIN CONJ PREP
+other	JJ
+hand	NN
+,	
+they	TPP3 PRP SBJP
+does	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+relevant	JJ
+monetary	JJ
+value	NN
+that	TSUB WHSUB WH
+justify	VPRT
+keep	VPRT
+it	PIT PRP SBJP
+on	PIN PREP
+hold	PRIV NN
+,	
+but	CCONJ
+it	PIT PRP SBJP
+compose	VPRT
+someone	QUPR INPR
+’s	
+collection	NOMZ
+thus	RB CONJ
+relevance	VPRT
+it	PIT PRP SBJP
+got	VBD
+to	PIN TO PREP
+collector	NN
+’s	
+memory	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+his	TPP3 PRP SBJP
+reflection	NOMZ
+about	PIN PREP
+objects	PUBV NN
+biography	NN
+,	
+Bonnot	CAP NNP
+(	
+2015	NUM
+)	
+talks	NN
+about	PIN PREP
+the	ART DET
+experience	NN
+of	PIN PREP
+Creusot	CAP NNP
+-	
+Montceau	CAP NNP
+ecomuseum	NN
+,	
+Saone	CAP NNP
+-	
+et	NNP
+-	
+Loire	CAP NNP
+,	
+in	PIN CONJ PREP
+France	CAP NNP
+.	
+During	PIN CAP PREP
+1990	NUM
+’s	NN
+,	
+the	ART DET
+ecomuseum	NN
+started	VBD
+a	ART DET INDA
+deep	JJ
+study	NN
+about	PIN PREP
+ceramic	JJ
+industry	NN
+in	PIN CONJ PREP
+that	DEMO DET
+region	NN
+during	PIN PREP
+XIX	CAP NNP
+and	PHC CCONJ
+XX	CAP NNP
+centuries	NN
+.	
+In	PIN CONJ CAP PREP
+1998	NUM
+,	
+they	TPP3 PRP SBJP
+received	VBD
+a	ART DET INDA
+letter	NN
+asking	WZPRES SUAV PGAS
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+got	VBD
+some	QUAN DET
+about	PIN PREP
+a	ART DET INDA
+19th	JJ
+century	NN
+cider	NN
+bottle	NN
+found	PRIV WZPAST
+near	PIN PLACE PREP
+Creusot	CAP NNP
+-	
+Montceau	CAP NNP
+.	
+Archaeologists	NN CAP
+found	VBD PRIV
+this	DEMO DET
+bottle	NN
+composing	WZPRES PGAS
+the	ART DET
+church	NN
+wall	NN
+.	
+Allied	PASTP CAP
+to	PIN PREP
+archaeologists	NN
+the	ART DET
+ecomuseum	NN
+started	VBD
+a	ART DET INDA
+new	JJ
+research	NN
+about	PIN PREP
+the	ART DET
+bottle	NN
+social	JJ
+life	NN
+,	
+tracing	PGAS
+in	PIN CONJ PREP
+that	DEMO DET
+territory	NN
+possibilities	NN
+of	PIN PREP
+uses	NN
+that	DEMO DET
+bottle	NN
+would	PRMD
+had	
+in	PIN CONJ PREP
+the	ART DET
+past	NN
+,	
+the	ART DET
+manufacturing	GER PGAS
+technique	NN
+,	
+and	ANDC CCONJ
+consequently	RB CONJ
+,	
+social	JJ
+relations	NOMZ
+traced	WZPAST
+by	PIN PREP
+consume	NN
+and	PHC CCONJ
+fabrication	NOMZ
+of	PIN PREP
+cider	NN
+and	CCONJ
+the	ART DET
+bottle	NN
+.	
+They	TPP3 CAP PRP SBJP
+discovered	VBD PRIV
+the	ART DET
+family	NN
+'s	
+producer	NN
+bottle	NN
+collection	NOMZ
+;	
+they	TPP3 PRP SBJP
+documented	VBD
+deployments	NOMZ
+of	PIN PREP
+artisans	NN
+and	CCONJ
+collected	VBD
+material	NN
+evidences	NN
+in	PIN CONJ PREP
+situ	NNP
+.	
+Actually	RB CAP
+,	
+this	DEMO DET
+bottle	NN
+is	PASS VPRT AUXB
+exposed	
+in	PIN CONJ PREP
+Saone	CAP NNP
+-	
+et	NN
+-	
+Loire	CAP NNP
+ecomuseum	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+brief	JJ
+example	NN
+,	
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+merchandise	NN
+cider	NN
+value	NN
+to	PIN PREP
+the	ART DET
+detriment	NOMZ
+at	PIN PREP
+the	ART DET
+bottle	NN
+.	
+It	PIT CAP PRP SBJP
+does	VPRT PROD SPAU
+n’t	RB
+had	VBD
+exchange	NN
+value	NN
+.	
+So	RB CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+any	QUAN DET
+recipient	NN
+:	
+discarded	
+,	
+used	PASTP
+to	PIN PREP
+many	QUAN JJ
+other	JJ
+way	NN
+which	WHOBJ DET WH
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+possible	JJ PRED
+to	PIN TO PREP
+serve	INF
+to	PIN PREP
+people	NN
+interest	NN
+and	PHC CCONJ
+needs	NN
+.	
+  	
+I	FPP1 CAP PRP SBJP
+-	
+ 	
+Material	CAP NNP
+Culture	CAP NNP
+and	CCONJ
+identity	NOMZ
+in	PIN CONJ PREP
+contemporary	JJ
+  	
+Specially	CAP NNP
+in	PIN CONJ PREP
+XX	CAP NNP
+and	PHC CCONJ
+XXI	CAP NNP
+centuries	NN
+,	
+when	RB SCONJ WH
+industry	NN
+start	VPRT
+to	PIN TO PREP
+fabricate	INF
+in	PIN CONJ PREP
+large	JJ
+scale	NN
+and	CCONJ
+uses	VPRT
+technological	JJ
+,	
+semiotical	JJ
+and	CCONJ
+design	NN
+updates	NN
+as	PIN CONJ PREP
+resources	NN
+to	PIN TO PREP
+stimulate	INF
+the	ART DET
+consume	NN
+,	
+culture	NN
+becomes	VPRT
+a	ART DET INDA
+dispositive	JJ
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+manipulated	
+also	RB
+by	PIN PREP
+market	NN
+.	
+Until	PIN CAP PREP
+first	JJ
+decades	NN
+of	PIN PREP
+19th	JJ
+century	NN
+,	
+the	ART DET
+cultural	JJ
+logic	NN
+was	PASS VBD BYPA AUXB
+thought	PRIV
+by	PIN PREP
+royalty	NN
+and	CCONJ
+the	ART DET
+ascendant	NNP
+bourgeoisie	NN
+.	
+In	PIN CONJ CAP PREP
+20th	NN
+,	
+the	ART DET
+logic	NN
+of	PIN PREP
+equality	NOMZ
+of	PIN PREP
+people	NN
+and	CCONJ
+the	ART DET
+consume	NN
+empowerment	NOMZ
+,	
+insert	INF
+a	ART DET INDA
+new	JJ
+conception	NOMZ
+of	PIN PREP
+culture	NN
+interested	WZPAST
+in	PIN CONJ PREP
+folk	NN
+,	
+popular	JJ
+artisan	JJ
+and	CCONJ
+art	NN
+creations	NOMZ
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+context	NN
+,	
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+measured	
+by	PIN PREP
+three	NUM
+agents	NN
+that	DEMO WHOBJ WH
+manipulate	NN
+culture	NN
+:	
+(	
+1	X
+)	
+government	NOMZ
+,	
+(	
+2	NUM
+)	
+industry	NN
+market	NN
+and	CCONJ
+(	
+3	X
+)	
+cultural	JJ
+industry	NN
+that	TSUB WHSUB WH
+stimulate	VPRT
+the	ART DET
+consume	NN
+articulating	GER WZPRES PGAS
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+public	JJ
+policies	NN
+and	PHC CCONJ
+trends	NN
+.	
+ 	
+According	CAP PGAS
+to	PIN PREP
+Canclini	CAP NNP
+(	
+1989	NUM
+)	
+,	
+in	PIN CONJ PREP
+modern	JJ
+society	NN
+culture	NN
+becomes	VPRT
+a	ART DET INDA
+sharing	PGAS
+ideas	NN
+and	PHC CCONJ
+conduction	NOMZ
+measured	WZPAST
+by	PIN PREP
+institutions	NOMZ
+as	PIN CONJ PREP
+schools	NN
+,	
+museums	NN
+,	
+library	NN
+,	
+ 	
+cine	NN
+,	
+a	ART DET INDA
+new	JJ
+conception	NOMZ
+of	PIN PREP
+family	NN
+and	CCONJ
+the	ART DET
+social	JJ
+paper	NN
+of	PIN PREP
+religion	NN
+,	
+and	ANDC CCONJ
+exploration	NOMZ
+of	PIN PREP
+folk	NN
+culture	NN
+as	PIN CONJ PREP
+tourism	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+ 	
+society	NN
+that	TSUB WHSUB WH
+project	VPRT
+themself	PRP SBJP ACCU
+to	PIN PREP
+future	NN
+and	PHC CCONJ
+progress	NN
+which	WHSUB DET WH
+will	PRMD
+come	INF
+producing	PGAS
+ideas	NN
+,	
+knowledge	NN
+,	
+technology	NN
+and	PHC CCONJ
+things	NN
+in	PIN CONJ PREP
+large	JJ
+scale	NN
+,	
+in	PIN CONJ PREP
+other	JJ
+words	NN
+,	
+a	ART DET INDA
+society	NN
+organized	
+and	PHC CCONJ
+structured	
+to	PIN TO PREP
+serves	VPRT
+the	ART DET
+capital	NN
+interest	NN
+the	ART DET
+tradition	NOMZ
+get	VPRT
+lose	JJ
+on	PIN PREP
+cities	NN
+flows	NN
+,	
+in	PIN CONJ PREP
+the	ART DET
+shot	JJ
+free	JJ
+hour	NN
+.	
+ 	
+Here	RB CAP
+,	
+we	FPP1 PRP SBJP
+back	RB
+to	PIN TO PREP
+start	INF
+of	PIN PREP
+text	NN
+:	
+whether	PIN SCONJ PREP
+ 	
+memory	NN
+is	BEMA VPRT AUXB
+the	ART DET
+result	NN
+of	PIN PREP
+cognition	NOMZ
+of	PIN PREP
+experience	NN
+,	
+and	ANDC CCONJ
+human	JJ
+experience	NN
+is	PASS VPRT BYPA AUXB
+measured	
+by	PIN PREP
+things	NN
+,	
+a	ART DET INDA
+large	JJ
+scale	NN
+production	NOMZ
+causes	VPRT
+a	ART DET INDA
+memory	NN
+crisis	NN
+.	
+What	CAP WH
+I	FPP1 CAP PRP SBJP
+intends	VPRT SUAV
+to	PIN TO PREP
+talk	INF
+about	PIN PREP
+is	VPRT AUXB
+not	XX0 RB
+necessarily	RB
+the	ART DET
+modernist	JJ
+crisis	NN
+caused	WZPAST
+by	PIN PREP
+I	FPP1 CAP PRP SBJP
+and	CCONJ
+II	CAP NNP
+wars	NN
+and	CCONJ
+all	QUAN DET
+disasters	NN
+that	TSUB WHSUB WH
+involved	VBD
+the	ART DET
+technology	NN
+'s	
+experience	NN
+in	PIN CONJ PREP
+20th	JJ
+century	NN
+'s	
+and	CCONJ
+provoke	INF
+a	ART DET INDA
+certain	JJ
+fear	PRIV NN
+about	PIN PREP
+future	NN
+.	
+I	FPP1 CAP PRP SBJP
+admit	VPRT PUBV THATD
+that	DEMP DET
+is	BEMA VPRT AUXB
+inextricable	JJ
+link	NN
+between	PIN PREP
+this	DEMP DET
+and	ANDC CCONJ
+what	WH
+about	PIN PREP
+to	PIN TO PREP
+say	PUBV INF
+,	
+but	CCONJ
+I	FPP1 CAP PRP SBJP
+want	VPRT
+to	PIN TO PREP
+show	PRIV INF
+other	JJ
+approach	NN
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+focused	
+on	PIN PREP
+material	NN
+culture	NN
+studies	NN
+about	PIN PREP
+memory	NN
+which	WHSUB DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+valuation	NOMZ
+of	PIN PREP
+elements	NOMZ
+of	PIN PREP
+past	NN
+in	PIN CONJ PREP
+contemporary	NNP
+.	
+I	FPP1 CAP PRP SBJP
+argue	VPRT PUBV
+that	PIN THVC SCONJ PREP
+market	NN
+serial	NN
+updates	NN
+in	PIN CONJ PREP
+short	JJ
+time	NN
+to	PIN TO PREP
+stimulate	INF
+the	ART DET
+consume	NN
+can	POMD
+cause	INF
+in	PIN CONJ PREP
+people	NN
+a	ART DET INDA
+certain	JJ
+aspect	NN
+of	PIN PREP
+FOMO	NN CAP
+(	
+Fear	PRIV NN CAP
+of	PIN PREP
+Missing	CAP PGAS
+Out	PIN STPR CAP PREP NNP
+)	
+,	
+inducing	PRESP PGAS
+them	TPP3 PRP SBJP ACCU
+ 	
+to	PIN TO PREP
+think	PRIV THATD INF
+that	PIN DEMP SCONJ PREP
+lives	VPRT
+in	PIN CONJ PREP
+society	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+adapt	INF
+and	PHC CCONJ
+follow	INF
+trends	NN
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+case	NN
+,	
+the	ART DET
+consume	NN
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+hand	NN
+,	
+the	ART DET
+nostalgic	JJ
+feeling	PRIV NN
+about	PIN PREP
+using	PGAS
+something	QUPR INPR
+in	PIN CONJ PREP
+a	ART DET INDA
+certain	JJ
+time	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+lives	NN
+,	
+in	PIN CONJ PREP
+nowadays	RB TIME
+,	
+is	PASS VPRT AUXB
+seem	SMP
+to	PIN PREP
+industry	NN
+'s	
+as	PIN CONJ PREP
+a	ART DET INDA
+market	NN
+share	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+explored	
+by	PIN PREP
+them	TPP3 PRP SBJP ACCU
+with	PIN PREP
+new	JJ
+products	NN
+with	PIN PREP
+vintage	JJ
+aesthetic	JJ
+and	CCONJ
+technology	NN
+optimization	NOMZ
+.	
+ 	
+This	DEMO CAP DET
+memory	NN
+crisis	NN
+also	RB
+is	BEMA VPRT AUXB
+a	ART DET INDA
+identity	NOMZ
+ones	NN
+.	
+Once	RB TIME CAP
+in	PIN CONJ PREP
+society	NN
+that	DEMO WHOBJ WH
+ 	
+work	NN
+for	PIN PREP
+progress	NN
+people	NN
+have	VPRT
+no	SYNE DET
+more	JJ EMPH CMADJ
+a	ART DET INDA
+perception	NOMZ
+about	PIN PREP
+themselves	TPP3 PRP SBJP ACCU
+ 	
+separated	VBD
+of	PIN PREP
+their	TPP3 PRP SBJP
+job	NN
+and	ANDC CCONJ
+what	WH
+it	PIT PRP SBJP
+consumes	VPRT
+.	
+ 	
+The	ART CAP DET
+subjectivity	NOMZ
+is	PASS VPRT BYPA AUXB
+built	
+by	PIN PREP
+it	PIT PRP SBJP
+identification	NOMZ
+.	
+Differently	RB CAP
+,	
+in	PIN CONJ PREP
+traditional	JJ
+societies	NN
+,	
+the	ART DET
+subjectivity	NOMZ
+is	BEMA VPRT AUXB
+main	JJ PRED
+of	PIN PREP
+compilation	NOMZ
+of	PIN PREP
+religion	NN
+,	
+the	ART DET
+cyclical	JJ
+perception	NOMZ
+of	PIN PREP
+ 	
+time	NN
+,	
+memory	NN
+and	CCONJ
+the	ART DET
+interpretative	JJ
+knowledge	NN
+about	PIN PREP
+reality	NOMZ
+.	
+So	RB CAP
+,	
+here	RB
+,	
+the	ART DET
+person	NN
+is	VPRT AUXB
+agent	NN
+that	TSUB WHSUB WH
+follow	VPRT
+a	ART DET INDA
+millennial	JJ
+tradition	NOMZ
+and	CCONJ
+grasp	INF
+itself	PIT PRP SBJP ACCU
+as	PIN CONJ PREP
+unity	NOMZ
+with	PIN PREP
+well	RB
+defined	
+importance	NN
+to	PIN PREP
+it	PIT PRP SBJP
+social	JJ
+ 	
+structure	NN
+.	
+In	PIN CONJ CAP PREP
+both	DET
+case	NN
+,	
+the	ART DET
+material	NN
+culture	NN
+measure	NN
+their	TPP3 PRP SBJP
+ethnic	JJ
+identity	NOMZ
+and	CCONJ
+their	TPP3 PRP SBJP
+subjectivity	NOMZ
+construction	NOMZ
+vary	VPRT
+by	PIN PREP
+social	JJ
+setting	NN
+.	
+In	PIN CONJ CAP PREP
+traditional	JJ
+one	NUM
+,	
+time	NN
+is	VPRT AUXB
+ 	
+a	ART DET INDA
+cycle	NN
+and	PHC CCONJ
+past	NN
+is	PASS VPRT AUXB
+revived	
+in	PIN CONJ PREP
+commemorative	JJ
+dates	NN
+and	PHC CCONJ
+sazon	NN
+.	
+The	ART CAP DET
+social	JJ
+memory	NN
+is	PASS VPRT SPAU AUXB
+constantly	RB
+revived	
+and	PHC CCONJ
+reaffirmed	
+by	PIN PREP
+preservation	NOMZ
+of	PIN PREP
+practices	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+transmission	NOMZ
+to	PIN PREP
+new	JJ
+generations	NOMZ
+.	
+But	CAP CCONJ
+,	
+in	PIN CONJ PREP
+complex	JJ
+societies	NN
+,	
+time	NN
+is	PASS VPRT AUXB
+separated	
+.	
+Past	NN CAP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+some	QUAN DET
+that	DEMP WH
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+revived	
+or	CCONJ
+experimented	
+in	PIN CONJ PREP
+nowadays	RB TIME
+.	
+What	CAP WH
+it	PIT PRP SBJP
+got	VBD
+from	PIN PREP
+the	ART DET
+past	NN
+is	BEMA VPRT AUXB
+brief	JJ
+references	NN
+or	CCONJ
+it	PIT PRP SBJP
+aesthetic	JJ
+adaptation	NOMZ
+.	

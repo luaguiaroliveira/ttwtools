@@ -1,0 +1,942 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2473.1319.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2019	CAP NNP
+-	
+2.2473.1319	NNP
+>	NNP
+  	
+<	X
+STEEL	NN CAP
+ANGLE	CAP NNP
+SECTION	NOMZ CAP
+IN	PIN CONJ CAP PREP
+ENGINEERING	CAP NNP
+>	X
+  	
+The	ART CAP DET
+angle	NN
+section	NOMZ
+is	BEMA VPRT AUXB
+an	ART DET INDA
+L	NN CAP
+-	
+shaped	
+type	NN
+of	PIN PREP
+cross	NN
+section	NOMZ
+of	PIN PREP
+steel	NN
+products	NN
+.	
+It	PIT CAP PRP SBJP
+consists	VPRT
+of	PIN PREP
+two	NUM
+legs	NN
+of	PIN PREP
+equal	JJ
+or	CCONJ
+unequal	JJ
+length	NN
+,	
+with	PIN PREP
+90	NUM
+degrees	NN
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+These	DEMO CAP DET
+sections	NOMZ
+are	PASS VPRT SPAU AUXB
+often	RB
+used	
+with	PIN PREP
+two	NUM
+angles	NN
+placed	WZPAST
+back	RB
+to	PIN PREP
+back	RB
+and	CCONJ
+connected	
+by	PIN PREP
+bolts	NN
+or	CCONJ
+welds	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+that	PIN THAC SCONJ PREP
+the	ART DET
+two	NUM
+single	JJ
+sections	NOMZ
+are	PASS VPRT AUXB
+tied	
+to	PIN TO PREP
+prevent	INF
+them	TPP3 PRP SBJP ACCU
+from	PIN PREP
+buckle	NN
+individually	RB
+.	
+The	ART CAP DET
+distance	NN
+between	PIN PREP
+the	ART DET
+angles	NN
+can	POMD
+be	PASS BYPA AUXB INF
+defined	
+by	PIN PREP
+the	ART DET
+thickness	NOMZ
+of	PIN PREP
+the	ART DET
+plates	NN
+.	
+ 	
+The	ART CAP DET
+manufacturing	GER
+process	NN
+can	POMD
+be	BEMA AUXB INF
+cold	JJ PRED
+formed	
+when	RB SCONJ WH
+the	ART DET
+conformation	NOMZ
+process	NN
+takes	VPRT
+place	NN
+at	PIN PREP
+room	NN
+temperature	NN
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+process	NN
+involves	VPRT
+rolling	PGAS
+the	ART DET
+steel	NN
+above	PIN PLACE PREP
+the	ART DET
+recrystallization	NOMZ
+temperature	NN
+,	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+called	
+hot	JJ
+rolled	
+.	
+Cold	JJ CAP
+formed	
+steel	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+expensive	JJ
+than	PIN PREP
+hot	JJ
+rolled	
+but	CCONJ
+also	RB
+has	VPRT
+less	JJ CMADJ
+residual	JJ
+stress	NN
+.	
+Each	QUAN CAP DET
+case	NN
+is	PASS VPRT AUXB
+approached	
+differently	RB
+as	PIN CONJ PREP
+the	ART DET
+process	NN
+directly	RB
+influences	VPRT
+the	ART DET
+section	NOMZ
+properties	NN
+.	
+ 	
+Countless	JJ CAP
+steel	NN
+constructions	NOMZ
+use	VPRT
+angle	NN
+sections	NOMZ
+.	
+According	CAP PGAS
+to	PIN PREP
+Junyor	CAP NNP
+(	
+2019	NUM
+)	
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+due	JJ PRED
+to	PIN PREP
+a	ART DET INDA
+high	JJ
+structural	JJ
+efficiency	NN
+,	
+an	ART DET INDA
+elevated	JJ
+strength	NN
+and	CCONJ
+a	ART DET INDA
+low	JJ
+weight	NN
+.	
+He	TPP3 CAP PRP SBJP
+also	RB
+describes	VPRT
+this	DEMO DET
+type	NN
+of	PIN PREP
+section	NOMZ
+as	PIN CONJ PREP
+being	BEMA AUXB
+easier	JJ PRED CMADJ
+to	PIN TO PREP
+produce	INF
+and	CCONJ
+to	PIN TO PREP
+connect	INF
+,	
+being	PASS PRESP SPAU AUXB
+widely	RB
+used	
+in	PIN CONJ PREP
+buildings	NN
+,	
+sheds	VPRT
+and	PHC CCONJ
+bracing	PGAS
+structures	NN
+.	
+ 	
+Generally	RB CAP
+,	
+the	ART DET
+angle	NN
+section	NOMZ
+in	PIN CONJ PREP
+traction	NOMZ
+is	PASS VPRT BYPA AUXB
+tied	
+by	PIN PREP
+one	NUM
+leg	NN
+,	
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+transmission	NOMZ
+towers	NN
+and	CCONJ
+truss	JJ
+systems	NN
+.	
+Vasconcelos	CAP NNP
+et	NNP
+al	NNP
+(	
+2005	NUM
+)	
+explain	VPRT PUBV
+that	PIN THVC SCONJ PREP
+these	DEMO DET
+eccentric	JJ
+connections	NOMZ
+,	
+which	SERE DET WH
+not	XX0 RB
+all	QUAN DET
+members	NN
+are	PASS VPRT AUXB
+attached	
+,	
+lead	INF
+to	PIN PREP
+irregular	JJ
+stress	NN
+distributions	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+bonded	
+region	NN
+.	
+Therefore	RB CONJ CAP
+,	
+the	ART DET
+loads	NN
+tend	VPRT
+to	PIN TO PREP
+concentrate	INF
+more	RB EMPH CMADJ
+on	PIN PREP
+the	ART DET
+connected	JJ
+elements	NOMZ
+than	PIN PREP
+at	PIN PREP
+the	ART DET
+untied	JJ
+ones	NN
+.	
+This	DEMO CAP DET
+effect	NN
+is	PASS VPRT AUXB
+known	PRIV
+as	PIN CONJ PREP
+shear	NN
+lag	NN
+and	CCONJ
+reduces	VPRT
+the	ART DET
+ultimate	JJ
+strength	NN
+of	PIN PREP
+the	ART DET
+element	NOMZ
+.	
+ 	
+Other	JJ CAP
+factors	NN
+influence	VPRT
+the	ART DET
+allowable	JJ
+tensile	JJ
+strength	NN
+,	
+for	PIN PREP
+example	NN
+,	
+whether	PIN SCONJ PREP
+the	ART DET
+connections	NOMZ
+are	PASS VPRT AUXB
+bolted	
+or	CCONJ
+welded	
+.	
+When	RB CAP SCONJ WH
+bolted	
+,	
+the	ART DET
+opening	NN
+must	NEMD
+be	PASS AUXB INF
+removed	
+from	PIN PREP
+the	ART DET
+gross	JJ
+area	NN
+,	
+defining	PRESP PGAS
+the	ART DET
+net	JJ
+area	NN
+.	
+The	ART CAP DET
+effective	JJ
+net	JJ
+area	NN
+is	BEMA VPRT AUXB
+the	ART DET
+one	NN
+that	TSUB WHSUB WH
+takes	VPRT
+into	PIN PREP
+account	NN
+these	DEMO DET
+two	NUM
+previous	JJ
+facts	NN
+:	
+the	ART DET
+presence	NN
+of	PIN PREP
+holes	NN
+and	CCONJ
+the	ART DET
+eccentricity	NOMZ
+of	PIN PREP
+the	ART DET
+connection	NOMZ
+.	
+ 	
+Despite	PIN CAP SCONJ PREP
+its	PIT PRP SBJP
+apparent	JJ
+simplicity	NOMZ
+and	PHC CCONJ
+ease	NN
+of	PIN PREP
+use	NN
+,	
+angle	INF
+analysis	NN
+and	PHC CCONJ
+sizing	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+simple	JJ
+.	
+ 	
+The	ART CAP DET
+structural	JJ
+steel	NN
+construction	NOMZ
+design	NN
+usually	RB
+follows	VPRT
+country	NN
+specifications	NOMZ
+and	CCONJ
+the	ART DET
+enounced	JJ
+definitions	NOMZ
+are	PASS VPRT AUXB
+accounted	
+differently	RB
+in	PIN CONJ PREP
+each	QUAN DET
+code	NN
+.	
+Hence	RB CONJ CAP
+,	
+the	ART DET
+same	JJ
+angle	NN
+section	NOMZ
+designed	WZPAST
+with	PIN PREP
+the	ART DET
+Brazilian	JJ CAP
+,	
+American	JJ CAP
+and	PHC CCONJ
+European	JJ CAP
+codes	NN
+can	POMD
+provide	INF
+different	JJ
+results	NN
+.	
+ 	
+Vasconcelos	CAP NNP
+et	NNP
+al	NNP
+(	
+2005	NUM
+)	
+did	VBD
+a	ART DET INDA
+comparative	JJ
+study	NN
+about	PIN PREP
+angle	NN
+section	NOMZ
+samples	NN
+in	PIN CONJ PREP
+tensile	NN
+.	
+When	RB CAP SCONJ WH
+the	ART DET
+number	NN
+of	PIN PREP
+fasteners	NN
+is	VPRT AUXB
+ranging	PGAS
+from	PIN PREP
+3	NUM
+to	PIN PREP
+7	NUM
+,	
+the	ART DET
+American	JJ CAP
+code	NN
+provides	VPRT
+higher	JJ CMADJ
+results	NN
+for	PIN PREP
+the	ART DET
+effective	JJ
+net	JJ
+area	NN
+than	PIN PREP
+Brazilian	JJ CAP
+code	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+they	TPP3 PRP SBJP
+argue	VPRT PUBV
+that	PIN THVC SCONJ PREP
+if	COND PIN SCONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+bolts	NN
+is	PASS VPRT AUXB
+fixed	
+at	PIN PREP
+4	NUM
+and	CCONJ
+the	ART DET
+pitches	NN
+vary	VPRT
+,	
+the	ART DET
+European	JJ CAP
+code	NN
+provides	VPRT
+results	NN
+closer	RB CMADJ
+to	PIN PREP
+numerical	JJ
+analyses	NN
+than	PIN PREP
+those	DEMO DET
+of	PIN PREP
+the	ART DET
+effective	JJ
+net	JJ
+area	NN
+the	ART DET
+American	JJ CAP
+and	PHC CCONJ
+Brazilian	JJ CAP
+code	NN
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+the	ART DET
+pratical	JJ
+results	NN
+for	PIN PREP
+the	ART DET
+codes	NN
+are	BEMA VPRT AUXB
+substantially	RB
+different	JJ
+from	PIN PREP
+the	ART DET
+experimental	JJ
+ones	NN
+.	
+ 	
+Alternatively	RB CONJ CAP
+,	
+the	ART DET
+angle	NN
+section	NOMZ
+can	POMD
+be	PASS AUXB INF
+subjected	
+to	PIN PREP
+compression	NOMZ
+load	NN
+and	CCONJ
+buckle	INF
+.	
+Buckling	JJ CAP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+type	NN
+of	PIN PREP
+structural	JJ
+failure	NN
+represented	WZPAST
+by	PIN PREP
+a	ART DET INDA
+sudden	JJ
+lateral	JJ
+deflection	NOMZ
+of	PIN PREP
+a	ART DET INDA
+structural	JJ
+member	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+interesting	JJ PRED
+to	PIN TO PREP
+note	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+failure	NN
+is	PASS VPRT BYPA AUXB
+characterized	
+by	PIN PREP
+instability	NOMZ
+instead	RB CONJ
+of	PIN PREP
+ruptures	NN
+or	CCONJ
+yielding	NN
+of	PIN PREP
+the	ART DET
+material	NN
+,	
+which	SERE DET WH
+regularly	RB
+occurs	VPRT
+.	
+Branquinho	CAP NNP
+(	
+2017	NUM
+)	
+describes	VPRT
+that	DEMO DET
+hot	JJ
+rolled	
+angle	NN
+sections	NOMZ
+in	PIN CONJ PREP
+compression	NOMZ
+generally	RB
+buckles	VPRT
+by	PIN PREP
+bending	PGAS
+rather	RB
+than	PIN PREP
+torsion	NOMZ
+or	CCONJ
+by	PIN PREP
+the	ART DET
+combined	JJ
+effects	NN
+of	PIN PREP
+bending	NN
+and	PHC CCONJ
+torsion	NOMZ
+.	
+ 	
+To	PIN TO CAP PREP
+measure	INF
+the	ART DET
+propensity	NOMZ
+of	PIN PREP
+a	ART DET INDA
+column	NN
+to	PIN TO PREP
+buckle	INF
+,	
+slenderness	NOMZ
+is	PASS VPRT AUXB
+defined	
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+quotient	NN
+between	PIN PREP
+the	ART DET
+length	NN
+and	CCONJ
+the	ART DET
+radius	NN
+of	PIN PREP
+gyration	NOMZ
+.	
+Ditz	CAP NNP
+and	PHC CCONJ
+Sieg	CAP NNP
+(	
+2016	NUM
+)	
+states	VPRT PUBV
+that	PIN THVC SCONJ PREP
+members	NN
+with	PIN PREP
+low	JJ
+slenderness	NOMZ
+maintain	VPRT PUBV
+a	ART DET INDA
+higher	JJ CMADJ
+final	JJ
+load	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+general	JJ
+case	NN
+,	
+the	ART DET
+reference	NN
+codes	NN
+tend	VPRT
+to	PIN TO PREP
+converge	INF
+and	CCONJ
+the	ART DET
+slenderness	NOMZ
+should	NEMD SPAU
+not	XX0 RB
+exceed	INF
+300	NUM
+for	PIN PREP
+tensile	JJ
+members	NN
+and	CCONJ
+200	NUM
+for	PIN PREP
+compression	NOMZ
+.	
+ 	
+Furthermore	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+the	ART DET
+definition	NOMZ
+of	PIN PREP
+the	ART DET
+eccentricity	NOMZ
+of	PIN PREP
+the	ART DET
+load	NN
+.	
+Junyor	NN CAP
+(	
+2019	NUM
+)	
+reports	VPRT PUBV THATD
+that	PIN THVC SCONJ PREP
+when	RB SCONJ WH
+the	ART DET
+angle	NN
+is	BEMA VPRT AUXB
+under	PIN PREP
+concentric	JJ
+compression	NOMZ
+,	
+the	ART DET
+codes	NN
+and	CCONJ
+the	ART DET
+numerical	JJ
+analysis	NN
+converge	VPRT
+.	
+However	RB CONJ CAP
+,	
+when	RB SCONJ WH
+the	ART DET
+load	NN
+is	BEMA VPRT AUXB
+eccentric	JJ PRED
+,	
+none	INPR NN
+of	PIN PREP
+the	ART DET
+procedures	NN
+did	VBD PROD
+a	ART DET INDA
+relevant	JJ
+representation	NOMZ
+of	PIN PREP
+the	ART DET
+behavior	NN
+of	PIN PREP
+the	ART DET
+angle	NN
+section	NOMZ
+in	PIN CONJ PREP
+compression	NOMZ
+.	
+Junyor	NN CAP
+’s	
+(	
+2019	NUM
+)	
+thesis	NN
+creates	VPRT
+a	ART DET INDA
+new	JJ
+proposal	NN
+to	PIN TO PREP
+represent	INF
+this	DEMO DET
+behavior	NN
+and	CCONJ
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+other	JJ
+authors	NN
+do	VPRT PROD
+more	JJ EMPH CMADJ
+experimental	JJ
+studies	NN
+to	PIN TO PREP
+confirm	PUBV INF
+his	TPP3 PRP SBJP
+results	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+summary	NN
+,	
+sometimes	RB
+design	VPRT
+results	NN
+following	WZPRES PGAS
+code	NN
+prescriptions	NOMZ
+,	
+can	POMD
+be	BEMA AUXB INF
+questionable	JJ PRED
+and	PHC CCONJ
+unrealistic	JJ PRED
+.	
+Obviously	RB CAP
+,	
+as	RB CONJ
+there	EX
+as	PIN CONJ PREP
+many	QUAN JJ
+variables	NN
+that	TSUB WHSUB WH
+can	POMD
+influence	INF
+the	ART DET
+ultimate	JJ
+strength	NN
+of	PIN PREP
+a	ART DET INDA
+steel	NN
+angle	NN
+section	NOMZ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+to	PIN TO PREP
+perform	INF
+numerical	JJ
+and	PHC CCONJ
+experimental	JJ
+analysis	NN
+of	PIN PREP
+this	DEMO DET
+type	NN
+of	PIN PREP
+section	NOMZ
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+the	ART DET
+resources	NN
+of	PIN PREP
+money	NN
+and	PHC CCONJ
+time	NN
+to	PIN TO PREP
+do	PROD SPAU INF
+so	RB
+are	BEMA VPRT AUXB
+rarely	RB
+available	JJ
+.	
+ 	
+For	PIN CAP PREP
+this	DEMO DET
+reason	PRIV NN
+,	
+the	ART DET
+structural	JJ
+engineer	NN
+is	BEMA VPRT AUXB
+responsible	JJ PRED
+for	PIN PREP
+the	ART DET
+best	JJ SPADJ
+decision	NOMZ
+.	
+Valuable	JJ CAP
+design	NN
+is	PASS VPRT AUXB
+achieved	
+when	RB SCONJ WH
+analytical	JJ
+thinking	PRIV NN
+and	PHC CCONJ
+problem	NN
+solving	WZPRES PGAS
+skills	NN
+are	PASS VPRT AUXB
+used	
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+technology	NN
+and	PHC CCONJ
+software	NN
+,	
+to	PIN TO PREP
+study	INF
+the	ART DET
+best	JJ SPADJ
+solution	NOMZ
+for	PIN PREP
+each	QUAN DET
+case	NN
+.	
+By	PIN CAP PREP
+inspecting	GER PGAS
+construction	NOMZ
+conditions	NOMZ
+and	CCONJ
+the	ART DET
+loads	NN
+possibilities	NN
+,	
+it	PIT PRP SBJP
+leads	VPRT
+to	PIN PREP
+safe	JJ
+design	NN
+and	PHC CCONJ
+construction	NOMZ
+,	
+along	PIN PREP
+with	PIN PREP
+the	ART DET
+best	JJ SPADJ
+resources	NN
+of	PIN PREP
+money	NN
+and	PHC CCONJ
+time	NN
+.	
+  	
+<	X
+REFERENCES	NN CAP
+>	X

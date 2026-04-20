@@ -1,0 +1,628 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2494.1171.txt
+token	tags
+    	
+Brownian	JJ CAP
+motion	NOMZ
+was	PASS VBD BYPA SPAU AUXB
+first	RB
+systematically	RB
+observed	PRIV
+by	PIN PREP
+the	ART DET
+botanist	NN
+Robert	CAP NNP
+Brown	CAP NNP
+in	PIN CONJ PREP
+1827	NUM
+and	CCONJ
+refers	VPRT
+to	PIN PREP
+the	ART DET
+random	JJ
+motion	NOMZ
+of	PIN PREP
+colloidal	NN
+particles	NN
+suspended	WZPAST
+in	PIN CONJ PREP
+water	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+Brown	CAP NNP
+,	
+the	ART DET
+motion	NOMZ
+of	PIN PREP
+pollen	NN
+was	PASS VBD AUXB
+given	
+due	PIN PREP
+the	ART DET
+“	
+life	NN
+”	
+of	PIN PREP
+the	ART DET
+pollen	NN
+however	RB CONJ
+later	RB TIME
+test	NN
+with	PIN PREP
+death	NN
+pollen	NN
+still	RB
+show	VPRT PRIV
+the	ART DET
+same	JJ
+results	NN
+.	
+This	DEMO CAP DET
+observation	NOMZ
+was	PASS VBD SPAU AUXB
+not	XX0 RB
+solved	
+until	PIN PREP
+1905	NUM
+,	
+when	RB SCONJ WH
+Einstein	CAP NNP
+publish	INF
+an	ART DET INDA
+paper	NN
+that	TSUB WHSUB WH
+explained	VBD PUBV
+the	ART DET
+pollen	NN
+was	PASS VBD BYPA AUXB
+being	PASS BYPA AUXB
+moved	SUAV
+by	PIN PREP
+the	ART DET
+water	NN
+molecules	NN
+in	PIN CONJ PREP
+the	ART DET
+liquid	NN
+,	
+Einstein	CAP NNP
+use	VPRT
+the	ART DET
+term	NN
+Brownian	CAP NNP
+Motion	CAP NNP
+to	PIN TO PREP
+explain	PUBV INF
+random	JJ
+movements	NOMZ
+of	PIN PREP
+the	ART DET
+particles	NN
+.	
+This	DEMO CAP DET
+explanation	NOMZ
+served	VBD
+as	PIN CONJ PREP
+indirect	JJ
+evidence	NN
+of	PIN PREP
+the	ART DET
+existence	NN
+of	PIN PREP
+atoms	NN
+and	PHC CCONJ
+molecules	NN
+which	WHSUB DET WH
+are	PASS VPRT BYPA AUXB
+proved	PRIV
+in	PIN CONJ PREP
+1908	NUM
+by	PIN PREP
+Jean	CAP NNP
+Perrin	CAP NNP
+.	
+ 	
+The	ART CAP DET
+Einstein	CAP NNP
+’s	NN
+and	CCONJ
+Perrin	CAP NNP
+’s	
+efforts	NN
+helped	VBD
+raise	INF
+the	ART DET
+status	NN
+of	PIN PREP
+atoms	NN
+from	PIN PREP
+useful	JJ
+hypothetical	JJ
+objects	PUBV NN
+to	PIN PREP
+objects	PUBV NN
+whose	WHOBJ WHCL DET WH
+existence	NN
+could	POMD SPAU
+no	RB
+longer	RB
+be	PASS AUXB INF
+denied	PUBV
+and	PHC CCONJ
+ignored	
+.	
+ 	
+With	PIN CAP PREP
+all	QUAN DET
+work	NN
+of	PIN PREP
+Einstein	CAP NNP
+and	PHC CCONJ
+Perrin	CAP NNP
+a	ART DET INDA
+quantitative	JJ
+analysis	NN
+was	PASS VBD AUXB
+made	
+,	
+where	RB SCONJ WH
+Einstein	CAP NNP
+state	PUBV NN THATD
+the	ART DET
+mathematical	JJ
+laws	NN
+governing	WZPRES PGAS
+the	ART DET
+movement	NOMZ
+of	PIN PREP
+particles	NN
+.	
+According	CAP PGAS
+ 	
+to	PIN PREP
+the	ART DET
+principles	NN
+of	PIN PREP
+the	ART DET
+kinetic	JJ
+-	
+molecular	JJ
+theory	NN
+of	PIN PREP
+heat	NN
+,	
+bodies	NN
+suspended	WZPAST
+in	PIN CONJ PREP
+a	ART DET INDA
+liquid	NN
+will	PRMD
+perform	INF
+a	ART DET INDA
+irregular	JJ
+thermal	JJ
+movements	NOMZ
+called	
+Brownian	CAP NNP
+Molecular	CAP NNP
+Motion	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+investigation	NOMZ
+Einstein	CAP NNP
+use	INF
+a	ART DET INDA
+cylindrical	JJ
+vessel	NN
+containing	GER WZPRES PGAS
+a	ART DET INDA
+dilute	NN
+solution	NOMZ
+of	PIN PREP
+two	NUM
+different	JJ
+concentrations	NOMZ
+and	CCONJ
+a	ART DET INDA
+movable	JJ
+piston	NN
+is	PASS VPRT AUXB
+used	
+to	PIN TO PREP
+divide	INF
+bove	NN
+solution	NOMZ
+but	CCONJ
+as	PIN CONJ PREP
+a	ART DET INDA
+semi	JJ
+-	JJ
+permeable	JJ
+partition	NOMZ
+.	
+This	DEMP CAP DET
+allow	VPRT SUAV
+the	ART DET
+diffusion	NOMZ
+and	PHC CCONJ
+osmosis	NN
+process	NN
+to	PIN TO PREP
+take	INF
+place	NN
+but	CCONJ
+osmotic	JJ
+differences	NN
+exist	VPRT
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+the	ART DET
+variation	NOMZ
+in	PIN CONJ PREP
+concentrations	NOMZ
+.	
+This	DEMP CAP DET
+creates	VPRT
+an	ART DET INDA
+osmotic	JJ
+pressure	NN
+force	NN
+that	TSUB WHSUB WH
+brings	VPRT
+the	ART DET
+equalization	NOMZ
+of	PIN PREP
+the	ART DET
+concentration	NOMZ
+in	PIN CONJ PREP
+diffusion	NOMZ
+.	
+Therefore	RB CONJ CAP
+,	
+osmotic	JJ
+pressure	NN
+can	POMD
+be	PASS AUXB INF
+looked	
+upon	PIN SCONJ PREP
+as	PIN CONJ PREP
+the	ART DET
+driving	PGAS
+force	NN
+in	PIN CONJ PREP
+diffusion	NOMZ
+cases	NN
+.	
+A	ART CAP DET INDA
+mathematical	JJ
+evaluation	NOMZ
+of	PIN PREP
+this	DEMO DET
+phenomenon	NN
+,	
+based	PASTP
+on	PIN PREP
+the	ART DET
+kinetic	NN
+-	
+molecular	JJ
+theory	NN
+of	PIN PREP
+heat	NN
+,	
+produced	VBD
+an	ART DET INDA
+expression	NOMZ
+for	PIN PREP
+the	ART DET
+Diffusion	CAP NNP
+Coefficient	CAP NNP
+.	
+This	DEMO CAP DET
+coefficient	NN
+was	PASS VBD AUXB
+found	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+independent	JJ PRED
+of	PIN PREP
+the	ART DET
+nature	NN
+of	PIN PREP
+the	ART DET
+solution	NOMZ
+except	PIN SCONJ PREP
+for	PIN PREP
+the	ART DET
+viscosity	NOMZ
+of	PIN PREP
+the	ART DET
+solvent	NN
+and	CCONJ
+for	PIN PREP
+the	ART DET
+size	NN
+of	PIN PREP
+the	ART DET
+solute	NN
+molecules	NN
+.	
+Thus	RB CONJ CAP
+the	ART DET
+Diffusion	CAP NNP
+can	POMD
+be	PASS AUXB INF
+considered	PRIV
+a	ART DET INDA
+macroscopic	JJ
+example	NN
+of	PIN PREP
+Brownian	JJ CAP
+motion	NOMZ
+.	
+ 	
+Other	JJ CAP
+types	NN
+of	PIN PREP
+Brownian	CAP NNP
+Motion	CAP NNP
+can	POMD
+be	PASS AUXB INF
+observed	PRIV
+in	PIN CONJ PREP
+microscope	NN
+,	
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+,	
+it	PIT PRP SBJP
+now	RB TIME
+can	POMD
+be	PASS AUXB INF
+treated	
+as	PIN CONJ PREP
+a	ART DET INDA
+practical	JJ
+mathematical	JJ
+model	NN
+and	CCONJ
+more	RB EMPH CMADJ
+scientific	JJ
+theories	NN
+were	PASS VBD AUXB
+developed	
+and	CCONJ
+subsequently	RB TIME
+play	INF
+major	JJ
+roles	NN
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+of	PIN PREP
+Physics	CAP NNP
+.	
+ 	
+Brownian	JJ CAP
+motion	NOMZ
+also	RB
+help	VPRT
+develop	INF
+great	JJ
+experiments	NOMZ
+for	PIN PREP
+undergraduates	VPRT
+students	NN
+,	
+in	PIN CONJ PREP
+Chemistry	CAP NNP
+,	
+Biology	CAP NNP
+and	PHC CCONJ
+Physics	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+computational	JJ
+physics	NN
+Brownian	JJ CAP
+motion	NOMZ
+take	VPRT
+a	ART DET INDA
+new	JJ
+landscaping	GER
+,	
+using	PGAS
+microscopy	NN
+and	PHC CCONJ
+video	NN
+technology	NN
+for	PIN PREP
+tracking	PGAS
+the	ART DET
+movement	NOMZ
+of	PIN PREP
+the	ART DET
+particles	NN
+,	
+meaning	PRIV PGAS
+that	PIN THVC SCONJ PREP
+now	RB TIME
+we	FPP1 PRP SBJP
+can	POMD
+do	PROD INF
+more	RB EMPH CMADJ
+precisely	RB
+experiment	NOMZ
+,	
+such	JJ
+as	PIN CONJ PREP
+Measuring	CAP NNP
+Heat	CAP NNP
+in	PIN CONJ PREP
+molecular	JJ
+levels	NN
+or	CCONJ
+macroscopic	JJ
+level	NN
+and	CCONJ
+become	INF
+easier	JJ CMADJ
+and	PHC CCONJ
+helpful	JJ
+to	PIN TO PREP
+understand	PRIV INF
+some	QUAN DET
+already	RB
+state	PUBV NN
+theories	NN
+such	JJ
+as	PIN CONJ PREP
+Boltzmann	CAP NNP
+’s	
+constant	NN
+.	
+The	ART CAP DET
+measuring	NN
+of	PIN PREP
+Boltzmann	CAP NNP
+’s	
+constant	JJ
+using	PGAS
+Brownian	JJ CAP
+motion	NOMZ
+serves	VPRT
+to	PIN TO PREP
+introduce	INF
+statistical	JJ
+mechanics	NN
+concepts	NN
+in	PIN CONJ PREP
+an	ART DET INDA
+engaging	JJ
+way	NN
+into	PIN PREP
+an	ART DET INDA
+upper	JJ
+level	NN
+undergraduate	NN
+setting	NN
+while	OSUB PIN SCONJ PREP
+simultaneously	RB TIME
+determining	GER PRIV SUAV PGAS
+a	ART DET INDA
+fundamental	JJ
+constant	NN
+of	PIN PREP
+nature	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+the	ART DET
+Brownian	JJ CAP
+motion	NOMZ
+theory	NN
+has	VPRT PEAS
+come	
+a	ART DET INDA
+long	JJ
+way	NN
+since	OSUB PIN SCONJ PREP
+its	PIT PRP SBJP
+humble	JJ
+beginnings	GER
+in	PIN CONJ PREP
+the	ART DET
+nineteenth	JJ
+century	NN
+,	
+and	ANDC CCONJ
+there	EX
+now	RB TIME
+exists	VPRT
+a	ART DET INDA
+large	JJ
+number	NN
+of	PIN PREP
+applications	NOMZ
+that	TSUB WHSUB WH
+have	VPRT PEAS
+evolved	
+from	PIN PREP
+it	PIT PRP SBJP
+and	CCONJ
+countless	JJ
+others	NN
+that	TSUB WHSUB WH
+revolve	VPRT
+around	PIN PLACE PREP
+it	PIT PRP SBJP
+.	
+This	DEMO CAP DET
+theory	NN
+covers	VPRT
+such	EMPH DET
+a	ART DET INDA
+vast	JJ
+number	NN
+of	PIN PREP
+interesting	JJ
+aspects	NN
+of	PIN PREP
+life	NN
+without	PIN PREP
+our	FPP1 PRP SBJP
+being	BEMA AUXB
+aware	JJ PRED
+of	PIN PREP
+its	PIT PRP SBJP
+role	NN
+.	
+With	PIN CAP PREP
+the	ART DET
+random	JJ
+and	CCONJ
+often	RB
+unpredictable	JJ
+nature	NN
+of	PIN PREP
+events	NN
+that	TSUB WHSUB WH
+take	VPRT
+place	NN
+in	PIN CONJ PREP
+this	DEMO DET
+world	NN
+of	PIN PREP
+ours	PRP SBJP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+no	SYNE DET
+wonder	NN
+that	PIN TOBJ SCONJ PREP
+researchers	NN
+have	VPRT
+yet	RB
+to	PIN TO PREP
+find	PRIV INF
+the	ART DET
+perfect	JJ
+solutions	NOMZ
+to	PIN PREP
+their	TPP3 PRP SBJP
+unending	JJ
+problems	NN
+making	WZPRES PGAS
+it	PIT PRP SBJP
+never	RB
+obsolete	JJ
+in	PIN CONJ PREP
+the	ART DET
+scientific	JJ
+world	NN
+.	

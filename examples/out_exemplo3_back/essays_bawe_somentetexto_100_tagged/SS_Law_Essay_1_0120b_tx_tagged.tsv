@@ -1,0 +1,1531 @@
+# filename: SS_Law_Essay_1_0120b_tx.txt
+token	tags
+Introduction	NOMZ CAP
+The	ART CAP DET
+doctrines	NN
+of	PIN PREP
+consideration	NOMZ
+and	PHC CCONJ
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+are	VPRT AUXB
+two	NUM
+essential	JJ
+elements	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+formation	NOMZ
+of	PIN PREP
+contracts	NN
+.	
+Consideration	NOMZ CAP
+can	POMD
+be	PASS AUXB INF
+defined	
+as	PIN CONJ PREP
+the	ART DET
+act	NN
+or	CCONJ
+promise	VPRT PUBV
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+performed	
+by	PIN PREP
+the	ART DET
+promisee	NN
+when	RB WHSUB SCONJ WH
+accepting	PRIV PGAS
+an	ART DET INDA
+offer	NN
+and	ANDC CCONJ
+this	DEMO DET
+act	NN
+or	CCONJ
+promise	PUBV NN
+must	NEMD
+be	PASS AUXB INF
+asked	SUAV
+for	PIN PREP
+in	PIN CONJ PREP
+the	ART DET
+offer	NN
+.	
+The	ART CAP DET
+reason	PRIV NN
+why	RB WHOBJ WHCL SCONJ WH
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+very	AMP RB
+common	JJ
+to	PIN TO PREP
+find	PRIV THATD INF
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+the	ART DET
+courts	NN
+will	PRMD
+be	AUXB INF
+looking	PGAS
+for	PIN PREP
+a	ART DET INDA
+request	SUAV NN
+in	PIN CONJ PREP
+the	ART DET
+offer	NN
+"	QUOT
+.	
+Such	JJ CAP
+act	NN
+or	CCONJ
+promise	PUBV NN
+is	BEMA VPRT AUXB
+usually	RB
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+the	ART DET
+promisee	NN
+incurring	WZPRES PGAS
+some	QUAN DET
+detriment	NOMZ
+by	PIN PREP
+giving	PGAS
+away	PIN PLACE PREP
+something	QUPR INPR
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+get	INF
+in	PIN CONJ PREP
+return	NN
+what	WHSUB WH
+is	PASS VPRT BYPA AUXB
+being	PASS BYPA AUXB
+promised	PUBV
+by	PIN PREP
+the	ART DET
+promisor	NN
+in	PIN CONJ PREP
+his	TPP3 PRP SBJP
+offer	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+where	RB SCONJ WH
+the	ART DET
+Detriment	CAP NNP
+and	PHC CCONJ
+Benefit	CAP NNP
+Analysis	CAP NNP
+stems	VPRT
+from	PIN STPR PREP
+:	
+a	ART DET INDA
+benefit	NN
+to	PIN PREP
+the	ART DET
+promisor	NN
+and	CCONJ
+a	ART DET INDA
+detriment	NOMZ
+to	PIN PREP
+the	ART DET
+promisee	NN
+.	
+Intention	NOMZ CAP
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+,	
+as	PIN CONJ PREP
+the	ART DET
+term	NN
+itself	PIT PRP SBJP ACCU
+implies	VPRT PRIV
+,	
+is	BEMA VPRT AUXB
+simply	RB
+the	ART DET
+state	PUBV NN
+of	PIN PREP
+mind	NN
+of	PIN PREP
+the	ART DET
+parties	NN
+as	PIN CONJ PREP
+to	PIN PREP
+their	TPP3 PRP SBJP
+willingness	NOMZ
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+bound	
+by	PIN PREP
+the	ART DET
+terms	NN
+of	PIN PREP
+the	ART DET
+agreement	NOMZ
+.	
+In	PIN CONJ CAP PREP
+general	JJ
+,	
+the	ART DET
+importance	NN
+of	PIN PREP
+these	DEMO DET
+doctrines	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+both	DET
+tools	NN
+used	WZPAST
+by	PIN PREP
+the	ART DET
+Court	CAP NNP
+in	PIN CONJ PREP
+determining	GER PRIV SUAV PGAS
+the	ART DET
+validity	NOMZ
+of	PIN PREP
+a	ART DET INDA
+contract	NN
+,	
+the	ART DET
+enforceability	NOMZ
+of	PIN PREP
+the	ART DET
+contract	NN
+terms	NN
+and	CCONJ
+the	ART DET
+liability	NOMZ
+of	PIN PREP
+the	ART DET
+parties	NN
+under	PIN PREP
+that	DEMO DET
+contract	NN
+.	
+But	CAP CCONJ
+there	EX
+has	VPRT PEAS
+been	BEMA AUXB
+much	QUAN JJ
+criticism	NN
+around	PIN PLACE PREP
+both	DET
+doctrines	NN
+particularly	RB
+about	PIN PREP
+their	TPP3 PRP SBJP
+reliability	NOMZ
+,	
+usefulness	NOMZ
+and	PHC CCONJ
+effectiveness	NOMZ
+.	
+Originating	GER CAP PGAS
+from	PIN PREP
+the	ART DET
+concept	NN
+that	PIN DEMO SCONJ PREP
+consideration	NOMZ
+must	NEMD SPAU
+always	RB
+move	SUAV INF
+from	PIN PREP
+the	ART DET
+promisee	NN
+.	
+J.C	CAP NNP
+Smith	CAP NNP
+,	
+The	ART CAP DET
+Law	CAP NNP
+of	PIN PREP
+Contract	CAP NNP
+,	
+3rd	JJ
+edition	NOMZ
+,	
+Sweet	CAP NNP
+&	CCONJ
+Maxwell	CAP NNP
+,	
+at	PIN PREP
+pg	NNP
+64	NUM
+.	
+Consideration	NOMZ CAP
+as	PIN CONJ PREP
+a	ART DET INDA
+perfectly	AMP RB
+adequate	JJ
+test	NN
+of	PIN PREP
+liability	NOMZ
+in	PIN CONJ PREP
+contract	NN
+Consideration	NOMZ CAP
+is	PASS VPRT AUXB
+used	
+to	PIN TO PREP
+distinguish	INF
+between	PIN PREP
+those	DEMO DET
+promises	PUBV NN
+which	WHSUB DET WH
+are	BEMA VPRT AUXB
+enforceable	JJ PRED
+from	PIN PREP
+those	DEMP DET
+which	DET WH
+are	VPRT AUXB
+not	XX0 RB
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+once	PIN TIME SCONJ PREP
+the	ART DET
+Court	CAP NNP
+has	VPRT PEAS
+been	BEMA AUXB
+able	JJ PRED
+to	PIN TO PREP
+find	PRIV INF
+consideration	NOMZ
+we	FPP1 PRP SBJP
+are	BEMA VPRT AUXB
+already	RB
+in	PIN CONJ PREP
+the	ART DET
+realms	NN
+of	PIN PREP
+liability	NOMZ
+.	
+But	CAP CCONJ
+how	RB WHQU SCONJ WH
+far	RB PLACE
+is	BEMA VPRT AUXB
+this	DEMO DET
+doctrine	NN
+a	ART DET INDA
+perfectly	AMP RB
+adequate	JJ
+test	NN
+of	PIN PREP
+liability	NOMZ
+thus	RB CONJ
+undermining	GER PGAS
+the	ART DET
+doctrine	NN
+of	PIN PREP
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+?	QUES
+Let	CAP INF
+us	FPP1 PRP SBJP ACCU
+take	INF
+the	ART DET
+example	NN
+given	WZPAST
+by	PIN PREP
+J.C	CAP NNP
+Smith	CAP NNP
+of	PIN PREP
+the	ART DET
+purchaser	NN
+of	PIN PREP
+a	ART DET INDA
+fish	NN
+from	PIN PREP
+a	ART DET INDA
+local	JJ
+fishmonger	NN
+.	
+He	TPP3 CAP PRP SBJP
+points	VPRT
+out	PIN PREP
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+the	ART DET
+truthful	JJ
+shopper	NN
+might	POMD
+admit	PUBV INF
+under	PIN PREP
+cross	NN
+-	NN
+examination	NOMZ
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+had	VBD PEAS SPAU
+never	RB
+crossed	
+his	TPP3 PRP SBJP
+mind	NN
+that	PIN STPR DEMP SCONJ PREP
+,	
+when	RB SCONJ WH
+he	TPP3 PRP SBJP
+bought	VBD
+fish	NN
+,	
+he	TPP3 PRP SBJP
+was	VBD AUXB
+making	PGAS
+a	ART DET INDA
+contract	NN
+"	QUOT
+.	
+Indeed	RB CAP
+,	
+in	PIN CONJ PREP
+such	JJ
+types	NN
+of	PIN PREP
+transaction	NOMZ
+where	RB WHOBJ SCONJ WH
+consideration	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+act	NN
+of	PIN PREP
+effectively	RB
+purchasing	GER PGAS
+the	ART DET
+commodity	NOMZ
+,	
+liability	NOMZ
+is	PASS VPRT SPAU AUXB
+immediately	RB TIME
+established	PRIV
+when	RB WHCL SCONJ WH
+the	ART DET
+seller	NN
+accepts	VPRT PRIV
+payment	NOMZ
+.	
+If	COND PIN CAP SCONJ PREP
+such	JJ
+cases	NN
+are	PASS VPRT AUXB
+assessed	
+subjectively	RB
+,	
+we	FPP1 PRP SBJP
+will	PRMD SPAU
+obviously	RB
+not	XX0 RB
+find	PRIV INF
+any	QUAN DET
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+impossible	JJ PRED
+to	PIN TO PREP
+say	PUBV INF
+,	
+as	PIN CONJ PREP
+to	PIN PREP
+the	ART DET
+buyer	NN
+'s	
+state	PUBV NN
+of	PIN PREP
+mind	NN
+at	PIN PREP
+the	ART DET
+time	NN
+of	PIN PREP
+purchase	NN
+,	
+whether	PIN SCONJ PREP
+he	TPP3 PRP SBJP
+has	VPRT PEAS
+given	
+some	QUAN DET
+thought	PRIV NN
+to	PIN PREP
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+taking	PGAS
+actions	NOMZ
+against	PIN PREP
+the	ART DET
+seller	NN
+in	PIN CONJ PREP
+case	NN
+the	ART DET
+fish	NN
+was	BEMA VBD AUXB
+not	XX0 RB
+of	PIN PREP
+satisfactory	JJ
+quality	NOMZ
+.	
+But	CAP CCONJ
+we	FPP1 PRP SBJP
+will	PRMD SPAU
+still	RB
+have	INF
+a	ART DET INDA
+binding	PGAS
+contract	NN
+here	RB
+because	CAUS PIN SCONJ PREP
+consideration	NOMZ
+provides	VPRT
+adequate	JJ
+proof	NN
+of	PIN PREP
+liability	NOMZ
+.	
+Intention	NOMZ CAP
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+can	POMD SPAU
+only	DWNT RB
+be	PASS AUXB INF
+inferred	PRIV
+on	PIN PREP
+an	ART DET INDA
+objective	JJ
+basis	NN
+that	TSUB WHSUB WH
+is	VPRT AUXB
+,	
+in	PIN CONJ PREP
+the	ART DET
+mind	NN
+of	PIN PREP
+the	ART DET
+reasonable	JJ
+man	NN
+.	
+The	ART CAP DET
+Law	CAP NNP
+of	PIN PREP
+Contract	CAP NNP
+,	
+3rd	JJ
+edition	NOMZ
+,	
+Sweet	CAP NNP
+&	CCONJ
+Maxwell	CAP NNP
+,	
+at	PIN PREP
+pg	NNP
+107	NUM
+.	
+Ibid	CAP INF
+Consideration	NOMZ CAP
+through	PIN PREP
+performance	NN
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT SPAU AUXB
+often	RB
+said	PUBV
+that	PIN THVC SCONJ PREP
+consideration	NOMZ
+often	RB
+evidences	VPRT
+an	ART DET INDA
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+.	
+The	ART CAP DET
+latter	NN
+can	POMD
+be	PASS AUXB INF
+inferred	PRIV
+from	PIN PREP
+the	ART DET
+former	JJ
+,	
+thus	RB CONJ
+making	PGAS
+it	PIT PRP SBJP
+superfluous	JJ
+to	PIN TO PREP
+have	INF
+a	ART DET INDA
+separate	JJ
+doctrine	NN
+of	PIN PREP
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+.	
+Liability	NOMZ CAP
+can	POMD
+be	PASS AUXB INF
+established	PRIV
+as	OSUB RB CONJ
+soon	RB
+as	PIN CONJ PREP
+consideration	NOMZ
+is	PASS VPRT AUXB
+found	PRIV
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+Carlill	NN CAP
+v	PIN PREP
+Carbolic	CAP NNP
+Smoke	CAP NNP
+Ball	CAP NNP
+Co	CAP NNP
+the	ART DET
+promise	PUBV NN
+of	PIN PREP
+the	ART DET
+'	CONT QUOT
+money	NN
+compensation	NNP
+'	CONT QUOT
+(	
+if	COND PIN SCONJ PREP
+I	FPP1 CAP PRP SBJP
+may	POMD
+called	
+it	PIT PRP SBJP
+so	RB
+)	
+contained	PASTP
+in	PIN CONJ PREP
+the	ART DET
+advertisement	NOMZ
+was	VBD AUXB
+inducing	PGAS
+people	NN
+to	PIN TO PREP
+use	INF
+the	ART DET
+smoke	NN
+ball	NN
+and	ANDC CCONJ
+as	PIN CONJ PREP
+A.L	CAP NNP
+Smith	CAP NNP
+LJ	CAP NNP
+said	VBD PUBV
+:	
+"	QUOT
+this	DEMP DET
+was	BEMA VBD AUXB
+an	ART DET INDA
+offer	NN
+intended	SUAV WZPAST
+to	PIN TO PREP
+be	PASS AUXB INF
+acted	
+upon	PIN STPR SCONJ PREP
+"	QUOT
+.	
+Thus	RB CONJ CAP
+,	
+the	ART DET
+purchase	NN
+and	CCONJ
+the	ART DET
+inconvenience	NN
+of	PIN PREP
+using	PGAS
+the	ART DET
+product	NN
+was	BEMA VBD AUXB
+enough	JJ
+consideration	NOMZ
+given	WZPAST
+by	PIN PREP
+Mrs.	CAP NNP
+Carlill	CAP NNP
+in	PIN CONJ PREP
+response	NN
+to	PIN PREP
+the	ART DET
+offer	NN
+.	
+And	ANDC CAP CCONJ
+from	PIN PREP
+this	DEMP DET
+,	
+an	ART DET INDA
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+can	POMD
+be	PASS AUXB INF
+inferred	PRIV
+because	CAUS PIN SCONJ PREP
+she	TPP3 PRP SBJP
+would	PRMD SPAU
+not	XX0 RB
+have	PEAS INF
+purchased	
+and	PHC CCONJ
+gone	
+through	PIN PREP
+the	ART DET
+trouble	NN
+of	PIN PREP
+using	PGAS
+the	ART DET
+smoke	NN
+ball	NN
+(	
+in	PIN CONJ PREP
+other	JJ
+words	NN
+,	
+consideration	NOMZ
+)	
+if	COND PIN SCONJ PREP
+she	TPP3 PRP SBJP
+had	VBD PEAS SPAU
+not	XX0 RB
+intended	SUAV
+the	ART DET
+advertisement	NOMZ
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+binding	PGAS
+one	NUM
+.	
+[	X
+1893	NUM
+]	
+1	NUM
+QB	CAP NNP
+257	NUM
+,	
+A.L	CAP NNP
+Smith	CAP NNP
+LJ	CAP NNP
+,	
+Iolis	CAP NNP
+Resource	CAP NNP
+Book	CAP NNP
+2004/05	NUM
+.	
+Ibid	NN CAP
+In	PIN CONJ CAP PREP
+Parker	CAP NNP
+v	PIN PREP
+Clark	CAP NNP
+,	
+the	ART DET
+plaintiffs	NN
+'	CONT QUOT
+consideration-	NN
+giving	WZPRES PGAS
+up	PIN PREP
+the	ART DET
+occupation	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+residence	NN
+to	PIN TO PREP
+move	SUAV INF
+in	RB PIN CONJ PREP
+and	CCONJ
+share	INF
+the	ART DET
+residence	NN
+of	PIN PREP
+the	ART DET
+defendants-	NN
+provides	VPRT
+sufficient	JJ
+evidence	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+intention	NOMZ
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+bound	
+by	PIN PREP
+the	ART DET
+agreement	NOMZ
+'s	
+terms	NN
+contained	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+letters	NN
+.	
+Undoubtedly	RB CAP
+,	
+had	VBD
+they	TPP3 PRP SBJP
+not	XX0 RB
+acted	
+in	PIN CONJ PREP
+reliance	NN
+to	PIN PREP
+the	ART DET
+promise	PUBV NN
+made	WZPAST
+by	PIN PREP
+the	ART DET
+defendants	NN
+,	
+they	TPP3 PRP SBJP
+would	PRMD SPAU
+not	XX0 RB
+have	PEAS INF
+suffered	
+such	EMPH DET
+a	ART DET INDA
+detriment	NOMZ
+as	PIN CONJ PREP
+the	ART DET
+dispossession	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+house	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+such	JJ
+type	NN
+of	PIN PREP
+consideration	NOMZ
+is	PASS VPRT BYPA AUXB
+being	PASS BYPA AUXB
+supplemented	
+by	PIN PREP
+the	ART DET
+concept	NN
+of	PIN PREP
+promissory	NNP
+estoppel	NNP
+.	
+[	X
+1960	NUM
+]	
+1	NUM
+W.L.R.	CAP NNP
+286	NUM
+,	
+Devlin	CAP NNP
+J	CAP NNP
+,	
+Iolis	CAP NNP
+Resouce	CAP NNP
+Book	CAP NNP
+2004/05	NUM
+.	
+The	ART CAP DET
+concept	NN
+of	PIN PREP
+detrimental	JJ
+reliance	NN
+.	
+Intention	NOMZ CAP
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+is	BEMA VPRT AUXB
+not	XX0 RB
+superfluous	JJ
+However	RB CONJ CAP
+,	
+the	ART DET
+doctrine	NN
+of	PIN PREP
+consideration	NOMZ
+does	VPRT PROD SPAU
+not	XX0 RB
+always	RB
+fulfil	INF
+the	ART DET
+doctrine	NN
+of	PIN PREP
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+.	
+The	ART CAP DET
+latter	NN
+has	VPRT PEAS
+proven	
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+distinct	JJ
+element	NOMZ
+of	PIN PREP
+a	ART DET INDA
+contract	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+Balfour	CAP NNP
+v	PIN PREP
+Balfour	CAP NNP
+,	
+there	EX
+is	VPRT AUXB
+the	ART DET
+existence	NN
+of	PIN PREP
+consideration	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+the	ART DET
+monthly	JJ
+allowance	NN
+of	PIN PREP
+£	
+30	NUM
+being	BEMA AUXB
+a	ART DET INDA
+gain	NN
+to	PIN PREP
+the	ART DET
+wife	NN
+and	CCONJ
+a	ART DET INDA
+loss	NN
+to	PIN PREP
+the	ART DET
+husband	NN
+.	
+But	CAP CCONJ
+though	CONC PIN SCONJ PREP
+consideration	NOMZ
+has	VPRT PEAS
+been	PASS AUXB
+found	PRIV
+,	
+it	PIT PRP SBJP
+does	VPRT PROD SPAU
+not	XX0 RB
+automatically	RB
+lead	INF
+to	PIN PREP
+an	ART DET INDA
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+judgment	NOMZ
+of	PIN PREP
+Atkin	CAP NNP
+LJ	CAP NNP
+,	
+he	TPP3 PRP SBJP
+was	BEMA VBD AUXB
+of	PIN PREP
+the	ART DET
+view	NN
+that	PIN DEMP SCONJ PREP
+when	RB SCONJ WH
+the	ART DET
+arrangement	NOMZ
+was	PASS VBD BYPA AUXB
+made	
+by	PIN PREP
+the	ART DET
+husband	NN
+to	PIN TO PREP
+pay	INF
+a	ART DET INDA
+monthly	JJ
+allowance	NN
+to	PIN PREP
+the	ART DET
+wife	NN
+,	
+both	DET
+parties	NN
+have	VPRT
+"	QUOT
+never	RB
+intended	SUAV
+that	PIN THVC SCONJ PREP
+they	TPP3 PRP SBJP
+should	NEMD
+be	PASS AUXB INF
+sued	
+upon	PIN STPR SCONJ PREP
+"	QUOT
+.	
+Indeed	RB CAP
+in	PIN CONJ PREP
+such	JJ
+type	NN
+of	PIN PREP
+arrangement	NOMZ
+,	
+it	PIT PRP SBJP
+is	VPRT AUXB
+only	DWNT RB
+when	RB SCONJ WH
+(	
+at	PIN PREP
+a	ART DET INDA
+future	JJ
+time	NN
+)	
+one	NUM
+party	NN
+fails	VPRT
+to	PIN TO PREP
+respect	INF
+his	TPP3 PRP SBJP
+promise	PUBV NN
+that	PIN TOBJ THVC SCONJ PREP
+the	ART DET
+other	JJ
+party	NN
+will	PRMD
+contemplate	INF
+the	ART DET
+fact	NN
+as	PIN CONJ PREP
+to	PIN PREP
+whether	PIN SCONJ PREP
+the	ART DET
+agreement	NOMZ
+was	PASS VBD AUXB
+meant	PRIV
+to	PIN TO PREP
+have	INF
+legal	JJ
+effects	NN
+.	
+But	CAP CCONJ
+at	PIN PREP
+the	ART DET
+time	NN
+they	TPP3 PRP SBJP
+did	VBD EMPH
+make	INF
+the	ART DET
+agreement	NOMZ
+,	
+they	TPP3 PRP SBJP
+had	VBD PEAS SPAU
+not	XX0 RB
+thought	PRIV
+about	PIN PREP
+that	DEMO DET
+aspect	NN
+of	PIN PREP
+the	ART DET
+agreement	NOMZ
+.	
+[	X
+1918	NUM
+-	
+1919	NUM
+]	
+All	QUAN CAP DET
+ER	CAP NNP
+860	NUM
+,	
+Aktin	CAP NNP
+LJ	CAP NNP
+,	
+H.Beale	CAP NNP
+,	
+A.Hartkamp	CAP NNP
+,	
+H.Kotz	CAP NNP
+,	
+D.Tallon	CAP NNP
+,	
+Contract	CAP NNP
+Law	CAP NNP
+Cases	CAP NNP
+,	
+Materials	CAP NNP
+and	PHC CCONJ
+Text	CAP NNP
+on	RB PIN STPR PREP
+,	
+Hart	CAP NNP
+Publishing	CAP NNP
+2002	NUM
+,	
+at	PIN PREP
+pg	NNP
+96	NUM
+-	
+97	NUM
+.	
+Ibid	CAP INF
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+Esso	CAP NNP
+Petroleum	CAP NNP
+Ltd	CAP NNP
+v	PIN PREP
+Commissioners	CAP NNP
+of	PIN PREP
+Customs	CAP NNP
+and	PHC CCONJ
+Excise	CAP NNP
+,	
+Viscount	CAP NNP
+Dilhorne	CAP NNP
+was	BEMA VBD AUXB
+of	PIN PREP
+the	ART DET
+view	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+buyer	NN
+'s	
+consideration-	JJ
+entry	NN
+into	PIN PREP
+contract	NN
+to	PIN TO PREP
+purchase	INF
+four	NUM
+gallons	NN
+of	PIN PREP
+petrol-	NN
+to	PIN PREP
+the	ART DET
+offer	NN
+of	PIN STPR PREP
+'	CONT QUOT
+free	JJ
+'	CONT QUOT
+coins	NN
+with	PIN PREP
+every	QUAN DET
+four	NUM
+gallons	NN
+of	PIN PREP
+petrol	NN
+by	PIN PREP
+Esso	CAP NNP
+did	VBD SPAU
+not	XX0 RB
+lead	INF
+to	PIN PREP
+any	QUAN DET
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+concerning	GER WZPRES PGAS
+the	ART DET
+supply	NN
+of	PIN PREP
+the	ART DET
+'	CONT QUOT
+free	JJ
+'	CONT QUOT
+coins	NN
+.	
+Such	CAP DET
+an	ART DET INDA
+intention	NOMZ
+only	DWNT RB
+exists	VPRT
+as	PIN CONJ PREP
+to	PIN PREP
+the	ART DET
+supply	NN
+of	PIN PREP
+the	ART DET
+four	NUM
+gallons	NN
+of	PIN PREP
+petrol	NN
+although	CONC PIN SCONJ PREP
+the	ART DET
+coins	NN
+might	POMD
+induce	INF
+the	ART DET
+buyer	NN
+to	PIN TO PREP
+come	INF
+back	RB
+.	
+Besides	RB PIN CAP PREP
+,	
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+were	BEMA VBD AUXB
+also	RB
+a	ART DET INDA
+contract	NN
+for	PIN PREP
+the	ART DET
+supply	NN
+of	PIN PREP
+the	ART DET
+coins	NN
+,	
+it	PIT PRP SBJP
+must	NEMD
+be	PASS AUXB INF
+borne	
+in	PIN CONJ PREP
+mind	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+buyer	NN
+may	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+willing	JJ PRED
+to	PIN TO PREP
+take	INF
+the	ART DET
+coin	NN
+because	CAUS PIN STPR SCONJ PREP
+,	
+let	INF
+'s	PRP SBJP
+say	PUBV INF
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+of	PIN PREP
+no	SYNE DET
+value	NN
+to	PIN PREP
+him	TPP3 PRP SBJP ACCU
+.	
+Hence	RB CONJ CAP
+,	
+he	TPP3 PRP SBJP
+has	VPRT
+no	SYNE DET
+intent	NN
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+as	RB CONJ
+far	RB PLACE
+as	PIN CONJ PREP
+the	ART DET
+supply	NN
+of	PIN PREP
+coins	NN
+is	PASS VPRT AUXB
+concerned	
+.	
+However	RB CONJ CAP
+,	
+a	ART DET INDA
+case	NN
+might	POMD SPAU
+also	RB
+arise	INF
+where	RB SCONJ WH
+the	ART DET
+coin	NN
+has	VPRT
+value	NN
+to	PIN PREP
+the	ART DET
+eyes	NN
+of	PIN PREP
+another	DET
+buyer	NN
+,	
+but	CCONJ
+it	PIT PRP SBJP
+would	PRMD
+be	BEMA AUXB INF
+unrealistic	JJ PRED
+to	PIN TO PREP
+make	INF
+Esso	CAP NNP
+liable	JJ
+on	PIN PREP
+the	ART DET
+basis	NN
+of	PIN PREP
+who	PIRE WH
+considers	VPRT PRIV
+the	ART DET
+coin	NN
+to	PIN TO PREP
+have	INF
+value	NN
+.	
+We	FPP1 CAP PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+have	INF
+one	NUM
+contract	NN
+and	CCONJ
+varying	PGAS
+results	NN
+for	PIN PREP
+different	JJ
+buyers	NN
+.	
+[	X
+1976	NUM
+]	X
+1	NUM
+W.L.R	CAP NNP
+1,Viscount	NNP
+Dilhorne	CAP NNP
+,	
+Iolis	CAP NNP
+resource	NN
+book	NN
+2004/05	NUM
+.	
+Ibid	NN CAP
+.	
+Conclusion	NOMZ CAP
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+nutshell	NN
+,	
+consideration	NOMZ
+may	POMD
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+may	POMD SPAU
+not	XX0 RB
+give	INF
+evidence	NN
+of	PIN PREP
+an	ART DET INDA
+intention	NOMZ
+to	PIN TO PREP
+create	INF
+legal	JJ
+relations	NOMZ
+.	
+"	QUOT
+Consideration	NOMZ CAP
+is	BEMA VPRT AUXB
+cogent	JJ
+evidence	NN
+of	PIN PREP
+the	ART DET
+existence	NN
+of	PIN PREP
+such	DET
+an	ART DET INDA
+intent	NN
+,	
+but	CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+by	PIN PREP
+no	SYNE DET
+means	PRIV NN
+conclusive	JJ
+proof	NN
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+present	JJ PRED
+"	QUOT
+.	
+Besides	RB PIN CAP PREP
+,	
+"	QUOT
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+liberal	JJ
+society	NN
+intention	NOMZ
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+:	
+no	SYNE DET
+person	NN
+may	POMD
+be	PASS SPAU AUXB INF
+contractually	RB
+bound	
+against	PIN PREP
+his	TPP3 PRP SBJP
+will	NN
+"	QUOT
+or	CCONJ
+else	RB
+,	
+everyone	QUPR INPR
+will	PRMD
+be	PASS BYPA AUXB INF
+bound	
+by	PIN PREP
+the	ART DET
+thousand	NUM
+of	PIN PREP
+promises	PUBV NN THATD
+we	FPP1 PRP SBJP
+make	VPRT
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+everyday	JJ
+life	NN
+and	ANDC CCONJ
+this	DEMP DET
+is	BEMA VPRT AUXB
+unrealistic	JJ PRED
+.	
+To	PIN TO CAP PREP
+tackle	INF
+the	ART DET
+problem	NN
+of	PIN PREP
+whether	PIN SCONJ PREP
+consideration	NOMZ
+is	BEMA VPRT AUXB
+an	ART DET INDA
+adequate	JJ
+test	NN
+of	PIN PREP
+liability	NOMZ
+in	PIN CONJ PREP
+contract	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+look	INF
+at	PIN PREP
+the	ART DET
+facts	NN
+and	PHC CCONJ
+circumstances	NN
+of	PIN PREP
+each	QUAN DET
+case	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+we	FPP1 PRP SBJP
+can	POMD
+not	XX0 RB
+but	CCONJ
+agree	PUBV SUAV INF
+with	PIN PREP
+the	ART DET
+fact	NN
+that	PIN DEMO SCONJ PREP
+at	PIN PREP
+present	NN
+,	
+our	FPP1 PRP SBJP
+English	CAP NNP
+Legal	CAP NNP
+System	CAP NNP
+requires	VPRT SUAV
+both	DET
+consideration	NOMZ
+and	CCONJ
+an	ART DET INDA
+intention	NOMZ
+to	PIN TO PREP
+have	INF
+legal	JJ
+consequences	NN
+.	
+J.Beatson	CAP NNP
+,	
+Anson	CAP NNP
+'s	
+Law	CAP NNP
+of	PIN PREP
+Contract	CAP NNP
+,	
+28th	JJ
+edition	NOMZ
+,	
+Oxford	CAP NNP
+University	CAP NNP
+Press	CAP NNP
+,	
+at	PIN PREP
+pg	NNP
+125	NUM
+.	
+H.Beale	CAP NNP
+,	
+A.Hartkamp	CAP NNP
+,	
+H.Kotz	CAP NNP
+,	
+D.Tallon	CAP NNP
+,	
+Contract	CAP NNP
+Law	CAP NNP
+Cases	CAP NNP
+,	
+Materials	CAP NNP
+and	PHC CCONJ
+Text	CAP NNP
+on	RB PIN STPR PREP
+,	
+Hart	CAP NNP
+Publishing	CAP NNP
+2002	NUM
+,	
+at	PIN PREP
+pg	NN
+90	NUM
+.	

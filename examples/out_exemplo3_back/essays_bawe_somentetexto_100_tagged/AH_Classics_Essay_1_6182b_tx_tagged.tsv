@@ -1,0 +1,1270 @@
+# filename: AH_Classics_Essay_1_6182b_tx.txt
+token	tags
+The	ART CAP DET
+epic	JJ
+poem	NN
+,	
+the	ART DET
+Aeneid	CAP NNP
+,	
+is	PASS VPRT AUXB
+considered	PRIV
+not	XX0 RB
+only	DWNT RB
+Virgil	CAP NNP
+'s	
+greatest	JJ SPADJ
+work	NN
+,	
+but	CCONJ
+perhaps	RB
+the	ART DET
+greatest	JJ SPADJ
+of	PIN PREP
+Rome	CAP NNP
+'s	
+Augustan	CAP NNP
+Age	CAP NNP
+.	
+Written	PASTP PUBV CAP
+during	PIN PREP
+the	ART DET
+final	JJ
+period	NN
+of	PIN PREP
+Virgil	CAP NNP
+'s	
+life	NN
+,	
+it	PIT PRP SBJP
+follows	VPRT
+the	ART DET
+Trojan	CAP NNP
+hero	NN
+Aeneas	CAP NNP
+,	
+who	WH
+overcomes	VPRT
+many	QUAN JJ
+obstacles	NN
+to	PIN TO PREP
+found	PRIV
+Rome	CAP NNP
+and	CCONJ
+fulfil	INF
+his	TPP3 PRP SBJP
+destiny	NN
+.	
+Based	PASTP CAP
+on	PIN PREP
+the	ART DET
+Iliad	CAP NNP
+and	PHC CCONJ
+Odyssey	CAP NNP
+,	
+the	ART DET
+Aeneid	CAP NNP
+draws	VPRT
+many	QUAN JJ
+a	ART DET INDA
+flattering	JJ
+comparison	NN
+with	PIN PREP
+Augustus	CAP NNP
+and	PHC CCONJ
+Aeneas	CAP NNP
+,	
+and	ANDC CCONJ
+makes	VPRT
+much	QUAN JJ
+of	PIN PREP
+their	TPP3 PRP SBJP
+shared	
+descent	NN
+from	PIN PREP
+Venus	CAP NNP
+.	
+Propertius	CAP NNP
+,	
+an	ART DET INDA
+upper	JJ
+class	NN
+love	NN
+-	
+elegist	NN
+was	VBD SPAU AUXB
+also	RB
+writing	PUBV PGAS
+at	PIN PREP
+this	DEMO DET
+time	NN
+,	
+sometimes	RB
+considered	PRIV
+subversive	JJ
+.	
+The	ART CAP DET
+extract	NN
+,	
+1.1	NUM
+-	
+8	NUM
+,	
+is	BEMA VPRT AUXB
+from	PIN PREP
+a	ART DET INDA
+poem	NN
+typical	JJ
+of	PIN PREP
+his	TPP3 PRP SBJP
+sophisticated	JJ
+style	NN
+.	
+Both	CAP DET
+passages	NN
+are	PASS VPRT AUXB
+concerned	
+with	PIN PREP
+love	NN
+,	
+namely	RB CONJ
+its	PIT PRP SBJP
+effect	NN
+on	PIN PREP
+people	NN
+.	
+The	ART CAP DET
+first	JJ
+extract	NN
+,	
+from	PIN PREP
+Book	CAP NNP
+Four	CAP NNP
+of	PIN PREP
+the	ART DET
+Aeneid	CAP NNP
+,	
+presents	VPRT
+love	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+destructive	JJ
+force	NN
+.	
+Dido	CAP NNP
+has	VPRT PEAS
+fallen	
+in	PIN CONJ PREP
+love	NN
+with	PIN PREP
+Aeneas	CAP NNP
+,	
+a	ART DET INDA
+situation	NOMZ
+orchestrated	WZPAST
+by	PIN PREP
+Venus	CAP NNP
+.	
+The	ART CAP DET
+goddess	NN
+,	
+wishing	PGAS
+to	PIN TO PREP
+protect	INF
+Aeneas	CAP NNP
+from	PIN PREP
+Juno	CAP NNP
+'s	
+wrath	NN
+,	
+manipulates	VPRT
+the	ART DET
+Carthaginian	JJ CAP
+queen	NN
+mercilessly	RB
+throughout	PIN PREP
+Book	CAP NNP
+Four	CAP NNP
+.	
+Right	RB CAP
+from	PIN PREP
+the	ART DET
+start	NN
+,	
+the	ART DET
+reader	NN
+is	BEMA VPRT AUXB
+aware	JJ PRED
+that	PIN THAC SCONJ PREP
+for	PIN PREP
+Dido	CAP NNP
+,	
+the	ART DET
+story	NN
+can	POMD SPAU
+not	XX0 RB
+end	INF
+happily	RB
+,	
+as	PIN CONJ PREP
+Aeneas	CAP NNP
+is	PASS VPRT AUXB
+destined	
+to	PIN TO PREP
+leave	INF
+Carthage	NN CAP
+.	
+In	PIN CONJ CAP PREP
+Book	CAP NNP
+One	CAP NUM
+,	
+Jupiter	CAP NNP
+confirmed	VBD PUBV
+that	PIN THVC SCONJ PREP
+Aeneas	CAP NNP
+would	PRMD
+succeed	INF
+in	PIN CONJ PREP
+founding	PGAS
+Rome	CAP NNP
+;	
+a	ART DET INDA
+destiny	NN
+that	TSUB WHSUB WH
+does	VPRT SPAU
+n't	XX0 CONT RB
+leave	INF
+room	NN
+for	PIN PREP
+a	ART DET INDA
+Carthaginian	JJ CAP
+consort	NN
+.	
+Virgil	CAP NNP
+uses	VPRT
+syntax	NN
+with	PIN PREP
+negative	JJ
+connotations	NOMZ
+to	PIN TO PREP
+make	INF
+the	ART DET
+transgressive	JJ
+nature	NN
+of	PIN PREP
+Dido	CAP NNP
+'s	
+love	NN
+very	AMP RB
+clear	RB
+;	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+described	
+as	PIN CONJ PREP
+a	ART DET INDA
+'	CONT QUOT
+wound	NN
+'	CONT QUOT
+and	ANDC CCONJ
+a	ART DET INDA
+'	CONT QUOT
+fire	NN
+biting	WZPRES PGAS
+within	PIN PREP
+her	TPP3 PRP SBJP ACCU
+'	CONT QUOT
+,	
+almost	DWNT RB
+parasitic	JJ
+in	PIN CONJ PREP
+the	ART DET
+way	NN
+it	PIT PRP SBJP
+saps	VPRT
+her	TPP3 PRP SBJP
+life	NN
+force	NN
+.	
+Virgil	CAP NNP
+pinpoints	NN
+aspects	NN
+of	PIN PREP
+obsessive	JJ
+love	NN
+;	
+driven	PASTP
+to	PIN PREP
+distraction	NOMZ
+from	PIN PREP
+her	TPP3 PRP SBJP
+duties	NN
+to	PIN PREP
+her	TPP3 PRP SBJP
+people	NN
+,	
+she	TPP3 PRP SBJP
+is	PASS VPRT AUXB
+convinced	
+this	DEMP DET
+'	CONT QUOT
+heaven	NNP
+-	
+born	
+'	CONT QUOT
+hero	NN
+can	POMD
+do	PROD INF
+no	SYNE DET
+wrong	NN
+.	
+It	PIT CAP PRP SBJP
+is	VPRT AUXB
+also	RB
+one	NUM
+-	
+sided	PASTP
+at	PIN PREP
+this	DEMO DET
+point	NN
+,	
+as	PIN CONJ PREP
+Aeneas	CAP NNP
+'	CONT QUOT
+emotions	NOMZ
+towards	PIN PREP
+Dido	CAP NNP
+are	PASS VPRT SPAU AUXB
+n't	XX0 CONT RB
+mentioned	PUBV
+at	RB PIN PREP
+all	QUAN RB
+in	PIN CONJ PREP
+this	DEMO DET
+extract	NN
+.	
+Dido	CAP NNP
+is	BEMA VPRT AUXB
+aware	JJ PRED
+of	PIN PREP
+how	RB SCONJ WH
+ridiculous	JJ
+her	TPP3 PRP SBJP
+situation	NOMZ
+is	VPRT AUXB
+,	
+that	PIN THVC SCONJ PREP
+she	TPP3 PRP SBJP
+loves	VPRT
+'	CONT QUOT
+this	DEMO DET
+stranger	NN
+'	CONT QUOT
+Aeneas	CAP NNP
+,	
+and	ANDC CCONJ
+has	VPRT
+to	PIN TO PREP
+watch	INF
+herself	TPP3 PRP SBJP ACCU
+fall	INF
+victim	NN
+to	PIN PREP
+this	DEMO DET
+madness	NOMZ
+.	
+Aside	RB CAP
+from	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+Dido	CAP NNP
+and	PHC CCONJ
+Aeneas	CAP NNP
+are	PASS VPRT SPAU AUXB
+simply	RB
+not	XX0 RB
+meant	PRIV
+to	PIN TO PREP
+be	AUXB INF
+together	RB
+,	
+Virgil	CAP NNP
+implies	VPRT PRIV
+that	PIN THVC SCONJ PREP
+love	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+bad	JJ
+force	NN
+overall	JJ
+.	
+Dido	CAP NNP
+suffers	VPRT
+under	PIN PREP
+the	ART DET
+power	NN
+of	PIN STPR PREP
+'	CONT QUOT
+love	NN
+'s	
+disquiet	NN
+'	CONT QUOT
+,	
+disturbed	PASTP
+by	PIN PREP
+haunting	PGAS
+dreams	PRIV NN
+,	
+allowed	VBD SUAV
+no	SYNE DET
+relief	NN
+from	PIN PREP
+this	DEMO DET
+unwanted	JJ
+feeling	PRIV NN
+day	NN
+or	CCONJ
+night	NN
+.	
+She	TPP3 CAP PRP SBJP
+is	VPRT AUXB
+succumbing	GER PGAS
+to	PIN TO STPR PREP
+,	
+and	ANDC CCONJ
+being	PASS BYPA AUXB
+destroyed	
+by	PIN PREP
+what	WH
+the	ART DET
+Romans	CAP NNP
+called	VBD
+'	CONT QUOT
+furor	NN
+'	CONT QUOT
+,	
+a	ART DET INDA
+state	PUBV NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+a	ART DET INDA
+person	NN
+was	PASS VBD BYPA AUXB
+controlled	
+by	PIN PREP
+their	TPP3 PRP SBJP
+extreme	JJ
+emotions	NOMZ
+and	CCONJ
+lost	VBD
+their	TPP3 PRP SBJP
+sense	PRIV NN
+of	PIN PREP
+rational	JJ
+thought	PRIV NN
+(	
+'	CONT QUOT
+ratio	NN
+'	CONT QUOT
+)	
+.	
+Furor	NN CAP
+was	PASS VBD AUXB
+considered	PRIV
+dangerous	JJ
+,	
+and	ANDC CCONJ
+although	CONC PIN SCONJ PREP
+Virgil	CAP NNP
+presents	VPRT
+emotions	NOMZ
+like	PIN PREP
+rage	NN
+as	PIN CONJ PREP
+appropriate	JJ
+in	PIN CONJ PREP
+the	ART DET
+battles	NN
+of	PIN PREP
+later	JJ TIME
+books	NN
+,	
+they	TPP3 PRP SBJP
+must	NEMD
+be	PASS AUXB INF
+balanced	
+with	PIN PREP
+ratio	NN
+.	
+In	PIN CONJ CAP PREP
+Book	CAP NNP
+Two	CAP NUM
+,	
+Venus	CAP NNP
+has	VPRT
+to	PIN TO PREP
+step	INF
+in	PIN CONJ PREP
+to	PIN TO PREP
+stop	INF
+Aeneas	CAP NNP
+from	PIN PREP
+killing	PGAS
+Helen	CAP NNP
+in	PIN CONJ PREP
+an	ART DET INDA
+angry	JJ
+fit	NN
+,	
+and	ANDC CCONJ
+remind	INF
+him	TPP3 PRP SBJP ACCU
+of	PIN PREP
+his	TPP3 PRP SBJP
+duties	NN
+to	PIN PREP
+his	TPP3 PRP SBJP
+family	NN
+and	CCONJ
+the	ART DET
+city	NN
+(	
+pietas	NN
+)	
+;	
+'	CONT QUOT
+Why	RB CAP SCONJ WH
+this	DEMP DET
+raging	PGAS
+passion	NOMZ
+?	QUES
+...	
+Will	PRMD CAP
+you	SPP2 PRP SBJP
+not	XX0 RB
+first	RB
+go	INF
+and	PHC CCONJ
+see	PRIV INF
+where	RB WHCL SCONJ WH
+you	SPP2 PRP SBJP
+have	VPRT PEAS
+left	
+your	SPP2 PRP SBJP
+father	NN
+?	QUES
+'	CONT QUOT
+D.West	CAP X
+(	
+2003	NUM
+:	
+42	NUM
+)	
+So	RB CAP
+,	
+for	PIN PREP
+Dido	CAP NNP
+to	PIN TO PREP
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+love	NN
+is	BEMA VPRT AUXB
+for	PIN PREP
+her	TPP3 PRP SBJP ACCU
+to	PIN TO PREP
+be	BEMA AUXB INF
+irrational	JJ PRED
+,	
+out	PIN PREP
+of	PIN PREP
+control	NN
+,	
+neglectful	JJ
+of	PIN PREP
+her	TPP3 PRP SBJP
+duty	NN
+and	CCONJ
+consumed	
+by	PIN PREP
+passion	NOMZ
+.	
+This	DEMP CAP DET
+was	BEMA VBD AUXB
+exactly	RB
+the	ART DET
+type	NN
+of	PIN PREP
+behaviour	NN
+Augustus	CAP NNP
+did	VBD PROD
+his	TPP3 PRP SBJP
+best	JJ SPADJ
+to	PIN TO PREP
+discourage	INF
+among	PIN PREP
+Roman	JJ CAP
+citizens	NN
+,	
+especially	RB
+the	ART DET
+women	NN
+.	
+Aeneas	NN CAP
+'	CONT QUOT
+passion	NOMZ
+for	PIN PREP
+Dido	CAP NNP
+/	
+submission	NOMZ
+to	PIN PREP
+furor	NN
+is	PASS VPRT AUXB
+depicted	
+as	PIN CONJ PREP
+nothing	INPR
+but	CCONJ
+wrong	NN
+by	PIN PREP
+Virgil	CAP NNP
+.	
+It	PIT CAP PRP SBJP
+keeps	VPRT
+him	TPP3 PRP SBJP ACCU
+from	PIN PREP
+his	TPP3 PRP SBJP
+destiny	NN
+,	
+and	ANDC CCONJ
+he	TPP3 PRP SBJP
+has	VPRT
+to	PIN TO PREP
+be	PASS SPAU AUXB INF
+twice	RB
+reminded	
+of	PIN PREP
+it	PIT PRP SBJP
+by	PIN PREP
+Mercury	CAP NNP
+,	
+who	WH
+chides	VPRT
+him	TPP3 PRP SBJP ACCU
+for	PIN STPR PREP
+'	CONT QUOT
+idling	PGAS
+your	SPP2 PRP SBJP
+time	NN
+away	RB PLACE
+in	PIN CONJ PREP
+the	ART DET
+land	NN
+of	PIN PREP
+Libya	CAP NNP
+'	CONT QUOT
+If	COND PIN CAP SCONJ PREP
+left	
+unchecked	JJ
+,	
+this	DEMO DET
+furor	NN
+could	POMD
+have	PEAS INF
+jeopardised	
+the	ART DET
+future	NN
+of	PIN PREP
+Rome	CAP NNP
+.	
+D.West	JJ CAP SPADJ
+(	
+2003	NUM
+:	
+77	NUM
+)	
+It	PIT CAP PRP SBJP
+should	NEMD SPAU
+however	RB CONJ
+be	PASS AUXB INF
+remembered	PRIV
+that	PIN THVC SCONJ PREP
+Virgil	CAP NNP
+'s	
+purpose	NN
+in	PIN CONJ PREP
+writing	PUBV PGAS
+the	ART DET
+Aeneid	CAP NNP
+was	BEMA VBD AUXB
+not	XX0 RB
+to	PIN TO PREP
+present	INF
+a	ART DET INDA
+view	NN
+of	PIN PREP
+love	NN
+,	
+romantic	JJ
+or	CCONJ
+otherwise	RB CONJ
+,	
+but	CCONJ
+to	PIN TO PREP
+create	INF
+a	ART DET INDA
+great	JJ
+Roman	JJ CAP
+epic	JJ
+poem	NN
+as	PIN CONJ PREP
+propaganda	NN
+for	PIN PREP
+Augustus	CAP NNP
+.	
+It	PIT CAP PRP SBJP
+constantly	RB
+reminds	VPRT
+the	ART DET
+reader	NN
+of	PIN PREP
+the	ART DET
+heroic	JJ
+origins	NN
+of	PIN PREP
+Rome	CAP NNP
+,	
+and	ANDC CCONJ
+frequently	RB
+refers	VPRT
+to	PIN PREP
+Augustus	CAP NNP
+'	CONT QUOT
+divine	JJ
+heritage	NN
+.	
+Love	NN CAP
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+major	JJ
+theme	NN
+or	CCONJ
+driving	PGAS
+force	NN
+in	PIN CONJ PREP
+the	ART DET
+poem	NN
+,	
+and	ANDC CCONJ
+only	DWNT RB
+features	VPRT
+prominently	RB
+in	PIN CONJ PREP
+Book	CAP NNP
+Four	CAP NNP
+,	
+as	PIN CONJ PREP
+a	ART DET INDA
+detour	NN
+from	PIN PREP
+the	ART DET
+important	JJ
+matters	NN
+of	PIN PREP
+founding	PGAS
+and	PHC CCONJ
+protecting	GER PGAS
+Rome	CAP NNP
+.	
+The	ART CAP DET
+inclusion	NOMZ
+of	PIN PREP
+such	EMPH DET
+a	ART DET INDA
+negative	JJ
+,	
+sinister	JJ
+portrayal	NN
+of	PIN PREP
+love	NN
+in	PIN CONJ PREP
+the	ART DET
+extract	NN
+succeeds	VPRT
+in	PIN CONJ PREP
+creating	PGAS
+a	ART DET INDA
+sense	PRIV NN
+of	PIN PREP
+foreboding	GER
+for	PIN PREP
+the	ART DET
+reader	NN
+,	
+and	ANDC CCONJ
+adds	VPRT PUBV
+to	PIN PREP
+the	ART DET
+drama	NN
+of	PIN PREP
+Book	CAP NNP
+Four	CAP NNP
+.	
+Though	CONC PIN CAP SCONJ PREP
+the	ART DET
+second	JJ
+extract	NN
+is	BEMA VPRT AUXB
+on	PIN PREP
+a	ART DET INDA
+less	RB CMADJ
+epic	JJ
+scale	NN
+than	PIN PREP
+that	DEMO DET
+of	PIN PREP
+the	ART DET
+Aeneid	CAP NNP
+,	
+it	PIT PRP SBJP
+too	RB
+depicts	VPRT
+love	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+powerful	JJ
+force	NN
+.	
+The	ART CAP DET
+voice	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+is	VPRT AUXB
+,	
+like	PIN PREP
+Dido	CAP NNP
+,	
+lowered	PASTP
+by	PIN PREP
+love	NN
+,	
+'	CONT QUOT
+trampled	
+'	CONT QUOT
+,	
+made	VBD
+'	CONT QUOT
+pitiable	JJ
+'	CONT QUOT
+and	ANDC CCONJ
+humiliated	VBD
+.	
+He	TPP3 CAP PRP SBJP
+personifies	VPRT
+love	NN
+,	
+presenting	GER PRESP PGAS
+it	PIT PRP SBJP
+as	PIN CONJ PREP
+a	ART DET INDA
+'	CONT QUOT
+he	TPP3 PRP SBJP
+'	CONT VPRT QUOT
+,	
+a	ART DET INDA
+figure	NN
+with	PIN PREP
+the	ART DET
+might	POMD NN
+to	PIN TO PREP
+reduce	INF
+him	TPP3 PRP SBJP ACCU
+.	
+The	ART CAP DET
+love	NN
+-	
+struck	
+narrator	NN
+is	PASS VPRT AUXB
+driven	
+to	PIN PREP
+a	ART DET INDA
+'	CONT QUOT
+frenzy	NN
+'	CONT QUOT
+and	ANDC CCONJ
+lives	VPRT
+'	CONT QUOT
+without	PIN PREP
+taking	PGAS
+thought	PRIV NN
+'	CONT QUOT
+,	
+obsessed	PASTP
+much	QUAN RB
+as	PIN CONJ PREP
+Dido	CAP NNP
+was	VBD AUXB
+.	
+Yet	CAP CCONJ
+in	PIN CONJ PREP
+this	DEMO DET
+extract	NN
+,	
+love	NN
+is	PASS VPRT SPAU AUXB
+n't	XX0 CONT RB
+forced	
+on	PIN PREP
+the	ART DET
+narrator	NN
+by	PIN PREP
+the	ART DET
+gods	NN
+,	
+rather	RB CONJ
+he	TPP3 PRP SBJP
+is	PASS VPRT BYPA AUXB
+infected	
+by	PIN PREP
+its	PIT PRP SBJP
+'	CONT QUOT
+contagion	NN
+'	CONT QUOT
+.	
+Much	QUAN JJ CAP
+has	VPRT PEAS
+been	PASS AUXB
+made	
+of	PIN PREP
+Propertius	CAP NNP
+'	CONT QUOT
+subversive	JJ
+stance	NN
+,	
+who	WH
+,	
+as	PIN CONJ PREP
+an	ART DET INDA
+upper	JJ
+-	
+class	NN
+Roman	CAP NNP
+,	
+was	PASS VBD AUXB
+expected	PRIV
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+unmoved	
+by	PIN PREP
+love	NN
+.	
+His	TPP3 CAP PRP SBJP
+use	NN
+of	PIN PREP
+extreme	JJ
+language	NN
+and	PHC CCONJ
+imagery	NN
+highlights	NN
+how	RB WHOBJ SCONJ WH
+atypical	JJ
+his	TPP3 PRP SBJP
+situation	NOMZ
+is-	X
+making	PGAS
+the	ART DET
+poem	NN
+all	QUAN DET
+the	ART DET
+more	RB EMPH CMADJ
+emotional	JJ
+.	
+He	TPP3 CAP PRP SBJP
+makes	VPRT
+use	NN
+of	PIN PREP
+a	ART DET INDA
+feature	NN
+of	PIN PREP
+elegy	NN
+,	
+militia	NN
+amoris	NN
+,	
+'	CONT QUOT
+to	PIN TO PREP
+capture	INF
+with	PIN PREP
+her	TPP3 PRP SBJP
+eyes	NN
+...	
+'	CONT QUOT
+Interestingly	RB CAP
+,	
+the	ART DET
+one	NUM
+captured	
+in	PIN CONJ PREP
+this	DEMO DET
+extract	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+man	NN
+;	
+once	RB TIME
+under	PIN PREP
+love	NN
+'s	
+spell	NN
+he	TPP3 PRP SBJP
+is	BEMA VPRT AUXB
+an	ART DET INDA
+abnormality	NOMZ
+in	PIN CONJ PREP
+Roman	JJ CAP
+society	NN
+,	
+a	ART DET INDA
+male	JJ
+citizen	NN
+acting	WZPRES PGAS
+as	PIN CONJ PREP
+slave	NN
+to	PIN PREP
+a	ART DET INDA
+woman	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+idea	NN
+of	PIN PREP
+servitium	NN
+amoris	NN
+was	BEMA VBD AUXB
+another	DET
+common	JJ
+feature	NN
+of	PIN PREP
+love	NN
+elegies	NN
+,	
+Propertius	CAP NNP
+makes	VPRT
+it	PIT PRP SBJP
+clear	JJ
+that	PIN THAC SCONJ PREP
+this	DEMP DET
+'	CONT QUOT
+perverse	JJ
+'	CONT QUOT
+state	PUBV NN
+of	PIN PREP
+affairs	NN
+is	PASS VPRT BYPA AUXB
+disapproved	
+of	PIN PREP
+by	PIN PREP
+the	ART DET
+gods	NN
+.	
+He	TPP3 CAP PRP SBJP
+himself	TPP3 PRP SBJP ACCU
+does	VPRT SPAU
+n't	XX0 CONT RB
+seem	SMP INF
+happy	JJ
+with	PIN PREP
+his	TPP3 PRP SBJP
+helplessness	NOMZ
+.	
+While	OSUB PIN CAP SCONJ PREP
+these	DEMO DET
+ideas	NN
+of	PIN PREP
+slavery	NN
+and	PHC CCONJ
+infection	NOMZ
+do	VPRT SPAU
+n't	XX0 CONT RB
+coincide	INF
+with	PIN PREP
+today	TIME NN
+'s	
+idea	NN
+of	PIN PREP
+romance	NN
+,	
+we	FPP1 PRP SBJP
+should	NEMD
+consider	PRIV INF
+what	WHCL WH
+the	ART DET
+Augustan	JJ CAP
+idea	NN
+of	PIN PREP
+romance	NN
+was	VBD AUXB
+.	
+Perhaps	RB CAP
+in	PIN CONJ PREP
+an	ART DET INDA
+age	NN
+of	PIN PREP
+the	ART DET
+'	CONT QUOT
+stiff	JJ
+upper	JJ
+lip	NN
+'	CONT QUOT
+,	
+the	ART DET
+only	JJ DWNT
+romantic	JJ
+view	NN
+was	BEMA VBD AUXB
+an	ART DET INDA
+illicit	JJ
+,	
+violent	JJ
+,	
+extreme	JJ
+one	NUM
+.	
+If	COND PIN CAP SCONJ PREP
+this	DEMP DET
+was	VBD AUXB
+so	RB
+,	
+Propertius	CAP NNP
+'	CONT QUOT
+unpleasant	JJ
+,	
+'	CONT QUOT
+perverse	JJ
+'	CONT QUOT
+sense	PRIV NN
+of	PIN PREP
+being	BEMA AUXB
+in	PIN CONJ PREP
+love	NN
+may	POMD
+have	PEAS INF
+seemed	SMP
+romantic	JJ
+at	PIN PREP
+the	ART DET
+time	NN
+.	
+Both	CAP DET
+Roman	JJ CAP
+poets	NN
+suggest	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+to	PIN TO PREP
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+love	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+suffer	INF
+,	
+and	ANDC CCONJ
+be	PASS BYPA AUXB INF
+manipulated	
+by	PIN PREP
+forces	NN
+out	PIN PREP
+of	PIN PREP
+your	SPP2 PRP SBJP
+control	NN
+.	
+In	PIN CONJ CAP PREP
+Dido	CAP NNP
+'s	
+case	NN
+,	
+love	NN
+is	BEMA VPRT AUXB
+the	ART DET
+means	PRIV NN
+by	PIN PREP
+which	PIRE DET WH
+cruel	JJ
+gods	NN
+get	VPRT
+what	WH
+they	TPP3 PRP SBJP
+want	VPRT
+,	
+another	DET
+hardship	NN
+humans	NN
+can	POMD
+do	PROD INF
+little	JJ
+to	PIN TO PREP
+counteract	INF
+.	
+Propertius	CAP NNP
+is	BEMA VPRT AUXB
+equally	RB
+vulnerable	JJ
+to	PIN PREP
+love	NN
+'s	
+force	NN
+,	
+but	CCONJ
+presents	VPRT
+it	PIT PRP SBJP
+as	PIN CONJ PREP
+an	ART DET INDA
+affliction	NOMZ
+with	PIN PREP
+consequences	NN
+contrary	JJ
+to	PIN PREP
+Augustan	JJ CAP
+social	JJ
+norms	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+love	NN
+described	VBD
+here	RB
+is	BEMA VPRT AUXB
+not	XX0 RB
+romantic	JJ
+in	PIN CONJ PREP
+today	TIME NN
+'s	
+sense	PRIV NN
+(	
+i.e.	CONJ X
+a	ART DET INDA
+positive	JJ
+,	
+life	NN
+-	
+affirming	PUBV PGAS
+force	NN
+)	
+,	
+a	ART DET INDA
+clear	JJ
+sense	PRIV NN
+of	PIN PREP
+the	ART DET
+darker	JJ CMADJ
+side	NN
+of	PIN PREP
+love	NN
+is	PASS VPRT BYPA AUXB
+presented	
+by	PIN PREP
+both	DET
+extracts	NN
+.	

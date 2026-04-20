@@ -1,0 +1,1960 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2493.1170.txt
+token	tags
+      	
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+1960s	NN
+,	
+the	ART DET
+sociology	NN
+of	PIN PREP
+education	NOMZ
+has	VPRT
+as	PIN CONJ PREP
+one	NUM
+of	PIN PREP
+its	PIT PRP SBJP
+central	JJ
+thematic	JJ
+inequalities	NN
+(	
+FORQUIN	CAP NNP
+,	
+1995	NUM
+;	
+NOGUEIRA	CAP NNP
+,	
+1990	NUM
+)	
+.	
+From	PIN CAP PREP
+the	ART DET
+1980s	NN
+,	
+studies	NN
+on	PIN PREP
+school	NN
+effectiveness	NOMZ
+analyze	INF
+a	ART DET INDA
+set	NN
+of	PIN PREP
+characteristics	NN
+of	PIN PREP
+schools	NN
+that	TSUB WHSUB WH
+are	PASS VPRT AUXB
+associated	
+with	PIN PREP
+students	NN
+learning	WZPRES PRIV PGAS
+.	
+At	PIN CAP PREP
+the	ART DET
+same	JJ
+time	NN
+,	
+emerges	VPRT
+another	DET
+field	NN
+of	PIN PREP
+study	NN
+that	TSUB WHSUB WH
+analyzes	VPRT
+the	ART DET
+relationships	NN
+between	PIN PREP
+family	NN
+and	PHC CCONJ
+school	NN
+pointing	WZPRES PGAS
+out	PIN PREP
+differences	NN
+for	PIN PREP
+the	ART DET
+type	NN
+of	PIN PREP
+family	NN
+incentive	NN
+to	PIN PREP
+schooling	NN
+(	
+LAHIRE	CAP NNP
+,	
+1997	NUM
+;	
+THIN	CAP NNP
+,	
+2006	NUM
+;	
+NOGUEIRA	CAP NNP
+,	
+2002	NUM
+,	
+2012	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+there	EX
+is	VPRT AUXB
+still	RB
+a	ART DET INDA
+gap	NN
+in	PIN CONJ PREP
+national	JJ
+production	NOMZ
+relating	WZPRES PGAS
+student	NN
+achievement	NOMZ
+in	PIN CONJ PREP
+standardized	JJ
+national	JJ
+evaluations	NOMZ
+to	PIN PREP
+an	ART DET INDA
+indicator	NN
+that	TSUB WHSUB WH
+brings	VPRT
+together	RB
+parenting	NN
+practices	NN
+to	PIN TO PREP
+monitor	INF
+children	NN
+’s	
+schooling	NN
+.	
+Thus	RB CONJ CAP
+,	
+the	ART DET
+objective	NN
+in	PIN CONJ PREP
+this	DEMO DET
+essay	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+create	INF
+a	ART DET INDA
+parental	JJ
+incentive	NN
+indicator	NN
+based	WZPAST
+on	PIN PREP
+the	ART DET
+data	NN
+from	PIN PREP
+SAEB	CAP NNP
+2015	NUM
+,	
+applied	VBD
+to	PIN PREP
+the	ART DET
+9th	JJ
+grade	NN
+,	
+and	ANDC CCONJ
+to	PIN TO PREP
+associate	INF
+it	PIT PRP SBJP
+with	PIN PREP
+the	ART DET
+performance	NN
+of	PIN PREP
+municipal	JJ
+and	CCONJ
+state	PUBV NN
+school	NN
+students	NN
+at	PIN PREP
+SAEB	CAP NNP
+2015	NUM
+Portuguese	CAP NNP
+Language	CAP NNP
+Evaluation	CAP NNP
+.	
+The	ART CAP DET
+results	NN
+states	VPRT PUBV
+that	PIN THVC SCONJ PREP
+the	ART DET
+presence	NN
+of	PIN PREP
+the	ART DET
+high	JJ
+parental	JJ
+incentive	NN
+increases	VPRT
+the	ART DET
+students	NN
+'	CONT QUOT
+average	JJ
+results	NN
+,	
+however	RB CONJ
+,	
+the	ART DET
+presence	NN
+of	PIN PREP
+the	ART DET
+high	JJ
+parental	JJ
+incentive	NN
+does	VPRT SPAU
+not	XX0 RB
+compensate	INF
+for	PIN PREP
+the	ART DET
+difference	NN
+of	PIN PREP
+means	PRIV NN
+when	RB WHSUB WHCL SCONJ WH
+compared	
+with	PIN PREP
+the	ART DET
+student	NN
+'s	
+gender	NN
+variable	NN
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+regardless	RB
+of	PIN PREP
+the	ART DET
+degree	NN
+of	PIN PREP
+parental	JJ
+incentive	NN
+received	
+,	
+within	PIN PREP
+the	ART DET
+same	JJ
+NSE	CAP NNP
+group	NN
+,	
+girls	NN
+perform	VPRT
+better	RB CMADJ
+in	PIN CONJ PREP
+the	ART DET
+Portuguese	JJ CAP
+language	NN
+assessment	NOMZ
+of	PIN PREP
+SAEB	CAP NNP
+2015	NUM
+than	PIN PREP
+boys	NN
+.	
+    	
+The	ART CAP DET
+lack	NN
+of	PIN PREP
+equity	NOMZ
+in	PIN CONJ PREP
+Basic	CAP NNP
+Education	CAP NNP
+is	VPRT AUXB
+still	RB
+one	NUM
+of	PIN PREP
+the	ART DET
+major	JJ
+problems	NN
+of	PIN PREP
+Brazilian	JJ CAP
+Education	CAP NNP
+.	
+Evaluation	NOMZ CAP
+methodology	NN
+can	POMD
+be	AUXB INF
+diversify	INF
+considering	GER PRIV PGAS
+their	TPP3 PRP SBJP
+assessment	NOMZ
+methodology	NN
+,	
+the	ART DET
+scale	NN
+of	PIN PREP
+analysis	NN
+and	CCONJ
+the	ART DET
+factors	NN
+that	TSUB WHSUB WH
+are	PASS VPRT AUXB
+considered	PRIV
+in	PIN CONJ PREP
+a	ART DET INDA
+student	NN
+'s	
+assessment	NOMZ
+.	
+However	RB CONJ CAP
+,	
+evaluation	NOMZ
+is	BEMA VPRT AUXB
+an	ART DET INDA
+important	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+teaching	NN
+-	
+learning	PRIV PGAS
+process	NN
+.	
+Through	PIN CAP PREP
+evaluation	NOMZ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN TO PREP
+identify	INF
+gaps	NN
+regarding	WZPRES PGAS
+content	NN
+that	TSUB WHSUB WH
+needs	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+reviewed	
+in	PIN CONJ PREP
+a	ART DET INDA
+class	NN
+,	
+for	PIN PREP
+example	NN
+.	
+National	JJ CAP
+scale	NN
+evaluations	NOMZ
+allow	VPRT SUAV
+the	ART DET
+identification	NOMZ
+of	PIN PREP
+inequalities	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+country	NN
+with	PIN PREP
+a	ART DET INDA
+large	JJ
+territorial	JJ
+dimension	NOMZ
+such	JJ
+as	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+how	RB SCONJ WH
+governments	NOMZ
+deal	VPRT
+with	PIN PREP
+the	ART DET
+results	NN
+obtained	WZPAST
+through	PIN PREP
+these	DEMO DET
+evaluations	NOMZ
+and	ANDC CCONJ
+how	RB SCONJ WH
+these	DEMO DET
+evaluations	NOMZ
+are	PASS VPRT AUXB
+constructed	
+are	BEMA VPRT AUXB
+debatable	JJ
+elements	NOMZ
+.	
+Carnoy	CAP NNP
+(	
+2009	NUM
+)	
+analyzes	VPRT
+the	ART DET
+construction	NOMZ
+process	NN
+of	PIN PREP
+national	JJ
+evaluations	NOMZ
+in	PIN CONJ PREP
+Cuba	CAP NNP
+,	
+Brazil	CAP NNP
+,	
+and	ANDC CCONJ
+Chile	CAP NNP
+,	
+pointing	PGAS
+out	PIN PREP
+differences	NN
+in	PIN CONJ PREP
+the	ART DET
+structure	NN
+of	PIN PREP
+national	JJ
+evaluations	NOMZ
+and	ANDC CCONJ
+in	PIN CONJ PREP
+how	RB SCONJ WH
+the	ART DET
+governments	NOMZ
+of	PIN PREP
+these	DEMO DET
+different	JJ
+countries	NN
+deal	VPRT
+with	PIN PREP
+the	ART DET
+results	NN
+of	PIN PREP
+these	DEMO DET
+evaluations	NOMZ
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+text	NN
+,	
+is	PASS VPRT AUXB
+taken	
+the	ART DET
+database	NN
+of	PIN PREP
+questionnaires	NN
+applied	WZPAST
+to	PIN PREP
+students	NN
+from	PIN PREP
+a	ART DET INDA
+non	JJ
+-	JJ
+compulsory	JJ
+National	CAP NNP
+Assessment	CAP NNP
+(	
+SAEB	CAP NNP
+)	
+with	PIN PREP
+the	ART DET
+intention	NOMZ
+of	PIN PREP
+identifying	GER PGAS
+patterns	NN
+of	PIN PREP
+inequality	NOMZ
+in	PIN CONJ PREP
+relation	NOMZ
+to	PIN PREP
+student	NN
+groups	NN
+.	
+This	DEMO CAP DET
+analysis	NN
+has	VPRT
+the	ART DET
+intuit	NN
+of	PIN PREP
+contributing	GER PGAS
+to	PIN PREP
+the	ART DET
+mapping	NN
+of	PIN PREP
+inequalities	NN
+,	
+hoping	PRIV PGAS
+that	PIN THVC SCONJ PREP
+these	DEMO DET
+studies	NN
+will	PRMD
+be	PASS BYPA AUXB INF
+used	
+by	PIN PREP
+the	ART DET
+authorities	NN
+to	PIN TO PREP
+implement	INF
+changes	NN
+in	PIN CONJ PREP
+the	ART DET
+educational	JJ
+system	NN
+that	TSUB WHSUB WH
+take	VPRT
+into	PIN PREP
+account	NN
+the	ART DET
+differences	NN
+between	PIN PREP
+groups	NN
+of	PIN PREP
+students	NN
+.	
+Thus	RB CONJ CAP
+promoting	PGAS
+greater	JJ CMADJ
+equity	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+National	CAP NNP
+Education	CAP NNP
+System	CAP NNP
+.	
+  	
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+wide	JJ
+field	NN
+of	PIN PREP
+national	JJ
+productions	NOMZ
+on	PIN PREP
+schooling	NN
+strategies	NN
+mobilized	WZPAST
+by	PIN PREP
+families	NN
+,	
+including	PGAS
+parental	JJ
+incentive	NN
+practices	NN
+for	PIN PREP
+schooling	NN
+.	
+These	DEMO CAP DET
+practices	NN
+materialize	VPRT
+from	PIN PREP
+encouraging	GER PGAS
+reading	NN
+or	CCONJ
+performing	GER PGAS
+homework	NN
+(	
+CARVALHO	CAP NNP
+,	
+2004	NUM
+;	
+RESENDE	CAP NNP
+,	
+2013	NUM
+)	
+,	
+to	PIN PREP
+the	ART DET
+mobilization	NOMZ
+of	PIN PREP
+more	RB EMPH CMADJ
+refined	JJ
+family	NN
+practices	NN
+associated	WZPAST
+with	PIN PREP
+the	ART DET
+schooling	NN
+of	PIN PREP
+children	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+frequency	NN
+of	PIN PREP
+visits	NN
+to	PIN PREP
+museums	NN
+and	CCONJ
+cultural	JJ
+spaces	NN
+(	
+BRANDaO	NN CAP
+,	
+2012	NUM
+)	
+.	
+Coleman	CAP NNP
+(	
+2000	NUM
+)	
+proposes	VPRT SUAV
+the	ART DET
+concept	NN
+of	PIN PREP
+social	JJ
+capital	NN
+as	PIN CONJ PREP
+an	ART DET INDA
+element	NOMZ
+that	TSUB WHSUB WH
+adds	VPRT PUBV
+to	PIN PREP
+schooling	NN
+.	
+Social	JJ CAP
+capital	NN
+would	PRMD
+be	PASS BYPA AUXB INF
+characterized	
+by	PIN PREP
+relationships	NN
+developed	WZPAST
+within	PIN PREP
+the	ART DET
+family	NN
+that	TSUB WHSUB WH
+add	VPRT PUBV
+positive	JJ
+elements	NOMZ
+to	PIN PREP
+the	ART DET
+process	NN
+of	PIN PREP
+schooling	NN
+of	PIN PREP
+children	NN
+.	
+Alves	NN CAP
+and	CCONJ
+Xavier	CAP NNP
+(	
+2017	NUM
+)	
+propose	VPRT SUAV
+the	ART DET
+construction	NOMZ
+of	PIN PREP
+an	ART DET INDA
+indicator	NN
+of	PIN STPR PREP
+“	
+parental	JJ
+involvement	NOMZ
+”	
+inspired	PASTP
+by	PIN PREP
+Coleman	CAP NNP
+'s	
+concept	NN
+of	PIN PREP
+social	JJ
+capital	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+authors	NN
+use	VPRT
+this	DEMO DET
+indicator	NN
+as	PIN CONJ PREP
+one	NUM
+of	PIN PREP
+the	ART DET
+explanatory	JJ
+variables	NN
+for	PIN PREP
+the	ART DET
+phenomenon	NN
+of	PIN PREP
+intra	JJ
+-	NN
+school	NN
+exclusion	NOMZ
+,	
+we	FPP1 PRP SBJP
+consider	VPRT PRIV
+the	ART DET
+authors	NN
+'	CONT QUOT
+work	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+fundamental	JJ
+contribution	NOMZ
+to	PIN PREP
+the	ART DET
+field	NN
+of	PIN PREP
+study	NN
+that	TSUB WHSUB WH
+relates	VPRT
+student	NN
+performance	NN
+and	CCONJ
+parental	JJ
+incentive	NN
+.	
+Thus	RB CONJ CAP
+,	
+contributing	GER PGAS
+to	PIN PREP
+the	ART DET
+discussion	NOMZ
+also	RB
+undertaken	VBD
+in	PIN CONJ PREP
+this	DEMO DET
+text	NN
+.	
+  	
+Parallel	JJ CAP
+to	PIN PREP
+the	ART DET
+studies	NN
+that	TSUB WHSUB WH
+show	VPRT PRIV
+the	ART DET
+contributions	NOMZ
+of	PIN PREP
+parental	JJ
+incentive	NN
+to	PIN PREP
+schooling	NN
+,	
+recent	JJ
+research	NN
+states	PUBV NN
+to	PIN PREP
+an	ART DET INDA
+association	NOMZ
+between	PIN PREP
+characteristics	NN
+of	PIN PREP
+the	ART DET
+public	NN
+served	WZPAST
+by	PIN PREP
+the	ART DET
+school	NN
+and	CCONJ
+their	TPP3 PRP SBJP
+performance	NN
+.	
+Franco	CAP NNP
+(	
+2007	NUM
+)	
+shows	VPRT PRIV
+data	NN
+from	PIN PREP
+the	ART DET
+2004	NUM
+OECD	CAP NNP
+Report	PUBV THATD CAP NNP
+that	DEMP WHCL WH
+points	VPRT
+out	PIN PREP
+the	ART DET
+strong	JJ
+correlation	NOMZ
+between	PIN PREP
+socioeconomic	JJ
+status	NN
+(	
+NSE	CAP NNP
+)	
+and	ANDC CCONJ
+school	NN
+performance	NN
+in	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+line	NN
+of	PIN PREP
+studies	NN
+,	
+research	NN
+has	VPRT PEAS
+shown	PRIV
+that	PIN THVC SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+strong	JJ
+correlation	NOMZ
+between	PIN PREP
+NSE	CAP NNP
+and	CCONJ
+performance	NN
+.	
+As	RB CONJ CAP
+well	RB
+as	PIN CONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+strong	JJ
+correlation	NOMZ
+between	PIN PREP
+the	ART DET
+student	NN
+’s	
+gender	NN
+and	PHC CCONJ
+race	NN
+with	PIN PREP
+performance	NN
+in	PIN CONJ PREP
+standardized	JJ
+national	JJ
+evaluations	NOMZ
+.	
+Considering	GER PRIV CAP PGAS
+SAEB	CAP NNP
+2015	NUM
+data	NN
+,	
+INEP	CAP NNP
+released	VBD
+the	ART DET
+percentage	NN
+of	PIN PREP
+proficiency	NN
+in	PIN CONJ PREP
+Portuguese	JJ CAP
+Language	CAP NNP
+evaluation	NOMZ
+according	WZPRES PGAS
+to	PIN PREP
+the	ART DET
+student	NN
+'s	
+gender	NN
+(	
+graph	NN
+1	NUM
+)	
+.	
+This	DEMO CAP DET
+result	NN
+points	VPRT
+to	PIN PREP
+a	ART DET INDA
+higher	JJ CMADJ
+concentration	NOMZ
+of	PIN PREP
+girls	NN
+with	PIN PREP
+proficient	JJ
+performance	NN
+in	PIN CONJ PREP
+the	ART DET
+Portuguese	CAP NNP
+Language	CAP NNP
+Evaluation	CAP NNP
+of	PIN PREP
+SAEB	CAP NNP
+than	PIN PREP
+boys	NN
+.	
+However	RB CONJ CAP
+,	
+this	DEMO DET
+data	NN
+does	VPRT PROD SPAU
+not	XX0 RB
+yet	RB
+present	INF
+secondary	JJ
+differences	NN
+between	PIN PREP
+these	DEMO DET
+two	NUM
+groups	NN
+.	
+Differences	NN CAP
+that	TSUB WHQU WHSUB WH
+are	PASS VPRT SPAU AUXB
+also	RB
+strongly	AMP RB
+correlated	
+with	PIN PREP
+performance	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+family	NN
+socioeconomic	JJ
+status	NN
+.	
+Considering	GER PRIV PRESP CAP PGAS
+this	DEMO DET
+element	NOMZ
+,	
+the	ART DET
+analyzes	NN
+that	TSUB WHSUB WH
+will	PRMD
+be	PASS AUXB INF
+undertaken	
+here	RB
+segment	NOMZ
+the	ART DET
+groups	NN
+by	PIN PREP
+the	ART DET
+latent	JJ
+NSE	CAP NNP
+variable	NN
+that	TSUB WHSUB WH
+followed	VBD
+distribution	NOMZ
+criteria	NN
+that	TSUB WHSUB WH
+will	PRMD
+be	PASS AUXB INF
+specified	
+in	PIN CONJ PREP
+the	ART DET
+methodological	JJ
+item	NN
+of	PIN PREP
+this	DEMO DET
+text	NN
+.	
+    	
+In	PIN CONJ CAP PREP
+research	NN
+in	PIN CONJ PREP
+the	ART DET
+CAPES	CAP NNP
+ 	
+periods	NN
+using	WZPRES PGAS
+the	ART DET
+word	NN
+combination	NOMZ
+“	
+parental	JJ
+participation	NOMZ
++	CCONJ
+performance	NN
+”	
+,	
+were	PASS VBD AUXB
+obtained	
+only	DWNT RB
+two	NUM
+studies	NN
+that	TSUB WHSUB WH
+relate	VPRT
+directly	RB
+to	PIN PREP
+this	DEMO DET
+thematic	NN
+and	ANDC CCONJ
+which	DET WH
+use	VPRT
+secondary	JJ
+data	NN
+from	PIN PREP
+the	ART DET
+SAEB	CAP NNP
+questionnaire	NN
+for	PIN PREP
+construction	NOMZ
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+analyzes	VPRT
+(	
+GONcALVES	CAP NNP
+;	
+FRANCE	CAP NNP
+,	
+2008	NUM
+;	
+ALVES	CAP NNP
+;	
+XAVIER	CAP NNP
+,	
+2017	NUM
+)	
+.	
+Considering	GER PRIV PRESP CAP PGAS
+the	ART DET
+low	JJ
+frequency	NN
+of	PIN PREP
+national	JJ
+production	NOMZ
+on	PIN PREP
+the	ART DET
+thematic	NN
+,	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+justified	
+to	PIN TO PREP
+conduct	INF
+this	DEMO DET
+study	NN
+.	
+The	ART CAP DET
+objective	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+construct	INF
+an	ART DET INDA
+indicator	NN
+of	PIN PREP
+parental	JJ
+incentive	NN
+using	WZPRES PGAS
+the	ART DET
+answers	NN
+of	PIN PREP
+the	ART DET
+questionnaires	NN
+of	PIN PREP
+SAEB	CAP NNP
+2015	NUM
+,	
+applied	VBD
+to	PIN PREP
+students	NN
+in	PIN CONJ PREP
+the	ART DET
+9th	JJ
+grade	NN
+of	PIN PREP
+elementary	JJ
+public	JJ
+schools	NN
+  	
+.	
+Then	RB CAP
+,	
+to	PIN TO PREP
+compare	INF
+this	DEMO DET
+indicator	NN
+with	PIN PREP
+students	NN
+’	
+results	NN
+at	PIN PREP
+SAEB	CAP NNP
+2015	NUM
+Portuguese	CAP NNP
+Language	CAP NNP
+Evaluation	CAP NNP
+divided	
+by	PIN PREP
+groups	NN
+considering	GER WZPRES PRIV PGAS
+the	ART DET
+variables	NN
+of	PIN PREP
+familiar	JJ
+social	JJ
+-	
+economic	JJ
+level	NN
+and	CCONJ
+the	ART DET
+student	NN
+’s	
+gender	NN
+.	
+ 	
+The	ART CAP DET
+purpose	NN
+of	PIN PREP
+the	ART DET
+research	NN
+question	NOMZ
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+investigate	INF
+whether	PIN SCONJ PREP
+parenting	NN
+practices	NN
+that	TSUB WHSUB WH
+encourage	VPRT
+student	NN
+schooling	NN
+can	POMD
+compensate	INF
+for	PIN PREP
+differences	NN
+in	PIN CONJ PREP
+averages	NN
+of	PIN PREP
+the	ART DET
+student	NN
+'s	
+gender	NN
+variable	NN
+.	
+Thus	RB CONJ CAP
+,	
+this	DEMO DET
+essay	NN
+can	POMD
+expand	INF
+national	JJ
+contributions	NOMZ
+to	PIN PREP
+the	ART DET
+field	NN
+of	PIN PREP
+study	NN
+on	PIN PREP
+intra	JJ
+-	JJ
+school	NN
+inequalities	NN
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+investigates	VPRT
+the	ART DET
+correlation	NOMZ
+between	PIN PREP
+students	NN
+’	
+characteristics	NN
+and	PHC CCONJ
+performance	NN
+in	PIN CONJ PREP
+standardized	JJ
+national	JJ
+evaluations	NOMZ
+.	
+ 	
+This	DEMO CAP DET
+text	NN
+is	PASS VPRT AUXB
+divided	
+into	PIN PREP
+four	NUM
+parts	NN
+:	
+brief	JJ
+introduction	NOMZ
+about	PIN PREP
+the	ART DET
+thematic	JJ
+,	
+research	NN
+conduction	NOMZ
+methodology	NN
+,	
+results	NN
+obtained	VBD
+and	CCONJ
+possible	JJ
+conclusions	NOMZ
+from	PIN PREP
+these	DEMO DET
+results	NN
+.	
+The	ART CAP DET
+following	JJ
+item	NN
+presents	VPRT
+considerations	NOMZ
+on	PIN PREP
+the	ART DET
+methodology	NN
+applied	VBD
+.	
+  	
+The	ART CAP DET
+methodology	NN
+is	PASS VPRT AUXB
+divided	
+into	PIN PREP
+two	NUM
+moments	NOMZ
+:	
+the	ART DET
+first	JJ
+is	BEMA VPRT AUXB
+the	ART DET
+description	NOMZ
+of	PIN PREP
+the	ART DET
+parental	JJ
+incentive	NN
+indicator	NN
+,	
+considering	GER PRIV PRESP PGAS
+the	ART DET
+data	NN
+for	PIN PREP
+the	ART DET
+whole	JJ
+country	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+association	NOMZ
+of	PIN PREP
+the	ART DET
+indicator	NN
+to	PIN PREP
+the	ART DET
+performance	NN
+of	PIN PREP
+public	JJ
+(	
+municipal	JJ
+and	CCONJ
+state	PUBV NN
+)	
+students	NN
+in	PIN CONJ PREP
+the	ART DET
+Portuguese	JJ CAP
+language	NN
+assessment	NOMZ
+of	PIN PREP
+the	ART DET
+SAEB	CAP NNP
+,	
+controlled	PASTP
+by	PIN PREP
+the	ART DET
+student	NN
+'s	
+socioeconomic	JJ
+level	NN
+of	PIN PREP
+belonging	PGAS
+.	
+The	ART CAP DET
+second	JJ
+moment	NOMZ
+analyzes	VPRT
+the	ART DET
+intragroup	NN
+differences	NN
+,	
+describing	GER PRESP PGAS
+the	ART DET
+association	NOMZ
+between	PIN PREP
+the	ART DET
+results	NN
+in	PIN CONJ PREP
+the	ART DET
+Portuguese	CAP NNP
+Language	CAP NNP
+Evaluation	CAP NNP
+and	CCONJ
+the	ART DET
+degree	NN
+of	PIN PREP
+parental	JJ
+incentive	NN
+within	PIN PREP
+the	ART DET
+same	JJ
+group	NN
+of	PIN PREP
+socioeconomic	JJ
+level	NN
+,	
+controlled	PASTP
+by	PIN PREP
+the	ART DET
+sex	NN
+declared	PUBV WZPAST
+by	PIN PREP
+the	ART DET
+student	NN
+.	
+ 	
+Considering	GER PRIV CAP PGAS
+the	ART DET
+national	JJ
+data	NN
+,	
+a	ART DET INDA
+selection	NOMZ
+filter	NN
+was	PASS VBD AUXB
+applied	
+to	PIN PREP
+the	ART DET
+database	NN
+of	PIN PREP
+the	ART DET
+SAEB	CAP NNP
+2015	NUM
+questionnaires	NN
+database	NN
+applied	VBD
+to	PIN PREP
+the	ART DET
+9th	JJ
+grade	NN
+,	
+to	PIN TO PREP
+select	INF
+only	DWNT RB
+students	NN
+from	PIN PREP
+state	PUBV NN
+and	CCONJ
+municipal	JJ
+education	NOMZ
+networks	NN
+.	
+This	DEMO CAP DET
+option	NOMZ
+was	PASS VBD AUXB
+assumed	PRIV
+to	PIN PREP
+the	ART DET
+extent	NN
+that	PIN STPR DEMP SCONJ PREP
+,	
+within	PIN PREP
+public	JJ
+education	NOMZ
+supply	NN
+networks	NN
+,	
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+greater	JJ CMADJ
+approximation	NOMZ
+between	PIN PREP
+characteristics	NN
+of	PIN PREP
+the	ART DET
+public	NN
+served	WZPAST
+by	PIN PREP
+state	PUBV NN
+and	CCONJ
+municipal	JJ
+networks	NN
+compared	WZPAST
+to	PIN PREP
+the	ART DET
+public	NN
+served	WZPAST
+by	PIN PREP
+the	ART DET
+federal	JJ
+education	NOMZ
+network	NN
+.	
+ 	
+The	ART CAP DET
+variables	NN
+related	WZPAST
+to	PIN PREP
+parental	JJ
+incentive	NN
+practices	NN
+were	PASS VBD AUXB
+grouped	
+in	PIN CONJ PREP
+the	ART DET
+“	
+parental	JJ
+incentive	NN
+”	
+indicator	NN
+which	WHQU WHSUB DET WH
+was	PASS VBD AUXB
+divided	
+into	PIN PREP
+groups	NN
+according	WZPRES PGAS
+to	PIN PREP
+the	ART DET
+students	NN
+'	CONT QUOT
+socioeconomic	JJ
+level	NN
+(	
+NSE	CAP NNP
+):	
+low	JJ
+NSE	CAP NNP
+,	
+moderate	JJ
+NSE	NN CAP
+,	
+and	ANDC CCONJ
+high	JJ
+NSE	CAP NNP
+.	
+ 	
+First	RB CAP
+of	PIN PREP
+all	QUAN DET
+,	
+it	PIT PRP SBJP
+should	NEMD
+be	PASS AUXB INF
+noted	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+NSE	CAP NNP
+,	
+here	RB
+,	
+is	PASS VPRT AUXB
+taken	
+as	PIN CONJ PREP
+a	ART DET INDA
+theoretical	JJ
+construct	NN
+for	PIN PREP
+stratification	NOMZ
+of	PIN PREP
+student	NN
+groups	NN
+by	PIN PREP
+a	ART DET INDA
+measure	NN
+of	PIN PREP
+social	JJ
+position	NOMZ
+that	TSUB WHSUB WH
+aggregates	VPRT
+schooling	PGAS
+data	NN
+of	PIN PREP
+those	DEMO DET
+consumers	NN
+pattern	VPRT
+.	
+That	DEMO CAP DET
+is	RB
+,	
+the	ART DET
+NSE	CAP NNP
+is	PASS VPRT AUXB
+taken	
+as	PIN CONJ PREP
+a	ART DET INDA
+latent	JJ
+variable	NN
+(	
+not	XX0 RB
+directly	RB
+observed	PRIV
+)	
+whose	WHQU DET WH
+measurement	NOMZ
+is	PASS VPRT BYPA AUXB
+made	
+by	PIN PREP
+the	ART DET
+aggregation	NOMZ
+of	PIN PREP
+information	NOMZ
+(	
+education	NOMZ
+of	PIN PREP
+the	ART DET
+responsible	JJ
+and	CCONJ
+family	NN
+consumers	NN
+patterns	NN
+)	
+from	PIN PREP
+the	ART DET
+SAEB	CAP NNP
+2015	NUM
+questionnaires	NN
+applied	VBD
+to	PIN PREP
+the	ART DET
+9th	JJ
+-	
+grade	NN
+students	NN
+.	
+However	RB CONJ CAP
+,	
+this	DEMO DET
+data	NN
+collection	NOMZ
+instrument	NOMZ
+has	VPRT
+limitations	NOMZ
+.	
+One	CAP NUM
+is	BEMA VPRT AUXB
+the	ART DET
+absence	NN
+of	PIN PREP
+household	NN
+income	NN
+data	NN
+.	
+Another	CAP DET
+limitation	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+degree	NN
+of	PIN PREP
+inaccuracy	NN
+in	PIN CONJ PREP
+the	ART DET
+responses	NN
+of	PIN PREP
+the	ART DET
+large	JJ
+-	
+scale	NN
+evaluation	NOMZ
+questionnaires	NN
+already	RB
+identified	
+by	PIN PREP
+other	JJ
+studies	NN
+(	
+Soares	CAP NNP
+and	PHC CCONJ
+Andrade	CAP NNP
+,	
+2006	NUM
+)	
+.	
+Tables	NN CAP
+2	NUM
+and	CCONJ
+3	NUM
+present	VPRT
+the	ART DET
+synthesis	NN
+of	PIN PREP
+the	ART DET
+variables	NN
+used	WZPAST
+to	PIN TO PREP
+construct	INF
+the	ART DET
+Parental	CAP NNP
+Incentive	CAP NNP
+indicator	NN
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+the	ART DET
+variables	NN
+used	VBD
+to	PIN TO PREP
+construct	INF
+the	ART DET
+latent	JJ
+NSE	CAP NNP
+variable	NN
+.	
+ 	
+Next	RB CAP
+,	
+some	QUAN DET
+discussions	NOMZ
+are	PASS VPRT AUXB
+explored	
+from	PIN PREP
+the	ART DET
+results	NN
+of	PIN PREP
+the	ART DET
+analyses	NN
+undertaken	
+.	
+  	
+Considering	GER PRIV CAP PGAS
+the	ART DET
+national	JJ
+data	NN
+for	PIN PREP
+public	JJ
+schools	NN
+(	
+municipal	JJ
+and	CCONJ
+state	PUBV NN
+schools	NN
+)	
+,	
+the	ART DET
+hypothesis	NN
+test	NN
+of	PIN PREP
+equality	NOMZ
+of	PIN PREP
+means	PRIV NN
+indicates	VPRT PRIV THATD
+that	PIN STPR DEMP SCONJ PREP
+,	
+for	PIN PREP
+a	ART DET INDA
+reliability	NOMZ
+level	NN
+of	PIN PREP
+95	NUM
+%	NN
+,	
+the	ART DET
+students	NN
+'	CONT QUOT
+Portuguese	JJ CAP
+language	NN
+proficiency	NN
+means	PRIV NN
+differ	VPRT
+considering	GER PRIV PGAS
+the	ART DET
+degree	NN
+of	PIN PREP
+incentive	NN
+parental	NN
+received	
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+graphs	NN
+,	
+are	PASS VPRT AUXB
+taken	
+as	PIN CONJ PREP
+reference	NN
+line	NN
+the	ART DET
+Soares	CAP NNP
+proficiency	NN
+scale	NN
+(	
+2006	NUM
+;	
+2009	NUM
+)	
+that	DEMP WH
+divides	VPRT
+proficient	JJ
+and	PHC CCONJ
+non	JJ
+-	JJ
+proficient	JJ
+students	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+case	NN
+of	PIN PREP
+the	ART DET
+SAEB	CAP NNP
+Portuguese	CAP NNP
+Language	CAP NNP
+Evaluation	CAP NNP
+applied	VBD
+to	PIN PREP
+the	ART DET
+9th	JJ
+grade	NN
+,	
+the	ART DET
+reference	NN
+score	NN
+considers	VPRT PRIV
+the	ART DET
+results	NN
+above	PIN PLACE PREP
+275	NUM
+points	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+proficient	JJ PRED
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+observed	PRIV THATD
+that	PIN STPR DEMP SCONJ PREP
+,	
+for	PIN PREP
+the	ART DET
+average	JJ
+results	NN
+of	PIN PREP
+public	JJ
+schools	NN
+(	
+municipal	JJ
+and	CCONJ
+state	PUBV NN
+)	
+throughout	PIN PREP
+the	ART DET
+country	NN
+,	
+more	JJ EMPH CMADJ
+than	PIN PREP
+75	NUM
+%	NN
+of	PIN PREP
+students	NN
+in	PIN CONJ PREP
+the	ART DET
+low	JJ
+NSE	CAP NNP
+and	CCONJ
+low	JJ
+parental	JJ
+incentive	NN
+group	NN
+do	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+proficiency	NN
+in	PIN CONJ PREP
+Portuguese	CAP NNP
+.	
+The	ART CAP DET
+percentage	NN
+of	PIN PREP
+concentration	NOMZ
+of	PIN PREP
+Portuguese	JJ CAP
+language	NN
+proficient	JJ
+students	NN
+increases	VPRT
+according	PGAS
+to	PIN PREP
+the	ART DET
+NSE	CAP NNP
+group	NN
+belonging	WZPRES PGAS
+and	CCONJ
+the	ART DET
+degree	NN
+of	PIN PREP
+parental	JJ
+incentive	NN
+received	
+,	
+with	PIN PREP
+a	ART DET INDA
+higher	JJ CMADJ
+student	NN
+concentration	NOMZ
+of	PIN PREP
+Portuguese	JJ CAP
+language	NN
+proficient	NN
+in	PIN CONJ PREP
+the	ART DET
+group	NN
+of	PIN PREP
+high	JJ
+NSE	CAP NNP
+and	CCONJ
+high	JJ
+parental	JJ
+incentive	NN
+.	
+ 	
+For	PIN CAP PREP
+the	ART DET
+intragroup	NN
+mean	PRIV NN
+differences	NN
+,	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+observed	PRIV
+that	PIN THVC SCONJ PREP
+among	PIN PREP
+boys	NN
+and	PHC CCONJ
+girls	NN
+with	PIN PREP
+low	JJ
+NSE	CAP NNP
+and	CCONJ
+low	JJ
+parental	JJ
+incentive	NN
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+mean	JJ PRIV
+difference	NN
+of	PIN PREP
+5.7	NUM
+points	NN
+in	PIN CONJ PREP
+favor	NN
+of	PIN PREP
+girls	NN
+.	
+Between	PIN CAP PREP
+boys	NN
+and	PHC CCONJ
+girls	NN
+with	PIN PREP
+low	JJ
+NSE	CAP NNP
+and	CCONJ
+high	JJ
+parental	JJ
+incentives	NN
+,	
+this	DEMO DET
+difference	NN
+is	VPRT AUXB
+12.74	NUM
+points	NN
+in	PIN CONJ PREP
+favor	NN
+of	PIN PREP
+girls	NN
+.	
+Considering	GER PRIV PRESP CAP PGAS
+the	ART DET
+moderate	JJ
+NSE	CAP NNP
+group	NN
+,	
+the	ART DET
+mean	JJ PRIV
+difference	NN
+between	PIN PREP
+boys	NN
+and	PHC CCONJ
+girls	NN
+who	WHSUB WH
+received	VBD
+low	JJ
+and	PHC CCONJ
+high	JJ
+parental	JJ
+incentives	NN
+is	VPRT AUXB
+12.74	NUM
+points	NN
+and	CCONJ
+14.70	NUM
+points	NN
+in	PIN CONJ PREP
+favor	NN
+of	PIN PREP
+girls	NN
+,	
+respectively	RB
+.	
+Finally	RB CAP
+,	
+for	PIN PREP
+the	ART DET
+high	JJ
+NSE	CAP NNP
+group	NN
+,	
+the	ART DET
+mean	JJ PRIV
+difference	NN
+between	PIN PREP
+boys	NN
+and	PHC CCONJ
+girls	NN
+who	WHSUB WH
+received	VBD
+low	JJ
+and	PHC CCONJ
+high	JJ
+parental	JJ
+incentives	NN
+is	VPRT AUXB
+12.74	NUM
+points	NN
+and	CCONJ
+14.70	NUM
+points	NN
+in	PIN CONJ PREP
+favor	NN
+of	PIN PREP
+girls	NN
+.	
+ 	
+Above	RB PLACE CAP
+,	
+some	QUAN DET
+possible	JJ
+conclusions	NOMZ
+considering	GER WZPRES PRIV PGAS
+the	ART DET
+analyses	NN
+undertaken	
+.	
+  	
+The	ART CAP DET
+data	NN
+seem	VPRT SMP
+to	PIN TO PREP
+indicate	PRIV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+degree	NN
+of	PIN PREP
+parental	JJ
+incentive	NN
+increases	VPRT
+the	ART DET
+students	NN
+'	CONT QUOT
+results	NN
+in	PIN CONJ PREP
+the	ART DET
+SAEB	CAP NNP
+2015	NUM
+Portuguese	CAP NNP
+Language	CAP NNP
+Evaluation	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+presence	NN
+of	PIN PREP
+high	JJ
+parental	JJ
+incentives	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+able	JJ
+to	PIN TO PREP
+compensate	INF
+for	PIN PREP
+the	ART DET
+difference	NN
+of	PIN PREP
+averages	NN
+according	WZPRES PGAS
+to	PIN PREP
+the	ART DET
+sex	NN
+declared	PUBV WZPAST
+by	PIN PREP
+the	ART DET
+student	NN
+.	
+ 	

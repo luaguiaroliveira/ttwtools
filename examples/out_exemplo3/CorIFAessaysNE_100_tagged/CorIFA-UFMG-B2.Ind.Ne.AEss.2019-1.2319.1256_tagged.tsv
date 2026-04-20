@@ -1,0 +1,832 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2319.1256.txt
+token	tags
+    	
+Patients	NN CAP
+with	PIN PREP
+liver	NN
+disease	NN
+often	RB
+present	VPRT
+changes	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+nutritional	JJ
+status	NN
+with	PIN PREP
+the	ART DET
+progress	NN
+of	PIN PREP
+the	ART DET
+illness	NOMZ
+.	
+Liver	NN CAP
+transplantation	NOMZ
+(	
+LT	CAP NNP
+)	
+is	BEMA VPRT AUXB
+the	ART DET
+gold	JJ
+standard	JJ
+treatment	NOMZ
+for	PIN PREP
+these	DEMO DET
+patients	NN
+,	
+whom	WH
+usually	RB
+develop	VPRT
+malnutrition	NOMZ
+before	RB
+,	
+and	ANDC CCONJ
+present	INF
+increased	
+risks	NN
+for	PIN PREP
+obesity	NOMZ
+and	PHC CCONJ
+metabolic	NN
+syndrome	NN
+after	PIN PREP
+the	ART DET
+surgery	NN
+,	
+especially	RB
+those	DEMP DET
+transplanted	
+due	PIN PREP
+to	PIN PREP
+non	JJ
+-	JJ
+alcoholic	JJ
+steatohepatitis	NN
+(	
+NASH	CAP NNP
+)	
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+possible	JJ
+reasons	PRIV NN THATD
+that	TSUB WHSUB WH
+are	PASS VPRT AUXB
+related	
+to	PIN PREP
+the	ART DET
+excessive	JJ
+weight	NN
+gain	NN
+after	PIN PREP
+LT	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+reduction	NOMZ
+in	PIN CONJ PREP
+resting	PGAS
+energy	NN
+expenditure	NN
+,	
+despite	PIN SCONJ PREP
+the	ART DET
+different	JJ
+and	CCONJ
+controversy	NN
+results	NN
+in	PIN CONJ PREP
+the	ART DET
+literature	NN
+about	PIN PREP
+this	DEMO DET
+hypothesis	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+,	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+discuss	INF
+a	ART DET INDA
+research	NN
+that	TSUB WHSUB WH
+has	VPRT PEAS
+demonstrated	PRIV
+a	ART DET INDA
+reduction	NOMZ
+in	PIN CONJ PREP
+resting	PGAS
+and	PHC CCONJ
+exercise	INF
+energy	NN
+metabolism	NN
+in	PIN CONJ PREP
+patients	NN
+who	WHSUB WH
+had	VBD PEAS
+undergone	
+liver	NN
+transplantation	NOMZ
+as	PIN CONJ PREP
+a	ART DET INDA
+treatment	NOMZ
+for	PIN PREP
+NASH	NN CAP
+.	
+Firstly	RB CAP
+,	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+write	PUBV INF
+about	PIN PREP
+the	ART DET
+decrease	NN
+in	PIN CONJ PREP
+resting	PGAS
+energy	NN
+expenditure	NN
+.	
+Secondly	RB CAP
+,	
+the	ART DET
+alterations	NOMZ
+in	PIN CONJ PREP
+exercise	NN
+energy	NN
+metabolism	NN
+will	PRMD
+be	PASS AUXB INF
+pointed	
+out	PIN STPR PREP
+.	
+At	PIN CAP PREP
+the	ART DET
+third	JJ
+paragraph	NN
+,	
+the	ART DET
+differences	NN
+between	PIN PREP
+the	ART DET
+genders	NN
+will	PRMD
+be	PASS AUXB INF
+explored	
+.	
+And	ANDC CAP CCONJ
+then	RB
+,	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+make	INF
+a	ART DET INDA
+conclusion	NOMZ
+about	PIN PREP
+the	ART DET
+results	NN
+founded	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+paper	NN
+.	
+ 	
+Singhvi	CAP NNP
+et	NNP
+al	NNP
+.	
+(	
+2017	NUM
+)	
+have	VPRT PEAS
+found	PRIV
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+study	NN
+that	PIN TOBJ SCONJ PREP
+patients	NN
+who	WHSUB WH
+underwent	VBD
+liver	NN
+transplantation	NOMZ
+present	JJ
+lower	JJ CMADJ
+values	NN
+of	PIN PREP
+resting	PGAS
+energy	NN
+expenditure	NN
+(	
+REE	CAP NNP
+)	
+when	RB SCONJ WH
+compared	
+to	PIN PREP
+controls	NN
+diagnosed	WZPAST
+with	PIN PREP
+non	JJ
+-	JJ
+alcoholic	JJ
+fatty	JJ
+liver	NN
+disease	NN
+,	
+with	PIN PREP
+similar	JJ
+age	NN
+,	
+body	NN
+mass	NN
+index	NN
+(	
+BMI	CAP NNP
+)	
+,	
+body	NN
+composition	NOMZ
+and	PHC CCONJ
+markers	NN
+of	PIN PREP
+metabolic	NNP
+syndrome	NN
+.	
+That	DEMP CAP DET
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+these	DEMO DET
+patients	NN
+expend	VPRT
+fewer	JJ CMADJ
+calories	NN
+than	PIN PREP
+the	ART DET
+controls	NN
+in	PIN CONJ PREP
+rest	NN
+,	
+turning	PRESP PGAS
+them	TPP3 PRP SBJP ACCU
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+gain	INF
+weight	NN
+even	RB
+when	RB SCONJ WH
+caloric	JJ
+restricted	
+diets	NN
+are	PASS VPRT AUXB
+prescribed	
+.	
+This	DEMO CAP DET
+reduction	NOMZ
+in	PIN CONJ PREP
+REE	NN CAP
+was	PASS VBD SPAU AUXB
+also	RB
+observed	PRIV
+in	PIN CONJ PREP
+another	DET
+study	NN
+with	PIN PREP
+overweight	JJ
+patients	NN
+1	NUM
+-	
+3	NUM
+years	NN
+after	PIN PREP
+LTx	CAP NNP
+for	PIN PREP
+all	QUAN DET
+the	ART DET
+causes	NN
+,	
+not	XX0 RB
+only	DWNT RB
+NASH	CAP NNP
+(	
+Rodrigues	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2019	NUM
+)	
+.	
+Regardless	RB CAP
+of	PIN PREP
+these	DEMO DET
+data	NN
+,	
+a	ART DET INDA
+few	QUAN JJ
+studies	NN
+did	VBD SPAU
+not	XX0 RB
+demonstrate	PRIV INF
+reduced	
+REE	NN CAP
+in	PIN CONJ PREP
+liver	NN
+recipients	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+one	NUM
+research	NN
+developed	WZPAST
+with	PIN PREP
+patients	NN
+after	PIN PREP
+approximately	RB
+6,5	NUM
+years	NN
+after	PIN PREP
+LTx	CAP NNP
+,	
+with	PIN PREP
+no	SYNE DET
+evidence	NN
+of	PIN PREP
+hypometabolism	NN
+(	
+Ribeiro	CAP NNP
+,	
+Anastacio	CAP NNP
+,	
+Ferreira	CAP NNP
+,	
+Lima	CAP NNP
+,	
+&	CCONJ
+Correia	CAP NNP
+,	
+2014	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+fact	NN
+,	
+these	DEMO DET
+patients	NN
+often	RB
+present	VPRT
+an	ART DET INDA
+excessive	JJ
+weight	NN
+gain	NN
+after	PIN PREP
+the	ART DET
+transplantation	NOMZ
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+a	ART DET INDA
+crucial	JJ
+risk	NN
+factor	NN
+for	PIN PREP
+cardiovascular	JJ
+diseases	NN
+,	
+the	ART DET
+main	JJ
+cause	NN
+of	PIN PREP
+death	NN
+in	PIN CONJ PREP
+this	DEMO DET
+population	NOMZ
+.	
+Thus	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+for	PIN PREP
+dietitians	NN
+to	PIN TO PREP
+be	BEMA AUXB INF
+aware	JJ PRED
+of	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+it	PIT PRP SBJP
+may	POMD
+be	BEMA AUXB INF
+easier	JJ PRED CMADJ
+for	PIN PREP
+these	DEMO DET
+patients	NN
+to	PIN TO PREP
+gain	INF
+weight	NN
+and	CCONJ
+harder	JJ CMADJ
+to	PIN TO PREP
+lost	INF
+it	PIT PRP SBJP
+.	
+Understanding	GER PRIV PRESP CAP PGAS
+the	ART DET
+causes	NN
+of	PIN PREP
+this	DEMO DET
+tendency	NN
+is	BEMA VPRT AUXB
+crucial	JJ PRED
+to	PIN TO PREP
+make	INF
+the	ART DET
+best	JJ SPADJ
+approach	NN
+.	
+  	
+The	ART CAP DET
+energy	NN
+expenditure	NN
+during	PIN PREP
+exercise	NN
+is	PASS VPRT SPAU AUXB
+also	RB
+reduced	
+in	PIN CONJ PREP
+patients	NN
+after	PIN PREP
+liver	NN
+transplantation	NOMZ
+due	PIN PREP
+to	PIN PREP
+NASH	NN CAP
+,	
+which	SERE DET WH
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+even	RB
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+make	VPRT
+the	ART DET
+same	JJ
+amount	NN
+of	PIN PREP
+exercise	NN
+than	PIN PREP
+individuals	NN
+who	WHSUB WH
+do	VPRT SPAU
+not	XX0 RB
+have	PEAS INF
+done	PROD
+liver	NN
+transplantation	NOMZ
+,	
+they	TPP3 PRP SBJP
+will	PRMD
+spend	INF
+fewer	JJ CMADJ
+calories	NN
+.	
+This	DEMO CAP DET
+reduction	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+amount	NN
+of	PIN PREP
+energy	NN
+spent	WZPAST
+during	PIN PREP
+exercise	NN
+can	POMD
+lead	INF
+to	PIN PREP
+impairment	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+weight	NN
+loss	NN
+process	NN
+in	PIN CONJ PREP
+these	DEMO DET
+patients	NN
+and	CCONJ
+could	POMD
+be	AUXB INF
+one	NUM
+factor	NN
+evolved	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+etiology	NN
+of	PIN PREP
+the	ART DET
+increased	
+weight	NN
+gain	NN
+.	
+Nowadays	RB TIME CAP
+,	
+the	ART DET
+research	NN
+discussed	WZPAST
+in	PIN CONJ PREP
+this	DEMO DET
+essay	NN
+is	BEMA VPRT AUXB
+the	ART DET
+only	JJ DWNT
+study	NN
+available	JJ
+in	PIN CONJ PREP
+the	ART DET
+scientific	JJ
+literature	NN
+that	TSUB WHSUB WH
+evaluates	VPRT
+metabolic	NN
+changes	NN
+during	PIN PREP
+exercise	NN
+in	PIN CONJ PREP
+liver	NN
+recipients	NN
+.	
+ 	
+Authors	NN CAP
+have	VPRT PEAS
+observed	PRIV
+that	PIN THVC SCONJ PREP
+all	QUAN DET
+LTx	CAP NNP
+patients	NN
+evaluated	VBD
+present	JJ
+lower	JJ CMADJ
+rates	NN
+of	PIN PREP
+energy	NN
+expenditure	NN
+when	RB WHSUB SCONJ WH
+compared	
+with	PIN PREP
+controls	NN
+,	
+although	CONC PIN SCONJ PREP
+it	PIT PRP SBJP
+was	VBD AUXB
+only	DWNT RB
+statistically	RB
+significant	JJ
+in	PIN CONJ PREP
+women	NN
+.	
+The	ART CAP DET
+mechanism	NN
+behind	PIN PLACE PREP
+this	DEMO DET
+fact	NN
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+completely	AMP RB
+elucidated	
+yet	RB
+,	
+and	ANDC CCONJ
+the	ART DET
+authors	NN
+claim	VPRT PUBV
+that	PIN THVC SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+gender	NN
+-	
+specific	JJ
+metabolic	NN
+alteration	NOMZ
+after	PIN PREP
+LTx	CAP NNP
+,	
+such	JJ
+as	PIN CONJ PREP
+a	ART DET INDA
+reduction	NOMZ
+in	PIN CONJ PREP
+estrogen	NNP
+levels	NN
+,	
+that	WHQU DEMP WH
+is	PASS VPRT AUXB
+related	
+to	PIN PREP
+metabolic	NNP
+complications	NOMZ
+.	
+Nevertheless	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+highlight	INF
+that	DEMP DET
+,	
+women	NN
+in	PIN CONJ PREP
+the	ART DET
+post	JJ
+-	JJ
+transplant	JJ
+group	NN
+were	VBD AUXB
+approximately	RB
+eight	NUM
+years	NN
+older	JJ CMADJ
+than	PIN PREP
+women	NN
+in	PIN CONJ PREP
+the	ART DET
+control	NN
+group	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+affect	INF
+their	TPP3 PRP SBJP
+REE	NN CAP
+due	PIN PREP
+to	PIN PREP
+normal	JJ
+alterations	NOMZ
+in	PIN CONJ PREP
+post	JJ
+-	JJ
+menopause	JJ
+phase	NN
+.	
+Therefore	RB CONJ CAP
+,	
+nutritional	JJ
+treatment	NOMZ
+and	CCONJ
+caloric	JJ
+prescription	NOMZ
+should	NEMD SPAU
+not	XX0 RB
+only	DWNT RB
+be	AUXB INF
+population	NOMZ
+-	
+specific	JJ
+,	
+but	CCONJ
+gender	NN
+-	
+specific	JJ
+too	RB
+.	
+ 	
+The	ART CAP DET
+results	NN
+demonstrated	VBD PRIV
+in	PIN CONJ PREP
+these	DEMO DET
+papers	NN
+indicate	VPRT PRIV
+that	PIN THVC SCONJ PREP
+patients	NN
+after	PIN PREP
+liver	NN
+transplantation	NOMZ
+,	
+especially	RB
+those	DEMP DET
+transplanted	
+for	PIN PREP
+NASH	NN CAP
+may	POMD
+be	BEMA AUXB INF
+hypometabolic	JJ PRED
+and	CCONJ
+spend	INF
+fewer	JJ CMADJ
+calories	NN
+during	PIN PREP
+exercise	NN
+,	
+raising	PGAS
+risks	NN
+for	PIN PREP
+development	NOMZ
+of	PIN PREP
+overweight	JJ
+,	
+obesity	NOMZ
+and	CCONJ
+making	PGAS
+them	TPP3 PRP SBJP ACCU
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+suffer	INF
+cardiovascular	JJ
+complications	NOMZ
+.	
+Therefore	RB CONJ CAP
+,	
+nutritional	JJ
+treatment	NOMZ
+is	BEMA VPRT AUXB
+important	JJ PRED
+before	RB
+and	CCONJ
+after	PIN PREP
+the	ART DET
+transplantation	NOMZ
+,	
+to	PIN TO PREP
+explain	PUBV INF
+possible	JJ
+alterations	NOMZ
+for	PIN PREP
+patients	NN
+and	CCONJ
+build	INF
+specific	JJ
+strategies	NN
+to	PIN TO PREP
+manage	INF
+them	TPP3 PRP SBJP ACCU
+in	PIN CONJ PREP
+each	QUAN DET
+case	NN
+.	
+After	PIN CAP PREP
+the	ART DET
+surgery	NN
+,	
+nutritional	JJ
+care	NN
+should	NEMD
+aim	INF
+weight	NN
+maintenance	NN
+,	
+working	PGAS
+with	PIN PREP
+patients	NN
+in	PIN CONJ PREP
+plans	NN
+to	PIN TO PREP
+raise	INF
+energy	NN
+expenditure	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+increasing	GER PGAS
+protein	NN
+intake	NN
+and	CCONJ
+regular	JJ
+physical	JJ
+activity	NOMZ
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+crucial	JJ PRED
+that	PIN THAC SCONJ PREP
+more	JJ EMPH CMADJ
+studies	NN
+focus	VPRT
+on	PIN PREP
+investigating	GER PGAS
+the	ART DET
+causes	NN
+evolved	WZPAST
+with	PIN PREP
+excessive	JJ
+weight	NN
+gain	NN
+after	PIN PREP
+LTx	NN CAP
+,	
+to	PIN TO PREP
+adjust	INF
+the	ART DET
+dietary	JJ
+recommendations	NOMZ
+and	CCONJ
+enhance	INF
+nutritional	JJ
+care	NN
+for	PIN PREP
+this	DEMO DET
+population	NOMZ
+.	
+     	

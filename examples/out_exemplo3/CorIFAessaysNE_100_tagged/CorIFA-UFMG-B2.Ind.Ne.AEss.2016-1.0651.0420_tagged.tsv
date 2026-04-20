@@ -1,0 +1,594 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0651.0420.txt
+token	tags
+﻿	NNP
+    	
+In	PIN CONJ CAP PREP
+any	QUAN DET
+engineering	GER
+project	NN
+,	
+the	ART DET
+choice	NN
+of	PIN PREP
+the	ART DET
+desired	SUAV
+properties	NN
+in	PIN CONJ PREP
+the	ART DET
+material	NN
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+determining	GER PRIV SUAV PGAS
+factors	NN
+for	PIN PREP
+the	ART DET
+choice	NN
+of	PIN PREP
+the	ART DET
+material	NN
+itself	PIT PRP SBJP ACCU
+and	ANDC CCONJ
+how	RB SCONJ WH
+it	PIT PRP SBJP
+will	PRMD
+be	PASS AUXB INF
+used	
+.	
+For	PIN CAP PREP
+examine	INF
+the	ART DET
+existing	PGAS
+properties	NN
+in	PIN CONJ PREP
+materials	NN
+,	
+various	JJ
+tests	NN
+are	PASS VPRT AUXB
+performed	
+to	PIN TO PREP
+compare	INF
+results	NN
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+and	CCONJ
+identify	INF
+the	ART DET
+most	RB EMPH SPADJ
+effective	JJ
+way	NN
+to	PIN TO PREP
+work	INF
+it	PIT PRP SBJP
+,	
+since	OSUB PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+subjected	
+to	PIN PREP
+many	QUAN JJ
+different	JJ
+mechanical	JJ
+stresses	NN
+depending	WZPRES PGAS
+on	PIN PREP
+the	ART DET
+test	NN
+done	PROD
+.	
+These	DEMO CAP DET
+tests	NN
+are	BEMA VPRT AUXB
+extremely	AMP RB
+important	JJ
+to	PIN TO PREP
+analyze	INF
+the	ART DET
+behavior	NN
+of	PIN PREP
+materials	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+metals	NN
+,	
+when	RB SCONJ WH
+subjected	
+to	PIN PREP
+various	JJ
+forces	NN
+and	CCONJ
+different	JJ
+temperatures	NN
+.	
+However	RB CONJ CAP
+,	
+for	PIN PREP
+lack	NN
+of	PIN PREP
+knowledge	NN
+on	PIN PREP
+the	ART DET
+behavior	NN
+of	PIN PREP
+materials	NN
+,	
+and	ANDC CCONJ
+often	RB
+negligent	JJ
+manufacturers	NN
+,	
+many	QUAN JJ
+accidents	NN
+can	POMD SPAU
+yet	RB
+be	PASS AUXB INF
+caused	
+.	
+  	
+When	RB CAP SCONJ WH
+a	ART DET INDA
+test	NN
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+performed	
+correctly	RB
+,	
+some	QUAN DET
+defects	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+seen	PRIV
+and	CCONJ
+can	POMD
+cause	INF
+accidents	NN
+.	
+An	ART CAP DET INDA
+example	NN
+widely	RB
+used	
+in	PIN CONJ PREP
+engineering	GER
+schools	NN
+is	BEMA VPRT AUXB
+the	ART DET
+Liberty	CAP NNP
+class	NN
+naval	JJ
+cargo	NN
+ship	NN
+,	
+built	PASTP
+in	PIN CONJ PREP
+the	ART DET
+U.S.	CAP NNP
+during	PIN PREP
+World	CAP NNP
+War	CAP NNP
+II	CAP NNP
+,	
+when	RB SCONJ WH
+a	ART DET INDA
+large	JJ
+number	NN
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+sank	VBD
+during	PIN PREP
+crossings	NN
+in	PIN CONJ PREP
+the	ART DET
+Atlantic	CAP NNP
+Ocean	CAP NNP
+.	
+The	ART CAP DET
+accidents	NN
+were	PASS VBD AUXB
+caused	
+due	PIN PREP
+to	PIN PREP
+fractures	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+structures	NN
+that	TSUB WHSUB WH
+propagate	VPRT
+quickly	RB
+in	PIN CONJ PREP
+the	ART DET
+ship	NN
+bulkhead	NN
+,	
+as	PIN CONJ PREP
+during	PIN PREP
+the	ART DET
+studies	NN
+of	PIN PREP
+the	ART DET
+metals	NN
+used	WZPAST
+were	PASS VBD SPAU AUXB
+not	XX0 RB
+analyzed	
+the	ART DET
+behavior	NN
+of	PIN PREP
+metals	NN
+when	RB WHOBJ SCONJ WH
+the	ART DET
+ship	NN
+would	PRMD
+be	AUXB INF
+crossing	PGAS
+the	ART DET
+ocean	NN
+at	PIN PREP
+low	JJ
+temperatures	NN
+.	
+The	ART CAP DET
+ductility	NOMZ
+of	PIN PREP
+metals	NN
+is	BEMA VPRT AUXB
+proportional	JJ PRED
+to	PIN PREP
+the	ART DET
+temperature	NN
+,	
+for	PIN PREP
+when	RB WHQU SCONJ WH
+metals	NN
+are	BEMA VPRT AUXB
+at	PIN PREP
+low	JJ
+temperatures	NN
+tend	VPRT
+to	PIN TO PREP
+become	INF
+weaker	JJ CMADJ
+,	
+fracturing	GER PGAS
+with	PIN PREP
+less	JJ CMADJ
+difficulty	NN
+.	
+However	RB CONJ CAP
+,	
+due	PIN PREP
+to	PIN PREP
+this	DEMO DET
+design	NN
+flaw	NN
+,	
+about	RB
+one	NUM
+third	NN
+of	PIN PREP
+the	ART DET
+Liberty	CAP NNP
+ships	NN
+sank	VBD
+.	
+  	
+Another	CAP DET
+example	NN
+of	PIN PREP
+lack	NN
+of	PIN PREP
+scientific	JJ
+knowledge	NN
+in	PIN CONJ PREP
+structures	NN
+and	PHC CCONJ
+materials	NN
+were	BEMA VBD AUXB
+the	ART DET
+collapse	NN
+of	PIN PREP
+the	ART DET
+first	JJ
+Tacoma	CAP NNP
+Narrows	CAP NNP
+Bridge	CAP NNP
+in	PIN CONJ PREP
+1940	NUM
+,	
+in	PIN CONJ PREP
+the	ART DET
+United	CAP NNP
+States	PUBV CAP NNP
+.	
+The	ART CAP DET
+cause	NN
+was	BEMA VBD AUXB
+a	ART DET INDA
+design	NN
+error	NN
+that	TSUB WHSUB WH
+did	VBD SPAU
+not	XX0 RB
+predict	PUBV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+wind	NN
+would	PRMD
+swing	INF
+the	ART DET
+bridge	NN
+in	PIN CONJ PREP
+the	ART DET
+same	JJ
+natural	JJ
+frequency	NN
+until	PIN PREP
+it	PIT PRP SBJP
+collapsed	VBD
+.	
+This	DEMO CAP DET
+effect	NN
+is	PASS VPRT AUXB
+known	PRIV
+as	PIN CONJ PREP
+resonance	NN
+.	
+Whenever	RB CAP SCONJ WH
+an	ART DET INDA
+accident	NN
+occurs	VPRT
+,	
+an	ART DET INDA
+investigation	NOMZ
+is	PASS VPRT AUXB
+made	
+to	PIN TO PREP
+seek	INF
+their	TPP3 PRP SBJP
+causes	NN
+with	PIN PREP
+the	ART DET
+intent	NN
+to	PIN TO PREP
+understand	PRIV INF
+what	WHCL WH
+factors	NN
+or	CCONJ
+physical	JJ
+phenomena	NN
+influenced	VBD
+so	PIN SCONJ PREP
+they	TPP3 PRP SBJP
+can	POMD
+be	PASS AUXB INF
+prevented	
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+.	
+Thus	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+possible	JJ PRED
+to	PIN TO PREP
+develop	INF
+new	JJ
+techniques	NN
+and	PHC CCONJ
+studies	NN
+to	PIN PREP
+bridge	NN
+constructions	NOMZ
+,	
+but	CCONJ
+are	PASS VPRT SPAU AUXB
+still	RB
+registered	
+a	ART DET INDA
+high	JJ
+number	NN
+of	PIN PREP
+accidents	NN
+in	PIN CONJ PREP
+this	DEMO DET
+context	NN
+.	
+  	
+The	ART CAP DET
+cost	NN
+-	
+benefit	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+extremely	AMP RB
+important	JJ
+factor	NN
+in	PIN CONJ PREP
+any	QUAN DET
+project	NN
+,	
+because	CAUS PIN SCONJ PREP
+for	PIN PREP
+any	QUAN DET
+company	NN
+as	PIN CONJ PREP
+there	EX
+is	VPRT AUXB
+less	JJ CMADJ
+spending	NN
+greater	JJ CMADJ
+is	BEMA VPRT AUXB
+their	TPP3 PRP SBJP
+profits	NN
+.	
+By	PIN CAP PREP
+choosing	PGAS
+to	PIN TO PREP
+cut	INF
+costs	NN
+,	
+various	JJ
+companies	NN
+fail	VPRT
+to	PIN TO PREP
+do	PROD INF
+all	QUAN DET
+the	ART DET
+assessments	NOMZ
+and	CCONJ
+risk	INF
+analysis	NN
+necessary	JJ
+for	PIN PREP
+the	ART DET
+safety	NN
+of	PIN PREP
+the	ART DET
+people	NN
+involved	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+project	NN
+and	CCONJ
+the	ART DET
+final	JJ
+product	NN
+production	NOMZ
+,	
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+example	NN
+of	PIN PREP
+American	JJ CAP
+cargo	NN
+ships	NN
+that	TSUB WHSUB WH
+were	PASS VBD AUXB
+built	
+to	PIN PREP
+a	ART DET INDA
+high	JJ
+demand	SUAV NN
+and	CCONJ
+need	INF
+low	JJ
+cost	NN
+and	PHC CCONJ
+speed	NN
+of	PIN PREP
+manufacture	NN
+,	
+resulting	PGAS
+in	PIN CONJ PREP
+catastrophic	JJ
+accidents	NN
+during	PIN PREP
+world	NNP
+war	NNP
+II	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+lack	NN
+of	PIN PREP
+scientific	JJ
+knowledge	NN
+is	BEMA VPRT AUXB
+also	RB
+a	ART DET INDA
+key	JJ
+factor	NN
+in	PIN CONJ PREP
+causing	PGAS
+accidents	NN
+like	PIN PREP
+these	DEMP DET
+,	
+because	CAUS PIN SCONJ PREP
+for	PIN PREP
+perhaps	RB
+not	XX0 RB
+having	PGAS
+greater	JJ CMADJ
+knowledge	NN
+about	PIN PREP
+materials	NN
+,	
+research	NN
+and	PHC CCONJ
+testing	NN
+end	VPRT
+up	PIN PREP
+being	BEMA AUXB
+more	RB EMPH CMADJ
+laborious	JJ
+and	CCONJ
+often	RB
+infeasible	JJ
+in	PIN CONJ PREP
+a	ART DET INDA
+full	JJ
+-	
+scale	NN
+production	NOMZ
+.	
+Investment	NOMZ CAP
+in	PIN CONJ PREP
+scientific	JJ
+research	NN
+makes	VPRT
+it	PIT PRP SBJP
+increasingly	RB
+possible	JJ
+technological	JJ
+advances	NN
+and	CCONJ
+greater	JJ CMADJ
+understanding	GER PRIV
+of	PIN PREP
+the	ART DET
+nature	NN
+and	ANDC CCONJ
+how	RB SCONJ WH
+it	PIT PRP SBJP
+works	VPRT
+,	
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+we	FPP1 PRP SBJP
+can	POMD
+apply	INF
+the	ART DET
+knowledge	NN
+in	PIN CONJ PREP
+all	QUAN DET
+types	NN
+of	PIN PREP
+engineering	GER
+projects	NN
+,	
+aiming	PGAS
+to	PIN TO PREP
+make	INF
+it	PIT PRP SBJP
+financially	RB
+viable	JJ
+and	CCONJ
+provide	INF
+all	QUAN DET
+types	NN
+of	PIN PREP
+situations	NOMZ
+that	TOBJ WHOBJ WH
+they	TPP3 PRP SBJP
+may	POMD
+be	PASS AUXB INF
+subjected	
+.	
+ 	

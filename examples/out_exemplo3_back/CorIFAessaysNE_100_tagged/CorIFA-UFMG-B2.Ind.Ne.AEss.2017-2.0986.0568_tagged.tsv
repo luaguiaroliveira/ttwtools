@@ -1,0 +1,584 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0986.0568.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2017	NN CAP
+-	
+2.0986.0568	NUM
+>	X
+  	
+<	X
+Clinical	JJ CAP
+pharmacist	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+solution	NOMZ
+to	PIN TO PREP
+reduce	INF
+medication	NOMZ
+errors	NN
+>	
+  	
+Intensification	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+harm	NN
+associated	WZPAST
+with	PIN PREP
+medicines	NN
+and	PHC CCONJ
+prescribing	GER
+can	POMD
+be	PASS AUXB INF
+defined	
+as	PIN CONJ PREP
+medication	NOMZ
+error	NN
+(	
+Dean	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2000	NUM
+)	
+.	
+As	PIN CONJ CAP PREP
+reported	PUBV
+by	PIN PREP
+World	CAP NNP
+Health	CAP NNP
+Organization	CAP NNP
+(	
+WHO	CAP NNP
+)	
+in	PIN CONJ PREP
+2017	NUM
+,	
+the	ART DET
+cost	NN
+associated	WZPAST
+with	PIN PREP
+medication	NOMZ
+errors	NN
+might	POMD
+be	BEMA AUXB INF
+equal	JJ PRED
+to	PIN PREP
+US$	CAP
+42	NUM
+billion	NUM
+.	
+However	RB CONJ CAP
+,	
+according	PGAS
+to	PIN PREP
+this	DEMO DET
+Organization	CAP NNP
+,	
+errors	NN
+are	BEMA VPRT AUXB
+inevitable	JJ PRED
+and	CCONJ
+the	ART DET
+challenge	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+reduce	INF
+their	TPP3 PRP SBJP
+frequency	NN
+and	PHC CCONJ
+impact	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+sense	PRIV NN
+,	
+clinical	JJ
+pharmacists	NN
+can	POMD
+be	BEMA AUXB INF
+an	ART DET INDA
+effective	JJ
+strategy	NN
+,	
+considering	GER PRIV PGAS
+their	TPP3 PRP SBJP
+expertise	NN
+in	PIN CONJ PREP
+medications	NOMZ
+associated	WZPAST
+with	PIN PREP
+their	TPP3 PRP SBJP
+sociobehavioral	JJ
+and	PHC CCONJ
+clinical	JJ
+understanding	GER PRIV
+.	
+ 	
+First	RB CAP
+,	
+reducing	PGAS
+medication	NOMZ
+errors	NN
+involves	VPRT
+the	ART DET
+capacity	NOMZ
+to	PIN TO PREP
+predict	PUBV INF
+,	
+explain	PUBV INF
+and	CCONJ
+elucidate	JJ
+problems	NN
+related	WZPAST
+to	PIN PREP
+medicines	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN PREP
+a	ART DET INDA
+clinical	JJ
+pharmacist	NN
+.	
+The	ART CAP DET
+pharmacy	NN
+curricula	NN
+provide	VPRT
+more	JJ EMPH CMADJ
+courses	NN
+on	PIN PREP
+drug	NN
+chemistry	NN
+than	PIN PREP
+do	PROD INF
+those	DEMO DET
+of	PIN PREP
+other	JJ
+health	NN
+care	NN
+professions	NOMZ
+,	
+which	SERE DET WH
+allows	VPRT SUAV
+to	PIN PREP
+pharmacists	NN
+identify	INF
+problems	NN
+related	WZPAST
+to	PIN PREP
+medications	NOMZ
+(	
+David	CAP NNP
+,	
+2009	NUM
+)	
+.	
+Thus	RB CONJ CAP
+,	
+dosage	NN
+errors	NN
+,	
+drug	NN
+incompatibilities	NN
+,	
+especially	RB
+in	PIN CONJ PREP
+those	DEMP DET
+that	DEMO WH
+frequently	RB
+occur	VPRT
+after	PIN PREP
+mixing	PGAS
+parenteral	JJ
+solutions	NOMZ
+,	
+and	ANDC CCONJ
+incorrect	JJ
+monotherapy	NN
+are	VPRT AUXB
+problems	NN
+that	TOBJ WHOBJ WH
+clinical	JJ
+pharmacists	NN
+are	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+solve	INF
+based	
+on	PIN PREP
+their	TPP3 PRP SBJP
+deep	JJ
+knowledge	NN
+of	PIN PREP
+medicines	NN
+.	
+The	ART CAP DET
+consequences	NN
+to	PIN PREP
+the	ART DET
+health	NN
+system	NN
+are	VPRT AUXB
+,	
+therefore	RB CONJ
+,	
+a	ART DET INDA
+patient	JJ
+safety	NN
+culture	NN
+and	CCONJ
+fewer	JJ CMADJ
+expenses	NN
+related	WZPAST
+to	PIN PREP
+medication	NOMZ
+errors	NN
+.	
+ 	
+Another	CAP DET
+fundamental	JJ
+fact	NN
+that	PIN TSUB SCONJ PREP
+impacts	VPRT
+the	ART DET
+chain	NN
+of	PIN PREP
+a	ART DET INDA
+safety	NN
+medication	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+health	NN
+education	NOMZ
+.	
+Clinical	JJ CAP
+pharmacists	NN
+are	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+instruct	SUAV INF
+the	ART DET
+patient	NN
+about	PIN PREP
+the	ART DET
+best	JJ SPADJ
+way	NN
+to	PIN TO PREP
+take	INF
+,	
+store	INF
+and	PHC CCONJ
+prepare	INF
+his	TPP3 PRP SBJP
+or	CCONJ
+her	TPP3 PRP SBJP
+medications	NOMZ
+.	
+In	PIN CONJ CAP PREP
+diabetes	NN
+therapy	NN
+,	
+for	PIN PREP
+instance	NN
+,	
+the	ART DET
+patients	NN
+who	WHSUB WH
+use	VPRT
+insulin	NN
+can	POMD SPAU
+frequently	RB
+put	INF
+the	ART DET
+insulin	NN
+in	PIN CONJ PREP
+the	ART DET
+freezer	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+known	PRIV
+to	PIN TO PREP
+degrade	INF
+it	PIT PRP SBJP
+,	
+or	CCONJ
+do	VPRT SPAU
+not	XX0 RB
+administer	INF
+this	DEMO DET
+medicine	NN
+correctly	RB
+.	
+The	ART CAP DET
+consequences	NN
+of	PIN PREP
+this	DEMP DET
+can	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+not	XX0 RB
+effective	JJ
+therapy	NN
+,	
+which	SERE WHQU DET WH
+might	POMD
+increase	INF
+the	ART DET
+rate	NN
+of	PIN PREP
+hospitalized	
+patients	NN
+,	
+higher	JJ CMADJ
+dosages	NN
+of	PIN PREP
+insulin	NN
+and	CCONJ
+irreversible	JJ
+harms	NN
+related	WZPAST
+to	PIN PREP
+diabetes	NN
+not	XX0 RB
+controlled	
+,	
+as	PIN CONJ PREP
+kidney	NN
+failure	NN
+and	PHC CCONJ
+blindness	NOMZ
+.	
+Avoiding	PRESP CAP PGAS
+this	DEMP DET
+means	VPRT PRIV
+quality	NOMZ
+of	PIN PREP
+life	NN
+to	PIN PREP
+the	ART DET
+patient	NN
+and	CCONJ
+a	ART DET INDA
+system	NN
+of	PIN PREP
+health	NN
+care	NN
+where	RB WHOBJ SCONJ WH
+the	ART DET
+frequency	NN
+of	PIN PREP
+medication	NOMZ
+errors	NN
+is	BEMA VPRT AUXB
+minimal	JJ PRED
+.	
+ 	
+Finally	RB CAP
+,	
+increasing	GER PRESP PGAS
+a	ART DET INDA
+safe	JJ
+an	ART DET INDA
+effective	JJ
+use	NN
+of	PIN PREP
+medicines	NN
+requires	VPRT SUAV
+the	ART DET
+ability	NOMZ
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+sociobehavioral	JJ
+and	CCONJ
+the	ART DET
+clinical	JJ
+science	NN
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+provided	
+in	PIN CONJ PREP
+clinical	JJ
+pharmacy	NN
+discipline	NN
+.	
+In	PIN CONJ CAP PREP
+order	SUAV NN
+to	PIN TO PREP
+identify	INF
+problems	NN
+related	WZPAST
+to	PIN PREP
+medicines	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+necessary	JJ PRED
+the	ART DET
+capacity	NOMZ
+to	PIN TO PREP
+interpret	INF
+clinical	JJ
+exams	NN
+,	
+as	PIN CONJ PREP
+high	JJ
+blood	NN
+potassium	NN
+meaning	WZPRES PRIV PGAS
+a	ART DET INDA
+possible	JJ
+inappropriate	JJ
+dosage	NN
+of	PIN PREP
+some	QUAN DET
+medicine	NN
+and	CCONJ
+,	
+also	RB
+,	
+behaviors	NN
+presented	WZPAST
+by	PIN PREP
+the	ART DET
+patient	NN
+,	
+as	PIN CONJ PREP
+irritability	NOMZ
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS BYPA AUXB INF
+caused	
+by	PIN PREP
+medicines	NN
+that	TSUB WHSUB WH
+act	VPRT
+in	PIN CONJ PREP
+the	ART DET
+brain	NN
+.	
+Thus	RB CONJ CAP
+,	
+clinical	JJ
+pharmacists	NN
+are	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+optimize	INF
+medication	NOMZ
+therapy	NN
+based	WZPAST
+on	PIN PREP
+their	TPP3 PRP SBJP
+knowledge	NN
+of	PIN PREP
+the	ART DET
+multiple	JJ
+abilities	NN
+related	WZPAST
+to	PIN PREP
+health	NN
+care	NN
+.	
+ 	
+Therefore	RB CONJ CAP
+,	
+an	ART DET INDA
+effective	JJ
+strategy	NN
+to	PIN TO PREP
+reduce	INF
+the	ART DET
+frequency	NN
+and	PHC CCONJ
+impact	NN
+of	PIN PREP
+medications	NOMZ
+errors	NN
+is	BEMA VPRT AUXB
+the	ART DET
+use	NN
+of	PIN PREP
+clinical	JJ
+pharmacists	NN
+.	
+To	PIN TO CAP PREP
+achieve	INF
+the	ART DET
+aim	NN
+launched	WZPAST
+for	PIN PREP
+the	ART DET
+WHO	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+Third	CAP NNP
+Global	CAP NNP
+Patient	CAP NNP
+Safety	CAP NNP
+Challenge	CAP NNP
+,	
+which	SERE DET WH
+involves	VPRT
+decreasing	GER PGAS
+the	ART DET
+medication	NOMZ
+errors	NN
+by	PIN PREP
+more	JJ EMPH CMADJ
+than	PIN PREP
+50	NUM
+%	NN
+in	PIN CONJ PREP
+all	QUAN DET
+countries	NN
+over	PIN PREP
+the	ART DET
+next	JJ
+five	NUM
+years	NN
+,	
+a	ART DET INDA
+key	JJ
+method	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+apply	INF
+the	ART DET
+abilities	NN
+presented	WZPAST
+by	PIN PREP
+clinical	JJ
+pharmacist	NN
+,	
+as	PIN CONJ PREP
+deep	JJ
+knowledge	NN
+of	PIN PREP
+medications	NOMZ
+,	
+health	NN
+education	NOMZ
+capacity	NOMZ
+,	
+sociobehavioral	JJ
+and	PHC CCONJ
+clinical	JJ
+science	NN
+understanding	GER PRIV
+.	
+ 	

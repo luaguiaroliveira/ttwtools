@@ -1,0 +1,1674 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0689.0329.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0689.0329	NUM
+>	X
+  	
+<	X
+Provenance	CAP NNP
+of	PIN PREP
+Neoproterozoic	CAP NNP
+metasedimentary	JJ
+rocks	NN
+of	PIN PREP
+Salinas	CAP NNP
+Formation	CAP NNP
+,	
+Araçuaí	CAP NNP
+Orogen	CAP NNP
+,	
+Brazil	CAP NNP
+>	
+  	
+The	ART CAP DET
+Salinas	CAP NNP
+Formation	CAP NNP
+occurs	VPRT
+in	PIN CONJ PREP
+a	ART DET INDA
+wide	JJ
+region	NN
+of	PIN PREP
+Médio	CAP NNP
+Vale	CAP NNP
+do	VPRT PROD
+Jequitinhonha	CAP NNP
+,	
+northern	JJ
+Araçuaí	CAP NNP
+orogen	NN
+,	
+NE	CAP NNP
+state	PUBV NN
+of	PIN PREP
+Minas	CAP NNP
+Gerais	CAP NNP
+,	
+Brazil	CAP NNP
+.	
+The	ART CAP DET
+succession	NOMZ
+includes	VPRT
+greywackes	NN
+sandstones	NN
+,	
+pelites	NN
+and	CCONJ
+polymictic	JJ
+ortoconglomerate	NN
+deformed	VBD
+and	PHC CCONJ
+metamorphosed	
+in	PIN CONJ PREP
+greenchist	NN
+to	PIN PREP
+low	JJ
+-	
+amphibolite	JJ
+facies	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+region	NN
+Salinas	CAP NNP
+Formation	CAP NNP
+lie	VPRT
+unconformably	RB
+on	PIN PREP
+top	NN
+of	PIN PREP
+Macaúbas	CAP NNP
+Group	CAP NNP
+and	CCONJ
+is	PASS VPRT AUXB
+intruded	
+for	PIN PREP
+pos	JJ
+-	
+colisional	JJ
+granites	NN
+of	PIN PREP
+G4	CAP NNP
+Supersuite	CAP NNP
+(	
+ca	NNP
+.	
+500	NUM
+-	
+530Ma	NUM
+;	
+Pedrosa	CAP NNP
+-	
+Soares	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+2007	NUM
+,	
+2011	NUM
+)	
+.	
+For	PIN CAP PREP
+a	ART DET INDA
+long	JJ
+period	NN
+the	ART DET
+Salinas	CAP NNP
+Formation	CAP NNP
+had	VBD PEAS
+been	PASS AUXB
+considered	PRIV
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+stratigraphic	JJ
+unit	NN
+of	PIN PREP
+the	ART DET
+Macaubas	CAP NNP
+Group	CAP NNP
+,	
+new	JJ
+detritical	JJ
+zircon	NN
+ages	NN
+and	PHC CCONJ
+provenance	NN
+studies	NN
+reclassified	WZPAST
+as	PIN CONJ PREP
+been	BEMA AUXB
+an	ART DET INDA
+orogenic	JJ
+basin	NN
+(	
+flysch	NN
+type	NN
+)	
+of	PIN PREP
+the	ART DET
+Araçuaí	CAP NNP
+Orogen	CAP NNP
+dated	VBD
+at	PIN PREP
+ca.560Ma	NNP
+as	PIN CONJ PREP
+the	ART DET
+maximum	JJ
+depositional	JJ
+age	NN
+(	
+Lima	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+2002	NUM
+,	
+Pedrosa	CAP NNP
+-	
+Soares	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+2007	NUM
+,	
+2008	NUM
+)	
+.	
+This	DEMO CAP DET
+study	NN
+presents	VPRT
+new	JJ
+geochronological	NN
+(	
+U	CAP NNP
+-	
+Pb	CAP NNP
+,	
+SHRIMP	CAP NNP
+)	
+and	ANDC CCONJ
+litochemical	JJ
+(	
+major	JJ
+and	CCONJ
+trace	NN
+element	NOMZ
+)	
+results	NN
+that	TSUB WHSUB WH
+permits	VPRT
+a	ART DET INDA
+more	JJ EMPH CMADJ
+detail	NN
+interpretation	NOMZ
+about	PIN PREP
+the	ART DET
+potential	JJ
+source	NN
+areas	NN
+and	CCONJ
+geotectonic	JJ
+settings	NN
+during	PIN PREP
+the	ART DET
+Salinas	CAP NNP
+Basin	CAP NNP
+deposition	NOMZ
+.	
+ 	
+The	ART CAP DET
+geochronological	JJ
+analysis	NN
+were	PASS VBD AUXB
+performed	
+at	PIN PREP
+ten	NUM
+zircon	NN
+grains	NN
+using	WZPRES PGAS
+the	ART DET
+Sensitive	CAP NNP
+High	CAP NNP
+Resolution	CAP NNP
+Ion	CAP NNP
+Microcoprobe	CAP NNP
+(	
+SHRIMP	CAP NNP
+II	CAP NNP
+)	
+of	PIN PREP
+Chinese	CAP NNP
+Academy	CAP NNP
+of	PIN PREP
+Geological	CAP NNP
+Sciences	CAP NNP
+.	
+The	ART CAP DET
+zircon	NN
+grains	NN
+were	PASS VBD AUXB
+concentrated	
+from	PIN PREP
+volcanic	JJ
+rocks	NN
+pebbles	NN
+contained	WZPAST
+in	PIN CONJ PREP
+ortoconglomerate	NN
+which	WHOBJ DET WH
+outcrops	NN
+in	PIN CONJ PREP
+northeast	NN
+of	PIN PREP
+Salinas	CAP NNP
+City	CAP NNP
+.	
+This	DEMO CAP DET
+ortoconclomerate	PIN PREP
+presents	NN
+pebbles	NN
+intensely	AMP RB
+rounded	JJ
+,	
+volcanic	JJ
+and	PHC CCONJ
+subvolcanic	JJ
+rocks	NN
+,	
+quartz	NN
+,	
+quartzite	NN
+,	
+gneiss	JJ
+,	
+granite	NN
+and	PHC CCONJ
+limestone	NN
+intermingled	WZPAST
+with	PIN PREP
+a	ART DET INDA
+scarce	JJ
+greywacke	NN
+matrix	NN
+.	
+Pebbles	NN CAP
+of	PIN PREP
+volcanic	JJ
+rock	NN
+are	BEMA VPRT AUXB
+the	ART DET
+most	RB EMPH SPADJ
+common	JJ
+,	
+varying	PGAS
+between	PIN PREP
+andesite	NN
+and	CCONJ
+riolite	JJ
+composition	NOMZ
+.	
+The	ART CAP DET
+interval	NN
+568	NUM
+-	
+698	NUM
+Ma	CAP NNP
+reported	VBD PUBV
+from	PIN PREP
+the	ART DET
+Salinas	CAP NNP
+Formation	CAP NNP
+metasedimentary	JJ
+rocks	NN
+suggests	VPRT PUBV SUAV
+contribution	NOMZ
+from	PIN PREP
+sources	NN
+areas	NN
+probably	RB
+originated	VBD
+during	PIN PREP
+the	ART DET
+passive	JJ
+margin	NN
+,	
+accretionary	JJ
+orogeny	NN
+and	CCONJ
+collisional	JJ
+orogeny	NN
+stages	NN
+.	
+ 	
+The	ART CAP DET
+Group	CAP NNP
+1	NUM
+,	
+main	JJ
+interval	NN
+(	
+6	NUM
+zircon	NN
+grains	NN
+)	
+ca.568	NN
+-	
+633	NUM
+Ma	CAP NNP
+indicates	VPRT PRIV
+as	PIN CONJ PREP
+potential	JJ
+sources	NN
+the	ART DET
+Rio	CAP NNP
+Doce	CAP NNP
+Magmatic	CAP NNP
+Arc	CAP NNP
+(	
+Pedrosa	CAP NNP
+-	
+Soares	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2011	NUM
+)	
+,	
+the	ART DET
+sin	NN
+-	
+collisional	JJ
+granites	NN
+of	PIN PREP
+G2	NN CAP
+Supersuite	CAP NNP
+(	
+Gradim	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2014	NUM
+)	
+and	ANDC CCONJ
+ophiolitic	JJ
+complex	NN
+related	WZPAST
+with	PIN PREP
+the	ART DET
+Ribeirão	CAP NNP
+da	NNP
+Folha	CAP NNP
+Formation	CAP NNP
+(	
+Queiroga	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2007	NUM
+;	
+Queiroga	CAP NNP
+,	
+2010	NUM
+)	
+.	
+The	ART CAP DET
+Group	CAP NNP
+2	NUM
+comprises	VPRT
+zircon	NN
+ages	NN
+between	PIN PREP
+ca.645	NNP
+-	
+680	NUM
+Ma	CAP NNP
+that	DEMO WH
+also	RB
+suggest	VPRT PUBV SUAV
+contribution	NOMZ
+from	PIN PREP
+ophiolitic	JJ
+complex	NN
+associated	WZPAST
+with	PIN PREP
+the	ART DET
+Ribeirão	CAP NNP
+da	NNP
+Folha	CAP NNP
+Formation	CAP NNP
+.	
+The	ART CAP DET
+oldest	JJ SPADJ
+age	NN
+ca.698	NN
+Ma	CAP NNP
+is	BEMA VPRT AUXB
+compatible	JJ PRED
+with	PIN PREP
+provenance	NN
+from	PIN PREP
+Sul	CAP NNP
+da	NNP
+Bahia	CAP NNP
+Alkaline	CAP NNP
+Province	CAP NNP
+(	
+Rosa	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2007	NUM
+)	
+and	ANDC CCONJ
+possible	JJ
+sources	NN
+from	PIN PREP
+the	ART DET
+West	JJ PLACE CAP
+African	CAP NNP
+would	PRMD
+be	BEMA AUXB INF
+the	ART DET
+volcanic	JJ
+mafic	JJ
+rocks	NN
+of	PIN PREP
+Lower	CAP NNP
+Diamictite	CAP NNP
+Formation	CAP NNP
+(	
+ca	NNP
+.	
+694Ma	NNP
+,	
+U	CAP NNP
+–	
+Pb	CAP NNP
+on	PIN PREP
+baddeleyite	NNP
+,	
+Straathof	CAP NNP
+,	
+2011	NUM
+)	
+and	ANDC CCONJ
+volcanic	JJ
+rocks	NN
+of	PIN PREP
+La	CAP NNP
+Louille	CAP NNP
+(	
+U	CAP NNP
+-	NNP
+Pb	CAP NNP
+on	PIN PREP
+zircon	NNP
+,	
+Thiéblemont	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2011	NUM
+)	
+.	
+ 	
+The	ART CAP DET
+litochemical	JJ
+study	NN
+includes	VPRT
+46	NUM
+litochemical	JJ
+analysis	NN
+,	
+trace	NN
+and	CCONJ
+major	JJ
+elements	NOMZ
+,	
+16	NUM
+analyses	NN
+are	BEMA VPRT AUXB
+unreleased	JJ PRED
+and	CCONJ
+the	ART DET
+others	NN
+were	PASS VBD AUXB
+compiled	
+from	PIN PREP
+studies	NN
+of	PIN PREP
+Pedrosa	CAP NNP
+-	
+Soares	CAP NNP
+(	
+1984	NUM
+,	
+1995	NUM
+)	
+and	ANDC CCONJ
+Grossi	CAP NNP
+Sad	CAP NNP
+e	NN
+Motta	NN CAP
+(	
+1991	NUM
+)	
+.	
+The	ART CAP DET
+samples	NN
+are	PASS VPRT BYPA AUXB
+represented	
+by	PIN PREP
+quartz	NN
+-	
+biotite	NN
+schist	NN
+,	
+muscovite	JJ
+schist	NN
+,	
+carbonatic	NN
+schist	NN
+(	
+regional	JJ
+and	CCONJ
+type	NN
+-	
+area	NN
+represents	VPRT
+)	
+and	ANDC CCONJ
+metagreywacke	NN
+quartzose	NNP
+,	
+characterized	PASTP
+as	PIN CONJ PREP
+bedded	JJ
+,	
+weakly	RB
+deformed	
+.	
+Mineralogically	RB CAP
+are	PASS VPRT BYPA AUXB
+composed	
+by	PIN PREP
+quartz	NN
+,	
+biotite	NN
+,	
+muscovite	JJ
+,	
+feldspar	NNP
+(	
+mainly	RB
+plagioclase	VPRT
+)	
+,	
+and	ANDC CCONJ
+in	PIN CONJ PREP
+minor	JJ
+proportion	NOMZ
+calcite	NN
+,	
+k	NN
+-	NN
+feldspar	NN
+,	
+chlorite	NN
+and	CCONJ
+lithic	JJ
+fragment	NOMZ
+.	
+The	ART CAP DET
+accessory	NN
+mineralogy	NN
+consists	VPRT
+of	PIN PREP
+tourmaline	NN
+,	
+garnet	NN
+,	
+apatite	NNP
+,	
+zircon	NNP
+,	
+titanite	NN
+,	
+rutile	RB
+,	
+staurolite	JJ
+,	
+sillimanite	JJ
+(	
+fibrous	JJ
+)	
+and	ANDC CCONJ
+opaque	NN
+.	
+ 	
+The	ART CAP DET
+assemblage	NN
+of	PIN PREP
+lithocemical	JJ
+data	NN
+reports	VPRT PUBV
+low	JJ
+Chemical	CAP NNP
+Index	CAP NNP
+of	PIN PREP
+Alteration	CAP NNP
+(	
+CIA	CAP NNP
+=	NNP
+48	NUM
+to	PIN PREP
+67	NUM
+)	
+and	ANDC CCONJ
+low	JJ
+SiO2	CAP NNP
+/	
+Al2O3	NN CAP
+ratio	NN
+(	
+2.3	NUM
+-7.9	NN
+)	
+that	DEMP WH
+indicates	VPRT PRIV
+limited	JJ
+weathering	GER
+of	PIN PREP
+the	ART DET
+source	NN
+rocks	NN
+and	PHC CCONJ
+deposition	NOMZ
+close	RB
+to	PIN PREP
+the	ART DET
+source	NN
+-	
+areas	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+the	ART DET
+litochemical	JJ
+characteristics	NN
+indicate	VPRT PRIV
+of	PIN PREP
+the	ART DET
+greywackes	NN
+of	PIN PREP
+Salinas	CAP NNP
+Formation	CAP NNP
+were	PASS VBD AUXB
+derived	
+from	PIN PREP
+mixed	JJ
+sources	NN
+.	
+In	PIN CONJ CAP PREP
+terms	NN
+of	PIN PREP
+provenance	NN
+,	
+continental	JJ
+magmatic	JJ
+arc	NNP
+,	
+active	JJ
+continental	JJ
+margin	NN
+and	CCONJ
+appear	SMP INF
+to	PIN TO PREP
+be	BEMA AUXB INF
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+geotectonic	JJ
+environments	NOMZ
+that	TSUB WHSUB WH
+contributed	VBD
+to	PIN PREP
+the	ART DET
+sedimentation	NOMZ
+of	PIN PREP
+Salinas	CAP NNP
+Formation	CAP NNP
+.	
+  	
+Considering	GER PRIV CAP PGAS
+the	ART DET
+geodynamic	JJ
+evolution	NOMZ
+of	PIN PREP
+the	ART DET
+Araçuaí	CAP NNP
+Orogen	CAP NNP
+,	
+the	ART DET
+sediments	NOMZ
+of	PIN PREP
+the	ART DET
+Salinas	CAP NNP
+Formation	CAP NNP
+seem	VPRT SMP
+to	PIN TO PREP
+be	PASS AUXB INF
+deposited	
+in	PIN CONJ PREP
+a	ART DET INDA
+flysch	NN
+basin	NN
+located	WZPAST
+above	PIN PLACE PREP
+the	ART DET
+passive	JJ
+margin	NN
+sequence	NN
+and	PHC CCONJ
+boundary	NN
+with	PIN PREP
+the	ART DET
+continental	JJ
+active	JJ
+margin	NN
+in	PIN CONJ PREP
+the	ART DET
+east	PLACE NN
+.	
+The	ART CAP DET
+sediments	NOMZ
+contributions	NOMZ
+were	PASS VBD SPAU AUXB
+probably	RB
+brought	
+through	PIN PREP
+the	ART DET
+turbidity	NOMZ
+currents	NN
+originated	VBD
+mainly	RB
+from	PIN PREP
+the	ART DET
+east	PLACE NN
+of	PIN PREP
+the	ART DET
+Salinas	CAP NNP
+Basin	CAP NNP
+.	
+  	
+<	X
+Refereces	CAP NNP
+:>	NN
+ 	
+<	X
+GRADIM	CAP NNP
+,	
+C.	CAP NNP
+,	
+RONCATO	CAP NNP
+,	
+J.	CAP NNP
+,	
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+,	
+A.C.	CAP NNP
+,	
+CORDANI	CAP NNP
+,	
+U.G.	CAP NNP
+,	
+DUSSIN	CAP NNP
+,	
+I.A.	CAP NNP
+,	
+ALKMIM	CAP NNP
+,	
+F.F.	CAP NNP
+,	
+QUEIROGA	CAP NNP
+,	
+G.	CAP NNP
+,	
+JACOBSOHN	CAP NNP
+,	
+T.	CAP NNP
+,	
+SILVA	CAP NNP
+,	
+L.C.	CAP NNP
+,	
+BABINSKI	CAP NNP
+,	
+M.	CAP NNP
+,	
+2014	NUM
+.	
+The	ART CAP DET
+hot	JJ
+back	JJ
+-	
+arc	NN
+zone	NN
+of	PIN PREP
+the	ART DET
+Araçuaí	CAP NNP
+orogen	NN
+,	
+Eastern	CAP NNP
+Brazil	CAP NNP
+:	
+from	PIN PREP
+sedimentation	NOMZ
+to	PIN PREP
+granite	NN
+generation	NOMZ
+.	
+Braz	CAP NNP
+.	
+J.	CAP NNP
+Geol	CAP NNP
+.	
+n	CCONJ
+:	
+44	NUM
+,	
+v.:1	NNP
+,	
+pp	NNP
+.	
+155–180	NUM
+.	
+>	X
+ 	
+<	X
+GROSSI	CAP NNP
+-	
+SAD	CAP NNP
+,	
+J.H.	CAP NNP
+&	CCONJ
+MOTTA	CAP NNP
+,	
+E.G.M.	CAP NNP
+,	
+1991	NUM
+.	
+Geologia	CAP NNP
+e	NN
+prospecção	NNP
+geoquímica	NNP
+na	TO
+área	NNP
+Capelinha	CAP NNP
+–	
+Turmalina	CAP NNP
+–	
+Minas	CAP NNP
+Novas	CAP NNP
+,	
+MG	CAP NNP
+.	
+1991	NUM
+.	
+125p	NN
+.	
+GEOSOL	NN CAP
+,	
+report	PUBV NN
+to	PIN PREP
+ACESITA	CAP NNP
+.	
+>	X
+ 	
+<	X
+LIMA	CAP NNP
+,	
+S.A.A.	CAP NNP
+,	
+MARTINS	NN CAP
+-	
+NETO	RB CAP
+,	
+M.	CAP NNP
+,	
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+,	
+A.C.	CAP NNP
+,	
+CORDANI	CAP NNP
+,	
+U.G.	CAP NNP
+,	
+NUTMAN	CAP NNP
+,	
+A.	NN CAP
+A	ART CAP DET INDA
+Formação	CAP NNP
+Salinas	CAP NNP
+na	TO
+área	NNP
+tipo	NNP
+,	
+NE	CAP NNP
+de	NNP
+Minas	CAP NNP
+Gerais	CAP NNP
+:	
+uma	NNP
+proposta	NNP
+de	X
+revisão	NNP
+da	NNP
+estratigrafia	NN
+da	X
+Faixa	CAP NNP
+Araçuaí	CAP NNP
+com	NN
+base	NN
+em	PRP SBJP
+evidências	NN
+sedimentares	NN
+,	
+metamórficas	NN
+,	
+e	NN
+idades	NN
+U	CAP NNP
+–	
+Pb	CAP NNP
+SHRIMP	NN CAP
+.	
+Revista	CAP NNP
+Brasileira	CAP NNP
+de	X
+Geociências	CAP NNP
+v.32	NNP
+,	
+n.1	NN
+,	
+p.491–500	NNP
+.	NNP
+2002	NUM
+.	
+>	X
+ 	
+<	X
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+A.C.	CAP NNP
+,	
+1984	NUM
+.	
+Metamorfismo	CAP NNP
+,	
+granitogênese	NNP
+e	NN
+mineralizações	VBD
+associadas	NN
+na	TO
+região	INF
+de	PIN PREP
+Coronel	CAP NNP
+Murta	CAP NNP
+,	
+NE	CAP NNP
+de	NNP
+Minas	CAP NNP
+Gerais	CAP NNP
+.	
+Brasília	CAP NNP
+,	
+1984	NUM
+.	
+236	NUM
+p.	NN
+Tese	CAP NNP
+(	
+Mestrado	CAP NNP
+)	
+–	
+Instituto	CAP NNP
+de	X
+Geociências	CAP NNP
+,	
+Universidade	CAP NNP
+de	NNP
+Brasília	CAP NNP
+.	
+>	X
+ 	
+<	X
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+A.C.	CAP NNP
+,	
+1995	NUM
+.	
+Potencial	CAP NNP
+Aurífero	CAP NNP
+do	VPRT PROD
+Vale	CAP NNP
+do	PROD INF
+Araçuaí	CAP NNP
+,	
+MG	CAP NNP
+:	
+História	CAP NNP
+da	NNP
+exploração	NNP
+,	
+geologia	NNP
+e	NNP
+controle	NN
+-	
+tectono	NNP
+metamórfico	NN
+.	
+Brasília	CAP NNP
+,	
+1995	NUM
+.	
+176	NUM
+p.	NN
+Thesis	CAP NNP
+(	
+PhD	NN CAP
+)	
+-	
+Instituto	CAP NNP
+de	X
+Geociências	CAP NNP
+,	
+Universidade	CAP NNP
+de	NNP
+Brasília	CAP NNP
+.	
+>	X
+ 	
+<	X
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+,	
+A.C.	CAP NNP
+,	
+NOCE	CAP NNP
+,	
+C.M.	CAP NNP
+,	
+ALKMIM	CAP NNP
+,	
+F.F.	CAP NNP
+,	
+SILVA	CAP NNP
+,	
+L.C.	CAP NNP
+,	
+BABINSKI	CAP NNP
+,	
+M.	CAP NNP
+,	
+CORDANI	CAP NNP
+,	
+U.	CAP NNP
+,	
+CASTAÑEDA	CAP NNP
+,	
+C.	CAP NNP
+,	
+2007	NUM
+.	
+Orógeno	CAP NNP
+Araçuaí	CAP NNP
+:	
+Síntese	CAP NNP
+do	VPRT EMPH
+conhecimento	INF
+30	NUM
+anos	NNP
+após	NN
+Almeida	CAP NNP
+1977	NUM
+.	
+Geonomos	CAP NNP
+n.15	NNP
+,	
+v.1	VPRT
+,	
+pp.1–16	NUM
+.	
+>	X
+ 	
+<	X
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+,	
+A.C.	CAP NNP
+,	
+CAMPOS	CAP NNP
+,	
+C.P.	CAP NNP
+,	
+NOCE	CAP NNP
+,	
+C.M.	CAP NNP
+,	
+SILVA	CAP NNP
+,	
+L.C.	CAP NNP
+,	
+NOVO	CAP NNP
+,	
+T.A.	CAP NNP
+,	
+RONCATO	CAP NNP
+,	
+J.	CAP NNP
+,	
+MEDEIROS	CAP NNP
+,	
+S.	CAP NNP
+,	
+CASTAÑEDA	CAP NNP
+,	
+C.	CAP NNP
+,	
+QUEIROGA	CAP NNP
+,	
+G.N.	CAP NNP
+,	
+DANTAS	CAP NNP
+,	
+E.	CAP NNP
+,	
+DUSSIN	CAP NNP
+,	
+I.A.	CAP NNP
+,	
+ALKMIM	CAP NNP
+,	
+F.F.	CAP NNP
+,	
+2011	NUM
+.	
+Late	JJ TIME CAP
+Neoproterozoic	JJ CAP
+-	
+Cambrian	JJ CAP
+granitic	JJ
+magmatism	NN
+in	PIN CONJ PREP
+the	ART DET
+Araçuaí	CAP NNP
+orogen	NN
+(	
+Brazil	CAP NNP
+)	
+,	
+the	ART DET
+Eastern	JJ CAP
+Brazilian	CAP NNP
+Pegmatite	CAP NNP
+Province	CAP NNP
+and	CCONJ
+related	JJ
+mineral	NN
+resources	NN
+.	
+Geological	CAP NNP
+Society	CAP NNP
+of	PIN PREP
+London	CAP NNP
+,	
+Special	CAP NNP
+Publications	CAP NNP
+n.350	NNP
+,	
+pp.25–51	NNP
+.	
+>	X
+ 	
+<	X
+PEDROSA	CAP NNP
+-	
+SOARES	CAP NNP
+,	
+A.C.	CAP NNP
+,	
+ALKMIM	CAP NNP
+,	
+F.F.	CAP NNP
+,	
+TACK	CAP NNP
+,	
+L.	CAP NNP
+,	
+NOCE	CAP NNP
+,	
+C.M.	CAP NNP
+,	
+BABINSKI	CAP NNP
+,	
+M.	CAP NNP
+,	
+SILVA	CAP NNP
+,	
+L.C.	CAP NNP
+,	
+MARTINS	NN CAP
+-	
+NETO	RB CAP
+,	
+M.A.	CAP NNP
+,	
+2008	NUM
+.	
+Similarities	NN CAP
+and	PHC CCONJ
+differences	NN
+between	PIN PREP
+the	ART DET
+Brazilian	JJ CAP
+and	PHC CCONJ
+African	JJ CAP
+counterparts	NN
+of	PIN PREP
+the	ART DET
+Neoproterozoic	CAP NNP
+Araçuaí	CAP NNP
+–	
+West	CAP NNP
+Congo	CAP NNP
+orogen	NN
+.	
+In	PIN CONJ STPR CAP PREP
+:	
+Pankhurst	CAP NNP
+,	
+R.J.	CAP NNP
+,	
+Trouw	CAP NNP
+,	
+R.A.J.	CAP NNP
+,	
+Brito	CAP NNP
+Neves	CAP NNP
+,	
+B.B.	CAP NNP
+,	
+de	NNP
+Wit	CAP NNP
+,	
+M.J.	CAP NNP
+(	
+Eds	CAP NNP
+.	
+)	
+,	
+West	CAP NNP
+Gond	CAP NNP
+-	
+wana	NNP
+:	
+Pre	CAP NNP
+-	NNP
+Cenozoic	CAP NNP
+Correlations	CAP NNP
+Across	PIN PLACE CAP PREP
+the	ART DET
+South	CAP NNP
+Atlantic	CAP NNP
+Region	CAP NNP
+.	
+Geological	CAP NNP
+Society	CAP NNP
+of	PIN PREP
+London	CAP NNP
+Special	CAP NNP
+Publications	CAP NNP
+294	NUM
+,	
+pp	NNP
+.	
+153–172	NUM
+.	
+>	X
+ 	
+<	X
+QUEIROGA	CAP NNP
+,	
+G.N.	CAP NNP
+,	
+2006	NUM
+.	
+A	ART CAP DET INDA
+seção	NN
+sedimentat	NNP
+sulfetada	NNP
+do	PROD NNP
+ofiolito	NNP
+de	NNP
+Ribeirão	CAP NNP
+da	NNP
+Folha	CAP NNP
+e	NN
+seu	NN
+potencial	NNP
+metalogenético	NNP
+,	
+Orógeno	CAP NNP
+Araçuaí	CAP NNP
+,	
+MG	CAP NNP
+.	
+Belo	CAP NNP
+Horizonte	CAP NNP
+,	
+2006	NUM
+.	
+107	NUM
+p.	NN
+Dissertação	CAP NNP
+(	
+Mestrado	CAP NNP
+)	
+–	
+Instituto	CAP NNP
+de	X
+Geociência	CAP NNP
+,	
+Universidade	CAP NNP
+Federal	CAP NNP
+de	NNP
+Minas	CAP NNP
+Gerais	CAP NNP
+.	
+>	X
+ 	
+<	X
+QUEIROGA	CAP NNP
+,	
+G.N.	CAP NNP
+,	
+(	
+Ph.D.	NN CAP
+thesis	NN
+)	
+2010	NUM
+.	
+Caracterização	CAP NNP
+de	NNP
+restos	X
+de	X
+litosfera	NNP
+oceânica	NN
+do	VPRT PROD
+Orógeno	CAP NNP
+Aracuaí	CAP NNP
+entre	NN
+os	NNP
+paralelos	NNP
+17	NUM
+?	QUES
+e	NNP
+21	NUM
+?	QUES
+S.	CAP NNP
+Universidade	CAP NNP
+Federal	CAP NNP
+de	NNP
+Minas	CAP NNP
+Gerais	CAP NNP
+,	
+Brazil	CAP NNP
+www.bibliotecadigital.ufmg.br	JJ URL CMADJ
+(	
+acessed	PASTP
+in	PIN CONJ PREP
+20/06/2016	NUM
+)	
+.	
+>	X
+ 	
+<	X
+ROSA	CAP NNP
+,	
+M.L.S.	CAP NNP
+,	
+CONCEIÇÃO	CAP NNP
+,	
+H.	CAP NNP
+,	
+MACAMBIRA	CAP NNP
+,	
+M.J.	CAP NNP
+,	
+GALARZA	CAP NNP
+,	
+M.A.	CAP NNP
+,	
+CUNHA	CAP NNP
+,	
+M.P.	CAP NNP
+,	
+MENEZES	CAP NNP
+,	
+R.C.L.	CAP NNP
+,	
+MARINHO	CAP NNP
+,	
+M.M.	CAP NNP
+,	
+CRUZ	CAP NNP
+-	
+FILHO	CAP NNP
+,	
+B.E.	CAP NNP
+,	
+RIOS	CAP NNP
+,	
+D.C.	CAP NNP
+2007	NUM
+.	
+Neoproterozoic	CAP NNP
+anoro	NNP
+-	
+genic	JJ
+magmatism	NN
+in	PIN CONJ PREP
+the	ART DET
+Southern	CAP NNP
+Bahia	CAP NNP
+Alkaline	CAP NNP
+Province	CAP NNP
+of	PIN PREP
+NE	CAP NNP
+Brazil	CAP NNP
+:	
+U	CAP NNP
+–	
+Pb	CAP NNP
+and	PHC CCONJ
+Pb	CAP NNP
+–	
+Pb	CAP NNP
+ages	NN
+of	PIN PREP
+the	ART DET
+blue	JJ
+sodalite	JJ
+syenites	NN
+.	
+Lithos	NN CAP
+97	NUM
+,	
+88–97	NNP
+.	
+>	
+ 	
+<	X
+STRAATHOF	CAP NNP
+,	
+G.B.	CAP NNP
+2011	NUM
+.	
+Neoproterozoic	CAP NNP
+Low	CAP NNP
+Latitude	CAP NNP
+Glaciations	CAP NNP
+:	
+An	ART CAP DET INDA
+African	CAP NNP
+Perspective	CAP NNP
+.	
+Thesis	NN CAP
+(	
+PhD	NN CAP
+)	
+.	
+University	CAP NNP
+of	PIN PREP
+Edinburgh	CAP NNP
+,	
+Scotland	CAP NNP
+,	
+UK	CAP NNP
+.	
+>	X
+ 	
+<	X
+THIÉBLEMONT	CAP NNP
+,	
+D.	CAP NNP
+,	
+PRIAN	CAP NNP
+,	
+J.P.	CAP NNP
+,	
+GOUJOU	CAP NNP
+,	
+J.C.	CAP NNP
+,	
+BOULINGUI	CAP NNP
+,	
+B.	CAP NNP
+,	
+EKOGHA	CAP NNP
+,	
+H.	CAP NNP
+,	
+KASSADOU	CAP NNP
+,	
+A.B.	CAP NNP
+,	
+SIMO	CAP NNP
+-	
+NDOUNZE	CAP NNP
+,	
+S.	CAP NNP
+,	
+WALEMBA	CAP NNP
+,	
+A.	NN CAP
+,	
+PRÉAT	CAP NNP
+,	
+A.	CAP NNP
+,	
+THEUNISSEN	CAP NNP
+,	
+K.	CAP NNP
+,	
+COCHERIE	CAP NNP
+,	
+A.	NN CAP
+,	
+GUERROT	CAP NNP
+,	
+C.	CAP NNP
+2011	NUM
+.	
+Timing	NN CAP
+and	PHC CCONJ
+characteristics	NN
+of	PIN PREP
+Neoproterozoic	CAP NNP
+magmatism	NN
+in	PIN CONJ PREP
+SW	CAP NNP
+-	
+Gabon	CAP NNP
+:	
+first	JJ
+geochronogical	JJ
+and	PHC CCONJ
+geochemical	JJ
+data	NN
+on	PIN PREP
+the	ART DET
+West	CAP NNP
+-	
+Congolian	CAP NNP
+orogen	NN
+in	PIN CONJ PREP
+Gabon	CAP NNP
+(	
+SYSMIN	CAP NNP
+project	NN
+,	
+Gabon	CAP NNP
+2005–2009	NUM
+)	
+.	
+In	PIN CONJ STPR CAP PREP
+:	
+23	NUM
+Colloquium	CAP NNP
+of	PIN PREP
+African	CAP NNP
+Geology	CAP NNP
+(	
+CAG23	CAP NNP
+)	
+.	
+University	CAP NNP
+of	PIN PREP
+Johannesburg	CAP NNP
+,	
+Republic	CAP NNP
+of	PIN PREP
+South	CAP NNP
+Africa	CAP NNP
+,	
+Abstracts	CAP NNP
+.	
+>	X
+ 	

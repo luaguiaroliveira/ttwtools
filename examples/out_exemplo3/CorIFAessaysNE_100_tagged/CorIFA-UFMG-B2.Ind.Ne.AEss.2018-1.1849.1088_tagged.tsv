@@ -1,0 +1,1036 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1849.1088.txt
+token	tags
+    	
+According	CAP PGAS
+to	PIN PREP
+historical	JJ
+records	NN
+,	
+the	ART DET
+first	JJ
+institution	NOMZ
+destined	VBD
+to	PIN PREP
+the	ART DET
+formal	JJ
+education	NOMZ
+of	PIN PREP
+engineering	GER
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+,	
+with	PIN PREP
+a	ART DET INDA
+similar	JJ
+teaching	NN
+model	NN
+to	PIN PREP
+what	WH
+we	FPP1 PRP SBJP
+know	VPRT PRIV
+today	TIME NN
+,	
+was	VBD AUXB
+Écola	CAP NNP
+Nationale	CAP NNP
+des	NNP
+Ponts	CAP NNP
+et	NN
+Chausseés	CAP NNP
+in	PIN CONJ PREP
+1747	NUM
+,	
+in	PIN CONJ PREP
+France	CAP NNP
+[	X
+1	NUM
+]	X
+.	
+Despite	PIN CAP SCONJ PREP
+this	DEMP DET
+,	
+the	ART DET
+first	JJ
+woman	NN
+to	PIN TO PREP
+graduate	INF
+in	PIN CONJ PREP
+engineering	GER
+was	VBD AUXB
+Elizabeth	CAP NNP
+Bragg	CAP NNP
+in	PIN CONJ PREP
+1876	NUM
+at	PIN PREP
+the	ART DET
+University	CAP NNP
+of	PIN PREP
+California	CAP NNP
+at	PIN PREP
+Berkeley	CAP NNP
+[	PIN PREP
+2	NUM
+]	
+.	
+In	PIN CONJ CAP PREP
+Europe	CAP NNP
+,	
+the	ART DET
+first	JJ
+woman	NN
+to	PIN TO PREP
+receive	INF
+a	ART DET INDA
+bachelor	NN
+'s	
+degree	NN
+in	PIN CONJ PREP
+engineering	GER
+was	BEMA VBD AUXB
+the	ART DET
+Irish	CAP NNP
+Alice	CAP NNP
+Perry	CAP NNP
+in	PIN CONJ PREP
+1906	NUM
+at	PIN PREP
+Royal	CAP NNP
+University	CAP NNP
+Galway	CAP NNP
+[	X
+2	NUM
+]	
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+it	PIT PRP SBJP
+took	VBD
+more	JJ EMPH CMADJ
+than	PIN PREP
+a	ART DET INDA
+hundred	NUM
+years	NN
+since	OSUB PIN SCONJ PREP
+the	ART DET
+creation	NOMZ
+of	PIN PREP
+engineering	GER
+courses	NN
+for	PIN PREP
+a	ART DET INDA
+woman	NN
+to	PIN TO PREP
+graduate	INF
+as	PIN CONJ PREP
+an	ART DET INDA
+engineer	NN
+.	
+Nowadays	RB TIME CAP
+the	ART DET
+reality	NOMZ
+has	VPRT PEAS
+changed	
+a	EMPH ART DET INDA
+lot	NN
+,	
+but	CCONJ
+women	NN
+continue	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+the	ART DET
+minority	NOMZ
+in	PIN CONJ PREP
+science	NN
+and	PHC CCONJ
+engineering	GER
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+women	NN
+in	PIN CONJ PREP
+these	DEMO DET
+areas	NN
+has	VPRT PEAS
+grown	
+continuously	RB
+,	
+they	TPP3 PRP SBJP
+remain	VPRT
+underrepresented	JJ
+at	PIN PREP
+both	CCONJ
+the	ART DET
+academic	JJ
+and	CCONJ
+the	ART DET
+professional	JJ
+level	NN
+.	
+According	CAP PGAS
+to	PIN STPR PREP
+"	QUOT
+"	QUOT
+Conselho	CAP NNP
+Federal	CAP NNP
+de	NNP
+Engenharia	CAP NNP
+e	NN
+Agronomia	CAP NNP
+"	QUOT
+"	QUOT
+(	
+CONFEA	CAP NNP
+)	
+in	PIN CONJ PREP
+Brazil	CAP NNP
+,	
+only	DWNT RB
+about	RB
+16	NUM
+%	NN
+of	PIN PREP
+registered	JJ
+professionals	NN
+are	VPRT AUXB
+women	NN
+[	X
+3	NUM
+]	
+.	
+Date	NN CAP
+from	PIN STPR PREP
+“	
+Instituto	CAP NNP
+Nacional	CAP NNP
+de	X
+Estudos	CAP NNP
+e	NN
+Pesquisas	CAP NNP
+Educacionais	CAP NNP
+Anísio	CAP NNP
+Teixeira	CAP NNP
+”	
+(	
+Inep	CAP NNP
+)	
+also	RB
+show	VPRT PRIV
+a	ART DET INDA
+significant	JJ
+increase	NN
+in	PIN CONJ PREP
+the	ART DET
+presence	NN
+of	PIN PREP
+women	NN
+in	PIN CONJ PREP
+the	ART DET
+classroom	NN
+.	
+Between	PIN CAP PREP
+2013	NUM
+and	CCONJ
+2015	NUM
+,	
+there	EX
+was	VBD AUXB
+a	ART DET INDA
+growth	NN
+of	PIN PREP
+38	NUM
+%	NN
+in	PIN CONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+women	NN
+enrolled	VBD
+in	PIN CONJ PREP
+engineering	GER
+courses	NN
+.	
+Even	RB CAP
+so	RB
+,	
+in	PIN CONJ PREP
+2015	NUM
+women	NN
+represented	VBD
+just	RB EMPH
+28	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+students	NN
+[	X
+4	NUM
+]	
+.	
+Cultural	JJ CAP
+values	NN
+,	
+social	JJ
+norms	NN
+,	
+work	NN
+environment	NOMZ
+and	PHC CCONJ
+styles	NN
+appropriate	JJ
+to	PIN PREP
+the	ART DET
+male	JJ
+gender	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+relationship	NN
+between	PIN PREP
+colleagues	NN
+of	PIN PREP
+the	ART DET
+opposite	JJ PIN PREP
+sex	NN
+are	VPRT AUXB
+determining	GER PRIV SUAV PGAS
+factors	NN
+for	PIN PREP
+this	DEMO DET
+scenario	NN
+of	PIN PREP
+female	JJ
+underrepresentation	NOMZ
+in	PIN CONJ PREP
+engineering	GER
+.	
+ 	
+Most	JJ EMPH CAP SPADJ
+women	NN
+are	PASS VPRT SPAU AUXB
+not	XX0 RB
+encouraged	
+to	PIN TO PREP
+be	AUXB INF
+engineers	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+stereotype	NN
+that	PIN DEMO SCONJ PREP
+engineering	GER
+is	BEMA VPRT AUXB
+a	ART DET INDA
+course	NN
+for	PIN PREP
+men	NN
+and	CCONJ
+not	XX0 RB
+for	PIN PREP
+women	NN
+.	
+It	PIT CAP PRP SBJP
+influences	VPRT
+many	QUAN JJ
+women	NN
+to	PIN TO PREP
+believe	PRIV INF
+that	PIN THVC SCONJ PREP
+if	COND PIN SCONJ PREP
+they	TPP3 PRP SBJP
+choose	VPRT
+this	DEMO DET
+profession	NOMZ
+,	
+they	TPP3 PRP SBJP
+will	PRMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+successful	JJ PRED
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+careers	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+myth	NN
+because	CAUS PIN SCONJ PREP
+women	NN
+are	BEMA VPRT AUXB
+indeed	RB
+able	JJ
+to	PIN TO PREP
+perform	INF
+the	ART DET
+same	JJ
+function	NOMZ
+as	PIN CONJ PREP
+men	NN
+and	CCONJ
+with	PIN PREP
+the	ART DET
+same	JJ
+productivity	NOMZ
+.	
+There	EX CAP
+is	VPRT AUXB
+no	SYNE DET
+reason	PRIV NN
+for	PIN PREP
+women	NN
+do	VPRT SPAU
+not	XX0 RB
+stand	INF
+out	PIN PREP
+in	PIN CONJ PREP
+the	ART DET
+industry	NN
+.	
+Year	NN CAP
+after	PIN PREP
+year	NN
+,	
+we	FPP1 PRP SBJP
+see	VPRT PRIV
+young	JJ
+women	NN
+equaling	WZPRES PGAS
+or	CCONJ
+surpassing	GER PGAS
+men	NN
+in	PIN CONJ PREP
+math	NN
+and	PHC CCONJ
+science	NN
+exams	NN
+-	
+both	DET
+of	PIN PREP
+which	PIRE DET WH
+are	BEMA VPRT AUXB
+key	JJ
+technical	JJ
+abilities	NN
+for	PIN PREP
+an	ART DET INDA
+engineer	NN
+.	
+The	ART CAP DET
+industry	NN
+increasingly	RB
+requires	VPRT SUAV
+engineers	NN
+who	WHSUB WH
+do	VPRT SPAU
+not	XX0 RB
+have	INF
+only	DWNT RB
+technical	JJ
+knowledge	NN
+but	CCONJ
+also	RB
+good	JJ
+communication	NOMZ
+and	PHC CCONJ
+relationship	NN
+skills	NN
+to	PIN TO PREP
+work	INF
+effectively	RB
+on	PIN PREP
+a	ART DET INDA
+team	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+the	ART DET
+history	NN
+of	PIN PREP
+humanity	NOMZ
+,	
+the	ART DET
+division	NOMZ
+of	PIN PREP
+tasks	NN
+between	PIN PREP
+women	NN
+and	PHC CCONJ
+man	NN
+has	VPRT PEAS SPAU
+always	RB
+been	BEMA AUXB
+evident	JJ PRED
+.	
+From	PIN CAP PREP
+the	ART DET
+earliest	JJ SPADJ
+times	NN
+,	
+the	ART DET
+woman	NN
+is	PASS VPRT AUXB
+seen	PRIV
+as	PIN CONJ PREP
+a	ART DET INDA
+caregiver	NN
+whose	WHOBJ DET WH
+the	ART DET
+main	JJ
+function	NOMZ
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+care	INF
+about	PIN PREP
+the	ART DET
+family	NN
+while	OSUB PIN SCONJ PREP
+men	NN
+are	PASS VPRT AUXB
+created	
+to	PIN TO PREP
+be	AUXB INF
+providers	NN
+and	CCONJ
+guarantee	PUBV INF
+protection	NOMZ
+.	
+These	DEMO CAP DET
+concepts	NN
+rooted	WZPAST
+in	PIN CONJ PREP
+society	NN
+led	VBD
+to	PIN PREP
+the	ART DET
+creation	NOMZ
+of	PIN PREP
+a	ART DET INDA
+stereotype	NN
+of	PIN PREP
+women	NN
+.	
+When	RB CAP SCONJ WH
+we	FPP1 PRP SBJP
+think	VPRT PRIV
+about	PIN PREP
+the	ART DET
+children	NN
+reality	NOMZ
+,	
+since	OSUB PIN SCONJ PREP
+the	ART DET
+first	JJ
+years	NN
+of	PIN PREP
+age	NN
+girls	NN
+are	PASS VPRT AUXB
+stimulated	
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+games	NN
+to	PIN TO PREP
+do	PROD INF
+household	NN
+chores	NN
+and	CCONJ
+take	INF
+care	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+children	NN
+,	
+while	OSUB PIN SCONJ PREP
+boys	NN
+gain	VPRT
+toys	NN
+that	PIN DEMO SCONJ PREP
+sharpen	NN
+creativity	NOMZ
+and	CCONJ
+improve	INF
+problem	NN
+-	
+solving	PGAS
+skills	NN
+.	
+Certainly	RB CAP
+,	
+this	DEMO DET
+tradition	NOMZ
+has	VPRT PEAS
+corroborated	
+to	PIN PREP
+the	ART DET
+idea	NN
+that	PIN DEMO SCONJ PREP
+there	EX
+are	VPRT AUXB
+specific	JJ
+activities	NN
+and	PHC CCONJ
+roles	NN
+for	PIN PREP
+men	NN
+and	PHC CCONJ
+women	NN
+in	PIN CONJ PREP
+society	NN
+.	
+This	DEMO CAP DET
+culture	NN
+at	PIN PREP
+home	NN
+must	NEMD
+change	INF
+.	
+The	ART CAP DET
+cognitive	JJ
+abilities	NN
+of	PIN PREP
+children	NN
+should	NEMD
+be	PASS AUXB INF
+encouraged	
+in	PIN CONJ PREP
+a	ART DET INDA
+healthy	JJ
+manner	NN
+in	PIN CONJ PREP
+play	NN
+regardless	RB
+of	PIN PREP
+gender	NN
+.	
+Sometimes	RB CAP
+women	NN
+find	VPRT PRIV
+resistance	NN
+from	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+parents	NN
+when	RB WHSUB SCONJ WH
+deciding	PRIV SUAV PGAS
+to	PIN TO PREP
+pursue	INF
+an	ART DET INDA
+engineering	GER
+career	NN
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+the	ART DET
+lack	NN
+of	PIN PREP
+female	JJ
+figures	NN
+or	CCONJ
+mentors	NN
+in	PIN CONJ PREP
+the	ART DET
+profession	NOMZ
+makes	VPRT
+more	RB EMPH CMADJ
+difficult	JJ
+to	PIN TO PREP
+inspire	INF
+young	JJ
+girls	NN
+to	PIN TO PREP
+join	INF
+the	ART DET
+profession	NOMZ
+,	
+a	ART DET INDA
+vicious	JJ
+circle	NN
+.	
+ 	
+The	ART CAP DET
+decision	NOMZ
+to	PIN TO PREP
+enter	INF
+this	DEMO DET
+field	NN
+still	RB
+means	VPRT PRIV
+for	PIN PREP
+the	ART DET
+woman	NN
+to	PIN TO PREP
+enter	INF
+a	ART DET INDA
+male	JJ
+territory	NN
+.	
+Considering	GER PRIV PRESP CAP PGAS
+the	ART DET
+historical	JJ
+line	NN
+of	PIN PREP
+engineering	GER
+,	
+this	DEMO DET
+decision	NOMZ
+represents	VPRT
+a	ART DET INDA
+rupture	NN
+of	PIN PREP
+values	NN
+that	TSUB WHSUB WH
+discriminate	VPRT
+against	PIN PREP
+women	NN
+[	X
+5	NUM
+]	
+.	
+Often	RB CAP
+in	PIN CONJ PREP
+the	ART DET
+academic	JJ
+and	CCONJ
+work	NN
+environment	NOMZ
+,	
+women	NN
+are	PASS VPRT AUXB
+treated	
+as	PIN CONJ PREP
+less	RB CMADJ
+capable	JJ
+by	PIN PREP
+colleagues	NN
+of	PIN PREP
+the	ART DET
+opposite	JJ PIN PREP
+sex	NN
+who	WHSUB WH
+disparage	VPRT
+and	PHC CCONJ
+undermine	INF
+their	TPP3 PRP SBJP
+work	NN
+through	PIN PREP
+judgments	NOMZ
+or	CCONJ
+improper	JJ
+jokes	NN
+.	
+In	PIN CONJ CAP PREP
+situations	NOMZ
+where	RB WHOBJ SCONJ WH
+a	ART DET INDA
+woman	NN
+'s	
+position	NOMZ
+is	VPRT AUXB
+leadership	NN
+,	
+many	QUAN JJ
+men	NN
+do	VPRT SPAU
+not	XX0 RB
+accept	PRIV INF
+being	PASS AUXB
+placed	
+in	PIN CONJ PREP
+an	ART DET INDA
+inferior	JJ
+position	NOMZ
+.	
+As	PIN CONJ CAP PREP
+a	ART DET INDA
+consequence	NN
+,	
+in	PIN CONJ PREP
+environments	NOMZ
+with	PIN PREP
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+men	NN
+,	
+several	QUAN JJ
+women	NN
+tend	VPRT
+to	PIN TO PREP
+feel	PRIV INF
+intimidated	
+.	
+ 	
+Finally	RB CAP
+,	
+many	QUAN JJ
+women	NN
+who	WHSUB WH
+are	PASS VPRT AUXB
+graduated	
+in	PIN CONJ PREP
+engineering	GER
+have	VPRT
+to	PIN TO PREP
+abandon	INF
+their	TPP3 PRP SBJP
+careers	NN
+because	CAUS PIN SCONJ PREP
+the	ART DET
+environment	NOMZ
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+thought	PRIV
+to	PIN TO PREP
+include	INF
+them	TPP3 PRP SBJP ACCU
+,	
+especially	RB
+after	PIN PREP
+they	TPP3 PRP SBJP
+choose	VPRT
+to	PIN TO PREP
+have	INF
+children	NN
+.	
+This	DEMP CAP DET
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+reasons	PRIV NN
+brought	WZPAST
+by	PIN PREP
+Leticia	CAP NNP
+Ramos	CAP NNP
+,	
+a	ART DET INDA
+naval	JJ
+engineer	NN
+,	
+to	PIN TO PREP
+explain	PUBV INF
+the	ART DET
+absence	NN
+of	PIN PREP
+women	NN
+in	PIN CONJ PREP
+her	TPP3 PRP SBJP
+sector	NN
+.	
+She	TPP3 CAP PRP SBJP
+works	VPRT
+at	PIN PREP
+an	ART DET INDA
+offshore	JJ
+company	NN
+,	
+coordinating	GER PRESP PGAS
+a	ART DET INDA
+team	NN
+responsible	JJ
+for	PIN PREP
+inject	JJ
+air	NN
+and	PHC CCONJ
+water	NN
+into	PIN PREP
+underwater	JJ
+pipelines	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+her	TPP3 PRP SBJP ACCU
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+promising	JJ PUBV
+area	NN
+,	
+with	PIN PREP
+good	JJ
+remuneration	NOMZ
+.	
+Leticia	CAP NNP
+believed	VBD PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+number	NN
+of	PIN PREP
+women	NN
+working	WZPRES PGAS
+in	PIN CONJ PREP
+the	ART DET
+area	NN
+would	PRMD
+grow	INF
+,	
+but	CCONJ
+it	PIT PRP SBJP
+stagnated	VBD
+.	
+Many	QUAN JJ CAP
+give	VPRT
+up	PIN PREP
+after	PIN PREP
+having	PGAS
+children	NN
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+need	VPRT
+to	PIN TO PREP
+spend	INF
+weeks	NN
+on	PIN PREP
+board	NN
+[	X
+6	NUM
+]	
+.	
+ 	
+Engineering	GER CAP
+is	BEMA VPRT AUXB
+an	ART DET INDA
+interesting	JJ
+and	PHC CCONJ
+varied	JJ
+career	NN
+for	PIN PREP
+intelligent	JJ
+and	PHC CCONJ
+sociable	JJ
+individuals	NN
+-	
+men	NN
+or	CCONJ
+women	NN
+.	
+Few	QUAN JJ CAP
+other	JJ
+sectors	NN
+offer	VPRT
+the	ART DET
+opportunity	NOMZ
+to	PIN TO PREP
+face	INF
+serious	JJ
+global	JJ
+challenges	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+climate	NN
+change	NN
+,	
+aging	PGAS
+populations	NOMZ
+and	CCONJ
+,	
+food	NN
+shortages	NN
+.	
+Nor	CAP CCONJ
+do	VPRT PROD
+they	TPP3 PRP SBJP
+promise	PUBV INF
+such	JJ
+strong	JJ
+employment	NOMZ
+opportunities	NN
+or	CCONJ
+contribute	INF
+to	PIN PREP
+the	ART DET
+economy	NN
+on	PIN PREP
+a	ART DET INDA
+large	JJ
+scale	NN
+.	
+The	ART CAP DET
+scenario	NN
+has	VPRT PEAS
+been	AUXB
+changing	PGAS
+over	PIN PREP
+the	ART DET
+years	NN
+,	
+but	CCONJ
+there	EX
+are	VPRT AUXB
+still	RB
+many	QUAN JJ
+challenges	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+faced	
+.	
+The	ART CAP DET
+worldwide	JJ
+tendency	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+women	NN
+to	PIN TO PREP
+be	PASS SPAU AUXB INF
+increasingly	RB
+recognized	PRIV
+and	PHC CCONJ
+represented	
+in	PIN CONJ PREP
+the	ART DET
+various	JJ
+social	JJ
+spheres	NN
+.	
+However	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+that	PIN THAC SCONJ PREP
+industry	NN
+,	
+educators	NN
+,	
+and	ANDC CCONJ
+government	NOMZ
+continue	VPRT
+their	TPP3 PRP SBJP
+efforts	NN
+and	CCONJ
+ensure	PRIV SUAV INF
+gender	NN
+equality	NOMZ
+.	
+The	ART CAP DET
+market	NN
+and	CCONJ
+,	
+consequently	RB CONJ
+,	
+the	ART DET
+country	NN
+will	PRMD SPAU
+only	DWNT RB
+gain	INF
+from	PIN PREP
+a	ART DET INDA
+greater	JJ CMADJ
+empowerment	NOMZ
+and	PHC CCONJ
+appreciation	NOMZ
+of	PIN PREP
+women	NN
+in	PIN CONJ PREP
+engineering	GER
+.	

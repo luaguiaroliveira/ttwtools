@@ -1,0 +1,599 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2471.1317.txt
+token	tags
+     	
+A	ART CAP DET INDA
+considerable	JJ
+number	NN
+of	PIN PREP
+orofacial	JJ
+diseases	NN
+and	PHC CCONJ
+conditions	NOMZ
+,	
+like	PIN PREP
+dental	JJ
+caries	NN
+,	
+fractures	NN
+,	
+root	NN
+canal	NN
+treatment	NOMZ
+,	
+and	ANDC CCONJ
+wisdom	NN
+tooth	NN
+surgeries	NN
+may	POMD
+be	PASS AUXB INF
+associated	
+with	PIN PREP
+pain	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+scenario	NN
+,	
+outpatients	NN
+generally	RB
+associate	VPRT
+dental	JJ
+treatment	NOMZ
+as	PIN CONJ PREP
+painful	JJ
+and	CCONJ
+,	
+then	RB
+procrastinate	INF
+specialized	JJ
+service	NN
+attendance	NN
+what	WHSUB WH
+can	POMD
+lead	INF
+to	PIN PREP
+serious	JJ
+health	NN
+complications	NOMZ
+.	
+To	PIN TO CAP PREP
+reduce	INF
+pain	NN
+experience	NN
+,	
+dental	JJ
+practitioners	NN
+should	NEMD
+be	BEMA AUXB INF
+aware	JJ PRED
+of	PIN PREP
+the	ART DET
+pharmacology	NN
+and	CCONJ
+the	ART DET
+prescription	NOMZ
+indications	NOMZ
+of	PIN PREP
+analgesics	NN
+,	
+anti	NN
+-	NN
+inflammatories	NN
+,	
+and	ANDC CCONJ
+opioids	NN
+.	
+This	DEMO CAP DET
+essay	NN
+aims	VPRT
+to	PIN TO PREP
+present	INF
+and	PHC CCONJ
+discuss	INF
+the	ART DET
+rationale	NN
+of	PIN PREP
+dental	JJ
+prescription	NOMZ
+patterns	NN
+of	PIN PREP
+pain	NN
+killers	NNP
+.	
+  	
+Analgesic	JJ CAP
+medications	NOMZ
+,	
+as	PIN CONJ PREP
+metamizole	NN
+,	
+acetaminophen	RB
+,	
+and	ANDC CCONJ
+acetylsalicylic	JJ
+acid	NN
+,	
+are	BEMA VPRT AUXB
+among	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+prescribed	JJ
+and	CCONJ
+consumed	
+drugs	NN
+in	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+The	ART CAP DET
+vast	JJ
+consumption	NOMZ
+of	PIN PREP
+these	DEMO DET
+drugs	NN
+is	PASS VPRT BYPA AUXB
+explained	PUBV
+by	PIN PREP
+their	TPP3 PRP SBJP
+efficacy	NN
+,	
+low	JJ
+adverse	JJ
+effects	NN
+and	CCONJ
+also	RB
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+available	JJ PRED
+over	PIN PREP
+the	ART DET
+counter-	NN
+this	DEMP DET
+means	VPRT PRIV
+a	ART DET INDA
+person	NN
+does	VPRT SPAU
+not	XX0 RB
+need	INF
+a	ART DET INDA
+receipt	NN
+to	PIN TO PREP
+buy	INF
+formulas	NN
+with	PIN PREP
+the	ART DET
+main	JJ
+active	JJ
+product	NN
+.	
+Dental	JJ CAP
+prescriptions	NOMZ
+of	PIN PREP
+analgesics	NN
+are	VPRT AUXB
+increasing	GER PGAS
+over	PIN PREP
+the	ART DET
+years	NN
+,	
+which	SERE DET WH
+means	VPRT PRIV
+,	
+dentists	NN
+are	BEMA VPRT AUXB
+sensitive	JJ PRED
+to	PIN PREP
+their	TPP3 PRP SBJP
+patients	NN
+.	
+However	RB CONJ CAP
+,	
+despite	PIN SCONJ PREP
+all	QUAN DET
+the	ART DET
+benefits	NN
+,	
+analgesics	NN
+work	VPRT
+non	RB
+selectively	RB
+inhibiting	GER PGAS
+cyclooxygenase	NN
+(	
+COX	CAP NNP
+)	
+enzymes	VPRT
+only	DWNT RB
+in	PIN CONJ PREP
+the	ART DET
+supraspinal	JJ
+cord	NN
+producing	WZPRES PGAS
+moderate	JJ
+pain	NN
+relief	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+matter	NN
+,	
+dental	JJ
+procedures	NN
+that	TSUB WHSUB WH
+may	POMD
+cause	INF
+higher	JJ CMADJ
+pain	NN
+rates	NN
+must	NEMD
+demand	SUAV INF
+the	ART DET
+association	NOMZ
+or	CCONJ
+the	ART DET
+prescription	NOMZ
+of	PIN PREP
+other	JJ
+drugs	NN
+,	
+for	PIN PREP
+instance	NN
+,	
+anti	JJ
+-	NN
+inflammatories	NN
+.	
+  	
+Non	JJ CAP
+-	JJ
+steroidal	JJ
+anti	JJ
+-	JJ
+inflammatory	JJ
+drugs	NN
+(	
+NSAIDs	NN CAP
+)	
+are	BEMA VPRT AUXB
+the	ART DET
+golden	JJ
+standard	NN
+to	PIN TO PREP
+control	INF
+dental	JJ
+pain	NN
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+explained	PUBV
+,	
+first	RB
+because	CAUS PIN SCONJ PREP
+the	ART DET
+majority	NOMZ
+of	PIN PREP
+invasive	JJ
+oral	JJ
+procedures	NN
+induce	VPRT
+an	ART DET INDA
+inflammatory	JJ
+response	NN
+and	CCONJ
+second	JJ
+,	
+NSAIDs	NN CAP
+have	VPRT
+plenty	NN
+of	PIN PREP
+evidence	NN
+about	PIN PREP
+their	TPP3 PRP SBJP
+security	NOMZ
+and	PHC CCONJ
+efficacy	NN
+.	
+Despite	PIN CAP SCONJ PREP
+the	ART DET
+mentioned	PUBV
+,	
+ibuprofen	NN
+,	
+diclofenac	NN
+,	
+nimesulide	JJ
+among	PIN PREP
+others	NN
+,	
+are	BEMA VPRT AUXB
+low	JJ
+price	NN
+drugs	NN
+what	WHSUB WH
+play	VPRT
+an	ART DET INDA
+important	JJ
+role	NN
+in	PIN CONJ PREP
+the	ART DET
+society	NN
+,	
+especially	RB
+in	PIN CONJ PREP
+Brazil	CAP NNP
+;	
+a	ART DET INDA
+country	NN
+full	JJ
+of	PIN PREP
+inequalities	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+the	ART DET
+public	JJ
+health	NN
+system	NN
+can	POMD SPAU
+not	XX0 RB
+secure	INF
+the	ART DET
+whole	JJ
+population	NOMZ
+and	CCONJ
+the	ART DET
+income	NN
+of	PIN PREP
+most	JJ EMPH SPADJ
+of	PIN PREP
+the	ART DET
+families	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+barrier	NN
+to	PIN PREP
+drug	NN
+access1	NNP
+.	
+ 	
+The	ART CAP DET
+success	NN
+of	PIN PREP
+NSAIDS	CAP NNP
+also	RB
+relies	VPRT
+on	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+one	NUM
+drug	NN
+controls	VPRT
+all	QUAN DET
+the	ART DET
+cardinal	JJ
+symptoms	NN
+of	PIN PREP
+inflammation-	JJ
+redness	NOMZ
+,	
+swelling	NN
+,	
+heat	NN
+,	
+pain	NN
+,	
+and	ANDC CCONJ
+loss	NN
+of	PIN PREP
+function	NOMZ
+.	
+ 	
+A	ART CAP DET INDA
+research	NN
+conducted	WZPAST
+in	PIN CONJ PREP
+Australia	CAP NNP
+from	PIN PREP
+2001	NUM
+to	PIN PREP
+2012	NUM
+demonstrated	VBD PRIV
+the	ART DET
+overall	JJ
+increase	NN
+in	PIN CONJ PREP
+the	ART DET
+dental	JJ
+prescriptions	NOMZ
+of	PIN PREP
+these	DEMO DET
+drugs	NN
+by	PIN PREP
+32	NUM
+%	NN
+,	
+being	AUXB
+ibuprofen	NN
+corresponding	GER WZPRES PGAS
+to	PIN PREP
+68	NUM
+%	NN
+of	PIN PREP
+all	QUAN DET
+prescriptions	NOMZ
+.	
+Several	QUAN JJ CAP
+clinical	JJ
+trials	NN
+demonstrated	VBD PRIV
+that	PIN THVC SCONJ PREP
+NSAIDs	NN CAP
+are	BEMA VPRT AUXB
+the	ART DET
+first	JJ
+basis	NN
+treatment	NOMZ
+choice	NN
+to	PIN TO PREP
+manage	INF
+dental	JJ
+pain	NN
+,	
+however	RB CONJ
+,	
+outpatients	NN
+with	PIN PREP
+low	JJ
+pain	NN
+threshold	NN
+must	NEMD
+demand	SUAV INF
+the	ART DET
+disposal	NN
+of	PIN PREP
+opioids	NN
+.	
+  	
+Morphine	CAP NNP
+,	
+codeine	NN
+,	
+oxycodone	NN
+,	
+and	ANDC CCONJ
+fentanyl	JJ
+are	VPRT AUXB
+kinds	NN
+of	PIN PREP
+opioids	NN
+that	TSUB WHSUB WH
+act	VPRT
+in	PIN CONJ PREP
+the	ART DET
+Central	CAP NNP
+Nervous	CAP NNP
+System	CAP NNP
+(	
+CNS	CAP NNP
+)	
+used	VBD
+to	PIN TO PREP
+manage	INF
+mild	JJ
+to	PIN PREP
+severe	JJ
+pain	NN
+.	
+Opioids	NN CAP
+have	VPRT PEAS
+been	PASS AUXB
+used	
+for	PIN PREP
+thousands	NN
+of	PIN PREP
+years	NN
+in	PIN CONJ PREP
+the	ART DET
+treatment	NOMZ
+of	PIN PREP
+pain	NN
+;	
+registers	NN
+from	PIN PREP
+ancient	JJ
+Egypt	CAP NNP
+evidence	NN
+that	DEMP DET
+.	
+ 	
+In	PIN CONJ CAP PREP
+Brazil	CAP NNP
+,	
+opioid	JJ
+use	NN
+has	VPRT PEAS
+increased	
+in	PIN CONJ PREP
+dental	JJ
+practice	NN
+in	PIN CONJ PREP
+the	ART DET
+last	JJ
+few	QUAN JJ
+decades	NN
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+consumption	NOMZ
+rates	NN
+of	PIN PREP
+these	DEMO DET
+drugs	NN
+are	BEMA VPRT AUXB
+considerable	JJ
+low	JJ
+comparing	PGAS
+to	PIN PREP
+developed	
+countries	NN
+like	PIN PREP
+the	ART DET
+United	CAP NNP
+States	PUBV CAP NNP
+of	PIN PREP
+America	CAP NNP
+.	
+In	PIN CONJ CAP PREP
+America	CAP NNP
+,	
+the	ART DET
+indiscriminate	JJ
+usage	NN
+brought	VBD
+serious	JJ
+consequences	NN
+as	PIN CONJ PREP
+the	ART DET
+increased	
+prevalence	NN
+of	PIN PREP
+overdoses	NN
+,	
+dependence	NN
+,	
+addiction	NOMZ
+,	
+and	ANDC CCONJ
+deaths	NN
+related	WZPAST
+to	PIN PREP
+opioids	NN
+.	
+Despite	PIN CAP SCONJ PREP
+that	DEMP DET
+,	
+opioids	NN
+play	VPRT
+an	ART DET INDA
+important	JJ
+role	NN
+in	PIN CONJ PREP
+managing	PGAS
+pain	NN
+related	WZPAST
+to	PIN PREP
+facial	JJ
+cancer	NN
+,	
+huge	JJ
+traumas	NN
+,	
+and	ANDC CCONJ
+trigeminal	JJ
+neuralgia	NNP
+,	
+for	PIN PREP
+instance	NN
+.	
+    	

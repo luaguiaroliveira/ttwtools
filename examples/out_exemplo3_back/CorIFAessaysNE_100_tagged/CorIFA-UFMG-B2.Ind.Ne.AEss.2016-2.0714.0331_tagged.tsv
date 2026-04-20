@@ -1,0 +1,623 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0714.0331.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0714.0331	NNP
+>	X
+  	
+<	X
+Do	VPRT PROD CAP
+the	ART DET
+quotas	NN
+in	PIN CONJ PREP
+Brazil	CAP NNP
+’s	
+federal	JJ
+university	NNP
+deny	PUBV INF
+the	ART DET
+principle	NN
+of	PIN PREP
+merit	NN
+that	TSUB WHSUB WH
+brings	VPRT
+excellence	NN
+to	PIN PREP
+these	DEMO DET
+universities	NN
+?	QUES
+>	X
+  	
+Recently	RB TIME CAP
+the	ART DET
+Brazil	CAP NNP
+’s	
+federal	JJ
+universities	NN
+have	VPRT
+to	PIN TO PREP
+reserve	INF
+half	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+positions	NOMZ
+for	PIN PREP
+students	NN
+coming	WZPRES PGAS
+from	PIN PREP
+public	JJ
+schools	NN
+,	
+low	JJ
+-	
+income	NN
+families	NN
+and	ANDC CCONJ
+who	WH
+are	BEMA VPRT AUXB
+of	PIN PREP
+African	JJ CAP
+or	CCONJ
+indigenous	JJ
+descent	NN
+.	
+This	DEMO CAP DET
+quota	NN
+’s	
+politic	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+attempt	NN
+to	PIN TO PREP
+give	INF
+underprivileged	JJ
+Brazilians	CAP NNP
+better	JJ CMADJ
+chances	NN
+of	PIN PREP
+getting	PGAS
+free	JJ
+higher	JJ CMADJ
+education	NOMZ
+and	ANDC CCONJ
+thus	RB CONJ
+access	NN
+to	PIN PREP
+better	JJ CMADJ
+jobs	NN
+and	ANDC CCONJ
+consequently	RB CONJ
+to	PIN TO PREP
+reduce	INF
+social	JJ
+inequality	NOMZ
+in	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+quotas	NN
+system	NN
+has	VPRT PEAS
+been	BEMA AUXB
+subject	JJ PRED
+of	PIN PREP
+several	QUAN JJ
+critical	JJ
+based	
+on	PIN PREP
+a	ART DET INDA
+meritocratic	JJ
+view	NN
+of	PIN PREP
+the	ART DET
+higher	JJ CMADJ
+education	NOMZ
+system	NN
+.	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+longest	JJ SPADJ
+standing	PGAS
+arguments	NOMZ
+against	PIN PREP
+the	ART DET
+quotas	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+the	ART DET
+quotas	NN
+in	PIN CONJ PREP
+Brazil	CAP NNP
+’s	
+federal	JJ
+university	NNP
+deny	PUBV INF
+the	ART DET
+principle	NN
+of	PIN PREP
+merit	NN
+that	TSUB WHSUB WH
+brings	VPRT
+excellence	NN
+to	PIN PREP
+these	DEMO DET
+universities	NN
+.	
+Nonetheless	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+does	VPRT SPAU
+not	XX0 RB
+make	INF
+sense	PRIV NN
+to	PIN TO PREP
+consider	PRIV INF
+only	DWNT RB
+the	ART DET
+academic	JJ
+merit	NN
+as	PIN CONJ PREP
+evaluation	NOMZ
+criteria	NN
+at	PIN PREP
+a	ART DET INDA
+country	NN
+with	PIN PREP
+greatly	AMP RB
+social	JJ
+inequality	NOMZ
+,	
+as	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+  	
+Federal	JJ CAP
+universities	NN
+in	PIN CONJ PREP
+Brazil	CAP NNP
+are	PASS VPRT AUXB
+considered	PRIV
+high	JJ
+quality	NOMZ
+education	NOMZ
+and	CCONJ
+also	RB
+are	BEMA VPRT AUXB
+free	JJ PRED
+of	PIN PREP
+costs	NN
+.	
+Before	PIN CAP PREP
+the	ART DET
+establishment	NOMZ
+of	PIN PREP
+quotas	NN
+,	
+the	ART DET
+major	NN
+of	PIN PREP
+spots	NN
+in	PIN CONJ PREP
+the	ART DET
+Brazilian	JJ CAP
+public	JJ
+universities	NN
+were	PASS VBD BYPA AUXB
+took	
+on	PIN PREP
+by	PIN PREP
+white	JJ
+people	NN
+of	PIN PREP
+middle	JJ
+class	NN
+and	CCONJ
+upper	JJ
+middle	JJ
+class	NN
+.	
+In	PIN CONJ CAP PREP
+general	JJ
+,	
+these	DEMO DET
+families	NN
+send	VPRT
+their	TPP3 PRP SBJP
+children	NN
+to	PIN PREP
+best	JJ SPADJ
+private	JJ
+schools	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+ensure	PRIV SUAV INF
+admission	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+children	NN
+at	PIN PREP
+the	ART DET
+great	JJ
+federal	JJ
+universities	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+other	JJ
+words	NN
+,	
+the	ART DET
+quality	NOMZ
+higher	JJ CMADJ
+education	NOMZ
+was	BEMA VBD AUXB
+not	XX0 RB
+accessible	JJ
+for	PIN PREP
+poor	JJ
+people	NN
+who	WHSUB WH
+mostly	RB
+are	BEMA VPRT AUXB
+black	JJ
+people	NN
+or	CCONJ
+mestizo	INF
+people	NN
+and	ANDC CCONJ
+who	WH
+had	VBD
+not	XX0 RB
+good	JJ
+economic	JJ
+positions	NOMZ
+for	PIN PREP
+studying	PGAS
+and	CCONJ
+to	PIN TO PREP
+achieve	INF
+high	JJ
+test	NN
+scores	NN
+on	PIN PREP
+the	ART DET
+"	QUOT
+vestibular	JJ
+,	
+"	QUOT
+.	
+By	PIN CAP PREP
+the	ART DET
+way	NN
+,	
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+merit	NN
+for	PIN PREP
+a	ART DET INDA
+candidate	NN
+who	WHSUB WH
+had	VBD
+the	ART DET
+privilege	NN
+of	PIN PREP
+being	PASS AUXB
+born	
+in	PIN CONJ PREP
+a	ART DET INDA
+family	NN
+with	PIN PREP
+good	JJ
+financial	JJ
+conditions	NOMZ
+and	CCONJ
+could	POMD
+study	INF
+in	PIN CONJ PREP
+the	ART DET
+best	JJ SPADJ
+private	JJ
+schools	NN
+to	PIN TO PREP
+rank	INF
+in	PIN CONJ PREP
+more	RB EMPH CMADJ
+advantageous	JJ
+position	NOMZ
+than	PIN PREP
+candidates	NN
+who	WHSUB WH
+had	VBD
+no	SYNE DET
+choice	NN
+and	CCONJ
+studied	
+in	PIN CONJ PREP
+public	JJ
+schools	NN
+of	PIN PREP
+poor	JJ
+quality	NOMZ
+.	
+  	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+note	PRIV INF
+that	PIN THVC SCONJ PREP
+at	PIN PREP
+a	ART DET INDA
+society	NN
+which	WHOBJ DET WH
+there	EX
+are	VPRT AUXB
+racism	NN
+and	ANDC CCONJ
+so	RB EMPH
+social	JJ
+inequality	NOMZ
+part	NN
+of	PIN PREP
+the	ART DET
+privileged	JJ
+social	JJ
+position	NOMZ
+of	PIN PREP
+white	JJ
+people	NN
+is	VPRT AUXB
+result	NN
+of	PIN PREP
+uneven	JJ
+chance	NN
+that	PIN TOBJ SCONJ PREP
+they	TPP3 PRP SBJP
+have	VPRT PEAS
+been	BEMA AUXB
+over	PIN PREP
+the	ART DET
+decades	NN
+in	PIN CONJ PREP
+comparison	NN
+to	PIN PREP
+the	ART DET
+poor	JJ
+population	NOMZ
+,	
+and	ANDC CCONJ
+not	XX0 RB
+simply	RB
+due	PIN PREP
+to	PIN PREP
+their	TPP3 PRP SBJP
+merit	NN
+themselves	TPP3 PRP SBJP ACCU
+.	
+Even	RB CAP
+so	RB
+,	
+evaluate	INF
+the	ART DET
+students	NN
+considering	GER WZPRES PRIV THATD PGAS
+only	DWNT RB
+academic	JJ
+merit	NN
+is	BEMA VPRT AUXB
+inappropriate	JJ
+process	NN
+and	CCONJ
+leads	VPRT
+to	PIN PREP
+a	ART DET INDA
+way	NN
+of	PIN PREP
+discrimination	NOMZ
+and	PHC CCONJ
+injustice	NN
+social	NN
+.	
+  	
+In	PIN CONJ CAP PREP
+fact	NN
+,	
+the	ART DET
+merit	NN
+brings	VPRT
+excellence	NN
+to	PIN PREP
+these	DEMO DET
+universities	NN
+,	
+although	CONC PIN SCONJ PREP
+the	ART DET
+merit	NN
+does	VPRT SPAU
+not	XX0 RB
+categorize	INF
+the	ART DET
+students	NN
+according	WZPRES PGAS
+to	PIN PREP
+their	TPP3 PRP SBJP
+intelligence	NN
+.	
+Therefore	RB CONJ CAP
+,	
+the	ART DET
+excellence	NN
+of	PIN PREP
+Braziliam	CAP NNP
+federal	JJ
+universities	NN
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+associated	
+entirely	AMP RB
+with	PIN PREP
+the	ART DET
+merit	NN
+of	PIN PREP
+students	NN
+from	PIN PREP
+higher	JJ CMADJ
+-	
+income	NN
+backgrounds	NN
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+several	QUAN JJ
+studies	NN
+show	VPRT PRIV
+that	PIN THVC SCONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+universities	NN
+where	RB WHOBJ SCONJ WH
+the	ART DET
+quotas	NN
+have	VPRT PEAS
+followed	
+through	PIN PREP
+there	EX
+were	VBD AUXB
+not	XX0 RB
+any	QUAN DET
+education	NOMZ
+quality	NOMZ
+depletion	NOMZ
+.	
+The	ART CAP DET
+universities	NN
+that	TSUB WHSUB WH
+adopted	VBD
+quotas	NN
+system	NN
+initially	RB TIME
+,	
+such	JJ
+as	PIN CONJ PREP
+Federal	CAP NNP
+University	CAP NNP
+of	PIN PREP
+Bahia	CAP NNP
+and	PHC CCONJ
+Rio	CAP NNP
+de	NNP
+Janeiro	CAP NNP
+State	PUBV CAP NNP
+Univesrity	CAP NNP
+,	
+demonstrated	VBD PRIV
+that	PIN THVC SCONJ PREP
+performance	NN
+both	DET
+students	NN
+(	
+“	
+cotistas	NN
+and	CCONJ
+non	JJ
+cotistas	NN
+”	
+)	
+was	BEMA VBD AUXB
+the	ART DET
+same	JJ
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+these	DEMO DET
+research	NN
+pointed	VBD
+out	PIN PREP
+that	PIN DEMO SCONJ PREP
+the	ART DET
+motivation	NOMZ
+and	PHC CCONJ
+encouraging	GER
+are	VPRT AUXB
+even	RB
+more	RB EMPH CMADJ
+significant	JJ
+for	PIN PREP
+a	ART DET INDA
+good	JJ
+fulfillment	NOMZ
+.	
+  	
+For	PIN CAP PREP
+all	QUAN DET
+that	DEMP WH
+,	
+the	ART DET
+quota	NN
+’s	
+system	NN
+does	VPRT SPAU
+not	XX0 RB
+deny	PUBV INF
+the	ART DET
+principle	NN
+of	PIN PREP
+merit	NN
+and	CCONJ
+neither	CCONJ
+decrease	INF
+education	NOMZ
+quality	NOMZ
+of	PIN PREP
+federal	JJ
+universities	NN
+.	
+The	ART CAP DET
+law	NN
+of	PIN PREP
+quotas	NN
+has	VPRT PEAS SPAU
+just	RB EMPH
+been	AUXB
+restoring	PGAS
+new	JJ
+criteria	NN
+of	PIN PREP
+evaluation	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+Brazil	CAP NNP
+’s	
+federal	JJ
+universities	NN
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+can	POMD
+promote	INF
+a	ART DET INDA
+more	RB EMPH CMADJ
+diverse	JJ
+and	PHC CCONJ
+democratic	JJ
+higher	JJ CMADJ
+education	NOMZ
+.	
+ 	

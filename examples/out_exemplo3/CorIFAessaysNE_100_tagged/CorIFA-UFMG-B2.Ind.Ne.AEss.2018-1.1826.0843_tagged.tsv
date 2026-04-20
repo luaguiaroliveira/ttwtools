@@ -1,0 +1,660 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1826.0843.txt
+token	tags
+﻿	NNP
+  	
+The	ART CAP DET
+development	NOMZ
+of	PIN PREP
+science	NN
+has	VPRT PEAS
+changed	
+people	NN
+'s	
+lives	NN
+,	
+for	PIN PREP
+example	NN
+,	
+research	NN
+in	PIN CONJ PREP
+chemistry	NN
+and	PHC CCONJ
+biology	NN
+has	VPRT PEAS
+improved	
+the	ART DET
+quality	NOMZ
+of	PIN PREP
+life	NN
+by	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+new	JJ
+medicine	NN
+.	
+Due	PIN CAP PREP
+to	PIN PREP
+the	ART DET
+high	JJ
+-	
+cost	NN
+to	PIN TO PREP
+develop	INF
+new	JJ
+drugs	NN
+,	
+the	ART DET
+science	NN
+nowadays	RB TIME
+,	
+tries	VPRT
+to	PIN TO PREP
+improve	INF
+the	ART DET
+efficacy	NN
+of	PIN PREP
+old	JJ
+drugs	NN
+.	
+This	DEMO CAP DET
+enhancement	NOMZ
+consisted	VBD
+of	PIN PREP
+delivering	GER PGAS
+drug	NN
+at	PIN PREP
+controlled	
+rate	NN
+,	
+slow	JJ
+and	CCONJ
+targeted	
+delivery	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+context	NN
+,	
+the	ART DET
+use	NN
+of	PIN PREP
+nanotechnology	NN
+could	POMD
+be	PASS AUXB INF
+prioritized	
+to	PIN TO PREP
+help	INF
+this	DEMO DET
+improvement	NOMZ
+,	
+using	PGAS
+methods	NN
+as	PIN CONJ PREP
+nanospheres	NN
+.	
+Preliminary	JJ CAP
+results	NN
+show	VPRT PRIV THATD
+a	ART DET INDA
+real	JJ
+benefit	NN
+using	WZPRES PGAS
+nanotechnology	NN
+,	
+however	RB CONJ
+,	
+this	DEMO DET
+new	JJ
+science	NN
+finds	VPRT PRIV
+a	ART DET INDA
+huge	JJ
+resistance	NN
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+incorporated	
+by	PIN PREP
+the	ART DET
+pharmaceutical	JJ
+industry	NN
+.	
+More	JJ EMPH CAP CMADJ
+than	PIN PREP
+ever	RB
+,	
+is	BEMA VPRT AUXB
+a	ART DET INDA
+need	NN
+continue	VPRT
+studying	PGAS
+the	ART DET
+applications	NOMZ
+of	PIN PREP
+the	ART DET
+system	NN
+of	PIN PREP
+drug	NN
+delivery	NN
+.	
+    	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+really	RB EMPH
+common	JJ
+that	PIN THAC SCONJ PREP
+the	ART DET
+doctors	NN
+recommend	VPRT SUAV
+medicine	NN
+to	PIN TO PREP
+treat	INF
+diseases	NN
+,	
+but	CCONJ
+this	DEMO DET
+just	RB EMPH
+works	VPRT
+if	COND PIN STPR SCONJ PREP
+,	
+inside	RB PLACE
+of	PIN PREP
+a	ART DET INDA
+body	NN
+,	
+the	ART DET
+concentration	NOMZ
+of	PIN PREP
+the	ART DET
+active	JJ
+ingredient	NN
+of	PIN PREP
+a	ART DET INDA
+drug	NN
+is	PASS VPRT AUXB
+kept	
+in	PIN CONJ PREP
+high	JJ
+levels	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+way	NN
+,	
+someone	QUPR INPR
+who	WHQU WH
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+a	ART DET INDA
+medical	JJ
+treatment	NOMZ
+with	PIN PREP
+a	ART DET INDA
+medicine	NN
+needs	VPRT
+to	PIN TO PREP
+take	INF
+several	QUAN JJ
+pills	NN
+to	PIN TO PREP
+keep	INF
+a	ART DET INDA
+high	JJ
+concentration	NOMZ
+of	PIN PREP
+the	ART DET
+active	JJ
+ingredient	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+another	DET
+factor	NN
+that	TSUB WHSUB WH
+affects	VPRT
+the	ART DET
+quantity	NOMZ
+of	PIN PREP
+medicine	NN
+needed	WZPAST
+is	BEMA VPRT AUXB
+conventional	JJ
+medicines	NN
+do	VPRT SPAU
+not	XX0 RB
+go	INF
+straight	RB
+to	PIN PREP
+the	ART DET
+place	NN
+they	TPP3 PRP SBJP
+are	PASS VPRT AUXB
+expected	PRIV
+to	PIN TO PREP
+react	INF
+,	
+they	TPP3 PRP SBJP
+go	VPRT
+all	QUAN RB
+around	PIN PLACE PREP
+the	ART DET
+body	NN
+,	
+bigger	JJ CMADJ
+is	BEMA VPRT AUXB
+the	ART DET
+area	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+covered	
+,	
+higher	JJ CMADJ
+will	PRMD
+be	BEMA AUXB INF
+the	ART DET
+level	NN
+of	PIN PREP
+active	JJ
+ingredient	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+taken	
+.	
+When	RB CAP SCONJ WH
+the	ART DET
+taken	
+medicine	NN
+is	BEMA VPRT AUXB
+weak	JJ PRED
+,	
+like	PIN PREP
+the	ART DET
+ones	NN
+used	WZPAST
+to	PIN TO PREP
+treat	INF
+a	ART DET INDA
+headache	NN
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+real	JJ
+problem	NN
+.	
+But	CAP CCONJ
+,	
+to	PIN PREP
+people	NN
+that	TSUB WHSUB WH
+submit	VPRT PUBV
+the	ART DET
+own	JJ
+body	NN
+to	PIN PREP
+a	ART DET INDA
+conventional	JJ
+cancer	NN
+treatment	NOMZ
+,	
+it	PIT PRP SBJP
+becomes	VPRT
+a	ART DET INDA
+real	JJ
+problem	NN
+,	
+those	DEMO DET
+medicines	NN
+are	BEMA VPRT AUXB
+expensive	JJ PRED
+and	CCONJ
+the	ART DET
+sides	NN
+effects	NN
+very	AMP RB
+aggressively	RB
+.	
+  	
+One	CAP NUM
+of	PIN PREP
+the	ART DET
+best	RB SPADJ
+-	
+known	PRIV
+alternative	JJ
+treatment	NOMZ
+for	PIN PREP
+cancer	NN
+is	BEMA VPRT AUXB
+the	ART DET
+oncological	JJ
+hyperthermia	NN
+.	
+This	DEMO CAP DET
+technic	NN
+consists	VPRT
+in	PIN CONJ PREP
+the	ART DET
+increase	NN
+of	PIN PREP
+temperature	NN
+where	RB WHOBJ SCONJ WH
+the	ART DET
+tumor	NN
+takes	VPRT
+place	NN
+due	JJ
+to	PIN PREP
+magnetical	JJ
+nanoparticles	NN
+,	
+until	PIN PREP
+approximately	RB
+42	NUM
+ยบC	NN
+,	
+enough	JJ
+to	PIN TO PREP
+kill	INF
+or	CCONJ
+to	PIN TO PREP
+weaken	INF
+the	ART DET
+cancer	NN
+cells	NN
+.	
+However	RB CONJ CAP
+,	
+this	DEMO DET
+method	NN
+has	VPRT
+their	TPP3 PRP SBJP
+own	JJ
+risks	NN
+,	
+healthy	JJ
+cells	NN
+could	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+target	NN
+if	COND PIN SCONJ PREP
+the	ART DET
+nanoparticles	NN
+disperse	VPRT
+all	QUAN RB
+over	PIN PREP
+the	ART DET
+body	NN
+,	
+like	PIN PREP
+a	ART DET INDA
+conventional	JJ
+medicine	NN
+.	
+So	RB CAP
+,	
+the	ART DET
+magnetical	JJ
+nanoparticles	NN
+must	NEMD
+be	PASS AUXB INF
+guided	
+to	PIN PREP
+the	ART DET
+tumor	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+activated	
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+context	NN
+,	
+nanospheres	NN
+can	POMD
+be	PASS AUXB INF
+used	
+once	PIN TIME SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+able	JJ PRED
+to	PIN TO PREP
+lock	INF
+the	ART DET
+magnetical	JJ
+nanoparticle	NN
+inside	PIN PLACE PREP
+them	TPP3 PRP SBJP ACCU
+and	CCONJ
+to	PIN TO PREP
+transport	INF
+to	PIN PREP
+the	ART DET
+right	JJ
+place	NN
+.	
+To	PIN TO CAP PREP
+take	INF
+the	ART DET
+nanospheres	NN
+until	PIN PREP
+the	ART DET
+injured	
+tissue	NN
+is	BEMA VPRT AUXB
+relatively	RB
+simple	JJ
+,	
+cancer	NN
+tissue	NN
+has	VPRT
+a	ART DET INDA
+bigger	JJ CMADJ
+space	NN
+between	PIN PREP
+them	TPP3 PRP SBJP ACCU
+than	PIN PREP
+a	ART DET INDA
+healthy	JJ
+tissue	NN
+,	
+using	PGAS
+nanospheres	NN
+in	PIN CONJ PREP
+the	ART DET
+right	JJ
+size	NN
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN TO PREP
+guarantee	PUBV INF
+the	ART DET
+medicine	NN
+arrive	NN
+at	PIN PREP
+the	ART DET
+right	JJ
+place	NN
+.	
+Applying	PRESP CAP PGAS
+this	DEMO DET
+method	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+good	JJ
+way	NN
+to	PIN TO PREP
+reduce	INF
+the	ART DET
+quantity	NOMZ
+of	PIN PREP
+medicine	NN
+used	
+,	
+in	PIN CONJ PREP
+a	ART DET INDA
+practical	JJ
+way	NN
+this	DEMP DET
+means	VPRT PRIV
+a	ART DET INDA
+fewer	JJ CMADJ
+sides	NN
+effects	NN
+and	CCONJ
+lower	JJ CMADJ
+prices	NN
+,	
+giving	PGAS
+to	PIN PREP
+the	ART DET
+patient	NN
+a	ART DET INDA
+better	JJ CMADJ
+way	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+treated	
+.	
+   	
+The	ART CAP DET
+pharmaceutical	NN
+industry	NN
+helps	VPRT
+to	PIN TO PREP
+make	INF
+better	JJ CMADJ
+the	ART DET
+human	JJ
+life	NN
+,	
+but	CCONJ
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+for	PIN PREP
+years	NN
+they	TPP3 PRP SBJP
+do	VPRT SPAU
+not	XX0 RB
+incorporate	INF
+the	ART DET
+scientific	JJ
+advances	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+work	NN
+,	
+getting	PGAS
+more	RB EMPH CMADJ
+and	PHC CCONJ
+more	RB EMPH CMADJ
+outdated	JJ
+.	
+Thinking	PRIV CAP PGAS
+about	PIN PREP
+the	ART DET
+conventional	JJ
+cancer	NN
+treatments	NOMZ
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+to	PIN TO PREP
+see	PRIV THATD INF
+that	DEMP DET
+is	BEMA VPRT AUXB
+not	XX0 RB
+easy	JJ
+to	PIN PREP
+the	ART DET
+people	NN
+who	WHSUB WH
+submit	VPRT PUBV
+to	PIN PREP
+it	PIT PRP SBJP
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+context	NN
+,	
+the	ART DET
+science	NN
+tries	VPRT
+to	PIN TO PREP
+improve	INF
+the	ART DET
+efficacy	NN
+of	PIN PREP
+some	QUAN DET
+medicines	NN
+,	
+for	PIN PREP
+instance	NN
+using	WZPRES PGAS
+nanotechnology	NN
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+the	ART DET
+science	NN
+is	VPRT AUXB
+evolving	PGAS
+but	CCONJ
+this	DEMP DET
+will	PRMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+enough	JJ PRED
+if	COND PIN SCONJ PREP
+do	VPRT SPAU
+not	XX0 RB
+exist	INF
+a	ART DET INDA
+communication	NOMZ
+with	PIN PREP
+the	ART DET
+industry	NN
+.	
+A	ART CAP DET INDA
+good	JJ
+start	NN
+to	PIN PREP
+improving	PGAS
+live	JJ
+conditions	NOMZ
+will	PRMD
+be	BEMA AUXB INF
+the	ART DET
+increment	NOMZ
+of	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+nanotechnology	NN
+applied	VBD
+to	PIN PREP
+the	ART DET
+medical	JJ
+field	NN
+,	
+in	PIN CONJ PREP
+this	DEMO DET
+way	NN
+at	RB PIN PREP
+least	JJ SPADJ
+is	BEMA VPRT AUXB
+possible	JJ
+guarantee	PUBV NN
+a	ART DET INDA
+more	RB EMPH CMADJ
+humanized	
+remedy	NN
+treatments	NOMZ
+.	

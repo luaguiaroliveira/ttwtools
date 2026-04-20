@@ -1,0 +1,614 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0724.0456.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0724.0456	NNP
+>	X
+  	
+<	X
+Which	CAP DET WH
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+important	JJ
+:	
+talent	NN
+or	CCONJ
+hard	JJ
+work	NN
+?	QUES
+>	X
+  	
+It	PIT CAP PRP SBJP
+’s	VPRT
+a	ART DET INDA
+recurrent	JJ
+topic	NN
+discussed	WZPAST
+by	PIN PREP
+people	NN
+what	WHSUB WH
+makes	VPRT
+an	ART DET INDA
+expert	NN
+.	
+Usually	RB CAP
+,	
+who	WH
+addresses	VPRT
+this	DEMO DET
+theme	NN
+attaches	NN
+to	PIN PREP
+one	NUM
+of	PIN PREP
+these	DEMO DET
+factors	NN
+:	
+talent	NN
+or	CCONJ
+hard	JJ
+work	NN
+.	
+People	NN CAP
+who	WHSUB WH
+defend	VPRT
+talent	NN
+argue	VPRT PUBV
+that	PIN THVC SCONJ PREP
+someone	QUPR INPR
+who	WH
+is	BEMA VPRT AUXB
+really	RB EMPH
+good	JJ
+in	PIN CONJ PREP
+an	ART DET INDA
+area	NN
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+he	TPP3 PRP SBJP
+or	CCONJ
+she	TPP3 PRP SBJP
+has	VPRT
+a	ART DET INDA
+natural	JJ
+inclination	NOMZ
+to	PIN PREP
+this	DEMO DET
+area	NN
+,	
+and	ANDC CCONJ
+,	
+independently	RB
+of	PIN PREP
+her	TPP3 PRP SBJP ACCU
+or	CCONJ
+his	TPP3 PRP SBJP
+experience	NN
+,	
+the	ART DET
+person	NN
+can	POMD
+be	BEMA AUXB INF
+better	JJ PRED CMADJ
+than	PIN PREP
+others	NN
+.	
+In	PIN CONJ CAP PREP
+contrast	NN
+,	
+there	EX
+is	VPRT AUXB
+who	WH
+believes	VPRT PRIV
+that	PIN THVC SCONJ PREP
+because	CAUS PIN SCONJ PREP
+the	ART DET
+effort	NN
+lifelong	JJ
+people	NN
+can	POMD
+improve	INF
+their	TPP3 PRP SBJP
+skills	NN
+and	CCONJ
+become	INF
+an	ART DET INDA
+expert	NN
+.	
+In	PIN CONJ CAP PREP
+the	ART DET
+second	JJ
+idea	NN
+,	
+the	ART DET
+abilities	NN
+of	PIN PREP
+someone	QUPR INPR
+are	PASS VPRT SPAU AUXB
+as	RB CONJ
+developed	
+as	PIN CONJ PREP
+the	ART DET
+time	NN
+of	PIN PREP
+training	NN
+.	
+Researches	NN CAP
+has	VPRT PEAS
+established	PRIV
+that	PIN THVC SCONJ PREP
+skills	NN
+are	PASS VPRT AUXB
+born	
+of	PIN PREP
+brain	NN
+stimulation	NOMZ
+,	
+indicating	GER PRIV PGAS
+discoveries	NN
+which	WHSUB DET WH
+support	VPRT
+hard	JJ
+work	NN
+defenders	NN
+.	
+  	
+Every	QUAN CAP DET
+knowledge	NN
+becomes	VPRT
+from	PIN PREP
+external	JJ
+stimuli	NN
+to	PIN PREP
+us	FPP1 PRP SBJP ACCU
+,	
+either	CCONJ
+complex	JJ
+math	NN
+skills	NN
+or	CCONJ
+the	ART DET
+hability	NOMZ
+to	PIN TO PREP
+play	INF
+an	ART DET INDA
+instrument	NOMZ
+.	
+It	PIT CAP PRP SBJP
+means	VPRT PRIV
+that	PIN THVC SCONJ PREP
+our	FPP1 PRP SBJP
+learning	PRIV NN
+depends	VPRT
+on	PIN PREP
+our	FPP1 PRP SBJP
+experiencies	NN
+to	PIN TO PREP
+improve	INF
+and	PHC CCONJ
+develop	INF
+,	
+even	RB
+if	COND PIN SCONJ PREP
+anyone	QUPR INPR
+was	PASS VBD AUXB
+considered	PRIV
+an	ART DET INDA
+expert	NN
+or	CCONJ
+an	ART DET INDA
+obtuse	NN
+for	PIN PREP
+an	ART DET INDA
+area	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+the	ART DET
+psychologist	NN
+Tolman	CAP NNP
+,	
+creator	NN
+of	PIN PREP
+the	ART DET
+study	NN
+of	PIN PREP
+Purposive	CAP NNP
+Behavior	CAP NNP
+,	
+demonstred	VBD
+that	PIN DEMO SCONJ PREP
+mices	NN
+that	TSUB WHSUB WH
+had	VBD
+contact	NN
+more	RB EMPH CMADJ
+often	RB
+with	PIN PREP
+a	ART DET INDA
+maze	NN
+,	
+could	POMD
+,	
+later	RB TIME
+,	
+reach	INF
+food	NN
+faster	RB CMADJ
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+the	ART DET
+development	NOMZ
+of	PIN PREP
+mental	JJ
+maps	NN
+that	TSUB WHSUB WH
+allowed	VBD SUAV THATD
+mices	NN
+find	VPRT PRIV
+the	ART DET
+way	NN
+more	RB EMPH CMADJ
+efficiently	RB
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+case	NN
+,	
+mices	NN
+were	BEMA VBD AUXB
+not	XX0 RB
+gifted	JJ
+of	PIN PREP
+find	PRIV INF
+food	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+maze	NN
+skills	NN
+,	
+they	TPP3 PRP SBJP
+only	DWNT RB
+learned	VBD PRIV
+how	RB WHCL SCONJ WH
+to	PIN TO PREP
+solve	INF
+the	ART DET
+problem	NN
+.	
+It	PIT CAP PRP SBJP
+means	VPRT PRIV THATD
+that	PIN STPR DEMP SCONJ PREP
+,	
+even	RB
+if	COND PIN SCONJ PREP
+some	QUAN DET
+mice	NN
+found	VBD PRIV
+the	ART DET
+food	NN
+faster	RB CMADJ
+than	PIN PREP
+another	DET
+one	NN
+,	
+if	COND PIN SCONJ PREP
+this	DEMO DET
+other	JJ
+was	BEMA VBD AUXB
+more	RB EMPH CMADJ
+exposed	JJ
+to	PIN PREP
+the	ART DET
+maze	NN
+later	RB TIME
+,	
+it	PIT PRP SBJP
+will	PRMD
+be	BEMA AUXB INF
+better	JJ PRED CMADJ
+in	PIN CONJ PREP
+this	DEMP DET
+.	
+  	
+As	PIN CONJ CAP PREP
+another	DET
+example	NN
+of	PIN PREP
+experiment	NOMZ
+which	WHSUB DET WH
+showed	VBD PRIV
+similar	JJ
+results	NN
+,	
+there	EX
+is	VPRT AUXB
+the	ART DET
+Rosenzweig	CAP NNP
+’s	
+discovery	NN
+,	
+who	WH
+built	VBD
+a	ART DET INDA
+really	RB EMPH
+good	JJ
+place	NN
+for	PIN PREP
+mices	NN
+,	
+with	PIN PREP
+various	JJ
+activities	NN
+for	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+Others	NN CAP
+mices	NN
+were	PASS VBD AUXB
+put	
+in	PIN CONJ PREP
+a	ART DET INDA
+box	NN
+without	PIN PREP
+stimuli	NN
+like	PIN PREP
+the	ART DET
+other	JJ
+one	NUM
+.	
+The	ART CAP DET
+psychologist	NN
+realized	VBD PRIV
+,	
+later	RB TIME
+,	
+that	PIN THVC SCONJ PREP
+the	ART DET
+brain	NN
+of	PIN PREP
+mices	NN
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+situation	NOMZ
+developed	VBD
+more	RB EMPH CMADJ
+and	CCONJ
+made	VBD
+a	ART DET INDA
+higher	JJ CMADJ
+number	NN
+of	PIN PREP
+synapses	NN
+.	
+That	RB DEMP CAP
+is	VPRT AUXB
+,	
+more	JJ EMPH CMADJ
+experience	NN
+allowed	VBD SUAV
+experimental	JJ
+subjects	NN
+increase	VPRT
+their	TPP3 PRP SBJP
+brain	NN
+.	
+Based	PASTP CAP
+on	PIN PREP
+this	DEMO DET
+experiment	NOMZ
+,	
+if	COND PIN SCONJ PREP
+a	ART DET INDA
+external	JJ
+stimulus	NN
+affects	VPRT
+the	ART DET
+brain	NN
+,	
+it	PIT PRP SBJP
+sets	VPRT
+up	PIN PREP
+the	ART DET
+brain	NN
+,	
+and	ANDC CCONJ
+this	DEMO DET
+structural	JJ
+change	NN
+allows	VPRT SUAV
+a	ART DET INDA
+change	NN
+in	PIN CONJ PREP
+behavior	NN
+.	
+This	DEMP CAP DET
+means	VPRT PRIV THATD
+that	PIN THVC SCONJ PREP
+who	PIRE WH
+demonstrates	VPRT PRIV
+interesting	JJ
+in	PIN CONJ PREP
+an	ART DET INDA
+area	NN
+,	
+only	DWNT RB
+will	PRMD
+be	BEMA AUXB INF
+an	ART DET INDA
+expert	NN
+with	PIN PREP
+training	NN
+.	
+Of	RB PIN CAP PREP
+course	RB
+,	
+this	DEMO DET
+proposition	NOMZ
+does	VPRT SPAU
+not	XX0 RB
+disregard	INF
+that	PIN DEMO SCONJ PREP
+some	QUAN DET
+people	NN
+have	VPRT
+predisposition	NOMZ
+for	PIN PREP
+anything	QUPR INPR
+;	
+however	RB CONJ
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+never	RB
+enough	JJ
+.	
+  	
+Therefore	RB CONJ CAP
+,	
+in	PIN CONJ PREP
+conclusion	NOMZ
+,	
+people	NN
+who	WHSUB WH
+say	VPRT PUBV
+that	PIN THVC SCONJ PREP
+experts	NN
+are	BEMA VPRT AUXB
+good	JJ PRED
+because	CAUS PIN SCONJ PREP
+they	TPP3 PRP SBJP
+were	PASS VBD AUXB
+born	
+with	PIN PREP
+talent	NN
+disregard	NN
+that	DEMO WHOBJ WH
+expert	NN
+had	VBD
+to	PIN TO PREP
+study	INF
+and	CCONJ
+to	PIN TO PREP
+train	INF
+their	TPP3 PRP SBJP
+abilities	NN
+.	
+Oftentimes	CAP NNP
+,	
+the	ART DET
+constant	JJ
+exposure	NN
+leads	VPRT
+to	PIN TO PREP
+demonstrate	PRIV INF
+early	JJ TIME
+skill	NN
+,	
+and	ANDC CCONJ
+,	
+although	CONC PIN SCONJ PREP
+someone	QUPR INPR
+may	POMD
+have	INF
+a	ART DET INDA
+predisposition	NOMZ
+,	
+this	DEMP DET
+is	VPRT AUXB
+,	
+what	WH
+we	FPP1 PRP SBJP
+call	VPRT
+talent	NN
+,	
+only	DWNT RB
+the	ART DET
+hard	JJ
+work	NN
+might	POMD
+,	
+in	PIN CONJ PREP
+fact	NN
+,	
+progress	INF
+the	ART DET
+inteligence	NN
+.	
+Usually	RB CAP
+,	
+who	WHQU WH
+is	PASS VPRT AUXB
+considered	PRIV THATD
+a	ART DET INDA
+talented	JJ
+person	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+interested	JJ
+that	THAC WH
+studied	VBD
+more	JJ EMPH CMADJ
+than	PIN PREP
+others	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+seems	VPRT SMP
+that	PIN THVC SCONJ PREP
+this	DEMO DET
+person	NN
+is	BEMA VPRT AUXB
+naturally	RB
+skillful	JJ
+.	
+Maybe	RB HDG CAP
+,	
+this	DEMO DET
+interesting	JJ
+that	THAC WH
+is	BEMA VPRT AUXB
+importante	JJ PRED
+and	CCONJ
+moves	VPRT SUAV
+people	NN
+to	PIN TO PREP
+learn	PRIV INF
+and	PHC CCONJ
+create	INF
+.	
+As	PIN CONJ CAP PREP
+Thomas	CAP NNP
+Edison	CAP NNP
+said	VBD PUBV
+,	
+“	
+a	ART DET INDA
+genius	NN
+is	VPRT AUXB
+1	NUM
+%	NN
+inspiration	NOMZ
+and	CCONJ
+99	NUM
+%	NN
+perspiration	NOMZ
+.	
+”	
+  	

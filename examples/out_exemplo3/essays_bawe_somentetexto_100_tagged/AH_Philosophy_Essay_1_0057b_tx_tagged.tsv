@@ -1,0 +1,1290 @@
+# filename: AH_Philosophy_Essay_1_0057b_tx.txt
+token	tags
+Introduction	CAP NNP
+Quine	CAP NNP
+'s	
+naturalized	JJ
+epistemology	NN
+,	
+if	COND PIN SCONJ PREP
+accepted	PRIV
+,	
+puts	VPRT
+an	ART DET INDA
+end	NN
+to	PIN PREP
+the	ART DET
+search	NN
+for	PIN PREP
+certain	JJ
+(	
+or	CCONJ
+rather	RB
+"	QUOT
+certain	JJ
+"	QUOT
+)	
+knowledge	NN
+.	
+Subtleties	NN CAP
+aside	RB
+,	
+Quine	CAP NNP
+denies	VPRT PUBV
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+our	FPP1 PRP SBJP
+beliefs	NN
+being	PASS WZPRES AUXB
+justified	
+,	
+in	PIN CONJ PREP
+much	QUAN RB
+the	ART DET
+same	JJ
+way	NN
+as	PIN CONJ PREP
+our	FPP1 PRP SBJP
+actions	NOMZ
+are	PASS VPRT SPAU AUXB
+sometimes	RB
+denied	PUBV
+ethical	JJ
+value	NN
+.	
+Thus	RB CONJ CAP
+,	
+the	ART DET
+traditional	JJ
+epistemic	JJ
+enquiry	NN
+is	BEMA VPRT AUXB
+all	QUAN DET
+but	CCONJ
+drained	
+of	PIN PREP
+content	NN
+,	
+and	ANDC CCONJ
+Quine	CAP NNP
+urges	VPRT SUAV
+us	FPP1 PRP SBJP ACCU
+to	PIN TO PREP
+abandon	INF
+the	ART DET
+project	NN
+altogether	AMP RB
+and	CCONJ
+turn	INF
+to	PIN PREP
+the	ART DET
+empiric	JJ
+issue	NN
+of	PIN PREP
+how	RB SCONJ WH
+beliefs	NN
+and	PHC CCONJ
+theories	NN
+about	PIN PREP
+the	ART DET
+outside	JJ PLACE
+world	NN
+are	PASS VPRT AUXB
+generated	
+in	PIN CONJ PREP
+the	ART DET
+human	JJ
+brain	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+I	FPP1 CAP PRP SBJP
+will	PRMD
+try	INF
+and	PHC CCONJ
+outline	INF
+Quine	CAP NNP
+'s	
+project	NN
+and	CCONJ
+his	TPP3 PRP SBJP
+reasons	PRIV NN
+for	PIN STPR PREP
+'	CONT QUOT
+naturalizing	GER PGAS
+epistemology	NN
+'	CONT QUOT
+.	
+I	FPP1 CAP PRP SBJP
+will	PRMD
+begin	INF
+by	PIN PREP
+discussing	GER PGAS
+his	TPP3 PRP SBJP
+claim	PUBV NN
+that	PIN TOBJ THVC SCONJ PREP
+traditional	JJ
+epistemology	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+"	QUOT
+lost	JJ
+cause	NN
+"	QUOT
+,	
+move	SUAV INF
+on	PIN PREP
+to	PIN PREP
+his	TPP3 PRP SBJP
+vision	NOMZ
+of	PIN PREP
+epistemology	NN
+as	PIN CONJ PREP
+an	ART DET INDA
+empiric	JJ
+discipline	NN
+,	
+and	ANDC CCONJ
+lastly	RB
+discuss	INF
+the	ART DET
+various	JJ
+philosophic	JJ
+implications	NOMZ
+of	PIN PREP
+naturalizing	GER PGAS
+epistemology	NN
+.	
+Quine	CAP NNP
+'s	
+case	NN
+against	PIN PREP
+a	ART DET INDA
+complete	JJ
+'	CONT QUOT
+theory	NN
+of	PIN PREP
+knowledge	NN
+'	CONT QUOT
+Quine	CAP NNP
+describes	VPRT
+the	ART DET
+traditional	JJ
+epistemic	JJ
+project	NN
+as	PIN CONJ PREP
+an	ART DET INDA
+attempt	NN
+to	PIN TO PREP
+find	PRIV INF
+a	ART DET INDA
+dynamic	JJ
+logical	JJ
+link	NN
+between	PIN PREP
+sensory	JJ
+experience	NN
+and	PHC CCONJ
+theory	NN
+.	
+From	PIN CAP PREP
+our	FPP1 PRP SBJP
+experience	NN
+we	FPP1 PRP SBJP
+create	VPRT
+wide	RB
+-	
+ranging	PGAS
+theories	NN
+about	PIN PREP
+the	ART DET
+outside	JJ PLACE
+world	NN
+,	
+the	ART DET
+most	RB EMPH SPADJ
+systematic	JJ
+being	BEMA AUXB
+the	ART DET
+laws	NN
+of	PIN PREP
+nature	NN
+as	PIN CONJ PREP
+revealed	PRIV
+by	PIN PREP
+science	NN
+.	
+The	ART CAP DET
+purpose	NN
+of	PIN PREP
+traditional	JJ
+epistemology	NN
+since	OSUB PIN SCONJ PREP
+Descartes	CAP NNP
+has	VPRT PEAS
+been	BEMA AUXB
+to	PIN TO PREP
+provide	INF
+us	FPP1 PRP SBJP ACCU
+with	PIN PREP
+intellectual	JJ
+and	PHC CCONJ
+linguistic	JJ
+tools	NN
+with	PIN PREP
+the	ART DET
+use	NN
+of	PIN PREP
+which	PIRE DET WH
+we	FPP1 PRP SBJP
+may	POMD
+ascertain	PRIV INF
+when	RB WHCL SCONJ WH
+our	FPP1 PRP SBJP
+theories	NN
+correspond	VPRT
+with	PIN PREP
+the	ART DET
+actual	JJ
+state	PUBV NN
+of	PIN PREP
+things	NN
+and	ANDC CCONJ
+when	RB SCONJ WH
+they	TPP3 PRP SBJP
+do	VPRT PROD
+not	XX0 RB
+.	
+Epistemology	NN CAP
+was	BEMA VBD AUXB
+to	PIN TO PREP
+tell	INF
+us	FPP1 PRP SBJP ACCU
+when	RB SCONJ WH
+and	PHC ANDC CCONJ
+how	RB SCONJ WH
+our	FPP1 PRP SBJP
+beliefs	NN
+and	PHC CCONJ
+theories	NN
+were	PASS VBD AUXB
+justified	
+.	
+A	ART CAP DET INDA
+proper	JJ
+logical	JJ
+system	NN
+of	PIN PREP
+justification	NOMZ
+would	PRMD
+maybe	RB HDG
+one	NUM
+day	NN
+bridge	NN
+the	ART DET
+gap	NN
+between	PIN PREP
+theory	NN
+and	PHC CCONJ
+reality	NOMZ
+,	
+and	ANDC CCONJ
+provide	INF
+us	FPP1 PRP SBJP ACCU
+with	PIN PREP
+the	ART DET
+foundations	NOMZ
+of	PIN PREP
+science	NN
+;	
+much	QUAN JJ
+like	PIN PREP
+mathematics	NN
+would	PRMD SPAU
+eventually	RB TIME
+be	PASS AUXB INF
+reduced	
+to	PIN PREP
+logic	NN
+.	
+Drawing	CAP PGAS
+on	PIN PREP
+the	ART DET
+analogy	NN
+to	PIN PREP
+mathematics	NN
+and	PHC CCONJ
+logic	NN
+Quine	CAP NNP
+divides	VPRT
+the	ART DET
+epistemic	JJ
+program	NN
+into	PIN PREP
+two	NUM
+parts	NN
+:	
+conceptual	JJ
+reduction	NOMZ
+and	CCONJ
+doctrinal	JJ
+reduction	NOMZ
+.	
+Through	PIN CAP PREP
+conceptual	JJ
+reduction	NOMZ
+the	ART DET
+philosopher	NN
+tries	VPRT
+to	PIN TO PREP
+reduce	INF
+his	TPP3 PRP SBJP
+theories	NN
+about	PIN PREP
+the	ART DET
+external	JJ
+world	NN
+to	PIN PREP
+phenomenal	JJ
+features	NN
+of	PIN PREP
+our	FPP1 PRP SBJP
+indubitable	JJ
+sensory	JJ
+experience	NN
+.	
+Quine	CAP NNP
+refers	VPRT
+to	PIN PREP
+Carnap	CAP NNP
+'s	
+Der	CAP NNP
+Logische	CAP NNP
+der	NN
+Welt	CAP NNP
+as	PIN CONJ PREP
+the	ART DET
+most	RB EMPH SPADJ
+successful	JJ
+attempt	NN
+to	PIN TO STPR PREP
+,	
+by	PIN PREP
+logical	JJ
+deduction	NOMZ
+,	
+go	INF
+from	PIN PREP
+theory	NN
+to	PIN PREP
+experience	NN
+.	
+But	CAP CCONJ
+,	
+Quine	CAP NNP
+asserts	VPRT PUBV
+,	
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+the	ART DET
+complex	JJ
+or	CCONJ
+holistic	JJ
+manner	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+experience	NN
+generates	VPRT
+empirical	JJ
+meaning	PRIV NN
+,	
+we	FPP1 PRP SBJP
+will	PRMD SPAU
+never	RB
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO PREP
+discover	PRIV INF
+a	ART DET INDA
+precise	JJ
+logical	JJ
+relationship	NN
+(	
+a	ART DET INDA
+"	QUOT
+point	NN
+to	PIN TO PREP
+point	INF
+"	QUOT
+relationship	NN
+)	
+between	PIN PREP
+physical	JJ
+terms	NN
+and	CCONJ
+phenomenal	JJ
+terms	NN
+.	
+The	ART CAP DET
+other	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+epistemic	JJ
+project	NN
+,	
+doctrinal	JJ
+reduction	NOMZ
+,	
+failed	VBD
+according	PGAS
+to	PIN PREP
+Quine	CAP NNP
+,	
+with	PIN PREP
+Hume	CAP NNP
+.	
+By	PIN CAP PREP
+doctrinal	JJ
+reduction	NOMZ
+Quine	CAP NNP
+refers	VPRT
+to	PIN PREP
+the	ART DET
+process	NN
+of	PIN PREP
+logically	RB
+obtaining	PGAS
+theory	NN
+(	
+e.g.	RB CONJ
+the	ART DET
+laws	NN
+of	PIN PREP
+science	NN
+)	
+from	PIN PREP
+our	FPP1 PRP SBJP
+sensory	JJ
+input	NN
+.	
+But	CAP CCONJ
+Hume	CAP NNP
+,	
+Quine	CAP NNP
+argues	VPRT PUBV
+,	
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+creation	NOMZ
+of	PIN PREP
+a	ART DET INDA
+theory	NN
+always	RB
+involves	VPRT
+an	ART DET INDA
+element	NOMZ
+of	PIN PREP
+unsubstantiated	JJ
+generalization	NOMZ
+(	
+e.g.	RB CONJ
+identity	NOMZ
+)	
+.	
+Naturalized	JJ CAP
+epistemology	NN
+Quine	CAP NNP
+concludes	VPRT PRIV
+that	PIN THVC SCONJ PREP
+logical	JJ
+validation	NOMZ
+of	PIN PREP
+science	NN
+on	PIN PREP
+the	ART DET
+basis	NN
+of	PIN PREP
+observation	NOMZ
+is	BEMA VPRT AUXB
+impossible	JJ PRED
+.	
+What	WHQU CAP WH
+we	FPP1 PRP SBJP
+are	PASS VPRT AUXB
+left	
+with	PIN PREP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+normative	JJ
+epistemology	NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+justification	NOMZ
+becomes	VPRT
+a	ART DET INDA
+matter	NN
+of	PIN PREP
+convenience	NN
+or	CCONJ
+semantics	NN
+,	
+not	XX0 RB
+logic	NN
+.	
+Here	RB CAP
+Quine	CAP NNP
+urges	VPRT SUAV
+us	FPP1 PRP SBJP ACCU
+to	PIN TO PREP
+abandon	INF
+our	FPP1 PRP SBJP
+traditional	JJ
+epistemic	JJ
+search	NN
+for	PIN PREP
+justification	NOMZ
+:	
+since	OSUB PIN SCONJ PREP
+all	QUAN DET
+of	PIN PREP
+epistemology	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+normative	JJ
+enterprise	NN
+we	FPP1 PRP SBJP
+will	PRMD SPAU
+never	RB
+be	BEMA AUXB INF
+able	JJ PRED
+to	PIN TO SPIN PREP
+logically	RB
+prove	PRIV INF
+the	ART DET
+truth	NN
+of	PIN PREP
+any	QUAN DET
+belief	NN
+on	PIN PREP
+the	ART DET
+basis	NN
+of	PIN PREP
+experience	NN
+of	PIN PREP
+the	ART DET
+outside	JJ PLACE
+world	NN
+.	
+In	PIN CONJ CAP PREP
+Quine	CAP NNP
+'s	
+opinion	NN
+our	FPP1 PRP SBJP
+best	JJ SPADJ
+course	NN
+of	PIN PREP
+action	NOMZ
+if	COND PIN SCONJ PREP
+we	FPP1 PRP SBJP
+want	VPRT
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+connection	NOMZ
+between	PIN PREP
+sensory	JJ
+stimulation	NOMZ
+and	PHC CCONJ
+theory	NN
+is	BEMA VPRT AUXB
+to	PIN TO PREP
+immerse	INF
+ourselves	FPP1 PRP SBJP ACCU
+in	PIN CONJ PREP
+the	ART DET
+empiric	JJ
+study	NN
+of	PIN PREP
+how	RB SCONJ WH
+sensory	JJ
+input	NN
+generates	VPRT
+mental	JJ
+/	
+neural	NN
+representations	NOMZ
+in	PIN CONJ PREP
+human	JJ
+beings	NN
+.	
+Quine	CAP NNP
+himself	TPP3 PRP SBJP ACCU
+talks	NN
+of	PIN STPR PREP
+"	QUOT
+settling	PGAS
+for	PIN PREP
+psychology	NN
+"	QUOT
+,	
+but	CCONJ
+a	ART DET INDA
+more	RB EMPH CMADJ
+modern	JJ
+version	NOMZ
+of	PIN PREP
+his	TPP3 PRP SBJP
+essay	NN
+"	QUOT
+Epistemology	CAP NNP
+Naturalized	CAP NNP
+"	QUOT
+might	POMD
+have	PEAS INF
+emphasized	
+the	ART DET
+different	JJ
+processes	NN
+by	PIN PREP
+which	PIRE DET WH
+the	ART DET
+brain	NN
+makes	VPRT
+neural	JJ
+patterns	NN
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+nerve	NN
+-	
+cell	NN
+circuits	NN
+and	CCONJ
+manages	VPRT
+to	PIN TO PREP
+turn	INF
+those	DEMO DET
+neural	JJ
+patterns	NN
+into	PIN PREP
+mental	JJ
+images	NN
+.	
+The	ART CAP DET
+question	NOMZ
+of	PIN PREP
+how	RB SCONJ WH
+consciousness	NOMZ
+arises	VPRT
+from	PIN PREP
+neural	JJ
+circuits	NN
+in	PIN CONJ PREP
+thalamus	NN
+and	PHC CCONJ
+cortex	NN
+will	PRMD
+have	INF
+to	PIN TO PREP
+be	PASS AUXB INF
+addressed	
+.	
+Is	PASS VPRT AUXB CAP
+naturalized	
+epistemology	NN
+a	ART DET INDA
+subject	NN
+-	
+matter	NN
+of	PIN PREP
+philosophy	NN
+?	QUES
+Quine	CAP NNP
+urges	VPRT SUAV
+us	FPP1 PRP SBJP ACCU
+to	PIN TO PREP
+accept	PRIV INF
+that	PIN THVC SCONJ PREP
+our	FPP1 PRP SBJP
+only	JJ DWNT
+source	NN
+of	PIN PREP
+information	NOMZ
+about	PIN PREP
+anything	QUPR INPR
+comes	VPRT
+through	PIN PREP
+our	FPP1 PRP SBJP
+sense	PRIV NN
+organs	NN
+in	PIN CONJ PREP
+the	ART DET
+form	NN
+of	PIN PREP
+mental	JJ
+representations	NOMZ
+of	PIN PREP
+the	ART DET
+outside	JJ PLACE
+world	NN
+.	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+Wittgensteinian	JJ CAP
+fashion	NN
+he	TPP3 PRP SBJP
+asserts	VPRT PUBV
+that	PIN THVC SCONJ PREP
+the	ART DET
+sceptic	NN
+'s	
+challenge	NN
+is	VPRT AUXB
+but	CCONJ
+a	ART DET INDA
+figment	NOMZ
+of	PIN PREP
+our	FPP1 PRP SBJP
+over	PIN STPR PREP
+-	
+analytic	JJ
+imagination	NOMZ
+.	
+I	FPP1 CAP PRP SBJP
+am	BEMA VPRT AUXB
+not	XX0 RB
+in	PIN CONJ PREP
+a	ART DET INDA
+position	NOMZ
+to	PIN TO PREP
+argue	PUBV INF
+for	PIN PREP
+or	CCONJ
+against	PIN PREP
+his	TPP3 PRP SBJP
+attack	NN
+on	PIN PREP
+traditional	JJ
+,	
+logical	JJ
+epistemology	NN
+,	
+and	ANDC CCONJ
+I	FPP1 CAP PRP SBJP
+wonder	VPRT
+if	COND PIN SCONJ PREP
+anyone	QUPR INPR
+really	RB EMPH
+is	VPRT AUXB
+.	
+Who	WHQU CAP WH
+can	POMD
+know	PRIV INF
+for	PIN PREP
+certain	JJ
+that	PIN THAC SCONJ PREP
+certain	JJ
+knowledge	NN
+is	BEMA VPRT AUXB
+impossible	JJ PRED
+?	QUES
+Two	CAP NUM
+other	JJ
+issues	NN
+seem	VPRT SMP
+pressing	PGAS
+at	PIN PREP
+the	ART DET
+moment	NOMZ
+.	
+Does	VPRT CAP
+epistemology	NN
+cease	INF
+to	PIN TO PREP
+be	BEMA AUXB INF
+a	ART DET INDA
+philosophic	JJ
+enterprise	NN
+in	PIN CONJ PREP
+Quine	CAP NNP
+'s	
+naturalized	JJ
+form	NN
+?	QUES
+And	ANDC CAP CCONJ
+secondly	RB
+,	
+is	BEMA VPRT AUXB
+normative	JJ
+epistemology	NN
+as	PIN CONJ PREP
+useless	JJ
+or	CCONJ
+impossible	JJ
+as	PIN CONJ PREP
+Quine	CAP NNP
+will	PRMD
+have	INF
+us	FPP1 PRP SBJP ACCU
+believe	PRIV INF
+?	QUES
+The	ART CAP DET
+answer	NN
+to	PIN PREP
+the	ART DET
+first	JJ
+question	NOMZ
+must	NEMD
+be	AUXB INF
+no	UH
+.	
+Epistemology	NN CAP
+in	PIN CONJ PREP
+Quine	CAP NNP
+'s	
+natural	JJ
+form	NN
+investigates	VPRT
+how	RB SCONJ WH
+sensory	JJ
+input	NN
+leads	VPRT
+to	PIN PREP
+mental	JJ
+theories	NN
+and	PHC CCONJ
+representations	NOMZ
+of	PIN PREP
+the	ART DET
+world	NN
+.	
+This	DEMO CAP DET
+enterprise	NN
+has	VPRT PEAS SPAU
+already	RB
+been	PASS AUXB
+subdivided	
+into	PIN PREP
+parts	NN
+in	PIN CONJ PREP
+psychology	NN
+(	
+e.g.	CONJ X
+psychophysics	NN
+,	
+attention	NOMZ
+,	
+memory	NN
+,	
+or	CCONJ
+schema	NN
+-	
+theory	NN
+)	
+and	ANDC CCONJ
+neuroscience	NN
+(	
+i.e.	CONJ X
+how	RB SCONJ WH
+different	JJ
+neural	JJ
+structures	NN
+contribute	VPRT
+to	PIN PREP
+perception	NOMZ
+and	CCONJ
+dynamic	JJ
+mental	JJ
+images	NN
+)	
+.	
+But	CAP CCONJ
+nowhere	RB INPR PLACE
+in	PIN CONJ PREP
+these	DEMO DET
+disciplines	NN
+is	VPRT AUXB
+there	EX
+any	QUAN DET
+talk	NN
+of	PIN PREP
+the	ART DET
+relations	NOMZ
+between	PIN STPR PREP
+"	QUOT
+evidence	NN
+"	QUOT
+,	
+"	QUOT
+justification	NOMZ
+"	QUOT
+or	CCONJ
+"	QUOT
+knowledge	NN
+"	QUOT
+,	
+and	ANDC CCONJ
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+such	JJ
+thing	NN
+as	PIN CONJ PREP
+researching	GER PGAS
+an	ART DET INDA
+organism	NN
+'s	
+"	QUOT
+true	JJ
+"	QUOT
+or	CCONJ
+"	QUOT
+correct	JJ
+"	QUOT
+perception	NOMZ
+of	PIN PREP
+its	PIT PRP SBJP
+environment	NOMZ
+.	
+Some	QUAN CAP DET
+thinkers	NN
+have	VPRT PEAS
+been	PASS BYPA AUXB
+inspired	
+by	PIN PREP
+Quine	CAP NNP
+,	
+but	CCONJ
+also	RB
+by	PIN PREP
+philosophers	NN
+such	JJ
+as	PIN CONJ PREP
+Alvin	CAP NNP
+Goldman	CAP NNP
+and	PHC CCONJ
+Thomas	CAP NNP
+Kuhn	CAP NNP
+to	PIN TO PREP
+advocate	INF
+naturalistic	JJ
+epistemology	NN
+,	
+an	ART DET INDA
+epistemology	NN
+which	WHSUB DET WH
+emphasizes	VPRT
+empiric	JJ
+investigation	NOMZ
+rather	RB
+than	PIN PREP
+a	ART DET INDA
+priori	JJ
+conceptual	JJ
+analysis	NN
+.	
+Contrary	JJ CAP
+to	PIN PREP
+Quine	CAP NNP
+however	RB CONJ
+,	
+naturalistic	JJ
+epistemology	NN
+recognises	VPRT PRIV
+a	ART DET INDA
+crucial	JJ
+difference	NN
+between	PIN PREP
+knowledge	NN
+and	CCONJ
+true	JJ
+belief	NN
+,	
+focusing	PGAS
+on	PIN PREP
+the	ART DET
+psychological	JJ
+processes	NN
+that	TSUB WHSUB WH
+produced	VBD
+that	DEMO DET
+belief	NN
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+process	NN
+was	VBD AUXB
+sound	NN
+we	FPP1 PRP SBJP
+may	POMD
+call	INF
+the	ART DET
+resulting	PGAS
+representation	NOMZ
+of	PIN PREP
+the	ART DET
+world	NN
+"	QUOT
+accurate	JJ
+"	QUOT
+or	CCONJ
+"	QUOT
+knowledge	NN
+"	QUOT
+.	
+Quine	CAP NNP
+'s	
+naturalized	JJ
+epistemologist	NN
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+does	VPRT SPAU
+not	XX0 RB
+assess	INF
+whether	PIN SCONJ PREP
+or	CCONJ
+to	PIN PREP
+what	DET WH
+extent	NN
+the	ART DET
+input	NN
+"	QUOT
+justifies	NN
+"	QUOT
+the	ART DET
+output	NN
+.	
+But	CAP CCONJ
+then	RB
+again	RB TIME
+,	
+according	PGAS
+to	PIN PREP
+Quine	CAP NNP
+,	
+this	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+only	JJ DWNT
+reasonable	JJ
+route	NN
+to	PIN TO PREP
+take	INF
+since	OSUB PIN SCONJ PREP
+the	ART DET
+input	NN
+leads	VPRT
+to	PIN STPR PREP
+,	
+but	CCONJ
+does	VPRT PROD
+n't	XX0 CONT RB
+ever	RB
+"	QUOT
+justify	INF
+"	QUOT
+,	
+the	ART DET
+output	NN
+.	
+But	CAP CCONJ
+is	BEMA VPRT AUXB
+this	DEMO DET
+true	JJ
+?	QUES
+Why	RB WHQU CAP SCONJ WH
+should	NEMD
+we	FPP1 PRP SBJP
+abandon	INF
+traditional	JJ
+epistemology	NN
+altogether	AMP RB
+,	
+especially	RB
+if	COND PIN SCONJ PREP
+it	PIT PRP SBJP
+satisfies	VPRT
+our	FPP1 PRP SBJP
+intellectual	JJ
+curiosity	NOMZ
+?	QUES
+In	PIN CONJ CAP PREP
+his	TPP3 PRP SBJP
+essay	NN
+"	QUOT
+What	WHQU CAP WH
+is	PASS VPRT AUXB
+naturalized	
+epistemology	NN
+?	QUES
+"	QUOT
+Jaegwon	CAP NNP
+Kim	CAP NNP
+asserts	VPRT PUBV
+that	PIN THVC SCONJ PREP
+normative	JJ
+epistemology	NN
+is	BEMA VPRT AUXB
+indeed	RB
+possible	JJ
+.	
+He	TPP3 CAP PRP SBJP
+makes	VPRT
+an	ART DET INDA
+analogy	NN
+to	PIN PREP
+ethics	NN
+,	
+saying	PUBV PGAS
+that	PIN THVC SCONJ PREP
+just	RB EMPH
+like	PIN PREP
+a	ART DET INDA
+car	NN
+may	POMD
+be	AUXB INF
+"	QUOT
+good	JJ
+"	QUOT
+in	PIN CONJ PREP
+virtue	NN
+of	PIN PREP
+certain	JJ
+factual	JJ
+properties	NN
+;	
+a	ART DET INDA
+belief	NN
+may	POMD
+be	AUXB INF
+"	QUOT
+justified	
+"	QUOT
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+certain	JJ
+properties	NN
+such	JJ
+as	PIN CONJ PREP
+its	PIT PRP SBJP
+being	BEMA NN
+coherent	JJ PRED
+,	
+rational	JJ
+,	
+"	QUOT
+indubitable	JJ
+"	QUOT
+or	CCONJ
+logically	RB
+deducible	JJ
+from	PIN PREP
+another	DET
+"	QUOT
+indubitable	JJ
+"	QUOT
+belief	NN
+and	ANDC CCONJ
+so	RB
+on	RB PIN STPR PREP
+.	
+Quine	CAP NNP
+is	VPRT AUXB
+saying	PUBV PGAS
+that	PIN THVC SCONJ PREP
+for	PIN PREP
+centuries	NN
+we	FPP1 PRP SBJP
+'ve	CONT VPRT
+been	AUXB
+trying	PGAS
+to	PIN TO PREP
+find	PRIV INF
+rational	JJ
+and	PHC CCONJ
+normative	JJ
+systems	NN
+that	TSUB WHSUB WH
+encompass	VPRT
+these	DEMO DET
+different	JJ
+properties	NN
+,	
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+we	FPP1 PRP SBJP
+should	NEMD SPAU
+now	RB TIME
+be	BEMA AUXB INF
+ready	JJ PRED
+to	PIN TO PREP
+admit	PUBV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+project	NN
+is	BEMA VPRT AUXB
+impossible	JJ PRED
+.	
+Epistemology	NN CAP
+is	BEMA VPRT AUXB
+obviously	RB
+possible	JJ
+,	
+articles	NN
+are	PASS VPRT AUXB
+published	
+every	QUAN DET
+day	NN
+,	
+but	CCONJ
+will	PRMD
+it	PIT PRP SBJP
+ever	RB
+amount	INF
+to	PIN PREP
+anything	QUPR INPR
+more	RB EMPH CMADJ
+substantial	JJ
+?	QUES
+Must	NEMD CAP
+it	PIT PRP SBJP
+?	QUES
+Shall	PRMD CAP
+I	FPP1 CAP PRP SBJP
+sign	INF
+up	PIN PREP
+for	PIN PREP
+an	ART DET INDA
+optional	JJ
+course	NN
+in	PIN CONJ PREP
+modern	JJ
+epistemology	NN
+or	CCONJ
+functional	JJ
+neuroanatomy	NN
+?	QUES
+Once	RB TIME CAP
+again	RB TIME
+,	
+ones	NN
+allegiance	NN
+in	PIN CONJ PREP
+this	DEMO DET
+matter	NN
+seems	VPRT SMP
+to	PIN TO PREP
+bear	INF
+on	PIN PREP
+personality	NOMZ
+traits	NN
+rather	RB
+than	PIN PREP
+reason	PRIV NN
+.	

@@ -1,0 +1,680 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1843.1083.txt
+token	tags
+  	
+Biotechnology	NN CAP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+field	NN
+that	TSUB WHSUB WH
+evolved	VBD
+in	PIN CONJ PREP
+the	ART DET
+second	JJ
+half	NN
+of	PIN PREP
+the	ART DET
+last	JJ
+century	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+hot	JJ
+topic	NN
+in	PIN CONJ PREP
+the	ART DET
+news	NN
+,	
+in	PIN CONJ PREP
+science	NN
+,	
+and	ANDC CCONJ
+even	RB
+in	PIN CONJ PREP
+art	NN
+.	
+The	ART CAP DET
+attention	NOMZ
+towards	PIN PREP
+biotechnology	NN
+is	PASS VPRT SPAU AUXB
+probably	RB
+wrapped	
+around	PIN PLACE PREP
+the	ART DET
+unprecedented	JJ
+revolution	NOMZ
+it	PIT PRP SBJP
+can	POMD
+lead	INF
+to	PIN PREP
+all	QUAN DET
+aspects	NN
+of	PIN PREP
+human	JJ
+life	NN
+.	
+Cloning	NN CAP
+,	
+extended	
+lifespan	NN
+,	
+stem	NN
+cell	NN
+research	NN
+,	
+and	ANDC CCONJ
+genetic	JJ
+edition	NOMZ
+,	
+once	RB TIME
+considered	PRIV
+only	DWNT RB
+by	PIN PREP
+science	NN
+fiction	NOMZ
+,	
+are	BEMA VPRT AUXB
+real	JJ
+approaches	NN
+now	RB TIME
+.	
+However	RB CONJ CAP
+,	
+even	RB
+scientists	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+sure	JJ
+about	PIN PREP
+how	RB SCONJ WH
+the	ART DET
+future	NN
+of	PIN PREP
+mankind	NN
+will	PRMD
+look	INF
+like	PIN PREP
+in	PIN CONJ PREP
+face	NN
+of	PIN PREP
+biotechnological	JJ
+advances	NN
+.	
+Whether	PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+will	PRMD
+look	INF
+bright	JJ
+or	CCONJ
+not	XX0 RB
+is	BEMA VPRT AUXB
+beyond	PIN PREP
+human	JJ
+sight	NN
+;	
+however	RB CONJ
+,	
+we	FPP1 PRP SBJP
+must	NEMD
+set	INF
+today	TIME NN
+the	ART DET
+limits	NN
+for	PIN PREP
+what	WH
+can	POMD
+be	PASS AUXB INF
+done	EMPH
+based	
+on	PIN PREP
+the	ART DET
+events	NN
+that	TSUB WHSUB WH
+happen	VPRT
+in	PIN CONJ PREP
+the	ART DET
+present	NN
+.	
+ 	
+Clear	JJ CAP
+laws	NN
+have	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+defined	
+in	PIN CONJ PREP
+biotechnological	JJ
+research	NN
+.	
+The	ART CAP DET
+policies	NN
+concerning	GER WZPRES PGAS
+research	NN
+ethical	JJ
+points	NN
+vary	VPRT
+widely	RB
+among	PIN PREP
+countries	NN
+:	
+in	PIN CONJ PREP
+Iran	CAP NNP
+,	
+human	NNP
+embryonic	JJ
+stem	NN
+cell	NN
+research	NN
+is	PASS VPRT AUXB
+allowed	SUAV
+with	PIN PREP
+no	SYNE DET
+restrictions	NOMZ
+,	
+while	OSUB PIN SCONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+US	FPP1 CAP NNP
+each	QUAN DET
+state	PUBV NN
+has	VPRT
+its	PIT PRP SBJP
+laws	NN
+(	
+SANIEI	CAP NNP
+2013	NUM
+;	
+URL	NN CAP
+1	NUM
+)	
+.	
+Even	RB CAP
+though	CONC PIN SCONJ PREP
+UN	CAP NNP
+has	VPRT PEAS
+established	PRIV
+the	ART DET
+Universal	CAP NNP
+Declaration	CAP NNP
+on	PIN PREP
+Bioethics	CAP NNP
+and	PHC CCONJ
+Human	CAP NNP
+Rights	CAP NNP
+,	
+the	ART DET
+resolutions	NOMZ
+only	DWNT RB
+contribute	VPRT
+to	PIN TO PREP
+blur	INF
+the	ART DET
+line	NN
+between	PIN PREP
+right	NN
+and	PHC CCONJ
+wrong	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+third	JJ
+article	NN
+,	
+it	PIT PRP SBJP
+states	VPRT PUBV
+that	PIN THVC SCONJ PREP
+the	ART DET
+individual	JJ
+well	NN
+-	
+being	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+important	JJ
+than	PIN PREP
+the	ART DET
+interests	NN
+of	PIN PREP
+science	NN
+and	PHC CCONJ
+society	NN
+(	
+URL	CAP NNP
+2	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+is	BEMA VPRT AUXB
+the	ART DET
+(	
+future	JJ
+)	
+well	DPAR RB
+-	
+being	BEMA NN
+of	PIN PREP
+a	ART DET INDA
+fetus	NN
+less	RB CMADJ
+important	JJ
+than	PIN PREP
+the	ART DET
+(	
+potential	JJ
+)	
+cure	NN
+of	PIN PREP
+aging	NN
+?	QUES
+Is	BEMA VPRT AUXB CAP
+a	ART DET INDA
+fetus	NN
+more	RB EMPH CMADJ
+important	JJ
+than	PIN PREP
+an	ART DET INDA
+adult	NN
+?	QUES
+ 	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+as	PIN CONJ PREP
+research	NN
+shows	VPRT PRIV
+promising	JJ PUBV
+results	NN
+,	
+companies	NN
+are	VPRT AUXB
+developing	GER PGAS
+new	JJ
+tools	NN
+and	PHC CCONJ
+products	NN
+.	
+However	RB CONJ CAP
+,	
+their	TPP3 PRP SBJP
+main	JJ
+objective	NN
+can	POMD
+be	AUXB INF
+profit	NN
+and	CCONJ
+a	ART DET INDA
+vague	JJ
+set	NN
+of	PIN PREP
+laws	NN
+could	POMD
+make	INF
+justifiable	JJ
+a	ART DET INDA
+variety	NN
+of	PIN PREP
+actions	NOMZ
+.	
+The	ART CAP DET
+pharmaceutical	NN
+and	CCONJ
+biotech	JJ
+companies	NN
+already	RB
+make	VPRT
+an	ART DET INDA
+extraordinary	JJ
+amount	NN
+of	PIN PREP
+money	NN
+:	
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+estimated	PRIV
+that	PIN THVC SCONJ PREP
+Johnson	CAP NNP
+&	CCONJ
+Johnson	CAP NNP
+and	PHC CCONJ
+Pfizer	CAP NNP
+earned	VBD
+almost	DWNT RB
+25	NUM
+billion	NUM
+of	PIN PREP
+dollars	NN
+in	PIN CONJ PREP
+2017	NUM
+(	
+URL	NN CAP
+3	NUM
+)	
+.	
+The	ART CAP DET
+actions	NOMZ
+of	PIN PREP
+these	DEMO DET
+huge	JJ
+companies	NN
+are	PASS VPRT SPAU AUXB
+not	XX0 RB
+comprised	
+only	DWNT RB
+to	PIN TO PREP
+research	INF
+or	CCONJ
+a	ART DET INDA
+few	QUAN JJ
+drugs	NN
+we	FPP1 PRP SBJP
+use	VPRT
+in	PIN CONJ PREP
+everyday	JJ
+life	NN
+,	
+but	CCONJ
+they	TPP3 PRP SBJP
+also	RB
+extend	VPRT
+their	TPP3 PRP SBJP
+tentacles	NN
+to	PIN PREP
+the	ART DET
+government	NOMZ
+.	
+An	ART CAP DET INDA
+example	NN
+of	PIN PREP
+this	DEMP DET
+is	BEMA VPRT AUXB
+the	ART DET
+lobby	NN
+promoted	WZPAST
+by	PIN PREP
+pharmaceutical	JJ
+companies	NN
+in	PIN CONJ PREP
+the	ART DET
+US	FPP1 CAP NNP
+Congress	CAP NNP
+:	
+they	TPP3 PRP SBJP
+spent	VBD
+2.5	NUM
+billion	NUM
+of	PIN PREP
+dollars	NN
+in	PIN CONJ PREP
+campaign	NN
+donation	NOMZ
+to	PIN PREP
+politicians	NN
+in	PIN CONJ PREP
+the	ART DET
+last	JJ
+decade	NN
+(	
+URL	NN CAP
+4	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+regard	NN
+,	
+a	ART DET INDA
+set	NN
+of	PIN PREP
+laws	NN
+that	TSUB WHSUB WH
+can	POMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+changed	
+(	
+a	ART DET INDA
+better	JJ CMADJ
+biotechnological	JJ
+global	JJ
+constitution	NOMZ
+)	
+should	NEMD
+be	PASS AUXB INF
+formulated	
+.	
+ 	
+Another	CAP DET
+aspect	NN
+concerns	VPRT
+the	ART DET
+legislation	NOMZ
+about	PIN PREP
+devices	NN
+and	PHC CCONJ
+techniques	NN
+that	TSUB WHSUB WH
+are	BEMA VPRT AUXB
+not	XX0 RB
+on	PIN PREP
+the	ART DET
+market	NN
+yet	RB
+,	
+but	CCONJ
+are	BEMA VPRT AUXB
+very	AMP RB
+likely	JJ
+to	PIN TO PREP
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+the	ART DET
+upcoming	JJ
+years	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+case	NN
+,	
+an	ART DET INDA
+unambiguous	JJ
+legislation	NOMZ
+based	WZPAST
+on	PIN PREP
+events	NN
+happening	WZPRES PGAS
+now	RB TIME
+(	
+or	CCONJ
+that	DEMP DET
+happened	VBD
+in	PIN CONJ PREP
+the	ART DET
+past	NN
+)	
+must	NEMD
+be	PASS AUXB INF
+applied	
+.	
+ 	
+One	CAP NUM
+example	NN
+is	VPRT AUXB
+CRISPR	CAP NNP
+,	
+that	DEMP WH
+allows	VPRT SUAV THATD
+gene	NN
+editing	WZPRES PGAS
+in	PIN CONJ PREP
+a	ART DET INDA
+fast	JJ
+and	PHC CCONJ
+precise	JJ
+way	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT SPAU AUXB
+now	RB TIME
+confined	
+to	PIN PREP
+basic	JJ
+research	NN
+,	
+Chinese	JJ CAP
+scientists	NN
+have	VPRT PEAS
+succeeded	
+to	PIN TO PREP
+edit	INF
+the	ART DET
+gene	NN
+that	TSUB WHSUB WH
+causes	VPRT
+congenital	JJ
+anemia	NN
+using	WZPRES PGAS
+nonviable	JJ
+human	JJ
+embryos	NN
+(	
+LIANG	CAP NNP
+,	
+2015	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+not	XX0 RB
+hard	JJ
+to	PIN TO PREP
+conceive	INF
+this	DEMO DET
+technique	NN
+being	PASS WZPRES AUXB
+used	
+to	PIN TO PREP
+enhance	INF
+physical	JJ
+strength	NN
+,	
+to	PIN TO PREP
+change	INF
+the	ART DET
+eye	NN
+color	NN
+,	
+or	CCONJ
+to	PIN TO PREP
+create	INF
+an	ART DET INDA
+army	NN
+of	PIN PREP
+super	JJ
+soldiers	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+a	ART DET INDA
+direct	JJ
+,	
+global	JJ
+,	
+and	ANDC CCONJ
+strict	JJ
+set	NN
+of	PIN PREP
+laws	NN
+must	NEMD
+be	PASS AUXB INF
+enacted	
+.	
+As	PIN CONJ CAP PREP
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+discussed	
+,	
+the	ART DET
+laws	NN
+regarding	WZPRES PGAS
+biotechnology	NN
+vary	VPRT
+greatly	AMP RB
+from	PIN PREP
+country	NN
+to	PIN PREP
+country	NN
+and	CCONJ
+even	RB
+from	PIN PREP
+state	PUBV NN
+to	PIN PREP
+state	PUBV NN
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+as	PIN CONJ PREP
+big	JJ
+companies	NN
+and	CCONJ
+new	JJ
+techniques	NN
+come	VPRT
+to	PIN PREP
+the	ART DET
+global	JJ
+scenario	NN
+,	
+the	ART DET
+discussion	NOMZ
+about	PIN PREP
+what	WH
+is	BEMA VPRT AUXB
+legal	JJ PRED
+would	PRMD
+be	PASS AUXB INF
+relativized	
+to	PIN TO PREP
+fit	INF
+in	PIN CONJ PREP
+the	ART DET
+interests	NN
+of	PIN PREP
+the	ART DET
+investors	NN
+.	
+These	DEMO CAP DET
+reasons	PRIV NN
+are	BEMA VPRT AUXB
+more	JJ PRED EMPH CMADJ
+than	PIN PREP
+enough	JJ
+to	PIN TO PREP
+alarm	INF
+every	QUAN DET
+citizen	NN
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+,	
+as	PIN CONJ PREP
+his	TPP3 PRP SBJP
+or	CCONJ
+her	TPP3 PRP SBJP
+rights	NN
+could	POMD
+be	PASS AUXB INF
+endangered	
+in	PIN CONJ PREP
+a	ART DET INDA
+near	JJ PLACE
+future	NN
+.	

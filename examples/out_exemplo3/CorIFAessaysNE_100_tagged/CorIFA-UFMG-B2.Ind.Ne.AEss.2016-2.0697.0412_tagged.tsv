@@ -1,0 +1,505 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0697.0412.txt
+token	tags
+﻿	NNP
+  	
+It	PIT CAP PRP SBJP
+is	PASS VPRT SPAU AUXB
+well	RB
+known	PRIV
+that	PIN THVC SCONJ PREP
+physical	JJ
+activities	NN
+are	BEMA VPRT AUXB
+essential	JJ PRED
+for	PIN PREP
+promote	INF
+a	ART DET INDA
+general	JJ
+health	NN
+avoiding	WZPRES PGAS
+many	QUAN JJ
+chronicle	NN
+and	CCONJ
+non	JJ
+-	JJ
+chronicle	JJ
+diseases	NN
+such	JJ
+as	PIN CONJ PREP
+hypertension	NOMZ
+,	
+coronary	JJ
+heart	NN
+disease	NN
+,	
+stroke	NN
+,	
+diabetes	NN
+,	
+breast	NN
+and	PHC CCONJ
+colon	NN
+cancer	NN
+.	
+It	PIT CAP PRP SBJP
+also	RB
+reduces	VPRT
+the	ART DET
+risk	NN
+of	PIN PREP
+falls	NN
+,	
+promotes	VPRT
+bone	NN
+and	CCONJ
+functional	JJ
+health	NN
+and	CCONJ
+is	BEMA VPRT AUXB
+fundamental	JJ PRED
+to	PIN PREP
+energy	NN
+balance	NN
+and	PHC CCONJ
+weight	NN
+control	NN
+(	
+WHO	CAP NNP
+,	
+2016	NUM
+)	
+.	
+But	CAP CCONJ
+what	WH
+most	JJ EMPH SPADJ
+people	NN
+do	VPRT SPAU
+n’t	RB
+know	PRIV INF
+is	BEMA VPRT AUXB
+about	PIN PREP
+the	ART DET
+mental	JJ
+benefits	NN
+of	PIN PREP
+physical	JJ
+activities	NN
+.	
+ 	
+According	CAP PGAS
+to	PIN PREP
+World	CAP NNP
+Health	CAP NNP
+Organization	CAP NNP
+(	
+WHO	CAP NNP
+)	
+Mental	JJ CAP
+health	NN
+Atlas	CAP NNP
+country	NN
+profile	NN
+(	
+2014	NUM
+)	
+,	
+in	PIN CONJ PREP
+the	ART DET
+United	CAP NNP
+States	PUBV CAP NNP
+of	PIN PREP
+America	CAP NNP
+4	NUM
+%	NN
+of	PIN PREP
+the	ART DET
+population	NOMZ
+has	VPRT
+some	QUAN DET
+serious	JJ
+mental	JJ
+disease	NN
+registered	
+.	
+But	CAP CCONJ
+as	PIN CONJ PREP
+said	PUBV
+by	PIN PREP
+Fox	CAP NNP
+(	
+1999	NUM
+)	
+There	EX CAP
+are	VPRT AUXB
+the	ART DET
+less	RB CMADJ
+severe	JJ
+problems	NN
+that	TSUB WHSUB WH
+afflicts	VPRT
+many	QUAN JJ
+other	JJ
+people	NN
+and	CCONJ
+represents	VPRT
+the	ART DET
+biggest	JJ SPADJ
+part	NN
+of	PIN PREP
+the	ART DET
+health	NN
+disease	NN
+problem	NN
+in	PIN CONJ PREP
+population	NOMZ
+.	
+Those	DEMP CAP DET
+are	VPRT AUXB
+,	
+for	PIN PREP
+example	NN
+:	
+Depression	NOMZ CAP
+(	
+which	SERE WHQU DET WH
+can	POMD
+affect	INF
+5	NUM
+to	PIN PREP
+10	NUM
+percent	NN
+of	PIN PREP
+population	NOMZ
+in	PIN CONJ PREP
+most	RB EMPH SPADJ
+developed	
+countries	NN
+)	
+,	
+emotional	JJ
+distress	NN
+,	
+low	JJ
+self	NN
+-	
+esteem	NN
+,	
+poor	JJ
+body	NN
+image	NN
+,	
+sense	PRIV NN
+of	PIN PREP
+hopelessness	NOMZ
+,	
+chronic	JJ
+stress	NN
+and	PHC CCONJ
+anxiety	NN
+.	
+ 	
+This	DEMO CAP DET
+study	NN
+from	PIN PREP
+Dr	CAP NNP
+Kenneth	CAP NNP
+R	CAP NNP
+Fox	CAP NNP
+(	
+1999	NUM
+)	
+made	PASTP
+on	PIN PREP
+the	ART DET
+Department	CAP NNP
+of	PIN PREP
+Exercise	CAP NNP
+and	PHC CCONJ
+Health	CAP NNP
+Sciences	CAP NNP
+of	PIN PREP
+the	ART DET
+University	CAP NNP
+of	PIN PREP
+Bristol	CAP NNP
+,	
+UK	CAP NNP
+,	
+was	BEMA VBD AUXB
+an	ART DET INDA
+over	JJ
+view	NN
+on	PIN PREP
+studies	NN
+about	PIN PREP
+this	DEMO DET
+topic	NN
+at	PIN PREP
+the	ART DET
+time	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+showed	VBD PRIV THATD
+how	RB WHCL SCONJ WH
+physical	JJ
+activities	NN
+can	POMD
+be	BEMA AUXB INF
+determinant	JJ PRED
+on	PIN PREP
+mental	JJ
+health	NN
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+in	PIN CONJ PREP
+physical	JJ
+health	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+him	TPP3 PRP SBJP ACCU
+there	EX
+is	VPRT AUXB
+four	NUM
+ways	NN
+the	ART DET
+physical	JJ
+exercises	NN
+can	POMD
+act	INF
+on	PIN PREP
+the	ART DET
+psychological	JJ
+health	NN
+:	
+Treating	CAP PGAS
+mental	JJ
+,	
+preventing	GER PGAS
+of	PIN PREP
+mental	JJ
+illness	NOMZ
+and	PHC CCONJ
+disorders	NN
+,	
+improving	PGAS
+mental	JJ
+and	PHC CCONJ
+physical	JJ
+well	RB
+-	
+being	BEMA NN
+of	PIN PREP
+people	NN
+with	PIN PREP
+mental	JJ
+illness	NOMZ
+and	CCONJ
+Improvement	CAP NNP
+of	PIN PREP
+mental	JJ
+well	NN
+-	
+being	BEMA NN
+of	PIN PREP
+the	ART DET
+general	JJ
+population	NOMZ
+.	
+ 	
+Still	RB CAP
+on	PIN PREP
+Fox	CAP NNP
+(	
+1999	NUM
+)	
+study	NN
+,	
+it	PIT PRP SBJP
+was	PASS VBD AUXB
+shown	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+physical	JJ
+activity	NOMZ
+can	POMD
+act	INF
+on	PIN PREP
+those	DEMO DET
+mental	JJ
+disorders	NN
+that	TSUB WHSUB WH
+afflict	VPRT
+most	JJ EMPH SPADJ
+part	NN
+of	PIN PREP
+the	ART DET
+population	NOMZ
+.	
+The	ART CAP DET
+evidences	NN
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+risk	NN
+of	PIN PREP
+clinical	JJ
+depression	NOMZ
+is	PASS VPRT AUXB
+decreased	
+with	PIN PREP
+physical	JJ
+activity	NOMZ
+,	
+aerobic	JJ
+and	CCONJ
+resistance	NN
+training	NN
+has	VPRT
+positive	JJ
+effects	NN
+treating	WZPRES PGAS
+depression	NOMZ
+and	CCONJ
+the	ART DET
+magnitude	NN
+of	PIN PREP
+this	DEMO DET
+improvement	NOMZ
+can	POMD
+be	PASS AUXB INF
+compared	
+to	PIN PREP
+psychotherapeutic	JJ
+interventions	NOMZ
+as	PIN CONJ PREP
+shown	PRIV
+by	PIN PREP
+experiment	NOMZ
+studies	NN
+;	
+It	PIT CAP PRP SBJP
+can	POMD
+provide	INF
+reduces	NN
+on	PIN PREP
+anxiety	NN
+and	PHC CCONJ
+stress	NN
+;	
+It	PIT CAP PRP SBJP
+also	RB
+has	VPRT PEAS
+been	PASS AUXB
+shown	PRIV
+that	PIN THVC SCONJ PREP
+exercises	NN
+promote	VPRT
+a	ART DET INDA
+positive	JJ
+effect	NN
+on	PIN PREP
+your	SPP2 PRP SBJP
+mood	NN
+,	
+As	PIN CONJ CAP PREP
+said	PUBV
+by	PIN PREP
+the	ART DET
+author	NN
+:	
+“	
+ 	
+”	
+;	
+Exercise	NN CAP
+can	POMD
+change	INF
+people	NN
+’s	
+perceptions	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+physical	JJ
+self	NN
+and	PHC CCONJ
+identity	NOMZ
+in	PIN CONJ PREP
+a	ART DET INDA
+positive	JJ
+way	NN
+;	
+For	PIN CAP PREP
+the	ART DET
+elderly	JJ
+,	
+Physical	JJ CAP
+activity	NOMZ
+can	POMD
+keep	INF
+you	SPP2 PRP SBJP
+alert	JJ
+and	PHC CCONJ
+jovial	JJ
+;	
+It	PIT CAP PRP SBJP
+also	RB
+improve	VPRT
+the	ART DET
+sleep	NN
+quality	NOMZ
+.	
+ 	
+As	PIN CONJ CAP PREP
+we	FPP1 PRP SBJP
+can	POMD
+see	PRIV INF
+,	
+the	ART DET
+physical	JJ
+activity	NOMZ
+has	VPRT
+many	QUAN JJ
+good	JJ
+effects	NN
+in	PIN CONJ PREP
+the	ART DET
+physic	NN
+an	ART DET INDA
+also	RB
+mental	JJ
+health	NN
+.	
+For	PIN CAP PREP
+this	DEMO DET
+reason	PRIV NN
+a	ART DET INDA
+combination	NOMZ
+of	PIN PREP
+cardiorespiratory	NN
+exercise	NN
+,	
+resistance	NN
+exercise	NN
+,	
+flexibility	NOMZ
+exercise	NN
+and	PHC CCONJ
+neuromotor	NN
+exercise	NN
+is	PASS VPRT BYPA SPAU AUXB
+highly	AMP RB
+recommended	SUAV
+by	PIN PREP
+the	ART DET
+American	CAP NNP
+College	CAP NNP
+of	PIN PREP
+Sports	CAP NNP
+Medicine	CAP NNP
+(	
+ACSM	CAP NNP
+)	
+.	
+        	

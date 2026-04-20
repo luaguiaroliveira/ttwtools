@@ -1,0 +1,1471 @@
+# filename: AH_History_Essay_2_0042b_tx.txt
+token	tags
+(	
+Figure	NN CAP
+1	NUM
+)	
+(	
+Figure	NN CAP
+2	NUM
+)	
+(	
+Figure	NN CAP
+3	NUM
+)	
+Diagrams	CAP NNP
+constructed	
+from	PIN PREP
+figures	NN
+cited	WZPAST
+in	PIN CONJ PREP
+K.N.	CAP NNP
+Chauduri	CAP NNP
+,	
+The	ART CAP DET
+Trading	CAP NNP
+World	CAP NNP
+of	PIN PREP
+Asia	CAP NNP
+and	CCONJ
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+1660	NUM
+-	
+1760	NUM
+(	
+Cambridge	NN CAP
+:	
+Cambridge	CAP NNP
+University	CAP NNP
+Press	CAP NNP
+,	
+1978	NUM
+)	
+,	
+p.	NN
+507	NUM
+-	
+511	NUM
+Trade	CAP NNP
+in	PIN CONJ PREP
+absolute	JJ
+and	PHC CCONJ
+relative	JJ
+terms	NN
+with	PIN PREP
+Asia	CAP NNP
+grew	VBD
+at	PIN PREP
+moderate	JJ
+rates	NN
+ever	RB
+since	OSUB PIN SCONJ PREP
+the	ART DET
+Portugese	CAP NNP
+under	PIN PREP
+Vasco	CAP NNP
+da	NNP
+Gama	CAP NNP
+landed	VBD
+in	PIN CONJ PREP
+Goa	CAP NNP
+in	PIN CONJ PREP
+1498	NUM
+.	
+The	ART CAP DET
+Dutch	CAP NNP
+and	CCONJ
+the	ART DET
+Portugese	CAP NNP
+had	VBD PEAS SPAU
+long	RB
+competed	
+for	PIN PREP
+gaining	PGAS
+control	NN
+of	PIN PREP
+the	ART DET
+oceanic	JJ
+trade	NN
+network	NN
+of	PIN PREP
+the	ART DET
+Indian	JJ CAP
+merchants	NN
+which	WHSUB DET WH
+stretched	VBD
+from	PIN PREP
+the	ART DET
+Red	CAP NNP
+Sea	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+west	PLACE NN
+as	RB CONJ
+far	RB PLACE
+as	PIN CONJ PREP
+the	ART DET
+coast	NN
+of	PIN PREP
+Japan	CAP NNP
+and	PHC CCONJ
+Indonesia	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+Far	CAP NNP
+East	CAP NNP
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+real	JJ
+stimuli	NN
+to	PIN TO PREP
+trade	NN
+came	VBD
+with	PIN PREP
+the	ART DET
+arrival	NN
+of	PIN PREP
+the	ART DET
+French	CAP NNP
+and	CCONJ
+especially	RB
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+in	PIN CONJ PREP
+India	CAP NNP
+.	
+The	ART CAP DET
+massive	JJ
+boost	NN
+to	PIN TO PREP
+trade	INF
+,	
+as	PIN CONJ PREP
+noted	PRIV
+by	PIN PREP
+Figures	NN CAP
+1	NUM
+and	CCONJ
+2	NUM
+,	
+resulted	VBD
+in	PIN CONJ PREP
+the	ART DET
+formation	NOMZ
+of	PIN PREP
+a	ART DET INDA
+complex	JJ
+trading	NN
+network	NN
+between	PIN PREP
+the	ART DET
+company	NN
+and	CCONJ
+the	ART DET
+Indian	JJ CAP
+merchants	NN
+and	CCONJ
+political	JJ
+elites	NN
+.	
+As	PIN CONJ CAP PREP
+Figure	CAP NNP
+3	NUM
+notes	PRIV NN
+,	
+during	PIN PREP
+the	ART DET
+pre	JJ
+-	JJ
+British	JJ CAP
+days	NN
+Bombay	CAP NNP
+,	
+Surat	CAP NNP
+,	
+Calicut	CAP NNP
+and	CCONJ
+other	JJ
+west	JJ PLACE
+coastal	JJ
+ports	NN
+of	PIN PREP
+India	CAP NNP
+were	BEMA VBD AUXB
+the	ART DET
+flourishing	JJ
+trading	NN
+ports	NN
+from	PIN PREP
+which	PIRE DET WH
+much	QUAN JJ
+of	PIN PREP
+the	ART DET
+Asian	JJ CAP
+exports	NN
+were	PASS VBD AUXB
+shipped	
+to	PIN PREP
+Europe	CAP NNP
+.	
+The	ART CAP DET
+Europeans	CAP NNP
+found	VBD PRIV THATD
+it	PIT PRP SBJP
+extremely	AMP RB
+hard	JJ
+to	PIN TO PREP
+compete	INF
+with	PIN PREP
+the	ART DET
+Indian	JJ CAP
+merchants	NN
+,	
+even	RB
+after	PIN PREP
+gaining	PGAS
+much	QUAN JJ
+political	JJ
+foothold	NN
+in	PIN CONJ PREP
+the	ART DET
+area	NN
+.	
+Bengal	CAP NNP
+was	BEMA VBD AUXB
+a	ART DET INDA
+relatively	RB
+untapped	JJ
+state	PUBV NN
+in	PIN CONJ PREP
+India	CAP NNP
+for	PIN PREP
+the	ART DET
+Europeans	CAP NNP
+and	CCONJ
+incidentally	RB
+the	ART DET
+most	RB EMPH SPADJ
+prosperous	JJ
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+became	VBD
+the	ART DET
+first	JJ
+major	JJ
+economic	JJ
+and	PHC CCONJ
+later	JJ TIME
+political	JJ
+base	NN
+of	PIN PREP
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+.	
+The	ART CAP DET
+China	CAP NNP
+opium	NN
+trade	NN
+network	NN
+was	BEMA VBD AUXB
+the	ART DET
+main	JJ
+cause	NN
+for	PIN PREP
+the	ART DET
+marked	JJ
+increase	NN
+in	PIN CONJ PREP
+Bengal	CAP NNP
+'s	
+importance	NN
+in	PIN CONJ PREP
+the	ART DET
+company	NN
+'s	
+trade	NN
+.	
+Opium	NN CAP
+from	PIN PREP
+Bengal	CAP NNP
+and	PHC CCONJ
+Malwa	CAP NNP
+was	PASS VBD AUXB
+exported	
+to	PIN PREP
+China	CAP NNP
+to	PIN TO PREP
+buy	INF
+silver	NN
+bullion	NN
+,	
+silk	NN
+or	CCONJ
+tea	NN
+,	
+which	SERE DET WH
+in	PIN CONJ PREP
+turn	NN
+was	PASS VBD AUXB
+used	
+to	PIN TO PREP
+buy	INF
+American	JJ CAP
+and	PHC CCONJ
+Indian	JJ CAP
+cotton	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+exported	
+to	PIN PREP
+the	ART DET
+British	JJ CAP
+isles	NN
+for	PIN PREP
+the	ART DET
+mills	NN
+of	PIN PREP
+Lancashire	CAP NNP
+.	
+Thus	RB CONJ CAP
+the	ART DET
+East	CAP NNP
+Indian	JJ CAP
+trading	NN
+network	NN
+came	VBD
+to	PIN TO PREP
+be	BEMA AUXB INF
+of	PIN PREP
+fundamental	JJ
+importance	NN
+to	PIN PREP
+the	ART DET
+company	NN
+and	CCONJ
+affected	VBD
+all	QUAN DET
+of	PIN PREP
+the	ART DET
+participants	NN
+in	PIN CONJ PREP
+this	DEMO DET
+network	NN
+,	
+Indian	JJ CAP
+merchants	NN
+being	WZPRES AUXB
+one	NUM
+of	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+useful	JJ PRED
+to	PIN TO PREP
+identify	INF
+the	ART DET
+structure	NN
+of	PIN PREP
+trade	NN
+to	PIN TO SPIN PREP
+correctly	RB
+place	INF
+the	ART DET
+Indian	JJ CAP
+merchants	NN
+within	PIN PREP
+this	DEMO DET
+edifice	NN
+of	PIN PREP
+company	NN
+trade	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+the	ART DET
+British	JJ CAP
+government	NOMZ
+had	VBD PEAS
+bestowed	
+upon	PIN SCONJ PREP
+the	ART DET
+company	NN
+a	ART DET INDA
+monopoly	NN
+of	PIN PREP
+the	ART DET
+Asian	JJ CAP
+trade	NN
+,	
+there	EX
+was	VBD AUXB
+a	ART DET INDA
+thriving	JJ
+network	NN
+of	PIN PREP
+freelance	JJ
+traders	NN
+who	WHSUB WH
+started	VBD
+of	PIN PREP
+as	PIN CONJ PREP
+adventurers	NN
+.	
+As	PIN CONJ CAP PREP
+P.J.	CAP NNP
+Marshall	CAP NNP
+put	VBD
+it	PIT PRP SBJP
+,	
+'	CONT QUOT
+They	TPP3 CAP PRP SBJP
+were	BEMA VBD AUXB
+in	PIN CONJ PREP
+India	CAP NNP
+[	
+simply	RB
+]	X
+to	PIN TO PREP
+get	INF
+rich	JJ
+'	CONT QUOT
+.	
+Despite	PIN CAP SCONJ PREP
+strict	JJ
+regulations	NOMZ
+from	PIN PREP
+the	ART DET
+company	NN
+against	PIN PREP
+any	QUAN DET
+breaking	NN
+of	PIN PREP
+the	ART DET
+monopoly	NN
+,	
+the	ART DET
+private	JJ
+network	NN
+was	VBD AUXB
+gradually	RB
+but	CCONJ
+surely	RB
+replacing	PGAS
+the	ART DET
+official	JJ
+channels	NN
+of	PIN PREP
+trade	NN
+,	
+so	RB
+much	QUAN RB
+so	OSUB PIN SCONJ PREP
+that	PIN DEMO SCONJ PREP
+in	PIN CONJ PREP
+1667	NUM
+the	ART DET
+company	NN
+was	PASS VBD AUXB
+compelled	
+to	PIN TO PREP
+allow	SUAV INF
+private	JJ
+trade	NN
+in	PIN CONJ PREP
+all	QUAN DET
+commodities	NN
+barring	WZPRES PGAS
+pepper	NN
+and	PHC CCONJ
+calicoes	NN
+from	PIN PREP
+India	CAP NNP
+.	
+By	PIN CAP PREP
+the	ART DET
+mid	JJ
+19	NUM
+th	X
+century	NN
+when	RB WHOBJ SCONJ WH
+the	ART DET
+monopoly	NN
+was	PASS VBD BYPA SPAU AUXB
+officially	RB
+broken	
+by	PIN PREP
+Queen	CAP NNP
+Victoria	CAP NNP
+,	
+it	PIT PRP SBJP
+existed	VBD
+only	DWNT RB
+in	PIN CONJ PREP
+theory	NN
+.	
+Competitive	JJ CAP
+environment	NOMZ
+was	VBD AUXB
+also	RB
+markedly	RB
+different	JJ
+,	
+especially	RB
+in	PIN CONJ PREP
+Bengal	CAP NNP
+,	
+after	PIN PREP
+the	ART DET
+Battle	CAP NNP
+of	PIN PREP
+Plassey	CAP NNP
+(	
+1757	NUM
+)	
+.	
+Before	PIN CAP PREP
+the	ART DET
+death	NN
+of	PIN PREP
+Mughal	CAP NNP
+Emperor	CAP NNP
+Aurangzeb	CAP NNP
+(	
+1707	NUM
+)	
+,	
+the	ART DET
+European	CAP NNP
+East	CAP NNP
+Indian	JJ CAP
+companies	NN
+had	VBD
+to	PIN TO PREP
+abide	INF
+by	PIN PREP
+imperial	JJ
+guidelines	NN
+for	PIN PREP
+trade	NN
+which	WHSUB DET WH
+were	VBD AUXB
+de	X
+facto	X
+useless	JJ
+after	PIN PREP
+Aurangzeb	CAP NNP
+,	
+as	PIN CONJ PREP
+the	ART DET
+Mughal	CAP NNP
+Emperors	CAP NNP
+were	BEMA VBD AUXB
+too	RB
+weak	JJ
+to	PIN TO PREP
+implement	INF
+them	TPP3 PRP SBJP ACCU
+.	
+As	RB CONJ CAP
+far	RB PLACE
+as	PIN CONJ PREP
+access	NN
+to	PIN PREP
+Indian	JJ CAP
+markets	NN
+was	PASS VBD AUXB
+concerned	
+,	
+the	ART DET
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+operated	VBD
+through	PIN PREP
+authorised	
+brokers	NN
+who	WHSUB WH
+dealt	VBD
+with	PIN PREP
+reliable	JJ
+merchants	NN
+both	DET
+for	PIN PREP
+export	NN
+commodities	NN
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+imported	
+goods	NN
+.	
+They	TPP3 CAP PRP SBJP
+were	PASS VBD AUXB
+known	PRIV
+as	PIN CONJ PREP
+the	ART DET
+banias	NN
+,	
+and	ANDC CCONJ
+Michael	CAP NNP
+Morineau	CAP NNP
+has	VPRT PEAS
+compared	
+them	TPP3 PRP SBJP ACCU
+to	PIN PREP
+the	ART DET
+cash	NN
+clerks	NN
+of	PIN PREP
+the	ART DET
+Genevans	CAP NNP
+.	
+P.J.Marshall	CAP NNP
+,	
+East	CAP NNP
+Indian	CAP NNP
+Fortunes	CAP NNP
+:	
+The	ART CAP DET
+British	JJ CAP
+in	PIN CONJ PREP
+Bengal	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+18th	JJ
+Century	CAP NNP
+(	
+Oxford	CAP NNP
+:	
+Clarendon	CAP NNP
+,	
+1976	NUM
+)	
+,	
+p.	NN
+3	NUM
+K.N.	CAP NNP
+Chauduri	CAP NNP
+,	
+The	ART CAP DET
+Trading	CAP NNP
+World	CAP NNP
+of	PIN PREP
+Asia	CAP NNP
+and	CCONJ
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+1660	NUM
+-	
+1760	NUM
+,	
+p.	NN
+148	NUM
+S.	CAP NNP
+Chaudhuri	CAP NNP
+/	
+M.	CAP NNP
+Morineau	CAP NNP
+(	
+Eds	CAP NNP
+)	
+.	
+,	
+Merchants	CAP NNP
+,	
+Company	CAP NNP
+and	PHC CCONJ
+Trade	CAP NNP
+,	
+p.	NN
+296	NUM
+The	ART CAP DET
+European	CAP NNP
+East	CAP NNP
+Indian	JJ CAP
+companies	NN
+were	PASS VBD AUXB
+limited	
+to	PIN PREP
+the	ART DET
+west	NNP
+coast	NNP
+of	PIN PREP
+India	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+early	JJ TIME
+part	NN
+of	PIN PREP
+their	TPP3 PRP SBJP
+trading	NN
+incursions	NOMZ
+(	
+C16	CAP NNP
+to	PIN PREP
+eC18	NNP
+)	
+,	
+with	PIN PREP
+the	ART DET
+notable	JJ
+exception	NOMZ
+of	PIN PREP
+Madras	CAP NNP
+.	
+Their	TPP3 CAP PRP SBJP
+attitudes	NN
+towards	PIN PREP
+the	ART DET
+trading	NN
+ports	NN
+can	POMD
+be	PASS BYPA AUXB INF
+summed	
+up	PIN PREP
+by	PIN PREP
+a	ART DET INDA
+statement	NOMZ
+from	PIN PREP
+Captain	CAP NNP
+Bowrey	CAP NNP
+on	PIN PREP
+his	TPP3 PRP SBJP
+visit	NN
+to	PIN PREP
+Banda	CAP NNP
+Aceh	CAP NNP
+in	PIN CONJ PREP
+Indonesia	CAP NNP
+,	
+"	QUOT
+This	DEMO CAP DET
+city	NN
+is	BEMA VPRT AUXB
+the	ART DET
+fairest	JJ SPADJ
+and	CCONJ
+most	RB EMPH SPADJ
+populous	JJ
+of	PIN PREP
+any	QUAN DET
+that	DEMO WH
+I	FPP1 CAP PRP SBJP
+ever	RB
+saw	VBD PRIV
+or	CCONJ
+heard	PRIV
+of	PIN STPR PREP
+...	
+but	CCONJ
+indeed	RB
+it	PIT PRP SBJP
+cometh	VPRT
+far	RB PLACE
+short	JJ
+for	PIN PREP
+decency	NN
+and	PHC CCONJ
+buildings	NN
+and	PHC CCONJ
+uniformitie	NN
+of	PIN PREP
+the	ART DET
+meanest	JJ SPADJ
+city	NN
+...	
+on	PIN PREP
+the	ART DET
+mainland	NN
+of	PIN PREP
+India	CAP NNP
+"	QUOT
+.	
+They	TPP3 CAP PRP SBJP
+found	VBD PRIV
+already	RB
+established	PRIV
+merchant	NN
+networks	NN
+and	PHC CCONJ
+trading	NN
+links	NN
+between	PIN PREP
+the	ART DET
+Armenians	CAP NNP
+and	PHC CCONJ
+Muslims	CAP NNP
+coming	WZPRES PGAS
+from	PIN PREP
+the	ART DET
+Middle	CAP NNP
+East	CAP NNP
+,	
+and	ANDC CCONJ
+the	ART DET
+local	JJ
+Hindu	CAP NNP
+and	PHC CCONJ
+Jain	CAP NNP
+traders	NN
+.	
+Indeed	RB CAP
+,	
+as	PIN CONJ PREP
+K.N.	CAP NNP
+Chauduri	CAP NNP
+has	VPRT PEAS
+argued	PUBV
+,	
+the	ART DET
+local	JJ
+populace	NN
+saw	VBD PRIV
+the	ART DET
+Europeans	CAP NNP
+more	JJ EMPH CMADJ
+of	PIN PREP
+a	ART DET INDA
+threat	NN
+rather	RB
+than	PIN PREP
+an	ART DET INDA
+addition	NOMZ
+to	PIN PREP
+their	TPP3 PRP SBJP
+prosperity	NOMZ
+.	
+As	PIN CONJ CAP PREP
+S.	CAP NNP
+Chaudhuri	CAP NNP
+and	PHC CCONJ
+Michael	CAP NNP
+Mornieau	CAP NNP
+have	VPRT PEAS
+argued	PUBV
+,	
+the	ART DET
+atmosphere	NN
+was	BEMA VBD AUXB
+more	JJ PRED EMPH CMADJ
+of	PIN STPR PREP
+'	CONT QUOT
+competition	NOMZ
+rather	RB
+than	PIN PREP
+collaboration	NOMZ
+'	CONT QUOT
+Perhaps	RB CAP
+to	PIN TO PREP
+come	INF
+to	PIN PREP
+the	ART DET
+aid	NN
+of	PIN PREP
+the	ART DET
+struggling	GER PGAS
+Portugese	CAP NNP
+East	CAP NNP
+India	CAP NNP
+company	NN
+,	
+Admiral	CAP NNP
+Albuqueque	CAP NNP
+raided	VBD
+Calicut	CAP NNP
+with	PIN PREP
+his	TPP3 PRP SBJP
+gunboats	NN
+as	RB CONJ
+early	RB TIME
+as	PIN CONJ PREP
+1500	NUM
+to	PIN TO PREP
+expel	INF
+the	ART DET
+Muslim	JJ CAP
+merchants	NN
+.	
+Not	XX0 RB CAP
+only	DWNT RB
+was	BEMA VBD AUXB
+such	JJ
+conflict	NN
+limited	WZPAST
+between	PIN PREP
+Indians	CAP NNP
+and	PHC CCONJ
+Europeans	CAP NNP
+.	
+There	EX CAP
+was	VBD AUXB
+a	ART DET INDA
+vicious	JJ
+conflict	NN
+to	PIN TO PREP
+capture	INF
+the	ART DET
+markets	NN
+of	PIN PREP
+the	ART DET
+Indonesian	JJ CAP
+archipelago	NN
+between	PIN PREP
+the	ART DET
+Hindu	CAP NNP
+,	
+Jain	CAP NNP
+,	
+Armenian	CAP NNP
+,	
+Portugese	CAP NNP
+and	CCONJ
+Dutch	JJ CAP
+merchants	NN
+,	
+much	QUAN JJ
+of	PIN PREP
+which	PIRE DET WH
+turned	VBD
+into	PIN PREP
+armed	JJ
+struggle	NN
+.	
+The	ART CAP DET
+Muslim	JJ CAP
+merchants	NN
+of	PIN PREP
+Gujarat	CAP NNP
+also	RB
+got	VBD
+involved	
+,	
+slicing	PGAS
+off	PIN PREP
+a	ART DET INDA
+large	JJ
+portion	NOMZ
+of	PIN PREP
+the	ART DET
+South	CAP NNP
+East	CAP NNP
+Asian	JJ CAP
+textile	NN
+market	NN
+from	PIN PREP
+the	ART DET
+Dutch	CAP NNP
+.	
+K.N.	CAP NNP
+Chauduri	CAP NNP
+has	VPRT PEAS
+called	
+it	PIT PRP SBJP
+a	ART DET INDA
+'	CONT QUOT
+violent	JJ
+scuffle	NN
+'	CONT QUOT
+for	PIN PREP
+trade	NN
+routes	NN
+.	
+There	EX CAP
+were	VBD AUXB
+also	RB
+inherent	JJ
+tensions	NOMZ
+between	PIN PREP
+the	ART DET
+merchant	NN
+communities	VPRT
+themselves	TPP3 PRP SBJP ACCU
+along	PIN PREP
+religious	JJ
+and	CCONJ
+caste	NN
+lines	NN
+.	
+Elite	JJ CAP
+merchant	NN
+houses	NN
+like	PIN PREP
+those	DEMO DET
+of	PIN PREP
+Parracks	CAP NNP
+,	
+Nizamies	CAP NNP
+and	PHC CCONJ
+Rustumji	CAP NNP
+enjoyed	VBD
+special	JJ
+privileges	NN
+from	PIN PREP
+the	ART DET
+Emperor	CAP NNP
+.	
+Moreover	RB CONJ CAP
+,	
+the	ART DET
+European	CAP NNP
+East	CAP NNP
+India	CAP NNP
+companies	NN
+hardly	DWNT RB
+ever	RB
+dealt	VBD
+with	PIN PREP
+Muslim	JJ CAP
+merchants	NN
+because	CAUS PIN SCONJ PREP
+of	PIN PREP
+traditional	JJ
+enmity	NOMZ
+.	
+However	RB CONJ CAP
+,	
+under	PIN PREP
+Emperor	CAP NNP
+Auranzgeb	CAP NNP
+the	ART DET
+Hindus	CAP NNP
+of	PIN PREP
+Gujarat	CAP NNP
+were	PASS VBD SPAU AUXB
+ruthlessly	RB
+persecuted	
+including	PGAS
+brokers	NN
+for	PIN PREP
+the	ART DET
+company	NN
+at	PIN PREP
+their	TPP3 PRP SBJP
+Surat	CAP NNP
+factory	NN
+.	
+This	DEMP CAP DET
+resulted	VBD
+in	PIN CONJ PREP
+widespread	JJ
+protests	PUBV NN
+and	PHC CCONJ
+strikes	NN
+at	PIN PREP
+the	ART DET
+plant	NN
+.	
+K.N.	CAP NNP
+Chauduri	CAP NNP
+,	
+Trade	CAP NNP
+and	PHC CCONJ
+Civilisation	CAP NNP
+in	PIN CONJ PREP
+the	ART DET
+Indian	CAP NNP
+Ocean	CAP NNP
+,	
+p.	NN
+181	NUM
+S.	CAP NNP
+Chaudhuri	CAP NNP
+/	
+M.	CAP NNP
+Morineau	CAP NNP
+(	
+Eds	CAP NNP
+.	
+)	
+,	
+Merchants	CAP NNP
+,	
+Company	CAP NNP
+and	PHC CCONJ
+Trade	CAP NNP
+,	
+p.	NN
+9	NUM
+K.N.	CAP NNP
+Chauduri	CAP NNP
+,	
+The	ART CAP DET
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+,	
+p.	NN
+14	NUM
+K.N.	CAP NNP
+Chauduri	CAP NNP
+,	
+The	ART CAP DET
+Trading	CAP NNP
+World	CAP NNP
+of	PIN PREP
+Asia	CAP NNP
+and	CCONJ
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+,	
+p.	NN
+150	NUM
+Neither	CAP DET
+did	VBD PROD
+the	ART DET
+Mughal	CAP NNP
+Empire	CAP NNP
+remain	VPRT
+a	ART DET INDA
+passive	JJ
+observer	NN
+to	PIN PREP
+such	JJ
+turmoil	NN
+within	PIN PREP
+its	PIT PRP SBJP
+domain	NN
+.	
+In	PIN CONJ CAP PREP
+1632	NUM
+,	
+owing	PGAS
+to	PIN PREP
+lobbying	PGAS
+from	PIN PREP
+Indian	JJ CAP
+merchants	NN
+,	
+the	ART DET
+Portugese	CAP NNP
+were	PASS VBD AUXB
+expelled	
+wholesale	JJ
+from	PIN PREP
+the	ART DET
+shores	NN
+of	PIN PREP
+India	CAP NNP
+barring	WZPRES PGAS
+a	ART DET INDA
+little	JJ
+enclave	NN
+in	PIN CONJ PREP
+Goa	CAP NNP
+by	PIN PREP
+Emperor	CAP NNP
+Shah	CAP NNP
+Jahan	CAP NNP
+.	
+Although	CONC PIN CAP SCONJ PREP
+Sir	CAP NNP
+Thomas	CAP NNP
+Roe	CAP NNP
+had	VBD PEAS
+obtained	
+legal	JJ
+rights	NN
+to	PIN TO PREP
+trade	INF
+in	PIN CONJ PREP
+India	CAP NNP
+from	PIN PREP
+Emperor	CAP NNP
+Jahangir	CAP NNP
+,	
+in	PIN CONJ PREP
+1688	NUM
+Sir	CAP NNP
+John	CAP NNP
+Child	CAP NNP
+made	VBD
+an	ART DET INDA
+attempt	NN
+,	
+no	DET
+doubt	RB PRIV
+due	PIN PREP
+to	PIN PREP
+pressure	NN
+from	PIN PREP
+British	JJ CAP
+merchant	NN
+circles	NN
+,	
+to	PIN TO SPIN PREP
+militarily	RB
+force	INF
+the	ART DET
+Mughal	CAP NNP
+Empire	CAP NNP
+into	PIN PREP
+giving	PGAS
+more	JJ EMPH CMADJ
+trading	NN
+concessions	NOMZ
+to	PIN PREP
+the	ART DET
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+.	
+The	ART CAP DET
+company	NN
+'s	
+forces	NN
+were	PASS VBD AUXB
+routed	
+and	CCONJ
+the	ART DET
+English	CAP NNP
+almost	DWNT RB
+expelled	VBD
+from	PIN PREP
+the	ART DET
+mainland	NN
+of	PIN PREP
+India	CAP NNP
+.	
+Even	RB CAP
+though	CONC PIN SCONJ PREP
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+India	CAP NNP
+Company	CAP NNP
+did	VBD EMPH
+manage	INF
+to	PIN TO PREP
+prolong	INF
+its	PIT PRP SBJP
+stay	NN
+in	PIN CONJ PREP
+India	CAP NNP
+,	
+owing	PGAS
+to	PIN PREP
+continued	
+competition	NOMZ
+from	PIN PREP
+Indian	JJ CAP
+merchants	NN
+,	
+it	PIT PRP SBJP
+had	VBD
+to	PIN TO PREP
+abandon	INF
+its	PIT PRP SBJP
+trading	NN
+posts	NN
+in	PIN CONJ PREP
+the	ART DET
+Malabar	CAP NNP
+Coast	CAP NNP
+of	PIN PREP
+India	CAP NNP
+and	CCONJ
+retreat	NN
+to	PIN PREP
+Bengal	CAP NNP
+,	
+where	RB WHQU SCONJ WH
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+to	PIN TO PREP
+consolidate	INF
+and	PHC CCONJ
+build	INF
+its	PIT PRP SBJP
+first	JJ
+trading	NN
+base	NN
+.	
+The	ART CAP DET
+company	NN
+was	BEMA VBD AUXB
+not	XX0 RB
+to	PIN TO PREP
+return	INF
+to	PIN TO PREP
+dominate	INF
+the	ART DET
+Bombay	CAP NNP
+and	PHC CCONJ
+Madras	CAP NNP
+presidencies	NN
+until	PIN PREP
+well	RB
+into	PIN PREP
+the	ART DET
+Age	CAP NNP
+of	PIN PREP
+Empire	CAP NNP
+,	
+when	RB SCONJ WH
+Indian	JJ CAP
+competition	NOMZ
+had	VBD PEAS
+been	PASS BYPA AUXB
+uprooted	
+by	PIN PREP
+political	JJ
+force	NN
+.	
+Even	RB CAP
+in	PIN CONJ PREP
+Bengal	CAP NNP
+,	
+the	ART DET
+company	NN
+remained	VBD
+on	PIN PREP
+the	ART DET
+sideline	NN
+of	PIN PREP
+economic	JJ
+activity	NOMZ
+until	PIN PREP
+the	ART DET
+mid	NNP
+18	NUM
+th	X
+century	NN
+,	
+for	PIN PREP
+Indian	JJ CAP
+competition	NOMZ
+was	BEMA VBD AUXB
+present	JJ
+there	RB
+too	RB
+.	
+The	ART CAP DET
+Virji	CAP NNP
+Vohra	CAP NNP
+and	PHC CCONJ
+Jagath	CAP NNP
+Seth	CAP NNP
+houses	NN
+of	PIN PREP
+Surat	CAP NNP
+,	
+and	ANDC CCONJ
+the	ART DET
+Khwaja	CAP NNP
+Wazid	CAP NNP
+merchant	NN
+house	NN
+of	PIN PREP
+Bengal	CAP NNP
+are	BEMA VPRT AUXB
+only	DWNT RB
+a	ART DET INDA
+fraction	NOMZ
+of	PIN PREP
+the	ART DET
+threat	NN
+European	JJ CAP
+trade	NN
+faced	WZPAST
+in	PIN CONJ PREP
+India	CAP NNP
+at	PIN PREP
+the	ART DET
+turn	NN
+of	PIN PREP
+the	ART DET
+18	NUM
+th	X
+century	NN
+.	
+P.J.	CAP NNP
+Marshall	CAP NNP
+,	
+East	CAP NNP
+Indian	CAP NNP
+Fortunes	CAP NNP
+,	
+p.	NN
+6	NUM
+K.N.	CAP NNP
+Chaudhuri	CAP NNP
+,	
+The	ART CAP DET
+Trading	CAP NNP
+World	CAP NNP
+of	PIN PREP
+Asia	CAP NNP
+and	CCONJ
+the	ART DET
+English	CAP NNP
+East	CAP NNP
+Indian	CAP NNP
+Company	CAP NNP
+,	
+p.	NN
+111	NUM
+S.Chaudhuri	CAP NNP
+/	
+M.	CAP NNP
+Mornieau	CAP NNP
+(	
+Eds	CAP NNP
+.	
+)	
+,	
+Merchants	CAP NNP
+,	
+Company	CAP NNP
+and	PHC CCONJ
+Trade	CAP NNP
+,	
+p.	NN
+9	NUM
+A.	NN CAP
+Dow	CAP NNP
+has	VPRT PEAS
+called	
+Bengal	CAP NNP
+'	CONT QUOT
+...	
+the	ART DET
+richest	JJ SPADJ
+,	
+most	RB EMPH SPADJ
+populous	JJ
+and	CCONJ
+best	RB
+cultivated	
+kingdoms	NN
+of	PIN PREP
+the	ART DET
+world	NN
+.	
+'	CONT QUOT
+P.J.	CAP NNP
+Marshall	CAP NNP
+,	
+East	CAP NNP
+Indian	CAP NNP
+Fortunes	CAP NNP
+,	
+p.	NN
+5	NUM

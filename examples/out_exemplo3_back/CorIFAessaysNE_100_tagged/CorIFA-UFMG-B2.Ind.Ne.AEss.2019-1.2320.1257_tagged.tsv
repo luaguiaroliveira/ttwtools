@@ -1,0 +1,881 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2320.1257.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2019	CAP NNP
+-	
+1.2320.1257	NNP
+>	X
+  	
+<	X
+The	ART CAP DET
+importance	NN
+of	PIN PREP
+Mr.	CAP NNP
+Keynes	CAP NNP
+’	
+ideas	NN
+for	PIN PREP
+the	ART DET
+economic	JJ
+thought	PRIV NN
+>	
+  	
+The	ART CAP DET
+2008	NUM
+financial	JJ
+crisis	NN
+evoked	VBD
+the	ART DET
+return	NN
+of	PIN PREP
+a	ART DET INDA
+series	NN
+of	PIN PREP
+doubts	PRIV NN
+in	PIN CONJ PREP
+concern	NN
+the	ART DET
+limits	NN
+of	PIN PREP
+mainstream	JJ
+economic	JJ
+theory	NN
+.	
+The	ART CAP DET
+idea	NN
+that	PIN DEMO SCONJ PREP
+economy	NN
+follows	VPRT
+a	ART DET INDA
+steady	JJ
+state	PUBV NN
+in	PIN CONJ PREP
+which	PIRE DET WH
+all	QUAN DET
+people	NN
+willing	JJ
+to	PIN TO PREP
+work	INF
+have	INF
+jobs	NN
+—	
+i.e.	CONJ X
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+involuntary	JJ
+unemployment	NOMZ
+—	
+and	ANDC CCONJ
+that	PIN THVC SCONJ PREP
+any	QUAN DET
+deviation	NOMZ
+of	PIN PREP
+this	DEMO DET
+trajectory	NN
+is	PASS VPRT BYPA SPAU AUXB
+naturally	RB
+adjusted	
+by	PIN PREP
+the	ART DET
+automatic	JJ
+forces	NN
+of	PIN PREP
+market	NN
+was	PASS VBD SPAU AUXB
+seriously	RB
+contested	
+,	
+as	RB CONJ
+well	RB
+as	PIN CONJ PREP
+the	ART DET
+claim	PUBV NN
+of	PIN PREP
+dysregulated	
+markets	NN
+was	PASS VBD AUXB
+discredited	
+.	
+Although	CONC PIN CAP SCONJ PREP
+died	VBD
+62	NUM
+years	NN
+before	PIN PREP
+the	ART DET
+breakdown	NN
+of	PIN PREP
+the	ART DET
+financial	JJ
+markets	NN
+,	
+Mr.	CAP NNP
+Keynes	CAP NNP
+has	VPRT PEAS
+showed	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+belief	NN
+in	PIN CONJ PREP
+automatic	JJ
+adjustment	NOMZ
+was	VBD AUXB
+nothing	INPR
+more	JJ EMPH CMADJ
+than	PIN PREP
+a	ART DET INDA
+faith	NN
+,	
+and	ANDC CCONJ
+that	PIN DEMO SCONJ PREP
+in	PIN CONJ PREP
+a	ART DET INDA
+context	NN
+of	PIN PREP
+crisis	NN
+the	ART DET
+intervention	NOMZ
+of	PIN PREP
+Government	CAP NNP
+was	BEMA VBD AUXB
+necessary	JJ PRED
+—	
+just	RB EMPH
+like	PIN PREP
+it	PIT PRP SBJP
+was	BEMA VBD AUXB
+in	PIN CONJ PREP
+2008	NUM
+.	
+Compared	PASTP CAP
+only	DWNT RB
+with	PIN PREP
+the	ART DET
+marginalist	NNP
+revolution	NOMZ
+—	
+which	SERE DET WH
+laid	VBD
+the	ART DET
+grounds	NN
+of	PIN PREP
+economic	JJ
+theory	NN
+—	
+and	ANDC CCONJ
+whilst	OSUB PIN SCONJ PREP
+controversial	JJ
+in	PIN CONJ PREP
+academy	NN
+,	
+the	ART DET
+keynesian	NNP
+revolution	NNP
+was	BEMA VBD AUXB
+a	ART DET INDA
+mark	NN
+in	PIN CONJ PREP
+the	ART DET
+XX	CAP NNP
+century	NN
+,	
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+has	VPRT PEAS
+showed	PRIV
+the	ART DET
+blindspots	NN
+of	PIN PREP
+neoclassical	JJ
+economics	NN
+:	
+these	DEMO DET
+autors	NN
+do	VPRT PROD
+n’t	NN
+considerate	NN
+uncertainty	NN
+,	
+the	ART DET
+liquidity	NOMZ
+preference	NN
+or	CCONJ
+the	ART DET
+possibility	NOMZ
+of	PIN PREP
+equilibrium	NN
+with	PIN PREP
+subemployment	NOMZ
+.	
+  	
+In	PIN CONJ CAP PREP
+first	JJ
+place	NN
+,	
+one	NUM
+great	JJ
+contribution	NOMZ
+of	PIN PREP
+Keynes	CAP NNP
+for	PIN PREP
+economic	JJ
+theory	NN
+was	BEMA VBD AUXB
+the	ART DET
+concept	NN
+of	PIN PREP
+uncertainty	NN
+.	
+Since	OSUB PIN CAP SCONJ PREP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+time	NN
+gap	NN
+between	PIN PREP
+the	ART DET
+decision	NOMZ
+of	PIN PREP
+production	NOMZ
+by	PIN PREP
+the	ART DET
+firm	NN
+and	CCONJ
+the	ART DET
+collocation	NOMZ
+of	PIN PREP
+the	ART DET
+product	NN
+in	PIN CONJ PREP
+the	ART DET
+market	NN
+,	
+the	ART DET
+process	NN
+of	PIN PREP
+production	NOMZ
+is	BEMA VPRT AUXB
+expectational	JJ PRED
+.	
+Therefore	RB CONJ CAP
+,	
+once	PIN TIME SCONJ PREP
+that	DEMO DET
+in	PIN CONJ PREP
+the	ART DET
+decision	NOMZ
+moment	NOMZ
+the	ART DET
+current	JJ
+information	NOMZ
+may	POMD SPAU
+not	XX0 RB
+be	BEMA AUXB INF
+sufficient	JJ PRED
+to	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+rational	JJ
+choice	NN
+,	
+uncertainty	NN
+envolves	VPRT
+production	NOMZ
+decisions	NOMZ
+of	PIN PREP
+the	ART DET
+agents	NN
+.	
+In	PIN CONJ CAP PREP
+face	NN
+of	PIN PREP
+long	JJ
+term	NN
+choices	NN
+,	
+like	PIN PREP
+a	ART DET INDA
+plan	NN
+of	PIN PREP
+investments	NOMZ
+for	PIN PREP
+10	NUM
+years	NN
+,	
+firms	NN
+can	POMD SPAU
+only	DWNT RB
+conjecture	PRIV INF
+about	PIN PREP
+the	ART DET
+comportament	NOMZ
+of	PIN PREP
+market	NN
+in	PIN CONJ PREP
+the	ART DET
+expected	PRIV
+date	NN
+(	
+CARVALHO	CAP NNP
+,	
+1992a	NUM
+:	
+177	NUM
+)	
+.	
+Neoclassical	JJ CAP
+theorists	NN
+assume	VPRT PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+risk	NN
+involved	WZPAST
+in	PIN CONJ PREP
+this	DEMO DET
+prospective	JJ
+plans	NN
+can	POMD
+be	PASS AUXB INF
+calculated	PRIV
+,	
+i.e.	CONJ X
+,	
+the	ART DET
+risk	NN
+is	BEMA VPRT AUXB
+probabilistic	JJ PRED
+,	
+while	OSUB PIN SCONJ PREP
+for	PIN PREP
+Keynes	CAP NNP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+not	XX0 RB
+possible	JJ
+to	PIN TO PREP
+get	INF
+an	ART DET INDA
+distribution	NOMZ
+of	PIN PREP
+probabilities	NN
+and	CCONJ
+the	ART DET
+subjective	JJ
+probability	NOMZ
+of	PIN PREP
+the	ART DET
+agent	NN
+does	VPRT SPAU
+not	XX0 RB
+equals	VPRT
+to	PIN PREP
+the	ART DET
+objective	JJ
+probability	NOMZ
+of	PIN PREP
+the	ART DET
+event	NN
+(	
+ANDRADE	CAP NNP
+,	
+2011	NUM
+:	
+177	NUM
+)	
+.	
+Economic	JJ CAP
+agents	NN
+just	RB EMPH
+do	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+the	ART DET
+sufficient	JJ
+information	NOMZ
+to	PIN TO PREP
+make	INF
+a	ART DET INDA
+mathematical	JJ
+calculus	NN
+.	
+  	
+Secondly	RB CAP
+,	
+due	PIN PREP
+to	PIN PREP
+uncertainty	NN
+,	
+people	NN
+consider	VPRT PRIV
+as	PIN CONJ PREP
+a	ART DET INDA
+rational	JJ
+choice	NN
+keep	INF
+their	TPP3 PRP SBJP
+wealth	NN
+in	PIN CONJ PREP
+money	NN
+or	CCONJ
+liquidity	NOMZ
+assets	NN
+,	
+like	PIN PREP
+bank	NN
+deposits	NN
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+future	NN
+is	BEMA VPRT AUXB
+uncertain	JJ PRED
+and	CCONJ
+agents	NN
+do	VPRT SPAU
+not	XX0 RB
+share	INF
+the	ART DET
+belief	NN
+that	PIN DEMO SCONJ PREP
+economy	NN
+will	PRMD
+grow	INF
+,	
+they	TPP3 PRP SBJP
+will	PRMD SPAU
+not	XX0 RB
+risk	INF
+their	TPP3 PRP SBJP
+income	NN
+,	
+and	ANDC CCONJ
+will	PRMD
+prefer	SUAV INF
+stay	INF
+“	
+liquid	NN
+”	
+:	
+while	OSUB PIN SCONJ PREP
+keeping	PGAS
+illiquid	JJ
+assets	NN
+,	
+like	PIN PREP
+machines	NN
+or	CCONJ
+land	NN
+,	
+can	POMD
+make	INF
+the	ART DET
+proprietary	JJ
+lose	NN
+with	PIN PREP
+the	ART DET
+depreciation	NOMZ
+,	
+money	NN
+has	VPRT
+the	ART DET
+propriety	NN
+to	PIN TO PREP
+maintain	PUBV INF
+their	TPP3 PRP SBJP
+value	NN
+(	
+in	PIN CONJ PREP
+scenario	NN
+of	PIN PREP
+low	JJ
+inflation	NOMZ
+)	
+and	ANDC CCONJ
+give	INF
+flexibility	NOMZ
+to	PIN PREP
+its	PIT PRP SBJP
+possessor	NN
+,	
+ 	
+which	WHQU DET WH
+can	POMD
+enjoy	INF
+good	JJ
+opportunities	NN
+(	
+like	UH
+buy	INF
+an	ART DET INDA
+asset	NN
+that	TSUB WHSUB WH
+will	PRMD
+appreciate	INF
+,	
+or	CCONJ
+engage	INF
+in	PIN CONJ PREP
+the	ART DET
+production	NOMZ
+of	PIN PREP
+a	ART DET INDA
+commodity	NOMZ
+that	TSUB WHSUB WH
+is	PASS VPRT AUXB
+believed	PRIV
+will	PRMD
+be	PASS SPAU AUXB INF
+highly	AMP RB
+demanded	SUAV
+)	
+.	
+Then	RB CAP
+,	
+if	COND PIN SCONJ PREP
+expectations	NOMZ
+are	BEMA VPRT AUXB
+pessimistic	JJ PRED
+,	
+the	ART DET
+flexibility	NOMZ
+and	PHC CCONJ
+safety	NN
+of	PIN PREP
+money	NN
+(	
+called	
+liquidity	NOMZ
+premium	NN
+)	
+will	PRMD
+be	BEMA AUXB INF
+higher	JJ PRED CMADJ
+than	PIN PREP
+the	ART DET
+yields	NN
+offered	WZPAST
+by	PIN PREP
+assets	NN
+like	PIN PREP
+investment	NOMZ
+goods	NN
+,	
+and	ANDC CCONJ
+the	ART DET
+choice	NN
+of	PIN PREP
+liquid	JJ
+portfolios	NN
+to	PIN TO PREP
+allocate	INF
+wealth	NN
+will	PRMD
+implicate	INF
+low	JJ
+investment	NOMZ
+,	
+low	JJ
+production	NOMZ
+,	
+low	JJ
+demand	SUAV NN
+of	PIN PREP
+jobs	NN
+and	CCONJ
+the	ART DET
+economy	NN
+,	
+consequently	RB CONJ
+,	
+will	PRMD
+contract	INF
+(	
+CARVALHO	CAP NNP
+,	
+1992b	NUM
+:	
+93	NUM
+)	
+.	
+Therefore	RB CONJ CAP
+,	
+although	CONC PIN SCONJ PREP
+orthodox	JJ
+economists	NN
+declare	VPRT PUBV
+that	PIN THVC SCONJ PREP
+saving	NN
+is	BEMA VPRT AUXB
+good	JJ PRED
+to	PIN PREP
+economy	NN
+,	
+Keynes	CAP NNP
+alleges	VPRT PUBV
+the	ART DET
+inverse	NN
+.	
+   	
+Finally	RB CAP
+,	
+Keynes	CAP NNP
+has	VPRT PEAS
+shown	PRIV
+that	PIN THVC SCONJ PREP
+insufficiency	NN
+of	PIN PREP
+demand	SUAV NN
+can	POMD
+keep	INF
+economy	NN
+below	RB PLACE
+of	PIN PREP
+its	PIT PRP SBJP
+potential	JJ
+product	NN
+and	CCONJ
+,	
+hence	RB CONJ
+,	
+people	NN
+willing	JJ
+to	PIN TO PREP
+work	INF
+will	PRMD SPAU
+not	XX0 RB
+find	PRIV INF
+jobs	NN
+.	
+Once	RB TIME CAP
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+portion	NOMZ
+of	PIN PREP
+income	NN
+that	TOBJ WHOBJ WH
+people	NN
+do	VPRT SPAU
+n’t	RB
+spend	INF
+and	CCONJ
+is	PASS VPRT AUXB
+kept	
+as	PIN CONJ PREP
+liquid	JJ
+assets	NN
+,	
+the	ART DET
+aggregate	JJ
+demand	SUAV NN THATD
+function	NOMZ
+has	VPRT
+an	ART DET INDA
+inclination	NOMZ
+lower	JJ CMADJ
+than	PIN PREP
+aggregate	JJ
+supply	NN
+function	NOMZ
+(	
+DAVIDSON	CAP NNP
+,	
+1999:58	NUM
+;	
+CHICK	NN CAP
+,	
+1983:79	NUM
+)	
+,	
+and	ANDC CCONJ
+is	PASS VPRT AUXB
+invalided	
+the	ART DET
+well	RB
+-	
+know	JJ PRIV
+Say	PUBV CAP NNP
+Law	CAP NNP
+—	
+the	ART DET
+process	NN
+of	PIN PREP
+production	NOMZ
+,	
+due	JJ
+the	ART DET
+various	JJ
+incomes	NN
+spend	VPRT
+(	
+wages	NN
+,	
+interest	NN
+rate	NN
+)	
+,	
+creates	VPRT
+its	PIT PRP SBJP
+own	JJ
+demand	SUAV NN
+.	
+Since	OSUB PIN CAP SCONJ PREP
+demand	SUAV NN
+does	VPRT SPAU
+not	XX0 RB
+equals	VPRT
+to	PIN TO PREP
+supply	INF
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+possible	JJ PRED
+that	PIN THAC SCONJ PREP
+some	QUAN DET
+production	NOMZ
+will	PRMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+performed	
+,	
+and	ANDC CCONJ
+then	RB
+involuntary	JJ
+unemployment	NOMZ
+will	PRMD
+arise	INF
+;	
+notwithstanding	PIN CONJ PREP
+neoclassics	NN
+supose	VPRT
+all	QUAN DET
+equilibrium	NN
+was	BEMA VBD AUXB
+with	PIN PREP
+full	JJ
+employment	NOMZ
+(	
+the	ART DET
+unemployment	NOMZ
+existing	WZPRES PGAS
+was	BEMA VBD AUXB
+only	DWNT RB
+voluntary	JJ
+or	CCONJ
+temporary	JJ
+)	
+,	
+Keynes	CAP NNP
+pointed	VBD
+that	DEMP WH
+was	BEMA VBD AUXB
+theoretically	RB
+feasible	JJ
+an	ART DET INDA
+equilibrium	NN
+with	PIN PREP
+employment	NOMZ
+bellow	VPRT
+the	ART DET
+maximus	NN
+.	
+  	
+The	ART CAP DET
+contributions	NOMZ
+of	PIN PREP
+Mr.	CAP NNP
+Keynes	CAP NNP
+to	PIN PREP
+economy	NN
+,	
+therefore	RB CONJ
+,	
+is	BEMA VPRT AUXB
+multidimensional	JJ PRED
+,	
+and	ANDC CCONJ
+still	RB
+today	TIME NN
+become	VPRT
+present	JJ
+.	
+The	ART CAP DET
+english	JJ
+economist	NN
+showed	VBD PRIV
+to	PIN PREP
+world	NN
+that	PIN TOBJ THVC SCONJ PREP
+various	JJ
+premisses	NN
+of	PIN PREP
+orthodox	JJ
+economics	NN
+were	BEMA VBD AUXB
+fragile	JJ PRED
+,	
+and	ANDC CCONJ
+attempted	VBD
+to	PIN TO PREP
+tract	INF
+theoretically	RB
+ 	
+the	ART DET
+real	JJ
+grounds	NN
+of	PIN PREP
+economic	JJ
+dynamics	NN
+:	
+the	ART DET
+future	NN
+is	BEMA VPRT AUXB
+uncertain	JJ PRED
+,	
+to	PIN TO PREP
+treasure	INF
+(	
+keep	INF
+wealth	NN
+in	PIN CONJ PREP
+money	NN
+)	
+is	BEMA VPRT AUXB
+a	ART DET INDA
+rational	JJ
+decision	NOMZ
+in	PIN CONJ PREP
+this	DEMO DET
+context	NN
+and	ANDC CCONJ
+therefore	RB CONJ
+the	ART DET
+level	NN
+of	PIN PREP
+output	NN
+can	POMD
+be	BEMA AUXB INF
+below	PIN PLACE PREP
+the	ART DET
+most	JJ EMPH SPADJ
+efficiency	NN
+,	
+opening	PGAS
+space	NN
+to	PIN PREP
+government	NOMZ
+intervention	NOMZ
+.	
+  	
+<	X
+Bibliographic	JJ CAP
+references	NN
+>	X

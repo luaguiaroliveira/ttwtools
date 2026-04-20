@@ -1,0 +1,1518 @@
+# filename: SS_Business_Essay_2_0200c_tx.txt
+token	tags
+MNC	CAP NNP
+=	NNP
+Multinational	CAP NNP
+Company	CAP NNP
+FDI	CAP NNP
+=	NNP
+Foreign	CAP NNP
+Direct	CAP NNP
+Investment	CAP NNP
+A	ART CAP DET INDA
+company	NN
+incurs	VPRT
+additional	JJ
+costs	NN
+when	RB WHOBJ SCONJ WH
+it	PIT PRP SBJP
+operates	VPRT
+across	PIN PLACE PREP
+national	JJ
+boundaries	NN
+(	
+e.g.	RB CONJ
+the	ART DET
+costs	NN
+of	PIN PREP
+complying	PGAS
+with	PIN PREP
+local	JJ
+regulation	NOMZ
+)	
+.	
+Hence	RB CONJ CAP
+,	
+there	EX
+must	NEMD
+be	BEMA AUXB INF
+some	QUAN DET
+offsetting	GER PGAS
+advantage	NN
+to	PIN PREP
+the	ART DET
+MNC	CAP NNP
+to	PIN TO PREP
+produce	INF
+abroad	RB PLACE
+to	PIN TO PREP
+overcome	INF
+these	DEMO DET
+costs	NN
+and	CCONJ
+also	RB
+to	PIN TO PREP
+have	INF
+some	QUAN DET
+advantage	NN
+over	PIN PREP
+competitors	NN
+already	RB
+operating	PGAS
+in	PIN CONJ PREP
+the	ART DET
+foreign	JJ
+economy	NN
+(	
+as	PIN CONJ PREP
+suggested	PUBV SUAV
+by	PIN PREP
+S.	CAP NNP
+Hymer	CAP NNP
+)	
+.	
+Dunning	CAP PGAS
+'s	
+'	CONT QUOT
+eclectic	JJ
+paradigm	NN
+'	CONT QUOT
+(	
+1988	NUM
+)	
+gives	VPRT
+us	FPP1 PRP SBJP ACCU
+the	ART DET
+O+L+I	JJ CAP
+framework	NN
+of	PIN PREP
+why	RB SCONJ WH
+MNCs	NN CAP
+might	POMD
+have	INF
+such	DET
+an	ART DET INDA
+advantage	NN
+.	
+Ownership	NN CAP
+-	
+specific	JJ
+Advantages	NN CAP
+(	
+O	CAP UH
+)	
+These	DEMO CAP DET
+firm	JJ
+-	
+specific	JJ
+advantages	NN
+address	VPRT
+the	ART DET
+why	RB SCONJ WH
+question	NOMZ
+:	
+why	RB SCONJ WH
+go	INF
+abroad	RB PLACE
+?	QUES
+The	ART CAP DET
+answer	NN
+should	NEMD
+be	BEMA AUXB INF
+because	CAUS PIN SCONJ PREP
+the	ART DET
+MNC	CAP NNP
+'s	
+core	NN
+competencies	NN
+allow	VPRT SUAV
+the	ART DET
+firm	NN
+to	PIN TO PREP
+overcome	INF
+the	ART DET
+foreign	JJ
+competition	NOMZ
+and	PHC CCONJ
+costs	NN
+of	PIN PREP
+operating	PGAS
+abroad	RB PLACE
+.	
+Such	JJ CAP
+advantages	NN
+could	POMD
+be	BEMA AUXB INF
+tangible	JJ
+assets	NN
+like	PIN PREP
+size	NN
+and	PHC CCONJ
+market	NN
+power	NN
+or	CCONJ
+intangible	JJ
+like	PIN PREP
+brand	NN
+names	NN
+and	PHC CCONJ
+knowledge	NN
+that	TSUB WHSUB WH
+can	POMD
+be	PASS AUXB INF
+spread	
+in	PIN CONJ PREP
+a	ART DET INDA
+non	JJ
+-	JJ
+rival	JJ
+way	NN
+across	PIN PLACE PREP
+many	QUAN JJ
+plants	NN
+.	
+Location	NOMZ CAP
+-	
+specific	JJ
+advantages	NN
+(	
+L	NN CAP
+)	
+Locate	CAP NNP
+where	RB SCONJ WH
+?	QUES
+Gaining	CAP PGAS
+access	NN
+to	PIN PREP
+a	ART DET INDA
+large	JJ
+market	NN
+is	BEMA VPRT AUXB
+likely	JJ PRED
+to	PIN TO PREP
+raise	INF
+the	ART DET
+potential	JJ
+profitability	NOMZ
+for	PIN PREP
+the	ART DET
+MNC	CAP NNP
+but	CCONJ
+will	PRMD SPAU
+also	RB
+do	PROD INF
+so	RB
+for	PIN PREP
+local	JJ
+firms	NN
+.	
+Local	JJ CAP
+production	NOMZ
+may	POMD
+incur	INF
+high	JJ
+costs	NN
+of	PIN PREP
+imported	
+inputs	NN
+and	PHC CCONJ
+diseconomies	NN
+of	PIN PREP
+scale	NN
+(	
+especially	RB
+communicating	GER PGAS
+and	PHC CCONJ
+coordinating	GER PGAS
+difficulties	NN
+)	
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS BYPA AUXB INF
+caused	
+by	PIN PREP
+cultural	JJ
+differences	NN
+.	
+These	DEMO CAP DET
+lead	NN
+to	PIN PREP
+higher	JJ CMADJ
+average	JJ
+unit	NN
+costs	NN
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+trade	NN
+costs	NN
+in	PIN CONJ PREP
+supplying	PGAS
+remote	JJ
+markets	NN
+will	PRMD
+be	PASS AUXB INF
+reduced	
+.	
+Many	QUAN JJ CAP
+other	JJ
+location	NOMZ
+-	
+specific	JJ
+advantages	NN
+include	VPRT
+:	
+political	JJ
+,	
+social	JJ
+and	PHC CCONJ
+economic	JJ
+stability	NOMZ
+,	
+culture	NN
+,	
+language	NN
+,	
+and	ANDC CCONJ
+infrastructure	NN
+of	PIN PREP
+the	ART DET
+host	NN
+country	NN
+.	
+Internalisation	NOMZ CAP
+Advantages	CAP NNP
+(	
+I	FPP1 NN CAP
+)	
+How	RB WHQU CAP SCONJ WH
+should	NEMD
+the	ART DET
+MNC	CAP NNP
+go	INF
+abroad	RB PLACE
+?	QUES
+If	COND PIN CAP SCONJ PREP
+a	ART DET INDA
+firm	NN
+decides	VPRT PRIV SUAV
+to	PIN TO PREP
+operate	INF
+abroad	RB PLACE
+,	
+it	PIT PRP SBJP
+can	POMD
+do	PROD INF
+this	DEMO DET
+in	PIN CONJ PREP
+a	ART DET INDA
+number	NN
+of	PIN PREP
+different	JJ
+ways	NN
+,	
+for	PIN PREP
+example	NN
+by	PIN PREP
+opening	PGAS
+a	ART DET INDA
+subsidiary	NN
+or	CCONJ
+by	PIN PREP
+licensing	PGAS
+to	PIN PREP
+local	JJ
+firms	NN
+in	PIN CONJ PREP
+foreign	JJ
+countries	NN
+.	
+Internalisation	NOMZ CAP
+is	BEMA VPRT AUXB
+when	RB SCONJ WH
+the	ART DET
+company	NN
+establishes	VPRT PRIV
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+to	PIN TO PREP
+preserve	INF
+its	PIT PRP SBJP
+ownership	NN
+advantages	NN
+and	CCONJ
+to	PIN TO PREP
+maintain	PUBV INF
+closer	JJ CMADJ
+control	NN
+over	PIN PREP
+the	ART DET
+company	NN
+'s	
+operations	NOMZ
+(	
+e.g.	RB CONJ
+knowledge	NN
+,	
+price	NN
+,	
+quality	NOMZ
+)	
+.	
+The	ART CAP DET
+internalisation	NOMZ
+decision	NOMZ
+that	TOBJ WHOBJ WH
+a	ART DET INDA
+MNC	CAP NNP
+faces	VPRT
+investigates	VPRT
+the	ART DET
+costs	NN
+and	PHC CCONJ
+benefits	NN
+of	PIN PREP
+retaining	PGAS
+activities	NN
+internal	JJ
+to	PIN PREP
+the	ART DET
+firm	NN
+rather	RB
+than	PIN PREP
+dealing	PGAS
+with	PIN PREP
+them	TPP3 PRP SBJP ACCU
+through	PIN PREP
+market	NN
+transactions	NOMZ
+.	
+Without	PIN CAP PREP
+the	ART DET
+incentive	NN
+to	PIN TO PREP
+reduce	INF
+these	DEMO DET
+transaction	NOMZ
+costs	NN
+between	PIN PREP
+markets	NN
+,	
+the	ART DET
+motivation	NOMZ
+to	PIN TO PREP
+engage	INF
+in	PIN CONJ PREP
+FDI	CAP NNP
+would	PRMD
+be	BEMA AUXB INF
+of	PIN PREP
+a	ART DET INDA
+lesser	JJ CMADJ
+amount	NN
+.	
+Given	PASTP CAP
+that	PIN DEMO SCONJ PREP
+markets	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+perfect	JJ
+(	
+i.e.	CONJ X
+with	PIN PREP
+no	SYNE DET
+entry	NN
+barriers	NN
+,	
+perfect	JJ
+knowledge	NN
+and	CCONJ
+homogeneous	JJ
+goods	NN
+)	
+the	ART DET
+market	NN
+imperfections	NOMZ
+that	TSUB WHSUB WH
+exist	VPRT
+create	INF
+uneven	JJ
+competition	NOMZ
+and	CCONJ
+uneven	JJ
+profits	NN
+,	
+which	SERE DET WH
+drive	VPRT
+MNCs	NN CAP
+to	PIN TO PREP
+internalise	INF
+its	PIT PRP SBJP
+market	NN
+transactions	NOMZ
+via	PIN PREP
+vertical	JJ
+(	
+controlling	GER PGAS
+supplies	NN
+or	CCONJ
+retailing	NN
+)	
+or	CCONJ
+horizontal	JJ
+integration	NOMZ
+(	
+expanding	PGAS
+at	PIN PREP
+the	ART DET
+same	JJ
+level	NN
+of	PIN PREP
+production	NOMZ
+)	
+.	
+The	ART CAP DET
+distinctiveness	NOMZ
+of	PIN PREP
+Dunning	CAP NNP
+'s	
+paradigm	NN
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+if	COND PIN SCONJ PREP
+the	ART DET
+O	CAP NNP
+and	PHC CCONJ
+L	CAP NNP
+advantages	NN
+exist	VPRT
+,	
+then	RB
+that	DEMO DET
+company	NN
+should	NEMD
+internalise	INF
+these	DEMO DET
+advantages	NN
+and	CCONJ
+set	INF
+up	PIN PREP
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+.	
+Weaknesses	NOMZ CAP
+of	PIN PREP
+the	ART DET
+Paradigm	CAP NNP
+The	ART CAP DET
+paradigm	NN
+is	BEMA VPRT AUXB
+simply	RB
+a	ART DET INDA
+list	NN
+of	PIN PREP
+variables	NN
+without	PIN PREP
+examples	NN
+or	CCONJ
+analysis	NN
+.	
+It	PIT CAP PRP SBJP
+has	VPRT
+no	SYNE DET
+predictive	JJ
+validity	NOMZ
+of	PIN PREP
+the	ART DET
+activities	NN
+that	TOBJ WHOBJ WH
+firms	NN
+may	POMD
+engage	INF
+in	PIN CONJ STPR PREP
+.	
+It	PIT CAP PRP SBJP
+assumes	VPRT PRIV
+that	PIN THVC SCONJ PREP
+MNCs	NN CAP
+are	PASS VPRT SPAU AUXB
+fully	AMP RB
+informed	
+,	
+rational	JJ
+decision	NOMZ
+makers	NN
+.	
+In	PIN CONJ CAP PREP
+reality	NOMZ
+politics	NN
+intrudes	VPRT
+within	PIN PREP
+the	ART DET
+firm	NN
+.	
+Internal	JJ CAP
+organisational	JJ
+difficulties	NN
+may	POMD
+lead	INF
+to	PIN PREP
+the	ART DET
+failure	NN
+of	PIN PREP
+a	ART DET INDA
+particular	JJ CONJ
+firm	NN
+to	PIN TO PREP
+open	INF
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+,	
+so	RB
+the	ART DET
+behaviour	NN
+of	PIN PREP
+individual	JJ
+firms	NN
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+addressed	
+.	
+In	PIN CONJ CAP PREP
+China	CAP NNP
+,	
+owning	PRESP PGAS
+the	ART DET
+rights	NN
+of	PIN PREP
+a	ART DET INDA
+process	NN
+or	CCONJ
+technology	NN
+would	PRMD SPAU
+not	XX0 RB
+give	INF
+a	ART DET INDA
+firm	NN
+an	ART DET INDA
+ownership	NN
+advantage	NN
+because	CAUS PIN SCONJ PREP
+the	ART DET
+Chinese	JJ CAP
+culture	NN
+does	VPRT SPAU
+not	XX0 RB
+give	INF
+much	QUAN JJ
+importance	NN
+to	PIN PREP
+patents	NN
+or	CCONJ
+copyrights	NN
+.	
+So	RB CAP
+the	ART DET
+environment	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+function	NOMZ
+of	PIN PREP
+ownership	NN
+advantages	NN
+,	
+which	SERE DET WH
+disqualifies	VPRT
+the	ART DET
+Paradigm	CAP NNP
+.	
+Why	RB WHQU CAP SCONJ WH
+do	VPRT
+MNCs	NN CAP
+Become	CAP INF
+Multinational	CAP NNP
+in	PIN CONJ PREP
+Scope	CAP NNP
+?	QUES
+Three	CAP NUM
+broad	JJ
+categories	NN
+explain	VPRT PUBV
+why	RB WHCL SCONJ WH
+:	
+Asset	NN CAP
+-	
+oriented	
+Production	CAP NNP
+MNCs	NN CAP
+seek	VPRT
+resources	NN
+that	TSUB WHSUB WH
+are	VPRT AUXB
+either	CCONJ
+not	XX0 RB
+available	JJ
+(	
+e.g.	RB CONJ
+flowers	NN
+)	
+,	
+of	PIN PREP
+low	JJ
+quality	NOMZ
+(	
+e.g.	RB CONJ
+R&D	CAP NNP
+)	
+or	CCONJ
+expensive	JJ
+(	
+e.g.	RB CONJ
+labour	NN
+)	
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+home	NN
+countries	NN
+.	
+Production	NOMZ CAP
+must	NEMD
+locate	INF
+where	RB SCONJ WH
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+high	JJ
+resource	NN
+quantity	NOMZ
+and	PHC CCONJ
+quality	NOMZ
+,	
+and	ANDC CCONJ
+where	RB WHQU SCONJ WH
+it	PIT PRP SBJP
+can	POMD
+be	PASS SPAU AUXB INF
+easily	RB
+accessed	
+at	PIN PREP
+a	ART DET INDA
+low	JJ
+-	
+cost	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+Shell	CAP NNP
+set	VBD
+up	PIN PREP
+a	ART DET INDA
+subsidiary	NN
+in	PIN CONJ PREP
+Nigeria	CAP NNP
+in	PIN CONJ PREP
+search	NN
+for	PIN PREP
+their	TPP3 PRP SBJP
+large	JJ
+oil	NN
+reserves	NN
+in	PIN CONJ PREP
+the	ART DET
+1960s	NN
+.	
+Even	RB CAP
+though	CONC PIN SCONJ PREP
+Saudi	CAP NNP
+Arabia	CAP NNP
+has	VPRT
+larger	JJ CMADJ
+oil	NN
+reserves	NN
+,	
+they	TPP3 PRP SBJP
+were	BEMA VBD AUXB
+apt	JJ PRED
+to	PIN TO PREP
+limit	INF
+oil	NN
+supplies	NN
+while	OSUB PIN SCONJ PREP
+Nigeria	CAP NNP
+was	BEMA VBD AUXB
+eager	JJ PRED
+to	PIN TO PREP
+offer	INF
+low	JJ
+-	
+cost	NN
+petroleum	NN
+extraction	NOMZ
+.	
+Hence	RB CONJ CAP
+,	
+political	JJ
+influences	NN
+(	
+as	PIN CONJ PREP
+given	
+under	PIN PREP
+Dunning	CAP NNP
+'s	
+L	NN CAP
+advantages	NN
+)	
+merge	VPRT
+with	PIN PREP
+other	JJ
+factors	NN
+before	PIN PREP
+a	ART DET INDA
+decision	NOMZ
+is	PASS VPRT AUXB
+made	
+.	
+Another	CAP DET
+motivation	NOMZ
+could	POMD
+be	PASS AUXB INF
+based	
+purely	RB
+on	PIN PREP
+cost	NN
+cutting	NN
+grounds	NN
+,	
+like	PIN PREP
+Hugo	CAP NNP
+Boss	CAP NNP
+manufacturing	GER
+in	PIN CONJ PREP
+Kiev	CAP NNP
+where	RB SCONJ WH
+labour	NN
+costs	NN
+are	VPRT AUXB
+$	
+50	NUM
+/	
+month	NN
+compared	WZPAST
+to	PIN PREP
+$	
+1,000	NUM
+/	
+month	NN
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+home	NN
+country	NN
+,	
+Germany	CAP NNP
+.	
+Labour	JJ CAP
+wages	NN
+are	BEMA VPRT AUXB
+an	ART DET INDA
+important	JJ
+L	NN CAP
+advantage	NN
+,	
+especially	RB
+in	PIN CONJ PREP
+labour	JJ
+-	
+intensive	JJ
+industries	NN
+such	JJ
+as	PIN CONJ PREP
+the	ART DET
+clothing	NN
+industry	NN
+where	RB WHOBJ SCONJ WH
+labour	NN
+costs	NN
+are	BEMA VPRT AUXB
+on	PIN PREP
+average	JJ
+33	NUM
+%	NN
+of	PIN PREP
+total	JJ
+costs	NN
+.	
+Labour	JJ CAP
+wages	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+the	ART DET
+only	JJ DWNT
+element	NOMZ
+of	PIN PREP
+labour	NN
+that	TSUB WHSUB WH
+varies	VPRT
+across	PIN PLACE PREP
+the	ART DET
+globe	NN
+.	
+MNCs	NN CAP
+may	POMD
+open	INF
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+to	PIN TO PREP
+gain	INF
+the	ART DET
+benefits	NN
+and	PHC CCONJ
+cost	NN
+savings	NN
+of	PIN PREP
+possessing	GER PGAS
+either	CCONJ
+high	JJ
+labour	NN
+productivity	NOMZ
+,	
+highly	AMP RB
+malleable	JJ
+labour	NN
+(	
+in	PIN CONJ PREP
+terms	NN
+of	PIN PREP
+trade	NN
+unions	NN
+)	
+or	CCONJ
+high	JJ
+labour	JJ
+knowledge	NN
+and	PHC CCONJ
+skills	NN
+.	
+Since	OSUB PIN CAP SCONJ PREP
+labour	NN
+is	VPRT AUXB
+such	DET
+an	ART DET INDA
+immobile	JJ
+resource	NN
+there	EX
+is	VPRT AUXB
+a	ART DET INDA
+strong	JJ
+basis	NN
+for	PIN PREP
+an	ART DET INDA
+MNC	CAP NNP
+to	PIN TO PREP
+do	PROD INF
+this	DEMP DET
+.	
+Market	NN CAP
+-	
+oriented	
+Production	NOMZ CAP
+A	ART CAP DET INDA
+central	JJ
+element	NOMZ
+to	PIN PREP
+the	ART DET
+market	NN
+seekers	NN
+'	CONT QUOT
+decision	NOMZ
+to	PIN TO PREP
+open	INF
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+is	BEMA VPRT AUXB
+the	ART DET
+market	NN
+'s	
+growth	NN
+rate	NN
+and	PHC CCONJ
+size	NN
+,	
+in	PIN CONJ PREP
+terms	NN
+of	PIN PREP
+GNP	CAP NNP
+or	CCONJ
+population	NOMZ
+.	
+The	ART CAP DET
+size	NN
+of	PIN PREP
+the	ART DET
+foreign	JJ
+market	NN
+may	POMD
+justify	INF
+local	JJ
+production	NOMZ
+,	
+while	OSUB PIN SCONJ PREP
+momentous	JJ
+deviations	NOMZ
+in	PIN CONJ PREP
+GNP	CAP NNP
+across	PIN PLACE PREP
+the	ART DET
+globe	NN
+effects	NN
+demand	SUAV NN
+structure	NN
+,	
+as	PIN CONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+types	NN
+and	PHC CCONJ
+quantities	NN
+of	PIN PREP
+goods	NN
+bought	
+.	
+An	ART CAP DET INDA
+MNC	CAP NNP
+'s	
+market	NN
+development	NOMZ
+strategy	NN
+could	POMD
+entail	INF
+horizontal	JJ
+integration	NOMZ
+to	PIN TO PREP
+gain	INF
+access	NN
+to	PIN PREP
+markets	NN
+abroad	RB PLACE
+and/	NNP
+or	CCONJ
+to	PIN TO PREP
+serve	INF
+adjacent	JJ
+countries	NN
+,	
+particularly	RB
+when	RB SCONJ WH
+the	ART DET
+MNC	CAP NNP
+'s	
+home	NN
+market	NN
+is	PASS VPRT AUXB
+saturated	
+.	
+For	PIN CAP PREP
+example	NN
+,	
+Gerber	CAP NNP
+opened	VBD
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+in	PIN CONJ PREP
+Poland	CAP NNP
+as	PIN CONJ PREP
+a	ART DET INDA
+response	NN
+to	PIN PREP
+flattening	GER PGAS
+birth	NN
+rates	NN
+in	PIN CONJ PREP
+the	ART DET
+US	FPP1 CAP NNP
+.	
+This	DEMO CAP DET
+strategy	NN
+was	BEMA VBD AUXB
+also	RB
+a	ART DET INDA
+response	NN
+to	PIN PREP
+the	ART DET
+opening	NN
+of	PIN PREP
+Eastern	CAP NNP
+Europe	CAP NNP
+.	
+As	RB CONJ CAP
+well	RB
+as	PIN CONJ PREP
+market	NN
+structure	NN
+,	
+one	NUM
+of	PIN PREP
+the	ART DET
+most	RB EMPH SPADJ
+important	JJ
+reasons	PRIV NN
+is	BEMA VPRT AUXB
+the	ART DET
+home	NN
+and	PHC CCONJ
+host	NN
+governments	NOMZ
+'	CONT QUOT
+approach	NN
+to	PIN PREP
+FDI	CAP NNP
+.	
+By	PIN CAP PREP
+imposing	PGAS
+import	NN
+controls	NN
+,	
+eliminating	GER PGAS
+barriers	NN
+to	PIN PREP
+entry	NN
+,	
+etc	X
+the	ART DET
+host	NN
+country	NN
+attracts	VPRT
+FDI	CAP NNP
+.	
+Strategic	CAP NNP
+Advantages	CAP NNP
+The	ART CAP DET
+following	PGAS
+examples	NN
+demonstrate	VPRT PRIV
+how	RB WHCL SCONJ WH
+an	ART DET INDA
+MNC	CAP NNP
+can	POMD
+benefit	INF
+from	PIN PREP
+the	ART DET
+common	JJ
+governance	NN
+of	PIN PREP
+global	JJ
+activities	NN
+.	
+These	DEMO CAP DET
+motivations	NOMZ
+are	BEMA VPRT AUXB
+mainly	RB
+appropriate	JJ
+for	PIN PREP
+large	JJ
+and	PHC CCONJ
+diversified	JJ
+MNCs	NN CAP
+.	
+For	PIN CAP PREP
+rapid	JJ
+,	
+inorganic	JJ
+growth	NN
+by	PIN PREP
+acquisition	NOMZ
+.	
+This	DEMP CAP DET
+gains	VPRT
+immediate	JJ
+economies	NN
+of	PIN PREP
+scale	NN
+such	JJ
+as	PIN CONJ PREP
+bulk	NN
+-	
+buying	NN
+,	
+finance	NN
+,	
+marketing	NN
+,	
+risk	NN
+and	PHC CCONJ
+specialisation	NOMZ
+economies	NN
+,	
+which	SERE DET WH
+reduces	VPRT
+average	JJ
+production	NOMZ
+costs	NN
+.	
+A	ART CAP DET INDA
+risk	NN
+diversification	NOMZ
+strategy	NN
+to	PIN TO PREP
+minimise	INF
+the	ART DET
+risk	NN
+of	PIN PREP
+relying	PGAS
+on	PIN PREP
+one	NUM
+or	CCONJ
+few	QUAN JJ
+locations	NOMZ
+.	
+To	PIN TO CAP PREP
+access	INF
+and	PHC CCONJ
+combine	INF
+knowledge	NN
+.	
+For	PIN CAP PREP
+example	NN
+,	
+a	ART DET INDA
+MNC	CAP NNP
+owning	WZPRES PGAS
+an	ART DET INDA
+exclusive	JJ
+technology	NN
+may	POMD
+fear	PRIV INF
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+licensing	NN
+contract	NN
+could	POMD
+lead	INF
+to	PIN PREP
+a	ART DET INDA
+dissipation	NOMZ
+of	PIN PREP
+its	PIT PRP SBJP
+proprietary	JJ
+knowledge	NN
+and	ANDC CCONJ
+therefore	RB CONJ
+internalise	RB
+and	CCONJ
+set	VBD
+up	PIN PREP
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+,	
+because	CAUS PIN SCONJ PREP
+the	ART DET
+alternative	JJ
+options	NOMZ
+,	
+although	CONC PIN SCONJ PREP
+cheaper	JJ CMADJ
+,	
+are	BEMA VPRT AUXB
+unviable	JJ PRED
+.	
+Such	JJ CAP
+as	PIN CONJ PREP
+Nokia	CAP NNP
+owning	WZPRES PGAS
+R&D	NN CAP
+subsidiaries	NN
+across	PIN PLACE PREP
+the	ART DET
+globe	NN
+.	
+To	PIN TO CAP PREP
+escape	INF
+or	CCONJ
+exploit	INF
+geographical	JJ
+differences	NN
+in	PIN CONJ PREP
+legislation	NOMZ
+,	
+political	JJ
+conditions	NOMZ
+and	CCONJ
+economic	JJ
+policies	NN
+,	
+such	JJ
+as	PIN CONJ PREP
+funding	NN
+and	PHC CCONJ
+tax	NN
+subsidies	NN
+by	PIN PREP
+host	NN
+countries	NN
+,	
+trade	NN
+barriers	NN
+and	PHC CCONJ
+quota	NN
+export	NN
+restrictions	NOMZ
+in	PIN CONJ PREP
+home	NN
+countries	NN
+and	CCONJ
+unstable	JJ
+political	JJ
+elections	NOMZ
+.	
+For	PIN CAP PREP
+example	NN
+,	
+some	QUAN DET
+Japanese	JJ CAP
+firms	NN
+produce	VPRT
+in	PIN CONJ PREP
+Asia	CAP NNP
+to	PIN TO PREP
+overcome	INF
+the	ART DET
+import	NN
+quotas	NN
+on	PIN PREP
+Japanese	JJ CAP
+produced	
+goods	NN
+levied	WZPAST
+by	PIN PREP
+EC	CAP NNP
+countries	NN
+.	
+Furthermore	RB CONJ CAP
+,	
+Sheraton	CAP NNP
+Hotels	CAP NNP
+closed	VBD
+their	TPP3 PRP SBJP
+Vietnamese	JJ CAP
+operations	NOMZ
+due	PIN PREP
+to	PIN PREP
+an	ART DET INDA
+overdose	NN
+of	PIN PREP
+red	JJ
+tape	NN
+.	
+The	ART CAP DET
+three	NUM
+categories	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+sharp	JJ
+;	
+they	TPP3 PRP SBJP
+overlap	VPRT
+.	
+A	ART CAP DET INDA
+balance	NN
+must	NEMD
+be	PASS AUXB INF
+made	
+between	PIN PREP
+market	NN
+proximity	NOMZ
+and	PHC CCONJ
+production	NOMZ
+costs	NN
+.	
+The	ART CAP DET
+size	NN
+,	
+experience	NN
+and	PHC CCONJ
+industry	NN
+of	PIN PREP
+the	ART DET
+MNC	CAP NNP
+affects	VPRT
+the	ART DET
+strategy	NN
+it	PIT PRP SBJP
+uses	VPRT
+.	
+Conclusion	CAP NNP
+FDI	CAP NNP
+can	POMD
+be	PASS AUXB INF
+seen	PRIV
+under	PIN PREP
+many	QUAN JJ
+lights	NN
+,	
+one	NUM
+being	BEMA AUXB
+as	PIN CONJ PREP
+the	ART DET
+result	NN
+of	PIN PREP
+governments	NOMZ
+who	WHSUB WH
+use	VPRT
+MNCs	NN CAP
+as	PIN CONJ PREP
+strategic	JJ
+instruments	NOMZ
+.	
+Evidence	NN CAP
+of	PIN PREP
+this	DEMP DET
+can	POMD
+be	PASS AUXB INF
+found	PRIV
+during	PIN PREP
+the	ART DET
+1990s	NN
+when	RB WHOBJ SCONJ WH
+the	ART DET
+Eastern	JJ CAP
+European	JJ CAP
+governments	NOMZ
+attracted	VBD
+FDI	CAP NNP
+by	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+MNCs	NN CAP
+while	OSUB PIN SCONJ PREP
+the	ART DET
+liberalisation	NOMZ
+of	PIN PREP
+markets	NN
+and	PHC CCONJ
+privatisation	NOMZ
+broke	VBD
+down	PIN PREP
+communism	NN
+.	
+In	PIN CONJ CAP PREP
+general	JJ
+however	RB CONJ
+,	
+MNC	CAP NNP
+subsidiary	NN
+motivations	NOMZ
+can	POMD
+be	PASS AUXB INF
+seen	PRIV
+as	PIN CONJ PREP
+capitalist	JJ
+movements	NOMZ
+due	PIN PREP
+to	PIN PREP
+market	NN
+imperfections	NOMZ
+.	
+The	ART CAP DET
+drive	NN
+is	BEMA VPRT AUXB
+increasingly	RB
+for	PIN PREP
+global	JJ
+profits	NN
+as	PIN CONJ PREP
+MNCs	NN CAP
+are	BEMA VPRT AUXB
+in	PIN CONJ PREP
+search	NN
+of	PIN PREP
+more	JJ EMPH CMADJ
+revenue	NN
+(	
+the	ART DET
+market	NN
+seekers	NN
+)	
+and	ANDC CCONJ
+lower	JJ CMADJ
+costs	NN
+(	
+the	ART DET
+resource	NN
+seekers	NN
+)	
+.	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+differences	NN
+among	PIN PREP
+MNCs	NN CAP
+'	CONT QUOT
+characteristics	NN
+and	CCONJ
+dynamic	JJ
+environmental	JJ
+conditions	NOMZ
+mirror	VPRT
+the	ART DET
+variety	NN
+of	PIN PREP
+different	JJ
+reasons	PRIV NN
+why	RB WHOBJ WHCL SCONJ WH
+firms	NN
+set	VBD
+up	PIN PREP
+foreign	JJ
+subsidiaries	NN
+.	
+Nevertheless	RB CONJ CAP
+,	
+a	ART DET INDA
+strong	JJ
+ability	NOMZ
+and	PHC CCONJ
+desire	SUAV NN
+of	PIN PREP
+an	ART DET INDA
+MNC	CAP NNP
+to	PIN TO PREP
+internalise	INF
+its	PIT PRP SBJP
+possessed	
+O	NN CAP
+and	CCONJ
+L	CAP NNP
+advantages	NN
+,	
+matched	PASTP
+with	PIN PREP
+market	NN
+imperfections	NOMZ
+and	CCONJ
+high	JJ
+uncertainty	NN
+,	
+creates	VPRT
+a	ART DET INDA
+complete	JJ
+atmosphere	NN
+for	PIN PREP
+an	ART DET INDA
+MNC	CAP NNP
+to	PIN TO PREP
+set	INF
+up	PIN PREP
+a	ART DET INDA
+foreign	JJ
+subsidiary	NN
+.	

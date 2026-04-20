@@ -28,7 +28,7 @@ import sys
 OUTPUT_DIR = 'out_exemplo3'
 
 # Pasta onde estão os corpora de teste usados nos exemplos.
-TEST_CORPORA_DIR = Path('examples/test_corpora')
+TEST_CORPORA_DIR = Path('test_corpora')
 
 # Corpora a processar (nomes das pastas dentro de TEST_CORPORA_DIR).
 CORPUS1 = 'CorIFAessaysNE_100'

@@ -1,0 +1,636 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2094.1184.txt
+token	tags
+    	
+The	ART CAP DET
+economic	JJ
+and	PHC CCONJ
+social	JJ
+development	NOMZ
+based	WZPAST
+on	PIN PREP
+sustainability	NOMZ
+is	BEMA VPRT AUXB
+essential	JJ PRED
+to	PIN TO PREP
+assure	INF
+the	ART DET
+environmental	JJ
+preservation	NOMZ
+and	CCONJ
+,	
+consequently	RB CONJ
+,	
+to	PIN TO PREP
+guarantee	PUBV INF
+that	PIN THVC SCONJ PREP
+the	ART DET
+future	JJ
+generations	NOMZ
+could	POMD
+have	INF
+access	NN
+to	PIN PREP
+water	NN
+,	
+food	NN
+and	PHC CCONJ
+energy	NN
+.	
+One	CAP NUM
+important	JJ
+way	NN
+to	PIN TO PREP
+do	PROD INF
+this	DEMP DET
+is	VPRT AUXB
+replace	INF
+the	ART DET
+non	JJ
+-	JJ
+renewable	JJ
+sources	NN
+,	
+as	PIN CONJ PREP
+fossil	NN
+sources	NN
+,	
+by	PIN PREP
+renewable	JJ
+sources	NN
+,	
+as	PIN CONJ PREP
+the	ART DET
+biomass	NN
+.	
+The	ART CAP DET
+set	NN
+of	PIN PREP
+production	NOMZ
+process	NN
+that	TSUB WHSUB WH
+convert	VPRT
+biomass	NN
+into	PIN PREP
+products	NN
+with	PIN PREP
+great	JJ
+industrial	JJ
+interest	NN
+is	PASS VPRT AUXB
+called	
+“	
+biorrefinery	NN
+”	
+.	
+A	EMPH ART CAP DET INDA
+lot	NN
+of	PIN PREP
+researches	NN
+have	VPRT PEAS
+been	PASS AUXB
+made	
+to	PIN TO PREP
+develop	INF
+technology	NN
+and	PHC CCONJ
+knowhow	NN
+to	PIN TO PREP
+make	INF
+viable	JJ
+the	ART DET
+biomass	NN
+conversion	NOMZ
+process	NN
+(	
+BAUER	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2017	NUM
+;	
+NITZSCHE	CAP NNP
+;	
+BUDZINSKI	CAP NNP
+;	
+GRÖNGRÖFT	CAP NNP
+,	
+2016	NUM
+)	
+.	
+One	CAP NUM
+important	JJ
+factor	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+studied	
+and	PHC CCONJ
+analyzed	
+is	BEMA VPRT AUXB
+the	ART DET
+raw	JJ
+material	NN
+,	
+which	SERE WHQU DET WH
+should	NEMD
+have	INF
+high	JJ
+productivity	NOMZ
+and	CCONJ
+low	JJ
+cost	NN
+,	
+characteristics	NN
+from	PIN PREP
+Macauba	CAP NNP
+palm	NN
+.	
+In	PIN CONJ CAP PREP
+this	DEMO DET
+essay	NN
+,	
+will	PRMD
+be	PASS AUXB INF
+discussed	
+and	PHC CCONJ
+defended	VBD
+the	ART DET
+use	NN
+of	PIN PREP
+Macauba	CAP NNP
+fruit	NN
+to	PIN TO PREP
+provide	INF
+different	JJ
+biomass	NN
+types	NN
+to	PIN TO PREP
+produce	INF
+bio	NN
+products	NN
+of	PIN PREP
+great	JJ
+industrial	JJ
+interest	NN
+in	PIN CONJ PREP
+biorefineries	NN
+.	
+ 	
+Macauba	CAP NNP
+(	
+Acrocomia	CAP NNP
+aculeata	NN
+)	
+is	BEMA VPRT AUXB
+a	ART DET INDA
+perennial	JJ
+palm	NN
+,	
+native	JJ
+from	PIN PREP
+tropical	JJ
+regions	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	PASS VPRT AUXB
+found	PRIV
+at	PIN PREP
+several	QUAN JJ
+American	JJ CAP
+countries	NN
+.	
+It	PIT CAP PRP SBJP
+presents	VPRT
+high	JJ
+adaptive	NN
+capacity	NOMZ
+to	PIN PREP
+different	JJ
+ecosystems	NN
+and	CCONJ
+to	PIN PREP
+soils	NN
+and	CCONJ
+high	JJ
+resistance	NN
+to	PIN PREP
+dry	JJ
+periods	NN
+,	
+plagues	NN
+and	PHC CCONJ
+diseases	NN
+,	
+this	DEMO DET
+way	NN
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+major	JJ
+palm	NN
+dispersed	WZPAST
+in	PIN CONJ PREP
+Brazil	CAP NNP
+.	
+The	ART CAP DET
+Macauba	CAP NNP
+palm	NN
+can	POMD
+be	PASS AUXB INF
+cultivated	
+in	PIN CONJ PREP
+consorted	
+plantations	NOMZ
+with	PIN PREP
+farming	NN
+and	CCONJ
+other	JJ
+types	NN
+of	PIN PREP
+crops	NN
+.	
+Besides	PIN CAP SCONJ PREP
+that	DEMP DET
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+an	ART DET INDA
+alternative	NN
+to	PIN PREP
+reforesting	GER PGAS
+degraded	JJ
+areas	NN
+,	
+since	OSUB PIN SCONJ PREP
+it	PIT PRP SBJP
+presents	VPRT
+the	ART DET
+capacity	NOMZ
+to	PIN TO PREP
+improve	INF
+the	ART DET
+quality	NOMZ
+of	PIN PREP
+soils	NN
+and	CCONJ
+to	PIN TO PREP
+decrease	INF
+the	ART DET
+occurrence	NN
+of	PIN PREP
+plagues	NN
+and	PHC CCONJ
+diseases	NN
+(	
+CARDOSO	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2017	NUM
+;	
+CeSAR	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2015	NUM
+)	
+.	
+These	DEMO CAP DET
+characteristics	NN
+contribute	VPRT
+to	PIN TO PREP
+increase	INF
+the	ART DET
+economic	JJ
+and	PHC CCONJ
+environmental	JJ
+sustainability	NOMZ
+related	WZPAST
+to	PIN PREP
+its	PIT PRP SBJP
+cultivation	NOMZ
+and	PHC CCONJ
+utilization	NOMZ
+,	
+fact	NN
+that	TSUB DET
+makes	VPRT
+the	ART DET
+Macauba	CAP NNP
+palm	NN
+being	BEMA WZPRES AUXB
+a	ART DET INDA
+potential	JJ
+source	NN
+of	PIN PREP
+biomass	NN
+to	PIN PREP
+biorrefineries	NN
+.	
+ 	
+Another	CAP DET
+essential	JJ
+characteristic	NN
+that	PIN TOBJ SCONJ PREP
+a	ART DET INDA
+source	NN
+of	PIN PREP
+raw	JJ
+material	NN
+of	PIN PREP
+bio	NNP
+products	NN
+should	NEMD
+present	INF
+is	BEMA VPRT AUXB
+high	JJ
+productivity	NOMZ
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+estimated	PRIV
+that	PIN THVC SCONJ PREP
+the	ART DET
+Macauba	CAP NNP
+palm	NN
+can	POMD
+produce	INF
+around	PIN PLACE PREP
+40.000	NUM
+kg	NN
+of	PIN PREP
+fruits	NN
+per	PIN PREP
+hectare	NN
+per	PIN PREP
+year	NN
+,	
+which	SERE WHQU DET WH
+is	BEMA VPRT AUXB
+equivalent	JJ PRED
+to	PIN PREP
+6000	NUM
+kg	NNP
+/	
+ha	UH
+of	PIN PREP
+oil	NN
+(	
+CeSAR	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+,	
+2015	NUM
+)	
+.	
+This	DEMO CAP DET
+value	NN
+is	VPRT AUXB
+almost	DWNT RB
+10	NUM
+times	NN
+bigger	JJ CMADJ
+than	PIN PREP
+the	ART DET
+production	NOMZ
+of	PIN PREP
+soy	NN
+oil	NN
+,	
+which	SERE WHQU DET WH
+is	VPRT AUXB
+one	NUM
+of	PIN PREP
+the	ART DET
+major	JJ
+crops	NN
+cultivated	WZPAST
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+(	
+ROSCOE	CAP NNP
+,	
+2007	NUM
+)	
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+it	PIT PRP SBJP
+has	VPRT PEAS
+been	PASS AUXB
+reported	PUBV
+that	PIN THVC SCONJ PREP
+all	QUAN DET
+parts	NN
+of	PIN PREP
+Macauba	CAP NNP
+fruits	NN
+could	POMD
+generate	INF
+products	NN
+of	PIN PREP
+industrial	JJ
+interest	NN
+,	
+as	PIN CONJ PREP
+shown	PRIV
+in	PIN CONJ PREP
+the	ART DET
+scheme	NN
+from	PIN PREP
+Figure	CAP NNP
+1	NUM
+.	
+For	PIN CAP PREP
+example	NN
+,	
+SILVA	CAP NNP
+et	NNP
+al	NNP
+.	
+(	
+2016	NUM
+)	
+evaluated	VBD
+the	ART DET
+deoxygenation	NOMZ
+of	PIN PREP
+Macauba	CAP NNP
+pulp	NN
+oil	NN
+to	PIN TO PREP
+produce	INF
+drop	NN
+-	
+in	PIN CONJ PREP
+biofuels	NN
+as	PIN CONJ PREP
+green	JJ
+diesel	NN
+and	PHC CCONJ
+aviation	NOMZ
+biokerosene	NN
+.	
+MOURA	CAP NNP
+et	NNP
+al	NNP
+.	
+(	
+2018	NUM
+)	
+produced	VBD
+activated	
+carbon	NN
+from	PIN PREP
+endocarp	NN
+of	PIN PREP
+Macauba	CAP NNP
+fruit	NN
+and	CCONJ
+evaluated	VBD
+its	PIT PRP SBJP
+use	NN
+as	PIN CONJ PREP
+adsorbent	NN
+to	PIN TO PREP
+remove	INF
+emergent	JJ
+contaminants	NN
+.	
+Thus	RB CONJ CAP
+,	
+as	PIN CONJ PREP
+a	ART DET INDA
+result	NN
+of	PIN PREP
+the	ART DET
+high	JJ
+productivity	NOMZ
+and	CCONJ
+integral	JJ
+utilization	NOMZ
+,	
+the	ART DET
+Macauba	CAP NNP
+presents	VPRT
+potential	JJ
+to	PIN TO PREP
+be	BEMA AUXB INF
+economic	JJ PRED
+and	PHC CCONJ
+environmental	JJ PRED
+viable	JJ
+source	NN
+of	PIN PREP
+raw	JJ
+material	NN
+to	PIN TO PREP
+produce	INF
+several	QUAN JJ
+products	NN
+with	PIN PREP
+commercial	JJ
+interest	NN
+.	
+    	
+To	PIN TO CAP PREP
+summarize	INF
+,	
+the	ART DET
+Macauba	CAP NNP
+Palm	CAP NNP
+presents	NN
+characteristics	NN
+that	TSUB WHSUB WH
+contribute	VPRT
+to	PIN TO PREP
+improve	INF
+the	ART DET
+economic	JJ
+and	PHC CCONJ
+environmental	JJ
+sustainability	NOMZ
+of	PIN PREP
+its	PIT PRP SBJP
+crop	NN
+and	PHC CCONJ
+utilization	NOMZ
+,	
+like	PIN PREP
+its	PIT PRP SBJP
+capacity	NOMZ
+of	PIN PREP
+adaptation	NOMZ
+and	CCONJ
+of	PIN PREP
+improve	INF
+quality	NOMZ
+of	PIN PREP
+degraded	JJ
+areas	NN
+,	
+high	JJ
+resistance	NN
+and	CCONJ
+high	JJ
+productivity	NOMZ
+.	
+In	PIN CONJ CAP PREP
+addition	NOMZ
+,	
+the	ART DET
+integral	JJ
+use	NN
+of	PIN PREP
+Macauba	CAP NNP
+fruit	NN
+is	BEMA VPRT AUXB
+an	ART DET INDA
+indispensable	JJ
+characteristic	NN
+for	PIN PREP
+raw	JJ
+material	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+used	
+in	PIN CONJ PREP
+a	ART DET INDA
+biorrefinery	NN
+.	
+For	PIN CAP PREP
+these	DEMO DET
+reasons	PRIV NN
+,	
+it	PIT PRP SBJP
+can	POMD
+be	PASS AUXB INF
+concluded	PRIV
+that	PIN THVC SCONJ PREP
+Macauba	CAP NNP
+fruit	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+great	JJ
+source	NN
+of	PIN PREP
+different	JJ
+types	NN
+of	PIN PREP
+biomass	NN
+to	PIN TO PREP
+be	PASS AUXB INF
+converted	
+into	PIN PREP
+bio	NN
+products	NN
+by	PIN PREP
+biorrefine	NNP
+processes	NN
+.	
+  	

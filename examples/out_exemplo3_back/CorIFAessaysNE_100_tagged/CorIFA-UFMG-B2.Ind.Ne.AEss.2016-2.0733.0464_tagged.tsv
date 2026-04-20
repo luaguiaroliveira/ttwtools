@@ -1,0 +1,843 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0733.0464.txt
+token	tags
+<	X
+CorIFA	NN CAP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2016	CAP NNP
+-	
+2.0733.0464	NUM
+>	X
+  	
+<	X
+How	RB CAP SCONJ WH
+long	RB
+will	PRMD
+the	ART DET
+world	NN
+food	NN
+production	NOMZ
+system	NN
+be	BEMA AUXB INF
+a	ART DET INDA
+source	NN
+of	PIN PREP
+atmospheric	JJ
+carbon	NN
+,	
+whether	PIN SCONJ PREP
+it	PIT PRP SBJP
+could	POMD
+be	BEMA AUXB INF
+a	ART DET INDA
+sink	NN
+?	QUES
+>	X
+  	
+Since	OSUB PIN CAP SCONJ PREP
+the	ART DET
+industrial	JJ
+revolution	NOMZ
+the	ART DET
+levels	NN
+of	PIN PREP
+atmospheric	JJ
+greenhouse	NN
+effect	NN
+gases	NN
+(	
+GEG	CAP NNP
+)	
+,	
+principally	RB
+CO2	CAP NNP
+,	
+have	VPRT PEAS
+been	AUXB
+increasing	GER PGAS
+,	
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+related	
+to	PIN PREP
+the	ART DET
+rise	NN
+in	PIN CONJ PREP
+mean	JJ PRIV
+temperatures	NN
+along	PIN PREP
+the	ART DET
+world	NN
+(	
+IPCC	CAP NNP
+)	
+(	
+Crutzen	NN CAP
+2003	NUM
+,	
+FAPESP	CAP NNP
+2006	NUM
+)	
+.	
+This	DEMO CAP DET
+temperature	NN
+increase	NN
+has	VPRT PEAS SPAU
+already	RB
+been	AUXB
+promoting	PGAS
+the	ART DET
+rise	NN
+of	PIN PREP
+the	ART DET
+ocean	NN
+level	NN
+,	
+changes	NN
+in	PIN CONJ PREP
+winds	NN
+and	CCONJ
+rains	VPRT
+distribution	NOMZ
+,	
+desertification	NOMZ
+and	PHC CCONJ
+emergence	NN
+of	PIN PREP
+phenomena	NN
+such	JJ
+hurricanes	NN
+and	PHC CCONJ
+flooding	NN
+in	PIN CONJ PREP
+places	NN
+considered	PRIV WZPAST
+as	RB CONJ
+secure	JJ
+until	PIN PREP
+some	QUAN DET
+years	NN
+ago	RB
+.	
+Besides	PIN CAP SCONJ PREP
+one	NUM
+the	ART DET
+main	JJ
+source	NN
+of	PIN PREP
+CO2	NN CAP
+to	PIN PREP
+the	ART DET
+atmosphere	NN
+is	BEMA VPRT AUXB
+the	ART DET
+deforestation	NOMZ
+induced	WZPAST
+by	PIN PREP
+the	ART DET
+world	NNP
+crescent	NNP
+demand	SUAV NN
+of	PIN PREP
+food	NN
+,	
+the	ART DET
+opening	NN
+of	PIN PREP
+new	JJ
+cropping	NN
+areas	NN
+goes	VPRT
+on	PIN PREP
+over	PIN PREP
+time	NN
+(	
+Harris	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+2013	NUM
+)	
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+“	
+good	JJ
+practices	NN
+agriculture	NN
+”	
+has	VPRT PEAS
+been	PASS AUXB
+defended	
+as	PIN CONJ PREP
+a	ART DET INDA
+sink	NN
+of	PIN PREP
+the	ART DET
+atmospheric	JJ
+CO2	CAP NNP
+,	
+idea	NN
+that	TSUB WHQU WHSUB WH
+does	VPRT SPAU
+not	XX0 RB
+seem	SMP INF
+to	PIN TO PREP
+be	PASS SPAU AUXB INF
+well	RB
+spread	
+among	PIN PREP
+farmers	NN
+.	
+ 	
+The	ART CAP DET
+balance	NN
+between	PIN PREP
+the	ART DET
+CO2	CAP NNP
+absorption	NOMZ
+and	PHC CCONJ
+release	NN
+in	PIN CONJ PREP
+natural	JJ
+systems	NN
+,	
+such	JJ
+forests	NN
+,	
+is	BEMA VPRT AUXB
+positive	JJ PRED
+from	PIN PREP
+the	ART DET
+point	NN
+of	PIN PREP
+view	NN
+of	PIN PREP
+atmospheric	JJ
+CO2	NN CAP
+sinking	WZPRES PGAS
+,	
+since	OSUB PIN SCONJ PREP
+most	JJ EMPH SPADJ
+of	PIN PREP
+the	ART DET
+C	NN CAP
+absorbed	WZPAST
+by	PIN PREP
+photosynthesis	NN
+is	PASS VPRT AUXB
+changed	
+to	PIN TO PREP
+live	INF
+biomass	NN
+or	CCONJ
+as	PIN CONJ PREP
+humic	JJ
+substances	NN
+in	PIN CONJ PREP
+soil	NN
+(	
+Cleveland	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+2011	NUM
+)	
+.	
+The	ART CAP DET
+land	NN
+change	NN
+to	PIN PREP
+traditional	JJ
+agriculture	NN
+,	
+in	PIN CONJ PREP
+its	PIT PRP SBJP
+turn	NN
+,	
+diminishes	VPRT
+the	ART DET
+input	NN
+of	PIN PREP
+biomass	NN
+to	PIN PREP
+the	ART DET
+soil	NN
+and	CCONJ
+enhances	VPRT
+the	ART DET
+mineralization	NOMZ
+of	PIN PREP
+the	ART DET
+humic	JJ
+and	PHC CCONJ
+other	JJ
+substances	NN
+in	PIN CONJ PREP
+the	ART DET
+soil	NN
+(	
+Fearnside	NN CAP
+2000	NUM
+)	
+.	
+This	DEMO CAP DET
+process	NN
+increases	VPRT
+the	ART DET
+microbial	JJ
+respiration	NOMZ
+,	
+releasing	PGAS
+large	JJ
+amounts	NN
+of	PIN PREP
+CO2	NN CAP
+to	PIN PREP
+the	ART DET
+atmosphere	NN
+,	
+promoting	PRESP PGAS
+the	ART DET
+physical	JJ
+and	PHC CCONJ
+chemical	JJ
+degradation	NOMZ
+of	PIN PREP
+soil	NN
+and	CCONJ
+inducing	PGAS
+the	ART DET
+need	NN
+of	PIN PREP
+new	JJ
+cropping	NN
+areas	NN
+opening	WZPRES PGAS
+(	
+Harris	CAP NNP
+et	NNP
+al	NNP
+.	NNP
+2012	NUM
+)	
+.	
+This	DEMO CAP DET
+apparently	RB
+irreversible	JJ
+cycle	NN
+,	
+however	RB CONJ
+,	
+can	POMD
+be	PASS BYPA AUXB INF
+changed	
+by	PIN STPR PREP
+“	
+good	JJ
+practices	NN
+agriculture	NN
+”	
+introduction	NOMZ
+.	
+ 	
+Examples	NN CAP
+of	PIN PREP
+good	JJ
+practices	NN
+are	VPRT AUXB
+:	
+no	SYNE DET
+till	NN
+,	
+release	NN
+of	PIN PREP
+the	ART DET
+non	
+cropped	JJ
+material	NN
+to	PIN PREP
+soil	NN
+,	
+diversification	NOMZ
+of	PIN PREP
+cultures	NN
+and	PHC CCONJ
+introduction	NOMZ
+of	PIN PREP
+species	NN
+that	TSUB WHSUB WH
+release	VPRT
+great	JJ
+amounts	NN
+of	PIN PREP
+organic	JJ
+matter	NN
+to	PIN PREP
+soil	NN
+,	
+being	AUXB
+animals	NN
+and	PHC CCONJ
+trees	NN
+also	RB
+welcome	VPRT
+.	
+In	PIN CONJ CAP PREP
+these	DEMO DET
+agrosilvopastoral	JJ
+called	
+systems	NN
+’	
+soil	NN
+,	
+the	ART DET
+humidification	NOMZ
+process	NN
+is	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+happen	INF
+(	
+Agrisustentavel	NN CAP
+2016	NUM
+)	
+.	
+So	RB CAP
+,	
+the	ART DET
+CO2	NN CAP
+absorbed	WZPAST
+by	PIN PREP
+plants	NN
+tends	VPRT
+to	PIN TO PREP
+be	PASS AUXB INF
+transformed	
+to	PIN PREP
+biomass	NN
+and	CCONJ
+stable	JJ
+humic	JJ
+substances	NN
+,	
+being	BEMA PRESP AUXB
+these	DEMO DET
+systems	NN
+sinks	NN
+of	PIN PREP
+this	DEMO DET
+GEG	CAP NNP
+.	
+So	RB CAP
+,	
+why	RB WHQU SCONJ WH
+are	VPRT AUXB
+they	TPP3 PRP SBJP
+not	XX0 RB
+wide	JJ
+spread	NN
+?	QUES
+ 	
+Cropping	NN CAP
+systems	NN
+nowadays	RB TIME
+are	BEMA VPRT AUXB
+under	PIN PREP
+the	ART DET
+control	NN
+of	PIN PREP
+big	JJ
+companies	NN
+,	
+which	SERE DET WH
+determines	VPRT PRIV SUAV
+which	WHCL DET WH
+transgenic	NN
+seeds	NN
+,	
+pesticides	NN
+and	PHC CCONJ
+fertilizers	NN
+are	VPRT AUXB
+going	PGAS
+to	PIN TO PREP
+be	PASS BYPA AUXB INF
+used	
+by	PIN PREP
+farms	NN
+.	
+Besides	PIN CAP SCONJ PREP
+this	DEMP DET
+,	
+the	ART DET
+traditional	JJ
+ones	NN
+think	VPRT PRIV
+that	PIN THVC SCONJ PREP
+agrosilvopastoral	JJ
+systems	NN
+are	VPRT AUXB
+not	XX0 RB
+as	RB CONJ
+productive	JJ
+as	PIN CONJ PREP
+monocultures	NN
+.	
+However	RB CONJ CAP
+,	
+a	ART DET INDA
+new	JJ
+generation	NOMZ
+is	VPRT AUXB
+emerging	PGAS
+and	CCONJ
+many	QUAN JJ
+of	PIN PREP
+this	DEMO DET
+young	JJ
+people	NN
+consider	VPRT PRIV
+environmental	JJ
+security	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+serious	JJ
+problem	NN
+that	TSUB WHSUB WH
+must	NEMD
+be	PASS SPAU AUXB INF
+urgently	RB
+solved	
+.	
+ 	
+The	ART CAP DET
+current	JJ
+scenario	NN
+of	PIN PREP
+the	ART DET
+world	NN
+food	NN
+production	NOMZ
+system	NN
+will	PRMD
+be	PASS AUXB INF
+modified	
+when	RB SCONJ WH
+this	DEMO DET
+new	JJ
+mentality	NOMZ
+spreads	VPRT
+to	PIN PREP
+the	ART DET
+country	NN
+sites	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+hard	JJ PRED
+to	PIN TO PREP
+predict	PUBV INF
+when	RB WHCL SCONJ WH
+it	PIT PRP SBJP
+is	VPRT AUXB
+going	PGAS
+to	PIN TO PREP
+happen	INF
+,	
+since	OSUB PIN SCONJ PREP
+young	JJ
+people	NN
+are	BEMA VPRT AUXB
+more	RB EMPH CMADJ
+likely	JJ
+to	PIN TO PREP
+be	BEMA AUXB INF
+in	PIN CONJ PREP
+cities	NN
+than	PIN PREP
+in	PIN CONJ PREP
+farms	NN
+.	
+But	CAP CCONJ
+changes	NN
+,	
+as	PIN CONJ PREP
+the	ART DET
+creation	NOMZ
+of	PIN PREP
+ecovillages	NN
+around	PIN PLACE PREP
+the	ART DET
+world	NN
+,	
+are	VPRT SPAU AUXB
+already	RB
+happening	PGAS
+,	
+providing	PRESP PGAS
+the	ART DET
+hope	PRIV NN
+of	PIN PREP
+better	JJ CMADJ
+future	JJ
+days	NN
+.	
+  	
+<	X
+References	NN CAP
+:>	NN
+ 	
+<	X
+Agrisustentável	CAP NNP
+.	
+2016	NUM
+.	
+Rede	CAP NNP
+de	X
+Agricultura	CAP NNP
+sustentável	NN
+.	
+–	
+tipos	NN
+de	X
+agricultura	NN
+sustentável	NN
+.	
+http://www.agrisustentavel.com/doc/tipos.htm	NNP URL
+>	NNP
+ 	
+<	X
+Cleveland	CAP NNP
+CC	CAP NNP
+,	
+Townsend	CAP NNP
+AR	CAP NNP
+,	
+Alvarez	CAP NNP
+-	
+Clare	CAP NNP
+S	CAP NNP
+,	
+Bustamante	CAP NNP
+MMC	CAP NNP
+,	
+Chuyong	CAP NNP
+G	CAP NNP
+,	
+Dobrowski	CAP NNP
+SZ	CAP NNP
+,	
+Grierson	CAP NNP
+P	CAP NNP
+,	
+Harms	CAP NNP
+KE	CAP NNP
+,	
+Houlton	CAP NNP
+BZ	CAP NNP
+,	
+Marklein	CAP NNP
+A	CAP NNP
+,	
+Parton	CAP NNP
+W	CAP NNP
+,	
+Porder	CAP NNP
+S	CAP NNP
+,	
+Reed	CAP NNP
+SC	CAP NNP
+,	
+Silver	CAP NNP
+WL	CAP NNP
+,	
+Tanner	CAP NNP
+EVJ	NN CAP
+,	
+Wieder	CAP NNP
+WR	CAP NNP
+.	
+2011	NUM
+.	
+Relationships	NN CAP
+among	PIN PREP
+net	JJ
+primary	JJ
+productivity	NOMZ
+,	
+nutrients	NN
+and	PHC CCONJ
+climate	NN
+in	PIN CONJ PREP
+tropical	JJ
+rain	NN
+forest	NN
+:	
+a	ART DET INDA
+pan	JJ
+-	JJ
+tropical	JJ
+analysis	NN
+.	
+2011	NUM
+.	
+Ecology	CAP NNP
+Letters	CAP NNP
+.	
+14:939–947	NNP
+.	
+>	X
+ 	
+<	X
+Crutzen	CAP NNP
+JC	CAP NNP
+.	
+2002	NUM
+.	
+Geology	NN CAP
+of	PIN PREP
+mankind	NN
+.	
+Nature	NN CAP
+.	
+415(3):23	X
+>	X
+ 	
+<	X
+FAPESP	CAP NNP
+.	
+2006	NUM
+.	
+4	NUM
+°	VPRT
+Relatório	CAP NNP
+Temático	CAP NNP
+do	VPRT PROD
+Projeto	CAP NNP
+“	
+Diversidade	CAP NNP
+,	
+dinâmica	NNP
+e	NNP
+conservação	NN
+em	NNP
+florestas	NN
+do	VPRT PROD
+Estado	CAP NNP
+de	NNP
+São	CAP NNP
+Paulo	CAP NNP
+:	
+40	NUM
+ha	X
+de	X
+parcelas	NNP
+permanentes	VPRT
+”	
+(	
+FAPESP	CAP NNP
+1999/09635-	NUM
+)	
+.	
+http://www.lerf.esalq.usp.br/old/parcelas/relatorio2005/parteVIII.pdf	URL X
+>	X
+ 	
+<	X
+Fearnside	NN CAP
+PM	CAP NNP
+.	
+2000	NUM
+.	
+Global	JJ CAP
+warming	NN
+and	CCONJ
+tropical	JJ
+land	NN
+-	
+use	NN
+change	NN
+:	
+greenhouse	NN
+gas	NN
+emissions	NOMZ
+from	PIN PREP
+biomass	NN
+burning	NN
+,	
+decomposition	NOMZ
+and	PHC CCONJ
+soils	NN
+in	PIN CONJ PREP
+forest	NN
+conversion	NOMZ
+,	
+shifting	PGAS
+cultivation	NOMZ
+and	CCONJ
+secondary	JJ
+vegetation	NOMZ
+.	
+Climatic	CAP NNP
+Change	CAP NNP
+46:115	NUM
+-	
+158	NUM
+.	
+>	X
+ 	
+<	X
+Harris	CAP NNP
+LN	CAP NNP
+,	
+Brown	CAP NNP
+S	CAP NNP
+,	
+Hagen	CAP NNP
+SC	CAP NNP
+,	
+Saatchi	CAP NNP
+SS	CAP NNP
+,	
+Petrova	CAP NNP
+S	CAP NNP
+,	
+Salas	CAP NNP
+W	CAP NNP
+,	
+Hansen	CAP NNP
+MC	CAP NNP
+,	
+Potapov	CAP NNP
+PV	CAP NNP
+,	
+Lotsch	CAP NNP
+A.	NN CAP
+2012	NUM
+.	
+Baseline	CAP NNP
+Map	CAP NNP
+of	PIN PREP
+Carbon	CAP NNP
+Emissions	CAP NNP
+from	PIN PREP
+Deforestation	CAP NNP
+in	PIN CONJ PREP
+Tropical	CAP NNP
+Regions	CAP NNP
+.	
+Science	NN CAP
+336	NUM
+:	
+1573	NUM
+-	
+1576	NUM
+>	X
+ 	

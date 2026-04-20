@@ -1,0 +1,687 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0999.0581.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2017	CAP NNP
+-	
+2.0999.0581	NUM
+>	X
+  	
+<	X
+Why	RB CAP SCONJ WH
+diversity	NOMZ
+of	PIN PREP
+wisdom	NN
+is	BEMA VPRT AUXB
+so	RB EMPH
+important	JJ
+,	
+nowadays	RB TIME
+?	QUES
+>	X
+  	
+Interdisciplinary	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+link	NN
+between	PIN PREP
+the	ART DET
+understandings	GER
+of	PIN PREP
+the	ART DET
+disciplines	NN
+at	PIN PREP
+their	TPP3 PRP SBJP
+various	JJ
+areas	NN
+.	
+Some	QUAN CAP DET
+author	NN
+affirm	PUBV NN
+that	PIN TOBJ THVC SCONJ PREP
+ideas	NN
+which	WHSUB DET WH
+refer	VPRT
+to	PIN PREP
+interdisciplinary	NN
+are	BEMA VPRT AUXB
+ancient	JJ PRED
+,	
+Plato	CAP NNP
+and	PHC CCONJ
+Aristotle	CAP NNP
+are	PASS VPRT AUXB
+called	
+"	QUOT
+interdisciplinary	NN
+"	QUOT
+due	JJ
+to	PIN PREP
+the	ART DET
+proximity	NOMZ
+of	PIN PREP
+their	TPP3 PRP SBJP
+ideas	NN
+to	PIN TO PREP
+sense	PRIV INF
+of	PIN PREP
+an	ART DET INDA
+unification	NOMZ
+of	PIN PREP
+wisdom	NN
+.	
+Meanwhile	RB CAP
+,	
+it	PIT PRP SBJP
+appears	VPRT SMP
+that	PIN THVC SCONJ PREP
+this	DEMO DET
+sense	PRIV NN
+of	PIN PREP
+unity	NOMZ
+of	PIN PREP
+knowledge	NN
+got	VBD
+lost	
+in	PIN CONJ PREP
+philosophy	NN
+’s	
+book	NN
+.	
+Nowadays	RB TIME CAP
+,	
+in	PIN CONJ PREP
+Brazil	CAP NNP
+,	
+knowledge	NN
+centers	NN
+does	VPRT SPAU
+n’t	RB
+worry	INF
+about	PIN PREP
+diversified	JJ
+knowledge	NN
+,	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+can	POMD
+bring	INF
+amount	NN
+of	PIN PREP
+professionals	NN
+so	RB
+attached	
+of	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+ability	NOMZ
+that	TOBJ WHOBJ WH
+they	TPP3 PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+even	RB
+give	INF
+an	ART DET INDA
+opinion	NN
+about	PIN PREP
+other	JJ
+knowledge	NN
+field	NN
+.	
+But	CAP CCONJ
+the	ART DET
+advent	NN
+of	PIN PREP
+dynamism	NN
+at	PIN PREP
+the	ART DET
+world	NN
+brings	VPRT
+a	ART DET INDA
+necessity	NOMZ
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+complexity	NOMZ
+of	PIN PREP
+society	NN
+and	CCONJ
+of	PIN PREP
+other	JJ
+cultures	NN
+.	
+ 	
+It	PIT CAP PRP SBJP
+is	PASS VPRT SPAU AUXB
+widely	RB
+accepted	PRIV
+that	PIN THVC SCONJ PREP
+society	NN
+realizes	VPRT PRIV
+a	ART DET INDA
+silence	NN
+and/or	CCONJ
+yelling	PGAS
+influence	NN
+in	PIN CONJ PREP
+different	JJ
+field	NN
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+life	NN
+such	JJ
+as	PIN CONJ PREP
+appearance	NN
+,	
+behaviour	NN
+and	CCONJ
+the	ART DET
+way	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+learn	VPRT PRIV
+.	
+The	ART CAP DET
+role	NN
+concepts	NN
+of	PIN PREP
+interdisciplinary	NN
+believe	VPRT PRIV
+that	PIN THVC SCONJ PREP
+we	FPP1 PRP SBJP
+can	POMD
+learn	PRIV INF
+in	PIN CONJ PREP
+every	QUAN DET
+place	NN
+and	ANDC CCONJ
+in	PIN CONJ PREP
+every	QUAN DET
+experience	NN
+,	
+even	RB
+if	COND PIN SCONJ PREP
+those	DEMP DET
+are	BEMA VPRT AUXB
+good	JJ PRED
+or	CCONJ
+not	XX0 RB
+.	
+Thus	RB CONJ CAP
+,	
+we	FPP1 PRP SBJP
+are	VPRT AUXB
+expression	NOMZ
+of	PIN PREP
+choices	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+made	VBD
+and	CCONJ
+the	ART DET
+paths	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+decided	VBD PRIV SUAV
+to	PIN TO PREP
+follow	INF
+.	
+Therefore	RB CONJ CAP
+,	
+as	PIN CONJ PREP
+many	QUAN JJ
+museums	NN
+and	PHC CCONJ
+parks	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+visit	VPRT
+,	
+books	NN
+that	TOBJ WHOBJ WH
+we	FPP1 PRP SBJP
+read	VPRT
+and	CCONJ
+people	NN
+with	PIN PREP
+different	JJ
+reality	NOMZ
+we	FPP1 PRP SBJP
+interact	VPRT
+richer	JJ CMADJ
+our	FPP1 PRP SBJP
+baggage	NN
+of	PIN PREP
+knowledge	NN
+will	PRMD
+be	AUXB INF
+.	
+In	PIN CONJ CAP PREP
+other	JJ
+words	NN
+,	
+wisdom	NN
+is	VPRT AUXB
+not	XX0 RB
+inmate	NN
+at	PIN PREP
+Universities	CAP NNP
+surroundings	GER
+,	
+but	CCONJ
+also	RB
+any	QUAN DET
+place	NN
+that	TSUB WHSUB WH
+brings	VPRT
+new	JJ
+experiences	NN
+.	
+ 	
+The	ART CAP DET
+advent	NN
+of	PIN PREP
+internet	NN
+has	VPRT PEAS
+been	AUXB
+one	NUM
+of	PIN PREP
+developments	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+history	NN
+.	
+It	PIT CAP PRP SBJP
+brings	VPRT
+to	PIN PREP
+the	ART DET
+world	NN
+new	JJ
+possibilities	NN
+,	
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+achieve	INF
+these	DEMO DET
+opportunities	NN
+we	FPP1 PRP SBJP
+should	NEMD
+be	PASS AUXB INF
+prepared	
+.	
+The	ART CAP DET
+internet	NN
+has	VPRT PEAS
+helped	
+to	PIN TO PREP
+make	INF
+the	ART DET
+world	NN
+a	ART DET INDA
+smaller	JJ CMADJ
+place	NN
+,	
+the	ART DET
+necessity	NOMZ
+to	PIN TO PREP
+understand	PRIV INF
+multi	JJ
+-	JJ
+cultural	JJ
+became	VBD
+a	ART DET INDA
+reality	NOMZ
+not	XX0 RB
+only	DWNT RB
+for	PIN PREP
+businessman	NN
+but	CCONJ
+also	RB
+for	PIN PREP
+college	NN
+students	NN
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+in	PIN CONJ PREP
+universities	NN
+are	VPRT AUXB
+growing	PGAS
+the	ART DET
+demand	SUAV NN
+of	PIN PREP
+language	NN
+classes	NN
+,	
+international	JJ
+relations	NOMZ
+,	
+history	NN
+and	PHC CCONJ
+culture	NN
+from	PIN PREP
+other	JJ
+countries	NN
+.	
+Also	RB CAP
+,	
+knowledge	NN
+from	PIN PREP
+different	JJ
+field	NN
+improves	VPRT
+mental	JJ
+function	NOMZ
+.	
+In	PIN CONJ CAP PREP
+spite	NN
+of	PIN PREP
+individuals	NN
+become	VPRT
+very	AMP RB
+attached	JJ
+for	PIN PREP
+their	TPP3 PRP SBJP
+own	JJ
+area	NN
+,	
+develop	INF
+new	JJ
+abilities	NN
+in	PIN CONJ PREP
+different	JJ
+fields	NN
+stimulates	VPRT
+parts	NN
+of	PIN PREP
+the	ART DET
+brain	NN
+that	DEMP WHOBJ WH
+,	
+perhaps	RB
+,	
+is	VPRT AUXB
+n’t	RB
+use	NN
+on	PIN PREP
+a	ART DET INDA
+regular	JJ
+basics	NN
+.	
+ 	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+many	QUAN JJ
+students	NN
+do	VPRT PROD
+n’t	RB
+desire	SUAV NN
+go	INF
+out	PIN PREP
+from	PIN PREP
+their	TPP3 PRP SBJP
+comfort	NN
+zone	NN
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+a	ART DET INDA
+reflex	NN
+of	PIN PREP
+apathy	NN
+from	PIN PREP
+things	NN
+that	TSUB WHSUB WH
+are	VPRT AUXB
+not	XX0 RB
+directly	RB
+on	PIN PREP
+the	ART DET
+own	JJ
+reality	NOMZ
+and	CCONJ
+many	QUAN JJ
+times	NN
+,	
+institutions	NOMZ
+do	VPRT SPAU
+n’t	RB
+encourage	INF
+interdisciplinary	JJ
+education	NOMZ
+.	
+In	PIN CONJ CAP PREP
+spite	NN
+of	PIN STPR PREP
+,	
+many	QUAN JJ
+classes	NN
+stay	VPRT
+empty	JJ
+,	
+some	QUAN DET
+universities	NN
+do	VPRT PROD
+n’t	NNP
+divulge	NN
+and	CCONJ
+even	RB
+less	JJ CMADJ
+stimulates	NN
+ungraduated	VBD
+student	NN
+take	INF
+class	NN
+in	PIN CONJ PREP
+different	JJ
+courses	NN
+.	
+And	ANDC CAP CCONJ
+for	PIN PREP
+many	QUAN JJ
+subjects	NN
+the	ART DET
+obligatory	JJ
+schedule	NN
+is	BEMA VPRT AUXB
+very	AMP RB
+intense	JJ
+,	
+so	CCONJ
+became	VBD
+almost	DWNT RB
+impossible	JJ
+to	PIN TO PREP
+handle	INF
+with	PIN PREP
+new	JJ
+knowledge	NN
+.	
+However	RB CONJ CAP
+,	
+UFMG	CAP NNP
+,	
+for	PIN PREP
+example	NN
+,	
+is	VPRT AUXB
+trying	PGAS
+to	PIN TO PREP
+adjust	INF
+schedule	NN
+of	PIN PREP
+some	QUAN DET
+courses	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+transfer	INF
+part	NN
+of	PIN PREP
+obligatory	JJ
+schedule	NN
+to	PIN TO PREP
+alternative	INF
+subject	JJ
+(	
+related	JJ
+or	CCONJ
+not	XX0 RB
+to	PIN TO PREP
+student	INF
+’s	
+major	NN
+)	
+.	
+For	PIN CAP PREP
+example	NN
+,	
+in	PIN CONJ PREP
+pharmacy	NN
+undergrad	NN
+course	NN
+,	
+approximately	RB
+300	NUM
+hours	NN
+of	PIN PREP
+obligatory	JJ
+schedule	NN
+will	PRMD
+be	AUXB INF
+transfer	NN
+to	PIN PREP
+alternative	JJ
+subject	NN
+.	
+With	PIN CAP PREP
+this	DEMO DET
+change	NN
+,	
+the	ART DET
+university	NOMZ
+want	VPRT
+to	PIN TO PREP
+turn	INF
+student	NN
+as	PIN CONJ PREP
+the	ART DET
+major	JJ
+responsible	JJ
+to	PIN TO PREP
+construct	INF
+their	TPP3 PRP SBJP
+own	JJ
+journey	NN
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+achieve	INF
+wisdom	NN
+.	
+ 	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+interdisciplinary	NN
+suppose	VPRT PRIV
+openness	NOMZ
+of	PIN PREP
+thought	PRIV NN
+,	
+curiosity	NOMZ
+that	TSUB WHSUB WH
+seek	VPRT
+beyond	PIN PREP
+itself	PIT PRP SBJP ACCU
+.	
+Since	OSUB PIN CAP SCONJ PREP
+antique	JJ
+,	
+interdisciplinary	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+concept	NN
+difficult	JJ
+to	PIN TO PREP
+be	PASS AUXB INF
+defined	
+and	CCONJ
+even	RB
+more	JJ EMPH CMADJ
+to	PIN TO PREP
+put	INF
+in	PIN CONJ PREP
+our	FPP1 PRP SBJP
+ordinary	JJ
+life	NN
+.	
+This	DEMO CAP DET
+barrier	NN
+can	POMD
+be	PASS BYPA AUXB INF
+constructed	
+by	PIN PREP
+educational	JJ
+institution	NOMZ
+or	CCONJ
+by	PIN PREP
+personal	JJ
+behavior	NN
+.	
+Meanwhile	RB CAP
+,	
+dynamism	NN
+of	PIN PREP
+the	ART DET
+world	NN
+bring	VPRT
+a	ART DET INDA
+necessity	NOMZ
+to	PIN TO PREP
+understand	PRIV INF
+the	ART DET
+complexity	NOMZ
+of	PIN PREP
+society	NN
+and	CCONJ
+of	PIN PREP
+other	JJ
+cultures	NN
+,	
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+achieve	INF
+these	DEMO DET
+new	JJ
+opportunities	NN
+we	FPP1 PRP SBJP
+need	VPRT
+to	PIN TO PREP
+be	BEMA AUXB INF
+the	ART DET
+major	JJ
+responsible	JJ
+to	PIN TO PREP
+construct	INF
+our	FPP1 PRP SBJP
+own	JJ
+journey	NN
+to	PIN TO PREP
+catch	INF
+up	PIN PREP
+wisdom	NN
+.	
+     	

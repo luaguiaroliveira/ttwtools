@@ -1,0 +1,840 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2095.1007.txt
+token	tags
+  	
+Oral	JJ CAP
+language	NN
+development	NOMZ
+is	BEMA VPRT AUXB
+central	JJ PRED
+to	PIN PREP
+humans	NN
+.	
+It	PIT CAP PRP SBJP
+allows	VPRT SUAV
+effective	JJ
+comunication	NOMZ
+between	PIN PREP
+children	NN
+and	CCONJ
+her	TPP3 PRP SBJP
+parents	NN
+,	
+in	PIN CONJ PREP
+a	ART DET INDA
+first	JJ
+moment	NOMZ
+,	
+and	ANDC CCONJ
+,	
+later	RB TIME
+,	
+with	PIN PREP
+other	JJ
+members	NN
+of	PIN PREP
+her	TPP3 PRP SBJP
+comunity	NOMZ
+.	
+Moreover	RB CONJ CAP
+,	
+oral	JJ
+language	NN
+is	BEMA VPRT AUXB
+important	JJ PRED
+for	PIN PREP
+reading	PGAS
+and	PHC CCONJ
+writing	PUBV PGAS
+subsequent	JJ
+learning	PRIV NN
+,	
+which	SERE DET WH
+enables	VPRT
+the	ART DET
+individual	NN
+’s	
+contact	NN
+with	PIN PREP
+ideas	NN
+and	PHC CCONJ
+knowledge	NN
+produced	WZPAST
+throughout	PIN PREP
+human	JJ
+history	NN
+and	ANDC CCONJ
+which	DET WH
+is	BEMA VPRT AUXB
+relevant	JJ PRED
+for	PIN PREP
+his	TPP3 PRP SBJP
+future	JJ
+academic	JJ
+and	PHC CCONJ
+professional	JJ
+success	NN
+and	CCONJ
+for	PIN PREP
+his	TPP3 PRP SBJP
+full	JJ
+access	NN
+to	PIN PREP
+culture	NN
+.	
+However	RB CONJ CAP
+,	
+although	CONC PIN SCONJ PREP
+the	ART DET
+oral	JJ
+language	NN
+acquisiton	NNP
+occurs	VPRT
+naturally	RB
+and	PHC CCONJ
+effortlessly	RB
+in	PIN CONJ PREP
+typically	RB
+developing	GER PGAS
+children	NN
+,	
+variations	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+size	NN
+of	PIN PREP
+child	NN
+’s	
+vocabulary	NN
+up	PIN PREP
+to	PIN PREP
+age	NN
+3	NUM
+are	PASS VPRT AUXB
+associated	
+with	PIN PREP
+both	DET
+characteristics	NN
+of	PIN PREP
+the	ART DET
+child	NN
+’s	
+environment	NOMZ
+and	CCONJ
+their	TPP3 PRP SBJP
+reading	NN
+and	CCONJ
+writing	PUBV PGAS
+future	JJ
+skills	NN
+(	
+Hart	CAP NNP
+&	CCONJ
+Risley	CAP NNP
+,	
+1995	NUM
+;	
+Hoff	CAP NNP
+,	
+2003	NUM
+;	
+Lee	CAP NNP
+,	
+2011)⁠.	NN
+  	
+In	PIN CONJ CAP PREP
+a	ART DET INDA
+classic	JJ
+study	NN
+published	WZPAST
+in	PIN CONJ PREP
+1995	NUM
+,	
+Betty	CAP NNP
+Hart	CAP NNP
+e	NN
+Todd	CAP NNP
+R.	CAP NNP
+Risley	CAP NNP
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+a	ART DET INDA
+considerable	JJ
+amount	NN
+of	PIN PREP
+the	ART DET
+variation	NOMZ
+in	PIN CONJ PREP
+vocabulary	NN
+of	PIN PREP
+3	NUM
+-	
+year	NN
+-	
+old	JJ
+children	NN
+was	PASS VBD BYPA AUXB
+accounted	
+by	PIN PREP
+variations	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+quantity	NOMZ
+of	PIN PREP
+different	JJ
+words	NN
+which	WHOBJ DET WH
+their	TPP3 PRP SBJP
+parents	NN
+directed	VBD
+to	PIN PREP
+them	TPP3 PRP SBJP ACCU
+.	
+These	DEMO CAP DET
+authors	NN
+followed	VBD
+42	NUM
+children	NN
+,	
+from	PIN PREP
+7	NUM
+months	NN
+to	PIN PREP
+3	NUM
+years	NN
+old	JJ
+,	
+and	ANDC CCONJ
+their	TPP3 PRP SBJP
+families	NN
+.	
+They	TPP3 CAP PRP SBJP
+visited	VBD
+the	ART DET
+families	NN
+homes	NN
+monthly	RB
+and	CCONJ
+recorded	VBD
+their	TPP3 PRP SBJP
+activities	NN
+and	PHC CCONJ
+interactions	NOMZ
+for	PIN PREP
+one	NUM
+hour	NN
+.	
+Subsequently	RB TIME CAP
+,	
+they	TPP3 PRP SBJP
+transcribed	VBD
+and	PHC CCONJ
+coded	VBD
+all	QUAN DET
+the	ART DET
+speech	NN
+the	ART DET
+children	NN
+listened	VBD
+and	PHC CCONJ
+talked	VBD
+and	CCONJ
+,	
+thus	RB CONJ
+,	
+they	TPP3 PRP SBJP
+were	BEMA VBD AUXB
+able	JJ PRED
+to	PIN TO PREP
+observe	PRIV INF
+,	
+in	PIN CONJ PREP
+a	ART DET INDA
+naturalistic	JJ
+way	NN
+,	
+samples	NN
+of	PIN PREP
+linguistic	JJ
+input	NN
+received	WZPAST
+by	PIN PREP
+children	NN
+and	CCONJ
+her	TPP3 PRP SBJP
+vocabulary	JJ
+growth	NN
+.	
+The	ART CAP DET
+data	NN
+showed	VBD PRIV
+that	PIN THVC SCONJ PREP
+poorest	JJ SPADJ
+children	NN
+heard	PRIV
+,	
+on	PIN PREP
+average	JJ
+,	
+a	ART DET INDA
+half	NN
+of	PIN PREP
+the	ART DET
+words	NN
+heard	PRIV WZPAST
+by	PIN PREP
+middle	JJ
+-	
+class	NN
+children	NN
+and	CCONJ
+a	ART DET INDA
+third	NN
+of	PIN PREP
+the	ART DET
+words	NN
+addressed	WZPAST
+to	PIN PREP
+upper	JJ
+-	
+class	NN
+children	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+the	ART DET
+authors	NN
+,	
+this	DEMP DET
+could	POMD
+mean	PRIV INF
+a	ART DET INDA
+difference	NN
+of	PIN PREP
+30	NUM
+million	NUM
+words	NN
+between	PIN PREP
+poorest	JJ SPADJ
+and	PHC CCONJ
+richest	JJ SPADJ
+children	NN
+in	PIN CONJ PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+fourth	JJ
+year	NN
+of	PIN PREP
+life	NN
+.	
+They	TPP3 CAP PRP SBJP
+reassessed	VBD
+the	ART DET
+children	NN
+5	NUM
+years	NN
+later	RB TIME
+and	CCONJ
+the	ART DET
+differences	NN
+remained	VBD
+:	
+when	RB SCONJ WH
+the	ART DET
+children	NN
+had	VBD
+9	NUM
+or	CCONJ
+10	NUM
+years	NN
+old	JJ
+,	
+skills	VPRT
+like	PIN PREP
+reading	PGAS
+comprehension	NOMZ
+and	PHC CCONJ
+vocabulary	NN
+was	BEMA VBD AUXB
+still	RB
+lower	JJ CMADJ
+in	PIN CONJ PREP
+who	PIRE WH
+heard	VBD PRIV
+fewer	JJ CMADJ
+words	NN
+up	PIN PREP
+to	PIN PREP
+3	NUM
+.	
+Similar	JJ CAP
+results	NN
+were	PASS VBD BYPA AUXB
+found	PRIV
+by	PIN PREP
+authors	NN
+such	JJ
+as	PIN CONJ PREP
+Erika	CAP NNP
+Hoff	CAP NNP
+(	
+2003	NUM
+)	
+.	
+  	
+Hart	CAP NNP
+&	CCONJ
+Risley	CAP NNP
+’s	
+study	NN
+received	VBD
+some	QUAN DET
+methodological	JJ
+and	PHC CCONJ
+theoretical	JJ
+criticism	NN
+.	
+According	CAP PGAS
+to	PIN PREP
+Yana	CAP NNP
+Kuchirko	CAP NNP
+(	
+2017)⁠	NNP
+,	
+the	ART DET
+authors	NN
+described	VBD
+lower	JJ CMADJ
+socioeconomic	JJ
+families	NN
+practices	NN
+within	PIN PREP
+a	ART DET INDA
+deficit	NN
+perspective	NN
+.	
+Besides	PIN CAP SCONJ PREP
+that	DEMP DET
+,	
+their	TPP3 PRP SBJP
+vocabulary	JJ
+measure	NN
+could	POMD
+be	AUXB INF
+reflecting	GER PRIV PGAS
+the	ART DET
+children	NN
+talkativeness	JJ
+and	CCONJ
+not	XX0 RB
+her	TPP3 PRP SBJP
+actual	JJ
+vocabulary	JJ
+growth	NN
+.	
+Respect	NN CAP
+to	PIN PREP
+the	ART DET
+former	JJ
+,	
+maybe	RB HDG
+it	PIT PRP SBJP
+’s	VPRT
+true	JJ
+,	
+but	CCONJ
+Hart	CAP NNP
+and	PHC CCONJ
+Risley	CAP NNP
+reported	VBD PUBV
+quality	NOMZ
+interactions	NOMZ
+and	PHC CCONJ
+care	NN
+in	PIN CONJ PREP
+all	QUAN DET
+families	NN
+and	CCONJ
+every	QUAN DET
+child	NN
+was	BEMA VBD AUXB
+competent	JJ PRED
+,	
+at	PIN PREP
+age	NN
+3	NUM
+,	
+to	PIN TO PREP
+communicate	INF
+with	PIN PREP
+her	TPP3 PRP SBJP
+community	NOMZ
+members	NN
+.	
+Moreover	RB CONJ CAP
+,	
+differences	NN
+in	PIN CONJ PREP
+children	NN
+vocabulary	NN
+related	WZPAST
+with	PIN PREP
+socioeconomic	JJ
+status	NN
+were	PASS VBD BYPA SPAU AUXB
+n’t	RB
+found	PRIV
+only	DWNT RB
+by	PIN PREP
+Hart	CAP NNP
+and	PHC CCONJ
+Risley	CAP NNP
+and	ANDC CCONJ
+it	PIT PRP SBJP
+was	PASS VBD SPAU AUXB
+widely	RB
+acknowledged	PUBV
+before	PIN PREP
+this	DEMO DET
+study	NN
+(	
+e.	NNP
+g.	NNP
+Snow	CAP NNP
+,	
+1972)⁠.	NUM
+Regarding	CAP PGAS
+to	PIN PREP
+the	ART DET
+later	RB TIME
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+important	JJ PRED
+to	PIN TO PREP
+note	PRIV THATD INF
+that	DEMP WHCL WH
+evaluate	INF
+small	JJ
+children	NN
+’s	
+vocabulary	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+hard	JJ
+task	NN
+and	CCONJ
+other	JJ
+kinds	NN
+of	PIN PREP
+measures	NN
+have	VPRT
+its	PIT PRP SBJP
+own	JJ
+limitations	NOMZ
+.	
+Naturalistic	JJ CAP
+observation	NOMZ
+enables	VPRT
+the	ART DET
+researchers	NN
+to	PIN TO PREP
+hear	PRIV INF
+unusual	JJ
+words	NN
+to	PIN PREP
+the	ART DET
+general	JJ
+population	NOMZ
+which	WHSUB DET WH
+can	POMD
+be	AUXB INF
+,	
+despite	PIN SCONJ PREP
+that	DEMP DET
+,	
+common	JJ
+in	PIN CONJ PREP
+a	ART DET INDA
+specific	JJ
+family	NN
+or	CCONJ
+cultural	JJ
+group	NN
+.	
+Standardized	JJ CAP
+tests	NN
+can	POMD
+be	BEMA AUXB INF
+impossible	JJ PRED
+to	PIN TO PREP
+apply	INF
+in	PIN CONJ PREP
+younger	JJ CMADJ
+children	NN
+and	CCONJ
+do	VPRT SPAU
+n’t	RB
+show	PRIV INF
+this	DEMO DET
+words	NN
+.	
+  	
+More	RB EMPH CAP CMADJ
+recent	JJ
+studies	NN
+,	
+with	PIN PREP
+different	JJ
+methodological	JJ
+designs	NN
+,	
+bring	INF
+us	FPP1 PRP SBJP ACCU
+aditional	JJ
+information	NOMZ
+for	PIN PREP
+a	ART DET INDA
+better	JJ CMADJ
+understanding	GER PRIV
+of	PIN PREP
+environmental	JJ
+influences	NN
+on	PIN PREP
+language	NN
+development	NOMZ
+.	
+The	ART CAP DET
+notion	NOMZ
+that	PIN TSUB SCONJ PREP
+shared	
+reading	NN
+of	PIN PREP
+books	NN
+with	PIN PREP
+infants	NN
+stimulates	VPRT
+his	TPP3 PRP SBJP
+vocabulary	JJ
+acquisition	NOMZ
+is	BEMA VPRT AUXB
+virtually	RB
+a	ART DET INDA
+consensus	NN
+.	
+Mendelsohn	CAP NNP
+et	NNP
+al	NNP
+.	
+(	
+2018)⁠	NNP
+,	
+for	PIN PREP
+example	NN
+,	
+encouraged	JJ
+groups	NN
+of	PIN PREP
+brasilian	JJ
+parents	NN
+to	PIN TO PREP
+read	INF
+aloud	RB
+for	PIN PREP
+their	TPP3 PRP SBJP
+children	NN
+and	CCONJ
+found	VBD PRIV
+that	PIN THVC SCONJ PREP
+children	NN
+of	PIN PREP
+this	DEMP DET
+“	
+lectors	NN
+groups	NN
+”	
+presented	VBD
+higher	JJ CMADJ
+scores	NN
+of	PIN PREP
+receptive	JJ
+vocabulary	NN
+than	PIN PREP
+who	PIRE WH
+participate	VPRT
+in	PIN CONJ PREP
+a	ART DET INDA
+control	NN
+group	NN
+.	
+Burchinal	CAP NNP
+et	NNP
+al	NNP
+.	
+(	
+2000)⁠	NUM
+,	
+furthermore	RB CONJ
+,	
+showed	VBD PRIV THATD
+that	PIN DEMP SCONJ PREP
+receiving	PGAS
+high	JJ
+-	
+quality	NOMZ
+stimulation	NOMZ
+and	CCONJ
+care	INF
+in	PIN CONJ PREP
+a	ART DET INDA
+day	NN
+-	
+care	NN
+center	NN
+minimizes	VPRT
+risks	NN
+for	PIN PREP
+language	NN
+and	CCONJ
+cognitive	JJ
+development	NOMZ
+in	PIN CONJ PREP
+children	NN
+from	PIN PREP
+low	JJ
+stimulating	JJ
+environments	NOMZ
+.	
+Both	CAP DET
+studies	NN
+,	
+as	PIN CONJ PREP
+many	QUAN JJ
+others	NN
+,	
+show	VPRT PRIV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+’s	VPRT
+possible	JJ
+influence	NN
+vocabulary	JJ
+acquisition	NOMZ
+modifying	WZPRES PGAS
+the	ART DET
+language	NN
+stimuli	NN
+and	PHC CCONJ
+activities	NN
+which	WHOBJ DET WH
+children	NN
+are	PASS VPRT AUXB
+exposed	
+.	
+  	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+evidences	VPRT
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+’s	VPRT
+possible	JJ
+to	PIN TO PREP
+improve	INF
+oral	JJ
+language	NN
+development	NOMZ
+in	PIN CONJ PREP
+infants	NN
+and	PHC CCONJ
+toddlers	NN
+enriching	WZPRES PGAS
+her	TPP3 PRP SBJP
+immediate	JJ
+environment	NOMZ
+are	BEMA VPRT AUXB
+abundant	JJ PRED
+.	
+This	DEMO CAP DET
+improvement	NOMZ
+,	
+furthermore	RB CONJ
+,	
+is	VPRT AUXB
+often	RB
+and	CCONJ
+stable	JJ
+in	PIN CONJ PREP
+time	NN
+,	
+predicting	GER PUBV PGAS
+future	JJ
+academic	JJ
+achievements	NOMZ
+.	
+Consequently	RB CONJ CAP
+,	
+promoting	PRESP PGAS
+the	ART DET
+quality	NOMZ
+of	PIN PREP
+children	NN
+’s	
+initial	JJ
+environment	NOMZ
+,	
+whether	PIN SCONJ PREP
+through	PIN PREP
+policies	NN
+to	PIN TO PREP
+support	INF
+parenting	NN
+practices	NN
+in	PIN CONJ PREP
+home	NN
+or	CCONJ
+providing	PGAS
+quality	NOMZ
+child	NN
+-	
+cares	NN
+,	
+should	NEMD
+be	BEMA AUXB INF
+a	ART DET INDA
+priority	NOMZ
+for	PIN PREP
+politicians	NN
+,	
+educators	NN
+and	PHC CCONJ
+society	NN
+.	
+Encouraging	GER CAP PGAS
+storytelling	GER PGAS
+with	PIN PREP
+children	NN
+'s	
+books	NN
+,	
+conversations	NOMZ
+,	
+and	ANDC CCONJ
+singing	NN
+are	VPRT AUXB
+examples	NN
+of	PIN PREP
+simple	JJ
+,	
+inexpensive	JJ
+,	
+and	ANDC CCONJ
+effective	JJ
+prectices	NN
+to	PIN TO PREP
+promote	INF
+it	PIT PRP SBJP
+.	
+  	

@@ -1,0 +1,742 @@
+# filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0943.0548.txt
+token	tags
+﻿<CorIFA	NNP
+-	
+UFMG	CAP NNP
+-	
+B2.Ind	CAP NNP
+.	
+Ne	CAP NNP
+.	
+AEss.2017	CAP NNP
+-	
+1.0943.0548	NNP
+>	X
+  	
+<	X
+Can	POMD CAP
+The	ART CAP DET
+World	CAP NNP
+Get	CAP INF
+Along	RB CAP
+Without	PIN CAP PREP
+Natural	CAP NNP
+Resources	CAP NNP
+?	QUES
+>	X
+  	
+It	PIT CAP PRP SBJP
+is	PASS VPRT SPAU AUXB
+widely	RB
+agreed	PUBV SUAV
+that	PIN THVC SCONJ PREP
+the	ART DET
+well	RB
+-	
+known	PRIV
+classic	JJ
+work	NN
+of	PIN PREP
+Solow	CAP NNP
+(	
+1956	NUM
+)	
+and	ANDC CCONJ
+his	TPP3 PRP SBJP
+aggregate	JJ
+production	NOMZ
+function	NOMZ
+are	BEMA VPRT AUXB
+important	JJ PRED
+in	PIN CONJ PREP
+growth	NN
+theory	NN
+.	
+However	RB CONJ CAP
+,	
+Solow	CAP NNP
+’s	
+production	NOMZ
+function	NOMZ
+only	DWNT RB
+takes	VPRT
+into	PIN PREP
+account	NN
+the	ART DET
+inputs	NN
+capital	NN
+and	PHC CCONJ
+labor	NN
+.	
+This	DEMO CAP DET
+neoclassical	JJ
+production	NOMZ
+function	NOMZ
+is	BEMA VPRT AUXB
+a	ART DET INDA
+mathematically	RB
+clear	JJ
+way	NN
+of	PIN PREP
+saying	PUBV THATD PGAS
+that	PIN STPR DEMP SCONJ PREP
+‘	
+<	X
+the	ART DET
+world	NN
+can	POMD
+,	
+in	PIN CONJ PREP
+effect	NN
+,	
+get	INF
+along	PIN PREP
+without	PIN PREP
+natural	JJ
+resources	NN
+>	X
+’	
+(	
+Solow	CAP NNP
+,	
+1974	NUM
+)	
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+because	CAUS PIN SCONJ PREP
+Solow	CAP NNP
+'s	
+proposal	NN
+suggests	VPRT PUBV SUAV
+that	PIN THVC SCONJ PREP
+there	EX
+is	VPRT AUXB
+quite	DET
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+substitutability	NOMZ
+between	PIN PREP
+natural	JJ
+resources	NN
+and	PHC CCONJ
+capital	NN
+.	
+Based	PASTP CAP
+on	PIN PREP
+an	ART DET INDA
+example	NN
+that	TSUB WHSUB WH
+has	VPRT PEAS
+become	
+classic	JJ
+,	
+someone	QUPR INPR
+might	POMD
+think	PRIV INF
+:	
+is	VPRT AUXB
+it	PIT PRP SBJP
+possible	JJ
+to	PIN TO PREP
+make	INF
+a	ART DET INDA
+cake	NN
+without	PIN PREP
+ingredients	NN
+,	
+only	DWNT RB
+with	PIN PREP
+the	ART DET
+oven	NN
+and	PHC CCONJ
+cook	NN
+?	QUES
+Furthermore	RB CONJ CAP
+,	
+is	VPRT AUXB
+it	PIT PRP SBJP
+possible	JJ
+to	PIN TO PREP
+substitute	INF
+ingredients	NN
+for	PIN PREP
+ovens	NN
+?	QUES
+The	ART CAP DET
+problem	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+capital	NN
+and	CCONJ
+natural	JJ
+resources	NN
+(	
+or	CCONJ
+ovens	NN
+and	PHC CCONJ
+ingredients	NN
+)	
+are	VPRT AUXB
+not	XX0 RB
+substitutes	NN
+but	CCONJ
+complementary	JJ
+,	
+and	ANDC CCONJ
+any	QUAN DET
+theory	NN
+that	TSUB WHSUB WH
+does	VPRT SPAU
+not	XX0 RB
+consider	PRIV INF
+the	ART DET
+importance	NN
+of	PIN PREP
+natural	JJ
+resources	NN
+in	PIN CONJ PREP
+the	ART DET
+world	NN
+can	POMD SPAU
+not	XX0 RB
+be	AUXB INF
+,	
+in	PIN CONJ PREP
+fact	NN
+,	
+close	RB
+to	PIN PREP
+reality	NOMZ
+.	
+It	PIT CAP PRP SBJP
+will	PRMD
+be	PASS AUXB INF
+refuted	
+here	RB
+three	NUM
+justifications	NOMZ
+for	PIN PREP
+not	XX0 RB
+considering	GER PRIV PGAS
+natural	JJ
+resources	NN
+in	PIN CONJ PREP
+that	DEMO DET
+production	NOMZ
+function	NOMZ
+.	
+First	RB CAP
+,	
+the	ART DET
+justification	NOMZ
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+resources	NN
+are	VPRT AUXB
+not	XX0 RB
+really	RB EMPH
+scarce	JJ
+.	
+Second	RB CAP
+,	
+the	ART DET
+justification	NOMZ
+that	TOBJ WHOBJ WH
+natural	JJ
+resources	NN
+can	POMD
+be	PASS SPAU AUXB INF
+perfectly	AMP RB
+substituted	
+for	PIN PREP
+reproducible	JJ
+capital	NN
+.	
+Finally	RB CAP
+,	
+the	ART DET
+justification	NOMZ
+that	PIN TOBJ SCONJ PREP
+new	JJ
+technologies	NN
+would	PRMD
+provide	INF
+the	ART DET
+same	JJ
+amount	NN
+of	PIN PREP
+product	NN
+/	
+service	NN
+using	WZPRES PGAS
+fewer	JJ CMADJ
+inputs	NN
+.	
+ 	
+First	RB CAP
+,	
+Solow	CAP NNP
+’s	
+production	NOMZ
+function	NOMZ
+is	BEMA VPRT AUXB
+far	RB PLACE
+from	PIN PREP
+reality	NOMZ
+because	CAUS PIN SCONJ PREP
+Solow	CAP NNP
+(	
+1974	NUM
+)	
+does	VPRT SPAU
+not	XX0 RB
+believe	PRIV INF
+that	PIN THVC SCONJ PREP
+resources	NN
+are	BEMA VPRT AUXB
+in	PIN CONJ PREP
+fact	NN
+scarce	JJ
+.	
+Consequently	RB CONJ CAP
+,	
+they	TPP3 PRP SBJP
+should	NEMD
+stay	INF
+out	PIN PREP
+of	PIN PREP
+neoclassical	JJ
+production	NOMZ
+function	NOMZ
+.	
+Some	QUAN CAP DET
+,	
+in	PIN CONJ PREP
+fact	NN
+,	
+say	VPRT PUBV
+that	PIN THVC SCONJ PREP
+resources	NN
+are	VPRT AUXB
+not	XX0 RB
+really	RB EMPH
+scarce	JJ
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+Barnett	CAP NNP
+&	CCONJ
+Morse	CAP NNP
+(	
+1963	NUM
+)	
+disregarded	VBD
+the	ART DET
+resources	NN
+’	
+importance	NN
+when	RB WHSUB SCONJ WH
+saying	PUBV PGAS
+that	PIN THVC SCONJ PREP
+nature	NN
+imposes	VPRT
+particular	JJ CONJ
+scarcities	NN
+,	
+but	CCONJ
+not	XX0 RB
+an	ART DET INDA
+inescapable	JJ
+general	JJ
+scarcity	NOMZ
+.	
+Who	CAP WH
+believe	VPRT PRIV
+on	PIN PREP
+that	DEMO DET
+always	RB
+uses	VPRT
+the	ART DET
+example	NN
+of	PIN PREP
+air	NN
+as	PIN CONJ PREP
+a	ART DET INDA
+free	JJ
+good	NN
+.	
+However	RB CONJ CAP
+,	
+most	JJ EMPH SPADJ
+resources	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+free	JJ
+goods	NN
+and	ANDC CCONJ
+there	EX
+is	VPRT AUXB
+often	RB
+no	SYNE DET
+way	NN
+to	PIN TO PREP
+price	INF
+them	TPP3 PRP SBJP ACCU
+.	
+ 	
+Another	CAP DET
+reason	PRIV NN
+for	PIN PREP
+the	ART DET
+distance	NN
+to	PIN PREP
+reality	NOMZ
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+considered	PRIV
+by	PIN PREP
+Solow	CAP NNP
+(	
+1974	NUM
+)	
+that	PIN DEMO SCONJ PREP
+natural	JJ
+resources	NN
+can	POMD
+be	PASS SPAU AUXB INF
+perfectly	AMP RB
+substituted	
+.	
+On	PIN CAP PREP
+the	ART DET
+one	NUM
+hand	NN
+,	
+Solow	CAP NNP
+(	
+1974	NUM
+)	
+and	ANDC CCONJ
+Stiglitz	CAP NNP
+(	
+1979	NUM
+)	
+took	VBD
+into	PIN PREP
+account	NN
+,	
+in	PIN CONJ PREP
+their	TPP3 PRP SBJP
+production	NOMZ
+function	NOMZ
+the	ART DET
+productive	JJ
+inputs	NN
+capital	NN
+and	PHC CCONJ
+labor	NN
+only	DWNT RB
+;	
+with	PIN PREP
+the	ART DET
+justification	NOMZ
+that	DEMO WHOBJ WH
+capital	NN
+and	CCONJ
+natural	JJ
+resources	NN
+are	VPRT AUXB
+substitutes	NN
+in	PIN CONJ PREP
+some	QUAN DET
+way	NN
+.	
+On	PIN CAP PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+using	PGAS
+Georgescu	CAP NNP
+-	
+Roegen	CAP NNP
+(	
+1975	NUM
+,	
+1979	NUM
+)	
+,	
+Daly	CAP NNP
+(	
+1997	NUM
+)	
+showed	VBD PRIV
+the	ART DET
+need	NN
+to	PIN TO PREP
+take	INF
+natural	JJ
+resources	NN
+into	PIN PREP
+account	NN
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT BYPA AUXB
+considered	PRIV
+by	PIN PREP
+Georgescu	CAP NNP
+-	
+Roegen	CAP NNP
+(	
+1975	NUM
+,	
+1979	NUM
+)	
+and	ANDC CCONJ
+Daly	CAP NNP
+(	
+1997	NUM
+)	
+that	PIN THVC SCONJ PREP
+Solow	CAP NNP
+(	
+1956	NUM
+,	
+1974	NUM
+)	
+and	ANDC CCONJ
+Stiglitz	CAP NNP
+’s	
+(	
+1979	NUM
+)	
+proposal	NN
+does	VPRT SPAU
+not	XX0 RB
+deal	INF
+with	PIN PREP
+the	ART DET
+substitution	NOMZ
+of	PIN PREP
+exhaustible	JJ
+resources	NN
+by	PIN PREP
+renewable	JJ
+resources	NN
+,	
+as	PIN CONJ PREP
+Nordhaus	CAP NNP
+&	CCONJ
+Tobin	CAP NNP
+(	
+1972	NUM
+)	
+,	
+but	CCONJ
+rather	RB
+the	ART DET
+substitution	NOMZ
+of	PIN PREP
+resources	NN
+for	PIN PREP
+capital	NN
+.	
+The	ART CAP DET
+point	NN
+is	BEMA VPRT AUXB
+that	PIN DEMO SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+considered	PRIV
+by	PIN PREP
+many	QUAN JJ
+,	
+as	PIN CONJ PREP
+Georgescu	CAP NNP
+-	
+Roegen	CAP NNP
+(	
+1975	NUM
+,	
+1979	NUM
+)	
+and	ANDC CCONJ
+Daly	CAP NNP
+(	
+1997	NUM
+)	
+,	
+that	DEMO DET
+capital	NN
+and	PHC CCONJ
+resources	NN
+are	BEMA VPRT AUXB
+not	XX0 RB
+substitute	JJ
+,	
+but	CCONJ
+complementary	JJ
+.	
+ 	
+Finally	RB CAP
+,	
+neoclassical	JJ
+production	NOMZ
+function	NOMZ
+is	BEMA VPRT AUXB
+far	RB PLACE
+from	PIN PREP
+reality	NOMZ
+because	CAUS PIN SCONJ PREP
+Solow	CAP NNP
+(	
+1974	NUM
+)	
+argues	VPRT PUBV
+that	PIN THVC SCONJ PREP
+new	JJ
+technologies	NN
+would	PRMD
+provide	INF
+the	ART DET
+same	JJ
+amount	NN
+of	PIN PREP
+output	NN
+using	WZPRES PGAS
+less	JJ CMADJ
+input	NN
+.	
+Ayres	NN CAP
+(	
+1996	NUM
+)	
+defends	VPRT
+Solow	CAP NNP
+(	
+1974	NUM
+)	
+stating	PUBV PGAS
+that	PIN THVC SCONJ PREP
+in	PIN CONJ PREP
+the	ART DET
+future	NN
+,	
+economic	JJ
+system	NN
+will	PRMD SPAU
+no	RB
+longer	RB
+need	INF
+to	PIN TO PREP
+produce	INF
+significant	JJ
+quantity	NOMZ
+of	PIN PREP
+material	NN
+goods	NN
+.	
+If	COND PIN CAP SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+true	JJ PRED
+,	
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+absolute	JJ
+minimum	JJ
+finite	NNP
+input	NN
+required	SUAV WZPAST
+to	PIN TO PREP
+produce	INF
+one	NUM
+unit	NN
+of	PIN PREP
+welfare	NN
+.	
+Daly	CAP NNP
+(	
+1997	NUM
+)	
+shows	VPRT PRIV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+not	XX0 RB
+about	PIN PREP
+welfare	NN
+,	
+but	CCONJ
+even	RB
+about	PIN PREP
+physical	JJ
+production	NOMZ
+.	
+ 	
+In	PIN CONJ CAP PREP
+conclusion	NOMZ
+,	
+neoclassical	JJ
+production	NOMZ
+function	NOMZ
+and	CCONJ
+other	JJ
+points	NN
+of	PIN PREP
+view	NN
+should	NEMD
+be	PASS SPAU AUXB INF
+further	RB
+discussed	
+.	
+But	CAP CCONJ
+in	PIN CONJ PREP
+the	ART DET
+end	NN
+,	
+then	RB
+,	
+one	NUM
+thing	NN
+is	BEMA VPRT AUXB
+clear	JJ PRED
+:	
+in	PIN CONJ PREP
+order	SUAV NN
+to	PIN TO PREP
+avoid	INF
+it	PIT PRP SBJP
+to	PIN TO PREP
+be	BEMA AUXB INF
+mere	JJ
+paper	NN
+-	
+and	ANDC CCONJ
+-	
+pencil	NN
+operation	NOMZ
+,	
+some	QUAN DET
+should	NEMD
+at	PIN PREP
+least	JJ SPADJ
+include	INF
+natural	JJ
+resources	NN
+as	PIN CONJ PREP
+inputs	NN
+and	PHC CCONJ
+waste	NN
+as	PIN CONJ PREP
+one	NUM
+of	PIN PREP
+the	ART DET
+outputs	NN
+.	

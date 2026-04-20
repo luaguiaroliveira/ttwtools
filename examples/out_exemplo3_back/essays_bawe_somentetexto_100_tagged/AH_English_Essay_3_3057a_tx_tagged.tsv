@@ -1,0 +1,1736 @@
+# filename: AH_English_Essay_3_3057a_tx.txt
+token	tags
+Great	JJ CAP
+and	CCONJ
+Strong	CAP NNP
+does	VPRT SPAU
+not	XX0 RB
+fit	INF
+any	QUAN DET
+classical	JJ
+poem	NN
+'s	
+form	NN
+,	
+like	PIN PREP
+sonnets	NN
+.	
+It	PIT CAP PRP SBJP
+has	VPRT
+no	SYNE DET
+particular	JJ CONJ
+rhyming	PGAS
+schema	NN
+,	
+and	ANDC CCONJ
+no	SYNE DET
+regular	JJ
+metric	JJ
+pattern	NN
+.	
+However	RB CONJ CAP
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+full	JJ PRED
+of	PIN PREP
+sound	JJ
+effects	NN
+and	CCONJ
+other	JJ
+stylistic	JJ
+devices	NN
+conveying	WZPRES PUBV PGAS
+unexpected	JJ
+foregrounding	GER
+.	
+The	ART CAP DET
+poem	NN
+is	PASS VPRT AUXB
+composed	
+of	PIN PREP
+three	NUM
+sentences	NN
+of	PIN PREP
+unequal	JJ
+length	NN
+:	
+two	NUM
+very	AMP RB
+short	JJ
+ones	NN
+of	PIN PREP
+two	NUM
+and	CCONJ
+three	NUM
+lines	NN
+,	
+followed	PASTP
+by	PIN PREP
+the	ART DET
+very	AMP RB
+long	RB
+last	JJ
+one	NUM
+-	
+twenty	NUM
+one	NUM
+lines	NN
+.	
+However	RB CONJ CAP
+,	
+a	ART DET INDA
+decent	JJ
+analyse	NN
+should	NEMD SPAU
+not	XX0 RB
+be	PASS AUXB INF
+based	
+on	PIN PREP
+such	EMPH DET
+a	ART DET INDA
+division	NOMZ
+.	
+Even	RB CAP
+just	RB EMPH
+a	ART DET INDA
+glance	NN
+at	PIN PREP
+the	ART DET
+poem	NN
+allows	VPRT SUAV
+to	PIN TO PREP
+perceive	PRIV INF
+a	ART DET INDA
+typographic	JJ
+break	NN
+in	PIN CONJ PREP
+the	ART DET
+middle	NN
+of	PIN PREP
+the	ART DET
+poem	NNP
+(	
+l.14	NNP
+)	
+.	
+The	ART CAP DET
+lines	NN
+are	BEMA VPRT AUXB
+shorter	JJ PRED CMADJ
+.	
+Then	RB CAP
+,	
+reading	PRESP PGAS
+the	ART DET
+poem	NN
+(	
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	VPRT AUXB
+even	RB
+more	RB EMPH CMADJ
+obvious	JJ
+when	RB SCONJ WH
+listening	PGAS
+to	PIN PREP
+it	PIT PRP SBJP
+)	
+confirms	VPRT PUBV
+this	DEMO DET
+feeling	PRIV NN
+as	PIN CONJ PREP
+the	ART DET
+syntax	NN
+changes	NN
+;	
+that	DEMP DET
+is	VPRT AUXB
+why	RB SCONJ WH
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+interesting	JJ PRED
+to	PIN PREP
+analyse	NNP
+how	RB SCONJ WH
+each	QUAN DET
+part	NN
+works	VPRT
+,	
+starting	PGAS
+by	PIN PREP
+the	ART DET
+first	JJ
+one	NUM
+.	
+The	ART CAP DET
+beginning	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+looks	VPRT
+like	PIN PREP
+a	ART DET INDA
+narration	NOMZ
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+composed	
+of	PIN PREP
+short	JJ
+clauses	NN
+built	WZPAST
+on	PIN PREP
+simple	JJ
+structures	NN
+such	JJ
+as	PIN CONJ PREP
+subject	NN
++	CCONJ
+verb	NN
++	CCONJ
+complement	NOMZ
+.	
+There	EX CAP
+are	VPRT AUXB
+three	NUM
+occurrences	NN
+of	PIN PREP
+the	ART DET
+structure	NN
+"	QUOT
+he	TPP3 PRP SBJP
+was	VBD AUXB
+"	QUOT
++	CCONJ
+adjective	JJ
+(	
+l.2	UH
+,	
+6	NUM
+and	CCONJ
+7	NUM
+)	
+.	
+This	DEMP CAP DET
+is	BEMA VPRT AUXB
+typical	JJ PRED
+of	PIN PREP
+a	ART DET INDA
+narrative	JJ
+description	NOMZ
+of	PIN PREP
+a	ART DET INDA
+character	NN
+.	
+The	ART CAP DET
+latter	JJ
+is	PASS VPRT BYPA AUXB
+referred	
+to	PIN PREP
+by	PIN PREP
+the	ART DET
+personal	JJ
+pronoun	NN
+"	QUOT
+he	TPP3 PRP SBJP
+"	QUOT
+,	
+and	ANDC CCONJ
+only	DWNT RB
+once	RB TIME
+by	PIN PREP
+the	ART DET
+noun	NNP
+group	NN
+"	QUOT
+this	DEMO DET
+man	NN
+"	QUOT
+(	
+l.11	X
+)	
+.	
+The	ART CAP DET
+reader	NN
+is	PASS VPRT SPAU AUXB
+not	XX0 RB
+given	
+his	TPP3 PRP SBJP
+name	NN
+,	
+nor	CCONJ
+anything	QUPR INPR
+about	PIN PREP
+who	PIRE WH
+he	TPP3 PRP SBJP
+is	VPRT AUXB
+.	
+But	CAP CCONJ
+the	ART DET
+author	NN
+chose	VBD
+to	PIN TO PREP
+provide	INF
+the	ART DET
+reader	NN
+with	PIN PREP
+other	JJ
+kind	NN HDG
+of	PIN PREP
+information	NOMZ
+.	
+First	RB CAP
+,	
+let	INF
+us	FPP1 PRP SBJP ACCU
+examine	INF
+the	ART DET
+post	JJ
+-	JJ
+modifying	JJ
+adjectives	NN
+.	
+The	ART CAP DET
+first	JJ
+ones	NN
+l.2	PRP SBJP
+repeat	VPRT PUBV
+the	ART DET
+title	NN
+"	QUOT
+great	JJ
+and	PHC CCONJ
+strong	JJ
+"	QUOT
+.	
+It	PIT CAP PRP SBJP
+may	POMD
+refer	INF
+to	PIN PREP
+a	ART DET INDA
+biblical	JJ
+episode	NN
+:	
+Isaiah	CAP NNP
+27:1	VBD
+"	QUOT
+In	PIN CONJ CAP PREP
+that	DEMO DET
+day	NN
+the	ART DET
+LORD	CAP NNP
+with	PIN PREP
+his	TPP3 PRP SBJP
+sore	NN
+and	CCONJ
+great	JJ
+and	PHC CCONJ
+strong	JJ
+sword	NN
+shall	PRMD
+punish	INF
+leviathan	NN
+the	ART DET
+piercing	PGAS
+serpent	NN
+,	
+even	RB
+leviathan	VPRT
+that	PIN DEMP SCONJ PREP
+crooked	VBD
+serpent	NN
+.	
+"	QUOT
+King	CAP NNP
+James	CAP NNP
+Version	CAP NNP
+of	PIN PREP
+the	ART DET
+Bible	CAP NNP
+,	
+on	PIN PREP
+the	ART DET
+website	NN
+This	DEMO CAP DET
+intertextual	JJ
+reference	NN
+already	RB
+associates	VPRT
+him	TPP3 PRP SBJP ACCU
+with	PIN PREP
+a	ART DET INDA
+killing	JJ
+weapon	NN
+,	
+although	CONC PIN SCONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+positive	JJ
+adjectives	NN
+at	PIN PREP
+first	JJ
+sight	NN
+.	
+Another	CAP DET
+biblical	JJ
+allusion	NOMZ
+can	POMD
+be	PASS AUXB INF
+noticed	PRIV
+l.4	NN
+:	
+"	QUOT
+and	ANDC CCONJ
+went	VBD
+to	PIN TO PREP
+wash	INF
+his	TPP3 PRP SBJP
+hands	NN
+"	QUOT
+.	
+In	PIN CONJ CAP PREP
+Matthew	CAP NNP
+27:24	NUM
+"	QUOT
+When	RB CAP SCONJ WH
+Pilate	CAP NNP
+saw	VBD PRIV
+that	PIN THVC SCONJ PREP
+he	TPP3 PRP SBJP
+could	POMD
+prevail	INF
+nothing	INPR
+,	
+but	CCONJ
+that	PIN DEMO SCONJ PREP
+rather	RB
+a	ART DET INDA
+tumult	NN
+was	PASS VBD AUXB
+made	
+,	
+he	TPP3 PRP SBJP
+took	VBD
+water	NN
+,	
+and	ANDC CCONJ
+washed	VBD
+his	TPP3 PRP SBJP
+hands	NN
+before	PIN PREP
+the	ART DET
+multitude	NN
+,	
+saying	PUBV PGAS
+,	
+I	FPP1 CAP PRP SBJP
+am	BEMA VPRT AUXB
+innocent	JJ PRED
+of	PIN PREP
+the	ART DET
+blood	NN
+of	PIN PREP
+this	DEMO DET
+just	JJ EMPH
+person	NN
+:	
+see	PRIV INF
+ye	PRP SBJP
+to	PIN PREP
+it	PIT PRP SBJP
+.	
+"	QUOT
+Here	RB CAP
+,	
+the	ART DET
+insinuation	NOMZ
+is	VPRT AUXB
+even	RB
+more	RB EMPH CMADJ
+impressive	JJ
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+assimilates	VPRT
+him	TPP3 PRP SBJP ACCU
+to	PIN PREP
+the	ART DET
+religious	JJ
+symbol	NN
+of	PIN PREP
+human	JJ
+evil	NN
+and	CCONJ
+suggests	VPRT PUBV SUAV
+the	ART DET
+idea	NN
+of	PIN PREP
+execution	NOMZ
+and	PHC CCONJ
+blood	NN
+.	
+King	CAP NNP
+James	CAP NNP
+Version	CAP NNP
+of	PIN PREP
+the	ART DET
+Bible	CAP NNP
+,	
+ibid	INF
+The	ART CAP DET
+vision	NOMZ
+of	PIN PREP
+blood	NN
+is	BEMA VPRT AUXB
+predominant	JJ PRED
+through	PIN PREP
+subtle	JJ
+devices	NN
+such	JJ
+as	PIN CONJ PREP
+intertextuality	NOMZ
+,	
+but	CCONJ
+also	RB
+more	RB EMPH CMADJ
+obviously	RB
+thanks	NN
+to	PIN PREP
+the	ART DET
+anaphora	NN
+of	PIN PREP
+the	ART DET
+phrase	NN
+"	QUOT
+A	ART CAP DET INDA
+little	JJ
+blood	NN
+"	QUOT
+(	
+l.1	RB
+,	
+4	NUM
+and	CCONJ
+11	NUM
+)	
+which	SERE WHQU DET WH
+is	PASS VPRT BYPA AUXB
+uttered	
+by	PIN PREP
+the	ART DET
+character	NN
+.	
+Although	CONC PIN CAP SCONJ PREP
+there	EX
+is	VPRT AUXB
+no	DET
+inverted	
+commas	NN
+,	
+we	FPP1 PRP SBJP
+know	VPRT PRIV
+that	PIN THVC SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+direct	JJ
+speech	NN
+thanks	NN
+to	PIN PREP
+the	ART DET
+clause	NN
+"	QUOT
+he	TPP3 PRP SBJP
+said"(l.1	RB
+)	
+.	
+The	ART CAP DET
+pre	JJ
+-	JJ
+modifying	JJ
+adjective	JJ
+"	QUOT
+little	JJ
+"	QUOT
+in	PIN CONJ PREP
+an	ART DET INDA
+other	JJ
+context	NN
+would	PRMD
+tend	INF
+to	PIN TO PREP
+attenuate	INF
+the	ART DET
+morbid	JJ
+effect	NN
+,	
+but	CCONJ
+here	RB
+it	PIT PRP SBJP
+creates	VPRT
+an	ART DET INDA
+uncanny	JJ
+irony	NN
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	PASS VPRT BYPA AUXB
+uttered	
+by	PIN PREP
+that	DEMO DET
+perverse	JJ
+character	NN
+.	
+The	ART CAP DET
+direct	JJ
+speech	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+crucial	JJ
+feature	NN
+:	
+by	PIN PREP
+giving	PGAS
+voice	NN
+to	PIN PREP
+the	ART DET
+persona	NN
+,	
+the	ART DET
+author	NN
+provides	VPRT
+him	TPP3 PRP SBJP ACCU
+with	PIN PREP
+the	ART DET
+great	JJ
+power	NN
+of	PIN PREP
+speech	NN
+-	
+a	ART DET INDA
+power	NN
+that	TOBJ WHOBJ WH
+the	ART DET
+character	NN
+fully	AMP RB
+(	
+ab)uses	PRP SBJP
+upon	PIN STPR SCONJ PREP
+"	QUOT
+others	NN
+"	QUOT
+(	
+l.8	NNP
+)	
+.	
+The	ART CAP DET
+importance	NN
+of	PIN PREP
+speech	NN
+act	NNP
+and	CCONJ
+of	PIN PREP
+words	NN
+has	VPRT
+a	ART DET INDA
+metatextual	JJ
+function	NOMZ
+.	
+The	ART CAP DET
+author	NN
+uses	VPRT
+stylistic	JJ
+devices	NN
+to	PIN TO PREP
+foreground	INF
+some	QUAN DET
+aspects	NN
+of	PIN PREP
+his	TPP3 PRP SBJP
+poem	NN
+.	
+For	PIN CAP PREP
+instance	NN
+,	
+the	ART DET
+phonetic	JJ
+effects	NN
+of	PIN PREP
+sounds	NN
+are	BEMA VPRT AUXB
+strong	JJ PRED
+.	
+The	ART CAP DET
+sibilant	JJ
+/s/	NNP
+is	BEMA VPRT AUXB
+dominant	JJ PRED
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+lines	NN
+,	
+especially	RB
+at	PIN PREP
+the	ART DET
+end	NN
+of	PIN PREP
+words	NN
+which	WHSUB DET WH
+makes	VPRT
+the	ART DET
+hissing	PGAS
+last	RB
+:	
+"	QUOT
+more	RB EMPH HDG CMADJ
+or	CCONJ
+less	JJ CMADJ
+"	QUOT
+(	
+l.1	RB
+)	
+,	
+"	QUOT
+weakness	NOMZ
+"	QUOT
+(	
+l.3	NNP
+)	
+.	
+As	PIN CONJ CAP PREP
+the	ART DET
+poem	NN
+goes	VPRT
+on	PIN STPR PREP
+,	
+the	ART DET
+hissing	PGAS
+is	VPRT AUXB
+getting	PGAS
+louder	RB CMADJ
+with	PIN PREP
+the	ART DET
+voiced	
+sibilants	NN
+/z/	
+(	
+"	QUOT
+with	PIN PREP
+his	TPP3 PRP SBJP
+elbows	NN
+"	QUOT
+)	
+,	
+giving	PRESP PGAS
+an	ART DET INDA
+feeling	PRIV NN
+of	PIN PREP
+suspense	NN
+,	
+as	PIN CONJ PREP
+if	COND PIN SCONJ PREP
+something	QUPR INPR
+was	VBD AUXB
+going	PGAS
+to	PIN TO PREP
+happen	INF
+and	ANDC CCONJ
+it	PIT PRP SBJP
+was	VBD AUXB
+coming	PGAS
+closer	RB CMADJ
+.	
+This	DEMO CAP DET
+sensation	NOMZ
+seems	VPRT SMP
+to	PIN TO PREP
+become	INF
+real	JJ
+with	PIN PREP
+the	ART DET
+/r/	JJ
+alliteration	NOMZ
+in	PIN CONJ PREP
+different	JJ
+clusters	NN
+l.9	NNP
+and	CCONJ
+10	NUM
+(	
+"	QUOT
+air	NN
+...	
+transistors	NN
+crawled	VBD
+through	PIN PREP
+his	TPP3 PRP SBJP
+ears	NN
+"	QUOT
+)	
+.	
+Something	QUPR INPR CAP
+is	PASS VPRT AUXB
+bound	
+to	PIN TO PREP
+happen	INF
+,	
+and	ANDC CCONJ
+the	ART DET
+revelation	NOMZ
+of	PIN PREP
+this	DEMP DET
+"	QUOT
+thing	NN
+"	QUOT
+may	POMD
+be	PASS AUXB INF
+found	PRIV
+in	PIN CONJ PREP
+the	ART DET
+analyse	NN
+of	PIN PREP
+the	ART DET
+second	JJ
+part	NN
+.	
+The	ART CAP DET
+repetition	NOMZ
+of	PIN PREP
+the	ART DET
+same	JJ
+structure	NN
+from	PIN PREP
+line	NN
+14	NUM
+to	PIN TO PREP
+line	INF
+21	NUM
+is	BEMA VPRT AUXB
+very	AMP RB
+striking	JJ
+.	
+Each	QUAN CAP DET
+line	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+post	JJ
+-	JJ
+modifying	JJ
+clause	NN
+referring	WZPRES PGAS
+to	PIN STPR PREP
+"	QUOT
+he	TPP3 PRP SBJP
+"	QUOT
+(	
+l.13	NNP
+)	
+,	
+constructed	PASTP
+on	PIN PREP
+the	ART DET
+basis	NN
+:	
+"	QUOT
+Clean	JJ CAP
+as	PIN CONJ PREP
+the	ART DET
+X	NN CAP
+of	PIN STPR PREP
+(	
+replaced	PASTP
+by	PIN STPR PREP
+"	QUOT
+that	PIN STPR DEMP SCONJ PREP
+"	QUOT
+l.17	JJ
+)	
+Y	CAP NNP
+"	QUOT
+except	PIN SCONJ PREP
+line	NN
+19	NUM
+,	
+which	SERE DET WH
+deviates	VPRT
+as	PIN CONJ STPR PREP
+"	QUOT
+Clean	CAP NNP
+"	QUOT
+is	PASS VPRT BYPA AUXB
+substituted	
+by	PIN STPR PREP
+"	QUOT
+Pure	JJ CAP
+"	QUOT
+,	
+whose	DET WH
+function	NOMZ
+(	
+adjective	NN
+)	
+and	ANDC CCONJ
+meaning	PRIV NN
+are	BEMA VPRT AUXB
+identical	JJ PRED
+,	
+but	CCONJ
+it	PIT PRP SBJP
+creates	VPRT
+a	ART DET INDA
+different	JJ
+sound	JJ
+effect	NN
+,	
+as	PIN CONJ PREP
+we	FPP1 PRP SBJP
+shall	PRMD
+see	PRIV INF
+later	RB TIME
+.	
+Thus	RB CONJ CAP
+,	
+each	QUAN DET
+line	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+simile	NN
+that	TSUB WHSUB WH
+provides	VPRT
+a	ART DET INDA
+new	JJ
+facet	NN
+concerning	GER WZPRES PGAS
+"	QUOT
+this	DEMO DET
+man	NN
+"	QUOT
+(	
+l.11	X
+)	
+,	
+comparing	PRESP PGAS
+him	TPP3 PRP SBJP ACCU
+to	PIN PREP
+various	JJ
+things	NN
+.	
+We	FPP1 CAP PRP SBJP
+can	POMD
+apply	INF
+Short	CAP NNP
+'s	
+parallelism	NN
+rule	SUAV NN
+to	PIN TO PREP
+analyse	INF
+these	DEMP DET
+"	QUOT
+things	NN
+"	QUOT
+he	TPP3 PRP SBJP
+is	PASS VPRT AUXB
+compared	
+to	PIN STPR PREP
+:	
+X	NN CAP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+common	JJ
+noun	NN
+,	
+and	ANDC CCONJ
+its	PIT PRP SBJP
+meaning	PRIV NN
+is	PASS VPRT SPAU AUXB
+often	RB
+linked	
+to	PIN PREP
+the	ART DET
+body	NN
+(	
+"	QUOT
+anatomy	NN
+"	QUOT
+,	
+"	QUOT
+hands	NN
+"	QUOT
+,	
+etc	X
+.	X
+)	
+;	
+the	ART DET
+same	JJ
+lexical	JJ
+field	NN
+was	BEMA VBD AUXB
+already	RB
+present	JJ
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+(	
+"	QUOT
+hands	NN
+"	QUOT
+,	
+"	QUOT
+elbows	VPRT
+"	QUOT
+,	
+fists	NN
+"	QUOT
+)	
+.	
+Y	CAP NNP
+is	BEMA VPRT AUXB
+another	DET
+common	JJ
+noun	NN
+(	
+or	CCONJ
+proper	JJ
+noun	NN
+in	PIN CONJ PREP
+l.19	NN
+)	
+whose	DET WH
+meaning	PRIV NN
+refers	VPRT
+to	PIN PREP
+death	NN
+,	
+destruction	NOMZ
+,	
+homicide	NN
+.	
+The	ART CAP DET
+similes	NN
+define	VPRT
+him	TPP3 PRP SBJP ACCU
+as	PIN CONJ PREP
+a	ART DET INDA
+murderer	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+less	RB CMADJ
+subtle	JJ
+and	CCONJ
+more	RB EMPH CMADJ
+outstanding	JJ
+way	NN
+than	PIN PREP
+the	ART DET
+allusions	NOMZ
+found	PRIV WZPAST
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+part	NN
+.	
+This	DEMO CAP DET
+effect	NN
+is	PASS VPRT AUXB
+achieved	
+on	PIN PREP
+one	NUM
+hand	NN
+thanks	NN
+to	PIN PREP
+the	ART DET
+irony	NN
+on	PIN PREP
+the	ART DET
+association	NOMZ
+of	PIN PREP
+two	NUM
+words	NN
+of	PIN PREP
+opposite	JJ PIN PREP
+meaning	PRIV NN
+(	
+"	QUOT
+clean	JJ
+"	QUOT
+versus	PIN PREP
+images	NN
+of	PIN PREP
+blood	NN
+)	
+;	
+on	PIN PREP
+the	ART DET
+other	JJ
+hand	NN
+,	
+thanks	NN
+to	PIN PREP
+the	ART DET
+phonetic	JJ
+patterns	NN
+of	PIN PREP
+the	ART DET
+passage	NN
+that	PIN TOBJ SCONJ PREP
+we	FPP1 PRP SBJP
+shall	PRMD
+describe	INF
+now	RB TIME
+.	
+Short	JJ CAP
+,	
+M.	CAP NNP
+Exploring	WZPRES CAP PGAS
+the	ART DET
+language	NN
+of	PIN PREP
+poems	NN
+,	
+plays	NN
+and	CCONJ
+prose	INF
+,	
+1996	NUM
+,	
+p.14	NNP
+The	ART CAP DET
+/k/	NN
+alliteration	NOMZ
+in	PIN CONJ PREP
+the	ART DET
+first	JJ
+line	NN
+of	PIN PREP
+the	ART DET
+second	JJ
+part	NN
+(	
+l.13	NNP
+)	
+is	BEMA VPRT AUXB
+very	AMP RB
+salient	JJ
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+on	PIN PREP
+syllable	JJ
+-	
+initial	JJ
+sounds	NN
+.	
+This	DEMO CAP DET
+consonance	NN
+is	PASS VPRT AUXB
+echoed	
+l.16	NNP
+and	CCONJ
+l.19	NN
+:	
+"	QUOT
+C	CAP NNP
+lean	INF
+as	PIN CONJ PREP
+the	ART DET
+c	NNP
+onscience	NN
+of	PIN PREP
+a	ART DET INDA
+g	JJ
+un	NN
+"	QUOT
+,	
+"	QUOT
+...	
+of	PIN PREP
+G	CAP NNP
+en	PIN PREP
+g	PIN PREP
+his	TPP3 PRP SBJP
+K	CAP NNP
+han	NNP
+"	QUOT
+.	
+Its	PIT CAP PRP SBJP
+effect	NN
+is	PASS VPRT AUXB
+reinforced	
+since	OSUB PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+velar	JJ
+plosive	NN
+,	
+stressed	VBD
+in	PIN CONJ PREP
+most	JJ EMPH SPADJ
+occurrences	NN
+and	CCONJ
+also	RB
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+same	JJ
+sound	NN
+that	TSUB WHSUB WH
+initiates	VPRT
+the	ART DET
+word	NN
+"	QUOT
+C	CAP NNP
+lean	NN
+"	QUOT
+which	SERE WHQU DET WH
+is	PASS VPRT AUXB
+repeated	PUBV
+through	PIN PREP
+this	DEMO DET
+passage	NN
+.	
+These	DEMO CAP DET
+cutting	NN
+sounds	NN
+can	POMD
+be	PASS AUXB INF
+interpreted	
+as	PIN CONJ PREP
+the	ART DET
+expression	NOMZ
+of	PIN PREP
+the	ART DET
+destructive	JJ
+violence	NN
+of	PIN PREP
+that	DEMO DET
+man	NN
+.	
+The	ART CAP DET
+nasals	NN
+are	BEMA VPRT AUXB
+also	RB
+prominent	JJ
+in	PIN CONJ PREP
+this	DEMO DET
+passage	NN
+;	
+there	EX
+is	VPRT AUXB
+a	EMPH ART DET INDA
+lot	NN
+of	PIN PREP
+/m/	NN
+and	CCONJ
+/n/	NNP
+in	PIN CONJ PREP
+these	DEMO DET
+lines	NN
+,	
+and	ANDC CCONJ
+some	QUAN DET
+/ŋ/	PIN PREP
+too	RB
+:	
+"	QUOT
+Clea	CAP NNP
+n	RB
+as	PIN CONJ PREP
+the	ART DET
+a	ART DET INDA
+n	X
+ato	NNP
+m	NNP
+y	NNP
+of	PIN PREP
+a	ART DET INDA
+hye	NN
+n	CCONJ
+a	ART DET INDA
+"	QUOT
+(	
+l.15	NNP
+)	
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+also	RB
+present	JJ
+in	PIN CONJ PREP
+the	ART DET
+repeated	PUBV
+"	QUOT
+Clea	CAP NNP
+n	RB
+"	QUOT
+.	
+Line	NN CAP
+19	NUM
+introduces	VPRT
+the	ART DET
+bilabial	JJ
+plosive	NN
+/p/	NN
+in	PIN CONJ PREP
+a	ART DET INDA
+conspicuous	JJ
+manner	NN
+-	
+"	QUOT
+Pure	JJ CAP
+"	QUOT
+is	PASS VPRT AUXB
+foregrounded	
+as	PIN CONJ PREP
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+only	JJ DWNT
+line	NN
+where	RB WHOBJ SCONJ WH
+"	QUOT
+Clean	CAP NNP
+"	QUOT
+is	PASS VPRT BYPA AUXB
+replaced	
+by	PIN PREP
+another	DET
+adjective	NN
+.	
+It	PIT CAP PRP SBJP
+is	PASS VPRT AUXB
+echoed	
+in	PIN CONJ PREP
+the	ART DET
+cluster	NN
+heard	PRIV WZPAST
+in	PIN CONJ PREP
+the	ART DET
+sound	NN
+pair	NN
+"	QUOT
+sp	NN
+erm"/	NN
+"	QUOT
+sp	NN
+ore	NN
+"	QUOT
+.	
+This	DEMO CAP DET
+echo	NN
+ironically	RB
+emphasizes	VPRT
+the	ART DET
+semantic	JJ
+antagonism	NN
+between	PIN PREP
+the	ART DET
+adjective	JJ
+(	
+idea	NN
+of	PIN PREP
+purity	NOMZ
+)	
+and	ANDC CCONJ
+the	ART DET
+noun	NN
+it	PIT PRP SBJP
+refers	VPRT
+to	PIN STPR PREP
+(	
+sense	PRIV NN
+of	PIN PREP
+death	NN
+and	PHC CCONJ
+blood	NN
+)	
+.	
+Toward	PIN CAP PREP
+the	ART DET
+end	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+,	
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+worthy	JJ PRED
+to	PIN TO PREP
+note	PRIV INF
+the	ART DET
+shift	NN
+from	PIN PREP
+/p/	NNP
+to	PIN PREP
+/b/	NNP
+alliteration	NOMZ
+:	
+"	QUOT
+b	NNP
+are	VPRT AUXB
+b	NNP
+ehind	NN
+"	QUOT
+,	
+"	QUOT
+b	NNP
+ent"/	NNP
+"	QUOT
+b	NNP
+owed	
+"	QUOT
+.	
+They	TPP3 CAP PRP SBJP
+are	BEMA VPRT AUXB
+both	DET
+bilabial	JJ
+plosives	NN
+but	CCONJ
+/b/	
+is	PASS VPRT AUXB
+voiced	
+whereas	OSUB PIN SCONJ PREP
+/p/	PRP SBJP
+is	BEMA VPRT AUXB
+unvoiced	JJ PRED
+.	
+Again	RB TIME CAP
+,	
+the	ART DET
+effect	NN
+is	PASS VPRT BYPA AUXB
+underpinned	
+by	PIN PREP
+the	ART DET
+fact	NN
+that	PIN TOBJ SCONJ PREP
+the	ART DET
+consonance	NN
+is	BEMA VPRT AUXB
+on	PIN PREP
+syllable	JJ
+-	
+initials	NN
+and	ANDC CCONJ
+it	PIT PRP SBJP
+is	BEMA VPRT AUXB
+the	ART DET
+first	JJ
+sound	NN
+of	PIN PREP
+the	ART DET
+word	NN
+"	QUOT
+b	NNP
+lood	NN
+"	QUOT
+.	
+As	PIN CONJ CAP PREP
+we	FPP1 PRP SBJP
+said	VBD PUBV
+before	RB
+,	
+the	ART DET
+vision	NOMZ
+of	PIN PREP
+blood	NN
+is	BEMA VPRT AUXB
+overwhelming	JJ PRED
+in	PIN CONJ PREP
+the	ART DET
+poem	NN
+.	
+This	DEMP CAP DET
+is	PASS VPRT AUXB
+proved	PRIV
+again	RB TIME
+through	PIN PREP
+the	ART DET
+presence	NN
+of	PIN PREP
+an	ART DET INDA
+unusual	JJ
+lexis	NN
+.	
+We	FPP1 CAP PRP SBJP
+already	RB
+noticed	VBD PRIV
+the	ART DET
+morbid	JJ
+connotation	NOMZ
+of	PIN PREP
+the	ART DET
+words	NN
+in	PIN CONJ PREP
+the	ART DET
+Y	CAP NNP
+place	NN
+:	
+"	QUOT
+gun	NN
+"	QUOT
+,	
+"	QUOT
+slaughter	NN
+-	
+house	NN
+"	QUOT
+,	
+etc	X
+.	X
+More	RB EMPH CAP CMADJ
+arresting	JJ
+is	BEMA VPRT AUXB
+the	ART DET
+use	NN
+of	PIN PREP
+the	ART DET
+word	NN
+"	QUOT
+tampons	NN
+"	QUOT
+,	
+almost	DWNT RB
+never	RB
+used	
+in	PIN CONJ PREP
+poetry	NN
+.	
+The	ART CAP DET
+parallelism	NN
+between	PIN PREP
+l.22	PRP SBJP
+and	CCONJ
+l.23	NN
+enables	VPRT
+the	ART DET
+reader	NN
+to	PIN TO PREP
+link	INF
+"	QUOT
+the	ART DET
+tampons	NN
+"	QUOT
+with	PIN STPR PREP
+"	QUOT
+all	QUAN DET
+"	QUOT
+.	
+The	ART CAP DET
+effect	NN
+would	PRMD
+have	PEAS INF
+been	PASS AUXB
+attenuated	
+if	COND PIN SCONJ PREP
+he	TPP3 PRP SBJP
+had	VBD PEAS
+used	
+another	DET
+word	NN
+;	
+for	PIN PREP
+example	NN
+:	
+"	QUOT
+People	NN CAP
+bent	VPRT
+their	TPP3 PRP SBJP
+heads	NN
+,	
+They	TPP3 CAP PRP SBJP
+bowed	VBD
+to	PIN PREP
+him	TPP3 PRP SBJP ACCU
+"	QUOT
+.	
+Using	PRESP CAP PGAS
+a	ART DET INDA
+personal	JJ
+pronoun	NN
+like	PIN STPR PREP
+"	QUOT
+they	TPP3 PRP SBJP
+"	QUOT
+would	PRMD
+be	BEMA AUXB INF
+neutral	JJ PRED
+,	
+with	PIN PREP
+no	SYNE DET
+particular	JJ CONJ
+connotation	NOMZ
+.	
+But	CAP CCONJ
+the	ART DET
+association	NOMZ
+of	PIN STPR PREP
+"	QUOT
+all	QUAN DET
+"	QUOT
+with	PIN STPR PREP
+"	QUOT
+tampons	NN
+"	QUOT
+is	BEMA VPRT AUXB
+very	AMP RB
+meaningful	JJ
+because	CAUS PIN SCONJ PREP
+it	PIT PRP SBJP
+reveals	VPRT PRIV
+the	ART DET
+narrator	NN
+'s	
+(	
+and	ANDC CCONJ
+certainly	RB
+the	ART DET
+writer	NN
+'s	
+)	
+aversion	NOMZ
+towards	PIN PREP
+people	NN
+'s	
+blind	JJ
+acceptance	NN
+and	PHC CCONJ
+support	NN
+for	PIN PREP
+the	ART DET
+almighty	JJ
+murderer	NN
+.	
+The	ART CAP DET
+last	JJ
+aspect	NN
+that	TSUB WHSUB WH
+highlights	VPRT
+the	ART DET
+word	NN
+"	QUOT
+blood	NN
+"	QUOT
+is	BEMA VPRT AUXB
+the	ART DET
+typography	NN
+of	PIN PREP
+the	ART DET
+poem	NN
+.	
+The	ART CAP DET
+penultimate	NN
+line	NN
+is	PASS VPRT AUXB
+composed	
+of	PIN PREP
+only	DWNT RB
+one	NUM
+word	NN
+"	QUOT
+wept	VBD
+"	QUOT
+,	
+verb	INF
+whose	WHQU DET WH
+subject	NN
+is	VPRT AUXB
+"	QUOT
+a	ART DET INDA
+little	JJ
+blood	NN
+"	QUOT
+(	
+end	NN
+of	PIN PREP
+the	ART DET
+previous	JJ
+line	NN
+)	
+.	
+This	DEMO CAP DET
+particular	JJ CONJ
+typography	NN
+represents	VPRT
+the	ART DET
+image	NN
+of	PIN PREP
+a	ART DET INDA
+tear	NN
+(	
+of	PIN PREP
+blood	NN
+)	
+falling	PRESP PGAS
+down	RB
+,	
+a	ART DET INDA
+single	JJ
+word	NN
+for	PIN PREP
+a	ART DET INDA
+single	JJ
+drop	NN
+(	
+"	QUOT
+only	DWNT RB
+a	ART DET INDA
+little	JJ
+"	QUOT
+)	
+,	
+that	THVC WH
+crushes	NN
+and	CCONJ
+spread	VBD
+into	PIN PREP
+three	NUM
+words	NN
+on	PIN PREP
+the	ART DET
+line	NN
+below	PIN PLACE STPR PREP
+"	QUOT
+on	PIN PREP
+the	ART DET
+ground	NN
+"	QUOT
+.	
+The	ART CAP DET
+impact	NN
+of	PIN PREP
+these	DEMO DET
+last	JJ
+lines	NN
+is	BEMA VPRT AUXB
+as	PIN CONJ PREP
+moving	SUAV PGAS
+as	PIN CONJ PREP
+the	ART DET
+whole	JJ
+poem	NN
+,	
+which	SERE WHQU DET WH
+can	POMD
+be	PASS AUXB INF
+compared	
+to	PIN PREP
+the	ART DET
+persona	NN
+,	
+for	PIN PREP
+both	DET
+are	BEMA VPRT AUXB
+powerful	JJ PRED
+and	CCONJ
+takes	VPRT
+the	ART DET
+breath	NN
+away	RB PLACE
+.	

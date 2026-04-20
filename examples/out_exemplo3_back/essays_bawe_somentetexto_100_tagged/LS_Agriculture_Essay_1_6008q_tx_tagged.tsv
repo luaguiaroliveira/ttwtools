@@ -1,0 +1,1151 @@
+# filename: LS_Agriculture_Essay_1_6008q_tx.txt
+token	tags
+Perfect	JJ CAP
+competition	NOMZ
+arises	VPRT
+when	RB SCONJ WH
+1	NUM
+.	NUM
+)	
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+firms	NN
+,	
+each	QUAN DET
+selling	PGAS
+an	ART DET INDA
+identical	JJ
+product	NN
+2	NUM
+.	
+)	
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+buyers	NN
+3	NUM
+.	
+)	
+there	EX
+are	VPRT AUXB
+no	SYNE DET
+restrictions	NOMZ
+on	PIN PREP
+entry	NN
+into	PIN PREP
+the	ART DET
+industry	NN
+4	NUM
+.	
+)	
+firms	NN
+and	PHC CCONJ
+buyers	NN
+are	PASS VPRT SPAU AUXB
+completely	AMP RB
+informed	
+about	PIN PREP
+the	ART DET
+prices	NN
+of	PIN PREP
+the	ART DET
+products	NN
+of	PIN PREP
+each	QUAN DET
+firm	NN
+in	PIN CONJ PREP
+the	ART DET
+industry	NN
+Monopoly	CAP NNP
+arises	VPRT
+when	RB SCONJ WH
+there	EX
+is	VPRT AUXB
+only	DWNT RB
+one	NUM
+firm	NN
+and	ANDC CCONJ
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+close	JJ
+substitute	NN
+there	EX
+are	VPRT AUXB
+many	QUAN JJ
+buyers	NN
+there	EX
+are	VPRT AUXB
+barriers	NN
+to	PIN PREP
+entry	NN
+incomplete	JJ
+information	NOMZ
+Firms	NN CAP
+in	PIN CONJ PREP
+perfect	JJ
+competition	NOMZ
+are	PASS VPRT AUXB
+said	PUBV
+to	PIN TO PREP
+be	AUXB INF
+price	NN
+takers	NN
+,	
+i.e.	CONJ X
+they	TPP3 PRP SBJP
+can	POMD SPAU
+not	XX0 RB
+influence	INF
+the	ART DET
+price	NN
+of	PIN PREP
+a	ART DET INDA
+good	JJ
+or	CCONJ
+service	NN
+.	
+Perfectly	AMP RB CAP
+competitive	JJ
+firms	NN
+are	VPRT AUXB
+price	NN
+takers	NN
+because	CAUS PIN SCONJ PREP
+each	QUAN DET
+firm	NN
+produces	VPRT
+a	ART DET INDA
+tiny	JJ
+fraction	NOMZ
+of	PIN PREP
+the	ART DET
+total	JJ
+output	NN
+of	PIN PREP
+a	ART DET INDA
+particular	JJ CONJ
+good	NN
+and	PHC CCONJ
+buyers	NN
+are	BEMA VPRT AUXB
+well	RB
+informed	JJ
+about	PIN PREP
+the	ART DET
+prices	NN
+of	PIN PREP
+other	JJ
+firms	NN
+.	
+However	RB CONJ CAP
+,	
+monopolies	NN
+can	POMD
+charge	INF
+whatever	DET WH
+they	TPP3 PRP SBJP
+like	VPRT
+as	PIN CONJ PREP
+they	TPP3 PRP SBJP
+are	BEMA VPRT AUXB
+the	ART DET
+only	JJ DWNT
+firm	NN
+which	WHSUB DET WH
+provides	VPRT
+that	PIN DEMO SCONJ PREP
+good	JJ
+or	CCONJ
+service	NN
+.	
+In	PIN CONJ CAP PREP
+perfect	JJ
+competition	NOMZ
+,	
+price	NN
+is	BEMA VPRT AUXB
+independent	JJ PRED
+of	PIN PREP
+the	ART DET
+quantity	NOMZ
+sold	
+and	ANDC CCONJ
+so	RB
+the	ART DET
+change	NN
+in	PIN CONJ PREP
+total	JJ
+revenue	NN
+resulting	WZPRES PGAS
+from	PIN PREP
+a	ART DET INDA
+one	NUM
+-	
+unit	NN
+increase	NN
+in	PIN CONJ PREP
+the	ART DET
+quantity	NOMZ
+sold	
+equals	VPRT
+price	NN
+.	
+Therefore	RB CONJ CAP
+marginal	JJ
+revenue	NN
+equals	VPRT
+price	NN
+and	CCONJ
+marginal	JJ
+revenue	NN
+does	VPRT SPAU
+not	XX0 RB
+vary	INF
+with	PIN PREP
+quantity	NOMZ
+.	
+Also	RB CAP
+,	
+the	ART DET
+demand	SUAV NN
+curve	NN
+for	PIN PREP
+individual	JJ
+firm	NN
+is	BEMA VPRT AUXB
+horizontal	JJ PRED
+,	
+i.e.	CONJ X
+perfectly	AMP RB
+elastic	JJ
+,	
+as	PIN CONJ PREP
+the	ART DET
+firm	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+price	NN
+taker	NN
+.	
+However	RB CONJ CAP
+,	
+the	ART DET
+market	NN
+demand	SUAV NN
+curve	NN
+for	PIN PREP
+the	ART DET
+entire	JJ
+industry	NN
+is	BEMA VPRT AUXB
+downward	JJ
+slopping	NN
+.	
+The	ART CAP DET
+monopoly	NN
+faces	VPRT
+the	ART DET
+downward	JJ
+slopping	NN
+demand	SUAV NN
+curve	NN
+too	RB
+.	
+This	DEMP CAP DET
+means	VPRT PRIV
+price	NN
+changes	NN
+as	PIN CONJ PREP
+quantity	NOMZ
+changes	NN
+and	CCONJ
+marginal	JJ
+revenue	NN
+will	PRMD
+be	BEMA AUXB INF
+less	JJ PRED CMADJ
+than	PIN PREP
+price	NN
+.	
+In	PIN CONJ CAP PREP
+perfect	JJ
+competition	NOMZ
+,	
+firm	NN
+'s	
+supply	NN
+curve	NN
+is	PASS VPRT AUXB
+based	
+on	PIN PREP
+the	ART DET
+marginal	JJ
+cost	NN
+curve	NN
+.	
+The	ART CAP DET
+industry	NN
+supply	NN
+curve	NN
+is	BEMA VPRT AUXB
+the	ART DET
+sum	NN
+of	PIN PREP
+the	ART DET
+firm	NN
+'s	
+supply	NN
+/	
+marginal	JJ
+cost	NN
+curves	NN
+.	
+For	PIN CAP PREP
+monopoly	NN
+,	
+the	ART DET
+industry	NN
+supply	NN
+curve	NN
+becomes	VPRT
+the	ART DET
+marginal	JJ
+cost	NN
+curve	NN
+of	PIN PREP
+the	ART DET
+firm	NN
+.	
+Let	CAP INF
+us	FPP1 PRP SBJP ACCU
+see	PRIV INF
+the	ART DET
+diagram	NN
+below	RB PLACE
+,	
+S	CAP NNP
+:	
+industry	NN
+supply	NN
+curve	NN
+MC	CAP NNP
+:	
+marginal	JJ
+cost	NN
+curve	NN
+D	NN CAP
+:	
+industry	NN
+market	NN
+demand	SUAV NN
+curve	NN
+MR	CAP NNP
+:	
+marginal	JJ
+revenue	NN
+curve	NN
+Q	CAP NNP
+C	NN CAP
+:	
+quantity	NOMZ
+produced	WZPAST
+by	PIN PREP
+the	ART DET
+perfectly	AMP RB
+competitive	JJ
+industry	NN
+Q	CAP NNP
+M	NN CAP
+:	
+quantity	NOMZ
+produced	WZPAST
+by	PIN PREP
+the	ART DET
+monopoly	NN
+P	NN CAP
+C	NN CAP
+:	
+price	NN
+set	WZPAST
+by	PIN PREP
+the	ART DET
+competitive	JJ
+industry	NN
+P	NN CAP
+M	CAP NUM
+:	
+price	NN
+set	WZPAST
+by	PIN PREP
+the	ART DET
+monopoly	NN
+P	NN CAP
+A	NN CAP
+:	
+highest	JJ SPADJ
+price	NN
+charged	WZPAST
+In	PIN CONJ CAP PREP
+perfect	JJ
+competition	NOMZ
+,	
+the	ART DET
+market	NN
+equilibrium	NN
+occurs	VPRT
+where	RB SCONJ WH
+the	ART DET
+supply	NN
+curve	NN
+and	CCONJ
+the	ART DET
+demand	SUAV NN
+curve	NN
+intersect	JJ
+.	
+Each	QUAN CAP DET
+firm	NN
+takes	VPRT
+the	ART DET
+price	NN
+P	NN CAP
+C	NN CAP
+and	CCONJ
+maximizes	VPRT
+its	PIT PRP SBJP
+profit	NN
+by	PIN PREP
+producing	PGAS
+the	ART DET
+output	NN
+at	PIN PREP
+which	PIRE DET WH
+its	PIT PRP SBJP
+own	JJ
+marginal	JJ
+cost	NN
+equals	VPRT
+the	ART DET
+price	NN
+.	
+As	PIN CONJ CAP PREP
+each	QUAN DET
+firm	NN
+is	BEMA VPRT AUXB
+a	ART DET INDA
+small	JJ
+part	NN
+of	PIN PREP
+the	ART DET
+total	JJ
+industry	NN
+,	
+there	EX
+is	VPRT AUXB
+no	SYNE DET
+incentive	NN
+for	PIN PREP
+any	QUAN DET
+firm	NN
+to	PIN TO PREP
+try	INF
+to	PIN TO PREP
+manipulate	INF
+the	ART DET
+price	NN
+by	PIN PREP
+varying	PGAS
+its	PIT PRP SBJP
+output	NN
+.	
+If	COND PIN CAP SCONJ PREP
+the	ART DET
+industry	NN
+is	PASS VPRT AUXB
+monopolized	
+,	
+the	ART DET
+industry	NN
+supply	NN
+curve	NN
+becomes	VPRT
+the	ART DET
+MC	CAP NNP
+curve	NN
+of	PIN PREP
+the	ART DET
+firm	NN
+.	
+The	ART CAP DET
+new	JJ
+monopolized	JJ
+industry	NN
+will	PRMD
+maximizes	VPRT
+its	PIT PRP SBJP
+profit	NN
+by	PIN PREP
+producing	PGAS
+Q	CAP NNP
+M	CAP NNP
+,	
+where	RB SCONJ WH
+marginal	JJ
+revenue	NN
+equals	VPRT
+marginal	JJ
+cost	NN
+.	
+As	PIN CONJ CAP PREP
+marginal	JJ
+revenue	NN
+is	BEMA VPRT AUXB
+below	PIN PLACE PREP
+the	ART DET
+demand	SUAV NN
+curve	NN
+,	
+output	NN
+Q	CAP NNP
+M	CAP NNP
+is	BEMA VPRT AUXB
+smaller	JJ PRED CMADJ
+than	PIN PREP
+output	NN
+Q	CAP NNP
+C	NN CAP
+.	
+The	ART CAP DET
+monopoly	NN
+charges	VPRT
+the	ART DET
+highest	JJ SPADJ
+price	NN
+P	NN CAP
+M	CAP NNP
+for	PIN PREP
+which	PIRE DET WH
+output	NN
+Q	CAP NNP
+M	CAP NNP
+can	POMD
+be	PASS AUXB INF
+sold	
+.	
+Overall	JJ CAP
+speaking	NN
+,	
+monopoly	NN
+restricts	VPRT
+its	PIT PRP SBJP
+output	NN
+and	CCONJ
+charges	VPRT
+a	ART DET INDA
+higher	JJ CMADJ
+price	NN
+compared	WZPAST
+with	PIN PREP
+a	ART DET INDA
+perfectly	AMP RB
+competitive	JJ
+industry	NN
+.	
+That	DEMP CAP DET
+is	VPRT AUXB
+why	RB SCONJ WH
+monopoly	NN
+is	BEMA VPRT AUXB
+less	RB CMADJ
+efficient	JJ
+.	
+Monopoly	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+form	NN
+of	PIN PREP
+market	NN
+failure	NN
+and	CCONJ
+is	BEMA VPRT AUXB
+less	RB CMADJ
+efficient	JJ
+than	PIN PREP
+competition	NOMZ
+.	
+Market	NN CAP
+failure	NN
+prevents	VPRT
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+gains	NN
+from	PIN PREP
+trade	NN
+from	PIN PREP
+being	PASS AUXB
+achieved	
+.	
+Under	PIN CAP PREP
+perfect	JJ
+competition	NOMZ
+,	
+quantity	NOMZ
+produced	WZPAST
+is	VPRT AUXB
+Q	CAP NNP
+C	NN CAP
+.	
+Consumers	NN CAP
+pay	VPRT
+P	NN CAP
+C	NN CAP
+for	PIN PREP
+each	QUAN DET
+unit	NN
+bought	VBD
+and	PHC CCONJ
+obtain	INF
+a	ART DET INDA
+consumer	NN
+surplus	NN
+1	NUM
+represented	
+by	PIN PREP
+the	ART DET
+blue	JJ
+triangle	NN
+.	
+A	ART CAP DET INDA
+monopolistic	JJ
+industry	NN
+will	PRMD
+restrict	INF
+output	NN
+to	PIN PREP
+Q	CAP NNP
+M	CAP NNP
+and	CCONJ
+sell	INF
+that	DEMO DET
+output	NN
+at	PIN PREP
+a	ART DET INDA
+price	NN
+of	PIN PREP
+P	NN CAP
+M	CAP NNP
+.	
+Consumer	NN CAP
+surplus	NN
+will	PRMD
+be	PASS AUXB INF
+reduced	
+to	PIN PREP
+the	ART DET
+smaller	JJ CMADJ
+blue	JJ
+triangle	NN
+.	
+Consumers	NN CAP
+lose	VPRT
+partly	DWNT RB
+by	PIN PREP
+having	PGAS
+to	PIN TO PREP
+pay	INF
+more	JJ EMPH CMADJ
+for	PIN PREP
+what	WH
+is	BEMA VPRT AUXB
+available	JJ PRED
+and	CCONJ
+by	PIN PREP
+getting	PGAS
+less	JJ CMADJ
+of	PIN PREP
+the	ART DET
+good	NN
+.	
+Some	QUAN CAP DET
+of	PIN PREP
+the	ART DET
+loss	NN
+in	PIN CONJ PREP
+consumer	NN
+surplus	NN
+accures	VPRT
+to	PIN PREP
+the	ART DET
+monopoly	NN
+.	
+Thus	RB CONJ CAP
+the	ART DET
+monopoly	NN
+gets	VPRT
+the	ART DET
+difference	NN
+between	PIN PREP
+the	ART DET
+higher	JJ CMADJ
+price	NN
+(	
+P	CAP NNP
+M	CAP NNP
+)	
+and	ANDC CCONJ
+P	NN CAP
+C	CAP NNP
+on	PIN PREP
+the	ART DET
+quantity	NOMZ
+sold	
+(	
+Q	CAP NNP
+M	CAP NNP
+)	
+,	
+i.e.	CONJ X
+the	ART DET
+monopoly	NN
+has	VPRT PEAS
+taken	
+the	ART DET
+red	JJ
+rectangle	NN
+part	NN
+of	PIN PREP
+the	ART DET
+consumer	NN
+surplus	NN
+.	
+This	DEMO CAP DET
+portion	NOMZ
+of	PIN PREP
+loss	NN
+of	PIN PREP
+consumer	NN
+surplus	NN
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+loss	NN
+to	PIN PREP
+society	NN
+and	ANDC CCONJ
+hence	RB CONJ
+is	BEMA VPRT AUXB
+not	XX0 RB
+a	ART DET INDA
+loss	NN
+of	PIN PREP
+efficiency	NN
+.	
+It	PIT CAP PRP SBJP
+is	BEMA VPRT AUXB
+just	RB EMPH
+a	ART DET INDA
+redistribution	NOMZ
+from	PIN PREP
+consumer	NN
+surplus	NN
+to	PIN PREP
+the	ART DET
+monopolist	NN
+.	
+As	PIN CONJ CAP PREP
+output	NN
+has	VPRT PEAS
+been	PASS AUXB
+restricted	
+,	
+the	ART DET
+rest	NN
+of	PIN PREP
+the	ART DET
+consumer	NN
+surplus	NN
+becomes	VPRT
+a	ART DET INDA
+loss	NN
+.	
+Actually	RB CAP
+the	ART DET
+total	JJ
+loss	NN
+resulting	WZPRES PGAS
+from	PIN PREP
+the	ART DET
+lower	JJ CMADJ
+monopoly	NN
+output	NN
+(	
+Q	CAP NNP
+M	CAP NNP
+)	
+is	BEMA VPRT AUXB
+the	ART DET
+grey	JJ
+triangle	NN
+.	
+The	ART CAP DET
+part	NN
+of	PIN PREP
+the	ART DET
+grey	JJ
+triangle	NN
+above	PIN PLACE PREP
+P	NN CAP
+C	CAP NNP
+is	BEMA VPRT AUXB
+the	ART DET
+loss	NN
+of	PIN PREP
+consumer	NN
+surplus	NN
+and	CCONJ
+the	ART DET
+part	NN
+of	PIN PREP
+the	ART DET
+triangle	NN
+below	PIN PLACE PREP
+P	NN CAP
+C	CAP NNP
+is	BEMA VPRT AUXB
+a	ART DET INDA
+loss	NN
+to	PIN PREP
+the	ART DET
+producer	NN
+(	
+a	ART DET INDA
+loss	NN
+of	PIN PREP
+producer	NN
+surplus	NN
+2	NUM
+)	
+.	
+The	ART CAP DET
+grey	JJ
+triangle	NN
+,	
+which	SERE DET WH
+measures	VPRT
+the	ART DET
+total	JJ
+loss	NN
+of	PIN PREP
+both	DET
+consumer	NN
+and	PHC CCONJ
+producer	NN
+surplus	NN
+,	
+is	PASS VPRT AUXB
+called	
+the	ART DET
+deadweight	NN
+loss	NN
+.	
+Deadweight	NN CAP
+loss	NN
+measures	VPRT
+the	ART DET
+loss	NN
+of	PIN PREP
+allocative	JJ
+efficiency	NN
+as	PIN CONJ PREP
+the	ART DET
+reduction	NOMZ
+in	PIN CONJ PREP
+consumer	NN
+and	PHC CCONJ
+producer	NN
+surplus	NN
+resulting	WZPRES PGAS
+from	PIN PREP
+a	ART DET INDA
+restriction	NOMZ
+of	PIN PREP
+output	NN
+below	PIN PLACE PREP
+its	PIT PRP SBJP
+efficient	JJ
+level	NN
+.	
+A	ART CAP DET INDA
+monopoly	NN
+'s	
+reduced	
+output	NN
+and	CCONJ
+higher	JJ CMADJ
+price	NN
+results	NN
+in	PIN CONJ PREP
+the	ART DET
+monopoly	NN
+capturing	WZPRES PGAS
+some	QUAN DET
+of	PIN PREP
+the	ART DET
+consumer	NN
+surplus	NN
+.	
+It	PIT CAP PRP SBJP
+also	RB
+results	VPRT
+in	PIN CONJ PREP
+the	ART DET
+elimination	NOMZ
+of	PIN PREP
+the	ART DET
+producer	NN
+and	CCONJ
+the	ART DET
+consumer	NN
+surplus	NN
+on	PIN PREP
+the	ART DET
+output	NN
+that	TOBJ WHOBJ WH
+a	ART DET INDA
+competitive	JJ
+industry	NN
+would	PRMD
+have	PEAS INF
+produced	
+but	CCONJ
+that	PIN THVC SCONJ PREP
+the	ART DET
+monopoly	NN
+does	VPRT PROD
+not	XX0 RB
+.	
+Deadweight	NN CAP
+loss	NN
+measures	VPRT
+the	ART DET
+degree	NN
+of	PIN PREP
+market	NN
+failure	NN
+or	CCONJ
+allocative	NN
+inefficiency	NN
+created	WZPAST
+by	PIN PREP
+a	ART DET INDA
+monopoly	NN
+.	
+Usually	RB CAP
+a	ART DET INDA
+monopoly	NN
+will	PRMD
+produces	VPRT
+an	ART DET INDA
+output	NN
+below	PIN PLACE PREP
+that	DEMO DET
+at	PIN PREP
+which	PIRE DET WH
+average	JJ
+total	JJ
+cost	NN
+is	BEMA VPRT AUXB
+at	PIN PREP
+a	ART DET INDA
+minimum	NN
+.	
+However	RB CONJ CAP
+,	
+even	RB
+the	ART DET
+monopoly	NN
+really	RB EMPH
+does	VPRT PROD
+so	RB
+,	
+consumers	NN
+still	RB
+do	VPRT PROD SPAU
+not	XX0 RB
+have	INF
+the	ART DET
+opportunity	NOMZ
+of	PIN PREP
+buying	PGAS
+the	ART DET
+good	NN
+at	PIN PREP
+that	DEMO DET
+price	NN
+.	
+There	EX CAP
+is	VPRT AUXB
+a	ART DET INDA
+possibility	NOMZ
+that	PIN TOBJ SCONJ PREP
+a	ART DET INDA
+monopoly	NN
+will	PRMD SPAU
+not	XX0 RB
+produce	INF
+any	QUAN DET
+deadweight	NN
+loss	NN
+.	
+That	DEMP CAP DET
+is	BEMA VPRT AUXB
+the	ART DET
+time	NN
+when	RB WHOBJ SCONJ WH
+the	ART DET
+monopoly	NN
+is	VPRT AUXB
+perfectly	AMP RB
+price	NN
+discriminating	GER
+.	
+The	ART CAP DET
+more	RB EMPH CMADJ
+perfectly	AMP RB
+the	ART DET
+monopoly	NN
+can	POMD
+price	INF
+discriminate	INF
+,	
+the	ART DET
+closer	RB CMADJ
+its	PIT PRP SBJP
+output	NN
+gets	VPRT
+to	PIN PREP
+the	ART DET
+competitive	JJ
+output	NN
+.	
+If	COND PIN CAP SCONJ PREP
+a	ART DET INDA
+monopoly	NN
+can	POMD SPAU
+perfectly	AMP RB
+price	INF
+discriminate	NN
+,	
+it	PIT PRP SBJP
+will	PRMD
+charge	INF
+a	ART DET INDA
+different	JJ
+prices	NN
+to	PIN PREP
+different	JJ
+consumers	NN
+according	WZPRES PGAS
+to	PIN PREP
+their	TPP3 PRP SBJP
+willingness	NOMZ
+to	PIN TO PREP
+pay	INF
+on	PIN PREP
+each	QUAN DET
+unit	NN
+sold	VBD
+.	
+The	ART CAP DET
+monopoly	NN
+can	POMD SPAU
+also	RB
+increase	INF
+the	ART DET
+quantity	NOMZ
+of	PIN PREP
+output	NN
+to	PIN PREP
+exactly	RB
+the	ART DET
+same	JJ
+as	PIN CONJ PREP
+the	ART DET
+perfectly	AMP RB
+competitive	JJ
+industry	NN
+.	
+When	RB CAP SCONJ WH
+the	ART DET
+monopoly	NN
+perfectly	AMP RB
+price	NN
+discriminates	NN
+,	
+its	PIT PRP SBJP
+marginal	JJ
+revenue	NN
+curve	NN
+is	BEMA VPRT AUXB
+the	ART DET
+same	JJ
+as	PIN CONJ PREP
+the	ART DET
+demand	SUAV NN
+curve	NN
+.	
+The	ART CAP DET
+last	JJ
+item	NN
+sold	
+will	PRMD
+cost	INF
+P	NN CAP
+C	CAP NNP
+which	DET WH
+is	BEMA VPRT AUXB
+the	ART DET
+same	JJ
+as	PIN CONJ PREP
+its	PIT PRP SBJP
+marginal	JJ
+cost	NN
+.	
+1	NUM
+The	ART CAP DET
+difference	NN
+between	PIN PREP
+the	ART DET
+value	NN
+of	PIN PREP
+a	ART DET INDA
+good	NN
+and	CCONJ
+its	PIT PRP SBJP
+price	NN
+is	VPRT AUXB
+consumer	NN
+surplus	NN
+.	
+2	NUM
+The	ART CAP DET
+difference	NN
+between	PIN PREP
+a	ART DET INDA
+producer	NN
+'s	
+revenue	NN
+and	CCONJ
+the	ART DET
+opportunity	NOMZ
+cost	NN
+of	PIN PREP
+production	NOMZ
+is	BEMA VPRT AUXB
+the	ART DET
+producer	NN
+surplus	NN
+.	
