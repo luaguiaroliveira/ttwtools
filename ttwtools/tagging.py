@@ -1,5 +1,6 @@
 from pathlib import Path
 
+import re
 import pandas as pd
 from tqdm.auto import tqdm
 from biberplus.tagger import tag_text, load_config, load_pipeline
@@ -129,6 +130,7 @@ def extract_biber_features_from_folder(
 
     for txt_path in tqdm(file_list, desc=f"  Analisando {corpus_path.name}", unit="doc"):
         text = txt_path.read_text(encoding="utf-8", errors="ignore")
+        text = re.sub(r"<[^>]*>", "", text)
         filename = txt_path.name
 
         doc = None
@@ -141,8 +143,6 @@ def extract_biber_features_from_folder(
         if doc is not None:
             list_of_words = [token.text for token in doc if token.is_alpha]
         else:
-            import re
-
             list_of_words = re.findall(r"\b[A-Za-z]+\b", text)
         list_of_unique_words = list(set(list_of_words))
 
