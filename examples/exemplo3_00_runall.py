@@ -76,9 +76,9 @@ def main():
 
     # ── PASSO 1: Tagging + Extração de features + Normalização ───────────────
     _banner("Passo 1/2 — Tagging e Extração de Features Biber",
-            "exemplo3_01_tagging_com_tsv.py → run_tagging()")
+            "exemplo3_01_biberplus_tagging.py → run_tagging()")
 
-    from exemplo3_01_tagging_com_tsv import run_tagging
+    from exemplo3_01_biberplus_tagging import run_tagging
 
     t0 = time.time()
     out_dir = run_tagging(

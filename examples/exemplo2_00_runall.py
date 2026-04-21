@@ -13,17 +13,9 @@ Ajuste as variáveis de configuração abaixo e execute:
 
 from pathlib import Path
 import time
-import importlib.util
 import sys
 
-
-def _import_hyphen_module(file_path: str, module_name: str):
-    """Importa um arquivo .py cujo nome contém hífens (não importável com import normal)."""
-    spec = importlib.util.spec_from_file_location(module_name, file_path)
-    mod = importlib.util.module_from_spec(spec)
-    sys.modules[module_name] = mod
-    spec.loader.exec_module(mod)
-    return mod
+_HERE = Path(__file__).resolve().parent
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURAÇÕES GLOBAIS — altere aqui para adaptar ao seu estudo
@@ -31,10 +23,10 @@ def _import_hyphen_module(file_path: str, module_name: str):
 
 # Pasta de saída onde todos os artefatos gerados serão gravados.
 # None → cria 'out' incremental (out, out_1, out_2, ...) no diretório atual.
-OUTPUT_DIR = 'out_test'
+OUTPUT_DIR = str(_HERE / 'out_exemplo2')
 
 # Pasta onde estao os corpora de teste usados nos exemplos.
-TEST_CORPORA_DIR = Path('examples/test_corpora')
+TEST_CORPORA_DIR = _HERE / 'test_corpora'
 
 # Corpora a processar (pastas com arquivos .txt).
 # A análise KFA será feita comparando CORPUS1 vs CORPUS2.
@@ -75,13 +67,13 @@ def main():
 
     # ── PASSO 1: Tagging + Extração de features + Normalização ───────────────
     _banner("Passo 1/2 — Tagging e Extração de Features Biber",
-            "exemplo2_01-tagging_com_tsv.py → run_tagging()")
+            "exemplo2_01_biberplus_tagging.py → run_tagging()")
 
-    _mod01 = _import_hyphen_module(
-        str(Path(__file__).parent / "exemplo2_01-tagging_com_tsv.py"),
-        "exemplo2_01_tagging_com_tsv",
-    )
-    run_tagging = _mod01.run_tagging
+    examples_dir = Path(__file__).resolve().parent
+    if str(examples_dir) not in sys.path:
+        sys.path.insert(0, str(examples_dir))
+
+    from exemplo2_01_biberplus_tagging import run_tagging
 
     t0 = time.time()
     out_dir = run_tagging(
