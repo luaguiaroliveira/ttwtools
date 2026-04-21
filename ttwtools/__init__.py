@@ -1,6 +1,6 @@
-from . import analysis, tagging, project
+from . import analysis, tagging, taggers, tagged_io, project
 from .analysis import analyze_key_features, cohens_d, kfa, pooled_std
-from .tagging import biberplus, extract_biber_features_from_folder, normalize_biber_features
+from .taggers import biberplus, extract_biber_features_from_folder, normalize_biber_features
 from .project import (
     TTWAProject,
     create_project,
@@ -16,6 +16,8 @@ __all__ = [
     # sub-módulos
     "analysis",
     "tagging",
+    "taggers",
+    "tagged_io",
     "project",
     # tagging
     "biberplus",

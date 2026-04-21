@@ -1,15 +1,8 @@
-from pathlib import Path
+# compatibility shim — the implementation has moved to ttwtools.taggers.biberplus.
+# This module is kept for backwards-compatibility and will be removed in v2.
+from .taggers.biberplus import biberplus, extract_biber_features_from_folder, normalize_biber_features  # noqa: F401
 
-import re
-import pandas as pd
-from tqdm.auto import tqdm
-from biberplus.tagger import tag_text, load_config, load_pipeline
-
-
-# Lazy spaCy loader: avoid importing at module import time so the module
-# can be used even if spaCy is not installed. If a caller requests
-# `usenlp=True`, we'll try to import and load the model on demand.
-nltk_like_nlp = None
+__all__ = ["biberplus", "extract_biber_features_from_folder", "normalize_biber_features"]
 
 
 def _escape_tsv_content(s: str) -> str:
