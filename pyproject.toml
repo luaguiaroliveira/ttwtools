@@ -18,5 +18,8 @@ dependencies = [
   # sqlite3 é built-in do Python — sem dependência extra
 ]
 
+[project.optional-dependencies]
+mfte = ["stanza>=1.9", "MFTE>=1.0", "torch"]
+
 [tool.setuptools]
-packages = ["ttwtools"]
+packages = ["ttwtools", "ttwtools.taggers"]

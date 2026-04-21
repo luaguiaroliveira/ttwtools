@@ -8,3 +8,7 @@ biberplus
 
 # Required model for tagging workflow (install separately):
 # python -m spacy download en_core_web_sm
+
+# Optional — MFTE backend (installs torch + stanza, ~500 MB):
+# pip install ttwtools[mfte]
+# or: pip install stanza MFTE torch

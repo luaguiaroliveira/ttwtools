@@ -286,49 +286,55 @@ O fluxo de integração no ttwtools é:
 
 ```python
 import stanza
-from MFTE import process_sentence, process_sentence_extended, stanza_pre_processing
+from MFTE import process_sentence, process_sentence_extended
 
 def _tag_document_mfte(text: str, nlp, extended: bool = True) -> list[dict]:
     """
     Retorna lista de tokens com offsets e tags MFTE.
-    Cada item: {"start": int, "end": int, "word": str, "xpos": str, "tags": list[str]}
+    Cada item: {"start_char": int, "end_char": int, "word": str, "xpos": str, "tags": list[str]}
     """
-    # 1. Stanza com offsets (texto ORIGINAL — sem preprocessing)
+    # 1. Stanza com offsets (texto já sem HTML — sem stanza_pre_processing)
     doc = nlp(text)
-    
-    # 2. Montar lista no formato esperado pelo MFTE, por sentença
-    all_tokens = []   # (start_char, end_char, word, xpos)
-    mfte_input = []   # ["word_xpos", ...] com sentinelas de sentença
-    
+
+    # 2. Montar listas paralelas: offsets reais + input MFTE com sentinelas
+    all_tokens = []   # (start_char, end_char, word, xpos) — SEM sentinelas
+    mfte_input = []   # ["word_xpos", ...] COM sentinelas [' ']*20 entre sentenças
+
+    # CRITICAL: sentinelas devem ser [' '] * 20  (lista de 20 strings " ")
+    #           NÃO " " * 20  (uma string de 20 espaços) — causa IndexError
+    #           Fonte: run_process_sentence() em MFTE.py usa exatamente esse padrão.
     for sentence in doc.sentences:
-        # MFTE usa listas com pelo menos 20 espaços entre sentenças como sentinela
-        mfte_input.append(" " * 20)
-        all_tokens.append(None)  # sentinela
+        mfte_input.extend([' '] * 20)          # sentinela de início de sentença
         for word in sentence.words:
             mfte_input.append(f"{word.text}_{word.xpos}")
             all_tokens.append((word.start_char, word.end_char, word.text, word.xpos))
-    
+
+    mfte_input.extend([' '] * 20)              # sentinela final
+
     # 3. Aplicar tagging MFTE (função pura — sem I/O)
-    mfte_input.append(" " * 20)  # sentinela final
     tagged = process_sentence(mfte_input, extended=extended)
     if extended:
         tagged = process_sentence_extended(tagged)
-    
-    # 4. Reassociar tags com offsets originais
+
+    # 4. Filtrar sentinelas do resultado (output é 1:1 com input, sentinelas inclusive)
+    #    Após filtro, filtered[i] corresponde 1:1 a all_tokens[i].
+    filtered = [w for w in tagged if w != " "]
+
+    # 5. Reassociar offsets originais com tags MFTE
     result = []
-    for i, token_info in enumerate(all_tokens):
-        if token_info is None:
-            continue  # sentinela de sentença
-        start, end, word, xpos = token_info
-        raw_tag_str = tagged[i]             # e.g. "study_NN NNABSPROC"
-        # Extrair só os tags (remover a parte "word_POS")
-        parts = raw_tag_str.split()
-        tags = parts[1:] if len(parts) > 1 else []
+    for i, (start, end, word, stanza_xpos) in enumerate(all_tokens):
+        if i >= len(filtered):
+            break
+        raw = filtered[i]                       # e.g. "study_NN NNABSPROC"
+        parts = raw.split()
+        # MFTE pode reclassificar o POS (e.g. NNS→NN); usar versão MFTE
+        mfte_xpos = parts[0].rsplit('_', 1)[-1] if parts and '_' in parts[0] else stanza_xpos
+        tags = parts[1:]                        # tudo após "word_POS"
         result.append({
-            "start": start,
-            "end": end,
+            "start_char": start,
+            "end_char": end,
             "word": word,
-            "xpos": xpos,
+            "xpos": mfte_xpos,
             "tags": tags,
         })
     return result
@@ -356,11 +362,21 @@ def _detect_device() -> str:
     return "cpu"
 ```
 
-- `use_gpu=None` → auto-detect via `_detect_device()`
-- `use_gpu=True` → forçar GPU; avisa se não disponível  
+- `use_gpu=None` → auto-detect via `_detect_device()` — retorna apenas `"cuda"` ou `"cpu"`
+- `use_gpu=True` → forçar CUDA; avisa e usa CPU se não disponível
 - `use_gpu=False` → forçar CPU
 
-O device é passado para `stanza.Pipeline('en', use_gpu=<bool>)`.
+**MPS (Apple Silicon) — excluído intencionalmente:**
+Stanza 1.11 aceita `device='mps'` e os pesos são carregados no chip M-series, mas
+benchmarks reais mostram que MPS é **~2.4× mais lento que CPU** para os modelos
+BiLSTM do Stanza (100 docs, ~450 k chars: CPU=68s, MPS=166s). O overhead de
+transferência CPU↔GPU supera o ganho de paralelismo em modelos sequenciais pequenos.
+`_detect_device()` nunca retorna `"mps"` — apenas `"cuda"` ou `"cpu"`.
+
+A API do Stanza usada é `device=` (Stanza 1.7+), não `use_gpu=` (legado que
+necessita CUDA e emite warning se CUDA não está presente).
+
+O device é passado para `stanza.Pipeline('en', device=<str>)`.
 
 ### 4.3 Formato JSONL de saída (formato canônico unificado)
 
@@ -568,18 +584,19 @@ Para casos onde o usuário é técnico:
 
 ## 7. Questões Abertas (a investigar)
 
-1. **Sentinelas de sentença no process_sentence()**: O MFTE usa strings com 20+
-   espaços como sentinelas de limite de sentença na lista de entrada. Verificar
-   se o índice `i` da lista de retorno está 1:1 com o de entrada ou se as
-   sentinelas são removidas — isso afeta o reassociamento de offsets.
+1. ✅ **Sentinelas de sentença no process_sentence()** — RESOLVIDO:
+   Sentinelas corretas: `[' '] * 20` (lista de 20 strings `" "`). Uma string
+   `" " * 20` causa `IndexError`. Output é **1:1** com input (sentinelas inclusive).
+   Filtrar `w != " "` no resultado alinha 1:1 com `all_tokens` (sem sentinelas).
+   Fonte: inspecionado em `run_process_sentence()` no código-fonte do MFTE.
 
-2. **process_sentence_extended() modifica índices?**: Verificar se a segunda
-   passagem (`process_sentence_extended`) retorna a mesma lista com os mesmos
-   índices ou uma lista diferente.
+2. ✅ **process_sentence_extended() modifica índices?** — RESOLVIDO:
+   Preserva exatamente os mesmos índices e tamanho de lista. É seguro filtrar
+   apenas após as duas passagens.
 
-3. **Modelos Stanza necessários**: O MFTE usa apenas `tokenize` + `pos`. Confirmar
-   que `processors='tokenize,pos'` é suficiente (sem `lemma`, `depparse`, `ner`),
-   mantendo o modelo menor para bundling.
+3. ✅ **Modelos Stanza necessários** — RESOLVIDO:
+   `processors='tokenize,pos'` é suficiente e confirmado funcionando. Sem `lemma`,
+   `depparse` ou `ner`. Modelo resultante é menor — vantagem para bundling.
 
 4. **stanza.download() em ambiente PyInstaller**: Stanza baixa modelos em
    `~/stanza_resources/`. No `mfte_worker.exe`, esse path precisa ser configurável
