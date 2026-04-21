@@ -120,52 +120,69 @@ O arquivo original é sempre preservado ao lado do taggeado (via `copy_originals
 
 ---
 
-#### 3.3.1 Formato canônico unificado (todos os taggers)
+#### 3.3.1 Formato canônico unificado: JSONL
 
-Um único formato TSV com offsets é usado por **todos** os taggers do ttwtools
-(BiberPlus, MFTE, Stanza puro ou qualquer futuro backend):
+O formato primário de arquivo taggeado é **JSONL** (JSON Lines: um objeto JSON
+por linha). É usado por **todos** os taggers do ttwtools (BiberPlus, MFTE,
+Stanza puro ou qualquer futuro backend).
 
-```
-# tagger: <nome>          e.g. biberplus | mfte | stanza
-# tagger_version: <versão>
-# stanza_model: en         (apenas se o backend usa Stanza)
-# device: cpu              (apenas se relevante)
-# extended: true           (apenas MFTE)
-# filename: documento.txt  (nome do arquivo original)
-start_char	end_char	word	xpos	tags
-0	3	The	DT	
-4	9	study	NN	NN NNABSPROC
-10	13	was	VBD	
-14	23	conducted	VBN	PASS
+Estrutura: primeira linha = objeto de metadados; linhas seguintes = um token
+por linha.
+
+```jsonl
+{"type":"metadata","tagger":"mfte","tagger_version":"1.0.0.7","stanza_model":"en","device":"cpu","extended":true,"filename":"documento.txt"}
+{"start_char":0,"end_char":3,"word":"The","xpos":"DT","tags":[]}
+{"start_char":4,"end_char":9,"word":"study","xpos":"NN","tags":["NN","NNABSPROC"]}
+{"start_char":10,"end_char":13,"word":"was","xpos":"VBD","tags":[]}
+{"start_char":14,"end_char":23,"word":"conducted","xpos":"VBN","tags":["PASS"]}
 ```
 
-Colunas:
+Campos obrigatórios em cada token:
 - `start_char` / `end_char`: offsets de caractere UTF-8 em relação ao arquivo
   original (inclusive no `start`, exclusivo no `end`). Invariante:
   `original[start_char:end_char] == word` para todo token.
 - `word`: forma superficial exata do token como aparece no arquivo original.
 - `xpos`: POS tag Penn Treebank. Fonte: spaCy (`token.tag_`) para BiberPlus;
-  Stanza (`word.xpos`) para MFTE/Stanza puro. Vazio se o backend não fornece POS.
-- `tags`: todos os tags do tagger separados por espaço. Vazio se nenhum.
-  Para BiberPlus: tags Biber. Para MFTE: tags MFTE. Para Stanza puro: vazio
-  (só xpos).
+  Stanza (`word.xpos`) para MFTE/Stanza puro. String vazia se o backend não fornece POS.
+- `tags`: array JSON com os tags do tagger. Array vazio `[]` se nenhum.
+  Para BiberPlus: tags Biber. Para MFTE: tags MFTE. Para Stanza puro: `[]`.
 
-Linhas de metadados (`# chave: valor`) ficam todas antes da linha de cabeçalho.
-O leitor pode ignorar chaves desconhecidas.
+Campos extras (opcionais, extensíveis por tagger ou versão futura):
+- Qualquer tagger pode acrescentar campos adicionais ao objeto token
+  (ex.: `"confidence": 0.97`, `"t_start": 1.23`, `"speaker": "A"`).
+  Leitores que não conhecem o campo ignoram-no — nenhuma quebra de compatibilidade.
+
+Campos do objeto de metadados:
+- `type`: sempre `"metadata"` — identifica a linha de cabeçalho.
+- `tagger`, `tagger_version`, `filename`: obrigatórios.
+- Demais chaves (`stanza_model`, `device`, `extended`, etc.): opcionais, específicas
+  do backend. Leitores ignoram chaves desconhecidas.
 
 **Uso pela GUI / leitor:**
 ```python
-# Qualquer token pode ser encontrado no original:
-assert open(original_path).read()[start_char:end_char] == word
+import json
 
-# Gaps entre tokens (espaços, pontuação, quebras de linha):
-gap = original_text[tokens[i]["end"]: tokens[i+1]["start"]]
+with open("doc_mfte.jsonl") as f:
+    meta   = json.loads(f.readline())       # primeiro objeto = metadados
+    tokens = [json.loads(line) for line in f]  # restante = tokens
+
+# Invariante: token encontrado no original
+original = open(meta["filename"]).read()
+for tok in tokens:
+    assert original[tok["start_char"]:tok["end_char"]] == tok["word"]
+
+# Gap entre tokens (espaços, pontuação, quebras de linha):
+gap = original[tokens[i]["end_char"]: tokens[i+1]["start_char"]]
 ```
 
-**Arquivo original ao lado:** `copy_originals=True` copia o arquivo original para
-`output_dir/originals/<corpus>/`. O TSV taggeado fica em
-`output_dir/<corpus>_tagged/<stem>_tagged.tsv`. A GUI referencia os dois pelo
-mesmo `filename` no cabeçalho.
+**Nomenclatura de arquivos:** ao lado do original, um JSONL por tagger/configuração:
+```
+originals/<corpus>/documento.txt
+<corpus>_tagged/documento_biberplus.jsonl
+<corpus>_tagged/documento_mfte.jsonl
+```
+O campo `filename` no JSONL referencia o nome do original. A GUI cruza os dois
+pelo nome do arquivo.
 
 ---
 
@@ -202,13 +219,20 @@ unificado é executada na **Fase 0** do roadmap (não é optativa).
 
 ---
 
-#### 3.3.3 Convivência com arquivos legados
+#### 3.3.3 Convivência com arquivos legados e exports
 
-Arquivos `.tsv` no formato antigo (`type|content|tags`) gerados antes da migração
-são identificados pela ausência da coluna `start_char` no cabeçalho. O
-`tsv_reader.py` detecta o formato pelo cabeçalho e avisa o usuário, mas não
-tenta converter automaticamente (os offsets não podem ser recuperados de forma
-robusta sem re-processar o original).
+**Formato legado** (`type|content|tags` TSV): identificado pela ausência de
+`start_char` na primeira linha de dados. O `tagged_io.py` detecta e avisa o
+usuário; não converte automaticamente (offsets não recuperáveis sem reprocessar).
+
+**Exports opcionais** a partir de um JSONL canônico (gerados sob demanda pelo
+`tagged_io.py`):
+- `.json` — array JSON completo (metadados + tokens); útil para APIs REST
+- `.tsv` — `start_char \t end_char \t word \t xpos \t tags` (tags espaço-separadas)
+- `.csv` — mesmo schema do TSV, separador `,`; útil para Excel/planilhas
+
+O armazenamento primário é sempre JSONL. Os exports não são mantidos
+automaticamente — são gerados quando solicitados pelo usuário ou pela GUI.
 
 ---
 
@@ -338,46 +362,34 @@ def _detect_device() -> str:
 
 O device é passado para `stanza.Pipeline('en', use_gpu=<bool>)`.
 
-### 4.3 Formato TSV de saída com offsets (formato canônico unificado)
+### 4.3 Formato JSONL de saída (formato canônico unificado)
 
-Ver §3.3.1 para a especificação completa. O mesmo schema é usado por todos
-os backends. Exemplos por tagger:
+Ver §3.3.1 para a especificação completa. O mesmo schema JSONL é usado por todos
+os backends; apenas os campos do objeto de metadados variam. Exemplos:
 
-**BiberPlus** (via spaCy, `usenlp=True`):
-```
-# tagger: biberplus
-# tagger_version: <versão biberplus>
-# spacy_model: en_core_web_sm
-# filename: documento.txt
-start_char	end_char	word	xpos	tags
-0	3	The	DT	
-4	9	study	NN	NN NNS
+**BiberPlus** (via spaCy):
+```jsonl
+{"type":"metadata","tagger":"biberplus","tagger_version":"<versão>","spacy_model":"en_core_web_sm","filename":"documento.txt"}
+{"start_char":0,"end_char":3,"word":"The","xpos":"DT","tags":[]}
+{"start_char":4,"end_char":9,"word":"study","xpos":"NN","tags":["NN","NNS"]}
 ```
 
 **MFTE** (via Stanza API):
-```
-# tagger: mfte
-# tagger_version: 1.0.0.7
-# stanza_model: en
-# device: cpu
-# extended: true
-# filename: documento.txt
-start_char	end_char	word	xpos	tags
-0	3	The	DT	DT
-4	9	study	NN	NN NNABSPROC
+```jsonl
+{"type":"metadata","tagger":"mfte","tagger_version":"1.0.0.7","stanza_model":"en","device":"cpu","extended":true,"filename":"documento.txt"}
+{"start_char":0,"end_char":3,"word":"The","xpos":"DT","tags":["DT"]}
+{"start_char":4,"end_char":9,"word":"study","xpos":"NN","tags":["NN","NNABSPROC"]}
 ```
 
-**Stanza puro** (apenas POS, sem MFTE):
+**Stanza puro** (apenas POS):
+```jsonl
+{"type":"metadata","tagger":"stanza","tagger_version":"<versão>","stanza_model":"en","device":"cpu","filename":"documento.txt"}
+{"start_char":0,"end_char":3,"word":"The","xpos":"DT","tags":[]}
+{"start_char":4,"end_char":9,"word":"study","xpos":"NN","tags":[]}
 ```
-# tagger: stanza
-# tagger_version: <versão stanza>
-# stanza_model: en
-# device: cpu
-# filename: documento.txt
-start_char	end_char	word	xpos	tags
-0	3	The	DT	
-4	9	study	NN	
-```
+
+**Exports opcionais** gerados por `tagged_io.export_tagged(path, fmt)` onde
+`fmt` ∈ `{"json", "tsv", "csv"}`. Ver §3.3.3.
 
 ### 4.4 Normalização de features para o formato ttwtools
 
@@ -490,7 +502,8 @@ Para casos onde o usuário é técnico:
     spaCy como `start_char`/`end_char`; `token.tag_` como `xpos`
   - Quando `usenlp=False` (regex): usar `match.start()` / `match.end()` do
     `re.finditer()` como offsets
-  - Gravar no novo schema `start_char | end_char | word | xpos | tags`
+  - Gravar no formato JSONL canônico via `tagged_io.write_tagged_jsonl()`
+    (arquivo `<stem>_biberplus.jsonl` ao lado do original)
   - Remover `_build_interleaved_rows()` e `_escape_tsv_content()` (não necessários
     no novo formato)
 - [ ] Converter `ttwtools/tagging.py` em shim de compatibilidade:
@@ -503,8 +516,11 @@ Para casos onde o usuário é técnico:
   )
   ```
 - [ ] Atualizar `ttwtools/__init__.py` — importar de `taggers/` em vez de `tagging`
-- [ ] Criar `ttwtools/tsv_reader.py` com:
-  - `read_tagged_tsv(path)` → `(metadata: dict, tokens: list[dict])`
+- [ ] Criar `ttwtools/tagged_io.py` com:
+  - `write_tagged_jsonl(metadata, tokens, path)` — grava o JSONL canônico
+  - `read_tagged_jsonl(path)` → `(metadata: dict, tokens: list[dict])`
+  - `export_tagged(jsonl_path, fmt, out_path=None)` — exporta para `"json"`,
+    `"tsv"` ou `"csv"`; `out_path=None` deriva o nome do jsonl_path
   - Detecção de formato legacy (`type|content|tags`) pelo cabeçalho com aviso
 - [ ] Rodar os exemplos (`exemplo1_00_runall.py` etc.) para confirmar que nada quebrou
 
@@ -515,22 +531,21 @@ Para casos onde o usuário é técnico:
     cache de instância para evitar recarregamento entre documentos
   - `_tag_document_mfte(text, nlp, extended)` — função core descrita em 4.2:
     retorna `list[dict]` com `start`, `end`, `word`, `xpos`, `tags`
-  - `_write_mfte_tsv(token_dicts, path, metadata)` — grava o TSV com offsets
+  - `_write_tagged_jsonl(token_dicts, path, metadata)` — delega a `tagged_io.write_tagged_jsonl()`
   - `extract_mfte_features_from_folder(folder, output_dir, save_tagged,
     copy_originals, use_gpu, ttr, extended)` — loop sobre `.txt`
   - `mfte()` — alias de alto nível
 - [ ] Atualizar `ttwtools/taggers/__init__.py` — importar e re-exportar `mfte`,
   `extract_mfte_features_from_folder` com import lazy (não importar torch/stanza
   no nível do módulo)
-- [ ] Atualizar `ttwtools/__init__.py` — exportar `mfte` e `extract_mfte_features_from_folder`
+- [ ] Atualizar `ttwtools/__init__.py` — exportar `mfte`, `extract_mfte_features_from_folder`
+  e `tagged_io`
 - [ ] Atualizar `requirements.txt` — dependências opcionais comentadas
 - [ ] Atualizar `pyproject.toml`:
   ```toml
   [project.optional-dependencies]
   mfte = ["stanza>=1.9", "MFTE>=1.0", "torch"]
   ```
-- [ ] Criar `ttwtools/tsv_reader.py` com função `read_mfte_tsv(path)` →
-  retorna `(metadata: dict, tokens: list[dict])`, usável pela GUI
 
 ### Fase 2 — Integração com projeto
 - [ ] Adicionar `tagger_type` em `feature_tables` no schema SQLite
