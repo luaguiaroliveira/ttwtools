@@ -1,607 +1,1063 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0936.0543.txt
-token	tags
-  	
-In	PIN CONJ CAP PREP
-modern	JJ
-society	NN
-,	
-the	ART DET
-way	NN
-children	NN
-interact	VPRT
-with	PIN PREP
-computers	NN
-and	PHC CCONJ
-video	NN
-games	NN
-is	BEMA VPRT AUXB
-important	JJ PRED
-.	
-One	CAP NUM
-reason	PRIV NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-with	PIN PREP
-the	ART DET
-increasing	GER PGAS
-popularization	NOMZ
-and	PHC CCONJ
-advancement	NOMZ
-of	PIN PREP
-technology	NN
-,	
-these	DEMO DET
-medias	NN
-are	BEMA VPRT AUXB
-widely	RB
-present	JJ
-in	PIN CONJ PREP
-children	NN
-'s	
-life	NN
-.	
-The	ART CAP DET
-influence	NN
-of	PIN PREP
-these	DEMO DET
-electronics	NN
-is	BEMA VPRT AUXB
-considerate	JJ PRED
-by	PIN PREP
-many	QUAN JJ
-people	NN
-as	PIN CONJ PREP
-harmful	JJ
-,	
-considering	GER PRIV PRESP PGAS
-the	ART DET
-time	NN
-children	NN
-’s	
-plays	NN
-,	
-the	ART DET
-unconscious	JJ
-influence	NN
-and	PHC CCONJ
-others	NN
-ways	NN
-to	PIN TO PREP
-have	INF
-fun	NN
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-consider	PRIV INF
-their	TPP3 PRP SBJP
-benefits	NN
-and	CCONJ
-the	ART DET
-context	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-used	
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-the	ART DET
-need	NN
-to	PIN TO PREP
-supervise	INF
-these	DEMO DET
-medias	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-the	ART DET
-best	JJ SPADJ
-use	NN
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-,	
-I	FPP1 CAP PRP SBJP
-will	PRMD
-argue	PUBV THATD INF
-that	PIN STPR DEMP SCONJ PREP
-,	
-because	CAUS PIN SCONJ PREP
-there	EX
-are	VPRT AUXB
-clear	JJ
-advantages	NN
-for	PIN PREP
-children	NN
-in	PIN CONJ PREP
-having	PGAS
-access	NN
-to	PIN PREP
-these	DEMO DET
-technologies	NN
-,	
-computer	NN
-and	PHC CCONJ
-video	NN
-games	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS SPAU AUXB INF
-generally	RB
-considered	PRIV
-harmful	JJ
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-–	
-it	PIT PRP SBJP
-only	DWNT RB
-needs	VPRT
-some	QUAN DET
-precautions	NOMZ
-in	PIN CONJ PREP
-use	NN
-.	
- 	
-First	RB CAP
-,	
-the	ART DET
-way	NN
-children	NN
-have	VPRT
-fun	NN
-today	TIME NN
-is	BEMA VPRT AUXB
-different	JJ PRED
-from	PIN PREP
-years	NN
-ago	RB
-.	
-Computer	NN CAP
-and	PHC CCONJ
-video	NN
-games	NN
-has	VPRT PEAS
-taken	
-the	ART DET
-place	NN
-of	PIN PREP
-the	ART DET
-“	
-street	NN
-games	NN
-”	
-,	
-as	PIN CONJ PREP
-collective	JJ
-games	NN
--	
-and	ANDC CCONJ
-this	DEMP DET
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-considered	PRIV
-a	ART DET INDA
-bad	JJ
-change	NN
-,	
-but	CCONJ
-a	ART DET INDA
-consequence	NN
-of	PIN PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-technology	NN
-,	
-urban	JJ
-structure	NN
-and	PHC CCONJ
-culture	NN
-.	
-More	JJ EMPH CAP CMADJ
-than	PIN PREP
-that	DEMP DET
-,	
-these	DEMO DET
-medias	NN
-entertain	VPRT
-children	NN
-in	PIN CONJ PREP
-the	ART DET
-safety	NN
-of	PIN PREP
-home	NN
-,	
-exposing	PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-less	JJ CMADJ
-to	PIN PREP
-risks	NN
-.	
-With	PIN CAP PREP
-a	ART DET INDA
-globalized	JJ
-world	NN
-,	
-it	PIT PRP SBJP
-is	VPRT AUXB
-no	RB
-longer	RB CMADJ
-possible	JJ
-to	PIN TO PREP
-eliminate	INF
-the	ART DET
-technology	NN
-from	PIN PREP
-children	NN
-’s	
-life	NN
-.	
- 	
-Another	CAP DET
-reason	PRIV NN
-is	BEMA VPRT AUXB
-that	PIN STPR DEMP SCONJ PREP
-,	
-with	PIN PREP
-the	ART DET
-proper	JJ
-supervision	NOMZ
-,	
-no	SYNE DET
-technology	NN
-is	BEMA VPRT AUXB
-harmful	JJ PRED
-to	PIN PREP
-kids	NN
-.	
-Some	QUAN CAP DET
-people	NN
-think	VPRT PRIV
-that	PIN THVC SCONJ PREP
-computer	NN
-and	PHC CCONJ
-games	NN
-takes	VPRT
-much	QUAN JJ
-time	NN
-of	PIN PREP
-children	NN
-,	
-influence	NN
-behavior	NN
-unconsciously	RB
-and	CCONJ
-are	BEMA VPRT AUXB
-a	ART DET INDA
-bad	JJ
-way	NN
-of	PIN PREP
-fun	NN
-because	CAUS PIN SCONJ PREP
-its	PIT PRP SBJP
-individuality	NOMZ
-.	
-But	CAP CCONJ
-,	
-the	ART DET
-point	NN
-in	PIN CONJ PREP
-this	DEMO DET
-issue	NN
-is	BEMA VPRT AUXB
-that	PIN STPR DEMP SCONJ PREP
-,	
-if	COND PIN SCONJ PREP
-you	SPP2 PRP SBJP
-select	VPRT
-what	DET WH
-type	NN
-of	PIN PREP
-games	NN
-and	PHC CCONJ
-time	NN
-that	TOBJ WHOBJ WH
-children	NN
-play	VPRT
-,	
-this	DEMP DET
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-option	NOMZ
-.	
-For	PIN CAP PREP
-example	NN
-,	
-one	PRP SBJP
-can	POMD
-control	INF
-the	ART DET
-time	NN
-that	TOBJ WHOBJ WH
-children	NN
-play	VPRT
-,	
-the	ART DET
-type	NN
-of	PIN PREP
-games	NN
-and	CCONJ
-let	INF
-them	TPP3 PRP SBJP ACCU
-play	INF
-only	DWNT RB
-with	PIN PREP
-supervision	NOMZ
-.	
-Furthermore	RB CONJ CAP
-,	
-should	NEMD
-be	PASS AUXB INF
-talked	
-openly	RB
-with	PIN PREP
-them	TPP3 PRP SBJP ACCU
-about	PIN PREP
-that	DEMP DET
-.	
-With	PIN CAP PREP
-an	ART DET INDA
-open	JJ
-relationship	NN
-with	PIN PREP
-children	NN
-,	
-the	ART DET
-responsible	JJ
-will	PRMD
-become	INF
-a	ART DET INDA
-behavior	NN
-influence	NN
-and	CCONJ
-not	XX0 RB
-the	ART DET
-video	NN
-or	CCONJ
-computer	NN
--	
-and	ANDC CCONJ
-the	ART DET
-children	NN
-will	PRMD SPAU
-still	RB
-have	INF
-time	NN
-to	PIN TO PREP
-study	INF
-and	CCONJ
-do	PROD INF
-other	JJ
-social	JJ
-things	NN
-.	
-So	RB CAP
-,	
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-ways	NN
-to	PIN TO PREP
-prevent	INF
-and	PHC CCONJ
-eliminate	INF
-misuse	NN
-of	PIN PREP
-technology	NN
-–	
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-not	XX0 RB
-harmful	JJ
-by	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-.	
- 	
-Finally	RB CAP
-,	
-technology	NN
-is	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-bring	INF
-more	JJ EMPH CMADJ
-benefits	NN
-than	PIN PREP
-anything	QUPR INPR
-else	RB
-.	
-Most	JJ EMPH CAP SPADJ
-of	PIN PREP
-responsible	JJ
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-the	ART DET
-time	NN
-to	PIN TO PREP
-play	INF
-with	PIN PREP
-your	SPP2 PRP SBJP
-children	NN
-everyday	RB
-–	
-like	PIN PREP
-many	QUAN JJ
-people	NN
-nowadays	RB TIME
-.	
-So	RB CAP
-,	
-the	ART DET
-solution	NOMZ
-is	BEMA VPRT AUXB
-not	XX0 RB
-to	PIN TO PREP
-struggle	INF
-with	PIN PREP
-technology	NN
-.	
-Technology	NN CAP
-appears	VPRT SMP
-in	PIN CONJ PREP
-nowadays	RB TIME
-context	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-ally	NN
-for	PIN PREP
-parents	NN
-in	PIN CONJ PREP
-fun	NN
-and	PHC CCONJ
-study	NN
-.	
-The	ART CAP DET
-fact	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-computers	NN
-and	PHC CCONJ
-video	NN
-games	NN
-strongly	AMP RB
-develop	VPRT
-creativity	NOMZ
-and	CCONJ
-cognitive	JJ
-thinking	PRIV NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-can	POMD
-be	PASS AUXB INF
-used	
-for	PIN PREP
-interactive	JJ
-learning	PRIV NN
-,	
-even	RB
-for	PIN PREP
-a	ART DET INDA
-new	JJ
-language	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-we	FPP1 PRP SBJP
-should	NEMD
-see	PRIV INF
-technology	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-opportunity	NOMZ
-to	PIN TO PREP
-develop	INF
-children	NN
-'s	
-skills	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-like	PIN PREP
-anything	QUPR INPR
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-,	
-computer	NN
-and	PHC CCONJ
-video	NN
-games	NN
-can	POMD
-be	PASS AUXB INF
-used	
-in	PIN CONJ PREP
-the	ART DET
-wrong	JJ
-way	NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-will	PRMD SPAU
-only	DWNT RB
-be	BEMA AUXB INF
-harmful	JJ PRED
-to	PIN PREP
-children	NN
-if	COND PIN SCONJ PREP
-some	QUAN DET
-points	NN
-were	PASS VBD AUXB
-neglected	
-.	
-Its	PIT CAP PRP SBJP
-a	ART DET INDA
-wrong	JJ
-definition	NOMZ
-to	PIN TO PREP
-consider	PRIV INF
-them	TPP3 PRP SBJP ACCU
-harmful	JJ
-by	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-.	
-With	PIN CAP PREP
-the	ART DET
-right	JJ
-orientation	NOMZ
-and	ANDC CCONJ
-in	PIN CONJ PREP
-a	ART DET INDA
-supervised	
-context	NN
-,	
-computer	NN
-,	
-video	NN
-games	NN
-and	CCONJ
-other	JJ
-types	NN
-of	PIN PREP
-technology	NN
-are	BEMA VPRT AUXB
-an	ART DET INDA
-opportunity	NOMZ
-to	PIN TO PREP
-develop	INF
-children	NN
-'s	
-skills	NN
-and	CCONJ
-can	POMD SPAU
-only	DWNT RB
-bring	INF
-benefits	NN
-.	
-   	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0936.0543>\n<Computer and video games are harmful to children?>\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	society	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	children	NN
+gap	 	
+word	interact	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	computers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	popularization	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	advancement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	medias	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	widely	RB
+gap	 	
+word	present	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	children	NN
+gap	'	
+word	s	
+gap	 	
+word	life	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	electronics	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	considerate	JJ PRED
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	people	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	harmful	JJ
+gap	, 	
+word	considering	GER PRIV PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	children	NN
+gap	’	
+word	s	
+gap	 	
+word	plays	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	unconscious	JJ
+gap	 	
+word	influence	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	others	NN
+gap	 	
+word	ways	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	fun	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	benefits	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	context	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	need	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	supervise	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	medias	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	, 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	argue	PUBV THATD INF
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	clear	JJ
+gap	 	
+word	advantages	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	children	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	having	PGAS
+gap	 	
+word	access	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	technologies	NN
+gap	, 	
+word	computer	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	generally	RB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	harmful	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 – 	
+word	it	PIT PRP SBJP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	needs	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	precautions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	use	NN
+gap	.\n	
+word	First	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	children	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	fun	NN
+gap	 	
+word	today	TIME NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	different	JJ PRED
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	years	NN
+gap	 	
+word	ago	RB
+gap	. 	
+word	Computer	NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	taken	
+gap	 	
+word	the	ART DET
+gap	 	
+word	place	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 “	
+word	street	NN
+gap	 	
+word	games	NN
+gap	”, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	collective	JJ
+gap	 	
+word	games	NN
+gap	 - 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bad	JJ
+gap	 	
+word	change	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consequence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	, 	
+word	urban	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	culture	NN
+gap	. 	
+word	More	JJ EMPH CAP CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	medias	NN
+gap	 	
+word	entertain	VPRT
+gap	 	
+word	children	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	safety	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	home	NN
+gap	, 	
+word	exposing	PRESP PGAS
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	risks	NN
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	globalized	JJ
+gap	 	
+word	world	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	RB
+gap	 	
+word	longer	RB CMADJ
+gap	 	
+word	possible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	eliminate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	technology	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	children	NN
+gap	’	
+word	s	
+gap	 	
+word	life	NN
+gap	.\n	
+word	Another	CAP DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	proper	JJ
+gap	 	
+word	supervision	NOMZ
+gap	, 	
+word	no	SYNE DET
+gap	 	
+word	technology	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	harmful	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	kids	NN
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	people	NN
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	computer	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	games	NN
+gap	 	
+word	takes	VPRT
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	time	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	children	NN
+gap	, 	
+word	influence	NN
+gap	 	
+word	behavior	NN
+gap	 	
+word	unconsciously	RB
+gap	 	
+word	and	CCONJ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bad	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fun	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	individuality	NOMZ
+gap	. 	
+word	But	CAP CCONJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	issue	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	select	VPRT
+gap	 	
+word	what	DET WH
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	games	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	time	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	children	NN
+gap	 	
+word	play	VPRT
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	option	NOMZ
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	one	PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	control	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	children	NN
+gap	 	
+word	play	VPRT
+gap	, 	
+word	the	ART DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	games	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	let	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	play	INF
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	supervision	NOMZ
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	should	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	talked	
+gap	 	
+word	openly	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	open	JJ
+gap	 	
+word	relationship	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	children	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	responsible	JJ
+gap	 	
+word	will	PRMD
+gap	 	
+word	become	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	behavior	NN
+gap	 	
+word	influence	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	video	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	computer	NN
+gap	 - 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	children	NN
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	still	RB
+gap	 	
+word	have	INF
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	study	INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	do	PROD INF
+gap	 	
+word	other	JJ
+gap	 	
+word	social	JJ
+gap	 	
+word	things	NN
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prevent	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	eliminate	INF
+gap	 	
+word	misuse	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	 – 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	harmful	JJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	technology	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	likely	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	bring	INF
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	benefits	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	anything	QUPR INPR
+gap	 	
+word	else	RB
+gap	. 	
+word	Most	JJ EMPH CAP SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	responsible	JJ
+gap	 	
+word	do	VPRT PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	play	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	children	NN
+gap	 	
+word	everyday	RB
+gap	– 	
+word	like	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	people	NN
+gap	 	
+word	nowadays	RB TIME
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	struggle	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	technology	NN
+gap	. 	
+word	Technology	NN CAP
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	nowadays	RB TIME
+gap	 	
+word	context	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	ally	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	parents	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fun	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	study	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	fact	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	computers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	strongly	AMP RB
+gap	 	
+word	develop	VPRT
+gap	 	
+word	creativity	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	cognitive	JJ
+gap	 	
+word	thinking	PRIV NN
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	interactive	JJ
+gap	 	
+word	learning	PRIV NN
+gap	, 	
+word	even	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	should	NEMD
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	technology	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	opportunity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	children	NN
+gap	'	
+word	s	
+gap	 	
+word	skills	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	anything	QUPR INPR
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	, 	
+word	computer	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	wrong	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	harmful	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	children	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	points	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	neglected	
+gap	. 	
+word	Its	PIT CAP PRP SBJP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wrong	JJ
+gap	 	
+word	definition	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	harmful	JJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	orientation	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	supervised	
+gap	 	
+word	context	NN
+gap	, 	
+word	computer	NN
+gap	, 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	opportunity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	children	NN
+gap	'	
+word	s	
+gap	 	
+word	skills	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	bring	INF
+gap	 	
+word	benefits	NN
+gap	.\n\n\n	

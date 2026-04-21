@@ -1,1447 +1,2508 @@
 # filename: AH_other_Essay_1_0061d_tx.txt
-token	tags
-La	CAP NNP
-Place	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-piece	NN
-of	PIN PREP
-work	NN
-,	
-of	PIN PREP
-biographical	JJ
-intent	NN
-,	
-targeting	PRESP PGAS
-the	ART DET
-narration	NOMZ
-of	PIN PREP
-the	ART DET
-life	NN
-of	PIN PREP
-the	ART DET
-father	NN
-of	PIN PREP
-Annie	CAP NNP
-Ernaux	CAP NNP
-.	
-The	ART CAP DET
-narrator	NN
-wishes	VPRT
-to	PIN TO PREP
-depict	INF
-a	ART DET INDA
-portrait	NN
-of	PIN PREP
-her	TPP3 PRP SBJP
-father	NN
-'s	
-life	NN
-which	WHSUB DET WH
-is	BEMA VPRT AUXB
-objective	JJ PRED
-and	CCONJ
-does	VPRT SPAU
-not	XX0 RB
-suffer	INF
-from	PIN PREP
-bias	NN
-or	CCONJ
-which	DET WH
-becomes	VPRT
-subjective	JJ
-or	CCONJ
-sentimental	JJ
--	
-a	ART DET INDA
-flaw	NN
-she	TPP3 PRP SBJP
-readily	RB
-points	VPRT
-out	PIN PREP
-of	PIN PREP
-accounts	NN
-of	PIN PREP
-similar	JJ
-intent	NN
-:	
-'	CONT QUOT
-Pour	CAP INF
-rendre	NN
-compte	NN
-d'une	NUM
-vie	NNP
-soumise	NNP
-à	NNP
-la	NNP
-nécessité	NN
-,	
-je	NNP
-n'ai	NNP
-pas	NNP
-le	NNP
-droit	NNP
-de	NNP
-prendre	NNP
-d'abord	NNP
-le	NNP
-partie	NNP
-de	NNP
-l'art	NNP
-,	
-ni	NNP
-de	NNP
-chercher	NNP
-à	NNP
-faire	NN
-quelque	NN
-chose	VBD
-de	X
-"	QUOT
-passionnant	JJ
-"	QUOT
-,	
-ou	NNP
-d'"émouvant	NNP
-"	QUOT
-.	
-'	CONT QUOT
-This	DEMO CAP DET
-piece	NN
-,	
-however	RB CONJ
-,	
-fails	VPRT
-to	PIN TO PREP
-be	BEMA AUXB INF
-scientific	JJ PRED
-and	PHC CCONJ
-non	JJ PRED
--	JJ
-emotive	JJ
-throughout	RB PIN STPR PREP
-;	
-it	PIT PRP SBJP
-becomes	VPRT
-instead	RB CONJ
-one	NUM
-filled	
-with	PIN PREP
-auto	NN
--	
-reflection	NOMZ
-and	CCONJ
-removed	
-from	PIN PREP
-the	ART DET
-intended	SUAV
-narrative	NN
-into	PIN PREP
-a	ART DET INDA
-meta	JJ
--	
-narrative	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-partly	DWNT RB
-due	JJ
-to	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-Ernaux	CAP NNP
-transforms	VPRT
-herself	TPP3 PRP SBJP ACCU
-as	PIN CONJ PREP
-the	ART DET
-narration	NOMZ
-progresses	VPRT
-and	PHC CCONJ
-realises	VPRT PRIV
-that	PIN THVC SCONJ PREP
-she	TPP3 PRP SBJP
-herself	TPP3 PRP SBJP ACCU
-is	PASS VPRT AUXB
-split	
-between	PIN PREP
-two	NUM
-social	JJ
-classes	NN
-.	
-The	ART CAP DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-she	TPP3 PRP SBJP
-fails	VPRT
-to	PIN TO PREP
-remain	INF
-audit	NN
-throughout	PIN PREP
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-key	JJ
-pessimistic	JJ
-views	NN
-in	PIN CONJ PREP
-the	ART DET
-book	NN
-,	
-as	PIN CONJ PREP
-she	TPP3 PRP SBJP
-has	VPRT PEAS
-failed	
-this	DEMO DET
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-class	NN
-divisions	NOMZ
-.	
-The	ART CAP DET
-themes	NN
-of	PIN PREP
-social	JJ
-conditioning	GER
-and	PHC CCONJ
-class	NN
-divisions	NOMZ
-are	VPRT AUXB
-,	
-therefore	RB CONJ
-,	
-paramount	NN
-throughout	PIN STPR PREP
-'	CONT QUOT
-La	CAP NNP
-Place	CAP NNP
-'	CONT QUOT
--	
-the	ART DET
-title	NN
-itself	PIT PRP SBJP ACCU
-hints	VPRT PUBV
-at	PIN PREP
-the	ART DET
-importance	NN
-of	PIN PREP
-one	NN
-'s	
-'	CONT QUOT
-place	NN
-'	CONT QUOT
-in	PIN CONJ PREP
-society	NN
--	
-and	ANDC CCONJ
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-examples	NN
-in	PIN CONJ PREP
-the	ART DET
-text	NN
-of	PIN PREP
-alienation	NOMZ
-,	
-guilt	NN
-and	PHC CCONJ
-schism	NN
-to	PIN TO PREP
-prove	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-narrator	NN
-'s	
-views	NN
-on	PIN PREP
-these	DEMO DET
-issues	NN
-are	VPRT AUXB
-,	
-on	PIN PREP
-the	ART DET
-whole	JJ
-,	
-pessimistic	JJ
-.	
-Ernaux	CAP NNP
-,	
-Annie	CAP NNP
-.	
-,	
-La	CAP NNP
-Place	CAP NNP
-(	
-1983	NUM
-)	
-,	
-p.24	NNP
-Western	JJ CAP
-civilisation	NOMZ
-is	VPRT AUXB
-one	NUM
-geared	
-towards	PIN PREP
-consumption	NOMZ
-under	PIN PREP
-the	ART DET
-aegis	NN
-of	PIN PREP
-capitalism	NN
-and	CCONJ
-,	
-therefore	RB CONJ
-,	
-in	PIN CONJ PREP
-every	QUAN DET
-similar	JJ
-society	NN
-,	
-a	ART DET INDA
-class	NN
-structure	NN
-will	PRMD SPAU
-inevitably	RB
-emerge	INF
-.	
-Social	JJ CAP
-conditions	NOMZ
-and	CCONJ
-external	JJ
-forces	NN
--	
-such	JJ
-as	PIN CONJ PREP
-peer	NN
--	
-pressure	NN
-,	
-create	INF
-a	ART DET INDA
-certain	JJ
-social	JJ
-model	NN
-or	CCONJ
-"	QUOT
-norm	NN
-"	QUOT
-to	PIN PREP
-which	PIRE DET WH
-one	NN
-feels	VPRT PRIV
-compelled	
-to	PIN TO PREP
-abide	INF
-by	PIN STPR PREP
-.	
-There	EX CAP
-are	VPRT AUXB
-many	QUAN JJ
-examples	NN
-of	PIN PREP
-the	ART DET
-pressure	NN
-on	PIN PREP
-people	NN
-to	PIN TO PREP
-follow	INF
-these	DEMO DET
-artificial	JJ
-criteria	NN
-in	PIN CONJ STPR PREP
-'	CONT QUOT
-La	CAP NNP
-Place	CAP NNP
-'	CONT QUOT
-.	
-The	ART CAP DET
-father	NN
-of	PIN PREP
-the	ART DET
-narrator	NN
-is	PASS VPRT AUXB
-portrayed	
-as	PIN CONJ PREP
-desperate	JJ
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-his	TPP3 PRP SBJP
-daughter	NN
-is	PASS VPRT AUXB
-educated	
-into	PIN PREP
-a	ART DET INDA
-higher	JJ CMADJ
-social	JJ
-class	NN
-,	
-perhaps	RB
-so	PIN SCONJ PREP
-she	TPP3 PRP SBJP
-will	PRMD SPAU
-never	RB
-feel	PRIV INF
-as	RB CONJ
-uncomfortable	JJ
-in	PIN CONJ PREP
-the	ART DET
-company	NN
-of	PIN PREP
-the	ART DET
-bourgeoisie	NN
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-often	RB
-does	VPRT PROD
-.	
-He	TPP3 CAP PRP SBJP
-becomes	VPRT
-increasingly	RB
-more	RB EMPH CMADJ
-distant	JJ
-from	PIN PREP
-his	TPP3 PRP SBJP
-daughter	NN
-but	CCONJ
-wishes	VPRT
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-her	TPP3 PRP SBJP
-elevation	NOMZ
-nonetheless	RB CONJ
-:	
-'	CONT QUOT
-Il	CAP INF
-me	FPP1 PRP SBJP ACCU
-conduisait	NNP
-de	NNP
-la	X
-maison	NNP
-à	X
-l'école	NNP
-sur	NNP
-son	NN
-vélo	NNP
-.	
-'	CONT QUOT
-The	ART CAP DET
-social	JJ
-conditions	NOMZ
-are	BEMA VPRT AUXB
-so	RB EMPH
-strong	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-father	NN
-actually	RB
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-example	NN
-,	
-takes	VPRT
-her	TPP3 PRP SBJP
-daughter	NN
-to	PIN PREP
-a	ART DET INDA
-place	NN
-which	WHOBJ DET WH
-he	TPP3 PRP SBJP
-knows	VPRT PRIV
-will	PRMD
-distance	INF
-him	TPP3 PRP SBJP ACCU
-further	RB
-from	PIN PREP
-his	TPP3 PRP SBJP
-daughter	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-pessimistic	JJ
-view	NN
-.	
-The	ART CAP DET
-idea	NN
-of	PIN PREP
-being	PASS AUXB
-educated	
-into	PIN PREP
-a	ART DET INDA
-higher	JJ CMADJ
-sector	NN
-of	PIN PREP
-society	NN
-,	
-mirrors	VPRT
-those	DEMO DET
-of	PIN PREP
-Bourdieu	CAP NNP
--	
-a	ART DET INDA
-French	JJ CAP
-sociologist	NN
-who	WHSUB WH
-outlines	VPRT
-'	CONT QUOT
-linguitic	JJ
-and	PHC CCONJ
-cultural	JJ
-capital	NN
-as	RB CONJ
-significant	JJ
-as	PIN CONJ PREP
-economic	JJ
-capital	NN
-'	CONT QUOT
-.	
-This	DEMP CAP DET
-is	PASS VPRT AUXB
-mirrored	
-in	PIN CONJ PREP
-La	CAP NNP
-Place	CAP NNP
-:	
-'	CONT QUOT
-Tout	CAP NNP
-ce	NNP
-qui	X
-touché	NN
-au	NN
-langage	NN
-est	NNP
-dans	NNP
-mon	NNP
-souvenir	NNP
-motif	NN
-de	NNP
-rancœur	NNP
-et	NNP
-de	NNP
-chicanes	NNP
-douloureuses	NN
-,	
-bien	NN
-plus	PIN CCONJ PREP
-que	NNP
-l'argent	NNP
-.	
-'	CONT QUOT
-Bordieu	CAP NNP
-also	RB
-expresses	VPRT
-the	ART DET
-difference	NN
-between	PIN PREP
-the	ART DET
-'	CONT QUOT
-classes	NN
-dominantes	VPRT
-/	
-classes	NN
-dominées	NN
-'	CONT QUOT
-which	SERE DET WH
-Ernaux	CAP NNP
-also	RB
-outlines	VPRT
-and	PHC CCONJ
-shares	VPRT
-a	ART DET INDA
-pessimistic	JJ
-view	NN
-of	PIN STPR PREP
-.	
-Ibid	CAP INF
-.	
-,	
-p.112	NNP
-Bourdieu	CAP NNP
-,	
-La	CAP NNP
-Distinction	CAP NNP
-,	
-critique	NN
-sociale	NN
-du	NN
-jugement	JJ
-(	
-1979	NUM
-)	
-Ernaux	CAP NNP
-,	
-Annie	CAP NNP
-.	
-,	
-La	CAP NNP
-Place	CAP NNP
-(	
-1983	NUM
-)	
-,	
-p.64	NNP
-Bourdieu	CAP NNP
-,	
-La	CAP NNP
-Distinction	CAP NNP
-,	
-critique	NN
-sociale	NN
-du	NN
-jugement	JJ
-(	
-1979	NUM
-)	
-Ernaux	CAP NNP
-outlines	VPRT
-further	JJ
-pessimism	NN
-as	PIN CONJ PREP
-regards	NN
-to	PIN PREP
-social	JJ
-conditioning	GER
-and	CCONJ
-the	ART DET
-concept	NN
-of	PIN PREP
-a	ART DET INDA
-class	NN
-structure	NN
-,	
-by	PIN PREP
-explaining	GER PUBV PGAS
-that	PIN THVC SCONJ PREP
-people	NN
-who	WHSUB WH
-attempt	VPRT
-to	PIN TO PREP
-move	SUAV INF
-from	PIN PREP
-one	NUM
-sector	NN
-to	PIN PREP
-another	DET
-become	INF
-alienated	JJ
-.	
-This	DEMO CAP DET
-indeed	RB
-happens	VPRT
-to	PIN PREP
-the	ART DET
-narrator	NN
-herself	TPP3 PRP SBJP ACCU
-;	
-she	TPP3 PRP SBJP
-,	
-who	WHQU WH
-has	VPRT PEAS
-moved	SUAV
-into	PIN PREP
-the	ART DET
-bourgeoisie	NN
-,	
-has	VPRT
-a	ART DET INDA
-resulting	PGAS
-split	NN
--	
-personality	NOMZ
-.	
-That	DEMP CAP DET
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-she	TPP3 PRP SBJP
-feels	VPRT PRIV
-alienated	JJ
-from	PIN PREP
-her	TPP3 PRP SBJP
-family	NN
-and	CCONJ
-her	TPP3 PRP SBJP
-previous	JJ
-social	JJ
-class	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-herself	TPP3 PRP SBJP ACCU
-.	
-This	DEMP CAP DET
-is	PASS VPRT AUXB
-shown	PRIV
-when	RB WHCL SCONJ WH
-she	TPP3 PRP SBJP
-goes	VPRT
-back	RB
-to	PIN PREP
-the	ART DET
-café	NN
-and	CCONJ
-reports	VPRT PUBV
-to	PIN TO PREP
-feel	PRIV INF
-almost	DWNT RB
-like	PIN PREP
-an	ART DET INDA
-impostor	NN
-.	
-Another	CAP DET
-example	NN
-of	PIN PREP
-La	CAP NNP
-Place	CAP NNP
-being	BEMA WZPRES AUXB
-a	ART DET INDA
-pessimistic	JJ
-view	NN
-of	PIN PREP
-class	NN
-divisions	NOMZ
-and	CCONJ
-social	JJ
-conditioning	GER
-is	BEMA VPRT AUXB
-the	ART DET
-point	NN
-that	TOBJ WHOBJ WH
-her	TPP3 PRP SBJP
-father	NN
-does	VPRT SPAU
-not	XX0 RB
-fit	INF
-in	PIN CONJ PREP
-and	CCONJ
-even	RB
-feels	VPRT PRIV
-embarrassed	JJ
-when	RB SCONJ WH
-speaking	PGAS
-to	PIN STPR PREP
-,	
-or	CCONJ
-in	PIN CONJ PREP
-the	ART DET
-company	NN
-of	PIN STPR PREP
-,	
-those	DEMO DET
-from	PIN PREP
-a	ART DET INDA
-higher	JJ CMADJ
-social	JJ
-class	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-the	ART DET
-class	NN
-divisions	NOMZ
-and	PHC CCONJ
-language	NN
-barriers	NN
-which	WHSUB DET WH
-coincide	VPRT
-with	PIN PREP
-them	TPP3 PRP SBJP ACCU
-,	
-he	TPP3 PRP SBJP
-can	POMD SPAU
-never	RB
-be	AUXB INF
-himself	TPP3 PRP SBJP ACCU
-in	PIN CONJ PREP
-certain	JJ
-groups	NN
-and	ANDC CCONJ
-this	DEMP DET
-is	BEMA VPRT AUXB
-how	RB SCONJ WH
-a	ART DET INDA
-person	NN
-'s	
-identity	NOMZ
-is	PASS VPRT SPAU AUXB
-partly	DWNT RB
-lost	
-.	
-He	TPP3 CAP PRP SBJP
-is	PASS VPRT BYPA SPAU AUXB
-always	RB
-compelled	
-by	PIN STPR PREP
-'	CONT QUOT
-La	CAP NNP
-peur	NNP
-d'être	NNP
-déplacé	NNP
-,	
-d'avoir	NNP
-honte	NNP
-.	
-'	CONT QUOT
-he	TPP3 PRP SBJP
-feels	VPRT PRIV
-always	RB
-out	PIN PREP
-of	PIN PREP
-place	NN
-and	CCONJ
-,	
-because	CAUS PIN SCONJ PREP
-he	TPP3 PRP SBJP
-has	VPRT PEAS
-become	
-a	ART DET INDA
-marchant	NN
-,	
-is	BEMA VPRT AUXB
-afraid	JJ PRED
-of	PIN PREP
-making	PGAS
-mistakes	NN
-and	CCONJ
-being	PASS AUXB
-found	PRIV
-out	PIN PREP
-of	PIN PREP
-being	BEMA AUXB
-a	ART DET INDA
-paysan	NN
--	
-'	CONT QUOT
-devant	JJ
-les	X
-gens	VPRT
-qui	NNP
-parlaient	NNP
-bien	NNP
-il	NNP
-se	NNP
-taisait,	NNP
-...	
-toujours	NN
-parler	NN
-(	
-parlait	NNP
-)	
-avec	PIN PREP
-précaution	NOMZ
-...	
-il	NNP
-détestait	NNP
-aussi	NNP
-les	NNP
-grandes	VPRT
-phrases	NN
-et	NNP
-les	NN
-expressions	NOMZ
-nouvelles	NN
-'	CONT QUOT
-.	
-The	ART CAP DET
-pessimistic	JJ
-view	NN
-put	WZPAST
-forward	RB
-here	RB
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-presence	NN
-of	PIN PREP
-a	ART DET INDA
-different	JJ
-class	NN
-ensures	VPRT PRIV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-father	NN
-has	VPRT
-always	RB
-to	PIN TO PREP
-be	BEMA AUXB INF
-on	PIN PREP
-his	TPP3 PRP SBJP
-guard	NN
-,	
-he	TPP3 PRP SBJP
-is	PASS VPRT AUXB
-separated	
-from	PIN PREP
-them	TPP3 PRP SBJP ACCU
-and	CCONJ
-his	TPP3 PRP SBJP
-daughter	NN
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-belongs	VPRT
-to	PIN PREP
-a	ART DET INDA
-different	JJ
-sphere	NN
-of	PIN PREP
-knowledge	NN
-.	
-The	ART CAP DET
-point	NN
-of	PIN PREP
-language	NN
-further	RB
-alienates	VPRT
-her	TPP3 PRP SBJP
-father	NN
-as	PIN CONJ PREP
-we	FPP1 PRP SBJP
-discover	VPRT PRIV
-that	PIN THVC SCONJ PREP
-her	TPP3 PRP SBJP
-mother	NN
-is	BEMA VPRT AUXB
-somewhat	DWNT RB
-different	JJ
-;	
-in	PIN CONJ PREP
-that	PIN DEMO SCONJ PREP
-she	TPP3 PRP SBJP
-is	VPRT AUXB
-'	CONT QUOT
-soucieuse	NN
-de	NNP
-faire	X
-évoluée	NNP
-,	
-qui	NNP
-osait	NNP
-experimenter	NNP
-,	
-avec	PIN PREP
-un	NNP
-rien	NNP
-d'incertitude	NNP
-,	
-ce	NNP
-qu'elle	NNP
-venait	NNP
-d'entendre	NNP
-ou	PIN PREP
-de	NNP
-lire	NNP
-'	CONT QUOT
-as	PIN CONJ PREP
-opposed	
-to	PIN PREP
-him	TPP3 PRP SBJP ACCU
-who	WH
-'	CONT QUOT
-se	RB
-refusait	VPRT
-à	DET
-employer	NN
-un	NNP
-vocabulaire	NNP
-qui	NNP
-n'était	NNP
-pas	NNP
-le	NNP
-sien	NNP
-.	
-'	CONT QUOT
-He	TPP3 CAP PRP SBJP
-is	VPRT AUXB
-,	
-therefore	RB CONJ
-,	
-portrayed	PASTP
-as	PIN CONJ PREP
-being	PASS AUXB
-left	
-completely	AMP RB
-isolated	JJ
-.	
-Ernaux	CAP NNP
-,	
-Annie	CAP NNP
-.	
-,	
-La	CAP NNP
-Place	CAP NNP
-(	
-1983	NUM
-)	
-,	
-p.59	NNP
-Ibid	CAP NNP
-.	
-,	
-p.63	X
-Ibid	NN CAP
-.	
-,	
-p.63	X
-Ibid	NN CAP
-.	
-,	
-pp.63	NUM
--	
-64	NUM
-The	ART CAP DET
-social	JJ
-conditions	NOMZ
-and	CCONJ
-the	ART DET
-very	AMP JJ
-fact	NN
-that	PIN TOBJ SCONJ PREP
-a	ART DET INDA
-class	NN
-structure	NN
-exists	VPRT
-cause	VPRT
-the	ART DET
-narrator	NN
-to	PIN TO PREP
-feel	PRIV INF
-guilty	JJ
-.	
-She	TPP3 CAP PRP SBJP
-feels	VPRT PRIV
-guilty	JJ
-when	RB SCONJ WH
-coming	PGAS
-back	RB
-to	PIN PREP
-the	ART DET
-café	NN
-and	CCONJ
-also	RB
-when	RB SCONJ WH
-she	TPP3 PRP SBJP
-meets	VPRT
-her	TPP3 PRP SBJP
-former	JJ
-pupil	NN
-who	WHSUB WH
-says	VPRT PUBV
-to	PIN PREP
-her	TPP3 PRP SBJP ACCU
-she	TPP3 PRP SBJP
-has	VPRT PEAS
-failed	
-.	
-The	ART CAP DET
-narrator	NN
-can	POMD SPAU
-not	XX0 RB
-even	RB
-remember	PRIV INF
-the	ART DET
-woman	NN
-and	CCONJ
-feels	VPRT PRIV THATD
-she	TPP3 PRP SBJP
-has	VPRT PEAS
-failed	
-in	PIN CONJ PREP
-some	QUAN DET
-way	NN
-.	
-'	CONT QUOT
-"	QUOT
-Le	CAP NNP
-C.E.T.	CAP NNP
-,	
-ça	NNP
-n'a	NNP
-pas	NNP
-marché	NN
-.	
-"	QUOT
-...	
-Mais	CAP NNP
-j'avais	NNP
-oublié	NNP
-pourquoi	NNP
-elle	NNP
-avait	NNP
-été	NNP
-envoyé	NNP
-en	X
-C.E.T.	CAP NNP
-'	CONT QUOT
-The	ART CAP DET
-arrogance	NN
-of	PIN PREP
-the	ART DET
-librarians	NN
-is	BEMA VPRT AUXB
-another	DET
-pessimistic	JJ
-view	NN
-concerning	GER WZPRES PGAS
-the	ART DET
-class	NN
-divisions	NOMZ
-;	
-when	RB SCONJ WH
-the	ART DET
-father	NN
-asks	VPRT SUAV
-for	PIN PREP
-some	QUAN DET
-books	NN
-one	NUM
-of	PIN PREP
-the	ART DET
-librarians	NNP
-'	CONT QUOT
-a	ART DET INDA
-choisi	JJ
-à	NNP
-notre	NNP
-place	NN
-,	
-Columba	CAP NNP
-pour	NN
-moi	NN
-,	
-un	NNP
-roman	NNP
-léger	NNP
-de	NNP
-Maupassant	CAP NNP
-pour	VPRT
-mon	NNP
-père	NNP
-.	
-'	CONT QUOT
-These	DEMP CAP DET
-are	BEMA VPRT AUXB
-both	DET
-non	JJ
--	JJ
-challenging	JJ
-pieces	NN
-.	
-The	ART CAP DET
-appearance	NN
-of	PIN PREP
-exclusivity	NOMZ
-evoked	WZPAST
-by	PIN PREP
-the	ART DET
-librarians	NN
-of	PIN PREP
-the	ART DET
-educated	
-,	
-higher	JJ CMADJ
-class	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-negative	JJ
-one	NUM
-.	
-Ibid	CAP INF
-.	
-,	
-p.114	NNP
-Ibid	CAP NNP
-.	
-,	
-p.112	X
-Whilst	OSUB PIN CAP SCONJ PREP
-everyone	QUPR INPR
-is	VPRT AUXB
-trying	PGAS
-desperately	RB
-to	PIN TO PREP
-fit	INF
-in	PIN CONJ PREP
-to	PIN PREP
-a	ART DET INDA
-place	NN
-where	RB WHOBJ SCONJ WH
-their	TPP3 PRP SBJP
-identity	NOMZ
-is	PASS VPRT AUXB
-contradicted	
-,	
-people	NN
-become	VPRT
-isolated	JJ
-.	
-This	DEMP CAP DET
-occurs	VPRT
-in	PIN CONJ PREP
-each	QUAN DET
-generation	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-book	NN
-.	
-It	PIT CAP PRP SBJP
-seems	VPRT SMP
-also	RB
-,	
-that	PIN THVC SCONJ PREP
-the	ART DET
-targeted	
-ideal	NN
-is	PASS VPRT BYPA SPAU AUXB
-actually	RB
-never	RB
-reached	
-by	PIN PREP
-anyone	QUPR INPR
-.	
-However	RB CONJ CAP
-,	
-there	EX
-are	VPRT AUXB
-some	QUAN DET
-themes	NN
-in	PIN CONJ PREP
-the	ART DET
-book	NN
-which	WHOBJ DET WH
-one	PRP SBJP
-could	POMD
-interpret	INF
-as	PIN CONJ PREP
-not	XX0 RB
-pessimistic	JJ
-of	PIN PREP
-social	JJ
-standing	NN
-and	PHC CCONJ
-class	NN
-divisions	NOMZ
-.	
-The	ART CAP DET
-father	NN
-,	
-although	CONC PIN SCONJ PREP
-uneasy	JJ
-in	PIN CONJ PREP
-certain	JJ
-situations	NOMZ
-,	
-never	RB
-suffers	VPRT
-any	QUAN DET
-real	JJ
-hardship	NN
-so	PIN SCONJ PREP
-it	PIT PRP SBJP
-could	POMD
-be	PASS AUXB INF
-argued	PUBV
-that	PIN THVC SCONJ PREP
-pessimism	NN
-is	BEMA VPRT AUXB
-too	RB
-strong	JJ
-a	ART DET INDA
-word	NN
-.	
-The	ART CAP DET
-narrator	NN
-is	VPRT AUXB
-part	NN
-of	PIN PREP
-these	DEMO DET
-class	NN
-divisions	NOMZ
-and	CCONJ
-social	JJ
-conditions	NOMZ
-and	CCONJ
-helps	VPRT
-to	PIN TO PREP
-judge	PRIV INF
-them	TPP3 PRP SBJP ACCU
-,	
-being	BEMA PRESP AUXB
-a	ART DET INDA
-teacher	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-unlikely	JJ PRED
-therefore	RB CONJ
-that	PIN DEMO SCONJ PREP
-she	TPP3 PRP SBJP
-would	PRMD
-speak	INF
-with	PIN PREP
-total	JJ
-pessimism	NN
-.	
-Another	CAP DET
-example	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-one	PRP SBJP
-could	POMD
-interpret	INF
-the	ART DET
-class	NN
-divisions	NOMZ
-and	CCONJ
-indeed	RB
-the	ART DET
-social	JJ
-conditions	NOMZ
-as	PIN CONJ PREP
-being	BEMA AUXB
-the	ART DET
-reason	PRIV NN
-for	PIN PREP
-people	NN
--	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-narrator	NN
--	
-to	PIN TO PREP
-become	INF
-educated	JJ
-and	CCONJ
-want	VPRT
-to	PIN TO PREP
-better	INF
-themselves	TPP3 PRP SBJP ACCU
-.	
-Although	CONC PIN CAP SCONJ PREP
-the	ART DET
-reasons	PRIV NN
-for	PIN PREP
-this	DEMP DET
-(	
-the	ART DET
-want	NN
-to	PIN TO PREP
-fit	INF
-in	PIN CONJ PREP
-with	PIN PREP
-a	ART DET INDA
-higher	JJ CMADJ
-society	NN
-)	
-may	POMD SPAU
-not	XX0 RB
-be	AUXB INF
-entirely	AMP RB
-just	RB EMPH
-or	CCONJ
-ideal	JJ
-,	
-a	ART DET INDA
-population	NOMZ
-filled	WZPAST
-with	PIN PREP
-such	JJ
-sorts	NN
--	
-those	DEMP DET
-who	WH
-strive	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-educated	
--	
-can	POMD SPAU
-surely	RB
-only	DWNT RB
-be	BEMA AUXB INF
-beneficial	JJ PRED
-to	PIN PREP
-a	ART DET INDA
-society	NN
-.	
-Therefore	RB CONJ CAP
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-situation	NOMZ
-such	JJ
-class	NN
-divisions	NOMZ
-and	CCONJ
-social	JJ
-conditions	NOMZ
-can	POMD SPAU
-hardly	DWNT RB
-be	PASS AUXB INF
-viewed	
-as	PIN CONJ PREP
-pessimistic	JJ
-.	
-The	ART CAP DET
-narrator	NN
-indeed	RB
-speaks	VPRT
-highly	AMP RB
-of	PIN PREP
-her	TPP3 PRP SBJP
-education	NOMZ
-throughout	PIN STPR PREP
-.	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-therefore	RB CONJ
-,	
-although	CONC PIN SCONJ PREP
-there	EX
-are	VPRT AUXB
-a	ART DET INDA
-small	JJ
-number	NN
-of	PIN PREP
-examples	NN
-which	WHSUB DET WH
-could	POMD
-be	PASS AUXB INF
-interpreted	
-as	PIN CONJ PREP
-contradicting	GER PGAS
-to	PIN PREP
-this	DEMO DET
-statement	NOMZ
-,	
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-portrayal	NN
-of	PIN PREP
-guilt	NN
-but	CCONJ
-mainly	RB
-alienation	NOMZ
-and	PHC CCONJ
-pressure	NN
-,	
-La	CAP NNP
-Place	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-pessimistic	JJ
-view	NN
-of	PIN PREP
-social	JJ
-conditions	NOMZ
-and	PHC CCONJ
-class	NN
-divisions	NOMZ
-.	
+type	content	tags
+word	La	CAP NNP
+gap	 	
+word	Place	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	piece	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	work	NN
+gap	, 	
+word	of	PIN PREP
+gap	 	
+word	biographical	JJ
+gap	 	
+word	intent	NN
+gap	, 	
+word	targeting	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	narration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	life	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	father	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Annie	CAP NNP
+gap	 	
+word	Ernaux	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	narrator	NN
+gap	 	
+word	wishes	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	depict	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	portrait	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	father	NN
+gap	'	
+word	s	
+gap	 	
+word	life	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	objective	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	suffer	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	bias	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	which	DET WH
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	subjective	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	sentimental	JJ
+gap	 - 	
+word	a	ART DET INDA
+gap	 	
+word	flaw	NN
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	readily	RB
+gap	 	
+word	points	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	accounts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	similar	JJ
+gap	 	
+word	intent	NN
+gap	: ' 	
+word	Pour	CAP INF
+gap	 	
+word	rendre	NN
+gap	 	
+word	compte	NN
+gap	 	
+word	d	
+gap	'	
+word	une	
+gap	 	
+word	vie	
+gap	 	
+word	soumise	
+gap	 	
+word	à	
+gap	 	
+word	la	
+gap	 	
+word	nécessité	
+gap	, 	
+word	je	NNP
+gap	 	
+word	n	
+gap	'	
+word	ai	
+gap	 	
+word	pas	
+gap	 	
+word	le	
+gap	 	
+word	droit	
+gap	 	
+word	de	
+gap	 	
+word	prendre	
+gap	 	
+word	d	
+gap	'	
+word	abord	
+gap	 	
+word	le	
+gap	 	
+word	partie	
+gap	 	
+word	de	
+gap	 	
+word	l	
+gap	'	
+word	art	
+gap	, 	
+word	ni	
+gap	 	
+word	de	
+gap	 	
+word	chercher	
+gap	 	
+word	à	
+gap	 	
+word	faire	
+gap	 	
+word	quelque	
+gap	 	
+word	chose	
+gap	 	
+word	de	
+gap	 "	
+word	passionnant	
+gap	", 	
+word	ou	
+gap	 	
+word	d	
+gap	'"	
+word	émouvant	
+gap	". ' 	
+word	This	
+gap	 	
+word	piece	
+gap	, 	
+word	however	
+gap	, 	
+word	fails	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	scientific	
+gap	 	
+word	and	
+gap	 	
+word	non	
+gap	-	
+word	emotive	
+gap	 	
+word	throughout	
+gap	; 	
+word	it	
+gap	 	
+word	becomes	
+gap	 	
+word	instead	
+gap	 	
+word	one	
+gap	 	
+word	filled	
+gap	 	
+word	with	
+gap	 	
+word	auto	
+gap	-	
+word	reflection	
+gap	 	
+word	and	
+gap	 	
+word	removed	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	intended	
+gap	 	
+word	narrative	
+gap	 	
+word	into	
+gap	 	
+word	a	
+gap	 	
+word	meta	
+gap	-	
+word	narrative	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	partly	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	Ernaux	
+gap	 	
+word	transforms	
+gap	 	
+word	herself	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	narration	
+gap	 	
+word	progresses	
+gap	 	
+word	and	
+gap	 	
+word	realises	
+gap	 	
+word	that	
+gap	 	
+word	she	
+gap	 	
+word	herself	
+gap	 	
+word	is	
+gap	 	
+word	split	
+gap	 	
+word	between	
+gap	 	
+word	two	
+gap	 	
+word	social	
+gap	 	
+word	classes	
+gap	. 	
+word	The	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	she	
+gap	 	
+word	fails	
+gap	 	
+word	to	
+gap	 	
+word	remain	
+gap	 	
+word	audit	
+gap	 	
+word	throughout	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	key	
+gap	 	
+word	pessimistic	
+gap	 	
+word	views	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	book	
+gap	, 	
+word	as	
+gap	 	
+word	she	
+gap	 	
+word	has	
+gap	 	
+word	failed	
+gap	 	
+word	this	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	ART CAP DET
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	. 	
+word	The	
+gap	 	
+word	themes	
+gap	 	
+word	of	
+gap	 	
+word	social	
+gap	 	
+word	conditioning	
+gap	 	
+word	and	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	 	
+word	are	
+gap	, 	
+word	therefore	
+gap	, 	
+word	paramount	
+gap	 	
+word	throughout	
+gap	 ' 	
+word	La	
+gap	 	
+word	Place	
+gap	 ' - 	
+word	the	
+gap	 	
+word	title	
+gap	 	
+word	itself	
+gap	 	
+word	hints	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	importance	
+gap	 	
+word	of	
+gap	 	
+word	one	
+gap	'	
+word	s	
+gap	 '	
+word	place	
+gap	' 	
+word	in	
+gap	 	
+word	society	
+gap	 - 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	many	
+gap	 	
+word	examples	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	 	
+word	of	
+gap	 	
+word	alienation	
+gap	, 	
+word	guilt	
+gap	 	
+word	and	
+gap	 	
+word	schism	
+gap	 	
+word	to	
+gap	 	
+word	prove	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	'	
+word	s	
+gap	 	
+word	views	
+gap	 	
+word	on	
+gap	 	
+word	these	
+gap	 	
+word	issues	
+gap	 	
+word	are	
+gap	, 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	whole	
+gap	, 	
+word	pessimistic	
+gap	. 	
+word	Ernaux	
+gap	, 	
+word	Annie	
+gap	., 	
+word	La	
+gap	 	
+word	Place	
+gap	 (1983), 	
+word	p	
+gap	.24 	
+word	Western	
+gap	 	
+word	civilisation	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	geared	
+gap	 	
+word	towards	
+gap	 	
+word	consumption	
+gap	 	
+word	under	
+gap	 	
+word	the	
+gap	 	
+word	aegis	
+gap	 	
+word	of	
+gap	 	
+word	capitalism	
+gap	 	
+word	and	
+gap	, 	
+word	therefore	
+gap	, 	
+word	in	
+gap	 	
+word	every	
+gap	 	
+word	similar	
+gap	 	
+word	society	
+gap	, 	
+word	a	
+gap	 	
+word	class	
+gap	 	
+word	structure	
+gap	 	
+word	will	
+gap	 	
+word	inevitably	
+gap	 	
+word	emerge	
+gap	. 	
+word	Social	
+gap	 	
+word	conditions	
+gap	 	
+word	and	
+gap	 	
+word	external	
+gap	 	
+word	forces	
+gap	 - 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	peer	
+gap	-	
+word	pressure	
+gap	, 	
+word	create	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	social	
+gap	 	
+word	model	
+gap	 	
+word	or	
+gap	 "	
+word	norm	
+gap	" 	
+word	to	
+gap	 	
+word	which	
+gap	 	
+word	one	
+gap	 	
+word	feels	
+gap	 	
+word	compelled	
+gap	 	
+word	to	
+gap	 	
+word	abide	
+gap	 	
+word	by	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	many	
+gap	 	
+word	examples	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	pressure	
+gap	 	
+word	on	
+gap	 	
+word	people	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	these	
+gap	 	
+word	artificial	
+gap	 	
+word	criteria	
+gap	 	
+word	in	
+gap	 ' 	
+word	La	
+gap	 	
+word	Place	
+gap	 '. 	
+word	The	ART DET
+gap	 	
+word	father	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 	
+word	is	
+gap	 	
+word	portrayed	
+gap	 	
+word	as	
+gap	 	
+word	desperate	
+gap	 	
+word	ensure	
+gap	 	
+word	that	
+gap	 	
+word	his	
+gap	 	
+word	daughter	
+gap	 	
+word	is	
+gap	 	
+word	educated	
+gap	 	
+word	into	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	social	
+gap	 	
+word	class	
+gap	, 	
+word	perhaps	
+gap	 	
+word	so	
+gap	 	
+word	she	
+gap	 	
+word	will	
+gap	 	
+word	never	
+gap	 	
+word	feel	
+gap	 	
+word	as	
+gap	 	
+word	uncomfortable	
+gap	 	
+word	in	
+gap	 	
+word	the	ART DET
+gap	 	
+word	company	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	bourgeoisie	
+gap	 	
+word	as	
+gap	 	
+word	he	TPP3 CAP PRP SBJP
+gap	 	
+word	often	
+gap	 	
+word	does	
+gap	. 	
+word	He	
+gap	 	
+word	becomes	
+gap	 	
+word	increasingly	
+gap	 	
+word	more	
+gap	 	
+word	distant	
+gap	 	
+word	from	
+gap	 	
+word	his	
+gap	 	
+word	daughter	
+gap	 	
+word	but	
+gap	 	
+word	wishes	
+gap	 	
+word	to	
+gap	 	
+word	ensure	
+gap	 	
+word	her	
+gap	 	
+word	elevation	
+gap	 	
+word	nonetheless	
+gap	: ' 	
+word	Il	
+gap	 	
+word	me	
+gap	 	
+word	conduisait	
+gap	 	
+word	de	
+gap	 	
+word	la	
+gap	 	
+word	maison	
+gap	 	
+word	à	
+gap	 	
+word	l	
+gap	'	
+word	école	
+gap	 	
+word	sur	
+gap	 	
+word	son	
+gap	 	
+word	vélo	
+gap	. ' 	
+word	The	
+gap	 	
+word	social	
+gap	 	
+word	conditions	
+gap	 	
+word	are	
+gap	 	
+word	so	
+gap	 	
+word	strong	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	father	
+gap	 	
+word	actually	
+gap	, 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	example	
+gap	, 	
+word	takes	
+gap	 	
+word	her	
+gap	 	
+word	daughter	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	place	
+gap	 	
+word	which	
+gap	 	
+word	he	
+gap	 	
+word	knows	
+gap	 	
+word	will	
+gap	 	
+word	distance	
+gap	 	
+word	him	
+gap	 	
+word	further	
+gap	 	
+word	from	
+gap	 	
+word	his	
+gap	 	
+word	daughter	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	pessimistic	
+gap	 	
+word	view	
+gap	. 	
+word	The	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	being	
+gap	 	
+word	educated	
+gap	 	
+word	into	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	sector	
+gap	 	
+word	of	
+gap	 	
+word	society	
+gap	, 	
+word	mirrors	
+gap	 	
+word	those	
+gap	 	
+word	of	
+gap	 	
+word	Bourdieu	
+gap	 - 	
+word	a	
+gap	 	
+word	French	
+gap	 	
+word	sociologist	
+gap	 	
+word	who	
+gap	 	
+word	outlines	
+gap	 ' 	
+word	linguitic	
+gap	 	
+word	and	
+gap	 	
+word	cultural	
+gap	 	
+word	capital	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	significant	
+gap	 	
+word	as	
+gap	 	
+word	economic	
+gap	 	
+word	capital	
+gap	 '. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	mirrored	
+gap	 	
+word	in	
+gap	 	
+word	La	
+gap	 	
+word	Place	
+gap	 : ' 	
+word	Tout	
+gap	 	
+word	ce	
+gap	 	
+word	qui	
+gap	 	
+word	touché	
+gap	 	
+word	au	
+gap	 	
+word	langage	
+gap	 	
+word	est	
+gap	 	
+word	dans	
+gap	 	
+word	mon	
+gap	 	
+word	souvenir	
+gap	 	
+word	motif	
+gap	 	
+word	de	
+gap	 	
+word	rancœur	
+gap	 	
+word	et	NNP
+gap	 	
+word	de	NNP
+gap	 	
+word	chicanes	NNP
+gap	 	
+word	douloureuses	NN
+gap	, 	
+word	bien	NN
+gap	 	
+word	plus	PIN CCONJ PREP
+gap	 	
+word	que	NNP
+gap	 	
+word	l	
+gap	'	
+word	argent	
+gap	. ' 	
+word	Bordieu	
+gap	 	
+word	also	
+gap	 	
+word	expresses	
+gap	 	
+word	the	
+gap	 	
+word	difference	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 ' 	
+word	classes	
+gap	 	
+word	dominantes	
+gap	 / 	
+word	classes	
+gap	 	
+word	dominées	
+gap	 ' 	
+word	which	SERE DET WH
+gap	 	
+word	Ernaux	CAP NNP
+gap	 	
+word	also	RB
+gap	 	
+word	outlines	VPRT
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	shares	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	pessimistic	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	. 	
+word	Ibid	CAP INF
+gap	., 	
+word	p	NNP
+gap	.112 	
+word	Bourdieu	CAP NNP
+gap	, 	
+word	La	CAP NNP
+gap	 	
+word	Distinction	CAP NNP
+gap	, 	
+word	critique	NN
+gap	 	
+word	sociale	NN
+gap	 	
+word	du	NN
+gap	 	
+word	jugement	JJ
+gap	 (1979) 	
+word	Ernaux	CAP NNP
+gap	, 	
+word	Annie	CAP NNP
+gap	., 	
+word	La	CAP NNP
+gap	 	
+word	Place	CAP NNP
+gap	 (1983), 	
+word	p	NNP
+gap	.64 	
+word	Bourdieu	CAP NNP
+gap	, 	
+word	La	CAP NNP
+gap	 	
+word	Distinction	CAP NNP
+gap	, 	
+word	critique	NN
+gap	 	
+word	sociale	NN
+gap	 	
+word	du	NN
+gap	 	
+word	jugement	JJ
+gap	 (1979) 	
+word	Ernaux	CAP NNP
+gap	 	
+word	outlines	VPRT
+gap	 	
+word	further	JJ
+gap	 	
+word	pessimism	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	regards	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	conditioning	GER
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	class	NN
+gap	 	
+word	structure	NN
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	explaining	GER PUBV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	attempt	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	move	SUAV INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	sector	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	another	DET
+gap	 	
+word	become	INF
+gap	 	
+word	alienated	JJ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	indeed	RB
+gap	 	
+word	happens	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	narrator	NN
+gap	 	
+word	herself	TPP3 PRP SBJP ACCU
+gap	; 	
+word	she	TPP3 PRP SBJP
+gap	, 	
+word	who	WHQU WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	moved	SUAV
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	bourgeoisie	NN
+gap	, 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	resulting	PGAS
+gap	 	
+word	split	NN
+gap	-	
+word	personality	NOMZ
+gap	. 	
+word	That	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	feels	VPRT PRIV
+gap	 	
+word	alienated	JJ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	family	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	previous	JJ
+gap	 	
+word	social	JJ
+gap	 	
+word	class	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	herself	TPP3 PRP SBJP ACCU
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	shown	PRIV
+gap	 	
+word	when	RB WHCL SCONJ WH
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	goes	VPRT
+gap	 	
+word	back	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	café	
+gap	 	
+word	and	
+gap	 	
+word	reports	
+gap	 	
+word	to	
+gap	 	
+word	feel	
+gap	 	
+word	almost	
+gap	 	
+word	like	
+gap	 	
+word	an	
+gap	 	
+word	impostor	
+gap	. 	
+word	Another	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	La	
+gap	 	
+word	Place	
+gap	 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	pessimistic	
+gap	 	
+word	view	
+gap	 	
+word	of	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	 	
+word	and	
+gap	 	
+word	social	
+gap	 	
+word	conditioning	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	point	
+gap	 	
+word	that	
+gap	 	
+word	her	
+gap	 	
+word	father	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	fit	
+gap	 	
+word	in	
+gap	 	
+word	and	
+gap	 	
+word	even	
+gap	 	
+word	feels	
+gap	 	
+word	embarrassed	
+gap	 	
+word	when	
+gap	 	
+word	speaking	
+gap	 	
+word	to	
+gap	, 	
+word	or	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	of	
+gap	, 	
+word	those	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	social	
+gap	 	
+word	class	
+gap	. 	
+word	Because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	 	
+word	and	
+gap	 	
+word	language	
+gap	 	
+word	barriers	
+gap	 	
+word	which	
+gap	 	
+word	coincide	
+gap	 	
+word	with	
+gap	 	
+word	them	
+gap	, 	
+word	he	
+gap	 	
+word	can	
+gap	 	
+word	never	
+gap	 	
+word	be	
+gap	 	
+word	himself	
+gap	 	
+word	in	
+gap	 	
+word	certain	
+gap	 	
+word	groups	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	how	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	'	
+word	s	
+gap	 	
+word	identity	
+gap	 	
+word	is	
+gap	 	
+word	partly	
+gap	 	
+word	lost	
+gap	. 	
+word	He	
+gap	 	
+word	is	
+gap	 	
+word	always	
+gap	 	
+word	compelled	
+gap	 	
+word	by	
+gap	 ' 	
+word	La	
+gap	 	
+word	peur	
+gap	 	
+word	d	
+gap	'	
+word	être	
+gap	 	
+word	déplacé	
+gap	, 	
+word	d	
+gap	'	
+word	avoir	
+gap	 	
+word	honte	
+gap	. ' 	
+word	he	
+gap	 	
+word	feels	
+gap	 	
+word	always	
+gap	 	
+word	out	
+gap	 	
+word	of	
+gap	 	
+word	place	
+gap	 	
+word	and	
+gap	, 	
+word	because	
+gap	 	
+word	he	
+gap	 	
+word	has	
+gap	 	
+word	become	
+gap	 	
+word	a	
+gap	 	
+word	marchant	
+gap	 , 	
+word	is	
+gap	 	
+word	afraid	
+gap	 	
+word	of	
+gap	 	
+word	making	
+gap	 	
+word	mistakes	
+gap	 	
+word	and	
+gap	 	
+word	being	
+gap	 	
+word	found	
+gap	 	
+word	out	
+gap	 	
+word	of	
+gap	 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	paysan	
+gap	 - ' 	
+word	devant	
+gap	 	
+word	les	
+gap	 	
+word	gens	
+gap	 	
+word	qui	
+gap	 	
+word	parlaient	
+gap	 	
+word	bien	
+gap	 	
+word	il	
+gap	 	
+word	se	
+gap	 	
+word	taisait	
+gap	,...	
+word	toujours	
+gap	 	
+word	parler	
+gap	 (	
+word	parlait	
+gap	) 	
+word	avec	
+gap	 	
+word	précaution	
+gap	...	
+word	il	
+gap	 	
+word	détestait	
+gap	 	
+word	aussi	
+gap	 	
+word	les	
+gap	 	
+word	grandes	
+gap	 	
+word	phrases	
+gap	 	
+word	et	
+gap	 	
+word	les	
+gap	 	
+word	expressions	
+gap	 	
+word	nouvelles	
+gap	 ' . 	
+word	The	
+gap	 	
+word	pessimistic	
+gap	 	
+word	view	
+gap	 	
+word	put	
+gap	 	
+word	forward	
+gap	 	
+word	here	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	presence	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	class	
+gap	 	
+word	ensures	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	father	
+gap	 	
+word	has	
+gap	 	
+word	always	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	on	
+gap	 	
+word	his	
+gap	 	
+word	guard	
+gap	, 	
+word	he	
+gap	 	
+word	is	
+gap	 	
+word	separated	
+gap	 	
+word	from	
+gap	 	
+word	them	
+gap	 	
+word	and	
+gap	 	
+word	his	
+gap	 	
+word	daughter	
+gap	 	
+word	as	
+gap	 	
+word	he	
+gap	 	
+word	belongs	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	sphere	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	. 	
+word	The	
+gap	 	
+word	point	
+gap	 	
+word	of	
+gap	 	
+word	language	
+gap	 	
+word	further	
+gap	 	
+word	alienates	
+gap	 	
+word	her	
+gap	 	
+word	father	
+gap	 	
+word	as	
+gap	 	
+word	we	
+gap	 	
+word	discover	
+gap	 	
+word	that	
+gap	 	
+word	her	
+gap	 	
+word	mother	
+gap	 	
+word	is	
+gap	 	
+word	somewhat	
+gap	 	
+word	different	
+gap	; 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	she	
+gap	 	
+word	is	
+gap	 ' 	
+word	soucieuse	
+gap	 	
+word	de	
+gap	 	
+word	faire	
+gap	 	
+word	évoluée	
+gap	, 	
+word	qui	
+gap	 	
+word	osait	
+gap	 	
+word	experimenter	
+gap	, 	
+word	avec	
+gap	 	
+word	un	
+gap	 	
+word	rien	
+gap	 	
+word	d	
+gap	'	
+word	incertitude	
+gap	, 	
+word	ce	
+gap	 	
+word	qu	
+gap	'	
+word	elle	
+gap	 	
+word	venait	
+gap	 	
+word	d	
+gap	'	
+word	entendre	
+gap	 	
+word	ou	
+gap	 	
+word	de	
+gap	 	
+word	lire	
+gap	 ' 	
+word	as	
+gap	 	
+word	opposed	
+gap	 	
+word	to	
+gap	 	
+word	him	
+gap	 	
+word	who	
+gap	 ' 	
+word	se	
+gap	 	
+word	refusait	
+gap	 	
+word	à	
+gap	 	
+word	employer	
+gap	 	
+word	un	
+gap	 	
+word	vocabulaire	
+gap	 	
+word	qui	
+gap	 	
+word	n	
+gap	'	
+word	était	
+gap	 	
+word	pas	
+gap	 	
+word	le	
+gap	 	
+word	sien	
+gap	. ' 	
+word	He	
+gap	 	
+word	is	
+gap	, 	
+word	therefore	
+gap	, 	
+word	portrayed	
+gap	 	
+word	as	
+gap	 	
+word	being	
+gap	 	
+word	left	
+gap	 	
+word	completely	
+gap	 	
+word	isolated	
+gap	. 	
+word	Ernaux	
+gap	, 	
+word	Annie	
+gap	., 	
+word	La	
+gap	 	
+word	Place	
+gap	 (1983), 	
+word	p	
+gap	.59 	
+word	Ibid	
+gap	., 	
+word	p	
+gap	.63 	
+word	Ibid	
+gap	., 	
+word	p	
+gap	.63 	
+word	Ibid	
+gap	., 	
+word	pp	
+gap	.63-64 	
+word	The	
+gap	 	
+word	social	
+gap	 	
+word	conditions	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	very	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	class	
+gap	 	
+word	structure	
+gap	 	
+word	exists	
+gap	 	
+word	cause	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 	
+word	to	
+gap	 	
+word	feel	
+gap	 	
+word	guilty	
+gap	. 	
+word	She	
+gap	 	
+word	feels	
+gap	 	
+word	guilty	
+gap	 	
+word	when	
+gap	 	
+word	coming	
+gap	 	
+word	back	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	café	
+gap	 	
+word	and	
+gap	 	
+word	also	
+gap	 	
+word	when	
+gap	 	
+word	she	
+gap	 	
+word	meets	
+gap	 	
+word	her	
+gap	 	
+word	former	
+gap	 	
+word	pupil	
+gap	 	
+word	who	
+gap	 	
+word	says	
+gap	 	
+word	to	
+gap	 	
+word	her	
+gap	 	
+word	she	
+gap	 	
+word	has	
+gap	 	
+word	failed	
+gap	. 	
+word	The	
+gap	 	
+word	narrator	
+gap	 	
+word	cannot	
+gap	 	
+word	even	
+gap	 	
+word	remember	
+gap	 	
+word	the	
+gap	 	
+word	woman	
+gap	 	
+word	and	
+gap	 	
+word	feels	
+gap	 	
+word	she	
+gap	 	
+word	has	
+gap	 	
+word	failed	
+gap	 	
+word	in	
+gap	 	
+word	some	
+gap	 	
+word	way	
+gap	. '" 	
+word	Le	
+gap	 	
+word	C	
+gap	.	
+word	E	
+gap	.	
+word	T	
+gap	., 	
+word	ça	
+gap	 	
+word	n	
+gap	'	
+word	a	NNP
+gap	 	
+word	pas	
+gap	 	
+word	marché	
+gap	."... 	
+word	Mais	
+gap	 	
+word	j	
+gap	'	
+word	avais	
+gap	 	
+word	oublié	
+gap	 	
+word	pourquoi	
+gap	 	
+word	elle	
+gap	 	
+word	avait	
+gap	 	
+word	été	
+gap	 	
+word	envoyé	
+gap	 	
+word	en	
+gap	 	
+word	C	
+gap	.	
+word	E	
+gap	.	
+word	T	
+gap	. ' 	
+word	The	
+gap	 	
+word	arrogance	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	librarians	
+gap	 	
+word	is	
+gap	 	
+word	another	
+gap	 	
+word	pessimistic	
+gap	 	
+word	view	
+gap	 	
+word	concerning	
+gap	 	
+word	the	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	; 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	father	
+gap	 	
+word	asks	
+gap	 	
+word	for	
+gap	 	
+word	some	
+gap	 	
+word	books	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	librarians	
+gap	 ' 	
+word	a	
+gap	 	
+word	choisi	
+gap	 	
+word	à	
+gap	 	
+word	notre	
+gap	 	
+word	place	
+gap	, 	
+word	Columba	
+gap	 	
+word	pour	
+gap	 	
+word	moi	
+gap	, 	
+word	un	
+gap	 	
+word	roman	
+gap	 	
+word	léger	
+gap	 	
+word	de	
+gap	 	
+word	Maupassant	
+gap	 	
+word	pour	
+gap	 	
+word	mon	
+gap	 	
+word	père	
+gap	. ' 	
+word	These	
+gap	 	
+word	are	
+gap	 	
+word	both	
+gap	 	
+word	non	
+gap	-	
+word	challenging	
+gap	 	
+word	pieces	
+gap	. 	
+word	The	
+gap	 	
+word	appearance	
+gap	 	
+word	of	
+gap	 	
+word	exclusivity	
+gap	 	
+word	evoked	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	librarians	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	educated	
+gap	, 	
+word	higher	
+gap	 	
+word	class	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	negative	
+gap	 	
+word	one	
+gap	. 	
+word	Ibid	
+gap	., 	
+word	p	
+gap	.114 	
+word	Ibid	
+gap	., 	
+word	p	
+gap	.112 	
+word	Whilst	
+gap	 	
+word	everyone	
+gap	 	
+word	is	
+gap	 	
+word	trying	
+gap	 	
+word	desperately	
+gap	 	
+word	to	
+gap	 	
+word	fit	
+gap	 	
+word	in	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	place	
+gap	 	
+word	where	
+gap	 	
+word	their	
+gap	 	
+word	identity	
+gap	 	
+word	is	
+gap	 	
+word	contradicted	
+gap	, 	
+word	people	
+gap	 	
+word	become	
+gap	 	
+word	isolated	
+gap	. 	
+word	This	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	each	
+gap	 	
+word	generation	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	book	
+gap	. 	
+word	It	
+gap	 	
+word	seems	
+gap	 	
+word	also	
+gap	, 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	targeted	
+gap	 	
+word	ideal	
+gap	 	
+word	is	
+gap	 	
+word	actually	
+gap	 	
+word	never	
+gap	 	
+word	reached	
+gap	 	
+word	by	
+gap	 	
+word	anyone	
+gap	. 	
+word	However	
+gap	, 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	some	
+gap	 	
+word	themes	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	book	
+gap	 	
+word	which	
+gap	 	
+word	one	
+gap	 	
+word	could	
+gap	 	
+word	interpret	
+gap	 	
+word	as	
+gap	 	
+word	not	
+gap	 	
+word	pessimistic	
+gap	 	
+word	of	
+gap	 	
+word	social	
+gap	 	
+word	standing	
+gap	 	
+word	and	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	. 	
+word	The	
+gap	 	
+word	father	
+gap	, 	
+word	although	
+gap	 	
+word	uneasy	
+gap	 	
+word	in	
+gap	 	
+word	certain	
+gap	 	
+word	situations	
+gap	, 	
+word	never	
+gap	 	
+word	suffers	
+gap	 	
+word	any	
+gap	 	
+word	real	
+gap	 	
+word	hardship	
+gap	 	
+word	so	
+gap	 	
+word	it	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	argued	
+gap	 	
+word	that	
+gap	 	
+word	pessimism	
+gap	 	
+word	is	
+gap	 	
+word	too	
+gap	 	
+word	strong	
+gap	 	
+word	a	
+gap	 	
+word	word	
+gap	. 	
+word	The	
+gap	 	
+word	narrator	
+gap	 	
+word	is	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	 	
+word	and	
+gap	 	
+word	social	
+gap	 	
+word	conditions	
+gap	 	
+word	and	
+gap	 	
+word	helps	
+gap	 	
+word	to	
+gap	 	
+word	judge	
+gap	 	
+word	them	
+gap	, 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	teacher	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	unlikely	
+gap	 	
+word	therefore	
+gap	 	
+word	that	
+gap	 	
+word	she	
+gap	 	
+word	would	
+gap	 	
+word	speak	
+gap	 	
+word	with	
+gap	 	
+word	total	
+gap	 	
+word	pessimism	
+gap	. 	
+word	Another	
+gap	 	
+word	example	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	one	
+gap	 	
+word	could	
+gap	 	
+word	interpret	
+gap	 	
+word	the	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	 	
+word	and	
+gap	 	
+word	indeed	
+gap	 	
+word	the	
+gap	 	
+word	social	
+gap	 	
+word	conditions	
+gap	 	
+word	as	
+gap	 	
+word	being	
+gap	 	
+word	the	
+gap	 	
+word	reason	
+gap	 	
+word	for	
+gap	 	
+word	people	
+gap	 - 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 - 	
+word	to	
+gap	 	
+word	become	
+gap	 	
+word	educated	
+gap	 	
+word	and	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	better	
+gap	 	
+word	themselves	
+gap	. 	
+word	Although	
+gap	 	
+word	the	
+gap	 	
+word	reasons	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 (	
+word	the	ART DET
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	fit	
+gap	 	
+word	in	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	society	
+gap	) 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	entirely	
+gap	 	
+word	just	
+gap	 	
+word	or	
+gap	 	
+word	ideal	
+gap	, 	
+word	a	
+gap	 	
+word	population	
+gap	 	
+word	filled	
+gap	 	
+word	with	
+gap	 	
+word	such	
+gap	 	
+word	sorts	
+gap	 - 	
+word	those	
+gap	 	
+word	who	
+gap	 	
+word	strive	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	educated	
+gap	 - 	
+word	can	
+gap	 	
+word	surely	
+gap	 	
+word	only	
+gap	 	
+word	be	
+gap	 	
+word	beneficial	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	society	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	situation	
+gap	 	
+word	such	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	 	
+word	and	
+gap	 	
+word	social	
+gap	 	
+word	conditions	
+gap	 	
+word	can	
+gap	 	
+word	hardly	
+gap	 	
+word	be	
+gap	 	
+word	viewed	
+gap	 	
+word	as	
+gap	 	
+word	pessimistic	
+gap	. 	
+word	The	
+gap	 	
+word	narrator	
+gap	 	
+word	indeed	
+gap	 	
+word	speaks	
+gap	 	
+word	highly	
+gap	 	
+word	of	
+gap	 	
+word	her	
+gap	 	
+word	education	
+gap	 	
+word	throughout	
+gap	. 	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	therefore	
+gap	, 	
+word	although	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	a	
+gap	 	
+word	small	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	examples	
+gap	 	
+word	which	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	interpreted	
+gap	 	
+word	as	
+gap	 	
+word	contradicting	
+gap	 	
+word	to	
+gap	 	
+word	this	
+gap	 	
+word	statement	
+gap	, 	
+word	due	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	
+gap	 	
+word	portrayal	
+gap	 	
+word	of	
+gap	 	
+word	guilt	
+gap	 	
+word	but	
+gap	 	
+word	mainly	
+gap	 	
+word	alienation	
+gap	 	
+word	and	
+gap	 	
+word	pressure	
+gap	, 	
+word	La	
+gap	 	
+word	Place	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	pessimistic	
+gap	 	
+word	view	
+gap	 	
+word	of	
+gap	 	
+word	social	
+gap	 	
+word	conditions	
+gap	 	
+word	and	
+gap	 	
+word	class	
+gap	 	
+word	divisions	
+gap	.	

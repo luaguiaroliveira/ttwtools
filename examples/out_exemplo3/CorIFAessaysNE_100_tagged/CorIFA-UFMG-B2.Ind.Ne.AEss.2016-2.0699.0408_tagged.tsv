@@ -1,667 +1,1151 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0699.0408.txt
-token	tags
-﻿	NNP
-    	
-Neuroscience	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-set	NN
-of	PIN PREP
-methodological	JJ
-techniques	NN
-and	PHC CCONJ
-knowledge	NN
-that	TSUB WHSUB WH
-uses	VPRT
-brain	NN
-images	NN
-and	ANDC CCONJ
-whereby	OSUB RB SCONJ WH
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-investigate	INF
-frequency	NN
-,	
-location	NOMZ
-and	PHC CCONJ
-timing	NN
-of	PIN PREP
-neuronal	JJ
-activity	NOMZ
-(	
-LEE	CAP NNP
-,	
-BRODERICK	NN CAP
-,	
-CHAMBERLAIN	CAP NNP
-,	
-2007	NUM
-)	
-,	
-relating	PRESP PGAS
-this	DEMO DET
-information	NOMZ
-with	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-stimulus	NN
-.	
-In	PIN CONJ CAP PREP
-many	QUAN JJ
-contexts	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-still	RB
-an	ART DET INDA
-expensive	JJ
-approach	NN
-,	
-although	CONC PIN SCONJ PREP
-it	PIT PRP SBJP
-could	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-promising	JJ PUBV
-option	NOMZ
-for	PIN PREP
-scientists	NN
-who	WHSUB WH
-are	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-causal	JJ
-relations	NOMZ
-in	PIN CONJ PREP
-applied	
-social	JJ
-sciences	NN
-.	
-Experiment	NOMZ CAP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-research	NN
-design	NN
-derived	WZPAST
-from	PIN PREP
-natural	JJ
-sciences	NN
-that	TSUB WHSUB WH
-gives	VPRT
-the	ART DET
-ideal	JJ
-structure	NN
-for	PIN PREP
-inferring	PRIV PGAS
-causality	NOMZ
-.	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO PREP
-give	INF
-arguments	NOMZ
-for	PIN PREP
-why	RB SCONJ WH
-research	NN
-in	PIN CONJ PREP
-social	JJ
-science	NN
-whose	WHOBJ DET WH
-methodology	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-experiment	NOMZ
-must	NEMD
-use	INF
-neuroscience	NN
-approach	NN
-.	
- 	
-Firstly	RB CAP
-,	
-it	PIT PRP SBJP
-’s	VPRT
-important	JJ
-to	PIN TO PREP
-highlight	INF
-that	PIN DEMO SCONJ PREP
-experiments	NOMZ
-are	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-study	INF
-causal	NN
-relations	NOMZ
-(	
-MALHOTRA	CAP NNP
-,	
-2001	NUM
-)	
-,	
-and	ANDC CCONJ
-its	PIT PRP SBJP
-origin	NN
-in	PIN CONJ PREP
-natural	JJ
-sciences	NN
-try	VPRT
-to	PIN TO PREP
-secure	INF
-that	PIN DEMO SCONJ PREP
-its	PIT PRP SBJP
-measurement	NOMZ
-is	PASS VPRT BYPA AUXB
-made	
-by	PIN PREP
-tangible	JJ
-results	NN
-.	
-The	ART CAP DET
-relation	NOMZ
-of	PIN PREP
-causality	NOMZ
-is	PASS VPRT BYPA AUXB
-defined	
-by	PIN PREP
-Malhotra	CAP NNP
-,	
-2001	NUM
-as	PIN CONJ STPR PREP
-“	
- 	
-”	
-.	
-A	ART CAP DET INDA
-relevant	JJ
-scientific	JJ
-issue	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-point	NN
-of	PIN PREP
-view	NN
-it	PIT PRP SBJP
-’s	VPRT
-impossible	JJ
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-something	QUPR INPR
-causes	VPRT
-other	JJ
-,	
-but	CCONJ
-it	PIT PRP SBJP
-’s	VPRT
-easier	JJ CMADJ
-to	PIN TO PREP
-measure	INF
-this	DEMO DET
-kind	NN HDG
-of	PIN PREP
-effect	NN
-when	RB WHOBJ SCONJ WH
-you	SPP2 PRP SBJP
-have	VPRT
-observable	JJ
-signals	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-that	DEMO DET
-in	PIN CONJ PREP
-brain	NN
-images	NN
-.	
-Actually	RB CAP
-,	
-experiments	NOMZ
-in	PIN CONJ PREP
-social	JJ
-sciences	NN
-are	PASS VPRT SPAU AUXB
-very	AMP RB
-criticized	
-because	CAUS PIN SCONJ PREP
-traditional	JJ
-methods	NN
-use	VPRT
-people	NN
-responses	NN
-to	PIN TO PREP
-investigate	INF
-the	ART DET
-results	NN
-of	PIN PREP
-the	ART DET
-intervention	NOMZ
-,	
-mainly	RB
-because	CAUS PIN SCONJ PREP
-these	DEMO DET
-responses	NN
-can	POMD
-be	PASS BYPA AUXB INF
-biased	
-by	PIN PREP
-the	ART DET
-intention	NOMZ
-of	PIN PREP
-the	ART DET
-volunteers	NN
-.	
-Researchers	NN CAP
-could	POMD
-minimize	INF
-this	DEMO DET
-problem	NN
-securing	WZPRES PGAS
-that	DEMO WH
-respondents	NN
-do	VPRT SPAU
-n’t	RB
-know	PRIV INF
-the	ART DET
-real	JJ
-interest	NN
-of	PIN PREP
-the	ART DET
-investigation	NOMZ
-(	
-MALHOTRA	CAP NNP
-,	
-2001	NUM
-)	
-,	
-but	CCONJ
-using	PGAS
-neuroscience	NN
-methods	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-more	RB EMPH CMADJ
-efficient	JJ
-way	NN
-to	PIN TO PREP
-diminish	INF
-bias	NN
-impact	NN
-.	
- 	
-Secondly	RB CAP
-,	
-there	EX
-are	VPRT AUXB
-responses	NN
-difficult	JJ
-to	PIN TO PREP
-say	PUBV INF
-or	CCONJ
-to	PIN TO PREP
-measure	INF
-by	PIN PREP
-means	PRIV NN
-of	PIN PREP
-questionnaires	NN
-,	
-and	ANDC CCONJ
-neurosciences	NN
-could	POMD
-reveal	PRIV INF
-inaccessible	JJ
-factors	NN
-through	PIN PREP
-traditional	JJ
-methods	NN
-.	
-These	DEMP CAP DET
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-source	NN
-of	PIN PREP
-invalidity	NOMZ
-in	PIN CONJ PREP
-experimental	JJ
-studies	NN
-,	
-and	ANDC CCONJ
-a	ART DET INDA
-focus	NN
-of	PIN PREP
-attacks	NN
-by	PIN PREP
-many	QUAN JJ
-scientists	NN
-.	
-The	ART CAP DET
-way	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-people	NN
-are	BEMA VPRT AUXB
-in	PIN CONJ PREP
-that	DEMO DET
-specific	JJ
-moment	NOMZ
-or	CCONJ
-even	RB
-the	ART DET
-voluntary	JJ
-desire	SUAV NN
-of	PIN PREP
-giving	PGAS
-some	QUAN DET
-answer	NN
-can	POMD
-interfere	INF
-in	PIN CONJ PREP
-the	ART DET
-results	NN
-.	
-Researchers	NN CAP
-try	VPRT
-to	PIN TO PREP
-control	INF
-these	DEMO DET
-factors	NN
-by	PIN PREP
-randomization	NOMZ
-and	CCONJ
-statistical	JJ
-control	NN
-,	
-as	PIN CONJ PREP
-suggested	PUBV SUAV
-by	PIN PREP
-Malhotra	CAP NNP
-,	
-2001	NUM
-.	
-To	PIN TO CAP PREP
-access	NN
-not	XX0 RB
-stated	PUBV
-responses	NN
-brain	NN
-images	NN
-can	POMD
-provide	INF
-rich	JJ
-information	NOMZ
-.	
- 	
-Finaly	CAP NNP
-,	
-it	PIT PRP SBJP
-’s	VPRT
-an	ART DET INDA
-ideal	JJ
-moment	NOMZ
-for	PIN PREP
-using	PGAS
-neurosciences	NN
-in	PIN CONJ PREP
-research	NN
-in	PIN CONJ PREP
-human	JJ
-behavior	NN
-.	
-Like	PIN CAP PREP
-said	VBD PUBV
-before	RB
-,	
-it	PIT PRP SBJP
-’s	VPRT
-difficult	JJ
-to	PIN TO PREP
-administrate	INF
-the	ART DET
-experiments	NOMZ
-,	
-particularly	RB
-in	PIN CONJ PREP
-a	ART DET INDA
-field	NN
-research	NN
-(	
-MALHOTRA	CAP NNP
-,	
-2001	NUM
-)	
-.	
-This	DEMO CAP DET
-complex	JJ
-field	NN
-,	
-that	DEMP WH
-includes	VPRT
-experiments	NOMZ
-in	PIN CONJ PREP
-applied	
-social	JJ
-sciences	NN
-as	PIN CONJ PREP
-marketing	NN
-,	
-needs	VPRT
-a	ART DET INDA
-modern	JJ
-and	PHC CCONJ
-trustworthy	JJ
-method	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-investigated	
-.	
-The	ART CAP DET
-research	NN
-addressed	WZPAST
-by	PIN PREP
-traditional	JJ
-methods	NN
-can	POMD
-be	BEMA AUXB INF
-inefficient	JJ PRED
-,	
-since	OSUB PIN SCONJ PREP
-many	QUAN JJ
-factors	NN
-involved	WZPAST
-in	PIN CONJ PREP
-responses	NN
-to	PIN PREP
-stimuli	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-clear	JJ
-.	
-It	PIT CAP PRP SBJP
-follows	VPRT
-therefore	RB CONJ
-that	PIN DEMO SCONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-more	JJ EMPH CMADJ
-modern	JJ
-methods	NN
-is	BEMA VPRT AUXB
-essential	JJ PRED
-for	PIN PREP
-social	JJ
-sciences	NN
-.	
-Neuroscience	NN CAP
-identifies	VPRT
-how	RB SCONJ WH
-a	ART DET INDA
-set	NN
-of	PIN PREP
-choices	NN
-can	POMD
-be	PASS AUXB INF
-influenced	
-at	PIN PREP
-the	ART DET
-individual	JJ
-level	NN
-,	
-market	NN
-or	CCONJ
-society	NN
-(	
-Breiter	CAP NNP
-et	NNP
-al	NNP
-,	
-2014	NUM
-)	
-.	
-These	DEMO CAP DET
-attributes	NN
-allow	VPRT SUAV
-the	ART DET
-technique	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-used	
-to	PIN TO PREP
-check	PRIV INF
-the	ART DET
-role	NN
-of	PIN PREP
-many	QUAN JJ
-factors	NN
-involved	WZPAST
-in	PIN CONJ PREP
-human	JJ
-behavior	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-to	PIN TO PREP
-use	INF
-neurosciences	NN
-approach	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-strategic	JJ
-option	NOMZ
-when	RB WHOBJ SCONJ WH
-social	JJ
-applied	
-researchers	NN
-opted	VBD
-for	PIN PREP
-an	ART DET INDA
-experimental	JJ
-design	NN
-.	
-It	PIT CAP PRP SBJP
-could	POMD
-facilitate	INF
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-deals	VPRT
-with	PIN PREP
-brain	NN
-images	NN
-,	
-in	PIN CONJ PREP
-other	JJ
-words	NN
-,	
-observable	JJ
-results	NN
-,	
-that	DEMP DET
-is	BEMA VPRT AUXB
-independent	JJ PRED
-on	PIN PREP
-personal	JJ
-will	NN
-.	
-Hidden	CAP
-answers	NN
-could	POMD
-be	PASS SPAU AUXB INF
-automatically	RB
-observed	PRIV
-though	CONC PIN SCONJ PREP
-the	ART DET
-equipment	NOMZ
-,	
-which	SERE DET WH
-increase	VPRT
-the	ART DET
-results	NN
-validity	NOMZ
-.	
-Globalization	NOMZ CAP
-and	CCONJ
-instant	JJ
-communication	NOMZ
-between	PIN PREP
-scientists	NN
-in	PIN CONJ PREP
-all	QUAN DET
-field	NN
-can	POMD
-make	INF
-the	ART DET
-development	NOMZ
-of	PIN PREP
-this	DEMO DET
-area	NN
-faster	RB CMADJ
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-inherently	RB
-multidisciplinary	JJ
-.	
-Development	NOMZ CAP
-in	PIN CONJ PREP
-technology	NN
-will	PRMD
-accelerate	INF
-the	ART DET
-accuracy	NN
-of	PIN PREP
-these	DEMO DET
-methods	NN
-and	CCONJ
-diminish	INF
-their	TPP3 PRP SBJP
-costs	NN
-,	
-what	WH
-also	RB
-justify	VPRT
-why	RB SCONJ WH
-the	ART DET
-moment	NOMZ
-is	BEMA VPRT AUXB
-perfect	JJ PRED
-,	
-and	ANDC CCONJ
-why	RB WHQU SCONJ WH
-neuroscience	NN
-is	PASS VPRT AUXB
-considered	PRIV
-a	ART DET INDA
-hot	JJ
-theme	NN
-by	PIN PREP
-many	QUAN JJ
-scientists	NN
-.	
-      	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0699.0408>\n\n<Neuroscience as the ideal method for experiments in applied social sciences>\n\n	
+word	Neuroscience	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	methodological	JJ
+gap	 	
+word	techniques	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	uses	VPRT
+gap	 	
+word	brain	NN
+gap	 	
+word	images	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	whereby	OSUB RB SCONJ WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	investigate	INF
+gap	 	
+word	frequency	NN
+gap	, 	
+word	location	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	timing	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	neuronal	JJ
+gap	 	
+word	activity	NOMZ
+gap	 (	
+word	LEE	CAP NNP
+gap	, 	
+word	BRODERICK	NN CAP
+gap	, 	
+word	CHAMBERLAIN	CAP NNP
+gap	, 2007), 	
+word	relating	PRESP PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	information	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	stimulus	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	contexts	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	expensive	JJ
+gap	 	
+word	approach	NN
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	promising	JJ PUBV
+gap	 	
+word	option	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	scientists	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	causal	JJ
+gap	 	
+word	relations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	applied	
+gap	 	
+word	social	JJ
+gap	 	
+word	sciences	NN
+gap	. 	
+word	Experiment	NOMZ CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	research	NN
+gap	 	
+word	design	NN
+gap	 	
+word	derived	WZPAST
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	sciences	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	gives	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	ideal	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	inferring	PRIV PGAS
+gap	 	
+word	causality	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	research	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	science	NN
+gap	 	
+word	whose	WHOBJ DET WH
+gap	 	
+word	methodology	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	must	NEMD
+gap	 	
+word	use	INF
+gap	 	
+word	neuroscience	NN
+gap	 	
+word	approach	NN
+gap	.\n	
+word	Firstly	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	important	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	highlight	INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	experiments	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	study	INF
+gap	 	
+word	causal	NN
+gap	 	
+word	relations	NOMZ
+gap	 (	
+word	MALHOTRA	CAP NNP
+gap	, 2001), 	
+word	and	ANDC CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	origin	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	sciences	NN
+gap	 	
+word	try	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	secure	INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	measurement	NOMZ
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	made	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	tangible	JJ
+gap	 	
+word	results	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	causality	NOMZ
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	defined	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Malhotra	CAP NNP
+gap	, 2001 	
+word	as	PIN CONJ STPR PREP
+gap	 “ <when the occurrence of x rises the occurrence of y> ”. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	relevant	JJ
+gap	 	
+word	scientific	JJ
+gap	 	
+word	issue	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	impossible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	causes	VPRT
+gap	 	
+word	other	JJ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	measure	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	effect	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	observable	JJ
+gap	 	
+word	signals	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	brain	NN
+gap	 	
+word	images	NN
+gap	. 	
+word	Actually	RB CAP
+gap	, 	
+word	experiments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	sciences	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	criticized	
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	use	VPRT
+gap	 	
+word	people	NN
+gap	 	
+word	responses	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	investigate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	intervention	NOMZ
+gap	, 	
+word	mainly	RB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	responses	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	biased	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	intention	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	volunteers	NN
+gap	. 	
+word	Researchers	NN CAP
+gap	 	
+word	could	POMD
+gap	 	
+word	minimize	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	problem	NN
+gap	 	
+word	securing	WZPRES PGAS
+gap	 	
+word	that	DEMO WH
+gap	 	
+word	respondents	NN
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	interest	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	investigation	NOMZ
+gap	 (	
+word	MALHOTRA	CAP NNP
+gap	, 2001), 	
+word	but	CCONJ
+gap	 	
+word	using	PGAS
+gap	 	
+word	neuroscience	NN
+gap	 	
+word	methods	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	efficient	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	diminish	INF
+gap	 	
+word	bias	NN
+gap	 	
+word	impact	NN
+gap	.\n	
+word	Secondly	RB CAP
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	responses	NN
+gap	 	
+word	difficult	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	or	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	measure	INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	means	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	questionnaires	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	neurosciences	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	reveal	PRIV INF
+gap	 	
+word	inaccessible	JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	methods	NN
+gap	. 	
+word	These	DEMP CAP DET
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	source	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	invalidity	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	experimental	JJ
+gap	 	
+word	studies	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	focus	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	attacks	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	scientists	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	way	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	people	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	specific	JJ
+gap	 	
+word	moment	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	voluntary	JJ
+gap	 	
+word	desire	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	giving	PGAS
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	answer	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	interfere	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	. 	
+word	Researchers	NN CAP
+gap	 	
+word	try	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	control	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	factors	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	randomization	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	statistical	JJ
+gap	 	
+word	control	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	suggested	PUBV SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Malhotra	CAP NNP
+gap	, 2001. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	access	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	stated	PUBV
+gap	 	
+word	responses	NN
+gap	 	
+word	brain	NN
+gap	 	
+word	images	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	provide	INF
+gap	 	
+word	rich	JJ
+gap	 	
+word	information	NOMZ
+gap	.\n	
+word	Finaly	CAP NNP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	ideal	JJ
+gap	 	
+word	moment	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	neurosciences	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	research	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	behavior	NN
+gap	. 	
+word	Like	PIN CAP PREP
+gap	 	
+word	said	VBD PUBV
+gap	 	
+word	before	RB
+gap	, 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	difficult	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	administrate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	experiments	NOMZ
+gap	, 	
+word	particularly	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	field	NN
+gap	 	
+word	research	NN
+gap	 (	
+word	MALHOTRA	CAP NNP
+gap	, 2001). 	
+word	This	DEMO CAP DET
+gap	 	
+word	complex	JJ
+gap	 	
+word	field	NN
+gap	, 	
+word	that	DEMP WH
+gap	 	
+word	includes	VPRT
+gap	 	
+word	experiments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	applied	
+gap	 	
+word	social	JJ
+gap	 	
+word	sciences	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	marketing	NN
+gap	, 	
+word	needs	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	modern	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	trustworthy	JJ
+gap	 	
+word	method	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	investigated	
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	research	NN
+gap	 	
+word	addressed	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	inefficient	JJ PRED
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	involved	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	responses	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	stimuli	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	clear	JJ
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	follows	VPRT
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	modern	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	sciences	NN
+gap	. 	
+word	Neuroscience	NN CAP
+gap	 	
+word	identifies	VPRT
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	choices	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	influenced	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	JJ
+gap	 	
+word	level	NN
+gap	, 	
+word	market	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	society	NN
+gap	 (	
+word	Breiter	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	, 2014). 	
+word	These	DEMO CAP DET
+gap	 	
+word	attributes	NN
+gap	 	
+word	allow	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	technique	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	check	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	role	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	involved	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	behavior	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	neurosciences	NN
+gap	 	
+word	approach	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	strategic	JJ
+gap	 	
+word	option	NOMZ
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	social	JJ
+gap	 	
+word	applied	
+gap	 	
+word	researchers	NN
+gap	 	
+word	opted	VBD
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	experimental	JJ
+gap	 	
+word	design	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	facilitate	INF
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	deals	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	brain	NN
+gap	 	
+word	images	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 	
+word	observable	JJ
+gap	 	
+word	results	NN
+gap	, 	
+word	that	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	independent	JJ PRED
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	personal	JJ
+gap	 	
+word	will	NN
+gap	. 	
+word	Hidden	CAP
+gap	 	
+word	answers	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	automatically	RB
+gap	 	
+word	observed	PRIV
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	equipment	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	increase	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	 	
+word	validity	NOMZ
+gap	. 	
+word	Globalization	NOMZ CAP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	instant	JJ
+gap	 	
+word	communication	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	scientists	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	field	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	area	NN
+gap	 	
+word	faster	RB CMADJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	inherently	RB
+gap	 	
+word	multidisciplinary	JJ
+gap	. 	
+word	Development	NOMZ CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	accelerate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	accuracy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	methods	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	diminish	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	costs	NN
+gap	, 	
+word	what	WH
+gap	 	
+word	also	RB
+gap	 	
+word	justify	VPRT
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	moment	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	perfect	JJ PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	why	RB WHQU SCONJ WH
+gap	 	
+word	neuroscience	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	hot	JJ
+gap	 	
+word	theme	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	scientists	NN
+gap	.\n\n<References>\n<BREITER, H.C.; BLOCK M.; BLOOD A.J.; CALDER, B.; CHAMBERLAIN, L.; LEE, N.; LIVENGOOD, S.; MULHERN, F.J.; RAMAN, K, SCHULTZ, D.; STERN D. B.; VISWANATHAN, V.; ZHANG F. Z. Redefining neuromarketing as an integrated science of influence. Front. Hum. Neurosci, 2014.>\n<LEE, N.; BRODERICK, A.J.; CHAMBERLAIN,L. What is ‘Neuromarketing’? A discussion and agenda for future research. International Journal of Psychophysiology, 199-204, 2007.>\n<MALHOTRA, N. Pesquisa de marketing: uma orientação aplicada. 3ª ed. Porto Alegre. Bookman, 2001.>\n	

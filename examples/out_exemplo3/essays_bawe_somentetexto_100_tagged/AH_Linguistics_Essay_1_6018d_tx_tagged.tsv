@@ -1,599 +1,1082 @@
 # filename: AH_Linguistics_Essay_1_6018d_tx.txt
-token	tags
-When	RB CAP SCONJ WH
-acquiring	PGAS
-language	NN
-children	NN
-are	PASS VPRT AUXB
-taught	
-to	PIN TO PREP
-read	INF
-and	PHC CCONJ
-write	PUBV INF
-but	CCONJ
-seemingly	RB
-pick	INF
-up	PIN PREP
-language	NN
-and	CCONJ
-learn	PRIV INF
-to	PIN TO PREP
-speak	INF
-without	PIN PREP
-any	QUAN DET
-formal	JJ
-instruction	NOMZ
-.	
-There	EX CAP
-are	VPRT AUXB
-many	QUAN JJ
-ways	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-shown	PRIV
-that	PIN THVC SCONJ PREP
-children	NN
-are	PASS VPRT SPAU AUXB
-n't	XX0 CONT RB
-taught	
-language	NN
-whereas	OSUB PIN SCONJ PREP
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-reading	PGAS
-and	CCONJ
-writing	PUBV NN
-.	
-Children	NN CAP
-are	PASS VPRT AUXB
-supplied	
-with	PIN PREP
-both	CCONJ
-informal	JJ
-and	PHC CCONJ
-formal	JJ
-tuition	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-reading	NN
-and	CCONJ
-writing	PUBV PGAS
-systems	NN
-.	
-By	PIN CAP PREP
-the	ART DET
-time	NN
-children	NN
-reach	VPRT
-school	NN
-age	NN
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-have	PEAS INF
-received	
-some	QUAN DET
-form	NN
-of	PIN PREP
-informal	JJ
-teaching	NN
-of	PIN PREP
-reading	NN
-and	CCONJ
-writing	PUBV PGAS
-from	PIN PREP
-parents	NN
-which	WHOBJ DET WH
-as	PIN CONJ PREP
-Crystal	CAP NNP
-notes	PRIV NN
-,	
-is	BEMA VPRT AUXB
-often	RB
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-a	ART DET INDA
-colourful	JJ
-alphabet	NN
-book	NN
-bought	WZPAST
-for	PIN PREP
-the	ART DET
-child	NN
-by	PIN PREP
-relatives	NN
-.	
-Whatever	CAP DET WH
-the	ART DET
-source	NN
-though	CONC RB
-,	
-the	ART DET
-point	NN
-is	VPRT AUXB
-;	
-even	RB
-by	PIN PREP
-the	ART DET
-time	NN
-the	ART DET
-child	NN
-reaches	VPRT
-school	NN
-age	NN
-they	TPP3 PRP SBJP
-have	VPRT PEAS
-received	
-some	QUAN DET
-form	NN
-of	PIN PREP
-teaching	NN
-regarding	WZPRES PGAS
-reading	NN
-and	PHC CCONJ
-writing	PUBV NN
-.	
-Crystal	CAP NNP
-,	
-David	CAP NNP
-Encyclopaedia	CAP NNP
-of	PIN PREP
-the	ART DET
-English	CAP NNP
-Language	CAP NNP
-2nd	NN
-Ed	CAP NNP
-.	
-Cambridge	NN CAP
-2003	NUM
-Page	CAP NNP
-256	NUM
-.	
-At	PIN CAP PREP
-school	NN
-this	DEMO DET
-obviously	RB
-increases	VPRT
-to	PIN PREP
-formal	JJ
-teaching	NN
-and	PHC CCONJ
-schools	NN
-are	PASS VPRT SPAU AUXB
-legally	RB
-required	SUAV
-to	PIN TO PREP
-teach	INF
-children	NN
-reading	WZPRES PGAS
-and	CCONJ
-writing	PUBV NN
-.	
-There	EX CAP
-can	POMD
-be	AUXB INF
-no	RB SYNE
-doubt	PRIV NN
-therefore	RB CONJ
-that	PIN DEMO SCONJ PREP
-children	NN
-are	PASS VPRT AUXB
-taught	
-to	PIN TO PREP
-read	INF
-and	PHC CCONJ
-write	PUBV INF
--	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-simple	JJ
-fact	NN
-.	
-We	FPP1 CAP PRP SBJP
-can	POMD SPAU
-now	RB TIME
-turn	INF
-to	PIN TO PREP
-look	INF
-then	RB
-at	PIN PREP
-whether	PIN SCONJ PREP
-children	NN
-are	PASS VPRT AUXB
-taught	
-to	PIN TO PREP
-speak	INF
-.	
-The	ART CAP DET
-answer	NN
-is	VPRT AUXB
-no	UH
-,	
-at	PIN PREP
-least	JJ SPADJ
-not	XX0 RB
-in	PIN CONJ PREP
-any	QUAN DET
-formal	JJ
-way	NN
-.	
-By	PIN CAP PREP
-the	ART DET
-time	NN
-children	NN
-start	VPRT
-to	PIN TO PREP
-attend	INF
-school	NN
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-expected	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-speak	INF
-showing	PRIV PGAS
-that	PIN THVC SCONJ PREP
-children	NN
-have	VPRT PEAS
-learnt	PRIV
-to	PIN TO PREP
-speak	INF
-without	PIN PREP
-formal	JJ
-teaching	NN
-.	
-It	PIT CAP PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-argued	PUBV
-that	PIN THVC SCONJ PREP
-children	NN
-learn	VPRT PRIV
-to	PIN TO PREP
-speak	INF
-through	PIN PREP
-imitating	NN
-adults	NN
-,	
-which	SERE WHQU DET WH
-could	POMD
-be	PASS AUXB INF
-considered	PRIV
-a	ART DET INDA
-form	NN
-of	PIN PREP
-indirect	JJ
-teaching	NN
-.	
-However	RB CONJ CAP
-the	ART DET
-existence	NN
-of	PIN PREP
-virtuous	JJ
-errors	NN
-where	RB WHOBJ SCONJ WH
-children	NN
-produce	VPRT
-utterances	NN
-they	TPP3 PRP SBJP
-could	POMD SPAU
-n't	XX0 CONT RB
-have	PEAS INF
-heard	PRIV
-have	VPRT PEAS
-disproved	
-this	DEMO DET
-idea	NN
-.	
-Chomsky	CAP NNP
-'s	
-idea	NN
-of	PIN PREP
-innateness	NOMZ
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-children	NN
-have	VPRT
-a	ART DET INDA
-Language	CAP NNP
-Acquisition	CAP NNP
-Device	CAP NNP
-and	CCONJ
-are	BEMA VPRT AUXB
-as	RB CONJ
-such	JJ
-are	VPRT AUXB
-"	QUOT
-genetically	RB
-'	CONT QUOT
-prewired	
-'	CONT QUOT
-to	PIN TO PREP
-acquire	INF
-language	NN
-"	QUOT
-lends	VPRT
-credence	NN
-to	PIN PREP
-the	ART DET
-idea	NN
-that	PIN TOBJ SCONJ PREP
-children	NN
-are	PASS VPRT SPAU AUXB
-n't	XX0 CONT RB
-taught	
-language	NN
-but	CCONJ
-instead	RB CONJ
-acquire	INF
-it	PIT PRP SBJP
-naturally	RB
-.	
-Fromkin	CAP NNP
-and	PHC CCONJ
-Rodman	CAP NNP
-An	ART CAP DET INDA
-Introduction	NOMZ CAP
-to	PIN PREP
-Language	CAP NNP
-4th	JJ
-Ed	CAP NNP
-.	
-Holt	CAP NNP
-,	
-Rinehart	CAP NNP
-and	PHC CCONJ
-Winston	CAP NNP
-1988	NUM
-Page	CAP NNP
-382	NUM
-One	CAP NUM
-example	NN
-that	TSUB WHSUB WH
-also	RB
-helps	VPRT
-support	INF
-the	ART DET
-idea	NN
-is	BEMA VPRT AUXB
-that	DEMO DET
-of	PIN PREP
-the	ART DET
-silent	JJ
-kids	NN
-of	PIN PREP
-Nicaragua	CAP NNP
-.	
-These	DEMP CAP DET
-were	BEMA VBD AUXB
-deaf	JJ
-children	NN
-who	WHSUB WH
-had	VBD
-no	SYNE DET
-language	NN
-.	
-Instead	RB CONJ CAP
-they	TPP3 PRP SBJP
-simply	RB
-created	VBD
-their	TPP3 PRP SBJP
-own	JJ
-(	
-with	PIN PREP
-signs	NN
-as	PIN CONJ PREP
-the	ART DET
-equivalent	NN
-of	PIN PREP
-spoken	JJ
-language	NN
-)	
-.	
-The	ART CAP DET
-fact	NN
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-places	NN
-where	RB WHOBJ SCONJ WH
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-language	NN
-,	
-a	ART DET INDA
-language	NN
-can	POMD
-be	PASS AUXB INF
-created	
-also	RB
-shows	VPRT PRIV THATD
-that	PIN DEMP SCONJ PREP
-spoken	
-language	NN
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-taught	
-.	
-The	ART CAP DET
-main	JJ
-issue	NN
-here	RB
-can	POMD
-be	PASS AUXB INF
-simplified	
-into	PIN PREP
-one	NUM
-short	JJ
-question	NOMZ
-;	
-"	QUOT
-without	PIN PREP
-teaching	NN
-,	
-would	PRMD
-spoken	
-and	PHC CCONJ
-written	PUBV THATD
-language	NN
-exist	INF
-?	QUES
-"	QUOT
-In	PIN CONJ CAP PREP
-the	ART DET
-case	NN
-of	PIN PREP
-spoken	JJ
-language	NN
-we	FPP1 PRP SBJP
-can	POMD
-see	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-answer	NN
-is	VPRT AUXB
-yes	UH
-,	
-in	PIN CONJ PREP
-extreme	JJ
-cases	NN
-like	PIN PREP
-that	DEMO DET
-of	PIN PREP
-Nicaragua	CAP NNP
-a	ART DET INDA
-new	JJ
-spoken	
-language	NN
-can	POMD
-be	PASS AUXB INF
-created	
-therefore	RB CONJ
-without	PIN PREP
-any	QUAN DET
-teaching	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-case	NN
-of	PIN PREP
-more	RB EMPH CMADJ
-mundane	JJ
-everyday	JJ
-life	NN
-we	FPP1 PRP SBJP
-can	POMD
-observe	PRIV THATD INF
-that	PIN DEMP SCONJ PREP
-spoken	
-language	NN
-is	PASS VPRT BYPA AUXB
-acquired	
-by	PIN PREP
-children	NN
-before	PIN PREP
-they	TPP3 PRP SBJP
-start	VPRT
-formal	JJ
-schooling	NN
-.	
-Informal	JJ CAP
-teaching	NN
-through	PIN PREP
-imitation	NOMZ
-is	BEMA VPRT AUXB
-not	XX0 RB
-enough	JJ
-to	PIN TO PREP
-teach	INF
-a	ART DET INDA
-child	NN
-to	PIN TO PREP
-speak	INF
-(	
-as	PIN CONJ PREP
-we	FPP1 PRP SBJP
-have	VPRT PEAS
-seen	PRIV
-,	
-imitation	NOMZ
-theory	NN
-simply	RB
-does	VPRT SPAU
-n't	XX0 CONT RB
-stand	INF
-up	PIN PREP
-to	PIN PREP
-close	JJ
-scrutiny	NN
-)	
-and	ANDC CCONJ
-hence	RB CONJ
-children	NN
-must	NEMD
-acquire	INF
-speech	NN
-reasonably	RB
-naturally	RB
-.	
-For	PIN CAP PREP
-written	PUBV
-language	NN
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-the	ART DET
-answer	NN
-is	BEMA VPRT AUXB
-the	ART DET
-opposite	PIN STPR NN PREP
-.	
-Without	PIN CAP PREP
-specific	JJ
-teaching	NN
-,	
-it	PIT PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-exist	INF
-.	
-Many	QUAN JJ CAP
-languages	NN
-for	PIN PREP
-instance	NN
-have	VPRT
-no	DET
-written	PUBV
-form	NN
-.	
-We	FPP1 CAP PRP SBJP
-can	POMD SPAU
-therefore	RB CONJ
-conclude	PRIV INF
-that	PIN THVC SCONJ PREP
-children	NN
-'s	
-reading	NN
-and	PHC CCONJ
-writing	PUBV NN
-has	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-taught	
-in	PIN CONJ PREP
-contrast	NN
-to	PIN PREP
-their	TPP3 PRP SBJP
-speech	NN
-.	
+type	content	tags
+word	When	RB CAP SCONJ WH
+gap	 	
+word	acquiring	PGAS
+gap	 	
+word	language	NN
+gap	 	
+word	children	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	taught	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	read	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	write	PUBV INF
+gap	 	
+word	but	CCONJ
+gap	 	
+word	seemingly	RB
+gap	 	
+word	pick	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	formal	JJ
+gap	 	
+word	instruction	NOMZ
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	shown	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	aren	
+gap	'	
+word	t	
+gap	 	
+word	taught	
+gap	 	
+word	language	NN
+gap	 	
+word	whereas	OSUB PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	reading	PGAS
+gap	 	
+word	and	CCONJ
+gap	 	
+word	writing	PUBV NN
+gap	. 	
+word	Children	NN CAP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	supplied	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	both	CCONJ
+gap	 	
+word	informal	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	formal	JJ
+gap	 	
+word	tuition	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reading	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	writing	PUBV PGAS
+gap	 	
+word	systems	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	children	NN
+gap	 	
+word	reach	VPRT
+gap	 	
+word	school	NN
+gap	 	
+word	age	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	likely	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	received	
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	informal	JJ
+gap	 	
+word	teaching	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reading	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	writing	PUBV PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	parents	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Crystal	CAP NNP
+gap	 	
+word	notes	PRIV NN
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	often	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	colourful	JJ
+gap	 	
+word	alphabet	NN
+gap	 	
+word	book	NN
+gap	 	
+word	bought	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	child	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	relatives	NN
+gap	. 	
+word	Whatever	CAP DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	source	NN
+gap	 	
+word	though	CONC RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	is	VPRT AUXB
+gap	; 	
+word	even	RB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	child	NN
+gap	 	
+word	reaches	VPRT
+gap	 	
+word	school	NN
+gap	 	
+word	age	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	received	
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	teaching	NN
+gap	 	
+word	regarding	WZPRES PGAS
+gap	 	
+word	reading	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	writing	PUBV NN
+gap	. 	
+word	Crystal	CAP NNP
+gap	, 	
+word	David	CAP NNP
+gap	 	
+word	Encyclopaedia	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	English	CAP NNP
+gap	 	
+word	Language	CAP NNP
+gap	 2	
+word	nd	NN
+gap	 	
+word	Ed	CAP NNP
+gap	. 	
+word	Cambridge	NN CAP
+gap	 2003 	
+word	Page	CAP NNP
+gap	 256. 	
+word	At	PIN CAP PREP
+gap	 	
+word	school	NN
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	obviously	RB
+gap	 	
+word	increases	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	formal	JJ
+gap	 	
+word	teaching	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	schools	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	legally	RB
+gap	 	
+word	required	SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	teach	INF
+gap	 	
+word	children	NN
+gap	 	
+word	reading	WZPRES PGAS
+gap	 	
+word	and	CCONJ
+gap	 	
+word	writing	PUBV NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	no	RB SYNE
+gap	 	
+word	doubt	PRIV NN
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	taught	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	read	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	write	PUBV INF
+gap	 - 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	simple	JJ
+gap	 	
+word	fact	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	now	RB TIME
+gap	 	
+word	turn	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	look	INF
+gap	 	
+word	then	RB
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	taught	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	answer	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	UH
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	least	JJ SPADJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	formal	JJ
+gap	 	
+word	way	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	children	NN
+gap	 	
+word	start	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	attend	INF
+gap	 	
+word	school	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 	
+word	showing	PRIV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	learnt	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	formal	JJ
+gap	 	
+word	teaching	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	argued	PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	learn	VPRT PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	imitating	NN
+gap	 	
+word	adults	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	indirect	JJ
+gap	 	
+word	teaching	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	existence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	virtuous	JJ
+gap	 	
+word	errors	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	children	NN
+gap	 	
+word	produce	VPRT
+gap	 	
+word	utterances	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	couldn	
+gap	'	
+word	t	
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	heard	PRIV
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	disproved	
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	idea	NN
+gap	. 	
+word	Chomsky	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	idea	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	innateness	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Language	CAP NNP
+gap	 	
+word	Acquisition	CAP NNP
+gap	 	
+word	Device	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	such	JJ
+gap	 	
+word	are	VPRT AUXB
+gap	 "	
+word	genetically	RB
+gap	 '	
+word	prewired	
+gap	' 	
+word	to	PIN TO PREP
+gap	 	
+word	acquire	INF
+gap	 	
+word	language	NN
+gap	" 	
+word	lends	VPRT
+gap	 	
+word	credence	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	aren	
+gap	'	
+word	t	
+gap	 	
+word	taught	
+gap	 	
+word	language	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	instead	RB CONJ
+gap	 	
+word	acquire	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	naturally	RB
+gap	. 	
+word	Fromkin	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Rodman	CAP NNP
+gap	 	
+word	An	ART CAP DET INDA
+gap	 	
+word	Introduction	NOMZ CAP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Language	CAP NNP
+gap	 4	
+word	th	JJ
+gap	 	
+word	Ed	CAP NNP
+gap	. 	
+word	Holt	CAP NNP
+gap	, 	
+word	Rinehart	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Winston	CAP NNP
+gap	 1988 	
+word	Page	CAP NNP
+gap	 382 	
+word	One	CAP NUM
+gap	 	
+word	example	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	also	RB
+gap	 	
+word	helps	VPRT
+gap	 	
+word	support	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	silent	JJ
+gap	 	
+word	kids	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nicaragua	CAP NNP
+gap	. 	
+word	These	DEMP CAP DET
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	deaf	JJ
+gap	 	
+word	children	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	had	VBD
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	language	NN
+gap	. 	
+word	Instead	RB CONJ CAP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	simply	RB
+gap	 	
+word	created	VBD
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 (	
+word	with	PIN PREP
+gap	 	
+word	signs	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	equivalent	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	spoken	JJ
+gap	 	
+word	language	NN
+gap	). 	
+word	The	ART CAP DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	places	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	language	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	language	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	created	
+gap	 	
+word	also	RB
+gap	 	
+word	shows	VPRT PRIV THATD
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	spoken	
+gap	 	
+word	language	NN
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	taught	
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	issue	NN
+gap	 	
+word	here	RB
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	simplified	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	short	JJ
+gap	 	
+word	question	NOMZ
+gap	; "	
+word	without	PIN PREP
+gap	 	
+word	teaching	NN
+gap	, 	
+word	would	PRMD
+gap	 	
+word	spoken	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	written	PUBV THATD
+gap	 	
+word	language	NN
+gap	 	
+word	exist	INF
+gap	?" 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	spoken	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	answer	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	yes	UH
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	extreme	JJ
+gap	 	
+word	cases	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nicaragua	CAP NNP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	spoken	
+gap	 	
+word	language	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	created	
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	teaching	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	mundane	JJ
+gap	 	
+word	everyday	JJ
+gap	 	
+word	life	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	observe	PRIV THATD INF
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	spoken	
+gap	 	
+word	language	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	acquired	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	children	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	start	VPRT
+gap	 	
+word	formal	JJ
+gap	 	
+word	schooling	NN
+gap	. 	
+word	Informal	JJ CAP
+gap	 	
+word	teaching	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	imitation	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	enough	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	teach	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	child	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 (	
+word	as	PIN CONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	seen	PRIV
+gap	, 	
+word	imitation	NOMZ
+gap	 	
+word	theory	NN
+gap	 	
+word	simply	RB
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	stand	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	close	JJ
+gap	 	
+word	scrutiny	NN
+gap	) 	
+word	and	ANDC CCONJ
+gap	 	
+word	hence	RB CONJ
+gap	 	
+word	children	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	acquire	INF
+gap	 	
+word	speech	NN
+gap	 	
+word	reasonably	RB
+gap	 	
+word	naturally	RB
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	written	PUBV
+gap	 	
+word	language	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	answer	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	opposite	PIN STPR NN PREP
+gap	. 	
+word	Without	PIN CAP PREP
+gap	 	
+word	specific	JJ
+gap	 	
+word	teaching	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	exist	INF
+gap	. 	
+word	Many	QUAN JJ CAP
+gap	 	
+word	languages	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	no	DET
+gap	 	
+word	written	PUBV
+gap	 	
+word	form	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	conclude	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	children	NN
+gap	'	
+word	s	
+gap	 	
+word	reading	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	writing	PUBV NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	taught	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	contrast	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	speech	NN
+gap	.	

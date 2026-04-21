@@ -1,839 +1,1401 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0704.0440.txt
-token	tags
-﻿	NNP
-    	
-In	PIN CONJ CAP PREP
-Portuguese	JJ CAP
-consonants	NN
-do	VPRT PROD SPAU
-not	XX0 RB
-usually	RB
-appear	SMP INF
-in	PIN CONJ PREP
-word	NN
--	
-final	JJ
-position	NOMZ
-and	CCONJ
-according	PGAS
-to	PIN PREP
-Cristófaro	CAP NNP
-Silva	CAP NNP
-observation	NOMZ
-,	
-an	ART DET INDA
-extra	JJ
-vowel	NN
-is	BEMA VPRT AUXB
-susceptible	JJ PRED
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-inserted	
-by	PIN PREP
-Brazilian	JJ CAP
-learners	NN
-of	PIN PREP
-English	CAP NNP
-;	
-this	DEMO DET
-phenomenon	NN
-is	PASS VPRT AUXB
-known	PRIV
-as	PIN CONJ PREP
-Epenthesis	CAP NNP
-.	
-Epenthesis	NN CAP
-occurs	VPRT
-with	PIN PREP
-all	QUAN DET
-the	ART DET
-speakers	NN
-,	
-mainly	RB
-with	PIN PREP
-a	ART DET INDA
-second	JJ
-language	NN
-learner	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-can	POMD
-make	INF
-a	ART DET INDA
-word	NN
-unintelligible	JJ
-to	PIN PREP
-natives	NN
-.	
-Learning	PRIV PRESP THATD CAP PGAS
-the	ART DET
-phonetic	JJ
-alphabet	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-way	NN
-to	PIN TO PREP
-understand	PRIV INF
-and	PHC CCONJ
-avoid	INF
-this	DEMO DET
-phenomenon	NN
-.	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-focus	INF
-on	PIN PREP
-Brazilian	JJ CAP
-English	JJ CAP
-learners	NN
-,	
-providing	PGAS
-datas	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-will	PRMD
-explain	PUBV INF
-why	RB WHCL SCONJ WH
-Epenthesis	CAP NNP
-happens	VPRT
-.	
- 	
-According	CAP PGAS
-to	PIN PREP
-Cristófaro	CAP NNP
-Silva	CAP NNP
-(	
-2012	NUM
-)	
-,	
-in	PIN CONJ PREP
-phonology	NN
-and	PHC CCONJ
-phonetics	NN
-,	
-epenthesis	NN
-is	BEMA VPRT AUXB
-the	ART DET
-insertion	NOMZ
-of	PIN PREP
-an	ART DET INDA
-extra	JJ
-sound	NN
-in	PIN CONJ PREP
-the	ART DET
-pronunciation	NOMZ
-of	PIN PREP
-a	ART DET INDA
-word	NN
-to	PIN TO PREP
-facilitate	INF
-the	ART DET
-articulation	NOMZ
-of	PIN PREP
-the	ART DET
-sounds	NN
-.	
-It	PIT CAP PRP SBJP
-may	POMD
-be	BEMA AUXB INF
-accidental	JJ PRED
-,	
-or	CCONJ
-a	ART DET INDA
-vice	NN
-of	PIN PREP
-speech	NN
-.	
-Brazilians	NN CAP
-are	PASS VPRT AUXB
-used	
-to	PIN PREP
-words	NN
-ending	WZPRES PGAS
-in	PIN CONJ PREP
-s	NNP
-,	
-r	NN
-and	CCONJ
-l.	JJ
-When	RB CAP SCONJ WH
-a	ART DET INDA
-word	NN
-ends	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-different	JJ
-consonant	NN
-from	PIN PREP
-these	DEMO DET
-ones	NN
-,	
-an	ART DET INDA
-extra	JJ
-vowel	NN
-is	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-be	PASS AUXB INF
-inserted	
-.	
-For	PIN CAP PREP
-example	NN
-,	
-the	ART DET
-pronunciation	NOMZ
-of	PIN PREP
-the	ART DET
-word	NN
-“	
-Stop	CAP INF
-”	
-in	PIN CONJ PREP
-English	CAP NNP
-ends	NN
-in	PIN CONJ PREP
-consonant	JJ
-[	X
-p	X
-]	
-,	
-but	CCONJ
-Brazilians	CAP NNP
-are	PASS VPRT AUXB
-used	
-to	PIN PREP
-inserting	PGAS
-the	ART DET
-vowel	NN
-[	X
-i	FPP1 X
-]	X
-because	CAUS PIN SCONJ PREP
-do	VPRT SPAU
-not	XX0 RB
-exists	VPRT
-words	NN
-in	PIN CONJ PREP
-Portuguese	CAP NNP
-that	DEMP WH
-ends	VPRT
-in	PIN CONJ PREP
-[	X
-p	X
-]	X
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-this	DEMP DET
-occurs	VPRT
-in	PIN CONJ PREP
-several	QUAN JJ
-words	NN
-.	
-This	DEMO CAP DET
-[	X
-i	FPP1 X
-]	X
-may	POMD
-be	PASS AUXB INF
-inserted	
-in	PIN CONJ PREP
-word	NN
--	
-final	JJ
-position	NOMZ
-after	PIN PREP
-the	ART DET
-fricatives	NN
-/f/	NNP
-,	
-/v/	NUM
-,	
-/S/	
-and	ANDC CCONJ
-/Z/.	DET
- 	
-The	ART CAP DET
-production	NOMZ
-of	PIN PREP
-Epenthesis	CAP NNP
-may	POMD
-happen	INF
-at	PIN PREP
-the	ART DET
-beginning	NN
-of	PIN PREP
-words	NN
-too	RB
-,	
-for	PIN PREP
-the	ART DET
-same	JJ
-reason	PRIV NN
-,	
-words	NN
-in	PIN CONJ PREP
-Portuguese	CAP NNP
-tend	VPRT
-to	PIN TO PREP
-follow	INF
-a	ART DET INDA
-rule	SUAV NN
-:	
-CVC	CAP NNP
-(	
-consonant	JJ
-,	
-vowel	JJ
-,	
-consonant	JJ
-)	
-or	CCONJ
-VCV	CAP NNP
-(	
-vowel	NN
-,	
-consonant	JJ
-,	
-and	ANDC CCONJ
-vowel	NN
-)	
-;	
-however	RB CONJ
-,	
-in	PIN CONJ PREP
-English	CAP NNP
-some	QUAN DET
-words	NN
-begin	VPRT
-with	PIN PREP
-consonant	JJ
-which	DET WH
-are	PASS VPRT BYPA AUXB
-followed	
-by	PIN PREP
-another	DET
-consonant	NN
-.	
-An	ART CAP DET INDA
-example	NN
-of	PIN PREP
-this	DEMO DET
-case	NN
-is	VPRT AUXB
-;	
-Street	CAP NNP
-,	
-Brazilians	CAP NNP
-may	POMD
-insert	INF
-a	ART DET INDA
-vowel	NN
-before	PIN PREP
-the	ART DET
-consonant	JJ
-S	NN CAP
-to	PIN TO PREP
-follow	INF
-the	ART DET
-Portuguese	JJ CAP
-rule	SUAV NN
-,	
-[	X
-istrit?i	NNP
-]	
-.	
-This	DEMO CAP DET
-phenomenon	NN
-may	POMD
-occur	INF
-in	PIN CONJ PREP
-several	QUAN JJ
-words	NN
-.	
- 	
-Some	QUAN CAP DET
-research	NN
-have	VPRT PEAS
-been	PASS AUXB
-done	PROD
-about	PIN PREP
-the	ART DET
-occurrence	NN
-of	PIN PREP
-Epenthesis	CAP NNP
-,	
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-that	DEMO DET
-to	PIN TO PREP
-show	PRIV INF
-if	COND PIN SCONJ PREP
-a	ART DET INDA
-word	NN
-may	POMD
-be	PASS AUXB INF
-interpreted	
-in	PIN CONJ PREP
-a	ART DET INDA
-wrong	JJ
-way	NN
-or	CCONJ
-be	BEMA AUXB INF
-unintelligible	JJ PRED
-to	PIN PREP
-natives	NN
-.	
-Cruz	CAP NNP
-(	
-2003	NUM
-)	
-has	VPRT PEAS
-conducted	
-a	ART DET INDA
-research	NN
-that	TSUB WHSUB WH
-investigated	VBD
-how	RB SCONJ WH
-many	QUAN JJ
-errors	NN
-at	PIN PREP
-a	ART DET INDA
-segment	NOMZ
-level	NN
-(	
-consonants	NN
-,	
-vowels	NN
-,	
-epenthesis	NN
-and	PHC CCONJ
-word	NN
-stress	NN
-)	
-influence	NN
-Brazilian	JJ CAP
-learners	NN
-’	
-unintelligibility	NOMZ
-to	PIN PREP
-native	JJ
-speakers	NN
-.	
-In	PIN CONJ CAP PREP
-relation	NOMZ
-to	PIN PREP
-epenthesis	NN
-,	
-none	INPR NN
-of	PIN PREP
-the	ART DET
-seven	NUM
-identified	
-occurrences	NN
-were	PASS VBD AUXB
-judged	PRIV
-as	RB CONJ
-impossible	JJ
-to	PIN TO PREP
-understand	PRIV INF
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-word	NN
-‘	
-small	JJ
-’	
-(	
-pronounced	VBD PUBV SUAV
-[	X
-iz`m?w	X
-]	
-)	
-and	ANDC CCONJ
-one	NUM
-other	JJ
-case	NN
-were	PASS VBD AUXB
-considered	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-difficult	JJ PRED
-to	PIN TO PREP
-understand	PRIV INF
-.	
-She	TPP3 CAP PRP SBJP
-concluded	VBD PRIV
-that	PIN THVC SCONJ PREP
-epenthesis	NN
-alone	RB
-is	BEMA VPRT AUXB
-not	XX0 RB
-sufficient	JJ
-to	PIN TO PREP
-cause	INF
-unintelligibility	NOMZ
-,	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-suggest	PUBV SUAV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-voicing	NN
-of	PIN PREP
-the	ART DET
-initial	JJ
-fricative	NN
-in	PIN CONJ PREP
-the	ART DET
-cluster	NN
-/sm/	NNP
-is	BEMA VPRT AUXB
-probably	RB
-unintelligible	JJ
-for	PIN PREP
-native	JJ
-speakers	NN
-.	
- 	
-Silveira	CAP NNP
-(	
-2007	NUM
-)	
-has	VPRT PEAS
-conducted	
-a	ART DET INDA
-similar	JJ
-research	NN
-,	
-in	PIN CONJ PREP
-which	PIRE DET WH
-Brazilian	JJ CAP
-EFL	CAP NNP
-adult	NN
-learners	NN
-had	VBD
-to	PIN TO PREP
-do	PROD INF
-a	ART DET INDA
-free	JJ
--	
-speech	NN
-task	NN
-and	CCONJ
-a	ART DET INDA
-read	NN
-aloud	NN
-one	NUM
-.	
-Her	TPP3 CAP PRP SBJP
-research	NN
-aimed	WZPAST
-to	PIN TO PREP
-study	INF
-the	ART DET
-role	NN
-played	WZPAST
-by	PIN PREP
-orthography	NN
-on	PIN PREP
-the	ART DET
-difficulties	NN
-some	QUAN DET
-people	NN
-face	VPRT
-when	RB SCONJ WH
-pronouncing	GER PUBV SUAV PGAS
-words	NN
-in	PIN CONJ PREP
-English	CAP NNP
-that	DEMP WH
-end	VPRT
-in	PIN CONJ PREP
-consonants	NN
-.	
-Silveira	CAP NNP
-concluded	VBD PRIV
-,	
-regarding	PGAS
-epenthesis	NN
-,	
-that	PIN STPR DEMP SCONJ PREP
-,	
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-structure	NN
-of	PIN PREP
-the	ART DET
-Brazilian	JJ CAP
-Portuguese	JJ CAP
-syllable	NN
-,	
-speakers	NN
-tend	VPRT
-to	PIN TO PREP
-insert	INF
-a	ART DET INDA
-vowel	NN
-so	PIN SCONJ PREP
-it	PIT PRP SBJP
-will	PRMD
-match	INF
-their	TPP3 PRP SBJP
-own	JJ
-language	NN
-better	RB CMADJ
-,	
-also	RB
-,	
-considering	GER PRIV PGAS
-that	PIN THVC SCONJ PREP
-most	JJ EMPH SPADJ
-cognates	NN
-in	PIN CONJ PREP
-English	CAP NNP
-that	DEMP WH
-end	VPRT
-with	PIN PREP
-a	ART DET INDA
-consonant	NN
-in	PIN CONJ PREP
-Portuguese	CAP NNP
-have	VPRT
-a	ART DET INDA
-vowel	NN
-after	PIN PREP
-it	PIT PRP SBJP
-,	
-(	
-e.g.	RB CONJ
-nostalgic	JJ
-and	CCONJ
-nostálgico	NNP
-)	
-.	
- 	
-Cruz	CAP NNP
-(	
-2008	NUM
-)	
-also	RB
-conducted	VBD
-a	ART DET INDA
-research	NN
-on	PIN PREP
-whether	PIN SCONJ PREP
-epenthesis	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-source	NN
-of	PIN PREP
-unintelligibility	NOMZ
-or	CCONJ
-not	XX0 RB
-.	
-The	ART CAP DET
-author	NN
-divided	VBD
-the	ART DET
-listeners	NN
-into	PIN PREP
-three	NUM
-groups	NN
-and	CCONJ
-asked	VBD SUAV
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-listen	INF
-to	PIN PREP
-the	ART DET
-audios	NN
-of	PIN PREP
-Brazilians	CAP NNP
-speaking	WZPRES PGAS
-English	CAP NNP
-and	ANDC CCONJ
-then	RB
-do	PROD INF
-tasks	NN
-.	
-One	CAP NUM
-of	PIN PREP
-these	DEMO DET
-tasks	NN
-was	VBD AUXB
-being	BEMA AUXB
-to	PIN TO PREP
-write	PUBV INF
-what	WHCL WH
-they	TPP3 PRP SBJP
-had	VBD PEAS
-heard	PRIV
-.	
-56	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-transcriptions	NOMZ
-was	VBD AUXB
-not	XX0 RB
-,	
-but	CCONJ
-the	ART DET
-rest	NN
-(	
-44	NUM
-%	NN
-)	
-were	PASS VBD SPAU AUXB
-wrongly	RB
-written	PUBV
-,	
-which	SERE DET WH
-led	VBD
-Cruz	CAP NNP
-to	PIN TO PREP
-state	PUBV THATD INF
-that	THVC DET
-vowel	JJ
-insertion	NOMZ
-might	POMD
-make	INF
-the	ART DET
-speech	NN
-unintelligible	JJ
-.	
-She	TPP3 CAP PRP SBJP
-concluded	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-most	RB EMPH SPADJ
-intelligible	JJ
-epenthesis	NN
-occurrence	NN
-is	BEMA VPRT AUXB
-the	ART DET
-reduced	JJ
-[	X
-i	FPP1 X
-]	
-vowel	VBD
-(	
-e.g.	RB CONJ
-live	JJ
-)	
-,	
-followed	PASTP
-by	PIN PREP
-the	ART DET
-full	JJ
-[	X
-i	FPP1 X
-]	
-vowel	NN
-.	
-(	
-E.g.	CONJ CAP NNP
-leave	INF
-)	
-.	
- 	
-Epenthesis	CAP NNP
-is	BEMA VPRT AUXB
-common	JJ PRED
-,	
-but	CCONJ
-Brazilians	NN CAP
-can	POMD
-practice	INF
-and	PHC CCONJ
-lose	INF
-this	DEMO DET
-trend	NN
-of	PIN PREP
-Brazilian	JJ CAP
-Portuguese	CAP NNP
-,	
-learning	PRIV PRESP PGAS
-the	ART DET
-phonetic	JJ
-transcription	NOMZ
-,	
-for	PIN PREP
-example	NN
-.	
-Phonetic	JJ CAP
-transcription	NOMZ
-can	POMD
-avoid	INF
-learners	NN
-being	PASS WZPRES BYPA AUXB
-misled	
-by	PIN PREP
-an	ART DET INDA
-incapably	RB
-trained	
-ear	NN
-or	CCONJ
-by	PIN PREP
-the	ART DET
-effect	NN
-of	PIN PREP
-the	ART DET
-ordinary	JJ
-spelling	NN
-;	
-therefore	RB CONJ
-,	
-learning	PRIV PGAS
-phonetic	JJ
-transcription	NOMZ
-enables	VPRT
-the	ART DET
-language	NN
-learner	NN
-to	PIN TO PREP
-extract	INF
-precise	JJ
-pronunciation	NOMZ
-from	PIN PREP
-a	ART DET INDA
-dictionary	JJ
-or	CCONJ
-online	RB
-.	
-Epenthesis	NN CAP
-occurs	VPRT
-in	PIN CONJ PREP
-all	QUAN DET
-languages	NN
-,	
-but	CCONJ
-the	ART DET
-focus	NN
-here	RB
-was	BEMA VBD AUXB
-with	PIN PREP
-Brazilians	CAP NNP
-,	
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-trend	NN
-to	PIN TO PREP
-insert	NNP
-vowel	INF
-following	PGAS
-Portuguese	JJ CAP
-rules	SUAV NN
-.	
-        	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0704.0440>\n\n<EPENTHESIS’ USE AMONG BRAZILIANS LEARNERS OF ENGLISH>\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Portuguese	JJ CAP
+gap	 	
+word	consonants	NN
+gap	 	
+word	do	VPRT PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	usually	RB
+gap	 	
+word	appear	SMP INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	word	NN
+gap	-	
+word	final	JJ
+gap	 	
+word	position	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Cristófaro	
+gap	 	
+word	Silva	
+gap	 	
+word	observation	
+gap	, 	
+word	an	
+gap	 	
+word	extra	
+gap	 	
+word	vowel	
+gap	 	
+word	is	
+gap	 	
+word	susceptible	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	inserted	
+gap	 	
+word	by	
+gap	 	
+word	Brazilian	
+gap	 	
+word	learners	
+gap	 	
+word	of	
+gap	 	
+word	English	
+gap	; 	
+word	this	
+gap	 	
+word	phenomenon	
+gap	 	
+word	is	
+gap	 	
+word	known	
+gap	 	
+word	as	
+gap	 	
+word	Epenthesis	
+gap	. 	
+word	Epenthesis	CAP NNP
+gap	 	
+word	occurs	
+gap	 	
+word	with	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	speakers	
+gap	, 	
+word	mainly	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	second	
+gap	 	
+word	language	
+gap	 	
+word	learner	
+gap	, 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	word	
+gap	 	
+word	unintelligible	
+gap	 	
+word	to	
+gap	 	
+word	natives	
+gap	. 	
+word	Learning	
+gap	 	
+word	the	
+gap	 	
+word	phonetic	
+gap	 	
+word	alphabet	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	and	
+gap	 	
+word	avoid	
+gap	 	
+word	this	
+gap	 	
+word	phenomenon	
+gap	. 	
+word	This	
+gap	 	
+word	essay	
+gap	 	
+word	will	
+gap	 	
+word	focus	
+gap	 	
+word	on	
+gap	 	
+word	Brazilian	
+gap	 	
+word	English	
+gap	 	
+word	learners	
+gap	, 	
+word	providing	
+gap	 	
+word	datas	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	explain	
+gap	 	
+word	why	
+gap	 	
+word	Epenthesis	
+gap	 	
+word	happens	
+gap	.\n	
+word	According	
+gap	 	
+word	to	
+gap	 	
+word	Cristófaro	
+gap	 	
+word	Silva	
+gap	 (2012), 	
+word	in	
+gap	 	
+word	phonology	
+gap	 	
+word	and	
+gap	 	
+word	phonetics	
+gap	, 	
+word	epenthesis	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	insertion	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	extra	
+gap	 	
+word	sound	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	pronunciation	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	word	
+gap	 	
+word	to	
+gap	 	
+word	facilitate	
+gap	 	
+word	the	
+gap	 	
+word	articulation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	sounds	
+gap	. 	
+word	It	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	accidental	
+gap	, 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	vice	
+gap	 	
+word	of	
+gap	 	
+word	speech	
+gap	. 	
+word	Brazilians	
+gap	 	
+word	are	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	words	
+gap	 	
+word	ending	
+gap	 	
+word	in	
+gap	 	
+word	s	
+gap	, 	
+word	r	
+gap	 	
+word	and	
+gap	 	
+word	l	
+gap	. 	
+word	When	
+gap	 	
+word	a	
+gap	 	
+word	word	
+gap	 	
+word	ends	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	consonant	
+gap	 	
+word	from	
+gap	 	
+word	these	
+gap	 	
+word	ones	
+gap	, 	
+word	an	
+gap	 	
+word	extra	
+gap	 	
+word	vowel	
+gap	 	
+word	is	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	inserted	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	the	
+gap	 	
+word	pronunciation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 “	
+word	Stop	
+gap	” 	
+word	in	
+gap	 	
+word	English	
+gap	 	
+word	ends	
+gap	 	
+word	in	
+gap	 	
+word	consonant	
+gap	 [	
+word	p	
+gap	], 	
+word	but	
+gap	 	
+word	Brazilians	
+gap	 	
+word	are	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	inserting	
+gap	 	
+word	the	
+gap	 	
+word	vowel	
+gap	 [	
+word	i	
+gap	] 	
+word	because	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	exists	
+gap	 	
+word	words	
+gap	 	
+word	in	
+gap	 	
+word	Portuguese	
+gap	 	
+word	that	
+gap	 	
+word	ends	
+gap	 	
+word	in	
+gap	 [	
+word	p	
+gap	]. 	
+word	In	PIN CONJ PREP
+gap	 	
+word	addition	
+gap	, 	
+word	this	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	several	
+gap	 	
+word	words	
+gap	. 	
+word	This	
+gap	 [	
+word	i	
+gap	] 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	inserted	
+gap	 	
+word	in	
+gap	 	
+word	word	
+gap	-	
+word	final	
+gap	 	
+word	position	
+gap	 	
+word	after	
+gap	 	
+word	the	
+gap	 	
+word	fricatives	
+gap	 /	
+word	f	
+gap	/, /	
+word	v	
+gap	/, /	
+word	S	
+gap	/ 	
+word	and	
+gap	 /	
+word	Z	
+gap	/.\n	
+word	The	
+gap	 	
+word	production	
+gap	 	
+word	of	
+gap	 	
+word	Epenthesis	
+gap	 	
+word	may	
+gap	 	
+word	happen	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	of	
+gap	 	
+word	words	
+gap	 	
+word	too	
+gap	, 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	reason	
+gap	, 	
+word	words	
+gap	 	
+word	in	
+gap	 	
+word	Portuguese	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	a	
+gap	 	
+word	rule	
+gap	: 	
+word	CVC	
+gap	 (	
+word	consonant	
+gap	, 	
+word	vowel	
+gap	, 	
+word	consonant	JJ
+gap	) 	
+word	or	
+gap	 	
+word	VCV	
+gap	 (	
+word	vowel	
+gap	, 	
+word	consonant	
+gap	, 	
+word	and	
+gap	 	
+word	vowel	
+gap	); 	
+word	however	
+gap	, 	
+word	in	
+gap	 	
+word	English	
+gap	 	
+word	some	
+gap	 	
+word	words	
+gap	 	
+word	begin	
+gap	 	
+word	with	
+gap	 	
+word	consonant	
+gap	 	
+word	which	
+gap	 	
+word	are	
+gap	 	
+word	followed	
+gap	 	
+word	by	
+gap	 	
+word	another	
+gap	 	
+word	consonant	
+gap	. 	
+word	An	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	case	
+gap	 	
+word	is	
+gap	; 	
+word	Street	
+gap	, 	
+word	Brazilians	
+gap	 	
+word	may	
+gap	 	
+word	insert	
+gap	 	
+word	a	
+gap	 	
+word	vowel	
+gap	 	
+word	before	
+gap	 	
+word	the	
+gap	 	
+word	consonant	
+gap	 	
+word	S	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	the	
+gap	 	
+word	Portuguese	
+gap	 	
+word	rule	
+gap	, [	
+word	istrit	
+gap	?	
+word	i	
+gap	]. 	
+word	This	
+gap	 	
+word	phenomenon	
+gap	 	
+word	may	
+gap	 	
+word	occur	
+gap	 	
+word	in	
+gap	 	
+word	several	
+gap	 	
+word	words	
+gap	.\n	
+word	Some	
+gap	 	
+word	research	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	done	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	occurrence	
+gap	 	
+word	of	
+gap	 	
+word	Epenthesis	
+gap	, 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	of	
+gap	 	
+word	that	
+gap	 	
+word	to	
+gap	 	
+word	show	
+gap	 	
+word	if	
+gap	 	
+word	a	
+gap	 	
+word	word	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	interpreted	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	wrong	
+gap	 	
+word	way	
+gap	 	
+word	or	
+gap	 	
+word	be	
+gap	 	
+word	unintelligible	
+gap	 	
+word	to	
+gap	 	
+word	natives	
+gap	. 	
+word	Cruz	
+gap	 (2003) 	
+word	has	
+gap	 	
+word	conducted	
+gap	 	
+word	a	
+gap	 	
+word	research	
+gap	 	
+word	that	
+gap	 	
+word	investigated	
+gap	 	
+word	how	
+gap	 	
+word	many	
+gap	 	
+word	errors	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	segment	
+gap	 	
+word	level	
+gap	 (	
+word	consonants	
+gap	, 	
+word	vowels	
+gap	, 	
+word	epenthesis	
+gap	 	
+word	and	
+gap	 	
+word	word	
+gap	 	
+word	stress	
+gap	) 	
+word	influence	
+gap	 	
+word	Brazilian	
+gap	 	
+word	learners	
+gap	’ 	
+word	unintelligibility	
+gap	 	
+word	to	
+gap	 	
+word	native	
+gap	 	
+word	speakers	
+gap	. 	
+word	In	
+gap	 	
+word	relation	
+gap	 	
+word	to	
+gap	 	
+word	epenthesis	
+gap	, 	
+word	none	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	seven	
+gap	 	
+word	identified	
+gap	 	
+word	occurrences	
+gap	 	
+word	were	
+gap	 	
+word	judged	
+gap	 	
+word	as	
+gap	 	
+word	impossible	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	, 	
+word	although	
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 ‘	
+word	small	
+gap	’ (	
+word	pronounced	
+gap	 [	
+word	iz	
+gap	`	
+word	m	
+gap	?	
+word	w	
+gap	]) 	
+word	and	
+gap	 	
+word	one	
+gap	 	
+word	other	
+gap	 	
+word	case	
+gap	 	
+word	were	
+gap	 	
+word	considered	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	. 	
+word	She	
+gap	 	
+word	concluded	
+gap	 	
+word	that	
+gap	 	
+word	epenthesis	
+gap	 	
+word	alone	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	sufficient	
+gap	 	
+word	to	
+gap	 	
+word	cause	
+gap	 	
+word	unintelligibility	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	suggest	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	voicing	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	initial	
+gap	 	
+word	fricative	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	cluster	
+gap	 /	
+word	sm	
+gap	/ 	
+word	is	
+gap	 	
+word	probably	
+gap	 	
+word	unintelligible	
+gap	 	
+word	for	
+gap	 	
+word	native	
+gap	 	
+word	speakers	
+gap	.\n	
+word	Silveira	
+gap	 (2007) 	
+word	has	
+gap	 	
+word	conducted	
+gap	 	
+word	a	
+gap	 	
+word	similar	
+gap	 	
+word	research	
+gap	, 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	Brazilian	
+gap	 	
+word	EFL	
+gap	 	
+word	adult	
+gap	 	
+word	learners	
+gap	 	
+word	had	
+gap	 	
+word	to	
+gap	 	
+word	do	
+gap	 	
+word	a	
+gap	 	
+word	free	
+gap	-	
+word	speech	
+gap	 	
+word	task	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	read	
+gap	 	
+word	aloud	
+gap	 	
+word	one	
+gap	. 	
+word	Her	
+gap	 	
+word	research	
+gap	 	
+word	aimed	
+gap	 	
+word	to	
+gap	 	
+word	study	
+gap	 	
+word	the	
+gap	 	
+word	role	
+gap	 	
+word	played	
+gap	 	
+word	by	
+gap	 	
+word	orthography	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	difficulties	
+gap	 	
+word	some	
+gap	 	
+word	people	
+gap	 	
+word	face	
+gap	 	
+word	when	
+gap	 	
+word	pronouncing	
+gap	 	
+word	words	
+gap	 	
+word	in	
+gap	 	
+word	English	
+gap	 	
+word	that	
+gap	 	
+word	end	
+gap	 	
+word	in	
+gap	 	
+word	consonants	
+gap	. 	
+word	Silveira	
+gap	 	
+word	concluded	
+gap	, 	
+word	regarding	
+gap	 	
+word	epenthesis	
+gap	, 	
+word	that	
+gap	 ,	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	structure	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Brazilian	
+gap	 	
+word	Portuguese	
+gap	 	
+word	syllable	
+gap	, 	
+word	speakers	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	insert	
+gap	 	
+word	a	
+gap	 	
+word	vowel	
+gap	 	
+word	so	
+gap	 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	match	
+gap	 	
+word	their	
+gap	 	
+word	own	
+gap	 	
+word	language	
+gap	 	
+word	better	
+gap	, 	
+word	also	
+gap	, 	
+word	considering	
+gap	 	
+word	that	
+gap	 	
+word	most	
+gap	 	
+word	cognates	
+gap	 	
+word	in	
+gap	 	
+word	English	
+gap	 	
+word	that	
+gap	 	
+word	end	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	consonant	
+gap	 	
+word	in	
+gap	 	
+word	Portuguese	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	vowel	
+gap	 	
+word	after	
+gap	 	
+word	it	
+gap	, (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	nostalgic	
+gap	 	
+word	and	
+gap	 	
+word	nostálgico	
+gap	).\n	
+word	Cruz	
+gap	 (2008) 	
+word	also	
+gap	 	
+word	conducted	
+gap	 	
+word	a	
+gap	 	
+word	research	
+gap	 	
+word	on	
+gap	 	
+word	whether	
+gap	 	
+word	epenthesis	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	unintelligibility	
+gap	 	
+word	or	
+gap	 	
+word	not	
+gap	. 	
+word	The	
+gap	 	
+word	author	
+gap	 	
+word	divided	
+gap	 	
+word	the	
+gap	 	
+word	listeners	
+gap	 	
+word	into	
+gap	 	
+word	three	
+gap	 	
+word	groups	
+gap	 	
+word	and	
+gap	 	
+word	asked	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	listen	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	audios	
+gap	 	
+word	of	
+gap	 	
+word	Brazilians	
+gap	 	
+word	speaking	
+gap	 	
+word	English	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	do	
+gap	 	
+word	tasks	
+gap	. 	
+word	One	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	tasks	
+gap	 	
+word	was	
+gap	 	
+word	being	
+gap	 	
+word	to	
+gap	 	
+word	write	
+gap	 	
+word	what	
+gap	 	
+word	they	
+gap	 	
+word	had	
+gap	 	
+word	heard	
+gap	. 56% 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	transcriptions	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	rest	
+gap	 (44%) 	
+word	were	
+gap	 	
+word	wrongly	
+gap	 	
+word	written	
+gap	, 	
+word	which	
+gap	 	
+word	led	
+gap	 	
+word	Cruz	
+gap	 	
+word	to	
+gap	 	
+word	state	
+gap	 	
+word	that	
+gap	 	
+word	vowel	
+gap	 	
+word	insertion	
+gap	 	
+word	might	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	speech	
+gap	 	
+word	unintelligible	
+gap	. 	
+word	She	
+gap	 	
+word	concluded	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	intelligible	
+gap	 	
+word	epenthesis	
+gap	 	
+word	occurrence	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	reduced	
+gap	 [	
+word	i	
+gap	] 	
+word	vowel	
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	live	
+gap	), 	
+word	followed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	full	
+gap	 [	
+word	i	
+gap	] 	
+word	vowel	
+gap	. (	
+word	E	
+gap	.	
+word	g	
+gap	. 	
+word	leave	
+gap	).\n	
+word	Epenthesis	
+gap	 	
+word	is	
+gap	 	
+word	common	
+gap	, 	
+word	but	
+gap	 	
+word	Brazilians	
+gap	 	
+word	can	
+gap	 	
+word	practice	
+gap	 	
+word	and	
+gap	 	
+word	lose	
+gap	 	
+word	this	
+gap	 	
+word	trend	
+gap	 	
+word	of	
+gap	 	
+word	Brazilian	
+gap	 	
+word	Portuguese	
+gap	, 	
+word	learning	
+gap	 	
+word	the	
+gap	 	
+word	phonetic	
+gap	 	
+word	transcription	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	. 	
+word	Phonetic	
+gap	 	
+word	transcription	
+gap	 	
+word	can	
+gap	 	
+word	avoid	
+gap	 	
+word	learners	
+gap	 	
+word	being	
+gap	 	
+word	misled	
+gap	 	
+word	by	
+gap	 	
+word	an	
+gap	 	
+word	incapably	
+gap	 	
+word	trained	
+gap	 	
+word	ear	
+gap	 	
+word	or	
+gap	 	
+word	by	
+gap	 	
+word	the	ART DET
+gap	 	
+word	effect	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	ordinary	
+gap	 	
+word	spelling	
+gap	; 	
+word	therefore	
+gap	, 	
+word	learning	
+gap	 	
+word	phonetic	
+gap	 	
+word	transcription	
+gap	 	
+word	enables	
+gap	 	
+word	the	
+gap	 	
+word	language	
+gap	 	
+word	learner	
+gap	 	
+word	to	
+gap	 	
+word	extract	
+gap	 	
+word	precise	
+gap	 	
+word	pronunciation	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	dictionary	
+gap	 	
+word	or	
+gap	 	
+word	online	
+gap	. 	
+word	Epenthesis	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	all	
+gap	 	
+word	languages	
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	focus	
+gap	 	
+word	here	
+gap	 	
+word	was	
+gap	 	
+word	with	
+gap	 	
+word	Brazilians	
+gap	, 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	trend	
+gap	 	
+word	to	
+gap	 	
+word	insert	
+gap	 	
+word	vowel	
+gap	 	
+word	following	
+gap	 	
+word	Portuguese	
+gap	 	
+word	rules	
+gap	.\n\n<REFERENCES:>\n<CRUZ, NEIDE CESAR. An exploratory study of pronunciation intelligibility in the Brazilian learner's English. The ESPecialist 155-75, 24.02.2003.>\n<SILVEIRA, ROSANE. Investigating the Role of Orthography in the Acquisition of L2 Pronunciation: A Case Study. Research Gate. Jan. 2007.>\n<CRUZ, NEIDE CESAR. Vowel Insertion in the Speech of Brazilian Learners of English: A Source of Unintelligibility?>\n<DELATORRE, FERNANDA, KOERICH, DENISE ROSANA. Brazilian EFL Learner's Epenthesis Production on English Words Ending in ED.>\n<SILVA, CRISTÓFARO, THAÏS. Pronúncia do Inglês para Falantes do Português Brasileiro: Editora Contexto: São Paulo: 2012.>\n	

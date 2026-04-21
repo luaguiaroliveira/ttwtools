@@ -1,587 +1,1069 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0714.0331.txt
-token	tags
-    	
-Recently	RB TIME CAP
-the	ART DET
-Brazil	CAP NNP
-’s	
-federal	JJ
-universities	NN
-have	VPRT
-to	PIN TO PREP
-reserve	INF
-half	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-positions	NOMZ
-for	PIN PREP
-students	NN
-coming	WZPRES PGAS
-from	PIN PREP
-public	JJ
-schools	NN
-,	
-low	JJ
--	
-income	NN
-families	NN
-and	ANDC CCONJ
-who	WH
-are	BEMA VPRT AUXB
-of	PIN PREP
-African	JJ CAP
-or	CCONJ
-indigenous	JJ
-descent	NN
-.	
-This	DEMO CAP DET
-quota	NN
-’s	
-politic	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-give	INF
-underprivileged	JJ
-Brazilians	CAP NNP
-better	JJ CMADJ
-chances	NN
-of	PIN PREP
-getting	PGAS
-free	JJ
-higher	JJ CMADJ
-education	NOMZ
-and	ANDC CCONJ
-thus	RB CONJ
-access	NN
-to	PIN PREP
-better	JJ CMADJ
-jobs	NN
-and	ANDC CCONJ
-consequently	RB CONJ
-to	PIN TO PREP
-reduce	INF
-social	JJ
-inequality	NOMZ
-in	PIN CONJ PREP
-Brazil	CAP NNP
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-quotas	NN
-system	NN
-has	VPRT PEAS
-been	BEMA AUXB
-subject	JJ PRED
-of	PIN PREP
-several	QUAN JJ
-critical	JJ
-based	
-on	PIN PREP
-a	ART DET INDA
-meritocratic	JJ
-view	NN
-of	PIN PREP
-the	ART DET
-higher	JJ CMADJ
-education	NOMZ
-system	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-longest	JJ SPADJ
-standing	PGAS
-arguments	NOMZ
-against	PIN PREP
-the	ART DET
-quotas	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-quotas	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-’s	
-federal	JJ
-university	NNP
-deny	PUBV INF
-the	ART DET
-principle	NN
-of	PIN PREP
-merit	NN
-that	TSUB WHSUB WH
-brings	VPRT
-excellence	NN
-to	PIN PREP
-these	DEMO DET
-universities	NN
-.	
-Nonetheless	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-make	INF
-sense	PRIV NN
-to	PIN TO PREP
-consider	PRIV INF
-only	DWNT RB
-the	ART DET
-academic	JJ
-merit	NN
-as	PIN CONJ PREP
-evaluation	NOMZ
-criteria	NN
-at	PIN PREP
-a	ART DET INDA
-country	NN
-with	PIN PREP
-greatly	AMP RB
-social	JJ
-inequality	NOMZ
-,	
-as	PIN CONJ PREP
-Brazil	CAP NNP
-.	
-  	
-Federal	JJ CAP
-universities	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-are	PASS VPRT AUXB
-considered	PRIV
-high	JJ
-quality	NOMZ
-education	NOMZ
-and	CCONJ
-also	RB
-are	BEMA VPRT AUXB
-free	JJ PRED
-of	PIN PREP
-costs	NN
-.	
-Before	PIN CAP PREP
-the	ART DET
-establishment	NOMZ
-of	PIN PREP
-quotas	NN
-,	
-the	ART DET
-major	NN
-of	PIN PREP
-spots	NN
-in	PIN CONJ PREP
-the	ART DET
-Brazilian	JJ CAP
-public	JJ
-universities	NN
-were	PASS VBD BYPA AUXB
-took	
-on	PIN PREP
-by	PIN PREP
-white	JJ
-people	NN
-of	PIN PREP
-middle	JJ
-class	NN
-and	CCONJ
-upper	JJ
-middle	JJ
-class	NN
-.	
-In	PIN CONJ CAP PREP
-general	JJ
-,	
-these	DEMO DET
-families	NN
-send	VPRT
-their	TPP3 PRP SBJP
-children	NN
-to	PIN PREP
-best	JJ SPADJ
-private	JJ
-schools	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-admission	NOMZ
-of	PIN PREP
-their	TPP3 PRP SBJP
-children	NN
-at	PIN PREP
-the	ART DET
-great	JJ
-federal	JJ
-universities	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-other	JJ
-words	NN
-,	
-the	ART DET
-quality	NOMZ
-higher	JJ CMADJ
-education	NOMZ
-was	BEMA VBD AUXB
-not	XX0 RB
-accessible	JJ
-for	PIN PREP
-poor	JJ
-people	NN
-who	WHSUB WH
-mostly	RB
-are	BEMA VPRT AUXB
-black	JJ
-people	NN
-or	CCONJ
-mestizo	INF
-people	NN
-and	ANDC CCONJ
-who	WH
-had	VBD
-not	XX0 RB
-good	JJ
-economic	JJ
-positions	NOMZ
-for	PIN PREP
-studying	PGAS
-and	CCONJ
-to	PIN TO PREP
-achieve	INF
-high	JJ
-test	NN
-scores	NN
-on	PIN PREP
-the	ART DET
-"	QUOT
-vestibular	JJ
-,	
-"	QUOT
-.	
-By	PIN CAP PREP
-the	ART DET
-way	NN
-,	
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-merit	NN
-for	PIN PREP
-a	ART DET INDA
-candidate	NN
-who	WHSUB WH
-had	VBD
-the	ART DET
-privilege	NN
-of	PIN PREP
-being	PASS AUXB
-born	
-in	PIN CONJ PREP
-a	ART DET INDA
-family	NN
-with	PIN PREP
-good	JJ
-financial	JJ
-conditions	NOMZ
-and	CCONJ
-could	POMD
-study	INF
-in	PIN CONJ PREP
-the	ART DET
-best	JJ SPADJ
-private	JJ
-schools	NN
-to	PIN TO PREP
-rank	INF
-in	PIN CONJ PREP
-more	RB EMPH CMADJ
-advantageous	JJ
-position	NOMZ
-than	PIN PREP
-candidates	NN
-who	WHSUB WH
-had	VBD
-no	SYNE DET
-choice	NN
-and	CCONJ
-studied	
-in	PIN CONJ PREP
-public	JJ
-schools	NN
-of	PIN PREP
-poor	JJ
-quality	NOMZ
-.	
-  	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-note	PRIV INF
-that	PIN THVC SCONJ PREP
-at	PIN PREP
-a	ART DET INDA
-society	NN
-which	WHOBJ DET WH
-there	EX
-are	VPRT AUXB
-racism	NN
-and	ANDC CCONJ
-so	RB EMPH
-social	JJ
-inequality	NOMZ
-part	NN
-of	PIN PREP
-the	ART DET
-privileged	JJ
-social	JJ
-position	NOMZ
-of	PIN PREP
-white	JJ
-people	NN
-is	VPRT AUXB
-result	NN
-of	PIN PREP
-uneven	JJ
-chance	NN
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-have	VPRT PEAS
-been	BEMA AUXB
-over	PIN PREP
-the	ART DET
-decades	NN
-in	PIN CONJ PREP
-comparison	NN
-to	PIN PREP
-the	ART DET
-poor	JJ
-population	NOMZ
-,	
-and	ANDC CCONJ
-not	XX0 RB
-simply	RB
-due	PIN PREP
-to	PIN PREP
-their	TPP3 PRP SBJP
-merit	NN
-themselves	TPP3 PRP SBJP ACCU
-.	
-Even	RB CAP
-so	RB
-,	
-evaluate	INF
-the	ART DET
-students	NN
-considering	GER WZPRES PRIV THATD PGAS
-only	DWNT RB
-academic	JJ
-merit	NN
-is	BEMA VPRT AUXB
-inappropriate	JJ
-process	NN
-and	CCONJ
-leads	VPRT
-to	PIN PREP
-a	ART DET INDA
-way	NN
-of	PIN PREP
-discrimination	NOMZ
-and	PHC CCONJ
-injustice	NN
-social	NN
-.	
-  	
-In	PIN CONJ CAP PREP
-fact	NN
-,	
-the	ART DET
-merit	NN
-brings	VPRT
-excellence	NN
-to	PIN PREP
-these	DEMO DET
-universities	NN
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-merit	NN
-does	VPRT SPAU
-not	XX0 RB
-categorize	INF
-the	ART DET
-students	NN
-according	WZPRES PGAS
-to	PIN PREP
-their	TPP3 PRP SBJP
-intelligence	NN
-.	
-Therefore	RB CONJ CAP
-,	
-the	ART DET
-excellence	NN
-of	PIN PREP
-Braziliam	CAP NNP
-federal	JJ
-universities	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-associated	
-entirely	AMP RB
-with	PIN PREP
-the	ART DET
-merit	NN
-of	PIN PREP
-students	NN
-from	PIN PREP
-higher	JJ CMADJ
--	
-income	NN
-backgrounds	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-several	QUAN JJ
-studies	NN
-show	VPRT PRIV
-that	PIN THVC SCONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-universities	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-quotas	NN
-have	VPRT PEAS
-followed	
-through	PIN PREP
-there	EX
-were	VBD AUXB
-not	XX0 RB
-any	QUAN DET
-education	NOMZ
-quality	NOMZ
-depletion	NOMZ
-.	
-The	ART CAP DET
-universities	NN
-that	TSUB WHSUB WH
-adopted	VBD
-quotas	NN
-system	NN
-initially	RB TIME
-,	
-such	JJ
-as	PIN CONJ PREP
-Federal	CAP NNP
-University	CAP NNP
-of	PIN PREP
-Bahia	CAP NNP
-and	PHC CCONJ
-Rio	CAP NNP
-de	NNP
-Janeiro	CAP NNP
-State	PUBV CAP NNP
-Univesrity	CAP NNP
-,	
-demonstrated	VBD PRIV
-that	PIN THVC SCONJ PREP
-performance	NN
-both	DET
-students	NN
-(	
-“	
-cotistas	NN
-and	CCONJ
-non	JJ
-cotistas	NN
-”	
-)	
-was	BEMA VBD AUXB
-the	ART DET
-same	JJ
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-these	DEMO DET
-research	NN
-pointed	VBD
-out	PIN PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-motivation	NOMZ
-and	PHC CCONJ
-encouraging	GER
-are	VPRT AUXB
-even	RB
-more	RB EMPH CMADJ
-significant	JJ
-for	PIN PREP
-a	ART DET INDA
-good	JJ
-fulfillment	NOMZ
-.	
-  	
-For	PIN CAP PREP
-all	QUAN DET
-that	DEMP WH
-,	
-the	ART DET
-quota	NN
-’s	
-system	NN
-does	VPRT SPAU
-not	XX0 RB
-deny	PUBV INF
-the	ART DET
-principle	NN
-of	PIN PREP
-merit	NN
-and	CCONJ
-neither	CCONJ
-decrease	INF
-education	NOMZ
-quality	NOMZ
-of	PIN PREP
-federal	JJ
-universities	NN
-.	
-The	ART CAP DET
-law	NN
-of	PIN PREP
-quotas	NN
-has	VPRT PEAS SPAU
-just	RB EMPH
-been	AUXB
-restoring	PGAS
-new	JJ
-criteria	NN
-of	PIN PREP
-evaluation	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-Brazil	CAP NNP
-’s	
-federal	JJ
-universities	NN
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-can	POMD
-promote	INF
-a	ART DET INDA
-more	RB EMPH CMADJ
-diverse	JJ
-and	PHC CCONJ
-democratic	JJ
-higher	JJ CMADJ
-education	NOMZ
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0714.0331>\n\n<Do the quotas in Brazil’s federal university deny the principle of merit that brings excellence to these universities?>\n\n	
+word	Recently	RB TIME CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Brazil	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	federal	JJ
+gap	 	
+word	universities	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reserve	INF
+gap	 	
+word	half	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	positions	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	students	NN
+gap	 	
+word	coming	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	schools	NN
+gap	, 	
+word	low	JJ
+gap	-	
+word	income	NN
+gap	 	
+word	families	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	who	WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	African	JJ CAP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	indigenous	JJ
+gap	 	
+word	descent	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	quota	NN
+gap	’	
+word	s	
+gap	 	
+word	politic	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	underprivileged	JJ
+gap	 	
+word	Brazilians	CAP NNP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	chances	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	getting	PGAS
+gap	 	
+word	free	JJ
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	access	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	jobs	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	consequently	RB CONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	social	JJ
+gap	 	
+word	inequality	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	quotas	NN
+gap	 	
+word	system	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	subject	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	critical	JJ
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	meritocratic	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	system	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	longest	JJ SPADJ
+gap	 	
+word	standing	PGAS
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quotas	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quotas	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	federal	JJ
+gap	 	
+word	university	NNP
+gap	 	
+word	deny	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	merit	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	brings	VPRT
+gap	 	
+word	excellence	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	universities	NN
+gap	. 	
+word	Nonetheless	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	make	INF
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	academic	JJ
+gap	 	
+word	merit	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	criteria	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	country	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	social	JJ
+gap	 	
+word	inequality	NOMZ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	.\n\n	
+word	Federal	JJ CAP
+gap	 	
+word	universities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	high	JJ
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	free	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	costs	NN
+gap	. 	
+word	Before	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	establishment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	quotas	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	major	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	spots	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Brazilian	JJ CAP
+gap	 	
+word	public	JJ
+gap	 	
+word	universities	NN
+gap	 	
+word	were	PASS VBD BYPA AUXB
+gap	 	
+word	took	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	white	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	middle	JJ
+gap	 	
+word	class	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	upper	JJ
+gap	 	
+word	middle	JJ
+gap	 	
+word	class	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	general	JJ
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	families	NN
+gap	 	
+word	send	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	children	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	private	JJ
+gap	 	
+word	schools	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	admission	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	children	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	great	JJ
+gap	 	
+word	federal	JJ
+gap	 	
+word	universities	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	accessible	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	poor	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	mostly	RB
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	black	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	mestizo	INF
+gap	 	
+word	people	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	who	WH
+gap	 	
+word	had	VBD
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	good	JJ
+gap	 	
+word	economic	JJ
+gap	 	
+word	positions	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	studying	PGAS
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	high	JJ
+gap	 	
+word	test	NN
+gap	 	
+word	scores	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 "	
+word	vestibular	JJ
+gap	,". 	
+word	By	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	merit	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	candidate	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	had	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	privilege	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	born	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	family	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	good	JJ
+gap	 	
+word	financial	JJ
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	could	POMD
+gap	 	
+word	study	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	private	JJ
+gap	 	
+word	schools	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	rank	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	advantageous	JJ
+gap	 	
+word	position	NOMZ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	candidates	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	had	VBD
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	choice	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	studied	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	schools	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	poor	JJ
+gap	 	
+word	quality	NOMZ
+gap	.\n\n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	note	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	society	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	racism	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	social	JJ
+gap	 	
+word	inequality	NOMZ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	privileged	JJ
+gap	 	
+word	social	JJ
+gap	 	
+word	position	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	white	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	uneven	JJ
+gap	 	
+word	chance	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	decades	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	comparison	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poor	JJ
+gap	 	
+word	population	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	simply	RB
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	merit	NN
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	so	RB
+gap	, 	
+word	evaluate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	considering	GER WZPRES PRIV THATD PGAS
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	academic	JJ
+gap	 	
+word	merit	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	inappropriate	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	discrimination	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	injustice	NN
+gap	 	
+word	social	NN
+gap	.\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	merit	NN
+gap	 	
+word	brings	VPRT
+gap	 	
+word	excellence	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	universities	NN
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	merit	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	categorize	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	according	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	intelligence	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	excellence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Braziliam	CAP NNP
+gap	 	
+word	federal	JJ
+gap	 	
+word	universities	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	associated	
+gap	 	
+word	entirely	AMP RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	merit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	students	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	higher	JJ CMADJ
+gap	-	
+word	income	NN
+gap	 	
+word	backgrounds	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	several	QUAN JJ
+gap	 	
+word	studies	NN
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universities	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	quotas	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	followed	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	there	EX
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	education	NOMZ
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	depletion	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	universities	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	adopted	VBD
+gap	 	
+word	quotas	NN
+gap	 	
+word	system	NN
+gap	 	
+word	initially	RB TIME
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Federal	CAP NNP
+gap	 	
+word	University	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Bahia	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Rio	CAP NNP
+gap	 	
+word	de	NNP
+gap	 	
+word	Janeiro	CAP NNP
+gap	 	
+word	State	PUBV CAP NNP
+gap	 	
+word	Univesrity	CAP NNP
+gap	, 	
+word	demonstrated	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	performance	NN
+gap	 	
+word	both	DET
+gap	 	
+word	students	NN
+gap	 (“	
+word	cotistas	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	non	JJ
+gap	 	
+word	cotistas	NN
+gap	”) 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	research	NN
+gap	 	
+word	pointed	VBD
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	motivation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	encouraging	GER
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	even	RB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	significant	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	fulfillment	NOMZ
+gap	.\n\n	
+word	For	PIN CAP PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	that	DEMP WH
+gap	, 	
+word	the	ART DET
+gap	 	
+word	quota	NN
+gap	’	
+word	s	
+gap	 	
+word	system	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	deny	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	merit	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	neither	CCONJ
+gap	 	
+word	decrease	INF
+gap	 	
+word	education	NOMZ
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	federal	JJ
+gap	 	
+word	universities	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	law	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	quotas	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	been	AUXB
+gap	 	
+word	restoring	PGAS
+gap	 	
+word	new	JJ
+gap	 	
+word	criteria	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Brazil	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	federal	JJ
+gap	 	
+word	universities	NN
+gap	 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	promote	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	diverse	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	democratic	JJ
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	education	NOMZ
+gap	.\n	

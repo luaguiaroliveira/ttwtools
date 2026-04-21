@@ -1,1263 +1,2184 @@
 # filename: LS_Psychology_Essay_2_0020c_tx.txt
-token	tags
-Over	PIN CAP PREP
-the	ART DET
-last	JJ
-twenty	NUM
-years	NN
-qualitative	JJ
-research	NN
-has	VPRT PEAS
-risen	
-from	PIN PREP
-an	ART DET INDA
-approach	NN
-of	PIN PREP
-the	ART DET
-study	NN
-of	PIN PREP
-social	JJ
-issues	NN
-to	PIN PREP
-a	ART DET INDA
-widely	RB
-practiced	
-method	NN
-for	PIN PREP
-understanding	GER PRIV PGAS
-how	RB WHCL SCONJ WH
-people	NN
-view	VPRT
-themselves	TPP3 PRP SBJP ACCU
-and	CCONJ
-the	ART DET
-world	NN
-around	PIN PLACE PREP
-them	TPP3 PRP SBJP ACCU
-.	
-Qualitative	CAP NNP
-research	NN
-involves	VPRT
-findings	NN
-that	TSUB WHSUB WH
-are	PASS VPRT BYPA SPAU AUXB
-not	XX0 RB
-arrived	
-at	PIN PREP
-by	PIN PREP
-statistical	JJ
-or	CCONJ
-other	JJ
-quantitative	JJ
-procedures	NN
-.	
-The	ART CAP DET
-data	NN
-used	WZPAST
-in	PIN CONJ PREP
-qualitative	JJ
-research	NN
-varies	VPRT
-in	PIN CONJ PREP
-many	QUAN JJ
-form	NN
-,	
-the	ART DET
-main	JJ
-focus	NN
-of	PIN PREP
-the	ART DET
-essay	NN
-will	PRMD
-be	BEMA AUXB INF
-on	PIN PREP
-verbal	JJ
-report	PUBV NN
-data	NN
-and	CCONJ
-discourse	INF
-analysis	NN
-.	
-Discourse	NN CAP
-analysis	NN
-focuses	VPRT
-on	PIN PREP
-verbal	JJ
-report	PUBV NN
-data	NN
-;	
-this	DEMP DET
-consists	VPRT
-of	PIN PREP
-texts	NN
-,	
-both	DET
-oral	JJ
-and	CCONJ
-written	PUBV
-and	CCONJ
-on	PIN PREP
-the	ART DET
-roles	NN
-and	PHC CCONJ
-strategies	NN
-of	PIN PREP
-the	ART DET
-speakers	NN
-and	CCONJ
-the	ART DET
-readers	NN
-who	WHSUB WH
-participate	VPRT
-in	PIN CONJ PREP
-that	DEMO DET
-text	NN
-.	
-It	PIT CAP PRP SBJP
-does	VPRT PROD
-this	DEMO DET
-by	PIN PREP
-studying	PGAS
-the	ART DET
-organization	NOMZ
-of	PIN PREP
-language	NN
-above	PIN PLACE PREP
-the	ART DET
-sentence	NN
-or	CCONJ
-the	ART DET
-clause	NN
-,	
-and	ANDC CCONJ
-therefore	RB CONJ
-examines	VPRT
-larger	JJ CMADJ
-linguistic	JJ
-units	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-conversational	JJ
-exchanges	NN
-or	CCONJ
-written	PUBV
-texts	NN
-.	
-It	PIT CAP PRP SBJP
-is	VPRT AUXB
-,	
-therefore	RB CONJ
-,	
-primarily	RB
-concerned	JJ
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-language	NN
-in	PIN CONJ PREP
-social	JJ
-contexts	NN
-and	CCONJ
-is	BEMA VPRT AUXB
-the	ART DET
-leading	PGAS
-method	NN
-in	PIN CONJ PREP
-social	JJ
-psychology	NN
-.	
-Qualitative	CAP NNP
-research	NN
-,	
-using	PGAS
-verbal	JJ
-reports	PUBV NN
-,	
-has	VPRT PEAS
-made	
-many	QUAN JJ
-contributions	NOMZ
-to	PIN PREP
-psychology	NN
-.	
-The	ART CAP DET
-first	JJ
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-enables	VPRT
-us	FPP1 PRP SBJP ACCU
-to	PIN TO PREP
-gain	INF
-a	ART DET INDA
-better	JJ CMADJ
-understanding	GER PRIV
-of	PIN PREP
-social	JJ
-life	NN
-and	CCONJ
-social	JJ
-interaction	NOMZ
-from	PIN PREP
-our	FPP1 PRP SBJP
-study	NN
-of	PIN PREP
-social	JJ
-texts	NN
-.	
-It	PIT CAP PRP SBJP
-does	VPRT PROD
-this	DEMO DET
-by	PIN PREP
-emphasizing	GER PGAS
-how	RB SCONJ WH
-social	JJ
-reality	NOMZ
-is	PASS VPRT SPAU AUXB
-linguistically	RB
-constructed	
-(	
-Potter	CAP NNP
-&	CCONJ
-Wetherell	CAP NNP
-,	
-1987	NUM
-)	
-.	
-Coyle	NN CAP
-(	
-1995	NUM
-)	
-suggests	VPRT PUBV SUAV THATD
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-language	NN
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-discourses	NN
-is	PASS VPRT AUXB
-seen	PRIV
-as	PIN CONJ PREP
-constituting	GER PGAS
-the	ART DET
-building	NN
-blocks	NN
-of	PIN PREP
-social	JJ
-reality	NOMZ
-.	
-'	CONT QUOT
-Discourse	NN CAP
-analysis	NN
-sees	VPRT PRIV
-language	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-constructive	JJ
-tool	NN
-from	PIN PREP
-which	PIRE DET WH
-people	NN
-create	VPRT
-a	ART DET INDA
-version	NOMZ
-of	PIN PREP
-events	NN
-by	PIN PREP
-selecting	PGAS
-from	PIN PREP
-the	ART DET
-range	NN
-of	PIN PREP
-linguistic	JJ
-resources	NN
-available	JJ
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-The	ART CAP DET
-way	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-they	TPP3 PRP SBJP
-use	VPRT
-language	NN
-,	
-and	ANDC CCONJ
-what	WH
-they	TPP3 PRP SBJP
-gain	VPRT
-from	PIN PREP
-the	ART DET
-resulting	PGAS
-constructions	NOMZ
-,	
-is	PASS VPRT SPAU AUXB
-then	RB
-analysed	
-.	
-This	DEMP CAP DET
-,	
-in	PIN CONJ PREP
-turn	NN
-,	
-helps	VPRT
-to	PIN TO STPR PREP
-'	CONT QUOT
-negate	INF
-the	ART DET
-cognitive	JJ
-reductionism	NN
-that	TSUB WHSUB WH
-characterizes	VPRT
-much	QUAN JJ
-of	PIN PREP
-what	WH
-passes	VPRT
-for	PIN PREP
-social	JJ
-psychology	NN
-and	CCONJ
-offers	VPRT
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-a	ART DET INDA
-truly	RB
-social	JJ
-psychology	NN
-'	CONT QUOT
-(	
-Coyle	CAP NNP
-,	
-1995	NUM
-)	
-.	
-The	ART CAP DET
-methodology	NN
-used	WZPAST
-in	PIN CONJ PREP
-discourse	NN
-analysis	NN
-does	VPRT PROD
-,	
-however	RB CONJ
-,	
-have	VPRT
-its	PIT PRP SBJP
-flaws	NN
-.	
-Discourse	NN CAP
-analysts	NN
-are	PASS VPRT SPAU AUXB
-sometimes	RB
-accused	
-of	PIN PREP
-putting	PGAS
-words	NN
-in	PIN CONJ PREP
-the	ART DET
-mouths	NN
-of	PIN PREP
-those	DEMP DET
-whose	DET WH
-discourse	NN
-is	PASS VPRT AUXB
-being	PASS AUXB
-analysed	
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-especially	RB
-true	JJ
-in	PIN CONJ PREP
-verbal	JJ
-interviews	NN
-.	
-An	ART CAP DET INDA
-interview	NN
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-very	AMP RB
-good	JJ
-way	NN
-of	PIN PREP
-getting	PGAS
-an	ART DET INDA
-idea	NN
-of	PIN PREP
-the	ART DET
-way	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-people	NN
-use	VPRT
-language	NN
-,	
-however	RB CONJ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-for	PIN PREP
-the	ART DET
-interviewer	NN
-not	XX0 RB
-to	PIN TO PREP
-confuse	INF
-their	TPP3 PRP SBJP
-own	JJ
-constructions	NOMZ
-of	PIN PREP
-the	ART DET
-word	NN
-with	PIN PREP
-those	DEMO DET
-of	PIN PREP
-the	ART DET
-patients	NN
-'	CONT QUOT
-(	
-Potter	CAP NNP
-,	
-1996	NUM
-)	
-.	
-Patients	NN CAP
-may	POMD SPAU
-also	RB
-find	PRIV INF
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-advantageous	JJ PRED
-for	PIN PREP
-them	TPP3 PRP SBJP ACCU
-to	PIN PREP
-under	PIN STPR PREP
--	
-report	PUBV NN
-or	CCONJ
-over	RB
--	
-report	PUBV INF
-their	TPP3 PRP SBJP
-thoughts	NN
-or	CCONJ
-feelings	NN
-when	RB WHSUB SCONJ WH
-giving	PGAS
-verbal	JJ
-reports	PUBV NN
-.	
-Due	PIN CAP PREP
-to	PIN PREP
-the	ART DET
-influence	NN
-an	ART DET INDA
-interviewer	NN
-can	POMD
-have	INF
-on	PIN PREP
-a	ART DET INDA
-patient	NN
-,	
-discourse	JJ
-analysts	NN
-have	VPRT PEAS
-been	SPAU AUXB
-increasingly	RB
-turning	PGAS
-to	PIN PREP
-the	ART DET
-study	NN
-of	PIN PREP
-records	NN
-of	PIN PREP
-natural	JJ
-interaction	NOMZ
-(	
-e.g.	RB CONJ
-conversations	NOMZ
-,	
-newspapers	NN
-and	PHC CCONJ
-recordings	GER
-of	PIN PREP
-counselling	GER PGAS
-sessions	NOMZ
-)	
-as	PIN CONJ PREP
-opposed	
-to	PIN PREP
-interviews	NN
-where	RB SCONJ WH
-even	RB
-the	ART DET
-most	RB EMPH SPADJ
-open	RB
--	
-ended	JJ
-interview	NN
-can	POMD
-have	PEAS INF
-set	
-topics	NN
-and	PHC CCONJ
-themes	NN
-.	
-Also	RB CAP
-individuals	NN
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-aware	JJ PRED
-of	PIN PREP
-the	ART DET
-consequences	NN
-their	TPP3 PRP SBJP
-language	NN
-has	VPRT
-,	
-therefore	RB CONJ
-asking	SUAV PGAS
-participants	NN
-to	PIN TO PREP
-comment	PUBV INF
-on	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-analysis	NN
-is	BEMA VPRT AUXB
-inappropriate	JJ PRED
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-a	ART DET INDA
-method	NN
-some	QUAN DET
-psychologists	NN
-prefer	VPRT SUAV
-to	PIN TO PREP
-use	INF
-.	
-Qualitative	CAP NNP
-research	NN
-can	POMD SPAU
-also	RB
-play	INF
-a	ART DET INDA
-primary	JJ
-role	NN
-in	PIN CONJ PREP
-hypothesis	NN
-generation	NOMZ
-without	PIN PREP
-the	ART DET
-need	NN
-to	PIN TO PREP
-appeal	INF
-to	PIN PREP
-a	ART DET INDA
-post	NN
-modernist	JJ
-philosophy	NN
-,	
-which	SERE DET WH
-questions	VPRT
-the	ART DET
-need	NN
-for	PIN PREP
-set	NN
-criteria	NN
-exists	VPRT
-in	PIN CONJ PREP
-judging	PRIV PGAS
-the	ART DET
-products	NN
-of	PIN PREP
-qualitative	JJ
-research	NN
-(	
-Denzin	CAP NNP
-&	CCONJ
-Lincoln	CAP NNP
-,	
-1994	NUM
-,	
-as	PIN CONJ PREP
-cited	
-in	PIN CONJ PREP
-Merrick	CAP NNP
-,	
-1993	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-theoretical	JJ
-sciences	NN
-the	ART DET
-depth	NN
-of	PIN PREP
-knowledge	NN
-from	PIN PREP
-past	JJ
-experiments	NOMZ
-and	PHC CCONJ
-theories	NN
-constrain	VPRT
-the	ART DET
-choice	NN
-of	PIN PREP
-sensible	JJ
-hypotheses	NN
-(	
-Burt	CAP NNP
-&	CCONJ
-Oaksfield	CAP NNP
-,	
-1999	NUM
-)	
-.	
-Therefore	RB CONJ CAP
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-suggested	PUBV SUAV
-,	
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-light	NN
-of	PIN PREP
-recent	JJ
-views	NN
-that	PIN TSUB SCONJ PREP
-considering	GER PRIV PGAS
-psychology	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-science	NN
-,	
-we	FPP1 PRP SBJP
-need	VPRT
-qualitative	JJ
-research	NN
-to	PIN TO PREP
-fill	INF
-the	ART DET
-gap	NN
-in	PIN CONJ PREP
-relation	NOMZ
-to	PIN PREP
-the	ART DET
-lack	NN
-of	PIN PREP
-theories	NN
-.	
-Qualitative	JJ CAP
-methods	NN
-systemize	VPRT
-and	PHC CCONJ
-give	INF
-structure	NN
-to	PIN PREP
-the	ART DET
-process	NN
-of	PIN PREP
-hypothesis	NN
-generation	NOMZ
-.	
-The	ART CAP DET
-resulting	PGAS
-hypothesis	NN
-can	POMD SPAU
-then	RB
-be	BEMA AUXB INF
-subject	JJ PRED
-to	PIN PREP
-objective	JJ
-testing	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-truly	RB
-scientific	JJ
-way	NN
-.	
-However	RB CONJ CAP
-we	FPP1 PRP SBJP
-do	VPRT PROD
-have	INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-aware	JJ PRED
-that	PIN THAC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-conduct	INF
-objective	JJ
-experimental	JJ
-tests	NN
-using	WZPRES PGAS
-qualitative	JJ
-research	NN
-.	
-People	NN CAP
-may	POMD SPAU
-not	XX0 RB
-always	RB
-be	BEMA AUXB INF
-willing	JJ PRED
-or	CCONJ
-comfortable	JJ
-with	PIN PREP
-sharing	PGAS
-their	TPP3 PRP SBJP
-experiences	NN
-with	PIN PREP
-the	ART DET
-experimenter	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-case	NN
-,	
-it	PIT PRP SBJP
-may	POMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-appropriate	JJ
-to	PIN TO PREP
-change	INF
-the	ART DET
-type	NN
-of	PIN PREP
-verbal	JJ
-report	PUBV NN
-used	
-.	
-For	PIN CAP PREP
-example	NN
-,	
-people	NN
-may	POMD
-feel	PRIV INF
-more	RB EMPH CMADJ
-at	PIN PREP
-ease	NN
-verbally	RB
-expressing	GER PGAS
-their	TPP3 PRP SBJP
-feelings	NN
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-writing	PUBV NN
-.	
-Whether	PIN CAP SCONJ PREP
-qualitative	JJ
-work	NN
-can	POMD SPAU
-ever	RB
-being	PASS AUXB
-considered	PRIV THATD
-a	ART DET INDA
-scientific	JJ
-method	NN
-is	BEMA VPRT AUXB
-questionable	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-proposed	SUAV
-that	PIN THVC SCONJ PREP
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-way	NN
-to	PIN TO PREP
-establish	PRIV INF
-the	ART DET
-validity	NOMZ
-or	CCONJ
-reliability	NOMZ
-of	PIN PREP
-scientific	JJ
-claims	PUBV NN
-or	CCONJ
-observations	NOMZ
-in	PIN CONJ PREP
-qualitative	JJ
-work	NN
-,	
-(	
-Jessor	NN CAP
-,	
-1996	NUM
-,	
-as	PIN CONJ PREP
-cited	
-in	PIN CONJ PREP
-Merrick	CAP NNP
-,	
-1993	NUM
-)	
-.	
-Validity	NOMZ CAP
-,	
-within	PIN PREP
-a	ART DET INDA
-discourse	JJ
-analytic	JJ
-approach	NN
-,	
-can	POMD
-be	PASS AUXB INF
-achieved	
-through	PIN PREP
-the	ART DET
-presentation	NOMZ
-of	PIN PREP
-the	ART DET
-source	NN
-texts	NN
-and	CCONJ
-analytical	JJ
-processes	NN
-,	
-thus	RB CONJ
-making	PGAS
-clear	JJ
-the	ART DET
-researcher	NN
-'s	
-interpretation	NOMZ
-(	
-Potter	CAP NNP
-&	CCONJ
-Wetherell	CAP NNP
-,	
-1987	NUM
-)	
-.	
-Provision	NOMZ CAP
-of	PIN PREP
-these	DEMO DET
-source	NN
-texts	NN
-enables	VPRT
-readers	NN
-to	PIN TO PREP
-evaluate	INF
-and	PHC CCONJ
-assess	INF
-the	ART DET
-adequacy	NN
-of	PIN PREP
-the	ART DET
-analysis	NN
-presented	
-(	
-Potter	CAP NNP
-,	
-1996	NUM
-)	
-,	
-the	ART DET
-reader	NN
-can	POMD SPAU
-then	RB
-decide	PRIV SUAV INF
-whether	PIN SCONJ PREP
-the	ART DET
-interpretation	NOMZ
-is	BEMA VPRT AUXB
-valid	JJ PRED
-and	CCONJ
-could	POMD SPAU
-even	RB
-offer	INF
-their	TPP3 PRP SBJP
-own	JJ
-interpretation	NOMZ
-of	PIN PREP
-the	ART DET
-data	NN
-.	
-Therefore	RB CONJ CAP
-discourse	JJ
-analysis	NN
-requires	VPRT SUAV
-a	ART DET INDA
-balanced	JJ
-compromise	NN
-between	PIN PREP
-the	ART DET
-presentations	NOMZ
-of	PIN PREP
-enough	JJ
-source	NN
-texts	NN
-to	PIN TO PREP
-allow	SUAV INF
-the	ART DET
-reader	NN
-to	PIN TO PREP
-assess	INF
-the	ART DET
-validity	NOMZ
-of	PIN PREP
-the	ART DET
-researcher	NN
-'s	
-analysis	NN
-,	
-without	PIN PREP
-inundating	GER PGAS
-them	TPP3 PRP SBJP ACCU
-with	PIN PREP
-detail	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-also	RB
-important	JJ
-to	PIN TO PREP
-bear	INF
-in	PIN CONJ PREP
-mind	NN
-the	ART DET
-difficulty	NN
-involved	WZPAST
-in	PIN CONJ PREP
-presenting	GER PGAS
-large	JJ
-amounts	NN
-of	PIN PREP
-data	NN
-in	PIN CONJ PREP
-research	NN
-reports	PUBV NN
-due	PIN PREP
-to	PIN PREP
-submission	NOMZ
-guidelines	NN
-of	PIN PREP
-psychology	NN
-journals	NN
-.	
-Hopefully	RB CAP
-as	PIN CONJ PREP
-research	NN
-into	PIN PREP
-discourse	JJ
-analysis	NN
-increases	NN
-,	
-journals	NN
-might	POMD
-adapt	INF
-their	TPP3 PRP SBJP
-guideline	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-cater	INF
-more	JJ EMPH CMADJ
-for	PIN PREP
-qualitative	JJ
-research	NN
-(	
-Coyle	CAP NNP
-,	
-1995	NUM
-)	
-.	
-Reliability	NOMZ CAP
-of	PIN PREP
-a	ART DET INDA
-method	NN
-can	POMD
-be	PASS SPAU AUXB INF
-easily	RB
-established	PRIV THATD
-when	RB WHCL SCONJ WH
-experimental	JJ
-work	NN
-is	PASS VPRT AUXB
-involved	
-,	
-as	PIN CONJ PREP
-is	VPRT AUXB
-can	POMD
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-method	NN
-,	
-be	BEMA AUXB INF
-just	RB EMPH
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-test	NN
-and	PHC CCONJ
-re	PIN NN PREP
--	NN
-test	NN
-,	
-however	RB CONJ
-this	DEMP DET
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-done	PROD
-with	PIN PREP
-qualitative	JJ
-research	NN
-.	
-An	ART CAP DET INDA
-alternative	JJ
-possibility	NOMZ
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-combine	INF
-a	ART DET INDA
-group	NN
-of	PIN PREP
-studies	NN
-together	RB
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-build	INF
-upon	PIN SCONJ PREP
-previous	JJ
-work	NN
-.	
-(	
-Potter	CAP NNP
-,	
-1996	NUM
-)	
-this	DEMP DET
-can	POMD SPAU
-then	RB
-be	PASS AUXB INF
-used	
-to	PIN TO PREP
-check	PRIV INF
-if	COND PIN SCONJ PREP
-similar	JJ
-results	NN
-have	VPRT PEAS
-been	PASS AUXB
-found	PRIV
-.	
-The	ART CAP DET
-criticisms	NN
-associated	WZPAST
-with	PIN PREP
-qualitative	JJ
-research	NN
-indicate	VPRT PRIV
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-formulate	INF
-a	ART DET INDA
-set	NN
-of	PIN PREP
-criteria	NN
-that	TSUB WHSUB WH
-allows	VPRT SUAV
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-analysis	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-evaluated	
-(	
-Denzin	CAP NNP
-&	CCONJ
-Lincoln	CAP NNP
-,	
-1994	NUM
-,	
-as	PIN CONJ PREP
-cited	
-in	PIN CONJ PREP
-Merrick	CAP NNP
-,	
-1993	NUM
-)	
-.	
-Having	PEAS CAP PGAS
-said	VBD PUBV THATD
-this	DEMP DET
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-also	RB
-possible	JJ
-that	PIN THAC SCONJ PREP
-we	FPP1 PRP SBJP
-could	POMD
-evaluate	INF
-the	ART DET
-research	NN
-,	
-especially	RB
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-validity	NOMZ
-,	
-by	PIN PREP
-using	PGAS
-the	ART DET
-above	RB PLACE
--	
-mentioned	PUBV
-method	NN
-of	PIN PREP
-allowing	SUAV PGAS
-the	ART DET
-readers	NN
-to	PIN TO PREP
-judge	PRIV INF
-the	ART DET
-interpretations	NOMZ
-themselves	TPP3 PRP SBJP ACCU
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-verbal	JJ
-reports	PUBV NN
-and	CCONJ
-discourse	INF
-analysis	NN
-has	VPRT PEAS
-increased	
-in	PIN CONJ PREP
-popularity	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-research	NN
-method	NN
-and	CCONJ
-has	VPRT PEAS
-resulted	
-in	PIN CONJ PREP
-many	QUAN JJ
-contributions	NOMZ
-to	PIN PREP
-the	ART DET
-study	NN
-of	PIN PREP
-psychology	NN
-.	
-Nevertheless	RB CONJ CAP
-,	
-this	DEMO DET
-method	NN
-does	VPRT PROD
-have	INF
-its	PIT PRP SBJP
-problems	NN
-.	
-Discourse	CAP INF
-analysis	NN
-does	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-an	ART DET INDA
-answer	NN
-to	PIN PREP
-any	QUAN DET
-psychological	JJ
-query	NN
-;	
-therefore	RB CONJ
-it	PIT PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-plugged	
-into	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-pre	JJ
--	JJ
-defined	
-question	NOMZ
-.	
-Therefore	RB CONJ CAP
-discourse	JJ
-analysis	NN
-should	NEMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-seen	PRIV
-as	PIN CONJ PREP
-just	RB EMPH
-a	ART DET INDA
-research	NN
-method	NN
-but	CCONJ
-also	RB
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	JJ
-perspective	NN
-on	PIN PREP
-social	JJ
-life	NN
-,	
-(	
-Potter	CAP NNP
-,	
-1996	NUM
-)	
-.	
-Also	RB CAP
-,	
-there	EX
-is	VPRT AUXB
-the	ART DET
-hope	PRIV NN
-that	PIN THVC SCONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-,	
-discourse	JJ
-analysis	NN
-will	PRMD
-continue	INF
-to	PIN TO PREP
-develop	INF
-further	RB
-and	CCONJ
-offer	INF
-considerable	JJ
-more	JJ EMPH CMADJ
-contributions	NOMZ
-to	PIN PREP
-the	ART DET
-various	JJ
-aspects	NN
-of	PIN PREP
-psychology	NN
-.	
+type	content	tags
+word	Over	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	last	JJ
+gap	 	
+word	twenty	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	qualitative	JJ
+gap	 	
+word	research	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	risen	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	approach	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	issues	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	widely	RB
+gap	 	
+word	practiced	
+gap	 	
+word	method	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	understanding	GER PRIV PGAS
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	people	NN
+gap	 	
+word	view	VPRT
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Qualitative	CAP NNP
+gap	 	
+word	research	NN
+gap	 	
+word	involves	VPRT
+gap	 	
+word	findings	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	arrived	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	statistical	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	quantitative	JJ
+gap	 	
+word	procedures	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	data	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	qualitative	JJ
+gap	 	
+word	research	NN
+gap	 	
+word	varies	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	form	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	focus	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	verbal	JJ
+gap	 	
+word	report	PUBV NN
+gap	 	
+word	data	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	discourse	INF
+gap	 	
+word	analysis	NN
+gap	. 	
+word	Discourse	NN CAP
+gap	 	
+word	analysis	NN
+gap	 	
+word	focuses	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	verbal	JJ
+gap	 	
+word	report	PUBV NN
+gap	 	
+word	data	NN
+gap	; 	
+word	this	DEMP DET
+gap	 	
+word	consists	VPRT
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	texts	NN
+gap	, 	
+word	both	DET
+gap	 	
+word	oral	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	written	PUBV
+gap	 	
+word	and	CCONJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	roles	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	strategies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	speakers	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	readers	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	participate	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	text	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	does	VPRT PROD
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	studying	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	organization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	above	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sentence	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	clause	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	examines	VPRT
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	linguistic	JJ
+gap	 	
+word	units	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	conversational	JJ
+gap	 	
+word	exchanges	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	written	PUBV
+gap	 	
+word	texts	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	therefore	RB CONJ
+gap	, 	
+word	primarily	RB
+gap	 	
+word	concerned	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	contexts	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	leading	PGAS
+gap	 	
+word	method	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	psychology	NN
+gap	. 	
+word	Qualitative	CAP NNP
+gap	 	
+word	research	NN
+gap	, 	
+word	using	PGAS
+gap	 	
+word	verbal	JJ
+gap	 	
+word	reports	PUBV NN
+gap	, 	
+word	has	VPRT PEAS
+gap	 	
+word	made	
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	contributions	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	psychology	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	enables	VPRT
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	gain	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	life	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	social	JJ
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	texts	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	does	VPRT PROD
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	emphasizing	GER PGAS
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	social	JJ
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	linguistically	RB
+gap	 	
+word	constructed	
+gap	 (	
+word	Potter	CAP NNP
+gap	 & 	
+word	Wetherell	CAP NNP
+gap	, 1987). 	
+word	Coyle	NN CAP
+gap	 (1995) 	
+word	suggests	VPRT PUBV SUAV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 '	
+word	language	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	discourses	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	seen	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	constituting	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	building	NN
+gap	 	
+word	blocks	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	reality	NOMZ
+gap	.' 	
+word	Discourse	NN CAP
+gap	 	
+word	analysis	NN
+gap	 	
+word	sees	VPRT PRIV
+gap	 	
+word	language	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	constructive	JJ
+gap	 	
+word	tool	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	people	NN
+gap	 	
+word	create	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	version	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	events	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	selecting	PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	range	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	linguistic	JJ
+gap	 	
+word	resources	NN
+gap	 	
+word	available	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	way	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	use	VPRT
+gap	 	
+word	language	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	what	WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	gain	VPRT
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	resulting	PGAS
+gap	 	
+word	constructions	NOMZ
+gap	, 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	then	RB
+gap	 	
+word	analysed	
+gap	. 	
+word	This	DEMP CAP DET
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	turn	NN
+gap	, 	
+word	helps	VPRT
+gap	 	
+word	to	PIN TO STPR PREP
+gap	 '	
+word	negate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	cognitive	JJ
+gap	 	
+word	reductionism	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	characterizes	VPRT
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	passes	VPRT
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	psychology	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	offers	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	truly	RB
+gap	 	
+word	social	JJ
+gap	 	
+word	psychology	NN
+gap	' (	
+word	Coyle	CAP NNP
+gap	, 1995). 	
+word	The	ART CAP DET
+gap	 	
+word	methodology	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	discourse	NN
+gap	 	
+word	analysis	NN
+gap	 	
+word	does	VPRT PROD
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	have	VPRT
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	flaws	NN
+gap	. 	
+word	Discourse	NN CAP
+gap	 	
+word	analysts	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	sometimes	RB
+gap	 	
+word	accused	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	putting	PGAS
+gap	 	
+word	words	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mouths	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	whose	DET WH
+gap	 	
+word	discourse	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	analysed	
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	especially	RB
+gap	 	
+word	true	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	verbal	JJ
+gap	 	
+word	interviews	NN
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	interview	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	good	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	getting	PGAS
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	idea	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	people	NN
+gap	 	
+word	use	VPRT
+gap	 	
+word	language	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	interviewer	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	confuse	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	constructions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	word	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patients	NN
+gap	' (	
+word	Potter	CAP NNP
+gap	, 1996). 	
+word	Patients	NN CAP
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	advantageous	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	under	PIN STPR PREP
+gap	-	
+word	report	PUBV NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	over	RB
+gap	-	
+word	report	PUBV INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	thoughts	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	feelings	NN
+gap	 	
+word	when	RB WHSUB SCONJ WH
+gap	 	
+word	giving	PGAS
+gap	 	
+word	verbal	JJ
+gap	 	
+word	reports	PUBV NN
+gap	. 	
+word	Due	PIN CAP PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	interviewer	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	patient	NN
+gap	, 	
+word	discourse	JJ
+gap	 	
+word	analysts	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	SPAU AUXB
+gap	 	
+word	increasingly	RB
+gap	 	
+word	turning	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	records	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	interaction	NOMZ
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	conversations	
+gap	, 	
+word	newspapers	
+gap	 	
+word	and	
+gap	 	
+word	recordings	
+gap	 	
+word	of	
+gap	 	
+word	counselling	
+gap	 	
+word	sessions	
+gap	) 	
+word	as	
+gap	 	
+word	opposed	
+gap	 	
+word	to	
+gap	 	
+word	interviews	
+gap	 	
+word	where	
+gap	 	
+word	even	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	open	
+gap	-	
+word	ended	
+gap	 	
+word	interview	
+gap	 	
+word	can	
+gap	 	
+word	have	
+gap	 	
+word	set	
+gap	 	
+word	topics	
+gap	 	
+word	and	
+gap	 	
+word	themes	
+gap	. 	
+word	Also	
+gap	 	
+word	individuals	
+gap	 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	aware	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	consequences	
+gap	 	
+word	their	
+gap	 	
+word	language	
+gap	 	
+word	has	
+gap	, 	
+word	therefore	
+gap	 	
+word	asking	
+gap	 	
+word	participants	
+gap	 	
+word	to	
+gap	 	
+word	comment	
+gap	 	
+word	on	
+gap	 	
+word	their	
+gap	 	
+word	own	
+gap	 	
+word	analysis	
+gap	 	
+word	is	
+gap	 	
+word	inappropriate	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	method	
+gap	 	
+word	some	
+gap	 	
+word	psychologists	
+gap	 	
+word	prefer	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	. 	
+word	Qualitative	
+gap	 	
+word	research	
+gap	 	
+word	can	
+gap	 	
+word	also	
+gap	 	
+word	play	
+gap	 	
+word	a	
+gap	 	
+word	primary	
+gap	 	
+word	role	
+gap	 	
+word	in	
+gap	 	
+word	hypothesis	
+gap	 	
+word	generation	
+gap	 	
+word	without	
+gap	 	
+word	the	
+gap	 	
+word	need	
+gap	 	
+word	to	
+gap	 	
+word	appeal	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	post	
+gap	 	
+word	modernist	
+gap	 	
+word	philosophy	
+gap	, 	
+word	which	
+gap	 	
+word	questions	
+gap	 	
+word	the	
+gap	 	
+word	need	
+gap	 	
+word	for	
+gap	 	
+word	set	
+gap	 	
+word	criteria	
+gap	 	
+word	exists	
+gap	 	
+word	in	
+gap	 	
+word	judging	
+gap	 	
+word	the	
+gap	 	
+word	products	
+gap	 	
+word	of	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 (	
+word	Denzin	
+gap	 & 	
+word	Lincoln	
+gap	, 1994, 	
+word	as	
+gap	 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Merrick	
+gap	, 1993). 	
+word	In	
+gap	 	
+word	theoretical	
+gap	 	
+word	sciences	
+gap	 	
+word	the	
+gap	 	
+word	depth	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	 	
+word	from	
+gap	 	
+word	past	
+gap	 	
+word	experiments	
+gap	 	
+word	and	
+gap	 	
+word	theories	
+gap	 	
+word	constrain	
+gap	 	
+word	the	
+gap	 	
+word	choice	
+gap	 	
+word	of	
+gap	 	
+word	sensible	
+gap	 	
+word	hypotheses	
+gap	 (	
+word	Burt	
+gap	 & 	
+word	Oaksfield	
+gap	, 1999). 	
+word	Therefore	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	suggested	
+gap	, 	
+word	that	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	light	
+gap	 	
+word	of	
+gap	 	
+word	recent	
+gap	 	
+word	views	
+gap	 	
+word	that	
+gap	 	
+word	considering	
+gap	 	
+word	psychology	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	science	
+gap	, 	
+word	we	
+gap	 	
+word	need	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 	
+word	to	
+gap	 	
+word	fill	
+gap	 	
+word	the	
+gap	 	
+word	gap	
+gap	 	
+word	in	
+gap	 	
+word	relation	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	theories	
+gap	. 	
+word	Qualitative	
+gap	 	
+word	methods	
+gap	 	
+word	systemize	
+gap	 	
+word	and	
+gap	 	
+word	give	
+gap	 	
+word	structure	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	hypothesis	
+gap	 	
+word	generation	
+gap	. 	
+word	The	
+gap	 	
+word	resulting	
+gap	 	
+word	hypothesis	
+gap	 	
+word	can	
+gap	 	
+word	then	
+gap	 	
+word	be	
+gap	 	
+word	subject	
+gap	 	
+word	to	
+gap	 	
+word	objective	
+gap	 	
+word	testing	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	truly	
+gap	 	
+word	scientific	
+gap	 	
+word	way	
+gap	. 	
+word	However	
+gap	 	
+word	we	
+gap	 	
+word	do	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	aware	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	conduct	
+gap	 	
+word	objective	
+gap	 	
+word	experimental	
+gap	 	
+word	tests	
+gap	 	
+word	using	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	. 	
+word	People	
+gap	 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	always	
+gap	 	
+word	be	
+gap	 	
+word	willing	
+gap	 	
+word	or	
+gap	 	
+word	comfortable	
+gap	 	
+word	with	
+gap	 	
+word	sharing	
+gap	 	
+word	their	
+gap	 	
+word	experiences	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	experimenter	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	case	
+gap	, 	
+word	it	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	appropriate	
+gap	 	
+word	to	
+gap	 	
+word	change	
+gap	 	
+word	the	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	verbal	
+gap	 	
+word	report	
+gap	 	
+word	used	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	people	
+gap	 	
+word	may	
+gap	 	
+word	feel	
+gap	 	
+word	more	
+gap	 	
+word	at	
+gap	 	
+word	ease	
+gap	 	
+word	verbally	
+gap	 	
+word	expressing	
+gap	 	
+word	their	
+gap	 	
+word	feelings	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	writing	
+gap	. 	
+word	Whether	
+gap	 	
+word	qualitative	
+gap	 	
+word	work	
+gap	 	
+word	can	
+gap	 	
+word	ever	
+gap	 	
+word	being	
+gap	 	
+word	considered	
+gap	 	
+word	a	
+gap	 	
+word	scientific	
+gap	 	
+word	method	
+gap	 	
+word	is	
+gap	 	
+word	questionable	
+gap	. 	
+word	It	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	proposed	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	establish	
+gap	 	
+word	the	
+gap	 	
+word	validity	
+gap	 	
+word	or	
+gap	 	
+word	reliability	
+gap	 	
+word	of	
+gap	 	
+word	scientific	
+gap	 	
+word	claims	
+gap	 	
+word	or	
+gap	 	
+word	observations	
+gap	 	
+word	in	
+gap	 	
+word	qualitative	
+gap	 	
+word	work	
+gap	, (	
+word	Jessor	
+gap	, 1996, 	
+word	as	
+gap	 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Merrick	
+gap	, 1993). 	
+word	Validity	
+gap	, 	
+word	within	
+gap	 	
+word	a	
+gap	 	
+word	discourse	
+gap	 	
+word	analytic	
+gap	 	
+word	approach	
+gap	, 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	achieved	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	presentation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	source	
+gap	 	
+word	texts	
+gap	 	
+word	and	
+gap	 	
+word	analytical	
+gap	 	
+word	processes	
+gap	, 	
+word	thus	
+gap	 	
+word	making	
+gap	 	
+word	clear	
+gap	 	
+word	the	
+gap	 	
+word	researcher	
+gap	'	
+word	s	
+gap	 	
+word	interpretation	
+gap	 (	
+word	Potter	
+gap	 & 	
+word	Wetherell	
+gap	, 1987). 	
+word	Provision	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	source	
+gap	 	
+word	texts	
+gap	 	
+word	enables	
+gap	 	
+word	readers	
+gap	 	
+word	to	
+gap	 	
+word	evaluate	
+gap	 	
+word	and	
+gap	 	
+word	assess	
+gap	 	
+word	the	
+gap	 	
+word	adequacy	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	analysis	
+gap	 	
+word	presented	
+gap	 (	
+word	Potter	
+gap	, 1996), 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	can	
+gap	 	
+word	then	
+gap	 	
+word	decide	
+gap	 	
+word	whether	
+gap	 	
+word	the	
+gap	 	
+word	interpretation	
+gap	 	
+word	is	
+gap	 	
+word	valid	
+gap	 	
+word	and	
+gap	 	
+word	could	
+gap	 	
+word	even	
+gap	 	
+word	offer	
+gap	 	
+word	their	
+gap	 	
+word	own	
+gap	 	
+word	interpretation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	data	
+gap	. 	
+word	Therefore	
+gap	 	
+word	discourse	
+gap	 	
+word	analysis	
+gap	 	
+word	requires	
+gap	 	
+word	a	
+gap	 	
+word	balanced	
+gap	 	
+word	compromise	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	presentations	
+gap	 	
+word	of	
+gap	 	
+word	enough	
+gap	 	
+word	source	
+gap	 	
+word	texts	
+gap	 	
+word	to	
+gap	 	
+word	allow	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	assess	
+gap	 	
+word	the	
+gap	 	
+word	validity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	researcher	
+gap	'	
+word	s	
+gap	 	
+word	analysis	
+gap	, 	
+word	without	
+gap	 	
+word	inundating	
+gap	 	
+word	them	
+gap	 	
+word	with	
+gap	 	
+word	detail	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	bear	
+gap	 	
+word	in	
+gap	 	
+word	mind	
+gap	 	
+word	the	
+gap	 	
+word	difficulty	
+gap	 	
+word	involved	
+gap	 	
+word	in	
+gap	 	
+word	presenting	
+gap	 	
+word	large	
+gap	 	
+word	amounts	
+gap	 	
+word	of	
+gap	 	
+word	data	
+gap	 	
+word	in	
+gap	 	
+word	research	
+gap	 	
+word	reports	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	submission	
+gap	 	
+word	guidelines	
+gap	 	
+word	of	
+gap	 	
+word	psychology	
+gap	 	
+word	journals	
+gap	. 	
+word	Hopefully	
+gap	 	
+word	as	
+gap	 	
+word	research	
+gap	 	
+word	into	
+gap	 	
+word	discourse	
+gap	 	
+word	analysis	
+gap	 	
+word	increases	
+gap	, 	
+word	journals	
+gap	 	
+word	might	
+gap	 	
+word	adapt	
+gap	 	
+word	their	
+gap	 	
+word	guideline	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	cater	
+gap	 	
+word	more	
+gap	 	
+word	for	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 (	
+word	Coyle	
+gap	, 1995). 	
+word	Reliability	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	method	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	easily	
+gap	 	
+word	established	
+gap	 	
+word	when	
+gap	 	
+word	experimental	
+gap	 	
+word	work	
+gap	 	
+word	is	
+gap	 	
+word	involved	
+gap	, 	
+word	as	
+gap	 	
+word	is	
+gap	 	
+word	can	
+gap	, 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	method	
+gap	, 	
+word	be	
+gap	 	
+word	just	
+gap	 	
+word	a	
+gap	 	
+word	matter	
+gap	 	
+word	of	
+gap	 	
+word	test	
+gap	 	
+word	and	
+gap	 	
+word	re	
+gap	-	
+word	test	
+gap	, 	
+word	however	
+gap	 	
+word	this	
+gap	 	
+word	cannot	
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	done	PROD
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	qualitative	JJ
+gap	 	
+word	research	NN
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	alternative	JJ
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	combine	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	group	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	studies	NN
+gap	 	
+word	together	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	build	INF
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	previous	JJ
+gap	 	
+word	work	NN
+gap	. (	
+word	Potter	CAP NNP
+gap	, 1996) 	
+word	this	DEMP DET
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	then	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	check	PRIV INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	similar	JJ
+gap	 	
+word	results	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	found	PRIV
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	criticisms	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	qualitative	JJ
+gap	 	
+word	research	NN
+gap	 	
+word	indicate	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	formulate	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	criteria	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	analysis	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	evaluated	
+gap	 (	
+word	Denzin	CAP NNP
+gap	 & 	
+word	Lincoln	CAP NNP
+gap	, 1994, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	cited	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Merrick	CAP NNP
+gap	, 1993). 	
+word	Having	PEAS CAP PGAS
+gap	 	
+word	said	VBD PUBV THATD
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	possible	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	evaluate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	research	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	validity	NOMZ
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	above	RB PLACE
+gap	-	
+word	mentioned	PUBV
+gap	 	
+word	method	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	allowing	SUAV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	readers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	judge	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	interpretations	NOMZ
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	verbal	JJ
+gap	 	
+word	reports	PUBV NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	discourse	INF
+gap	 	
+word	analysis	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	increased	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	popularity	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	research	NN
+gap	 	
+word	method	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	resulted	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	contributions	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	psychology	NN
+gap	. 	
+word	Nevertheless	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	method	NN
+gap	 	
+word	does	VPRT PROD
+gap	 	
+word	have	INF
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	problems	NN
+gap	. 	
+word	Discourse	CAP INF
+gap	 	
+word	analysis	NN
+gap	 	
+word	does	VPRT PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	answer	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	psychological	JJ
+gap	 	
+word	query	NN
+gap	; 	
+word	therefore	RB CONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	plugged	
+gap	 	
+word	into	
+gap	 	
+word	a	
+gap	 	
+word	particular	
+gap	 	
+word	pre	
+gap	-	
+word	defined	
+gap	 	
+word	question	
+gap	. 	
+word	Therefore	
+gap	 	
+word	discourse	
+gap	 	
+word	analysis	
+gap	 	
+word	should	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	seen	
+gap	 	
+word	as	
+gap	 	
+word	just	
+gap	 	
+word	a	
+gap	 	
+word	research	
+gap	 	
+word	method	
+gap	 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	whole	
+gap	 	
+word	perspective	
+gap	 	
+word	on	
+gap	 	
+word	social	
+gap	 	
+word	life	
+gap	, (	
+word	Potter	
+gap	, 1996). 	
+word	Also	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	hope	
+gap	 	
+word	that	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	, 	
+word	discourse	
+gap	 	
+word	analysis	
+gap	 	
+word	will	
+gap	 	
+word	continue	
+gap	 	
+word	to	
+gap	 	
+word	develop	
+gap	 	
+word	further	
+gap	 	
+word	and	
+gap	 	
+word	offer	
+gap	 	
+word	considerable	
+gap	 	
+word	more	
+gap	 	
+word	contributions	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	various	
+gap	 	
+word	aspects	
+gap	 	
+word	of	
+gap	 	
+word	psychology	
+gap	.	

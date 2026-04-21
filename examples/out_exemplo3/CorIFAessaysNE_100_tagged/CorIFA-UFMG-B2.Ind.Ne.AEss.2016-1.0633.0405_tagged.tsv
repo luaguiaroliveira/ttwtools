@@ -1,742 +1,1297 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0633.0405.txt
-token	tags
-﻿	NNP
-  	
-The	ART CAP DET
-relevance	NN
-of	PIN PREP
-education	NOMZ
-is	PASS VPRT SPAU AUXB
-widely	RB
-acknowledged	PUBV
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-also	RB
-recognized	PRIV
-the	ART DET
-relevance	NN
-of	PIN PREP
-its	PIT PRP SBJP
-quality	NOMZ
-.	
-This	DEMO CAP DET
-question	NOMZ
-is	BEMA VPRT AUXB
-important	JJ PRED
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-influences	VPRT
-the	ART DET
-learning	PRIV NN
-of	PIN PREP
-the	ART DET
-students	NN
-,	
-and	ANDC CCONJ
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-consequence	NN
-,	
-their	TPP3 PRP SBJP
-professional	JJ
-quality	NOMZ
-.	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-education	NOMZ
-involves	VPRT
-its	PIT PRP SBJP
-methods	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-worthy	JJ PRED
-to	PIN TO PREP
-discuss	INF
-about	PIN PREP
-it	PIT PRP SBJP
-.	
-The	ART CAP DET
-traditional	JJ
-education	NOMZ
-has	VPRT
-prevail	INF
-for	PIN PREP
-centuries	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-clear	JJ PRED
-that	PIN THAC SCONJ PREP
-it	PIT PRP SBJP
-has	VPRT PEAS
-changed	
-,	
-but	CCONJ
-its	PIT PRP SBJP
-structure	NN
-,	
-its	PIT PRP SBJP
-standards	NN
-and	PHC CCONJ
-assumptions	NOMZ
-persists	VPRT
-.	
-However	RB CONJ CAP
-,	
-this	DEMO DET
-educational	JJ
-approach	NN
-has	VPRT PEAS
-been	PASS AUXB
-flawed	
-.	
-As	PIN CONJ CAP PREP
-an	ART DET INDA
-alternative	NN
-,	
-others	NN
-methods	NN
-have	VPRT PEAS
-been	PASS BYPA AUXB
-proposed	SUAV
-by	PIN PREP
-psychologists	NN
-and	PHC CCONJ
-researchers	NN
-.	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-present	INF
-the	ART DET
-characteristics	NN
-of	PIN PREP
-traditional	JJ
-and	PHC CCONJ
-reformed	JJ
-education	NOMZ
-,	
-pointing	PGAS
-their	TPP3 PRP SBJP
-advantages	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-problems	NN
-.	
-Then	RB CAP
-will	PRMD
-propose	SUAV INF
-an	ART DET INDA
-alternative	NN
-for	PIN PREP
-the	ART DET
-question	NOMZ
-and	CCONJ
-discuss	INF
-the	ART DET
-actuals	NN
-and	CCONJ
-possible	JJ
-future	JJ
-challenges	NN
-in	PIN CONJ PREP
-education	NOMZ
-.	
-  	
-The	ART CAP DET
-traditional	JJ
-education	NOMZ
-is	PASS VPRT AUXB
-centered	
-on	PIN PREP
-teacher	NN
-’s	
-or	CCONJ
-professor	NNP
-’s	
-role	NN
-.	
-The	ART CAP DET
-instructions	NOMZ
-and	CCONJ
-the	ART DET
-concepts	NN
-are	PASS VPRT AUXB
-transmitted	
-as	PIN CONJ PREP
-a	ART DET INDA
-didactic	JJ
-lecture	NN
-and	CCONJ
-the	ART DET
-students	NN
-have	VPRT
-a	ART DET INDA
-passive	JJ
-role	NN
-;	
-they	TPP3 PRP SBJP
-learn	VPRT PRIV
-from	PIN PREP
-listening	NN
-and	PHC CCONJ
-observation	NOMZ
-.	
-At	PIN CAP PREP
-universities	NN
-,	
-the	ART DET
-focus	NN
-is	BEMA VPRT AUXB
-independent	JJ
-learning	PRIV NN
-and	CCONJ
-the	ART DET
-students	NN
-frequently	RB
-learn	VPRT PRIV
-by	PIN PREP
-reading	NN
-of	PIN PREP
-textbooks	NN
-and	CCONJ
-by	PIN PREP
-researches	NN
-they	TPP3 PRP SBJP
-do	VPRT PROD
-by	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-.	
-The	ART CAP DET
-learning	PRIV NN
-of	PIN PREP
-the	ART DET
-students	NN
-is	PASS VPRT BYPA AUXB
-measured	
-by	PIN PREP
-their	TPP3 PRP SBJP
-tests	NN
-scores	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-grades	NN
-.	
-It	PIT CAP PRP SBJP
-has	VPRT
-no	SYNE DET
-interaction	NOMZ
-between	PIN PREP
-professors	NN
-and	PHC CCONJ
-students	NN
-,	
-or	CCONJ
-even	RB
-between	PIN PREP
-students	NN
-on	PIN PREP
-learning	PRIV NN
-process	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-logical	JJ
-,	
-linear	JJ
-and	PHC CCONJ
-objective	JJ
-thinking	PRIV NN
-are	PASS VPRT AUXB
-valued	
-to	PIN PREP
-the	ART DET
-detriment	NOMZ
-of	PIN PREP
-creative	JJ
-,	
-abstract	JJ
-and	PHC CCONJ
-subjective	JJ
-thinking	PRIV NN
-.	
-  	
-Influenced	CAP
-by	PIN PREP
-different	JJ
-theories	NN
-about	PIN PREP
-the	ART DET
-concept	NN
-of	PIN PREP
-human	JJ
-intelligence	NN
-and	CCONJ
-of	PIN PREP
-the	ART DET
-processes	NN
-of	PIN PREP
-learning	PRIV PGAS
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-provide	INF
-an	ART DET INDA
-alternative	JJ
-form	NN
-of	PIN PREP
-education	NOMZ
-,	
-reformed	
-educational	JJ
-methods	NN
-have	VPRT PEAS
-emerged	
-,	
-such	JJ
-as	PIN CONJ PREP
-constructivist	NN
-and	CCONJ
-progressive	JJ
-education	NOMZ
-.	
-These	DEMO CAP DET
-methods	NN
-emphasize	VPRT
-the	ART DET
-student	NN
-’s	
-role	NN
-on	PIN PREP
-learning	PRIV PGAS
-process	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-approach	NN
-,	
-they	TPP3 PRP SBJP
-’re	VPRT
-active	JJ
-;	
-they	TPP3 PRP SBJP
-are	PASS VPRT BYPA AUXB
-conducted	
-by	PIN PREP
-teachers	NN
-,	
-but	CCONJ
-they	TPP3 PRP SBJP
-get	VPRT
-to	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-understanding	GER PRIV
-of	PIN PREP
-the	ART DET
-content	NN
-.	
-Group	NN CAP
-activities	NN
-are	BEMA VPRT AUXB
-common	JJ PRED
-and	CCONJ
-students	NN
-discuss	VPRT
-ideas	NN
-with	PIN PREP
-other	JJ
-students	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-build	INF
-their	TPP3 PRP SBJP
-knowledge	NN
-.	
-The	ART CAP DET
-instructors	NN
-play	VPRT
-a	ART DET INDA
-facilitator	NN
-’s	
-role	NN
-.	
-The	ART CAP DET
-focus	NN
-is	BEMA VPRT AUXB
-on	PIN PREP
-understanding	GER PRIV PGAS
-the	ART DET
-facts	NN
-,	
-analyze	INF
-it	PIT PRP SBJP
-and	CCONJ
-think	PRIV INF
-critically	RB
-about	PIN PREP
-it	PIT PRP SBJP
-.	
-  	
-Universities	NN CAP
-present	VPRT
-a	ART DET INDA
-complex	JJ
-context	NN
-.	
-Different	JJ CAP
-areas	NN
-of	PIN PREP
-knowledge	NN
-demands	VPRT SUAV
-different	JJ
-approaches	NN
-.	
-The	ART CAP DET
-debates	NN
-and	PHC CCONJ
-discussion	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-tool	NN
-of	PIN PREP
-learning	PRIV NN
-are	BEMA VPRT AUXB
-frequent	JJ PRED
-in	PIN CONJ PREP
-Humanistic	JJ CAP
-courses	NN
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-in	PIN CONJ PREP
-Biological	CAP NNP
-’s	
-and	CCONJ
-Exacts	CAP NNP
-Science	CAP NNP
-’s	
-courses	NN
-,	
-the	ART DET
-traditional	JJ
-methods	NN
-dominate	VPRT
-.	
-Whereas	OSUB RB CAP
-,	
-the	ART DET
-learning	PRIV NN THATD
-process	NN
-differs	VPRT
-to	PIN PREP
-each	QUAN DET
-person	NN
-;	
-each	QUAN DET
-one	NN
-has	VPRT
-his	TPP3 PRP SBJP
-own	JJ
-pace	NN
-of	PIN PREP
-learning	PRIV NN
-,	
-assimilates	VPRT
-the	ART DET
-contents	NN
-by	PIN PREP
-using	PGAS
-different	JJ
-skills	NN
-–	
-e.g.	RB CONJ
-visual	JJ
-,	
-auditory	JJ
-,	
-kinesthetic	JJ
-,	
-associative	JJ
-method	NN
-,	
-etc	X
-–	
-,	
-has	VPRT
-different	JJ
-structures	NN
-of	PIN PREP
-thinking	PRIV NN
-,	
-different	JJ
-limits	NN
-of	PIN PREP
-concentration	NOMZ
-and	CCONJ
-different	JJ
-abilities	NN
-.	
-Therefore	RB CONJ CAP
-,	
-people	NN
-who	WHQU WHSUB WH
-do	VPRT SPAU
-not	XX0 RB
-fit	INF
-in	PIN CONJ PREP
-traditional	JJ
-education	NOMZ
-have	VPRT
-to	PIN TO PREP
-struggle	INF
-to	PIN TO PREP
-adapt	INF
-to	PIN PREP
-educational	JJ
-system	NN
-.	
-It	PIT CAP PRP SBJP
-indicates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-methods	NN
-must	NEMD
-be	PASS AUXB INF
-adapted	
-.	
-However	RB CONJ CAP
-,	
-alternative	JJ
-methods	NN
-may	POMD
-be	BEMA AUXB INF
-impracticable	JJ PRED
-to	PIN PREP
-reality	NOMZ
-of	PIN PREP
-some	QUAN DET
-courses	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-in	PIN CONJ PREP
-alternative	JJ
-education	NOMZ
-,	
-the	ART DET
-student	NN
-’s	
-measurement	NOMZ
-of	PIN PREP
-learning	PRIV NN
-is	BEMA VPRT AUXB
-complex	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-completely	AMP RB
-infeasible	JJ
-to	PIN PREP
-university	NOMZ
-context	NN
-.	
-So	RB CAP
-,	
-the	ART DET
-solution	NOMZ
-should	NEMD
-be	BEMA AUXB INF
-the	ART DET
-easing	NN
-of	PIN PREP
-traditional	JJ
-method	NN
-through	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-some	QUAN DET
-practices	NN
-of	PIN PREP
-alternative	JJ
-method	NN
-,	
-like	PIN PREP
-group	NN
-activities	NN
-of	PIN PREP
-solving	PGAS
-practice	NN
-problems	NN
-,	
-simulating	GER PGAS
-real	JJ
-situations	NOMZ
-,	
-classes	NN
-taught	WZPAST
-with	PIN PREP
-student	NN
-’s	
-participation	NOMZ
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-induce	INF
-their	TPP3 PRP SBJP
-thinking	PRIV NN
-,	
-leading	PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-to	PIN PREP
-conclusions	NOMZ
-about	PIN PREP
-the	ART DET
-content	NN
-and	PHC CCONJ
-others	NN
-.	
-  	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-both	CCONJ
-traditional	JJ
-and	PHC CCONJ
-alternative	JJ
-educational	JJ
-methods	NN
-work	VPRT
-according	PGAS
-to	PIN PREP
-the	ART DET
-context	NN
-and	CCONJ
-according	PGAS
-to	PIN PREP
-the	ART DET
-student	NN
-’s	
-profile	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-university	NOMZ
-context	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-to	PIN TO PREP
-adapt	INF
-the	ART DET
-method	NN
-to	PIN PREP
-all	QUAN DET
-particular	JJ CONJ
-needs	NN
-of	PIN PREP
-students	NN
-,	
-but	CCONJ
-the	ART DET
-system	NN
-may	POMD
-be	PASS AUXB INF
-adapted	
-to	PIN TO SPIN PREP
-effectively	RB
-attend	INF
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-the	ART DET
-student	NN
-body	NN
-and	CCONJ
-the	ART DET
-different	JJ
-forms	NN
-of	PIN PREP
-learning	PRIV PGAS
-with	PIN PREP
-a	ART DET INDA
-combination	NOMZ
-of	PIN PREP
-different	JJ
-approaches	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-concepts	NN
-are	PASS VPRT AUXB
-assimilated	
-with	PIN PREP
-clarity	NOMZ
-and	CCONJ
-are	PASS VPRT SPAU AUXB
-well	RB
-established	PRIV
-,	
-the	ART DET
-individual	NN
-can	POMD SPAU
-easily	RB
-recognize	PRIV INF
-a	ART DET INDA
-problem	NN
-and	CCONJ
-use	INF
-these	DEMO DET
-concepts	NN
-and	CCONJ
-all	QUAN DET
-his	TPP3 PRP SBJP
-knowledge	NN
-to	PIN TO PREP
-find	PRIV INF
-a	ART DET INDA
-solution	NOMZ
-.	
-Therefore	RB CONJ CAP
-,	
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-the	ART DET
-education	NOMZ
-,	
-which	SERE DET WH
-directly	RB
-involves	VPRT
-its	PIT PRP SBJP
-methods	NN
-,	
-reflects	VPRT PRIV
-on	PIN PREP
-the	ART DET
-professional	JJ
-quality	NOMZ
-and	CCONJ
-impacts	VPRT
-the	ART DET
-society	NN
-and	CCONJ
-its	PIT PRP SBJP
-development	NOMZ
-.	
-  	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0633.0405>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	relevance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	widely	RB
+gap	 	
+word	acknowledged	PUBV
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	recognized	PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	relevance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	quality	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	influences	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consequence	NN
+gap	, 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	professional	JJ
+gap	 	
+word	quality	NOMZ
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	involves	VPRT
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	methods	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	worthy	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discuss	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	has	VPRT
+gap	 	
+word	prevail	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	centuries	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	clear	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	changed	
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	structure	NN
+gap	, 	
+word	its	PIT PRP SBJP
+gap	 	
+word	standards	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	assumptions	NOMZ
+gap	 	
+word	persists	VPRT
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	educational	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	flawed	
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	alternative	NN
+gap	, 	
+word	others	NN
+gap	 	
+word	methods	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS BYPA AUXB
+gap	 	
+word	proposed	SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	psychologists	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	researchers	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	present	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	characteristics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	reformed	JJ
+gap	 	
+word	education	NOMZ
+gap	, 	
+word	pointing	PGAS
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	advantages	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	problems	NN
+gap	. 	
+word	Then	RB CAP
+gap	 	
+word	will	PRMD
+gap	 	
+word	propose	SUAV INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	alternative	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	discuss	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	actuals	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	possible	JJ
+gap	 	
+word	future	JJ
+gap	 	
+word	challenges	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	.\n\t	
+word	The	ART CAP DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	centered	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	teacher	NN
+gap	’	
+word	s	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	professor	NNP
+gap	’	
+word	s	
+gap	 	
+word	role	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	instructions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	concepts	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	transmitted	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	didactic	JJ
+gap	 	
+word	lecture	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	passive	JJ
+gap	 	
+word	role	NN
+gap	; 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	learn	VPRT PRIV
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	listening	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	observation	NOMZ
+gap	. 	
+word	At	PIN CAP PREP
+gap	 	
+word	universities	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	focus	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	independent	JJ
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	frequently	RB
+gap	 	
+word	learn	VPRT PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	reading	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	textbooks	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	researches	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	measured	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	tests	NN
+gap	 	
+word	scores	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	grades	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	has	VPRT
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	professors	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	students	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	students	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	process	NN
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	logical	JJ
+gap	, 	
+word	linear	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	objective	JJ
+gap	 	
+word	thinking	PRIV NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	valued	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	detriment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	creative	JJ
+gap	, 	
+word	abstract	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	subjective	JJ
+gap	 	
+word	thinking	PRIV NN
+gap	.\n\t	
+word	Influenced	CAP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	theories	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	intelligence	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	processes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	alternative	JJ
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	, 	
+word	reformed	
+gap	 	
+word	educational	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	emerged	
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	constructivist	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	progressive	JJ
+gap	 	
+word	education	NOMZ
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	methods	NN
+gap	 	
+word	emphasize	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	student	NN
+gap	’	
+word	s	
+gap	 	
+word	role	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	process	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	approach	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	’	
+word	re	VPRT
+gap	 	
+word	active	JJ
+gap	; 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	conducted	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	teachers	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	get	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	content	NN
+gap	. 	
+word	Group	NN CAP
+gap	 	
+word	activities	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	common	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	students	NN
+gap	 	
+word	discuss	VPRT
+gap	 	
+word	ideas	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	students	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	build	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	knowledge	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	instructors	NN
+gap	 	
+word	play	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	facilitator	NN
+gap	’	
+word	s	
+gap	 	
+word	role	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	focus	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	understanding	GER PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	facts	NN
+gap	, 	
+word	analyze	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	critically	RB
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	.\n\t	
+word	Universities	NN CAP
+gap	 	
+word	present	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	complex	JJ
+gap	 	
+word	context	NN
+gap	. 	
+word	Different	JJ CAP
+gap	 	
+word	areas	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	demands	VPRT SUAV
+gap	 	
+word	different	JJ
+gap	 	
+word	approaches	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	debates	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	discussion	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tool	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	frequent	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Humanistic	JJ CAP
+gap	 	
+word	courses	NN
+gap	. 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Biological	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Exacts	CAP NNP
+gap	 	
+word	Science	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	courses	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	dominate	VPRT
+gap	. 	
+word	Whereas	OSUB RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	learning	PRIV NN THATD
+gap	 	
+word	process	NN
+gap	 	
+word	differs	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	person	NN
+gap	; 	
+word	each	QUAN DET
+gap	 	
+word	one	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	pace	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV NN
+gap	, 	
+word	assimilates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	contents	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	different	JJ
+gap	 	
+word	skills	NN
+gap	 – 	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	visual	
+gap	, 	
+word	auditory	
+gap	, 	
+word	kinesthetic	
+gap	, 	
+word	associative	
+gap	 	
+word	method	
+gap	, 	
+word	etc	
+gap	 –, 	
+word	has	
+gap	 	
+word	different	
+gap	 	
+word	structures	
+gap	 	
+word	of	
+gap	 	
+word	thinking	
+gap	, 	
+word	different	
+gap	 	
+word	limits	
+gap	 	
+word	of	
+gap	 	
+word	concentration	
+gap	 	
+word	and	
+gap	 	
+word	different	
+gap	 	
+word	abilities	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	people	
+gap	 	
+word	who	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	fit	
+gap	 	
+word	in	
+gap	 	
+word	traditional	
+gap	 	
+word	education	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	struggle	
+gap	 	
+word	to	
+gap	 	
+word	adapt	
+gap	 	
+word	to	
+gap	 	
+word	educational	
+gap	 	
+word	system	
+gap	. 	
+word	It	
+gap	 	
+word	indicates	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	methods	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	adapted	
+gap	. 	
+word	However	
+gap	, 	
+word	alternative	
+gap	 	
+word	methods	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	impracticable	
+gap	 	
+word	to	
+gap	 	
+word	reality	
+gap	 	
+word	of	
+gap	 	
+word	some	
+gap	 	
+word	courses	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	in	
+gap	 	
+word	alternative	
+gap	 	
+word	education	
+gap	, 	
+word	the	
+gap	 	
+word	student	
+gap	’	
+word	s	
+gap	 	
+word	measurement	
+gap	 	
+word	of	
+gap	 	
+word	learning	
+gap	 	
+word	is	
+gap	 	
+word	complex	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	completely	
+gap	 	
+word	infeasible	
+gap	 	
+word	to	
+gap	 	
+word	university	
+gap	 	
+word	context	
+gap	. 	
+word	So	
+gap	, 	
+word	the	
+gap	 	
+word	solution	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	easing	
+gap	 	
+word	of	
+gap	 	
+word	traditional	
+gap	 	
+word	method	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	some	
+gap	 	
+word	practices	
+gap	 	
+word	of	
+gap	 	
+word	alternative	
+gap	 	
+word	method	
+gap	, 	
+word	like	
+gap	 	
+word	group	
+gap	 	
+word	activities	
+gap	 	
+word	of	
+gap	 	
+word	solving	
+gap	 	
+word	practice	
+gap	 	
+word	problems	
+gap	, 	
+word	simulating	
+gap	 	
+word	real	
+gap	 	
+word	situations	
+gap	, 	
+word	classes	
+gap	 	
+word	taught	
+gap	 	
+word	with	
+gap	 	
+word	student	
+gap	’	
+word	s	
+gap	 	
+word	participation	
+gap	, 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	induce	
+gap	 	
+word	their	
+gap	 	
+word	thinking	
+gap	, 	
+word	leading	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	conclusions	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	content	
+gap	 	
+word	and	
+gap	 	
+word	others	
+gap	.\n\t	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	both	
+gap	 	
+word	traditional	
+gap	 	
+word	and	
+gap	 	
+word	alternative	
+gap	 	
+word	educational	
+gap	 	
+word	methods	
+gap	 	
+word	work	
+gap	 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	context	
+gap	 	
+word	and	
+gap	 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	student	
+gap	’	
+word	s	
+gap	 	
+word	profile	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	university	
+gap	 	
+word	context	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	 	
+word	to	
+gap	 	
+word	adapt	
+gap	 	
+word	the	
+gap	 	
+word	method	
+gap	 	
+word	to	
+gap	 	
+word	all	
+gap	 	
+word	particular	
+gap	 	
+word	needs	
+gap	 	
+word	of	
+gap	 	
+word	students	
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	adapted	
+gap	 	
+word	to	
+gap	 	
+word	effectively	
+gap	 	
+word	attend	
+gap	 	
+word	the	
+gap	 	
+word	majority	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	student	
+gap	 	
+word	body	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	different	
+gap	 	
+word	forms	
+gap	 	
+word	of	
+gap	 	
+word	learning	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	different	
+gap	 	
+word	approaches	
+gap	. 	
+word	Since	
+gap	 	
+word	the	
+gap	 	
+word	concepts	
+gap	 	
+word	are	
+gap	 	
+word	assimilated	
+gap	 	
+word	with	
+gap	 	
+word	clarity	
+gap	 	
+word	and	
+gap	 	
+word	are	
+gap	 	
+word	well	
+gap	 	
+word	established	
+gap	, 	
+word	the	
+gap	 	
+word	individual	
+gap	 	
+word	can	
+gap	 	
+word	easily	
+gap	 	
+word	recognize	
+gap	 	
+word	a	
+gap	 	
+word	problem	
+gap	 	
+word	and	
+gap	 	
+word	use	
+gap	 	
+word	these	
+gap	 	
+word	concepts	
+gap	 	
+word	and	
+gap	 	
+word	all	
+gap	 	
+word	his	
+gap	 	
+word	knowledge	
+gap	 	
+word	to	
+gap	 	
+word	find	
+gap	 	
+word	a	
+gap	 	
+word	solution	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	the	
+gap	 	
+word	quality	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	education	
+gap	, 	
+word	which	
+gap	 	
+word	directly	
+gap	 	
+word	involves	
+gap	 	
+word	its	
+gap	 	
+word	methods	
+gap	, 	
+word	reflects	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	professional	
+gap	 	
+word	quality	
+gap	 	
+word	and	
+gap	 	
+word	impacts	
+gap	 	
+word	the	
+gap	 	
+word	society	
+gap	 	
+word	and	
+gap	 	
+word	its	
+gap	 	
+word	development	
+gap	. \n\n	

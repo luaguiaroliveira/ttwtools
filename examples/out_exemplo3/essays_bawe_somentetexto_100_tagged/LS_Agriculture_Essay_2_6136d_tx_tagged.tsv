@@ -1,1675 +1,3062 @@
 # filename: LS_Agriculture_Essay_2_6136d_tx.txt
-token	tags
-Information	CAP NNP
-Technology	CAP NNP
-(	
-IT	CAP NNP
-)	
-doubtlessly	RB
-can	POMD
-contribute	INF
-much	QUAN JJ
-to	PIN PREP
-agriculture	NN
-and	CCONJ
-rural	JJ
-development	NOMZ
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-rural	JJ
-businesses	NOMZ
-can	POMD
-lead	INF
-to	PIN PREP
-better	JJ CMADJ
-communications	NOMZ
-and	CCONJ
-a	ART DET INDA
-closer	JJ CMADJ
-relationship	NN
-with	PIN PREP
-customers	NN
-and	PHC CCONJ
-suppliers	NN
-,	
-improving	PRESP PGAS
-both	DET
-efficiency	NN
-and	PHC CCONJ
-profitability	NOMZ
-.	
-Traditionally	RB CAP
-businesses	NOMZ
-communicated	VBD
-through	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-the	ART DET
-telephone	NN
-and	PHC CCONJ
-mail	NN
-.	
-Technology	NN CAP
-has	VPRT PEAS
-moved	SUAV
-on	PIN PREP
-greatly	AMP RB
-to	PIN PREP
-the	ART DET
-current	JJ
-day	NN
-situation	NOMZ
-of	PIN PREP
-more	JJ EMPH CMADJ
-businesses	NOMZ
-communicating	GER WZPRES PGAS
-to	PIN PREP
-both	DET
-customers	NN
-and	PHC CCONJ
-suppliers	NN
-through	PIN PREP
-e	NN
--	NN
-mail	NN
-and	CCONJ
-the	ART DET
-Internet	NN CAP
-.	
-However	RB CONJ CAP
-the	ART DET
-adoption	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-rural	JJ
-businesses	NOMZ
-remains	VPRT
-lower	JJ CMADJ
-than	PIN PREP
-in	PIN CONJ PREP
-urban	JJ
-businesses	NOMZ
-.	
-(	
-Source	NN CAP
-:	
-Defra	CAP NNP
-2005	NUM
-)	
-The	ART CAP DET
-graph	NN
-above	RB PLACE
-shows	VPRT PRIV
-the	ART DET
-adoption	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-rural	JJ
-and	PHC CCONJ
-urban	JJ
-businesses	NOMZ
-depending	WZPRES PGAS
-on	PIN PREP
-number	NN
-of	PIN PREP
-employees	NN
-.	
-It	PIT CAP PRP SBJP
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-urban	JJ
-adoption	NOMZ
-is	BEMA VPRT AUXB
-always	RB
-higher	JJ CMADJ
-in	PIN CONJ PREP
-every	QUAN DET
-employee	NN
-band	NN
-,	
-however	RB CONJ
-the	ART DET
-gap	NN
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-is	VPRT AUXB
-not	XX0 RB
-that	RB DEMO
-different	JJ
-with	PIN PREP
-the	ART DET
-mean	JJ PRIV
-adoption	NOMZ
-index	NN
-in	PIN CONJ PREP
-all	QUAN DET
-businesses	NOMZ
-in	PIN CONJ PREP
-urban	JJ
-at	PIN PREP
-6.7	NUM
-and	CCONJ
-rural	JJ
-at	PIN PREP
-5.7	NUM
-.	
-As	PIN CONJ CAP PREP
-the	ART DET
-businesses	NOMZ
-become	VPRT
-larger	JJ CMADJ
-the	ART DET
-adoption	NOMZ
-of	PIN PREP
-IT	CAP NNP
-increases	VPRT
-.	
-The	ART CAP DET
-Defra	CAP NNP
-census	NN
-(	
-2005	NUM
-)	
-showed	VBD PRIV
-that	PIN THVC SCONJ PREP
-currently	RB
-80	NUM
-%	NN
-of	PIN PREP
-rural	JJ
-businesses	NOMZ
-that	TSUB WHSUB WH
-have	VPRT
-the	ART DET
-opportunity	NOMZ
-to	PIN TO PREP
-access	INF
-the	ART DET
-Internet	NN CAP
-do	VPRT PROD
-,	
-yet	CCONJ
-only	DWNT RB
-74	NUM
-%	NN
-of	PIN PREP
-rural	JJ
-businesses	NOMZ
-have	VPRT
-this	DEMO DET
-access	NN
-.	
-(	
-Source	NN CAP
-:	
-Defra	CAP NNP
-2005	NUM
-)	
-The	ART CAP DET
-graph	NN
-above	RB PLACE
-shows	VPRT PRIV
-the	ART DET
-percentage	NN
-of	PIN PREP
-rural	JJ
-and	PHC CCONJ
-urban	JJ
-businesses	NOMZ
-that	TSUB WHSUB WH
-have	VPRT
-their	TPP3 PRP SBJP
-own	JJ
-website	NN
-.	
-The	ART CAP DET
-results	NN
-show	VPRT PRIV
-that	PIN THVC SCONJ PREP
-only	DWNT RB
-38	NUM
-%	NN
-of	PIN PREP
-rural	JJ
-businesses	NOMZ
-have	VPRT
-their	TPP3 PRP SBJP
-own	JJ
-website	NN
-compared	WZPAST
-to	PIN PREP
-51	NUM
-%	NN
-of	PIN PREP
-urban	JJ
-businesses	NOMZ
-.	
-This	DEMP CAP DET
-could	POMD
-be	BEMA AUXB INF
-due	JJ PRED
-to	PIN PREP
-less	JJ CMADJ
-internet	NN
-access	NN
-and	CCONJ
-the	ART DET
-difference	NN
-in	PIN CONJ PREP
-markets	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-urban	JJ
-and	PHC CCONJ
-rural	JJ
-businesses	NOMZ
-operate	VPRT
-,	
-many	QUAN JJ
-urban	JJ
-businesses	NOMZ
-sell	VPRT
-direct	JJ
-to	PIN PREP
-consumers	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-a	ART DET INDA
-website	NN
-is	BEMA VPRT AUXB
-beneficial	JJ PRED
-in	PIN CONJ PREP
-marketing	NN
-,	
-fewer	JJ CMADJ
-rural	JJ
-businesses	NOMZ
-operate	VPRT
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-.	
-The	ART CAP DET
-results	NN
-from	PIN PREP
-the	ART DET
-census	NN
-show	VPRT PRIV
-that	PIN THVC SCONJ PREP
-rural	JJ
-businesses	NOMZ
-adoption	NOMZ
-of	PIN PREP
-IT	CAP NNP
-is	VPRT AUXB
-lagging	PGAS
-behind	PIN PLACE PREP
-urban	JJ
-.	
-Current	JJ CAP
-factors	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-hindering	PGAS
-the	ART DET
-advancement	NOMZ
-and	PHC CCONJ
-adoption	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-rural	JJ
-businesses	NOMZ
-are	BEMA VPRT AUXB
-the	ART DET
-lack	NN
-of	PIN PREP
-education	NOMZ
-,	
-the	ART DET
-size	NN
-of	PIN PREP
-businesses	NOMZ
-,	
-and	ANDC CCONJ
-high	JJ
-cost	NN
-of	PIN PREP
-initial	JJ
-investment	NOMZ
-and	CCONJ
-the	ART DET
-lack	NN
-of	PIN PREP
-facilities	NN
-within	PIN PREP
-the	ART DET
-area	NN
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-Internet	NN CAP
-.	
-Many	QUAN JJ CAP
-rural	JJ
-businesses	NOMZ
-are	BEMA VPRT AUXB
-smaller	JJ PRED CMADJ
-than	PIN PREP
-those	DEMP DET
-that	DEMP WH
-are	BEMA VPRT AUXB
-urban	JJ PRED
-,	
-more	RB EMPH CMADJ
-sole	JJ
-traders	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-the	ART DET
-lack	NN
-of	PIN PREP
-education	NOMZ
-and	PHC CCONJ
-money	NN
-to	PIN TO PREP
-invest	INF
-in	PIN CONJ PREP
-the	ART DET
-initial	JJ
-set	
-up	PIN PREP
-are	BEMA VPRT AUXB
-real	JJ
-constraints	NN
-.	
-A	ART CAP DET INDA
-major	JJ
-sector	NN
-of	PIN PREP
-rural	JJ
-businesses	NOMZ
-is	VPRT AUXB
-agriculture	NN
-and	CCONJ
-with	PIN PREP
-often	RB
-the	ART DET
-age	NN
-of	PIN PREP
-farmers	NN
-around	PIN PLACE PREP
-50	NUM
-then	RB
-education	NOMZ
-in	PIN CONJ PREP
-IT	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-an	ART DET INDA
-important	JJ
-issue	NN
-.	
-Many	QUAN JJ CAP
-of	PIN PREP
-these	DEMO DET
-people	NN
-were	PASS VBD SPAU AUXB
-not	XX0 RB
-brought	
-up	PIN PREP
-with	PIN PREP
-large	JJ
-amounts	NN
-of	PIN PREP
-computer	NN
-use	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-are	PASS VPRT AUXB
-put	
-off	PIN PREP
-purchasing	GER PGAS
-and	PHC CCONJ
-using	PGAS
-IT	PIT CAP PRP SBJP
-within	PIN PREP
-their	TPP3 PRP SBJP
-businesses	NOMZ
-.	
-The	ART CAP DET
-cost	NN
-of	PIN PREP
-investment	NOMZ
-is	BEMA VPRT AUXB
-an	ART DET INDA
-important	JJ
-factor	NN
-to	PIN PREP
-many	QUAN JJ
-businesses	NOMZ
-and	PHC CCONJ
-people	NN
-'s	
-perceptions	NOMZ
-on	PIN PREP
-whether	PIN SCONJ PREP
-IT	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-worthwhile	JJ PRED
-are	BEMA VPRT AUXB
-different	JJ PRED
-.	
-As	PIN CONJ CAP PREP
-these	DEMO DET
-issues	NN
-are	PASS VPRT AUXB
-overcome	
-and	CCONJ
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-Internet	NN CAP
-access	NN
-improves	VPRT
-more	JJ EMPH CMADJ
-businesses	NOMZ
-will	PRMD
-adopt	INF
-the	ART DET
-use	NN
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-.	
-Broadband	CAP NNP
-helps	VPRT
-to	PIN TO PREP
-remove	INF
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-barriers	NN
-which	WHOBJ DET WH
-geography	NN
-puts	VPRT
-in	PIN CONJ PREP
-the	ART DET
-way	NN
-of	PIN PREP
-rural	JJ
-businesses	NOMZ
-(	
-Scottish	JJ CAP
-executive	NN
-2004	NUM
-)	
-.	
-More	JJ EMPH CAP CMADJ
-rural	JJ
-businesses	NOMZ
-will	PRMD
-look	INF
-to	PIN TO PREP
-use	INF
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-everyday	JJ
-actions	NOMZ
-,	
-with	PIN PREP
-legal	JJ
-obligations	NOMZ
-and	PHC CCONJ
-quality	NOMZ
-assurance	NN
-needing	WZPRES PGAS
-to	PIN TO PREP
-be	PASS AUXB INF
-met	
-and	PHC CCONJ
-proven	
-,	
-cost	NN
-reduction	NOMZ
-and	PHC CCONJ
-time	NN
-management	NOMZ
-improvements	NOMZ
-.	
-Future	JJ CAP
-developments	NOMZ
-and	PHC CCONJ
-adoptions	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-will	PRMD
-have	INF
-an	ART DET INDA
-increasing	GER PGAS
-effect	NN
-on	PIN PREP
-rural	JJ
-businesses	NOMZ
-both	CCONJ
-in	PIN CONJ PREP
-developed	
-countries	NN
-and	CCONJ
-developing	GER PGAS
-countries	NN
-.	
-Adoption	NOMZ CAP
-of	PIN PREP
-IT	CAP NNP
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-The	ART CAP DET
-adoption	NOMZ
-of	PIN PREP
-information	NOMZ
-technology	NN
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-could	POMD
-become	INF
-very	AMP RB
-important	JJ
-.	
-IT	PIT CAP PRP SBJP
-could	POMD
-be	PASS AUXB INF
-used	
-to	PIN TO PREP
-meet	INF
-common	JJ
-needs	NN
-in	PIN CONJ PREP
-these	DEMO DET
-countries	NN
-rural	JJ
-communities	NN
-and	PHC CCONJ
-businesses	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-enhancing	PGAS
-crop	NN
-productivity	NOMZ
-,	
-efficient	JJ
-cattle	NN
-farm	NN
-management	NOMZ
-,	
-providing	PGAS
-for	PIN PREP
-national	JJ
-and	CCONJ
-household	NN
-level	NN
-food	NN
-security	NOMZ
-,	
-and	ANDC CCONJ
-conservation	NOMZ
-of	PIN PREP
-bio	NN
--	NN
-diversity	NOMZ
-.	
-'	CONT QUOT
-These	DEMO CAP DET
-governance	NN
-products	NN
-and	PHC CCONJ
-services	NN
-include	VPRT
-:	
-information	NOMZ
-about	PIN PREP
-the	ART DET
-latest	JJ SPADJ
-seed	NN
-varieties	NN
-,	
-fertilizers	NN
-,	
-pesticides	NN
-and	PHC CCONJ
-rainfall	NN
-prediction	NOMZ
-;	
-information	NOMZ
-on	PIN PREP
-various	JJ
-government	NOMZ
-schemes	NN
-such	JJ
-as	PIN CONJ PREP
-those	DEMO DET
-on	PIN PREP
-water	NN
-resources	NN
-management	NOMZ
-and	PHC CCONJ
-subsidies	NN
-on	PIN PREP
-land	NN
-development	NOMZ
-and	PHC CCONJ
-soil	NN
-conservation	NOMZ
-activities	NN
-;	
-information	NOMZ
-about	PIN PREP
-local	JJ
-agriculture	NN
-offices	NN
-and	PHC CCONJ
-officers	NN
-,	
-crop	NN
-testing	NN
-and	PHC CCONJ
-training	NN
-centres	NN
-;	
-information	NOMZ
-on	PIN PREP
-milk	NN
-processing	GER
-,	
-grain	NN
-storage	NN
-,	
-livestock	NN
-vaccination	NOMZ
-and	PHC CCONJ
-crop	NN
-diseases	NN
-;	
-information	NOMZ
-about	PIN PREP
-market	NN
-prices	NN
-of	PIN PREP
-various	JJ
-crops	NN
-,	
-rates	NN
-for	PIN PREP
-loans	NN
-,	
-and	ANDC CCONJ
-available	JJ
-credit	NN
-facilities	NN
-(	
-digital	JJ
-governance	NN
-2006	NUM
-)	
-.	
-Many	QUAN JJ CAP
-rural	JJ
-businesses	NOMZ
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-are	BEMA VPRT AUXB
-small	JJ
-family	NN
-run	NN
-businesses	NOMZ
-on	PIN PREP
-which	PIRE DET WH
-their	TPP3 PRP SBJP
-whole	JJ
-livelihoods	NN
-rely	VPRT
-,	
-therefore	RB CONJ
-the	ART DET
-adoption	NOMZ
-and	PHC CCONJ
-development	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-these	DEMO DET
-businesses	NOMZ
-would	PRMD
-have	INF
-a	ART DET INDA
-significant	JJ
-impact	NN
-.	
-Better	JJ CAP CMADJ
-predictions	NOMZ
-of	PIN PREP
-climatic	JJ
-conditions	NOMZ
-and	PHC CCONJ
-crop	NN
-testing	NN
-with	PIN PREP
-knowledge	NN
-will	PRMD
-reduce	INF
-the	ART DET
-likelihood	NN
-of	PIN PREP
-crop	NN
-failure	NN
-leading	WZPRES PGAS
-to	PIN PREP
-famine	NN
-and	CCONJ
-the	ART DET
-whole	JJ
-country	NN
-in	PIN CONJ PREP
-crisis	NN
-.	
-However	RB CONJ CAP
-in	PIN CONJ PREP
-order	SUAV NN
-for	PIN PREP
-IT	PIT CAP PRP SBJP
-to	PIN TO PREP
-take	INF
-off	PIN PREP
-in	PIN CONJ PREP
-these	DEMO DET
-countries	NN
-much	QUAN JJ
-money	NN
-and	PHC CCONJ
-education	NOMZ
-needs	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-spent	
-on	PIN PREP
-providing	PGAS
-facilities	NN
-and	PHC CCONJ
-knowledge	NN
-.	
-The	ART CAP DET
-census	NN
-before	PIN PREP
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-rural	JJ
-adoption	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-is	BEMA VPRT AUXB
-low	JJ PRED
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-education	NOMZ
-and	PHC CCONJ
-facility	NOMZ
-constraints	NN
-and	ANDC CCONJ
-this	DEMP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-wealthy	JJ
-country	NN
-therefore	RB CONJ
-adoption	NOMZ
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-will	PRMD
-be	BEMA AUXB INF
-even	RB
-harder	JJ CMADJ
-.	
-Future	JJ CAP
-advancements	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-adoption	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-countries	NN
-such	JJ
-as	PIN CONJ PREP
-Russia	CAP NNP
-could	POMD
-have	INF
-a	ART DET INDA
-large	JJ
-effect	NN
-both	DET
-at	PIN PREP
-the	ART DET
-individual	JJ
-enterprise	NN
-level	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-at	PIN PREP
-the	ART DET
-national	JJ
-and	PHC CCONJ
-international	JJ
-level	NN
-.	
-Currently	RB CAP
-parts	NN
-of	PIN PREP
-Russia	CAP NNP
-are	VPRT AUXB
-lagging	PGAS
-behind	RB PLACE
-in	PIN CONJ PREP
-technology	NN
-adoption	NOMZ
-within	PIN PREP
-arable	JJ
-production	NOMZ
-,	
-yet	CCONJ
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-however	RB CONJ
-able	JJ
-to	PIN TO PREP
-produce	INF
-high	JJ
-yields	NN
-and	CCONJ
-have	VPRT
-very	AMP RB
-large	JJ
-cultivation	NOMZ
-areas	NN
-compared	WZPAST
-to	PIN PREP
-the	ART DET
-UK	CAP NNP
-.	
-This	DEMP CAP DET
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-future	JJ
-adoption	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-the	ART DET
-next	JJ
-twenty	NUM
-years	NN
-in	PIN CONJ PREP
-this	DEMO DET
-area	NN
-of	PIN PREP
-rural	JJ
-business	NOMZ
-could	POMD
-have	INF
-a	ART DET INDA
-massive	JJ
-effect	NN
-.	
-At	PIN CAP PREP
-the	ART DET
-enterprise	NN
-level	NN
-farmers	NN
-could	POMD
-become	INF
-more	RB EMPH CMADJ
-efficient	JJ
-with	PIN PREP
-monitoring	GER PGAS
-inputs	NN
-with	PIN PREP
-outputs	NN
-such	JJ
-as	PIN CONJ PREP
-precision	NOMZ
-farming	NN
-,	
-predicting	GER PUBV PGAS
-climatic	JJ
-conditions	NOMZ
-and	PHC CCONJ
-use	NN
-of	PIN PREP
-the	ART DET
-Internet	NN CAP
-.	
-The	ART CAP DET
-effects	NN
-of	PIN PREP
-this	DEMP DET
-could	POMD
-mean	PRIV INF
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-produce	INF
-much	QUAN RB
-larger	JJ CMADJ
-quantities	NN
-of	PIN PREP
-corn	NN
-more	RB EMPH CMADJ
-efficiently	RB
-than	PIN PREP
-the	ART DET
-UK	CAP NNP
-and	CCONJ
-other	JJ
-EU	CAP NNP
-countries	NN
-therefore	RB CONJ
-creating	PGAS
-large	JJ
-competition	NOMZ
-.	
-Adoption	NOMZ CAP
-of	PIN PREP
-IT	CAP NNP
-in	PIN CONJ PREP
-developed	
-countries	NN
-Within	PIN CAP PREP
-developed	
-countries	NN
-such	JJ
-as	PIN CONJ PREP
-America	CAP NNP
-and	CCONJ
-the	ART DET
-UK	CAP NNP
-IT	CAP NNP
-plays	VPRT
-a	ART DET INDA
-vital	JJ
-role	NN
-in	PIN CONJ PREP
-analysing	PGAS
-performance	NN
-in	PIN CONJ PREP
-rural	JJ
-businesses	NOMZ
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-precision	NOMZ
-farming	NN
-has	VPRT PEAS
-shown	PRIV
-the	ART DET
-uses	NN
-of	PIN PREP
-modern	JJ
-technology	NN
-to	PIN TO PREP
-monitor	INF
-individual	JJ
-field	NN
-performance	NN
-per	PIN PREP
-square	JJ
-metre	NN
-compared	WZPAST
-to	PIN PREP
-the	ART DET
-traditional	JJ
-whole	JJ
-farm	NN
-monitoring	GER
-on	PIN PREP
-a	ART DET INDA
-much	QUAN RB
-broader	JJ CMADJ
-scale	NN
-.	
-Computer	NN CAP
-software	NN
-is	PASS VPRT AUXB
-used	
-both	CCONJ
-in	PIN CONJ PREP
-the	ART DET
-tractor	NN
-cab	NN
-for	PIN PREP
-the	ART DET
-user	NN
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-the	ART DET
-office	NN
-for	PIN PREP
-the	ART DET
-farm	NN
-manager	NN
-and	PHC CCONJ
-agronomist	NN
-.	
-IT	NN CAP
-based	VBD
-decision	NOMZ
-support	NN
-systems	NN
-(	
-DSS	CAP NNP
-)	
-can	POMD
-help	INF
-decision	NOMZ
-making	NN
-such	JJ
-as	PIN CONJ PREP
-when	RB SCONJ WH
-and	ANDC CCONJ
-what	WH
-to	PIN TO PREP
-plant	INF
-whilst	OSUB PIN SCONJ PREP
-considering	GER PRIV PGAS
-environmental	JJ
-impact	NN
-,	
-market	NN
-access	NN
-and	PHC CCONJ
-industry	NN
-standards	NN
-.	
-Yet	CAP CCONJ
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-high	JJ
-investment	NOMZ
-costs	NN
-and	CCONJ
-the	ART DET
-current	JJ
-low	JJ
-prices	NN
-of	PIN PREP
-arable	JJ
-crops	NN
-only	DWNT RB
-limited	JJ
-farms	NN
-that	TSUB WHSUB WH
-can	POMD
-make	INF
-the	ART DET
-economic	JJ
-investment	NOMZ
-justifiable	JJ
-have	VPRT PEAS
-adopted	
-precision	NOMZ
-farming	NN
-software	NN
-.	
-Uptake	NN CAP
-in	PIN CONJ PREP
-countries	NN
-such	JJ
-as	PIN CONJ PREP
-America	CAP NNP
-could	POMD
-be	BEMA AUXB INF
-larger	JJ PRED CMADJ
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-much	QUAN RB
-larger	JJ CMADJ
-scales	NN
-of	PIN PREP
-arable	JJ
-production	NOMZ
-.	
-This	DEMP CAP DET
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-in	PIN CONJ PREP
-order	SUAV NN
-for	PIN PREP
-further	JJ
-adoptions	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-to	PIN TO PREP
-take	INF
-place	NN
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-,	
-companies	NN
-need	VPRT
-to	PIN TO PREP
-advance	INF
-and	PHC CCONJ
-produce	INF
-software	NN
-that	TSUB WHSUB WH
-suit	VPRT
-the	ART DET
-smaller	JJ CMADJ
-scale	NN
-businesses	NOMZ
-as	RB CONJ
-well	RB
-.	
-Other	JJ CAP
-uses	NN
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-have	VPRT PEAS
-become	
-more	RB EMPH CMADJ
-popular	JJ
-with	PIN PREP
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-rural	JJ
-diversification	NOMZ
-such	JJ
-as	PIN CONJ PREP
-farm	NN
-shops	NN
-and	PHC CCONJ
-Internet	NN CAP
-businesses	NOMZ
-.	
-These	DEMO CAP DET
-rural	JJ
-businesses	NOMZ
-completely	AMP RB
-rely	VPRT
-on	PIN PREP
-the	ART DET
-adoption	NOMZ
-and	PHC CCONJ
-use	NN
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-to	PIN TO PREP
-be	BEMA AUXB INF
-profitable	JJ PRED
-.	
-Further	JJ CAP
-developments	NOMZ
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-the	ART DET
-livestock	NN
-sector	NN
-have	VPRT PEAS SPAU
-also	RB
-occurred	
-through	PIN PREP
-businesses	NOMZ
-such	JJ
-as	PIN CONJ PREP
-NMR	CAP NNP
-and	PHC CCONJ
-Farm	CAP NNP
-Plan	CAP NNP
-producing	WZPRES PGAS
-programmes	NN
-for	PIN PREP
-every	QUAN DET
-aspect	NN
-of	PIN PREP
-running	PGAS
-a	ART DET INDA
-livestock	NN
-business	NOMZ
-,	
-including	PGAS
-herd	JJ
-records	NN
-,	
-and	ANDC CCONJ
-individual	JJ
-animal	NN
-performance	NN
-.	
-These	DEMO CAP DET
-advancements	NOMZ
-in	PIN CONJ PREP
-technology	NN
-have	VPRT PEAS
-been	PASS AUXB
-specialised	
-to	PIN PREP
-businesses	NOMZ
-specific	JJ
-needs	NN
-but	CCONJ
-within	PIN PREP
-a	ART DET INDA
-fairly	RB
-large	JJ
-market	NN
-,	
-as	PIN CONJ PREP
-with	PIN PREP
-livestock	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-next	JJ
-twenty	NUM
-years	NN
-IT	NN CAP
-advancements	NOMZ
-will	PRMD
-play	INF
-an	ART DET INDA
-important	JJ
-role	NN
-in	PIN CONJ PREP
-food	NN
-security	NOMZ
-with	PIN PREP
-emerging	PGAS
-consumer	NN
-concerns	NN
-about	PIN PREP
-animal	NN
-welfare	NN
-and	PHC CCONJ
-diseases	NN
-such	JJ
-as	PIN CONJ PREP
-chicken	NN
-flu	NN
-and	CCONJ
-BSE	CAP NNP
-.	
-It	PIT CAP PRP SBJP
-will	PRMD SPAU
-also	RB
-become	INF
-increasingly	RB
-important	JJ
-to	PIN TO PREP
-monitor	INF
-individual	JJ
-cow	NN
-performances	NN
-especially	RB
-with	PIN PREP
-the	ART DET
-current	JJ
-increasing	GER PGAS
-herd	NN
-sizes	NN
-and	CCONJ
-reducing	PGAS
-labour	NN
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-become	INF
-more	RB EMPH CMADJ
-economical	JJ
-.	
-Other	JJ CAP
-future	JJ
-advancements	NOMZ
-in	PIN CONJ PREP
-IT	PIT CAP PRP SBJP
-could	POMD
-lead	INF
-to	PIN PREP
-better	JJ CMADJ
-communications	NOMZ
-between	PIN PREP
-what	WH
-is	PASS VPRT BYPA AUXB
-expected	PRIV
-by	PIN PREP
-rural	JJ
-businesses	NOMZ
-from	PIN PREP
-the	ART DET
-government	NOMZ
-.	
-Defra	CAP NNP
-are	VPRT AUXB
-pushing	PGAS
-a	ART DET INDA
-'	CONT QUOT
-Whole	CAP NNP
-Farm	CAP NNP
-approach	NN
-'	CONT QUOT
-web	NN
-based	
-system	NN
-including	WZPRES PGAS
-a	ART DET INDA
-web	NN
-portal	NN
-which	WHSUB DET WH
-could	POMD
-save	INF
-the	ART DET
-industry	NN
-£	
-28	NUM
-million	NUM
-a	ART DET INDA
-year	NN
-(	
-Lord	CAP NNP
-Bach	CAP NNP
-2005	NUM
-)	
-.	
-This	DEMP CAP DET
-will	PRMD
-reduce	INF
-the	ART DET
-amount	NN
-of	PIN PREP
-paper	NN
-work	NN
-that	TOBJ WHOBJ WH
-farmers	NN
-and	PHC CCONJ
-people	NN
-within	PIN PREP
-the	ART DET
-industry	NN
-will	PRMD
-have	INF
-to	PIN TO PREP
-do	PROD INF
-and	CCONJ
-ensure	PRIV SUAV INF
-quicker	JJ CMADJ
-transactions	NOMZ
-.	
-The	ART CAP DET
-effect	NN
-this	DEMP DET
-will	PRMD
-have	INF
-at	PIN PREP
-individual	JJ
-enterprises	NN
-is	PASS VPRT AUXB
-reduced	
-confusion	NOMZ
-and	CCONJ
-reduced	
-amount	NN
-of	PIN PREP
-inspections	NOMZ
-by	PIN PREP
-the	ART DET
-government	NOMZ
-.	
-Conclusion	CAP NNP
-The	ART CAP DET
-uptake	NN
-of	PIN PREP
-IT	PIT CAP PRP SBJP
-in	PIN CONJ PREP
-rural	JJ
-businesses	NOMZ
-remains	VPRT
-less	JJ CMADJ
-than	PIN PREP
-that	DEMO DET
-in	PIN CONJ PREP
-urban	JJ
-businesses	NOMZ
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-due	JJ PRED
-to	PIN PREP
-the	ART DET
-size	NN
-of	PIN PREP
-businesses	NOMZ
-many	QUAN JJ
-rural	JJ
-being	BEMA AUXB
-sole	JJ
-traders	NN
-,	
-education	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-cost	NN
-of	PIN PREP
-set	
-up	PIN PREP
-and	CCONJ
-the	ART DET
-accessibility	NOMZ
-of	PIN PREP
-the	ART DET
-Internet	NN CAP
-.	
-An	ART CAP DET INDA
-increase	NN
-in	PIN CONJ PREP
-adoption	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-next	JJ
-twenty	NUM
-years	NN
-will	PRMD
-require	SUAV INF
-advancements	NOMZ
-in	PIN CONJ PREP
-these	DEMO DET
-areas	NN
-.	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-adoption	NOMZ
-is	BEMA VPRT AUXB
-low	JJ PRED
-overall	RB
-in	PIN CONJ PREP
-rural	JJ
-businesses	NOMZ
-uptake	VPRT
-in	PIN CONJ PREP
-arable	JJ
-and	CCONJ
-livestock	NN
-sectors	NN
-has	VPRT PEAS
-been	BEMA AUXB
-to	PIN TO PREP
-achieve	INF
-higher	JJ CMADJ
-economies	NN
-of	PIN PREP
-scale	NN
-and	CCONJ
-better	JJ CMADJ
-analysis	NN
-of	PIN PREP
-individual	JJ
-enterprises	NN
-.	
-Further	JJ CAP
-adoptions	NOMZ
-in	PIN CONJ PREP
-these	DEMO DET
-sectors	NN
-will	PRMD
-take	INF
-place	NN
-if	COND PIN SCONJ PREP
-there	EX
-are	VPRT AUXB
-advancements	NOMZ
-in	PIN CONJ PREP
-IT	PIT CAP PRP SBJP
-that	DEMP WH
-suit	VPRT
-smaller	JJ CMADJ
-businesses	NOMZ
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-that	DEMP DET
-which	DET WH
-is	BEMA VPRT AUXB
-currently	RB
-available	JJ
-to	PIN PREP
-large	JJ
-.	
-Uptake	NN CAP
-in	PIN CONJ PREP
-rural	JJ
-areas	NN
-is	BEMA VPRT AUXB
-less	JJ PRED CMADJ
-than	PIN PREP
-urban	JJ
-areas	NN
-within	PIN PREP
-the	ART DET
-UK	CAP NNP
-however	RB CONJ
-uptake	NN
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-rural	JJ
-areas	NN
-is	BEMA VPRT AUXB
-significantly	RB
-less	JJ CMADJ
-than	PIN PREP
-that	DEMO DET
-if	COND PIN SCONJ PREP
-at	RB PIN PREP
-all	QUAN RB
-.	
-Adoption	NOMZ CAP
-of	PIN PREP
-IT	CAP NNP
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-will	PRMD
-have	INF
-a	ART DET INDA
-significant	JJ
-effect	NN
-on	PIN PREP
-not	XX0 RB
-only	DWNT RB
-the	ART DET
-individual	JJ
-enterprise	NN
-and	PHC CCONJ
-household	NN
-level	NN
-but	CCONJ
-also	RB
-at	PIN PREP
-the	ART DET
-national	JJ
-level	NN
-,	
-potentially	RB
-reducing	PGAS
-poverty	NN
-and	PHC CCONJ
-famine	NN
-.	
-However	RB CONJ CAP
-this	DEMP DET
-is	BEMA VPRT AUXB
-unlikely	JJ PRED
-to	PIN PREP
-all	QUAN DET
-happen	INF
-within	PIN PREP
-the	ART DET
-next	JJ
-twenty	NUM
-years	NN
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-size	NN
-of	PIN PREP
-the	ART DET
-task	NN
-,	
-not	XX0 RB
-only	DWNT RB
-requiring	SUAV PGAS
-investment	NOMZ
-but	CCONJ
-education	NOMZ
-and	PHC CCONJ
-accessibility	NOMZ
-of	PIN PREP
-facilities	NN
-also	RB
-.	
-Any	QUAN CAP DET
-advancements	NOMZ
-and	PHC CCONJ
-adoption	NOMZ
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-would	PRMD
-have	INF
-a	ART DET INDA
-positive	JJ
-effect	NN
-.	
+type	content	tags
+word	Information	CAP NNP
+gap	 	
+word	Technology	CAP NNP
+gap	 (	
+word	IT	CAP NNP
+gap	) 	
+word	doubtlessly	RB
+gap	 	
+word	can	POMD
+gap	 	
+word	contribute	INF
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	agriculture	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	development	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	communications	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	closer	JJ CMADJ
+gap	 	
+word	relationship	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	customers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	suppliers	NN
+gap	, 	
+word	improving	PRESP PGAS
+gap	 	
+word	both	DET
+gap	 	
+word	efficiency	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	profitability	NOMZ
+gap	. 	
+word	Traditionally	RB CAP
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	communicated	VBD
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	telephone	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	mail	NN
+gap	. 	
+word	Technology	NN CAP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	moved	SUAV
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	current	JJ
+gap	 	
+word	day	NN
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	communicating	GER WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	customers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	suppliers	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	e	NN
+gap	-	
+word	mail	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Internet	NN CAP
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	remains	VPRT
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	businesses	NOMZ
+gap	. (	
+word	Source	NN CAP
+gap	: 	
+word	Defra	CAP NNP
+gap	 2005) 	
+word	The	ART CAP DET
+gap	 	
+word	graph	NN
+gap	 	
+word	above	RB PLACE
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	urban	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	depending	WZPRES PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	employees	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	always	RB
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	employee	NN
+gap	 	
+word	band	NN
+gap	, 	
+word	however	RB CONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	gap	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	that	RB DEMO
+gap	 	
+word	different	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mean	JJ PRIV
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	index	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	at	PIN PREP
+gap	 6.7 	
+word	and	CCONJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	at	PIN PREP
+gap	 5.7. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	become	VPRT
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	CAP NNP
+gap	 	
+word	increases	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Defra	CAP NNP
+gap	 	
+word	census	NN
+gap	 (2005) 	
+word	showed	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	currently	RB
+gap	 80% 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	opportunity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	access	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	Internet	NN CAP
+gap	 	
+word	do	VPRT PROD
+gap	, 	
+word	yet	CCONJ
+gap	 	
+word	only	DWNT RB
+gap	 74% 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	have	VPRT
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	access	NN
+gap	. (	
+word	Source	NN CAP
+gap	: 	
+word	Defra	CAP NNP
+gap	 2005) 	
+word	The	ART CAP DET
+gap	 	
+word	graph	NN
+gap	 	
+word	above	RB PLACE
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	percentage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	urban	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	website	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	results	NN
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	only	DWNT RB
+gap	 38% 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	have	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	website	NN
+gap	 	
+word	compared	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 51% 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	businesses	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	due	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	internet	NN
+gap	 	
+word	access	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	difference	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	markets	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	urban	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	operate	VPRT
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	urban	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	sell	VPRT
+gap	 	
+word	direct	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	consumers	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	website	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	beneficial	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	marketing	NN
+gap	, 	
+word	fewer	JJ CMADJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	operate	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	results	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	census	NN
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	lagging	PGAS
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	urban	JJ
+gap	. 	
+word	Current	JJ CAP
+gap	 	
+word	factors	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	hindering	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	advancement	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	size	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	businesses	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	high	JJ
+gap	 	
+word	cost	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	initial	JJ
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	facilities	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Internet	NN CAP
+gap	. 	
+word	Many	QUAN JJ CAP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	smaller	JJ PRED CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	urban	JJ PRED
+gap	, 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	sole	JJ
+gap	 	
+word	traders	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	money	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	invest	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	initial	JJ
+gap	 	
+word	set	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	real	JJ
+gap	 	
+word	constraints	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	major	JJ
+gap	 	
+word	sector	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	agriculture	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	often	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	age	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	farmers	NN
+gap	 	
+word	around	PIN PLACE PREP
+gap	 50 	
+word	then	RB
+gap	 	
+word	education	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	issue	NN
+gap	. 	
+word	Many	QUAN JJ CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	people	NN
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	brought	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	large	JJ
+gap	 	
+word	amounts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	computer	NN
+gap	 	
+word	use	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	put	
+gap	 	
+word	off	PIN PREP
+gap	 	
+word	purchasing	GER PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	using	PGAS
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	businesses	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	cost	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	factor	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	people	NN
+gap	'	
+word	s	
+gap	 	
+word	perceptions	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	worthwhile	JJ PRED
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	different	JJ PRED
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	issues	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	overcome	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Internet	NN CAP
+gap	 	
+word	access	NN
+gap	 	
+word	improves	VPRT
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	adopt	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	. 	
+word	Broadband	CAP NNP
+gap	 	
+word	helps	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	remove	INF
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	barriers	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	geography	NN
+gap	 	
+word	puts	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 (	
+word	Scottish	JJ CAP
+gap	 	
+word	executive	NN
+gap	 2004). 	
+word	More	JJ EMPH CAP CMADJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	look	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	everyday	JJ
+gap	 	
+word	actions	NOMZ
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	legal	JJ
+gap	 	
+word	obligations	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	assurance	NN
+gap	 	
+word	needing	WZPRES PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	met	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	proven	
+gap	, 	
+word	cost	NN
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	time	NN
+gap	 	
+word	management	NOMZ
+gap	 	
+word	improvements	NOMZ
+gap	. 	
+word	Future	JJ CAP
+gap	 	
+word	developments	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	adoptions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	effect	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	both	CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developed	
+gap	 	
+word	countries	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	. 	
+word	Adoption	NOMZ CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	The	ART CAP DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	information	NOMZ
+gap	 	
+word	technology	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	become	INF
+gap	 	
+word	very	AMP RB
+gap	 	
+word	important	JJ
+gap	. 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	meet	INF
+gap	 	
+word	common	JJ
+gap	 	
+word	needs	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	countries	NN
+gap	 	
+word	rural	JJ
+gap	 	
+word	communities	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	businesses	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	enhancing	PGAS
+gap	 	
+word	crop	NN
+gap	 	
+word	productivity	NOMZ
+gap	, 	
+word	efficient	JJ
+gap	 	
+word	cattle	NN
+gap	 	
+word	farm	NN
+gap	 	
+word	management	NOMZ
+gap	, 	
+word	providing	PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	national	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	household	NN
+gap	 	
+word	level	NN
+gap	 	
+word	food	NN
+gap	 	
+word	security	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	bio	NN
+gap	-	
+word	diversity	NOMZ
+gap	. '	
+word	These	DEMO CAP DET
+gap	 	
+word	governance	NN
+gap	 	
+word	products	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	services	NN
+gap	 	
+word	include	VPRT
+gap	: 	
+word	information	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	latest	JJ SPADJ
+gap	 	
+word	seed	NN
+gap	 	
+word	varieties	NN
+gap	, 	
+word	fertilizers	NN
+gap	, 	
+word	pesticides	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	rainfall	NN
+gap	 	
+word	prediction	NOMZ
+gap	; 	
+word	information	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	government	NOMZ
+gap	 	
+word	schemes	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	water	NN
+gap	 	
+word	resources	NN
+gap	 	
+word	management	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	subsidies	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	development	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	soil	NN
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	activities	NN
+gap	; 	
+word	information	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	local	JJ
+gap	 	
+word	agriculture	NN
+gap	 	
+word	offices	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	officers	NN
+gap	, 	
+word	crop	NN
+gap	 	
+word	testing	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	training	NN
+gap	 	
+word	centres	NN
+gap	; 	
+word	information	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	milk	NN
+gap	 	
+word	processing	GER
+gap	, 	
+word	grain	NN
+gap	 	
+word	storage	NN
+gap	, 	
+word	livestock	NN
+gap	 	
+word	vaccination	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	crop	NN
+gap	 	
+word	diseases	NN
+gap	; 	
+word	information	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	market	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	crops	NN
+gap	, 	
+word	rates	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	loans	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	available	JJ
+gap	 	
+word	credit	NN
+gap	 	
+word	facilities	NN
+gap	 (	
+word	digital	JJ
+gap	 	
+word	governance	NN
+gap	 2006). 	
+word	Many	QUAN JJ CAP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	small	JJ
+gap	 	
+word	family	NN
+gap	 	
+word	run	NN
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	whole	JJ
+gap	 	
+word	livelihoods	NN
+gap	 	
+word	rely	VPRT
+gap	, 	
+word	therefore	RB CONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	would	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	significant	JJ
+gap	 	
+word	impact	NN
+gap	. 	
+word	Better	JJ CAP CMADJ
+gap	 	
+word	predictions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	climatic	JJ
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	crop	NN
+gap	 	
+word	testing	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	likelihood	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	crop	NN
+gap	 	
+word	failure	NN
+gap	 	
+word	leading	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	famine	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	whole	JJ
+gap	 	
+word	country	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	crisis	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	off	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	countries	NN
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	money	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	needs	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	spent	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	providing	PGAS
+gap	 	
+word	facilities	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	knowledge	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	census	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	low	JJ PRED
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	facility	NOMZ
+gap	 	
+word	constraints	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wealthy	JJ
+gap	 	
+word	country	NN
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	even	RB
+gap	 	
+word	harder	JJ CMADJ
+gap	. 	
+word	Future	JJ CAP
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	countries	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Russia	CAP NNP
+gap	 	
+word	could	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	effect	NN
+gap	 	
+word	both	DET
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	JJ
+gap	 	
+word	enterprise	NN
+gap	 	
+word	level	NN
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	national	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	international	JJ
+gap	 	
+word	level	NN
+gap	. 	
+word	Currently	RB CAP
+gap	 	
+word	parts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Russia	CAP NNP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	lagging	PGAS
+gap	 	
+word	behind	RB PLACE
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	arable	JJ
+gap	 	
+word	production	NOMZ
+gap	, 	
+word	yet	CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	however	RB CONJ
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	high	JJ
+gap	 	
+word	yields	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	have	VPRT
+gap	 	
+word	very	AMP RB
+gap	 	
+word	large	JJ
+gap	 	
+word	cultivation	NOMZ
+gap	 	
+word	areas	NN
+gap	 	
+word	compared	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	future	JJ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	twenty	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	area	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	business	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	massive	JJ
+gap	 	
+word	effect	NN
+gap	. 	
+word	At	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	enterprise	NN
+gap	 	
+word	level	NN
+gap	 	
+word	farmers	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	become	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	efficient	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	monitoring	GER PGAS
+gap	 	
+word	inputs	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	outputs	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	farming	NN
+gap	, 	
+word	predicting	GER PUBV PGAS
+gap	 	
+word	climatic	JJ
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Internet	NN CAP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	effects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	could	POMD
+gap	 	
+word	mean	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	quantities	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	corn	NN
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	efficiently	RB
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	EU	CAP NNP
+gap	 	
+word	countries	NN
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	creating	PGAS
+gap	 	
+word	large	JJ
+gap	 	
+word	competition	NOMZ
+gap	. 	
+word	Adoption	NOMZ CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developed	
+gap	 	
+word	countries	NN
+gap	 	
+word	Within	PIN CAP PREP
+gap	 	
+word	developed	
+gap	 	
+word	countries	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	America	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	 	
+word	IT	CAP NNP
+gap	 	
+word	plays	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	vital	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	analysing	PGAS
+gap	 	
+word	performance	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	farming	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	shown	PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	uses	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	technology	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	monitor	INF
+gap	 	
+word	individual	JJ
+gap	 	
+word	field	NN
+gap	 	
+word	performance	NN
+gap	 	
+word	per	PIN PREP
+gap	 	
+word	square	JJ
+gap	 	
+word	metre	NN
+gap	 	
+word	compared	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	whole	JJ
+gap	 	
+word	farm	NN
+gap	 	
+word	monitoring	GER
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	broader	JJ CMADJ
+gap	 	
+word	scale	NN
+gap	. 	
+word	Computer	NN CAP
+gap	 	
+word	software	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	both	CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	tractor	NN
+gap	 	
+word	cab	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	user	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	office	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	farm	NN
+gap	 	
+word	manager	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	agronomist	NN
+gap	. 	
+word	IT	NN CAP
+gap	 	
+word	based	VBD
+gap	 	
+word	decision	NOMZ
+gap	 	
+word	support	NN
+gap	 	
+word	systems	NN
+gap	 (	
+word	DSS	CAP NNP
+gap	) 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	decision	NOMZ
+gap	 	
+word	making	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	what	WH
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	plant	INF
+gap	 	
+word	whilst	OSUB PIN SCONJ PREP
+gap	 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	environmental	JJ
+gap	 	
+word	impact	NN
+gap	, 	
+word	market	NN
+gap	 	
+word	access	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	industry	NN
+gap	 	
+word	standards	NN
+gap	. 	
+word	Yet	CAP CCONJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	high	JJ
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	costs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	current	JJ
+gap	 	
+word	low	JJ
+gap	 	
+word	prices	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	arable	JJ
+gap	 	
+word	crops	NN
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	limited	JJ
+gap	 	
+word	farms	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	can	POMD
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	economic	JJ
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	justifiable	JJ
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	adopted	
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	farming	NN
+gap	 	
+word	software	NN
+gap	. 	
+word	Uptake	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	countries	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	America	CAP NNP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	larger	JJ PRED CMADJ
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	scales	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	arable	JJ
+gap	 	
+word	production	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	further	JJ
+gap	 	
+word	adoptions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	place	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	NN
+gap	, 	
+word	companies	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	advance	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	produce	INF
+gap	 	
+word	software	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	suit	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	smaller	JJ CMADJ
+gap	 	
+word	scale	NN
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	. 	
+word	Other	JJ CAP
+gap	 	
+word	uses	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	become	
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	popular	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	diversification	NOMZ
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	farm	NN
+gap	 	
+word	shops	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Internet	NN CAP
+gap	 	
+word	businesses	NOMZ
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	rely	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	profitable	JJ PRED
+gap	. 	
+word	Further	JJ CAP
+gap	 	
+word	developments	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	livestock	NN
+gap	 	
+word	sector	NN
+gap	 	
+word	have	VPRT PEAS SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	occurred	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	NMR	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Farm	CAP NNP
+gap	 	
+word	Plan	CAP NNP
+gap	 	
+word	producing	WZPRES PGAS
+gap	 	
+word	programmes	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	aspect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	running	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	livestock	NN
+gap	 	
+word	business	NOMZ
+gap	, 	
+word	including	PGAS
+gap	 	
+word	herd	JJ
+gap	 	
+word	records	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	individual	JJ
+gap	 	
+word	animal	NN
+gap	 	
+word	performance	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	specialised	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	specific	JJ
+gap	 	
+word	needs	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fairly	RB
+gap	 	
+word	large	JJ
+gap	 	
+word	market	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	livestock	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	twenty	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	IT	NN CAP
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	play	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	food	NN
+gap	 	
+word	security	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	emerging	PGAS
+gap	 	
+word	consumer	NN
+gap	 	
+word	concerns	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	animal	NN
+gap	 	
+word	welfare	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	chicken	NN
+gap	 	
+word	flu	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	BSE	CAP NNP
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	become	INF
+gap	 	
+word	increasingly	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	monitor	INF
+gap	 	
+word	individual	JJ
+gap	 	
+word	cow	NN
+gap	 	
+word	performances	NN
+gap	 	
+word	especially	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	current	JJ
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	herd	NN
+gap	 	
+word	sizes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reducing	PGAS
+gap	 	
+word	labour	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	become	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	economical	JJ
+gap	. 	
+word	Other	JJ CAP
+gap	 	
+word	future	JJ
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	communications	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	. 	
+word	Defra	CAP NNP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	pushing	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 '	
+word	Whole	CAP NNP
+gap	 	
+word	Farm	CAP NNP
+gap	 	
+word	approach	NN
+gap	' 	
+word	web	NN
+gap	 	
+word	based	
+gap	 	
+word	system	NN
+gap	 	
+word	including	WZPRES PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	web	NN
+gap	 	
+word	portal	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	could	POMD
+gap	 	
+word	save	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	industry	NN
+gap	 £28 	
+word	million	NUM
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	year	NN
+gap	 (	
+word	Lord	CAP NNP
+gap	 	
+word	Bach	CAP NNP
+gap	 2005). 	
+word	This	DEMP CAP DET
+gap	 	
+word	will	PRMD
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	paper	NN
+gap	 	
+word	work	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	farmers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	people	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	industry	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	quicker	JJ CMADJ
+gap	 	
+word	transactions	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	effect	NN
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	enterprises	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	reduced	
+gap	 	
+word	confusion	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reduced	
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	inspections	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	. 	
+word	Conclusion	CAP NNP
+gap	 	
+word	The	ART CAP DET
+gap	 	
+word	uptake	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	remains	VPRT
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	businesses	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	due	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	size	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	sole	JJ
+gap	 	
+word	traders	NN
+gap	, 	
+word	education	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	cost	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	set	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	accessibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Internet	NN CAP
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	twenty	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	require	SUAV INF
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	areas	NN
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	low	JJ PRED
+gap	 	
+word	overall	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	uptake	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	arable	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	livestock	NN
+gap	 	
+word	sectors	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	economies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	scale	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	enterprises	NN
+gap	. 	
+word	Further	JJ CAP
+gap	 	
+word	adoptions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	sectors	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	take	INF
+gap	 	
+word	place	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	IT	PIT CAP PRP SBJP
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	suit	VPRT
+gap	 	
+word	smaller	JJ CMADJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	which	DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	currently	RB
+gap	 	
+word	available	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	large	JJ
+gap	. 	
+word	Uptake	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	less	JJ PRED CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	 	
+word	however	RB CONJ
+gap	 	
+word	uptake	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	rural	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	significantly	RB
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	all	QUAN RB
+gap	. 	
+word	Adoption	NOMZ CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IT	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	significant	JJ
+gap	 	
+word	effect	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	JJ
+gap	 	
+word	enterprise	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	household	NN
+gap	 	
+word	level	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	national	JJ
+gap	 	
+word	level	NN
+gap	, 	
+word	potentially	RB
+gap	 	
+word	reducing	PGAS
+gap	 	
+word	poverty	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	famine	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	unlikely	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	happen	INF
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	twenty	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	size	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	task	NN
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	requiring	SUAV PGAS
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	but	CCONJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	accessibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	facilities	NN
+gap	 	
+word	also	RB
+gap	. 	
+word	Any	QUAN CAP DET
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	positive	JJ
+gap	 	
+word	effect	NN
+gap	.	

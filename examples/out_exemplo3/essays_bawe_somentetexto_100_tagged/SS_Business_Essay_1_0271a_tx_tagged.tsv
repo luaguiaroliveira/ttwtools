@@ -1,1627 +1,2712 @@
 # filename: SS_Business_Essay_1_0271a_tx.txt
-token	tags
-Businesses	NOMZ CAP
-are	VPRT SPAU AUXB
-constantly	RB
-facing	PGAS
-the	ART DET
-dilemma	NN
-to	PIN TO PREP
-balance	INF
-between	PIN PREP
-the	ART DET
-two	NUM
-basic	JJ
-organizational	JJ
-objectives	NN
-.	
-One	CAP NUM
-is	BEMA VPRT AUXB
-the	ART DET
-need	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-flexible	JJ PRED
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-tackle	INF
-emergent	JJ
-changes	NN
-in	PIN CONJ PREP
-the	ART DET
-micro	JJ
-and	PHC CCONJ
-macro	JJ
-environment	NOMZ
-,	
-whilst	OSUB PIN SCONJ PREP
-the	ART DET
-other	JJ
-is	BEMA VPRT AUXB
-the	ART DET
-necessity	NOMZ
-to	PIN TO PREP
-implement	INF
-long	JJ
--	
-term	NN
-strategic	JJ
-direction	NOMZ
-.	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-discuss	INF
-whether	PIN SCONJ PREP
-increasing	GER PGAS
-short	JJ
--	
-term	NN
-flexibility	NOMZ
-or	CCONJ
-pursuing	PGAS
-a	ART DET INDA
-long	JJ
--	
-term	NN
-strategic	JJ
-plan	NN
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-fundamental	JJ
-.	
-Most	JJ EMPH CAP SPADJ
-businesses	NOMZ
-operate	VPRT
-alongside	PIN PLACE PREP
-a	ART DET INDA
-constantly	RB
-changing	PGAS
-internal	JJ
-and	PHC CCONJ
-external	JJ
-environment	NOMZ
-.	
-The	ART CAP DET
-internal	JJ
-(	
-or	CCONJ
-micro	JJ
-)	
-environment	NOMZ
-refers	VPRT
-to	PIN PREP
-the	ART DET
-infrastructure	NN
-of	PIN PREP
-a	ART DET INDA
-business	NOMZ
-and	CCONJ
-is	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-the	ART DET
-relationships	NN
-between	PIN PREP
-members	NN
-in	PIN CONJ PREP
-the	ART DET
-organization	NOMZ
-.	
-The	ART CAP DET
-external	JJ
-(	
-or	CCONJ
-macro	JJ
-)	
-environment	NOMZ
-,	
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-refers	VPRT
-to	PIN PREP
-the	ART DET
-market	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-the	ART DET
-business	NOMZ
-is	VPRT AUXB
-operating	PGAS
-in	PIN CONJ STPR PREP
-.	
-Although	CONC PIN CAP SCONJ PREP
-the	ART DET
-unpredictable	JJ
-environment	NOMZ
-directs	VPRT
-businesses	NOMZ
-to	PIN PREP
-numerous	JJ
-opportunities	NN
-,	
-it	PIT PRP SBJP
-also	RB
-generates	VPRT
-a	ART DET INDA
-high	JJ
-level	NN
-of	PIN PREP
-ambiguity	NOMZ
-and	PHC CCONJ
-insecurity	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-firm	NN
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-cope	INF
-with	PIN PREP
-these	DEMO DET
-changes	NN
-and	CCONJ
-to	PIN TO PREP
-sustain	INF
-competitiveness	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-,	
-businesses	NOMZ
-are	PASS VPRT AUXB
-required	SUAV
-to	PIN TO PREP
-develop	INF
-swift	JJ
-responses	NN
-to	PIN PREP
-internal	JJ
-and	PHC CCONJ
-external	JJ
-changes	NN
-.	
-Thus	RB CONJ CAP
-,	
-managers	NN
-are	PASS VPRT AUXB
-required	SUAV
-to	PIN TO PREP
-establish	PRIV INF
-the	ART DET
-maximum	JJ
-level	NN
-of	PIN PREP
-flexibility	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-short	JJ
--	
-term	NN
-to	PIN TO PREP
-accommodate	INF
-unexpected	JJ
-changes	NN
-.	
-However	RB CONJ CAP
-,	
-according	PGAS
-to	PIN PREP
-Robbins	CAP NNP
-,	
-businesses	NOMZ
-generally	RB
-adopt	VPRT
-strategies	NN
-to	PIN TO PREP
-plan	INF
-"	QUOT
-the	ART DET
-overall	JJ
-direction	NOMZ
-of	PIN PREP
-the	ART DET
-work	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-done	PROD
-"	QUOT
-,	
-which	SERE DET WH
-includes	VPRT
-"	QUOT
-forecasting	GER PUBV PGAS
-future	JJ
-trends	NN
-,	
-assessing	PGAS
-actual	JJ
-and	PHC CCONJ
-potential	JJ
-resources	NN
-and	CCONJ
-developing	GER PGAS
-objectives	NN
-and	PHC CCONJ
-targets	NN
-for	PIN PREP
-future	JJ
-performance	NN
-"	QUOT
-.	
-This	DEMP CAP DET
-reflects	VPRT PRIV
-a	ART DET INDA
-long	JJ
--	
-term	NN
-strategic	JJ
-approach	NN
-,	
-where	RB SCONJ WH
-businesses	NOMZ
-arrange	VPRT SUAV
-carefully	RB
-and	PHC CCONJ
-tactfully	RB
-for	PIN PREP
-organizational	JJ
-goals	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-achieved	
-over	PIN PREP
-at	RB PIN PREP
-least	JJ SPADJ
-ten	NUM
-years	NN
-time	NN
-.	
-These	DEMO CAP DET
-organizational	JJ
-goals	NN
-are	PASS VPRT SPAU AUXB
-often	RB
-concerned	
-with	PIN PREP
-establishing	GER PRIV PGAS
-clear	JJ
-internal	JJ
-policies	NN
-and	CCONJ
-handling	PGAS
-relations	NOMZ
-with	PIN PREP
-competing	PGAS
-firms	NN
-.	
-The	ART CAP DET
-managerial	JJ
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-long	JJ
-run	NN
-is	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-implementing	GER PGAS
-strategic	JJ
-plans	NN
-to	PIN TO PREP
-achieve	INF
-set	
-organizational	JJ
-targets	NN
-.	
-Freeman	CAP NNP
-,	
-J.	CAP NNP
-,	
-Croom	CAP NNP
-,	
-S.	CAP NNP
-,	
-Kotlarsky	CAP NNP
-,	
-J.	CAP NNP
-,	
-Dean	CAP NNP
-,	
-D.	CAP NNP
-and	PHC CCONJ
-Caldart	CAP NNP
-,	
-A.	NN CAP
-(	
-2005	NUM
-)	
-,	
-Business	CAP NNP
-and	PHC CCONJ
-Management	CAP NNP
-:	
-Selected	CAP
-Readings	NN CAP
-for	PIN PREP
-Non	CAP NNP
--	
-Business	CAP NNP
-Students	CAP NNP
-Volume	CAP NNP
-1	NUM
-,	
-Pearson	CAP NNP
-Education	CAP NNP
-Limited	CAP NNP
-,	
-United	CAP NNP
-Kingdom	CAP NNP
-,	
-p.14	NNP
-Ibid	CAP NNP
-.	
-p.14	NN
--	
-15	NUM
-Most	JJ EMPH CAP SPADJ
-business	NOMZ
-strategies	NN
-allow	VPRT SUAV
-short	JJ
--	
-term	NN
-elasticity	NOMZ
-and	CCONJ
-long	JJ
--	
-term	NN
-goals	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-achieved	
-simultaneously	RB TIME
-.	
-Studying	CAP PGAS
-models	NN
-of	PIN PREP
-management	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-Open	CAP NNP
-Systems	CAP NNP
-models	NN
-,	
-sheds	VPRT
-light	NN
-on	PIN PREP
-how	RB SCONJ WH
-short	JJ
--	
-term	NN
-flexibility	NOMZ
-and	CCONJ
-long	JJ
--	
-term	NN
-strategic	JJ
-plans	NN
-are	BEMA VPRT AUXB
-equally	RB
-important	JJ
-in	PIN CONJ PREP
-business	NOMZ
-strategies	NN
-.	
-Early	JJ TIME CAP
-theorists	NN
-assumed	VBD PRIV
-a	ART DET INDA
-business	NOMZ
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-closed	JJ
-system	NN
-,	
-and	ANDC CCONJ
-hence	RB CONJ
-,	
-focused	VBD
-on	PIN PREP
-the	ART DET
-inner	JJ
-arrangements	NOMZ
-of	PIN PREP
-a	ART DET INDA
-business	NOMZ
-such	JJ
-as	PIN CONJ PREP
-altering	PGAS
-policies	NN
-and	PHC CCONJ
-working	NN
-incentives	NN
-for	PIN PREP
-employees	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-Open	CAP NNP
-Systems	CAP NNP
-models	NN
-stress	VPRT
-on	PIN PREP
-the	ART DET
-view	NN
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-organizations	NOMZ
-depend	VPRT
-on	PIN PREP
-the	ART DET
-wider	JJ CMADJ
-environment	NOMZ
-for	PIN PREP
-different	JJ
-kinds	NN
-of	PIN PREP
-sustenance	NN
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-to	PIN TO PREP
-survive	INF
-and	PHC CCONJ
-prosper	INF
-"	QUOT
-.	
-The	ART CAP DET
-fundamental	JJ
-idea	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-organizations	NOMZ
-are	BEMA VPRT AUXB
-interdependent	JJ PRED
-.	
-Hence	RB CONJ CAP
-,	
-if	COND PIN SCONJ PREP
-an	ART DET INDA
-organization	NOMZ
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-respond	INF
-flexibly	RB
-and	PHC CCONJ
-acutely	RB
-to	PIN PREP
-changes	NN
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-surroundings	GER
-,	
-then	RB
-the	ART DET
-long	JJ
--	
-term	NN
-capacity	NOMZ
-of	PIN PREP
-the	ART DET
-organization	NOMZ
-should	NEMD
-,	
-in	PIN CONJ PREP
-theory	NN
-,	
-be	PASS AUXB INF
-amplified	
-as	RB CONJ
-well	RB
-.	
-Ibid	CAP INF
-.	
-p.60	NNP
-Ibid	CAP NNP
-.	
-p.57	NN
-Ibid	NN CAP
-.	
-p.59	NN
-Yet	CAP CCONJ
-the	ART DET
-constantly	RB
-changing	PGAS
-environment	NOMZ
-makes	VPRT
-it	PIT PRP SBJP
-difficult	JJ
-for	PIN PREP
-managers	NN
-to	PIN TO PREP
-motivate	INF
-employees	NN
-to	PIN TO PREP
-consider	PRIV INF
-both	DET
-short	JJ
--	
-term	NN
-and	CCONJ
-long	JJ
--	
-term	NN
-welfare	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-company	NN
-at	PIN PREP
-an	ART DET INDA
-equal	JJ
-standing	NN
-.	
-Some	QUAN CAP DET
-firms	NN
-tend	VPRT
-to	PIN TO PREP
-use	INF
-strategies	NN
-that	TSUB WHSUB WH
-consider	VPRT PRIV
-establishing	GER PRIV PGAS
-flexibility	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-short	JJ
--	
-term	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-of	PIN PREP
-greater	JJ CMADJ
-concern	NN
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-distinguishing	GER
-strategy	NN
-is	BEMA VPRT AUXB
-the	ART DET
-measurement	NOMZ
-and	PHC CCONJ
-reward	NN
-system	NN
-,	
-where	RB WHQU SCONJ WH
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-recognized	PRIV THATD
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-short	JJ
--	
-run	
-goals	NN
-will	PRMD
-prevail	INF
-"	QUOT
-.	
-Employees	NN CAP
-are	PASS VPRT SPAU AUXB
-frequently	RB
-motivated	
-to	PIN TO PREP
-compete	INF
-for	PIN PREP
-short	JJ
--	
-range	NN
-successes	NN
-such	JJ
-as	PIN CONJ PREP
-bonuses	NN
-and	PHC CCONJ
-promotions	NOMZ
-.	
-Although	CONC PIN CAP SCONJ PREP
-a	ART DET INDA
-well	RB
--	
-designed	
-rewards	NN
-system	NN
-will	PRMD
-motivate	INF
-employees	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-highly	AMP RB
-efficient	JJ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-assess	INF
-whether	PIN SCONJ PREP
-the	ART DET
-long	JJ
--	
-term	NN
-interests	NN
-of	PIN PREP
-the	ART DET
-firm	NN
-will	PRMD
-be	AUXB INF
-well	RB
--	
-maintained	PUBV
-.	
-The	ART CAP DET
-reason	PRIV NN
-is	BEMA VPRT AUXB
-because	CAUS PIN SCONJ PREP
-employees	NN
-are	PASS VPRT BYPA SPAU AUXB
-merely	DWNT RB
-driven	
-by	PIN PREP
-self	NN
--	
-interest	NN
-and	CCONJ
-short	JJ
--	
-term	NN
-successes	NN
-in	PIN CONJ PREP
-this	DEMO DET
-system	NN
-.	
-When	RB CAP SCONJ WH
-the	ART DET
-weight	NN
-is	BEMA VPRT AUXB
-on	PIN PREP
-strengthening	GER PGAS
-a	ART DET INDA
-business	NOMZ
-'	CONT QUOT
-flexibility	NOMZ
-to	PIN TO PREP
-address	INF
-emergent	JJ
-changes	NN
-,	
-long	JJ
--	
-term	NN
-strategic	JJ
-plans	NN
-can	POMD
-be	PASS SPAU AUXB INF
-easily	RB
-overlooked	
-.	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-long	JJ
--	
-term	NN
-direction	NOMZ
-is	BEMA VPRT AUXB
-only	DWNT RB
-dependent	JJ
-on	PIN PREP
-the	ART DET
-chief	JJ
-executive	JJ
-officer	NN
-and	CCONJ
-a	ART DET INDA
-few	QUAN JJ
-of	PIN PREP
-the	ART DET
-high	RB
--	
-ranking	PGAS
-managers	NN
-,	
-the	ART DET
-business	NOMZ
-becomes	VPRT
-more	RB EMPH CMADJ
-susceptible	JJ
-to	PIN PREP
-errors	NN
-in	PIN CONJ PREP
-judgment	NOMZ
-.	
-M.A.C.	CAP NNP
-/	
-Stonish	CAP NNP
-,	
-P.	CAP NNP
-J.	CAP NNP
-(	
-1982	NUM
-)	
-,	
-Implementing	GER CAP PGAS
-Strategy	NN CAP
-:	
-Making	CAP PGAS
-Strategy	CAP NNP
-Happen	CAP NNP
-,	
-Ballinger	CAP NNP
-Publisher	CAP NNP
-Company	CAP NNP
-,	
-United	CAP NNP
-States	PUBV CAP NNP
-of	PIN PREP
-America	CAP NNP
-,	
-p.134	NNP
-Ibid	CAP NNP
-.	
-p.134	X
-Alternatively	RB CONJ CAP
-,	
-businesses	NOMZ
-can	POMD
-place	INF
-emphasis	NN
-on	PIN PREP
-long	JJ
--	
-term	NN
-strategic	JJ
-performance	NN
-and	PHC CCONJ
-direction	NOMZ
-.	
-Pursuing	PRESP CAP PGAS
-a	ART DET INDA
-long	RB
--	
-run	NN
-perspective	NN
-is	BEMA VPRT AUXB
-crucial	JJ PRED
-to	PIN PREP
-a	ART DET INDA
-business	NOMZ
-'	CONT QUOT
-success	NN
-because	CAUS PIN SCONJ PREP
-every	QUAN DET
-business	NOMZ
-needs	VPRT
-a	ART DET INDA
-set	
-goal	NN
-to	PIN TO PREP
-work	INF
-towards	PIN STPR PREP
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-case	NN
-of	PIN PREP
-Chem	CAP NNP
--	
-Tec	CAP NNP
-Ltd	CAP NNP
-,	
-Bill	CAP NNP
-Johnson	CAP NNP
-has	VPRT PEAS
-encouraged	
-employees	NN
-to	PIN TO PREP
-take	INF
-on	PIN PREP
-larger	JJ CMADJ
-roles	NN
-for	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-.	
-Since	OSUB PIN CAP SCONJ PREP
-Johnson	CAP NNP
-'s	
-concept	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-develop	INF
-the	ART DET
-business	NOMZ
-strategy	NN
-of	PIN STPR PREP
-"	QUOT
-managing	PGAS
-others	NN
-at	PIN PREP
-the	ART DET
-same	JJ
-time	NN
-as	PIN CONJ PREP
-managing	PGAS
-themselves	TPP3 PRP SBJP ACCU
-"	QUOT
-,	
-he	TPP3 PRP SBJP
-taught	VBD
-employees	NN
-not	XX0 RB
-only	DWNT RB
-the	ART DET
-skills	NN
-,	
-but	CCONJ
-also	RB
-the	ART DET
-purpose	NN
-behind	PIN PLACE PREP
-the	ART DET
-work	NN
-involved	
-.	
-Johnson	CAP NNP
-eventually	RB TIME
-transferred	VBD
-his	TPP3 PRP SBJP
-managerial	JJ
-perspective	NN
-to	PIN PREP
-employees	NN
-in	PIN CONJ PREP
-Chem	CAP NNP
--	
-Tec	CAP NNP
-,	
-so	OSUB PIN SCONJ PREP
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-they	TPP3 PRP SBJP
-can	POMD SPAU
-now	RB TIME
-plan	INF
-production	NOMZ
-and	CCONJ
-raise	INF
-purchase	NN
-orders	SUAV NN
-"	QUOT
-independently	RB
-.	
-As	PIN CONJ CAP PREP
-Johnson	CAP NNP
-decentralizes	VPRT
-his	TPP3 PRP SBJP
-managerial	JJ
-responsibilities	NN
-,	
-Chem	CAP NNP
--	
-Tec	CAP NNP
-gains	VPRT
-flexibility	NOMZ
-because	CAUS PIN SCONJ PREP
-employees	NN
-are	VPRT AUXB
-no	RB
-longer	RB CMADJ
-entirely	AMP RB
-dependent	JJ
-on	PIN PREP
-the	ART DET
-manager	NN
-to	PIN TO PREP
-make	INF
-decisions	NOMZ
-.	
-Since	OSUB PIN CAP SCONJ PREP
-employees	NN
-are	BEMA VPRT AUXB
-aware	JJ PRED
-of	PIN PREP
-the	ART DET
-long	JJ
--	
-run	
-managerial	JJ
-perspective	NN
-,	
-they	TPP3 PRP SBJP
-will	PRMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-base	INF
-their	TPP3 PRP SBJP
-decisions	NOMZ
-on	PIN PREP
-the	ART DET
-long	JJ
--	
-term	NN
-welfare	NN
-of	PIN PREP
-Chem	CAP NNP
--	
-Tec	CAP NNP
-.	
-Hence	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-justifiable	JJ PRED
-to	PIN TO PREP
-propose	SUAV INF
-long	JJ
--	
-term	NN
-strategic	JJ
-plans	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-crucial	JJ
-.	
-Freeman	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-note	PRIV NN
-1	NUM
-,	
-p.5	NN
-,	
-p.11	NNP
-Freeman	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-note	PRIV NN
-1	NUM
-,	
-p.10	NNP
-Freeman	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-note	PRIV NN
-1	NUM
-,	
-p.11	NN
-The	ART CAP DET
-decentralization	NOMZ
-of	PIN PREP
-operations	NOMZ
-is	BEMA VPRT AUXB
-also	RB
-a	ART DET INDA
-situation	NOMZ
-where	RB WHOBJ SCONJ WH
-businesses	NOMZ
-face	VPRT
-the	ART DET
-dilemma	NN
-of	PIN PREP
-deciding	PRIV SUAV PGAS
-whether	PIN SCONJ PREP
-an	ART DET INDA
-emphasis	NN
-should	NEMD
-be	PASS AUXB INF
-placed	
-on	PIN PREP
-the	ART DET
-short	JJ
--	
-term	NN
-or	CCONJ
-the	ART DET
-long	JJ
--	
-term	NN
-.	
-Texas	CAP NNP
-Instruments	CAP NNP
-,	
-Inc.	CAP NNP
-decentralized	VBD
-their	TPP3 PRP SBJP
-operations	NOMZ
-as	PIN CONJ PREP
-its	PIT PRP SBJP
-business	NOMZ
-grew	VBD
-in	PIN CONJ PREP
-size	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-increase	INF
-the	ART DET
-level	NN
-of	PIN PREP
-flexibility	NOMZ
-and	PHC CCONJ
-efficiency	NN
-.	
-However	RB CONJ CAP
-,	
-managers	NN
-became	VBD
-concerned	JJ
-about	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-division	NOMZ
-"	QUOT
-would	PRMD
-become	INF
-short	JJ
--	
-term	NN
-oriented	
-and	PHC CCONJ
-fail	VPRT
-to	PIN TO PREP
-see	PRIV INF
-and	PHC CCONJ
-solve	INF
-problems	NN
-on	PIN PREP
-a	ART DET INDA
-scale	NN
-appropriate	JJ
-to	PIN PREP
-the	ART DET
-total	JJ
-organization	NOMZ
-"	QUOT
-.	
-Therefore	RB CONJ CAP
-,	
-Texas	CAP NNP
-Instruments	CAP NNP
-reinstated	VBD
-corporate	JJ
-values	NN
-into	PIN PREP
-the	ART DET
-entire	JJ
-operating	NN
-system	NN
-by	PIN PREP
-setting	PGAS
-corporate	JJ
-objectives	NN
-,	
-which	SERE DET WH
-acted	VBD
-as	PIN CONJ PREP
-guidelines	NN
-describing	GER WZPRES PGAS
-the	ART DET
-business	NOMZ
-'	CONT QUOT
-general	JJ
-direction	NOMZ
-.	
-The	ART CAP DET
-purpose	NN
-of	PIN PREP
-these	DEMO DET
-corporate	JJ
-objectives	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-satisfy	INF
-stakeholders	NN
-in	PIN CONJ PREP
-the	ART DET
-company	NN
-,	
-and	ANDC CCONJ
-to	PIN TO PREP
-create	INF
-a	ART DET INDA
-"	QUOT
-psychological	JJ
-rewards	NN
-"	QUOT
-system	NN
-for	PIN PREP
-motivating	GER PGAS
-employees	NN
-.	
-The	ART CAP DET
-decentralization	NOMZ
-provides	VPRT
-incentive	NN
-by	PIN PREP
-maintaining	GER PUBV PGAS
-a	ART DET INDA
-personal	JJ
-sense	PRIV NN
-of	PIN PREP
-identity	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-business	NOMZ
-,	
-whereas	OSUB PIN SCONJ PREP
-corporate	JJ
-objectives	NN
-reinforce	VPRT
-the	ART DET
-long	JJ
--	
-term	NN
-organizational	JJ
-target	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-business	NOMZ
-is	VPRT AUXB
-trying	PGAS
-to	PIN TO PREP
-achieve	INF
-.	
-The	ART CAP DET
-decentralization	NOMZ
-process	NN
-by	PIN PREP
-itself	PIT PRP SBJP ACCU
-will	PRMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-a	ART DET INDA
-successful	JJ
-business	NOMZ
-strategy	NN
-,	
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-lacks	VPRT
-a	ART DET INDA
-long	JJ
-run	
-corporate	JJ
-vision	NOMZ
-for	PIN PREP
-employees	NN
-to	PIN TO PREP
-follow	INF
-.	
-Quinn	CAP NNP
-,	
-J.	CAP NNP
-B.	CAP NNP
-(	
-1980	NUM
-)	
-,	
-Strategies	NN CAP
-for	PIN PREP
-Change	CAP NNP
-:	
-Logical	CAP NNP
-Incrementalism	CAP NNP
-,	
-Richard	CAP NNP
-D.	CAP NNP
-Irwin	CAP NNP
-,	
-Inc.	CAP NNP
-,	
-United	CAP NNP
-States	PUBV CAP NNP
-of	PIN PREP
-America	CAP NNP
-,	
-p.189	NUM
-Ibid	CAP NNP
-.	
-p.189	NUM
-Ibid	CAP NNP
-.	
-p.191	X
-Some	QUAN CAP DET
-businesses	NOMZ
-initially	RB TIME
-adopted	VBD
-long	JJ
--	
-term	NN
-strategies	NN
-that	TSUB WHSUB WH
-lean	VPRT
-towards	PIN PREP
-bureaucracy	NN
-and	PHC CCONJ
-control	NN
-,	
-but	CCONJ
-now	RB TIME
-,	
-have	VPRT PEAS
-changed	
-to	PIN TO PREP
-use	INF
-strategies	NN
-that	TSUB WHSUB WH
-stress	VPRT
-on	PIN PREP
-the	ART DET
-importance	NN
-of	PIN PREP
-flexibility	NOMZ
-and	PHC CCONJ
-change	NN
-.	
-British	CAP NNP
-Petroleum	CAP NNP
-Co	CAP NNP
-is	BEMA VPRT AUXB
-an	ART DET INDA
-established	PRIV
-business	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-oil	NN
-industry	NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-a	ART DET INDA
-culture	NN
-so	RB EMPH
-rigid	JJ
-and	ANDC CCONJ
-so	RB EMPH
-inflexible	JJ
-that	PIN STPR THAC SCONJ PREP
-"	QUOT
-financial	JJ
-proposals	NN
-required	VBD SUAV
-15	NUM
-signatures	NN
-before	PIN PREP
-they	TPP3 PRP SBJP
-could	POMD
-be	PASS AUXB INF
-accepted	PRIV
-"	QUOT
-.	
-When	RB CAP SCONJ WH
-new	JJ
-businesses	NOMZ
-entered	VBD
-into	PIN PREP
-the	ART DET
-market	NN
-,	
-British	CAP NNP
-Petroleum	CAP NNP
-was	BEMA VBD AUXB
-incapable	JJ PRED
-of	PIN PREP
-responding	GER PGAS
-to	PIN PREP
-the	ART DET
-increased	
-competition	NOMZ
-.	
-It	PIT CAP PRP SBJP
-was	VBD AUXB
-losing	PGAS
-their	TPP3 PRP SBJP
-monopoly	NN
-in	PIN CONJ PREP
-the	ART DET
-oil	NN
-industry	NN
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-stay	INF
-in	PIN CONJ PREP
-the	ART DET
-oil	NN
-industry	NN
-in	PIN CONJ PREP
-the	ART DET
-long	JJ
-run	NN
-,	
-British	CAP NNP
-Petroleum	CAP NNP
-had	VBD
-to	PIN TO PREP
-change	INF
-its	PIT PRP SBJP
-business	NOMZ
-policy	NN
-from	PIN PREP
-bureaucratic	JJ
-to	PIN PREP
-flexible	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-,	
-Robert	CAP NNP
-Horton	CAP NNP
-initiated	VBD
-significant	JJ
-change	NN
-in	PIN CONJ PREP
-British	CAP NNP
-Petroleum	CAP NNP
-'s	
-business	NOMZ
-policy	NN
-,	
-namely	RB CONJ
-'	CONT QUOT
-Project	NN CAP
-1990	NUM
-'	CONT QUOT
-,	
-and	ANDC CCONJ
-promoted	VBD
-the	ART DET
-corporate	JJ
-"	QUOT
-values	NN
-of	PIN PREP
-caring	NN
-,	
-trust	NN
-,	
-openness	NOMZ
-,	
-teamwork	NN
-,	
-and	ANDC CCONJ
-cooperation	NOMZ
-"	QUOT
-.	
-These	DEMO CAP DET
-new	JJ
-corporate	JJ
-values	NN
-encouraged	VBD
-the	ART DET
-company	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-flexible	JJ
-when	RB SCONJ WH
-addressing	GER PGAS
-unexpected	JJ
-changes	NN
-or	CCONJ
-events	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-ultimate	JJ
-concern	NN
-is	BEMA VPRT AUXB
-the	ART DET
-long	JJ
-run	
-position	NOMZ
-of	PIN PREP
-British	CAP NNP
-Petroleum	CAP NNP
-,	
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-argued	PUBV
-that	PIN THVC SCONJ PREP
-long	JJ
--	
-term	NN
-strategic	JJ
-plans	NN
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-critical	JJ
-.	
-The	ART CAP DET
-flexibility	NOMZ
-is	VPRT AUXB
-,	
-in	PIN CONJ PREP
-a	ART DET INDA
-sense	PRIV NN
-,	
-a	ART DET INDA
-means	PRIV NN
-,	
-whereas	OSUB PIN SCONJ PREP
-the	ART DET
-long	JJ
--	
-term	NN
-direction	NOMZ
-is	BEMA VPRT AUXB
-an	ART DET INDA
-end	NN
-.	
-The	ART CAP DET
-short	JJ
--	
-term	NN
-flexibility	NOMZ
-is	BEMA VPRT AUXB
-ultimately	RB
-a	ART DET INDA
-tool	NN
-used	WZPAST
-for	PIN PREP
-contouring	GER PGAS
-British	CAP NNP
-Petroleum	CAP NNP
-'s	
-,	
-or	CCONJ
-any	QUAN DET
-other	JJ
-business	NOMZ
-'	CONT QUOT
-organizational	JJ
-objectives	NN
-.	
-Freeman	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-note	PRIV NN
-1	NUM
-,	
-p.61	NNP
-Roberts	CAP NNP
-,	
-J.	CAP NNP
-(	
-2005	NUM
-)	
-,	
-"	QUOT
-Organizing	GER CAP PGAS
-for	PIN PREP
-Performance	NN CAP
-:	
-How	RB WHQU CAP SCONJ WH
-BP	CAP NNP
-Did	VBD PROD CAP
-It	PIT CAP PRP SBJP
-"	QUOT
-,	
-Date	CAP NNP
-Accessed	CAP NNP
-:	
-27	NUM
-November	CAP NNP
-2005	NUM
-,	
-Ibid	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-implementing	GER PGAS
-long	JJ
--	
-term	NN
-strategic	JJ
-plans	NN
-and	CCONJ
-achieving	PGAS
-short	JJ
--	
-term	NN
-flexibility	NOMZ
-are	VPRT AUXB
-two	NUM
-complementary	JJ
-attributes	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-the	ART DET
-long	JJ
--	
-term	NN
-direction	NOMZ
-in	PIN CONJ PREP
-a	ART DET INDA
-business	NOMZ
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-critical	JJ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-unattainable	JJ PRED
-if	COND PIN SCONJ PREP
-employees	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-motivated	JJ
-to	PIN TO PREP
-be	BEMA AUXB INF
-flexible	JJ PRED
-in	PIN CONJ PREP
-addressing	GER PGAS
-sudden	JJ
-changes	NN
-.	
-Business	NOMZ CAP
-managers	NN
-must	NEMD SPAU
-therefore	RB CONJ
-adopt	INF
-a	ART DET INDA
-structured	JJ
-approach	NN
-to	PIN PREP
-planning	PGAS
-business	NOMZ
-strategies	NN
-,	
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-long	JJ
--	
-term	NN
-strategic	JJ
-objectives	NN
-and	CCONJ
-the	ART DET
-events	NN
-that	TSUB WHSUB WH
-enhance	VPRT
-these	DEMO DET
-objectives	NN
-can	POMD
-be	PASS AUXB INF
-accomplished	
-simultaneously	RB TIME
-.	
+type	content	tags
+word	Businesses	NOMZ CAP
+gap	 	
+word	are	VPRT SPAU AUXB
+gap	 	
+word	constantly	RB
+gap	 	
+word	facing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	dilemma	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	balance	INF
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	basic	JJ
+gap	 	
+word	organizational	JJ
+gap	 	
+word	objectives	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	need	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	flexible	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tackle	INF
+gap	 	
+word	emergent	JJ
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	micro	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	macro	JJ
+gap	 	
+word	environment	NOMZ
+gap	, 	
+word	whilst	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	necessity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	implement	INF
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	strategic	JJ
+gap	 	
+word	direction	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	discuss	INF
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	flexibility	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	pursuing	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	strategic	JJ
+gap	 	
+word	plan	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	fundamental	JJ
+gap	. 	
+word	Most	JJ EMPH CAP SPADJ
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	operate	VPRT
+gap	 	
+word	alongside	PIN PLACE PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	constantly	RB
+gap	 	
+word	changing	PGAS
+gap	 	
+word	internal	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	external	JJ
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	internal	JJ
+gap	 (	
+word	or	CCONJ
+gap	 	
+word	micro	JJ
+gap	) 	
+word	environment	NOMZ
+gap	 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	infrastructure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	relationships	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	members	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	organization	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	external	JJ
+gap	 (	
+word	or	CCONJ
+gap	 	
+word	macro	JJ
+gap	) 	
+word	environment	NOMZ
+gap	, 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	business	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	operating	PGAS
+gap	 	
+word	in	PIN CONJ STPR PREP
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	unpredictable	JJ
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	directs	VPRT
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	numerous	JJ
+gap	 	
+word	opportunities	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	generates	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	ambiguity	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	insecurity	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	firm	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	cope	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	changes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	sustain	INF
+gap	 	
+word	competitiveness	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	, 	
+word	businesses	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	required	SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	swift	JJ
+gap	 	
+word	responses	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	internal	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	external	JJ
+gap	 	
+word	changes	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	managers	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	required	SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	establish	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	maximum	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flexibility	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	accommodate	INF
+gap	 	
+word	unexpected	JJ
+gap	 	
+word	changes	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Robbins	CAP NNP
+gap	, 	
+word	businesses	NOMZ
+gap	 	
+word	generally	RB
+gap	 	
+word	adopt	VPRT
+gap	 	
+word	strategies	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	plan	INF
+gap	 "	
+word	the	ART DET
+gap	 	
+word	overall	JJ
+gap	 	
+word	direction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	work	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	done	PROD
+gap	" , 	
+word	which	SERE DET WH
+gap	 	
+word	includes	VPRT
+gap	 "	
+word	forecasting	GER PUBV PGAS
+gap	 	
+word	future	JJ
+gap	 	
+word	trends	NN
+gap	, 	
+word	assessing	PGAS
+gap	 	
+word	actual	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	potential	JJ
+gap	 	
+word	resources	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	objectives	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	targets	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	future	JJ
+gap	 	
+word	performance	NN
+gap	" . 	
+word	This	DEMP CAP DET
+gap	 	
+word	reflects	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	strategic	JJ
+gap	 	
+word	approach	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	businesses	NOMZ
+gap	 	
+word	arrange	VPRT SUAV
+gap	 	
+word	carefully	RB
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	tactfully	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	organizational	JJ
+gap	 	
+word	goals	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	achieved	
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	least	JJ SPADJ
+gap	 	
+word	ten	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	time	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	organizational	JJ
+gap	 	
+word	goals	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	often	RB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	establishing	GER PRIV PGAS
+gap	 	
+word	clear	JJ
+gap	 	
+word	internal	JJ
+gap	 	
+word	policies	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	handling	PGAS
+gap	 	
+word	relations	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	competing	PGAS
+gap	 	
+word	firms	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	managerial	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	 	
+word	run	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	implementing	GER PGAS
+gap	 	
+word	strategic	JJ
+gap	 	
+word	plans	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	set	
+gap	 	
+word	organizational	JJ
+gap	 	
+word	targets	NN
+gap	. 	
+word	Freeman	CAP NNP
+gap	, 	
+word	J	CAP NNP
+gap	., 	
+word	Croom	CAP NNP
+gap	, 	
+word	S	CAP NNP
+gap	., 	
+word	Kotlarsky	CAP NNP
+gap	, 	
+word	J	CAP NNP
+gap	., 	
+word	Dean	CAP NNP
+gap	, 	
+word	D	CAP NNP
+gap	. 	
+word	and	PHC CCONJ
+gap	 	
+word	Caldart	CAP NNP
+gap	, 	
+word	A	NN CAP
+gap	. (2005), 	
+word	Business	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Management	CAP NNP
+gap	: 	
+word	Selected	CAP
+gap	 	
+word	Readings	NN CAP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	Non	CAP NNP
+gap	 - 	
+word	Business	CAP NNP
+gap	 	
+word	Students	CAP NNP
+gap	 	
+word	Volume	CAP NNP
+gap	 1 , 	
+word	Pearson	CAP NNP
+gap	 	
+word	Education	CAP NNP
+gap	 	
+word	Limited	CAP NNP
+gap	, 	
+word	United	CAP NNP
+gap	 	
+word	Kingdom	CAP NNP
+gap	, 	
+word	p	NNP
+gap	.14 	
+word	Ibid	CAP NNP
+gap	. 	
+word	p	NN
+gap	.14-15 	
+word	Most	JJ EMPH CAP SPADJ
+gap	 	
+word	business	NOMZ
+gap	 	
+word	strategies	NN
+gap	 	
+word	allow	VPRT SUAV
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	elasticity	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	goals	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	achieved	
+gap	 	
+word	simultaneously	RB TIME
+gap	. 	
+word	Studying	CAP PGAS
+gap	 	
+word	models	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	management	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Open	CAP NNP
+gap	 	
+word	Systems	CAP NNP
+gap	 	
+word	models	NN
+gap	, 	
+word	sheds	VPRT
+gap	 	
+word	light	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	flexibility	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	strategic	JJ
+gap	 	
+word	plans	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	equally	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	business	NOMZ
+gap	 	
+word	strategies	NN
+gap	. 	
+word	Early	JJ TIME CAP
+gap	 	
+word	theorists	NN
+gap	 	
+word	assumed	VBD PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	closed	JJ
+gap	 	
+word	system	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	hence	RB CONJ
+gap	, 	
+word	focused	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	inner	JJ
+gap	 	
+word	arrangements	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	altering	PGAS
+gap	 	
+word	policies	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	working	NN
+gap	 	
+word	incentives	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	employees	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Open	CAP NNP
+gap	 	
+word	Systems	CAP NNP
+gap	 	
+word	models	NN
+gap	 	
+word	stress	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	view	NN
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 "	
+word	organizations	NOMZ
+gap	 	
+word	depend	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	wider	JJ CMADJ
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	kinds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sustenance	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	survive	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	prosper	INF
+gap	" . 	
+word	The	ART CAP DET
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	idea	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	organizations	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	interdependent	JJ PRED
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	organization	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	respond	INF
+gap	 	
+word	flexibly	RB
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	acutely	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	surroundings	GER
+gap	, 	
+word	then	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	organization	NOMZ
+gap	 	
+word	should	NEMD
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	theory	NN
+gap	, 	
+word	be	PASS AUXB INF
+gap	 	
+word	amplified	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	. 	
+word	Ibid	CAP INF
+gap	. 	
+word	p	NNP
+gap	.60 	
+word	Ibid	CAP NNP
+gap	. 	
+word	p	NN
+gap	.57 	
+word	Ibid	NN CAP
+gap	. 	
+word	p	NN
+gap	.59 	
+word	Yet	CAP CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	constantly	RB
+gap	 	
+word	changing	PGAS
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	makes	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	difficult	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	managers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	motivate	INF
+gap	 	
+word	employees	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	both	DET
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	welfare	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	company	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	equal	JJ
+gap	 	
+word	standing	NN
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	firms	NN
+gap	 	
+word	tend	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	strategies	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	consider	VPRT PRIV
+gap	 	
+word	establishing	GER PRIV PGAS
+gap	 	
+word	flexibility	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	concern	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	distinguishing	GER
+gap	 	
+word	strategy	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	measurement	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	reward	NN
+gap	 	
+word	system	NN
+gap	, 	
+word	where	RB WHQU SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	recognized	PRIV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 "	
+word	short	JJ
+gap	-	
+word	run	
+gap	 	
+word	goals	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	prevail	INF
+gap	" . 	
+word	Employees	NN CAP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	frequently	RB
+gap	 	
+word	motivated	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	compete	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	short	JJ
+gap	-	
+word	range	NN
+gap	 	
+word	successes	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	bonuses	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	promotions	NOMZ
+gap	 . 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	well	RB
+gap	-	
+word	designed	
+gap	 	
+word	rewards	NN
+gap	 	
+word	system	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	motivate	INF
+gap	 	
+word	employees	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	efficient	JJ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	assess	INF
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	interests	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	firm	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	well	RB
+gap	-	
+word	maintained	PUBV
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	employees	NN
+gap	 	
+word	are	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	merely	DWNT RB
+gap	 	
+word	driven	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	self	NN
+gap	-	
+word	interest	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	short	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	successes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	system	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	weight	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	strengthening	GER PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	' 	
+word	flexibility	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	address	INF
+gap	 	
+word	emergent	JJ
+gap	 	
+word	changes	NN
+gap	, 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	strategic	JJ
+gap	 	
+word	plans	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	easily	RB
+gap	 	
+word	overlooked	
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	direction	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	dependent	JJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chief	JJ
+gap	 	
+word	executive	JJ
+gap	 	
+word	officer	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	high	RB
+gap	-	
+word	ranking	PGAS
+gap	 	
+word	managers	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	business	NOMZ
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	susceptible	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	errors	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	judgment	NOMZ
+gap	. 	
+word	M	
+gap	.	
+word	A	
+gap	.	
+word	C	
+gap	. / 	
+word	Stonish	
+gap	, 	
+word	P	
+gap	. 	
+word	J	
+gap	. (1982), 	
+word	Implementing	
+gap	 	
+word	Strategy	CAP NNP
+gap	: 	
+word	Making	
+gap	 	
+word	Strategy	
+gap	 	
+word	Happen	
+gap	, 	
+word	Ballinger	
+gap	 	
+word	Publisher	
+gap	 	
+word	Company	
+gap	, 	
+word	United	
+gap	 	
+word	States	
+gap	 	
+word	of	
+gap	 	
+word	America	
+gap	, 	
+word	p	X
+gap	.134 	
+word	Ibid	
+gap	. 	
+word	p	
+gap	.134 	
+word	Alternatively	
+gap	, 	
+word	businesses	
+gap	 	
+word	can	
+gap	 	
+word	place	
+gap	 	
+word	emphasis	
+gap	 	
+word	on	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	strategic	
+gap	 	
+word	performance	
+gap	 	
+word	and	
+gap	 	
+word	direction	
+gap	. 	
+word	Pursuing	
+gap	 	
+word	a	
+gap	 	
+word	long	
+gap	-	
+word	run	
+gap	 	
+word	perspective	
+gap	 	
+word	is	
+gap	 	
+word	crucial	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	business	
+gap	' 	
+word	success	
+gap	 	
+word	because	
+gap	 	
+word	every	
+gap	 	
+word	business	
+gap	 	
+word	needs	
+gap	 	
+word	a	
+gap	 	
+word	set	
+gap	 	
+word	goal	
+gap	 	
+word	to	
+gap	 	
+word	work	
+gap	 	
+word	towards	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	of	
+gap	 	
+word	Chem	
+gap	-	
+word	Tec	
+gap	 	
+word	Ltd	
+gap	, 	
+word	Bill	
+gap	 	
+word	Johnson	
+gap	 	
+word	has	
+gap	 	
+word	encouraged	
+gap	 	
+word	employees	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	on	
+gap	 	
+word	larger	
+gap	 	
+word	roles	
+gap	 	
+word	for	
+gap	 	
+word	themselves	
+gap	 . 	
+word	Since	
+gap	 	
+word	Johnson	
+gap	'	
+word	s	
+gap	 	
+word	concept	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	develop	
+gap	 	
+word	the	
+gap	 	
+word	business	
+gap	 	
+word	strategy	
+gap	 	
+word	of	
+gap	 "	
+word	managing	
+gap	 	
+word	others	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	time	
+gap	 	
+word	as	
+gap	 	
+word	managing	
+gap	 	
+word	themselves	
+gap	" , 	
+word	he	
+gap	 	
+word	taught	
+gap	 	
+word	employees	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	the	
+gap	 	
+word	skills	
+gap	, 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	the	
+gap	 	
+word	purpose	
+gap	 	
+word	behind	
+gap	 	
+word	the	
+gap	 	
+word	work	
+gap	 	
+word	involved	
+gap	. 	
+word	Johnson	
+gap	 	
+word	eventually	
+gap	 	
+word	transferred	
+gap	 	
+word	his	
+gap	 	
+word	managerial	
+gap	 	
+word	perspective	
+gap	 	
+word	to	
+gap	 	
+word	employees	
+gap	 	
+word	in	
+gap	 	
+word	Chem	
+gap	-	
+word	Tec	
+gap	, 	
+word	so	
+gap	 	
+word	that	
+gap	 "	
+word	they	
+gap	 	
+word	can	
+gap	 	
+word	now	
+gap	 	
+word	plan	
+gap	 	
+word	production	
+gap	 	
+word	and	
+gap	 	
+word	raise	
+gap	 	
+word	purchase	
+gap	 	
+word	orders	
+gap	" 	
+word	independently	
+gap	. 	
+word	As	
+gap	 	
+word	Johnson	
+gap	 	
+word	decentralizes	
+gap	 	
+word	his	
+gap	 	
+word	managerial	
+gap	 	
+word	responsibilities	
+gap	, 	
+word	Chem	
+gap	-	
+word	Tec	
+gap	 	
+word	gains	
+gap	 	
+word	flexibility	
+gap	 	
+word	because	
+gap	 	
+word	employees	
+gap	 	
+word	are	
+gap	 	
+word	no	
+gap	 	
+word	longer	
+gap	 	
+word	entirely	
+gap	 	
+word	dependent	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	manager	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	decisions	
+gap	. 	
+word	Since	
+gap	 	
+word	employees	
+gap	 	
+word	are	
+gap	 	
+word	aware	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	-	
+word	run	
+gap	 	
+word	managerial	
+gap	 	
+word	perspective	
+gap	, 	
+word	they	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	base	
+gap	 	
+word	their	
+gap	 	
+word	decisions	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	welfare	
+gap	 	
+word	of	
+gap	 	
+word	Chem	
+gap	-	
+word	Tec	
+gap	. 	
+word	Hence	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	justifiable	
+gap	 	
+word	to	
+gap	 	
+word	propose	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	strategic	
+gap	 	
+word	plans	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	crucial	
+gap	. 	
+word	Freeman	
+gap	, 	
+word	op	
+gap	. 	
+word	cit	
+gap	. 	
+word	note	
+gap	 1, 	
+word	p	
+gap	.5, 	
+word	p	
+gap	.11 	
+word	Freeman	
+gap	, 	
+word	op	
+gap	. 	
+word	cit	
+gap	. 	
+word	note	
+gap	 1, 	
+word	p	
+gap	.10 	
+word	Freeman	
+gap	, 	
+word	op	
+gap	. 	
+word	cit	
+gap	. 	
+word	note	
+gap	 1, 	
+word	p	
+gap	.11 	
+word	The	
+gap	 	
+word	decentralization	
+gap	 	
+word	of	
+gap	 	
+word	operations	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	a	
+gap	 	
+word	situation	
+gap	 	
+word	where	
+gap	 	
+word	businesses	
+gap	 	
+word	face	
+gap	 	
+word	the	
+gap	 	
+word	dilemma	
+gap	 	
+word	of	
+gap	 	
+word	deciding	
+gap	 	
+word	whether	
+gap	 	
+word	an	
+gap	 	
+word	emphasis	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	placed	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	short	
+gap	-	
+word	term	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	. 	
+word	Texas	
+gap	 	
+word	Instruments	
+gap	, 	
+word	Inc	
+gap	. 	
+word	decentralized	
+gap	 	
+word	their	
+gap	 	
+word	operations	
+gap	 	
+word	as	
+gap	 	
+word	its	
+gap	 	
+word	business	
+gap	 	
+word	grew	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	size	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	flexibility	
+gap	 	
+word	and	
+gap	 	
+word	efficiency	
+gap	 . 	
+word	However	
+gap	, 	
+word	managers	
+gap	 	
+word	became	
+gap	 	
+word	concerned	
+gap	 	
+word	about	
+gap	 	
+word	how	
+gap	 	
+word	the	
+gap	 	
+word	division	
+gap	 "	
+word	would	
+gap	 	
+word	become	
+gap	 	
+word	short	
+gap	-	
+word	term	
+gap	 	
+word	oriented	
+gap	 	
+word	and	
+gap	 	
+word	fail	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	and	
+gap	 	
+word	solve	
+gap	 	
+word	problems	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	scale	
+gap	 	
+word	appropriate	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	total	
+gap	 	
+word	organization	
+gap	" . 	
+word	Therefore	
+gap	, 	
+word	Texas	
+gap	 	
+word	Instruments	
+gap	 	
+word	reinstated	
+gap	 	
+word	corporate	
+gap	 	
+word	values	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	entire	
+gap	 	
+word	operating	
+gap	 	
+word	system	
+gap	 	
+word	by	
+gap	 	
+word	setting	
+gap	 	
+word	corporate	
+gap	 	
+word	objectives	
+gap	, 	
+word	which	
+gap	 	
+word	acted	
+gap	 	
+word	as	
+gap	 	
+word	guidelines	
+gap	 	
+word	describing	
+gap	 	
+word	the	
+gap	 	
+word	business	
+gap	' 	
+word	general	
+gap	 	
+word	direction	
+gap	. 	
+word	The	
+gap	 	
+word	purpose	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	corporate	
+gap	 	
+word	objectives	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	satisfy	
+gap	 	
+word	stakeholders	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	, 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	create	
+gap	 	
+word	a	
+gap	 "	
+word	psychological	
+gap	 	
+word	rewards	
+gap	" 	
+word	system	
+gap	 	
+word	for	
+gap	 	
+word	motivating	
+gap	 	
+word	employees	
+gap	. 	
+word	The	
+gap	 	
+word	decentralization	
+gap	 	
+word	provides	
+gap	 	
+word	incentive	
+gap	 	
+word	by	
+gap	 	
+word	maintaining	
+gap	 	
+word	a	
+gap	 	
+word	personal	
+gap	 	
+word	sense	
+gap	 	
+word	of	
+gap	 	
+word	identity	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	business	
+gap	, 	
+word	whereas	
+gap	 	
+word	corporate	
+gap	 	
+word	objectives	
+gap	 	
+word	reinforce	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	organizational	
+gap	 	
+word	target	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	business	
+gap	 	
+word	is	
+gap	 	
+word	trying	
+gap	 	
+word	to	
+gap	 	
+word	achieve	
+gap	. 	
+word	The	
+gap	 	
+word	decentralization	
+gap	 	
+word	process	
+gap	 	
+word	by	
+gap	 	
+word	itself	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	successful	
+gap	 	
+word	business	
+gap	 	
+word	strategy	
+gap	, 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	lacks	
+gap	 	
+word	a	
+gap	 	
+word	long	
+gap	 	
+word	run	
+gap	 	
+word	corporate	
+gap	 	
+word	vision	
+gap	 	
+word	for	
+gap	 	
+word	employees	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	. 	
+word	Quinn	
+gap	, 	
+word	J	
+gap	. 	
+word	B	
+gap	. (1980), 	
+word	Strategies	
+gap	 	
+word	for	
+gap	 	
+word	Change	
+gap	: 	
+word	Logical	
+gap	 	
+word	Incrementalism	
+gap	 , 	
+word	Richard	
+gap	 	
+word	D	
+gap	. 	
+word	Irwin	
+gap	, 	
+word	Inc	
+gap	., 	
+word	United	
+gap	 	
+word	States	
+gap	 	
+word	of	
+gap	 	
+word	America	
+gap	, 	
+word	p	NUM
+gap	.189 	
+word	Ibid	CAP NNP
+gap	. 	
+word	p	X
+gap	.189 	
+word	Ibid	
+gap	. 	
+word	p	
+gap	.191 	
+word	Some	
+gap	 	
+word	businesses	
+gap	 	
+word	initially	
+gap	 	
+word	adopted	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	strategies	
+gap	 	
+word	that	
+gap	 	
+word	lean	
+gap	 	
+word	towards	
+gap	 	
+word	bureaucracy	
+gap	 	
+word	and	
+gap	 	
+word	control	
+gap	, 	
+word	but	
+gap	 	
+word	now	
+gap	, 	
+word	have	
+gap	 	
+word	changed	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	strategies	
+gap	 	
+word	that	
+gap	 	
+word	stress	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	importance	
+gap	 	
+word	of	
+gap	 	
+word	flexibility	
+gap	 	
+word	and	
+gap	 	
+word	change	
+gap	 . 	
+word	British	
+gap	 	
+word	Petroleum	
+gap	 	
+word	Co	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	established	
+gap	 	
+word	business	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	oil	
+gap	 	
+word	industry	
+gap	, 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	culture	
+gap	 	
+word	so	
+gap	 	
+word	rigid	
+gap	 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	inflexible	
+gap	 	
+word	that	
+gap	 "	
+word	financial	
+gap	 	
+word	proposals	
+gap	 	
+word	required	
+gap	 15 	
+word	signatures	
+gap	 	
+word	before	
+gap	 	
+word	they	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	accepted	
+gap	" . 	
+word	When	
+gap	 	
+word	new	
+gap	 	
+word	businesses	
+gap	 	
+word	entered	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	market	
+gap	, 	
+word	British	
+gap	 	
+word	Petroleum	
+gap	 	
+word	was	
+gap	 	
+word	incapable	
+gap	 	
+word	of	
+gap	 	
+word	responding	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	increased	
+gap	 	
+word	competition	
+gap	. 	
+word	It	
+gap	 	
+word	was	
+gap	 	
+word	losing	
+gap	 	
+word	their	
+gap	 	
+word	monopoly	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	oil	
+gap	 	
+word	industry	
+gap	. 	
+word	In	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	stay	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	oil	
+gap	 	
+word	industry	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	 	
+word	run	
+gap	, 	
+word	British	
+gap	 	
+word	Petroleum	
+gap	 	
+word	had	
+gap	 	
+word	to	
+gap	 	
+word	change	
+gap	 	
+word	its	
+gap	 	
+word	business	
+gap	 	
+word	policy	
+gap	 	
+word	from	
+gap	 	
+word	bureaucratic	
+gap	 	
+word	to	
+gap	 	
+word	flexible	
+gap	. 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	, 	
+word	Robert	
+gap	 	
+word	Horton	
+gap	 	
+word	initiated	
+gap	 	
+word	significant	
+gap	 	
+word	change	
+gap	 	
+word	in	
+gap	 	
+word	British	
+gap	 	
+word	Petroleum	
+gap	'	
+word	s	
+gap	 	
+word	business	
+gap	 	
+word	policy	
+gap	, 	
+word	namely	
+gap	 '	
+word	Project	
+gap	 1990', 	
+word	and	
+gap	 	
+word	promoted	
+gap	 	
+word	the	
+gap	 	
+word	corporate	
+gap	 "	
+word	values	
+gap	 	
+word	of	
+gap	 	
+word	caring	
+gap	, 	
+word	trust	
+gap	, 	
+word	openness	
+gap	, 	
+word	teamwork	
+gap	, 	
+word	and	
+gap	 	
+word	cooperation	
+gap	" . 	
+word	These	
+gap	 	
+word	new	
+gap	 	
+word	corporate	
+gap	 	
+word	values	
+gap	 	
+word	encouraged	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	flexible	
+gap	 	
+word	when	
+gap	 	
+word	addressing	
+gap	 	
+word	unexpected	
+gap	 	
+word	changes	
+gap	 	
+word	or	
+gap	 	
+word	events	
+gap	. 	
+word	Since	
+gap	 	
+word	the	
+gap	 	
+word	ultimate	
+gap	 	
+word	concern	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	 	
+word	run	
+gap	 	
+word	position	
+gap	 	
+word	of	
+gap	 	
+word	British	
+gap	 	
+word	Petroleum	
+gap	, 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	argued	
+gap	 	
+word	that	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	strategic	
+gap	 	
+word	plans	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	critical	
+gap	. 	
+word	The	
+gap	 	
+word	flexibility	
+gap	 	
+word	is	
+gap	, 	
+word	in	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	sense	
+gap	, 	
+word	a	
+gap	 	
+word	means	
+gap	, 	
+word	whereas	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	direction	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	end	
+gap	. 	
+word	The	
+gap	 	
+word	short	
+gap	-	
+word	term	
+gap	 	
+word	flexibility	
+gap	 	
+word	is	
+gap	 	
+word	ultimately	
+gap	 	
+word	a	
+gap	 	
+word	tool	
+gap	 	
+word	used	
+gap	 	
+word	for	
+gap	 	
+word	contouring	
+gap	 	
+word	British	
+gap	 	
+word	Petroleum	
+gap	'	
+word	s	
+gap	, 	
+word	or	
+gap	 	
+word	any	
+gap	 	
+word	other	
+gap	 	
+word	business	
+gap	' 	
+word	organizational	
+gap	 	
+word	objectives	
+gap	. 	
+word	Freeman	
+gap	, 	
+word	op	
+gap	. 	
+word	cit	
+gap	. 	
+word	note	
+gap	 1, 	
+word	p	
+gap	.61 	
+word	Roberts	
+gap	, 	
+word	J	
+gap	. (2005), "	
+word	Organizing	
+gap	 	
+word	for	
+gap	 	
+word	Performance	
+gap	: 	
+word	How	
+gap	 	
+word	BP	
+gap	 	
+word	Did	
+gap	 	
+word	It	
+gap	", 	
+word	Date	
+gap	 	
+word	Accessed	
+gap	: 27 	
+word	November	
+gap	 2005, 	
+word	Ibid	
+gap	. 	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	implementing	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	strategic	
+gap	 	
+word	plans	
+gap	 	
+word	and	
+gap	 	
+word	achieving	
+gap	 	
+word	short	
+gap	-	
+word	term	
+gap	 	
+word	flexibility	
+gap	 	
+word	are	
+gap	 	
+word	two	
+gap	 	
+word	complementary	
+gap	 	
+word	attributes	
+gap	. 	
+word	Although	
+gap	 	
+word	the	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	direction	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	business	
+gap	 	
+word	is	
+gap	 	
+word	more	
+gap	 	
+word	critical	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	unattainable	
+gap	 	
+word	if	
+gap	 	
+word	employees	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	motivated	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	flexible	
+gap	 	
+word	in	
+gap	 	
+word	addressing	
+gap	 	
+word	sudden	
+gap	 	
+word	changes	
+gap	. 	
+word	Business	
+gap	 	
+word	managers	
+gap	 	
+word	must	
+gap	 	
+word	therefore	
+gap	 	
+word	adopt	
+gap	 	
+word	a	
+gap	 	
+word	structured	
+gap	 	
+word	approach	
+gap	 	
+word	to	
+gap	 	
+word	planning	
+gap	 	
+word	business	
+gap	 	
+word	strategies	
+gap	, 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	long	
+gap	-	
+word	term	
+gap	 	
+word	strategic	
+gap	 	
+word	objectives	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	events	
+gap	 	
+word	that	
+gap	 	
+word	enhance	
+gap	 	
+word	these	
+gap	 	
+word	objectives	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	accomplished	
+gap	 	
+word	simultaneously	
+gap	.	

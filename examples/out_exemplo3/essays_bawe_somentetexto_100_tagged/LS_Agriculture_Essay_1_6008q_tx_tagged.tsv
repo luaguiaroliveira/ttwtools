@@ -1,1151 +1,2078 @@
 # filename: LS_Agriculture_Essay_1_6008q_tx.txt
-token	tags
-Perfect	JJ CAP
-competition	NOMZ
-arises	VPRT
-when	RB SCONJ WH
-1	NUM
-.	NUM
-)	
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-firms	NN
-,	
-each	QUAN DET
-selling	PGAS
-an	ART DET INDA
-identical	JJ
-product	NN
-2	NUM
-.	
-)	
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-buyers	NN
-3	NUM
-.	
-)	
-there	EX
-are	VPRT AUXB
-no	SYNE DET
-restrictions	NOMZ
-on	PIN PREP
-entry	NN
-into	PIN PREP
-the	ART DET
-industry	NN
-4	NUM
-.	
-)	
-firms	NN
-and	PHC CCONJ
-buyers	NN
-are	PASS VPRT SPAU AUXB
-completely	AMP RB
-informed	
-about	PIN PREP
-the	ART DET
-prices	NN
-of	PIN PREP
-the	ART DET
-products	NN
-of	PIN PREP
-each	QUAN DET
-firm	NN
-in	PIN CONJ PREP
-the	ART DET
-industry	NN
-Monopoly	CAP NNP
-arises	VPRT
-when	RB SCONJ WH
-there	EX
-is	VPRT AUXB
-only	DWNT RB
-one	NUM
-firm	NN
-and	ANDC CCONJ
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-close	JJ
-substitute	NN
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-buyers	NN
-there	EX
-are	VPRT AUXB
-barriers	NN
-to	PIN PREP
-entry	NN
-incomplete	JJ
-information	NOMZ
-Firms	NN CAP
-in	PIN CONJ PREP
-perfect	JJ
-competition	NOMZ
-are	PASS VPRT AUXB
-said	PUBV
-to	PIN TO PREP
-be	AUXB INF
-price	NN
-takers	NN
-,	
-i.e.	CONJ X
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-influence	INF
-the	ART DET
-price	NN
-of	PIN PREP
-a	ART DET INDA
-good	JJ
-or	CCONJ
-service	NN
-.	
-Perfectly	AMP RB CAP
-competitive	JJ
-firms	NN
-are	VPRT AUXB
-price	NN
-takers	NN
-because	CAUS PIN SCONJ PREP
-each	QUAN DET
-firm	NN
-produces	VPRT
-a	ART DET INDA
-tiny	JJ
-fraction	NOMZ
-of	PIN PREP
-the	ART DET
-total	JJ
-output	NN
-of	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-good	NN
-and	PHC CCONJ
-buyers	NN
-are	BEMA VPRT AUXB
-well	RB
-informed	JJ
-about	PIN PREP
-the	ART DET
-prices	NN
-of	PIN PREP
-other	JJ
-firms	NN
-.	
-However	RB CONJ CAP
-,	
-monopolies	NN
-can	POMD
-charge	INF
-whatever	DET WH
-they	TPP3 PRP SBJP
-like	VPRT
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-the	ART DET
-only	JJ DWNT
-firm	NN
-which	WHSUB DET WH
-provides	VPRT
-that	PIN DEMO SCONJ PREP
-good	JJ
-or	CCONJ
-service	NN
-.	
-In	PIN CONJ CAP PREP
-perfect	JJ
-competition	NOMZ
-,	
-price	NN
-is	BEMA VPRT AUXB
-independent	JJ PRED
-of	PIN PREP
-the	ART DET
-quantity	NOMZ
-sold	
-and	ANDC CCONJ
-so	RB
-the	ART DET
-change	NN
-in	PIN CONJ PREP
-total	JJ
-revenue	NN
-resulting	WZPRES PGAS
-from	PIN PREP
-a	ART DET INDA
-one	NUM
--	
-unit	NN
-increase	NN
-in	PIN CONJ PREP
-the	ART DET
-quantity	NOMZ
-sold	
-equals	VPRT
-price	NN
-.	
-Therefore	RB CONJ CAP
-marginal	JJ
-revenue	NN
-equals	VPRT
-price	NN
-and	CCONJ
-marginal	JJ
-revenue	NN
-does	VPRT SPAU
-not	XX0 RB
-vary	INF
-with	PIN PREP
-quantity	NOMZ
-.	
-Also	RB CAP
-,	
-the	ART DET
-demand	SUAV NN
-curve	NN
-for	PIN PREP
-individual	JJ
-firm	NN
-is	BEMA VPRT AUXB
-horizontal	JJ PRED
-,	
-i.e.	CONJ X
-perfectly	AMP RB
-elastic	JJ
-,	
-as	PIN CONJ PREP
-the	ART DET
-firm	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-price	NN
-taker	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-market	NN
-demand	SUAV NN
-curve	NN
-for	PIN PREP
-the	ART DET
-entire	JJ
-industry	NN
-is	BEMA VPRT AUXB
-downward	JJ
-slopping	NN
-.	
-The	ART CAP DET
-monopoly	NN
-faces	VPRT
-the	ART DET
-downward	JJ
-slopping	NN
-demand	SUAV NN
-curve	NN
-too	RB
-.	
-This	DEMP CAP DET
-means	VPRT PRIV
-price	NN
-changes	NN
-as	PIN CONJ PREP
-quantity	NOMZ
-changes	NN
-and	CCONJ
-marginal	JJ
-revenue	NN
-will	PRMD
-be	BEMA AUXB INF
-less	JJ PRED CMADJ
-than	PIN PREP
-price	NN
-.	
-In	PIN CONJ CAP PREP
-perfect	JJ
-competition	NOMZ
-,	
-firm	NN
-'s	
-supply	NN
-curve	NN
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-the	ART DET
-marginal	JJ
-cost	NN
-curve	NN
-.	
-The	ART CAP DET
-industry	NN
-supply	NN
-curve	NN
-is	BEMA VPRT AUXB
-the	ART DET
-sum	NN
-of	PIN PREP
-the	ART DET
-firm	NN
-'s	
-supply	NN
-/	
-marginal	JJ
-cost	NN
-curves	NN
-.	
-For	PIN CAP PREP
-monopoly	NN
-,	
-the	ART DET
-industry	NN
-supply	NN
-curve	NN
-becomes	VPRT
-the	ART DET
-marginal	JJ
-cost	NN
-curve	NN
-of	PIN PREP
-the	ART DET
-firm	NN
-.	
-Let	CAP INF
-us	FPP1 PRP SBJP ACCU
-see	PRIV INF
-the	ART DET
-diagram	NN
-below	RB PLACE
-,	
-S	CAP NNP
-:	
-industry	NN
-supply	NN
-curve	NN
-MC	CAP NNP
-:	
-marginal	JJ
-cost	NN
-curve	NN
-D	NN CAP
-:	
-industry	NN
-market	NN
-demand	SUAV NN
-curve	NN
-MR	CAP NNP
-:	
-marginal	JJ
-revenue	NN
-curve	NN
-Q	CAP NNP
-C	NN CAP
-:	
-quantity	NOMZ
-produced	WZPAST
-by	PIN PREP
-the	ART DET
-perfectly	AMP RB
-competitive	JJ
-industry	NN
-Q	CAP NNP
-M	NN CAP
-:	
-quantity	NOMZ
-produced	WZPAST
-by	PIN PREP
-the	ART DET
-monopoly	NN
-P	NN CAP
-C	NN CAP
-:	
-price	NN
-set	WZPAST
-by	PIN PREP
-the	ART DET
-competitive	JJ
-industry	NN
-P	NN CAP
-M	CAP NUM
-:	
-price	NN
-set	WZPAST
-by	PIN PREP
-the	ART DET
-monopoly	NN
-P	NN CAP
-A	NN CAP
-:	
-highest	JJ SPADJ
-price	NN
-charged	WZPAST
-In	PIN CONJ CAP PREP
-perfect	JJ
-competition	NOMZ
-,	
-the	ART DET
-market	NN
-equilibrium	NN
-occurs	VPRT
-where	RB SCONJ WH
-the	ART DET
-supply	NN
-curve	NN
-and	CCONJ
-the	ART DET
-demand	SUAV NN
-curve	NN
-intersect	JJ
-.	
-Each	QUAN CAP DET
-firm	NN
-takes	VPRT
-the	ART DET
-price	NN
-P	NN CAP
-C	NN CAP
-and	CCONJ
-maximizes	VPRT
-its	PIT PRP SBJP
-profit	NN
-by	PIN PREP
-producing	PGAS
-the	ART DET
-output	NN
-at	PIN PREP
-which	PIRE DET WH
-its	PIT PRP SBJP
-own	JJ
-marginal	JJ
-cost	NN
-equals	VPRT
-the	ART DET
-price	NN
-.	
-As	PIN CONJ CAP PREP
-each	QUAN DET
-firm	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-small	JJ
-part	NN
-of	PIN PREP
-the	ART DET
-total	JJ
-industry	NN
-,	
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-incentive	NN
-for	PIN PREP
-any	QUAN DET
-firm	NN
-to	PIN TO PREP
-try	INF
-to	PIN TO PREP
-manipulate	INF
-the	ART DET
-price	NN
-by	PIN PREP
-varying	PGAS
-its	PIT PRP SBJP
-output	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-industry	NN
-is	PASS VPRT AUXB
-monopolized	
-,	
-the	ART DET
-industry	NN
-supply	NN
-curve	NN
-becomes	VPRT
-the	ART DET
-MC	CAP NNP
-curve	NN
-of	PIN PREP
-the	ART DET
-firm	NN
-.	
-The	ART CAP DET
-new	JJ
-monopolized	JJ
-industry	NN
-will	PRMD
-maximizes	VPRT
-its	PIT PRP SBJP
-profit	NN
-by	PIN PREP
-producing	PGAS
-Q	CAP NNP
-M	CAP NNP
-,	
-where	RB SCONJ WH
-marginal	JJ
-revenue	NN
-equals	VPRT
-marginal	JJ
-cost	NN
-.	
-As	PIN CONJ CAP PREP
-marginal	JJ
-revenue	NN
-is	BEMA VPRT AUXB
-below	PIN PLACE PREP
-the	ART DET
-demand	SUAV NN
-curve	NN
-,	
-output	NN
-Q	CAP NNP
-M	CAP NNP
-is	BEMA VPRT AUXB
-smaller	JJ PRED CMADJ
-than	PIN PREP
-output	NN
-Q	CAP NNP
-C	NN CAP
-.	
-The	ART CAP DET
-monopoly	NN
-charges	VPRT
-the	ART DET
-highest	JJ SPADJ
-price	NN
-P	NN CAP
-M	CAP NNP
-for	PIN PREP
-which	PIRE DET WH
-output	NN
-Q	CAP NNP
-M	CAP NNP
-can	POMD
-be	PASS AUXB INF
-sold	
-.	
-Overall	JJ CAP
-speaking	NN
-,	
-monopoly	NN
-restricts	VPRT
-its	PIT PRP SBJP
-output	NN
-and	CCONJ
-charges	VPRT
-a	ART DET INDA
-higher	JJ CMADJ
-price	NN
-compared	WZPAST
-with	PIN PREP
-a	ART DET INDA
-perfectly	AMP RB
-competitive	JJ
-industry	NN
-.	
-That	DEMP CAP DET
-is	VPRT AUXB
-why	RB SCONJ WH
-monopoly	NN
-is	BEMA VPRT AUXB
-less	RB CMADJ
-efficient	JJ
-.	
-Monopoly	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-form	NN
-of	PIN PREP
-market	NN
-failure	NN
-and	CCONJ
-is	BEMA VPRT AUXB
-less	RB CMADJ
-efficient	JJ
-than	PIN PREP
-competition	NOMZ
-.	
-Market	NN CAP
-failure	NN
-prevents	VPRT
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-gains	NN
-from	PIN PREP
-trade	NN
-from	PIN PREP
-being	PASS AUXB
-achieved	
-.	
-Under	PIN CAP PREP
-perfect	JJ
-competition	NOMZ
-,	
-quantity	NOMZ
-produced	WZPAST
-is	VPRT AUXB
-Q	CAP NNP
-C	NN CAP
-.	
-Consumers	NN CAP
-pay	VPRT
-P	NN CAP
-C	NN CAP
-for	PIN PREP
-each	QUAN DET
-unit	NN
-bought	VBD
-and	PHC CCONJ
-obtain	INF
-a	ART DET INDA
-consumer	NN
-surplus	NN
-1	NUM
-represented	
-by	PIN PREP
-the	ART DET
-blue	JJ
-triangle	NN
-.	
-A	ART CAP DET INDA
-monopolistic	JJ
-industry	NN
-will	PRMD
-restrict	INF
-output	NN
-to	PIN PREP
-Q	CAP NNP
-M	CAP NNP
-and	CCONJ
-sell	INF
-that	DEMO DET
-output	NN
-at	PIN PREP
-a	ART DET INDA
-price	NN
-of	PIN PREP
-P	NN CAP
-M	CAP NNP
-.	
-Consumer	NN CAP
-surplus	NN
-will	PRMD
-be	PASS AUXB INF
-reduced	
-to	PIN PREP
-the	ART DET
-smaller	JJ CMADJ
-blue	JJ
-triangle	NN
-.	
-Consumers	NN CAP
-lose	VPRT
-partly	DWNT RB
-by	PIN PREP
-having	PGAS
-to	PIN TO PREP
-pay	INF
-more	JJ EMPH CMADJ
-for	PIN PREP
-what	WH
-is	BEMA VPRT AUXB
-available	JJ PRED
-and	CCONJ
-by	PIN PREP
-getting	PGAS
-less	JJ CMADJ
-of	PIN PREP
-the	ART DET
-good	NN
-.	
-Some	QUAN CAP DET
-of	PIN PREP
-the	ART DET
-loss	NN
-in	PIN CONJ PREP
-consumer	NN
-surplus	NN
-accures	VPRT
-to	PIN PREP
-the	ART DET
-monopoly	NN
-.	
-Thus	RB CONJ CAP
-the	ART DET
-monopoly	NN
-gets	VPRT
-the	ART DET
-difference	NN
-between	PIN PREP
-the	ART DET
-higher	JJ CMADJ
-price	NN
-(	
-P	CAP NNP
-M	CAP NNP
-)	
-and	ANDC CCONJ
-P	NN CAP
-C	CAP NNP
-on	PIN PREP
-the	ART DET
-quantity	NOMZ
-sold	
-(	
-Q	CAP NNP
-M	CAP NNP
-)	
-,	
-i.e.	CONJ X
-the	ART DET
-monopoly	NN
-has	VPRT PEAS
-taken	
-the	ART DET
-red	JJ
-rectangle	NN
-part	NN
-of	PIN PREP
-the	ART DET
-consumer	NN
-surplus	NN
-.	
-This	DEMO CAP DET
-portion	NOMZ
-of	PIN PREP
-loss	NN
-of	PIN PREP
-consumer	NN
-surplus	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-loss	NN
-to	PIN PREP
-society	NN
-and	ANDC CCONJ
-hence	RB CONJ
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-loss	NN
-of	PIN PREP
-efficiency	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-just	RB EMPH
-a	ART DET INDA
-redistribution	NOMZ
-from	PIN PREP
-consumer	NN
-surplus	NN
-to	PIN PREP
-the	ART DET
-monopolist	NN
-.	
-As	PIN CONJ CAP PREP
-output	NN
-has	VPRT PEAS
-been	PASS AUXB
-restricted	
-,	
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-consumer	NN
-surplus	NN
-becomes	VPRT
-a	ART DET INDA
-loss	NN
-.	
-Actually	RB CAP
-the	ART DET
-total	JJ
-loss	NN
-resulting	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-lower	JJ CMADJ
-monopoly	NN
-output	NN
-(	
-Q	CAP NNP
-M	CAP NNP
-)	
-is	BEMA VPRT AUXB
-the	ART DET
-grey	JJ
-triangle	NN
-.	
-The	ART CAP DET
-part	NN
-of	PIN PREP
-the	ART DET
-grey	JJ
-triangle	NN
-above	PIN PLACE PREP
-P	NN CAP
-C	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-loss	NN
-of	PIN PREP
-consumer	NN
-surplus	NN
-and	CCONJ
-the	ART DET
-part	NN
-of	PIN PREP
-the	ART DET
-triangle	NN
-below	PIN PLACE PREP
-P	NN CAP
-C	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-loss	NN
-to	PIN PREP
-the	ART DET
-producer	NN
-(	
-a	ART DET INDA
-loss	NN
-of	PIN PREP
-producer	NN
-surplus	NN
-2	NUM
-)	
-.	
-The	ART CAP DET
-grey	JJ
-triangle	NN
-,	
-which	SERE DET WH
-measures	VPRT
-the	ART DET
-total	JJ
-loss	NN
-of	PIN PREP
-both	DET
-consumer	NN
-and	PHC CCONJ
-producer	NN
-surplus	NN
-,	
-is	PASS VPRT AUXB
-called	
-the	ART DET
-deadweight	NN
-loss	NN
-.	
-Deadweight	NN CAP
-loss	NN
-measures	VPRT
-the	ART DET
-loss	NN
-of	PIN PREP
-allocative	JJ
-efficiency	NN
-as	PIN CONJ PREP
-the	ART DET
-reduction	NOMZ
-in	PIN CONJ PREP
-consumer	NN
-and	PHC CCONJ
-producer	NN
-surplus	NN
-resulting	WZPRES PGAS
-from	PIN PREP
-a	ART DET INDA
-restriction	NOMZ
-of	PIN PREP
-output	NN
-below	PIN PLACE PREP
-its	PIT PRP SBJP
-efficient	JJ
-level	NN
-.	
-A	ART CAP DET INDA
-monopoly	NN
-'s	
-reduced	
-output	NN
-and	CCONJ
-higher	JJ CMADJ
-price	NN
-results	NN
-in	PIN CONJ PREP
-the	ART DET
-monopoly	NN
-capturing	WZPRES PGAS
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-consumer	NN
-surplus	NN
-.	
-It	PIT CAP PRP SBJP
-also	RB
-results	VPRT
-in	PIN CONJ PREP
-the	ART DET
-elimination	NOMZ
-of	PIN PREP
-the	ART DET
-producer	NN
-and	CCONJ
-the	ART DET
-consumer	NN
-surplus	NN
-on	PIN PREP
-the	ART DET
-output	NN
-that	TOBJ WHOBJ WH
-a	ART DET INDA
-competitive	JJ
-industry	NN
-would	PRMD
-have	PEAS INF
-produced	
-but	CCONJ
-that	PIN THVC SCONJ PREP
-the	ART DET
-monopoly	NN
-does	VPRT PROD
-not	XX0 RB
-.	
-Deadweight	NN CAP
-loss	NN
-measures	VPRT
-the	ART DET
-degree	NN
-of	PIN PREP
-market	NN
-failure	NN
-or	CCONJ
-allocative	NN
-inefficiency	NN
-created	WZPAST
-by	PIN PREP
-a	ART DET INDA
-monopoly	NN
-.	
-Usually	RB CAP
-a	ART DET INDA
-monopoly	NN
-will	PRMD
-produces	VPRT
-an	ART DET INDA
-output	NN
-below	PIN PLACE PREP
-that	DEMO DET
-at	PIN PREP
-which	PIRE DET WH
-average	JJ
-total	JJ
-cost	NN
-is	BEMA VPRT AUXB
-at	PIN PREP
-a	ART DET INDA
-minimum	NN
-.	
-However	RB CONJ CAP
-,	
-even	RB
-the	ART DET
-monopoly	NN
-really	RB EMPH
-does	VPRT PROD
-so	RB
-,	
-consumers	NN
-still	RB
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-the	ART DET
-opportunity	NOMZ
-of	PIN PREP
-buying	PGAS
-the	ART DET
-good	NN
-at	PIN PREP
-that	DEMO DET
-price	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-a	ART DET INDA
-possibility	NOMZ
-that	PIN TOBJ SCONJ PREP
-a	ART DET INDA
-monopoly	NN
-will	PRMD SPAU
-not	XX0 RB
-produce	INF
-any	QUAN DET
-deadweight	NN
-loss	NN
-.	
-That	DEMP CAP DET
-is	BEMA VPRT AUXB
-the	ART DET
-time	NN
-when	RB WHOBJ SCONJ WH
-the	ART DET
-monopoly	NN
-is	VPRT AUXB
-perfectly	AMP RB
-price	NN
-discriminating	GER
-.	
-The	ART CAP DET
-more	RB EMPH CMADJ
-perfectly	AMP RB
-the	ART DET
-monopoly	NN
-can	POMD
-price	INF
-discriminate	INF
-,	
-the	ART DET
-closer	RB CMADJ
-its	PIT PRP SBJP
-output	NN
-gets	VPRT
-to	PIN PREP
-the	ART DET
-competitive	JJ
-output	NN
-.	
-If	COND PIN CAP SCONJ PREP
-a	ART DET INDA
-monopoly	NN
-can	POMD SPAU
-perfectly	AMP RB
-price	INF
-discriminate	NN
-,	
-it	PIT PRP SBJP
-will	PRMD
-charge	INF
-a	ART DET INDA
-different	JJ
-prices	NN
-to	PIN PREP
-different	JJ
-consumers	NN
-according	WZPRES PGAS
-to	PIN PREP
-their	TPP3 PRP SBJP
-willingness	NOMZ
-to	PIN TO PREP
-pay	INF
-on	PIN PREP
-each	QUAN DET
-unit	NN
-sold	VBD
-.	
-The	ART CAP DET
-monopoly	NN
-can	POMD SPAU
-also	RB
-increase	INF
-the	ART DET
-quantity	NOMZ
-of	PIN PREP
-output	NN
-to	PIN PREP
-exactly	RB
-the	ART DET
-same	JJ
-as	PIN CONJ PREP
-the	ART DET
-perfectly	AMP RB
-competitive	JJ
-industry	NN
-.	
-When	RB CAP SCONJ WH
-the	ART DET
-monopoly	NN
-perfectly	AMP RB
-price	NN
-discriminates	NN
-,	
-its	PIT PRP SBJP
-marginal	JJ
-revenue	NN
-curve	NN
-is	BEMA VPRT AUXB
-the	ART DET
-same	JJ
-as	PIN CONJ PREP
-the	ART DET
-demand	SUAV NN
-curve	NN
-.	
-The	ART CAP DET
-last	JJ
-item	NN
-sold	
-will	PRMD
-cost	INF
-P	NN CAP
-C	CAP NNP
-which	DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-same	JJ
-as	PIN CONJ PREP
-its	PIT PRP SBJP
-marginal	JJ
-cost	NN
-.	
-1	NUM
-The	ART CAP DET
-difference	NN
-between	PIN PREP
-the	ART DET
-value	NN
-of	PIN PREP
-a	ART DET INDA
-good	NN
-and	CCONJ
-its	PIT PRP SBJP
-price	NN
-is	VPRT AUXB
-consumer	NN
-surplus	NN
-.	
-2	NUM
-The	ART CAP DET
-difference	NN
-between	PIN PREP
-a	ART DET INDA
-producer	NN
-'s	
-revenue	NN
-and	CCONJ
-the	ART DET
-opportunity	NOMZ
-cost	NN
-of	PIN PREP
-production	NOMZ
-is	BEMA VPRT AUXB
-the	ART DET
-producer	NN
-surplus	NN
-.	
+type	content	tags
+word	Perfect	JJ CAP
+gap	 	
+word	competition	NOMZ
+gap	 	
+word	arises	VPRT
+gap	 	
+word	when	RB SCONJ WH
+gap	 1.) 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	firms	NN
+gap	, 	
+word	each	QUAN DET
+gap	 	
+word	selling	PGAS
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	identical	JJ
+gap	 	
+word	product	NN
+gap	 2.) 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	buyers	NN
+gap	 3.) 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	restrictions	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	entry	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	industry	NN
+gap	 4.) 	
+word	firms	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	buyers	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	informed	
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	prices	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	products	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	firm	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	industry	NN
+gap	 	
+word	Monopoly	CAP NNP
+gap	 	
+word	arises	VPRT
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	one	NUM
+gap	 	
+word	firm	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	close	JJ
+gap	 	
+word	substitute	NN
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	buyers	NN
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	barriers	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	entry	NN
+gap	 	
+word	incomplete	JJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	Firms	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	perfect	JJ
+gap	 	
+word	competition	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	said	PUBV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	price	NN
+gap	 	
+word	takers	NN
+gap	, 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	they	
+gap	 	
+word	cannot	
+gap	 	
+word	influence	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	service	NN
+gap	. 	
+word	Perfectly	AMP RB CAP
+gap	 	
+word	competitive	JJ
+gap	 	
+word	firms	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	price	NN
+gap	 	
+word	takers	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	firm	NN
+gap	 	
+word	produces	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tiny	JJ
+gap	 	
+word	fraction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	output	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	good	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	buyers	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	well	RB
+gap	 	
+word	informed	JJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	prices	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	firms	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	monopolies	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	charge	INF
+gap	 	
+word	whatever	DET WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	like	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	firm	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	provides	VPRT
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	good	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	service	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	perfect	JJ
+gap	 	
+word	competition	NOMZ
+gap	, 	
+word	price	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	independent	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	sold	
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	total	JJ
+gap	 	
+word	revenue	NN
+gap	 	
+word	resulting	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	one	NUM
+gap	-	
+word	unit	NN
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	sold	
+gap	 	
+word	equals	VPRT
+gap	 	
+word	price	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	 	
+word	marginal	JJ
+gap	 	
+word	revenue	NN
+gap	 	
+word	equals	VPRT
+gap	 	
+word	price	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	marginal	JJ
+gap	 	
+word	revenue	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	vary	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	quantity	NOMZ
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	curve	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	firm	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	horizontal	JJ PRED
+gap	, 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	perfectly	
+gap	 	
+word	elastic	
+gap	, 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	price	
+gap	 	
+word	taker	
+gap	. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	market	
+gap	 	
+word	demand	
+gap	 	
+word	curve	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	entire	
+gap	 	
+word	industry	
+gap	 	
+word	is	
+gap	 	
+word	downward	
+gap	 	
+word	slopping	
+gap	. 	
+word	The	
+gap	 	
+word	monopoly	
+gap	 	
+word	faces	
+gap	 	
+word	the	
+gap	 	
+word	downward	
+gap	 	
+word	slopping	
+gap	 	
+word	demand	
+gap	 	
+word	curve	
+gap	 	
+word	too	
+gap	. 	
+word	This	
+gap	 	
+word	means	
+gap	 	
+word	price	
+gap	 	
+word	changes	
+gap	 	
+word	as	
+gap	 	
+word	quantity	
+gap	 	
+word	changes	
+gap	 	
+word	and	
+gap	 	
+word	marginal	
+gap	 	
+word	revenue	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	less	
+gap	 	
+word	than	
+gap	 	
+word	price	
+gap	. 	
+word	In	
+gap	 	
+word	perfect	
+gap	 	
+word	competition	
+gap	, 	
+word	firm	
+gap	'	
+word	s	
+gap	 	
+word	supply	
+gap	 	
+word	curve	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	marginal	
+gap	 	
+word	cost	
+gap	 	
+word	curve	
+gap	. 	
+word	The	
+gap	 	
+word	industry	
+gap	 	
+word	supply	
+gap	 	
+word	curve	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	sum	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	'	
+word	s	
+gap	 	
+word	supply	
+gap	 / 	
+word	marginal	
+gap	 	
+word	cost	
+gap	 	
+word	curves	
+gap	. 	
+word	For	
+gap	 	
+word	monopoly	
+gap	, 	
+word	the	
+gap	 	
+word	industry	
+gap	 	
+word	supply	
+gap	 	
+word	curve	
+gap	 	
+word	becomes	
+gap	 	
+word	the	
+gap	 	
+word	marginal	
+gap	 	
+word	cost	
+gap	 	
+word	curve	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	. 	
+word	Let	
+gap	 	
+word	us	
+gap	 	
+word	see	
+gap	 	
+word	the	
+gap	 	
+word	diagram	
+gap	 	
+word	below	
+gap	, 	
+word	S	
+gap	: 	
+word	industry	
+gap	 	
+word	supply	
+gap	 	
+word	curve	
+gap	 	
+word	MC	
+gap	: 	
+word	marginal	
+gap	 	
+word	cost	
+gap	 	
+word	curve	
+gap	 	
+word	D	
+gap	: 	
+word	industry	
+gap	 	
+word	market	
+gap	 	
+word	demand	
+gap	 	
+word	curve	
+gap	 	
+word	MR	
+gap	: 	
+word	marginal	
+gap	 	
+word	revenue	
+gap	 	
+word	curve	
+gap	 	
+word	Q	
+gap	 	
+word	C	
+gap	 : 	
+word	quantity	
+gap	 	
+word	produced	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	perfectly	
+gap	 	
+word	competitive	
+gap	 	
+word	industry	
+gap	 	
+word	Q	
+gap	 	
+word	M	
+gap	 : 	
+word	quantity	
+gap	 	
+word	produced	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 : 	
+word	price	
+gap	 	
+word	set	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	competitive	
+gap	 	
+word	industry	
+gap	 	
+word	P	
+gap	 	
+word	M	
+gap	 : 	
+word	price	
+gap	 	
+word	set	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	P	
+gap	 	
+word	A	
+gap	 : 	
+word	highest	
+gap	 	
+word	price	
+gap	 	
+word	charged	
+gap	 	
+word	In	
+gap	 	
+word	perfect	
+gap	 	
+word	competition	
+gap	, 	
+word	the	
+gap	 	
+word	market	
+gap	 	
+word	equilibrium	
+gap	 	
+word	occurs	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	supply	
+gap	 	
+word	curve	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	demand	
+gap	 	
+word	curve	
+gap	 	
+word	intersect	
+gap	. 	
+word	Each	
+gap	 	
+word	firm	
+gap	 	
+word	takes	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 	
+word	and	
+gap	 	
+word	maximizes	
+gap	 	
+word	its	
+gap	 	
+word	profit	
+gap	 	
+word	by	
+gap	 	
+word	producing	
+gap	 	
+word	the	
+gap	 	
+word	output	
+gap	 	
+word	at	
+gap	 	
+word	which	
+gap	 	
+word	its	
+gap	 	
+word	own	
+gap	 	
+word	marginal	
+gap	 	
+word	cost	
+gap	 	
+word	equals	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	. 	
+word	As	
+gap	 	
+word	each	
+gap	 	
+word	firm	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	small	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	total	
+gap	 	
+word	industry	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	incentive	
+gap	 	
+word	for	
+gap	 	
+word	any	
+gap	 	
+word	firm	
+gap	 	
+word	to	
+gap	 	
+word	try	
+gap	 	
+word	to	
+gap	 	
+word	manipulate	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	 	
+word	by	
+gap	 	
+word	varying	
+gap	 	
+word	its	
+gap	 	
+word	output	
+gap	. 	
+word	If	
+gap	 	
+word	the	
+gap	 	
+word	industry	
+gap	 	
+word	is	
+gap	 	
+word	monopolized	
+gap	, 	
+word	the	
+gap	 	
+word	industry	
+gap	 	
+word	supply	
+gap	 	
+word	curve	
+gap	 	
+word	becomes	
+gap	 	
+word	the	
+gap	 	
+word	MC	
+gap	 	
+word	curve	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	. 	
+word	The	
+gap	 	
+word	new	
+gap	 	
+word	monopolized	
+gap	 	
+word	industry	
+gap	 	
+word	will	
+gap	 	
+word	maximizes	
+gap	 	
+word	its	
+gap	 	
+word	profit	
+gap	 	
+word	by	
+gap	 	
+word	producing	
+gap	 	
+word	Q	
+gap	 	
+word	M	
+gap	 , 	
+word	where	
+gap	 	
+word	marginal	
+gap	 	
+word	revenue	
+gap	 	
+word	equals	
+gap	 	
+word	marginal	
+gap	 	
+word	cost	
+gap	. 	
+word	As	
+gap	 	
+word	marginal	
+gap	 	
+word	revenue	
+gap	 	
+word	is	
+gap	 	
+word	below	
+gap	 	
+word	the	
+gap	 	
+word	demand	
+gap	 	
+word	curve	
+gap	, 	
+word	output	
+gap	 	
+word	Q	
+gap	 	
+word	M	
+gap	 	
+word	is	
+gap	 	
+word	smaller	
+gap	 	
+word	than	
+gap	 	
+word	output	
+gap	 	
+word	Q	
+gap	 	
+word	C	
+gap	 . 	
+word	The	
+gap	 	
+word	monopoly	
+gap	 	
+word	charges	
+gap	 	
+word	the	
+gap	 	
+word	highest	
+gap	 	
+word	price	
+gap	 	
+word	P	
+gap	 	
+word	M	
+gap	 	
+word	for	
+gap	 	
+word	which	
+gap	 	
+word	output	
+gap	 	
+word	Q	
+gap	 	
+word	M	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	sold	
+gap	. 	
+word	Overall	
+gap	 	
+word	speaking	
+gap	, 	
+word	monopoly	
+gap	 	
+word	restricts	
+gap	 	
+word	its	
+gap	 	
+word	output	
+gap	 	
+word	and	
+gap	 	
+word	charges	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	price	
+gap	 	
+word	compared	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	perfectly	
+gap	 	
+word	competitive	
+gap	 	
+word	industry	
+gap	. 	
+word	That	
+gap	 	
+word	is	
+gap	 	
+word	why	
+gap	 	
+word	monopoly	
+gap	 	
+word	is	
+gap	 	
+word	less	
+gap	 	
+word	efficient	
+gap	. 	
+word	Monopoly	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	market	
+gap	 	
+word	failure	
+gap	 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	less	
+gap	 	
+word	efficient	
+gap	 	
+word	than	
+gap	 	
+word	competition	
+gap	. 	
+word	Market	
+gap	 	
+word	failure	
+gap	 	
+word	prevents	
+gap	 	
+word	some	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	gains	
+gap	 	
+word	from	
+gap	 	
+word	trade	
+gap	 	
+word	from	
+gap	 	
+word	being	
+gap	 	
+word	achieved	
+gap	. 	
+word	Under	
+gap	 	
+word	perfect	
+gap	 	
+word	competition	
+gap	, 	
+word	quantity	
+gap	 	
+word	produced	
+gap	 	
+word	is	
+gap	 	
+word	Q	
+gap	 	
+word	C	
+gap	 . 	
+word	Consumers	
+gap	 	
+word	pay	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 	
+word	for	
+gap	 	
+word	each	
+gap	 	
+word	unit	
+gap	 	
+word	bought	
+gap	 	
+word	and	
+gap	 	
+word	obtain	
+gap	 	
+word	a	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 1 	
+word	represented	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	blue	
+gap	 	
+word	triangle	
+gap	. 	
+word	A	
+gap	 	
+word	monopolistic	
+gap	 	
+word	industry	
+gap	 	
+word	will	
+gap	 	
+word	restrict	
+gap	 	
+word	output	
+gap	 	
+word	to	
+gap	 	
+word	Q	
+gap	 	
+word	M	
+gap	 	
+word	and	
+gap	 	
+word	sell	
+gap	 	
+word	that	
+gap	 	
+word	output	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	price	
+gap	 	
+word	of	
+gap	 	
+word	P	
+gap	 	
+word	M	
+gap	 . 	
+word	Consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	reduced	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	smaller	
+gap	 	
+word	blue	
+gap	 	
+word	triangle	
+gap	. 	
+word	Consumers	
+gap	 	
+word	lose	
+gap	 	
+word	partly	
+gap	 	
+word	by	
+gap	 	
+word	having	
+gap	 	
+word	to	
+gap	 	
+word	pay	
+gap	 	
+word	more	
+gap	 	
+word	for	
+gap	 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	available	
+gap	 	
+word	and	
+gap	 	
+word	by	
+gap	 	
+word	getting	
+gap	 	
+word	less	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	good	
+gap	. 	
+word	Some	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	loss	
+gap	 	
+word	in	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	accures	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	. 	
+word	Thus	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	gets	
+gap	 	
+word	the	
+gap	 	
+word	difference	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	higher	
+gap	 	
+word	price	
+gap	 (	
+word	P	
+gap	 	
+word	M	
+gap	 ) 	
+word	and	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	quantity	
+gap	 	
+word	sold	
+gap	 (	
+word	Q	
+gap	 	
+word	M	
+gap	 ), 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	has	
+gap	 	
+word	taken	
+gap	 	
+word	the	
+gap	 	
+word	red	
+gap	 	
+word	rectangle	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	. 	
+word	This	
+gap	 	
+word	portion	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	loss	
+gap	 	
+word	to	
+gap	 	
+word	society	
+gap	 	
+word	and	
+gap	 	
+word	hence	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	efficiency	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	just	
+gap	 	
+word	a	
+gap	 	
+word	redistribution	
+gap	 	
+word	from	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	monopolist	
+gap	. 	
+word	As	
+gap	 	
+word	output	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	restricted	
+gap	, 	
+word	the	
+gap	 	
+word	rest	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	becomes	
+gap	 	
+word	a	
+gap	 	
+word	loss	
+gap	. 	
+word	Actually	
+gap	 	
+word	the	
+gap	 	
+word	total	
+gap	 	
+word	loss	
+gap	 	
+word	resulting	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	lower	
+gap	 	
+word	monopoly	
+gap	 	
+word	output	
+gap	 (	
+word	Q	
+gap	 	
+word	M	
+gap	 ) 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	grey	
+gap	 	
+word	triangle	
+gap	. 	
+word	The	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	grey	
+gap	 	
+word	triangle	
+gap	 	
+word	above	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	triangle	
+gap	 	
+word	below	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	loss	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	producer	
+gap	 (	
+word	a	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	producer	
+gap	 	
+word	surplus	
+gap	 2 ). 	
+word	The	
+gap	 	
+word	grey	
+gap	 	
+word	triangle	
+gap	, 	
+word	which	
+gap	 	
+word	measures	
+gap	 	
+word	the	
+gap	 	
+word	total	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	both	
+gap	 	
+word	consumer	
+gap	 	
+word	and	
+gap	 	
+word	producer	
+gap	 	
+word	surplus	
+gap	, 	
+word	is	
+gap	 	
+word	called	
+gap	 	
+word	the	
+gap	 	
+word	deadweight	NN CAP
+gap	 	
+word	loss	NN
+gap	. 	
+word	Deadweight	
+gap	 	
+word	loss	
+gap	 	
+word	measures	
+gap	 	
+word	the	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	allocative	
+gap	 	
+word	efficiency	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	reduction	
+gap	 	
+word	in	
+gap	 	
+word	consumer	
+gap	 	
+word	and	
+gap	 	
+word	producer	
+gap	 	
+word	surplus	
+gap	 	
+word	resulting	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	restriction	
+gap	 	
+word	of	
+gap	 	
+word	output	
+gap	 	
+word	below	
+gap	 	
+word	its	
+gap	 	
+word	efficient	
+gap	 	
+word	level	
+gap	. 	
+word	A	
+gap	 	
+word	monopoly	
+gap	'	
+word	s	
+gap	 	
+word	reduced	
+gap	 	
+word	output	
+gap	 	
+word	and	
+gap	 	
+word	higher	
+gap	 	
+word	price	
+gap	 	
+word	results	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	capturing	
+gap	 	
+word	some	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	. 	
+word	It	
+gap	 	
+word	also	
+gap	 	
+word	results	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	elimination	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	producer	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	output	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	competitive	
+gap	 	
+word	industry	
+gap	 	
+word	would	
+gap	 	
+word	have	
+gap	 	
+word	produced	
+gap	 	
+word	but	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	. 	
+word	Deadweight	
+gap	 	
+word	loss	
+gap	 	
+word	measures	
+gap	 	
+word	the	
+gap	 	
+word	degree	
+gap	 	
+word	of	
+gap	 	
+word	market	
+gap	 	
+word	failure	
+gap	 	
+word	or	
+gap	 	
+word	allocative	
+gap	 	
+word	inefficiency	
+gap	 	
+word	created	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	monopoly	
+gap	. 	
+word	Usually	
+gap	 	
+word	a	
+gap	 	
+word	monopoly	
+gap	 	
+word	will	
+gap	 	
+word	produces	
+gap	 	
+word	an	
+gap	 	
+word	output	
+gap	 	
+word	below	
+gap	 	
+word	that	
+gap	 	
+word	at	
+gap	 	
+word	which	
+gap	 	
+word	average	
+gap	 	
+word	total	
+gap	 	
+word	cost	
+gap	 	
+word	is	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	minimum	
+gap	. 	
+word	However	
+gap	, 	
+word	even	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	really	
+gap	 	
+word	does	
+gap	 	
+word	so	
+gap	, 	
+word	consumers	
+gap	 	
+word	still	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	opportunity	
+gap	 	
+word	of	
+gap	 	
+word	buying	
+gap	 	
+word	the	
+gap	 	
+word	good	
+gap	 	
+word	at	
+gap	 	
+word	that	
+gap	 	
+word	price	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	possibility	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	monopoly	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	produce	
+gap	 	
+word	any	
+gap	 	
+word	deadweight	
+gap	 	
+word	loss	
+gap	. 	
+word	That	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	is	
+gap	 	
+word	perfectly	
+gap	 	
+word	price	
+gap	 	
+word	discriminating	
+gap	. 	
+word	The	
+gap	 	
+word	more	
+gap	 	
+word	perfectly	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	can	
+gap	 	
+word	price	
+gap	 	
+word	discriminate	
+gap	, 	
+word	the	
+gap	 	
+word	closer	
+gap	 	
+word	its	
+gap	 	
+word	output	
+gap	 	
+word	gets	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	competitive	
+gap	 	
+word	output	
+gap	. 	
+word	If	
+gap	 	
+word	a	
+gap	 	
+word	monopoly	
+gap	 	
+word	can	
+gap	 	
+word	perfectly	
+gap	 	
+word	price	
+gap	 	
+word	discriminate	
+gap	, 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	charge	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	prices	
+gap	 	
+word	to	
+gap	 	
+word	different	
+gap	 	
+word	consumers	
+gap	 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	their	
+gap	 	
+word	willingness	
+gap	 	
+word	to	
+gap	 	
+word	pay	
+gap	 	
+word	on	
+gap	 	
+word	each	
+gap	 	
+word	unit	
+gap	 	
+word	sold	
+gap	. 	
+word	The	
+gap	 	
+word	monopoly	
+gap	 	
+word	can	
+gap	 	
+word	also	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	quantity	
+gap	 	
+word	of	
+gap	 	
+word	output	
+gap	 	
+word	to	
+gap	 	
+word	exactly	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	perfectly	
+gap	 	
+word	competitive	
+gap	 	
+word	industry	
+gap	. 	
+word	When	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	perfectly	
+gap	 	
+word	price	
+gap	 	
+word	discriminates	
+gap	, 	
+word	its	
+gap	 	
+word	marginal	
+gap	 	
+word	revenue	
+gap	 	
+word	curve	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	demand	
+gap	 	
+word	curve	
+gap	. 	
+word	The	
+gap	 	
+word	last	
+gap	 	
+word	item	
+gap	 	
+word	sold	
+gap	 	
+word	will	
+gap	 	
+word	cost	
+gap	 	
+word	P	
+gap	 	
+word	C	
+gap	 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	as	
+gap	 	
+word	its	
+gap	 	
+word	marginal	
+gap	 	
+word	cost	
+gap	. 1 	
+word	The	
+gap	 	
+word	difference	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	value	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	good	
+gap	 	
+word	and	
+gap	 	
+word	its	
+gap	 	
+word	price	
+gap	 	
+word	is	
+gap	 	
+word	consumer	
+gap	 	
+word	surplus	
+gap	. 2 	
+word	The	
+gap	 	
+word	difference	
+gap	 	
+word	between	
+gap	 	
+word	a	
+gap	 	
+word	producer	
+gap	'	
+word	s	
+gap	 	
+word	revenue	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	opportunity	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	production	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	producer	
+gap	 	
+word	surplus	
+gap	.	

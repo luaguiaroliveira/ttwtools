@@ -1,902 +1,1487 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0710.0445.txt
-token	tags
-﻿	NNP
-    	
-Making	CAP PGAS
-decisions	NOMZ
-based	WZPAST
-on	PIN PREP
-rational	JJ
-thought	PRIV NN
-is	BEMA VPRT AUXB
-the	ART DET
-general	JJ
-assumptions	NOMZ
-of	PIN PREP
-must	NEMD
-part	NN
-of	PIN PREP
-researchers	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-opposite	JJ PIN PREP
-way	NN
-,	
-Ariely	RB CAP
-(	
-2008	NUM
-)	
-,	
-in	PIN CONJ PREP
-the	ART DET
-book	NN
-‘	
- 	
-’	
-,	
-presents	VPRT
-a	ART DET INDA
-series	NN
-of	PIN PREP
-scientific	JJ
-experiments	NOMZ
-,	
-and	ANDC CCONJ
-findings	NN
-that	TSUB WHSUB WH
-supports	VPRT
-the	ART DET
-existence	NN
-of	PIN PREP
-behaviors	NN
-that	TSUB WHSUB WH
-may	POMD
-skew	INF
-the	ART DET
-traditional	JJ
-rational	JJ
-choice	NN
-theory	NN
-.	
- 	
-According	CAP PGAS
-to	PIN PREP
-Ariely	RB CAP
-(	
-2008	NUM
-)	
-a	ART DET INDA
-type	NN
-of	PIN PREP
-asymmetric	JJ
-dominance	NN
-or	CCONJ
-decoy	NN
-effect	NN
-is	BEMA VPRT AUXB
-the	ART DET
-"	QUOT
-secret	JJ
-agent	NN
-"	QUOT
-in	PIN CONJ PREP
-many	QUAN JJ
-decisions	NOMZ
-.	
-Following	CAP PGAS
-observations	NOMZ
-,	
-a	ART DET INDA
-number	NN
-of	PIN PREP
-situations	NOMZ
-influences	VPRT
-the	ART DET
-phenomenon	NN
-of	PIN PREP
-specific	JJ
-change	NN
-in	PIN CONJ PREP
-preference	NN
-of	PIN PREP
-choosing	PGAS
-process	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-his	TPP3 PRP SBJP
-book	NN
-,	
-Ariely	RB CAP
-challenges	VPRT
-the	ART DET
-theory	NN
-of	PIN PREP
-supply	NN
-and	PHC CCONJ
-demand	SUAV NN
-,	
-claiming	PUBV PGAS
-that	PIN THVC SCONJ PREP
-the	ART DET
-methods	NN
-of	PIN PREP
-appointing	GER PGAS
-a	ART DET INDA
-value	NN
-can	POMD
-be	PASS AUXB INF
-manipulated	
-.	
-In	PIN CONJ CAP PREP
-some	QUAN DET
-situations	NOMZ
-,	
-consumers	NN
-buy	VPRT
-a	ART DET INDA
-product	NN
-at	PIN PREP
-a	ART DET INDA
-certain	JJ
-price	NN
-,	
-before	PIN PREP
-they	TPP3 PRP SBJP
-become	VPRT
-"	QUOT
-anchored	
-"	QUOT
-to	PIN PREP
-that	DEMO DET
-price	NN
-moved	SUAV WZPAST
-by	PIN PREP
-a	ART DET INDA
-arbitrary	JJ
-coherence	NN
-.	
-Thus	RB CONJ CAP
-,	
-the	ART DET
-consumers	NN
-are	BEMA VPRT AUXB
-susceptible	JJ PRED
-to	PIN PREP
-irrational	JJ
-pricing	NN
-,	
-making	PGAS
-decisions	NOMZ
-without	PIN PREP
-rationalizing	GER PGAS
-the	ART DET
-outcomes	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-choices	NN
-.	
-In	PIN CONJ CAP PREP
-other	JJ
-words	NN
-,	
-based	PASTP
-on	PIN PREP
-memory	NN
-rather	RB
-than	PIN PREP
-on	PIN PREP
-preferences	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-Ariely	RB CAP
-explains	VPRT PUBV
-the	ART DET
-human	JJ
-reaction	NOMZ
-to	PIN PREP
-the	ART DET
-words	NN
-"	QUOT
-free	JJ
-"	QUOT
-and	ANDC CCONJ
-"	QUOT
-zero	NUM
-"	QUOT
-.	
-Mentioning	GER PUBV CAP PGAS
-multiple	JJ
-experiments	NOMZ
-,	
-the	ART DET
-author	NN
-shown	VBD PRIV THATD
-that	PIN THVC SCONJ PREP
-when	RB SCONJ WH
-person	NN
-faced	VBD
-multiple	JJ
-choices	NN
-,	
-they	TPP3 PRP SBJP
-commonly	RB
-choose	VPRT
-the	ART DET
-free	JJ
-option	NOMZ
-.	
- 	
-Regarding	CAP PGAS
-social	JJ
-and	CCONJ
-market	NN
-norms	NN
-,	
-Ariely	RB CAP
-speaks	VPRT
-about	PIN PREP
-the	ART DET
-differences	NN
-between	PIN PREP
-this	DEMO DET
-to	PIN PREP
-elements	NOMZ
-.	
-An	ART CAP DET INDA
-example	NN
-,	
-of	PIN PREP
-social	JJ
-norms	NN
-could	POMD
-be	BEMA AUXB INF
-friendly	JJ
-requests	SUAV NN
-of	PIN PREP
-payback	NN
-and	PHC CCONJ
-market	NN
-norms	NN
-as	PIN CONJ PREP
-accounts	NN
-for	PIN PREP
-prices	NN
-,	
-cost	NN
-benefits	NN
-,	
-repayment	NOMZ
-being	BEMA WZPRES AUXB
-essential	JJ PRED
-,	
-and	ANDC CCONJ
-others	NN
-.	
-Ariely	RB CAP
-talks	NN
-about	PIN PREP
-the	ART DET
-influence	NN
-of	PIN PREP
-social	JJ
-norms	NN
-into	PIN PREP
-the	ART DET
-market	NN
-norms	NN
-.	
-He	TPP3 CAP PRP SBJP
-comments	VPRT PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-relations	NOMZ
-between	PIN PREP
-this	DEMO DET
-too	JJ
-elements	NOMZ
-could	POMD
-cause	INF
-troubles	NN
-.	
-Such	JJ CAP
-as	PIN CONJ PREP
-people	NN
-that	TSUB WHSUB WH
-prefer	VPRT SUAV
-to	PIN TO PREP
-do	PROD INF
-things	NN
-when	RB WHOBJ SCONJ WH
-they	TPP3 PRP SBJP
-feel	VPRT PRIV
-good	JJ
-rather	RB
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-been	PASS AUXB
-paid	
-for	PIN PREP
-that	DEMP DET
-.	
-The	ART CAP DET
-authors	NN
-describe	VPRT
-some	QUAN DET
-situation	NOMZ
-in	PIN CONJ PREP
-which	PIRE DET WH
-work	NN
-output	NN
-is	PASS VPRT BYPA SPAU AUXB
-negatively	RB
-affected	
-by	PIN PREP
-payment	NOMZ
-,	
-even	RB
-if	COND PIN SCONJ PREP
-will	PRMD
-be	BEMA AUXB INF
-a	ART DET INDA
-small	JJ
-or	CCONJ
-large	JJ
-amounts	NN
-of	PIN PREP
-money	NN
-.	
-Experiments	NOMZ CAP
-made	WZPAST
-by	PIN PREP
-others	NN
-researchers	NN
-cited	VBD
-in	PIN CONJ PREP
-the	ART DET
-book	NN
-,	
-confirm	PUBV INF
-the	ART DET
-assumptions	NOMZ
-of	PIN PREP
-Ariely	RB CAP
-,	
-This	DEMO CAP DET
-tests	NN
-showed	VBD PRIV THATD
-that	PIN STPR DEMP SCONJ PREP
-“	
-favor	NN
-”	
-works	NN
-,	
-in	PIN CONJ PREP
-other	JJ
-words	NN
-,	
-done	PASTP
-as	PIN CONJ PREP
-a	ART DET INDA
-request	SUAV NN
-of	PIN PREP
-a	ART DET INDA
-friend	NN
-,	
-sometimes	RB
-produced	VBD
-better	JJ CMADJ
-results	NN
-than	PIN PREP
-work	NN
-paid	
-.	
- 	
-Probably	RB CAP
-,	
-this	DEMO DET
-effect	NN
-on	PIN PREP
-working	PGAS
-live	RB
-could	POMD
-be	PASS BYPA AUXB INF
-explained	PUBV
-by	PIN PREP
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-connect	INF
-people	NN
-on	PIN PREP
-a	ART DET INDA
-social	JJ
-level	NN
-,	
-or	CCONJ
-a	ART DET INDA
-desire	SUAV NN
-of	PIN PREP
-it	PIT PRP SBJP
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-gain	INF
-trust	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-author	NN
-words	NN
-"	QUOT
- 	
-"	QUOT
-.	
-Seeing	PRIV CAP PGAS
-in	PIN CONJ PREP
-this	DEMO DET
-perspective	NN
-,	
-the	ART DET
-employer	NN
-could	POMD
-use	INF
-this	DEMO DET
-effect	NN
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-favor	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-what	WH
-it	PIT PRP SBJP
-refers	VPRT
-to	PIN PREP
-emotion	NOMZ
-situation	NOMZ
-,	
-the	ART DET
-theory	NN
-indicates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-human	JJ
-behavior	NN
-is	PASS VPRT BYPA AUXB
-controlled	
-by	PIN PREP
-emotions	NOMZ
-.	
-Ariely	RB CAP
-(	
-2008	NUM
-)	
-use	VPRT
-data	NN
-and	PHC CCONJ
-experiments	NOMZ
-to	PIN TO PREP
-argues	VPRT PUBV
-that	PIN THVC SCONJ PREP
-anger	NN
-,	
-frustration	NOMZ
-,	
-and	ANDC CCONJ
-hunger	NN
-named	
-high	JJ
--	
-emotions	NOMZ
-potentially	RB
-trigger	VPRT
-effect	NN
-s	X
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-level	NN
-on	PIN PREP
-decision	NOMZ
--	
-making	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-sense	PRIV NN
-,	
-the	ART DET
-people	NN
-are	VPRT AUXB
-not	XX0 RB
-what	WH
-they	TPP3 PRP SBJP
-think	VPRT PRIV THATD
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-.	
-It	PIT CAP PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-matter	INF
-the	ART DET
-experiences	NN
-or	CCONJ
-live	JJ
-history	NN
-in	PIN CONJ PREP
-some	QUAN DET
-subject	NN
-,	
-everyone	QUPR INPR
-could	POMD
-make	INF
-irrational	JJ
-decisions	NOMZ
-all	QUAN DET
-the	ART DET
-time	NN
-,	
-because	CAUS PIN SCONJ PREP
-the	ART DET
-behavior	NN
-is	BEMA VPRT AUXB
-under	PIN PREP
-the	ART DET
-influence	NN
-of	PIN PREP
-arousal	NN
-whether	PIN SCONJ PREP
-biological	JJ
-,	
-social	JJ
-,	
-physical	JJ
-,	
-sexual	JJ
-,	
-etc	X
-.	X
-A	ART CAP DET INDA
-positive	JJ
-aspect	NN
-emerge	INF
-in	PIN CONJ PREP
-this	DEMO DET
-context	NN
-,	
-researchers	NN
-have	VPRT PEAS
-appointed	
-ideas	NN
-to	PIN TO PREP
-improve	INF
-decision	NOMZ
--	
-making	PGAS
-abilities	NN
-,	
-using	PGAS
-emotion	NOMZ
--	
-provoking	PGAS
-situations	NOMZ
-for	PIN PREP
-making	PGAS
-other	JJ
-life	NN
-decisions	NOMZ
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-very	AMP RB
-relevant	JJ
-,	
-because	CAUS PIN SCONJ PREP
-positive	JJ
-emotions	NOMZ
-could	POMD
-be	AUXB INF
-use	NN
-in	PIN CONJ PREP
-live	JJ
-changes	NN
-in	PIN CONJ PREP
-irrational	JJ
-behaviors	NN
-.	
- 	
-Otherwise	RB CONJ CAP
-,	
-the	ART DET
-irrationality	NOMZ
-of	PIN PREP
-the	ART DET
-decision	NOMZ
-making	NN
-process	NN
-seems	VPRT SMP
-to	PIN TO PREP
-influence	INF
-the	ART DET
-lack	NN
-of	PIN PREP
-self	NN
--	
-control	NN
-on	PIN PREP
-Americans	CAP NNP
-.	
-Ariely	RB CAP
-(	
-2008	NUM
-)	
-analyses	VPRT
-two	NUM
-states	PUBV NN
-of	PIN PREP
-humor	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-people	NN
-make	VPRT
-their	TPP3 PRP SBJP
-judgments	NOMZ
-,	
-he	TPP3 PRP SBJP
-calls	VPRT
-it	PIT PRP SBJP
-cool	VPRT
-state	PUBV NN
-and	CCONJ
-hot	JJ
-state	PUBV NN
-.	
-If	COND PIN CAP SCONJ PREP
-so	RB
-,	
-the	ART DET
-theory	NN
-also	RB
-should	NEMD
-be	PASS AUXB INF
-applied	
-to	PIN PREP
-other	JJ
-aspects	NN
-in	PIN CONJ PREP
-life	NN
-such	JJ
-as	PIN CONJ PREP
-health	NN
-care	NN
-and	PHC CCONJ
-savings	NN
-.	
-Companies	NN CAP
-must	NEMD
-be	AUXB INF
-using	PGAS
-this	DEMO DET
-knowledge	NN
-to	PIN TO PREP
-manipulate	INF
-the	ART DET
-clients	NN
-.	
- 	
-Specifically	RB CAP
-and	PHC CCONJ
-individually	RB
-,	
-Ariely	RB CAP
-(	
-2008	NUM
-)	
-builds	VPRT
-all	QUAN DET
-the	ART DET
-argumentation	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-comprehensions	NOMZ
-of	PIN PREP
-the	ART DET
-irrationality	NOMZ
-of	PIN PREP
-decision	NOMZ
--	
-making	NN
-.	
-Think	PRIV CAP INF
-about	PIN PREP
-irrational	JJ
-decisions	NOMZ
-about	PIN PREP
-ownership	NN
-,	
-each	QUAN DET
-person	NN
-could	POMD
-realize	PRIV INF
-this	DEMO DET
-theory	NN
-,	
-especially	RB
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-overvalue	VPRT
-what	WH
-they	TPP3 PRP SBJP
-have	VPRT
-.	
-This	DEMO CAP DET
-idea	NN
-makes	VPRT
-them	TPP3 PRP SBJP ACCU
-perceive	PRIV INF
-the	ART DET
-value	NN
-of	PIN PREP
-an	ART DET INDA
-object	PUBV NN
-as	RB CONJ
-much	QUAN RB
-higher	JJ CMADJ
-.	
-Three	CAP NUM
-reasons	PRIV NN
-could	POMD
-be	PASS AUXB INF
-used	
-to	PIN TO PREP
-explain	PUBV INF
-why	RB WHCL SCONJ WH
-thinking	PRIV PGAS
-rationally	RB
-about	PIN PREP
-own	JJ
-possessions	NOMZ
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-:	
-1	X
-)	
-people	NN
-worry	VPRT
-more	RB EMPH CMADJ
-about	PIN PREP
-what	WH
-they	TPP3 PRP SBJP
-may	POMD
-lose	INF
-rather	RB
-than	PIN PREP
-on	PIN PREP
-what	WH
-we	FPP1 PRP SBJP
-may	POMD
-gain	INF
-;	
-2	X
-)	
-the	ART DET
-connection	NOMZ
-between	PIN PREP
-the	ART DET
-person	NN
-and	CCONJ
-the	ART DET
-things	NN
-,	
-makes	VPRT
-difficult	JJ
-dispose	NN
-of	PIN PREP
-it	PIT PRP SBJP
-;	
-and	ANDC CCONJ
-3	X
-)	
-seen	PRIV
-the	ART DET
-transaction	NOMZ
-could	POMD
-influence	INF
-the	ART DET
-perception	NOMZ
-of	PIN PREP
-it	PIT PRP SBJP
-.	
-Finally	RB CAP
-,	
-the	ART DET
-feeling	PRIV NN
-of	PIN PREP
-ownership	NN
-it	PIT PRP SBJP
-seems	VPRT SMP
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-determined	PRIV SUAV
-by	PIN PREP
-the	ART DET
-level	NN
-of	PIN PREP
-work	NN
-the	ART DET
-person	NN
-spend	VPRT
-on	PIN PREP
-it	PIT PRP SBJP
-,	
-that	RB DEMO
-is	RB
-,	
-the	ART DET
-harder	JJ CMADJ
-someone	QUPR INPR
-work	INF
-on	PIN PREP
-something	QUPR INPR
-,	
-the	ART DET
-more	JJ EMPH CMADJ
-he	TPP3 PRP SBJP
-/	
-she	TPP3 PRP SBJP
-start	VPRT
-feeling	PRIV PGAS
-about	PIN PREP
-them	TPP3 PRP SBJP ACCU
-as	PIN CONJ PREP
-our	FPP1 PRP SBJP
-own	JJ
-.	
- 	
-In	PIN CONJ CAP PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-book	NN
-,	
-Ariely	RB CAP
-(	
-2008	NUM
-)	
-states	VPRT PUBV
-that	PIN THVC SCONJ PREP
-previous	JJ
-knowledge	NN
-about	PIN PREP
-on	PIN PREP
-topic	NN
-could	POMD
-change	INF
-the	ART DET
-experience	NN
-of	PIN PREP
-it	PIT PRP SBJP
-.	
-Thus	RB CONJ CAP
-,	
-expectations	NOMZ
-must	NEMD
-shape	INF
-stereotypes	NN
-.	
-The	ART CAP DET
-author	NN
-concludes	VPRT PRIV
-“	
- 	
-”	
-.	
-     	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0710.0445>\n\n<The irrationality of Decision Making>\n\n	
+word	Making	CAP PGAS
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	rational	JJ
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	general	JJ
+gap	 	
+word	assumptions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	must	NEMD
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	researchers	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	opposite	JJ PIN PREP
+gap	 	
+word	way	NN
+gap	, 	
+word	Ariely	RB CAP
+gap	 (2008), 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	book	NN
+gap	 ‘ <Predictably Irrational: the hidden forces that shape our decisions> ’, 	
+word	presents	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	series	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	scientific	JJ
+gap	 	
+word	experiments	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	findings	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	supports	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	existence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	behaviors	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	may	POMD
+gap	 	
+word	skew	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	rational	JJ
+gap	 	
+word	choice	NN
+gap	 	
+word	theory	NN
+gap	.\n	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Ariely	RB CAP
+gap	 (2008) 	
+word	a	ART DET INDA
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	asymmetric	JJ
+gap	 	
+word	dominance	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	decoy	NN
+gap	 	
+word	effect	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 "	
+word	secret	JJ
+gap	 	
+word	agent	NN
+gap	" 	
+word	in	PIN CONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	decisions	NOMZ
+gap	. 	
+word	Following	CAP PGAS
+gap	 	
+word	observations	NOMZ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	influences	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	phenomenon	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	specific	JJ
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	preference	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	choosing	PGAS
+gap	 	
+word	process	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	book	NN
+gap	, 	
+word	Ariely	RB CAP
+gap	 	
+word	challenges	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	theory	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	supply	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	demand	SUAV NN
+gap	, 	
+word	claiming	PUBV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	methods	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	appointing	GER PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	value	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	manipulated	
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	situations	NOMZ
+gap	, 	
+word	consumers	NN
+gap	 	
+word	buy	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	certain	JJ
+gap	 	
+word	price	NN
+gap	, 	
+word	before	PIN PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	become	VPRT
+gap	 "	
+word	anchored	
+gap	" 	
+word	to	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	price	NN
+gap	 	
+word	moved	SUAV WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	arbitrary	JJ
+gap	 	
+word	coherence	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	consumers	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	susceptible	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	irrational	JJ
+gap	 	
+word	pricing	NN
+gap	, 	
+word	making	PGAS
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	rationalizing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	outcomes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	choices	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 	
+word	based	PASTP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	memory	NN
+gap	 	
+word	rather	RB
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	preferences	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	Ariely	RB CAP
+gap	 	
+word	explains	VPRT PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	reaction	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	words	NN
+gap	 "	
+word	free	JJ
+gap	" 	
+word	and	ANDC CCONJ
+gap	 "	
+word	zero	NUM
+gap	". 	
+word	Mentioning	GER PUBV CAP PGAS
+gap	 	
+word	multiple	JJ
+gap	 	
+word	experiments	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	author	NN
+gap	 	
+word	shown	VBD PRIV THATD
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	person	NN
+gap	 	
+word	faced	VBD
+gap	 	
+word	multiple	JJ
+gap	 	
+word	choices	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	commonly	RB
+gap	 	
+word	choose	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	free	JJ
+gap	 	
+word	option	NOMZ
+gap	.\n	
+word	Regarding	CAP PGAS
+gap	 	
+word	social	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	market	NN
+gap	 	
+word	norms	NN
+gap	, 	
+word	Ariely	RB CAP
+gap	 	
+word	speaks	VPRT
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	differences	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	elements	NOMZ
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	example	NN
+gap	, 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	norms	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	friendly	JJ
+gap	 	
+word	requests	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	payback	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	market	NN
+gap	 	
+word	norms	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	accounts	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	prices	NN
+gap	, 	
+word	cost	NN
+gap	 	
+word	benefits	NN
+gap	, 	
+word	repayment	NOMZ
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	essential	JJ PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	others	NN
+gap	. 	
+word	Ariely	RB CAP
+gap	 	
+word	talks	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	norms	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	 	
+word	norms	NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	comments	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	relations	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	too	JJ
+gap	 	
+word	elements	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	troubles	NN
+gap	. 	
+word	Such	JJ CAP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	prefer	VPRT SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	things	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	feel	VPRT PRIV
+gap	 	
+word	good	JJ
+gap	 	
+word	rather	RB
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	paid	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	authors	NN
+gap	 	
+word	describe	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	work	NN
+gap	 	
+word	output	NN
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	negatively	RB
+gap	 	
+word	affected	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	payment	NOMZ
+gap	, 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	small	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	large	JJ
+gap	 	
+word	amounts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	. 	
+word	Experiments	NOMZ CAP
+gap	 	
+word	made	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	others	NN
+gap	 	
+word	researchers	NN
+gap	 	
+word	cited	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	book	NN
+gap	, 	
+word	confirm	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	assumptions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Ariely	RB CAP
+gap	, 	
+word	This	DEMO CAP DET
+gap	 	
+word	tests	NN
+gap	 	
+word	showed	VBD PRIV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 “	
+word	favor	NN
+gap	” 	
+word	works	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 	
+word	done	PASTP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	request	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	friend	NN
+gap	, 	
+word	sometimes	RB
+gap	 	
+word	produced	VBD
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	results	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	work	NN
+gap	 	
+word	paid	
+gap	.\n	
+word	Probably	RB CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	effect	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	working	PGAS
+gap	 	
+word	live	RB
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	explained	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	connect	INF
+gap	 	
+word	people	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	social	JJ
+gap	 	
+word	level	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	desire	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	gain	INF
+gap	 	
+word	trust	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	author	NN
+gap	 	
+word	words	NN
+gap	 " <money, as it turns out, is the most expensive way to motivate people. Social norms are not only cheaper, but often more effective as well.> ". 	
+word	Seeing	PRIV CAP PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	perspective	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	employer	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	use	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	effect	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	favor	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	what	WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	emotion	NOMZ
+gap	 	
+word	situation	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	theory	NN
+gap	 	
+word	indicates	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	behavior	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	controlled	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	emotions	NOMZ
+gap	. 	
+word	Ariely	RB CAP
+gap	 (2008) 	
+word	use	VPRT
+gap	 	
+word	data	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	experiments	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	argues	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	anger	NN
+gap	, 	
+word	frustration	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	hunger	NN
+gap	 	
+word	named	
+gap	 	
+word	high	JJ
+gap	-	
+word	emotions	NOMZ
+gap	 	
+word	potentially	RB
+gap	 	
+word	trigger	VPRT
+gap	 	
+word	effect	NN
+gap	 	
+word	s	X
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	decision	NOMZ
+gap	-	
+word	making	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	sense	PRIV NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	what	WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	think	VPRT PRIV THATD
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	matter	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	experiences	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	live	JJ
+gap	 	
+word	history	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	subject	NN
+gap	, 	
+word	everyone	QUPR INPR
+gap	 	
+word	could	POMD
+gap	 	
+word	make	INF
+gap	 	
+word	irrational	JJ
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	behavior	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	arousal	NN
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	biological	JJ
+gap	, 	
+word	social	JJ
+gap	, 	
+word	physical	JJ
+gap	, 	
+word	sexual	JJ
+gap	, 	
+word	etc	X
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	positive	JJ
+gap	 	
+word	aspect	NN
+gap	 	
+word	emerge	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	researchers	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	appointed	
+gap	 	
+word	ideas	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	decision	NOMZ
+gap	-	
+word	making	PGAS
+gap	 	
+word	abilities	NN
+gap	, 	
+word	using	PGAS
+gap	 	
+word	emotion	NOMZ
+gap	-	
+word	provoking	PGAS
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	making	PGAS
+gap	 	
+word	other	JJ
+gap	 	
+word	life	NN
+gap	 	
+word	decisions	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	relevant	JJ
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	positive	JJ
+gap	 	
+word	emotions	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	use	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	live	JJ
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	irrational	JJ
+gap	 	
+word	behaviors	NN
+gap	.\n	
+word	Otherwise	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	irrationality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	decision	NOMZ
+gap	 	
+word	making	NN
+gap	 	
+word	process	NN
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	influence	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	self	NN
+gap	-	
+word	control	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	Americans	CAP NNP
+gap	. 	
+word	Ariely	RB CAP
+gap	 (2008) 	
+word	analyses	VPRT
+gap	 	
+word	two	NUM
+gap	 	
+word	states	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	humor	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	people	NN
+gap	 	
+word	make	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	judgments	NOMZ
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	calls	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	cool	VPRT
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	hot	JJ
+gap	 	
+word	state	PUBV NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	so	RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	theory	NN
+gap	 	
+word	also	RB
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	applied	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	aspects	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	life	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	savings	NN
+gap	. 	
+word	Companies	NN CAP
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	using	PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	knowledge	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	manipulate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	clients	NN
+gap	.\n	
+word	Specifically	RB CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	individually	RB
+gap	, 	
+word	Ariely	RB CAP
+gap	 (2008) 	
+word	builds	VPRT
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	argumentation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	comprehensions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	irrationality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	decision	NOMZ
+gap	-	
+word	making	NN
+gap	. 	
+word	Think	PRIV CAP INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	irrational	JJ
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	ownership	NN
+gap	, 	
+word	each	QUAN DET
+gap	 	
+word	person	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	realize	PRIV INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	theory	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	overvalue	VPRT
+gap	 	
+word	what	WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	idea	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	perceive	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	value	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	higher	JJ CMADJ
+gap	. 	
+word	Three	CAP NUM
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	why	RB WHCL SCONJ WH
+gap	 	
+word	thinking	PRIV PGAS
+gap	 	
+word	rationally	RB
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	own	JJ
+gap	 	
+word	possessions	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	: 1) 	
+word	people	NN
+gap	 	
+word	worry	VPRT
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	lose	INF
+gap	 	
+word	rather	RB
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	gain	INF
+gap	; 2) 	
+word	the	ART DET
+gap	 	
+word	connection	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	person	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	things	NN
+gap	, 	
+word	makes	VPRT
+gap	 	
+word	difficult	JJ
+gap	 	
+word	dispose	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	; 	
+word	and	ANDC CCONJ
+gap	 3) 	
+word	seen	PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	transaction	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	influence	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	perception	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	Finally	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	feeling	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	ownership	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	determined	PRIV SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	work	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	person	NN
+gap	 	
+word	spend	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	that	RB DEMO
+gap	 	
+word	is	RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	harder	JJ CMADJ
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	work	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	something	QUPR INPR
+gap	, 	
+word	the	ART DET
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	/	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	start	VPRT
+gap	 	
+word	feeling	PRIV PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	own	JJ
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	book	NN
+gap	, 	
+word	Ariely	RB CAP
+gap	 (2008) 	
+word	states	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	previous	JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	topic	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	change	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	experience	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	expectations	NOMZ
+gap	 	
+word	must	NEMD
+gap	 	
+word	shape	INF
+gap	 	
+word	stereotypes	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	author	NN
+gap	 	
+word	concludes	VPRT PRIV
+gap	 “ <expectations can influence nearly every aspect in one’s life.> ”.\n\n<REFERENCE>\n<Ariely, Dan (2008). Predictably Irrational, Harper Collins. ISBN 978-0-06-135323-9>\n<Berreby, David (16 March 2008). "Emonomics". The New York Times.>\n	

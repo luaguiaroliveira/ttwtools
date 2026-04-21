@@ -1,1261 +1,2063 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2474.1320.txt
-token	tags
-    	
-The	ART CAP DET
-number	NN
-of	PIN PREP
-political	JJ
-regimes	NN
-with	PIN PREP
-democratic	JJ
-foundations	NOMZ
-has	VPRT PEAS
-grown	
-at	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-twentieth	JJ
-century	NN
-,	
-raising	PGAS
-questions	NOMZ
-about	PIN PREP
-the	ART DET
-characteristics	NN
-of	PIN PREP
-each	QUAN DET
-type	NN
-of	PIN PREP
-regime	NN
-and	CCONJ
-going	PGAS
-deeper	RB CMADJ
-,	
-seeking	PGAS
-to	PIN TO PREP
-identify	INF
-the	ART DET
-ideal	JJ
-type	NN
-.	
-But	CAP CCONJ
-before	PIN PREP
-thinking	PRIV PGAS
-about	PIN PREP
-which	PIRE DET WH
-type	NN
-would	PRMD
-be	AUXB INF
-best	JJ PRED SPADJ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-clarify	INF
-the	ART DET
-characteristics	NN
-of	PIN PREP
-each	QUAN DET
-type	NN
-of	PIN PREP
-regime	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-the	ART DET
-dichotomy	NN
-between	PIN PREP
-presidentialism	NN
-and	PHC CCONJ
-parliamentarism	NN
-has	VPRT PEAS SPAU
-historically	RB
-been	BEMA AUXB
-the	ART DET
-focus	NN
-of	PIN PREP
-academic	JJ
-work	NN
-on	PIN PREP
-constitution	NOMZ
-design	NN
-,	
-the	ART DET
-choice	NN
-of	PIN PREP
-some	QUAN DET
-countries	NN
-,	
-especially	RB
-during	PIN PREP
-the	ART DET
-democratization	NOMZ
-process	NN
-by	PIN PREP
-hybrid	JJ
-systems	NN
-,	
-has	VPRT PEAS
-drawn	
-attention	NOMZ
-by	PIN PREP
-highlighting	GER PGAS
-its	PIT PRP SBJP
-relevance	NN
-.	
- 	
-During	PIN CAP PREP
-the	ART DET
-process	NN
-of	PIN STPR PREP
-(	
-re)democratization	NOMZ
-,	
-many	QUAN JJ
-issues	NN
-related	WZPAST
-to	PIN PREP
-institutional	JJ
-incentives	NN
-for	PIN PREP
-maintaining	GER PUBV THATD PGAS
-stability	NOMZ
-emerged	VBD
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-socioeconomic	JJ
-impact	NN
-that	TOBJ WHOBJ WH
-systems	NN
-changes	NN
-may	POMD
-entail	INF
-.	
- 	
-According	CAP PGAS
-to	PIN PREP
-John	CAP NNP
-Carey	CAP NNP
-(	
-2005	NUM
-)	
-,	
-the	ART DET
-major	JJ
-consequence	NN
-of	PIN PREP
-this	DEMO DET
-transition	NOMZ
-is	BEMA VPRT AUXB
-the	ART DET
-attention	NOMZ
-focus	NN
-on	PIN PREP
-issues	NN
-about	PIN PREP
-constitutional	JJ
-rules	SUAV NN
-,	
-in	PIN CONJ PREP
-other	JJ
-words	NN
-,	
-about	PIN PREP
-the	ART DET
-conformation	NOMZ
-of	PIN PREP
-these	DEMO DET
-new	JJ
-democracies	NN
-.	
- 	
-After	RB CAP
-all	QUAN RB
-,	
-the	ART DET
-constitutional	JJ
-design	NN
-of	PIN PREP
-contemporary	JJ
-democracies	NN
-can	POMD
-range	INF
-through	PIN PREP
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-its	PIT PRP SBJP
-components	NN
-,	
-which	SERE DET WH
-according	PGAS
-to	PIN PREP
-Antonio	CAP NNP
-Cintra	CAP NNP
-,	
-prevents	VPRT
-the	ART DET
-construction	NOMZ
-of	PIN PREP
-a	ART DET INDA
- 	
-(	
-2007	NUM
-,	
-p.	NN
-37	NUM
-)	
-.	
- 	
-The	ART CAP DET
-constitutional	JJ
-design	NN
-has	VPRT
-many	QUAN JJ
-important	JJ
-aspects	NN
-that	DEMO WHOBJ WH
-impact	NN
-stability	NOMZ
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-fundamental	JJ
-aspects	NN
-,	
-for	PIN PREP
-John	CAP NNP
-Carey	CAP NNP
-(	
-2005	NUM
-)	
-,	
-is	BEMA VPRT AUXB
-the	ART DET
-choice	NN
-between	PIN PREP
-parliamentary	JJ
-,	
-presidential	JJ
-,	
-or	CCONJ
-a	ART DET INDA
-hybrid	JJ
-format	NN
-of	PIN PREP
-government	NOMZ
-.	
-However	RB CONJ CAP
-,	
-what	WHQU WH
-is	BEMA VPRT AUXB
-the	ART DET
-hybrid	JJ
-format	NN
-?	QUES
-Is	VPRT AUXB CAP
-there	EX
-an	ART DET INDA
-academic	JJ
-consensus	NN
-about	PIN PREP
-this	DEMO DET
-concept	NN
-?	QUES
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-,	
-the	ART DET
-theoretical	JJ
-discussion	NOMZ
-of	PIN PREP
-the	ART DET
-idea	NN
-of	PIN PREP
-a	ART DET INDA
-hybrid	JJ
-format	NN
-will	PRMD
-be	PASS AUXB INF
-exposed	
-to	PIN TO PREP
-show	PRIV INF
-its	PIT PRP SBJP
-importance	NN
-and	PHC CCONJ
-complexity	NOMZ
-,	
-seeing	PRIV PRESP PGAS
-that	THVC DET
-for	PIN PREP
-Robert	CAP NNP
-Elgie	CAP NNP
-:	
- 	
-(	
-1998	NUM
-,	
-p.	NN
-220	NUM
-)	
-.	
-Initially	RB TIME CAP
-,	
-t	NNP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-resume	INF
-the	ART DET
-concept	NN
-of	PIN PREP
-Parliamentarism	CAP NNP
-and	PHC CCONJ
-Presidentialism	CAP NNP
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-idea	NN
-of	PIN PREP
-the	ART DET
-hybrid	NN
-since	OSUB PIN SCONJ PREP
- 	
-(	
-Elgie	CAP NNP
-,	
-2004	NUM
-,	
-p.	NN
-3	NUM
-)	
-.	
- 	
-The	ART CAP DET
-distinction	NOMZ
-about	PIN PREP
-these	DEMO DET
-two	NUM
-regimes	NN
-types	NN
-,	
-according	PGAS
-to	PIN PREP
-John	CAP NNP
-Carey	CAP NNP
-(	
-2005	NUM
-)	
-,	
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-the	ART DET
-origin	NN
-and	CCONJ
-the	ART DET
-survival	NN
-of	PIN PREP
-the	ART DET
-popular	JJ
-branches	NN
-.	
-Under	PIN CAP PREP
-de	PIN PREP
-parliamentary	JJ
-system	NN
-,	
-according	PGAS
-to	PIN PREP
-Carey	CAP NNP
-,	
- 	
-while	OSUB PIN SCONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-presidential	JJ
-system	NN
-the	ART DET
-origin	NN
-of	PIN PREP
-these	DEMO DET
-two	NUM
-branches	NN
-are	VPRT AUXB
- 	
-(	
-2005	NUM
-,	
-p.92	NN
-)	
-.	
- 	
-About	PIN CAP PREP
-survival	NN
-,	
-in	PIN CONJ PREP
-Parliamentarism	CAP NNP
-the	ART DET
-executive	NN
-needs	VPRT
-the	ART DET
-legislative	JJ
-confidence	NN
-to	PIN TO PREP
-remain	INF
-in	PIN CONJ PREP
-the	ART DET
-power	NN
-,	
-meaning	PRIV PGAS
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-needs	VPRT
-the	ART DET
-approval	NN
-of	PIN PREP
-an	ART DET INDA
-assembly	NN
-majority	NOMZ
-.	
-However	RB CONJ CAP
-,	
-like	PIN PREP
-Carey	CAP NNP
-shows	VPRT PRIV
-,	
-usually	RB
-this	DEMO DET
-dependence	NN
-is	BEMA VPRT AUXB
-mutual	JJ PRED
-,	
-therefore	RB CONJ
-Parliamentarism	CAP NNP
-is	PASS VPRT AUXB
-distinguished	
-from	PIN PREP
-Presidentialism	CAP NNP
-for	PIN PREP
-having	PGAS
-the	ART DET
-powers	NN
-fused	
-,	
-rather	RB CONJ
-than	PIN PREP
-separated	
-.	
-Beyond	PIN CAP PREP
-this	DEMO DET
-separation	NOMZ
-of	PIN PREP
-the	ART DET
-power	NN
-,	
-in	PIN CONJ PREP
-accordance	NN
-withCarey	NNP
-(	
-2005	NUM
-)	
-,	
-in	PIN CONJ PREP
-Presidentialism	CAP NNP
-the	ART DET
-person	NN
-who	WHSUB WH
-is	PASS VPRT AUXB
-elected	
-to	PIN PREP
-the	ART DET
-executive	JJ
-branch	NN
-names	NN
-and	CCONJ
-directs	VPRT
-the	ART DET
-composition	NOMZ
-government	NOMZ
-,	
-which	SERE DET WH
-reinforces	VPRT
-the	ART DET
-idea	NN
-of	PIN PREP
-separation	NOMZ
-.	
- 	
-When	RB CAP SCONJ WH
-the	ART DET
-debate	NN
-about	PIN PREP
-the	ART DET
-regime	NN
-types	NN
-started	VBD
-,	
-Presidentialism	CAP NNP
-was	PASS VBD SPAU AUXB
-strongly	AMP RB
-criticized	
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-influential	JJ
-author	NN
-that	TSUB WHSUB WH
-promotes	VPRT
-these	DEMO DET
-critics	NN
-was	VBD AUXB
-Juan	CAP NNP
-Linz	CAP NNP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-work	NN
-“	
-The	ART CAP DET
-Perils	CAP NNP
-of	PIN PREP
-Presidentialism	CAP NNP
-”	
-,	
-in	PIN CONJ PREP
-1990	NUM
-.	
-The	ART CAP DET
-author	NN
-indicates	VPRT PRIV
-Parliamentarism	CAP NNP
-to	PIN PREP
-the	ART DET
-new	JJ
-Latin	JJ CAP
-American	JJ CAP
-democracies	NN
-,	
-because	CAUS PIN SCONJ PREP
-he	TPP3 PRP SBJP
-believed	VBD PRIV
-that	PIN THVC SCONJ PREP
-Presidentialism	CAP NNP
-was	BEMA VBD AUXB
-more	RB EMPH CMADJ
-prone	JJ
-to	PIN PREP
-democratic	JJ
-breakdown	NN
-than	PIN PREP
-Parliamentarism	CAP NNP
-,	
-as	PIN CONJ PREP
-John	CAP NNP
-Carey	CAP NNP
-states	VPRT PUBV
-:	
- 	
-The	ART CAP DET
-central	JJ
-elements	NOMZ
-of	PIN PREP
-Linz	CAP NNP
-'s	
-case	NN
-against	PIN PREP
-Presidentialism	CAP NNP
-are	BEMA VPRT AUXB
-twofold	JJ PRED
-.	
-First	RB CAP
-,	
-Presidentialism	CAP NNP
-lacks	VPRT
-Parliamentarism	CAP NNP
-'s	
-safety	NN
-valve	NN
-,	
-the	ART DET
-confidence	NN
-vote	SUAV NN
-,	
-that	DEMP WH
-allows	VPRT SUAV
-for	PIN PREP
-the	ART DET
-removal	NN
-of	PIN PREP
-a	ART DET INDA
-government	NOMZ
-from	PIN PREP
-office	NN
-in	PIN CONJ PREP
-the	ART DET
-event	NN
-of	PIN PREP
-a	ART DET INDA
-crisis	NN
-without	PIN PREP
-discarding	GER PGAS
-the	ART DET
-constitution	NOMZ
-.	
-Second	RB CAP
-,	
-Presidentialism	CAP NNP
-creates	VPRT
-incentives	NN
-and	PHC CCONJ
-conditions	NOMZ
-that	TSUB WHSUB WH
-encourage	VPRT
-such	JJ
-crises	NN
-in	PIN CONJ PREP
-the	ART DET
-first	JJ
-place	NN
-,	
-and	ANDC CCONJ
-particularly	RB
-that	DEMP DET
-aggravate	VPRT
-the	ART DET
-relationship	NN
-between	PIN PREP
-the	ART DET
-executive	NN
-and	CCONJ
-the	ART DET
-legislature	NN
-(	
-Carey	CAP NNP
-,	
-2005	NUM
-,	
-p.	NN
-94	NUM
-)	
-.	
- 	
-Then	RB CAP
-,	
-an	ART DET INDA
-academic	JJ
-consensus	NN
-in	PIN CONJ PREP
-favor	NN
-of	PIN PREP
-to	PIN PREP
-Parliamentarism	CAP NNP
-was	PASS VBD BYPA AUXB
-generated	
-by	PIN PREP
-the	ART DET
-time	NN
-,	
-nevertheless	RB CONJ
-,	
-the	ART DET
-political	JJ
-world	NN
-was	VBD AUXB
-moving	SUAV PGAS
-to	PIN PREP
-another	DET
-direction	NOMZ
- 	
-(	
-Carey	CAP NNP
-,	
-2005	NUM
-,	
-p.	NN
-95	NUM
-)	
-.	
-Briefly	RB CAP
-,	
-the	ART DET
-new	JJ
-democracies	NN
-were	PASS VBD AUXB
-established	PRIV
-mostly	RB
-in	PIN CONJ PREP
-presidential	JJ
-or	CCONJ
-hybrid	JJ
-systems	NN
-.	
- 	
-Many	QUAN JJ CAP
-constitutional	JJ
-regimes	NN
-combined	
-elements	NOMZ
-from	PIN PREP
-both	DET
-regimes	NN
-types	NN
-–	
-parliamentary	JJ
-and	PHC CCONJ
-presidential	JJ
-,	
-that	WHQU DEMP WH
-is	PASS VPRT AUXB
-called	
-hybrid	JJ
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-concept	NN
-of	PIN PREP
-this	DEMO DET
-blend	NN
-has	VPRT PEAS
-been	BEMA AUXB
-particularly	RB
-prone	JJ
-to	PIN PREP
-definitional	JJ
-problems	NN
-(	
-Elgie	CAP NNP
-,	
-2004	NUM
-)	
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-way	NN
-to	PIN TO PREP
-unite	INF
-the	ART DET
-knowledge	NN
-hitherto	NN
-developed	
-,	
-Robert	CAP NNP
-Elgie	CAP NNP
-identified	VBD
-three	NUM
-types	NN
-of	PIN PREP
-definition	NOMZ
-of	PIN PREP
-hybrid	NN
-,	
-which	SERE DET WH
-he	TPP3 PRP SBJP
-called	VBD
-semi	JJ
--	NN
-presidentialism	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-literature	NN
-.	
- 	
-The	ART CAP DET
-three	NUM
-concepts	NN
-exposed	WZPAST
-by	PIN PREP
-Elgie	CAP NNP
-show	VPRT PRIV
-a	ART DET INDA
-progressive	JJ
-development	NOMZ
-of	PIN PREP
-the	ART DET
-theme	NN
-.	
-The	ART CAP DET
-first	JJ
-type	NN
-of	PIN PREP
-definition	NOMZ
-of	PIN PREP
-the	ART DET
-hybrid	NN
-,	
-which	SERE WHQU DET WH
-was	PASS VBD AUXB
-based	
-in	PIN CONJ PREP
-the	ART DET
-works	NN
-of	PIN PREP
-Patrick	CAP NNP
-O’Neil	CAP NNP
-,	
-is	VPRT AUXB
-one	NUM
- 	
-(	
-Elgie	CAP NNP
-,	
-2004	NUM
-,	
-p.3	NN
-)	
-.	
-The	ART CAP DET
-second	JJ
-was	PASS VBD AUXB
-based	
-on	PIN PREP
-Maurice	CAP NNP
-Duverger	CAP NNP
-’s	
-view	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-divided	
-into	PIN PREP
-three	NUM
-parts	NN
-:	
-the	ART DET
-election	NOMZ
-by	PIN PREP
-universal	JJ
-suffrage	NN
-of	PIN PREP
-a	ART DET INDA
-president	NN
-;	
-this	DEMP DET
-elected	
-president	NN
-has	VPRT
-many	QUAN JJ
-powers	NN
-;	
-and	ANDC CCONJ
-,	
-he	TPP3 PRP SBJP
-has	VPRT
-a	ART DET INDA
-prime	JJ
-minister	NN
-and	PHC CCONJ
-ministers	NN
-as	PIN CONJ PREP
-opposition	NOMZ
-.	
-These	DEMO CAP DET
-first	JJ
-two	NUM
-conceptualizations	NOMZ
-have	VPRT
-the	ART DET
-figure	NN
-of	PIN PREP
-the	ART DET
-president	NN
-with	PIN PREP
-power	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-necessary	JJ
-criterion	NN
-,	
-which	SERE DET WH
-significantly	RB
-reduces	VPRT
-the	ART DET
-number	NN
-of	PIN PREP
-countries	NN
-that	TSUB WHSUB WH
-can	POMD
-be	PASS AUXB INF
-viewed	
-as	PIN CONJ PREP
-hybrids	NN
-and	CCONJ
- 	
-(	
-Elgie	CAP NNP
-,	
-2004	NUM
-,	
-p.4	NN
-)	
-.	
-Therefore	RB CONJ CAP
-,	
-the	ART DET
-third	JJ
-type	NN
-presented	WZPAST
-by	PIN PREP
-Elgie	CAP NNP
-(	
-2004	NUM
-)	
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-definition	NOMZ
-made	WZPAST
-by	PIN PREP
-himself	TPP3 PRP SBJP ACCU
-,	
-should	NEMD
-be	PASS BYPA AUXB INF
-defined	
-by	PIN PREP
-the	ART DET
-dispositional	JJ
-properties	NN
-of	PIN PREP
-regime	NN
-types	NN
-alone	RB
-,	
-wherein	RB SCONJ WH
-the	ART DET
-president	NN
-must	NEMD
-be	PASS SPAU AUXB INF
-popularly	RB
-elected	
-,	
-and	ANDC CCONJ
-exist	INF
-alongside	PIN PLACE PREP
-a	ART DET INDA
-prime	JJ
-minister	NN
-and	PHC CCONJ
-cabinet	NN
-.	
-Lastly	RB CAP
-,	
-this	DEMO DET
-type	NN
-of	PIN PREP
-definition	NOMZ
-removes	VPRT
-the	ART DET
-characteristic	NN
-of	PIN PREP
-subjectivity	NOMZ
-of	PIN PREP
-the	ART DET
-analysis	NN
-,	
-because	CAUS PIN SCONJ PREP
-if	COND PIN SCONJ PREP
-requires	VPRT SUAV
-no	SYNE DET
-judgment	NOMZ
-about	PIN PREP
-a	ART DET INDA
-powerful	JJ
-president	NN
-or	CCONJ
-the	ART DET
-opposition	NOMZ
-of	PIN PREP
-the	ART DET
-two	NUM
-branches	NN
-.	
-  	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-single	JJ
-concept	NN
-about	PIN PREP
-the	ART DET
-hybrids	NN
-,	
-this	DEMO DET
-system	NN
-has	VPRT PEAS
-grown	
-around	PIN PLACE PREP
-the	ART DET
-world	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-presidentialism	NN
-itself	PIT PRP SBJP ACCU
-,	
-which	SERE DET WH
-contradicts	VPRT
-the	ART DET
-negative	JJ
-view	NN
-of	PIN PREP
-presidentialism	NN
-,	
-and	ANDC CCONJ
-parliamentary	JJ
-supremacy	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-,	
-the	ART DET
-expansion	NOMZ
-of	PIN PREP
-countries	NN
-that	TSUB WHSUB WH
-present	VPRT
-the	ART DET
-plan	NN
-called	
-hybrid	JJ
-confirms	VPRT PUBV
-Antonio	CAP NNP
-Cintra	CAP NNP
-’s	
-view	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-only	DWNT RB
-two	NUM
-systems	NN
-would	PRMD
-be	BEMA AUXB INF
-only	DWNT RB
-a	ART DET INDA
-simplification	NOMZ
-(	
-2007	NUM
-,	
-37	NUM
-)	
-.	
-Understanding	GER PRIV PRESP CAP PGAS
-the	ART DET
-constitutional	JJ
-choices	NN
-that	TSUB WHSUB WH
-characterize	VPRT
-regimes	NN
-can	POMD
-ensure	PRIV SUAV INF
-their	TPP3 PRP SBJP
-maintenance	NN
-and	CCONJ
-prevent	INF
-democratic	JJ
-breakdowns	NN
-.	
- 	
-As	PIN CONJ CAP PREP
-noted	PRIV
-,	
-many	QUAN JJ
-details	NN
-influence	VPRT
-the	ART DET
-categorization	NOMZ
-of	PIN PREP
-a	ART DET INDA
-regime	NN
-type	NN
-.	
-Therefore	RB CONJ CAP
-,	
-choosing	PRESP PGAS
-one	NUM
-type	NN
-as	PIN CONJ PREP
-ideal	JJ
-over	PIN PREP
-others	NN
-can	POMD
-lead	INF
-to	PIN PREP
-institutional	JJ
-choices	NN
-that	TSUB WHSUB WH
-generate	VPRT
-instability	NOMZ
-.	
-It	PIT CAP PRP SBJP
-is	VPRT AUXB
-best	JJ PRED SPADJ
-to	PIN TO SPIN PREP
-deeply	RB
-understand	PRIV INF
-the	ART DET
-institutional	JJ
-and	PHC CCONJ
-cultural	JJ
-reality	NOMZ
-of	PIN PREP
-a	ART DET INDA
-system	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO STPR PREP
-(	
-re)design	INF
-the	ART DET
-constitutional	JJ
-features	NN
-of	PIN PREP
-a	ART DET INDA
-regime	NN
-.	
-  	
-The	ART CAP DET
-transition	NOMZ
-towards	PIN PREP
-democracy	NN
-,	
-which	SERE WHQU DET WH
-has	VPRT PEAS
-been	PASS AUXB
-called	
-the	ART DET
-“	
-Third	CAP NNP
-Wave	CAP NNP
-of	PIN PREP
-Democracy	CAP NNP
-”	
-,	
-was	PASS VBD AUXB
-composed	
-of	PIN PREP
-two	NUM
-main	JJ
-trends	NN
-.	
-The	ART CAP DET
-first	JJ
-one	NN
-is	BEMA VPRT AUXB
-the	ART DET
-establishment	NOMZ
-of	PIN PREP
-democracy	NN
-in	PIN CONJ PREP
-countries	NN
-that	TSUB WHSUB WH
-did	VBD SPAU
-not	XX0 RB
-have	INF
-these	DEMO DET
-experiences	NN
-previously	RB TIME
-–	
-this	DEMO DET
-process	NN
-is	PASS VPRT AUXB
-called	
-democratization	NOMZ
-.	
-The	ART CAP DET
-second	JJ
-one	NN
-is	BEMA VPRT AUXB
-the	ART DET
-re	PIN NN PREP
--	NN
-establishment	NOMZ
-of	PIN PREP
-democracy	NN
-in	PIN CONJ PREP
-countries	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-no	RB
-longer	RB CMADJ
-a	ART DET INDA
-part	NN
-of	PIN PREP
-European	JJ CAP
-and	PHC CCONJ
-Soviet	JJ CAP
-communism	NN
-,	
-and	ANDC CCONJ
-others	NN
-that	TSUB WHSUB WH
-had	VBD
-periods	NN
-of	PIN PREP
-authoritarianism	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-Latin	JJ CAP
-American	JJ CAP
-countries	NN
-–	
-this	DEMO DET
-process	NN
-is	PASS VPRT AUXB
-called	
-re	PIN NN PREP
--	NN
-democratization	NOMZ
-.	
-    	
-To	PIN TO CAP PREP
-deepen	INF
-on	PIN PREP
-the	ART DET
-subject	NN
-of	PIN PREP
-the	ART DET
-gap	NN
-between	PIN PREP
-theory	NN
-and	PHC CCONJ
-practice	NN
-against	PIN PREP
-presidenialism	NN
-,	
-consult	INF
-Carey	CAP NNP
-(	
-2005	NUM
-)	
-,	
-who	WH
-present	VPRT
-examples	NN
-of	PIN PREP
-cases	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS
-occurred	
-in	PIN CONJ PREP
-Latin	CAP NNP
-America	CAP NNP
-and	CCONJ
-post	JJ
--	JJ
-Communist	JJ CAP
-countries	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2474.1320>\n\n<Regime Types. Which one is the best??>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	political	JJ
+gap	 	
+word	regimes	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	democratic	JJ
+gap	 	
+word	foundations	NOMZ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	grown	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	twentieth	JJ
+gap	 	
+word	century	NN
+gap	, 	
+word	raising	PGAS
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	characteristics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	regime	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	going	PGAS
+gap	 	
+word	deeper	RB CMADJ
+gap	, 	
+word	seeking	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	ideal	JJ
+gap	 	
+word	type	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	thinking	PRIV PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	type	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	best	JJ PRED SPADJ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	clarify	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	characteristics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	regime	NN
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dichotomy	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	presidentialism	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	parliamentarism	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	historically	RB
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	focus	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	academic	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	constitution	NOMZ
+gap	 	
+word	design	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	choice	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	countries	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	democratization	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	hybrid	JJ
+gap	 	
+word	systems	NN
+gap	, 	
+word	has	VPRT PEAS
+gap	 	
+word	drawn	
+gap	 	
+word	attention	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	highlighting	GER PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	relevance	NN
+gap	.\n	
+word	During	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	 (	
+word	re	
+gap	)	
+word	democratization	
+gap	 , 	
+word	many	
+gap	 	
+word	issues	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	institutional	
+gap	 	
+word	incentives	
+gap	 	
+word	for	
+gap	 	
+word	maintaining	
+gap	 	
+word	stability	
+gap	 	
+word	emerged	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	socioeconomic	
+gap	 	
+word	impact	
+gap	 	
+word	that	
+gap	 	
+word	systems	
+gap	 	
+word	changes	
+gap	 	
+word	may	
+gap	 	
+word	entail	
+gap	.  	
+word	According	
+gap	 	
+word	to	
+gap	 	
+word	John	
+gap	 	
+word	Carey	
+gap	 (2005), 	
+word	the	
+gap	 	
+word	major	
+gap	 	
+word	consequence	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	transition	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	attention	
+gap	 	
+word	focus	
+gap	 	
+word	on	
+gap	 	
+word	issues	
+gap	 	
+word	about	
+gap	 	
+word	constitutional	
+gap	 	
+word	rules	
+gap	, 	
+word	in	
+gap	 	
+word	other	
+gap	 	
+word	words	
+gap	, 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	conformation	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	new	
+gap	 	
+word	democracies	
+gap	.  	
+word	After	
+gap	 	
+word	all	
+gap	, 	
+word	the	
+gap	 	
+word	constitutional	
+gap	 	
+word	design	
+gap	 	
+word	of	
+gap	 	
+word	contemporary	
+gap	 	
+word	democracies	
+gap	 	
+word	can	
+gap	 	
+word	range	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	components	
+gap	, 	
+word	which	
+gap	 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	Antonio	
+gap	 	
+word	Cintra	
+gap	, 	
+word	prevents	
+gap	 	
+word	the	
+gap	 	
+word	construction	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 <deleted citation> (2007, 	
+word	p	
+gap	. 37).\n	
+word	The	
+gap	 	
+word	constitutional	
+gap	 	
+word	design	
+gap	 	
+word	has	
+gap	 	
+word	many	
+gap	 	
+word	important	
+gap	 	
+word	aspects	
+gap	 	
+word	that	
+gap	 	
+word	impact	
+gap	 	
+word	stability	
+gap	. 	
+word	One	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	fundamental	
+gap	 	
+word	aspects	
+gap	, 	
+word	for	
+gap	 	
+word	John	
+gap	 	
+word	Carey	
+gap	 (2005), 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	choice	
+gap	 	
+word	between	
+gap	 	
+word	parliamentary	
+gap	, 	
+word	presidential	
+gap	, 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	hybrid	
+gap	 	
+word	format	
+gap	 	
+word	of	
+gap	 	
+word	government	
+gap	. 	
+word	However	
+gap	, 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	hybrid	
+gap	 	
+word	format	
+gap	? 	
+word	Is	
+gap	 	
+word	there	
+gap	 	
+word	an	
+gap	 	
+word	academic	
+gap	 	
+word	consensus	
+gap	 	
+word	about	
+gap	 	
+word	this	
+gap	 	
+word	concept	
+gap	? 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	essay	
+gap	, 	
+word	the	
+gap	 	
+word	theoretical	
+gap	 	
+word	discussion	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	hybrid	
+gap	 	
+word	format	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	exposed	
+gap	 	
+word	to	
+gap	 	
+word	show	
+gap	 	
+word	its	
+gap	 	
+word	importance	
+gap	 	
+word	and	
+gap	 	
+word	complexity	
+gap	, 	
+word	seeing	
+gap	 	
+word	that	
+gap	 	
+word	for	
+gap	 	
+word	Robert	
+gap	 	
+word	Elgie	
+gap	: <deleted citation> (1998, 	
+word	p	
+gap	. 220). 	
+word	Initially	
+gap	, 	
+word	t	
+gap	 	
+word	is	
+gap	 	
+word	necessary	
+gap	 	
+word	to	
+gap	 	
+word	resume	
+gap	 	
+word	the	
+gap	 	
+word	concept	
+gap	 	
+word	of	
+gap	 	
+word	Parliamentarism	
+gap	 	
+word	and	
+gap	 	
+word	Presidentialism	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	hybrid	
+gap	 	
+word	since	
+gap	 <deleted citation> (	
+word	Elgie	
+gap	, 2004, 	
+word	p	
+gap	. 3).\n	
+word	The	
+gap	 	
+word	distinction	
+gap	 	
+word	about	
+gap	 	
+word	these	
+gap	 	
+word	two	
+gap	 	
+word	regimes	
+gap	 	
+word	types	
+gap	, 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	John	
+gap	 	
+word	Carey	
+gap	 (2005), 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	origin	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	survival	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	popular	
+gap	 	
+word	branches	
+gap	. 	
+word	Under	
+gap	 	
+word	de	
+gap	 	
+word	parliamentary	
+gap	 	
+word	system	
+gap	, 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	Carey	
+gap	, <deleted citation> 	
+word	while	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	presidential	
+gap	 	
+word	system	
+gap	 	
+word	the	
+gap	 	
+word	origin	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	two	
+gap	 	
+word	branches	
+gap	 	
+word	are	
+gap	 <deleted citation> (2005, 	
+word	p	
+gap	.92).\n	
+word	About	
+gap	 	
+word	survival	
+gap	, 	
+word	in	
+gap	 	
+word	Parliamentarism	
+gap	 	
+word	the	
+gap	 	
+word	executive	
+gap	 	
+word	needs	
+gap	 	
+word	the	
+gap	 	
+word	legislative	
+gap	 	
+word	confidence	
+gap	 	
+word	to	
+gap	 	
+word	remain	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	power	
+gap	, 	
+word	meaning	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	needs	
+gap	 	
+word	the	
+gap	 	
+word	approval	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	assembly	
+gap	 	
+word	majority	
+gap	. 	
+word	However	
+gap	, 	
+word	like	
+gap	 	
+word	Carey	
+gap	 	
+word	shows	
+gap	, 	
+word	usually	
+gap	 	
+word	this	
+gap	 	
+word	dependence	
+gap	 	
+word	is	
+gap	 	
+word	mutual	
+gap	, 	
+word	therefore	
+gap	 	
+word	Parliamentarism	
+gap	 	
+word	is	
+gap	 	
+word	distinguished	
+gap	 	
+word	from	
+gap	 	
+word	Presidentialism	
+gap	 	
+word	for	
+gap	 	
+word	having	
+gap	 	
+word	the	
+gap	 	
+word	powers	
+gap	 	
+word	fused	
+gap	, 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	separated	
+gap	. 	
+word	Beyond	
+gap	 	
+word	this	
+gap	 	
+word	separation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	power	
+gap	, 	
+word	in	
+gap	 	
+word	accordance	
+gap	 	
+word	withCarey	
+gap	 (2005), 	
+word	in	
+gap	 	
+word	Presidentialism	
+gap	 	
+word	the	
+gap	 	
+word	person	
+gap	 	
+word	who	
+gap	 	
+word	is	
+gap	 	
+word	elected	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	executive	
+gap	 	
+word	branch	
+gap	 	
+word	names	
+gap	 	
+word	and	
+gap	 	
+word	directs	
+gap	 	
+word	the	
+gap	 	
+word	composition	
+gap	 	
+word	government	
+gap	, 	
+word	which	
+gap	 	
+word	reinforces	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	separation	
+gap	. \n	
+word	When	
+gap	 	
+word	the	
+gap	 	
+word	debate	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	regime	
+gap	 	
+word	types	
+gap	 	
+word	started	
+gap	, 	
+word	Presidentialism	
+gap	 	
+word	was	
+gap	 	
+word	strongly	
+gap	 	
+word	criticized	
+gap	. 	
+word	The	
+gap	 	
+word	most	
+gap	 	
+word	influential	
+gap	 	
+word	author	
+gap	 	
+word	that	
+gap	 	
+word	promotes	
+gap	 	
+word	these	
+gap	 	
+word	critics	
+gap	 	
+word	was	
+gap	 	
+word	Juan	
+gap	 	
+word	Linz	
+gap	 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	work	
+gap	 “	
+word	The	
+gap	 	
+word	Perils	
+gap	 	
+word	of	
+gap	 	
+word	Presidentialism	
+gap	”, 	
+word	in	
+gap	 1990. 	
+word	The	
+gap	 	
+word	author	
+gap	 	
+word	indicates	
+gap	 	
+word	Parliamentarism	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	new	
+gap	 	
+word	Latin	
+gap	 	
+word	American	
+gap	 	
+word	democracies	
+gap	, 	
+word	because	
+gap	 	
+word	he	
+gap	 	
+word	believed	
+gap	 	
+word	that	
+gap	 	
+word	Presidentialism	
+gap	 	
+word	was	
+gap	 	
+word	more	
+gap	 	
+word	prone	
+gap	 	
+word	to	
+gap	 	
+word	democratic	
+gap	 	
+word	breakdown	
+gap	 	
+word	than	
+gap	 	
+word	Parliamentarism	
+gap	, 	
+word	as	
+gap	 	
+word	John	
+gap	 	
+word	Carey	
+gap	 	
+word	states	
+gap	: \n	
+word	The	
+gap	 	
+word	central	
+gap	 	
+word	elements	
+gap	 	
+word	of	
+gap	 	
+word	Linz	
+gap	'	
+word	s	
+gap	 	
+word	case	
+gap	 	
+word	against	
+gap	 	
+word	Presidentialism	
+gap	 	
+word	are	
+gap	 	
+word	twofold	
+gap	. 	
+word	First	
+gap	, 	
+word	Presidentialism	
+gap	 	
+word	lacks	
+gap	 	
+word	Parliamentarism	
+gap	'	
+word	s	
+gap	 	
+word	safety	
+gap	 	
+word	valve	
+gap	, 	
+word	the	
+gap	 	
+word	confidence	
+gap	 	
+word	vote	
+gap	, 	
+word	that	
+gap	 	
+word	allows	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	removal	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	government	
+gap	 	
+word	from	
+gap	 	
+word	office	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	event	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	crisis	
+gap	 	
+word	without	
+gap	 	
+word	discarding	
+gap	 	
+word	the	
+gap	 	
+word	constitution	
+gap	. 	
+word	Second	
+gap	, 	
+word	Presidentialism	
+gap	 	
+word	creates	
+gap	 	
+word	incentives	
+gap	 	
+word	and	
+gap	 	
+word	conditions	
+gap	 	
+word	that	
+gap	 	
+word	encourage	
+gap	 	
+word	such	
+gap	 	
+word	crises	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	place	
+gap	, 	
+word	and	
+gap	 	
+word	particularly	
+gap	 	
+word	that	
+gap	 	
+word	aggravate	
+gap	 	
+word	the	
+gap	 	
+word	relationship	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	executive	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	legislature	
+gap	 (	
+word	Carey	
+gap	, 2005, 	
+word	p	
+gap	. 94).\n	
+word	Then	
+gap	, 	
+word	an	
+gap	 	
+word	academic	
+gap	 	
+word	consensus	
+gap	 	
+word	in	
+gap	 	
+word	favor	
+gap	 	
+word	of	
+gap	 	
+word	to	
+gap	 	
+word	Parliamentarism	
+gap	 	
+word	was	
+gap	 	
+word	generated	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	, 	
+word	nevertheless	
+gap	, 	
+word	the	
+gap	 	
+word	political	
+gap	 	
+word	world	
+gap	 	
+word	was	
+gap	 	
+word	moving	
+gap	 	
+word	to	
+gap	 	
+word	another	
+gap	 	
+word	direction	
+gap	  (	
+word	Carey	
+gap	, 2005, 	
+word	p	
+gap	. 95). 	
+word	Briefly	
+gap	, 	
+word	the	
+gap	 	
+word	new	
+gap	 	
+word	democracies	
+gap	 	
+word	were	
+gap	 	
+word	established	
+gap	 	
+word	mostly	
+gap	 	
+word	in	
+gap	 	
+word	presidential	
+gap	 	
+word	or	
+gap	 	
+word	hybrid	
+gap	 	
+word	systems	
+gap	.\n	
+word	Many	
+gap	 	
+word	constitutional	
+gap	 	
+word	regimes	
+gap	 	
+word	combined	
+gap	 	
+word	elements	
+gap	 	
+word	from	
+gap	 	
+word	both	
+gap	 	
+word	regimes	
+gap	 	
+word	types	
+gap	 – 	
+word	parliamentary	
+gap	 	
+word	and	
+gap	 	
+word	presidential	
+gap	, 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	called	
+gap	 	
+word	hybrid	
+gap	, 	
+word	although	
+gap	 	
+word	the	
+gap	 	
+word	concept	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	blend	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	particularly	
+gap	 	
+word	prone	
+gap	 	
+word	to	
+gap	 	
+word	definitional	
+gap	 	
+word	problems	
+gap	 (	
+word	Elgie	
+gap	, 2004). 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	unite	
+gap	 	
+word	the	
+gap	 	
+word	knowledge	
+gap	 	
+word	hitherto	
+gap	 	
+word	developed	
+gap	, 	
+word	Robert	
+gap	 	
+word	Elgie	
+gap	 	
+word	identified	
+gap	 	
+word	three	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	definition	
+gap	 	
+word	of	
+gap	 	
+word	hybrid	
+gap	, 	
+word	which	
+gap	 	
+word	he	
+gap	 	
+word	called	
+gap	 	
+word	semi	
+gap	-	
+word	presidentialism	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	literature	
+gap	. \n	
+word	The	
+gap	 	
+word	three	
+gap	 	
+word	concepts	
+gap	 	
+word	exposed	
+gap	 	
+word	by	
+gap	 	
+word	Elgie	
+gap	 	
+word	show	
+gap	 	
+word	a	
+gap	 	
+word	progressive	
+gap	 	
+word	development	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	theme	
+gap	. 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	definition	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	hybrid	
+gap	, 	
+word	which	
+gap	 	
+word	was	
+gap	 	
+word	based	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	works	
+gap	 	
+word	of	
+gap	 	
+word	Patrick	
+gap	 	
+word	O	
+gap	’	
+word	Neil	
+gap	, 	
+word	is	
+gap	 	
+word	one	
+gap	 <deleted citation> (	
+word	Elgie	
+gap	, 2004, 	
+word	p	
+gap	.3). 	
+word	The	
+gap	 	
+word	second	
+gap	 	
+word	was	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	Maurice	
+gap	 	
+word	Duverger	
+gap	’	
+word	s	
+gap	 	
+word	view	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	divided	
+gap	 	
+word	into	
+gap	 	
+word	three	
+gap	 	
+word	parts	
+gap	: 	
+word	the	
+gap	 	
+word	election	
+gap	 	
+word	by	
+gap	 	
+word	universal	
+gap	 	
+word	suffrage	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	president	
+gap	; 	
+word	this	
+gap	 	
+word	elected	
+gap	 	
+word	president	
+gap	 	
+word	has	
+gap	 	
+word	many	
+gap	 	
+word	powers	
+gap	; 	
+word	and	
+gap	, 	
+word	he	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	prime	
+gap	 	
+word	minister	
+gap	 	
+word	and	
+gap	 	
+word	ministers	
+gap	 	
+word	as	
+gap	 	
+word	opposition	
+gap	. 	
+word	These	
+gap	 	
+word	first	
+gap	 	
+word	two	
+gap	 	
+word	conceptualizations	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	figure	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	president	
+gap	 	
+word	with	
+gap	 	
+word	power	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	necessary	
+gap	 	
+word	criterion	
+gap	, 	
+word	which	
+gap	 	
+word	significantly	
+gap	 	
+word	reduces	
+gap	 	
+word	the	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	countries	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	viewed	
+gap	 	
+word	as	
+gap	 	
+word	hybrids	
+gap	 	
+word	and	
+gap	 <deleted citation> (	
+word	Elgie	
+gap	, 2004, 	
+word	p	
+gap	.4). 	
+word	Therefore	
+gap	, 	
+word	the	
+gap	 	
+word	third	
+gap	 	
+word	type	
+gap	 	
+word	presented	
+gap	 	
+word	by	
+gap	 	
+word	Elgie	
+gap	 (2004), 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	definition	
+gap	 	
+word	made	
+gap	 	
+word	by	
+gap	 	
+word	himself	
+gap	, 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	defined	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	dispositional	
+gap	 	
+word	properties	
+gap	 	
+word	of	
+gap	 	
+word	regime	
+gap	 	
+word	types	
+gap	 	
+word	alone	
+gap	, 	
+word	wherein	
+gap	 	
+word	the	
+gap	 	
+word	president	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	popularly	
+gap	 	
+word	elected	
+gap	, 	
+word	and	
+gap	 	
+word	exist	
+gap	 	
+word	alongside	
+gap	 	
+word	a	
+gap	 	
+word	prime	
+gap	 	
+word	minister	
+gap	 	
+word	and	
+gap	 	
+word	cabinet	
+gap	. 	
+word	Lastly	
+gap	, 	
+word	this	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	definition	
+gap	 	
+word	removes	
+gap	 	
+word	the	
+gap	 	
+word	characteristic	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	subjectivity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	analysis	
+gap	, 	
+word	because	
+gap	 	
+word	if	
+gap	 	
+word	requires	
+gap	 	
+word	no	
+gap	 	
+word	judgment	
+gap	 	
+word	about	
+gap	 	
+word	a	
+gap	 	
+word	powerful	
+gap	 	
+word	president	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	opposition	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	branches	
+gap	.  \n	
+word	Even	
+gap	 	
+word	though	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	single	
+gap	 	
+word	concept	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	hybrids	
+gap	, 	
+word	this	
+gap	 	
+word	system	
+gap	 	
+word	has	
+gap	 	
+word	grown	
+gap	 	
+word	around	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	presidentialism	
+gap	 	
+word	itself	
+gap	, 	
+word	which	
+gap	 	
+word	contradicts	
+gap	 	
+word	the	
+gap	 	
+word	negative	
+gap	 	
+word	view	
+gap	 	
+word	of	
+gap	 	
+word	presidentialism	
+gap	, 	
+word	and	
+gap	 	
+word	parliamentary	
+gap	 	
+word	supremacy	
+gap	. 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	, 	
+word	the	
+gap	 	
+word	expansion	
+gap	 	
+word	of	
+gap	 	
+word	countries	
+gap	 	
+word	that	
+gap	 	
+word	present	
+gap	 	
+word	the	
+gap	 	
+word	plan	
+gap	 	
+word	called	
+gap	 	
+word	hybrid	
+gap	 	
+word	confirms	
+gap	 	
+word	Antonio	
+gap	 	
+word	Cintra	
+gap	’	
+word	s	
+gap	 	
+word	view	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	only	
+gap	 	
+word	two	
+gap	 	
+word	systems	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	only	
+gap	 	
+word	a	
+gap	 	
+word	simplification	
+gap	 (2007, 37). 	
+word	Understanding	
+gap	 	
+word	the	
+gap	 	
+word	constitutional	
+gap	 	
+word	choices	
+gap	 	
+word	that	
+gap	 	
+word	characterize	
+gap	 	
+word	regimes	
+gap	 	
+word	can	
+gap	 	
+word	ensure	
+gap	 	
+word	their	
+gap	 	
+word	maintenance	
+gap	 	
+word	and	
+gap	 	
+word	prevent	
+gap	 	
+word	democratic	
+gap	 	
+word	breakdowns	
+gap	.\n	
+word	As	
+gap	 	
+word	noted	
+gap	, 	
+word	many	
+gap	 	
+word	details	
+gap	 	
+word	influence	
+gap	 	
+word	the	
+gap	 	
+word	categorization	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	regime	
+gap	 	
+word	type	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	choosing	
+gap	 	
+word	one	
+gap	 	
+word	type	
+gap	 	
+word	as	
+gap	 	
+word	ideal	
+gap	 	
+word	over	
+gap	 	
+word	others	
+gap	 	
+word	can	
+gap	 	
+word	lead	
+gap	 	
+word	to	
+gap	 	
+word	institutional	
+gap	 	
+word	choices	
+gap	 	
+word	that	
+gap	 	
+word	generate	
+gap	 	
+word	instability	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	best	
+gap	 	
+word	to	
+gap	 	
+word	deeply	
+gap	 	
+word	understand	
+gap	 	
+word	the	
+gap	 	
+word	institutional	
+gap	 	
+word	and	
+gap	 	
+word	cultural	
+gap	 	
+word	reality	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	system	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 (	
+word	re	
+gap	)	
+word	design	
+gap	 	
+word	the	
+gap	 	
+word	constitutional	
+gap	 	
+word	features	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	regime	
+gap	.\n\n	
+word	The	
+gap	 	
+word	transition	
+gap	 	
+word	towards	
+gap	 	
+word	democracy	
+gap	, 	
+word	which	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	called	
+gap	 	
+word	the	
+gap	 “	
+word	Third	
+gap	 	
+word	Wave	
+gap	 	
+word	of	
+gap	 	
+word	Democracy	
+gap	”, 	
+word	was	
+gap	 	
+word	composed	
+gap	 	
+word	of	
+gap	 	
+word	two	
+gap	 	
+word	main	
+gap	 	
+word	trends	
+gap	. 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	one	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	establishment	
+gap	 	
+word	of	
+gap	 	
+word	democracy	
+gap	 	
+word	in	
+gap	 	
+word	countries	
+gap	 	
+word	that	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	these	
+gap	 	
+word	experiences	
+gap	 	
+word	previously	
+gap	– 	
+word	this	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	called	
+gap	 	
+word	democratization	
+gap	. 	
+word	The	
+gap	 	
+word	second	
+gap	 	
+word	one	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	re	
+gap	-	
+word	establishment	
+gap	 	
+word	of	
+gap	 	
+word	democracy	
+gap	 	
+word	in	
+gap	 	
+word	countries	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	no	
+gap	 	
+word	longer	
+gap	 	
+word	a	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	European	
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	Soviet	
+gap	 	
+word	communism	
+gap	, 	
+word	and	
+gap	 	
+word	others	
+gap	 	
+word	that	
+gap	 	
+word	had	
+gap	 	
+word	periods	
+gap	 	
+word	of	
+gap	 	
+word	authoritarianism	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	Latin	
+gap	 	
+word	American	
+gap	 	
+word	countries	
+gap	 – 	
+word	this	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	called	
+gap	 	
+word	re	
+gap	-	
+word	democratization	
+gap	.\n\n  	
+word	To	
+gap	 	
+word	deepen	
+gap	 	
+word	on	
+gap	 	
+word	the	ART DET
+gap	 	
+word	subject	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	gap	
+gap	 	
+word	between	
+gap	 	
+word	theory	
+gap	 	
+word	and	
+gap	 	
+word	practice	
+gap	 	
+word	against	
+gap	 	
+word	presidenialism	
+gap	, 	
+word	consult	
+gap	 	
+word	Carey	
+gap	 (2005), 	
+word	who	
+gap	 	
+word	present	
+gap	 	
+word	examples	
+gap	 	
+word	of	
+gap	 	
+word	cases	
+gap	 	
+word	that	
+gap	 	
+word	have	
+gap	 	
+word	occurred	
+gap	 	
+word	in	
+gap	 	
+word	Latin	
+gap	 	
+word	America	
+gap	 	
+word	and	
+gap	 	
+word	post	
+gap	-	
+word	Communist	
+gap	 	
+word	countries	
+gap	. \n	

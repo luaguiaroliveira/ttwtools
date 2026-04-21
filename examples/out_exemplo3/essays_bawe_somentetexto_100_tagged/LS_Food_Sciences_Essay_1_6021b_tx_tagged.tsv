@@ -1,1515 +1,2734 @@
 # filename: LS_Food_Sciences_Essay_1_6021b_tx.txt
-token	tags
-The	ART CAP DET
-food	NN
-industry	NN
-has	VPRT PEAS
-been	PASS AUXB
-criticised	
-for	PIN PREP
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-obesity	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-.	
-Consumers	NN CAP
-argue	VPRT PUBV
-that	PIN THVC SCONJ PREP
-labelling	NN
-on	PIN PREP
-foods	NN
-is	BEMA VPRT AUXB
-misleading	JJ PRED
-and	ANDC CCONJ
-that	PIN DEMO SCONJ PREP
-marketing	NN
-ploys	NN
-are	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-trick	INF
-them	TPP3 PRP SBJP ACCU
-into	PIN PREP
-buying	PGAS
-unhealthy	JJ
-products	NN
-.	
-While	OSUB PIN CAP SCONJ PREP
-these	DEMP DET
-may	POMD
-be	BEMA AUXB INF
-valid	JJ
-points	NN
-,	
-and	ANDC CCONJ
-perhaps	RB
-we	FPP1 PRP SBJP
-are	PASS VPRT BYPA SPAU AUXB
-occasionally	RB
-tempted	
-by	PIN PREP
-the	ART DET
-aptly	RB
-placed	
-confectionery	NN
-selection	NOMZ
-at	PIN PREP
-the	ART DET
-till	NN
-,	
-personal	JJ
-responsibility	NOMZ
-and	PHC CCONJ
-consumer	NN
-choice	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-rendered	
-blameless	JJ
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-following	PGAS
-essay	NN
-I	FPP1 CAP PRP SBJP
-intend	VPRT SUAV
-to	PIN TO PREP
-explore	INF
-the	ART DET
-extent	NN
-to	PIN PREP
-which	PIRE DET WH
-the	ART DET
-food	NN
-industry	NN
-can	POMD
-be	PASS AUXB INF
-blamed	
-for	PIN PREP
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-obesity	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-taking	WZPRES PGAS
-into	PIN PREP
-account	NN
-the	ART DET
-changing	PGAS
-lifestyle	NN
-of	PIN PREP
-the	ART DET
-consumer	NN
-.	
-Obesity	NOMZ CAP
-in	PIN CONJ PREP
-England	CAP NNP
-has	VPRT PEAS
-tripled	
-over	PIN PREP
-the	ART DET
-last	JJ
-20	NUM
-years	NN
-and	CCONJ
-continues	VPRT
-to	PIN TO PREP
-rise	INF
-.	
-Most	JJ EMPH CAP SPADJ
-adults	NN
-are	BEMA VPRT AUXB
-overweight	JJ PRED
-and	CCONJ
-one	NUM
-in	PIN CONJ PREP
-five	NUM
-is	VPRT AUXB
-obese	NN
-.	
-Treating	CAP PGAS
-obesity	NOMZ
-costs	NN
-the	ART DET
-NHS	CAP NNP
-at	PIN PREP
-least	JJ SPADJ
-half	DET
-a	ART DET INDA
-billion	NUM
-pounds	NN
-a	ART DET INDA
-year	NN
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-associated	
-with	PIN PREP
-an	ART DET INDA
-increased	
-risk	NN
-of	PIN PREP
-heart	NN
-disease	NN
-,	
-high	JJ
-blood	NN
-pressure	NN
-,	
-diabetes	NN
-and	CCONJ
-respiratory	JJ
-problems	NN
-and	CCONJ
-contributed	VBD
-to	PIN PREP
-30,000	NUM
-premature	JJ
-deaths	NN
-in	PIN CONJ PREP
-1998	NUM
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-serious	JJ
-problem	NN
-for	PIN PREP
-which	PIRE DET WH
-the	ART DET
-concern	NN
-to	PIN TO PREP
-pinpoint	INF
-the	ART DET
-cause	NN
-is	BEMA VPRT AUXB
-understandable	JJ PRED
-.	
-Obesity	NOMZ CAP
-can	POMD
-be	PASS AUXB INF
-caused	
-in	PIN CONJ PREP
-a	ART DET INDA
-number	NN
-of	PIN PREP
-ways	NN
-.	
-Psychologically	RB CAP
-a	ART DET INDA
-person	NN
-might	POMD
-eat	INF
-in	PIN CONJ PREP
-response	NN
-to	PIN PREP
-emotions	NOMZ
-such	JJ
-as	PIN CONJ PREP
-boredom	NN
-,	
-sadness	NOMZ
-or	CCONJ
-anger	NN
-.	
-Physiologically	RB CAP
-,	
-the	ART DET
-hypothalamus	NNP
-gland	NN
-in	PIN CONJ PREP
-the	ART DET
-brain	NN
-regulates	VPRT
-our	FPP1 PRP SBJP
-appetite	NN
-and	ANDC CCONJ
-if	COND PIN SCONJ PREP
-damaged	
-can	POMD
-cause	INF
-over	PIN STPR PREP
--	
-eating	NN
-.	
-Genetic	JJ CAP
-links	NN
-have	VPRT PEAS
-been	PASS AUXB
-found	PRIV
-but	CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-difficult	JJ
-to	PIN TO PREP
-separate	INF
-genetic	JJ
-factors	NN
-from	PIN PREP
-environmental	JJ
-ones	NN
-,	
-as	PIN CONJ PREP
-families	NN
-often	RB
-not	XX0 RB
-only	DWNT RB
-share	NN
-genes	NN
-but	CCONJ
-also	RB
-diet	NN
-and	PHC CCONJ
-lifestyle	NN
-habits	NN
-.	
-While	OSUB PIN CAP SCONJ PREP
-there	EX
-is	VPRT AUXB
-evidence	NN
-to	PIN TO PREP
-suggest	PUBV SUAV INF
-psychological	JJ
-,	
-physiological	JJ
-,	
-genetic	JJ
-,	
-hormonal	JJ
-and	CCONJ
-drug	NN
--	
-related	
-causes	NN
-of	PIN PREP
-obesity	NOMZ
-,	
-the	ART DET
-most	RB EMPH SPADJ
-influential	JJ
-cause	NN
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-today	TIME NN
-is	BEMA VPRT AUXB
-environmental	JJ PRED
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-the	ART DET
-lifestyle	NN
-led	VBD
-,	
-the	ART DET
-amount	NN
-of	PIN PREP
-food	NN
-consumed	
-and	CCONJ
-the	ART DET
-level	NN
-of	PIN PREP
-physical	JJ
-activity	NOMZ
-undertaken	
-.	
-The	ART CAP DET
-food	NN
-industry	NN
-obviously	RB
-has	VPRT
-an	ART DET INDA
-influence	NN
-on	PIN PREP
-consumer	NN
-choices	NN
-but	CCONJ
-is	VPRT AUXB
-it	PIT PRP SBJP
-solely	RB
-to	PIN TO PREP
-blame	INF
-for	PIN PREP
-this	DEMO DET
-modern	JJ
-crisis	NN
-?	QUES
-Consumers	NN CAP
-remain	VPRT
-confused	JJ
-by	PIN PREP
-misleading	GER PGAS
-health	NN
-claims	PUBV NN
-such	JJ
-as	PIN CONJ PREP
-90	NUM
-%	NN
-fat	JJ
-free	JJ
-products	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-in	PIN CONJ PREP
-fact	NN
-no	SYNE DET
-healthier	JJ CMADJ
-as	PIN CONJ PREP
-instead	RB CONJ
-of	PIN PREP
-fat	NN
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-packed	
-full	JJ
-of	PIN PREP
-sugar	NN
-to	PIN TO PREP
-enhance	INF
-the	ART DET
-taste	NN
-.	
-The	ART CAP DET
-Food	CAP NNP
-Standards	CAP NNP
-Agency	CAP NNP
-is	VPRT SPAU AUXB
-currently	RB
-pressing	PGAS
-for	PIN PREP
-legally	RB
-binding	PGAS
-EU	CAP NNP
-standards	NN
-on	PIN PREP
-nutrition	NOMZ
-claims	PUBV NN
-and	CCONJ
-clear	JJ
-nutrition	NOMZ
-labelling	NN
-on	PIN PREP
-all	QUAN DET
-foods	NN
-.	
-However	RB CONJ CAP
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-instance	NN
-it	PIT PRP SBJP
-could	POMD
-be	PASS AUXB INF
-argued	PUBV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-consumer	NN
-who	WHSUB WH
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-blame	INF
-.	
-The	ART CAP DET
-food	NN
-industry	NN
-is	PASS VPRT BYPA AUXB
-required	SUAV
-by	PIN PREP
-law	NN
-to	PIN TO PREP
-state	PUBV INF
-the	ART DET
-correct	JJ
-nutritional	JJ
-content	NN
-of	PIN PREP
-food	NN
-products	NN
-,	
-so	CCONJ
-if	COND PIN SCONJ PREP
-the	ART DET
-consumer	NN
-was	BEMA VBD AUXB
-so	RB EMPH
-concerned	JJ
-about	PIN PREP
-eating	PGAS
-less	JJ CMADJ
-calories	NN
-then	RB
-perhaps	RB
-they	TPP3 PRP SBJP
-should	NEMD
-have	PEAS INF
-looked	
-more	RB EMPH CMADJ
-carefully	RB
-at	PIN PREP
-the	ART DET
-label	NN
-.	
-The	ART CAP DET
-food	NN
-industry	NN
-is	PASS VPRT SPAU AUXB
-also	RB
-blamed	
-for	PIN PREP
-targeting	PGAS
-children	NN
-with	PIN PREP
-advertising	GER
-campaigns	NN
-that	TSUB WHSUB WH
-promote	VPRT
-foods	NN
-high	JJ
-in	PIN CONJ PREP
-fat	JJ
-,	
-sugar	NN
-and	PHC CCONJ
-salt	NN
-.	
-MacDonald	CAP NNP
-'s	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-prime	JJ
-example	NN
-.	
-Happy	JJ CAP
-meals	NN
-are	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-market	INF
-burgers	NN
-and	PHC CCONJ
-chips	NN
-(	
-both	DET
-full	JJ
-of	PIN PREP
-fat	NN
-and	PHC CCONJ
-salt	NN
-)	
-as	PIN CONJ PREP
-a	ART DET INDA
-fun	JJ
-meal	NN
-for	PIN PREP
-children	NN
-.	
-Each	QUAN CAP DET
-child	NN
-receives	VPRT
-a	ART DET INDA
-free	JJ
-gift	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-happy	JJ
-meal	NN
-.	
-These	DEMP CAP DET
-are	VPRT AUXB
-often	RB
-part	NN
-of	PIN PREP
-a	ART DET INDA
-set	NN
-which	WHOBJ DET WH
-the	ART DET
-child	NN
-will	PRMD
-want	INF
-to	PIN TO PREP
-complete	INF
-and	ANDC CCONJ
-so	RB
-Mum	CAP NNP
-and	PHC CCONJ
-Dad	CAP NNP
-are	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-be	PASS AUXB INF
-persuaded	
-to	PIN TO PREP
-take	INF
-their	TPP3 PRP SBJP
-child	NN
-there	RB
-again	RB TIME
-.	
-The	ART CAP DET
-Food	CAP NNP
-Standards	CAP NNP
-Agency	CAP NNP
-recognises	VPRT PRIV
-these	DEMO DET
-problems	NN
-and	CCONJ
-plans	VPRT
-to	PIN TO PREP
-work	INF
-with	PIN PREP
-consumers	NN
-and	CCONJ
-the	ART DET
-industry	NN
-to	PIN TO PREP
-develop	INF
-a	ART DET INDA
-new	JJ
-code	NN
-of	PIN PREP
-practise	NN
-on	PIN PREP
-the	ART DET
-promotion	NOMZ
-of	PIN PREP
-foods	NN
-to	PIN PREP
-children	NN
-.	
-MacDonald	CAP NNP
-'s	
-has	VPRT PEAS SPAU
-recently	RB TIME
-made	
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-rectify	INF
-the	ART DET
-problem	NN
-with	PIN PREP
-the	ART DET
-introduction	NOMZ
-of	PIN PREP
-healthier	JJ CMADJ
-options	NOMZ
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-salad	JJ
-range	NN
-.	
-Marketing	NN CAP
-ploys	NN
-like	PIN PREP
-this	DEMP DET
-are	BEMA VPRT AUXB
-also	RB
-common	JJ
-in	PIN CONJ PREP
-supermarkets	NN
-.	
-BOGOF	CAP NNP
-(	
-Buy	CAP INF
-one	PRP SBJP
-get	VPRT
-one	NUM
-free	JJ
-)	
-offers	NN
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-be	BEMA AUXB INF
-on	PIN PREP
-multipacks	NN
-of	PIN PREP
-crisps	NN
-and	PHC CCONJ
-chocolate	NN
-than	PIN PREP
-fruit	NN
-and	PHC CCONJ
-vegetables	NN
-.	
-Unhealthy	JJ CAP
-snack	NN
-foods	NN
-are	PASS VPRT AUXB
-displayed	
-at	PIN PREP
-the	ART DET
-tills	NN
-and	PHC CCONJ
-commodities	NN
-such	JJ
-as	PIN CONJ PREP
-bread	NN
-and	PHC CCONJ
-milk	NN
-are	PASS VPRT SPAU AUXB
-often	RB
-shelved	
-at	PIN PREP
-the	ART DET
-back	NN
-of	PIN PREP
-the	ART DET
-store	NN
-to	PIN TO PREP
-encourage	INF
-the	ART DET
-customer	NN
-to	PIN TO PREP
-buy	INF
-other	JJ
-items	NN
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-see	VPRT PRIV
-on	PIN PREP
-route	NN
-.	
-This	DEMP CAP DET
-may	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-fault	NN
-of	PIN PREP
-the	ART DET
-food	NN
-industry	NN
-but	CCONJ
-we	FPP1 PRP SBJP
-as	PIN CONJ PREP
-the	ART DET
-consumers	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-considered	PRIV
-passive	JJ
-to	PIN PREP
-marketing	NN
-.	
-Adverts	NN CAP
-may	POMD
-make	INF
-a	ART DET INDA
-marginal	JJ
-difference	NN
-but	CCONJ
-we	FPP1 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-ignore	INF
-personal	JJ
-responsibility	NOMZ
-and	PHC CCONJ
-consumer	NN
-choice	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-also	RB
-important	JJ
-to	PIN TO PREP
-remember	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-food	NN
-industry	NN
-is	PASS VPRT BYPA AUXB
-governed	
-by	PIN PREP
-consumer	NN
-demand	SUAV NN
-.	
-A	ART CAP DET INDA
-survey	NN
-published	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-British	CAP NNP
-Medical	CAP NNP
-Journal	CAP NNP
-in	PIN CONJ PREP
-January	CAP NNP
-2001	NUM
-,	
-measured	VBD
-the	ART DET
-body	NN
-mass	NN
-index	NN
-of	PIN PREP
-thousands	NN
-of	PIN PREP
-boys	NN
-and	PHC CCONJ
-girls	NN
-in	PIN CONJ PREP
-England	CAP NNP
-and	PHC CCONJ
-Scotland	CAP NNP
-,	
-aged	PASTP
-between	PIN PREP
-four	NUM
-and	CCONJ
-eleven	NUM
-.	
-The	ART CAP DET
-first	JJ
-measurements	NOMZ
-were	PASS VBD AUXB
-taken	
-in	PIN CONJ PREP
-1974	NUM
-,	
-then	RB
-different	JJ
-children	NN
-were	PASS VBD AUXB
-measured	
-in	PIN CONJ PREP
-1984	NUM
-and	CCONJ
-more	JJ EMPH CMADJ
-in	PIN CONJ PREP
-1994	NUM
-.	
-The	ART CAP DET
-results	NN
-showed	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-proportion	NOMZ
-of	PIN PREP
-overweight	JJ
-or	CCONJ
-obese	JJ
-children	NN
-remained	VBD
-steady	JJ
-between	PIN PREP
-1974	NUM
-and	CCONJ
-1984	NUM
-,	
-but	CCONJ
-increased	VBD
-dramatically	RB
-between	PIN PREP
-1984	NUM
-and	CCONJ
-1994	NUM
-.	
-5	NUM
-%	NN
-of	PIN PREP
-English	JJ CAP
-boys	NN
-tested	WZPAST
-in	PIN CONJ PREP
-1984	NUM
-were	BEMA VBD AUXB
-overweight	JJ PRED
-,	
-this	DEMO DET
-figure	NN
-increasing	GER WZPRES PGAS
-to	PIN PREP
-9	NUM
-%	NN
-in	PIN CONJ PREP
-1994	NUM
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-significant	JJ PRED
-because	CAUS PIN SCONJ PREP
-there	EX
-have	VPRT PEAS
-been	BEMA AUXB
-many	QUAN JJ
-changes	NN
-in	PIN CONJ PREP
-the	ART DET
-last	JJ
-20	NUM
-years	NN
-which	WHSUB DET WH
-have	VPRT PEAS
-changed	
-consumer	NN
-lifestyles	NN
-,	
-dictated	
-consumer	NN
-choice	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-affected	VBD
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-obesity	NOMZ
-levels	NN
-.	
-The	ART CAP DET
-last	JJ
-20	NUM
-years	NN
-have	VPRT PEAS
-seen	PRIV
-various	JJ
-technological	JJ
-and	PHC CCONJ
-economic	JJ
-developments	NOMZ
-leading	WZPRES PGAS
-the	ART DET
-UK	CAP NNP
-into	PIN PREP
-a	ART DET INDA
-cash	NN
--	
-rich	JJ
-,	
-time	NN
-scarce	JJ
-community	NOMZ
-where	RB WHOBJ SCONJ WH
-consumers	NN
-are	VPRT AUXB
-demanding	SUAV PGAS
-food	NN
-stuffs	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-quick	JJ PRED
-and	PHC CCONJ
-easy	JJ PRED
-to	PIN TO PREP
-cook	INF
-.	
-Our	FPP1 CAP PRP SBJP
-rising	PGAS
-real	JJ
-income	NN
-levels	NN
-allow	VPRT SUAV
-us	FPP1 PRP SBJP ACCU
-to	PIN TO PREP
-pay	INF
-extra	JJ
-for	PIN PREP
-the	ART DET
-added	PUBV
-service	NN
-which	WHSUB DET WH
-is	VPRT SPAU AUXB
-why	RB SCONJ WH
-eating	PGAS
-out	PIN PREP
-and	CCONJ
-take	INF
--	
-away	PLACE NN
-meals	NN
-are	VPRT SPAU AUXB
-also	RB
-increasing	GER PGAS
-in	PIN CONJ PREP
-popularity	NOMZ
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-society	NN
-,	
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-moving	SUAV PGAS
-away	RB PLACE
-from	PIN PREP
-generalised	JJ
-feeding	NN
-.	
-Families	NN CAP
-rarely	RB
-have	VPRT
-time	NN
-to	PIN TO PREP
-eat	INF
-three	NUM
-times	NN
-a	ART DET INDA
-day	NN
-together	RB
-anymore	RB
-,	
-but	CCONJ
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-graze	INF
-on	PIN PREP
-snacks	NN
-throughout	PIN PREP
-the	ART DET
-day	NN
-.	
-Snack	NN CAP
-foods	NN
-have	VPRT
-many	QUAN JJ
-advantages	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-time	NN
-scarce	JJ
-society	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-require	SUAV INF
-any	QUAN DET
-special	JJ
-storage	NN
-or	CCONJ
-preparation	NOMZ
-and	CCONJ
-can	POMD
-be	PASS AUXB INF
-eaten	
-on	PIN PREP
-the	ART DET
-go	NN
-,	
-but	CCONJ
-are	BEMA VPRT AUXB
-often	RB
-full	JJ
-of	PIN PREP
-salt	NN
-,	
-fat	NN
-and	PHC CCONJ
-sugar	NN
-and	CCONJ
-contribute	INF
-considerably	RB
-to	PIN PREP
-weight	NN
-gain	NN
-.	
-Working	CAP PGAS
-hours	NN
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-are	BEMA VPRT AUXB
-amongst	PIN PREP
-the	ART DET
-highest	JJ SPADJ
-in	PIN CONJ PREP
-Europe	CAP NNP
-with	PIN PREP
-1.5	NUM
-million	NUM
-men	NN
-working	WZPRES PGAS
-more	JJ EMPH CMADJ
-than	PIN PREP
-60	NUM
-hours	NN
-a	ART DET INDA
-week	NN
-.	
-Less	JJ CAP CMADJ
-time	NN
-at	PIN PREP
-home	NN
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-convenience	NN
-foods	NN
-such	JJ
-as	PIN CONJ PREP
-ready	JJ
-meals	NN
-,	
-pre	JJ
--	JJ
-prepared	JJ
-food	NN
-and	PHC CCONJ
-snacks	NN
-are	VPRT AUXB
-becoming	PGAS
-increasingly	RB
-popular	JJ
-.	
-These	DEMO CAP DET
-foods	NN
-are	BEMA VPRT AUXB
-again	RB TIME
-full	JJ
-of	PIN PREP
-additives	NN
-,	
-salt	NN
-,	
-fat	NN
-and	PHC CCONJ
-sugar	NN
-.	
-The	ART CAP DET
-modern	JJ
-lifestyle	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-not	XX0 RB
-only	DWNT RB
-encourages	VPRT
-snacking	PGAS
-on	PIN PREP
-unhealthy	JJ
-foods	NN
-but	CCONJ
-also	RB
-sanctions	VPRT
-a	ART DET INDA
-distinct	JJ
-lack	NN
-of	PIN PREP
-exercise	NN
-.	
-Occupations	NOMZ CAP
-are	VPRT AUXB
-far	RB PLACE
-less	RB CMADJ
-physically	RB
-demanding	JJ SUAV
-than	PIN PREP
-20	NUM
-years	NN
-ago	RB
-as	PIN CONJ PREP
-we	FPP1 PRP SBJP
-have	VPRT PEAS
-seen	PRIV
-industry	NN
-move	SUAV NN
-from	PIN PREP
-manufacturing	GER PGAS
-to	PIN PREP
-the	ART DET
-tertiary	JJ
-sector	NN
-.	
-Information	NOMZ CAP
-technology	NN
-has	VPRT PEAS
-become	
-fundamental	JJ
-for	PIN PREP
-most	JJ EMPH SPADJ
-businesses	NOMZ
-therefore	RB CONJ
-more	RB EMPH CMADJ
-and	CCONJ
-more	JJ EMPH CMADJ
-people	NN
-are	PASS VPRT AUXB
-sat	
-stationary	JJ
-at	PIN PREP
-a	ART DET INDA
-desk	NN
-for	PIN PREP
-most	JJ EMPH SPADJ
-of	PIN PREP
-the	ART DET
-day	NN
-.	
-People	NN CAP
-have	VPRT
-less	RB CMADJ
-free	JJ
-time	NN
-due	PIN PREP
-to	PIN PREP
-longer	RB CMADJ
-working	PGAS
-hours	NN
-so	PIN SCONJ PREP
-technology	NN
-has	VPRT PEAS
-been	PASS AUXB
-used	
-to	PIN TO PREP
-develop	INF
-strategies	NN
-to	PIN TO PREP
-make	INF
-life	NN
-easier	JJ CMADJ
-.	
-These	DEMO CAP DET
-strategies	NN
-however	RB CONJ
-,	
-are	BEMA VPRT AUXB
-often	RB
-labour	JJ
-saving	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-exasperate	INF
-the	ART DET
-problem	NN
-of	PIN PREP
-obesity	NOMZ
-.	
-For	PIN CAP PREP
-example	NN
-,	
-Internet	NN CAP
-shopping	NN
-means	VPRT PRIV THATD
-people	NN
-need	VPRT
-not	XX0 RB
-even	RB
-leave	INF
-their	TPP3 PRP SBJP
-home	NN
-to	PIN TO PREP
-do	PROD INF
-the	ART DET
-weekly	JJ
-shop	NN
-.	
-Three	CAP NUM
-quarters	NN
-of	PIN PREP
-households	NN
-own	VPRT
-cars	NN
-and	CCONJ
-with	PIN PREP
-this	DEMO DET
-number	NN
-increasing	GER WZPRES PGAS
-,	
-fewer	JJ CMADJ
-people	NN
-are	VPRT AUXB
-choosing	PGAS
-to	PIN TO PREP
-walk	INF
-or	CCONJ
-cycle	NN
-,	
-therefore	RB CONJ
-less	RB CMADJ
-and	CCONJ
-less	JJ CMADJ
-calories	NN
-are	PASS VPRT AUXB
-being	PASS AUXB
-used	
-up	PIN STPR PREP
-.	
-Professor	CAP NNP
-Andrew	CAP NNP
-Rugg	CAP NNP
--	
-Gunn	CAP NNP
-of	PIN PREP
-the	ART DET
-Human	CAP NNP
-Nutrition	CAP NNP
-Research	CAP NNP
-centre	NN
-at	PIN PREP
-the	ART DET
-Royal	CAP NNP
-Victoria	CAP NNP
-Infirmary	CAP NNP
-in	PIN CONJ PREP
-Newcastle	CAP NNP
-carried	VBD
-out	PIN PREP
-his	TPP3 PRP SBJP
-own	JJ
-diet	NN
-surveys	NN
-of	PIN PREP
-12	NUM
-year	NN
-olds	NN
-and	CCONJ
-found	VBD PRIV
-that	PIN THVC SCONJ PREP
-although	CONC PIN SCONJ PREP
-too	RB
-much	QUAN JJ
-of	PIN PREP
-their	TPP3 PRP SBJP
-energy	NN
-was	VBD AUXB
-coming	PGAS
-from	PIN PREP
-fat	JJ
-,	
-the	ART DET
-children	NN
-'s	
-energy	NN
-intake	NN
-did	VBD SPAU
-not	XX0 RB
-increase	INF
-between	PIN PREP
-1980	NUM
-and	CCONJ
-1990	NUM
-,	
-but	CCONJ
-their	TPP3 PRP SBJP
-energy	NN
-output	NN
-decreased	VBD
-.	
-"	QUOT
-In	PIN CONJ CAP PREP
-short	JJ
-they	TPP3 PRP SBJP
-are	VPRT SPAU AUXB
-not	XX0 RB
-doing	PROD PGAS
-as	RB CONJ
-much	QUAN JJ
-exercise	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-should	NEMD
-"	QUOT
-.	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-the	ART DET
-food	NN
-industry	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS SPAU AUXB INF
-solely	RB
-blamed	
-for	PIN PREP
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-obesity	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-.	
-The	ART CAP DET
-increase	NN
-in	PIN CONJ PREP
-obesity	NOMZ
-has	VPRT PEAS
-occurred	
-due	PIN PREP
-to	PIN PREP
-a	ART DET INDA
-combination	NOMZ
-of	PIN PREP
-bad	JJ
-diet	NN
-and	PHC CCONJ
-lack	NN
-of	PIN PREP
-exercise	NN
-.	
-Clearer	CAP NNP
-labelling	NN
-on	PIN PREP
-products	NN
-and	CCONJ
-less	RB CMADJ
-unhealthy	JJ
-marketing	NN
-ploys	NN
-may	POMD
-be	PASS AUXB INF
-needed	
-to	PIN TO PREP
-help	INF
-get	INF
-society	NN
-back	RB
-on	PIN PREP
-track	NN
-but	CCONJ
-the	ART DET
-essence	NN
-of	PIN PREP
-the	ART DET
-problem	NN
-lies	VPRT
-in	PIN CONJ PREP
-consumer	NN
-choice	NN
-.	
-Consumer	NN CAP
-lifestyle	NN
-changes	NN
-are	BEMA VPRT AUXB
-mostly	RB
-to	PIN TO PREP
-blame	INF
-for	PIN PREP
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-obesity	NOMZ
-.	
-Technological	JJ CAP
-and	PHC CCONJ
-economic	JJ
-development	NOMZ
-have	VPRT PEAS
-changed	
-the	ART DET
-way	NN
-people	NN
-live	VPRT
-their	TPP3 PRP SBJP
-lives	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-dictated	VBD
-the	ART DET
-types	NN
-of	PIN PREP
-foods	NN
-demanded	VBD SUAV
-and	CCONJ
-amount	NN
-of	PIN PREP
-exercise	NN
-taken	
-.	
-Obesity	NOMZ CAP
-is	PASS VPRT SPAU AUXB
-now	RB TIME
-known	PRIV
-as	PIN CONJ PREP
-the	ART DET
-disease	NN
-of	PIN PREP
-the	ART DET
-affluent	JJ
-societies	NN
-and	CCONJ
-appears	VPRT SMP
-to	PIN TO PREP
-grow	INF
-hand	NN
-in	PIN CONJ PREP
-hand	NN
-with	PIN PREP
-economic	JJ
-development	NOMZ
-.	
-Levels	NN CAP
-are	VPRT AUXB
-increasing	GER PGAS
-in	PIN CONJ PREP
-Mediterranean	CAP NNP
-countries	NN
-due	PIN PREP
-to	PIN PREP
-globalisation	NOMZ
-,	
-westernisation	NOMZ
-and	PHC CCONJ
-trade	NN
-despite	PIN SCONJ PREP
-their	TPP3 PRP SBJP
-initial	JJ
-diet	NN
-,	
-famous	JJ
-world	NN
--	
-wide	RB
-for	PIN PREP
-being	BEMA AUXB
-healthy	JJ PRED
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-reduce	INF
-levels	NN
-of	PIN PREP
-obesity	NOMZ
-the	ART DET
-government	NOMZ
-needs	VPRT
-to	PIN TO PREP
-create	INF
-an	ART DET INDA
-educated	
-population	NOMZ
-that	TSUB WHSUB WH
-understands	VPRT PRIV
-the	ART DET
-reasons	PRIV NN
-for	PIN PREP
-the	ART DET
-recent	JJ
-increase	NN
-,	
-alongside	PIN PLACE PREP
-the	ART DET
-implementation	NOMZ
-of	PIN PREP
-clearer	JJ CMADJ
-labelling	NN
-and	CCONJ
-reduced	JJ
-levels	NN
-of	PIN PREP
-fat	JJ
-,	
-salt	NN
-and	PHC CCONJ
-sugar	NN
-in	PIN CONJ PREP
-particular	JJ CONJ
-food	NN
-products	NN
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	food	NN
+gap	 	
+word	industry	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	criticised	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	obesity	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	. 	
+word	Consumers	NN CAP
+gap	 	
+word	argue	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	labelling	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	foods	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	misleading	JJ PRED
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	marketing	NN
+gap	 	
+word	ploys	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	trick	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	buying	PGAS
+gap	 	
+word	unhealthy	JJ
+gap	 	
+word	products	NN
+gap	. 	
+word	While	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	these	DEMP DET
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	valid	JJ
+gap	 	
+word	points	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	perhaps	RB
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	occasionally	RB
+gap	 	
+word	tempted	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	aptly	RB
+gap	 	
+word	placed	
+gap	 	
+word	confectionery	NN
+gap	 	
+word	selection	NOMZ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	till	NN
+gap	, 	
+word	personal	JJ
+gap	 	
+word	responsibility	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	consumer	NN
+gap	 	
+word	choice	NN
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	rendered	
+gap	 	
+word	blameless	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	following	
+gap	 	
+word	essay	
+gap	 	
+word	I	
+gap	 	
+word	intend	
+gap	 	
+word	to	
+gap	 	
+word	explore	
+gap	 	
+word	the	
+gap	 	
+word	extent	
+gap	 	
+word	to	
+gap	 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	blamed	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	obesity	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	UK	
+gap	 	
+word	taking	
+gap	 	
+word	into	
+gap	 	
+word	account	
+gap	 	
+word	the	
+gap	 	
+word	changing	
+gap	 	
+word	lifestyle	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	. 	
+word	Obesity	
+gap	 	
+word	in	
+gap	 	
+word	England	
+gap	 	
+word	has	
+gap	 	
+word	tripled	
+gap	 	
+word	over	
+gap	 	
+word	the	
+gap	 	
+word	last	
+gap	 20 	
+word	years	
+gap	 	
+word	and	
+gap	 	
+word	continues	
+gap	 	
+word	to	
+gap	 	
+word	rise	
+gap	. 	
+word	Most	
+gap	 	
+word	adults	
+gap	 	
+word	are	
+gap	 	
+word	overweight	
+gap	 	
+word	and	
+gap	 	
+word	one	
+gap	 	
+word	in	
+gap	 	
+word	five	
+gap	 	
+word	is	
+gap	 	
+word	obese	
+gap	. 	
+word	Treating	
+gap	 	
+word	obesity	
+gap	 	
+word	costs	
+gap	 	
+word	the	
+gap	 	
+word	NHS	
+gap	 	
+word	at	
+gap	 	
+word	least	
+gap	 	
+word	half	
+gap	 	
+word	a	
+gap	 	
+word	billion	
+gap	 	
+word	pounds	
+gap	 	
+word	a	
+gap	 	
+word	year	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	an	
+gap	 	
+word	increased	
+gap	 	
+word	risk	
+gap	 	
+word	of	
+gap	 	
+word	heart	
+gap	 	
+word	disease	
+gap	, 	
+word	high	
+gap	 	
+word	blood	
+gap	 	
+word	pressure	
+gap	, 	
+word	diabetes	
+gap	 	
+word	and	
+gap	 	
+word	respiratory	
+gap	 	
+word	problems	
+gap	 	
+word	and	
+gap	 	
+word	contributed	
+gap	 	
+word	to	
+gap	 30,000 	
+word	premature	
+gap	 	
+word	deaths	
+gap	 	
+word	in	
+gap	 1998. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	serious	
+gap	 	
+word	problem	
+gap	 	
+word	for	
+gap	 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	concern	
+gap	 	
+word	to	
+gap	 	
+word	pinpoint	
+gap	 	
+word	the	
+gap	 	
+word	cause	
+gap	 	
+word	is	
+gap	 	
+word	understandable	
+gap	. 	
+word	Obesity	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	caused	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	ways	
+gap	. 	
+word	Psychologically	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	 	
+word	might	
+gap	 	
+word	eat	
+gap	 	
+word	in	
+gap	 	
+word	response	
+gap	 	
+word	to	
+gap	 	
+word	emotions	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	boredom	
+gap	, 	
+word	sadness	
+gap	 	
+word	or	
+gap	 	
+word	anger	
+gap	. 	
+word	Physiologically	
+gap	, 	
+word	the	
+gap	 	
+word	hypothalamus	
+gap	 	
+word	gland	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	brain	
+gap	 	
+word	regulates	
+gap	 	
+word	our	
+gap	 	
+word	appetite	
+gap	 	
+word	and	
+gap	 	
+word	if	
+gap	 	
+word	damaged	
+gap	 	
+word	can	
+gap	 	
+word	cause	
+gap	 	
+word	over	
+gap	-	
+word	eating	
+gap	. 	
+word	Genetic	
+gap	 	
+word	links	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	found	
+gap	 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	very	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	separate	
+gap	 	
+word	genetic	
+gap	 	
+word	factors	
+gap	 	
+word	from	
+gap	 	
+word	environmental	
+gap	 	
+word	ones	
+gap	, 	
+word	as	
+gap	 	
+word	families	
+gap	 	
+word	often	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	share	
+gap	 	
+word	genes	
+gap	 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	diet	
+gap	 	
+word	and	
+gap	 	
+word	lifestyle	
+gap	 	
+word	habits	
+gap	. 	
+word	While	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	evidence	
+gap	 	
+word	to	
+gap	 	
+word	suggest	
+gap	 	
+word	psychological	
+gap	, 	
+word	physiological	
+gap	, 	
+word	genetic	
+gap	, 	
+word	hormonal	
+gap	 	
+word	and	
+gap	 	
+word	drug	
+gap	-	
+word	related	
+gap	 	
+word	causes	
+gap	 	
+word	of	
+gap	 	
+word	obesity	
+gap	, 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	influential	
+gap	 	
+word	cause	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	UK	
+gap	 	
+word	today	
+gap	 	
+word	is	
+gap	 	
+word	environmental	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	lifestyle	
+gap	 	
+word	led	
+gap	, 	
+word	the	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	food	
+gap	 	
+word	consumed	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	physical	
+gap	 	
+word	activity	
+gap	 	
+word	undertaken	
+gap	. 	
+word	The	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	obviously	
+gap	 	
+word	has	
+gap	 	
+word	an	
+gap	 	
+word	influence	
+gap	 	
+word	on	
+gap	 	
+word	consumer	
+gap	 	
+word	choices	
+gap	 	
+word	but	
+gap	 	
+word	is	
+gap	 	
+word	it	
+gap	 	
+word	solely	
+gap	 	
+word	to	
+gap	 	
+word	blame	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	modern	
+gap	 	
+word	crisis	
+gap	? 	
+word	Consumers	
+gap	 	
+word	remain	
+gap	 	
+word	confused	
+gap	 	
+word	by	
+gap	 	
+word	misleading	
+gap	 	
+word	health	
+gap	 	
+word	claims	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 90% 	
+word	fat	
+gap	 	
+word	free	
+gap	 	
+word	products	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	in	
+gap	 	
+word	fact	
+gap	 	
+word	no	
+gap	 	
+word	healthier	
+gap	 	
+word	as	
+gap	 	
+word	instead	
+gap	 	
+word	of	
+gap	 	
+word	fat	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	packed	
+gap	 	
+word	full	
+gap	 	
+word	of	
+gap	 	
+word	sugar	
+gap	 	
+word	to	
+gap	 	
+word	enhance	
+gap	 	
+word	the	
+gap	 	
+word	taste	
+gap	. 	
+word	The	
+gap	 	
+word	Food	
+gap	 	
+word	Standards	
+gap	 	
+word	Agency	
+gap	 	
+word	is	
+gap	 	
+word	currently	
+gap	 	
+word	pressing	
+gap	 	
+word	for	
+gap	 	
+word	legally	
+gap	 	
+word	binding	
+gap	 	
+word	EU	
+gap	 	
+word	standards	
+gap	 	
+word	on	
+gap	 	
+word	nutrition	
+gap	 	
+word	claims	
+gap	 	
+word	and	
+gap	 	
+word	clear	
+gap	 	
+word	nutrition	
+gap	 	
+word	labelling	
+gap	 	
+word	on	
+gap	 	
+word	all	
+gap	 	
+word	foods	
+gap	. 	
+word	However	
+gap	, 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	instance	
+gap	 	
+word	it	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	argued	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	who	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	blame	
+gap	. 	
+word	The	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	is	
+gap	 	
+word	required	
+gap	 	
+word	by	
+gap	 	
+word	law	
+gap	 	
+word	to	
+gap	 	
+word	state	
+gap	 	
+word	the	
+gap	 	
+word	correct	
+gap	 	
+word	nutritional	
+gap	 	
+word	content	
+gap	 	
+word	of	
+gap	 	
+word	food	
+gap	 	
+word	products	
+gap	, 	
+word	so	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	was	
+gap	 	
+word	so	
+gap	 	
+word	concerned	
+gap	 	
+word	about	
+gap	 	
+word	eating	
+gap	 	
+word	less	
+gap	 	
+word	calories	
+gap	 	
+word	then	
+gap	 	
+word	perhaps	
+gap	 	
+word	they	
+gap	 	
+word	should	
+gap	 	
+word	have	
+gap	 	
+word	looked	
+gap	 	
+word	more	
+gap	 	
+word	carefully	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	label	
+gap	. 	
+word	The	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	blamed	
+gap	 	
+word	for	
+gap	 	
+word	targeting	
+gap	 	
+word	children	
+gap	 	
+word	with	
+gap	 	
+word	advertising	
+gap	 	
+word	campaigns	
+gap	 	
+word	that	
+gap	 	
+word	promote	
+gap	 	
+word	foods	
+gap	 	
+word	high	
+gap	 	
+word	in	
+gap	 	
+word	fat	
+gap	, 	
+word	sugar	
+gap	 	
+word	and	
+gap	 	
+word	salt	
+gap	. 	
+word	MacDonald	
+gap	'	
+word	s	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	prime	
+gap	 	
+word	example	
+gap	. 	
+word	Happy	
+gap	 	
+word	meals	
+gap	 	
+word	are	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	market	
+gap	 	
+word	burgers	
+gap	 	
+word	and	
+gap	 	
+word	chips	
+gap	 (	
+word	both	
+gap	 	
+word	full	
+gap	 	
+word	of	
+gap	 	
+word	fat	
+gap	 	
+word	and	
+gap	 	
+word	salt	
+gap	) 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	fun	
+gap	 	
+word	meal	
+gap	 	
+word	for	
+gap	 	
+word	children	
+gap	. 	
+word	Each	
+gap	 	
+word	child	
+gap	 	
+word	receives	
+gap	 	
+word	a	
+gap	 	
+word	free	
+gap	 	
+word	gift	
+gap	 	
+word	in	
+gap	 	
+word	their	
+gap	 	
+word	happy	
+gap	 	
+word	meal	
+gap	. 	
+word	These	
+gap	 	
+word	are	
+gap	 	
+word	often	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	set	
+gap	 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	child	
+gap	 	
+word	will	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	complete	
+gap	 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	Mum	
+gap	 	
+word	and	
+gap	 	
+word	Dad	
+gap	 	
+word	are	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	persuaded	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	their	
+gap	 	
+word	child	
+gap	 	
+word	there	
+gap	 	
+word	again	
+gap	. 	
+word	The	
+gap	 	
+word	Food	
+gap	 	
+word	Standards	
+gap	 	
+word	Agency	
+gap	 	
+word	recognises	
+gap	 	
+word	these	
+gap	 	
+word	problems	
+gap	 	
+word	and	
+gap	 	
+word	plans	
+gap	 	
+word	to	
+gap	 	
+word	work	
+gap	 	
+word	with	
+gap	 	
+word	consumers	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	industry	
+gap	 	
+word	to	
+gap	 	
+word	develop	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	code	
+gap	 	
+word	of	
+gap	 	
+word	practise	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	promotion	
+gap	 	
+word	of	
+gap	 	
+word	foods	
+gap	 	
+word	to	
+gap	 	
+word	children	
+gap	. 	
+word	MacDonald	
+gap	'	
+word	s	
+gap	 	
+word	has	
+gap	 	
+word	recently	
+gap	 	
+word	made	
+gap	 	
+word	an	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	rectify	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	introduction	
+gap	 	
+word	of	
+gap	 	
+word	healthier	
+gap	 	
+word	options	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	salad	
+gap	 	
+word	range	
+gap	. 	
+word	Marketing	
+gap	 	
+word	ploys	
+gap	 	
+word	like	
+gap	 	
+word	this	
+gap	 	
+word	are	
+gap	 	
+word	also	
+gap	 	
+word	common	
+gap	 	
+word	in	
+gap	 	
+word	supermarkets	
+gap	. 	
+word	BOGOF	
+gap	 (	
+word	Buy	
+gap	 	
+word	one	
+gap	 	
+word	get	
+gap	 	
+word	one	
+gap	 	
+word	free	
+gap	) 	
+word	offers	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	on	
+gap	 	
+word	multipacks	
+gap	 	
+word	of	
+gap	 	
+word	crisps	
+gap	 	
+word	and	
+gap	 	
+word	chocolate	
+gap	 	
+word	than	
+gap	 	
+word	fruit	
+gap	 	
+word	and	
+gap	 	
+word	vegetables	
+gap	. 	
+word	Unhealthy	
+gap	 	
+word	snack	
+gap	 	
+word	foods	
+gap	 	
+word	are	
+gap	 	
+word	displayed	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	tills	
+gap	 	
+word	and	
+gap	 	
+word	commodities	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	bread	
+gap	 	
+word	and	
+gap	 	
+word	milk	
+gap	 	
+word	are	
+gap	 	
+word	often	
+gap	 	
+word	shelved	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	back	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	store	
+gap	 	
+word	to	
+gap	 	
+word	encourage	
+gap	 	
+word	the	
+gap	 	
+word	customer	
+gap	 	
+word	to	
+gap	 	
+word	buy	
+gap	 	
+word	other	
+gap	 	
+word	items	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	see	
+gap	 	
+word	on	
+gap	 	
+word	route	
+gap	. 	
+word	This	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	fault	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	but	
+gap	 	
+word	we	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	consumers	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	considered	
+gap	 	
+word	passive	
+gap	 	
+word	to	
+gap	 	
+word	marketing	
+gap	. 	
+word	Adverts	
+gap	 	
+word	may	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	marginal	
+gap	 	
+word	difference	
+gap	 	
+word	but	
+gap	 	
+word	we	
+gap	 	
+word	cannot	
+gap	 	
+word	ignore	
+gap	 	
+word	personal	
+gap	 	
+word	responsibility	
+gap	 	
+word	and	
+gap	 	
+word	consumer	
+gap	 	
+word	choice	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	remember	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	is	
+gap	 	
+word	governed	
+gap	 	
+word	by	
+gap	 	
+word	consumer	
+gap	 	
+word	demand	
+gap	. 	
+word	A	
+gap	 	
+word	survey	
+gap	 	
+word	published	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	British	
+gap	 	
+word	Medical	
+gap	 	
+word	Journal	
+gap	 	
+word	in	
+gap	 	
+word	January	
+gap	 2001, 	
+word	measured	
+gap	 	
+word	the	
+gap	 	
+word	body	
+gap	 	
+word	mass	
+gap	 	
+word	index	
+gap	 	
+word	of	
+gap	 	
+word	thousands	
+gap	 	
+word	of	
+gap	 	
+word	boys	
+gap	 	
+word	and	
+gap	 	
+word	girls	
+gap	 	
+word	in	
+gap	 	
+word	England	
+gap	 	
+word	and	
+gap	 	
+word	Scotland	
+gap	, 	
+word	aged	
+gap	 	
+word	between	
+gap	 	
+word	four	
+gap	 	
+word	and	
+gap	 	
+word	eleven	
+gap	. 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	measurements	
+gap	 	
+word	were	
+gap	 	
+word	taken	
+gap	 	
+word	in	
+gap	 1974, 	
+word	then	
+gap	 	
+word	different	
+gap	 	
+word	children	
+gap	 	
+word	were	
+gap	 	
+word	measured	
+gap	 	
+word	in	
+gap	 1984 	
+word	and	
+gap	 	
+word	more	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1994. 	
+word	The	
+gap	 	
+word	results	
+gap	 	
+word	showed	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	proportion	
+gap	 	
+word	of	
+gap	 	
+word	overweight	
+gap	 	
+word	or	
+gap	 	
+word	obese	
+gap	 	
+word	children	
+gap	 	
+word	remained	
+gap	 	
+word	steady	
+gap	 	
+word	between	
+gap	 1974 	
+word	and	
+gap	 1984, 	
+word	but	
+gap	 	
+word	increased	
+gap	 	
+word	dramatically	
+gap	 	
+word	between	
+gap	 1984 	
+word	and	
+gap	 1994. 5% 	
+word	of	
+gap	 	
+word	English	
+gap	 	
+word	boys	
+gap	 	
+word	tested	
+gap	 	
+word	in	
+gap	 1984 	
+word	were	
+gap	 	
+word	overweight	
+gap	, 	
+word	this	
+gap	 	
+word	figure	
+gap	 	
+word	increasing	
+gap	 	
+word	to	
+gap	 9% 	
+word	in	
+gap	 1994. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	significant	
+gap	 	
+word	because	
+gap	 	
+word	there	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	many	
+gap	 	
+word	changes	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	last	
+gap	 20 	
+word	years	
+gap	 	
+word	which	
+gap	 	
+word	have	
+gap	 	
+word	changed	
+gap	 	
+word	consumer	
+gap	 	
+word	lifestyles	
+gap	, 	
+word	dictated	
+gap	 	
+word	consumer	NN
+gap	 	
+word	choice	
+gap	 	
+word	and	
+gap	 	
+word	therefore	
+gap	 	
+word	affected	
+gap	 	
+word	the	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	obesity	
+gap	 	
+word	levels	
+gap	. 	
+word	The	
+gap	 	
+word	last	
+gap	 20 	
+word	years	
+gap	 	
+word	have	
+gap	 	
+word	seen	
+gap	 	
+word	various	
+gap	 	
+word	technological	
+gap	 	
+word	and	
+gap	 	
+word	economic	
+gap	 	
+word	developments	
+gap	 	
+word	leading	
+gap	 	
+word	the	
+gap	 	
+word	UK	
+gap	 	
+word	into	
+gap	 	
+word	a	
+gap	 	
+word	cash	
+gap	-	
+word	rich	
+gap	, 	
+word	time	
+gap	 	
+word	scarce	
+gap	 	
+word	community	
+gap	 	
+word	where	
+gap	 	
+word	consumers	
+gap	 	
+word	are	
+gap	 	
+word	demanding	
+gap	 	
+word	food	
+gap	 	
+word	stuffs	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	quick	
+gap	 	
+word	and	
+gap	 	
+word	easy	
+gap	 	
+word	to	
+gap	 	
+word	cook	
+gap	. 	
+word	Our	
+gap	 	
+word	rising	
+gap	 	
+word	real	
+gap	 	
+word	income	
+gap	 	
+word	levels	
+gap	 	
+word	allow	
+gap	 	
+word	us	
+gap	 	
+word	to	
+gap	 	
+word	pay	
+gap	 	
+word	extra	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	added	
+gap	 	
+word	service	
+gap	 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	why	
+gap	 	
+word	eating	
+gap	 	
+word	out	
+gap	 	
+word	and	
+gap	 	
+word	take	
+gap	-	
+word	away	
+gap	 	
+word	meals	
+gap	 	
+word	are	
+gap	 	
+word	also	
+gap	 	
+word	increasing	
+gap	 	
+word	in	
+gap	 	
+word	popularity	
+gap	. 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	society	
+gap	, 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	moving	
+gap	 	
+word	away	
+gap	 	
+word	from	
+gap	 	
+word	generalised	
+gap	 	
+word	feeding	
+gap	. 	
+word	Families	
+gap	 	
+word	rarely	
+gap	 	
+word	have	
+gap	 	
+word	time	
+gap	 	
+word	to	
+gap	 	
+word	eat	
+gap	 	
+word	three	
+gap	 	
+word	times	
+gap	 	
+word	a	
+gap	 	
+word	day	
+gap	 	
+word	together	
+gap	 	
+word	anymore	
+gap	, 	
+word	but	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	graze	
+gap	 	
+word	on	
+gap	 	
+word	snacks	
+gap	 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	day	
+gap	. 	
+word	Snack	
+gap	 	
+word	foods	
+gap	 	
+word	have	
+gap	 	
+word	many	
+gap	 	
+word	advantages	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	time	
+gap	 	
+word	scarce	
+gap	 	
+word	society	
+gap	 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	require	
+gap	 	
+word	any	
+gap	 	
+word	special	
+gap	 	
+word	storage	
+gap	 	
+word	or	
+gap	 	
+word	preparation	
+gap	 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	eaten	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	go	
+gap	, 	
+word	but	
+gap	 	
+word	are	
+gap	 	
+word	often	
+gap	 	
+word	full	
+gap	 	
+word	of	
+gap	 	
+word	salt	
+gap	, 	
+word	fat	
+gap	 	
+word	and	
+gap	 	
+word	sugar	
+gap	 	
+word	and	
+gap	 	
+word	contribute	
+gap	 	
+word	considerably	
+gap	 	
+word	to	
+gap	 	
+word	weight	
+gap	 	
+word	gain	
+gap	. 	
+word	Working	
+gap	 	
+word	hours	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	UK	
+gap	 	
+word	are	
+gap	 	
+word	amongst	
+gap	 	
+word	the	
+gap	 	
+word	highest	
+gap	 	
+word	in	
+gap	 	
+word	Europe	
+gap	 	
+word	with	
+gap	 1.5 	
+word	million	
+gap	 	
+word	men	
+gap	 	
+word	working	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 60 	
+word	hours	
+gap	 	
+word	a	
+gap	 	
+word	week	
+gap	. 	
+word	Less	
+gap	 	
+word	time	
+gap	 	
+word	at	
+gap	 	
+word	home	
+gap	 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	convenience	
+gap	 	
+word	foods	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	ready	
+gap	 	
+word	meals	
+gap	, 	
+word	pre	
+gap	-	
+word	prepared	
+gap	 	
+word	food	
+gap	 	
+word	and	
+gap	 	
+word	snacks	
+gap	 	
+word	are	
+gap	 	
+word	becoming	
+gap	 	
+word	increasingly	
+gap	 	
+word	popular	
+gap	. 	
+word	These	
+gap	 	
+word	foods	
+gap	 	
+word	are	
+gap	 	
+word	again	
+gap	 	
+word	full	
+gap	 	
+word	of	
+gap	 	
+word	additives	
+gap	, 	
+word	salt	
+gap	, 	
+word	fat	
+gap	 	
+word	and	
+gap	 	
+word	sugar	
+gap	. 	
+word	The	
+gap	 	
+word	modern	
+gap	 	
+word	lifestyle	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	whole	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	encourages	
+gap	 	
+word	snacking	
+gap	 	
+word	on	
+gap	 	
+word	unhealthy	
+gap	 	
+word	foods	
+gap	 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	sanctions	
+gap	 	
+word	a	
+gap	 	
+word	distinct	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	exercise	
+gap	. 	
+word	Occupations	
+gap	 	
+word	are	
+gap	 	
+word	far	
+gap	 	
+word	less	
+gap	 	
+word	physically	
+gap	 	
+word	demanding	
+gap	 	
+word	than	
+gap	 20 	
+word	years	
+gap	 	
+word	ago	
+gap	 	
+word	as	
+gap	 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	seen	
+gap	 	
+word	industry	
+gap	 	
+word	move	
+gap	 	
+word	from	
+gap	 	
+word	manufacturing	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	tertiary	
+gap	 	
+word	sector	
+gap	. 	
+word	Information	
+gap	 	
+word	technology	
+gap	 	
+word	has	
+gap	 	
+word	become	
+gap	 	
+word	fundamental	
+gap	 	
+word	for	
+gap	 	
+word	most	
+gap	 	
+word	businesses	
+gap	 	
+word	therefore	
+gap	 	
+word	more	
+gap	 	
+word	and	
+gap	 	
+word	more	
+gap	 	
+word	people	
+gap	 	
+word	are	
+gap	 	
+word	sat	
+gap	 	
+word	stationary	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	desk	
+gap	 	
+word	for	
+gap	 	
+word	most	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	day	
+gap	. 	
+word	People	
+gap	 	
+word	have	
+gap	 	
+word	less	
+gap	 	
+word	free	
+gap	 	
+word	time	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	longer	
+gap	 	
+word	working	
+gap	 	
+word	hours	
+gap	 	
+word	so	
+gap	 	
+word	technology	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	develop	
+gap	 	
+word	strategies	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	
+gap	 	
+word	life	
+gap	 	
+word	easier	
+gap	. 	
+word	These	
+gap	 	
+word	strategies	
+gap	 	
+word	however	
+gap	, 	
+word	are	
+gap	 	
+word	often	
+gap	 	
+word	labour	
+gap	 	
+word	saving	
+gap	 	
+word	and	
+gap	 	
+word	therefore	
+gap	 	
+word	exasperate	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	 	
+word	of	
+gap	 	
+word	obesity	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	Internet	
+gap	 	
+word	shopping	
+gap	 	
+word	means	
+gap	 	
+word	people	
+gap	 	
+word	need	
+gap	 	
+word	not	
+gap	 	
+word	even	
+gap	 	
+word	leave	
+gap	 	
+word	their	
+gap	 	
+word	home	
+gap	 	
+word	to	
+gap	 	
+word	do	
+gap	 	
+word	the	
+gap	 	
+word	weekly	
+gap	 	
+word	shop	
+gap	. 	
+word	Three	
+gap	 	
+word	quarters	
+gap	 	
+word	of	
+gap	 	
+word	households	
+gap	 	
+word	own	
+gap	 	
+word	cars	
+gap	 	
+word	and	
+gap	 	
+word	with	
+gap	 	
+word	this	
+gap	 	
+word	number	
+gap	 	
+word	increasing	
+gap	, 	
+word	fewer	
+gap	 	
+word	people	
+gap	 	
+word	are	
+gap	 	
+word	choosing	
+gap	 	
+word	to	
+gap	 	
+word	walk	
+gap	 	
+word	or	
+gap	 	
+word	cycle	
+gap	, 	
+word	therefore	
+gap	 	
+word	less	
+gap	 	
+word	and	
+gap	 	
+word	less	
+gap	 	
+word	calories	
+gap	 	
+word	are	
+gap	 	
+word	being	
+gap	 	
+word	used	
+gap	 	
+word	up	
+gap	. 	
+word	Professor	
+gap	 	
+word	Andrew	
+gap	 	
+word	Rugg	
+gap	-	
+word	Gunn	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Human	
+gap	 	
+word	Nutrition	
+gap	 	
+word	Research	
+gap	 	
+word	centre	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	Royal	
+gap	 	
+word	Victoria	
+gap	 	
+word	Infirmary	
+gap	 	
+word	in	
+gap	 	
+word	Newcastle	
+gap	 	
+word	carried	
+gap	 	
+word	out	
+gap	 	
+word	his	
+gap	 	
+word	own	
+gap	 	
+word	diet	
+gap	 	
+word	surveys	
+gap	 	
+word	of	
+gap	 12 	
+word	year	
+gap	 	
+word	olds	
+gap	 	
+word	and	
+gap	 	
+word	found	
+gap	 	
+word	that	
+gap	 	
+word	although	
+gap	 	
+word	too	
+gap	 	
+word	much	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	energy	
+gap	 	
+word	was	
+gap	 	
+word	coming	
+gap	 	
+word	from	
+gap	 	
+word	fat	
+gap	, 	
+word	the	
+gap	 	
+word	children	
+gap	'	
+word	s	
+gap	 	
+word	energy	
+gap	 	
+word	intake	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	increase	
+gap	 	
+word	between	
+gap	 1980 	
+word	and	
+gap	 1990, 	
+word	but	
+gap	 	
+word	their	
+gap	 	
+word	energy	
+gap	 	
+word	output	
+gap	 	
+word	decreased	
+gap	. "	
+word	In	
+gap	 	
+word	short	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	doing	
+gap	 	
+word	as	
+gap	 	
+word	much	
+gap	 	
+word	exercise	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	they	
+gap	 	
+word	should	
+gap	". 	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	the	
+gap	 	
+word	food	
+gap	 	
+word	industry	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	solely	
+gap	 	
+word	blamed	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	obesity	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	UK	
+gap	. 	
+word	The	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	obesity	
+gap	 	
+word	has	
+gap	 	
+word	occurred	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	bad	
+gap	 	
+word	diet	
+gap	 	
+word	and	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	exercise	
+gap	. 	
+word	Clearer	
+gap	 	
+word	labelling	
+gap	 	
+word	on	
+gap	 	
+word	products	
+gap	 	
+word	and	
+gap	 	
+word	less	
+gap	 	
+word	unhealthy	
+gap	 	
+word	marketing	
+gap	 	
+word	ploys	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	needed	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	get	
+gap	 	
+word	society	
+gap	 	
+word	back	
+gap	 	
+word	on	
+gap	 	
+word	track	
+gap	 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	essence	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	 	
+word	lies	
+gap	 	
+word	in	
+gap	 	
+word	consumer	
+gap	 	
+word	choice	
+gap	. 	
+word	Consumer	
+gap	 	
+word	lifestyle	
+gap	 	
+word	changes	
+gap	 	
+word	are	
+gap	 	
+word	mostly	
+gap	 	
+word	to	
+gap	 	
+word	blame	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	obesity	
+gap	. 	
+word	Technological	
+gap	 	
+word	and	
+gap	 	
+word	economic	
+gap	 	
+word	development	
+gap	 	
+word	have	
+gap	 	
+word	changed	
+gap	 	
+word	the	
+gap	 	
+word	way	
+gap	 	
+word	people	
+gap	 	
+word	live	
+gap	 	
+word	their	
+gap	 	
+word	lives	
+gap	 	
+word	and	
+gap	 	
+word	therefore	
+gap	 	
+word	dictated	
+gap	 	
+word	the	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	foods	
+gap	 	
+word	demanded	
+gap	 	
+word	and	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	exercise	
+gap	 	
+word	taken	
+gap	. 	
+word	Obesity	
+gap	 	
+word	is	
+gap	 	
+word	now	
+gap	 	
+word	known	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	disease	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	affluent	
+gap	 	
+word	societies	
+gap	 	
+word	and	
+gap	 	
+word	appears	
+gap	 	
+word	to	
+gap	 	
+word	grow	
+gap	 	
+word	hand	
+gap	 	
+word	in	
+gap	 	
+word	hand	
+gap	 	
+word	with	
+gap	 	
+word	economic	
+gap	 	
+word	development	
+gap	. 	
+word	Levels	
+gap	 	
+word	are	
+gap	 	
+word	increasing	
+gap	 	
+word	in	
+gap	 	
+word	Mediterranean	
+gap	 	
+word	countries	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	globalisation	
+gap	, 	
+word	westernisation	
+gap	 	
+word	and	
+gap	 	
+word	trade	
+gap	 	
+word	despite	
+gap	 	
+word	their	
+gap	 	
+word	initial	
+gap	 	
+word	diet	
+gap	, 	
+word	famous	
+gap	 	
+word	world	
+gap	-	
+word	wide	
+gap	 	
+word	for	
+gap	 	
+word	being	
+gap	 	
+word	healthy	
+gap	. 	
+word	In	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	reduce	
+gap	 	
+word	levels	
+gap	 	
+word	of	
+gap	 	
+word	obesity	
+gap	 	
+word	the	
+gap	 	
+word	government	
+gap	 	
+word	needs	
+gap	 	
+word	to	
+gap	 	
+word	create	
+gap	 	
+word	an	
+gap	 	
+word	educated	
+gap	 	
+word	population	
+gap	 	
+word	that	
+gap	 	
+word	understands	
+gap	 	
+word	the	
+gap	 	
+word	reasons	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	recent	
+gap	 	
+word	increase	
+gap	, 	
+word	alongside	
+gap	 	
+word	the	ART DET
+gap	 	
+word	implementation	
+gap	 	
+word	of	
+gap	 	
+word	clearer	
+gap	 	
+word	labelling	
+gap	 	
+word	and	
+gap	 	
+word	reduced	
+gap	 	
+word	levels	
+gap	 	
+word	of	
+gap	 	
+word	fat	
+gap	, 	
+word	salt	
+gap	 	
+word	and	
+gap	 	
+word	sugar	
+gap	 	
+word	in	
+gap	 	
+word	particular	
+gap	 	
+word	food	
+gap	 	
+word	products	
+gap	.	

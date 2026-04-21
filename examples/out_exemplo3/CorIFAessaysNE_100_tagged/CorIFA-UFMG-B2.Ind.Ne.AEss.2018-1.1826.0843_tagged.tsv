@@ -1,660 +1,1173 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1826.0843.txt
-token	tags
-﻿	NNP
-  	
-The	ART CAP DET
-development	NOMZ
-of	PIN PREP
-science	NN
-has	VPRT PEAS
-changed	
-people	NN
-'s	
-lives	NN
-,	
-for	PIN PREP
-example	NN
-,	
-research	NN
-in	PIN CONJ PREP
-chemistry	NN
-and	PHC CCONJ
-biology	NN
-has	VPRT PEAS
-improved	
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-life	NN
-by	PIN PREP
-the	ART DET
-study	NN
-of	PIN PREP
-new	JJ
-medicine	NN
-.	
-Due	PIN CAP PREP
-to	PIN PREP
-the	ART DET
-high	JJ
--	
-cost	NN
-to	PIN TO PREP
-develop	INF
-new	JJ
-drugs	NN
-,	
-the	ART DET
-science	NN
-nowadays	RB TIME
-,	
-tries	VPRT
-to	PIN TO PREP
-improve	INF
-the	ART DET
-efficacy	NN
-of	PIN PREP
-old	JJ
-drugs	NN
-.	
-This	DEMO CAP DET
-enhancement	NOMZ
-consisted	VBD
-of	PIN PREP
-delivering	GER PGAS
-drug	NN
-at	PIN PREP
-controlled	
-rate	NN
-,	
-slow	JJ
-and	CCONJ
-targeted	
-delivery	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-context	NN
-,	
-the	ART DET
-use	NN
-of	PIN PREP
-nanotechnology	NN
-could	POMD
-be	PASS AUXB INF
-prioritized	
-to	PIN TO PREP
-help	INF
-this	DEMO DET
-improvement	NOMZ
-,	
-using	PGAS
-methods	NN
-as	PIN CONJ PREP
-nanospheres	NN
-.	
-Preliminary	JJ CAP
-results	NN
-show	VPRT PRIV THATD
-a	ART DET INDA
-real	JJ
-benefit	NN
-using	WZPRES PGAS
-nanotechnology	NN
-,	
-however	RB CONJ
-,	
-this	DEMO DET
-new	JJ
-science	NN
-finds	VPRT PRIV
-a	ART DET INDA
-huge	JJ
-resistance	NN
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-incorporated	
-by	PIN PREP
-the	ART DET
-pharmaceutical	JJ
-industry	NN
-.	
-More	JJ EMPH CAP CMADJ
-than	PIN PREP
-ever	RB
-,	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-need	NN
-continue	VPRT
-studying	PGAS
-the	ART DET
-applications	NOMZ
-of	PIN PREP
-the	ART DET
-system	NN
-of	PIN PREP
-drug	NN
-delivery	NN
-.	
-    	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-really	RB EMPH
-common	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-doctors	NN
-recommend	VPRT SUAV
-medicine	NN
-to	PIN TO PREP
-treat	INF
-diseases	NN
-,	
-but	CCONJ
-this	DEMO DET
-just	RB EMPH
-works	VPRT
-if	COND PIN STPR SCONJ PREP
-,	
-inside	RB PLACE
-of	PIN PREP
-a	ART DET INDA
-body	NN
-,	
-the	ART DET
-concentration	NOMZ
-of	PIN PREP
-the	ART DET
-active	JJ
-ingredient	NN
-of	PIN PREP
-a	ART DET INDA
-drug	NN
-is	PASS VPRT AUXB
-kept	
-in	PIN CONJ PREP
-high	JJ
-levels	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-someone	QUPR INPR
-who	WHQU WH
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-a	ART DET INDA
-medical	JJ
-treatment	NOMZ
-with	PIN PREP
-a	ART DET INDA
-medicine	NN
-needs	VPRT
-to	PIN TO PREP
-take	INF
-several	QUAN JJ
-pills	NN
-to	PIN TO PREP
-keep	INF
-a	ART DET INDA
-high	JJ
-concentration	NOMZ
-of	PIN PREP
-the	ART DET
-active	JJ
-ingredient	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-another	DET
-factor	NN
-that	TSUB WHSUB WH
-affects	VPRT
-the	ART DET
-quantity	NOMZ
-of	PIN PREP
-medicine	NN
-needed	WZPAST
-is	BEMA VPRT AUXB
-conventional	JJ
-medicines	NN
-do	VPRT SPAU
-not	XX0 RB
-go	INF
-straight	RB
-to	PIN PREP
-the	ART DET
-place	NN
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-expected	PRIV
-to	PIN TO PREP
-react	INF
-,	
-they	TPP3 PRP SBJP
-go	VPRT
-all	QUAN RB
-around	PIN PLACE PREP
-the	ART DET
-body	NN
-,	
-bigger	JJ CMADJ
-is	BEMA VPRT AUXB
-the	ART DET
-area	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-covered	
-,	
-higher	JJ CMADJ
-will	PRMD
-be	BEMA AUXB INF
-the	ART DET
-level	NN
-of	PIN PREP
-active	JJ
-ingredient	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-taken	
-.	
-When	RB CAP SCONJ WH
-the	ART DET
-taken	
-medicine	NN
-is	BEMA VPRT AUXB
-weak	JJ PRED
-,	
-like	PIN PREP
-the	ART DET
-ones	NN
-used	WZPAST
-to	PIN TO PREP
-treat	INF
-a	ART DET INDA
-headache	NN
-,	
-this	DEMP DET
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-real	JJ
-problem	NN
-.	
-But	CAP CCONJ
-,	
-to	PIN PREP
-people	NN
-that	TSUB WHSUB WH
-submit	VPRT PUBV
-the	ART DET
-own	JJ
-body	NN
-to	PIN PREP
-a	ART DET INDA
-conventional	JJ
-cancer	NN
-treatment	NOMZ
-,	
-it	PIT PRP SBJP
-becomes	VPRT
-a	ART DET INDA
-real	JJ
-problem	NN
-,	
-those	DEMO DET
-medicines	NN
-are	BEMA VPRT AUXB
-expensive	JJ PRED
-and	CCONJ
-the	ART DET
-sides	NN
-effects	NN
-very	AMP RB
-aggressively	RB
-.	
-  	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-best	RB SPADJ
--	
-known	PRIV
-alternative	JJ
-treatment	NOMZ
-for	PIN PREP
-cancer	NN
-is	BEMA VPRT AUXB
-the	ART DET
-oncological	JJ
-hyperthermia	NN
-.	
-This	DEMO CAP DET
-technic	NN
-consists	VPRT
-in	PIN CONJ PREP
-the	ART DET
-increase	NN
-of	PIN PREP
-temperature	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-tumor	NN
-takes	VPRT
-place	NN
-due	JJ
-to	PIN PREP
-magnetical	JJ
-nanoparticles	NN
-,	
-until	PIN PREP
-approximately	RB
-42	NUM
-ยบC	NN
-,	
-enough	JJ
-to	PIN TO PREP
-kill	INF
-or	CCONJ
-to	PIN TO PREP
-weaken	INF
-the	ART DET
-cancer	NN
-cells	NN
-.	
-However	RB CONJ CAP
-,	
-this	DEMO DET
-method	NN
-has	VPRT
-their	TPP3 PRP SBJP
-own	JJ
-risks	NN
-,	
-healthy	JJ
-cells	NN
-could	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-target	NN
-if	COND PIN SCONJ PREP
-the	ART DET
-nanoparticles	NN
-disperse	VPRT
-all	QUAN RB
-over	PIN PREP
-the	ART DET
-body	NN
-,	
-like	PIN PREP
-a	ART DET INDA
-conventional	JJ
-medicine	NN
-.	
-So	RB CAP
-,	
-the	ART DET
-magnetical	JJ
-nanoparticles	NN
-must	NEMD
-be	PASS AUXB INF
-guided	
-to	PIN PREP
-the	ART DET
-tumor	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-activated	
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-context	NN
-,	
-nanospheres	NN
-can	POMD
-be	PASS AUXB INF
-used	
-once	PIN TIME SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-lock	INF
-the	ART DET
-magnetical	JJ
-nanoparticle	NN
-inside	PIN PLACE PREP
-them	TPP3 PRP SBJP ACCU
-and	CCONJ
-to	PIN TO PREP
-transport	INF
-to	PIN PREP
-the	ART DET
-right	JJ
-place	NN
-.	
-To	PIN TO CAP PREP
-take	INF
-the	ART DET
-nanospheres	NN
-until	PIN PREP
-the	ART DET
-injured	
-tissue	NN
-is	BEMA VPRT AUXB
-relatively	RB
-simple	JJ
-,	
-cancer	NN
-tissue	NN
-has	VPRT
-a	ART DET INDA
-bigger	JJ CMADJ
-space	NN
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-than	PIN PREP
-a	ART DET INDA
-healthy	JJ
-tissue	NN
-,	
-using	PGAS
-nanospheres	NN
-in	PIN CONJ PREP
-the	ART DET
-right	JJ
-size	NN
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-guarantee	PUBV INF
-the	ART DET
-medicine	NN
-arrive	NN
-at	PIN PREP
-the	ART DET
-right	JJ
-place	NN
-.	
-Applying	PRESP CAP PGAS
-this	DEMO DET
-method	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-good	JJ
-way	NN
-to	PIN TO PREP
-reduce	INF
-the	ART DET
-quantity	NOMZ
-of	PIN PREP
-medicine	NN
-used	
-,	
-in	PIN CONJ PREP
-a	ART DET INDA
-practical	JJ
-way	NN
-this	DEMP DET
-means	VPRT PRIV
-a	ART DET INDA
-fewer	JJ CMADJ
-sides	NN
-effects	NN
-and	CCONJ
-lower	JJ CMADJ
-prices	NN
-,	
-giving	PGAS
-to	PIN PREP
-the	ART DET
-patient	NN
-a	ART DET INDA
-better	JJ CMADJ
-way	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-treated	
-.	
-   	
-The	ART CAP DET
-pharmaceutical	NN
-industry	NN
-helps	VPRT
-to	PIN TO PREP
-make	INF
-better	JJ CMADJ
-the	ART DET
-human	JJ
-life	NN
-,	
-but	CCONJ
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-for	PIN PREP
-years	NN
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-incorporate	INF
-the	ART DET
-scientific	JJ
-advances	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-work	NN
-,	
-getting	PGAS
-more	RB EMPH CMADJ
-and	PHC CCONJ
-more	RB EMPH CMADJ
-outdated	JJ
-.	
-Thinking	PRIV CAP PGAS
-about	PIN PREP
-the	ART DET
-conventional	JJ
-cancer	NN
-treatments	NOMZ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-see	PRIV THATD INF
-that	DEMP DET
-is	BEMA VPRT AUXB
-not	XX0 RB
-easy	JJ
-to	PIN PREP
-the	ART DET
-people	NN
-who	WHSUB WH
-submit	VPRT PUBV
-to	PIN PREP
-it	PIT PRP SBJP
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-context	NN
-,	
-the	ART DET
-science	NN
-tries	VPRT
-to	PIN TO PREP
-improve	INF
-the	ART DET
-efficacy	NN
-of	PIN PREP
-some	QUAN DET
-medicines	NN
-,	
-for	PIN PREP
-instance	NN
-using	WZPRES PGAS
-nanotechnology	NN
-.	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-the	ART DET
-science	NN
-is	VPRT AUXB
-evolving	PGAS
-but	CCONJ
-this	DEMP DET
-will	PRMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-enough	JJ PRED
-if	COND PIN SCONJ PREP
-do	VPRT SPAU
-not	XX0 RB
-exist	INF
-a	ART DET INDA
-communication	NOMZ
-with	PIN PREP
-the	ART DET
-industry	NN
-.	
-A	ART CAP DET INDA
-good	JJ
-start	NN
-to	PIN PREP
-improving	PGAS
-live	JJ
-conditions	NOMZ
-will	PRMD
-be	BEMA AUXB INF
-the	ART DET
-increment	NOMZ
-of	PIN PREP
-the	ART DET
-study	NN
-of	PIN PREP
-nanotechnology	NN
-applied	VBD
-to	PIN PREP
-the	ART DET
-medical	JJ
-field	NN
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-at	RB PIN PREP
-least	JJ SPADJ
-is	BEMA VPRT AUXB
-possible	JJ
-guarantee	PUBV NN
-a	ART DET INDA
-more	RB EMPH CMADJ
-humanized	
-remedy	NN
-treatments	NOMZ
-.	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1826.0843>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	science	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	changed	
+gap	 	
+word	people	NN
+gap	'	
+word	s	
+gap	 	
+word	lives	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	research	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	chemistry	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	biology	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	improved	
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	medicine	NN
+gap	. 	
+word	Due	PIN CAP PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	high	JJ
+gap	-	
+word	cost	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	new	JJ
+gap	 	
+word	drugs	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	science	NN
+gap	 	
+word	nowadays	RB TIME
+gap	, 	
+word	tries	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	efficacy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	old	JJ
+gap	 	
+word	drugs	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	enhancement	NOMZ
+gap	 	
+word	consisted	VBD
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	delivering	GER PGAS
+gap	 	
+word	drug	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	controlled	
+gap	 	
+word	rate	NN
+gap	, 	
+word	slow	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	targeted	
+gap	 	
+word	delivery	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nanotechnology	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	prioritized	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	help	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	improvement	NOMZ
+gap	, 	
+word	using	PGAS
+gap	 	
+word	methods	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	nanospheres	NN
+gap	. 	
+word	Preliminary	JJ CAP
+gap	 	
+word	results	NN
+gap	 	
+word	show	VPRT PRIV THATD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	real	JJ
+gap	 	
+word	benefit	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	nanotechnology	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	science	NN
+gap	 	
+word	finds	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	huge	JJ
+gap	 	
+word	resistance	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	incorporated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmaceutical	JJ
+gap	 	
+word	industry	NN
+gap	. 	
+word	More	JJ EMPH CAP CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	ever	RB
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	need	NN
+gap	 	
+word	continue	VPRT
+gap	 	
+word	studying	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	applications	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	drug	NN
+gap	 	
+word	delivery	NN
+gap	.\n  \n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	common	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	doctors	NN
+gap	 	
+word	recommend	VPRT SUAV
+gap	 	
+word	medicine	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	treat	INF
+gap	 	
+word	diseases	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	works	VPRT
+gap	 	
+word	if	COND PIN STPR SCONJ PREP
+gap	, 	
+word	inside	RB PLACE
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	body	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	active	JJ
+gap	 	
+word	ingredient	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	drug	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	kept	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	high	JJ
+gap	 	
+word	levels	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	, 	
+word	someone	QUPR INPR
+gap	 	
+word	who	WHQU WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	medical	JJ
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	medicine	NN
+gap	 	
+word	needs	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	pills	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	keep	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	active	JJ
+gap	 	
+word	ingredient	NN
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	another	DET
+gap	 	
+word	factor	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	affects	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	needed	WZPAST
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	conventional	JJ
+gap	 	
+word	medicines	NN
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	go	INF
+gap	 	
+word	straight	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	place	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	react	INF
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	go	VPRT
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	body	NN
+gap	, 	
+word	bigger	JJ CMADJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	covered	
+gap	, 	
+word	higher	JJ CMADJ
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	active	JJ
+gap	 	
+word	ingredient	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	taken	
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	taken	
+gap	 	
+word	medicine	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	weak	JJ PRED
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ones	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	treat	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	headache	NN
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	real	JJ
+gap	 	
+word	problem	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	, 	
+word	to	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	submit	VPRT PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	own	JJ
+gap	 	
+word	body	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	conventional	JJ
+gap	 	
+word	cancer	NN
+gap	 	
+word	treatment	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	real	JJ
+gap	 	
+word	problem	NN
+gap	, 	
+word	those	DEMO DET
+gap	 	
+word	medicines	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	expensive	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	sides	NN
+gap	 	
+word	effects	NN
+gap	 	
+word	very	AMP RB
+gap	 	
+word	aggressively	RB
+gap	.\n\n	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	RB SPADJ
+gap	-	
+word	known	PRIV
+gap	 	
+word	alternative	JJ
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	cancer	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	oncological	JJ
+gap	 	
+word	hyperthermia	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	technic	NN
+gap	 	
+word	consists	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	temperature	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	tumor	NN
+gap	 	
+word	takes	VPRT
+gap	 	
+word	place	NN
+gap	 	
+word	due	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	magnetical	JJ
+gap	 	
+word	nanoparticles	NN
+gap	, 	
+word	until	PIN PREP
+gap	 	
+word	approximately	RB
+gap	 42 ยบ	
+word	C	NN
+gap	, 	
+word	enough	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	kill	INF
+gap	 	
+word	or	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	weaken	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	cancer	NN
+gap	 	
+word	cells	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	method	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	risks	NN
+gap	, 	
+word	healthy	JJ
+gap	 	
+word	cells	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	target	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nanoparticles	NN
+gap	 	
+word	disperse	VPRT
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	body	NN
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	conventional	JJ
+gap	 	
+word	medicine	NN
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	magnetical	JJ
+gap	 	
+word	nanoparticles	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	guided	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	tumor	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	activated	
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	nanospheres	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	once	PIN TIME SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	lock	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	magnetical	JJ
+gap	 	
+word	nanoparticle	NN
+gap	 	
+word	inside	PIN PLACE PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	transport	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	place	NN
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	take	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	nanospheres	NN
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	injured	
+gap	 	
+word	tissue	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	relatively	RB
+gap	 	
+word	simple	JJ
+gap	, 	
+word	cancer	NN
+gap	 	
+word	tissue	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bigger	JJ CMADJ
+gap	 	
+word	space	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	healthy	JJ
+gap	 	
+word	tissue	NN
+gap	, 	
+word	using	PGAS
+gap	 	
+word	nanospheres	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	size	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	guarantee	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	medicine	NN
+gap	 	
+word	arrive	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	place	NN
+gap	. 	
+word	Applying	PRESP CAP PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	method	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	used	
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	practical	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fewer	JJ CMADJ
+gap	 	
+word	sides	NN
+gap	 	
+word	effects	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	prices	NN
+gap	, 	
+word	giving	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	treated	
+gap	.  \n\n	
+word	The	ART CAP DET
+gap	 	
+word	pharmaceutical	NN
+gap	 	
+word	industry	NN
+gap	 	
+word	helps	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	life	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	years	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	incorporate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	scientific	JJ
+gap	 	
+word	advances	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	, 	
+word	getting	PGAS
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	outdated	JJ
+gap	. 	
+word	Thinking	PRIV CAP PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conventional	JJ
+gap	 	
+word	cancer	NN
+gap	 	
+word	treatments	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV THATD INF
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	easy	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	submit	VPRT PUBV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	science	NN
+gap	 	
+word	tries	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	efficacy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	medicines	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	nanotechnology	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	science	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	evolving	PGAS
+gap	 	
+word	but	CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	enough	JJ PRED
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	exist	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	communication	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	industry	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	start	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	improving	PGAS
+gap	 	
+word	live	JJ
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	increment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nanotechnology	NN
+gap	 	
+word	applied	VBD
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	medical	JJ
+gap	 	
+word	field	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	least	JJ SPADJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ
+gap	 	
+word	guarantee	PUBV NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	humanized	
+gap	 	
+word	remedy	NN
+gap	 	
+word	treatments	NOMZ
+gap	.	

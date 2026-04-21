@@ -1,791 +1,1379 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0700.0337.txt
-token	tags
-﻿	NNP
-    	
-The	ART CAP DET
-industrial	JJ
-development	NOMZ
-and	PHC CCONJ
-growth	NN
-of	PIN PREP
-the	ART DET
-world	NN
-population	NOMZ
-created	VBD
-several	QUAN JJ
-environmental	JJ
-problems	NN
-,	
-one	NUM
-of	PIN PREP
-these	DEMO DET
-problems	NN
-is	BEMA VPRT AUXB
-the	ART DET
-excessive	JJ
-generation	NOMZ
-of	PIN PREP
-waste	NN
-or	CCONJ
-contaminated	VBD
-,	
-both	DET
-in	PIN CONJ PREP
-the	ART DET
-industrial	JJ
-sector	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-pharmaceuticals	NN
-and	PHC CCONJ
-textiles	NN
-,	
-as	PIN CONJ PREP
-in	PIN CONJ PREP
-teaching	NN
-and	PHC CCONJ
-research	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-homes	NN
-.	
-Thus	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-became	VBD
-necessary	JJ
-to	PIN TO PREP
-develop	INF
-processes	NN
-for	PIN PREP
-the	ART DET
-removal	NN
-of	PIN PREP
-these	DEMO DET
-environmental	JJ
-contaminants	NN
-.	
- 	
-Among	PIN CAP PREP
-these	DEMO DET
-residues	NN
-are	VPRT AUXB
-emerging	PGAS
-contaminants	NN
-,	
-which	SERE WHQU DET WH
-are	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-natural	JJ
-or	CCONJ
-synthetic	JJ
-substances	NN
-that	TSUB WHSUB WH
-interfere	VPRT
-with	PIN PREP
-the	ART DET
-endocrine	NN
-system	NN
-or	CCONJ
-a	ART DET INDA
-system	NN
-biota	NN
-.	
-Antibiotics	NN CAP
-and	PHC CCONJ
-hormones	NN
-are	BEMA VPRT AUXB
-in	PIN CONJ PREP
-this	DEMO DET
-class	NN
-of	PIN PREP
-emerging	PGAS
-contaminants	NN
-,	
-considering	GER PRIV PRESP PGAS
-the	ART DET
-use	NN
-of	PIN PREP
-these	DEMO DET
-compounds	NN
-has	VPRT PEAS
-increased	
-greatly	AMP RB
-in	PIN CONJ PREP
-recent	JJ
-decades	NN
-.	
- 	
-The	ART CAP DET
-amount	NN
-of	PIN PREP
-antibiotics	NN
-manufactured	WZPAST
-from	PIN PREP
-1940	NUM
-increased	VBD
-significantly	RB
-due	PIN PREP
-to	PIN PREP
-its	PIT PRP SBJP
-wide	JJ
-use	NN
-in	PIN CONJ PREP
-humans	NN
-,	
-veterinary	JJ
-medicine	NN
-and	PHC CCONJ
-agroindustry	NN
-(	
-for	PIN PREP
-example	NN
-,	
-control	NN
-of	PIN PREP
-pests	NN
-and	PHC CCONJ
-plants	NN
-cloning	NN
-)	
-.	
-The	ART CAP DET
-release	NN
-of	PIN PREP
-these	DEMO DET
-drugs	NN
-in	PIN CONJ PREP
-the	ART DET
-environment	NOMZ
-can	POMD
-cause	INF
-the	ART DET
-bacteria	NN
-resistant	JJ
-and	PHC CCONJ
-physiological	JJ
-damage	NN
-for	PIN PREP
-the	ART DET
-populations	NOMZ
-,	
-even	RB
-in	PIN CONJ PREP
-low	JJ
-amounts	NN
-.	
-Already	RB CAP
-hormones	NN
-once	RB TIME
-administrated	
-,	
-has	VPRT PEAS
-released	
-part	NN
-of	PIN PREP
-it	PIT PRP SBJP
-by	PIN PREP
-through	PIN PREP
-the	ART DET
-urine	NN
-and/or	CCONJ
-faeces	NN
-,	
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-active	JJ
-form	NN
-,	
-causing	PGAS
-many	QUAN JJ
-environmental	JJ
-problems	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-feminization	NOMZ
-of	PIN PREP
-male	JJ
-fish	NN
-and	PHC CCONJ
-infertility	NOMZ
-that	DEMO DET
-environment	NOMZ
-.	
- 	
-The	ART CAP DET
-search	NN
-for	PIN PREP
-multifunctional	JJ
-materials	NN
-has	VPRT PEAS
-increased	
-significantly	RB
-,	
-therefore	RB CONJ
-,	
-not	XX0 RB
-all	QUAN DET
-the	ART DET
-desired	SUAV
-characteristics	NN
-for	PIN PREP
-using	PGAS
-them	TPP3 PRP SBJP ACCU
-are	PASS VPRT AUXB
-found	PRIV
-in	PIN CONJ PREP
-a	ART DET INDA
-unique	JJ
-material	NN
-.	
-The	ART CAP DET
-organic	JJ
--	
-inorganic	JJ
-hybrid	NN
-have	VPRT
-complementary	JJ
-properties	NN
-that	TSUB WHSUB WH
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-found	PRIV
-in	PIN CONJ PREP
-a	ART DET INDA
-unique	JJ
-substance	NN
-,	
-which	SERE WHQU DET WH
-can	POMD
-be	PASS AUXB INF
-applied	
-in	PIN CONJ PREP
-several	QUAN JJ
-areas	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-these	DEMO DET
-materials	NN
-to	PIN TO PREP
-be	AUXB INF
-amphiphilics	NN
-,	
-have	VPRT
-good	JJ
-dispersion	NOMZ
-in	PIN CONJ PREP
-water	NN
-due	PIN PREP
-to	PIN PREP
-its	PIT PRP SBJP
-hydrophilic	JJ
-character	NN
-and	CCONJ
-good	JJ
-interaction	NOMZ
-with	PIN PREP
-organic	JJ
-compounds	NN
-due	JJ
-to	PIN PREP
-character	NN
-hydrophobic	NN
-.	
- 	
-Carbon	CAP NNP
-is	VPRT AUXB
-one	NUM
-the	ART DET
-most	RB EMPH SPADJ
-versatile	JJ
-chemical	JJ
-elements	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-periodic	JJ
-table	NN
-,	
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-type	NN
-,	
-strength	NN
-and	PHC CCONJ
-number	NN
-of	PIN PREP
-bond	NN
-that	TSUB WHSUB WH
-can	POMD
-form	INF
-with	PIN PREP
-many	QUAN JJ
-different	JJ
-elements	NOMZ
-.	
-The	ART CAP DET
-carbonaceous	JJ
-materials	NN
-are	BEMA VPRT AUXB
-available	JJ PRED
-in	PIN CONJ PREP
-a	ART DET INDA
-wide	JJ
-variety	NN
-of	PIN PREP
-forms	NN
-including	WZPRES PGAS
-graphite	NN
-,	
-diamond	NN
-,	
-fullerene	NN
-,	
-carbon	NN
-foam	NN
-,	
-activated	
-carbon	NN
-and	PHC CCONJ
-carbon	NN
-nanotubes	NN
-.	
- 	
-Carbon	NN CAP
-nanotubes	NN
-have	VPRT PEAS
-been	PASS AUXB
-used	
-to	PIN TO PREP
-produce	INF
-hybrid	JJ
-composites	NN
-,	
-which	SERE WHQU DET WH
-are	PASS VPRT AUXB
-used	
-as	PIN CONJ PREP
-part	NN
-of	PIN PREP
-the	ART DET
-hydrophobic	JJ
-material	NN
-and	CCONJ
-the	ART DET
-matrix	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-used	
-in	PIN CONJ PREP
-the	ART DET
-synthesis	NN
-thereof	RB
-,	
-it	PIT PRP SBJP
-act	VPRT
-as	PIN CONJ PREP
-a	ART DET INDA
-hydrophobic	JJ
-part	NN
-.	
-The	ART CAP DET
-carbon	NN
-nanotubes	NN
-has	VPRT PEAS
-been	BEMA AUXB
-investigate	JJ PRED
-as	PIN CONJ PREP
-potential	JJ
-adsorbents	NN
-in	PIN CONJ PREP
-removing	PGAS
-contaminates	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-one	NUM
-studied	
-showed	VBD PRIV
-that	PIN THVC SCONJ PREP
-single	JJ
--	
-way	NN
-carbon	NN
-nanotubes	NN
-were	BEMA VBD AUXB
-able	JJ PRED
-to	PIN TO PREP
-remove	INF
-phenanthrene	NN
-,	
-another	DET
-study	NN
-reported	VBD PUBV
-the	ART DET
-competitive	JJ
-sorption	NOMZ
-of	PIN PREP
-the	ART DET
-pyrene	NN
-,	
-phenanthrene	NN
-and	CCONJ
-naphthalene	JJ
-multiwall	NNP
-carbon	NN
-nanotube	NN
-.	
- 	
-These	DEMO CAP DET
-materials	NN
-can	POMD
-be	PASS BYPA AUXB INF
-produced	
-by	PIN PREP
-different	JJ
-methods	NN
-such	JJ
-as	PIN CONJ PREP
-laser	NN
-ablation	NOMZ
-,	
-arc	NN
-discharge	NN
-and	PHC CCONJ
-chemical	NN
-vapor	NN
-deposition	NOMZ
-(	
-CVD	CAP NNP
-)	
-.	
-The	ART CAP DET
-laser	NN
-ablation	NOMZ
-and	PHC CCONJ
-arc	NN
-discharge	NN
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-produced	
-either	DET
-single	JJ
--	
-wall	NN
-nanotubes	NN
-and	CCONJ
-multi	JJ
--	JJ
-walled	JJ
-nanotubes	NN
-,	
-but	CCONJ
-the	ART DET
-former	JJ
-is	BEMA VPRT AUXB
-unable	JJ PRED
-to	PIN TO PREP
-produce	INF
-carbon	NN
-nanotubes	NN
-on	PIN PREP
-a	ART DET INDA
-large	JJ
-scale	NN
-,	
-however	RB CONJ
-the	ART DET
-method	NN
-discharge	NN
-arc	NN
-produced	WZPAST
-on	PIN PREP
-a	ART DET INDA
-large	JJ
-scale	NN
-nanotubes	NN
-,	
-but	CCONJ
-simultaneously	RB TIME
-is	PASS VPRT AUXB
-produced	
-a	ART DET INDA
-large	JJ
-amount	NN
-of	PIN PREP
-carbon	NN
-structure	NN
-,	
-amorphous	JJ
-carbon	NN
-,	
-being	BEMA PRESP AUXB
-therefore	RB CONJ
-necessary	JJ
-purification	NOMZ
-.	
- 	
-The	ART CAP DET
-CVD	CAP NNP
-process	NN
-is	VPRT AUXB
-gaining	PGAS
-importance	NN
-and	CCONJ
-is	PASS VPRT AUXB
-considered	PRIV
-the	ART DET
-most	RB EMPH SPADJ
-practical	JJ
-and	PHC CCONJ
-economical	JJ
-method	NN
-for	PIN PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-carbon	NN
-nanotubes	NN
-on	PIN PREP
-a	ART DET INDA
-large	JJ
-scale	NN
-.	
-Different	JJ CAP
-compounds	NN
-can	POMD
-be	PASS AUXB INF
-used	
-as	PIN CONJ PREP
-a	ART DET INDA
-carbon	NN
-source	NN
-for	PIN PREP
-the	ART DET
-synthesis	NN
-of	PIN PREP
-such	JJ
-nanostructures	NN
-.	
-CVD	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-process	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-one	NUM
-or	CCONJ
-more	JJ EMPH CMADJ
-precursors	NN
-are	PASS VPRT AUXB
-transported	
-through	PIN PREP
-the	ART DET
-vapor	NN
-phase	NN
-to	PIN PREP
-the	ART DET
-reaction	NOMZ
-site	NN
-,	
-usually	RB
-a	ART DET INDA
-tube	NN
-within	PIN PREP
-a	ART DET INDA
-furnace	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-heated	
-over	PIN PREP
-a	ART DET INDA
-Decomposes	CAP NNP
-matrix	NN
-.	
- 	
-For	PIN CAP PREP
-the	ART DET
-formation	NOMZ
-of	PIN PREP
-nanotubes	NN
-,	
-the	ART DET
-presence	NN
-of	PIN PREP
-catalysts	NN
-,	
-generally	RB
-transition	NOMZ
-metals	NN
-,	
-dispersed	VBD
-on	PIN PREP
-the	ART DET
-support	NN
-is	PASS VPRT AUXB
-required	SUAV
-.	
-The	ART CAP DET
-catalyst	NN
-system	NN
-is	PASS VPRT BYPA AUXB
-prepared	
-by	PIN PREP
-precipitation	NOMZ
-of	PIN PREP
-metal	NN
-salts	NN
-or	CCONJ
-impregnation	NOMZ
-of	PIN PREP
-salts	NN
-of	PIN PREP
-the	ART DET
-catalysts	NN
-in	PIN CONJ PREP
-the	ART DET
-ceramic	JJ
-carrier	NN
-,	
-followed	PASTP
-by	PIN PREP
-calcination	NOMZ
-.	
- 	
-In	PIN CONJ CAP PREP
-the	ART DET
-CVD	CAP NNP
-carbon	NN
-,	
-there	EX
-is	VPRT AUXB
-the	ART DET
-deposition	NOMZ
-of	PIN PREP
-carbonaceous	JJ
-structures	NN
-via	PIN PREP
-catalytic	JJ
-decomposition	NOMZ
-of	PIN PREP
-a	ART DET INDA
-volatile	JJ
-carbon	NN
-source	NN
-,	
-on	PIN PREP
-a	ART DET INDA
-thermally	RB
-stable	JJ
-support	NN
-with	PIN PREP
-the	ART DET
-formation	NOMZ
-of	PIN PREP
-some	QUAN DET
-gaseous	JJ
-by	PIN PREP
-products	NN
-that	TSUB WHSUB WH
-are	PASS VPRT AUXB
-expelled	
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-tube	NN
-.	
-More	RB EMPH CAP CMADJ
-used	
-carbon	NN
-sources	NN
-include	VPRT
-carbon	NN
-monoxide	NN
-,	
-benzene	NN
-,	
-ethylene	NN
-,	
-methane	NN
-and	PHC CCONJ
-ethanol	NN
-.	
-The	ART CAP DET
-principal	JJ
-media	NN
-used	WZPAST
-are	VPRT AUXB
-silica	NNP
-,	
-magnesium	NN
-oxide	NN
-(	
-MgO	CAP NNP
-)	
-and	ANDC CCONJ
-alumina	NNP
-,	
-as	PIN CONJ PREP
-such	JJ
-materials	NN
-and	CCONJ
-are	BEMA VPRT AUXB
-thermally	RB
-stable	JJ
-have	VPRT
-large	JJ
-surface	NN
-areas	NN
-.	
- 	
-Given	CAP
-this	DEMO DET
-context	NN
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-concluded	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-obtaining	NN
-of	PIN PREP
-carbon	NN
-nanotubes	NN
-through	PIN PREP
-CVD	CAP NNP
-process	NN
-,	
-suggests	VPRT PUBV SUAV THATD
-an	ART DET INDA
-alternative	JJ
-route	NN
-organized	WZPAST
-as	PIN CONJ PREP
-carbon	NN
-nanotubes	NN
-and	CCONJ
-staggered	VBD
-and	CCONJ
-are	VPRT AUXB
-promising	PUBV THATD PGAS
-materials	NN
-obtained	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-removal	NN
-of	PIN PREP
-contaminants	NN
-from	PIN PREP
-aqueous	JJ
-solution	NOMZ
-emerging	WZPRES PGAS
-.	
-          	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0700.0337>\n\n<Carbonaceous materials obtained by the CVD process for environmental applications>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	industrial	JJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	growth	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	population	NOMZ
+gap	 	
+word	created	VBD
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	environmental	JJ
+gap	 	
+word	problems	NN
+gap	, 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	problems	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	excessive	JJ
+gap	 	
+word	generation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	waste	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	contaminated	VBD
+gap	, 	
+word	both	DET
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	industrial	JJ
+gap	 	
+word	sector	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	pharmaceuticals	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	textiles	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	teaching	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	research	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	homes	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	became	VBD
+gap	 	
+word	necessary	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	processes	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	removal	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	environmental	JJ
+gap	 	
+word	contaminants	NN
+gap	.\n	
+word	Among	PIN CAP PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	residues	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	emerging	PGAS
+gap	 	
+word	contaminants	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	defined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	synthetic	JJ
+gap	 	
+word	substances	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	interfere	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	endocrine	NN
+gap	 	
+word	system	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	system	NN
+gap	 	
+word	biota	NN
+gap	. 	
+word	Antibiotics	NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	hormones	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	class	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	emerging	PGAS
+gap	 	
+word	contaminants	NN
+gap	, 	
+word	considering	GER PRIV PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	compounds	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	increased	
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	recent	JJ
+gap	 	
+word	decades	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	antibiotics	NN
+gap	 	
+word	manufactured	WZPAST
+gap	 	
+word	from	PIN PREP
+gap	 1940 	
+word	increased	VBD
+gap	 	
+word	significantly	RB
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	wide	JJ
+gap	 	
+word	use	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	humans	NN
+gap	, 	
+word	veterinary	JJ
+gap	 	
+word	medicine	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	agroindustry	NN
+gap	 (	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	control	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pests	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	plants	NN
+gap	 	
+word	cloning	NN
+gap	). 	
+word	The	ART CAP DET
+gap	 	
+word	release	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	drugs	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	bacteria	NN
+gap	 	
+word	resistant	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	physiological	JJ
+gap	 	
+word	damage	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	populations	NOMZ
+gap	, 	
+word	even	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	low	JJ
+gap	 	
+word	amounts	NN
+gap	. 	
+word	Already	RB CAP
+gap	 	
+word	hormones	NN
+gap	 	
+word	once	RB TIME
+gap	 	
+word	administrated	
+gap	, 	
+word	has	VPRT PEAS
+gap	 	
+word	released	
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	urine	NN
+gap	 	
+word	and	
+gap	/	
+word	or	
+gap	 	
+word	faeces	
+gap	, 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	active	
+gap	 	
+word	form	
+gap	, 	
+word	causing	
+gap	 	
+word	many	
+gap	 	
+word	environmental	
+gap	 	
+word	problems	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	feminization	
+gap	 	
+word	of	
+gap	 	
+word	male	
+gap	 	
+word	fish	
+gap	 	
+word	and	
+gap	 	
+word	infertility	
+gap	 	
+word	that	
+gap	 	
+word	environment	
+gap	.\n	
+word	The	
+gap	 	
+word	search	
+gap	 	
+word	for	
+gap	 	
+word	multifunctional	
+gap	 	
+word	materials	
+gap	 	
+word	has	
+gap	 	
+word	increased	
+gap	 	
+word	significantly	
+gap	, 	
+word	therefore	
+gap	, 	
+word	not	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	desired	
+gap	 	
+word	characteristics	
+gap	 	
+word	for	
+gap	 	
+word	using	
+gap	 	
+word	them	
+gap	 	
+word	are	
+gap	 	
+word	found	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	unique	
+gap	 	
+word	material	
+gap	. 	
+word	The	
+gap	 	
+word	organic	
+gap	-	
+word	inorganic	
+gap	 	
+word	hybrid	
+gap	 	
+word	have	
+gap	 	
+word	complementary	
+gap	 	
+word	properties	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	found	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	unique	
+gap	 	
+word	substance	
+gap	, 	
+word	which	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	applied	
+gap	 	
+word	in	
+gap	 	
+word	several	
+gap	 	
+word	areas	
+gap	. 	
+word	Furthermore	
+gap	, 	
+word	these	
+gap	 	
+word	materials	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	amphiphilics	
+gap	, 	
+word	have	
+gap	 	
+word	good	
+gap	 	
+word	dispersion	
+gap	 	
+word	in	
+gap	 	
+word	water	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	its	
+gap	 	
+word	hydrophilic	
+gap	 	
+word	character	
+gap	 	
+word	and	
+gap	 	
+word	good	
+gap	 	
+word	interaction	
+gap	 	
+word	with	
+gap	 	
+word	organic	
+gap	 	
+word	compounds	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	character	
+gap	 	
+word	hydrophobic	
+gap	.\n	
+word	Carbon	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	versatile	
+gap	 	
+word	chemical	
+gap	 	
+word	elements	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	periodic	
+gap	 	
+word	table	
+gap	, 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	type	
+gap	, 	
+word	strength	
+gap	 	
+word	and	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	bond	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	form	
+gap	 	
+word	with	
+gap	 	
+word	many	
+gap	 	
+word	different	
+gap	 	
+word	elements	
+gap	. 	
+word	The	
+gap	 	
+word	carbonaceous	
+gap	 	
+word	materials	
+gap	 	
+word	are	
+gap	 	
+word	available	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	wide	
+gap	 	
+word	variety	
+gap	 	
+word	of	
+gap	 	
+word	forms	
+gap	 	
+word	including	
+gap	 	
+word	graphite	
+gap	, 	
+word	diamond	
+gap	, 	
+word	fullerene	
+gap	, 	
+word	carbon	
+gap	 	
+word	foam	
+gap	, 	
+word	activated	
+gap	 	
+word	carbon	
+gap	 	
+word	and	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	.\n	
+word	Carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	hybrid	
+gap	 	
+word	composites	
+gap	, 	
+word	which	
+gap	 	
+word	are	
+gap	 	
+word	used	
+gap	 	
+word	as	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	hydrophobic	
+gap	 	
+word	material	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	matrix	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	synthesis	
+gap	 	
+word	thereof	
+gap	, 	
+word	it	
+gap	 	
+word	act	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	hydrophobic	
+gap	 	
+word	part	
+gap	. 	
+word	The	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	investigate	
+gap	 	
+word	as	
+gap	 	
+word	potential	
+gap	 	
+word	adsorbents	
+gap	 	
+word	in	
+gap	 	
+word	removing	
+gap	 	
+word	contaminates	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	one	
+gap	 	
+word	studied	
+gap	 	
+word	showed	
+gap	 	
+word	that	
+gap	 	
+word	single	
+gap	-	
+word	way	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	were	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	remove	
+gap	 	
+word	phenanthrene	
+gap	, 	
+word	another	
+gap	 	
+word	study	
+gap	 	
+word	reported	
+gap	 	
+word	the	
+gap	 	
+word	competitive	
+gap	 	
+word	sorption	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	pyrene	
+gap	, 	
+word	phenanthrene	
+gap	 	
+word	and	
+gap	 	
+word	naphthalene	
+gap	 	
+word	multiwall	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotube	
+gap	.\n	
+word	These	
+gap	 	
+word	materials	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	produced	
+gap	 	
+word	by	
+gap	 	
+word	different	
+gap	 	
+word	methods	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	laser	
+gap	 	
+word	ablation	
+gap	, 	
+word	arc	
+gap	 	
+word	discharge	
+gap	 	
+word	and	
+gap	 	
+word	chemical	
+gap	 	
+word	vapor	
+gap	 	
+word	deposition	
+gap	 (	
+word	CVD	
+gap	). 	
+word	The	
+gap	 	
+word	laser	
+gap	 	
+word	ablation	
+gap	 	
+word	and	
+gap	 	
+word	arc	
+gap	 	
+word	discharge	
+gap	 	
+word	are	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	produced	
+gap	 	
+word	either	
+gap	 	
+word	single	
+gap	-	
+word	wall	
+gap	 	
+word	nanotubes	
+gap	 	
+word	and	
+gap	 	
+word	multi	
+gap	-	
+word	walled	
+gap	 	
+word	nanotubes	
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	former	
+gap	 	
+word	is	
+gap	 	
+word	unable	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	scale	
+gap	, 	
+word	however	
+gap	 	
+word	the	
+gap	 	
+word	method	
+gap	 	
+word	discharge	
+gap	 	
+word	arc	
+gap	 	
+word	produced	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	scale	
+gap	 	
+word	nanotubes	
+gap	, 	
+word	but	
+gap	 	
+word	simultaneously	
+gap	 	
+word	is	
+gap	 	
+word	produced	
+gap	 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	carbon	
+gap	 	
+word	structure	
+gap	, 	
+word	amorphous	
+gap	 	
+word	carbon	
+gap	, 	
+word	being	
+gap	 	
+word	therefore	
+gap	 	
+word	necessary	
+gap	 	
+word	purification	
+gap	.\n	
+word	The	
+gap	 	
+word	CVD	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	gaining	
+gap	 	
+word	importance	
+gap	 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	considered	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	practical	
+gap	 	
+word	and	
+gap	 	
+word	economical	
+gap	 	
+word	method	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	production	
+gap	 	
+word	of	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	scale	
+gap	. 	
+word	Different	
+gap	 	
+word	compounds	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	used	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	carbon	
+gap	 	
+word	source	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	synthesis	
+gap	 	
+word	of	
+gap	 	
+word	such	
+gap	 	
+word	nanostructures	
+gap	. 	
+word	CVD	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	process	
+gap	 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	one	
+gap	 	
+word	or	
+gap	 	
+word	more	
+gap	 	
+word	precursors	
+gap	 	
+word	are	
+gap	 	
+word	transported	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	vapor	
+gap	 	
+word	phase	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	reaction	
+gap	 	
+word	site	
+gap	, 	
+word	usually	
+gap	 	
+word	a	
+gap	 	
+word	tube	
+gap	 	
+word	within	
+gap	 	
+word	a	
+gap	 	
+word	furnace	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	heated	
+gap	 	
+word	over	
+gap	 	
+word	a	
+gap	 	
+word	Decomposes	
+gap	 	
+word	matrix	
+gap	.\n	
+word	For	
+gap	 	
+word	the	
+gap	 	
+word	formation	
+gap	 	
+word	of	
+gap	 	
+word	nanotubes	
+gap	, 	
+word	the	
+gap	 	
+word	presence	
+gap	 	
+word	of	
+gap	 	
+word	catalysts	
+gap	, 	
+word	generally	
+gap	 	
+word	transition	
+gap	 	
+word	metals	
+gap	, 	
+word	dispersed	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	support	
+gap	 	
+word	is	
+gap	 	
+word	required	
+gap	. 	
+word	The	
+gap	 	
+word	catalyst	
+gap	 	
+word	system	
+gap	 	
+word	is	
+gap	 	
+word	prepared	
+gap	 	
+word	by	
+gap	 	
+word	precipitation	
+gap	 	
+word	of	
+gap	 	
+word	metal	
+gap	 	
+word	salts	
+gap	 	
+word	or	
+gap	 	
+word	impregnation	
+gap	 	
+word	of	
+gap	 	
+word	salts	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	catalysts	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	ceramic	
+gap	 	
+word	carrier	
+gap	, 	
+word	followed	
+gap	 	
+word	by	
+gap	 	
+word	calcination	
+gap	.\n	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	CVD	
+gap	 	
+word	carbon	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	deposition	
+gap	 	
+word	of	
+gap	 	
+word	carbonaceous	
+gap	 	
+word	structures	
+gap	 	
+word	via	
+gap	 	
+word	catalytic	
+gap	 	
+word	decomposition	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	volatile	
+gap	 	
+word	carbon	
+gap	 	
+word	source	
+gap	, 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	thermally	
+gap	 	
+word	stable	
+gap	 	
+word	support	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	formation	
+gap	 	
+word	of	
+gap	 	
+word	some	
+gap	 	
+word	gaseous	
+gap	 	
+word	by	
+gap	 	
+word	products	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	expelled	
+gap	 	
+word	out	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	tube	
+gap	. 	
+word	More	
+gap	 	
+word	used	
+gap	 	
+word	carbon	
+gap	 	
+word	sources	
+gap	 	
+word	include	
+gap	 	
+word	carbon	
+gap	 	
+word	monoxide	
+gap	, 	
+word	benzene	
+gap	, 	
+word	ethylene	
+gap	, 	
+word	methane	
+gap	 	
+word	and	
+gap	 	
+word	ethanol	
+gap	. 	
+word	The	
+gap	 	
+word	principal	
+gap	 	
+word	media	
+gap	 	
+word	used	
+gap	 	
+word	are	
+gap	 	
+word	silica	
+gap	, 	
+word	magnesium	
+gap	 	
+word	oxide	
+gap	 (	
+word	MgO	
+gap	) 	
+word	and	
+gap	 	
+word	alumina	
+gap	, 	
+word	as	
+gap	 	
+word	such	
+gap	 	
+word	materials	
+gap	 	
+word	and	
+gap	 	
+word	are	
+gap	 	
+word	thermally	
+gap	 	
+word	stable	
+gap	 	
+word	have	
+gap	 	
+word	large	
+gap	 	
+word	surface	
+gap	 	
+word	areas	
+gap	.\n	
+word	Given	
+gap	 	
+word	this	
+gap	 	
+word	context	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	concluded	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	obtaining	
+gap	 	
+word	of	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	through	
+gap	 	
+word	CVD	
+gap	 	
+word	process	
+gap	, 	
+word	suggests	
+gap	 	
+word	an	
+gap	 	
+word	alternative	
+gap	 	
+word	route	
+gap	 	
+word	organized	
+gap	 	
+word	as	
+gap	 	
+word	carbon	
+gap	 	
+word	nanotubes	
+gap	 	
+word	and	
+gap	 	
+word	staggered	
+gap	 	
+word	and	
+gap	 	
+word	are	
+gap	 	
+word	promising	
+gap	 	
+word	materials	
+gap	 	
+word	obtained	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	removal	
+gap	 	
+word	of	
+gap	 	
+word	contaminants	
+gap	 	
+word	from	
+gap	 	
+word	aqueous	
+gap	 	
+word	solution	
+gap	 	
+word	emerging	
+gap	.\n\n<References:>\n<Khetan, S.K. and T.J. Collins, Human Pharmaceuticals in the Aquatic Environment:? A Challenge to Green Chemistry. Chemical Reviews, 2007. 107(6): p. 2319-2364.>\n<Ali, I., New Generation Adsorbents for Water Treatment. Chemical Reviews, 2012. 112(10): p. 5073-5091.>\n<Fernandes, A.N.G., M. ; Almeida, C.A.P. ; Esteves, V.I. ; Sierra, M.M.D. ; Grassi, M.T., Removal of the hormones 17ß-estradiol and 17a-ethinylestradiol from aqueous solutions employing a decomposed peat as adsorbent material. Química Nova, 2011. 34: p. 1526-1533.>\n<Joseph, L., et al., Removal of bisphenol A and 17a-ethinyl estradiol by combined coagulation and adsorption using carbon nanomaterials and powdered activated carbon. Separation and Purification Technology, 2013. 107(0): p. 37-47.>\n<Jong-Hee Park, T.S.S., Chemical Vapor Deposition. Vol. 2. 2001. 476.>\n<Serp, P., P. Kalck, and R. Feurer, Chemical Vapor Deposition Methods for the Controlled Preparation of Supported Catalytic Materials. Chemical Reviews, 2002. 102(9): p. 3085-3128.>\n<Dresselhaus, M.S., Dresselhaus, Gene, Avouris, Phaedon, Carbon Nanotubes: Synthesis, Structure, Properties, and Applications, Springer-Verlag Berlin Heidelberg. p. 448.>\n	

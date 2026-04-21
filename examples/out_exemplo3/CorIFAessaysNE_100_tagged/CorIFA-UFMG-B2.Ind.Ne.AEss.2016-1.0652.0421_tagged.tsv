@@ -1,561 +1,987 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0652.0421.txt
-token	tags
-    	
-Human	JJ CAP
-being	NN
-is	BEMA VPRT AUXB
-completely	AMP RB
-reliant	JJ
-on	PIN PREP
-of	PIN PREP
-the	ART DET
-usage	NN
-of	PIN PREP
-water	NN
-,	
-in	PIN CONJ PREP
-Brazil	CAP NNP
-is	BEMA VPRT AUXB
-not	XX0 RB
-different	JJ
-,	
-but	CCONJ
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-surely	RB
-dependent	JJ
-on	PIN PREP
-their	TPP3 PRP SBJP
-water	NN
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-use	VPRT
-it	PIT PRP SBJP
-for	PIN PREP
-two	NUM
-main	JJ
-things	NN
-.	
-First	RB CAP
-,	
-is	BEMA VPRT AUXB
-for	PIN PREP
-the	ART DET
-trivial	JJ
-things	NN
-in	PIN CONJ PREP
-human	JJ
-lives	NN
-like	PIN PREP
-drinking	NN
-,	
-washing	NN
-,	
-taking	PGAS
-shower	NN
-,	
-etc	X
-.	X
-,	
-and	ANDC CCONJ
-second	RB
-for	PIN PREP
-generate	INF
-their	TPP3 PRP SBJP
-electric	JJ
-energy	NN
-.	
-More	JJ EMPH CAP CMADJ
-than	PIN PREP
-80	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-electricity	NOMZ
-generation	NOMZ
-is	PASS VPRT AUXB
-based	
-in	PIN CONJ PREP
-hydroelectric	NNP
-,	
-so	CCONJ
-if	COND PIN SCONJ PREP
-Brazil	CAP NNP
-have	VPRT
-a	ART DET INDA
-problem	NN
-with	PIN PREP
-the	ART DET
-rainfalls	NN
-or	CCONJ
-with	PIN PREP
-the	ART DET
-ground	NN
-waters	NN
-,	
-it	PIT PRP SBJP
-will	PRMD
-be	BEMA AUXB INF
-a	ART DET INDA
-disaster	NN
-.	
-Unfortunately	RB CAP
-,	
-Brazilians	CAP NNP
-do	VPRT SPAU
-not	XX0 RB
-care	INF
-about	PIN PREP
-their	TPP3 PRP SBJP
-water	NN
-,	
-this	DEMO DET
-source	NN
-were	BEMA VBD AUXB
-always	RB
-plenty	JJ
-for	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-Since	OSUB PIN CAP SCONJ PREP
-2014	NUM
-,	
-they	TPP3 PRP SBJP
-have	VPRT
-problems	NN
-with	PIN PREP
-their	TPP3 PRP SBJP
-water	NN
-reservoir	NN
-because	CAUS PIN SCONJ PREP
-rains	VPRT
-less	JJ CMADJ
-than	PIN PREP
-they	TPP3 PRP SBJP
-imagine	VPRT PRIV
-,	
-so	CCONJ
-the	ART DET
-government	NOMZ
-started	VBD
-doing	PROD PGAS
-some	QUAN DET
-programs	NN
-to	PIN TO PREP
-reduce	INF
-the	ART DET
-consumption	NOMZ
-and	CCONJ
-maintain	PUBV INF
-water	NN
-for	PIN PREP
-population	NOMZ
-.	
-  	
-To	PIN TO SPIN CAP PREP
-not	XX0 RB
-be	AUXB INF
-as	RB CONJ
-dependently	RB
-as	PIN CONJ PREP
-Brazilians	CAP NNP
-is	VPRT AUXB
-,	
-there	EX
-are	VPRT AUXB
-some	QUAN DET
-ideas	NN
-for	PIN PREP
-them	TPP3 PRP SBJP ACCU
-starting	PGAS
-to	PIN TO PREP
-think	PRIV INF
-and	PHC CCONJ
-make	INF
-a	ART DET INDA
-change	NN
-the	ART DET
-way	NN
-of	PIN PREP
-using	PGAS
-their	TPP3 PRP SBJP
-water	NN
-.	
-For	PIN CAP PREP
-maintenance	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-water	NN
-fountains	NN
-they	TPP3 PRP SBJP
-could	POMD
-start	INF
-doing	PROD PGAS
-a	ART DET INDA
-controlling	GER PGAS
-and	PHC CCONJ
-monitoring	GER PGAS
-system	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-principals	NN
-environmental	JJ
-areas	NN
-(	
-those	DEMP DET
-who	WHQU WH
-had	VBD
-a	ART DET INDA
-directly	RB
-impact	NN
-on	PIN PREP
-their	TPP3 PRP SBJP
-sources	NN
-)	
-,	
-promote	VPRT
-reinstatement	NOMZ
-in	PIN CONJ PREP
-affected	JJ
-areas	NN
-and	CCONJ
-always	RB
-keep	INF
-looking	PGAS
-throw	INF
-new	JJ
-technologies	NN
-for	PIN PREP
-conservation	NOMZ
-and	PHC CCONJ
-preservation	NOMZ
-of	PIN STPR PREP
-,	
-unless	COND PIN STPR SCONJ PREP
-,	
-these	DEMO DET
-principal	JJ
-regions	NN
-.	
-  	
-Like	PIN CAP PREP
-said	VBD PUBV
-before	RB
-,	
-other	JJ
-huge	JJ
-problem	NN
-caused	WZPAST
-by	PIN PREP
-water	NN
-’s	
-deficient	NN
-is	BEMA VPRT AUXB
-the	ART DET
-generation	NOMZ
-of	PIN PREP
-energy	NN
-,	
-almost	DWNT RB
-all	QUAN DET
-electric	JJ
-energy	NN
-,	
-in	PIN CONJ PREP
-Brazil	CAP NNP
-,	
-is	PASS VPRT BYPA AUXB
-generated	
-by	PIN PREP
-hydroelectric	NNP
-,	
-therefor	PIN PREP
-using	PGAS
-water	NN
-.	
-For	PIN CAP PREP
-improve	INF
-this	DEMO DET
-situation	NOMZ
-,	
-the	ART DET
-government	NOMZ
-could	POMD
-encourage	INF
-people	NN
-and	PHC CCONJ
-investors	NN
-(	
-using	PGAS
-tax	NN
-incentive	NN
-or	CCONJ
-giving	PGAS
-other	JJ
-types	NN
-of	PIN PREP
-benefits	NN
-)	
-to	PIN TO PREP
-build	INF
-and	PHC CCONJ
-invest	INF
-in	PIN CONJ PREP
-renewable	JJ
-energy	NN
-sources	NN
-like	PIN PREP
-solar	JJ
-or	CCONJ
-wind	NN
-energy	NN
-.	
-Brazil	CAP NNP
-have	VPRT
-a	ART DET INDA
-vast	JJ
-potential	NN
-to	PIN TO PREP
-use	INF
-solar	JJ
-and	CCONJ
-wind	NN
-power	NN
-and	CCONJ
-,	
-these	DEMO DET
-kinds	NN
-of	PIN PREP
-generation	NOMZ
-are	PASS VPRT AUXB
-considered	PRIV
-clean	JJ
-(	
-do	VPRT SPAU
-not	XX0 RB
-emit	INF
-carbon	NN
-gas	NN
-to	PIN PREP
-atmosphere	NN
-)	
-and	ANDC CCONJ
-are	BEMA VPRT AUXB
-less	RB CMADJ
-harmful	JJ
-than	PIN PREP
-the	ART DET
-usual	JJ
-forms	NN
-.	
-  	
-Finally	RB CAP
-,	
-other	JJ
-object	PUBV NN
-important	JJ
-for	PIN PREP
-Brazil	CAP NNP
-invest	INF
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-education	NOMZ
-!	EXCL
-Everything	QUPR INPR CAP
-might	POMD
-be	AUXB INF
-change	INF
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-start	VPRT
-to	PIN TO PREP
-change	INF
-the	ART DET
-culture	NN
-of	PIN PREP
-a	ART DET INDA
-population	NOMZ
-,	
-if	COND PIN SCONJ PREP
-Brazilians	NN CAP
-start	VPRT
-to	PIN TO PREP
-understand	PRIV THATD INF
-how	RB WHCL SCONJ WH
-important	JJ
-water	NN
-is	VPRT AUXB
-and	CCONJ
-start	INF
-to	PIN TO PREP
-see	PRIV INF
-the	ART DET
-relation	NOMZ
-with	PIN PREP
-water	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-habits	NN
-they	TPP3 PRP SBJP
-will	PRMD
-change	INF
-their	TPP3 PRP SBJP
-conscious	JJ
-and	CCONJ
-begin	INF
-to	PIN TO PREP
-take	INF
-care	NN
-of	PIN PREP
-nature	NN
-and	CCONJ
-treat	INF
-it	PIT PRP SBJP
-with	PIN PREP
-respect	NN
-.	
-This	DEMP CAP DET
-changing	PGAS
-maybe	RB HDG
-will	PRMD
-take	INF
-a	ART DET INDA
-long	JJ
-time	NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-essential	JJ PRED
-for	PIN PREP
-a	ART DET INDA
-healthy	JJ
-living	NN
-and	CCONJ
-keep	INF
-the	ART DET
-planet	NN
-in	PIN CONJ PREP
-harmony	NN
-,	
-we	FPP1 PRP SBJP
-can	POMD
-initiate	INF
-it	PIT PRP SBJP
-with	PIN PREP
-kids	NN
-,	
-in	PIN CONJ PREP
-school	NN
-,	
-and	ANDC CCONJ
-then	RB
-in	PIN CONJ PREP
-two	NUM
-or	CCONJ
-three	NUM
-generations	NOMZ
-we	FPP1 PRP SBJP
-would	PRMD
-see	PRIV INF
-results	NN
-.	
-  	
-Knowing	PRIV CAP PGAS
-the	ART DET
-importance	NN
-of	PIN PREP
-have	VPRT
-a	ART DET INDA
-good	JJ
-relation	NOMZ
-between	PIN PREP
-human	NN
-being	NN
-and	PHC CCONJ
-nature	NN
-it	PIT PRP SBJP
-is	VPRT AUXB
-time	NN
-to	PIN TO PREP
-change	INF
-and	PHC CCONJ
-start	INF
-to	PIN TO PREP
-care	INF
-with	PIN PREP
-our	FPP1 PRP SBJP
-planet	NN
-,	
-not	XX0 RB
-just	RB EMPH
-Brazilians	CAP NNP
-but	CCONJ
-all	QUAN DET
-world	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-essential	JJ PRED
-to	PIN TO PREP
-change	INF
-our	FPP1 PRP SBJP
-current	JJ
-view	NN
-that	TSUB WHSUB WH
-is	VPRT AUXB
-focus	NN
-on	PIN PREP
-profits	NN
-,	
-even	RB
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-gain	NN
-from	PIN PREP
-exploration	NOMZ
-and	PHC CCONJ
-degradation	NOMZ
-of	PIN PREP
-nature	NN
-,	
-without	PIN PREP
-thinking	PRIV PGAS
-in	PIN CONJ PREP
-the	ART DET
-future	JJ
-consequences	NN
-of	PIN PREP
-these	DEMO DET
-actions	NOMZ
-.	
-Nature	NN CAP
-is	BEMA VPRT AUXB
-bigger	JJ PRED CMADJ
-than	PIN PREP
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-,	
-so	RB
-we	FPP1 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-start	INF
-a	ART DET INDA
-new	JJ
-vision	NOMZ
-for	PIN PREP
-living	NN
-,	
-thinking	PRIV PGAS
-in	PIN CONJ PREP
-future	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-maintenance	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-species	NN
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0652.0421>\n\n<TOPIC: The Importance of Environmental Preservation in Brazil for its Future>\n\n	
+word	Human	JJ CAP
+gap	 	
+word	being	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	reliant	JJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	usage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	water	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	different	JJ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	surely	RB
+gap	 	
+word	dependent	JJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	water	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	use	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	main	JJ
+gap	 	
+word	things	NN
+gap	. 	
+word	First	RB CAP
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	trivial	JJ
+gap	 	
+word	things	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	lives	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	drinking	NN
+gap	, 	
+word	washing	NN
+gap	, 	
+word	taking	PGAS
+gap	 	
+word	shower	NN
+gap	, 	
+word	etc	X
+gap	., 	
+word	and	ANDC CCONJ
+gap	 	
+word	second	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	generate	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	electric	JJ
+gap	 	
+word	energy	NN
+gap	. 	
+word	More	JJ EMPH CAP CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 80% 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	electricity	NOMZ
+gap	 	
+word	generation	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	based	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	hydroelectric	NNP
+gap	, 	
+word	so	CCONJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	problem	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rainfalls	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ground	NN
+gap	 	
+word	waters	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	disaster	NN
+gap	. 	
+word	Unfortunately	RB CAP
+gap	, 	
+word	Brazilians	CAP NNP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	care	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	water	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	source	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	always	RB
+gap	 	
+word	plenty	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 2014, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	problems	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	water	NN
+gap	 	
+word	reservoir	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	rains	VPRT
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	imagine	VPRT PRIV
+gap	, 	
+word	so	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	started	VBD
+gap	 	
+word	doing	PROD PGAS
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	programs	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	consumption	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	maintain	PUBV INF
+gap	 	
+word	water	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	population	NOMZ
+gap	.\n\n	
+word	To	PIN TO SPIN CAP PREP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	dependently	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Brazilians	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	ideas	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	starting	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	make	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	change	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	water	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	maintenance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	water	NN
+gap	 	
+word	fountains	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	start	INF
+gap	 	
+word	doing	PROD PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	controlling	GER PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	monitoring	GER PGAS
+gap	 	
+word	system	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	principals	NN
+gap	 	
+word	environmental	JJ
+gap	 	
+word	areas	NN
+gap	 (	
+word	those	DEMP DET
+gap	 	
+word	who	WHQU WH
+gap	 	
+word	had	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	directly	RB
+gap	 	
+word	impact	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	sources	NN
+gap	), 	
+word	promote	VPRT
+gap	 	
+word	reinstatement	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	affected	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	always	RB
+gap	 	
+word	keep	INF
+gap	 	
+word	looking	PGAS
+gap	 	
+word	throw	INF
+gap	 	
+word	new	JJ
+gap	 	
+word	technologies	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	preservation	NOMZ
+gap	 	
+word	of	PIN STPR PREP
+gap	, 	
+word	unless	COND PIN STPR SCONJ PREP
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	principal	JJ
+gap	 	
+word	regions	NN
+gap	.\n\n	
+word	Like	PIN CAP PREP
+gap	 	
+word	said	VBD PUBV
+gap	 	
+word	before	RB
+gap	, 	
+word	other	JJ
+gap	 	
+word	huge	JJ
+gap	 	
+word	problem	NN
+gap	 	
+word	caused	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	water	NN
+gap	’	
+word	s	
+gap	 	
+word	deficient	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	generation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	energy	NN
+gap	, 	
+word	almost	DWNT RB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	electric	JJ
+gap	 	
+word	energy	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	, 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	generated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	hydroelectric	NNP
+gap	, 	
+word	therefor	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	water	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	situation	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	encourage	INF
+gap	 	
+word	people	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	investors	NN
+gap	 (	
+word	using	PGAS
+gap	 	
+word	tax	NN
+gap	 	
+word	incentive	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	giving	PGAS
+gap	 	
+word	other	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	benefits	NN
+gap	) 	
+word	to	PIN TO PREP
+gap	 	
+word	build	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	invest	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	renewable	JJ
+gap	 	
+word	energy	NN
+gap	 	
+word	sources	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	solar	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	wind	NN
+gap	 	
+word	energy	NN
+gap	. 	
+word	Brazil	CAP NNP
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	vast	JJ
+gap	 	
+word	potential	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	solar	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	wind	NN
+gap	 	
+word	power	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	kinds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	generation	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	clean	JJ
+gap	 (	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	emit	INF
+gap	 	
+word	carbon	NN
+gap	 	
+word	gas	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	atmosphere	NN
+gap	) 	
+word	and	ANDC CCONJ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	harmful	JJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	usual	JJ
+gap	 	
+word	forms	NN
+gap	.\n\n	
+word	Finally	RB CAP
+gap	, 	
+word	other	JJ
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	important	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	invest	INF
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	! 	
+word	Everything	QUPR INPR CAP
+gap	 	
+word	might	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	change	INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	start	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	change	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	culture	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	population	NOMZ
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	Brazilians	NN CAP
+gap	 	
+word	start	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV THATD INF
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	important	JJ
+gap	 	
+word	water	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	and	CCONJ
+gap	 	
+word	start	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	water	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	habits	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	change	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	conscious	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	begin	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	care	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nature	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	treat	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	respect	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	changing	PGAS
+gap	 	
+word	maybe	RB HDG
+gap	 	
+word	will	PRMD
+gap	 	
+word	take	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	 	
+word	time	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	healthy	JJ
+gap	 	
+word	living	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	keep	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	planet	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	harmony	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	initiate	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	kids	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	school	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	then	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	or	CCONJ
+gap	 	
+word	three	NUM
+gap	 	
+word	generations	NOMZ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	results	NN
+gap	.\n\n	
+word	Knowing	PRIV CAP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	human	NN
+gap	 	
+word	being	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	nature	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	change	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	start	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	care	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	planet	NN
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	Brazilians	CAP NNP
+gap	 	
+word	but	CCONJ
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	world	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	change	INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	current	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	focus	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	profits	NN
+gap	, 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	gain	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	exploration	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	degradation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nature	NN
+gap	, 	
+word	without	PIN PREP
+gap	 	
+word	thinking	PRIV PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	JJ
+gap	 	
+word	consequences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	actions	NOMZ
+gap	. 	
+word	Nature	NN CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	bigger	JJ PRED CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	, 	
+word	so	RB
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	start	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	vision	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	living	NN
+gap	, 	
+word	thinking	PRIV PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	future	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	maintenance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	species	NN
+gap	.\n\n	

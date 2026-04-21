@@ -1,1318 +1,2291 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2477.1195.txt
-token	tags
-    	
-Until	PIN CAP PREP
-the	ART DET
-mid	JJ
--	JJ
-twentieth	JJ
-century	NN
-,	
-medicine	NN
-was	PASS VBD AUXB
-concerned	
-with	PIN PREP
-health	NN
-and	PHC CCONJ
-disease	NN
-,	
-either	CCONJ
-from	PIN PREP
-the	ART DET
-individual	NN
-or	CCONJ
-from	PIN PREP
-the	ART DET
-population	NOMZ
-,	
-after	PIN PREP
-the	ART DET
-understanding	GER PRIV
-of	PIN PREP
-life	NN
-was	PASS VBD AUXB
-anatomized	
-,	
-with	PIN PREP
-the	ART DET
-insertion	NOMZ
-of	PIN PREP
-new	JJ
-technologies	NN
-at	PIN PREP
-a	ART DET INDA
-molecular	JJ
-level	NN
-,	
-leading	PGAS
-to	PIN PREP
-a	ART DET INDA
-reformulation	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-medical	JJ
-field	NN
-,	
-which	SERE WHQU DET WH
-are	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-the	ART DET
-ability	NOMZ
-to	PIN TO PREP
-control	INF
-,	
-administer	NN
-and	CCONJ
-reshape	INF
-the	ART DET
-vital	JJ
-capacities	NN
-of	PIN PREP
-the	ART DET
-human	JJ
-being	NN
-.	
- 	
-The	ART CAP DET
-present	JJ
-research	NN
-seeks	VPRT
-to	PIN TO PREP
-investigate	INF
-how	RB SCONJ WH
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-new	JJ
-technoscientific	JJ
-context	NN
-,	
-we	FPP1 PRP SBJP
-could	POMD
-define	INF
-the	ART DET
-concept	NN
-of	PIN PREP
-life	NN
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-problem	NN
-of	PIN PREP
-life	NN
-seems	VPRT SMP
-to	PIN TO PREP
-be	PASS AUXB INF
-placed	
-now	RB TIME
-in	PIN CONJ PREP
-a	ART DET INDA
-new	JJ
-perspective	NN
-:	
-that	DEMO DET
-of	PIN PREP
-inert	JJ
-matter	NN
-,	
-submitted	PASTP PUBV
-to	PIN PREP
-intervention	NOMZ
-and	PHC CCONJ
-manipulation	NOMZ
-,	
-leading	PGAS
-to	PIN PREP
-the	ART DET
-artificialization	NOMZ
-of	PIN PREP
-life	NN
-.	
-In	PIN CONJ CAP PREP
-thinking	PRIV PGAS
-about	PIN PREP
-the	ART DET
-problem	NN
-of	PIN PREP
-life	NN
-and	CCONJ
-its	PIT PRP SBJP
-new	JJ
-status	NN
-,	
-it	PIT PRP SBJP
-will	PRMD
-be	BEMA AUXB INF
-important	JJ PRED
-to	PIN TO PREP
-retake	INF
-current	JJ
-thinking	PRIV NN
-of	PIN PREP
-Georges	CAP NNP
-Canguilhem	CAP NNP
-who	WH
-thought	VBD PRIV
-about	PIN PREP
-the	ART DET
-epistemological	JJ
-status	NN
-of	PIN PREP
-the	ART DET
-concept	NN
-of	PIN PREP
-life	NN
-and	ANDC CCONJ
-these	DEMO DET
-impacts	NN
-on	PIN PREP
-clinical	JJ
-practice	NN
-.	
- 	
-Elias	CAP NNP
-Zehourni	CAP NNP
-(	
-2011	NUM
-)	
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-inaugural	JJ
-class	NN
-at	PIN PREP
-the	ART DET
-College	CAP NNP
-de	NNP
-France	CAP NNP
-,	
-chair	NN
-of	PIN PREP
-Technological	CAP NNP
-Innovation	CAP NNP
-,	
-explains	VPRT PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-state	PUBV NN
-of	PIN PREP
-the	ART DET
-art	NN
-of	PIN PREP
-biomedical	JJ
-science	NN
-leads	VPRT
-to	PIN PREP
-a	ART DET INDA
-reformulation	NOMZ
-of	PIN PREP
-the	ART DET
-old	JJ
-concept	NN
-of	PIN PREP
-medicine	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-practice	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-doctors	NN
-were	PASS VBD AUXB
-asked	SUAV
-only	DWNT RB
-when	RB SCONJ WH
-painful	JJ
-symptoms	NN
-appeared	VBD SMP
-or	CCONJ
-when	RB SCONJ WH
-the	ART DET
-patient	NN
-lost	VBD
-some	QUAN DET
-important	JJ
-function	NOMZ
-.	
-This	DEMO CAP DET
-medicine	NN
-is	PASS VPRT BYPA AUXB
-called	
-by	PIN PREP
-him	TPP3 PRP SBJP ACCU
-as	PIN CONJ STPR PREP
-"	QUOT
-"	QUOT
-reactive	NN
-"	QUOT
-"	QUOT
-and	ANDC CCONJ
-now	RB TIME
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-completely	AMP RB
-outdated	JJ
-about	PIN PREP
-chronic	JJ
-diseases	NN
-that	TSUB WHSUB WH
-become	VPRT
-apparent	JJ
-only	DWNT RB
-after	PIN PREP
-many	QUAN JJ
-years	NN
-of	PIN PREP
-silent	JJ
-evolution	NOMZ
-.	
-This	DEMO CAP DET
-field	NN
-of	PIN PREP
-medicine	NN
-founded	WZPAST
-on	PIN PREP
-the	ART DET
-advances	NN
-in	PIN CONJ PREP
-molecular	JJ
-biomedicine	NN
-is	PASS VPRT AUXB
-called	
-precision	NOMZ
-medicine	NN
-supported	WZPAST
-by	PIN PREP
-four	NUM
-pillars	NN
-:	
-predictive	JJ
-,	
-preventive	JJ
-,	
-personalized	JJ
-medicine	NN
-;	
-and	ANDC CCONJ
-participatory	JJ
-.	
-The	ART CAP DET
-central	JJ
-focus	NN
-of	PIN PREP
-what	WH
-has	VPRT PEAS SPAU
-now	RB TIME
-been	PASS AUXB
-coined	
-as	PIN CONJ PREP
-precision	NOMZ
-medicine	NN
-is	BEMA VPRT AUXB
-the	ART DET
-collection	NOMZ
-of	PIN PREP
-quantifiable	JJ
-data	NN
-from	PIN PREP
-individuals	NN
-:	
-their	TPP3 PRP SBJP
-genetic	JJ
-predispositions	NOMZ
-,	
-lifestyle	NN
-,	
-diet	NN
-and	CCONJ
-clinical	JJ
-data	NN
-which	WHSUB DET WH
-should	NEMD
-constitute	INF
-personal	JJ
-profile	NN
-maps	NN
-.	
-The	ART CAP DET
-data	NN
-,	
-as	PIN CONJ PREP
-warned	PUBV
-by	PIN PREP
-Iriart	CAP NNP
-(	
-2019	NUM
-)	
-,	
-are	BEMA VPRT AUXB
-not	XX0 RB
-qualitative	JJ
-data	NN
-that	TSUB WHSUB WH
-incorporate	VPRT
-the	ART DET
-individual	NN
-'s	
-history	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-lived	
-health	NN
--	
-disease	NN
-context	NN
-,	
-but	CCONJ
-structured	
-,	
-digitized	
-,	
-quantified	JJ
-and	PHC CCONJ
-computerized	JJ
-data	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-precision	NOMZ
-medicine	NN
-focuses	VPRT
-precisely	RB
-on	PIN PREP
-the	ART DET
-ability	NOMZ
-to	PIN TO PREP
-develop	INF
-computational	JJ
-technologies	NN
-capable	JJ
-of	PIN PREP
-simultaneously	RB TIME
-examining	PGAS
-huge	JJ
-databases	NN
-.	
-The	ART CAP DET
-objective	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-provide	INF
-a	ART DET INDA
-virtual	JJ
-representation	NOMZ
-of	PIN PREP
-the	ART DET
-patient	NN
-and	CCONJ
-develop	INF
-predictive	JJ
-models	NN
-based	WZPAST
-on	PIN PREP
-known	PRIV
-interactions	NOMZ
-of	PIN PREP
-molecular	JJ
-,	
-environmental	JJ
-and	CCONJ
-lifestyle	NN
-data	NN
-,	
-which	SERE WHQU DET WH
-can	POMD SPAU
-then	RB
-determine	PRIV SUAV INF
-what	WHCL WH
-therapy	NN
-will	PRMD
-be	PASS AUXB INF
-chosen	
-within	PIN PREP
-a	ART DET INDA
-group	NN
-.	
- 	
-The	ART CAP DET
-molecularization	NOMZ
-of	PIN PREP
-life	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-process	NN
-that	TSUB WHSUB WH
-gained	VBD
-momentum	NN
-from	PIN PREP
-the	ART DET
-human	JJ
-genome	NN
-project	NN
-,	
-for	PIN PREP
-which	PIRE WHQU DET WH
-there	EX
-was	VBD AUXB
-a	ART DET INDA
-high	JJ
-expectation	NOMZ
-that	PIN TOBJ SCONJ PREP
-genes	NN
-had	VBD
-a	ART DET INDA
-high	JJ
-predictive	JJ
-character	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-result	NN
-was	BEMA VBD AUXB
-opposite	JJ PIN PRED PREP
-and	CCONJ
-revealed	VBD PRIV
-that	PIN THVC SCONJ PREP
-genes	NN
-alone	RB
-do	VPRT SPAU
-not	XX0 RB
-predict	PUBV INF
-disease	NN
-development	NOMZ
-.	
-Scientists	NN CAP
-discovered	VBD PRIV
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-process	NN
-would	PRMD
-be	AUXB INF
-much	QUAN RB
-more	RB EMPH CMADJ
-complex	JJ
-,	
-involving	PRESP PGAS
-the	ART DET
-interaction	NOMZ
-of	PIN PREP
-genes	NN
-(	
-at	PIN PREP
-different	JJ
-molecular	JJ
-levels	NN
-:	
-transcriptomics	NN
-,	
-proteomics	NN
-,	
-epigenetics	NN
-and	PHC CCONJ
-metabolomics	NN
-)	
-with	PIN PREP
-environmental	JJ
-factors	NN
-and	PHC CCONJ
-lifestyle	NN
-.	
-Therefore	RB CONJ CAP
-,	
-precision	NOMZ
-medicine	NN
-seeks	VPRT
-to	PIN TO PREP
-cross	INF
--	NN
-reference	NN
-all	QUAN DET
-these	DEMO DET
-data	NN
-(	
-genomic	JJ
-,	
-environmental	JJ
-and	CCONJ
-lifestyle	NN
-)	
-to	PIN TO PREP
-identify	INF
-biomarkers	NN
-that	TSUB WHSUB WH
-can	POMD
-predict	PUBV INF
-if	COND PIN SCONJ PREP
-someone	QUPR INPR
-are	BEMA VPRT AUXB
-susceptible	JJ PRED
-or	CCONJ
-not	XX0 RB
-to	PIN PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-a	ART DET INDA
-disease	NN
-.	
-So	RB CAP
-,	
-the	ART DET
-focus	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-on	PIN PREP
-the	ART DET
-cause	NN
-of	PIN PREP
-disease	NN
-.	
- 	
-What	CAP WH
-this	DEMO DET
-essays	NN
-are	BEMA VPRT AUXB
-interested	JJ PRED
-in	PIN CONJ PREP
-highlighting	GER PGAS
-is	BEMA VPRT AUXB
-that	PIN DEMP SCONJ PREP
-when	RB SCONJ WH
-it	PIT PRP SBJP
-comes	VPRT
-to	PIN PREP
-multifactorial	JJ
-diseases	NN
-,	
-chronic	JJ
-diseases	NN
-,	
-the	ART DET
-complexity	NOMZ
-of	PIN PREP
-the	ART DET
-genomic	NN
-relationship	NN
-,	
-environment	NOMZ
-and	PHC CCONJ
-lifestyle	NN
-is	BEMA VPRT AUXB
-crucial	JJ PRED
-in	PIN CONJ PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-these	DEMO DET
-diseases	NN
-.	
-However	RB CONJ CAP
-,	
-at	PIN PREP
-the	ART DET
-same	JJ
-time	NN
-this	DEMO DET
-combination	NOMZ
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-grasp	INF
-by	PIN PREP
-algorithms	NN
-,	
-since	OSUB PIN SCONJ PREP
-parts	NN
-of	PIN PREP
-molecular	JJ
-interactions	NOMZ
-are	PASS VPRT AUXB
-transformed	
-and	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-operate	INF
-by	PIN PREP
-biological	JJ
-determinism	NN
-and	CCONJ
-are	BEMA VPRT AUXB
-dependent	JJ PRED
-on	PIN PREP
-a	ART DET INDA
-number	NN
-of	PIN PREP
-factors	NN
-,	
-including	PRESP PGAS
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-develop	VPRT
-in	PIN CONJ PREP
-the	ART DET
-timeline	NN
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-this	DEMO DET
-sense	PRIV NN
-are	BEMA VPRT AUXB
-dynamic	JJ PRED
-and	CCONJ
-not	XX0 RB
-static	JJ
-.	
-Finally	RB CAP
-,	
-the	ART DET
-enormous	JJ
-complexity	NOMZ
-of	PIN PREP
-the	ART DET
-pathological	JJ
-process	NN
-of	PIN PREP
-common	JJ
-noncommunicable	JJ
-diseases	NN
-is	PASS VPRT BYPA AUXB
-caused	
-by	PIN PREP
-a	ART DET INDA
-complex	JJ
-interplay	NN
-of	PIN PREP
-multiple	JJ
-genes	NN
-with	PIN PREP
-environmental	JJ
-factors	NN
-,	
-which	SERE DET WH
-really	RB EMPH
-stands	VPRT
-as	PIN CONJ PREP
-a	ART DET INDA
-major	JJ
-challenge	NN
-for	PIN PREP
-precision	NOMZ
-medicine	NN
-.	
-For	PIN CAP PREP
-Duffy	CAP NNP
-(	
-2016	NUM
-)	
-precision	NOMZ
-medicine	NN
-still	RB
-has	VPRT
-little	JJ
-to	PIN TO PREP
-offer	INF
-in	PIN CONJ PREP
-relation	NOMZ
-to	PIN PREP
-these	DEMO DET
-complex	JJ
-and	PHC CCONJ
-multifactorial	JJ
-diseases	NN
-,	
-having	PEAS PRESP PGAS
-already	RB
-had	
-some	QUAN DET
-success	NN
-in	PIN CONJ PREP
-the	ART DET
-field	NN
-of	PIN PREP
-oncology	NN
-.	
- 	
-To	PIN TO CAP PREP
-help	INF
-us	FPP1 PRP SBJP ACCU
-problematize	INF
-this	DEMO DET
-issue	NN
-,	
-we	FPP1 PRP SBJP
-will	PRMD
-follow	INF
-the	ART DET
-clues	NN
-given	WZPAST
-by	PIN PREP
-Canguilhem	CAP NNP
-in	PIN CONJ PREP
-which	PIRE DET WH
-he	TPP3 PRP SBJP
-will	PRMD
-reject	INF
-the	ART DET
-idea	NN
-of	PIN PREP
-a	ART DET INDA
-programmed	
-telos	NN
-for	PIN PREP
-life	NN
-.	
-Rabinow	CAP NNP
-(	
-1999	NUM
-)	
-evaluates	VPRT
-that	PIN DEMO SCONJ PREP
-the	ART DET
-telos	NN
-of	PIN PREP
-life	NN
-proposed	SUAV WZPAST
-within	PIN PREP
-precision	NOMZ
-medicine	NN
-perspective	NN
-has	VPRT
-an	ART DET INDA
-ethological	JJ
-character	NN
-,	
-treating	PRESP PGAS
-the	ART DET
-human	NN
-being	BEMA NN
-from	PIN PREP
-a	ART DET INDA
-determinism	NN
-given	WZPAST
-by	PIN PREP
-the	ART DET
-genetic	JJ
-code	NN
-and	CCONJ
-,	
-in	PIN CONJ PREP
-addition	NOMZ
-,	
-by	PIN PREP
-the	ART DET
-statistical	JJ
-probabilities	NN
-.	
-Canguilhem	CAP NNP
-will	PRMD
-question	INF
-this	DEMO DET
-determinism	NN
-by	PIN PREP
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-life	NN
-has	VPRT
-as	PIN CONJ PREP
-its	PIT PRP SBJP
-fundamental	JJ
-condition	NOMZ
-its	PIT PRP SBJP
-capacity	NOMZ
-for	PIN PREP
-invention	NOMZ
-,	
-otherwise	RB CONJ
-how	RB WHQU SCONJ WH
-could	POMD
-we	FPP1 PRP SBJP
-explain	PUBV INF
-error	NN
-?	QUES
-For	PIN CAP PREP
-error	NN
-,	
-understood	VBD PRIV
-today	TIME NN
-as	PIN CONJ PREP
-a	ART DET INDA
-genetic	JJ
-error	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-of	PIN PREP
-information	NOMZ
-,	
-is	VPRT AUXB
-generally	RB
-,	
-for	PIN PREP
-Canguilhem	CAP NNP
-,	
-a	ART DET INDA
-maladaptation	NOMZ
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-and	CCONJ
-not	XX0 RB
-an	ART DET INDA
-abnormality	NOMZ
-that	TSUB WHSUB WH
-was	PASS VBD SPAU AUXB
-already	RB
-inscribed	
-to	PIN TO PREP
-develop	INF
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-this	DEMO DET
-sense	PRIV NN
-that	PIN TOBJ THVC SCONJ PREP
-his	TPP3 PRP SBJP
-whole	JJ
-thesis	NN
-of	PIN PREP
-medicine	NN
-Essais	CAP NNP
-concernent	NN
-le	NN
-normal	NNP
-et	NNP
-le	X
-pathologique	NNP
-of	PIN PREP
-1943	NUM
-develops	VPRT
-to	PIN TO PREP
-show	PRIV INF
-how	RB WHCL SCONJ WH
-the	ART DET
-relationship	NN
-between	PIN PREP
-the	ART DET
-normal	JJ
-and	CCONJ
-the	ART DET
-pathological	JJ
-can	POMD SPAU
-not	XX0 RB
-be	PASS SPAU AUXB INF
-previously	RB TIME
-given	
-without	PIN PREP
-considering	GER PRIV PGAS
-the	ART DET
-relationship	NN
-of	PIN PREP
-life	NN
-with	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-And	ANDC CAP CCONJ
-so	RB
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-this	DEMO DET
-sense	PRIV NN
-that	PIN TOBJ THVC SCONJ PREP
-the	ART DET
-normal	JJ
-is	BEMA VPRT AUXB
-always	RB
-a	ART DET INDA
-situated	JJ
-action	NOMZ
-and	CCONJ
-not	XX0 RB
-a	ART DET INDA
-condition	NOMZ
-of	PIN PREP
-life	NN
-itself	PIT PRP SBJP ACCU
-,	
-for	PIN PREP
-life	NN
-institutes	NN
-norms	NN
-in	PIN CONJ PREP
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-adapt	INF
-and	PHC CCONJ
-preserve	INF
-itself	PIT PRP SBJP ACCU
-constantly	RB
-and	PHC CCONJ
-dynamically	RB
-.	
- 	
-Life	NN CAP
-understood	VBD PRIV
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-demonstrates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-conceivable	JJ PRED
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-generality	NOMZ
-,	
-but	CCONJ
-always	RB
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-individual	JJ
-character	NN
-.	
-For	PIN CAP PREP
-Canguilhem	CAP NNP
-,	
-life	NN
-is	PASS VPRT AUXB
-configured	
-as	PIN CONJ PREP
-a	ART DET INDA
-technique	NN
-,	
-insofar	OSUB RB
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-autopoietic	JJ
-activity	NOMZ
-.	
-Concept	NN CAP
-based	WZPAST
-on	PIN PREP
-the	ART DET
- 	
-reading	NN
-of	PIN PREP
-the	ART DET
-neurologist	NN
-Kurt	CAP NNP
-Goldstein	CAP NNP
-whodefines	NN
-living	WZPRES PGAS
-organism	NN
-as	PIN CONJ PREP
-the	ART DET
-one	NN
-that	DEMP WHOBJ WH
-(	
-Goldstein	CAP NNP
-apud	JJ
-Canguilhem	CAP NNP
-,	
-2009	NUM
-,	
-p.	NN
-29	NUM
-)	
-.	
-Marie	CAP NNP
-Gaille	CAP NNP
-(	
-2018	NUM
-)	
-affirms	VPRT PUBV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-understand	PRIV INF
-here	RB
-that	PIN DEMO SCONJ PREP
-Goldstein	CAP NNP
-'s	
-formulation	NOMZ
-does	VPRT SPAU
-not	XX0 RB
-refer	INF
-to	PIN PREP
-the	ART DET
-"	QUOT
-"	QUOT
-environment	NOMZ
-"	QUOT
-"	QUOT
-as	PIN CONJ PREP
-a	ART DET INDA
-general	JJ
-environment	NOMZ
-common	JJ
-to	PIN PREP
-all	QUAN DET
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-environment	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-sculpted	
-from	PIN PREP
-the	ART DET
-being	BEMA NN
-of	PIN PREP
-the	ART DET
-organism	NN
-with	PIN PREP
-the	ART DET
-world	NN
-.	
-Gaille	CAP NNP
-(	
-2018	NUM
-)	
-shows	VPRT PRIV
-us	FPP1 PRP SBJP ACCU
-how	RB SCONJ WH
-Canguilhem	CAP NNP
-insists	VPRT PUBV SUAV
-on	PIN PREP
-this	DEMO DET
-individual	JJ
-dimension	NOMZ
-of	PIN PREP
-the	ART DET
-dynamics	NN
-that	TSUB WHSUB WH
-make	VPRT
-up	PIN PREP
-the	ART DET
-organism	NN
-/	
-world	NN
-relationship	NN
-.	
- 	
-Canguilhem	CAP NNP
-understands	VPRT PRIV
-life	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-dynamic	JJ
-process	NN
-.	
-Therefore	RB CONJ CAP
-,	
-the	ART DET
-concept	NN
-of	PIN PREP
-what	WH
-would	PRMD
-be	BEMA AUXB INF
-normal	JJ PRED
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-to	PIN TO PREP
-affirm	PUBV INF
-objectively	RB
-,	
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-depends	VPRT
-on	PIN PREP
-the	ART DET
-relationship	NN
-that	TOBJ WHOBJ WH
-the	ART DET
-patient	NN
-himself	TPP3 PRP SBJP ACCU
-establishes	VPRT PRIV
-with	PIN PREP
-the	ART DET
-disease	NN
-and	CCONJ
-on	PIN PREP
-the	ART DET
-normative	JJ
-capacity	NOMZ
-of	PIN PREP
-life	NN
-itself	PIT PRP SBJP ACCU
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-interactions	NOMZ
-with	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-The	ART CAP DET
-attempt	NN
-to	PIN TO SPIN PREP
-biologically	RB
-objectify	INF
-what	WH
-,	
-for	PIN PREP
-Canguilhem	CAP NNP
-,	
-is	PASS VPRT BYPA AUXB
-defined	
-by	PIN PREP
-indeterminacy	NN
-,	
-still	RB
-seems	VPRT SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-the	ART DET
-objective	NN
-of	PIN PREP
-medicine	NN
-in	PIN CONJ PREP
-contemporary	JJ
-times	NN
-averse	JJ
-to	PIN PREP
-the	ART DET
-uncertainties	NN
-inherent	JJ
-in	PIN CONJ PREP
-the	ART DET
-notion	NOMZ
-of	PIN PREP
-life	NN
-.	
- 	
-Hence	RB CONJ CAP
-the	ART DET
-importance	NN
-,	
-according	PGAS
-to	PIN PREP
-Canguilhem	CAP NNP
-,	
-of	PIN PREP
-clinical	JJ
-experience	NN
-in	PIN CONJ PREP
-medicine	NN
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-this	DEMO DET
-practical	JJ
-knowledge	NN
-situated	WZPAST
-between	PIN PREP
-sensitive	JJ
-(	
-empirical	JJ
-)	
-knowledge	NN
-and	CCONJ
-theoretical	JJ
-knowledge	NN
-(	
-science	NN
-and	PHC CCONJ
-philosophy	NN
-)	
-,	
-converging	GER PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-.	
-In	PIN CONJ CAP PREP
-other	JJ
-words	NN
-,	
-as	PIN CONJ PREP
-stated	PUBV
-by	PIN PREP
-Durrive	CAP NNP
-(	
-2014	NUM
-)	
-,	
-the	ART DET
-epistemological	JJ
-challenge	NN
-posed	WZPAST
-by	PIN PREP
-Canguilhem	CAP NNP
-'s	
-work	NN
-lies	VPRT
-in	PIN CONJ PREP
-understanding	GER PRIV PGAS
-the	ART DET
-clinic	NN
-not	XX0 RB
-as	PIN CONJ PREP
-an	ART DET INDA
-obscure	JJ
-and	PHC CCONJ
-subjective	JJ
-empirical	JJ
-knowledge	NN
-,	
-but	CCONJ
-in	PIN CONJ PREP
-giving	PGAS
-visibility	NOMZ
-to	PIN PREP
-a	ART DET INDA
-sui	JJ
-generis	NN
-form	NN
-of	PIN PREP
-experience	NN
-concepts	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-configuring	GER PGAS
-an	ART DET INDA
-epistemological	JJ
-space	NN
-that	TSUB WHSUB WH
-forces	VPRT
-the	ART DET
-objective	JJ
-knowledge	NN
-of	PIN PREP
-science	NN
-to	PIN TO PREP
-recognize	PRIV INF
-in	PIN CONJ PREP
-experience	NN
-a	ART DET INDA
-way	NN
-of	PIN PREP
-knowing	PRIV PGAS
-with	PIN PREP
-which	PIRE DET WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-dialogue	INF
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2477.1195>\n\n<FIRST DRAFT ESSAY\nIFA III \nAutor: XXX\nTitle: Biotechnology and medicine: philosophical aspects of contemporary scientific rationality>\n\n	
+word	Until	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mid	JJ
+gap	-	
+word	twentieth	JJ
+gap	 	
+word	century	NN
+gap	, 	
+word	medicine	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	health	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	disease	NN
+gap	, 	
+word	either	CCONJ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	, 	
+word	after	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	anatomized	
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	insertion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	technologies	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	molecular	JJ
+gap	 	
+word	level	NN
+gap	, 	
+word	leading	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reformulation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	medical	JJ
+gap	 	
+word	field	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	control	INF
+gap	, 	
+word	administer	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reshape	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	vital	JJ
+gap	 	
+word	capacities	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	being	NN
+gap	. \n	
+word	The	ART CAP DET
+gap	 	
+word	present	JJ
+gap	 	
+word	research	NN
+gap	 	
+word	seeks	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	investigate	INF
+gap	 	
+word	how	RB SCONJ WH
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	technoscientific	JJ
+gap	 	
+word	context	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	define	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	problem	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	placed	
+gap	 	
+word	now	RB TIME
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	perspective	NN
+gap	: 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	inert	JJ
+gap	 	
+word	matter	NN
+gap	, 	
+word	submitted	PASTP PUBV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	intervention	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	manipulation	NOMZ
+gap	, 	
+word	leading	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	artificialization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	thinking	PRIV PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	problem	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	new	JJ
+gap	 	
+word	status	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	retake	INF
+gap	 	
+word	current	JJ
+gap	 	
+word	thinking	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Georges	CAP NNP
+gap	 	
+word	Canguilhem	CAP NNP
+gap	 	
+word	who	WH
+gap	 	
+word	thought	VBD PRIV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	epistemological	JJ
+gap	 	
+word	status	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	impacts	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	clinical	JJ
+gap	 	
+word	practice	NN
+gap	. \n	
+word	Elias	CAP NNP
+gap	 	
+word	Zehourni	CAP NNP
+gap	 (2011) 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	inaugural	JJ
+gap	 	
+word	class	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	College	CAP NNP
+gap	 	
+word	de	NNP
+gap	 	
+word	France	CAP NNP
+gap	, 	
+word	chair	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Technological	CAP NNP
+gap	 	
+word	Innovation	CAP NNP
+gap	, 	
+word	explains	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	art	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	biomedical	JJ
+gap	 	
+word	science	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reformulation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	old	JJ
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	practice	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	doctors	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	asked	SUAV
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	painful	JJ
+gap	 	
+word	symptoms	NN
+gap	 	
+word	appeared	VBD SMP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	 	
+word	lost	VBD
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	important	JJ
+gap	 	
+word	function	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	medicine	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	called	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 ""	
+word	reactive	NN
+gap	"" 	
+word	and	ANDC CCONJ
+gap	 	
+word	now	RB TIME
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	outdated	JJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	chronic	JJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	become	VPRT
+gap	 	
+word	apparent	JJ
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	years	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	silent	JJ
+gap	 	
+word	evolution	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	field	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	founded	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	advances	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	molecular	JJ
+gap	 	
+word	biomedicine	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	called	
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	 	
+word	supported	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	four	NUM
+gap	 	
+word	pillars	NN
+gap	: 	
+word	predictive	JJ
+gap	, 	
+word	preventive	JJ
+gap	, 	
+word	personalized	JJ
+gap	 	
+word	medicine	NN
+gap	; 	
+word	and	ANDC CCONJ
+gap	 	
+word	participatory	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	central	JJ
+gap	 	
+word	focus	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	now	RB TIME
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	coined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	collection	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	quantifiable	JJ
+gap	 	
+word	data	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	individuals	NN
+gap	: 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	genetic	JJ
+gap	 	
+word	predispositions	NOMZ
+gap	, 	
+word	lifestyle	NN
+gap	, 	
+word	diet	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	clinical	JJ
+gap	 	
+word	data	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	should	NEMD
+gap	 	
+word	constitute	INF
+gap	 	
+word	personal	JJ
+gap	 	
+word	profile	NN
+gap	 	
+word	maps	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	data	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	warned	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Iriart	CAP NNP
+gap	 (2019), 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	qualitative	JJ
+gap	 	
+word	data	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	incorporate	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	NN
+gap	'	
+word	s	
+gap	 	
+word	history	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	lived	
+gap	 	
+word	health	NN
+gap	-	
+word	disease	NN
+gap	 	
+word	context	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	structured	
+gap	, 	
+word	digitized	
+gap	, 	
+word	quantified	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	computerized	JJ
+gap	 	
+word	data	NN
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	 	
+word	focuses	VPRT
+gap	 	
+word	precisely	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	computational	JJ
+gap	 	
+word	technologies	NN
+gap	 	
+word	capable	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	simultaneously	RB TIME
+gap	 	
+word	examining	PGAS
+gap	 	
+word	huge	JJ
+gap	 	
+word	databases	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	objective	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	virtual	JJ
+gap	 	
+word	representation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	develop	INF
+gap	 	
+word	predictive	JJ
+gap	 	
+word	models	NN
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	known	PRIV
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	molecular	JJ
+gap	, 	
+word	environmental	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	lifestyle	NN
+gap	 	
+word	data	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	then	RB
+gap	 	
+word	determine	PRIV SUAV INF
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	therapy	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	chosen	
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	group	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	molecularization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	process	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	gained	VBD
+gap	 	
+word	momentum	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	genome	NN
+gap	 	
+word	project	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	which	PIRE WHQU DET WH
+gap	 	
+word	there	EX
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	expectation	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	genes	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	predictive	JJ
+gap	 	
+word	character	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	result	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	opposite	JJ PIN PRED PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	revealed	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	genes	NN
+gap	 	
+word	alone	RB
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	predict	PUBV INF
+gap	 	
+word	disease	NN
+gap	 	
+word	development	NOMZ
+gap	. 	
+word	Scientists	NN CAP
+gap	 	
+word	discovered	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	process	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	complex	JJ
+gap	, 	
+word	involving	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genes	NN
+gap	 (	
+word	at	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	molecular	JJ
+gap	 	
+word	levels	NN
+gap	: 	
+word	transcriptomics	NN
+gap	, 	
+word	proteomics	NN
+gap	, 	
+word	epigenetics	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	metabolomics	NN
+gap	) 	
+word	with	PIN PREP
+gap	 	
+word	environmental	JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	lifestyle	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	 	
+word	seeks	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	cross	INF
+gap	-	
+word	reference	NN
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	data	NN
+gap	 (	
+word	genomic	JJ
+gap	, 	
+word	environmental	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	lifestyle	NN
+gap	) 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	biomarkers	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	can	POMD
+gap	 	
+word	predict	PUBV INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	susceptible	JJ PRED
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	disease	NN
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	focus	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cause	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	disease	NN
+gap	. \n	
+word	What	CAP WH
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essays	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	interested	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	highlighting	GER PGAS
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	comes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	multifactorial	JJ
+gap	 	
+word	diseases	NN
+gap	, 	
+word	chronic	JJ
+gap	 	
+word	diseases	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	complexity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	genomic	NN
+gap	 	
+word	relationship	NN
+gap	, 	
+word	environment	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	lifestyle	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	crucial	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	diseases	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	grasp	INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	algorithms	NN
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	parts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	molecular	JJ
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	transformed	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	operate	INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	biological	JJ
+gap	 	
+word	determinism	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	dependent	JJ PRED
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	factors	NN
+gap	, 	
+word	including	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	develop	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	timeline	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	dynamic	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	static	JJ
+gap	. 	
+word	Finally	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	enormous	JJ
+gap	 	
+word	complexity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pathological	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	common	JJ
+gap	 	
+word	noncommunicable	JJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	caused	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	complex	JJ
+gap	 	
+word	interplay	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	multiple	JJ
+gap	 	
+word	genes	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	environmental	JJ
+gap	 	
+word	factors	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	stands	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	major	JJ
+gap	 	
+word	challenge	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	Duffy	CAP NNP
+gap	 (2016) 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	 	
+word	still	RB
+gap	 	
+word	has	VPRT
+gap	 	
+word	little	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	offer	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	complex	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	multifactorial	JJ
+gap	 	
+word	diseases	NN
+gap	, 	
+word	having	PEAS PRESP PGAS
+gap	 	
+word	already	RB
+gap	 	
+word	had	
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	success	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	field	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oncology	NN
+gap	.\n	
+word	To	PIN TO CAP PREP
+gap	 	
+word	help	INF
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	problematize	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	issue	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	follow	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	clues	NN
+gap	 	
+word	given	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Canguilhem	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	reject	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	programmed	
+gap	 	
+word	telos	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	life	NN
+gap	. 	
+word	Rabinow	CAP NNP
+gap	 (1999) 	
+word	evaluates	VPRT
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	telos	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	proposed	SUAV WZPAST
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	precision	NOMZ
+gap	 	
+word	medicine	NN
+gap	 	
+word	perspective	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	ethological	JJ
+gap	 	
+word	character	NN
+gap	, 	
+word	treating	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	NN
+gap	 	
+word	being	BEMA NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	determinism	NN
+gap	 	
+word	given	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	genetic	JJ
+gap	 	
+word	code	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	statistical	JJ
+gap	 	
+word	probabilities	NN
+gap	. 	
+word	Canguilhem	CAP NNP
+gap	 	
+word	will	PRMD
+gap	 	
+word	question	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	determinism	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	saying	PUBV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	life	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	condition	NOMZ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	invention	NOMZ
+gap	, 	
+word	otherwise	RB CONJ
+gap	 	
+word	how	RB WHQU SCONJ WH
+gap	 	
+word	could	POMD
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	error	NN
+gap	? 	
+word	For	PIN CAP PREP
+gap	 	
+word	error	NN
+gap	, 	
+word	understood	VBD PRIV
+gap	 	
+word	today	TIME NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	genetic	JJ
+gap	 	
+word	error	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	information	NOMZ
+gap	, 	
+word	is	VPRT AUXB
+gap	 	
+word	generally	RB
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	Canguilhem	CAP NNP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	maladaptation	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	abnormality	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	already	RB
+gap	 	
+word	inscribed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	whole	JJ
+gap	 	
+word	thesis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	Essais	CAP NNP
+gap	 	
+word	concernent	NN
+gap	 	
+word	le	NN
+gap	 	
+word	normal	NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	le	X
+gap	 	
+word	pathologique	NNP
+gap	 	
+word	of	PIN PREP
+gap	 1943 	
+word	develops	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	show	PRIV INF
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	relationship	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	normal	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	pathological	JJ
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	previously	
+gap	 	
+word	given	
+gap	 	
+word	without	
+gap	 	
+word	considering	
+gap	 	
+word	the	
+gap	 	
+word	relationship	
+gap	 	
+word	of	
+gap	 	
+word	life	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	. 	
+word	And	
+gap	 	
+word	so	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	sense	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	normal	
+gap	 	
+word	is	
+gap	 	
+word	always	
+gap	 	
+word	a	
+gap	 	
+word	situated	
+gap	 	
+word	action	
+gap	 	
+word	and	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	condition	
+gap	 	
+word	of	
+gap	 	
+word	life	
+gap	 	
+word	itself	
+gap	, 	
+word	for	
+gap	 	
+word	life	
+gap	 	
+word	institutes	
+gap	 	
+word	norms	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	adapt	
+gap	 	
+word	and	
+gap	 	
+word	preserve	
+gap	 	
+word	itself	
+gap	 	
+word	constantly	
+gap	 	
+word	and	
+gap	 	
+word	dynamically	
+gap	. \n	
+word	Life	
+gap	 	
+word	understood	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	 	
+word	demonstrates	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	conceivable	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	generality	
+gap	, 	
+word	but	
+gap	 	
+word	always	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	individual	
+gap	 	
+word	character	
+gap	. 	
+word	For	
+gap	 	
+word	Canguilhem	
+gap	, 	
+word	life	
+gap	 	
+word	is	
+gap	 	
+word	configured	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	technique	
+gap	, 	
+word	insofar	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	defined	
+gap	 	
+word	as	
+gap	 	
+word	autopoietic	
+gap	 	
+word	activity	
+gap	. 	
+word	Concept	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	  	
+word	reading	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	neurologist	
+gap	 	
+word	Kurt	
+gap	 	
+word	Goldstein	
+gap	 	
+word	whodefines	
+gap	 	
+word	living	
+gap	 	
+word	organism	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	one	
+gap	 	
+word	that	
+gap	 <deleted citation>(	
+word	Goldstein	
+gap	 	
+word	apud	
+gap	 	
+word	Canguilhem	
+gap	, 2009, 	
+word	p	
+gap	. 29). 	
+word	Marie	
+gap	 	
+word	Gaille	
+gap	 (2018) 	
+word	affirms	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	here	
+gap	 	
+word	that	
+gap	 	
+word	Goldstein	
+gap	'	
+word	s	
+gap	 	
+word	formulation	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	refer	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 ""	
+word	environment	
+gap	"" 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	general	
+gap	 	
+word	environment	
+gap	 	
+word	common	
+gap	 	
+word	to	
+gap	 	
+word	all	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	sculpted	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	being	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	organism	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	. 	
+word	Gaille	
+gap	 (2018) 	
+word	shows	
+gap	 	
+word	us	
+gap	 	
+word	how	
+gap	 	
+word	Canguilhem	
+gap	 	
+word	insists	
+gap	 	
+word	on	
+gap	 	
+word	this	
+gap	 	
+word	individual	
+gap	 	
+word	dimension	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	dynamics	
+gap	 	
+word	that	
+gap	 	
+word	make	
+gap	 	
+word	up	
+gap	 	
+word	the	
+gap	 	
+word	organism	
+gap	 / 	
+word	world	
+gap	 	
+word	relationship	
+gap	.\n	
+word	Canguilhem	
+gap	 	
+word	understands	
+gap	 	
+word	life	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	dynamic	
+gap	 	
+word	process	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	the	
+gap	 	
+word	concept	
+gap	 	
+word	of	
+gap	 	
+word	what	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	normal	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	 	
+word	to	
+gap	 	
+word	affirm	
+gap	 	
+word	objectively	
+gap	, 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	depends	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	relationship	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	patient	
+gap	 	
+word	himself	
+gap	 	
+word	establishes	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	disease	
+gap	 	
+word	and	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	normative	
+gap	 	
+word	capacity	
+gap	 	
+word	of	
+gap	 	
+word	life	
+gap	 	
+word	itself	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	interactions	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	. 	
+word	The	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	biologically	
+gap	 	
+word	objectify	
+gap	 	
+word	what	
+gap	, 	
+word	for	
+gap	 	
+word	Canguilhem	
+gap	, 	
+word	is	
+gap	 	
+word	defined	
+gap	 	
+word	by	
+gap	 	
+word	indeterminacy	
+gap	, 	
+word	still	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	objective	
+gap	 	
+word	of	
+gap	 	
+word	medicine	
+gap	 	
+word	in	
+gap	 	
+word	contemporary	
+gap	 	
+word	times	
+gap	 	
+word	averse	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	uncertainties	
+gap	 	
+word	inherent	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	notion	
+gap	 	
+word	of	
+gap	 	
+word	life	
+gap	.\n	
+word	Hence	
+gap	 	
+word	the	
+gap	 	
+word	importance	
+gap	, 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	Canguilhem	
+gap	, 	
+word	of	
+gap	 	
+word	clinical	
+gap	 	
+word	experience	
+gap	 	
+word	in	
+gap	 	
+word	medicine	
+gap	, 	
+word	since	
+gap	 	
+word	it	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	this	
+gap	 	
+word	practical	
+gap	 	
+word	knowledge	
+gap	 	
+word	situated	
+gap	 	
+word	between	
+gap	 	
+word	sensitive	
+gap	 (	
+word	empirical	
+gap	) 	
+word	knowledge	
+gap	 	
+word	and	
+gap	 	
+word	theoretical	
+gap	 	
+word	knowledge	
+gap	 (	
+word	science	
+gap	 	
+word	and	
+gap	 	
+word	philosophy	
+gap	), 	
+word	converging	
+gap	 	
+word	them	
+gap	. 	
+word	In	
+gap	 	
+word	other	
+gap	 	
+word	words	
+gap	, 	
+word	as	
+gap	 	
+word	stated	
+gap	 	
+word	by	
+gap	 	
+word	Durrive	
+gap	 (2014), 	
+word	the	
+gap	 	
+word	epistemological	
+gap	 	
+word	challenge	
+gap	 	
+word	posed	
+gap	 	
+word	by	
+gap	 	
+word	Canguilhem	
+gap	'	
+word	s	
+gap	 	
+word	work	
+gap	 	
+word	lies	
+gap	 	
+word	in	
+gap	 	
+word	understanding	
+gap	 	
+word	the	
+gap	 	
+word	clinic	
+gap	 	
+word	not	
+gap	 	
+word	as	
+gap	 	
+word	an	
+gap	 	
+word	obscure	
+gap	 	
+word	and	
+gap	 	
+word	subjective	
+gap	 	
+word	empirical	
+gap	 	
+word	knowledge	
+gap	, 	
+word	but	
+gap	 	
+word	in	
+gap	 	
+word	giving	
+gap	 	
+word	visibility	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	sui	
+gap	 	
+word	generis	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	experience	
+gap	 	
+word	concepts	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	matter	
+gap	 	
+word	of	
+gap	 	
+word	configuring	
+gap	 	
+word	an	
+gap	 	
+word	epistemological	
+gap	 	
+word	space	
+gap	 	
+word	that	
+gap	 	
+word	forces	
+gap	 	
+word	the	
+gap	 	
+word	objective	
+gap	 	
+word	knowledge	
+gap	 	
+word	of	
+gap	 	
+word	science	
+gap	 	
+word	to	
+gap	 	
+word	recognize	
+gap	 	
+word	in	
+gap	 	
+word	experience	
+gap	 	
+word	a	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	knowing	
+gap	 	
+word	with	
+gap	 	
+word	which	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	necessary	
+gap	 	
+word	to	
+gap	 	
+word	dialogue	
+gap	.\n	

@@ -1,696 +1,1115 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1822.1069.txt
-token	tags
-    	
-The	ART CAP DET
-technologies	NN
-involving	WZPRES PGAS
-membrane	NN
-separation	NOMZ
-process	NN
-have	VPRT PEAS
-been	PASS SPAU AUXB
-widely	RB
-studied	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-1970	NUM
-’s	NN
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-replace	INF
-conventional	JJ
-process	NN
-distillation	NOMZ
-,	
-filtration	NOMZ
-,	
-absorption	NOMZ
-,	
-and	ANDC CCONJ
-centrifugation	NOMZ
-,	
-for	PIN PREP
-instance	NN
-.	
-This	DEMO CAP DET
-process	NN
-can	POMD
-offer	INF
-several	QUAN JJ
-advantages	NN
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-energy	NN
-consumption	NOMZ
-,	
-specificity	NOMZ
-regarding	WZPRES PGAS
-of	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-product	NN
-,	
-and	ANDC CCONJ
-more	JJ EMPH CMADJ
-flexibility	NOMZ
-in	PIN CONJ PREP
-process	NN
-scale	NN
--	
-up	NN
-.	
-Some	QUAN CAP DET
-practical	JJ
-examples	NN
-using	WZPRES PGAS
-membranes	NN
-are	VPRT AUXB
-water	NN
-desalination	NOMZ
-and	CCONJ
-hemodialysis	JJ
-process	NN
-.	
-In	PIN CONJ CAP PREP
-both	DET
-cases	NN
-,	
-the	ART DET
-salt	NN
-and	PHC CCONJ
-minerals	NN
-in	PIN CONJ PREP
-water	NN
-and	PHC CCONJ
-blood	NN
-,	
-respectively	RB
-,	
-are	PASS VPRT AUXB
-removed	
-with	PIN PREP
-a	ART DET INDA
-membrane	NN
-.	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-explore	INF
-how	RB SCONJ WH
-the	ART DET
-membrane	NN
-separation	NOMZ
-process	NN
-works	VPRT
-,	
-focusing	PGAS
-on	PIN PREP
-ultrafiltration	NOMZ
-and	PHC CCONJ
-microfiltration	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-application	NOMZ
-of	PIN PREP
-this	DEMO DET
-technology	NN
-in	PIN CONJ PREP
-the	ART DET
-effluent	JJ
-treatment	NOMZ
-process	NN
-and	PHC CCONJ
-food	NN
-industries	NN
-.	
- 	
-The	ART CAP DET
-membrane	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-solid	JJ
-film	NN
-which	WHSUB DET WH
-operates	VPRT
-as	PIN CONJ PREP
-a	ART DET INDA
-selectivity	NOMZ
-barrier	NN
-allowing	WZPRES SUAV PGAS
-the	ART DET
-passage	NN
-of	PIN PREP
-certain	JJ
-components	NN
-,	
-according	PGAS
-to	PIN PREP
-their	TPP3 PRP SBJP
-size	NN
-,	
-while	OSUB PIN SCONJ PREP
-the	ART DET
-others	NN
-are	PASS VPRT AUXB
-blocked	
-(	
-MIERZWA	CAP NNP
-,	
-2005	NUM
-)	
-.	
-There	EX CAP
-is	VPRT AUXB
-a	ART DET INDA
-variety	NN
-of	PIN PREP
-membrane	NN
-classified	WZPAST
-from	PIN PREP
-their	TPP3 PRP SBJP
-pore	JJ CMADJ
-size	NN
-range	NN
-,	
-as	PIN CONJ PREP
-is	BEMA VPRT AUXB
-the	ART DET
-case	NN
-for	PIN PREP
-the	ART DET
-microfiltration	NOMZ
-membranes	NN
-which	WHSUB DET WH
-can	POMD
-filter	INF
-solutes	NN
-with	PIN PREP
-sizes	NN
-between	PIN PREP
-0.1	NUM
-to	PIN PREP
-10	NUM
-μm	NN
-and	CCONJ
-ultrafiltration	JJ
-membranes	NN
-among	PIN PREP
-10	NUM
-to	PIN PREP
-1000	NUM
-Å	NN CAP
-(	
-MULDER	CAP NNP
-,	
-1996	NUM
-)	
-.	
-By	PIN CAP PREP
-contrast	NN
-,	
-the	ART DET
-conventional	JJ
-filtration	NOMZ
-can	POMD SPAU
-only	DWNT RB
-remove	INF
-macroparticles	NN
-with	PIN PREP
-a	ART DET INDA
-size	NN
-between	PIN PREP
-10	NUM
-to	PIN PREP
-100	NUM
-μm	NN
-,	
-not	XX0 RB
-including	PGAS
-viruses	NN
-,	
-bacteria	NN
-,	
-metal	NN
-ions	NN
-,	
-and	ANDC CCONJ
-salts	NN
-,	
-for	PIN PREP
-example	NN
-(	
-BAKER	CAP NNP
-,	
-2004	NUM
-)	
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-those	DEMO DET
-characteristics	NN
-,	
-separation	NOMZ
-with	PIN PREP
-membrane	NN
-is	PASS VPRT AUXB
-utilized	
-in	PIN CONJ PREP
-several	QUAN JJ
-industrial	JJ
-processes	NN
-such	JJ
-as	PIN CONJ PREP
-food	NN
-industry	NN
-,	
-effluent	JJ
-treatment	NOMZ
-,	
-chemical	NN
-,	
-and	ANDC CCONJ
-biochemical	JJ
-processes	NN
-,	
-textile	NN
-,	
-etc	X
-(	
-MOREIRA	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2011	NUM
-)	
-.	
- 	
-The	ART CAP DET
-theme	NN
-“	
-water	NN
-scarcity	NOMZ
-”	
-is	PASS VPRT SPAU AUXB
-often	RB
-discussed	
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-seeking	WZPRES PGAS
-to	PIN TO PREP
-find	PRIV INF
-an	ART DET INDA
-efficient	JJ
-and	PHC CCONJ
-fast	JJ
-solution	NOMZ
-for	PIN PREP
-this	DEMO DET
-issue	NN
-.	
-The	ART CAP DET
-treatment	NOMZ
-of	PIN PREP
-effluents	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-great	JJ
-way	NN
-to	PIN TO PREP
-minimize	INF
-the	ART DET
-water	NN
-wastage	NN
-.	
-Sewage	NN CAP
-and	CCONJ
-industrial	JJ
-effluents	NN
-are	VPRT AUXB
-examples	NN
-of	PIN PREP
-waste	NN
-which	WHSUB DET WH
-can	POMD
-be	PASS AUXB INF
-used	
-when	RB SCONJ WH
-properly	RB
-treated	
-(	
-GIACOBBO	CAP NNP
-,	
-et	NNP
-al	NNP
-.	NNP
-,	
-2011	NUM
-)	
-.	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-membrane	NN
-is	BEMA VPRT AUXB
-capable	JJ PRED
-to	PIN TO PREP
-separate	INF
-substances	NN
-that	TOBJ WHOBJ WH
-conventional	JJ
-filter	NN
-can	POMD
-not	XX0 RB
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-substitute	JJ
-decantation	NOMZ
-process	NN
-,	
-the	ART DET
-result	NN
-of	PIN PREP
-microfiltration	NOMZ
-/	
-ultrafiltration	NOMZ
-of	PIN PREP
-this	DEMO DET
-waste	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-non	JJ
--	JJ
-potable	JJ
-water	NN
-(	
-SCHAEFER	CAP NNP
-,	
-2001	NUM
-)	
-.	
-This	DEMO CAP DET
-water	NN
-can	POMD SPAU
-normally	RB
-use	INF
-in	PIN CONJ PREP
-sanitary	JJ
-discharges	NN
-,	
-irrigation	NOMZ
-,	
-gardening	NN
-,	
-and	ANDC CCONJ
-street	NN
-cleaning	NN
-,	
-for	PIN PREP
-example	NN
-.	
-Therefore	RB CONJ CAP
-,	
-making	PGAS
-industries	NN
-and	PHC CCONJ
-government	NOMZ
-aware	JJ
-of	PIN PREP
-this	DEMO DET
-efficient	JJ
-process	NN
-may	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-major	JJ
-step	NN
-towards	PIN PREP
-reducing	PGAS
-the	ART DET
-use	NN
-of	PIN PREP
-clean	JJ
-water	NN
-.	
- 	
-Food	NN CAP
-industries	NN
-are	BEMA VPRT AUXB
-always	RB
-worried	JJ
-about	PIN PREP
-producing	PGAS
-foods	NN
-with	PIN PREP
-high	JJ
-nutritional	JJ
-and	PHC CCONJ
-sensory	JJ
-quality	NOMZ
-.	
-With	PIN CAP PREP
-this	DEMO DET
-in	PIN CONJ PREP
-mind	NN
-,	
-dairy	NN
-industries	NN
-are	VPRT AUXB
-using	PGAS
-ultrafiltration	NOMZ
-to	PIN TO PREP
-increase	INF
-the	ART DET
-percentage	NN
-of	PIN PREP
-proteins	NN
-in	PIN CONJ PREP
-milk	NN
-(	
-RENNER	CAP NNP
-,	
-E.	CAP NNP
-and	PHC CCONJ
-ABD	CAP NNP
-EL	CAP NNP
-SALAM	CAP NNP
-,	
-M.H.	CAP NNP
-,	
-1991	NUM
-)	
-.	
-This	DEMO CAP DET
-process	NN
-permits	VPRT
-to	PIN TO PREP
-highlight	INF
-the	ART DET
-flavor	NN
-and	PHC CCONJ
-tasting	NN
-of	PIN PREP
-milk	NN
-protein	NN
-naturally	RB
-(	
-MODLER	CAP NNP
-,	
-2000	NUM
-)	
-.	
-Another	CAP DET
-process	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT SPAU AUXB
-frequently	RB
-used	
-in	PIN CONJ PREP
-juice	NN
-industries	NN
-,	
-is	BEMA VPRT AUXB
-the	ART DET
-pasteurization	NOMZ
-(	
-inhibition	NOMZ
-of	PIN PREP
-enzymatic	JJ
-reactions	NOMZ
-)	
-.	
-Nevertheless	RB CONJ CAP
-,	
-this	DEMO DET
-process	NN
-causes	VPRT
-the	ART DET
-loss	NN
-of	PIN PREP
-12	NUM
-%	NN
-of	PIN PREP
-vitamin	NN
-C	NN CAP
-in	PIN CONJ PREP
-the	ART DET
-acerola	NN
-juice	NN
-(	
-MERCALI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2012	NUM
-)	
-.	
-Having	CAP PGAS
-say	PUBV THATD INF
-that	DEMP DET
-,	
-the	ART DET
-ultrafiltration	NOMZ
-becomes	VPRT
-a	ART DET INDA
-good	JJ
-alternative	NN
-to	PIN TO PREP
-produce	INF
-clarified	JJ
-juice	NN
-,	
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-preserves	VPRT
-the	ART DET
-nutritional	JJ
-proprieties	NN
-and	PHC CCONJ
-flavor	NN
-,	
-besides	PIN SCONJ PREP
-decreasing	GER PGAS
-the	ART DET
-degradative	JJ
-reactions	NOMZ
-of	PIN PREP
-the	ART DET
-fruit	NN
-enzymes	NN
-(	
-PETRUS	CAP NNP
-,	
-J.C.C.	CAP NNP
-,	
-1997	NUM
-)	
-.	
-So	RB CAP
-,	
-the	ART DET
-introduction	NOMZ
-of	PIN PREP
-this	DEMO DET
-technologies	NN
-represents	VPRT
-a	ART DET INDA
-gain	NN
-in	PIN CONJ PREP
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-the	ART DET
-final	JJ
-product	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-membrane	NN
-separation	NOMZ
-process	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-recent	JJ
-technology	NN
-present	JJ
-in	PIN CONJ PREP
-several	QUAN JJ
-productive	JJ
-sectors	NN
-,	
-inasmuch	OSUB RB
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-can	POMD
-produce	INF
-a	ART DET INDA
-final	JJ
-product	NN
-,	
-with	PIN PREP
-more	JJ EMPH CMADJ
-efficiency	NN
-and	PHC CCONJ
-quality	NOMZ
-.	
-Being	BEMA PRESP AUXB CAP
-a	ART DET INDA
-selective	JJ
-solid	JJ
-film	NN
-,	
-the	ART DET
-membrane	NN
-allows	VPRT SUAV
-to	PIN TO PREP
-produce	INF
-a	ART DET INDA
-non	JJ
--	JJ
-potable	JJ
-water	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-simple	JJ
-way	NN
-from	PIN PREP
-a	ART DET INDA
-wastewater	NN
-,	
-also	RB
-milk	NN
-and	PHC CCONJ
-juices	NN
-more	RB EMPH CMADJ
-naturally	RB
-preserving	GER PGAS
-their	TPP3 PRP SBJP
-nutritional	JJ
-compounds	NN
-.	
-Technologies	NN CAP
-relate	VPRT
-to	PIN PREP
-membranes	NN
-are	PASS VPRT AUXB
-being	PASS AUXB
-discussed	
-and	PHC CCONJ
-applied	
-looking	PGAS
-for	PIN PREP
-a	ART DET INDA
-scenario	NN
-of	PIN PREP
-constant	JJ
-evolution	NOMZ
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1822.1069>\n\n<Membrane separation process: the promising technology>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	technologies	NN
+gap	 	
+word	involving	WZPRES PGAS
+gap	 	
+word	membrane	NN
+gap	 	
+word	separation	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	widely	RB
+gap	 	
+word	studied	
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 1970’	
+word	s	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	replace	INF
+gap	 	
+word	conventional	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	distillation	NOMZ
+gap	, 	
+word	filtration	NOMZ
+gap	, 	
+word	absorption	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	centrifugation	NOMZ
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	process	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	offer	INF
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	advantages	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	energy	NN
+gap	 	
+word	consumption	NOMZ
+gap	, 	
+word	specificity	NOMZ
+gap	 	
+word	regarding	WZPRES PGAS
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	product	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	flexibility	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	process	NN
+gap	 	
+word	scale	NN
+gap	-	
+word	up	NN
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	practical	JJ
+gap	 	
+word	examples	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	membranes	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	water	NN
+gap	 	
+word	desalination	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	hemodialysis	JJ
+gap	 	
+word	process	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	both	DET
+gap	 	
+word	cases	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	salt	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	minerals	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	water	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	blood	NN
+gap	, 	
+word	respectively	RB
+gap	, 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	removed	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	membrane	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	explore	INF
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	membrane	NN
+gap	 	
+word	separation	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	works	VPRT
+gap	, 	
+word	focusing	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	ultrafiltration	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	microfiltration	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	application	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	technology	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	effluent	JJ
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	food	NN
+gap	 	
+word	industries	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	membrane	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	solid	JJ
+gap	 	
+word	film	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	operates	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	selectivity	NOMZ
+gap	 	
+word	barrier	NN
+gap	 	
+word	allowing	WZPRES SUAV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	passage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	components	NN
+gap	, 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	size	NN
+gap	, 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	others	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	blocked	
+gap	 (	
+word	MIERZWA	CAP NNP
+gap	, 2005). 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	variety	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	membrane	NN
+gap	 	
+word	classified	WZPAST
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	pore	JJ CMADJ
+gap	 	
+word	size	NN
+gap	 	
+word	range	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	microfiltration	NOMZ
+gap	 	
+word	membranes	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	filter	INF
+gap	 	
+word	solutes	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	sizes	NN
+gap	 	
+word	between	PIN PREP
+gap	 0.1 	
+word	to	PIN PREP
+gap	 10 μ	
+word	m	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	ultrafiltration	JJ
+gap	 	
+word	membranes	NN
+gap	 	
+word	among	PIN PREP
+gap	 10 	
+word	to	PIN PREP
+gap	 1000 	
+word	Å	
+gap	 (	
+word	MULDER	CAP NNP
+gap	, 1996). 	
+word	By	PIN CAP PREP
+gap	 	
+word	contrast	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	conventional	JJ
+gap	 	
+word	filtration	NOMZ
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	remove	INF
+gap	 	
+word	macroparticles	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	size	NN
+gap	 	
+word	between	PIN PREP
+gap	 10 	
+word	to	PIN PREP
+gap	 100 μ	
+word	m	NN
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	including	PGAS
+gap	 	
+word	viruses	NN
+gap	, 	
+word	bacteria	NN
+gap	, 	
+word	metal	NN
+gap	 	
+word	ions	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	salts	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	 (	
+word	BAKER	CAP NNP
+gap	, 2004). 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	characteristics	NN
+gap	, 	
+word	separation	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	membrane	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	utilized	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	industrial	JJ
+gap	 	
+word	processes	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	food	NN
+gap	 	
+word	industry	NN
+gap	, 	
+word	effluent	JJ
+gap	 	
+word	treatment	NOMZ
+gap	, 	
+word	chemical	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	biochemical	JJ
+gap	 	
+word	processes	NN
+gap	, 	
+word	textile	NN
+gap	, 	
+word	etc	X
+gap	 (	
+word	MOREIRA	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2011). \n	
+word	The	ART CAP DET
+gap	 	
+word	theme	NN
+gap	 “	
+word	water	NN
+gap	 	
+word	scarcity	NOMZ
+gap	” 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	often	RB
+gap	 	
+word	discussed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	seeking	WZPRES PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	efficient	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	fast	JJ
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	issue	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	effluents	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	minimize	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	water	NN
+gap	 	
+word	wastage	NN
+gap	. 	
+word	Sewage	NN CAP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	industrial	JJ
+gap	 	
+word	effluents	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	examples	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	waste	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	properly	RB
+gap	 	
+word	treated	
+gap	 (	
+word	GIACOBBO	CAP NNP
+gap	, 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2011). 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	membrane	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	separate	INF
+gap	 	
+word	substances	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	conventional	JJ
+gap	 	
+word	filter	NN
+gap	 	
+word	cannot	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	substitute	
+gap	 	
+word	decantation	
+gap	 	
+word	process	
+gap	, 	
+word	the	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	microfiltration	
+gap	/	
+word	ultrafiltration	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	waste	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	non	
+gap	-	
+word	potable	
+gap	 	
+word	water	
+gap	 (	
+word	SCHAEFER	
+gap	, 2001). 	
+word	This	
+gap	 	
+word	water	
+gap	 	
+word	can	
+gap	 	
+word	normally	
+gap	 	
+word	use	
+gap	 	
+word	in	
+gap	 	
+word	sanitary	
+gap	 	
+word	discharges	
+gap	, 	
+word	irrigation	
+gap	, 	
+word	gardening	
+gap	, 	
+word	and	
+gap	 	
+word	street	
+gap	 	
+word	cleaning	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	making	
+gap	 	
+word	industries	
+gap	 	
+word	and	
+gap	 	
+word	government	
+gap	 	
+word	aware	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	efficient	
+gap	 	
+word	process	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	major	
+gap	 	
+word	step	
+gap	 	
+word	towards	
+gap	 	
+word	reducing	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	clean	
+gap	 	
+word	water	
+gap	.\n	
+word	Food	
+gap	 	
+word	industries	
+gap	 	
+word	are	
+gap	 	
+word	always	
+gap	 	
+word	worried	
+gap	 	
+word	about	
+gap	 	
+word	producing	
+gap	 	
+word	foods	
+gap	 	
+word	with	
+gap	 	
+word	high	
+gap	 	
+word	nutritional	
+gap	 	
+word	and	
+gap	 	
+word	sensory	
+gap	 	
+word	quality	
+gap	. 	
+word	With	
+gap	 	
+word	this	
+gap	 	
+word	in	
+gap	 	
+word	mind	
+gap	, 	
+word	dairy	
+gap	 	
+word	industries	
+gap	 	
+word	are	
+gap	 	
+word	using	
+gap	 	
+word	ultrafiltration	
+gap	 	
+word	to	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	percentage	
+gap	 	
+word	of	
+gap	 	
+word	proteins	
+gap	 	
+word	in	
+gap	 	
+word	milk	
+gap	 (	
+word	RENNER	
+gap	, 	
+word	E	
+gap	. 	
+word	and	
+gap	 	
+word	ABD	
+gap	 	
+word	EL	
+gap	 	
+word	SALAM	
+gap	, 	
+word	M	
+gap	.	
+word	H	
+gap	., 1991). 	
+word	This	DEMO CAP DET
+gap	 	
+word	process	NN
+gap	 	
+word	permits	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	highlight	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	flavor	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	tasting	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	milk	NN
+gap	 	
+word	protein	NN
+gap	 	
+word	naturally	RB
+gap	 (	
+word	MODLER	CAP NNP
+gap	, 2000). 	
+word	Another	CAP DET
+gap	 	
+word	process	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	frequently	RB
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	juice	NN
+gap	 	
+word	industries	NN
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	pasteurization	NOMZ
+gap	 (	
+word	inhibition	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	enzymatic	JJ
+gap	 	
+word	reactions	NOMZ
+gap	). 	
+word	Nevertheless	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	process	NN
+gap	 	
+word	causes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	loss	NN
+gap	 	
+word	of	PIN PREP
+gap	 12% 	
+word	of	PIN PREP
+gap	 	
+word	vitamin	NN
+gap	 	
+word	C	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	acerola	NN
+gap	 	
+word	juice	NN
+gap	 (	
+word	MERCALI	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2012). 	
+word	Having	CAP PGAS
+gap	 	
+word	say	PUBV THATD INF
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	ultrafiltration	NOMZ
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	alternative	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	clarified	JJ
+gap	 	
+word	juice	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	preserves	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	nutritional	JJ
+gap	 	
+word	proprieties	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	flavor	NN
+gap	, 	
+word	besides	PIN SCONJ PREP
+gap	 	
+word	decreasing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	degradative	JJ
+gap	 	
+word	reactions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fruit	NN
+gap	 	
+word	enzymes	NN
+gap	 (	
+word	PETRUS	CAP NNP
+gap	, 	
+word	J	
+gap	.	
+word	C	
+gap	.	
+word	C	
+gap	., 1997). 	
+word	So	
+gap	, 	
+word	the	
+gap	 	
+word	introduction	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	technologies	
+gap	 	
+word	represents	
+gap	 	
+word	a	
+gap	 	
+word	gain	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	quality	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	final	
+gap	 	
+word	product	
+gap	.\n	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	membrane	
+gap	 	
+word	separation	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	recent	
+gap	 	
+word	technology	
+gap	 	
+word	present	
+gap	 	
+word	in	
+gap	 	
+word	several	
+gap	 	
+word	productive	
+gap	 	
+word	sectors	
+gap	, 	
+word	inasmuch	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	produce	
+gap	 	
+word	a	
+gap	 	
+word	final	
+gap	 	
+word	product	
+gap	, 	
+word	with	
+gap	 	
+word	more	
+gap	 	
+word	efficiency	
+gap	 	
+word	and	
+gap	 	
+word	quality	
+gap	. 	
+word	Being	
+gap	 	
+word	a	
+gap	 	
+word	selective	
+gap	 	
+word	solid	
+gap	 	
+word	film	
+gap	, 	
+word	the	
+gap	 	
+word	membrane	
+gap	 	
+word	allows	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	a	
+gap	 	
+word	non	
+gap	-	
+word	potable	
+gap	 	
+word	water	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	simple	
+gap	 	
+word	way	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	wastewater	
+gap	, 	
+word	also	
+gap	 	
+word	milk	
+gap	 	
+word	and	
+gap	 	
+word	juices	
+gap	 	
+word	more	
+gap	 	
+word	naturally	
+gap	 	
+word	preserving	
+gap	 	
+word	their	
+gap	 	
+word	nutritional	
+gap	 	
+word	compounds	
+gap	. 	
+word	Technologies	
+gap	 	
+word	relate	
+gap	 	
+word	to	
+gap	 	
+word	membranes	
+gap	 	
+word	are	
+gap	 	
+word	being	
+gap	 	
+word	discussed	
+gap	 	
+word	and	
+gap	 	
+word	applied	
+gap	 	
+word	looking	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	scenario	
+gap	 	
+word	of	
+gap	 	
+word	constant	
+gap	 	
+word	evolution	
+gap	.	

@@ -1,1370 +1,2420 @@
 # filename: SS_Law_Essay_1_0143c_tx.txt
-token	tags
-A	ART CAP DET INDA
-common	JJ
-replacement	NOMZ
-for	PIN PREP
-the	ART DET
-phrase	NN
-'	CONT QUOT
-vicarious	JJ
-liability	NOMZ
-'	CONT QUOT
-is	BEMA VPRT AUXB
-the	ART DET
-Latin	JJ CAP
-expression	NOMZ
-'	CONT QUOT
-respondeat	NN
-superior	JJ
-'	CONT QUOT
-.	
-This	DEMO CAP DET
-literally	RB
-means	VPRT PRIV
-,	
-'	CONT QUOT
-let	INF
-the	ART DET
-principle	JJ
-answer	INF
-'	CONT QUOT
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-very	AMP RB
-apt	JJ
-description	NOMZ
-of	PIN PREP
-the	ART DET
-English	JJ CAP
-law	NN
-relating	WZPRES PGAS
-to	PIN PREP
-tortuous	JJ
-vicarious	JJ
-liability	NOMZ
-.	
-Our	FPP1 CAP PRP SBJP
-common	JJ
-law	NN
-dictates	VPRT
-that	PIN DEMP SCONJ PREP
-when	RB SCONJ WH
-a	ART DET INDA
-tort	NN
-arises	VPRT
-inside	PIN PLACE PREP
-an	ART DET INDA
-employee	NN
-'s	
-'	CONT QUOT
-scope	NN
-of	PIN PREP
-employment	NOMZ
-'	CONT QUOT
-(	
-usually	RB
-described	
-as	PIN CONJ PREP
-the	ART DET
-normal	JJ
-tasks	NN
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-expected	PRIV
-to	PIN TO PREP
-carry	INF
-out	PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-course	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-job	NN
-)	
-,	
-the	ART DET
-employer	NN
-will	PRMD SPAU
-also	RB
-incur	INF
-liability	NOMZ
-for	PIN PREP
-his	TPP3 PRP SBJP
-employee	NN
-'s	
-actions	NOMZ
-and	CCONJ
-any	QUAN DET
-subsequent	JJ
-consequences	NN
-.	
-Of	RB PIN CAP PREP
-course	RB
-,	
-this	DEMO DET
-seemingly	RB
-harsh	JJ
-approach	NN
-requires	VPRT SUAV
-some	QUAN DET
-guidelines	NN
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-employers	NN
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-simply	RB
-used	
-as	PIN CONJ PREP
-a	ART DET INDA
-way	NN
-for	PIN PREP
-employees	NN
-to	PIN TO STPR PREP
-'	CONT QUOT
-pass	INF
-the	ART DET
-buck	NN
-'	CONT QUOT
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-were	VBD AUXB
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-questioned	
-point	NN
-of	PIN PREP
-fact	NN
-in	PIN CONJ PREP
-cases	NN
-of	PIN PREP
-vicarious	JJ
-liability	NOMZ
-is	BEMA VPRT AUXB
-whether	PIN SCONJ PREP
-the	ART DET
-employee	NN
-was	BEMA VBD AUXB
-actually	RB
-an	ART DET INDA
-employee	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-no	DET
-specifically	RB
-defined	
-test	NN
-to	PIN TO PREP
-establish	PRIV THATD INF
-this	DEMP DET
-,	
-but	CCONJ
-the	ART DET
-intention	NOMZ
-of	PIN PREP
-both	DET
-parties	NN
-,	
-the	ART DET
-degree	NN
-of	PIN PREP
-control	NN
-the	ART DET
-employer	NN
-has	VPRT
-over	PIN PREP
-his	TPP3 PRP SBJP
-employee	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-employee	NN
-'s	
-'	CONT QUOT
-integration	NOMZ
-'	CONT QUOT
-within	PIN PREP
-the	ART DET
-business	NOMZ
-are	BEMA VPRT AUXB
-among	PIN PREP
-the	ART DET
-factors	NN
-taken	WZPAST
-into	PIN PREP
-consideration	NOMZ
-by	PIN PREP
-the	ART DET
-courts	NN
-.	
-If	COND PIN CAP SCONJ PREP
-an	ART DET INDA
-employer	NN
--	
-employee	NN
-relationship	NN
-is	PASS VPRT AUXB
-found	PRIV
-,	
-then	RB
-vicarious	JJ
-liability	NOMZ
-is	PASS VPRT AUXB
-enabled	
-.	
-Stevenson	CAP NNP
-Jordan	CAP NNP
-&	CCONJ
-Harrison	CAP NNP
-Ltd.	CAP NNP
-v	PIN PREP
-MacDonald	CAP NNP
-&	CCONJ
-Evans	CAP NNP
-[	X
-1952	NUM
-]	X
-1	NUM
-TLR	NN CAP
-101	NUM
-,	
-per	PIN PREP
-Lord	CAP NNP
-Denning	NN CAP
-(	
-at	PIN PREP
-p.	NN
-111	NUM
-)	
-.	
-The	ART CAP DET
-main	JJ
-justification	NOMZ
-for	PIN PREP
-this	DEMO DET
-imposition	NOMZ
-of	PIN PREP
-liability	NOMZ
-(	
-seen	PASTP PRIV
-by	PIN PREP
-some	QUAN DET
-as	PIN CONJ PREP
-a	ART DET INDA
-form	NN
-of	PIN PREP
-strict	JJ
-liability	NOMZ
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-lack	NN
-of	PIN PREP
-examination	NOMZ
-of	PIN PREP
-the	ART DET
-ACTUAL	JJ CAP
-liability	NOMZ
-of	PIN PREP
-the	ART DET
-employer	NN
-)	
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-allows	VPRT SUAV
-all	QUAN DET
-victims	NN
-of	PIN PREP
-a	ART DET INDA
-tort	NN
-to	PIN TO PREP
-receive	INF
-the	ART DET
-compensation	NOMZ
-they	TPP3 PRP SBJP
-deserve	VPRT
-due	PIN PREP
-to	PIN PREP
-most	JJ EMPH SPADJ
-employers	NN
-being	BEMA WZPRES AUXB
-more	RB EMPH CMADJ
-affluent	JJ
-than	PIN PREP
-their	TPP3 PRP SBJP
-workers	NN
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-also	RB
-said	PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-principle	NN
-of	PIN PREP
-vicarious	JJ
-liability	NOMZ
-actually	RB
-allows	VPRT SUAV
-business	NOMZ
-to	PIN TO PREP
-operate	INF
-more	RB EMPH CMADJ
-freely	RB
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-validations	NOMZ
-of	PIN PREP
-this	DEMO DET
-argument	NOMZ
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-if	COND PIN SCONJ PREP
-an	ART DET INDA
-employer	NN
-knows	VPRT PRIV THATD
-that	PIN THVC SCONJ PREP
-whatever	DET WH
-his	TPP3 PRP SBJP
-employees	NN
-do	VPRT PROD
-he	TPP3 PRP SBJP
-can	POMD
-resolve	SUAV INF
-the	ART DET
-situation	NOMZ
-without	PIN PREP
-too	RB
-much	QUAN JJ
-of	PIN PREP
-a	ART DET INDA
-slur	NN
-on	PIN PREP
-his	TPP3 PRP SBJP
-company	NN
-'s	
-reputation	NOMZ
-,	
-then	RB
-he	TPP3 PRP SBJP
-will	PRMD SPAU
-probably	RB
-be	BEMA AUXB INF
-freer	JJ PRED CMADJ
-throughout	PIN PREP
-the	ART DET
-running	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-business	NOMZ
-.	
-It	PIT CAP PRP SBJP
-also	RB
-allows	VPRT SUAV
-employers	NN
-to	PIN TO PREP
-make	INF
-arrangements	NOMZ
-for	PIN PREP
-the	ART DET
-possibility	NOMZ
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-could	POMD
-be	PASS BYPA AUXB INF
-taken	
-to	PIN PREP
-court	NN
-by	PIN PREP
-either	CCONJ
-taking	PGAS
-out	PIN PREP
-insurance	NN
-or	CCONJ
-increasing	GER PGAS
-prices	NN
-to	PIN TO PREP
-allow	SUAV INF
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-have	INF
-the	ART DET
-necessary	JJ
-funds	NN
-to	PIN TO PREP
-finance	INF
-such	DET
-an	ART DET INDA
-action	NOMZ
-.	
-This	DEMO CAP DET
-consequently	RB CONJ
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-will	PRMD
-know	PRIV INF
-exactly	RB
-what	WH
-their	TPP3 PRP SBJP
-finances	NN
-will	PRMD
-be	PASS AUXB INF
-used	
-for	PIN STPR PREP
-,	
-and	ANDC CCONJ
-how	RB SCONJ WH
-much	QUAN JJ
-they	TPP3 PRP SBJP
-can	POMD
-afford	INF
-to	PIN TO PREP
-spend	INF
-on	PIN PREP
-other	JJ
-things	NN
-.	
-However	RB CONJ CAP
-,	
-many	QUAN JJ
-people	NN
-would	PRMD
-argue	PUBV INF
-quite	DET
-the	ART DET
-contrary	NN
-:	
-that	PIN THVC SCONJ PREP
-the	ART DET
-system	NN
-of	PIN PREP
-vicarious	JJ
-liability	NOMZ
-actually	RB
-makes	VPRT
-the	ART DET
-workings	NN
-of	PIN PREP
-a	ART DET INDA
-business	NOMZ
-less	RB CMADJ
-free	JJ
-.	
-For	PIN CAP PREP
-example	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-case	NN
-of	PIN PREP
-Century	CAP NNP
-Insurance	CAP NNP
-v	NN
-NIRTB	CAP NNP
-,	
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-held	PRIV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-worker	NN
-carelessly	RB
-throwing	PGAS
-a	ART DET INDA
-match	NN
-used	WZPAST
-for	PIN PREP
-lighting	PGAS
-a	ART DET INDA
-cigarette	NN
-was	VBD AUXB
-acting	PGAS
-within	PIN PREP
-his	TPP3 PRP SBJP
-course	NN
-of	PIN PREP
-employment	NOMZ
-.	
-Surely	RB CAP
-therefore	RB CONJ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-difficult	JJ
-for	PIN PREP
-employers	NN
-to	PIN TO PREP
-predict	PUBV INF
-what	WHCL WH
-they	TPP3 PRP SBJP
-will	PRMD
-and	CCONJ
-will	PRMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-liable	JJ PRED
-for	PIN STPR PREP
-,	
-and	ANDC CCONJ
-therefore	RB CONJ
-makes	VPRT
-their	TPP3 PRP SBJP
-finances	NN
-more	RB EMPH CMADJ
-unpredictable	JJ
-,	
-because	CAUS PIN SCONJ PREP
-claims	PUBV NN
-arising	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-torts	NN
-of	PIN PREP
-employees	NN
-may	POMD
-be	BEMA AUXB INF
-a	EMPH ART DET INDA
-lot	NN
-larger	JJ CMADJ
-than	PIN PREP
-predicted	PUBV
-.	
-Century	CAP NNP
-Insurance	CAP NNP
-Co.	CAP NNP
-Ltd.	CAP NNP
-v	PIN PREP
-Northern	CAP NNP
-Ireland	CAP NNP
-Road	CAP NNP
-Transport	CAP NNP
-Board	CAP NNP
-[	X
-1942	NUM
-]	
-AC	CAP NNP
-509	NUM
-Consequently	RB CONJ CAP
-,	
-many	QUAN JJ
-people	NN
-have	VPRT PEAS
-argued	PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-scope	NN
-of	PIN PREP
-vicarious	JJ
-liability	NOMZ
-is	VPRT AUXB
-far	RB PLACE
-too	RB
-wide	JJ
-,	
-and	ANDC CCONJ
-that	DEMP DET
-set	VBD
-guidelines	NN
-as	PIN CONJ PREP
-to	PIN PREP
-who	PIRE WH
-can	POMD
-be	PASS AUXB INF
-sued	
-for	PIN PREP
-what	WH
-should	NEMD
-be	PASS AUXB INF
-laid	
-out	PIN STPR PREP
-.	
-Others	NN CAP
-argue	VPRT PUBV
-that	PIN THVC SCONJ PREP
-any	QUAN DET
-tort	NN
-is	VPRT AUXB
-only	DWNT RB
-ever	RB
-the	ART DET
-fault	NN
-of	PIN PREP
-the	ART DET
-defendant	NN
-,	
-not	XX0 RB
-a	ART DET INDA
-third	JJ
-party	NN
-who	WHSUB WH
-was	VBD AUXB
-assuming	PRIV PGAS
-his	TPP3 PRP SBJP
-employee	NN
-was	VBD AUXB
-acting	PGAS
-correctly	RB
-.	
-This	DEMP CAP DET
-leads	VPRT
-to	PIN PREP
-the	ART DET
-question	NOMZ
-of	PIN PREP
-whether	PIN SCONJ PREP
-an	ART DET INDA
-employer	NN
-should	NEMD SPAU
-still	RB
-be	PASS AUXB INF
-sued	
-even	RB
-if	COND PIN SCONJ PREP
-the	ART DET
-employee	NN
-can	POMD
-not	XX0 RB
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-case	NN
-of	PIN PREP
-Broom	CAP NNP
-v	PIN PREP
-Morgan	CAP NNP
-,	
-a	ART DET INDA
-wife	NN
-was	PASS VBD BYPA AUXB
-injured	
-by	PIN PREP
-her	TPP3 PRP SBJP
-fellow	JJ
--	
-employees	NN
-actions	NOMZ
-.	
-Her	TPP3 CAP PRP SBJP
-fellow	JJ
-employee	NN
-was	BEMA VBD AUXB
-also	RB
-her	TPP3 PRP SBJP
-husband	NN
-,	
-and	ANDC CCONJ
-at	PIN PREP
-this	DEMO DET
-time	NN
-spouses	NN
-could	POMD SPAU
-not	XX0 RB
-sue	INF
-one	NN
-another	DET
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-was	PASS VBD BYPA AUXB
-deemed	PRIV
-by	PIN PREP
-the	ART DET
-courts	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-employer	NN
-of	PIN PREP
-the	ART DET
-couple	NN
-could	POMD SPAU
-still	RB
-be	PASS AUXB INF
-sued	
-,	
-and	ANDC CCONJ
-he	TPP3 PRP SBJP
-was	PASS VBD SPAU AUXB
-consequently	RB CONJ
-held	PRIV
-liable	JJ
-.	
-This	DEMP CAP DET
-caused	VBD
-great	JJ
-controversy	NN
-,	
-as	PIN CONJ PREP
-the	ART DET
-employer	NN
-in	PIN CONJ PREP
-this	DEMO DET
-case	NN
-took	VBD
-full	JJ
-liability	NOMZ
-for	PIN PREP
-the	ART DET
-tort	NN
-,	
-whereas	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-usual	JJ PRED
-that	PIN THAC SCONJ PREP
-the	ART DET
-defendant	NN
-retains	VPRT
-responsibility	NOMZ
-for	PIN PREP
-his	TPP3 PRP SBJP
-actions	NOMZ
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-liability	NOMZ
-being	PASS WZPRES AUXB
-imposed	
-upon	PIN SCONJ PREP
-his	TPP3 PRP SBJP
-employer	NN
-.	
-This	DEMO CAP DET
-consequently	RB CONJ
-brings	VPRT
-the	ART DET
-freedom	NN
-of	PIN PREP
-businesses	NOMZ
-into	PIN PREP
-question	NOMZ
--	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-business	NOMZ
-free	JJ
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-sued	
-for	PIN PREP
-things	NN
-even	RB
-the	ART DET
-defendant	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-liable	JJ
-for	PIN STPR PREP
-?	QUES
-Broom	CAP NNP
-v	PIN PREP
-Morgan	CAP NNP
-[	X
-1953	NUM
-]	
-1	NUM
-QB	CAP NNP
-597	NUM
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-victims	NN
-of	PIN PREP
-torts	NN
-deserve	VPRT
-compensation	NOMZ
-,	
-and	ANDC CCONJ
-if	COND PIN STPR SCONJ PREP
-,	
-as	PIN CONJ PREP
-is	BEMA VPRT AUXB
-usual	JJ PRED
-,	
-the	ART DET
-employer	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-a	ART DET INDA
-better	JJ CMADJ
-financial	JJ
-position	NOMZ
-to	PIN TO PREP
-provide	INF
-this	DEMP DET
-,	
-then	RB
-surely	RB
-they	TPP3 PRP SBJP
-should	NEMD
-.	
-After	RB CAP
-all	QUAN RB
-,	
-in	PIN CONJ PREP
-the	ART DET
-employment	NOMZ
-of	PIN PREP
-their	TPP3 PRP SBJP
-workers	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-direction	NOMZ
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-complete	INF
-certain	JJ
-activities	NN
-,	
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-taking	PGAS
-the	ART DET
-risk	NN
-that	PIN DEMO SCONJ PREP
-something	QUPR INPR
-will	PRMD
-go	INF
-awry	JJ
-.	
-They	TPP3 CAP PRP SBJP
-also	RB
-make	VPRT
-the	ART DET
-profit	NN
-from	PIN PREP
-their	TPP3 PRP SBJP
-employees	NN
-'	CONT QUOT
-actions	NOMZ
-,	
-so	RB
-surely	RB
-they	TPP3 PRP SBJP
-should	NEMD
-use	INF
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-profits	NN
-to	PIN TO PREP
-insure	PRIV INF
-against	PIN PREP
-actions	NOMZ
-resulting	WZPRES PGAS
-from	PIN PREP
-incidents	NN
-that	TSUB WHSUB WH
-occur	VPRT
-during	PIN PREP
-production	NOMZ
-.	
-As	PIN CONJ CAP PREP
-in	PIN CONJ PREP
-the	ART DET
-Broom	CAP NNP
-case	NN
-(	
-detailed	PASTP
-above	PIN PLACE STPR PREP
-)	
-,	
-surely	RB
-if	COND PIN SCONJ PREP
-the	ART DET
-victim	NN
-could	POMD SPAU
-not	XX0 RB
-claim	PUBV INF
-compensation	NOMZ
-from	PIN PREP
-the	ART DET
-person	NN
-who	WHSUB WH
-directly	RB
-caused	VBD
-the	ART DET
-accident	NN
-,	
-then	RB
-she	TPP3 PRP SBJP
-should	NEMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-claim	PUBV INF
-the	ART DET
-compensation	NOMZ
-she	TPP3 PRP SBJP
-is	PASS VPRT SPAU AUXB
-rightfully	RB
-owed	
-from	PIN PREP
-the	ART DET
-employer	NN
-.	
-This	DEMO CAP DET
-justification	NOMZ
-is	PASS VPRT BYPA SPAU AUXB
-also	RB
-reinforced	
-by	PIN PREP
-the	ART DET
-argument	NOMZ
-that	PIN DEMO SCONJ PREP
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-were	BEMA VBD AUXB
-not	XX0 RB
-for	PIN PREP
-the	ART DET
-employer	NN
-,	
-then	RB
-the	ART DET
-employee	NN
-would	PRMD SPAU
-not	XX0 RB
-have	PEAS INF
-been	AUXB
-carrying	PGAS
-out	PIN PREP
-his	TPP3 PRP SBJP
-duties	NN
-required	SUAV WZPAST
-of	PIN PREP
-him	TPP3 PRP SBJP ACCU
-.	
-Therefore	RB CONJ CAP
-,	
-through	PIN PREP
-a	ART DET INDA
-rather	RB
-complex	JJ
-chain	NN
-of	PIN PREP
-causation	NOMZ
-,	
-the	ART DET
-employer	NN
-is	BEMA VPRT AUXB
-ultimately	RB
-culpable	JJ
-.	
-Vicarious	JJ CAP
-liability	NOMZ
-encourages	VPRT
-employers	NN
-to	PIN TO PREP
-take	INF
-precautions	NOMZ
-against	PIN PREP
-one	NUM
-of	PIN PREP
-its	PIT PRP SBJP
-employees	NN
-committing	GER WZPRES PGAS
-a	ART DET INDA
-tort	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-they	TPP3 PRP SBJP
-may	POMD
-employ	INF
-more	RB EMPH CMADJ
-cautious	JJ
-recruitment	NOMZ
-techniques	NN
-,	
-or	CCONJ
-more	RB EMPH CMADJ
-rigorous	JJ
-training	NN
-for	PIN PREP
-new	JJ
-employees	NN
-.	
-They	TPP3 CAP PRP SBJP
-may	POMD
-make	INF
-sure	JJ
-inspections	NOMZ
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-detailed	JJ
-,	
-or	CCONJ
-they	TPP3 PRP SBJP
-may	POMD
-devise	INF
-a	ART DET INDA
-strict	JJ
-quality	NOMZ
-control	NN
-procedure	NN
-.	
-If	COND PIN CAP SCONJ PREP
-these	DEMO DET
-or	CCONJ
-any	QUAN DET
-other	JJ
-safety	NN
-measures	NN
-are	PASS VPRT AUXB
-taken	
-,	
-then	RB
-not	XX0 RB
-only	DWNT RB
-will	PRMD
-the	ART DET
-employer	NN
-be	BEMA AUXB INF
-less	RB CMADJ
-likely	JJ
-to	PIN TO PREP
-have	INF
-an	ART DET INDA
-action	NOMZ
-taken	WZPAST
-against	PIN PREP
-him	TPP3 PRP SBJP ACCU
-due	PIN PREP
-to	PIN PREP
-it	PIT PRP SBJP
-being	BEMA AUXB
-less	RB CMADJ
-likely	JJ
-that	PIN THAC SCONJ PREP
-an	ART DET INDA
-employee	NN
-will	PRMD
-be	BEMA AUXB INF
-responsible	JJ PRED
-for	PIN PREP
-a	ART DET INDA
-tort	NN
-,	
-but	CCONJ
-the	ART DET
-employee	NN
-will	PRMD SPAU
-also	RB
-be	BEMA AUXB INF
-more	JJ PRED EMPH CMADJ
-at	PIN PREP
-ease	NN
-over	PIN PREP
-such	JJ
-things	NN
-,	
-creating	PRESP PGAS
-the	ART DET
-much	QUAN JJ
-valued	
-'	CONT QUOT
-good	JJ
-working	PGAS
-environment	NOMZ
-'	CONT QUOT
-.	
-For	PIN CAP PREP
-example	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-case	NN
-of	PIN PREP
-Tarry	CAP NNP
-v	NN
-Ashton	CAP NNP
-(	
-1876	NUM
-)	
-,	
-an	ART DET INDA
-employer	NN
-was	PASS VBD AUXB
-sued	
-for	PIN PREP
-a	ART DET INDA
-gas	NN
-lamp	NN
-that	TSUB WHSUB WH
-fell	VBD
-onto	PIN PREP
-the	ART DET
-victim	NN
-'s	
-head	NN
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-careless	JJ
-nature	NN
-of	PIN PREP
-the	ART DET
-employee	NN
-'s	
-work	NN
-.	
-Had	VBD CAP
-a	ART DET INDA
-stricter	JJ CMADJ
-inspection	NOMZ
-of	PIN PREP
-the	ART DET
-employee	NN
-'s	
-work	NN
-been	PASS AUXB
-employed	
-,	
-this	DEMP DET
-may	POMD SPAU
-never	RB
-have	PEAS INF
-happened	
-and	CCONJ
-the	ART DET
-action	NOMZ
-may	POMD SPAU
-never	RB
-have	PEAS INF
-been	PASS AUXB
-brought	
-.	
-Tarry	NN CAP
-v	NN
-Ashton	CAP NNP
-(	
-1876	NUM
-)	
-1	NUM
-QBD	NN CAP
-314	NUM
-These	DEMO CAP DET
-extra	JJ
-precautions	NOMZ
-however	RB CONJ
-,	
-may	POMD
-increase	INF
-the	ART DET
-production	NOMZ
-costs	NN
-of	PIN PREP
-businesses	NOMZ
-by	PIN PREP
-a	ART DET INDA
-substantial	JJ
-amount	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-taking	PGAS
-out	PIN PREP
-liabilities	NN
-insurance	NN
-can	POMD
-be	BEMA AUXB INF
-very	AMP RB
-expensive	JJ
-,	
-as	PIN CONJ PREP
-can	POMD
-be	AUXB INF
-employing	PGAS
-a	ART DET INDA
-separate	JJ
-inspector	NN
-of	PIN PREP
-workmanship	NN
-or	CCONJ
-purchasing	GER PGAS
-extra	JJ
-safety	NN
-equipment	NOMZ
-.	
-To	PIN TO CAP PREP
-compensate	INF
-for	PIN PREP
-these	DEMO DET
-costs	NN
-,	
-businesses	NOMZ
-will	PRMD
-increase	INF
-the	ART DET
-price	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-products	NN
-:	
-an	ART DET INDA
-obvious	JJ
-disadvantage	NN
-to	PIN PREP
-the	ART DET
-consumer	NN
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-said	PUBV
-that	PIN THVC SCONJ PREP
-if	COND PIN SCONJ PREP
-the	ART DET
-costs	NN
-of	PIN PREP
-tort	NN
-cases	NN
-are	PASS VPRT AUXB
-spread	
-over	PIN PREP
-the	ART DET
-whole	JJ
-consumer	NN
-base	NN
-,	
-then	RB
-this	DEMP DET
-will	PRMD
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-all	QUAN DET
-victims	NN
-will	PRMD
-be	PASS AUXB INF
-awarded	
-the	ART DET
-compensation	NOMZ
-they	TPP3 PRP SBJP
-deserve	VPRT
-.	
-Consequently	RB CONJ CAP
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-principle	NN
-of	PIN PREP
-vicarious	JJ
-liability	NOMZ
-at	PIN PREP
-first	JJ
-sight	NN
-appears	VPRT SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-an	ART DET INDA
-unfair	JJ
-imposition	NOMZ
-of	PIN PREP
-liability	NOMZ
-rather	RB
-than	PIN PREP
-a	ART DET INDA
-compromise	NN
-,	
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-proven	
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-does	VPRT SPAU
-actually	RB
-work	INF
-to	PIN PREP
-the	ART DET
-advantage	NN
-of	PIN PREP
-all	QUAN DET
-the	ART DET
-parties	NN
-involved	
-.	
-The	ART CAP DET
-business	NOMZ
-is	PASS VPRT AUXB
-made	
-more	RB EMPH CMADJ
-predictable	JJ
-for	PIN PREP
-the	ART DET
-employer	NN
-,	
-the	ART DET
-employee	NN
-does	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-to	PIN TO PREP
-worry	INF
-unduly	RB
-about	PIN PREP
-mistakes	NN
-he	TPP3 PRP SBJP
-could	POMD SPAU
-possibly	RB
-make	INF
-during	PIN PREP
-his	TPP3 PRP SBJP
-employment	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-consumer	NN
-is	PASS VPRT SPAU AUXB
-almost	DWNT RB
-guaranteed	PUBV
-the	ART DET
-compensation	NOMZ
-they	TPP3 PRP SBJP
-deserve	VPRT
-.	
-As	RB CONJ CAP
-well	RB
-as	PIN CONJ PREP
-this	DEMP DET
-,	
-everybody	QUPR INPR
-involved	WZPAST
-with	PIN PREP
-the	ART DET
-business	NOMZ
-will	PRMD
-be	AUXB INF
-dealing	PGAS
-with	PIN PREP
-a	ART DET INDA
-(	
-hopefully	RB
-)	
-safer	JJ CMADJ
-and	PHC CCONJ
-better	JJ CMADJ
-managed	
-organisation	NOMZ
-.	
+type	content	tags
+word	A	ART CAP DET INDA
+gap	 	
+word	common	JJ
+gap	 	
+word	replacement	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	phrase	NN
+gap	 '	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	' 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Latin	JJ CAP
+gap	 	
+word	expression	NOMZ
+gap	 '	
+word	respondeat	NN
+gap	 	
+word	superior	JJ
+gap	' . 	
+word	This	DEMO CAP DET
+gap	 	
+word	literally	RB
+gap	 	
+word	means	VPRT PRIV
+gap	, '	
+word	let	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	principle	JJ
+gap	 	
+word	answer	INF
+gap	'. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	apt	JJ
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	English	JJ CAP
+gap	 	
+word	law	NN
+gap	 	
+word	relating	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	tortuous	JJ
+gap	 	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	. 	
+word	Our	FPP1 CAP PRP SBJP
+gap	 	
+word	common	JJ
+gap	 	
+word	law	NN
+gap	 	
+word	dictates	VPRT
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tort	NN
+gap	 	
+word	arises	VPRT
+gap	 	
+word	inside	PIN PLACE PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	employee	NN
+gap	'	
+word	s	
+gap	 '	
+word	scope	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	employment	NOMZ
+gap	' (	
+word	usually	RB
+gap	 	
+word	described	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	normal	JJ
+gap	 	
+word	tasks	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	carry	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	course	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	job	NN
+gap	), 	
+word	the	ART DET
+gap	 	
+word	employer	NN
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	incur	INF
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	employee	NN
+gap	'	
+word	s	
+gap	 	
+word	actions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	subsequent	JJ
+gap	 	
+word	consequences	NN
+gap	. 	
+word	Of	RB PIN CAP PREP
+gap	 	
+word	course	RB
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	seemingly	RB
+gap	 	
+word	harsh	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	guidelines	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	employers	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	simply	RB
+gap	 	
+word	used	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	employees	NN
+gap	 	
+word	to	PIN TO STPR PREP
+gap	 '	
+word	pass	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	buck	NN
+gap	' 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	were	VBD AUXB
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	questioned	
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fact	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	cases	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	employee	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	actually	RB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	employee	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	DET
+gap	 	
+word	specifically	RB
+gap	 	
+word	defined	
+gap	 	
+word	test	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	establish	PRIV THATD INF
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	intention	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	parties	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	degree	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	control	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	employer	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	employee	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	employee	NN
+gap	'	
+word	s	
+gap	 '	
+word	integration	NOMZ
+gap	' 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	business	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	factors	NN
+gap	 	
+word	taken	WZPAST
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	consideration	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	courts	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	employer	NN
+gap	-	
+word	employee	NN
+gap	 	
+word	relationship	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	found	PRIV
+gap	, 	
+word	then	RB
+gap	 	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	enabled	
+gap	. 	
+word	Stevenson	CAP NNP
+gap	 	
+word	Jordan	CAP NNP
+gap	 & 	
+word	Harrison	CAP NNP
+gap	 	
+word	Ltd	CAP NNP
+gap	. 	
+word	v	PIN PREP
+gap	 	
+word	MacDonald	CAP NNP
+gap	 & 	
+word	Evans	CAP NNP
+gap	 [1952] 1 	
+word	TLR	NN CAP
+gap	 101, 	
+word	per	PIN PREP
+gap	 	
+word	Lord	CAP NNP
+gap	 	
+word	Denning	NN CAP
+gap	 (	
+word	at	PIN PREP
+gap	 	
+word	p	NN
+gap	. 111). 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	justification	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	imposition	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	liability	NOMZ
+gap	 (	
+word	seen	PASTP PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	strict	JJ
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	examination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ACTUAL	JJ CAP
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	employer	NN
+gap	) 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	victims	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tort	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	receive	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	compensation	NOMZ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	deserve	VPRT
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	employers	NN
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	affluent	JJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	workers	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	said	PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	actually	RB
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	business	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	operate	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	freely	RB
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	validations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	employer	NN
+gap	 	
+word	knows	VPRT PRIV THATD
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	whatever	DET WH
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	employees	NN
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	resolve	SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	too	RB
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	slur	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	company	NN
+gap	'	
+word	s	
+gap	 	
+word	reputation	NOMZ
+gap	, 	
+word	then	RB
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	probably	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	freer	JJ PRED CMADJ
+gap	 	
+word	throughout	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	running	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	business	NOMZ
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	employers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	arrangements	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	taken	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	court	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	either	CCONJ
+gap	 	
+word	taking	PGAS
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	insurance	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	prices	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	necessary	JJ
+gap	 	
+word	funds	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	finance	INF
+gap	 	
+word	such	DET
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	action	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	consequently	RB CONJ
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	exactly	RB
+gap	 	
+word	what	WH
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	finances	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	for	PIN STPR PREP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	afford	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	spend	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	things	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	people	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	argue	PUBV INF
+gap	 	
+word	quite	DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	contrary	NN
+gap	: 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	actually	RB
+gap	 	
+word	makes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	workings	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	free	JJ
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Century	CAP NNP
+gap	 	
+word	Insurance	CAP NNP
+gap	 	
+word	v	NN
+gap	 	
+word	NIRTB	CAP NNP
+gap	 , 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	held	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	worker	NN
+gap	 	
+word	carelessly	RB
+gap	 	
+word	throwing	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	match	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	lighting	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cigarette	NN
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	acting	PGAS
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	course	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	employment	NOMZ
+gap	. 	
+word	Surely	RB CAP
+gap	 	
+word	therefore	RB CONJ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	difficult	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	employers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	predict	PUBV INF
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	and	CCONJ
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	liable	JJ PRED
+gap	 	
+word	for	PIN STPR PREP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	makes	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	finances	NN
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	unpredictable	JJ
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	claims	PUBV NN
+gap	 	
+word	arising	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	torts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	employees	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	predicted	PUBV
+gap	. 	
+word	Century	CAP NNP
+gap	 	
+word	Insurance	CAP NNP
+gap	 	
+word	Co	CAP NNP
+gap	. 	
+word	Ltd	CAP NNP
+gap	. 	
+word	v	PIN PREP
+gap	 	
+word	Northern	CAP NNP
+gap	 	
+word	Ireland	CAP NNP
+gap	 	
+word	Road	CAP NNP
+gap	 	
+word	Transport	CAP NNP
+gap	 	
+word	Board	CAP NNP
+gap	 [1942] 	
+word	AC	CAP NNP
+gap	 509 	
+word	Consequently	RB CONJ CAP
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	people	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	argued	PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scope	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vicarious	JJ
+gap	 	
+word	liability	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	too	RB
+gap	 	
+word	wide	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	set	VBD
+gap	 	
+word	guidelines	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	who	PIRE WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	sued	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	laid	
+gap	 	
+word	out	PIN STPR PREP
+gap	. 	
+word	Others	NN CAP
+gap	 	
+word	argue	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	tort	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	ever	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	fault	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	defendant	NN
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	third	JJ
+gap	 	
+word	party	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	assuming	PRIV PGAS
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	employee	NN
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	acting	PGAS
+gap	 	
+word	correctly	RB
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	employer	NN
+gap	 	
+word	should	NEMD SPAU
+gap	 	
+word	still	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	sued	
+gap	 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	employee	NN
+gap	 	
+word	cannot	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	of	
+gap	 	
+word	Broom	
+gap	 	
+word	v	
+gap	 	
+word	Morgan	
+gap	 , 	
+word	a	
+gap	 	
+word	wife	
+gap	 	
+word	was	
+gap	 	
+word	injured	
+gap	 	
+word	by	
+gap	 	
+word	her	
+gap	 	
+word	fellow	
+gap	-	
+word	employees	
+gap	 	
+word	actions	
+gap	. 	
+word	Her	
+gap	 	
+word	fellow	
+gap	 	
+word	employee	
+gap	 	
+word	was	
+gap	 	
+word	also	
+gap	 	
+word	her	
+gap	 	
+word	husband	
+gap	, 	
+word	and	
+gap	 	
+word	at	
+gap	 	
+word	this	
+gap	 	
+word	time	
+gap	 	
+word	spouses	
+gap	 	
+word	could	
+gap	 	
+word	not	
+gap	 	
+word	sue	
+gap	 	
+word	one	
+gap	 	
+word	another	
+gap	. 	
+word	However	
+gap	, 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	deemed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	courts	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	employer	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	couple	
+gap	 	
+word	could	
+gap	 	
+word	still	
+gap	 	
+word	be	
+gap	 	
+word	sued	
+gap	, 	
+word	and	
+gap	 	
+word	he	
+gap	 	
+word	was	
+gap	 	
+word	consequently	
+gap	 	
+word	held	
+gap	 	
+word	liable	
+gap	. 	
+word	This	
+gap	 	
+word	caused	
+gap	 	
+word	great	
+gap	 	
+word	controversy	
+gap	, 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	employer	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	case	
+gap	 	
+word	took	
+gap	 	
+word	full	
+gap	 	
+word	liability	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	tort	
+gap	, 	
+word	whereas	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	usual	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	defendant	
+gap	 	
+word	retains	
+gap	 	
+word	responsibility	
+gap	 	
+word	for	
+gap	 	
+word	his	
+gap	 	
+word	actions	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	liability	
+gap	 	
+word	being	
+gap	 	
+word	imposed	
+gap	 	
+word	upon	
+gap	 	
+word	his	
+gap	 	
+word	employer	
+gap	. 	
+word	This	
+gap	 	
+word	consequently	
+gap	 	
+word	brings	
+gap	 	
+word	the	
+gap	 	
+word	freedom	
+gap	 	
+word	of	
+gap	 	
+word	businesses	
+gap	 	
+word	into	
+gap	 	
+word	question	
+gap	 - 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	business	
+gap	 	
+word	free	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	sued	
+gap	 	
+word	for	
+gap	 	
+word	things	
+gap	 	
+word	even	
+gap	 	
+word	the	
+gap	 	
+word	defendant	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	liable	
+gap	 	
+word	for	
+gap	? 	
+word	Broom	
+gap	 	
+word	v	
+gap	 	
+word	Morgan	
+gap	 [1953] 1 	
+word	QB	
+gap	 597 	
+word	On	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	victims	
+gap	 	
+word	of	
+gap	 	
+word	torts	
+gap	 	
+word	deserve	
+gap	 	
+word	compensation	
+gap	, 	
+word	and	
+gap	 	
+word	if	
+gap	, 	
+word	as	
+gap	 	
+word	is	
+gap	 	
+word	usual	
+gap	, 	
+word	the	
+gap	 	
+word	employer	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	better	
+gap	 	
+word	financial	
+gap	 	
+word	position	
+gap	 	
+word	to	
+gap	 	
+word	provide	
+gap	 	
+word	this	
+gap	, 	
+word	then	
+gap	 	
+word	surely	
+gap	 	
+word	they	
+gap	 	
+word	should	
+gap	. 	
+word	After	
+gap	 	
+word	all	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	employment	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	workers	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	direction	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	complete	
+gap	 	
+word	certain	
+gap	 	
+word	activities	
+gap	, 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	taking	
+gap	 	
+word	the	
+gap	 	
+word	risk	
+gap	 	
+word	that	
+gap	 	
+word	something	
+gap	 	
+word	will	
+gap	 	
+word	go	
+gap	 	
+word	awry	
+gap	. 	
+word	They	
+gap	 	
+word	also	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	profit	
+gap	 	
+word	from	
+gap	 	
+word	their	
+gap	 	
+word	employees	
+gap	' 	
+word	actions	
+gap	, 	
+word	so	
+gap	 	
+word	surely	
+gap	 	
+word	they	
+gap	 	
+word	should	
+gap	 	
+word	use	
+gap	 	
+word	some	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	profits	
+gap	 	
+word	to	
+gap	 	
+word	insure	
+gap	 	
+word	against	
+gap	 	
+word	actions	
+gap	 	
+word	resulting	
+gap	 	
+word	from	
+gap	 	
+word	incidents	
+gap	 	
+word	that	
+gap	 	
+word	occur	
+gap	 	
+word	during	
+gap	 	
+word	production	
+gap	. 	
+word	As	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Broom	
+gap	 	
+word	case	
+gap	 (	
+word	detailed	
+gap	 	
+word	above	
+gap	), 	
+word	surely	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	victim	
+gap	 	
+word	could	
+gap	 	
+word	not	
+gap	 	
+word	claim	
+gap	 	
+word	compensation	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	person	
+gap	 	
+word	who	
+gap	 	
+word	directly	
+gap	 	
+word	caused	
+gap	 	
+word	the	
+gap	 	
+word	accident	
+gap	, 	
+word	then	
+gap	 	
+word	she	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	claim	
+gap	 	
+word	the	
+gap	 	
+word	compensation	
+gap	 	
+word	she	
+gap	 	
+word	is	
+gap	 	
+word	rightfully	
+gap	 	
+word	owed	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	employer	
+gap	. 	
+word	This	
+gap	 	
+word	justification	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	reinforced	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	argument	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	were	
+gap	 	
+word	not	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	employer	
+gap	, 	
+word	then	
+gap	 	
+word	the	
+gap	 	
+word	employee	
+gap	 	
+word	would	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	carrying	
+gap	 	
+word	out	
+gap	 	
+word	his	
+gap	 	
+word	duties	
+gap	 	
+word	required	
+gap	 	
+word	of	
+gap	 	
+word	him	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	through	
+gap	 	
+word	a	
+gap	 	
+word	rather	
+gap	 	
+word	complex	
+gap	 	
+word	chain	
+gap	 	
+word	of	
+gap	 	
+word	causation	
+gap	, 	
+word	the	
+gap	 	
+word	employer	
+gap	 	
+word	is	
+gap	 	
+word	ultimately	
+gap	 	
+word	culpable	
+gap	. 	
+word	Vicarious	
+gap	 	
+word	liability	
+gap	 	
+word	encourages	
+gap	 	
+word	employers	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	precautions	
+gap	 	
+word	against	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	employees	
+gap	 	
+word	committing	
+gap	 	
+word	a	
+gap	 	
+word	tort	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	they	
+gap	 	
+word	may	
+gap	 	
+word	employ	
+gap	 	
+word	more	
+gap	 	
+word	cautious	
+gap	 	
+word	recruitment	
+gap	 	
+word	techniques	
+gap	, 	
+word	or	
+gap	 	
+word	more	
+gap	 	
+word	rigorous	
+gap	 	
+word	training	
+gap	 	
+word	for	
+gap	 	
+word	new	
+gap	 	
+word	employees	
+gap	. 	
+word	They	
+gap	 	
+word	may	
+gap	 	
+word	make	
+gap	 	
+word	sure	
+gap	 	
+word	inspections	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	detailed	
+gap	, 	
+word	or	
+gap	 	
+word	they	
+gap	 	
+word	may	
+gap	 	
+word	devise	
+gap	 	
+word	a	
+gap	 	
+word	strict	
+gap	 	
+word	quality	
+gap	 	
+word	control	
+gap	 	
+word	procedure	
+gap	. 	
+word	If	
+gap	 	
+word	these	
+gap	 	
+word	or	
+gap	 	
+word	any	
+gap	 	
+word	other	
+gap	 	
+word	safety	
+gap	 	
+word	measures	
+gap	 	
+word	are	
+gap	 	
+word	taken	
+gap	, 	
+word	then	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	will	
+gap	 	
+word	the	
+gap	 	
+word	employer	
+gap	 	
+word	be	
+gap	 	
+word	less	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	an	
+gap	 	
+word	action	
+gap	 	
+word	taken	
+gap	 	
+word	against	
+gap	 	
+word	him	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	it	
+gap	 	
+word	being	
+gap	 	
+word	less	
+gap	 	
+word	likely	
+gap	 	
+word	that	
+gap	 	
+word	an	
+gap	 	
+word	employee	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	responsible	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	tort	
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	employee	
+gap	 	
+word	will	
+gap	 	
+word	also	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	at	
+gap	 	
+word	ease	
+gap	 	
+word	over	
+gap	 	
+word	such	
+gap	 	
+word	things	
+gap	, 	
+word	creating	
+gap	 	
+word	the	
+gap	 	
+word	much	
+gap	 	
+word	valued	
+gap	 '	
+word	good	
+gap	 	
+word	working	
+gap	 	
+word	environment	
+gap	'. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	of	
+gap	 	
+word	Tarry	
+gap	 	
+word	v	
+gap	 	
+word	Ashton	
+gap	 (1876) , 	
+word	an	
+gap	 	
+word	employer	
+gap	 	
+word	was	
+gap	 	
+word	sued	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	gas	
+gap	 	
+word	lamp	
+gap	 	
+word	that	
+gap	 	
+word	fell	
+gap	 	
+word	onto	
+gap	 	
+word	the	
+gap	 	
+word	victim	
+gap	'	
+word	s	
+gap	 	
+word	head	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	careless	
+gap	 	
+word	nature	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	employee	
+gap	'	
+word	s	
+gap	 	
+word	work	
+gap	. 	
+word	Had	
+gap	 	
+word	a	
+gap	 	
+word	stricter	
+gap	 	
+word	inspection	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	employee	
+gap	'	
+word	s	
+gap	 	
+word	work	
+gap	 	
+word	been	
+gap	 	
+word	employed	
+gap	, 	
+word	this	
+gap	 	
+word	may	
+gap	 	
+word	never	
+gap	 	
+word	have	
+gap	 	
+word	happened	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	action	
+gap	 	
+word	may	
+gap	 	
+word	never	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	brought	
+gap	. 	
+word	Tarry	
+gap	 	
+word	v	
+gap	 	
+word	Ashton	
+gap	 (1876) 1 	
+word	QBD	
+gap	 314 	
+word	These	
+gap	 	
+word	extra	
+gap	 	
+word	precautions	
+gap	 	
+word	however	
+gap	, 	
+word	may	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	production	
+gap	 	
+word	costs	
+gap	 	
+word	of	
+gap	 	
+word	businesses	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	substantial	
+gap	 	
+word	amount	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	taking	
+gap	 	
+word	out	
+gap	 	
+word	liabilities	
+gap	 	
+word	insurance	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	very	
+gap	 	
+word	expensive	
+gap	, 	
+word	as	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	employing	
+gap	 	
+word	a	
+gap	 	
+word	separate	
+gap	 	
+word	inspector	
+gap	 	
+word	of	
+gap	 	
+word	workmanship	
+gap	 	
+word	or	
+gap	 	
+word	purchasing	
+gap	 	
+word	extra	
+gap	 	
+word	safety	
+gap	 	
+word	equipment	
+gap	. 	
+word	To	
+gap	 	
+word	compensate	
+gap	 	
+word	for	
+gap	 	
+word	these	
+gap	 	
+word	costs	
+gap	, 	
+word	businesses	
+gap	 	
+word	will	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	products	
+gap	: 	
+word	an	
+gap	 	
+word	obvious	
+gap	 	
+word	disadvantage	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	. 	
+word	However	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	said	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	costs	
+gap	 	
+word	of	
+gap	 	
+word	tort	
+gap	 	
+word	cases	
+gap	 	
+word	are	
+gap	 	
+word	spread	
+gap	 	
+word	over	
+gap	 	
+word	the	
+gap	 	
+word	whole	
+gap	 	
+word	consumer	
+gap	 	
+word	base	
+gap	, 	
+word	then	
+gap	 	
+word	this	
+gap	 	
+word	will	
+gap	 	
+word	ensure	
+gap	 	
+word	that	
+gap	 	
+word	all	
+gap	 	
+word	victims	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	awarded	
+gap	 	
+word	the	
+gap	 	
+word	compensation	
+gap	 	
+word	they	
+gap	 	
+word	deserve	
+gap	. 	
+word	Consequently	
+gap	, 	
+word	although	
+gap	 	
+word	the	
+gap	 	
+word	principle	
+gap	 	
+word	of	
+gap	 	
+word	vicarious	
+gap	 	
+word	liability	
+gap	 	
+word	at	
+gap	 	
+word	first	
+gap	 	
+word	sight	
+gap	 	
+word	appears	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	an	
+gap	 	
+word	unfair	
+gap	 	
+word	imposition	
+gap	 	
+word	of	
+gap	 	
+word	liability	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	compromise	
+gap	, 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	proven	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	actually	
+gap	 	
+word	work	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	advantage	
+gap	 	
+word	of	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	parties	
+gap	 	
+word	involved	
+gap	. 	
+word	The	
+gap	 	
+word	business	
+gap	 	
+word	is	
+gap	 	
+word	made	
+gap	 	
+word	more	
+gap	 	
+word	predictable	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	employer	
+gap	, 	
+word	the	
+gap	 	
+word	employee	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	worry	
+gap	 	
+word	unduly	
+gap	 	
+word	about	
+gap	 	
+word	mistakes	
+gap	 	
+word	he	
+gap	 	
+word	could	
+gap	 	
+word	possibly	
+gap	 	
+word	make	
+gap	 	
+word	during	
+gap	 	
+word	his	
+gap	 	
+word	employment	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	is	
+gap	 	
+word	almost	
+gap	 	
+word	guaranteed	
+gap	 	
+word	the	
+gap	 	
+word	compensation	
+gap	 	
+word	they	
+gap	 	
+word	deserve	
+gap	. 	
+word	As	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	this	
+gap	, 	
+word	everybody	
+gap	 	
+word	involved	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	business	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	dealing	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 (	
+word	hopefully	
+gap	) 	
+word	safer	
+gap	 	
+word	and	
+gap	 	
+word	better	
+gap	 	
+word	managed	
+gap	 	
+word	organisation	
+gap	.	

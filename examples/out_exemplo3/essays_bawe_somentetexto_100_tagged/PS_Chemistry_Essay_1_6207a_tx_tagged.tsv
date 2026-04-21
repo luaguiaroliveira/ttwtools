@@ -1,928 +1,1680 @@
 # filename: PS_Chemistry_Essay_1_6207a_tx.txt
-token	tags
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-now	RB TIME
-well	RB
-documented	
-and	CCONJ
-widely	RB
-accepted	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-Earth	CAP NNP
-'s	
-interior	NN
-consists	VPRT
-mainly	RB
-of	PIN PREP
-molten	JJ
-rock	NN
-and	CCONJ
-exists	VPRT
-as	PIN CONJ PREP
-layers	NN
-of	PIN PREP
-differing	PGAS
-content	NN
-and	PHC CCONJ
-density	NOMZ
-,	
-ranging	PGAS
-from	PIN PREP
-a	ART DET INDA
-solid	JJ
-iron	NN
-core	NN
-to	PIN PREP
-a	ART DET INDA
-molten	JJ
-,	
-mineral	JJ
-rich	JJ
-mantle	NN
-.	
-This	DEMP CAP DET
-,	
-however	RB CONJ
-,	
-has	VPRT PEAS SPAU
-not	XX0 RB
-always	RB
-been	BEMA AUXB
-the	ART DET
-case	NN
-and	CCONJ
-many	QUAN JJ
-hypotheses	NN
-on	PIN PREP
-the	ART DET
-nature	NN
-of	PIN PREP
-its	PIT PRP SBJP
-structure	NN
-have	VPRT PEAS
-been	PASS AUXB
-put	
-forward	RB
-throughout	PIN PREP
-history	NN
-.	
-Nineteenth	JJ CAP
-century	NN
-science	NN
-fictionalist	NN
-,	
-Jules	CAP NNP
-Verne	CAP NNP
-,	
-proposed	VBD SUAV THATD
-that	PIN STPR DEMP SCONJ PREP
-,	
-to	PIN TO PREP
-account	INF
-for	PIN PREP
-the	ART DET
-flawed	JJ
-calculation	NOMZ
-of	PIN PREP
-the	ART DET
-earths	NN
-density	NOMZ
-,	
-vast	JJ
-internal	JJ
-caves	NN
-existed	VBD
-as	PIN CONJ PREP
-hollows	NN
-below	PIN PLACE PREP
-the	ART DET
-surface	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-popular	JJ
-children	NN
-'s	
-story	NN
-,	
-'	CONT QUOT
-Journey	NN CAP
-to	PIN PREP
-the	ART DET
-centre	NN
-of	PIN PREP
-the	ART DET
-Earth	CAP NNP
-'	CONT QUOT
-he	TPP3 PRP SBJP
-exploited	VBD
-this	DEMO DET
-fact	NN
-by	PIN PREP
-allowing	SUAV PGAS
-the	ART DET
-characters	NN
-to	PIN TO PREP
-descend	INF
-through	PIN PREP
-these	DEMO DET
-air	NN
-filled	
-passages	NN
-toward	PIN PREP
-the	ART DET
-centre	NN
-of	PIN PREP
-the	ART DET
-Earth	CAP NNP
-.	
-Of	RB PIN CAP PREP
-course	RB
-this	DEMP DET
-sounds	VPRT
-preposterous	JJ
-now	RB TIME
-but	CCONJ
-many	QUAN JJ
-of	PIN PREP
-the	ART DET
-arguments	NOMZ
-made	WZPAST
-by	PIN PREP
-Verne	CAP NNP
-hold	PRIV INF
-true	JJ
-and	CCONJ
-at	PIN PREP
-the	ART DET
-time	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-written	PUBV
-,	
-people	NN
-believed	VBD PRIV
-that	PIN THVC SCONJ PREP
-this	DEMP DET
-was	BEMA VBD AUXB
-the	ART DET
-knowledge	NN
-of	PIN PREP
-the	ART DET
-scientific	JJ
-community	NOMZ
-.	
-When	RB CAP SCONJ WH
-describing	GER PGAS
-the	ART DET
-journey	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-undertaken	
-in	PIN CONJ PREP
-Chapter	CAP NNP
-Six	CAP NNP
-,	
-the	ART DET
-young	JJ
-Axel	CAP NNP
-states	VPRT PUBV THATD
-that	PIN STPR DEMP SCONJ PREP
-,	
-"	QUOT
-the	ART DET
-internal	JJ
-temperature	NN
-rises	VPRT
-one	NUM
-degree	NN
-for	PIN PREP
-every	QUAN DET
-seventy	NUM
-feet	NN
-in	PIN CONJ PREP
-depth	NN
-"	QUOT
-which	SERE DET WH
-equates	VPRT
-to	PIN PREP
-a	ART DET INDA
-geothermal	JJ
-gradient	NN
-of	PIN PREP
-around	RB PLACE
-twenty	NUM
-eight	NUM
-degrees	NN
-Celsius	CAP NNP
-per	PIN PREP
-kilometre	NN
-,	
-well	DPAR RB
-within	PIN PREP
-the	ART DET
-accepted	PRIV
-value	NN
-of	PIN PREP
-between	PIN PREP
-twenty	NUM
-and	CCONJ
-thirty	NUM
-.	
-However	RB CONJ CAP
-,	
-this	DEMO DET
-gradient	NN
-only	DWNT RB
-holds	VPRT PRIV
-true	JJ
-for	PIN PREP
-the	ART DET
-continental	NNP
-crust	NN
-,	
-a	ART DET INDA
-vital	JJ
-error	NN
-which	WHSUB DET WH
-leads	VPRT
-to	PIN PREP
-an	ART DET INDA
-overestimation	NOMZ
-of	PIN PREP
-the	ART DET
-temperature	NN
-at	PIN PREP
-the	ART DET
-centre	NN
-by	PIN PREP
-a	ART DET INDA
-magnificent	JJ
-factor	NN
-of	PIN PREP
-forty	NUM
-.	
-Despite	PIN CAP SCONJ PREP
-his	TPP3 PRP SBJP
-inaccuracy	NN
-,	
-he	TPP3 PRP SBJP
-does	VPRT EMPH
-state	PUBV INF
-his	TPP3 PRP SBJP
-assumption	NOMZ
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-gradient	NN
-remains	VPRT
-constant	JJ
-,	
-in	PIN CONJ PREP
-keeping	PGAS
-with	PIN PREP
-scientific	JJ
-procedure	NN
-.	
-The	ART CAP DET
-argument	NOMZ
-between	PIN PREP
-him	TPP3 PRP SBJP ACCU
-and	CCONJ
-the	ART DET
-professor	NN
-develops	VPRT
-and	CCONJ
-counter	JJ
-theories	NN
-expressed	VBD
-as	PIN CONJ PREP
-expected	PRIV
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-true	JJ PRED
-that	PIN THAC SCONJ PREP
-an	ART DET INDA
-internal	JJ
-heat	NN
-of	PIN PREP
-such	JJ
-magnitude	NN
-would	PRMD SPAU
-indeed	RB
-lead	INF
-to	PIN PREP
-unpredictable	JJ
-and	PHC CCONJ
-explosive	JJ
-consequences	NN
-and	ANDC CCONJ
-so	RB EMPH
-other	JJ
-avenues	NN
-must	NEMD
-be	PASS AUXB INF
-explored	
-.	
-The	ART CAP DET
-professor	NN
-disputes	VPRT
-even	RB
-the	ART DET
-concept	NN
-of	PIN PREP
-internal	JJ
-heat	NN
-,	
-he	TPP3 PRP SBJP
-believes	VPRT PRIV THATD
-that	PIN STPR DEMP SCONJ PREP
-,	
-"	QUOT
-The	ART CAP DET
-Earth	CAP NNP
-has	VPRT PEAS
-been	PASS BYPA AUXB
-heated	
-by	PIN PREP
-combustion	NOMZ
-on	PIN PREP
-its	PIT PRP SBJP
-surface	NN
-,	
-that	DEMP DET
-is	BEMA VPRT AUXB
-all	QUAN DET
-"	QUOT
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-any	QUAN DET
-heat	NN
-which	WHSUB DET WH
-once	RB TIME
-was	PASS VBD AUXB
-held	PRIV
-internally	RB
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-this	DEMO DET
-combustion	NOMZ
-must	NEMD SPAU
-now	RB TIME
-have	PEAS SPAU INF
-all	QUAN RB
-dissipated	
-through	PIN PREP
-volcanic	JJ
-vents	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-several	QUAN JJ
-obvious	JJ
-errors	NN
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-argument	NOMZ
-but	CCONJ
-again	RB TIME
-,	
-each	QUAN DET
-has	VPRT PEAS
-been	PASS AUXB
-presented	
-from	PIN PREP
-a	ART DET INDA
-scientific	JJ
-and	PHC CCONJ
-informed	JJ
-viewpoint	NN
-.	
-We	FPP1 CAP PRP SBJP
-know	VPRT PRIV
-that	PIN THVC SCONJ PREP
-heat	NN
-within	PIN PREP
-the	ART DET
-Earth	CAP NNP
-is	VPRT AUXB
-,	
-as	PIN CONJ PREP
-the	ART DET
-professor	NN
-said	VBD PUBV
-,	
-a	ART DET INDA
-result	NN
-of	PIN PREP
-its	PIT PRP SBJP
-violent	JJ
-creation	NOMZ
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-now	RB TIME
-known	PRIV
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-heat	NN
-was	PASS VBD AUXB
-formed	
-in	PIN CONJ PREP
-the	ART DET
-outer	JJ
-regions	NN
-by	PIN PREP
-the	ART DET
-conversion	NOMZ
-of	PIN PREP
-kinetic	JJ
-energy	NN
-of	PIN PREP
-extraterrestrial	JJ
-bodies	NN
-on	PIN PREP
-impact	NN
-with	PIN PREP
-our	FPP1 PRP SBJP
-young	JJ
-planet	NN
-,	
-whilst	OSUB PIN SCONJ PREP
-gravitational	JJ
-energy	NN
-from	PIN PREP
-contraction	NOMZ
-heated	VBD
-its	PIT PRP SBJP
-interior	NN
-so	RB
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-vigorous	JJ
-reactions	NOMZ
-mentioned	PUBV WZPAST
-between	PIN PREP
-atmospheric	JJ
-water	NN
-and	ANDC CCONJ
-what	WH
-he	TPP3 PRP SBJP
-proposes	VPRT SUAV
-composed	
-the	ART DET
-Earth	CAP NNP
-'s	
-surface	NN
-,	
-sodium	NN
-and	PHC CCONJ
-potassium	NN
-,	
-do	VPRT EMPH
-occur	INF
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-states	VPRT PUBV
-,	
-this	DEMP DET
-is	BEMA VPRT AUXB
-inaccurate	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-note	PRIV INF
-though	CONC PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-although	CONC PIN SCONJ PREP
-erroneous	JJ
-,	
-the	ART DET
-argument	NOMZ
-is	PASS VPRT BYPA AUXB
-supported	
-by	PIN PREP
-an	ART DET INDA
-experiment	NOMZ
-he	TPP3 PRP SBJP
-claims	VPRT PUBV
-was	PASS VBD BYPA AUXB
-performed	
-by	PIN PREP
-Humphrey	CAP NNP
-Davy	CAP NNP
-,	
-the	ART DET
-chemist	NN
-who	WHSUB WH
-discovered	VBD PRIV
-the	ART DET
-afore	RB
-mentioned	PUBV
-elements	NOMZ
-,	
-and	ANDC CCONJ
-so	RB
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-keeping	PGAS
-with	PIN PREP
-scientific	JJ
-methodology	NN
-.	
-He	TPP3 CAP PRP SBJP
-was	BEMA VBD AUXB
-also	RB
-correct	JJ
-when	RB SCONJ WH
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-the	ART DET
-depletion	NOMZ
-of	PIN PREP
-volcanoes	NN
-over	PIN PREP
-history	NN
-indicates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-earth	NN
-is	VPRT AUXB
-cooling	PGAS
-down	PIN STPR PREP
-,	
-but	CCONJ
-the	ART DET
-process	NN
-is	BEMA VPRT AUXB
-extremely	AMP RB
-slow	JJ
-and	ANDC CCONJ
-he	TPP3 PRP SBJP
-has	VPRT PEAS
-assumed	PRIV
-that	PIN THVC SCONJ PREP
-no	SYNE DET
-additional	JJ
-heat	NN
-is	PASS VPRT AUXB
-being	PASS AUXB
-generated	
-,	
-which	SERE DET WH
-we	FPP1 PRP SBJP
-know	VPRT PRIV
-is	BEMA VPRT AUXB
-not	XX0 RB
-the	ART DET
-case	NN
-.	
-The	ART CAP DET
-decay	NN
-of	PIN PREP
-radioactive	JJ
-isotopes	NN
-in	PIN CONJ PREP
-the	ART DET
-mantle	NN
-is	VPRT SPAU AUXB
-constantly	RB
-producing	PGAS
-heat	NN
-which	WHSUB DET WH
-goes	VPRT
-into	PIN PREP
-powering	PGAS
-the	ART DET
-solid	JJ
-state	PUBV NN
-convection	NOMZ
-cycle	NN
-associated	WZPAST
-with	PIN PREP
-plate	NN
-tectonics	NN
-.	
-The	ART CAP DET
-professor	NN
-concludes	VPRT PRIV
-,	
-inaccurately	RB
-,	
-"	QUOT
-that	PIN THVC SCONJ PREP
-the	ART DET
-interior	NN
-of	PIN PREP
-the	ART DET
-globe	NN
-is	VPRT AUXB
-neither	SYNE CCONJ
-gas	NN
-nor	SYNE CCONJ
-water	NN
-,	
-nor	CCONJ
-any	QUAN DET
-of	PIN PREP
-the	ART DET
-heaviest	JJ SPADJ
-minerals	NN
-known	PRIV
-.	
-"	QUOT
-We	FPP1 CAP PRP SBJP
-know	VPRT PRIV
-that	PIN THVC SCONJ PREP
-all	QUAN DET
-three	NUM
-of	PIN PREP
-these	DEMO DET
-components	NN
-contribute	VPRT
-to	PIN PREP
-the	ART DET
-Earth	CAP NNP
-'s	
-internal	JJ
-structure	NN
-.	
-The	ART CAP DET
-mantle	NN
-is	BEMA VPRT AUXB
-predominantly	RB
-peridodite	JJ
-,	
-a	ART DET INDA
-rock	NN
-made	VBD
-up	PIN PREP
-mainly	RB
-of	PIN PREP
-the	ART DET
-silicate	JJ
-minerals	NN
-,	
-pyroxene	NN
-and	PHC CCONJ
-olivine	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-also	RB
-evidence	NN
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-water	NN
-within	PIN PREP
-the	ART DET
-mantle	NN
-and	ANDC CCONJ
-these	DEMO DET
-vapours	NN
-and	PHC CCONJ
-gases	NN
-can	POMD
-be	PASS AUXB INF
-observed	PRIV
-during	PIN PREP
-volcanic	JJ
-eruptions	NOMZ
-.	
-I	FPP1 CAP PRP SBJP
-think	VPRT PRIV
-,	
-when	RB SCONJ WH
-reading	PGAS
-this	DEMO DET
-book	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-remember	PRIV INF
-that	PIN THVC SCONJ PREP
-its	PIT PRP SBJP
-sole	JJ
-purpose	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-entertain	INF
-and	PHC CCONJ
-excite	INF
-the	ART DET
-reader	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-many	QUAN JJ
-of	PIN PREP
-the	ART DET
-facts	NN
-stated	PUBV
-have	VPRT
-scientific	JJ
-support	NN
-and	CCONJ
-the	ART DET
-way	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-they	TPP3 PRP SBJP
-were	PASS VBD AUXB
-presented	
-have	VPRT
-academic	JJ
-credibility	NOMZ
-,	
-there	EX
-are	VPRT AUXB
-several	QUAN JJ PRED
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-my	FPP1 PRP SBJP
-opinion	NN
-,	
-intentional	JJ
-flaws	NN
-.	
-If	COND PIN CAP SCONJ PREP
-Verne	CAP NNP
-had	VBD PEAS
-been	BEMA AUXB
-accurate	JJ PRED
-when	RB SCONJ WH
-describing	GER PGAS
-the	ART DET
-internal	JJ
-structure	NN
-of	PIN PREP
-the	ART DET
-Earth	CAP NNP
-he	TPP3 PRP SBJP
-would	PRMD SPAU
-inevitably	RB
-have	PEAS INF
-had	
-to	PIN TO PREP
-conclude	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-mission	NOMZ
-was	BEMA VBD AUXB
-impossible	JJ PRED
-.	
-Temperatures	NN CAP
-and	PHC CCONJ
-pressures	NN
-of	PIN PREP
-such	JJ
-great	JJ
-magnitude	NN
-would	PRMD SPAU
-not	XX0 RB
-allow	SUAV INF
-such	EMPH DET
-a	ART DET INDA
-thing	NN
-.	
-The	ART CAP DET
-molten	JJ
-interior	NN
-would	PRMD
-be	BEMA AUXB INF
-impenetrable	JJ PRED
-.	
-I	FPP1 CAP PRP SBJP
-think	VPRT PRIV
-the	ART DET
-book	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-wonderful	JJ
-introduction	NOMZ
-to	PIN PREP
-geology	NN
-,	
-providing	PGAS
-much	QUAN JJ
-insight	NN
-into	PIN PREP
-the	ART DET
-field	NN
-but	CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-by	PIN PREP
-no	SYNE DET
-means	PRIV NN
-a	ART DET INDA
-substitute	NN
-for	PIN PREP
-modern	JJ
-day	NN
-text	NN
-books	NN
-.	
-I	FPP1 CAP PRP SBJP
-think	VPRT PRIV
-also	RB
-,	
-at	PIN PREP
-the	ART DET
-time	NN
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-written	PUBV
-,	
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-taken	
-somewhat	DWNT RB
-with	PIN PREP
-a	ART DET INDA
-pinch	NN
-of	PIN PREP
-salt	NN
-.	
-I	FPP1 CAP PRP SBJP
-believe	VPRT PRIV
-Verne	CAP NNP
-represented	VBD
-his	TPP3 PRP SBJP
-true	JJ
-feelings	NN
-through	PIN PREP
-the	ART DET
-voice	NN
-of	PIN PREP
-Axel	CAP NNP
-when	RB SCONJ WH
-presenting	GER PGAS
-his	TPP3 PRP SBJP
-arguments	NOMZ
-against	PIN PREP
-the	ART DET
-journey	NN
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-knew	VBD PRIV
-such	EMPH DET
-a	ART DET INDA
-feat	NN
-could	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-undertaken	
-but	CCONJ
-the	ART DET
-professor	NN
-,	
-with	PIN PREP
-his	TPP3 PRP SBJP
-convincing	JJ
-and	PHC CCONJ
-logical	JJ
-arguments	NOMZ
-,	
-persuaded	VBD
-him	TPP3 PRP SBJP ACCU
-,	
-as	RB CONJ
-much	QUAN RB
-as	PIN CONJ PREP
-the	ART DET
-reader	NN
-,	
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-could	POMD
-and	CCONJ
-no	DET
-budding	PGAS
-geologist	NN
-would	PRMD
-turn	INF
-down	PIN PREP
-such	DET
-an	ART DET INDA
-adventurous	JJ
-quest	NN
-for	PIN PREP
-knowledge	NN
-.	
+type	content	tags
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	now	RB TIME
+gap	 	
+word	well	RB
+gap	 	
+word	documented	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	widely	RB
+gap	 	
+word	accepted	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	interior	NN
+gap	 	
+word	consists	VPRT
+gap	 	
+word	mainly	RB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	molten	JJ
+gap	 	
+word	rock	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	exists	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	layers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	differing	PGAS
+gap	 	
+word	content	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	density	NOMZ
+gap	, 	
+word	ranging	PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	solid	JJ
+gap	 	
+word	iron	NN
+gap	 	
+word	core	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	molten	JJ
+gap	, 	
+word	mineral	JJ
+gap	 	
+word	rich	JJ
+gap	 	
+word	mantle	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	always	RB
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	hypotheses	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	structure	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	put	
+gap	 	
+word	forward	RB
+gap	 	
+word	throughout	PIN PREP
+gap	 	
+word	history	NN
+gap	. 	
+word	Nineteenth	JJ CAP
+gap	 	
+word	century	NN
+gap	 	
+word	science	NN
+gap	 	
+word	fictionalist	NN
+gap	, 	
+word	Jules	CAP NNP
+gap	 	
+word	Verne	CAP NNP
+gap	, 	
+word	proposed	VBD SUAV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	account	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	flawed	JJ
+gap	 	
+word	calculation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	earths	NN
+gap	 	
+word	density	NOMZ
+gap	, 	
+word	vast	JJ
+gap	 	
+word	internal	JJ
+gap	 	
+word	caves	NN
+gap	 	
+word	existed	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	hollows	NN
+gap	 	
+word	below	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	popular	JJ
+gap	 	
+word	children	NN
+gap	'	
+word	s	
+gap	 	
+word	story	NN
+gap	, '	
+word	Journey	NN CAP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	centre	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	' 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	exploited	VBD
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	fact	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	allowing	SUAV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	characters	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	descend	INF
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	air	NN
+gap	 	
+word	filled	
+gap	 	
+word	passages	NN
+gap	 	
+word	toward	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	centre	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	. 	
+word	Of	RB PIN CAP PREP
+gap	 	
+word	course	RB
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	sounds	VPRT
+gap	 	
+word	preposterous	JJ
+gap	 	
+word	now	RB TIME
+gap	 	
+word	but	CCONJ
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	made	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Verne	CAP NNP
+gap	 	
+word	hold	PRIV INF
+gap	 	
+word	true	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	written	PUBV
+gap	, 	
+word	people	NN
+gap	 	
+word	believed	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scientific	JJ
+gap	 	
+word	community	NOMZ
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	describing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	journey	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	undertaken	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Chapter	CAP NNP
+gap	 	
+word	Six	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	young	JJ
+gap	 	
+word	Axel	CAP NNP
+gap	 	
+word	states	VPRT PUBV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 ," 	
+word	the	ART DET
+gap	 	
+word	internal	JJ
+gap	 	
+word	temperature	NN
+gap	 	
+word	rises	VPRT
+gap	 	
+word	one	NUM
+gap	 	
+word	degree	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	seventy	NUM
+gap	 	
+word	feet	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	depth	NN
+gap	" 	
+word	which	SERE DET WH
+gap	 	
+word	equates	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	geothermal	JJ
+gap	 	
+word	gradient	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	around	RB PLACE
+gap	 	
+word	twenty	NUM
+gap	 	
+word	eight	NUM
+gap	 	
+word	degrees	NN
+gap	 	
+word	Celsius	CAP NNP
+gap	 	
+word	per	PIN PREP
+gap	 	
+word	kilometre	NN
+gap	, 	
+word	well	DPAR RB
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	value	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	twenty	NUM
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thirty	NUM
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	gradient	NN
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	holds	VPRT PRIV
+gap	 	
+word	true	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	continental	NNP
+gap	 	
+word	crust	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	vital	JJ
+gap	 	
+word	error	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	overestimation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	temperature	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	centre	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	magnificent	JJ
+gap	 	
+word	factor	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	forty	NUM
+gap	. 	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	inaccuracy	NN
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	does	VPRT EMPH
+gap	 	
+word	state	PUBV INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	assumption	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	gradient	NN
+gap	 	
+word	remains	VPRT
+gap	 	
+word	constant	JJ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	keeping	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	scientific	JJ
+gap	 	
+word	procedure	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	professor	NN
+gap	 	
+word	develops	VPRT
+gap	 	
+word	and	CCONJ
+gap	 	
+word	counter	JJ
+gap	 	
+word	theories	NN
+gap	 	
+word	expressed	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	expected	PRIV
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	true	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	internal	JJ
+gap	 	
+word	heat	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	such	JJ
+gap	 	
+word	magnitude	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	indeed	RB
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	unpredictable	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	explosive	JJ
+gap	 	
+word	consequences	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	other	JJ
+gap	 	
+word	avenues	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	explored	
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	professor	NN
+gap	 	
+word	disputes	VPRT
+gap	 	
+word	even	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	internal	JJ
+gap	 	
+word	heat	NN
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	believes	VPRT PRIV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, "	
+word	The	ART CAP DET
+gap	 	
+word	Earth	CAP NNP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS BYPA AUXB
+gap	 	
+word	heated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	combustion	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	surface	NN
+gap	, 	
+word	that	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	all	QUAN DET
+gap	" 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	heat	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	once	RB TIME
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	held	PRIV
+gap	 	
+word	internally	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	combustion	NOMZ
+gap	 	
+word	must	NEMD SPAU
+gap	 	
+word	now	RB TIME
+gap	 	
+word	have	PEAS SPAU INF
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	dissipated	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	volcanic	JJ
+gap	 	
+word	vents	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	obvious	JJ
+gap	 	
+word	errors	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	but	CCONJ
+gap	 	
+word	again	RB TIME
+gap	, 	
+word	each	QUAN DET
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	presented	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	scientific	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	informed	JJ
+gap	 	
+word	viewpoint	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	know	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	heat	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	professor	NN
+gap	 	
+word	said	VBD PUBV
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	violent	JJ
+gap	 	
+word	creation	NOMZ
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	now	RB TIME
+gap	 	
+word	known	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	heat	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	formed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	outer	JJ
+gap	 	
+word	regions	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conversion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	kinetic	JJ
+gap	 	
+word	energy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extraterrestrial	JJ
+gap	 	
+word	bodies	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	impact	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	young	JJ
+gap	 	
+word	planet	NN
+gap	 , 	
+word	whilst	OSUB PIN SCONJ PREP
+gap	 	
+word	gravitational	JJ
+gap	 	
+word	energy	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	contraction	NOMZ
+gap	 	
+word	heated	VBD
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	interior	NN
+gap	 	
+word	so	RB
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	vigorous	JJ
+gap	 	
+word	reactions	NOMZ
+gap	 	
+word	mentioned	PUBV WZPAST
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	atmospheric	JJ
+gap	 	
+word	water	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	what	WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	proposes	VPRT SUAV
+gap	 	
+word	composed	
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	surface	NN
+gap	, 	
+word	sodium	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	potassium	NN
+gap	, 	
+word	do	VPRT EMPH
+gap	 	
+word	occur	INF
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	states	VPRT PUBV
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	inaccurate	JJ PRED
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	note	PRIV INF
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	erroneous	JJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	supported	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	claims	VPRT PUBV
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	performed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Humphrey	CAP NNP
+gap	 	
+word	Davy	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	chemist	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	discovered	VBD PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	afore	RB
+gap	 	
+word	mentioned	PUBV
+gap	 	
+word	elements	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	keeping	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	scientific	JJ
+gap	 	
+word	methodology	NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	correct	JJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	saying	PUBV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	depletion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	volcanoes	NN
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	history	NN
+gap	 	
+word	indicates	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	earth	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	cooling	PGAS
+gap	 	
+word	down	PIN STPR PREP
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	slow	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	assumed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	additional	JJ
+gap	 	
+word	heat	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	generated	
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	know	VPRT PRIV
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	decay	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	radioactive	JJ
+gap	 	
+word	isotopes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mantle	NN
+gap	 	
+word	is	VPRT SPAU AUXB
+gap	 	
+word	constantly	RB
+gap	 	
+word	producing	PGAS
+gap	 	
+word	heat	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	goes	VPRT
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	powering	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	solid	JJ
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	convection	NOMZ
+gap	 	
+word	cycle	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	plate	NN
+gap	 	
+word	tectonics	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	professor	NN
+gap	 	
+word	concludes	VPRT PRIV
+gap	, 	
+word	inaccurately	RB
+gap	, "	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	interior	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	globe	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	neither	SYNE CCONJ
+gap	 	
+word	gas	NN
+gap	 	
+word	nor	SYNE CCONJ
+gap	 	
+word	water	NN
+gap	, 	
+word	nor	CCONJ
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	heaviest	JJ SPADJ
+gap	 	
+word	minerals	NN
+gap	 	
+word	known	PRIV
+gap	." 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	know	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	three	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	components	NN
+gap	 	
+word	contribute	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	internal	JJ
+gap	 	
+word	structure	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	mantle	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	predominantly	RB
+gap	 	
+word	peridodite	JJ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	rock	NN
+gap	 	
+word	made	VBD
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	mainly	RB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	silicate	JJ
+gap	 	
+word	minerals	NN
+gap	, 	
+word	pyroxene	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	olivine	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	evidence	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	water	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mantle	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	vapours	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	gases	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	observed	PRIV
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	volcanic	JJ
+gap	 	
+word	eruptions	NOMZ
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	think	VPRT PRIV
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	reading	PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	book	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	remember	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	sole	JJ
+gap	 	
+word	purpose	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	entertain	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	excite	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	facts	NN
+gap	 	
+word	stated	PUBV
+gap	 	
+word	have	VPRT
+gap	 	
+word	scientific	JJ
+gap	 	
+word	support	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	presented	
+gap	 	
+word	have	VPRT
+gap	 	
+word	academic	JJ
+gap	 	
+word	credibility	NOMZ
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	several	QUAN JJ PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	opinion	NN
+gap	, 	
+word	intentional	JJ
+gap	 	
+word	flaws	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	Verne	CAP NNP
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	accurate	JJ PRED
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	describing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	internal	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	inevitably	RB
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	had	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	conclude	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mission	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	impossible	JJ PRED
+gap	. 	
+word	Temperatures	NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	pressures	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	such	JJ
+gap	 	
+word	great	JJ
+gap	 	
+word	magnitude	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	thing	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	molten	JJ
+gap	 	
+word	interior	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	impenetrable	JJ PRED
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	book	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wonderful	JJ
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	geology	NN
+gap	, 	
+word	providing	PGAS
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	insight	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	field	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	means	PRIV NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	substitute	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	day	NN
+gap	 	
+word	text	NN
+gap	 	
+word	books	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	also	RB
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	written	PUBV
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	taken	
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	pinch	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	salt	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	believe	VPRT PRIV
+gap	 	
+word	Verne	CAP NNP
+gap	 	
+word	represented	VBD
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	true	JJ
+gap	 	
+word	feelings	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	voice	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Axel	CAP NNP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	presenting	GER PGAS
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	journey	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	knew	VBD PRIV
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	feat	NN
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	undertaken	
+gap	 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	professor	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	convincing	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	logical	JJ
+gap	 	
+word	arguments	NOMZ
+gap	, 	
+word	persuaded	VBD
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	, 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	and	CCONJ
+gap	 	
+word	no	DET
+gap	 	
+word	budding	PGAS
+gap	 	
+word	geologist	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	turn	INF
+gap	 	
+word	down	PIN PREP
+gap	 	
+word	such	DET
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	adventurous	JJ
+gap	 	
+word	quest	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	.	

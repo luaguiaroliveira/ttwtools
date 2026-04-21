@@ -1,1495 +1,2732 @@
 # filename: LS_Biological_Sciences_Essay_2_6013b_tx.txt
-token	tags
-Malaria	CAP NNP
-can	POMD
-cost	INF
-an	ART DET INDA
-individual	NN
-and	CCONJ
-an	ART DET INDA
-organisation	NOMZ
-in	PIN CONJ PREP
-a	ART DET INDA
-range	NN
-of	PIN PREP
-way	NN
-,	
-from	PIN PREP
-the	ART DET
-obvious	JJ
-financial	JJ
-cost	NN
-to	PIN PREP
-the	ART DET
-cost	NN
-of	PIN PREP
-personal	JJ
-health	NN
-and	CCONJ
-the	ART DET
-not	XX0 RB
-so	RB EMPH
-obvious	JJ
-cost	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-Economical	JJ CAP
-cost	NN
-America	CAP NNP
-spent	VBD
-$	
-42	NUM
-million	NUM
-on	PIN PREP
-research	NN
-for	PIN PREP
-malaria	NN
-in	PIN CONJ PREP
-1993	NUM
-.	
-The	ART CAP DET
-amount	NN
-spent	WZPAST
-on	PIN PREP
-research	NN
-for	PIN PREP
-malaria	NN
-in	PIN CONJ PREP
-2004	NUM
-was	BEMA VBD AUXB
-around	PIN PLACE PREP
-a	ART DET INDA
-billion	NUM
-dollars	NN
-(	
-M.Chirimi	CAP NNP
-2004	NUM
-)	
-.	
-However	RB CONJ CAP
-despite	PIN SCONJ PREP
-all	QUAN DET
-the	ART DET
-money	NN
-that	TSUB WHSUB WH
-has	VPRT PEAS
-been	PASS AUXB
-spent	
-on	PIN PREP
-malaria	NN
-no	SYNE DET
-drug	NN
-has	VPRT PEAS
-been	PASS AUXB
-created	
-that	DEMP WH
-is	VPRT AUXB
-100	NUM
-%	NN
-protective	JJ
-against	PIN PREP
-all	QUAN DET
-the	ART DET
-strains	NN
-of	PIN PREP
-malaria	NN
-and	CCONJ
-there	EX
-still	RB
-remain	VPRT
-some	QUAN DET
-resilient	JJ
-strains	NN
-that	PIN TOBJ SCONJ PREP
-present	JJ
-day	NN
-drugs	NN
-have	VPRT
-no	SYNE DET
-effect	NN
-on	PIN STPR PREP
-.	
-The	ART CAP DET
-amount	NN
-of	PIN PREP
-money	NN
-going	WZPRES PGAS
-on	PIN PREP
-research	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-significantly	RB
-large	JJ
-sum	NN
-,	
-but	CCONJ
-unfortunately	RB
-the	ART DET
-results	NN
-coming	WZPRES PGAS
-out	PIN PREP
-are	VPRT AUXB
-still	RB
-not	XX0 RB
-significant	JJ
-enough	RB
-to	PIN TO PREP
-combat	INF
-malaria	NN
-.	
-However	RB CONJ CAP
-in	PIN CONJ PREP
-the	ART DET
-past	NN
-more	JJ EMPH CMADJ
-money	NN
-has	VPRT PEAS
-been	PASS AUXB
-spent	
-in	PIN CONJ PREP
-other	JJ
-fields	NN
-of	PIN PREP
-medical	JJ
-research	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-cancer	NN
-research	NN
-(	
-the	ART DET
-current	JJ
-amount	NN
-spent	WZPAST
-on	PIN PREP
-cancer	NN
-depends	VPRT
-on	PIN PREP
-the	ART DET
-type	NN
-of	PIN PREP
-cancer	NN
-)	
-,	
-than	PIN PREP
-in	PIN CONJ PREP
-malaria	NN
-research	NN
-.	
-In	PIN CONJ CAP PREP
-1993	NUM
-America	CAP NNP
-spent	VBD
-$	
-2.4	NUM
-billion	NUM
-on	PIN PREP
-research	NN
-into	PIN PREP
-cancer	NN
-and	ANDC CCONJ
-since	OSUB PIN SCONJ PREP
-then	RB
-the	ART DET
-treatment	NOMZ
-methods	NN
-for	PIN PREP
-cancer	NN
-have	VPRT PEAS
-improved	
-.	
-If	COND PIN CAP SCONJ PREP
-more	JJ EMPH CMADJ
-money	NN
-was	BEMA VBD AUXB
-to	PIN TO PREP
-go	INF
-into	PIN PREP
-researching	GER PGAS
-malaria	NN
-then	RB
-it	PIT PRP SBJP
-would	PRMD
-increase	INF
-the	ART DET
-chance	NN
-of	PIN PREP
-finding	PRIV PGAS
-a	ART DET INDA
-cure	NN
-.	
-The	ART CAP DET
-economical	JJ
-cost	NN
-of	PIN PREP
-research	NN
-is	BEMA VPRT AUXB
-significantly	RB
-high	JJ
-,	
-since	OSUB PIN SCONJ PREP
-all	QUAN DET
-the	ART DET
-research	NN
-is	PASS VPRT AUXB
-done	PROD
-in	PIN CONJ PREP
-a	ART DET INDA
-developed	
-country	NN
-and	ANDC CCONJ
-then	RB
-the	ART DET
-products	NN
-are	PASS VPRT AUXB
-shipped	
-to	PIN PREP
-a	ART DET INDA
-developing	GER PGAS
-country	NN
-,	
-it	PIT PRP SBJP
-buts	VPRT
-a	ART DET INDA
-significant	JJ
-strain	NN
-on	PIN PREP
-the	ART DET
-economics	NN
-of	PIN PREP
-a	ART DET INDA
-developing	GER PGAS
-country	NN
-.	
-The	ART CAP DET
-estimated	PRIV
-cost	NN
-of	PIN PREP
-malaria	NN
-for	PIN PREP
-a	ART DET INDA
-developing	GER PGAS
-country	NN
-such	JJ
-as	PIN CONJ PREP
-Africa	CAP NNP
-is	VPRT AUXB
-$	
-1.8	NUM
-billion	NUM
-.	
-Cost	NN CAP
-to	PIN PREP
-the	ART DET
-individual	NN
-In	PIN CONJ CAP PREP
-2001	NUM
-300,000,000	NUM
-people	NN
-where	RB WHSUB SCONJ WH
-infected	
-with	PIN PREP
-malaria	NN
-and	CCONJ
-between	PIN PREP
-1,000,000	NUM
-and	CCONJ
-1500,000	NUM
-people	NN
-died	VBD
-,	
-death	NN
-is	BEMA VPRT AUXB
-then	RB
-the	ART DET
-greatest	JJ SPADJ
-cost	NN
-of	PIN PREP
-malaria	NN
-.	
-Malaria	CAP NNP
-occurs	VPRT
-in	PIN CONJ PREP
-the	ART DET
-3	NUM
-rd	NN
-world	NN
-country	NN
-were	VBD AUXB
-recourses	NN
-are	BEMA VPRT AUXB
-limited	JJ PRED
-and	PHC CCONJ
-most	JJ PRED EMPH SPADJ
-people	NN
-make	VPRT
-a	ART DET INDA
-living	NN
-by	PIN PREP
-working	PGAS
-ever	RB
-hour	NN
-possible	JJ
-,	
-however	RB CONJ
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-become	VPRT
-sick	JJ
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-no	RB
-longer	RB CMADJ
-able	JJ
-to	PIN TO PREP
-work	INF
-so	RB
-there	EX
-family	NN
-losses	VPRT
-one	NUM
-persons	NN
-income	NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-dose	VPRT
-not	XX0 RB
-stop	INF
-there	RB
-other	JJ
-members	NN
-of	PIN PREP
-the	ART DET
-family	NN
-have	VPRT
-to	PIN TO PREP
-take	INF
-time	NN
-off	PIN PREP
-to	PIN TO PREP
-look	INF
-after	PIN PREP
-them	TPP3 PRP SBJP ACCU
-resulting	PGAS
-in	PIN CONJ PREP
-more	JJ EMPH CMADJ
-reduction	NOMZ
-in	PIN CONJ PREP
-further	JJ
-poverty	NN
-.	
-If	COND PIN CAP SCONJ PREP
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-living	PGAS
-in	PIN CONJ PREP
-a	ART DET INDA
-country	NN
-infected	WZPAST
-with	PIN PREP
-malaria	NN
-then	RB
-there	EX
-are	VPRT AUXB
-several	QUAN JJ
-different	JJ
-types	NN
-of	PIN PREP
-malaria	NN
-and	CCONJ
-different	JJ
-times	NN
-when	RB WHOBJ SCONJ WH
-you	SPP2 PRP SBJP
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-be	BEMA AUXB INF
-susceptible	JJ PRED
-to	PIN PREP
-contracting	GER
-malaria	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-night	NN
-biting	WZPRES PGAS
-mosquitoes	NN
-that	TSUB WHSUB WH
-transmit	VPRT
-Japanese	JJ CAP
-encephalitis	NN
-this	DEMO DET
-form	NN
-has	VPRT
-a	ART DET INDA
-working	PGAS
-vaccine	NN
-and	CCONJ
-cost	VBD
-an	ART DET INDA
-individual	NN
-approximately	RB
-£	
-25	NUM
-a	ART DET INDA
-dose	NN
-,	
-however	RB CONJ
-one	NUM
-dose	NN
-will	PRMD SPAU
-not	XX0 RB
-permanently	RB
-protect	INF
-you	SPP2 PRP SBJP
-,	
-so	RB
-you	SPP2 PRP SBJP
-will	PRMD SPAU
-continuously	RB
-be	AUXB INF
-paying	PGAS
-out	PIN PREP
-on	PIN PREP
-a	ART DET INDA
-monthly	JJ
-base	NN
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-expensive	JJ
-cost	NN
-to	PIN PREP
-an	ART DET INDA
-individual	NN
-comes	VPRT
-from	PIN PREP
-the	ART DET
-day	NN
-biting	WZPRES PGAS
-mosquito	NN
-which	WHOBJ DET WH
-in	PIN CONJ PREP
-some	QUAN DET
-parts	NN
-of	PIN PREP
-the	ART DET
-world	NN
-transmits	VPRT
-dengue	JJ
-fever	NN
-,	
-and	ANDC CCONJ
-as	PIN CONJ PREP
-of	PIN PREP
-yet	CCONJ
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-cure	NN
-or	CCONJ
-vaccine	NN
-against	PIN PREP
-this	DEMP DET
-,	
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-risk	NN
-of	PIN PREP
-catching	PGAS
-this	DEMO DET
-all	QUAN DET
-year	NN
-round	RB
-but	CCONJ
-the	ART DET
-highest	JJ SPADJ
-period	NN
-of	PIN PREP
-catching	PGAS
-dengue	JJ
-fever	NN
-is	BEMA VPRT AUXB
-just	RB EMPH
-after	PIN PREP
-the	ART DET
-rainy	JJ
-season	NN
-.	
-The	ART CAP DET
-cost	NN
-to	PIN PREP
-the	ART DET
-individual	NN
-then	RB
-varies	VPRT
-depending	PGAS
-on	PIN PREP
-were	VBD AUXB
-they	TPP3 PRP SBJP
-live	VPRT
-,	
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-an	ART DET INDA
-area	NN
-where	RB WHOBJ SCONJ WH
-vaccines	NN
-work	VPRT
-then	RB
-the	ART DET
-cost	NN
-to	PIN TO PREP
-then	RB
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-money	NN
-,	
-only	DWNT RB
-when	RB WHQU SCONJ WH
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-afford	INF
-it	PIT PRP SBJP
-dose	INF
-the	ART DET
-cost	NN
-become	VPRT
-there	RB
-life	NN
-.	
-However	RB CONJ CAP
-for	PIN PREP
-people	NN
-living	WZPRES PGAS
-in	PIN CONJ PREP
-areas	NN
-were	BEMA VBD AUXB
-dengue	JJ
-fever	NN
-and	CCONJ
-any	QUAN DET
-other	JJ
-resilient	JJ
-strain	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-high	JJ
-risk	NN
-then	RB
-the	ART DET
-cost	NN
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-will	PRMD
-be	AUXB INF
-there	RB
-health	NN
-and	CCONJ
-or	CCONJ
-there	RB
-life	NN
-.	
-Indisputably	RB CAP
-this	DEMP DET
-is	BEMA VPRT AUXB
-to	PIN PREP
-greater	JJ CMADJ
-price	NN
-to	PIN TO PREP
-ask	SUAV INF
-people	NN
-to	PIN TO PREP
-pay	INF
-,	
-and	ANDC CCONJ
-research	NN
-should	NEMD SPAU
-then	RB
-persist	INF
-to	PIN TO PREP
-try	INF
-and	PHC CCONJ
-find	PRIV INF
-a	ART DET INDA
-cure	NN
-or	CCONJ
-vaccine	NN
-against	PIN PREP
-all	QUAN DET
-strains	NN
-of	PIN PREP
-malaria	NN
-.	
-Environmental	JJ CAP
-Cost	NN CAP
-The	ART CAP DET
-cost	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-is	BEMA VPRT AUXB
-an	ART DET INDA
-indirect	JJ
-cost	NN
-of	PIN PREP
-malaria	NN
-,	
-malaria	NNP
-itself	PIT PRP SBJP ACCU
-causes	VPRT
-no	SYNE DET
-damage	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-but	CCONJ
-people	NN
-'s	
-actions	NOMZ
-in	PIN CONJ PREP
-preventing	GER PGAS
-malaria	NN
-have	VPRT
-.	
-The	ART CAP DET
-pesticide	NN
-DDT	NN CAP
-was	BEMA VBD AUXB
-a	ART DET INDA
-very	AMP RB
-effective	JJ
-pesticide	NN
-but	CCONJ
-the	ART DET
-consequences	NN
-of	PIN PREP
-DDT	CAP NNP
-were	VBD AUXB
-server	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-Another	CAP DET
-approach	NN
-was	BEMA VBD AUXB
-to	PIN TO PREP
-swamp	INF
-Mashes	NN CAP
-with	PIN PREP
-paraffin	NN
-in	PIN CONJ PREP
-the	ART DET
-attempt	NN
-to	PIN TO PREP
-kill	INF
-anopheles	NN
-larvae	NN
-(	
-Forum	CAP NNP
-.	
-F	CAP NNP
-,	
-2003	NUM
-)	
-.	
-DDT	CAP NNP
-provided	VBD
-a	ART DET INDA
-complete	JJ
-eradication	NOMZ
-of	PIN PREP
-malaria	NN
-in	PIN CONJ PREP
-some	QUAN DET
-parts	NN
-of	PIN PREP
-Africa	CAP NNP
-,	
-but	CCONJ
-it	PIT PRP SBJP
-provided	VBD
-us	FPP1 PRP SBJP ACCU
-with	PIN PREP
-another	DET
-problem	NN
-.	
-DDT	CAP NNP
-was	VBD AUXB
-beginning	PGAS
-to	PIN TO PREP
-effect	INF
-fish	NN
-and	CCONJ
-was	VBD SPAU AUXB
-gradually	RB
-making	PGAS
-its	PIT PRP SBJP
-way	NN
-up	PIN PREP
-the	ART DET
-food	NN
-chain	NN
-until	PIN PREP
-it	PIT PRP SBJP
-started	VBD
-to	PIN TO PREP
-effect	INF
-bird	NN
-populations	NOMZ
-.	
-This	DEMP CAP DET
-approaches	VPRT
-to	PIN TO PREP
-prevent	INF
-malaria	NN
-had	VBD
-creating	PGAS
-a	ART DET INDA
-far	RB PLACE
-greater	JJ CMADJ
-problem	NN
-than	PIN PREP
-malaria	JJ
-.	
-The	ART CAP DET
-effects	NN
-DDT	CAP NNP
-had	VBD PEAS
-were	PASS VBD SPAU AUXB
-not	XX0 RB
-seen	PRIV
-for	PIN PREP
-a	ART DET INDA
-few	QUAN JJ
-years	NN
-after	PIN PREP
-use	NN
-but	CCONJ
-they	TPP3 PRP SBJP
-caused	VBD
-an	ART DET INDA
-entire	JJ
-population	NOMZ
-of	PIN PREP
-birds	NN
-too	RB
-decline	NN
-.	
-What	CAP WH
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-find	VPRT PRIV
-a	ART DET INDA
-cure	NN
-to	PIN PREP
-malaria	NN
-that	TSUB WHSUB WH
-turns	VPRT
-out	PIN PREP
-to	PIN TO PREP
-have	INF
-devastating	JJ
-effects	NN
-on	PIN PREP
-the	ART DET
-earth	NN
-,	
-is	VPRT AUXB
-sacrificing	GER PGAS
-part	NN
-of	PIN PREP
-the	ART DET
-environment	NOMZ
-a	ART DET INDA
-fair	JJ
-cost	NN
-?	QUES
-Should	NEMD CAP
-we	FPP1 PRP SBJP
-then	RB
-restrict	INF
-the	ART DET
-research	NN
-to	PIN PREP
-medical	JJ
-approach	NN
-rather	RB
-than	PIN PREP
-a	ART DET INDA
-direct	JJ
-approach	NN
-at	PIN PREP
-the	ART DET
-mosquitoes	NN
-,	
-so	PIN SCONJ PREP
-as	PIN CONJ PREP
-to	PIN TO PREP
-limit	INF
-the	ART DET
-amount	NN
-of	PIN PREP
-damage	NN
-that	TSUB WHSUB WH
-could	POMD
-be	PASS AUXB INF
-done	PROD
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-?	QUES
-Is	VPRT AUXB CAP
-it	PIT PRP SBJP
-ethical	JJ
-to	PIN TO PREP
-give	INF
-up	PIN PREP
-research	NN
-on	PIN PREP
-malaria	NN
-?	QUES
-The	ART CAP DET
-ethical	JJ
-aspect	NN
-of	PIN PREP
-treating	PGAS
-malaria	NN
-can	POMD
-be	PASS AUXB INF
-viewed	
-from	PIN PREP
-two	NUM
-different	JJ
-perspectives	NN
-Egocentric	JJ CAP
-and	PHC CCONJ
-altruistic	JJ
-.	
-Not	XX0 RB CAP
-treating	PGAS
-malaria	NN
-meant	VBD PRIV
-the	ART DET
-3	NUM
-rd	NN
-world	NN
-populations	NOMZ
-remain	VPRT
-at	PIN PREP
-a	ART DET INDA
-low	JJ
-level	NN
-.	
-However	RB CONJ CAP
-Parts	CAP NNP
-of	PIN PREP
-the	ART DET
-3	NUM
-rd	NN
-world	NN
-were	BEMA VBD AUXB
-malaria	JJ PRED
-had	VBD PEAS
-been	PASS AUXB
-treated	
-the	ART DET
-population	NOMZ
-grew	VBD
-,	
-which	SERE DET WH
-caused	VBD
-a	ART DET INDA
-decline	NN
-in	PIN CONJ PREP
-the	ART DET
-economical	JJ
-development	NOMZ
-of	PIN PREP
-the	ART DET
-country	NN
-(	
-E.J.Cohn	CAP NNP
-1972	NUM
-)	
-.	
-Should	NEMD CAP
-we	FPP1 PRP SBJP
-then	RB
-not	XX0 RB
-bother	INF
-to	PIN TO PREP
-develop	INF
-new	JJ
-treatment	NOMZ
-?	QUES
-If	COND PIN CAP SCONJ PREP
-new	JJ
-treatments	NOMZ
-where	RB WHSUB SCONJ WH
-developed	
-then	RB
-would	PRMD
-it	PIT PRP SBJP
-be	BEMA AUXB INF
-ethical	JJ PRED
-to	PIN TO PREP
-cure	INF
-someone	QUPR INPR
-and	CCONJ
-let	INF
-them	TPP3 PRP SBJP ACCU
-live	INF
-a	ART DET INDA
-life	NN
-of	PIN PREP
-poverty	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-country	NN
-that	TSUB WHSUB WH
-would	PRMD
-be	BEMA AUXB INF
-on	PIN PREP
-the	ART DET
-brink	NN
-of	PIN PREP
-economical	JJ
-collapse	NN
-,	
-this	DEMO DET
-view	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-country	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-important	JJ
-than	PIN PREP
-the	ART DET
-individual	NN
-is	VPRT AUXB
-very	AMP RB
-much	QUAN RB
-an	ART DET INDA
-altruistic	JJ
-view	NN
-.	
-Then	RB CAP
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-is	VPRT AUXB
-it	PIT PRP SBJP
-ethical	JJ
-to	PIN TO PREP
-stop	INF
-research	NN
-just	RB EMPH
-so	RB
-there	EX
-would	PRMD
-be	BEMA AUXB INF
-enough	JJ
-money	NN
-and	PHC CCONJ
-jobs	NN
-to	PIN TO PREP
-go	INF
-around	RB PLACE
-?	QUES
-Each	QUAN CAP DET
-individual	NN
-has	VPRT
-the	ART DET
-right	NN
-to	PIN PREP
-existence	NN
-.	
-It	PIT CAP PRP SBJP
-would	PRMD
-seam	INF
-that	PIN DEMO SCONJ PREP
-at	PIN PREP
-current	JJ
-what	WH
-ever	RB
-path	NN
-is	PASS VPRT AUXB
-taken	
-the	ART DET
-out	PIN PREP NNP
-come	NN
-will	PRMD
-be	BEMA AUXB INF
-unethical	JJ PRED
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-immoral	JJ
-part	NN
-of	PIN PREP
-this	DEMO DET
-paradox	NN
-is	VPRT AUXB
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-making	PGAS
-money	NN
-and	CCONJ
-not	XX0 RB
-human	JJ
-life	NN
-.	
-Should	NEMD CAP
-it	PIT PRP SBJP
-be	PASS AUXB INF
-decided	PRIV SUAV
-to	PIN TO PREP
-continue	INF
-with	PIN PREP
-developing	GER PGAS
-drugs	NN
-against	PIN PREP
-malaria	NN
-and	CCONJ
-administrating	GER PGAS
-them	TPP3 PRP SBJP ACCU
-to	PIN PREP
-the	ART DET
-3	NUM
-rd	NN
-world	NN
-countries	NN
-,	
-we	FPP1 PRP SBJP
-are	PASS VPRT SPAU AUXB
-then	RB
-faced	
-with	PIN PREP
-the	ART DET
-problem	NN
-of	PIN PREP
-how	RB SCONJ WH
-to	PIN TO PREP
-inshore	PLACE INF
-that	PIN DEMO SCONJ PREP
-treatment	NOMZ
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-stopped	
-prematurely	RB
-.	
-If	COND PIN CAP SCONJ PREP
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-prevented	
-in	PIN CONJ PREP
-administrating	GER PGAS
-it	PIT PRP SBJP
-then	RB
-that	DEMO DET
-country	NN
-would	PRMD
-be	BEMA AUXB INF
-vulnerable	JJ PRED
-to	PIN PREP
-malaria	NN
-,	
-the	ART DET
-natural	JJ
-immunity	NOMZ
-that	TSUB WHSUB WH
-may	POMD SPAU
-once	RB TIME
-have	PEAS INF
-existed	
-would	PRMD SPAU
-no	RB
-longer	RB
-be	BEMA AUXB INF
-present	JJ PRED
-within	PIN PREP
-the	ART DET
-population	NOMZ
-and	CCONJ
-an	ART DET INDA
-endemic	NN
-would	PRMD
-occur	INF
-.	
-A	ART CAP DET INDA
-simple	JJ
-thing	NN
-like	PIN PREP
-a	ART DET INDA
-change	NN
-within	PIN PREP
-the	ART DET
-government	NOMZ
-could	POMD
-result	INF
-in	PIN CONJ PREP
-the	ART DET
-prevention	NOMZ
-of	PIN PREP
-administrating	GER PGAS
-the	ART DET
-drugs	NN
-,	
-or	CCONJ
-inflation	NOMZ
-within	PIN PREP
-prices	NN
-could	POMD SPAU
-just	RB EMPH
-make	INF
-it	PIT PRP SBJP
-to	PIN TO PREP
-expensive	INF
-for	PIN PREP
-that	DEMO DET
-country	NN
-to	PIN TO PREP
-continue	INF
-buying	PGAS
-them	TPP3 PRP SBJP ACCU
-.	
-Once	PIN TIME CAP SCONJ PREP
-it	PIT PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-decided	PRIV SUAV
-that	PIN THVC SCONJ PREP
-research	NN
-into	PIN PREP
-preventing	GER PGAS
-malaria	NN
-should	NEMD
-go	INF
-ahead	RB PLACE
-,	
-should	NEMD
-we	FPP1 PRP SBJP
-be	AUXB INF
-restricting	GER PGAS
-the	ART DET
-methods	NN
-used	WZPAST
-in	PIN CONJ PREP
-combating	PGAS
-malaria	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-current	JJ
-proposed	SUAV
-ways	NN
-of	PIN PREP
-overcoming	GER PGAS
-malaria	NN
-is	BEMA VPRT AUXB
-the	ART DET
-complete	JJ
-annihilation	NOMZ
-of	PIN PREP
-mosquitoes	NN
-,	
-but	CCONJ
-do	VPRT PROD
-we	FPP1 PRP SBJP
-have	INF
-the	ART DET
-right	NN
-to	PIN TO PREP
-extinguish	INF
-an	ART DET INDA
-entire	JJ
-species	NN
-to	PIN TO PREP
-save	INF
-lives	NN
-?	QUES
-This	DEMP CAP DET
-was	BEMA VBD AUXB
-the	ART DET
-approach	NN
-taken	WZPAST
-in	PIN CONJ PREP
-Africa	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-1950	NUM
-'s	
-they	TPP3 PRP SBJP
-used	VBD
-DDT	CAP NNP
-to	PIN TO PREP
-try	INF
-and	PHC CCONJ
-eradicate	INF
-mosquitoes	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-reduced	VBD
-the	ART DET
-death	NN
-rates	NN
-of	PIN PREP
-malaria	NN
-by	PIN PREP
-70	NUM
-%	NN
-(	
-J.	CAP NNP
-S.	CAP NNP
-Shikwati	CAP NNP
-2003	NUM
-)	
-However	RB CONJ CAP
-DDT	CAP NNP
-was	VBD AUXB
-band	NN
-for	PIN PREP
-causing	PGAS
-environmental	JJ
-damage	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-developed	
-countries	NN
-imposed	VBD
-this	DEMO DET
-bane	NN
-onto	PIN PREP
-these	DEMO DET
-countries	NN
-,	
-so	PIN SCONJ PREP
-it	PIT PRP SBJP
-would	PRMD
-appear	SMP INF
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-already	RB
-have	VPRT PEAS
-restricted	
-research	NN
-away	RB PLACE
-from	PIN PREP
-a	ART DET INDA
-potential	JJ
-cure	NN
-to	PIN TO PREP
-save	INF
-another	DET
-species	NN
-,	
-which	SERE DET WH
-some	QUAN DET
-people	NN
-claim	VPRT PUBV
-as	PIN CONJ PREP
-being	BEMA AUXB
-a	ART DET INDA
-noble	JJ
-act	NN
-.	
-However	RB CONJ CAP
-this	DEMO DET
-then	RB
-means	VPRT PRIV THATD
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-again	RB TIME
-reliant	JJ
-on	PIN PREP
-the	ART DET
-drugs	NN
-manufactured	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-developed	
-countries	NN
-,	
-which	SERE DET WH
-we	FPP1 PRP SBJP
-then	RB
-charge	VPRT
-them	TPP3 PRP SBJP ACCU
-a	ART DET INDA
-fortune	NN
-for	PIN STPR PREP
-.	
-We	FPP1 CAP PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-then	RB
-tell	INF
-them	TPP3 PRP SBJP ACCU
-we	FPP1 PRP SBJP
-are	VPRT SPAU AUXB
-no	RB
-longer	RB CMADJ
-going	PGAS
-to	PIN TO PREP
-research	INF
-treatments	NOMZ
-for	PIN PREP
-malaria	NN
-,	
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-allowed	SUAV
-to	PIN TO PREP
-use	INF
-DDT	NN CAP
-as	PIN CONJ PREP
-a	ART DET INDA
-pesticide	NN
-,	
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-immoral	JJ PRED
-.	
-Research	NN CAP
-should	NEMD
-continue	INF
-into	PIN PREP
-the	ART DET
-treatment	NOMZ
-of	PIN PREP
-malaria	NN
-it	PIT PRP SBJP
-may	POMD SPAU
-just	RB EMPH
-lead	INF
-to	PIN PREP
-the	ART DET
-cure	NN
-.	
-Break	CAP INF
-through	RB PIN PREP
-are	VPRT SPAU AUXB
-still	RB
-being	PASS AUXB
-made	
-in	PIN CONJ PREP
-malaria	NN
-research	NN
-only	DWNT RB
-recently	RB TIME
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-discovered	PRIV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-gene	NN
-on	PIN PREP
-chromosome	NN
-7	NUM
-of	PIN PREP
-Plasmodium	CAP NNP
-falciparum	NN
-is	BEMA VPRT AUXB
-responsible	JJ PRED
-for	PIN PREP
-the	ART DET
-resistant	JJ
-strain	NN
-of	PIN PREP
-malaria	NN
-,	
-work	NN
-has	VPRT PEAS
-began	
-on	PIN PREP
-the	ART DET
-modification	NOMZ
-of	PIN PREP
-the	ART DET
-drug	NN
-chloroquine	NN
-so	PIN SCONJ PREP
-as	PIN CONJ PREP
-to	PIN TO PREP
-combat	INF
-the	ART DET
-resistant	JJ
-form	NN
-(	
-C.	CAP NNP
-Ward	CAP NNP
-2004	NUM
-)	
-.	
-If	COND PIN CAP SCONJ PREP
-we	FPP1 PRP SBJP
-stop	VPRT
-research	NN
-how	RB WHOBJ SCONJ WH
-many	QUAN JJ
-people	NN
-are	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-die	INF
-?	QUES
-The	ART CAP DET
-success	NN
-of	PIN PREP
-the	ART DET
-drugs	NN
-to	PIN PREP
-data	NN
-has	VPRT PEAS SPAU
-not	XX0 RB
-been	BEMA AUXB
-astounding	JJ PRED
-,	
-but	CCONJ
-the	ART DET
-drugs	NN
-of	PIN PREP
-the	ART DET
-future	NN
-could	POMD
-be	AUXB INF
-far	RB PLACE
-more	RB EMPH CMADJ
-successful	JJ
-,	
-how	RB WHQU SCONJ WH
-will	PRMD
-we	FPP1 PRP SBJP
-know	PRIV INF
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-try	INF
-?	QUES
+type	content	tags
+word	Malaria	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	cost	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	individual	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	organisation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	range	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	way	NN
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	obvious	JJ
+gap	 	
+word	financial	JJ
+gap	 	
+word	cost	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cost	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	personal	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	obvious	JJ
+gap	 	
+word	cost	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	Economical	JJ CAP
+gap	 	
+word	cost	NN
+gap	 	
+word	America	CAP NNP
+gap	 	
+word	spent	VBD
+gap	 $42 	
+word	million	NUM
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	research	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	malaria	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1993. 	
+word	The	ART CAP DET
+gap	 	
+word	amount	NN
+gap	 	
+word	spent	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	research	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	malaria	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 2004 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	billion	NUM
+gap	 	
+word	dollars	NN
+gap	 (	
+word	M	
+gap	.	
+word	Chirimi	
+gap	 2004). 	
+word	However	
+gap	 	
+word	despite	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	money	
+gap	 	
+word	that	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	spent	
+gap	 	
+word	on	
+gap	 	
+word	malaria	
+gap	 	
+word	no	
+gap	 	
+word	drug	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	created	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 100% 	
+word	protective	
+gap	 	
+word	against	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	strains	
+gap	 	
+word	of	
+gap	 	
+word	malaria	
+gap	 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	still	
+gap	 	
+word	remain	
+gap	 	
+word	some	
+gap	 	
+word	resilient	
+gap	 	
+word	strains	
+gap	 	
+word	that	
+gap	 	
+word	present	
+gap	 	
+word	day	
+gap	 	
+word	drugs	
+gap	 	
+word	have	
+gap	 	
+word	no	
+gap	 	
+word	effect	
+gap	 	
+word	on	
+gap	. 	
+word	The	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	money	
+gap	 	
+word	going	
+gap	 	
+word	on	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	significantly	
+gap	 	
+word	large	
+gap	 	
+word	sum	
+gap	, 	
+word	but	
+gap	 	
+word	unfortunately	
+gap	 	
+word	the	
+gap	 	
+word	results	
+gap	 	
+word	coming	
+gap	 	
+word	out	
+gap	 	
+word	are	
+gap	 	
+word	still	
+gap	 	
+word	not	
+gap	 	
+word	significant	
+gap	 	
+word	enough	
+gap	 	
+word	to	
+gap	 	
+word	combat	
+gap	 	
+word	malaria	
+gap	. 	
+word	However	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	 	
+word	more	
+gap	 	
+word	money	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	spent	
+gap	 	
+word	in	
+gap	 	
+word	other	
+gap	 	
+word	fields	
+gap	 	
+word	of	
+gap	 	
+word	medical	
+gap	 	
+word	research	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	cancer	
+gap	 	
+word	research	
+gap	 (	
+word	the	
+gap	 	
+word	current	
+gap	 	
+word	amount	
+gap	 	
+word	spent	
+gap	 	
+word	on	
+gap	 	
+word	cancer	
+gap	 	
+word	depends	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	cancer	
+gap	), 	
+word	than	
+gap	 	
+word	in	
+gap	 	
+word	malaria	
+gap	 	
+word	research	
+gap	. 	
+word	In	
+gap	 1993 	
+word	America	
+gap	 	
+word	spent	
+gap	 $2.4 	
+word	billion	
+gap	 	
+word	on	
+gap	 	
+word	research	
+gap	 	
+word	into	
+gap	 	
+word	cancer	
+gap	 	
+word	and	
+gap	 	
+word	since	
+gap	 	
+word	then	
+gap	 	
+word	the	
+gap	 	
+word	treatment	
+gap	 	
+word	methods	
+gap	 	
+word	for	
+gap	 	
+word	cancer	
+gap	 	
+word	have	
+gap	 	
+word	improved	
+gap	. 	
+word	If	
+gap	 	
+word	more	
+gap	 	
+word	money	
+gap	 	
+word	was	
+gap	 	
+word	to	
+gap	 	
+word	go	
+gap	 	
+word	into	
+gap	 	
+word	researching	
+gap	 	
+word	malaria	
+gap	 	
+word	then	
+gap	 	
+word	it	
+gap	 	
+word	would	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	chance	
+gap	 	
+word	of	
+gap	 	
+word	finding	
+gap	 	
+word	a	
+gap	 	
+word	cure	
+gap	. 	
+word	The	
+gap	 	
+word	economical	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	significantly	
+gap	 	
+word	high	
+gap	, 	
+word	since	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	done	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	developed	
+gap	 	
+word	country	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	the	
+gap	 	
+word	products	
+gap	 	
+word	are	
+gap	 	
+word	shipped	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	developing	
+gap	 	
+word	country	
+gap	, 	
+word	it	
+gap	 	
+word	buts	
+gap	 	
+word	a	
+gap	 	
+word	significant	
+gap	 	
+word	strain	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	economics	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	developing	
+gap	 	
+word	country	
+gap	. 	
+word	The	
+gap	 	
+word	estimated	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	malaria	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	developing	
+gap	 	
+word	country	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	Africa	
+gap	 	
+word	is	
+gap	 $1.8 	
+word	billion	
+gap	. 	
+word	Cost	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	individual	
+gap	 	
+word	In	
+gap	 2001 300,000,000 	
+word	people	
+gap	 	
+word	where	
+gap	 	
+word	infected	
+gap	 	
+word	with	
+gap	 	
+word	malaria	
+gap	 	
+word	and	
+gap	 	
+word	between	
+gap	 1,000,000 	
+word	and	
+gap	 1500,000 	
+word	people	
+gap	 	
+word	died	
+gap	, 	
+word	death	
+gap	 	
+word	is	
+gap	 	
+word	then	
+gap	 	
+word	the	
+gap	 	
+word	greatest	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	malaria	CAP NNP
+gap	. 	
+word	Malaria	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 3 	
+word	rd	
+gap	 	
+word	world	
+gap	 	
+word	country	
+gap	 	
+word	were	
+gap	 	
+word	recourses	
+gap	 	
+word	are	
+gap	 	
+word	limited	
+gap	 	
+word	and	
+gap	 	
+word	most	
+gap	 	
+word	people	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	living	
+gap	 	
+word	by	
+gap	 	
+word	working	
+gap	 	
+word	ever	
+gap	 	
+word	hour	
+gap	 	
+word	possible	
+gap	, 	
+word	however	
+gap	 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	become	
+gap	 	
+word	sick	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	no	
+gap	 	
+word	longer	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	work	
+gap	 	
+word	so	
+gap	 	
+word	there	
+gap	 	
+word	family	
+gap	 	
+word	losses	
+gap	 	
+word	one	
+gap	 	
+word	persons	
+gap	 	
+word	income	
+gap	, 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	dose	
+gap	 	
+word	not	
+gap	 	
+word	stop	
+gap	 	
+word	there	
+gap	 	
+word	other	
+gap	 	
+word	members	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	family	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	time	
+gap	 	
+word	off	
+gap	 	
+word	to	
+gap	 	
+word	look	
+gap	 	
+word	after	
+gap	 	
+word	them	
+gap	 	
+word	resulting	
+gap	 	
+word	in	
+gap	 	
+word	more	
+gap	 	
+word	reduction	
+gap	 	
+word	in	
+gap	 	
+word	further	
+gap	 	
+word	poverty	
+gap	. 	
+word	If	
+gap	 	
+word	you	
+gap	 	
+word	are	
+gap	 	
+word	living	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	country	
+gap	 	
+word	infected	
+gap	 	
+word	with	
+gap	 	
+word	malaria	
+gap	 	
+word	then	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	several	
+gap	 	
+word	different	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	malaria	
+gap	 	
+word	and	
+gap	 	
+word	different	
+gap	 	
+word	times	
+gap	 	
+word	when	
+gap	 	
+word	you	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	susceptible	
+gap	 	
+word	to	
+gap	 	
+word	contracting	
+gap	 	
+word	malaria	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	night	
+gap	 	
+word	biting	
+gap	 	
+word	mosquitoes	
+gap	 	
+word	that	
+gap	 	
+word	transmit	
+gap	 	
+word	Japanese	
+gap	 	
+word	encephalitis	
+gap	 	
+word	this	
+gap	 	
+word	form	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	working	
+gap	 	
+word	vaccine	
+gap	 	
+word	and	
+gap	 	
+word	cost	
+gap	 	
+word	an	
+gap	 	
+word	individual	
+gap	 	
+word	approximately	
+gap	 £25 	
+word	a	
+gap	 	
+word	dose	
+gap	, 	
+word	however	
+gap	 	
+word	one	
+gap	 	
+word	dose	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	permanently	
+gap	 	
+word	protect	
+gap	 	
+word	you	
+gap	, 	
+word	so	
+gap	 	
+word	you	
+gap	 	
+word	will	
+gap	 	
+word	continuously	
+gap	 	
+word	be	
+gap	 	
+word	paying	
+gap	 	
+word	out	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	monthly	
+gap	 	
+word	base	
+gap	. 	
+word	The	
+gap	 	
+word	most	
+gap	 	
+word	expensive	
+gap	 	
+word	cost	
+gap	 	
+word	to	
+gap	 	
+word	an	
+gap	 	
+word	individual	
+gap	 	
+word	comes	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	day	
+gap	 	
+word	biting	
+gap	 	
+word	mosquito	
+gap	 	
+word	which	
+gap	 	
+word	in	
+gap	 	
+word	some	
+gap	 	
+word	parts	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 	
+word	transmits	
+gap	 	
+word	dengue	
+gap	 	
+word	fever	
+gap	, 	
+word	and	
+gap	 	
+word	as	
+gap	 	
+word	of	
+gap	 	
+word	yet	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	cure	
+gap	 	
+word	or	
+gap	 	
+word	vaccine	
+gap	 	
+word	against	
+gap	 	
+word	this	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	risk	
+gap	 	
+word	of	
+gap	 	
+word	catching	
+gap	 	
+word	this	
+gap	 	
+word	all	
+gap	 	
+word	year	
+gap	 	
+word	round	
+gap	 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	highest	
+gap	 	
+word	period	
+gap	 	
+word	of	
+gap	 	
+word	catching	
+gap	 	
+word	dengue	
+gap	 	
+word	fever	
+gap	 	
+word	is	
+gap	 	
+word	just	
+gap	 	
+word	after	
+gap	 	
+word	the	
+gap	 	
+word	rainy	
+gap	 	
+word	season	
+gap	. 	
+word	The	
+gap	 	
+word	cost	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	individual	
+gap	 	
+word	then	
+gap	 	
+word	varies	
+gap	 	
+word	depending	
+gap	 	
+word	on	
+gap	 	
+word	were	
+gap	 	
+word	they	
+gap	 	
+word	live	
+gap	, 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	area	
+gap	 	
+word	where	
+gap	 	
+word	vaccines	
+gap	 	
+word	work	
+gap	 	
+word	then	
+gap	 	
+word	the	
+gap	 	
+word	cost	
+gap	 	
+word	to	
+gap	 	
+word	then	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	money	
+gap	, 	
+word	only	
+gap	 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	cannot	
+gap	 	
+word	afford	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	dose	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	cost	NN
+gap	 	
+word	become	VPRT
+gap	 	
+word	there	RB
+gap	 	
+word	life	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	living	WZPRES PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	areas	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	dengue	JJ
+gap	 	
+word	fever	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	resilient	JJ
+gap	 	
+word	strain	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	risk	NN
+gap	 	
+word	then	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	cost	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	there	RB
+gap	 	
+word	health	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	there	RB
+gap	 	
+word	life	NN
+gap	. 	
+word	Indisputably	RB CAP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	price	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ask	SUAV INF
+gap	 	
+word	people	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	pay	INF
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	research	NN
+gap	 	
+word	should	NEMD SPAU
+gap	 	
+word	then	RB
+gap	 	
+word	persist	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	try	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cure	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	vaccine	NN
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	strains	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	malaria	NN
+gap	. 	
+word	Environmental	JJ CAP
+gap	 	
+word	Cost	NN CAP
+gap	 	
+word	The	ART CAP DET
+gap	 	
+word	cost	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	indirect	JJ
+gap	 	
+word	cost	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	malaria	NN
+gap	, 	
+word	malaria	NNP
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	 	
+word	causes	VPRT
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	damage	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	but	CCONJ
+gap	 	
+word	people	NN
+gap	'	
+word	s	
+gap	 	
+word	actions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	preventing	GER PGAS
+gap	 	
+word	malaria	NN
+gap	 	
+word	have	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	pesticide	NN
+gap	 	
+word	DDT	NN CAP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	effective	JJ
+gap	 	
+word	pesticide	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	consequences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	DDT	CAP NNP
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	server	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	Another	CAP DET
+gap	 	
+word	approach	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	swamp	INF
+gap	 	
+word	Mashes	NN CAP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	paraffin	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	kill	INF
+gap	 	
+word	anopheles	NN
+gap	 	
+word	larvae	NN
+gap	 (	
+word	Forum	CAP NNP
+gap	. 	
+word	F	CAP NNP
+gap	, 2003 ). 	
+word	DDT	CAP NNP
+gap	 	
+word	provided	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	complete	JJ
+gap	 	
+word	eradication	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	malaria	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	parts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Africa	CAP NNP
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	provided	VBD
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	another	DET
+gap	 	
+word	problem	NN
+gap	. 	
+word	DDT	CAP NNP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	beginning	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	effect	INF
+gap	 	
+word	fish	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	was	VBD SPAU AUXB
+gap	 	
+word	gradually	RB
+gap	 	
+word	making	PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	way	NN
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	food	NN
+gap	 	
+word	chain	NN
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	started	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	effect	INF
+gap	 	
+word	bird	NN
+gap	 	
+word	populations	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	approaches	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prevent	INF
+gap	 	
+word	malaria	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	creating	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	problem	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	malaria	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	effects	NN
+gap	 	
+word	DDT	CAP NNP
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	seen	PRIV
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	years	NN
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	use	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	caused	VBD
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	entire	JJ
+gap	 	
+word	population	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	birds	NN
+gap	 	
+word	too	RB
+gap	 	
+word	decline	NN
+gap	. 	
+word	What	CAP WH
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	find	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cure	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	malaria	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	turns	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	devastating	JJ
+gap	 	
+word	effects	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	earth	NN
+gap	, 	
+word	is	VPRT AUXB
+gap	 	
+word	sacrificing	GER PGAS
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fair	JJ
+gap	 	
+word	cost	NN
+gap	? 	
+word	Should	NEMD CAP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	then	RB
+gap	 	
+word	restrict	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	research	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	medical	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	rather	RB
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	direct	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mosquitoes	NN
+gap	, 	
+word	so	PIN SCONJ PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	limit	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	damage	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	done	PROD
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	? 	
+word	Is	VPRT AUXB CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	ethical	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	research	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	malaria	NN
+gap	? 	
+word	The	ART CAP DET
+gap	 	
+word	ethical	JJ
+gap	 	
+word	aspect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	treating	PGAS
+gap	 	
+word	malaria	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	viewed	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	different	JJ
+gap	 	
+word	perspectives	NN
+gap	 	
+word	Egocentric	JJ CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	altruistic	JJ
+gap	. 	
+word	Not	XX0 RB CAP
+gap	 	
+word	treating	PGAS
+gap	 	
+word	malaria	NN
+gap	 	
+word	meant	VBD PRIV
+gap	 	
+word	the	ART DET
+gap	 3 	
+word	rd	NN
+gap	 	
+word	world	NN
+gap	 	
+word	populations	NOMZ
+gap	 	
+word	remain	VPRT
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	low	JJ
+gap	 	
+word	level	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	Parts	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 3 	
+word	rd	NN
+gap	 	
+word	world	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	malaria	JJ PRED
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	treated	
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	grew	VBD
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	caused	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	decline	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economical	JJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	country	NN
+gap	 (	
+word	E	
+gap	.	
+word	J	
+gap	.	
+word	Cohn	
+gap	 1972). 	
+word	Should	
+gap	 	
+word	we	
+gap	 	
+word	then	
+gap	 	
+word	not	
+gap	 	
+word	bother	
+gap	 	
+word	to	
+gap	 	
+word	develop	
+gap	 	
+word	new	
+gap	 	
+word	treatment	
+gap	? 	
+word	If	
+gap	 	
+word	new	
+gap	 	
+word	treatments	
+gap	 	
+word	where	
+gap	 	
+word	developed	
+gap	 	
+word	then	
+gap	 	
+word	would	
+gap	 	
+word	it	
+gap	 	
+word	be	
+gap	 	
+word	ethical	
+gap	 	
+word	to	
+gap	 	
+word	cure	
+gap	 	
+word	someone	
+gap	 	
+word	and	
+gap	 	
+word	let	
+gap	 	
+word	them	
+gap	 	
+word	live	
+gap	 	
+word	a	
+gap	 	
+word	life	
+gap	 	
+word	of	
+gap	 	
+word	poverty	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	country	
+gap	 	
+word	that	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	brink	
+gap	 	
+word	of	
+gap	 	
+word	economical	
+gap	 	
+word	collapse	
+gap	, 	
+word	this	
+gap	 	
+word	view	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	country	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	whole	
+gap	 	
+word	is	
+gap	 	
+word	more	
+gap	 	
+word	important	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	individual	
+gap	 	
+word	is	
+gap	 	
+word	very	
+gap	 	
+word	much	
+gap	 	
+word	an	
+gap	 	
+word	altruistic	
+gap	 	
+word	view	
+gap	. 	
+word	Then	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	 	
+word	is	
+gap	 	
+word	it	
+gap	 	
+word	ethical	
+gap	 	
+word	to	
+gap	 	
+word	stop	
+gap	 	
+word	research	
+gap	 	
+word	just	
+gap	 	
+word	so	
+gap	 	
+word	there	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	enough	
+gap	 	
+word	money	
+gap	 	
+word	and	
+gap	 	
+word	jobs	
+gap	 	
+word	to	
+gap	 	
+word	go	
+gap	 	
+word	around	
+gap	? 	
+word	Each	
+gap	 	
+word	individual	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	to	
+gap	 	
+word	existence	
+gap	. 	
+word	It	
+gap	 	
+word	would	
+gap	 	
+word	seam	
+gap	 	
+word	that	
+gap	 	
+word	at	
+gap	 	
+word	current	
+gap	 	
+word	what	
+gap	 	
+word	ever	
+gap	 	
+word	path	
+gap	 	
+word	is	
+gap	 	
+word	taken	
+gap	 	
+word	the	
+gap	 	
+word	out	
+gap	 	
+word	come	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	unethical	
+gap	. 	
+word	The	
+gap	 	
+word	most	
+gap	 	
+word	immoral	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	paradox	
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	concerned	
+gap	 	
+word	with	
+gap	 	
+word	making	
+gap	 	
+word	money	
+gap	 	
+word	and	
+gap	 	
+word	not	
+gap	 	
+word	human	
+gap	 	
+word	life	
+gap	. 	
+word	Should	
+gap	 	
+word	it	
+gap	 	
+word	be	
+gap	 	
+word	decided	
+gap	 	
+word	to	
+gap	 	
+word	continue	
+gap	 	
+word	with	
+gap	 	
+word	developing	
+gap	 	
+word	drugs	
+gap	 	
+word	against	
+gap	 	
+word	malaria	
+gap	 	
+word	and	
+gap	 	
+word	administrating	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 3 	
+word	rd	
+gap	 	
+word	world	
+gap	 	
+word	countries	
+gap	, 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	then	
+gap	 	
+word	faced	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	 	
+word	of	
+gap	 	
+word	how	
+gap	 	
+word	to	
+gap	 	
+word	inshore	
+gap	 	
+word	that	
+gap	 	
+word	treatment	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	stopped	
+gap	 	
+word	prematurely	
+gap	. 	
+word	If	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	prevented	
+gap	 	
+word	in	
+gap	 	
+word	administrating	
+gap	 	
+word	it	
+gap	 	
+word	then	
+gap	 	
+word	that	
+gap	 	
+word	country	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	vulnerable	
+gap	 	
+word	to	
+gap	 	
+word	malaria	
+gap	, 	
+word	the	
+gap	 	
+word	natural	
+gap	 	
+word	immunity	
+gap	 	
+word	that	
+gap	 	
+word	may	
+gap	 	
+word	once	
+gap	 	
+word	have	
+gap	 	
+word	existed	
+gap	 	
+word	would	
+gap	 	
+word	no	
+gap	 	
+word	longer	
+gap	 	
+word	be	
+gap	 	
+word	present	
+gap	 	
+word	within	
+gap	 	
+word	the	
+gap	 	
+word	population	
+gap	 	
+word	and	
+gap	 	
+word	an	
+gap	 	
+word	endemic	
+gap	 	
+word	would	
+gap	 	
+word	occur	
+gap	. 	
+word	A	
+gap	 	
+word	simple	
+gap	 	
+word	thing	
+gap	 	
+word	like	
+gap	 	
+word	a	
+gap	 	
+word	change	
+gap	 	
+word	within	
+gap	 	
+word	the	
+gap	 	
+word	government	
+gap	 	
+word	could	
+gap	 	
+word	result	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	prevention	
+gap	 	
+word	of	
+gap	 	
+word	administrating	
+gap	 	
+word	the	
+gap	 	
+word	drugs	
+gap	, 	
+word	or	
+gap	 	
+word	inflation	
+gap	 	
+word	within	
+gap	 	
+word	prices	
+gap	 	
+word	could	
+gap	 	
+word	just	
+gap	 	
+word	make	
+gap	 	
+word	it	
+gap	 	
+word	to	
+gap	 	
+word	expensive	
+gap	 	
+word	for	
+gap	 	
+word	that	
+gap	 	
+word	country	
+gap	 	
+word	to	
+gap	 	
+word	continue	
+gap	 	
+word	buying	
+gap	 	
+word	them	
+gap	. 	
+word	Once	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	decided	
+gap	 	
+word	that	
+gap	 	
+word	research	
+gap	 	
+word	into	
+gap	 	
+word	preventing	
+gap	 	
+word	malaria	
+gap	 	
+word	should	
+gap	 	
+word	go	
+gap	 	
+word	ahead	
+gap	, 	
+word	should	
+gap	 	
+word	we	
+gap	 	
+word	be	
+gap	 	
+word	restricting	
+gap	 	
+word	the	
+gap	 	
+word	methods	
+gap	 	
+word	used	
+gap	 	
+word	in	
+gap	 	
+word	combating	
+gap	 	
+word	malaria	
+gap	. 	
+word	One	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	current	
+gap	 	
+word	proposed	
+gap	 	
+word	ways	
+gap	 	
+word	of	
+gap	 	
+word	overcoming	
+gap	 	
+word	malaria	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	complete	
+gap	 	
+word	annihilation	
+gap	 	
+word	of	
+gap	 	
+word	mosquitoes	
+gap	, 	
+word	but	
+gap	 	
+word	do	
+gap	 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	to	
+gap	 	
+word	extinguish	
+gap	 	
+word	an	
+gap	 	
+word	entire	
+gap	 	
+word	species	
+gap	 	
+word	to	
+gap	 	
+word	save	
+gap	 	
+word	lives	
+gap	? 	
+word	This	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	approach	
+gap	 	
+word	taken	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Africa	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 1950'	
+word	s	
+gap	 	
+word	they	
+gap	 	
+word	used	
+gap	 	
+word	DDT	
+gap	 	
+word	to	
+gap	 	
+word	try	
+gap	 	
+word	and	
+gap	 	
+word	eradicate	
+gap	 	
+word	mosquitoes	
+gap	, 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	reduced	
+gap	 	
+word	the	
+gap	 	
+word	death	
+gap	 	
+word	rates	
+gap	 	
+word	of	
+gap	 	
+word	malaria	
+gap	 	
+word	by	
+gap	 70% (	
+word	J	
+gap	. 	
+word	S	
+gap	. 	
+word	Shikwati	
+gap	 2003) 	
+word	However	
+gap	 	
+word	DDT	
+gap	 	
+word	was	
+gap	 	
+word	band	
+gap	 	
+word	for	
+gap	 	
+word	causing	
+gap	 	
+word	environmental	
+gap	 	
+word	damage	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	developed	
+gap	 	
+word	countries	
+gap	 	
+word	imposed	
+gap	 	
+word	this	
+gap	 	
+word	bane	
+gap	 	
+word	onto	
+gap	 	
+word	these	
+gap	 	
+word	countries	
+gap	, 	
+word	so	
+gap	 	
+word	it	
+gap	 	
+word	would	
+gap	 	
+word	appear	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	already	
+gap	 	
+word	have	
+gap	 	
+word	restricted	
+gap	 	
+word	research	
+gap	 	
+word	away	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	potential	
+gap	 	
+word	cure	
+gap	 	
+word	to	
+gap	 	
+word	save	
+gap	 	
+word	another	
+gap	 	
+word	species	
+gap	, 	
+word	which	
+gap	 	
+word	some	
+gap	 	
+word	people	
+gap	 	
+word	claim	
+gap	 	
+word	as	
+gap	 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	noble	
+gap	 	
+word	act	
+gap	. 	
+word	However	
+gap	 	
+word	this	
+gap	 	
+word	then	
+gap	 	
+word	means	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	again	
+gap	 	
+word	reliant	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	drugs	
+gap	 	
+word	manufactured	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	developed	
+gap	 	
+word	countries	
+gap	, 	
+word	which	
+gap	 	
+word	we	
+gap	 	
+word	then	
+gap	 	
+word	charge	
+gap	 	
+word	them	
+gap	 	
+word	a	
+gap	 	
+word	fortune	
+gap	 	
+word	for	
+gap	. 	
+word	We	
+gap	 	
+word	can	
+gap	 	
+word	not	
+gap	 	
+word	then	
+gap	 	
+word	tell	
+gap	 	
+word	them	
+gap	 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	no	
+gap	 	
+word	longer	
+gap	 	
+word	going	
+gap	 	
+word	to	
+gap	 	
+word	research	
+gap	 	
+word	treatments	
+gap	 	
+word	for	
+gap	 	
+word	malaria	
+gap	, 	
+word	and	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	allowed	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	DDT	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	pesticide	
+gap	, 	
+word	it	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	immoral	
+gap	. 	
+word	Research	
+gap	 	
+word	should	
+gap	 	
+word	continue	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	treatment	
+gap	 	
+word	of	
+gap	 	
+word	malaria	
+gap	 	
+word	it	
+gap	 	
+word	may	
+gap	 	
+word	just	
+gap	 	
+word	lead	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	cure	
+gap	. 	
+word	Break	
+gap	 	
+word	through	
+gap	 	
+word	are	
+gap	 	
+word	still	
+gap	 	
+word	being	
+gap	 	
+word	made	
+gap	 	
+word	in	
+gap	 	
+word	malaria	
+gap	 	
+word	research	
+gap	 	
+word	only	
+gap	 	
+word	recently	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	discovered	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	gene	
+gap	 	
+word	on	
+gap	 	
+word	chromosome	
+gap	 7 	
+word	of	
+gap	 	
+word	Plasmodium	
+gap	 	
+word	falciparum	
+gap	 	
+word	is	
+gap	 	
+word	responsible	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	resistant	
+gap	 	
+word	strain	
+gap	 	
+word	of	
+gap	 	
+word	malaria	
+gap	, 	
+word	work	
+gap	 	
+word	has	
+gap	 	
+word	began	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	modification	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	drug	
+gap	 	
+word	chloroquine	
+gap	 	
+word	so	
+gap	 	
+word	as	
+gap	 	
+word	to	
+gap	 	
+word	combat	
+gap	 	
+word	the	
+gap	 	
+word	resistant	
+gap	 	
+word	form	
+gap	 (	
+word	C	
+gap	. 	
+word	Ward	
+gap	 2004). 	
+word	If	
+gap	 	
+word	we	
+gap	 	
+word	stop	
+gap	 	
+word	research	
+gap	 	
+word	how	
+gap	 	
+word	many	
+gap	 	
+word	people	
+gap	 	
+word	are	
+gap	 	
+word	going	
+gap	 	
+word	to	
+gap	 	
+word	die	
+gap	? 	
+word	The	
+gap	 	
+word	success	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	drugs	
+gap	 	
+word	to	
+gap	 	
+word	data	
+gap	 	
+word	has	
+gap	 	
+word	not	
+gap	 	
+word	been	
+gap	 	
+word	astounding	
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	drugs	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	far	
+gap	 	
+word	more	
+gap	 	
+word	successful	
+gap	, 	
+word	how	
+gap	 	
+word	will	
+gap	 	
+word	we	
+gap	 	
+word	know	
+gap	 	
+word	if	
+gap	 	
+word	we	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	try	
+gap	?	

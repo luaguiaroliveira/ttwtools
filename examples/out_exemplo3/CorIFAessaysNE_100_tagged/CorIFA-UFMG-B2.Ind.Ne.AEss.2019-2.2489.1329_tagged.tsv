@@ -1,738 +1,1189 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2489.1329.txt
-token	tags
-    	
-In	PIN CONJ CAP PREP
-the	ART DET
-beginning	NN
-of	PIN PREP
-20th	JJ
-century	NN
-,	
-the	ART DET
-medicines	NN
-were	PASS VBD BYPA AUXB
-handcrafted	
-by	PIN PREP
-the	ART DET
-pharmacist	NN
-in	PIN CONJ PREP
-the	ART DET
-apothecary	NN
-.	
-But	CAP CCONJ
-with	PIN PREP
-the	ART DET
-large	JJ
-scale	NN
-of	PIN PREP
-drug	NN
-production	NOMZ
-by	PIN PREP
-the	ART DET
-pharmaceutical	NN
-industries	NN
-,	
-the	ART DET
-pharmacist	NN
-need	VPRT
-to	PIN TO PREP
-discovered	PRIV
-news	NN
-ways	NN
-to	PIN TO PREP
-work	INF
-and	PHC CCONJ
-develop	INF
-others	NN
-skills	NN
-.	
-The	ART CAP DET
-pharmaceutical	JJ
-professional	NN
-has	VPRT PEAS
-changed	
-over	PIN PREP
-the	ART DET
-time	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-United	CAP NNP
-States	PUBV CAP NNP
-,	
-the	ART DET
-crisis	NN
-in	PIN CONJ PREP
-the	ART DET
-profession	NOMZ
-and	CCONJ
-the	ART DET
-loss	NN
-of	PIN PREP
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-health	NN
-care	NN
-were	PASS VBD AUXB
-solved	
-in	PIN CONJ PREP
-the	ART DET
-hospital	NN
-setting	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-that	DEMP DET
-was	PASS VBD AUXB
-emerged	
-the	ART DET
-clinical	JJ
-pharmacy	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-solution	NOMZ
-of	PIN PREP
-this	DEMO DET
-problem	NN
-.	
-From	PIN CAP PREP
-this	DEMP DET
-,	
-the	ART DET
-clinical	JJ
-practice	NN
-of	PIN PREP
-the	ART DET
-pharmacist	NN
-has	VPRT PEAS
-been	PASS AUXB
-developed	
-and	PHC CCONJ
-enhanced	
-to	PIN TO PREP
-guarantee	PUBV INF
-the	ART DET
-effectiveness	NOMZ
-and	CCONJ
-safe	JJ
-the	ART DET
-medication	NOMZ
-use	NN
-(	
-ANGONESI	CAP NNP
-;	
-SEVALHO	CAP NNP
-,	
-2010	NUM
-)	
-.	
- 	
-In	PIN CONJ CAP PREP
-Brazil	CAP NNP
-,	
-the	ART DET
-Federal	CAP NNP
-Council	CAP NNP
-of	PIN PREP
-Pharmacy	CAP NNP
-adopted	VBD
-the	ART DET
-concept	NN
-of	PIN PREP
-Pharmaceutical	CAP NNP
-Care	CAP NNP
-as	PIN CONJ PREP
-a	ART DET INDA
-patient	NN
--	
-centered	
-practice	NN
-(	
-CFF	CAP NNP
-,	
-2013	NUM
-)	
-.	
-This	DEMP CAP DET
-was	PASS VBD BYPA AUXB
-defined	
-by	PIN PREP
-Cipolle	CAP NNP
-,	
-Strand	CAP NNP
-and	PHC CCONJ
-Morley	CAP NNP
-(	
-2012	NUM
-,	
-p.	NN
-45	NUM
-)	
-as	PIN CONJ STPR PREP
-.	
- 	
-Significant	JJ CAP
-changes	NN
-in	PIN CONJ PREP
-demographic	JJ
-and	CCONJ
-morbidity	NOMZ
-and	PHC CCONJ
-mortality	NOMZ
-profiles	NN
-have	VPRT PEAS
-happened	
-during	PIN PREP
-the	ART DET
-last	JJ
-century	NN
-.	
-Fertility	NOMZ CAP
-and	PHC CCONJ
-mortality	NOMZ
-from	PIN PREP
-infectious	JJ
-diseases	NN
-reduced	
-and	CCONJ
-life	NN
-expectancy	NN
-and	PHC CCONJ
-deaths	NN
-from	PIN PREP
-chronic	JJ
-diseases	NN
-increased	VBD
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-aging	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-phenomenon	NN
-that	TSUB WHSUB WH
-happens	VPRT
-in	PIN CONJ PREP
-Brazil	CAP NNP
-and	CCONJ
-worldwide	RB
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-high	JJ
-prevalence	NN
-of	PIN PREP
-multiple	JJ
-and	PHC CCONJ
-noncommunicable	JJ
-chronic	JJ
-diseases	NN
-,	
-causing	PGAS
-to	PIN TO PREP
-increase	INF
-polypharmacy	NN
-and	CCONJ
-complex	JJ
-therapies	NN
-and	CCONJ
-,	
-consequently	RB CONJ
-raising	PGAS
-health	NN
-spending	NN
-(	
-AIOLFI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2015	NUM
-;	
-MARIN	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2016	NUM
-;	
-MELCHIORS	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2007	NUM
-;	
-MODIG	CAP NNP
-,	
-HOLMDAHL	CAP NNP
-,	
-BONDESSON	CAP NNP
-,	
-2016	NUM
-;	
-PEREIRA	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-)	
-.	
-The	ART CAP DET
-high	JJ
-number	NN
-of	PIN PREP
-drugs	NN
-prescribed	
-and	CCONJ
-the	ART DET
-presence	NN
-of	PIN PREP
-multiple	JJ
-morbidities	NN
-lead	VPRT
-to	PIN PREP
-unnecessary	JJ
-drug	NN
-use	NN
-.	
-Pharmacological	JJ CAP
-combinations	NOMZ
-represent	VPRT
-potential	JJ
-risks	NN
-of	PIN PREP
-adverse	JJ
-reactions	NOMZ
-and	PHC CCONJ
-drug	NN
-interactions	NOMZ
-,	
-contraindication	NOMZ
-and	CCONJ
-may	POMD
-increase	INF
-the	ART DET
-risk	NN
-of	PIN PREP
-iatrogenics	NN
-,	
-hospitalizations	NOMZ
-and	PHC CCONJ
-death	NN
-(	
-PEREIRA	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-)	
-.	
-More	JJ EMPH CAP CMADJ
-than	PIN PREP
-700.000	NUM
-individuals	NN
-are	PASS VPRT AUXB
-admitted	PUBV
-to	PIN PREP
-United	CAP NNP
-States	PUBV CAP NNP
-emergency	NN
-unit	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-consequence	NN
-of	PIN PREP
-adverse	JJ
-drug	NN
-events	NN
-(	
-ADE	CAP NNP
-)	
-each	QUAN DET
-year	NN
-.	
-People	NN CAP
-65	NUM
-years	NN
-or	CCONJ
-older	JJ CMADJ
-have	VPRT
-seven	NUM
-times	NN
-risk	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-hospitalized	
-than	PIN PREP
-younger	JJ CMADJ
-people	NN
-.	
-While	OSUB PIN CAP SCONJ PREP
-in	PIN CONJ PREP
-Australia	CAP NNP
-,	
-approximately	RB
-230,000	NUM
-hospitalizations	NOMZ
-are	VPRT AUXB
-medication	NOMZ
--	
-related	PASTP
-per	PIN PREP
-year	NN
-.	
-Up	PIN CAP PREP
-to	PIN PREP
-75	NUM
-of	PIN PREP
-these	DEMO DET
-hospitalizations	NOMZ
-are	PASS VPRT AUXB
-considered	PRIV
-potentially	RB
-preventable	JJ
-(	
-JOKANOVIC	CAP NNP
-,	
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-)	
-.	
- 	
-Various	JJ CAP
-actions	NOMZ
-have	VPRT PEAS
-been	PASS AUXB
-oriented	
-to	PIN PREP
-insertion	NOMZ
-of	PIN PREP
-the	ART DET
-pharmacist	NN
-in	PIN CONJ PREP
-patient	JJ
-health	NN
-care	NN
-.	
-In	PIN CONJ CAP PREP
-Brazil	CAP NNP
-,	
-the	ART DET
-insertion	NOMZ
-of	PIN PREP
-the	ART DET
-pharmacist	NN
-in	PIN CONJ PREP
-health	NN
-care	NN
-happened	VBD
-with	PIN PREP
-the	ART DET
-creation	NOMZ
-of	PIN PREP
-Extended	CAP NNP
-Family	CAP NNP
-Health	CAP NNP
-Team	CAP NNP
-(	
-EFHT	CAP NNP
-)	
-.	
-This	DEMP CAP DET
-is	VPRT AUXB
-compound	NN
-by	PIN PREP
-different	JJ
-professionals	NN
-,	
-as	PIN CONJ PREP
-pharmacist	NN
-,	
-physical	NNP
-therapist	NN
-,	
-psychologist	NN
-,	
-nutritionist	NN
-,	
-others	NN
-.	
-EFHT	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-support	NN
-team	NN
-to	PIN PREP
-the	ART DET
-health	NN
-team	NN
-in	PIN CONJ PREP
-primary	JJ
-health	NN
-care	NN
-.	
-In	PIN CONJ CAP PREP
-2013	NUM
-,	
-the	ART DET
-Federal	CAP NNP
-Council	CAP NNP
-of	PIN PREP
-Pharmacy	CAP NNP
-elaborated	VBD
-the	ART DET
-Resolution	CAP NNP
-n585/2013	NNP
-,	
-which	SERE DET WH
-established	VBD PRIV
-about	PIN PREP
-the	ART DET
-need	NN
-of	PIN PREP
-humanized	
-relationship	NN
-between	PIN PREP
-pharmacist	NN
-and	PHC CCONJ
-patients	NN
-.	
-This	DEMP CAP DET
-consist	VPRT
-respect	NN
-,	
-expectations	NOMZ
-and	PHC CCONJ
-attitudes	NN
-focused	WZPAST
-on	PIN PREP
-patients	NN
-health	NN
-conditions	NOMZ
-and	PHC CCONJ
-medication	NOMZ
-use	NN
-(	
-CFF	CAP NNP
-,	
-2013	NUM
-)	
-.	
-Therefore	RB CONJ CAP
-,	
-an	ART DET INDA
-integrated	JJ
-action	NOMZ
-by	PIN PREP
-the	ART DET
-pharmacist	NN
-with	PIN PREP
-the	ART DET
-centered	
-health	NN
-team	NN
-for	PIN PREP
-health	NN
-promotion	NOMZ
-,	
-protection	NOMZ
-and	PHC CCONJ
-recovery	NN
-and	PHC CCONJ
-disease	NN
-prevention	NOMZ
-(	
-BRASIL	CAP NNP
-,	
-2014	NUM
-)	
-.	
-Moreover	RB CONJ CAP
-,	
-pharmacists	NN
-were	BEMA VBD AUXB
-in	PIN CONJ PREP
-unique	JJ
-position	NOMZ
-to	PIN TO PREP
-provide	INF
-clinical	JJ
-services	NN
-,	
-improve	INF
-outcomes	NN
-and	CCONJ
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-the	ART DET
-drug	NN
-use	NN
-in	PIN CONJ PREP
-throughout	PIN PREP
-the	ART DET
-care	NN
-process	NN
-(	
-MARR	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2018	NUM
-)	
-.	
- 	
-Changes	NN CAP
-have	VPRT PEAS
-occurred	
-on	PIN PREP
-pharmaceutical	JJ
-market	NN
-in	PIN CONJ PREP
-last	JJ
-years	NN
-,	
-because	CAUS PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-pharmacist	NN
-needed	VBD
-to	PIN TO PREP
-transform	INF
-as	PIN CONJ PREP
-professional	JJ
-.	
-These	DEMO CAP DET
-modifications	NOMZ
-have	VPRT
-many	QUAN JJ
-impacts	NN
-in	PIN CONJ PREP
-the	ART DET
-way	NN
-that	TOBJ WHOBJ WH
-the	ART DET
-pharmacist	NN
-sees	VPRT PRIV
-himself	TPP3 PRP SBJP ACCU
-as	PIN CONJ PREP
-a	ART DET INDA
-health	NN
-provider	NN
-.	
-Before	PIN CAP PREP
-the	ART DET
-focus	NN
-were	BEMA VBD AUXB
-on	PIN PREP
-the	ART DET
-drugs	NN
-and	CCONJ
-now	RB TIME
-he	TPP3 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-developed	
-news	NN
-skills	NN
-to	PIN TO PREP
-take	INF
-care	NN
-of	PIN PREP
-people	NN
-who	WHSUB WH
-use	VPRT
-medicines	NN
-.	
-Communication	CAP NNP
-,	
-empathy	NN
-,	
-knowledge	NN
-of	PIN PREP
-pharmacology	NN
-,	
-pharmacotherapy	NN
-,	
-physiology	NN
-and	PHC CCONJ
-others	NN
-are	VPRT AUXB
-skills	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-pharmacists	NN
-have	VPRT
-the	ART DET
-necessity	NOMZ
-to	PIN TO PREP
-build	INF
-on	PIN PREP
-and	CCONJ
-improve	INF
-their	TPP3 PRP SBJP
-practice	NN
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-known	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-pharmacotherapy	NN
-follow	NN
--	
-up	NN
-by	PIN PREP
-this	DEMO DET
-professional	JJ
-enhance	NN
-the	ART DET
-quality	NOMZ
-and	PHC CCONJ
-effectiveness	NOMZ
-of	PIN PREP
-medication	NOMZ
-use	NN
-and	CCONJ
-minimize	INF
-adverse	JJ
-drug	NN
-reactions	NOMZ
-,	
-medication	NOMZ
-interactions	NOMZ
-,	
-unnecessary	JJ
-hospitalization	NOMZ
-.	
-However	RB CONJ CAP
-,	
-numerous	JJ
-aspects	NN
-in	PIN CONJ PREP
-pharmacy	NN
-courses	NN
-demand	VPRT SUAV
-serious	JJ
-changes	NN
-in	PIN CONJ PREP
-the	ART DET
-curriculum	NN
-to	PIN TO PREP
-prepare	INF
-more	RB EMPH CMADJ
-qualified	JJ
-pharmacist	NN
-for	PIN PREP
-care	NN
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2489.1329>\n\n<Evolution of the pharmaceutical care>\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	 	
+word	of	PIN PREP
+gap	 20	
+word	th	JJ
+gap	 	
+word	century	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	medicines	NN
+gap	 	
+word	were	PASS VBD BYPA AUXB
+gap	 	
+word	handcrafted	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	apothecary	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	large	JJ
+gap	 	
+word	scale	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	drug	NN
+gap	 	
+word	production	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmaceutical	NN
+gap	 	
+word	industries	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discovered	PRIV
+gap	 	
+word	news	NN
+gap	 	
+word	ways	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	develop	INF
+gap	 	
+word	others	NN
+gap	 	
+word	skills	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	pharmaceutical	JJ
+gap	 	
+word	professional	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	changed	
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	States	PUBV CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	crisis	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	profession	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	loss	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	solved	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	hospital	NN
+gap	 	
+word	setting	NN
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	emerged	
+gap	 	
+word	the	ART DET
+gap	 	
+word	clinical	JJ
+gap	 	
+word	pharmacy	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	problem	NN
+gap	. 	
+word	From	PIN CAP PREP
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	clinical	JJ
+gap	 	
+word	practice	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	developed	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	enhanced	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	guarantee	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	effectiveness	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	safe	JJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	use	NN
+gap	 (	
+word	ANGONESI	CAP NNP
+gap	; 	
+word	SEVALHO	CAP NNP
+gap	, 2010).  	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Federal	CAP NNP
+gap	 	
+word	Council	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Pharmacy	CAP NNP
+gap	 	
+word	adopted	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Pharmaceutical	CAP NNP
+gap	 	
+word	Care	CAP NNP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	patient	NN
+gap	-	
+word	centered	
+gap	 	
+word	practice	NN
+gap	 (	
+word	CFF	CAP NNP
+gap	, 2013). 	
+word	This	DEMP CAP DET
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	defined	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Cipolle	CAP NNP
+gap	, 	
+word	Strand	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Morley	CAP NNP
+gap	 (2012, 	
+word	p	NN
+gap	. 45) 	
+word	as	PIN CONJ STPR PREP
+gap	 <deleted citation>.\n	
+word	Significant	JJ CAP
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	demographic	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	morbidity	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	mortality	NOMZ
+gap	 	
+word	profiles	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	happened	
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	last	JJ
+gap	 	
+word	century	NN
+gap	. 	
+word	Fertility	NOMZ CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	mortality	NOMZ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	infectious	JJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	reduced	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	life	NN
+gap	 	
+word	expectancy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	deaths	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	chronic	JJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	increased	VBD
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	aging	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	phenomenon	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	happens	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	worldwide	RB
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	prevalence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	multiple	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	noncommunicable	JJ
+gap	 	
+word	chronic	JJ
+gap	 	
+word	diseases	NN
+gap	, 	
+word	causing	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	increase	INF
+gap	 	
+word	polypharmacy	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	complex	JJ
+gap	 	
+word	therapies	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	consequently	RB CONJ
+gap	 	
+word	raising	PGAS
+gap	 	
+word	health	NN
+gap	 	
+word	spending	NN
+gap	 (	
+word	AIOLFI	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2015; 	
+word	MARIN	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2016; 	
+word	MELCHIORS	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2007; 	
+word	MODIG	CAP NNP
+gap	, 	
+word	HOLMDAHL	CAP NNP
+gap	, 	
+word	BONDESSON	CAP NNP
+gap	, 2016; 	
+word	PEREIRA	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2017). 	
+word	The	ART CAP DET
+gap	 	
+word	high	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	drugs	NN
+gap	 	
+word	prescribed	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	presence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	multiple	JJ
+gap	 	
+word	morbidities	NN
+gap	 	
+word	lead	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	unnecessary	JJ
+gap	 	
+word	drug	NN
+gap	 	
+word	use	NN
+gap	. 	
+word	Pharmacological	JJ CAP
+gap	 	
+word	combinations	NOMZ
+gap	 	
+word	represent	VPRT
+gap	 	
+word	potential	JJ
+gap	 	
+word	risks	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	adverse	JJ
+gap	 	
+word	reactions	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	drug	NN
+gap	 	
+word	interactions	NOMZ
+gap	, 	
+word	contraindication	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	may	POMD
+gap	 	
+word	increase	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	risk	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	iatrogenics	NN
+gap	, 	
+word	hospitalizations	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	death	NN
+gap	 (	
+word	PEREIRA	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2017). 	
+word	More	JJ EMPH CAP CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 700.000 	
+word	individuals	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	admitted	PUBV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	States	PUBV CAP NNP
+gap	 	
+word	emergency	NN
+gap	 	
+word	unit	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consequence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	adverse	JJ
+gap	 	
+word	drug	NN
+gap	 	
+word	events	NN
+gap	 (	
+word	ADE	CAP NNP
+gap	) 	
+word	each	QUAN DET
+gap	 	
+word	year	NN
+gap	. 	
+word	People	NN CAP
+gap	 65 	
+word	years	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	older	JJ CMADJ
+gap	 	
+word	have	VPRT
+gap	 	
+word	seven	NUM
+gap	 	
+word	times	NN
+gap	 	
+word	risk	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	hospitalized	
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	younger	JJ CMADJ
+gap	 	
+word	people	NN
+gap	. 	
+word	While	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Australia	CAP NNP
+gap	, 	
+word	approximately	RB
+gap	 230,000 	
+word	hospitalizations	NOMZ
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	medication	NOMZ
+gap	-	
+word	related	PASTP
+gap	 	
+word	per	PIN PREP
+gap	 	
+word	year	NN
+gap	. 	
+word	Up	PIN CAP PREP
+gap	 	
+word	to	PIN PREP
+gap	 75 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	hospitalizations	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	potentially	RB
+gap	 	
+word	preventable	JJ
+gap	 (	
+word	JOKANOVIC	CAP NNP
+gap	, 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2017).\n	
+word	Various	JJ CAP
+gap	 	
+word	actions	NOMZ
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	oriented	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	insertion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	patient	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	insertion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	 	
+word	happened	VBD
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Extended	CAP NNP
+gap	 	
+word	Family	CAP NNP
+gap	 	
+word	Health	CAP NNP
+gap	 	
+word	Team	CAP NNP
+gap	 (	
+word	EFHT	CAP NNP
+gap	). 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	compound	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	professionals	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	pharmacist	NN
+gap	, 	
+word	physical	NNP
+gap	 	
+word	therapist	NN
+gap	, 	
+word	psychologist	NN
+gap	, 	
+word	nutritionist	NN
+gap	, 	
+word	others	NN
+gap	. 	
+word	EFHT	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	support	NN
+gap	 	
+word	team	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	health	NN
+gap	 	
+word	team	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	primary	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 2013, 	
+word	the	ART DET
+gap	 	
+word	Federal	CAP NNP
+gap	 	
+word	Council	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Pharmacy	CAP NNP
+gap	 	
+word	elaborated	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	Resolution	CAP NNP
+gap	 	
+word	n	NNP
+gap	585/2013, 	
+word	which	SERE DET WH
+gap	 	
+word	established	VBD PRIV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	need	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	humanized	
+gap	 	
+word	relationship	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	patients	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	consist	VPRT
+gap	 	
+word	respect	NN
+gap	, 	
+word	expectations	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	attitudes	NN
+gap	 	
+word	focused	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	patients	NN
+gap	 	
+word	health	NN
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	use	NN
+gap	 (	
+word	CFF	CAP NNP
+gap	, 2013). 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	integrated	JJ
+gap	 	
+word	action	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	centered	
+gap	 	
+word	health	NN
+gap	 	
+word	team	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	health	NN
+gap	 	
+word	promotion	NOMZ
+gap	, 	
+word	protection	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	recovery	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	disease	NN
+gap	 	
+word	prevention	NOMZ
+gap	 (	
+word	BRASIL	CAP NNP
+gap	, 2014). 	
+word	Moreover	RB CONJ CAP
+gap	, 	
+word	pharmacists	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	unique	JJ
+gap	 	
+word	position	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	clinical	JJ
+gap	 	
+word	services	NN
+gap	, 	
+word	improve	INF
+gap	 	
+word	outcomes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	drug	NN
+gap	 	
+word	use	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	throughout	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	care	NN
+gap	 	
+word	process	NN
+gap	 (	
+word	MARR	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2018).\n	
+word	Changes	NN CAP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	occurred	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	pharmaceutical	JJ
+gap	 	
+word	market	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	last	JJ
+gap	 	
+word	years	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	needed	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	transform	INF
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	professional	JJ
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	modifications	NOMZ
+gap	 	
+word	have	VPRT
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	impacts	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	sees	VPRT PRIV
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	health	NN
+gap	 	
+word	provider	NN
+gap	. 	
+word	Before	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	focus	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	drugs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	now	RB TIME
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	developed	
+gap	 	
+word	news	NN
+gap	 	
+word	skills	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	care	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	use	VPRT
+gap	 	
+word	medicines	NN
+gap	. 	
+word	Communication	CAP NNP
+gap	, 	
+word	empathy	NN
+gap	, 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pharmacology	NN
+gap	, 	
+word	pharmacotherapy	NN
+gap	, 	
+word	physiology	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	others	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	skills	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacists	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	necessity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	build	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	improve	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	practice	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacotherapy	NN
+gap	 	
+word	follow	NN
+gap	-	
+word	up	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	professional	JJ
+gap	 	
+word	enhance	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	effectiveness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	use	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	minimize	INF
+gap	 	
+word	adverse	JJ
+gap	 	
+word	drug	NN
+gap	 	
+word	reactions	NOMZ
+gap	, 	
+word	medication	NOMZ
+gap	 	
+word	interactions	NOMZ
+gap	, 	
+word	unnecessary	JJ
+gap	 	
+word	hospitalization	NOMZ
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	numerous	JJ
+gap	 	
+word	aspects	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	pharmacy	NN
+gap	 	
+word	courses	NN
+gap	 	
+word	demand	VPRT SUAV
+gap	 	
+word	serious	JJ
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	curriculum	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prepare	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	qualified	JJ
+gap	 	
+word	pharmacist	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	care	NN
+gap	.\n\n<References>	

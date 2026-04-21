@@ -1,637 +1,1113 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2483.1325.txt
-token	tags
-     	
-According	CAP PGAS
-to	PIN PREP
-a	ART DET INDA
-research	NN
-conducted	WZPAST
-at	PIN PREP
-the	ART DET
-Stanford	CAP NNP
-University	CAP NNP
-in	PIN CONJ PREP
-2015	NUM
-,	
-an	ART DET INDA
-increase	NN
-of	PIN PREP
-100	NUM
-points	NN
-in	PIN CONJ PREP
-PISA	CAP NNP
-’s	
-evaluation	NOMZ
-(	
-Programme	CAP NNP
-for	PIN PREP
-International	CAP NNP
-Student	CAP NNP
-Assessment	CAP NNP
-)	
-is	PASS VPRT AUXB
-associated	
-with	PIN PREP
-a	ART DET INDA
-two	NUM
-percentage	NN
-points	NN
-growth	NN
-in	PIN CONJ PREP
-Gross	CAP NNP
-Domestic	CAP NNP
-Product	CAP NNP
-(	
-GDP	CAP NNP
-)	
-.	
-This	DEMO CAP DET
-correlation	NOMZ
-is	PASS VPRT SPAU AUXB
-majorly	RB
-associated	
-with	PIN PREP
-indirect	JJ
-economic	JJ
-gains	NN
-long	RB
-known	PRIV
-by	PIN PREP
-the	ART DET
-economic	JJ
-theory	NN
-.	
-In	PIN CONJ CAP PREP
-fact	NN
-,	
-education	NOMZ
-can	POMD
-lead	INF
-not	XX0 RB
-only	DWNT RB
-to	PIN PREP
-a	ART DET INDA
-better	JJ CMADJ
-society	NN
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-a	ART DET INDA
-moral	JJ
-speech	NN
-,	
-but	CCONJ
-also	RB
-to	PIN PREP
-economic	JJ
-development	NOMZ
-and	CCONJ
-lower	JJ CMADJ
-levels	NN
-of	PIN PREP
-inequality	NOMZ
-.	
-However	RB CONJ CAP
-,	
-if	COND PIN SCONJ PREP
-the	ART DET
-purpose	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-reach	INF
-a	ART DET INDA
-whole	JJ
-nation	NOMZ
-’s	
-population	NOMZ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-talk	INF
-about	PIN PREP
-the	ART DET
-importance	NN
-of	PIN PREP
-public	JJ
-education	NOMZ
-within	PIN PREP
-a	ART DET INDA
-system	NN
-capable	JJ
-of	PIN PREP
-not	XX0 RB
-letting	PGAS
-anyone	QUPR INPR
-behind	RB PLACE
-.	
-Therefore	RB CONJ CAP
-,	
-if	COND PIN SCONJ PREP
-a	ART DET INDA
-country	NN
-wants	VPRT
-to	PIN TO PREP
-pursue	INF
-an	ART DET INDA
-egalitarian	JJ
-path	NN
-towards	PIN PREP
-economic	JJ
-development	NOMZ
-,	
-its	PIT PRP SBJP
-government	NOMZ
-should	NEMD
-invest	INF
-in	PIN CONJ PREP
-education	NOMZ
-.	
- 	
-First	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-restate	INF
-the	ART DET
-moral	JJ
-importance	NN
-of	PIN PREP
-education	NOMZ
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-individual	JJ
-personal	JJ
-growth	NN
-and	CCONJ
-social	JJ
-equality	NOMZ
-.	
-In	PIN CONJ CAP PREP
-1980	NUM
-,	
-the	ART DET
-Nobel	CAP NNP
-Price	NN CAP
--	
-winning	PGAS
-economist	NN
-and	PHC CCONJ
-philosopher	NN
-Amartya	CAP NNP
-Sen	CAP NNP
-built	VBD
-a	ART DET INDA
-research	NN
-,	
-the	ART DET
-so	RB
-called	
-Capabilities	CAP NNP
-Approach	CAP NNP
-,	
-to	PIN TO PREP
-determine	PRIV SUAV INF
-what	WHCL WH
-equality	NOMZ
-is	PASS VPRT AUXB
-composed	
-of	PIN STPR PREP
-.	
-In	PIN CONJ CAP PREP
-its	PIT PRP SBJP
-perspective	NN
-,	
-ethics	NN
-and	PHC CCONJ
-justice	NN
-depend	VPRT
-directly	RB
-of	PIN PREP
-individual	JJ
-opportunities	NN
-and	PHC CCONJ
-poverty	NN
-is	PASS VPRT AUXB
-understood	PRIV
-as	PIN CONJ PREP
-a	ART DET INDA
-curtailment	NOMZ
-of	PIN PREP
-the	ART DET
-fundamental	JJ
-freedom	NN
-of	PIN PREP
-the	ART DET
-individuals	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-sense	PRIV NN
-,	
-public	JJ
-education	NOMZ
-can	POMD
-increase	INF
-social	JJ
-capabilities	NN
-and	CCONJ
-decrease	INF
-general	JJ
-poverty	NN
-through	PIN PREP
-the	ART DET
-spread	NN
-of	PIN PREP
-critical	JJ
-thinking	PRIV NN
-and	PHC CCONJ
-knowledge	NN
-,	
-if	COND PIN SCONJ PREP
-the	ART DET
-government	NOMZ
-is	BEMA VPRT AUXB
-capable	JJ PRED
-of	PIN PREP
-covering	PGAS
-the	ART DET
-whole	JJ
-nation	NOMZ
-population	NOMZ
-.	
- 	
-In	PIN CONJ CAP PREP
-second	JJ
-place	NN
-,	
-investing	PGAS
-in	PIN CONJ PREP
-education	NOMZ
-will	PRMD
-have	INF
-the	ART DET
-same	JJ
-impact	NN
-in	PIN CONJ PREP
-economy	NN
-as	PIN CONJ PREP
-any	QUAN DET
-other	JJ
-kind	NN HDG
-of	PIN PREP
-investment	NOMZ
-,	
-with	PIN PREP
-the	ART DET
-benefit	NN
-of	PIN PREP
-increasing	GER PGAS
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-human	JJ
-capital	NN
-in	PIN CONJ PREP
-the	ART DET
-labor	NN
-market	NN
-.	
-According	CAP PGAS
-to	PIN PREP
-the	ART DET
-theoretic	JJ
-contributions	NOMZ
-of	PIN PREP
-economist	NN
-John	CAP NNP
-Maynard	CAP NNP
-Keynes	CAP NNP
-,	
-the	ART DET
-results	NN
-of	PIN PREP
-governmental	JJ
-investment	NOMZ
-will	PRMD
-be	PASS AUXB INF
-multiplied	
-to	PIN PREP
-the	ART DET
-whole	JJ
-economy	NN
-by	PIN PREP
-the	ART DET
-so	RB
-called	
-Spending	CAP NNP
-Multiplier	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-perspective	NN
-,	
-public	JJ
-expenditure	NN
-will	PRMD
-impact	INF
-the	ART DET
-national	JJ
-income	NN
-through	PIN PREP
-the	ART DET
-increase	NN
-in	PIN CONJ PREP
-general	JJ
-demand	SUAV NN
-,	
-stimulating	GER PRESP PGAS
-the	ART DET
-market	NN
-prospects	NN
-and	CCONJ
-the	ART DET
-associated	
-production	NOMZ
-revenues	NN
-.	
-Nonetheless	RB CONJ CAP
-,	
-despite	PIN SCONJ PREP
-of	PIN PREP
-this	DEMO DET
-natural	JJ
-benefit	NN
-,	
-investing	PGAS
-in	PIN CONJ PREP
-education	NOMZ
-will	PRMD SPAU
-also	RB
-increase	INF
-human	JJ
-capital	NN
-and	CCONJ
-add	PUBV INF
-value	NN
-to	PIN PREP
-the	ART DET
-labor	NN
-market	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-a	ART DET INDA
-higher	JJ CMADJ
-level	NN
-of	PIN PREP
-knowledge	NN
-within	PIN PREP
-worker	NN
-’s	
-class	NN
-.	
- 	
-Finally	RB CAP
-,	
-this	DEMO DET
-higher	JJ CMADJ
-level	NN
-of	PIN PREP
-knowledge	NN
-means	VPRT PRIV
-a	ART DET INDA
-higher	JJ CMADJ
-level	NN
-of	PIN PREP
-labor	NN
-productivity	NOMZ
-,	
-an	ART DET INDA
-essential	JJ
-prerequisite	NN
-to	PIN PREP
-economic	JJ
-development	NOMZ
-.	
-In	PIN CONJ CAP PREP
-fact	NN
-,	
-from	PIN PREP
-the	ART DET
-standpoint	NN
-of	PIN PREP
-the	ART DET
-Complexity	CAP NNP
-Theory	CAP NNP
-,	
-richer	JJ CMADJ
-countries	NN
-are	PASS VPRT AUXB
-associated	
-with	PIN PREP
-a	ART DET INDA
-productive	JJ
-structure	NN
-majorly	RB
-based	
-in	PIN CONJ PREP
-manufactured	
-products	NN
-with	PIN PREP
-a	ART DET INDA
-high	JJ
-level	NN
-of	PIN PREP
-value	NN
-added	VBD PUBV
-.	
-This	DEMO CAP DET
-kind	NN HDG
-of	PIN PREP
-products	NN
-require	VPRT SUAV
-high	JJ
-quality	NOMZ
-and	CCONJ
-intense	JJ
-technique	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-not	XX0 RB
-perceive	JJ PRIV
-in	PIN CONJ PREP
-primary	JJ
-goods	NN
-based	
-economies	NN
-.	
-As	PIN CONJ CAP PREP
-stated	PUBV
-in	PIN CONJ PREP
-Eduarda	CAP NNP
-Pereira	CAP NNP
-(	
-2017	NUM
-)	
-,	
-.	
-Therefore	RB CONJ CAP
-,	
-investing	PGAS
-in	PIN CONJ PREP
-education	NOMZ
-can	POMD
-add	PUBV INF
-more	JJ EMPH CMADJ
-technic	JJ
-and	CCONJ
-value	NN
-to	PIN PREP
-the	ART DET
-productive	JJ
-structure	NN
-of	PIN PREP
-a	ART DET INDA
-country	NN
-,	
-leading	PGAS
-to	PIN PREP
-economic	JJ
-development	NOMZ
-.	
- 	
-Therefore	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-state	PUBV INF
-the	ART DET
-importance	NN
-associated	WZPAST
-with	PIN PREP
-government	NOMZ
-’s	
-investment	NOMZ
-in	PIN CONJ PREP
-public	JJ
-education	NOMZ
-.	
-As	RB CONJ CAP
-long	RB
-known	PRIV
-in	PIN CONJ PREP
-economic	JJ
-theory	NN
-,	
-education	NOMZ
-leads	VPRT
-not	XX0 RB
-only	DWNT RB
-to	PIN PREP
-social	JJ
-gains	NN
-,	
-but	CCONJ
-also	RB
-to	PIN PREP
-economic	JJ
-development	NOMZ
-and	PHC CCONJ
-inequality	NOMZ
-reduction	NOMZ
-,	
-although	CONC PIN SCONJ PREP
-it	PIT PRP SBJP
-needs	VPRT
-to	PIN TO PREP
-reach	INF
-the	ART DET
-population	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-.	
-When	RB CAP SCONJ WH
-the	ART DET
-government	NOMZ
-makes	VPRT
-this	DEMO DET
-kind	NN HDG
-of	PIN PREP
-investment	NOMZ
-,	
-it	PIT PRP SBJP
-improves	VPRT
-individual	JJ
-capabilities	NN
-,	
-undermining	GER PGAS
-inequalities	NN
-and	CCONJ
-opening	PGAS
-opportunities	NN
-for	PIN PREP
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-human	JJ
-capital	NN
-.	
-It	PIT CAP PRP SBJP
-also	RB
-activates	VPRT
-the	ART DET
-Spending	CAP NNP
-Multiplier	CAP NNP
-,	
-which	SERE DET WH
-instigate	VPRT
-the	ART DET
-demand	SUAV NN
-and	CCONJ
-,	
-consequently	RB CONJ
-,	
-the	ART DET
-national	JJ
-income	NN
-.	
-Finally	RB CAP
-,	
-it	PIT PRP SBJP
-ameliorates	VPRT
-the	ART DET
-productivity	NOMZ
-of	PIN PREP
-the	ART DET
-productive	JJ
-structure	NN
-and	CCONJ
-leads	VPRT
-to	PIN PREP
-economic	JJ
-development	NOMZ
-.	
-Those	DEMP CAP DET
-are	BEMA VPRT AUXB
-the	ART DET
-reasons	PRIV NN
-why	RB WHOBJ WHCL SCONJ WH
-the	ART DET
-government	NOMZ
-should	NEMD
-invest	INF
-in	PIN CONJ PREP
-public	JJ
-education	NOMZ
-.	
-    	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2483.1325>\n\n<Should the government invest in education?>\n\n\n	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	research	NN
+gap	 	
+word	conducted	WZPAST
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Stanford	CAP NNP
+gap	 	
+word	University	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 2015, 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	of	PIN PREP
+gap	 100 	
+word	points	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	PISA	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	evaluation	NOMZ
+gap	 (	
+word	Programme	CAP NNP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	International	CAP NNP
+gap	 	
+word	Student	CAP NNP
+gap	 	
+word	Assessment	CAP NNP
+gap	) 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	associated	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	two	NUM
+gap	 	
+word	percentage	NN
+gap	 	
+word	points	NN
+gap	 	
+word	growth	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Gross	CAP NNP
+gap	 	
+word	Domestic	CAP NNP
+gap	 	
+word	Product	CAP NNP
+gap	 (	
+word	GDP	CAP NNP
+gap	). 	
+word	This	DEMO CAP DET
+gap	 	
+word	correlation	NOMZ
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	majorly	RB
+gap	 	
+word	associated	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	indirect	JJ
+gap	 	
+word	economic	JJ
+gap	 	
+word	gains	NN
+gap	 	
+word	long	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economic	JJ
+gap	 	
+word	theory	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	education	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	society	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	moral	JJ
+gap	 	
+word	speech	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	levels	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	inequality	NOMZ
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	purpose	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reach	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	JJ
+gap	 	
+word	nation	NOMZ
+gap	’	
+word	s	
+gap	 	
+word	population	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	talk	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	system	NN
+gap	 	
+word	capable	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	letting	PGAS
+gap	 	
+word	anyone	QUPR INPR
+gap	 	
+word	behind	RB PLACE
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	country	NN
+gap	 	
+word	wants	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	pursue	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	egalitarian	JJ
+gap	 	
+word	path	NN
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	, 	
+word	its	PIT PRP SBJP
+gap	 	
+word	government	NOMZ
+gap	 	
+word	should	NEMD
+gap	 	
+word	invest	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	. \n	
+word	First	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	restate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	moral	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	personal	JJ
+gap	 	
+word	growth	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	social	JJ
+gap	 	
+word	equality	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 1980, 	
+word	the	ART DET
+gap	 	
+word	Nobel	CAP NNP
+gap	 	
+word	Price	NN CAP
+gap	-	
+word	winning	PGAS
+gap	 	
+word	economist	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	philosopher	NN
+gap	 	
+word	Amartya	CAP NNP
+gap	 	
+word	Sen	CAP NNP
+gap	 	
+word	built	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	research	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	so	RB
+gap	 	
+word	called	
+gap	 	
+word	Capabilities	CAP NNP
+gap	 	
+word	Approach	CAP NNP
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	determine	PRIV SUAV INF
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	equality	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	composed	
+gap	 	
+word	of	PIN STPR PREP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	perspective	NN
+gap	, 	
+word	ethics	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	justice	NN
+gap	 	
+word	depend	VPRT
+gap	 	
+word	directly	RB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	opportunities	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	poverty	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	understood	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	curtailment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	freedom	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individuals	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	sense	PRIV NN
+gap	, 	
+word	public	JJ
+gap	 	
+word	education	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	increase	INF
+gap	 	
+word	social	JJ
+gap	 	
+word	capabilities	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	decrease	INF
+gap	 	
+word	general	JJ
+gap	 	
+word	poverty	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	spread	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	critical	JJ
+gap	 	
+word	thinking	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	knowledge	NN
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	covering	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	whole	JJ
+gap	 	
+word	nation	NOMZ
+gap	 	
+word	population	NOMZ
+gap	. \n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	second	JJ
+gap	 	
+word	place	NN
+gap	, 	
+word	investing	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	impact	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	economy	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	investment	NOMZ
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	capital	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	labor	NN
+gap	 	
+word	market	NN
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	theoretic	JJ
+gap	 	
+word	contributions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	economist	NN
+gap	 	
+word	John	CAP NNP
+gap	 	
+word	Maynard	CAP NNP
+gap	 	
+word	Keynes	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	governmental	JJ
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	multiplied	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	whole	JJ
+gap	 	
+word	economy	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	so	RB
+gap	 	
+word	called	
+gap	 	
+word	Spending	CAP NNP
+gap	 	
+word	Multiplier	CAP NNP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	perspective	NN
+gap	, 	
+word	public	JJ
+gap	 	
+word	expenditure	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	impact	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	national	JJ
+gap	 	
+word	income	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	general	JJ
+gap	 	
+word	demand	SUAV NN
+gap	, 	
+word	stimulating	GER PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	 	
+word	prospects	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	associated	
+gap	 	
+word	production	NOMZ
+gap	 	
+word	revenues	NN
+gap	. 	
+word	Nonetheless	RB CONJ CAP
+gap	, 	
+word	despite	PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	natural	JJ
+gap	 	
+word	benefit	NN
+gap	, 	
+word	investing	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	increase	INF
+gap	 	
+word	human	JJ
+gap	 	
+word	capital	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	add	PUBV INF
+gap	 	
+word	value	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	labor	NN
+gap	 	
+word	market	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	worker	NN
+gap	’	
+word	s	
+gap	 	
+word	class	NN
+gap	. \n	
+word	Finally	RB CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	labor	NN
+gap	 	
+word	productivity	NOMZ
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	essential	JJ
+gap	 	
+word	prerequisite	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	standpoint	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Complexity	CAP NNP
+gap	 	
+word	Theory	CAP NNP
+gap	, 	
+word	richer	JJ CMADJ
+gap	 	
+word	countries	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	associated	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	productive	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	majorly	RB
+gap	 	
+word	based	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	manufactured	
+gap	 	
+word	products	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	value	NN
+gap	 	
+word	added	VBD PUBV
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	products	NN
+gap	 	
+word	require	VPRT SUAV
+gap	 	
+word	high	JJ
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	intense	JJ
+gap	 	
+word	technique	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	perceive	JJ PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	primary	JJ
+gap	 	
+word	goods	NN
+gap	 	
+word	based	
+gap	 	
+word	economies	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	stated	PUBV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Eduarda	CAP NNP
+gap	 	
+word	Pereira	CAP NNP
+gap	 (2017), <deleted citation>. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	investing	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	add	PUBV INF
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	technic	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	value	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	productive	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	country	NN
+gap	, 	
+word	leading	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	. \n	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	state	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	government	NOMZ
+gap	’	
+word	s	
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	education	NOMZ
+gap	. 	
+word	As	RB CONJ CAP
+gap	 	
+word	long	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	theory	NN
+gap	, 	
+word	education	NOMZ
+gap	 	
+word	leads	VPRT
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	gains	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	inequality	NOMZ
+gap	 	
+word	reduction	NOMZ
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	needs	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reach	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	makes	VPRT
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	investment	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	improves	VPRT
+gap	 	
+word	individual	JJ
+gap	 	
+word	capabilities	NN
+gap	, 	
+word	undermining	GER PGAS
+gap	 	
+word	inequalities	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	opening	PGAS
+gap	 	
+word	opportunities	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	capital	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	activates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	Spending	CAP NNP
+gap	 	
+word	Multiplier	CAP NNP
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	instigate	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	consequently	RB CONJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	national	JJ
+gap	 	
+word	income	NN
+gap	. 	
+word	Finally	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	ameliorates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	productivity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	productive	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	. 	
+word	Those	DEMP CAP DET
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	why	RB WHOBJ WHCL SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	should	NEMD
+gap	 	
+word	invest	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	education	NOMZ
+gap	. \n\n \n	

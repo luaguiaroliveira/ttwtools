@@ -1,636 +1,1071 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2094.1184.txt
-token	tags
-    	
-The	ART CAP DET
-economic	JJ
-and	PHC CCONJ
-social	JJ
-development	NOMZ
-based	WZPAST
-on	PIN PREP
-sustainability	NOMZ
-is	BEMA VPRT AUXB
-essential	JJ PRED
-to	PIN TO PREP
-assure	INF
-the	ART DET
-environmental	JJ
-preservation	NOMZ
-and	CCONJ
-,	
-consequently	RB CONJ
-,	
-to	PIN TO PREP
-guarantee	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-future	JJ
-generations	NOMZ
-could	POMD
-have	INF
-access	NN
-to	PIN PREP
-water	NN
-,	
-food	NN
-and	PHC CCONJ
-energy	NN
-.	
-One	CAP NUM
-important	JJ
-way	NN
-to	PIN TO PREP
-do	PROD INF
-this	DEMP DET
-is	VPRT AUXB
-replace	INF
-the	ART DET
-non	JJ
--	JJ
-renewable	JJ
-sources	NN
-,	
-as	PIN CONJ PREP
-fossil	NN
-sources	NN
-,	
-by	PIN PREP
-renewable	JJ
-sources	NN
-,	
-as	PIN CONJ PREP
-the	ART DET
-biomass	NN
-.	
-The	ART CAP DET
-set	NN
-of	PIN PREP
-production	NOMZ
-process	NN
-that	TSUB WHSUB WH
-convert	VPRT
-biomass	NN
-into	PIN PREP
-products	NN
-with	PIN PREP
-great	JJ
-industrial	JJ
-interest	NN
-is	PASS VPRT AUXB
-called	
-“	
-biorrefinery	NN
-”	
-.	
-A	EMPH ART CAP DET INDA
-lot	NN
-of	PIN PREP
-researches	NN
-have	VPRT PEAS
-been	PASS AUXB
-made	
-to	PIN TO PREP
-develop	INF
-technology	NN
-and	PHC CCONJ
-knowhow	NN
-to	PIN TO PREP
-make	INF
-viable	JJ
-the	ART DET
-biomass	NN
-conversion	NOMZ
-process	NN
-(	
-BAUER	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-;	
-NITZSCHE	CAP NNP
-;	
-BUDZINSKI	CAP NNP
-;	
-GRÖNGRÖFT	CAP NNP
-,	
-2016	NUM
-)	
-.	
-One	CAP NUM
-important	JJ
-factor	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-studied	
-and	PHC CCONJ
-analyzed	
-is	BEMA VPRT AUXB
-the	ART DET
-raw	JJ
-material	NN
-,	
-which	SERE WHQU DET WH
-should	NEMD
-have	INF
-high	JJ
-productivity	NOMZ
-and	CCONJ
-low	JJ
-cost	NN
-,	
-characteristics	NN
-from	PIN PREP
-Macauba	CAP NNP
-palm	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-,	
-will	PRMD
-be	PASS AUXB INF
-discussed	
-and	PHC CCONJ
-defended	VBD
-the	ART DET
-use	NN
-of	PIN PREP
-Macauba	CAP NNP
-fruit	NN
-to	PIN TO PREP
-provide	INF
-different	JJ
-biomass	NN
-types	NN
-to	PIN TO PREP
-produce	INF
-bio	NN
-products	NN
-of	PIN PREP
-great	JJ
-industrial	JJ
-interest	NN
-in	PIN CONJ PREP
-biorefineries	NN
-.	
- 	
-Macauba	CAP NNP
-(	
-Acrocomia	CAP NNP
-aculeata	NN
-)	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-perennial	JJ
-palm	NN
-,	
-native	JJ
-from	PIN PREP
-tropical	JJ
-regions	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-found	PRIV
-at	PIN PREP
-several	QUAN JJ
-American	JJ CAP
-countries	NN
-.	
-It	PIT CAP PRP SBJP
-presents	VPRT
-high	JJ
-adaptive	NN
-capacity	NOMZ
-to	PIN PREP
-different	JJ
-ecosystems	NN
-and	CCONJ
-to	PIN PREP
-soils	NN
-and	CCONJ
-high	JJ
-resistance	NN
-to	PIN PREP
-dry	JJ
-periods	NN
-,	
-plagues	NN
-and	PHC CCONJ
-diseases	NN
-,	
-this	DEMO DET
-way	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-major	JJ
-palm	NN
-dispersed	WZPAST
-in	PIN CONJ PREP
-Brazil	CAP NNP
-.	
-The	ART CAP DET
-Macauba	CAP NNP
-palm	NN
-can	POMD
-be	PASS AUXB INF
-cultivated	
-in	PIN CONJ PREP
-consorted	
-plantations	NOMZ
-with	PIN PREP
-farming	NN
-and	CCONJ
-other	JJ
-types	NN
-of	PIN PREP
-crops	NN
-.	
-Besides	PIN CAP SCONJ PREP
-that	DEMP DET
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-an	ART DET INDA
-alternative	NN
-to	PIN PREP
-reforesting	GER PGAS
-degraded	JJ
-areas	NN
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-presents	VPRT
-the	ART DET
-capacity	NOMZ
-to	PIN TO PREP
-improve	INF
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-soils	NN
-and	CCONJ
-to	PIN TO PREP
-decrease	INF
-the	ART DET
-occurrence	NN
-of	PIN PREP
-plagues	NN
-and	PHC CCONJ
-diseases	NN
-(	
-CARDOSO	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-;	
-CeSAR	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2015	NUM
-)	
-.	
-These	DEMO CAP DET
-characteristics	NN
-contribute	VPRT
-to	PIN TO PREP
-increase	INF
-the	ART DET
-economic	JJ
-and	PHC CCONJ
-environmental	JJ
-sustainability	NOMZ
-related	WZPAST
-to	PIN PREP
-its	PIT PRP SBJP
-cultivation	NOMZ
-and	PHC CCONJ
-utilization	NOMZ
-,	
-fact	NN
-that	TSUB DET
-makes	VPRT
-the	ART DET
-Macauba	CAP NNP
-palm	NN
-being	BEMA WZPRES AUXB
-a	ART DET INDA
-potential	JJ
-source	NN
-of	PIN PREP
-biomass	NN
-to	PIN PREP
-biorrefineries	NN
-.	
- 	
-Another	CAP DET
-essential	JJ
-characteristic	NN
-that	PIN TOBJ SCONJ PREP
-a	ART DET INDA
-source	NN
-of	PIN PREP
-raw	JJ
-material	NN
-of	PIN PREP
-bio	NNP
-products	NN
-should	NEMD
-present	INF
-is	BEMA VPRT AUXB
-high	JJ
-productivity	NOMZ
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-estimated	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-Macauba	CAP NNP
-palm	NN
-can	POMD
-produce	INF
-around	PIN PLACE PREP
-40.000	NUM
-kg	NN
-of	PIN PREP
-fruits	NN
-per	PIN PREP
-hectare	NN
-per	PIN PREP
-year	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-equivalent	JJ PRED
-to	PIN PREP
-6000	NUM
-kg	NNP
-/	
-ha	UH
-of	PIN PREP
-oil	NN
-(	
-CeSAR	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2015	NUM
-)	
-.	
-This	DEMO CAP DET
-value	NN
-is	VPRT AUXB
-almost	DWNT RB
-10	NUM
-times	NN
-bigger	JJ CMADJ
-than	PIN PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-soy	NN
-oil	NN
-,	
-which	SERE WHQU DET WH
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-major	JJ
-crops	NN
-cultivated	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-(	
-ROSCOE	CAP NNP
-,	
-2007	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-it	PIT PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-reported	PUBV
-that	PIN THVC SCONJ PREP
-all	QUAN DET
-parts	NN
-of	PIN PREP
-Macauba	CAP NNP
-fruits	NN
-could	POMD
-generate	INF
-products	NN
-of	PIN PREP
-industrial	JJ
-interest	NN
-,	
-as	PIN CONJ PREP
-shown	PRIV
-in	PIN CONJ PREP
-the	ART DET
-scheme	NN
-from	PIN PREP
-Figure	CAP NNP
-1	NUM
-.	
-For	PIN CAP PREP
-example	NN
-,	
-SILVA	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-2016	NUM
-)	
-evaluated	VBD
-the	ART DET
-deoxygenation	NOMZ
-of	PIN PREP
-Macauba	CAP NNP
-pulp	NN
-oil	NN
-to	PIN TO PREP
-produce	INF
-drop	NN
--	
-in	PIN CONJ PREP
-biofuels	NN
-as	PIN CONJ PREP
-green	JJ
-diesel	NN
-and	PHC CCONJ
-aviation	NOMZ
-biokerosene	NN
-.	
-MOURA	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-2018	NUM
-)	
-produced	VBD
-activated	
-carbon	NN
-from	PIN PREP
-endocarp	NN
-of	PIN PREP
-Macauba	CAP NNP
-fruit	NN
-and	CCONJ
-evaluated	VBD
-its	PIT PRP SBJP
-use	NN
-as	PIN CONJ PREP
-adsorbent	NN
-to	PIN TO PREP
-remove	INF
-emergent	JJ
-contaminants	NN
-.	
-Thus	RB CONJ CAP
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-the	ART DET
-high	JJ
-productivity	NOMZ
-and	CCONJ
-integral	JJ
-utilization	NOMZ
-,	
-the	ART DET
-Macauba	CAP NNP
-presents	VPRT
-potential	JJ
-to	PIN TO PREP
-be	BEMA AUXB INF
-economic	JJ PRED
-and	PHC CCONJ
-environmental	JJ PRED
-viable	JJ
-source	NN
-of	PIN PREP
-raw	JJ
-material	NN
-to	PIN TO PREP
-produce	INF
-several	QUAN JJ
-products	NN
-with	PIN PREP
-commercial	JJ
-interest	NN
-.	
-    	
-To	PIN TO CAP PREP
-summarize	INF
-,	
-the	ART DET
-Macauba	CAP NNP
-Palm	CAP NNP
-presents	NN
-characteristics	NN
-that	TSUB WHSUB WH
-contribute	VPRT
-to	PIN TO PREP
-improve	INF
-the	ART DET
-economic	JJ
-and	PHC CCONJ
-environmental	JJ
-sustainability	NOMZ
-of	PIN PREP
-its	PIT PRP SBJP
-crop	NN
-and	PHC CCONJ
-utilization	NOMZ
-,	
-like	PIN PREP
-its	PIT PRP SBJP
-capacity	NOMZ
-of	PIN PREP
-adaptation	NOMZ
-and	CCONJ
-of	PIN PREP
-improve	INF
-quality	NOMZ
-of	PIN PREP
-degraded	JJ
-areas	NN
-,	
-high	JJ
-resistance	NN
-and	CCONJ
-high	JJ
-productivity	NOMZ
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-the	ART DET
-integral	JJ
-use	NN
-of	PIN PREP
-Macauba	CAP NNP
-fruit	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-indispensable	JJ
-characteristic	NN
-for	PIN PREP
-raw	JJ
-material	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-used	
-in	PIN CONJ PREP
-a	ART DET INDA
-biorrefinery	NN
-.	
-For	PIN CAP PREP
-these	DEMO DET
-reasons	PRIV NN
-,	
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-concluded	PRIV
-that	PIN THVC SCONJ PREP
-Macauba	CAP NNP
-fruit	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-great	JJ
-source	NN
-of	PIN PREP
-different	JJ
-types	NN
-of	PIN PREP
-biomass	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-converted	
-into	PIN PREP
-bio	NN
-products	NN
-by	PIN PREP
-biorrefine	NNP
-processes	NN
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2094.1184>\n\n<Macauba fruit as a potential biomass source to biorrefineries>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	economic	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	social	JJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	sustainability	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	assure	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	environmental	JJ
+gap	 	
+word	preservation	NOMZ
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	consequently	RB CONJ
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	guarantee	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	JJ
+gap	 	
+word	generations	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	access	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	water	NN
+gap	, 	
+word	food	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	energy	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	important	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	replace	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	non	JJ
+gap	-	
+word	renewable	JJ
+gap	 	
+word	sources	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	fossil	NN
+gap	 	
+word	sources	NN
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	renewable	JJ
+gap	 	
+word	sources	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	biomass	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	production	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	convert	VPRT
+gap	 	
+word	biomass	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	products	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	great	JJ
+gap	 	
+word	industrial	JJ
+gap	 	
+word	interest	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	called	
+gap	 “	
+word	biorrefinery	NN
+gap	”. 	
+word	A	EMPH ART CAP DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	researches	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	made	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	technology	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	knowhow	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	viable	JJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	biomass	NN
+gap	 	
+word	conversion	NOMZ
+gap	 	
+word	process	NN
+gap	 (	
+word	BAUER	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2017; 	
+word	NITZSCHE	CAP NNP
+gap	; 	
+word	BUDZINSKI	CAP NNP
+gap	; 	
+word	GRÖNGRÖFT	
+gap	, 2016). 	
+word	One	
+gap	 	
+word	important	
+gap	 	
+word	factor	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	studied	
+gap	 	
+word	and	
+gap	 	
+word	analyzed	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	raw	
+gap	 	
+word	material	
+gap	, 	
+word	which	
+gap	 	
+word	should	
+gap	 	
+word	have	
+gap	 	
+word	high	
+gap	 	
+word	productivity	
+gap	 	
+word	and	
+gap	 	
+word	low	
+gap	 	
+word	cost	
+gap	, 	
+word	characteristics	
+gap	 	
+word	from	
+gap	 	
+word	Macauba	
+gap	 	
+word	palm	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	essay	
+gap	, 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	discussed	
+gap	 	
+word	and	
+gap	 	
+word	defended	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	Macauba	
+gap	 	
+word	fruit	
+gap	 	
+word	to	
+gap	 	
+word	provide	
+gap	 	
+word	different	
+gap	 	
+word	biomass	
+gap	 	
+word	types	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	bio	
+gap	 	
+word	products	
+gap	 	
+word	of	
+gap	 	
+word	great	
+gap	 	
+word	industrial	
+gap	 	
+word	interest	
+gap	 	
+word	in	
+gap	 	
+word	biorefineries	
+gap	.\n	
+word	Macauba	
+gap	 (	
+word	Acrocomia	
+gap	 	
+word	aculeata	
+gap	) 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	perennial	
+gap	 	
+word	palm	
+gap	, 	
+word	native	
+gap	 	
+word	from	
+gap	 	
+word	tropical	
+gap	 	
+word	regions	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	found	
+gap	 	
+word	at	
+gap	 	
+word	several	
+gap	 	
+word	American	
+gap	 	
+word	countries	
+gap	. 	
+word	It	
+gap	 	
+word	presents	
+gap	 	
+word	high	
+gap	 	
+word	adaptive	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	different	
+gap	 	
+word	ecosystems	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	soils	
+gap	 	
+word	and	
+gap	 	
+word	high	
+gap	 	
+word	resistance	
+gap	 	
+word	to	
+gap	 	
+word	dry	
+gap	 	
+word	periods	
+gap	, 	
+word	plagues	
+gap	 	
+word	and	
+gap	 	
+word	diseases	
+gap	, 	
+word	this	
+gap	 	
+word	way	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	major	
+gap	 	
+word	palm	
+gap	 	
+word	dispersed	
+gap	 	
+word	in	
+gap	 	
+word	Brazil	
+gap	. 	
+word	The	
+gap	 	
+word	Macauba	
+gap	 	
+word	palm	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	cultivated	
+gap	 	
+word	in	
+gap	 	
+word	consorted	
+gap	 	
+word	plantations	
+gap	 	
+word	with	
+gap	 	
+word	farming	
+gap	 	
+word	and	
+gap	 	
+word	other	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	crops	
+gap	. 	
+word	Besides	
+gap	 	
+word	that	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	alternative	
+gap	 	
+word	to	
+gap	 	
+word	reforesting	
+gap	 	
+word	degraded	
+gap	 	
+word	areas	
+gap	, 	
+word	since	
+gap	 	
+word	it	
+gap	 	
+word	presents	
+gap	 	
+word	the	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	improve	
+gap	 	
+word	the	
+gap	 	
+word	quality	
+gap	 	
+word	of	
+gap	 	
+word	soils	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	decrease	
+gap	 	
+word	the	
+gap	 	
+word	occurrence	
+gap	 	
+word	of	
+gap	 	
+word	plagues	
+gap	 	
+word	and	
+gap	 	
+word	diseases	
+gap	 (	
+word	CARDOSO	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2017; 	
+word	CeSAR	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2015). 	
+word	These	
+gap	 	
+word	characteristics	
+gap	 	
+word	contribute	
+gap	 	
+word	to	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	economic	
+gap	 	
+word	and	
+gap	 	
+word	environmental	
+gap	 	
+word	sustainability	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	its	
+gap	 	
+word	cultivation	
+gap	 	
+word	and	
+gap	 	
+word	utilization	
+gap	, 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	makes	
+gap	 	
+word	the	
+gap	 	
+word	Macauba	
+gap	 	
+word	palm	
+gap	 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	potential	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	biomass	
+gap	 	
+word	to	
+gap	 	
+word	biorrefineries	
+gap	. \n	
+word	Another	
+gap	 	
+word	essential	
+gap	 	
+word	characteristic	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	raw	
+gap	 	
+word	material	
+gap	 	
+word	of	
+gap	 	
+word	bio	
+gap	 	
+word	products	
+gap	 	
+word	should	
+gap	 	
+word	present	
+gap	 	
+word	is	
+gap	 	
+word	high	
+gap	 	
+word	productivity	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	estimated	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	Macauba	
+gap	 	
+word	palm	
+gap	 	
+word	can	
+gap	 	
+word	produce	
+gap	 	
+word	around	
+gap	 40.000 	
+word	kg	
+gap	 	
+word	of	
+gap	 	
+word	fruits	
+gap	 	
+word	per	
+gap	 	
+word	hectare	
+gap	 	
+word	per	
+gap	 	
+word	year	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	equivalent	
+gap	 	
+word	to	
+gap	 6000 	
+word	kg	
+gap	/	
+word	ha	
+gap	 	
+word	of	
+gap	 	
+word	oil	
+gap	 (	
+word	CeSAR	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2015). 	
+word	This	
+gap	 	
+word	value	
+gap	 	
+word	is	
+gap	 	
+word	almost	
+gap	 10 	
+word	times	
+gap	 	
+word	bigger	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	production	
+gap	 	
+word	of	
+gap	 	
+word	soy	
+gap	 	
+word	oil	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	major	
+gap	 	
+word	crops	
+gap	 	
+word	cultivated	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 (	
+word	ROSCOE	
+gap	, 2007). 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	reported	
+gap	 	
+word	that	
+gap	 	
+word	all	
+gap	 	
+word	parts	
+gap	 	
+word	of	
+gap	 	
+word	Macauba	
+gap	 	
+word	fruits	
+gap	 	
+word	could	
+gap	 	
+word	generate	
+gap	 	
+word	products	
+gap	 	
+word	of	
+gap	 	
+word	industrial	
+gap	 	
+word	interest	
+gap	, 	
+word	as	
+gap	 	
+word	shown	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	scheme	
+gap	 	
+word	from	
+gap	 	
+word	Figure	
+gap	 1. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	SILVA	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. (2016) 	
+word	evaluated	
+gap	 	
+word	the	
+gap	 	
+word	deoxygenation	
+gap	 	
+word	of	
+gap	 	
+word	Macauba	
+gap	 	
+word	pulp	
+gap	 	
+word	oil	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	drop	
+gap	-	
+word	in	
+gap	 	
+word	biofuels	
+gap	 	
+word	as	
+gap	 	
+word	green	
+gap	 	
+word	diesel	
+gap	 	
+word	and	
+gap	 	
+word	aviation	
+gap	 	
+word	biokerosene	
+gap	. 	
+word	MOURA	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. (2018) 	
+word	produced	
+gap	 	
+word	activated	
+gap	 	
+word	carbon	
+gap	 	
+word	from	
+gap	 	
+word	endocarp	
+gap	 	
+word	of	
+gap	 	
+word	Macauba	
+gap	 	
+word	fruit	
+gap	 	
+word	and	
+gap	 	
+word	evaluated	
+gap	 	
+word	its	
+gap	 	
+word	use	
+gap	 	
+word	as	
+gap	 	
+word	adsorbent	
+gap	 	
+word	to	
+gap	 	
+word	remove	
+gap	 	
+word	emergent	
+gap	 	
+word	contaminants	
+gap	. 	
+word	Thus	
+gap	, 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	high	
+gap	 	
+word	productivity	
+gap	 	
+word	and	
+gap	 	
+word	integral	
+gap	 	
+word	utilization	
+gap	, 	
+word	the	
+gap	 	
+word	Macauba	
+gap	 	
+word	presents	
+gap	 	
+word	potential	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	economic	
+gap	 	
+word	and	
+gap	 	
+word	environmental	
+gap	 	
+word	viable	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	raw	
+gap	 	
+word	material	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	several	
+gap	 	
+word	products	
+gap	 	
+word	with	
+gap	 	
+word	commercial	
+gap	 	
+word	interest	
+gap	.\n<Figure 1. Macauba fruit and possible applications.>\n \n	
+word	To	
+gap	 	
+word	summarize	
+gap	, 	
+word	the	
+gap	 	
+word	Macauba	
+gap	 	
+word	Palm	
+gap	 	
+word	presents	
+gap	 	
+word	characteristics	
+gap	 	
+word	that	
+gap	 	
+word	contribute	
+gap	 	
+word	to	
+gap	 	
+word	improve	
+gap	 	
+word	the	
+gap	 	
+word	economic	
+gap	 	
+word	and	
+gap	 	
+word	environmental	
+gap	 	
+word	sustainability	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	crop	
+gap	 	
+word	and	
+gap	 	
+word	utilization	
+gap	, 	
+word	like	
+gap	 	
+word	its	
+gap	 	
+word	capacity	
+gap	 	
+word	of	
+gap	 	
+word	adaptation	
+gap	 	
+word	and	
+gap	 	
+word	of	
+gap	 	
+word	improve	
+gap	 	
+word	quality	
+gap	 	
+word	of	
+gap	 	
+word	degraded	
+gap	 	
+word	areas	
+gap	, 	
+word	high	
+gap	 	
+word	resistance	
+gap	 	
+word	and	
+gap	 	
+word	high	
+gap	 	
+word	productivity	
+gap	. 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	the	
+gap	 	
+word	integral	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	Macauba	
+gap	 	
+word	fruit	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	indispensable	
+gap	 	
+word	characteristic	
+gap	 	
+word	for	
+gap	 	
+word	raw	
+gap	 	
+word	material	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	used	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	biorrefinery	
+gap	. 	
+word	For	
+gap	 	
+word	these	
+gap	 	
+word	reasons	
+gap	, 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	concluded	
+gap	 	
+word	that	
+gap	 	
+word	Macauba	
+gap	 	
+word	fruit	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	different	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	biomass	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	converted	
+gap	 	
+word	into	
+gap	 	
+word	bio	
+gap	 	
+word	products	
+gap	 	
+word	by	
+gap	 	
+word	biorrefine	
+gap	 	
+word	processes	
+gap	.\n\n<REFERENCES>	

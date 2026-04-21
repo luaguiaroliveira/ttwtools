@@ -1,1324 +1,2472 @@
 # filename: AH_Philosophy_Essay_1_0303f_tx.txt
-token	tags
-Hume	CAP NNP
-'s	
-two	NUM
-definitions	NOMZ
-of	PIN PREP
-cause	NN
-differ	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-somewhat	DWNT RB
-dualist	JJ
-way	NN
-.	
-The	ART CAP DET
-first	JJ
-requires	VPRT SUAV
-regularities	NN
-in	PIN CONJ PREP
-the	ART DET
-physical	JJ
-world	NN
-;	
-the	ART DET
-second	JJ
-requires	VPRT SUAV
-associations	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-mind	NN
-.	
-Hume	CAP INF
-talks	NN
-as	PIN CONJ PREP
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-can	POMD
-accept	PRIV INF
-either	RB
-or	CCONJ
-both	DET
-but	CCONJ
-it	PIT PRP SBJP
-appears	VPRT SMP
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-accept	PRIV INF
-both	DET
-to	PIN TO SPIN PREP
-fully	AMP RB
-grasp	INF
-the	ART DET
-intricacies	NN
-involved	WZPAST
-in	PIN CONJ PREP
-describing	GER PGAS
-cause	NN
-and	PHC CCONJ
-effect	NN
-.	
-The	ART CAP DET
-first	JJ
-,	
-physical	JJ
-definition	NOMZ
-,	
-says	VPRT PUBV
-that	PIN THVC SCONJ PREP
-something	QUPR INPR
-is	BEMA VPRT AUXB
-a	ART DET INDA
-cause	NN
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-contiguous	JJ PRED
-and	CCONJ
-precedent	NN
-to	PIN PREP
-some	QUAN DET
-other	JJ
-object	PUBV NN
-and	ANDC CCONJ
-where	RB SCONJ WH
-'	CONT QUOT
-all	QUAN DET
-the	ART DET
-objects	PUBV NN
-resembling	GER WZPRES PGAS
-the	ART DET
-former	JJ
-are	PASS VPRT AUXB
-placed	
-in	PIN CONJ PREP
-like	PIN PREP
-relations	NOMZ
-of	PIN PREP
-precedence	NN
-and	PHC CCONJ
-contiguity	NOMZ
-to	PIN PREP
-those	DEMO DET
-objects	PUBV NN THATD
-that	TSUB WHSUB WHCL WH
-resemble	VPRT
-the	ART DET
-latter	JJ
-'	CONT QUOT
-(	
-Section	NOMZ CAP
-14	NUM
-,	
-Treatise	CAP NNP
-of	PIN PREP
-Human	CAP NNP
-Nature	CAP NNP
-)	
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-apparent	JJ
-what	WH
-Hume	CAP NNP
-means	VPRT PRIV
-by	PIN PREP
-objects	PUBV NN
-resembling	GER WZPRES PGAS
-each	QUAN DET
-other	JJ
-.	
-Do	VPRT CAP
-they	TPP3 PRP SBJP
-have	INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-identical	JJ PRED
-to	PIN PREP
-each	QUAN DET
-other	JJ
-?	QUES
-Or	CAP CCONJ
-is	VPRT AUXB
-there	EX
-some	QUAN DET
-scope	NN
-for	PIN PREP
-variety	NN
-?	QUES
-If	COND PIN CAP SCONJ PREP
-there	EX
-is	VPRT AUXB
-some	QUAN DET
-scope	NN
-for	PIN PREP
-variety	NN
-and	PHC CCONJ
-difference	NN
-then	RB
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-where	RB WHCL SCONJ WH
-Hume	CAP NNP
-would	PRMD
-draw	INF
-the	ART DET
-line	NN
-,	
-and	ANDC CCONJ
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-an	ART DET INDA
-event	NN
-no	RB
-longer	RB
-resembles	VPRT
-the	ART DET
-one	NN
-being	PASS WZPRES AUXB
-analysed	
-,	
-but	CCONJ
-resembles	VPRT
-some	QUAN DET
-other	JJ
-event	NN
-instead	RB CONJ
-.	
-Depending	CAP PGAS
-on	PIN PREP
-the	ART DET
-criteria	NN
-for	PIN PREP
-what	WH
-constitutes	VPRT
-events	NN
-resembling	GER WZPRES PGAS
-each	QUAN DET
-other	JJ
-;	
-it	PIT PRP SBJP
-could	POMD
-be	PASS AUXB INF
-argued	PUBV
-that	PIN THVC SCONJ PREP
-all	QUAN DET
-events	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-contiguous	JJ PRED
-and	CCONJ
-precedent	NN
-to	PIN PREP
-some	QUAN DET
-other	JJ
-event	NN
-resemble	VPRT
-each	QUAN DET
-other	JJ
-.	
-This	DEMP CAP DET
-would	PRMD
-suggest	PUBV SUAV INF
-some	QUAN DET
-underlying	JJ
-cause	NN
-and	PHC CCONJ
-effect	NN
-principle	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-.	
-As	PIN CONJ CAP PREP
-Hume	CAP NNP
-presents	VPRT
-no	SYNE DET
-criteria	NN
-for	PIN PREP
-what	WH
-makes	VPRT
-an	ART DET INDA
-event	NN
-different	JJ
-from	PIN PREP
-another	DET
-then	RB
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-reason	PRIV NN
-that	TOBJ THVC WHOBJ WHCL WH
-we	FPP1 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-assume	PRIV INF
-that	PIN THVC SCONJ PREP
-all	QUAN DET
-cause	VPRT
-and	CCONJ
-effect	NN
-relationships	NN
-resemble	VPRT
-each	QUAN DET
-other	JJ
-insofar	OSUB RB
-that	PIN DEMO SCONJ PREP
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-all	QUAN RB
-cause	NN
-and	PHC CCONJ
-effect	NN
-relationships	NN
-.	
-Hume	CAP NNP
-'s	
-first	JJ
-definition	NOMZ
-is	VPRT AUXB
-lacking	PGAS
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-rule	SUAV INF
-out	PIN PREP
-the	ART DET
-possibility	NOMZ
-that	TSUB WHSUB WH
-cause	VPRT
-and	CCONJ
-effect	NN
-actually	RB
-exists	VPRT
-as	PIN CONJ PREP
-a	ART DET INDA
-principle	NN
-or	CCONJ
-law	NN
-of	PIN PREP
-nature	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-,	
-which	SERE WHQU DET WH
-Hume	CAP NNP
-is	BEMA VPRT AUXB
-evidently	RB
-against	PIN STPR PREP
-.	
-Hume	CAP NNP
-'s	
-second	JJ
-definition	NOMZ
-of	PIN PREP
-cause	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-more	RB EMPH CMADJ
-psychological	JJ
-one	NUM
-;	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-constant	JJ
-conjunction	NOMZ
-of	PIN PREP
-events	NN
-that	TSUB WHSUB WH
-produces	VPRT
-an	ART DET INDA
-impression	NOMZ
-of	PIN PREP
-cause	NN
-and	PHC CCONJ
-effect	NN
-in	PIN CONJ PREP
-the	ART DET
-mind	NN
-.	
-Hume	CAP INF
-claims	VPRT PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-cause	NN
-is	BEMA VPRT AUXB
-so	RB EMPH
-related	JJ
-to	PIN PREP
-it	PIT PRP SBJP
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-causes	VPRT
-the	ART DET
-mind	NN
-to	PIN TO PREP
-link	INF
-the	ART DET
-two	NUM
-and	ANDC CCONJ
-whenever	RB SCONJ WH
-there	EX
-is	VPRT AUXB
-one	NUM
-the	ART DET
-mind	NN
-anticipates	VPRT PRIV
-the	ART DET
-other	JJ
-.	
-Again	RB TIME CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-what	WHCL WH
-exactly	RB
-is	PASS VPRT AUXB
-required	SUAV
-for	PIN PREP
-this	DEMO DET
-impression	NOMZ
-to	PIN TO PREP
-occur	INF
-;	
-must	NEMD
-identical	JJ
-events	NN
-be	PASS AUXB INF
-repeated	PUBV
-in	PIN CONJ PREP
-order	SUAV NN
-for	PIN PREP
-a	ART DET INDA
-causal	JJ
-impression	NOMZ
-to	PIN TO PREP
-be	PASS AUXB INF
-made	
-?	QUES
-Or	CAP CCONJ
-,	
-again	RB TIME
-,	
-does	VPRT
-it	PIT PRP SBJP
-just	RB EMPH
-reduce	INF
-to	PIN PREP
-observing	PRIV PGAS
-different	JJ
-sets	NN
-of	PIN PREP
-events	NN
-that	TSUB WHSUB WH
-resemble	VPRT
-each	QUAN DET
-other	JJ
-in	PIN CONJ PREP
-no	SYNE DET
-way	NN
-other	JJ
-than	PIN PREP
-that	PIN DEMO SCONJ PREP
-they	TPP3 PRP SBJP
-possess	VPRT
-a	ART DET INDA
-causal	JJ
-connection	NOMZ
-?	QUES
-In	PIN CONJ CAP PREP
-Enquiry	CAP NNP
-Concerning	GER WZPRES CAP PGAS
-Human	CAP NNP
-Understanding	PRIV CAP NNP
-Hume	CAP NNP
-professes	VPRT
-a	ART DET INDA
-view	NN
-on	PIN PREP
-miracles	NN
-and	ANDC CCONJ
-this	DEMP DET
-is	PASS VPRT SPAU AUXB
-closely	RB
-connected	
-to	PIN PREP
-his	TPP3 PRP SBJP
-views	NN
-on	PIN PREP
-cause	INF
-an	ART DET INDA
-effect	NN
-.	
-Hume	CAP INF
-essentially	RB
-exerts	NN
-that	PIN TOBJ SCONJ PREP
-we	FPP1 PRP SBJP
-must	NEMD SPAU
-not	XX0 RB
-believe	PRIV INF
-in	PIN CONJ PREP
-a	ART DET INDA
-miracle	NN
-unless	COND PIN SCONJ PREP
-to	PIN TO SPIN PREP
-not	XX0 RB
-believe	PRIV INF
-in	PIN CONJ PREP
-an	ART DET INDA
-event	NN
-would	PRMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-miraculous	JJ
-than	PIN PREP
-to	PIN TO PREP
-believe	PRIV INF
-in	PIN CONJ PREP
-it	PIT PRP SBJP
-.	
-Hume	CAP INF
-accounts	NN
-for	PIN PREP
-miracles	NN
-as	PIN CONJ PREP
-misperceptions	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-minds	NN
-of	PIN PREP
-people	NN
-and	ANDC CCONJ
-that	PIN DEMO SCONJ PREP
-there	EX
-can	POMD SPAU
-never	RB
-be	BEMA AUXB INF
-enough	JJ
-people	NN
-of	PIN PREP
-sound	NN
-enough	JJ
-mind	NN
-to	PIN TO PREP
-witness	INF
-an	ART DET INDA
-event	NN
-and	CCONJ
-provide	INF
-a	ART DET INDA
-substantial	JJ
-claim	PUBV NN
-for	PIN PREP
-the	ART DET
-existence	NN
-of	PIN PREP
-miracles	NN
-.	
-Hume	CAP NNP
-also	RB
-wants	VPRT
-miracles	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-placed	
-under	PIN PREP
-experimental	JJ
-procedures	NN
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-event	NN
-can	POMD
-be	PASS AUXB INF
-reproduced	
-until	PIN PREP
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-established	PRIV THATD
-that	PIN THVC SCONJ PREP
-whatever	DET WH
-miraculous	JJ
-event	NN
-occurred	VBD
-did	VBD SPAU
-really	RB EMPH
-occur	INF
-.	
-This	DEMP CAP DET
-seems	VPRT SMP
-to	PIN TO PREP
-suggest	PUBV SUAV INF
-two	NUM
-things	NN
-in	PIN CONJ PREP
-regards	NN
-to	PIN TO PREP
-cause	INF
-and	CCONJ
-effect	NN
-relationships	NN
-.	
-The	ART CAP DET
-first	JJ
-being	BEMA AUXB
-that	DEMO DET
-cause	NN
-and	PHC CCONJ
-effect	NN
-does	VPRT EMPH
-seem	SMP INF
-to	PIN TO PREP
-exist	INF
-in	PIN CONJ PREP
-the	ART DET
-mind	NN
-for	PIN PREP
-Hume	CAP NNP
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-sees	VPRT PRIV THATD
-miracles	NN
-being	BEMA WZPRES AUXB
-a	ART DET INDA
-product	NN
-of	PIN PREP
-misperception	NOMZ
-;	
-the	ART DET
-mind	NN
-is	VPRT AUXB
-creating	PGAS
-a	ART DET INDA
-cause	NN
-and	CCONJ
-effect	INF
-impression	NOMZ
-on	PIN PREP
-a	ART DET INDA
-set	NN
-of	PIN PREP
-events	NN
-where	RB WHOBJ SCONJ WH
-such	EMPH DET
-a	ART DET INDA
-relationship	NN
-does	VPRT PROD SPAU
-not	XX0 RB
-really	RB EMPH
-exist	INF
-.	
-This	DEMP CAP DET
-could	POMD
-imply	PRIV INF
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-for	PIN PREP
-people	NN
-to	PIN TO PREP
-have	INF
-some	QUAN DET
-capacity	NOMZ
-for	PIN PREP
-understanding	GER PRIV PGAS
-cause	NN
-and	CCONJ
-effect	INF
-relationships	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-lacking	PGAS
-.	
-Perhaps	RB CAP
-there	EX
-are	VPRT AUXB
-some	QUAN DET
-people	NN
-who	WHSUB WH
-do	VPRT SPAU
-not	XX0 RB
-understand	PRIV INF
-cause	NN
-and	PHC CCONJ
-effect	NN
-relationships	NN
-at	RB PIN PREP
-all	QUAN RB
-and	PHC CCONJ
-perhaps	RB
-there	EX
-are	VPRT AUXB
-some	QUAN DET
-who	WH
-understand	VPRT PRIV
-better	JJ CMADJ
-than	PIN PREP
-others	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-this	DEMP DET
-is	BEMA VPRT AUXB
-perfectly	AMP RB
-plausible	JJ
-,	
-it	PIT PRP SBJP
-does	VPRT EMPH
-seem	SMP INF
-to	PIN TO PREP
-show	PRIV INF
-that	THVC DET
-cause	NN
-and	PHC CCONJ
-effect	NN
-relationships	NN
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-the	ART DET
-product	NN
-of	PIN PREP
-the	ART DET
-mind	NN
-alone	RB
-.	
-There	EX CAP
-must	NEMD
-be	BEMA AUXB INF
-some	QUAN DET
-cause	NN
-and	PHC CCONJ
-effect	NN
-impressions	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-;	
-that	PIN THVC SCONJ PREP
-those	DEMP DET
-who	WH
-have	VPRT
-a	ART DET INDA
-poor	JJ
-capacity	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-simply	RB
-can	POMD SPAU
-not	XX0 RB
-pick	INF
-up	PIN PREP
-on	PIN PREP
-perceive	PRIV NN
-.	
-The	ART CAP DET
-second	JJ
-issue	NN
-with	PIN PREP
-cause	NN
-and	PHC CCONJ
-effect	NN
-that	PIN TOBJ SCONJ PREP
-Hume	CAP NNP
-'s	
-view	NN
-on	PIN PREP
-miracles	NN
-raises	VPRT
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-Hume	CAP NNP
-wants	VPRT
-to	PIN TO PREP
-place	INF
-them	TPP3 PRP SBJP ACCU
-under	PIN PREP
-repeatable	JJ
-scientific	JJ
-experiments	NOMZ
-.	
-Although	CONC PIN CAP SCONJ PREP
-this	DEMP DET
-would	PRMD
-establish	PRIV INF
-whether	PIN SCONJ PREP
-two	NUM
-events	NN
-are	PASS VPRT SPAU AUXB
-causally	RB
-related	
-,	
-they	TPP3 PRP SBJP
-could	POMD SPAU
-no	RB
-longer	RB
-be	PASS AUXB INF
-defined	
-as	PIN CONJ PREP
-a	ART DET INDA
-miracle	NN
-.	
-If	COND PIN CAP SCONJ PREP
-a	ART DET INDA
-miracle	NN
-is	VPRT AUXB
-freak	NN
-occurrence	NN
-against	PIN PREP
-the	ART DET
-laws	NN
-of	PIN PREP
-nature	NN
-then	RB
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-continuously	RB
-happens	VPRT
-then	RB
-it	PIT PRP SBJP
-will	PRMD
-become	INF
-a	ART DET INDA
-law	NN
-of	PIN PREP
-nature	NN
-itself	PIT PRP SBJP ACCU
-.	
-This	DEMP CAP DET
-seems	VPRT SMP
-to	PIN TO PREP
-highlight	INF
-the	ART DET
-need	NN
-for	PIN PREP
-there	EX
-to	PIN TO PREP
-be	AUXB INF
-cause	INF
-and	PHC CCONJ
-effect	INF
-impressions	NOMZ
-receivable	JJ
-from	PIN PREP
-the	ART DET
-physical	JJ
-world	NN
-.	
-If	COND PIN CAP SCONJ PREP
-we	FPP1 PRP SBJP
-are	BEMA VPRT AUXB
-to	PIN TO PREP
-receive	INF
-them	TPP3 PRP SBJP ACCU
-from	PIN PREP
-repeatable	JJ
-occurrences	NN
-of	PIN PREP
-the	ART DET
-event	NN
-then	RB
-it	PIT PRP SBJP
-must	NEMD
-actually	RB
-part	NN
-of	PIN PREP
-the	ART DET
-world	NN
-,	
-Hume	CAP NNP
-himself	TPP3 PRP SBJP ACCU
-believes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-mind	NN
-can	POMD SPAU
-not	XX0 RB
-create	INF
-anything	QUPR INPR
-original	JJ
-but	CCONJ
-that	PIN DEMO SCONJ PREP
-everything	QUPR INPR
-is	BEMA VPRT AUXB
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-sense	PRIV NN
-impressions	NOMZ
-.	
-If	COND PIN CAP SCONJ PREP
-a	ART DET INDA
-miraculous	JJ
-event	NN
-becomes	VPRT
-a	ART DET INDA
-law	NN
-of	PIN PREP
-nature	NN
-under	PIN PREP
-repeated	PUBV
-conditions	NOMZ
-then	RB
-it	PIT PRP SBJP
-seems	VPRT SMP
-to	PIN TO PREP
-follow	INF
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-mind	NN
-that	TSUB WHSUB WH
-imposes	VPRT
-what	WH
-these	DEMO DET
-laws	NN
-of	PIN PREP
-nature	NN
-are	BEMA VPRT AUXB
-on	PIN PREP
-the	ART DET
-world	NN
-.	
-When	RB CAP SCONJ WH
-psychological	JJ
-interpretations	NOMZ
-of	PIN PREP
-events	NN
-are	PASS VPRT AUXB
-imposed	
-they	TPP3 PRP SBJP
-seem	VPRT SMP
-to	PIN TO PREP
-highlight	INF
-that	PIN DEMO SCONJ PREP
-a	ART DET INDA
-physical	JJ
-element	NOMZ
-to	PIN TO PREP
-cause	INF
-and	CCONJ
-effect	NN
-relationships	NN
-is	BEMA VPRT AUXB
-missing	JJ PRED
-and	CCONJ
-,	
-likewise	RB CONJ
-,	
-when	RB SCONJ WH
-physical	JJ
-interpretations	NOMZ
-of	PIN PREP
-cause	NN
-and	PHC CCONJ
-effect	NN
-are	PASS VPRT AUXB
-imposed	
-on	PIN PREP
-similar	JJ
-events	NN
-,	
-a	ART DET INDA
-psychological	JJ
-element	NOMZ
-is	VPRT SPAU AUXB
-apparently	RB
-missing	PGAS
-.	
-At	PIN CAP PREP
-first	JJ
-appearance	NN
-the	ART DET
-two	NUM
-definitions	NOMZ
-of	PIN PREP
-Hume	CAP NNP
-provides	VPRT
-of	PIN PREP
-cause	NN
-seem	VPRT SMP
-at	PIN PREP
-odds	NN
-which	WHOBJ DET WH
-other	JJ
-and	CCONJ
-seem	VPRT SMP
-to	PIN TO PREP
-mirror	INF
-a	ART DET INDA
-Cartesian	JJ CAP
-type	NN
-Dualism	CAP NNP
-;	
-the	ART DET
-two	NUM
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-together	RB
-presenting	GER PGAS
-a	ART DET INDA
-mind	NN
-/	
-body	NN
-distinction	NOMZ
-.	
-Although	CONC PIN CAP SCONJ PREP
-in	PIN CONJ PREP
-Treatise	CAP NNP
-Hume	CAP NNP
-appears	VPRT SMP
-to	PIN TO PREP
-suggest	PUBV SUAV INF
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-can	POMD
-accept	PRIV INF
-either	DET
-view	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-adequate	JJ
-explanation	NOMZ
-of	PIN PREP
-causal	JJ
-relationships	NN
-it	PIT PRP SBJP
-seems	VPRT SMP
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-need	VPRT
-the	ART DET
-two	NUM
-views	NN
-combined	WZPAST
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO SPIN PREP
-fully	AMP RB
-understand	PRIV INF
-causal	JJ
-relationships	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-Humean	JJ CAP
-way	NN
-.	
-Together	RB CAP
-the	ART DET
-two	NUM
-views	NN
-seem	VPRT SMP
-to	PIN TO PREP
-advocate	INF
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-both	DET
-a	ART DET INDA
-mental	JJ
-element	NOMZ
-to	PIN PREP
-understanding	GER PRIV PGAS
-causal	JJ
-relationships	NN
-but	CCONJ
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-also	RB
-an	ART DET INDA
-actual	JJ
-relationship	NN
-that	TSUB WHSUB WH
-exists	VPRT
-between	PIN PREP
-two	NUM
-events	NN
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-for	PIN PREP
-us	FPP1 PRP SBJP ACCU
-to	PIN TO PREP
-understand	PRIV INF
-such	JJ
-events	NN
-.	
-It	PIT CAP PRP SBJP
-appears	VPRT SMP
-that	PIN THVC SCONJ PREP
-Hume	CAP NNP
-is	VPRT AUXB
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-there	EX
-is	VPRT AUXB
-an	ART DET INDA
-actual	JJ
-impression	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-have	INF
-the	ART DET
-mental	JJ
-capacity	NOMZ
-to	PIN TO PREP
-understand	PRIV THATD INF
-it	PIT PRP SBJP
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-far	RB PLACE
-removed	
-from	PIN PREP
-any	QUAN DET
-other	JJ
-impression	NOMZ
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-had	
-from	PIN PREP
-the	ART DET
-world	NN
-.	
-In	PIN CONJ CAP PREP
-viewing	PGAS
-everyday	JJ
-objects	PUBV NN THATD
-there	EX
-must	NEMD
-both	DET
-be	BEMA AUXB INF
-the	ART DET
-actual	JJ
-object	PUBV NN
-to	PIN TO PREP
-perceive	PRIV INF
-and	CCONJ
-the	ART DET
-mental	JJ
-capacity	NOMZ
-to	PIN TO PREP
-perceive	PRIV INF
-them	TPP3 PRP SBJP ACCU
-.	
-At	PIN CAP PREP
-first	RB
-it	PIT PRP SBJP
-seems	VPRT SMP
-puzzling	PGAS
-why	RB SCONJ WH
-Hume	CAP NNP
-presents	VPRT
-two	NUM
-seemingly	RB
-conflicting	GER PGAS
-views	NN
-only	DWNT RB
-to	PIN TO PREP
-find	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-two	NUM
-complement	NOMZ
-each	QUAN DET
-other	JJ
-.	
-The	ART CAP DET
-reason	PRIV NN
-must	NEMD
-be	BEMA AUXB INF
-that	PIN DEMO SCONJ PREP
-if	COND PIN SCONJ PREP
-Hume	CAP NNP
-was	BEMA VBD AUXB
-to	PIN TO PREP
-present	INF
-the	ART DET
-two	NUM
-views	NN
-as	PIN CONJ PREP
-one	NUM
-,	
-all	QUAN RB
--	
-encompassing	GER PGAS
-view	NN
-we	FPP1 PRP SBJP
-would	PRMD
-be	PASS AUXB INF
-left	
-with	PIN PREP
-a	ART DET INDA
-fairly	RB
-dull	JJ
-view	NN
-of	PIN PREP
-cause	NN
-and	PHC CCONJ
-effect	NN
-that	TSUB WHSUB WH
-is	VPRT AUXB
-hardly	DWNT RB
-earth	NN
-shattering	GER
-;	
-namely	RB CONJ
-that	DEMP DET
-cause	VPRT
-and	CCONJ
-effect	NN
-relationship	NN
-impressions	NOMZ
-arise	VPRT
-from	PIN PREP
-the	ART DET
-real	JJ
-world	NN
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-have	VPRT
-a	ART DET INDA
-mental	JJ
-capacity	NOMZ
-to	PIN TO PREP
-perceive	PRIV INF
-them	TPP3 PRP SBJP ACCU
-.	
-In	PIN CONJ CAP PREP
-first	RB
-looking	PGAS
-for	PIN PREP
-a	ART DET INDA
-definition	NOMZ
-of	PIN PREP
-cause	NN
-Hume	CAP NNP
-attempts	VPRT
-to	PIN TO PREP
-break	INF
-down	PIN PREP
-a	ART DET INDA
-compound	NN
-idea	NN
-into	PIN PREP
-its	PIT PRP SBJP
-constituent	NN
-,	
-simple	JJ
-parts	NN
-.	
-It	PIT CAP PRP SBJP
-appears	VPRT SMP
-that	PIN STPR DEMP SCONJ PREP
-,	
-for	PIN PREP
-Hume	CAP NNP
-,	
-the	ART DET
-two	NUM
-simple	JJ
-ideas	NN
-are	BEMA VPRT AUXB
-that	DEMO DET
-of	PIN PREP
-a	ART DET INDA
-mental	JJ
-one	NUM
-and	CCONJ
-a	ART DET INDA
-physical	JJ
-one	NN
-,	
-but	CCONJ
-the	ART DET
-two	NUM
-are	BEMA VPRT AUXB
-so	RB EMPH
-dependent	JJ
-on	PIN PREP
-each	QUAN DET
-other	JJ
-that	PIN THAC SCONJ PREP
-they	TPP3 PRP SBJP
-amount	VPRT
-to	PIN PREP
-one	NUM
-compound	NN
-idea	NN
-.	
-Each	QUAN CAP DET
-has	VPRT
-holes	NN
-that	TSUB WHSUB WH
-require	VPRT SUAV
-the	ART DET
-other	JJ
-to	PIN TO PREP
-fill	INF
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-one	PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-explained	PUBV
-without	PIN PREP
-the	ART DET
-other	JJ
-.	
-It	PIT CAP PRP SBJP
-seems	VPRT SMP
-that	PIN THVC SCONJ PREP
-the	ART DET
-two	NUM
-simple	JJ
-ideas	NN
-are	BEMA VPRT AUXB
-so	RB EMPH
-connected	JJ
-that	PIN THAC SCONJ PREP
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-,	
-in	PIN CONJ PREP
-fact	NN
-,	
-just	RB EMPH
-one	NUM
-complex	JJ
-idea	NN
-of	PIN PREP
-cause	NN
-and	PHC CCONJ
-effect	NN
-.	
+type	content	tags
+word	Hume	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	two	NUM
+gap	 	
+word	definitions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cause	NN
+gap	 	
+word	differ	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	dualist	JJ
+gap	 	
+word	way	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	regularities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	world	NN
+gap	; 	
+word	the	ART DET
+gap	 	
+word	second	JJ
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	associations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mind	NN
+gap	. 	
+word	Hume	CAP INF
+gap	 	
+word	talks	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	accept	PRIV INF
+gap	 	
+word	either	RB
+gap	 	
+word	or	CCONJ
+gap	 	
+word	both	DET
+gap	 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	accept	PRIV INF
+gap	 	
+word	both	DET
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	fully	AMP RB
+gap	 	
+word	grasp	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	intricacies	NN
+gap	 	
+word	involved	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	describing	GER PGAS
+gap	 	
+word	cause	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	effect	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	, 	
+word	physical	JJ
+gap	 	
+word	definition	NOMZ
+gap	, 	
+word	says	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cause	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	contiguous	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	precedent	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	where	RB SCONJ WH
+gap	 '	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	resembling	GER WZPRES PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	former	JJ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	placed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	relations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	precedence	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	contiguity	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	objects	PUBV NN THATD
+gap	 	
+word	that	TSUB WHSUB WHCL WH
+gap	 	
+word	resemble	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	latter	JJ
+gap	' (	
+word	Section	NOMZ CAP
+gap	 14, 	
+word	Treatise	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Human	CAP NNP
+gap	 	
+word	Nature	CAP NNP
+gap	). 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	apparent	JJ
+gap	 	
+word	what	WH
+gap	 	
+word	Hume	CAP NNP
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	resembling	GER WZPRES PGAS
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	. 	
+word	Do	VPRT CAP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	identical	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	? 	
+word	Or	CAP CCONJ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	there	EX
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	scope	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	variety	NN
+gap	? 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	scope	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	variety	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	difference	NN
+gap	 	
+word	then	RB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	where	RB WHCL SCONJ WH
+gap	 	
+word	Hume	CAP NNP
+gap	 	
+word	would	PRMD
+gap	 	
+word	draw	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	line	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	event	NN
+gap	 	
+word	no	RB
+gap	 	
+word	longer	RB
+gap	 	
+word	resembles	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	one	NN
+gap	 	
+word	being	PASS WZPRES AUXB
+gap	 	
+word	analysed	
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	resembles	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	event	NN
+gap	 	
+word	instead	RB CONJ
+gap	. 	
+word	Depending	CAP PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	criteria	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	constitutes	VPRT
+gap	 	
+word	events	NN
+gap	 	
+word	resembling	GER WZPRES PGAS
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	; 	
+word	it	PIT PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	argued	PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	events	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	contiguous	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	precedent	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	event	NN
+gap	 	
+word	resemble	VPRT
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	would	PRMD
+gap	 	
+word	suggest	PUBV SUAV INF
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	underlying	JJ
+gap	 	
+word	cause	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	effect	NN
+gap	 	
+word	principle	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	Hume	CAP NNP
+gap	 	
+word	presents	VPRT
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	criteria	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	makes	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	event	NN
+gap	 	
+word	different	JJ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	another	DET
+gap	 	
+word	then	RB
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	that	TOBJ THVC WHOBJ WHCL WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	assume	
+gap	 	
+word	that	
+gap	 	
+word	all	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	 	
+word	resemble	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	insofar	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	all	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	. 	
+word	Hume	
+gap	'	
+word	s	
+gap	 	
+word	first	
+gap	 	
+word	definition	
+gap	 	
+word	is	
+gap	 	
+word	lacking	
+gap	 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	rule	
+gap	 	
+word	out	
+gap	 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	that	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	actually	
+gap	 	
+word	exists	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	principle	
+gap	 	
+word	or	
+gap	 	
+word	law	
+gap	 	
+word	of	
+gap	 	
+word	nature	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	, 	
+word	which	
+gap	 	
+word	Hume	
+gap	 	
+word	is	
+gap	 	
+word	evidently	
+gap	 	
+word	against	
+gap	. 	
+word	Hume	
+gap	'	
+word	s	
+gap	 	
+word	second	
+gap	 	
+word	definition	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	psychological	
+gap	 	
+word	one	
+gap	; 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	constant	
+gap	 	
+word	conjunction	
+gap	 	
+word	of	
+gap	 	
+word	events	
+gap	 	
+word	that	
+gap	 	
+word	produces	
+gap	 	
+word	an	
+gap	 	
+word	impression	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	. 	
+word	Hume	
+gap	 	
+word	claims	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	cause	
+gap	 	
+word	is	
+gap	 	
+word	so	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	it	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	causes	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	to	
+gap	 	
+word	link	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	and	
+gap	 	
+word	whenever	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	anticipates	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	. 	
+word	Again	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	what	
+gap	 	
+word	exactly	
+gap	 	
+word	is	
+gap	 	
+word	required	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	impression	
+gap	 	
+word	to	
+gap	 	
+word	occur	
+gap	; 	
+word	must	
+gap	 	
+word	identical	
+gap	 	
+word	events	
+gap	 	
+word	be	
+gap	 	
+word	repeated	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	causal	
+gap	 	
+word	impression	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	made	
+gap	? 	
+word	Or	
+gap	, 	
+word	again	
+gap	, 	
+word	does	
+gap	 	
+word	it	
+gap	 	
+word	just	
+gap	 	
+word	reduce	
+gap	 	
+word	to	
+gap	 	
+word	observing	
+gap	 	
+word	different	
+gap	 	
+word	sets	
+gap	 	
+word	of	
+gap	 	
+word	events	
+gap	 	
+word	that	
+gap	 	
+word	resemble	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	in	
+gap	 	
+word	no	
+gap	 	
+word	way	
+gap	 	
+word	other	
+gap	 	
+word	than	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	possess	
+gap	 	
+word	a	
+gap	 	
+word	causal	
+gap	 	
+word	connection	
+gap	? 	
+word	In	
+gap	 	
+word	Enquiry	
+gap	 	
+word	Concerning	
+gap	 	
+word	Human	
+gap	 	
+word	Understanding	
+gap	 	
+word	Hume	
+gap	 	
+word	professes	
+gap	 	
+word	a	
+gap	 	
+word	view	
+gap	 	
+word	on	
+gap	 	
+word	miracles	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	closely	
+gap	 	
+word	connected	
+gap	 	
+word	to	
+gap	 	
+word	his	
+gap	 	
+word	views	
+gap	 	
+word	on	
+gap	 	
+word	cause	
+gap	 	
+word	an	
+gap	 	
+word	effect	
+gap	. 	
+word	Hume	
+gap	 	
+word	essentially	
+gap	 	
+word	exerts	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	must	
+gap	 	
+word	not	
+gap	 	
+word	believe	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	miracle	
+gap	 	
+word	unless	
+gap	 	
+word	to	
+gap	 	
+word	not	
+gap	 	
+word	believe	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	event	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	miraculous	
+gap	 	
+word	than	
+gap	 	
+word	to	
+gap	 	
+word	believe	
+gap	 	
+word	in	
+gap	 	
+word	it	
+gap	. 	
+word	Hume	
+gap	 	
+word	accounts	
+gap	 	
+word	for	
+gap	 	
+word	miracles	
+gap	 	
+word	as	
+gap	 	
+word	misperceptions	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	minds	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	can	
+gap	 	
+word	never	
+gap	 	
+word	be	
+gap	 	
+word	enough	
+gap	 	
+word	people	
+gap	 	
+word	of	
+gap	 	
+word	sound	
+gap	 	
+word	enough	
+gap	 	
+word	mind	
+gap	 	
+word	to	
+gap	 	
+word	witness	
+gap	 	
+word	an	
+gap	 	
+word	event	
+gap	 	
+word	and	
+gap	 	
+word	provide	
+gap	 	
+word	a	
+gap	 	
+word	substantial	
+gap	 	
+word	claim	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	existence	
+gap	 	
+word	of	
+gap	 	
+word	miracles	
+gap	. 	
+word	Hume	
+gap	 	
+word	also	
+gap	 	
+word	wants	
+gap	 	
+word	miracles	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	placed	
+gap	 	
+word	under	
+gap	 	
+word	experimental	
+gap	 	
+word	procedures	
+gap	 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	event	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	reproduced	
+gap	 	
+word	until	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	established	
+gap	 	
+word	that	
+gap	 	
+word	whatever	
+gap	 	
+word	miraculous	
+gap	 	
+word	event	
+gap	 	
+word	occurred	
+gap	 	
+word	did	
+gap	 	
+word	really	
+gap	 	
+word	occur	
+gap	. 	
+word	This	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	suggest	
+gap	 	
+word	two	
+gap	 	
+word	things	
+gap	 	
+word	in	
+gap	 	
+word	regards	
+gap	 	
+word	to	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	. 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	being	
+gap	 	
+word	that	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	does	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	exist	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	for	
+gap	 	
+word	Hume	
+gap	 	
+word	as	
+gap	 	
+word	he	
+gap	 	
+word	sees	
+gap	 	
+word	miracles	
+gap	 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	product	
+gap	 	
+word	of	
+gap	 	
+word	misperception	
+gap	; 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	is	
+gap	 	
+word	creating	
+gap	 	
+word	a	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	impression	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	set	
+gap	 	
+word	of	
+gap	 	
+word	events	
+gap	 	
+word	where	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	relationship	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	really	
+gap	 	
+word	exist	
+gap	. 	
+word	This	
+gap	 	
+word	could	
+gap	 	
+word	imply	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	for	
+gap	 	
+word	people	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	some	
+gap	 	
+word	capacity	
+gap	 	
+word	for	
+gap	 	
+word	understanding	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	lacking	
+gap	. 	
+word	Perhaps	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	some	
+gap	 	
+word	people	
+gap	 	
+word	who	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	understand	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	 	
+word	at	
+gap	 	
+word	all	
+gap	 	
+word	and	
+gap	 	
+word	perhaps	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	some	
+gap	 	
+word	who	
+gap	 	
+word	understand	
+gap	 	
+word	better	
+gap	 	
+word	than	
+gap	 	
+word	others	
+gap	. 	
+word	Although	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	perfectly	
+gap	 	
+word	plausible	
+gap	, 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	show	
+gap	 	
+word	that	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	product	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	alone	
+gap	. 	
+word	There	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	some	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	impressions	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	; 	
+word	that	
+gap	 	
+word	those	
+gap	 	
+word	who	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	poor	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	simply	
+gap	 	
+word	cannot	
+gap	 	
+word	pick	
+gap	 	
+word	up	
+gap	 	
+word	on	
+gap	 	
+word	perceive	
+gap	. 	
+word	The	
+gap	 	
+word	second	
+gap	 	
+word	issue	
+gap	 	
+word	with	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	that	
+gap	 	
+word	Hume	
+gap	'	
+word	s	
+gap	 	
+word	view	
+gap	 	
+word	on	
+gap	 	
+word	miracles	
+gap	 	
+word	raises	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	Hume	
+gap	 	
+word	wants	
+gap	 	
+word	to	
+gap	 	
+word	place	
+gap	 	
+word	them	
+gap	 	
+word	under	
+gap	 	
+word	repeatable	
+gap	 	
+word	scientific	
+gap	 	
+word	experiments	
+gap	. 	
+word	Although	
+gap	 	
+word	this	
+gap	 	
+word	would	
+gap	 	
+word	establish	
+gap	 	
+word	whether	
+gap	 	
+word	two	
+gap	 	
+word	events	
+gap	 	
+word	are	
+gap	 	
+word	causally	
+gap	 	
+word	related	
+gap	, 	
+word	they	
+gap	 	
+word	could	
+gap	 	
+word	no	
+gap	 	
+word	longer	
+gap	 	
+word	be	
+gap	 	
+word	defined	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	miracle	
+gap	. 	
+word	If	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	miracle	NN
+gap	 	
+word	is	
+gap	 	
+word	freak	
+gap	 	
+word	occurrence	
+gap	 	
+word	against	
+gap	 	
+word	the	
+gap	 	
+word	laws	
+gap	 	
+word	of	
+gap	 	
+word	nature	
+gap	 	
+word	then	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	continuously	
+gap	 	
+word	happens	
+gap	 	
+word	then	
+gap	 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	become	
+gap	 	
+word	a	
+gap	 	
+word	law	
+gap	 	
+word	of	
+gap	 	
+word	nature	
+gap	 	
+word	itself	
+gap	. 	
+word	This	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	highlight	
+gap	 	
+word	the	
+gap	 	
+word	need	
+gap	 	
+word	for	
+gap	 	
+word	there	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	impressions	
+gap	 	
+word	receivable	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	physical	
+gap	 	
+word	world	
+gap	. 	
+word	If	
+gap	 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	to	
+gap	 	
+word	receive	
+gap	 	
+word	them	
+gap	 	
+word	from	
+gap	 	
+word	repeatable	
+gap	 	
+word	occurrences	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	event	
+gap	 	
+word	then	
+gap	 	
+word	it	
+gap	 	
+word	must	
+gap	 	
+word	actually	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	, 	
+word	Hume	
+gap	 	
+word	himself	
+gap	 	
+word	believes	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	cannot	
+gap	 	
+word	create	
+gap	 	
+word	anything	
+gap	 	
+word	original	
+gap	 	
+word	but	
+gap	 	
+word	that	
+gap	 	
+word	everything	
+gap	 	
+word	is	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	sense	
+gap	 	
+word	impressions	
+gap	. 	
+word	If	
+gap	 	
+word	a	
+gap	 	
+word	miraculous	
+gap	 	
+word	event	
+gap	 	
+word	becomes	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	law	
+gap	 	
+word	of	
+gap	 	
+word	nature	
+gap	 	
+word	under	
+gap	 	
+word	repeated	
+gap	 	
+word	conditions	
+gap	 	
+word	then	
+gap	 	
+word	it	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	that	
+gap	 	
+word	imposes	
+gap	 	
+word	what	
+gap	 	
+word	these	
+gap	 	
+word	laws	
+gap	 	
+word	of	
+gap	 	
+word	nature	
+gap	 	
+word	are	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	. 	
+word	When	
+gap	 	
+word	psychological	
+gap	 	
+word	interpretations	
+gap	 	
+word	of	
+gap	 	
+word	events	
+gap	 	
+word	are	
+gap	 	
+word	imposed	
+gap	 	
+word	they	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	highlight	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	physical	
+gap	 	
+word	element	
+gap	 	
+word	to	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationships	
+gap	 	
+word	is	
+gap	 	
+word	missing	
+gap	 	
+word	and	
+gap	, 	
+word	likewise	
+gap	, 	
+word	when	
+gap	 	
+word	physical	
+gap	 	
+word	interpretations	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	are	
+gap	 	
+word	imposed	
+gap	 	
+word	on	
+gap	 	
+word	similar	
+gap	 	
+word	events	
+gap	, 	
+word	a	
+gap	 	
+word	psychological	
+gap	 	
+word	element	
+gap	 	
+word	is	
+gap	 	
+word	apparently	
+gap	 	
+word	missing	
+gap	. 	
+word	At	
+gap	 	
+word	first	
+gap	 	
+word	appearance	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	definitions	
+gap	 	
+word	of	
+gap	 	
+word	Hume	
+gap	 	
+word	provides	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	seem	
+gap	 	
+word	at	
+gap	 	
+word	odds	
+gap	 	
+word	which	
+gap	 	
+word	other	
+gap	 	
+word	and	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	mirror	
+gap	 	
+word	a	
+gap	 	
+word	Cartesian	
+gap	 	
+word	type	
+gap	 	
+word	Dualism	
+gap	; 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	 	
+word	together	
+gap	 	
+word	presenting	
+gap	 	
+word	a	
+gap	 	
+word	mind	
+gap	/	
+word	body	
+gap	 	
+word	distinction	
+gap	. 	
+word	Although	
+gap	 	
+word	in	
+gap	 	
+word	Treatise	
+gap	 	
+word	Hume	
+gap	 	
+word	appears	
+gap	 	
+word	to	
+gap	 	
+word	suggest	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	can	
+gap	 	
+word	accept	
+gap	 	
+word	either	
+gap	 	
+word	view	
+gap	 	
+word	as	
+gap	 	
+word	an	
+gap	 	
+word	adequate	
+gap	 	
+word	explanation	
+gap	 	
+word	of	
+gap	 	
+word	causal	
+gap	 	
+word	relationships	
+gap	 	
+word	it	
+gap	 	
+word	seems	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	need	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	views	
+gap	 	
+word	combined	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	fully	
+gap	 	
+word	understand	
+gap	 	
+word	causal	
+gap	 	
+word	relationships	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	Humean	
+gap	 	
+word	way	
+gap	. 	
+word	Together	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	views	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	advocate	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	both	
+gap	 	
+word	a	
+gap	 	
+word	mental	
+gap	 	
+word	element	
+gap	 	
+word	to	
+gap	 	
+word	understanding	
+gap	 	
+word	causal	
+gap	 	
+word	relationships	
+gap	 	
+word	but	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	an	
+gap	 	
+word	actual	
+gap	 	
+word	relationship	
+gap	 	
+word	that	
+gap	 	
+word	exists	
+gap	 	
+word	between	
+gap	 	
+word	two	
+gap	 	
+word	events	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	necessary	
+gap	 	
+word	for	
+gap	 	
+word	us	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	such	
+gap	 	
+word	events	
+gap	. 	
+word	It	
+gap	 	
+word	appears	
+gap	 	
+word	that	
+gap	 	
+word	Hume	
+gap	 	
+word	is	
+gap	 	
+word	saying	
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	there	
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	an	
+gap	 	
+word	actual	
+gap	 	
+word	impression	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	need	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	mental	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	it	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	far	
+gap	 	
+word	removed	
+gap	 	
+word	from	
+gap	 	
+word	any	
+gap	 	
+word	other	
+gap	 	
+word	impression	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	had	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	. 	
+word	In	
+gap	 	
+word	viewing	
+gap	 	
+word	everyday	
+gap	 	
+word	objects	
+gap	 	
+word	there	
+gap	 	
+word	must	
+gap	 	
+word	both	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	actual	
+gap	 	
+word	object	
+gap	 	
+word	to	
+gap	 	
+word	perceive	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	mental	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	perceive	
+gap	 	
+word	them	
+gap	. 	
+word	At	
+gap	 	
+word	first	
+gap	 	
+word	it	
+gap	 	
+word	seems	
+gap	 	
+word	puzzling	
+gap	 	
+word	why	
+gap	 	
+word	Hume	
+gap	 	
+word	presents	
+gap	 	
+word	two	
+gap	 	
+word	seemingly	
+gap	 	
+word	conflicting	
+gap	 	
+word	views	
+gap	 	
+word	only	
+gap	 	
+word	to	
+gap	 	
+word	find	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	complement	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	. 	
+word	The	
+gap	 	
+word	reason	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	Hume	
+gap	 	
+word	was	
+gap	 	
+word	to	
+gap	 	
+word	present	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	views	
+gap	 	
+word	as	
+gap	 	
+word	one	
+gap	, 	
+word	all	
+gap	-	
+word	encompassing	
+gap	 	
+word	view	
+gap	 	
+word	we	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	left	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	fairly	
+gap	 	
+word	dull	
+gap	 	
+word	view	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	hardly	
+gap	 	
+word	earth	
+gap	 	
+word	shattering	
+gap	; 	
+word	namely	
+gap	 	
+word	that	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	 	
+word	relationship	
+gap	 	
+word	impressions	
+gap	 	
+word	arise	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	real	
+gap	 	
+word	world	
+gap	 	
+word	and	
+gap	 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	mental	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	perceive	
+gap	 	
+word	them	
+gap	. 	
+word	In	
+gap	 	
+word	first	
+gap	 	
+word	looking	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	definition	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	Hume	
+gap	 	
+word	attempts	
+gap	 	
+word	to	
+gap	 	
+word	break	
+gap	 	
+word	down	
+gap	 	
+word	a	
+gap	 	
+word	compound	
+gap	 	
+word	idea	
+gap	 	
+word	into	
+gap	 	
+word	its	
+gap	 	
+word	constituent	
+gap	, 	
+word	simple	
+gap	 	
+word	parts	
+gap	. 	
+word	It	
+gap	 	
+word	appears	
+gap	 	
+word	that	
+gap	, 	
+word	for	
+gap	 	
+word	Hume	
+gap	, 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	simple	
+gap	 	
+word	ideas	
+gap	 	
+word	are	
+gap	 	
+word	that	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	mental	
+gap	 	
+word	one	
+gap	 	
+word	and	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	physical	
+gap	 	
+word	one	NUM
+gap	, 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	are	
+gap	 	
+word	so	
+gap	 	
+word	dependent	
+gap	 	
+word	on	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	amount	
+gap	 	
+word	to	
+gap	 	
+word	one	
+gap	 	
+word	compound	
+gap	 	
+word	idea	
+gap	. 	
+word	Each	
+gap	 	
+word	has	
+gap	 	
+word	holes	
+gap	 	
+word	that	
+gap	 	
+word	require	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	to	
+gap	 	
+word	fill	
+gap	 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	one	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	explained	
+gap	 	
+word	without	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	. 	
+word	It	
+gap	 	
+word	seems	
+gap	 	
+word	that	
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	
+gap	 	
+word	simple	
+gap	 	
+word	ideas	
+gap	 	
+word	are	
+gap	 	
+word	so	
+gap	 	
+word	connected	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	, 	
+word	in	
+gap	 	
+word	fact	
+gap	, 	
+word	just	
+gap	 	
+word	one	
+gap	 	
+word	complex	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	effect	
+gap	.	

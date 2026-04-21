@@ -1,558 +1,971 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2107.1018.txt
-token	tags
-    	
-A	ART CAP DET INDA
-number	NN
-of	PIN PREP
-real	JJ
--	
-world	NN
-systems	NN
-such	JJ
-as	PIN CONJ PREP
-power	NN
-converters	NN
-,	
-biochemical	JJ
-reactors	NN
-,	
-cars	NN
-,	
-and	ANDC CCONJ
-aircraft	NN
-can	POMD
-be	PASS BYPA SPAU AUXB INF
-mathematically	RB
-modeled	
-by	PIN PREP
-a	ART DET INDA
-set	NN
-of	PIN PREP
-nonlinear	JJ
-differential	JJ
-equations	NOMZ
-usually	RB
-derived	
-from	PIN PREP
-physical	JJ
-laws	NN
-.	
-For	PIN CAP PREP
-this	DEMO DET
-reason	PRIV NN
-,	
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-called	
-nonlinear	JJ
-systems	NN
-.	
-Frequently	RB CAP
-,	
-linear	JJ
-controllers	NN
-are	PASS VPRT AUXB
-employed	
-to	PIN TO PREP
-control	INF
-(	
-or	CCONJ
-stabilize	INF
-)	
-them	TPP3 PRP SBJP ACCU
-.	
-However	RB CONJ CAP
-,	
-these	DEMO DET
-controllers	NN
-can	POMD
-exhibit	INF
-poor	JJ
-performance	NN
-when	RB WHOBJ SCONJ WH
-a	ART DET INDA
-large	JJ
-operating	NN
-range	NN
-is	PASS VPRT AUXB
-required	SUAV
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-outperform	INF
-linear	JJ
-control	NN
-limitations	NOMZ
-,	
-nonlinear	JJ
-techniques	NN
-were	PASS VBD AUXB
-proposed	SUAV
-,	
-but	CCONJ
-their	TPP3 PRP SBJP
-design	NN
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-hard	JJ
-task	NN
-for	PIN PREP
-applications	NOMZ
-involving	WZPRES PGAS
-complex	JJ
-nonlinear	JJ
-systems	NN
-.	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-at	PIN PREP
-discussing	GER PGAS
-the	ART DET
-advantages	NN
-of	PIN PREP
-employing	PGAS
-fuzzy	JJ
-model	NN
--	
-based	
-control	NN
-to	PIN TO PREP
-stabilize	INF
-nonlinear	JJ
-systems	NN
-when	RB WHSUB SCONJ WH
-compared	
-to	PIN PREP
-conventional	JJ
-linear	JJ
-/	
-nonlinear	JJ
-techniques	NN
-.	
-  	
-Most	JJ EMPH CAP SPADJ
-of	PIN PREP
-control	NN
-applications	NOMZ
-regard	VPRT
-linear	JJ
-techniques	NN
-.	
-Designers	NN CAP
-usually	RB
-prefer	VPRT SUAV
-this	DEMO DET
-class	NN
-of	PIN PREP
-controllers	NN
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-their	TPP3 PRP SBJP
-long	JJ
-successful	JJ
-history	NN
-in	PIN CONJ PREP
-industrial	JJ
-applications	NOMZ
-.	
-The	ART CAP DET
-design	NN
-of	PIN PREP
-linear	JJ
-controllers	NN
-is	PASS VPRT AUXB
-performed	
-concerning	GER PGAS
-linearized	
-models	NN
-whose	WHOBJ DET WH
-validity	NOMZ
-is	PASS VPRT AUXB
-restricted	
-to	PIN PREP
-the	ART DET
-vicinity	NOMZ
-of	PIN PREP
-a	ART DET INDA
-given	
-operating	NN
-point	NN
-of	PIN PREP
-the	ART DET
-nonlinear	JJ
-system	NN
-.	
-Thus	RB CONJ CAP
-,	
-when	RB SCONJ WH
-a	ART DET INDA
-large	JJ
-operating	NN
-range	NN
-is	PASS VPRT AUXB
-required	SUAV
-,	
-or	CCONJ
-a	ART DET INDA
-time	NN
--	
-variant	JJ
-reference	NN
-must	NEMD
-be	PASS AUXB INF
-tracked	
-,	
-linear	JJ
-controllers	NN
-can	POMD
-exhibit	INF
-poor	JJ
-performance	NN
-or	CCONJ
-,	
-in	PIN CONJ PREP
-extreme	JJ
-cases	NN
-,	
-lead	INF
-the	ART DET
-system	NN
-to	PIN PREP
-instability	NOMZ
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-if	COND PIN SCONJ PREP
-the	ART DET
-model	NN
-owns	VPRT
-"	QUOT
-hard	JJ
-nonlinearities	NN
-"	QUOT
-,	
-the	ART DET
-linearization	NOMZ
-procedure	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-applied	
-.	
-This	DEMO CAP DET
-motivated	JJ
-development	NOMZ
-of	PIN PREP
-nonlinear	JJ
-techniques	NN
-.	
-  	
-Nonlinear	JJ CAP
-control	NN
-techniques	NN
-have	VPRT PEAS
-been	PASS AUXB
-proposed	SUAV
-to	PIN TO PREP
-outperform	INF
-linear	JJ
-control	NN
-limitations	NOMZ
-,	
-but	CCONJ
-many	QUAN JJ
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-can	POMD
-be	BEMA AUXB INF
-difficult	JJ PRED
-to	PIN TO PREP
-be	PASS AUXB INF
-designed	
-for	PIN PREP
-complex	JJ
-nonlinear	JJ
-systems	NN
-.	
-In	PIN CONJ CAP PREP
-classical	JJ
-nonlinear	JJ
-control	NN
-techniques	NN
-such	JJ
-as	PIN CONJ PREP
-feedback	NN
-linearization	NOMZ
-,	
-this	DEMO DET
-difficulty	NN
-is	PASS VPRT BYPA AUXB
-avoided	
-by	PIN PREP
-nonlinearity	NOMZ
-cancellation	NOMZ
-which	WHSUB DET WH
-attempts	VPRT
-to	PIN TO PREP
-impose	INF
-some	QUAN DET
-predetermined	
-dynamical	JJ
-behavior	NN
-for	PIN PREP
-the	ART DET
-system	NN
-.	
-Other	JJ CAP
-techniques	NN
-like	PIN PREP
-passivity	NOMZ
--	
-based	
-control	NN
-try	VPRT
-to	PIN TO PREP
-respect	INF
-the	ART DET
-system	NN
-’s	
-structure	NN
-and	CCONJ
-incorporate	INF
-it	PIT PRP SBJP
-into	PIN PREP
-control	NN
-design	NN
-.	
-However	RB CONJ CAP
-,	
-passivity	NOMZ
--	
-based	
-methods	NN
-require	VPRT SUAV
-solving	PGAS
-partial	JJ
-differential	JJ
-equations	NOMZ
-,	
-which	SERE DET WH
-also	RB
-introduces	VPRT
-difficulties	NN
-to	PIN TO PREP
-design	INF
-.	
-  	
-In	PIN CONJ CAP PREP
-the	ART DET
-last	JJ
-three	NUM
-decades	NN
-,	
-fuzzy	JJ
-model	NN
--	
-based	
-control	NN
-has	VPRT PEAS
-provided	
-a	ART DET INDA
-suitable	JJ
-compromise	NN
-between	PIN PREP
-effectiveness	NOMZ
-and	PHC CCONJ
-design	NN
-complexity	NOMZ
-.	
-The	ART CAP DET
-main	JJ
-feature	NN
-of	PIN PREP
-this	DEMO DET
-nonlinear	JJ
-technique	NN
-is	PASS VPRT AUXB
-related	
-to	PIN PREP
-the	ART DET
-ability	NOMZ
-of	PIN PREP
-fuzzy	JJ
-models	NN
-describe	VPRT
-nonlinear	JJ
-dynamics	NN
-by	PIN PREP
-blending	PGAS
-simple	JJ
-linear	NN
-subsystems	NN
-.	
-This	DEMO CAP DET
-local	JJ
-linearity	NOMZ
-of	PIN PREP
-fuzzy	JJ
-models	NN
-allows	VPRT SUAV
-fuzzy	JJ
-controllers	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-designed	
-using	PGAS
-Linear	CAP NNP
-Matrix	CAP NNP
-Inequalities	CAP NNP
-,	
-a	ART DET INDA
-convex	JJ
-optimization	NOMZ
-tool	NN
-that	TSUB WHSUB WH
-can	POMD
-be	PASS BYPA SPAU AUXB INF
-efficiently	RB
-solved	
-by	PIN PREP
-existing	PGAS
-software	NN
-.	
-Another	CAP DET
-advantage	NN
-of	PIN PREP
-fuzzy	JJ
-control	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-nonlinearity	NOMZ
-information	NOMZ
-is	PASS VPRT AUXB
-introduced	
-into	PIN PREP
-control	NN
-scheme	NN
-,	
-thus	RB CONJ
-respecting	GER PGAS
-the	ART DET
-system	NN
-’s	
-structure	NN
-.	
-  	
-In	PIN CONJ CAP PREP
-general	JJ
-,	
-the	ART DET
-control	NN
-design	NN
-for	PIN PREP
-nonlinear	JJ
-systems	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-simple	JJ
-task	NN
-.	
-On	PIN CAP PREP
-one	NUM
-hand	NN
-,	
-if	COND PIN SCONJ PREP
-linear	JJ
-control	NN
-is	PASS VPRT AUXB
-employed	
-,	
-the	ART DET
-system	NN
-'s	
-performance	NN
-can	POMD
-be	PASS AUXB INF
-deteriorated	
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-designing	PGAS
-nonlinear	JJ
-controllers	NN
-may	POMD
-be	BEMA AUXB INF
-difficult	JJ PRED
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-may	POMD
-require	SUAV INF
-solving	PGAS
-hard	JJ
-equations	NOMZ
-,	
-which	SERE WHQU DET WH
-even	RB
-can	POMD
-have	INF
-multiple	JJ
-solutions	NOMZ
-.	
-Fuzzy	JJ CAP
-model	NN
--	
-based	
-control	NN
-offers	VPRT
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-design	NN
-nonlinear	JJ
-controllers	NN
-simply	RB
-solving	PGAS
-a	ART DET INDA
-convex	JJ
-optimization	NOMZ
-problem	NN
-.	
-Therefore	RB CONJ CAP
-,	
-fuzzy	JJ
-control	NN
-can	POMD
-be	PASS AUXB INF
-viewed	
-as	PIN CONJ PREP
-a	ART DET INDA
-promising	JJ PUBV
-alternative	NN
-to	PIN TO PREP
-stabilize	INF
-nonlinear	JJ
-systems	NN
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-catches	VPRT
-the	ART DET
-good	JJ
-features	NN
-of	PIN PREP
-both	DET
-linear	JJ
-and	PHC CCONJ
-nonlinear	JJ
-classical	JJ
-techniques	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2107.1018>\n\n<Fuzzy Model-Based Control: An Efficient Framework to Control Nonlinear Systems>\n\n	
+word	A	ART CAP DET INDA
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	real	JJ
+gap	-	
+word	world	NN
+gap	 	
+word	systems	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	power	NN
+gap	 	
+word	converters	NN
+gap	, 	
+word	biochemical	JJ
+gap	 	
+word	reactors	NN
+gap	, 	
+word	cars	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	aircraft	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA SPAU AUXB INF
+gap	 	
+word	mathematically	RB
+gap	 	
+word	modeled	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nonlinear	JJ
+gap	 	
+word	differential	JJ
+gap	 	
+word	equations	NOMZ
+gap	 	
+word	usually	RB
+gap	 	
+word	derived	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	physical	JJ
+gap	 	
+word	laws	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	reason	PRIV NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	called	
+gap	 	
+word	nonlinear	JJ
+gap	 	
+word	systems	NN
+gap	. 	
+word	Frequently	RB CAP
+gap	, 	
+word	linear	JJ
+gap	 	
+word	controllers	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	employed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	control	INF
+gap	 (	
+word	or	CCONJ
+gap	 	
+word	stabilize	INF
+gap	) 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	controllers	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	exhibit	INF
+gap	 	
+word	poor	JJ
+gap	 	
+word	performance	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	operating	NN
+gap	 	
+word	range	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	required	SUAV
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	outperform	INF
+gap	 	
+word	linear	JJ
+gap	 	
+word	control	NN
+gap	 	
+word	limitations	NOMZ
+gap	, 	
+word	nonlinear	JJ
+gap	 	
+word	techniques	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	proposed	SUAV
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	design	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	hard	JJ
+gap	 	
+word	task	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	applications	NOMZ
+gap	 	
+word	involving	WZPRES PGAS
+gap	 	
+word	complex	JJ
+gap	 	
+word	nonlinear	JJ
+gap	 	
+word	systems	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	discussing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	advantages	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	employing	PGAS
+gap	 	
+word	fuzzy	JJ
+gap	 	
+word	model	NN
+gap	-	
+word	based	
+gap	 	
+word	control	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	stabilize	INF
+gap	 	
+word	nonlinear	JJ
+gap	 	
+word	systems	NN
+gap	 	
+word	when	RB WHSUB SCONJ WH
+gap	 	
+word	compared	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	conventional	JJ
+gap	 	
+word	linear	JJ
+gap	/	
+word	nonlinear	JJ
+gap	 	
+word	techniques	NN
+gap	.\n\n	
+word	Most	JJ EMPH CAP SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	control	NN
+gap	 	
+word	applications	NOMZ
+gap	 	
+word	regard	VPRT
+gap	 	
+word	linear	JJ
+gap	 	
+word	techniques	NN
+gap	. 	
+word	Designers	NN CAP
+gap	 	
+word	usually	RB
+gap	 	
+word	prefer	VPRT SUAV
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	class	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	controllers	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	long	JJ
+gap	 	
+word	successful	JJ
+gap	 	
+word	history	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	industrial	JJ
+gap	 	
+word	applications	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	design	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	linear	JJ
+gap	 	
+word	controllers	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	performed	
+gap	 	
+word	concerning	GER PGAS
+gap	 	
+word	linearized	
+gap	 	
+word	models	NN
+gap	 	
+word	whose	WHOBJ DET WH
+gap	 	
+word	validity	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	restricted	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	vicinity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	given	
+gap	 	
+word	operating	NN
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nonlinear	JJ
+gap	 	
+word	system	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	operating	NN
+gap	 	
+word	range	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	required	SUAV
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	time	NN
+gap	-	
+word	variant	JJ
+gap	 	
+word	reference	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	tracked	
+gap	, 	
+word	linear	JJ
+gap	 	
+word	controllers	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	exhibit	INF
+gap	 	
+word	poor	JJ
+gap	 	
+word	performance	NN
+gap	 	
+word	or	CCONJ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	extreme	JJ
+gap	 	
+word	cases	NN
+gap	, 	
+word	lead	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	instability	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	model	NN
+gap	 	
+word	owns	VPRT
+gap	 "	
+word	hard	JJ
+gap	 	
+word	nonlinearities	NN
+gap	", 	
+word	the	ART DET
+gap	 	
+word	linearization	NOMZ
+gap	 	
+word	procedure	NN
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	applied	
+gap	. 	
+word	This	
+gap	 	
+word	motivated	
+gap	 	
+word	development	
+gap	 	
+word	of	
+gap	 	
+word	nonlinear	
+gap	 	
+word	techniques	
+gap	.\n\n	
+word	Nonlinear	
+gap	 	
+word	control	
+gap	 	
+word	techniques	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	proposed	
+gap	 	
+word	to	
+gap	 	
+word	outperform	
+gap	 	
+word	linear	
+gap	 	
+word	control	
+gap	 	
+word	limitations	
+gap	, 	
+word	but	
+gap	 	
+word	many	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	designed	
+gap	 	
+word	for	
+gap	 	
+word	complex	
+gap	 	
+word	nonlinear	
+gap	 	
+word	systems	
+gap	. 	
+word	In	
+gap	 	
+word	classical	
+gap	 	
+word	nonlinear	
+gap	 	
+word	control	
+gap	 	
+word	techniques	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	feedback	
+gap	 	
+word	linearization	
+gap	, 	
+word	this	
+gap	 	
+word	difficulty	
+gap	 	
+word	is	
+gap	 	
+word	avoided	
+gap	 	
+word	by	
+gap	 	
+word	nonlinearity	
+gap	 	
+word	cancellation	
+gap	 	
+word	which	
+gap	 	
+word	attempts	
+gap	 	
+word	to	
+gap	 	
+word	impose	
+gap	 	
+word	some	
+gap	 	
+word	predetermined	
+gap	 	
+word	dynamical	
+gap	 	
+word	behavior	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	. 	
+word	Other	
+gap	 	
+word	techniques	
+gap	 	
+word	like	
+gap	 	
+word	passivity	
+gap	-	
+word	based	
+gap	 	
+word	control	
+gap	 	
+word	try	
+gap	 	
+word	to	
+gap	 	
+word	respect	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	’	
+word	s	
+gap	 	
+word	structure	
+gap	 	
+word	and	
+gap	 	
+word	incorporate	
+gap	 	
+word	it	
+gap	 	
+word	into	
+gap	 	
+word	control	
+gap	 	
+word	design	
+gap	. 	
+word	However	
+gap	, 	
+word	passivity	
+gap	-	
+word	based	
+gap	 	
+word	methods	
+gap	 	
+word	require	
+gap	 	
+word	solving	
+gap	 	
+word	partial	
+gap	 	
+word	differential	
+gap	 	
+word	equations	
+gap	, 	
+word	which	
+gap	 	
+word	also	
+gap	 	
+word	introduces	
+gap	 	
+word	difficulties	
+gap	 	
+word	to	
+gap	 	
+word	design	
+gap	.\n\n	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	last	
+gap	 	
+word	three	
+gap	 	
+word	decades	
+gap	, 	
+word	fuzzy	
+gap	 	
+word	model	
+gap	-	
+word	based	
+gap	 	
+word	control	
+gap	 	
+word	has	
+gap	 	
+word	provided	
+gap	 	
+word	a	
+gap	 	
+word	suitable	
+gap	 	
+word	compromise	
+gap	 	
+word	between	
+gap	 	
+word	effectiveness	
+gap	 	
+word	and	
+gap	 	
+word	design	
+gap	 	
+word	complexity	
+gap	. 	
+word	The	
+gap	 	
+word	main	
+gap	 	
+word	feature	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	nonlinear	
+gap	 	
+word	technique	
+gap	 	
+word	is	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	ability	
+gap	 	
+word	of	
+gap	 	
+word	fuzzy	
+gap	 	
+word	models	
+gap	 	
+word	describe	
+gap	 	
+word	nonlinear	
+gap	 	
+word	dynamics	
+gap	 	
+word	by	
+gap	 	
+word	blending	
+gap	 	
+word	simple	
+gap	 	
+word	linear	
+gap	 	
+word	subsystems	
+gap	. 	
+word	This	
+gap	 	
+word	local	
+gap	 	
+word	linearity	
+gap	 	
+word	of	
+gap	 	
+word	fuzzy	
+gap	 	
+word	models	
+gap	 	
+word	allows	
+gap	 	
+word	fuzzy	
+gap	 	
+word	controllers	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	designed	
+gap	 	
+word	using	
+gap	 	
+word	Linear	
+gap	 	
+word	Matrix	
+gap	 	
+word	Inequalities	
+gap	, 	
+word	a	
+gap	 	
+word	convex	
+gap	 	
+word	optimization	
+gap	 	
+word	tool	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	efficiently	
+gap	 	
+word	solved	
+gap	 	
+word	by	
+gap	 	
+word	existing	
+gap	 	
+word	software	
+gap	. 	
+word	Another	
+gap	 	
+word	advantage	
+gap	 	
+word	of	
+gap	 	
+word	fuzzy	
+gap	 	
+word	control	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	nonlinearity	
+gap	 	
+word	information	
+gap	 	
+word	is	
+gap	 	
+word	introduced	
+gap	 	
+word	into	
+gap	 	
+word	control	
+gap	 	
+word	scheme	
+gap	, 	
+word	thus	
+gap	 	
+word	respecting	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	’	
+word	s	
+gap	 	
+word	structure	
+gap	.\n\n	
+word	In	
+gap	 	
+word	general	
+gap	, 	
+word	the	
+gap	 	
+word	control	
+gap	 	
+word	design	
+gap	 	
+word	for	
+gap	 	
+word	nonlinear	
+gap	 	
+word	systems	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	simple	
+gap	 	
+word	task	
+gap	. 	
+word	On	
+gap	 	
+word	one	
+gap	 	
+word	hand	
+gap	, 	
+word	if	
+gap	 	
+word	linear	
+gap	 	
+word	control	
+gap	 	
+word	is	
+gap	 	
+word	employed	
+gap	, 	
+word	the	
+gap	 	
+word	system	
+gap	'	
+word	s	
+gap	 	
+word	performance	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	deteriorated	
+gap	. 	
+word	On	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	designing	
+gap	 	
+word	nonlinear	
+gap	 	
+word	controllers	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	difficult	
+gap	 	
+word	since	
+gap	 	
+word	it	
+gap	 	
+word	may	
+gap	 	
+word	require	
+gap	 	
+word	solving	
+gap	 	
+word	hard	
+gap	 	
+word	equations	
+gap	, 	
+word	which	
+gap	 	
+word	even	
+gap	 	
+word	can	
+gap	 	
+word	have	
+gap	 	
+word	multiple	
+gap	 	
+word	solutions	
+gap	. 	
+word	Fuzzy	
+gap	 	
+word	model	
+gap	-	
+word	based	
+gap	 	
+word	control	
+gap	 	
+word	offers	
+gap	 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	of	
+gap	 	
+word	design	
+gap	 	
+word	nonlinear	
+gap	 	
+word	controllers	
+gap	 	
+word	simply	
+gap	 	
+word	solving	
+gap	 	
+word	a	
+gap	 	
+word	convex	
+gap	 	
+word	optimization	
+gap	 	
+word	problem	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	fuzzy	
+gap	 	
+word	control	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	viewed	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	promising	
+gap	 	
+word	alternative	
+gap	 	
+word	to	
+gap	 	
+word	stabilize	
+gap	 	
+word	nonlinear	
+gap	 	
+word	systems	
+gap	, 	
+word	since	
+gap	 	
+word	it	
+gap	 	
+word	catches	
+gap	 	
+word	the	
+gap	 	
+word	good	
+gap	 	
+word	features	
+gap	 	
+word	of	
+gap	 	
+word	both	
+gap	 	
+word	linear	
+gap	 	
+word	and	
+gap	 	
+word	nonlinear	
+gap	 	
+word	classical	
+gap	 	
+word	techniques	
+gap	.	

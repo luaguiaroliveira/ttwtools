@@ -1,622 +1,1111 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0705.0441.txt
-token	tags
-﻿	NNP
-    	
-Transgenic	CAP NNP
-organisms	NN
-,	
-or	CCONJ
-genetic	JJ
-modified	
-organisms	NN
-(	
-GM	CAP NNP
-)	
-,	
-are	PASS VPRT BYPA AUXB
-produced	
-by	PIN PREP
-transferring	GER PGAS
-genes	NN
-from	PIN PREP
-one	NUM
-living	PGAS
-being	BEMA AUXB
-to	PIN PREP
-another	DET
-,	
-often	RB
-from	PIN PREP
-different	JJ
-species	NN
-.	
-Transgenic	JJ CAP
-plants	NN
-are	PASS VPRT BYPA AUXB
-formed	
-by	PIN PREP
-extraction	NOMZ
-,	
-isolation	NOMZ
-and	PHC CCONJ
-cloning	NN
-of	PIN PREP
-bacterial	JJ
-DNA	NN CAP
-with	PIN PREP
-the	ART DET
-desired	SUAV
-characteristics	NN
-,	
-and	ANDC CCONJ
-then	RB
-inserted	
-into	PIN PREP
-the	ART DET
-plant	NN
-tissue	NN
-.	
-Currently	RB CAP
-there	EX
-are	VPRT AUXB
-some	QUAN DET
-transgenic	JJ
-varieties	NN
-of	PIN PREP
-soybean	NN
-,	
-corn	NN
-,	
-cotton	NN
-and	PHC CCONJ
-rice	NN
-released	WZPAST
-for	PIN PREP
-cultivation	NOMZ
-in	PIN CONJ PREP
-Brazil	CAP NNP
-.	
-The	ART CAP DET
-production	NOMZ
-and	PHC CCONJ
-marketing	NN
-of	PIN PREP
-GM	CAP NNP
-first	RB
-announced	VBD PUBV
-as	PIN CONJ PREP
-the	ART DET
-solution	NOMZ
-to	PIN PREP
-the	ART DET
-extensive	JJ
-use	NN
-of	PIN PREP
-pesticides	NN
-,	
-creating	PGAS
-more	JJ EMPH CMADJ
-productive	JJ
-varieties	NN
-,	
-increase	INF
-the	ART DET
-nutritional	JJ
-value	NN
-of	PIN PREP
-food	NN
-and	CCONJ
-reducing	PGAS
-production	NOMZ
-costs	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-production	NOMZ
-of	PIN PREP
-GM	CAP NNP
-seeds	NN
-is	BEMA VPRT AUXB
-far	RB PLACE
-from	PIN PREP
-being	BEMA AUXB
-free	JJ PRED
-of	PIN PREP
-questioning	GER PGAS
-.	
-There	EX CAP
-have	VPRT PEAS
-been	PASS AUXB
-reported	PUBV
-cases	NN
-of	PIN PREP
-contamination	NOMZ
-of	PIN PREP
-conventional	JJ
-crop	NN
-fields	NN
-,	
-illegal	JJ
-planting	NN
-and	CCONJ
-negative	JJ
-effects	NN
-on	PIN PREP
-agriculture	NN
-in	PIN CONJ PREP
-56	NUM
-countries	NN
-.	
-The	ART CAP DET
-release	NN
-of	PIN PREP
-commercial	JJ
-GM	CAP NNP
-crops	NN
-should	NEMD SPAU
-nt	RB
-be	PASS SPAU AUXB INF
-not	XX0 RB
-given	
-in	PIN CONJ PREP
-Brazil	CAP NNP
-without	PIN PREP
-the	ART DET
-extensive	JJ
-research	NN
-about	PIN PREP
-environmental	JJ
-,	
-social	JJ
--	
-economic	JJ
-and	CCONJ
-health	NN
-impacts	NN
-.	
-  	
-Studies	NN CAP
-conducted	WZPAST
-over	PIN PREP
-the	ART DET
-past	JJ
-decades	NN
-point	VPRT
-several	QUAN JJ
-negative	JJ
-environmental	JJ
-impacts	NN
-caused	WZPAST
-by	PIN PREP
-planting	PGAS
-GMs	CAP X
-varieties	NN
-.	
-The	ART CAP DET
-increase	NN
-in	PIN CONJ PREP
-selection	NOMZ
-pressure	NN
-caused	WZPAST
-by	PIN PREP
-the	ART DET
-indiscriminate	JJ
-cultivation	NOMZ
-of	PIN PREP
-GMs	CAP NNP
-favors	VPRT
-the	ART DET
-emergence	NN
-of	PIN PREP
-weeds	NN
-and	PHC CCONJ
-pests	NN
-resistant	JJ
-to	PIN PREP
-pesticides	NN
-.	
-Evidence	NN CAP
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-pollen	NN
-of	PIN PREP
-GM	CAP NNP
-plants	NN
-can	POMD
-be	PASS AUXB INF
-transferred	
-to	PIN PREP
-the	ART DET
-domestic	JJ
-varieties	NN
-and	CCONJ
-other	JJ
-species	NN
-,	
-causing	PGAS
-horizontal	JJ
-transfer	NN
-of	PIN PREP
-genetic	JJ
-material	NN
-changed	VBD
-.	
-This	DEMP CAP DET
-can	POMD
-induce	INF
-changes	NN
-in	PIN CONJ PREP
-the	ART DET
-genome	NN
-of	PIN PREP
-native	JJ
-plants	NN
-,	
-threatening	GER PRESP PGAS
-the	ART DET
-genetic	JJ
-diversity	NOMZ
-.	
-Moreover	RB CONJ CAP
-,	
-the	ART DET
-impact	NN
-of	PIN PREP
-planting	PGAS
-GM	CAP NNP
-crops	NN
-on	PIN PREP
-wildlife	NN
-may	POMD
-last	INF
-more	JJ EMPH CMADJ
-than	PIN PREP
-two	NUM
-years	NN
-,	
-mainly	RB
-due	PIN PREP
-to	PIN PREP
-extensive	JJ
-use	NN
-of	PIN PREP
-herbicides	NN
-.	
-  	
-The	ART CAP DET
-expansion	NOMZ
-of	PIN PREP
-planted	
-areas	NN
-with	PIN PREP
-GMs	NN CAP
-leads	VPRT
-important	JJ
-sectors	NN
-of	PIN PREP
-agriculture	NN
-to	PIN PREP
-reliance	NN
-on	PIN PREP
-biotech	JJ
-companies	NN
-that	TSUB WHSUB WH
-hold	VPRT PRIV
-the	ART DET
-patents	NN
-of	PIN PREP
-genetically	RB
-modified	
-seeds	NN
-and	PHC CCONJ
-pesticides	NN
-.	
-Some	QUAN CAP DET
-GMs	NN CAP
-are	PASS VPRT AUXB
-produced	
-in	PIN CONJ PREP
-order	SUAV NN
-that	PIN TOBJ THVC SCONJ PREP
-their	TPP3 PRP SBJP
-seeds	NN
-are	BEMA VPRT AUXB
-only	DWNT RB
-viable	JJ
-after	PIN PREP
-the	ART DET
-application	NOMZ
-of	PIN PREP
-a	ART DET INDA
-given	
-chemical	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-several	QUAN JJ
-producers	NN
-had	VBD
-losses	NN
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-transgenic	JJ
-varieties	NN
-.	
-In	PIN CONJ CAP PREP
-2009	NUM
-,	
-Mato	CAP NNP
-Grosso	CAP NNP
-producers	NN
-obtain	VPRT
-lower	JJ CMADJ
-gains	NN
-from	PIN PREP
-transgenic	NN
-soybeans	NN
-than	PIN PREP
-with	PIN PREP
-traditional	JJ
-soybean	NN
-;	
-in	PIN CONJ PREP
-South	CAP NNP
-Africa	CAP NNP
-,	
-an	ART DET INDA
-area	NN
-related	WZPAST
-to	PIN PREP
-80,000	NUM
-football	NN
-fields	NN
-did	VBD SPAU
-not	XX0 RB
-produce	INF
-a	ART DET INDA
-single	JJ
-grain	NN
-of	PIN PREP
-corn	NN
-!	EXCL
-  	
-The	ART CAP DET
-impacts	NN
-on	PIN PREP
-health	NN
-,	
-yet	CCONJ
-not	XX0 RB
-vary	VPRT
-studied	
-,	
-also	RB
-exist	VPRT
-.	
-Reports	PUBV NN CAP
-of	PIN PREP
-allergic	JJ
-reactions	NOMZ
-caused	WZPAST
-by	PIN PREP
-ingestion	NOMZ
-of	PIN PREP
-foods	NN
-derived	WZPAST
-from	PIN PREP
-GM	CAP NNP
-crops	NN
-already	RB
-appear	VPRT SMP
-,	
-and	ANDC CCONJ
-these	DEMO DET
-allergies	NN
-can	POMD
-be	PASS BYPA AUXB INF
-caused	
-by	PIN PREP
-the	ART DET
-presence	NN
-of	PIN PREP
-genes	NN
-that	TSUB WHSUB WH
-produce	VPRT
-allergenic	JJ
-proteins	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-also	RB
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-horizontal	JJ
-gene	NN
-transfer	NN
-to	PIN PREP
-bacteria	NN
-present	JJ
-in	PIN CONJ PREP
-the	ART DET
-human	JJ
-body	NN
-and	CCONJ
-potentially	RB
-increase	INF
-in	PIN CONJ PREP
-antibiotic	JJ
-resistance	NN
-,	
-as	PIN CONJ PREP
-genetic	JJ
-engineering	GER
-using	WZPRES PGAS
-genes	NN
-which	WHSUB DET WH
-confer	VPRT
-immunity	NOMZ
-to	PIN PREP
-certain	JJ
-antibiotics	NN
-as	PIN CONJ PREP
-markers	NN
-for	PIN PREP
-identification	NOMZ
-of	PIN PREP
-modified	
-cells	NN
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-genetically	RB
-modified	
-products	NN
-in	PIN CONJ PREP
-food	NN
-is	VPRT AUXB
-still	RB
-very	AMP RB
-new	JJ
-,	
-research	NN
-is	BEMA VPRT AUXB
-limited	JJ PRED
-and	ANDC CCONJ
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-doubts	PRIV NN
-about	PIN PREP
-the	ART DET
-real	JJ
-consequences	NN
-of	PIN PREP
-transgenic	NN
-intake	NN
-.	
-  	
-Based	CAP
-on	PIN PREP
-the	ART DET
-evidence	NN
-presented	WZPAST
-above	RB PLACE
-and	ANDC CCONJ
-in	PIN CONJ PREP
-other	JJ
-previously	RB TIME
-reported	PUBV
-by	PIN PREP
-the	ART DET
-scientific	JJ
-community	NOMZ
-,	
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-stated	PUBV
-that	PIN THVC SCONJ PREP
-control	NN
-over	PIN PREP
-GM	CAP NNP
-and	CCONJ
-their	TPP3 PRP SBJP
-side	NN
-effects	NN
-are	BEMA VPRT AUXB
-ineffective	JJ PRED
-and	CCONJ
-potentially	RB
-harmful	JJ
-genes	NN
-can	POMD
-be	PASS AUXB INF
-inserted	
-into	PIN PREP
-the	ART DET
-food	NN
-chain	NN
-and	CCONJ
-the	ART DET
-environment	NOMZ
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-extremely	AMP RB
-important	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-political	JJ
-authorities	NN
-society	NN
-have	VPRT
-a	ART DET INDA
-more	RB EMPH CMADJ
-critical	JJ
-look	NN
-at	PIN PREP
-the	ART DET
-release	NN
-and	PHC CCONJ
-cultivation	NOMZ
-of	PIN PREP
-GM	CAP NNP
-varieties	NN
-.	
-Measures	NN CAP
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-food	NN
-security	NOMZ
-,	
-social	JJ
-,	
-economic	JJ
-and	PHC CCONJ
-environmental	JJ
-should	NEMD
-be	PASS AUXB INF
-taken	
-on	PIN PREP
-an	ART DET INDA
-urgent	JJ
-basis	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-creating	PGAS
-stricter	JJ CMADJ
-laws	NN
-and	CCONJ
-the	ART DET
-requirement	NOMZ
-for	PIN PREP
-companies	NN
-to	PIN TO PREP
-conduct	INF
-research	NN
-with	PIN PREP
-reliable	JJ
-and	PHC CCONJ
-suitable	JJ
-results	NN
-on	PIN PREP
-the	ART DET
-real	JJ
-impacts	NN
-of	PIN PREP
-GMs	NN CAP
-in	PIN CONJ PREP
-environment	NOMZ
-to	PIN PREP
-human	JJ
-health	NN
-.	
- 	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0705.0441>\n\n<Transgenic the dishes of others is poison>\n\n	
+word	Transgenic	CAP NNP
+gap	 	
+word	organisms	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	genetic	JJ
+gap	 	
+word	modified	
+gap	 	
+word	organisms	NN
+gap	 (	
+word	GM	CAP NNP
+gap	), 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	produced	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	transferring	GER PGAS
+gap	 	
+word	genes	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	living	PGAS
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	another	DET
+gap	, 	
+word	often	RB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	species	NN
+gap	. 	
+word	Transgenic	JJ CAP
+gap	 	
+word	plants	NN
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	formed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	extraction	NOMZ
+gap	, 	
+word	isolation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	cloning	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	bacterial	JJ
+gap	 	
+word	DNA	NN CAP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	desired	SUAV
+gap	 	
+word	characteristics	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	then	RB
+gap	 	
+word	inserted	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	plant	NN
+gap	 	
+word	tissue	NN
+gap	. 	
+word	Currently	RB CAP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	transgenic	JJ
+gap	 	
+word	varieties	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	soybean	NN
+gap	, 	
+word	corn	NN
+gap	, 	
+word	cotton	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	rice	NN
+gap	 	
+word	released	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	cultivation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	production	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	marketing	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	first	RB
+gap	 	
+word	announced	VBD PUBV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	extensive	JJ
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pesticides	NN
+gap	, 	
+word	creating	PGAS
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	productive	JJ
+gap	 	
+word	varieties	NN
+gap	, 	
+word	increase	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	nutritional	JJ
+gap	 	
+word	value	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	food	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reducing	PGAS
+gap	 	
+word	production	NOMZ
+gap	 	
+word	costs	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	production	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	seeds	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	free	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	questioning	GER PGAS
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	reported	PUBV
+gap	 	
+word	cases	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contamination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	conventional	JJ
+gap	 	
+word	crop	NN
+gap	 	
+word	fields	NN
+gap	, 	
+word	illegal	JJ
+gap	 	
+word	planting	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	negative	JJ
+gap	 	
+word	effects	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	agriculture	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 56 	
+word	countries	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	release	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	commercial	JJ
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	crops	NN
+gap	 	
+word	shouldnt	
+gap	 	
+word	be	
+gap	 	
+word	not	
+gap	 	
+word	given	
+gap	 	
+word	in	
+gap	 	
+word	Brazil	
+gap	 	
+word	without	
+gap	 	
+word	the	
+gap	 	
+word	extensive	
+gap	 	
+word	research	
+gap	 	
+word	about	
+gap	 	
+word	environmental	
+gap	, 	
+word	social	
+gap	-	
+word	economic	
+gap	 	
+word	and	
+gap	 	
+word	health	
+gap	 	
+word	impacts	
+gap	.\n\n	
+word	Studies	
+gap	 	
+word	conducted	
+gap	 	
+word	over	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	 	
+word	decades	
+gap	 	
+word	point	
+gap	 	
+word	several	
+gap	 	
+word	negative	
+gap	 	
+word	environmental	
+gap	 	
+word	impacts	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	planting	
+gap	 	
+word	GMs	
+gap	 	
+word	varieties	
+gap	. 	
+word	The	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	selection	
+gap	 	
+word	pressure	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	indiscriminate	
+gap	 	
+word	cultivation	
+gap	 	
+word	of	
+gap	 	
+word	GMs	
+gap	 	
+word	favors	
+gap	 	
+word	the	
+gap	 	
+word	emergence	
+gap	 	
+word	of	
+gap	 	
+word	weeds	
+gap	 	
+word	and	
+gap	 	
+word	pests	
+gap	 	
+word	resistant	
+gap	 	
+word	to	
+gap	 	
+word	pesticides	
+gap	. 	
+word	Evidence	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	pollen	
+gap	 	
+word	of	
+gap	 	
+word	GM	
+gap	 	
+word	plants	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	transferred	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	domestic	
+gap	 	
+word	varieties	
+gap	 	
+word	and	
+gap	 	
+word	other	
+gap	 	
+word	species	
+gap	, 	
+word	causing	
+gap	 	
+word	horizontal	
+gap	 	
+word	transfer	
+gap	 	
+word	of	
+gap	 	
+word	genetic	
+gap	 	
+word	material	
+gap	 	
+word	changed	
+gap	. 	
+word	This	
+gap	 	
+word	can	
+gap	 	
+word	induce	
+gap	 	
+word	changes	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	genome	
+gap	 	
+word	of	
+gap	 	
+word	native	
+gap	 	
+word	plants	
+gap	, 	
+word	threatening	
+gap	 	
+word	the	
+gap	 	
+word	genetic	
+gap	 	
+word	diversity	
+gap	. 	
+word	Moreover	
+gap	, 	
+word	the	
+gap	 	
+word	impact	
+gap	 	
+word	of	
+gap	 	
+word	planting	
+gap	 	
+word	GM	
+gap	 	
+word	crops	
+gap	 	
+word	on	
+gap	 	
+word	wildlife	
+gap	 	
+word	may	
+gap	 	
+word	last	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 	
+word	two	
+gap	 	
+word	years	
+gap	, 	
+word	mainly	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	extensive	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	herbicides	
+gap	.\n\n	
+word	The	
+gap	 	
+word	expansion	
+gap	 	
+word	of	
+gap	 	
+word	planted	
+gap	 	
+word	areas	
+gap	 	
+word	with	
+gap	 	
+word	GMs	
+gap	 	
+word	leads	
+gap	 	
+word	important	
+gap	 	
+word	sectors	
+gap	 	
+word	of	
+gap	 	
+word	agriculture	
+gap	 	
+word	to	
+gap	 	
+word	reliance	
+gap	 	
+word	on	
+gap	 	
+word	biotech	
+gap	 	
+word	companies	
+gap	 	
+word	that	
+gap	 	
+word	hold	
+gap	 	
+word	the	
+gap	 	
+word	patents	
+gap	 	
+word	of	
+gap	 	
+word	genetically	
+gap	 	
+word	modified	
+gap	 	
+word	seeds	
+gap	 	
+word	and	
+gap	 	
+word	pesticides	
+gap	. 	
+word	Some	
+gap	 	
+word	GMs	
+gap	 	
+word	are	
+gap	 	
+word	produced	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	that	
+gap	 	
+word	their	
+gap	 	
+word	seeds	
+gap	 	
+word	are	
+gap	 	
+word	only	
+gap	 	
+word	viable	
+gap	 	
+word	after	
+gap	 	
+word	the	
+gap	 	
+word	application	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	given	
+gap	 	
+word	chemical	
+gap	. 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	several	
+gap	 	
+word	producers	
+gap	 	
+word	had	
+gap	 	
+word	losses	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	transgenic	
+gap	 	
+word	varieties	
+gap	. 	
+word	In	
+gap	 2009, 	
+word	Mato	
+gap	 	
+word	Grosso	
+gap	 	
+word	producers	
+gap	 	
+word	obtain	
+gap	 	
+word	lower	
+gap	 	
+word	gains	
+gap	 	
+word	from	
+gap	 	
+word	transgenic	
+gap	 	
+word	soybeans	
+gap	 	
+word	than	
+gap	 	
+word	with	
+gap	 	
+word	traditional	
+gap	 	
+word	soybean	
+gap	; 	
+word	in	
+gap	 	
+word	South	
+gap	 	
+word	Africa	
+gap	, 	
+word	an	
+gap	 	
+word	area	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 80,000 	
+word	football	
+gap	 	
+word	fields	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	produce	
+gap	 	
+word	a	
+gap	 	
+word	single	
+gap	 	
+word	grain	
+gap	 	
+word	of	
+gap	 	
+word	corn	
+gap	!\n\n	
+word	The	
+gap	 	
+word	impacts	
+gap	 	
+word	on	
+gap	 	
+word	health	
+gap	, 	
+word	yet	
+gap	 	
+word	not	
+gap	 	
+word	vary	
+gap	 	
+word	studied	
+gap	, 	
+word	also	
+gap	 	
+word	exist	
+gap	. 	
+word	Reports	
+gap	 	
+word	of	
+gap	 	
+word	allergic	
+gap	 	
+word	reactions	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	ingestion	
+gap	 	
+word	of	
+gap	 	
+word	foods	
+gap	 	
+word	derived	
+gap	 	
+word	from	
+gap	 	
+word	GM	
+gap	 	
+word	crops	
+gap	 	
+word	already	
+gap	 	
+word	appear	
+gap	, 	
+word	and	
+gap	 	
+word	these	
+gap	 	
+word	allergies	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	presence	
+gap	 	
+word	of	
+gap	 	
+word	genes	
+gap	 	
+word	that	
+gap	 	
+word	produce	
+gap	 	
+word	allergenic	
+gap	 	
+word	proteins	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	of	
+gap	 	
+word	horizontal	
+gap	 	
+word	gene	
+gap	 	
+word	transfer	
+gap	 	
+word	to	
+gap	 	
+word	bacteria	
+gap	 	
+word	present	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	human	
+gap	 	
+word	body	
+gap	 	
+word	and	
+gap	 	
+word	potentially	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	antibiotic	
+gap	 	
+word	resistance	
+gap	, 	
+word	as	
+gap	 	
+word	genetic	
+gap	 	
+word	engineering	
+gap	 	
+word	using	
+gap	 	
+word	genes	
+gap	 	
+word	which	
+gap	 	
+word	confer	
+gap	 	
+word	immunity	
+gap	 	
+word	to	
+gap	 	
+word	certain	
+gap	 	
+word	antibiotics	
+gap	 	
+word	as	
+gap	 	
+word	markers	
+gap	 	
+word	for	
+gap	 	
+word	identification	
+gap	 	
+word	of	
+gap	 	
+word	modified	
+gap	 	
+word	cells	
+gap	. 	
+word	The	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	genetically	
+gap	 	
+word	modified	
+gap	 	
+word	products	
+gap	 	
+word	in	
+gap	 	
+word	food	
+gap	 	
+word	is	
+gap	 	
+word	still	
+gap	 	
+word	very	
+gap	 	
+word	new	
+gap	, 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	limited	
+gap	 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	many	
+gap	 	
+word	doubts	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	real	
+gap	 	
+word	consequences	
+gap	 	
+word	of	
+gap	 	
+word	transgenic	
+gap	 	
+word	intake	
+gap	.\n\n	
+word	Based	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	evidence	
+gap	 	
+word	presented	
+gap	 	
+word	above	
+gap	 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	other	
+gap	 	
+word	previously	
+gap	 	
+word	reported	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	scientific	
+gap	 	
+word	community	
+gap	, 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	stated	
+gap	 	
+word	that	
+gap	 	
+word	control	
+gap	 	
+word	over	
+gap	 	
+word	GM	
+gap	 	
+word	and	
+gap	 	
+word	their	
+gap	 	
+word	side	
+gap	 	
+word	effects	
+gap	 	
+word	are	
+gap	 	
+word	ineffective	
+gap	 	
+word	and	
+gap	 	
+word	potentially	
+gap	 	
+word	harmful	
+gap	 	
+word	genes	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	inserted	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	food	
+gap	 	
+word	chain	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	extremely	
+gap	 	
+word	important	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	political	
+gap	 	
+word	authorities	
+gap	 	
+word	society	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	critical	
+gap	 	
+word	look	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	release	
+gap	 	
+word	and	
+gap	 	
+word	cultivation	
+gap	 	
+word	of	
+gap	 	
+word	GM	
+gap	 	
+word	varieties	
+gap	. 	
+word	Measures	
+gap	 	
+word	to	
+gap	 	
+word	ensure	
+gap	 	
+word	food	
+gap	 	
+word	security	
+gap	, 	
+word	social	
+gap	, 	
+word	economic	
+gap	 	
+word	and	
+gap	 	
+word	environmental	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	taken	
+gap	 	
+word	on	
+gap	 	
+word	an	
+gap	 	
+word	urgent	
+gap	 	
+word	basis	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	creating	
+gap	 	
+word	stricter	
+gap	 	
+word	laws	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	requirement	
+gap	 	
+word	for	
+gap	 	
+word	companies	
+gap	 	
+word	to	
+gap	 	
+word	conduct	
+gap	 	
+word	research	
+gap	 	
+word	with	
+gap	 	
+word	reliable	
+gap	 	
+word	and	
+gap	 	
+word	suitable	
+gap	 	
+word	results	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	real	
+gap	 	
+word	impacts	
+gap	 	
+word	of	
+gap	 	
+word	GMs	
+gap	 	
+word	in	
+gap	 	
+word	environment	
+gap	 	
+word	to	
+gap	 	
+word	human	
+gap	 	
+word	health	
+gap	.\n	

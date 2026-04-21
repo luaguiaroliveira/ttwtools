@@ -1,1290 +1,2264 @@
 # filename: AH_Philosophy_Essay_1_0057b_tx.txt
-token	tags
-Introduction	CAP NNP
-Quine	CAP NNP
-'s	
-naturalized	JJ
-epistemology	NN
-,	
-if	COND PIN SCONJ PREP
-accepted	PRIV
-,	
-puts	VPRT
-an	ART DET INDA
-end	NN
-to	PIN PREP
-the	ART DET
-search	NN
-for	PIN PREP
-certain	JJ
-(	
-or	CCONJ
-rather	RB
-"	QUOT
-certain	JJ
-"	QUOT
-)	
-knowledge	NN
-.	
-Subtleties	NN CAP
-aside	RB
-,	
-Quine	CAP NNP
-denies	VPRT PUBV
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-our	FPP1 PRP SBJP
-beliefs	NN
-being	PASS WZPRES AUXB
-justified	
-,	
-in	PIN CONJ PREP
-much	QUAN RB
-the	ART DET
-same	JJ
-way	NN
-as	PIN CONJ PREP
-our	FPP1 PRP SBJP
-actions	NOMZ
-are	PASS VPRT SPAU AUXB
-sometimes	RB
-denied	PUBV
-ethical	JJ
-value	NN
-.	
-Thus	RB CONJ CAP
-,	
-the	ART DET
-traditional	JJ
-epistemic	JJ
-enquiry	NN
-is	BEMA VPRT AUXB
-all	QUAN DET
-but	CCONJ
-drained	
-of	PIN PREP
-content	NN
-,	
-and	ANDC CCONJ
-Quine	CAP NNP
-urges	VPRT SUAV
-us	FPP1 PRP SBJP ACCU
-to	PIN TO PREP
-abandon	INF
-the	ART DET
-project	NN
-altogether	AMP RB
-and	CCONJ
-turn	INF
-to	PIN PREP
-the	ART DET
-empiric	JJ
-issue	NN
-of	PIN PREP
-how	RB SCONJ WH
-beliefs	NN
-and	PHC CCONJ
-theories	NN
-about	PIN PREP
-the	ART DET
-outside	JJ PLACE
-world	NN
-are	PASS VPRT AUXB
-generated	
-in	PIN CONJ PREP
-the	ART DET
-human	JJ
-brain	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-I	FPP1 CAP PRP SBJP
-will	PRMD
-try	INF
-and	PHC CCONJ
-outline	INF
-Quine	CAP NNP
-'s	
-project	NN
-and	CCONJ
-his	TPP3 PRP SBJP
-reasons	PRIV NN
-for	PIN STPR PREP
-'	CONT QUOT
-naturalizing	GER PGAS
-epistemology	NN
-'	CONT QUOT
-.	
-I	FPP1 CAP PRP SBJP
-will	PRMD
-begin	INF
-by	PIN PREP
-discussing	GER PGAS
-his	TPP3 PRP SBJP
-claim	PUBV NN
-that	PIN TOBJ THVC SCONJ PREP
-traditional	JJ
-epistemology	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-"	QUOT
-lost	JJ
-cause	NN
-"	QUOT
-,	
-move	SUAV INF
-on	PIN PREP
-to	PIN PREP
-his	TPP3 PRP SBJP
-vision	NOMZ
-of	PIN PREP
-epistemology	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-empiric	JJ
-discipline	NN
-,	
-and	ANDC CCONJ
-lastly	RB
-discuss	INF
-the	ART DET
-various	JJ
-philosophic	JJ
-implications	NOMZ
-of	PIN PREP
-naturalizing	GER PGAS
-epistemology	NN
-.	
-Quine	CAP NNP
-'s	
-case	NN
-against	PIN PREP
-a	ART DET INDA
-complete	JJ
-'	CONT QUOT
-theory	NN
-of	PIN PREP
-knowledge	NN
-'	CONT QUOT
-Quine	CAP NNP
-describes	VPRT
-the	ART DET
-traditional	JJ
-epistemic	JJ
-project	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-find	PRIV INF
-a	ART DET INDA
-dynamic	JJ
-logical	JJ
-link	NN
-between	PIN PREP
-sensory	JJ
-experience	NN
-and	PHC CCONJ
-theory	NN
-.	
-From	PIN CAP PREP
-our	FPP1 PRP SBJP
-experience	NN
-we	FPP1 PRP SBJP
-create	VPRT
-wide	RB
--	
-ranging	PGAS
-theories	NN
-about	PIN PREP
-the	ART DET
-outside	JJ PLACE
-world	NN
-,	
-the	ART DET
-most	RB EMPH SPADJ
-systematic	JJ
-being	BEMA AUXB
-the	ART DET
-laws	NN
-of	PIN PREP
-nature	NN
-as	PIN CONJ PREP
-revealed	PRIV
-by	PIN PREP
-science	NN
-.	
-The	ART CAP DET
-purpose	NN
-of	PIN PREP
-traditional	JJ
-epistemology	NN
-since	OSUB PIN SCONJ PREP
-Descartes	CAP NNP
-has	VPRT PEAS
-been	BEMA AUXB
-to	PIN TO PREP
-provide	INF
-us	FPP1 PRP SBJP ACCU
-with	PIN PREP
-intellectual	JJ
-and	PHC CCONJ
-linguistic	JJ
-tools	NN
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-which	PIRE DET WH
-we	FPP1 PRP SBJP
-may	POMD
-ascertain	PRIV INF
-when	RB WHCL SCONJ WH
-our	FPP1 PRP SBJP
-theories	NN
-correspond	VPRT
-with	PIN PREP
-the	ART DET
-actual	JJ
-state	PUBV NN
-of	PIN PREP
-things	NN
-and	ANDC CCONJ
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-do	VPRT PROD
-not	XX0 RB
-.	
-Epistemology	NN CAP
-was	BEMA VBD AUXB
-to	PIN TO PREP
-tell	INF
-us	FPP1 PRP SBJP ACCU
-when	RB SCONJ WH
-and	PHC ANDC CCONJ
-how	RB SCONJ WH
-our	FPP1 PRP SBJP
-beliefs	NN
-and	PHC CCONJ
-theories	NN
-were	PASS VBD AUXB
-justified	
-.	
-A	ART CAP DET INDA
-proper	JJ
-logical	JJ
-system	NN
-of	PIN PREP
-justification	NOMZ
-would	PRMD
-maybe	RB HDG
-one	NUM
-day	NN
-bridge	NN
-the	ART DET
-gap	NN
-between	PIN PREP
-theory	NN
-and	PHC CCONJ
-reality	NOMZ
-,	
-and	ANDC CCONJ
-provide	INF
-us	FPP1 PRP SBJP ACCU
-with	PIN PREP
-the	ART DET
-foundations	NOMZ
-of	PIN PREP
-science	NN
-;	
-much	QUAN JJ
-like	PIN PREP
-mathematics	NN
-would	PRMD SPAU
-eventually	RB TIME
-be	PASS AUXB INF
-reduced	
-to	PIN PREP
-logic	NN
-.	
-Drawing	CAP PGAS
-on	PIN PREP
-the	ART DET
-analogy	NN
-to	PIN PREP
-mathematics	NN
-and	PHC CCONJ
-logic	NN
-Quine	CAP NNP
-divides	VPRT
-the	ART DET
-epistemic	JJ
-program	NN
-into	PIN PREP
-two	NUM
-parts	NN
-:	
-conceptual	JJ
-reduction	NOMZ
-and	CCONJ
-doctrinal	JJ
-reduction	NOMZ
-.	
-Through	PIN CAP PREP
-conceptual	JJ
-reduction	NOMZ
-the	ART DET
-philosopher	NN
-tries	VPRT
-to	PIN TO PREP
-reduce	INF
-his	TPP3 PRP SBJP
-theories	NN
-about	PIN PREP
-the	ART DET
-external	JJ
-world	NN
-to	PIN PREP
-phenomenal	JJ
-features	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-indubitable	JJ
-sensory	JJ
-experience	NN
-.	
-Quine	CAP NNP
-refers	VPRT
-to	PIN PREP
-Carnap	CAP NNP
-'s	
-Der	CAP NNP
-Logische	CAP NNP
-der	NN
-Welt	CAP NNP
-as	PIN CONJ PREP
-the	ART DET
-most	RB EMPH SPADJ
-successful	JJ
-attempt	NN
-to	PIN TO STPR PREP
-,	
-by	PIN PREP
-logical	JJ
-deduction	NOMZ
-,	
-go	INF
-from	PIN PREP
-theory	NN
-to	PIN PREP
-experience	NN
-.	
-But	CAP CCONJ
-,	
-Quine	CAP NNP
-asserts	VPRT PUBV
-,	
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-complex	JJ
-or	CCONJ
-holistic	JJ
-manner	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-experience	NN
-generates	VPRT
-empirical	JJ
-meaning	PRIV NN
-,	
-we	FPP1 PRP SBJP
-will	PRMD SPAU
-never	RB
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-discover	PRIV INF
-a	ART DET INDA
-precise	JJ
-logical	JJ
-relationship	NN
-(	
-a	ART DET INDA
-"	QUOT
-point	NN
-to	PIN TO PREP
-point	INF
-"	QUOT
-relationship	NN
-)	
-between	PIN PREP
-physical	JJ
-terms	NN
-and	CCONJ
-phenomenal	JJ
-terms	NN
-.	
-The	ART CAP DET
-other	JJ
-part	NN
-of	PIN PREP
-the	ART DET
-epistemic	JJ
-project	NN
-,	
-doctrinal	JJ
-reduction	NOMZ
-,	
-failed	VBD
-according	PGAS
-to	PIN PREP
-Quine	CAP NNP
-,	
-with	PIN PREP
-Hume	CAP NNP
-.	
-By	PIN CAP PREP
-doctrinal	JJ
-reduction	NOMZ
-Quine	CAP NNP
-refers	VPRT
-to	PIN PREP
-the	ART DET
-process	NN
-of	PIN PREP
-logically	RB
-obtaining	PGAS
-theory	NN
-(	
-e.g.	RB CONJ
-the	ART DET
-laws	NN
-of	PIN PREP
-science	NN
-)	
-from	PIN PREP
-our	FPP1 PRP SBJP
-sensory	JJ
-input	NN
-.	
-But	CAP CCONJ
-Hume	CAP NNP
-,	
-Quine	CAP NNP
-argues	VPRT PUBV
-,	
-showed	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-creation	NOMZ
-of	PIN PREP
-a	ART DET INDA
-theory	NN
-always	RB
-involves	VPRT
-an	ART DET INDA
-element	NOMZ
-of	PIN PREP
-unsubstantiated	JJ
-generalization	NOMZ
-(	
-e.g.	RB CONJ
-identity	NOMZ
-)	
-.	
-Naturalized	JJ CAP
-epistemology	NN
-Quine	CAP NNP
-concludes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-logical	JJ
-validation	NOMZ
-of	PIN PREP
-science	NN
-on	PIN PREP
-the	ART DET
-basis	NN
-of	PIN PREP
-observation	NOMZ
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-.	
-What	WHQU CAP WH
-we	FPP1 PRP SBJP
-are	PASS VPRT AUXB
-left	
-with	PIN PREP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-normative	JJ
-epistemology	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-justification	NOMZ
-becomes	VPRT
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-convenience	NN
-or	CCONJ
-semantics	NN
-,	
-not	XX0 RB
-logic	NN
-.	
-Here	RB CAP
-Quine	CAP NNP
-urges	VPRT SUAV
-us	FPP1 PRP SBJP ACCU
-to	PIN TO PREP
-abandon	INF
-our	FPP1 PRP SBJP
-traditional	JJ
-epistemic	JJ
-search	NN
-for	PIN PREP
-justification	NOMZ
-:	
-since	OSUB PIN SCONJ PREP
-all	QUAN DET
-of	PIN PREP
-epistemology	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-normative	JJ
-enterprise	NN
-we	FPP1 PRP SBJP
-will	PRMD SPAU
-never	RB
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO SPIN PREP
-logically	RB
-prove	PRIV INF
-the	ART DET
-truth	NN
-of	PIN PREP
-any	QUAN DET
-belief	NN
-on	PIN PREP
-the	ART DET
-basis	NN
-of	PIN PREP
-experience	NN
-of	PIN PREP
-the	ART DET
-outside	JJ PLACE
-world	NN
-.	
-In	PIN CONJ CAP PREP
-Quine	CAP NNP
-'s	
-opinion	NN
-our	FPP1 PRP SBJP
-best	JJ SPADJ
-course	NN
-of	PIN PREP
-action	NOMZ
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-want	VPRT
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-connection	NOMZ
-between	PIN PREP
-sensory	JJ
-stimulation	NOMZ
-and	PHC CCONJ
-theory	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-immerse	INF
-ourselves	FPP1 PRP SBJP ACCU
-in	PIN CONJ PREP
-the	ART DET
-empiric	JJ
-study	NN
-of	PIN PREP
-how	RB SCONJ WH
-sensory	JJ
-input	NN
-generates	VPRT
-mental	JJ
-/	
-neural	NN
-representations	NOMZ
-in	PIN CONJ PREP
-human	JJ
-beings	NN
-.	
-Quine	CAP NNP
-himself	TPP3 PRP SBJP ACCU
-talks	NN
-of	PIN STPR PREP
-"	QUOT
-settling	PGAS
-for	PIN PREP
-psychology	NN
-"	QUOT
-,	
-but	CCONJ
-a	ART DET INDA
-more	RB EMPH CMADJ
-modern	JJ
-version	NOMZ
-of	PIN PREP
-his	TPP3 PRP SBJP
-essay	NN
-"	QUOT
-Epistemology	CAP NNP
-Naturalized	CAP NNP
-"	QUOT
-might	POMD
-have	PEAS INF
-emphasized	
-the	ART DET
-different	JJ
-processes	NN
-by	PIN PREP
-which	PIRE DET WH
-the	ART DET
-brain	NN
-makes	VPRT
-neural	JJ
-patterns	NN
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-nerve	NN
--	
-cell	NN
-circuits	NN
-and	CCONJ
-manages	VPRT
-to	PIN TO PREP
-turn	INF
-those	DEMO DET
-neural	JJ
-patterns	NN
-into	PIN PREP
-mental	JJ
-images	NN
-.	
-The	ART CAP DET
-question	NOMZ
-of	PIN PREP
-how	RB SCONJ WH
-consciousness	NOMZ
-arises	VPRT
-from	PIN PREP
-neural	JJ
-circuits	NN
-in	PIN CONJ PREP
-thalamus	NN
-and	PHC CCONJ
-cortex	NN
-will	PRMD
-have	INF
-to	PIN TO PREP
-be	PASS AUXB INF
-addressed	
-.	
-Is	PASS VPRT AUXB CAP
-naturalized	
-epistemology	NN
-a	ART DET INDA
-subject	NN
--	
-matter	NN
-of	PIN PREP
-philosophy	NN
-?	QUES
-Quine	CAP NNP
-urges	VPRT SUAV
-us	FPP1 PRP SBJP ACCU
-to	PIN TO PREP
-accept	PRIV INF
-that	PIN THVC SCONJ PREP
-our	FPP1 PRP SBJP
-only	JJ DWNT
-source	NN
-of	PIN PREP
-information	NOMZ
-about	PIN PREP
-anything	QUPR INPR
-comes	VPRT
-through	PIN PREP
-our	FPP1 PRP SBJP
-sense	PRIV NN
-organs	NN
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-mental	JJ
-representations	NOMZ
-of	PIN PREP
-the	ART DET
-outside	JJ PLACE
-world	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-Wittgensteinian	JJ CAP
-fashion	NN
-he	TPP3 PRP SBJP
-asserts	VPRT PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-sceptic	NN
-'s	
-challenge	NN
-is	VPRT AUXB
-but	CCONJ
-a	ART DET INDA
-figment	NOMZ
-of	PIN PREP
-our	FPP1 PRP SBJP
-over	PIN STPR PREP
--	
-analytic	JJ
-imagination	NOMZ
-.	
-I	FPP1 CAP PRP SBJP
-am	BEMA VPRT AUXB
-not	XX0 RB
-in	PIN CONJ PREP
-a	ART DET INDA
-position	NOMZ
-to	PIN TO PREP
-argue	PUBV INF
-for	PIN PREP
-or	CCONJ
-against	PIN PREP
-his	TPP3 PRP SBJP
-attack	NN
-on	PIN PREP
-traditional	JJ
-,	
-logical	JJ
-epistemology	NN
-,	
-and	ANDC CCONJ
-I	FPP1 CAP PRP SBJP
-wonder	VPRT
-if	COND PIN SCONJ PREP
-anyone	QUPR INPR
-really	RB EMPH
-is	VPRT AUXB
-.	
-Who	WHQU CAP WH
-can	POMD
-know	PRIV INF
-for	PIN PREP
-certain	JJ
-that	PIN THAC SCONJ PREP
-certain	JJ
-knowledge	NN
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-?	QUES
-Two	CAP NUM
-other	JJ
-issues	NN
-seem	VPRT SMP
-pressing	PGAS
-at	PIN PREP
-the	ART DET
-moment	NOMZ
-.	
-Does	VPRT CAP
-epistemology	NN
-cease	INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-philosophic	JJ
-enterprise	NN
-in	PIN CONJ PREP
-Quine	CAP NNP
-'s	
-naturalized	JJ
-form	NN
-?	QUES
-And	ANDC CAP CCONJ
-secondly	RB
-,	
-is	BEMA VPRT AUXB
-normative	JJ
-epistemology	NN
-as	PIN CONJ PREP
-useless	JJ
-or	CCONJ
-impossible	JJ
-as	PIN CONJ PREP
-Quine	CAP NNP
-will	PRMD
-have	INF
-us	FPP1 PRP SBJP ACCU
-believe	PRIV INF
-?	QUES
-The	ART CAP DET
-answer	NN
-to	PIN PREP
-the	ART DET
-first	JJ
-question	NOMZ
-must	NEMD
-be	AUXB INF
-no	UH
-.	
-Epistemology	NN CAP
-in	PIN CONJ PREP
-Quine	CAP NNP
-'s	
-natural	JJ
-form	NN
-investigates	VPRT
-how	RB SCONJ WH
-sensory	JJ
-input	NN
-leads	VPRT
-to	PIN PREP
-mental	JJ
-theories	NN
-and	PHC CCONJ
-representations	NOMZ
-of	PIN PREP
-the	ART DET
-world	NN
-.	
-This	DEMO CAP DET
-enterprise	NN
-has	VPRT PEAS SPAU
-already	RB
-been	PASS AUXB
-subdivided	
-into	PIN PREP
-parts	NN
-in	PIN CONJ PREP
-psychology	NN
-(	
-e.g.	CONJ X
-psychophysics	NN
-,	
-attention	NOMZ
-,	
-memory	NN
-,	
-or	CCONJ
-schema	NN
--	
-theory	NN
-)	
-and	ANDC CCONJ
-neuroscience	NN
-(	
-i.e.	CONJ X
-how	RB SCONJ WH
-different	JJ
-neural	JJ
-structures	NN
-contribute	VPRT
-to	PIN PREP
-perception	NOMZ
-and	CCONJ
-dynamic	JJ
-mental	JJ
-images	NN
-)	
-.	
-But	CAP CCONJ
-nowhere	RB INPR PLACE
-in	PIN CONJ PREP
-these	DEMO DET
-disciplines	NN
-is	VPRT AUXB
-there	EX
-any	QUAN DET
-talk	NN
-of	PIN PREP
-the	ART DET
-relations	NOMZ
-between	PIN STPR PREP
-"	QUOT
-evidence	NN
-"	QUOT
-,	
-"	QUOT
-justification	NOMZ
-"	QUOT
-or	CCONJ
-"	QUOT
-knowledge	NN
-"	QUOT
-,	
-and	ANDC CCONJ
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-such	JJ
-thing	NN
-as	PIN CONJ PREP
-researching	GER PGAS
-an	ART DET INDA
-organism	NN
-'s	
-"	QUOT
-true	JJ
-"	QUOT
-or	CCONJ
-"	QUOT
-correct	JJ
-"	QUOT
-perception	NOMZ
-of	PIN PREP
-its	PIT PRP SBJP
-environment	NOMZ
-.	
-Some	QUAN CAP DET
-thinkers	NN
-have	VPRT PEAS
-been	PASS BYPA AUXB
-inspired	
-by	PIN PREP
-Quine	CAP NNP
-,	
-but	CCONJ
-also	RB
-by	PIN PREP
-philosophers	NN
-such	JJ
-as	PIN CONJ PREP
-Alvin	CAP NNP
-Goldman	CAP NNP
-and	PHC CCONJ
-Thomas	CAP NNP
-Kuhn	CAP NNP
-to	PIN TO PREP
-advocate	INF
-naturalistic	JJ
-epistemology	NN
-,	
-an	ART DET INDA
-epistemology	NN
-which	WHSUB DET WH
-emphasizes	VPRT
-empiric	JJ
-investigation	NOMZ
-rather	RB
-than	PIN PREP
-a	ART DET INDA
-priori	JJ
-conceptual	JJ
-analysis	NN
-.	
-Contrary	JJ CAP
-to	PIN PREP
-Quine	CAP NNP
-however	RB CONJ
-,	
-naturalistic	JJ
-epistemology	NN
-recognises	VPRT PRIV
-a	ART DET INDA
-crucial	JJ
-difference	NN
-between	PIN PREP
-knowledge	NN
-and	CCONJ
-true	JJ
-belief	NN
-,	
-focusing	PGAS
-on	PIN PREP
-the	ART DET
-psychological	JJ
-processes	NN
-that	TSUB WHSUB WH
-produced	VBD
-that	DEMO DET
-belief	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-process	NN
-was	VBD AUXB
-sound	NN
-we	FPP1 PRP SBJP
-may	POMD
-call	INF
-the	ART DET
-resulting	PGAS
-representation	NOMZ
-of	PIN PREP
-the	ART DET
-world	NN
-"	QUOT
-accurate	JJ
-"	QUOT
-or	CCONJ
-"	QUOT
-knowledge	NN
-"	QUOT
-.	
-Quine	CAP NNP
-'s	
-naturalized	JJ
-epistemologist	NN
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-does	VPRT SPAU
-not	XX0 RB
-assess	INF
-whether	PIN SCONJ PREP
-or	CCONJ
-to	PIN PREP
-what	DET WH
-extent	NN
-the	ART DET
-input	NN
-"	QUOT
-justifies	NN
-"	QUOT
-the	ART DET
-output	NN
-.	
-But	CAP CCONJ
-then	RB
-again	RB TIME
-,	
-according	PGAS
-to	PIN PREP
-Quine	CAP NNP
-,	
-this	DEMP DET
-is	BEMA VPRT AUXB
-the	ART DET
-only	JJ DWNT
-reasonable	JJ
-route	NN
-to	PIN TO PREP
-take	INF
-since	OSUB PIN SCONJ PREP
-the	ART DET
-input	NN
-leads	VPRT
-to	PIN STPR PREP
-,	
-but	CCONJ
-does	VPRT PROD
-n't	XX0 CONT RB
-ever	RB
-"	QUOT
-justify	INF
-"	QUOT
-,	
-the	ART DET
-output	NN
-.	
-But	CAP CCONJ
-is	BEMA VPRT AUXB
-this	DEMO DET
-true	JJ
-?	QUES
-Why	RB WHQU CAP SCONJ WH
-should	NEMD
-we	FPP1 PRP SBJP
-abandon	INF
-traditional	JJ
-epistemology	NN
-altogether	AMP RB
-,	
-especially	RB
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-satisfies	VPRT
-our	FPP1 PRP SBJP
-intellectual	JJ
-curiosity	NOMZ
-?	QUES
-In	PIN CONJ CAP PREP
-his	TPP3 PRP SBJP
-essay	NN
-"	QUOT
-What	WHQU CAP WH
-is	PASS VPRT AUXB
-naturalized	
-epistemology	NN
-?	QUES
-"	QUOT
-Jaegwon	CAP NNP
-Kim	CAP NNP
-asserts	VPRT PUBV
-that	PIN THVC SCONJ PREP
-normative	JJ
-epistemology	NN
-is	BEMA VPRT AUXB
-indeed	RB
-possible	JJ
-.	
-He	TPP3 CAP PRP SBJP
-makes	VPRT
-an	ART DET INDA
-analogy	NN
-to	PIN PREP
-ethics	NN
-,	
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-just	RB EMPH
-like	PIN PREP
-a	ART DET INDA
-car	NN
-may	POMD
-be	AUXB INF
-"	QUOT
-good	JJ
-"	QUOT
-in	PIN CONJ PREP
-virtue	NN
-of	PIN PREP
-certain	JJ
-factual	JJ
-properties	NN
-;	
-a	ART DET INDA
-belief	NN
-may	POMD
-be	AUXB INF
-"	QUOT
-justified	
-"	QUOT
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-certain	JJ
-properties	NN
-such	JJ
-as	PIN CONJ PREP
-its	PIT PRP SBJP
-being	BEMA NN
-coherent	JJ PRED
-,	
-rational	JJ
-,	
-"	QUOT
-indubitable	JJ
-"	QUOT
-or	CCONJ
-logically	RB
-deducible	JJ
-from	PIN PREP
-another	DET
-"	QUOT
-indubitable	JJ
-"	QUOT
-belief	NN
-and	ANDC CCONJ
-so	RB
-on	RB PIN STPR PREP
-.	
-Quine	CAP NNP
-is	VPRT AUXB
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-for	PIN PREP
-centuries	NN
-we	FPP1 PRP SBJP
-'ve	CONT VPRT
-been	AUXB
-trying	PGAS
-to	PIN TO PREP
-find	PRIV INF
-rational	JJ
-and	PHC CCONJ
-normative	JJ
-systems	NN
-that	TSUB WHSUB WH
-encompass	VPRT
-these	DEMO DET
-different	JJ
-properties	NN
-,	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-should	NEMD SPAU
-now	RB TIME
-be	BEMA AUXB INF
-ready	JJ PRED
-to	PIN TO PREP
-admit	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-project	NN
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-.	
-Epistemology	NN CAP
-is	BEMA VPRT AUXB
-obviously	RB
-possible	JJ
-,	
-articles	NN
-are	PASS VPRT AUXB
-published	
-every	QUAN DET
-day	NN
-,	
-but	CCONJ
-will	PRMD
-it	PIT PRP SBJP
-ever	RB
-amount	INF
-to	PIN PREP
-anything	QUPR INPR
-more	RB EMPH CMADJ
-substantial	JJ
-?	QUES
-Must	NEMD CAP
-it	PIT PRP SBJP
-?	QUES
-Shall	PRMD CAP
-I	FPP1 CAP PRP SBJP
-sign	INF
-up	PIN PREP
-for	PIN PREP
-an	ART DET INDA
-optional	JJ
-course	NN
-in	PIN CONJ PREP
-modern	JJ
-epistemology	NN
-or	CCONJ
-functional	JJ
-neuroanatomy	NN
-?	QUES
-Once	RB TIME CAP
-again	RB TIME
-,	
-ones	NN
-allegiance	NN
-in	PIN CONJ PREP
-this	DEMO DET
-matter	NN
-seems	VPRT SMP
-to	PIN TO PREP
-bear	INF
-on	PIN PREP
-personality	NOMZ
-traits	NN
-rather	RB
-than	PIN PREP
-reason	PRIV NN
-.	
+type	content	tags
+word	Introduction	CAP NNP
+gap	 	
+word	Quine	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	naturalized	JJ
+gap	 	
+word	epistemology	NN
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	accepted	PRIV
+gap	, 	
+word	puts	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	end	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	search	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 (	
+word	or	CCONJ
+gap	 	
+word	rather	RB
+gap	 "	
+word	certain	JJ
+gap	") 	
+word	knowledge	NN
+gap	. 	
+word	Subtleties	NN CAP
+gap	 	
+word	aside	RB
+gap	, 	
+word	Quine	CAP NNP
+gap	 	
+word	denies	VPRT PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	beliefs	NN
+gap	 	
+word	being	PASS WZPRES AUXB
+gap	 	
+word	justified	
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	actions	NOMZ
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	sometimes	RB
+gap	 	
+word	denied	PUBV
+gap	 	
+word	ethical	JJ
+gap	 	
+word	value	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	epistemic	JJ
+gap	 	
+word	enquiry	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	but	CCONJ
+gap	 	
+word	drained	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	content	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	Quine	CAP NNP
+gap	 	
+word	urges	VPRT SUAV
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	abandon	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	project	NN
+gap	 	
+word	altogether	AMP RB
+gap	 	
+word	and	CCONJ
+gap	 	
+word	turn	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	empiric	JJ
+gap	 	
+word	issue	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	beliefs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	theories	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	outside	JJ PLACE
+gap	 	
+word	world	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	generated	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	brain	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	try	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	outline	INF
+gap	 	
+word	Quine	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	project	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	for	PIN STPR PREP
+gap	 '	
+word	naturalizing	GER PGAS
+gap	 	
+word	epistemology	NN
+gap	'. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	begin	INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	discussing	GER PGAS
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	claim	PUBV NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	epistemology	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 "	
+word	lost	JJ
+gap	 	
+word	cause	NN
+gap	", 	
+word	move	SUAV INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	vision	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	epistemology	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	empiric	JJ
+gap	 	
+word	discipline	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	lastly	RB
+gap	 	
+word	discuss	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	various	JJ
+gap	 	
+word	philosophic	JJ
+gap	 	
+word	implications	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	naturalizing	GER PGAS
+gap	 	
+word	epistemology	NN
+gap	. 	
+word	Quine	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	case	NN
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	complete	JJ
+gap	 '	
+word	theory	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	' 	
+word	Quine	CAP NNP
+gap	 	
+word	describes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	epistemic	JJ
+gap	 	
+word	project	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	dynamic	JJ
+gap	 	
+word	logical	JJ
+gap	 	
+word	link	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	sensory	JJ
+gap	 	
+word	experience	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	theory	NN
+gap	. 	
+word	From	PIN CAP PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	experience	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	create	VPRT
+gap	 	
+word	wide	RB
+gap	-	
+word	ranging	PGAS
+gap	 	
+word	theories	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	outside	JJ PLACE
+gap	 	
+word	world	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	systematic	JJ
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	laws	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nature	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	revealed	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	science	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	purpose	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	epistemology	NN
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	Descartes	CAP NNP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	intellectual	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	linguistic	JJ
+gap	 	
+word	tools	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	ascertain	PRIV INF
+gap	 	
+word	when	RB WHCL SCONJ WH
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	theories	NN
+gap	 	
+word	correspond	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	actual	JJ
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	things	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	not	XX0 RB
+gap	. 	
+word	Epistemology	NN CAP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tell	INF
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	and	PHC ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	beliefs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	theories	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	justified	
+gap	 . 	
+word	A	ART CAP DET INDA
+gap	 	
+word	proper	JJ
+gap	 	
+word	logical	JJ
+gap	 	
+word	system	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	justification	NOMZ
+gap	 	
+word	would	PRMD
+gap	 	
+word	maybe	RB HDG
+gap	 	
+word	one	NUM
+gap	 	
+word	day	NN
+gap	 	
+word	bridge	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	gap	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	theory	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	reality	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	provide	INF
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	foundations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	science	NN
+gap	; 	
+word	much	QUAN JJ
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	mathematics	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	eventually	RB TIME
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	reduced	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	logic	NN
+gap	. 	
+word	Drawing	CAP PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	analogy	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	mathematics	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	logic	NN
+gap	 	
+word	Quine	CAP NNP
+gap	 	
+word	divides	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	epistemic	JJ
+gap	 	
+word	program	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	parts	NN
+gap	: 	
+word	conceptual	JJ
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	doctrinal	JJ
+gap	 	
+word	reduction	NOMZ
+gap	. 	
+word	Through	PIN CAP PREP
+gap	 	
+word	conceptual	JJ
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	the	ART DET
+gap	 	
+word	philosopher	NN
+gap	 	
+word	tries	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	theories	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	external	JJ
+gap	 	
+word	world	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	phenomenal	JJ
+gap	 	
+word	features	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	indubitable	JJ
+gap	 	
+word	sensory	JJ
+gap	 	
+word	experience	NN
+gap	. 	
+word	Quine	CAP NNP
+gap	 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Carnap	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	Der	CAP NNP
+gap	 	
+word	Logische	CAP NNP
+gap	 	
+word	der	NN
+gap	 	
+word	Welt	CAP NNP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	successful	JJ
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO STPR PREP
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	logical	JJ
+gap	 	
+word	deduction	NOMZ
+gap	, 	
+word	go	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	theory	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	experience	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	, 	
+word	Quine	CAP NNP
+gap	 	
+word	asserts	VPRT PUBV
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	complex	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	holistic	JJ
+gap	 	
+word	manner	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	experience	NN
+gap	 	
+word	generates	VPRT
+gap	 	
+word	empirical	JJ
+gap	 	
+word	meaning	PRIV NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	never	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discover	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	precise	JJ
+gap	 	
+word	logical	JJ
+gap	 	
+word	relationship	NN
+gap	 (	
+word	a	ART DET INDA
+gap	 "	
+word	point	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	point	INF
+gap	" 	
+word	relationship	NN
+gap	) 	
+word	between	PIN PREP
+gap	 	
+word	physical	JJ
+gap	 	
+word	terms	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	phenomenal	JJ
+gap	 	
+word	terms	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	other	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	epistemic	JJ
+gap	 	
+word	project	NN
+gap	, 	
+word	doctrinal	JJ
+gap	 	
+word	reduction	NOMZ
+gap	, 	
+word	failed	VBD
+gap	 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Quine	CAP NNP
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	Hume	CAP NNP
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	doctrinal	JJ
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	Quine	CAP NNP
+gap	 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	logically	RB
+gap	 	
+word	obtaining	PGAS
+gap	 	
+word	theory	NN
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	the	
+gap	 	
+word	laws	
+gap	 	
+word	of	
+gap	 	
+word	science	
+gap	) 	
+word	from	
+gap	 	
+word	our	
+gap	 	
+word	sensory	
+gap	 	
+word	input	
+gap	. 	
+word	But	
+gap	 	
+word	Hume	
+gap	, 	
+word	Quine	
+gap	 	
+word	argues	
+gap	, 	
+word	showed	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	creation	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	theory	
+gap	 	
+word	always	
+gap	 	
+word	involves	
+gap	 	
+word	an	
+gap	 	
+word	element	
+gap	 	
+word	of	
+gap	 	
+word	unsubstantiated	
+gap	 	
+word	generalization	
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	identity	
+gap	). 	
+word	Naturalized	
+gap	 	
+word	epistemology	
+gap	 	
+word	Quine	
+gap	 	
+word	concludes	
+gap	 	
+word	that	
+gap	 	
+word	logical	
+gap	 	
+word	validation	
+gap	 	
+word	of	
+gap	 	
+word	science	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	basis	
+gap	 	
+word	of	
+gap	 	
+word	observation	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	. 	
+word	What	
+gap	 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	left	
+gap	 	
+word	with	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	normative	
+gap	 	
+word	epistemology	
+gap	 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	justification	
+gap	 	
+word	becomes	
+gap	 	
+word	a	
+gap	 	
+word	matter	
+gap	 	
+word	of	
+gap	 	
+word	convenience	
+gap	 	
+word	or	
+gap	 	
+word	semantics	
+gap	, 	
+word	not	
+gap	 	
+word	logic	
+gap	. 	
+word	Here	
+gap	 	
+word	Quine	
+gap	 	
+word	urges	
+gap	 	
+word	us	
+gap	 	
+word	to	
+gap	 	
+word	abandon	
+gap	 	
+word	our	
+gap	 	
+word	traditional	
+gap	 	
+word	epistemic	
+gap	 	
+word	search	
+gap	 	
+word	for	
+gap	 	
+word	justification	
+gap	: 	
+word	since	
+gap	 	
+word	all	
+gap	 	
+word	of	
+gap	 	
+word	epistemology	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	normative	
+gap	 	
+word	enterprise	
+gap	 	
+word	we	
+gap	 	
+word	will	
+gap	 	
+word	never	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	logically	
+gap	 	
+word	prove	
+gap	 	
+word	the	
+gap	 	
+word	truth	
+gap	 	
+word	of	
+gap	 	
+word	any	
+gap	 	
+word	belief	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	basis	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	experience	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	outside	
+gap	 	
+word	world	
+gap	. 	
+word	In	
+gap	 	
+word	Quine	
+gap	'	
+word	s	
+gap	 	
+word	opinion	
+gap	 	
+word	our	
+gap	 	
+word	best	
+gap	 	
+word	course	
+gap	 	
+word	of	
+gap	 	
+word	action	
+gap	 	
+word	if	
+gap	 	
+word	we	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	the	
+gap	 	
+word	connection	
+gap	 	
+word	between	
+gap	 	
+word	sensory	
+gap	 	
+word	stimulation	
+gap	 	
+word	and	
+gap	 	
+word	theory	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	immerse	
+gap	 	
+word	ourselves	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	empiric	
+gap	 	
+word	study	
+gap	 	
+word	of	
+gap	 	
+word	how	
+gap	 	
+word	sensory	
+gap	 	
+word	input	
+gap	 	
+word	generates	
+gap	 	
+word	mental	
+gap	/	
+word	neural	
+gap	 	
+word	representations	
+gap	 	
+word	in	
+gap	 	
+word	human	
+gap	 	
+word	beings	
+gap	. 	
+word	Quine	
+gap	 	
+word	himself	
+gap	 	
+word	talks	
+gap	 	
+word	of	
+gap	 "	
+word	settling	
+gap	 	
+word	for	
+gap	 	
+word	psychology	
+gap	", 	
+word	but	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	modern	
+gap	 	
+word	version	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	essay	
+gap	 "	
+word	Epistemology	
+gap	 	
+word	Naturalized	
+gap	" 	
+word	might	
+gap	 	
+word	have	
+gap	 	
+word	emphasized	
+gap	 	
+word	the	
+gap	 	
+word	different	
+gap	 	
+word	processes	
+gap	 	
+word	by	
+gap	 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	brain	
+gap	 	
+word	makes	
+gap	 	
+word	neural	
+gap	 	
+word	patterns	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	nerve	
+gap	-	
+word	cell	
+gap	 	
+word	circuits	
+gap	 	
+word	and	
+gap	 	
+word	manages	
+gap	 	
+word	to	
+gap	 	
+word	turn	
+gap	 	
+word	those	
+gap	 	
+word	neural	
+gap	 	
+word	patterns	
+gap	 	
+word	into	
+gap	 	
+word	mental	
+gap	 	
+word	images	
+gap	. 	
+word	The	
+gap	 	
+word	question	
+gap	 	
+word	of	
+gap	 	
+word	how	
+gap	 	
+word	consciousness	
+gap	 	
+word	arises	
+gap	 	
+word	from	
+gap	 	
+word	neural	
+gap	 	
+word	circuits	
+gap	 	
+word	in	
+gap	 	
+word	thalamus	
+gap	 	
+word	and	
+gap	 	
+word	cortex	
+gap	 	
+word	will	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	addressed	
+gap	. 	
+word	Is	
+gap	 	
+word	naturalized	
+gap	 	
+word	epistemology	
+gap	 	
+word	a	
+gap	 	
+word	subject	
+gap	-	
+word	matter	
+gap	 	
+word	of	
+gap	 	
+word	philosophy	
+gap	? 	
+word	Quine	
+gap	 	
+word	urges	
+gap	 	
+word	us	
+gap	 	
+word	to	
+gap	 	
+word	accept	
+gap	 	
+word	that	
+gap	 	
+word	our	
+gap	 	
+word	only	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	information	
+gap	 	
+word	about	
+gap	 	
+word	anything	
+gap	 	
+word	comes	
+gap	 	
+word	through	
+gap	 	
+word	our	
+gap	 	
+word	sense	
+gap	 	
+word	organs	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	mental	
+gap	 	
+word	representations	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	outside	
+gap	 	
+word	world	
+gap	. 	
+word	In	
+gap	 	
+word	a	
+gap	 	
+word	Wittgensteinian	
+gap	 	
+word	fashion	
+gap	 	
+word	he	
+gap	 	
+word	asserts	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	sceptic	
+gap	'	
+word	s	
+gap	 	
+word	challenge	
+gap	 	
+word	is	
+gap	 	
+word	but	
+gap	 	
+word	a	
+gap	 	
+word	figment	
+gap	 	
+word	of	
+gap	 	
+word	our	
+gap	 	
+word	over	
+gap	-	
+word	analytic	
+gap	 	
+word	imagination	
+gap	. 	
+word	I	
+gap	 	
+word	am	
+gap	 	
+word	not	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	position	
+gap	 	
+word	to	
+gap	 	
+word	argue	
+gap	 	
+word	for	
+gap	 	
+word	or	
+gap	 	
+word	against	
+gap	 	
+word	his	
+gap	 	
+word	attack	
+gap	 	
+word	on	
+gap	 	
+word	traditional	
+gap	, 	
+word	logical	
+gap	 	
+word	epistemology	
+gap	, 	
+word	and	
+gap	 	
+word	I	
+gap	 	
+word	wonder	
+gap	 	
+word	if	
+gap	 	
+word	anyone	
+gap	 	
+word	really	
+gap	 	
+word	is	
+gap	. 	
+word	Who	
+gap	 	
+word	can	
+gap	 	
+word	know	
+gap	 	
+word	for	
+gap	 	
+word	certain	JJ
+gap	 	
+word	that	
+gap	 	
+word	certain	
+gap	 	
+word	knowledge	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	? 	
+word	Two	
+gap	 	
+word	other	
+gap	 	
+word	issues	
+gap	 	
+word	seem	
+gap	 	
+word	pressing	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	moment	
+gap	. 	
+word	Does	
+gap	 	
+word	epistemology	
+gap	 	
+word	cease	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	philosophic	
+gap	 	
+word	enterprise	
+gap	 	
+word	in	
+gap	 	
+word	Quine	
+gap	'	
+word	s	
+gap	 	
+word	naturalized	
+gap	 	
+word	form	
+gap	? 	
+word	And	
+gap	 	
+word	secondly	
+gap	, 	
+word	is	
+gap	 	
+word	normative	
+gap	 	
+word	epistemology	
+gap	 	
+word	as	
+gap	 	
+word	useless	
+gap	 	
+word	or	
+gap	 	
+word	impossible	
+gap	 	
+word	as	
+gap	 	
+word	Quine	
+gap	 	
+word	will	
+gap	 	
+word	have	
+gap	 	
+word	us	
+gap	 	
+word	believe	
+gap	? 	
+word	The	
+gap	 	
+word	answer	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	question	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	no	
+gap	. 	
+word	Epistemology	
+gap	 	
+word	in	
+gap	 	
+word	Quine	
+gap	'	
+word	s	
+gap	 	
+word	natural	
+gap	 	
+word	form	
+gap	 	
+word	investigates	
+gap	 	
+word	how	
+gap	 	
+word	sensory	
+gap	 	
+word	input	
+gap	 	
+word	leads	
+gap	 	
+word	to	
+gap	 	
+word	mental	
+gap	 	
+word	theories	
+gap	 	
+word	and	
+gap	 	
+word	representations	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	. 	
+word	This	
+gap	 	
+word	enterprise	
+gap	 	
+word	has	
+gap	 	
+word	already	
+gap	 	
+word	been	
+gap	 	
+word	subdivided	
+gap	 	
+word	into	
+gap	 	
+word	parts	
+gap	 	
+word	in	
+gap	 	
+word	psychology	
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	psychophysics	
+gap	, 	
+word	attention	
+gap	, 	
+word	memory	
+gap	, 	
+word	or	
+gap	 	
+word	schema	
+gap	-	
+word	theory	
+gap	) 	
+word	and	
+gap	 	
+word	neuroscience	
+gap	 (	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	how	
+gap	 	
+word	different	
+gap	 	
+word	neural	
+gap	 	
+word	structures	
+gap	 	
+word	contribute	
+gap	 	
+word	to	
+gap	 	
+word	perception	
+gap	 	
+word	and	
+gap	 	
+word	dynamic	
+gap	 	
+word	mental	
+gap	 	
+word	images	
+gap	). 	
+word	But	
+gap	 	
+word	nowhere	
+gap	 	
+word	in	
+gap	 	
+word	these	
+gap	 	
+word	disciplines	
+gap	 	
+word	is	
+gap	 	
+word	there	
+gap	 	
+word	any	
+gap	 	
+word	talk	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	relations	
+gap	 	
+word	between	
+gap	 "	
+word	evidence	
+gap	", "	
+word	justification	
+gap	" 	
+word	or	
+gap	 "	
+word	knowledge	
+gap	", 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	such	
+gap	 	
+word	thing	
+gap	 	
+word	as	
+gap	 	
+word	researching	
+gap	 	
+word	an	
+gap	 	
+word	organism	
+gap	'	
+word	s	
+gap	 "	
+word	true	
+gap	" 	
+word	or	
+gap	 "	
+word	correct	
+gap	" 	
+word	perception	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	environment	
+gap	. 	
+word	Some	
+gap	 	
+word	thinkers	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	inspired	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Quine	
+gap	, 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	by	
+gap	 	
+word	philosophers	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	Alvin	
+gap	 	
+word	Goldman	
+gap	 	
+word	and	
+gap	 	
+word	Thomas	
+gap	 	
+word	Kuhn	
+gap	 	
+word	to	
+gap	 	
+word	advocate	
+gap	 	
+word	naturalistic	
+gap	 	
+word	epistemology	
+gap	 , 	
+word	an	
+gap	 	
+word	epistemology	
+gap	 	
+word	which	
+gap	 	
+word	emphasizes	
+gap	 	
+word	empiric	
+gap	 	
+word	investigation	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	priori	
+gap	 	
+word	conceptual	
+gap	 	
+word	analysis	
+gap	. 	
+word	Contrary	
+gap	 	
+word	to	
+gap	 	
+word	Quine	
+gap	 	
+word	however	
+gap	, 	
+word	naturalistic	
+gap	 	
+word	epistemology	
+gap	 	
+word	recognises	
+gap	 	
+word	a	
+gap	 	
+word	crucial	
+gap	 	
+word	difference	
+gap	 	
+word	between	
+gap	 	
+word	knowledge	
+gap	 	
+word	and	
+gap	 	
+word	true	
+gap	 	
+word	belief	
+gap	, 	
+word	focusing	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	psychological	
+gap	 	
+word	processes	
+gap	 	
+word	that	
+gap	 	
+word	produced	
+gap	 	
+word	that	
+gap	 	
+word	belief	
+gap	. 	
+word	If	
+gap	 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	was	
+gap	 	
+word	sound	
+gap	 	
+word	we	
+gap	 	
+word	may	
+gap	 	
+word	call	
+gap	 	
+word	the	ART DET
+gap	 	
+word	resulting	
+gap	 	
+word	representation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 "	
+word	accurate	
+gap	" 	
+word	or	
+gap	 "	
+word	knowledge	
+gap	". 	
+word	Quine	
+gap	'	
+word	s	
+gap	 	
+word	naturalized	
+gap	 	
+word	epistemologist	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	assess	
+gap	 	
+word	whether	
+gap	 	
+word	or	
+gap	 	
+word	to	
+gap	 	
+word	what	
+gap	 	
+word	extent	
+gap	 	
+word	the	
+gap	 	
+word	input	
+gap	 "	
+word	justifies	
+gap	" 	
+word	the	
+gap	 	
+word	output	
+gap	. 	
+word	But	
+gap	 	
+word	then	
+gap	 	
+word	again	
+gap	, 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	Quine	
+gap	, 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	only	
+gap	 	
+word	reasonable	
+gap	 	
+word	route	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	since	
+gap	 	
+word	the	
+gap	 	
+word	input	
+gap	 	
+word	leads	
+gap	 	
+word	to	
+gap	, 	
+word	but	
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	ever	
+gap	 "	
+word	justify	
+gap	", 	
+word	the	
+gap	 	
+word	output	
+gap	. 	
+word	But	
+gap	 	
+word	is	
+gap	 	
+word	this	
+gap	 	
+word	true	
+gap	? 	
+word	Why	
+gap	 	
+word	should	
+gap	 	
+word	we	
+gap	 	
+word	abandon	
+gap	 	
+word	traditional	
+gap	 	
+word	epistemology	
+gap	 	
+word	altogether	
+gap	, 	
+word	especially	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	satisfies	
+gap	 	
+word	our	
+gap	 	
+word	intellectual	
+gap	 	
+word	curiosity	
+gap	? 	
+word	In	
+gap	 	
+word	his	
+gap	 	
+word	essay	
+gap	 "	
+word	What	
+gap	 	
+word	is	
+gap	 	
+word	naturalized	
+gap	 	
+word	epistemology	
+gap	?" 	
+word	Jaegwon	
+gap	 	
+word	Kim	
+gap	 	
+word	asserts	
+gap	 	
+word	that	
+gap	 	
+word	normative	
+gap	 	
+word	epistemology	
+gap	 	
+word	is	
+gap	 	
+word	indeed	
+gap	 	
+word	possible	
+gap	. 	
+word	He	
+gap	 	
+word	makes	
+gap	 	
+word	an	
+gap	 	
+word	analogy	
+gap	 	
+word	to	
+gap	 	
+word	ethics	
+gap	, 	
+word	saying	
+gap	 	
+word	that	
+gap	 	
+word	just	
+gap	 	
+word	like	
+gap	 	
+word	a	
+gap	 	
+word	car	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 "	
+word	good	
+gap	" 	
+word	in	
+gap	 	
+word	virtue	
+gap	 	
+word	of	
+gap	 	
+word	certain	
+gap	 	
+word	factual	
+gap	 	
+word	properties	
+gap	; 	
+word	a	
+gap	 	
+word	belief	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 "	
+word	justified	
+gap	" 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	certain	
+gap	 	
+word	properties	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	its	
+gap	 	
+word	being	
+gap	 	
+word	coherent	
+gap	, 	
+word	rational	
+gap	, "	
+word	indubitable	
+gap	" 	
+word	or	
+gap	 	
+word	logically	
+gap	 	
+word	deducible	
+gap	 	
+word	from	
+gap	 	
+word	another	
+gap	 "	
+word	indubitable	
+gap	" 	
+word	belief	
+gap	 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	on	
+gap	. 	
+word	Quine	
+gap	 	
+word	is	
+gap	 	
+word	saying	
+gap	 	
+word	that	
+gap	 	
+word	for	
+gap	 	
+word	centuries	
+gap	 	
+word	we	
+gap	'	
+word	ve	
+gap	 	
+word	been	
+gap	 	
+word	trying	
+gap	 	
+word	to	
+gap	 	
+word	find	
+gap	 	
+word	rational	
+gap	 	
+word	and	
+gap	 	
+word	normative	
+gap	 	
+word	systems	
+gap	 	
+word	that	
+gap	 	
+word	encompass	
+gap	 	
+word	these	
+gap	 	
+word	different	
+gap	 	
+word	properties	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	should	
+gap	 	
+word	now	
+gap	 	
+word	be	
+gap	 	
+word	ready	
+gap	 	
+word	to	
+gap	 	
+word	admit	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	project	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	. 	
+word	Epistemology	
+gap	 	
+word	is	
+gap	 	
+word	obviously	
+gap	 	
+word	possible	
+gap	, 	
+word	articles	
+gap	 	
+word	are	
+gap	 	
+word	published	
+gap	 	
+word	every	
+gap	 	
+word	day	
+gap	, 	
+word	but	
+gap	 	
+word	will	
+gap	 	
+word	it	
+gap	 	
+word	ever	
+gap	 	
+word	amount	
+gap	 	
+word	to	
+gap	 	
+word	anything	
+gap	 	
+word	more	
+gap	 	
+word	substantial	
+gap	? 	
+word	Must	
+gap	 	
+word	it	
+gap	? 	
+word	Shall	
+gap	 	
+word	I	
+gap	 	
+word	sign	
+gap	 	
+word	up	
+gap	 	
+word	for	
+gap	 	
+word	an	
+gap	 	
+word	optional	
+gap	 	
+word	course	
+gap	 	
+word	in	
+gap	 	
+word	modern	
+gap	 	
+word	epistemology	
+gap	 	
+word	or	
+gap	 	
+word	functional	
+gap	 	
+word	neuroanatomy	
+gap	? 	
+word	Once	
+gap	 	
+word	again	
+gap	, 	
+word	ones	
+gap	 	
+word	allegiance	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	matter	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	bear	
+gap	 	
+word	on	
+gap	 	
+word	personality	
+gap	 	
+word	traits	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	reason	
+gap	.	

@@ -1,557 +1,997 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2086.1181.txt
-token	tags
-    	
-Learning	PRIV THATD CAP PGAS
-a	ART DET INDA
-new	JJ
-language	NN
-has	VPRT PEAS
-been	BEMA AUXB
-increasingly	RB
-important	JJ
-in	PIN CONJ PREP
-the	ART DET
-globalized	JJ
-world	NN
-.	
-People	NN CAP
-need	VPRT
-to	PIN TO PREP
-know	PRIV INF
-at	RB PIN PREP
-least	RB SPADJ
-one	NUM
-foreign	JJ
-language	NN
-to	PIN TO PREP
-get	INF
-successful	JJ
-in	PIN CONJ PREP
-personal	JJ
-or	CCONJ
-professional	JJ
-life	NN
-,	
-like	PIN PREP
-getting	PGAS
-a	ART DET INDA
-better	JJ CMADJ
-job	NN
-or	CCONJ
-simply	RB
-traveling	PGAS
-abroad	RB PLACE
-.	
-However	RB CONJ CAP
-,	
-learning	PRIV PRESP THATD PGAS
-a	ART DET INDA
-foreign	JJ
-language	NN
-is	VPRT AUXB
-not	XX0 RB
-as	RB CONJ
-easy	JJ
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-seems	VPRT SMP
-.	
-There	EX CAP
-are	VPRT AUXB
-many	QUAN JJ
-factors	NN
-involved	WZPAST
-in	PIN CONJ PREP
-this	DEMO DET
-process	NN
-that	TSUB WHSUB WH
-are	PASS VPRT AUXB
-related	
-to	PIN PREP
-the	ART DET
-students	NN
-’	
-behavior	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-teachers	NN
-’	
-techniques	NN
-.	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO PREP
-provide	INF
-possibilities	NN
-of	PIN PREP
-what	WH
-could	POMD
-be	BEMA AUXB INF
-the	ART DET
-good	JJ
-conditions	NOMZ
-in	PIN CONJ PREP
-both	DET
-sides	NN
-for	PIN PREP
-a	ART DET INDA
-better	JJ CMADJ
-learning	PRIV NN
-to	PIN TO PREP
-occur	INF
-.	
- 	
-First	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-that	PIN THAC SCONJ PREP
-the	ART DET
-students	NN
-have	VPRT
-motivation	NOMZ
-to	PIN TO PREP
-learn	PRIV INF
-.	
-When	RB CAP SCONJ WH
-they	TPP3 PRP SBJP
-know	VPRT PRIV
-the	ART DET
-purpose	NN
-of	PIN PREP
-this	DEMO DET
-new	JJ
-language	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-lives	NN
-,	
-consequently	RB CONJ
-they	TPP3 PRP SBJP
-get	VPRT
-engaged	
-in	PIN CONJ PREP
-the	ART DET
-process	NN
-of	PIN PREP
-learning	PRIV PGAS
-and	ANDC CCONJ
-it	PIT PRP SBJP
-gets	VPRT
-easier	JJ CMADJ
-to	PIN TO PREP
-occur	INF
-.	
-Otherwise	RB CONJ CAP
-,	
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-have	VPRT
-no	SYNE DET
-reasons	PRIV NN
-to	PIN TO PREP
-be	AUXB INF
-learning	PRIV THATD PGAS
-it	PIT PRP SBJP
-,	
-even	RB
-their	TPP3 PRP SBJP
-brain	NN
-can	POMD
-interfere	INF
-as	PIN CONJ PREP
-a	ART DET INDA
-barrier	NN
-and	CCONJ
-block	INF
-this	DEMO DET
-learning	PRIV NN
-process	NN
-.	
-They	TPP3 CAP PRP SBJP
-may	POMD SPAU
-also	RB
-dedicate	INF
-some	QUAN DET
-time	NN
-to	PIN TO PREP
-study	INF
-alone	JJ
-the	ART DET
-subjects	NN
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-continue	INF
-the	ART DET
-job	NN
-started	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-classroom	NN
-,	
-considering	GER PRIV PGAS
-that	PIN THVC SCONJ PREP
-the	ART DET
-teacher	NN
-only	DWNT RB
-facilitates	VPRT
-the	ART DET
-learning	PRIV NN
-to	PIN TO PREP
-occur	INF
-.	
-The	ART CAP DET
-practice	NN
-is	BEMA VPRT AUXB
-the	ART DET
-key	NN
-to	PIN TO PREP
-improve	INF
-the	ART DET
-skills	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-language	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-consequence	NN
-,	
-the	ART DET
-students	NN
-stimulate	VPRT
-their	TPP3 PRP SBJP
-brain	NN
-to	PIN TO PREP
-get	INF
-acquainted	
-with	PIN PREP
-the	ART DET
-new	JJ
-language	NN
-learned	VBD PRIV
-.	
- 	
-The	ART CAP DET
-teachers	NN
-also	RB
-have	VPRT
-an	ART DET INDA
-important	JJ
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-process	NN
-of	PIN PREP
-language	NN
-learning	PRIV NN
-.	
-There	EX CAP
-are	VPRT AUXB
-many	QUAN JJ
-studies	NN
-and	PHC CCONJ
-theories	NN
-about	PIN PREP
-how	RB SCONJ WH
-students	NN
-learn	VPRT PRIV
-better	JJ CMADJ
-a	ART DET INDA
-foreign	JJ
-language	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-accepted	PRIV
-currently	RB
-is	VPRT AUXB
-Task	CAP NNP
--	
-Based	CAP
-Language	CAP NNP
-Teaching	CAP NNP
-(	
-TBLT	CAP NNP
-)	
-,	
-that	DEMP WH
-introduces	VPRT
-the	ART DET
-use	NN
-of	PIN PREP
-contextualized	JJ
-tasks	NN
-.	
-Lessons	NN CAP
-based	WZPAST
-on	PIN PREP
-these	DEMO DET
-tasks	NN
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-meaningful	JJ
-and	CCONJ
-,	
-consequently	RB CONJ
-,	
-more	RB EMPH CMADJ
-productive	JJ
-,	
-because	CAUS PIN SCONJ PREP
-its	PIT PRP SBJP
-activities	NN
-require	VPRT SUAV
-learners	NN
-to	PIN TO PREP
-use	INF
-language	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-attain	INF
-an	ART DET INDA
-objective	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-good	JJ
-way	NN
-to	PIN TO PREP
-present	INF
-to	PIN PREP
-the	ART DET
-students	NN
-real	JJ
-situations	NOMZ
-of	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-language	NN
-,	
-providing	PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-a	ART DET INDA
-more	RB EMPH CMADJ
-natural	JJ
-environment	NOMZ
-to	PIN TO PREP
-learn	PRIV INF
-.	
- 	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-relationship	NN
-between	PIN PREP
-teachers	NN
-and	PHC CCONJ
-students	NN
-in	PIN CONJ PREP
-the	ART DET
-classroom	NN
-can	POMD
-have	INF
-a	ART DET INDA
-positive	JJ
-impact	NN
-on	PIN PREP
-how	RB SCONJ WH
-to	PIN TO PREP
-make	INF
-classes	NN
-more	RB EMPH CMADJ
-interesting	JJ
-.	
-The	ART CAP DET
-more	RB EMPH CMADJ
-the	ART DET
-teachers	NN
-know	VPRT PRIV
-their	TPP3 PRP SBJP
-students	NN
-,	
-the	ART DET
-better	JJ CMADJ
-they	TPP3 PRP SBJP
-will	PRMD
-enjoy	INF
-the	ART DET
-classes	NN
-.	
-The	ART CAP DET
-teachers	NN
-should	NEMD
-know	PRIV INF
-the	ART DET
-profile	NN
-of	PIN PREP
-the	ART DET
-students	NN
-in	PIN CONJ PREP
-each	QUAN DET
-classroom	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-focus	INF
-the	ART DET
-topics	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-interests	NN
-.	
-When	RB CAP SCONJ WH
-the	ART DET
-teacher	NN
-knows	VPRT PRIV
-the	ART DET
-profile	NN
-of	PIN PREP
-the	ART DET
-classroom	NN
-,	
-it	PIT PRP SBJP
-also	RB
-contributes	VPRT
-to	PIN PREP
-the	ART DET
-type	NN
-of	PIN PREP
-material	NN
-that	TSUB WHSUB WH
-will	PRMD
-be	PASS AUXB INF
-used	
-and	CCONJ
-the	ART DET
-different	JJ
-modes	NN
-that	TSUB WHSUB WH
-may	POMD
-be	PASS AUXB INF
-explored	
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-some	QUAN DET
-students	NN
-can	POMD
-be	BEMA AUXB INF
-visual	JJ
-learners	NN
-,	
-while	OSUB PIN SCONJ PREP
-others	NN
-are	BEMA VPRT AUXB
-auditory	JJ PRED
-.	
-So	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-better	JJ PRED CMADJ
-when	RB SCONJ WH
-the	ART DET
-teacher	NN
-explores	VPRT
-different	JJ
-ways	NN
-of	PIN PREP
-stimulus	NN
-during	PIN PREP
-the	ART DET
-classes	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-important	JJ
-that	PIN THAC SCONJ PREP
-both	DET
-student	NN
-and	PHC CCONJ
-teacher	NN
-are	PASS VPRT AUXB
-engaged	
-in	PIN CONJ PREP
-the	ART DET
-process	NN
-of	PIN PREP
-learning	PRIV PGAS
-a	ART DET INDA
-new	JJ
-language	NN
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-commonly	RB
-given	
-to	PIN PREP
-the	ART DET
-student	NN
-the	ART DET
-responsibility	NOMZ
-of	PIN PREP
-being	BEMA AUXB
-successful	JJ PRED
-or	CCONJ
-not	XX0 RB
-in	PIN CONJ PREP
-the	ART DET
-process	NN
-of	PIN PREP
-learning	PRIV NN
-,	
-but	CCONJ
-the	ART DET
-teacher	NN
-has	VPRT
-also	RB
-a	ART DET INDA
-very	AMP RB
-important	JJ
-role	NN
-in	PIN CONJ PREP
-this	DEMO DET
-process	NN
-.	
-Better	RB CAP CMADJ
-than	PIN PREP
-that	DEMP DET
-,	
-the	ART DET
-relationship	NN
-between	PIN PREP
-both	DET
-sides	NN
-makes	VPRT
-the	ART DET
-most	RB EMPH SPADJ
-effective	JJ
-interaction	NOMZ
-to	PIN TO PREP
-provide	INF
-a	ART DET INDA
-good	JJ
-environment	NOMZ
-for	PIN PREP
-learning	PRIV PGAS
-a	ART DET INDA
-foreign	JJ
-language	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2086.1181>\n\n<A better environment for foreign language learning>\n\n	
+word	Learning	PRIV THATD CAP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	increasingly	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	globalized	JJ
+gap	 	
+word	world	NN
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	least	RB SPADJ
+gap	 	
+word	one	NUM
+gap	 	
+word	foreign	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	get	INF
+gap	 	
+word	successful	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	personal	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	professional	JJ
+gap	 	
+word	life	NN
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	getting	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	job	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	simply	RB
+gap	 	
+word	traveling	PGAS
+gap	 	
+word	abroad	RB PLACE
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	learning	PRIV PRESP THATD PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	foreign	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	easy	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	seems	VPRT SMP
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	involved	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	process	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	related	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	’ 	
+word	behavior	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	teachers	NN
+gap	’ 	
+word	techniques	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	possibilities	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	good	JJ
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	both	DET
+gap	 	
+word	sides	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	occur	INF
+gap	.\n	
+word	First	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	motivation	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	know	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	purpose	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	lives	NN
+gap	, 	
+word	consequently	RB CONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	get	VPRT
+gap	 	
+word	engaged	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	gets	VPRT
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	occur	INF
+gap	. 	
+word	Otherwise	RB CONJ CAP
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	learning	PRIV THATD PGAS
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	even	RB
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	brain	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	interfere	INF
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	barrier	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	block	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	process	NN
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	dedicate	INF
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	study	INF
+gap	 	
+word	alone	JJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	subjects	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	continue	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	job	NN
+gap	 	
+word	started	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	classroom	NN
+gap	, 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	teacher	NN
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	facilitates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	occur	INF
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	practice	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	key	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	skills	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	language	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consequence	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	stimulate	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	brain	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	get	INF
+gap	 	
+word	acquainted	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	learned	VBD PRIV
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	teachers	NN
+gap	 	
+word	also	RB
+gap	 	
+word	have	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	learning	PRIV NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	studies	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	theories	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	students	NN
+gap	 	
+word	learn	VPRT PRIV
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	foreign	JJ
+gap	 	
+word	language	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	currently	RB
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	Task	CAP NNP
+gap	-	
+word	Based	CAP
+gap	 	
+word	Language	CAP NNP
+gap	 	
+word	Teaching	CAP NNP
+gap	 (	
+word	TBLT	CAP NNP
+gap	), 	
+word	that	DEMP WH
+gap	 	
+word	introduces	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contextualized	JJ
+gap	 	
+word	tasks	NN
+gap	. 	
+word	Lessons	NN CAP
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	tasks	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	meaningful	JJ
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	consequently	RB CONJ
+gap	, 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	productive	JJ
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	activities	NN
+gap	 	
+word	require	VPRT SUAV
+gap	 	
+word	learners	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	language	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	attain	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	objective	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	present	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	real	JJ
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	language	NN
+gap	, 	
+word	providing	PRESP PGAS
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	natural	JJ
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	. \n	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	relationship	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	teachers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	students	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	classroom	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	positive	JJ
+gap	 	
+word	impact	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	classes	NN
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	interesting	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	teachers	NN
+gap	 	
+word	know	VPRT PRIV
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	students	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	enjoy	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	classes	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	teachers	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	profile	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	classroom	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	focus	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	topics	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	interests	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	teacher	NN
+gap	 	
+word	knows	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	profile	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	classroom	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	contributes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	material	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	modes	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	explored	
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	some	QUAN DET
+gap	 	
+word	students	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	visual	JJ
+gap	 	
+word	learners	NN
+gap	, 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	others	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	auditory	JJ PRED
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	better	JJ PRED CMADJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	teacher	NN
+gap	 	
+word	explores	VPRT
+gap	 	
+word	different	JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	stimulus	NN
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	classes	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	important	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	both	DET
+gap	 	
+word	student	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	teacher	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	engaged	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	commonly	RB
+gap	 	
+word	given	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	student	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	responsibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	successful	JJ PRED
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	teacher	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	also	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	important	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	process	NN
+gap	. 	
+word	Better	RB CAP CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	relationship	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	sides	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	effective	JJ
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	foreign	JJ
+gap	 	
+word	language	NN
+gap	.	

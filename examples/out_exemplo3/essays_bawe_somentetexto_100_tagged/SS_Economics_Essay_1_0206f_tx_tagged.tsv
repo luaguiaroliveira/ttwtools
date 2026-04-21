@@ -1,866 +1,1590 @@
 # filename: SS_Economics_Essay_1_0206f_tx.txt
-token	tags
-A	ART CAP DET INDA
-change	NN
-in	PIN CONJ PREP
-oil	NN
-price	NN
-is	VPRT AUXB
-what	WH
-economists	NN
-would	PRMD SPAU
-usually	RB
-refer	INF
-to	PIN PREP
-as	PIN CONJ PREP
-a	ART DET INDA
-supply	NN
-shock	NN
-,	
-that	DEMP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-shift	NN
-in	PIN CONJ PREP
-the	ART DET
-aggregate	JJ
-supply	NN
-(	
-AS	CONJ CAP NNP
-)	
-,	
-hence	RB CONJ
-leading	PGAS
-to	PIN PREP
-a	ART DET INDA
-change	NN
-in	PIN CONJ PREP
-employment	NOMZ
-level	NN
-.	
-Before	PIN CAP PREP
-that	DEMP DET
-,	
-the	ART DET
-price	NN
-setting	WZPRES PGAS
-relation	NOMZ
-of	PIN PREP
-wages	NN
-and	CCONJ
-other	JJ
-factors	NN
-of	PIN PREP
-production	NOMZ
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-studied	
-carefully	RB
-.	
-The	ART CAP DET
-general	JJ
-price	NN
-level	NN
-of	PIN PREP
-goods	NN
-and	PHC CCONJ
-services	NN
-in	PIN CONJ PREP
-the	ART DET
-economy	NN
-is	PASS VPRT AUXB
-determined	PRIV SUAV
-as	PIN CONJ PREP
-a	ART DET INDA
-function	NOMZ
-of	PIN PREP
-the	ART DET
-sum	NN
-of	PIN PREP
-factor	NN
-payments	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-wages	NN
-,	
-rent	NN
-etc	X
-.	
-Since	OSUB PIN CAP SCONJ PREP
-this	DEMO DET
-essay	NN
-is	BEMA VPRT AUXB
-concerned	JJ PRED
-about	PIN PREP
-the	ART DET
-effects	NN
-on	PIN PREP
-employment	NOMZ
-due	PIN PREP
-to	PIN PREP
-a	ART DET INDA
-rise	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-,	
-it	PIT PRP SBJP
-shall	PRMD
-be	PASS AUXB INF
-assumed	PRIV
-that	PIN THVC SCONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-economy	NN
-only	DWNT RB
-labour	NN
-and	PHC CCONJ
-oil	NN
-are	BEMA VPRT AUXB
-the	ART DET
-factors	NN
-of	PIN PREP
-production	NOMZ
-.	
-Factor	NN CAP
-payments	NOMZ
-for	PIN PREP
-labour	NN
-are	PASS VPRT AUXB
-called	
-wages	NN
-and	PHC CCONJ
-oil	NN
-,	
-rent	NN
-(	
-since	OSUB PIN SCONJ PREP
-oil	NN
-is	BEMA VPRT AUXB
-basically	RB
-a	ART DET INDA
-product	NN
-of	PIN PREP
-land	NN
-)	
-.	
-It	PIT CAP PRP SBJP
-shall	PRMD SPAU
-also	RB
-be	PASS AUXB INF
-assumed	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-economy	NN
-is	VPRT AUXB
-not	XX0 RB
-perfectly	AMP RB
-competitive	JJ
-;	
-hence	RB CONJ
-there	EX
-will	PRMD
-be	BEMA AUXB INF
-a	ART DET INDA
-chance	NN
-to	PIN TO PREP
-make	INF
-supernormal	JJ
-profits	NN
-.	
-Hence	RB CONJ CAP
-the	ART DET
-general	JJ
-price	NN
-level	NN
-is	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-Where	RB CAP SCONJ WH
-a	ART DET INDA
-unit	NN
-of	PIN PREP
-labour	NN
-is	PASS VPRT AUXB
-paid	
-W	CAP NNP
-and	CCONJ
-a	ART DET INDA
-unit	NN
-of	PIN PREP
-oil	NN
-paid	VBD
-R.	CAP NNP
-a	ART DET INDA
-and	CCONJ
-b	X
-are	BEMA VPRT AUXB
-how	RB SCONJ WH
-many	QUAN JJ
-units	NN
-of	PIN PREP
-labour	NN
-and	PHC CCONJ
-oil	NN
-used	WZPAST
-to	PIN TO PREP
-produce	INF
-a	ART DET INDA
-unit	NN
-of	PIN PREP
-output	NN
-and	CCONJ
-M	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-profit	NN
-obtained	WZPAST
-per	PIN PREP
-unit	NN
-of	PIN PREP
-output	NN
-,	
-otherwise	RB CONJ
-known	PRIV
-as	PIN CONJ PREP
-the	ART DET
-markup	NN
-.	
-Rearranging	GER PRESP CAP PGAS
-the	ART DET
-variable	NN
-in	PIN CONJ PREP
-the	ART DET
-equation	NOMZ
-to	PIN TO PREP
-form	INF
-what	WH
-is	PASS VPRT AUXB
-known	PRIV
-as	PIN CONJ PREP
-the	ART DET
-price	NN
-setting	WZPRES PGAS
-relation	NOMZ
-,	
-the	ART DET
-real	JJ
-wage	NN
-is	BEMA VPRT AUXB
-The	ART CAP DET
-equilibrium	NN
-real	JJ
-wage	NN
-and	PHC CCONJ
-unemployment	NOMZ
-rate	NN
-are	BEMA VPRT AUXB
-determined	JJ PRIV SUAV PRED
-when	RB WHCL SCONJ WH
-the	ART DET
-price	NN
-setting	NN
-and	PHC CCONJ
-wage	NN
-setting	WZPRES PGAS
-curves	NN
-are	PASS VPRT AUXB
-put	
-together	RB
-.	
-The	ART CAP DET
-wage	NN
-setting	NN
-curve	NN
-slopes	NN
-downwards	RB
-since	OSUB PIN SCONJ PREP
-a	ART DET INDA
-reduction	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-real	JJ
-wages	NN
-will	PRMD
-lead	INF
-to	PIN PREP
-more	JJ EMPH CMADJ
-people	NN
-being	BEMA WZPRES AUXB
-willing	JJ PRED
-to	PIN TO PREP
-forgo	INF
-working	PGAS
-(	
-in	PIN CONJ PREP
-return	NN
-for	PIN PREP
-consumption	NOMZ
-)	
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-incentive	NN
-for	PIN PREP
-people	NN
-to	PIN TO PREP
-work	INF
-,	
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-substitution	NOMZ
-effect	NN
-.	
-Looking	CAP PGAS
-at	PIN PREP
-the	ART DET
-real	JJ
-wage	NN
-equation	NOMZ
-(	
-price	NN
-setting	WZPRES PGAS
-relation	NOMZ
-)	
-,	
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-the	ART DET
-price	NN
-of	PIN PREP
-oil	NN
-will	PRMD
-cause	INF
-real	JJ
-wages	NN
-to	PIN TO PREP
-fall	INF
-,	
-and	ANDC CCONJ
-this	DEMP DET
-will	PRMD
-be	PASS BYPA AUXB INF
-demonstrated	PRIV
-by	PIN PREP
-a	ART DET INDA
-downward	JJ
-shift	NN
-of	PIN PREP
-the	ART DET
-price	NN
-setting	NN
-curve	NN
-.	
-At	PIN CAP PREP
-the	ART DET
-new	JJ
-equilibrium	NN
-,	
-real	JJ
-wages	NN
-are	BEMA VPRT AUXB
-lower	JJ PRED CMADJ
-and	CCONJ
-the	ART DET
-unemployment	NOMZ
-rate	NN
-is	BEMA VPRT AUXB
-higher	JJ PRED CMADJ
-(	
-Unemployment	NOMZ CAP
-has	VPRT PEAS
-increased	
-to	PIN PREP
-U2	NN CAP
-)	
-.	
-The	ART CAP DET
-increase	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-can	POMD
-be	PASS AUXB INF
-demonstrated	PRIV
-in	PIN CONJ PREP
-the	ART DET
-aggregate	JJ
-supply	NN
-and	PHC CCONJ
-demand	SUAV NN
-model	NN
-also	RB
-to	PIN TO PREP
-show	PRIV INF
-the	ART DET
-effects	NN
-on	PIN PREP
-unemployment	NOMZ
-.	
-An	ART CAP DET INDA
-increase	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-will	PRMD
-cause	INF
-the	ART DET
-AS	CONJ CAP NNP
-curve	NN
-to	PIN TO PREP
-shift	INF
-to	PIN PREP
-the	ART DET
-left	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-because	CAUS PIN SCONJ PREP
-to	PIN TO PREP
-produce	INF
-a	ART DET INDA
-particular	JJ CONJ
-amount	NN
-of	PIN PREP
-output	NN
-now	RB TIME
-,	
-it	PIT PRP SBJP
-costs	VPRT
-more	JJ EMPH CMADJ
-than	PIN PREP
-before	PIN PREP
-to	PIN TO PREP
-do	PROD INF
-so	RB
-.	
-As	PIN CONJ CAP PREP
-observed	PRIV
-from	PIN PREP
-the	ART DET
-diagram	NN
-,	
-the	ART DET
-general	JJ
-price	NN
-level	NN
-has	VPRT PEAS
-increased	
-and	CCONJ
-output	NN
-has	VPRT PEAS
-gone	
-down	RB
-.	
-This	DEMO CAP DET
-reduction	NOMZ
-in	PIN CONJ PREP
-output	NN
-would	PRMD
-cause	INF
-fewer	JJ CMADJ
-resources	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-employed	
--	
-workers	NN
-laid	VBD
-off	PIN PREP
-or	CCONJ
-less	JJ CMADJ
-oil	NN
-used	
-or	CCONJ
-both	DET
-,	
-depending	PGAS
-on	PIN PREP
-the	ART DET
-marginal	JJ
-rate	NN
-of	PIN PREP
-technical	JJ
-substitution	NOMZ
-of	PIN PREP
-both	DET
-resources	NN
-.	
-But	CAP CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-quite	RB
-obvious	JJ
-that	PIN THAC SCONJ PREP
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-would	PRMD
-lead	INF
-to	PIN PREP
-a	ART DET INDA
-reduction	NOMZ
-of	PIN PREP
-both	DET
-resources	NN
-since	OSUB PIN SCONJ PREP
-labour	NN
-and	PHC CCONJ
-oil	NN
-(	
-land	NN
-)	
-are	VPRT AUXB
-complements	NOMZ
-to	PIN PREP
-each	QUAN DET
-other	JJ
-.	
-Hence	RB CONJ CAP
-unemployment	NOMZ
-would	PRMD
-follow	INF
-.	
-An	ART CAP DET INDA
-increase	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-may	POMD SPAU
-also	RB
-affect	INF
-the	ART DET
-aggregate	JJ
-demand	SUAV NN
-curve	NN
-and	CCONJ
-not	XX0 RB
-just	RB EMPH
-aggregate	JJ
-supply	NN
-.	
-Oil	NN CAP
-price	NN
-increases	NN
-lead	VPRT
-to	PIN PREP
-the	ART DET
-AD	NN CAP
-curve	NN
-to	PIN TO PREP
-shift	INF
-downwards	NN
-.	
-Rising	CAP PGAS
-oil	NN
-prices	NN
-may	POMD
-cause	INF
-firms	NN
-to	PIN TO PREP
-change	INF
-investment	NOMZ
-decisions	NOMZ
-such	JJ
-as	PIN CONJ PREP
-by	PIN PREP
-postponing	GER PGAS
-or	CCONJ
-canceling	PGAS
-investment	NOMZ
-.	
-Less	JJ CAP CMADJ
-oil	NN
-changing	WZPRES PGAS
-hands	NN
-may	POMD
-mean	PRIV INF
-that	PIN THVC SCONJ PREP
-governments	NOMZ
-collect	VPRT
-less	JJ CMADJ
-oil	NN
-royalties	NN
-or	CCONJ
-oil	NN
-taxes	NN
-and	ANDC CCONJ
-hence	RB CONJ
-affect	INF
-its	PIT PRP SBJP
-ability	NOMZ
-to	PIN TO PREP
-sustain	INF
-public	JJ
-expenditure	NN
-at	PIN PREP
-previous	JJ
-levels	NN
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-may	POMD SPAU
-also	RB
-work	INF
-the	ART DET
-other	JJ
-way	NN
-round	RB
-.	
-Consider	PRIV CAP INF
-an	ART DET INDA
-oil	NN
-producing	WZPRES PGAS
-economy	NN
-.	
-An	ART CAP DET INDA
-increase	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-may	POMD
-allow	SUAV INF
-this	DEMO DET
-oil	NN
-economy	NN
-to	PIN TO PREP
-enjoy	INF
-higher	JJ CMADJ
-profits	NN
-,	
-depending	PGAS
-on	PIN PREP
-the	ART DET
-price	NN
-elasticity	NOMZ
-of	PIN PREP
-demand	SUAV NN
-of	PIN PREP
-oil	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-production	NOMZ
-of	PIN PREP
-oil	NN
-will	PRMD
-be	PASS AUXB INF
-lowered	
-and	CCONJ
-some	QUAN DET
-workers	NN
-employed	WZPAST
-in	PIN CONJ PREP
-this	DEMO DET
-industry	NN
-laid	VBD
-off	PIN STPR PREP
-,	
-profits	NN
-from	PIN PREP
-firms	NN
-accumulated	
-can	POMD
-be	PASS AUXB INF
-injected	
-into	PIN PREP
-the	ART DET
-economy	NN
-when	RB WHOBJ SCONJ WH
-firms	NN
-decide	VPRT PRIV SUAV
-to	PIN TO PREP
-reinvest	INF
-profits	NN
-through	PIN PREP
-other	JJ
-sectors	NN
-causing	WZPRES PGAS
-aggregate	JJ
-demand	SUAV NN
-and	PHC CCONJ
-employment	NOMZ
-to	PIN TO PREP
-increase	INF
-.	
-Or	CAP CCONJ
-consider	PRIV INF
-an	ART DET INDA
-economy	NN
-which	WHSUB DET WH
-produces	VPRT
-a	ART DET INDA
-competing	PGAS
-fuel	NN
-such	JJ
-as	PIN CONJ PREP
-coal	NN
-or	CCONJ
-uranium	NN
-.	
-Rising	CAP PGAS
-oil	NN
-prices	NN
-in	PIN CONJ PREP
-the	ART DET
-long	JJ
-run	NN
-may	POMD
-cause	INF
-countries	NN
-to	PIN TO PREP
-consider	PRIV INF
-these	DEMO DET
-forms	NN
-of	PIN PREP
-fuel	NN
-and	CCONJ
-substitute	INF
-them	TPP3 PRP SBJP ACCU
-in	PIN CONJ PREP
-place	NN
-of	PIN PREP
-oil	NN
-.	
-A	ART CAP DET INDA
-reduction	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-oil	NN
-will	PRMD
-cause	INF
-the	ART DET
-economy	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-less	RB CMADJ
-reactive	JJ
-and	PHC CCONJ
-elastic	JJ
-to	PIN PREP
-the	ART DET
-change	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-the	ART DET
-long	JJ
-run	NN
-and	ANDC CCONJ
-so	RB
-there	EX
-would	PRMD
-be	BEMA AUXB INF
-little	JJ
-effect	NN
-on	PIN PREP
-unemployment	NOMZ
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-whole	NN
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-seen	PRIV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-usually	RB
-likely	JJ
-that	PIN THAC SCONJ PREP
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-oil	NN
-prices	NN
-will	PRMD
-lead	INF
-to	PIN PREP
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-the	ART DET
-level	NN
-of	PIN PREP
-unemployment	NOMZ
-and	ANDC CCONJ
-though	CONC PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-that	PIN THAC SCONJ PREP
-the	ART DET
-employment	NOMZ
-level	NN
-may	POMD SPAU
-actually	RB
-rise	INF
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-unlikely	JJ
-and	CCONJ
-would	PRMD SPAU
-usually	RB
-occur	INF
-in	PIN CONJ PREP
-oil	NN
-exporting	WZPRES PGAS
-countries	NN
-,	
-which	SERE DET WH
-most	JJ EMPH SPADJ
-countries	NN
-are	VPRT AUXB
-n't	XX0 CONT RB
-anyway	RB
-.	
-However	RB CONJ CAP
-in	PIN CONJ PREP
-the	ART DET
-long	JJ
-run	NN
-,	
-as	PIN CONJ PREP
-economies	NN
-start	VPRT
-replacing	PGAS
-oil	NN
-with	PIN PREP
-other	JJ
-forms	NN
-of	PIN PREP
-fuel	NN
-,	
-the	ART DET
-effects	NN
-on	PIN PREP
-unemployment	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-natural	JJ
-rate	NN
-of	PIN PREP
-unemployment	NOMZ
-in	PIN CONJ PREP
-particular	JJ CONJ
-would	PRMD
-be	BEMA AUXB INF
-minimal	JJ PRED
-.	
+type	content	tags
+word	A	ART CAP DET INDA
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	price	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	what	WH
+gap	 	
+word	economists	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	usually	RB
+gap	 	
+word	refer	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	supply	NN
+gap	 	
+word	shock	NN
+gap	, 	
+word	that	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	shift	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	aggregate	JJ
+gap	 	
+word	supply	NN
+gap	 (	
+word	AS	CONJ CAP NNP
+gap	), 	
+word	hence	RB CONJ
+gap	 	
+word	leading	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	employment	NOMZ
+gap	 	
+word	level	NN
+gap	. 	
+word	Before	PIN CAP PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	setting	WZPRES PGAS
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	wages	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	production	NOMZ
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	studied	
+gap	 	
+word	carefully	RB
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	general	JJ
+gap	 	
+word	price	NN
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	goods	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	services	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	determined	PRIV SUAV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	function	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sum	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	factor	NN
+gap	 	
+word	payments	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	wages	NN
+gap	, 	
+word	rent	NN
+gap	 	
+word	etc	X
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	concerned	JJ PRED
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	effects	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	employment	NOMZ
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rise	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	shall	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	assumed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	labour	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	oil	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	factors	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	production	NOMZ
+gap	. 	
+word	Factor	NN CAP
+gap	 	
+word	payments	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	labour	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	called	
+gap	 	
+word	wages	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	oil	NN
+gap	, 	
+word	rent	NN
+gap	 (	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	basically	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	land	NN
+gap	). 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	shall	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	assumed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	perfectly	AMP RB
+gap	 	
+word	competitive	JJ
+gap	; 	
+word	hence	RB CONJ
+gap	 	
+word	there	EX
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	chance	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	supernormal	JJ
+gap	 	
+word	profits	NN
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	general	JJ
+gap	 	
+word	price	NN
+gap	 	
+word	level	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	defined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Where	RB CAP SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	unit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	labour	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	paid	
+gap	 	
+word	W	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	unit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	paid	VBD
+gap	 	
+word	R	CAP NNP
+gap	. 	
+word	a	ART DET INDA
+gap	 	
+word	and	CCONJ
+gap	 	
+word	b	X
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	units	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	labour	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	oil	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	unit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	output	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	M	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	profit	NN
+gap	 	
+word	obtained	WZPAST
+gap	 	
+word	per	PIN PREP
+gap	 	
+word	unit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	output	NN
+gap	, 	
+word	otherwise	RB CONJ
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	markup	NN
+gap	. 	
+word	Rearranging	GER PRESP CAP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	variable	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	equation	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	form	INF
+gap	 	
+word	what	WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	setting	WZPRES PGAS
+gap	 	
+word	relation	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	wage	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	The	ART CAP DET
+gap	 	
+word	equilibrium	NN
+gap	 	
+word	real	JJ
+gap	 	
+word	wage	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	unemployment	NOMZ
+gap	 	
+word	rate	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	determined	JJ PRIV SUAV PRED
+gap	 	
+word	when	RB WHCL SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	setting	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	wage	NN
+gap	 	
+word	setting	WZPRES PGAS
+gap	 	
+word	curves	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	put	
+gap	 	
+word	together	RB
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	wage	NN
+gap	 	
+word	setting	NN
+gap	 	
+word	curve	NN
+gap	 	
+word	slopes	NN
+gap	 	
+word	downwards	RB
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	wages	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	people	NN
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	willing	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	forgo	INF
+gap	 	
+word	working	PGAS
+gap	 (	
+word	in	PIN CONJ PREP
+gap	 	
+word	return	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	consumption	NOMZ
+gap	), 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	incentive	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	, 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	substitution	NOMZ
+gap	 	
+word	effect	NN
+gap	. 	
+word	Looking	CAP PGAS
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	wage	NN
+gap	 	
+word	equation	NOMZ
+gap	 (	
+word	price	NN
+gap	 	
+word	setting	WZPRES PGAS
+gap	 	
+word	relation	NOMZ
+gap	), 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	real	JJ
+gap	 	
+word	wages	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	fall	INF
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	demonstrated	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	downward	JJ
+gap	 	
+word	shift	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	setting	NN
+gap	 	
+word	curve	NN
+gap	. 	
+word	At	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	equilibrium	NN
+gap	, 	
+word	real	JJ
+gap	 	
+word	wages	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	lower	JJ PRED CMADJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	unemployment	NOMZ
+gap	 	
+word	rate	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	higher	JJ PRED CMADJ
+gap	 (	
+word	Unemployment	NOMZ CAP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	increased	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	U	NN CAP
+gap	2). 	
+word	The	ART CAP DET
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	demonstrated	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	aggregate	JJ
+gap	 	
+word	supply	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	model	NN
+gap	 	
+word	also	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	show	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	effects	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	unemployment	NOMZ
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	AS	CONJ CAP NNP
+gap	 	
+word	curve	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	shift	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	left	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	output	NN
+gap	 	
+word	now	RB TIME
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	costs	VPRT
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	so	RB
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	observed	PRIV
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	diagram	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	general	JJ
+gap	 	
+word	price	NN
+gap	 	
+word	level	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	increased	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	output	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	gone	
+gap	 	
+word	down	RB
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	output	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	fewer	JJ CMADJ
+gap	 	
+word	resources	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	employed	
+gap	 - 	
+word	workers	NN
+gap	 	
+word	laid	VBD
+gap	 	
+word	off	PIN PREP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	oil	NN
+gap	 	
+word	used	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	both	DET
+gap	, 	
+word	depending	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	marginal	JJ
+gap	 	
+word	rate	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technical	JJ
+gap	 	
+word	substitution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	resources	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	quite	RB
+gap	 	
+word	obvious	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	resources	NN
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	labour	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	oil	NN
+gap	 (	
+word	land	NN
+gap	) 	
+word	are	VPRT AUXB
+gap	 	
+word	complements	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	 	
+word	unemployment	NOMZ
+gap	 	
+word	would	PRMD
+gap	 	
+word	follow	INF
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	affect	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	aggregate	JJ
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	curve	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	aggregate	JJ
+gap	 	
+word	supply	NN
+gap	. 	
+word	Oil	NN CAP
+gap	 	
+word	price	NN
+gap	 	
+word	increases	NN
+gap	 	
+word	lead	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	AD	NN CAP
+gap	 	
+word	curve	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	shift	INF
+gap	 	
+word	downwards	NN
+gap	. 	
+word	Rising	CAP PGAS
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	firms	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	change	INF
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	postponing	GER PGAS
+gap	 	
+word	or	CCONJ
+gap	 	
+word	canceling	PGAS
+gap	 	
+word	investment	NOMZ
+gap	. 	
+word	Less	JJ CAP CMADJ
+gap	 	
+word	oil	NN
+gap	 	
+word	changing	WZPRES PGAS
+gap	 	
+word	hands	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	mean	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	governments	NOMZ
+gap	 	
+word	collect	VPRT
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	oil	NN
+gap	 	
+word	royalties	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	oil	NN
+gap	 	
+word	taxes	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	hence	RB CONJ
+gap	 	
+word	affect	INF
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	sustain	INF
+gap	 	
+word	public	JJ
+gap	 	
+word	expenditure	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	previous	JJ
+gap	 	
+word	levels	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	work	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	round	RB
+gap	. 	
+word	Consider	PRIV CAP INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	oil	NN
+gap	 	
+word	producing	WZPRES PGAS
+gap	 	
+word	economy	NN
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	oil	NN
+gap	 	
+word	economy	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	enjoy	INF
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	profits	NN
+gap	, 	
+word	depending	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	elasticity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oil	NN
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	production	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	lowered	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	workers	NN
+gap	 	
+word	employed	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	industry	NN
+gap	 	
+word	laid	VBD
+gap	 	
+word	off	PIN STPR PREP
+gap	, 	
+word	profits	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	firms	NN
+gap	 	
+word	accumulated	
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	injected	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	firms	NN
+gap	 	
+word	decide	VPRT PRIV SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reinvest	INF
+gap	 	
+word	profits	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	sectors	NN
+gap	 	
+word	causing	WZPRES PGAS
+gap	 	
+word	aggregate	JJ
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	employment	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	increase	INF
+gap	. 	
+word	Or	CAP CCONJ
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	economy	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	produces	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	competing	PGAS
+gap	 	
+word	fuel	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	coal	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	uranium	NN
+gap	. 	
+word	Rising	CAP PGAS
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	 	
+word	run	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	countries	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	forms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fuel	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	substitute	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	place	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oil	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	reactive	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	elastic	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	 	
+word	run	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	there	EX
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	little	JJ
+gap	 	
+word	effect	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	unemployment	NOMZ
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	usually	RB
+gap	 	
+word	likely	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	unemployment	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	employment	NOMZ
+gap	 	
+word	level	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	actually	RB
+gap	 	
+word	rise	INF
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	unlikely	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	usually	RB
+gap	 	
+word	occur	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	exporting	WZPRES PGAS
+gap	 	
+word	countries	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	countries	NN
+gap	 	
+word	aren	
+gap	'	
+word	t	
+gap	 	
+word	anyway	RB
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	 	
+word	run	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	economies	NN
+gap	 	
+word	start	VPRT
+gap	 	
+word	replacing	PGAS
+gap	 	
+word	oil	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	forms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fuel	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	effects	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	unemployment	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	natural	JJ
+gap	 	
+word	rate	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	unemployment	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	minimal	JJ PRED
+gap	.	

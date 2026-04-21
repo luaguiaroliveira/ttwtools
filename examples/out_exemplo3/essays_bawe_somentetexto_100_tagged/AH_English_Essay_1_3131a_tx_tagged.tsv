@@ -1,652 +1,1092 @@
 # filename: AH_English_Essay_1_3131a_tx.txt
-token	tags
-A	ART CAP DET INDA
-simplified	JJ
-initial	JJ
-view	NN
-of	PIN PREP
-Anne	CAP NNP
-Bradshaw	CAP NNP
-'s	
-poem	NN
-'	CONT QUOT
-The	ART CAP DET
-Author	CAP NNP
-to	PIN PREP
-Her	TPP3 CAP PRP SBJP
-Book	CAP NNP
-'	CONT QUOT
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-she	TPP3 PRP SBJP
-has	VPRT
-a	ART DET INDA
-negative	JJ
-view	NN
-on	PIN PREP
-her	TPP3 PRP SBJP
-poetry	NN
-.	
-Within	PIN CAP PREP
-the	ART DET
-first	JJ
-few	QUAN JJ
-lines	NN
-of	PIN PREP
-verse	NN
-,	
-she	TPP3 PRP SBJP
-uses	VPRT
-negative	JJ
-words	NN
-and	PHC CCONJ
-phrases	NN
-;	
-"	QUOT
-ill	RB
--	
-formed	
-"	QUOT
-,	
-"	QUOT
-feeble"(1	NNP
-)	
-,	
-"	QUOT
-snatched"(3	NNP
-)	
-and	ANDC CCONJ
-"	QUOT
-exposed"(4	NNP
-)	
-,	
-all	QUAN DET
-of	PIN PREP
-which	PIRE DET WH
-primarily	RB
-produce	VPRT
-pessimistic	JJ
-connotations	NOMZ
-.	
-They	TPP3 CAP PRP SBJP
-could	POMD SPAU
-also	RB
-be	PASS AUXB INF
-considered	PRIV
-litotes	NN
-;	
-the	ART DET
-word	NN
-"	QUOT
-feeble	JJ
-"	QUOT
-especially	RB
-.	
-Bradshaw	CAP NNP
-goes	VPRT
-on	PIN PREP
-to	PIN TO PREP
-describe	INF
-how	RB SCONJ WH
-editing	PGAS
-her	TPP3 PRP SBJP
-writing	PUBV NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-difficult	JJ
-process	NN
-,	
-"	QUOT
-I	FPP1 CAP PRP SBJP
-cast	VBD
-thee	SPP2 PRP SBJP
-by	PIN PREP
-as	PIN CONJ PREP
-one	NUM
-unfit	JJ
-for	PIN PREP
-light	NN
-"	QUOT
-.	
-This	DEMO CAP DET
-statement	NOMZ
-could	POMD
-be	PASS AUXB INF
-considered	PRIV
-a	ART DET INDA
-continuation	NOMZ
-of	PIN PREP
-the	ART DET
-negative	JJ
-language	NN
-felt	VBD PRIV
-earlier	RB TIME CMADJ
-.	
-To	PIN CAP PREP
-me	FPP1 PRP SBJP ACCU
-however	RB CONJ
-,	
-she	TPP3 PRP SBJP
-shows	VPRT PRIV
-herself	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-highly	AMP RB
-competent	JJ
-poet	NN
-,	
-who	WHQU WH
-is	BEMA VPRT AUXB
-prepared	JJ PRED
-to	PIN TO PREP
-scrutinise	INF
-her	TPP3 PRP SBJP
-own	JJ
-work	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-best	JJ SPADJ
-possible	JJ
-result	NN
-.	
-Indeed	RB CAP
-one	PRP SBJP
-could	POMD
-argue	PUBV INF
-that	PIN THVC SCONJ PREP
-from	PIN PREP
-the	ART DET
-moment	NOMZ
-the	ART DET
-poem	NN
-begins	VPRT
-,	
-she	TPP3 PRP SBJP
-personifies	VPRT
-her	TPP3 PRP SBJP ACCU
-written	PUBV
-work	NN
-,	
-likening	PRESP PGAS
-it	PIT PRP SBJP
-to	PIN PREP
-the	ART DET
-birth	NN
-of	PIN PREP
-a	ART DET INDA
-child	NN
-,	
-"	QUOT
-Thou	SPP2 CAP NNP
-ill	RB
-formed	VBD
-off	PIN STPR PREP
--	
-spring	NN
-from	PIN PREP
-my	FPP1 PRP SBJP
-brain	NN
-"	QUOT
-.	
-Offspring	NN CAP
-is	BEMA VPRT AUXB
-usually	RB
-a	ART DET INDA
-word	NN
-to	PIN TO PREP
-describe	INF
-something	QUPR INPR
-that	DEMP WH
-is	BEMA VPRT AUXB
-positive	JJ PRED
-and	PHC CCONJ
-special	JJ PRED
-,	
-something	QUPR INPR
-to	PIN TO PREP
-be	PASS AUXB INF
-celebrated	
-.	
-One	CAP PRP SBJP
-could	POMD
-infer	PRIV INF
-therefore	RB CONJ
-that	PIN DEMO SCONJ PREP
-Bradshaw	CAP NNP
-draws	VPRT
-attention	NOMZ
-to	PIN PREP
-the	ART DET
-weaknesses	NOMZ
-of	PIN PREP
-her	TPP3 PRP SBJP
-work	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-highlight	INF
-its	PIT PRP SBJP
-main	JJ
-strengths	NN
-.	
-Her	TPP3 CAP PRP SBJP
-modesty	NN
-allows	VPRT SUAV
-the	ART DET
-reader	NN
-to	PIN TO PREP
-engage	INF
-with	PIN PREP
-the	ART DET
-text	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-natural	JJ
-and	PHC CCONJ
-sympathetic	JJ
-fashion	NN
-.	
-I	FPP1 CAP PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-feel	PRIV INF
-for	PIN PREP
-example	NN
-,	
-that	PIN THVC SCONJ PREP
-the	ART DET
-poem	NN
-would	PRMD
-have	PEAS INF
-been	BEMA AUXB
-as	RB CONJ
-effective	JJ
-had	VBD
-she	TPP3 PRP SBJP
-initially	RB TIME
-applauded	VBD
-her	TPP3 PRP SBJP
-work	NN
-.	
-Bradshaw	CAP NNP
-continues	VPRT
-to	PIN TO PREP
-use	INF
-negative	JJ
-imagery	NN
-throughout	PIN PREP
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-A	ART CAP DET INDA
-hyperbole	NN
-in	PIN CONJ PREP
-line	NN
-10	NUM
-exemplifies	NN
-this	DEMP DET
-,	
-"	QUOT
-Thy	SPP2 CAP PRP SBJP
-visage	NN
-was	BEMA VBD AUXB
-so	RB EMPH
-irksome	JJ
-in	PIN CONJ PREP
-my	FPP1 PRP SBJP
-sight	NN
-"	QUOT
-,	
-drawing	PGAS
-further	JJ
-sympathy	NN
-from	PIN PREP
-the	ART DET
-reader	NN
-.	
-One	CAP NUM
-might	POMD SPAU
-also	RB
-see	PRIV INF
-a	ART DET INDA
-socially	RB
-contextual	JJ
-allegory	NN
-in	PIN CONJ PREP
-this	DEMO DET
-image	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-as	PIN CONJ PREP
-her	TPP3 PRP SBJP
-'	CONT QUOT
-child	NN
-'	CONT QUOT
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-female	JJ
-writer	NN
-in	PIN CONJ PREP
-the	ART DET
-17	NUM
-th	NNP
-Century	CAP NNP
-,	
-Bradshaw	CAP NNP
-'s	
-literature	NN
-may	POMD SPAU
-not	XX0 RB
-have	PEAS INF
-seemed	SMP
-as	RB CONJ
-widely	RB
-accepted	PRIV
-as	PIN CONJ PREP
-that	DEMO DET
-of	PIN PREP
-her	TPP3 PRP SBJP
-male	JJ
-counterparts	NN
-.	
-The	ART CAP DET
-image	NN
-of	PIN PREP
-her	TPP3 PRP SBJP ACCU
-'	CONT QUOT
-giving	PGAS
-birth	NN
-'	CONT QUOT
-to	PIN PREP
-this	DEMO DET
-writing	PUBV NN
-celebrates	VPRT
-motherhood	NN
-and	CCONJ
-outlines	VPRT
-the	ART DET
-importance	NN
-of	PIN PREP
-female	JJ
-contribution	NOMZ
-to	PIN PREP
-literature	NN
-at	PIN PREP
-the	ART DET
-time	NN
-.	
-Her	TPP3 CAP PRP SBJP
-choice	NN
-of	PIN PREP
-masculine	NN
-rhyme	NN
-is	BEMA VPRT AUXB
-probably	RB
-to	PIN TO PREP
-make	INF
-her	TPP3 PRP SBJP
-poem	NN
-sound	NN
-manlier	JJ CMADJ
-,	
-and	ANDC CCONJ
-enable	INF
-her	TPP3 PRP SBJP
-work	NN
-to	PIN TO PREP
-be	PASS SPAU AUXB INF
-more	RB EMPH CMADJ
-accepted	PRIV
-amongst	PIN PREP
-both	DET
-genders	NN
-.	
-The	ART CAP DET
-poem	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-24	NUM
--	
-line	NN
-verse	NN
-,	
-formed	PASTP
-in	PIN CONJ PREP
-regular	JJ
-iambic	JJ
-pentameter	NN
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-rhyming	PGAS
-couplets	NN
-adds	VPRT PUBV
-a	ART DET INDA
-light	JJ
-tone	NN
-,	
-making	PGAS
-poem	NNP
-easy	JJ
-to	PIN TO PREP
-read	INF
-.	
-The	ART CAP DET
-'	CONT QUOT
-fun	NN
-'	CONT QUOT
-rhyme	NN
-of	PIN PREP
-the	ART DET
-poem	NNP
-further	RB
-supports	VPRT
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-Bradshaw	CAP NNP
-is	BEMA VPRT AUXB
-in	PIN CONJ STPR PREP
--	
-fact	NN
-celebrative	NN
-of	PIN PREP
-her	TPP3 PRP SBJP
-work	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-however	RB CONJ
-,	
-a	ART DET INDA
-few	QUAN JJ
-anomalies	NN
-;	
-in	PIN CONJ PREP
-lines	NN
-19	NUM
--	
-22	NUM
-,	
-Bradshaw	CAP NNP
-does	VPRT SPAU
-not	XX0 RB
-use	INF
-the	ART DET
-expected	PRIV
-rhyme	NN
-scheme	NN
-of	PIN PREP
-J	CAP NNP
-,	
-J	CAP NNP
-,	
-K	CAP NNP
-,	
-K.	CAP NNP
-Instead	RB CONJ CAP
-she	TPP3 PRP SBJP
-alternates	VPRT
-between	PIN PREP
-J	CAP NNP
-and	PHC CCONJ
-K	CAP NNP
-and	CCONJ
-uses	VPRT
-half	JJ
--	
-rhyme	NN
-.	
-This	DEMP CAP DET
-would	PRMD SPAU
-perhaps	RB
-strengthen	INF
-the	ART DET
-content	NN
-of	PIN PREP
-these	DEMO DET
-lines	NN
-though	CONC RB
-,	
-as	PIN CONJ PREP
-the	ART DET
-poet	NN
-talks	NN
-of	PIN STPR PREP
-"	QUOT
-roam(ing	PGAS
-)	
-"	QUOT
-and	ANDC CCONJ
-"	QUOT
-find(ing	PGAS
-)	
-"	QUOT
--	
-general	JJ
-feelings	NN
-of	PIN PREP
-disorientation	NOMZ
-.	
-Here	RB CAP
-the	ART DET
-rhyme	NNP
-scheme	NN
-is	VPRT AUXB
-itself	PIT PRP SBJP ACCU
-'	CONT QUOT
-disorientated	
-'	CONT QUOT
-.	
-One	CAP NUM
-sees	VPRT PRIV
-interesting	JJ
-parallels	NN
-with	PIN PREP
-the	ART DET
-work	NN
-of	PIN PREP
-Seamus	CAP NNP
-Heaney	CAP NNP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-poem	NN
-'	CONT QUOT
-Digging	CAP PGAS
-'	CONT QUOT
-.	
-Both	CAP DET
-poets	NN
-take	VPRT
-themselves	TPP3 PRP SBJP ACCU
-and	CCONJ
-the	ART DET
-reader	NN
-on	PIN PREP
-a	ART DET INDA
-journey	NN
-of	PIN PREP
-self	NN
--	
-identification	NOMZ
-,	
-and	ANDC CCONJ
-begin	INF
-to	PIN TO PREP
-question	INF
-their	TPP3 PRP SBJP
-work	NN
-or	CCONJ
-profession	NOMZ
-.	
-Both	CAP DET
-relate	VPRT
-to	PIN PREP
-their	TPP3 PRP SBJP
-families	NN
-,	
-and	ANDC CCONJ
-use	INF
-figurative	JJ
-language	NN
-to	PIN TO PREP
-help	INF
-describe	INF
-their	TPP3 PRP SBJP
-thoughts	NN
-or	CCONJ
-inspirations	NOMZ
-.	
-Heaney	CAP NNP
-'s	
-thoughts	NN
-are	PASS VPRT AUXB
-considered	PRIV
-to	PIN TO PREP
-be	AUXB INF
-'	CONT QUOT
-good	JJ
-turf	NN
-'	CONT QUOT
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-also	RB
-interesting	JJ
-to	PIN TO PREP
-see	PRIV INF
-how	RB WHCL SCONJ WH
-both	DET
-poems	NN
-begin	VPRT
-with	PIN PREP
-a	ART DET INDA
-fairly	RB
-negative	JJ
-tone	NN
-,	
-but	CCONJ
-reach	INF
-the	ART DET
-conclusion	NOMZ
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-proud	JJ PRED
-of	PIN PREP
-their	TPP3 PRP SBJP
-work	NN
-as	PIN CONJ PREP
-poets	NN
-.	
+type	content	tags
+word	A	ART CAP DET INDA
+gap	 	
+word	simplified	JJ
+gap	 	
+word	initial	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Anne	CAP NNP
+gap	 	
+word	Bradshaw	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	poem	NN
+gap	 '	
+word	The	ART CAP DET
+gap	 	
+word	Author	CAP NNP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Her	TPP3 CAP PRP SBJP
+gap	 	
+word	Book	CAP NNP
+gap	' 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	negative	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	poetry	NN
+gap	. 	
+word	Within	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	lines	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	verse	NN
+gap	, 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	uses	VPRT
+gap	 	
+word	negative	JJ
+gap	 	
+word	words	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	phrases	NN
+gap	; "	
+word	ill	RB
+gap	-	
+word	formed	
+gap	", "	
+word	feeble	NNP
+gap	"(1), "	
+word	snatched	NNP
+gap	"(3) 	
+word	and	ANDC CCONJ
+gap	 "	
+word	exposed	NNP
+gap	"(4), 	
+word	all	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	primarily	RB
+gap	 	
+word	produce	VPRT
+gap	 	
+word	pessimistic	JJ
+gap	 	
+word	connotations	NOMZ
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	litotes	NN
+gap	; 	
+word	the	ART DET
+gap	 	
+word	word	NN
+gap	 "	
+word	feeble	JJ
+gap	" 	
+word	especially	RB
+gap	. 	
+word	Bradshaw	CAP NNP
+gap	 	
+word	goes	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	describe	INF
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	editing	PGAS
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	writing	PUBV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	difficult	JJ
+gap	 	
+word	process	NN
+gap	, "	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	cast	VBD
+gap	 	
+word	thee	SPP2 PRP SBJP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	unfit	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	light	NN
+gap	" . 	
+word	This	DEMO CAP DET
+gap	 	
+word	statement	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	continuation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	negative	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	felt	VBD PRIV
+gap	 	
+word	earlier	RB TIME CMADJ
+gap	. 	
+word	To	PIN CAP PREP
+gap	 	
+word	me	FPP1 PRP SBJP ACCU
+gap	 	
+word	however	RB CONJ
+gap	, 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	herself	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	competent	JJ
+gap	 	
+word	poet	NN
+gap	, 	
+word	who	WHQU WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	prepared	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	scrutinise	INF
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	possible	JJ
+gap	 	
+word	result	NN
+gap	. 	
+word	Indeed	RB CAP
+gap	 	
+word	one	PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	argue	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	moment	NOMZ
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	begins	VPRT
+gap	, 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	personifies	VPRT
+gap	 	
+word	her	TPP3 PRP SBJP ACCU
+gap	 	
+word	written	PUBV
+gap	 	
+word	work	NN
+gap	, 	
+word	likening	PRESP PGAS
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	birth	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	child	NN
+gap	, "	
+word	Thou	SPP2 CAP NNP
+gap	 	
+word	ill	RB
+gap	 	
+word	formed	VBD
+gap	 	
+word	off	PIN STPR PREP
+gap	-	
+word	spring	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	brain	NN
+gap	". 	
+word	Offspring	NN CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	usually	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	word	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	describe	INF
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	positive	JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	special	JJ PRED
+gap	, 	
+word	something	QUPR INPR
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	celebrated	
+gap	. 	
+word	One	CAP PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	infer	PRIV INF
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	Bradshaw	CAP NNP
+gap	 	
+word	draws	VPRT
+gap	 	
+word	attention	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	weaknesses	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	highlight	INF
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	main	JJ
+gap	 	
+word	strengths	NN
+gap	. 	
+word	Her	TPP3 CAP PRP SBJP
+gap	 	
+word	modesty	NN
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	engage	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	text	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	natural	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	sympathetic	JJ
+gap	 	
+word	fashion	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	feel	PRIV INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	effective	JJ
+gap	 	
+word	had	VBD
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	initially	RB TIME
+gap	 	
+word	applauded	VBD
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	. 	
+word	Bradshaw	CAP NNP
+gap	 	
+word	continues	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	negative	JJ
+gap	 	
+word	imagery	NN
+gap	 	
+word	throughout	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rest	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	hyperbole	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	line	NN
+gap	 10 	
+word	exemplifies	NN
+gap	 	
+word	this	DEMP DET
+gap	, "	
+word	Thy	SPP2 CAP PRP SBJP
+gap	 	
+word	visage	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	irksome	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	sight	NN
+gap	" , 	
+word	drawing	PGAS
+gap	 	
+word	further	JJ
+gap	 	
+word	sympathy	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	might	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	socially	RB
+gap	 	
+word	contextual	JJ
+gap	 	
+word	allegory	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	image	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 '	
+word	child	NN
+gap	'. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	female	JJ
+gap	 	
+word	writer	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 17 	
+word	th	NNP
+gap	 	
+word	Century	CAP NNP
+gap	, 	
+word	Bradshaw	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	literature	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	seemed	SMP
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	widely	RB
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	male	JJ
+gap	 	
+word	counterparts	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	image	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP ACCU
+gap	 '	
+word	giving	PGAS
+gap	 	
+word	birth	NN
+gap	' 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	writing	PUBV NN
+gap	 	
+word	celebrates	VPRT
+gap	 	
+word	motherhood	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	outlines	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	female	JJ
+gap	 	
+word	contribution	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	literature	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	. 	
+word	Her	TPP3 CAP PRP SBJP
+gap	 	
+word	choice	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	masculine	NN
+gap	 	
+word	rhyme	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	probably	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	poem	NN
+gap	 	
+word	sound	NN
+gap	 	
+word	manlier	JJ CMADJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	enable	INF
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	amongst	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	genders	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	poem	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 24-	
+word	line	NN
+gap	 	
+word	verse	NN
+gap	, 	
+word	formed	PASTP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	regular	JJ
+gap	 	
+word	iambic	JJ
+gap	 	
+word	pentameter	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rhyming	PGAS
+gap	 	
+word	couplets	NN
+gap	 	
+word	adds	VPRT PUBV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	light	JJ
+gap	 	
+word	tone	NN
+gap	, 	
+word	making	PGAS
+gap	 	
+word	poem	NNP
+gap	 	
+word	easy	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	read	INF
+gap	. 	
+word	The	ART CAP DET
+gap	 '	
+word	fun	NN
+gap	' 	
+word	rhyme	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NNP
+gap	 	
+word	further	RB
+gap	 	
+word	supports	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	Bradshaw	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ STPR PREP
+gap	-	
+word	fact	NN
+gap	 	
+word	celebrative	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	however	RB CONJ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	anomalies	NN
+gap	; 	
+word	in	PIN CONJ PREP
+gap	 	
+word	lines	NN
+gap	 19-22, 	
+word	Bradshaw	CAP NNP
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	use	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	expected	PRIV
+gap	 	
+word	rhyme	NN
+gap	 	
+word	scheme	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	J	CAP NNP
+gap	, 	
+word	J	CAP NNP
+gap	, 	
+word	K	CAP NNP
+gap	, 	
+word	K	CAP NNP
+gap	. 	
+word	Instead	RB CONJ CAP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	alternates	VPRT
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	J	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	K	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	uses	VPRT
+gap	 	
+word	half	JJ
+gap	-	
+word	rhyme	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	perhaps	RB
+gap	 	
+word	strengthen	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	content	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	lines	NN
+gap	 	
+word	though	CONC RB
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poet	NN
+gap	 	
+word	talks	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	 "	
+word	roam	
+gap	(	
+word	ing	
+gap	)" 	
+word	and	
+gap	 "	
+word	find	
+gap	(	
+word	ing	
+gap	)" - 	
+word	general	
+gap	 	
+word	feelings	
+gap	 	
+word	of	
+gap	 	
+word	disorientation	
+gap	. 	
+word	Here	
+gap	 	
+word	the	
+gap	 	
+word	rhyme	
+gap	 	
+word	scheme	
+gap	 	
+word	is	
+gap	 	
+word	itself	
+gap	 '	
+word	disorientated	
+gap	'. 	
+word	One	
+gap	 	
+word	sees	
+gap	 	
+word	interesting	
+gap	 	
+word	parallels	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	work	
+gap	 	
+word	of	
+gap	 	
+word	Seamus	
+gap	 	
+word	Heaney	
+gap	 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	poem	
+gap	 '	
+word	Digging	
+gap	'. 	
+word	Both	
+gap	 	
+word	poets	
+gap	 	
+word	take	
+gap	 	
+word	themselves	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	journey	
+gap	 	
+word	of	
+gap	 	
+word	self	
+gap	-	
+word	identification	
+gap	, 	
+word	and	
+gap	 	
+word	begin	
+gap	 	
+word	to	
+gap	 	
+word	question	
+gap	 	
+word	their	
+gap	 	
+word	work	
+gap	 	
+word	or	
+gap	 	
+word	profession	
+gap	. 	
+word	Both	
+gap	 	
+word	relate	
+gap	 	
+word	to	
+gap	 	
+word	their	
+gap	 	
+word	families	
+gap	, 	
+word	and	
+gap	 	
+word	use	
+gap	 	
+word	figurative	
+gap	 	
+word	language	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	describe	
+gap	 	
+word	their	
+gap	 	
+word	thoughts	
+gap	 	
+word	or	
+gap	 	
+word	inspirations	
+gap	. 	
+word	Heaney	
+gap	'	
+word	s	
+gap	 	
+word	thoughts	
+gap	 	
+word	are	
+gap	 	
+word	considered	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 '	
+word	good	
+gap	 	
+word	turf	
+gap	'. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	interesting	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	how	
+gap	 	
+word	both	
+gap	 	
+word	poems	
+gap	 	
+word	begin	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	fairly	
+gap	 	
+word	negative	
+gap	 	
+word	tone	
+gap	, 	
+word	but	
+gap	 	
+word	reach	
+gap	 	
+word	the	
+gap	 	
+word	conclusion	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	proud	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	work	
+gap	 	
+word	as	
+gap	 	
+word	poets	
+gap	.	

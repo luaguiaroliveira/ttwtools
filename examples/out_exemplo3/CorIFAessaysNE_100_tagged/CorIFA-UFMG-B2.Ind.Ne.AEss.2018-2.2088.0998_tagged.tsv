@@ -1,1435 +1,2469 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2088.0998.txt
-token	tags
-    	
-Material	NN CAP
-culture	NN
-studies	NN
-shows	VPRT PRIV
-the	ART DET
-multiplicity	NOMZ
-of	PIN PREP
-object	PUBV NN
-functions	NOMZ
-and	CCONJ
-their	TPP3 PRP SBJP
-relevance	NN
-to	PIN PREP
-humans	NN
-.	
-Objects	PUBV NN CAP
-remains	VPRT
-the	ART DET
-setting	NN
-of	PIN PREP
-human	JJ
-societies	NN
-,	
-their	TPP3 PRP SBJP
-ability	NOMZ
-to	PIN TO PREP
-interfere	INF
-at	PIN PREP
-the	ART DET
-environment	NOMZ
-changing	WZPRES PGAS
-the	ART DET
-nature	NN
-landscape	NN
-to	PIN TO PREP
-built	
-their	TPP3 PRP SBJP
-own	JJ
-ones	NN
-thru	PIN PREP
-at	PIN PREP
-the	ART DET
-time	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-brief	JJ
-analyse	NN
-,	
-human	JJ
-societies	NN
-seems	VPRT SMP
-to	PIN TO PREP
-configure	INF
-themselves	TPP3 PRP SBJP ACCU
-measured	
-by	PIN PREP
-objects	PUBV NN
-.	
-Once	RB TIME CAP
-into	PIN PREP
-society	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-specie	NN
-of	PIN PREP
-reason	PRIV NN
-for	PIN PREP
-what	WH
-people	NN
-organize	VPRT
-their	TPP3 PRP SBJP
-lives	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-territory	NN
-and	CCONJ
-built	VBD
-systems	NN
-of	PIN PREP
-distinction	NOMZ
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-,	
-objects	PUBV NN
-becomes	VPRT
-to	PIN PREP
-human	JJ
-beings	NN
-the	ART DET
-more	JJ EMPH CMADJ
-than	PIN PREP
-a	ART DET INDA
-reason	PRIV NN
-why	RB WHOBJ WHCL SCONJ WH
-they	TPP3 PRP SBJP
-expand	VPRT
-themselves	TPP3 PRP SBJP ACCU
-into	PIN PREP
-territory	NN
-and	CCONJ
-change	INF
-the	ART DET
-environment	NOMZ
-landscape	NN
-;	
-they	TPP3 PRP SBJP
-establish	VPRT PRIV
-a	ART DET INDA
-certain	JJ
-supremacy	NN
-in	PIN CONJ PREP
-it	PIT PRP SBJP
-and	CCONJ
-attribute	INF
-to	PIN PREP
-the	ART DET
-object	PUBV NN
-different	JJ
-meanings	NN
-and	PHC CCONJ
-uses	NN
-.	
-Every	QUAN CAP DET
-object	PUBV NN
-is	BEMA VPRT AUXB
-functional	JJ PRED
-:	
-they	TPP3 PRP SBJP
-obtain	VPRT
-a	ART DET INDA
-social	JJ
-life	NN
-,	
-which	SERE DET WH
-their	TPP3 PRP SBJP
-uses	NN
-depend	VPRT
-of	PIN PREP
-social	JJ
-class	NN
-,	
-gender	NN
-and	CCONJ
-personal	JJ
-interest	NN
-,	
-which	SERE DET WH
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-people	NN
-attribute	VPRT
-many	QUAN JJ
-values	NN
-as	PIN CONJ PREP
-aesthetic	JJ
-,	
-ethnic	JJ
-,	
-historical	JJ
-,	
-documental	NN
-,	
-functional	JJ
-,	
-merchandise	NN
-,	
-technical	JJ
-,	
-etc	X
-.	
-It	PIT CAP PRP SBJP
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-objects	PUBV NN
-are	VPRT AUXB
-mechanism	NN
-that	TSUB WHSUB WH
-materialize	VPRT
-ideas	NN
-,	
-emotional	JJ
-expression	NOMZ
-,	
-provision	NOMZ
-of	PIN PREP
-services	NN
-,	
-exchange	NN
-,	
-etc	X
-.	X
-There	EX CAP
-is	VPRT AUXB
-an	ART DET INDA
-specific	JJ
-importance	NN
-of	PIN PREP
-objects	PUBV NN
-to	PIN PREP
-human	JJ
-beings	NN
-that	TSUB WHSUB WH
-'s	VPRT
-the	ART DET
-main	NN
-of	PIN PREP
-material	NN
-culture	NN
-studies	NN
-:	
-they	TPP3 PRP SBJP
-compose	VPRT
-the	ART DET
-scenery	NN
-where	RB WHOBJ SCONJ WH
-history	NN
-pass	INF
-thru	PIN STPR NN PREP
-.	
-Meaning	PRIV NN CAP
-and	PHC CCONJ
-uses	NN
-of	PIN PREP
-these	DEMO DET
-objects	PUBV NN
-turns	VPRT
-possible	JJ
-analyze	VPRT
-the	ART DET
-social	JJ
-structure	NN
-,	
-the	ART DET
-influence	NN
-of	PIN PREP
-some	QUAN DET
-type	NN
-of	PIN PREP
-professional	JJ
-and	CCONJ
-the	ART DET
-relation	NOMZ
-between	PIN PREP
-social	JJ
-classes	NN
-,	
-gender	NN
-and	CCONJ
-the	ART DET
-subjectivity	NOMZ
-of	PIN PREP
-these	DEMO DET
-one	NUM
-.	
-Thus	RB CONJ CAP
-it	PIT PRP SBJP
-whether	PIN SCONJ PREP
-object	PUBV NN
-measure	NN
-human	JJ
-relations	NOMZ
-,	
-his	TPP3 PRP SBJP
-experience	NN
-in	PIN CONJ PREP
-environment	NOMZ
-produce	VPRT
-memories	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-bases	NN
-of	PIN PREP
-tradition	NOMZ
-and	PHC CCONJ
-unity	NOMZ
-of	PIN PREP
-these	DEMO DET
-societies	NN
-.	
- 	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-human	JJ
-experience	NN
-in	PIN CONJ PREP
-environment	NOMZ
-which	WHSUB DET WH
-turns	VPRT
-possible	JJ
-the	ART DET
-exchange	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-experiences	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-territory	NN
-,	
-once	RB TIME
-shared	
-into	PIN PREP
-groups	NN
-,	
-memories	VPRT
-propitiate	JJ
-identification	NOMZ
-between	PIN PREP
-people	NN
-and	CCONJ
-them	TPP3 PRP SBJP ACCU
-with	PIN PREP
-things	NN
-that	TSUB WHSUB WH
-compose	VPRT
-the	ART DET
-environment	NOMZ
-.	
-It	PIT CAP PRP SBJP
-turns	VPRT
-possibile	JJ
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-human	JJ
-experience	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-is	BEMA VPRT AUXB
-essentially	RB
-sensorial	JJ
-,	
-communicative	JJ
-and	PHC CCONJ
-interpretative	JJ
-ones	NN
-.	
-That	DEMP CAP DET
-is	BEMA VPRT AUXB
-the	ART DET
-main	NN
-of	PIN PREP
-groups	NN
-and	PHC CCONJ
-society	NN
-:	
-the	ART DET
-exchange	NN
-of	PIN PREP
-memories	NN
-shared	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-context	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-territory	NN
-cause	NN
-identification	NOMZ
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-inserted	
-as	PIN CONJ PREP
-element	NOMZ
-that	TSUB WHSUB WH
-compose	VPRT
-someone	QUPR INPR
-or	CCONJ
-some	QUAN DET
-group	NN
-subjectivity	NOMZ
-.	
- 	
-Although	CONC PIN STPR CAP SCONJ PREP
-,	
-in	PIN CONJ PREP
-modern	JJ
-society	NN
-,	
-measured	PASTP
-by	PIN PREP
-techniques	NN
-and	CCONJ
-constant	JJ
-culture	NN
-update	NN
-,	
-which	SERE DET WH
-notion	NOMZ
-of	PIN PREP
-time	NN
-is	PASS VPRT BYPA AUXB
-marked	
-by	PIN PREP
-rupture	NN
-between	PIN PREP
-past	NN
-,	
-present	JJ
-and	CCONJ
-future	NN
--	
-past	NN
-becomes	VPRT
-some	QUAN DET
-unusual	JJ
-,	
-a	ART DET INDA
-memory	NN
-that	TSUB WHSUB WH
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-revived	
-into	PIN PREP
-nowadays	RB TIME
-or	CCONJ
-their	TPP3 PRP SBJP
-culture	NN
-and	PHC CCONJ
-material	NN
-elements	NOMZ
-exactly	RB
-way	NN
-they	TPP3 PRP SBJP
-were	VBD AUXB
-can	POMD SPAU
-not	XX0 RB
-become	INF
-an	ART DET INDA
-experience	NN
-in	PIN CONJ PREP
-present	JJ
--	
-objects	PUBV NN
-gain	VPRT
-a	ART DET INDA
-social	JJ
-life	NN
-,	
-which	SERE DET WH
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-relevance	VPRT
-,	
-fabrication	NOMZ
-of	PIN PREP
-certain	JJ
-serial	JJ
-model	NN
-or	CCONJ
-even	RB
-that	DEMO DET
-type	NN
-of	PIN PREP
-object	PUBV NN
-may	POMD
-be	PASS BYPA AUXB INF
-substituted	
-by	PIN PREP
-other	JJ
-technique	NN
-that	TSUB WHSUB WH
-stimulate	VPRT
-consume	NN
-trends	NN
-and	CCONJ
-turns	VPRT
-it	PIT PRP SBJP
-obsolete	JJ
-in	PIN CONJ PREP
-a	ART DET INDA
-short	JJ
-period	NN
-of	PIN PREP
-time	NN
-.	
-Therefore	RB CONJ CAP
-,	
-objects	PUBV NN
-can	POMD
-be	PASS BYPA AUXB INF
-seen	PRIV
-by	PIN PREP
-two	NUM
-optical	JJ
-:	
-(	
-1	X
-)	
-it	PIT PRP SBJP
-got	VBD
-some	QUAN DET
-merchandise	NN
-value	NN
-or	CCONJ
-,	
-(	
-2	X
-)	
-in	PIN CONJ PREP
-other	JJ
-hand	NN
-,	
-they	TPP3 PRP SBJP
-does	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-relevant	JJ
-monetary	JJ
-value	NN
-that	TSUB WHSUB WH
-justify	VPRT
-keep	VPRT
-it	PIT PRP SBJP
-on	PIN PREP
-hold	PRIV NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-compose	VPRT
-someone	QUPR INPR
-’s	
-collection	NOMZ
-thus	RB CONJ
-relevance	VPRT
-it	PIT PRP SBJP
-got	VBD
-to	PIN TO PREP
-collector	NN
-’s	
-memory	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-his	TPP3 PRP SBJP
-reflection	NOMZ
-about	PIN PREP
-objects	PUBV NN
-biography	NN
-,	
-Bonnot	CAP NNP
-(	
-2015	NUM
-)	
-talks	NN
-about	PIN PREP
-the	ART DET
-experience	NN
-of	PIN PREP
-Creusot	CAP NNP
--	
-Montceau	CAP NNP
-ecomuseum	NN
-,	
-Saone	CAP NNP
--	
-et	NNP
--	
-Loire	CAP NNP
-,	
-in	PIN CONJ PREP
-France	CAP NNP
-.	
-During	PIN CAP PREP
-1990	NUM
-’s	NN
-,	
-the	ART DET
-ecomuseum	NN
-started	VBD
-a	ART DET INDA
-deep	JJ
-study	NN
-about	PIN PREP
-ceramic	JJ
-industry	NN
-in	PIN CONJ PREP
-that	DEMO DET
-region	NN
-during	PIN PREP
-XIX	CAP NNP
-and	PHC CCONJ
-XX	CAP NNP
-centuries	NN
-.	
-In	PIN CONJ CAP PREP
-1998	NUM
-,	
-they	TPP3 PRP SBJP
-received	VBD
-a	ART DET INDA
-letter	NN
-asking	WZPRES SUAV PGAS
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-got	VBD
-some	QUAN DET
-about	PIN PREP
-a	ART DET INDA
-19th	JJ
-century	NN
-cider	NN
-bottle	NN
-found	PRIV WZPAST
-near	PIN PLACE PREP
-Creusot	CAP NNP
--	
-Montceau	CAP NNP
-.	
-Archaeologists	NN CAP
-found	VBD PRIV
-this	DEMO DET
-bottle	NN
-composing	WZPRES PGAS
-the	ART DET
-church	NN
-wall	NN
-.	
-Allied	PASTP CAP
-to	PIN PREP
-archaeologists	NN
-the	ART DET
-ecomuseum	NN
-started	VBD
-a	ART DET INDA
-new	JJ
-research	NN
-about	PIN PREP
-the	ART DET
-bottle	NN
-social	JJ
-life	NN
-,	
-tracing	PGAS
-in	PIN CONJ PREP
-that	DEMO DET
-territory	NN
-possibilities	NN
-of	PIN PREP
-uses	NN
-that	DEMO DET
-bottle	NN
-would	PRMD
-had	
-in	PIN CONJ PREP
-the	ART DET
-past	NN
-,	
-the	ART DET
-manufacturing	GER PGAS
-technique	NN
-,	
-and	ANDC CCONJ
-consequently	RB CONJ
-,	
-social	JJ
-relations	NOMZ
-traced	WZPAST
-by	PIN PREP
-consume	NN
-and	PHC CCONJ
-fabrication	NOMZ
-of	PIN PREP
-cider	NN
-and	CCONJ
-the	ART DET
-bottle	NN
-.	
-They	TPP3 CAP PRP SBJP
-discovered	VBD PRIV
-the	ART DET
-family	NN
-'s	
-producer	NN
-bottle	NN
-collection	NOMZ
-;	
-they	TPP3 PRP SBJP
-documented	VBD
-deployments	NOMZ
-of	PIN PREP
-artisans	NN
-and	CCONJ
-collected	VBD
-material	NN
-evidences	NN
-in	PIN CONJ PREP
-situ	NNP
-.	
-Actually	RB CAP
-,	
-this	DEMO DET
-bottle	NN
-is	PASS VPRT AUXB
-exposed	
-in	PIN CONJ PREP
-Saone	CAP NNP
--	
-et	NN
--	
-Loire	CAP NNP
-ecomuseum	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-brief	JJ
-example	NN
-,	
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-merchandise	NN
-cider	NN
-value	NN
-to	PIN PREP
-the	ART DET
-detriment	NOMZ
-at	PIN PREP
-the	ART DET
-bottle	NN
-.	
-It	PIT CAP PRP SBJP
-does	VPRT PROD SPAU
-n’t	RB
-had	VBD
-exchange	NN
-value	NN
-.	
-So	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-any	QUAN DET
-recipient	NN
-:	
-discarded	
-,	
-used	PASTP
-to	PIN PREP
-many	QUAN JJ
-other	JJ
-way	NN
-which	WHOBJ DET WH
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-possible	JJ PRED
-to	PIN TO PREP
-serve	INF
-to	PIN PREP
-people	NN
-interest	NN
-and	PHC CCONJ
-needs	NN
-.	
-  	
-I	FPP1 CAP PRP SBJP
--	
- 	
-Material	CAP NNP
-Culture	CAP NNP
-and	CCONJ
-identity	NOMZ
-in	PIN CONJ PREP
-contemporary	JJ
-  	
-Specially	CAP NNP
-in	PIN CONJ PREP
-XX	CAP NNP
-and	PHC CCONJ
-XXI	CAP NNP
-centuries	NN
-,	
-when	RB SCONJ WH
-industry	NN
-start	VPRT
-to	PIN TO PREP
-fabricate	INF
-in	PIN CONJ PREP
-large	JJ
-scale	NN
-and	CCONJ
-uses	VPRT
-technological	JJ
-,	
-semiotical	JJ
-and	CCONJ
-design	NN
-updates	NN
-as	PIN CONJ PREP
-resources	NN
-to	PIN TO PREP
-stimulate	INF
-the	ART DET
-consume	NN
-,	
-culture	NN
-becomes	VPRT
-a	ART DET INDA
-dispositive	JJ
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-manipulated	
-also	RB
-by	PIN PREP
-market	NN
-.	
-Until	PIN CAP PREP
-first	JJ
-decades	NN
-of	PIN PREP
-19th	JJ
-century	NN
-,	
-the	ART DET
-cultural	JJ
-logic	NN
-was	PASS VBD BYPA AUXB
-thought	PRIV
-by	PIN PREP
-royalty	NN
-and	CCONJ
-the	ART DET
-ascendant	NNP
-bourgeoisie	NN
-.	
-In	PIN CONJ CAP PREP
-20th	NN
-,	
-the	ART DET
-logic	NN
-of	PIN PREP
-equality	NOMZ
-of	PIN PREP
-people	NN
-and	CCONJ
-the	ART DET
-consume	NN
-empowerment	NOMZ
-,	
-insert	INF
-a	ART DET INDA
-new	JJ
-conception	NOMZ
-of	PIN PREP
-culture	NN
-interested	WZPAST
-in	PIN CONJ PREP
-folk	NN
-,	
-popular	JJ
-artisan	JJ
-and	CCONJ
-art	NN
-creations	NOMZ
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-context	NN
-,	
-it	PIT PRP SBJP
-is	PASS VPRT BYPA AUXB
-measured	
-by	PIN PREP
-three	NUM
-agents	NN
-that	DEMO WHOBJ WH
-manipulate	NN
-culture	NN
-:	
-(	
-1	X
-)	
-government	NOMZ
-,	
-(	
-2	NUM
-)	
-industry	NN
-market	NN
-and	CCONJ
-(	
-3	X
-)	
-cultural	JJ
-industry	NN
-that	TSUB WHSUB WH
-stimulate	VPRT
-the	ART DET
-consume	NN
-articulating	GER WZPRES PGAS
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-public	JJ
-policies	NN
-and	PHC CCONJ
-trends	NN
-.	
- 	
-According	CAP PGAS
-to	PIN PREP
-Canclini	CAP NNP
-(	
-1989	NUM
-)	
-,	
-in	PIN CONJ PREP
-modern	JJ
-society	NN
-culture	NN
-becomes	VPRT
-a	ART DET INDA
-sharing	PGAS
-ideas	NN
-and	PHC CCONJ
-conduction	NOMZ
-measured	WZPAST
-by	PIN PREP
-institutions	NOMZ
-as	PIN CONJ PREP
-schools	NN
-,	
-museums	NN
-,	
-library	NN
-,	
- 	
-cine	NN
-,	
-a	ART DET INDA
-new	JJ
-conception	NOMZ
-of	PIN PREP
-family	NN
-and	CCONJ
-the	ART DET
-social	JJ
-paper	NN
-of	PIN PREP
-religion	NN
-,	
-and	ANDC CCONJ
-exploration	NOMZ
-of	PIN PREP
-folk	NN
-culture	NN
-as	PIN CONJ PREP
-tourism	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
- 	
-society	NN
-that	TSUB WHSUB WH
-project	VPRT
-themself	PRP SBJP ACCU
-to	PIN PREP
-future	NN
-and	PHC CCONJ
-progress	NN
-which	WHSUB DET WH
-will	PRMD
-come	INF
-producing	PGAS
-ideas	NN
-,	
-knowledge	NN
-,	
-technology	NN
-and	PHC CCONJ
-things	NN
-in	PIN CONJ PREP
-large	JJ
-scale	NN
-,	
-in	PIN CONJ PREP
-other	JJ
-words	NN
-,	
-a	ART DET INDA
-society	NN
-organized	
-and	PHC CCONJ
-structured	
-to	PIN TO PREP
-serves	VPRT
-the	ART DET
-capital	NN
-interest	NN
-the	ART DET
-tradition	NOMZ
-get	VPRT
-lose	JJ
-on	PIN PREP
-cities	NN
-flows	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-shot	JJ
-free	JJ
-hour	NN
-.	
- 	
-Here	RB CAP
-,	
-we	FPP1 PRP SBJP
-back	RB
-to	PIN TO PREP
-start	INF
-of	PIN PREP
-text	NN
-:	
-whether	PIN SCONJ PREP
- 	
-memory	NN
-is	BEMA VPRT AUXB
-the	ART DET
-result	NN
-of	PIN PREP
-cognition	NOMZ
-of	PIN PREP
-experience	NN
-,	
-and	ANDC CCONJ
-human	JJ
-experience	NN
-is	PASS VPRT BYPA AUXB
-measured	
-by	PIN PREP
-things	NN
-,	
-a	ART DET INDA
-large	JJ
-scale	NN
-production	NOMZ
-causes	VPRT
-a	ART DET INDA
-memory	NN
-crisis	NN
-.	
-What	CAP WH
-I	FPP1 CAP PRP SBJP
-intends	VPRT SUAV
-to	PIN TO PREP
-talk	INF
-about	PIN PREP
-is	VPRT AUXB
-not	XX0 RB
-necessarily	RB
-the	ART DET
-modernist	JJ
-crisis	NN
-caused	WZPAST
-by	PIN PREP
-I	FPP1 CAP PRP SBJP
-and	CCONJ
-II	CAP NNP
-wars	NN
-and	CCONJ
-all	QUAN DET
-disasters	NN
-that	TSUB WHSUB WH
-involved	VBD
-the	ART DET
-technology	NN
-'s	
-experience	NN
-in	PIN CONJ PREP
-20th	JJ
-century	NN
-'s	
-and	CCONJ
-provoke	INF
-a	ART DET INDA
-certain	JJ
-fear	PRIV NN
-about	PIN PREP
-future	NN
-.	
-I	FPP1 CAP PRP SBJP
-admit	VPRT PUBV THATD
-that	DEMP DET
-is	BEMA VPRT AUXB
-inextricable	JJ
-link	NN
-between	PIN PREP
-this	DEMP DET
-and	ANDC CCONJ
-what	WH
-about	PIN PREP
-to	PIN TO PREP
-say	PUBV INF
-,	
-but	CCONJ
-I	FPP1 CAP PRP SBJP
-want	VPRT
-to	PIN TO PREP
-show	PRIV INF
-other	JJ
-approach	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-focused	
-on	PIN PREP
-material	NN
-culture	NN
-studies	NN
-about	PIN PREP
-memory	NN
-which	WHSUB DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-valuation	NOMZ
-of	PIN PREP
-elements	NOMZ
-of	PIN PREP
-past	NN
-in	PIN CONJ PREP
-contemporary	NNP
-.	
-I	FPP1 CAP PRP SBJP
-argue	VPRT PUBV
-that	PIN THVC SCONJ PREP
-market	NN
-serial	NN
-updates	NN
-in	PIN CONJ PREP
-short	JJ
-time	NN
-to	PIN TO PREP
-stimulate	INF
-the	ART DET
-consume	NN
-can	POMD
-cause	INF
-in	PIN CONJ PREP
-people	NN
-a	ART DET INDA
-certain	JJ
-aspect	NN
-of	PIN PREP
-FOMO	NN CAP
-(	
-Fear	PRIV NN CAP
-of	PIN PREP
-Missing	CAP PGAS
-Out	PIN STPR CAP PREP NNP
-)	
-,	
-inducing	PRESP PGAS
-them	TPP3 PRP SBJP ACCU
- 	
-to	PIN TO PREP
-think	PRIV THATD INF
-that	PIN DEMP SCONJ PREP
-lives	VPRT
-in	PIN CONJ PREP
-society	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-adapt	INF
-and	PHC CCONJ
-follow	INF
-trends	NN
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-case	NN
-,	
-the	ART DET
-consume	NN
-.	
-In	PIN CONJ CAP PREP
-other	JJ
-hand	NN
-,	
-the	ART DET
-nostalgic	JJ
-feeling	PRIV NN
-about	PIN PREP
-using	PGAS
-something	QUPR INPR
-in	PIN CONJ PREP
-a	ART DET INDA
-certain	JJ
-time	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-lives	NN
-,	
-in	PIN CONJ PREP
-nowadays	RB TIME
-,	
-is	PASS VPRT AUXB
-seem	SMP
-to	PIN PREP
-industry	NN
-'s	
-as	PIN CONJ PREP
-a	ART DET INDA
-market	NN
-share	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	PASS VPRT BYPA AUXB
-explored	
-by	PIN PREP
-them	TPP3 PRP SBJP ACCU
-with	PIN PREP
-new	JJ
-products	NN
-with	PIN PREP
-vintage	JJ
-aesthetic	JJ
-and	CCONJ
-technology	NN
-optimization	NOMZ
-.	
- 	
-This	DEMO CAP DET
-memory	NN
-crisis	NN
-also	RB
-is	BEMA VPRT AUXB
-a	ART DET INDA
-identity	NOMZ
-ones	NN
-.	
-Once	RB TIME CAP
-in	PIN CONJ PREP
-society	NN
-that	DEMO WHOBJ WH
- 	
-work	NN
-for	PIN PREP
-progress	NN
-people	NN
-have	VPRT
-no	SYNE DET
-more	JJ EMPH CMADJ
-a	ART DET INDA
-perception	NOMZ
-about	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
- 	
-separated	VBD
-of	PIN PREP
-their	TPP3 PRP SBJP
-job	NN
-and	ANDC CCONJ
-what	WH
-it	PIT PRP SBJP
-consumes	VPRT
-.	
- 	
-The	ART CAP DET
-subjectivity	NOMZ
-is	PASS VPRT BYPA AUXB
-built	
-by	PIN PREP
-it	PIT PRP SBJP
-identification	NOMZ
-.	
-Differently	RB CAP
-,	
-in	PIN CONJ PREP
-traditional	JJ
-societies	NN
-,	
-the	ART DET
-subjectivity	NOMZ
-is	BEMA VPRT AUXB
-main	JJ PRED
-of	PIN PREP
-compilation	NOMZ
-of	PIN PREP
-religion	NN
-,	
-the	ART DET
-cyclical	JJ
-perception	NOMZ
-of	PIN PREP
- 	
-time	NN
-,	
-memory	NN
-and	CCONJ
-the	ART DET
-interpretative	JJ
-knowledge	NN
-about	PIN PREP
-reality	NOMZ
-.	
-So	RB CAP
-,	
-here	RB
-,	
-the	ART DET
-person	NN
-is	VPRT AUXB
-agent	NN
-that	TSUB WHSUB WH
-follow	VPRT
-a	ART DET INDA
-millennial	JJ
-tradition	NOMZ
-and	CCONJ
-grasp	INF
-itself	PIT PRP SBJP ACCU
-as	PIN CONJ PREP
-unity	NOMZ
-with	PIN PREP
-well	RB
-defined	
-importance	NN
-to	PIN PREP
-it	PIT PRP SBJP
-social	JJ
- 	
-structure	NN
-.	
-In	PIN CONJ CAP PREP
-both	DET
-case	NN
-,	
-the	ART DET
-material	NN
-culture	NN
-measure	NN
-their	TPP3 PRP SBJP
-ethnic	JJ
-identity	NOMZ
-and	CCONJ
-their	TPP3 PRP SBJP
-subjectivity	NOMZ
-construction	NOMZ
-vary	VPRT
-by	PIN PREP
-social	JJ
-setting	NN
-.	
-In	PIN CONJ CAP PREP
-traditional	JJ
-one	NUM
-,	
-time	NN
-is	VPRT AUXB
- 	
-a	ART DET INDA
-cycle	NN
-and	PHC CCONJ
-past	NN
-is	PASS VPRT AUXB
-revived	
-in	PIN CONJ PREP
-commemorative	JJ
-dates	NN
-and	PHC CCONJ
-sazon	NN
-.	
-The	ART CAP DET
-social	JJ
-memory	NN
-is	PASS VPRT SPAU AUXB
-constantly	RB
-revived	
-and	PHC CCONJ
-reaffirmed	
-by	PIN PREP
-preservation	NOMZ
-of	PIN PREP
-practices	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-transmission	NOMZ
-to	PIN PREP
-new	JJ
-generations	NOMZ
-.	
-But	CAP CCONJ
-,	
-in	PIN CONJ PREP
-complex	JJ
-societies	NN
-,	
-time	NN
-is	PASS VPRT AUXB
-separated	
-.	
-Past	NN CAP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-some	QUAN DET
-that	DEMP WH
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-revived	
-or	CCONJ
-experimented	
-in	PIN CONJ PREP
-nowadays	RB TIME
-.	
-What	CAP WH
-it	PIT PRP SBJP
-got	VBD
-from	PIN PREP
-the	ART DET
-past	NN
-is	BEMA VPRT AUXB
-brief	JJ
-references	NN
-or	CCONJ
-it	PIT PRP SBJP
-aesthetic	JJ
-adaptation	NOMZ
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2088.0998>\n\n<MATERIAL CULTURE AND PAST AS EXPERIENCE OF CONSUME IN CONTEMPORARY>\n\n	
+word	Material	NN CAP
+gap	 	
+word	culture	NN
+gap	 	
+word	studies	NN
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	multiplicity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	functions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	relevance	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	humans	NN
+gap	. 	
+word	Objects	PUBV NN CAP
+gap	 	
+word	remains	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	setting	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	societies	NN
+gap	, 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	interfere	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	changing	WZPRES PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	landscape	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	built	
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	ones	NN
+gap	 	
+word	thru	PIN PREP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	brief	JJ
+gap	 	
+word	analyse	NN
+gap	, 	
+word	human	JJ
+gap	 	
+word	societies	NN
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	configure	INF
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	measured	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	objects	PUBV NN
+gap	. 	
+word	Once	RB TIME CAP
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	society	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	specie	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	people	NN
+gap	 	
+word	organize	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	lives	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	territory	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	built	VBD
+gap	 	
+word	systems	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	distinction	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	, 	
+word	objects	PUBV NN
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	beings	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	why	RB WHOBJ WHCL SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	expand	VPRT
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	territory	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	change	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	landscape	NN
+gap	; 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	establish	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	certain	JJ
+gap	 	
+word	supremacy	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	attribute	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	different	JJ
+gap	 	
+word	meanings	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	uses	NN
+gap	. 	
+word	Every	QUAN CAP DET
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	functional	JJ PRED
+gap	: 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	obtain	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	social	JJ
+gap	 	
+word	life	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	uses	NN
+gap	 	
+word	depend	VPRT
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	class	NN
+gap	, 	
+word	gender	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	personal	JJ
+gap	 	
+word	interest	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	attribute	VPRT
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	values	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	aesthetic	JJ
+gap	, 	
+word	ethnic	JJ
+gap	, 	
+word	historical	JJ
+gap	, 	
+word	documental	NN
+gap	, 	
+word	functional	JJ
+gap	, 	
+word	merchandise	NN
+gap	, 	
+word	technical	JJ
+gap	, 	
+word	etc	X
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	mechanism	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	materialize	VPRT
+gap	 	
+word	ideas	NN
+gap	, 	
+word	emotional	JJ
+gap	 	
+word	expression	NOMZ
+gap	, 	
+word	provision	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	services	NN
+gap	, 	
+word	exchange	NN
+gap	, 	
+word	etc	X
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	specific	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	beings	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	'	
+word	s	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	material	NN
+gap	 	
+word	culture	NN
+gap	 	
+word	studies	NN
+gap	: 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	compose	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	scenery	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	history	NN
+gap	 	
+word	pass	INF
+gap	 	
+word	thru	PIN STPR NN PREP
+gap	. 	
+word	Meaning	PRIV NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	uses	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	turns	VPRT
+gap	 	
+word	possible	JJ
+gap	 	
+word	analyze	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	social	JJ
+gap	 	
+word	structure	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	professional	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	classes	NN
+gap	, 	
+word	gender	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	subjectivity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	one	NUM
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	measure	NN
+gap	 	
+word	human	JJ
+gap	 	
+word	relations	NOMZ
+gap	, 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	experience	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	produce	VPRT
+gap	 	
+word	memories	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	bases	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tradition	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	unity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	societies	NN
+gap	. \n	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	experience	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	turns	VPRT
+gap	 	
+word	possible	JJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	exchange	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	experiences	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	territory	NN
+gap	, 	
+word	once	RB TIME
+gap	 	
+word	shared	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	groups	NN
+gap	, 	
+word	memories	VPRT
+gap	 	
+word	propitiate	JJ
+gap	 	
+word	identification	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	things	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	compose	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	turns	VPRT
+gap	 	
+word	possibile	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	experience	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essentially	RB
+gap	 	
+word	sensorial	JJ
+gap	, 	
+word	communicative	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	interpretative	JJ
+gap	 	
+word	ones	NN
+gap	. 	
+word	That	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	groups	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	society	NN
+gap	: 	
+word	the	ART DET
+gap	 	
+word	exchange	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	memories	NN
+gap	 	
+word	shared	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	context	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	territory	NN
+gap	 	
+word	cause	NN
+gap	 	
+word	identification	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	inserted	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	element	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	compose	VPRT
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	or	CCONJ
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	group	NN
+gap	 	
+word	subjectivity	NOMZ
+gap	. \n	
+word	Although	CONC PIN STPR CAP SCONJ PREP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	society	NN
+gap	, 	
+word	measured	PASTP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	techniques	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	constant	JJ
+gap	 	
+word	culture	NN
+gap	 	
+word	update	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	time	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	marked	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	rupture	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	past	NN
+gap	, 	
+word	present	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	future	NN
+gap	 - 	
+word	past	NN
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	unusual	JJ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	memory	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	revived	
+gap	 	
+word	into	
+gap	 	
+word	nowadays	
+gap	 	
+word	or	
+gap	 	
+word	their	
+gap	 	
+word	culture	
+gap	 	
+word	and	
+gap	 	
+word	material	
+gap	 	
+word	elements	
+gap	 	
+word	exactly	
+gap	 	
+word	way	
+gap	 	
+word	they	
+gap	 	
+word	were	
+gap	 	
+word	cannot	
+gap	 	
+word	become	
+gap	 	
+word	an	
+gap	 	
+word	experience	
+gap	 	
+word	in	
+gap	 	
+word	present	
+gap	 - 	
+word	objects	
+gap	 	
+word	gain	
+gap	 	
+word	a	
+gap	 	
+word	social	
+gap	 	
+word	life	
+gap	, 	
+word	which	
+gap	 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	relevance	
+gap	, 	
+word	fabrication	
+gap	 	
+word	of	
+gap	 	
+word	certain	
+gap	 	
+word	serial	
+gap	 	
+word	model	
+gap	 	
+word	or	
+gap	 	
+word	even	
+gap	 	
+word	that	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	object	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	substituted	
+gap	 	
+word	by	
+gap	 	
+word	other	
+gap	 	
+word	technique	
+gap	 	
+word	that	
+gap	 	
+word	stimulate	
+gap	 	
+word	consume	
+gap	 	
+word	trends	
+gap	 	
+word	and	
+gap	 	
+word	turns	
+gap	 	
+word	it	
+gap	 	
+word	obsolete	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	short	
+gap	 	
+word	period	
+gap	 	
+word	of	
+gap	 	
+word	time	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	objects	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	seen	
+gap	 	
+word	by	
+gap	 	
+word	two	
+gap	 	
+word	optical	
+gap	: (1) 	
+word	it	
+gap	 	
+word	got	
+gap	 	
+word	some	
+gap	 	
+word	merchandise	
+gap	 	
+word	value	
+gap	 	
+word	or	
+gap	, (2) 	
+word	in	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	they	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	relevant	
+gap	 	
+word	monetary	
+gap	 	
+word	value	
+gap	 	
+word	that	
+gap	 	
+word	justify	
+gap	 	
+word	keep	
+gap	 	
+word	it	
+gap	 	
+word	on	
+gap	 	
+word	hold	
+gap	, 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	compose	
+gap	 	
+word	someone	
+gap	’	
+word	s	
+gap	 	
+word	collection	
+gap	 	
+word	thus	
+gap	 	
+word	relevance	
+gap	 	
+word	it	
+gap	 	
+word	got	
+gap	 	
+word	to	
+gap	 	
+word	collector	
+gap	’	
+word	s	
+gap	 	
+word	memory	
+gap	. \n	
+word	In	
+gap	 	
+word	his	
+gap	 	
+word	reflection	
+gap	 	
+word	about	
+gap	 	
+word	objects	
+gap	 	
+word	biography	
+gap	, 	
+word	Bonnot	
+gap	 (2015) 	
+word	talks	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	experience	
+gap	 	
+word	of	
+gap	 	
+word	Creusot	
+gap	-	
+word	Montceau	
+gap	 	
+word	ecomuseum	
+gap	, 	
+word	Saone	
+gap	-	
+word	et	
+gap	-	
+word	Loire	
+gap	, 	
+word	in	
+gap	 	
+word	France	
+gap	. 	
+word	During	
+gap	 1990’	
+word	s	
+gap	, 	
+word	the	
+gap	 	
+word	ecomuseum	
+gap	 	
+word	started	
+gap	 	
+word	a	
+gap	 	
+word	deep	
+gap	 	
+word	study	
+gap	 	
+word	about	
+gap	 	
+word	ceramic	
+gap	 	
+word	industry	
+gap	 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	region	
+gap	 	
+word	during	
+gap	 	
+word	XIX	
+gap	 	
+word	and	
+gap	 	
+word	XX	
+gap	 	
+word	centuries	
+gap	. 	
+word	In	
+gap	 1998, 	
+word	they	
+gap	 	
+word	received	
+gap	 	
+word	a	
+gap	 	
+word	letter	
+gap	 	
+word	asking	
+gap	 	
+word	if	
+gap	 	
+word	they	
+gap	 	
+word	got	
+gap	 	
+word	some	
+gap	 	
+word	about	
+gap	 	
+word	a	
+gap	 19	
+word	th	
+gap	 	
+word	century	
+gap	 	
+word	cider	
+gap	 	
+word	bottle	
+gap	 	
+word	found	
+gap	 	
+word	near	
+gap	 	
+word	Creusot	
+gap	-	
+word	Montceau	
+gap	. 	
+word	Archaeologists	
+gap	 	
+word	found	
+gap	 	
+word	this	
+gap	 	
+word	bottle	
+gap	 	
+word	composing	
+gap	 	
+word	the	
+gap	 	
+word	church	
+gap	 	
+word	wall	
+gap	. 	
+word	Allied	
+gap	 	
+word	to	
+gap	 	
+word	archaeologists	
+gap	 	
+word	the	
+gap	 	
+word	ecomuseum	
+gap	 	
+word	started	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	research	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	bottle	
+gap	 	
+word	social	
+gap	 	
+word	life	
+gap	, 	
+word	tracing	
+gap	 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	territory	
+gap	 	
+word	possibilities	
+gap	 	
+word	of	
+gap	 	
+word	uses	
+gap	 	
+word	that	
+gap	 	
+word	bottle	
+gap	 	
+word	would	
+gap	 	
+word	had	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	manufacturing	
+gap	 	
+word	technique	
+gap	, 	
+word	and	
+gap	 	
+word	consequently	
+gap	, 	
+word	social	
+gap	 	
+word	relations	
+gap	 	
+word	traced	
+gap	 	
+word	by	
+gap	 	
+word	consume	
+gap	 	
+word	and	
+gap	 	
+word	fabrication	
+gap	 	
+word	of	
+gap	 	
+word	cider	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	bottle	
+gap	. 	
+word	They	
+gap	 	
+word	discovered	
+gap	 	
+word	the	
+gap	 	
+word	family	
+gap	'	
+word	s	
+gap	 	
+word	producer	
+gap	 	
+word	bottle	
+gap	 	
+word	collection	
+gap	; 	
+word	they	
+gap	 	
+word	documented	
+gap	 	
+word	deployments	
+gap	 	
+word	of	
+gap	 	
+word	artisans	
+gap	 	
+word	and	
+gap	 	
+word	collected	
+gap	 	
+word	material	
+gap	 	
+word	evidences	
+gap	 	
+word	in	
+gap	 	
+word	situ	
+gap	. 	
+word	Actually	
+gap	, 	
+word	this	
+gap	 	
+word	bottle	
+gap	 	
+word	is	
+gap	 	
+word	exposed	
+gap	 	
+word	in	
+gap	 	
+word	Saone	
+gap	-	
+word	et	
+gap	-	
+word	Loire	
+gap	 	
+word	ecomuseum	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	brief	
+gap	 	
+word	example	
+gap	, 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	the	
+gap	 	
+word	merchandise	
+gap	 	
+word	cider	
+gap	 	
+word	value	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	detriment	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	bottle	
+gap	. 	
+word	It	
+gap	 	
+word	doesn	
+gap	’	
+word	t	
+gap	 	
+word	had	
+gap	 	
+word	exchange	
+gap	 	
+word	value	
+gap	. 	
+word	So	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	any	
+gap	 	
+word	recipient	
+gap	: 	
+word	discarded	
+gap	, 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	many	
+gap	 	
+word	other	
+gap	 	
+word	way	
+gap	 	
+word	which	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	serve	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	people	
+gap	 	
+word	interest	
+gap	 	
+word	and	
+gap	 	
+word	needs	
+gap	.\n\n	
+word	I	
+gap	 -  	
+word	Material	
+gap	 	
+word	Culture	
+gap	 	
+word	and	
+gap	 	
+word	identity	
+gap	 	
+word	in	
+gap	 	
+word	contemporary	
+gap	\n\n	
+word	Specially	
+gap	 	
+word	in	
+gap	 	
+word	XX	
+gap	 	
+word	and	
+gap	 	
+word	XXI	
+gap	 	
+word	centuries	
+gap	, 	
+word	when	
+gap	 	
+word	industry	
+gap	 	
+word	start	
+gap	 	
+word	to	
+gap	 	
+word	fabricate	
+gap	 	
+word	in	
+gap	 	
+word	large	
+gap	 	
+word	scale	
+gap	 	
+word	and	
+gap	 	
+word	uses	
+gap	 	
+word	technological	
+gap	, 	
+word	semiotical	
+gap	 	
+word	and	
+gap	 	
+word	design	
+gap	 	
+word	updates	
+gap	 	
+word	as	
+gap	 	
+word	resources	
+gap	 	
+word	to	
+gap	 	
+word	stimulate	
+gap	 	
+word	the	
+gap	 	
+word	consume	
+gap	, 	
+word	culture	
+gap	 	
+word	becomes	
+gap	 	
+word	a	
+gap	 	
+word	dispositive	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	manipulated	
+gap	 	
+word	also	
+gap	 	
+word	by	
+gap	 	
+word	market	
+gap	. 	
+word	Until	
+gap	 	
+word	first	
+gap	 	
+word	decades	
+gap	 	
+word	of	
+gap	 19	
+word	th	
+gap	 	
+word	century	
+gap	, 	
+word	the	
+gap	 	
+word	cultural	
+gap	 	
+word	logic	
+gap	 	
+word	was	
+gap	 	
+word	thought	
+gap	 	
+word	by	
+gap	 	
+word	royalty	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	ascendant	
+gap	 	
+word	bourgeoisie	
+gap	. 	
+word	In	
+gap	 20	
+word	th	
+gap	, 	
+word	the	
+gap	 	
+word	logic	
+gap	 	
+word	of	
+gap	 	
+word	equality	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	consume	
+gap	 	
+word	empowerment	
+gap	, 	
+word	insert	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	conception	
+gap	 	
+word	of	
+gap	 	
+word	culture	
+gap	 	
+word	interested	
+gap	 	
+word	in	
+gap	 	
+word	folk	
+gap	, 	
+word	popular	
+gap	 	
+word	artisan	
+gap	 	
+word	and	
+gap	 	
+word	art	
+gap	 	
+word	creations	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	context	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	measured	
+gap	 	
+word	by	
+gap	 	
+word	three	
+gap	 	
+word	agents	
+gap	 	
+word	that	
+gap	 	
+word	manipulate	
+gap	 	
+word	culture	
+gap	: (1) 	
+word	government	
+gap	, (2) 	
+word	industry	
+gap	 	
+word	market	
+gap	 	
+word	and	
+gap	 (3) 	
+word	cultural	
+gap	 	
+word	industry	
+gap	 	
+word	that	
+gap	 	
+word	stimulate	
+gap	 	
+word	the	
+gap	 	
+word	consume	
+gap	 	
+word	articulating	
+gap	 	
+word	between	
+gap	 	
+word	them	
+gap	 	
+word	public	
+gap	 	
+word	policies	
+gap	 	
+word	and	
+gap	 	
+word	trends	
+gap	.\n	
+word	According	
+gap	 	
+word	to	
+gap	 	
+word	Canclini	
+gap	 (1989), 	
+word	in	
+gap	 	
+word	modern	
+gap	 	
+word	society	
+gap	 	
+word	culture	
+gap	 	
+word	becomes	
+gap	 	
+word	a	
+gap	 	
+word	sharing	
+gap	 	
+word	ideas	
+gap	 	
+word	and	
+gap	 	
+word	conduction	
+gap	 	
+word	measured	
+gap	 	
+word	by	
+gap	 	
+word	institutions	
+gap	 	
+word	as	
+gap	 	
+word	schools	
+gap	, 	
+word	museums	
+gap	, 	
+word	library	
+gap	,  	
+word	cine	
+gap	, 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	conception	
+gap	 	
+word	of	
+gap	 	
+word	family	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	social	
+gap	 	
+word	paper	
+gap	 	
+word	of	
+gap	 	
+word	religion	
+gap	, 	
+word	and	
+gap	 	
+word	exploration	
+gap	 	
+word	of	
+gap	 	
+word	folk	
+gap	 	
+word	culture	
+gap	 	
+word	as	
+gap	 	
+word	tourism	
+gap	. 	
+word	In	
+gap	 	
+word	a	
+gap	  	
+word	society	
+gap	 	
+word	that	
+gap	 	
+word	project	
+gap	 	
+word	themself	
+gap	 	
+word	to	
+gap	 	
+word	future	
+gap	 	
+word	and	
+gap	 	
+word	progress	
+gap	 	
+word	which	
+gap	 	
+word	will	
+gap	 	
+word	come	
+gap	 	
+word	producing	
+gap	 	
+word	ideas	
+gap	, 	
+word	knowledge	
+gap	, 	
+word	technology	
+gap	 	
+word	and	
+gap	 	
+word	things	
+gap	 	
+word	in	
+gap	 	
+word	large	
+gap	 	
+word	scale	
+gap	, 	
+word	in	
+gap	 	
+word	other	
+gap	 	
+word	words	
+gap	, 	
+word	a	
+gap	 	
+word	society	
+gap	 	
+word	organized	
+gap	 	
+word	and	
+gap	 	
+word	structured	
+gap	 	
+word	to	
+gap	 	
+word	serves	
+gap	 	
+word	the	
+gap	 	
+word	capital	
+gap	 	
+word	interest	
+gap	 	
+word	the	
+gap	 	
+word	tradition	
+gap	 	
+word	get	
+gap	 	
+word	lose	
+gap	 	
+word	on	
+gap	 	
+word	cities	
+gap	 	
+word	flows	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	shot	
+gap	 	
+word	free	
+gap	 	
+word	hour	
+gap	.  	
+word	Here	
+gap	, 	
+word	we	
+gap	 	
+word	back	
+gap	 	
+word	to	
+gap	 	
+word	start	
+gap	 	
+word	of	
+gap	 	
+word	text	
+gap	: 	
+word	whether	
+gap	  	
+word	memory	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	cognition	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	experience	
+gap	, 	
+word	and	
+gap	 	
+word	human	
+gap	 	
+word	experience	
+gap	 	
+word	is	
+gap	 	
+word	measured	
+gap	 	
+word	by	
+gap	 	
+word	things	
+gap	, 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	scale	
+gap	 	
+word	production	
+gap	 	
+word	causes	
+gap	 	
+word	a	
+gap	 	
+word	memory	
+gap	 	
+word	crisis	
+gap	. 	
+word	What	
+gap	 	
+word	I	
+gap	 	
+word	intends	
+gap	 	
+word	to	
+gap	 	
+word	talk	
+gap	 	
+word	about	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	necessarily	
+gap	 	
+word	the	
+gap	 	
+word	modernist	
+gap	 	
+word	crisis	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	I	
+gap	 	
+word	and	
+gap	 	
+word	II	
+gap	 	
+word	wars	
+gap	 	
+word	and	
+gap	 	
+word	all	
+gap	 	
+word	disasters	
+gap	 	
+word	that	
+gap	 	
+word	involved	
+gap	 	
+word	the	
+gap	 	
+word	technology	
+gap	'	
+word	s	
+gap	 	
+word	experience	
+gap	 	
+word	in	
+gap	 20	
+word	th	
+gap	 	
+word	century	
+gap	'	
+word	s	
+gap	 	
+word	and	
+gap	 	
+word	provoke	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	fear	
+gap	 	
+word	about	
+gap	 	
+word	future	
+gap	. 	
+word	I	
+gap	 	
+word	admit	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	inextricable	
+gap	 	
+word	link	
+gap	 	
+word	between	
+gap	 	
+word	this	
+gap	 	
+word	and	
+gap	 	
+word	what	
+gap	 	
+word	about	
+gap	 	
+word	to	
+gap	 	
+word	say	
+gap	, 	
+word	but	
+gap	 	
+word	I	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	show	
+gap	 	
+word	other	
+gap	 	
+word	approach	
+gap	, 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	focused	
+gap	 	
+word	on	
+gap	 	
+word	material	
+gap	 	
+word	culture	
+gap	 	
+word	studies	
+gap	 	
+word	about	
+gap	 	
+word	memory	
+gap	 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	valuation	
+gap	 	
+word	of	
+gap	 	
+word	elements	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	past	
+gap	 	
+word	in	
+gap	 	
+word	contemporary	
+gap	. 	
+word	I	
+gap	 	
+word	argue	
+gap	 	
+word	that	
+gap	 	
+word	market	
+gap	 	
+word	serial	
+gap	 	
+word	updates	
+gap	 	
+word	in	
+gap	 	
+word	short	
+gap	 	
+word	time	
+gap	 	
+word	to	
+gap	 	
+word	stimulate	
+gap	 	
+word	the	
+gap	 	
+word	consume	
+gap	 	
+word	can	
+gap	 	
+word	cause	
+gap	 	
+word	in	
+gap	 	
+word	people	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	aspect	
+gap	 	
+word	of	
+gap	 	
+word	FOMO	
+gap	 (	
+word	Fear	
+gap	 	
+word	of	
+gap	 	
+word	Missing	
+gap	 	
+word	Out	
+gap	), 	
+word	inducing	
+gap	 	
+word	them	
+gap	  	
+word	to	
+gap	 	
+word	think	
+gap	 	
+word	that	
+gap	 	
+word	lives	
+gap	 	
+word	in	
+gap	 	
+word	society	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	adapt	
+gap	 	
+word	and	
+gap	 	
+word	follow	
+gap	 	
+word	trends	
+gap	, 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	case	
+gap	, 	
+word	the	
+gap	 	
+word	consume	
+gap	. 	
+word	In	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	the	
+gap	 	
+word	nostalgic	
+gap	 	
+word	feeling	
+gap	 	
+word	about	
+gap	 	
+word	using	
+gap	 	
+word	something	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	time	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	lives	
+gap	, 	
+word	in	
+gap	 	
+word	nowadays	
+gap	, 	
+word	is	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	industry	
+gap	'	
+word	s	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	market	
+gap	 	
+word	share	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	explored	
+gap	 	
+word	by	
+gap	 	
+word	them	
+gap	 	
+word	with	
+gap	 	
+word	new	
+gap	 	
+word	products	
+gap	 	
+word	with	
+gap	 	
+word	vintage	
+gap	 	
+word	aesthetic	
+gap	 	
+word	and	
+gap	 	
+word	technology	
+gap	 	
+word	optimization	
+gap	.\n	
+word	This	
+gap	 	
+word	memory	
+gap	 	
+word	crisis	
+gap	 	
+word	also	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	identity	
+gap	 	
+word	ones	
+gap	. 	
+word	Once	
+gap	 	
+word	in	
+gap	 	
+word	society	
+gap	 	
+word	that	
+gap	  	
+word	work	
+gap	 	
+word	for	
+gap	 	
+word	progress	
+gap	 	
+word	people	
+gap	 	
+word	have	
+gap	 	
+word	no	
+gap	 	
+word	more	
+gap	 	
+word	a	
+gap	 	
+word	perception	
+gap	 	
+word	about	
+gap	 	
+word	themselves	
+gap	  	
+word	separated	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	job	
+gap	 	
+word	and	
+gap	 	
+word	what	
+gap	 	
+word	it	
+gap	 	
+word	consumes	
+gap	.  	
+word	The	
+gap	 	
+word	subjectivity	
+gap	 	
+word	is	
+gap	 	
+word	built	
+gap	 	
+word	by	
+gap	 	
+word	it	
+gap	 	
+word	identification	
+gap	. 	
+word	Differently	
+gap	, 	
+word	in	
+gap	 	
+word	traditional	
+gap	 	
+word	societies	
+gap	, 	
+word	the	
+gap	 	
+word	subjectivity	
+gap	 	
+word	is	
+gap	 	
+word	main	
+gap	 	
+word	of	
+gap	 	
+word	compilation	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	religion	
+gap	, 	
+word	the	
+gap	 	
+word	cyclical	
+gap	 	
+word	perception	
+gap	 	
+word	of	
+gap	  	
+word	time	
+gap	, 	
+word	memory	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	interpretative	
+gap	 	
+word	knowledge	
+gap	 	
+word	about	
+gap	 	
+word	reality	
+gap	. 	
+word	So	
+gap	, 	
+word	here	
+gap	, 	
+word	the	
+gap	 	
+word	person	
+gap	 	
+word	is	
+gap	 	
+word	agent	
+gap	 	
+word	that	
+gap	 	
+word	follow	
+gap	 	
+word	a	
+gap	 	
+word	millennial	
+gap	 	
+word	tradition	
+gap	 	
+word	and	
+gap	 	
+word	grasp	
+gap	 	
+word	itself	
+gap	 	
+word	as	
+gap	 	
+word	unity	
+gap	 	
+word	with	
+gap	 	
+word	well	
+gap	 	
+word	defined	
+gap	 	
+word	importance	
+gap	 	
+word	to	
+gap	 	
+word	it	
+gap	 	
+word	social	
+gap	  	
+word	structure	
+gap	. 	
+word	In	
+gap	 	
+word	both	
+gap	 	
+word	case	
+gap	, 	
+word	the	
+gap	 	
+word	material	
+gap	 	
+word	culture	
+gap	 	
+word	measure	
+gap	 	
+word	their	
+gap	 	
+word	ethnic	
+gap	 	
+word	identity	
+gap	 	
+word	and	
+gap	 	
+word	their	
+gap	 	
+word	subjectivity	
+gap	 	
+word	construction	
+gap	 	
+word	vary	
+gap	 	
+word	by	
+gap	 	
+word	social	
+gap	 	
+word	setting	
+gap	. 	
+word	In	
+gap	 	
+word	traditional	
+gap	 	
+word	one	
+gap	, 	
+word	time	
+gap	 	
+word	is	
+gap	  	
+word	a	
+gap	 	
+word	cycle	
+gap	 	
+word	and	
+gap	 	
+word	past	
+gap	 	
+word	is	
+gap	 	
+word	revived	
+gap	 	
+word	in	
+gap	 	
+word	commemorative	
+gap	 	
+word	dates	
+gap	 	
+word	and	
+gap	 	
+word	sazon	
+gap	. 	
+word	The	
+gap	 	
+word	social	
+gap	 	
+word	memory	
+gap	 	
+word	is	
+gap	 	
+word	constantly	
+gap	 	
+word	revived	
+gap	 	
+word	and	
+gap	 	
+word	reaffirmed	
+gap	 	
+word	by	
+gap	 	
+word	preservation	
+gap	 	
+word	of	
+gap	 	
+word	practices	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	transmission	
+gap	 	
+word	to	
+gap	 	
+word	new	
+gap	 	
+word	generations	
+gap	. 	
+word	But	
+gap	, 	
+word	in	
+gap	 	
+word	complex	
+gap	 	
+word	societies	
+gap	, 	
+word	time	
+gap	 	
+word	is	
+gap	 	
+word	separated	
+gap	. 	
+word	Past	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	some	
+gap	 	
+word	that	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	revived	
+gap	 	
+word	or	
+gap	 	
+word	experimented	
+gap	 	
+word	in	
+gap	 	
+word	nowadays	
+gap	. 	
+word	What	
+gap	 	
+word	it	
+gap	 	
+word	got	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	 	
+word	is	
+gap	 	
+word	brief	
+gap	 	
+word	references	
+gap	 	
+word	or	
+gap	 	
+word	it	
+gap	 	
+word	aesthetic	
+gap	 	
+word	adaptation	
+gap	.	

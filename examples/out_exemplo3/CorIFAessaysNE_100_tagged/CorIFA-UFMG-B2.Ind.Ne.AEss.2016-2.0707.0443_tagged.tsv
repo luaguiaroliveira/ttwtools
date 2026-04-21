@@ -1,1046 +1,1671 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0707.0443.txt
-token	tags
-﻿	NNP
-    	
-The	ART CAP DET
-normal	JJ
-respiratory	JJ
-movement	NOMZ
-that	TSUB WHSUB WH
-furthers	VPRT
-the	ART DET
-respiratory	JJ
-cycle	NN
-consists	VPRT
-of	PIN PREP
-expansion	NOMZ
-and	PHC CCONJ
-retraction	NOMZ
-of	PIN PREP
-rib	NN
-cage	NN
-and	PHC CCONJ
-abdomen	NN
-,	
-in	PIN CONJ PREP
-a	ART DET INDA
-synchronic	JJ
-way	NN
-,	
-during	PIN PREP
-inspiration	NOMZ
-and	PHC CCONJ
-expiration	NOMZ
-,	
-respectively	RB
-(	
-1	NUM
-)	
-.	
-The	ART CAP DET
-breathing	NN
-pattern	NN
-is	PASS VPRT AUXB
-composed	
-of	PIN PREP
-variables	NN
-related	WZPAST
-to	PIN PREP
-respiratory	JJ
-times	NN
-and	PHC CCONJ
-volumes	NN
-,	
-and	ANDC CCONJ
-control	NN
-of	PIN PREP
-both	DET
-seems	VPRT SMP
-to	PIN TO PREP
-require	SUAV INF
-an	ART DET INDA
-integrated	JJ
-and	PHC CCONJ
-coordinated	JJ
-action	NOMZ
-of	PIN PREP
-central	JJ
-,	
-peripheral	JJ
-and	PHC CCONJ
-muscular	JJ
-mechanisms	NN
-(	
-1,2	NUM
-)	
-.	
-At	PIN CAP PREP
-rest	NN
-,	
-during	PIN PREP
-quite	JJ
-breathing	NN
-,	
-is	PASS VPRT AUXB
-noticed	PRIV
-that	PIN THVC SCONJ PREP
-rib	NN
-cage	NN
-and	PHC CCONJ
-abdomen	NN
-move	VPRT SUAV
-with	PIN PREP
-considerable	JJ
-independence	NN
-,	
-accommodating	GER PGAS
-different	JJ
-volumes	NN
-harmonically	RB
-.	
- 	
-It	PIT CAP PRP SBJP
-has	VPRT PEAS
-been	PASS SPAU AUXB
-increasingly	RB
-recognized	PRIV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-detailed	JJ
-analysis	NN
-of	PIN PREP
-the	ART DET
-breathing	NN
-pattern	NN
-and	CCONJ
-thoracoabdmominal	JJ
-motion	NOMZ
-can	POMD
-provide	INF
-valuable	JJ
-information	NOMZ
-about	PIN PREP
-the	ART DET
-capacity	NOMZ
-of	PIN PREP
-the	ART DET
-respiratory	JJ
-system	NN
-.	
-As	PIN CONJ CAP PREP
-advances	NN
-had	VBD PEAS
-been	PASS AUXB
-made	
-in	PIN CONJ PREP
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-elucidate	INF
-the	ART DET
-mechanisms	NN
-involved	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-control	NN
-of	PIN PREP
-breathing	NN
-pattern	NN
-and	CCONJ
-thoracoabdominal	JJ
-motion	NOMZ
-,	
-improvements	NOMZ
-in	PIN CONJ PREP
-instrumentation	NOMZ
-used	WZPAST
-for	PIN PREP
-its	PIT PRP SBJP
-evaluation	NOMZ
-were	PASS VBD SPAU AUXB
-also	RB
-developed	
-(	
-3,4,5	NUM
-)	
-.	
- 	
-Both	CAP DET
-breathing	NN
-pattern	NN
-and	CCONJ
-thoracoabdominal	JJ
-motion	NOMZ
-depend	VPRT
-on	PIN PREP
-the	ART DET
-compliance	NN
-of	PIN PREP
-the	ART DET
-compartments	NOMZ
-(	
-6	NUM
-)	
-,	
-and	ANDC CCONJ
-thus	RB CONJ
-,	
-are	PASS VPRT BYPA AUXB
-influenced	
-by	PIN PREP
-different	JJ
-factors	NN
-such	JJ
-as	PIN CONJ PREP
-position	NOMZ
-of	PIN PREP
-the	ART DET
-individual	NN
-(	
-7,8,9,10,12,13	NNP
-)	
-,	
-sex	NN
-(	
-9,10,11,12	NUM
-)	
-,	
-age	NN
-(	
-9,14,15	NUM
-)	
-,	
-among	PIN PREP
-others	NN
-(	
-16,17	NUM
-)	
-.	
- 	
-The	ART CAP DET
-influence	NN
-of	PIN PREP
-position	NOMZ
-on	PIN PREP
-thoracoabdmominal	JJ
-motion	NOMZ
-of	PIN PREP
-healthy	JJ
-subjects	NN
-was	PASS VBD SPAU AUXB
-extensively	RB
-studied	
-in	PIN CONJ PREP
-the	ART DET
-literature(7,8,9,10,12,13	NN
-)	
-,	
-being	PASS PRESP SPAU AUXB
-currently	RB
-well	RB
-established	PRIV
-that	PIN THVC SCONJ PREP
-posture	NN
-promotes	VPRT
-changes	NN
-in	PIN CONJ PREP
-the	ART DET
-kinematics	NN
-of	PIN PREP
-chest	NN
-wall	NN
-during	PIN PREP
-quiet	JJ
-breathing	NN
-.	
-Previous	JJ CAP
-studies	NN
-(	
-7,8,9,10,12,13	NUM
-)	
-have	VPRT PEAS
-investigated	
-the	ART DET
-erected	
-position	NOMZ
-(	
-standing	NN
-and	PHC CCONJ
-sitting	NN
-)	
-,	
-supine	JJ
-,	
-prone	JJ
-,	
-lateral	JJ
-decubitus	NN
-or	CCONJ
-varying	PGAS
-degrees	NN
-of	PIN PREP
-trunk	NN
-inclination	NOMZ
-in	PIN CONJ PREP
-healthy	JJ
-subjects	NN
-,	
-through	PIN PREP
-different	JJ
-instruments	NOMZ
-:	
-mercury	NN
-in	PIN CONJ PREP
-silastic	JJ
-strain	NN
-gauges	NN
-(	
-7	NUM
-)	
-;	
-magnetometers	NN
-(	
-10,11	NNP
-)	
-;	
-respiratory	JJ
-inductive	JJ
-plethysmography	NN
-(	
-9	NUM
-)	
-and	ANDC CCONJ
-optoelectronic	JJ
-plethysmography	NN
-(	
-12,13	NUM
-)	
-.	
-Despite	PIN CAP SCONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-different	JJ
-measurement	NOMZ
-techniques	NN
-,	
-these	DEMO DET
-authors	NN
-(	
-7,8,9,10,12,13	NNP
-)	
-agreed	VBD PUBV SUAV
-to	PIN TO PREP
-show	PRIV THATD INF
-that	PIN DEMP SCONJ PREP
-resting	PGAS
-breathing	NN
-is	VPRT SPAU AUXB
-predominantly	RB
-thoracic	INF
-in	PIN CONJ PREP
-erect	JJ
-positions	NOMZ
-and	CCONJ
-abdominal	JJ
-in	PIN CONJ PREP
-supine	JJ
-position	NOMZ
-.	
- 	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-the	ART DET
-effect	NN
-of	PIN PREP
-the	ART DET
-change	NN
-of	PIN PREP
-posture	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-was	PASS VBD SPAU AUXB
-little	RB
-studied	
-(	
-8,12,13	NUM
-)	
-and	ANDC CCONJ
-measurements	NOMZ
-were	PASS VBD BYPA AUXB
-obtained	
-by	PIN PREP
-two	NUM
-different	JJ
-instruments	NOMZ
-:	
-pneumotachograph8	NN
-and	CCONJ
-optoelectronic	JJ
-plethysmography	NN
-(	
-12,13	NUM
-)	
-.	
-While	OSUB PIN CAP SCONJ PREP
-Baydur	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-8)	NNP
-did	VBD SPAU
-not	XX0 RB
-observed	PRIV
-changes	NN
-of	PIN PREP
-tidal	JJ
-volume	NN
-and	PHC CCONJ
-minute	NN
-ventilation	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-change	NN
-of	PIN PREP
-sitting	PGAS
-posture	NN
-to	PIN PREP
-supine	JJ
-,	
-Romei	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-12	NUM
-)	
-registered	VBD
-higher	JJ CMADJ
-values	NN
-of	PIN PREP
-tidal	JJ
-volume	NN
-and	PHC CCONJ
-minute	NN
-ventilation	NOMZ
-in	PIN CONJ PREP
-seating	PGAS
-position	NOMZ
-.	
-Additionally	RB CAP
-,	
-Priori	CAP NNP
-et	NN
-al.(13	NN
-)	
-did	VBD SPAU
-not	XX0 RB
-observe	PRIV INF
-changes	NN
-in	PIN CONJ PREP
-any	QUAN DET
-variables	NN
-of	PIN PREP
-breathing	NN
-pattern	NN
-evaluated	VBD
-,	
-with	PIN PREP
-the	ART DET
-change	NN
-of	PIN PREP
-the	ART DET
-sitting	PGAS
-position	NOMZ
-to	PIN PREP
-supine	NN
-.	
-Of	PIN CAP PREP
-the	ART DET
-four	NUM
-studies	NN
-using	WZPRES PGAS
-optoelectronic	JJ
-plethysmography	NN
-,	
-two	NUM
-(	
-18,19	NNP
-)	
-analyzed	VBD
-the	ART DET
-impact	NN
-of	PIN PREP
-the	ART DET
-change	NN
-in	PIN CONJ PREP
-position	NOMZ
-just	RB EMPH
-in	PIN CONJ PREP
-thoracoabminal	JJ
-motion	NOMZ
-.	
-Although	CONC PIN CAP SCONJ PREP
-Romei	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-12	NUM
-)	
-and	ANDC CCONJ
-Priori	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-13	NUM
-)	
-have	VPRT PEAS
-assessed	
-both	DET
-breathing	NN
-pattern	NN
-as	PIN CONJ PREP
-the	ART DET
-kinematics	NN
-of	PIN PREP
-chest	NN
-wall	NN
-,	
-were	PASS VBD SPAU AUXB
-not	XX0 RB
-described	
-important	JJ
-variables	NN
-of	PIN PREP
-the	ART DET
-breathing	NN
-pattern	NN
-such	JJ
-as	PIN CONJ STPR PREP
-:	
-end	NN
--	
-inspiratory	NN
-chest	NN
-wall	NNP
-volume	NNP
-,	
-end	NN
--	
-expiratory	NN
-chest	NN
-wall	NNP
-volume	NNP
-,	
-ratio	NN
-of	PIN PREP
-inspiratory	JJ
-time	NN
-to	PIN PREP
-total	JJ
-time	NN
-of	PIN PREP
-the	ART DET
-respiratory	JJ
-cycle	NN
-and	CCONJ
-mean	VPRT PRIV
-inspiratory	NN
-flow	NN
-in	PIN CONJ PREP
-the	ART DET
-study	NN
-of	PIN PREP
-Romei	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-12	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-with	PIN PREP
-regard	NN
-to	PIN PREP
-the	ART DET
-thoracoabdominal	JJ
-motion	NOMZ
-,	
-the	ART DET
-response	NN
-of	PIN PREP
-the	ART DET
-abdominal	JJ
-rib	NN
-cage	NN
-to	PIN PREP
-different	JJ
-postures	NN
-it	PIT PRP SBJP
-was	PASS VBD SPAU AUXB
-not	XX0 RB
-evaluated	
-and	ANDC CCONJ
-this	DEMP DET
-is	PASS VPRT AUXB
-considered	PRIV
-an	ART DET INDA
-important	JJ
-distinguishing	GER
-factor	NN
-of	PIN PREP
-this	DEMO DET
-instrument	NOMZ
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-that	PIN TOBJ THVC SCONJ PREP
-the	ART DET
-forces	NN
-acting	WZPRES PGAS
-on	PIN PREP
-the	ART DET
-upper	JJ
-rib	NN
-cage	NN
-(	
-adjacent	JJ
-to	PIN PREP
-lungs	NN
-)	
-are	BEMA VPRT AUXB
-quite	RB
-different	JJ
-from	PIN PREP
-those	DEMP DET
-acting	PGAS
-on	PIN PREP
-its	PIT PRP SBJP
-bottom	NN
-(	
-adjacent	JJ
-to	PIN PREP
-diaphragm	NNP
-)	
-.	
-Finally	RB CAP
-,	
-in	PIN CONJ PREP
-the	ART DET
-study	NN
-of	PIN PREP
-Priori	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-13	NUM
-)	
-only	DWNT RB
-12	NUM
-subjects	NN
-were	PASS VBD AUXB
-analyzed	
-and	CCONJ
-the	ART DET
-study	NN
-did	VBD PROD SPAU
-not	XX0 RB
-have	INF
-as	PIN CONJ PREP
-a	ART DET INDA
-primary	JJ
-objective	NN
-the	ART DET
-evaluation	NOMZ
-of	PIN PREP
-the	ART DET
-breathing	NN
-pattern	NN
-and	CCONJ
-thoracoabdominal	JJ
-motion	NOMZ
-response	NN
-to	PIN PREP
-the	ART DET
-change	NN
-of	PIN PREP
-position	NOMZ
-.	
- 	
-The	ART CAP DET
-effects	NN
-of	PIN PREP
-gender	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-were	BEMA VBD AUXB
-little	RB
-studied	JJ
-(	
-12,20	NUM
-)	
-and	ANDC CCONJ
-the	ART DET
-influence	NN
-on	PIN PREP
-the	ART DET
-kinematics	NN
-of	PIN PREP
-the	ART DET
-chest	NN
-wall	NN
-remains	VPRT
-controversial	JJ
-.	
-The	ART CAP DET
-only	JJ DWNT
-studies	NN
-(	
-12,20	NUM
-)	
-that	DEMP WH
-assessed	VBD
-the	ART DET
-influence	NN
-of	PIN PREP
-gender	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-,	
-observed	VBD PRIV
-lower	JJ CMADJ
-tidal	JJ
-volumes	NN
-and	PHC CCONJ
-minute	NN
-ventilation	NOMZ
-in	PIN CONJ PREP
-women	NN
-in	PIN CONJ PREP
-comparison	NN
-with	PIN PREP
-men	NN
-.	
-Additionally	RB CAP
-,	
-regarding	PRESP PGAS
-the	ART DET
-thoracoabdominal	JJ
-motion	NOMZ
-,	
-while	OSUB PIN SCONJ PREP
-some	QUAN DET
-authors	NN
-reported	VBD PUBV
-greater	JJ CMADJ
-relative	JJ
-contribution	NOMZ
-of	PIN PREP
-rib	NN
-cage	NN
-in	PIN CONJ PREP
-women	NN
-(	
-10,12,21	NUM
-)	
-,	
-others	NN
-observed	VBD PRIV
-similar	JJ
-contributions	NOMZ
-in	PIN CONJ PREP
-both	DET
-sexes	NN
-(	
-9,11,20	NUM
-)	
-.	
-Only	DWNT RB CAP
-the	ART DET
-study	NN
-of	PIN PREP
-Romei	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-12	NUM
-)	
-used	VBD
-the	ART DET
-optoelectronic	JJ
-plethysmography	NN
-,	
-however	RB CONJ
-,	
-the	ART DET
-influence	NN
-of	PIN PREP
-sex	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-was	PASS VBD AUXB
-restricted	
-to	PIN PREP
-the	ART DET
-analysis	NN
-of	PIN PREP
-chest	NN
-wall	NNP
-tidal	JJ
-volume	NN
-,	
-minute	NN
-ventilation	NOMZ
-and	CCONJ
-respiratory	JJ
-rate	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-evaluation	NOMZ
-of	PIN PREP
-the	ART DET
-effect	NN
-of	PIN PREP
-sex	NN
-in	PIN CONJ PREP
-abdominal	JJ
-rib	NN
-cage	NN
-has	VPRT PEAS SPAU
-not	XX0 RB
-been	PASS AUXB
-reported	PUBV
-,	
-and	ANDC CCONJ
-,	
-according	PGAS
-with	PIN PREP
-our	FPP1 PRP SBJP
-knowledge	NN
-,	
-has	VPRT PEAS SPAU
-not	XX0 RB
-been	PASS AUXB
-assessed	
-in	PIN CONJ PREP
-the	ART DET
-literature	NN
-.	
-The	ART CAP DET
-possibility	NOMZ
-of	PIN PREP
-the	ART DET
-interaction	NOMZ
-between	PIN PREP
-posture	NN
-and	PHC CCONJ
-sex	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-and	CCONJ
-thoracoabdominal	JJ
-motion	NOMZ
-during	PIN PREP
-quite	JJ
-breathing	NN
-was	PASS VBD SPAU AUXB
-only	DWNT RB
-proposed	SUAV
-in	PIN CONJ PREP
-this	DEMO DET
-study	NN
-(	
-12	NUM
-)	
-,	
-however	RB CONJ
-,	
-the	ART DET
-analysis	NN
-of	PIN PREP
-this	DEMO DET
-interaction	NOMZ
-has	VPRT PEAS SPAU
-not	XX0 RB
-been	PASS AUXB
-reported	PUBV
-clearly	RB
-.	
- 	
-Finally	RB CAP
-,	
-regarding	PGAS
-to	PIN PREP
-age	NN
-,	
-all	QUAN DET
-authors	NN
-(	
-9,14,15	NUM
-)	
-in	PIN CONJ PREP
-the	ART DET
-literature	NN
-reviewed	VBD
-,	
-found	VBD PRIV
-no	SYNE DET
-difference	NN
-for	PIN PREP
-the	ART DET
-evaluated	JJ
-variables	NN
-,	
-suggesting	GER PUBV SUAV PGAS
-that	PIN THVC SCONJ PREP
-the	ART DET
-aging	PGAS
-process	NN
-does	VPRT SPAU
-not	XX0 RB
-influence	INF
-the	ART DET
-breathing	NN
-pattern	NN
-and	CCONJ
-the	ART DET
-thoracoabdominal	JJ
-motion	NOMZ
-of	PIN PREP
-healthy	JJ
-individuals	NN
-.	
-Although	CONC PIN STPR CAP SCONJ PREP
-,	
-all	QUAN DET
-studies	NN
-have	VPRT PEAS
-been	PASS AUXB
-used	
-the	ART DET
-respiratory	JJ
-inductive	JJ
-plethysmography	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-evaluation	NOMZ
-instrument	NOMZ
-,	
-and	ANDC CCONJ
-considering	GER PRIV PGAS
-the	ART DET
-limitations	NOMZ
-of	PIN PREP
-this	DEMO DET
-instrument	NOMZ
-,	
-the	ART DET
-measurement	NOMZ
-of	PIN PREP
-the	ART DET
-volume	NN
-variations	NOMZ
-through	PIN PREP
-the	ART DET
-cross	JJ
--	JJ
-sectional	JJ
-area	NN
-appears	VPRT SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-prone	JJ PRED
-to	PIN PREP
-errors	NN
-(	
-20	NUM
-)	
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-well	RB
-known	PRIV
-that	PIN THVC SCONJ PREP
-posture	NN
-influences	VPRT
-the	ART DET
-thoracoabdominal	JJ
-motion	NOMZ
-.	
-The	ART CAP DET
-influence	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-,	
-however	RB CONJ
-,	
-has	VPRT PEAS
-been	PASS SPAU AUXB
-little	RB
-studied	
-.	
-The	ART CAP DET
-effect	NN
-of	PIN PREP
-gender	NN
-on	PIN PREP
-breathing	NN
-pattern	NN
-was	PASS VBD SPAU AUXB
-little	RB
-explored	
-and	CCONJ
-the	ART DET
-influence	NN
-on	PIN PREP
-kinematics	NN
-of	PIN PREP
-the	ART DET
-chest	NN
-wall	NN
-still	RB
-controversial	JJ
-.	
-Regarding	CAP PGAS
-to	PIN PREP
-age	NN
-,	
-the	ART DET
-literature	NN
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-aging	NN
-does	VPRT SPAU
-not	XX0 RB
-change	INF
-the	ART DET
-breathing	NN
-pattern	NN
-and	CCONJ
-thoracoabdominal	JJ
-motion	NOMZ
-.	
-                         	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0707.0443>\n\n<What factors influence breathing pattern and thoracoabdominal motion during quiet breathing in healthy subjects?>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	normal	JJ
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	movement	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	furthers	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	cycle	NN
+gap	 	
+word	consists	VPRT
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	expansion	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	retraction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rib	NN
+gap	 	
+word	cage	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	abdomen	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	synchronic	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	during	PIN PREP
+gap	 	
+word	inspiration	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	expiration	NOMZ
+gap	, 	
+word	respectively	RB
+gap	 (1). 	
+word	The	ART CAP DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	composed	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	variables	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	times	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	volumes	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	control	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	require	SUAV INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	integrated	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	coordinated	JJ
+gap	 	
+word	action	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	central	JJ
+gap	, 	
+word	peripheral	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	muscular	JJ
+gap	 	
+word	mechanisms	NN
+gap	 (1,2). 	
+word	At	PIN CAP PREP
+gap	 	
+word	rest	NN
+gap	, 	
+word	during	PIN PREP
+gap	 	
+word	quite	JJ
+gap	 	
+word	breathing	NN
+gap	, 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	noticed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	rib	NN
+gap	 	
+word	cage	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	abdomen	NN
+gap	 	
+word	move	VPRT SUAV
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	considerable	JJ
+gap	 	
+word	independence	NN
+gap	, 	
+word	accommodating	GER PGAS
+gap	 	
+word	different	JJ
+gap	 	
+word	volumes	NN
+gap	 	
+word	harmonically	RB
+gap	.\n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	increasingly	RB
+gap	 	
+word	recognized	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	detailed	JJ
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thoracoabdmominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	provide	INF
+gap	 	
+word	valuable	JJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	system	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	advances	NN
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	made	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	elucidate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	mechanisms	NN
+gap	 	
+word	involved	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	control	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	, 	
+word	improvements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	instrumentation	NOMZ
+gap	 	
+word	used	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	developed	
+gap	 (3,4,5).\n	
+word	Both	CAP DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	depend	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	compliance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	compartments	NOMZ
+gap	 (6), 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	, 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	influenced	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	factors	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	position	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	NN
+gap	 (7,8,9,10,12,13), 	
+word	sex	NN
+gap	 (9,10,11,12), 	
+word	age	NN
+gap	 (9,14,15), 	
+word	among	PIN PREP
+gap	 	
+word	others	NN
+gap	 (16,17).\n	
+word	The	ART CAP DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	position	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	thoracoabdmominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	healthy	JJ
+gap	 	
+word	subjects	NN
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	extensively	RB
+gap	 	
+word	studied	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	literature	NN
+gap	(7,8,9,10,12,13), 	
+word	being	PASS PRESP SPAU AUXB
+gap	 	
+word	currently	RB
+gap	 	
+word	well	RB
+gap	 	
+word	established	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	posture	NN
+gap	 	
+word	promotes	VPRT
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kinematics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NN
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	quiet	JJ
+gap	 	
+word	breathing	NN
+gap	. 	
+word	Previous	JJ CAP
+gap	 	
+word	studies	NN
+gap	 (7,8,9,10,12,13) 	
+word	have	VPRT PEAS
+gap	 	
+word	investigated	
+gap	 	
+word	the	ART DET
+gap	 	
+word	erected	
+gap	 	
+word	position	NOMZ
+gap	 (	
+word	standing	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	sitting	NN
+gap	), 	
+word	supine	JJ
+gap	, 	
+word	prone	JJ
+gap	, 	
+word	lateral	JJ
+gap	 	
+word	decubitus	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	varying	PGAS
+gap	 	
+word	degrees	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	trunk	NN
+gap	 	
+word	inclination	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	healthy	JJ
+gap	 	
+word	subjects	NN
+gap	, 	
+word	through	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	instruments	NOMZ
+gap	: 	
+word	mercury	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	silastic	JJ
+gap	 	
+word	strain	NN
+gap	 	
+word	gauges	NN
+gap	 (7); 	
+word	magnetometers	NN
+gap	 (10,11); 	
+word	respiratory	JJ
+gap	 	
+word	inductive	JJ
+gap	 	
+word	plethysmography	NN
+gap	 (9) 	
+word	and	ANDC CCONJ
+gap	 	
+word	optoelectronic	JJ
+gap	 	
+word	plethysmography	NN
+gap	 (12,13). 	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	measurement	NOMZ
+gap	 	
+word	techniques	NN
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	authors	NN
+gap	 (7,8,9,10,12,13) 	
+word	agreed	VBD PUBV SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	show	PRIV THATD INF
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	resting	PGAS
+gap	 	
+word	breathing	NN
+gap	 	
+word	is	VPRT SPAU AUXB
+gap	 	
+word	predominantly	RB
+gap	 	
+word	thoracic	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	erect	JJ
+gap	 	
+word	positions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	abdominal	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	supine	JJ
+gap	 	
+word	position	NOMZ
+gap	.\n	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	effect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	posture	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	little	RB
+gap	 	
+word	studied	
+gap	 (8,12,13) 	
+word	and	ANDC CCONJ
+gap	 	
+word	measurements	NOMZ
+gap	 	
+word	were	PASS VBD BYPA AUXB
+gap	 	
+word	obtained	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	different	JJ
+gap	 	
+word	instruments	NOMZ
+gap	: 	
+word	pneumotachograph	NN
+gap	8 	
+word	and	CCONJ
+gap	 	
+word	optoelectronic	JJ
+gap	 	
+word	plethysmography	NN
+gap	 (12,13). 	
+word	While	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	Baydur	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (8) 	
+word	did	VBD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	observed	PRIV
+gap	 	
+word	changes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tidal	JJ
+gap	 	
+word	volume	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	minute	NN
+gap	 	
+word	ventilation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sitting	PGAS
+gap	 	
+word	posture	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	supine	JJ
+gap	, 	
+word	Romei	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (12) 	
+word	registered	VBD
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	values	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tidal	JJ
+gap	 	
+word	volume	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	minute	NN
+gap	 	
+word	ventilation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	seating	PGAS
+gap	 	
+word	position	NOMZ
+gap	. 	
+word	Additionally	RB CAP
+gap	, 	
+word	Priori	CAP NNP
+gap	 	
+word	et	NN
+gap	 	
+word	al	NN
+gap	.(13) 	
+word	did	VBD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	observe	PRIV INF
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	variables	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	evaluated	VBD
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sitting	PGAS
+gap	 	
+word	position	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	supine	NN
+gap	. 	
+word	Of	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	four	NUM
+gap	 	
+word	studies	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	optoelectronic	JJ
+gap	 	
+word	plethysmography	NN
+gap	, 	
+word	two	NUM
+gap	 (18,19) 	
+word	analyzed	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	impact	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	position	NOMZ
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	thoracoabminal	JJ
+gap	 	
+word	motion	NOMZ
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	Romei	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (12) 	
+word	and	ANDC CCONJ
+gap	 	
+word	Priori	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (13) 	
+word	have	VPRT PEAS
+gap	 	
+word	assessed	
+gap	 	
+word	both	DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kinematics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NN
+gap	, 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	described	
+gap	 	
+word	important	JJ
+gap	 	
+word	variables	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	: 	
+word	end	NN
+gap	-	
+word	inspiratory	NN
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NNP
+gap	 	
+word	volume	NNP
+gap	, 	
+word	end	NN
+gap	-	
+word	expiratory	NN
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NNP
+gap	 	
+word	volume	NNP
+gap	, 	
+word	ratio	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	inspiratory	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	total	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	cycle	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	mean	VPRT PRIV
+gap	 	
+word	inspiratory	NN
+gap	 	
+word	flow	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Romei	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (12). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	regard	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	abdominal	JJ
+gap	 	
+word	rib	NN
+gap	 	
+word	cage	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	postures	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	evaluated	
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	distinguishing	GER
+gap	 	
+word	factor	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	instrument	NOMZ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	forces	NN
+gap	 	
+word	acting	WZPRES PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	upper	JJ
+gap	 	
+word	rib	NN
+gap	 	
+word	cage	NN
+gap	 (	
+word	adjacent	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	lungs	NN
+gap	) 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	quite	RB
+gap	 	
+word	different	JJ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	acting	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	bottom	NN
+gap	 (	
+word	adjacent	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	diaphragm	NNP
+gap	). 	
+word	Finally	RB CAP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Priori	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (13) 	
+word	only	DWNT RB
+gap	 12 	
+word	subjects	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	analyzed	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	did	VBD PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	INF
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	primary	JJ
+gap	 	
+word	objective	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	response	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	position	NOMZ
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	effects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gender	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	little	RB
+gap	 	
+word	studied	JJ
+gap	 (12,20) 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kinematics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NN
+gap	 	
+word	remains	VPRT
+gap	 	
+word	controversial	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	studies	NN
+gap	 (12,20) 	
+word	that	DEMP WH
+gap	 	
+word	assessed	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gender	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	, 	
+word	observed	VBD PRIV
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	tidal	JJ
+gap	 	
+word	volumes	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	minute	NN
+gap	 	
+word	ventilation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	women	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	comparison	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	men	NN
+gap	. 	
+word	Additionally	RB CAP
+gap	, 	
+word	regarding	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	, 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	authors	NN
+gap	 	
+word	reported	VBD PUBV
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	relative	JJ
+gap	 	
+word	contribution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rib	NN
+gap	 	
+word	cage	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	women	NN
+gap	 (10,12,21), 	
+word	others	NN
+gap	 	
+word	observed	VBD PRIV
+gap	 	
+word	similar	JJ
+gap	 	
+word	contributions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	both	DET
+gap	 	
+word	sexes	NN
+gap	 (9,11,20). 	
+word	Only	DWNT RB CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Romei	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. (12) 	
+word	used	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	optoelectronic	JJ
+gap	 	
+word	plethysmography	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sex	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	restricted	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NNP
+gap	 	
+word	tidal	JJ
+gap	 	
+word	volume	NN
+gap	, 	
+word	minute	NN
+gap	 	
+word	ventilation	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	rate	NN
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	effect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sex	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	abdominal	JJ
+gap	 	
+word	rib	NN
+gap	 	
+word	cage	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	reported	PUBV
+gap	, 	
+word	and	ANDC CCONJ
+gap	, 	
+word	according	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	knowledge	NN
+gap	, 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	assessed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	literature	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	posture	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	sex	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	quite	JJ
+gap	 	
+word	breathing	NN
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	proposed	SUAV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	study	NN
+gap	 (12), 	
+word	however	RB CONJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	reported	PUBV
+gap	 	
+word	clearly	RB
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	regarding	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	age	NN
+gap	, 	
+word	all	QUAN DET
+gap	 	
+word	authors	NN
+gap	 (9,14,15) 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	literature	NN
+gap	 	
+word	reviewed	VBD
+gap	, 	
+word	found	VBD PRIV
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	difference	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	evaluated	JJ
+gap	 	
+word	variables	NN
+gap	, 	
+word	suggesting	GER PUBV SUAV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	aging	PGAS
+gap	 	
+word	process	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	influence	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	healthy	JJ
+gap	 	
+word	individuals	NN
+gap	. 	
+word	Although	CONC PIN STPR CAP SCONJ PREP
+gap	, 	
+word	all	QUAN DET
+gap	 	
+word	studies	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	used	
+gap	 	
+word	the	ART DET
+gap	 	
+word	respiratory	JJ
+gap	 	
+word	inductive	JJ
+gap	 	
+word	plethysmography	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	instrument	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	limitations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	instrument	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	measurement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	volume	NN
+gap	 	
+word	variations	NOMZ
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cross	JJ
+gap	-	
+word	sectional	JJ
+gap	 	
+word	area	NN
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	prone	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	errors	NN
+gap	 (20).\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	well	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	posture	NN
+gap	 	
+word	influences	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	influence	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	little	RB
+gap	 	
+word	studied	
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	effect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gender	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	little	RB
+gap	 	
+word	explored	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	influence	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	kinematics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chest	NN
+gap	 	
+word	wall	NN
+gap	 	
+word	still	RB
+gap	 	
+word	controversial	JJ
+gap	. 	
+word	Regarding	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	age	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	literature	NN
+gap	 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	aging	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	change	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	breathing	NN
+gap	 	
+word	pattern	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thoracoabdominal	JJ
+gap	 	
+word	motion	NOMZ
+gap	.\n\n<Bibliographic references>\n\n<1\tCHIHARA, K.; KENYON, C. M.; MACKLEM, P. T. Human rib cage distortability. J Appl Physiol (1985), v. 81, n. 1, p. 437-47, Jul 1996. ISSN 8750-7587.>\n<2\tLOPES, R. B.; BRITTO, R. R.; PARREIRA, V. F. Padrão respiratório durante o exercício - revisão literária. Revista Brasileira de Ciência e Movimento, v. 13, n. 2, p. 153-160, 2005.>\n<3\tTOBIN, M. J. Breathing pattern analysis. Intensive Care Med, v. 18, n. 4, p. 193-201, 1992. ISSN 0342-4642.>\n<4\tPARREIRA, V. F. et al. Optoelectronic plethysmography: a review of the literature. Rev Bras Fisioter, v. 16, n. 6, p. 439-53, 2012 Nov-Dec 2012.>\n<5\tDE GROOTE, A. et al. Chest wall motion during tidal breathing. J Appl Physiol, v. 83, n. 5, p. 1531-7, Nov 1997. ISSN 8750-7587.>\n<6\tMATOS, C. M. et al. Changes in breathing pattern and thoracoabdominal motion after bariatric surgery: a longitudinal study. Respir Physiol Neurobiol, v. 181, n. 2, p. 143-7, Apr 2012. ISSN 1878-1519.>\n<7\tWADE, O. L. Movements of the thoracic cage and diaphragm in respiration. J Physiol, v. 124, n. 2, p. 193-212, May 1954. ISSN 0022-3751.>\n<8\tBAYDUR, A. et al. Effect of posture on ventilation and breathing pattern during room air breathing at rest. Lung, v. 165, n. 6, p. 341-51, 1987. ISSN 0341-2040.>\n<9\tVERSCHAKELEN, J. A.; DEMEDTS, M. G. Normal thoracoabdominal motions. Influence of sex, age, posture, and breath size. Am J Respir Crit Care Med, v. 151, n. 2 Pt 1, p. 399-405, Feb 1995. ISSN 1073-449X.>\n<10\tFUGL-MEYER, A. R. Relative respiratory contribution of the rib cage and the abdomen in males and females with special regard to posture. Respiration, v. 31, n. 3, p. 240-51, 1974. ISSN 0025-7931.>\n<11\tSHARP, J. T. et al. Relative contributions of rib cage and abdomen to breathing in normal subjects. J Appl Physiol, v. 39, n. 4, p. 608-18, Oct 1975. ISSN 0021-8987.>\n<12\tROMEI, M. et al. Effects of gender and posture on thoraco-abdominal kinematics during quiet breathing in healthy adults. Respir Physiol Neurobiol, v. 172, n. 3, p. 184-91, Jul 2010. ISSN 1878-1519.>\n<13\tPRIORI, R. et al. The effect of posture on asynchronous chest wall movement in COPD. J Appl Physiol, v. 114, n. 8, p. 1066-75, Apr 2013. ISSN 1522-1601.>\n<14\tBRITTO, R. R. et al. Comparação do padrão respiratório entre adultos e idosos saudáveis. Revista Brasileira de Fisioterapia, v. 9, n. 3, p. 281-287, 2005.>\n<15\tBRITTO, R. R. et al. Effects of the aging process on respiratory function. Gerontology, v. 55, n. 5, p. 505-10, 2009. ISSN 1423-0003.>\n<16\tBINAZZI, B. et al. Breathing pattern and kinematics in normal subjects during speech, singing and loud whispering. Acta Physiol (Oxf), v. 186, n. 3, p. 233-46, Mar 2006. ISSN 1748-1708.>\n<17\tALVES, G. S. et al. Breathing pattern and thoracoabdominal motion during exercise in chronic obstructive pulmonary disease. Braz J Med Biol Res, v. 41, n. 11, p. 945-50, Nov 2008. ISSN 1414-431X.>\n<18\tALIVERTI, A. et al. Compartmental analysis of breathing in the supine and prone positions by optoelectronic plethysmography. Ann Biomed Eng, v. 29, n. 1, p. 60-70, Jan 2001. ISSN 0090-6964.>\n<19\tNOZOE, M. et al. Measurements of chest wall volume variation during tidal breathing in the supine and lateral positions in healthy subjects. Respir Physiol Neurobiol, v. 193, p. 38-42, Mar 2014. ISSN 1878-1519.>\n<20\tPARREIRA, V. F. et al. Breathing pattern and thoracoabdominal motion in healthy individuals: influence of age and sex. Rev Bras Fisioter, v. 14, n. 5, p. 411-6, 2010 Sep-Oct 2010.>\n<21\tGILBERT, R.; AUCHINCLOSS, J. H.; PEPPI, D. Relationship of rib cage and abdomen motion to diaphragm function during quiet breathing. Chest, v. 80, n. 5, p. 607-12, Nov 1981. ISSN 0012-3692.>\n	

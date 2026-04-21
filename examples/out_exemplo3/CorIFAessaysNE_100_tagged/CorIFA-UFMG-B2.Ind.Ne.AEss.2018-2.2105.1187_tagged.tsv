@@ -1,585 +1,1033 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2105.1187.txt
-token	tags
-    	
-According	CAP PGAS
-to	PIN PREP
-a	ART DET INDA
-Modern	CAP NNP
-Theory	CAP NNP
-about	PIN PREP
-economic	JJ
-development	NOMZ
-,	
-Countries	NN CAP
-can	POMD SPAU
-not	XX0 RB
-have	INF
-an	ART DET INDA
-economic	JJ
-growth	NN
-beyond	PIN PREP
-rates	NN
-that	TSUB WHSUB WH
-kept	VBD
-their	TPP3 PRP SBJP
-balance	NN
-of	PIN PREP
-payments	NOMZ
-on	PIN PREP
-equilibrium	NN
-,	
-once	PIN TIME SCONJ PREP
-the	ART DET
-exports	NN
-rates	NN
-has	VPRT
-a	ART DET INDA
-positive	JJ
-role	NN
-on	PIN PREP
-GDP	CAP NNP
-(	
-which	SERE DET WH
-means	VPRT PRIV
-the	ART DET
-inflow	NN
-of	PIN PREP
-capital	NN
-)	
-and	ANDC CCONJ
-imports	NN
-rates	NN
-has	VPRT
-a	ART DET INDA
-negative	JJ
-role	NN
-(	
-which	SERE DET WH
-means	VPRT PRIV
-the	ART DET
-outflow	NN
-of	PIN PREP
-capital	NN
-)	
-,	
-it	PIT PRP SBJP
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-exports	NN
-rates	NN
-and	PHC CCONJ
-imports	NN
-rates	NN
-must	NEMD
-be	AUXB INF
-equality	NOMZ
-.	
-About	PIN CAP PREP
-this	DEMO DET
-theory	NN
-,	
-opened	PASTP
-by	PIN PREP
-Verdoom	CAP NNP
-and	PHC CCONJ
-Kaldor	CAP NNP
-,	
-the	ART DET
-studies	NN
-of	PIN PREP
-great	JJ
-heterodox	JJ
-economists	NN
-have	VPRT PEAS
-been	PASS AUXB
-developed	
-,	
-as	PIN CONJ PREP
-Thirwall	CAP NNP
-and	PHC CCONJ
-Sylos	CAP NNP
-Labini	CAP NNP
-.	
-The	ART CAP DET
-improvement	NOMZ
-of	PIN PREP
-the	ART DET
-export	NN
-are	BEMA VPRT AUXB
-good	JJ PRED
-to	PIN PREP
-health	NN
-of	PIN PREP
-economy	NN
-,	
-it	PIT PRP SBJP
-is	PASS VPRT BYPA AUXB
-caused	
-by	PIN PREP
-the	ART DET
-relation	NOMZ
-between	PIN PREP
-improving	PGAS
-on	PIN PREP
-balance	NN
-of	PIN PREP
-payments	NOMZ
-and	CCONJ
-less	JJ CMADJ
-external	JJ
-dependency	NN
-by	PIN PREP
-an	ART DET INDA
-advanced	JJ
-process	NN
-of	PIN PREP
-industrialization	NOMZ
-.	
-First	RB CAP
-of	PIN PREP
-all	QUAN DET
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-highlight	INF
-that	PIN DEMO SCONJ PREP
-the	ART DET
-GDP	NN CAP
-of	PIN PREP
-a	ART DET INDA
-Country	CAP NNP
-is	PASS VPRT BYPA AUXB
-calculated	PRIV
-by	PIN PREP
-measure	NN
-of	PIN PREP
-consumer	NN
-spending	NN
-(	
-C	CAP NNP
-)	
-plus	PIN CCONJ PREP
-investment	NOMZ
-(	
-I	FPP1 NN CAP
-)	
-and	ANDC CCONJ
-government	NOMZ
-spending	NN
-(	
-G	NN CAP
-)	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-its	PIT PRP SBJP
-net	JJ
-exports	NN
-,	
-which	SERE WHQU DET WH
-is	VPRT AUXB
-exports	NN
-minus	JJ PIN PREP
-imports	NN
-(	
-X	NN CAP
--	NN
-M	CAP NNP
-)	
-.	
-On	PIN CAP PREP
-this	DEMO DET
-way	NN
-,	
-the	ART DET
-improvement	NOMZ
-of	PIN PREP
-the	ART DET
-export	NN
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-GDP	NN CAP
-of	PIN PREP
-the	ART DET
-Country	CAP NNP
-will	PRMD
-growth	INF
-either	RB
-.	
-Another	CAP DET
-effect	NN
-of	PIN PREP
-this	DEMO DET
-improvement	NOMZ
-on	PIN PREP
-the	ART DET
-exports	NN
-would	PRMD
-be	BEMA AUXB INF
-the	ART DET
-growing	PGAS
-in	PIN CONJ PREP
-purchasing	GER PGAS
-power	NN
-of	PIN PREP
-the	ART DET
-local	JJ
-population	NOMZ
-.	
-On	PIN CAP PREP
-this	DEMO DET
-point	NN
-,	
-Economic	CAP NNP
-Development	CAP NNP
-demands	VPRT SUAV
-an	ART DET INDA
-advanced	JJ
-process	NN
-of	PIN PREP
-industrialization	NOMZ
-,	
-to	PIN TO PREP
-promote	INF
-a	ART DET INDA
-less	RB CMADJ
-external	JJ
-dependency	NN
-,	
-as	PIN CONJ PREP
-will	PRMD
-be	PASS AUXB INF
-demonstrated	PRIV
-.	
- 	
-In	PIN CONJ CAP PREP
-Countries	CAP NNP
-that	DEMP WH
-have	VPRT
-not	XX0 RB
-an	ART DET INDA
-advanced	JJ
-process	NN
-of	PIN PREP
-industrialization	NOMZ
-and	CCONJ
-are	PASS VPRT AUXB
-based	
-on	PIN PREP
-primary	JJ
-products	NN
-(	
-like	PIN PREP
-agribusiness	NOMZ
-)	
-,	
-the	ART DET
-local	JJ
-population	NOMZ
-usually	RB
-spend	VPRT
-much	QUAN JJ
-money	NN
-importing	WZPRES PGAS
-foreign	JJ
-products	NN
-to	PIN TO PREP
-supply	INF
-the	ART DET
-internal	JJ
-absence	NN
-of	PIN PREP
-this	DEMO DET
-kind	NN HDG
-of	PIN PREP
-product	NN
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-,	
-the	ART DET
-Countries	NN CAP
-that	TSUB WHSUB WH
-usually	RB
-make	VPRT
-this	DEMO DET
-transaction	NOMZ
-has	VPRT
-a	ART DET INDA
-deficit	NN
-on	PIN PREP
-their	TPP3 PRP SBJP
-balance	NN
-of	PIN PREP
-payments	NOMZ
-,	
-once	PIN TIME SCONJ PREP
-they	TPP3 PRP SBJP
-must	NEMD
-pay	INF
-this	DEMO DET
-transaction	NOMZ
-with	PIN PREP
-foreign	JJ
-currency	NN
-,	
-it	PIT PRP SBJP
-means	VPRT PRIV
-to	PIN TO PREP
-pay	INF
-this	DEMO DET
-transaction	NOMZ
-with	PIN PREP
-the	ART DET
-money	NN
-received	WZPAST
-by	PIN PREP
-exportation	NOMZ
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-export	NN
-based	WZPAST
-on	PIN PREP
-primary	JJ
-products	NN
-has	VPRT
-a	ART DET INDA
-negative	JJ
-income	NN
-elasticity	NOMZ
-of	PIN PREP
-demand	SUAV NN
-,	
-it	PIT PRP SBJP
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-observe	VPRT PRIV
-a	ART DET INDA
-growing	PGAS
-in	PIN CONJ PREP
-purchasing	GER PGAS
-power	NN
-in	PIN CONJ PREP
-Countries	CAP NNP
-that	DEMP WH
-imports	VPRT
-Brazilian	JJ CAP
-products	NN
-,	
-making	PRESP PGAS
-the	ART DET
-external	JJ
-population	NOMZ
-increase	NN
-consumption	NOMZ
-,	
-this	DEMO DET
-consumption	NOMZ
-will	PRMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-in	PIN CONJ PREP
-favor	NN
-of	PIN PREP
-primary	JJ
-products	NN
-,	
-once	PIN TIME SCONJ PREP
-the	ART DET
-preference	NN
-will	PRMD
-be	BEMA AUXB INF
-for	PIN PREP
-the	ART DET
-acquisition	NOMZ
-of	PIN PREP
-high	JJ
--	
-tech	NN
-products	NN
-,	
-once	PIN TIME SCONJ PREP
-the	ART DET
-high	JJ
--	
-tech	NN
-products	NN
-has	VPRT
-a	ART DET INDA
-positive	JJ
-income	NN
-elasticity	NOMZ
-of	PIN PREP
-demand	SUAV NN
-,	
-according	PGAS
-to	PIN PREP
-recently	RB TIME
-researches	NN
-.	
-It	PIT CAP PRP SBJP
-explains	VPRT PUBV
-the	ART DET
-reason	PRIV NN
-why	RB WHOBJ WHCL SCONJ WH
-Developed	CAP NNP
-Countries	CAP NNP
-has	VPRT
-preference	NN
-to	PIN TO PREP
-do	PROD INF
-high	JJ
--	
-tech	NN
-products	NN
-,	
-once	PIN TIME SCONJ PREP
-this	DEMO DET
-kind	NN HDG
-of	PIN PREP
-products	NN
-has	VPRT
-positive	JJ
-income	NN
-elasticity	NOMZ
-of	PIN PREP
-demand	SUAV NN
-,	
-they	TPP3 PRP SBJP
-export	VPRT
-more	JJ EMPH CMADJ
-than	PIN PREP
-Countries	CAP NNP
-which	DET WH
-economy	NN
-are	PASS VPRT AUXB
-based	
-on	PIN PREP
-commodities	NN
-,	
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-n’t	RB
-need	INF
-to	PIN TO PREP
-spend	INF
-much	QUAN JJ
-money	NN
-importing	WZPRES PGAS
-foreign	JJ
-products	NN
-to	PIN TO PREP
-supply	INF
-the	ART DET
-internal	JJ
-absence	NN
-of	PIN PREP
-this	DEMO DET
-kind	NN HDG
-of	PIN PREP
-product	NN
-.	
- 	
-Elasticity	NOMZ CAP
-of	PIN PREP
-demand	SUAV NN
-shows	VPRT PRIV
-us	FPP1 PRP SBJP ACCU
-how	RB SCONJ WH
-much	QUAN JJ
-a	ART DET INDA
-demand	SUAV NN
-grows	VPRT
-with	PIN PREP
-the	ART DET
-increase	NN
-of	PIN PREP
-income	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-a	ART DET INDA
-family	NN
-will	PRMD SPAU
-not	XX0 RB
-increase	INF
-on	PIN PREP
-big	JJ
-proportions	NOMZ
-the	ART DET
-amount	NN
-of	PIN PREP
-food	NN
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-usually	RB
-spends	VPRT
-on	PIN PREP
-their	TPP3 PRP SBJP
-daily	NN
-just	RB EMPH
-because	CAUS PIN SCONJ PREP
-the	ART DET
-income	NN
-had	VBD
-a	ART DET INDA
-big	JJ
-improvement	NOMZ
-,	
-on	PIN PREP
-contrary	NN
-,	
-most	JJ EMPH SPADJ
-part	NN
-of	PIN PREP
-this	DEMO DET
-salary	NN
-improvement	NOMZ
-will	PRMD
-be	AUXB INF
-spend	INF
-to	PIN TO PREP
-buy	INF
-high	JJ
--	
-tech	NN
-products	NN
-.	
-That	DEMO CAP DET
-’s	RB
-why	RB SCONJ WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN PREP
-a	ART DET INDA
-Country	CAP NNP
-to	PIN TO PREP
-develop	INF
-their	TPP3 PRP SBJP
-industrialization	NOMZ
-process	NN
-,	
-moving	SUAV PGAS
-from	PIN PREP
-primarily	RB
-agricultural	JJ
-to	PIN PREP
-one	NUM
-which	DET WH
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-manufacturing	GER PGAS
-goods	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2105.1187>\n\n<The Role of the Industrialization on the Economic Development>\n\n	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Modern	CAP NNP
+gap	 	
+word	Theory	CAP NNP
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	development	NOMZ
+gap	, 	
+word	Countries	NN CAP
+gap	 	
+word	cannot	
+gap	 	
+word	have	
+gap	 	
+word	an	
+gap	 	
+word	economic	
+gap	 	
+word	growth	
+gap	 	
+word	beyond	
+gap	 	
+word	rates	
+gap	 	
+word	that	
+gap	 	
+word	kept	
+gap	 	
+word	their	
+gap	 	
+word	balance	
+gap	 	
+word	of	
+gap	 	
+word	payments	
+gap	 	
+word	on	
+gap	 	
+word	equilibrium	
+gap	, 	
+word	once	
+gap	 	
+word	the	
+gap	 	
+word	exports	
+gap	 	
+word	rates	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	positive	
+gap	 	
+word	role	
+gap	 	
+word	on	
+gap	 	
+word	GDP	
+gap	 (	
+word	which	
+gap	 	
+word	means	
+gap	 	
+word	the	
+gap	 	
+word	inflow	
+gap	 	
+word	of	
+gap	 	
+word	capital	
+gap	) 	
+word	and	
+gap	 	
+word	imports	
+gap	 	
+word	rates	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	negative	
+gap	 	
+word	role	
+gap	 (	
+word	which	
+gap	 	
+word	means	
+gap	 	
+word	the	
+gap	 	
+word	outflow	
+gap	 	
+word	of	
+gap	 	
+word	capital	
+gap	), 	
+word	it	
+gap	 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	exports	
+gap	 	
+word	rates	
+gap	 	
+word	and	
+gap	 	
+word	imports	
+gap	 	
+word	rates	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	equality	
+gap	. 	
+word	About	
+gap	 	
+word	this	
+gap	 	
+word	theory	
+gap	, 	
+word	opened	
+gap	 	
+word	by	
+gap	 	
+word	Verdoom	
+gap	 	
+word	and	
+gap	 	
+word	Kaldor	
+gap	, 	
+word	the	
+gap	 	
+word	studies	
+gap	 	
+word	of	
+gap	 	
+word	great	
+gap	 	
+word	heterodox	
+gap	 	
+word	economists	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	developed	
+gap	, 	
+word	as	
+gap	 	
+word	Thirwall	
+gap	 	
+word	and	
+gap	 	
+word	Sylos	
+gap	 	
+word	Labini	
+gap	. 	
+word	The	
+gap	 	
+word	improvement	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	export	
+gap	 	
+word	are	
+gap	 	
+word	good	
+gap	 	
+word	to	
+gap	 	
+word	health	
+gap	 	
+word	of	
+gap	 	
+word	economy	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	relation	
+gap	 	
+word	between	
+gap	 	
+word	improving	
+gap	 	
+word	on	
+gap	 	
+word	balance	
+gap	 	
+word	of	
+gap	 	
+word	payments	
+gap	 	
+word	and	
+gap	 	
+word	less	
+gap	 	
+word	external	
+gap	 	
+word	dependency	
+gap	 	
+word	by	
+gap	 	
+word	an	
+gap	 	
+word	advanced	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	industrialization	
+gap	. 	
+word	First	
+gap	 	
+word	of	
+gap	 	
+word	all	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	highlight	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	GDP	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	Country	
+gap	 	
+word	is	
+gap	 	
+word	calculated	
+gap	 	
+word	by	
+gap	 	
+word	measure	
+gap	 	
+word	of	
+gap	 	
+word	consumer	
+gap	 	
+word	spending	
+gap	 (	
+word	C	
+gap	) 	
+word	plus	
+gap	 	
+word	investment	
+gap	 (	
+word	I	
+gap	) 	
+word	and	
+gap	 	
+word	government	
+gap	 	
+word	spending	
+gap	 (	
+word	G	
+gap	) 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	its	
+gap	 	
+word	net	
+gap	 	
+word	exports	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	exports	
+gap	 	
+word	minus	
+gap	 	
+word	imports	
+gap	 (	
+word	X	
+gap	-	
+word	M	
+gap	). 	
+word	On	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	the	
+gap	 	
+word	improvement	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	export	
+gap	 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	GDP	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Country	
+gap	 	
+word	will	
+gap	 	
+word	growth	
+gap	 	
+word	either	
+gap	. 	
+word	Another	
+gap	 	
+word	effect	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	improvement	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	exports	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	growing	
+gap	 	
+word	in	
+gap	 	
+word	purchasing	
+gap	 	
+word	power	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	local	
+gap	 	
+word	population	
+gap	. 	
+word	On	
+gap	 	
+word	this	
+gap	 	
+word	point	
+gap	, 	
+word	Economic	
+gap	 	
+word	Development	
+gap	 	
+word	demands	
+gap	 	
+word	an	
+gap	 	
+word	advanced	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	industrialization	
+gap	, 	
+word	to	
+gap	 	
+word	promote	
+gap	 	
+word	a	
+gap	 	
+word	less	
+gap	 	
+word	external	
+gap	 	
+word	dependency	
+gap	, 	
+word	as	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	demonstrated	
+gap	. \n	
+word	In	
+gap	 	
+word	Countries	
+gap	 	
+word	that	
+gap	 	
+word	have	
+gap	 	
+word	not	
+gap	 	
+word	an	
+gap	 	
+word	advanced	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	industrialization	
+gap	 	
+word	and	
+gap	 	
+word	are	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	primary	
+gap	 	
+word	products	
+gap	 (	
+word	like	
+gap	 	
+word	agribusiness	
+gap	), 	
+word	the	
+gap	 	
+word	local	
+gap	 	
+word	population	
+gap	 	
+word	usually	
+gap	 	
+word	spend	
+gap	 	
+word	much	
+gap	 	
+word	money	
+gap	 	
+word	importing	
+gap	 	
+word	foreign	
+gap	 	
+word	products	
+gap	 	
+word	to	
+gap	 	
+word	supply	
+gap	 	
+word	the	
+gap	 	
+word	internal	
+gap	 	
+word	absence	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	product	
+gap	, 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	, 	
+word	the	
+gap	 	
+word	Countries	
+gap	 	
+word	that	
+gap	 	
+word	usually	
+gap	 	
+word	make	
+gap	 	
+word	this	
+gap	 	
+word	transaction	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	deficit	
+gap	 	
+word	on	
+gap	 	
+word	their	
+gap	 	
+word	balance	
+gap	 	
+word	of	
+gap	 	
+word	payments	
+gap	, 	
+word	once	
+gap	 	
+word	they	
+gap	 	
+word	must	
+gap	 	
+word	pay	
+gap	 	
+word	this	
+gap	 	
+word	transaction	
+gap	 	
+word	with	
+gap	 	
+word	foreign	
+gap	 	
+word	currency	
+gap	, 	
+word	it	
+gap	 	
+word	means	
+gap	 	
+word	to	
+gap	 	
+word	pay	
+gap	 	
+word	this	
+gap	 	
+word	transaction	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	money	
+gap	 	
+word	received	
+gap	 	
+word	by	
+gap	 	
+word	exportation	
+gap	. 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	export	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	primary	
+gap	 	
+word	products	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	negative	
+gap	 	
+word	income	
+gap	 	
+word	elasticity	
+gap	 	
+word	of	
+gap	 	
+word	demand	
+gap	, 	
+word	it	
+gap	 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	we	
+gap	 	
+word	observe	
+gap	 	
+word	a	
+gap	 	
+word	growing	
+gap	 	
+word	in	
+gap	 	
+word	purchasing	
+gap	 	
+word	power	
+gap	 	
+word	in	
+gap	 	
+word	Countries	
+gap	 	
+word	that	
+gap	 	
+word	imports	
+gap	 	
+word	Brazilian	
+gap	 	
+word	products	
+gap	, 	
+word	making	
+gap	 	
+word	the	
+gap	 	
+word	external	
+gap	 	
+word	population	
+gap	 	
+word	increase	
+gap	 	
+word	consumption	
+gap	, 	
+word	this	
+gap	 	
+word	consumption	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	in	
+gap	 	
+word	favor	
+gap	 	
+word	of	
+gap	 	
+word	primary	
+gap	 	
+word	products	
+gap	, 	
+word	once	
+gap	 	
+word	the	
+gap	 	
+word	preference	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	acquisition	
+gap	 	
+word	of	
+gap	 	
+word	high	
+gap	-	
+word	tech	
+gap	 	
+word	products	
+gap	, 	
+word	once	
+gap	 	
+word	the	
+gap	 	
+word	high	
+gap	-	
+word	tech	
+gap	 	
+word	products	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	positive	
+gap	 	
+word	income	
+gap	 	
+word	elasticity	
+gap	 	
+word	of	
+gap	 	
+word	demand	
+gap	, 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	recently	
+gap	 	
+word	researches	
+gap	. 	
+word	It	
+gap	 	
+word	explains	
+gap	 	
+word	the	
+gap	 	
+word	reason	
+gap	 	
+word	why	
+gap	 	
+word	Developed	
+gap	 	
+word	Countries	
+gap	 	
+word	has	
+gap	 	
+word	preference	
+gap	 	
+word	to	
+gap	 	
+word	do	
+gap	 	
+word	high	
+gap	-	
+word	tech	
+gap	 	
+word	products	
+gap	, 	
+word	once	
+gap	 	
+word	this	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	products	
+gap	 	
+word	has	
+gap	 	
+word	positive	
+gap	 	
+word	income	
+gap	 	
+word	elasticity	
+gap	 	
+word	of	
+gap	 	
+word	demand	
+gap	, 	
+word	they	
+gap	 	
+word	export	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 	
+word	Countries	
+gap	 	
+word	which	
+gap	 	
+word	economy	
+gap	 	
+word	are	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	commodities	
+gap	, 	
+word	and	
+gap	 	
+word	they	
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	need	
+gap	 	
+word	to	
+gap	 	
+word	spend	
+gap	 	
+word	much	
+gap	 	
+word	money	
+gap	 	
+word	importing	
+gap	 	
+word	foreign	
+gap	 	
+word	products	
+gap	 	
+word	to	
+gap	 	
+word	supply	
+gap	 	
+word	the	
+gap	 	
+word	internal	
+gap	 	
+word	absence	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	product	
+gap	.\n	
+word	Elasticity	
+gap	 	
+word	of	
+gap	 	
+word	demand	
+gap	 	
+word	shows	
+gap	 	
+word	us	
+gap	 	
+word	how	
+gap	 	
+word	much	
+gap	 	
+word	a	
+gap	 	
+word	demand	
+gap	 	
+word	grows	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	increase	
+gap	 	
+word	of	
+gap	 	
+word	income	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	a	
+gap	 	
+word	family	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	increase	
+gap	 	
+word	on	
+gap	 	
+word	big	
+gap	 	
+word	proportions	
+gap	 	
+word	the	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	food	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	usually	
+gap	 	
+word	spends	
+gap	 	
+word	on	
+gap	 	
+word	their	
+gap	 	
+word	daily	
+gap	 	
+word	just	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	income	
+gap	 	
+word	had	
+gap	 	
+word	a	
+gap	 	
+word	big	
+gap	 	
+word	improvement	
+gap	, 	
+word	on	
+gap	 	
+word	contrary	
+gap	, 	
+word	most	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	salary	
+gap	 	
+word	improvement	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	spend	
+gap	 	
+word	to	
+gap	 	
+word	buy	
+gap	 	
+word	high	
+gap	-	
+word	tech	
+gap	 	
+word	products	
+gap	. 	
+word	That	
+gap	’	
+word	s	
+gap	 	
+word	why	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	Country	
+gap	 	
+word	to	
+gap	 	
+word	develop	
+gap	 	
+word	their	
+gap	 	
+word	industrialization	
+gap	 	
+word	process	
+gap	, 	
+word	moving	
+gap	 	
+word	from	
+gap	 	
+word	primarily	
+gap	 	
+word	agricultural	
+gap	 	
+word	to	
+gap	 	
+word	one	
+gap	 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	manufacturing	
+gap	 	
+word	goods	
+gap	.	

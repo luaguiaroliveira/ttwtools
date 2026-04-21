@@ -12,6 +12,176 @@ from biberplus.tagger import tag_text, load_config, load_pipeline
 nltk_like_nlp = None
 
 
+def _escape_tsv_content(s: str) -> str:
+    """Escape special characters so the value is safe inside a TSV field.
+
+    Encoding:
+        \\  →  \\\\
+        \t  →  \\t
+        \n  →  \\n
+        \r  →  \\r
+
+    To decode, apply the reverse substitutions in reverse order.
+    """
+    return (
+        s
+        .replace("\\", "\\\\")
+        .replace("\t", "\\t")
+        .replace("\n", "\\n")
+        .replace("\r", "\\r")
+    )
+
+
+def _get_tw_word(wdict) -> str:
+    """Extract the word text from a biberplus tagged-word dict."""
+    if isinstance(wdict, dict):
+        return wdict.get("word") or wdict.get("text") or wdict.get("token") or ""
+    return ""
+
+
+def _build_interleaved_rows(original_text: str, tagged_words: list) -> list:
+    """Return a list of (type, content, tags) triples that interleave every
+    character of *original_text* with Biber tag information.
+
+    Row types
+    ---------
+    ``word``   : pure-alphabetic token (Latin, including accented letters).
+                 ``tags`` = space-joined Biber feature tags, or empty if
+                 biberplus assigned none (correct behaviour — Biber tags are
+                 register features, not exhaustive POS coverage).
+    ``mixed``  : digit-led alphanumeric token kept intact from the source text
+                 (e.g. ``18O``, ``250k``, ``40kya``).  biberplus treats these
+                 as single tokens; we emit them as one row so the GUI can
+                 display them without splitting chemical/scientific notation.
+                 ``tags`` = Biber tags for the token (often ``NUM`` or ``NNP``).
+    ``number`` : pure-digit sequence (e.g. ``500``).
+                 ``tags`` = Biber tags when biberplus returns a standalone
+                 numeric token (e.g. ``500`` → ``NUM``); empty otherwise.
+    ``gap``    : everything else — whitespace, punctuation, markup (``<…>``),
+                 newlines.  ``tags`` is always empty.
+
+    Concatenating all ``content`` values (after TSV-unescaping) exactly
+    reconstructs *original_text*.
+
+    Alignment with biberplus tokens
+    ---------------------------------
+    Biberplus (via NLTK word_tokenize) emits tokens for *every* input unit,
+    including punctuation (``','``) and numbers.  We keep the biberplus cursor
+    in sync as follows:
+
+    * Pure-punctuation biberplus tokens (no letters, no digits) are **skipped**
+      before consuming a token for a ``word``, ``mixed``, or ``number`` row.
+    * ``mixed`` parts are matched against biberplus by case-insensitive exact
+      comparison.
+    * ``word`` parts are matched by exact word OR by the alpha-only component
+      of a mixed biberplus token.
+    * ``number`` parts consume a biberplus token only when it is purely numeric.
+    """
+    _LAT = r"A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u024F"
+
+    # Split order matters — more specific patterns must come first:
+    #   1. markup tags  <…>
+    #   2. digit-led mixed tokens  18O  250k  40kya  (digits then letters)
+    #   3. pure digit sequences    500
+    #   4. Latin-letter sequences  (word boundaries via look-arounds)
+    parts = re.split(
+        r"(<[^>]*>"
+        r"|\d+[" + _LAT + r"]+"
+        r"|\d+"
+        r"|(?<![" + _LAT + r"])[" + _LAT + r"]+(?![" + _LAT + r"]))",
+        original_text,
+    )
+
+    rows = []
+    tw_cursor = 0
+    gap_buf = ""
+
+    _latin_re  = re.compile(r"[A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u024F]+")
+    _ascii_re  = re.compile(r"[A-Za-z]+")
+    _digit_re  = re.compile(r"\d+")
+    _mixed_re  = re.compile(r"\d+[A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u024F]+")
+    _has_alnum = re.compile(r"[A-Za-z0-9]")
+
+    def _skip_punct():
+        nonlocal tw_cursor
+        while tw_cursor < len(tagged_words):
+            if _has_alnum.search(_get_tw_word(tagged_words[tw_cursor])):
+                break
+            tw_cursor += 1
+
+    def _consume_tags():
+        """Return tags from current biberplus entry and advance cursor."""
+        wdict = tagged_words[tw_cursor]
+        tags  = wdict.get("tags", []) if isinstance(wdict, dict) else []
+        return " ".join(tags)
+
+    for part in parts:
+        if _mixed_re.fullmatch(part):
+            # ── digit-led mixed token (18O, 250k, 40kya) ─────────────────
+            if gap_buf:
+                rows.append(("gap", gap_buf, ""))
+                gap_buf = ""
+            _skip_punct()
+            if tw_cursor < len(tagged_words):
+                tw_word = _get_tw_word(tagged_words[tw_cursor])
+                if tw_word.lower() == part.lower():
+                    rows.append(("mixed", part, _consume_tags()))
+                else:
+                    rows.append(("mixed", part, ""))
+                tw_cursor += 1
+            else:
+                rows.append(("mixed", part, ""))
+
+        elif _latin_re.fullmatch(part):
+            # ── alphabetic word ───────────────────────────────────────────
+            if gap_buf:
+                rows.append(("gap", gap_buf, ""))
+                gap_buf = ""
+            if _ascii_re.fullmatch(part):
+                _skip_punct()
+                if tw_cursor < len(tagged_words):
+                    tw_word = _get_tw_word(tagged_words[tw_cursor])
+                    alpha_only = re.sub(r"[^A-Za-z]", "", tw_word)
+                    if tw_word.lower() == part.lower() or alpha_only.lower() == part.lower():
+                        rows.append(("word", part, _consume_tags()))
+                    else:
+                        rows.append(("word", part, ""))
+                    tw_cursor += 1
+                else:
+                    rows.append(("word", part, ""))
+            else:
+                # Accented/Unicode word: biberplus produces no entry for it.
+                rows.append(("word", part, ""))
+
+        elif _digit_re.fullmatch(part):
+            # ── pure digit sequence ───────────────────────────────────────
+            if gap_buf:
+                rows.append(("gap", gap_buf, ""))
+                gap_buf = ""
+            _skip_punct()
+            if tw_cursor < len(tagged_words):
+                tw_word = _get_tw_word(tagged_words[tw_cursor])
+                if _digit_re.fullmatch(tw_word):
+                    # Standalone numeric biberplus token → consume and tag.
+                    rows.append(("number", part, _consume_tags()))
+                    tw_cursor += 1
+                else:
+                    # Unexpected — emit without tags to avoid drift.
+                    rows.append(("number", part, ""))
+            else:
+                rows.append(("number", part, ""))
+
+        else:
+            # Markup (<…>), whitespace, punctuation → accumulate as gap.
+            gap_buf += part
+
+    if gap_buf:
+        rows.append(("gap", gap_buf, ""))
+
+
+    return rows
+
+
 # NOTE: variable name is chosen to avoid shadowing potential local vars.
 def extract_biber_features_from_folder(
     folder_path_str: str,
@@ -129,8 +299,8 @@ def extract_biber_features_from_folder(
         print(f"     Tokens taggeados serao salvos em: {tagged_dir}/")
 
     for txt_path in tqdm(file_list, desc=f"  Analisando {corpus_path.name}", unit="doc"):
-        text = txt_path.read_text(encoding="utf-8", errors="ignore")
-        text = re.sub(r"<[^>]*>", "", text)
+        original_text = txt_path.read_text(encoding="utf-8", errors="ignore")
+        text = re.sub(r"<[^>]*>", "", original_text)
         filename = txt_path.name
 
         doc = None
@@ -173,18 +343,20 @@ def extract_biber_features_from_folder(
         if save_tagged:
             tagged_file = tagged_dir / f"{txt_path.stem}_tagged.tsv"
             try:
+                rows = _build_interleaved_rows(original_text, tagged_words)
                 with tagged_file.open("w", encoding="utf-8", newline="") as outfh:
                     outfh.write(f"# filename: {filename}\n")
-                    outfh.write("token\ttags\n")
-                    for i, wdict in enumerate(tagged_words):
-                        token_text = None
-                        if isinstance(wdict, dict):
-                            token_text = wdict.get("word") or wdict.get("text") or wdict.get("token")
-                        if not token_text:
-                            token_text = doc[i].text if i < len(doc) else ""
-                        tags = wdict.get("tags") if isinstance(wdict, dict) else (wdict if isinstance(wdict, list) else [])
-                        safe_token = token_text.replace("\t", " ").replace("\n", " ").replace("\r", "")
-                        outfh.write(f"{safe_token}\t{' '.join(tags)}\n")
+                    # Columns: type, content, tags
+                    # 'word'   rows: pure-alphabetic token; Biber feature tags or empty
+                    # 'mixed'  rows: digit-led alphanumeric token kept intact (18O, 250k);
+                    #                tags from biberplus (e.g. NUM, NNP)
+                    # 'number' rows: pure-digit sequence; Biber tags or empty
+                    # 'gap'    rows: whitespace, punctuation, markup, newlines; tags = empty
+                    # Special chars in 'content' are escaped: \n→\\n  \t→\\t  \r→\\r  \\→\\\\
+                    # Reconstruct original text: ''.join(unescape(r.content) for r in rows)
+                    outfh.write("type\tcontent\ttags\n")
+                    for row_type, content, tags in rows:
+                        outfh.write(f"{row_type}\t{_escape_tsv_content(content)}\t{tags}\n")
             except Exception:
                 pass
 

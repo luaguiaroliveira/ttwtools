@@ -1,625 +1,1097 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0990.0572.txt
-token	tags
-﻿	NNP
-    	
-Procedures	CAP NNP
-that	DEMP WH
-improve	VPRT
-aesthetics	NN
-are	BEMA VPRT AUXB
-on	PIN PREP
-the	ART DET
-rise	NN
-in	PIN CONJ PREP
-Dentistry	CAP NNP
-area	NN
-,	
-since	OSUB PIN SCONJ PREP
-more	JJ EMPH CMADJ
-and	PHC CCONJ
-more	JJ EMPH CMADJ
-individuals	NN
-seek	VPRT
-a	ART DET INDA
-brighter	JJ CMADJ
-and	PHC CCONJ
-harmonious	JJ
-smile	NN
-.	
-One	CAP NUM
-of	PIN PREP
-many	QUAN JJ
-of	PIN PREP
-those	DEMO DET
-treatments	NOMZ
-and	CCONJ
-,	
-by	PIN PREP
-the	ART DET
-way	NN
-,	
-the	ART DET
-most	RB EMPH SPADJ
-popular	JJ
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-is	BEMA VPRT AUXB
-the	ART DET
-tooth	NN
-bleaching	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-different	JJ
-types	NN
-of	PIN PREP
-the	ART DET
-procedure	NN
-such	JJ
-as	PIN CONJ STPR PREP
-:	
-home	NN
-bleaching	NN
-,	
-office	NN
-bleaching	NN
-or	CCONJ
-these	DEMO DET
-two	NUM
-associated	
-.	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO PREP
-demonstrate	PRIV INF
-which	WHCL DET WH
-of	PIN PREP
-the	ART DET
-kinds	NN
-of	PIN PREP
-treatments	NOMZ
-have	VPRT
-more	JJ EMPH CMADJ
-benefits	NN
-,	
-as	RB CONJ
-longer	JJ CMADJ
-durability	NOMZ
-of	PIN PREP
-the	ART DET
-result	NN
-and	CCONJ
-more	JJ EMPH CMADJ
-comfort	NN
-for	PIN PREP
-the	ART DET
-patient	NN
-.	
- 	
-Tooth	NN CAP
-discolorations	NOMZ
-can	POMD
-be	BEMA AUXB INF
-of	PIN PREP
-extrinsic	JJ
-or	CCONJ
-intrinsic	JJ
-origin	NN
-.	
-The	ART CAP DET
-consumption	NOMZ
-of	PIN PREP
-certain	JJ
-foods	NN
-,	
-beverages	NN
-,	
-or	CCONJ
-tobacco	NN
-products	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-from	PIN PREP
-inadequate	JJ
-oral	JJ
-hygiene	NN
-or	CCONJ
-the	ART DET
-use	NN
-of	PIN PREP
-certain	JJ
-oral	JJ
-hygiene	NN
-products	NN
-can	POMD
-lead	INF
-to	PIN PREP
-external	JJ
-discolorations	NOMZ
-.	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-darkening	NN
-of	PIN PREP
-teeth	NN
-can	POMD
-occur	INF
-when	RB SCONJ WH
-the	ART DET
-surface	NN
-of	PIN PREP
-dental	JJ
-enamel	NNP
-becomes	VPRT
-thinner	JJ CMADJ
-,	
-this	DEMP DET
-is	PASS VPRT BYPA AUXB
-caused	
-by	PIN PREP
-aging	PGAS
-or	CCONJ
-even	RB
-by	PIN PREP
-an	ART DET INDA
-incorrect	JJ
-brushing	NN
-.	
-An	ART CAP DET INDA
-intrinsic	JJ
-discoloration	NOMZ
-is	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-one	NUM
-with	PIN PREP
-its	PIT PRP SBJP
-origin	NN
-within	PIN PREP
-the	ART DET
-pulp	NN
-chamber	NN
-.	
-This	DEMP CAP DET
-includes	VPRT
-hemorrhage	NN
-,	
-necrosis	NN
-,	
-calcification	NOMZ
-,	
-the	ART DET
-use	NN
-of	PIN PREP
-certain	JJ
-medicine	NN
-during	PIN PREP
-the	ART DET
-formation	NOMZ
-of	PIN PREP
-the	ART DET
-tooth	NN
-and	CCONJ
-iatrogenic	JJ
-discoloration	NOMZ
-due	PIN PREP
-to	PIN PREP
-dental	JJ
-treatment	NOMZ
-.	
- 	
-Both	CAP DET
-types	NN
-of	PIN PREP
-discoloration	NOMZ
-can	POMD
-be	PASS AUXB INF
-treated	
-,	
-some	QUAN DET
-cases	NN
-only	DWNT RB
-with	PIN PREP
-bleaching	NN
-and	PHC CCONJ
-others	NN
-requires	VPRT SUAV
-the	ART DET
-collocation	NOMZ
-of	PIN PREP
-porcelain	NN
-veneers	NN
-.	
-The	ART CAP DET
-treatment	NOMZ
-of	PIN PREP
-external	JJ
-discoloration	NOMZ
-depends	VPRT
-if	COND PIN SCONJ PREP
-the	ART DET
-yellowing	NN
-comes	VPRT
-from	PIN PREP
-a	ART DET INDA
-surface	NN
-pigmentation	NOMZ
-,	
-which	SERE WHQU DET WH
-can	POMD
-be	PASS BYPA AUXB INF
-removed	
-with	PIN PREP
-polishing	NN
-by	PIN PREP
-the	ART DET
-dentist	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-single	JJ
-session	NOMZ
-,	
-or	CCONJ
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-deeper	JJ CMADJ
-discoloration	NOMZ
-,	
-which	SERE DET WH
-requires	VPRT SUAV
-a	ART DET INDA
-bleaching	PGAS
-technique	NN
-.	
-Tooth	NN CAP
-whitening	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-low	JJ
--	
-risk	NN
-procedure	NN
-,	
-and	ANDC CCONJ
-therefore	RB CONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-suitable	JJ PRED
-for	PIN PREP
-a	ART DET INDA
-wide	JJ
-range	NN
-of	PIN PREP
-patients	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-an	ART DET INDA
-approach	NN
-that	TSUB WHSUB WH
-consists	VPRT
-in	PIN CONJ PREP
-the	ART DET
-application	NOMZ
-of	PIN PREP
-a	ART DET INDA
-product	NN
-that	TSUB WHSUB WH
-contains	VPRT
-active	JJ
-ingredients	NN
-called	VBD
-hydrogen	NN
-peroxide	NN
-or	CCONJ
-carbamide	NN
-peroxide	NN
-in	PIN CONJ PREP
-the	ART DET
-surface	NN
-of	PIN PREP
-the	ART DET
-tooth	NN
-,	
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-reaction	NOMZ
-potentiator	NN
-or	CCONJ
-not	XX0 RB
-.	
- 	
-In	PIN CONJ CAP PREP
-the	ART DET
-case	NN
-of	PIN PREP
-whitening	PGAS
-treatment	NOMZ
-,	
-the	ART DET
-dentist	NN
-may	POMD
-choose	INF
-among	PIN PREP
-the	ART DET
-different	JJ
-kinds	NN
-of	PIN PREP
-conducts	NN
-.	
-The	ART CAP DET
-office	NN
-bleaching	NN
-consists	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-procedure	NN
-using	WZPRES PGAS
-a	ART DET INDA
-bleaching	PGAS
-product	NN
-more	RB EMPH CMADJ
-concentrated	JJ
-and	CCONJ
-a	ART DET INDA
-little	JJ
-bit	NN
-different	JJ
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-composition	NOMZ
-.	
-Also	RB CAP
-,	
-the	ART DET
-dentist	NN
-can	POMD
-use	INF
-a	ART DET INDA
-laser	NN
-,	
-which	SERE DET WH
-increases	VPRT
-the	ART DET
-reactivity	NOMZ
-of	PIN PREP
-hydrogen	NN
-peroxide	NN
-or	CCONJ
-only	DWNT RB
-the	ART DET
-product	NN
-and	CCONJ
-wait	INF
-for	PIN PREP
-the	ART DET
-time	NN
-passes	VPRT
-.	
-This	DEMO CAP DET
-kind	NN HDG
-of	PIN PREP
-treatment	NOMZ
-will	PRMD
-provide	INF
-a	ART DET INDA
-faster	JJ CMADJ
-result	NN
-,	
-but	CCONJ
-in	PIN CONJ PREP
-the	ART DET
-other	JJ
-hand	NN
-the	ART DET
-probability	NOMZ
-of	PIN PREP
-sensitivity	NOMZ
-is	BEMA VPRT AUXB
-higher	JJ PRED CMADJ
-and	CCONJ
-the	ART DET
-tooth	NN
-returns	VPRT
-to	PIN PREP
-the	ART DET
-initial	JJ
-color	NN
-faster	RB CMADJ
-.	
-There	EX CAP
-are	VPRT AUXB
-strong	JJ
-arguments	NOMZ
-,	
-based	PASTP
-on	PIN PREP
-evidences	NN
-,	
-for	PIN PREP
-preferring	GER SUAV PGAS
-the	ART DET
-home	NN
-bleaching	WZPRES PGAS
-technique	NN
-,	
-using	PRESP PGAS
-a	ART DET INDA
-less	RB CMADJ
-concentrated	JJ
-product	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-carbamide	NN
-peroxide	NN
-whitening	WZPRES PGAS
-gel	NN
-10	NUM
-%	NN
-or	CCONJ
-even	RB
-16	NUM
-%	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-less	RB CMADJ
-aggressive	JJ
-technique	NN
-,	
-the	ART DET
-chances	NN
-of	PIN PREP
-sensitivity	NOMZ
-developed	
-decreases	NN
-and	CCONJ
-the	ART DET
-result	NN
-lasts	VPRT
-more	JJ EMPH CMADJ
-time	NN
-compared	WZPAST
-to	PIN PREP
-the	ART DET
-other	JJ
-technique	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-remind	INF
-that	PIN DEMO SCONJ PREP
-the	ART DET
-result	NN
-is	BEMA VPRT AUXB
-exactly	RB
-the	ART DET
-same	JJ
-,	
-but	CCONJ
-is	BEMA VPRT AUXB
-more	JJ EMPH CMADJ
-time	NN
--	
-consuming	PGAS
-obtained	VBD
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-by	PIN PREP
-contrast	NN
-with	PIN PREP
-office	NN
-bleaching	NN
-,	
-the	ART DET
-return	NN
-to	PIN PREP
-the	ART DET
-previous	JJ
-color	NN
-occurs	VPRT
-slower	RB CMADJ
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-it	PIT PRP SBJP
-is	PASS VPRT BYPA SPAU AUXB
-widely	RB
-known	PRIV
-by	PIN PREP
-dentists	NN
-that	PIN TOBJ THVC SCONJ PREP
-the	ART DET
-safer	JJ CMADJ
-technique	NN
-is	VPRT AUXB
-home	NN
-bleaching	NN
-,	
-or	CCONJ
-at	PIN PREP
-least	JJ SPADJ
-this	DEMO DET
-kind	NN
-associated	WZPAST
-with	PIN PREP
-office	NN
-bleaching	NN
-,	
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-benefits	NN
-provided	
-.	
-But	CAP CCONJ
-a	ART DET INDA
-large	JJ
-part	NN
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-still	RB
-opt	VPRT
-for	PIN PREP
-the	ART DET
-faster	JJ CMADJ
-and	PHC CCONJ
-easy	JJ
-treatment	NOMZ
-.	
-Moreover	RB CONJ CAP
-,	
-even	RB
-when	RB SCONJ WH
-the	ART DET
-technique	NN
-chosen	WZPAST
-is	BEMA VPRT AUXB
-at	PIN PREP
-home	NN
-and	CCONJ
-the	ART DET
-patient	JJ
-participate	VPRT
-actively	RB
-in	PIN CONJ PREP
-the	ART DET
-treatment	NOMZ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-essential	JJ PRED
-the	ART DET
-correct	JJ
-indication	NOMZ
-,	
-preparation	NOMZ
-and	PHC CCONJ
-follow	NN
--	
-up	NN
-by	PIN PREP
-the	ART DET
-dental	JJ
-surgeon	NN
-.	
- 	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0990.0572>\n\n<Teeth Whitening>\n\n	
+word	Procedures	CAP NNP
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	improve	VPRT
+gap	 	
+word	aesthetics	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rise	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Dentistry	CAP NNP
+gap	 	
+word	area	NN
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	individuals	NN
+gap	 	
+word	seek	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	brighter	JJ CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	harmonious	JJ
+gap	 	
+word	smile	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	treatments	NOMZ
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	popular	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	tooth	NN
+gap	 	
+word	bleaching	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	different	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	procedure	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	: 	
+word	home	NN
+gap	 	
+word	bleaching	NN
+gap	, 	
+word	office	NN
+gap	 	
+word	bleaching	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	two	NUM
+gap	 	
+word	associated	
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	demonstrate	PRIV INF
+gap	 	
+word	which	WHCL DET WH
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kinds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	treatments	NOMZ
+gap	 	
+word	have	VPRT
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	benefits	NN
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	longer	JJ CMADJ
+gap	 	
+word	durability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	result	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	comfort	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	.\n	
+word	Tooth	NN CAP
+gap	 	
+word	discolorations	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extrinsic	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	intrinsic	JJ
+gap	 	
+word	origin	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	consumption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	foods	NN
+gap	, 	
+word	beverages	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	tobacco	NN
+gap	 	
+word	products	NN
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	inadequate	JJ
+gap	 	
+word	oral	JJ
+gap	 	
+word	hygiene	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	oral	JJ
+gap	 	
+word	hygiene	NN
+gap	 	
+word	products	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	external	JJ
+gap	 	
+word	discolorations	NOMZ
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	darkening	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	teeth	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	occur	INF
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	dental	JJ
+gap	 	
+word	enamel	NNP
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	thinner	JJ CMADJ
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	caused	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	aging	PGAS
+gap	 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	incorrect	JJ
+gap	 	
+word	brushing	NN
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	intrinsic	JJ
+gap	 	
+word	discoloration	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	defined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	origin	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pulp	NN
+gap	 	
+word	chamber	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	includes	VPRT
+gap	 	
+word	hemorrhage	NN
+gap	, 	
+word	necrosis	NN
+gap	, 	
+word	calcification	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	medicine	NN
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	formation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	tooth	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	iatrogenic	JJ
+gap	 	
+word	discoloration	NOMZ
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	dental	JJ
+gap	 	
+word	treatment	NOMZ
+gap	.\n	
+word	Both	CAP DET
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	discoloration	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	treated	
+gap	, 	
+word	some	QUAN DET
+gap	 	
+word	cases	NN
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	bleaching	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	others	NN
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	collocation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	porcelain	NN
+gap	 	
+word	veneers	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	external	JJ
+gap	 	
+word	discoloration	NOMZ
+gap	 	
+word	depends	VPRT
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	yellowing	NN
+gap	 	
+word	comes	VPRT
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	surface	NN
+gap	 	
+word	pigmentation	NOMZ
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	removed	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	polishing	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dentist	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	single	JJ
+gap	 	
+word	session	NOMZ
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	deeper	JJ CMADJ
+gap	 	
+word	discoloration	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bleaching	PGAS
+gap	 	
+word	technique	NN
+gap	. 	
+word	Tooth	NN CAP
+gap	 	
+word	whitening	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	low	JJ
+gap	-	
+word	risk	NN
+gap	 	
+word	procedure	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	suitable	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wide	JJ
+gap	 	
+word	range	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	patients	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	approach	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	consists	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	application	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	contains	VPRT
+gap	 	
+word	active	JJ
+gap	 	
+word	ingredients	NN
+gap	 	
+word	called	VBD
+gap	 	
+word	hydrogen	NN
+gap	 	
+word	peroxide	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	carbamide	NN
+gap	 	
+word	peroxide	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	tooth	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reaction	NOMZ
+gap	 	
+word	potentiator	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	whitening	PGAS
+gap	 	
+word	treatment	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	dentist	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	choose	INF
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	kinds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	conducts	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	office	NN
+gap	 	
+word	bleaching	NN
+gap	 	
+word	consists	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	procedure	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bleaching	PGAS
+gap	 	
+word	product	NN
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	concentrated	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	little	JJ
+gap	 	
+word	bit	NN
+gap	 	
+word	different	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	composition	NOMZ
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	dentist	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	use	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	laser	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	increases	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	reactivity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	hydrogen	NN
+gap	 	
+word	peroxide	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	product	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	wait	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	passes	VPRT
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	provide	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	faster	JJ CMADJ
+gap	 	
+word	result	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	probability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sensitivity	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	higher	JJ PRED CMADJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	tooth	NN
+gap	 	
+word	returns	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	initial	JJ
+gap	 	
+word	color	NN
+gap	 	
+word	faster	RB CMADJ
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	strong	JJ
+gap	 	
+word	arguments	NOMZ
+gap	, 	
+word	based	PASTP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	evidences	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	preferring	GER SUAV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	home	NN
+gap	 	
+word	bleaching	WZPRES PGAS
+gap	 	
+word	technique	NN
+gap	, 	
+word	using	PRESP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	concentrated	JJ
+gap	 	
+word	product	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	carbamide	NN
+gap	 	
+word	peroxide	NN
+gap	 	
+word	whitening	WZPRES PGAS
+gap	 	
+word	gel	NN
+gap	 10% 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 16%. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	aggressive	JJ
+gap	 	
+word	technique	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	chances	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sensitivity	NOMZ
+gap	 	
+word	developed	
+gap	 	
+word	decreases	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	result	NN
+gap	 	
+word	lasts	VPRT
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	time	NN
+gap	 	
+word	compared	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	technique	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	remind	INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	result	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	exactly	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	time	NN
+gap	-	
+word	consuming	PGAS
+gap	 	
+word	obtained	VBD
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	contrast	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	office	NN
+gap	 	
+word	bleaching	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	return	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	previous	JJ
+gap	 	
+word	color	NN
+gap	 	
+word	occurs	VPRT
+gap	 	
+word	slower	RB CMADJ
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	widely	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	dentists	NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	safer	JJ CMADJ
+gap	 	
+word	technique	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	home	NN
+gap	 	
+word	bleaching	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	least	JJ SPADJ
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	kind	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	office	NN
+gap	 	
+word	bleaching	NN
+gap	, 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	provided	
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	still	RB
+gap	 	
+word	opt	VPRT
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	faster	JJ CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	easy	JJ
+gap	 	
+word	treatment	NOMZ
+gap	. 	
+word	Moreover	RB CONJ CAP
+gap	, 	
+word	even	RB
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	technique	NN
+gap	 	
+word	chosen	WZPAST
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	home	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	JJ
+gap	 	
+word	participate	VPRT
+gap	 	
+word	actively	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	treatment	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	the	ART DET
+gap	 	
+word	correct	JJ
+gap	 	
+word	indication	NOMZ
+gap	, 	
+word	preparation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	follow	NN
+gap	-	
+word	up	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dental	JJ
+gap	 	
+word	surgeon	NN
+gap	.\n	

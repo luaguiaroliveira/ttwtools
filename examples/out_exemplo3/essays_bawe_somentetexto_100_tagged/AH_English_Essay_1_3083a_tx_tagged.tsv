@@ -1,643 +1,1042 @@
 # filename: AH_English_Essay_1_3083a_tx.txt
-token	tags
-Wyatt	CAP NNP
-'s	
-'	CONT QUOT
-Forget	PRIV CAP INF
-Not	XX0 RB CAP
-Yet	RB CAP
-'	CONT QUOT
-is	PASS VPRT AUXB
-laced	
-with	PIN PREP
-various	JJ
-poetic	JJ
-techniques	NN
-,	
-some	QUAN DET
-quite	RB
-clearly	RB
-recognisable	JJ
-,	
-yet	CCONJ
-others	NN
-more	RB EMPH CMADJ
-hidden	
-.	
-Nonetheless	RB CONJ CAP
-,	
-all	QUAN DET
-these	DEMO DET
-diverse	JJ
-poetic	JJ
-devices	NN
-culminate	NN
-to	PIN TO PREP
-assist	INF
-in	PIN CONJ PREP
-the	ART DET
-understanding	GER PRIV
-of	PIN PREP
-the	ART DET
-poem	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-.	
-The	ART CAP DET
-poem	NN
-'s	
-rhyme	NNP
-scheme	NN
-follows	VPRT
-an	ART DET INDA
-almost	DWNT RB
-constant	JJ
-regular	JJ
-pattern	NN
-,	
-comprising	GER PGAS
-aaab	NNP
-,	
-cccb	NNP
-,	
-dddb	NNP
-,	
-eeeb	NNP
-,	
-fffg	NNP
-,	
-(	
-though	CONC PIN SCONJ PREP
-some	QUAN DET
-of	PIN PREP
-these	DEMP DET
-are	BEMA VPRT AUXB
-pararhyme	JJ PRED
-)	
-.	
-In	PIN CONJ CAP PREP
-effect	NN
-,	
-this	DEMP DET
-imitates	VPRT
-the	ART DET
-form	NN
-of	PIN PREP
-a	ART DET INDA
-song	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT BYPA SPAU AUXB
-further	RB
-reiterated	
-by	PIN PREP
-the	ART DET
-repetition	NOMZ
-of	PIN PREP
-the	ART DET
-line	NN
-'	CONT QUOT
-Forget	PRIV CAP INF
-not	XX0 RB
-yet	RB
-,	
-'	CONT QUOT
-mimicking	PRESP PGAS
-what	WHQU WH
-would	PRMD
-be	BEMA AUXB INF
-the	ART DET
-refrain	NN
-;	
-however	RB CONJ
-a	ART DET INDA
-certain	JJ
-irony	NN
-lies	VPRT
-in	PIN CONJ PREP
-this	DEMO DET
-predominant	JJ
-line	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-The	ART CAP DET
-regularity	NOMZ
-achieved	WZPAST
-through	PIN PREP
-the	ART DET
-repetition	NOMZ
-of	PIN STPR PREP
-'	CONT QUOT
-Forget	PRIV CAP INF
-not	XX0 RB
-yet	RB
-'	CONT QUOT
-builds	VPRT
-up	PIN PREP
-an	ART DET INDA
-anticipation	NOMZ
-of	PIN PREP
-continuance	NN
-,	
-yet	CCONJ
-the	ART DET
-line	NN
-itself	PIT PRP SBJP ACCU
-perhaps	RB
-implies	VPRT PRIV
-departure	NN
-;	
-hence	RB CONJ
-,	
-a	ART DET INDA
-fitting	JJ
-sense	PRIV NN
-of	PIN PREP
-closure	NN
-is	PASS VPRT AUXB
-achieved	
-through	PIN PREP
-the	ART DET
-break	NN
-in	PIN CONJ PREP
-the	ART DET
-regularity	NOMZ
-of	PIN PREP
-this	DEMO DET
-repetition	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-final	JJ
-line	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-where	RB SCONJ WH
-'	CONT QUOT
-yet	RB
-'	CONT QUOT
-becomes	VPRT
-'	CONT QUOT
-this	DEMP DET
-.	
-'	CONT QUOT
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-it	PIT PRP SBJP
-could	POMD
-be	PASS AUXB INF
-suggested	PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-internal	JJ
-rhyme	NNP
-used	
-in	PIN CONJ PREP
-the	ART DET
-line	NN
-'	CONT QUOT
-Forget	PRIV CAP INF
-not	XX0 RB
-yet	RB
-'	CONT QUOT
-seeks	VPRT
-to	PIN TO PREP
-emphasise	INF
-the	ART DET
-word	NN
-'	CONT QUOT
-forget	PRIV INF
-'	CONT QUOT
-and	ANDC CCONJ
-thus	RB CONJ
-bring	INF
-about	PIN PREP
-a	ART DET INDA
-further	JJ
-sensation	NOMZ
-of	PIN PREP
-closure	NN
-.	
-Essentially	RB CAP
-,	
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-manner	NN
-as	PIN CONJ PREP
-the	ART DET
-routine	NN
-and	PHC CCONJ
-regularity	NOMZ
-(	
-achieved	PASTP
-through	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-rhyme	NN
-)	
-of	PIN PREP
-the	ART DET
-poem	NN
-have	VPRT PEAS
-changed	
-,	
-the	ART DET
-relationship	NN
-between	PIN PREP
-the	ART DET
-lovers	NN
-has	VPRT PEAS SPAU
-also	RB
-changed	
-.	
-Collectively	RB CAP
-,	
-the	ART DET
-upbeat	JJ
-rhythm	NN
-combined	WZPAST
-with	PIN PREP
-the	ART DET
-repetition	NOMZ
-of	PIN STPR PREP
-'	CONT QUOT
-Forget	PRIV CAP INF
-not	XX0 RB
-yet	RB
-'	CONT QUOT
-seems	VPRT SMP
-to	PIN TO PREP
-make	INF
-the	ART DET
-poem	NN
-one	NUM
-of	PIN PREP
-contrasts	NN
-,	
-where	RB SCONJ WH
-we	FPP1 PRP SBJP
-see	VPRT PRIV
-a	ART DET INDA
-paradoxical	JJ
-irony	NN
-between	PIN PREP
-continuation	NOMZ
-and	PHC CCONJ
-departure	NN
-.	
-Seemingly	RB CAP
-,	
-the	ART DET
-buoyant	JJ
-rhythm	NN
-,	
-maintained	PASTP PUBV
-by	PIN PREP
-the	ART DET
-iambic	JJ
-tetrameter	NN
-present	JJ
-in	PIN CONJ PREP
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-the	ART DET
-lines	NN
-(	
-apart	RB
-from	PIN PREP
-the	ART DET
-4	NUM
-th	NN
-,	
-8	NUM
-th	X
-,	
-12	NUM
-th	X
-,	
-16	NUM
-th	X
-and	CCONJ
-20	NUM
-th	NN
-)	
-creates	VPRT
-an	ART DET INDA
-air	NN
-of	PIN PREP
-jauntiness	NOMZ
-,	
-yet	CCONJ
-at	PIN PREP
-the	ART DET
-same	JJ
-time	NN
-,	
-as	PIN CONJ PREP
-mentioned	VBD PUBV
-the	ART DET
-notion	NOMZ
-of	PIN PREP
-departure	NN
-is	PASS VPRT AUXB
-emphasised	
-.	
-Wyatt	CAP NNP
-also	RB
-uses	VPRT
-figurative	JJ
-language	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO SPIN PREP
-perhaps	RB
-create	INF
-an	ART DET INDA
-image	NN
-of	PIN PREP
-labour	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-clear	JJ PRED
-by	PIN PREP
-the	ART DET
-lexical	JJ
-cluster	NN
-consisting	GER WZPRES PGAS
-of	PIN PREP
-laborious	JJ
-type	NN
-words	NN
-such	JJ
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-travail	JJ
-,	
-'	CONT QUOT
-'	CONT QUOT
-service	NN
-,	
-'	CONT QUOT
-and	ANDC CCONJ
-'	CONT QUOT
-assays	NN
-.	
-'	CONT QUOT
-In	PIN CONJ CAP PREP
-fact	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-first	JJ
-stanza	NN
-,	
-'	CONT QUOT
-travail	NN
-'	CONT QUOT
-is	PASS VPRT AUXB
-placed	
-with	PIN STPR PREP
-'	CONT QUOT
-tried	
-'	CONT QUOT
-and	ANDC CCONJ
-'	CONT QUOT
-truth	NN
-,	
-'	CONT QUOT
-thus	RB CONJ
-Wyatt	CAP NNP
-effectively	RB
-uses	VPRT
-the	ART DET
-rule	SUAV NN
-of	PIN PREP
-three	NUM
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO SPIN PREP
-fully	AMP RB
-stress	INF
-the	ART DET
-strife	NN
-faced	WZPAST
-by	PIN PREP
-the	ART DET
-lover	NN
-who	WHSUB WH
-encounters	VPRT
-'	CONT QUOT
-cruel	JJ
-wrong	NN
-'	CONT QUOT
-and	ANDC CCONJ
-'	CONT QUOT
-scornful	JJ
-ways	NN
-,	
-'	CONT QUOT
-regardless	RB
-of	PIN PREP
-rejection	NOMZ
-.	
-Despite	PIN CAP SCONJ PREP
-the	ART DET
-invocation	NOMZ
-of	PIN PREP
-the	ART DET
-concept	NN
-of	PIN PREP
-hard	JJ
-work	NN
-and	PHC CCONJ
-strife	NN
-,	
-it	PIT PRP SBJP
-seems	VPRT SMP
-that	PIN THVC SCONJ PREP
-the	ART DET
-lover	NN
-remains	VPRT
-resilient	JJ
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-are	PASS VPRT SPAU AUXB
-also	RB
-made	
-aware	JJ
-of	PIN PREP
-the	ART DET
-lover	NN
-'s	
-steadfast	JJ
-commitment	NOMZ
-,	
-as	PIN CONJ PREP
-demonstrated	PRIV
-in	PIN CONJ PREP
-the	ART DET
-third	JJ
-stanza	NN
-,	
-through	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-the	ART DET
-phrase	NN
-'	CONT QUOT
-painful	JJ
-patience	NN
-.	
-'	CONT QUOT
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-made	
-clear	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-lover	NN
-'s	
-'	CONT QUOT
-great	JJ
-travail	NN
-'	CONT QUOT
-is	VPRT AUXB
-'	CONT QUOT
-gladly	RB
-spent	
-.	
-'	CONT QUOT
-Despite	PIN STPR CAP SCONJ PREP
-'	CONT QUOT
-denays	NN
-,	
-'	CONT QUOT
-the	ART DET
-lover	NN
-continued	VBD
-to	PIN TO PREP
-display	INF
-a	ART DET INDA
-'	CONT QUOT
-steadfast	NN
-faith	NN
-'	CONT QUOT
-which	SERE DET WH
-'	CONT QUOT
-never	RB
-moved	VBD SUAV
-,	
-'	CONT QUOT
-and	ANDC CCONJ
-the	ART DET
-alliteration	NOMZ
-of	PIN PREP
-the	ART DET
-letter	NN
-'	CONT QUOT
-p	NN
-'	CONT QUOT
-accentuates	VPRT
-the	ART DET
-harsh	JJ
-consonant	JJ
-sound	NN
-and	ANDC CCONJ
-thus	RB CONJ
-mimics	VPRT
-the	ART DET
-painfulness	NOMZ
-of	PIN PREP
-perusing	PGAS
-a	ART DET INDA
-loved	
-one	NN
-despite	PIN SCONJ PREP
-rejection	NOMZ
-.	
-Wyatt	CAP NNP
-'s	
-poem	NN
-clearly	RB
-depicts	VPRT
-an	ART DET INDA
-unfaltering	GER PGAS
-love	NN
-which	WHSUB DET WH
-is	BEMA VPRT AUXB
-resilient	JJ PRED
-towards	PIN PREP
-various	JJ
-tests	NN
-.	
-The	ART CAP DET
-main	JJ
-tenets	NN
-of	PIN PREP
-love	NN
-,	
-faith	NN
-,	
-commitment	NOMZ
-and	PHC CCONJ
-labour	NN
-are	PASS VPRT SPAU AUXB
-readily	RB
-depicted	
-through	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-alliteration	NOMZ
-,	
-internal	JJ
-rhyme	NN
-and	CCONJ
-the	ART DET
-effect	NN
-of	PIN PREP
-masculine	JJ
-end	NN
-rhyme	NN
-,	
-which	SERE DET WH
-gives	VPRT
-a	ART DET INDA
-somewhat	DWNT RB
-definite	JJ
-and	CCONJ
-concluding	GER PRIV
-feel	VPRT PRIV
-to	PIN PREP
-the	ART DET
-poem	NN
-.	
-In	PIN CONJ CAP PREP
-turn	NN
-,	
-this	DEMP DET
-illustrates	VPRT
-the	ART DET
-closure	NN
-the	ART DET
-lover	NN
-wishes	VPRT
-to	PIN TO PREP
-seek	INF
-with	PIN PREP
-the	ART DET
-relationship	NN
-.	
+type	content	tags
+word	Wyatt	CAP NNP
+gap	'	
+word	s	
+gap	 ' 	
+word	Forget	PRIV CAP INF
+gap	 	
+word	Not	XX0 RB CAP
+gap	 	
+word	Yet	RB CAP
+gap	' 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	laced	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	poetic	JJ
+gap	 	
+word	techniques	NN
+gap	, 	
+word	some	QUAN DET
+gap	 	
+word	quite	RB
+gap	 	
+word	clearly	RB
+gap	 	
+word	recognisable	JJ
+gap	, 	
+word	yet	CCONJ
+gap	 	
+word	others	NN
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	hidden	
+gap	. 	
+word	Nonetheless	RB CONJ CAP
+gap	, 	
+word	all	QUAN DET
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	diverse	JJ
+gap	 	
+word	poetic	JJ
+gap	 	
+word	devices	NN
+gap	 	
+word	culminate	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	assist	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	poem	NN
+gap	'	
+word	s	
+gap	 	
+word	rhyme	NNP
+gap	 	
+word	scheme	NN
+gap	 	
+word	follows	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	almost	DWNT RB
+gap	 	
+word	constant	JJ
+gap	 	
+word	regular	JJ
+gap	 	
+word	pattern	NN
+gap	, 	
+word	comprising	GER PGAS
+gap	 	
+word	aaab	NNP
+gap	, 	
+word	cccb	NNP
+gap	, 	
+word	dddb	NNP
+gap	, 	
+word	eeeb	NNP
+gap	, 	
+word	fffg	NNP
+gap	, (	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMP DET
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	pararhyme	JJ PRED
+gap	). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	effect	NN
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	imitates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	song	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	further	RB
+gap	 	
+word	reiterated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	repetition	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	line	NN
+gap	 '	
+word	Forget	PRIV CAP INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	yet	RB
+gap	,' 	
+word	mimicking	PRESP PGAS
+gap	 	
+word	what	WHQU WH
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	refrain	NN
+gap	; 	
+word	however	RB CONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	certain	JJ
+gap	 	
+word	irony	NN
+gap	 	
+word	lies	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	predominant	JJ
+gap	 	
+word	line	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	regularity	NOMZ
+gap	 	
+word	achieved	WZPAST
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	repetition	NOMZ
+gap	 	
+word	of	PIN STPR PREP
+gap	 '	
+word	Forget	PRIV CAP INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	yet	RB
+gap	' 	
+word	builds	VPRT
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	anticipation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	continuance	NN
+gap	, 	
+word	yet	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	line	NN
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	 	
+word	perhaps	RB
+gap	 	
+word	implies	VPRT PRIV
+gap	 	
+word	departure	NN
+gap	; 	
+word	hence	RB CONJ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	fitting	JJ
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	closure	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	achieved	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	break	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	regularity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	repetition	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	final	JJ
+gap	 	
+word	line	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 '	
+word	yet	RB
+gap	' 	
+word	becomes	VPRT
+gap	 '	
+word	this	DEMP DET
+gap	. ' 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	suggested	PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	internal	JJ
+gap	 	
+word	rhyme	NNP
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	line	NN
+gap	 '	
+word	Forget	PRIV CAP INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	yet	RB
+gap	' 	
+word	seeks	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	emphasise	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	word	NN
+gap	 '	
+word	forget	PRIV INF
+gap	' 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	bring	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	further	JJ
+gap	 	
+word	sensation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	closure	NN
+gap	. 	
+word	Essentially	RB CAP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	manner	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	routine	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	regularity	NOMZ
+gap	 (	
+word	achieved	PASTP
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rhyme	NN
+gap	) 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	changed	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	relationship	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lovers	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	changed	
+gap	. 	
+word	Collectively	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	upbeat	JJ
+gap	 	
+word	rhythm	NN
+gap	 	
+word	combined	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	repetition	NOMZ
+gap	 	
+word	of	PIN STPR PREP
+gap	 '	
+word	Forget	PRIV CAP INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	yet	RB
+gap	' 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contrasts	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	see	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	paradoxical	JJ
+gap	 	
+word	irony	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	continuation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	departure	NN
+gap	. 	
+word	Seemingly	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	buoyant	JJ
+gap	 	
+word	rhythm	NN
+gap	, 	
+word	maintained	PASTP PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	iambic	JJ
+gap	 	
+word	tetrameter	NN
+gap	 	
+word	present	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lines	NN
+gap	 (	
+word	apart	RB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 4 	
+word	th	NN
+gap	 , 8 	
+word	th	X
+gap	 , 12 	
+word	th	X
+gap	 , 16 	
+word	th	X
+gap	 	
+word	and	CCONJ
+gap	 20 	
+word	th	NN
+gap	 ) 	
+word	creates	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	air	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	jauntiness	NOMZ
+gap	, 	
+word	yet	CCONJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	time	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	mentioned	VBD PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	departure	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	emphasised	
+gap	. 	
+word	Wyatt	CAP NNP
+gap	 	
+word	also	RB
+gap	 	
+word	uses	VPRT
+gap	 	
+word	figurative	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	perhaps	RB
+gap	 	
+word	create	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	image	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	labour	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	clear	JJ PRED
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lexical	JJ
+gap	 	
+word	cluster	NN
+gap	 	
+word	consisting	GER WZPRES PGAS
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	laborious	JJ
+gap	 	
+word	type	NN
+gap	 	
+word	words	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 '	
+word	travail	JJ
+gap	,' '	
+word	service	NN
+gap	,' 	
+word	and	ANDC CCONJ
+gap	 '	
+word	assays	NN
+gap	.' 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	stanza	NN
+gap	, '	
+word	travail	NN
+gap	' 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	placed	
+gap	 	
+word	with	PIN STPR PREP
+gap	 '	
+word	tried	
+gap	' 	
+word	and	ANDC CCONJ
+gap	 '	
+word	truth	NN
+gap	,' 	
+word	thus	RB CONJ
+gap	 	
+word	Wyatt	CAP NNP
+gap	 	
+word	effectively	RB
+gap	 	
+word	uses	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	rule	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	three	NUM
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	fully	AMP RB
+gap	 	
+word	stress	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	strife	NN
+gap	 	
+word	faced	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lover	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	encounters	VPRT
+gap	 '	
+word	cruel	JJ
+gap	 	
+word	wrong	NN
+gap	' 	
+word	and	ANDC CCONJ
+gap	 '	
+word	scornful	JJ
+gap	 	
+word	ways	NN
+gap	,' 	
+word	regardless	RB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rejection	NOMZ
+gap	. 	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	invocation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	strife	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lover	NN
+gap	 	
+word	remains	VPRT
+gap	 	
+word	resilient	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	made	
+gap	 	
+word	aware	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lover	NN
+gap	'	
+word	s	
+gap	 	
+word	steadfast	JJ
+gap	 	
+word	commitment	NOMZ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	demonstrated	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	third	JJ
+gap	 	
+word	stanza	NN
+gap	, 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	phrase	NN
+gap	 '	
+word	painful	JJ
+gap	 	
+word	patience	NN
+gap	.' 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	made	
+gap	 	
+word	clear	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lover	NN
+gap	'	
+word	s	
+gap	 '	
+word	great	JJ
+gap	 	
+word	travail	NN
+gap	' 	
+word	is	VPRT AUXB
+gap	 '	
+word	gladly	RB
+gap	 	
+word	spent	
+gap	.' 	
+word	Despite	PIN STPR CAP SCONJ PREP
+gap	 '	
+word	denays	NN
+gap	,' 	
+word	the	ART DET
+gap	 	
+word	lover	NN
+gap	 	
+word	continued	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	display	INF
+gap	 	
+word	a	ART DET INDA
+gap	 '	
+word	steadfast	NN
+gap	 	
+word	faith	NN
+gap	' 	
+word	which	SERE DET WH
+gap	 '	
+word	never	RB
+gap	 	
+word	moved	VBD SUAV
+gap	,' 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	alliteration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	letter	NN
+gap	 '	
+word	p	NN
+gap	' 	
+word	accentuates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	harsh	JJ
+gap	 	
+word	consonant	JJ
+gap	 	
+word	sound	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	mimics	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	painfulness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	perusing	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	loved	
+gap	 	
+word	one	NN
+gap	 	
+word	despite	PIN SCONJ PREP
+gap	 	
+word	rejection	NOMZ
+gap	. 	
+word	Wyatt	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	poem	NN
+gap	 	
+word	clearly	RB
+gap	 	
+word	depicts	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unfaltering	GER PGAS
+gap	 	
+word	love	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	resilient	JJ PRED
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	tests	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	tenets	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	love	NN
+gap	, 	
+word	faith	NN
+gap	, 	
+word	commitment	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	labour	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	readily	RB
+gap	 	
+word	depicted	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	alliteration	NOMZ
+gap	, 	
+word	internal	JJ
+gap	 	
+word	rhyme	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	effect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	masculine	JJ
+gap	 	
+word	end	NN
+gap	 	
+word	rhyme	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	gives	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	definite	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	concluding	GER PRIV
+gap	 	
+word	feel	VPRT PRIV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	turn	NN
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	illustrates	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	closure	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	lover	NN
+gap	 	
+word	wishes	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	seek	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	relationship	NN
+gap	.	

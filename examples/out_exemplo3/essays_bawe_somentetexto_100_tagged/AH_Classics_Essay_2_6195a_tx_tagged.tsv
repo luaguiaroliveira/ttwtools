@@ -1,1216 +1,2198 @@
 # filename: AH_Classics_Essay_2_6195a_tx.txt
-token	tags
-The	ART CAP DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-transcript	NN
--	
-like	JJ
-inscription	NOMZ
-that	TSUB WHSUB WH
-contains	VPRT
-Claudius	CAP NNP
-'	CONT QUOT
-actual	JJ
-speech	NN
-in	PIN CONJ PREP
-contrast	NN
-to	PIN PREP
-Tacitus	CAP NNP
-Annals	CAP NNP
-,	
-which	SERE WHQU DET WH
-was	PASS VBD AUXB
-written	PUBV
-nearly	DWNT RB
-70	NUM
-years	NN
-after	PIN PREP
-by	PIN PREP
-someone	QUPR INPR
-who	WH
-was	VBD AUXB
-not	XX0 RB
-there	RB
-or	CCONJ
-even	RB
-a	ART DET INDA
-contemporary	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-note	PRIV INF
-the	ART DET
-purpose	NN
-of	PIN PREP
-each	QUAN DET
-of	PIN PREP
-these	DEMO DET
-texts	NN
-as	PIN CONJ PREP
-the	ART DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-inscription	NOMZ
-is	BEMA VPRT AUXB
-an	ART DET INDA
-informative	JJ
-record	NN
-of	PIN PREP
-the	ART DET
-speech	NN
-by	PIN PREP
-Claudius	CAP NNP
-whereas	OSUB PIN SCONJ PREP
-the	ART DET
-Tacitus	CAP NNP
-version	NOMZ
-is	VPRT AUXB
-,	
-although	CONC PIN SCONJ PREP
-meant	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-to	PIN PREP
-an	ART DET INDA
-extent	NN
-informative	JJ
-,	
-intended	PASTP SUAV
-to	PIN TO PREP
-entertain	INF
-the	ART DET
-readers	NN
-of	PIN PREP
-the	ART DET
-time	NN
-i.e.	CONJ X
-the	ART DET
-aristocracy	NN
-.	
-Therefore	RB CONJ CAP
-the	ART DET
-style	NN
-and	PHC CCONJ
-presentation	NOMZ
-is	BEMA VPRT AUXB
-fundamentally	RB
-differing	JJ
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-evident	JJ PRED
-in	PIN CONJ PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-Tacitus	CAP NNP
-version	NOMZ
-summarises	VPRT
-the	ART DET
-senator	NN
-'s	
-early	JJ TIME
-views	NN
-clearly	RB
-in	PIN CONJ PREP
-speech	NN
-whereas	OSUB PIN SCONJ PREP
-the	ART DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-has	VPRT
-interruptions	NOMZ
-from	PIN PREP
-individuals	NN
-who	WHSUB WH
-appear	VPRT SMP
-to	PIN TO PREP
-be	AUXB INF
-senators	NN
-.	
-From	PIN CAP PREP
-a	ART DET INDA
-dramatic	JJ
-and	PHC CCONJ
-stylistic	JJ
-perspective	NN
-this	DEMP DET
-would	PRMD SPAU
-obviously	RB
-not	XX0 RB
-have	PEAS INF
-suited	
-Tacitus	CAP NNP
-,	
-thus	RB CONJ
-he	TPP3 PRP SBJP
-uses	VPRT
-narrative	NN
-prose	NN
-.	
-The	ART CAP DET
-Tacitus	CAP NNP
-version	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-summarised	JJ
-.	
-"	QUOT
-Not	XX0 RB CAP
-to	PIN TO PREP
-enquire	INF
-too	RB
-minutely	RB
-into	PIN PREP
-the	ART DET
-past	NN
-...	
-new	JJ
-members	NN
-have	VPRT PEAS
-been	PASS AUXB
-brought	
-into	PIN PREP
-the	ART DET
-senate	NNP
-from	PIN PREP
-Etruria	CAP NNP
-...	
-and	ANDC CCONJ
-the	ART DET
-whole	NN
-of	PIN PREP
-Italy	CAP NNP
-...	
-so	RB
-not	XX0 RB
-only	DWNT RB
-single	JJ
-persons	NN
-but	CCONJ
-entire	JJ
-countries	NN
-and	PHC CCONJ
-tribes	NN
-might	POMD
-be	PASS AUXB INF
-united	
-under	PIN PREP
-one	NUM
-name	NN
-.	
-"	QUOT
-The	ART CAP DET
-Lyon	CAP NNP
-tablet	NN
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-does	VPRT EMPH
-go	INF
-into	PIN PREP
-minute	JJ
-detail	NN
-about	PIN PREP
-the	ART DET
-past	NN
-,	
-indeed	RB
-the	ART DET
-entire	JJ
-second	JJ
-paragraph	NN
-talks	NN
-about	PIN PREP
-the	ART DET
-ancient	JJ
-history	NN
-of	PIN PREP
-Rome	CAP NNP
-.	
-This	DEMP CAP DET
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-Tactitus	CAP NNP
-may	POMD
-have	PEAS INF
-read	
-this	DEMP DET
-and	CCONJ
-decided	VBD PRIV SUAV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-was	PASS VBD SPAU AUXB
-too	RB
-long	RB
-winded	
-and	ANDC CCONJ
-so	RB
-chose	VBD
-to	PIN TO PREP
-use	INF
-his	TPP3 PRP SBJP
-own	JJ
-examples	NN
-including	WZPRES PGAS
-,	
-as	PIN CONJ PREP
-the	ART DET
-origin	NN
-of	PIN PREP
-the	ART DET
-Julii	CAP NNP
-,	
-Coruncaii	CAP NNP
-and	PHC CCONJ
-Porcii	CAP NNP
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-his	TPP3 PRP SBJP
-own	JJ
-seemingly	RB
-made	
--	
-up	PIN PREP
-rhetorical	JJ
-questions	NOMZ
-:	
-"	QUOT
-Are	VPRT AUXB CAP
-we	FPP1 PRP SBJP
-sorry	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-Balbi	CAP NNP
-came	VBD
-to	PIN TO PREP
-use	INF
-from	PIN PREP
-Spain	CAP NNP
-?	QUES
-"	QUOT
-these	DEMO DET
-inaccuracies	NN
-are	PASS VPRT AUXB
-seen	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-dramatic	JJ
-but	CCONJ
-deviate	JJ
-from	PIN PREP
-the	ART DET
-facts	NN
-.	
-The	ART CAP DET
-senator	NN
-'s	
-speech	NN
-to	PIN PREP
-Claudius	CAP NNP
-at	PIN PREP
-the	ART DET
-beginning	NN
-of	PIN PREP
-Tacitus	CAP NNP
-is	PASS VPRT SPAU AUXB
-completely	AMP RB
-fabricated	
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-existence	NN
-,	
-according	PGAS
-to	PIN PREP
-the	ART DET
-Lyons	CAP NNP
-inscription	NOMZ
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-context	NN
-it	PIT PRP SBJP
-is	VPRT AUXB
-mainly	RB
-over	RB
--	
-dramatised	
-.	
-For	PIN CAP PREP
-example	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-Lyons	CAP NNP
-inscription	NOMZ
-Claudius	CAP NNP
-does	VPRT EMPH
-explain	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-senate	NNP
-may	POMD
-have	INF
-concerns	NN
-over	PIN PREP
-the	ART DET
-"	QUOT
-novelty	NN
-"	QUOT
-of	PIN PREP
-introducing	GER PGAS
-new	JJ
-tribes	NN
-into	PIN PREP
-the	ART DET
-senate	NNP
-,	
-however	RB CONJ
-the	ART DET
-Tacitus	CAP NNP
-version	NOMZ
-reads	VPRT
-"	QUOT
-that	PIN THVC SCONJ PREP
-every	QUAN DET
-place	NN
-will	PRMD
-be	PASS AUXB INF
-crowded	
-with	PIN PREP
-these	DEMO DET
-millionaires	NN
-[	X
-The	ART CAP DET
-Gallic	CAP NNP
-chieftains	NN
-who	WHSUB WH
-wish	VPRT
-to	PIN TO PREP
-join	INF
-the	ART DET
-senate]	NNP
-...	
-whose	DET WH
-second	JJ
-and	PHC CCONJ
-third	JJ
-generation	NOMZ
-destroyed	VBD
-our	FPP1 PRP SBJP
-armies	NN
-with	PIN PREP
-fire	NN
-and	PHC CCONJ
-sword	NN
-!	EXCL
-"	QUOT
-.	
-Against	PIN CAP PREP
-such	JJ
-strong	JJ
-opposition	NOMZ
-as	PIN CONJ PREP
-this	DEMO DET
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-why	RB WHCL SCONJ WH
-after	PIN PREP
-only	DWNT RB
-the	ART DET
-short	JJ
-speech	NN
-by	PIN PREP
-Claudius	CAP NNP
-,	
-the	ART DET
-Senate	CAP NNP
-was	BEMA VBD AUXB
-so	RB EMPH
-eager	JJ
-to	PIN TO PREP
-pass	INF
-a	ART DET INDA
-decree	SUAV NN
-.	
-True	JJ CAP
-the	ART DET
-Lyon	CAP NNP
-inscription	NOMZ
-does	VPRT EMPH
-show	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-senate	NNP
-was	BEMA VBD AUXB
-in	PIN CONJ PREP
-opposition	NOMZ
-but	CCONJ
-it	PIT PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-use	INF
-the	ART DET
-same	JJ
-analogies	NN
-or	CCONJ
-opinions	NN
-shown	PRIV WZPAST
-by	PIN PREP
-the	ART DET
-senator	NN
-in	PIN CONJ PREP
-Tacitus	CAP NNP
-,	
-for	PIN PREP
-example	NN
-there	EX
-being	AUXB
-no	SYNE DET
-distinctions	NOMZ
-left	WZPAST
-for	PIN STPR PREP
-"	QUOT
-our	FPP1 PRP SBJP
-noble	JJ
-houses	NN
-"	QUOT
-.	
-This	DEMO CAP DET
-therefore	RB CONJ
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-Tacitus	CAP NNP
-shows	VPRT PRIV
-a	ART DET INDA
-greater	JJ CMADJ
-opposition	NOMZ
-to	PIN TO PREP
-add	PUBV INF
-more	RB EMPH CMADJ
-dramatic	JJ
-and	PHC CCONJ
-romantic	JJ
-effect	NN
-to	PIN PREP
-Claudius	CAP NNP
-speech	NN
-.	
-This	DEMO CAP DET
-explanation	NOMZ
-is	PASS VPRT BYPA AUXB
-re	PIN PREP
--	
-enforced	
-by	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-he	TPP3 PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-state	PUBV INF
-which	WHCL DET WH
-senator	NN
-says	VPRT PUBV
-this	DEMO DET
-he	TPP3 PRP SBJP
-simply	RB
-says	VPRT PUBV
-"	QUOT
-These	DEMP CAP DET
-and	CCONJ
-alike	JJ
-arguments	NOMZ
-failed	VBD
-to	PIN TO PREP
-impress	INF
-the	ART DET
-emperor	NN
-"	QUOT
-which	SERE DET WH
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-views	NN
-expressed	WZPAST
-were	BEMA VBD AUXB
-possibly	RB
-a	ART DET INDA
-mixture	NN
-between	PIN PREP
-what	WH
-he	TPP3 PRP SBJP
-himself	TPP3 PRP SBJP ACCU
-thought	VBD PRIV
-might	POMD
-have	PEAS INF
-been	PASS AUXB
-said	PUBV
-at	PIN PREP
-the	ART DET
-time	NN
-and	ANDC CCONJ
-what	WH
-he	TPP3 PRP SBJP
-factually	RB
-knew	VBD PRIV
-.	
-Claudius	CAP NNP
-personality	NOMZ
-emerges	VPRT
-to	PIN PREP
-us	FPP1 PRP SBJP ACCU
-as	RB CONJ
-greatly	AMP RB
-improved	
-in	PIN CONJ PREP
-Tacitus	CAP NNP
-,	
-the	ART DET
-lack	NN
-of	PIN PREP
-interruptions	NOMZ
-,	
-the	ART DET
-narration	NOMZ
-,	
-the	ART DET
-more	RB EMPH CMADJ
-heroic	JJ
-,	
-dramatic	JJ
-sentences	NN
-and	CCONJ
-the	ART DET
-rousing	PGAS
-examples	NN
-all	QUAN DET
-create	VPRT
-a	ART DET INDA
-strong	JJ
-,	
-articulate	JJ
-character	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-numerous	JJ
-sentences	NN
-that	TSUB WHSUB WH
-show	VPRT PRIV THATD
-this	DEMP DET
-,	
-that	WHQU DEMP WH
-are	VPRT AUXB
-totally	AMP RB
-or	CCONJ
-partially	DWNT RB
-distorted	
-from	PIN PREP
-those	DEMP DET
-shown	PRIV
-in	PIN CONJ PREP
-the	ART DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-,	
-but	CCONJ
-create	INF
-a	ART DET INDA
-more	RB EMPH CMADJ
-impressive	JJ
-character	NN
-of	PIN PREP
-the	ART DET
-emperor	NN
-.	
-Firstly	RB CAP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-Tacitus	CAP NNP
-version	NOMZ
-is	BEMA VPRT AUXB
-shorter	JJ PRED CMADJ
-in	PIN CONJ PREP
-comparison	NN
-to	PIN PREP
-the	ART DET
-Lyon	CAP NNP
-tablet	NN
-,	
-creates	VPRT
-a	ART DET INDA
-notion	NOMZ
-that	PIN TOBJ SCONJ PREP
-Claudius	CAP NNP
-ability	NOMZ
-to	PIN TO PREP
-persuade	INF
-is	BEMA VPRT AUXB
-very	AMP RB
-great	JJ
-,	
-especially	RB
-as	PIN CONJ PREP
-has	VPRT PEAS SPAU
-previously	RB TIME
-been	PASS AUXB
-discussed	
-,	
-because	CAUS PIN SCONJ PREP
-the	ART DET
-senators	NN
-speech	NN
-at	PIN PREP
-the	ART DET
-beginning	NN
-is	PASS VPRT SPAU AUXB
-directly	RB
-polarised	
-.	
-Tacitus	CAP NNP
-also	RB
-keeps	VPRT
-the	ART DET
-attention	NOMZ
-of	PIN PREP
-the	ART DET
-reader	NN
-to	PIN PREP
-a	ART DET INDA
-greater	JJ CMADJ
-extent	NN
-,	
-suggesting	GER PUBV SUAV PGAS
-that	PIN THVC SCONJ PREP
-Claudius	CAP NNP
-had	VBD
-great	JJ
-oratory	JJ
-skills	NN
-whereas	OSUB PIN SCONJ PREP
-the	ART DET
-Lyon	CAP NNP
-inscription	NOMZ
-shows	VPRT PRIV
-this	DEMO DET
-to	PIN PREP
-a	ART DET INDA
-lesser	JJ CMADJ
-extent	NN
-.	
-For	PIN CAP PREP
-example	NN
-realistically	RB
-,	
-The	ART CAP DET
-Lyon	CAP NNP
-tablets	NN
-contain	VPRT
-tangents	NN
-and	CCONJ
-slight	JJ
-irrelevancies	NN
-such	JJ
-as	PIN CONJ PREP
-Claudius	CAP NNP
-mention	PUBV NOMZ
-of	PIN PREP
-himself	TPP3 PRP SBJP ACCU
-seeming	PGAS
-boastful	JJ
-about	PIN PREP
-Rome	CAP NNP
-'s	
-many	QUAN JJ
-conquests	NN
-,	
-to	PIN PREP
-which	PIRE DET WH
-he	TPP3 PRP SBJP
-follows	VPRT
-by	PIN PREP
-saying	PUBV PGAS
-"	QUOT
-But	CAP CCONJ
-I	FPP1 CAP PRP SBJP
-will	PRMD
-return	INF
-to	PIN PREP
-the	ART DET
-point	NN
-"	QUOT
-and	ANDC CCONJ
-the	ART DET
-second	JJ
-interruption	NOMZ
-by	PIN PREP
-a	ART DET INDA
-senator	NN
-asking	WZPRES SUAV PGAS
-"	QUOT
-where	RB SCONJ WH
-the	ART DET
-speech	NN
-is	VPRT AUXB
-tending	PGAS
-"	QUOT
-.	
-It	PIT CAP PRP SBJP
-also	RB
-ends	VPRT
-slowly	RB
-without	PIN PREP
-giving	PGAS
-something	QUPR INPR
-for	PIN PREP
-the	ART DET
-listeners	NN
-to	PIN TO PREP
-hang	INF
-on	PIN PREP
-whereas	OSUB PIN SCONJ PREP
-Tacitus	CAP NNP
-'	CONT QUOT
-version	NOMZ
-ends	VPRT
-"	QUOT
-What	WHQU CAP WH
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-,	
-this	DEMO DET
-day	NN
-justifying	GER WZPRES PGAS
-with	PIN PREP
-precedents	NN
-,	
-will	PRMD
-one	NUM
-day	NN
-become	INF
-one	NUM
-in	PIN CONJ PREP
-itself	PIT PRP SBJP ACCU
-.	
-"	QUOT
-Indeed	RB CAP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-authority	NOMZ
-with	PIN PREP
-which	PIRE DET WH
-Claudius	CAP NNP
-speaks	VPRT
-in	PIN CONJ PREP
-Tacitus	CAP NNP
-that	DEMP WH
-seems	VPRT SMP
-so	RB EMPH
-influential	JJ
-and	PHC CCONJ
-important	JJ
-to	PIN PREP
-the	ART DET
-debate	NN
-"	QUOT
-My	FPP1 CAP PRP SBJP
-ancestors	NN
-,	
-the	ART DET
-most	RB EMPH SPADJ
-ancient	JJ
-of	PIN PREP
-whom	PIRE WH
-...	
-governed	PASTP
-by	PIN PREP
-the	ART DET
-same	JJ
-policy	NN
-of	PIN PREP
-transferring	GER PGAS
-to	PIN PREP
-the	ART DET
-city	NN
-all	QUAN DET
-conspicuous	JJ
-merit	NN
-wherever	RB WHOBJ SCONJ WH
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-found	PRIV
-.	
-"	QUOT
-Claudius	CAP NNP
-begins	VPRT
-in	PIN CONJ PREP
-Tacitus	CAP NNP
-and	CCONJ
-yet	RB
-the	ART DET
-beginning	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-actual	JJ
-speech	NN
-shown	PRIV WZPAST
-on	PIN PREP
-the	ART DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-seems	VPRT SMP
-to	PIN TO PREP
-speak	INF
-with	PIN PREP
-much	QUAN RB
-less	JJ CMADJ
-conviction	NOMZ
-and	PHC CCONJ
-authority	NOMZ
-,	
-he	TPP3 PRP SBJP
-deprecates	VPRT
-his	TPP3 PRP SBJP
-main	JJ
-obstacle	NN
-and	CCONJ
-asks	VPRT SUAV
-the	ART DET
-senate	NNP
-not	XX0 RB
-to	PIN TO PREP
-be	PASS AUXB INF
-alarmed	
-but	CCONJ
-to	PIN TO PREP
-remember	PRIV INF
-the	ART DET
-changes	NN
-that	TOBJ WHOBJ WH
-the	ART DET
-city	NN
-has	VPRT PEAS
-undergone	
-throughout	PIN PREP
-the	ART DET
-ages	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-a	ART DET INDA
-luke	JJ
--	
-warm	JJ
-statement	NOMZ
-for	PIN PREP
-his	TPP3 PRP SBJP
-character	NN
-.	
-The	ART CAP DET
-entire	JJ
-tone	NN
-of	PIN PREP
-Tacitus	CAP NNP
-version	NOMZ
-is	VPRT AUXB
-inspiring	PGAS
-using	PGAS
-such	JJ
-words	NN
-as	PIN CONJ STPR PREP
-"	QUOT
-patriotic	JJ
-"	QUOT
-and	ANDC CCONJ
-using	PGAS
-an	ART DET INDA
-example	NN
-of	PIN PREP
-Athens	CAP NNP
-and	PHC CCONJ
-Sparta	CAP NNP
-'s	
-decline	NN
-due	PIN PREP
-to	PIN PREP
-their	TPP3 PRP SBJP
-inability	NOMZ
-to	PIN TO PREP
-befriend	INF
-and	PHC CCONJ
-capitalise	INF
-on	PIN PREP
-their	TPP3 PRP SBJP
-conquered	JJ
-foes	NN
-,	
-yet	CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-virtually	RB
-all	QUAN DET
-fabricated	
-and	CCONJ
-greatly	AMP RB
-more	RB EMPH CMADJ
-concise	JJ
-if	COND PIN SCONJ PREP
-the	ART DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-believed	PRIV
-.	
-It	PIT CAP PRP SBJP
-is	VPRT AUXB
-also	RB
-probably	RB
-no	SYNE DET
-coincidence	NN
-that	TOBJ WHOBJ WH
-Tacitus	CAP NNP
-was	BEMA VBD AUXB
-a	ART DET INDA
-himself	TPP3 PRP SBJP ACCU
-a	ART DET INDA
-great	JJ
-writer	NN
-,	
-being	PASS AUXB
-taught	
-rhetoric	NN
-from	PIN PREP
-a	ART DET INDA
-young	JJ
-age	NN
-it	PIT PRP SBJP
-seems	VPRT SMP
-that	PIN THVC SCONJ PREP
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-the	ART DET
-devices	NN
-used	WZPAST
-were	PASS VBD BYPA AUXB
-created	
-by	PIN PREP
-himself	TPP3 PRP SBJP ACCU
-.	
-There	EX CAP
-is	VPRT AUXB
-further	JJ
-evidence	NN
-for	PIN PREP
-this	DEMO DET
-in	PIN CONJ PREP
-that	PIN DEMO SCONJ PREP
-Tactitus	CAP NNP
-does	VPRT PROD
-have	INF
-several	QUAN JJ
-distortions	NOMZ
-of	PIN PREP
-the	ART DET
-truth	NN
-,	
-for	PIN PREP
-example	NN
-he	TPP3 PRP SBJP
-says	VPRT PUBV
-"	QUOT
-if	COND PIN SCONJ PREP
-you	SPP2 PRP SBJP
-review	VPRT
-the	ART DET
-Romans	CAP NNP
-wars	NN
-,	
-never	RB
-has	VPRT
-one	NUM
-been	BEMA AUXB
-shorter	JJ PRED CMADJ
-than	PIN PREP
-the	ART DET
-one	NUM
-with	PIN PREP
-Gaul	CAP NNP
-"	QUOT
-,	
-this	DEMP DET
-is	VPRT AUXB
-vastly	RB
-far	RB PLACE
-from	PIN PREP
-the	ART DET
-truth	NN
-as	PIN CONJ PREP
-Caesars	CAP NNP
-conquest	NN
-of	PIN PREP
-Gaul	CAP NNP
-took	VBD
-eight	NUM
-years	NN
-of	PIN PREP
-intense	JJ
-fighting	NN
-(	
-other	JJ
-wars	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-social	JJ
-war	NN
-,	
-lasted	VBD
-significantly	RB
-less	JJ CMADJ
-time	NN
-)	
-.	
-The	ART CAP DET
-Tacitus	CAP NNP
-version	NOMZ
-of	PIN PREP
-Claudius	CAP NNP
-'	CONT QUOT
-speech	NN
-then	RB
-is	BEMA VPRT AUXB
-a	ART DET INDA
-significantly	RB
-different	JJ
-one	NUM
-to	PIN PREP
-the	ART DET
-actual	JJ
-speech	NN
-as	PIN CONJ PREP
-shown	PRIV
-by	PIN PREP
-the	ART DET
-Lyons	CAP NNP
-inscriptions	NOMZ
-.	
-There	EX CAP
-are	VPRT AUXB
-some	QUAN DET
-distortions	NOMZ
-of	PIN PREP
-the	ART DET
-facts	NN
-,	
-over	PIN STPR PREP
--	
-dramatising	GER
-of	PIN PREP
-the	ART DET
-situation	NOMZ
-and	CCONJ
-a	ART DET INDA
-great	JJ
-deal	NN
-of	PIN PREP
-what	WH
-appears	VPRT SMP
-to	PIN TO PREP
-be	AUXB INF
-Tacitus	CAP NNP
-'s	
-own	JJ
-opinions	NN
-of	PIN PREP
-what	WH
-people	NN
-may	POMD
-have	PEAS INF
-thought	PRIV
-.	
-Nevertheless	RB CONJ CAP
-it	PIT PRP SBJP
-has	VPRT
-historical	JJ
-use	NN
-in	PIN CONJ PREP
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-accurately	RB
-describes	VPRT
-that	PIN DEMO SCONJ PREP
-the	ART DET
-decree	SUAV NN
-was	PASS VBD AUXB
-passed	
-,	
-it	PIT PRP SBJP
-gives	VPRT
-some	QUAN DET
-useful	JJ
-insights	NN
-into	PIN PREP
-what	WH
-the	ART DET
-senators	NN
-may	POMD
-have	PEAS INF
-thought	PRIV
-(	
-as	RB CONJ
-admittedly	RB
-the	ART DET
-Lyon	CAP NNP
-Tablet	CAP NNP
-only	DWNT RB
-gives	VPRT
-two	NUM
-senators	NN
-interruptions	NOMZ
-and	CCONJ
-the	ART DET
-rest	NN
-must	NEMD
-be	PASS AUXB INF
-deducted	
-from	PIN PREP
-what	WH
-Claudius	CAP NNP
-says	VPRT PUBV
-)	
-and	ANDC CCONJ
-illustrates	VPRT
-the	ART DET
-issues	NN
-of	PIN PREP
-provincial	JJ
-relationships	NN
-with	PIN PREP
-Rome	CAP NNP
-at	PIN PREP
-that	DEMO DET
-time	NN
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	Lyon	CAP NNP
+gap	 	
+word	Tablet	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	transcript	NN
+gap	-	
+word	like	JJ
+gap	 	
+word	inscription	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	contains	VPRT
+gap	 	
+word	Claudius	CAP NNP
+gap	' 	
+word	actual	JJ
+gap	 	
+word	speech	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	contrast	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Tacitus	CAP NNP
+gap	 	
+word	Annals	CAP NNP
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	written	PUBV
+gap	 	
+word	nearly	DWNT RB
+gap	 70 	
+word	years	NN
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	who	WH
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	there	RB
+gap	 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	contemporary	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	note	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	purpose	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	texts	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Lyon	CAP NNP
+gap	 	
+word	Tablet	CAP NNP
+gap	 	
+word	inscription	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	informative	JJ
+gap	 	
+word	record	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	speech	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Claudius	CAP NNP
+gap	 	
+word	whereas	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Tacitus	CAP NNP
+gap	 	
+word	version	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	meant	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	extent	NN
+gap	 	
+word	informative	JJ
+gap	, 	
+word	intended	PASTP SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	entertain	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	readers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	the	
+gap	 	
+word	aristocracy	
+gap	. 	
+word	Therefore	
+gap	 	
+word	the	
+gap	 	
+word	style	
+gap	 	
+word	and	
+gap	 	
+word	presentation	
+gap	 	
+word	is	
+gap	 	
+word	fundamentally	
+gap	 	
+word	differing	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	evident	
+gap	 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	Tacitus	
+gap	 	
+word	version	
+gap	 	
+word	summarises	
+gap	 	
+word	the	
+gap	 	
+word	senator	
+gap	'	
+word	s	
+gap	 	
+word	early	
+gap	 	
+word	views	
+gap	 	
+word	clearly	
+gap	 	
+word	in	
+gap	 	
+word	speech	
+gap	 	
+word	whereas	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	Tablet	
+gap	 	
+word	has	
+gap	 	
+word	interruptions	
+gap	 	
+word	from	
+gap	 	
+word	individuals	
+gap	 	
+word	who	
+gap	 	
+word	appear	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	senators	
+gap	. 	
+word	From	
+gap	 	
+word	a	
+gap	 	
+word	dramatic	
+gap	 	
+word	and	
+gap	 	
+word	stylistic	
+gap	 	
+word	perspective	
+gap	 	
+word	this	
+gap	 	
+word	would	
+gap	 	
+word	obviously	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	suited	
+gap	 	
+word	Tacitus	
+gap	, 	
+word	thus	
+gap	 	
+word	he	
+gap	 	
+word	uses	
+gap	 	
+word	narrative	
+gap	 	
+word	prose	
+gap	. 	
+word	The	
+gap	 	
+word	Tacitus	
+gap	 	
+word	version	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	whole	
+gap	 	
+word	is	
+gap	 	
+word	more	
+gap	 	
+word	summarised	
+gap	. "	
+word	Not	
+gap	 	
+word	to	
+gap	 	
+word	enquire	
+gap	 	
+word	too	
+gap	 	
+word	minutely	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	...	
+word	new	
+gap	 	
+word	members	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	brought	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	senate	
+gap	 	
+word	from	
+gap	 	
+word	Etruria	
+gap	...	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	whole	
+gap	 	
+word	of	
+gap	 	
+word	Italy	
+gap	... 	
+word	so	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	single	
+gap	 	
+word	persons	
+gap	 	
+word	but	
+gap	 	
+word	entire	
+gap	 	
+word	countries	
+gap	 	
+word	and	
+gap	 	
+word	tribes	
+gap	 	
+word	might	
+gap	 	
+word	be	
+gap	 	
+word	united	
+gap	 	
+word	under	
+gap	 	
+word	one	
+gap	 	
+word	name	
+gap	." 	
+word	The	
+gap	 	
+word	Lyon	
+gap	 	
+word	tablet	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	does	
+gap	 	
+word	go	
+gap	 	
+word	into	
+gap	 	
+word	minute	
+gap	 	
+word	detail	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	, 	
+word	indeed	
+gap	 	
+word	the	
+gap	 	
+word	entire	
+gap	 	
+word	second	
+gap	 	
+word	paragraph	
+gap	 	
+word	talks	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	ancient	
+gap	 	
+word	history	
+gap	 	
+word	of	
+gap	 	
+word	Rome	
+gap	. 	
+word	This	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	Tactitus	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	read	
+gap	 	
+word	this	
+gap	 	
+word	and	
+gap	 	
+word	decided	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	too	
+gap	 	
+word	long	
+gap	 	
+word	winded	
+gap	 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	chose	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	his	
+gap	 	
+word	own	
+gap	 	
+word	examples	
+gap	 	
+word	including	
+gap	, 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	origin	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Julii	
+gap	, 	
+word	Coruncaii	
+gap	 	
+word	and	
+gap	 	
+word	Porcii	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	his	
+gap	 	
+word	own	
+gap	 	
+word	seemingly	
+gap	 	
+word	made	
+gap	-	
+word	up	
+gap	 	
+word	rhetorical	
+gap	 	
+word	questions	
+gap	: "	
+word	Are	
+gap	 	
+word	we	
+gap	 	
+word	sorry	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	Balbi	
+gap	 	
+word	came	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	from	
+gap	 	
+word	Spain	
+gap	?" 	
+word	these	
+gap	 	
+word	inaccuracies	
+gap	 	
+word	are	
+gap	 	
+word	seen	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	dramatic	
+gap	 	
+word	but	
+gap	 	
+word	deviate	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	facts	
+gap	. 	
+word	The	
+gap	 	
+word	senator	
+gap	'	
+word	s	
+gap	 	
+word	speech	
+gap	 	
+word	to	
+gap	 	
+word	Claudius	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	of	
+gap	 	
+word	Tacitus	
+gap	 	
+word	is	
+gap	 	
+word	completely	
+gap	 	
+word	fabricated	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	existence	
+gap	, 	
+word	according	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	Lyons	
+gap	 	
+word	inscription	
+gap	, 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	context	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	mainly	
+gap	 	
+word	over	
+gap	-	
+word	dramatised	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Lyons	
+gap	 	
+word	inscription	
+gap	 	
+word	Claudius	
+gap	 	
+word	does	
+gap	 	
+word	explain	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	senate	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	concerns	
+gap	 	
+word	over	
+gap	 	
+word	the	
+gap	 "	
+word	novelty	
+gap	" 	
+word	of	
+gap	 	
+word	introducing	
+gap	 	
+word	new	
+gap	 	
+word	tribes	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	senate	
+gap	, 	
+word	however	
+gap	 	
+word	the	
+gap	 	
+word	Tacitus	
+gap	 	
+word	version	
+gap	 	
+word	reads	
+gap	 "	
+word	that	
+gap	 	
+word	every	
+gap	 	
+word	place	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	crowded	
+gap	 	
+word	with	
+gap	 	
+word	these	
+gap	 	
+word	millionaires	
+gap	 [	
+word	The	
+gap	 	
+word	Gallic	
+gap	 	
+word	chieftains	
+gap	 	
+word	who	
+gap	 	
+word	wish	
+gap	 	
+word	to	
+gap	 	
+word	join	
+gap	 	
+word	the	
+gap	 	
+word	senate	
+gap	]...	
+word	whose	
+gap	 	
+word	second	
+gap	 	
+word	and	
+gap	 	
+word	third	
+gap	 	
+word	generation	
+gap	 	
+word	destroyed	
+gap	 	
+word	our	
+gap	 	
+word	armies	
+gap	 	
+word	with	
+gap	 	
+word	fire	
+gap	 	
+word	and	
+gap	 	
+word	sword	
+gap	!". 	
+word	Against	
+gap	 	
+word	such	
+gap	 	
+word	strong	
+gap	 	
+word	opposition	
+gap	 	
+word	as	
+gap	 	
+word	this	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	why	
+gap	 	
+word	after	
+gap	 	
+word	only	
+gap	 	
+word	the	
+gap	 	
+word	short	
+gap	 	
+word	speech	
+gap	 	
+word	by	
+gap	 	
+word	Claudius	
+gap	, 	
+word	the	
+gap	 	
+word	Senate	
+gap	 	
+word	was	
+gap	 	
+word	so	
+gap	 	
+word	eager	
+gap	 	
+word	to	
+gap	 	
+word	pass	
+gap	 	
+word	a	
+gap	 	
+word	decree	
+gap	. 	
+word	True	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	inscription	
+gap	 	
+word	does	
+gap	 	
+word	show	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	senate	
+gap	 	
+word	was	
+gap	 	
+word	in	
+gap	 	
+word	opposition	
+gap	 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	use	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	analogies	
+gap	 	
+word	or	
+gap	 	
+word	opinions	
+gap	 	
+word	shown	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	senator	
+gap	 	
+word	in	
+gap	 	
+word	Tacitus	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	 	
+word	there	
+gap	 	
+word	being	
+gap	 	
+word	no	
+gap	 	
+word	distinctions	
+gap	 	
+word	left	
+gap	 	
+word	for	
+gap	 "	
+word	our	
+gap	 	
+word	noble	
+gap	 	
+word	houses	
+gap	". 	
+word	This	
+gap	 	
+word	therefore	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	Tacitus	
+gap	 	
+word	shows	
+gap	 	
+word	a	
+gap	 	
+word	greater	
+gap	 	
+word	opposition	
+gap	 	
+word	to	
+gap	 	
+word	add	
+gap	 	
+word	more	
+gap	 	
+word	dramatic	
+gap	 	
+word	and	
+gap	 	
+word	romantic	
+gap	 	
+word	effect	
+gap	 	
+word	to	
+gap	 	
+word	Claudius	
+gap	 	
+word	speech	
+gap	. 	
+word	This	
+gap	 	
+word	explanation	
+gap	 	
+word	is	
+gap	 	
+word	re	
+gap	-	
+word	enforced	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	he	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	state	
+gap	 	
+word	which	
+gap	 	
+word	senator	
+gap	 	
+word	says	
+gap	 	
+word	this	
+gap	 	
+word	he	
+gap	 	
+word	simply	
+gap	 	
+word	says	
+gap	 "	
+word	These	
+gap	 	
+word	and	
+gap	 	
+word	alike	
+gap	 	
+word	arguments	
+gap	 	
+word	failed	
+gap	 	
+word	to	
+gap	 	
+word	impress	
+gap	 	
+word	the	
+gap	 	
+word	emperor	
+gap	" 	
+word	which	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	views	
+gap	 	
+word	expressed	
+gap	 	
+word	were	
+gap	 	
+word	possibly	
+gap	 	
+word	a	
+gap	 	
+word	mixture	
+gap	 	
+word	between	
+gap	 	
+word	what	
+gap	 	
+word	he	
+gap	 	
+word	himself	
+gap	 	
+word	thought	
+gap	 	
+word	might	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	said	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	 	
+word	and	
+gap	 	
+word	what	
+gap	 	
+word	he	
+gap	 	
+word	factually	
+gap	 	
+word	knew	
+gap	. 	
+word	Claudius	
+gap	 	
+word	personality	
+gap	 	
+word	emerges	
+gap	 	
+word	to	
+gap	 	
+word	us	
+gap	 	
+word	as	
+gap	 	
+word	greatly	
+gap	 	
+word	improved	
+gap	 	
+word	in	
+gap	 	
+word	Tacitus	
+gap	, 	
+word	the	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	interruptions	
+gap	, 	
+word	the	
+gap	 	
+word	narration	
+gap	, 	
+word	the	
+gap	 	
+word	more	
+gap	 	
+word	heroic	
+gap	, 	
+word	dramatic	
+gap	 	
+word	sentences	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	rousing	
+gap	 	
+word	examples	
+gap	 	
+word	all	
+gap	 	
+word	create	
+gap	 	
+word	a	
+gap	 	
+word	strong	
+gap	, 	
+word	articulate	
+gap	 	
+word	character	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	numerous	
+gap	 	
+word	sentences	
+gap	 	
+word	that	
+gap	 	
+word	show	
+gap	 	
+word	this	
+gap	, 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	totally	
+gap	 	
+word	or	
+gap	 	
+word	partially	
+gap	 	
+word	distorted	
+gap	 	
+word	from	
+gap	 	
+word	those	
+gap	 	
+word	shown	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	Tablet	
+gap	, 	
+word	but	
+gap	 	
+word	create	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	impressive	
+gap	 	
+word	character	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	emperor	
+gap	. 	
+word	Firstly	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	Tacitus	
+gap	 	
+word	version	
+gap	 	
+word	is	
+gap	 	
+word	shorter	
+gap	 	
+word	in	
+gap	 	
+word	comparison	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	tablet	
+gap	, 	
+word	creates	
+gap	 	
+word	a	
+gap	 	
+word	notion	
+gap	 	
+word	that	
+gap	 	
+word	Claudius	
+gap	 	
+word	ability	
+gap	 	
+word	to	
+gap	 	
+word	persuade	
+gap	 	
+word	is	
+gap	 	
+word	very	
+gap	 	
+word	great	
+gap	, 	
+word	especially	
+gap	 	
+word	as	
+gap	 	
+word	has	
+gap	 	
+word	previously	
+gap	 	
+word	been	
+gap	 	
+word	discussed	
+gap	, 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	senators	
+gap	 	
+word	speech	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	is	
+gap	 	
+word	directly	
+gap	 	
+word	polarised	
+gap	. 	
+word	Tacitus	
+gap	 	
+word	also	
+gap	 	
+word	keeps	
+gap	 	
+word	the	
+gap	 	
+word	attention	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	greater	
+gap	 	
+word	extent	
+gap	, 	
+word	suggesting	
+gap	 	
+word	that	
+gap	 	
+word	Claudius	
+gap	 	
+word	had	
+gap	 	
+word	great	
+gap	 	
+word	oratory	
+gap	 	
+word	skills	
+gap	 	
+word	whereas	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	inscription	
+gap	 	
+word	shows	
+gap	 	
+word	this	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	lesser	
+gap	 	
+word	extent	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	 	
+word	realistically	
+gap	, 	
+word	The	
+gap	 	
+word	Lyon	
+gap	 	
+word	tablets	
+gap	 	
+word	contain	
+gap	 	
+word	tangents	
+gap	 	
+word	and	
+gap	 	
+word	slight	
+gap	 	
+word	irrelevancies	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	Claudius	
+gap	 	
+word	mention	
+gap	 	
+word	of	
+gap	 	
+word	himself	
+gap	 	
+word	seeming	
+gap	 	
+word	boastful	
+gap	 	
+word	about	
+gap	 	
+word	Rome	
+gap	'	
+word	s	
+gap	 	
+word	many	
+gap	 	
+word	conquests	
+gap	, 	
+word	to	
+gap	 	
+word	which	
+gap	 	
+word	he	
+gap	 	
+word	follows	
+gap	 	
+word	by	
+gap	 	
+word	saying	
+gap	 "	
+word	But	
+gap	 	
+word	I	
+gap	 	
+word	will	
+gap	 	
+word	return	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	point	
+gap	" 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	second	
+gap	 	
+word	interruption	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	senator	
+gap	 	
+word	asking	
+gap	 "	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	speech	
+gap	 	
+word	is	
+gap	 	
+word	tending	
+gap	". 	
+word	It	
+gap	 	
+word	also	
+gap	 	
+word	ends	
+gap	 	
+word	slowly	
+gap	 	
+word	without	
+gap	 	
+word	giving	
+gap	 	
+word	something	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	listeners	
+gap	 	
+word	to	
+gap	 	
+word	hang	
+gap	 	
+word	on	
+gap	 	
+word	whereas	
+gap	 	
+word	Tacitus	
+gap	' 	
+word	version	
+gap	 	
+word	ends	
+gap	 "	
+word	What	
+gap	 	
+word	we	
+gap	 	
+word	are	
+gap	, 	
+word	this	
+gap	 	
+word	day	
+gap	 	
+word	justifying	
+gap	 	
+word	with	
+gap	 	
+word	precedents	
+gap	, 	
+word	will	
+gap	 	
+word	one	
+gap	 	
+word	day	
+gap	 	
+word	become	
+gap	 	
+word	one	
+gap	 	
+word	in	
+gap	 	
+word	itself	
+gap	." 	
+word	Indeed	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	authority	
+gap	 	
+word	with	
+gap	 	
+word	which	
+gap	 	
+word	Claudius	
+gap	 	
+word	speaks	
+gap	 	
+word	in	
+gap	 	
+word	Tacitus	
+gap	 	
+word	that	
+gap	 	
+word	seems	
+gap	 	
+word	so	
+gap	 	
+word	influential	
+gap	 	
+word	and	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	debate	
+gap	 "	
+word	My	
+gap	 	
+word	ancestors	
+gap	, 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	ancient	
+gap	 	
+word	of	
+gap	 	
+word	whom	
+gap	...	
+word	governed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	policy	
+gap	 	
+word	of	
+gap	 	
+word	transferring	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	city	
+gap	 	
+word	all	
+gap	 	
+word	conspicuous	
+gap	 	
+word	merit	
+gap	 	
+word	wherever	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	found	
+gap	." 	
+word	Claudius	
+gap	 	
+word	begins	
+gap	 	
+word	in	
+gap	 	
+word	Tacitus	
+gap	 	
+word	and	
+gap	 	
+word	yet	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	actual	
+gap	 	
+word	speech	
+gap	 	
+word	shown	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	Tablet	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	speak	
+gap	 	
+word	with	
+gap	 	
+word	much	
+gap	 	
+word	less	
+gap	 	
+word	conviction	
+gap	 	
+word	and	
+gap	 	
+word	authority	
+gap	, 	
+word	he	
+gap	 	
+word	deprecates	
+gap	 	
+word	his	
+gap	 	
+word	main	
+gap	 	
+word	obstacle	
+gap	 	
+word	and	
+gap	 	
+word	asks	
+gap	 	
+word	the	
+gap	 	
+word	senate	
+gap	 	
+word	not	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	alarmed	
+gap	 	
+word	but	
+gap	 	
+word	to	
+gap	 	
+word	remember	
+gap	 	
+word	the	
+gap	 	
+word	changes	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	city	
+gap	 	
+word	has	
+gap	 	
+word	undergone	
+gap	 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	ages	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	luke	
+gap	-	
+word	warm	
+gap	 	
+word	statement	
+gap	 	
+word	for	
+gap	 	
+word	his	
+gap	 	
+word	character	
+gap	. 	
+word	The	
+gap	 	
+word	entire	
+gap	 	
+word	tone	
+gap	 	
+word	of	
+gap	 	
+word	Tacitus	
+gap	 	
+word	version	
+gap	 	
+word	is	
+gap	 	
+word	inspiring	
+gap	 	
+word	using	
+gap	 	
+word	such	
+gap	 	
+word	words	
+gap	 	
+word	as	
+gap	 "	
+word	patriotic	
+gap	" 	
+word	and	
+gap	 	
+word	using	
+gap	 	
+word	an	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	Athens	
+gap	 	
+word	and	
+gap	 	
+word	Sparta	
+gap	'	
+word	s	
+gap	 	
+word	decline	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	their	
+gap	 	
+word	inability	
+gap	 	
+word	to	
+gap	 	
+word	befriend	
+gap	 	
+word	and	
+gap	 	
+word	capitalise	
+gap	 	
+word	on	
+gap	 	
+word	their	
+gap	 	
+word	conquered	
+gap	 	
+word	foes	
+gap	, 	
+word	yet	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	virtually	
+gap	 	
+word	all	
+gap	 	
+word	fabricated	
+gap	 	
+word	and	
+gap	 	
+word	greatly	
+gap	 	
+word	more	
+gap	 	
+word	concise	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	Tablet	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	believed	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	probably	
+gap	 	
+word	no	
+gap	 	
+word	coincidence	
+gap	 	
+word	that	
+gap	 	
+word	Tacitus	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	himself	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	writer	
+gap	, 	
+word	being	
+gap	 	
+word	taught	
+gap	 	
+word	rhetoric	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	young	
+gap	 	
+word	age	
+gap	 	
+word	it	
+gap	 	
+word	seems	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	majority	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	devices	
+gap	 	
+word	used	
+gap	 	
+word	were	
+gap	 	
+word	created	
+gap	 	
+word	by	
+gap	 	
+word	himself	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	further	
+gap	 	
+word	evidence	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	Tactitus	
+gap	 	
+word	does	
+gap	 	
+word	have	
+gap	 	
+word	several	
+gap	 	
+word	distortions	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	truth	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	 	
+word	he	
+gap	 	
+word	says	
+gap	 "	
+word	if	
+gap	 	
+word	you	
+gap	 	
+word	review	
+gap	 	
+word	the	
+gap	 	
+word	Romans	
+gap	 	
+word	wars	
+gap	, 	
+word	never	
+gap	 	
+word	has	
+gap	 	
+word	one	
+gap	 	
+word	been	
+gap	 	
+word	shorter	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	one	
+gap	 	
+word	with	
+gap	 	
+word	Gaul	
+gap	", 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	vastly	
+gap	 	
+word	far	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	truth	
+gap	 	
+word	as	
+gap	 	
+word	Caesars	
+gap	 	
+word	conquest	
+gap	 	
+word	of	
+gap	 	
+word	Gaul	
+gap	 	
+word	took	
+gap	 	
+word	eight	
+gap	 	
+word	years	
+gap	 	
+word	of	
+gap	 	
+word	intense	
+gap	 	
+word	fighting	
+gap	 (	
+word	other	
+gap	 	
+word	wars	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	social	
+gap	 	
+word	war	
+gap	, 	
+word	lasted	
+gap	 	
+word	significantly	
+gap	 	
+word	less	
+gap	 	
+word	time	
+gap	). 	
+word	The	
+gap	 	
+word	Tacitus	
+gap	 	
+word	version	
+gap	 	
+word	of	
+gap	 	
+word	Claudius	
+gap	' 	
+word	speech	
+gap	 	
+word	then	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	significantly	
+gap	 	
+word	different	
+gap	 	
+word	one	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	actual	
+gap	 	
+word	speech	
+gap	 	
+word	as	
+gap	 	
+word	shown	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	Lyons	
+gap	 	
+word	inscriptions	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	some	
+gap	 	
+word	distortions	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	facts	
+gap	, 	
+word	over	
+gap	-	
+word	dramatising	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	situation	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	deal	
+gap	 	
+word	of	
+gap	 	
+word	what	
+gap	 	
+word	appears	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	Tacitus	
+gap	'	
+word	s	
+gap	 	
+word	own	
+gap	 	
+word	opinions	
+gap	 	
+word	of	
+gap	 	
+word	what	
+gap	 	
+word	people	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	thought	
+gap	. 	
+word	Nevertheless	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	historical	
+gap	 	
+word	use	
+gap	 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	accurately	
+gap	 	
+word	describes	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	decree	
+gap	 	
+word	was	
+gap	 	
+word	passed	
+gap	, 	
+word	it	
+gap	 	
+word	gives	
+gap	 	
+word	some	
+gap	 	
+word	useful	
+gap	 	
+word	insights	
+gap	 	
+word	into	
+gap	 	
+word	what	
+gap	 	
+word	the	
+gap	 	
+word	senators	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	thought	
+gap	 (	
+word	as	
+gap	 	
+word	admittedly	
+gap	 	
+word	the	
+gap	 	
+word	Lyon	
+gap	 	
+word	Tablet	
+gap	 	
+word	only	
+gap	 	
+word	gives	
+gap	 	
+word	two	
+gap	 	
+word	senators	
+gap	 	
+word	interruptions	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	rest	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	deducted	
+gap	 	
+word	from	
+gap	 	
+word	what	
+gap	 	
+word	Claudius	
+gap	 	
+word	says	
+gap	) 	
+word	and	
+gap	 	
+word	illustrates	
+gap	 	
+word	the	
+gap	 	
+word	issues	
+gap	 	
+word	of	
+gap	 	
+word	provincial	
+gap	 	
+word	relationships	
+gap	 	
+word	with	
+gap	 	
+word	Rome	
+gap	 	
+word	at	
+gap	 	
+word	that	
+gap	 	
+word	time	
+gap	.	

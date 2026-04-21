@@ -1,555 +1,931 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0733.0464.txt
-token	tags
-    	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-industrial	JJ
-revolution	NOMZ
-the	ART DET
-levels	NN
-of	PIN PREP
-atmospheric	JJ
-greenhouse	NN
-effect	NN
-gases	NN
-(	
-GEG	CAP NNP
-)	
-,	
-principally	RB
-CO2	CAP NNP
-,	
-have	VPRT PEAS
-been	AUXB
-increasing	GER PGAS
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-related	
-to	PIN PREP
-the	ART DET
-rise	NN
-in	PIN CONJ PREP
-mean	JJ PRIV
-temperatures	NN
-along	PIN PREP
-the	ART DET
-world	NN
-(	
-IPCC	CAP NNP
-)	
-(	
-Crutzen	NN CAP
-2003	NUM
-,	
-FAPESP	CAP NNP
-2006	NUM
-)	
-.	
-This	DEMO CAP DET
-temperature	NN
-increase	NN
-has	VPRT PEAS SPAU
-already	RB
-been	AUXB
-promoting	PGAS
-the	ART DET
-rise	NN
-of	PIN PREP
-the	ART DET
-ocean	NN
-level	NN
-,	
-changes	NN
-in	PIN CONJ PREP
-winds	NN
-and	CCONJ
-rains	VPRT
-distribution	NOMZ
-,	
-desertification	NOMZ
-and	PHC CCONJ
-emergence	NN
-of	PIN PREP
-phenomena	NN
-such	JJ
-hurricanes	NN
-and	PHC CCONJ
-flooding	NN
-in	PIN CONJ PREP
-places	NN
-considered	PRIV WZPAST
-as	RB CONJ
-secure	JJ
-until	PIN PREP
-some	QUAN DET
-years	NN
-ago	RB
-.	
-Besides	PIN CAP SCONJ PREP
-one	NUM
-the	ART DET
-main	JJ
-source	NN
-of	PIN PREP
-CO2	NN CAP
-to	PIN PREP
-the	ART DET
-atmosphere	NN
-is	BEMA VPRT AUXB
-the	ART DET
-deforestation	NOMZ
-induced	WZPAST
-by	PIN PREP
-the	ART DET
-world	NNP
-crescent	NNP
-demand	SUAV NN
-of	PIN PREP
-food	NN
-,	
-the	ART DET
-opening	NN
-of	PIN PREP
-new	JJ
-cropping	NN
-areas	NN
-goes	VPRT
-on	PIN PREP
-over	PIN PREP
-time	NN
-(	
-Harris	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-2013	NUM
-)	
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-“	
-good	JJ
-practices	NN
-agriculture	NN
-”	
-has	VPRT PEAS
-been	PASS AUXB
-defended	
-as	PIN CONJ PREP
-a	ART DET INDA
-sink	NN
-of	PIN PREP
-the	ART DET
-atmospheric	JJ
-CO2	CAP NNP
-,	
-idea	NN
-that	TSUB WHQU WHSUB WH
-does	VPRT SPAU
-not	XX0 RB
-seem	SMP INF
-to	PIN TO PREP
-be	PASS SPAU AUXB INF
-well	RB
-spread	
-among	PIN PREP
-farmers	NN
-.	
- 	
-The	ART CAP DET
-balance	NN
-between	PIN PREP
-the	ART DET
-CO2	CAP NNP
-absorption	NOMZ
-and	PHC CCONJ
-release	NN
-in	PIN CONJ PREP
-natural	JJ
-systems	NN
-,	
-such	JJ
-forests	NN
-,	
-is	BEMA VPRT AUXB
-positive	JJ PRED
-from	PIN PREP
-the	ART DET
-point	NN
-of	PIN PREP
-view	NN
-of	PIN PREP
-atmospheric	JJ
-CO2	NN CAP
-sinking	WZPRES PGAS
-,	
-since	OSUB PIN SCONJ PREP
-most	JJ EMPH SPADJ
-of	PIN PREP
-the	ART DET
-C	NN CAP
-absorbed	WZPAST
-by	PIN PREP
-photosynthesis	NN
-is	PASS VPRT AUXB
-changed	
-to	PIN TO PREP
-live	INF
-biomass	NN
-or	CCONJ
-as	PIN CONJ PREP
-humic	JJ
-substances	NN
-in	PIN CONJ PREP
-soil	NN
-(	
-Cleveland	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-2011	NUM
-)	
-.	
-The	ART CAP DET
-land	NN
-change	NN
-to	PIN PREP
-traditional	JJ
-agriculture	NN
-,	
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-turn	NN
-,	
-diminishes	VPRT
-the	ART DET
-input	NN
-of	PIN PREP
-biomass	NN
-to	PIN PREP
-the	ART DET
-soil	NN
-and	CCONJ
-enhances	VPRT
-the	ART DET
-mineralization	NOMZ
-of	PIN PREP
-the	ART DET
-humic	JJ
-and	PHC CCONJ
-other	JJ
-substances	NN
-in	PIN CONJ PREP
-the	ART DET
-soil	NN
-(	
-Fearnside	NN CAP
-2000	NUM
-)	
-.	
-This	DEMO CAP DET
-process	NN
-increases	VPRT
-the	ART DET
-microbial	JJ
-respiration	NOMZ
-,	
-releasing	PGAS
-large	JJ
-amounts	NN
-of	PIN PREP
-CO2	NN CAP
-to	PIN PREP
-the	ART DET
-atmosphere	NN
-,	
-promoting	PRESP PGAS
-the	ART DET
-physical	JJ
-and	PHC CCONJ
-chemical	JJ
-degradation	NOMZ
-of	PIN PREP
-soil	NN
-and	CCONJ
-inducing	PGAS
-the	ART DET
-need	NN
-of	PIN PREP
-new	JJ
-cropping	NN
-areas	NN
-opening	WZPRES PGAS
-(	
-Harris	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-2012	NUM
-)	
-.	
-This	DEMO CAP DET
-apparently	RB
-irreversible	JJ
-cycle	NN
-,	
-however	RB CONJ
-,	
-can	POMD
-be	PASS BYPA AUXB INF
-changed	
-by	PIN STPR PREP
-“	
-good	JJ
-practices	NN
-agriculture	NN
-”	
-introduction	NOMZ
-.	
- 	
-Examples	NN CAP
-of	PIN PREP
-good	JJ
-practices	NN
-are	VPRT AUXB
-:	
-no	SYNE DET
-till	NN
-,	
-release	NN
-of	PIN PREP
-the	ART DET
-non	
-cropped	JJ
-material	NN
-to	PIN PREP
-soil	NN
-,	
-diversification	NOMZ
-of	PIN PREP
-cultures	NN
-and	PHC CCONJ
-introduction	NOMZ
-of	PIN PREP
-species	NN
-that	TSUB WHSUB WH
-release	VPRT
-great	JJ
-amounts	NN
-of	PIN PREP
-organic	JJ
-matter	NN
-to	PIN PREP
-soil	NN
-,	
-being	AUXB
-animals	NN
-and	PHC CCONJ
-trees	NN
-also	RB
-welcome	VPRT
-.	
-In	PIN CONJ CAP PREP
-these	DEMO DET
-agrosilvopastoral	JJ
-called	
-systems	NN
-’	
-soil	NN
-,	
-the	ART DET
-humidification	NOMZ
-process	NN
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-happen	INF
-(	
-Agrisustentavel	NN CAP
-2016	NUM
-)	
-.	
-So	RB CAP
-,	
-the	ART DET
-CO2	NN CAP
-absorbed	WZPAST
-by	PIN PREP
-plants	NN
-tends	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-transformed	
-to	PIN PREP
-biomass	NN
-and	CCONJ
-stable	JJ
-humic	JJ
-substances	NN
-,	
-being	BEMA PRESP AUXB
-these	DEMO DET
-systems	NN
-sinks	NN
-of	PIN PREP
-this	DEMO DET
-GEG	CAP NNP
-.	
-So	RB CAP
-,	
-why	RB WHQU SCONJ WH
-are	VPRT AUXB
-they	TPP3 PRP SBJP
-not	XX0 RB
-wide	JJ
-spread	NN
-?	QUES
- 	
-Cropping	NN CAP
-systems	NN
-nowadays	RB TIME
-are	BEMA VPRT AUXB
-under	PIN PREP
-the	ART DET
-control	NN
-of	PIN PREP
-big	JJ
-companies	NN
-,	
-which	SERE DET WH
-determines	VPRT PRIV SUAV
-which	WHCL DET WH
-transgenic	NN
-seeds	NN
-,	
-pesticides	NN
-and	PHC CCONJ
-fertilizers	NN
-are	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-used	
-by	PIN PREP
-farms	NN
-.	
-Besides	PIN CAP SCONJ PREP
-this	DEMP DET
-,	
-the	ART DET
-traditional	JJ
-ones	NN
-think	VPRT PRIV
-that	PIN THVC SCONJ PREP
-agrosilvopastoral	JJ
-systems	NN
-are	VPRT AUXB
-not	XX0 RB
-as	RB CONJ
-productive	JJ
-as	PIN CONJ PREP
-monocultures	NN
-.	
-However	RB CONJ CAP
-,	
-a	ART DET INDA
-new	JJ
-generation	NOMZ
-is	VPRT AUXB
-emerging	PGAS
-and	CCONJ
-many	QUAN JJ
-of	PIN PREP
-this	DEMO DET
-young	JJ
-people	NN
-consider	VPRT PRIV
-environmental	JJ
-security	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-serious	JJ
-problem	NN
-that	TSUB WHSUB WH
-must	NEMD
-be	PASS SPAU AUXB INF
-urgently	RB
-solved	
-.	
- 	
-The	ART CAP DET
-current	JJ
-scenario	NN
-of	PIN PREP
-the	ART DET
-world	NN
-food	NN
-production	NOMZ
-system	NN
-will	PRMD
-be	PASS AUXB INF
-modified	
-when	RB SCONJ WH
-this	DEMO DET
-new	JJ
-mentality	NOMZ
-spreads	VPRT
-to	PIN PREP
-the	ART DET
-country	NN
-sites	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-hard	JJ PRED
-to	PIN TO PREP
-predict	PUBV INF
-when	RB WHCL SCONJ WH
-it	PIT PRP SBJP
-is	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-happen	INF
-,	
-since	OSUB PIN SCONJ PREP
-young	JJ
-people	NN
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-be	BEMA AUXB INF
-in	PIN CONJ PREP
-cities	NN
-than	PIN PREP
-in	PIN CONJ PREP
-farms	NN
-.	
-But	CAP CCONJ
-changes	NN
-,	
-as	PIN CONJ PREP
-the	ART DET
-creation	NOMZ
-of	PIN PREP
-ecovillages	NN
-around	PIN PLACE PREP
-the	ART DET
-world	NN
-,	
-are	VPRT SPAU AUXB
-already	RB
-happening	PGAS
-,	
-providing	PRESP PGAS
-the	ART DET
-hope	PRIV NN
-of	PIN PREP
-better	JJ CMADJ
-future	JJ
-days	NN
-.	
-         	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0733.0464>\n\n<How long will the world food production system be a source of atmospheric carbon, whether it could be a sink?>\n\n	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	industrial	JJ
+gap	 	
+word	revolution	NOMZ
+gap	 	
+word	the	ART DET
+gap	 	
+word	levels	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	atmospheric	JJ
+gap	 	
+word	greenhouse	NN
+gap	 	
+word	effect	NN
+gap	 	
+word	gases	NN
+gap	 (	
+word	GEG	CAP NNP
+gap	), 	
+word	principally	RB
+gap	 	
+word	CO	CAP NNP
+gap	2, 	
+word	have	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	increasing	GER PGAS
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	related	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rise	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	mean	JJ PRIV
+gap	 	
+word	temperatures	NN
+gap	 	
+word	along	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 (	
+word	IPCC	CAP NNP
+gap	) (	
+word	Crutzen	NN CAP
+gap	 2003, 	
+word	FAPESP	CAP NNP
+gap	 2006). 	
+word	This	DEMO CAP DET
+gap	 	
+word	temperature	NN
+gap	 	
+word	increase	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	already	RB
+gap	 	
+word	been	AUXB
+gap	 	
+word	promoting	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	rise	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ocean	NN
+gap	 	
+word	level	NN
+gap	, 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	winds	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	rains	VPRT
+gap	 	
+word	distribution	NOMZ
+gap	, 	
+word	desertification	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	emergence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	phenomena	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	hurricanes	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	flooding	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	places	NN
+gap	 	
+word	considered	PRIV WZPAST
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	secure	JJ
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	years	NN
+gap	 	
+word	ago	RB
+gap	. 	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	source	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	CO	NN CAP
+gap	2 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	atmosphere	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	deforestation	NOMZ
+gap	 	
+word	induced	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NNP
+gap	 	
+word	crescent	NNP
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	food	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	opening	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	cropping	NN
+gap	 	
+word	areas	NN
+gap	 	
+word	goes	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	time	NN
+gap	 (	
+word	Harris	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. 2013). 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 “	
+word	good	JJ
+gap	 	
+word	practices	NN
+gap	 	
+word	agriculture	NN
+gap	” 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	defended	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	sink	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	atmospheric	JJ
+gap	 	
+word	CO	CAP NNP
+gap	2, 	
+word	idea	NN
+gap	 	
+word	that	TSUB WHQU WHSUB WH
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	seem	SMP INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	well	RB
+gap	 	
+word	spread	
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	farmers	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	balance	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	CO	CAP NNP
+gap	2 	
+word	absorption	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	release	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	systems	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	forests	NN
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	positive	JJ PRED
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	atmospheric	JJ
+gap	 	
+word	CO	NN CAP
+gap	2 	
+word	sinking	WZPRES PGAS
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	C	NN CAP
+gap	 	
+word	absorbed	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	photosynthesis	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	changed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	live	INF
+gap	 	
+word	biomass	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	humic	JJ
+gap	 	
+word	substances	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	soil	NN
+gap	 (	
+word	Cleveland	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. 2011). 	
+word	The	ART CAP DET
+gap	 	
+word	land	NN
+gap	 	
+word	change	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	agriculture	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	turn	NN
+gap	, 	
+word	diminishes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	input	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	biomass	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	soil	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	enhances	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	mineralization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	humic	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	substances	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	soil	NN
+gap	 (	
+word	Fearnside	NN CAP
+gap	 2000). 	
+word	This	DEMO CAP DET
+gap	 	
+word	process	NN
+gap	 	
+word	increases	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	microbial	JJ
+gap	 	
+word	respiration	NOMZ
+gap	, 	
+word	releasing	PGAS
+gap	 	
+word	large	JJ
+gap	 	
+word	amounts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	CO	NN CAP
+gap	2 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	atmosphere	NN
+gap	, 	
+word	promoting	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	chemical	JJ
+gap	 	
+word	degradation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	soil	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	inducing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	need	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	cropping	NN
+gap	 	
+word	areas	NN
+gap	 	
+word	opening	WZPRES PGAS
+gap	 (	
+word	Harris	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	. 2012). 	
+word	This	DEMO CAP DET
+gap	 	
+word	apparently	RB
+gap	 	
+word	irreversible	JJ
+gap	 	
+word	cycle	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	changed	
+gap	 	
+word	by	PIN STPR PREP
+gap	 “	
+word	good	JJ
+gap	 	
+word	practices	NN
+gap	 	
+word	agriculture	NN
+gap	” 	
+word	introduction	NOMZ
+gap	.\n	
+word	Examples	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	good	JJ
+gap	 	
+word	practices	NN
+gap	 	
+word	are	VPRT AUXB
+gap	: 	
+word	no	SYNE DET
+gap	 	
+word	till	NN
+gap	, 	
+word	release	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	non	
+gap	 	
+word	cropped	JJ
+gap	 	
+word	material	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	soil	NN
+gap	, 	
+word	diversification	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cultures	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	species	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	release	VPRT
+gap	 	
+word	great	JJ
+gap	 	
+word	amounts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	organic	JJ
+gap	 	
+word	matter	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	soil	NN
+gap	, 	
+word	being	AUXB
+gap	 	
+word	animals	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	trees	NN
+gap	 	
+word	also	RB
+gap	 	
+word	welcome	VPRT
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	agrosilvopastoral	JJ
+gap	 	
+word	called	
+gap	 	
+word	systems	NN
+gap	’ 	
+word	soil	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	humidification	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	likely	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	happen	INF
+gap	 (	
+word	Agrisustentavel	NN CAP
+gap	 2016). 	
+word	So	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	CO	NN CAP
+gap	2 	
+word	absorbed	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	plants	NN
+gap	 	
+word	tends	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	transformed	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	biomass	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	stable	JJ
+gap	 	
+word	humic	JJ
+gap	 	
+word	substances	NN
+gap	, 	
+word	being	BEMA PRESP AUXB
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	systems	NN
+gap	 	
+word	sinks	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	GEG	CAP NNP
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	why	RB WHQU SCONJ WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	wide	JJ
+gap	 	
+word	spread	NN
+gap	?\n	
+word	Cropping	NN CAP
+gap	 	
+word	systems	NN
+gap	 	
+word	nowadays	RB TIME
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	control	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	big	JJ
+gap	 	
+word	companies	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	determines	VPRT PRIV SUAV
+gap	 	
+word	which	WHCL DET WH
+gap	 	
+word	transgenic	NN
+gap	 	
+word	seeds	NN
+gap	, 	
+word	pesticides	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	fertilizers	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	farms	NN
+gap	. 	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	ones	NN
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	agrosilvopastoral	JJ
+gap	 	
+word	systems	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	productive	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	monocultures	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	generation	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	emerging	PGAS
+gap	 	
+word	and	CCONJ
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	young	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	consider	VPRT PRIV
+gap	 	
+word	environmental	JJ
+gap	 	
+word	security	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	serious	JJ
+gap	 	
+word	problem	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	urgently	RB
+gap	 	
+word	solved	
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	current	JJ
+gap	 	
+word	scenario	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	food	NN
+gap	 	
+word	production	NOMZ
+gap	 	
+word	system	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	modified	
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	mentality	NOMZ
+gap	 	
+word	spreads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	country	NN
+gap	 	
+word	sites	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	hard	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	predict	PUBV INF
+gap	 	
+word	when	RB WHCL SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	happen	INF
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	young	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	likely	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	cities	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	farms	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	changes	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	ecovillages	NN
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	, 	
+word	are	VPRT SPAU AUXB
+gap	 	
+word	already	RB
+gap	 	
+word	happening	PGAS
+gap	, 	
+word	providing	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	hope	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	future	JJ
+gap	 	
+word	days	NN
+gap	.\n\n<References:>\n<Agrisustentável. 2016. Rede de Agricultura sustentável. –tipos de agricultura sustentável. http://www.agrisustentavel.com/doc/tipos.htm>\n<Cleveland CC, Townsend AR, Alvarez-Clare S, Bustamante MMC, Chuyong G, Dobrowski SZ, Grierson P, Harms KE, Houlton BZ, Marklein A, Parton W, Porder S, Reed SC, Silver WL, Tanner EVJ, Wieder WR. 2011. Relationships among net primary productivity, nutrients and climate in tropical rain forest: a pan-tropical analysis. 2011. Ecology Letters. 14:939–947.>\n<Crutzen JC. 2002. Geology of mankind. Nature. 415(3):23>\n<FAPESP. 2006. 4° Relatório Temático do Projeto “Diversidade, dinâmica e conservação em florestas do Estado de São Paulo: 40 ha de parcelas permanentes” (FAPESP 1999/09635-). http://www.lerf.esalq.usp.br/old/parcelas/relatorio2005/parteVIII.pdf>\n<Fearnside PM. 2000. Global warming and tropical land-use change: greenhouse gas emissions from biomass burning, decomposition and soils in forest conversion, shifting cultivation and secondary vegetation. Climatic Change 46:115-158.>\n<Harris LN, Brown S, Hagen SC, Saatchi SS, Petrova S, Salas W, Hansen MC, Potapov PV, Lotsch A. 2012. Baseline Map of Carbon Emissions from Deforestation in Tropical Regions. Science 336: 1573-1576>\n	

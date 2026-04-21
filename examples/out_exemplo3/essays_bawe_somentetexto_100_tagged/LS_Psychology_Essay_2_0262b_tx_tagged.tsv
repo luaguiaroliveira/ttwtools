@@ -1,928 +1,1652 @@
 # filename: LS_Psychology_Essay_2_0262b_tx.txt
-token	tags
-Two	CAP NUM
-important	JJ
-points	NN
-to	PIN TO PREP
-consider	PRIV INF
-when	RB WHCL SCONJ WH
-conducting	GER PGAS
-any	QUAN DET
-form	NN
-of	PIN PREP
-psychological	JJ
-investigation	NOMZ
-are	BEMA VPRT AUXB
-whether	PIN SCONJ PREP
-the	ART DET
-research	NN
-is	BEMA VPRT AUXB
-reliable	JJ PRED
-and	CCONJ
-whether	PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-valid	JJ PRED
-.	
-Reliability	NOMZ CAP
-is	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-how	RB SCONJ WH
-similar	JJ
-the	ART DET
-results	NN
-are	BEMA VPRT AUXB
-to	PIN PREP
-the	ART DET
-actual	JJ
-phenomena	NN
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-trying	PGAS
-to	PIN TO PREP
-measure	INF
-.	
-This	DEMP CAP DET
-can	POMD
-be	PASS BYPA AUXB INF
-explained	PUBV
-by	PIN PREP
-how	RB SCONJ WH
-likely	JJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-researcher	NN
-will	PRMD
-obtain	INF
-the	ART DET
-same	JJ
-results	NN
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-were	BEMA VBD AUXB
-to	PIN TO PREP
-repeat	PUBV INF
-their	TPP3 PRP SBJP
-research	NN
-again	RB TIME
-in	PIN CONJ PREP
-a	ART DET INDA
-different	JJ
-context	NN
-(	
-Peräkylä	CAP NNP
-,	
-1997	NUM
-)	
-.	
-Validity	NOMZ CAP
-is	PASS VPRT AUXB
-concerned	
-with	PIN PREP
-whether	PIN SCONJ PREP
-the	ART DET
-interpretations	NOMZ
-and	PHC CCONJ
-conclusions	NOMZ
-drawn	WZPAST
-from	PIN PREP
-the	ART DET
-research	NN
-are	BEMA VPRT AUXB
-appropriate	JJ PRED
-considering	GER PRIV PGAS
-the	ART DET
-type	NN
-of	PIN PREP
-investigation	NOMZ
-used	
-(	
-Maracek	CAP NNP
-,	
-2003	NUM
-)	
-.	
-Questions	NOMZ CAP
-of	PIN PREP
-reliability	NOMZ
-and	PHC CCONJ
-validity	NOMZ
-often	RB
-arise	VPRT
-when	RB SCONJ WH
-conducting	GER PGAS
-research	NN
-using	WZPRES PGAS
-qualitative	JJ
-methods	NN
-.	
-Examples	NN CAP
-of	PIN PREP
-qualitative	JJ
-methods	NN
-are	BEMA VPRT AUXB
-participant	JJ
-observation	NOMZ
-,	
-open	JJ
--	
-ended	JJ
-interviewing	GER
-and	PHC CCONJ
-case	NN
-studies	NN
-(	
-Maracek	CAP NNP
-,	
-2003	NUM
-)	
-.	
-These	DEMO CAP DET
-ways	NN
-of	PIN PREP
-approaching	GER PGAS
-research	NN
-are	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-qualitative	JJ
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-measure	INF
-behaviour	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-numerical	JJ
-way	NN
-using	WZPRES PGAS
-a	ART DET INDA
-strict	JJ
-scientific	JJ
-procedure	NN
-as	PIN CONJ PREP
-in	PIN CONJ PREP
-quantitative	JJ
-research	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-qualitative	JJ
-research	NN
-does	VPRT SPAU
-not	XX0 RB
-reflect	PRIV INF
-traditional	JJ
-scientific	JJ
-method	NN
-,	
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-often	RB
-stated	PUBV
-that	PIN THVC SCONJ PREP
-qualitative	JJ
-research	NN
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-reliable	JJ PRED
-or	CCONJ
-valid	JJ
-.	
-However	RB CONJ CAP
-,	
-many	QUAN JJ
-arguments	NOMZ
-have	VPRT PEAS
-contradicted	
-this	DEMO DET
-view	NN
-.	
-One	CAP NUM
-example	NN
-of	PIN PREP
-where	RB SCONJ WH
-both	DET
-reliability	NOMZ
-and	PHC CCONJ
-validity	NOMZ
-have	VPRT PEAS
-been	PASS BYPA AUXB
-increased	
-by	PIN PREP
-using	PGAS
-a	ART DET INDA
-qualitative	JJ
-method	NN
-rather	RB
-than	PIN PREP
-a	ART DET INDA
-quantitative	JJ
-method	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-a	ART DET INDA
-study	NN
-by	PIN PREP
-Al	CAP NNP
--	
-Krenawi	CAP NNP
-and	PHC CCONJ
-Wiesel	CAP NNP
--	
-Lev	CAP NNP
-(	
-1999	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Maracek	CAP NNP
-,	
-2003	NUM
-)	
-.	
-This	DEMO CAP DET
-study	NN
-looked	VBD
-at	PIN PREP
-Arab	JJ CAP
-women	NN
-'s	
-attitudes	NN
-towards	PIN PREP
-female	JJ
-circumcision	NOMZ
-.	
-Their	TPP3 CAP PRP SBJP
-answers	NN
-to	PIN PREP
-close	RB
--	
-ended	
-questions	NOMZ
-provided	VBD
-results	NN
-suggesting	GER WZPRES PUBV SUAV PGAS
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-had	VBD
-no	SYNE DET
-negative	JJ
-feelings	NN
-about	PIN PREP
-it	PIT PRP SBJP
-.	
-However	RB CONJ CAP
-,	
-when	RB WHQU SCONJ WH
-they	TPP3 PRP SBJP
-were	BEMA VBD AUXB
-able	JJ PRED
-to	PIN TO PREP
-speak	INF
-freely	RB
-they	TPP3 PRP SBJP
-expressed	VBD
-how	RB SCONJ WH
-distressed	JJ
-they	TPP3 PRP SBJP
-felt	VBD PRIV
-about	PIN PREP
-it	PIT PRP SBJP
-.	
-The	ART CAP DET
-qualitative	JJ
-method	NN
-,	
-that	WHQU DEMP WH
-did	VBD SPAU
-not	XX0 RB
-restrict	INF
-their	TPP3 PRP SBJP
-answers	NN
-,	
-was	VBD AUXB
-therefore	RB CONJ
-more	RB EMPH CMADJ
-valid	JJ
-because	CAUS PIN SCONJ PREP
-the	ART DET
-data	NN
-collected	WZPAST
-was	BEMA VBD AUXB
-about	PIN PREP
-their	TPP3 PRP SBJP
-true	JJ
-feelings	NN
-.	
-The	ART CAP DET
-qualitative	JJ
-method	NN
-was	VBD AUXB
-also	RB
-more	RB EMPH CMADJ
-reliable	JJ
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-produced	VBD
-answers	NN
-that	TSUB WHSUB WH
-would	PRMD
-be	PASS AUXB INF
-found	PRIV
-again	RB TIME
-if	COND PIN SCONJ PREP
-the	ART DET
-study	NN
-were	BEMA VBD AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-repeated	PUBV
-.	
-Qualitative	JJ CAP
-methods	NN
-and	CCONJ
-quantitative	JJ
-methods	NN
-both	DET
-have	VPRT
-their	TPP3 PRP SBJP
-uses	NN
-and	CCONJ
-deciding	PRIV SUAV PGAS
-on	PIN PREP
-which	PIRE DET WH
-method	NN
-will	PRMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-valid	JJ
-depends	VPRT
-on	PIN PREP
-the	ART DET
-research	NN
-question	NOMZ
-.	
-It	PIT CAP PRP SBJP
-depends	VPRT
-on	PIN PREP
-what	DET WH
-kind	NN HDG
-of	PIN PREP
-knowledge	NN
-the	ART DET
-researcher	NN
-is	VPRT AUXB
-seeking	PGAS
-as	PIN CONJ PREP
-to	PIN PREP
-what	DET WH
-method	NN
-of	PIN PREP
-research	NN
-to	PIN TO PREP
-use	INF
-(	
-Maracek,2003	CAP NNP
-)	
-.	
-In	PIN CONJ CAP PREP
-some	QUAN DET
-cases	NN
-,	
-where	RB WHQU SCONJ WH
-little	JJ
-is	PASS VPRT AUXB
-known	PRIV
-about	PIN PREP
-the	ART DET
-area	NN
-of	PIN PREP
-interest	NN
-,	
-using	PRESP PGAS
-a	ART DET INDA
-qualitative	JJ
-method	NN
-will	PRMD
-provide	INF
-the	ART DET
-more	RB EMPH CMADJ
-reliable	JJ
-and	PHC CCONJ
-valid	JJ
-results	NN
-.	
-If	COND PIN CAP SCONJ PREP
-qualitative	JJ
-research	NN
-is	PASS VPRT AUXB
-carried	
-out	PIN STPR PREP
-,	
-then	RB
-an	ART DET INDA
-hypothesis	NN
-can	POMD
-be	PASS AUXB INF
-generated	
-from	PIN PREP
-this	DEMO DET
-research	NN
-and	CCONJ
-a	ART DET INDA
-more	RB EMPH CMADJ
-quantitative	JJ
-approach	NN
-can	POMD
-be	PASS AUXB INF
-adopted	
-to	PIN TO PREP
-test	INF
-this	DEMO DET
-hypothesis	NN
-(	
-Burt	CAP NNP
-&	CCONJ
-Oaksford	CAP NNP
-,	
-1999	NUM
-)	
-.	
-Some	QUAN CAP DET
-psychological	JJ
-tests	NN
-are	PASS VPRT AUXB
-designed	
-for	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-culture	NN
-or	CCONJ
-people	NN
-who	WHSUB WH
-speak	VPRT
-a	ART DET INDA
-certain	JJ
-language	NN
-.	
-If	COND PIN CAP SCONJ PREP
-these	DEMO DET
-quantitative	JJ
-tests	NN
-are	PASS VPRT SPAU AUXB
-then	RB
-applied	
-to	PIN PREP
-a	ART DET INDA
-different	JJ
-culture	NN
-,	
-the	ART DET
-results	NN
-will	PRMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-accurate	JJ PRED
-or	CCONJ
-reliable	JJ
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-not	XX0 RB
-to	PIN TO PREP
-generalise	INF
-in	PIN CONJ PREP
-these	DEMO DET
-situations	NOMZ
-because	CAUS PIN SCONJ PREP
-the	ART DET
-validity	NOMZ
-of	PIN PREP
-the	ART DET
-results	NN
-will	PRMD
-be	PASS AUXB INF
-questioned	
-(	
-Cooper	CAP NNP
-&	CCONJ
-Stevenson	CAP NNP
-,	
-1998	NUM
-)	
-.	
-Qualitative	CAP NNP
-research	NN
-does	VPRT SPAU
-not	XX0 RB
-involve	INF
-generalisation	NOMZ
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-often	RB
-the	ART DET
-case	NN
-that	PIN TOBJ SCONJ PREP
-qualitative	JJ
-research	NN
-can	POMD
-be	PASS AUXB INF
-carried	
-out	PIN PREP
-on	PIN PREP
-a	ART DET INDA
-very	AMP RB
-specific	JJ
-group	NN
-of	PIN PREP
-individuals	NN
-and	CCONJ
-can	POMD
-be	PASS AUXB INF
-designed	
-specifically	RB
-to	PIN TO PREP
-meet	INF
-the	ART DET
-needs	NN
-of	PIN PREP
-the	ART DET
-group	NN
-.	
-This	DEMP CAP DET
-will	PRMD
-ensure	PRIV SUAV INF
-high	JJ
-validity	NOMZ
-.	
-The	ART CAP DET
-points	NN
-made	WZPAST
-so	RB
-far	RB PLACE
-have	VPRT PEAS
-concentrated	
-on	PIN PREP
-how	RB SCONJ WH
-,	
-in	PIN CONJ PREP
-some	QUAN DET
-cases	NN
-,	
-qualitative	JJ
-research	NN
-can	POMD
-be	BEMA AUXB INF
-the	ART DET
-more	RB EMPH CMADJ
-reliable	JJ
-and	PHC CCONJ
-valid	JJ
-method	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-times	NN
-,	
-however	RB CONJ
-,	
-when	RB WHQU SCONJ WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-maintain	PUBV THATD INF
-reliability	NOMZ
-using	WZPRES PGAS
-qualitative	JJ
-methods	NN
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-nature	NN
-of	PIN PREP
-the	ART DET
-research	NN
-.	
-Peräkylä	CAP NNP
-(	
-1997	NUM
-)	
-highlights	VPRT
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-difficulties	NN
-in	PIN CONJ PREP
-conversation	NOMZ
-analytic	JJ
-research	NN
-.	
-This	DEMO CAP DET
-particular	JJ CONJ
-research	NN
-uses	VPRT
-tapes	NN
-and	PHC CCONJ
-transcripts	NN
-to	PIN TO PREP
-record	INF
-data	NN
-and	ANDC CCONJ
-these	DEMP DET
-must	NEMD
-be	BEMA AUXB INF
-of	PIN PREP
-good	JJ
-quality	NOMZ
-so	PIN SCONJ PREP
-none	INPR NN
-of	PIN PREP
-the	ART DET
-information	NOMZ
-is	PASS VPRT AUXB
-lost	
-and	CCONJ
-all	QUAN DET
-the	ART DET
-information	NOMZ
-can	POMD
-be	PASS AUXB INF
-conveyed	PUBV
-to	PIN PREP
-the	ART DET
-public	NN
-as	PIN CONJ PREP
-evidence	NN
-.	
-The	ART CAP DET
-more	JJ EMPH CMADJ
-information	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-maintained	PUBV
-,	
-the	ART DET
-greater	JJ CMADJ
-the	ART DET
-reliability	NOMZ
-of	PIN PREP
-the	ART DET
-research	NN
-.	
-Similarly	RB CONJ CAP
-,	
-in	PIN CONJ PREP
-field	NN
-research	NN
-,	
-the	ART DET
-written	PUBV
-notes	PRIV NN
-that	PIN TOBJ THVC SCONJ PREP
-the	ART DET
-observer	NN
-makes	VPRT
-need	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-accurate	JJ PRED
-and	CCONJ
-the	ART DET
-observer	NN
-needs	VPRT
-to	PIN TO PREP
-make	INF
-important	JJ
-decisions	NOMZ
-about	PIN PREP
-what	WH
-information	NOMZ
-to	PIN TO PREP
-record	INF
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-possible	JJ
-to	PIN TO PREP
-record	INF
-everything	QUPR INPR
-.	
-All	QUAN CAP DET
-the	ART DET
-decisions	NOMZ
-the	ART DET
-researcher	NN
-makes	VPRT
-will	PRMD
-affect	INF
-the	ART DET
-reliability	NOMZ
-of	PIN PREP
-the	ART DET
-end	NN
-result	NN
-.	
-Psychologists	NN CAP
-often	RB
-make	VPRT
-a	ART DET INDA
-common	JJ
-distinction	NOMZ
-between	PIN PREP
-qualitative	JJ
-and	PHC CCONJ
-quantitative	JJ
-research	NN
-.	
-In	PIN CONJ CAP PREP
-quantitative	JJ
-research	NN
-emphasis	NN
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-controlling	GER PGAS
-and	PHC CCONJ
-manipulating	GER PGAS
-variables	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-laboratory	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-much	QUAN RB
-easier	JJ CMADJ
-to	PIN TO PREP
-control	INF
-unwanted	JJ
-variables	NN
-and	CCONJ
-measure	INF
-very	AMP RB
-specific	JJ
-aspects	NN
-of	PIN PREP
-behaviour	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-situation	NOMZ
-reliability	NOMZ
-will	PRMD
-be	BEMA AUXB INF
-high	JJ PRED
-because	CAUS PIN SCONJ PREP
-researchers	NN
-are	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-get	INF
-the	ART DET
-same	JJ
-results	NN
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-repeat	VPRT PUBV
-the	ART DET
-experiment	NOMZ
-under	PIN PREP
-the	ART DET
-same	JJ
-conditions	NOMZ
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-validity	NOMZ
-of	PIN PREP
-this	DEMO DET
-type	NN
-of	PIN PREP
-investigation	NOMZ
-can	POMD
-be	PASS AUXB INF
-questioned	
-because	CAUS PIN SCONJ PREP
-the	ART DET
-participants	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-in	PIN CONJ PREP
-a	ART DET INDA
-natural	JJ
-setting	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-questionable	JJ PRED
-whether	PIN SCONJ PREP
-the	ART DET
-findings	NN
-from	PIN PREP
-this	DEMO DET
-research	NN
-can	POMD
-be	PASS AUXB INF
-applied	
-to	PIN PREP
-everyday	JJ
-life	NN
-.	
-Qualitative	CAP NNP
-research	NN
-is	PASS VPRT AUXB
-viewed	
-as	PIN CONJ PREP
-being	BEMA AUXB
-opposite	JJ PIN PRED PREP
-to	PIN PREP
-this	DEMP DET
-.	
-It	PIT CAP PRP SBJP
-has	VPRT
-high	JJ
-validity	NOMZ
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-often	RB
-involves	VPRT
-observing	PRIV PGAS
-behaviour	NN
-where	RB WHOBJ SCONJ WH
-it	PIT PRP SBJP
-occurs	VPRT
-naturally	RB
-but	CCONJ
-it	PIT PRP SBJP
-also	RB
-has	VPRT
-low	JJ
-reliability	NOMZ
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-difficult	JJ
-to	PIN TO PREP
-control	INF
-variables	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-natural	JJ
-setting	NN
-.	
-With	PIN CAP PREP
-both	CCONJ
-qualitative	JJ
-and	PHC CCONJ
-quantitative	JJ
-research	NN
-having	WZPRES PGAS
-varying	PGAS
-degrees	NN
-of	PIN PREP
-reliability	NOMZ
-and	PHC CCONJ
-validity	NOMZ
-depending	WZPRES PGAS
-on	PIN PREP
-the	ART DET
-context	NN
-of	PIN PREP
-the	ART DET
-investigation	NOMZ
-,	
-it	PIT PRP SBJP
-seems	VPRT SMP
-appropriate	JJ
-for	PIN PREP
-Cooper	CAP NNP
-and	PHC CCONJ
-Stevenson	CAP NNP
-(	
-1998	NUM
-)	
-to	PIN TO PREP
-propose	SUAV INF
-a	ART DET INDA
-'	CONT QUOT
-New	CAP NNP
-Science	CAP NNP
-'	CONT QUOT
-incorporating	GER PGAS
-both	CCONJ
-qualitative	JJ
-and	PHC CCONJ
-quantitative	JJ
-methods	NN
-.	
+type	content	tags
+word	Two	CAP NUM
+gap	 	
+word	important	JJ
+gap	 	
+word	points	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	when	RB WHCL SCONJ WH
+gap	 	
+word	conducting	GER PGAS
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	psychological	JJ
+gap	 	
+word	investigation	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	research	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	reliable	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	valid	JJ PRED
+gap	. 	
+word	Reliability	NOMZ CAP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	concerned	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	similar	JJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	actual	JJ
+gap	 	
+word	phenomena	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	trying	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	measure	INF
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	explained	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	likely	JJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	researcher	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	obtain	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	results	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	repeat	PUBV INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	research	NN
+gap	 	
+word	again	RB TIME
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	different	JJ
+gap	 	
+word	context	NN
+gap	 (	
+word	Peräkylä	
+gap	, 1997). 	
+word	Validity	
+gap	 	
+word	is	
+gap	 	
+word	concerned	
+gap	 	
+word	with	
+gap	 	
+word	whether	
+gap	 	
+word	the	
+gap	 	
+word	interpretations	
+gap	 	
+word	and	
+gap	 	
+word	conclusions	
+gap	 	
+word	drawn	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	research	
+gap	 	
+word	are	
+gap	 	
+word	appropriate	
+gap	 	
+word	considering	
+gap	 	
+word	the	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	investigation	
+gap	 	
+word	used	
+gap	 (	
+word	Maracek	
+gap	, 2003). 	
+word	Questions	
+gap	 	
+word	of	
+gap	 	
+word	reliability	
+gap	 	
+word	and	
+gap	 	
+word	validity	
+gap	 	
+word	often	
+gap	 	
+word	arise	
+gap	 	
+word	when	
+gap	 	
+word	conducting	
+gap	 	
+word	research	
+gap	 	
+word	using	
+gap	 	
+word	qualitative	
+gap	 	
+word	methods	
+gap	. 	
+word	Examples	
+gap	 	
+word	of	
+gap	 	
+word	qualitative	
+gap	 	
+word	methods	
+gap	 	
+word	are	
+gap	 	
+word	participant	
+gap	 	
+word	observation	
+gap	, 	
+word	open	
+gap	-	
+word	ended	
+gap	 	
+word	interviewing	
+gap	 	
+word	and	
+gap	 	
+word	case	
+gap	 	
+word	studies	
+gap	 (	
+word	Maracek	
+gap	, 2003). 	
+word	These	
+gap	 	
+word	ways	
+gap	 	
+word	of	
+gap	 	
+word	approaching	
+gap	 	
+word	research	
+gap	 	
+word	are	
+gap	 	
+word	defined	
+gap	 	
+word	as	
+gap	 	
+word	qualitative	
+gap	 	
+word	because	
+gap	 	
+word	they	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	measure	
+gap	 	
+word	behaviour	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	numerical	
+gap	 	
+word	way	
+gap	 	
+word	using	
+gap	 	
+word	a	
+gap	 	
+word	strict	
+gap	 	
+word	scientific	
+gap	 	
+word	procedure	
+gap	 	
+word	as	
+gap	 	
+word	in	
+gap	 	
+word	quantitative	
+gap	 	
+word	research	
+gap	. 	
+word	Because	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	reflect	
+gap	 	
+word	traditional	
+gap	 	
+word	scientific	
+gap	 	
+word	method	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	often	
+gap	 	
+word	stated	
+gap	 	
+word	that	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	reliable	
+gap	 	
+word	or	
+gap	 	
+word	valid	
+gap	. 	
+word	However	
+gap	, 	
+word	many	
+gap	 	
+word	arguments	
+gap	 	
+word	have	
+gap	 	
+word	contradicted	
+gap	 	
+word	this	
+gap	 	
+word	view	
+gap	. 	
+word	One	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	where	
+gap	 	
+word	both	
+gap	 	
+word	reliability	
+gap	 	
+word	and	
+gap	 	
+word	validity	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	increased	
+gap	 	
+word	by	
+gap	 	
+word	using	
+gap	 	
+word	a	
+gap	 	
+word	qualitative	
+gap	 	
+word	method	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	quantitative	
+gap	 	
+word	method	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Al	
+gap	-	
+word	Krenawi	
+gap	 	
+word	and	
+gap	 	
+word	Wiesel	
+gap	-	
+word	Lev	
+gap	 (1999, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Maracek	
+gap	, 2003). 	
+word	This	
+gap	 	
+word	study	
+gap	 	
+word	looked	
+gap	 	
+word	at	
+gap	 	
+word	Arab	
+gap	 	
+word	women	
+gap	'	
+word	s	
+gap	 	
+word	attitudes	
+gap	 	
+word	towards	
+gap	 	
+word	female	
+gap	 	
+word	circumcision	
+gap	. 	
+word	Their	
+gap	 	
+word	answers	
+gap	 	
+word	to	
+gap	 	
+word	close	
+gap	-	
+word	ended	
+gap	 	
+word	questions	
+gap	 	
+word	provided	
+gap	 	
+word	results	
+gap	 	
+word	suggesting	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	had	
+gap	 	
+word	no	
+gap	 	
+word	negative	
+gap	 	
+word	feelings	
+gap	 	
+word	about	
+gap	 	
+word	it	
+gap	. 	
+word	However	
+gap	, 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	were	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	speak	
+gap	 	
+word	freely	
+gap	 	
+word	they	
+gap	 	
+word	expressed	
+gap	 	
+word	how	
+gap	 	
+word	distressed	
+gap	 	
+word	they	
+gap	 	
+word	felt	
+gap	 	
+word	about	
+gap	 	
+word	it	
+gap	. 	
+word	The	
+gap	 	
+word	qualitative	
+gap	 	
+word	method	
+gap	, 	
+word	that	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	restrict	
+gap	 	
+word	their	
+gap	 	
+word	answers	
+gap	, 	
+word	was	
+gap	 	
+word	therefore	
+gap	 	
+word	more	
+gap	 	
+word	valid	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	data	
+gap	 	
+word	collected	
+gap	 	
+word	was	
+gap	 	
+word	about	
+gap	 	
+word	their	
+gap	 	
+word	true	
+gap	 	
+word	feelings	
+gap	. 	
+word	The	
+gap	 	
+word	qualitative	
+gap	 	
+word	method	
+gap	 	
+word	was	
+gap	 	
+word	also	
+gap	 	
+word	more	
+gap	 	
+word	reliable	
+gap	 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	produced	
+gap	 	
+word	answers	
+gap	 	
+word	that	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	found	
+gap	 	
+word	again	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	study	
+gap	 	
+word	were	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	repeated	
+gap	. 	
+word	Qualitative	
+gap	 	
+word	methods	
+gap	 	
+word	and	
+gap	 	
+word	quantitative	
+gap	 	
+word	methods	
+gap	 	
+word	both	
+gap	 	
+word	have	
+gap	 	
+word	their	
+gap	 	
+word	uses	
+gap	 	
+word	and	
+gap	 	
+word	deciding	
+gap	 	
+word	on	
+gap	 	
+word	which	
+gap	 	
+word	method	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	valid	
+gap	 	
+word	depends	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	research	
+gap	 	
+word	question	
+gap	. 	
+word	It	
+gap	 	
+word	depends	
+gap	 	
+word	on	
+gap	 	
+word	what	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	 	
+word	the	
+gap	 	
+word	researcher	
+gap	 	
+word	is	
+gap	 	
+word	seeking	
+gap	 	
+word	as	
+gap	 	
+word	to	
+gap	 	
+word	what	
+gap	 	
+word	method	
+gap	 	
+word	of	
+gap	 	
+word	research	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 (	
+word	Maracek	
+gap	,2003). 	
+word	In	
+gap	 	
+word	some	
+gap	 	
+word	cases	
+gap	, 	
+word	where	
+gap	 	
+word	little	
+gap	 	
+word	is	
+gap	 	
+word	known	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	interest	
+gap	, 	
+word	using	
+gap	 	
+word	a	
+gap	 	
+word	qualitative	
+gap	 	
+word	method	
+gap	 	
+word	will	
+gap	 	
+word	provide	
+gap	 	
+word	the	
+gap	 	
+word	more	
+gap	 	
+word	reliable	
+gap	 	
+word	and	
+gap	 	
+word	valid	
+gap	 	
+word	results	
+gap	. 	
+word	If	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	carried	
+gap	 	
+word	out	
+gap	, 	
+word	then	
+gap	 	
+word	an	
+gap	 	
+word	hypothesis	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	generated	
+gap	 	
+word	from	
+gap	 	
+word	this	
+gap	 	
+word	research	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	quantitative	
+gap	 	
+word	approach	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	adopted	
+gap	 	
+word	to	
+gap	 	
+word	test	
+gap	 	
+word	this	
+gap	 	
+word	hypothesis	
+gap	 (	
+word	Burt	
+gap	 & 	
+word	Oaksford	
+gap	, 1999). 	
+word	Some	
+gap	 	
+word	psychological	
+gap	 	
+word	tests	
+gap	 	
+word	are	
+gap	 	
+word	designed	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	particular	
+gap	 	
+word	culture	
+gap	 	
+word	or	
+gap	 	
+word	people	
+gap	 	
+word	who	
+gap	 	
+word	speak	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	language	
+gap	. 	
+word	If	
+gap	 	
+word	these	
+gap	 	
+word	quantitative	
+gap	 	
+word	tests	
+gap	 	
+word	are	
+gap	 	
+word	then	
+gap	 	
+word	applied	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	culture	
+gap	, 	
+word	the	
+gap	 	
+word	results	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	accurate	
+gap	 	
+word	or	
+gap	 	
+word	reliable	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	not	
+gap	 	
+word	to	
+gap	 	
+word	generalise	
+gap	 	
+word	in	
+gap	 	
+word	these	
+gap	 	
+word	situations	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	validity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	results	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	questioned	
+gap	 (	
+word	Cooper	
+gap	 & 	
+word	Stevenson	
+gap	, 1998). 	
+word	Qualitative	
+gap	 	
+word	research	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	involve	
+gap	 	
+word	generalisation	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	often	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	that	
+gap	 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	carried	
+gap	 	
+word	out	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	very	
+gap	 	
+word	specific	
+gap	 	
+word	group	
+gap	 	
+word	of	
+gap	 	
+word	individuals	
+gap	 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	designed	
+gap	 	
+word	specifically	
+gap	 	
+word	to	
+gap	 	
+word	meet	
+gap	 	
+word	the	
+gap	 	
+word	needs	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	group	
+gap	. 	
+word	This	
+gap	 	
+word	will	
+gap	 	
+word	ensure	
+gap	 	
+word	high	
+gap	 	
+word	validity	
+gap	. 	
+word	The	
+gap	 	
+word	points	
+gap	 	
+word	made	
+gap	 	
+word	so	
+gap	 	
+word	far	
+gap	 	
+word	have	
+gap	 	
+word	concentrated	
+gap	 	
+word	on	
+gap	 	
+word	how	
+gap	, 	
+word	in	
+gap	 	
+word	some	
+gap	 	
+word	cases	
+gap	, 	
+word	qualitative	
+gap	 	
+word	research	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	more	
+gap	 	
+word	reliable	
+gap	 	
+word	and	
+gap	 	
+word	valid	
+gap	 	
+word	method	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	times	
+gap	, 	
+word	however	
+gap	, 	
+word	when	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	maintain	
+gap	 	
+word	reliability	
+gap	 	
+word	using	
+gap	 	
+word	qualitative	
+gap	 	
+word	methods	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	nature	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	research	
+gap	. 	
+word	Peräkylä	
+gap	 (1997) 	
+word	highlights	
+gap	 	
+word	some	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	difficulties	
+gap	 	
+word	in	
+gap	 	
+word	conversation	
+gap	 	
+word	analytic	
+gap	 	
+word	research	
+gap	. 	
+word	This	
+gap	 	
+word	particular	
+gap	 	
+word	research	NN
+gap	 	
+word	uses	
+gap	 	
+word	tapes	
+gap	 	
+word	and	
+gap	 	
+word	transcripts	
+gap	 	
+word	to	
+gap	 	
+word	record	
+gap	 	
+word	data	
+gap	 	
+word	and	
+gap	 	
+word	these	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	of	
+gap	 	
+word	good	
+gap	 	
+word	quality	
+gap	 	
+word	so	
+gap	 	
+word	none	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	information	
+gap	 	
+word	is	
+gap	 	
+word	lost	
+gap	 	
+word	and	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	information	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	conveyed	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	public	
+gap	 	
+word	as	
+gap	 	
+word	evidence	
+gap	. 	
+word	The	
+gap	 	
+word	more	
+gap	 	
+word	information	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	maintained	
+gap	, 	
+word	the	
+gap	 	
+word	greater	
+gap	 	
+word	the	
+gap	 	
+word	reliability	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	research	
+gap	. 	
+word	Similarly	
+gap	, 	
+word	in	
+gap	 	
+word	field	
+gap	 	
+word	research	
+gap	, 	
+word	the	
+gap	 	
+word	written	
+gap	 	
+word	notes	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	observer	
+gap	 	
+word	makes	
+gap	 	
+word	need	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	accurate	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	observer	
+gap	 	
+word	needs	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	important	
+gap	 	
+word	decisions	
+gap	 	
+word	about	
+gap	 	
+word	what	
+gap	 	
+word	information	
+gap	 	
+word	to	
+gap	 	
+word	record	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	record	
+gap	 	
+word	everything	
+gap	. 	
+word	All	
+gap	 	
+word	the	
+gap	 	
+word	decisions	
+gap	 	
+word	the	
+gap	 	
+word	researcher	
+gap	 	
+word	makes	
+gap	 	
+word	will	
+gap	 	
+word	affect	
+gap	 	
+word	the	
+gap	 	
+word	reliability	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	
+gap	 	
+word	result	
+gap	. 	
+word	Psychologists	
+gap	 	
+word	often	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	common	
+gap	 	
+word	distinction	
+gap	 	
+word	between	
+gap	 	
+word	qualitative	
+gap	 	
+word	and	
+gap	 	
+word	quantitative	
+gap	 	
+word	research	
+gap	. 	
+word	In	
+gap	 	
+word	quantitative	JJ
+gap	 	
+word	research	NN
+gap	 	
+word	emphasis	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	controlling	
+gap	 	
+word	and	
+gap	 	
+word	manipulating	
+gap	 	
+word	variables	
+gap	. 	
+word	In	
+gap	 	
+word	a	
+gap	 	
+word	laboratory	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	much	
+gap	 	
+word	easier	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	unwanted	
+gap	 	
+word	variables	
+gap	 	
+word	and	
+gap	 	
+word	measure	
+gap	 	
+word	very	
+gap	 	
+word	specific	
+gap	 	
+word	aspects	
+gap	 	
+word	of	
+gap	 	
+word	behaviour	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	situation	
+gap	 	
+word	reliability	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	high	
+gap	 	
+word	because	
+gap	 	
+word	researchers	
+gap	 	
+word	are	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	get	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	results	
+gap	 	
+word	if	
+gap	 	
+word	they	
+gap	 	
+word	repeat	
+gap	 	
+word	the	
+gap	 	
+word	experiment	
+gap	 	
+word	under	
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	
+gap	 	
+word	conditions	
+gap	. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	validity	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	type	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	investigation	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	questioned	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	participants	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	natural	
+gap	 	
+word	setting	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	questionable	
+gap	 	
+word	whether	
+gap	 	
+word	the	
+gap	 	
+word	findings	
+gap	 	
+word	from	
+gap	 	
+word	this	
+gap	 	
+word	research	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	applied	
+gap	 	
+word	to	
+gap	 	
+word	everyday	
+gap	 	
+word	life	
+gap	. 	
+word	Qualitative	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	viewed	
+gap	 	
+word	as	
+gap	 	
+word	being	
+gap	 	
+word	opposite	
+gap	 	
+word	to	
+gap	 	
+word	this	
+gap	. 	
+word	It	
+gap	 	
+word	has	
+gap	 	
+word	high	
+gap	 	
+word	validity	
+gap	 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	often	
+gap	 	
+word	involves	
+gap	 	
+word	observing	
+gap	 	
+word	behaviour	
+gap	 	
+word	where	
+gap	 	
+word	it	
+gap	 	
+word	occurs	
+gap	 	
+word	naturally	
+gap	 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	also	
+gap	 	
+word	has	
+gap	 	
+word	low	
+gap	 	
+word	reliability	
+gap	 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	very	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	variables	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	natural	
+gap	 	
+word	setting	
+gap	. 	
+word	With	
+gap	 	
+word	both	
+gap	 	
+word	qualitative	
+gap	 	
+word	and	
+gap	 	
+word	quantitative	
+gap	 	
+word	research	
+gap	 	
+word	having	
+gap	 	
+word	varying	
+gap	 	
+word	degrees	
+gap	 	
+word	of	
+gap	 	
+word	reliability	
+gap	 	
+word	and	
+gap	 	
+word	validity	
+gap	 	
+word	depending	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	context	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	investigation	
+gap	, 	
+word	it	
+gap	 	
+word	seems	
+gap	 	
+word	appropriate	
+gap	 	
+word	for	
+gap	 	
+word	Cooper	
+gap	 	
+word	and	
+gap	 	
+word	Stevenson	
+gap	 (1998) 	
+word	to	
+gap	 	
+word	propose	
+gap	 	
+word	a	
+gap	 '	
+word	New	
+gap	 	
+word	Science	
+gap	' 	
+word	incorporating	
+gap	 	
+word	both	
+gap	 	
+word	qualitative	
+gap	 	
+word	and	
+gap	 	
+word	quantitative	
+gap	 	
+word	methods	
+gap	.	

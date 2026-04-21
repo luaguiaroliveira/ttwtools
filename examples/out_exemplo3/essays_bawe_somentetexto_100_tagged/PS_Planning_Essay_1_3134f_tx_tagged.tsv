@@ -1,1612 +1,2742 @@
 # filename: PS_Planning_Essay_1_3134f_tx.txt
-token	tags
-Introduction	NOMZ CAP
-Urban	JJ CAP
-growth	NN
-or	CCONJ
-sprawl	NN
-is	BEMA VPRT AUXB
-the	ART DET
-process	NN
-of	PIN PREP
-cities	NN
-spreading	WZPRES PGAS
-outwards	NN
-into	PIN PREP
-the	ART DET
-surrounding	GER PGAS
-countryside	NN
-(	
-Drake	CAP NNP
-and	PHC CCONJ
-Lee	CAP NNP
-,	
-2000	NUM
-.	
-)	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO STPR PREP
-;	
-a	X
-)	
-Examine	CAP INF
-the	ART DET
-problems	NN
-and	PHC CCONJ
-reasons	PRIV NN
-for	PIN PREP
-urban	JJ
-sprawl	NN
-and	ANDC CCONJ
-why	RB SCONJ WH
-it	PIT PRP SBJP
-needs	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-contained	
-.	
-b	X
-)	
-Look	CAP INF
-at	PIN PREP
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-ways	NN
-planners	NN
-have	VPRT PEAS
-tried	
-to	PIN TO PREP
-address	INF
-these	DEMO DET
-problems	NN
-and	CCONJ
-discuss	INF
-how	RB SCONJ WH
-successful	JJ
-they	TPP3 PRP SBJP
-have	VPRT PEAS
-been	AUXB
-.	
-Urban	CAP NNP
-Growth	CAP NNP
-and	CCONJ
-its	PIT PRP SBJP
-effects	NN
-In	PIN CONJ CAP PREP
-Britain	CAP NNP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-a	ART DET INDA
-cheap	JJ
-and	PHC CCONJ
-effective	JJ
-public	JJ
-transport	NN
-system	NN
-has	VPRT PEAS SPAU
-greatly	AMP RB
-influenced	
-the	ART DET
-spatial	JJ
-organisation	NOMZ
-of	PIN PREP
-cities	NN
-.	
-It	PIT CAP PRP SBJP
-has	VPRT PEAS
-allowed	SUAV
-people	NN
-to	PIN TO PREP
-live	INF
-further	RB CMADJ
-away	RB PLACE
-from	PIN PREP
-their	TPP3 PRP SBJP
-place	NN
-of	PIN PREP
-work	NN
-,	
-and	ANDC CCONJ
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-factors	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS
-facilitated	
-urban	JJ
-growth	NN
-.	
-The	ART CAP DET
-map	NN
-below	PIN PLACE PREP
-demonstrates	VPRT PRIV THATD
-this	DEMP DET
-:	
-(	
-Hall	CAP NNP
-,	
-2002	NUM
-,	
-p20	NN
-)	
-Population	CAP NNP
-growth	NN
-and	CCONJ
-the	ART DET
-subsequent	JJ
-need	NN
-for	PIN PREP
-new	JJ
-housing	NN
-also	RB
-contributes	VPRT
-to	PIN PREP
-urban	JJ
-spread	NN
-.	
-The	ART CAP DET
-development	NOMZ
-of	PIN PREP
-land	NN
-at	PIN PREP
-the	ART DET
-fringe	NN
-of	PIN PREP
-cities	NN
-can	POMD
-lead	INF
-to	PIN PREP
-the	ART DET
-availability	NOMZ
-of	PIN PREP
-higher	JJ CMADJ
-quality	NOMZ
-housing	NN
-at	PIN PREP
-a	ART DET INDA
-lower	JJ CMADJ
-density	NOMZ
-than	PIN PREP
-could	POMD
-be	PASS AUXB INF
-built	
-in	PIN CONJ PREP
-the	ART DET
-city	NN
-.	
-For	PIN CAP PREP
-those	DEMP DET
-who	WH
-want	VPRT
-and	CCONJ
-can	POMD
-afford	INF
-it	PIT PRP SBJP
-,	
-this	DEMO DET
-suburban	JJ
-housing	NN
-,	
-spacious	JJ
-and	PHC CCONJ
-close	JJ
-to	PIN PREP
-the	ART DET
-countryside	NN
-is	BEMA VPRT AUXB
-very	AMP RB
-desirable	JJ
-.	
-However	RB CONJ CAP
-,	
-urban	JJ
-growth	NN
-can	POMD SPAU
-also	RB
-have	INF
-negative	JJ
-impacts	NN
-.	
-These	DEMP CAP DET
-include	VPRT
-the	ART DET
-loss	NN
-of	PIN PREP
-the	ART DET
-countryside	NN
-and	CCONJ
-rural	JJ
-habitats	NN
-.	
-This	DEMO CAP DET
-land	NN
-could	POMD SPAU
-otherwise	RB CONJ
-have	INF
-a	ART DET INDA
-recreational	JJ
-use	NN
-,	
-or	CCONJ
-it	PIT PRP SBJP
-may	POMD
-be	BEMA AUXB INF
-valuable	JJ
-agricultural	JJ
-land	NN
-.	
-By	PIN CAP PREP
-the	ART DET
-mid	JJ
-1930	NUM
-'s	
-some	QUAN DET
-60,000	NUM
-acres	NN
-per	PIN PREP
-year	NN
-were	PASS VBD AUXB
-being	PASS AUXB
-taken	
-from	PIN PREP
-agriculture	NN
-in	PIN CONJ PREP
-England	CAP NNP
-and	PHC CCONJ
-Wales	CAP NNP
-.	
-'	CONT QUOT
-The	ART CAP DET
-suburban	JJ
-spread	NN
-of	PIN PREP
-London	CAP NNP
-took	VBD
-much	QUAN JJ
-of	PIN PREP
-the	ART DET
-finest	JJ SPADJ
-market	NN
-gardening	NN
-land	NN
-in	PIN CONJ PREP
-all	QUAN DET
-England	CAP NNP
-.	
-'	CONT QUOT
-(	
-Hall	CAP NNP
-,	
-2002	NUM
-p23	NN
-)	
-Urban	JJ CAP
-spread	NN
-can	POMD SPAU
-also	RB
-lead	INF
-to	PIN PREP
-the	ART DET
-swallowing	GER
-up	PIN PREP
-of	PIN PREP
-villages	NN
-and	CCONJ
-the	ART DET
-loss	NN
-of	PIN PREP
-character	NN
-of	PIN PREP
-urban	JJ
-areas	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-merge	VPRT
-into	PIN PREP
-each	QUAN DET
-other	JJ
-.	
-As	PIN CONJ CAP PREP
-quoted	
-by	PIN PREP
-a	ART DET INDA
-campaigner	NN
-for	PIN PREP
-the	ART DET
-protection	NOMZ
-of	PIN PREP
-the	ART DET
-countryside	NN
-,	
-'	CONT QUOT
-without	PIN PREP
-open	JJ
-spaces	NN
-between	PIN PREP
-communities	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-extremely	AMP RB
-difficult	JJ
-...	
-to	PIN TO PREP
-create	INF
-communities	NN
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-become	VPRT
-soulless	JJ
-and	CCONJ
-lost	
-.	
-'	CONT QUOT
-(	
-Ollie	CAP NNP
-Stone	CAP NNP
--	
-Lee	CAP NNP
-,	
-2004).In	NUM
-some	QUAN DET
-cases	NN
-,	
-urban	JJ
-sprawl	NN
-may	POMD
-contribute	INF
-to	PIN PREP
-inner	JJ
-city	NN
-decline	NN
-,	
-if	COND PIN SCONJ PREP
-the	ART DET
-wealthier	JJ CMADJ
-move	SUAV NN
-into	PIN PREP
-the	ART DET
-new	JJ
-suburbs	NN
-and	ANDC CCONJ
-those	DEMP DET
-who	WH
-are	PASS VPRT AUXB
-left	
-behind	RB PLACE
-become	
-'	CONT QUOT
-trapped	
-'	CONT QUOT
-in	PIN CONJ PREP
-inner	JJ
-cities	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-these	DEMO DET
-concerns	NN
-a	ART DET INDA
-growing	PGAS
-movement	NOMZ
-campaigning	GER WZPRES PGAS
-against	PIN PREP
-urban	JJ
-sprawl	NN
-developed	
-and	CCONJ
-planners	NN
-introduced	VBD
-measures	NN
-to	PIN TO PREP
-try	INF
-and	PHC CCONJ
-control	INF
-it	PIT PRP SBJP
-.	
-The	ART CAP DET
-Green	CAP NNP
-Belt	CAP NNP
-In	PIN CONJ CAP PREP
-1955	NUM
-,	
-a	ART DET INDA
-green	JJ
-belt	NN
-policy	NN
-was	PASS VBD AUXB
-introduced	
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-;	
-to	PIN TO PREP
-try	INF
-to	PIN TO PREP
-limit	INF
-urban	JJ
-growth	NN
-.	
-A	ART CAP DET INDA
-green	JJ
-belt	NN
-is	VPRT AUXB
-'	CONT QUOT
-an	ART DET INDA
-area	NN
-of	PIN PREP
-land	NN
-encircling	GER WZPRES PGAS
-an	ART DET INDA
-urban	JJ
-area	NN
-within	PIN PREP
-which	PIRE DET WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-difficult	JJ
-to	PIN TO PREP
-obtain	INF
-planning	NN
-permission	NOMZ
-for	PIN PREP
-new	JJ
-developments	NOMZ
-'	CONT QUOT
-(	
-Drake	CAP NNP
-and	PHC CCONJ
-Lee	CAP NNP
-,	
-2000	NUM
-,	
-p60	NN
-)	
-.	
-Green	JJ CAP
-belts	NN
-are	PASS VPRT BYPA AUXB
-designated	
-by	PIN PREP
-local	JJ
-planning	NN
-authorities	NN
-,	
-and	ANDC CCONJ
-now	RB TIME
-cover	VPRT
-13	NUM
-%	NN
-of	PIN PREP
-England	CAP NNP
-(	
-Ollie	CAP NNP
-Stone	CAP NNP
--	
-Lee	CAP NNP
-,	
-2004	NUM
-)	
-.	
-Green	JJ CAP
-belts	NN
-have	VPRT PEAS
-been	BEMA AUXB
-a	ART DET INDA
-useful	JJ
-tool	NN
-for	PIN PREP
-planners	NN
-and	CCONJ
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-planning	NN
-official	NN
-commented	VBD PUBV
-,	
-'	CONT QUOT
-probably	RB
-no	SYNE DET
-planning	NN
-circular	NN
-has	VPRT PEAS SPAU
-ever	RB
-been	BEMA AUXB
-so	RB EMPH
-popular	JJ
-with	PIN PREP
-the	ART DET
-public	NN
-.	
-'(Cullingworth	CONT
-and	ANDC CCONJ
-Nadin	CAP NNP
-,	
-2002	NUM
-)	
-However	RB CONJ CAP
-,	
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-not	XX0 RB
-without	PIN PREP
-their	TPP3 PRP SBJP
-critics	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-criticisms	NN
-if	COND PIN SCONJ PREP
-green	JJ
-belts	NN
-are	BEMA VPRT AUXB
-that	DEMO DET
-development	NOMZ
-may	POMD
-simply	RB
-'	CONT QUOT
-leap	NNP
-frog	NN
-'	CONT QUOT
-the	ART DET
-green	JJ
-belt	NN
-.	
-People	NN CAP
-may	POMD
-commute	INF
-through	PIN PREP
-it	PIT PRP SBJP
-to	PIN PREP
-the	ART DET
-town	NN
-centre	NN
-,	
-resulting	PGAS
-in	PIN CONJ PREP
-increased	
-traffic	NN
-,	
-congestion	NOMZ
-and	PHC CCONJ
-inefficiency	NN
-.	
-The	ART CAP DET
-type	NN
-of	PIN PREP
-countryside	NN
-found	PRIV WZPAST
-in	PIN CONJ PREP
-green	JJ
-belt	NN
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-particularly	RB
-attractive	JJ
-or	CCONJ
-environmentally	RB
-important	JJ
-.	
-The	ART CAP DET
-vice	NN
--	NN
-president	NN
-of	PIN PREP
-the	ART DET
-RTPI	CAP NNP
-is	PASS VPRT AUXB
-quoted	
-as	PIN CONJ PREP
-saying	PUBV PGAS
-'	CONT QUOT
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-it	PIT PRP SBJP
-is	VPRT AUXB
-"	QUOT
-awful	JJ
-land	NN
-"	QUOT
-containing	GER PGAS
-quarries	NN
-or	CCONJ
-landfill	NN
-sites	NN
-'	CONT QUOT
-(	
-Ollie	CAP NNP
-Stone	CAP NNP
--	
-Lee	CAP NNP
-,	
-2004	NUM
-)	
-.	
-Given	CAP
-the	ART DET
-enormous	JJ
-pressures	NN
-on	PIN PREP
-land	NN
-for	PIN PREP
-housing	NN
-and	CCONJ
-other	JJ
-developments	NOMZ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-questionable	JJ PRED
-whether	PIN SCONJ PREP
-such	EMPH DET
-a	ART DET INDA
-blanket	NN
-approach	NN
-is	BEMA VPRT AUXB
-still	RB
-appropriate	JJ
-.	
-The	ART CAP DET
-Barker	CAP NNP
-report	PUBV NN
-(	
-2004	NUM
-)	
-says	VPRT PUBV
-that	PIN THVC SCONJ PREP
-140,000	NUM
-new	JJ
-homes	NN
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-built	
-each	QUAN DET
-year	NN
-.	
-Limited	JJ CAP
-housing	NN
-stock	NN
-can	POMD
-lead	INF
-to	PIN PREP
-reduced	
-labour	JJ
-mobility	NOMZ
-and	CCONJ
-to	PIN PREP
-increased	
-house	NN
-prices	NN
-,	
-making	PGAS
-home	NN
-ownership	NN
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-reach	NN
-for	PIN PREP
-an	ART DET INDA
-increasing	GER PGAS
-proportion	NOMZ
-of	PIN PREP
-society	NN
-.	
-Another	CAP DET
-possible	JJ
-way	NN
-to	PIN PREP
-safe	JJ
-guard	NN
-areas	NN
-of	PIN PREP
-countryside	NN
-and	CCONJ
-to	PIN TO PREP
-allow	SUAV INF
-certain	JJ
-amount	NN
-of	PIN PREP
-development	NOMZ
-could	POMD
-be	BEMA AUXB INF
-the	ART DET
-introduction	NOMZ
-of	PIN STPR PREP
-'	CONT QUOT
-green	JJ
-wedges	NN
-'	CONT QUOT
-as	PIN CONJ PREP
-an	ART DET INDA
-alternative	NN
-to	PIN PREP
-the	ART DET
-green	JJ
-belt	NN
-.	
-New	JJ CAP
-Towns	NN CAP
-Another	CAP DET
-measure	NN
-used	WZPAST
-by	PIN PREP
-planners	NN
-to	PIN TO PREP
-contain	INF
-urban	JJ
-growth	NN
-was	BEMA VBD AUXB
-the	ART DET
-development	NOMZ
-of	PIN PREP
-new	JJ
-or	CCONJ
-satellite	NN
-towns	NN
-.	
-These	DEMP CAP DET
-were	PASS VBD AUXB
-built	
-to	PIN TO PREP
-take	INF
-overspill	NN
-populations	NOMZ
-from	PIN PREP
-large	JJ
-cities	NN
-and	CCONJ
-'	CONT QUOT
-used	PASTP
-as	PIN CONJ PREP
-a	ART DET INDA
-conscious	JJ
-strategy	NN
-for	PIN PREP
-metropolitan	JJ
-de	NN
--	NN
-centralisation	NOMZ
-'	CONT QUOT
-(	
-Purdom	CAP NNP
-,	
-1925	NUM
-)	
-cited	PASTP
-in	PIN CONJ STPR PREP
-(	
-Ward	CAP NNP
-,	
-1994	NUM
-,	
-p52	NN
-.	
-)	
-In	PIN CONJ CAP PREP
-1946	NUM
-the	ART DET
-New	CAP NNP
-Towns	CAP NNP
-Act	CAP NNP
-was	PASS VBD AUXB
-passed	
-into	PIN PREP
-law	NN
-.	
-The	ART CAP DET
-first	JJ
-new	JJ
-town	NN
-was	VBD AUXB
-Stevenage	CAP NNP
-,	
-which	SERE WHQU DET WH
-was	PASS VBD AUXB
-designated	
-in	PIN CONJ PREP
-1946	NUM
-.	
-By	PIN CAP PREP
-1980	NUM
-there	EX
-were	VBD AUXB
-28	NUM
-New	JJ CAP
-Towns	NN CAP
-in	PIN CONJ PREP
-Britain	CAP NNP
-accounting	GER WZPRES PGAS
-for	PIN PREP
-over	PIN PREP
-one	NUM
-million	NUM
-people	NN
-.	
-New	JJ CAP
-Towns	NN CAP
-were	PASS VBD AUXB
-planned	
-to	PIN TO PREP
-be	AUXB INF
-'	CONT QUOT
-self	NN
-contained	VBD
-communities	NN
-for	PIN PREP
-living	NN
-and	CCONJ
-working	PGAS
-.	
-'	CONT QUOT
-(	
-Hall	CAP NNP
-,	
-2002	NUM
-,	
-p64	NN
-)	
-They	TPP3 CAP PRP SBJP
-were	PASS VBD SPAU AUXB
-sometimes	RB
-developed	
-in	PIN CONJ PREP
-conjunction	NOMZ
-with	PIN PREP
-green	JJ
-belts	NN
-;	
-as	PIN CONJ PREP
-shown	PRIV
-below	PIN PLACE PREP
-around	PIN PLACE PREP
-London	CAP NNP
-:	
-(	
-Hall	CAP NNP
-,	
-2002	NUM
-,	
-p64	NN
-)	
-It	PIT CAP PRP SBJP
-was	PASS VBD AUXB
-reasoned	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-width	NN
-of	PIN PREP
-the	ART DET
-green	JJ
-belt	NN
-would	PRMD
-put	INF
-commuting	PGAS
-to	PIN PREP
-London	CAP NNP
-far	RB PLACE
-beyond	PIN PREP
-the	ART DET
-means	PRIV NN
-of	PIN PREP
-most	JJ EMPH SPADJ
-people	NN
-at	PIN PREP
-the	ART DET
-time	NN
-,	
-encouraging	GER PGAS
-self	NN
--	
-containment	NOMZ
-.	
-As	PIN CONJ CAP PREP
-discussed	
-by	PIN PREP
-Nicholson	CAP NNP
-(	
-1961	NUM
-)	
-providing	PRESP PGAS
-an	ART DET INDA
-adequate	JJ
-volume	NN
-or	CCONJ
-balance	NN
-of	PIN PREP
-employment	NOMZ
-for	PIN PREP
-the	ART DET
-different	JJ
-sectors	NN
-of	PIN PREP
-the	ART DET
-community	NOMZ
-proved	VBD PRIV
-difficult	JJ
-.	
-He	TPP3 CAP PRP SBJP
-also	RB
-stated	VBD PUBV THATD
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-the	ART DET
-principle	NN
-of	PIN PREP
-self	NN
-containment	NOMZ
-should	NEMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-pressed	
-too	RB
-far	RB PLACE
-'	CONT QUOT
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-at	PIN PREP
-Hatfield	CAP NNP
-,	
-over	PIN PREP
-half	DET
-the	ART DET
-dwellings	NN
-are	PASS VPRT BYPA AUXB
-occupied	
-by	PIN PREP
-workers	NN
-for	PIN PREP
-one	NUM
-firm	NN
-;	
-a	ART DET INDA
-recession	NOMZ
-in	PIN CONJ PREP
-that	DEMO DET
-industry	NN
-would	PRMD
-hit	INF
-the	ART DET
-town	NN
-hard	RB
-.	
-'	CONT QUOT
-New	JJ CAP
-Towns	NN CAP
-often	RB
-incorporated	VBD
-existing	PGAS
-settlements	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-area	NN
-;	
-'	CONT QUOT
-Basildon	CAP NNP
-had	VBD
-to	PIN TO PREP
-link	INF
-up	PIN PREP
-the	ART DET
-two	NUM
-widely	RB
-separated	
-settlements	NOMZ
-and	CCONJ
-their	TPP3 PRP SBJP
-populations	NOMZ
-and	CCONJ
-to	PIN TO PREP
-absorb	INF
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-re	PIN NN PREP
--	NN
-house	NN
-,	
-those	DEMP DET
-displaced	
-by	PIN PREP
-the	ART DET
-demolitions	NOMZ
-'	CONT QUOT
-(	
-Nicholson	CAP NNP
-,	
-1961	NUM
-)	
-.	
-The	ART CAP DET
-lives	NN
-of	PIN PREP
-the	ART DET
-original	JJ
-populations	NOMZ
-were	PASS VBD BYPA SPAU AUXB
-greatly	AMP RB
-affected	
-by	PIN PREP
-the	ART DET
-new	JJ
-developments	NOMZ
-.	
-This	DEMO CAP DET
-sometimes	RB
-led	VBD
-to	PIN PREP
-problems	NN
-integrating	GER WZPRES PGAS
-old	JJ
-and	PHC CCONJ
-new	JJ
-residents	NN
-and	CCONJ
-to	PIN PREP
-tensions	NOMZ
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-especially	RB
-initially	RB TIME
-.	
-New	JJ CAP
-towns	NN
-achieved	VBD
-the	ART DET
-aim	NN
-of	PIN PREP
-establishing	GER PRIV PGAS
-new	JJ
-settlements	NOMZ
-,	
-providing	PGAS
-housing	NN
-,	
-jobs	NN
-and	PHC CCONJ
-facilities	NN
-for	PIN PREP
-people	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-very	AMP RB
-short	JJ
-time	NN
-,	
-helping	PRESP PGAS
-somewhat	DWNT RB
-to	PIN TO PREP
-relieve	INF
-the	ART DET
-pressure	NN
-of	PIN PREP
-urban	JJ
-sprawl	NN
-.	
-Their	TPP3 CAP PRP SBJP
-development	NOMZ
-did	VBD EMPH
-result	INF
-in	PIN CONJ PREP
-some	QUAN DET
-conflicts	NN
-;	
-for	PIN PREP
-example	NN
-there	EX
-were	VBD AUXB
-objections	NOMZ
-to	PIN PREP
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-land	NN
-designated	WZPAST
-for	PIN PREP
-use	NN
-,	
-e.g.	RB CONJ
-in	PIN CONJ PREP
-Stevenage	CAP NNP
-where	RB SCONJ WH
-the	ART DET
-land	NN
-included	VBD
-some	QUAN DET
-good	JJ
-quality	NOMZ
-farm	NN
-land	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-currently	RB
-resurgence	NN
-in	PIN CONJ PREP
-interest	NN
-in	PIN CONJ PREP
-the	ART DET
-potential	NN
-of	PIN PREP
-new	JJ
-towns	NN
-for	PIN PREP
-development	NOMZ
-.A	
-2004	NUM
-report	PUBV NN
-commissioned	WZPAST
-by	PIN PREP
-the	ART DET
-Government	CAP NNP
-recommends	VPRT SUAV THATD
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-the	ART DET
-government	NOMZ
-promotes	VPRT
-further	JJ
-expansion	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-existing	PGAS
-new	JJ
-towns	NN
-to	PIN TO PREP
-help	INF
-meet	INF
-its	PIT PRP SBJP
-housing	NN
-targets	NN
-,	
-particularly	RB
-where	RB SCONJ WH
-new	JJ
-towns	NN
-have	VPRT SPAU
-not	XX0 RB
-meet	INF
-their	TPP3 PRP SBJP
-critical	JJ
-mass	NN
-.	
-'	CONT QUOT
-(	
-Government	CAP NNP
-Report	PUBV CAP NNP
-,	
-2004	NUM
-)	
-The	ART CAP DET
-new	JJ
-towns	NN
-may	POMD
-have	INF
-a	ART DET INDA
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-for	PIN PREP
-helping	PGAS
-accommodate	INF
-the	ART DET
-growing	PGAS
-population	NOMZ
-.	
-Urban	CAP NNP
-Regeneration	CAP NNP
-Another	CAP DET
-measure	NN
-to	PIN TO PREP
-help	INF
-reduce	INF
-the	ART DET
-pressure	NN
-on	PIN PREP
-greenfield	NN
-sites	NN
-at	PIN PREP
-the	ART DET
-urban	JJ
-fringe	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-encourage	INF
-urban	JJ
-regeneration	NOMZ
-.	
-The	ART CAP DET
-government	NOMZ
-currently	RB
-has	VPRT
-a	ART DET INDA
-target	NN
-of	PIN PREP
-building	PGAS
-60	NUM
-%	NN
-of	PIN PREP
-new	JJ
-dwellings	NN
-on	PIN PREP
-previously	RB TIME
-developed	
-land	NN
-(	
-Urban	CAP NNP
-Task	CAP NNP
-force	NN
-,	
-1999	NUM
-)	
-and	ANDC CCONJ
-is	VPRT AUXB
-encouraging	GER PGAS
-the	ART DET
-idea	NN
-of	PIN PREP
-an	ART DET INDA
-urban	JJ
-renaissance	NN
-.	
-This	DEMP CAP DET
-involves	VPRT
-having	PGAS
-high	JJ
-density	NOMZ
-cities	NN
-which	WHSUB DET WH
-have	VPRT PEAS
-mixed	
-uses	NN
-,	
-good	JJ
-transport	NN
-links	NN
-and	ANDC CCONJ
-that	DEMP DET
-are	BEMA VPRT AUXB
-desirable	JJ
-places	NN
-to	PIN TO PREP
-live	INF
-:	
-(	
-Urban	CAP NNP
-Task	CAP NNP
-Force	CAP NNP
-,	
-1999	NUM
-)	
-For	PIN CAP PREP
-those	DEMO DET
-people	NN
-that	TSUB WHSUB WH
-want	VPRT
-to	PIN TO PREP
-live	INF
-in	PIN CONJ PREP
-the	ART DET
-cities	NN
-,	
-these	DEMP DET
-would	PRMD SPAU
-once	RB TIME
-again	RB TIME
-provide	INF
-attractive	JJ
-places	NN
-for	PIN PREP
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-live	INF
-and	PHC CCONJ
-work	INF
-and	PHC CCONJ
-reduce	INF
-pressure	NN
-for	PIN PREP
-housing	NN
-at	PIN PREP
-the	ART DET
-urban	JJ
-fringes	NN
-.	
-Compact	JJ CAP
-cities	NN
-that	TSUB WHSUB WH
-have	VPRT
-good	JJ
-public	JJ
-transport	NN
-links	NN
-would	PRMD
-help	INF
-reduce	INF
-adverse	JJ
-environmental	JJ
-effects	NN
-In	PIN CONJ CAP PREP
-the	ART DET
-1960	NUM
-'s	
-during	PIN PREP
-a	ART DET INDA
-phase	NN
-of	PIN PREP
-urban	JJ
-renewal	NN
-,	
-slums	NN
-were	PASS VBD AUXB
-cleared	
-and	PHC CCONJ
-replaced	
-with	PIN PREP
-high	JJ
-density	NOMZ
-housing	NN
-,	
-namely	RB CONJ
-tower	NN
-blocks	NN
-.	
-Due	PIN CAP PREP
-to	PIN PREP
-bad	JJ
-design	NN
-and	CCONJ
-low	JJ
-structural	JJ
-quality	NOMZ
-inhabitants	NN
-were	BEMA VBD AUXB
-rarely	RB
-happy	JJ
-and	CCONJ
-the	ART DET
-schemes	NN
-were	BEMA VBD AUXB
-not	XX0 RB
-a	ART DET INDA
-success	NN
-.	
-This	DEMP CAP DET
-demonstrates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-key	JJ
-part	NN
-of	PIN PREP
-making	PGAS
-cities	NN
-places	NN
-where	RB WHOBJ SCONJ WH
-people	NN
-want	VPRT
-to	PIN TO PREP
-live	INF
-,	
-especially	RB
-where	RB SCONJ WH
-high	JJ
-densities	NN
-are	PASS VPRT AUXB
-being	PASS AUXB
-encouraged	
-is	BEMA VPRT AUXB
-good	JJ
-quality	NOMZ
-design	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-city	NN
-centre	NN
-renewal	NN
-may	POMD
-be	AUXB INF
-way	NN
-of	PIN PREP
-providing	PGAS
-housing	NN
-for	PIN PREP
-many	QUAN JJ
-people	NN
-,	
-not	XX0 RB
-everyone	QUPR INPR
-wants	VPRT
-to	PIN TO PREP
-live	INF
-in	PIN CONJ PREP
-city	NN
-centres	NN
-;	
-families	NN
-often	RB
-want	VPRT
-to	PIN TO PREP
-move	SUAV INF
-to	PIN PREP
-the	ART DET
-suburbs	NN
-,	
-especially	RB
-those	DEMO DET
-with	PIN PREP
-children	NN
-,	
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-close	JJ PRED
-to	PIN TO PREP
-countryside	INF
-and	CCONJ
-have	INF
-space	NN
-for	PIN PREP
-gardens	NN
-etc	X
-.	
-So	RB CAP
-no	RB
-matter	RB
-how	RB SCONJ WH
-successful	JJ
-the	ART DET
-urban	JJ
-renaissance	NN
-is	VPRT AUXB
-,	
-some	QUAN DET
-people	NN
-may	POMD SPAU
-always	RB
-want	INF
-to	PIN TO PREP
-live	INF
-in	PIN CONJ PREP
-the	ART DET
-suburbs	NN
-.	
-Conclusion	CAP NNP
-The	ART CAP DET
-problem	NN
-of	PIN PREP
-urban	JJ
-sprawl	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-ongoing	JJ
-one	NN
-.	
-Different	JJ CAP
-measures	NN
-have	VPRT PEAS
-been	PASS BYPA AUXB
-taken	
-by	PIN PREP
-planners	NN
-both	DET
-at	PIN PREP
-the	ART DET
-local	JJ
-and	PHC CCONJ
-national	JJ
-level	NN
-.	
-They	TPP3 CAP PRP SBJP
-have	VPRT PEAS
-had	
-a	ART DET INDA
-varying	JJ
-degree	NN
-of	PIN PREP
-success	NN
-;	
-whilst	OSUB PIN SCONJ PREP
-they	TPP3 PRP SBJP
-may	POMD
-reduce	INF
-urban	JJ
-sprawl	NN
-,	
-all	QUAN DET
-schemes	NN
-have	VPRT
-costs	NN
-and	PHC CCONJ
-benefits	NN
-to	PIN PREP
-different	JJ
-sectors	NN
-of	PIN PREP
-the	ART DET
-population	NOMZ
-,	
-the	ART DET
-environment	NOMZ
-and	CCONJ
-the	ART DET
-economy	NN
-.	
-The	ART CAP DET
-continuing	GER PGAS
-growth	NN
-of	PIN PREP
-the	ART DET
-population	NOMZ
-and	CCONJ
-the	ART DET
-demand	SUAV NN
-for	PIN PREP
-affordable	JJ
-housing	NN
-means	VPRT PRIV THATD
-this	DEMP DET
-is	BEMA VPRT AUXB
-an	ART DET INDA
-issue	NN
-that	TSUB WHSUB WH
-faces	VPRT
-planners	NN
-both	DET
-currently	RB
-and	ANDC CCONJ
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-.	
-As	PIN CONJ CAP PREP
-stated	PUBV
-by	PIN PREP
-Martin	CAP NNP
-Wolf	CAP NNP
-'	CONT QUOT
-we	FPP1 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-have	INF
-a	ART DET INDA
-rising	PGAS
-population	NOMZ
-,	
-spacious	JJ
-housing	NN
-for	PIN PREP
-each	QUAN DET
-household	NN
-and	CCONJ
-an	ART DET INDA
-unchanged	JJ
-quantity	NOMZ
-of	PIN PREP
-un	JJ
--	JJ
-developed	JJ
-countryside	NN
-.	
-'	CONT QUOT
-(	
-Cited	PASTP CAP
-in	PIN CONJ PREP
-Barker	CAP NNP
-,	
-2004	NUM
-)	
+type	content	tags
+word	Introduction	NOMZ CAP
+gap	 	
+word	Urban	JJ CAP
+gap	 	
+word	growth	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	sprawl	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cities	NN
+gap	 	
+word	spreading	WZPRES PGAS
+gap	 	
+word	outwards	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surrounding	GER PGAS
+gap	 	
+word	countryside	NN
+gap	 (	
+word	Drake	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Lee	CAP NNP
+gap	, 2000.) 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO STPR PREP
+gap	; 	
+word	a	X
+gap	) 	
+word	Examine	CAP INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	problems	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	sprawl	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	needs	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	contained	
+gap	. 	
+word	b	X
+gap	) 	
+word	Look	CAP INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ways	NN
+gap	 	
+word	planners	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	tried	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	address	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	problems	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	discuss	INF
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	successful	JJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	. 	
+word	Urban	CAP NNP
+gap	 	
+word	Growth	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	effects	NN
+gap	 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Britain	CAP NNP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cheap	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	effective	JJ
+gap	 	
+word	public	JJ
+gap	 	
+word	transport	NN
+gap	 	
+word	system	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	influenced	
+gap	 	
+word	the	ART DET
+gap	 	
+word	spatial	JJ
+gap	 	
+word	organisation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cities	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	allowed	SUAV
+gap	 	
+word	people	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	live	INF
+gap	 	
+word	further	RB CMADJ
+gap	 	
+word	away	RB PLACE
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	place	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	work	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	factors	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	facilitated	
+gap	 	
+word	urban	JJ
+gap	 	
+word	growth	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	map	NN
+gap	 	
+word	below	PIN PLACE PREP
+gap	 	
+word	demonstrates	VPRT PRIV THATD
+gap	 	
+word	this	DEMP DET
+gap	: (	
+word	Hall	CAP NNP
+gap	, 2002, 	
+word	p	NN
+gap	20) 	
+word	Population	CAP NNP
+gap	 	
+word	growth	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	subsequent	JJ
+gap	 	
+word	need	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	housing	NN
+gap	 	
+word	also	RB
+gap	 	
+word	contributes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	spread	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fringe	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cities	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	availability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	housing	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	density	NOMZ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	built	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	city	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	want	VPRT
+gap	 	
+word	and	CCONJ
+gap	 	
+word	can	POMD
+gap	 	
+word	afford	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	suburban	JJ
+gap	 	
+word	housing	NN
+gap	, 	
+word	spacious	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	close	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	countryside	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	desirable	JJ
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	urban	JJ
+gap	 	
+word	growth	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	have	INF
+gap	 	
+word	negative	JJ
+gap	 	
+word	impacts	NN
+gap	. 	
+word	These	DEMP CAP DET
+gap	 	
+word	include	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	loss	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	countryside	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	rural	JJ
+gap	 	
+word	habitats	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	land	NN
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	otherwise	RB CONJ
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	recreational	JJ
+gap	 	
+word	use	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	valuable	JJ
+gap	 	
+word	agricultural	JJ
+gap	 	
+word	land	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mid	JJ
+gap	 1930'	
+word	s	
+gap	 	
+word	some	QUAN DET
+gap	 60,000 	
+word	acres	NN
+gap	 	
+word	per	PIN PREP
+gap	 	
+word	year	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	taken	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	agriculture	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	England	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Wales	CAP NNP
+gap	. '	
+word	The	ART CAP DET
+gap	 	
+word	suburban	JJ
+gap	 	
+word	spread	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	London	CAP NNP
+gap	 	
+word	took	VBD
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	finest	JJ SPADJ
+gap	 	
+word	market	NN
+gap	 	
+word	gardening	NN
+gap	 	
+word	land	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	England	CAP NNP
+gap	.' (	
+word	Hall	CAP NNP
+gap	, 2002 	
+word	p	NN
+gap	23) 	
+word	Urban	JJ CAP
+gap	 	
+word	spread	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	swallowing	GER
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	villages	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	loss	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	character	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	merge	VPRT
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	quoted	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	campaigner	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	protection	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	countryside	NN
+gap	, '	
+word	without	PIN PREP
+gap	 	
+word	open	JJ
+gap	 	
+word	spaces	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	communities	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	difficult	JJ
+gap	...	
+word	to	PIN TO PREP
+gap	 	
+word	create	INF
+gap	 	
+word	communities	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	become	VPRT
+gap	 	
+word	soulless	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	lost	
+gap	.' (	
+word	Ollie	CAP NNP
+gap	 	
+word	Stone	CAP NNP
+gap	-	
+word	Lee	CAP NNP
+gap	, 2004).	
+word	In	NUM
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	cases	NN
+gap	, 	
+word	urban	JJ
+gap	 	
+word	sprawl	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	contribute	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	inner	JJ
+gap	 	
+word	city	NN
+gap	 	
+word	decline	NN
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	wealthier	JJ CMADJ
+gap	 	
+word	move	SUAV NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	suburbs	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	left	
+gap	 	
+word	behind	RB PLACE
+gap	 	
+word	become	
+gap	 '	
+word	trapped	
+gap	' 	
+word	in	PIN CONJ PREP
+gap	 	
+word	inner	JJ
+gap	 	
+word	cities	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	concerns	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	growing	PGAS
+gap	 	
+word	movement	NOMZ
+gap	 	
+word	campaigning	GER WZPRES PGAS
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	sprawl	NN
+gap	 	
+word	developed	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	planners	NN
+gap	 	
+word	introduced	VBD
+gap	 	
+word	measures	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	try	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	control	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Green	CAP NNP
+gap	 	
+word	Belt	CAP NNP
+gap	 	
+word	In	PIN CONJ CAP PREP
+gap	 1955, 	
+word	a	ART DET INDA
+gap	 	
+word	green	JJ
+gap	 	
+word	belt	NN
+gap	 	
+word	policy	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	introduced	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	; 	
+word	to	PIN TO PREP
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	limit	INF
+gap	 	
+word	urban	JJ
+gap	 	
+word	growth	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	green	JJ
+gap	 	
+word	belt	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 '	
+word	an	ART DET INDA
+gap	 	
+word	area	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	encircling	GER WZPRES PGAS
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	urban	JJ
+gap	 	
+word	area	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	difficult	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	obtain	INF
+gap	 	
+word	planning	NN
+gap	 	
+word	permission	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	developments	NOMZ
+gap	' (	
+word	Drake	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Lee	CAP NNP
+gap	, 2000, 	
+word	p	NN
+gap	60). 	
+word	Green	JJ CAP
+gap	 	
+word	belts	NN
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	designated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	local	JJ
+gap	 	
+word	planning	NN
+gap	 	
+word	authorities	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	now	RB TIME
+gap	 	
+word	cover	VPRT
+gap	 13% 	
+word	of	PIN PREP
+gap	 	
+word	England	CAP NNP
+gap	 (	
+word	Ollie	CAP NNP
+gap	 	
+word	Stone	CAP NNP
+gap	-	
+word	Lee	CAP NNP
+gap	, 2004). 	
+word	Green	JJ CAP
+gap	 	
+word	belts	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	useful	JJ
+gap	 	
+word	tool	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	planners	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	planning	NN
+gap	 	
+word	official	NN
+gap	 	
+word	commented	VBD PUBV
+gap	, '	
+word	probably	RB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	planning	NN
+gap	 	
+word	circular	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	ever	RB
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	popular	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	public	NN
+gap	.'(	
+word	Cullingworth	CONT
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	Nadin	CAP NNP
+gap	, 2002) 	
+word	However	RB CONJ CAP
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	critics	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	criticisms	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	green	JJ
+gap	 	
+word	belts	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	may	POMD
+gap	 	
+word	simply	RB
+gap	 '	
+word	leap	NNP
+gap	 	
+word	frog	NN
+gap	' 	
+word	the	ART DET
+gap	 	
+word	green	JJ
+gap	 	
+word	belt	NN
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	may	POMD
+gap	 	
+word	commute	INF
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	town	NN
+gap	 	
+word	centre	NN
+gap	, 	
+word	resulting	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	increased	
+gap	 	
+word	traffic	NN
+gap	, 	
+word	congestion	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	inefficiency	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	countryside	NN
+gap	 	
+word	found	PRIV WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	green	JJ
+gap	 	
+word	belt	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	particularly	RB
+gap	 	
+word	attractive	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	environmentally	RB
+gap	 	
+word	important	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	vice	NN
+gap	-	
+word	president	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	RTPI	CAP NNP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	quoted	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	saying	PUBV PGAS
+gap	 '	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 "	
+word	awful	JJ
+gap	 	
+word	land	NN
+gap	" 	
+word	containing	GER PGAS
+gap	 	
+word	quarries	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	landfill	NN
+gap	 	
+word	sites	NN
+gap	' (	
+word	Ollie	CAP NNP
+gap	 	
+word	Stone	CAP NNP
+gap	-	
+word	Lee	CAP NNP
+gap	, 2004). 	
+word	Given	CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	enormous	JJ
+gap	 	
+word	pressures	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	housing	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	developments	NOMZ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	questionable	JJ PRED
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	blanket	NN
+gap	 	
+word	approach	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	appropriate	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Barker	CAP NNP
+gap	 	
+word	report	PUBV NN
+gap	 (2004) 	
+word	says	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 140,000 	
+word	new	JJ
+gap	 	
+word	homes	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	built	
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	year	NN
+gap	. 	
+word	Limited	JJ CAP
+gap	 	
+word	housing	NN
+gap	 	
+word	stock	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	reduced	
+gap	 	
+word	labour	JJ
+gap	 	
+word	mobility	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	increased	
+gap	 	
+word	house	NN
+gap	 	
+word	prices	NN
+gap	, 	
+word	making	PGAS
+gap	 	
+word	home	NN
+gap	 	
+word	ownership	NN
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reach	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	proportion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	society	NN
+gap	. 	
+word	Another	CAP DET
+gap	 	
+word	possible	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	safe	JJ
+gap	 	
+word	guard	NN
+gap	 	
+word	areas	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	countryside	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	certain	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	development	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	of	PIN STPR PREP
+gap	 '	
+word	green	JJ
+gap	 	
+word	wedges	NN
+gap	' 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	alternative	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	green	JJ
+gap	 	
+word	belt	NN
+gap	. 	
+word	New	JJ CAP
+gap	 	
+word	Towns	NN CAP
+gap	 	
+word	Another	CAP DET
+gap	 	
+word	measure	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	planners	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	contain	INF
+gap	 	
+word	urban	JJ
+gap	 	
+word	growth	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	satellite	NN
+gap	 	
+word	towns	NN
+gap	. 	
+word	These	DEMP CAP DET
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	built	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	overspill	NN
+gap	 	
+word	populations	NOMZ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	large	JJ
+gap	 	
+word	cities	NN
+gap	 	
+word	and	CCONJ
+gap	 '	
+word	used	PASTP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	conscious	JJ
+gap	 	
+word	strategy	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	metropolitan	JJ
+gap	 	
+word	de	NN
+gap	-	
+word	centralisation	NOMZ
+gap	' (	
+word	Purdom	CAP NNP
+gap	, 1925) 	
+word	cited	PASTP
+gap	 	
+word	in	PIN CONJ STPR PREP
+gap	 (	
+word	Ward	CAP NNP
+gap	, 1994, 	
+word	p	NN
+gap	52.) 	
+word	In	PIN CONJ CAP PREP
+gap	 1946 	
+word	the	ART DET
+gap	 	
+word	New	CAP NNP
+gap	 	
+word	Towns	CAP NNP
+gap	 	
+word	Act	CAP NNP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	passed	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	law	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	new	JJ
+gap	 	
+word	town	NN
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	Stevenage	CAP NNP
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	designated	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1946. 	
+word	By	PIN CAP PREP
+gap	 1980 	
+word	there	EX
+gap	 	
+word	were	VBD AUXB
+gap	 28 	
+word	New	JJ CAP
+gap	 	
+word	Towns	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Britain	CAP NNP
+gap	 	
+word	accounting	GER WZPRES PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	million	NUM
+gap	 	
+word	people	NN
+gap	. 	
+word	New	JJ CAP
+gap	 	
+word	Towns	NN CAP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	planned	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 '	
+word	self	NN
+gap	 	
+word	contained	VBD
+gap	 	
+word	communities	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	living	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	working	PGAS
+gap	.' (	
+word	Hall	CAP NNP
+gap	, 2002, 	
+word	p	NN
+gap	64) 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	sometimes	RB
+gap	 	
+word	developed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	conjunction	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	green	JJ
+gap	 	
+word	belts	NN
+gap	; 	
+word	as	PIN CONJ PREP
+gap	 	
+word	shown	PRIV
+gap	 	
+word	below	PIN PLACE PREP
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	London	CAP NNP
+gap	: (	
+word	Hall	CAP NNP
+gap	, 2002, 	
+word	p	NN
+gap	64) 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	reasoned	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	width	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	green	JJ
+gap	 	
+word	belt	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	put	INF
+gap	 	
+word	commuting	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	London	CAP NNP
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	beyond	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	means	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	people	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	, 	
+word	encouraging	GER PGAS
+gap	 	
+word	self	NN
+gap	 - 	
+word	containment	NOMZ
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	discussed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Nicholson	CAP NNP
+gap	 (1961) 	
+word	providing	PRESP PGAS
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	adequate	JJ
+gap	 	
+word	volume	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	balance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	employment	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	sectors	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	community	NOMZ
+gap	 	
+word	proved	VBD PRIV
+gap	 	
+word	difficult	JJ
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	stated	VBD PUBV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 '	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	self	NN
+gap	 	
+word	containment	NOMZ
+gap	 	
+word	should	NEMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	pressed	
+gap	 	
+word	too	RB
+gap	 	
+word	far	RB PLACE
+gap	' 	
+word	as	PIN CONJ STPR PREP
+gap	 '	
+word	at	PIN PREP
+gap	 	
+word	Hatfield	CAP NNP
+gap	, 	
+word	over	PIN PREP
+gap	 	
+word	half	DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	dwellings	NN
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	occupied	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	workers	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	firm	NN
+gap	; 	
+word	a	ART DET INDA
+gap	 	
+word	recession	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	industry	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	hit	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	town	NN
+gap	 	
+word	hard	RB
+gap	.' 	
+word	New	JJ CAP
+gap	 	
+word	Towns	NN CAP
+gap	 	
+word	often	RB
+gap	 	
+word	incorporated	VBD
+gap	 	
+word	existing	PGAS
+gap	 	
+word	settlements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	; '	
+word	Basildon	CAP NNP
+gap	 	
+word	had	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	link	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	widely	RB
+gap	 	
+word	separated	
+gap	 	
+word	settlements	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	populations	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	absorb	INF
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	re	PIN NN PREP
+gap	-	
+word	house	NN
+gap	, 	
+word	those	DEMP DET
+gap	 	
+word	displaced	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	demolitions	NOMZ
+gap	' (	
+word	Nicholson	CAP NNP
+gap	, 1961). 	
+word	The	ART CAP DET
+gap	 	
+word	lives	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	original	JJ
+gap	 	
+word	populations	NOMZ
+gap	 	
+word	were	PASS VBD BYPA SPAU AUXB
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	affected	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	developments	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	sometimes	RB
+gap	 	
+word	led	VBD
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	problems	NN
+gap	 	
+word	integrating	GER WZPRES PGAS
+gap	 	
+word	old	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	new	JJ
+gap	 	
+word	residents	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	tensions	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	especially	RB
+gap	 	
+word	initially	RB TIME
+gap	. 	
+word	New	JJ CAP
+gap	 	
+word	towns	NN
+gap	 	
+word	achieved	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	aim	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	establishing	GER PRIV PGAS
+gap	 	
+word	new	JJ
+gap	 	
+word	settlements	NOMZ
+gap	, 	
+word	providing	PGAS
+gap	 	
+word	housing	NN
+gap	, 	
+word	jobs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	facilities	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	short	JJ
+gap	 	
+word	time	NN
+gap	, 	
+word	helping	PRESP PGAS
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	relieve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	pressure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	sprawl	NN
+gap	. 	
+word	Their	TPP3 CAP PRP SBJP
+gap	 	
+word	development	NOMZ
+gap	 	
+word	did	VBD EMPH
+gap	 	
+word	result	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	conflicts	NN
+gap	; 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	 	
+word	there	EX
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	objections	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	land	NN
+gap	 	
+word	designated	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	use	NN
+gap	, 	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	in	
+gap	 	
+word	Stevenage	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	land	
+gap	 	
+word	included	
+gap	 	
+word	some	
+gap	 	
+word	good	
+gap	 	
+word	quality	
+gap	 	
+word	farm	
+gap	 	
+word	land	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	currently	
+gap	 	
+word	resurgence	
+gap	 	
+word	in	
+gap	 	
+word	interest	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	potential	
+gap	 	
+word	of	
+gap	 	
+word	new	
+gap	 	
+word	towns	
+gap	 	
+word	for	
+gap	 	
+word	development	
+gap	 .	
+word	A	
+gap	 2004 	
+word	report	
+gap	 	
+word	commissioned	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	Government	
+gap	 	
+word	recommends	
+gap	 	
+word	that	
+gap	 '	
+word	the	
+gap	 	
+word	government	
+gap	 	
+word	promotes	
+gap	 	
+word	further	
+gap	 	
+word	expansion	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	existing	
+gap	 	
+word	new	
+gap	 	
+word	towns	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	meet	
+gap	 	
+word	its	
+gap	 	
+word	housing	
+gap	 	
+word	targets	
+gap	, 	
+word	particularly	
+gap	 	
+word	where	
+gap	 	
+word	new	
+gap	 	
+word	towns	
+gap	 	
+word	have	
+gap	 	
+word	not	
+gap	 	
+word	meet	
+gap	 	
+word	their	
+gap	 	
+word	critical	
+gap	 	
+word	mass	
+gap	.' (	
+word	Government	
+gap	 	
+word	Report	
+gap	, 2004) 	
+word	The	
+gap	 	
+word	new	
+gap	 	
+word	towns	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	role	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	 	
+word	for	
+gap	 	
+word	helping	
+gap	 	
+word	accommodate	
+gap	 	
+word	the	
+gap	 	
+word	growing	
+gap	 	
+word	population	
+gap	. 	
+word	Urban	
+gap	 	
+word	Regeneration	
+gap	 	
+word	Another	
+gap	 	
+word	measure	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	reduce	
+gap	 	
+word	the	
+gap	 	
+word	pressure	
+gap	 	
+word	on	
+gap	 	
+word	greenfield	
+gap	 	
+word	sites	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	urban	
+gap	 	
+word	fringe	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	encourage	
+gap	 	
+word	urban	
+gap	 	
+word	regeneration	
+gap	. 	
+word	The	
+gap	 	
+word	government	
+gap	 	
+word	currently	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	target	
+gap	 	
+word	of	
+gap	 	
+word	building	
+gap	 60% 	
+word	of	
+gap	 	
+word	new	
+gap	 	
+word	dwellings	
+gap	 	
+word	on	
+gap	 	
+word	previously	
+gap	 	
+word	developed	
+gap	 	
+word	land	
+gap	 (	
+word	Urban	
+gap	 	
+word	Task	
+gap	 	
+word	force	
+gap	, 1999) 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	encouraging	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	urban	
+gap	 	
+word	renaissance	
+gap	. 	
+word	This	
+gap	 	
+word	involves	
+gap	 	
+word	having	
+gap	 	
+word	high	
+gap	 	
+word	density	
+gap	 	
+word	cities	
+gap	 	
+word	which	
+gap	 	
+word	have	
+gap	 	
+word	mixed	
+gap	 	
+word	uses	
+gap	, 	
+word	good	
+gap	 	
+word	transport	
+gap	 	
+word	links	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	desirable	
+gap	 	
+word	places	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	: (	
+word	Urban	
+gap	 	
+word	Task	
+gap	 	
+word	Force	
+gap	, 1999) 	
+word	For	
+gap	 	
+word	those	
+gap	 	
+word	people	
+gap	 	
+word	that	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	cities	
+gap	, 	
+word	these	
+gap	 	
+word	would	
+gap	 	
+word	once	
+gap	 	
+word	again	
+gap	 	
+word	provide	
+gap	 	
+word	attractive	
+gap	 	
+word	places	
+gap	 	
+word	for	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	 	
+word	and	
+gap	 	
+word	work	
+gap	 	
+word	and	
+gap	 	
+word	reduce	
+gap	 	
+word	pressure	
+gap	 	
+word	for	
+gap	 	
+word	housing	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	urban	
+gap	 	
+word	fringes	
+gap	. 	
+word	Compact	
+gap	 	
+word	cities	
+gap	 	
+word	that	
+gap	 	
+word	have	
+gap	 	
+word	good	
+gap	 	
+word	public	
+gap	 	
+word	transport	
+gap	 	
+word	links	
+gap	 	
+word	would	
+gap	 	
+word	help	
+gap	 	
+word	reduce	
+gap	 	
+word	adverse	
+gap	 	
+word	environmental	
+gap	 	
+word	effects	
+gap	 	
+word	In	
+gap	 	
+word	the	
+gap	 1960'	
+word	s	
+gap	 	
+word	during	
+gap	 	
+word	a	
+gap	 	
+word	phase	
+gap	 	
+word	of	
+gap	 	
+word	urban	
+gap	 	
+word	renewal	
+gap	, 	
+word	slums	
+gap	 	
+word	were	
+gap	 	
+word	cleared	
+gap	 	
+word	and	
+gap	 	
+word	replaced	
+gap	 	
+word	with	
+gap	 	
+word	high	
+gap	 	
+word	density	
+gap	 	
+word	housing	
+gap	, 	
+word	namely	
+gap	 	
+word	tower	
+gap	 	
+word	blocks	
+gap	. 	
+word	Due	
+gap	 	
+word	to	
+gap	 	
+word	bad	
+gap	 	
+word	design	
+gap	 	
+word	and	
+gap	 	
+word	low	
+gap	 	
+word	structural	
+gap	 	
+word	quality	
+gap	 	
+word	inhabitants	
+gap	 	
+word	were	
+gap	 	
+word	rarely	
+gap	 	
+word	happy	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	schemes	
+gap	 	
+word	were	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	success	
+gap	. 	
+word	This	
+gap	 	
+word	demonstrates	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	key	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	making	
+gap	 	
+word	cities	
+gap	 	
+word	places	
+gap	 	
+word	where	
+gap	 	
+word	people	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	, 	
+word	especially	
+gap	 	
+word	where	
+gap	 	
+word	high	
+gap	 	
+word	densities	
+gap	 	
+word	are	
+gap	 	
+word	being	
+gap	 	
+word	encouraged	
+gap	 	
+word	is	
+gap	 	
+word	good	
+gap	 	
+word	quality	
+gap	 	
+word	design	
+gap	. 	
+word	Although	
+gap	 	
+word	city	
+gap	 	
+word	centre	
+gap	 	
+word	renewal	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	providing	
+gap	 	
+word	housing	
+gap	 	
+word	for	
+gap	 	
+word	many	
+gap	 	
+word	people	
+gap	, 	
+word	not	
+gap	 	
+word	everyone	
+gap	 	
+word	wants	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	 	
+word	in	
+gap	 	
+word	city	
+gap	 	
+word	centres	
+gap	; 	
+word	families	
+gap	 	
+word	often	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	move	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	suburbs	
+gap	, 	
+word	especially	
+gap	 	
+word	those	
+gap	 	
+word	with	
+gap	 	
+word	children	
+gap	, 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	close	
+gap	 	
+word	to	
+gap	 	
+word	countryside	
+gap	 	
+word	and	
+gap	 	
+word	have	
+gap	 	
+word	space	
+gap	 	
+word	for	
+gap	 	
+word	gardens	
+gap	 	
+word	etc	
+gap	. 	
+word	So	
+gap	 	
+word	no	
+gap	 	
+word	matter	
+gap	 	
+word	how	
+gap	 	
+word	successful	
+gap	 	
+word	the	
+gap	 	
+word	urban	
+gap	 	
+word	renaissance	
+gap	 	
+word	is	
+gap	, 	
+word	some	
+gap	 	
+word	people	
+gap	 	
+word	may	
+gap	 	
+word	always	
+gap	 	
+word	want	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	suburbs	
+gap	. 	
+word	Conclusion	
+gap	 	
+word	The	
+gap	 	
+word	problem	
+gap	 	
+word	of	
+gap	 	
+word	urban	
+gap	 	
+word	sprawl	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	ongoing	
+gap	 	
+word	one	
+gap	. 	
+word	Different	
+gap	 	
+word	measures	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	taken	
+gap	 	
+word	by	
+gap	 	
+word	planners	
+gap	 	
+word	both	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	local	
+gap	 	
+word	and	
+gap	 	
+word	national	
+gap	 	
+word	level	
+gap	. 	
+word	They	
+gap	 	
+word	have	
+gap	 	
+word	had	
+gap	 	
+word	a	
+gap	 	
+word	varying	
+gap	 	
+word	degree	
+gap	 	
+word	of	
+gap	 	
+word	success	
+gap	; 	
+word	whilst	
+gap	 	
+word	they	
+gap	 	
+word	may	
+gap	 	
+word	reduce	
+gap	 	
+word	urban	
+gap	 	
+word	sprawl	
+gap	, 	
+word	all	
+gap	 	
+word	schemes	
+gap	 	
+word	have	
+gap	 	
+word	costs	
+gap	 	
+word	and	
+gap	 	
+word	benefits	
+gap	 	
+word	to	
+gap	 	
+word	different	
+gap	 	
+word	sectors	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	population	
+gap	, 	
+word	the	
+gap	 	
+word	environment	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	economy	
+gap	. 	
+word	The	
+gap	 	
+word	continuing	
+gap	 	
+word	growth	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	population	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	demand	
+gap	 	
+word	for	
+gap	 	
+word	affordable	
+gap	 	
+word	housing	
+gap	 	
+word	means	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	issue	
+gap	 	
+word	that	
+gap	 	
+word	faces	
+gap	 	
+word	planners	
+gap	 	
+word	both	
+gap	 	
+word	currently	
+gap	 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	. 	
+word	As	
+gap	 	
+word	stated	
+gap	 	
+word	by	
+gap	 	
+word	Martin	
+gap	 	
+word	Wolf	
+gap	 '	
+word	we	
+gap	 	
+word	cannot	
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rising	PGAS
+gap	 	
+word	population	NOMZ
+gap	, 	
+word	spacious	JJ
+gap	 	
+word	housing	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	household	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unchanged	JJ
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	un	JJ
+gap	-	
+word	developed	JJ
+gap	 	
+word	countryside	NN
+gap	.' (	
+word	Cited	PASTP CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Barker	CAP NNP
+gap	, 2004)	

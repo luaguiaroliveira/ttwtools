@@ -1,541 +1,969 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0994.0576.txt
-token	tags
-        	
-According	CAP PGAS
-to	PIN PREP
-the	ART DET
-Tufts	CAP NNP
-Center	CAP NNP
-for	PIN PREP
-the	ART DET
-Study	CAP NNP
-of	PIN PREP
-Drug	CAP NNP
-Development	CAP NNP
-it	PIT PRP SBJP
-takes	VPRT
-approximately	RB
-10	NUM
-to	PIN PREP
-15	NUM
-years	NN
-to	PIN TO PREP
-produce	INF
-a	ART DET INDA
-new	JJ
-drug	NN
-based	WZPAST
-on	PIN PREP
-data	NN
-collected	WZPAST
-from	PIN PREP
-1994	NUM
-to	PIN PREP
-1998	NUM
-.	
-Besides	PIN CAP SCONJ PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-Medicines	CAP NNP
-in	PIN CONJ PREP
-Development	CAP NNP
-for	PIN PREP
-Skin	CAP NNP
-Diseases	CAP NNP
-2011	NUM
-Report	PUBV CAP NNP
-,	
-PhRMS	CAP NNP
-(	
-Pharmaceutical	CAP NNP
-and	PHC CCONJ
-Manufactures	CAP NNP
-of	PIN PREP
-America	CAP NNP
-)	
-affirmed	VBD PUBV
-that	PIN THVC SCONJ PREP
-only	DWNT RB
-5	NUM
-of	PIN PREP
-5000	NUM
-compounds	NN
-that	TSUB WHSUB WH
-enter	VPRT
-the	ART DET
-preclinical	JJ
-evaluation	NOMZ
-can	POMD
-be	PASS AUXB INF
-tested	
-in	PIN CONJ PREP
-humans	NN
-.	
-Based	PASTP CAP
-on	PIN PREP
-this	DEMO DET
-context	NN
-this	DEMO DET
-essay	NN
-will	PRMD
-explain	PUBV INF
-the	ART DET
-main	JJ
-points	NN
-in	PIN CONJ PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-a	ART DET INDA
-new	JJ
-medicine	NN
-,	
-highlighting	GER PRESP PGAS
-the	ART DET
-reasons	PRIV NN
-why	RB WHOBJ WHCL SCONJ WH
-it	PIT PRP SBJP
-takes	VPRT
-a	ART DET INDA
-long	JJ
-time	NN
-to	PIN TO PREP
-introduce	INF
-a	ART DET INDA
-new	JJ
-product	NN
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-.	
- 	
-Firstly	RB CAP
-,	
-all	QUAN DET
-kind	NN HDG
-of	PIN PREP
-medication	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-released	
-to	PIN PREP
-the	ART DET
-common	JJ
-use	NN
-have	VPRT
-to	PIN TO PREP
-pass	INF
-through	PIN PREP
-a	ART DET INDA
-series	NN
-of	PIN PREP
-researches	NN
-and	PHC CCONJ
-tests	NN
-until	PIN PREP
-it	PIT PRP SBJP
-is	PASS VPRT BYPA AUXB
-approved	
-by	PIN PREP
-the	ART DET
-competent	JJ
-organ	NN
-of	PIN PREP
-the	ART DET
-country	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-Anvisa	CAP NNP
-(	
-Agência	CAP NNP
-Nacional	CAP NNP
-de	PIN PREP
-Vigilância	CAP NNP
-Sanitária	CAP NNP
-)	
-is	BEMA VPRT AUXB
-the	ART DET
-competent	JJ
-organ	NN
-from	PIN PREP
-Brazil	CAP NNP
-.	
-The	ART CAP DET
-regulation	NOMZ
-process	NN
-of	PIN PREP
-one	NUM
-medication	NOMZ
-is	BEMA VPRT AUXB
-long	JJ PRED
-,	
-strict	JJ
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-really	RB EMPH
-expensive	JJ
-for	PIN PREP
-the	ART DET
-pharmaceutical	NN
-industry	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-that	DEMO DET
-every	QUAN DET
-new	JJ
-compound	NN
-have	VPRT
-to	PIN TO PREP
-be	AUXB INF
-study	INF
-before	RB
-and	CCONJ
-after	PIN PREP
-it	PIT PRP SBJP
-is	PASS VPRT BYPA AUXB
-used	
-by	PIN PREP
-people	NN
-to	PIN TO PREP
-make	INF
-sure	JJ
-that	PIN THAC SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-n’t	RB
-injurious	JJ
-.	
-This	DEMO CAP DET
-kind	NN HDG
-of	PIN PREP
-research	NN
-is	PASS VPRT AUXB
-called	
-clinical	JJ
-trial	NN
-.	
-  	
-Before	PIN CAP PREP
-the	ART DET
-clinical	JJ
-trial	NN
-,	
-have	VPRT
-the	ART DET
-preclinical	JJ
-stage	NN
-which	WHSUB DET WH
-aims	VPRT
-to	PIN TO PREP
-verify	INF
-if	COND PIN SCONJ PREP
-the	ART DET
-compound	NN
-is	BEMA VPRT AUXB
-efficient	JJ PRED
-and	PHC CCONJ
-safe	JJ PRED
-for	PIN PREP
-consumption	NOMZ
-.	
-Usually	RB CAP
-,	
-this	DEMO DET
-part	NN
-of	PIN PREP
-the	ART DET
-process	NN
-is	PASS VPRT AUXB
-performed	
-first	RB
-in	PIN CONJ PREP
-vitro	X
-(	
-without	PIN PREP
-using	PGAS
-animals	NN
-)	
-and	ANDC CCONJ
-then	RB
-in	PIN CONJ PREP
-vivo	NN
-(	
-using	PGAS
-animals	NN
-)	
-.	
-This	DEMP CAP DET
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-important	JJ
-stage	NN
-in	PIN CONJ PREP
-the	ART DET
-preclinical	JJ
-evaluation	NOMZ
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-analyze	INF
-the	ART DET
-activity	NOMZ
-of	PIN PREP
-a	ART DET INDA
-drug	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-life	NN
-form	NN
-and	CCONJ
-select	INF
-the	ART DET
-components	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-continue	INF
-in	PIN CONJ PREP
-this	DEMO DET
-process	NN
-to	PIN PREP
-the	ART DET
-clinical	JJ
-research	NN
-.	
-  	
-The	ART CAP DET
-clinical	JJ
-study	NN
-involves	VPRT
-3	NUM
-stages	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-systematic	JJ
-process	NN
-that	TSUB WHSUB WH
-follows	VPRT
-scientific	JJ
-methods	NN
-that	TSUB WHSUB WH
-can	POMD
-be	PASS AUXB INF
-applied	
-to	PIN PREP
-humans	NN
-that	TSUB WHSUB WH
-volunteer	VPRT
-to	PIN TO PREP
-participate	INF
-.	
-In	PIN CONJ CAP PREP
-Phase	CAP NNP
-I	FPP1 CAP PRP SBJP
-the	ART DET
-drug	NN
-is	PASS VPRT AUXB
-tested	
-for	PIN PREP
-the	ART DET
-first	JJ
-time	NN
-in	PIN CONJ PREP
-healthy	JJ
-humans	NN
-and	CCONJ
-the	ART DET
-main	JJ
-goal	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-determinate	INF
-the	ART DET
-best	JJ SPADJ
-form	NN
-to	PIN TO PREP
-administrate	INF
-the	ART DET
-compound	NN
-and	ANDC CCONJ
-what	DET WH
-undesirable	JJ
-effect	NN
-that	PIN TOBJ SCONJ PREP
-it	PIT PRP SBJP
-can	POMD
-cause	INF
-.	
-Only	DWNT RB CAP
-this	DEMO DET
-stage	NN
-can	POMD
-last	INF
-3	NUM
-years	NN
-.	
-On	PIN CAP PREP
-Phase	CAP NNP
-II	CAP NNP
-the	ART DET
-medication	NOMZ
-is	PASS VPRT AUXB
-tested	
-in	PIN CONJ PREP
-patients	NN
-that	TSUB WHSUB WH
-have	VPRT
-the	ART DET
-disease	NN
-related	WZPAST
-to	PIN PREP
-the	ART DET
-study	NN
-.	
-The	ART CAP DET
-purpose	NN
-is	VPRT AUXB
-establish	PRIV INF
-a	ART DET INDA
-dose	NN
-,	
-obtain	INF
-more	JJ EMPH CMADJ
-information	NOMZ
-about	PIN PREP
-the	ART DET
-effects	NN
-that	TOBJ WHOBJ WH
-it	PIT PRP SBJP
-can	POMD
-cause	INF
-and	PHC CCONJ
-evaluate	INF
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-really	RB EMPH
-works	VPRT
-to	PIN TO PREP
-treat	INF
-the	ART DET
-disease	NN
-.	
-This	DEMO CAP DET
-stage	NN
-can	POMD SPAU
-also	RB
-last	INF
-3	NUM
-years	NN
-.	
-The	ART CAP DET
-last	JJ
-phase	NN
-,	
-Phase	CAP NNP
-III	CAP NNP
-,	
-evaluate	INF
-the	ART DET
-efficacy	NN
-again	RB TIME
-but	CCONJ
-this	DEMO DET
-time	NN
-comparing	WZPRES PGAS
-the	ART DET
-new	JJ
-drug	NN
-to	PIN PREP
-the	ART DET
-one	NN
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-already	RB
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-and	CCONJ
-is	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-treat	INF
-the	ART DET
-disease	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-can	POMD
-last	INF
-approximately	RB
-4	NUM
-years	NN
-.	
-  	
-All	QUAN CAP DET
-things	NN
-considered	PRIV
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-easier	JJ PRED CMADJ
-to	PIN TO PREP
-understand	PRIV INF
-why	RB WHCL SCONJ WH
-it	PIT PRP SBJP
-takes	VPRT
-a	ART DET INDA
-long	JJ
-time	NN
-to	PIN TO PREP
-introduce	INF
-a	ART DET INDA
-new	JJ
-product	NN
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-.	
-Besides	PIN CAP SCONJ PREP
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-remember	PRIV INF
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-product	NN
-is	PASS VPRT AUXB
-being	PASS AUXB
-created	
-to	PIN TO PREP
-treat	INF
-a	ART DET INDA
-disease	NN
-so	PIN SCONJ PREP
-scientist	NN
-have	VPRT
-to	PIN TO PREP
-make	INF
-sure	JJ
-is	BEMA VPRT AUXB
-safe	JJ PRED
-for	PIN PREP
-consumption	NOMZ
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-works	VPRT
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0994.0576>\n\n      	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Tufts	CAP NNP
+gap	 	
+word	Center	CAP NNP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Study	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Drug	CAP NNP
+gap	 	
+word	Development	CAP NNP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	takes	VPRT
+gap	 	
+word	approximately	RB
+gap	 10 	
+word	to	PIN PREP
+gap	 15 	
+word	years	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	drug	NN
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	data	NN
+gap	 	
+word	collected	WZPAST
+gap	 	
+word	from	PIN PREP
+gap	 1994 	
+word	to	PIN PREP
+gap	 1998. 	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Medicines	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Development	CAP NNP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	Skin	CAP NNP
+gap	 	
+word	Diseases	CAP NNP
+gap	 2011 	
+word	Report	PUBV CAP NNP
+gap	, 	
+word	PhRMS	CAP NNP
+gap	 (	
+word	Pharmaceutical	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Manufactures	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	America	CAP NNP
+gap	) 	
+word	affirmed	VBD PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	only	DWNT RB
+gap	 5 	
+word	of	PIN PREP
+gap	 5000 	
+word	compounds	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	enter	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	preclinical	JJ
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	tested	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	humans	NN
+gap	. 	
+word	Based	PASTP CAP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	points	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	production	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	medicine	NN
+gap	, 	
+word	highlighting	GER PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	why	RB WHOBJ WHCL SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	takes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	introduce	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	product	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	.\n	
+word	Firstly	RB CAP
+gap	, 	
+word	all	QUAN DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	released	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	common	JJ
+gap	 	
+word	use	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	pass	INF
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	series	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	researches	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	tests	NN
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	approved	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	competent	JJ
+gap	 	
+word	organ	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	country	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	Anvisa	CAP NNP
+gap	 (	
+word	Agência	
+gap	 	
+word	Nacional	
+gap	 	
+word	de	
+gap	 	
+word	Vigilância	
+gap	 	
+word	Sanitária	
+gap	) 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	competent	
+gap	 	
+word	organ	
+gap	 	
+word	from	
+gap	 	
+word	Brazil	
+gap	. 	
+word	The	
+gap	 	
+word	regulation	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	one	
+gap	 	
+word	medication	
+gap	 	
+word	is	
+gap	 	
+word	long	
+gap	, 	
+word	strict	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	really	
+gap	 	
+word	expensive	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	pharmaceutical	
+gap	 	
+word	industry	
+gap	. 	
+word	Because	
+gap	 	
+word	of	
+gap	 	
+word	that	
+gap	 	
+word	every	
+gap	 	
+word	new	
+gap	 	
+word	compound	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	study	
+gap	 	
+word	before	
+gap	 	
+word	and	
+gap	 	
+word	after	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	by	
+gap	 	
+word	people	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	sure	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	aren	
+gap	’	
+word	t	
+gap	 	
+word	injurious	
+gap	. 	
+word	This	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	called	
+gap	 	
+word	clinical	
+gap	 	
+word	trial	
+gap	.\n\t	
+word	Before	
+gap	 	
+word	the	
+gap	 	
+word	clinical	
+gap	 	
+word	trial	
+gap	, 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	preclinical	
+gap	 	
+word	stage	
+gap	 	
+word	which	
+gap	 	
+word	aims	
+gap	 	
+word	to	
+gap	 	
+word	verify	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	compound	
+gap	 	
+word	is	
+gap	 	
+word	efficient	
+gap	 	
+word	and	
+gap	 	
+word	safe	
+gap	 	
+word	for	
+gap	 	
+word	consumption	
+gap	. 	
+word	Usually	
+gap	, 	
+word	this	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	performed	
+gap	 	
+word	first	
+gap	 	
+word	in	
+gap	 	
+word	vitro	
+gap	 (	
+word	without	
+gap	 	
+word	using	
+gap	 	
+word	animals	
+gap	) 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	in	
+gap	 	
+word	vivo	
+gap	 (	
+word	using	
+gap	 	
+word	animals	
+gap	). 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	important	
+gap	 	
+word	stage	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	preclinical	
+gap	 	
+word	evaluation	
+gap	 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	analyze	
+gap	 	
+word	the	
+gap	 	
+word	activity	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	drug	
+gap	 	
+word	in	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	life	
+gap	 	
+word	form	
+gap	 	
+word	and	
+gap	 	
+word	select	
+gap	 	
+word	the	
+gap	 	
+word	components	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	going	
+gap	 	
+word	to	
+gap	 	
+word	continue	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	process	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	clinical	
+gap	 	
+word	research	
+gap	.\n\t	
+word	The	ART DET
+gap	 	
+word	clinical	JJ
+gap	 	
+word	study	
+gap	 	
+word	involves	
+gap	 3 	
+word	stages	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	systematic	
+gap	 	
+word	process	
+gap	 	
+word	that	
+gap	 	
+word	follows	
+gap	 	
+word	scientific	
+gap	 	
+word	methods	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	applied	
+gap	 	
+word	to	
+gap	 	
+word	humans	
+gap	 	
+word	that	
+gap	 	
+word	volunteer	
+gap	 	
+word	to	
+gap	 	
+word	participate	
+gap	. 	
+word	In	
+gap	 	
+word	Phase	
+gap	 	
+word	I	
+gap	 	
+word	the	
+gap	 	
+word	drug	
+gap	 	
+word	is	
+gap	 	
+word	tested	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	time	
+gap	 	
+word	in	
+gap	 	
+word	healthy	
+gap	 	
+word	humans	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	main	
+gap	 	
+word	goal	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	determinate	
+gap	 	
+word	the	
+gap	 	
+word	best	
+gap	 	
+word	form	
+gap	 	
+word	to	
+gap	 	
+word	administrate	
+gap	 	
+word	the	
+gap	 	
+word	compound	
+gap	 	
+word	and	
+gap	 	
+word	what	
+gap	 	
+word	undesirable	
+gap	 	
+word	effect	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	cause	
+gap	. 	
+word	Only	
+gap	 	
+word	this	
+gap	 	
+word	stage	
+gap	 	
+word	can	
+gap	 	
+word	last	
+gap	 3 	
+word	years	
+gap	. 	
+word	On	
+gap	 	
+word	Phase	
+gap	 	
+word	II	
+gap	 	
+word	the	
+gap	 	
+word	medication	
+gap	 	
+word	is	
+gap	 	
+word	tested	
+gap	 	
+word	in	
+gap	 	
+word	patients	
+gap	 	
+word	that	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	disease	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	study	
+gap	. 	
+word	The	
+gap	 	
+word	purpose	
+gap	 	
+word	is	
+gap	 	
+word	establish	
+gap	 	
+word	a	
+gap	 	
+word	dose	
+gap	, 	
+word	obtain	
+gap	 	
+word	more	
+gap	 	
+word	information	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	effects	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	cause	
+gap	 	
+word	and	
+gap	 	
+word	evaluate	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	really	
+gap	 	
+word	works	
+gap	 	
+word	to	
+gap	 	
+word	treat	
+gap	 	
+word	the	
+gap	 	
+word	disease	
+gap	. 	
+word	This	
+gap	 	
+word	stage	
+gap	 	
+word	can	
+gap	 	
+word	also	
+gap	 	
+word	last	
+gap	 3 	
+word	years	
+gap	. 	
+word	The	
+gap	 	
+word	last	INF
+gap	 	
+word	phase	
+gap	, 	
+word	Phase	
+gap	 	
+word	III	
+gap	, 	
+word	evaluate	
+gap	 	
+word	the	
+gap	 	
+word	efficacy	
+gap	 	
+word	again	
+gap	 	
+word	but	
+gap	 	
+word	this	
+gap	 	
+word	time	
+gap	 	
+word	comparing	
+gap	 	
+word	the	
+gap	 	
+word	new	
+gap	 	
+word	drug	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	one	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	already	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	market	
+gap	 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	treat	
+gap	 	
+word	the	
+gap	 	
+word	disease	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	last	
+gap	 	
+word	approximately	
+gap	 4 	
+word	years	
+gap	.\n\t	
+word	All	
+gap	 	
+word	things	
+gap	 	
+word	considered	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	easier	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	why	
+gap	 	
+word	it	
+gap	 	
+word	takes	
+gap	 	
+word	a	
+gap	 	
+word	long	
+gap	 	
+word	time	
+gap	 	
+word	to	
+gap	 	
+word	introduce	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	product	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	market	
+gap	. 	
+word	Besides	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	remember	
+gap	 	
+word	that	
+gap	 	
+word	this	
+gap	 	
+word	product	
+gap	 	
+word	is	
+gap	 	
+word	being	
+gap	 	
+word	created	
+gap	 	
+word	to	
+gap	 	
+word	treat	
+gap	 	
+word	a	
+gap	 	
+word	disease	
+gap	 	
+word	so	
+gap	 	
+word	scientist	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	sure	
+gap	 	
+word	is	
+gap	 	
+word	safe	
+gap	 	
+word	for	
+gap	 	
+word	consumption	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	works	
+gap	.\n	

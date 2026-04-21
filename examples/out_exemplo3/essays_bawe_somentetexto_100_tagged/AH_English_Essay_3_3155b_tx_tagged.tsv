@@ -1,750 +1,1324 @@
 # filename: AH_English_Essay_3_3155b_tx.txt
-token	tags
-The	ART CAP DET
-first	JJ
-low	JJ
-cost	NN
-airlines	NN
-appeared	VBD SMP
-at	PIN PREP
-the	ART DET
-beginning	NN
-of	PIN PREP
-the	ART DET
-1990	NUM
-'s	
-in	PIN CONJ PREP
-the	ART DET
-United	CAP NNP
--	
-States	PUBV CAP NNP
-.	
-The	ART CAP DET
-idea	NN
-was	BEMA VBD AUXB
-really	RB EMPH
-successful	JJ
-and	ANDC CCONJ
-it	PIT PRP SBJP
-quickly	RB
-spread	VPRT
-all	QUAN RB
-over	PIN PREP
-the	ART DET
-world	NN
-.	
-As	PIN CONJ CAP PREP
-the	ART DET
-number	NN
-of	PIN PREP
-these	DEMO DET
-companies	NN
-grew	VBD
-,	
-prices	NN
-went	VBD
-down	PIN PREP
-and	CCONJ
-flying	PGAS
-became	VBD
-a	ART DET INDA
-cheap	JJ
-and	PHC CCONJ
-easy	JJ
-way	NN
-of	PIN PREP
-travel	NN
-.	
-But	CAP CCONJ
-nowadays	RB TIME
-,	
-no	DET
--	
-one	NN
-can	POMD
-say	PUBV THATD INF
-they	TPP3 PRP SBJP
-have	VPRT PEAS SPAU
-never	RB
-heard	PRIV
-about	PIN PREP
-global	JJ
-warming	NN
-,	
-which	SERE WHQU DET WH
-has	VPRT PEAS
-affected	
-it	PIT PRP SBJP
-.	
-Advertising	GER CAP
-campaigns	NN
-spur	VPRT
-us	FPP1 PRP SBJP ACCU
-on	PIN PREP
-to	PIN TO PREP
-switch	INF
-off	PIN PREP
-the	ART DET
-lights	NN
-,	
-not	XX0 RB
-to	PIN TO PREP
-leave	INF
-the	ART DET
-appliances	NN
-on	PIN PREP
-standby	NN
-or	CCONJ
-to	PIN TO PREP
-avoid	INF
-taking	PGAS
-our	FPP1 PRP SBJP
-cars	NN
-.	
-However	RB CONJ CAP
-,	
-really	RB EMPH
-few	QUAN JJ
-of	PIN PREP
-these	DEMO DET
-campaigns	NN
-regard	VPRT
-flying	PGAS
-pollution	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-major	JJ
-contributor	NN
-.	
-Nevertheless	RB CONJ CAP
-,	
-the	ART DET
-three	NUM
-articles	NN
-provide	VPRT
-us	FPP1 PRP SBJP ACCU
-with	PIN PREP
-frightening	JJ
-information	NOMZ
-about	PIN PREP
-the	ART DET
-effects	NN
-of	PIN PREP
-flying	PGAS
-on	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-Given	CAP
-the	ART DET
-boom	NN
-in	PIN CONJ PREP
-the	ART DET
-number	NN
-of	PIN PREP
-low	JJ
--	
-cost	NN
-companies	NN
-and	CCONJ
-the	ART DET
-multiplication	NOMZ
-of	PIN PREP
-the	ART DET
-numbers	NN
-of	PIN PREP
-flights	NN
-,	
-flying	NN
-has	VPRT PEAS
-become	
-a	ART DET INDA
-source	NN
-of	PIN PREP
-worry	NN
-.	
-We	FPP1 CAP PRP SBJP
-will	PRMD
-in	PIN CONJ PREP
-the	ART DET
-first	JJ
-part	NN
-describe	VPRT
-what	WH
-problems	NN
-are	PASS VPRT BYPA AUXB
-faced	
-by	PIN PREP
-the	ART DET
-airline	NN
-carriers	NN
-,	
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-will	PRMD
-in	PIN CONJ PREP
-the	ART DET
-second	JJ
-paragraph	NN
-see	PRIV INF
-the	ART DET
-proposed	SUAV
-solutions	NOMZ
-and	CCONJ
-discuss	INF
-them	TPP3 PRP SBJP ACCU
-.	
-Finally	RB CAP
-,	
-we	FPP1 PRP SBJP
-will	PRMD
-try	INF
-to	PIN TO PREP
-propose	SUAV INF
-our	FPP1 PRP SBJP
-own	JJ
-solutions	NOMZ
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-will	PRMD
-conclude	PRIV INF
-.	
-The	ART CAP DET
-problem	NN
-is	BEMA VPRT AUXB
-really	RB EMPH
-clear	JJ
-and	CCONJ
-is	PASS VPRT SPAU AUXB
-effectively	RB
-summed	
-up	PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-part	NN
-called	VBD
-'	CONT QUOT
-The	ART CAP DET
-facts	NN
-about	PIN PREP
-flying	PGAS
-'	CONT QUOT
-in	PIN CONJ PREP
-the	ART DET
-article	NN
-published	WZPAST
-by	PIN PREP
-The	ART CAP DET
-Independent	CAP NNP
-:	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-gasses	NN
-emitted	WZPAST
-at	PIN PREP
-altitude	NN
-have	VPRT
-2.7	NUM
-times	NN
-the	ART DET
-environmental	JJ
-impact	NN
-of	PIN PREP
-those	DEMO DET
-on	PIN PREP
-the	ART DET
-ground	NN
-,	
-flying	PGAS
-pollutes	NN
-much	QUAN RB
-more	JJ EMPH CMADJ
-than	PIN PREP
-any	QUAN DET
-other	JJ
-way	NN
-of	PIN PREP
-traveling	PGAS
-,	
-and	ANDC CCONJ
-proportionally	RB
-much	QUAN RB
-more	JJ EMPH CMADJ
-for	PIN PREP
-short	JJ
--	
-distance	NN
-travels	NN
-and	CCONJ
-,	
-even	RB
-if	COND PIN SCONJ PREP
-today	TIME NN
-the	ART DET
-pollution	NOMZ
-caused	WZPAST
-by	PIN PREP
-flights	NN
-is	VPRT AUXB
-not	XX0 RB
-that	RB DEMO
-important	JJ
-(	
-3	NUM
-of	PIN PREP
-total	JJ
-man	NN
--	
-made	
-emissions	NOMZ
-worldwide	RB
-according	PGAS
-to	PIN PREP
-the	ART DET
-Economist	CAP NNP
-)	
-,	
-it	PIT PRP SBJP
-could	POMD
-become	INF
-in	PIN CONJ PREP
-the	ART DET
-next	JJ
-few	QUAN JJ
-years	NN
-the	ART DET
-major	JJ
-source	NN
-of	PIN PREP
-worries	NN
-if	COND PIN SCONJ PREP
-unchecked	JJ
-given	
-that	PIN DEMO SCONJ PREP
-the	ART DET
-number	NN
-of	PIN PREP
-flights	NN
-is	VPRT AUXB
-soaring	PGAS
-(	
-plus	PIN CCONJ PREP
-4.25	NUM
-a	ART DET INDA
-year	NN
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
-)	
-.	
-However	RB CONJ CAP
-low	JJ
-cost	NN
-companies	NN
-base	VPRT
-their	TPP3 PRP SBJP
-business	NOMZ
-mainly	RB
-on	PIN PREP
-short	JJ
--	
-distance	NN
-flights	NN
-.	
-They	TPP3 CAP PRP SBJP
-are	PASS VPRT SPAU AUXB
-thus	RB CONJ
-faced	
-with	PIN PREP
-a	ART DET INDA
-dilemma	NN
-:	
-on	PIN PREP
-the	ART DET
-first	JJ
-hand	NN
-,	
-continue	INF
-their	TPP3 PRP SBJP
-successful	JJ
-business	NOMZ
-like	PIN PREP
-that	DEMP DET
-based	
-on	PIN PREP
-short	JJ
--	
-haul	NN
-flights	NN
-or	CCONJ
-,	
-on	PIN PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-reduce	INF
-their	TPP3 PRP SBJP
-business	NOMZ
-,	
-or	CCONJ
-even	RB
-change	INF
-it	PIT PRP SBJP
-totally	AMP RB
-,	
-in	PIN CONJ PREP
-the	ART DET
-respect	NN
-of	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-Many	QUAN JJ CAP
-solutions	NOMZ
-are	PASS VPRT AUXB
-proposed	SUAV
-in	PIN CONJ PREP
-these	DEMO DET
-articles	NN
-.	
-The	ART CAP DET
-first	JJ
-one	PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-simply	RB
-to	PIN TO PREP
-reduce	INF
-the	ART DET
-number	NN
-of	PIN PREP
-flights	NN
-.	
-Some	QUAN CAP DET
-propositions	NOMZ
-are	PASS VPRT SPAU AUXB
-then	RB
-put	
-forward	RB
-:	
-to	PIN TO PREP
-develop	INF
-public	JJ
-transport	NN
-and	CCONJ
-improve	INF
-car	NN
-efficiency	NN
-(	
-but	CCONJ
-it	PIT PRP SBJP
-would	PRMD SPAU
-not	XX0 RB
-work	INF
-for	PIN PREP
-long	JJ
-hauls	NN
-)	
-,	
-increase	INF
-ticket	NN
-prices	NN
-mainly	RB
-by	PIN PREP
-adding	PUBV PGAS
-taxes	NN
-such	JJ
-as	PIN CONJ PREP
-carbon	NN
--	
-offsetting	GER PGAS
-(	
-when	RB WHQU SCONJ WH
-you	SPP2 PRP SBJP
-have	VPRT
-to	PIN TO PREP
-pay	INF
-a	ART DET INDA
-little	JJ
-fee	NN
-that	TSUB WHSUB WH
-will	PRMD
-finance	INF
-tree	NN
--	
-planting	NN
-or	CCONJ
-energy	NN
-saving	NN
-schemes	NN
-)	
-,	
-nevertheless	RB CONJ
-this	DEMO DET
-argument	NOMZ
-is	PASS VPRT AUXB
-contested	
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-would	PRMD
-mean	PRIV INF
-in	PIN CONJ PREP
-that	DEMO DET
-case	NN
-flying	WZPRES PGAS
-would	PRMD SPAU
-only	DWNT RB
-be	BEMA AUXB INF
-for	PIN PREP
-well	NN
--	
-offs	NN
-.	
-Even	RB CAP
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-said	PUBV
-in	PIN CONJ PREP
-those	DEMO DET
-articles	NN
-,	
-we	FPP1 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-forget	PRIV THATD INF
-that	PIN DEMP SCONJ PREP
-reducing	PGAS
-the	ART DET
-number	NN
-of	PIN PREP
-flights	NN
-would	PRMD SPAU
-also	RB
-reduce	INF
-the	ART DET
-number	NN
-of	PIN PREP
-people	NN
-who	WHSUB WH
-live	VPRT
-thanks	NN
-to	PIN PREP
-the	ART DET
-flights	NN
-,	
-especially	RB
-all	QUAN DET
-the	ART DET
-people	NN
-of	PIN PREP
-the	ART DET
-tourism	NN
-industry	NN
-.	
-Other	JJ CAP
-solutions	NOMZ
-that	TSUB WHSUB WH
-would	PRMD
-reduce	INF
-aircraft	NN
-pollution	NOMZ
-without	PIN PREP
-directly	RB
-cutting	PGAS
-the	ART DET
-number	NN
-of	PIN PREP
-flights	NN
-are	PASS VPRT SPAU AUXB
-also	RB
-proposed	SUAV
-:	
-to	PIN TO PREP
-create	INF
-CO	CAP NNP
-2	NUM
-caps	NN
-and	PHC CCONJ
-carbon	NN
--	
-trading	NN
-,	
-to	PIN TO PREP
-avoid	INF
-crowded	JJ
-airports	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-avoid	INF
-planes	NN
-having	WZPRES PGAS
-to	PIN TO PREP
-circle	INF
-wastefully	RB
-(	
-and	ANDC CCONJ
-also	RB
-usually	RB
-carrying	PGAS
-extra	JJ
-fuel	NN
-in	PIN CONJ PREP
-case	NN
-they	TPP3 PRP SBJP
-will	PRMD
-have	INF
-to	PIN TO PREP
-wait	INF
-before	PIN PREP
-landing	NN
-,	
-hence	RB CONJ
-heavier	JJ CMADJ
-planes	NN
-and	ANDC CCONJ
-thus	RB CONJ
-more	JJ EMPH CMADJ
-pollution	NOMZ
-)	
-,	
-or	CCONJ
-to	PIN TO PREP
-make	INF
-aircrafts	NN
-be	PASS BYPA AUXB INF
-towed	
-by	PIN PREP
-electric	JJ
-vehicles	NN
-once	RB TIME
-on	PIN PREP
-the	ART DET
-ground	NN
-.	
-However	RB CONJ CAP
-,	
-those	DEMO DET
-solutions	NOMZ
-do	VPRT PROD SPAU
-not	XX0 RB
-really	RB EMPH
-look	INF
-efficient	JJ
-compared	
-with	PIN PREP
-the	ART DET
-urgency	NN
-of	PIN PREP
-the	ART DET
-problem	NN
-.	
-We	FPP1 CAP PRP SBJP
-have	VPRT
-to	PIN TO PREP
-tackle	INF
-global	JJ
-warming	NN
-before	PIN PREP
-it	PIT PRP SBJP
-becomes	VPRT
-too	RB
-late	JJ TIME
-,	
-so	CCONJ
-therefore	RB CONJ
-we	FPP1 PRP SBJP
-have	VPRT
-to	PIN TO PREP
-do	PROD INF
-something	QUPR INPR
-about	PIN PREP
-flying	PGAS
-pollution	NOMZ
-.	
-There	EX CAP
-are	VPRT AUXB
-many	QUAN JJ
-solutions	NOMZ
-proposed	SUAV WZPAST
-in	PIN CONJ PREP
-these	DEMO DET
-articles	NN
-but	CCONJ
-we	FPP1 PRP SBJP
-also	RB
-forget	VPRT PRIV
-the	ART DET
-passenger	NN
-,	
-who	WHQU WH
-is	VPRT AUXB
-himself	TPP3 PRP SBJP ACCU
-directly	RB
-responsible	JJ
-for	PIN PREP
-the	ART DET
-pollution	NOMZ
-,	
-so	RB
-why	RB WHQU SCONJ WH
-do	VPRT
-n't	XX0 CONT RB
-we	FPP1 PRP SBJP
-just	RB EMPH
-try	INF
-to	PIN TO PREP
-inform	INF
-him	TPP3 PRP SBJP ACCU
-of	PIN PREP
-the	ART DET
-consequences	NN
-of	PIN PREP
-the	ART DET
-flights	NN
-on	PIN PREP
-the	ART DET
-environment	NOMZ
-?	QUES
-Since	OSUB PIN CAP SCONJ PREP
-that	DEMO DET
-kind	NN HDG
-of	PIN PREP
-campaign	NN
-has	VPRT PEAS SPAU
-already	RB
-been	PASS AUXB
-done	EMPH
-concerning	GER PGAS
-cars	NN
-,	
-why	RB SCONJ WH
-not	XX0 RB
-about	PIN PREP
-planes	NN
-?	QUES
-But	CAP CCONJ
-in	PIN CONJ PREP
-any	QUAN DET
-case	NN
-,	
-if	COND PIN SCONJ PREP
-nothing	INPR
-is	PASS VPRT AUXB
-done	PROD
-to	PIN TO PREP
-prevent	INF
-global	JJ
-warming	NN
-,	
-global	JJ
-warming	NN
-will	PRMD
-prevent	INF
-us	FPP1 PRP SBJP ACCU
-from	PIN PREP
-flying	PGAS
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	low	JJ
+gap	 	
+word	cost	NN
+gap	 	
+word	airlines	NN
+gap	 	
+word	appeared	VBD SMP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 1990'	
+word	s	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	-	
+word	States	PUBV CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	idea	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	successful	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	quickly	RB
+gap	 	
+word	spread	VPRT
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	companies	NN
+gap	 	
+word	grew	VBD
+gap	, 	
+word	prices	NN
+gap	 	
+word	went	VBD
+gap	 	
+word	down	PIN PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	flying	PGAS
+gap	 	
+word	became	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cheap	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	easy	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	travel	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	nowadays	RB TIME
+gap	, 	
+word	no	DET
+gap	-	
+word	one	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	say	PUBV THATD INF
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT PEAS SPAU
+gap	 	
+word	never	RB
+gap	 	
+word	heard	PRIV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	global	JJ
+gap	 	
+word	warming	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	affected	
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	Advertising	GER CAP
+gap	 	
+word	campaigns	NN
+gap	 	
+word	spur	VPRT
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	switch	INF
+gap	 	
+word	off	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lights	NN
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	leave	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	appliances	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	standby	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	 	
+word	taking	PGAS
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	cars	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	really	RB EMPH
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	campaigns	NN
+gap	 	
+word	regard	VPRT
+gap	 	
+word	flying	PGAS
+gap	 	
+word	pollution	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	major	JJ
+gap	 	
+word	contributor	NN
+gap	. 	
+word	Nevertheless	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	three	NUM
+gap	 	
+word	articles	NN
+gap	 	
+word	provide	VPRT
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	frightening	JJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	effects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flying	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	Given	CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	boom	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	low	JJ
+gap	-	
+word	cost	NN
+gap	 	
+word	companies	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	multiplication	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	numbers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flights	NN
+gap	, 	
+word	flying	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	become	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	source	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	worry	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	describe	VPRT
+gap	 	
+word	what	WH
+gap	 	
+word	problems	NN
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	faced	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	airline	NN
+gap	 	
+word	carriers	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	second	JJ
+gap	 	
+word	paragraph	NN
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	proposed	SUAV
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	discuss	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Finally	RB CAP
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	propose	SUAV INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	conclude	PRIV INF
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	problem	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	clear	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	effectively	RB
+gap	 	
+word	summed	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	part	NN
+gap	 	
+word	called	VBD
+gap	 '	
+word	The	ART CAP DET
+gap	 	
+word	facts	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	flying	PGAS
+gap	' 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	article	NN
+gap	 	
+word	published	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	The	ART CAP DET
+gap	 	
+word	Independent	CAP NNP
+gap	: 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	gasses	NN
+gap	 	
+word	emitted	WZPAST
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	altitude	NN
+gap	 	
+word	have	VPRT
+gap	 2.7 	
+word	times	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	environmental	JJ
+gap	 	
+word	impact	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ground	NN
+gap	, 	
+word	flying	PGAS
+gap	 	
+word	pollutes	NN
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	traveling	PGAS
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	proportionally	RB
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	short	JJ
+gap	-	
+word	distance	NN
+gap	 	
+word	travels	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	today	TIME NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	pollution	NOMZ
+gap	 	
+word	caused	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	flights	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	that	RB DEMO
+gap	 	
+word	important	JJ
+gap	 (3 	
+word	of	PIN PREP
+gap	 	
+word	total	JJ
+gap	 	
+word	man	NN
+gap	-	
+word	made	
+gap	 	
+word	emissions	NOMZ
+gap	 	
+word	worldwide	RB
+gap	 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Economist	CAP NNP
+gap	), 	
+word	it	PIT PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	become	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	years	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	major	JJ
+gap	 	
+word	source	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	worries	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	unchecked	JJ
+gap	 	
+word	given	
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flights	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	soaring	PGAS
+gap	 (	
+word	plus	PIN CCONJ PREP
+gap	 4.25 	
+word	a	ART DET INDA
+gap	 	
+word	year	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	). 	
+word	However	RB CONJ CAP
+gap	 	
+word	low	JJ
+gap	 	
+word	cost	NN
+gap	 	
+word	companies	NN
+gap	 	
+word	base	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	business	NOMZ
+gap	 	
+word	mainly	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	short	JJ
+gap	-	
+word	distance	NN
+gap	 	
+word	flights	NN
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	faced	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	dilemma	NN
+gap	: 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	continue	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	successful	JJ
+gap	 	
+word	business	NOMZ
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	short	JJ
+gap	-	
+word	haul	NN
+gap	 	
+word	flights	NN
+gap	 	
+word	or	CCONJ
+gap	, 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	reduce	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	business	NOMZ
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	change	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	totally	AMP RB
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	respect	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	Many	QUAN JJ CAP
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	proposed	SUAV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	articles	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	one	PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	simply	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flights	NN
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	propositions	NOMZ
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	then	RB
+gap	 	
+word	put	
+gap	 	
+word	forward	RB
+gap	: 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	public	JJ
+gap	 	
+word	transport	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	improve	INF
+gap	 	
+word	car	NN
+gap	 	
+word	efficiency	NN
+gap	 (	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	work	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	long	JJ
+gap	 	
+word	hauls	NN
+gap	), 	
+word	increase	INF
+gap	 	
+word	ticket	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	mainly	RB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	adding	PUBV PGAS
+gap	 	
+word	taxes	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	carbon	NN
+gap	-	
+word	offsetting	GER PGAS
+gap	 (	
+word	when	RB WHQU SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	pay	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	little	JJ
+gap	 	
+word	fee	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	will	PRMD
+gap	 	
+word	finance	INF
+gap	 	
+word	tree	NN
+gap	-	
+word	planting	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	energy	NN
+gap	 	
+word	saving	NN
+gap	 	
+word	schemes	NN
+gap	), 	
+word	nevertheless	RB CONJ
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	contested	
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	mean	PRIV INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	case	NN
+gap	 	
+word	flying	WZPRES PGAS
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	well	NN
+gap	-	
+word	offs	NN
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	said	PUBV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	articles	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	forget	PRIV THATD INF
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	reducing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flights	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	live	VPRT
+gap	 	
+word	thanks	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	flights	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	tourism	NN
+gap	 	
+word	industry	NN
+gap	. 	
+word	Other	JJ CAP
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	would	PRMD
+gap	 	
+word	reduce	INF
+gap	 	
+word	aircraft	NN
+gap	 	
+word	pollution	NOMZ
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	directly	RB
+gap	 	
+word	cutting	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flights	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	proposed	SUAV
+gap	: 	
+word	to	PIN TO PREP
+gap	 	
+word	create	INF
+gap	 	
+word	CO	CAP NNP
+gap	 2 	
+word	caps	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	carbon	NN
+gap	-	
+word	trading	NN
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	 	
+word	crowded	JJ
+gap	 	
+word	airports	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	 	
+word	planes	NN
+gap	 	
+word	having	WZPRES PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	circle	INF
+gap	 	
+word	wastefully	RB
+gap	 (	
+word	and	ANDC CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	usually	RB
+gap	 	
+word	carrying	PGAS
+gap	 	
+word	extra	JJ
+gap	 	
+word	fuel	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	case	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	wait	INF
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	landing	NN
+gap	, 	
+word	hence	RB CONJ
+gap	 	
+word	heavier	JJ CMADJ
+gap	 	
+word	planes	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	pollution	NOMZ
+gap	), 	
+word	or	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	aircrafts	NN
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	towed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	vehicles	NN
+gap	 	
+word	once	RB TIME
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ground	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	those	DEMO DET
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	do	VPRT PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	look	INF
+gap	 	
+word	efficient	JJ
+gap	 	
+word	compared	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	urgency	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	problem	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tackle	INF
+gap	 	
+word	global	JJ
+gap	 	
+word	warming	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	too	RB
+gap	 	
+word	late	JJ TIME
+gap	, 	
+word	so	CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	flying	PGAS
+gap	 	
+word	pollution	NOMZ
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	proposed	SUAV WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	articles	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	forget	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	passenger	NN
+gap	, 	
+word	who	WHQU WH
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	directly	RB
+gap	 	
+word	responsible	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pollution	NOMZ
+gap	, 	
+word	so	RB
+gap	 	
+word	why	RB WHQU SCONJ WH
+gap	 	
+word	don	
+gap	'	
+word	t	
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	inform	INF
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	consequences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	flights	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	? 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	campaign	NN
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	already	RB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	done	EMPH
+gap	 	
+word	concerning	GER PGAS
+gap	 	
+word	cars	NN
+gap	, 	
+word	why	RB SCONJ WH
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	planes	NN
+gap	? 	
+word	But	CAP CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	case	NN
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	nothing	INPR
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	done	PROD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prevent	INF
+gap	 	
+word	global	JJ
+gap	 	
+word	warming	NN
+gap	, 	
+word	global	JJ
+gap	 	
+word	warming	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	prevent	INF
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	flying	PGAS
+gap	.	

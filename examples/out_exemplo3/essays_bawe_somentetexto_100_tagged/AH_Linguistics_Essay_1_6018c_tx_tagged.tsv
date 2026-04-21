@@ -1,623 +1,1092 @@
 # filename: AH_Linguistics_Essay_1_6018c_tx.txt
-token	tags
-For	PIN CAP PREP
-many	QUAN JJ
-years	NN
-humans	NN
-have	VPRT PEAS
-tried	
-to	PIN TO PREP
-teach	INF
-primates	NN
-language	NN
-.	
-Whilst	OSUB PIN CAP SCONJ PREP
-there	EX
-have	VPRT PEAS
-been	BEMA AUXB
-famous	JJ
-cases	NN
-of	PIN PREP
-chimps	NN
-being	PASS WZPRES AUXB
-taught	
-to	PIN TO PREP
-produce	INF
-signs	NN
-I	FPP1 CAP PRP SBJP
-do	VPRT SPAU
-n't	XX0 CONT RB
-believe	PRIV THATD INF
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-said	PUBV
-that	PIN THVC SCONJ PREP
-Chimpanzees	CAP NNP
-'	CONT QUOT
-have	VPRT
-language	NN
-.	
-'	CONT QUOT
-Whereas	OSUB PIN CAP SCONJ PREP
-human	JJ
-children	NN
-go	VPRT
-on	PIN PREP
-to	PIN TO PREP
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-produce	INF
-language	NN
-spontaneously	RB
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-developing	GER PGAS
-grammatical	JJ
-and	PHC CCONJ
-syntactic	JJ
-systems	NN
-,	
-chimpanzees	NN
-simply	RB
-do	VPRT PROD
-not	XX0 RB
-.	
-Chimps	NN CAP
-have	VPRT PEAS SPAU
-undoubtedly	RB
-been	PASS AUXB
-taught	
-to	PIN TO PREP
-use	INF
-signs	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-1930	NUM
-'s	
-for	PIN PREP
-instance	NN
-Winthrop	CAP NNP
-and	PHC CCONJ
-Kellogg	CAP NNP
-raised	VBD
-an	ART DET INDA
-infant	NN
-chimpanzee	NN
-alongside	PIN PLACE PREP
-their	TPP3 PRP SBJP
-infant	NN
-son	NN
-.	
-By	PIN CAP PREP
-sixteen	NUM
-months	NN
-Gua	CAP NNP
-had	VBD PEAS
-learned	PRIV
-roughly	RB
-100	NUM
-words	NN
-,	
-more	RB EMPH CMADJ
-in	PIN CONJ PREP
-fact	NN
-than	PIN PREP
-their	TPP3 PRP SBJP
-son	NN
-could	POMD
-command	SUAV INF
-at	PIN PREP
-that	DEMO DET
-point	NN
-.	
-However	RB CONJ CAP
-,	
-this	DEMP DET
-was	VBD AUXB
-as	RB CONJ
-far	RB PLACE
-as	PIN CONJ PREP
-she	TPP3 PRP SBJP
-got	VBD
-and	ANDC CCONJ
-she	TPP3 PRP SBJP
-never	RB
-went	VBD
-on	PIN PREP
-to	PIN TO PREP
-learn	PRIV INF
-more	JJ EMPH CMADJ
-words	NN
-.	
-Fromkin	CAP NNP
-&	CCONJ
-Rodman	CAP NNP
-,	
-An	ART CAP DET INDA
-introduction	NOMZ
-to	PIN PREP
-language	NN
-4th	JJ
-Ed	CAP NNP
-.	
-Holt	CAP NNP
-,	
-Rinehart	CAP NNP
-and	PHC CCONJ
-Winston	CAP NNP
-Inc	CAP NNP
-1974	NUM
-Page	CAP NNP
-393	NUM
-Likewise	RB CONJ CAP
-,	
-a	ART DET INDA
-chimpanzee	NN
-called	
-Washoe	CAP NNP
-was	PASS VBD SPAU AUXB
-deliberately	RB
-taught	
-American	CAP NNP
-Sign	CAP NNP
-Language	CAP NNP
-and	CCONJ
-by	PIN PREP
-the	ART DET
-age	NN
-of	PIN PREP
-four	NUM
-she	TPP3 PRP SBJP
-had	VBD
-command	SUAV NN
-of	PIN PREP
-around	RB PLACE
-85	NUM
-signs	NN
-and	CCONJ
-could	POMD
-produce	INF
-two	NUM
-word	NN
-combinations	NOMZ
-of	PIN PREP
-signs	NN
-such	JJ
-as	PIN CONJ STPR PREP
-"	QUOT
-you	SPP2 PRP SBJP
-drink	VPRT
-.	
-"	QUOT
-Fromkin	CAP NNP
-&	CCONJ
-Rodman	CAP NNP
-,	
-An	ART CAP DET INDA
-introduction	NOMZ
-to	PIN PREP
-language	NN
-4th	JJ
-Ed	CAP NNP
-.	
-Holt	CAP NNP
-,	
-Rinehart	CAP NNP
-and	PHC CCONJ
-Winston	CAP NNP
-Inc	CAP NNP
-1974	NUM
-Page	CAP NNP
-392	NUM
-A	ART CAP DET INDA
-chimpanzee	NN
-called	
-Nim	CAP NNP
-,	
-in	PIN CONJ PREP
-an	ART DET INDA
-experiment	NOMZ
-designed	WZPAST
-to	PIN TO PREP
-test	INF
-out	PIN PREP
-the	ART DET
-various	JJ
-claims	PUBV NN THATD
-that	TSUB WHSUB WH
-had	VBD PEAS
-arisen	
-from	PIN PREP
-other	JJ
-experiments	NOMZ
-,	
-learned	VBD PRIV
-about	RB
-125	NUM
-signs	NN
-and	CCONJ
-went	VBD
-on	PIN PREP
-to	PIN TO PREP
-produce	INF
-two	NUM
-and	CCONJ
-three	NUM
-sign	NN
-combinations	NOMZ
-.	
-As2	CAP NNP
-.	
-Promising	PUBV CAP PGAS
-as	PIN CONJ PREP
-all	QUAN DET
-of	PIN PREP
-this	DEMP DET
-may	POMD
-look	INF
-we	FPP1 PRP SBJP
-must	NEMD
-consider	PRIV INF
-the	ART DET
-great	JJ
-limitations	NOMZ
-of	PIN PREP
-the	ART DET
-chimpanzee	NN
-'s	
-abilities	NN
-.	
-None	INPR NN CAP
-of	PIN PREP
-the	ART DET
-chimpanzees	NN
-developed	VBD
-vocabularies	NN
-anywhere	RB
-near	PIN PLACE PREP
-that	DEMO DET
-of	PIN PREP
-a	ART DET INDA
-human	JJ
-child	NN
-.	
-They	TPP3 CAP PRP SBJP
-seemed	VBD SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-learn	PRIV INF
-about	PIN PREP
-a	ART DET INDA
-hundred	NUM
-words	NN
-but	CCONJ
-then	RB
-never	RB
-progressed	VBD
-beyond	PIN PREP
-this	DEMO DET
-to	PIN TO PREP
-learn	PRIV INF
-thousands	NN
-of	PIN PREP
-words	NN
-like	PIN PREP
-human	JJ
-children	NN
-can	POMD
-.	
-There	EX CAP
-is	VPRT AUXB
-an	ART DET INDA
-important	JJ
-point	NN
-here	RB
-,	
-there	EX
-is	VPRT AUXB
-simply	RB
-more	JJ EMPH CMADJ
-to	PIN PREP
-language	NN
-than	PIN PREP
-knowing	PRIV PGAS
-a	ART DET INDA
-long	JJ
-list	NN
-of	PIN PREP
-words	NN
-.	
-Even	RB CAP
-knowledge	NN
-of	PIN PREP
-a	ART DET INDA
-thousand	NUM
-words	NN
-would	PRMD SPAU
-still	RB
-be	BEMA AUXB INF
-useless	JJ PRED
-without	PIN PREP
-the	ART DET
-complex	JJ
-grammatical	JJ
-and	PHC CCONJ
-syntactic	JJ
-systems	NN
-we	FPP1 PRP SBJP
-use	VPRT
-.	
-None	INPR NN CAP
-of	PIN PREP
-the	ART DET
-chimps	NN
-showed	VBD PRIV
-signs	NN
-of	PIN PREP
-getting	PGAS
-to	PIN PREP
-grips	NN
-with	PIN PREP
-either	DET
-of	PIN PREP
-these	DEMP DET
-.	
-Whereas	OSUB PIN CAP SCONJ PREP
-Winthrop	CAP NNP
-and	PHC CCONJ
-Kellogg	CAP NNP
-'s	
-son	NN
-could	POMD
-understand	PRIV INF
-the	ART DET
-difference	NN
-between	PIN STPR PREP
-"	QUOT
-I	FPP1 CAP PRP SBJP
-saw	VBD PRIV
-what	WHCL WH
-I	FPP1 CAP PRP SBJP
-mean	VPRT PRIV
-"	QUOT
-and	ANDC CCONJ
-"	QUOT
-I	FPP1 CAP PRP SBJP
-mean	VPRT PRIV
-what	WHCL WH
-I	FPP1 CAP PRP SBJP
-say	VPRT PUBV
-,	
-"	QUOT
-Gua	CAP NNP
-could	POMD
-neither	CCONJ
-differentiate	INF
-between	PIN STPR PREP
-,	
-nor	CCONJ
-understand	PRIV INF
-either	CCONJ
-for	PIN PREP
-instance	NN
-.	
-Washoe	NN CAP
-who	WHQU WHSUB WH
-could	POMD
-understand	PRIV INF
-the	ART DET
-sign	NN
-for	PIN STPR PREP
-"	QUOT
-coke	NNP
-"	QUOT
-could	POMD SPAU
-not	XX0 RB
-differentiate	INF
-between	PIN PREP
-singular	NN
-and	CCONJ
-plural	JJ
-forms	NN
-and	CCONJ
-Nim	CAP NNP
-filled	VBD
-her	TPP3 PRP SBJP
-utterances	NN
-with	PIN PREP
-redundant	JJ
-words	NN
-and	CCONJ
-had	VBD
-little	JJ
-syntactic	JJ
-structure	NN
-.	
-As3	CAP
-As	PIN CONJ CAP PREP
-Fromkin	CAP NNP
-and	PHC CCONJ
-Rodman	CAP NNP
-conclude	VPRT PRIV
-"	QUOT
-unlike	PIN PREP
-children	NN
-their	TPP3 PRP SBJP
-(	
-chimps	NN
-)	
-language	NN
-exhibits	VPRT
-little	JJ
-spontaneity	NOMZ
-,	
-is	BEMA VPRT AUXB
-highly	AMP RB
-imitative	JJ
-,	
-and	ANDC CCONJ
-reveals	VPRT PRIV
-little	JJ
-syntactic	JJ
-structure	NN
-.	
-"	QUOT
-Fromkin	CAP NNP
-&	CCONJ
-Rodman	CAP NNP
-,	
-An	ART CAP DET INDA
-introduction	NOMZ
-to	PIN PREP
-language	NN
-4th	JJ
-Ed	CAP NNP
-.	
-Holt	CAP NNP
-,	
-Rinehart	CAP NNP
-and	PHC CCONJ
-Winston	CAP NNP
-Inc	CAP NNP
-1974	NUM
-Page	CAP NNP
-396	NUM
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-I	FPP1 CAP PRP SBJP
-do	VPRT SPAU
-n't	XX0 CONT RB
-believe	PRIV THATD INF
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-seen	PRIV
-that	PIN THVC SCONJ PREP
-chimpanzees	NN
-have	VPRT
-language	NN
-.	
-Despite	PIN CAP SCONJ PREP
-the	ART DET
-fact	NN
-they	TPP3 PRP SBJP
-can	POMD
-be	PASS AUXB INF
-taught	
-to	PIN TO PREP
-use	INF
-signs	NN
-their	TPP3 PRP SBJP
-vocabularies	NN
-are	BEMA VPRT AUXB
-greatly	AMP RB
-limited	JJ
-and	CCONJ
-their	TPP3 PRP SBJP
-utterances	NN
-rarely	RB
-progress	VPRT
-beyond	PIN PREP
-the	ART DET
-two	NUM
-word	NN
-stage	NN
-in	PIN CONJ PREP
-meaning	PRIV NN
-.	
-They	TPP3 CAP PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-seem	SMP INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-develop	INF
-either	CCONJ
-the	ART DET
-grammatical	JJ
-or	CCONJ
-syntactic	JJ
-systems	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-vital	JJ PRED
-to	PIN PREP
-language	NN
-both	DET
-signed	VBD
-and	PHC CCONJ
-spoken	
-alike	RB
-.	
-Their	TPP3 CAP PRP SBJP
-language	NN
-is	VPRT AUXB
-also	RB
-highly	AMP RB
-imitative	JJ
-in	PIN CONJ PREP
-that	DEMO DET
-the	ART DET
-often	RB
-just	RB EMPH
-repeat	VPRT PUBV THATD
-signs	NN
-made	WZPAST
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-display	VPRT
-little	JJ
-spontaneous	JJ
-signing	NN
-.	
-All	QUAN RB CAP
-in	RB PIN CONJ PREP
-all	QUAN DET
-,	
-they	TPP3 PRP SBJP
-lack	VPRT
-true	JJ
-comprehension	NOMZ
-and	ANDC CCONJ
-so	RB
-can	POMD SPAU
-not	XX0 RB
-differentiate	INF
-between	PIN PREP
-different	JJ
-forms	NN
-,	
-tenses	NN
-etc	X
-of	PIN PREP
-utterances	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-chimps	NN
-can	POMD SPAU
-unarguably	RB
-be	PASS AUXB INF
-taught	
-signs	NN
-for	PIN PREP
-different	JJ
-things	NN
-I	FPP1 CAP PRP SBJP
-believe	VPRT PRIV THATD
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-possess	INF
-language	NN
-.	
+type	content	tags
+word	For	PIN CAP PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	years	NN
+gap	 	
+word	humans	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	tried	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	teach	INF
+gap	 	
+word	primates	NN
+gap	 	
+word	language	NN
+gap	. 	
+word	Whilst	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	famous	JJ
+gap	 	
+word	cases	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	chimps	NN
+gap	 	
+word	being	PASS WZPRES AUXB
+gap	 	
+word	taught	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	signs	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	don	
+gap	'	
+word	t	
+gap	 	
+word	believe	PRIV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	said	PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	Chimpanzees	CAP NNP
+gap	 '	
+word	have	VPRT
+gap	 	
+word	language	NN
+gap	.' 	
+word	Whereas	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	children	NN
+gap	 	
+word	go	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	language	NN
+gap	 	
+word	spontaneously	RB
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	grammatical	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	syntactic	JJ
+gap	 	
+word	systems	NN
+gap	, 	
+word	chimpanzees	NN
+gap	 	
+word	simply	RB
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	not	XX0 RB
+gap	. 	
+word	Chimps	NN CAP
+gap	 	
+word	have	VPRT PEAS SPAU
+gap	 	
+word	undoubtedly	RB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	taught	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	signs	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 1930'	
+word	s	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	 	
+word	Winthrop	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Kellogg	CAP NNP
+gap	 	
+word	raised	VBD
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	infant	NN
+gap	 	
+word	chimpanzee	NN
+gap	 	
+word	alongside	PIN PLACE PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	infant	NN
+gap	 	
+word	son	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	sixteen	NUM
+gap	 	
+word	months	NN
+gap	 	
+word	Gua	CAP NNP
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	learned	PRIV
+gap	 	
+word	roughly	RB
+gap	 100 	
+word	words	NN
+gap	, 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	son	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	command	SUAV INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	point	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	got	VBD
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	never	RB
+gap	 	
+word	went	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	words	NN
+gap	. 	
+word	Fromkin	CAP NNP
+gap	 & 	
+word	Rodman	CAP NNP
+gap	, 	
+word	An	ART CAP DET INDA
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	language	NN
+gap	 4	
+word	th	JJ
+gap	 	
+word	Ed	CAP NNP
+gap	. 	
+word	Holt	CAP NNP
+gap	, 	
+word	Rinehart	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Winston	CAP NNP
+gap	 	
+word	Inc	CAP NNP
+gap	 1974 	
+word	Page	CAP NNP
+gap	 393 	
+word	Likewise	RB CONJ CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	chimpanzee	NN
+gap	 	
+word	called	
+gap	 	
+word	Washoe	CAP NNP
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	deliberately	RB
+gap	 	
+word	taught	
+gap	 	
+word	American	CAP NNP
+gap	 	
+word	Sign	CAP NNP
+gap	 	
+word	Language	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	age	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	four	NUM
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	command	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	around	RB PLACE
+gap	 85 	
+word	signs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	could	POMD
+gap	 	
+word	produce	INF
+gap	 	
+word	two	NUM
+gap	 	
+word	word	NN
+gap	 	
+word	combinations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	signs	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 "	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	drink	VPRT
+gap	." 	
+word	Fromkin	CAP NNP
+gap	 & 	
+word	Rodman	CAP NNP
+gap	, 	
+word	An	ART CAP DET INDA
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	language	NN
+gap	 4	
+word	th	JJ
+gap	 	
+word	Ed	CAP NNP
+gap	. 	
+word	Holt	CAP NNP
+gap	, 	
+word	Rinehart	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Winston	CAP NNP
+gap	 	
+word	Inc	CAP NNP
+gap	 1974 	
+word	Page	CAP NNP
+gap	 392 	
+word	A	ART CAP DET INDA
+gap	 	
+word	chimpanzee	NN
+gap	 	
+word	called	
+gap	 	
+word	Nim	CAP NNP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	designed	WZPAST
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	test	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	various	JJ
+gap	 	
+word	claims	PUBV NN THATD
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	arisen	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	experiments	NOMZ
+gap	, 	
+word	learned	VBD PRIV
+gap	 	
+word	about	RB
+gap	 125 	
+word	signs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	went	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	two	NUM
+gap	 	
+word	and	CCONJ
+gap	 	
+word	three	NUM
+gap	 	
+word	sign	NN
+gap	 	
+word	combinations	NOMZ
+gap	. 	
+word	As	CAP NNP
+gap	2. 	
+word	Promising	PUBV CAP PGAS
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	may	POMD
+gap	 	
+word	look	INF
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	great	JJ
+gap	 	
+word	limitations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chimpanzee	NN
+gap	'	
+word	s	
+gap	 	
+word	abilities	NN
+gap	. 	
+word	None	INPR NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chimpanzees	NN
+gap	 	
+word	developed	VBD
+gap	 	
+word	vocabularies	NN
+gap	 	
+word	anywhere	RB
+gap	 	
+word	near	PIN PLACE PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	human	JJ
+gap	 	
+word	child	NN
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	seemed	VBD SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	hundred	NUM
+gap	 	
+word	words	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	then	RB
+gap	 	
+word	never	RB
+gap	 	
+word	progressed	VBD
+gap	 	
+word	beyond	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	thousands	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	words	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	children	NN
+gap	 	
+word	can	POMD
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	point	NN
+gap	 	
+word	here	RB
+gap	, 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	simply	RB
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	knowing	PRIV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	 	
+word	list	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	words	NN
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	thousand	NUM
+gap	 	
+word	words	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	still	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	useless	JJ PRED
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	complex	JJ
+gap	 	
+word	grammatical	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	syntactic	JJ
+gap	 	
+word	systems	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	use	VPRT
+gap	. 	
+word	None	INPR NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chimps	NN
+gap	 	
+word	showed	VBD PRIV
+gap	 	
+word	signs	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	getting	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	grips	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	either	DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMP DET
+gap	. 	
+word	Whereas	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	Winthrop	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Kellogg	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	son	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	difference	NN
+gap	 	
+word	between	PIN STPR PREP
+gap	 "	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	saw	VBD PRIV
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	mean	VPRT PRIV
+gap	" 	
+word	and	ANDC CCONJ
+gap	 "	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	mean	VPRT PRIV
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	say	VPRT PUBV
+gap	," 	
+word	Gua	CAP NNP
+gap	 	
+word	could	POMD
+gap	 	
+word	neither	CCONJ
+gap	 	
+word	differentiate	INF
+gap	 	
+word	between	PIN STPR PREP
+gap	, 	
+word	nor	CCONJ
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	either	CCONJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	. 	
+word	Washoe	NN CAP
+gap	 	
+word	who	WHQU WHSUB WH
+gap	 	
+word	could	POMD
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	sign	NN
+gap	 	
+word	for	PIN STPR PREP
+gap	 "	
+word	coke	NNP
+gap	" 	
+word	could	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	differentiate	INF
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	singular	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	plural	JJ
+gap	 	
+word	forms	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Nim	CAP NNP
+gap	 	
+word	filled	VBD
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	utterances	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	redundant	JJ
+gap	 	
+word	words	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	had	VBD
+gap	 	
+word	little	JJ
+gap	 	
+word	syntactic	JJ
+gap	 	
+word	structure	NN
+gap	. 	
+word	As	CAP
+gap	3 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	Fromkin	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Rodman	CAP NNP
+gap	 	
+word	conclude	VPRT PRIV
+gap	 "	
+word	unlike	PIN PREP
+gap	 	
+word	children	NN
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 (	
+word	chimps	NN
+gap	) 	
+word	language	NN
+gap	 	
+word	exhibits	VPRT
+gap	 	
+word	little	JJ
+gap	 	
+word	spontaneity	NOMZ
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	imitative	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	reveals	VPRT PRIV
+gap	 	
+word	little	JJ
+gap	 	
+word	syntactic	JJ
+gap	 	
+word	structure	NN
+gap	." 	
+word	Fromkin	CAP NNP
+gap	 & 	
+word	Rodman	CAP NNP
+gap	, 	
+word	An	ART CAP DET INDA
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	language	NN
+gap	 4	
+word	th	JJ
+gap	 	
+word	Ed	CAP NNP
+gap	. 	
+word	Holt	CAP NNP
+gap	, 	
+word	Rinehart	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Winston	CAP NNP
+gap	 	
+word	Inc	CAP NNP
+gap	 1974 	
+word	Page	CAP NNP
+gap	 396 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	don	
+gap	'	
+word	t	
+gap	 	
+word	believe	PRIV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	chimpanzees	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	language	NN
+gap	. 	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	taught	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	signs	NN
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	vocabularies	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	limited	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	utterances	NN
+gap	 	
+word	rarely	RB
+gap	 	
+word	progress	VPRT
+gap	 	
+word	beyond	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	word	NN
+gap	 	
+word	stage	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	meaning	PRIV NN
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	seem	SMP INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	either	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	grammatical	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	syntactic	JJ
+gap	 	
+word	systems	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	vital	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	both	DET
+gap	 	
+word	signed	VBD
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	spoken	
+gap	 	
+word	alike	RB
+gap	. 	
+word	Their	TPP3 CAP PRP SBJP
+gap	 	
+word	language	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	imitative	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	often	RB
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	repeat	VPRT PUBV THATD
+gap	 	
+word	signs	NN
+gap	 	
+word	made	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	display	VPRT
+gap	 	
+word	little	JJ
+gap	 	
+word	spontaneous	JJ
+gap	 	
+word	signing	NN
+gap	. 	
+word	All	QUAN RB CAP
+gap	 	
+word	in	RB PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	lack	VPRT
+gap	 	
+word	true	JJ
+gap	 	
+word	comprehension	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	cannot	
+gap	 	
+word	differentiate	
+gap	 	
+word	between	
+gap	 	
+word	different	
+gap	 	
+word	forms	
+gap	, 	
+word	tenses	
+gap	 	
+word	etc	
+gap	 	
+word	of	
+gap	 	
+word	utterances	
+gap	. 	
+word	Although	
+gap	 	
+word	chimps	
+gap	 	
+word	can	
+gap	 	
+word	unarguably	
+gap	 	
+word	be	
+gap	 	
+word	taught	
+gap	 	
+word	signs	
+gap	 	
+word	for	
+gap	 	
+word	different	
+gap	 	
+word	things	
+gap	 	
+word	I	
+gap	 	
+word	believe	
+gap	 	
+word	they	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	possess	
+gap	 	
+word	language	
+gap	.	

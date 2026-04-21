@@ -1,1602 +1,2688 @@
 # filename: AH_other_Essay_2_0061i_tx.txt
-token	tags
-Free	JJ CAP
-indirect	JJ
-discourse	NN
-or	CCONJ
-style	NN
-indirect	JJ
-libre	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-technique	NN
-used	WZPAST
-by	PIN PREP
-writers	NN
-to	PIN TO PREP
-present	INF
-the	ART DET
-thoughts	NN
-or	CCONJ
-utterances	NN
-of	PIN PREP
-a	ART DET INDA
-fictional	JJ
-character	NN
-as	PIN CONJ PREP
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-were	BEMA VBD AUXB
-from	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-point	NN
-of	PIN PREP
-view	NN
-.	
-This	DEMP CAP DET
-is	PASS VPRT BYPA AUXB
-achieved	
-by	PIN PREP
-combining	PGAS
-grammatical	JJ
-and	PHC CCONJ
-other	JJ
-features	NN
-of	PIN PREP
-the	ART DET
-character	NN
-'s	
-'	CONT QUOT
-direct	JJ
-speech	NN
-'	CONT QUOT
-with	PIN PREP
-features	NN
-of	PIN PREP
-the	ART DET
-narrator	NN
-'s	
-'	CONT QUOT
-indirect	JJ
-'	CONT QUOT
-report	PUBV NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-technique	NN
-to	PIN TO PREP
-allow	SUAV INF
-the	ART DET
-reader	NN
-to	PIN TO PREP
-interpret	INF
-the	ART DET
-protagonist	NN
-'s	
-thoughts	NN
-as	PIN CONJ PREP
-the	ART DET
-author	NN
-enjoys	VPRT
-a	ART DET INDA
-seemingly	RB
-objective	JJ
-stance	NN
-.	
-Gustave	CAP NNP
-Flaubert	CAP NNP
-was	BEMA VBD AUXB
-a	ART DET INDA
-'	CONT QUOT
-pioneer	NN
-'	CONT QUOT
-of	PIN PREP
-this	DEMO DET
-style	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-novel	NN
-Madame	CAP NNP
-Bovary	CAP NNP
-,	
-this	DEMO DET
-technique	NN
-is	PASS VPRT AUXB
-used	
-copiously	RB
-.	
-One	CAP NUM
-advantage	NN
-he	TPP3 PRP SBJP
-enjoyed	VBD
-was	BEMA VBD AUXB
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-enabled	VBD
-him	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-find	PRIV INF
-a	ART DET INDA
-style	NN
-'	CONT QUOT
-suitable	JJ
-to	PIN PREP
-each	QUAN DET
-object	PUBV NN
-,	
-each	QUAN DET
-place	NN
-,	
-each	QUAN DET
-circumstance	NN
-[	X
-and	CCONJ
-]	
-each	QUAN DET
-being	NN
-'	CONT QUOT
-and	ANDC CCONJ
-permitted	VBD
-him	TPP3 PRP SBJP ACCU
-'	CONT QUOT
-to	PIN TO PREP
-give	INF
-expression	NOMZ
-to	PIN PREP
-the	ART DET
-unexpressed	JJ
-thoughts	NN
-of	PIN PREP
-incoherent	JJ
-people	NN
-.	
-"	QUOT
-This	DEMO CAP DET
-style	NN
-indirect	JJ
-libre	NN
-involves	VPRT
-the	ART DET
-reader	NN
-in	PIN CONJ PREP
-the	ART DET
-narrative	NN
-;	
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-privation	NOMZ
-to	PIN TO PREP
-preface	INF
-the	ART DET
-tenets	NN
-of	PIN PREP
-the	ART DET
-protagonists	NN
-with	PIN STPR PREP
-'	CONT QUOT
-il	NNP
-a	ART DET INDA
-pensé	NN
-'	CONT QUOT
-or	CCONJ
--	
-would	PRMD
-it	PIT PRP SBJP
-be	BEMA AUXB INF
-direct	JJ
-speech	NN
--	
-'	CONT QUOT
-il	INF
-me	FPP1 PRP SBJP ACCU
-semble	JJ
-'	CONT QUOT
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	VPRT AUXB
-either	CCONJ
-deliberately	RB
-apparent	JJ
-or	CCONJ
-indeterminate	INF
-who	WH
-the	ART DET
-reference	NN
-is	PASS VPRT BYPA AUXB
-made	
-by	PIN PREP
-and	ANDC CCONJ
-this	DEMP DET
-is	PASS VPRT BYPA AUXB
-controlled	
-by	PIN PREP
-the	ART DET
-author	NN
-.	
-Brombert	CAP NNP
-,	
-V.	CAP NNP
-,	
-The	ART CAP DET
-Novels	CAP NNP
-of	PIN PREP
-Flaubert	CAP NNP
-:	
-A	ART CAP DET INDA
-Study	NN CAP
-of	PIN PREP
-Themes	CAP NNP
-and	PHC CCONJ
-Techniques	CAP NNP
-(	
-New	CAP NNP
-Jersey	CAP NNP
-,	
-1966	NUM
-)	
-,	
-p.	NN
-76	NUM
-Faguet	CAP NNP
-,	
-É.	CAP NNP
-,	
-Flaubert	CAP NNP
-(	
-London	CAP NNP
-,	
-1914	NUM
-)	
-,	
-p.	NN
-203	NUM
-Starkie	CAP NNP
-,	
-E.	CAP NNP
-,	
-Flaubert	CAP NNP
-:	
-The	ART CAP DET
-Making	NN CAP
-of	PIN PREP
-the	ART DET
-Master	CAP NNP
-(	
-London	CAP NNP
-,	
-1967	NUM
-)	
-,	
-p.	NN
-313	NUM
-The	ART CAP DET
-reader	NN
-is	PASS VPRT SPAU AUXB
-often	RB
-told	
-how	RB SCONJ WH
-things	NN
-are	PASS VPRT AUXB
-seen	PRIV
-rather	RB
-than	PIN PREP
-merely	DWNT RB
-what	WH
-is	PASS VPRT AUXB
-being	PASS AUXB
-seen	PRIV
-.	
-One	CAP NUM
-example	NN
-of	PIN PREP
-this	DEMP DET
-is	VPRT AUXB
-Charles	CAP NNP
-'	CONT QUOT
-description	NOMZ
-of	PIN PREP
-Emma	CAP NNP
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-frequents	VPRT
-Rouault	CAP NNP
-'s	
-farm	NN
-;	
-she	TPP3 PRP SBJP
-offers	VPRT
-him	TPP3 PRP SBJP ACCU
-a	ART DET INDA
-drink	NN
-.	
-Flaubert	NN CAP
-uses	VPRT
-style	NN
-indirect	JJ
-libre	NN
-to	PIN TO PREP
-underline	INF
-the	ART DET
-significance	NN
-of	PIN PREP
-this	DEMO DET
-moment	NOMZ
-to	PIN PREP
-Charles	CAP NNP
-.	
-The	ART CAP DET
-description	NOMZ
-is	VPRT AUXB
-,	
-ergo	JJ
-,	
-extremely	AMP RB
-detailed	JJ
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-clear	JJ PRED
-that	PIN THAC SCONJ PREP
-it	PIT PRP SBJP
-portrays	VPRT
-the	ART DET
-thoughts	NN
-of	PIN PREP
-Monsieur	CAP NNP
-Bovary	CAP NNP
-.	
-He	TPP3 CAP PRP SBJP
-sees	VPRT PRIV
-Emma	CAP NNP
-:	
-'	CONT QUOT
-[	
-qui	X
-]	
-n'avait	NN
-point	NNP
-de	NNP
-fichu	NNP
-,	
-on	PIN PREP
-voyait	NNP
-sur	NNP
-les	NNP
-épaules	NNP
-nues	NN
-de	NNP
-petites	NN
-gouttes	VPRT
-de	X
-sueur	NN
-.	
-"	QUOT
-Flaubert	NN CAP
-manages	VPRT
-to	PIN TO PREP
-describe	INF
-Emma	CAP NNP
-in	PIN CONJ PREP
-a	ART DET INDA
-highly	AMP RB
-suggestive	JJ
-way	NN
-and	CCONJ
-yet	RB
-manages	VPRT
-to	PIN TO PREP
-keep	INF
-the	ART DET
-semblance	NN
-of	PIN PREP
-objectivity	NOMZ
-through	PIN PREP
-the	ART DET
-style	NN
-indirect	JJ
-libre	NN
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-appears	VPRT SMP
-clear	JJ
-that	PIN THAC SCONJ PREP
-it	PIT PRP SBJP
-is	VPRT AUXB
-Charles	CAP NNP
-who	WH
-sees	VPRT PRIV
-Emma	CAP NNP
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-and	CCONJ
-is	VPRT AUXB
-becoming	PGAS
-emotionally	RB
-charged	
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-Elle	CAP NNP
-[	X
-Emma	CAP NNP
-]	
-riait	NNP
-de	NNP
-ne	NNP
-rien	NNP
-sentir	NNP
-,	
-tandis	NNP
-que	NNP
-le	NNP
-bout	X
-de	X
-la	NNP
-langue	NNP
-,	
-passant	JJ
-entre	NN
-ses	NN
-dents	VPRT
-fines	NN
-,	
-léchait	VPRT
-à	NNP
-petits	VPRT
-coups	NN
-le	PIN PREP
-fond	NNP
-du	NNP
-verre	NNP
-.	
-'	CONT QUOT
-He	TPP3 CAP PRP SBJP
-is	VPRT AUXB
-realizing	PRIV PGAS
-her	TPP3 PRP SBJP
-strong	JJ
-erotic	JJ
-potential	NN
-which	WHSUB DET WH
-will	PRMD
-'	CONT QUOT
-find	PRIV INF
-its	PIT PRP SBJP
-first	JJ
-symbolic	JJ
-awakening	NN
-during	PIN PREP
-the	ART DET
-dance	NN
-ritual	NN
-at	PIN PREP
-the	ART DET
-Vaubyessard	CAP NNP
-ball	NN
-.	
-'	CONT QUOT
-Flaubert	CAP NNP
-,	
-G.	CAP NNP
-,	
-Madame	CAP NNP
-Bovary	CAP NNP
-(	
-Paris	CAP NNP
-,	
-1971	NUM
-)	
-,	
-p.	NN
-23	NUM
-Ibid	NN CAP
-.	
-Brombert	CAP NNP
-,	
-V.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-46	NUM
-This	DEMO CAP DET
-style	NN
-indirect	JJ
-libre	NN
-would	PRMD SPAU
-initially	RB TIME
-suggest	PUBV SUAV INF
-that	PIN THVC SCONJ PREP
-Flaubert	CAP NNP
-would	PRMD
-sympathise	INF
-with	PIN PREP
-Emma	CAP NNP
-as	PIN CONJ PREP
-her	TPP3 PRP SBJP
-description	NOMZ
-is	BEMA VPRT AUXB
-through	PIN PREP
-the	ART DET
-eyes	NN
-of	PIN PREP
-Charles	CAP NNP
-who	WH
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-awe	NN
-of	PIN PREP
-her	TPP3 PRP SBJP ACCU
-.	
-Flaubert	CAP NNP
-,	
-however	RB CONJ
-,	
-ensures	VPRT PRIV SUAV
-his	TPP3 PRP SBJP
-rigid	JJ
-objectivity	NOMZ
-as	PIN CONJ STPR PREP
-,	
-later	RB TIME
-on	RB PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-novel	NN
-,	
-the	ART DET
-reader	NN
-will	PRMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-judge	PRIV INF
-Emma	CAP NNP
-'s	
-character	NN
-for	PIN PREP
-himself	TPP3 PRP SBJP ACCU
-when	RB SCONJ WH
-the	ART DET
-style	NN
-indirect	JJ
-libre	NN
-switches	VPRT
-to	PIN PREP
-her	TPP3 PRP SBJP
-shared	
-point	NN
-of	PIN PREP
-view	NN
-,	
-through	PIN PREP
-her	TPP3 PRP SBJP
-actions	NOMZ
-and	PHC CCONJ
-rhetoric	NN
-.	
-The	ART CAP DET
-reader	NN
-will	PRMD
-see	PRIV INF
-her	TPP3 PRP SBJP
-dissatisfaction	NOMZ
-with	PIN PREP
-her	TPP3 PRP SBJP
-life	NN
-and	CCONJ
-especially	RB
-with	PIN PREP
-Charles	CAP NNP
-but	CCONJ
-'	CONT QUOT
-Flaubert	CAP NNP
-'s	
-style	NN
-indirect	JJ
-libre	NN
-gives	VPRT
-a	ART DET INDA
-modicum	NN
-of	PIN PREP
-objectivity	NOMZ
-'	CONT QUOT
-to	PIN PREP
-this	DEMO DET
-lamentation	NOMZ
-.	
-'	CONT QUOT
-Charles	CAP NNP
-était	NN
-là	PIN STPR PREP
-.	
-Il	CAP NNP
-avait	NNP
-sa	NNP
-casquette	NNP
-enforcée	NNP
-sur	NNP
-ses	NNP
-sourcils	NN
-...	
-ce	NNP
-qui	NNP
-ajoutait	VPRT
-à	NNP
-son	NN
-visage	NN
-quelque	NN
-chose	VBD
-de	X
-stupide	NN
-'	CONT QUOT
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-evident	JJ PRED
-that	PIN THAC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-the	ART DET
-author	NN
-who	WHSUB WH
-is	VPRT AUXB
-making	PGAS
-this	DEMO DET
-comment	PUBV NOMZ
-but	CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-Emma	CAP NNP
-'s	
-thoughts	NN
-.	
-By	PIN CAP PREP
-adopting	PGAS
-style	NN
-indirect	JJ
-libre	NN
-Flaubert	CAP NNP
-drops	VPRT
-the	ART DET
-real	JJ
-subject	NN
-of	PIN PREP
-the	ART DET
-sentence	NN
-and	CCONJ
-the	ART DET
-protagonist	NN
-'s	
-true	JJ
-thoughts	NN
-are	PASS VPRT AUXB
-expressed	
-.	
-This	DEMO CAP DET
-technique	NN
-also	RB
-enables	VPRT
-Flaubert	CAP NNP
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-text	NN
-is	BEMA VPRT AUXB
-impersonal	JJ PRED
-while	OSUB PIN SCONJ PREP
-simultaneously	RB TIME
-conveying	PUBV PGAS
-judgments	NOMZ
-of	PIN PREP
-characters	NN
-and	PHC CCONJ
-events	NN
-;	
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-impersonality	NOMZ
-depends	VPRT
-not	XX0 RB
-on	PIN PREP
-what	WH
-is	PASS VPRT AUXB
-said	PUBV
-but	CCONJ
-on	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-no	SYNE DET
-identifiable	JJ
-narrator	NN
-speaks	VPRT
-.	
-'	CONT QUOT
-Flaubert	CAP NNP
-,	
-G.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-quoted	PASTP
-in	PIN CONJ PREP
-Culler	CAP NNP
-,	
-J.	CAP NNP
-,	
-Flaubert	CAP NNP
-:	
-The	ART CAP DET
-Uses	CAP NNP
-of	PIN PREP
-Uncertainty	CAP NNP
-(	
-London	CAP NNP
-,	
-1974	NUM
-)	
-,	
-p.	NN
-140	NUM
-Culler	CAP NNP
-,	
-J.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-110	NUM
-Style	CAP NNP
-indirect	JJ
-libre	NN
-combines	VPRT
-two	NUM
-voices	NN
-:	
-the	ART DET
-voice	NN
-of	PIN PREP
-the	ART DET
-narrator	NN
-and	ANDC CCONJ
-that	DEMO DET
-of	PIN PREP
-a	ART DET INDA
-character	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-often	RB
-impossible	JJ
-to	PIN TO PREP
-tell	INF
-who	WH
-actually	RB
-is	VPRT AUXB
-speaking	PGAS
-as	PIN CONJ PREP
-the	ART DET
-'	CONT QUOT
-speaker	NN
-may	POMD
-be	BEMA AUXB INF
-the	ART DET
-narrator	NN
-,	
-or	CCONJ
-one	NUM
-of	PIN PREP
-the	ART DET
-characters	NN
-,	
-or	CCONJ
-both	DET
-,	
-or	CCONJ
-neither	RB
-.	
-"	QUOT
-We	FPP1 CAP PRP SBJP
-can	POMD
-see	PRIV INF
-this	DEMO DET
-in	PIN CONJ PREP
-incidents	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-distinction	NOMZ
-between	PIN PREP
-character	NN
-and	PHC CCONJ
-narrator	NN
-appears	VPRT SMP
-to	PIN TO PREP
-disappear	INF
-completely	AMP RB
-;	
-'	CONT QUOT
-Emma	CAP NNP
-fut	JJ
-intérieurement	NOMZ
-satisfaite	NN
-de	NNP
-se	X
-sentir	JJ
-arrivée	NN
-du	VPRT
-premier	NNP
-coup	NNP
-à	NNP
-ce	NNP
-rare	NNP
-idéal	NNP
-des	NNP
-existences	VPRT
-pâles	NN
-,	
-où	NNP
-ne	NNP
-parviennent	NN
-jamais	NNP
-les	X
-coeurs	NNP
-médiocres	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-to	PIN TO PREP
-tell	INF
-here	RB
-whether	PIN SCONJ PREP
-the	ART DET
-narrator	NN
-is	VPRT AUXB
-quoting	PGAS
-Emma	CAP NNP
-'s	
-thoughts	NN
-or	CCONJ
-feelings	NN
-or	CCONJ
-whether	PIN SCONJ PREP
-he	TPP3 PRP SBJP
-is	VPRT AUXB
-,	
-in	PIN CONJ PREP
-fact	NN
-,	
-expressing	GER PGAS
-his	TPP3 PRP SBJP
-own	JJ
-opinions	NN
-.	
-The	ART CAP DET
-effect	NN
-this	DEMP DET
-has	VPRT
-on	PIN PREP
-the	ART DET
-reading	NN
-of	PIN PREP
-the	ART DET
-text	NN
-is	BEMA VPRT AUXB
-that	DEMO DET
-firstly	RB
--	
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-the	ART DET
-style	NN
-indirect	JJ
-libre	NNP
--	
-the	ART DET
-reader	NN
-can	POMD
-read	INF
-Emma	CAP NNP
-'s	
-thoughts	NN
-,	
-feel	VPRT PRIV
-her	TPP3 PRP SBJP
-feelings	NN
-,	
-and	ANDC CCONJ
-appreciate	VPRT
-her	TPP3 PRP SBJP
-reactions	NOMZ
-with	PIN PREP
-a	ART DET INDA
-much	QUAN RB
-greater	JJ CMADJ
-ease	NN
-as	PIN CONJ PREP
-his	TPP3 PRP SBJP
-involvement	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-text	NN
-is	PASS VPRT SPAU AUXB
-further	RB
-enhanced	
-.	
-Secondly	RB CAP
-,	
-this	DEMO DET
-intermittent	JJ
-use	NN
-of	PIN STPR PREP
-'	CONT QUOT
-absent	NN
-'	CONT QUOT
-narration	NOMZ
-creates	VPRT
-an	ART DET INDA
-illusion	NOMZ
-of	PIN PREP
-objectivity	NOMZ
-and	PHC CCONJ
-detachment	NOMZ
-by	PIN PREP
-pushing	PGAS
-the	ART DET
-character	NN
-into	PIN PREP
-the	ART DET
-foreground	NN
-as	PIN CONJ PREP
-the	ART DET
-narrator	NN
-recedes	VPRT
-into	PIN PREP
-the	ART DET
-background	NN
-.	
-Due	PIN CAP PREP
-to	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-source	NN
-of	PIN PREP
-the	ART DET
-narration	NOMZ
-is	BEMA VPRT AUXB
-indistinguishable	JJ PRED
-and	ANDC CCONJ
-that	PIN DEMO SCONJ PREP
-there	EX
-are	VPRT AUXB
-not	XX0 RB
-multiple	JJ
-narrators	NN
-,	
-nor	CCONJ
-does	VPRT PROD
-the	ART DET
-narrator	NN
-have	INF
-'	CONT QUOT
-a	ART DET INDA
-distinct	JJ
-set	NN
-of	PIN PREP
-characteristics	NN
-'	CONT QUOT
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-therefore	RB CONJ
-,	
-for	PIN PREP
-a	ART DET INDA
-narrator	NN
-to	PIN TO PREP
-be	AUXB INF
-'	CONT QUOT
-opposed	PASTP
-to	PIN PREP
-another	DET
-narrator	NN
-,	
-or	CCONJ
-to	PIN PREP
-a	ART DET INDA
-character	NN
-.	
-"	QUOT
-The	ART CAP DET
-sequential	JJ
-effect	NN
-is	VPRT AUXB
-one	NUM
-which	DET WH
-underlines	VPRT
-the	ART DET
-authenticity	NOMZ
-and	PHC CCONJ
-objectivity	NOMZ
-of	PIN PREP
-the	ART DET
-text	NN
-.	
-Ginsburg	CAP NNP
-,	
-M.	CAP NNP
-P.	CAP NNP
-,	
-Flaubert	CAP NNP
-Writing	PUBV CAP NNP
--	
-A	CAP NNP
-Study	NN CAP
-in	PIN CONJ PREP
-Narrative	CAP NNP
-Strategies	CAP NNP
-(	
-California	CAP NNP
-,	
-1986	NUM
-)	
-,	
-p.	NN
-101	NUM
-Flaubert	CAP NNP
-,	
-G.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-40	NUM
-Ginsburg	CAP NNP
-,	
-M.	CAP NNP
-P.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	
-Ginsburg	CAP NNP
-,	
-M.	CAP NNP
-P.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-103	NUM
-Ibid	CAP NNP
-.	
-This	DEMO CAP DET
-style	NN
-indirect	JJ
-libre	NN
-,	
-thus	RB CONJ
-,	
-allows	VPRT SUAV
-Flaubert	CAP NNP
-to	PIN TO PREP
-move	SUAV INF
-unobtrusively	RB
-between	PIN PREP
-the	ART DET
-objective	NN
-and	CCONJ
-the	ART DET
-subjective	JJ
-and	CCONJ
-permits	VPRT
-him	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-place	INF
-stress	NN
-on	PIN PREP
-certain	JJ
-characterizations	NOMZ
-.	
-Through	PIN CAP PREP
-style	NN
-indirect	JJ
-libre	NN
-Flaubert	CAP NNP
-ensures	VPRT PRIV SUAV
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-only	DWNT RB
-see	VPRT PRIV THATD
-what	WH
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN PREP
-the	ART DET
-protagonists	NN
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-adopt	VPRT
-their	TPP3 PRP SBJP
-own	JJ
-idiom	NN
-.	
-We	FPP1 CAP PRP SBJP
-only	DWNT RB
-see	VPRT PRIV
-the	ART DET
-characters	NN
-through	PIN PREP
-what	WH
-they	TPP3 PRP SBJP
-notice	VPRT PRIV
-of	PIN PREP
-each	QUAN DET
-other	JJ
-through	PIN PREP
-what	WH
-they	TPP3 PRP SBJP
-perceive	VPRT PRIV
-of	PIN PREP
-each	QUAN DET
-other	JJ
-.	
-Another	CAP DET
-example	NN
-of	PIN PREP
-this	DEMP DET
-is	VPRT AUXB
-where	RB SCONJ WH
-Emma	CAP NNP
-'s	
-beauty	NN
-as	PIN CONJ PREP
-she	TPP3 PRP SBJP
-lies	VPRT
-in	PIN CONJ PREP
-the	ART DET
-hotel	NN
-bed	NN
-is	PASS VPRT BYPA AUXB
-appreciated	
-by	PIN PREP
-both	DET
-Léon	CAP NNP
-and	CCONJ
-the	ART DET
-narrator	NN
-:	
-'	CONT QUOT
-rien	NNP
-au	NNP
-monde	NNP
-n'était	NNP
-beau	NNP
-comme	NNP
-sa	NNP
-tête	NNP
-brune	NNP
-et	NNP
-sa	NNP
-peau	NNP
-blanche	NNP
-se	X
-détachant	VPRT
-sur	NNP
-cette	NNP
-couleur	NNP
-pourpre	NNP
-,	
-quand	NN
-,	
-par	NNP
-un	NNP
-geste	NNP
-de	NNP
-pudeur	NNP
-,	
-elle	NNP
-fermait	NNP
-ses	NNP
-deux	NNP
-bras	NNP
-nus	NNP
-,	
-en	X
-se	X
-cachant	NNP
-la	NNP
-figure	NN
-dans	NN
-les	VPRT
-mains	NN
-.	
-'	CONT QUOT
-Perhaps	RB CAP
-substantiation	NOMZ
-that	PIN TOBJ SCONJ PREP
-Flaubert	CAP NNP
-remains	VPRT
-objective	JJ
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-the	ART DET
-descriptions	NOMZ
-are	BEMA VPRT AUXB
-solely	RB
-through	PIN PREP
-the	ART DET
-eyes	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-protagonists	NN
-lies	VPRT
-in	PIN CONJ PREP
-the	ART DET
-trivial	JJ
-inconsistencies	NN
-in	PIN CONJ PREP
-the	ART DET
-novel	NN
-.	
-Emma	CAP NNP
-'s	
-eyes	NN
-are	BEMA VPRT AUXB
-such	JJ
-incongruities	NN
-;	
-'	CONT QUOT
-on	PIN PREP
-one	NUM
-occasion	NOMZ
-he	TPP3 PRP SBJP
-gives	VPRT
-Emma	CAP NNP
-brown	JJ
-eyes	NN
-;	
-on	PIN PREP
-another	DET
-deep	JJ
-black	JJ
-eyes	NN
-;	
-and	ANDC CCONJ
-,	
-on	PIN PREP
-another	DET
-,	
-blue	JJ
-eyes	NN
-.	
-Léon	CAP NNP
-...	
-is	PASS VPRT AUXB
-described	
-as	PIN CONJ PREP
-having	PGAS
-golden	JJ
-hair	NN
-;	
-and	ANDC CCONJ
-later	RB TIME
-as	PIN CONJ PREP
-having	PGAS
-chestnut	NN
-locks	NN
-.	
-'	CONT QUOT
-Flaubert	CAP NNP
-,	
-G.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-270	NUM
-Starkie	CAP NNP
-,	
-E.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-314	NUM
-Through	PIN CAP PREP
-his	TPP3 PRP SBJP
-use	NN
-of	PIN PREP
-style	NN
-indirect	JJ
-libre	NN
-Flaubert	CAP NNP
-encourages	VPRT
-the	ART DET
-reader	NN
-to	PIN TO PREP
-see	PRIV INF
-through	PIN PREP
-his	TPP3 PRP SBJP
-character	NN
-'s	
-limited	JJ
-point	NN
-of	PIN PREP
-view	NN
-and	CCONJ
-the	ART DET
-interplay	NN
-between	PIN PREP
-the	ART DET
-protagonists	NN
-deliberately	RB
-leaves	VPRT
-space	NN
-for	PIN PREP
-the	ART DET
-reader	NN
-to	PIN TO PREP
-interpret	INF
-their	TPP3 PRP SBJP
-actions	NOMZ
-.	
-This	DEMO CAP DET
-form	NN
-of	PIN PREP
-statement	NOMZ
-allows	VPRT SUAV
-a	ART DET INDA
-third	JJ
--	
-person	NN
-narrative	NN
-to	PIN TO PREP
-exploit	INF
-a	ART DET INDA
-first	JJ
-person	NN
-point	NN
-of	PIN PREP
-view	NN
-thus	RB CONJ
-facilitating	GER PGAS
-a	ART DET INDA
-multifaceted	JJ
-presentation	NOMZ
-of	PIN PREP
-character	NN
-,	
-allowing	SUAV PRESP PGAS
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-both	DET
-ironic	JJ
-and	PHC CCONJ
-empathetic	JJ
-attitudes	NN
-.	
-One	CAP NUM
-example	NN
-of	PIN PREP
-Flaubert	CAP NNP
-'s	
-use	NN
-of	PIN PREP
-style	NN
-indirect	JJ
-libre	NN
-to	PIN TO PREP
-highlight	INF
-the	ART DET
-dramatic	JJ
-irony	NN
-in	PIN CONJ PREP
-the	ART DET
-novel	NN
-is	VPRT AUXB
-Emma	CAP NNP
-'s	
-excitement	NOMZ
-when	RB WHOBJ SCONJ WH
-she	TPP3 PRP SBJP
-returns	VPRT
-home	RB
-from	PIN PREP
-the	ART DET
-forest	NN
-after	PIN PREP
-committing	GER PGAS
-adultery	NN
-with	PIN PREP
-Rodolphe	CAP NNP
-exclaiming	GER PUBV
-:	
-'	CONT QUOT
-J'ai	CAP X
-un	NNP
-amant	NNP
-!	EXCL
-Un	CAP NNP
-amant	NN
-!	EXCL
-'	CONT QUOT
-This	DEMP CAP DET
-is	PASS VPRT AUXB
-placed	
-in	PIN CONJ PREP
-direct	JJ
-discourse	NN
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-technically	RB
-true	JJ
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-passage	NN
-which	WHSUB DET WH
-follows	VPRT
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-style	NN
-indirect	JJ
-libre	NN
-:	
-'	CONT QUOT
-Elle	CAP NNP
-allait	NNP
-donc	VBD
-posséder	JJ
-enfin	NN
-ces	NN
-joies	NN
-de	NNP
-l'amour	NNP
-,	
-cette	NNP
-fièvre	NNP
-du	NNP
-bonheur	NNP
-do	VPRT SPAU
-nt	RB
-elle	INF
-avait	JJ
-désespéré	NN
-.	
-'	CONT QUOT
-Here	RB CAP
-Emma	CAP NNP
-is	BEMA VPRT AUXB
-disillusioned	JJ PRED
-and	CCONJ
-qua	NN
-reader	NN
-we	FPP1 PRP SBJP
-know	VPRT PRIV THATD
-this	DEMP DET
-and	CCONJ
-are	BEMA VPRT AUXB
-immediately	RB TIME
-aware	JJ
-of	PIN PREP
-the	ART DET
-subtle	JJ
-irony	NN
-.	
-Flaubert	CAP NNP
-,	
-G.	CAP NNP
-,	
-op	NN
-.	
-cit	NNP
-.	NNP
-,	
-p.	NN
-167	NUM
-Ibid	NN CAP
-.	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-Flaubert	CAP NNP
-uses	VPRT
-style	NN
-indirect	JJ
-libre	NN
-in	PIN CONJ PREP
-Madame	CAP NNP
-Bovary	CAP NNP
-and	CCONJ
-proves	VPRT PRIV THATD
-it	PIT PRP SBJP
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-particularly	RB
-suitable	JJ
-vehicle	NN
-for	PIN PREP
-interior	JJ
-monologues	NN
-often	RB
-verbalising	GER PGAS
-essentially	RB
-pre	JJ
--	JJ
-verbal	JJ
-sensations	NOMZ
-and	PHC CCONJ
-states	PUBV NN
-of	PIN PREP
-mind	NN
-.	
-The	ART CAP DET
-style	NN
-is	PASS VPRT SPAU AUXB
-also	RB
-used	
-to	PIN TO PREP
-highlight	INF
-the	ART DET
-irony	NN
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-found	PRIV
-in	PIN CONJ PREP
-the	ART DET
-text	NN
-and	CCONJ
-to	PIN TO SPIN PREP
-subtly	RB
-control	INF
-the	ART DET
-reader	NN
-and	CCONJ
-his	TPP3 PRP SBJP
-reading	NN
-of	PIN PREP
-the	ART DET
-text	NN
-.	
+type	content	tags
+word	Free	JJ CAP
+gap	 	
+word	indirect	JJ
+gap	 	
+word	discourse	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	style	NN
+gap	 	
+word	indirect	JJ
+gap	 	
+word	libre	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	technique	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	writers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	present	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	thoughts	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	utterances	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fictional	JJ
+gap	 	
+word	character	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	achieved	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	combining	PGAS
+gap	 	
+word	grammatical	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	features	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	character	NN
+gap	'	
+word	s	
+gap	 '	
+word	direct	JJ
+gap	 	
+word	speech	NN
+gap	' 	
+word	with	PIN PREP
+gap	 	
+word	features	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	narrator	NN
+gap	'	
+word	s	
+gap	 '	
+word	indirect	JJ
+gap	' 	
+word	report	PUBV NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	technique	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	interpret	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	protagonist	NN
+gap	'	
+word	s	
+gap	 	
+word	thoughts	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	author	NN
+gap	 	
+word	enjoys	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	seemingly	RB
+gap	 	
+word	objective	JJ
+gap	 	
+word	stance	NN
+gap	. 	
+word	Gustave	CAP NNP
+gap	 	
+word	Flaubert	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 '	
+word	pioneer	NN
+gap	' 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	style	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	novel	NN
+gap	 	
+word	Madame	CAP NNP
+gap	 	
+word	Bovary	CAP NNP
+gap	 , 	
+word	this	DEMO DET
+gap	 	
+word	technique	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	copiously	RB
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	advantage	NN
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	enjoyed	VBD
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	enabled	VBD
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	style	NN
+gap	 '	
+word	suitable	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	object	PUBV NN
+gap	, 	
+word	each	QUAN DET
+gap	 	
+word	place	NN
+gap	, 	
+word	each	QUAN DET
+gap	 	
+word	circumstance	NN
+gap	 [	
+word	and	CCONJ
+gap	] 	
+word	each	QUAN DET
+gap	 	
+word	being	NN
+gap	' 	
+word	and	ANDC CCONJ
+gap	 	
+word	permitted	VBD
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 '	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	expression	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	unexpressed	JJ
+gap	 	
+word	thoughts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	incoherent	JJ
+gap	 	
+word	people	NN
+gap	." 	
+word	This	DEMO CAP DET
+gap	 	
+word	style	NN
+gap	 	
+word	indirect	JJ
+gap	 	
+word	libre	NN
+gap	 	
+word	involves	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	narrative	NN
+gap	; 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	privation	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	preface	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	tenets	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	protagonists	NN
+gap	 	
+word	with	PIN STPR PREP
+gap	 ' 	
+word	il	NNP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	pensé	
+gap	 ' 	
+word	or	
+gap	 - 	
+word	would	
+gap	 	
+word	it	
+gap	 	
+word	be	
+gap	 	
+word	direct	
+gap	 	
+word	speech	
+gap	 - ' 	
+word	il	
+gap	 	
+word	me	
+gap	 	
+word	semble	
+gap	 ' 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	either	
+gap	 	
+word	deliberately	
+gap	 	
+word	apparent	
+gap	 	
+word	or	
+gap	 	
+word	indeterminate	
+gap	 	
+word	who	
+gap	 	
+word	the	
+gap	 	
+word	reference	
+gap	 	
+word	is	
+gap	 	
+word	made	
+gap	 	
+word	by	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	controlled	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	author	
+gap	. 	
+word	Brombert	
+gap	, 	
+word	V	
+gap	., 	
+word	The	
+gap	 	
+word	Novels	
+gap	 	
+word	of	
+gap	 	
+word	Flaubert	
+gap	: 	
+word	A	
+gap	 	
+word	Study	
+gap	 	
+word	of	
+gap	 	
+word	Themes	
+gap	 	
+word	and	
+gap	 	
+word	Techniques	
+gap	 (	
+word	New	
+gap	 	
+word	Jersey	
+gap	, 1966), 	
+word	p	
+gap	. 76 	
+word	Faguet	
+gap	, 	
+word	É	
+gap	., 	
+word	Flaubert	
+gap	 (	
+word	London	
+gap	, 1914), 	
+word	p	
+gap	. 203 	
+word	Starkie	
+gap	, 	
+word	E	
+gap	., 	
+word	Flaubert	
+gap	: 	
+word	The	
+gap	 	
+word	Making	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Master	
+gap	 (	
+word	London	
+gap	, 1967), 	
+word	p	
+gap	. 313 	
+word	The	
+gap	 	
+word	reader	
+gap	 	
+word	is	
+gap	 	
+word	often	
+gap	 	
+word	told	
+gap	 	
+word	how	
+gap	 	
+word	things	
+gap	 	
+word	are	
+gap	 	
+word	seen	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	merely	
+gap	 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	being	
+gap	 	
+word	seen	
+gap	. 	
+word	One	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	Charles	
+gap	' 	
+word	description	
+gap	 	
+word	of	
+gap	 	
+word	Emma	
+gap	 	
+word	as	
+gap	 	
+word	he	
+gap	 	
+word	frequents	
+gap	 	
+word	Rouault	
+gap	'	
+word	s	
+gap	 	
+word	farm	
+gap	; 	
+word	she	
+gap	 	
+word	offers	
+gap	 	
+word	him	
+gap	 	
+word	a	
+gap	 	
+word	drink	
+gap	. 	
+word	Flaubert	
+gap	 	
+word	uses	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	to	
+gap	 	
+word	underline	
+gap	 	
+word	the	
+gap	 	
+word	significance	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	moment	
+gap	 	
+word	to	
+gap	 	
+word	Charles	
+gap	. 	
+word	The	
+gap	 	
+word	description	
+gap	 	
+word	is	
+gap	, 	
+word	ergo	
+gap	, 	
+word	extremely	
+gap	 	
+word	detailed	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	clear	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	portrays	
+gap	 	
+word	the	
+gap	 	
+word	thoughts	
+gap	 	
+word	of	
+gap	 	
+word	Monsieur	
+gap	 	
+word	Bovary	
+gap	. 	
+word	He	
+gap	 	
+word	sees	
+gap	 	
+word	Emma	
+gap	: '[ 	
+word	qui	
+gap	 ] 	
+word	n	
+gap	'	
+word	avait	
+gap	 	
+word	point	NNP
+gap	 	
+word	de	NNP
+gap	 	
+word	fichu	NNP
+gap	, 	
+word	on	PIN PREP
+gap	 	
+word	voyait	NNP
+gap	 	
+word	sur	NNP
+gap	 	
+word	les	NNP
+gap	 	
+word	épaules	
+gap	 	
+word	nues	
+gap	 	
+word	de	
+gap	 	
+word	petites	
+gap	 	
+word	gouttes	
+gap	 	
+word	de	
+gap	 	
+word	sueur	
+gap	 ." 	
+word	Flaubert	
+gap	 	
+word	manages	
+gap	 	
+word	to	
+gap	 	
+word	describe	
+gap	 	
+word	Emma	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	highly	
+gap	 	
+word	suggestive	
+gap	 	
+word	way	
+gap	 	
+word	and	
+gap	 	
+word	yet	
+gap	 	
+word	manages	
+gap	 	
+word	to	
+gap	 	
+word	keep	
+gap	 	
+word	the	
+gap	 	
+word	semblance	
+gap	 	
+word	of	
+gap	 	
+word	objectivity	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	appears	
+gap	 	
+word	clear	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	Charles	
+gap	 	
+word	who	
+gap	 	
+word	sees	
+gap	 	
+word	Emma	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	becoming	
+gap	 	
+word	emotionally	
+gap	 	
+word	charged	
+gap	 	
+word	as	
+gap	 ' 	
+word	Elle	
+gap	 [	
+word	Emma	
+gap	] 	
+word	riait	
+gap	 	
+word	de	
+gap	 	
+word	ne	
+gap	 	
+word	rien	
+gap	 	
+word	sentir	
+gap	, 	
+word	tandis	
+gap	 	
+word	que	
+gap	 	
+word	le	
+gap	 	
+word	bout	
+gap	 	
+word	de	
+gap	 	
+word	la	
+gap	 	
+word	langue	
+gap	, 	
+word	passant	
+gap	 	
+word	entre	
+gap	 	
+word	ses	
+gap	 	
+word	dents	
+gap	 	
+word	fines	
+gap	, 	
+word	léchait	
+gap	 	
+word	à	
+gap	 	
+word	petits	
+gap	 	
+word	coups	
+gap	 	
+word	le	
+gap	 	
+word	fond	
+gap	 	
+word	du	
+gap	 	
+word	verre	
+gap	. ' 	
+word	He	
+gap	 	
+word	is	
+gap	 	
+word	realizing	
+gap	 	
+word	her	
+gap	 	
+word	strong	
+gap	 	
+word	erotic	
+gap	 	
+word	potential	
+gap	 	
+word	which	
+gap	 	
+word	will	
+gap	 '	
+word	find	
+gap	 	
+word	its	
+gap	 	
+word	first	
+gap	 	
+word	symbolic	
+gap	 	
+word	awakening	
+gap	 	
+word	during	
+gap	 	
+word	the	
+gap	 	
+word	dance	
+gap	 	
+word	ritual	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	Vaubyessard	
+gap	 	
+word	ball	
+gap	.' 	
+word	Flaubert	
+gap	, 	
+word	G	
+gap	., 	
+word	Madame	
+gap	 	
+word	Bovary	
+gap	 (	
+word	Paris	
+gap	, 1971), 	
+word	p	
+gap	. 23 	
+word	Ibid	
+gap	. 	
+word	Brombert	
+gap	, 	
+word	V	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	p	
+gap	. 46 	
+word	This	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	would	
+gap	 	
+word	initially	
+gap	 	
+word	suggest	
+gap	 	
+word	that	
+gap	 	
+word	Flaubert	
+gap	 	
+word	would	
+gap	 	
+word	sympathise	
+gap	 	
+word	with	
+gap	 	
+word	Emma	
+gap	 	
+word	as	
+gap	 	
+word	her	
+gap	 	
+word	description	
+gap	 	
+word	is	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	eyes	
+gap	 	
+word	of	
+gap	 	
+word	Charles	
+gap	 	
+word	who	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	awe	
+gap	 	
+word	of	
+gap	 	
+word	her	
+gap	. 	
+word	Flaubert	
+gap	, 	
+word	however	
+gap	, 	
+word	ensures	
+gap	 	
+word	his	
+gap	 	
+word	rigid	
+gap	 	
+word	objectivity	
+gap	 	
+word	as	
+gap	, 	
+word	later	
+gap	 	
+word	on	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	novel	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	reader	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	judge	
+gap	 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	character	
+gap	 	
+word	for	
+gap	 	
+word	himself	
+gap	 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	switches	
+gap	 	
+word	to	
+gap	 	
+word	her	
+gap	 	
+word	shared	
+gap	 	
+word	point	
+gap	 	
+word	of	
+gap	 	
+word	view	
+gap	, 	
+word	through	
+gap	 	
+word	her	
+gap	 	
+word	actions	
+gap	 	
+word	and	
+gap	 	
+word	rhetoric	
+gap	. 	
+word	The	
+gap	 	
+word	reader	
+gap	 	
+word	will	
+gap	 	
+word	see	
+gap	 	
+word	her	
+gap	 	
+word	dissatisfaction	
+gap	 	
+word	with	
+gap	 	
+word	her	
+gap	 	
+word	life	
+gap	 	
+word	and	
+gap	 	
+word	especially	
+gap	 	
+word	with	
+gap	 	
+word	Charles	
+gap	 	
+word	but	
+gap	 '	
+word	Flaubert	
+gap	'	
+word	s	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	gives	
+gap	 	
+word	a	
+gap	 	
+word	modicum	
+gap	 	
+word	of	
+gap	 	
+word	objectivity	
+gap	' 	
+word	to	
+gap	 	
+word	this	
+gap	 	
+word	lamentation	
+gap	. ' 	
+word	Charles	
+gap	 	
+word	était	
+gap	 	
+word	là	
+gap	. 	
+word	Il	
+gap	 	
+word	avait	
+gap	 	
+word	sa	
+gap	 	
+word	casquette	
+gap	 	
+word	enforcée	
+gap	 	
+word	sur	
+gap	 	
+word	ses	
+gap	 	
+word	sourcils	
+gap	...	
+word	ce	
+gap	 	
+word	qui	
+gap	 	
+word	ajoutait	
+gap	 	
+word	à	
+gap	 	
+word	son	
+gap	 	
+word	visage	
+gap	 	
+word	quelque	
+gap	 	
+word	chose	
+gap	 	
+word	de	
+gap	 	
+word	stupide	
+gap	 ' . 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	evident	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	the	
+gap	 	
+word	author	
+gap	 	
+word	who	
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	making	
+gap	 	
+word	this	
+gap	 	
+word	comment	
+gap	 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	thoughts	
+gap	. 	
+word	By	
+gap	 	
+word	adopting	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	Flaubert	
+gap	 	
+word	drops	
+gap	 	
+word	the	
+gap	 	
+word	real	
+gap	 	
+word	subject	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	sentence	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	protagonist	
+gap	'	
+word	s	
+gap	 	
+word	true	
+gap	 	
+word	thoughts	
+gap	 	
+word	are	
+gap	 	
+word	expressed	
+gap	. 	
+word	This	
+gap	 	
+word	technique	
+gap	 	
+word	also	
+gap	 	
+word	enables	
+gap	 	
+word	Flaubert	
+gap	 	
+word	to	
+gap	 	
+word	ensure	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	 	
+word	is	
+gap	 	
+word	impersonal	
+gap	 	
+word	while	
+gap	 	
+word	simultaneously	
+gap	 	
+word	conveying	
+gap	 	
+word	judgments	
+gap	 	
+word	of	
+gap	 	
+word	characters	
+gap	 	
+word	and	
+gap	 	
+word	events	
+gap	; 	
+word	as	
+gap	 '	
+word	impersonality	
+gap	 	
+word	depends	
+gap	 	
+word	not	
+gap	 	
+word	on	
+gap	 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	said	
+gap	 	
+word	but	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	no	
+gap	 	
+word	identifiable	
+gap	 	
+word	narrator	
+gap	 	
+word	speaks	
+gap	.' 	
+word	Flaubert	
+gap	, 	
+word	G	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	quoted	
+gap	 	
+word	in	
+gap	 	
+word	Culler	
+gap	, 	
+word	J	
+gap	., 	
+word	Flaubert	
+gap	: 	
+word	The	
+gap	 	
+word	Uses	
+gap	 	
+word	of	
+gap	 	
+word	Uncertainty	
+gap	 (	
+word	London	
+gap	, 1974), 	
+word	p	
+gap	. 140 	
+word	Culler	
+gap	, 	
+word	J	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	p	NN
+gap	. 110 	
+word	Style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	combines	
+gap	 	
+word	two	
+gap	 	
+word	voices	
+gap	: 	
+word	the	
+gap	 	
+word	voice	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	
+gap	 	
+word	character	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	often	
+gap	 	
+word	impossible	
+gap	 	
+word	to	
+gap	 	
+word	tell	
+gap	 	
+word	who	
+gap	 	
+word	actually	
+gap	 	
+word	is	
+gap	 	
+word	speaking	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 '	
+word	speaker	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	, 	
+word	or	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	characters	
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	both	
+gap	, 	
+word	or	
+gap	 	
+word	neither	
+gap	." 	
+word	We	
+gap	 	
+word	can	
+gap	 	
+word	see	
+gap	 	
+word	this	
+gap	 	
+word	in	
+gap	 	
+word	incidents	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	distinction	
+gap	 	
+word	between	
+gap	 	
+word	character	
+gap	 	
+word	and	
+gap	 	
+word	narrator	
+gap	 	
+word	appears	
+gap	 	
+word	to	
+gap	 	
+word	disappear	
+gap	 	
+word	completely	
+gap	; ' 	
+word	Emma	
+gap	 	
+word	fut	
+gap	 	
+word	intérieurement	
+gap	 	
+word	satisfaite	
+gap	 	
+word	de	
+gap	 	
+word	se	
+gap	 	
+word	sentir	
+gap	 	
+word	arrivée	
+gap	 	
+word	du	
+gap	 	
+word	premier	
+gap	 	
+word	coup	
+gap	 	
+word	à	
+gap	 	
+word	ce	
+gap	 	
+word	rare	
+gap	 	
+word	idéal	
+gap	 	
+word	des	
+gap	 	
+word	existences	
+gap	 	
+word	pâles	
+gap	, 	
+word	où	
+gap	 	
+word	ne	
+gap	 	
+word	parviennent	
+gap	 	
+word	jamais	
+gap	 	
+word	les	
+gap	 	
+word	coeurs	
+gap	 	
+word	médiocres	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	 	
+word	to	
+gap	 	
+word	tell	
+gap	 	
+word	here	
+gap	 	
+word	whether	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 	
+word	is	
+gap	 	
+word	quoting	
+gap	 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	thoughts	
+gap	 	
+word	or	
+gap	 	
+word	feelings	
+gap	 	
+word	or	
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	he	
+gap	 	
+word	is	
+gap	, 	
+word	in	
+gap	 	
+word	fact	
+gap	, 	
+word	expressing	
+gap	 	
+word	his	
+gap	 	
+word	own	
+gap	 	
+word	opinions	
+gap	. 	
+word	The	
+gap	 	
+word	effect	
+gap	 	
+word	this	
+gap	 	
+word	has	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	reading	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	firstly	
+gap	 - 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 - 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	can	
+gap	 	
+word	read	
+gap	 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	thoughts	
+gap	, 	
+word	feel	
+gap	 	
+word	her	
+gap	 	
+word	feelings	
+gap	, 	
+word	and	
+gap	 	
+word	appreciate	
+gap	 	
+word	her	
+gap	 	
+word	reactions	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	much	
+gap	 	
+word	greater	
+gap	 	
+word	ease	
+gap	 	
+word	as	
+gap	 	
+word	his	
+gap	 	
+word	involvement	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	 	
+word	is	
+gap	 	
+word	further	
+gap	 	
+word	enhanced	
+gap	. 	
+word	Secondly	
+gap	, 	
+word	this	
+gap	 	
+word	intermittent	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 '	
+word	absent	
+gap	' 	
+word	narration	
+gap	 	
+word	creates	
+gap	 	
+word	an	
+gap	 	
+word	illusion	
+gap	 	
+word	of	
+gap	 	
+word	objectivity	
+gap	 	
+word	and	
+gap	 	
+word	detachment	
+gap	 	
+word	by	
+gap	 	
+word	pushing	
+gap	 	
+word	the	
+gap	 	
+word	character	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	foreground	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 	
+word	recedes	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	background	
+gap	. 	
+word	Due	
+gap	 	
+word	to	
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	the	ART DET
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	narration	
+gap	 	
+word	is	
+gap	 	
+word	indistinguishable	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	multiple	
+gap	 	
+word	narrators	
+gap	, 	
+word	nor	
+gap	 	
+word	does	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	 	
+word	have	
+gap	 '	
+word	a	
+gap	 	
+word	distinct	
+gap	 	
+word	set	
+gap	 	
+word	of	
+gap	 	
+word	characteristics	
+gap	' , 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	 	
+word	therefore	
+gap	, 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	narrator	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 '	
+word	opposed	
+gap	 	
+word	to	
+gap	 	
+word	another	
+gap	 	
+word	narrator	
+gap	, 	
+word	or	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	character	
+gap	." 	
+word	The	
+gap	 	
+word	sequential	
+gap	 	
+word	effect	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	which	
+gap	 	
+word	underlines	
+gap	 	
+word	the	
+gap	 	
+word	authenticity	
+gap	 	
+word	and	
+gap	 	
+word	objectivity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	. 	
+word	Ginsburg	
+gap	, 	
+word	M	
+gap	. 	
+word	P	
+gap	., 	
+word	Flaubert	
+gap	 	
+word	Writing	
+gap	 - 	
+word	A	
+gap	 	
+word	Study	
+gap	 	
+word	in	
+gap	 	
+word	Narrative	
+gap	 	
+word	Strategies	
+gap	 (	
+word	California	
+gap	, 1986), 	
+word	p	
+gap	. 101 	
+word	Flaubert	
+gap	, 	
+word	G	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	p	
+gap	. 40 	
+word	Ginsburg	
+gap	, 	
+word	M	
+gap	. 	
+word	P	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	. 	
+word	Ginsburg	
+gap	, 	
+word	M	
+gap	. 	
+word	P	
+gap	., 	
+word	op	NN
+gap	. 	
+word	cit	NNP
+gap	., 	
+word	p	NN
+gap	. 103 	
+word	Ibid	
+gap	. 	
+word	This	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 , 	
+word	thus	
+gap	, 	
+word	allows	
+gap	 	
+word	Flaubert	
+gap	 	
+word	to	
+gap	 	
+word	move	
+gap	 	
+word	unobtrusively	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	objective	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	subjective	
+gap	 	
+word	and	
+gap	 	
+word	permits	
+gap	 	
+word	him	
+gap	 	
+word	to	
+gap	 	
+word	place	
+gap	 	
+word	stress	
+gap	 	
+word	on	
+gap	 	
+word	certain	
+gap	 	
+word	characterizations	
+gap	. 	
+word	Through	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	Flaubert	
+gap	 	
+word	ensures	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	only	
+gap	 	
+word	see	
+gap	 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	protagonists	
+gap	 	
+word	and	
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	adopt	
+gap	 	
+word	their	
+gap	 	
+word	own	
+gap	 	
+word	idiom	
+gap	. 	
+word	We	
+gap	 	
+word	only	
+gap	 	
+word	see	
+gap	 	
+word	the	
+gap	 	
+word	characters	
+gap	 	
+word	through	
+gap	 	
+word	what	
+gap	 	
+word	they	
+gap	 	
+word	notice	
+gap	 	
+word	of	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	through	
+gap	 	
+word	what	
+gap	 	
+word	they	
+gap	 	
+word	perceive	
+gap	 	
+word	of	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	. 	
+word	Another	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	where	
+gap	 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	beauty	
+gap	 	
+word	as	
+gap	 	
+word	she	
+gap	 	
+word	lies	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	hotel	
+gap	 	
+word	bed	
+gap	 	
+word	is	
+gap	 	
+word	appreciated	
+gap	 	
+word	by	
+gap	 	
+word	both	
+gap	 	
+word	Léon	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	narrator	
+gap	: ' 	
+word	rien	
+gap	 	
+word	au	
+gap	 	
+word	monde	
+gap	 	
+word	n	
+gap	'	
+word	était	
+gap	 	
+word	beau	
+gap	 	
+word	comme	
+gap	 	
+word	sa	
+gap	 	
+word	tête	
+gap	 	
+word	brune	
+gap	 	
+word	et	
+gap	 	
+word	sa	
+gap	 	
+word	peau	
+gap	 	
+word	blanche	
+gap	 	
+word	se	
+gap	 	
+word	détachant	
+gap	 	
+word	sur	
+gap	 	
+word	cette	
+gap	 	
+word	couleur	
+gap	 	
+word	pourpre	
+gap	, 	
+word	quand	
+gap	, 	
+word	par	
+gap	 	
+word	un	
+gap	 	
+word	geste	
+gap	 	
+word	de	
+gap	 	
+word	pudeur	
+gap	, 	
+word	elle	
+gap	 	
+word	fermait	
+gap	 	
+word	ses	
+gap	 	
+word	deux	
+gap	 	
+word	bras	
+gap	 	
+word	nus	
+gap	, 	
+word	en	
+gap	 	
+word	se	
+gap	 	
+word	cachant	
+gap	 	
+word	la	
+gap	 	
+word	figure	
+gap	 	
+word	dans	
+gap	 	
+word	les	
+gap	 	
+word	mains	
+gap	. ' 	
+word	Perhaps	
+gap	 	
+word	substantiation	
+gap	 	
+word	that	
+gap	 	
+word	Flaubert	
+gap	 	
+word	remains	
+gap	 	
+word	objective	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	descriptions	
+gap	 	
+word	are	
+gap	 	
+word	solely	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	eyes	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	protagonists	
+gap	 	
+word	lies	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	trivial	
+gap	 	
+word	inconsistencies	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	novel	
+gap	. 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	eyes	NN
+gap	 	
+word	are	
+gap	 	
+word	such	
+gap	 	
+word	incongruities	
+gap	; '	
+word	on	
+gap	 	
+word	one	
+gap	 	
+word	occasion	
+gap	 	
+word	he	
+gap	 	
+word	gives	
+gap	 	
+word	Emma	
+gap	 	
+word	brown	
+gap	 	
+word	eyes	
+gap	; 	
+word	on	
+gap	 	
+word	another	
+gap	 	
+word	deep	
+gap	 	
+word	black	
+gap	 	
+word	eyes	
+gap	; 	
+word	and	
+gap	, 	
+word	on	PIN PREP
+gap	 	
+word	another	
+gap	, 	
+word	blue	
+gap	 	
+word	eyes	
+gap	. 	
+word	Léon	
+gap	...	
+word	is	
+gap	 	
+word	described	
+gap	 	
+word	as	
+gap	 	
+word	having	
+gap	 	
+word	golden	
+gap	 	
+word	hair	
+gap	; 	
+word	and	
+gap	 	
+word	later	
+gap	 	
+word	as	
+gap	 	
+word	having	
+gap	 	
+word	chestnut	
+gap	 	
+word	locks	
+gap	.' 	
+word	Flaubert	
+gap	, 	
+word	G	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	p	
+gap	. 270 	
+word	Starkie	
+gap	, 	
+word	E	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	p	
+gap	. 314 	
+word	Through	
+gap	 	
+word	his	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	Flaubert	
+gap	 	
+word	encourages	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	through	
+gap	 	
+word	his	
+gap	 	
+word	character	
+gap	'	
+word	s	
+gap	 	
+word	limited	
+gap	 	
+word	point	
+gap	 	
+word	of	
+gap	 	
+word	view	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	interplay	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	protagonists	
+gap	 	
+word	deliberately	
+gap	 	
+word	leaves	
+gap	 	
+word	space	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	interpret	
+gap	 	
+word	their	
+gap	 	
+word	actions	
+gap	. 	
+word	This	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	statement	
+gap	 	
+word	allows	
+gap	 	
+word	a	
+gap	 	
+word	third	
+gap	-	
+word	person	
+gap	 	
+word	narrative	
+gap	 	
+word	to	
+gap	 	
+word	exploit	
+gap	 	
+word	a	
+gap	 	
+word	first	
+gap	 	
+word	person	
+gap	 	
+word	point	
+gap	 	
+word	of	
+gap	 	
+word	view	
+gap	 	
+word	thus	
+gap	 	
+word	facilitating	
+gap	 	
+word	a	
+gap	 	
+word	multifaceted	
+gap	 	
+word	presentation	
+gap	 	
+word	of	
+gap	 	
+word	character	
+gap	, 	
+word	allowing	
+gap	 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	of	
+gap	 	
+word	both	
+gap	 	
+word	ironic	
+gap	 	
+word	and	
+gap	 	
+word	empathetic	
+gap	 	
+word	attitudes	
+gap	. 	
+word	One	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	Flaubert	
+gap	'	
+word	s	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	to	
+gap	 	
+word	highlight	
+gap	 	
+word	the	
+gap	 	
+word	dramatic	
+gap	 	
+word	irony	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	novel	
+gap	 	
+word	is	
+gap	 	
+word	Emma	
+gap	'	
+word	s	
+gap	 	
+word	excitement	
+gap	 	
+word	when	
+gap	 	
+word	she	
+gap	 	
+word	returns	
+gap	 	
+word	home	
+gap	 	
+word	from	
+gap	 	
+word	the	ART DET
+gap	 	
+word	forest	
+gap	 	
+word	after	
+gap	 	
+word	committing	
+gap	 	
+word	adultery	
+gap	 	
+word	with	
+gap	 	
+word	Rodolphe	
+gap	 	
+word	exclaiming	
+gap	: ' 	
+word	J	
+gap	'	
+word	ai	
+gap	 	
+word	un	
+gap	 	
+word	amant	
+gap	! 	
+word	Un	
+gap	 	
+word	amant	
+gap	! ' 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	placed	
+gap	 	
+word	in	
+gap	 	
+word	direct	
+gap	 	
+word	discourse	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	technically	
+gap	 	
+word	true	
+gap	. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	passage	
+gap	 	
+word	which	
+gap	 	
+word	follows	
+gap	 	
+word	is	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 : ' 	
+word	Elle	
+gap	 	
+word	allait	
+gap	 	
+word	donc	
+gap	 	
+word	posséder	
+gap	 	
+word	enfin	
+gap	 	
+word	ces	
+gap	 	
+word	joies	
+gap	 	
+word	de	
+gap	 	
+word	l	
+gap	'	
+word	amour	
+gap	, 	
+word	cette	
+gap	 	
+word	fièvre	
+gap	 	
+word	du	
+gap	 	
+word	bonheur	
+gap	 	
+word	dont	
+gap	 	
+word	elle	
+gap	 	
+word	avait	
+gap	 	
+word	désespéré	
+gap	. ' 	
+word	Here	
+gap	 	
+word	Emma	
+gap	 	
+word	is	
+gap	 	
+word	disillusioned	
+gap	 	
+word	and	
+gap	 	
+word	qua	
+gap	 	
+word	reader	
+gap	 	
+word	we	
+gap	 	
+word	know	
+gap	 	
+word	this	
+gap	 	
+word	and	
+gap	 	
+word	are	
+gap	 	
+word	immediately	
+gap	 	
+word	aware	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	subtle	
+gap	 	
+word	irony	
+gap	. 	
+word	Flaubert	
+gap	, 	
+word	G	
+gap	., 	
+word	op	
+gap	. 	
+word	cit	
+gap	., 	
+word	p	
+gap	. 167 	
+word	Ibid	
+gap	. 	
+word	In	
+gap	 	
+word	conclusion	
+gap	 	
+word	Flaubert	
+gap	 	
+word	uses	
+gap	 	
+word	style	
+gap	 	
+word	indirect	
+gap	 	
+word	libre	
+gap	 	
+word	in	
+gap	 	
+word	Madame	
+gap	 	
+word	Bovary	
+gap	 	
+word	and	
+gap	 	
+word	proves	
+gap	 	
+word	it	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	particularly	
+gap	 	
+word	suitable	
+gap	 	
+word	vehicle	
+gap	 	
+word	for	
+gap	 	
+word	interior	
+gap	 	
+word	monologues	
+gap	 	
+word	often	
+gap	 	
+word	verbalising	
+gap	 	
+word	essentially	
+gap	 	
+word	pre	
+gap	-	
+word	verbal	
+gap	 	
+word	sensations	
+gap	 	
+word	and	
+gap	 	
+word	states	
+gap	 	
+word	of	
+gap	 	
+word	mind	
+gap	. 	
+word	The	
+gap	 	
+word	style	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	highlight	
+gap	 	
+word	the	
+gap	 	
+word	irony	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	found	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	subtly	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	and	
+gap	 	
+word	his	
+gap	 	
+word	reading	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	text	
+gap	.	

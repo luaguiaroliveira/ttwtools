@@ -1,552 +1,959 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1825.1072.txt
-token	tags
-    	
-In	PIN CONJ CAP PREP
-the	ART DET
-last	JJ
-decade	NN
-major	JJ
-attention	NOMZ
-has	VPRT PEAS
-been	PASS AUXB
-focused	
-on	PIN PREP
-developing	GER PGAS
-energy	NN
-harvesting	GER
-technologies	NN
-using	WZPRES PGAS
-new	JJ
-and	PHC CCONJ
-clean	JJ
-sources	NN
-.	
-Unfortunately	RB CAP
-,	
-these	DEMO DET
-kind	NN HDG
-of	PIN PREP
-sources	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-solar	JJ
-and	CCONJ
-wind	NN
-,	
-are	BEMA VPRT AUXB
-intermittent	JJ PRED
-and	CCONJ
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-used	
-in	PIN CONJ PREP
-conjugation	NOMZ
-with	PIN PREP
-an	ART DET INDA
-energy	NN
-storage	NN
-system	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-provide	INF
-uninterrupted	JJ
-electric	JJ
-energy	NN
-.	
-An	ART CAP DET INDA
-example	NN
-is	BEMA VPRT AUXB
-the	ART DET
-wind	NN
-farm	NN
-that	TSUB WHSUB WH
-has	VPRT
-its	PIT PRP SBJP
-highest	JJ SPADJ
-production	NOMZ
-during	PIN PREP
-the	ART DET
-night	NN
-,	
-when	RB SCONJ WH
-the	ART DET
-consumption	NOMZ
-is	BEMA VPRT AUXB
-at	PIN PREP
-its	PIT PRP SBJP
-lowest	JJ SPADJ
-need	NN
-.	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO PREP
-look	INF
-at	PIN PREP
-the	ART DET
-new	JJ
-possibility	NOMZ
-of	PIN PREP
-using	PGAS
-hybrid	JJ
-systems	NN
-(	
-lithium	NN
--	
-ion	NN
-hybrid	NN
-supercapacitor	NN
-)	
-as	PIN CONJ PREP
-energy	NN
-storage	NN
-devices	NN
-in	PIN CONJ PREP
-grid	NN
-systems	NN
-or	CCONJ
-electric	NN
-/	
-hybrid	JJ
-vehicles	NN
-instead	RB CONJ
-of	PIN PREP
-lithium	NN
--	
-ion	NN
-batteries	NN
-or	CCONJ
-supercapacitors	NN
-.	
- 	
-The	ART CAP DET
-storage	NN
-mechanism	NN
-is	BEMA VPRT AUXB
-of	PIN PREP
-great	JJ
-importance	NN
-in	PIN CONJ PREP
-an	ART DET INDA
-energy	NN
-storage	NN
-device	NN
-.	
-The	ART CAP DET
-supercapacitors	NN
-are	PASS VPRT AUXB
-known	PRIV
-as	PIN CONJ PREP
-high	JJ
-power	NN
-density	NOMZ
-system	NN
-,	
-that	DEMP DET
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-can	POMD
-charge	INF
-/	
-discharge	NN
-within	PIN PREP
-minutes	NN
-or	CCONJ
-seconds	NN
-.	
-Their	TPP3 CAP PRP SBJP
-function	NOMZ
-consists	VPRT
-on	PIN PREP
-a	ART DET INDA
-physical	JJ
-process	NN
-,	
-basically	RB
-charge	VPRT
-accumulation	NOMZ
-on	PIN PREP
-the	ART DET
-surface	NN
-of	PIN PREP
-the	ART DET
-electrode	NNP
-material	NN
-/	
-electrolyte	NN
-.	
-Unfortunately	RB CAP
-,	
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-storage	INF
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-energy	NN
-and	CCONJ
-,	
-by	PIN PREP
-so	RB
-,	
-have	VPRT PEAS
-been	PASS AUXB
-used	
-in	PIN CONJ PREP
-an	ART DET INDA
-external	JJ
-combination	NOMZ
-with	PIN PREP
-batteries	NN
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-batteries	NN
-can	POMD
-storage	INF
-almost	DWNT RB
-twenty	NUM
-times	NN
-more	JJ EMPH CMADJ
-energy	NN
-than	PIN PREP
-supercapacitors	NN
-,	
-but	CCONJ
-within	PIN PREP
-a	ART DET INDA
-larger	JJ CMADJ
-period	NN
-of	PIN PREP
-time	NN
-,	
-typically	RB
-,	
-hours	NN
-.	
-This	DEMP CAP DET
-happens	VPRT
-because	CAUS PIN SCONJ PREP
-the	ART DET
-charge	NN
-/	
-discharge	NN
-process	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-battery	NN
-consists	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-chemical	JJ
-reaction	NOMZ
-that	TSUB WHSUB WH
-occurs	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-lower	JJ CMADJ
-rate	NN
-than	PIN PREP
-physical	JJ
-processes	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-both	DET
-processes	NN
-may	POMD
-be	BEMA AUXB INF
-the	ART DET
-solution	NOMZ
-to	PIN PREP
-the	ART DET
-problem	NN
-of	PIN PREP
-developing	GER PGAS
-energy	NN
-storage	NN
-system	NN
-for	PIN PREP
-grid	NN
-and	PHC CCONJ
-electric	NN
-/	
-hybrid	NN
-vehicles	NN
-[	X
-1	NUM
-,	
-2	NUM
-]	
-.	
- 	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-well	RB
-known	PRIV
-that	PIN THVC SCONJ PREP
-no	SYNE DET
-conventional	JJ
-energy	NN
-storage	NN
-system	NN
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-work	INF
-in	PIN CONJ PREP
-a	ART DET INDA
-high	JJ
-charge	NN
-/	
-discharge	NN
-rate	NN
-and	CCONJ
-also	RB
-storage	INF
-considerable	JJ
-energy	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-last	JJ
-two	NUM
-decades	NN
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-academic	JJ
-and	CCONJ
-industry	NN
-efforts	NN
-have	VPRT PEAS
-been	PASS AUXB
-made	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-enhance	INF
-common	JJ
-devices	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-developing	GER PGAS
-new	JJ
-storage	NN
-systems	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-so	RB
--	
-called	
-,	
-lithium	NN
--	
-ion	NN
-hybrid	NN
-supercapacitor	NN
-.	
-This	DEMO CAP DET
-system	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-internal	JJ
-combination	NOMZ
-of	PIN PREP
-supercapacitors	NN
-and	CCONJ
-Li	CAP NNP
--	
-ion	NN
-batteries	NN
-and	CCONJ
-can	POMD
-have	INF
-a	ART DET INDA
-higher	JJ CMADJ
-power	NN
-density	NOMZ
-than	PIN PREP
-the	ART DET
-batteries	NN
-and	CCONJ
-a	ART DET INDA
-higher	JJ CMADJ
-energy	NN
-density	NOMZ
-than	PIN PREP
-supercapacitors	NN
-.	
-In	PIN CONJ CAP PREP
-2016	NUM
-a	ART DET INDA
-paper	NN
-was	PASS VBD AUXB
-published	
-in	PIN CONJ PREP
-the	ART DET
-most	RB EMPH SPADJ
-important	JJ
-magazine	NN
-for	PIN PREP
-the	ART DET
-chemistry	NN
-research	NN
-area	NN
-,	
-the	ART DET
-Nature	CAP NNP
-Magazine	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-paper	NN
-,	
-Gogotsi	CAP NNP
-et	NNP
-al	NNP
-presented	VBD
-information	NOMZ
-that	TSUB WHSUB WH
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-hybridization	NOMZ
-of	PIN PREP
-electrical	JJ
-energy	NN
-storage	NN
-devices	NN
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-promising	JJ PUBV
-alternative	NN
-to	PIN TO PREP
-overcome	INF
-current	JJ
-limitations	NOMZ
-and	CCONJ
-providing	PGAS
-future	JJ
-research	NN
-directions	NOMZ
-towards	PIN PREP
-the	ART DET
-next	JJ
-generation	NOMZ
-of	PIN PREP
-energy	NN
-storage	NN
-systems	NN
-[	X
-3	NUM
-]	
-.	
- 	
-The	ART CAP DET
-hybrid	JJ
-energy	NN
-storage	NN
-devices	NN
-are	PASS VPRT AUXB
-seen	PRIV
-as	PIN CONJ PREP
-the	ART DET
-future	NN
-of	PIN PREP
-portable	JJ
-electric	JJ
-energy	NN
-.	
-The	ART CAP DET
-combination	NOMZ
-of	PIN PREP
-the	ART DET
-high	JJ
-energy	NN
-–	
-from	PIN PREP
-the	ART DET
-batteries	NN
-–	
-and	ANDC CCONJ
-the	ART DET
-fast	JJ
-charge	NN
-/	
-discharge	NN
-process	NN
-–	
-of	PIN PREP
-the	ART DET
-supercapacitors	NN
-–	
-can	POMD
-make	INF
-it	PIT PRP SBJP
-possible	JJ
-to	PIN TO PREP
-use	INF
-only	DWNT RB
-one	NUM
-device	NN
-instead	RB CONJ
-of	PIN PREP
-the	ART DET
-external	JJ
-combination	NOMZ
-of	PIN PREP
-these	DEMO DET
-two	NUM
-types	NN
-of	PIN PREP
-systems	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-future	JJ
-years	NN
-we	FPP1 PRP SBJP
-may	POMD
-hear	PRIV INF
-more	JJ EMPH CMADJ
-about	PIN PREP
-these	DEMO DET
-new	JJ
-technology	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-become	VPRT
-more	RB EMPH CMADJ
-popular	JJ
-,	
-especially	RB
-in	PIN CONJ PREP
-grid	NN
-systems	NN
-and	PHC CCONJ
-electric	NN
-/	
-hybrid	JJ
-vehicles	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1825.1072>\n\n<Benefits of using high energy/power hybrid storage system for a suitable energy future>\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	last	JJ
+gap	 	
+word	decade	NN
+gap	 	
+word	major	JJ
+gap	 	
+word	attention	NOMZ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	focused	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	energy	NN
+gap	 	
+word	harvesting	GER
+gap	 	
+word	technologies	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	new	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	clean	JJ
+gap	 	
+word	sources	NN
+gap	. 	
+word	Unfortunately	RB CAP
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sources	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	solar	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	wind	NN
+gap	, 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	intermittent	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	conjugation	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	energy	NN
+gap	 	
+word	storage	NN
+gap	 	
+word	system	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	uninterrupted	JJ
+gap	 	
+word	electric	JJ
+gap	 	
+word	energy	NN
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	example	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	wind	NN
+gap	 	
+word	farm	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	has	VPRT
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	highest	JJ SPADJ
+gap	 	
+word	production	NOMZ
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	night	NN
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	consumption	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	lowest	JJ SPADJ
+gap	 	
+word	need	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	look	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	hybrid	JJ
+gap	 	
+word	systems	NN
+gap	 (	
+word	lithium	NN
+gap	-	
+word	ion	NN
+gap	 	
+word	hybrid	NN
+gap	 	
+word	supercapacitor	NN
+gap	) 	
+word	as	PIN CONJ PREP
+gap	 	
+word	energy	NN
+gap	 	
+word	storage	NN
+gap	 	
+word	devices	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	grid	NN
+gap	 	
+word	systems	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	electric	NN
+gap	/	
+word	hybrid	JJ
+gap	 	
+word	vehicles	NN
+gap	 	
+word	instead	RB CONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	lithium	NN
+gap	-	
+word	ion	NN
+gap	 	
+word	batteries	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	supercapacitors	NN
+gap	. \n	
+word	The	ART CAP DET
+gap	 	
+word	storage	NN
+gap	 	
+word	mechanism	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	great	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	energy	NN
+gap	 	
+word	storage	NN
+gap	 	
+word	device	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	supercapacitors	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	high	JJ
+gap	 	
+word	power	NN
+gap	 	
+word	density	NOMZ
+gap	 	
+word	system	NN
+gap	, 	
+word	that	DEMP DET
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	charge	INF
+gap	/	
+word	discharge	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	minutes	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	seconds	NN
+gap	. 	
+word	Their	TPP3 CAP PRP SBJP
+gap	 	
+word	function	NOMZ
+gap	 	
+word	consists	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	physical	JJ
+gap	 	
+word	process	NN
+gap	, 	
+word	basically	RB
+gap	 	
+word	charge	VPRT
+gap	 	
+word	accumulation	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	electrode	NNP
+gap	 	
+word	material	NN
+gap	/	
+word	electrolyte	NN
+gap	. 	
+word	Unfortunately	RB CAP
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	storage	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	of	
+gap	 	
+word	energy	
+gap	 	
+word	and	
+gap	, 	
+word	by	
+gap	 	
+word	so	
+gap	, 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	used	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	external	
+gap	 	
+word	combination	
+gap	 	
+word	with	
+gap	 	
+word	batteries	
+gap	. 	
+word	On	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	batteries	
+gap	 	
+word	can	
+gap	 	
+word	storage	
+gap	 	
+word	almost	
+gap	 	
+word	twenty	
+gap	 	
+word	times	
+gap	 	
+word	more	
+gap	 	
+word	energy	
+gap	 	
+word	than	
+gap	 	
+word	supercapacitors	
+gap	, 	
+word	but	
+gap	 	
+word	within	
+gap	 	
+word	a	
+gap	 	
+word	larger	
+gap	 	
+word	period	
+gap	 	
+word	of	
+gap	 	
+word	time	
+gap	, 	
+word	typically	
+gap	, 	
+word	hours	
+gap	. 	
+word	This	
+gap	 	
+word	happens	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	charge	
+gap	/	
+word	discharge	
+gap	 	
+word	process	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	battery	
+gap	 	
+word	consists	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	chemical	
+gap	 	
+word	reaction	
+gap	 	
+word	that	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	lower	
+gap	 	
+word	rate	
+gap	 	
+word	than	
+gap	 	
+word	physical	
+gap	 	
+word	processes	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	the	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	both	
+gap	 	
+word	processes	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	solution	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	 	
+word	of	
+gap	 	
+word	developing	
+gap	 	
+word	energy	
+gap	 	
+word	storage	
+gap	 	
+word	system	
+gap	 	
+word	for	
+gap	 	
+word	grid	
+gap	 	
+word	and	
+gap	 	
+word	electric	
+gap	/	
+word	hybrid	
+gap	 	
+word	vehicles	
+gap	 [1, 2].\n	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	well	
+gap	 	
+word	known	
+gap	 	
+word	that	
+gap	 	
+word	no	
+gap	 	
+word	conventional	
+gap	 	
+word	energy	
+gap	 	
+word	storage	
+gap	 	
+word	system	
+gap	 	
+word	is	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	work	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	high	
+gap	 	
+word	charge	
+gap	/	
+word	discharge	
+gap	 	
+word	rate	
+gap	 	
+word	and	
+gap	 	
+word	also	
+gap	 	
+word	storage	
+gap	 	
+word	considerable	
+gap	 	
+word	energy	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	last	
+gap	 	
+word	two	
+gap	 	
+word	decades	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	of	
+gap	 	
+word	academic	
+gap	 	
+word	and	
+gap	 	
+word	industry	
+gap	 	
+word	efforts	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	made	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	enhance	
+gap	 	
+word	common	
+gap	 	
+word	devices	
+gap	, 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	developing	
+gap	 	
+word	new	
+gap	 	
+word	storage	
+gap	 	
+word	systems	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	so	
+gap	-	
+word	called	
+gap	, 	
+word	lithium	
+gap	-	
+word	ion	
+gap	 	
+word	hybrid	
+gap	 	
+word	supercapacitor	
+gap	. 	
+word	This	
+gap	 	
+word	system	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	internal	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	supercapacitors	
+gap	 	
+word	and	
+gap	 	
+word	Li	
+gap	-	
+word	ion	
+gap	 	
+word	batteries	
+gap	 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	power	
+gap	 	
+word	density	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	batteries	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	energy	
+gap	 	
+word	density	
+gap	 	
+word	than	
+gap	 	
+word	supercapacitors	
+gap	. 	
+word	In	
+gap	 2016 	
+word	a	
+gap	 	
+word	paper	
+gap	 	
+word	was	
+gap	 	
+word	published	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	important	
+gap	 	
+word	magazine	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	chemistry	
+gap	 	
+word	research	
+gap	 	
+word	area	
+gap	, 	
+word	the	
+gap	 	
+word	Nature	
+gap	 	
+word	Magazine	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	paper	
+gap	, 	
+word	Gogotsi	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	 	
+word	presented	
+gap	 	
+word	information	
+gap	 	
+word	that	
+gap	 	
+word	shows	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	hybridization	
+gap	 	
+word	of	
+gap	 	
+word	electrical	
+gap	 	
+word	energy	
+gap	 	
+word	storage	
+gap	 	
+word	devices	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	promising	
+gap	 	
+word	alternative	
+gap	 	
+word	to	
+gap	 	
+word	overcome	
+gap	 	
+word	current	
+gap	 	
+word	limitations	
+gap	 	
+word	and	
+gap	 	
+word	providing	
+gap	 	
+word	future	
+gap	 	
+word	research	
+gap	 	
+word	directions	
+gap	 	
+word	towards	
+gap	 	
+word	the	
+gap	 	
+word	next	
+gap	 	
+word	generation	
+gap	 	
+word	of	
+gap	 	
+word	energy	
+gap	 	
+word	storage	
+gap	 	
+word	systems	
+gap	 [3]. \n	
+word	The	
+gap	 	
+word	hybrid	
+gap	 	
+word	energy	
+gap	 	
+word	storage	
+gap	 	
+word	devices	
+gap	 	
+word	are	
+gap	 	
+word	seen	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	 	
+word	of	
+gap	 	
+word	portable	
+gap	 	
+word	electric	
+gap	 	
+word	energy	
+gap	. 	
+word	The	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	high	
+gap	 	
+word	energy	
+gap	 – 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	batteries	
+gap	 – 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	fast	
+gap	 	
+word	charge	
+gap	/	
+word	discharge	
+gap	 	
+word	process	
+gap	 – 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	supercapacitors	
+gap	 – 	
+word	can	
+gap	 	
+word	make	
+gap	 	
+word	it	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	only	
+gap	 	
+word	one	
+gap	 	
+word	device	
+gap	 	
+word	instead	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	external	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	two	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	systems	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	 	
+word	years	
+gap	 	
+word	we	
+gap	 	
+word	may	
+gap	 	
+word	hear	
+gap	 	
+word	more	
+gap	 	
+word	about	
+gap	 	
+word	these	
+gap	 	
+word	new	
+gap	 	
+word	technology	
+gap	 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	become	
+gap	 	
+word	more	
+gap	 	
+word	popular	
+gap	, 	
+word	especially	
+gap	 	
+word	in	
+gap	 	
+word	grid	
+gap	 	
+word	systems	
+gap	 	
+word	and	
+gap	 	
+word	electric	
+gap	/	
+word	hybrid	
+gap	 	
+word	vehicles	
+gap	.	

@@ -1,1231 +1,2084 @@
 # filename: SS_Hospitality_Leisure_Tourism_Management_Essay_3_3101h_tx.txt
-token	tags
-Yield	NN CAP
-management	NOMZ
-is	BEMA VPRT AUXB
-the	ART DET
-process	NN
-of	PIN PREP
-maximising	GER PGAS
-revenue	NN
-by	PIN PREP
-selling	PGAS
-the	ART DET
-allocating	GER PGAS
-the	ART DET
-right	JJ
-amount	NN
-of	PIN PREP
-capacity	NOMZ
-to	PIN PREP
-the	ART DET
-right	JJ
-customer	NN
-at	PIN PREP
-the	ART DET
-right	JJ
-time	NN
-(	
-Kimes	CAP NNP
-,	
-1989	NUM
-)	
-.	
-This	DEMP CAP DET
-means	VPRT PRIV
-setting	PGAS
-prices	NN
-according	WZPRES PGAS
-to	PIN PREP
-the	ART DET
-demand	SUAV NN
-for	PIN PREP
-a	ART DET INDA
-given	
-period	NN
-.	
-In	PIN CONJ CAP PREP
-periods	NN
-of	PIN PREP
-low	JJ
-demand	SUAV NN
-,	
-customers	NN
-can	POMD
-take	INF
-advantage	NN
-of	PIN PREP
-lower	JJ CMADJ
-prices	NN
-,	
-where	RB SCONJ WH
-as	PIN CONJ PREP
-when	RB SCONJ WH
-demand	SUAV NN
-is	BEMA VPRT AUXB
-high	JJ PRED
-,	
-higher	JJ CMADJ
-prices	NN
-are	PASS VPRT AUXB
-charged	
-(	
-Ingold	CAP NNP
-,	
-McMahon	CAP NNP
--	
-Beattie	CAP NNP
-and	PHC CCONJ
-Yeoman	CAP NNP
-,	
-2000	NUM
-)	
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-has	VPRT PEAS
-been	PASS SPAU AUXB
-well	RB
-documented	
-that	PIN DEMO SCONJ PREP
-the	ART DET
-process	NN
-of	PIN PREP
-yield	NN
-management	NOMZ
-can	POMD
-be	PASS AUXB INF
-perceived	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-unfair	JJ PRED
-by	PIN PREP
-the	ART DET
-consumer	NN
-,	
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-may	POMD
-be	AUXB INF
-paying	PGAS
-a	ART DET INDA
-different	JJ
-price	NN
-to	PIN PREP
-another	DET
-consumer	NN
-.	
-Yield	NN CAP
-management	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-practice	NN
-that	TSUB WHSUB WH
-is	PASS VPRT SPAU AUXB
-fairly	RB
-widely	RB
-accepted	PRIV
-in	PIN CONJ PREP
-the	ART DET
-airline	NN
-industry	NN
-(	
-Kimes	CAP NNP
-,	
-1994	NUM
-)	
-.	
-Kimes	CAP NNP
-believes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-this	DEMP DET
-is	BEMA VPRT AUXB
-because	CAUS PIN SCONJ PREP
-the	ART DET
-practice	NN
-has	VPRT PEAS
-been	AUXB
-happening	PGAS
-for	PIN PREP
-longer	RB CMADJ
-in	PIN CONJ PREP
-the	ART DET
-airline	NN
-industry	NN
-.	
-Customers	NN CAP
-of	PIN PREP
-the	ART DET
-hotel	NN
-industry	NN
-find	VPRT PRIV THATD
-it	PIT PRP SBJP
-hard	JJ
-to	PIN TO PREP
-accept	PRIV INF
-the	ART DET
-fairness	NOMZ
-of	PIN PREP
-yield	NN
-management	NOMZ
-,	
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-often	RB
-can	POMD SPAU
-not	XX0 RB
-differentiate	INF
-the	ART DET
-products	NN
-received	WZPAST
-by	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-and	CCONJ
-others	NN
-who	WHSUB WH
-may	POMD
-be	AUXB INF
-paying	PGAS
-a	ART DET INDA
-different	JJ
-price	NN
-(	
-Kimes	CAP NNP
-,	
-1994	NUM
-)	
-.	
-When	RB CAP SCONJ WH
-consumers	NN
-pay	VPRT
-for	PIN PREP
-a	ART DET INDA
-product	NN
-,	
-they	TPP3 PRP SBJP
-have	VPRT
-a	ART DET INDA
-reference	NN
-price	NN
-for	PIN PREP
-that	DEMO DET
-product	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-price	NN
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-perceive	VPRT PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-reasonable	JJ PRED
-for	PIN PREP
-the	ART DET
-product	NN
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-receiving	PGAS
-.	
-This	DEMO CAP DET
-reference	NN
-price	NN
-is	VPRT AUXB
-either	CCONJ
-gained	
-from	PIN PREP
-previous	JJ
-experience	NN
-or	CCONJ
-what	WH
-other	JJ
-people	NN
-have	VPRT PEAS
-paid	
-for	PIN PREP
-the	ART DET
-same	JJ
-product	NN
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2003	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-hotel	NN
-,	
-a	ART DET INDA
-guest	NN
-may	POMD
-compare	INF
-their	TPP3 PRP SBJP
-room	NN
-rate	NN
-with	PIN PREP
-someone	QUPR INPR
-else	RB
-'s	
-.	
-When	RB CAP SCONJ WH
-yield	NN
-management	NOMZ
-is	PASS VPRT AUXB
-practiced	
-,	
-the	ART DET
-room	NN
-rates	NN
-that	TOBJ WHOBJ WH
-people	NN
-pay	VPRT
-may	POMD
-be	BEMA AUXB INF
-different	JJ PRED
-,	
-and	ANDC CCONJ
-so	RB
-the	ART DET
-reference	NN
-price	NN
-may	POMD
-be	PASS AUXB INF
-lowered	
-for	PIN PREP
-the	ART DET
-person	NN
-who	WHSUB WH
-paid	VBD
-more	JJ EMPH CMADJ
-,	
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-hence	RB CONJ
-perceive	VPRT PRIV
-the	ART DET
-rate	NN
-they	TPP3 PRP SBJP
-pay	VPRT
-to	PIN TO PREP
-be	BEMA AUXB INF
-unfair	JJ PRED
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2003	NUM
-)	
-.	
-Consumers	NN CAP
-consider	VPRT PRIV
-a	ART DET INDA
-price	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-fair	JJ PRED
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-feel	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-price	NN
-is	BEMA VPRT AUXB
-reasonable	JJ PRED
-,	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-the	ART DET
-firm	NN
-is	VPRT AUXB
-making	PGAS
-a	ART DET INDA
-reasonable	JJ
-profit	NN
-(	
-Kahnenan	CAP NNP
-,	
-1986	NUM
-)	
-.	
-The	ART CAP DET
-price	NN
-becomes	VPRT
-unfair	JJ
-to	PIN PREP
-the	ART DET
-consumer	NN
-when	RB WHOBJ SCONJ WH
-this	DEMO DET
-balance	NN
-shifts	NN
-in	PIN CONJ PREP
-favour	NN
-of	PIN PREP
-the	ART DET
-firm	NN
-.	
-However	RB CONJ CAP
-,	
-price	NN
-increases	NN
-can	POMD
-be	BEMA AUXB INF
-acceptable	JJ PRED
-.	
-Consumers	NN CAP
-consider	VPRT PRIV
-that	THVC DET
-price	NN
-rises	NN
-are	BEMA VPRT AUXB
-fair	JJ PRED
-when	RB SCONJ WH
-the	ART DET
-costs	NN
-increase	VPRT
-for	PIN PREP
-the	ART DET
-firm	NN
-or	CCONJ
-the	ART DET
-market	NN
-changes	NN
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2002	NUM
-)	
-.	
-Much	QUAN JJ CAP
-can	POMD
-be	PASS BYPA AUXB INF
-done	PROD
-by	PIN PREP
-firms	NN
-to	PIN TO PREP
-increase	INF
-the	ART DET
-perceived	PRIV
-fairness	NOMZ
-of	PIN PREP
-a	ART DET INDA
-yield	NN
-management	NOMZ
-system	NN
-.	
-The	ART CAP DET
-main	JJ
-way	NN
-to	PIN TO PREP
-make	INF
-the	ART DET
-system	NN
-seem	SMP INF
-fair	JJ
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-differentiate	INF
-the	ART DET
-products	NN
-in	PIN CONJ PREP
-the	ART DET
-mind	NN
-of	PIN PREP
-the	ART DET
-consumer	NN
-(	
-Kimes	CAP NNP
-,	
-1994	NUM
-and	CCONJ
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2003	NUM
-)	
-.	
-Restrictions	NOMZ CAP
-can	POMD
-be	PASS AUXB INF
-applied	
-to	PIN PREP
-the	ART DET
-hotel	NN
-rates	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-reward	INF
-those	DEMP DET
-that	DEMP WH
-can	POMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-flexible	JJ
-with	PIN PREP
-their	TPP3 PRP SBJP
-dates	NN
-,	
-by	PIN PREP
-giving	PGAS
-them	TPP3 PRP SBJP ACCU
-more	RB EMPH CMADJ
-favourable	JJ
-rates	NN
-.	
-A	ART CAP DET INDA
-study	NN
-by	PIN PREP
-Kimes	CAP NNP
-(	
-1994	NUM
-)	
-discovered	VBD PRIV
-that	PIN THVC SCONJ PREP
-consumers	NN
-felt	VBD PRIV
-that	PIN THVC SCONJ PREP
-some	QUAN DET
-restrictions	NOMZ
-were	BEMA VBD AUXB
-fair	JJ PRED
-,	
-as	OSUB RB CONJ
-long	RB
-as	PIN CONJ PREP
-sufficient	JJ
-reward	NN
-was	BEMA VBD AUXB
-available	JJ PRED
-for	PIN PREP
-the	ART DET
-restriction	NOMZ
-being	BEMA WZPRES AUXB
-in	PIN CONJ PREP
-place	NN
-.	
-An	ART CAP DET INDA
-example	NN
-of	PIN PREP
-such	JJ
-restriction	NOMZ
-would	PRMD
-be	BEMA AUXB INF
-an	ART DET INDA
-advance	JJ
-payment	NOMZ
-with	PIN PREP
-no	DET
-or	CCONJ
-limited	JJ
-refund	NN
-for	PIN PREP
-cancellations	NOMZ
-.	
-However	RB CONJ CAP
-,	
-Kimes	CAP NNP
-(	
-1994	NUM
-)	
-discovered	VBD PRIV
-that	PIN THVC SCONJ PREP
-if	COND PIN SCONJ PREP
-too	RB
-many	QUAN JJ
-restrictions	NOMZ
-were	PASS VBD AUXB
-put	
-in	PIN CONJ PREP
-place	NN
-,	
-then	RB
-they	TPP3 PRP SBJP
-would	PRMD
-be	PASS AUXB INF
-considered	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-unfair	JJ PRED
-.	
-Another	CAP DET
-way	NN
-to	PIN TO PREP
-differentiate	INF
-the	ART DET
-product	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-introduce	INF
-rate	NN
-fences	NN
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2003	NUM
-)	
-.	
-These	DEMO CAP DET
-fences	NN
-could	POMD
-include	INF
-the	ART DET
-length	NN
-of	PIN PREP
-stay	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-hotel	NN
-,	
-or	CCONJ
-how	RB SCONJ WH
-far	RB PLACE
-in	PIN CONJ PREP
-advance	NN
-the	ART DET
-room	NN
-is	PASS VPRT AUXB
-booked	
-.	
-The	ART CAP DET
-Marriott	CAP NNP
-tests	NN
-discovered	VBD PRIV
-that	PIN THVC SCONJ PREP
-87	NUM
-%	NN
-of	PIN PREP
-business	NOMZ
-and	PHC CCONJ
-leisure	NN
-travellers	NN
-felt	VBD PRIV
-that	PIN THVC SCONJ PREP
-their	TPP3 PRP SBJP
-advance	NN
-booking	NN
-and	PHC CCONJ
-purchasing	GER
-system	NN
-was	BEMA VBD AUXB
-fair	JJ PRED
-(	
-Hanks	CAP NNP
-,	
-Cross	CAP NNP
-and	PHC CCONJ
-Noland	CAP NNP
-,	
-1992	NUM
-)	
-.	
-Another	CAP DET
-way	NN
-to	PIN TO PREP
-make	INF
-the	ART DET
-price	NN
-differences	NN
-seem	VPRT SMP
-fair	JJ
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-frame	INF
-the	ART DET
-lower	JJ CMADJ
-price	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-discount	NN
-of	PIN PREP
-the	ART DET
-full	JJ
-price	NN
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2002	NUM
-)	
-.	
-During	PIN CAP PREP
-the	ART DET
-study	NN
-by	PIN PREP
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-discovered	PRIV
-that	PIN THVC SCONJ PREP
-consumers	NN
-perceived	VBD PRIV
-the	ART DET
-discount	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-fairer	JJ PRED CMADJ
-than	PIN PREP
-a	ART DET INDA
-surcharge	NN
-that	TSUB WHSUB WH
-would	PRMD
-be	PASS AUXB INF
-charged	
-in	PIN CONJ PREP
-times	NN
-of	PIN PREP
-higher	JJ CMADJ
-demand	SUAV NN
-.	
-An	ART CAP DET INDA
-example	NN
-of	PIN PREP
-this	DEMO DET
-type	NN
-of	PIN PREP
-pricing	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-'	CONT QUOT
-early	JJ TIME
-bird	NN
-'	CONT QUOT
-discount	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-restaurant	NN
-,	
-where	RB SCONJ WH
-a	ART DET INDA
-lower	JJ CMADJ
-price	NN
-is	PASS VPRT AUXB
-paid	
-if	COND PIN SCONJ PREP
-customers	NN
-eat	VPRT
-before	PIN PREP
-a	ART DET INDA
-certain	JJ
-time	NN
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2002	NUM
-)	
-.	
-Choi	CAP NNP
-and	PHC CCONJ
-Mattila	CAP NNP
-(	
-2004	NUM
-)	
-studied	VBD
-the	ART DET
-effect	NN
-that	PIN TSUB SCONJ PREP
-providing	PGAS
-information	NOMZ
-on	PIN PREP
-pricing	NN
-policies	NN
-would	PRMD
-have	INF
-on	PIN PREP
-the	ART DET
-perceived	PRIV
-fairness	NOMZ
-of	PIN PREP
-yield	NN
-management	NOMZ
-.	
-It	PIT CAP PRP SBJP
-was	PASS VBD AUXB
-discovered	PRIV
-that	PIN THVC SCONJ PREP
-consumers	NN
-were	VBD AUXB
-far	RB PLACE
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-perceive	PRIV INF
-the	ART DET
-practice	NN
-of	PIN PREP
-yield	NN
-management	NOMZ
-to	PIN TO PREP
-be	BEMA AUXB INF
-fair	JJ PRED
-if	COND PIN SCONJ PREP
-a	ART DET INDA
-full	JJ
-explanation	NOMZ
-was	PASS VBD AUXB
-given	
-for	PIN PREP
-the	ART DET
-different	JJ
-rates	NN
-,	
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-allowed	VBD SUAV
-the	ART DET
-consumer	NN
-to	PIN TO PREP
-help	INF
-themselves	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-get	INF
-a	ART DET INDA
-lower	JJ CMADJ
-rate	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-customer	NN
-was	PASS VBD SPAU AUXB
-only	DWNT RB
-given	
-the	ART DET
-information	NOMZ
-that	TOBJ WHOBJ WH
-the	ART DET
-rates	NN
-varied	VBD
-,	
-the	ART DET
-practice	NN
-was	PASS VBD SPAU AUXB
-not	XX0 RB
-deemed	PRIV
-as	PIN CONJ PREP
-fair	JJ
-,	
-as	PIN CONJ PREP
-there	EX
-was	VBD AUXB
-no	SYNE DET
-way	NN
-of	PIN PREP
-being	BEMA AUXB
-able	JJ PRED
-to	PIN TO STPR PREP
-'	CONT QUOT
-work	INF
-the	ART DET
-system	NN
-'	CONT QUOT
-to	PIN TO PREP
-get	INF
-a	ART DET INDA
-lower	JJ CMADJ
-rate	NN
-(	
-Choi	CAP NNP
-and	PHC CCONJ
-Mattila	CAP NNP
-,	
-2005	NUM
-)	
-.	
-By	PIN CAP PREP
-making	PGAS
-all	QUAN DET
-their	TPP3 PRP SBJP
-pricing	NN
-information	NOMZ
-available	JJ
-,	
-hotels	NN
-are	VPRT AUXB
-showing	PRIV PGAS
-the	ART DET
-customer	NN
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-willing	JJ PRED
-to	PIN TO PREP
-be	BEMA AUXB INF
-open	JJ PRED
-about	PIN PREP
-their	TPP3 PRP SBJP
-policies	NN
-,	
-and	ANDC CCONJ
-are	VPRT SPAU AUXB
-also	RB
-demonstrating	GER PRIV PGAS
-that	PIN THVC SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-method	NN
-behind	PIN PLACE PREP
-the	ART DET
-rates	NN
-they	TPP3 PRP SBJP
-charge	VPRT
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-not	XX0 RB
-jus	NN
-randomly	RB
-generated	
-(	
-Choi	CAP NNP
-and	PHC CCONJ
-Mattila	CAP NNP
-,	
-2005	NUM
-)	
-.	
-One	CAP NUM
-disadvantage	NN
-to	PIN PREP
-the	ART DET
-hotel	NN
-is	BEMA VPRT AUXB
-the	ART DET
-marginally	RB
-increased	
-cost	NN
-of	PIN PREP
-making	PGAS
-the	ART DET
-booking	NN
-when	RB WHOBJ SCONJ WH
-the	ART DET
-policy	NN
-is	PASS VPRT AUXB
-explained	PUBV
-to	PIN PREP
-each	QUAN DET
-customer	NN
-,	
-as	PIN CONJ PREP
-the	ART DET
-booking	NN
-phone	NN
-call	NN
-could	POMD
-take	INF
-longer	RB CMADJ
-(	
-Choi	CAP NNP
-and	PHC CCONJ
-Mattila	CAP NNP
-,	
-2005	NUM
-)	
-.	
-However	RB CONJ CAP
-,	
-Choi	CAP NNP
-and	PHC CCONJ
-Mattila	CAP NNP
-(	
-2004	NUM
-)	
-believe	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-benefits	NN
-outweigh	VPRT
-the	ART DET
-costs	NN
-as	PIN CONJ PREP
-customers	NN
-may	POMD
-be	PASS AUXB INF
-lost	
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-perceive	VPRT PRIV
-the	ART DET
-pricing	NN
-policy	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-unfair	JJ PRED
-.	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-(	
-2003	NUM
-)	
-also	RB
-suggested	VBD PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-prices	NN
-of	PIN PREP
-rooms	NN
-could	POMD
-be	AUXB INF
-"	QUOT
-bundled	
-"	QUOT
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-room	NN
-price	NN
-itself	PIT PRP SBJP ACCU
-would	PRMD
-be	BEMA AUXB INF
-indeterminable	JJ PRED
-.	
-This	DEMP CAP DET
-removes	VPRT
-the	ART DET
-issue	NN
-of	PIN PREP
-fairness	NOMZ
-for	PIN PREP
-the	ART DET
-customer	NN
-,	
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-unable	JJ PRED
-to	PIN TO PREP
-compare	INF
-the	ART DET
-room	NN
-rate	NN
-with	PIN PREP
-someone	QUPR INPR
-else	RB
-who	WH
-may	POMD
-have	PEAS INF
-paid	
-the	ART DET
-room	NN
-only	DWNT RB
-rate	NN
-.	
-However	RB CONJ CAP
-,	
-this	DEMO DET
-method	NN
-does	VPRT SPAU
-n't	XX0 CONT RB
-seem	SMP INF
-to	PIN TO PREP
-address	INF
-the	ART DET
-issue	NN
-of	PIN PREP
-how	RB SCONJ WH
-fair	JJ
-the	ART DET
-practice	NN
-is	VPRT AUXB
-.	
-Due	PIN CAP PREP
-to	PIN PREP
-the	ART DET
-extent	NN
-of	PIN PREP
-literature	NN
-on	PIN PREP
-this	DEMO DET
-subject	NN
-,	
-the	ART DET
-fairness	NOMZ
-of	PIN PREP
-yield	NN
-management	NOMZ
-clearly	RB
-worries	VPRT
-those	DEMP DET
-that	DEMP WH
-practice	VPRT
-it	PIT PRP SBJP
-.	
-However	RB CONJ CAP
-,	
-in	PIN CONJ PREP
-the	ART DET
-hotel	NN
-industry	NN
-,	
-yield	NN
-management	NOMZ
-is	VPRT AUXB
-becoming	PGAS
-more	RB EMPH CMADJ
-acceptable	JJ
-(	
-Choi	CAP NNP
-and	PHC CCONJ
-Mattila	CAP NNP
-,	
-2005	NUM
-)	
-.	
-This	DEMP CAP DET
-is	PASS VPRT BYPA AUXB
-backed	
-up	PIN PREP
-by	PIN PREP
-an	ART DET INDA
-updated	
-study	NN
-by	PIN PREP
-Kimes	CAP NNP
-(	
-2002	NUM
-)	
-.	
-Yield	NN CAP
-management	NOMZ
-can	POMD SPAU
-only	DWNT RB
-help	INF
-achieve	INF
-long	JJ
-term	NN
-profit	NN
-if	COND PIN SCONJ PREP
-the	ART DET
-consumer	NN
-perceives	VPRT PRIV
-the	ART DET
-process	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-fair	JJ PRED
-(	
-Wirtz	CAP NNP
-and	PHC CCONJ
-Kimes	CAP NNP
-,	
-2003	NUM
-)	
-.	
-Fair	NN CAP
-practices	NN
-also	RB
-have	VPRT
-a	ART DET INDA
-positive	JJ
-effect	NN
-on	PIN PREP
-the	ART DET
-service	NN
-encounter	NN
-,	
-which	SERE WHQU DET WH
-will	PRMD
-result	INF
-in	PIN CONJ PREP
-better	JJ CMADJ
-customer	NN
-satisfaction	NOMZ
-(	
-Namasivayam	CAP NNP
-and	PHC CCONJ
-Hinkin	CAP NNP
-,	
-2003	NUM
-)	
-.	
-There	EX CAP
-are	VPRT AUXB
-several	QUAN JJ
-ways	NN
-that	TOBJ WHOBJ WH
-managers	NN
-can	POMD
-make	INF
-yield	NN
-management	NOMZ
-appear	VPRT SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-fair	JJ PRED
-.	
-The	ART CAP DET
-products	NN
-can	POMD
-be	PASS AUXB INF
-differentiated	
-to	PIN TO PREP
-justify	INF
-their	TPP3 PRP SBJP
-different	JJ
-prices	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-make	INF
-the	ART DET
-pricing	NN
-policy	NN
-very	AMP RB
-clear	JJ
-to	PIN PREP
-customers	NN
-so	PIN SCONJ PREP
-they	TPP3 PRP SBJP
-can	POMD
-make	INF
-an	ART DET INDA
-informed	JJ
-choice	NN
-.	
-These	DEMO CAP DET
-methods	NN
-will	PRMD
-educate	INF
-the	ART DET
-customer	NN
-,	
-and	ANDC CCONJ
-hopefully	RB
-make	INF
-them	TPP3 PRP SBJP ACCU
-more	RB EMPH CMADJ
-accepting	PRIV PGAS
-of	PIN PREP
-yield	NN
-management	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-practice	NN
-in	PIN CONJ PREP
-the	ART DET
-hospitality	NOMZ
-industry	NN
-.	
+type	content	tags
+word	Yield	NN CAP
+gap	 	
+word	management	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	maximising	GER PGAS
+gap	 	
+word	revenue	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	selling	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	allocating	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	customer	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	time	NN
+gap	 (	
+word	Kimes	CAP NNP
+gap	, 1989). 	
+word	This	DEMP CAP DET
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	setting	PGAS
+gap	 	
+word	prices	NN
+gap	 	
+word	according	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	given	
+gap	 	
+word	period	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	periods	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	low	JJ
+gap	 	
+word	demand	SUAV NN
+gap	, 	
+word	customers	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	take	INF
+gap	 	
+word	advantage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	prices	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	high	JJ PRED
+gap	, 	
+word	higher	JJ CMADJ
+gap	 	
+word	prices	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	charged	
+gap	 (	
+word	Ingold	CAP NNP
+gap	, 	
+word	McMahon	CAP NNP
+gap	-	
+word	Beattie	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Yeoman	CAP NNP
+gap	, 2000). 	
+word	However	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	well	RB
+gap	 	
+word	documented	
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	yield	NN
+gap	 	
+word	management	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	perceived	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	unfair	JJ PRED
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	consumer	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	paying	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	different	JJ
+gap	 	
+word	price	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	another	DET
+gap	 	
+word	consumer	NN
+gap	. 	
+word	Yield	NN CAP
+gap	 	
+word	management	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	practice	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	fairly	RB
+gap	 	
+word	widely	RB
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	airline	NN
+gap	 	
+word	industry	NN
+gap	 (	
+word	Kimes	CAP NNP
+gap	, 1994). 	
+word	Kimes	CAP NNP
+gap	 	
+word	believes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	practice	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	happening	PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	longer	RB CMADJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	airline	NN
+gap	 	
+word	industry	NN
+gap	. 	
+word	Customers	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	hotel	NN
+gap	 	
+word	industry	NN
+gap	 	
+word	find	VPRT PRIV THATD
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	hard	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	accept	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	fairness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	yield	NN
+gap	 	
+word	management	NOMZ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	often	RB
+gap	 	
+word	cannot	
+gap	 	
+word	differentiate	
+gap	 	
+word	the	
+gap	 	
+word	products	
+gap	 	
+word	received	
+gap	 	
+word	by	
+gap	 	
+word	themselves	
+gap	 	
+word	and	
+gap	 	
+word	others	
+gap	 	
+word	who	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	paying	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	price	
+gap	 (	
+word	Kimes	
+gap	, 1994). 	
+word	When	
+gap	 	
+word	consumers	
+gap	 	
+word	pay	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	product	
+gap	, 	
+word	they	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	reference	
+gap	 	
+word	price	
+gap	 	
+word	for	
+gap	 	
+word	that	
+gap	 	
+word	product	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	perceive	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	reasonable	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	product	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	receiving	
+gap	. 	
+word	This	
+gap	 	
+word	reference	
+gap	 	
+word	price	
+gap	 	
+word	is	
+gap	 	
+word	either	
+gap	 	
+word	gained	
+gap	 	
+word	from	
+gap	 	
+word	previous	
+gap	 	
+word	experience	
+gap	 	
+word	or	
+gap	 	
+word	what	
+gap	 	
+word	other	
+gap	 	
+word	people	
+gap	 	
+word	have	
+gap	 	
+word	paid	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	product	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2003). 	
+word	In	
+gap	 	
+word	a	
+gap	 	
+word	hotel	
+gap	, 	
+word	a	
+gap	 	
+word	guest	
+gap	 	
+word	may	
+gap	 	
+word	compare	
+gap	 	
+word	their	
+gap	 	
+word	room	
+gap	 	
+word	rate	
+gap	 	
+word	with	
+gap	 	
+word	someone	
+gap	 	
+word	else	
+gap	'	
+word	s	
+gap	. 	
+word	When	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	is	
+gap	 	
+word	practiced	
+gap	, 	
+word	the	
+gap	 	
+word	room	
+gap	 	
+word	rates	
+gap	 	
+word	that	
+gap	 	
+word	people	
+gap	 	
+word	pay	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	different	
+gap	, 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	the	
+gap	 	
+word	reference	
+gap	 	
+word	price	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	lowered	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	person	
+gap	 	
+word	who	
+gap	 	
+word	paid	
+gap	 	
+word	more	
+gap	, 	
+word	and	
+gap	 	
+word	they	
+gap	 	
+word	hence	
+gap	 	
+word	perceive	
+gap	 	
+word	the	
+gap	 	
+word	rate	
+gap	 	
+word	they	
+gap	 	
+word	pay	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	unfair	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2003). 	
+word	Consumers	
+gap	 	
+word	consider	
+gap	 	
+word	a	
+gap	 	
+word	price	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	fair	
+gap	 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	feel	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	 	
+word	is	
+gap	 	
+word	reasonable	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	 	
+word	is	
+gap	 	
+word	making	
+gap	 	
+word	a	
+gap	 	
+word	reasonable	
+gap	 	
+word	profit	
+gap	 (	
+word	Kahnenan	
+gap	, 1986). 	
+word	The	
+gap	 	
+word	price	
+gap	 	
+word	becomes	
+gap	 	
+word	unfair	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	when	
+gap	 	
+word	this	
+gap	 	
+word	balance	
+gap	 	
+word	shifts	
+gap	 	
+word	in	
+gap	 	
+word	favour	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	. 	
+word	However	
+gap	, 	
+word	price	
+gap	 	
+word	increases	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	acceptable	
+gap	. 	
+word	Consumers	
+gap	 	
+word	consider	
+gap	 	
+word	that	
+gap	 	
+word	price	
+gap	 	
+word	rises	
+gap	 	
+word	are	
+gap	 	
+word	fair	
+gap	 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	costs	
+gap	 	
+word	increase	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	market	
+gap	 	
+word	changes	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2002). 	
+word	Much	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	done	
+gap	 	
+word	by	
+gap	 	
+word	firms	
+gap	 	
+word	to	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	perceived	
+gap	 	
+word	fairness	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	system	
+gap	. 	
+word	The	
+gap	 	
+word	main	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	 	
+word	seem	
+gap	 	
+word	fair	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	differentiate	
+gap	 	
+word	the	
+gap	 	
+word	products	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 (	
+word	Kimes	
+gap	, 1994 	
+word	and	
+gap	 	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2003). 	
+word	Restrictions	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	applied	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	hotel	
+gap	 	
+word	rates	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	reward	
+gap	 	
+word	those	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	flexible	
+gap	 	
+word	with	
+gap	 	
+word	their	
+gap	 	
+word	dates	
+gap	, 	
+word	by	
+gap	 	
+word	giving	
+gap	 	
+word	them	
+gap	 	
+word	more	
+gap	 	
+word	favourable	
+gap	 	
+word	rates	
+gap	. 	
+word	A	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Kimes	
+gap	 (1994) 	
+word	discovered	
+gap	 	
+word	that	
+gap	 	
+word	consumers	
+gap	 	
+word	felt	
+gap	 	
+word	that	
+gap	 	
+word	some	
+gap	 	
+word	restrictions	
+gap	 	
+word	were	
+gap	 	
+word	fair	
+gap	, 	
+word	as	
+gap	 	
+word	long	
+gap	 	
+word	as	
+gap	 	
+word	sufficient	
+gap	 	
+word	reward	
+gap	 	
+word	was	
+gap	 	
+word	available	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	restriction	
+gap	 	
+word	being	
+gap	 	
+word	in	
+gap	 	
+word	place	
+gap	. 	
+word	An	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	such	
+gap	 	
+word	restriction	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	an	
+gap	 	
+word	advance	
+gap	 	
+word	payment	
+gap	 	
+word	with	
+gap	 	
+word	no	
+gap	 	
+word	or	
+gap	 	
+word	limited	
+gap	 	
+word	refund	
+gap	 	
+word	for	
+gap	 	
+word	cancellations	
+gap	. 	
+word	However	
+gap	, 	
+word	Kimes	
+gap	 (1994) 	
+word	discovered	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	too	
+gap	 	
+word	many	
+gap	 	
+word	restrictions	
+gap	 	
+word	were	
+gap	 	
+word	put	
+gap	 	
+word	in	
+gap	 	
+word	place	
+gap	, 	
+word	then	
+gap	 	
+word	they	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	considered	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	unfair	
+gap	. 	
+word	Another	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	differentiate	
+gap	 	
+word	the	
+gap	 	
+word	product	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	introduce	
+gap	 	
+word	rate	
+gap	 	
+word	fences	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2003). 	
+word	These	
+gap	 	
+word	fences	
+gap	 	
+word	could	
+gap	 	
+word	include	
+gap	 	
+word	the	
+gap	 	
+word	length	
+gap	 	
+word	of	
+gap	 	
+word	stay	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	hotel	
+gap	, 	
+word	or	
+gap	 	
+word	how	
+gap	 	
+word	far	
+gap	 	
+word	in	
+gap	 	
+word	advance	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	 	
+word	is	
+gap	 	
+word	booked	
+gap	. 	
+word	The	
+gap	 	
+word	Marriott	
+gap	 	
+word	tests	
+gap	 	
+word	discovered	
+gap	 	
+word	that	
+gap	 87% 	
+word	of	
+gap	 	
+word	business	
+gap	 	
+word	and	
+gap	 	
+word	leisure	
+gap	 	
+word	travellers	
+gap	 	
+word	felt	
+gap	 	
+word	that	
+gap	 	
+word	their	
+gap	 	
+word	advance	
+gap	 	
+word	booking	
+gap	 	
+word	and	
+gap	 	
+word	purchasing	
+gap	 	
+word	system	
+gap	 	
+word	was	
+gap	 	
+word	fair	
+gap	 (	
+word	Hanks	
+gap	, 	
+word	Cross	
+gap	 	
+word	and	
+gap	 	
+word	Noland	
+gap	, 1992). 	
+word	Another	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	price	
+gap	 	
+word	differences	
+gap	 	
+word	seem	
+gap	 	
+word	fair	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	frame	
+gap	 	
+word	the	
+gap	 	
+word	lower	
+gap	 	
+word	price	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	discount	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	full	
+gap	 	
+word	price	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2002). 	
+word	During	
+gap	 	
+word	the	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	discovered	
+gap	 	
+word	that	
+gap	 	
+word	consumers	
+gap	 	
+word	perceived	
+gap	 	
+word	the	
+gap	 	
+word	discount	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	fairer	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	surcharge	
+gap	 	
+word	that	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	charged	
+gap	 	
+word	in	
+gap	 	
+word	times	
+gap	 	
+word	of	
+gap	 	
+word	higher	
+gap	 	
+word	demand	
+gap	. 	
+word	An	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	pricing	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 '	
+word	early	
+gap	 	
+word	bird	
+gap	' 	
+word	discount	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	restaurant	
+gap	, 	
+word	where	
+gap	 	
+word	a	
+gap	 	
+word	lower	
+gap	 	
+word	price	
+gap	 	
+word	is	
+gap	 	
+word	paid	
+gap	 	
+word	if	
+gap	 	
+word	customers	
+gap	 	
+word	eat	
+gap	 	
+word	before	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	time	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2002). 	
+word	Choi	
+gap	 	
+word	and	
+gap	 	
+word	Mattila	
+gap	 (2004) 	
+word	studied	
+gap	 	
+word	the	
+gap	 	
+word	effect	
+gap	 	
+word	that	
+gap	 	
+word	providing	
+gap	 	
+word	information	
+gap	 	
+word	on	
+gap	 	
+word	pricing	
+gap	 	
+word	policies	
+gap	 	
+word	would	
+gap	 	
+word	have	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	perceived	
+gap	 	
+word	fairness	
+gap	 	
+word	of	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	. 	
+word	It	
+gap	 	
+word	was	
+gap	 	
+word	discovered	
+gap	 	
+word	that	
+gap	 	
+word	consumers	
+gap	 	
+word	were	
+gap	 	
+word	far	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	perceive	
+gap	 	
+word	the	
+gap	 	
+word	practice	
+gap	 	
+word	of	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	fair	
+gap	 	
+word	if	
+gap	 	
+word	a	
+gap	 	
+word	full	
+gap	 	
+word	explanation	
+gap	 	
+word	was	
+gap	 	
+word	given	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	different	
+gap	 	
+word	rates	
+gap	, 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	allowed	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	themselves	
+gap	 	
+word	to	
+gap	 	
+word	get	
+gap	 	
+word	a	
+gap	 	
+word	lower	
+gap	 	
+word	rate	
+gap	. 	
+word	If	
+gap	 	
+word	the	
+gap	 	
+word	customer	
+gap	 	
+word	was	
+gap	 	
+word	only	
+gap	 	
+word	given	
+gap	 	
+word	the	
+gap	 	
+word	information	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	rates	
+gap	 	
+word	varied	
+gap	, 	
+word	the	
+gap	 	
+word	practice	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	deemed	
+gap	 	
+word	as	
+gap	 	
+word	fair	
+gap	, 	
+word	as	
+gap	 	
+word	there	
+gap	 	
+word	was	
+gap	 	
+word	no	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	being	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 '	
+word	work	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	' 	
+word	to	
+gap	 	
+word	get	
+gap	 	
+word	a	
+gap	 	
+word	lower	
+gap	 	
+word	rate	
+gap	 (	
+word	Choi	
+gap	 	
+word	and	
+gap	 	
+word	Mattila	
+gap	, 2005). 	
+word	By	
+gap	 	
+word	making	
+gap	 	
+word	all	
+gap	 	
+word	their	
+gap	 	
+word	pricing	
+gap	 	
+word	information	
+gap	 	
+word	available	
+gap	, 	
+word	hotels	
+gap	 	
+word	are	
+gap	 	
+word	showing	
+gap	 	
+word	the	
+gap	 	
+word	customer	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	willing	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	open	
+gap	 	
+word	about	
+gap	 	
+word	their	
+gap	 	
+word	policies	
+gap	, 	
+word	and	
+gap	 	
+word	are	
+gap	 	
+word	also	
+gap	 	
+word	demonstrating	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	method	
+gap	 	
+word	behind	
+gap	 	
+word	the	
+gap	 	
+word	rates	
+gap	 	
+word	they	
+gap	 	
+word	charge	
+gap	 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	jus	
+gap	 	
+word	randomly	
+gap	 	
+word	generated	
+gap	 (	
+word	Choi	
+gap	 	
+word	and	
+gap	 	
+word	Mattila	
+gap	, 2005). 	
+word	One	
+gap	 	
+word	disadvantage	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	hotel	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	marginally	
+gap	 	
+word	increased	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	making	
+gap	 	
+word	the	
+gap	 	
+word	booking	
+gap	 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	policy	
+gap	 	
+word	is	
+gap	 	
+word	explained	
+gap	 	
+word	to	
+gap	 	
+word	each	
+gap	 	
+word	customer	
+gap	, 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	booking	
+gap	 	
+word	phone	
+gap	 	
+word	call	
+gap	 	
+word	could	
+gap	 	
+word	take	
+gap	 	
+word	longer	
+gap	 (	
+word	Choi	
+gap	 	
+word	and	
+gap	 	
+word	Mattila	
+gap	, 2005). 	
+word	However	
+gap	, 	
+word	Choi	
+gap	 	
+word	and	
+gap	 	
+word	Mattila	
+gap	 (2004) 	
+word	believe	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	benefits	
+gap	 	
+word	outweigh	
+gap	 	
+word	the	
+gap	 	
+word	costs	
+gap	 	
+word	as	
+gap	 	
+word	customers	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	lost	
+gap	 	
+word	if	
+gap	 	
+word	they	
+gap	 	
+word	perceive	
+gap	 	
+word	the	
+gap	 	
+word	pricing	
+gap	 	
+word	policy	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	unfair	
+gap	. 	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	 (2003) 	
+word	also	
+gap	 	
+word	suggested	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	prices	
+gap	 	
+word	of	
+gap	 	
+word	rooms	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 "	
+word	bundled	
+gap	" 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	 	
+word	price	
+gap	 	
+word	itself	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	indeterminable	
+gap	. 	
+word	This	
+gap	 	
+word	removes	
+gap	 	
+word	the	
+gap	 	
+word	issue	
+gap	 	
+word	of	
+gap	 	
+word	fairness	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	customer	
+gap	, 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	unable	
+gap	 	
+word	to	
+gap	 	
+word	compare	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	 	
+word	rate	
+gap	 	
+word	with	
+gap	 	
+word	someone	
+gap	 	
+word	else	
+gap	 	
+word	who	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	paid	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	 	
+word	only	
+gap	 	
+word	rate	
+gap	. 	
+word	However	
+gap	, 	
+word	this	
+gap	 	
+word	method	
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	address	
+gap	 	
+word	the	
+gap	 	
+word	issue	
+gap	 	
+word	of	
+gap	 	
+word	how	
+gap	 	
+word	fair	
+gap	 	
+word	the	
+gap	 	
+word	practice	
+gap	 	
+word	is	
+gap	. 	
+word	Due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	extent	
+gap	 	
+word	of	
+gap	 	
+word	literature	
+gap	 	
+word	on	
+gap	 	
+word	this	
+gap	 	
+word	subject	
+gap	, 	
+word	the	
+gap	 	
+word	fairness	
+gap	 	
+word	of	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	clearly	
+gap	 	
+word	worries	
+gap	 	
+word	those	
+gap	 	
+word	that	
+gap	 	
+word	practice	
+gap	 	
+word	it	
+gap	. 	
+word	However	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	hotel	
+gap	 	
+word	industry	
+gap	, 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	is	
+gap	 	
+word	becoming	
+gap	 	
+word	more	
+gap	 	
+word	acceptable	
+gap	 (	
+word	Choi	
+gap	 	
+word	and	
+gap	 	
+word	Mattila	
+gap	, 2005). 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	backed	
+gap	 	
+word	up	
+gap	 	
+word	by	
+gap	 	
+word	an	
+gap	 	
+word	updated	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Kimes	
+gap	 (2002). 	
+word	Yield	
+gap	 	
+word	management	
+gap	 	
+word	can	
+gap	 	
+word	only	
+gap	 	
+word	help	
+gap	 	
+word	achieve	
+gap	 	
+word	long	
+gap	 	
+word	term	
+gap	 	
+word	profit	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	consumer	
+gap	 	
+word	perceives	
+gap	 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	fair	
+gap	 (	
+word	Wirtz	
+gap	 	
+word	and	
+gap	 	
+word	Kimes	
+gap	, 2003). 	
+word	Fair	
+gap	 	
+word	practices	
+gap	 	
+word	also	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	positive	
+gap	 	
+word	effect	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	service	
+gap	 	
+word	encounter	
+gap	, 	
+word	which	
+gap	 	
+word	will	
+gap	 	
+word	result	
+gap	 	
+word	in	
+gap	 	
+word	better	
+gap	 	
+word	customer	
+gap	 	
+word	satisfaction	
+gap	 (	
+word	Namasivayam	
+gap	 	
+word	and	
+gap	 	
+word	Hinkin	
+gap	, 2003). 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	several	
+gap	 	
+word	ways	
+gap	 	
+word	that	
+gap	 	
+word	managers	
+gap	 	
+word	can	
+gap	 	
+word	make	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	appear	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	fair	
+gap	. 	
+word	The	
+gap	 	
+word	products	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	differentiated	
+gap	 	
+word	to	
+gap	 	
+word	justify	
+gap	 	
+word	their	
+gap	 	
+word	different	
+gap	 	
+word	prices	
+gap	, 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	pricing	
+gap	 	
+word	policy	
+gap	 	
+word	very	
+gap	 	
+word	clear	
+gap	 	
+word	to	
+gap	 	
+word	customers	
+gap	 	
+word	so	
+gap	 	
+word	they	
+gap	 	
+word	can	
+gap	 	
+word	make	
+gap	 	
+word	an	
+gap	 	
+word	informed	
+gap	 	
+word	choice	
+gap	. 	
+word	These	
+gap	 	
+word	methods	
+gap	 	
+word	will	
+gap	 	
+word	educate	
+gap	 	
+word	the	
+gap	 	
+word	customer	
+gap	, 	
+word	and	
+gap	 	
+word	hopefully	
+gap	 	
+word	make	
+gap	 	
+word	them	
+gap	 	
+word	more	
+gap	 	
+word	accepting	
+gap	 	
+word	of	
+gap	 	
+word	yield	
+gap	 	
+word	management	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	practice	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	hospitality	
+gap	 	
+word	industry	
+gap	.	

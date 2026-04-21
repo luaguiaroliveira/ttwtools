@@ -1,1178 +1,2022 @@
 # filename: PS_Physics_Essay_3_0181b_tx.txt
-token	tags
-GM	CAP NNP
-(	
-genetically	RB
-modified	
-)	
-foods	NN
-are	BEMA VPRT AUXB
-a	ART DET INDA
-source	NN
-of	PIN PREP
-much	QUAN JJ
-controversy	NN
-in	PIN CONJ PREP
-today	TIME NN
-'s	
-world	NN
-.	
-Tales	NN CAP
-of	PIN STPR PREP
-"	QUOT
-killer	NN
-tomatoes	NN
-"	QUOT
-abound	INF
--	
-however	RB CONJ
-,	
-behind	PIN PLACE PREP
-the	ART DET
-scandal	NN
-and	PHC CCONJ
-gossip	NN
-,	
-a	ART DET INDA
-real	JJ
-threat	NN
-lurks	NN
-.	
-The	ART CAP DET
-dangers	NN
-of	PIN PREP
-GM	CAP NNP
-foods	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-mere	JJ
-gossip	NN
-;	
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-valid	JJ
-concerns	NN
-,	
-which	SERE DET WH
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-addressed	
-before	PIN PREP
-any	QUAN DET
-more	JJ EMPH CMADJ
-harm	NN
-is	PASS VPRT AUXB
-done	PROD
-.	
-To	PIN TO CAP PREP
-discuss	INF
-the	ART DET
-dangers	NN
-of	PIN PREP
-genetic	JJ
-modification	NOMZ
-,	
-first	RB
-we	FPP1 PRP SBJP
-must	NEMD
-understand	PRIV INF
-the	ART DET
-concept	NN
-of	PIN PREP
-genetics	NN
-.	
-Every	QUAN CAP DET
-living	PGAS
-thing	NN
-known	PRIV WZPAST
-to	PIN PREP
-date	NN
-is	PASS VPRT AUXB
-made	
-up	PIN PREP
-of	PIN PREP
-small	JJ
-building	NN
-blocks	NN
-,	
-known	PASTP PRIV
-as	PIN CONJ STPR PREP
-"	QUOT
-cells	NN
-"	QUOT
-.	
-These	DEMO CAP DET
-cells	NN
-contain	VPRT
-a	ART DET INDA
-genetic	JJ
-code	NN
-,	
-unique	JJ
-to	PIN PREP
-each	QUAN DET
-individual	NN
-,	
-which	SERE DET WH
-tells	VPRT
-the	ART DET
-cell	NN
-what	WH
-it	PIT PRP SBJP
-should	NEMD
-be	AUXB INF
-.	
-In	PIN CONJ CAP PREP
-essence	NN
-,	
-this	DEMO DET
-code	NN
-,	
-or	CCONJ
-"	QUOT
-DNA	CAP NNP
-"	QUOT
-,	
-is	BEMA VPRT AUXB
-the	ART DET
-biological	JJ
-description	NOMZ
-of	PIN PREP
-what	WH
-each	QUAN DET
-creature	NN
-is	VPRT AUXB
-,	
-from	PIN PREP
-human	JJ
-hair	NN
-and	PHC CCONJ
-eye	NN
-colour	NN
-,	
-right	RB
-down	RB
-to	PIN PREP
-the	ART DET
-shape	NN
-of	PIN PREP
-bacteria	NN
-.	
-Selective	JJ CAP
-breeding	NN
-,	
-the	ART DET
-process	NN
-of	PIN PREP
-selecting	PGAS
-and	PHC CCONJ
-encouraging	GER PGAS
-desirable	JJ
-traits	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-subject	JJ
-population	NOMZ
-,	
-has	VPRT PEAS
-been	PASS BYPA AUXB
-used	
-by	PIN PREP
-humankind	NN
-for	PIN PREP
-hundreds	NN
-of	PIN PREP
-years	NN
-.	
-The	ART CAP DET
-principle	NN
-behind	PIN PLACE PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-idea	NN
-that	PIN TSUB SCONJ PREP
-crossing	PGAS
-two	NUM
-parents	NN
-with	PIN PREP
-strong	JJ
-genes	NN
-leads	VPRT
-to	PIN PREP
-the	ART DET
-child	NN
-inheriting	GER WZPRES PGAS
-those	DEMO DET
-strong	JJ
-genes	NN
-.	
-If	COND PIN CAP SCONJ PREP
-one	PRP SBJP
-continues	VPRT
-to	PIN TO PREP
-match	INF
-parents	NN
-with	PIN PREP
-certain	JJ
-genes	NN
-,	
-the	ART DET
-traits	NN
-these	DEMO DET
-genes	NN
-represent	VPRT
-will	PRMD SPAU
-gradually	RB
-become	INF
-more	RB EMPH CMADJ
-pronounced	JJ PUBV SUAV
-in	PIN CONJ PREP
-the	ART DET
-offspring	NN
-.	
-This	DEMP CAP DET
-has	VPRT
-lead	NN
-to	PIN PREP
-the	ART DET
-evolution	NOMZ
-of	PIN PREP
-distinct	JJ
-types	NN
-of	PIN PREP
-animal	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-domesticated	JJ
-dog	NN
-,	
-whose	DET WH
-instincts	NN
-to	PIN TO PREP
-attack	INF
-people	NN
-and	PHC CCONJ
-livestock	NN
-have	VPRT PEAS
-been	PASS SPAU AUXB
-selectively	RB
-bred	
-out	PIN PREP
-over	PIN PREP
-generations	NOMZ
-.	
-Genetic	JJ CAP
-modification	NOMZ
-is	BEMA VPRT AUXB
-different	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-uses	VPRT
-artificial	JJ
-methods	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-specially	RB
-designed	
-viruses	NN
-,	
-to	PIN TO PREP
-introduce	INF
-the	ART DET
-desired	SUAV
-DNA	NN CAP
-directly	RB
-into	PIN PREP
-a	ART DET INDA
-subject	NN
-,	
-be	AUXB INF
-it	PIT PRP SBJP
-a	ART DET INDA
-plant	NN
-seed	NN
-,	
-or	CCONJ
-a	ART DET INDA
-living	PGAS
-animal	NN
-.	
-Nor	CAP CCONJ
-does	VPRT PROD
-this	DEMO DET
-DNA	NN CAP
-have	INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-gene	NN
-the	ART DET
-subject	NN
-could	POMD SPAU
-usually	RB
-carry	INF
-.	
-Genetic	JJ CAP
-modification	NOMZ
-has	VPRT PEAS
-created	
-goats	NN
-which	WHSUB DET WH
-produce	VPRT
-spider	NN
-silk	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-milk	NN
-(	
-more	RB EMPH CMADJ
-at	PIN STPR PREP
-)	
-,	
-and	ANDC CCONJ
-pets	NN
-which	WHSUB DET WH
-glow	VPRT
-under	PIN PREP
-UV	NN CAP
-light	NN
-(	
-more	RB EMPH CMADJ
-at	PIN STPR PREP
-)	
-.	
-These	DEMO CAP DET
-unnatural	JJ
-combinations	NOMZ
-show	VPRT PRIV
-the	ART DET
-potential	NN
-of	PIN PREP
-genetic	JJ
-modification	NOMZ
-,	
-for	PIN PREP
-good	JJ
-,	
-or	CCONJ
-for	PIN PREP
-harm	NN
-.	
-The	ART CAP DET
-potential	JJ
-benefits	NN
-of	PIN PREP
-genetic	JJ
-modification	NOMZ
-are	BEMA VPRT AUXB
-great	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-holds	VPRT PRIV
-the	ART DET
-possibility	NOMZ
-to	PIN TO PREP
-revolutionise	INF
-the	ART DET
-agricultural	JJ
-industry	NN
-,	
-through	PIN PREP
-pest	NN
--	
-resistant	JJ
-plants	NN
-,	
-abundantly	RB
-fertile	JJ
-and	PHC CCONJ
-hardy	JJ
-crops	NN
-,	
-and	ANDC CCONJ
-even	RB
-meat	NN
--	
-flavoured	
-vegetables	NN
-.	
-However	RB CONJ CAP
-,	
-these	DEMO DET
-benefits	NN
-may	POMD
-be	PASS BYPA SPAU AUXB INF
-far	RB PLACE
-outweighed	
-by	PIN PREP
-the	ART DET
-potential	JJ
-threats	NN
-of	PIN PREP
-GM	CAP NNP
-foods	NN
-.	
-The	ART CAP DET
-process	NN
-by	PIN PREP
-which	PIRE DET WH
-most	JJ EMPH SPADJ
-plants	NN
-reproduce	VPRT
-is	PASS VPRT AUXB
-termed	
-"	QUOT
-pollination	NOMZ
-"	QUOT
-.	
-It	PIT CAP PRP SBJP
-involves	VPRT
-the	ART DET
-DNA	NN CAP
-of	PIN PREP
-a	ART DET INDA
-plant	NN
-,	
-contained	PASTP
-in	PIN CONJ PREP
-small	JJ
-cells	NN
-called	
-"	QUOT
-pollen	NN
-"	QUOT
-.	
-Each	QUAN CAP DET
-grain	NN
-of	PIN PREP
-pollen	NN
-contains	VPRT
-randomly	RB
-selected	
-DNA	NN CAP
-,	
-totalling	PGAS
-half	NN
-of	PIN PREP
-the	ART DET
-DNA	NN CAP
-of	PIN PREP
-the	ART DET
-original	JJ
-plant	NN
-.	
-These	DEMO CAP DET
-cells	NN
-,	
-scattered	PASTP
-to	PIN PREP
-the	ART DET
-winds	NN
-,	
-or	CCONJ
-communicated	
-by	PIN PREP
-insects	NN
-,	
-land	NN
-on	PIN PREP
-specialised	JJ
-parts	NN
-of	PIN PREP
-other	JJ
-plants	NN
-,	
-and	ANDC CCONJ
-allow	SUAV INF
-the	ART DET
-mixing	NN
-of	PIN PREP
-genes	NN
-of	PIN PREP
-the	ART DET
-two	NUM
-plants	NN
--	
-half	NN
-from	PIN PREP
-the	ART DET
-pollen	NN
-of	PIN PREP
-one	NUM
-plant	NN
-,	
-half	NN
-from	PIN PREP
-the	ART DET
-recipient	NN
-plant	NN
-.	
-The	ART CAP DET
-offspring	NN
-created	WZPAST
-thus	RB CONJ
-has	VPRT
-genes	NN
-,	
-and	ANDC CCONJ
-therefore	RB CONJ
-traits	NN
-,	
-of	PIN PREP
-both	DET
-of	PIN PREP
-the	ART DET
-parent	NN
-plants	NN
-.	
-However	RB CONJ CAP
-,	
-GM	CAP NNP
-crops	NN
-contain	VPRT
-DNA	CAP NNP
-not	XX0 RB
-normally	RB
-found	PRIV
-in	PIN CONJ PREP
-such	EMPH DET
-a	ART DET INDA
-plant	NN
-.	
-If	COND PIN CAP SCONJ PREP
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-allowed	SUAV
-to	PIN TO PREP
-pollinate	INF
-other	JJ
-crops	NN
-(	
-by	PIN PREP
-the	ART DET
-nature	NN
-of	PIN PREP
-pollination	NOMZ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-prevent	INF
-them	TPP3 PRP SBJP ACCU
-from	PIN PREP
-doing	PROD PGAS
-so	RB
-)	
-,	
-those	DEMO DET
-genes	NN
-could	POMD
-spread	INF
-to	PIN PREP
-the	ART DET
-crop	NN
-population	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-.	
-Should	NEMD CAP
-the	ART DET
-gene	NN
-be	BEMA AUXB INF
-harmful	JJ PRED
-,	
-to	PIN PREP
-the	ART DET
-plant	NN
-or	CCONJ
-indeed	RB
-to	PIN PREP
-humans	NN
-,	
-the	ART DET
-damage	NN
-this	DEMP DET
-would	PRMD
-cause	INF
-is	VPRT AUXB
-indeed	RB
-reason	PRIV NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-cautious	JJ PRED
-.	
-This	DEMO CAP DET
-problem	NN
-can	POMD
-be	PASS AUXB INF
-managed	
-,	
-albeit	PIN SCONJ PREP
-with	PIN PREP
-difficulty	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-to	PIN TO PREP
-minimise	INF
-the	ART DET
-risks	NN
-of	PIN PREP
-contamination	NOMZ
-.	
-Other	JJ CAP
-risks	NN
-posed	WZPAST
-by	PIN PREP
-GM	CAP NNP
-foods	NN
-are	VPRT AUXB
-not	XX0 RB
-so	RB
-easily	RB
-dealt	
-with	PIN STPR PREP
-,	
-however	RB CONJ
-.	
-The	ART CAP DET
-world	NN
-of	PIN PREP
-nature	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-complex	JJ
-one	NN
-,	
-such	JJ OSUB
-that	PIN THAC SCONJ PREP
-no	DET
--	
-one	NN
-in	PIN CONJ PREP
-current	JJ
-society	NN
-can	POMD
-claim	PUBV INF
-to	PIN TO SPIN PREP
-truly	RB
-understand	PRIV INF
-how	RB WHCL SCONJ WH
-nature	NN
-,	
-in	PIN CONJ PREP
-all	QUAN DET
-its	PIT PRP SBJP
-glory	NN
-,	
-works	VPRT
-.	
-As	PIN CONJ CAP PREP
-such	JJ
-,	
-interfering	GER PGAS
-with	PIN PREP
-the	ART DET
-natural	JJ
-order	SUAV NN
-of	PIN PREP
-things	NN
-can	POMD SPAU
-potentially	RB
-cause	INF
-havoc	NN
-in	PIN CONJ PREP
-the	ART DET
-living	PGAS
-world	NN
-.	
-The	ART CAP DET
-introduction	NOMZ
-of	PIN PREP
-rabbits	NN
-to	PIN PREP
-Australia	CAP NNP
-,	
-in	PIN CONJ PREP
-1859	NUM
-,	
-forever	RB
-changed	VBD
-the	ART DET
-natural	JJ
-balance	NN
-of	PIN PREP
-the	ART DET
-continent	NN
-.	
-Rabbits	NN CAP
-have	VPRT PEAS
-been	AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-major	JJ
-causes	NN
-of	PIN PREP
-extinction	NOMZ
-in	PIN CONJ PREP
-Australia	CAP NNP
-(	
-12	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-native	JJ
-mammal	JJ
-species	NN
-are	BEMA VPRT AUXB
-now	RB TIME
-extinct	JJ
-)	
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-causing	PGAS
-widespread	JJ
-damage	NN
-to	PIN TO PREP
-plant	INF
-life	NN
-in	PIN CONJ PREP
-the	ART DET
-area	NN
-.	
-If	COND PIN CAP SCONJ PREP
-something	QUPR INPR
-so	RB
-seemingly	RB
-benign	JJ
-could	POMD
-cause	INF
-such	JJ
-harm	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-,	
-what	WH
-untold	JJ
-destruction	NOMZ
-could	POMD
-genetic	JJ
-modification	NOMZ
-unleash	NN
-?	QUES
-Scientists	NN CAP
-have	VPRT
-only	DWNT RB
-a	ART DET INDA
-limited	JJ
-understanding	GER PRIV
-of	PIN PREP
-the	ART DET
-specifics	NN
-of	PIN PREP
-various	JJ
-genes	NN
--	
-the	ART DET
-use	NN
-of	PIN PREP
-such	JJ
-unknown	JJ
-quantities	NN
-in	PIN CONJ PREP
-foodstuffs	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-release	NN
-of	PIN PREP
-these	DEMO DET
-potential	JJ
-contaminants	NN
-into	PIN PREP
-the	ART DET
-environment	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-,	
-is	BEMA VPRT AUXB
-risky	JJ PRED
-at	PIN PREP
-best	RB SPADJ
-.	
-Even	RB CAP
-with	PIN PREP
-control	NN
-measures	NN
-in	PIN CONJ PREP
-effect	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-still	RB
-possible	JJ
-for	PIN PREP
-contamination	NOMZ
-of	PIN PREP
-the	ART DET
-environment	NOMZ
-to	PIN TO PREP
-occur	INF
-.	
-Pollen	CAP NNP
-can	POMD
-be	PASS AUXB INF
-contained	
-with	PIN PREP
-difficulty	NN
-,	
-however	RB CONJ
-other	JJ
-avenues	NN
-of	PIN PREP
-transmission	NOMZ
-are	BEMA VPRT AUXB
-possible	JJ PRED
-.	
-Nature	NN CAP
-is	BEMA VPRT AUXB
-astoundingly	RB
-adaptable	JJ
-,	
-to	PIN PREP
-the	ART DET
-point	NN
-where	RB WHOBJ SCONJ WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-for	PIN PREP
-genes	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-transferred	
-between	PIN PREP
-species	NN
-.	
-This	DEMO CAP DET
-process	NN
-,	
-known	PASTP PRIV
-as	PIN CONJ STPR PREP
-"	QUOT
-horizontal	JJ
-gene	NN
-transfer	NN
-"	QUOT
-,	
-makes	VPRT
-a	ART DET INDA
-truly	RB
-worrying	JJ
-case	NN
-against	PIN PREP
-genetically	RB
-modified	
-crops	NN
-.	
-Horizontal	JJ CAP
-gene	NN
-transfer	NN
-does	VPRT SPAU
-not	XX0 RB
-require	SUAV INF
-pollen	NN
-to	PIN TO PREP
-contaminate	INF
-other	JJ
-plants	NN
--	
-in	PIN CONJ PREP
-fact	NN
-there	EX
-are	VPRT AUXB
-three	NUM
-different	JJ
-ways	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-the	ART DET
-transfer	NN
-can	POMD
-occur	INF
-.	
-One	CAP PRP SBJP
-requires	VPRT SUAV
-physical	JJ
-contact	NN
-between	PIN PREP
-the	ART DET
-GM	CAP NNP
-plant	NN
-and	CCONJ
-another	DET
-plant	NN
-,	
-however	RB CONJ
-no	SYNE DET
-such	JJ
-limit	NN
-exists	VPRT
-for	PIN PREP
-the	ART DET
-other	JJ
-methods	NN
-.	
-The	ART CAP DET
-combination	NOMZ
-of	PIN PREP
-these	DEMO DET
-three	NUM
-avenues	NN
-holds	VPRT PRIV
-the	ART DET
-potential	NN
-for	PIN PREP
-a	ART DET INDA
-gene	NN
-to	PIN TO PREP
-travel	INF
-from	PIN PREP
-a	ART DET INDA
-GM	CAP NNP
-plant	NN
-,	
-through	PIN PREP
-bacteria	NN
-,	
-viruses	NN
-,	
-other	JJ
-plants	NN
-,	
-and	ANDC CCONJ
-animals	NN
-,	
-even	RB
-to	PIN PREP
-humans	NN
-.	
-Needless	JJ CAP
-to	PIN TO PREP
-say	PUBV INF
-,	
-this	DEMP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-grave	JJ
-threat	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-.	
-Should	NEMD CAP
-the	ART DET
-wrong	JJ
-gene	NN
-"	QUOT
-escape	INF
-"	QUOT
-into	PIN PREP
-the	ART DET
-environment	NOMZ
-,	
-the	ART DET
-ecosystem	NN
-of	PIN PREP
-the	ART DET
-local	JJ
-area	NN
-,	
-and	ANDC CCONJ
-potentially	RB
-that	DEMO DET
-of	PIN PREP
-the	ART DET
-entire	JJ
-planet	NN
-,	
-could	POMD
-be	PASS SPAU AUXB INF
-irrevocably	RB
-altered	
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-concern	NN
-from	PIN PREP
-both	CCONJ
-the	ART DET
-biological	JJ
-and	PHC CCONJ
-ethical	JJ
-points	NN
-of	PIN PREP
-view	NN
--	
-What	WHQU CAP WH
-would	PRMD
-the	ART DET
-consequences	NN
-of	PIN PREP
-such	JJ
-changes	NN
-be	VPRT
-?	QUES
-Do	VPRT CAP
-we	FPP1 PRP SBJP
-have	INF
-the	ART DET
-right	NN
-to	PIN TO STPR PREP
-"	QUOT
-rebuild	INF
-"	QUOT
-Mother	CAP NNP
-Nature	CAP NNP
-?	QUES
-In	PIN CONJ CAP PREP
-the	ART DET
-worst	JJ SPADJ
-case	NN
-,	
-what	WHQU DET WH
-effects	NN
-would	PRMD
-a	ART DET INDA
-rogue	JJ
-gene	NN
-have	VPRT
-if	COND PIN SCONJ PREP
-passed	
-to	PIN TO PREP
-humankind	INF
-?	QUES
-All	QUAN CAP DET
-of	PIN PREP
-the	ART DET
-scenarios	NN
-above	RB PLACE
-are	VPRT AUXB
-conjecture	PRIV NN
--	
-in	PIN CONJ PREP
-truth	NN
-,	
-no	DET
--	
-one	NN
-knows	VPRT PRIV THATD
-what	WH
-may	POMD
-or	CCONJ
-will	PRMD
-happen	INF
-if	COND PIN SCONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-GM	CAP NNP
-foods	NN
-continues	VPRT
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-risks	NN
-associated	WZPAST
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-this	DEMO DET
-technology	NN
-are	BEMA VPRT AUXB
-sufficiently	RB
-great	JJ
-to	PIN TO PREP
-warrant	INF
-further	JJ
-consideration	NOMZ
-as	PIN CONJ PREP
-to	PIN PREP
-the	ART DET
-future	NN
-of	PIN PREP
-GM	CAP NNP
-technology	NN
-.	
-We	FPP1 CAP PRP SBJP
-only	DWNT RB
-have	VPRT
-one	NUM
-planet	NN
-;	
-neither	SYNE CCONJ
-science	NN
-nor	SYNE CCONJ
-technology	NN
-is	BEMA VPRT AUXB
-advanced	JJ PRED
-enough	RB
-to	PIN TO PREP
-replace	INF
-or	CCONJ
-repair	INF
-it	PIT PRP SBJP
-should	NEMD
-we	FPP1 PRP SBJP
-inadvertently	RB
-damage	INF
-the	ART DET
-natural	JJ
-balance	NN
-of	PIN PREP
-the	ART DET
-ecology	NN
-.	
-GM	CAP NNP
-foods	NN
-are	BEMA VPRT AUXB
-an	ART DET INDA
-unnecessary	JJ
-threat	NN
-to	PIN PREP
-the	ART DET
-stability	NOMZ
-of	PIN PREP
-Nature	CAP NNP
-;	
-to	PIN TO PREP
-preserve	INF
-our	FPP1 PRP SBJP
-ecology	NN
-the	ART DET
-use	NN
-of	PIN PREP
-GM	CAP NNP
-technology	NN
-must	NEMD
-be	PASS AUXB INF
-reconsidered	
-.	
+type	content	tags
+word	GM	CAP NNP
+gap	 (	
+word	genetically	RB
+gap	 	
+word	modified	
+gap	) 	
+word	foods	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	source	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	controversy	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	today	TIME NN
+gap	'	
+word	s	
+gap	 	
+word	world	NN
+gap	. 	
+word	Tales	NN CAP
+gap	 	
+word	of	PIN STPR PREP
+gap	 "	
+word	killer	NN
+gap	 	
+word	tomatoes	NN
+gap	" 	
+word	abound	INF
+gap	 - 	
+word	however	RB CONJ
+gap	, 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scandal	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	gossip	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	real	JJ
+gap	 	
+word	threat	NN
+gap	 	
+word	lurks	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	dangers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	foods	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	mere	JJ
+gap	 	
+word	gossip	NN
+gap	; 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	valid	JJ
+gap	 	
+word	concerns	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	addressed	
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	harm	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	done	PROD
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	discuss	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	dangers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genetic	JJ
+gap	 	
+word	modification	NOMZ
+gap	, 	
+word	first	RB
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genetics	NN
+gap	. 	
+word	Every	QUAN CAP DET
+gap	 	
+word	living	PGAS
+gap	 	
+word	thing	NN
+gap	 	
+word	known	PRIV WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	date	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	made	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	small	JJ
+gap	 	
+word	building	NN
+gap	 	
+word	blocks	NN
+gap	, 	
+word	known	PASTP PRIV
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 "	
+word	cells	NN
+gap	". 	
+word	These	DEMO CAP DET
+gap	 	
+word	cells	NN
+gap	 	
+word	contain	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	genetic	JJ
+gap	 	
+word	code	NN
+gap	, 	
+word	unique	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	individual	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	tells	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	cell	NN
+gap	 	
+word	what	WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	AUXB INF
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	essence	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	code	NN
+gap	, 	
+word	or	CCONJ
+gap	 "	
+word	DNA	CAP NNP
+gap	", 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	biological	JJ
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	creature	NN
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	hair	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	eye	NN
+gap	 	
+word	colour	NN
+gap	, 	
+word	right	RB
+gap	 	
+word	down	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	shape	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	bacteria	NN
+gap	. 	
+word	Selective	JJ CAP
+gap	 	
+word	breeding	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	selecting	PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	encouraging	GER PGAS
+gap	 	
+word	desirable	JJ
+gap	 	
+word	traits	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	subject	JJ
+gap	 	
+word	population	NOMZ
+gap	, 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS BYPA AUXB
+gap	 	
+word	used	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	humankind	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	hundreds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	years	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	principle	NN
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	that	PIN TSUB SCONJ PREP
+gap	 	
+word	crossing	PGAS
+gap	 	
+word	two	NUM
+gap	 	
+word	parents	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	strong	JJ
+gap	 	
+word	genes	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	child	NN
+gap	 	
+word	inheriting	GER WZPRES PGAS
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	strong	JJ
+gap	 	
+word	genes	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	one	PRP SBJP
+gap	 	
+word	continues	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	match	INF
+gap	 	
+word	parents	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	genes	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	traits	NN
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	genes	NN
+gap	 	
+word	represent	VPRT
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	gradually	RB
+gap	 	
+word	become	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	pronounced	JJ PUBV SUAV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	offspring	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	has	VPRT
+gap	 	
+word	lead	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	evolution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	distinct	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	animal	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	domesticated	JJ
+gap	 	
+word	dog	NN
+gap	, 	
+word	whose	DET WH
+gap	 	
+word	instincts	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	attack	INF
+gap	 	
+word	people	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	livestock	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	selectively	RB
+gap	 	
+word	bred	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	generations	NOMZ
+gap	. 	
+word	Genetic	JJ CAP
+gap	 	
+word	modification	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	different	JJ PRED
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	uses	VPRT
+gap	 	
+word	artificial	JJ
+gap	 	
+word	methods	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	specially	RB
+gap	 	
+word	designed	
+gap	 	
+word	viruses	NN
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	introduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	desired	SUAV
+gap	 	
+word	DNA	NN CAP
+gap	 	
+word	directly	RB
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	subject	NN
+gap	, 	
+word	be	AUXB INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	plant	NN
+gap	 	
+word	seed	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	living	PGAS
+gap	 	
+word	animal	NN
+gap	. 	
+word	Nor	CAP CCONJ
+gap	 	
+word	does	VPRT PROD
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	DNA	NN CAP
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	gene	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	subject	NN
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	usually	RB
+gap	 	
+word	carry	INF
+gap	. 	
+word	Genetic	JJ CAP
+gap	 	
+word	modification	NOMZ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	created	
+gap	 	
+word	goats	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	produce	VPRT
+gap	 	
+word	spider	NN
+gap	 	
+word	silk	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	milk	NN
+gap	 (	
+word	more	RB EMPH CMADJ
+gap	 	
+word	at	PIN STPR PREP
+gap	 ), 	
+word	and	ANDC CCONJ
+gap	 	
+word	pets	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	glow	VPRT
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	UV	NN CAP
+gap	 	
+word	light	NN
+gap	 (	
+word	more	RB EMPH CMADJ
+gap	 	
+word	at	PIN STPR PREP
+gap	 ). 	
+word	These	DEMO CAP DET
+gap	 	
+word	unnatural	JJ
+gap	 	
+word	combinations	NOMZ
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	potential	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genetic	JJ
+gap	 	
+word	modification	NOMZ
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	good	JJ
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	harm	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	potential	JJ
+gap	 	
+word	benefits	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genetic	JJ
+gap	 	
+word	modification	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	great	JJ PRED
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	holds	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	revolutionise	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	agricultural	JJ
+gap	 	
+word	industry	NN
+gap	, 	
+word	through	PIN PREP
+gap	 	
+word	pest	NN
+gap	-	
+word	resistant	JJ
+gap	 	
+word	plants	NN
+gap	, 	
+word	abundantly	RB
+gap	 	
+word	fertile	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	hardy	JJ
+gap	 	
+word	crops	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	meat	NN
+gap	-	
+word	flavoured	
+gap	 	
+word	vegetables	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS BYPA SPAU AUXB INF
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	outweighed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	potential	JJ
+gap	 	
+word	threats	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	foods	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	process	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	plants	NN
+gap	 	
+word	reproduce	VPRT
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	termed	
+gap	 "	
+word	pollination	NOMZ
+gap	". 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	involves	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	DNA	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	plant	NN
+gap	, 	
+word	contained	PASTP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	small	JJ
+gap	 	
+word	cells	NN
+gap	 	
+word	called	
+gap	 "	
+word	pollen	NN
+gap	". 	
+word	Each	QUAN CAP DET
+gap	 	
+word	grain	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pollen	NN
+gap	 	
+word	contains	VPRT
+gap	 	
+word	randomly	RB
+gap	 	
+word	selected	
+gap	 	
+word	DNA	NN CAP
+gap	, 	
+word	totalling	PGAS
+gap	 	
+word	half	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	DNA	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	original	JJ
+gap	 	
+word	plant	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	cells	NN
+gap	, 	
+word	scattered	PASTP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	winds	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	communicated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	insects	NN
+gap	, 	
+word	land	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	specialised	JJ
+gap	 	
+word	parts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	plants	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	mixing	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	plants	NN
+gap	 - 	
+word	half	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pollen	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	plant	NN
+gap	, 	
+word	half	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	recipient	NN
+gap	 	
+word	plant	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	offspring	NN
+gap	 	
+word	created	WZPAST
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	has	VPRT
+gap	 	
+word	genes	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	traits	NN
+gap	, 	
+word	of	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	parent	NN
+gap	 	
+word	plants	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	GM	CAP NNP
+gap	 	
+word	crops	NN
+gap	 	
+word	contain	VPRT
+gap	 	
+word	DNA	CAP NNP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	normally	RB
+gap	 	
+word	found	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	plant	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	allowed	SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	pollinate	INF
+gap	 	
+word	other	JJ
+gap	 	
+word	crops	NN
+gap	 (	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pollination	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prevent	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	doing	PROD PGAS
+gap	 	
+word	so	RB
+gap	), 	
+word	those	DEMO DET
+gap	 	
+word	genes	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	spread	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	crop	NN
+gap	 	
+word	population	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	. 	
+word	Should	NEMD CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	gene	NN
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	harmful	JJ PRED
+gap	, 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	plant	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	indeed	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	humans	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	damage	NN
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	would	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	indeed	RB
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	cautious	JJ PRED
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	problem	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	managed	
+gap	, 	
+word	albeit	PIN SCONJ PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	difficulty	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	minimise	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	risks	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contamination	NOMZ
+gap	. 	
+word	Other	JJ CAP
+gap	 	
+word	risks	NN
+gap	 	
+word	posed	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	foods	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	so	RB
+gap	 	
+word	easily	RB
+gap	 	
+word	dealt	
+gap	 	
+word	with	PIN STPR PREP
+gap	, 	
+word	however	RB CONJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	world	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nature	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	complex	JJ
+gap	 	
+word	one	NN
+gap	, 	
+word	such	JJ OSUB
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	no	DET
+gap	-	
+word	one	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	current	JJ
+gap	 	
+word	society	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	claim	PUBV INF
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	truly	RB
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	nature	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	glory	NN
+gap	, 	
+word	works	VPRT
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	such	JJ
+gap	, 	
+word	interfering	GER PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	natural	JJ
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	things	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	potentially	RB
+gap	 	
+word	cause	INF
+gap	 	
+word	havoc	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	living	PGAS
+gap	 	
+word	world	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rabbits	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Australia	CAP NNP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 1859, 	
+word	forever	RB
+gap	 	
+word	changed	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	natural	JJ
+gap	 	
+word	balance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	continent	NN
+gap	. 	
+word	Rabbits	NN CAP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	major	JJ
+gap	 	
+word	causes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extinction	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Australia	CAP NNP
+gap	 (12% 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	native	JJ
+gap	 	
+word	mammal	JJ
+gap	 	
+word	species	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	now	RB TIME
+gap	 	
+word	extinct	JJ
+gap	), 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	causing	PGAS
+gap	 	
+word	widespread	JJ
+gap	 	
+word	damage	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	plant	INF
+gap	 	
+word	life	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	so	RB
+gap	 	
+word	seemingly	RB
+gap	 	
+word	benign	JJ
+gap	 	
+word	could	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	such	JJ
+gap	 	
+word	harm	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	, 	
+word	what	WH
+gap	 	
+word	untold	JJ
+gap	 	
+word	destruction	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	genetic	JJ
+gap	 	
+word	modification	NOMZ
+gap	 	
+word	unleash	NN
+gap	? 	
+word	Scientists	NN CAP
+gap	 	
+word	have	VPRT
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	limited	JJ
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	specifics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	genes	NN
+gap	 - 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	such	JJ
+gap	 	
+word	unknown	JJ
+gap	 	
+word	quantities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	foodstuffs	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	release	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	potential	JJ
+gap	 	
+word	contaminants	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	risky	JJ PRED
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	best	RB SPADJ
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	control	NN
+gap	 	
+word	measures	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	effect	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	possible	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	contamination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	occur	INF
+gap	. 	
+word	Pollen	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	contained	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	difficulty	NN
+gap	, 	
+word	however	RB CONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	avenues	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	transmission	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	. 	
+word	Nature	NN CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	astoundingly	RB
+gap	 	
+word	adaptable	JJ
+gap	, 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	genes	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	transferred	
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	species	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	process	NN
+gap	, 	
+word	known	PASTP PRIV
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 "	
+word	horizontal	JJ
+gap	 	
+word	gene	NN
+gap	 	
+word	transfer	NN
+gap	", 	
+word	makes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	truly	RB
+gap	 	
+word	worrying	JJ
+gap	 	
+word	case	NN
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	genetically	RB
+gap	 	
+word	modified	
+gap	 	
+word	crops	NN
+gap	. 	
+word	Horizontal	JJ CAP
+gap	 	
+word	gene	NN
+gap	 	
+word	transfer	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	require	SUAV INF
+gap	 	
+word	pollen	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	contaminate	INF
+gap	 	
+word	other	JJ
+gap	 	
+word	plants	NN
+gap	 - 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	three	NUM
+gap	 	
+word	different	JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	transfer	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	occur	INF
+gap	. 	
+word	One	CAP PRP SBJP
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	physical	JJ
+gap	 	
+word	contact	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	plant	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	another	DET
+gap	 	
+word	plant	NN
+gap	, 	
+word	however	RB CONJ
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	such	JJ
+gap	 	
+word	limit	NN
+gap	 	
+word	exists	VPRT
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	methods	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	three	NUM
+gap	 	
+word	avenues	NN
+gap	 	
+word	holds	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	potential	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	gene	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	travel	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	plant	NN
+gap	, 	
+word	through	PIN PREP
+gap	 	
+word	bacteria	NN
+gap	, 	
+word	viruses	NN
+gap	, 	
+word	other	JJ
+gap	 	
+word	plants	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	animals	NN
+gap	, 	
+word	even	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	humans	NN
+gap	. 	
+word	Needless	JJ CAP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	grave	JJ
+gap	 	
+word	threat	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	. 	
+word	Should	NEMD CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	wrong	JJ
+gap	 	
+word	gene	NN
+gap	 "	
+word	escape	INF
+gap	" 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	ecosystem	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	local	JJ
+gap	 	
+word	area	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	potentially	RB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	entire	JJ
+gap	 	
+word	planet	NN
+gap	, 	
+word	could	POMD
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	irrevocably	RB
+gap	 	
+word	altered	
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	concern	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	both	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	biological	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	ethical	JJ
+gap	 	
+word	points	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	 - 	
+word	What	WHQU CAP WH
+gap	 	
+word	would	PRMD
+gap	 	
+word	the	ART DET
+gap	 	
+word	consequences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	such	JJ
+gap	 	
+word	changes	NN
+gap	 	
+word	be	VPRT
+gap	? 	
+word	Do	VPRT CAP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	NN
+gap	 	
+word	to	PIN TO STPR PREP
+gap	 "	
+word	rebuild	INF
+gap	" 	
+word	Mother	CAP NNP
+gap	 	
+word	Nature	CAP NNP
+gap	? 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	worst	JJ SPADJ
+gap	 	
+word	case	NN
+gap	, 	
+word	what	WHQU DET WH
+gap	 	
+word	effects	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rogue	JJ
+gap	 	
+word	gene	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	passed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	humankind	INF
+gap	? 	
+word	All	QUAN CAP DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scenarios	NN
+gap	 	
+word	above	RB PLACE
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	conjecture	PRIV NN
+gap	 - 	
+word	in	PIN CONJ PREP
+gap	 	
+word	truth	NN
+gap	, 	
+word	no	DET
+gap	-	
+word	one	NN
+gap	 	
+word	knows	VPRT PRIV THATD
+gap	 	
+word	what	WH
+gap	 	
+word	may	POMD
+gap	 	
+word	or	CCONJ
+gap	 	
+word	will	PRMD
+gap	 	
+word	happen	INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	foods	NN
+gap	 	
+word	continues	VPRT
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	risks	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	technology	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	sufficiently	RB
+gap	 	
+word	great	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	warrant	INF
+gap	 	
+word	further	JJ
+gap	 	
+word	consideration	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	technology	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	have	VPRT
+gap	 	
+word	one	NUM
+gap	 	
+word	planet	NN
+gap	; 	
+word	neither	SYNE CCONJ
+gap	 	
+word	science	NN
+gap	 	
+word	nor	SYNE CCONJ
+gap	 	
+word	technology	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	advanced	JJ PRED
+gap	 	
+word	enough	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	replace	INF
+gap	 	
+word	or	CCONJ
+gap	 	
+word	repair	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	should	NEMD
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	inadvertently	RB
+gap	 	
+word	damage	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	natural	JJ
+gap	 	
+word	balance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ecology	NN
+gap	. 	
+word	GM	CAP NNP
+gap	 	
+word	foods	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unnecessary	JJ
+gap	 	
+word	threat	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nature	CAP NNP
+gap	; 	
+word	to	PIN TO PREP
+gap	 	
+word	preserve	INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	ecology	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GM	CAP NNP
+gap	 	
+word	technology	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	reconsidered	
+gap	.	

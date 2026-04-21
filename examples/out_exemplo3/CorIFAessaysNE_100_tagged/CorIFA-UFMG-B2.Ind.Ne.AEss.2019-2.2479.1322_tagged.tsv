@@ -1,724 +1,1245 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2479.1322.txt
-token	tags
-   	
-Medicine	CAP NNP
-and	CCONJ
-art	NN
-used	VBD
-to	PIN TO PREP
-walk	INF
-side	NN
-by	PIN PREP
-side	NN
-,	
-but	CCONJ
-the	ART DET
-French	CAP NNP
-Revolution	CAP NNP
-charged	VBD
-it	PIT PRP SBJP
-,	
-and	ANDC CCONJ
-after	PIN PREP
-that	DEMP DET
-,	
-each	QUAN DET
-one	NN
-got	VBD
-separated	
-ways	NN
-.	
-While	OSUB PIN CAP SCONJ PREP
-arts	NN
-were	BEMA VBD AUXB
-still	RB
-in	PIN CONJ PREP
-the	ART DET
-more	RB EMPH CMADJ
-creative	JJ
-side	NN
-of	PIN PREP
-the	ART DET
-brain	NN
-(	
-right	JJ
-side	NN
-)	
-,	
-medicine	NN
-was	BEMA VBD AUXB
-side	JJ PRED
-back	RB
-to	PIN PREP
-the	ART DET
-left	JJ
-side	NN
-,	
-where	RB WHQU SCONJ WH
-things	NN
-are	BEMA VPRT AUXB
-colder	JJ PRED CMADJ
-and	CCONJ
-use	VPRT
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-exact	JJ
-.	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-medicine	NN
-could	POMD
-be	PASS AUXB INF
-developed	
-when	RB SCONJ WH
-treated	
-as	PIN CONJ PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-exact	JJ
-subject	NN
-,	
-it	PIT PRP SBJP
-lost	VBD
-the	ART DET
-sense	PRIV NN
-of	PIN PREP
-humanization	NOMZ
-that	TOBJ THVC WHOBJ WH
-the	ART DET
-profession	NOMZ
-needs	VPRT
-.	
-In	PIN CONJ CAP PREP
-that	DEMO DET
-scenario	NN
-,	
-patients	NN
-became	VBD
-diagnostics	NN
-and	PHC CCONJ
-diseases	NN
-,	
-numbers	NN
-.	
-However	RB CONJ CAP
-,	
-those	DEMO DET
-two	NUM
-old	JJ
-friends	NN
-should	NEMD
-get	INF
-back	RB
-together	RB
-to	PIN PREP
-the	ART DET
-benefit	NN
-of	PIN PREP
-medicine	NN
-.	
-Art	NN CAP
-can	POMD
-help	INF
-medicine	NN
-by	PIN PREP
-developing	GER PGAS
-visual	JJ
-skills	NN
-,	
-communication	NOMZ
-with	PIN PREP
-patients	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-’s	VPRT
-a	ART DET INDA
-good	JJ
-way	NN
-of	PIN PREP
-extraction	NOMZ
-for	PIN PREP
-medicine	NN
-students	NN
-and	PHC CCONJ
-physicians	NN
-.	
- 	
-The	ART CAP DET
-first	JJ
-and	CCONJ
-most	RB EMPH SPADJ
-intuitive	JJ
-way	NN
-that	DEMO WHOBJ WH
-art	NN
-can	POMD
-help	INF
-medicine	NN
-is	BEMA VPRT AUXB
-by	PIN PREP
-developing	GER PGAS
-a	ART DET INDA
-better	JJ CMADJ
-visual	JJ
-skill	NN
-and	PHC CCONJ
-observation	NOMZ
-,	
-what	WHQU WH
-can	POMD
-result	INF
-in	PIN CONJ PREP
-the	ART DET
-student	NN
-becoming	WZPRES PGAS
-an	ART DET INDA
-excellent	JJ
-medical	JJ
-doctor	NN
-.	
-In	PIN CONJ CAP PREP
-today	TIME NN
-'s	
-digital	JJ
-,	
-image	NN
--	
-based	
-medicine	NN
-,	
-heaving	PRESP PGAS
-a	ART DET INDA
-developed	
-visual	JJ
-skill	NN
-,	
-like	PIN PREP
-proportion	NOMZ
-,	
-depth	NN
-notion	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-3D	JJ
-notion	NOMZ
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-analyze	INF
-diagnosis	NN
-and	CCONJ
-,	
-when	RB SCONJ WH
-talking	PGAS
-about	PIN PREP
-observation	NOMZ
-it	PIT PRP SBJP
-makes	VPRT
-it	PIT PRP SBJP
-easier	JJ CMADJ
-to	PIN TO PREP
-understand	PRIV INF
-a	ART DET INDA
-patient	NN
-'s	
-needs	NN
-by	PIN PREP
-just	RB EMPH
-looking	PGAS
-.	
-The	ART CAP DET
-major	JJ
-example	NN
-of	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-visual	JJ
-skill	NN
-can	POMD
-help	INF
-make	INF
-excellent	JJ
-physician	NN
-is	VPRT AUXB
-Frank	CAP NNP
-H.	CAP NNP
-Netter	CAP NNP
-,	
-born	PASTP
-in	PIN CONJ PREP
-1906	NUM
-,	
-New	CAP NNP
-York	CAP NNP
-,	
-that	DEMP WH
-started	VBD
-drawing	PGAS
-human	JJ
-bodies	NN
-and	CCONJ
-end	INF
-up	PIN PREP
-becoming	PGAS
-a	ART DET INDA
-great	JJ
-surgeon	NN
-,	
-and	ANDC CCONJ
-,	
-even	RB
-more	JJ EMPH CMADJ
-,	
-important	JJ
-one	NUM
-of	PIN PREP
-the	ART DET
-best	JJ SPADJ
-reference	NN
-in	PIN CONJ PREP
-human	JJ
-anatomy	NN
-all	QUAN RB
-over	PIN PREP
-the	ART DET
-word	NN
-.	
-Of	RB PIN CAP PREP
-course	RB
-,	
-is	BEMA VPRT AUXB
-no	DET
-needed	
-to	PIN TO PREP
-be	AUXB INF
-Netter	CAP NNP
-to	PIN TO PREP
-become	INF
-a	ART DET INDA
-great	JJ
-surgeon	NN
-,	
-but	CCONJ
-visual	JJ
-skill	NN
-is	BEMA VPRT AUXB
-important	JJ PRED
-for	PIN PREP
-this	DEMO DET
-profession	NOMZ
-.	
-As	PIN CONJ CAP PREP
-shown	PRIV
-above	RB PLACE
-,	
-art	NN
-can	POMD
-make	INF
-a	ART DET INDA
-great	JJ
-medical	JJ
-doctor	NN
-by	PIN PREP
-developing	GER PGAS
-not	XX0 RB
-only	DWNT RB
-observation	NOMZ
-but	CCONJ
-also	RB
-visuals	VPRT
-skills	NN
-.	
- 	
-Secondly	RB CAP
-,	
-art	NN
-can	POMD
-create	INF
-a	ART DET INDA
-critical	JJ
-consciousness	NOMZ
-that	TSUB WHSUB WH
-leads	VPRT
-to	PIN PREP
-better	JJ CMADJ
-communication	NOMZ
-with	PIN PREP
-patients	NN
-,	
-so	PIN SCONJ PREP
-students	NN
-and	CCONJ
-medical	JJ
-doctors	NN
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-pushed	
-back	RB
-for	PIN PREP
-asking	SUAV PGAS
-important	JJ
-questions	NOMZ
-.	
-But	CAP CCONJ
-,	
-how	RB WHQU SCONJ WH
-does	VPRT
-it	PIT PRP SBJP
-lead	INF
-to	PIN PREP
-that	DEMP DET
-?	QUES
-The	ART CAP DET
-answer	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-an	ART DET INDA
-experiment	NOMZ
-that	TSUB WHSUB WH
-took	VBD
-place	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-class	NN
-of	PIN PREP
-Penn	CAP NNP
-State	PUBV CAP NNP
-College	CAP NNP
-of	PIN PREP
-Medicine	CAP NNP
-where	RB SCONJ WH
-students	NN
-partner	VPRT
-up	PIN PREP
-to	PIN TO PREP
-paint	INF
-a	ART DET INDA
-copy	NN
-of	PIN PREP
-paint	NN
-without	PIN PREP
-seen	PRIV THATD
-it	PIT PRP SBJP
-,	
-only	DWNT RB
-asking	SUAV PGAS
-questions	NOMZ
-for	PIN PREP
-his	TPP3 PRP SBJP
-pair	NN
-to	PIN TO PREP
-reproduce	INF
-it	PIT PRP SBJP
-.	
-It	PIT CAP PRP SBJP
-showed	VBD PRIV
-how	RB WHCL SCONJ WH
-much	QUAN JJ
-easier	JJ CMADJ
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-obtain	INF
-information	NOMZ
-with	PIN PREP
-open	JJ
-questions	NOMZ
-,	
-and	ANDC CCONJ
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-stopped	VBD
-and	PHC CCONJ
-listen	INF
-.	
-The	ART CAP DET
-same	JJ
-relates	NN
-do	VPRT PROD
-patients	NN
-,	
-to	PIN TO PREP
-listen	INF
-more	JJ EMPH CMADJ
-about	PIN PREP
-what	WH
-they	TPP3 PRP SBJP
-have	VPRT
-to	PIN TO PREP
-say	PUBV INF
-.	
-Furthermore	RB CONJ CAP
-,	
-when	RB WHQU SCONJ WH
-you	SPP2 PRP SBJP
-have	VPRT
-a	ART DET INDA
-critical	JJ
-consciousness	NOMZ
-,	
-you	SPP2 PRP SBJP
-are	BEMA VPRT AUXB
-not	XX0 RB
-afraid	JJ
-of	PIN PREP
-asking	SUAV PGAS
-questions	NOMZ
-,	
-once	PIN TIME SCONJ PREP
-you	SPP2 PRP SBJP
-are	BEMA VPRT AUXB
-certain	JJ PRED
-of	PIN PREP
-the	ART DET
-importance	NN
-of	PIN PREP
-what	WH
-to	PIN TO PREP
-ask	SUAV INF
-.	
- 	
-Finally	RB CAP
-,	
-art	NN
-can	POMD
-help	INF
-medicine	NN
-by	PIN PREP
-promoting	PGAS
-a	ART DET INDA
-joyful	JJ
-time	NN
-,	
-helping	PGAS
-medical	JJ
-students	NN
-and	PHC CCONJ
-physicians	NN
-relax	VPRT
-.	
-The	ART CAP DET
-number	NN
-of	PIN STPR PREP
-"	QUOT
-"	QUOT
-burn	INF
--	
-out	PIN STPR PREP
-"	QUOT
-"	QUOT
-rampant	JJ
-among	PIN PREP
-medical	JJ
-students	NN
-and	PHC CCONJ
-physicians	NN
-,	
-what	WHQU WH
-can	POMD
-be	PASS AUXB INF
-related	
-to	PIN PREP
-the	ART DET
-heavy	JJ
-schedule	NN
-,	
-high	JJ
-responsibilities	NN
-,	
-dealing	PGAS
-with	PIN PREP
-death	NN
-and	CCONJ
-venerable	JJ
-population	NOMZ
-daily	RB
-.	
-All	QUAN CAP DET
-that	DEMP DET
-combined	VBD
-and	CCONJ
-,	
-when	RB SCONJ WH
-it	PIT PRP SBJP
-comes	VPRT
-to	PIN PREP
-a	ART DET INDA
-student	NN
-,	
-the	ART DET
-youngness	NOMZ
-,	
-make	INF
-it	PIT PRP SBJP
-hard	RB
-go	INF
-thought	VBD PRIV
-the	ART DET
-day	NN
-.	
-What	CAP WH
-results	VPRT
-in	PIN CONJ PREP
-the	ART DET
-rising	PGAS
-“	
-burn	NN
--	
-outs	NN
-”	
-that	DEMP WH
-creates	VPRT
-a	ART DET INDA
-negative	JJ
-image	NN
-of	PIN PREP
-those	DEMO DET
-people	NN
-.	
-Once	PIN TIME CAP SCONJ PREP
-the	ART DET
-population	NOMZ
-sees	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-ones	NN
-that	TSUB WHSUB WH
-should	NEMD
-be	AUXB INF
-taking	PGAS
-care	NN
-of	PIN PREP
-others	NN
-live	VPRT
-,	
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-even	RB
-take	INF
-care	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-.	
-In	PIN CONJ CAP PREP
-that	DEMO DET
-scenario	NN
-,	
-art	NN
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-way	NN
-out	PIN PREP
-of	PIN PREP
-that	DEMO DET
-heavy	JJ
-routine	NN
-.	
- 	
-The	ART CAP DET
-two	NUM
-old	JJ
-friends	NN
-should	NEMD
-revive	INF
-their	TPP3 PRP SBJP
-relation	NOMZ
-.	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-medicine	NN
-developed	VBD
-a	EMPH ART DET INDA
-lot	NN
-since	OSUB PIN SCONJ PREP
-the	ART DET
-separation	NOMZ
-(	
-French	CAP NNP
-Revolution	CAP NNP
-)	
-,	
-art	NN
-can	POMD
-help	INF
-a	EMPH ART DET INDA
-lot	NN
-in	PIN CONJ PREP
-the	ART DET
-current	JJ
-scenario	NN
-.	
-The	ART CAP DET
-visual	JJ
-skill	NN
-that	TOBJ WHOBJ WH
-arts	NN
-provide	VPRT
-is	BEMA VPRT AUXB
-essential	JJ PRED
-in	PIN CONJ PREP
-the	ART DET
-now	RB TIME
-digital	JJ
-,	
-image	NN
--	
-based	
-medicine	NN
-.	
-The	ART CAP DET
-critical	JJ
-consciousness	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-big	JJ
-help	NN
-in	PIN CONJ PREP
-developing	GER PGAS
-better	JJ CMADJ
-communication	NOMZ
-between	PIN PREP
-student	NN
-and	PHC CCONJ
-teacher	NN
-,	
-even	RB
-between	PIN PREP
-medical	JJ
-doctors	NN
-and	PHC CCONJ
-patients	NN
-.	
-And	ANDC CAP CCONJ
-in	PIN CONJ PREP
-the	ART DET
-scenario	NN
-of	PIN PREP
-rising	PGAS
-“	
-burn	NN
--	
-outs	NN
-”	
-among	PIN PREP
-medial	JJ
-students	NN
-and	PHC CCONJ
-physicians	NN
-,	
-art	NN
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-way	NN
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-heavy	JJ
-routine	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2479.1322>\n\n<ART AND MEDICINE by Bruno Athanasio>\n	
+word	Medicine	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	art	NN
+gap	 	
+word	used	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	walk	INF
+gap	 	
+word	side	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	side	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	French	CAP NNP
+gap	 	
+word	Revolution	CAP NNP
+gap	 	
+word	charged	VBD
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	each	QUAN DET
+gap	 	
+word	one	NN
+gap	 	
+word	got	VBD
+gap	 	
+word	separated	
+gap	 	
+word	ways	NN
+gap	. 	
+word	While	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	arts	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	creative	JJ
+gap	 	
+word	side	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	brain	NN
+gap	 (	
+word	right	JJ
+gap	 	
+word	side	NN
+gap	), 	
+word	medicine	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	side	JJ PRED
+gap	 	
+word	back	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	left	JJ
+gap	 	
+word	side	NN
+gap	, 	
+word	where	RB WHQU SCONJ WH
+gap	 	
+word	things	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	colder	JJ PRED CMADJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	use	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	exact	JJ
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	developed	
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	treated	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	exact	JJ
+gap	 	
+word	subject	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	lost	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	humanization	NOMZ
+gap	 	
+word	that	TOBJ THVC WHOBJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	profession	NOMZ
+gap	 	
+word	needs	VPRT
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	scenario	NN
+gap	, 	
+word	patients	NN
+gap	 	
+word	became	VBD
+gap	 	
+word	diagnostics	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	diseases	NN
+gap	, 	
+word	numbers	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	those	DEMO DET
+gap	 	
+word	two	NUM
+gap	 	
+word	old	JJ
+gap	 	
+word	friends	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	get	INF
+gap	 	
+word	back	RB
+gap	 	
+word	together	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	. 	
+word	Art	NN CAP
+gap	 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	medicine	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	visual	JJ
+gap	 	
+word	skills	NN
+gap	, 	
+word	communication	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	patients	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extraction	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	students	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	physicians	NN
+gap	. \n	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	intuitive	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	that	DEMO WHOBJ WH
+gap	 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	medicine	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	visual	JJ
+gap	 	
+word	skill	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	observation	NOMZ
+gap	, 	
+word	what	WHQU WH
+gap	 	
+word	can	POMD
+gap	 	
+word	result	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	student	NN
+gap	 	
+word	becoming	WZPRES PGAS
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	excellent	JJ
+gap	 	
+word	medical	JJ
+gap	 	
+word	doctor	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	today	TIME NN
+gap	'	
+word	s	
+gap	 	
+word	digital	JJ
+gap	, 	
+word	image	NN
+gap	-	
+word	based	
+gap	 	
+word	medicine	NN
+gap	, 	
+word	heaving	PRESP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	developed	
+gap	 	
+word	visual	JJ
+gap	 	
+word	skill	NN
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	proportion	NOMZ
+gap	, 	
+word	depth	NN
+gap	 	
+word	notion	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 3	
+word	D	JJ
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	analyze	INF
+gap	 	
+word	diagnosis	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	talking	PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	observation	NOMZ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	makes	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	patient	NN
+gap	'	
+word	s	
+gap	 	
+word	needs	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	looking	PGAS
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	major	JJ
+gap	 	
+word	example	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	visual	JJ
+gap	 	
+word	skill	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	make	INF
+gap	 	
+word	excellent	JJ
+gap	 	
+word	physician	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	Frank	CAP NNP
+gap	 	
+word	H	CAP NNP
+gap	. 	
+word	Netter	CAP NNP
+gap	, 	
+word	born	PASTP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1906, 	
+word	New	CAP NNP
+gap	 	
+word	York	CAP NNP
+gap	, 	
+word	that	DEMP WH
+gap	 	
+word	started	VBD
+gap	 	
+word	drawing	PGAS
+gap	 	
+word	human	JJ
+gap	 	
+word	bodies	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	end	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	becoming	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	surgeon	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	, 	
+word	even	RB
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	, 	
+word	important	JJ
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	reference	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	anatomy	NN
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	word	NN
+gap	. 	
+word	Of	RB PIN CAP PREP
+gap	 	
+word	course	RB
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	no	DET
+gap	 	
+word	needed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	Netter	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	become	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	surgeon	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	visual	JJ
+gap	 	
+word	skill	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	profession	NOMZ
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	shown	PRIV
+gap	 	
+word	above	RB PLACE
+gap	, 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	make	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	medical	JJ
+gap	 	
+word	doctor	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	observation	NOMZ
+gap	 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	visuals	VPRT
+gap	 	
+word	skills	NN
+gap	.\n	
+word	Secondly	RB CAP
+gap	, 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	create	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	critical	JJ
+gap	 	
+word	consciousness	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	communication	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	patients	NN
+gap	, 	
+word	so	PIN SCONJ PREP
+gap	 	
+word	students	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	medical	JJ
+gap	 	
+word	doctors	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	pushed	
+gap	 	
+word	back	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	asking	SUAV PGAS
+gap	 	
+word	important	JJ
+gap	 	
+word	questions	NOMZ
+gap	. 	
+word	But	CAP CCONJ
+gap	, 	
+word	how	RB WHQU SCONJ WH
+gap	 	
+word	does	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	? 	
+word	The	ART CAP DET
+gap	 	
+word	answer	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	took	VBD
+gap	 	
+word	place	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	class	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Penn	CAP NNP
+gap	 	
+word	State	PUBV CAP NNP
+gap	 	
+word	College	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Medicine	CAP NNP
+gap	 	
+word	where	RB SCONJ WH
+gap	 	
+word	students	NN
+gap	 	
+word	partner	VPRT
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	paint	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	copy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	paint	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	seen	PRIV THATD
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	only	DWNT RB
+gap	 	
+word	asking	SUAV PGAS
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	pair	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reproduce	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	showed	VBD PRIV
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	obtain	INF
+gap	 	
+word	information	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	open	JJ
+gap	 	
+word	questions	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	stopped	VBD
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	listen	INF
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	same	JJ
+gap	 	
+word	relates	NN
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	patients	NN
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	listen	INF
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	. 	
+word	Furthermore	RB CONJ CAP
+gap	, 	
+word	when	RB WHQU SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	critical	JJ
+gap	 	
+word	consciousness	NOMZ
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	afraid	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	asking	SUAV PGAS
+gap	 	
+word	questions	NOMZ
+gap	, 	
+word	once	PIN TIME SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	certain	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ask	SUAV INF
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	medicine	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	promoting	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	joyful	JJ
+gap	 	
+word	time	NN
+gap	, 	
+word	helping	PGAS
+gap	 	
+word	medical	JJ
+gap	 	
+word	students	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	physicians	NN
+gap	 	
+word	relax	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	 ""	
+word	burn	INF
+gap	-	
+word	out	PIN STPR PREP
+gap	"" 	
+word	rampant	JJ
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	medical	JJ
+gap	 	
+word	students	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	physicians	NN
+gap	, 	
+word	what	WHQU WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	related	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	heavy	JJ
+gap	 	
+word	schedule	NN
+gap	, 	
+word	high	JJ
+gap	 	
+word	responsibilities	NN
+gap	, 	
+word	dealing	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	death	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	venerable	JJ
+gap	 	
+word	population	NOMZ
+gap	 	
+word	daily	RB
+gap	. 	
+word	All	QUAN CAP DET
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	combined	VBD
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	comes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	student	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	youngness	NOMZ
+gap	, 	
+word	make	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	hard	RB
+gap	 	
+word	go	INF
+gap	 	
+word	thought	VBD PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	day	NN
+gap	. 	
+word	What	CAP WH
+gap	 	
+word	results	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rising	PGAS
+gap	 “	
+word	burn	NN
+gap	-	
+word	outs	NN
+gap	” 	
+word	that	DEMP WH
+gap	 	
+word	creates	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	negative	JJ
+gap	 	
+word	image	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	people	NN
+gap	. 	
+word	Once	PIN TIME CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	sees	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ones	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	taking	PGAS
+gap	 	
+word	care	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	others	NN
+gap	 	
+word	live	VPRT
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	even	RB
+gap	 	
+word	take	INF
+gap	 	
+word	care	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	scenario	NN
+gap	, 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	heavy	JJ
+gap	 	
+word	routine	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	two	NUM
+gap	 	
+word	old	JJ
+gap	 	
+word	friends	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	revive	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	relation	NOMZ
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	developed	VBD
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	separation	NOMZ
+gap	 (	
+word	French	CAP NNP
+gap	 	
+word	Revolution	CAP NNP
+gap	), 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	current	JJ
+gap	 	
+word	scenario	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	visual	JJ
+gap	 	
+word	skill	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	arts	NN
+gap	 	
+word	provide	VPRT
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	now	RB TIME
+gap	 	
+word	digital	JJ
+gap	, 	
+word	image	NN
+gap	-	
+word	based	
+gap	 	
+word	medicine	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	critical	JJ
+gap	 	
+word	consciousness	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	big	JJ
+gap	 	
+word	help	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	communication	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	student	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	teacher	NN
+gap	, 	
+word	even	RB
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	medical	JJ
+gap	 	
+word	doctors	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	patients	NN
+gap	. 	
+word	And	ANDC CAP CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scenario	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rising	PGAS
+gap	 “	
+word	burn	NN
+gap	-	
+word	outs	NN
+gap	” 	
+word	among	PIN PREP
+gap	 	
+word	medial	JJ
+gap	 	
+word	students	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	physicians	NN
+gap	, 	
+word	art	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	heavy	JJ
+gap	 	
+word	routine	NN
+gap	.\n	

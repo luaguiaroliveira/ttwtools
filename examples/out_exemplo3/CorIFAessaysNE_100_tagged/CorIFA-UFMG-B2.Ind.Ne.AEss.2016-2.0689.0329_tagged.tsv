@@ -1,790 +1,1219 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0689.0329.txt
-token	tags
-    	
-The	ART CAP DET
-Salinas	CAP NNP
-Formation	CAP NNP
-occurs	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-wide	JJ
-region	NN
-of	PIN PREP
-Médio	CAP NNP
-Vale	CAP NNP
-do	VPRT PROD
-Jequitinhonha	CAP NNP
-,	
-northern	JJ
-Araçuaí	CAP NNP
-orogen	NN
-,	
-NE	CAP NNP
-state	PUBV NN
-of	PIN PREP
-Minas	CAP NNP
-Gerais	CAP NNP
-,	
-Brazil	CAP NNP
-.	
-The	ART CAP DET
-succession	NOMZ
-includes	VPRT
-greywackes	NN
-sandstones	NN
-,	
-pelites	NN
-and	CCONJ
-polymictic	JJ
-ortoconglomerate	NN
-deformed	VBD
-and	PHC CCONJ
-metamorphosed	
-in	PIN CONJ PREP
-greenchist	NN
-to	PIN PREP
-low	JJ
--	
-amphibolite	JJ
-facies	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-region	NN
-Salinas	CAP NNP
-Formation	CAP NNP
-lie	VPRT
-unconformably	RB
-on	PIN PREP
-top	NN
-of	PIN PREP
-Macaúbas	CAP NNP
-Group	CAP NNP
-and	CCONJ
-is	PASS VPRT AUXB
-intruded	
-for	PIN PREP
-pos	JJ
--	
-colisional	JJ
-granites	NN
-of	PIN PREP
-G4	CAP NNP
-Supersuite	CAP NNP
-(	
-ca	NNP
-.	
-500	NUM
--	
-530Ma	NUM
-;	
-Pedrosa	CAP NNP
--	
-Soares	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-2007	NUM
-,	
-2011	NUM
-)	
-.	
-For	PIN CAP PREP
-a	ART DET INDA
-long	JJ
-period	NN
-the	ART DET
-Salinas	CAP NNP
-Formation	CAP NNP
-had	VBD PEAS
-been	PASS AUXB
-considered	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-stratigraphic	JJ
-unit	NN
-of	PIN PREP
-the	ART DET
-Macaubas	CAP NNP
-Group	CAP NNP
-,	
-new	JJ
-detritical	JJ
-zircon	NN
-ages	NN
-and	PHC CCONJ
-provenance	NN
-studies	NN
-reclassified	WZPAST
-as	PIN CONJ PREP
-been	BEMA AUXB
-an	ART DET INDA
-orogenic	JJ
-basin	NN
-(	
-flysch	NN
-type	NN
-)	
-of	PIN PREP
-the	ART DET
-Araçuaí	CAP NNP
-Orogen	CAP NNP
-dated	VBD
-at	PIN PREP
-ca.560Ma	NNP
-as	PIN CONJ PREP
-the	ART DET
-maximum	JJ
-depositional	JJ
-age	NN
-(	
-Lima	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-2002	NUM
-,	
-Pedrosa	CAP NNP
--	
-Soares	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-2007	NUM
-,	
-2008	NUM
-)	
-.	
-This	DEMO CAP DET
-study	NN
-presents	VPRT
-new	JJ
-geochronological	NN
-(	
-U	CAP NNP
--	
-Pb	CAP NNP
-,	
-SHRIMP	CAP NNP
-)	
-and	ANDC CCONJ
-litochemical	JJ
-(	
-major	JJ
-and	CCONJ
-trace	NN
-element	NOMZ
-)	
-results	NN
-that	TSUB WHSUB WH
-permits	VPRT
-a	ART DET INDA
-more	JJ EMPH CMADJ
-detail	NN
-interpretation	NOMZ
-about	PIN PREP
-the	ART DET
-potential	JJ
-source	NN
-areas	NN
-and	CCONJ
-geotectonic	JJ
-settings	NN
-during	PIN PREP
-the	ART DET
-Salinas	CAP NNP
-Basin	CAP NNP
-deposition	NOMZ
-.	
- 	
-The	ART CAP DET
-geochronological	JJ
-analysis	NN
-were	PASS VBD AUXB
-performed	
-at	PIN PREP
-ten	NUM
-zircon	NN
-grains	NN
-using	WZPRES PGAS
-the	ART DET
-Sensitive	CAP NNP
-High	CAP NNP
-Resolution	CAP NNP
-Ion	CAP NNP
-Microcoprobe	CAP NNP
-(	
-SHRIMP	CAP NNP
-II	CAP NNP
-)	
-of	PIN PREP
-Chinese	CAP NNP
-Academy	CAP NNP
-of	PIN PREP
-Geological	CAP NNP
-Sciences	CAP NNP
-.	
-The	ART CAP DET
-zircon	NN
-grains	NN
-were	PASS VBD AUXB
-concentrated	
-from	PIN PREP
-volcanic	JJ
-rocks	NN
-pebbles	NN
-contained	WZPAST
-in	PIN CONJ PREP
-ortoconglomerate	NN
-which	WHOBJ DET WH
-outcrops	NN
-in	PIN CONJ PREP
-northeast	NN
-of	PIN PREP
-Salinas	CAP NNP
-City	CAP NNP
-.	
-This	DEMO CAP DET
-ortoconclomerate	PIN PREP
-presents	NN
-pebbles	NN
-intensely	AMP RB
-rounded	JJ
-,	
-volcanic	JJ
-and	PHC CCONJ
-subvolcanic	JJ
-rocks	NN
-,	
-quartz	NN
-,	
-quartzite	NN
-,	
-gneiss	JJ
-,	
-granite	NN
-and	PHC CCONJ
-limestone	NN
-intermingled	WZPAST
-with	PIN PREP
-a	ART DET INDA
-scarce	JJ
-greywacke	NN
-matrix	NN
-.	
-Pebbles	NN CAP
-of	PIN PREP
-volcanic	JJ
-rock	NN
-are	BEMA VPRT AUXB
-the	ART DET
-most	RB EMPH SPADJ
-common	JJ
-,	
-varying	PGAS
-between	PIN PREP
-andesite	NN
-and	CCONJ
-riolite	JJ
-composition	NOMZ
-.	
-The	ART CAP DET
-interval	NN
-568	NUM
--	
-698	NUM
-Ma	CAP NNP
-reported	VBD PUBV
-from	PIN PREP
-the	ART DET
-Salinas	CAP NNP
-Formation	CAP NNP
-metasedimentary	JJ
-rocks	NN
-suggests	VPRT PUBV SUAV
-contribution	NOMZ
-from	PIN PREP
-sources	NN
-areas	NN
-probably	RB
-originated	VBD
-during	PIN PREP
-the	ART DET
-passive	JJ
-margin	NN
-,	
-accretionary	JJ
-orogeny	NN
-and	CCONJ
-collisional	JJ
-orogeny	NN
-stages	NN
-.	
- 	
-The	ART CAP DET
-Group	CAP NNP
-1	NUM
-,	
-main	JJ
-interval	NN
-(	
-6	NUM
-zircon	NN
-grains	NN
-)	
-ca.568	NN
--	
-633	NUM
-Ma	CAP NNP
-indicates	VPRT PRIV
-as	PIN CONJ PREP
-potential	JJ
-sources	NN
-the	ART DET
-Rio	CAP NNP
-Doce	CAP NNP
-Magmatic	CAP NNP
-Arc	CAP NNP
-(	
-Pedrosa	CAP NNP
--	
-Soares	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2011	NUM
-)	
-,	
-the	ART DET
-sin	NN
--	
-collisional	JJ
-granites	NN
-of	PIN PREP
-G2	NN CAP
-Supersuite	CAP NNP
-(	
-Gradim	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2014	NUM
-)	
-and	ANDC CCONJ
-ophiolitic	JJ
-complex	NN
-related	WZPAST
-with	PIN PREP
-the	ART DET
-Ribeirão	CAP NNP
-da	NNP
-Folha	CAP NNP
-Formation	CAP NNP
-(	
-Queiroga	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2007	NUM
-;	
-Queiroga	CAP NNP
-,	
-2010	NUM
-)	
-.	
-The	ART CAP DET
-Group	CAP NNP
-2	NUM
-comprises	VPRT
-zircon	NN
-ages	NN
-between	PIN PREP
-ca.645	NNP
--	
-680	NUM
-Ma	CAP NNP
-that	DEMO WH
-also	RB
-suggest	VPRT PUBV SUAV
-contribution	NOMZ
-from	PIN PREP
-ophiolitic	JJ
-complex	NN
-associated	WZPAST
-with	PIN PREP
-the	ART DET
-Ribeirão	CAP NNP
-da	NNP
-Folha	CAP NNP
-Formation	CAP NNP
-.	
-The	ART CAP DET
-oldest	JJ SPADJ
-age	NN
-ca.698	NN
-Ma	CAP NNP
-is	BEMA VPRT AUXB
-compatible	JJ PRED
-with	PIN PREP
-provenance	NN
-from	PIN PREP
-Sul	CAP NNP
-da	NNP
-Bahia	CAP NNP
-Alkaline	CAP NNP
-Province	CAP NNP
-(	
-Rosa	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2007	NUM
-)	
-and	ANDC CCONJ
-possible	JJ
-sources	NN
-from	PIN PREP
-the	ART DET
-West	JJ PLACE CAP
-African	CAP NNP
-would	PRMD
-be	BEMA AUXB INF
-the	ART DET
-volcanic	JJ
-mafic	JJ
-rocks	NN
-of	PIN PREP
-Lower	CAP NNP
-Diamictite	CAP NNP
-Formation	CAP NNP
-(	
-ca	NNP
-.	
-694Ma	NNP
-,	
-U	CAP NNP
-–	
-Pb	CAP NNP
-on	PIN PREP
-baddeleyite	NNP
-,	
-Straathof	CAP NNP
-,	
-2011	NUM
-)	
-and	ANDC CCONJ
-volcanic	JJ
-rocks	NN
-of	PIN PREP
-La	CAP NNP
-Louille	CAP NNP
-(	
-U	CAP NNP
--	NNP
-Pb	CAP NNP
-on	PIN PREP
-zircon	NNP
-,	
-Thiéblemont	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2011	NUM
-)	
-.	
- 	
-The	ART CAP DET
-litochemical	JJ
-study	NN
-includes	VPRT
-46	NUM
-litochemical	JJ
-analysis	NN
-,	
-trace	NN
-and	CCONJ
-major	JJ
-elements	NOMZ
-,	
-16	NUM
-analyses	NN
-are	BEMA VPRT AUXB
-unreleased	JJ PRED
-and	CCONJ
-the	ART DET
-others	NN
-were	PASS VBD AUXB
-compiled	
-from	PIN PREP
-studies	NN
-of	PIN PREP
-Pedrosa	CAP NNP
--	
-Soares	CAP NNP
-(	
-1984	NUM
-,	
-1995	NUM
-)	
-and	ANDC CCONJ
-Grossi	CAP NNP
-Sad	CAP NNP
-e	NN
-Motta	NN CAP
-(	
-1991	NUM
-)	
-.	
-The	ART CAP DET
-samples	NN
-are	PASS VPRT BYPA AUXB
-represented	
-by	PIN PREP
-quartz	NN
--	
-biotite	NN
-schist	NN
-,	
-muscovite	JJ
-schist	NN
-,	
-carbonatic	NN
-schist	NN
-(	
-regional	JJ
-and	CCONJ
-type	NN
--	
-area	NN
-represents	VPRT
-)	
-and	ANDC CCONJ
-metagreywacke	NN
-quartzose	NNP
-,	
-characterized	PASTP
-as	PIN CONJ PREP
-bedded	JJ
-,	
-weakly	RB
-deformed	
-.	
-Mineralogically	RB CAP
-are	PASS VPRT BYPA AUXB
-composed	
-by	PIN PREP
-quartz	NN
-,	
-biotite	NN
-,	
-muscovite	JJ
-,	
-feldspar	NNP
-(	
-mainly	RB
-plagioclase	VPRT
-)	
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-minor	JJ
-proportion	NOMZ
-calcite	NN
-,	
-k	NN
--	NN
-feldspar	NN
-,	
-chlorite	NN
-and	CCONJ
-lithic	JJ
-fragment	NOMZ
-.	
-The	ART CAP DET
-accessory	NN
-mineralogy	NN
-consists	VPRT
-of	PIN PREP
-tourmaline	NN
-,	
-garnet	NN
-,	
-apatite	NNP
-,	
-zircon	NNP
-,	
-titanite	NN
-,	
-rutile	RB
-,	
-staurolite	JJ
-,	
-sillimanite	JJ
-(	
-fibrous	JJ
-)	
-and	ANDC CCONJ
-opaque	NN
-.	
- 	
-The	ART CAP DET
-assemblage	NN
-of	PIN PREP
-lithocemical	JJ
-data	NN
-reports	VPRT PUBV
-low	JJ
-Chemical	CAP NNP
-Index	CAP NNP
-of	PIN PREP
-Alteration	CAP NNP
-(	
-CIA	CAP NNP
-=	NNP
-48	NUM
-to	PIN PREP
-67	NUM
-)	
-and	ANDC CCONJ
-low	JJ
-SiO2	CAP NNP
-/	
-Al2O3	NN CAP
-ratio	NN
-(	
-2.3	NUM
--7.9	NN
-)	
-that	DEMP WH
-indicates	VPRT PRIV
-limited	JJ
-weathering	GER
-of	PIN PREP
-the	ART DET
-source	NN
-rocks	NN
-and	PHC CCONJ
-deposition	NOMZ
-close	RB
-to	PIN PREP
-the	ART DET
-source	NN
--	
-areas	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-litochemical	JJ
-characteristics	NN
-indicate	VPRT PRIV
-of	PIN PREP
-the	ART DET
-greywackes	NN
-of	PIN PREP
-Salinas	CAP NNP
-Formation	CAP NNP
-were	PASS VBD AUXB
-derived	
-from	PIN PREP
-mixed	JJ
-sources	NN
-.	
-In	PIN CONJ CAP PREP
-terms	NN
-of	PIN PREP
-provenance	NN
-,	
-continental	JJ
-magmatic	JJ
-arc	NNP
-,	
-active	JJ
-continental	JJ
-margin	NN
-and	CCONJ
-appear	SMP INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-the	ART DET
-most	RB EMPH SPADJ
-important	JJ
-geotectonic	JJ
-environments	NOMZ
-that	TSUB WHSUB WH
-contributed	VBD
-to	PIN PREP
-the	ART DET
-sedimentation	NOMZ
-of	PIN PREP
-Salinas	CAP NNP
-Formation	CAP NNP
-.	
-  	
-Considering	GER PRIV CAP PGAS
-the	ART DET
-geodynamic	JJ
-evolution	NOMZ
-of	PIN PREP
-the	ART DET
-Araçuaí	CAP NNP
-Orogen	CAP NNP
-,	
-the	ART DET
-sediments	NOMZ
-of	PIN PREP
-the	ART DET
-Salinas	CAP NNP
-Formation	CAP NNP
-seem	VPRT SMP
-to	PIN TO PREP
-be	PASS AUXB INF
-deposited	
-in	PIN CONJ PREP
-a	ART DET INDA
-flysch	NN
-basin	NN
-located	WZPAST
-above	PIN PLACE PREP
-the	ART DET
-passive	JJ
-margin	NN
-sequence	NN
-and	PHC CCONJ
-boundary	NN
-with	PIN PREP
-the	ART DET
-continental	JJ
-active	JJ
-margin	NN
-in	PIN CONJ PREP
-the	ART DET
-east	PLACE NN
-.	
-The	ART CAP DET
-sediments	NOMZ
-contributions	NOMZ
-were	PASS VBD SPAU AUXB
-probably	RB
-brought	
-through	PIN PREP
-the	ART DET
-turbidity	NOMZ
-currents	NN
-originated	VBD
-mainly	RB
-from	PIN PREP
-the	ART DET
-east	PLACE NN
-of	PIN PREP
-the	ART DET
-Salinas	CAP NNP
-Basin	CAP NNP
-.	
-                	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0689.0329>\n\n<Provenance of Neoproterozoic metasedimentary rocks of Salinas Formation, Araçuaí Orogen, Brazil>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	Salinas	CAP NNP
+gap	 	
+word	Formation	CAP NNP
+gap	 	
+word	occurs	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wide	JJ
+gap	 	
+word	region	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Médio	
+gap	 	
+word	Vale	
+gap	 	
+word	do	
+gap	 	
+word	Jequitinhonha	
+gap	, 	
+word	northern	
+gap	 	
+word	Araçuaí	
+gap	 	
+word	orogen	
+gap	, 	
+word	NE	
+gap	 	
+word	state	
+gap	 	
+word	of	
+gap	 	
+word	Minas	
+gap	 	
+word	Gerais	
+gap	, 	
+word	Brazil	
+gap	. 	
+word	The	
+gap	 	
+word	succession	
+gap	 	
+word	includes	
+gap	 	
+word	greywackes	
+gap	 	
+word	sandstones	
+gap	, 	
+word	pelites	
+gap	 	
+word	and	
+gap	 	
+word	polymictic	
+gap	 	
+word	ortoconglomerate	
+gap	 	
+word	deformed	
+gap	 	
+word	and	
+gap	 	
+word	metamorphosed	
+gap	 	
+word	in	
+gap	 	
+word	greenchist	
+gap	 	
+word	to	
+gap	 	
+word	low	
+gap	-	
+word	amphibolite	
+gap	 	
+word	facies	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	region	
+gap	 	
+word	Salinas	
+gap	 	
+word	Formation	
+gap	 	
+word	lie	
+gap	 	
+word	unconformably	
+gap	 	
+word	on	
+gap	 	
+word	top	
+gap	 	
+word	of	
+gap	 	
+word	Macaúbas	
+gap	 	
+word	Group	
+gap	 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	intruded	
+gap	 	
+word	for	
+gap	 	
+word	pos	
+gap	-	
+word	colisional	
+gap	 	
+word	granites	
+gap	 	
+word	of	
+gap	 	
+word	G	
+gap	4 	
+word	Supersuite	
+gap	 (	
+word	ca	
+gap	. 500-530	
+word	Ma	
+gap	; 	
+word	Pedrosa	
+gap	-	
+word	Soares	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. 2007, 2011). 	
+word	For	
+gap	 	
+word	a	
+gap	 	
+word	long	
+gap	 	
+word	period	
+gap	 	
+word	the	
+gap	 	
+word	Salinas	
+gap	 	
+word	Formation	
+gap	 	
+word	had	
+gap	 	
+word	been	
+gap	 	
+word	considered	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	stratigraphic	
+gap	 	
+word	unit	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Macaubas	
+gap	 	
+word	Group	
+gap	, 	
+word	new	
+gap	 	
+word	detritical	
+gap	 	
+word	zircon	
+gap	 	
+word	ages	
+gap	 	
+word	and	
+gap	 	
+word	provenance	
+gap	 	
+word	studies	
+gap	 	
+word	reclassified	
+gap	 	
+word	as	
+gap	 	
+word	been	
+gap	 	
+word	an	
+gap	 	
+word	orogenic	
+gap	 	
+word	basin	
+gap	 (	
+word	flysch	
+gap	 	
+word	type	
+gap	) 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Araçuaí	
+gap	 	
+word	Orogen	
+gap	 	
+word	dated	
+gap	 	
+word	at	
+gap	 	
+word	ca	
+gap	.560	
+word	Ma	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	maximum	
+gap	 	
+word	depositional	
+gap	 	
+word	age	
+gap	 (	
+word	Lima	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. 2002, 	
+word	Pedrosa	
+gap	-	
+word	Soares	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. 2007, 2008). 	
+word	This	
+gap	 	
+word	study	
+gap	 	
+word	presents	
+gap	 	
+word	new	
+gap	 	
+word	geochronological	
+gap	 (	
+word	U	
+gap	-	
+word	Pb	
+gap	, 	
+word	SHRIMP	
+gap	) 	
+word	and	
+gap	 	
+word	litochemical	
+gap	 (	
+word	major	
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	trace	
+gap	 	
+word	element	
+gap	) 	
+word	results	
+gap	 	
+word	that	
+gap	 	
+word	permits	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	detail	
+gap	 	
+word	interpretation	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	potential	
+gap	 	
+word	source	
+gap	 	
+word	areas	
+gap	 	
+word	and	
+gap	 	
+word	geotectonic	
+gap	 	
+word	settings	
+gap	 	
+word	during	
+gap	 	
+word	the	
+gap	 	
+word	Salinas	
+gap	 	
+word	Basin	
+gap	 	
+word	deposition	
+gap	.\n	
+word	The	
+gap	 	
+word	geochronological	
+gap	 	
+word	analysis	
+gap	 	
+word	were	
+gap	 	
+word	performed	
+gap	 	
+word	at	
+gap	 	
+word	ten	
+gap	 	
+word	zircon	
+gap	 	
+word	grains	
+gap	 	
+word	using	
+gap	 	
+word	the	
+gap	 	
+word	Sensitive	
+gap	 	
+word	High	
+gap	 	
+word	Resolution	
+gap	 	
+word	Ion	
+gap	 	
+word	Microcoprobe	
+gap	 (	
+word	SHRIMP	
+gap	 	
+word	II	
+gap	) 	
+word	of	
+gap	 	
+word	Chinese	
+gap	 	
+word	Academy	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Geological	
+gap	 	
+word	Sciences	
+gap	. 	
+word	The	
+gap	 	
+word	zircon	
+gap	 	
+word	grains	
+gap	 	
+word	were	
+gap	 	
+word	concentrated	
+gap	 	
+word	from	
+gap	 	
+word	volcanic	
+gap	 	
+word	rocks	
+gap	 	
+word	pebbles	
+gap	 	
+word	contained	
+gap	 	
+word	in	
+gap	 	
+word	ortoconglomerate	
+gap	 	
+word	which	
+gap	 	
+word	outcrops	
+gap	 	
+word	in	
+gap	 	
+word	northeast	
+gap	 	
+word	of	
+gap	 	
+word	Salinas	
+gap	 	
+word	City	
+gap	. 	
+word	This	
+gap	 	
+word	ortoconclomerate	
+gap	 	
+word	presents	
+gap	 	
+word	pebbles	
+gap	 	
+word	intensely	
+gap	 	
+word	rounded	
+gap	, 	
+word	volcanic	
+gap	 	
+word	and	
+gap	 	
+word	subvolcanic	
+gap	 	
+word	rocks	
+gap	, 	
+word	quartz	
+gap	, 	
+word	quartzite	
+gap	, 	
+word	gneiss	
+gap	, 	
+word	granite	
+gap	 	
+word	and	
+gap	 	
+word	limestone	
+gap	 	
+word	intermingled	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	scarce	
+gap	 	
+word	greywacke	
+gap	 	
+word	matrix	
+gap	. 	
+word	Pebbles	
+gap	 	
+word	of	
+gap	 	
+word	volcanic	
+gap	 	
+word	rock	
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	common	
+gap	, 	
+word	varying	
+gap	 	
+word	between	
+gap	 	
+word	andesite	
+gap	 	
+word	and	
+gap	 	
+word	riolite	
+gap	 	
+word	composition	
+gap	. 	
+word	The	
+gap	 	
+word	interval	
+gap	 568-698 	
+word	Ma	
+gap	 	
+word	reported	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	Salinas	
+gap	 	
+word	Formation	
+gap	 	
+word	metasedimentary	
+gap	 	
+word	rocks	
+gap	 	
+word	suggests	
+gap	 	
+word	contribution	
+gap	 	
+word	from	
+gap	 	
+word	sources	
+gap	 	
+word	areas	
+gap	 	
+word	probably	
+gap	 	
+word	originated	
+gap	 	
+word	during	
+gap	 	
+word	the	
+gap	 	
+word	passive	
+gap	 	
+word	margin	
+gap	, 	
+word	accretionary	
+gap	 	
+word	orogeny	
+gap	 	
+word	and	
+gap	 	
+word	collisional	
+gap	 	
+word	orogeny	NN
+gap	 	
+word	stages	
+gap	.\n	
+word	The	
+gap	 	
+word	Group	
+gap	 1, 	
+word	main	
+gap	 	
+word	interval	
+gap	 (6 	
+word	zircon	
+gap	 	
+word	grains	
+gap	) 	
+word	ca	
+gap	.568-633 	
+word	Ma	
+gap	 	
+word	indicates	
+gap	 	
+word	as	
+gap	 	
+word	potential	
+gap	 	
+word	sources	
+gap	 	
+word	the	
+gap	 	
+word	Rio	
+gap	 	
+word	Doce	
+gap	 	
+word	Magmatic	
+gap	 	
+word	Arc	
+gap	 (	
+word	Pedrosa	
+gap	-	
+word	Soares	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2011), 	
+word	the	
+gap	 	
+word	sin	
+gap	-	
+word	collisional	
+gap	 	
+word	granites	
+gap	 	
+word	of	
+gap	 	
+word	G	
+gap	2 	
+word	Supersuite	
+gap	 (	
+word	Gradim	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2014) 	
+word	and	
+gap	 	
+word	ophiolitic	
+gap	 	
+word	complex	
+gap	 	
+word	related	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	Ribeirão	
+gap	 	
+word	da	
+gap	 	
+word	Folha	
+gap	 	
+word	Formation	
+gap	 (	
+word	Queiroga	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2007; 	
+word	Queiroga	
+gap	, 2010). 	
+word	The	
+gap	 	
+word	Group	
+gap	 2 	
+word	comprises	
+gap	 	
+word	zircon	
+gap	 	
+word	ages	
+gap	 	
+word	between	
+gap	 	
+word	ca	
+gap	.645-680 	
+word	Ma	
+gap	 	
+word	that	
+gap	 	
+word	also	
+gap	 	
+word	suggest	
+gap	 	
+word	contribution	
+gap	 	
+word	from	
+gap	 	
+word	ophiolitic	
+gap	 	
+word	complex	
+gap	 	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	Ribeirão	
+gap	 	
+word	da	
+gap	 	
+word	Folha	
+gap	 	
+word	Formation	
+gap	. 	
+word	The	ART DET
+gap	 	
+word	oldest	
+gap	 	
+word	age	
+gap	 	
+word	ca	
+gap	.698 	
+word	Ma	
+gap	 	
+word	is	
+gap	 	
+word	compatible	
+gap	 	
+word	with	
+gap	 	
+word	provenance	
+gap	 	
+word	from	
+gap	 	
+word	Sul	
+gap	 	
+word	da	
+gap	 	
+word	Bahia	
+gap	 	
+word	Alkaline	
+gap	 	
+word	Province	
+gap	 (	
+word	Rosa	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2007) 	
+word	and	
+gap	 	
+word	possible	
+gap	 	
+word	sources	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	West	
+gap	 	
+word	African	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	the	ART DET
+gap	 	
+word	volcanic	
+gap	 	
+word	mafic	
+gap	 	
+word	rocks	
+gap	 	
+word	of	
+gap	 	
+word	Lower	
+gap	 	
+word	Diamictite	
+gap	 	
+word	Formation	
+gap	 (	
+word	ca	
+gap	. 694	
+word	Ma	
+gap	, 	
+word	U	
+gap	–	
+word	Pb	
+gap	 	
+word	on	
+gap	 	
+word	baddeleyite	
+gap	, 	
+word	Straathof	
+gap	, 2011) 	
+word	and	
+gap	 	
+word	volcanic	
+gap	 	
+word	rocks	
+gap	 	
+word	of	
+gap	 	
+word	La	
+gap	 	
+word	Louille	
+gap	 (	
+word	U	
+gap	-	
+word	Pb	
+gap	 	
+word	on	
+gap	 	
+word	zircon	
+gap	, 	
+word	Thiéblemont	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2011).\n	
+word	The	
+gap	 	
+word	litochemical	
+gap	 	
+word	study	
+gap	 	
+word	includes	
+gap	 46 	
+word	litochemical	
+gap	 	
+word	analysis	
+gap	, 	
+word	trace	
+gap	 	
+word	and	
+gap	 	
+word	major	
+gap	 	
+word	elements	
+gap	, 16 	
+word	analyses	
+gap	 	
+word	are	
+gap	 	
+word	unreleased	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	
+gap	 	
+word	others	
+gap	 	
+word	were	
+gap	 	
+word	compiled	
+gap	 	
+word	from	
+gap	 	
+word	studies	
+gap	 	
+word	of	
+gap	 	
+word	Pedrosa	
+gap	-	
+word	Soares	
+gap	 (1984, 1995) 	
+word	and	
+gap	 	
+word	Grossi	
+gap	 	
+word	Sad	
+gap	 	
+word	e	
+gap	 	
+word	Motta	
+gap	 (1991). 	
+word	The	
+gap	 	
+word	samples	
+gap	 	
+word	are	
+gap	 	
+word	represented	
+gap	 	
+word	by	
+gap	 	
+word	quartz	
+gap	-	
+word	biotite	
+gap	 	
+word	schist	
+gap	, 	
+word	muscovite	
+gap	 	
+word	schist	
+gap	, 	
+word	carbonatic	
+gap	 	
+word	schist	
+gap	 (	
+word	regional	
+gap	 	
+word	and	
+gap	 	
+word	type	
+gap	-	
+word	area	
+gap	 	
+word	represents	
+gap	) 	
+word	and	
+gap	 	
+word	metagreywacke	
+gap	 	
+word	quartzose	
+gap	, 	
+word	characterized	
+gap	 	
+word	as	
+gap	 	
+word	bedded	
+gap	, 	
+word	weakly	
+gap	 	
+word	deformed	
+gap	. 	
+word	Mineralogically	
+gap	 	
+word	are	
+gap	 	
+word	composed	
+gap	 	
+word	by	
+gap	 	
+word	quartz	
+gap	, 	
+word	biotite	
+gap	, 	
+word	muscovite	
+gap	, 	
+word	feldspar	
+gap	 (	
+word	mainly	
+gap	 	
+word	plagioclase	
+gap	), 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	minor	
+gap	 	
+word	proportion	
+gap	 	
+word	calcite	
+gap	, 	
+word	k	
+gap	-	
+word	feldspar	
+gap	, 	
+word	chlorite	
+gap	 	
+word	and	
+gap	 	
+word	lithic	
+gap	 	
+word	fragment	
+gap	. 	
+word	The	
+gap	 	
+word	accessory	
+gap	 	
+word	mineralogy	
+gap	 	
+word	consists	
+gap	 	
+word	of	
+gap	 	
+word	tourmaline	
+gap	, 	
+word	garnet	
+gap	, 	
+word	apatite	
+gap	, 	
+word	zircon	
+gap	, 	
+word	titanite	
+gap	, 	
+word	rutile	
+gap	, 	
+word	staurolite	
+gap	, 	
+word	sillimanite	
+gap	 (	
+word	fibrous	
+gap	) 	
+word	and	
+gap	 	
+word	opaque	
+gap	.\n	
+word	The	
+gap	 	
+word	assemblage	
+gap	 	
+word	of	
+gap	 	
+word	lithocemical	
+gap	 	
+word	data	
+gap	 	
+word	reports	
+gap	 	
+word	low	
+gap	 	
+word	Chemical	
+gap	 	
+word	Index	
+gap	 	
+word	of	
+gap	 	
+word	Alteration	
+gap	 (	
+word	CIA	
+gap	 = 48 	
+word	to	
+gap	 67) 	
+word	and	
+gap	 	
+word	low	
+gap	 	
+word	SiO	
+gap	2/	
+word	Al	
+gap	2	
+word	O	
+gap	3 	
+word	ratio	
+gap	 (2.3 -7.9) 	
+word	that	
+gap	 	
+word	indicates	
+gap	 	
+word	limited	
+gap	 	
+word	weathering	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	source	
+gap	 	
+word	rocks	
+gap	 	
+word	and	
+gap	 	
+word	deposition	
+gap	 	
+word	close	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	source	
+gap	-	
+word	areas	
+gap	. 	
+word	Furthermore	
+gap	, 	
+word	the	
+gap	 	
+word	litochemical	
+gap	 	
+word	characteristics	
+gap	 	
+word	indicate	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	greywackes	
+gap	 	
+word	of	
+gap	 	
+word	Salinas	
+gap	 	
+word	Formation	
+gap	 	
+word	were	
+gap	 	
+word	derived	
+gap	 	
+word	from	
+gap	 	
+word	mixed	
+gap	 	
+word	sources	
+gap	. 	
+word	In	
+gap	 	
+word	terms	
+gap	 	
+word	of	
+gap	 	
+word	provenance	
+gap	, 	
+word	continental	
+gap	 	
+word	magmatic	
+gap	 	
+word	arc	
+gap	, 	
+word	active	
+gap	 	
+word	continental	
+gap	 	
+word	margin	
+gap	 	
+word	and	
+gap	 	
+word	appear	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	important	
+gap	 	
+word	geotectonic	
+gap	 	
+word	environments	
+gap	 	
+word	that	
+gap	 	
+word	contributed	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	sedimentation	
+gap	 	
+word	of	
+gap	 	
+word	Salinas	
+gap	 	
+word	Formation	
+gap	.\n\t	
+word	Considering	
+gap	 	
+word	the	
+gap	 	
+word	geodynamic	
+gap	 	
+word	evolution	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Araçuaí	
+gap	 	
+word	Orogen	
+gap	, 	
+word	the	
+gap	 	
+word	sediments	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Salinas	
+gap	 	
+word	Formation	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	deposited	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	flysch	
+gap	 	
+word	basin	
+gap	 	
+word	located	
+gap	 	
+word	above	
+gap	 	
+word	the	
+gap	 	
+word	passive	
+gap	 	
+word	margin	
+gap	 	
+word	sequence	
+gap	 	
+word	and	
+gap	 	
+word	boundary	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	continental	
+gap	 	
+word	active	
+gap	 	
+word	margin	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	east	
+gap	. 	
+word	The	
+gap	 	
+word	sediments	
+gap	 	
+word	contributions	
+gap	 	
+word	were	
+gap	 	
+word	probably	
+gap	 	
+word	brought	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	turbidity	
+gap	 	
+word	currents	
+gap	 	
+word	originated	
+gap	 	
+word	mainly	
+gap	 	
+word	from	
+gap	 	
+word	the	ART DET
+gap	 	
+word	east	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Salinas	
+gap	 	
+word	Basin	
+gap	.\n\n<Refereces:>\n<GRADIM, C., RONCATO, J., PEDROSA-SOARES, A.C., CORDANI, U.G., DUSSIN, I.A., ALKMIM, F.F., QUEIROGA, G., JACOBSOHN, T., SILVA, L.C., BABINSKI, M., 2014. The hot back-arc zone of the Araçuaí orogen, Eastern Brazil: from sedimentation to granite generation.Braz. J. Geol. n: 44, v.:1, pp. 155–180.>\n<GROSSI-SAD, J.H. & MOTTA, E.G.M., 1991. Geologia e prospecção geoquímica na área Capelinha – Turmalina – Minas Novas, MG. 1991. 125p.GEOSOL, report to ACESITA.>\n<LIMA, S.A.A., MARTINS-NETO, M., PEDROSA-SOARES, A.C., CORDANI, U.G., NUTMAN, A. A Formação Salinas na área tipo, NE de Minas Gerais: uma proposta de revisão da estratigrafia da Faixa Araçuaí com base em evidências sedimentares, metamórficas, e idades U–Pb SHRIMP. Revista Brasileira de Geociências v.32, n.1, p.491–500. 2002.>\n<PEDROSA-SOARES A.C., 1984. Metamorfismo, granitogênese e mineralizações associadas na região de Coronel Murta, NE de Minas Gerais. Brasília, 1984. 236 p. Tese (Mestrado) – Instituto de Geociências, Universidade de Brasília.>\n<PEDROSA-SOARES A.C., 1995. Potencial Aurífero do Vale do Araçuaí, MG: História da exploração, geologia e controle-tectono metamórfico. Brasília, 1995. 176 p. Thesis (PhD) - Instituto de Geociências, Universidade de Brasília.>\n<PEDROSA-SOARES, A.C., NOCE, C.M., ALKMIM, F.F., SILVA, L.C., BABINSKI, M., CORDANI, U., CASTAÑEDA, C., 2007. Orógeno Araçuaí: Síntese do conhecimento 30 anos após Almeida 1977. Geonomos n.15, v.1, pp.1–16.>\n<PEDROSA-SOARES, A.C., CAMPOS, C.P., NOCE, C.M., SILVA, L.C., NOVO, T.A., RONCATO, J., MEDEIROS, S., CASTAÑEDA, C., QUEIROGA, G.N., DANTAS, E., DUSSIN, I.A., ALKMIM, F.F., 2011. Late Neoproterozoic-Cambrian granitic magmatism in the Araçuaí orogen (Brazil), the Eastern Brazilian Pegmatite Province and related mineral resources. Geological Society of London, Special Publications n.350, pp.25–51.>\n<PEDROSA-SOARES, A.C., ALKMIM, F.F., TACK, L., NOCE, C.M., BABINSKI, M., SILVA, L.C., MARTINS-NETO, M.A., 2008. Similarities and differences between the Brazilian and African counterparts of the Neoproterozoic Araçuaí–West Congo orogen. In: Pankhurst, R.J., Trouw, R.A.J., Brito Neves, B.B., de Wit, M.J. (Eds.), West Gond-wana: Pre-Cenozoic Correlations Across the South Atlantic Region. Geological Society of London Special Publications 294, pp. 153–172.>\n<QUEIROGA, G.N., 2006. A seção sedimentat sulfetada do ofiolito de Ribeirão da Folha e seu potencial metalogenético, Orógeno Araçuaí, MG. Belo Horizonte, 2006. 107 p. Dissertação (Mestrado) – Instituto de Geociência, Universidade Federal de Minas Gerais.>\n<QUEIROGA, G.N., (Ph.D. thesis) 2010. Caracterização de restos de litosfera oceânica do Orógeno Aracuaí entre os paralelos 17? e 21? S. Universidade Federal de Minas Gerais, Brazil www.bibliotecadigital.ufmg.br (acessed in 20/06/2016).>\n<ROSA, M.L.S., CONCEIÇÃO, H., MACAMBIRA, M.J., GALARZA, M.A., CUNHA, M.P., MENEZES, R.C.L., MARINHO, M.M., CRUZ-FILHO, B.E., RIOS, D.C. 2007. Neoproterozoic anoro-genic magmatism in the Southern Bahia Alkaline Province of NE Brazil: U–Pb and Pb–Pb ages of the blue sodalite syenites. Lithos 97, 88–97.>\n<STRAATHOF, G.B. 2011. Neoproterozoic Low Latitude Glaciations: An African Perspective. Thesis (PhD). University of Edinburgh, Scotland, UK.>\n<THIÉBLEMONT, D., PRIAN, J.P., GOUJOU, J.C., BOULINGUI, B., EKOGHA, H., KASSADOU, A.B., SIMO-NDOUNZE, S., WALEMBA, A., PRÉAT, A., THEUNISSEN, K., COCHERIE, A., GUERROT, C. 2011. Timing and characteristics of Neoproterozoic magmatism in SW-Gabon:first geochronogical and geochemical data on the West-Congolian orogen in Gabon (SYSMIN project, Gabon 2005–2009). In: 23 Colloquium of African Geology (CAG23). University of Johannesburg, Republic of South Africa, Abstracts.>\n	

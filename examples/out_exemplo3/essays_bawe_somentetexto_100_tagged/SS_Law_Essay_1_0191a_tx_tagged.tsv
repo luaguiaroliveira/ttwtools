@@ -1,1566 +1,2754 @@
 # filename: SS_Law_Essay_1_0191a_tx.txt
-token	tags
-In	PIN CONJ CAP PREP
-his	TPP3 PRP SBJP
-statement	NOMZ
-in	PIN CONJ PREP
-Kleinwort	CAP NNP
-Benson	CAP NNP
-Ltd.	CAP NNP
-v	PIN PREP
-Lincoln	CAP NNP
-City	CAP NNP
-Council	CAP NNP
-[	X
-1998	NUM
-]	
-4All	NUM
-ER	CAP NNP
-513	NUM
-,	
-at	PIN PREP
-518	NUM
-,	
-Lord	CAP NNP
-Browne	CAP NNP
--	
-Wilkinson	CAP NNP
-tears	VPRT
-apart	PIN PREP
-the	ART DET
-traditionaldeclaratory	NN
-theory	NN
-of	PIN PREP
-law	NN
-by	PIN PREP
-suggesting	GER PUBV SUAV PGAS
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	VPRT AUXB
-merely	DWNT RB
-,	
-as	PIN CONJ PREP
-Lord	CAP NNP
-Reidsaid	CAP NNP
-,	
-'	CONT QUOT
-a	ART DET INDA
-fairy	NN
-tale	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-no	SYNE DET
-one	NN
-any	QUAN DET
-longer	RB
-believes	VPRT PRIV
-'	CONT QUOT
-.	
-The	ART CAP DET
-declaratorytheory	NN
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-those	DEMP DET
-who	WH
-deal	VPRT
-with	PIN PREP
-the	ART DET
-mechanics	NN
-of	PIN PREP
-the	ART DET
-law	NN
-have	VPRT
-nobearing	PGAS
-upon	PIN SCONJ PREP
-its	PIT PRP SBJP
-form	NN
-or	CCONJ
-content	NN
-and	CCONJ
-are	BEMA VPRT AUXB
-mere	JJ
-instruments	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-path	NN
-ofjustice	NN
-.	
-Their	TPP3 CAP PRP SBJP
-task	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-to	PIN TO PREP
-alter	INF
-or	CCONJ
-significantly	RB
-impact	INF
-the	ART DET
-law	NN
-,	
-forthat	NN
-latter	NN
-is	BEMA VPRT AUXB
-above	PIN PLACE PREP
-all	QUAN DET
-individuals	NN
-and	CCONJ
-exists	VPRT
-irrespective	RB
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-Judges	PRIV NN CAP
-,	
-according	PGAS
-to	PIN PREP
-this	DEMO DET
-theory	NN
-,	
-are	VPRT AUXB
-not	XX0 RB
-sources	NN
-of	PIN PREP
-law	NN
-,	
-but	CCONJ
-tools	NN
-throughwhich	RB
-the	ART DET
-law	NN
-is	PASS VPRT SPAU AUXB
-selectively	RB
-applied	
-;	
-their	TPP3 PRP SBJP
-duty	NN
-is	PASS VPRT AUXB
-restricted	
-to	PIN PREP
-selectionand	NN
-application	NOMZ
-,	
-and	ANDC CCONJ
-does	VPRT SPAU
-not	XX0 RB
-extend	INF
-to	PIN PREP
-law	NN
-making	NN
-.	
-According	CAP PGAS
-to	PIN PREP
-this	DEMO DET
-theory	NN
-,	
-the	ART DET
-law	NN
-exists	VPRT
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-form	NN
-all	QUAN RB
-along	RB
-,	
-and	ANDC CCONJ
-itis	NN
-for	PIN PREP
-the	ART DET
-judge	PRIV NN
-to	PIN TO PREP
-identify	INF
-that	DEMO DET
-form	NN
-and	CCONJ
-disclose	PUBV THATD INF
-it	PIT PRP SBJP
-to	PIN PREP
-others	NN
-.	
-Theexistence	NN CAP
-of	PIN PREP
-that	DEMO DET
-form	NN
-is	BEMA VPRT AUXB
-constant	JJ PRED
-and	CCONJ
-remains	VPRT
-untouched	JJ
-despite	PIN SCONJ PREP
-the	ART DET
-manyapplications	NOMZ
-of	PIN PREP
-the	ART DET
-law	NN
-by	PIN PREP
-various	JJ
-judges	PRIV NN
-in	PIN CONJ PREP
-different	JJ
-cases	NN
-.	
-When	RB CAP SCONJ WH
-anearlier	JJ CMADJ
-decision	NOMZ
-is	PASS VPRT AUXB
-overruled	
-,	
-the	ART DET
-theory	NN
-reiterates	VPRT
-,	
-the	ART DET
-law	NN
-is	PASS VPRT AUXB
-certainlynot	NN
-changed	
-or	CCONJ
-deemed	PRIV
-faulty	JJ
-;	
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-merely	DWNT RB
-made	
-clear	JJ
-,	
-and	ANDC CCONJ
-its	PIT PRP SBJP
-relevance	NN
-ina	X
-particular	JJ CONJ
-context	NN
-is	PASS VPRT AUXB
-illustrated	
-.	
-Besides	PIN CAP SCONJ PREP
-the	ART DET
-direct	JJ
-legal	JJ
-implications	NOMZ
-,	
-is	BEMA VPRT AUXB
-if	COND PIN SCONJ PREP
-often	RB
-useful	JJ
-to	PIN TO PREP
-consider	PRIV INF
-thewider	INF
-historical	JJ
-and	PHC CCONJ
-philosophical	JJ
-context	NN
-within	PIN PREP
-which	PIRE DET WH
-a	ART DET INDA
-particular	JJ CONJ
-legaltheory	NN
-has	VPRT PEAS
-taken	
-root	NN
-and	CCONJ
-the	ART DET
-ideas	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS
-influenced	
-its	PIT PRP SBJP
-development	NOMZ
-.	
-Interestingly	RB CAP
-,	
-the	ART DET
-position	NOMZ
-of	PIN PREP
-law	NN
-within	PIN PREP
-the	ART DET
-declaratory	JJ
-theory	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-higherbody	NN
-,	
-a	ART DET INDA
-supreme	JJ
-being	NN
-,	
-the	ART DET
-existence	NN
-or	CCONJ
-shape	NN
-of	PIN PREP
-which	PIRE DET WH
-is	PASS VPRT BYPA SPAU AUXB
-not	XX0 RB
-altered	
-by	PIN PREP
-the'coming	GER PGAS
-and	PHC CCONJ
-going	PGAS
-'	CONT QUOT
-,	
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-were	VBD AUXB
-,	
-of	PIN PREP
-various	JJ
-judges	PRIV NN
-,	
-has	VPRT
-significant	JJ
-parallelswith	NNP
-the	ART DET
-Platonic	JJ CAP
-"	QUOT
-Theory	NN CAP
-of	PIN PREP
-Forms	CAP NNP
-"	QUOT
-,	
-with	PIN PREP
-its	PIT PRP SBJP
-great	JJ
-insistence	NN
-upon	PIN SCONJ PREP
-structureand	NN
-order	SUAV NN
-.	
-According	CAP PGAS
-to	PIN PREP
-Plato	CAP NNP
-,	
-the	ART DET
-forms	NN
-are	VPRT AUXB
-not	XX0 RB
-concepts	NN
-in	PIN CONJ PREP
-the	ART DET
-mind	NN
-,	
-butare	JJ
-existing	PGAS
-realities	NN
-apart	RB
-from	PIN PREP
-the	ART DET
-mind	NN
-.	
-For	PIN CAP PREP
-this	DEMO DET
-reason	PRIV NN
-,	
-truth	NN
-(	
-and	ANDC CCONJ
-,	
-ina	NNP
-sense	VPRT PRIV
-,	
-for	PIN PREP
-the	ART DET
-purpose	NN
-of	PIN PREP
-this	DEMO DET
-discussion	NOMZ
-of	PIN PREP
-the	ART DET
-declaratory	NN
-theory	NN
-,	
-thelaw	NN
-)	
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-seen	PRIV
-as	PIN CONJ STPR PREP
-"	QUOT
-either	CCONJ
-mine	NN PRP
-or	CCONJ
-thine	NN
-but	CCONJ
-ours	NN PRP
-,	
-as	PIN CONJ PREP
-there	RB
-for	PIN PREP
-all	QUAN DET
-of	PIN PREP
-usto	JJ
-behold	NN
-.	
-"	QUOT
-Thus	RB CONJ CAP
-,	
-a	ART DET INDA
-process	NN
-of	PIN PREP
-externalisation	NOMZ
-of	PIN PREP
-the	ART DET
-law	NN
-occurs	VPRT
-,	
-and	ANDC CCONJ
-,	
-likePlato	NNP
-'s	
-concept	NN
-of	PIN PREP
-the	ART DET
-truth	NN
-,	
-the	ART DET
-law	NN
-begins	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-perceived	PRIV
-as	PIN CONJ PREP
-existing"out	NNP
-there	RB
-"	QUOT
-,	
-somewhere	RB
-,	
-rather	RB CONJ
-than	PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-private	JJ
-possession	NOMZ
-of	PIN PREP
-anindividual	JJ
-,	
-creating	PRESP PGAS
-what	WH
-Dr.	CAP NNP
-Ziniewicz	CAP NNP
-defines	VPRT
-as	PIN CONJ STPR PREP
-''	CONT
-a	ART DET INDA
-distance	NN
-between	PIN PREP
-thethinker	NN
-and	CCONJ
-the	ART DET
-ideas	NN
-he	TPP3 PRP SBJP
-pursues	VPRT
-''	CONT
-that	PIN STPR DEMP SCONJ PREP
-''	CONT
-keeps	VPRT
-him	TPP3 PRP SBJP ACCU
-humble	JJ
-''	CONT
-,	
-a'humbleness	NNP
-'	CONT QUOT
-that	WHQU DEMP WH
-may	POMD
-be	BEMA AUXB INF
-an	ART DET INDA
-essential	JJ
-element	NOMZ
-of	PIN PREP
-the	ART DET
-legal	JJ
-system	NN
-in	PIN CONJ PREP
-ademocratic	JJ
-setup	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-task	NN
-of	PIN PREP
-discovering	GER PRIV PGAS
-and	PHC CCONJ
-disclosing	GER PUBV PGAS
-'	CONT QUOT
-the	ART DET
-true	JJ
-nature	NN
-of	PIN PREP
-the	ART DET
-law	NN
-'	CONT QUOT
-,	
-thejudge	NN
-must	NEMD SPAU
-impartially	RB
-see	PRIV INF
-the	ART DET
-law	NN
-without	PIN PREP
-attempting	GER PGAS
-to	PIN TO PREP
-own	INF
-it	PIT PRP SBJP
-.	
-In	PIN CONJ CAP PREP
-legalterms	NN
-,	
-this	DEMP DET
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-there	EX
-must	NEMD
-be	BEMA AUXB INF
-a	ART DET INDA
-certain	JJ
-level	NN
-of	PIN PREP
-consistency	NN
-,	
-withlike	JJ
-cases	NN
-being	PASS WZPRES AUXB
-decided	PRIV SUAV
-on	PIN PREP
-a	ART DET INDA
-like	JJ
-basis	NN
-,	
-rather	RB CONJ
-than	PIN PREP
-being	BEMA AUXB
-apparentlysubject	JJ PRED
-to	PIN PREP
-the	ART DET
-whim	NN
-of	PIN PREP
-the	ART DET
-individual	JJ
-judge	PRIV NN
-deciding	WZPRES PRIV SUAV PGAS
-the	ART DET
-case	NN
-in	PIN CONJ PREP
-question	NOMZ
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-crucial	JJ
-aspect	NN
-of	PIN PREP
-formal	JJ
-justice	NN
-,	
-and	ANDC CCONJ
-not	XX0 RB
-only	DWNT RB
-enables	VPRT
-lawyers	NN
-andtheir	VPRT
-clients	NN
-to	PIN TO PREP
-predict	PUBV INF
-the	ART DET
-likely	JJ
-outcome	NN
-of	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-legal	JJ
-questionin	PIN PREP
-the	ART DET
-light	NN
-of	PIN PREP
-previous	JJ
-judicial	JJ
-decisions	NOMZ
-but	CCONJ
-also	RB
-allows	VPRT SUAV THATD
-individuals	NN
-toorient	VPRT
-their	TPP3 PRP SBJP
-behavior	NN
-with	PIN PREP
-regard	NN
-to	PIN PREP
-that	DEMO DET
-rule	SUAV NN
-relatively	RB
-secure	JJ
-in	PIN CONJ PREP
-theknowledge	NN
-that	PIN TOBJ SCONJ PREP
-it	PIT PRP SBJP
-will	PRMD SPAU
-not	XX0 RB
-be	PASS BYPA AUXB INF
-changed	
-by	PIN PREP
-some	QUAN DET
-later	JJ TIME
-court	NN
-.	
-This	DEMO CAP DET
-latterpoint	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-reminder	NN
-that	PIN DEMO SCONJ PREP
-law	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-disassociated	
-from	PIN PREP
-society	NN
-,	
-uponwhich	PIN PREP
-it	PIT PRP SBJP
-has	VPRT
-a	ART DET INDA
-very	AMP RB
-direct	JJ
-and	PHC CCONJ
-constant	JJ
-impact	NN
-.	
-Any	QUAN CAP DET
-such	JJ
-anomaly	NNP
-in	PIN CONJ PREP
-thefunctioning	GER PGAS
-of	PIN PREP
-the	ART DET
-legal	JJ
-system	NN
-will	PRMD
-see	PRIV INF
-a	ART DET INDA
-corresponding	JJ
-impact	NN
-on	PIN PREP
-societynot	NN
-only	DWNT RB
-in	PIN CONJ PREP
-terms	NN
-of	PIN STPR PREP
-,	
-say	PUBV UH
-,	
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-crime	NN
-,	
-for	PIN PREP
-example	NN
-,	
-or	CCONJ
-a	ART DET INDA
-widerrange	NN
-of	PIN PREP
-activities	NN
-being	PASS WZPRES BYPA AUXB
-condemned	
-by	PIN PREP
-the	ART DET
-courts	NN
-as	PIN CONJ PREP
-criminal	JJ
-,	
-but	CCONJ
-also,(and	UH
-this	DEMP DET
-is	VPRT AUXB
-perhaps	RB
-more	RB EMPH CMADJ
-worrying	JJ
-for	PIN PREP
-society	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-)	
-,	
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-anambiguity	NOMZ
-about	PIN PREP
-societal	JJ
-perceptions	NOMZ
-of	PIN PREP
-accepted	PRIV
-values	NN
-and	PHC CCONJ
-modes	NN
-ofbehavior	JJ
-,	
-possibly	RB
-leading	PGAS
-to	PIN PREP
-social	JJ
-anarchy	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-sense	PRIV NN
-,	
-justice	NN
-cannotbe	VPRT
-subjective	JJ
-.	
-To	PIN TO CAP PREP
-rely	INF
-overwhelmingly	RB
-upon	PIN SCONJ PREP
-judicial	JJ
-discretion	NOMZ
-can	POMD
-have	INF
-diresocial	JJ
-consequences	NN
-both	CCONJ
-immediate	JJ
-and	PHC CCONJ
-short	JJ
-term	NN
-,	
-and	ANDC CCONJ
-these	DEMP DET
-will	PRMD
-bediscussed	
-subsequently	RB TIME
-.	
-The	ART CAP DET
-doctrine	NN
-of	PIN PREP
-binding	PGAS
-precedent	NN
-operates	VPRT
-in	PIN CONJ PREP
-theory	NN
-to	PIN TO PREP
-control	INF
-and	PHC CCONJ
-indeedlimit	INF
-the	ART DET
-ambit	NN
-of	PIN PREP
-judicial	JJ
-discretion	NOMZ
-.	
-As	PIN CONJ CAP PREP
-stated	PUBV
-by	PIN PREP
-Lord	CAP NNP
-Diplock	CAP NNP
-in	PIN CONJ PREP
-Davisv	CAP NNP
-Johnson	CAP NNP
-(	
-1979	NUM
-)	
-,	
-a	ART DET INDA
-balance	NN
-must	NEMD
-be	PASS AUXB INF
-struck	
-between	PIN PREP
-the	ART DET
-need	NN
-on	PIN PREP
-one	NUM
-side	NN
-forlegal	JJ
-certainty	NN
-resulting	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-binding	PGAS
-effect	NN
-of	PIN PREP
-previous	JJ
-decisions	NOMZ
-andon	VPRT
-the	ART DET
-other	JJ
-side	NN
-the	ART DET
-avoidance	NN
-of	PIN PREP
-undue	JJ
-restriction	NOMZ
-on	PIN PREP
-the	ART DET
-properdevelopment	NOMZ
-of	PIN PREP
-law	NN
-.	
-I	FPP1 CAP PRP SBJP
-will	PRMD SPAU
-now	RB TIME
-examine	INF
-the	ART DET
-advantages	NN
-and	PHC CCONJ
-disadvantages	NN
-ofthis	JJ
-system	NN
-.	
-Besides	PIN CAP SCONJ PREP
-promoting	PGAS
-consistency	NN
-and	PHC CCONJ
-certainty	NN
-in	PIN CONJ PREP
-law	NN
-,	
-as	PIN CONJ PREP
-aforementioned	
-,	
-thedoctrine	NN
-of	PIN PREP
-stare	JJ
-decisis	NN
-has	VPRT
-,	
-for	PIN PREP
-another	DET
-advantage	NN
-,	
-efficiency	NN
-,	
-and	ANDC CCONJ
-,	
-moreoften	VPRT
-than	PIN PREP
-not	XX0 RB
-,	
-saves	VPRT
-the	ART DET
-time	NN
-of	PIN PREP
-the	ART DET
-judiciary	NN
-,	
-lawyers	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-clientsfor	NN
-the	ART DET
-reason	PRIV NN
-that	TOBJ THVC WHOBJ WHCL WH
-cases	NN
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-to	PIN TO PREP
-be	PASS AUXB INF
-reargued	
-,	
-besides	PIN SCONJ PREP
-saving	PGAS
-thecourt	NN
-expenses	NN
-of	PIN PREP
-potential	JJ
-litigants	NN
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-paradoxically	RB
-,	
-case	NN
-law	NN
-tends	VPRT
-to	PIN TO PREP
-promote	INF
-uncertainty	NN
-dueto	NN
-the	ART DET
-absolute	JJ
-number	NN
-of	PIN PREP
-cases	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS
-been	PASS AUXB
-reported	PUBV
-and	CCONJ
-can	POMD
-be	PASS AUXB INF
-cited	
-asauthorities	NN
-,	
-and	ANDC CCONJ
-this	DEMP DET
-is	PASS VPRT BYPA AUXB
-compounded	
-by	PIN PREP
-the	ART DET
-ability	NOMZ
-of	PIN PREP
-the	ART DET
-judiciary	NN
-toselect	INF
-which	DET WH
-authority	NOMZ
-to	PIN TO PREP
-follow	INF
-through	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-the	ART DET
-mechanism	NN
-ofdistinguishing	GER
-cases	NN
-.	
-Other	JJ CAP
-criticisms	NN
-of	PIN PREP
-the	ART DET
-system	NN
-include	VPRT
-fixity	NOMZ
-,	
-or	CCONJ
-thepossibility	NOMZ
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-law	NN
-pertaining	GER WZPRES PGAS
-to	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-area	NN
-becomes	VPRT
-ossified	
-onthe	DET
-basis	NN
-of	PIN PREP
-an	ART DET INDA
-unjust	JJ
-precedent	NN
-,	
-thus	RB CONJ
-perpetuating	GER PGAS
-previous	JJ
-injustices	NN
-,	
-with	PIN PREP
-the	ART DET
-example	NN
-of	PIN PREP
-marital	JJ
-rape	NN
-,	
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-which	PIRE DET WH
-has	VPRT PEAS SPAU
-only	DWNT RB
-beenrecently	RB
-recognized	PRIV
-(	
-R	NN CAP
-v	NN
-R	NN CAP
-(	
-1992	NUM
-)	
-)	
-.	
-But	CAP CCONJ
-by	PIN PREP
-far	RB PLACE
-the	ART DET
-most	RB EMPH SPADJ
-serious	JJ
-chargeagainst	NN
-a	ART DET INDA
-judge	PRIV NN
--	
-centric	JJ
-conception	NOMZ
-of	PIN PREP
-the	ART DET
-legal	JJ
-system	NN
-is	BEMA VPRT AUXB
-that	DEMO DET
-ofunconstitutionality	NOMZ
-,	
-or	CCONJ
-the	ART DET
-threat	NN
-of	PIN PREP
-the	ART DET
-judiciary	NN
-overstepping	GER WZPRES PGAS
-its''theoretical	JJ
-constitutional	JJ
-role	NN
-''	CONT
-by	PIN PREP
-making	PGAS
-law	NN
-rather	RB
-than	PIN PREP
-simplyapplying	GER PGAS
-it	PIT PRP SBJP
-.	
-Doubtless	CAP NNP
-,	
-the	ART DET
-greatest	JJ SPADJ
-threat	NN
-to	PIN PREP
-liberal	JJ
-democracy	NN
-is	VPRT AUXB
-theexistence	NN
-of	PIN PREP
-an	ART DET INDA
-entirely	AMP RB
-different	JJ
-class	NN
-of	PIN PREP
-parallel	JJ
-lawmakers	NN
-,	
-present	JJ
-atevery	NN
-level	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-every	QUAN DET
-jurisdiction	NOMZ
-,	
-who	WH
-,	
-without	PIN PREP
-popular	JJ
-backing	NN
-,	
-havethe	JJ
-potential	NN
-to	PIN TO PREP
-take	INF
-upon	PIN SCONJ PREP
-themselves	TPP3 PRP SBJP ACCU
-the	ART DET
-formidable	JJ
-task	NN
-of	PIN PREP
-legislation	NOMZ
-,	
-with	PIN PREP
-the	ART DET
-control	NN
-of	PIN PREP
-a	ART DET INDA
-deadly	JJ
-tool	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-hands	NN
-:	
-that	DEMO DET
-of	PIN PREP
-the	ART DET
-court	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-sense	PRIV NN THATD
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-surprising	JJ
-that	PIN THAC SCONJ PREP
-there	EX
-have	VPRT PEAS
-been	BEMA AUXB
-few	QUAN JJ
-adherents	NN
-inrecent	VPRT
-times	NN
-to	PIN PREP
-a	ART DET INDA
-declaratory	JJ
-theory	NN
-in	PIN CONJ PREP
-an	ART DET INDA
-absolute	JJ
-form	NN
-,	
-with	PIN PREP
-its	PIT PRP SBJP
-tendencyto	NN
-limit	NN
-innovation	NOMZ
-and	CCONJ
-ignore	INF
-the	ART DET
-role	NN
-of	PIN PREP
-individual	JJ
-judges	PRIV NN
-and	PHC CCONJ
-theircontributions	NOMZ
-.	
-As	PIN CONJ CAP PREP
-in	PIN CONJ PREP
-any	QUAN DET
-analysis	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-vital	JJ PRED
-not	XX0 RB
-to	PIN TO PREP
-disregard	INF
-thehistorical	JJ
-aspect	NN
-;	
-every	QUAN DET
-common	JJ
-law	NN
-rule	SUAV NN
-must	NEMD SPAU
-originally	RB TIME
-have	PEAS INF
-been	PASS BYPA AUXB
-made	
-by	PIN PREP
-aperson	NN
-or	CCONJ
-a	ART DET INDA
-group	NN
-of	PIN PREP
-people	NN
-,	
-and	ANDC CCONJ
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-subject	JJ PRED
-to	PIN PREP
-infinite	JJ
-regression	NOMZ
-.	
-The	ART CAP DET
-declaratory	JJ
-theory	NN
-seems	VPRT SMP
-,	
-in	PIN CONJ PREP
-a	ART DET INDA
-sense	PRIV NN
-,	
-to	PIN TO PREP
-provide	INF
-a	ART DET INDA
-cover	NN
-,	
-a	ART DET INDA
-mask	NN
-forreality	NOMZ
-,	
-by	PIN PREP
-keeping	PGAS
-the	ART DET
-judge	PRIV NN
-within	PIN PREP
-the	ART DET
-bounds	NN
-of	PIN PREP
-what	WH
-is	BEMA VPRT AUXB
-technicallyacceptable	JJ PRED
-while	OSUB PIN SCONJ PREP
-allowing	SUAV PGAS
-him	TPP3 PRP SBJP ACCU
-substantial	JJ
-power	NN
-to	PIN PREP
-in	PIN CONJ PREP
-effect	NN
-change	INF
-the	ART DET
-law	NN
-.	
-Judges	PRIV NN CAP
-,	
-in	PIN CONJ PREP
-reality	NOMZ
-,	
-are	PASS VPRT SPAU AUXB
-actively	RB
-involved	
-in	PIN CONJ PREP
-the	ART DET
-reform	NN
-and	PHC CCONJ
-creation	NOMZ
-oflaw	NN
-,	
-even	RB
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-not	XX0 RB
-overtly	RB
-.	
-Those	DEMP CAP DET
-who	WH
-assert	VPRT PUBV
-that	PIN THVC SCONJ PREP
-judges	PRIV NN
-have	VPRT
-no	SYNE DET
-place	NN
-inreforming	GER WZPRES PGAS
-statutory	JJ
-provisions	NOMZ
-must	NEMD
-realize	PRIV INF
-,	
-to	PIN TO PREP
-use	INF
-the	ART DET
-words	NN
-of	PIN PREP
-Windeyer	CAP NNP
-J	CAP NNP
-,	
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-[	X
-l]aw	X
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-be	PASS AUXB INF
-accommodated	
-to	PIN PREP
-changing	PGAS
-facts"	NNP
-.	
-In	PIN CONJ CAP PREP
-1956	NUM
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-speech	NN
-in	PIN CONJ PREP
-Lister	CAP NNP
-v	PIN PREP
-Romford	CAP NNP
-Ice	CAP NNP
-and	PHC CCONJ
-Cold	CAP NNP
-Storage	CAP NNP
-Co	CAP NNP
-Ltd	CAP NNP
-,	
-LordRadcliffe	CAP NNP
-said:"No	NNP
-one	NUM
-really	RB EMPH
-doubts	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-common	JJ
-law	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-body	NN
-of	PIN PREP
-law	NN
-which	WHSUB DET WH
-develops	VPRT
-inprocess	NN
-of	PIN PREP
-time	NN
-in	PIN CONJ PREP
-response	NN
-to	PIN PREP
-the	ART DET
-developments	NOMZ
-of	PIN PREP
-the	ART DET
-society	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-itrules	NN
-.	
-Its	PIT CAP PRP SBJP
-movement	NOMZ
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-perceptible	JJ PRED
-at	PIN PREP
-any	QUAN DET
-distinct	JJ
-point	NN
-of	PIN PREP
-time	NN
-,	
-nor	CCONJ
-can	POMD
-we	FPP1 PRP SBJP
-always	RB
-say	PUBV INF
-how	RB WHCL SCONJ WH
-it	PIT PRP SBJP
-gets	VPRT
-from	PIN PREP
-one	NUM
-point	NN
-to	PIN PREP
-another	DET
-;	
-but	CCONJ
-I	FPP1 CAP PRP SBJP
-do	VPRT EMPH
-notthink	INF
-that	PIN STPR DEMP SCONJ PREP
-,	
-for	PIN PREP
-all	QUAN DET
-that	DEMP DET
-,	
-we	FPP1 PRP SBJP
-need	VPRT
-abandon	INF
-the	ART DET
-conviction	NOMZ
-of	PIN PREP
-Galileo	CAP NNP
-thatsomehow	NN
-,	
-by	PIN PREP
-some	QUAN DET
-means	PRIV NN
-,	
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-movement	NOMZ
-that	TSUB WHSUB WH
-takes	VPRT
-place	NN
-.	
-"As	NNP
-illustrated	VBD
-above	RB PLACE
-,	
-and	ANDC CCONJ
-considering	GER PRIV PGAS
-the	ART DET
-existence	NN
-of	PIN PREP
-the	ART DET
-intrinsicself	NN
--	
-regulating	GER PGAS
-mechanisms	NN
-of	PIN PREP
-overruling	GER PGAS
-and	PHC CCONJ
-distinguishing	GER PGAS
-that	DEMP WH
-allow	VPRT SUAV
-thelaw	NN
-to	PIN TO PREP
-modernize	INF
-itself	PIT PRP SBJP ACCU
-,	
-and	ANDC CCONJ
-the	ART DET
-relative	JJ
-ease	NN
-with	PIN PREP
-which	PIRE DET WH
-they	TPP3 PRP SBJP
-enable	VPRT
-judgesto	NNP
-manipulate	NNP
-the	ART DET
-common	JJ
-law	NN
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-ends	NN
-they	TPP3 PRP SBJP
-desire	VPRT SUAV
-,	
-both	DET
-in	PIN CONJ PREP
-aparticular	JJ
-case	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-for	PIN PREP
-the	ART DET
-purpose	NN
-of	PIN PREP
-establishing	GER PRIV PGAS
-precedent	NN
-andsubsequently	RB
-impacting	PGAS
-public	JJ
-opinion	NN
-,	
-it	PIT PRP SBJP
-must	NEMD
-be	PASS AUXB INF
-admitted	PUBV
-that	PIN THVC SCONJ PREP
-even	RB
-withinthe	DET
-limited	JJ
-system	NN
-of	PIN PREP
-binding	PGAS
-precedent	NN
-,	
-there	EX
-is	VPRT AUXB
-an	ART DET INDA
-inherent	JJ
-flexibilitythat	NN
-exists	VPRT
-.	
-Would	PRMD CAP
-it	PIT PRP SBJP
-not	XX0 RB
-be	AUXB INF
-,	
-then	RB
-,	
-rather	RB CONJ
-incorrect	JJ
-,	
-or	CCONJ
-atleast	INF
-a	ART DET INDA
-mildexaggeration	NOMZ
-,	
-to	PIN TO PREP
-state	PUBV INF
-that	THVC DET
-case	NN
-law	NN
-promotes	VPRT
-injustice	NN
-,	
-rigidity	NOMZ
-andhampers	NN
-modernization	NOMZ
-of	PIN PREP
-the	ART DET
-law	NN
-?	QUES
-I	FPP1 CAP PRP SBJP
-believe	VPRT PRIV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-would	PRMD
-,	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-the	ART DET
-fewdisadvantages	NN
-of	PIN PREP
-case	NN
-law	NN
-do	VPRT SPAU
-not	XX0 RB
-outweigh	INF
-its	PIT PRP SBJP
-many	QUAN JJ
-advantages	NN
-.	
-Thus	RB CONJ CAP
-,	
-though	CONC PIN SCONJ PREP
-the	ART DET
-theoretical	JJ
-position	NOMZ
-critiqued	WZPAST
-by	PIN PREP
-Lord	CAP NNP
-Browne	CAP NNP
--	
-Wilkinson	CAP NNP
-andReid	NN
-is	VPRT AUXB
-al	NNP
-policy	NN
-,	
-and	ANDC CCONJ
-reflects	VPRT PRIV
-a	ART DET INDA
-highly	AMP RB
-sterile	JJ
-view	NN
-of	PIN PREP
-law	NN
-as	PIN CONJ PREP
-divorcedfrom	PIN PREP
-the	ART DET
-judge	PRIV NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-certainly	RB
-an	ART DET INDA
-exaggeration	NOMZ
-to	PIN TO PREP
-suggest	PUBV SUAV INF
-,	
-as	PIN CONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-lattersection	NOMZ
-of	PIN PREP
-the	ART DET
-statement	NOMZ
-,	
-that	PIN THVC SCONJ PREP
-the	ART DET
-whole	NN
-of	PIN PREP
-the	ART DET
-common	JJ
-law	NN
-is	PASS VPRT AUXB
-judge	PRIV NN
-made	VBD
-andretains	NN
-its	PIT PRP SBJP
-dynamism	NN
-only	DWNT RB
-through	PIN PREP
-judicial	JJ
-change	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-light	NN
-of	PIN PREP
-thearguments	NOMZ
-above	RB PLACE
-.	
+type	content	tags
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	statement	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Kleinwort	CAP NNP
+gap	 	
+word	Benson	CAP NNP
+gap	 	
+word	Ltd	CAP NNP
+gap	. 	
+word	v	PIN PREP
+gap	 	
+word	Lincoln	CAP NNP
+gap	 	
+word	City	CAP NNP
+gap	 	
+word	Council	CAP NNP
+gap	 [1998] 4	
+word	All	NUM
+gap	 	
+word	ER	CAP NNP
+gap	 513, 	
+word	at	PIN PREP
+gap	 518 , 	
+word	Lord	CAP NNP
+gap	 	
+word	Browne	CAP NNP
+gap	-	
+word	Wilkinson	CAP NNP
+gap	 	
+word	tears	VPRT
+gap	 	
+word	apart	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditionaldeclaratory	NN
+gap	 	
+word	theory	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	law	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	suggesting	GER PUBV SUAV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	merely	DWNT RB
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Lord	CAP NNP
+gap	 	
+word	Reidsaid	CAP NNP
+gap	, '	
+word	a	ART DET INDA
+gap	 	
+word	fairy	NN
+gap	 	
+word	tale	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	one	NN
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	longer	RB
+gap	 	
+word	believes	VPRT PRIV
+gap	'. 	
+word	The	ART CAP DET
+gap	 	
+word	declaratorytheory	NN
+gap	 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	deal	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mechanics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	nobearing	PGAS
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	form	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	content	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	mere	JJ
+gap	 	
+word	instruments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	path	NN
+gap	 	
+word	ofjustice	NN
+gap	. 	
+word	Their	TPP3 CAP PRP SBJP
+gap	 	
+word	task	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	alter	INF
+gap	 	
+word	or	CCONJ
+gap	 	
+word	significantly	RB
+gap	 	
+word	impact	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	, 	
+word	forthat	NN
+gap	 	
+word	latter	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	above	PIN PLACE PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	individuals	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	exists	VPRT
+gap	 	
+word	irrespective	RB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	.	
+word	Judges	PRIV NN CAP
+gap	, 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	theory	NN
+gap	, 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	sources	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	law	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	tools	NN
+gap	 	
+word	throughwhich	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	selectively	RB
+gap	 	
+word	applied	
+gap	; 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	duty	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	restricted	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	selectionand	NN
+gap	 	
+word	application	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	extend	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	law	NN
+gap	 	
+word	making	NN
+gap	.	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	theory	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	exists	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	form	NN
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	along	RB
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	itis	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	judge	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	form	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	disclose	PUBV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	others	NN
+gap	. 	
+word	Theexistence	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	form	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	constant	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	remains	VPRT
+gap	 	
+word	untouched	JJ
+gap	 	
+word	despite	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	manyapplications	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	judges	PRIV NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	cases	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	anearlier	JJ CMADJ
+gap	 	
+word	decision	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	overruled	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	theory	NN
+gap	 	
+word	reiterates	VPRT
+gap	, 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	certainlynot	NN
+gap	 	
+word	changed	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	deemed	PRIV
+gap	 	
+word	faulty	JJ
+gap	; 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	merely	DWNT RB
+gap	 	
+word	made	
+gap	 	
+word	clear	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	relevance	NN
+gap	 	
+word	ina	X
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	context	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	illustrated	
+gap	.	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	direct	JJ
+gap	 	
+word	legal	JJ
+gap	 	
+word	implications	NOMZ
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	often	RB
+gap	 	
+word	useful	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	thewider	INF
+gap	 	
+word	historical	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	philosophical	JJ
+gap	 	
+word	context	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	legaltheory	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	taken	
+gap	 	
+word	root	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	ideas	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	influenced	
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	development	NOMZ
+gap	.	
+word	Interestingly	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	position	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	law	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	declaratory	JJ
+gap	 	
+word	theory	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	higherbody	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	supreme	JJ
+gap	 	
+word	being	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	existence	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	shape	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	altered	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	
+gap	'	
+word	coming	
+gap	 	
+word	and	
+gap	 	
+word	going	
+gap	', 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	were	
+gap	, 	
+word	of	
+gap	 	
+word	various	
+gap	 	
+word	judges	
+gap	, 	
+word	has	
+gap	 	
+word	significant	
+gap	 	
+word	parallelswith	
+gap	 	
+word	the	
+gap	 	
+word	Platonic	
+gap	 "	
+word	Theory	
+gap	 	
+word	of	
+gap	 	
+word	Forms	
+gap	", 	
+word	with	
+gap	 	
+word	its	
+gap	 	
+word	great	
+gap	 	
+word	insistence	
+gap	 	
+word	upon	
+gap	 	
+word	structureand	
+gap	 	
+word	order	
+gap	. 	
+word	According	
+gap	 	
+word	to	
+gap	 	
+word	Plato	
+gap	, 	
+word	the	
+gap	 	
+word	forms	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	concepts	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	, 	
+word	butare	
+gap	 	
+word	existing	
+gap	 	
+word	realities	
+gap	 	
+word	apart	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	. 	
+word	For	
+gap	 	
+word	this	
+gap	 	
+word	reason	
+gap	, 	
+word	truth	
+gap	 (	
+word	and	
+gap	, 	
+word	ina	
+gap	 	
+word	sense	
+gap	, 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	purpose	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	discussion	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	declaratory	
+gap	 	
+word	theory	
+gap	, 	
+word	thelaw	
+gap	) 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	seen	
+gap	 	
+word	as	
+gap	 "	
+word	either	
+gap	 	
+word	mine	
+gap	 	
+word	or	
+gap	 	
+word	thine	
+gap	 	
+word	but	
+gap	 	
+word	ours	
+gap	, 	
+word	as	
+gap	 	
+word	there	
+gap	 	
+word	for	
+gap	 	
+word	all	
+gap	 	
+word	of	
+gap	 	
+word	usto	
+gap	 	
+word	behold	
+gap	." 	
+word	Thus	
+gap	, 	
+word	a	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	externalisation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	 	
+word	occurs	
+gap	, 	
+word	and	
+gap	, 	
+word	likePlato	
+gap	'	
+word	s	
+gap	 	
+word	concept	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	truth	
+gap	, 	
+word	the	
+gap	 	
+word	law	
+gap	 	
+word	begins	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	perceived	
+gap	 	
+word	as	
+gap	 	
+word	existing	
+gap	"	
+word	out	
+gap	 	
+word	there	
+gap	", 	
+word	somewhere	
+gap	, 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	private	
+gap	 	
+word	possession	
+gap	 	
+word	of	
+gap	 	
+word	anindividual	
+gap	, 	
+word	creating	
+gap	 	
+word	what	
+gap	 	
+word	Dr	
+gap	. 	
+word	Ziniewicz	
+gap	 	
+word	defines	
+gap	 	
+word	as	
+gap	 ''	
+word	a	
+gap	 	
+word	distance	
+gap	 	
+word	between	
+gap	 	
+word	thethinker	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	ideas	
+gap	 	
+word	he	
+gap	 	
+word	pursues	
+gap	'' 	
+word	that	
+gap	 ''	
+word	keeps	
+gap	 	
+word	him	
+gap	 	
+word	humble	
+gap	'', 	
+word	a	
+gap	'	
+word	humbleness	
+gap	' 	
+word	that	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	an	
+gap	 	
+word	essential	
+gap	 	
+word	element	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	legal	
+gap	 	
+word	system	
+gap	 	
+word	in	PIN CONJ CAP PREP
+gap	 	
+word	ademocratic	
+gap	 	
+word	setup	
+gap	.	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	task	
+gap	 	
+word	of	
+gap	 	
+word	discovering	
+gap	 	
+word	and	
+gap	 	
+word	disclosing	
+gap	 '	
+word	the	
+gap	 	
+word	true	
+gap	 	
+word	nature	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	', 	
+word	thejudge	
+gap	 	
+word	must	
+gap	 	
+word	impartially	
+gap	 	
+word	see	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	 	
+word	without	
+gap	 	
+word	attempting	
+gap	 	
+word	to	
+gap	 	
+word	own	
+gap	 	
+word	it	
+gap	. 	
+word	In	
+gap	 	
+word	legalterms	
+gap	, 	
+word	this	
+gap	 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	consistency	
+gap	, 	
+word	withlike	
+gap	 	
+word	cases	
+gap	 	
+word	being	
+gap	 	
+word	decided	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	like	
+gap	 	
+word	basis	
+gap	, 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	being	
+gap	 	
+word	apparentlysubject	
+gap	 	
+word	to	
+gap	 	
+word	the	ART DET
+gap	 	
+word	whim	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	individual	
+gap	 	
+word	judge	
+gap	 	
+word	deciding	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	in	
+gap	 	
+word	question	
+gap	.	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	crucial	
+gap	 	
+word	aspect	
+gap	 	
+word	of	
+gap	 	
+word	formal	
+gap	 	
+word	justice	
+gap	, 	
+word	and	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	enables	
+gap	 	
+word	lawyers	
+gap	 	
+word	andtheir	
+gap	 	
+word	clients	
+gap	 	
+word	to	
+gap	 	
+word	predict	
+gap	 	
+word	the	
+gap	 	
+word	likely	
+gap	 	
+word	outcome	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	particular	
+gap	 	
+word	legal	
+gap	 	
+word	questionin	
+gap	 	
+word	the	
+gap	 	
+word	light	
+gap	 	
+word	of	
+gap	 	
+word	previous	
+gap	 	
+word	judicial	
+gap	 	
+word	decisions	
+gap	 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	allows	
+gap	 	
+word	individuals	
+gap	 	
+word	toorient	
+gap	 	
+word	their	
+gap	 	
+word	behavior	
+gap	 	
+word	with	
+gap	 	
+word	regard	
+gap	 	
+word	to	
+gap	 	
+word	that	
+gap	 	
+word	rule	
+gap	 	
+word	relatively	
+gap	 	
+word	secure	
+gap	 	
+word	in	
+gap	 	
+word	theknowledge	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	changed	
+gap	 	
+word	by	
+gap	 	
+word	some	
+gap	 	
+word	later	
+gap	 	
+word	court	
+gap	. 	
+word	This	
+gap	 	
+word	latterpoint	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	reminder	
+gap	 	
+word	that	
+gap	 	
+word	law	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	disassociated	
+gap	 	
+word	from	
+gap	 	
+word	society	
+gap	, 	
+word	uponwhich	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	very	
+gap	 	
+word	direct	
+gap	 	
+word	and	
+gap	 	
+word	constant	
+gap	 	
+word	impact	
+gap	. 	
+word	Any	
+gap	 	
+word	such	
+gap	 	
+word	anomaly	
+gap	 	
+word	in	
+gap	 	
+word	thefunctioning	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	legal	
+gap	 	
+word	system	
+gap	 	
+word	will	
+gap	 	
+word	see	
+gap	 	
+word	a	
+gap	 	
+word	corresponding	
+gap	 	
+word	impact	
+gap	 	
+word	on	
+gap	 	
+word	societynot	
+gap	 	
+word	only	
+gap	 	
+word	in	
+gap	 	
+word	terms	
+gap	 	
+word	of	
+gap	, 	
+word	say	
+gap	, 	
+word	an	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	crime	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	, 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	widerrange	
+gap	 	
+word	of	
+gap	 	
+word	activities	
+gap	 	
+word	being	
+gap	 	
+word	condemned	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	courts	
+gap	 	
+word	as	
+gap	 	
+word	criminal	
+gap	, 	
+word	but	
+gap	 	
+word	also	
+gap	,(	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	perhaps	
+gap	 	
+word	more	
+gap	 	
+word	worrying	
+gap	 	
+word	for	
+gap	 	
+word	society	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	whole	
+gap	), 	
+word	in	
+gap	 	
+word	terms	
+gap	 	
+word	of	
+gap	 	
+word	anambiguity	
+gap	 	
+word	about	
+gap	 	
+word	societal	
+gap	 	
+word	perceptions	
+gap	 	
+word	of	
+gap	 	
+word	accepted	
+gap	 	
+word	values	
+gap	 	
+word	and	
+gap	 	
+word	modes	
+gap	 	
+word	ofbehavior	
+gap	, 	
+word	possibly	
+gap	 	
+word	leading	
+gap	 	
+word	to	
+gap	 	
+word	social	
+gap	 	
+word	anarchy	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	sense	
+gap	, 	
+word	justice	
+gap	 	
+word	cannotbe	
+gap	 	
+word	subjective	
+gap	. 	
+word	To	
+gap	 	
+word	rely	
+gap	 	
+word	overwhelmingly	
+gap	 	
+word	upon	
+gap	 	
+word	judicial	
+gap	 	
+word	discretion	
+gap	 	
+word	can	
+gap	 	
+word	have	
+gap	 	
+word	diresocial	
+gap	 	
+word	consequences	
+gap	 	
+word	both	
+gap	 	
+word	immediate	
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	short	
+gap	 	
+word	term	
+gap	, 	
+word	and	
+gap	 	
+word	these	
+gap	 	
+word	will	
+gap	 	
+word	bediscussed	
+gap	 	
+word	subsequently	
+gap	.	
+word	The	
+gap	 	
+word	doctrine	
+gap	 	
+word	of	
+gap	 	
+word	binding	
+gap	 	
+word	precedent	
+gap	 	
+word	operates	
+gap	 	
+word	in	
+gap	 	
+word	theory	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	and	
+gap	 	
+word	indeedlimit	
+gap	 	
+word	the	
+gap	 	
+word	ambit	
+gap	 	
+word	of	
+gap	 	
+word	judicial	
+gap	 	
+word	discretion	
+gap	. 	
+word	As	
+gap	 	
+word	stated	
+gap	 	
+word	by	
+gap	 	
+word	Lord	
+gap	 	
+word	Diplock	
+gap	 	
+word	in	
+gap	 	
+word	Davisv	
+gap	 	
+word	Johnson	
+gap	 (1979) , 	
+word	a	
+gap	 	
+word	balance	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	struck	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	need	
+gap	 	
+word	on	
+gap	 	
+word	one	
+gap	 	
+word	side	
+gap	 	
+word	forlegal	
+gap	 	
+word	certainty	
+gap	 	
+word	resulting	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	binding	
+gap	 	
+word	effect	
+gap	 	
+word	of	
+gap	 	
+word	previous	
+gap	 	
+word	decisions	
+gap	 	
+word	andon	
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	
+gap	 	
+word	side	
+gap	 	
+word	the	
+gap	 	
+word	avoidance	
+gap	 	
+word	of	
+gap	 	
+word	undue	
+gap	 	
+word	restriction	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	properdevelopment	
+gap	 	
+word	of	
+gap	 	
+word	law	
+gap	. 	
+word	I	
+gap	 	
+word	will	
+gap	 	
+word	now	
+gap	 	
+word	examine	
+gap	 	
+word	the	
+gap	 	
+word	advantages	
+gap	 	
+word	and	
+gap	 	
+word	disadvantages	
+gap	 	
+word	ofthis	
+gap	 	
+word	system	
+gap	.	
+word	Besides	
+gap	 	
+word	promoting	
+gap	 	
+word	consistency	
+gap	 	
+word	and	
+gap	 	
+word	certainty	
+gap	 	
+word	in	
+gap	 	
+word	law	
+gap	, 	
+word	as	
+gap	 	
+word	aforementioned	
+gap	, 	
+word	thedoctrine	
+gap	 	
+word	of	
+gap	 	
+word	stare	
+gap	 	
+word	decisis	
+gap	 	
+word	has	
+gap	, 	
+word	for	
+gap	 	
+word	another	
+gap	 	
+word	advantage	
+gap	, 	
+word	efficiency	
+gap	, 	
+word	and	
+gap	, 	
+word	moreoften	
+gap	 	
+word	than	
+gap	 	
+word	not	
+gap	, 	
+word	saves	
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	judiciary	
+gap	, 	
+word	lawyers	
+gap	 	
+word	and	
+gap	 	
+word	their	
+gap	 	
+word	clientsfor	
+gap	 	
+word	the	
+gap	 	
+word	reason	
+gap	 	
+word	that	
+gap	 	
+word	cases	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	reargued	
+gap	, 	
+word	besides	
+gap	 	
+word	saving	
+gap	 	
+word	thecourt	
+gap	 	
+word	expenses	
+gap	 	
+word	of	
+gap	 	
+word	potential	
+gap	 	
+word	litigants	
+gap	.	
+word	On	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	paradoxically	
+gap	, 	
+word	case	
+gap	 	
+word	law	
+gap	 	
+word	tends	
+gap	 	
+word	to	
+gap	 	
+word	promote	
+gap	 	
+word	uncertainty	
+gap	 	
+word	dueto	
+gap	 	
+word	the	
+gap	 	
+word	absolute	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	cases	
+gap	 	
+word	that	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	reported	
+gap	 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	cited	
+gap	 	
+word	asauthorities	
+gap	, 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	compounded	
+gap	 	
+word	by	
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	judiciary	
+gap	 	
+word	toselect	
+gap	 	
+word	which	
+gap	 	
+word	authority	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	through	
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	mechanism	
+gap	 	
+word	ofdistinguishing	
+gap	 	
+word	cases	
+gap	. 	
+word	Other	
+gap	 	
+word	criticisms	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	system	
+gap	 	
+word	include	
+gap	 	
+word	fixity	
+gap	, 	
+word	or	
+gap	 	
+word	thepossibility	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	 	
+word	pertaining	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	particular	
+gap	 	
+word	area	
+gap	 	
+word	becomes	
+gap	 	
+word	ossified	
+gap	 	
+word	onthe	
+gap	 	
+word	basis	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	unjust	
+gap	 	
+word	precedent	
+gap	, 	
+word	thus	
+gap	 	
+word	perpetuating	
+gap	 	
+word	previous	
+gap	 	
+word	injustices	
+gap	,	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	marital	
+gap	 	
+word	rape	
+gap	, 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	of	
+gap	 	
+word	which	
+gap	 	
+word	has	
+gap	 	
+word	only	
+gap	 	
+word	beenrecently	
+gap	 	
+word	recognized	
+gap	 ( 	
+word	R	
+gap	 	
+word	v	
+gap	 	
+word	R	
+gap	 (1992) ) . 	
+word	But	
+gap	 	
+word	by	
+gap	 	
+word	far	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	serious	
+gap	 	
+word	chargeagainst	
+gap	 	
+word	a	
+gap	 	
+word	judge	
+gap	-	
+word	centric	
+gap	 	
+word	conception	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	legal	
+gap	 	
+word	system	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	ofunconstitutionality	
+gap	, 	
+word	or	
+gap	 	
+word	the	ART DET
+gap	 	
+word	threat	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	judiciary	
+gap	 	
+word	overstepping	
+gap	 	
+word	its	
+gap	''	
+word	theoretical	
+gap	 	
+word	constitutional	
+gap	 	
+word	role	
+gap	'' 	
+word	by	
+gap	 	
+word	making	
+gap	 	
+word	law	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	simplyapplying	
+gap	 	
+word	it	
+gap	. 	
+word	Doubtless	
+gap	, 	
+word	the	
+gap	 	
+word	greatest	
+gap	 	
+word	threat	
+gap	 	
+word	to	
+gap	 	
+word	liberal	
+gap	 	
+word	democracy	
+gap	 	
+word	is	
+gap	 	
+word	theexistence	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	entirely	
+gap	 	
+word	different	
+gap	 	
+word	class	
+gap	 	
+word	of	
+gap	 	
+word	parallel	
+gap	 	
+word	lawmakers	
+gap	, 	
+word	present	
+gap	 	
+word	atevery	
+gap	 	
+word	level	
+gap	 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	every	
+gap	 	
+word	jurisdiction	
+gap	, 	
+word	who	
+gap	, 	
+word	without	
+gap	 	
+word	popular	
+gap	 	
+word	backing	
+gap	, 	
+word	havethe	
+gap	 	
+word	potential	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	upon	
+gap	 	
+word	themselves	
+gap	 	
+word	the	
+gap	 	
+word	formidable	
+gap	 	
+word	task	
+gap	 	
+word	of	
+gap	 	
+word	legislation	
+gap	,	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	control	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	deadly	
+gap	 	
+word	tool	
+gap	 	
+word	in	
+gap	 	
+word	their	
+gap	 	
+word	hands	
+gap	: 	
+word	that	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	court	
+gap	.	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	sense	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	surprising	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	few	
+gap	 	
+word	adherents	
+gap	 	
+word	inrecent	
+gap	 	
+word	times	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	declaratory	
+gap	 	
+word	theory	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	absolute	
+gap	 	
+word	form	
+gap	, 	
+word	with	
+gap	 	
+word	its	
+gap	 	
+word	tendencyto	
+gap	 	
+word	limit	
+gap	 	
+word	innovation	
+gap	 	
+word	and	
+gap	 	
+word	ignore	
+gap	 	
+word	the	
+gap	 	
+word	role	
+gap	 	
+word	of	
+gap	 	
+word	individual	
+gap	 	
+word	judges	
+gap	 	
+word	and	
+gap	 	
+word	theircontributions	
+gap	. 	
+word	As	
+gap	 	
+word	in	
+gap	 	
+word	any	
+gap	 	
+word	analysis	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	vital	
+gap	 	
+word	not	
+gap	 	
+word	to	
+gap	 	
+word	disregard	
+gap	 	
+word	thehistorical	
+gap	 	
+word	aspect	
+gap	; 	
+word	every	
+gap	 	
+word	common	
+gap	 	
+word	law	
+gap	 	
+word	rule	
+gap	 	
+word	must	
+gap	 	
+word	originally	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	made	
+gap	 	
+word	by	
+gap	 	
+word	aperson	
+gap	 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	group	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	, 	
+word	and	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	subject	
+gap	 	
+word	to	
+gap	 	
+word	infinite	
+gap	 	
+word	regression	
+gap	.	
+word	The	
+gap	 	
+word	declaratory	
+gap	 	
+word	theory	
+gap	 	
+word	seems	
+gap	, 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	sense	
+gap	, 	
+word	to	
+gap	 	
+word	provide	
+gap	 	
+word	a	
+gap	 	
+word	cover	
+gap	, 	
+word	a	
+gap	 	
+word	mask	
+gap	 	
+word	forreality	
+gap	, 	
+word	by	
+gap	 	
+word	keeping	
+gap	 	
+word	the	ART DET
+gap	 	
+word	judge	
+gap	 	
+word	within	
+gap	 	
+word	the	
+gap	 	
+word	bounds	
+gap	 	
+word	of	
+gap	 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	technicallyacceptable	
+gap	 	
+word	while	
+gap	 	
+word	allowing	
+gap	 	
+word	him	
+gap	 	
+word	substantial	
+gap	 	
+word	power	
+gap	 	
+word	to	
+gap	 	
+word	in	
+gap	 	
+word	effect	
+gap	 	
+word	change	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	.	
+word	Judges	
+gap	, 	
+word	in	
+gap	 	
+word	reality	
+gap	, 	
+word	are	
+gap	 	
+word	actively	
+gap	 	
+word	involved	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	reform	
+gap	 	
+word	and	
+gap	 	
+word	creation	
+gap	 	
+word	oflaw	
+gap	, 	
+word	even	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	not	
+gap	 	
+word	overtly	
+gap	. 	
+word	Those	
+gap	 	
+word	who	
+gap	 	
+word	assert	
+gap	 	
+word	that	
+gap	 	
+word	judges	
+gap	 	
+word	have	
+gap	 	
+word	no	
+gap	 	
+word	place	
+gap	 	
+word	inreforming	
+gap	 	
+word	statutory	
+gap	 	
+word	provisions	
+gap	 	
+word	must	
+gap	 	
+word	realize	
+gap	, 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	the	
+gap	 	
+word	words	
+gap	 	
+word	of	
+gap	 	
+word	Windeyer	
+gap	 	
+word	J	
+gap	,	
+word	that	
+gap	 "[	
+word	l	
+gap	]	
+word	aw	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	accommodated	
+gap	 	
+word	to	
+gap	 	
+word	changing	
+gap	 	
+word	facts	
+gap	".	
+word	In	PIN CONJ PREP
+gap	 1956 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	speech	
+gap	 	
+word	in	
+gap	 	
+word	Lister	
+gap	 	
+word	v	
+gap	 	
+word	Romford	
+gap	 	
+word	Ice	
+gap	 	
+word	and	
+gap	 	
+word	Cold	
+gap	 	
+word	Storage	
+gap	 	
+word	Co	
+gap	 	
+word	Ltd	
+gap	 , 	
+word	LordRadcliffe	
+gap	 	
+word	said	
+gap	:"	
+word	No	
+gap	 	
+word	one	
+gap	 	
+word	really	
+gap	 	
+word	doubts	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	common	
+gap	 	
+word	law	NN
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	body	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	law	
+gap	 	
+word	which	
+gap	 	
+word	develops	
+gap	 	
+word	inprocess	
+gap	 	
+word	of	
+gap	 	
+word	time	
+gap	 	
+word	in	
+gap	 	
+word	response	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	developments	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	society	
+gap	 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	itrules	
+gap	. 	
+word	Its	
+gap	 	
+word	movement	
+gap	 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	perceptible	
+gap	 	
+word	at	
+gap	 	
+word	any	
+gap	 	
+word	distinct	
+gap	 	
+word	point	
+gap	 	
+word	of	
+gap	 	
+word	time	
+gap	,	
+word	nor	
+gap	 	
+word	can	
+gap	 	
+word	we	
+gap	 	
+word	always	
+gap	 	
+word	say	
+gap	 	
+word	how	
+gap	 	
+word	it	
+gap	 	
+word	gets	
+gap	 	
+word	from	
+gap	 	
+word	one	
+gap	 	
+word	point	
+gap	 	
+word	to	
+gap	 	
+word	another	
+gap	; 	
+word	but	
+gap	 	
+word	I	
+gap	 	
+word	do	
+gap	 	
+word	notthink	
+gap	 	
+word	that	
+gap	, 	
+word	for	
+gap	 	
+word	all	
+gap	 	
+word	that	
+gap	, 	
+word	we	
+gap	 	
+word	need	
+gap	 	
+word	abandon	
+gap	 	
+word	the	
+gap	 	
+word	conviction	
+gap	 	
+word	of	
+gap	 	
+word	Galileo	
+gap	 	
+word	thatsomehow	
+gap	, 	
+word	by	
+gap	 	
+word	some	
+gap	 	
+word	means	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	movement	
+gap	 	
+word	that	
+gap	 	
+word	takes	
+gap	 	
+word	place	
+gap	."	
+word	As	
+gap	 	
+word	illustrated	
+gap	 	
+word	above	
+gap	, 	
+word	and	
+gap	 	
+word	considering	
+gap	 	
+word	the	
+gap	 	
+word	existence	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	
+gap	 	
+word	intrinsicself	
+gap	-	
+word	regulating	
+gap	 	
+word	mechanisms	
+gap	 	
+word	of	
+gap	 	
+word	overruling	
+gap	 	
+word	and	
+gap	 	
+word	distinguishing	
+gap	 	
+word	that	
+gap	 	
+word	allow	
+gap	 	
+word	thelaw	
+gap	 	
+word	to	
+gap	 	
+word	modernize	
+gap	 	
+word	itself	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	relative	
+gap	 	
+word	ease	
+gap	 	
+word	with	
+gap	 	
+word	which	
+gap	 	
+word	they	
+gap	 	
+word	enable	
+gap	 	
+word	judgesto	
+gap	 	
+word	manipulate	
+gap	 	
+word	the	ART DET
+gap	 	
+word	common	
+gap	 	
+word	law	
+gap	 	
+word	to	
+gap	 	
+word	achieve	
+gap	 	
+word	the	
+gap	 	
+word	ends	
+gap	 	
+word	they	
+gap	 	
+word	desire	
+gap	, 	
+word	both	
+gap	 	
+word	in	
+gap	 	
+word	aparticular	
+gap	 	
+word	case	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	purpose	
+gap	 	
+word	of	
+gap	 	
+word	establishing	
+gap	 	
+word	precedent	
+gap	 	
+word	andsubsequently	
+gap	 	
+word	impacting	
+gap	 	
+word	public	
+gap	 	
+word	opinion	
+gap	, 	
+word	it	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	admitted	
+gap	 	
+word	that	
+gap	 	
+word	even	
+gap	 	
+word	withinthe	
+gap	 	
+word	limited	
+gap	 	
+word	system	
+gap	 	
+word	of	
+gap	 	
+word	binding	
+gap	 	
+word	precedent	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	inherent	
+gap	 	
+word	flexibilitythat	
+gap	 	
+word	exists	
+gap	. 	
+word	Would	
+gap	 	
+word	it	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	, 	
+word	then	
+gap	, 	
+word	rather	
+gap	 	
+word	incorrect	
+gap	, 	
+word	or	
+gap	 	
+word	atleast	
+gap	 	
+word	a	
+gap	 	
+word	mildexaggeration	
+gap	, 	
+word	to	
+gap	 	
+word	state	
+gap	 	
+word	that	
+gap	 	
+word	case	
+gap	 	
+word	law	
+gap	 	
+word	promotes	
+gap	 	
+word	injustice	
+gap	, 	
+word	rigidity	
+gap	 	
+word	andhampers	
+gap	 	
+word	modernization	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	? 	
+word	I	
+gap	 	
+word	believe	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	would	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	fewdisadvantages	
+gap	 	
+word	of	
+gap	 	
+word	case	
+gap	 	
+word	law	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	outweigh	
+gap	 	
+word	its	
+gap	 	
+word	many	
+gap	 	
+word	advantages	
+gap	.	
+word	Thus	
+gap	, 	
+word	though	
+gap	 	
+word	the	
+gap	 	
+word	theoretical	
+gap	 	
+word	position	
+gap	 	
+word	critiqued	
+gap	 	
+word	by	
+gap	 	
+word	Lord	
+gap	 	
+word	Browne	
+gap	-	
+word	Wilkinson	
+gap	 	
+word	andReid	
+gap	 	
+word	is	
+gap	 	
+word	al	
+gap	 	
+word	policy	
+gap	, 	
+word	and	
+gap	 	
+word	reflects	
+gap	 	
+word	a	
+gap	 	
+word	highly	
+gap	 	
+word	sterile	
+gap	 	
+word	view	
+gap	 	
+word	of	
+gap	 	
+word	law	
+gap	 	
+word	as	
+gap	 	
+word	divorcedfrom	
+gap	 	
+word	the	
+gap	 	
+word	judge	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	certainly	
+gap	 	
+word	an	
+gap	 	
+word	exaggeration	
+gap	 	
+word	to	
+gap	 	
+word	suggest	
+gap	, 	
+word	as	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	lattersection	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	statement	
+gap	, 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	whole	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	common	
+gap	 	
+word	law	
+gap	 	
+word	is	
+gap	 	
+word	judge	
+gap	 	
+word	made	
+gap	 	
+word	andretains	
+gap	 	
+word	its	
+gap	 	
+word	dynamism	
+gap	 	
+word	only	
+gap	 	
+word	through	
+gap	 	
+word	judicial	
+gap	 	
+word	change	
+gap	, 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	light	
+gap	 	
+word	of	
+gap	 	
+word	thearguments	
+gap	 	
+word	above	
+gap	.	

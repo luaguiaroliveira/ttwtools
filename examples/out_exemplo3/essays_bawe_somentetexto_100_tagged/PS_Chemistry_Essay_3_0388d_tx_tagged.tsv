@@ -1,1459 +1,2480 @@
 # filename: PS_Chemistry_Essay_3_0388d_tx.txt
-token	tags
-High	JJ CAP
--	
-Performance	NN CAP
-Liquid	CAP NNP
-Chromatography	CAP NNP
-(	
-HPLC	CAP NNP
-)	
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-leading	PGAS
-separation	NOMZ
-techniques	NN
-in	PIN CONJ PREP
-the	ART DET
-chemical	NN
-industry	NN
-.	
-HPLC	CAP NNP
-began	VBD
-in	PIN CONJ PREP
-the	ART DET
-1960s	NN
-and	PHC CCONJ
-70s	NN
-and	CCONJ
-now	RB TIME
-represents	VPRT
-60	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-market	NN
-.	
-Its	PIT CAP PRP SBJP
-success	NN
-stems	VPRT
-from	PIN PREP
-the	ART DET
-versatility	NOMZ
-and	PHC CCONJ
-ease	NN
-of	PIN PREP
-use	NN
-associated	WZPAST
-with	PIN PREP
-its	PIT PRP SBJP
-applications	NOMZ
-.	
-High	JJ CAP
-Performance	CAP NNP
-Liquid	CAP NNP
-Chromatography	CAP NNP
-Fundamental	CAP NNP
-Principles	CAP NNP
-and	PHC CCONJ
-Pratice	CAP NNP
-,	
-ed	NNP
-.	
-W.	CAP NNP
-J.	CAP NNP
-Lough	CAP NNP
-,	
-I.	CAP NNP
-W	CAP NNP
-Wainer	CAP NNP
-,	
-Blackie	CAP NNP
-Academic	CAP NNP
-&	CCONJ
-Professional	CAP NNP
-,	
-Glasgow	CAP NNP
-,	
-1995	NUM
-,	
-ch	NN
-.	NNP
-1	NUM
-,	
-pp	NNP
-.	
-12	NUM
--	
-13	NUM
-HPLC	CAP NNP
-involves	VPRT
-the	ART DET
-use	NN
-of	PIN PREP
-a	ART DET INDA
-mechanical	JJ
-instrument	NOMZ
-,	
-which	SERE DET WH
-pumps	VPRT
-solvent	NN
-through	PIN PREP
-a	ART DET INDA
-tightly	RB
-packed	
-column	NN
-of	PIN PREP
-stationary	JJ
-phase	NN
-.	
-The	ART CAP DET
-sample	NN
-is	PASS VPRT AUXB
-injected	
-into	PIN PREP
-this	DEMO DET
-system	NN
-and	CCONJ
-the	ART DET
-time	NN
-taken	WZPAST
-for	PIN PREP
-different	JJ
-compounds	NN
-to	PIN TO PREP
-reach	INF
-the	ART DET
-detector	NN
-at	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-column	NN
-is	PASS VPRT AUXB
-recorded	
-.	
-This	DEMO CAP DET
-data	NN
-can	POMD SPAU
-then	RB
-be	PASS AUXB INF
-transferred	
-to	PIN PREP
-a	ART DET INDA
-computer	NN
-program	NN
-where	RB WHOBJ SCONJ WH
-it	PIT PRP SBJP
-can	POMD
-be	PASS SPAU AUXB INF
-further	RB
-manipulated	
-.	
-Figure	NN CAP
-1	NUM
-:	
-Schematic	JJ CAP
-diagram	NN
-of	PIN PREP
-an	ART DET INDA
-HPLC	CAP NNP
-unit	NN
-V.	CAP NNP
-Meyer	CAP NNP
-,	
-Practical	CAP NNP
-High	JJ CAP
--	
-Performance	CAP NNP
-Liquid	CAP NNP
-Chromatography	CAP NNP
-,	
-Wiley	CAP NNP
-,	
-Weinheim	CAP NNP
-,	
-4th	JJ
-edn	NN
-.	NNP
-,	
-2004	NUM
-,	
-ch	NN
-.	NNP
-1	NUM
-,	
-pp	NNP
-.	
-7	NUM
--	
-10	NUM
-The	ART CAP DET
-chromatography	NN
-can	POMD
-be	PASS AUXB INF
-modified	
-to	PIN TO PREP
-suit	INF
-the	ART DET
-system	NN
-being	PASS WZPRES AUXB
-analysed	
-.	
-Simply	RB CAP
-changing	PGAS
-the	ART DET
-column	NN
-of	PIN PREP
-stationary	JJ
-phase	NN
-can	POMD
-access	INF
-different	JJ
-methods	NN
-of	PIN PREP
-HPLC	CAP NNP
-.	
-Each	QUAN CAP DET
-column	NN
-is	BEMA VPRT AUXB
-also	RB
-compatible	JJ
-with	PIN PREP
-several	QUAN JJ
-solvent	NN
-systems	NN
-allowing	WZPRES SUAV PGAS
-the	ART DET
-method	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-refined	
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-best	JJ SPADJ
-possible	JJ
-separation	NOMZ
-and	PHC CCONJ
-resolution	NOMZ
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-common	JJ
-methods	NN
-is	VPRT AUXB
-adsorption	NOMZ
-chromatography	NN
-.	
-In	PIN CONJ CAP PREP
-principle	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-similar	JJ
-to	PIN PREP
-thin	JJ
--	
-layer	NN
-chromatography	NN
-(	
-TLC	CAP NNP
-)	
-,	
-a	ART DET INDA
-polar	JJ
-material	NN
-with	PIN PREP
-a	ART DET INDA
-high	JJ
-specific	JJ
-surface	NN
-area	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-silica	NNP
-,	
-is	PASS VPRT AUXB
-used	
-as	PIN CONJ PREP
-a	ART DET INDA
-stationary	JJ
-phase	NN
-with	PIN PREP
-a	ART DET INDA
-non	JJ
--	JJ
-polar	JJ
-mobile	JJ
-phase	NN
-(	
-eluent	NNP
-)	
-,	
-such	JJ
-as	PIN CONJ PREP
-hexane	JJ
-.	
-2	NUM
-Another	CAP DET
-popular	JJ
-method	NN
-of	PIN PREP
-HPLC	CAP NNP
-is	PASS VPRT AUXB
-reversed	
--	
-phase	NN
-chromatography	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-essentially	RB
-the	ART DET
-reverse	NN
-of	PIN PREP
-adsorption	NOMZ
-chromatography	NN
-,	
-with	PIN PREP
-a	ART DET INDA
-non	JJ
--	JJ
-polar	JJ
-stationary	JJ
-phase	NN
-and	CCONJ
-polar	JJ
-mobile	JJ
-phase	NN
-.	
-This	DEMO CAP DET
-method	NN
-is	BEMA VPRT AUXB
-useful	JJ PRED
-for	PIN PREP
-analysis	NN
-of	PIN PREP
-aqueous	JJ
-solutions	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-pharmaceutical	NN
-formulations	NOMZ
-of	PIN PREP
-drug	NN
-for	PIN PREP
-the	ART DET
-body	NN
-.	
-Other	JJ CAP
-methods	NN
-of	PIN PREP
-HPLC	CAP NNP
-include	VPRT
-ion	NN
--	
-exchange	NN
-,	
-ion	NN
--	
-pair	NN
-,	
-ion	NN
-,	
-size	NN
--	
-exclusion	NOMZ
-and	PHC CCONJ
-affinity	NOMZ
-chromatography	NN
-.	
-2	NUM
-The	ART CAP DET
-interactions	NOMZ
-of	PIN PREP
-the	ART DET
-analyte	NN
-molecules	NN
-between	PIN PREP
-the	ART DET
-different	JJ
-phases	NN
-cause	VPRT
-some	QUAN DET
-to	PIN TO PREP
-travel	INF
-slower	RB CMADJ
-than	PIN PREP
-others	NN
-through	PIN PREP
-the	ART DET
-stationary	JJ
-phase	NN
-.	
-These	DEMO CAP DET
-interactions	NOMZ
-include	VPRT
-van	NNP
-der	NNP
-Waals	CAP NNP
-forces	NN
-,	
-dipole	NN
--	
-dipole	NN
-,	
-Coulombic	CAP NNP
-forces	NN
-and	PHC CCONJ
-hydrogen	NN
-bonding	NN
-.	
-The	ART CAP DET
-stronger	JJ CMADJ
-the	ART DET
-interactions	NOMZ
-between	PIN PREP
-the	ART DET
-stationary	JJ
-phase	NN
-and	PHC CCONJ
-analyte	NN
-molecules	NN
-the	ART DET
-slower	JJ CMADJ
-the	ART DET
-molecules	NN
-will	PRMD
-travel	INF
-.	
-This	DEMP CAP DET
-provides	VPRT
-retention	NOMZ
-times	NN
-specific	JJ
-to	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-compound	NN
-in	PIN CONJ PREP
-those	DEMO DET
-particular	JJ CONJ
-system	NN
-conditions	NOMZ
-.	
-T.	CAP NNP
-Hanai	CAP NNP
-,	
-HPLC	CAP NNP
-A	ART CAP DET INDA
-Practical	CAP NNP
-Guide	CAP NNP
-,	
-The	ART CAP DET
-Royal	CAP NNP
-Society	CAP NNP
-of	PIN PREP
-Chemistry	CAP NNP
-,	
-Cambridge	CAP NNP
-,	
-1999	NUM
-,	
-ch	NN
-.	NNP
-1	NUM
-,	
-pp	NNP
-.	
-7	NUM
-There	EX CAP
-are	VPRT AUXB
-two	NUM
-models	NN
-of	PIN PREP
-retention	NOMZ
-that	TSUB WHSUB WH
-define	VPRT
-its	PIT PRP SBJP
-mechanism	NN
-:	
-the	ART DET
-solvent	NN
--	
-interaction	NOMZ
-model	NN
-by	PIN PREP
-Scott	CAP NNP
-and	PHC CCONJ
-Kucera	CAP NNP
-in	PIN CONJ PREP
-1979	NUM
-and	CCONJ
-the	ART DET
-solvent	NN
--	
-competition	NOMZ
-model	NN
-by	PIN PREP
-Snyder	CAP NNP
-in	PIN CONJ PREP
-1968	NUM
-and	CCONJ
-1983	NUM
-.	
-Both	CAP DET
-assume	VPRT PRIV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-layer	NN
-of	PIN PREP
-solvent	JJ
-molecules	NN
-,	
-which	SERE DET WH
-interact	VPRT
-strongly	AMP RB
-with	PIN PREP
-the	ART DET
-stationary	JJ
-phase	NN
-,	
-is	PASS VPRT AUXB
-adsorbed	
-onto	PIN PREP
-the	ART DET
-surface	NN
-of	PIN PREP
-the	ART DET
-stationary	JJ
-phase	NN
-.	
-This	DEMP CAP DET
-restricts	VPRT
-the	ART DET
-interactions	NOMZ
-between	PIN PREP
-the	ART DET
-stationary	JJ
-phase	NN
-and	CCONJ
-the	ART DET
-analyte	NN
-molecules	NN
-,	
-causing	PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-to	PIN TO SPIN PREP
-rapidly	RB
-elute	INF
-from	PIN PREP
-the	ART DET
-system	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-solvent	NN
--	
-interaction	NOMZ
-model	NN
-the	ART DET
-analyte	NN
-molecule	NN
-is	PASS VPRT AUXB
-partitioned	
-between	PIN PREP
-the	ART DET
-mobile	JJ
-phase	NN
-and	CCONJ
-the	ART DET
-layer	NN
-of	PIN PREP
-adsorbed	
-solvent	NN
-molecules	NN
-.	
-The	ART CAP DET
-solvent	NN
--	
-competition	NOMZ
-model	NN
-has	VPRT
-the	ART DET
-analyte	JJ
-molecules	NN
-competing	WZPRES PGAS
-with	PIN PREP
-the	ART DET
-strong	JJ
-solvent	NN
-molecules	NN
-for	PIN PREP
-active	JJ
-sites	NN
-in	PIN CONJ PREP
-the	ART DET
-stationary	JJ
-phase	NN
-.	
-However	RB CONJ CAP
-,	
-both	DET
-models	NN
-assume	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-interactions	NOMZ
-between	PIN PREP
-a	ART DET INDA
-certain	JJ
-analyte	NN
-and	CCONJ
-the	ART DET
-stationary	JJ
-phase	NN
-remain	VPRT
-constant	JJ
-.	
-Therefore	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-must	NEMD
-be	PASS AUXB INF
-concluded	PRIV
-that	PIN THVC SCONJ PREP
-retention	NOMZ
-is	PASS VPRT BYPA AUXB
-determined	PRIV SUAV
-by	PIN PREP
-the	ART DET
-composition	NOMZ
-of	PIN PREP
-the	ART DET
-mobile	JJ
-phase	NN
-for	PIN PREP
-any	QUAN DET
-particular	JJ CONJ
-stationary	JJ
-phase	NN
-.	
-If	COND PIN CAP SCONJ PREP
-both	DET
-models	NN
-have	VPRT
-the	ART DET
-same	JJ
-outcome	NN
-it	PIT PRP SBJP
-must	NEMD
-be	PASS AUXB INF
-presumed	PRIV
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-equivalent	JJ PRED
-to	PIN PREP
-another	DET
-.	
-High	JJ CAP
-Performance	CAP NNP
-Liquid	CAP NNP
-Chromatography	CAP NNP
-Fundamental	CAP NNP
-Principles	CAP NNP
-and	PHC CCONJ
-Pratice	CAP NNP
-,	
-ed	NNP
-.	
-W.	CAP NNP
-J.	CAP NNP
-Lough	CAP NNP
-,	
-I.	CAP NNP
-W	CAP NNP
-Wainer	CAP NNP
-,	
-Blackie	CAP NNP
-Academic	CAP NNP
-&	CCONJ
-Professional	CAP NNP
-,	
-Glasgow	CAP NNP
-,	
-1995	NUM
-,	
-ch	NN
-.	NNP
-3	NUM
-,	
-pp	NNP
-.	
-39	NUM
--	
-40	NUM
-V.	CAP NNP
-Meyer	CAP NNP
-,	
-Practical	CAP NNP
-High	JJ CAP
--	
-Performance	CAP NNP
-Liquid	CAP NNP
-Chromatography	CAP NNP
-,	
-Wiley	CAP NNP
-,	
-Weinheim	CAP NNP
-,	
-4th	JJ
-edn	NN
-.	NNP
-,	
-2004	NUM
-,	
-ch	NN
-.	NNP
-10	NUM
-,	
-pp	NNP
-.	
-159	NUM
--	
-161	NUM
-Figure	NN CAP
-2	NUM
-:	
-Retention	NOMZ CAP
-model	NN
-diagrams4	NN
-At	PIN CAP PREP
-AstraZeneca	CAP NNP
-reversed	JJ
--	
-phase	NN
-HPLC	CAP NNP
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-frequently	RB
-used	
-analytical	JJ
-methods	NN
-.	
-The	ART CAP DET
-ability	NOMZ
-of	PIN PREP
-HPLC	CAP NNP
-to	PIN TO PREP
-separate	INF
-a	ART DET INDA
-significant	JJ
-number	NN
-of	PIN PREP
-compounds	NN
-within	PIN PREP
-a	ART DET INDA
-mixture	NN
-makes	VPRT
-it	PIT PRP SBJP
-ideal	JJ
-to	PIN TO PREP
-detect	INF
-the	ART DET
-end	NN
-of	PIN PREP
-a	ART DET INDA
-reaction	NOMZ
-.	
-All	QUAN CAP DET
-that	WHQU DEMP WH
-is	PASS VPRT AUXB
-required	SUAV
-is	BEMA VPRT AUXB
-a	ART DET INDA
-representative	JJ
-sample	NN
-of	PIN PREP
-the	ART DET
-reaction	NOMZ
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-dissolved	
-in	PIN CONJ PREP
-a	ART DET INDA
-similar	JJ
-solvent	NN
-system	NN
-to	PIN PREP
-that	DEMP DET
-used	
-in	PIN CONJ PREP
-the	ART DET
-HPLC	CAP NNP
-method	NN
-.	
-Dilution	NOMZ CAP
-enables	VPRT
-the	ART DET
-scaling	NN
-of	PIN PREP
-the	ART DET
-response	NN
-of	PIN PREP
-compounds	NN
-so	PIN SCONJ PREP
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-exceed	INF
-the	ART DET
-limit	NN
-of	PIN PREP
-the	ART DET
-detector	NN
-.	
-Complete	JJ CAP
-dissolution	NOMZ
-is	BEMA VPRT AUXB
-also	RB
-important	JJ
-as	PIN CONJ PREP
-a	ART DET INDA
-partially	DWNT RB
-dissolved	
-sample	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-representative	JJ
-of	PIN PREP
-the	ART DET
-reaction	NOMZ
-,	
-but	CCONJ
-also	RB
-solid	JJ
-can	POMD
-be	PASS AUXB INF
-injected	
-into	PIN PREP
-the	ART DET
-system	NN
-,	
-which	SERE WHQU DET WH
-can	POMD
-cause	INF
-blockages	NN
-.	
-By	PIN CAP PREP
-comparing	PGAS
-the	ART DET
-chromatogram	NN
-of	PIN PREP
-the	ART DET
-reaction	NOMZ
-to	PIN PREP
-known	PRIV
-compound	NN
-retention	NOMZ
-times	NN
-the	ART DET
-progress	NN
-of	PIN PREP
-the	ART DET
-reaction	NOMZ
-can	POMD
-be	PASS BYPA AUXB INF
-determined	PRIV SUAV
-by	PIN PREP
-checking	PRIV PGAS
-for	PIN PREP
-the	ART DET
-absence	NN
-of	PIN PREP
-the	ART DET
-starting	NN
-material	NN
-and	CCONJ
-the	ART DET
-presence	NN
-of	PIN PREP
-the	ART DET
-product	NN
-.	
-My	FPP1 CAP PRP SBJP
-work	NN
-has	VPRT PEAS
-relied	
-heavily	RB
-on	PIN PREP
-HPLC	CAP NNP
-to	PIN TO PREP
-detect	INF
-the	ART DET
-presence	NN
-of	PIN PREP
-certain	JJ
-impurities	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-solid	JJ
-that	THAC WH
-had	VBD PEAS
-been	PASS AUXB
-isolated	
-from	PIN PREP
-a	ART DET INDA
-reaction	NOMZ
-spiked	WZPAST
-with	PIN PREP
-those	DEMO DET
-impurities	NN
-.	
-HPLC	CAP NNP
-can	POMD
-be	PASS AUXB INF
-used	
-qualitatively	RB
-to	PIN TO PREP
-determine	PRIV SUAV INF
-the	ART DET
-presence	NN
-of	PIN PREP
-the	ART DET
-impurities	NN
-,	
-but	CCONJ
-also	RB
-quantitatively	RB
-to	PIN TO PREP
-calculate	PRIV INF
-the	ART DET
-mass	NN
-of	PIN PREP
-the	ART DET
-impurity	NOMZ
-present	JJ
-in	PIN CONJ PREP
-the	ART DET
-sample	NN
-.	
-A	ART CAP DET INDA
-spike	NN
-is	BEMA VPRT AUXB
-when	RB SCONJ WH
-a	ART DET INDA
-relatively	RB
-very	AMP RB
-small	JJ
-amount	NN
-of	PIN PREP
-a	ART DET INDA
-compound	NN
-under	PIN PREP
-analysis	NN
-is	PASS VPRT AUXB
-added	PUBV
-to	PIN PREP
-a	ART DET INDA
-much	QUAN RB
-larger	JJ CMADJ
-quantity	NOMZ
-of	PIN PREP
-a	ART DET INDA
-different	JJ
-compound	NN
-Figure	NN CAP
-3	NUM
-:	
-Typical	JJ CAP
-HPLC	CAP NNP
-chromatogram	NN
-Most	JJ EMPH CAP SPADJ
-HPLC	CAP NNP
-apparatus	NN
-uses	VPRT
-UV	CAP NNP
-detectors	NN
-,	
-which	SERE DET WH
-measure	VPRT
-the	ART DET
-UV	NN CAP
-absorbance	NN
-of	PIN PREP
-analyte	NN
-compounds	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-elute	VPRT
-from	PIN PREP
-the	ART DET
-column	NN
-.	
-UV	NN CAP
-absorbance	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-constant	NN
-for	PIN PREP
-a	ART DET INDA
-molecule	NN
-of	PIN PREP
-a	ART DET INDA
-compound	NN
-,	
-over	PIN PREP
-a	ART DET INDA
-concentration	NOMZ
-range	NN
-,	
-and	ANDC CCONJ
-so	RB
-is	BEMA VPRT AUXB
-directly	RB
-proportional	JJ
-to	PIN PREP
-the	ART DET
-concentration	NOMZ
-of	PIN PREP
-the	ART DET
-compound	NN
-.	
-The	ART CAP DET
-relative	JJ
-response	NN
-of	PIN PREP
-a	ART DET INDA
-compound	NN
-can	POMD
-be	PASS BYPA AUXB INF
-calculated	PRIV
-by	PIN PREP
-measuring	PGAS
-the	ART DET
-response	NN
-of	PIN PREP
-a	ART DET INDA
-known	PRIV
-quantity	NOMZ
-of	PIN PREP
-known	PRIV
-strength	NN
-.	
-From	PIN CAP PREP
-this	DEMO DET
-calculation	NOMZ
-a	ART DET INDA
-scalar	NN
-can	POMD
-be	PASS AUXB INF
-applied	
-so	RB
-the	ART DET
-response	NN
-in	PIN CONJ PREP
-the	ART DET
-chromatogram	NN
-represents	VPRT
-the	ART DET
-physical	JJ
-proportion	NOMZ
-.	
-The	ART CAP DET
-proportional	JJ
-relationship	NN
-between	PIN PREP
-response	NN
-and	PHC CCONJ
-concentration	NOMZ
-also	RB
-means	VPRT PRIV
-the	ART DET
-strength	NN
-of	PIN PREP
-a	ART DET INDA
-solid	JJ
-compound	NN
-can	POMD
-be	PASS BYPA AUXB INF
-calculated	PRIV
-by	PIN PREP
-comparison	NN
-to	PIN PREP
-a	ART DET INDA
-measured	JJ
-standard	NN
-.	
-Providing	PRESP CAP PGAS
-the	ART DET
-concentrations	NOMZ
-of	PIN PREP
-the	ART DET
-standard	NN
-and	PHC CCONJ
-sample	NN
-are	PASS VPRT AUXB
-known	PRIV
-then	RB
-a	ART DET INDA
-direct	JJ
-comparison	NN
-of	PIN PREP
-the	ART DET
-response	NN
-can	POMD
-be	PASS AUXB INF
-made	
-to	PIN TO PREP
-determine	PRIV SUAV INF
-the	ART DET
-concentration	NOMZ
-of	PIN PREP
-the	ART DET
-compound	NN
-in	PIN CONJ PREP
-the	ART DET
-sample	NN
-solution	NOMZ
-and	ANDC CCONJ
-therefore	RB CONJ
-the	ART DET
-actual	JJ
-amount	NN
-of	PIN PREP
-the	ART DET
-compound	NN
-in	PIN CONJ PREP
-the	ART DET
-solid	JJ
-.	
-The	ART CAP DET
-comparison	NN
-can	POMD SPAU
-only	DWNT RB
-be	PASS AUXB INF
-made	
-over	PIN PREP
-a	ART DET INDA
-given	
-range	NN
-of	PIN PREP
-concentrations	NOMZ
-in	PIN CONJ PREP
-which	PIRE DET WH
-the	ART DET
-response	NN
-is	BEMA VPRT AUXB
-linear	JJ PRED
-.	
-Strength	NN CAP
-is	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-the	ART DET
-mass	NN
-of	PIN PREP
-a	ART DET INDA
-compound	NN
-in	PIN CONJ PREP
-100	NUM
-g	NN
-of	PIN PREP
-solid	JJ
-.	
-The	ART CAP DET
-advantages	NN
-to	PIN PREP
-HPLC	CAP NNP
-are	BEMA VPRT AUXB
-many	QUAN JJ PRED
-and	PHC CCONJ
-varied	JJ PRED
-.	
-As	RB CONJ CAP
-well	RB
-as	PIN CONJ PREP
-being	BEMA AUXB
-fast	JJ PRED
-,	
-simple	JJ
-and	PHC CCONJ
-accurate	JJ
-HPLC	CAP NNP
-is	VPRT AUXB
-also	RB
-greatly	AMP RB
-versatile	JJ
-,	
-due	PIN PREP
-to	PIN PREP
-both	DET
-phases	NN
-having	WZPRES PGAS
-a	ART DET INDA
-large	JJ
-number	NN
-of	PIN PREP
-variants	NN
-.	
-Sample	NN CAP
-preparation	NOMZ
-is	VPRT AUXB
-also	RB
-quite	RB
-simple	JJ
-,	
-as	PIN CONJ PREP
-dissolution	NOMZ
-only	DWNT RB
-requires	VPRT SUAV
-the	ART DET
-correct	JJ
-solvent	NN
-,	
-unlike	PIN PREP
-gas	NN
-chromatography	NN
-(	
-GC	CAP NNP
-)	
-,	
-another	DET
-high	JJ
--	
-performance	NN
-analytical	JJ
-method	NN
-.	
-GC	CAP NNP
-can	POMD
-only	DWNT RB
-approximately	RB
-20	NUM
-%	NN
-of	PIN PREP
-organic	JJ
-compounds	NN
-,	
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-requires	VPRT SUAV
-samples	NN
-to	PIN TO PREP
-be	AUXB INF
-either	CCONJ
-volatile	JJ
-or	CCONJ
-able	JJ
-to	PIN TO PREP
-evaporate	INF
-without	PIN PREP
-degradation	NOMZ
-.	
-Simple	JJ CAP
-dissolution	NOMZ
-is	BEMA VPRT AUXB
-all	QUAN DET
-that	DEMP WH
-is	PASS VPRT AUXB
-needed	
-for	PIN PREP
-HPLC	CAP NNP
-and	CCONJ
-allows	VPRT SUAV
-the	ART DET
-analysis	NN
-of	PIN PREP
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-compounds	NN
-.	
-2	NUM
-J.	CAP NNP
-M.	CAP NNP
-Miller	CAP NNP
-,	
-Chromatography	CAP NNP
-Concepts	CAP NNP
-and	PHC CCONJ
-Contrasts	CAP NNP
-,	
-Wiley	CAP NNP
-,	
-New	CAP NNP
-Jersey	CAP NNP
-,	
-2nd	JJ
-edn	NNP
-.	NNP
-,	
-2005	NUM
-,	
-ch	NN
-.	NNP
-8	NUM
-,	
-pp	NNP
-.	
-184	NUM
-However	RB CONJ CAP
-,	
-highly	AMP RB
-insoluble	JJ
-molecules	NN
-may	POMD SPAU
-not	XX0 RB
-dissolve	INF
-to	PIN PREP
-a	ART DET INDA
-high	JJ
-enough	JJ
-concentration	NOMZ
-to	PIN TO PREP
-give	INF
-a	ART DET INDA
-response	NN
-.	
-Also	RB CAP
-because	CAUS PIN SCONJ PREP
-the	ART DET
-response	NN
-of	PIN PREP
-each	QUAN DET
-compound	NN
-vaires	NN
-with	PIN PREP
-how	RB SCONJ WH
-well	RB
-it	PIT PRP SBJP
-absorbs	VPRT
-UV	CAP NNP
-light	NN
-a	ART DET INDA
-compound	NN
-may	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-detected	
-due	PIN PREP
-to	PIN PREP
-its	PIT PRP SBJP
-poor	JJ
-absorbance	NN
-,	
-or	CCONJ
-it	PIT PRP SBJP
-may	POMD SPAU
-not	XX0 RB
-absorb	INF
-the	ART DET
-light	NN
-at	RB PIN PREP
-all	QUAN RB
-.	
-However	RB CONJ CAP
-,	
-compounds	NN
-without	PIN PREP
-a	ART DET INDA
-UV	NN CAP
-chromaphore	NN
-can	POMD
-be	PASS AUXB INF
-analysed	
-using	PGAS
-a	ART DET INDA
-different	JJ
-detector	NN
-,	
-or	CCONJ
-by	PIN PREP
-GC	CAP NNP
-.	
-Another	CAP DET
-disadvantage	NN
-is	BEMA VPRT AUXB
-the	ART DET
-time	NN
-needed	WZPAST
-to	PIN TO PREP
-develop	INF
-the	ART DET
-best	JJ SPADJ
-method	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-dependent	JJ PRED
-on	PIN PREP
-the	ART DET
-number	NN
-of	PIN PREP
-compounds	NN
-that	TSUB WHSUB WH
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-resolved	SUAV
-.	
-Without	PIN CAP PREP
-that	DEMO DET
-method	NN
-some	QUAN DET
-compounds	NN
-may	POMD
-have	INF
-the	ART DET
-same	JJ
-RT	CAP NNP
-as	PIN CONJ PREP
-others	NN
-and	ANDC CCONJ
-this	DEMP DET
-can	POMD
-lead	INF
-to	PIN PREP
-false	JJ
-negatives	NN
-and	PHC CCONJ
-positives	NN
-.	
-The	ART CAP DET
-overall	JJ
-conclusion	NOMZ
-can	POMD
-be	PASS AUXB INF
-made	
-that	PIN DEMO SCONJ PREP
-HPLC	CAP NNP
-is	BEMA VPRT AUXB
-an	ART DET INDA
-incredibly	RB
-useful	JJ
-method	NN
-and	CCONJ
-an	ART DET INDA
-important	JJ
-tool	NN
-in	PIN CONJ PREP
-qualitative	JJ
-and	PHC CCONJ
-quantitative	JJ
-chemical	NN
-analysis	NN
-.	
+type	content	tags
+word	High	JJ CAP
+gap	-	
+word	Performance	NN CAP
+gap	 	
+word	Liquid	CAP NNP
+gap	 	
+word	Chromatography	CAP NNP
+gap	 (	
+word	HPLC	CAP NNP
+gap	) 	
+word	is	VPRT AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	leading	PGAS
+gap	 	
+word	separation	NOMZ
+gap	 	
+word	techniques	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chemical	NN
+gap	 	
+word	industry	NN
+gap	. 	
+word	HPLC	CAP NNP
+gap	 	
+word	began	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 1960	
+word	s	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 70	
+word	s	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	now	RB TIME
+gap	 	
+word	represents	VPRT
+gap	 60% 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	. 	
+word	Its	PIT CAP PRP SBJP
+gap	 	
+word	success	NN
+gap	 	
+word	stems	VPRT
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	versatility	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	ease	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	use	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	applications	NOMZ
+gap	. 	
+word	High	JJ CAP
+gap	 	
+word	Performance	CAP NNP
+gap	 	
+word	Liquid	CAP NNP
+gap	 	
+word	Chromatography	CAP NNP
+gap	 	
+word	Fundamental	CAP NNP
+gap	 	
+word	Principles	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Pratice	CAP NNP
+gap	 , 	
+word	ed	NNP
+gap	. 	
+word	W	CAP NNP
+gap	. 	
+word	J	CAP NNP
+gap	. 	
+word	Lough	CAP NNP
+gap	, 	
+word	I	CAP NNP
+gap	. 	
+word	W	CAP NNP
+gap	 	
+word	Wainer	CAP NNP
+gap	, 	
+word	Blackie	CAP NNP
+gap	 	
+word	Academic	CAP NNP
+gap	 & 	
+word	Professional	CAP NNP
+gap	, 	
+word	Glasgow	CAP NNP
+gap	, 1995, 	
+word	ch	NN
+gap	. 1, 	
+word	pp	NNP
+gap	. 12-13 	
+word	HPLC	CAP NNP
+gap	 	
+word	involves	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	mechanical	JJ
+gap	 	
+word	instrument	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	pumps	VPRT
+gap	 	
+word	solvent	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tightly	RB
+gap	 	
+word	packed	
+gap	 	
+word	column	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	sample	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	injected	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	system	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	taken	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	compounds	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reach	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	detector	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	column	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	recorded	
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	data	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	then	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	transferred	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	computer	NN
+gap	 	
+word	program	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	further	RB
+gap	 	
+word	manipulated	
+gap	. 	
+word	Figure	NN CAP
+gap	 1: 	
+word	Schematic	JJ CAP
+gap	 	
+word	diagram	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	unit	NN
+gap	 	
+word	V	CAP NNP
+gap	. 	
+word	Meyer	CAP NNP
+gap	, 	
+word	Practical	CAP NNP
+gap	 	
+word	High	JJ CAP
+gap	-	
+word	Performance	CAP NNP
+gap	 	
+word	Liquid	CAP NNP
+gap	 	
+word	Chromatography	CAP NNP
+gap	 , 	
+word	Wiley	CAP NNP
+gap	, 	
+word	Weinheim	CAP NNP
+gap	, 4	
+word	th	JJ
+gap	 	
+word	edn	NN
+gap	., 2004, 	
+word	ch	NN
+gap	. 1, 	
+word	pp	NNP
+gap	. 7-10 	
+word	The	ART CAP DET
+gap	 	
+word	chromatography	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	modified	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	suit	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	 	
+word	being	PASS WZPRES AUXB
+gap	 	
+word	analysed	
+gap	. 	
+word	Simply	RB CAP
+gap	 	
+word	changing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	column	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	access	INF
+gap	 	
+word	different	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	. 	
+word	Each	QUAN CAP DET
+gap	 	
+word	column	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	compatible	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	solvent	NN
+gap	 	
+word	systems	NN
+gap	 	
+word	allowing	WZPRES SUAV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	method	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	refined	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	possible	JJ
+gap	 	
+word	separation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	resolution	NOMZ
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	common	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	adsorption	NOMZ
+gap	 	
+word	chromatography	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	principle	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	similar	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	thin	JJ
+gap	-	
+word	layer	NN
+gap	 	
+word	chromatography	NN
+gap	 (	
+word	TLC	CAP NNP
+gap	), 	
+word	a	ART DET INDA
+gap	 	
+word	polar	JJ
+gap	 	
+word	material	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	specific	JJ
+gap	 	
+word	surface	NN
+gap	 	
+word	area	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	silica	NNP
+gap	, 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	non	JJ
+gap	-	
+word	polar	JJ
+gap	 	
+word	mobile	JJ
+gap	 	
+word	phase	NN
+gap	 (	
+word	eluent	NNP
+gap	), 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	hexane	JJ
+gap	. 2 	
+word	Another	CAP DET
+gap	 	
+word	popular	JJ
+gap	 	
+word	method	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	reversed	
+gap	-	
+word	phase	NN
+gap	 	
+word	chromatography	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essentially	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	reverse	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	adsorption	NOMZ
+gap	 	
+word	chromatography	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	non	JJ
+gap	-	
+word	polar	JJ
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	polar	JJ
+gap	 	
+word	mobile	JJ
+gap	 	
+word	phase	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	method	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	useful	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	aqueous	JJ
+gap	 	
+word	solutions	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	pharmaceutical	NN
+gap	 	
+word	formulations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	drug	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	body	NN
+gap	. 	
+word	Other	JJ CAP
+gap	 	
+word	methods	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	include	VPRT
+gap	 	
+word	ion	NN
+gap	-	
+word	exchange	NN
+gap	, 	
+word	ion	NN
+gap	-	
+word	pair	NN
+gap	, 	
+word	ion	NN
+gap	, 	
+word	size	NN
+gap	-	
+word	exclusion	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	affinity	NOMZ
+gap	 	
+word	chromatography	NN
+gap	. 2 	
+word	The	ART CAP DET
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	analyte	NN
+gap	 	
+word	molecules	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	phases	NN
+gap	 	
+word	cause	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	travel	INF
+gap	 	
+word	slower	RB CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	others	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	include	VPRT
+gap	 	
+word	van	NNP
+gap	 	
+word	der	NNP
+gap	 	
+word	Waals	CAP NNP
+gap	 	
+word	forces	NN
+gap	, 	
+word	dipole	NN
+gap	-	
+word	dipole	NN
+gap	, 	
+word	Coulombic	CAP NNP
+gap	 	
+word	forces	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	hydrogen	NN
+gap	 	
+word	bonding	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	stronger	JJ CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	analyte	NN
+gap	 	
+word	molecules	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	slower	JJ CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	molecules	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	travel	INF
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	provides	VPRT
+gap	 	
+word	retention	NOMZ
+gap	 	
+word	times	NN
+gap	 	
+word	specific	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	compound	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	system	NN
+gap	 	
+word	conditions	NOMZ
+gap	. 	
+word	T	CAP NNP
+gap	. 	
+word	Hanai	CAP NNP
+gap	, 	
+word	HPLC	CAP NNP
+gap	 	
+word	A	ART CAP DET INDA
+gap	 	
+word	Practical	CAP NNP
+gap	 	
+word	Guide	CAP NNP
+gap	, 	
+word	The	ART CAP DET
+gap	 	
+word	Royal	CAP NNP
+gap	 	
+word	Society	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Chemistry	CAP NNP
+gap	, 	
+word	Cambridge	CAP NNP
+gap	, 1999, 	
+word	ch	NN
+gap	. 1, 	
+word	pp	NNP
+gap	. 7 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	two	NUM
+gap	 	
+word	models	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	retention	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	define	VPRT
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	mechanism	NN
+gap	: 	
+word	the	ART DET
+gap	 	
+word	solvent	NN
+gap	-	
+word	interaction	NOMZ
+gap	 	
+word	model	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Scott	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Kucera	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1979 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	solvent	NN
+gap	-	
+word	competition	NOMZ
+gap	 	
+word	model	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Snyder	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1968 	
+word	and	CCONJ
+gap	 1983. 	
+word	Both	CAP DET
+gap	 	
+word	assume	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	layer	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	solvent	JJ
+gap	 	
+word	molecules	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	interact	VPRT
+gap	 	
+word	strongly	AMP RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	, 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	adsorbed	
+gap	 	
+word	onto	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	restricts	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	analyte	NN
+gap	 	
+word	molecules	NN
+gap	, 	
+word	causing	PRESP PGAS
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	rapidly	RB
+gap	 	
+word	elute	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solvent	NN
+gap	-	
+word	interaction	NOMZ
+gap	 	
+word	model	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	analyte	NN
+gap	 	
+word	molecule	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	partitioned	
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mobile	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	layer	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	adsorbed	
+gap	 	
+word	solvent	NN
+gap	 	
+word	molecules	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	solvent	NN
+gap	-	
+word	competition	NOMZ
+gap	 	
+word	model	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	analyte	JJ
+gap	 	
+word	molecules	NN
+gap	 	
+word	competing	WZPRES PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	strong	JJ
+gap	 	
+word	solvent	NN
+gap	 	
+word	molecules	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	active	JJ
+gap	 	
+word	sites	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	both	DET
+gap	 	
+word	models	NN
+gap	 	
+word	assume	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	certain	JJ
+gap	 	
+word	analyte	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	remain	VPRT
+gap	 	
+word	constant	JJ
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	concluded	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	retention	NOMZ
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	determined	PRIV SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	composition	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mobile	JJ
+gap	 	
+word	phase	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	stationary	JJ
+gap	 	
+word	phase	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	both	DET
+gap	 	
+word	models	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	outcome	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	presumed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	equivalent	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	another	DET
+gap	. 	
+word	High	JJ CAP
+gap	 	
+word	Performance	CAP NNP
+gap	 	
+word	Liquid	CAP NNP
+gap	 	
+word	Chromatography	CAP NNP
+gap	 	
+word	Fundamental	CAP NNP
+gap	 	
+word	Principles	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Pratice	CAP NNP
+gap	 , 	
+word	ed	NNP
+gap	. 	
+word	W	CAP NNP
+gap	. 	
+word	J	CAP NNP
+gap	. 	
+word	Lough	CAP NNP
+gap	, 	
+word	I	CAP NNP
+gap	. 	
+word	W	CAP NNP
+gap	 	
+word	Wainer	CAP NNP
+gap	, 	
+word	Blackie	CAP NNP
+gap	 	
+word	Academic	CAP NNP
+gap	 & 	
+word	Professional	CAP NNP
+gap	, 	
+word	Glasgow	CAP NNP
+gap	, 1995, 	
+word	ch	NN
+gap	. 3, 	
+word	pp	NNP
+gap	. 39-40 	
+word	V	CAP NNP
+gap	. 	
+word	Meyer	CAP NNP
+gap	, 	
+word	Practical	CAP NNP
+gap	 	
+word	High	JJ CAP
+gap	-	
+word	Performance	CAP NNP
+gap	 	
+word	Liquid	CAP NNP
+gap	 	
+word	Chromatography	CAP NNP
+gap	 , 	
+word	Wiley	CAP NNP
+gap	, 	
+word	Weinheim	CAP NNP
+gap	, 4	
+word	th	JJ
+gap	 	
+word	edn	NN
+gap	., 2004, 	
+word	ch	NN
+gap	. 10, 	
+word	pp	NNP
+gap	. 159-161 	
+word	Figure	NN CAP
+gap	 2: 	
+word	Retention	NOMZ CAP
+gap	 	
+word	model	NN
+gap	 	
+word	diagrams	NN
+gap	4 	
+word	At	PIN CAP PREP
+gap	 	
+word	AstraZeneca	CAP NNP
+gap	 	
+word	reversed	JJ
+gap	-	
+word	phase	NN
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	frequently	RB
+gap	 	
+word	used	
+gap	 	
+word	analytical	JJ
+gap	 	
+word	methods	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	separate	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	significant	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	compounds	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	mixture	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	ideal	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	detect	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reaction	NOMZ
+gap	. 	
+word	All	QUAN CAP DET
+gap	 	
+word	that	WHQU DEMP WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	required	SUAV
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	representative	JJ
+gap	 	
+word	sample	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reaction	NOMZ
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	dissolved	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	similar	JJ
+gap	 	
+word	solvent	NN
+gap	 	
+word	system	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	method	NN
+gap	. 	
+word	Dilution	NOMZ CAP
+gap	 	
+word	enables	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	scaling	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	compounds	NN
+gap	 	
+word	so	PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	exceed	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	limit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	detector	NN
+gap	. 	
+word	Complete	JJ CAP
+gap	 	
+word	dissolution	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	partially	DWNT RB
+gap	 	
+word	dissolved	
+gap	 	
+word	sample	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	representative	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reaction	NOMZ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	solid	JJ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	injected	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	blockages	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	comparing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	chromatogram	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reaction	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	known	PRIV
+gap	 	
+word	compound	NN
+gap	 	
+word	retention	NOMZ
+gap	 	
+word	times	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	progress	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reaction	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	determined	PRIV SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	checking	PRIV PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	absence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	starting	NN
+gap	 	
+word	material	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	presence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	product	NN
+gap	. 	
+word	My	FPP1 CAP PRP SBJP
+gap	 	
+word	work	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	relied	
+gap	 	
+word	heavily	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	detect	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	presence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	impurities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	solid	JJ
+gap	 	
+word	that	THAC WH
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	isolated	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reaction	NOMZ
+gap	 	
+word	spiked	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	impurities	NN
+gap	. 	
+word	HPLC	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	qualitatively	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	determine	PRIV SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	presence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	impurities	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	quantitatively	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	calculate	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	mass	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	impurity	NOMZ
+gap	 	
+word	present	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sample	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	spike	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	relatively	RB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	small	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	compound	NN
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	analysis	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	added	PUBV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	different	JJ
+gap	 	
+word	compound	NN
+gap	 	
+word	Figure	NN CAP
+gap	 3: 	
+word	Typical	JJ CAP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	chromatogram	NN
+gap	 	
+word	Most	JJ EMPH CAP SPADJ
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	apparatus	NN
+gap	 	
+word	uses	VPRT
+gap	 	
+word	UV	CAP NNP
+gap	 	
+word	detectors	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	measure	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	UV	NN CAP
+gap	 	
+word	absorbance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	analyte	NN
+gap	 	
+word	compounds	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	elute	VPRT
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	column	NN
+gap	. 	
+word	UV	NN CAP
+gap	 	
+word	absorbance	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	constant	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	molecule	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	compound	NN
+gap	, 	
+word	over	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	range	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	directly	RB
+gap	 	
+word	proportional	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	compound	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	relative	JJ
+gap	 	
+word	response	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	compound	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	calculated	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	measuring	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	known	PRIV
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	known	PRIV
+gap	 	
+word	strength	NN
+gap	. 	
+word	From	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	calculation	NOMZ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	scalar	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	applied	
+gap	 	
+word	so	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	chromatogram	NN
+gap	 	
+word	represents	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	proportion	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	proportional	JJ
+gap	 	
+word	relationship	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	response	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	also	RB
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	strength	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	solid	JJ
+gap	 	
+word	compound	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	calculated	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	comparison	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	measured	JJ
+gap	 	
+word	standard	NN
+gap	. 	
+word	Providing	PRESP CAP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	concentrations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	standard	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	sample	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	then	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	direct	JJ
+gap	 	
+word	comparison	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	made	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	determine	PRIV SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	compound	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sample	NN
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	actual	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	compound	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solid	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	comparison	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	made	
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	given	
+gap	 	
+word	range	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	concentrations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	linear	JJ PRED
+gap	. 	
+word	Strength	NN CAP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	defined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mass	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	compound	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 100	
+word	g	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	solid	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	advantages	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	many	QUAN JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	varied	JJ PRED
+gap	. 	
+word	As	RB CONJ CAP
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	fast	JJ PRED
+gap	, 	
+word	simple	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	accurate	JJ
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	versatile	JJ
+gap	, 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	phases	NN
+gap	 	
+word	having	WZPRES PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	variants	NN
+gap	. 	
+word	Sample	NN CAP
+gap	 	
+word	preparation	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	quite	RB
+gap	 	
+word	simple	JJ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	dissolution	NOMZ
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	correct	JJ
+gap	 	
+word	solvent	NN
+gap	, 	
+word	unlike	PIN PREP
+gap	 	
+word	gas	NN
+gap	 	
+word	chromatography	NN
+gap	 (	
+word	GC	CAP NNP
+gap	), 	
+word	another	DET
+gap	 	
+word	high	JJ
+gap	-	
+word	performance	NN
+gap	 	
+word	analytical	JJ
+gap	 	
+word	method	NN
+gap	. 	
+word	GC	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	approximately	RB
+gap	 20% 	
+word	of	PIN PREP
+gap	 	
+word	organic	JJ
+gap	 	
+word	compounds	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	samples	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	either	CCONJ
+gap	 	
+word	volatile	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	evaporate	INF
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	degradation	NOMZ
+gap	. 	
+word	Simple	JJ CAP
+gap	 	
+word	dissolution	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	needed	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	compounds	NN
+gap	. 2 	
+word	J	CAP NNP
+gap	. 	
+word	M	CAP NNP
+gap	. 	
+word	Miller	CAP NNP
+gap	, 	
+word	Chromatography	CAP NNP
+gap	 	
+word	Concepts	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Contrasts	CAP NNP
+gap	 , 	
+word	Wiley	CAP NNP
+gap	, 	
+word	New	CAP NNP
+gap	 	
+word	Jersey	CAP NNP
+gap	, 2	
+word	nd	JJ
+gap	 	
+word	edn	NNP
+gap	., 2005, 	
+word	ch	NN
+gap	. 8, 	
+word	pp	NNP
+gap	. 184 	
+word	However	RB CONJ CAP
+gap	, 	
+word	highly	AMP RB
+gap	 	
+word	insoluble	JJ
+gap	 	
+word	molecules	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	dissolve	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	enough	JJ
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	response	NN
+gap	. 	
+word	Also	RB CAP
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	compound	NN
+gap	 	
+word	vaires	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	well	RB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	absorbs	VPRT
+gap	 	
+word	UV	CAP NNP
+gap	 	
+word	light	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	compound	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	detected	
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	poor	JJ
+gap	 	
+word	absorbance	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	absorb	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	light	NN
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	all	QUAN RB
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	compounds	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	UV	NN CAP
+gap	 	
+word	chromaphore	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	analysed	
+gap	 	
+word	using	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	different	JJ
+gap	 	
+word	detector	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	GC	CAP NNP
+gap	. 	
+word	Another	CAP DET
+gap	 	
+word	disadvantage	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	needed	WZPAST
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	method	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	dependent	JJ PRED
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	compounds	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	resolved	SUAV
+gap	. 	
+word	Without	PIN CAP PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	method	NN
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	compounds	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	RT	CAP NNP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	others	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	false	JJ
+gap	 	
+word	negatives	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	positives	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	overall	JJ
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	made	
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	HPLC	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	incredibly	RB
+gap	 	
+word	useful	JJ
+gap	 	
+word	method	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	tool	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	qualitative	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	quantitative	JJ
+gap	 	
+word	chemical	NN
+gap	 	
+word	analysis	NN
+gap	.	

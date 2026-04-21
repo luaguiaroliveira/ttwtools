@@ -1,1603 +1,2818 @@
 # filename: AH_Philosophy_Essay_1_0294c_tx.txt
-token	tags
-Jackson	CAP NNP
-first	RB
-presented	VBD
-the	ART DET
-knowledge	NN
-argument	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-response	NN
-to	PIN PREP
-Physicalism	NN CAP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-1982	NUM
-work	NN
-"	QUOT
-Epiphenomenal	CAP NNP
-Qualia	CAP NNP
-"	QUOT
-.	
-Physicalism	NN CAP
-is	BEMA VPRT AUXB
-the	ART DET
-doctrine	NN
-that	PIN DEMO SCONJ PREP
-knowledge	NN
-of	PIN PREP
-the	ART DET
-physical	JJ
-world	NN
-is	BEMA VPRT AUXB
-the	ART DET
-only	JJ DWNT
-knowledge	NN
-possible	JJ
-,	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-the	ART DET
-only	JJ DWNT
-true	JJ
-facts	NN
-are	BEMA VPRT AUXB
-those	DEMO DET
-expressible	JJ
-in	PIN CONJ PREP
-the	ART DET
-language	NN
-of	PIN PREP
-the	ART DET
-physical	JJ
-sciences	NN
-.	
-Jackson	CAP NNP
-'s	
-claim	PUBV NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-this	DEMO DET
-view	NN
-denies	VPRT PUBV
-or	CCONJ
-fails	VPRT
-to	PIN TO SPIN PREP
-adequately	RB
-define	INF
-the	ART DET
-subjective	JJ
-features	NN
-of	PIN PREP
-experience	NN
-.	
-His	TPP3 CAP PRP SBJP
-apparently	RB
-simple	JJ
-explanation	NOMZ
-for	PIN PREP
-this	DEMP DET
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-one	PRP SBJP
-may	POMD
-know	PRIV INF
-everything	QUPR INPR
-there	EX
-is	VPRT AUXB
-to	PIN TO PREP
-know	PRIV INF
-about	PIN PREP
-human	JJ
-consciousness	NOMZ
-and	PHC CCONJ
-experience	NN
-,	
-and	ANDC CCONJ
-yet	RB
-fail	VPRT
-to	PIN TO PREP
-know	PRIV INF
-facts	NN
-about	PIN PREP
-what	WH
-these	DEMO DET
-experiences	NN
-are	BEMA VPRT AUXB
-like	PIN PREP
-subjectively	RB
-.	
-He	TPP3 CAP PRP SBJP
-uses	VPRT
-the	ART DET
-famous	JJ
-example	NN
-of	PIN PREP
-Mary	CAP NNP
-to	PIN TO PREP
-illustrate	INF
-this	DEMP DET
-.	
-Jackson	CAP NNP
-,	
-F.	CAP NNP
-(	
-1982	NUM
-)	
-,	
-"	QUOT
-Epiphenomenal	CAP NNP
-Qualia	CAP NNP
-"	QUOT
-,	
-Philosophical	CAP NNP
-Quarterly	CAP NNP
-32	NUM
-,	
-pp	NNP
-.	
-127	NUM
--	
-36	NUM
-Mary	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-super	JJ
--	NN
-scientist	JJ
-who	WH
-knows	VPRT PRIV
-all	QUAN DET
-the	ART DET
-physical	JJ
-facts	NN
-about	PIN PREP
-colour	NN
-experience	NN
-,	
-including	PGAS
-all	QUAN DET
-the	ART DET
-activities	NN
-of	PIN PREP
-the	ART DET
-human	JJ
-brain	NN
-.	
-Physicalism	NN CAP
-would	PRMD
-maintain	PUBV INF
-that	PIN THVC SCONJ PREP
-she	TPP3 PRP SBJP
-knows	VPRT PRIV
-all	QUAN DET
-the	ART DET
-facts	NN
-there	EX
-are	VPRT AUXB
-to	PIN TO PREP
-know	PRIV INF
-about	PIN PREP
-colour	NN
-experience	NN
-.	
-However	RB CONJ CAP
-,	
-Mary	CAP NNP
-lives	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-black	JJ
-and	PHC CCONJ
-white	JJ
-room	NN
-and	CCONJ
-has	VPRT PEAS SPAU
-never	RB
-experienced	
-actual	JJ
-colour	NN
-herself	TPP3 PRP SBJP ACCU
-.	
-When	RB CAP SCONJ WH
-she	TPP3 PRP SBJP
-ventures	VPRT
-out	PIN PREP
-into	PIN PREP
-the	ART DET
-real	JJ
-world	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-intuitive	JJ PRED
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-she	TPP3 PRP SBJP
-has	VPRT PEAS
-learnt	PRIV
-something	QUPR INPR
-new	JJ
-.	
-From	PIN CAP PREP
-this	DEMO DET
-Jackson	CAP NNP
-concludes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-there	EX
-must	NEMD
-be	AUXB INF
-facts	NN
-about	PIN PREP
-colour	NN
-and	CCONJ
-our	FPP1 PRP SBJP
-experience	NN
-of	PIN PREP
-it	PIT PRP SBJP
-that	DEMP WH
-are	BEMA VPRT AUXB
-non	JJ
--	JJ
-physical	JJ
-,	
-and	ANDC CCONJ
-as	PIN CONJ PREP
-a	ART DET INDA
-consequence	NN
-Physicalism	NN CAP
-is	BEMA VPRT AUXB
-wrong	JJ PRED
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-second	JJ
-example	NN
-Jackson	CAP NNP
-introduces	VPRT
-Fred	CAP NNP
-,	
-who	WHQU WH
-is	BEMA VPRT AUXB
-somehow	RB
-able	JJ
-to	PIN TO PREP
-identify	INF
-a	ART DET INDA
-colour	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-ca	
-n't	XX0 CONT RB
-.	
-Where	RB CAP SCONJ WH
-we	FPP1 PRP SBJP
-see	VPRT PRIV
-two	NUM
-red	JJ
-objects	PUBV NN
-Fred	CAP NNP
-will	PRMD
-see	PRIV INF
-two	NUM
-objects	PUBV NN
-of	PIN PREP
-different	JJ
-colour	NN
-.	
-Jackson	CAP NNP
-believes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-may	POMD
-know	PRIV INF
-everything	QUPR INPR
-there	EX
-is	VPRT AUXB
-to	PIN TO PREP
-know	PRIV INF
-about	PIN PREP
-Fred	CAP NNP
-'s	
-mind	NN
-and	PHC CCONJ
-body	NN
-,	
-but	CCONJ
-we	FPP1 PRP SBJP
-still	RB
-wo	SPAU
-n't	XX0 CONT RB
-know	PRIV INF
-what	WHCL WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-like	PIN PREP
-to	PIN TO PREP
-see	PRIV INF
-the	ART DET
-colour	NN
-that	TOBJ WHOBJ WH
-he	TPP3 PRP SBJP
-sees	VPRT PRIV
-.	
-There	EX CAP
-are	VPRT AUXB
-facts	NN
-about	PIN PREP
-Fred	CAP NNP
-'s	
-experience	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-simply	RB
-ca	SPAU
-n't	XX0 CONT RB
-know	PRIV INF
-unless	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-Fred	CAP NNP
-.	
-Jackson	CAP NNP
-'s	
-Fred	CAP NNP
-example	NN
-is	BEMA VPRT AUXB
-similar	JJ PRED
-to	PIN PREP
-the	ART DET
-views	NN
-presented	WZPAST
-by	PIN PREP
-Nagel	CAP NNP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-essay	NN
-What	WHSUB CAP WH
-is	VPRT AUXB
-it	PIT PRP SBJP
-Like	JJ CAP
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-Bat	CAP NNP
-?	QUES
-.	
-Nagel	CAP NNP
-argues	VPRT PUBV
-that	PIN THVC SCONJ PREP
-even	RB
-with	PIN PREP
-complete	JJ
-physical	JJ
-knowledge	NN
-we	FPP1 PRP SBJP
-would	PRMD SPAU
-not	XX0 RB
-know	PRIV INF
-what	WHCL WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-like	PIN PREP
-to	PIN TO PREP
-use	INF
-sonar	NN
-to	PIN TO PREP
-detect	INF
-objects	PUBV NN
-.	
-The	ART CAP DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-we	FPP1 PRP SBJP
-can	POMD SPAU
-only	DWNT RB
-know	PRIV INF
-what	WHCL WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-like	PIN PREP
-by	PIN PREP
-actually	RB
-being	BEMA AUXB
-a	ART DET INDA
-bat	NN
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-there	EX
-are	VPRT AUXB
-subjective	JJ
-facts	NN
-,	
-something	QUPR INPR
-which	DET WH
-apparently	RB
-contradicts	VPRT
-the	ART DET
-physicalist	NN
-view	NN
-that	PIN TOBJ SCONJ PREP
-all	QUAN DET
-facts	NN
-are	BEMA VPRT AUXB
-objective	JJ PRED
-and	CCONJ
-can	POMD
-be	PASS AUXB INF
-understood	PRIV
-from	PIN PREP
-any	QUAN DET
-point	NN
-of	PIN PREP
-view	NN
-.	
-However	RB CONJ CAP
-Nagel	CAP NNP
-draws	VPRT
-a	ART DET INDA
-weaker	JJ CMADJ
-conclusion	NOMZ
-about	PIN PREP
-Physicalism	CAP NNP
-than	PIN PREP
-that	DEMO DET
-of	PIN PREP
-Jackson	CAP NNP
-:	
-He	TPP3 CAP PRP SBJP
-restricts	VPRT
-himself	TPP3 PRP SBJP ACCU
-to	PIN PREP
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-at	PIN PREP
-present	JJ
-we	FPP1 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-understand	PRIV INF
-how	RB WHCL SCONJ WH
-Physicalism	CAP NNP
-might	POMD
-be	BEMA AUXB INF
-true	JJ PRED
-.	
-He	TPP3 CAP PRP SBJP
-compares	VPRT
-the	ART DET
-current	JJ
-state	PUBV NN
-of	PIN PREP
-Physicalism	CAP NNP
-to	PIN STPR PREP
-"	QUOT
-that	PIN DEMP SCONJ PREP
-which	PIRE DET WH
-the	ART DET
-hypothesis	NN
-that	DEMO WHOBJ WH
-matter	NN
-is	VPRT AUXB
-energy	NN
-would	PRMD
-have	PEAS INF
-had	
-if	COND PIN SCONJ PREP
-uttered	
-by	PIN PREP
-a	ART DET INDA
-pre	JJ
--	JJ
-Socratic	JJ CAP
-philosopher	NN
-"	QUOT
-.	
-Nagel	CAP NNP
-,	
-T.	CAP NNP
-(	
-1974	NUM
-)	
-,	
-"	QUOT
-What	WHQU CAP WH
-is	VPRT AUXB
-it	PIT PRP SBJP
-Like	JJ CAP
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-Bat	NN CAP
-?	QUES
-"	QUOT
-Philosophical	CAP NNP
-Review	CAP NNP
-83	NUM
-,	
-pp	NNP
-.	
-435	NUM
--	
-50	NUM
-.	
-Rpt	CAP NNP
-.	
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-Mortal	CAP NNP
-Questions	CAP NNP
-.	
-Cambridge	CAP NNP
-University	CAP NNP
-Press	CAP NNP
-,	
-193	NUM
--	
-214	NUM
-.	
-Jackson	CAP NNP
-calls	VPRT
-these	DEMO DET
-apparent	JJ
-non	JJ
--	JJ
-physical	JJ
-facts	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-experience	VPRT
-"	QUOT
-Qualia	CAP NNP
-"	QUOT
-.	
-Qualia	CAP NNP
-are	BEMA VPRT AUXB
-the	ART DET
-purely	RB
-subjective	JJ
-qualitative	JJ
-contents	NN
-of	PIN PREP
-experience	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-'	CONT QUOT
-hurtfulness	NOMZ
-'	CONT QUOT
-of	PIN PREP
-pain	NN
-.	
-Upon	PIN CAP SCONJ PREP
-leaving	PGAS
-the	ART DET
-room	NN
-,	
-Mary	CAP NNP
-does	VPRT SPAU
-n't	XX0 CONT RB
-come	INF
-to	PIN TO PREP
-know	PRIV INF
-the	ART DET
-facts	NN
-of	PIN PREP
-colour	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-different	JJ
-way	NN
-,	
-but	CCONJ
-she	TPP3 PRP SBJP
-does	VPRT EMPH
-come	INF
-to	PIN TO PREP
-know	PRIV INF
-new	JJ
-facts	NN
-about	PIN PREP
-Qualia	CAP NNP
-.	
-The	ART CAP DET
-idea	NN
-of	PIN PREP
-Qualia	CAP NNP
-raises	VPRT
-many	QUAN JJ
-questions	NOMZ
-.	
-As	PIN CONJ CAP PREP
-Mackie	CAP NNP
-discussed	VBD
-,	
-the	ART DET
-nature	NN
-of	PIN PREP
-any	QUAN DET
-non	JJ
--	JJ
-physical	JJ
-objective	JJ
-facts	NN
-must	NEMD
-be	BEMA AUXB INF
-very	AMP RB
-strange	JJ
-indeed	RB
-(	
-the	ART DET
-queerness	JJ
-argument	NOMZ
-)	
-.	
-Jackson	CAP NNP
-expresses	VPRT
-a	ART DET INDA
-pessimistic	JJ
-view	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-potential	NN
-for	PIN PREP
-knowing	PRIV PGAS
-about	PIN PREP
-Qualia	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-strange	JJ
-argument	NOMZ
-he	TPP3 PRP SBJP
-writes	VPRT PUBV
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-are	BEMA VPRT AUXB
-the	ART DET
-products	NN
-of	PIN PREP
-evolution	NOMZ
-but	CCONJ
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-survival	NN
-value	NN
-in	PIN CONJ PREP
-knowing	PRIV PGAS
-how	RB WHCL SCONJ WH
-Qualia	CAP NNP
-are	PASS VPRT AUXB
-caused	
-or	CCONJ
-the	ART DET
-laws	NN
-governing	WZPRES PGAS
-them	TPP3 PRP SBJP ACCU
-,	
-and	ANDC CCONJ
-as	PIN CONJ PREP
-a	ART DET INDA
-consequence	NN
-we	FPP1 PRP SBJP
-simply	RB
-ca	
-n't	XX0 CONT RB
-.	
-Epiphenomenalism	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-view	NN
-that	PIN TOBJ SCONJ PREP
-Qualia	CAP NNP
-are	BEMA VPRT AUXB
-causal	JJ PRED
-by	PIN STPR PREP
--	
-products	NN
-of	PIN PREP
-physical	JJ
-processes	NN
-within	PIN PREP
-our	FPP1 PRP SBJP
-body	NN
-,	
-rather	RB CONJ
-than	PIN PREP
-the	ART DET
-cause	NN
-of	PIN PREP
-any	QUAN DET
-of	PIN PREP
-these	DEMO DET
-processes	NN
-.	
-A	ART CAP DET INDA
-possible	JJ
-objection	NOMZ
-to	PIN PREP
-this	DEMO DET
-it	PIT PRP SBJP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-we	FPP1 PRP SBJP
-scream	VPRT
-due	PIN PREP
-to	PIN PREP
-pain	NN
-,	
-or	CCONJ
-jump	INF
-back	RB
-due	JJ
-to	PIN PREP
-the	ART DET
-pain	NN
-caused	WZPAST
-by	PIN PREP
-a	ART DET INDA
-fire	NN
-.	
-Jackson	CAP NNP
-answers	VPRT
-this	DEMO DET
-by	PIN PREP
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-both	DET
-events	NN
-(	
-the	ART DET
-pain	NN
-and	CCONJ
-the	ART DET
-jump	NN
-back	RB
-)	
-could	POMD
-be	BEMA AUXB INF
-by	PIN STPR PREP
--	
-products	NN
-of	PIN PREP
-a	ART DET INDA
-single	JJ
-underlying	JJ
-cause	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-no	SYNE DET
-doubt	PRIV NN
-that	PIN TOBJ THVC SCONJ PREP
-Mary	CAP NNP
-has	VPRT
-some	QUAN DET
-kind	NN HDG
-of	PIN PREP
-new	JJ
-experience	NN
-when	RB WHOBJ SCONJ WH
-she	TPP3 PRP SBJP
-leaves	VPRT
-the	ART DET
-black	JJ
-and	PHC CCONJ
-white	JJ
-room	NN
-,	
-but	CCONJ
-different	JJ
-conclusions	NOMZ
-can	POMD
-be	PASS AUXB INF
-drawn	
-from	PIN PREP
-this	DEMP DET
-.	
-The	ART CAP DET
-strong	JJ
-version	NOMZ
-,	
-which	SERE DET WH
-Jackson	CAP NNP
-adopts	VPRT
-,	
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-there	EX
-must	NEMD
-be	AUXB INF
-facts	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-not	XX0 RB
-physical	JJ
-.	
-A	ART CAP DET INDA
-weaker	JJ CMADJ
-interpretation	NOMZ
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-there	EX
-may	POMD
-be	BEMA AUXB INF
-non	JJ
--	JJ
-physical	JJ
-knowledge	NN
-,	
-but	CCONJ
-not	XX0 RB
-non	JJ
--	JJ
-physical	JJ
-facts	NN
-.	
-Mary	CAP NNP
-is	VPRT AUXB
-gaining	PGAS
-new	JJ
-knowledge	NN
-,	
-but	CCONJ
-not	XX0 RB
-learning	PRIV PGAS
-new	JJ
-facts	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-this	DEMO DET
-second	JJ
-,	
-weaker	JJ CMADJ
-version	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT SPAU AUXB
-most	RB EMPH SPADJ
-often	RB
-used	
-as	PIN CONJ PREP
-an	ART DET INDA
-objection	NOMZ
-to	PIN PREP
-Jackson	CAP NNP
-'s	
-view	NN
-.	
-This	DEMO CAP DET
-second	JJ
-interpretation	NOMZ
-can	POMD SPAU
-again	RB TIME
-be	PASS AUXB INF
-separated	
-into	PIN PREP
-various	JJ
-views	NN
-about	PIN PREP
-the	ART DET
-kind	NN HDG
-of	PIN PREP
-knowledge	NN
-it	PIT PRP SBJP
-is	VPRT AUXB
-she	TPP3 PRP SBJP
-gains	NN
-.	
-Jackson	CAP NNP
-assumes	VPRT PRIV THATD
-that	PIN DEMP SCONJ PREP
-'	CONT VPRT QUOT
-knowing	PRIV PGAS
-what	WHCL WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-like	PIN STPR PREP
-'	CONT QUOT
-is	BEMA VPRT AUXB
-a	ART DET INDA
-kind	NN HDG
-of	PIN PREP
-propositional	JJ
-knowledge	NN
-,	
-but	CCONJ
-others	NN
-disagree	VPRT
-and	PHC CCONJ
-suggest	VPRT PUBV SUAV THATD
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-simply	RB
-the	ART DET
-gaining	NN
-of	PIN PREP
-a	ART DET INDA
-new	JJ
-ability	NOMZ
-.	
-She	TPP3 CAP PRP SBJP
-acquires	VPRT
-no	SYNE DET
-new	JJ
-facts	NN
-or	CCONJ
-information	NOMZ
-,	
-simply	RB
-the	ART DET
-ability	NOMZ
-to	PIN TO PREP
-identify	INF
-objects	PUBV NN
-as	PIN CONJ PREP
-red	JJ
-and	CCONJ
-remember	PRIV INF
-what	WHCL WH
-red	JJ
-objects	PUBV NN
-look	VPRT
-like	PIN STPR PREP
-.	
-Another	CAP DET
-alternative	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-Mary	CAP NNP
-is	VPRT AUXB
-gaining	PGAS
-'	CONT QUOT
-Acquaintance	CAP NNP
-'	CONT QUOT
-or	CCONJ
-'	CONT QUOT
-Indexical	CAP NNP
-'	CONT QUOT
-knowledge	NN
-.	
-She	TPP3 CAP PRP SBJP
-comes	VPRT
-to	PIN TO PREP
-know	PRIV INF
-colour	NN
-experience	NN
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-way	NN
-that	TOBJ WHOBJ WH
-she	TPP3 PRP SBJP
-might	POMD
-know	PRIV INF
-a	ART DET INDA
-person	NN
-or	CCONJ
-a	ART DET INDA
-city	NN
-.	
-Whichever	CAP DET WH
-view	NN
-we	FPP1 PRP SBJP
-take	VPRT
-on	PIN PREP
-the	ART DET
-kind	NN HDG
-of	PIN PREP
-knowledge	NN
-gained	VBD
-,	
-even	RB
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-accept	VPRT PRIV
-that	PIN THVC SCONJ PREP
-Mary	CAP NNP
-'s	
-new	JJ
-knowledge	NN
-is	BEMA VPRT AUXB
-propositional	JJ PRED
-,	
-the	ART DET
-objection	NOMZ
-to	PIN PREP
-the	ART DET
-Knowledge	CAP NNP
-Argument	CAP NNP
-remains	VPRT
-.	
-When	RB CAP SCONJ WH
-seeing	PRIV PGAS
-colour	NN
-for	PIN PREP
-the	ART DET
-first	JJ
-time	NN
-,	
-Mary	CAP NNP
-is	PASS VPRT SPAU AUXB
-n't	XX0 CONT RB
-exposed	
-to	PIN PREP
-any	QUAN DET
-new	JJ
-facts	NN
-,	
-she	TPP3 PRP SBJP
-simply	RB
-perceives	VPRT PRIV
-the	ART DET
-facts	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-new	JJ
-way	NN
-.	
-She	TPP3 CAP PRP SBJP
-acquires	VPRT
-new	JJ
-knowledge	NN
-of	PIN PREP
-the	ART DET
-physical	JJ
-facts	NN
-under	PIN PREP
-a	ART DET INDA
-phenomenal	JJ
-concept	NN
-.	
-This	DEMP CAP DET
-can	POMD
-be	PASS AUXB INF
-expressed	
-in	PIN CONJ PREP
-the	ART DET
-following	JJ
-way	NN
-:	
-Mary	CAP NNP
-knows	VPRT PRIV
-the	ART DET
-fact	NN
-that	PIN STPR DEMP SCONJ PREP
-x	
-is	BEMA VPRT AUXB
-red	JJ PRED
-because	CAUS PIN SCONJ PREP
-she	TPP3 PRP SBJP
-knows	VPRT PRIV THATD
-that	PIN STPR DEMP SCONJ PREP
-x	
-is	VPRT AUXB
-F	CAP NNP
-,	
-where	RB WHQU SCONJ WH
-F	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-physical	JJ
-property	NN
-of	PIN PREP
-colour	NN
-and	CCONJ
-the	ART DET
-physical	JJ
-response	NN
-of	PIN PREP
-the	ART DET
-eyes	NN
-and	PHC CCONJ
-brain	NN
-.	
-But	CAP CCONJ
-Mary	CAP NNP
-can	POMD SPAU
-also	RB
-know	PRIV THATD INF
-that	PIN STPR DEMP SCONJ PREP
-x	
-is	BEMA VPRT AUXB
-red	JJ PRED
-because	CAUS PIN SCONJ PREP
-she	TPP3 PRP SBJP
-knows	VPRT PRIV THATD
-that	PIN STPR DEMP SCONJ PREP
-x	
-is	VPRT AUXB
-G	CAP NNP
-,	
-where	RB WHQU SCONJ WH
-G	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-phenomenal	JJ
-concept	NN
-for	PIN PREP
-redness	NOMZ
-.	
-F	CAP NNP
-and	PHC CCONJ
-G	CAP NNP
-are	VPRT AUXB
-simply	RB
-two	NUM
-ways	NN
-of	PIN PREP
-knowing	PRIV PGAS
-a	ART DET INDA
-single	JJ
-fact	NN
-:	
-that	PIN STPR DEMP SCONJ PREP
-x	
-is	BEMA VPRT AUXB
-red	JJ PRED
-.	
-These	DEMO CAP DET
-two	NUM
-types	NN
-of	PIN PREP
-knowledge	NN
-are	BEMA VPRT AUXB
-cognitively	RB
-independent	JJ
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-know	PRIV THATD INF
-that	PIN STPR DEMP SCONJ PREP
-x	
-satisfies	VPRT
-the	ART DET
-physical	JJ
-concept	NN
-(	
-as	PIN CONJ PREP
-Mary	CAP NNP
-knew	VBD PRIV
-before	PIN PREP
-leaving	PGAS
-the	ART DET
-room	NN
-)	
-without	PIN PREP
-knowing	PRIV THATD PGAS
-that	PIN STPR DEMP SCONJ PREP
-x	
-satisfies	VPRT
-the	ART DET
-phenomenal	JJ
-concept	NN
-and	CCONJ
-vice	RB
-versa	RB
-.	
-In	PIN CONJ CAP PREP
-most	JJ EMPH SPADJ
-cases	NN
-we	FPP1 PRP SBJP
-rely	VPRT
-on	PIN PREP
-our	FPP1 PRP SBJP
-phenomenal	JJ
-concept	NN
-to	PIN TO PREP
-tell	INF
-us	FPP1 PRP SBJP ACCU
-that	PIN STPR DEMP SCONJ PREP
-x	
-is	BEMA VPRT AUXB
-red	JJ PRED
-with	PIN PREP
-little	JJ
-regard	NN
-for	PIN PREP
-the	ART DET
-physical	JJ
-properties	NN
-of	PIN PREP
-the	ART DET
-object	PUBV NN
-.	
-Dennett	CAP NNP
-developed	VBD
-an	ART DET INDA
-additional	JJ
-criticism	NN
-of	PIN PREP
-the	ART DET
-idea	NN
-of	PIN PREP
-Qualia	CAP NNP
-.	
-He	TPP3 CAP PRP SBJP
-imagined	VBD PRIV
-a	ART DET INDA
-machine	NN
-that	TSUB WHSUB WH
-allowed	VBD SUAV
-two	NUM
-people	NN
-to	PIN TO PREP
-swap	INF
-each	QUAN DET
-others	NN
-Qualia	CAP NNP
-,	
-so	RB
-each	QUAN DET
-was	VBD AUXB
-experiencing	GER PGAS
-those	DEMO DET
-of	PIN PREP
-the	ART DET
-other	JJ
-.	
-It	PIT CAP PRP SBJP
-may	POMD SPAU
-well	RB
-be	BEMA AUXB INF
-the	ART DET
-case	NN
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-would	PRMD
-see	PRIV INF
-the	ART DET
-world	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-radically	RB
-different	JJ
-way	NN
-through	PIN PREP
-the	ART DET
-other	JJ
-person	NN
-'s	
-experiences	NN
-.	
-But	CAP CCONJ
-Dennett	CAP NNP
-points	VPRT
-out	PIN PREP
-that	PIN DEMO SCONJ PREP
-we	FPP1 PRP SBJP
-have	VPRT
-no	SYNE DET
-way	NN
-of	PIN PREP
-knowing	PRIV PGAS
-whether	PIN SCONJ PREP
-the	ART DET
-machine	NN
-is	VPRT AUXB
-working	PGAS
-properly	RB
-(	
-whether	PIN SCONJ PREP
-the	ART DET
-plug	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-the	ART DET
-right	JJ
-way	NN
-)	
-because	CAUS PIN SCONJ PREP
-each	QUAN DET
-person	NN
-only	DWNT RB
-has	VPRT
-their	TPP3 PRP SBJP
-own	JJ
-Qualia	CAP NNP
-as	PIN CONJ PREP
-a	ART DET INDA
-reference	NN
-point	NN
-.	
-In	PIN CONJ CAP PREP
-such	EMPH DET
-a	ART DET INDA
-scenario	NN
-all	QUAN DET
-talk	NN
-of	PIN PREP
-Qualia	CAP NNP
-essentially	RB
-drops	VPRT
-out	PIN PREP
-of	PIN PREP
-significance	NN
-.	
-This	DEMO CAP DET
-view	NN
-is	BEMA VPRT AUXB
-similar	JJ PRED
-to	PIN PREP
-that	DEMP DET
-expressed	
-by	PIN PREP
-Wittgenstein	CAP NNP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-private	JJ
-language	NN
-argument	NOMZ
-.	
-He	TPP3 CAP PRP SBJP
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-purely	RB
-private	JJ
-language	NN
-is	BEMA VPRT AUXB
-impossible	JJ PRED
-because	CAUS PIN SCONJ PREP
-the	ART DET
-meaning	PRIV NN
-of	PIN PREP
-words	NN
-requires	VPRT SUAV
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-follow	INF
-some	QUAN DET
-kind	NN HDG
-of	PIN PREP
-independent	JJ
-rule	SUAV NN
-.	
-We	FPP1 CAP PRP SBJP
-can	POMD
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-words	NN
-are	PASS VPRT AUXB
-used	
-correctly	RB
-or	CCONJ
-incorrectly	RB
-only	DWNT RB
-because	CAUS PIN SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-set	NN
-of	PIN PREP
-external	JJ
-rules	SUAV NN
-that	TOBJ THVC WHOBJ WHCL WH
-their	TPP3 PRP SBJP
-meaning	PRIV NN
-is	PASS VPRT BYPA AUXB
-governed	
-by	PIN STPR PREP
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-same	JJ
-way	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-argue	PUBV INF
-that	PIN THVC SCONJ PREP
-purely	RB
-subjective	JJ
-facts	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-Qualia	CAP NNP
-,	
-are	BEMA VPRT AUXB
-impossible	JJ PRED
-without	PIN PREP
-a	ART DET INDA
-relationship	NN
-with	PIN PREP
-the	ART DET
-objective	JJ
-physical	JJ
-world	NN
-.	
-Wittgenstein	CAP NNP
-,	
-L.	CAP NNP
-(	
-1953	NUM
-)	
-Philosophical	CAP NNP
-Investigations	CAP NNP
-,	
-Oxford	CAP NNP
-:	
-Blackwell	CAP NNP
-.	
-Jackson	CAP NNP
-undoubtedly	RB
-establishes	VPRT PRIV
-an	ART DET INDA
-interesting	JJ
-thought	PRIV NN
-experiment	NOMZ
-that	TSUB WHSUB WH
-raises	VPRT
-interesting	JJ
-questions	NOMZ
-.	
-However	RB CONJ CAP
-,	
-his	TPP3 PRP SBJP
-conclusion	NOMZ
-that	PIN TOBJ SCONJ PREP
-Mary	CAP NNP
-'s	
-new	JJ
-knowledge	NN
-of	PIN PREP
-the	ART DET
-experience	NN
-of	PIN PREP
-colour	NN
-necessitates	NN
-non	JJ
--	JJ
-physical	JJ
-facts	NN
-is	BEMA VPRT AUXB
-flawed	JJ PRED
-.	
-As	PIN CONJ CAP PREP
-has	VPRT PEAS
-been	PASS AUXB
-shown	PRIV
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-perfectly	AMP RB
-coherent	JJ
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-Mary	CAP NNP
-is	VPRT SPAU AUXB
-simply	RB
-experiencing	GER PGAS
-the	ART DET
-same	JJ
-physical	JJ
-facts	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-new	JJ
-way	NN
-,	
-namely	RB CONJ
-through	PIN PREP
-a	ART DET INDA
-phenomenal	JJ
-concept	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-interesting	JJ PRED
-to	PIN TO PREP
-note	PRIV INF
-that	PIN THVC SCONJ PREP
-Jackson	CAP NNP
-himself	TPP3 PRP SBJP ACCU
-later	RB TIME
-rejected	VBD
-the	ART DET
-knowledge	NN
-argument	NOMZ
-,	
-and	ANDC CCONJ
-turned	VBD
-to	PIN PREP
-Physicalism	CAP NNP
-.	
-He	TPP3 CAP PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-accept	PRIV INF
-that	PIN THVC SCONJ PREP
-Mary	CAP NNP
-gains	VPRT
-any	QUAN DET
-new	JJ
-knowledge	NN
-upon	PIN SCONJ PREP
-leaving	PGAS
-the	ART DET
-room	NN
-,	
-and	ANDC CCONJ
-instead	RB CONJ
-believes	VPRT PRIV THATD
-we	FPP1 PRP SBJP
-should	NEMD
-focus	INF
-on	PIN PREP
-why	RB SCONJ WH
-we	FPP1 PRP SBJP
-intuitively	RB
-tend	VPRT
-to	PIN TO PREP
-think	PRIV INF
-that	PIN THVC SCONJ PREP
-she	TPP3 PRP SBJP
-does	VPRT PROD
-.	
-Despite	PIN CAP SCONJ PREP
-the	ART DET
-apparent	JJ
-lack	NN
-of	PIN PREP
-modern	JJ
-support	NN
-for	PIN PREP
-the	ART DET
-knowledge	NN
-argument	NOMZ
-it	PIT PRP SBJP
-remains	VPRT
-important	JJ
-as	PIN CONJ PREP
-a	ART DET INDA
-counter	NN
--	NN
-weight	NN
-to	PIN PREP
-the	ART DET
-dominance	NN
-of	PIN PREP
-Physicalism	CAP NNP
-in	PIN CONJ PREP
-Twentieth	CAP NNP
-Century	CAP NNP
-analytic	JJ
-philosophy	NN
-of	PIN PREP
-mind	NN
-.	
-Jackson	CAP NNP
-,	
-F.	CAP NNP
-(	
-1998a	NUM
-)	
-,	
-"	QUOT
-Postscript	CAP NNP
-on	PIN PREP
-Qualia	CAP NNP
-"	QUOT
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-Mind	NN CAP
-,	
-Method	CAP NNP
-and	CCONJ
-Conditionals	NN CAP
-.	
-London	CAP NNP
-:	
-Routledge	CAP NNP
-.	
+type	content	tags
+word	Jackson	CAP NNP
+gap	 	
+word	first	RB
+gap	 	
+word	presented	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	knowledge	NN
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	response	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Physicalism	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 1982 	
+word	work	NN
+gap	 "	
+word	Epiphenomenal	CAP NNP
+gap	 	
+word	Qualia	CAP NNP
+gap	" . 	
+word	Physicalism	NN CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	doctrine	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	world	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	knowledge	NN
+gap	 	
+word	possible	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	true	JJ
+gap	 	
+word	facts	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	expressible	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	language	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	sciences	NN
+gap	. 	
+word	Jackson	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	claim	PUBV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	view	NN
+gap	 	
+word	denies	VPRT PUBV
+gap	 	
+word	or	CCONJ
+gap	 	
+word	fails	VPRT
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	adequately	RB
+gap	 	
+word	define	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	subjective	JJ
+gap	 	
+word	features	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	experience	NN
+gap	. 	
+word	His	TPP3 CAP PRP SBJP
+gap	 	
+word	apparently	RB
+gap	 	
+word	simple	JJ
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	one	PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	everything	QUPR INPR
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	consciousness	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	experience	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	yet	RB
+gap	 	
+word	fail	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	facts	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	experiences	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	subjectively	RB
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	uses	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	famous	JJ
+gap	 	
+word	example	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Mary	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	illustrate	INF
+gap	 	
+word	this	DEMP DET
+gap	. 	
+word	Jackson	CAP NNP
+gap	, 	
+word	F	CAP NNP
+gap	. (1982), "	
+word	Epiphenomenal	CAP NNP
+gap	 	
+word	Qualia	CAP NNP
+gap	", 	
+word	Philosophical	CAP NNP
+gap	 	
+word	Quarterly	CAP NNP
+gap	 32, 	
+word	pp	NNP
+gap	. 127-36 	
+word	Mary	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	super	JJ
+gap	-	
+word	scientist	JJ
+gap	 	
+word	who	WH
+gap	 	
+word	knows	VPRT PRIV
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	facts	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	colour	NN
+gap	 	
+word	experience	NN
+gap	, 	
+word	including	PGAS
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	activities	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	brain	NN
+gap	. 	
+word	Physicalism	NN CAP
+gap	 	
+word	would	PRMD
+gap	 	
+word	maintain	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	knows	VPRT PRIV
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	facts	NN
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	colour	NN
+gap	 	
+word	experience	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	Mary	CAP NNP
+gap	 	
+word	lives	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	black	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	white	JJ
+gap	 	
+word	room	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	never	RB
+gap	 	
+word	experienced	
+gap	 	
+word	actual	JJ
+gap	 	
+word	colour	NN
+gap	 	
+word	herself	TPP3 PRP SBJP ACCU
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	ventures	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	world	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	intuitive	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	learnt	PRIV
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	new	JJ
+gap	. 	
+word	From	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	Jackson	CAP NNP
+gap	 	
+word	concludes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	facts	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	colour	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	experience	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	non	JJ
+gap	-	
+word	physical	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consequence	NN
+gap	 	
+word	Physicalism	NN CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	wrong	JJ PRED
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	second	JJ
+gap	 	
+word	example	NN
+gap	 	
+word	Jackson	CAP NNP
+gap	 	
+word	introduces	VPRT
+gap	 	
+word	Fred	CAP NNP
+gap	, 	
+word	who	WHQU WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	somehow	RB
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	colour	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	
+gap	'	
+word	t	
+gap	. 	
+word	Where	RB CAP SCONJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	see	VPRT PRIV
+gap	 	
+word	two	NUM
+gap	 	
+word	red	JJ
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	Fred	CAP NNP
+gap	 	
+word	will	PRMD
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	two	NUM
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	colour	NN
+gap	. 	
+word	Jackson	CAP NNP
+gap	 	
+word	believes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	everything	QUPR INPR
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	Fred	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	mind	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	body	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	still	RB
+gap	 	
+word	won	
+gap	'	
+word	t	
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	colour	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	sees	VPRT PRIV
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	facts	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	Fred	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	experience	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	simply	RB
+gap	 	
+word	can	
+gap	'	
+word	t	
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	unless	COND PIN SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	Fred	CAP NNP
+gap	. 	
+word	Jackson	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	Fred	CAP NNP
+gap	 	
+word	example	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	similar	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	views	NN
+gap	 	
+word	presented	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Nagel	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	essay	NN
+gap	 	
+word	What	WHSUB CAP WH
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	Like	JJ CAP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Bat	CAP NNP
+gap	? . 	
+word	Nagel	CAP NNP
+gap	 	
+word	argues	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	even	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	complete	JJ
+gap	 	
+word	physical	JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	sonar	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	detect	INF
+gap	 	
+word	objects	PUBV NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	actually	RB
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bat	NN
+gap	 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	subjective	JJ
+gap	 	
+word	facts	NN
+gap	, 	
+word	something	QUPR INPR
+gap	 	
+word	which	DET WH
+gap	 	
+word	apparently	RB
+gap	 	
+word	contradicts	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	physicalist	NN
+gap	 	
+word	view	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	facts	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	objective	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	understood	PRIV
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	 	
+word	Nagel	CAP NNP
+gap	 	
+word	draws	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	weaker	JJ CMADJ
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	Physicalism	CAP NNP
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Jackson	CAP NNP
+gap	: 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	restricts	VPRT
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	saying	PUBV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	present	JJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	understand	
+gap	 	
+word	how	
+gap	 	
+word	Physicalism	
+gap	 	
+word	might	
+gap	 	
+word	be	
+gap	 	
+word	true	
+gap	. 	
+word	He	
+gap	 	
+word	compares	
+gap	 	
+word	the	
+gap	 	
+word	current	
+gap	 	
+word	state	
+gap	 	
+word	of	
+gap	 	
+word	Physicalism	
+gap	 	
+word	to	
+gap	 "	
+word	that	
+gap	 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	hypothesis	
+gap	 	
+word	that	
+gap	 	
+word	matter	
+gap	 	
+word	is	
+gap	 	
+word	energy	
+gap	 	
+word	would	
+gap	 	
+word	have	
+gap	 	
+word	had	
+gap	 	
+word	if	
+gap	 	
+word	uttered	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	pre	
+gap	-	
+word	Socratic	
+gap	 	
+word	philosopher	
+gap	". 	
+word	Nagel	
+gap	, 	
+word	T	
+gap	. (1974), "	
+word	What	
+gap	 	
+word	is	
+gap	 	
+word	it	
+gap	 	
+word	Like	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	Bat	
+gap	?" 	
+word	Philosophical	
+gap	 	
+word	Review	
+gap	 83, 	
+word	pp	
+gap	. 435-50. 	
+word	Rpt	
+gap	. 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	Mortal	
+gap	 	
+word	Questions	
+gap	 . 	
+word	Cambridge	
+gap	 	
+word	University	
+gap	 	
+word	Press	
+gap	, 193-214. 	
+word	Jackson	
+gap	 	
+word	calls	
+gap	 	
+word	these	
+gap	 	
+word	apparent	
+gap	 	
+word	non	
+gap	-	
+word	physical	
+gap	 	
+word	facts	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	experience	
+gap	 "	
+word	Qualia	
+gap	". 	
+word	Qualia	CAP NNP
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 	
+word	purely	
+gap	 	
+word	subjective	
+gap	 	
+word	qualitative	
+gap	 	
+word	contents	
+gap	 	
+word	of	
+gap	 	
+word	experience	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 '	
+word	hurtfulness	
+gap	' 	
+word	of	
+gap	 	
+word	pain	
+gap	. 	
+word	Upon	
+gap	 	
+word	leaving	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	, 	
+word	Mary	
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	come	
+gap	 	
+word	to	
+gap	 	
+word	know	
+gap	 	
+word	the	
+gap	 	
+word	facts	
+gap	 	
+word	of	
+gap	 	
+word	colour	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	way	
+gap	, 	
+word	but	
+gap	 	
+word	she	
+gap	 	
+word	does	
+gap	 	
+word	come	
+gap	 	
+word	to	
+gap	 	
+word	know	
+gap	 	
+word	new	
+gap	 	
+word	facts	
+gap	 	
+word	about	
+gap	 	
+word	Qualia	
+gap	. 	
+word	The	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	Qualia	
+gap	 	
+word	raises	
+gap	 	
+word	many	
+gap	 	
+word	questions	
+gap	. 	
+word	As	
+gap	 	
+word	Mackie	
+gap	 	
+word	discussed	
+gap	, 	
+word	the	
+gap	 	
+word	nature	
+gap	 	
+word	of	
+gap	 	
+word	any	
+gap	 	
+word	non	
+gap	-	
+word	physical	
+gap	 	
+word	objective	
+gap	 	
+word	facts	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	very	
+gap	 	
+word	strange	
+gap	 	
+word	indeed	
+gap	 (	
+word	the	
+gap	 	
+word	queerness	
+gap	 	
+word	argument	
+gap	). 	
+word	Jackson	
+gap	 	
+word	expresses	
+gap	 	
+word	a	
+gap	 	
+word	pessimistic	
+gap	 	
+word	view	
+gap	 	
+word	of	
+gap	 	
+word	our	
+gap	 	
+word	potential	
+gap	 	
+word	for	
+gap	 	
+word	knowing	
+gap	 	
+word	about	
+gap	 	
+word	Qualia	
+gap	. 	
+word	In	
+gap	 	
+word	a	
+gap	 	
+word	strange	
+gap	 	
+word	argument	
+gap	 	
+word	he	
+gap	 	
+word	writes	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 	
+word	products	
+gap	 	
+word	of	
+gap	 	
+word	evolution	
+gap	 	
+word	but	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	survival	
+gap	 	
+word	value	
+gap	 	
+word	in	
+gap	 	
+word	knowing	
+gap	 	
+word	how	
+gap	 	
+word	Qualia	
+gap	 	
+word	are	
+gap	 	
+word	caused	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	laws	
+gap	 	
+word	governing	
+gap	 	
+word	them	
+gap	, 	
+word	and	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	consequence	
+gap	 	
+word	we	
+gap	 	
+word	simply	
+gap	 	
+word	can	
+gap	'	
+word	t	
+gap	. 	
+word	Epiphenomenalism	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	view	
+gap	 	
+word	that	
+gap	 	
+word	Qualia	
+gap	 	
+word	are	
+gap	 	
+word	causal	
+gap	 	
+word	by	
+gap	-	
+word	products	
+gap	 	
+word	of	
+gap	 	
+word	physical	
+gap	 	
+word	processes	
+gap	 	
+word	within	
+gap	 	
+word	our	
+gap	 	
+word	body	
+gap	, 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	cause	
+gap	 	
+word	of	
+gap	 	
+word	any	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	processes	
+gap	. 	
+word	A	
+gap	 	
+word	possible	
+gap	 	
+word	objection	
+gap	 	
+word	to	
+gap	 	
+word	this	
+gap	 	
+word	it	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	scream	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	pain	
+gap	, 	
+word	or	
+gap	 	
+word	jump	
+gap	 	
+word	back	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	pain	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	fire	
+gap	. 	
+word	Jackson	
+gap	 	
+word	answers	
+gap	 	
+word	this	
+gap	 	
+word	by	
+gap	 	
+word	saying	
+gap	 	
+word	that	
+gap	 	
+word	both	
+gap	 	
+word	events	
+gap	 (	
+word	the	
+gap	 	
+word	pain	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	jump	
+gap	 	
+word	back	
+gap	) 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	by	
+gap	-	
+word	products	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	single	
+gap	 	
+word	underlying	
+gap	 	
+word	cause	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	doubt	
+gap	 	
+word	that	
+gap	 	
+word	Mary	
+gap	 	
+word	has	
+gap	 	
+word	some	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	new	
+gap	 	
+word	experience	
+gap	 	
+word	when	
+gap	 	
+word	she	
+gap	 	
+word	leaves	
+gap	 	
+word	the	
+gap	 	
+word	black	
+gap	 	
+word	and	
+gap	 	
+word	white	
+gap	 	
+word	room	
+gap	, 	
+word	but	
+gap	 	
+word	different	
+gap	 	
+word	conclusions	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	drawn	
+gap	 	
+word	from	
+gap	 	
+word	this	
+gap	. 	
+word	The	
+gap	 	
+word	strong	
+gap	 	
+word	version	
+gap	, 	
+word	which	
+gap	 	
+word	Jackson	
+gap	 	
+word	adopts	
+gap	, 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	facts	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	physical	
+gap	. 	
+word	A	
+gap	 	
+word	weaker	
+gap	 	
+word	interpretation	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	non	
+gap	-	
+word	physical	
+gap	 	
+word	knowledge	
+gap	, 	
+word	but	
+gap	 	
+word	not	
+gap	 	
+word	non	
+gap	-	
+word	physical	
+gap	 	
+word	facts	
+gap	. 	
+word	Mary	
+gap	 	
+word	is	
+gap	 	
+word	gaining	
+gap	 	
+word	new	
+gap	 	
+word	knowledge	
+gap	, 	
+word	but	
+gap	 	
+word	not	
+gap	 	
+word	learning	
+gap	 	
+word	new	
+gap	 	
+word	facts	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	this	
+gap	 	
+word	second	
+gap	, 	
+word	weaker	
+gap	 	
+word	version	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	most	
+gap	 	
+word	often	
+gap	 	
+word	used	
+gap	 	
+word	as	
+gap	 	
+word	an	
+gap	 	
+word	objection	
+gap	 	
+word	to	
+gap	 	
+word	Jackson	
+gap	'	
+word	s	
+gap	 	
+word	view	
+gap	. 	
+word	This	
+gap	 	
+word	second	
+gap	 	
+word	interpretation	
+gap	 	
+word	can	
+gap	 	
+word	again	
+gap	 	
+word	be	
+gap	 	
+word	separated	
+gap	 	
+word	into	
+gap	 	
+word	various	
+gap	 	
+word	views	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	she	
+gap	 	
+word	gains	
+gap	. 	
+word	Jackson	
+gap	 	
+word	assumes	
+gap	 	
+word	that	
+gap	 '	
+word	knowing	
+gap	 	
+word	what	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	like	
+gap	' 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	propositional	
+gap	 	
+word	knowledge	
+gap	, 	
+word	but	
+gap	 	
+word	others	
+gap	 	
+word	disagree	
+gap	 	
+word	and	
+gap	 	
+word	suggest	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	simply	
+gap	 	
+word	the	
+gap	 	
+word	gaining	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	ability	
+gap	 . 	
+word	She	
+gap	 	
+word	acquires	
+gap	 	
+word	no	
+gap	 	
+word	new	
+gap	 	
+word	facts	
+gap	 	
+word	or	
+gap	 	
+word	information	
+gap	, 	
+word	simply	
+gap	 	
+word	the	
+gap	 	
+word	ability	
+gap	 	
+word	to	
+gap	 	
+word	identify	
+gap	 	
+word	objects	
+gap	 	
+word	as	
+gap	 	
+word	red	
+gap	 	
+word	and	
+gap	 	
+word	remember	
+gap	 	
+word	what	
+gap	 	
+word	red	
+gap	 	
+word	objects	
+gap	 	
+word	look	
+gap	 	
+word	like	
+gap	. 	
+word	Another	
+gap	 	
+word	alternative	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	Mary	
+gap	 	
+word	is	
+gap	 	
+word	gaining	
+gap	 '	
+word	Acquaintance	
+gap	' 	
+word	or	
+gap	 '	
+word	Indexical	
+gap	' 	
+word	knowledge	
+gap	. 	
+word	She	
+gap	 	
+word	comes	
+gap	 	
+word	to	
+gap	 	
+word	know	
+gap	 	
+word	colour	
+gap	 	
+word	experience	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	way	
+gap	 	
+word	that	
+gap	 	
+word	she	
+gap	 	
+word	might	
+gap	 	
+word	know	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	city	
+gap	. 	
+word	Whichever	
+gap	 	
+word	view	
+gap	 	
+word	we	
+gap	 	
+word	take	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	 	
+word	gained	
+gap	, 	
+word	even	
+gap	 	
+word	if	
+gap	 	
+word	we	
+gap	 	
+word	accept	
+gap	 	
+word	that	
+gap	 	
+word	Mary	
+gap	'	
+word	s	
+gap	 	
+word	new	
+gap	 	
+word	knowledge	
+gap	 	
+word	is	
+gap	 	
+word	propositional	
+gap	, 	
+word	the	
+gap	 	
+word	objection	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	Knowledge	
+gap	 	
+word	Argument	
+gap	 	
+word	remains	
+gap	. 	
+word	When	
+gap	 	
+word	seeing	
+gap	 	
+word	colour	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	time	
+gap	, 	
+word	Mary	
+gap	 	
+word	isn	
+gap	'	
+word	t	
+gap	 	
+word	exposed	
+gap	 	
+word	to	
+gap	 	
+word	any	
+gap	 	
+word	new	
+gap	 	
+word	facts	
+gap	, 	
+word	she	
+gap	 	
+word	simply	
+gap	 	
+word	perceives	
+gap	 	
+word	the	
+gap	 	
+word	facts	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	way	
+gap	. 	
+word	She	
+gap	 	
+word	acquires	
+gap	 	
+word	new	
+gap	 	
+word	knowledge	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	physical	
+gap	 	
+word	facts	
+gap	 	
+word	under	
+gap	 	
+word	a	
+gap	 	
+word	phenomenal	
+gap	 	
+word	concept	
+gap	. 	
+word	This	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	expressed	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	following	
+gap	 	
+word	way	
+gap	: 	
+word	Mary	
+gap	 	
+word	knows	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	is	
+gap	 	
+word	red	
+gap	 	
+word	because	
+gap	 	
+word	she	
+gap	 	
+word	knows	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	is	
+gap	 	
+word	F	
+gap	, 	
+word	where	
+gap	 	
+word	F	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	physical	
+gap	 	
+word	property	
+gap	 	
+word	of	
+gap	 	
+word	colour	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	physical	
+gap	 	
+word	response	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	eyes	
+gap	 	
+word	and	
+gap	 	
+word	brain	
+gap	. 	
+word	But	
+gap	 	
+word	Mary	
+gap	 	
+word	can	
+gap	 	
+word	also	
+gap	 	
+word	know	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	is	
+gap	 	
+word	red	
+gap	 	
+word	because	
+gap	 	
+word	she	
+gap	 	
+word	knows	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	is	
+gap	 	
+word	G	
+gap	, 	
+word	where	
+gap	 	
+word	G	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	phenomenal	
+gap	 	
+word	concept	
+gap	 	
+word	for	
+gap	 	
+word	redness	
+gap	. 	
+word	F	
+gap	 	
+word	and	
+gap	 	
+word	G	
+gap	 	
+word	are	
+gap	 	
+word	simply	
+gap	 	
+word	two	
+gap	 	
+word	ways	
+gap	 	
+word	of	
+gap	 	
+word	knowing	
+gap	 	
+word	a	
+gap	 	
+word	single	
+gap	 	
+word	fact	
+gap	: 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	is	
+gap	 	
+word	red	
+gap	. 	
+word	These	
+gap	 	
+word	two	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	 	
+word	are	
+gap	 	
+word	cognitively	
+gap	 	
+word	independent	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	know	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	satisfies	
+gap	 	
+word	the	
+gap	 	
+word	physical	
+gap	 	
+word	concept	
+gap	 (	
+word	as	
+gap	 	
+word	Mary	
+gap	 	
+word	knew	
+gap	 	
+word	before	
+gap	 	
+word	leaving	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	) 	
+word	without	
+gap	 	
+word	knowing	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	satisfies	
+gap	 	
+word	the	
+gap	 	
+word	phenomenal	
+gap	 	
+word	concept	
+gap	 	
+word	and	
+gap	 	
+word	vice	
+gap	 	
+word	versa	
+gap	. 	
+word	In	
+gap	 	
+word	most	
+gap	 	
+word	cases	
+gap	 	
+word	we	
+gap	 	
+word	rely	
+gap	 	
+word	on	
+gap	 	
+word	our	
+gap	 	
+word	phenomenal	
+gap	 	
+word	concept	
+gap	 	
+word	to	
+gap	 	
+word	tell	
+gap	 	
+word	us	
+gap	 	
+word	that	
+gap	 	
+word	x	
+gap	 	
+word	is	
+gap	 	
+word	red	
+gap	 	
+word	with	
+gap	 	
+word	little	
+gap	 	
+word	regard	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	physical	
+gap	 	
+word	properties	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	object	
+gap	. 	
+word	Dennett	
+gap	 	
+word	developed	
+gap	 	
+word	an	
+gap	 	
+word	additional	
+gap	 	
+word	criticism	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	Qualia	
+gap	. 	
+word	He	
+gap	 	
+word	imagined	
+gap	 	
+word	a	
+gap	 	
+word	machine	
+gap	 	
+word	that	
+gap	 	
+word	allowed	
+gap	 	
+word	two	
+gap	 	
+word	people	
+gap	 	
+word	to	
+gap	 	
+word	swap	
+gap	 	
+word	each	
+gap	 	
+word	others	
+gap	 	
+word	Qualia	
+gap	, 	
+word	so	
+gap	 	
+word	each	
+gap	 	
+word	was	
+gap	 	
+word	experiencing	
+gap	 	
+word	those	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	. 	
+word	It	
+gap	 	
+word	may	
+gap	 	
+word	well	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	would	
+gap	 	
+word	see	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	radically	
+gap	 	
+word	different	
+gap	 	
+word	way	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	person	
+gap	'	
+word	s	
+gap	 	
+word	experiences	
+gap	. 	
+word	But	
+gap	 	
+word	Dennett	
+gap	 	
+word	points	
+gap	 	
+word	out	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	no	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	knowing	
+gap	 	
+word	whether	
+gap	 	
+word	the	
+gap	 	
+word	machine	
+gap	 	
+word	is	
+gap	 	
+word	working	
+gap	 	
+word	properly	
+gap	 (	
+word	whether	
+gap	 	
+word	the	
+gap	 	
+word	plug	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	way	
+gap	) 	
+word	because	
+gap	 	
+word	each	
+gap	 	
+word	person	
+gap	 	
+word	only	
+gap	 	
+word	has	
+gap	 	
+word	their	
+gap	 	
+word	own	
+gap	 	
+word	Qualia	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	reference	
+gap	 	
+word	point	
+gap	. 	
+word	In	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	scenario	
+gap	 	
+word	all	
+gap	 	
+word	talk	
+gap	 	
+word	of	
+gap	 	
+word	Qualia	
+gap	 	
+word	essentially	
+gap	 	
+word	drops	
+gap	 	
+word	out	
+gap	 	
+word	of	
+gap	 	
+word	significance	
+gap	. 	
+word	This	
+gap	 	
+word	view	
+gap	 	
+word	is	
+gap	 	
+word	similar	
+gap	 	
+word	to	
+gap	 	
+word	that	
+gap	 	
+word	expressed	
+gap	 	
+word	by	
+gap	 	
+word	Wittgenstein	
+gap	 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	private	
+gap	 	
+word	language	
+gap	 	
+word	argument	
+gap	. 	
+word	He	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	purely	
+gap	 	
+word	private	
+gap	 	
+word	language	
+gap	 	
+word	is	
+gap	 	
+word	impossible	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	meaning	
+gap	 	
+word	of	
+gap	 	
+word	words	
+gap	 	
+word	requires	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	some	
+gap	 	
+word	kind	
+gap	 	
+word	of	
+gap	 	
+word	independent	
+gap	 	
+word	rule	
+gap	. 	
+word	We	
+gap	 	
+word	can	
+gap	 	
+word	say	
+gap	 	
+word	that	
+gap	 	
+word	words	
+gap	 	
+word	are	
+gap	 	
+word	used	
+gap	 	
+word	correctly	
+gap	 	
+word	or	
+gap	 	
+word	incorrectly	
+gap	 	
+word	only	
+gap	 	
+word	because	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	set	
+gap	 	
+word	of	
+gap	 	
+word	external	
+gap	 	
+word	rules	
+gap	 	
+word	that	
+gap	 	
+word	their	
+gap	 	
+word	meaning	
+gap	 	
+word	is	
+gap	 	
+word	governed	
+gap	 	
+word	by	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	way	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	argue	
+gap	 	
+word	that	
+gap	 	
+word	purely	
+gap	 	
+word	subjective	
+gap	 	
+word	facts	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	Qualia	
+gap	, 	
+word	are	
+gap	 	
+word	impossible	
+gap	 	
+word	without	
+gap	 	
+word	a	
+gap	 	
+word	relationship	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	objective	
+gap	 	
+word	physical	
+gap	 	
+word	world	
+gap	. 	
+word	Wittgenstein	
+gap	, 	
+word	L	
+gap	. (1953) 	
+word	Philosophical	
+gap	 	
+word	Investigations	
+gap	 , 	
+word	Oxford	
+gap	: 	
+word	Blackwell	
+gap	. 	
+word	Jackson	
+gap	 	
+word	undoubtedly	
+gap	 	
+word	establishes	
+gap	 	
+word	an	
+gap	 	
+word	interesting	
+gap	 	
+word	thought	
+gap	 	
+word	experiment	
+gap	 	
+word	that	
+gap	 	
+word	raises	
+gap	 	
+word	interesting	
+gap	 	
+word	questions	
+gap	. 	
+word	However	
+gap	, 	
+word	his	
+gap	 	
+word	conclusion	
+gap	 	
+word	that	
+gap	 	
+word	Mary	
+gap	'	
+word	s	
+gap	 	
+word	new	
+gap	 	
+word	knowledge	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	experience	
+gap	 	
+word	of	
+gap	 	
+word	colour	
+gap	 	
+word	necessitates	
+gap	 	
+word	non	
+gap	-	
+word	physical	
+gap	 	
+word	facts	
+gap	 	
+word	is	
+gap	 	
+word	flawed	
+gap	. 	
+word	As	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	shown	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	perfectly	
+gap	 	
+word	coherent	
+gap	 	
+word	to	
+gap	 	
+word	say	
+gap	 	
+word	that	
+gap	 	
+word	Mary	
+gap	 	
+word	is	
+gap	 	
+word	simply	
+gap	 	
+word	experiencing	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	physical	
+gap	 	
+word	facts	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	way	
+gap	, 	
+word	namely	
+gap	 	
+word	through	
+gap	 	
+word	a	
+gap	 	
+word	phenomenal	
+gap	 	
+word	concept	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	interesting	
+gap	 	
+word	to	
+gap	 	
+word	note	
+gap	 	
+word	that	
+gap	 	
+word	Jackson	
+gap	 	
+word	himself	
+gap	 	
+word	later	
+gap	 	
+word	rejected	
+gap	 	
+word	the	
+gap	 	
+word	knowledge	
+gap	 	
+word	argument	
+gap	, 	
+word	and	
+gap	 	
+word	turned	
+gap	 	
+word	to	
+gap	 	
+word	Physicalism	
+gap	. 	
+word	He	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	accept	
+gap	 	
+word	that	
+gap	 	
+word	Mary	
+gap	 	
+word	gains	
+gap	 	
+word	any	
+gap	 	
+word	new	
+gap	 	
+word	knowledge	
+gap	 	
+word	upon	
+gap	 	
+word	leaving	
+gap	 	
+word	the	
+gap	 	
+word	room	
+gap	, 	
+word	and	
+gap	 	
+word	instead	
+gap	 	
+word	believes	
+gap	 	
+word	we	
+gap	 	
+word	should	
+gap	 	
+word	focus	
+gap	 	
+word	on	
+gap	 	
+word	why	
+gap	 	
+word	we	
+gap	 	
+word	intuitively	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	think	
+gap	 	
+word	that	
+gap	 	
+word	she	
+gap	 	
+word	does	
+gap	. 	
+word	Despite	
+gap	 	
+word	the	
+gap	 	
+word	apparent	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	modern	
+gap	 	
+word	support	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	knowledge	
+gap	 	
+word	argument	
+gap	 	
+word	it	
+gap	 	
+word	remains	
+gap	 	
+word	important	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	counter	
+gap	-	
+word	weight	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	dominance	
+gap	 	
+word	of	
+gap	 	
+word	Physicalism	
+gap	 	
+word	in	
+gap	 	
+word	Twentieth	
+gap	 	
+word	Century	
+gap	 	
+word	analytic	
+gap	 	
+word	philosophy	
+gap	 	
+word	of	
+gap	 	
+word	mind	
+gap	. 	
+word	Jackson	
+gap	, 	
+word	F	
+gap	. (1998	
+word	a	
+gap	), "	
+word	Postscript	
+gap	 	
+word	on	
+gap	 	
+word	Qualia	
+gap	" 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	Mind	
+gap	, 	
+word	Method	
+gap	 	
+word	and	
+gap	 	
+word	Conditionals	
+gap	. 	
+word	London	
+gap	: 	
+word	Routledge	
+gap	.	

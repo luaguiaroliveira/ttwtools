@@ -1,1231 +1,2152 @@
 # filename: PS_Physics_Essay_1_6091a_tx.txt
-token	tags
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-times	NN
-of	PIN PREP
-the	ART DET
-early	JJ TIME
-ancient	JJ
-Greeks	CAP NNP
-,	
-the	ART DET
-state	PUBV NN
-of	PIN PREP
-the	ART DET
-universe	NN
-has	VPRT PEAS
-puzzled	
-humankind	NN
-.	
-It	PIT CAP PRP SBJP
-'s	VPRT
-only	DWNT RB
-in	PIN CONJ PREP
-the	ART DET
-past	JJ
-century	NN
-that	PIN TOBJ SCONJ PREP
-we	FPP1 PRP SBJP
-have	VPRT PEAS
-begun	
-to	PIN TO PREP
-unravel	INF
-this	DEMO DET
-mystery	NN
-,	
-with	PIN PREP
-solid	JJ
-evidence	NN
-.	
-This	DEMO CAP DET
-paper	NN
-reviews	VPRT
-the	ART DET
-evidence	NN
-which	WHSUB DET WH
-has	VPRT PEAS
-led	
-to	PIN PREP
-why	RB SCONJ WH
-physicists	NN
-think	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-universe	NN
-is	VPRT AUXB
-expanding	PGAS
-.	
-Introduction	CAP NNP
-Firstly	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-clarify	INF
-what	WH
-is	PASS VPRT BYPA AUXB
-meant	PRIV
-by	PIN PREP
-the	ART DET
-term	NN
-'	CONT QUOT
-Universe	CAP NNP
-'	CONT QUOT
-;	
-Physicists	NN CAP
-define	VPRT
-the	ART DET
-Universe	CAP NNP
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-All	QUAN RB CAP
-matter	NN
-,	
-energy	NN
-,	
-and	ANDC CCONJ
-space	NN
-that	TSUB WHSUB WH
-exists	VPRT
-.	
-'	CONT QUOT
-'	CONT QUOT
-Universe	CAP NNP
-'	CONT QUOT
-,	
-Dictionary	CAP NNP
-of	PIN PREP
-Physics	CAP NNP
-,	
-4th	JJ
-Ed	CAP NNP
-.	
-Oxford	CAP NNP
-University	CAP NNP
-Press	CAP NNP
-In	PIN CONJ CAP PREP
-the	ART DET
-1600	NUM
-'s	
-Sir	CAP NNP
-Isaac	CAP NNP
-Newton	CAP NNP
-postulated	VBD
-the	ART DET
-universal	JJ
-law	NN
-of	PIN PREP
-gravitation	NOMZ
-,	
-one	NUM
-consequence	NN
-of	PIN PREP
-this	DEMO DET
-theory	NN
-was	BEMA VBD AUXB
-that	PIN DEMO SCONJ PREP
-all	QUAN DET
-bodies	NN
-,	
-including	PGAS
-stars	NN
-,	
-planets	NN
-and	PHC CCONJ
-galaxies	NN
-,	
-would	PRMD
-attract	INF
-each	QUAN DET
-other	JJ
-,	
-resulting	PGAS
-in	PIN CONJ PREP
-a	ART DET INDA
-Big	CAP NNP
-Crunch	CAP NNP
-!	EXCL
-As	PIN CONJ CAP PREP
-this	DEMP DET
-had	VBD PEAS SPAU
-not	XX0 RB
-happened	
-,	
-no	SYNE DET
-plausible	JJ
-explanation	NOMZ
-could	POMD
-be	PASS AUXB INF
-found	PRIV
-and	CCONJ
-to	PIN TO PREP
-counter	INF
-this	DEMO DET
-paradox	NN
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-posed	
-that	PIN DEMO SCONJ PREP
-the	ART DET
-universe	NN
-must	NEMD
-be	BEMA AUXB INF
-infinite	JJ PRED
-in	PIN CONJ PREP
-space	NN
-,	
-and	ANDC CCONJ
-contain	INF
-an	ART DET INDA
-infinite	JJ
-number	NN
-of	PIN PREP
-evenly	RB
-distributed	
-stars	NN
-,	
-to	PIN TO PREP
-produce	INF
-an	ART DET INDA
-over	PIN PREP
-all	QUAN DET
-gravitational	JJ
-balance	NN
-.	
-Early	RB TIME CAP
-in	PIN CONJ PREP
-the	ART DET
-1800	NUM
-'s	
-,	
-Heinrich	CAP NNP
-Olbers	CAP NNP
-,	
-a	ART DET INDA
-German	JJ CAP
-philosopher	NN
-,	
-postulated	VBD
-if	COND PIN SCONJ PREP
-the	ART DET
-universe	NN
-was	BEMA VBD AUXB
-infinite	JJ PRED
-,	
-with	PIN PREP
-an	ART DET INDA
-infinite	JJ
-numbers	NN
-of	PIN PREP
-evenly	RB
-distributed	
-stars	NN
-,	
-then	RB
-surely	RB
-there	EX
-would	PRMD
-be	BEMA AUXB INF
-a	ART DET INDA
-constant	JJ
-amount	NN
-of	PIN PREP
-light	NN
-reaching	WZPRES PGAS
-Earth	CAP NNP
-from	PIN PREP
-all	QUAN DET
-directions	NOMZ
-,	
-and	ANDC CCONJ
-so	RB
-the	ART DET
-night	NN
-sky	NN
-would	PRMD
-be	BEMA AUXB INF
-a	ART DET INDA
-bright	JJ
-as	PIN CONJ PREP
-day	NN
-!	EXCL
-The	ART CAP DET
-fact	NN
-it	PIT PRP SBJP
-was	VBD AUXB
-n't	XX0 CONT RB
-as	RB CONJ
-bright	JJ
-as	PIN CONJ PREP
-day	NN
-implied	VBD PRIV
-that	PIN THVC SCONJ PREP
-if	COND PIN SCONJ PREP
-the	ART DET
-universe	NN
-was	BEMA VBD AUXB
-static	JJ PRED
-(	
-which	SERE DET WH
-due	PIN PREP
-to	PIN PREP
-Newton	CAP NNP
-'s	
-law	NN
-of	PIN PREP
-gravitation	NOMZ
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-thought	PRIV
-so	RB
-)	
-,	
-it	PIT PRP SBJP
-must	NEMD
-be	BEMA AUXB INF
-finite	JJ PRED
-,	
-which	SERE DET WH
-contradicts	VPRT
-that	DEMO DET
-law	NN
-.	
-Again	RB TIME CAP
-at	PIN PREP
-the	ART DET
-start	NN
-of	PIN PREP
-the	ART DET
-20	NUM
-th	X
-century	NN
-,	
-when	RB SCONJ WH
-Albert	CAP NNP
-Einstein	CAP NNP
-was	VBD AUXB
-formulating	GER PGAS
-his	TPP3 PRP SBJP
-general	JJ
-theory	NN
-of	PIN PREP
-relativity	NOMZ
-,	
-his	TPP3 PRP SBJP
-equations	NOMZ
-lead	VPRT
-to	PIN PREP
-a	ART DET INDA
-universe	NN
-that	TSUB WHSUB WH
-is	VPRT AUXB
-expanding	PGAS
-or	CCONJ
-collapsing	GER PGAS
-.	
-Einstein	CAP NNP
-ignored	VBD
-this	DEMP DET
-and	CCONJ
-attempted	VBD
-to	PIN TO PREP
-solve	INF
-this	DEMO DET
-paradox	NN
-with	PIN PREP
-the	ART DET
-introduction	NOMZ
-of	PIN PREP
-the	ART DET
-cosmological	JJ
-constant	NN
-,	
-this	DEMP DET
-was	BEMA VBD AUXB
-an	ART DET INDA
-antigravity	NOMZ
-force	NN
-that	TSUB WHSUB WH
-stopped	VBD
-the	ART DET
-universe	NN
-collapsing	GER WZPRES PGAS
-under	PIN PREP
-gravity	NOMZ
-.	
-The	ART CAP DET
-cosmological	JJ
-constant	NN
-would	PRMD SPAU
-later	RB TIME
-become	INF
-known	PRIV
-as	PIN CONJ PREP
-Einstein	CAP NNP
-'s	
-biggest	JJ SPADJ
-blunder	NN
-.	
-A	ART CAP DET INDA
-New	CAP NNP
-Truth	CAP NNP
-It	PIT CAP PRP SBJP
-was	BEMA VBD AUXB
-also	RB
-at	PIN PREP
-this	DEMO DET
-time	NN
-,	
-that	PIN DEMO SCONJ PREP
-larger	JJ CMADJ
-telescopes	NN
-were	PASS VBD AUXB
-being	PASS AUXB
-made	
-,	
-between	PIN PREP
-1912	NUM
-and	CCONJ
-1922	NUM
-;	
-Vesto	CAP NNP
-Slipher	CAP NNP
-took	VBD
-measurements	NOMZ
-of	PIN PREP
-the	ART DET
-spectra	NN
-of	PIN PREP
-large	JJ
-abundance	NN
-of	PIN PREP
-faint	JJ
-objects	PUBV NN
-,	
-which	SERE WHQU DET WH
-would	PRMD SPAU
-later	RB TIME
-be	PASS AUXB INF
-found	PRIV
-to	PIN TO PREP
-be	AUXB INF
-galaxies	NN
-.	
-Also	RB CAP
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-observed	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-spectra	NN
-of	PIN PREP
-all	QUAN DET
-these	DEMO DET
-objects	PUBV NN
-were	BEMA VBD AUXB
-slightly	DWNT RB
-red	JJ
--	
-shifted	
-.	
-In	PIN CONJ CAP PREP
-1922	NUM
-Russian	CAP NNP
-Physicist	CAP NNP
-,	
-Alexander	CAP NNP
-Friedmann	CAP NNP
-made	VBD
-two	NUM
-simple	JJ
-assumptions	NOMZ
-;	
-the	ART DET
-universe	NN
-looked	VBD
-the	ART DET
-same	JJ
-in	PIN CONJ PREP
-all	QUAN DET
-directions	NOMZ
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-looked	VBD
-like	PIN PREP
-this	DEMO DET
-from	PIN PREP
-any	QUAN DET
-point	NN
-.	
-These	DEMO CAP DET
-assumptions	NOMZ
-are	VPRT AUXB
-not	XX0 RB
-strictly	RB
-true	JJ
-,	
-but	CCONJ
-the	ART DET
-universe	NN
-does	VPRT EMPH
-look	INF
-more	RB EMPH HDG CMADJ
-or	CCONJ
-less	RB CMADJ
-the	ART DET
-same	JJ
-in	PIN CONJ PREP
-all	QUAN DET
-directions	NOMZ
-.	
-From	PIN CAP PREP
-these	DEMO DET
-two	NUM
-statements	NOMZ
-alone	RB
-Friedmann	CAP NNP
-showed	VBD PRIV
-that	THVC DET
-universe	NN
-should	NEMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-static	JJ PRED
-,	
-and	ANDC CCONJ
-even	RB
-predicted	VBD PUBV
-what	WHCL WH
-Hubble	CAP NNP
-found	VBD PRIV
-several	QUAN JJ
-years	NN
-earlier	RB TIME CMADJ
-.	
-In	PIN CONJ CAP PREP
-1924	NUM
-Edwin	CAP NNP
-Hubble	CAP NNP
-,	
-an	ART DET INDA
-American	JJ CAP
-astronomer	NN
-,	
-opened	VBD
-our	FPP1 PRP SBJP
-eyes	NN
-and	CCONJ
-showed	VBD PRIV
-us	FPP1 PRP SBJP ACCU
-our	FPP1 PRP SBJP
-galaxy	NN
-was	BEMA VBD AUXB
-not	XX0 RB
-alone	JJ
-.	
-It	PIT CAP PRP SBJP
-was	BEMA VBD AUXB
-in	PIN CONJ PREP
-the	ART DET
-years	NN
-after	PIN PREP
-this	DEMO DET
-that	PIN DEMO SCONJ PREP
-Hubble	CAP NNP
-took	VBD
-many	QUAN JJ
-measurements	NOMZ
-of	PIN PREP
-these	DEMO DET
-galaxies	NN
-,	
-measuring	PRESP PGAS
-the	ART DET
-shift	NN
-in	PIN CONJ PREP
-the	ART DET
-spectra	NN
-of	PIN PREP
-galaxies	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-known	PRIV
-as	PIN CONJ PREP
-the	ART DET
-Doppler	CAP NNP
-Effect	CAP NNP
-;	
-For	PIN CAP PREP
-objects	PUBV NN THATD
-that	TSUB THVC WHSUB WHCL WH
-emit	VPRT
-waves	NN
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-case	NN
-light	NN
-from	PIN PREP
-stars	NN
-,	
-when	RB SCONJ WH
-the	ART DET
-object	PUBV NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-a	ART DET INDA
-frame	NN
-of	PIN PREP
-movement	NOMZ
-it	PIT PRP SBJP
-receives	VPRT
-light	NN
-at	PIN PREP
-a	ART DET INDA
-higher	JJ CMADJ
-or	CCONJ
-lower	JJ CMADJ
-frequency	NN
-,	
-depending	PGAS
-on	PIN PREP
-which	PIRE DET WH
-way	NN
-it	PIT PRP SBJP
-moves	VPRT SUAV
-(	
-See	PRIV CAP INF
-Figure	NN CAP
-1	NUM
-)	
-.	
-Figure	NN CAP
-1	NUM
-,	
-The	ART CAP DET
-Doppler	CAP NNP
-Effect	CAP NNP
-.	
-'	CONT QUOT
-Successive	JJ CAP
-wave	NN
-fronts	NN
-of	PIN PREP
-a	ART DET INDA
-moving	SUAV PGAS
-source	NN
-S	NN CAP
-(	
-successive	JJ
-positions	NOMZ
-marked	WZPAST
-by	PIN PREP
-dots	NN
-)	
-occur	VPRT
-closer	RB CMADJ
-to	PIN PREP
-the	ART DET
-observer	NN
-ahead	RB PLACE
-,	
-decreasing	GER PRESP PGAS
-the	ART DET
-distance	NN
-the	ART DET
-wave	NN
-must	NEMD
-travel	INF
-.	
-Thus	RB CONJ CAP
-,	
-the	ART DET
-observer	NN
-sees	VPRT PRIV
-the	ART DET
-wave	NN
-fronts	NN
-closer	RB CMADJ
-together	RB
-relative	JJ
-to	PIN PREP
-an	ART DET INDA
-observer	NN
-behind	PIN PLACE PREP
-the	ART DET
-source	NN
-that	TSUB WHSUB WH
-sees	VPRT PRIV THATD
-it	PIT PRP SBJP
-moving	SUAV PGAS
-away	RB PLACE
-.	
-The	ART CAP DET
-wavelengths	NN
-are	PASS VPRT AUXB
-seen	PRIV
-shortened	
-ahead	RB PLACE
-of	PIN PREP
-the	ART DET
-moving	SUAV PGAS
-source	NN
-(	
-blue	NNP
-shifted	VBD
-)	
-and	ANDC CCONJ
-seen	PRIV
-lengthened	
-behind	PIN PLACE PREP
-the	ART DET
-source	NN
-(	
-red	NNP
-shifted	VBD
-)	
-.	
-'	CONT QUOT
-'	CONT QUOT
-The	ART CAP DET
-Doppler	CAP NNP
-Effect	CAP NNP
-'	CONT QUOT
-Using	PRESP CAP PGAS
-the	ART DET
-spectra	JJ
--	JJ
-shift	JJ
-data	NN
-of	PIN PREP
-these	DEMO DET
-galaxies	NN
-,	
-Hubble	CAP NNP
-calculated	VBD PRIV
-their	TPP3 PRP SBJP
-speeds	NN
-and	CCONJ
-found	VBD PRIV
-that	PIN THVC SCONJ PREP
-most	JJ EMPH SPADJ
-galaxies	NN
-were	VBD AUXB
-receding	PGAS
-from	PIN PREP
-us	FPP1 PRP SBJP ACCU
-.	
-Hubble	CAP NNP
-plotted	VBD
-the	ART DET
-recessional	JJ
-speed	NN
-of	PIN PREP
-these	DEMO DET
-galaxies	NN
-against	PIN PREP
-the	ART DET
-distance	NN
-from	PIN PREP
-us	FPP1 PRP SBJP ACCU
-,	
-he	TPP3 PRP SBJP
-found	VBD PRIV
-a	ART DET INDA
-direct	JJ
-linear	JJ
-relationship	NN
-,	
-which	SERE DET WH
-we	FPP1 PRP SBJP
-now	RB TIME
-know	VPRT PRIV
-as	PIN CONJ PREP
-Hubble	CAP NNP
-'s	
-Law	NN CAP
-,	
-expressed	PASTP
-by	PIN STPR PREP
-;	
-where	RB SCONJ WH
-H	NN CAP
-0	NUM
-is	BEMA VPRT AUXB
-the	ART DET
-Hubble	CAP NNP
-constant	NN
-,	
-v	NN
-is	BEMA VPRT AUXB
-the	ART DET
-recessional	JJ
-speed	NN
-of	PIN PREP
-a	ART DET INDA
-galaxy	NN
-,	
-and	ANDC CCONJ
-r	NN
-is	BEMA VPRT AUXB
-the	ART DET
-Earth	CAP NNP
--	
-galaxy	NN
-distance	NN
-.	
-This	DEMP CAP DET
-may	POMD
-seem	SMP INF
-to	PIN TO PREP
-suggest	PUBV SUAV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-Earth	CAP NNP
-is	BEMA VPRT AUXB
-at	PIN PREP
-the	ART DET
-centre	NN
-of	PIN PREP
-the	ART DET
-universe	NN
-,	
-but	CCONJ
-Friedmann	CAP NNP
-'s	
-assumptions	NOMZ
-suggest	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-all	QUAN DET
-galaxies	NN
-are	VPRT AUXB
-moving	SUAV PGAS
-apart	RB
-,	
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-real	JJ
-evidence	NN
-for	PIN PREP
-this	DEMP DET
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-more	JJ PRED EMPH CMADJ
-on	PIN PREP
-the	ART DET
-grounds	NN
-of	PIN PREP
-human	JJ
-modesty	NN
-.	
-Hubble	CAP NNP
-concluded	VBD PRIV
-if	COND PIN SCONJ PREP
-all	QUAN DET
-galaxies	NN
-are	VPRT AUXB
-moving	SUAV PGAS
-apart	RB
-the	ART DET
-universe	NN
-must	NEMD
-be	AUXB INF
-expanding	PGAS
-.	
-It	PIT CAP PRP SBJP
-was	PASS VBD SPAU AUXB
-also	RB
-proposed	SUAV
-that	PIN THVC SCONJ PREP
-if	COND PIN SCONJ PREP
-the	ART DET
-universe	NN
-was	VBD AUXB
-expanding	PGAS
-,	
-then	RB
-it	PIT PRP SBJP
-must	NEMD
-have	PEAS INF
-been	BEMA AUXB
-smaller	JJ PRED CMADJ
-at	PIN PREP
-the	ART DET
-previous	JJ
-point	NN
-,	
-which	SERE DET WH
-presented	VBD
-the	ART DET
-notion	NOMZ
-of	PIN PREP
-the	ART DET
-Big	CAP NNP
-Bang	CAP NNP
-theory	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-Big	CAP NNP
-Bang	CAP NNP
-model	NN
-,	
-there	EX
-must	NEMD
-have	PEAS INF
-been	BEMA AUXB
-a	ART DET INDA
-massive	JJ
-emission	NOMZ
-of	PIN PREP
-energy	NN
-as	PIN CONJ PREP
-the	ART DET
-universe	NN
-expanded	VBD
-and	CCONJ
-surely	RB
-some	QUAN DET
-of	PIN PREP
-this	DEMO DET
-energy	NN
-must	NEMD SPAU
-still	RB
-be	BEMA AUXB INF
-present	JJ PRED
-.	
-In	PIN CONJ CAP PREP
-1963	NUM
-two	NUM
-American	JJ CAP
-physicists	NN
-working	WZPRES PGAS
-at	PIN PREP
-Bell	CAP NNP
-Telephone	CAP NNP
-Laboratories	CAP NNP
-,	
-accidentally	RB
-came	VBD
-upon	PIN SCONJ PREP
-a	ART DET INDA
-relic	NN
-from	PIN PREP
-the	ART DET
-universe	NN
-'s	
-early	JJ TIME
-beginnings	GER
-.	
-They	TPP3 CAP PRP SBJP
-found	VBD PRIV
-a	ART DET INDA
-microwave	NN
-noise	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-instruments	NOMZ
-that	TSUB WHSUB WH
-was	BEMA VBD AUXB
-constant	JJ PRED
-in	PIN CONJ PREP
-all	QUAN DET
-directions	NOMZ
-,	
-day	NN
-and	PHC CCONJ
-night	NN
-,	
-and	ANDC CCONJ
-at	PIN PREP
-different	JJ
-times	NN
-of	PIN PREP
-the	ART DET
-year	NN
-,	
-this	DEMP DET
-meant	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-radiation	NOMZ
-was	BEMA VBD AUXB
-constant	JJ PRED
-at	PIN PREP
-different	JJ
-positions	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-solar	JJ
-system	NN
-,	
-from	PIN PREP
-this	DEMO DET
-they	TPP3 PRP SBJP
-concluded	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-noise	NN
-must	NEMD
-be	AUXB INF
-coming	PGAS
-outside	PIN PLACE PREP
-our	FPP1 PRP SBJP
-galaxy	NN
-.	
-Their	TPP3 CAP PRP SBJP
-conclusion	NOMZ
-seemed	VBD SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-correct	JJ PRED
-,	
-the	ART DET
-temperature	NN
-of	PIN PREP
-this	DEMO DET
-radiation	NOMZ
-accurately	RB
-corresponded	VBD
-with	PIN PREP
-the	ART DET
-one	NN
-predicted	PUBV WZPAST
-by	PIN PREP
-the	ART DET
-Big	CAP NNP
-Bang	CAP NNP
-model	NN
-with	PIN PREP
-the	ART DET
-current	JJ
-rate	NN
-of	PIN PREP
-expansion	NOMZ
-.	
-This	DEMP CAP DET
-was	BEMA VBD AUXB
-a	ART DET INDA
-temperature	NN
-of	PIN PREP
-2.7	NUM
-K	CAP NNP
-,	
-but	CCONJ
-if	COND PIN SCONJ PREP
-this	DEMO DET
-radiation	NOMZ
-had	VBD
-a	ART DET INDA
-constant	JJ
-temperature	NN
-it	PIT PRP SBJP
-would	PRMD
-present	INF
-problems	NN
-for	PIN PREP
-the	ART DET
-clustering	GER
-of	PIN PREP
-matter	NN
-,	
-there	EX
-should	NEMD
-be	BEMA AUXB INF
-small	JJ
-fluctuations	NOMZ
-in	PIN CONJ PREP
-this	DEMO DET
-radiation	NOMZ
-.	
-This	DEMO CAP DET
-radiation	NOMZ
-was	PASS VBD AUXB
-named	
-cosmic	JJ
-microwave	NN
-background	NN
-radiation	NOMZ
-,	
-CMBR	CAP NNP
-.	
-A	ART CAP DET INDA
-satellite	NN
-was	PASS VBD AUXB
-launched	
-in	PIN CONJ PREP
-the	ART DET
-1989	NUM
-to	PIN TO PREP
-collect	INF
-data	NN
-on	PIN PREP
-the	ART DET
-CMBR	NN CAP
-,	
-and	ANDC CCONJ
-analysis	NN
-of	PIN PREP
-this	DEMO DET
-data	NN
-in	PIN CONJ PREP
-1992	NUM
-showed	VBD PRIV THATD
-there	EX
-were	VBD AUXB
-small	JJ
-variations	NOMZ
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-temperature	NN
-.	
-These	DEMO CAP DET
-variations	NOMZ
-correspond	VPRT
-to	PIN PREP
-the	ART DET
-clustering	GER
-of	PIN PREP
-matter	NN
-in	PIN CONJ PREP
-the	ART DET
-universe	NN
-.	
-Summary	CAP NNP
-After	PIN CAP PREP
-a	ART DET INDA
-series	NN
-of	PIN PREP
-paradoxical	JJ
-arguments	NOMZ
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-beginnings	GER
-of	PIN PREP
-modern	JJ
-science	NN
-,	
-the	ART DET
-Expanding	CAP PGAS
-Universe	CAP NNP
-Theory	CAP NNP
-does	VPRT EMPH
-seem	SMP INF
-to	PIN TO PREP
-be	PASS BYPA SPAU AUXB INF
-well	RB
-supported	
-by	PIN PREP
-the	ART DET
-evidence	NN
-produced	WZPAST
-since	OSUB PIN SCONJ PREP
-the	ART DET
-1920	NUM
-'s	
-.	
-Most	RB EMPH CAP SPADJ
-important	JJ
-of	PIN PREP
-this	DEMO DET
-evidence	NN
-is	VPRT AUXB
-Hubble	CAP NNP
-'s	
-law	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-correspondence	NN
-of	PIN PREP
-CMBR	CAP NNP
-,	
-in	PIN CONJ PREP
-the	ART DET
-Big	CAP NNP
-Bang	CAP NNP
-model	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-note	PRIV INF
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-trying	PGAS
-to	PIN TO PREP
-predict	PUBV THATD INF
-ideas	NN
-based	WZPAST
-on	PIN PREP
-two	NUM
-massive	JJ
-extrapolations	NOMZ
-;	
-we	FPP1 PRP SBJP
-can	POMD SPAU
-only	DWNT RB
-base	INF
-our	FPP1 PRP SBJP
-understanding	GER PRIV
-on	PIN PREP
-the	ART DET
-part	NN
-of	PIN PREP
-the	ART DET
-universe	NN
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-visible	JJ PRED
-to	PIN PREP
-us	FPP1 PRP SBJP ACCU
-,	
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-only	DWNT RB
-have	VPRT
-a	ART DET INDA
-very	AMP RB
-small	JJ
-time	NN
-scale	NN
-to	PIN TO PREP
-judge	PRIV INF
-on	PIN PREP
-i.e.	CONJ X
-we	FPP1 PRP SBJP
-have	VPRT PEAS SPAU
-only	DWNT RB
-been	AUXB
-observing	PRIV PGAS
-the	ART DET
-stars	NN
-for	PIN PREP
-around	PIN PLACE PREP
-four	NUM
-millennia	NN
-,	
-the	ART DET
-universe	NN
-is	PASS VPRT AUXB
-estimated	PRIV
-to	PIN TO PREP
-have	PEAS INF
-been	BEMA AUXB
-around	RB PLACE
-for	PIN PREP
-15	NUM
-million	NUM
-millennia	NN
-!	EXCL
+type	content	tags
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	times	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	early	JJ TIME
+gap	 	
+word	ancient	JJ
+gap	 	
+word	Greeks	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	puzzled	
+gap	 	
+word	humankind	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	'	
+word	s	VPRT
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	past	JJ
+gap	 	
+word	century	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	begun	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	unravel	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	mystery	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	solid	JJ
+gap	 	
+word	evidence	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	paper	NN
+gap	 	
+word	reviews	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	evidence	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	led	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	physicists	NN
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	expanding	PGAS
+gap	. 	
+word	Introduction	CAP NNP
+gap	 	
+word	Firstly	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	clarify	INF
+gap	 	
+word	what	WH
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	meant	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	term	NN
+gap	 '	
+word	Universe	CAP NNP
+gap	'; 	
+word	Physicists	NN CAP
+gap	 	
+word	define	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	Universe	CAP NNP
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 '	
+word	All	QUAN RB CAP
+gap	 	
+word	matter	NN
+gap	, 	
+word	energy	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	space	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	exists	VPRT
+gap	.' '	
+word	Universe	CAP NNP
+gap	', 	
+word	Dictionary	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Physics	CAP NNP
+gap	, 4	
+word	th	JJ
+gap	 	
+word	Ed	CAP NNP
+gap	. 	
+word	Oxford	CAP NNP
+gap	 	
+word	University	CAP NNP
+gap	 	
+word	Press	CAP NNP
+gap	 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 1600'	
+word	s	
+gap	 	
+word	Sir	CAP NNP
+gap	 	
+word	Isaac	CAP NNP
+gap	 	
+word	Newton	CAP NNP
+gap	 	
+word	postulated	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	universal	JJ
+gap	 	
+word	law	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gravitation	NOMZ
+gap	, 	
+word	one	NUM
+gap	 	
+word	consequence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	theory	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	bodies	NN
+gap	, 	
+word	including	PGAS
+gap	 	
+word	stars	NN
+gap	, 	
+word	planets	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	galaxies	NN
+gap	, 	
+word	would	PRMD
+gap	 	
+word	attract	INF
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	, 	
+word	resulting	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Big	CAP NNP
+gap	 	
+word	Crunch	CAP NNP
+gap	! 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	had	VBD PEAS SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	happened	
+gap	, 	
+word	no	SYNE DET
+gap	 	
+word	plausible	JJ
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	found	PRIV
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	counter	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	paradox	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	posed	
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	infinite	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	space	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	contain	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	infinite	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	evenly	RB
+gap	 	
+word	distributed	
+gap	 	
+word	stars	NN
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	gravitational	JJ
+gap	 	
+word	balance	NN
+gap	. 	
+word	Early	RB TIME CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 1800'	
+word	s	
+gap	, 	
+word	Heinrich	CAP NNP
+gap	 	
+word	Olbers	CAP NNP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	German	JJ CAP
+gap	 	
+word	philosopher	NN
+gap	, 	
+word	postulated	VBD
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	infinite	JJ PRED
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	infinite	JJ
+gap	 	
+word	numbers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	evenly	RB
+gap	 	
+word	distributed	
+gap	 	
+word	stars	NN
+gap	, 	
+word	then	RB
+gap	 	
+word	surely	RB
+gap	 	
+word	there	EX
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	constant	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	light	NN
+gap	 	
+word	reaching	WZPRES PGAS
+gap	 	
+word	Earth	CAP NNP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	directions	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	night	NN
+gap	 	
+word	sky	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bright	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	day	NN
+gap	! 	
+word	The	ART CAP DET
+gap	 	
+word	fact	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	wasn	
+gap	'	
+word	t	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	bright	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	day	NN
+gap	 	
+word	implied	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	static	JJ PRED
+gap	 (	
+word	which	SERE DET WH
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Newton	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	law	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gravitation	NOMZ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	thought	PRIV
+gap	 	
+word	so	RB
+gap	), 	
+word	it	PIT PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	finite	JJ PRED
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	contradicts	VPRT
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	law	NN
+gap	. 	
+word	Again	RB TIME CAP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	start	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 20 	
+word	th	X
+gap	 	
+word	century	NN
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	Albert	CAP NNP
+gap	 	
+word	Einstein	CAP NNP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	formulating	GER PGAS
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	general	JJ
+gap	 	
+word	theory	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	relativity	NOMZ
+gap	, 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	equations	NOMZ
+gap	 	
+word	lead	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	universe	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	expanding	PGAS
+gap	 	
+word	or	CCONJ
+gap	 	
+word	collapsing	GER PGAS
+gap	. 	
+word	Einstein	CAP NNP
+gap	 	
+word	ignored	VBD
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	and	CCONJ
+gap	 	
+word	attempted	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	solve	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	paradox	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cosmological	JJ
+gap	 	
+word	constant	NN
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	antigravity	NOMZ
+gap	 	
+word	force	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	stopped	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	collapsing	GER WZPRES PGAS
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	gravity	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	cosmological	JJ
+gap	 	
+word	constant	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	later	RB TIME
+gap	 	
+word	become	INF
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Einstein	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	biggest	JJ SPADJ
+gap	 	
+word	blunder	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	New	CAP NNP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	time	NN
+gap	, 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	telescopes	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	made	
+gap	, 	
+word	between	PIN PREP
+gap	 1912 	
+word	and	CCONJ
+gap	 1922; 	
+word	Vesto	CAP NNP
+gap	 	
+word	Slipher	CAP NNP
+gap	 	
+word	took	VBD
+gap	 	
+word	measurements	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	spectra	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	large	JJ
+gap	 	
+word	abundance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	faint	JJ
+gap	 	
+word	objects	PUBV NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	later	RB TIME
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	found	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	galaxies	NN
+gap	. 	
+word	Also	RB CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	observed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	spectra	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	slightly	DWNT RB
+gap	 	
+word	red	JJ
+gap	-	
+word	shifted	
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 1922 	
+word	Russian	CAP NNP
+gap	 	
+word	Physicist	CAP NNP
+gap	, 	
+word	Alexander	CAP NNP
+gap	 	
+word	Friedmann	CAP NNP
+gap	 	
+word	made	VBD
+gap	 	
+word	two	NUM
+gap	 	
+word	simple	JJ
+gap	 	
+word	assumptions	NOMZ
+gap	; 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	looked	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	directions	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	looked	VBD
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	point	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	assumptions	NOMZ
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	strictly	RB
+gap	 	
+word	true	JJ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	does	VPRT EMPH
+gap	 	
+word	look	INF
+gap	 	
+word	more	RB EMPH HDG CMADJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	directions	NOMZ
+gap	. 	
+word	From	PIN CAP PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	two	NUM
+gap	 	
+word	statements	NOMZ
+gap	 	
+word	alone	RB
+gap	 	
+word	Friedmann	CAP NNP
+gap	 	
+word	showed	VBD PRIV
+gap	 	
+word	that	THVC DET
+gap	 	
+word	universe	NN
+gap	 	
+word	should	NEMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	static	JJ PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	predicted	VBD PUBV
+gap	 	
+word	what	WHCL WH
+gap	 	
+word	Hubble	CAP NNP
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	years	NN
+gap	 	
+word	earlier	RB TIME CMADJ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 1924 	
+word	Edwin	CAP NNP
+gap	 	
+word	Hubble	CAP NNP
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	American	JJ CAP
+gap	 	
+word	astronomer	NN
+gap	, 	
+word	opened	VBD
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	eyes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	showed	VBD PRIV
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	galaxy	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	alone	JJ
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	years	NN
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	Hubble	CAP NNP
+gap	 	
+word	took	VBD
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	measurements	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	galaxies	NN
+gap	, 	
+word	measuring	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	shift	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	spectra	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	galaxies	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Doppler	CAP NNP
+gap	 	
+word	Effect	CAP NNP
+gap	; 	
+word	For	PIN CAP PREP
+gap	 	
+word	objects	PUBV NN THATD
+gap	 	
+word	that	TSUB THVC WHSUB WHCL WH
+gap	 	
+word	emit	VPRT
+gap	 	
+word	waves	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	case	NN
+gap	 	
+word	light	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	stars	NN
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	frame	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	movement	NOMZ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	receives	VPRT
+gap	 	
+word	light	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	frequency	NN
+gap	, 	
+word	depending	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	way	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	moves	VPRT SUAV
+gap	 (	
+word	See	PRIV CAP INF
+gap	 	
+word	Figure	NN CAP
+gap	 1). 	
+word	Figure	NN CAP
+gap	 1 , 	
+word	The	ART CAP DET
+gap	 	
+word	Doppler	CAP NNP
+gap	 	
+word	Effect	CAP NNP
+gap	. '	
+word	Successive	JJ CAP
+gap	 	
+word	wave	NN
+gap	 	
+word	fronts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	moving	SUAV PGAS
+gap	 	
+word	source	NN
+gap	 	
+word	S	NN CAP
+gap	 (	
+word	successive	JJ
+gap	 	
+word	positions	NOMZ
+gap	 	
+word	marked	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	dots	NN
+gap	) 	
+word	occur	VPRT
+gap	 	
+word	closer	RB CMADJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	observer	NN
+gap	 	
+word	ahead	RB PLACE
+gap	, 	
+word	decreasing	GER PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	distance	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	wave	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	travel	INF
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	observer	NN
+gap	 	
+word	sees	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	wave	NN
+gap	 	
+word	fronts	NN
+gap	 	
+word	closer	RB CMADJ
+gap	 	
+word	together	RB
+gap	 	
+word	relative	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	observer	NN
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	source	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	sees	VPRT PRIV THATD
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	moving	SUAV PGAS
+gap	 	
+word	away	RB PLACE
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	wavelengths	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	seen	PRIV
+gap	 	
+word	shortened	
+gap	 	
+word	ahead	RB PLACE
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	moving	SUAV PGAS
+gap	 	
+word	source	NN
+gap	 (	
+word	blue	NNP
+gap	 	
+word	shifted	VBD
+gap	) 	
+word	and	ANDC CCONJ
+gap	 	
+word	seen	PRIV
+gap	 	
+word	lengthened	
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	source	NN
+gap	 (	
+word	red	NNP
+gap	 	
+word	shifted	VBD
+gap	).' '	
+word	The	ART CAP DET
+gap	 	
+word	Doppler	CAP NNP
+gap	 	
+word	Effect	CAP NNP
+gap	' 	
+word	Using	PRESP CAP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	spectra	JJ
+gap	-	
+word	shift	JJ
+gap	 	
+word	data	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	galaxies	NN
+gap	, 	
+word	Hubble	CAP NNP
+gap	 	
+word	calculated	VBD PRIV
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	speeds	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	galaxies	NN
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	receding	PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	. 	
+word	Hubble	CAP NNP
+gap	 	
+word	plotted	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	recessional	JJ
+gap	 	
+word	speed	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	galaxies	NN
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	distance	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	direct	JJ
+gap	 	
+word	linear	JJ
+gap	 	
+word	relationship	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	now	RB TIME
+gap	 	
+word	know	VPRT PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Hubble	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	Law	NN CAP
+gap	, 	
+word	expressed	PASTP
+gap	 	
+word	by	PIN STPR PREP
+gap	; 	
+word	where	RB SCONJ WH
+gap	 	
+word	H	NN CAP
+gap	 0 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Hubble	CAP NNP
+gap	 	
+word	constant	NN
+gap	, 	
+word	v	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	recessional	JJ
+gap	 	
+word	speed	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	galaxy	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	r	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	-	
+word	galaxy	NN
+gap	 	
+word	distance	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	may	POMD
+gap	 	
+word	seem	SMP INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	suggest	PUBV SUAV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Earth	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	centre	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	Friedmann	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	assumptions	NOMZ
+gap	 	
+word	suggest	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	galaxies	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	moving	SUAV PGAS
+gap	 	
+word	apart	RB
+gap	, 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	real	JJ
+gap	 	
+word	evidence	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	more	JJ PRED EMPH CMADJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	grounds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	modesty	NN
+gap	. 	
+word	Hubble	CAP NNP
+gap	 	
+word	concluded	VBD PRIV
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	galaxies	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	moving	SUAV PGAS
+gap	 	
+word	apart	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	expanding	PGAS
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	proposed	SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	expanding	PGAS
+gap	, 	
+word	then	RB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	smaller	JJ PRED CMADJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	previous	JJ
+gap	 	
+word	point	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	presented	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Big	CAP NNP
+gap	 	
+word	Bang	CAP NNP
+gap	 	
+word	theory	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	Big	CAP NNP
+gap	 	
+word	Bang	CAP NNP
+gap	 	
+word	model	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	must	NEMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	massive	JJ
+gap	 	
+word	emission	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	energy	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	expanded	VBD
+gap	 	
+word	and	CCONJ
+gap	 	
+word	surely	RB
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	energy	NN
+gap	 	
+word	must	NEMD SPAU
+gap	 	
+word	still	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	present	JJ PRED
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 1963 	
+word	two	NUM
+gap	 	
+word	American	JJ CAP
+gap	 	
+word	physicists	NN
+gap	 	
+word	working	WZPRES PGAS
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	Bell	CAP NNP
+gap	 	
+word	Telephone	CAP NNP
+gap	 	
+word	Laboratories	CAP NNP
+gap	, 	
+word	accidentally	RB
+gap	 	
+word	came	VBD
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	relic	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	'	
+word	s	
+gap	 	
+word	early	JJ TIME
+gap	 	
+word	beginnings	GER
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	microwave	NN
+gap	 	
+word	noise	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	instruments	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	constant	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	directions	NOMZ
+gap	, 	
+word	day	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	night	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	times	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	year	NN
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	meant	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	radiation	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	constant	JJ PRED
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	positions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solar	JJ
+gap	 	
+word	system	NN
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	concluded	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	noise	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	coming	PGAS
+gap	 	
+word	outside	PIN PLACE PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	galaxy	NN
+gap	. 	
+word	Their	TPP3 CAP PRP SBJP
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	seemed	VBD SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	correct	JJ PRED
+gap	, 	
+word	the	ART DET
+gap	 	
+word	temperature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	radiation	NOMZ
+gap	 	
+word	accurately	RB
+gap	 	
+word	corresponded	VBD
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	one	NN
+gap	 	
+word	predicted	PUBV WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Big	CAP NNP
+gap	 	
+word	Bang	CAP NNP
+gap	 	
+word	model	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	current	JJ
+gap	 	
+word	rate	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	expansion	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	temperature	NN
+gap	 	
+word	of	PIN PREP
+gap	 2.7	
+word	K	CAP NNP
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	radiation	NOMZ
+gap	 	
+word	had	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	constant	JJ
+gap	 	
+word	temperature	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	present	INF
+gap	 	
+word	problems	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	clustering	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	matter	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	small	JJ
+gap	 	
+word	fluctuations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	radiation	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	radiation	NOMZ
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	named	
+gap	 	
+word	cosmic	JJ
+gap	 	
+word	microwave	NN
+gap	 	
+word	background	NN
+gap	 	
+word	radiation	NOMZ
+gap	, 	
+word	CMBR	CAP NNP
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	satellite	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	launched	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 1989 	
+word	to	PIN TO PREP
+gap	 	
+word	collect	INF
+gap	 	
+word	data	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	CMBR	NN CAP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	analysis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	data	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1992 	
+word	showed	VBD PRIV THATD
+gap	 	
+word	there	EX
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	small	JJ
+gap	 	
+word	variations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	temperature	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	variations	NOMZ
+gap	 	
+word	correspond	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	clustering	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	matter	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	. 	
+word	Summary	CAP NNP
+gap	 	
+word	After	PIN CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	series	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	paradoxical	JJ
+gap	 	
+word	arguments	NOMZ
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginnings	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	science	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Expanding	CAP PGAS
+gap	 	
+word	Universe	CAP NNP
+gap	 	
+word	Theory	CAP NNP
+gap	 	
+word	does	VPRT EMPH
+gap	 	
+word	seem	SMP INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS BYPA SPAU AUXB INF
+gap	 	
+word	well	RB
+gap	 	
+word	supported	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	evidence	NN
+gap	 	
+word	produced	WZPAST
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 1920'	
+word	s	
+gap	. 	
+word	Most	RB EMPH CAP SPADJ
+gap	 	
+word	important	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	evidence	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	Hubble	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	law	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	correspondence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	CMBR	CAP NNP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Big	CAP NNP
+gap	 	
+word	Bang	CAP NNP
+gap	 	
+word	model	NN
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	note	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	trying	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	predict	PUBV THATD INF
+gap	 	
+word	ideas	NN
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	massive	JJ
+gap	 	
+word	extrapolations	NOMZ
+gap	; 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	base	INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	universe	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	visible	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	small	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	scale	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	judge	PRIV INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	only	
+gap	 	
+word	been	
+gap	 	
+word	observing	
+gap	 	
+word	the	
+gap	 	
+word	stars	
+gap	 	
+word	for	
+gap	 	
+word	around	
+gap	 	
+word	four	
+gap	 	
+word	millennia	
+gap	, 	
+word	the	
+gap	 	
+word	universe	
+gap	 	
+word	is	
+gap	 	
+word	estimated	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	around	
+gap	 	
+word	for	
+gap	 15 	
+word	million	
+gap	 	
+word	millennia	
+gap	!	

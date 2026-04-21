@@ -1,790 +1,1377 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2083.1179.txt
-token	tags
-    	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-well	RB
-known	PRIV
-the	ART DET
-benefits	NN
-of	PIN PREP
-learning	PRIV PGAS
-a	ART DET INDA
-new	JJ
-language	NN
-,	
-however	RB CONJ
-,	
-many	QUAN JJ
-people	NN
-do	VPRT PROD SPAU
-not	XX0 RB
-even	RB
-try	INF
-and	CCONJ
-,	
-sometimes	RB
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-many	QUAN JJ
-books	NN
-they	TPP3 PRP SBJP
-think	VPRT PRIV THATD
-they	TPP3 PRP SBJP
-will	PRMD
-have	INF
-to	PIN TO PREP
-read	INF
-,	
-or	CCONJ
-the	ART DET
-many	QUAN JJ
-“	
-boring	PGAS
-”	
-exercises	NN
-they	TPP3 PRP SBJP
-will	PRMD
-have	INF
-to	PIN TO PREP
-do	PROD INF
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-learn	PRIV THATD INF
-it	PIT PRP SBJP
-.	
-Well	DPAR CAP UH
-,	
-things	NN
-do	VPRT SPAU
-not	XX0 RB
-need	INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-that	DEMO DET
-way	NN
-exactly	RB
-,	
-of	PIN PREP
-course	NN
-,	
-learn	PRIV INF
-about	PIN PREP
-the	ART DET
-grammar	NN
-is	BEMA VPRT AUXB
-always	RB
-good	JJ
-and	ANDC CCONJ
-as	RB CONJ
-important	JJ
-as	PIN CONJ PREP
-the	ART DET
-vocabulary	NN
-,	
-but	CCONJ
-,	
-for	PIN PREP
-the	ART DET
-beginning	NN
-,	
-learning	PRIV PRESP THATD PGAS
-a	ART DET INDA
-new	JJ
-language	NN
-can	POMD
-be	BEMA AUXB INF
-fun	JJ PRED
-,	
-and	ANDC CCONJ
-sometimes	RB
-,	
-you	SPP2 PRP SBJP
-can	POMD
-do	PROD INF
-it	PIT PRP SBJP
-without	PIN PREP
-even	RB
-realize	PRIV INF
-.	
-Based	PASTP CAP
-on	PIN PREP
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-research	NN
-and	CCONJ
-a	ART DET INDA
-personal	JJ
-experience	NN
-(	
-since	OSUB PIN SCONJ PREP
-I	FPP1 CAP PRP SBJP
-have	VPRT PEAS SPAU
-never	RB
-taken	
-an	ART DET INDA
-English	JJ CAP
-class	NN
-besides	PIN SCONJ PREP
-high	JJ
-school	NN
-)	
-,	
-I	FPP1 CAP PRP SBJP
-will	PRMD
-talk	INF
-a	ART DET INDA
-little	JJ
-about	PIN PREP
-the	ART DET
-idea	NN
-of	PIN STPR PREP
-“	
-build	INF
-a	ART DET INDA
-new	JJ
-vocabulary	NN
-on	PIN PREP
-a	ART DET INDA
-new	JJ
-language	NN
-”	
-outside	PIN PLACE PREP
-the	ART DET
-books	NN
-.	
- 	
-Music	CAP NNP
-.	
-Music	NN CAP
-is	VPRT AUXB
-something	QUPR INPR
-that	DEMO WH
-most	JJ EMPH SPADJ
-of	PIN PREP
-the	ART DET
-people	NN
-have	VPRT
-accesses	VPRT
-to	PIN TO PREP
-and	CCONJ
-the	ART DET
-benefits	NN
-of	PIN PREP
-it	PIT PRP SBJP
-in	PIN CONJ PREP
-a	ART DET INDA
-process	NN
-of	PIN PREP
-learning	PRIV PGAS
-are	BEMA VPRT AUXB
-beyond	PIN PREP
-pleasure	NN
-alone	RB
-.	
-Research	NN CAP
-points	VPRT
-out	PIN PREP
-that	DEMO DET
-music	NN
-has	VPRT
-the	ART DET
-capacity	NOMZ
-of	PIN PREP
-reach	INF
-the	ART DET
-body	NN
-directly	RB
-on	PIN PREP
-the	ART DET
-cells	NN
-and	PHC CCONJ
-organs	NN
-and	CCONJ
-indirectly	RB
-acting	PGAS
-on	PIN PREP
-the	ART DET
-emotions	NOMZ
-,	
-with	PIN PREP
-have	INF
-a	ART DET INDA
-huge	JJ
-influence	NN
-in	PIN CONJ PREP
-learning	PRIV PGAS
-.	
-Through	PIN CAP PREP
-music	NN
-you	SPP2 PRP SBJP
-practice	VPRT
-your	SPP2 PRP SBJP
-listening	NN
-and	PHC CCONJ
-understanding	GER PRIV
-,	
-once	PIN TIME SCONJ PREP
-you	SPP2 PRP SBJP
-have	VPRT
-different	JJ
-speeds	NN
-and	PHC CCONJ
-timings	NN
-,	
-you	SPP2 PRP SBJP
-also	RB
-practice	VPRT
-your	SPP2 PRP SBJP
-pronunciation	NOMZ
-,	
-because	CAUS PIN SCONJ PREP
-when	RB SCONJ WH
-you	SPP2 PRP SBJP
-listen	VPRT
-to	PIN PREP
-something	QUPR INPR
-repeated	PUBV
-times	NN
-your	SPP2 PRP SBJP
-brain	NN
-is	VPRT AUXB
-going	PGAS
-to	PIN TO STPR PREP
-“	
-save	INF
-”	
-that	PIN DEMP SCONJ PREP
-and	CCONJ
-,	
-unconsciously	RB
-,	
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-learning	PRIV PGAS
-to	PIN TO PREP
-speak	INF
-something	QUPR INPR
-new	JJ
-.	
-For	PIN CAP PREP
-the	ART DET
-same	JJ
-reason	PRIV NN
-comes	VPRT
-the	ART DET
-vocabulary	NN
-,	
-in	PIN CONJ PREP
-addition	NOMZ
-to	PIN PREP
-the	ART DET
-new	JJ
-worlds	NN
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-learn	PRIV INF
-by	PIN PREP
-music	NN
-,	
-you	SPP2 PRP SBJP
-can	POMD SPAU
-also	RB
-learn	PRIV INF
-some	QUAN DET
-“	
-slang	X
-”	
-,	
-with	PIN PREP
-is	BEMA VPRT AUXB
-definitely	RB
-new	JJ
-,	
-once	PIN TIME SCONJ PREP
-you	SPP2 PRP SBJP
-difficultly	RB
-is	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-find	PRIV THATD INF
-it	PIT PRP SBJP
-in	PIN CONJ PREP
-some	QUAN DET
-books	NN
-,	
-but	CCONJ
-you	SPP2 PRP SBJP
-definitely	RB
-is	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-listen	INF
-to	PIN PREP
-people	NN
-saying	WZPRES PUBV THATD PGAS
-it	PIT PRP SBJP
-.	
-Besides	PIN CAP SCONJ PREP
-all	QUAN DET
-that	DEMO WH
-the	ART DET
-memorization	NOMZ
-gets	VPRT
-a	EMPH ART DET INDA
-lot	NN
-easier	JJ CMADJ
-with	PIN PREP
-music	NN
-,	
-because	CAUS PIN STPR SCONJ PREP
-,	
-again	RB TIME
-,	
-everything	QUPR INPR
-happens	VPRT
-unconsciously	RB
-.	
-The	ART CAP DET
-influential	JJ
-power	NN
-that	DEMO WHOBJ WH
-music	NN
-has	VPRT
-is	BEMA VPRT AUXB
-enormous	JJ PRED
-and	CCONJ
-can	POMD
-be	BEMA AUXB INF
-extremely	AMP RB
-positive	JJ
-in	PIN CONJ PREP
-your	SPP2 PRP SBJP
-learning	PRIV NN
-.	
- 	
-Other	JJ CAP
-than	PIN PREP
-music	NN
-,	
-you	SPP2 PRP SBJP
-can	POMD SPAU
-also	RB
-learn	PRIV INF
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-a	ART DET INDA
-new	JJ
-language	NN
-with	PIN PREP
-movies	NN
-and	CCONJ
-Tv	CAP NNP
-shows	VPRT PRIV
-.	
-With	PIN CAP PREP
-a	ART DET INDA
-simple	JJ
-action	NOMZ
-as	PIN CONJ PREP
-watching	PGAS
-those	DEMO DET
-with	PIN PREP
-subtitles	NN
-instead	RB CONJ
-of	PIN PREP
-dubbed	
-you	SPP2 PRP SBJP
-can	POMD
-improve	INF
-your	SPP2 PRP SBJP
-learning	PRIV NN
-a	EMPH ART DET INDA
-lot	NN
-more	JJ EMPH CMADJ
-.	
-In	PIN CONJ CAP PREP
-movies	NN
-and	PHC CCONJ
-series	NN
-you	SPP2 PRP SBJP
-can	POMD
-find	PRIV INF
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-new	JJ
-expressions	NOMZ
-,	
-you	SPP2 PRP SBJP
-can	POMD
-train	INF
-your	SPP2 PRP SBJP
-ability	NOMZ
-of	PIN PREP
-understanding	GER PRIV PGAS
-a	ART DET INDA
-native	JJ
-talking	PGAS
-in	PIN CONJ PREP
-the	ART DET
-language	NN
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-studying	PGAS
-,	
-you	SPP2 PRP SBJP
-will	PRMD
-learn	PRIV INF
-a	ART DET INDA
-little	JJ
-about	PIN PREP
-a	ART DET INDA
-new	JJ
-culture	NN
-,	
-you	SPP2 PRP SBJP
-can	POMD
-“	
-travel	INF
-without	PIN PREP
-travelling	GER PGAS
-”	
-.	
-As	PIN CONJ CAP PREP
-all	QUAN DET
-the	ART DET
-things	NN
-in	PIN CONJ PREP
-this	DEMO DET
-essay	NN
-,	
-the	ART DET
-pleasure	NN
-with	PIN PREP
-which	PIRE DET WH
-you	SPP2 PRP SBJP
-learn	VPRT PRIV
-has	VPRT
-an	ART DET INDA
-immense	JJ
-influence	NN
-in	PIN CONJ PREP
-your	SPP2 PRP SBJP
-learning	PRIV NN
-since	OSUB PIN SCONJ PREP
-your	SPP2 PRP SBJP
-brain	NN
-can	POMD
-work	INF
-better	RB CMADJ
-when	RB SCONJ WH
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-learning	PRIV PGAS
-with	PIN PREP
-something	QUPR INPR
-you	SPP2 PRP SBJP
-really	RB EMPH
-like	VPRT
-.	
-And	ANDC CAP CCONJ
-,	
-like	PIN PREP
-that	DEMP DET
-,	
-you	SPP2 PRP SBJP
-can	POMD
-learn	PRIV INF
-without	PIN PREP
-knowing	PRIV PGAS
-.	
- 	
-In	PIN CONJ CAP PREP
-the	ART DET
-title	NN
-you	SPP2 PRP SBJP
-see	VPRT PRIV
-“	
-outside	PIN PLACE PREP
-the	ART DET
-books	NN
-”	
-,	
-but	CCONJ
-I	FPP1 CAP PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-let	INF
-this	DEMP DET
-pass	INF
-without	PIN PREP
-talking	PGAS
-a	ART DET INDA
-little	JJ
-about	PIN PREP
-the	ART DET
-books	NN
-.	
-But	CAP CCONJ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-the	ART DET
-books	NN
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-thinking	PRIV PGAS
-,	
-it	PIT PRP SBJP
-is	VPRT AUXB
-not	XX0 RB
-grammar	NN
-books	NN
-.	
-The	ART CAP DET
-benefits	NN
-of	PIN STPR PREP
-,	
-at	PIN PREP
-least	JJ SPADJ
-,	
-trying	PGAS
-to	PIN TO PREP
-read	INF
-a	ART DET INDA
-book	NN
-you	SPP2 PRP SBJP
-really	RB EMPH
-like	VPRT
-,	
-and	ANDC CCONJ
-you	SPP2 PRP SBJP
-have	VPRT PEAS SPAU
-already	RB
-read	
-it	PIT PRP SBJP
-in	PIN CONJ PREP
-your	SPP2 PRP SBJP
-native	JJ
-language	NN
-,	
-in	PIN CONJ PREP
-a	ART DET INDA
-new	JJ
-language	NN
-are	BEMA VPRT AUXB
-enormous	JJ
-as	RB CONJ
-well	RB
-.	
-You	SPP2 CAP PRP SBJP
-will	PRMD
-open	INF
-your	SPP2 PRP SBJP
-mind	NN
-for	PIN PREP
-something	QUPR INPR
-more	RB EMPH CMADJ
-challenging	JJ
-and	CCONJ
-,	
-with	PIN PREP
-this	DEMO DET
-your	SPP2 PRP SBJP
-brain	NN
-is	VPRT AUXB
-going	PGAS
-to	PIN TO STPR PREP
-“	
-save	INF
-”	
-the	ART DET
-things	NN
-better	RB CMADJ
-.	
-Reading	CAP PGAS
-something	QUPR INPR
-you	SPP2 PRP SBJP
-like	VPRT
-in	PIN CONJ PREP
-another	DET
-language	NN
-is	VPRT SPAU AUXB
-really	RB EMPH
-going	PGAS
-to	PIN TO PREP
-help	INF
-,	
-not	XX0 RB
-just	RB EMPH
-your	SPP2 PRP SBJP
-reading	NN
-skills	NN
-,	
-but	CCONJ
-your	SPP2 PRP SBJP
-ability	NOMZ
-in	PIN CONJ PREP
-understanding	GER PRIV THATD PGAS
-something	QUPR INPR
-wrote	VBD PUBV
-in	PIN CONJ PREP
-another	DET
-idiom	NN
-,	
-is	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-show	PRIV THATD INF
-you	SPP2 PRP SBJP
-how	RB SCONJ WH
-the	ART DET
-same	JJ
-thing	NN
-can	POMD
-be	PASS AUXB INF
-wrote	PUBV
-in	PIN CONJ PREP
-different	JJ
-ways	NN
-and	CCONJ
-improve	INF
-a	EMPH ART DET INDA
-lot	NN
-your	SPP2 PRP SBJP
-vocabulary	NN
-,	
-not	XX0 RB
-to	PIN TO PREP
-mention	PUBV INF
-how	RB WHCL SCONJ WH
-fun	NN
-it	PIT PRP SBJP
-can	POMD
-be	AUXB INF
-and	ANDC CCONJ
-how	RB SCONJ WH
-many	QUAN JJ
-“	
-new	JJ
-worlds	NN
-”	
-you	SPP2 PRP SBJP
-can	POMD
-find	PRIV INF
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-I	FPP1 CAP PRP SBJP
-could	POMD
-talk	INF
-a	EMPH ART DET INDA
-lot	NN
-more	JJ EMPH CMADJ
-about	PIN PREP
-the	ART DET
-good	JJ
-things	NN
-those	DEMO DET
-methods	NN
-can	POMD
-bring	INF
-to	PIN PREP
-us	FPP1 PRP SBJP ACCU
-,	
-but	CCONJ
-,	
-for	PIN PREP
-now	RB TIME
-,	
-you	SPP2 PRP SBJP
-could	POMD
-see	PRIV INF
-how	RB WHCL SCONJ WH
-beneficial	JJ
-and	CCONJ
-“	
-simple	JJ
-”	
-can	POMD
-be	BEMA AUXB INF
-to	PIN TO PREP
-start	INF
-learning	PRIV PGAS
-a	ART DET INDA
-new	JJ
-language	NN
-.	
-With	PIN CAP PREP
-a	ART DET INDA
-little	JJ
-willpower	NN
-and	CCONJ
-some	QUAN DET
-small	JJ
-and	PHC CCONJ
-pleasurable	JJ
-actions	NOMZ
-you	SPP2 PRP SBJP
-will	PRMD
-start	INF
-learning	PRIV PGAS
-without	PIN PREP
-even	RB
-notice	PRIV NN
-,	
-and	ANDC CCONJ
-that	DEMP DET
-can	POMD
-lead	INF
-you	SPP2 PRP SBJP
-more	RB EMPH CMADJ
-easily	RB
-to	PIN PREP
-a	EMPH ART DET INDA
-lot	NN
-more	JJ EMPH CMADJ
-of	PIN PREP
-good	JJ
-things	NN
-.	
-It	PIT CAP PRP SBJP
-can	POMD
-be	BEMA AUXB INF
-very	AMP RB
-fun	JJ
-learning	PRIV PGAS
-a	ART DET INDA
-new	JJ
-language	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-not	XX0 RB
-need	VPRT
-to	PIN TO PREP
-be	AUXB INF
-sitting	PGAS
-on	PIN PREP
-a	ART DET INDA
-chair	NN
-and	CCONJ
-going	PGAS
-through	PIN PREP
-all	QUAN DET
-the	ART DET
-difficult	JJ
-books	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2083.1179>\n\n<Learning a new language outside the books>\n\n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	well	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	people	NN
+gap	 	
+word	do	VPRT PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	even	RB
+gap	 	
+word	try	INF
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	sometimes	RB
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	books	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	think	VPRT PRIV THATD
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	read	INF
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	many	QUAN JJ
+gap	 “	
+word	boring	PGAS
+gap	” 	
+word	exercises	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	Well	DPAR CAP UH
+gap	, 	
+word	things	NN
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	need	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	way	NN
+gap	 	
+word	exactly	RB
+gap	, 	
+word	of	PIN PREP
+gap	 	
+word	course	NN
+gap	, 	
+word	learn	PRIV INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	grammar	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	always	RB
+gap	 	
+word	good	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	important	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	vocabulary	NN
+gap	, 	
+word	but	CCONJ
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	, 	
+word	learning	PRIV PRESP THATD PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	fun	JJ PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	sometimes	RB
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	do	PROD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	even	RB
+gap	 	
+word	realize	PRIV INF
+gap	. 	
+word	Based	PASTP CAP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	research	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	personal	JJ
+gap	 	
+word	experience	NN
+gap	 (	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	have	VPRT PEAS SPAU
+gap	 	
+word	never	RB
+gap	 	
+word	taken	
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	English	JJ CAP
+gap	 	
+word	class	NN
+gap	 	
+word	besides	PIN SCONJ PREP
+gap	 	
+word	high	JJ
+gap	 	
+word	school	NN
+gap	), 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	talk	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	little	JJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	 “	
+word	build	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	vocabulary	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	” 	
+word	outside	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	books	NN
+gap	. \n	
+word	Music	CAP NNP
+gap	. 	
+word	Music	NN CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	that	DEMO WH
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	accesses	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	beyond	PIN PREP
+gap	 	
+word	pleasure	NN
+gap	 	
+word	alone	RB
+gap	. 	
+word	Research	NN CAP
+gap	 	
+word	points	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	music	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reach	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	body	NN
+gap	 	
+word	directly	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cells	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	organs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	indirectly	RB
+gap	 	
+word	acting	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	emotions	NOMZ
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	huge	JJ
+gap	 	
+word	influence	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	. 	
+word	Through	PIN CAP PREP
+gap	 	
+word	music	NN
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	practice	VPRT
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	listening	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	understanding	GER PRIV
+gap	, 	
+word	once	PIN TIME SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	different	JJ
+gap	 	
+word	speeds	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	timings	NN
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	practice	VPRT
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	pronunciation	NOMZ
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	listen	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	repeated	PUBV
+gap	 	
+word	times	NN
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	brain	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO STPR PREP
+gap	 “	
+word	save	INF
+gap	” 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	unconsciously	RB
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	new	JJ
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	comes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	vocabulary	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	addition	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	worlds	NN
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	music	NN
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	some	QUAN DET
+gap	 “	
+word	slang	X
+gap	”, 	
+word	with	PIN PREP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	definitely	RB
+gap	 	
+word	new	JJ
+gap	, 	
+word	once	PIN TIME SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	difficultly	RB
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	find	PRIV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	books	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	definitely	RB
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	listen	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	saying	WZPRES PUBV THATD PGAS
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	that	DEMO WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	memorization	NOMZ
+gap	 	
+word	gets	VPRT
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	music	NN
+gap	, 	
+word	because	CAUS PIN STPR SCONJ PREP
+gap	, 	
+word	again	RB TIME
+gap	, 	
+word	everything	QUPR INPR
+gap	 	
+word	happens	VPRT
+gap	 	
+word	unconsciously	RB
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	influential	JJ
+gap	 	
+word	power	NN
+gap	 	
+word	that	DEMO WHOBJ WH
+gap	 	
+word	music	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	enormous	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	positive	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	learning	PRIV NN
+gap	. \n	
+word	Other	JJ CAP
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	music	NN
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	language	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	movies	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Tv	CAP NNP
+gap	 	
+word	shows	VPRT PRIV
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	simple	JJ
+gap	 	
+word	action	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	watching	PGAS
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	subtitles	NN
+gap	 	
+word	instead	RB CONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	dubbed	
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	improve	INF
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	movies	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	series	NN
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	expressions	NOMZ
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	train	INF
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	understanding	GER PRIV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	native	JJ
+gap	 	
+word	talking	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	language	NN
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	studying	PGAS
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	little	JJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	culture	NN
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 “	
+word	travel	INF
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	travelling	GER PGAS
+gap	”. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	things	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	pleasure	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	learn	VPRT PRIV
+gap	 	
+word	has	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	immense	JJ
+gap	 	
+word	influence	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	brain	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	work	INF
+gap	 	
+word	better	RB CMADJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	like	VPRT
+gap	. 	
+word	And	ANDC CAP CCONJ
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	knowing	PRIV PGAS
+gap	. \n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	title	NN
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	see	VPRT PRIV
+gap	 “	
+word	outside	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	books	NN
+gap	”, 	
+word	but	CCONJ
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	let	
+gap	 	
+word	this	
+gap	 	
+word	pass	
+gap	 	
+word	without	
+gap	 	
+word	talking	
+gap	 	
+word	a	
+gap	 	
+word	little	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	books	
+gap	. 	
+word	But	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	the	
+gap	 	
+word	books	
+gap	 	
+word	you	
+gap	 	
+word	are	
+gap	 	
+word	thinking	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	grammar	
+gap	 	
+word	books	
+gap	. 	
+word	The	
+gap	 	
+word	benefits	
+gap	 	
+word	of	
+gap	, 	
+word	at	
+gap	 	
+word	least	
+gap	, 	
+word	trying	
+gap	 	
+word	to	
+gap	 	
+word	read	
+gap	 	
+word	a	
+gap	 	
+word	book	
+gap	 	
+word	you	
+gap	 	
+word	really	
+gap	 	
+word	like	
+gap	, 	
+word	and	
+gap	 	
+word	you	
+gap	 	
+word	have	
+gap	 	
+word	already	
+gap	 	
+word	read	
+gap	 	
+word	it	
+gap	 	
+word	in	
+gap	 	
+word	your	
+gap	 	
+word	native	
+gap	 	
+word	language	
+gap	, 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	language	
+gap	 	
+word	are	
+gap	 	
+word	enormous	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	. 	
+word	You	
+gap	 	
+word	will	
+gap	 	
+word	open	
+gap	 	
+word	your	
+gap	 	
+word	mind	
+gap	 	
+word	for	
+gap	 	
+word	something	
+gap	 	
+word	more	
+gap	 	
+word	challenging	
+gap	 	
+word	and	
+gap	, 	
+word	with	
+gap	 	
+word	this	
+gap	 	
+word	your	
+gap	 	
+word	brain	
+gap	 	
+word	is	
+gap	 	
+word	going	
+gap	 	
+word	to	
+gap	 “	
+word	save	
+gap	” 	
+word	the	
+gap	 	
+word	things	
+gap	 	
+word	better	
+gap	. 	
+word	Reading	
+gap	 	
+word	something	
+gap	 	
+word	you	
+gap	 	
+word	like	
+gap	 	
+word	in	
+gap	 	
+word	another	
+gap	 	
+word	language	
+gap	 	
+word	is	
+gap	 	
+word	really	
+gap	 	
+word	going	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	, 	
+word	not	
+gap	 	
+word	just	
+gap	 	
+word	your	
+gap	 	
+word	reading	
+gap	 	
+word	skills	
+gap	, 	
+word	but	
+gap	 	
+word	your	
+gap	 	
+word	ability	
+gap	 	
+word	in	
+gap	 	
+word	understanding	
+gap	 	
+word	something	
+gap	 	
+word	wrote	
+gap	 	
+word	in	
+gap	 	
+word	another	
+gap	 	
+word	idiom	
+gap	, 	
+word	is	
+gap	 	
+word	going	
+gap	 	
+word	to	
+gap	 	
+word	show	
+gap	 	
+word	you	
+gap	 	
+word	how	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	thing	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	wrote	
+gap	 	
+word	in	
+gap	 	
+word	different	
+gap	 	
+word	ways	
+gap	 	
+word	and	
+gap	 	
+word	improve	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	your	
+gap	 	
+word	vocabulary	
+gap	, 	
+word	not	
+gap	 	
+word	to	
+gap	 	
+word	mention	
+gap	 	
+word	how	
+gap	 	
+word	fun	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	and	
+gap	 	
+word	how	
+gap	 	
+word	many	
+gap	 “	
+word	new	
+gap	 	
+word	worlds	
+gap	” 	
+word	you	
+gap	 	
+word	can	
+gap	 	
+word	find	
+gap	. \n	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	I	
+gap	 	
+word	could	
+gap	 	
+word	talk	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	more	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	good	
+gap	 	
+word	things	
+gap	 	
+word	those	
+gap	 	
+word	methods	
+gap	 	
+word	can	
+gap	 	
+word	bring	
+gap	 	
+word	to	
+gap	 	
+word	us	
+gap	, 	
+word	but	
+gap	, 	
+word	for	
+gap	 	
+word	now	
+gap	, 	
+word	you	
+gap	 	
+word	could	
+gap	 	
+word	see	
+gap	 	
+word	how	
+gap	 	
+word	beneficial	
+gap	 	
+word	and	
+gap	 “	
+word	simple	
+gap	” 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	to	
+gap	 	
+word	start	
+gap	 	
+word	learning	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	language	
+gap	. 	
+word	With	
+gap	 	
+word	a	
+gap	 	
+word	little	
+gap	 	
+word	willpower	
+gap	 	
+word	and	
+gap	 	
+word	some	
+gap	 	
+word	small	
+gap	 	
+word	and	
+gap	 	
+word	pleasurable	
+gap	 	
+word	actions	
+gap	 	
+word	you	
+gap	 	
+word	will	
+gap	 	
+word	start	
+gap	 	
+word	learning	
+gap	 	
+word	without	
+gap	 	
+word	even	
+gap	 	
+word	notice	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	lead	
+gap	 	
+word	you	
+gap	 	
+word	more	
+gap	 	
+word	easily	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	more	
+gap	 	
+word	of	
+gap	 	
+word	good	
+gap	 	
+word	things	
+gap	. 	
+word	It	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	very	
+gap	 	
+word	fun	
+gap	 	
+word	learning	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	language	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	not	
+gap	 	
+word	need	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	sitting	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	chair	
+gap	 	
+word	and	
+gap	 	
+word	going	
+gap	 	
+word	through	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	difficult	
+gap	 	
+word	books	
+gap	.	

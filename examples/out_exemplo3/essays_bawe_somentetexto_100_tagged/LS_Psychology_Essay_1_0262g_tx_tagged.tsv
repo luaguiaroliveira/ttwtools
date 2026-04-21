@@ -1,1566 +1,2560 @@
 # filename: LS_Psychology_Essay_1_0262g_tx.txt
-token	tags
-Antisocial	JJ CAP
-personality	NOMZ
-disorder	NN
-is	PASS VPRT SPAU AUXB
-also	RB
-known	PRIV
-as	PIN CONJ PREP
-psychopathy	JJ
-,	
-sociopathy	JJ
-or	CCONJ
-dissocial	JJ
-personality	NOMZ
-disorder	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-'	CONT QUOT
-Diagnostic	JJ CAP
-and	CCONJ
-Statistical	CAP NNP
-Manual	CAP NNP
-of	PIN PREP
-Mental	CAP NNP
-Disorders	CAP NNP
-'	CONT QUOT
-or	CCONJ
-'	CONT QUOT
-DSM	CAP NNP
--	
-IV	CAP NNP
-'	CONT QUOT
-,	
-it	PIT PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-grouped	
-in	PIN CONJ PREP
-cluster	NN
-B	CAP NNP
-of	PIN PREP
-axis	JJ
-II	CAP NNP
-.	
-The	ART CAP DET
-manual	NN
-defines	VPRT
-individuals	NN
-with	PIN PREP
-this	DEMO DET
-disorder	NN
-as	PIN CONJ PREP
-having	PGAS
-a	ART DET INDA
-tendency	NN
-to	PIN TO SPIN PREP
-repeatedly	RB
-break	INF
-the	ART DET
-law	NN
-without	PIN PREP
-regarding	PGAS
-the	ART DET
-feelings	NN
-and	PHC CCONJ
-rights	NN
-of	PIN PREP
-people	NN
-who	WHSUB WH
-may	POMD
-become	INF
-victims	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-crimes	NN
-.	
-DSM	CAP NNP
--	
-IV	CAP NNP
-includes	VPRT
-evidence	NN
-of	PIN PREP
-impulsiveness	NOMZ
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-description	NOMZ
-,	
-and	ANDC CCONJ
-signs	NN
-of	PIN PREP
-aggressiveness	NOMZ
-and	PHC CCONJ
-lack	NN
-of	PIN PREP
-empathy	NN
-.	
-The	ART CAP DET
-manual	NN
-also	RB
-defines	VPRT
-someone	QUPR INPR
-with	PIN PREP
-this	DEMO DET
-disorder	NN
-as	PIN CONJ PREP
-being	BEMA AUXB
-at	RB PIN PREP
-least	RB SPADJ
-eighteen	NUM
-years	NN
-old	JJ
-and	CCONJ
-having	PGAS
-a	ART DET INDA
-history	NN
-of	PIN PREP
-conduct	NN
-disorder	NN
-earlier	RB TIME CMADJ
-in	PIN CONJ PREP
-life	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-criminal	JJ
-behaviour	NN
-,	
-many	QUAN JJ
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-end	VPRT
-up	PIN PREP
-in	PIN CONJ PREP
-prison	NN
-and	ANDC CCONJ
-there	EX
-are	VPRT AUXB
-many	QUAN JJ
-questions	NOMZ
-about	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-criminal	JJ
-justice	NN
-system	NN
-could	POMD SPAU
-better	RB CMADJ
-understand	PRIV INF
-these	DEMO DET
-individuals	NN
-and	CCONJ
-deal	INF
-with	PIN PREP
-them	TPP3 PRP SBJP ACCU
-in	PIN CONJ PREP
-an	ART DET INDA
-appropriate	JJ
-way	NN
-,	
-encouraging	GER PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-not	XX0 RB
-to	PIN TO PREP
-re	PIN INF PREP
--	INF
-offend	INF
-.	
-Some	QUAN CAP DET
-of	PIN PREP
-these	DEMO DET
-questions	NOMZ
-may	POMD
-be	PASS BYPA AUXB INF
-answered	
-by	PIN PREP
-considering	GER PRIV PGAS
-the	ART DET
-bio	JJ
--	JJ
-behavioural	JJ
-approach	NN
-to	PIN PREP
-this	DEMO DET
-disorder	NN
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-work	INF
-with	PIN PREP
-people	NN
-with	PIN PREP
-this	DEMO DET
-disorder	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-try	INF
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-way	NN
-they	TPP3 PRP SBJP
-think	VPRT PRIV
-such	JJ
-as	PIN CONJ PREP
-their	TPP3 PRP SBJP
-capacity	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-emotion	NOMZ
-and	ANDC CCONJ
-how	RB SCONJ WH
-this	DEMO DET
-effects	NN
-responsibility	NOMZ
-for	PIN PREP
-their	TPP3 PRP SBJP
-acts	NN
-(	
-Ciocchetti	CAP NNP
-,	
-2003	NUM
-)	
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-also	RB
-important	JJ
-to	PIN TO PREP
-consider	PRIV INF
-the	ART DET
-findings	NN
-of	PIN PREP
-behavioural	JJ
-studies	NN
-on	PIN PREP
-passive	JJ
--	
-avoidance	NN
-learning	PRIV NN
-of	PIN PREP
-psychopaths	NN
-(	
-Thornquist	CAP NNP
-&	CCONJ
-Zuckerman	CAP NNP
-,	
-1995	NUM
-and	CCONJ
-Newman	CAP NNP
-,	
-Patterson	CAP NNP
-,	
-Howland	CAP NNP
-&	CCONJ
-Nichols	CAP NNP
-,	
-1990	NUM
-)	
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-research	NN
-on	PIN STPR PREP
-'	CONT QUOT
-delay	NN
-of	PIN PREP
-gratification	NOMZ
-'	CONT QUOT
-,	
-(	
-Newman	CAP NNP
-,	
-Patterson	CAP NNP
-&	CCONJ
-Kosson	CAP NNP
-,	
-1992	NUM
-)	
-and	ANDC CCONJ
-'	CONT QUOT
-the	ART DET
-response	NN
-modulation	NOMZ
-hypothesis	NN
-'	CONT QUOT
-,	
-(	
-Newman	CAP NNP
-,	
-Schmitt	CAP NNP
-&	CCONJ
-Voss	CAP NNP
-,	
-1997	NUM
-)	
-.	
-Biological	JJ CAP
-accounts	NN
-can	POMD SPAU
-also	RB
-give	INF
-insight	NN
-into	PIN PREP
-the	ART DET
-problem	NN
-,	
-including	PGAS
-accounts	NN
-of	PIN PREP
-neuropsychology	NN
-(	
-Smith	CAP NNP
-,	
-Arnett	CAP NNP
-&	CCONJ
-Newman	CAP NNP
-,	
-1992	NUM
-)	
-,	
-and	ANDC CCONJ
-studies	NN
-of	PIN PREP
-genetic	JJ
-influences	NN
-using	WZPRES PGAS
-twins	NN
-(	
-Carey	CAP NNP
-,	
-1992	NUM
-)	
-.	
-Finally	RB CAP
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-help	INF
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-,	
-different	JJ
-types	NN
-of	PIN PREP
-therapy	NN
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-addressed	
-and	CCONJ
-the	ART DET
-effectiveness	NOMZ
-of	PIN PREP
-these	DEMO DET
-therapies	NN
-considered	PRIV
-.	
-In	PIN CONJ CAP PREP
-his	TPP3 PRP SBJP
-article	NN
-'	CONT QUOT
-The	ART CAP DET
-Responsibility	CAP NNP
-of	PIN PREP
-the	ART DET
-Psychopathic	CAP NNP
-Offender	CAP NNP
-'	CONT QUOT
-,	
-Ciocchetti	CAP NNP
-(	
-2003	NUM
-)	
-,	
-describes	VPRT
-how	RB WHQU SCONJ WH
-psychopaths	NN
-are	BEMA VPRT AUXB
-incapable	JJ PRED
-of	PIN PREP
-forming	PGAS
-relationships	NN
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-relate	INF
-and	PHC CCONJ
-respond	INF
-to	PIN PREP
-the	ART DET
-reactions	NOMZ
-of	PIN PREP
-others	NN
-.	
-He	TPP3 CAP PRP SBJP
-proposes	VPRT SUAV
-that	PIN THVC SCONJ PREP
-psychopathic	JJ
-offenders	NN
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-fully	AMP RB
-responsible	JJ
-for	PIN PREP
-their	TPP3 PRP SBJP
-actions	NOMZ
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-lack	VPRT
-emotion	NOMZ
-and	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-understand	PRIV INF
-the	ART DET
-full	JJ
-impact	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-actions	NOMZ
-like	PIN PREP
-non	JJ
--	JJ
-psychopathic	JJ
-offenders	NN
-do	VPRT PROD
-.	
-He	TPP3 CAP PRP SBJP
-also	RB
-argues	VPRT PUBV
-that	PIN THVC SCONJ PREP
-psychopathic	JJ
-offenders	NN
-must	NEMD
-be	PASS AUXB INF
-treated	
-differently	RB
-to	PIN PREP
-non	JJ
--	JJ
-psychopathic	JJ
-offenders	NN
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-lack	VPRT
-moral	JJ
-values	NN
-and	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-respond	INF
-to	PIN PREP
-common	JJ
-forms	NN
-of	PIN PREP
-punishment	NOMZ
-.	
-Ciocchetti	CAP NNP
-emphasises	VPRT
-his	TPP3 PRP SBJP
-belief	NN
-that	PIN TOBJ SCONJ PREP
-appropriate	JJ
-psychiatric	JJ
-care	NN
-would	PRMD
-be	AUXB INF
-far	RB PLACE
-more	RB EMPH CMADJ
-appropriate	JJ
-than	PIN PREP
-common	JJ
-punishment	NOMZ
-.	
-A	ART CAP DET INDA
-number	NN
-of	PIN PREP
-experiments	NOMZ
-have	VPRT PEAS
-been	PASS AUXB
-carried	
-out	PIN PREP
-to	PIN TO PREP
-investigate	INF
-why	RB SCONJ WH
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-do	VPRT SPAU
-not	XX0 RB
-respond	INF
-to	PIN PREP
-punishment	NOMZ
-.	
-They	TPP3 CAP PRP SBJP
-especially	RB
-look	VPRT
-at	PIN PREP
-passive	JJ
-avoidance	NN
-learning	PRIV NN
-(	
-Newman	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-1990	NUM
-and	CCONJ
-Thornquist	CAP NNP
-&	CCONJ
-Zuckerman	CAP NNP
-,	
-1995	NUM
-)	
-.	
-It	PIT CAP PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-shown	PRIV
-that	PIN THVC SCONJ PREP
-psychopaths	NN
-are	BEMA VPRT AUXB
-deficient	JJ PRED
-in	PIN CONJ PREP
-avoidance	NN
-learning	PRIV NN
-and	ANDC CCONJ
-this	DEMP DET
-is	PASS VPRT BYPA AUXB
-caused	
-by	PIN STPR PREP
-'	CONT QUOT
-poor	JJ
-fear	PRIV NN
-conditioning	GER
-'	CONT QUOT
-,	
-(	
-Eysenck	CAP NNP
-,	
-1967	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Newman	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-1990	NUM
-)	
-.	
-Psychopaths	NN CAP
-have	VPRT
-a	ART DET INDA
-reduced	
-level	NN
-of	PIN PREP
-fear	PRIV NN
-arousal	NN
-and	ANDC CCONJ
-this	DEMP DET
-interferes	VPRT
-with	PIN PREP
-learning	PRIV PGAS
-to	PIN TO PREP
-avoid	INF
-situations	NOMZ
-that	TSUB WHSUB WH
-appear	VPRT SMP
-unpleasant	JJ
-to	PIN PREP
-people	NN
-without	PIN PREP
-the	ART DET
-disorder	NN
-.	
-However	RB CONJ CAP
-,	
-a	ART DET INDA
-study	NN
-by	PIN PREP
-Schmauk	NN CAP
-(	
-1970	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Newmanal	CAP NNP
-.	
-1990	NUM
-)	
-,	
-found	VBD PRIV
-that	PIN THVC SCONJ PREP
-psychopaths	NN
-did	VBD SPAU
-not	XX0 RB
-tend	INF
-to	PIN TO PREP
-react	INF
-to	PIN PREP
-social	JJ
-or	CCONJ
-physical	JJ
-punishment	NOMZ
-but	CCONJ
-did	VBD EMPH
-react	INF
-when	RB SCONJ WH
-punished	
-with	PIN PREP
-loss	NN
-of	PIN PREP
-money	NN
-.	
-This	DEMP CAP DET
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-psychopaths	NN
-are	BEMA VPRT AUXB
-capable	JJ PRED
-of	PIN PREP
-some	QUAN DET
-sort	NN HDG
-of	PIN PREP
-avoidance	NN
-learning	PRIV NN
-and	CCONJ
-criminal	JJ
-justice	NN
-should	NEMD
-consider	PRIV INF
-other	JJ
-ways	NN
-of	PIN PREP
-punishing	PGAS
-them	TPP3 PRP SBJP ACCU
-that	PIN DEMO SCONJ PREP
-they	TPP3 PRP SBJP
-react	VPRT
-to	PIN PREP
-and	CCONJ
-learn	PRIV INF
-from	PIN STPR PREP
-.	
-A	ART CAP DET INDA
-study	NN
-by	PIN PREP
-Newman	CAP NNP
-,	
-Widom	CAP NNP
-and	PHC CCONJ
-Nathan	CAP NNP
-(	
-1985	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Thornquist	CAP NNP
-&	CCONJ
-Zuckerman	CAP NNP
-,	
-1995	NUM
-)	
-,	
-showed	VBD PRIV
-that	PIN THVC SCONJ PREP
-psychopaths	NN
-were	BEMA VBD AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-respond	INF
-to	PIN PREP
-a	ART DET INDA
-loss	NN
-of	PIN PREP
-reward	NN
-for	PIN PREP
-not	XX0 RB
-responding	GER PGAS
-to	PIN PREP
-a	ART DET INDA
-'	CONT QUOT
-positive	JJ
-'	CONT QUOT
-stimulus	NN
-than	PIN PREP
-a	ART DET INDA
-punishment	NOMZ
-when	RB WHSUB SCONJ WH
-responding	GER PGAS
-to	PIN PREP
-a	ART DET INDA
-'	CONT QUOT
-negative	JJ
-'	CONT QUOT
-stimulus	NN
-.	
-This	DEMP CAP DET
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-encouragement	NOMZ
-to	PIN TO PREP
-take	INF
-positive	JJ
-action	NOMZ
-is	BEMA VPRT AUXB
-a	EMPH ART DET INDA
-lot	NN
-more	RB EMPH CMADJ
-effective	JJ
-than	PIN PREP
-punishing	PGAS
-negative	JJ
-acts	NN
-.	
-Prisons	NN CAP
-could	POMD
-try	INF
-to	PIN TO PREP
-encourage	INF
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-to	PIN TO PREP
-concentrate	INF
-on	PIN PREP
-positive	JJ
-activities	NN
-,	
-to	PIN TO PREP
-discourage	INF
-them	TPP3 PRP SBJP ACCU
-from	PIN PREP
-negative	JJ
-activities	NN
-,	
-including	PGAS
-breaking	PGAS
-the	ART DET
-law	NN
-.	
-Experiments	NOMZ CAP
-on	PIN STPR PREP
-'	CONT QUOT
-delay	NN
-of	PIN PREP
-gratification	NOMZ
-'	CONT QUOT
-have	VPRT PEAS SPAU
-also	RB
-been	PASS AUXB
-carried	
-out	PIN PREP
-to	PIN TO SPIN PREP
-further	RB
-investigate	INF
-the	ART DET
-response	NN
-of	PIN PREP
-psychopaths	NN
-to	PIN TO PREP
-reward	INF
-,	
-(	
-Blanchard	CAP NNP
-,	
-Bassett	CAP NNP
-,	
-&	CCONJ
-Koshland	CAP NNP
-,	
-1977	NUM
-;	
-Widom	CAP NNP
-1977	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Newman	CAP NNP
-,	
-Kosson	CAP NNP
-,	
-&	CCONJ
-Patterson	CAP NNP
-,	
-1992	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-Widom	CAP NNP
-'s	
-(	
-1977	NUM
-)	
-experiment	NOMZ
-participants	NN
-were	PASS VBD AUXB
-offered	
-immediate	JJ
-cash	NN
-payment	NOMZ
-and	CCONJ
-the	ART DET
-decision	NOMZ
-to	PIN TO PREP
-refuse	INF
-it	PIT PRP SBJP
-and	CCONJ
-get	INF
-twice	DET
-the	ART DET
-amount	NN
-the	ART DET
-following	PGAS
-week	NN
-.	
-Participants	NN CAP
-were	PASS VBD AUXB
-measured	
-on	PIN PREP
-the	ART DET
-MMPI	CAP NNP
-Psychopathic	CAP NNP
-Deviate	CAP NNP
-scale	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-found	PRIV
-that	PIN THVC SCONJ PREP
-those	DEMO DET
-with	PIN PREP
-higher	JJ CMADJ
-scores	NN
-on	PIN PREP
-the	ART DET
-scale	NN
-were	BEMA VBD AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-accept	PRIV INF
-the	ART DET
-immediate	JJ
-cash	NN
-payment	NOMZ
-.	
-The	ART CAP DET
-ability	NOMZ
-to	PIN TO PREP
-resist	INF
-the	ART DET
-immediate	JJ
-reward	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-measure	NN
-of	PIN PREP
-self	NN
--	
-control	NN
-,	
-(	
-Newman	CAP NNP
-,	
-Kosson	CAP NNP
-&	CCONJ
-Patterson	CAP NNP
-,	
-1992	NUM
-)	
-,	
-and	ANDC CCONJ
-this	DEMP DET
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-have	VPRT PEAS
-limited	
-self	NN
--	
-control	NN
-.	
-The	ART CAP DET
-studies	NN
-mentioned	PUBV WZPAST
-so	RB
-far	RB PLACE
-have	VPRT PEAS
-concentrated	
-on	PIN PREP
-behavioural	JJ
-accounts	NN
-of	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-.	
-There	EX CAP
-have	VPRT PEAS SPAU
-also	RB
-been	AUXB
-investigations	NOMZ
-into	PIN PREP
-whether	PIN SCONJ PREP
-there	EX
-are	VPRT AUXB
-biological	JJ PRED
-or	CCONJ
-genetic	JJ
-differences	NN
-between	PIN PREP
-psychopathic	JJ
-and	PHC CCONJ
-non	JJ
--	JJ
-psychopathic	JJ
-offenders	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-study	NN
-by	PIN PREP
-Smith	CAP NNP
-,	
-Arnett	CAP NNP
-and	PHC CCONJ
-Newman	CAP NNP
-(	
-1992	NUM
-)	
-both	DET
-psychopathic	JJ
-and	PHC CCONJ
-non	JJ
--	JJ
-psychopathic	JJ
-participants	NN
-were	PASS VBD AUXB
-divided	
-in	PIN CONJ PREP
-to	PIN PREP
-groups	NN
-of	PIN PREP
-either	CCONJ
-low	JJ
-or	CCONJ
-high	JJ
-anxious	JJ
-psychopaths	NN
-or	CCONJ
-low	JJ
-or	CCONJ
-high	JJ
-anxious	JJ
-non	NN
--	NN
-psychopaths	NN
-.	
-They	TPP3 CAP PRP SBJP
-were	PASS VBD SPAU AUXB
-then	RB
-tested	
-on	PIN PREP
-different	JJ
-tasks	NN
-designed	WZPAST
-to	PIN TO PREP
-use	INF
-different	JJ
-functions	NOMZ
-of	PIN PREP
-the	ART DET
-brain	NN
-.	
-Vague	JJ CAP
-support	NN
-was	PASS VBD AUXB
-found	PRIV
-for	PIN PREP
-the	ART DET
-hypothesis	NN
-that	TOBJ WHOBJ WH
-psychopaths	NN
-would	PRMD
-perform	INF
-poorer	RB CMADJ
-on	PIN PREP
-tasks	NN
-involving	WZPRES PGAS
-the	ART DET
-frontal	JJ
-lobe	NN
-.	
-Also	RB CAP
-low	JJ
--	
-anxious	JJ
-psychopaths	NN
-did	VBD SPAU
-not	XX0 RB
-perform	INF
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-low	JJ
--	
-anxious	JJ
-non	NN
--	NN
-psychopaths	NN
-on	PIN PREP
-certain	JJ
-tasks	NN
-involving	WZPRES PGAS
-block	NN
-design	NN
-.	
-This	DEMO CAP DET
-study	NN
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-there	EX
-may	POMD
-be	BEMA AUXB INF
-some	QUAN DET
-differences	NN
-in	PIN CONJ PREP
-brain	NN
-functioning	GER WZPRES PGAS
-between	PIN PREP
-psychopaths	NN
-and	PHC CCONJ
-non	NN
--	NN
-psychopaths	NN
-.	
-Antisocial	JJ CAP
-personality	NOMZ
-disorder	NN
-and	PHC CCONJ
-criminality	NOMZ
-have	VPRT PEAS
-been	PASS AUXB
-found	PRIV
-to	PIN TO PREP
-have	INF
-genetic	JJ
-factors	NN
-.	
-In	PIN CONJ CAP PREP
-St.	CAP NNP
-Louis	CAP NNP
-a	ART DET INDA
-link	NN
-has	VPRT PEAS
-been	PASS AUXB
-found	PRIV
-between	PIN PREP
-females	NN
-with	PIN PREP
-hysteria	NN
-and	CCONJ
-first	JJ
--	
-degree	NN
-male	JJ
-relatives	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-(	
-McGuffin	CAP NNP
-,	
-Shanks	CAP NNP
-&	CCONJ
-Hodgson	CAP NNP
-,	
-1984	NUM
-)	
-.	
-Also	RB CAP
-,	
-a	ART DET INDA
-higher	JJ CMADJ
-concordance	NN
-of	PIN PREP
-personality	NOMZ
-disorder	NN
-was	PASS VBD AUXB
-found	PRIV
-in	PIN CONJ PREP
-MZ	CAP NNP
-twins	NN
-than	PIN PREP
-in	PIN CONJ PREP
-DZ	CAP NNP
-twins	NN
-(	
-Slater	CAP NNP
-&	CCONJ
-Shields	CAP NNP
-,	
-1969	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-McGuffin	CAP NNP
-,	
-Shanks	CAP NNP
-&	CCONJ
-Hodgson	CAP NNP
-,	
-1984	NUM
-)	
-.	
-Genetics	NN CAP
-factors	NN
-have	VPRT PEAS SPAU
-also	RB
-been	PASS AUXB
-shown	PRIV
-,	
-in	PIN CONJ PREP
-adoption	NOMZ
-studies	NN
-,	
-to	PIN TO PREP
-influence	INF
-criminality	NOMZ
-.	
-A	ART CAP DET INDA
-study	NN
-by	PIN PREP
-Hutchings	CAP NNP
-&	CCONJ
-Mednick	CAP NNP
-(	
-1975	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-McGuffin	CAP NNP
-,	
-Shanks	CAP NNP
-&	CCONJ
-Hodgson	CAP NNP
-,	
-1984	NUM
-)	
-,	
-showed	VBD PRIV
-that	PIN THVC SCONJ PREP
-people	NN
-were	BEMA VBD AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-commit	INF
-crimes	NN
-if	COND PIN SCONJ PREP
-their	TPP3 PRP SBJP
-biological	JJ
-father	NN
-was	BEMA VBD AUXB
-a	ART DET INDA
-criminal	JJ
-than	PIN PREP
-if	COND PIN SCONJ PREP
-there	EX
-adopted	VBD
-father	NN
-was	BEMA VBD AUXB
-a	ART DET INDA
-criminal	NN
-.	
-Criminality	NOMZ CAP
-was	VBD AUXB
-even	RB
-more	RB EMPH CMADJ
-likely	JJ
-if	COND PIN SCONJ PREP
-both	DET
-biological	JJ
-and	CCONJ
-adopted	VBD
-fathers	NN
-were	VBD AUXB
-criminals	NN
-.	
-Whatever	CAP DET WH
-factors	NN
-cause	VPRT
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-,	
-theories	NN
-of	PIN PREP
-how	RB SCONJ WH
-to	PIN TO PREP
-treat	INF
-people	NN
-with	PIN PREP
-this	DEMO DET
-condition	NOMZ
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-put	
-into	PIN PREP
-practice	NN
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-therapy	NN
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-popular	JJ
-is	BEMA VPRT AUXB
-individual	JJ
-psychotherapy	NN
-along	PIN PREP
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-a	ART DET INDA
-cognitive	JJ
--	
-behavioural	JJ
-approach	NN
-(	
-Kraus	CAP NNP
-&	CCONJ
-Reynolds	CAP NNP
-,	
-2001	NUM
-)	
-.	
-Methods	NN CAP
-which	WHSUB DET WH
-seem	VPRT SMP
-to	PIN TO PREP
-work	INF
-are	VPRT AUXB
-concentration	NOMZ
-on	PIN PREP
-anger	NN
-management	NOMZ
-,	
-alcohol	NN
-or	CCONJ
-drug	NN
-abuse	NN
-,	
-which	SERE DET WH
-the	ART DET
-patient	NN
-may	POMD
-have	INF
-a	ART DET INDA
-problem	NN
-with	PIN STPR PREP
-,	
-and	ANDC CCONJ
-empathy	JJ
-training	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-try	INF
-and	PHC CCONJ
-understand	PRIV INF
-how	RB WHCL SCONJ WH
-their	TPP3 PRP SBJP
-actions	NOMZ
-affect	VPRT
-others	NN
-.	
-Suggestions	NOMZ CAP
-have	VPRT PEAS
-been	PASS AUXB
-made	
-that	PIN DEMO SCONJ PREP
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-should	NEMD SPAU
-not	XX0 RB
-take	INF
-part	NN
-in	PIN CONJ PREP
-group	NN
-therapy	NN
-and	CCONJ
-individual	JJ
-therapy	NN
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-appropriate	JJ
-(	
-Yalom	CAP NNP
-,	
-1985	NUM
-,	
-MacKenzie	CAP NNP
-,	
-1997	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Kraus	CAP NNP
-&	CCONJ
-Reynolds	CAP NNP
-,	
-2001	NUM
-)	
-.	
-Family	NN CAP
-and	CCONJ
-marital	JJ
-group	NN
-therapy	NN
-,	
-however	RB CONJ
-,	
-have	VPRT PEAS
-been	PASS AUXB
-considered	PRIV
-more	RB EMPH CMADJ
-appropriate	JJ
-than	PIN PREP
-other	JJ
-types	NN
-of	PIN PREP
-group	NN
-therapy	NN
-(	
-Melroy	CAP NNP
-,	
-1995	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Kraus	CAP NNP
-&	CCONJ
-Reynolds	CAP NNP
-,	
-2001	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-some	QUAN DET
-situations	NOMZ
-,	
-medication	NOMZ
-has	VPRT PEAS
-been	PASS AUXB
-used	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-therapy	NN
-,	
-to	PIN TO PREP
-alleviate	INF
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-symptoms	NN
-,	
-although	CONC PIN SCONJ PREP
-there	EX
-are	VPRT AUXB
-no	SYNE DET
-drugs	NN
-to	PIN TO PREP
-treat	INF
-the	ART DET
-disorder	NN
-specifically	RB
-(	
-Gabbard	CAP NNP
-&	CCONJ
-Coyne	CAP NNP
-,	
-1987	NUM
-,	
-cited	PASTP
-in	PIN CONJ PREP
-Kraus	CAP NNP
-&	CCONJ
-Reynolds	CAP NNP
-,	
-2001	NUM
-)	
-.	
-Most	JJ EMPH CAP SPADJ
-drugs	NN
-are	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-treat	INF
-symptoms	NN
-of	PIN PREP
-aggression	NOMZ
-which	WHSUB DET WH
-are	PASS VPRT BYPA AUXB
-expressed	
-by	PIN PREP
-many	QUAN JJ
-people	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-some	QUAN DET
-concerns	NN
-about	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-drug	NN
-therapy	NN
-because	CAUS PIN SCONJ PREP
-many	QUAN JJ
-patients	NN
-have	VPRT PEAS
-been	PASS AUXB
-known	PRIV
-to	PIN TO PREP
-abuse	INF
-the	ART DET
-medication	NOMZ
-or	CCONJ
-become	INF
-addicted	JJ
-to	PIN PREP
-drugs	NN
-such	JJ
-as	PIN CONJ PREP
-benzodiazapines	NN
-(	
-Kraus	CAP NNP
-&	CCONJ
-Reynolds	CAP NNP
-,	
-2001	NUM
-)	
-.	
-When	RB CAP SCONJ WH
-criminal	JJ
-justice	NN
-and	PHC CCONJ
-law	NN
-enforcement	NOMZ
-are	VPRT AUXB
-dealing	PGAS
-with	PIN PREP
-criminals	NN
-with	PIN PREP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-they	TPP3 PRP SBJP
-have	VPRT
-to	PIN TO PREP
-understand	PRIV INF
-their	TPP3 PRP SBJP
-reasons	PRIV NN
-behind	PIN PLACE PREP
-the	ART DET
-crime	NN
-and	CCONJ
-find	PRIV INF
-appropriate	JJ
-ways	NN
-to	PIN TO PREP
-help	INF
-them	TPP3 PRP SBJP ACCU
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-that	PIN THAC SCONJ PREP
-they	TPP3 PRP SBJP
-understand	VPRT PRIV
-that	PIN THVC SCONJ PREP
-imprisonment	NOMZ
-by	PIN PREP
-itself	PIT PRP SBJP ACCU
-is	BEMA VPRT AUXB
-not	XX0 RB
-an	ART DET INDA
-adequate	JJ
-way	NN
-to	PIN TO PREP
-punish	INF
-psychopaths	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-stop	INF
-them	TPP3 PRP SBJP ACCU
-committing	GER PGAS
-the	ART DET
-same	JJ
-crimes	NN
-again	RB TIME
-.	
-They	TPP3 CAP PRP SBJP
-should	NEMD SPAU
-also	RB
-learn	PRIV THATD INF
-that	PIN DEMP SCONJ PREP
-making	PGAS
-therapy	NN
-available	JJ
-to	PIN PREP
-psychopaths	NN
-may	POMD
-help	INF
-them	TPP3 PRP SBJP ACCU
-with	PIN PREP
-their	TPP3 PRP SBJP
-antisocial	JJ
-personality	NOMZ
-disorder	NN
-.	
+type	content	tags
+word	Antisocial	JJ CAP
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	disorder	NN
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	psychopathy	JJ
+gap	, 	
+word	sociopathy	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	dissocial	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	disorder	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	Diagnostic	JJ CAP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Statistical	CAP NNP
+gap	 	
+word	Manual	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Mental	CAP NNP
+gap	 	
+word	Disorders	CAP NNP
+gap	' 	
+word	or	CCONJ
+gap	 '	
+word	DSM	CAP NNP
+gap	-	
+word	IV	CAP NNP
+gap	', 	
+word	it	PIT PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	grouped	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	cluster	NN
+gap	 	
+word	B	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	axis	JJ
+gap	 	
+word	II	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	manual	NN
+gap	 	
+word	defines	VPRT
+gap	 	
+word	individuals	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	disorder	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	having	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tendency	NN
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	repeatedly	RB
+gap	 	
+word	break	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	regarding	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	feelings	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	rights	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	may	POMD
+gap	 	
+word	become	INF
+gap	 	
+word	victims	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	crimes	NN
+gap	. 	
+word	DSM	CAP NNP
+gap	-	
+word	IV	CAP NNP
+gap	 	
+word	includes	VPRT
+gap	 	
+word	evidence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	impulsiveness	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	description	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	signs	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	aggressiveness	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	empathy	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	manual	NN
+gap	 	
+word	also	RB
+gap	 	
+word	defines	VPRT
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	disorder	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	least	RB SPADJ
+gap	 	
+word	eighteen	NUM
+gap	 	
+word	years	NN
+gap	 	
+word	old	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	having	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	history	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	conduct	NN
+gap	 	
+word	disorder	NN
+gap	 	
+word	earlier	RB TIME CMADJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	life	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	criminal	JJ
+gap	 	
+word	behaviour	NN
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	people	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	antisocial	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	disorder	NN
+gap	 	
+word	end	VPRT
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	prison	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	criminal	JJ
+gap	 	
+word	justice	NN
+gap	 	
+word	system	NN
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	better	RB CMADJ
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	individuals	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	deal	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	appropriate	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	encouraging	GER PRESP PGAS
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	re	PIN INF PREP
+gap	-	
+word	offend	INF
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	answered	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	bio	JJ
+gap	-	
+word	behavioural	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	disorder	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	disorder	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	emotion	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	effects	NN
+gap	 	
+word	responsibility	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	acts	NN
+gap	 (	
+word	Ciocchetti	CAP NNP
+gap	, 2003). 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	findings	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	behavioural	JJ
+gap	 	
+word	studies	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	passive	JJ
+gap	-	
+word	avoidance	NN
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	psychopaths	NN
+gap	 (	
+word	Thornquist	CAP NNP
+gap	 & 	
+word	Zuckerman	CAP NNP
+gap	, 1995 	
+word	and	CCONJ
+gap	 	
+word	Newman	CAP NNP
+gap	, 	
+word	Patterson	CAP NNP
+gap	, 	
+word	Howland	CAP NNP
+gap	 &	
+word	Nichols	CAP NNP
+gap	, 1990), 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	research	NN
+gap	 	
+word	on	PIN STPR PREP
+gap	 '	
+word	delay	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gratification	NOMZ
+gap	', (	
+word	Newman	CAP NNP
+gap	, 	
+word	Patterson	CAP NNP
+gap	 & 	
+word	Kosson	CAP NNP
+gap	, 1992) 	
+word	and	ANDC CCONJ
+gap	 '	
+word	the	ART DET
+gap	 	
+word	response	NN
+gap	 	
+word	modulation	NOMZ
+gap	 	
+word	hypothesis	NN
+gap	', (	
+word	Newman	CAP NNP
+gap	, 	
+word	Schmitt	CAP NNP
+gap	 & 	
+word	Voss	CAP NNP
+gap	, 1997). 	
+word	Biological	JJ CAP
+gap	 	
+word	accounts	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	give	INF
+gap	 	
+word	insight	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	problem	NN
+gap	, 	
+word	including	PGAS
+gap	 	
+word	accounts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	neuropsychology	NN
+gap	 (	
+word	Smith	CAP NNP
+gap	, 	
+word	Arnett	CAP NNP
+gap	 & 	
+word	Newman	CAP NNP
+gap	, 1992), 	
+word	and	ANDC CCONJ
+gap	 	
+word	studies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	genetic	JJ
+gap	 	
+word	influences	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	twins	NN
+gap	 (	
+word	Carey	CAP NNP
+gap	, 1992). 	
+word	Finally	RB CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	help	INF
+gap	 	
+word	people	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	antisocial	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	disorder	NN
+gap	, 	
+word	different	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	therapy	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	addressed	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	effectiveness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	therapies	NN
+gap	 	
+word	considered	PRIV
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	article	NN
+gap	 '	
+word	The	ART CAP DET
+gap	 	
+word	Responsibility	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Psychopathic	CAP NNP
+gap	 	
+word	Offender	CAP NNP
+gap	', 	
+word	Ciocchetti	CAP NNP
+gap	 (2003), 	
+word	describes	VPRT
+gap	 	
+word	how	RB WHQU SCONJ WH
+gap	 	
+word	psychopaths	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	incapable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	forming	PGAS
+gap	 	
+word	relationships	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	relate	
+gap	 	
+word	and	
+gap	 	
+word	respond	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	reactions	
+gap	 	
+word	of	
+gap	 	
+word	others	
+gap	. 	
+word	He	
+gap	 	
+word	proposes	
+gap	 	
+word	that	
+gap	 	
+word	psychopathic	
+gap	 	
+word	offenders	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	fully	
+gap	 	
+word	responsible	
+gap	 	
+word	for	
+gap	 	
+word	their	
+gap	 	
+word	actions	
+gap	 	
+word	because	
+gap	 	
+word	they	
+gap	 	
+word	lack	
+gap	 	
+word	emotion	
+gap	 	
+word	and	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	understand	
+gap	 	
+word	the	
+gap	 	
+word	full	
+gap	 	
+word	impact	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	actions	
+gap	 	
+word	like	
+gap	 	
+word	non	
+gap	-	
+word	psychopathic	
+gap	 	
+word	offenders	
+gap	 	
+word	do	
+gap	. 	
+word	He	
+gap	 	
+word	also	
+gap	 	
+word	argues	
+gap	 	
+word	that	
+gap	 	
+word	psychopathic	
+gap	 	
+word	offenders	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	treated	
+gap	 	
+word	differently	
+gap	 	
+word	to	
+gap	 	
+word	non	
+gap	-	
+word	psychopathic	
+gap	 	
+word	offenders	
+gap	 	
+word	because	
+gap	 	
+word	they	
+gap	 	
+word	lack	
+gap	 	
+word	moral	
+gap	 	
+word	values	
+gap	 	
+word	and	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	respond	
+gap	 	
+word	to	
+gap	 	
+word	common	
+gap	 	
+word	forms	
+gap	 	
+word	of	
+gap	 	
+word	punishment	
+gap	. 	
+word	Ciocchetti	
+gap	 	
+word	emphasises	
+gap	 	
+word	his	
+gap	 	
+word	belief	
+gap	 	
+word	that	
+gap	 	
+word	appropriate	
+gap	 	
+word	psychiatric	
+gap	 	
+word	care	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	far	
+gap	 	
+word	more	
+gap	 	
+word	appropriate	
+gap	 	
+word	than	
+gap	 	
+word	common	
+gap	 	
+word	punishment	
+gap	. 	
+word	A	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	experiments	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	carried	
+gap	 	
+word	out	
+gap	 	
+word	to	
+gap	 	
+word	investigate	
+gap	 	
+word	why	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	respond	
+gap	 	
+word	to	
+gap	 	
+word	punishment	
+gap	. 	
+word	They	
+gap	 	
+word	especially	
+gap	 	
+word	look	
+gap	 	
+word	at	
+gap	 	
+word	passive	
+gap	 	
+word	avoidance	
+gap	 	
+word	learning	
+gap	 (	
+word	Newman	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 1990 	
+word	and	
+gap	 	
+word	Thornquist	
+gap	 & 	
+word	Zuckerman	
+gap	, 1995). 	
+word	It	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	shown	
+gap	 	
+word	that	
+gap	 	
+word	psychopaths	
+gap	 	
+word	are	
+gap	 	
+word	deficient	
+gap	 	
+word	in	
+gap	 	
+word	avoidance	
+gap	 	
+word	learning	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	caused	
+gap	 	
+word	by	
+gap	 '	
+word	poor	
+gap	 	
+word	fear	
+gap	 	
+word	conditioning	
+gap	', (	
+word	Eysenck	
+gap	, 1967, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Newman	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 1990). 	
+word	Psychopaths	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	reduced	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	fear	
+gap	 	
+word	arousal	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	interferes	
+gap	 	
+word	with	
+gap	 	
+word	learning	
+gap	 	
+word	to	
+gap	 	
+word	avoid	
+gap	 	
+word	situations	
+gap	 	
+word	that	
+gap	 	
+word	appear	
+gap	 	
+word	unpleasant	
+gap	 	
+word	to	
+gap	 	
+word	people	
+gap	 	
+word	without	
+gap	 	
+word	the	
+gap	 	
+word	disorder	
+gap	. 	
+word	However	
+gap	, 	
+word	a	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Schmauk	
+gap	 (1970, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Newmanal	
+gap	. 1990), 	
+word	found	
+gap	 	
+word	that	
+gap	 	
+word	psychopaths	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	react	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	social	
+gap	 	
+word	or	
+gap	 	
+word	physical	
+gap	 	
+word	punishment	
+gap	 	
+word	but	
+gap	 	
+word	did	
+gap	 	
+word	react	
+gap	 	
+word	when	
+gap	 	
+word	punished	
+gap	 	
+word	with	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	money	
+gap	. 	
+word	This	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	psychopaths	
+gap	 	
+word	are	
+gap	 	
+word	capable	
+gap	 	
+word	of	
+gap	 	
+word	some	
+gap	 	
+word	sort	
+gap	 	
+word	of	
+gap	 	
+word	avoidance	
+gap	 	
+word	learning	
+gap	 	
+word	and	
+gap	 	
+word	criminal	
+gap	 	
+word	justice	
+gap	 	
+word	should	
+gap	 	
+word	consider	
+gap	 	
+word	other	
+gap	 	
+word	ways	
+gap	 	
+word	of	
+gap	 	
+word	punishing	
+gap	 	
+word	them	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	react	
+gap	 	
+word	to	
+gap	 	
+word	and	
+gap	 	
+word	learn	
+gap	 	
+word	from	
+gap	. 	
+word	A	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Newman	
+gap	, 	
+word	Widom	
+gap	 	
+word	and	
+gap	 	
+word	Nathan	
+gap	 (1985, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Thornquist	
+gap	 & 	
+word	Zuckerman	
+gap	, 1995), 	
+word	showed	
+gap	 	
+word	that	
+gap	 	
+word	psychopaths	
+gap	 	
+word	were	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	respond	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	a	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	reward	
+gap	 	
+word	for	
+gap	 	
+word	not	
+gap	 	
+word	responding	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 '	
+word	positive	
+gap	' 	
+word	stimulus	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	punishment	
+gap	 	
+word	when	
+gap	 	
+word	responding	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 '	
+word	negative	
+gap	' 	
+word	stimulus	
+gap	. 	
+word	This	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	encouragement	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	positive	
+gap	 	
+word	action	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	more	
+gap	 	
+word	effective	
+gap	 	
+word	than	
+gap	 	
+word	punishing	
+gap	 	
+word	negative	
+gap	 	
+word	acts	
+gap	. 	
+word	Prisons	
+gap	 	
+word	could	
+gap	 	
+word	try	
+gap	 	
+word	to	
+gap	 	
+word	encourage	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	to	
+gap	 	
+word	concentrate	
+gap	 	
+word	on	
+gap	 	
+word	positive	
+gap	 	
+word	activities	
+gap	, 	
+word	to	
+gap	 	
+word	discourage	
+gap	 	
+word	them	
+gap	 	
+word	from	
+gap	 	
+word	negative	
+gap	 	
+word	activities	
+gap	, 	
+word	including	
+gap	 	
+word	breaking	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	. 	
+word	Experiments	
+gap	 	
+word	on	
+gap	 '	
+word	delay	
+gap	 	
+word	of	
+gap	 	
+word	gratification	
+gap	' 	
+word	have	
+gap	 	
+word	also	
+gap	 	
+word	been	
+gap	 	
+word	carried	
+gap	 	
+word	out	
+gap	 	
+word	to	
+gap	 	
+word	further	
+gap	 	
+word	investigate	
+gap	 	
+word	the	
+gap	 	
+word	response	
+gap	 	
+word	of	
+gap	 	
+word	psychopaths	
+gap	 	
+word	to	
+gap	 	
+word	reward	
+gap	, (	
+word	Blanchard	
+gap	, 	
+word	Bassett	
+gap	, & 	
+word	Koshland	
+gap	, 1977; 	
+word	Widom	
+gap	 1977, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Newman	
+gap	, 	
+word	Kosson	
+gap	, & 	
+word	Patterson	
+gap	, 1992). 	
+word	In	
+gap	 	
+word	Widom	
+gap	'	
+word	s	
+gap	 (1977) 	
+word	experiment	
+gap	 	
+word	participants	
+gap	 	
+word	were	
+gap	 	
+word	offered	
+gap	 	
+word	immediate	
+gap	 	
+word	cash	
+gap	 	
+word	payment	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	decision	
+gap	 	
+word	to	
+gap	 	
+word	refuse	
+gap	 	
+word	it	
+gap	 	
+word	and	
+gap	 	
+word	get	
+gap	 	
+word	twice	
+gap	 	
+word	the	
+gap	 	
+word	amount	
+gap	 	
+word	the	ART DET
+gap	 	
+word	following	
+gap	 	
+word	week	
+gap	. 	
+word	Participants	
+gap	 	
+word	were	
+gap	 	
+word	measured	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	MMPI	
+gap	 	
+word	Psychopathic	
+gap	 	
+word	Deviate	
+gap	 	
+word	scale	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	found	
+gap	 	
+word	that	
+gap	 	
+word	those	
+gap	 	
+word	with	
+gap	 	
+word	higher	
+gap	 	
+word	scores	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	scale	
+gap	 	
+word	were	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	accept	
+gap	 	
+word	the	
+gap	 	
+word	immediate	
+gap	 	
+word	cash	
+gap	 	
+word	payment	
+gap	. 	
+word	The	
+gap	 	
+word	ability	
+gap	 	
+word	to	
+gap	 	
+word	resist	
+gap	 	
+word	the	
+gap	 	
+word	immediate	
+gap	 	
+word	reward	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	measure	
+gap	 	
+word	of	
+gap	 	
+word	self	
+gap	-	
+word	control	
+gap	, (	
+word	Newman	
+gap	, 	
+word	Kosson	
+gap	 & 	
+word	Patterson	
+gap	, 1992), 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	have	
+gap	 	
+word	limited	
+gap	 	
+word	self	
+gap	-	
+word	control	
+gap	. 	
+word	The	
+gap	 	
+word	studies	
+gap	 	
+word	mentioned	
+gap	 	
+word	so	
+gap	 	
+word	far	
+gap	 	
+word	have	
+gap	 	
+word	concentrated	
+gap	 	
+word	on	
+gap	 	
+word	behavioural	
+gap	 	
+word	accounts	
+gap	 	
+word	of	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	. 	
+word	There	
+gap	 	
+word	have	
+gap	 	
+word	also	
+gap	 	
+word	been	
+gap	 	
+word	investigations	
+gap	 	
+word	into	
+gap	 	
+word	whether	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	biological	
+gap	 	
+word	or	
+gap	 	
+word	genetic	
+gap	 	
+word	differences	
+gap	 	
+word	between	
+gap	 	
+word	psychopathic	
+gap	 	
+word	and	
+gap	 	
+word	non	
+gap	-	
+word	psychopathic	
+gap	 	
+word	offenders	
+gap	. 	
+word	In	
+gap	 	
+word	a	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Smith	
+gap	, 	
+word	Arnett	
+gap	 	
+word	and	
+gap	 	
+word	Newman	
+gap	 (1992) 	
+word	both	
+gap	 	
+word	psychopathic	
+gap	 	
+word	and	
+gap	 	
+word	non	
+gap	-	
+word	psychopathic	
+gap	 	
+word	participants	
+gap	 	
+word	were	
+gap	 	
+word	divided	
+gap	 	
+word	in	
+gap	 	
+word	to	
+gap	 	
+word	groups	
+gap	 	
+word	of	
+gap	 	
+word	either	
+gap	 	
+word	low	
+gap	 	
+word	or	
+gap	 	
+word	high	
+gap	 	
+word	anxious	
+gap	 	
+word	psychopaths	
+gap	 	
+word	or	
+gap	 	
+word	low	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	high	
+gap	 	
+word	anxious	
+gap	 	
+word	non	
+gap	-	
+word	psychopaths	
+gap	. 	
+word	They	
+gap	 	
+word	were	
+gap	 	
+word	then	
+gap	 	
+word	tested	
+gap	 	
+word	on	
+gap	 	
+word	different	
+gap	 	
+word	tasks	
+gap	 	
+word	designed	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	different	
+gap	 	
+word	functions	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	brain	
+gap	. 	
+word	Vague	
+gap	 	
+word	support	
+gap	 	
+word	was	
+gap	 	
+word	found	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	hypothesis	
+gap	 	
+word	that	
+gap	 	
+word	psychopaths	
+gap	 	
+word	would	
+gap	 	
+word	perform	
+gap	 	
+word	poorer	
+gap	 	
+word	on	
+gap	 	
+word	tasks	
+gap	 	
+word	involving	
+gap	 	
+word	the	
+gap	 	
+word	frontal	
+gap	 	
+word	lobe	
+gap	. 	
+word	Also	
+gap	 	
+word	low	
+gap	-	
+word	anxious	
+gap	 	
+word	psychopaths	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	perform	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	low	
+gap	-	
+word	anxious	
+gap	 	
+word	non	
+gap	-	
+word	psychopaths	
+gap	 	
+word	on	
+gap	 	
+word	certain	
+gap	 	
+word	tasks	
+gap	 	
+word	involving	
+gap	 	
+word	block	
+gap	 	
+word	design	
+gap	. 	
+word	This	
+gap	 	
+word	study	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	some	
+gap	 	
+word	differences	
+gap	 	
+word	in	
+gap	 	
+word	brain	
+gap	 	
+word	functioning	
+gap	 	
+word	between	
+gap	 	
+word	psychopaths	
+gap	 	
+word	and	
+gap	 	
+word	non	
+gap	-	
+word	psychopaths	
+gap	. 	
+word	Antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	and	
+gap	 	
+word	criminality	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	found	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	genetic	
+gap	 	
+word	factors	
+gap	. 	
+word	In	
+gap	 	
+word	St	
+gap	. 	
+word	Louis	
+gap	 	
+word	a	
+gap	 	
+word	link	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	found	
+gap	 	
+word	between	
+gap	 	
+word	females	
+gap	 	
+word	with	
+gap	 	
+word	hysteria	
+gap	 	
+word	and	
+gap	 	
+word	first	
+gap	-	
+word	degree	
+gap	 	
+word	male	
+gap	 	
+word	relatives	
+gap	 	
+word	with	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 (	
+word	McGuffin	
+gap	, 	
+word	Shanks	
+gap	 & 	
+word	Hodgson	
+gap	, 1984). 	
+word	Also	
+gap	, 	
+word	a	
+gap	 	
+word	higher	
+gap	 	
+word	concordance	
+gap	 	
+word	of	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	was	
+gap	 	
+word	found	
+gap	 	
+word	in	
+gap	 	
+word	MZ	
+gap	 	
+word	twins	
+gap	 	
+word	than	
+gap	 	
+word	in	
+gap	 	
+word	DZ	
+gap	 	
+word	twins	
+gap	 (	
+word	Slater	
+gap	 & 	
+word	Shields	
+gap	, 1969, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	McGuffin	
+gap	, 	
+word	Shanks	
+gap	 & 	
+word	Hodgson	
+gap	, 1984). 	
+word	Genetics	
+gap	 	
+word	factors	
+gap	 	
+word	have	
+gap	 	
+word	also	
+gap	 	
+word	been	
+gap	 	
+word	shown	
+gap	, 	
+word	in	
+gap	 	
+word	adoption	
+gap	 	
+word	studies	
+gap	, 	
+word	to	
+gap	 	
+word	influence	
+gap	 	
+word	criminality	
+gap	. 	
+word	A	
+gap	 	
+word	study	
+gap	 	
+word	by	
+gap	 	
+word	Hutchings	
+gap	 & 	
+word	Mednick	
+gap	 (1975, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	McGuffin	
+gap	, 	
+word	Shanks	
+gap	 & 	
+word	Hodgson	
+gap	, 1984), 	
+word	showed	
+gap	 	
+word	that	
+gap	 	
+word	people	
+gap	 	
+word	were	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	commit	
+gap	 	
+word	crimes	
+gap	 	
+word	if	
+gap	 	
+word	their	
+gap	 	
+word	biological	
+gap	 	
+word	father	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	criminal	
+gap	 	
+word	than	
+gap	 	
+word	if	
+gap	 	
+word	there	
+gap	 	
+word	adopted	
+gap	 	
+word	father	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	criminal	
+gap	. 	
+word	Criminality	
+gap	 	
+word	was	
+gap	 	
+word	even	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	if	
+gap	 	
+word	both	
+gap	 	
+word	biological	
+gap	 	
+word	and	
+gap	 	
+word	adopted	
+gap	 	
+word	fathers	
+gap	 	
+word	were	
+gap	 	
+word	criminals	
+gap	. 	
+word	Whatever	
+gap	 	
+word	factors	
+gap	 	
+word	cause	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	, 	
+word	theories	
+gap	 	
+word	of	
+gap	 	
+word	how	
+gap	 	
+word	to	
+gap	 	
+word	treat	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	this	
+gap	 	
+word	condition	
+gap	 	
+word	need	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	put	
+gap	 	
+word	into	
+gap	 	
+word	practice	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	therapy	
+gap	. 	
+word	The	
+gap	 	
+word	most	
+gap	 	
+word	popular	
+gap	 	
+word	is	
+gap	 	
+word	individual	
+gap	 	
+word	psychotherapy	
+gap	 	
+word	along	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	cognitive	
+gap	-	
+word	behavioural	
+gap	 	
+word	approach	
+gap	 (	
+word	Kraus	
+gap	 & 	
+word	Reynolds	
+gap	, 2001). 	
+word	Methods	
+gap	 	
+word	which	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	work	
+gap	 	
+word	are	
+gap	 	
+word	concentration	
+gap	 	
+word	on	
+gap	 	
+word	anger	
+gap	 	
+word	management	
+gap	, 	
+word	alcohol	
+gap	 	
+word	or	
+gap	 	
+word	drug	
+gap	 	
+word	abuse	
+gap	, 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	patient	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	problem	
+gap	 	
+word	with	
+gap	, 	
+word	and	
+gap	 	
+word	empathy	
+gap	 	
+word	training	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	try	
+gap	 	
+word	and	
+gap	 	
+word	understand	
+gap	 	
+word	how	
+gap	 	
+word	their	
+gap	 	
+word	actions	
+gap	 	
+word	affect	
+gap	 	
+word	others	
+gap	. 	
+word	Suggestions	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	made	
+gap	 	
+word	that	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	should	
+gap	 	
+word	not	
+gap	 	
+word	take	
+gap	 	
+word	part	
+gap	 	
+word	in	
+gap	 	
+word	group	
+gap	 	
+word	therapy	
+gap	 	
+word	and	
+gap	 	
+word	individual	
+gap	 	
+word	therapy	
+gap	 	
+word	is	
+gap	 	
+word	more	
+gap	 	
+word	appropriate	
+gap	 (	
+word	Yalom	
+gap	, 1985, 	
+word	MacKenzie	
+gap	, 1997, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Kraus	
+gap	 & 	
+word	Reynolds	
+gap	, 2001). 	
+word	Family	
+gap	 	
+word	and	
+gap	 	
+word	marital	
+gap	 	
+word	group	
+gap	 	
+word	therapy	
+gap	, 	
+word	however	
+gap	, 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	considered	
+gap	 	
+word	more	
+gap	 	
+word	appropriate	
+gap	 	
+word	than	
+gap	 	
+word	other	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	group	
+gap	 	
+word	therapy	
+gap	 (	
+word	Melroy	
+gap	, 1995, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Kraus	
+gap	 & 	
+word	Reynolds	
+gap	, 2001). 	
+word	In	
+gap	 	
+word	some	
+gap	 	
+word	situations	
+gap	, 	
+word	medication	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	used	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	therapy	
+gap	, 	
+word	to	
+gap	 	
+word	alleviate	
+gap	 	
+word	some	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	symptoms	
+gap	, 	
+word	although	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	no	
+gap	 	
+word	drugs	
+gap	 	
+word	to	
+gap	 	
+word	treat	
+gap	 	
+word	the	
+gap	 	
+word	disorder	
+gap	 	
+word	specifically	
+gap	 (	
+word	Gabbard	
+gap	 & 	
+word	Coyne	
+gap	, 1987, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	Kraus	
+gap	 & 	
+word	Reynolds	
+gap	, 2001). 	
+word	Most	
+gap	 	
+word	drugs	
+gap	 	
+word	are	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	treat	
+gap	 	
+word	symptoms	
+gap	 	
+word	of	
+gap	 	
+word	aggression	
+gap	 	
+word	which	
+gap	 	
+word	are	
+gap	 	
+word	expressed	
+gap	 	
+word	by	
+gap	 	
+word	many	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	some	
+gap	 	
+word	concerns	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	drug	
+gap	 	
+word	therapy	
+gap	 	
+word	because	
+gap	 	
+word	many	
+gap	 	
+word	patients	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	known	
+gap	 	
+word	to	
+gap	 	
+word	abuse	
+gap	 	
+word	the	
+gap	 	
+word	medication	
+gap	 	
+word	or	
+gap	 	
+word	become	
+gap	 	
+word	addicted	
+gap	 	
+word	to	
+gap	 	
+word	drugs	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	benzodiazapines	
+gap	 (	
+word	Kraus	
+gap	 & 	
+word	Reynolds	
+gap	, 2001). 	
+word	When	
+gap	 	
+word	criminal	
+gap	 	
+word	justice	
+gap	 	
+word	and	
+gap	 	
+word	law	
+gap	 	
+word	enforcement	
+gap	 	
+word	are	
+gap	 	
+word	dealing	
+gap	 	
+word	with	
+gap	 	
+word	criminals	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	 	
+word	they	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	their	
+gap	 	
+word	reasons	
+gap	 	
+word	behind	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	 	
+word	and	
+gap	 	
+word	find	
+gap	 	
+word	appropriate	
+gap	 	
+word	ways	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	them	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	understand	
+gap	 	
+word	that	
+gap	 	
+word	imprisonment	
+gap	 	
+word	by	
+gap	 	
+word	itself	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	an	
+gap	 	
+word	adequate	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	punish	
+gap	 	
+word	psychopaths	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	stop	
+gap	 	
+word	them	
+gap	 	
+word	committing	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	crimes	
+gap	 	
+word	again	
+gap	. 	
+word	They	
+gap	 	
+word	should	
+gap	 	
+word	also	
+gap	 	
+word	learn	
+gap	 	
+word	that	
+gap	 	
+word	making	
+gap	 	
+word	therapy	
+gap	 	
+word	available	
+gap	 	
+word	to	
+gap	 	
+word	psychopaths	
+gap	 	
+word	may	
+gap	 	
+word	help	
+gap	 	
+word	them	
+gap	 	
+word	with	
+gap	 	
+word	their	
+gap	 	
+word	antisocial	
+gap	 	
+word	personality	
+gap	 	
+word	disorder	
+gap	.	

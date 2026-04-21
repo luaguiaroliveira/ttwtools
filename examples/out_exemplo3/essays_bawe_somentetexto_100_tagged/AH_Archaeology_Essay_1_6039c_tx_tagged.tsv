@@ -1,695 +1,1230 @@
 # filename: AH_Archaeology_Essay_1_6039c_tx.txt
-token	tags
-The	ART CAP DET
-term	NN
-'	CONT QUOT
-waterlogged	
-'	CONT QUOT
-refers	VPRT
-to	PIN PREP
-the	ART DET
-long	JJ
--	
-term	NN
-exclusion	NOMZ
-of	PIN PREP
-oxygen	NN
-by	PIN PREP
-the	ART DET
-presence	NN
-of	PIN PREP
-groundwater	NN
-around	PIN PLACE PREP
-an	ART DET INDA
-artefact	NN
-.	
-By	PIN CAP PREP
-keeping	PGAS
-the	ART DET
-artefact	NN
-away	RB PLACE
-from	PIN PREP
-the	ART DET
-air	NN
-waterlogging	GER
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-preserve	INF
-perishable	JJ
-artefacts	NN
-for	PIN PREP
-longer	JJ CMADJ
-periods	NN
-of	PIN PREP
-time	NN
-than	PIN PREP
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-were	PASS VBD AUXB
-buried	
-with	PIN PREP
-contact	NN
-to	PIN PREP
-the	ART DET
-air	NN
-.	
-Thus	RB CONJ CAP
-,	
-in	PIN CONJ PREP
-a	ART DET INDA
-site	NN
-which	WHSUB DET WH
-has	VPRT PEAS
-been	PASS AUXB
-waterlogged	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-archaeological	JJ
-horizon	NN
-was	PASS VBD AUXB
-deposited	
-,	
-extraordinary	JJ
-insight	NN
-may	POMD
-be	PASS BYPA AUXB INF
-obtained	
-by	PIN PREP
-study	NN
-of	PIN PREP
-artefacts	NN
-of	PIN PREP
-leather	NN
-,	
-wood	NN
-,	
-textile	NN
-or	CCONJ
-similar	JJ
-materials	NN
-.	
-In	PIN CONJ CAP PREP
-dendrochronology	NN
-,	
-the	ART DET
-age	NN
-of	PIN PREP
-wood	NN
-can	POMD
-be	PASS AUXB INF
-determined	PRIV SUAV
-through	PIN PREP
-the	ART DET
-counting	NN
-of	PIN PREP
-the	ART DET
-number	NN
-of	PIN PREP
-annual	JJ
-rings	NN
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-cross	NN
-section	NOMZ
-.	
-Tree	NN CAP
-ring	NN
-growth	NN
-reflects	VPRT PRIV
-the	ART DET
-rainfall	NN
-conditions	NOMZ
-that	TSUB WHSUB WH
-prevailed	VBD
-during	PIN PREP
-the	ART DET
-years	NN
-of	PIN PREP
-the	ART DET
-tree	NN
-'s	
-life	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-rainfall	NN
-patterns	NN
-vary	VPRT
-annually	RB
-,	
-any	QUAN DET
-given	
-set	NN
-of	PIN PREP
-tree	NN
-ring	NN
-patterns	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-region	NN
-will	PRMD
-form	INF
-a	ART DET INDA
-relatively	RB
-distinct	JJ
-pattern	NN
-,	
-identifiable	JJ
-with	PIN PREP
-a	ART DET INDA
-particular	JJ CONJ
-set	NN
-of	PIN PREP
-years	NN
-.	
-By	PIN CAP PREP
-comparing	PGAS
-the	ART DET
-pattern	NN
-of	PIN PREP
-tree	NN
-rings	NN
-in	PIN CONJ PREP
-trees	NN
-whose	WHOBJ DET WH
-lifespans	NN
-partially	DWNT RB
-overlap	VPRT
-;	
-these	DEMO DET
-patterns	NN
-can	POMD
-be	PASS AUXB INF
-extended	
-back	RB
-in	PIN CONJ PREP
-time	NN
-.	
-By	PIN CAP PREP
-matching	PGAS
-the	ART DET
-tree	NN
-rings	NN
-on	PIN PREP
-an	ART DET INDA
-archaeological	JJ
-sample	NN
-to	PIN PREP
-the	ART DET
-master	NN
-sequence	NN
-of	PIN PREP
-tree	NN
-ring	NN
-patterns	NN
-,	
-the	ART DET
-absolute	JJ
-age	NN
-of	PIN PREP
-a	ART DET INDA
-sample	NN
-is	PASS VPRT AUXB
-established	PRIV
-.	
-In	PIN CONJ CAP PREP
-Central	CAP NNP
-Europe	CAP NNP
-dendrochronology	NN
-sequences	NN
-are	PASS VPRT AUXB
-made	
-easier	JJ CMADJ
-since	OSUB PIN SCONJ PREP
-the	ART DET
-wood	NN
-in	PIN CONJ PREP
-the	ART DET
-trees	NN
-is	PASS VPRT AUXB
-preserved	
-through	PIN PREP
-waterlogging	GER
-.	
-Waterlogging	GER CAP
-also	RB
-helps	VPRT
-to	PIN TO PREP
-preserve	INF
-fossilised	JJ
-insect	NN
-remains	NN
-.	
-The	ART CAP DET
-best	JJ SPADJ
-sites	NN
-for	PIN PREP
-these	DEMO DET
-results	NN
-are	VPRT AUXB
-peat	NN
-bogs	NN
-and	CCONJ
-organic	JJ
-lakes	NN
-/	
-river	NN
-clays	NN
-,	
-where	RB SCONJ WH
-the	ART DET
-high	JJ
-levels	NN
-of	PIN PREP
-water	NN
-reduce	INF
-the	ART DET
-amount	NN
-of	PIN PREP
-oxygen	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-there	EX
-is	VPRT AUXB
-lower	JJ CMADJ
-biological	JJ
-action	NOMZ
-.	
-Wet	CAP INF
-soils	NN
-and	PHC CCONJ
-clays	NN
-which	WHSUB DET WH
-have	VPRT PEAS SPAU
-not	XX0 RB
-been	BEMA AUXB
-subject	JJ PRED
-to	PIN PREP
-much	QUAN JJ
-hydrological	JJ
-variation	NOMZ
-are	BEMA VPRT AUXB
-also	RB
-good	JJ
-.	
-Frozen	JJ CAP
-sediments	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-permafrost	NN
-of	PIN PREP
-Artic	JJ CAP
-sites	NN
-are	BEMA VPRT AUXB
-excellent	JJ PRED
-,	
-as	PIN CONJ PREP
-seen	PRIV
-in	PIN CONJ PREP
-the	ART DET
-specimens	NN
-from	PIN PREP
-the	ART DET
-Norse	CAP NNP
-farm	NN
-site	NN
-of	PIN PREP
-GUS	CAP NNP
-in	PIN CONJ PREP
-Greenland	CAP NNP
-.	
-Arneborg	CAP NNP
-J.	CAP NNP
-&	CCONJ
-Gulløv	CAP NNP
-H.C.	CAP NNP
-1998	NUM
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-best	JJ SPADJ
-examples	NN
-of	PIN PREP
-waterlogging	GER PGAS
-successfully	RB
-preserving	GER PGAS
-relics	NN
-is	BEMA VPRT AUXB
-the	ART DET
-excavation	NOMZ
-of	PIN PREP
-Star	CAP NNP
-Carr	CAP NNP
-,	
-East	CAP NNP
-Yorkshire	CAP NNP
-,	
-by	PIN PREP
-Sir	CAP NNP
-Grahame	CAP NNP
-Clark	CAP NNP
-in	PIN CONJ PREP
-1949	NUM
-.	
-Spectacularly	RB CAP
-,	
-Clarke	CAP NNP
-discovered	VBD PRIV
-over	PIN PREP
-190	NUM
-well	RB
--	
-preserved	
-barbed	JJ
-antler	NN
-points	NN
-(	
-over	PIN PREP
-ten	NUM
-times	NN
-the	ART DET
-previous	JJ
-total	NN
-from	PIN PREP
-the	ART DET
-whole	NN
-of	PIN PREP
-Britain	CAP NNP
-)	
-together	RB
-with	PIN PREP
-a	ART DET INDA
-number	NN
-of	PIN PREP
-elk	NNP
-antler	NNP
-`	
-mattock	JJ
--	
-heads	NN
-'	CONT QUOT
-(	
-perhaps	RB
-used	
-as	PIN CONJ PREP
-digging	PGAS
-sticks	NN
-)	
-and	ANDC CCONJ
-bone	NN
-scraping	WZPRES PGAS
-tools	NN
-.	
-Alongside	PIN PLACE CAP PREP
-this	DEMO DET
-he	TPP3 PRP SBJP
-also	RB
-found	VBD PRIV
-21	NUM
-red	JJ
-deer	NN
-antler	NNP
-`	
-head	NN
--	
-dresses	NN
-'	CONT QUOT
-(	
-either	CCONJ
-hunting	PGAS
-disguises	NN
-for	PIN PREP
-stalking	PGAS
-the	ART DET
-deer	NN
-,	
-or	CCONJ
-quite	RB
-possibly	RB
-ceremonial	JJ
-head	NN
--	
-gear	NN
-used	WZPAST
-in	PIN CONJ PREP
-rituals	NN
-)	
-,	
-a	ART DET INDA
-large	JJ
-part	NN
-of	PIN PREP
-a	ART DET INDA
-birch	NN
--	
-wood	NN
-paddle	NN
-,	
-at	PIN PREP
-least	JJ SPADJ
-a	ART DET INDA
-dozen	NN
-perforated	
-stone	NN
-beads	NN
-,	
-and	ANDC CCONJ
-a	ART DET INDA
-rich	JJ
-collection	NOMZ
-of	PIN PREP
-flint	JJ
-tools	NN
-ranging	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-small	JJ
-`	
-microlithic	JJ
-'	CONT QUOT
-tips	NN
-and	PHC CCONJ
-barbs	NN
-of	PIN PREP
-arrows	NN
-to	PIN PREP
-larger	JJ CMADJ
-axe-	JJ
-or	CCONJ
-adze	JJ
--	
-like	JJ
-woodworking	GER
-tools	NN
-.	
-The	ART CAP DET
-site	NN
-had	VBD PEAS
-been	BEMA AUXB
-a	ART DET INDA
-lake	NN
-in	PIN CONJ PREP
-prehistory	NN
-and	CCONJ
-had	VBD
-since	OSUB PIN SCONJ PREP
-become	
-an	ART DET INDA
-area	NN
-of	PIN PREP
-lowland	NNP
-peat	NN
-bog	NNP
-until	PIN STPR PREP
-,	
-in	PIN CONJ PREP
-the	ART DET
-18	NUM
-th	JJ CMADJ
-century	NN
-it	PIT PRP SBJP
-was	PASS VBD SPAU AUXB
-eventually	RB TIME
-drained	
-for	PIN PREP
-agriculture	NN
-.	
-Clarke	CAP NNP
-dug	VBD
-an	ART DET INDA
-area	NN
-of	PIN PREP
-around	PIN PLACE PREP
-300	NUM
-square	JJ
-meters	NN
-by	PIN PREP
-the	ART DET
-edge	NN
-of	PIN PREP
-the	ART DET
-ancient	JJ
-lake	NN
-to	PIN TO PREP
-make	INF
-his	TPP3 PRP SBJP
-discovery	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-the	ART DET
-excavation	NOMZ
-area	NN
-at	PIN PREP
-Star	CAP NNP
-Carr	CAP NNP
-was	PASS VBD BYPA AUXB
-located	
-right	RB
-by	PIN PREP
-the	ART DET
-direct	JJ
-shore	NN
-of	PIN PREP
-the	ART DET
-lake	NN
-the	ART DET
-artefacts	NN
-of	PIN PREP
-antler	NN
-,	
-bone	NN
-and	PHC CCONJ
-wood	NN
-were	BEMA VBD AUXB
-all	QUAN DET
-extremely	AMP RB
-well	RB
-preserved	
-in	PIN CONJ PREP
-the	ART DET
-waterlogged	
-peat	NN
-deposits	NN
-which	WHSUB DET WH
-evidently	RB
-acted	VBD
-quite	RB
-like	PIN PREP
-a	ART DET INDA
-rubbish	NN
--	
-disposal	NN
-zone	NN
-immediately	RB TIME
-in	PIN CONJ PREP
-front	NN
-of	PIN PREP
-the	ART DET
-site	NN
-and	CCONJ
-helped	VBD
-to	PIN TO PREP
-preserve	INF
-the	ART DET
-remains	NN
-.	
-The	ART CAP DET
-conditions	NOMZ
-by	PIN PREP
-the	ART DET
-lake	NN
-shore	NNP
-had	VBD PEAS
-created	
-a	ART DET INDA
-superbly	RB
-well	RB
-preserved	
-site	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-Clarke	CAP NNP
-could	POMD
-make	INF
-his	TPP3 PRP SBJP
-discovery	NN
-due	PIN PREP
-to	PIN PREP
-waterlogging	GER
-and	ANDC CCONJ
-he	TPP3 PRP SBJP
-was	BEMA VBD AUXB
-able	JJ PRED
-to	PIN TO PREP
-use	INF
-radiocarbon	NN
-dating	WZPRES PGAS
-to	PIN TO PREP
-date	INF
-the	ART DET
-site	NN
-to	PIN PREP
-around	PIN PLACE PREP
-7500BC	NNP
-.	
-The	ART CAP DET
-waterlogged	
-conditions	NOMZ
-in	PIN CONJ PREP
-Star	CAP NNP
-Carr	CAP NNP
-have	VPRT PEAS
-meant	PRIV
-that	PIN THVC SCONJ PREP
-successful	JJ
-excavations	NOMZ
-of	PIN PREP
-the	ART DET
-sight	NN
-have	VPRT PEAS
-been	BEMA AUXB
-able	JJ PRED
-to	PIN TO PREP
-continue	INF
-right	RB
-up	RB
-into	PIN PREP
-the	ART DET
-1980s	NN
-when	RB WHOBJ SCONJ WH
-Tim	CAP NNP
-Schadla	CAP NNP
--	
-Hall	CAP NNP
-(	
-in	PIN CONJ PREP
-association	NOMZ
-with	PIN PREP
-Cambridge	CAP NNP
-University	CAP NNP
-)	
-re	PIN PREP
--	VBD
-excavated	VBD
-the	ART DET
-site	NN
-.	
-Mellars	NN CAP
-.	
-1999	NUM
-.	
-Waterlogging	GER CAP
-has	VPRT PEAS
-proved	PRIV
-especially	RB
-useful	JJ
-in	PIN CONJ PREP
-the	ART DET
-preservation	NOMZ
-of	PIN PREP
-prehistoric	JJ
-human	JJ
-remains	NN
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	term	NN
+gap	 '	
+word	waterlogged	
+gap	' 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	exclusion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oxygen	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	presence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	groundwater	NN
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	artefact	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	keeping	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	artefact	NN
+gap	 	
+word	away	RB PLACE
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	air	NN
+gap	 	
+word	waterlogging	GER
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	preserve	INF
+gap	 	
+word	perishable	JJ
+gap	 	
+word	artefacts	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	longer	JJ CMADJ
+gap	 	
+word	periods	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	time	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	buried	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	contact	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	air	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	site	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	waterlogged	
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	archaeological	JJ
+gap	 	
+word	horizon	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	deposited	
+gap	, 	
+word	extraordinary	JJ
+gap	 	
+word	insight	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	obtained	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	artefacts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	leather	NN
+gap	, 	
+word	wood	NN
+gap	, 	
+word	textile	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	similar	JJ
+gap	 	
+word	materials	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	dendrochronology	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	age	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	wood	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	determined	PRIV SUAV
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	counting	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	annual	JJ
+gap	 	
+word	rings	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	cross	NN
+gap	 	
+word	section	NOMZ
+gap	. 	
+word	Tree	NN CAP
+gap	 	
+word	ring	NN
+gap	 	
+word	growth	NN
+gap	 	
+word	reflects	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	rainfall	NN
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	prevailed	VBD
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	years	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	tree	NN
+gap	'	
+word	s	
+gap	 	
+word	life	NN
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	rainfall	NN
+gap	 	
+word	patterns	NN
+gap	 	
+word	vary	VPRT
+gap	 	
+word	annually	RB
+gap	, 	
+word	any	QUAN DET
+gap	 	
+word	given	
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tree	NN
+gap	 	
+word	ring	NN
+gap	 	
+word	patterns	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	region	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	form	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	relatively	RB
+gap	 	
+word	distinct	JJ
+gap	 	
+word	pattern	NN
+gap	, 	
+word	identifiable	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	set	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	years	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	comparing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	pattern	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tree	NN
+gap	 	
+word	rings	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	trees	NN
+gap	 	
+word	whose	WHOBJ DET WH
+gap	 	
+word	lifespans	NN
+gap	 	
+word	partially	DWNT RB
+gap	 	
+word	overlap	VPRT
+gap	; 	
+word	these	DEMO DET
+gap	 	
+word	patterns	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	extended	
+gap	 	
+word	back	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	time	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	matching	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	tree	NN
+gap	 	
+word	rings	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	archaeological	JJ
+gap	 	
+word	sample	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	master	NN
+gap	 	
+word	sequence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tree	NN
+gap	 	
+word	ring	NN
+gap	 	
+word	patterns	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	absolute	JJ
+gap	 	
+word	age	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	sample	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	established	PRIV
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Central	CAP NNP
+gap	 	
+word	Europe	CAP NNP
+gap	 	
+word	dendrochronology	NN
+gap	 	
+word	sequences	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	made	
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	wood	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	trees	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	preserved	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	waterlogging	GER
+gap	. 	
+word	Waterlogging	GER CAP
+gap	 	
+word	also	RB
+gap	 	
+word	helps	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	preserve	INF
+gap	 	
+word	fossilised	JJ
+gap	 	
+word	insect	NN
+gap	 	
+word	remains	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	sites	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	results	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	peat	NN
+gap	 	
+word	bogs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	organic	JJ
+gap	 	
+word	lakes	NN
+gap	/	
+word	river	NN
+gap	 	
+word	clays	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	high	JJ
+gap	 	
+word	levels	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	water	NN
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oxygen	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	biological	JJ
+gap	 	
+word	action	NOMZ
+gap	. 	
+word	Wet	CAP INF
+gap	 	
+word	soils	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	clays	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	have	VPRT PEAS SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	subject	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	hydrological	JJ
+gap	 	
+word	variation	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	good	JJ
+gap	. 	
+word	Frozen	JJ CAP
+gap	 	
+word	sediments	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	permafrost	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Artic	JJ CAP
+gap	 	
+word	sites	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	excellent	JJ PRED
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	seen	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	specimens	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Norse	CAP NNP
+gap	 	
+word	farm	NN
+gap	 	
+word	site	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	GUS	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Greenland	CAP NNP
+gap	 . 	
+word	Arneborg	CAP NNP
+gap	 	
+word	J	CAP NNP
+gap	. & 	
+word	Gulløv	
+gap	 	
+word	H	
+gap	.	
+word	C	
+gap	. 1998 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	examples	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	waterlogging	GER PGAS
+gap	 	
+word	successfully	RB
+gap	 	
+word	preserving	GER PGAS
+gap	 	
+word	relics	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	excavation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Star	CAP NNP
+gap	 	
+word	Carr	CAP NNP
+gap	, 	
+word	East	CAP NNP
+gap	 	
+word	Yorkshire	CAP NNP
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	Sir	CAP NNP
+gap	 	
+word	Grahame	CAP NNP
+gap	 	
+word	Clark	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1949. 	
+word	Spectacularly	RB CAP
+gap	, 	
+word	Clarke	CAP NNP
+gap	 	
+word	discovered	VBD PRIV
+gap	 	
+word	over	PIN PREP
+gap	 190 	
+word	well	RB
+gap	-	
+word	preserved	
+gap	 	
+word	barbed	JJ
+gap	 	
+word	antler	NN
+gap	 	
+word	points	NN
+gap	 (	
+word	over	PIN PREP
+gap	 	
+word	ten	NUM
+gap	 	
+word	times	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	previous	JJ
+gap	 	
+word	total	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	whole	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Britain	CAP NNP
+gap	) 	
+word	together	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	elk	NNP
+gap	 	
+word	antler	NNP
+gap	 `	
+word	mattock	JJ
+gap	-	
+word	heads	NN
+gap	' (	
+word	perhaps	RB
+gap	 	
+word	used	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	digging	PGAS
+gap	 	
+word	sticks	NN
+gap	) 	
+word	and	ANDC CCONJ
+gap	 	
+word	bone	NN
+gap	 	
+word	scraping	WZPRES PGAS
+gap	 	
+word	tools	NN
+gap	. 	
+word	Alongside	PIN PLACE CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	found	VBD PRIV
+gap	 21 	
+word	red	JJ
+gap	 	
+word	deer	NN
+gap	 	
+word	antler	NNP
+gap	 `	
+word	head	NN
+gap	-	
+word	dresses	NN
+gap	' (	
+word	either	CCONJ
+gap	 	
+word	hunting	PGAS
+gap	 	
+word	disguises	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	stalking	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	deer	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	quite	RB
+gap	 	
+word	possibly	RB
+gap	 	
+word	ceremonial	JJ
+gap	 	
+word	head	NN
+gap	-	
+word	gear	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	rituals	NN
+gap	), 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	birch	NN
+gap	-	
+word	wood	NN
+gap	 	
+word	paddle	NN
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	least	JJ SPADJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	dozen	NN
+gap	 	
+word	perforated	
+gap	 	
+word	stone	NN
+gap	 	
+word	beads	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rich	JJ
+gap	 	
+word	collection	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	flint	JJ
+gap	 	
+word	tools	NN
+gap	 	
+word	ranging	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	small	JJ
+gap	 `	
+word	microlithic	JJ
+gap	' 	
+word	tips	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	barbs	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	arrows	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	larger	JJ CMADJ
+gap	 	
+word	axe	JJ
+gap	- 	
+word	or	CCONJ
+gap	 	
+word	adze	JJ
+gap	-	
+word	like	JJ
+gap	 	
+word	woodworking	GER
+gap	 	
+word	tools	NN
+gap	 . 	
+word	The	ART CAP DET
+gap	 	
+word	site	NN
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	lake	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	prehistory	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	had	VBD
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	become	
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	area	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	lowland	NNP
+gap	 	
+word	peat	NN
+gap	 	
+word	bog	NNP
+gap	 	
+word	until	PIN STPR PREP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 18 	
+word	th	JJ CMADJ
+gap	 	
+word	century	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	eventually	RB TIME
+gap	 	
+word	drained	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	agriculture	NN
+gap	. 	
+word	Clarke	CAP NNP
+gap	 	
+word	dug	VBD
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	area	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	around	PIN PLACE PREP
+gap	 300 	
+word	square	JJ
+gap	 	
+word	meters	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	edge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	ancient	JJ
+gap	 	
+word	lake	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	discovery	NN
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	excavation	NOMZ
+gap	 	
+word	area	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	Star	CAP NNP
+gap	 	
+word	Carr	CAP NNP
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	located	
+gap	 	
+word	right	RB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	direct	JJ
+gap	 	
+word	shore	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lake	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	artefacts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	antler	NN
+gap	, 	
+word	bone	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	wood	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	well	RB
+gap	 	
+word	preserved	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	waterlogged	
+gap	 	
+word	peat	NN
+gap	 	
+word	deposits	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	evidently	RB
+gap	 	
+word	acted	VBD
+gap	 	
+word	quite	RB
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rubbish	NN
+gap	-	
+word	disposal	NN
+gap	 	
+word	zone	NN
+gap	 	
+word	immediately	RB TIME
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	front	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	site	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	helped	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	preserve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	remains	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lake	NN
+gap	 	
+word	shore	NNP
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	created	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	superbly	RB
+gap	 	
+word	well	RB
+gap	 	
+word	preserved	
+gap	 	
+word	site	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	Clarke	CAP NNP
+gap	 	
+word	could	POMD
+gap	 	
+word	make	INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	discovery	NN
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	waterlogging	GER
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	radiocarbon	NN
+gap	 	
+word	dating	WZPRES PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	date	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	site	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	around	PIN PLACE PREP
+gap	 7500	
+word	BC	NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	waterlogged	
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Star	CAP NNP
+gap	 	
+word	Carr	CAP NNP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	meant	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	successful	JJ
+gap	 	
+word	excavations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sight	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	continue	INF
+gap	 	
+word	right	RB
+gap	 	
+word	up	RB
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 1980	
+word	s	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	Tim	CAP NNP
+gap	 	
+word	Schadla	CAP NNP
+gap	-	
+word	Hall	CAP NNP
+gap	 (	
+word	in	PIN CONJ PREP
+gap	 	
+word	association	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	Cambridge	CAP NNP
+gap	 	
+word	University	CAP NNP
+gap	) 	
+word	re	PIN PREP
+gap	-	
+word	excavated	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	site	NN
+gap	. 	
+word	Mellars	NN CAP
+gap	. 1999. 	
+word	Waterlogging	GER CAP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	proved	PRIV
+gap	 	
+word	especially	RB
+gap	 	
+word	useful	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	preservation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	prehistoric	JJ
+gap	 	
+word	human	JJ
+gap	 	
+word	remains	NN
+gap	.	

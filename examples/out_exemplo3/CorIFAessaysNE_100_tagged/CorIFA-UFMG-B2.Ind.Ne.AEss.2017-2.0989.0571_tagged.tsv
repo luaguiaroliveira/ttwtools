@@ -1,638 +1,1069 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0989.0571.txt
-token	tags
-﻿	NNP
-    	
-Mammals	CAP NNP
-are	BEMA VPRT AUXB
-an	ART DET INDA
-ecologically	RB
-important	JJ
-group	NN
-of	PIN PREP
-vertebrates	NN
-,	
-acting	PGAS
-as	PIN CONJ PREP
-important	JJ
-herbivores	NN
-and	PHC CCONJ
-predators	NN
-of	PIN PREP
-animals	NN
-,	
-besides	PIN SCONJ PREP
-playing	PGAS
-a	ART DET INDA
-fundamental	JJ
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-dispersion	NOMZ
-of	PIN PREP
-seeds	NN
-and	CCONJ
-consequent	JJ
-regeneration	NOMZ
-of	PIN PREP
-the	ART DET
-forests	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-they	TPP3 PRP SBJP
-play	VPRT
-a	ART DET INDA
-fundamental	JJ
-role	NN
-in	PIN CONJ PREP
-maintaining	GER PUBV PGAS
-the	ART DET
-equilibrium	NN
-of	PIN PREP
-ecosystems	NN
-(	
-ABREU	CAP NNP
-,	
-2009	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-highly	AMP RB
-urbanized	JJ
-areas	NN
-,	
-an	ART DET INDA
-important	JJ
-aspect	NN
-is	BEMA VPRT AUXB
-the	ART DET
-structural	JJ
-simplification	NOMZ
-of	PIN PREP
-vegetation	NOMZ
-,	
-which	SERE DET WH
-harms	VPRT
-many	QUAN JJ
-species	NN
-of	PIN PREP
-small	JJ
-mammals	NN
-and	CCONJ
-other	JJ
-animals	NN
-,	
-because	CAUS PIN SCONJ PREP
-resources	NN
-such	JJ
-as	PIN CONJ PREP
-food	NN
-and	PHC CCONJ
-shelter	NN
-are	PASS VPRT AUXB
-reduced	
-in	PIN CONJ PREP
-quantity	NOMZ
-and	PHC CCONJ
-quality	NOMZ
-(	
-EVELYN	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2004	NUM
-)	
-.	
-According	CAP PGAS
-to	PIN PREP
-Chiarello	CAP NNP
-(	
-2000	NUM
-)	
-,	
-in	PIN CONJ PREP
-urban	JJ
-environments	NOMZ
-,	
-small	JJ
-fragments	NOMZ
-support	VPRT
-only	DWNT RB
-small	JJ
-populations	NOMZ
-,	
-being	BEMA AUXB
-more	RB EMPH CMADJ
-susceptible	JJ
-to	PIN PREP
-local	JJ
-extinction	NOMZ
-.	
-These	DEMP CAP DET
-remaining	PGAS
-fragments	NOMZ
-are	BEMA VPRT AUXB
-of	PIN PREP
-extreme	JJ
-importance	NN
-for	PIN PREP
-the	ART DET
-maintenance	NN
-of	PIN PREP
-the	ART DET
-local	JJ
-biodiversity	NOMZ
-and	CCONJ
-can	POMD SPAU
-also	RB
-hold	PRIV INF
-important	JJ
-samples	NN
-of	PIN PREP
-the	ART DET
-fauna	NN
-(	
-SANTOS	NN CAP
-,	
-2008	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-context	NN
-,	
-the	ART DET
-surveys	NN
-of	PIN PREP
-mammals	NN
-acquires	VPRT
-particular	JJ CONJ
-importance	NN
-,	
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-degree	NN
-of	PIN PREP
-threat	NN
-and	CCONJ
-ecological	JJ
-importance	NN
-of	PIN PREP
-the	ART DET
-group	NN
-(	
-PARDINI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2003	NUM
-)	
-,	
-besides	PIN SCONJ PREP
-being	PASS AUXB
-considered	PRIV
-important	JJ
-for	PIN PREP
-the	ART DET
-definition	NOMZ
-of	PIN PREP
-conservation	NOMZ
-strategies	NN
-of	PIN PREP
-natural	JJ
-areas	NN
-(	
-VOGEL	CAP NNP
-,	
-2010	NUM
-)	
-.	
- 	
-Urbanization	CAP NNP
-has	VPRT
-a	ART DET INDA
-great	JJ
-impact	NN
-on	PIN PREP
-wildlife	NN
-,	
-as	PIN CONJ PREP
-changes	NN
-of	PIN PREP
-the	ART DET
-natural	JJ
-habitat	NN
-generated	WZPAST
-by	PIN PREP
-this	DEMO DET
-process	NN
-are	BEMA VPRT AUXB
-drastic	JJ PRED
-and	PHC CCONJ
-comprehensive	JJ PRED
-(	
-MCKINNEY	CAP NNP
-,	
-2002	NUM
-)	
-.	
-Certain	JJ CAP
-aspects	NN
-of	PIN PREP
-urban	JJ
-development	NOMZ
-promote	INF
-the	ART DET
-loss	NN
-of	PIN PREP
-species	NN
-diversity	NOMZ
-.	
-One	CAP NUM
-of	PIN PREP
-these	DEMP DET
-is	BEMA VPRT AUXB
-the	ART DET
-species	NN
--	
-area	NN
-effect	NN
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-increase	NN
-of	PIN PREP
-impermeable	JJ
-surfaces	NN
-in	PIN CONJ PREP
-urban	JJ
-areas	NN
-reduces	VPRT
-and	PHC CCONJ
-fragments	VPRT
-the	ART DET
-area	NN
-available	JJ
-for	PIN PREP
-animals	NN
-and	PHC CCONJ
-plants	NN
-(	
-MCKINNEY	CAP NNP
-,	
-2006	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-some	QUAN DET
-cities	NN
-,	
-more	JJ EMPH CMADJ
-than	PIN PREP
-80	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-central	JJ
-urban	JJ
-area	NN
-is	PASS VPRT BYPA AUXB
-covered	
-by	PIN PREP
-pavements	NOMZ
-and	PHC CCONJ
-buildings	NN
-,	
-leaving	PGAS
-few	QUAN JJ
-available	JJ
-natural	JJ
-areas	NN
-(	
-BLAIR	CAP NNP
-&	CCONJ
-LAUNER	CAP NNP
-,	
-1997	NUM
-)	
-.	
- 	
-In	PIN CONJ CAP PREP
-urban	JJ
-environments	NOMZ
-,	
-different	JJ
-species	NN
-of	PIN PREP
-mammals	NN
-adapt	VPRT
-differently	RB
-to	PIN PREP
-anthropogenic	JJ
-changes	NN
-,	
-and	ANDC CCONJ
-usually	RB
-only	DWNT RB
-a	ART DET INDA
-small	JJ
-part	NN
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-establish	PRIV INF
-populations	NOMZ
-in	PIN CONJ PREP
-urbanized	JJ
-habitats	NN
-(	
-HARRIS	CAP NNP
-&	CCONJ
-YALDEN	CAP NNP
-,	
-2003	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-fragmented	JJ
-landscapes	NN
-the	ART DET
-extinction	NOMZ
-of	PIN PREP
-species	NN
-and	CCONJ
-the	ART DET
-alteration	NOMZ
-of	PIN PREP
-the	ART DET
-fauna	NNP
-community	NOMZ
-have	VPRT PEAS
-been	PASS BYPA AUXB
-documented	
-by	PIN PREP
-researchers	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-and	ANDC CCONJ
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-.	
-The	ART CAP DET
-remaining	PGAS
-forest	NN
-remnants	NN
-reach	VPRT
-a	ART DET INDA
-high	JJ
-degree	NN
-of	PIN PREP
-importance	NN
-in	PIN CONJ PREP
-conservation	NOMZ
-biology	NN
-,	
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-responsible	JJ PRED
-for	PIN PREP
-maintaining	GER PUBV PGAS
-part	NN
-of	PIN PREP
-the	ART DET
-regional	JJ
-biota	NN
-.	
-These	DEMP CAP DET
-remaining	PGAS
-fragments	NOMZ
-are	BEMA VPRT AUXB
-of	PIN PREP
-extreme	JJ
-importance	NN
-for	PIN PREP
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-life	NN
-of	PIN PREP
-the	ART DET
-people	NN
-and	CCONJ
-for	PIN PREP
-the	ART DET
-maintenance	NN
-of	PIN PREP
-local	JJ
-biodiversity	NOMZ
-,	
-they	TPP3 PRP SBJP
-can	POMD SPAU
-also	RB
-keep	INF
-important	JJ
-samples	NN
-of	PIN PREP
-the	ART DET
-fauna	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-often	RB
-unknown	JJ
-to	PIN PREP
-the	ART DET
-local	JJ
-scientific	JJ
-community	NOMZ
-and	CCONJ
-the	ART DET
-population	NOMZ
-in	PIN CONJ PREP
-general	JJ
-(	
-SANTOS	NN CAP
-,	
-2008	NUM
-)	
-.	
- 	
-The	ART CAP DET
-knowledge	NN
-of	PIN PREP
-the	ART DET
-species	NN
-occurring	WZPRES PGAS
-in	PIN CONJ PREP
-a	ART DET INDA
-given	
-area	NN
-is	BEMA VPRT AUXB
-essential	JJ PRED
-for	PIN PREP
-the	ART DET
-establishment	NOMZ
-of	PIN PREP
-management	NOMZ
-and	PHC CCONJ
-conservation	NOMZ
-strategies	NN
-.	
-Studies	NN CAP
-on	PIN PREP
-fauna	NN
-inventories	NN
-contribute	VPRT
-to	PIN PREP
-scientific	JJ
-and	PHC CCONJ
-popular	JJ
-knowledge	NN
-,	
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-enable	VPRT
-the	ART DET
-making	NN
-of	PIN PREP
-species	NN
-lists	NN
-and	CCONJ
-further	RB
-reduce	INF
-prejudice	NN
-and	CCONJ
-inform	INF
-the	ART DET
-ecological	JJ
-importance	NN
-of	PIN PREP
-the	ART DET
-animals	NN
-,	
-allied	PASTP
-to	PIN PREP
-initiatives	NN
-of	PIN PREP
-environmental	JJ
-education	NOMZ
-.	
-These	DEMO CAP DET
-searches	NN
-enable	VPRT
-greater	JJ CMADJ
-knowledge	NN
-of	PIN PREP
-the	ART DET
-fauna	NN
-of	PIN PREP
-the	ART DET
-city	NN
-and	CCONJ
-,	
-in	PIN CONJ PREP
-addition	NOMZ
-,	
-connects	VPRT
-the	ART DET
-population	NOMZ
-with	PIN PREP
-nature	NN
-,	
-contributing	GER PGAS
-with	PIN PREP
-the	ART DET
-effort	NN
-to	PIN TO PREP
-maintain	PUBV INF
-and	PHC CCONJ
-recover	INF
-the	ART DET
-biodiversity	NOMZ
-of	PIN PREP
-the	ART DET
-city	NN
-.	
- 	
-Diagnose	NN CAP
-and	CCONJ
-recognize	PRIV INF
-the	ART DET
-fauna	NN
-of	PIN PREP
-an	ART DET INDA
-area	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-slow	JJ
-process	NN
-and	CCONJ
-always	RB
-under	PIN PREP
-construction	NOMZ
-.	
-The	ART CAP DET
-results	NN
-of	PIN PREP
-these	DEMO DET
-researches	NN
-may	POMD
-provide	INF
-support	NN
-for	PIN PREP
-further	JJ
-work	NN
-that	TSUB WHSUB WH
-results	VPRT
-in	PIN CONJ PREP
-the	ART DET
-diagnosis	NN
-of	PIN PREP
-the	ART DET
-situation	NOMZ
-of	PIN PREP
-the	ART DET
-group	NN
-in	PIN CONJ PREP
-urban	JJ
-parks	NN
-.	
-These	DEMO CAP DET
-data	NN
-can	POMD SPAU
-also	RB
-be	PASS AUXB INF
-used	
-in	PIN CONJ PREP
-the	ART DET
-formulation	NOMZ
-of	PIN PREP
-conservation	NOMZ
-strategies	NN
-of	PIN PREP
-the	ART DET
-fauna	NN
-of	PIN PREP
-parks	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-surroundings	GER
-,	
-and	ANDC CCONJ
-may	POMD SPAU
-also	RB
-be	PASS AUXB INF
-used	
-in	PIN CONJ PREP
-dissemination	NOMZ
-and	CCONJ
-environmental	JJ
-education	NOMZ
-.	
- 	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0989.0571>\n\n<The importance of mammal’s surveys in urban parks>\n\n	
+word	Mammals	CAP NNP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	ecologically	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	group	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vertebrates	NN
+gap	, 	
+word	acting	PGAS
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	important	JJ
+gap	 	
+word	herbivores	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	predators	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	animals	NN
+gap	, 	
+word	besides	PIN SCONJ PREP
+gap	 	
+word	playing	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dispersion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	seeds	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	consequent	JJ
+gap	 	
+word	regeneration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	forests	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	play	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	maintaining	GER PUBV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	equilibrium	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	ecosystems	NN
+gap	 (	
+word	ABREU	CAP NNP
+gap	, 2009). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	urbanized	JJ
+gap	 	
+word	areas	NN
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	aspect	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	structural	JJ
+gap	 	
+word	simplification	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vegetation	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	harms	VPRT
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	species	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	small	JJ
+gap	 	
+word	mammals	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	animals	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	resources	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	food	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	shelter	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	reduced	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	quality	NOMZ
+gap	 (	
+word	EVELYN	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2004). 	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Chiarello	CAP NNP
+gap	 (2000), 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	environments	NOMZ
+gap	, 	
+word	small	JJ
+gap	 	
+word	fragments	NOMZ
+gap	 	
+word	support	VPRT
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	small	JJ
+gap	 	
+word	populations	NOMZ
+gap	, 	
+word	being	BEMA AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	susceptible	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	local	JJ
+gap	 	
+word	extinction	NOMZ
+gap	. 	
+word	These	DEMP CAP DET
+gap	 	
+word	remaining	PGAS
+gap	 	
+word	fragments	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extreme	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	maintenance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	local	JJ
+gap	 	
+word	biodiversity	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	hold	PRIV INF
+gap	 	
+word	important	JJ
+gap	 	
+word	samples	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fauna	NN
+gap	 (	
+word	SANTOS	NN CAP
+gap	, 2008). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	surveys	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mammals	NN
+gap	 	
+word	acquires	VPRT
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	importance	NN
+gap	, 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	degree	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	threat	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	ecological	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	group	NN
+gap	 (	
+word	PARDINI	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2003), 	
+word	besides	PIN SCONJ PREP
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	important	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	definition	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	strategies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	areas	NN
+gap	 (	
+word	VOGEL	CAP NNP
+gap	, 2010).\n	
+word	Urbanization	CAP NNP
+gap	 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	impact	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	wildlife	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	changes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	natural	JJ
+gap	 	
+word	habitat	NN
+gap	 	
+word	generated	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	process	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	drastic	JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	comprehensive	JJ PRED
+gap	 (	
+word	MCKINNEY	CAP NNP
+gap	, 2002). 	
+word	Certain	JJ CAP
+gap	 	
+word	aspects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	promote	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	loss	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	species	NN
+gap	 	
+word	diversity	NOMZ
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	species	NN
+gap	-	
+word	area	NN
+gap	 	
+word	effect	NN
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	impermeable	JJ
+gap	 	
+word	surfaces	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	reduces	VPRT
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	fragments	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	 	
+word	available	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	animals	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	plants	NN
+gap	 (	
+word	MCKINNEY	CAP NNP
+gap	, 2006). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	cities	NN
+gap	, 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 80% 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	central	JJ
+gap	 	
+word	urban	JJ
+gap	 	
+word	area	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	covered	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	pavements	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	buildings	NN
+gap	, 	
+word	leaving	PGAS
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	available	JJ
+gap	 	
+word	natural	JJ
+gap	 	
+word	areas	NN
+gap	 (	
+word	BLAIR	CAP NNP
+gap	 & 	
+word	LAUNER	CAP NNP
+gap	, 1997).\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	environments	NOMZ
+gap	, 	
+word	different	JJ
+gap	 	
+word	species	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mammals	NN
+gap	 	
+word	adapt	VPRT
+gap	 	
+word	differently	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	anthropogenic	JJ
+gap	 	
+word	changes	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	usually	RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	small	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	establish	PRIV INF
+gap	 	
+word	populations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urbanized	JJ
+gap	 	
+word	habitats	NN
+gap	 (	
+word	HARRIS	CAP NNP
+gap	 & 	
+word	YALDEN	CAP NNP
+gap	, 2003). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	fragmented	JJ
+gap	 	
+word	landscapes	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	extinction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	species	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	alteration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fauna	NNP
+gap	 	
+word	community	NOMZ
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS BYPA AUXB
+gap	 	
+word	documented	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	researchers	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	remaining	PGAS
+gap	 	
+word	forest	NN
+gap	 	
+word	remnants	NN
+gap	 	
+word	reach	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	degree	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	importance	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	biology	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	responsible	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	maintaining	GER PUBV PGAS
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	regional	JJ
+gap	 	
+word	biota	NN
+gap	. 	
+word	These	DEMP CAP DET
+gap	 	
+word	remaining	PGAS
+gap	 	
+word	fragments	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extreme	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	maintenance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	local	JJ
+gap	 	
+word	biodiversity	NOMZ
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	keep	INF
+gap	 	
+word	important	JJ
+gap	 	
+word	samples	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fauna	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	often	RB
+gap	 	
+word	unknown	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	local	JJ
+gap	 	
+word	scientific	JJ
+gap	 	
+word	community	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	general	JJ
+gap	 (	
+word	SANTOS	NN CAP
+gap	 , 2008).\n	
+word	The	ART CAP DET
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	species	NN
+gap	 	
+word	occurring	WZPRES PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	given	
+gap	 	
+word	area	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	establishment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	management	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	strategies	NN
+gap	. 	
+word	Studies	NN CAP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	fauna	NN
+gap	 	
+word	inventories	NN
+gap	 	
+word	contribute	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	scientific	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	popular	JJ
+gap	 	
+word	knowledge	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	enable	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	making	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	species	NN
+gap	 	
+word	lists	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	further	RB
+gap	 	
+word	reduce	INF
+gap	 	
+word	prejudice	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	inform	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	ecological	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	animals	NN
+gap	, 	
+word	allied	PASTP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	initiatives	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	environmental	JJ
+gap	 	
+word	education	NOMZ
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	searches	NN
+gap	 	
+word	enable	VPRT
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fauna	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	city	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	connects	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	nature	NN
+gap	, 	
+word	contributing	GER PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	effort	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	maintain	PUBV INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	recover	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	biodiversity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	city	NN
+gap	.\n	
+word	Diagnose	NN CAP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	recognize	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	fauna	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	area	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	slow	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	always	RB
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	construction	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	results	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	researches	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	provide	INF
+gap	 	
+word	support	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	further	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	results	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	diagnosis	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	group	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	parks	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	data	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	formulation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	conservation	NOMZ
+gap	 	
+word	strategies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fauna	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	parks	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	surroundings	GER
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	dissemination	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	environmental	JJ
+gap	 	
+word	education	NOMZ
+gap	.\n	

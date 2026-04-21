@@ -1,600 +1,1122 @@
 # filename: PS_Engineering_Essay_3_0362c_tx.txt
-token	tags
-I	FPP1 CAP PRP SBJP
-found	VBD PRIV
-the	ART DET
-business	NOMZ
-plan	NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-very	AMP RB
-challenging	JJ
-on	PIN PREP
-the	ART DET
-first	JJ
-site	NN
-but	CCONJ
-I	FPP1 CAP PRP SBJP
-had	VBD
-many	QUAN JJ
-learning	PRIV PGAS
-outcomes	NN
-and	CCONJ
-various	JJ
-practical	JJ
-experiences	NN
-of	PIN PREP
-setting	PGAS
-up	PIN PREP
-and	CCONJ
-running	PGAS
-a	ART DET INDA
-business	NOMZ
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-get	INF
-the	ART DET
-most	JJ EMPH SPADJ
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-small	JJ
-period	NN
-we	FPP1 PRP SBJP
-had	VBD
-for	PIN PREP
-the	ART DET
-business	NOMZ
-plan	NN
-we	FPP1 PRP SBJP
-thought	VBD PRIV
-time	NN
-management	NOMZ
-was	BEMA VBD AUXB
-very	AMP RB
-essential	JJ
-for	PIN PREP
-this	DEMO DET
-project	NN
-.	
-Hence	RB CONJ CAP
-we	FPP1 PRP SBJP
-had	VBD
-more	RB EMPH CMADJ
-frequent	JJ
-and	PHC CCONJ
-longer	JJ CMADJ
-meetings	NN
-for	PIN PREP
-our	FPP1 PRP SBJP
-business	NOMZ
-plan	NN
-compared	WZPAST
-to	PIN PREP
-our	FPP1 PRP SBJP
-presentation	NOMZ
-.	
-In	PIN CONJ CAP PREP
-our	FPP1 PRP SBJP
-first	JJ
-meeting	NN
-we	FPP1 PRP SBJP
-decided	VBD PRIV SUAV
-to	PIN TO PREP
-follow	INF
-a	ART DET INDA
-regularity	NOMZ
-pattern	NN
-of	PIN PREP
-work	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-meeting	NN
-we	FPP1 PRP SBJP
-divided	VBD
-the	ART DET
-work	NN
-among	PIN PREP
-ourselves	FPP1 PRP SBJP ACCU
-,	
-and	ANDC CCONJ
-each	QUAN DET
-member	NN
-had	VBD
-to	PIN TO PREP
-research	INF
-about	PIN PREP
-the	ART DET
-topic	NN
-given	WZPAST
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-,	
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-the	ART DET
-next	JJ
-meeting	NN
-we	FPP1 PRP SBJP
-could	POMD
-discuss	INF
-it	PIT PRP SBJP
-and	CCONJ
-try	INF
-to	PIN TO PREP
-think	PRIV INF
-of	PIN PREP
-what	WH
-more	RB EMPH CMADJ
-we	FPP1 PRP SBJP
-could	POMD
-do	PROD INF
-to	PIN TO PREP
-progress	INF
-our	FPP1 PRP SBJP
-plan	NN
-.	
-I	FPP1 CAP PRP SBJP
-think	VPRT PRIV THATD
-this	DEMP DET
-was	BEMA VBD AUXB
-a	ART DET INDA
-very	AMP RB
-good	JJ
-way	NN
-to	PIN TO PREP
-work	INF
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-allowed	VBD SUAV
-people	NN
-to	PIN TO PREP
-feel	PRIV INF
-like	PIN PREP
-they	TPP3 PRP SBJP
-were	VBD AUXB
-working	PGAS
-towards	PIN PREP
-the	ART DET
-project	NN
-.	
-In	PIN CONJ CAP PREP
-my	FPP1 PRP SBJP
-opinion	NN
-we	FPP1 PRP SBJP
-could	POMD
-show	PRIV INF
-our	FPP1 PRP SBJP
-own	JJ
-opinion	NN
-and	PHC CCONJ
-knowledge	NN
-while	OSUB PIN SCONJ PREP
-discussing	GER PGAS
-and	PHC CCONJ
-deciding	PRIV SUAV PGAS
-upon	PIN SCONJ PREP
-the	ART DET
-best	JJ SPADJ
-for	PIN PREP
-our	FPP1 PRP SBJP
-business	NOMZ
-plan	NN
-.	
-In	PIN CONJ CAP PREP
-spite	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-effort	NN
-,	
-sometimes	RB
-we	FPP1 PRP SBJP
-lagged	VBD
-behind	PIN PLACE PREP
-time	NN
-because	CAUS PIN SCONJ PREP
-not	XX0 RB
-all	QUAN DET
-of	PIN PREP
-us	FPP1 PRP SBJP ACCU
-carried	VBD
-out	PIN PREP
-the	ART DET
-work	NN
-like	PIN PREP
-we	FPP1 PRP SBJP
-were	PASS VBD AUXB
-asked	SUAV
-to	PIN STPR PREP
-.	
-I	FPP1 CAP PRP SBJP
-found	VBD PRIV
-that	PIN THVC SCONJ PREP
-as	PIN CONJ PREP
-a	ART DET INDA
-deadline	NN
-approaches	VPRT
-the	ART DET
-amount	NN
-of	PIN PREP
-efficient	JJ
-work	NN
-increases	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-takes	VPRT
-me	FPP1 PRP SBJP ACCU
-less	JJ CMADJ
-time	NN
-to	PIN TO PREP
-do	PROD INF
-tasks	NN
-.	
-Although	CONC PIN STPR CAP SCONJ PREP
-,	
-the	ART DET
-final	JJ
-business	NOMZ
-plan	NN
-covered	
-and	PHC CCONJ
-explained	VBD PUBV
-everything	QUPR INPR
-in	PIN CONJ PREP
-detail	NN
-I	FPP1 CAP PRP SBJP
-was	BEMA VBD AUXB
-not	XX0 RB
-satisfied	JJ
-with	PIN PREP
-it	PIT PRP SBJP
-as	PIN CONJ PREP
-I	FPP1 CAP PRP SBJP
-always	RB
-found	VBD PRIV
-something	QUPR INPR
-missing	JJ
-and	ANDC CCONJ
-I	FPP1 CAP PRP SBJP
-tried	VBD
-to	PIN TO PREP
-discuss	INF
-with	PIN PREP
-my	FPP1 PRP SBJP
-group	NN
-but	CCONJ
-they	TPP3 PRP SBJP
-did	VBD SPAU
-n't	XX0 CONT RB
-want	INF
-to	PIN TO PREP
-think	PRIV INF
-in	PIN CONJ PREP
-so	RB EMPH
-much	QUAN JJ
-detail	NN
-.	
-So	RB CAP
-I	FPP1 CAP PRP SBJP
-learned	VBD PRIV
-that	PIN THVC SCONJ PREP
-with	PIN PREP
-group	NN
-work	NN
-,	
-there	EX
-are	VPRT AUXB
-different	JJ
-opinions	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-person	NN
-with	PIN PREP
-the	ART DET
-higher	JJ CMADJ
-vote	SUAV NN THATD
-that	TSUB WHSUB WHCL WH
-gets	VPRT
-their	TPP3 PRP SBJP
-way	NN
-.	
-I	FPP1 CAP PRP SBJP
-was	PASS VBD SPAU AUXB
-firstly	RB
-allocated	
-the	ART DET
-task	NN
-of	PIN PREP
-writing	PUBV PGAS
-about	PIN PREP
-the	ART DET
-management	NOMZ
-of	PIN PREP
-our	FPP1 PRP SBJP
-company	NN
-.	
-Management	NOMZ CAP
-plays	VPRT
-an	ART DET INDA
-important	JJ
-role	NN
-in	PIN CONJ PREP
-company	NN
-success	NN
-.	
-With	PIN CAP PREP
-the	ART DET
-knowledge	NN
-I	FPP1 CAP PRP SBJP
-had	VBD
-from	PIN PREP
-the	ART DET
-lectures	NN
-and	CCONJ
-also	RB
-with	PIN PREP
-some	QUAN DET
-other	JJ
-course	NN
-work	NN
-I	FPP1 CAP PRP SBJP
-got	VBD
-an	ART DET INDA
-insight	NN
-of	PIN PREP
-what	WH
-kind	NN HDG
-of	PIN PREP
-people	NN
-should	NEMD
-be	BEMA AUXB INF
-at	PIN PREP
-specific	JJ
-designations	NOMZ
-.	
-Hence	RB CONJ CAP
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-have	INF
-the	ART DET
-right	JJ
-management	NOMZ
-system	NN
-I	FPP1 CAP PRP SBJP
-designated	VBD
-each	QUAN DET
-person	NN
-'s	
-position	NOMZ
-depending	WZPRES PGAS
-upon	PIN SCONJ PREP
-his	TPP3 PRP SBJP
-skills	NN
-,	
-ability	NOMZ
-,	
-character	NN
-,	
-confidence	NN
-and	PHC CCONJ
-experience	NN
-.	
-I	FPP1 CAP PRP SBJP
-also	RB
-learned	VBD PRIV
-that	PIN THVC SCONJ PREP
-I	FPP1 CAP PRP SBJP
-had	VBD
-to	PIN TO PREP
-find	PRIV INF
-out	PIN PREP
-who	PIRE WH
-was	BEMA VBD AUXB
-the	ART DET
-envisioner	JJ CMADJ
-,	
-enabler	NN
-,	
-enactor	NN
-of	PIN PREP
-all	QUAN DET
-the	ART DET
-employees	NN
-and	ANDC CCONJ
-how	RB SCONJ WH
-effectively	RB
-under	PIN PREP
-time	NN
-limit	NN
-they	TPP3 PRP SBJP
-will	PRMD
-carry	INF
-out	PIN PREP
-any	QUAN DET
-task	NN
-given	WZPAST
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-I	FPP1 CAP PRP SBJP
-learned	VBD PRIV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-'s	VPRT
-also	RB
-vital	JJ
-to	PIN TO PREP
-set	INF
-out	PIN PREP
-the	ART DET
-duties	NN
-and	PHC CCONJ
-responsibilities	NN
-of	PIN PREP
-each	QUAN DET
-employee	NN
-.	
-Hence	RB CONJ CAP
-,	
-after	PIN PREP
-finishing	PGAS
-this	DEMO DET
-part	NN
-I	FPP1 CAP PRP SBJP
-had	VBD
-a	ART DET INDA
-wide	JJ
-and	PHC CCONJ
-clear	JJ
-picture	NN
-of	PIN PREP
-how	RB SCONJ WH
-management	NOMZ
-is	PASS VPRT AUXB
-carried	
-out	PIN PREP
-in	PIN CONJ PREP
-real	JJ
-business	NOMZ
-.	
-I	FPP1 CAP PRP SBJP
-also	RB
-worked	VBD
-on	PIN PREP
-the	ART DET
-legal	JJ
-structure	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-company	NN
-.	
-I	FPP1 CAP PRP SBJP
-had	VBD
-no	SYNE DET
-idea	NN
-before	PIN PREP
-of	PIN PREP
-what	WH
-legal	JJ
-structure	NN
-consisted	VBD
-of	PIN PREP
-so	RB
-I	FPP1 CAP PRP SBJP
-had	VBD
-to	PIN TO PREP
-research	INF
-a	EMPH ART DET INDA
-lot	NN
-.	
-I	FPP1 CAP PRP SBJP
-learned	VBD PRIV THATD
-that	PIN DEMP SCONJ PREP
-working	PGAS
-on	PIN PREP
-topics	NN
-where	RB WHOBJ SCONJ WH
-you	SPP2 PRP SBJP
-hardly	DWNT RB
-have	VPRT
-any	QUAN DET
-knowledge	NN
-is	BEMA VPRT AUXB
-very	AMP RB
-difficult	JJ
-.	
-But	CAP CCONJ
-working	PGAS
-on	PIN PREP
-this	DEMO DET
-topic	NN
-also	RB
-made	VBD
-me	FPP1 PRP SBJP ACCU
-aware	JJ
-of	PIN PREP
-various	JJ
-legal	JJ
-structure	NN
-and	PHC CCONJ
-aspects	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-considered	PRIV
-and	CCONJ
-the	ART DET
-risk	NN
-involved	WZPAST
-while	OSUB PIN SCONJ PREP
-starting	PGAS
-a	ART DET INDA
-business	NOMZ
-.	
-I	FPP1 CAP PRP SBJP
-also	RB
-learned	VBD PRIV
-about	PIN PREP
-the	ART DET
-different	JJ
-types	NN
-of	PIN PREP
-legal	JJ
-structure	NN
-of	PIN PREP
-varied	JJ
-companies	NN
-and	ANDC CCONJ
-how	RB SCONJ WH
-it	PIT PRP SBJP
-affected	VBD
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-.	
-Over	RB CAP
-all	QUAN DET
-,	
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-a	ART DET INDA
-valuable	JJ
-experience	NN
-to	PIN TO PREP
-work	INF
-in	PIN CONJ PREP
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	JJ
-team	NN
-and	CCONJ
-a	ART DET INDA
-very	AMP RB
-effective	JJ
-learning	PRIV NN
-outcome	NN
-,	
-which	SERE WHQU DET WH
-can	POMD
-help	INF
-me	FPP1 PRP SBJP ACCU
-if	COND PIN SCONJ PREP
-I	FPP1 CAP PRP SBJP
-started	VBD
-my	FPP1 PRP SBJP
-own	JJ
-business	NOMZ
-or	CCONJ
-during	PIN PREP
-my	FPP1 PRP SBJP
-career	NN
-in	PIN CONJ PREP
-future	NN
-.	
+type	content	tags
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	business	NOMZ
+gap	 	
+word	plan	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	very	AMP RB
+gap	 	
+word	challenging	JJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	site	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	outcomes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	various	JJ
+gap	 	
+word	practical	JJ
+gap	 	
+word	experiences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	setting	PGAS
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	running	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	get	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	small	JJ
+gap	 	
+word	period	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	business	NOMZ
+gap	 	
+word	plan	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	thought	VBD PRIV
+gap	 	
+word	time	NN
+gap	 	
+word	management	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	essential	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	project	NN
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	frequent	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	longer	JJ CMADJ
+gap	 	
+word	meetings	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	business	NOMZ
+gap	 	
+word	plan	NN
+gap	 	
+word	compared	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	presentation	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	first	JJ
+gap	 	
+word	meeting	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	decided	VBD PRIV SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	follow	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	regularity	NOMZ
+gap	 	
+word	pattern	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	work	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	meeting	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	divided	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	work	NN
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	ourselves	FPP1 PRP SBJP ACCU
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	member	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	research	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	topic	NN
+gap	 	
+word	given	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	, 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	meeting	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	discuss	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	do	PROD INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	progress	INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	plan	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	think	VPRT PRIV THATD
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	good	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	allowed	VBD SUAV
+gap	 	
+word	people	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	feel	PRIV INF
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	working	PGAS
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	project	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	opinion	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	show	PRIV INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	opinion	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	discussing	GER PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	deciding	PRIV SUAV PGAS
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	business	NOMZ
+gap	 	
+word	plan	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	spite	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	effort	NN
+gap	, 	
+word	sometimes	RB
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	lagged	VBD
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	time	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	carried	VBD
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	work	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	asked	SUAV
+gap	 	
+word	to	PIN STPR PREP
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	deadline	NN
+gap	 	
+word	approaches	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	efficient	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	increases	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	takes	VPRT
+gap	 	
+word	me	FPP1 PRP SBJP ACCU
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	tasks	NN
+gap	. 	
+word	Although	CONC PIN STPR CAP SCONJ PREP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	final	JJ
+gap	 	
+word	business	NOMZ
+gap	 	
+word	plan	NN
+gap	 	
+word	covered	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	explained	VBD PUBV
+gap	 	
+word	everything	QUPR INPR
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	detail	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	satisfied	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	always	RB
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	missing	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	tried	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discuss	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	group	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	didn	
+gap	'	
+word	t	
+gap	 	
+word	want	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	detail	NN
+gap	. 	
+word	So	RB CAP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	learned	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	group	NN
+gap	 	
+word	work	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	different	JJ
+gap	 	
+word	opinions	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	person	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	vote	SUAV NN THATD
+gap	 	
+word	that	TSUB WHSUB WHCL WH
+gap	 	
+word	gets	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	way	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	firstly	RB
+gap	 	
+word	allocated	
+gap	 	
+word	the	ART DET
+gap	 	
+word	task	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	writing	PUBV PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	management	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	company	NN
+gap	. 	
+word	Management	NOMZ CAP
+gap	 	
+word	plays	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	company	NN
+gap	 	
+word	success	NN
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	knowledge	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lectures	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	course	NN
+gap	 	
+word	work	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	got	VBD
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	insight	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	specific	JJ
+gap	 	
+word	designations	NOMZ
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	management	NOMZ
+gap	 	
+word	system	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	designated	VBD
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	person	NN
+gap	'	
+word	s	
+gap	 	
+word	position	NOMZ
+gap	 	
+word	depending	WZPRES PGAS
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	skills	NN
+gap	, 	
+word	ability	NOMZ
+gap	, 	
+word	character	NN
+gap	, 	
+word	confidence	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	experience	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	learned	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	who	PIRE WH
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	envisioner	JJ CMADJ
+gap	, 	
+word	enabler	NN
+gap	, 	
+word	enactor	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	employees	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	effectively	RB
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	time	NN
+gap	 	
+word	limit	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	carry	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	task	NN
+gap	 	
+word	given	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	learned	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	'	
+word	s	VPRT
+gap	 	
+word	also	RB
+gap	 	
+word	vital	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	set	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	duties	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	responsibilities	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	employee	NN
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	, 	
+word	after	PIN PREP
+gap	 	
+word	finishing	PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	part	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wide	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	clear	JJ
+gap	 	
+word	picture	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	management	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	carried	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	real	JJ
+gap	 	
+word	business	NOMZ
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	worked	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	legal	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	company	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	idea	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	legal	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	consisted	VBD
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	so	RB
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	research	INF
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	learned	VBD PRIV THATD
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	working	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	topics	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	hardly	DWNT RB
+gap	 	
+word	have	VPRT
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	knowledge	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	difficult	JJ
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	working	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	topic	NN
+gap	 	
+word	also	RB
+gap	 	
+word	made	VBD
+gap	 	
+word	me	FPP1 PRP SBJP ACCU
+gap	 	
+word	aware	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	legal	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	aspects	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	risk	NN
+gap	 	
+word	involved	WZPAST
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	starting	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	business	NOMZ
+gap	. 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	learned	VBD PRIV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	legal	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	varied	JJ
+gap	 	
+word	companies	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	affected	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	NN
+gap	. 	
+word	Over	RB CAP
+gap	 	
+word	all	QUAN DET
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	valuable	JJ
+gap	 	
+word	experience	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	JJ
+gap	 	
+word	team	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	effective	JJ
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	outcome	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	help	INF
+gap	 	
+word	me	FPP1 PRP SBJP ACCU
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	started	VBD
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	business	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	career	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	future	NN
+gap	.	

@@ -1,660 +1,1145 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0997.0579.txt
-token	tags
-﻿	NNP
-     	
-Since	OSUB PIN CAP SCONJ PREP
-fossil	NN
-fuel	NN
-consumption	NOMZ
-becomes	VPRT
-a	ART DET INDA
-world	NN
-debate	NN
-issue	NN
-,	
-alternatives	VPRT
-cars	NN
-purposes	NN
-have	VPRT PEAS
-been	PASS AUXB
-developed	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-achieve	INF
-more	RB EMPH CMADJ
-efficient	JJ
-vehicles	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-different	JJ
-types	NN
-of	PIN PREP
-fuels	NN
-,	
-as	PIN CONJ PREP
-ethanol	NN
-,	
-were	PASS VBD AUXB
-studied	
-and	PHC CCONJ
-developed	
-for	PIN PREP
-cars	NN
-in	PIN CONJ PREP
-general	JJ
-.	
-Considering	GER PRIV PRESP CAP PGAS
-the	ART DET
-environmental	JJ
-challenges	NN
-of	PIN PREP
-current	JJ
-days	NN
-,	
-in	PIN CONJ PREP
-last	JJ
-decades	NN
-the	ART DET
-researches	NN
-in	PIN CONJ PREP
-how	RB SCONJ WH
-electric	JJ
-engines	NN
-can	POMD
-be	PASS AUXB INF
-used	
-in	PIN CONJ PREP
-vehicles	NN
-contributed	VBD
-to	PIN PREP
-the	ART DET
-introduction	NOMZ
-of	PIN PREP
-the	ART DET
-electric	JJ
-car	NN
-concept	NN
-in	PIN CONJ PREP
-the	ART DET
-automotive	JJ
-world	NN
-.	
-Therefore	RB CONJ CAP
-,	
-due	PIN PREP
-to	PIN PREP
-all	QUAN DET
-the	ART DET
-benefits	NN
-that	TOBJ WHOBJ WH
-this	DEMO DET
-new	JJ
-idea	NN
-can	POMD
-cause	INF
-,	
-the	ART DET
-hybrid	JJ
-and	PHC CCONJ
-electrical	JJ
-vehicles	NN
-are	VPRT AUXB
-becoming	PGAS
-a	ART DET INDA
-tendency	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-car	NN
-market	NN
-and	CCONJ
-suggest	PUBV SUAV INF
-the	ART DET
-beginning	NN
-of	PIN PREP
-a	ART DET INDA
-transition	NOMZ
-time	NN
-forward	RB
-a	ART DET INDA
-full	JJ
-electric	JJ
-age	NN
-in	PIN CONJ PREP
-automotive	JJ
-field	NN
-.	
-  	
-In	PIN CONJ CAP PREP
-recent	JJ
-years	NN
-,	
-the	ART DET
-rate	NN
-of	PIN PREP
-sale	NN
-of	PIN PREP
-electric	JJ
-cars	NN
-increased	VBD
-considerably	RB
-in	PIN CONJ PREP
-many	QUAN JJ
-countries	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-,	
-especially	RB
-the	ART DET
-developed	JJ
-ones	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-the	ART DET
-total	JJ
-percentage	NN
-of	PIN PREP
-these	DEMO DET
-types	NN
-of	PIN PREP
-cars	NN
-is	BEMA VPRT AUXB
-still	RB
-short	JJ
-comparing	PGAS
-with	PIN PREP
-the	ART DET
-internal	JJ
-combustion	NOMZ
-vehicles	NN
-,	
-the	ART DET
-numbers	NN
-show	VPRT PRIV
-a	ART DET INDA
-promising	JJ PUBV
-perspective	NN
-for	PIN PREP
-the	ART DET
-next	JJ
-years	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-important	JJ
-automakers	NN
-have	VPRT PEAS SPAU
-already	RB
-developed	
-electric	JJ
-cars	NN
-,	
-like	PIN PREP
-Toyota	CAP NNP
-,	
-Volkswagen	CAP NNP
-,	
-Fiat	CAP NNP
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-Chinese	JJ CAP
-and	PHC CCONJ
-American	JJ CAP
-companies	NN
-.	
-A	ART CAP DET INDA
-great	JJ
-indicative	JJ
-was	PASS VBD BYPA AUXB
-provided	
-by	PIN PREP
-the	ART DET
-Sweden	CAP NNP
-Volvo	CAP NNP
-,	
-which	SERE DET WH
-expects	VPRT PRIV
-to	PIN TO PREP
-produce	INF
-only	DWNT RB
-electric	JJ
-cars	NN
-by	PIN PREP
-2020	NUM
-.	
-Other	JJ CAP
-important	JJ
-factor	NN
-is	BEMA VPRT AUXB
-the	ART DET
-government	NOMZ
-policies	NN
-,	
-which	SERE WHQU DET WH
-has	VPRT PEAS
-been	PASS AUXB
-introduced	
-in	PIN CONJ PREP
-some	QUAN DET
-countries	NN
-and	CCONJ
-also	RB
-have	INF
-a	ART DET INDA
-direct	JJ
-influence	NN
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-of	PIN PREP
-this	DEMO DET
-type	NN
-of	PIN PREP
-vehicles	NN
-.	
-China	CAP NNP
-,	
-United	CAP NNP
-States	PUBV CAP NNP
-,	
-United	CAP NNP
-Kingdom	CAP NNP
-,	
-France	CAP NNP
-,	
-Germany	CAP NNP
-and	CCONJ
-the	ART DET
-Scandinavian	JJ CAP
-countries	NN
-,	
-that	DEMP WH
-leads	VPRT
-the	ART DET
-sector	NN
-,	
-are	VPRT AUXB
-examples	NN
-of	PIN PREP
-countries	NN
-with	PIN PREP
-a	ART DET INDA
-special	JJ
-program	NN
-for	PIN PREP
-electric	JJ
-vehicles	NN
-,	
-including	PGAS
-specific	JJ
-goals	NN
-for	PIN PREP
-next	JJ
-decades	NN
-.	
-According	CAP PGAS
-with	PIN PREP
-the	ART DET
-International	CAP NNP
-Agency	CAP NNP
-of	PIN PREP
-Energy	CAP NNP
-(	
-IEA	CAP NNP
-)	
-,	
-in	PIN CONJ PREP
-2030	NUM
-most	JJ EMPH SPADJ
-of	PIN PREP
-that	DEMO DET
-countries	NN
-are	PASS VPRT AUXB
-expected	PRIV
-to	PIN TO PREP
-achieve	INF
-30	NUM
-%	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-total	JJ
-car	NN
-fleet	NN
-on	PIN PREP
-electric	JJ
-vehicles	NN
-.	
-In	PIN CONJ CAP PREP
-Norway	CAP NNP
-,	
-for	PIN PREP
-example	NN
-,	
-29	NUM
-%	NN
-of	PIN PREP
-all	QUAN DET
-vehicles	NN
-are	BEMA VPRT AUXB
-electric	JJ PRED
-and	CCONJ
-37	NUM
-%	NN
-of	PIN PREP
-new	JJ
-ones	NN
-are	BEMA VPRT AUXB
-also	RB
-electric	JJ
-cars	NN
-.	
-  	
-Besides	PIN CAP SCONJ PREP
-the	ART DET
-growing	PGAS
-up	PIN PREP
-market	NN
-and	CCONJ
-the	ART DET
-incentive	NN
-policies	NN
-,	
-the	ART DET
-electric	JJ
-car	NN
-concept	NN
-tends	VPRT
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-acceptable	JJ
-in	PIN CONJ PREP
-the	ART DET
-future	NN
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-environmental	JJ
-issue	NN
-.	
-The	ART CAP DET
-possibility	NOMZ
-of	PIN PREP
-having	PEAS PGAS
-vehicles	NN
-moved	SUAV WZPAST
-by	PIN PREP
-electric	JJ
-energy	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-provided	
-from	PIN PREP
-several	QUAN JJ
-sources	NN
-including	WZPRES PGAS
-renewable	JJ
-ones	NN
-,	
-represents	VPRT
-a	ART DET INDA
-great	JJ
-step	NN
-for	PIN PREP
-oil	NN
-dependence	NN
-reduction	NOMZ
-.	
-According	CAP PGAS
-with	PIN PREP
-IEA	CAP NNP
-,	
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-necessary	JJ PRED
-the	ART DET
-amount	NN
-of	PIN PREP
-six	NUM
-hundred	NUM
-million	NUM
-cars	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-due	JJ
-2040	NUM
-for	PIN PREP
-the	ART DET
-goal	NN
-of	PIN PREP
-limiting	PGAS
-the	ART DET
-global	JJ
-warming	NN
-on	PIN PREP
-less	JJ CMADJ
-than	PIN PREP
-2	NUM
-degrees	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-the	ART DET
-internal	JJ
-combustion	NOMZ
-vehicles	NN
-represent	VPRT
-14	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-world	NN
-total	JJ
-emission	NOMZ
-of	PIN PREP
-greenhouse	NN
-gases	NN
-,	
-which	SERE WHQU DET WH
-can	POMD
-represent	INF
-an	ART DET INDA
-important	JJ
-incentive	NN
-for	PIN PREP
-the	ART DET
-electric	JJ
-cars	NN
-production	NOMZ
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-there	EX
-are	VPRT AUXB
-some	QUAN DET
-local	JJ
-environmental	JJ
-consequences	NN
-as	PIN CONJ PREP
-the	ART DET
-less	RB CMADJ
-noise	NN
-and	PHC CCONJ
-air	NN
-pollution	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-cities	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-effects	NN
-with	PIN PREP
-direct	JJ
-impact	NN
-on	PIN PREP
-the	ART DET
-consumers	NN
-,	
-especially	RB
-on	PIN PREP
-sales	NN
-of	PIN PREP
-electric	JJ
-vehicles	NN
-.	
-  	
-As	PIN CONJ CAP PREP
-we	FPP1 PRP SBJP
-have	VPRT PEAS
-seen	PRIV
-,	
-in	PIN CONJ PREP
-conclusion	NOMZ
-,	
-the	ART DET
-sale	NN
-of	PIN PREP
-electric	JJ
-and	PHC CCONJ
-hybrid	JJ
-vehicles	NN
-is	VPRT AUXB
-increasing	GER PGAS
-gradually	RB
-,	
-but	CCONJ
-the	ART DET
-pace	NN
-has	VPRT PEAS
-become	
-higher	JJ CMADJ
-each	QUAN DET
-year	NN
-past	RB
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-the	ART DET
-infrastructure	NN
-and	CCONJ
-public	JJ
-policies	NN
-,	
-the	ART DET
-amount	NN
-of	PIN PREP
-these	DEMO DET
-types	NN
-of	PIN PREP
-vehicles	NN
-is	VPRT AUXB
-still	RB
-more	RB EMPH CMADJ
-numerous	JJ
-in	PIN CONJ PREP
-developed	
-countries	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-environmental	JJ
-benefits	NN
-are	BEMA VPRT AUXB
-also	RB
-important	JJ
-and	CCONJ
-indicate	PRIV INF
-the	ART DET
-beginning	NN
-of	PIN PREP
-a	ART DET INDA
-new	JJ
-age	NN
-of	PIN PREP
-electric	JJ
-cars	NN
-,	
-which	SERE DET WH
-tends	VPRT
-to	PIN TO PREP
-increase	INF
-in	PIN CONJ PREP
-all	QUAN DET
-countries	NN
-not	XX0 RB
-only	DWNT RB
-in	PIN CONJ PREP
-Europe	CAP NNP
-,	
-US	FPP1 CAP NNP
-or	CCONJ
-China	CAP NNP
-.	
-For	PIN CAP PREP
-it	PIT PRP SBJP
-become	VPRT
-a	ART DET INDA
-factual	JJ
-truth	NN
-,	
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-necessary	JJ PRED
-that	PIN THAC SCONJ PREP
-more	JJ EMPH CMADJ
-countries	NN
-and	PHC CCONJ
-people	NN
-do	VPRT PROD
-what	WH
-the	ART DET
-cited	
-countries	NN
-above	RB PLACE
-are	VPRT AUXB
-doing	PROD PGAS
-,	
-not	XX0 RB
-only	DWNT RB
-related	
-on	PIN PREP
-the	ART DET
-infrastructure	NN
-but	CCONJ
-also	RB
-on	PIN PREP
-the	ART DET
-economy	NN
-and	PHC CCONJ
-policy	NN
-.	
-Fortunately	RB CAP
-,	
-it	PIT PRP SBJP
-seems	VPRT SMP
-to	PIN TO PREP
-be	AUXB INF
-something	QUPR INPR
-inevitable	JJ
-and	ANDC CCONJ
-so	RB
-much	QUAN RB
-necessary	JJ
-.	
- 	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0997.0579>\n\n<A gradual change towards electric vehicles>\t\n\n	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	fossil	NN
+gap	 	
+word	fuel	NN
+gap	 	
+word	consumption	NOMZ
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	world	NN
+gap	 	
+word	debate	NN
+gap	 	
+word	issue	NN
+gap	, 	
+word	alternatives	VPRT
+gap	 	
+word	cars	NN
+gap	 	
+word	purposes	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	developed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	efficient	JJ
+gap	 	
+word	vehicles	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	different	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fuels	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	ethanol	NN
+gap	, 	
+word	were	PASS VBD AUXB
+gap	 	
+word	studied	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	developed	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	cars	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	general	JJ
+gap	. 	
+word	Considering	GER PRIV PRESP CAP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	environmental	JJ
+gap	 	
+word	challenges	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	current	JJ
+gap	 	
+word	days	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	last	JJ
+gap	 	
+word	decades	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	researches	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	electric	JJ
+gap	 	
+word	engines	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	vehicles	NN
+gap	 	
+word	contributed	VBD
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	electric	JJ
+gap	 	
+word	car	NN
+gap	 	
+word	concept	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	automotive	JJ
+gap	 	
+word	world	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	idea	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	cause	INF
+gap	, 	
+word	the	ART DET
+gap	 	
+word	hybrid	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	electrical	JJ
+gap	 	
+word	vehicles	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	becoming	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tendency	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	car	NN
+gap	 	
+word	market	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	suggest	PUBV SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	transition	NOMZ
+gap	 	
+word	time	NN
+gap	 	
+word	forward	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	full	JJ
+gap	 	
+word	electric	JJ
+gap	 	
+word	age	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	automotive	JJ
+gap	 	
+word	field	NN
+gap	.\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	recent	JJ
+gap	 	
+word	years	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	rate	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sale	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	cars	NN
+gap	 	
+word	increased	VBD
+gap	 	
+word	considerably	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	countries	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	developed	JJ
+gap	 	
+word	ones	NN
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	percentage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cars	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	short	JJ
+gap	 	
+word	comparing	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	internal	JJ
+gap	 	
+word	combustion	NOMZ
+gap	 	
+word	vehicles	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	numbers	NN
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	promising	JJ PUBV
+gap	 	
+word	perspective	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	years	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	important	JJ
+gap	 	
+word	automakers	NN
+gap	 	
+word	have	VPRT PEAS SPAU
+gap	 	
+word	already	RB
+gap	 	
+word	developed	
+gap	 	
+word	electric	JJ
+gap	 	
+word	cars	NN
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	Toyota	CAP NNP
+gap	, 	
+word	Volkswagen	CAP NNP
+gap	, 	
+word	Fiat	CAP NNP
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Chinese	JJ CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	American	JJ CAP
+gap	 	
+word	companies	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	indicative	JJ
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	provided	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Sweden	CAP NNP
+gap	 	
+word	Volvo	CAP NNP
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	expects	VPRT PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	electric	JJ
+gap	 	
+word	cars	NN
+gap	 	
+word	by	PIN PREP
+gap	 2020. 	
+word	Other	JJ CAP
+gap	 	
+word	important	JJ
+gap	 	
+word	factor	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	policies	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	introduced	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	countries	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	direct	JJ
+gap	 	
+word	influence	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vehicles	NN
+gap	. 	
+word	China	CAP NNP
+gap	, 	
+word	United	CAP NNP
+gap	 	
+word	States	PUBV CAP NNP
+gap	, 	
+word	United	CAP NNP
+gap	 	
+word	Kingdom	CAP NNP
+gap	, 	
+word	France	CAP NNP
+gap	, 	
+word	Germany	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Scandinavian	JJ CAP
+gap	 	
+word	countries	NN
+gap	, 	
+word	that	DEMP WH
+gap	 	
+word	leads	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	sector	NN
+gap	, 	
+word	are	VPRT AUXB
+gap	 	
+word	examples	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	countries	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	special	JJ
+gap	 	
+word	program	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	vehicles	NN
+gap	, 	
+word	including	PGAS
+gap	 	
+word	specific	JJ
+gap	 	
+word	goals	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	next	JJ
+gap	 	
+word	decades	NN
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	International	CAP NNP
+gap	 	
+word	Agency	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Energy	CAP NNP
+gap	 (	
+word	IEA	CAP NNP
+gap	), 	
+word	in	PIN CONJ PREP
+gap	 2030 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	countries	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 30% 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	total	JJ
+gap	 	
+word	car	NN
+gap	 	
+word	fleet	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	vehicles	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Norway	CAP NNP
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 29% 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	vehicles	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	electric	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 37% 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	ones	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	electric	JJ
+gap	 	
+word	cars	NN
+gap	.\n\n	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	growing	PGAS
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	market	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	incentive	NN
+gap	 	
+word	policies	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	electric	JJ
+gap	 	
+word	car	NN
+gap	 	
+word	concept	NN
+gap	 	
+word	tends	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	acceptable	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	NN
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environmental	JJ
+gap	 	
+word	issue	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	having	PEAS PGAS
+gap	 	
+word	vehicles	NN
+gap	 	
+word	moved	SUAV WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	energy	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	provided	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	sources	NN
+gap	 	
+word	including	WZPRES PGAS
+gap	 	
+word	renewable	JJ
+gap	 	
+word	ones	NN
+gap	, 	
+word	represents	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	step	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	oil	NN
+gap	 	
+word	dependence	NN
+gap	 	
+word	reduction	NOMZ
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	IEA	CAP NNP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	six	NUM
+gap	 	
+word	hundred	NUM
+gap	 	
+word	million	NUM
+gap	 	
+word	cars	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	due	JJ
+gap	 2040 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	goal	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	limiting	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	global	JJ
+gap	 	
+word	warming	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 2 	
+word	degrees	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	internal	JJ
+gap	 	
+word	combustion	NOMZ
+gap	 	
+word	vehicles	NN
+gap	 	
+word	represent	VPRT
+gap	 14% 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	total	JJ
+gap	 	
+word	emission	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	greenhouse	NN
+gap	 	
+word	gases	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	represent	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	incentive	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	electric	JJ
+gap	 	
+word	cars	NN
+gap	 	
+word	production	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	local	JJ
+gap	 	
+word	environmental	JJ
+gap	 	
+word	consequences	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	noise	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	air	NN
+gap	 	
+word	pollution	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cities	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	effects	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	direct	JJ
+gap	 	
+word	impact	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	consumers	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	sales	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	vehicles	NN
+gap	.\n\n	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	seen	PRIV
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	sale	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	hybrid	JJ
+gap	 	
+word	vehicles	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	gradually	RB
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	pace	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	become	
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	year	NN
+gap	 	
+word	past	RB
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	infrastructure	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	public	JJ
+gap	 	
+word	policies	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	vehicles	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	numerous	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developed	
+gap	 	
+word	countries	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	environmental	JJ
+gap	 	
+word	benefits	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	important	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	indicate	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	age	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	electric	JJ
+gap	 	
+word	cars	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	tends	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	increase	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	countries	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Europe	CAP NNP
+gap	, 	
+word	US	FPP1 CAP NNP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	China	CAP NNP
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	become	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	factual	JJ
+gap	 	
+word	truth	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	countries	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	people	NN
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	what	WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	cited	
+gap	 	
+word	countries	NN
+gap	 	
+word	above	RB PLACE
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	doing	PROD PGAS
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	related	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	infrastructure	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	policy	NN
+gap	. 	
+word	Fortunately	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	inevitable	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	necessary	JJ
+gap	.\n	

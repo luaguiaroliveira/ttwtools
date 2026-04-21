@@ -1,1432 +1,2566 @@
 # filename: PS_Computer_Science_Essay_1_0284a_tx.txt
-token	tags
-When	RB CAP SCONJ WH
-I	FPP1 CAP PRP SBJP
-first	RB
-heard	VBD PRIV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-British	JJ CAP
-citizen	NN
-does	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-anything	QUPR INPR
-like	PIN PREP
-an	ART DET INDA
-Identity	CAP NNP
-Card	CAP NNP
-(	
-ID	CAP NNP
-)	
-I	FPP1 CAP PRP SBJP
-thought	VBD PRIV THATD
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-a	ART DET INDA
-joke	NN
-.	
-Much	QUAN RB CAP
-to	PIN PREP
-my	FPP1 PRP SBJP
-bewilderment	NOMZ
-,	
-I	FPP1 CAP PRP SBJP
-then	RB
-found	VBD PRIV
-out	PIN PREP
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-true	JJ PRED
--	
-at	PIN PREP
-least	JJ SPADJ
-for	PIN PREP
-the	ART DET
-time	NN
-being	WZPRES AUXB
-.	
-Having	PEAS CAP PGAS
-spent	
-most	JJ EMPH SPADJ
-of	PIN PREP
-my	FPP1 PRP SBJP
-life	NN
-in	PIN CONJ PREP
-Germany	CAP NNP
-,	
-it	PIT PRP SBJP
-did	VBD PROD SPAU
-n't	XX0 CONT RB
-even	RB
-come	INF
-to	PIN PREP
-my	FPP1 PRP SBJP
-mind	NN
-that	PIN DEMO SCONJ PREP
-there	EX
-could	POMD SPAU
-still	RB
-be	AUXB INF
-countries	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS SPAU
-n't	XX0 CONT RB
-thought	PRIV
-of	PIN PREP
-giving	PGAS
-out	PIN PREP
-those	DEMO DET
-handy	JJ
-little	JJ
-cards	NN
-to	PIN PREP
-their	TPP3 PRP SBJP
-citizens	NN
-.	
-Well	DPAR CAP UH
-,	
-maybe	RB HDG
-apart	RB
-from	PIN PREP
-countries	NN
-like	PIN PREP
-the	ART DET
-Philippines	CAP NNP
-.	
-On	PIN CAP PREP
-the	ART DET
-continent	NN
-,	
-although	CONC PIN SCONJ PREP
-you	SPP2 PRP SBJP
-'re	CONT VPRT SPAU
-not	XX0 RB
-going	PGAS
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-stopped	
-by	PIN PREP
-the	ART DET
-police	NN
-every	QUAN DET
-day	NN
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-taken	
-for	PIN PREP
-granted	SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-police	NN
-have	VPRT
-the	ART DET
-right	NN
-to	PIN TO PREP
-check	PRIV INF
-identity	NOMZ
-.	
-The	ART CAP DET
-way	NN
-this	DEMO DET
-debate	NN
-is	BEMA VPRT AUXB
-lead	JJ PRED
-and	CCONJ
-the	ART DET
-strong	JJ
-opposition	NOMZ
-against	PIN PREP
-their	TPP3 PRP SBJP
-introduction	NOMZ
-seems	VPRT SMP
-even	RB
-stranger	JJ CMADJ
-for	PIN PREP
-the	ART DET
-foreign	JJ
-observer	NN
-.	
-When	RB CAP SCONJ WH
-the	ART DET
-German	JJ CAP
-government	NOMZ
-announced	VBD PUBV
-the	ART DET
-rollout	NN
-of	PIN PREP
-new	JJ
-biometric	JJ
-IDs	NN CAP
-and	PHC CCONJ
-passports	NN
-there	EX
-was	VBD AUXB
-merely	DWNT RB
-some	QUAN DET
-moaning	NN
-about	PIN PREP
-the	ART DET
-price	NN
-of	PIN PREP
-over	PIN PREP
-130€.	NUM
-The	ART CAP DET
-Brits	CAP NNP
-are	PASS VPRT AUXB
-known	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-conservative	JJ PRED
-to	PIN PREP
-the	ART DET
-extent	NN
-that	PIN TOBJ SCONJ PREP
-they	TPP3 PRP SBJP
-have	VPRT
-a	ART DET INDA
-weakness	NOMZ
-for	PIN PREP
-overhauled	
-traditions	NOMZ
-(	
-you	SPP2 PRP SBJP
-'ve	CONT VPRT SPAU
-still	RB
-got	
-that	DEMO DET
-monarchy	JJ
-thing	NN
-going	WZPRES PGAS
-on	PIN STPR PREP
-,	
-right	JJ
-?	QUES
-)	
-,	
-but	CCONJ
-then	RB
-again	RB TIME
-,	
-that	WHQU DEMP WH
-does	VPRT SPAU
-n't	XX0 CONT RB
-mean	PRIV THATD INF
-they	TPP3 PRP SBJP
-do	VPRT PROD SPAU
-n't	XX0 CONT RB
-have	INF
-a	ART DET INDA
-point	NN
-.	
-So	RB CAP
-what	WHQU WH
-is	VPRT AUXB
-all	QUAN DET
-the	ART DET
-fuss	NN
-about	PIN STPR PREP
-?	QUES
-The	ART CAP DET
-occasion	NOMZ
-for	PIN PREP
-proposing	SUAV PGAS
-compulsory	JJ
-IDs	NN CAP
-for	PIN PREP
-everyone	QUPR INPR
-was	VBD AUXB
-,	
-as	PIN CONJ PREP
-for	PIN PREP
-many	QUAN JJ
-other	JJ
-measures	NN
-,	
-the	ART DET
-terrorist	JJ
-threat	NN
-that	TSUB WHSUB WH
-has	VPRT PEAS
-become	
-apparent	JJ
-in	PIN CONJ PREP
-terrorist	JJ
-attacks	NN
-on	PIN PREP
-American	JJ CAP
-and	PHC CCONJ
-European	JJ CAP
-soil	NN
-.	
-In	PIN CONJ CAP PREP
-their	TPP3 PRP SBJP
-aftermath	NN
-,	
-governments	NOMZ
-all	QUAN RB
-over	PIN PREP
-the	ART DET
-world	NN
-seem	VPRT SMP
-to	PIN TO PREP
-have	PEAS INF
-engaged	
-in	PIN CONJ PREP
-a	ART DET INDA
-race	NN
-to	PIN TO PREP
-come	INF
-out	PIN PREP
-with	PIN PREP
-more	RB EMPH CMADJ
-comprehensive	JJ
-"	QUOT
-security	NOMZ
-packages	NN
-"	QUOT
-,	
-many	QUAN JJ
-of	PIN PREP
-which	PIRE DET WH
-are	VPRT AUXB
-directly	RB
-or	CCONJ
-indirectly	RB
-impairing	JJ
-civil	JJ
-liberties	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-clear	JJ PRED
-that	PIN THAC SCONJ PREP
-convinced	
-liberals	NN
-will	PRMD SPAU
-fundamentally	RB
-oppose	INF
-them	TPP3 PRP SBJP ACCU
-,	
-just	RB EMPH
-like	PIN PREP
-people	NN
-who	WHSUB WH
-do	VPRT
-not	XX0 RB
-cherish	JJ
-liberty	NN
-that	TOBJ TSUB WHSUB WH
-much	QUAN RB
-will	PRMD
-embrace	INF
-them	TPP3 PRP SBJP ACCU
-for	PIN PREP
-their	TPP3 PRP SBJP
-promise	PUBV NN
-of	PIN PREP
-additional	JJ
-safety	NN
-.	
-Both	CAP DET
-viewpoints	NN
-shall	PRMD
-be	PASS AUXB INF
-examined	
-here	RB
-and	ANDC CCONJ
-although	CONC PIN SCONJ PREP
-civil	JJ
-liberties	NN
-have	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-protected	
-,	
-it	PIT PRP SBJP
-will	PRMD
-become	INF
-clear	JJ
-why	RB SCONJ WH
-identity	NOMZ
-cards	NN
-are	BEMA VPRT AUXB
-accordable	JJ PRED
-with	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-The	ART CAP DET
-war	NN
-on	PIN PREP
-terror	NN
-Opponents	CAP NNP
-describe	VPRT
-the	ART DET
-recent	JJ
-bill	NN
-proposed	SUAV WZPAST
-by	PIN PREP
-the	ART DET
-Labour	JJ CAP
-government	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-"	QUOT
-well	DPAR RB
--	
-intentioned	
-but	CCONJ
-misguided	JJ
-attempt	NN
-to	PIN TO PREP
-counter	INF
-terrorism	NN
-"	QUOT
-,	
-thus	RB CONJ
-rebuting	PGAS
-what	WH
-the	ART DET
-government	NOMZ
-claims	VPRT PUBV
-to	PIN TO PREP
-be	BEMA AUXB INF
-the	ART DET
-motivation	NOMZ
-behind	PIN PLACE PREP
-the	ART DET
-initiative	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-arguably	RB
-no	SYNE DET
-evidence	NN
-for	PIN PREP
-the	ART DET
-effectiveness	NOMZ
-of	PIN PREP
-IDs	NN CAP
-in	PIN CONJ PREP
-tackling	PGAS
-terrorism	NN
-.	
-A	ART CAP DET INDA
-striking	JJ
-example	NN
-may	POMD
-be	BEMA AUXB INF
-the	ART DET
-9/11	NUM
-attackers	NN
-who	WHSUB WH
-were	BEMA VBD AUXB
-in	PIN CONJ PREP
-possession	NOMZ
-of	PIN PREP
-legal	JJ
-documents	NOMZ
-.	
-Although	CONC PIN CAP SCONJ PREP
-some	QUAN DET
-plastic	JJ
-cards	NN
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-the	ART DET
-ultimate	JJ
-solution	NOMZ
-to	PIN PREP
-crime	NN
-and	PHC CCONJ
-terror	NN
-,	
-the	ART DET
-negative	JJ
-implications	NOMZ
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-are	BEMA VPRT AUXB
-greatly	AMP RB
-exaggerated	JJ
-.	
-Mark	CAP NNP
-Littlewood	CAP NNP
-in	PIN CONJ PREP
-[	X
-1	NUM
-]	X
-Practical	JJ CAP
-issues	NN
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-accepted	PRIV
-there	RB
-already	RB
-exist	VPRT
-some	QUAN DET
-means	PRIV NN
-of	PIN PREP
-identification	NOMZ
-like	PIN PREP
-passports	NN
-or	CCONJ
-driving	PGAS
-licences	NN
-,	
-so	PIN SCONJ PREP
-the	ART DET
-real	JJ
-novelty	NN
-would	PRMD
-be	BEMA AUXB INF
-that	PIN DEMO SCONJ PREP
-you	SPP2 PRP SBJP
-would	PRMD
-be	PASS AUXB INF
-required	SUAV
-to	PIN TO PREP
-produce	INF
-some	QUAN DET
-ID	CAP NNP
-if	COND PIN SCONJ PREP
-the	ART DET
-police	NN
-stops	VPRT
-you	SPP2 PRP SBJP
-in	PIN CONJ PREP
-the	ART DET
-street	NN
-.	
-This	DEMP CAP DET
-wo	
-n't	XX0 CONT RB
-,	
-however	RB CONJ
-,	
-lead	VPRT
-to	PIN PREP
-a	ART DET INDA
-dramatic	JJ
-increase	NN
-in	PIN CONJ PREP
-street	NN
-controls	NN
-,	
-nor	CCONJ
-to	PIN PREP
-unjustified	JJ
-detainments	NOMZ
-or	CCONJ
-discrimination	NOMZ
-of	PIN PREP
-certain	JJ
-"	QUOT
-suspect	JJ PRIV
-"	QUOT
-groups	NN
-,	
-as	PIN CONJ PREP
-some	QUAN DET
-suggest	VPRT PUBV SUAV
-.	
-This	DEMO CAP DET
-kind	NN HDG
-of	PIN PREP
-harassment	NOMZ
-may	POMD
-have	PEAS INF
-been	AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-reasons	PRIV NN
-wartime	JJ
-IDs	NN CAP
-were	PASS VBD AUXB
-abolished	
-in	PIN CONJ PREP
-1953	NUM
-,	
-but	CCONJ
-experience	NN
-in	PIN CONJ PREP
-other	JJ
-countries	NN
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-such	JJ
-fears	PRIV NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-justified	JJ
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-benefits	NN
-that	TSUB WHSUB WH
-comes	VPRT
-to	PIN PREP
-mind	NN
-would	PRMD
-be	AUXB INF
-curbing	PGAS
-underage	JJ
-drinking	NN
-and	PHC CCONJ
-smoking	NN
-in	PIN CONJ PREP
-public	NN
-.	
-And	ANDC CAP CCONJ
-it	PIT PRP SBJP
-will	PRMD SPAU
-also	RB
-be	BEMA AUXB INF
-less	RB CMADJ
-tedious	JJ
-to	PIN TO PREP
-open	INF
-a	ART DET INDA
-bank	NN
-account	NN
-.	
-Here	RB CAP
-'s	VPRT
-an	ART DET INDA
-excerpt	NN
-from	PIN PREP
-the	ART DET
-Oxford	CAP NNP
-Brooke	CAP NNP
-'s	
-University	CAP NNP
-'s	
-website	NN
-on	PIN PREP
-how	RB SCONJ WH
-to	PIN TO PREP
-open	INF
-a	ART DET INDA
-bank	NN
-account	NN
-for	PIN PREP
-international	JJ
-students	NN
-:	
-Opening	PRESP CAP PGAS
-a	ART DET INDA
-bank	NN
-accountYou	NN
-may	POMD
-want	INF
-to	PIN TO PREP
-open	INF
-a	ART DET INDA
-bank	NN
-account	NN
-for	PIN PREP
-use	NN
-while	OSUB PIN SCONJ PREP
-you	SPP2 PRP SBJP
-are	BEMA VPRT AUXB
-a	ART DET INDA
-student	NN
-,	
-but	CCONJ
-can	POMD
-be	BEMA AUXB INF
-difficult	JJ PRED
-for	PIN PREP
-international	JJ
-students	NN
-.	
-You	SPP2 CAP PRP SBJP
-may	POMD
-find	PRIV THATD INF
-it	PIT PRP SBJP
-helpful	JJ
-to	PIN TO PREP
-arrange	SUAV INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-draw	INF
-cash	NN
-electronically	RB
-,	
-from	PIN PREP
-your	SPP2 PRP SBJP
-bank	NN
-at	PIN PREP
-home	NN
-.	
-To	PIN TO CAP PREP
-open	INF
-a	ART DET INDA
-bank	NN
-account	NN
-you	SPP2 PRP SBJP
-need	VPRT
-original	JJ
-documents	NOMZ
-,	
-which	SERE WHQU DET WH
-may	POMD
-include:-	INF
-your	SPP2 PRP SBJP
-offer	NN
-letter	NN
-(	
-from	PIN PREP
-UCAS	CAP NNP
-or	CCONJ
-the	ART DET
-University	CAP NNP
-)	
--	
-an	ART DET INDA
-attendance	NN
-certificate	NN
-(	
-please	UH
-contact	INF
-the	ART DET
-Student	CAP NNP
-Administration	CAP NNP
-Office)-	CAP
-evidence	NN
-of	PIN PREP
-both	CCONJ
-your	SPP2 PRP SBJP
-UK	CAP NNP
-address	NN
-and	CCONJ
-your	SPP2 PRP SBJP
-address	NN
-in	PIN CONJ PREP
-your	SPP2 PRP SBJP
-home	NN
-country	NN
--	
-your	SPP2 PRP SBJP
-passport	NN
-or	CCONJ
-national	JJ
-identity	NOMZ
-card	NN
--	
-a	ART DET INDA
-reference	NN
-from	PIN PREP
-your	SPP2 PRP SBJP
-bank	NN
-and	PHC CCONJ
-copies	NN
-of	PIN PREP
-your	SPP2 PRP SBJP
-bank	NN
-statements	NOMZ
-(	
-if	COND PIN SCONJ PREP
-you	SPP2 PRP SBJP
-have	VPRT
-another	DET
-account	NN
-)	
-I	FPP1 CAP PRP SBJP
-can	POMD
-tell	INF
-from	PIN PREP
-my	FPP1 PRP SBJP
-own	JJ
-experience	NN
-that	PIN TOBJ SCONJ PREP
-it	PIT PRP SBJP
-is	VPRT AUXB
-even	RB
-more	RB EMPH CMADJ
-difficult	JJ
-if	COND PIN SCONJ PREP
-you	SPP2 PRP SBJP
-'re	CONT VPRT
-not	XX0 RB
-a	ART DET INDA
-student	NN
-.	
-Forging	CAP PGAS
-Forging	CAP NNP
-or	CCONJ
-stealing	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-problem	NN
-,	
-either	RB
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-state	PUBV NN
--	
-of	PIN STPR PREP
--	
-the	ART DET
--	
-art	NN
-protection	NOMZ
-mechanisms	NN
-included	WZPAST
-in	PIN CONJ PREP
-modern	JJ
-IDs	NN CAP
-render	VPRT
-this	DEMO DET
-infeasible	JJ
-.	
-Although	CONC PIN CAP SCONJ PREP
-this	DEMP DET
-has	VPRT PEAS
-been	BEMA AUXB
-a	ART DET INDA
-concern	NN
-in	PIN CONJ PREP
-the	ART DET
-past	NN
-,	
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-storing	PGAS
-biometric	JJ
-information	NOMZ
-on	PIN PREP
-RFID	CAP NNP
-chips	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-great	JJ
-leap	NN
-compared	WZPAST
-to	PIN PREP
-the	ART DET
-outdated	JJ
-smartcards	NN
-used	WZPAST
-in	PIN CONJ PREP
-France	CAP NNP
-,	
-for	PIN PREP
-example	NN
-.	
-If	COND PIN CAP SCONJ PREP
-anyone	QUPR INPR
-is	BEMA VPRT AUXB
-worried	JJ PRED
-about	PIN PREP
-security	NOMZ
-,	
-please	UH
-stop	INF
-using	PGAS
-those	DEMO DET
-credit	NN
-cards	NN
--	
-and	ANDC CCONJ
-paper	NN
-money	NN
-as	RB CONJ
-well	RB
-.	
-Costs	NN CAP
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-conclusive	JJ
-answer	NN
-to	PIN PREP
-the	ART DET
-question	NOMZ
-whether	PIN SCONJ PREP
-the	ART DET
-billion	NUM
-pound	NN
-investment	NOMZ
-is	BEMA VPRT AUXB
-really	RB EMPH
-worth	JJ
-it	PIT PRP SBJP
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-to	PIN PREP
-the	ART DET
-actual	JJ
-"	QUOT
-hardware	NN
-"	QUOT
-that	WHQU DEMP WH
-has	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-shipped	
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-considerable	JJ
-administrative	JJ
-burden	NN
-to	PIN TO PREP
-maintain	PUBV INF
-databases	NN
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-access	INF
-all	QUAN DET
-the	ART DET
-features	NN
-of	PIN PREP
-the	ART DET
-new	JJ
-IDs	NN CAP
-,	
-police	NN
-has	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-equipped	
-with	PIN PREP
-suitable	JJ
-devices	NN
-,	
-so	PIN EMPH SCONJ PREP
-consequential	JJ
-costs	NN
-are	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-be	BEMA AUXB INF
-higher	JJ PRED CMADJ
-than	PIN PREP
-the	ART DET
-initial	JJ
-investment	NOMZ
-.	
-Immigration	NOMZ CAP
-Fighting	WZPRES CAP PGAS
-illegal	JJ
-immigration	NOMZ
-would	PRMD
-be	PASS BYPA SPAU AUXB INF
-greatly	AMP RB
-simplified	
-by	PIN PREP
-IDs	NN CAP
-.	
-Basically	RB CAP
-,	
-the	ART DET
-police	NN
-or	CCONJ
-border	NN
-guards	NN
-could	POMD
-send	INF
-everyone	QUPR INPR
-away	RB PLACE
-who	WH
-does	VPRT SPAU
-n't	XX0 CONT RB
-have	INF
-a	ART DET INDA
-valid	JJ
-ID	CAP NNP
-.	
-So	RB CAP
-the	ART DET
-debate	NN
-comes	VPRT
-down	PIN PREP
-to	PIN PREP
-whether	PIN SCONJ PREP
-or	CCONJ
-not	XX0 RB
-we	FPP1 PRP SBJP
-think	VPRT PRIV THATD
-immigration	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-good	JJ
-thing	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-uncommon	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-most	RB EMPH SPADJ
-affluent	JJ
-countries	NN
-take	VPRT
-the	ART DET
-strictest	JJ SPADJ
-precautions	NOMZ
-to	PIN TO PREP
-deter	INF
-poor	JJ
-asylum	NN
-seekers	NN
-from	PIN PREP
-getting	PGAS
-a	ART DET INDA
-piece	NN
-of	PIN PREP
-the	ART DET
-cake	NN
--	
-while	OSUB PIN SCONJ PREP
-Pakistan	CAP NNP
-was	BEMA VBD AUXB
-ready	JJ PRED
-to	PIN TO PREP
-accept	PRIV INF
-2	NUM
-million	NUM
-Afghan	JJ CAP
-refugees	NN
-.	
-Either	CAP DET
-way	NN
-,	
-being	BEMA AUXB
-able	JJ PRED
-to	PIN TO PREP
-demand	SUAV INF
-a	ART DET INDA
-form	NN
-of	PIN PREP
-ID	CAP NNP
-at	PIN PREP
-any	QUAN DET
-time	NN
-can	POMD
-be	PASS AUXB INF
-used	
-for	PIN PREP
-tighter	JJ CMADJ
-controls	NN
-and	ANDC CCONJ
-if	COND PIN SCONJ PREP
-this	DEMP DET
-is	VPRT AUXB
-what	WH
-the	ART DET
-government	NOMZ
-wants	VPRT
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-way	NN
-to	PIN TO PREP
-draw	INF
-a	ART DET INDA
-line	NN
-to	PIN PREP
-immigration	NOMZ
-.	
-But	CAP CCONJ
-the	ART DET
-UK	CAP NNP
-should	NEMD
-remember	PRIV INF
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-needs	VPRT
-some	QUAN DET
-immigrants	NN
-and	CCONJ
-should	NEMD
-avoid	INF
-alienating	GER PGAS
-them	TPP3 PRP SBJP ACCU
-like	PIN PREP
-the	ART DET
-U.S.	CAP NNP
-did	VBD PROD
-with	PIN PREP
-their	TPP3 PRP SBJP
-visa	NN
-regulations	NOMZ
-and	PHC CCONJ
-border	NN
-controls	NN
-.	
-"	QUOT
-Terrorists	NN CAP
-win	VPRT
-"	QUOT
-A	ART CAP DET INDA
-somewhat	DWNT RB
-more	RB EMPH CMADJ
-convincing	JJ
-train	NN
-of	PIN PREP
-thought	PRIV NN
-is	BEMA VPRT AUXB
-the	ART DET
-idea	NN
-that	PIN DEMO SCONJ PREP
-by	PIN PREP
-undermining	GER PGAS
-our	FPP1 PRP SBJP
-European	JJ CAP
-tradition	NOMZ
-of	PIN PREP
-freedom	NN
-and	PHC CCONJ
-democracy	NN
-through	PIN PREP
-state	PUBV NN
-control	NN
-we	FPP1 PRP SBJP
-actually	RB
-"	QUOT
-let	INF
-the	ART DET
-terrorists	NN
-win	INF
-"	QUOT
-,	
-i.e.	CONJ X
-if	COND PIN SCONJ PREP
-we	FPP1 PRP SBJP
-decide	VPRT PRIV SUAV
-to	PIN TO PREP
-give	INF
-up	PIN PREP
-some	QUAN DET
-of	PIN PREP
-our	FPP1 PRP SBJP
-freedom	NN
-for	PIN PREP
-the	ART DET
-sake	NN
-of	PIN PREP
-temporary	JJ
-security	NOMZ
-,	
-we	FPP1 PRP SBJP
-will	PRMD SPAU
-finally	RB
-lose	INF
-both	DET
-.	
-The	ART CAP DET
-ideal	NN
-of	PIN PREP
-the	ART DET
-"	QUOT
-freeborn	JJ
-Englishman	CAP NNP
-"	QUOT
-seems	VPRT SMP
-at	PIN PREP
-risk	NN
-.	
-Though	CONC PIN CAP SCONJ PREP
-this	DEMO DET
-certainly	RB
-applies	VPRT
-to	PIN PREP
-things	NN
-like	PIN PREP
-freedom	NN
-of	PIN PREP
-speech	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-hard	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-how	RB WHCL SCONJ WH
-carrying	PGAS
-a	ART DET INDA
-card	NN
-that	TSUB WHSUB WH
-states	VPRT PUBV
-who	WHCL WH
-you	SPP2 PRP SBJP
-are	VPRT AUXB
-can	POMD
-constitute	INF
-such	EMPH DET
-a	ART DET INDA
-threat	NN
-.	
-Privacy	NN CAP
-issues	NN
-This	DEMP CAP DET
-would	PRMD SPAU
-only	DWNT RB
-be	BEMA AUXB INF
-the	ART DET
-case	NN
-if	COND PIN SCONJ PREP
-government	NOMZ
-agencies	NN
-started	VBD
-to	PIN TO PREP
-collect	INF
-and	PHC CCONJ
-centralise	INF
-more	RB EMPH CMADJ
-and	CCONJ
-more	JJ EMPH CMADJ
-of	PIN PREP
-the	ART DET
-electronically	RB
-stored	
-data	NN
-about	PIN PREP
-individuals	NN
-.	
-Chris	CAP NNP
-Lawrence	CAP NNP
--	
-Pietroni	CAP NNP
-(	
-[	X
-1	NUM
-]	
-)	
-makes	VPRT
-a	ART DET INDA
-point	NN
-in	PIN CONJ PREP
-saying	PUBV PGAS
-that	PIN THVC SCONJ PREP
-the	ART DET
-right	NN
-to	PIN PREP
-privacy	NN
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-recognised	PRIV
-in	PIN CONJ PREP
-the	ART DET
-UK	CAP NNP
--	
-as	PIN CONJ PREP
-opposed	
-to	PIN PREP
-countries	NN
-like	PIN PREP
-Germany	CAP NNP
-who	WH
-practice	VPRT
-a	ART DET INDA
-more	RB EMPH CMADJ
-responsible	JJ
-handling	NN
-of	PIN PREP
-personal	JJ
-data	NN
-.	
-The	ART CAP DET
-buzzwords	NN
-here	RB
-are	BEMA VPRT AUXB
-the	ART DET
-existence	NN
-of	PIN PREP
-a	ART DET INDA
-legitimate	JJ
-aim	NN
-and	CCONJ
-the	ART DET
-principle	NN
-of	PIN PREP
-proportionality	NOMZ
-.	
-A	ART CAP DET INDA
-survey	NN
-quoted	WZPAST
-in	PIN CONJ PREP
-The	ART CAP DET
-Register	CAP NNP
-a	ART DET INDA
-year	NN
-ago	RB
-found	VBD PRIV
-that	PIN THVC SCONJ PREP
-only	DWNT RB
-10	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-population	NOMZ
-are	BEMA VPRT AUXB
-very	AMP RB
-confident	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-government	NOMZ
-would	PRMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-hold	PRIV INF
-personal	JJ
-information	NOMZ
-securely	RB
-.	
-Perhaps	RB CAP
-this	DEMP DET
-should	NEMD
-be	PASS AUXB INF
-considered	PRIV
-as	PIN CONJ PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-rewarding	JJ
-field	NN
-of	PIN PREP
-activity	NOMZ
-for	PIN PREP
-the	ART DET
-Blair	CAP NNP
-government	NOMZ
-should	NEMD
-they	TPP3 PRP SBJP
-win	INF
-a	ART DET INDA
-third	JJ
-term	NN
-.	
-Conclusion	CAP NNP
-This	DEMP CAP DET
-leads	VPRT
-to	PIN PREP
-the	ART DET
-conclusion	NOMZ
-that	PIN TOBJ SCONJ PREP
-this	DEMP DET
-is	BEMA VPRT AUXB
-just	RB EMPH
-the	ART DET
-beginning	NN
-.	
-Much	QUAN RB CAP
-more	JJ EMPH CMADJ
-has	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-done	PROD
-to	PIN TO PREP
-ameliorate	INF
-problems	NN
-like	PIN PREP
-poverty	NN
-(	
-which	SERE DET WH
-leads	VPRT
-to	PIN PREP
-immigration	NOMZ
-)	
-and	ANDC CCONJ
-the	ART DET
-rift	NN
-between	PIN PREP
-the	ART DET
-Western	JJ CAP
-and	CCONJ
-the	ART DET
-Islamic	JJ CAP
-world	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-domestic	JJ
-crime	NN
-.	
-To	PIN TO CAP PREP
-sum	INF
-up	PIN STPR PREP
-,	
-identity	NOMZ
-cards	NN
-would	PRMD SPAU
-not	XX0 RB
-inconvenience	INF
-the	ART DET
-public	NN
-,	
-but	CCONJ
-they	TPP3 PRP SBJP
-would	PRMD SPAU
-n't	XX0 CONT RB
-have	INF
-the	ART DET
-promised	PUBV
-impact	NN
-on	PIN PREP
-crime	NN
-and	PHC CCONJ
-terrorism	NN
-,	
-either	RB
-.	
-But	CAP CCONJ
-they	TPP3 PRP SBJP
-will	PRMD
-arrive	INF
-,	
-sooner	RB CMADJ
-or	CCONJ
-later	RB TIME
-(	
-on	PIN PREP
-10	NUM
-February	CAP NNP
-2005	NUM
-the	ART DET
-UK	CAP NNP
-ID	CAP NNP
-Cards	CAP NNP
-Bill	CAP NNP
-passed	VBD
-its	PIT PRP SBJP
-third	JJ
-reading	NN
-in	PIN CONJ PREP
-the	ART DET
-House	CAP NNP
-of	PIN PREP
-Commons	CAP NNP
-)	
-,	
-and	ANDC CCONJ
-the	ART DET
-hype	NN
-will	PRMD
-fade	INF
-into	PIN PREP
-practical	JJ
-irrelevance	NN
-.	
+type	content	tags
+word	When	RB CAP SCONJ WH
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	first	RB
+gap	 	
+word	heard	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	British	JJ CAP
+gap	 	
+word	citizen	NN
+gap	 	
+word	does	VPRT PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	INF
+gap	 	
+word	anything	QUPR INPR
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	Identity	CAP NNP
+gap	 	
+word	Card	CAP NNP
+gap	 (	
+word	ID	CAP NNP
+gap	) 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	thought	VBD PRIV THATD
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	joke	NN
+gap	. 	
+word	Much	QUAN RB CAP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	bewilderment	NOMZ
+gap	, 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	then	RB
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	true	JJ PRED
+gap	 - 	
+word	at	PIN PREP
+gap	 	
+word	least	JJ SPADJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	being	WZPRES AUXB
+gap	. 	
+word	Having	PEAS CAP PGAS
+gap	 	
+word	spent	
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	life	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Germany	CAP NNP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	didn	
+gap	'	
+word	t	
+gap	 	
+word	even	RB
+gap	 	
+word	come	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	mind	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	still	RB
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	countries	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	haven	
+gap	'	
+word	t	
+gap	 	
+word	thought	PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	giving	PGAS
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	handy	JJ
+gap	 	
+word	little	JJ
+gap	 	
+word	cards	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	citizens	NN
+gap	. 	
+word	Well	DPAR CAP UH
+gap	, 	
+word	maybe	RB HDG
+gap	 	
+word	apart	RB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	countries	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Philippines	CAP NNP
+gap	. 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	continent	NN
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	'	
+word	re	CONT VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	stopped	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	police	NN
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	day	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	taken	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	granted	SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	police	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	check	PRIV INF
+gap	 	
+word	identity	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	way	NN
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	debate	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	lead	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	strong	JJ
+gap	 	
+word	opposition	NOMZ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	even	RB
+gap	 	
+word	stranger	JJ CMADJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	foreign	JJ
+gap	 	
+word	observer	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	German	JJ CAP
+gap	 	
+word	government	NOMZ
+gap	 	
+word	announced	VBD PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	rollout	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	biometric	JJ
+gap	 	
+word	IDs	NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	passports	NN
+gap	 	
+word	there	EX
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	merely	DWNT RB
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	moaning	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	over	PIN PREP
+gap	 130€. 	
+word	The	ART CAP DET
+gap	 	
+word	Brits	CAP NNP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	conservative	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	extent	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	weakness	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	overhauled	
+gap	 	
+word	traditions	NOMZ
+gap	 (	
+word	you	SPP2 PRP SBJP
+gap	'	
+word	ve	CONT VPRT SPAU
+gap	 	
+word	still	RB
+gap	 	
+word	got	
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	monarchy	JJ
+gap	 	
+word	thing	NN
+gap	 	
+word	going	WZPRES PGAS
+gap	 	
+word	on	PIN STPR PREP
+gap	, 	
+word	right	JJ
+gap	?), 	
+word	but	CCONJ
+gap	 	
+word	then	RB
+gap	 	
+word	again	RB TIME
+gap	, 	
+word	that	WHQU DEMP WH
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	mean	PRIV THATD INF
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	don	
+gap	'	
+word	t	
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	point	NN
+gap	. 	
+word	So	RB CAP
+gap	 	
+word	what	WHQU WH
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	fuss	NN
+gap	 	
+word	about	PIN STPR PREP
+gap	? 	
+word	The	ART CAP DET
+gap	 	
+word	occasion	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	proposing	SUAV PGAS
+gap	 	
+word	compulsory	JJ
+gap	 	
+word	IDs	NN CAP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	everyone	QUPR INPR
+gap	 	
+word	was	VBD AUXB
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	other	JJ
+gap	 	
+word	measures	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	terrorist	JJ
+gap	 	
+word	threat	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	become	
+gap	 	
+word	apparent	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terrorist	JJ
+gap	 	
+word	attacks	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	American	JJ CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	European	JJ CAP
+gap	 	
+word	soil	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	aftermath	NN
+gap	, 	
+word	governments	NOMZ
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	seem	VPRT SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	engaged	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	race	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	come	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	comprehensive	JJ
+gap	 "	
+word	security	NOMZ
+gap	 	
+word	packages	NN
+gap	", 	
+word	many	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	directly	RB
+gap	 	
+word	or	CCONJ
+gap	 	
+word	indirectly	RB
+gap	 	
+word	impairing	JJ
+gap	 	
+word	civil	JJ
+gap	 	
+word	liberties	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	clear	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	convinced	
+gap	 	
+word	liberals	NN
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	fundamentally	RB
+gap	 	
+word	oppose	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	, 	
+word	just	RB EMPH
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	do	VPRT
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	cherish	JJ
+gap	 	
+word	liberty	NN
+gap	 	
+word	that	TOBJ TSUB WHSUB WH
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	will	PRMD
+gap	 	
+word	embrace	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	promise	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	additional	JJ
+gap	 	
+word	safety	NN
+gap	. 	
+word	Both	CAP DET
+gap	 	
+word	viewpoints	NN
+gap	 	
+word	shall	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	examined	
+gap	 	
+word	here	RB
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	civil	JJ
+gap	 	
+word	liberties	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	protected	
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	become	INF
+gap	 	
+word	clear	JJ
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	identity	NOMZ
+gap	 	
+word	cards	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	accordable	JJ PRED
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	war	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	terror	NN
+gap	 	
+word	Opponents	CAP NNP
+gap	 	
+word	describe	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	recent	JJ
+gap	 	
+word	bill	NN
+gap	 	
+word	proposed	SUAV WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Labour	JJ CAP
+gap	 	
+word	government	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 "	
+word	well	DPAR RB
+gap	-	
+word	intentioned	
+gap	 	
+word	but	CCONJ
+gap	 	
+word	misguided	JJ
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	counter	INF
+gap	 	
+word	terrorism	NN
+gap	" , 	
+word	thus	RB CONJ
+gap	 	
+word	rebuting	PGAS
+gap	 	
+word	what	WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	claims	VPRT PUBV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	motivation	NOMZ
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	initiative	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	arguably	RB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	evidence	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	effectiveness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	IDs	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	tackling	PGAS
+gap	 	
+word	terrorism	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	striking	JJ
+gap	 	
+word	example	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 9/11 	
+word	attackers	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	possession	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	legal	JJ
+gap	 	
+word	documents	NOMZ
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	plastic	JJ
+gap	 	
+word	cards	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	ultimate	JJ
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	crime	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	terror	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	negative	JJ
+gap	 	
+word	implications	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	exaggerated	JJ
+gap	. 	
+word	Mark	CAP NNP
+gap	 	
+word	Littlewood	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 [1] 	
+word	Practical	JJ CAP
+gap	 	
+word	issues	NN
+gap	 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	there	RB
+gap	 	
+word	already	RB
+gap	 	
+word	exist	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	means	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	identification	NOMZ
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	passports	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	driving	PGAS
+gap	 	
+word	licences	NN
+gap	, 	
+word	so	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	novelty	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	required	SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	ID	CAP NNP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	police	NN
+gap	 	
+word	stops	VPRT
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	street	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	won	
+gap	'	
+word	t	
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	lead	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	dramatic	JJ
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	street	NN
+gap	 	
+word	controls	NN
+gap	, 	
+word	nor	CCONJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	unjustified	JJ
+gap	 	
+word	detainments	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	discrimination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 "	
+word	suspect	JJ PRIV
+gap	" 	
+word	groups	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	suggest	VPRT PUBV SUAV
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	harassment	NOMZ
+gap	 	
+word	may	POMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	been	AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	wartime	JJ
+gap	 	
+word	IDs	NN CAP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	abolished	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1953, 	
+word	but	CCONJ
+gap	 	
+word	experience	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	countries	NN
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	such	JJ
+gap	 	
+word	fears	PRIV NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	justified	JJ
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	comes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	mind	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	curbing	PGAS
+gap	 	
+word	underage	JJ
+gap	 	
+word	drinking	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	smoking	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	public	NN
+gap	. 	
+word	And	ANDC CAP CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	tedious	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	open	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	account	NN
+gap	. 	
+word	Here	RB CAP
+gap	'	
+word	s	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	excerpt	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Oxford	CAP NNP
+gap	 	
+word	Brooke	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	University	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	website	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	open	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	account	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	students	NN
+gap	: 	
+word	Opening	PRESP CAP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	accountYou	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	want	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	open	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	account	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	use	NN
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	student	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	students	NN
+gap	. 	
+word	You	SPP2 CAP PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	find	PRIV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	helpful	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	arrange	SUAV INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	draw	INF
+gap	 	
+word	cash	NN
+gap	 	
+word	electronically	RB
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	bank	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	home	NN
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	open	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	account	NN
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	original	JJ
+gap	 	
+word	documents	NOMZ
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	may	POMD
+gap	 	
+word	include	INF
+gap	:- 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	offer	NN
+gap	 	
+word	letter	NN
+gap	 (	
+word	from	PIN PREP
+gap	 	
+word	UCAS	CAP NNP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	University	CAP NNP
+gap	) - 	
+word	an	ART DET INDA
+gap	 	
+word	attendance	NN
+gap	 	
+word	certificate	NN
+gap	 (	
+word	please	UH
+gap	 	
+word	contact	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	Student	CAP NNP
+gap	 	
+word	Administration	CAP NNP
+gap	 	
+word	Office	CAP
+gap	)- 	
+word	evidence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	both	CCONJ
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	UK	CAP NNP
+gap	 	
+word	address	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	address	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	home	NN
+gap	 	
+word	country	NN
+gap	 - 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	passport	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	national	JJ
+gap	 	
+word	identity	NOMZ
+gap	 	
+word	card	NN
+gap	 - 	
+word	a	ART DET INDA
+gap	 	
+word	reference	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	bank	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	copies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	bank	NN
+gap	 	
+word	statements	NOMZ
+gap	 (	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	another	DET
+gap	 	
+word	account	NN
+gap	) 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	tell	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	experience	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	even	RB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	difficult	JJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	'	
+word	re	CONT VPRT
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	student	NN
+gap	. 	
+word	Forging	CAP PGAS
+gap	 	
+word	Forging	CAP NNP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	stealing	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	problem	NN
+gap	, 	
+word	either	RB
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	state	PUBV NN
+gap	-	
+word	of	PIN STPR PREP
+gap	-	
+word	the	ART DET
+gap	-	
+word	art	NN
+gap	 	
+word	protection	NOMZ
+gap	 	
+word	mechanisms	NN
+gap	 	
+word	included	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	IDs	NN CAP
+gap	 	
+word	render	VPRT
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	infeasible	JJ
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	concern	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	past	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	storing	PGAS
+gap	 	
+word	biometric	JJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	RFID	CAP NNP
+gap	 	
+word	chips	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	leap	NN
+gap	 	
+word	compared	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	outdated	JJ
+gap	 	
+word	smartcards	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	France	CAP NNP
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	anyone	QUPR INPR
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	worried	JJ PRED
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	security	NOMZ
+gap	, 	
+word	please	UH
+gap	 	
+word	stop	INF
+gap	 	
+word	using	PGAS
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	credit	NN
+gap	 	
+word	cards	NN
+gap	 - 	
+word	and	ANDC CCONJ
+gap	 	
+word	paper	NN
+gap	 	
+word	money	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	. 	
+word	Costs	NN CAP
+gap	 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	conclusive	JJ
+gap	 	
+word	answer	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	billion	NUM
+gap	 	
+word	pound	NN
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	worth	JJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	actual	JJ
+gap	 "	
+word	hardware	NN
+gap	" 	
+word	that	WHQU DEMP WH
+gap	 	
+word	has	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	shipped	
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	considerable	JJ
+gap	 	
+word	administrative	JJ
+gap	 	
+word	burden	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	maintain	PUBV INF
+gap	 	
+word	databases	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	access	INF
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	features	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	IDs	NN CAP
+gap	, 	
+word	police	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	equipped	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	suitable	JJ
+gap	 	
+word	devices	NN
+gap	, 	
+word	so	PIN EMPH SCONJ PREP
+gap	 	
+word	consequential	JJ
+gap	 	
+word	costs	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	likely	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	higher	JJ PRED CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	initial	JJ
+gap	 	
+word	investment	NOMZ
+gap	. 	
+word	Immigration	NOMZ CAP
+gap	 	
+word	Fighting	WZPRES CAP PGAS
+gap	 	
+word	illegal	JJ
+gap	 	
+word	immigration	NOMZ
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	PASS BYPA SPAU AUXB INF
+gap	 	
+word	greatly	AMP RB
+gap	 	
+word	simplified	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	IDs	NN CAP
+gap	. 	
+word	Basically	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	police	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	border	NN
+gap	 	
+word	guards	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	send	INF
+gap	 	
+word	everyone	QUPR INPR
+gap	 	
+word	away	RB PLACE
+gap	 	
+word	who	WH
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	valid	JJ
+gap	 	
+word	ID	CAP NNP
+gap	. 	
+word	So	RB CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	debate	NN
+gap	 	
+word	comes	VPRT
+gap	 	
+word	down	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	think	VPRT PRIV THATD
+gap	 	
+word	immigration	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	thing	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	uncommon	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	affluent	JJ
+gap	 	
+word	countries	NN
+gap	 	
+word	take	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	strictest	JJ SPADJ
+gap	 	
+word	precautions	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	deter	INF
+gap	 	
+word	poor	JJ
+gap	 	
+word	asylum	NN
+gap	 	
+word	seekers	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	getting	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	piece	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cake	NN
+gap	 - 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	Pakistan	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	ready	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	accept	PRIV INF
+gap	 2 	
+word	million	NUM
+gap	 	
+word	Afghan	JJ CAP
+gap	 	
+word	refugees	NN
+gap	. 	
+word	Either	CAP DET
+gap	 	
+word	way	NN
+gap	, 	
+word	being	BEMA AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	demand	SUAV INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	ID	CAP NNP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	time	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	tighter	JJ CMADJ
+gap	 	
+word	controls	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	what	WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	government	NOMZ
+gap	 	
+word	wants	VPRT
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	draw	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	line	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	immigration	NOMZ
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	UK	CAP NNP
+gap	 	
+word	should	NEMD
+gap	 	
+word	remember	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	needs	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	immigrants	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	should	NEMD
+gap	 	
+word	avoid	INF
+gap	 	
+word	alienating	GER PGAS
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	U	
+gap	.	
+word	S	
+gap	. 	
+word	did	
+gap	 	
+word	with	
+gap	 	
+word	their	
+gap	 	
+word	visa	
+gap	 	
+word	regulations	
+gap	 	
+word	and	
+gap	 	
+word	border	
+gap	 	
+word	controls	
+gap	. "	
+word	Terrorists	
+gap	 	
+word	win	
+gap	" 	
+word	A	
+gap	 	
+word	somewhat	
+gap	 	
+word	more	
+gap	 	
+word	convincing	
+gap	 	
+word	train	
+gap	 	
+word	of	
+gap	 	
+word	thought	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	that	
+gap	 	
+word	by	
+gap	 	
+word	undermining	
+gap	 	
+word	our	
+gap	 	
+word	European	
+gap	 	
+word	tradition	
+gap	 	
+word	of	
+gap	 	
+word	freedom	
+gap	 	
+word	and	
+gap	 	
+word	democracy	
+gap	 	
+word	through	
+gap	 	
+word	state	
+gap	 	
+word	control	
+gap	 	
+word	we	
+gap	 	
+word	actually	
+gap	 "	
+word	let	
+gap	 	
+word	the	
+gap	 	
+word	terrorists	
+gap	 	
+word	win	
+gap	", 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	if	
+gap	 	
+word	we	
+gap	 	
+word	decide	
+gap	 	
+word	to	
+gap	 	
+word	give	
+gap	 	
+word	up	
+gap	 	
+word	some	
+gap	 	
+word	of	
+gap	 	
+word	our	
+gap	 	
+word	freedom	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	sake	
+gap	 	
+word	of	
+gap	 	
+word	temporary	
+gap	 	
+word	security	
+gap	, 	
+word	we	
+gap	 	
+word	will	
+gap	 	
+word	finally	
+gap	 	
+word	lose	
+gap	 	
+word	both	
+gap	. 	
+word	The	
+gap	 	
+word	ideal	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 "	
+word	freeborn	
+gap	 	
+word	Englishman	
+gap	" 	
+word	seems	
+gap	 	
+word	at	
+gap	 	
+word	risk	
+gap	. 	
+word	Though	
+gap	 	
+word	this	
+gap	 	
+word	certainly	
+gap	 	
+word	applies	
+gap	 	
+word	to	
+gap	 	
+word	things	
+gap	 	
+word	like	
+gap	 	
+word	freedom	
+gap	 	
+word	of	
+gap	 	
+word	speech	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	hard	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	how	
+gap	 	
+word	carrying	
+gap	 	
+word	a	
+gap	 	
+word	card	
+gap	 	
+word	that	
+gap	 	
+word	states	
+gap	 	
+word	who	
+gap	 	
+word	you	
+gap	 	
+word	are	
+gap	 	
+word	can	
+gap	 	
+word	constitute	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	threat	
+gap	. 	
+word	Privacy	
+gap	 	
+word	issues	
+gap	 	
+word	This	
+gap	 	
+word	would	
+gap	 	
+word	only	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	if	
+gap	 	
+word	government	
+gap	 	
+word	agencies	
+gap	 	
+word	started	
+gap	 	
+word	to	
+gap	 	
+word	collect	
+gap	 	
+word	and	
+gap	 	
+word	centralise	
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	and	
+gap	 	
+word	more	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	electronically	
+gap	 	
+word	stored	
+gap	 	
+word	data	
+gap	 	
+word	about	
+gap	 	
+word	individuals	
+gap	. 	
+word	Chris	
+gap	 	
+word	Lawrence	
+gap	-	
+word	Pietroni	
+gap	 ([1]) 	
+word	makes	
+gap	 	
+word	a	
+gap	 	
+word	point	
+gap	 	
+word	in	
+gap	 	
+word	saying	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	to	
+gap	 	
+word	privacy	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	recognised	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	UK	
+gap	 - 	
+word	as	
+gap	 	
+word	opposed	
+gap	 	
+word	to	
+gap	 	
+word	countries	
+gap	 	
+word	like	
+gap	 	
+word	Germany	
+gap	 	
+word	who	
+gap	 	
+word	practice	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	responsible	
+gap	 	
+word	handling	
+gap	 	
+word	of	
+gap	 	
+word	personal	
+gap	 	
+word	data	
+gap	. 	
+word	The	
+gap	 	
+word	buzzwords	
+gap	 	
+word	here	
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 	
+word	existence	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	legitimate	
+gap	 	
+word	aim	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	principle	
+gap	 	
+word	of	
+gap	 	
+word	proportionality	
+gap	 . 	
+word	A	
+gap	 	
+word	survey	
+gap	 	
+word	quoted	
+gap	 	
+word	in	
+gap	 	
+word	The	
+gap	 	
+word	Register	
+gap	 	
+word	a	
+gap	 	
+word	year	
+gap	 	
+word	ago	
+gap	 	
+word	found	
+gap	 	
+word	that	
+gap	 	
+word	only	
+gap	 10% 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	population	
+gap	 	
+word	are	
+gap	 	
+word	very	
+gap	 	
+word	confident	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	government	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	hold	
+gap	 	
+word	personal	
+gap	 	
+word	information	
+gap	 	
+word	securely	
+gap	. 	
+word	Perhaps	
+gap	 	
+word	this	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	considered	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	rewarding	
+gap	 	
+word	field	
+gap	 	
+word	of	
+gap	 	
+word	activity	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	Blair	
+gap	 	
+word	government	
+gap	 	
+word	should	
+gap	 	
+word	they	
+gap	 	
+word	win	
+gap	 	
+word	a	
+gap	 	
+word	third	
+gap	 	
+word	term	
+gap	. 	
+word	Conclusion	
+gap	 	
+word	This	
+gap	 	
+word	leads	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	conclusion	
+gap	 	
+word	that	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	just	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	. 	
+word	Much	
+gap	 	
+word	more	
+gap	 	
+word	has	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	done	
+gap	 	
+word	to	
+gap	 	
+word	ameliorate	
+gap	 	
+word	problems	
+gap	 	
+word	like	
+gap	 	
+word	poverty	
+gap	 (	
+word	which	
+gap	 	
+word	leads	
+gap	 	
+word	to	
+gap	 	
+word	immigration	
+gap	) 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	rift	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	Western	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	Islamic	
+gap	 	
+word	world	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	domestic	
+gap	 	
+word	crime	
+gap	. 	
+word	To	
+gap	 	
+word	sum	
+gap	 	
+word	up	
+gap	, 	
+word	identity	
+gap	 	
+word	cards	
+gap	 	
+word	would	
+gap	 	
+word	not	
+gap	 	
+word	inconvenience	
+gap	 	
+word	the	
+gap	 	
+word	public	
+gap	, 	
+word	but	
+gap	 	
+word	they	
+gap	 	
+word	wouldn	
+gap	'	
+word	t	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	promised	
+gap	 	
+word	impact	
+gap	 	
+word	on	
+gap	 	
+word	crime	
+gap	 	
+word	and	
+gap	 	
+word	terrorism	
+gap	, 	
+word	either	
+gap	. 	
+word	But	
+gap	 	
+word	they	
+gap	 	
+word	will	
+gap	 	
+word	arrive	
+gap	, 	
+word	sooner	
+gap	 	
+word	or	
+gap	 	
+word	later	
+gap	 (	
+word	on	
+gap	 10 	
+word	February	
+gap	 2005 	
+word	the	
+gap	 	
+word	UK	
+gap	 	
+word	ID	
+gap	 	
+word	Cards	
+gap	 	
+word	Bill	
+gap	 	
+word	passed	
+gap	 	
+word	its	
+gap	 	
+word	third	
+gap	 	
+word	reading	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	House	
+gap	 	
+word	of	
+gap	 	
+word	Commons	
+gap	), 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	hype	
+gap	 	
+word	will	
+gap	 	
+word	fade	
+gap	 	
+word	into	
+gap	 	
+word	practical	
+gap	 	
+word	irrelevance	
+gap	.	

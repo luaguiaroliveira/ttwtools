@@ -1,829 +1,1415 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0730.0462.txt
-token	tags
-        	
-Deviating	CAP NNP
-from	PIN PREP
-the	ART DET
-conventional	JJ
-Regional	CAP NNP
-Science	CAP NNP
-approach	NN
-,	
-this	DEMO DET
-essay	NN
-synthesizes	VPRT
-a	ART DET INDA
-theoretical	JJ
-framework	NN
-to	PIN TO PREP
-understand	PRIV INF
-Urban	CAP NNP
-Economics	CAP NNP
-.	
-My	FPP1 CAP PRP SBJP
-approach	NN
-highlights	VPRT
-the	ART DET
-importance	NN
-of	PIN PREP
-land	NN
-as	PIN CONJ PREP
-an	ART DET INDA
-asset	NN
-,	
-the	ART DET
-interdependence	NN
-of	PIN PREP
-individual	JJ
-decisions	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-preeminence	NN
-of	PIN PREP
-the	ART DET
-urban	JJ
-capitalists	NN
-to	PIN TO PREP
-affect	INF
-the	ART DET
-dynamics	NN
-of	PIN PREP
-the	ART DET
-city	NN
-.	
-The	ART CAP DET
-intellectual	JJ
-traditions	NOMZ
-that	TSUB WHSUB WH
-informs	VPRT
-it	PIT PRP SBJP
-are	BEMA VPRT AUXB
-the	ART DET
-Marxian	JJ CAP
-land	NN
-rent	NN
-theory	NN
-,	
-the	ART DET
-Post	JJ CAP
--	JJ
-Keynesian	JJ CAP
-urban	JJ
-convention	NOMZ
-concept	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-Schumpeterian	JJ CAP
-entrepreneur	NN
-idea	NN
-.	
-This	DEMO CAP DET
-effort	NN
-is	PASS VPRT SPAU AUXB
-heavily	RB
-based	
-on	PIN PREP
-Abramo	CAP NNP
-'s	
-(	
-2007	NUM
-)	
-pioneering	GER PGAS
-–	
-and	ANDC CCONJ
-widely	RB
-unrecognized	JJ
--	
-work	NN
-on	PIN PREP
-theoretical	JJ
-Urban	CAP NNP
-Economics	CAP NNP
-.	
-This	DEMO CAP DET
-theoretical	JJ
-exercise	NN
-leads	VPRT
-to	PIN PREP
-an	ART DET INDA
-empirical	JJ
-econometric	JJ
-model	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-explain	PUBV INF
-the	ART DET
-changes	NN
-in	PIN CONJ PREP
-real	JJ
-estate	NN
-prices	NN
-after	PIN PREP
-an	ART DET INDA
-intense	JJ
-State	PUBV NN CAP
-intervention	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-large	JJ
--	
-scale	NN
-urban	JJ
-projects	NN
-.	
-Then	RB CAP
-,	
-I	FPP1 CAP PRP SBJP
-use	VPRT
-data	NN
-from	PIN PREP
-the	ART DET
-Northern	CAP NNP
-Vector	CAP NNP
-of	PIN PREP
-the	ART DET
-Metropolitan	CAP NNP
-Area	CAP NNP
-of	PIN PREP
-Belo	CAP NNP
-Horizonte	CAP NNP
-to	PIN TO PREP
-test	INF
-the	ART DET
-hypothesis	NN
-that	DEMO WHOBJ WH
-land	NN
-rent	NN
-,	
-urban	JJ
-convention	NOMZ
-and	CCONJ
-the	ART DET
-behavior	NN
-of	PIN PREP
-entrepreneurs	NN
-are	BEMA VPRT AUXB
-essential	JJ
-dimensions	NOMZ
-of	PIN PREP
-the	ART DET
-urban	JJ
-economy	NN
-dynamics	NN
-.	
- 	
-On	PIN CAP PREP
-contrary	NN
-of	PIN PREP
-other	JJ
-areas	NN
-within	PIN PREP
-the	ART DET
-economic	JJ
-science	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-Macroeconomics	CAP NNP
-,	
-the	ART DET
-Urban	CAP NNP
-Economics	CAP NNP
-field	NN
-has	VPRT
-a	ART DET INDA
-less	RB CMADJ
-clear	JJ
-division	NOMZ
-between	PIN PREP
-orthodox	NNP
-and	CCONJ
-heterodox	NN
-approaches	NN
-.	
-The	ART CAP DET
-Regional	CAP NNP
-Science	CAP NNP
-attempt	NN
-to	PIN TO PREP
-insert	INF
-the	ART DET
-space	NN
-into	PIN PREP
-the	ART DET
-neoclassical	JJ
-framework	NN
-may	POMD SPAU
-certainly	RB
-be	PASS AUXB INF
-interpreted	
-as	PIN CONJ PREP
-an	ART DET INDA
-orthodox	JJ
-approach	NN
-to	PIN PREP
-the	ART DET
-matter	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-easy	JJ PRED
-to	PIN TO PREP
-realize	PRIV INF
-by	PIN PREP
-checking	PRIV PGAS
-the	ART DET
-fundamental	JJ
-hypothesis	NN
-behind	PIN PLACE PREP
-Regional	CAP NNP
-Science	CAP NNP
-'s	
-works	NN
-:	
-the	ART DET
-belief	NN
-on	PIN PREP
-an	ART DET INDA
-equilibrium	NN
-point	NN
-,	
-the	ART DET
-homo	NN
-economicus	NNP
-dogma	NN
-that	TSUB WHSUB WH
-informs	VPRT
-the	ART DET
-individual	JJ
-maximization	NOMZ
-,	
-the	ART DET
-homogeneity	NOMZ
-of	PIN PREP
-the	ART DET
-agents	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-non	JJ
--	NN
-consideration	NOMZ
-of	PIN PREP
-historical	JJ
-and	PHC CCONJ
-cultural	JJ
-aspects	NN
-(	
-Abramo	CAP NNP
-,	
-2007	NUM
-;	
-Almeida	CAP NNP
-,	
-2016	NUM
-;	
-Martin	CAP NNP
-,	
-1999	NUM
-)	
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-critical	JJ
-perspectives	NN
-in	PIN CONJ PREP
-general	JJ
-lies	NN
-'	CONT QUOT
-outside	JJ PLACE
-'	CONT QUOT
-Economics	CAP NNP
-,	
-within	PIN PREP
-Economic	CAP NNP
-Geography	CAP NNP
-and	PHC CCONJ
-Urban	CAP NNP
-Planning	CAP NNP
-,	
-or	CCONJ
-more	RB EMPH CMADJ
-broadly	RB
-,	
-within	PIN PREP
-the	ART DET
-highly	AMP RB
-heterogeneous	JJ
-field	NN
-of	PIN PREP
-Urban	CAP NNP
-Studies	CAP NNP
-.	
- 	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-panorama	NN
-,	
-this	DEMO DET
-essay	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-synthesize	INF
-a	ART DET INDA
-heterodox	JJ
-approach	NN
-to	PIN PREP
-Urban	CAP NNP
-Economics	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-others	NN
-words	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-synthesis	NN
-deviates	NN
-from	PIN PREP
-the	ART DET
-Regional	CAP NNP
-Science	CAP NNP
-tradition	NOMZ
-,	
-but	CCONJ
-it	PIT PRP SBJP
-lies	VPRT
-"	QUOT
-inside	JJ PLACE
-"	QUOT
-economic	JJ
-theory	NN
--	
-drawing	PGAS
-on	PIN PREP
-land	NN
-rent	NN
-theory	NN
-,	
-on	PIN PREP
-the	ART DET
-Post	JJ CAP
--	JJ
-Keynesian	JJ CAP
-notion	NOMZ
-of	PIN PREP
-convention	NOMZ
-and	CCONJ
-on	PIN PREP
-the	ART DET
-Schumpeterian	JJ CAP
-explanation	NOMZ
-for	PIN PREP
-innovation	NOMZ
-.	
-It	PIT CAP PRP SBJP
-is	VPRT AUXB
-argue	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-land	NN
-rent	NN
-theory	NN
-is	BEMA VPRT AUXB
-crucial	JJ PRED
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-nature	NN
-of	PIN PREP
-capitalist	JJ
-cities	NN
-,	
-and	ANDC CCONJ
-more	RB EMPH CMADJ
-specifically	RB
-,	
-the	ART DET
-real	JJ
-estate	NN
-prices	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-Abramo	CAP NNP
-'s	
-(	
-2007	NUM
-)	
-effort	NN
-to	PIN TO PREP
-provide	INF
-a	ART DET INDA
-coherent	JJ
-heterodox	JJ
-framework	NN
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-cities	NN
-'	CONT QUOT
-dynamic	NN
-makes	VPRT
-the	ART DET
-other	JJ
-two	NUM
--	
-third	NN
-of	PIN PREP
-the	ART DET
-synthesis	NN
-here	RB
-.	
-Abramo	CAP NNP
-(	
-2007	NUM
-)	
-contributed	VBD
-to	PIN PREP
-this	DEMO DET
-challenge	NN
-creating	WZPRES PGAS
-the	ART DET
-concepts	NN
-of	PIN PREP
-urban	JJ
-convention	NOMZ
-and	CCONJ
-the	ART DET
-urban	JJ
-entrepreneur	NN
-.	
-The	ART CAP DET
-first	JJ
-concept	NN
-highlights	VPRT
-the	ART DET
-interdependence	NN
-among	PIN PREP
-individual	JJ
-decisions	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-manner	NN
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-choose	VPRT
-a	ART DET INDA
-place	NN
-to	PIN TO PREP
-live	INF
-and	CCONJ
-to	PIN TO PREP
-buy	INF
-a	ART DET INDA
-real	JJ
-estate	NN
-.	
-The	ART CAP DET
-urban	JJ
-convention	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-way	NN
-to	PIN TO PREP
-understand	PRIV INF
-cities	NN
-'	CONT QUOT
-spacial	JJ
-configuration	NOMZ
-and	CCONJ
-its	PIT PRP SBJP
-patterns	NN
-.	
-The	ART CAP DET
-second	JJ
-concept	NN
-gives	VPRT
-the	ART DET
-dynamic	JJ
-dimension	NOMZ
-to	PIN PREP
-that	DEMO DET
-configuration	NOMZ
-,	
-emphasizing	GER PRESP PGAS
-how	RB SCONJ WH
-new	JJ
-frontiers	NN
-are	BEMA VPRT AUXB
-open	JJ PRED
-in	PIN CONJ PREP
-the	ART DET
-city	NN
-and	ANDC CCONJ
-how	RB SCONJ WH
-the	ART DET
-psychologically	JJ
-depreciation	NOMZ
-of	PIN PREP
-real	JJ
-estate	NN
-agglomerations	NOMZ
-occurs	VPRT
-.	
-The	ART CAP DET
-action	NOMZ
-of	PIN PREP
-urban	JJ
-enterpreneurs	NN
-,	
-of	PIN PREP
-the	ART DET
-State	PUBV CAP NNP
-and	CCONJ
-of	PIN PREP
-the	ART DET
-banks	NN
-shapes	VPRT
-new	JJ
-urban	JJ
-conventions	NOMZ
-,	
-leading	PGAS
-to	PIN TO PREP
-change	INF
-in	PIN CONJ PREP
-the	ART DET
-neighborhood	NN
-'s	
-status	NN
--	
-consequently	RB CONJ
-,	
-on	PIN PREP
-the	ART DET
-price	NN
-and	PHC CCONJ
-rent	NN
-of	PIN PREP
-the	ART DET
-real	JJ
-estate	NN
-located	WZPAST
-there	RB
-.	
-  	
-With	PIN CAP PREP
-this	DEMO DET
-theoretical	JJ
-approach	NN
-on	PIN PREP
-hands	NN
-,	
-the	ART DET
-construction	NOMZ
-of	PIN PREP
-a	ART DET INDA
-model	NN
-clarifies	NN
-and	CCONJ
-exemplifies	VPRT
-it	PIT PRP SBJP
-.	
-Then	RB CAP
-,	
-an	ART DET INDA
-econometric	JJ
-model	NN
-is	PASS VPRT AUXB
-derived	
-from	PIN PREP
-it	PIT PRP SBJP
-as	PIN CONJ PREP
-a	ART DET INDA
-heuristic	JJ
-tool	NN
-able	JJ
-to	PIN TO PREP
-capture	INF
-the	ART DET
-dynamics	NN
-of	PIN PREP
-a	ART DET INDA
-city	NN
-or	CCONJ
-its	PIT PRP SBJP
-portions	NOMZ
-.	
-Finally	RB CAP
-,	
-this	DEMO DET
-model	NN
-is	PASS VPRT AUXB
-tested	
-with	PIN PREP
-the	ART DET
-data	NN
-from	PIN PREP
-Belo	CAP NNP
-Horizonte	CAP NNP
-'s	
-Northern	CAP NNP
-Vector	CAP NNP
-.	
-This	DEMO CAP DET
-vector	NN
-of	PIN PREP
-the	ART DET
-Metropolitan	CAP NNP
-Region	CAP NNP
-of	PIN PREP
-Belo	CAP NNP
-Horizonte	CAP NNP
-(	
-MABH	CAP NNP
-)	
-has	VPRT PEAS
-been	AUXB
-passing	PGAS
-to	PIN PREP
-a	ART DET INDA
-spatial	JJ
-restructuring	GER
-,	
-after	PIN PREP
-a	ART DET INDA
-huge	JJ
-exogenous	JJ
-shock	NN
-of	PIN PREP
-public	JJ
-investment	NOMZ
-through	PIN PREP
-the	ART DET
-form	NN
-of	PIN PREP
-large	JJ
--	
-scale	NN
-urban	JJ
-projects	NN
-(	
-LSUP	CAP NNP
-)	
-.	
-These	DEMO CAP DET
-LSUP	NN CAP
-might	POMD
-have	PEAS INF
-affected	
-the	ART DET
-urban	JJ
-convention	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-area	NN
-,	
-and	ANDC CCONJ
-through	PIN PREP
-the	ART DET
-action	NOMZ
-of	PIN PREP
-urban	JJ
-enterpreneurs	NN
-,	
-might	POMD
-have	INF
-change	INF
-the	ART DET
-land	NN
-rent	NN
-.	
-Therefore	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-seen	PRIV
-as	PIN CONJ PREP
-an	ART DET INDA
-interesting	JJ
-site	NN
-to	PIN TO PREP
-test	INF
-these	DEMO DET
-formulations	NOMZ
-.	
-Moreover	RB CONJ CAP
-,	
-the	ART DET
-MABH	CAP NNP
-represents	VPRT
-a	ART DET INDA
-very	AMP RB
-typical	JJ
-kind	NN HDG
-of	PIN PREP
-Latin	JJ CAP
-American	JJ CAP
-metropolis	NN
-,	
-with	PIN PREP
-a	ART DET INDA
-huge	JJ
-socio	NN
--	
-spatial	JJ
-inequality	NOMZ
-and	ANDC CCONJ
-which	DET WH
-undergone	VBD
-a	ART DET INDA
-rapid	JJ
-urbanization	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-last	JJ
-50	NUM
-years	NN
-.	
- 	
-The	ART CAP DET
-rest	NN
-of	PIN PREP
-the	ART DET
-essay	NN
-is	PASS VPRT AUXB
-structured	
-as	PIN CONJ PREP
-follows	VPRT
-.	
-The	ART CAP DET
-next	JJ
-section	NOMZ
-provides	VPRT
-the	ART DET
-theoretical	JJ
-discussion	NOMZ
-and	CCONJ
-ends	VPRT
-with	PIN PREP
-the	ART DET
-econometric	JJ
-model	NN
-.	
-Section	NOMZ CAP
-3	NUM
-presents	VPRT
-data	NN
-and	PHC CCONJ
-methods	NN
-used	
-.	
-Section	NOMZ CAP
-4	NUM
-shows	PRIV NN
-and	CCONJ
-discusses	VPRT
-the	ART DET
-results	NN
-.	
-Section	NOMZ CAP
-5	NUM
-concludes	VPRT PRIV
-emphasizing	GER PGAS
-how	RB SCONJ WH
-the	ART DET
-land	NN
-value	NN
-capture	NN
-instruments	NOMZ
-may	POMD
-be	BEMA AUXB INF
-useful	JJ PRED
-to	PIN TO PREP
-self	NN
--	
-finance	INF
-the	ART DET
-urban	JJ
-infrastructure	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0730.0462>\n\n      	
+word	Deviating	CAP NNP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conventional	JJ
+gap	 	
+word	Regional	CAP NNP
+gap	 	
+word	Science	CAP NNP
+gap	 	
+word	approach	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	synthesizes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	framework	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	Urban	CAP NNP
+gap	 	
+word	Economics	CAP NNP
+gap	. 	
+word	My	FPP1 CAP PRP SBJP
+gap	 	
+word	approach	NN
+gap	 	
+word	highlights	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	asset	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	interdependence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	decisions	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	preeminence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	urban	JJ
+gap	 	
+word	capitalists	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	affect	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	dynamics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	city	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	intellectual	JJ
+gap	 	
+word	traditions	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	informs	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Marxian	JJ CAP
+gap	 	
+word	land	NN
+gap	 	
+word	rent	NN
+gap	 	
+word	theory	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Post	JJ CAP
+gap	-	
+word	Keynesian	JJ CAP
+gap	 	
+word	urban	JJ
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	concept	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Schumpeterian	JJ CAP
+gap	 	
+word	entrepreneur	NN
+gap	 	
+word	idea	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	effort	NN
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	heavily	RB
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	Abramo	CAP NNP
+gap	'	
+word	s	
+gap	 (2007) 	
+word	pioneering	GER PGAS
+gap	 – 	
+word	and	ANDC CCONJ
+gap	 	
+word	widely	RB
+gap	 	
+word	unrecognized	JJ
+gap	 - 	
+word	work	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	Urban	CAP NNP
+gap	 	
+word	Economics	CAP NNP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	exercise	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	empirical	JJ
+gap	 	
+word	econometric	JJ
+gap	 	
+word	model	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	real	JJ
+gap	 	
+word	estate	NN
+gap	 	
+word	prices	NN
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	intense	JJ
+gap	 	
+word	State	PUBV NN CAP
+gap	 	
+word	intervention	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	large	JJ
+gap	-	
+word	scale	NN
+gap	 	
+word	urban	JJ
+gap	 	
+word	projects	NN
+gap	. 	
+word	Then	RB CAP
+gap	, 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	use	VPRT
+gap	 	
+word	data	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Northern	CAP NNP
+gap	 	
+word	Vector	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Metropolitan	CAP NNP
+gap	 	
+word	Area	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Belo	CAP NNP
+gap	 	
+word	Horizonte	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	test	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	hypothesis	NN
+gap	 	
+word	that	DEMO WHOBJ WH
+gap	 	
+word	land	NN
+gap	 	
+word	rent	NN
+gap	, 	
+word	urban	JJ
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	behavior	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	entrepreneurs	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ
+gap	 	
+word	dimensions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	urban	JJ
+gap	 	
+word	economy	NN
+gap	 	
+word	dynamics	NN
+gap	.\n	
+word	On	PIN CAP PREP
+gap	 	
+word	contrary	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economic	JJ
+gap	 	
+word	science	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Macroeconomics	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Urban	CAP NNP
+gap	 	
+word	Economics	CAP NNP
+gap	 	
+word	field	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	clear	JJ
+gap	 	
+word	division	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	orthodox	NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	heterodox	NN
+gap	 	
+word	approaches	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Regional	CAP NNP
+gap	 	
+word	Science	CAP NNP
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	insert	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	space	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	neoclassical	JJ
+gap	 	
+word	framework	NN
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	certainly	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	interpreted	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	orthodox	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	matter	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	easy	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	realize	PRIV INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	checking	PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	hypothesis	NN
+gap	 	
+word	behind	PIN PLACE PREP
+gap	 	
+word	Regional	CAP NNP
+gap	 	
+word	Science	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	works	NN
+gap	: 	
+word	the	ART DET
+gap	 	
+word	belief	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	equilibrium	NN
+gap	 	
+word	point	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	homo	NN
+gap	 	
+word	economicus	NNP
+gap	 	
+word	dogma	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	informs	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	JJ
+gap	 	
+word	maximization	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	homogeneity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	agents	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	non	JJ
+gap	-	
+word	consideration	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	historical	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	cultural	JJ
+gap	 	
+word	aspects	NN
+gap	 (	
+word	Abramo	CAP NNP
+gap	, 2007; 	
+word	Almeida	CAP NNP
+gap	, 2016; 	
+word	Martin	CAP NNP
+gap	, 1999). 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	critical	JJ
+gap	 	
+word	perspectives	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	general	JJ
+gap	 	
+word	lies	NN
+gap	 '	
+word	outside	JJ PLACE
+gap	' 	
+word	Economics	CAP NNP
+gap	, 	
+word	within	PIN PREP
+gap	 	
+word	Economic	CAP NNP
+gap	 	
+word	Geography	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Urban	CAP NNP
+gap	 	
+word	Planning	CAP NNP
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	broadly	RB
+gap	, 	
+word	within	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	heterogeneous	JJ
+gap	 	
+word	field	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Urban	CAP NNP
+gap	 	
+word	Studies	CAP NNP
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	panorama	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	synthesize	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	heterodox	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Urban	CAP NNP
+gap	 	
+word	Economics	CAP NNP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	others	NN
+gap	 	
+word	words	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	synthesis	NN
+gap	 	
+word	deviates	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Regional	CAP NNP
+gap	 	
+word	Science	CAP NNP
+gap	 	
+word	tradition	NOMZ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	lies	VPRT
+gap	 "	
+word	inside	JJ PLACE
+gap	" 	
+word	economic	JJ
+gap	 	
+word	theory	NN
+gap	 - 	
+word	drawing	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	rent	NN
+gap	 	
+word	theory	NN
+gap	, 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Post	JJ CAP
+gap	-	
+word	Keynesian	JJ CAP
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Schumpeterian	JJ CAP
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	innovation	NOMZ
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	argue	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	land	NN
+gap	 	
+word	rent	NN
+gap	 	
+word	theory	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	crucial	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	capitalist	JJ
+gap	 	
+word	cities	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	specifically	RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	estate	NN
+gap	 	
+word	prices	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	Abramo	CAP NNP
+gap	'	
+word	s	
+gap	 (2007) 	
+word	effort	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	coherent	JJ
+gap	 	
+word	heterodox	JJ
+gap	 	
+word	framework	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	cities	NN
+gap	' 	
+word	dynamic	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	two	NUM
+gap	-	
+word	third	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	synthesis	NN
+gap	 	
+word	here	RB
+gap	. 	
+word	Abramo	CAP NNP
+gap	 (2007) 	
+word	contributed	VBD
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	challenge	NN
+gap	 	
+word	creating	WZPRES PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	concepts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	urban	JJ
+gap	 	
+word	entrepreneur	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	concept	NN
+gap	 	
+word	highlights	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	interdependence	NN
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	manner	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	choose	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	place	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	live	INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	buy	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	real	JJ
+gap	 	
+word	estate	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	urban	JJ
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	cities	NN
+gap	' 	
+word	spacial	JJ
+gap	 	
+word	configuration	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	patterns	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	second	JJ
+gap	 	
+word	concept	NN
+gap	 	
+word	gives	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	dynamic	JJ
+gap	 	
+word	dimension	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	configuration	NOMZ
+gap	, 	
+word	emphasizing	GER PRESP PGAS
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	new	JJ
+gap	 	
+word	frontiers	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	open	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	city	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	psychologically	JJ
+gap	 	
+word	depreciation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	real	JJ
+gap	 	
+word	estate	NN
+gap	 	
+word	agglomerations	NOMZ
+gap	 	
+word	occurs	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	action	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	enterpreneurs	NN
+gap	, 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	State	PUBV CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	banks	NN
+gap	 	
+word	shapes	VPRT
+gap	 	
+word	new	JJ
+gap	 	
+word	urban	JJ
+gap	 	
+word	conventions	NOMZ
+gap	, 	
+word	leading	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	change	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	neighborhood	NN
+gap	'	
+word	s	
+gap	 	
+word	status	NN
+gap	 - 	
+word	consequently	RB CONJ
+gap	, 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	price	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	rent	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	estate	NN
+gap	 	
+word	located	WZPAST
+gap	 	
+word	there	RB
+gap	.\n\t	
+word	With	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	approach	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	hands	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	construction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	model	NN
+gap	 	
+word	clarifies	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	exemplifies	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	Then	RB CAP
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	econometric	JJ
+gap	 	
+word	model	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	derived	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	heuristic	JJ
+gap	 	
+word	tool	NN
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	capture	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	dynamics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	city	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	portions	NOMZ
+gap	. 	
+word	Finally	RB CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	model	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	tested	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	data	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	Belo	CAP NNP
+gap	 	
+word	Horizonte	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	Northern	CAP NNP
+gap	 	
+word	Vector	CAP NNP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	vector	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Metropolitan	CAP NNP
+gap	 	
+word	Region	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Belo	CAP NNP
+gap	 	
+word	Horizonte	CAP NNP
+gap	 (	
+word	MABH	CAP NNP
+gap	) 	
+word	has	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	passing	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	spatial	JJ
+gap	 	
+word	restructuring	GER
+gap	, 	
+word	after	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	huge	JJ
+gap	 	
+word	exogenous	JJ
+gap	 	
+word	shock	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	investment	NOMZ
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	large	JJ
+gap	-	
+word	scale	NN
+gap	 	
+word	urban	JJ
+gap	 	
+word	projects	NN
+gap	 (	
+word	LSUP	CAP NNP
+gap	). 	
+word	These	DEMO CAP DET
+gap	 	
+word	LSUP	NN CAP
+gap	 	
+word	might	POMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	affected	
+gap	 	
+word	the	ART DET
+gap	 	
+word	urban	JJ
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	action	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	urban	JJ
+gap	 	
+word	enterpreneurs	NN
+gap	, 	
+word	might	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	change	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	land	NN
+gap	 	
+word	rent	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	seen	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	interesting	JJ
+gap	 	
+word	site	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	test	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	formulations	NOMZ
+gap	. 	
+word	Moreover	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	MABH	CAP NNP
+gap	 	
+word	represents	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	typical	JJ
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Latin	JJ CAP
+gap	 	
+word	American	JJ CAP
+gap	 	
+word	metropolis	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	huge	JJ
+gap	 	
+word	socio	NN
+gap	-	
+word	spatial	JJ
+gap	 	
+word	inequality	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	which	DET WH
+gap	 	
+word	undergone	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rapid	JJ
+gap	 	
+word	urbanization	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	last	JJ
+gap	 50 	
+word	years	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	rest	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	essay	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	structured	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	follows	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	next	JJ
+gap	 	
+word	section	NOMZ
+gap	 	
+word	provides	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	discussion	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	ends	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	econometric	JJ
+gap	 	
+word	model	NN
+gap	. 	
+word	Section	NOMZ CAP
+gap	 3 	
+word	presents	VPRT
+gap	 	
+word	data	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	methods	NN
+gap	 	
+word	used	
+gap	. 	
+word	Section	NOMZ CAP
+gap	 4 	
+word	shows	PRIV NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	discusses	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	. 	
+word	Section	NOMZ CAP
+gap	 5 	
+word	concludes	VPRT PRIV
+gap	 	
+word	emphasizing	GER PGAS
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	land	NN
+gap	 	
+word	value	NN
+gap	 	
+word	capture	NN
+gap	 	
+word	instruments	NOMZ
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	useful	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	self	NN
+gap	-	
+word	finance	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	urban	JJ
+gap	 	
+word	infrastructure	NN
+gap	.\n	

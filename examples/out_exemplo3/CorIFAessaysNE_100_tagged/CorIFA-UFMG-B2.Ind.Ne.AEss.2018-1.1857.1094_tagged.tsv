@@ -1,670 +1,1195 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1857.1094.txt
-token	tags
-  	
-Nowadays	RB TIME CAP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-vital	JJ PRED
-to	PIN PREP
-our	FPP1 PRP SBJP
-society	NN
-to	PIN TO PREP
-increase	INF
-a	ART DET INDA
-product	NN
-’s	
-lifespan	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-sustainable	JJ
-.	
-This	DEMO CAP DET
-fact	NN
-can	POMD
-be	PASS BYPA AUXB INF
-achieved	
-by	PIN PREP
-using	PGAS
-a	ART DET INDA
-machining	NN
-process	NN
-known	PRIV WZPAST
-as	PIN CONJ PREP
-deep	JJ
-rolling	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-used	
-in	PIN CONJ PREP
-the	ART DET
-final	JJ
-step	NN
-of	PIN PREP
-a	ART DET INDA
-product	NN
-’s	
-manufacturing	GER
-process	NN
-.	
-The	ART CAP DET
-deep	JJ
-rolling	NN
-process	NN
-plastically	RB
-deforms	VPRT
-the	ART DET
-material	NN
-’s	
-grains	NN
-,	
-affecting	PGAS
-its	PIT PRP SBJP
-mechanical	JJ
-properties	NN
-,	
-and	ANDC CCONJ
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-improves	VPRT
-the	ART DET
-material	NN
-’s	
-lifespan	NN
-and	PHC CCONJ
-surface	NN
-quality	NOMZ
-.	
-Another	CAP DET
-method	NN
-,	
-known	PASTP PRIV
-as	PIN CONJ PREP
-shot	NN
-peening	NN
-,	
-could	POMD
-be	PASS AUXB INF
-used	
-to	PIN TO PREP
-achieve	INF
-these	DEMO DET
-goals	NN
-.	
-However	RB CONJ CAP
-,	
-shot	NN
-peening	NN
-requires	VPRT SUAV
-specific	JJ
-equipment	NOMZ
-and	CCONJ
-may	POMD
-damage	INF
-the	ART DET
-surface	NN
-finish	NN
-acquired	WZPAST
-by	PIN PREP
-previous	JJ
-operations	NOMZ
-.	
-With	PIN CAP PREP
-that	DEMO DET
-in	PIN CONJ PREP
-mind	NN
-,	
-using	PRESP PGAS
-a	ART DET INDA
-process	NN
-such	JJ
-as	PIN CONJ PREP
-deep	JJ
-rolling	NN
-that	TSUB WHSUB WH
-enables	VPRT
-a	ART DET INDA
-product	NN
-to	PIN TO PREP
-work	INF
-for	PIN PREP
-a	ART DET INDA
-longer	JJ CMADJ
-period	NN
-and	CCONJ
-with	PIN PREP
-a	ART DET INDA
-better	JJ CMADJ
-surface	NN
-finish	NN
-is	BEMA VPRT AUXB
-fundamental	JJ PRED
-for	PIN PREP
-economic	JJ
-and	PHC CCONJ
-environmental	JJ
-aspects	NN
-.	
-  	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-important	JJ
-features	NN
-of	PIN PREP
-a	ART DET INDA
-product	NN
-is	BEMA VPRT AUXB
-its	PIT PRP SBJP
-lifespan	NN
-,	
-and	ANDC CCONJ
-critical	JJ
-systems	NN
-used	WZPAST
-in	PIN CONJ PREP
-our	FPP1 PRP SBJP
-society	NN
-must	NEMD
-have	INF
-a	ART DET INDA
-high	JJ
-reliability	NOMZ
-relating	WZPRES PGAS
-to	PIN PREP
-their	TPP3 PRP SBJP
-lifespan	NN
-.	
-An	ART CAP DET INDA
-airplane	NN
-wing	NN
-,	
-for	PIN PREP
-instance	NN
-,	
-is	BEMA VPRT AUXB
-among	PIN PREP
-those	DEMO DET
-systems	NN
-.	
-Using	PRESP CAP PGAS
-a	ART DET INDA
-manufacturing	GER
-process	NN
-such	JJ
-as	PIN CONJ PREP
-deep	JJ
-rolling	NN
-can	POMD
-increase	INF
-a	ART DET INDA
-product	NN
-’s	
-lifetime	NN
-and	CCONJ
-,	
-therefore	RB CONJ
-,	
-brings	VPRT
-some	QUAN DET
-benefits	NN
-to	PIN PREP
-the	ART DET
-process	NN
-such	JJ
-as	PIN CONJ PREP
-reduction	NOMZ
-of	PIN PREP
-costs	NN
-and	CCONJ
-higher	JJ CMADJ
-reliability	NOMZ
-.	
-The	ART CAP DET
-first	JJ
-benefit	NN
-relates	VPRT
-to	PIN PREP
-the	ART DET
-decrease	NN
-of	PIN PREP
-the	ART DET
-costs	NN
-of	PIN PREP
-investments	NOMZ
-to	PIN TO PREP
-replace	INF
-the	ART DET
-worn	JJ
-products	NN
-.	
-By	PIN CAP PREP
-enabling	PGAS
-a	ART DET INDA
-product	NN
-to	PIN PREP
-last	JJ
-longer	RB CMADJ
-,	
-the	ART DET
-amount	NN
-of	PIN PREP
-manufactured	
-product	NN
-required	SUAV WZPAST
-by	PIN PREP
-the	ART DET
-market	NN
-may	POMD
-decrease	INF
-,	
-which	SERE DET WH
-in	PIN CONJ PREP
-turn	NN
-leads	VPRT
-to	PIN PREP
-a	ART DET INDA
-reduction	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-usage	NN
-of	PIN PREP
-resources	NN
-to	PIN TO PREP
-manufacture	INF
-them	TPP3 PRP SBJP ACCU
-.	
-Also	RB CAP
-,	
-by	PIN PREP
-lessen	NNP
-the	ART DET
-number	NN
-of	PIN PREP
-products	NN
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-,	
-less	JJ CMADJ
-row	NN
-material	NN
-will	PRMD
-have	INF
-to	PIN TO PREP
-be	PASS AUXB INF
-extracted	
-,	
-reducing	PRESP PGAS
-the	ART DET
-energy	NN
-spent	
-,	
-and	ANDC CCONJ
-avoiding	PGAS
-environmental	JJ
-damage	NN
-.	
-The	ART CAP DET
-second	JJ
-benefit	NN
-is	BEMA VPRT AUXB
-the	ART DET
-increase	NN
-of	PIN PREP
-reliability	NOMZ
-.	
-Ensuring	PRIV SUAV PRESP CAP PGAS
-a	ART DET INDA
-longer	JJ CMADJ
-life	NN
-to	PIN PREP
-a	ART DET INDA
-material	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-a	ART DET INDA
-greater	JJ CMADJ
-stability	NOMZ
-to	PIN PREP
-parts	NN
-as	RB CONJ
-important	JJ
-as	PIN CONJ PREP
-an	ART DET INDA
-airplane	NN
-wing	NN
-and	CCONJ
-a	ART DET INDA
-car	NN
-wheel	NN
-is	BEMA VPRT AUXB
-without	PIN PREP
-a	ART DET INDA
-doubt	PRIV NN
-very	AMP RB
-desirable	JJ
-.	
- 	
-Therefore	RB CONJ CAP
-,	
-a	ART DET INDA
-product	NN
-’s	
-lifespan	NN
-is	VPRT AUXB
-something	QUPR INPR
-that	DEMP WH
-must	NEMD
-be	PASS AUXB INF
-considered	PRIV
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-have	INF
-a	ART DET INDA
-less	RB CMADJ
-costly	JJ
-process	NN
-and	CCONJ
-more	RB EMPH CMADJ
-secure	JJ
-system	NN
-.	
-  	
-Another	CAP DET
-reason	PRIV NN
-to	PIN TO PREP
-use	INF
-deep	JJ
-rolling	NN
-processes	NN
-is	PASS VPRT AUXB
-associated	
-to	PIN PREP
-the	ART DET
-improvement	NOMZ
-of	PIN PREP
-the	ART DET
-final	JJ
-product	NN
-’s	
-surface	NN
-quality	NOMZ
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-key	JJ PRED
-to	PIN PREP
-an	ART DET INDA
-efficient	JJ
-manufacturing	GER
-process	NN
-.	
-One	CAP NUM
-example	NN
-of	PIN PREP
-a	ART DET INDA
-material	NN
-that	TSUB WHSUB WH
-has	VPRT
-its	PIT PRP SBJP
-surface	NN
-improved	WZPAST
-is	BEMA VPRT AUXB
-the	ART DET
-AISI	CAP NNP
-4140	NUM
-steel	NN
-.	
-When	RB CAP SCONJ WH
-using	PGAS
-deep	JJ
-rolling	NN
-,	
-the	ART DET
-tool	NN
-pressures	NN
-the	ART DET
-outermost	JJ
-layer	NN
-of	PIN PREP
-the	ART DET
-material	NN
-,	
-deforming	PRESP PGAS
-the	ART DET
-peaks	NN
-and	PHC CCONJ
-valleys	NN
-left	WZPAST
-onto	PIN PREP
-the	ART DET
-surface	NN
-,	
-reducing	PGAS
-its	PIT PRP SBJP
-roughness	NOMZ
-.	
-Therefore	RB CONJ CAP
-,	
-deep	JJ
-rolling	NN
-betters	NN
-the	ART DET
-surface	NN
-finish	NN
-of	PIN PREP
-AISI	CAP NNP
-4140	NUM
-steel	NN
-avoiding	WZPRES PGAS
-the	ART DET
-use	NN
-of	PIN PREP
-other	JJ
-specific	JJ
-steps	NN
-,	
-which	SERE WHQU DET WH
-are	PASS VPRT SPAU AUXB
-strictly	RB
-required	SUAV
-to	PIN PREP
-the	ART DET
-surface	NN
-improvement	NOMZ
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-,	
-it	PIT PRP SBJP
-reduces	VPRT
-the	ART DET
-usage	NN
-of	PIN PREP
-energy	NN
-used	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-production	NOMZ
-.	
-Finally	RB CAP
-yet	CCONJ
-importantly	RB
-,	
-the	ART DET
-improvement	NOMZ
-of	PIN PREP
-surface	NN
-quality	NOMZ
-by	PIN PREP
-this	DEMO DET
-process	NN
-decreases	VPRT
-the	ART DET
-time	NN
-to	PIN TO PREP
-manufacture	INF
-a	ART DET INDA
-product	NN
-.	
-Making	PRESP CAP PGAS
-it	PIT PRP SBJP
-indeed	RB
-crucial	JJ
-to	PIN TO PREP
-enhance	INF
-the	ART DET
-company	NN
-’s	
-production	NOMZ
-capability	NOMZ
-.	
-Hence	RB CONJ CAP
-,	
-the	ART DET
-improvement	NOMZ
-of	PIN PREP
-surface	NN
-quality	NOMZ
-of	PIN PREP
-the	ART DET
-AISI	CAP NNP
-4140	NUM
-acquired	
-by	PIN PREP
-deep	JJ
-rolling	NN
-process	NN
-is	BEMA VPRT AUXB
-without	PIN PREP
-a	ART DET INDA
-doubt	PRIV NN
-very	AMP RB
-important	JJ
-when	RB SCONJ WH
-it	PIT PRP SBJP
-comes	VPRT
-to	PIN PREP
-reduction	NOMZ
-of	PIN PREP
-energy	NN
-and	PHC CCONJ
-time	NN
-.	
-  	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-has	VPRT PEAS
-been	PASS BYPA AUXB
-revealed	PRIV
-by	PIN PREP
-the	ART DET
-situations	NOMZ
-just	RB EMPH
-described	VBD
-,	
-when	RB SCONJ WH
-it	PIT PRP SBJP
-comes	VPRT
-to	PIN PREP
-reduction	NOMZ
-of	PIN PREP
-costs	NN
-and	PHC CCONJ
-energy	NN
-,	
-and	ANDC CCONJ
-provision	NOMZ
-of	PIN PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-reliable	JJ
-system	NN
-,	
-deep	JJ
-rolling	NN
-processes	NN
-are	BEMA VPRT AUXB
-an	ART DET INDA
-intelligent	JJ
-choice	NN
-for	PIN PREP
-any	QUAN DET
-company	NN
-.	
-By	PIN CAP PREP
-using	PGAS
-this	DEMO DET
-method	NN
-,	
-companies	NN
-can	POMD SPAU
-better	RB CMADJ
-manage	INF
-the	ART DET
-usage	NN
-of	PIN PREP
-natural	JJ
-resources	NN
-such	JJ
-as	PIN CONJ PREP
-minerals	NN
-and	PHC CCONJ
-water	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-since	OSUB PIN SCONJ PREP
-less	JJ CMADJ
-manufactured	
-product	NN
-will	PRMD
-be	BEMA AUXB INF
-necessary	JJ PRED
-,	
-the	ART DET
-amount	NN
-of	PIN PREP
-waste	NN
-might	POMD SPAU
-as	RB CONJ
-well	RB
-reduce	INF
-.	
-Consequently	RB CONJ CAP
-,	
-companies	NN
-may	POMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-produce	INF
-goods	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-intelligent	JJ
-way	NN
-,	
-avoiding	PGAS
-environmental	JJ
-damage	NN
-and	CCONJ
-operating	PGAS
-with	PIN PREP
-more	JJ EMPH CMADJ
-efficiency	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1857.1094>\n\n	
+word	Nowadays	RB TIME CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	vital	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	society	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	increase	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	’	
+word	s	
+gap	 	
+word	lifespan	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	sustainable	JJ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	fact	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	achieved	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	machining	NN
+gap	 	
+word	process	NN
+gap	 	
+word	known	PRIV WZPAST
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	final	JJ
+gap	 	
+word	step	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	’	
+word	s	
+gap	 	
+word	manufacturing	GER
+gap	 	
+word	process	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	process	NN
+gap	 	
+word	plastically	RB
+gap	 	
+word	deforms	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	material	NN
+gap	’	
+word	s	
+gap	 	
+word	grains	NN
+gap	, 	
+word	affecting	PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	mechanical	JJ
+gap	 	
+word	properties	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	improves	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	material	NN
+gap	’	
+word	s	
+gap	 	
+word	lifespan	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	surface	NN
+gap	 	
+word	quality	NOMZ
+gap	. 	
+word	Another	CAP DET
+gap	 	
+word	method	NN
+gap	, 	
+word	known	PASTP PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	shot	NN
+gap	 	
+word	peening	NN
+gap	, 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	goals	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	shot	NN
+gap	 	
+word	peening	NN
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	specific	JJ
+gap	 	
+word	equipment	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	may	POMD
+gap	 	
+word	damage	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	finish	NN
+gap	 	
+word	acquired	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	previous	JJ
+gap	 	
+word	operations	NOMZ
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	mind	NN
+gap	, 	
+word	using	PRESP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	process	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	enables	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	longer	JJ CMADJ
+gap	 	
+word	period	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	surface	NN
+gap	 	
+word	finish	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	fundamental	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	environmental	JJ
+gap	 	
+word	aspects	NN
+gap	.\n\n	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	important	JJ
+gap	 	
+word	features	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	lifespan	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	critical	JJ
+gap	 	
+word	systems	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	society	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	high	JJ
+gap	 	
+word	reliability	NOMZ
+gap	 	
+word	relating	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	lifespan	NN
+gap	. 	
+word	An	ART CAP DET INDA
+gap	 	
+word	airplane	NN
+gap	 	
+word	wing	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	systems	NN
+gap	. 	
+word	Using	PRESP CAP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	manufacturing	GER
+gap	 	
+word	process	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	increase	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	’	
+word	s	
+gap	 	
+word	lifetime	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	therefore	RB CONJ
+gap	, 	
+word	brings	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	benefits	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	process	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	costs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	reliability	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	benefit	NN
+gap	 	
+word	relates	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	decrease	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	costs	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	investments	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	replace	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	worn	JJ
+gap	 	
+word	products	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	enabling	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	last	JJ
+gap	 	
+word	longer	RB CMADJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	manufactured	
+gap	 	
+word	product	NN
+gap	 	
+word	required	SUAV WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	decrease	INF
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	turn	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	usage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	resources	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	manufacture	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	lessen	NNP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	products	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	market	NN
+gap	, 	
+word	less	JJ CMADJ
+gap	 	
+word	row	NN
+gap	 	
+word	material	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	extracted	
+gap	, 	
+word	reducing	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	energy	NN
+gap	 	
+word	spent	
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	avoiding	PGAS
+gap	 	
+word	environmental	JJ
+gap	 	
+word	damage	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	second	JJ
+gap	 	
+word	benefit	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	increase	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reliability	NOMZ
+gap	. 	
+word	Ensuring	PRIV SUAV PRESP CAP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	longer	JJ CMADJ
+gap	 	
+word	life	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	material	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	stability	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	parts	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	important	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	airplane	NN
+gap	 	
+word	wing	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	car	NN
+gap	 	
+word	wheel	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	doubt	PRIV NN
+gap	 	
+word	very	AMP RB
+gap	 	
+word	desirable	JJ
+gap	.  	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	’	
+word	s	
+gap	 	
+word	lifespan	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	costly	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	secure	JJ
+gap	 	
+word	system	NN
+gap	. \n\n	
+word	Another	CAP DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	processes	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	associated	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	improvement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	final	JJ
+gap	 	
+word	product	NN
+gap	’	
+word	s	
+gap	 	
+word	surface	NN
+gap	 	
+word	quality	NOMZ
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	key	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	efficient	JJ
+gap	 	
+word	manufacturing	GER
+gap	 	
+word	process	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	example	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	material	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	has	VPRT
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	surface	NN
+gap	 	
+word	improved	WZPAST
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	AISI	CAP NNP
+gap	 4140 	
+word	steel	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	using	PGAS
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	tool	NN
+gap	 	
+word	pressures	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	outermost	JJ
+gap	 	
+word	layer	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	material	NN
+gap	, 	
+word	deforming	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	peaks	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	valleys	NN
+gap	 	
+word	left	WZPAST
+gap	 	
+word	onto	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	, 	
+word	reducing	PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	roughness	NOMZ
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	betters	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	finish	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	AISI	CAP NNP
+gap	 4140 	
+word	steel	NN
+gap	 	
+word	avoiding	WZPRES PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	specific	JJ
+gap	 	
+word	steps	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	strictly	RB
+gap	 	
+word	required	SUAV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	improvement	NOMZ
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	reduces	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	usage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	energy	NN
+gap	 	
+word	used	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	production	NOMZ
+gap	. 	
+word	Finally	RB CAP
+gap	 	
+word	yet	CCONJ
+gap	 	
+word	importantly	RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	improvement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	surface	NN
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	process	NN
+gap	 	
+word	decreases	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	manufacture	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	. 	
+word	Making	PRESP CAP PGAS
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	indeed	RB
+gap	 	
+word	crucial	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	enhance	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	company	NN
+gap	’	
+word	s	
+gap	 	
+word	production	NOMZ
+gap	 	
+word	capability	NOMZ
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	improvement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	surface	NN
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	AISI	CAP NNP
+gap	 4140 	
+word	acquired	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	process	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	doubt	PRIV NN
+gap	 	
+word	very	AMP RB
+gap	 	
+word	important	JJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	comes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	energy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	time	NN
+gap	.\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS BYPA AUXB
+gap	 	
+word	revealed	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	described	VBD
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	comes	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	reduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	costs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	energy	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	provision	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	reliable	JJ
+gap	 	
+word	system	NN
+gap	, 	
+word	deep	JJ
+gap	 	
+word	rolling	NN
+gap	 	
+word	processes	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	intelligent	JJ
+gap	 	
+word	choice	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	company	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	method	NN
+gap	, 	
+word	companies	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	better	RB CMADJ
+gap	 	
+word	manage	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	usage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	resources	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	minerals	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	water	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	manufactured	
+gap	 	
+word	product	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	necessary	JJ PRED
+gap	, 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	waste	NN
+gap	 	
+word	might	POMD SPAU
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	reduce	INF
+gap	. 	
+word	Consequently	RB CONJ CAP
+gap	, 	
+word	companies	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	goods	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	intelligent	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	avoiding	PGAS
+gap	 	
+word	environmental	JJ
+gap	 	
+word	damage	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	operating	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	efficiency	NN
+gap	.	

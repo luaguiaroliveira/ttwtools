@@ -1,1702 +1,2964 @@
 # filename: AH_Philosophy_Essay_1_0215a_tx.txt
-token	tags
-Parmenides	NN CAP
-'	CONT QUOT
-contribution	NOMZ
-to	PIN PREP
-the	ART DET
-philosophical	JJ
-canon	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-a	ART DET INDA
-poem	NN
-which	WHOBJ DET WH
-,	
-for	PIN PREP
-ease	NN
-of	PIN PREP
-reference	NN
-,	
-is	PASS VPRT AUXB
-divided	
-into	PIN PREP
-three	NUM
-parts	NN
-.	
-The	ART CAP DET
-introduction	NOMZ
-presents	VPRT
-Parmenides	NN CAP
-as	PIN CONJ PREP
-a	ART DET INDA
-shaman	NN
-of	PIN PREP
-sorts	NN
-,	
-and	ANDC CCONJ
-is	PASS VPRT SPAU AUXB
-sometimes	RB
-considered	PRIV
-the	ART DET
-more	RB EMPH CMADJ
-literary	JJ
-prelude	NN
-to	PIN PREP
-the	ART DET
-philosophical	JJ
-thoughts	NN
-which	WHSUB DET WH
-occur	VPRT
-in	PIN CONJ PREP
-the	ART DET
-following	JJ
-parts	NN
-.	
-The	ART CAP DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-follows	VPRT
-on	PIN PREP
-from	PIN PREP
-the	ART DET
-introduction	NOMZ
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-it	PIT PRP SBJP
-the	ART DET
-goddess	NN
-reveals	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-world	NN
-is	BEMA VPRT AUXB
-unchanging	JJ PRED
-,	
-in	PIN CONJ PREP
-spite	NN
-of	PIN PREP
-what	DET WH
-evidence	NN
-our	FPP1 PRP SBJP
-senses	PRIV NN
-might	POMD
-provide	INF
-to	PIN PREP
-the	ART DET
-contrary	NN
-.	
-The	ART CAP DET
-goddess	NN
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-past	PIN PREP
-our	FPP1 PRP SBJP
-sensory	JJ
-picture	NN
-of	PIN PREP
-the	ART DET
-world	NN
-because	CAUS PIN SCONJ PREP
-she	TPP3 PRP SBJP
-is	VPRT AUXB
-speaking	PGAS
-as	PIN CONJ PREP
-one	NUM
-who	WH
-has	VPRT
-a	ART DET INDA
-viewpoint	NN
-completely	AMP RB
-detached	
-from	PIN PREP
-the	ART DET
-world	NN
-of	PIN PREP
-mortals	NN
-.	
-After	PIN CAP PREP
-communicating	GER PGAS
-this	DEMO DET
-divine	JJ
-revelation	NOMZ
-,	
-repeatedly	RB
-stressing	PGAS
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-only	JJ DWNT
-true	JJ
-way	NN
-,	
-she	TPP3 PRP SBJP
-then	RB
-takes	VPRT
-what	WH
-appears	VPRT SMP
-an	ART DET INDA
-odd	JJ
-step	NN
-in	PIN CONJ PREP
-her	TPP3 PRP SBJP
-reasoning	PRIV NN
-,	
-describing	GER PRESP PGAS
-the	ART DET
-world	NN
-as	PIN CONJ PREP
-mortals	NN
-perceive	VPRT PRIV THATD
-it	PIT PRP SBJP
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-,	
-which	SERE DET WH
-the	ART DET
-goddess	NN
-has	VPRT PEAS
-condemned	
-as	PIN CONJ PREP
-being	BEMA AUXB
-entirely	AMP RB
-erroneous	JJ
-.	
-The	ART CAP DET
-central	JJ
-question	NOMZ
-,	
-then	RB
-,	
-is	BEMA VPRT AUXB
-this	DEMP DET
-:	
-why	RB SCONJ WH
-reveal	PRIV INF
-the	ART DET
-truth	NN
-about	PIN PREP
-reality	NOMZ
-and	ANDC CCONJ
-then	RB
-follow	INF
-it	PIT PRP SBJP
-with	PIN PREP
-a	ART DET INDA
-description	NOMZ
-of	PIN PREP
-what	WH
-mortals	NN
-wrongly	RB
-believe	VPRT PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-true	JJ PRED
-?	QUES
-As	PIN CONJ CAP PREP
-Waterfield	CAP NNP
-comments	PUBV NOMZ
-,	
-"	QUOT
-after	PIN PREP
-this	DEMO DET
-astonishing	JJ
-tour	NN
-de	X
-force	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-strange	JJ PRED
-,	
-and	ANDC CCONJ
-even	RB
-somewhat	DWNT RB
-disappointing	JJ
-,	
-to	PIN TO PREP
-be	PASS AUXB INF
-taken	
-abruptly	RB
-into	PIN PREP
-the	ART DET
-domain	NN
-of	PIN PREP
-Pre	JJ CAP
--	JJ
-Socratic	JJ CAP
-cosmogony	NN
-.	
-"	QUOT
-Much	QUAN JJ CAP
-of	PIN PREP
-the	ART DET
-difficulty	NN
-here	RB
-stems	VPRT
-from	PIN PREP
-the	ART DET
-fact	NN
-that	PIN DEMO SCONJ PREP
-so	RB EMPH
-little	JJ
-of	PIN PREP
-the	ART DET
-second	JJ
-half	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-poem	NN
-remains	VPRT
-.	
-The	ART CAP DET
-introduction	NOMZ
-is	PASS VPRT AUXB
-preserved	
-intact	JJ
-and	CCONJ
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-can	POMD
-be	PASS SPAU AUXB INF
-almost	DWNT RB
-entirely	AMP RB
-reconstructed	
-,	
-whereas	OSUB PIN SCONJ PREP
-only	DWNT RB
-fragments	NOMZ
-of	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-have	VPRT PEAS
-survived	
-.	
-With	PIN CAP PREP
-so	RB EMPH
-much	QUAN JJ
-of	PIN PREP
-the	ART DET
-text	NN
-missing	WZPRES PGAS
-,	
-the	ART DET
-attempts	NN
-to	PIN TO PREP
-reconcile	INF
-the	ART DET
-two	NUM
-halves	NN
-of	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-poem	NN
-have	VPRT PEAS
-been	BEMA AUXB
-many	QUAN JJ PRED
-and	PHC CCONJ
-varied	JJ PRED
-.	
-R.	CAP NNP
-Waterfield	CAP NNP
-,	
-2000	NUM
-,	
-p54	NN
-The	ART CAP DET
-most	RB EMPH SPADJ
-widely	RB
-accepted	PRIV THATD
-approach	NN
-has	VPRT PEAS
-been	BEMA AUXB
-to	PIN TO PREP
-claim	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-purpose	NN
-of	PIN PREP
-describing	GER PGAS
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-is	BEMA VPRT AUXB
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-no	SYNE DET
-subsequent	JJ
-philosopher	NN
-will	PRMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-produce	INF
-a	ART DET INDA
-theory	NN
-which	WHSUB DET WH
-could	POMD
-trump	INF
-the	ART DET
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-.	
-If	COND PIN CAP SCONJ PREP
-someone	QUPR INPR
-else	RB
-were	BEMA VBD AUXB
-to	PIN TO PREP
-produce	INF
-a	ART DET INDA
-better	JJ CMADJ
-explanation	NOMZ
-of	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-world	NN
-works	VPRT
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-conceivable	JJ PRED
-that	PIN THAC SCONJ PREP
-everyone	QUPR INPR
-would	PRMD
-accept	PRIV INF
-that	PIN THVC SCONJ PREP
-as	PIN CONJ PREP
-the	ART DET
-true	JJ
-description	NOMZ
-of	PIN PREP
-reality	NOMZ
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-avoid	INF
-this	DEMP DET
-,	
-Parmenides	CAP NNP
-provides	VPRT
-the	ART DET
-most	RB EMPH SPADJ
-complete	JJ
-account	NN
-of	PIN PREP
-cosmology	NN
-he	TPP3 PRP SBJP
-possibly	RB
-can	POMD
-,	
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-no	SYNE DET
-rival	JJ
-philosopher	NN
-or	CCONJ
-school	NN
-of	PIN PREP
-thought	PRIV NN
-can	POMD
-do	PROD INF
-better	RB CMADJ
-.	
-By	PIN CAP PREP
-rejecting	PGAS
-even	RB
-this	DEMO DET
-most	RB EMPH SPADJ
-comprehensive	JJ
-mortal	JJ
-account	NN
-of	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-world	NN
-works	VPRT
-,	
-the	ART DET
-goddess	NN
-is	VPRT AUXB
-emphasising	GER PGAS
-that	PIN DEMO SCONJ PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-only	JJ DWNT
-true	JJ
-interpretation	NOMZ
-of	PIN PREP
-the	ART DET
-world	NN
-.	
-No	SYNE CAP DET
-other	JJ
-mortal	JJ
-,	
-sensory	JJ
-description	NOMZ
-of	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-world	NN
-works	VPRT
-can	POMD SPAU
-possibly	RB
-surpass	INF
-that	PIN DEMP SCONJ PREP
-provided	
-in	PIN CONJ PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-,	
-and	ANDC CCONJ
-because	CAUS PIN SCONJ PREP
-even	RB
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-has	VPRT PEAS
-been	PASS BYPA AUXB
-rejected	
-by	PIN PREP
-the	ART DET
-goddess	NN
-,	
-no	SYNE DET
-other	JJ
-account	NN
-of	PIN PREP
-how	RB SCONJ WH
-the	ART DET
-world	NN
-works	VPRT
-can	POMD SPAU
-possibly	RB
-beat	INF
-Parmenides	CAP NNP
-'	CONT QUOT
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-.	
-This	DEMO CAP DET
-idea	NN
-is	PASS VPRT BYPA SPAU AUXB
-succinctly	RB
-summarised	
-by	PIN PREP
-McKirahan	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-following	PGAS
-manner	NN
-:	
-"	QUOT
-if	COND PIN SCONJ PREP
-Parmenides	NN CAP
-can	POMD
-show	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Mortal	CAP NNP
-Opinion	CAP NNP
-,	
-which	SERE DET WH
-he	TPP3 PRP SBJP
-knows	VPRT PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-false	JJ PRED
-,	
-is	BEMA VPRT AUXB
-superior	JJ PRED
-to	PIN PREP
-all	QUAN DET
-possible	JJ
-rival	JJ
-theories	NN
-,	
-then	RB
-no	SYNE DET
-such	JJ
-theory	NN
-can	POMD
-threaten	INF
-the	ART DET
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-.	
-"	QUOT
-R.	CAP NNP
-D.	CAP NNP
-McKirahan	CAP NNP
-Jr	CAP NNP
-,	
-1994	NUM
-,	
-p174	NNP
-Nevertheless	RB CONJ CAP
-,	
-this	DEMP DET
-seems	VPRT SMP
-like	PIN PREP
-a	ART DET INDA
-rather	RB
-convoluted	JJ
-explanation	NOMZ
-for	PIN PREP
-the	ART DET
-inclusion	NOMZ
-of	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP PGAS
-in	PIN CONJ PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-poem	NN
-.	
-W.	CAP NNP
-K.	CAP NNP
-C.	CAP NNP
-Guthrie	CAP NNP
-considers	VPRT PRIV
-this	DEMO DET
-interpretation	NOMZ
-to	PIN TO PREP
-be	BEMA AUXB INF
-nonsensical	JJ PRED
-,	
-querying	PRESP PGAS
-why	RB SCONJ WH
-Parmenides	CAP NNP
-argues	VPRT PUBV
-a	ART DET INDA
-case	NN
-so	RB
-convincingly	RB
-for	PIN PREP
-Ancient	CAP NNP
-Greek	CAP NNP
-cosmology	NN
-when	RB WHOBJ SCONJ WH
-he	TPP3 PRP SBJP
-knows	VPRT PRIV THATD
-it	PIT PRP SBJP
-to	PIN TO PREP
-be	BEMA AUXB INF
-false	JJ PRED
-.	
-After	RB CAP
-all	QUAN RB
-,	
-if	COND PIN SCONJ PREP
-Parmenides	CAP NNP
-truly	RB
-wishes	VPRT
-to	PIN TO PREP
-prove	PRIV INF
-the	ART DET
-mortal	JJ
-way	NN
-of	PIN PREP
-viewing	PGAS
-the	ART DET
-world	NN
-wrong	RB
-,	
-"	QUOT
-then	RB
-it	PIT PRP SBJP
-seems	VPRT SMP
-an	ART DET INDA
-unlikely	JJ
-and	PHC CCONJ
-unwise	JJ
-procedure	NN
-to	PIN TO PREP
-construct	INF
-the	ART DET
-most	RB EMPH SPADJ
-persuasive	JJ
-account	NN
-possible	JJ
-.	
-"	QUOT
-The	ART CAP DET
-'	CONT QUOT
-traditional	JJ
-'	CONT QUOT
-interpretation	NOMZ
-also	RB
-fails	VPRT
-to	PIN TO PREP
-address	INF
-the	ART DET
-possible	JJ
-reason	PRIV NN
-why	RB WHOBJ WHCL SCONJ WH
-Parmenides	CAP NNP
-arranged	VBD SUAV
-his	TPP3 PRP SBJP
-Ways	CAP NNP
-in	PIN CONJ PREP
-that	DEMO DET
-particular	JJ CONJ
-order	SUAV NN
-.	
-Why	RB CAP SCONJ WH
-,	
-after	PIN PREP
-revealing	PRIV PGAS
-the	ART DET
-ultimate	JJ
-truth	NN
-about	PIN PREP
-the	ART DET
-world	NN
-,	
-should	NEMD
-he	TPP3 PRP SBJP
-choose	INF
-to	PIN TO PREP
-follow	INF
-it	PIT PRP SBJP
-by	PIN PREP
-discussing	GER PGAS
-what	WH
-mortals	NN
-erroneously	RB
-believe	VPRT PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-true	JJ PRED
-?	QUES
-The	ART CAP DET
-impact	NN
-of	PIN PREP
-the	ART DET
-brilliant	JJ
-logic	NN
-of	PIN PREP
-the	ART DET
-goddess	NN
-'	CONT QUOT
-argument	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-appears	VPRT SMP
-somewhat	DWNT RB
-lessened	
-when	RB SCONJ WH
-followed	
-by	PIN PREP
-the	ART DET
-patently	RB
-false	JJ
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-.	
-W.	CAP NNP
-K.	CAP NNP
-C.	CAP NNP
-Guthrie	CAP NNP
-,	
-1980	NUM
-,	
-p71	NN
-In	PIN CONJ CAP PREP
-his	TPP3 PRP SBJP
-1989	NUM
-essay	NN
-,	
-Karl	CAP NNP
-Popper	CAP NNP
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-reason	PRIV NN
-for	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-arrangement	NOMZ
-of	PIN PREP
-the	ART DET
-Ways	CAP NNP
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-he	TPP3 PRP SBJP
-wished	VBD
-to	PIN TO PREP
-break	INF
-from	PIN PREP
-the	ART DET
-traditional	JJ
-model	NN
-of	PIN PREP
-presenting	GER PGAS
-one	PRP SBJP
-'s	
-theories	NN
-.	
-In	PIN CONJ CAP PREP
-Ancient	CAP NNP
-Greece	CAP NNP
-,	
-as	PIN CONJ PREP
-now	RB TIME
-,	
-the	ART DET
-usual	JJ
-method	NN
-is	BEMA VPRT AUXB
-to	PIN TO SPIN PREP
-systematically	RB
-refute	INF
-an	ART DET INDA
-accepted	PRIV
-belief	NN
-before	PIN PREP
-presenting	GER PGAS
-the	ART DET
-reader	NN
-,	
-or	CCONJ
-listener	NN
-,	
-with	PIN PREP
-the	ART DET
-new	JJ
-one	NN
-,	
-which	SERE DET WH
-avoids	VPRT
-all	QUAN DET
-those	DEMO DET
-obstacles	NN
-which	WHSUB DET WH
-proved	VBD PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-the	ART DET
-downfall	NN
-of	PIN PREP
-the	ART DET
-first	JJ
-theory	NN
-.	
-Popper	CAP NNP
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-choice	NN
-to	PIN TO PREP
-put	INF
-forward	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-before	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-deliberate	JJ
-"	QUOT
-inversion	NOMZ
-of	PIN PREP
-the	ART DET
-'	CONT QUOT
-traditional	JJ
-style	NN
-.	
-'	CONT QUOT
-"	QUOT
-His	TPP3 CAP PRP SBJP
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-is	VPRT AUXB
-such	EMPH DET
-a	ART DET INDA
-break	NN
-from	PIN PREP
-the	ART DET
-work	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-contemporaries	NN
-that	DEMO WHOBJ WH
-to	PIN TO PREP
-use	INF
-the	ART DET
-traditional	JJ
-model	NN
-would	PRMD
-detract	INF
-from	PIN PREP
-the	ART DET
-originality	NOMZ
-of	PIN PREP
-his	TPP3 PRP SBJP
-thought	PRIV NN
-.	
-Though	CONC PIN CAP SCONJ PREP
-this	DEMO DET
-attempt	NN
-to	PIN TO PREP
-place	INF
-Parmenides	NN CAP
-in	PIN CONJ PREP
-context	NN
-is	BEMA VPRT AUXB
-laudable	JJ PRED
-,	
-the	ART DET
-inclusion	NOMZ
-of	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-still	RB
-appears	VPRT SMP
-superfluous	JJ
-.	
-The	ART CAP DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-was	VBD AUXB
-,	
-in	PIN CONJ PREP
-fact	NN
-,	
-so	RB
-groundbreaking	GER PGAS
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-could	POMD SPAU
-easily	RB
-have	PEAS INF
-stood	
-alone	RB
-,	
-and	ANDC CCONJ
-this	DEMP DET
-would	PRMD SPAU
-also	RB
-break	INF
-with	PIN PREP
-traditional	JJ
-style	NN
-Popper	CAP NNP
-implies	VPRT PRIV
-Parmenides	CAP NNP
-was	BEMA VBD AUXB
-so	RB EMPH
-eager	JJ
-to	PIN TO PREP
-avoid	INF
-.	
-K.	CAP NNP
-Popper	CAP NNP
-,	
-1998	NUM
-,	
-p90	NUM
-John	CAP NNP
-Burnet	CAP NNP
-'s	
-attempt	NN
-to	PIN TO PREP
-reconcile	INF
-the	ART DET
-two	NUM
-halves	NN
-of	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-work	NN
-also	RB
-appeals	VPRT
-to	PIN PREP
-the	ART DET
-context	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-Parmenides	CAP NNP
-was	VBD AUXB
-writing	PUBV PGAS
-.	
-He	TPP3 CAP PRP SBJP
-claims	VPRT PUBV
-that	PIN THVC SCONJ PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-is	VPRT AUXB
-,	
-in	PIN CONJ PREP
-fact	NN
-,	
-written	PASTP PUBV
-as	PIN CONJ PREP
-though	CONC PIN SCONJ PREP
-it	PIT PRP SBJP
-were	BEMA VBD AUXB
-from	PIN PREP
-the	ART DET
-point	NN
-of	PIN PREP
-view	NN
-of	PIN PREP
-a	ART DET INDA
-Pythagorean	JJ CAP
-philosopher	NN
-.	
-The	ART CAP DET
-purpose	NN
-of	PIN PREP
-its	PIT PRP SBJP
-following	NN
-on	PIN PREP
-from	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-emphasise	INF
-its	PIT PRP SBJP
-falsity	NOMZ
-,	
-throwing	PGAS
-its	PIT PRP SBJP
-wrongness	NOMZ
-into	PIN PREP
-stark	JJ
-relief	NN
-.	
-Burnet	CAP NNP
-gives	VPRT
-several	QUAN JJ
-reasons	PRIV NN
-for	PIN PREP
-this	DEMO DET
-suggestion	NOMZ
-,	
-the	ART DET
-central	JJ
-one	NUM
-being	BEMA AUXB
-that	PIN DEMO SCONJ PREP
-Parmenides	NN CAP
-was	VBD AUXB
-himself	TPP3 PRP SBJP ACCU
-part	NN
-of	PIN PREP
-the	ART DET
-Pythagorean	CAP NNP
-School	CAP NNP
-of	PIN PREP
-philosophy	NN
-until	PIN PREP
-he	TPP3 PRP SBJP
-divined	VBD
-the	ART DET
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-.	
-Burnet	NN CAP
-speculates	VPRT
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-IN	PIN CONJ CAP PREP
-BOOK	NN CAP
-LENT	WZPAST CAP
-TO	PIN CAP PREP
-AMBROSE	CAP NNP
-"	QUOT
-Indeed	RB CAP
-,	
-this	DEMP DET
-seems	VPRT SMP
-a	ART DET INDA
-likely	JJ
-suggestion	NOMZ
-,	
-were	VBD AUXB
-it	PIT PRP SBJP
-not	XX0 RB
-for	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-Parmenides	NN CAP
-and	CCONJ
-the	ART DET
-goddess	NN
-both	DET
-describe	VPRT
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-as	PIN CONJ PREP
-being	BEMA AUXB
-the	ART DET
-'	CONT QUOT
-beliefs	NN
-of	PIN PREP
-mortals	NN
-.	
-'	CONT QUOT
-The	ART CAP DET
-use	NN
-of	PIN PREP
-the	ART DET
-plural	NN
-here	RB
-indicates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-Way	NN CAP
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-limited	
-only	DWNT RB
-to	PIN PREP
-the	ART DET
-Pythagorean	JJ CAP
-philosopher	NN
-.	
-J.	CAP NNP
-Burnet	CAP NNP
-,	
-1920	NUM
-,	
-p184	NNP
--	NN
-5	NUM
-To	PIN CAP PREP
-my	FPP1 PRP SBJP
-mind	NN
-,	
-the	ART DET
-most	RB EMPH SPADJ
-satisfactory	JJ
-explanation	NOMZ
-of	PIN PREP
-the	ART DET
-link	NN
-between	PIN PREP
-the	ART DET
-first	JJ
-and	PHC CCONJ
-second	JJ
-halves	NN
-of	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-poem	NN
-is	PASS VPRT BYPA AUXB
-that	DEMP WH
-put	
-forward	RB
-by	PIN PREP
-Karl	CAP NNP
-Popper	CAP NNP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-1988	NUM
-essay	NN
-'	CONT QUOT
-Can	POMD CAP
-the	ART DET
-Moon	CAP NNP
-Throw	CAP INF
-Light	CAP NNP
-on	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-Ways	NN CAP
-?	QUES
-'	CONT QUOT
-He	TPP3 CAP PRP SBJP
-points	VPRT
-out	PIN PREP
-that	PIN DEMO SCONJ PREP
-Parmenides	NN CAP
-was	BEMA VBD AUXB
-the	ART DET
-first	JJ
-to	PIN TO PREP
-discover	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-waxing	NN
-and	CCONJ
-waning	PGAS
-of	PIN PREP
-the	ART DET
-moon	NN
-was	BEMA VBD AUXB
-in	PIN CONJ PREP
-fact	NN
-a	ART DET INDA
-trick	NN
-of	PIN PREP
-the	ART DET
-light	NN
-,	
-and	ANDC CCONJ
-as	PIN CONJ PREP
-a	ART DET INDA
-consequence	NN
-the	ART DET
-moon	NN
-remains	VPRT
-a	ART DET INDA
-spherical	JJ
-solid	JJ
-no	RB
-matter	RB
-what	DET WH
-stage	NN
-it	PIT PRP SBJP
-has	VPRT PEAS
-reached	
-in	PIN CONJ PREP
-the	ART DET
-lunar	JJ
-cycle	NN
-.	
-So	RB CAP
-,	
-that	PIN DEMP SCONJ PREP
-which	PIRE DET WH
-appeared	VBD SMP
-to	PIN TO PREP
-change	INF
-with	PIN PREP
-the	ART DET
-passage	NN
-of	PIN PREP
-time	NN
-was	VBD AUXB
-,	
-in	PIN CONJ PREP
-fact	NN
-,	
-not	XX0 RB
-changing	PGAS
-at	RB PIN PREP
-all	QUAN RB
-.	
-Popper	NN CAP
-speculates	NN
-that	PIN TOBJ SCONJ PREP
-this	DEMO DET
-ground	NN
--	
-breaking	PGAS
-discovery	NN
-is	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-have	PEAS INF
-had	
-an	ART DET INDA
-influence	NN
-on	PIN PREP
-the	ART DET
-whole	NN
-of	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-thought	PRIV NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-direct	JJ
-result	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-discovery	NN
-,	
-Parmenides	NN CAP
-might	POMD SPAU
-well	RB
-have	PEAS INF
-come	
-to	PIN PREP
-the	ART DET
-conclusion	NOMZ
-that	PIN TOBJ SCONJ PREP
-all	QUAN DET
-change	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-fact	NN
-an	ART DET INDA
-illusion	NOMZ
-,	
-like	PIN PREP
-the	ART DET
-waxing	NN
-and	CCONJ
-waning	PGAS
-of	PIN PREP
-the	ART DET
-moon	NN
-;	
-"	QUOT
-a	ART DET INDA
-play	NN
-of	PIN PREP
-shadows	NN
-,	
-"	QUOT
-as	PIN CONJ PREP
-Popper	CAP NNP
-puts	VPRT
-it	PIT PRP SBJP
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-the	ART DET
-basic	JJ
-principle	NN
-of	PIN PREP
-the	ART DET
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-and	CCONJ
-must	NEMD
-be	PASS AUXB INF
-understood	PRIV
-before	PIN PREP
-Parmenides	NN CAP
-can	POMD
-explain	PUBV INF
-why	RB WHCL SCONJ WH
-us	FPP1 PRP SBJP ACCU
-mortals	NN
-perceive	VPRT PRIV
-the	ART DET
-world	NN
-the	ART DET
-way	NN
-we	FPP1 PRP SBJP
-do	VPRT PROD
-.	
-After	RB CAP
-all	QUAN RB
-,	
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-dark	JJ
-,	
-solid	JJ
-,	
-unchanging	JJ
-foundation	NOMZ
-upon	PIN SCONJ PREP
-which	PIRE DET WH
-those	DEMO DET
-shadows	NN
-(	
-which	SERE DET WH
-constitute	VPRT
-the	ART DET
-world	NN
-as	PIN CONJ PREP
-understood	PRIV
-by	PIN PREP
-the	ART DET
-senses	PRIV NN
-)	
-are	PASS VPRT AUXB
-projected	
-.	
-For	PIN CAP PREP
-this	DEMO DET
-reason	PRIV NN
-the	ART DET
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-must	NEMD
-proceed	INF
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-.	
-As	PIN CONJ CAP PREP
-Guthrie	CAP NNP
-says	VPRT PUBV
-,	
-K.	CAP NNP
-Popper	CAP NNP
-,	
-1998	NUM
-,	
-p100	NNP
-"	QUOT
-Of	PIN CAP PREP
-Reinhardt	CAP NNP
-'s	
-'	CONT QUOT
-Parmenides	NN CAP
-'	CONT QUOT
-,	
-von	NNP
-Fritz	CAP NNP
-writes	VPRT PUBV
-...	
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-has	VPRT
-"	QUOT
-shown	PASTP PRIV
-conclusively	RB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-second	JJ
-part	NN
-is	VPRT AUXB
-neither	CCONJ
-a	ART DET INDA
-description	NOMZ
-of	PIN PREP
-the	ART DET
-actual	JJ
-beliefs	NN
-and	PHC CCONJ
-opinions	NN
-of	PIN PREP
-the	ART DET
-'	CONT QUOT
-two	NUM
--	
-headed	
-mortals'	NNP
-...	
-nor	CCONJ
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-give	INF
-a	ART DET INDA
-better	JJ CMADJ
-system	NN
-of	PIN PREP
-the	ART DET
-world	NN
-of	PIN PREP
-mere	JJ
-belief	NN
-than	PIN PREP
-most	JJ EMPH SPADJ
-people	NN
-have	VPRT
-,	
-but	CCONJ
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-fundamentally	RB
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-show	PRIV INF
-how	RB WHCL SCONJ WH
-there	EX
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-world	NN
-of	PIN PREP
-belief	JJ
-side	NN
-by	PIN PREP
-side	NN
-with	PIN PREP
-truth	NN
-and	ANDC CCONJ
-how	RB SCONJ WH
-it	PIT PRP SBJP
-originates	VPRT
-.	
-"	QUOT
-(	
-italics	NN
-are	VPRT AUXB
-Guthrie	CAP NNP
-'s	
-)	
-W.	CAP NNP
-K.	CAP NNP
-C.	CAP NNP
-Guthrie	CAP NNP
-,	
-1980	NUM
-,	
-p76	NN
-There	EX CAP
-could	POMD
-,	
-however	RB CONJ
-,	
-be	BEMA AUXB INF
-a	ART DET INDA
-way	NN
-of	PIN PREP
-reading	PGAS
-the	ART DET
-text	NN
-which	WHSUB DET WH
-removes	VPRT
-all	QUAN DET
-confusion	NOMZ
-over	PIN PREP
-the	ART DET
-inclusion	NOMZ
-of	PIN PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP PGAS
-in	PIN CONJ PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-poem	NN
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-based	
-upon	PIN SCONJ PREP
-the	ART DET
-belief	NN
-that	PIN DEMO SCONJ PREP
-perhaps	RB
-the	ART DET
-word	NN
-'	CONT QUOT
-apatēlon	NN
-'	CONT QUOT
-,	
-meaning	PRIV PGAS
-'	CONT QUOT
-deceitful	JJ
-'	CONT QUOT
-could	POMD
-have	PEAS INF
-been	PASS AUXB
-mistaken	
-for	PIN PREP
-the	ART DET
-word	NN
-'	CONT QUOT
-apatēton	NN
-'	CONT QUOT
-,	
-meaning	PRIV PGAS
-'	CONT QUOT
-so	RB
-far	RB PLACE
-unused	JJ
-.	
-'	CONT QUOT
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-instances	NN
-of	PIN STPR PREP
-'	CONT QUOT
-deceitful	NN
-'	CONT QUOT
-were	PASS VBD AUXB
-replaced	
-with	PIN STPR PREP
-'	CONT QUOT
-so	RB
-far	RB PLACE
-unused	JJ
-'	CONT QUOT
-,	
-then	RB
-,	
-Popper	CAP NNP
-suggests	VPRT PUBV SUAV
-,	
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-can	POMD
-be	PASS AUXB INF
-read	
-simply	RB
-as	PIN CONJ STPR PREP
-"	QUOT
-Parmenides	CAP NNP
-'	CONT QUOT
-claim	PUBV NN
-that	PIN TOBJ THVC SCONJ PREP
-his	TPP3 PRP SBJP
-conjectural	JJ
-theory	NN
-is	BEMA VPRT AUXB
-new	JJ PRED
-.	
-"	QUOT
-The	ART CAP DET
-way	NN
-that	TSUB WHSUB WH
-is	VPRT AUXB
-not	XX0 RB
-and	CCONJ
-can	POMD SPAU
-not	XX0 RB
-be	AUXB INF
-,	
-which	SERE DET WH
-the	ART DET
-goddess	NN
-stresses	VPRT
-the	ART DET
-falsity	NOMZ
-of	PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-Way	NN CAP
-of	PIN PREP
-Truth	CAP NNP
-is	VPRT AUXB
-therefore	RB CONJ
-not	XX0 RB
-identifiable	JJ
-with	PIN PREP
-the	ART DET
-second	JJ
-part	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-Parmenides	NN CAP
-'	CONT QUOT
-cosmological	JJ
-discoveries	NN
-are	BEMA VPRT AUXB
-in	PIN CONJ PREP
-fact	NN
-entirely	AMP RB
-compatible	JJ
-with	PIN PREP
-the	ART DET
-Way	CAP NNP
-of	PIN PREP
-Truth	CAP NNP
-,	
-since	OSUB PIN SCONJ PREP
-they	TPP3 PRP SBJP
-rely	VPRT
-upon	PIN SCONJ PREP
-an	ART DET INDA
-unchanging	JJ
-world	NN
-for	PIN PREP
-their	TPP3 PRP SBJP
-basis	NN
-.	
-What	WHQU CAP WH
-we	FPP1 PRP SBJP
-have	VPRT PEAS
-left	
-of	PIN PREP
-Parmenides	CAP NNP
-'	CONT QUOT
-Way	NN CAP
-of	PIN PREP
-Seeming	CAP NNP
-is	BEMA VPRT AUXB
-so	RB EMPH
-fragmentary	JJ
-that	PIN THAC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-quite	RB
-possible	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-original	JJ
-Greek	CAP NNP
-could	POMD
-have	PEAS INF
-been	PASS AUXB
-transcribed	
-incorrectly	RB
-,	
-and	ANDC CCONJ
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-,	
-misunderstood	NN
-for	PIN PREP
-millennia	NNP
-.	
-K.	CAP NNP
-Popper	CAP NNP
-,	
-1998	NUM
-,	
-p94	NN
+type	content	tags
+word	Parmenides	NN CAP
+gap	' 	
+word	contribution	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	philosophical	JJ
+gap	 	
+word	canon	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	poem	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	ease	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reference	NN
+gap	, 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	divided	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	three	NUM
+gap	 	
+word	parts	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	presents	VPRT
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	shaman	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sorts	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	sometimes	RB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	literary	JJ
+gap	 	
+word	prelude	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	philosophical	JJ
+gap	 	
+word	thoughts	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	occur	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	following	JJ
+gap	 	
+word	parts	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	follows	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	introduction	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	the	ART DET
+gap	 	
+word	goddess	NN
+gap	 	
+word	reveals	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	unchanging	JJ PRED
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	spite	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	DET WH
+gap	 	
+word	evidence	NN
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	senses	PRIV NN
+gap	 	
+word	might	POMD
+gap	 	
+word	provide	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	contrary	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	goddess	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	past	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	sensory	JJ
+gap	 	
+word	picture	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	speaking	PGAS
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	who	WH
+gap	 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	viewpoint	NN
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	detached	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mortals	NN
+gap	. 	
+word	After	PIN CAP PREP
+gap	 	
+word	communicating	GER PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	divine	JJ
+gap	 	
+word	revelation	NOMZ
+gap	, 	
+word	repeatedly	RB
+gap	 	
+word	stressing	PGAS
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	true	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	then	RB
+gap	 	
+word	takes	VPRT
+gap	 	
+word	what	WH
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	odd	JJ
+gap	 	
+word	step	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	reasoning	PRIV NN
+gap	, 	
+word	describing	GER PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	mortals	NN
+gap	 	
+word	perceive	VPRT PRIV THATD
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	goddess	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	condemned	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	entirely	AMP RB
+gap	 	
+word	erroneous	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	central	JJ
+gap	 	
+word	question	NOMZ
+gap	, 	
+word	then	RB
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	this	DEMP DET
+gap	: 	
+word	why	RB SCONJ WH
+gap	 	
+word	reveal	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	truth	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	then	RB
+gap	 	
+word	follow	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	mortals	NN
+gap	 	
+word	wrongly	RB
+gap	 	
+word	believe	VPRT PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	true	JJ PRED
+gap	? 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	Waterfield	CAP NNP
+gap	 	
+word	comments	PUBV NOMZ
+gap	, "	
+word	after	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	astonishing	JJ
+gap	 	
+word	tour	NN
+gap	 	
+word	de	X
+gap	 	
+word	force	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	strange	JJ PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	disappointing	JJ
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	taken	
+gap	 	
+word	abruptly	RB
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	domain	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Pre	JJ CAP
+gap	-	
+word	Socratic	JJ CAP
+gap	 	
+word	cosmogony	NN
+gap	." 	
+word	Much	QUAN JJ CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	difficulty	NN
+gap	 	
+word	here	RB
+gap	 	
+word	stems	VPRT
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	little	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	second	JJ
+gap	 	
+word	half	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	poem	NN
+gap	 	
+word	remains	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	preserved	
+gap	 	
+word	intact	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS SPAU AUXB INF
+gap	 	
+word	almost	DWNT RB
+gap	 	
+word	entirely	AMP RB
+gap	 	
+word	reconstructed	
+gap	, 	
+word	whereas	OSUB PIN SCONJ PREP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	fragments	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	survived	
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	text	NN
+gap	 	
+word	missing	WZPRES PGAS
+gap	, 	
+word	the	ART DET
+gap	 	
+word	attempts	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reconcile	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	halves	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	poem	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	many	QUAN JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	varied	JJ PRED
+gap	. 	
+word	R	CAP NNP
+gap	. 	
+word	Waterfield	CAP NNP
+gap	, 2000, 	
+word	p	NN
+gap	54 	
+word	The	ART CAP DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	widely	RB
+gap	 	
+word	accepted	PRIV THATD
+gap	 	
+word	approach	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	claim	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	purpose	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	describing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	subsequent	JJ
+gap	 	
+word	philosopher	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	theory	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	could	POMD
+gap	 	
+word	trump	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	else	RB
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	produce	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	works	VPRT
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	conceivable	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	everyone	QUPR INPR
+gap	 	
+word	would	PRMD
+gap	 	
+word	accept	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	true	JJ
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reality	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	Parmenides	CAP NNP
+gap	 	
+word	provides	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	complete	JJ
+gap	 	
+word	account	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cosmology	NN
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	possibly	RB
+gap	 	
+word	can	POMD
+gap	, 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	rival	JJ
+gap	 	
+word	philosopher	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	school	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	can	POMD
+gap	 	
+word	do	PROD INF
+gap	 	
+word	better	RB CMADJ
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	rejecting	PGAS
+gap	 	
+word	even	RB
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	comprehensive	JJ
+gap	 	
+word	mortal	JJ
+gap	 	
+word	account	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	works	VPRT
+gap	, 	
+word	the	ART DET
+gap	 	
+word	goddess	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	emphasising	GER PGAS
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	true	JJ
+gap	 	
+word	interpretation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	. 	
+word	No	SYNE CAP DET
+gap	 	
+word	other	JJ
+gap	 	
+word	mortal	JJ
+gap	, 	
+word	sensory	JJ
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	works	VPRT
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	possibly	RB
+gap	 	
+word	surpass	INF
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	provided	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	even	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS BYPA AUXB
+gap	 	
+word	rejected	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	goddess	NN
+gap	, 	
+word	no	SYNE DET
+gap	 	
+word	other	JJ
+gap	 	
+word	account	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	works	VPRT
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	possibly	RB
+gap	 	
+word	beat	INF
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	Way	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	idea	NN
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	succinctly	RB
+gap	 	
+word	summarised	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	McKirahan	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	following	PGAS
+gap	 	
+word	manner	NN
+gap	: "	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	can	POMD
+gap	 	
+word	show	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Mortal	CAP NNP
+gap	 	
+word	Opinion	CAP NNP
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	knows	VPRT PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	false	JJ PRED
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	superior	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	possible	JJ
+gap	 	
+word	rival	JJ
+gap	 	
+word	theories	NN
+gap	, 	
+word	then	RB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	such	JJ
+gap	 	
+word	theory	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	threaten	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	." 	
+word	R	CAP NNP
+gap	. 	
+word	D	CAP NNP
+gap	. 	
+word	McKirahan	CAP NNP
+gap	 	
+word	Jr	CAP NNP
+gap	, 1994, 	
+word	p	NNP
+gap	174 	
+word	Nevertheless	RB CONJ CAP
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rather	RB
+gap	 	
+word	convoluted	JJ
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	inclusion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	poem	NN
+gap	. 	
+word	W	CAP NNP
+gap	. 	
+word	K	CAP NNP
+gap	. 	
+word	C	CAP NNP
+gap	. 	
+word	Guthrie	CAP NNP
+gap	 	
+word	considers	VPRT PRIV
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	interpretation	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	nonsensical	JJ PRED
+gap	, 	
+word	querying	PRESP PGAS
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	Parmenides	CAP NNP
+gap	 	
+word	argues	VPRT PUBV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	case	NN
+gap	 	
+word	so	RB
+gap	 	
+word	convincingly	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	Ancient	CAP NNP
+gap	 	
+word	Greek	CAP NNP
+gap	 	
+word	cosmology	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	knows	VPRT PRIV THATD
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	false	JJ PRED
+gap	. 	
+word	After	RB CAP
+gap	 	
+word	all	QUAN RB
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	 	
+word	truly	RB
+gap	 	
+word	wishes	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prove	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	mortal	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	viewing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	wrong	RB
+gap	, "	
+word	then	RB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unlikely	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	unwise	JJ
+gap	 	
+word	procedure	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	construct	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	persuasive	JJ
+gap	 	
+word	account	NN
+gap	 	
+word	possible	JJ
+gap	." 	
+word	The	ART CAP DET
+gap	 '	
+word	traditional	JJ
+gap	' 	
+word	interpretation	NOMZ
+gap	 	
+word	also	RB
+gap	 	
+word	fails	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	address	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	possible	JJ
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	why	RB WHOBJ WHCL SCONJ WH
+gap	 	
+word	Parmenides	CAP NNP
+gap	 	
+word	arranged	VBD SUAV
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	Ways	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	order	SUAV NN
+gap	. 	
+word	Why	RB CAP SCONJ WH
+gap	, 	
+word	after	PIN PREP
+gap	 	
+word	revealing	PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	ultimate	JJ
+gap	 	
+word	truth	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	, 	
+word	should	NEMD
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	choose	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	follow	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	discussing	GER PGAS
+gap	 	
+word	what	WH
+gap	 	
+word	mortals	NN
+gap	 	
+word	erroneously	RB
+gap	 	
+word	believe	VPRT PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	true	JJ PRED
+gap	? 	
+word	The	ART CAP DET
+gap	 	
+word	impact	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	brilliant	JJ
+gap	 	
+word	logic	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	goddess	NN
+gap	' 	
+word	argument	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	lessened	
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	followed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patently	RB
+gap	 	
+word	false	JJ
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	. 	
+word	W	CAP NNP
+gap	. 	
+word	K	CAP NNP
+gap	. 	
+word	C	CAP NNP
+gap	. 	
+word	Guthrie	CAP NNP
+gap	, 1980, 	
+word	p	NN
+gap	71 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 1989 	
+word	essay	NN
+gap	, 	
+word	Karl	CAP NNP
+gap	 	
+word	Popper	CAP NNP
+gap	 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	arrangement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Ways	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	wished	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	break	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	model	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	presenting	GER PGAS
+gap	 	
+word	one	PRP SBJP
+gap	'	
+word	s	
+gap	 	
+word	theories	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Ancient	CAP NNP
+gap	 	
+word	Greece	CAP NNP
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	now	RB TIME
+gap	, 	
+word	the	ART DET
+gap	 	
+word	usual	JJ
+gap	 	
+word	method	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	systematically	RB
+gap	 	
+word	refute	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	accepted	PRIV
+gap	 	
+word	belief	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	presenting	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	listener	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	one	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	avoids	VPRT
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	obstacles	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	proved	VBD PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	downfall	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	theory	NN
+gap	. 	
+word	Popper	CAP NNP
+gap	 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	choice	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	put	INF
+gap	 	
+word	forward	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	deliberate	JJ
+gap	 "	
+word	inversion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	traditional	JJ
+gap	 	
+word	style	NN
+gap	.'" 	
+word	His	TPP3 CAP PRP SBJP
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	break	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	work	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	contemporaries	NN
+gap	 	
+word	that	DEMO WHOBJ WH
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	model	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	detract	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	originality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	thought	PRIV NN
+gap	. 	
+word	Though	CONC PIN CAP SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	place	INF
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	context	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	laudable	JJ PRED
+gap	, 	
+word	the	ART DET
+gap	 	
+word	inclusion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	still	RB
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	superfluous	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	was	VBD AUXB
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	so	RB
+gap	 	
+word	groundbreaking	GER PGAS
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	easily	RB
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	stood	
+gap	 	
+word	alone	RB
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	break	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	traditional	JJ
+gap	 	
+word	style	NN
+gap	 	
+word	Popper	CAP NNP
+gap	 	
+word	implies	VPRT PRIV
+gap	 	
+word	Parmenides	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	eager	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	. 	
+word	K	CAP NNP
+gap	. 	
+word	Popper	CAP NNP
+gap	, 1998, 	
+word	p	NUM
+gap	90 	
+word	John	CAP NNP
+gap	 	
+word	Burnet	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reconcile	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	halves	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	work	NN
+gap	 	
+word	also	RB
+gap	 	
+word	appeals	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	context	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	Parmenides	CAP NNP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	writing	PUBV PGAS
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	claims	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	written	PASTP PUBV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Pythagorean	JJ CAP
+gap	 	
+word	philosopher	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	purpose	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	following	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	emphasise	INF
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	falsity	NOMZ
+gap	, 	
+word	throwing	PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	wrongness	NOMZ
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	stark	JJ
+gap	 	
+word	relief	NN
+gap	. 	
+word	Burnet	CAP NNP
+gap	 	
+word	gives	VPRT
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	suggestion	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	central	JJ
+gap	 	
+word	one	NUM
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Pythagorean	CAP NNP
+gap	 	
+word	School	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	philosophy	NN
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	divined	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	. 	
+word	Burnet	NN CAP
+gap	 	
+word	speculates	VPRT
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 "	
+word	IN	PIN CONJ CAP PREP
+gap	 	
+word	BOOK	NN CAP
+gap	 	
+word	LENT	WZPAST CAP
+gap	 	
+word	TO	PIN CAP PREP
+gap	 	
+word	AMBROSE	CAP NNP
+gap	" 	
+word	Indeed	RB CAP
+gap	, 	
+word	this	DEMP DET
+gap	 	
+word	seems	VPRT SMP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	likely	JJ
+gap	 	
+word	suggestion	NOMZ
+gap	, 	
+word	were	VBD AUXB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	goddess	NN
+gap	 	
+word	both	DET
+gap	 	
+word	describe	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	the	ART DET
+gap	 '	
+word	beliefs	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mortals	NN
+gap	.' 	
+word	The	ART CAP DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	plural	NN
+gap	 	
+word	here	RB
+gap	 	
+word	indicates	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	limited	
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Pythagorean	JJ CAP
+gap	 	
+word	philosopher	NN
+gap	. 	
+word	J	CAP NNP
+gap	. 	
+word	Burnet	CAP NNP
+gap	, 1920, 	
+word	p	NNP
+gap	184-5 	
+word	To	PIN CAP PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	mind	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	satisfactory	JJ
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	link	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	second	JJ
+gap	 	
+word	halves	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	poem	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	put	
+gap	 	
+word	forward	RB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Karl	CAP NNP
+gap	 	
+word	Popper	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 1988 	
+word	essay	NN
+gap	 '	
+word	Can	POMD CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Moon	CAP NNP
+gap	 	
+word	Throw	CAP INF
+gap	 	
+word	Light	CAP NNP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	Ways	NN CAP
+gap	?' 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	points	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discover	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	waxing	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	waning	PGAS
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	moon	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	trick	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	light	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consequence	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	moon	NN
+gap	 	
+word	remains	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	spherical	JJ
+gap	 	
+word	solid	JJ
+gap	 	
+word	no	RB
+gap	 	
+word	matter	RB
+gap	 	
+word	what	DET WH
+gap	 	
+word	stage	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	reached	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lunar	JJ
+gap	 	
+word	cycle	NN
+gap	. 	
+word	So	RB CAP
+gap	, 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	appeared	VBD SMP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	change	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	passage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	time	NN
+gap	 	
+word	was	VBD AUXB
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	changing	PGAS
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	all	QUAN RB
+gap	. 	
+word	Popper	NN CAP
+gap	 	
+word	speculates	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	ground	NN
+gap	-	
+word	breaking	PGAS
+gap	 	
+word	discovery	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	likely	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	had	
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	influence	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	whole	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	thought	PRIV NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	direct	JJ
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	discovery	NN
+gap	, 	
+word	Parmenides	NN CAP
+gap	 	
+word	might	POMD SPAU
+gap	 	
+word	well	RB
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	come	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	change	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	illusion	NOMZ
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	waxing	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	waning	PGAS
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	moon	NN
+gap	; "	
+word	a	ART DET INDA
+gap	 	
+word	play	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	shadows	NN
+gap	," 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Popper	CAP NNP
+gap	 	
+word	puts	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	basic	JJ
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	understood	PRIV
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	Parmenides	NN CAP
+gap	 	
+word	can	POMD
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	why	RB WHCL SCONJ WH
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	mortals	NN
+gap	 	
+word	perceive	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	do	VPRT PROD
+gap	. 	
+word	After	RB CAP
+gap	 	
+word	all	QUAN RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	dark	JJ
+gap	, 	
+word	solid	JJ
+gap	, 	
+word	unchanging	JJ
+gap	 	
+word	foundation	NOMZ
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	shadows	NN
+gap	 (	
+word	which	SERE DET WH
+gap	 	
+word	constitute	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	understood	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	senses	PRIV NN
+gap	) 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	projected	
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Truth	CAP NNP
+gap	 	
+word	must	NEMD
+gap	 	
+word	proceed	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP NNP
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	Guthrie	CAP NNP
+gap	 	
+word	says	VPRT PUBV
+gap	, 	
+word	K	CAP NNP
+gap	. 	
+word	Popper	CAP NNP
+gap	, 1998, 	
+word	p	NNP
+gap	100 "	
+word	Of	PIN CAP PREP
+gap	 	
+word	Reinhardt	CAP NNP
+gap	'	
+word	s	
+gap	 '	
+word	Parmenides	NN CAP
+gap	', 	
+word	von	NNP
+gap	 	
+word	Fritz	CAP NNP
+gap	 	
+word	writes	VPRT PUBV
+gap	...	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	has	VPRT
+gap	 "	
+word	shown	PASTP PRIV
+gap	 	
+word	conclusively	RB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	second	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	neither	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	actual	JJ
+gap	 	
+word	beliefs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	opinions	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	two	NUM
+gap	-	
+word	headed	
+gap	 	
+word	mortals	NNP
+gap	'...	
+word	nor	CCONJ
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	system	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mere	JJ
+gap	 	
+word	belief	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	people	NN
+gap	 	
+word	have	VPRT
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	fundamentally	RB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	attempt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	show	PRIV INF
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	there	EX
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	world	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	belief	JJ
+gap	 	
+word	side	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	side	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	truth	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	originates	VPRT
+gap	. " (	
+word	italics	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	Guthrie	CAP NNP
+gap	'	
+word	s	
+gap	) 	
+word	W	CAP NNP
+gap	. 	
+word	K	CAP NNP
+gap	. 	
+word	C	CAP NNP
+gap	. 	
+word	Guthrie	CAP NNP
+gap	, 1980, 	
+word	p	NN
+gap	76 	
+word	There	EX CAP
+gap	 	
+word	could	POMD
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reading	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	text	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	removes	VPRT
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	confusion	NOMZ
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	inclusion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Way	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	CAP PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Parmenides	CAP NNP
+gap	' 	
+word	poem	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	based	
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	belief	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	perhaps	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	word	NN
+gap	 '	
+word	apatēlon	
+gap	', 	
+word	meaning	
+gap	 '	
+word	deceitful	
+gap	' 	
+word	could	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	mistaken	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 '	
+word	apatēton	
+gap	', 	
+word	meaning	
+gap	 '	
+word	so	
+gap	 	
+word	far	
+gap	 	
+word	unused	
+gap	.' 	
+word	If	
+gap	 	
+word	the	
+gap	 	
+word	instances	
+gap	 	
+word	of	
+gap	 '	
+word	deceitful	
+gap	' 	
+word	were	
+gap	 	
+word	replaced	
+gap	 	
+word	with	
+gap	 '	
+word	so	
+gap	 	
+word	far	
+gap	 	
+word	unused	
+gap	', 	
+word	then	
+gap	, 	
+word	Popper	
+gap	 	
+word	suggests	
+gap	, 	
+word	the	
+gap	 	
+word	Way	
+gap	 	
+word	of	
+gap	 	
+word	Seeming	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	read	
+gap	 	
+word	simply	
+gap	 	
+word	as	
+gap	 "	
+word	Parmenides	
+gap	' 	
+word	claim	
+gap	 	
+word	that	
+gap	 	
+word	his	
+gap	 	
+word	conjectural	
+gap	 	
+word	theory	
+gap	 	
+word	is	
+gap	 	
+word	new	
+gap	." 	
+word	The	
+gap	 	
+word	way	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	and	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	, 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	goddess	
+gap	 	
+word	stresses	
+gap	 	
+word	the	ART DET
+gap	 	
+word	falsity	
+gap	 	
+word	of	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Way	
+gap	 	
+word	of	
+gap	 	
+word	Truth	
+gap	 	
+word	is	
+gap	 	
+word	therefore	
+gap	 	
+word	not	
+gap	 	
+word	identifiable	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	second	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	Parmenides	
+gap	' 	
+word	cosmological	
+gap	 	
+word	discoveries	
+gap	 	
+word	are	
+gap	 	
+word	in	
+gap	 	
+word	fact	
+gap	 	
+word	entirely	
+gap	 	
+word	compatible	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	Way	
+gap	 	
+word	of	
+gap	 	
+word	Truth	
+gap	, 	
+word	since	
+gap	 	
+word	they	
+gap	 	
+word	rely	
+gap	 	
+word	upon	
+gap	 	
+word	an	
+gap	 	
+word	unchanging	
+gap	 	
+word	world	
+gap	 	
+word	for	
+gap	 	
+word	their	
+gap	 	
+word	basis	
+gap	. 	
+word	What	
+gap	 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	left	
+gap	 	
+word	of	
+gap	 	
+word	Parmenides	
+gap	' 	
+word	Way	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Seeming	
+gap	 	
+word	is	
+gap	 	
+word	so	
+gap	 	
+word	fragmentary	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	quite	
+gap	 	
+word	possible	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	original	
+gap	 	
+word	Greek	
+gap	 	
+word	could	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	transcribed	
+gap	 	
+word	incorrectly	
+gap	, 	
+word	and	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	, 	
+word	misunderstood	
+gap	 	
+word	for	
+gap	 	
+word	millennia	
+gap	. 	
+word	K	
+gap	. 	
+word	Popper	
+gap	, 1998, 	
+word	p	
+gap	94	

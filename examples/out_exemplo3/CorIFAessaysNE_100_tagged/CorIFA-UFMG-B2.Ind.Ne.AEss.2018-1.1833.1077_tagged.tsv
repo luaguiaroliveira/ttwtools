@@ -1,611 +1,1113 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1833.1077.txt
-token	tags
-    	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-explosion	NOMZ
-of	PIN PREP
-TV	NN CAP
-shows	PRIV NN THATD
-that	TSUB WHSUB WH
-have	VPRT
-the	ART DET
-plot	NN
-developed	WZPAST
-from	PIN PREP
-the	ART DET
-criminal	JJ
-expertise	NN
-,	
-forensic	JJ
-science	NN
-has	VPRT PEAS
-been	BEMA AUXB
-under	PIN PREP
-the	ART DET
-spotlights	NN
-,	
-being	PASS BYPA AUXB
-explored	
-by	PIN PREP
-several	QUAN JJ
-criminal	JJ
-situations	NOMZ
-that	TSUB WHSUB WH
-instigate	VPRT
-the	ART DET
-public	JJ
-interest	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-points	NN
-that	TSUB WHSUB WH
-generates	VPRT
-most	JJ EMPH SPADJ
-interest	NN
-and	PHC CCONJ
-curiosity	NOMZ
-is	BEMA VPRT AUXB
-the	ART DET
-amount	NN
-of	PIN PREP
-areas	NN
-of	PIN PREP
-knowledge	NN
-that	TSUB WHSUB WH
-can	POMD
-be	PASS AUXB INF
-approached	
-,	
-from	PIN PREP
-chemistry	NN
-and	PHC CCONJ
-biology	NN
-,	
-going	PGAS
-through	PIN PREP
-law	NN
-and	CCONJ
-going	PGAS
-to	PIN PREP
-psychology	NN
-.	
-As	PIN CONJ CAP PREP
-the	ART DET
-forensic	JJ
-science	NN
-deals	NN
-with	PIN PREP
-the	ART DET
-resolution	NOMZ
-of	PIN PREP
-crimes	NN
-is	BEMA VPRT AUXB
-the	ART DET
-main	JJ
-way	NN
-to	PIN TO PREP
-provide	INF
-evidence	NN
-for	PIN PREP
-law	NN
-enforcement	NOMZ
-and	CCONJ
-ensure	PRIV SUAV INF
-for	PIN PREP
-the	ART DET
-population	NOMZ
-that	TOBJ WHOBJ WH
-criminal	JJ
-offenses	NN
-are	PASS VPRT AUXB
-resolved	SUAV
-.	
-  	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-the	ART DET
-forensic	JJ
-evidences	NN
-are	PASS VPRT AUXB
-intended	SUAV
-for	PIN PREP
-the	ART DET
-judge	PRIV NN
-'s	
-trial	NN
-,	
-they	TPP3 PRP SBJP
-are	PASS VPRT SPAU AUXB
-also	RB
-directed	
-to	PIN PREP
-the	ART DET
-victims	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-families	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-the	ART DET
-society	NN
-,	
-which	SERE WHQU DET WH
-has	VPRT
-its	PIT PRP SBJP
-rights	NN
-assured	WZPAST
-through	PIN PREP
-the	ART DET
-application	NOMZ
-of	PIN PREP
-the	ART DET
-laws	NN
-.	
-A	ART CAP DET INDA
-very	AMP RB
-famous	JJ
-case	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-,	
-the	ART DET
-one	NUM
-of	PIN PREP
-Isabella	CAP NNP
-Nardoni	CAP NNP
-,	
-the	ART DET
-expert	NN
-concluded	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-girl	NN
-was	PASS VBD AUXB
-thrown	
-from	PIN PREP
-the	ART DET
-sixth	JJ
-floor	NN
-of	PIN PREP
-the	ART DET
-building	NN
-where	RB WHOBJ SCONJ WH
-her	TPP3 PRP SBJP
-father	NN
-and	CCONJ
-her	TPP3 PRP SBJP
-stepmother	NN
-lived	VBD
-,	
-but	CCONJ
-they	TPP3 PRP SBJP
-declared	VBD PUBV
-that	PIN THVC SCONJ PREP
-someone	QUPR INPR
-had	VBD PEAS
-entered	
-in	PIN CONJ PREP
-the	ART DET
-apartment	NOMZ
-and	CCONJ
-threw	VBD
-the	ART DET
-girl	NN
-out	PIN PREP
-the	ART DET
-window	NN
-.	
-But	CAP CCONJ
-the	ART DET
-expertise	NN
-denied	VBD PUBV
-this	DEMO DET
-version	NOMZ
-with	PIN PREP
-the	ART DET
-traces	NN
-of	PIN PREP
-blood	NN
-on	PIN PREP
-the	ART DET
-door	NN
-of	PIN PREP
-the	ART DET
-apartment	NOMZ
-,	
-in	PIN CONJ PREP
-the	ART DET
-living	NN
-room	NN
-,	
-the	ART DET
-hallway	NN
-,	
-the	ART DET
-door	NN
-handle	NN
-,	
-the	ART DET
-car	NN
-,	
-and	ANDC CCONJ
-there	EX
-was	VBD AUXB
-no	SYNE DET
-sign	NN
-of	PIN PREP
-burglary	NN
-or	CCONJ
-theft	NN
-.	
-The	ART CAP DET
-expertise	NN
-also	RB
-revealed	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-girl	NN
-was	PASS VBD BYPA SPAU AUXB
-gently	RB
-thrown	
-by	PIN PREP
-her	TPP3 PRP SBJP
-wrists	NN
-.	
-  	
-Another	CAP DET
-case	NN
-with	PIN PREP
-big	JJ
-repercussion	NOMZ
-was	BEMA VBD AUXB
-the	ART DET
-Richthofen	CAP NNP
-’s	
-case	NN
-,	
-which	SERE DET WH
-the	ART DET
-couple	NN
-Manfred	CAP NNP
-and	PHC CCONJ
-Marísia	CAP NNP
-von	NNP
-Richthofen	CAP NNP
-were	PASS VBD AUXB
-killed	
-with	PIN PREP
-blows	NN
-of	PIN PREP
-iron	NN
-bar	NN
-.	
-The	ART CAP DET
-police	NN
-were	PASS VBD BYPA AUXB
-called	
-by	PIN PREP
-the	ART DET
-boyfriend	NN
-of	PIN PREP
-the	ART DET
-couple	NN
-'s	
-daughter	NN
-,	
-Suzane	CAP NNP
-von	NNP
-Richthofen	CAP NNP
-,	
-and	ANDC CCONJ
-he	TPP3 PRP SBJP
-told	VBD
-that	PIN DEMO SCONJ PREP
-the	ART DET
-house	NN
-appeared	VBD SMP
-to	PIN TO PREP
-have	PEAS INF
-been	PASS AUXB
-robbed	
-.	
-At	PIN CAP PREP
-first	RB
-,	
-the	ART DET
-situation	NOMZ
-suggested	VBD PUBV SUAV
-robbery	NN
-and	ANDC CCONJ
-then	RB
-murder	NN
-but	CCONJ
-no	SYNE DET
-signs	NN
-of	PIN PREP
-break	NN
--	
-in	PIN CONJ NN PREP
-were	PASS VBD AUXB
-found	PRIV
-,	
-and	ANDC CCONJ
-the	ART DET
-house	NN
-alarm	NN
-did	VBD SPAU
-not	XX0 RB
-ring	INF
-which	DET WH
-raised	VBD
-doubts	PRIV NN
-.	
-While	OSUB PIN CAP SCONJ PREP
-the	ART DET
-experts	NN
-were	VBD AUXB
-examining	PGAS
-the	ART DET
-library	NN
-,	
-Suzane	CAP NNP
-was	PASS VBD BYPA AUXB
-questioned	
-by	PIN PREP
-them	TPP3 PRP SBJP ACCU
-and	ANDC CCONJ
-she	TPP3 PRP SBJP
-told	VBD
-a	ART DET INDA
-version	NOMZ
-incompatible	JJ
-with	PIN PREP
-the	ART DET
-scene	NN
-that	TSUB WHSUB WH
-was	PASS VBD AUXB
-found	PRIV
-.	
-Later	RB TIME CAP
-when	RB SCONJ WH
-Suzane	CAP NNP
-and	CCONJ
-her	TPP3 PRP SBJP
-boyfriend	NN
-were	PASS VBD AUXB
-faced	
-with	PIN PREP
-the	ART DET
-analysis	NN
-of	PIN PREP
-the	ART DET
-expertise	NN
-,	
-they	TPP3 PRP SBJP
-confessed	VBD PUBV
-the	ART DET
-crime	NN
-.	
-  	
-The	ART CAP DET
-place	NN
-where	RB WHOBJ SCONJ WH
-most	JJ EMPH SPADJ
-of	PIN PREP
-the	ART DET
-vestiges	NN
-that	TSUB WHSUB WH
-indicates	VPRT PRIV
-the	ART DET
-dynamics	NN
-of	PIN PREP
-a	ART DET INDA
-crime	NN
-and	CCONJ
-mainly	RB
-its	PIT PRP SBJP
-authorship	NN
-is	BEMA VPRT AUXB
-the	ART DET
-crime	NN
-scene	NN
-.	
-Hardly	DWNT RB CAP
-a	ART DET INDA
-crime	NN
-occurs	VPRT
-without	PIN PREP
-leaving	PGAS
-any	QUAN DET
-material	NN
-vestiges	NN
-and	ANDC CCONJ
-this	DEMP DET
-is	VPRT SPAU AUXB
-how	RB SCONJ WH
-begins	VPRT
-the	ART DET
-analysis	NN
-of	PIN PREP
-the	ART DET
-place	NN
-.	
-The	ART CAP DET
-recognition	NOMZ
-of	PIN PREP
-the	ART DET
-scene	NN
-is	BEMA VPRT AUXB
-fundamental	JJ PRED
-but	CCONJ
-before	PIN PREP
-this	DEMP DET
-,	
-the	ART DET
-place	NN
-should	NEMD
-be	PASS AUXB INF
-isolated	
-and	ANDC CCONJ
-then	RB
-start	INF
-collecting	GER PGAS
-and	PHC CCONJ
-identifying	GER PGAS
-the	ART DET
-items	NN
-that	TSUB WHSUB WH
-were	PASS VBD AUXB
-found	PRIV
-,	
-which	SERE WHQU DET WH
-are	PASS VPRT SPAU AUXB
-then	RB
-analyzed	
-and	ANDC CCONJ
-then	RB
-placed	VBD
-with	PIN PREP
-the	ART DET
-dynamics	NN
-of	PIN PREP
-the	ART DET
-crime	NN
-to	PIN TO PREP
-understand	PRIV INF
-how	RB WHCL SCONJ WH
-the	ART DET
-crime	NN
-occurred	VBD
-.	
-After	PIN CAP PREP
-these	DEMO DET
-analyzes	NN
-begins	VPRT
-their	TPP3 PRP SBJP
-interpretation	NOMZ
-,	
-but	CCONJ
-often	RB
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-lack	NN
-of	PIN PREP
-preservation	NOMZ
-of	PIN PREP
-the	ART DET
-crime	NN
-scene	NN
-,	
-can	POMD
-make	INF
-the	ART DET
-police	NN
-analysis	NN
-more	RB EMPH CMADJ
-difficult	JJ
-.	
-  	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-instrumental	JJ
-analysis	NN
-techniques	NN
-applied	WZPAST
-in	PIN CONJ PREP
-identifying	GER PGAS
-the	ART DET
-presence	NN
-of	PIN PREP
-substances	NN
-has	VPRT PEAS
-contributed	
-in	PIN CONJ PREP
-a	ART DET INDA
-valuable	JJ
-way	NN
-for	PIN PREP
-the	ART DET
-promotion	NOMZ
-of	PIN PREP
-justice	NN
-.	
-By	PIN CAP PREP
-using	PGAS
-modern	JJ
-equipment	NOMZ
-,	
-experts	NN
-in	PIN CONJ PREP
-this	DEMO DET
-area	NN
-can	POMD
-analyze	INF
-and	PHC CCONJ
-detect	INF
-minute	NN
-quantities	NN
-of	PIN PREP
-materials	NN
-even	RB
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-present	JJ PRED
-in	PIN CONJ PREP
-a	ART DET INDA
-blend	NN
-.	
-The	ART CAP DET
-technical	JJ
--	
-scientific	JJ
-work	NN
-developed	WZPAST
-by	PIN PREP
-the	ART DET
-expert	NN
-has	VPRT
-a	ART DET INDA
-large	JJ
-importance	NN
-to	PIN PREP
-those	DEMP DET
-who	WH
-are	VPRT AUXB
-investigating	GER PGAS
-and	PHC CCONJ
-judging	PRIV PGAS
-the	ART DET
-crimes	NN
-committed	
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-facts	NN
-can	POMD
-be	PASS BYPA AUXB INF
-proven	
-by	PIN PREP
-science	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-rational	JJ
-and	PHC CCONJ
-systematic	JJ
-way	NN
-,	
-allowing	SUAV PRESP PGAS
-a	ART DET INDA
-more	RB EMPH CMADJ
-accurate	JJ
-analysis	NN
-of	PIN PREP
-reality	NOMZ
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1833.1077>\n\n<How the crime scene is settled>\n\n	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	explosion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	TV	NN CAP
+gap	 	
+word	shows	PRIV NN THATD
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	plot	NN
+gap	 	
+word	developed	WZPAST
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	criminal	JJ
+gap	 	
+word	expertise	NN
+gap	, 	
+word	forensic	JJ
+gap	 	
+word	science	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	spotlights	NN
+gap	, 	
+word	being	PASS BYPA AUXB
+gap	 	
+word	explored	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	criminal	JJ
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	instigate	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	public	JJ
+gap	 	
+word	interest	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	points	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	generates	VPRT
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	interest	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	curiosity	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	areas	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	approached	
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	chemistry	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	biology	NN
+gap	, 	
+word	going	PGAS
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	law	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	psychology	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	forensic	JJ
+gap	 	
+word	science	NN
+gap	 	
+word	deals	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	resolution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	crimes	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	evidence	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	law	NN
+gap	 	
+word	enforcement	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	criminal	JJ
+gap	 	
+word	offenses	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	resolved	SUAV
+gap	.\n\n	
+word	Even	RB CAP
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	forensic	JJ
+gap	 	
+word	evidences	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	intended	SUAV
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	judge	PRIV NN
+gap	'	
+word	s	
+gap	 	
+word	trial	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	directed	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	victims	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	families	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	society	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	has	VPRT
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	rights	NN
+gap	 	
+word	assured	WZPAST
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	application	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	laws	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	famous	JJ
+gap	 	
+word	case	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Isabella	CAP NNP
+gap	 	
+word	Nardoni	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	expert	NN
+gap	 	
+word	concluded	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	girl	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	thrown	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	sixth	JJ
+gap	 	
+word	floor	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	building	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	father	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	stepmother	NN
+gap	 	
+word	lived	VBD
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	declared	VBD PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	entered	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	apartment	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	threw	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	girl	NN
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	window	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	expertise	NN
+gap	 	
+word	denied	VBD PUBV
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	version	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	traces	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	blood	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	door	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	apartment	NOMZ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	living	NN
+gap	 	
+word	room	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	hallway	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	door	NN
+gap	 	
+word	handle	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	car	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	there	EX
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	sign	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	burglary	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	theft	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	expertise	NN
+gap	 	
+word	also	RB
+gap	 	
+word	revealed	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	girl	NN
+gap	 	
+word	was	PASS VBD BYPA SPAU AUXB
+gap	 	
+word	gently	RB
+gap	 	
+word	thrown	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	wrists	NN
+gap	.\n\n	
+word	Another	CAP DET
+gap	 	
+word	case	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	big	JJ
+gap	 	
+word	repercussion	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Richthofen	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	case	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	couple	NN
+gap	 	
+word	Manfred	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Marísia	
+gap	 	
+word	von	
+gap	 	
+word	Richthofen	
+gap	 	
+word	were	
+gap	 	
+word	killed	
+gap	 	
+word	with	
+gap	 	
+word	blows	
+gap	 	
+word	of	
+gap	 	
+word	iron	
+gap	 	
+word	bar	
+gap	. 	
+word	The	
+gap	 	
+word	police	
+gap	 	
+word	were	
+gap	 	
+word	called	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	boyfriend	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	couple	
+gap	'	
+word	s	
+gap	 	
+word	daughter	
+gap	, 	
+word	Suzane	
+gap	 	
+word	von	
+gap	 	
+word	Richthofen	
+gap	, 	
+word	and	
+gap	 	
+word	he	
+gap	 	
+word	told	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	house	
+gap	 	
+word	appeared	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	robbed	
+gap	. 	
+word	At	
+gap	 	
+word	first	
+gap	, 	
+word	the	
+gap	 	
+word	situation	
+gap	 	
+word	suggested	
+gap	 	
+word	robbery	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	murder	
+gap	 	
+word	but	
+gap	 	
+word	no	
+gap	 	
+word	signs	
+gap	 	
+word	of	
+gap	 	
+word	break	
+gap	-	
+word	in	
+gap	 	
+word	were	
+gap	 	
+word	found	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	house	
+gap	 	
+word	alarm	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	ring	
+gap	 	
+word	which	
+gap	 	
+word	raised	
+gap	 	
+word	doubts	
+gap	. 	
+word	While	
+gap	 	
+word	the	
+gap	 	
+word	experts	
+gap	 	
+word	were	
+gap	 	
+word	examining	
+gap	 	
+word	the	
+gap	 	
+word	library	
+gap	, 	
+word	Suzane	
+gap	 	
+word	was	
+gap	 	
+word	questioned	
+gap	 	
+word	by	
+gap	 	
+word	them	
+gap	 	
+word	and	
+gap	 	
+word	she	
+gap	 	
+word	told	
+gap	 	
+word	a	
+gap	 	
+word	version	
+gap	 	
+word	incompatible	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	scene	
+gap	 	
+word	that	
+gap	 	
+word	was	
+gap	 	
+word	found	
+gap	. 	
+word	Later	
+gap	 	
+word	when	
+gap	 	
+word	Suzane	
+gap	 	
+word	and	
+gap	 	
+word	her	
+gap	 	
+word	boyfriend	
+gap	 	
+word	were	
+gap	 	
+word	faced	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	analysis	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	expertise	
+gap	, 	
+word	they	
+gap	 	
+word	confessed	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	.\n\n	
+word	The	
+gap	 	
+word	place	
+gap	 	
+word	where	
+gap	 	
+word	most	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	vestiges	
+gap	 	
+word	that	
+gap	 	
+word	indicates	
+gap	 	
+word	the	
+gap	 	
+word	dynamics	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	crime	
+gap	 	
+word	and	
+gap	 	
+word	mainly	
+gap	 	
+word	its	
+gap	 	
+word	authorship	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	 	
+word	scene	
+gap	. 	
+word	Hardly	
+gap	 	
+word	a	
+gap	 	
+word	crime	
+gap	 	
+word	occurs	
+gap	 	
+word	without	
+gap	 	
+word	leaving	
+gap	 	
+word	any	
+gap	 	
+word	material	
+gap	 	
+word	vestiges	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	how	
+gap	 	
+word	begins	
+gap	 	
+word	the	
+gap	 	
+word	analysis	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	place	
+gap	. 	
+word	The	
+gap	 	
+word	recognition	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	scene	
+gap	 	
+word	is	
+gap	 	
+word	fundamental	
+gap	 	
+word	but	
+gap	 	
+word	before	
+gap	 	
+word	this	
+gap	, 	
+word	the	
+gap	 	
+word	place	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	isolated	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	start	
+gap	 	
+word	collecting	
+gap	 	
+word	and	
+gap	 	
+word	identifying	
+gap	 	
+word	the	
+gap	 	
+word	items	
+gap	 	
+word	that	
+gap	 	
+word	were	
+gap	 	
+word	found	
+gap	, 	
+word	which	
+gap	 	
+word	are	
+gap	 	
+word	then	
+gap	 	
+word	analyzed	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	placed	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	dynamics	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	how	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	 	
+word	occurred	
+gap	. 	
+word	After	
+gap	 	
+word	these	
+gap	 	
+word	analyzes	
+gap	 	
+word	begins	
+gap	 	
+word	their	
+gap	 	
+word	interpretation	
+gap	, 	
+word	but	
+gap	 	
+word	often	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	preservation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	 	
+word	scene	
+gap	, 	
+word	can	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	police	
+gap	 	
+word	analysis	
+gap	 	
+word	more	
+gap	 	
+word	difficult	
+gap	.\n\n	
+word	The	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	instrumental	
+gap	 	
+word	analysis	
+gap	 	
+word	techniques	
+gap	 	
+word	applied	
+gap	 	
+word	in	
+gap	 	
+word	identifying	
+gap	 	
+word	the	
+gap	 	
+word	presence	
+gap	 	
+word	of	
+gap	 	
+word	substances	
+gap	 	
+word	has	
+gap	 	
+word	contributed	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	valuable	
+gap	 	
+word	way	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	promotion	
+gap	 	
+word	of	
+gap	 	
+word	justice	
+gap	. 	
+word	By	
+gap	 	
+word	using	
+gap	 	
+word	modern	
+gap	 	
+word	equipment	
+gap	, 	
+word	experts	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	area	
+gap	 	
+word	can	
+gap	 	
+word	analyze	
+gap	 	
+word	and	
+gap	 	
+word	detect	
+gap	 	
+word	minute	
+gap	 	
+word	quantities	
+gap	 	
+word	of	
+gap	 	
+word	materials	
+gap	 	
+word	even	
+gap	 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	present	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	blend	
+gap	. 	
+word	The	
+gap	 	
+word	technical	
+gap	-	
+word	scientific	
+gap	 	
+word	work	
+gap	 	
+word	developed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	expert	
+gap	 	
+word	has	
+gap	 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	importance	
+gap	 	
+word	to	
+gap	 	
+word	those	
+gap	 	
+word	who	
+gap	 	
+word	are	
+gap	 	
+word	investigating	
+gap	 	
+word	and	
+gap	 	
+word	judging	
+gap	 	
+word	the	
+gap	 	
+word	crimes	
+gap	 	
+word	committed	
+gap	, 	
+word	since	
+gap	 	
+word	the	
+gap	 	
+word	facts	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	proven	
+gap	 	
+word	by	
+gap	 	
+word	science	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	rational	
+gap	 	
+word	and	
+gap	 	
+word	systematic	
+gap	 	
+word	way	
+gap	, 	
+word	allowing	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	accurate	
+gap	 	
+word	analysis	
+gap	 	
+word	of	
+gap	 	
+word	reality	
+gap	.	

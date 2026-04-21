@@ -1,1471 +1,2557 @@
 # filename: AH_History_Essay_2_0042b_tx.txt
-token	tags
-(	
-Figure	NN CAP
-1	NUM
-)	
-(	
-Figure	NN CAP
-2	NUM
-)	
-(	
-Figure	NN CAP
-3	NUM
-)	
-Diagrams	CAP NNP
-constructed	
-from	PIN PREP
-figures	NN
-cited	WZPAST
-in	PIN CONJ PREP
-K.N.	CAP NNP
-Chauduri	CAP NNP
-,	
-The	ART CAP DET
-Trading	CAP NNP
-World	CAP NNP
-of	PIN PREP
-Asia	CAP NNP
-and	CCONJ
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-1660	NUM
--	
-1760	NUM
-(	
-Cambridge	NN CAP
-:	
-Cambridge	CAP NNP
-University	CAP NNP
-Press	CAP NNP
-,	
-1978	NUM
-)	
-,	
-p.	NN
-507	NUM
--	
-511	NUM
-Trade	CAP NNP
-in	PIN CONJ PREP
-absolute	JJ
-and	PHC CCONJ
-relative	JJ
-terms	NN
-with	PIN PREP
-Asia	CAP NNP
-grew	VBD
-at	PIN PREP
-moderate	JJ
-rates	NN
-ever	RB
-since	OSUB PIN SCONJ PREP
-the	ART DET
-Portugese	CAP NNP
-under	PIN PREP
-Vasco	CAP NNP
-da	NNP
-Gama	CAP NNP
-landed	VBD
-in	PIN CONJ PREP
-Goa	CAP NNP
-in	PIN CONJ PREP
-1498	NUM
-.	
-The	ART CAP DET
-Dutch	CAP NNP
-and	CCONJ
-the	ART DET
-Portugese	CAP NNP
-had	VBD PEAS SPAU
-long	RB
-competed	
-for	PIN PREP
-gaining	PGAS
-control	NN
-of	PIN PREP
-the	ART DET
-oceanic	JJ
-trade	NN
-network	NN
-of	PIN PREP
-the	ART DET
-Indian	JJ CAP
-merchants	NN
-which	WHSUB DET WH
-stretched	VBD
-from	PIN PREP
-the	ART DET
-Red	CAP NNP
-Sea	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-west	PLACE NN
-as	RB CONJ
-far	RB PLACE
-as	PIN CONJ PREP
-the	ART DET
-coast	NN
-of	PIN PREP
-Japan	CAP NNP
-and	PHC CCONJ
-Indonesia	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-Far	CAP NNP
-East	CAP NNP
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-real	JJ
-stimuli	NN
-to	PIN TO PREP
-trade	NN
-came	VBD
-with	PIN PREP
-the	ART DET
-arrival	NN
-of	PIN PREP
-the	ART DET
-French	CAP NNP
-and	CCONJ
-especially	RB
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-in	PIN CONJ PREP
-India	CAP NNP
-.	
-The	ART CAP DET
-massive	JJ
-boost	NN
-to	PIN TO PREP
-trade	INF
-,	
-as	PIN CONJ PREP
-noted	PRIV
-by	PIN PREP
-Figures	NN CAP
-1	NUM
-and	CCONJ
-2	NUM
-,	
-resulted	VBD
-in	PIN CONJ PREP
-the	ART DET
-formation	NOMZ
-of	PIN PREP
-a	ART DET INDA
-complex	JJ
-trading	NN
-network	NN
-between	PIN PREP
-the	ART DET
-company	NN
-and	CCONJ
-the	ART DET
-Indian	JJ CAP
-merchants	NN
-and	CCONJ
-political	JJ
-elites	NN
-.	
-As	PIN CONJ CAP PREP
-Figure	CAP NNP
-3	NUM
-notes	PRIV NN
-,	
-during	PIN PREP
-the	ART DET
-pre	JJ
--	JJ
-British	JJ CAP
-days	NN
-Bombay	CAP NNP
-,	
-Surat	CAP NNP
-,	
-Calicut	CAP NNP
-and	CCONJ
-other	JJ
-west	JJ PLACE
-coastal	JJ
-ports	NN
-of	PIN PREP
-India	CAP NNP
-were	BEMA VBD AUXB
-the	ART DET
-flourishing	JJ
-trading	NN
-ports	NN
-from	PIN PREP
-which	PIRE DET WH
-much	QUAN JJ
-of	PIN PREP
-the	ART DET
-Asian	JJ CAP
-exports	NN
-were	PASS VBD AUXB
-shipped	
-to	PIN PREP
-Europe	CAP NNP
-.	
-The	ART CAP DET
-Europeans	CAP NNP
-found	VBD PRIV THATD
-it	PIT PRP SBJP
-extremely	AMP RB
-hard	JJ
-to	PIN TO PREP
-compete	INF
-with	PIN PREP
-the	ART DET
-Indian	JJ CAP
-merchants	NN
-,	
-even	RB
-after	PIN PREP
-gaining	PGAS
-much	QUAN JJ
-political	JJ
-foothold	NN
-in	PIN CONJ PREP
-the	ART DET
-area	NN
-.	
-Bengal	CAP NNP
-was	BEMA VBD AUXB
-a	ART DET INDA
-relatively	RB
-untapped	JJ
-state	PUBV NN
-in	PIN CONJ PREP
-India	CAP NNP
-for	PIN PREP
-the	ART DET
-Europeans	CAP NNP
-and	CCONJ
-incidentally	RB
-the	ART DET
-most	RB EMPH SPADJ
-prosperous	JJ
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-became	VBD
-the	ART DET
-first	JJ
-major	JJ
-economic	JJ
-and	PHC CCONJ
-later	JJ TIME
-political	JJ
-base	NN
-of	PIN PREP
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-.	
-The	ART CAP DET
-China	CAP NNP
-opium	NN
-trade	NN
-network	NN
-was	BEMA VBD AUXB
-the	ART DET
-main	JJ
-cause	NN
-for	PIN PREP
-the	ART DET
-marked	JJ
-increase	NN
-in	PIN CONJ PREP
-Bengal	CAP NNP
-'s	
-importance	NN
-in	PIN CONJ PREP
-the	ART DET
-company	NN
-'s	
-trade	NN
-.	
-Opium	NN CAP
-from	PIN PREP
-Bengal	CAP NNP
-and	PHC CCONJ
-Malwa	CAP NNP
-was	PASS VBD AUXB
-exported	
-to	PIN PREP
-China	CAP NNP
-to	PIN TO PREP
-buy	INF
-silver	NN
-bullion	NN
-,	
-silk	NN
-or	CCONJ
-tea	NN
-,	
-which	SERE DET WH
-in	PIN CONJ PREP
-turn	NN
-was	PASS VBD AUXB
-used	
-to	PIN TO PREP
-buy	INF
-American	JJ CAP
-and	PHC CCONJ
-Indian	JJ CAP
-cotton	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-exported	
-to	PIN PREP
-the	ART DET
-British	JJ CAP
-isles	NN
-for	PIN PREP
-the	ART DET
-mills	NN
-of	PIN PREP
-Lancashire	CAP NNP
-.	
-Thus	RB CONJ CAP
-the	ART DET
-East	CAP NNP
-Indian	JJ CAP
-trading	NN
-network	NN
-came	VBD
-to	PIN TO PREP
-be	BEMA AUXB INF
-of	PIN PREP
-fundamental	JJ
-importance	NN
-to	PIN PREP
-the	ART DET
-company	NN
-and	CCONJ
-affected	VBD
-all	QUAN DET
-of	PIN PREP
-the	ART DET
-participants	NN
-in	PIN CONJ PREP
-this	DEMO DET
-network	NN
-,	
-Indian	JJ CAP
-merchants	NN
-being	WZPRES AUXB
-one	NUM
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-useful	JJ PRED
-to	PIN TO PREP
-identify	INF
-the	ART DET
-structure	NN
-of	PIN PREP
-trade	NN
-to	PIN TO SPIN PREP
-correctly	RB
-place	INF
-the	ART DET
-Indian	JJ CAP
-merchants	NN
-within	PIN PREP
-this	DEMO DET
-edifice	NN
-of	PIN PREP
-company	NN
-trade	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-the	ART DET
-British	JJ CAP
-government	NOMZ
-had	VBD PEAS
-bestowed	
-upon	PIN SCONJ PREP
-the	ART DET
-company	NN
-a	ART DET INDA
-monopoly	NN
-of	PIN PREP
-the	ART DET
-Asian	JJ CAP
-trade	NN
-,	
-there	EX
-was	VBD AUXB
-a	ART DET INDA
-thriving	JJ
-network	NN
-of	PIN PREP
-freelance	JJ
-traders	NN
-who	WHSUB WH
-started	VBD
-of	PIN PREP
-as	PIN CONJ PREP
-adventurers	NN
-.	
-As	PIN CONJ CAP PREP
-P.J.	CAP NNP
-Marshall	CAP NNP
-put	VBD
-it	PIT PRP SBJP
-,	
-'	CONT QUOT
-They	TPP3 CAP PRP SBJP
-were	BEMA VBD AUXB
-in	PIN CONJ PREP
-India	CAP NNP
-[	
-simply	RB
-]	X
-to	PIN TO PREP
-get	INF
-rich	JJ
-'	CONT QUOT
-.	
-Despite	PIN CAP SCONJ PREP
-strict	JJ
-regulations	NOMZ
-from	PIN PREP
-the	ART DET
-company	NN
-against	PIN PREP
-any	QUAN DET
-breaking	NN
-of	PIN PREP
-the	ART DET
-monopoly	NN
-,	
-the	ART DET
-private	JJ
-network	NN
-was	VBD AUXB
-gradually	RB
-but	CCONJ
-surely	RB
-replacing	PGAS
-the	ART DET
-official	JJ
-channels	NN
-of	PIN PREP
-trade	NN
-,	
-so	RB
-much	QUAN RB
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-1667	NUM
-the	ART DET
-company	NN
-was	PASS VBD AUXB
-compelled	
-to	PIN TO PREP
-allow	SUAV INF
-private	JJ
-trade	NN
-in	PIN CONJ PREP
-all	QUAN DET
-commodities	NN
-barring	WZPRES PGAS
-pepper	NN
-and	PHC CCONJ
-calicoes	NN
-from	PIN PREP
-India	CAP NNP
-.	
-By	PIN CAP PREP
-the	ART DET
-mid	JJ
-19	NUM
-th	X
-century	NN
-when	RB WHOBJ SCONJ WH
-the	ART DET
-monopoly	NN
-was	PASS VBD BYPA SPAU AUXB
-officially	RB
-broken	
-by	PIN PREP
-Queen	CAP NNP
-Victoria	CAP NNP
-,	
-it	PIT PRP SBJP
-existed	VBD
-only	DWNT RB
-in	PIN CONJ PREP
-theory	NN
-.	
-Competitive	JJ CAP
-environment	NOMZ
-was	VBD AUXB
-also	RB
-markedly	RB
-different	JJ
-,	
-especially	RB
-in	PIN CONJ PREP
-Bengal	CAP NNP
-,	
-after	PIN PREP
-the	ART DET
-Battle	CAP NNP
-of	PIN PREP
-Plassey	CAP NNP
-(	
-1757	NUM
-)	
-.	
-Before	PIN CAP PREP
-the	ART DET
-death	NN
-of	PIN PREP
-Mughal	CAP NNP
-Emperor	CAP NNP
-Aurangzeb	CAP NNP
-(	
-1707	NUM
-)	
-,	
-the	ART DET
-European	CAP NNP
-East	CAP NNP
-Indian	JJ CAP
-companies	NN
-had	VBD
-to	PIN TO PREP
-abide	INF
-by	PIN PREP
-imperial	JJ
-guidelines	NN
-for	PIN PREP
-trade	NN
-which	WHSUB DET WH
-were	VBD AUXB
-de	X
-facto	X
-useless	JJ
-after	PIN PREP
-Aurangzeb	CAP NNP
-,	
-as	PIN CONJ PREP
-the	ART DET
-Mughal	CAP NNP
-Emperors	CAP NNP
-were	BEMA VBD AUXB
-too	RB
-weak	JJ
-to	PIN TO PREP
-implement	INF
-them	TPP3 PRP SBJP ACCU
-.	
-As	RB CONJ CAP
-far	RB PLACE
-as	PIN CONJ PREP
-access	NN
-to	PIN PREP
-Indian	JJ CAP
-markets	NN
-was	PASS VBD AUXB
-concerned	
-,	
-the	ART DET
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-operated	VBD
-through	PIN PREP
-authorised	
-brokers	NN
-who	WHSUB WH
-dealt	VBD
-with	PIN PREP
-reliable	JJ
-merchants	NN
-both	DET
-for	PIN PREP
-export	NN
-commodities	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-imported	
-goods	NN
-.	
-They	TPP3 CAP PRP SBJP
-were	PASS VBD AUXB
-known	PRIV
-as	PIN CONJ PREP
-the	ART DET
-banias	NN
-,	
-and	ANDC CCONJ
-Michael	CAP NNP
-Morineau	CAP NNP
-has	VPRT PEAS
-compared	
-them	TPP3 PRP SBJP ACCU
-to	PIN PREP
-the	ART DET
-cash	NN
-clerks	NN
-of	PIN PREP
-the	ART DET
-Genevans	CAP NNP
-.	
-P.J.Marshall	CAP NNP
-,	
-East	CAP NNP
-Indian	CAP NNP
-Fortunes	CAP NNP
-:	
-The	ART CAP DET
-British	JJ CAP
-in	PIN CONJ PREP
-Bengal	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-18th	JJ
-Century	CAP NNP
-(	
-Oxford	CAP NNP
-:	
-Clarendon	CAP NNP
-,	
-1976	NUM
-)	
-,	
-p.	NN
-3	NUM
-K.N.	CAP NNP
-Chauduri	CAP NNP
-,	
-The	ART CAP DET
-Trading	CAP NNP
-World	CAP NNP
-of	PIN PREP
-Asia	CAP NNP
-and	CCONJ
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-1660	NUM
--	
-1760	NUM
-,	
-p.	NN
-148	NUM
-S.	CAP NNP
-Chaudhuri	CAP NNP
-/	
-M.	CAP NNP
-Morineau	CAP NNP
-(	
-Eds	CAP NNP
-)	
-.	
-,	
-Merchants	CAP NNP
-,	
-Company	CAP NNP
-and	PHC CCONJ
-Trade	CAP NNP
-,	
-p.	NN
-296	NUM
-The	ART CAP DET
-European	CAP NNP
-East	CAP NNP
-Indian	JJ CAP
-companies	NN
-were	PASS VBD AUXB
-limited	
-to	PIN PREP
-the	ART DET
-west	NNP
-coast	NNP
-of	PIN PREP
-India	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-early	JJ TIME
-part	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-trading	NN
-incursions	NOMZ
-(	
-C16	CAP NNP
-to	PIN PREP
-eC18	NNP
-)	
-,	
-with	PIN PREP
-the	ART DET
-notable	JJ
-exception	NOMZ
-of	PIN PREP
-Madras	CAP NNP
-.	
-Their	TPP3 CAP PRP SBJP
-attitudes	NN
-towards	PIN PREP
-the	ART DET
-trading	NN
-ports	NN
-can	POMD
-be	PASS BYPA AUXB INF
-summed	
-up	PIN PREP
-by	PIN PREP
-a	ART DET INDA
-statement	NOMZ
-from	PIN PREP
-Captain	CAP NNP
-Bowrey	CAP NNP
-on	PIN PREP
-his	TPP3 PRP SBJP
-visit	NN
-to	PIN PREP
-Banda	CAP NNP
-Aceh	CAP NNP
-in	PIN CONJ PREP
-Indonesia	CAP NNP
-,	
-"	QUOT
-This	DEMO CAP DET
-city	NN
-is	BEMA VPRT AUXB
-the	ART DET
-fairest	JJ SPADJ
-and	CCONJ
-most	RB EMPH SPADJ
-populous	JJ
-of	PIN PREP
-any	QUAN DET
-that	DEMO WH
-I	FPP1 CAP PRP SBJP
-ever	RB
-saw	VBD PRIV
-or	CCONJ
-heard	PRIV
-of	PIN STPR PREP
-...	
-but	CCONJ
-indeed	RB
-it	PIT PRP SBJP
-cometh	VPRT
-far	RB PLACE
-short	JJ
-for	PIN PREP
-decency	NN
-and	PHC CCONJ
-buildings	NN
-and	PHC CCONJ
-uniformitie	NN
-of	PIN PREP
-the	ART DET
-meanest	JJ SPADJ
-city	NN
-...	
-on	PIN PREP
-the	ART DET
-mainland	NN
-of	PIN PREP
-India	CAP NNP
-"	QUOT
-.	
-They	TPP3 CAP PRP SBJP
-found	VBD PRIV
-already	RB
-established	PRIV
-merchant	NN
-networks	NN
-and	PHC CCONJ
-trading	NN
-links	NN
-between	PIN PREP
-the	ART DET
-Armenians	CAP NNP
-and	PHC CCONJ
-Muslims	CAP NNP
-coming	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-Middle	CAP NNP
-East	CAP NNP
-,	
-and	ANDC CCONJ
-the	ART DET
-local	JJ
-Hindu	CAP NNP
-and	PHC CCONJ
-Jain	CAP NNP
-traders	NN
-.	
-Indeed	RB CAP
-,	
-as	PIN CONJ PREP
-K.N.	CAP NNP
-Chauduri	CAP NNP
-has	VPRT PEAS
-argued	PUBV
-,	
-the	ART DET
-local	JJ
-populace	NN
-saw	VBD PRIV
-the	ART DET
-Europeans	CAP NNP
-more	JJ EMPH CMADJ
-of	PIN PREP
-a	ART DET INDA
-threat	NN
-rather	RB
-than	PIN PREP
-an	ART DET INDA
-addition	NOMZ
-to	PIN PREP
-their	TPP3 PRP SBJP
-prosperity	NOMZ
-.	
-As	PIN CONJ CAP PREP
-S.	CAP NNP
-Chaudhuri	CAP NNP
-and	PHC CCONJ
-Michael	CAP NNP
-Mornieau	CAP NNP
-have	VPRT PEAS
-argued	PUBV
-,	
-the	ART DET
-atmosphere	NN
-was	BEMA VBD AUXB
-more	JJ PRED EMPH CMADJ
-of	PIN STPR PREP
-'	CONT QUOT
-competition	NOMZ
-rather	RB
-than	PIN PREP
-collaboration	NOMZ
-'	CONT QUOT
-Perhaps	RB CAP
-to	PIN TO PREP
-come	INF
-to	PIN PREP
-the	ART DET
-aid	NN
-of	PIN PREP
-the	ART DET
-struggling	GER PGAS
-Portugese	CAP NNP
-East	CAP NNP
-India	CAP NNP
-company	NN
-,	
-Admiral	CAP NNP
-Albuqueque	CAP NNP
-raided	VBD
-Calicut	CAP NNP
-with	PIN PREP
-his	TPP3 PRP SBJP
-gunboats	NN
-as	RB CONJ
-early	RB TIME
-as	PIN CONJ PREP
-1500	NUM
-to	PIN TO PREP
-expel	INF
-the	ART DET
-Muslim	JJ CAP
-merchants	NN
-.	
-Not	XX0 RB CAP
-only	DWNT RB
-was	BEMA VBD AUXB
-such	JJ
-conflict	NN
-limited	WZPAST
-between	PIN PREP
-Indians	CAP NNP
-and	PHC CCONJ
-Europeans	CAP NNP
-.	
-There	EX CAP
-was	VBD AUXB
-a	ART DET INDA
-vicious	JJ
-conflict	NN
-to	PIN TO PREP
-capture	INF
-the	ART DET
-markets	NN
-of	PIN PREP
-the	ART DET
-Indonesian	JJ CAP
-archipelago	NN
-between	PIN PREP
-the	ART DET
-Hindu	CAP NNP
-,	
-Jain	CAP NNP
-,	
-Armenian	CAP NNP
-,	
-Portugese	CAP NNP
-and	CCONJ
-Dutch	JJ CAP
-merchants	NN
-,	
-much	QUAN JJ
-of	PIN PREP
-which	PIRE DET WH
-turned	VBD
-into	PIN PREP
-armed	JJ
-struggle	NN
-.	
-The	ART CAP DET
-Muslim	JJ CAP
-merchants	NN
-of	PIN PREP
-Gujarat	CAP NNP
-also	RB
-got	VBD
-involved	
-,	
-slicing	PGAS
-off	PIN PREP
-a	ART DET INDA
-large	JJ
-portion	NOMZ
-of	PIN PREP
-the	ART DET
-South	CAP NNP
-East	CAP NNP
-Asian	JJ CAP
-textile	NN
-market	NN
-from	PIN PREP
-the	ART DET
-Dutch	CAP NNP
-.	
-K.N.	CAP NNP
-Chauduri	CAP NNP
-has	VPRT PEAS
-called	
-it	PIT PRP SBJP
-a	ART DET INDA
-'	CONT QUOT
-violent	JJ
-scuffle	NN
-'	CONT QUOT
-for	PIN PREP
-trade	NN
-routes	NN
-.	
-There	EX CAP
-were	VBD AUXB
-also	RB
-inherent	JJ
-tensions	NOMZ
-between	PIN PREP
-the	ART DET
-merchant	NN
-communities	VPRT
-themselves	TPP3 PRP SBJP ACCU
-along	PIN PREP
-religious	JJ
-and	CCONJ
-caste	NN
-lines	NN
-.	
-Elite	JJ CAP
-merchant	NN
-houses	NN
-like	PIN PREP
-those	DEMO DET
-of	PIN PREP
-Parracks	CAP NNP
-,	
-Nizamies	CAP NNP
-and	PHC CCONJ
-Rustumji	CAP NNP
-enjoyed	VBD
-special	JJ
-privileges	NN
-from	PIN PREP
-the	ART DET
-Emperor	CAP NNP
-.	
-Moreover	RB CONJ CAP
-,	
-the	ART DET
-European	CAP NNP
-East	CAP NNP
-India	CAP NNP
-companies	NN
-hardly	DWNT RB
-ever	RB
-dealt	VBD
-with	PIN PREP
-Muslim	JJ CAP
-merchants	NN
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-traditional	JJ
-enmity	NOMZ
-.	
-However	RB CONJ CAP
-,	
-under	PIN PREP
-Emperor	CAP NNP
-Auranzgeb	CAP NNP
-the	ART DET
-Hindus	CAP NNP
-of	PIN PREP
-Gujarat	CAP NNP
-were	PASS VBD SPAU AUXB
-ruthlessly	RB
-persecuted	
-including	PGAS
-brokers	NN
-for	PIN PREP
-the	ART DET
-company	NN
-at	PIN PREP
-their	TPP3 PRP SBJP
-Surat	CAP NNP
-factory	NN
-.	
-This	DEMP CAP DET
-resulted	VBD
-in	PIN CONJ PREP
-widespread	JJ
-protests	PUBV NN
-and	PHC CCONJ
-strikes	NN
-at	PIN PREP
-the	ART DET
-plant	NN
-.	
-K.N.	CAP NNP
-Chauduri	CAP NNP
-,	
-Trade	CAP NNP
-and	PHC CCONJ
-Civilisation	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-Indian	CAP NNP
-Ocean	CAP NNP
-,	
-p.	NN
-181	NUM
-S.	CAP NNP
-Chaudhuri	CAP NNP
-/	
-M.	CAP NNP
-Morineau	CAP NNP
-(	
-Eds	CAP NNP
-.	
-)	
-,	
-Merchants	CAP NNP
-,	
-Company	CAP NNP
-and	PHC CCONJ
-Trade	CAP NNP
-,	
-p.	NN
-9	NUM
-K.N.	CAP NNP
-Chauduri	CAP NNP
-,	
-The	ART CAP DET
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-,	
-p.	NN
-14	NUM
-K.N.	CAP NNP
-Chauduri	CAP NNP
-,	
-The	ART CAP DET
-Trading	CAP NNP
-World	CAP NNP
-of	PIN PREP
-Asia	CAP NNP
-and	CCONJ
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-,	
-p.	NN
-150	NUM
-Neither	CAP DET
-did	VBD PROD
-the	ART DET
-Mughal	CAP NNP
-Empire	CAP NNP
-remain	VPRT
-a	ART DET INDA
-passive	JJ
-observer	NN
-to	PIN PREP
-such	JJ
-turmoil	NN
-within	PIN PREP
-its	PIT PRP SBJP
-domain	NN
-.	
-In	PIN CONJ CAP PREP
-1632	NUM
-,	
-owing	PGAS
-to	PIN PREP
-lobbying	PGAS
-from	PIN PREP
-Indian	JJ CAP
-merchants	NN
-,	
-the	ART DET
-Portugese	CAP NNP
-were	PASS VBD AUXB
-expelled	
-wholesale	JJ
-from	PIN PREP
-the	ART DET
-shores	NN
-of	PIN PREP
-India	CAP NNP
-barring	WZPRES PGAS
-a	ART DET INDA
-little	JJ
-enclave	NN
-in	PIN CONJ PREP
-Goa	CAP NNP
-by	PIN PREP
-Emperor	CAP NNP
-Shah	CAP NNP
-Jahan	CAP NNP
-.	
-Although	CONC PIN CAP SCONJ PREP
-Sir	CAP NNP
-Thomas	CAP NNP
-Roe	CAP NNP
-had	VBD PEAS
-obtained	
-legal	JJ
-rights	NN
-to	PIN TO PREP
-trade	INF
-in	PIN CONJ PREP
-India	CAP NNP
-from	PIN PREP
-Emperor	CAP NNP
-Jahangir	CAP NNP
-,	
-in	PIN CONJ PREP
-1688	NUM
-Sir	CAP NNP
-John	CAP NNP
-Child	CAP NNP
-made	VBD
-an	ART DET INDA
-attempt	NN
-,	
-no	DET
-doubt	RB PRIV
-due	PIN PREP
-to	PIN PREP
-pressure	NN
-from	PIN PREP
-British	JJ CAP
-merchant	NN
-circles	NN
-,	
-to	PIN TO SPIN PREP
-militarily	RB
-force	INF
-the	ART DET
-Mughal	CAP NNP
-Empire	CAP NNP
-into	PIN PREP
-giving	PGAS
-more	JJ EMPH CMADJ
-trading	NN
-concessions	NOMZ
-to	PIN PREP
-the	ART DET
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-.	
-The	ART CAP DET
-company	NN
-'s	
-forces	NN
-were	PASS VBD AUXB
-routed	
-and	CCONJ
-the	ART DET
-English	CAP NNP
-almost	DWNT RB
-expelled	VBD
-from	PIN PREP
-the	ART DET
-mainland	NN
-of	PIN PREP
-India	CAP NNP
-.	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-India	CAP NNP
-Company	CAP NNP
-did	VBD EMPH
-manage	INF
-to	PIN TO PREP
-prolong	INF
-its	PIT PRP SBJP
-stay	NN
-in	PIN CONJ PREP
-India	CAP NNP
-,	
-owing	PGAS
-to	PIN PREP
-continued	
-competition	NOMZ
-from	PIN PREP
-Indian	JJ CAP
-merchants	NN
-,	
-it	PIT PRP SBJP
-had	VBD
-to	PIN TO PREP
-abandon	INF
-its	PIT PRP SBJP
-trading	NN
-posts	NN
-in	PIN CONJ PREP
-the	ART DET
-Malabar	CAP NNP
-Coast	CAP NNP
-of	PIN PREP
-India	CAP NNP
-and	CCONJ
-retreat	NN
-to	PIN PREP
-Bengal	CAP NNP
-,	
-where	RB WHQU SCONJ WH
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-to	PIN TO PREP
-consolidate	INF
-and	PHC CCONJ
-build	INF
-its	PIT PRP SBJP
-first	JJ
-trading	NN
-base	NN
-.	
-The	ART CAP DET
-company	NN
-was	BEMA VBD AUXB
-not	XX0 RB
-to	PIN TO PREP
-return	INF
-to	PIN TO PREP
-dominate	INF
-the	ART DET
-Bombay	CAP NNP
-and	PHC CCONJ
-Madras	CAP NNP
-presidencies	NN
-until	PIN PREP
-well	RB
-into	PIN PREP
-the	ART DET
-Age	CAP NNP
-of	PIN PREP
-Empire	CAP NNP
-,	
-when	RB SCONJ WH
-Indian	JJ CAP
-competition	NOMZ
-had	VBD PEAS
-been	PASS BYPA AUXB
-uprooted	
-by	PIN PREP
-political	JJ
-force	NN
-.	
-Even	RB CAP
-in	PIN CONJ PREP
-Bengal	CAP NNP
-,	
-the	ART DET
-company	NN
-remained	VBD
-on	PIN PREP
-the	ART DET
-sideline	NN
-of	PIN PREP
-economic	JJ
-activity	NOMZ
-until	PIN PREP
-the	ART DET
-mid	NNP
-18	NUM
-th	X
-century	NN
-,	
-for	PIN PREP
-Indian	JJ CAP
-competition	NOMZ
-was	BEMA VBD AUXB
-present	JJ
-there	RB
-too	RB
-.	
-The	ART CAP DET
-Virji	CAP NNP
-Vohra	CAP NNP
-and	PHC CCONJ
-Jagath	CAP NNP
-Seth	CAP NNP
-houses	NN
-of	PIN PREP
-Surat	CAP NNP
-,	
-and	ANDC CCONJ
-the	ART DET
-Khwaja	CAP NNP
-Wazid	CAP NNP
-merchant	NN
-house	NN
-of	PIN PREP
-Bengal	CAP NNP
-are	BEMA VPRT AUXB
-only	DWNT RB
-a	ART DET INDA
-fraction	NOMZ
-of	PIN PREP
-the	ART DET
-threat	NN
-European	JJ CAP
-trade	NN
-faced	WZPAST
-in	PIN CONJ PREP
-India	CAP NNP
-at	PIN PREP
-the	ART DET
-turn	NN
-of	PIN PREP
-the	ART DET
-18	NUM
-th	X
-century	NN
-.	
-P.J.	CAP NNP
-Marshall	CAP NNP
-,	
-East	CAP NNP
-Indian	CAP NNP
-Fortunes	CAP NNP
-,	
-p.	NN
-6	NUM
-K.N.	CAP NNP
-Chaudhuri	CAP NNP
-,	
-The	ART CAP DET
-Trading	CAP NNP
-World	CAP NNP
-of	PIN PREP
-Asia	CAP NNP
-and	CCONJ
-the	ART DET
-English	CAP NNP
-East	CAP NNP
-Indian	CAP NNP
-Company	CAP NNP
-,	
-p.	NN
-111	NUM
-S.Chaudhuri	CAP NNP
-/	
-M.	CAP NNP
-Mornieau	CAP NNP
-(	
-Eds	CAP NNP
-.	
-)	
-,	
-Merchants	CAP NNP
-,	
-Company	CAP NNP
-and	PHC CCONJ
-Trade	CAP NNP
-,	
-p.	NN
-9	NUM
-A.	NN CAP
-Dow	CAP NNP
-has	VPRT PEAS
-called	
-Bengal	CAP NNP
-'	CONT QUOT
-...	
-the	ART DET
-richest	JJ SPADJ
-,	
-most	RB EMPH SPADJ
-populous	JJ
-and	CCONJ
-best	RB
-cultivated	
-kingdoms	NN
-of	PIN PREP
-the	ART DET
-world	NN
-.	
-'	CONT QUOT
-P.J.	CAP NNP
-Marshall	CAP NNP
-,	
-East	CAP NNP
-Indian	CAP NNP
-Fortunes	CAP NNP
-,	
-p.	NN
-5	NUM
+type	content	tags
+gap	(	
+word	Figure	NN CAP
+gap	 1) (	
+word	Figure	NN CAP
+gap	 2) (	
+word	Figure	NN CAP
+gap	 3) 	
+word	Diagrams	CAP NNP
+gap	 	
+word	constructed	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	figures	NN
+gap	 	
+word	cited	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	, 	
+word	The	
+gap	 	
+word	Trading	
+gap	 	
+word	World	
+gap	 	
+word	of	
+gap	 	
+word	Asia	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 1660-1760 (	
+word	Cambridge	CAP NNP
+gap	: 	
+word	Cambridge	
+gap	 	
+word	University	
+gap	 	
+word	Press	
+gap	, 1978), 	
+word	p	
+gap	. 507-511 	
+word	Trade	
+gap	 	
+word	in	
+gap	 	
+word	absolute	
+gap	 	
+word	and	
+gap	 	
+word	relative	
+gap	 	
+word	terms	
+gap	 	
+word	with	
+gap	 	
+word	Asia	
+gap	 	
+word	grew	
+gap	 	
+word	at	
+gap	 	
+word	moderate	
+gap	 	
+word	rates	
+gap	 	
+word	ever	
+gap	 	
+word	since	
+gap	 	
+word	the	
+gap	 	
+word	Portugese	
+gap	 	
+word	under	
+gap	 	
+word	Vasco	
+gap	 	
+word	da	
+gap	 	
+word	Gama	
+gap	 	
+word	landed	
+gap	 	
+word	in	
+gap	 	
+word	Goa	
+gap	 	
+word	in	
+gap	 1498. 	
+word	The	
+gap	 	
+word	Dutch	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	Portugese	
+gap	 	
+word	had	
+gap	 	
+word	long	
+gap	 	
+word	competed	
+gap	 	
+word	for	
+gap	 	
+word	gaining	
+gap	 	
+word	control	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	oceanic	
+gap	 	
+word	trade	
+gap	 	
+word	network	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	 	
+word	which	
+gap	 	
+word	stretched	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	Red	
+gap	 	
+word	Sea	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	west	
+gap	 	
+word	as	
+gap	 	
+word	far	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	coast	
+gap	 	
+word	of	
+gap	 	
+word	Japan	
+gap	 	
+word	and	
+gap	 	
+word	Indonesia	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Far	
+gap	 	
+word	East	
+gap	. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	real	
+gap	 	
+word	stimuli	
+gap	 	
+word	to	
+gap	 	
+word	trade	
+gap	 	
+word	came	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	arrival	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	French	
+gap	 	
+word	and	
+gap	 	
+word	especially	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 	
+word	in	
+gap	 	
+word	India	
+gap	. 	
+word	The	
+gap	 	
+word	massive	
+gap	 	
+word	boost	
+gap	 	
+word	to	
+gap	 	
+word	trade	
+gap	, 	
+word	as	
+gap	 	
+word	noted	
+gap	 	
+word	by	
+gap	 	
+word	Figures	
+gap	 1 	
+word	and	
+gap	 2, 	
+word	resulted	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	formation	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	complex	
+gap	 	
+word	trading	
+gap	 	
+word	network	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	 	
+word	and	
+gap	 	
+word	political	
+gap	 	
+word	elites	
+gap	. 	
+word	As	
+gap	 	
+word	Figure	
+gap	 3 	
+word	notes	
+gap	, 	
+word	during	
+gap	 	
+word	the	
+gap	 	
+word	pre	
+gap	-	
+word	British	
+gap	 	
+word	days	
+gap	 	
+word	Bombay	
+gap	, 	
+word	Surat	
+gap	, 	
+word	Calicut	
+gap	 	
+word	and	
+gap	 	
+word	other	
+gap	 	
+word	west	
+gap	 	
+word	coastal	
+gap	 	
+word	ports	
+gap	 	
+word	of	
+gap	 	
+word	India	
+gap	 	
+word	were	
+gap	 	
+word	the	
+gap	 	
+word	flourishing	
+gap	 	
+word	trading	
+gap	 	
+word	ports	
+gap	 	
+word	from	
+gap	 	
+word	which	
+gap	 	
+word	much	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Asian	
+gap	 	
+word	exports	
+gap	 	
+word	were	
+gap	 	
+word	shipped	
+gap	 	
+word	to	
+gap	 	
+word	Europe	
+gap	. 	
+word	The	
+gap	 	
+word	Europeans	
+gap	 	
+word	found	
+gap	 	
+word	it	
+gap	 	
+word	extremely	
+gap	 	
+word	hard	
+gap	 	
+word	to	
+gap	 	
+word	compete	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	, 	
+word	even	
+gap	 	
+word	after	
+gap	 	
+word	gaining	
+gap	 	
+word	much	
+gap	 	
+word	political	
+gap	 	
+word	foothold	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	area	
+gap	. 	
+word	Bengal	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	relatively	
+gap	 	
+word	untapped	
+gap	 	
+word	state	
+gap	 	
+word	in	
+gap	 	
+word	India	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	Europeans	
+gap	 	
+word	and	
+gap	 	
+word	incidentally	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	prosperous	
+gap	, 	
+word	and	
+gap	 	
+word	it	
+gap	 	
+word	became	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	major	
+gap	 	
+word	economic	
+gap	 	
+word	and	
+gap	 	
+word	later	
+gap	 	
+word	political	
+gap	 	
+word	base	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	. 	
+word	The	
+gap	 	
+word	China	
+gap	 	
+word	opium	
+gap	 	
+word	trade	
+gap	 	
+word	network	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	main	
+gap	 	
+word	cause	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	marked	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	Bengal	
+gap	'	
+word	s	
+gap	 	
+word	importance	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	'	
+word	s	
+gap	 	
+word	trade	
+gap	. 	
+word	Opium	
+gap	 	
+word	from	
+gap	 	
+word	Bengal	
+gap	 	
+word	and	
+gap	 	
+word	Malwa	
+gap	 	
+word	was	
+gap	 	
+word	exported	
+gap	 	
+word	to	
+gap	 	
+word	China	
+gap	 	
+word	to	
+gap	 	
+word	buy	
+gap	 	
+word	silver	
+gap	 	
+word	bullion	
+gap	, 	
+word	silk	
+gap	 	
+word	or	
+gap	 	
+word	tea	
+gap	, 	
+word	which	
+gap	 	
+word	in	
+gap	 	
+word	turn	
+gap	 	
+word	was	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	buy	
+gap	 	
+word	American	
+gap	 	
+word	and	
+gap	 	
+word	Indian	
+gap	 	
+word	cotton	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	exported	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	British	
+gap	 	
+word	isles	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	mills	
+gap	 	
+word	of	
+gap	 	
+word	Lancashire	
+gap	. 	
+word	Thus	
+gap	 	
+word	the	
+gap	 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	trading	
+gap	 	
+word	network	
+gap	 	
+word	came	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	of	
+gap	 	
+word	fundamental	
+gap	 	
+word	importance	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	and	
+gap	 	
+word	affected	
+gap	 	
+word	all	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	participants	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	network	
+gap	, 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	 	
+word	being	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	useful	
+gap	 	
+word	to	
+gap	 	
+word	identify	
+gap	 	
+word	the	
+gap	 	
+word	structure	
+gap	 	
+word	of	
+gap	 	
+word	trade	
+gap	 	
+word	to	
+gap	 	
+word	correctly	
+gap	 	
+word	place	
+gap	 	
+word	the	
+gap	 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	 	
+word	within	
+gap	 	
+word	this	
+gap	 	
+word	edifice	
+gap	 	
+word	of	
+gap	 	
+word	company	
+gap	 	
+word	trade	
+gap	. 	
+word	Although	
+gap	 	
+word	the	
+gap	 	
+word	British	
+gap	 	
+word	government	
+gap	 	
+word	had	
+gap	 	
+word	bestowed	
+gap	 	
+word	upon	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	a	
+gap	 	
+word	monopoly	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Asian	
+gap	 	
+word	trade	
+gap	, 	
+word	there	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	thriving	
+gap	 	
+word	network	
+gap	 	
+word	of	
+gap	 	
+word	freelance	
+gap	 	
+word	traders	
+gap	 	
+word	who	
+gap	 	
+word	started	
+gap	 	
+word	of	
+gap	 	
+word	as	
+gap	 	
+word	adventurers	
+gap	. 	
+word	As	
+gap	 	
+word	P	
+gap	.	
+word	J	
+gap	. 	
+word	Marshall	
+gap	 	
+word	put	
+gap	 	
+word	it	
+gap	, '	
+word	They	
+gap	 	
+word	were	
+gap	 	
+word	in	
+gap	 	
+word	India	
+gap	 [	
+word	simply	
+gap	] 	
+word	to	
+gap	 	
+word	get	
+gap	 	
+word	rich	
+gap	'. 	
+word	Despite	
+gap	 	
+word	strict	
+gap	 	
+word	regulations	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	against	
+gap	 	
+word	any	
+gap	 	
+word	breaking	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	monopoly	
+gap	, 	
+word	the	
+gap	 	
+word	private	
+gap	 	
+word	network	
+gap	 	
+word	was	
+gap	 	
+word	gradually	
+gap	 	
+word	but	
+gap	 	
+word	surely	
+gap	 	
+word	replacing	
+gap	 	
+word	the	
+gap	 	
+word	official	
+gap	 	
+word	channels	
+gap	 	
+word	of	
+gap	 	
+word	trade	
+gap	, 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	much	
+gap	 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	in	
+gap	 1667 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	was	
+gap	 	
+word	compelled	
+gap	 	
+word	to	
+gap	 	
+word	allow	
+gap	 	
+word	private	
+gap	 	
+word	trade	
+gap	 	
+word	in	
+gap	 	
+word	all	
+gap	 	
+word	commodities	
+gap	 	
+word	barring	
+gap	 	
+word	pepper	
+gap	 	
+word	and	
+gap	 	
+word	calicoes	
+gap	 	
+word	from	
+gap	 	
+word	India	
+gap	. 	
+word	By	
+gap	 	
+word	the	
+gap	 	
+word	mid	
+gap	 19 	
+word	th	
+gap	 	
+word	century	
+gap	 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	monopoly	
+gap	 	
+word	was	
+gap	 	
+word	officially	
+gap	 	
+word	broken	
+gap	 	
+word	by	
+gap	 	
+word	Queen	
+gap	 	
+word	Victoria	
+gap	, 	
+word	it	
+gap	 	
+word	existed	
+gap	 	
+word	only	
+gap	 	
+word	in	
+gap	 	
+word	theory	
+gap	. 	
+word	Competitive	
+gap	 	
+word	environment	
+gap	 	
+word	was	
+gap	 	
+word	also	
+gap	 	
+word	markedly	
+gap	 	
+word	different	
+gap	, 	
+word	especially	
+gap	 	
+word	in	
+gap	 	
+word	Bengal	
+gap	, 	
+word	after	
+gap	 	
+word	the	
+gap	 	
+word	Battle	
+gap	 	
+word	of	
+gap	 	
+word	Plassey	
+gap	 (1757). 	
+word	Before	
+gap	 	
+word	the	
+gap	 	
+word	death	
+gap	 	
+word	of	
+gap	 	
+word	Mughal	
+gap	 	
+word	Emperor	
+gap	 	
+word	Aurangzeb	
+gap	 (1707), 	
+word	the	
+gap	 	
+word	European	
+gap	 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	companies	
+gap	 	
+word	had	
+gap	 	
+word	to	
+gap	 	
+word	abide	
+gap	 	
+word	by	
+gap	 	
+word	imperial	
+gap	 	
+word	guidelines	
+gap	 	
+word	for	
+gap	 	
+word	trade	
+gap	 	
+word	which	
+gap	 	
+word	were	
+gap	 	
+word	de	
+gap	 	
+word	facto	
+gap	 	
+word	useless	
+gap	 	
+word	after	
+gap	 	
+word	Aurangzeb	
+gap	, 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	Mughal	
+gap	 	
+word	Emperors	
+gap	 	
+word	were	
+gap	 	
+word	too	
+gap	 	
+word	weak	
+gap	 	
+word	to	
+gap	 	
+word	implement	
+gap	 	
+word	them	
+gap	. 	
+word	As	PIN CONJ PREP
+gap	 	
+word	far	
+gap	 	
+word	as	
+gap	 	
+word	access	
+gap	 	
+word	to	
+gap	 	
+word	Indian	
+gap	 	
+word	markets	
+gap	 	
+word	was	
+gap	 	
+word	concerned	
+gap	, 	
+word	the	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 	
+word	operated	
+gap	 	
+word	through	
+gap	 	
+word	authorised	
+gap	 	
+word	brokers	
+gap	 	
+word	who	
+gap	 	
+word	dealt	
+gap	 	
+word	with	
+gap	 	
+word	reliable	
+gap	 	
+word	merchants	
+gap	 	
+word	both	
+gap	 	
+word	for	
+gap	 	
+word	export	
+gap	 	
+word	commodities	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	imported	
+gap	 	
+word	goods	
+gap	. 	
+word	They	
+gap	 	
+word	were	
+gap	 	
+word	known	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	banias	
+gap	 , 	
+word	and	
+gap	 	
+word	Michael	
+gap	 	
+word	Morineau	
+gap	 	
+word	has	
+gap	 	
+word	compared	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	cash	
+gap	 	
+word	clerks	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Genevans	
+gap	. 	
+word	P	
+gap	.	
+word	J	
+gap	.	
+word	Marshall	
+gap	, 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	Fortunes	
+gap	: 	
+word	The	
+gap	 	
+word	British	
+gap	 	
+word	in	
+gap	 	
+word	Bengal	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 18	
+word	th	
+gap	 	
+word	Century	
+gap	 (	
+word	Oxford	
+gap	: 	
+word	Clarendon	
+gap	, 1976), 	
+word	p	
+gap	. 3 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	, 	
+word	The	
+gap	 	
+word	Trading	
+gap	 	
+word	World	
+gap	 	
+word	of	
+gap	 	
+word	Asia	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 1660-1760 , 	
+word	p	
+gap	. 148 	
+word	S	
+gap	. 	
+word	Chaudhuri	
+gap	/	
+word	M	
+gap	. 	
+word	Morineau	
+gap	 (	
+word	Eds	
+gap	)., 	
+word	Merchants	
+gap	, 	
+word	Company	
+gap	 	
+word	and	
+gap	 	
+word	Trade	
+gap	 , 	
+word	p	
+gap	. 296 	
+word	The	
+gap	 	
+word	European	
+gap	 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	companies	
+gap	 	
+word	were	
+gap	 	
+word	limited	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	west	
+gap	 	
+word	coast	
+gap	 	
+word	of	
+gap	 	
+word	India	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	early	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	trading	
+gap	 	
+word	incursions	
+gap	 (	
+word	C	
+gap	16 	
+word	to	
+gap	 	
+word	eC	
+gap	18), 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	notable	
+gap	 	
+word	exception	
+gap	 	
+word	of	
+gap	 	
+word	Madras	
+gap	. 	
+word	Their	
+gap	 	
+word	attitudes	
+gap	 	
+word	towards	
+gap	 	
+word	the	
+gap	 	
+word	trading	
+gap	 	
+word	ports	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	summed	
+gap	 	
+word	up	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	statement	
+gap	 	
+word	from	
+gap	 	
+word	Captain	
+gap	 	
+word	Bowrey	
+gap	 	
+word	on	
+gap	 	
+word	his	
+gap	 	
+word	visit	
+gap	 	
+word	to	
+gap	 	
+word	Banda	
+gap	 	
+word	Aceh	
+gap	 	
+word	in	
+gap	 	
+word	Indonesia	
+gap	, "	
+word	This	
+gap	 	
+word	city	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	fairest	
+gap	 	
+word	and	
+gap	 	
+word	most	
+gap	 	
+word	populous	
+gap	 	
+word	of	
+gap	 	
+word	any	
+gap	 	
+word	that	
+gap	 	
+word	I	
+gap	 	
+word	ever	
+gap	 	
+word	saw	
+gap	 	
+word	or	
+gap	 	
+word	heard	
+gap	 	
+word	of	
+gap	...	
+word	but	
+gap	 	
+word	indeed	
+gap	 	
+word	it	
+gap	 	
+word	cometh	
+gap	 	
+word	far	
+gap	 	
+word	short	
+gap	 	
+word	for	
+gap	 	
+word	decency	
+gap	 	
+word	and	
+gap	 	
+word	buildings	
+gap	 	
+word	and	
+gap	 	
+word	uniformitie	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	meanest	
+gap	 	
+word	city	
+gap	...	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	mainland	
+gap	 	
+word	of	
+gap	 	
+word	India	
+gap	". 	
+word	They	
+gap	 	
+word	found	
+gap	 	
+word	already	
+gap	 	
+word	established	
+gap	 	
+word	merchant	
+gap	 	
+word	networks	
+gap	 	
+word	and	
+gap	 	
+word	trading	
+gap	 	
+word	links	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	Armenians	
+gap	 	
+word	and	
+gap	 	
+word	Muslims	
+gap	 	
+word	coming	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	Middle	
+gap	 	
+word	East	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	local	
+gap	 	
+word	Hindu	
+gap	 	
+word	and	
+gap	 	
+word	Jain	
+gap	 	
+word	traders	
+gap	. 	
+word	Indeed	
+gap	, 	
+word	as	
+gap	 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	 	
+word	has	
+gap	 	
+word	argued	
+gap	, 	
+word	the	
+gap	 	
+word	local	
+gap	 	
+word	populace	
+gap	 	
+word	saw	
+gap	 	
+word	the	
+gap	 	
+word	Europeans	
+gap	 	
+word	more	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	threat	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	an	
+gap	 	
+word	addition	
+gap	 	
+word	to	
+gap	 	
+word	their	
+gap	 	
+word	prosperity	
+gap	. 	
+word	As	
+gap	 	
+word	S	
+gap	. 	
+word	Chaudhuri	
+gap	 	
+word	and	
+gap	 	
+word	Michael	
+gap	 	
+word	Mornieau	
+gap	 	
+word	have	
+gap	 	
+word	argued	
+gap	, 	
+word	the	
+gap	 	
+word	atmosphere	
+gap	 	
+word	was	
+gap	 	
+word	more	
+gap	 	
+word	of	
+gap	 '	
+word	competition	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	collaboration	
+gap	' 	
+word	Perhaps	
+gap	 	
+word	to	
+gap	 	
+word	come	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	aid	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	struggling	
+gap	 	
+word	Portugese	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	company	
+gap	, 	
+word	Admiral	
+gap	 	
+word	Albuqueque	
+gap	 	
+word	raided	
+gap	 	
+word	Calicut	
+gap	 	
+word	with	
+gap	 	
+word	his	
+gap	 	
+word	gunboats	
+gap	 	
+word	as	
+gap	 	
+word	early	
+gap	 	
+word	as	
+gap	 1500 	
+word	to	
+gap	 	
+word	expel	
+gap	 	
+word	the	
+gap	 	
+word	Muslim	
+gap	 	
+word	merchants	
+gap	. 	
+word	Not	
+gap	 	
+word	only	
+gap	 	
+word	was	
+gap	 	
+word	such	
+gap	 	
+word	conflict	
+gap	 	
+word	limited	
+gap	 	
+word	between	
+gap	 	
+word	Indians	
+gap	 	
+word	and	
+gap	 	
+word	Europeans	
+gap	. 	
+word	There	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	vicious	
+gap	 	
+word	conflict	
+gap	 	
+word	to	
+gap	 	
+word	capture	
+gap	 	
+word	the	
+gap	 	
+word	markets	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Indonesian	
+gap	 	
+word	archipelago	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	Hindu	
+gap	, 	
+word	Jain	
+gap	, 	
+word	Armenian	
+gap	, 	
+word	Portugese	
+gap	 	
+word	and	
+gap	 	
+word	Dutch	
+gap	 	
+word	merchants	
+gap	, 	
+word	much	
+gap	 	
+word	of	
+gap	 	
+word	which	
+gap	 	
+word	turned	
+gap	 	
+word	into	
+gap	 	
+word	armed	
+gap	 	
+word	struggle	
+gap	. 	
+word	The	
+gap	 	
+word	Muslim	
+gap	 	
+word	merchants	
+gap	 	
+word	of	
+gap	 	
+word	Gujarat	
+gap	 	
+word	also	
+gap	 	
+word	got	
+gap	 	
+word	involved	
+gap	, 	
+word	slicing	
+gap	 	
+word	off	
+gap	 	
+word	a	
+gap	 	
+word	large	
+gap	 	
+word	portion	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	South	
+gap	 	
+word	East	
+gap	 	
+word	Asian	
+gap	 	
+word	textile	
+gap	 	
+word	market	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	Dutch	
+gap	. 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	 	
+word	has	
+gap	 	
+word	called	
+gap	 	
+word	it	
+gap	 	
+word	a	
+gap	 '	
+word	violent	
+gap	 	
+word	scuffle	
+gap	' 	
+word	for	
+gap	 	
+word	trade	
+gap	 	
+word	routes	
+gap	. 	
+word	There	
+gap	 	
+word	were	
+gap	 	
+word	also	
+gap	 	
+word	inherent	
+gap	 	
+word	tensions	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	merchant	
+gap	 	
+word	communities	
+gap	 	
+word	themselves	
+gap	 	
+word	along	
+gap	 	
+word	religious	
+gap	 	
+word	and	
+gap	 	
+word	caste	
+gap	 	
+word	lines	
+gap	. 	
+word	Elite	
+gap	 	
+word	merchant	
+gap	 	
+word	houses	
+gap	 	
+word	like	
+gap	 	
+word	those	
+gap	 	
+word	of	
+gap	 	
+word	Parracks	
+gap	, 	
+word	Nizamies	
+gap	 	
+word	and	
+gap	 	
+word	Rustumji	
+gap	 	
+word	enjoyed	
+gap	 	
+word	special	
+gap	 	
+word	privileges	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	Emperor	
+gap	. 	
+word	Moreover	
+gap	, 	
+word	the	
+gap	 	
+word	European	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	companies	
+gap	 	
+word	hardly	
+gap	 	
+word	ever	
+gap	 	
+word	dealt	
+gap	 	
+word	with	
+gap	 	
+word	Muslim	
+gap	 	
+word	merchants	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	traditional	
+gap	 	
+word	enmity	
+gap	. 	
+word	However	
+gap	, 	
+word	under	
+gap	 	
+word	Emperor	
+gap	 	
+word	Auranzgeb	
+gap	 	
+word	the	
+gap	 	
+word	Hindus	
+gap	 	
+word	of	
+gap	 	
+word	Gujarat	
+gap	 	
+word	were	
+gap	 	
+word	ruthlessly	
+gap	 	
+word	persecuted	
+gap	 	
+word	including	
+gap	 	
+word	brokers	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	company	
+gap	 	
+word	at	
+gap	 	
+word	their	
+gap	 	
+word	Surat	
+gap	 	
+word	factory	
+gap	. 	
+word	This	
+gap	 	
+word	resulted	
+gap	 	
+word	in	
+gap	 	
+word	widespread	
+gap	 	
+word	protests	
+gap	 	
+word	and	
+gap	 	
+word	strikes	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	plant	
+gap	. 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	, 	
+word	Trade	
+gap	 	
+word	and	
+gap	 	
+word	Civilisation	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Indian	
+gap	 	
+word	Ocean	
+gap	 , 	
+word	p	
+gap	. 181 	
+word	S	
+gap	. 	
+word	Chaudhuri	
+gap	/	
+word	M	
+gap	. 	
+word	Morineau	
+gap	 (	
+word	Eds	
+gap	.), 	
+word	Merchants	
+gap	, 	
+word	Company	
+gap	 	
+word	and	
+gap	 	
+word	Trade	
+gap	 , 	
+word	p	
+gap	. 9 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	, 	
+word	The	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 , 	
+word	p	
+gap	. 14 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chauduri	
+gap	, 	
+word	The	
+gap	 	
+word	Trading	
+gap	 	
+word	World	
+gap	 	
+word	of	
+gap	 	
+word	Asia	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 , 	
+word	p	
+gap	. 150 	
+word	Neither	
+gap	 	
+word	did	
+gap	 	
+word	the	
+gap	 	
+word	Mughal	
+gap	 	
+word	Empire	
+gap	 	
+word	remain	
+gap	 	
+word	a	
+gap	 	
+word	passive	
+gap	 	
+word	observer	
+gap	 	
+word	to	
+gap	 	
+word	such	
+gap	 	
+word	turmoil	
+gap	 	
+word	within	
+gap	 	
+word	its	
+gap	 	
+word	domain	
+gap	. 	
+word	In	
+gap	 1632, 	
+word	owing	
+gap	 	
+word	to	
+gap	 	
+word	lobbying	
+gap	 	
+word	from	
+gap	 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	, 	
+word	the	
+gap	 	
+word	Portugese	
+gap	 	
+word	were	
+gap	 	
+word	expelled	
+gap	 	
+word	wholesale	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	shores	
+gap	 	
+word	of	
+gap	 	
+word	India	
+gap	 	
+word	barring	
+gap	 	
+word	a	
+gap	 	
+word	little	
+gap	 	
+word	enclave	
+gap	 	
+word	in	
+gap	 	
+word	Goa	
+gap	 	
+word	by	
+gap	 	
+word	Emperor	
+gap	 	
+word	Shah	
+gap	 	
+word	Jahan	
+gap	. 	
+word	Although	
+gap	 	
+word	Sir	
+gap	 	
+word	Thomas	
+gap	 	
+word	Roe	
+gap	 	
+word	had	
+gap	 	
+word	obtained	
+gap	 	
+word	legal	
+gap	 	
+word	rights	
+gap	 	
+word	to	
+gap	 	
+word	trade	
+gap	 	
+word	in	
+gap	 	
+word	India	
+gap	 	
+word	from	
+gap	 	
+word	Emperor	
+gap	 	
+word	Jahangir	
+gap	, 	
+word	in	
+gap	 1688 	
+word	Sir	
+gap	 	
+word	John	
+gap	 	
+word	Child	
+gap	 	
+word	made	
+gap	 	
+word	an	
+gap	 	
+word	attempt	
+gap	, 	
+word	no	
+gap	 	
+word	doubt	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	pressure	
+gap	 	
+word	from	
+gap	 	
+word	British	
+gap	 	
+word	merchant	
+gap	 	
+word	circles	
+gap	, 	
+word	to	
+gap	 	
+word	militarily	
+gap	 	
+word	force	
+gap	 	
+word	the	
+gap	 	
+word	Mughal	
+gap	 	
+word	Empire	
+gap	 	
+word	into	
+gap	 	
+word	giving	
+gap	 	
+word	more	
+gap	 	
+word	trading	
+gap	 	
+word	concessions	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	. 	
+word	The	
+gap	 	
+word	company	
+gap	'	
+word	s	
+gap	 	
+word	forces	
+gap	 	
+word	were	
+gap	 	
+word	routed	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	almost	
+gap	 	
+word	expelled	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	mainland	
+gap	 	
+word	of	
+gap	 	
+word	India	
+gap	. 	
+word	Even	
+gap	 	
+word	though	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	India	
+gap	 	
+word	Company	
+gap	 	
+word	did	
+gap	 	
+word	manage	
+gap	 	
+word	to	
+gap	 	
+word	prolong	
+gap	 	
+word	its	
+gap	 	
+word	stay	
+gap	 	
+word	in	
+gap	 	
+word	India	
+gap	, 	
+word	owing	
+gap	 	
+word	to	
+gap	 	
+word	continued	
+gap	 	
+word	competition	
+gap	 	
+word	from	
+gap	 	
+word	Indian	
+gap	 	
+word	merchants	
+gap	, 	
+word	it	
+gap	 	
+word	had	
+gap	 	
+word	to	
+gap	 	
+word	abandon	
+gap	 	
+word	its	
+gap	 	
+word	trading	
+gap	 	
+word	posts	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Malabar	
+gap	 	
+word	Coast	
+gap	 	
+word	of	
+gap	 	
+word	India	
+gap	 	
+word	and	
+gap	 	
+word	retreat	
+gap	 	
+word	to	
+gap	 	
+word	Bengal	
+gap	, 	
+word	where	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	to	
+gap	 	
+word	consolidate	
+gap	 	
+word	and	
+gap	 	
+word	build	
+gap	 	
+word	its	
+gap	 	
+word	first	
+gap	 	
+word	trading	
+gap	 	
+word	base	
+gap	. 	
+word	The	
+gap	 	
+word	company	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	to	
+gap	 	
+word	return	
+gap	 	
+word	to	
+gap	 	
+word	dominate	
+gap	 	
+word	the	
+gap	 	
+word	Bombay	
+gap	 	
+word	and	
+gap	 	
+word	Madras	
+gap	 	
+word	presidencies	
+gap	 	
+word	until	
+gap	 	
+word	well	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	Age	
+gap	 	
+word	of	
+gap	 	
+word	Empire	
+gap	, 	
+word	when	
+gap	 	
+word	Indian	
+gap	 	
+word	competition	
+gap	 	
+word	had	
+gap	 	
+word	been	
+gap	 	
+word	uprooted	
+gap	 	
+word	by	
+gap	 	
+word	political	
+gap	 	
+word	force	
+gap	. 	
+word	Even	
+gap	 	
+word	in	
+gap	 	
+word	Bengal	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	company	
+gap	 	
+word	remained	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	sideline	
+gap	 	
+word	of	
+gap	 	
+word	economic	
+gap	 	
+word	activity	
+gap	 	
+word	until	
+gap	 	
+word	the	
+gap	 	
+word	mid	
+gap	 18 	
+word	th	
+gap	 	
+word	century	
+gap	, 	
+word	for	
+gap	 	
+word	Indian	
+gap	 	
+word	competition	
+gap	 	
+word	was	
+gap	 	
+word	present	
+gap	 	
+word	there	
+gap	 	
+word	too	
+gap	. 	
+word	The	ART DET
+gap	 	
+word	Virji	
+gap	 	
+word	Vohra	
+gap	 	
+word	and	
+gap	 	
+word	Jagath	
+gap	 	
+word	Seth	
+gap	 	
+word	houses	
+gap	 	
+word	of	
+gap	 	
+word	Surat	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	Khwaja	
+gap	 	
+word	Wazid	
+gap	 	
+word	merchant	
+gap	 	
+word	house	
+gap	 	
+word	of	
+gap	 	
+word	Bengal	
+gap	 	
+word	are	
+gap	 	
+word	only	
+gap	 	
+word	a	
+gap	 	
+word	fraction	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	threat	
+gap	 	
+word	European	
+gap	 	
+word	trade	
+gap	 	
+word	faced	
+gap	 	
+word	in	
+gap	 	
+word	India	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	turn	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 18 	
+word	th	
+gap	 	
+word	century	
+gap	. 	
+word	P	
+gap	.	
+word	J	
+gap	. 	
+word	Marshall	
+gap	, 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	Fortunes	
+gap	 , 	
+word	p	
+gap	. 6 	
+word	K	
+gap	.	
+word	N	
+gap	. 	
+word	Chaudhuri	
+gap	, 	
+word	The	
+gap	 	
+word	Trading	
+gap	 	
+word	World	
+gap	 	
+word	of	
+gap	 	
+word	Asia	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	English	
+gap	 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	Company	
+gap	 , 	
+word	p	
+gap	. 111 	
+word	S	
+gap	.	
+word	Chaudhuri	
+gap	/	
+word	M	
+gap	. 	
+word	Mornieau	
+gap	 (	
+word	Eds	
+gap	.), 	
+word	Merchants	
+gap	, 	
+word	Company	
+gap	 	
+word	and	
+gap	 	
+word	Trade	
+gap	 , 	
+word	p	
+gap	. 9 	
+word	A	
+gap	. 	
+word	Dow	
+gap	 	
+word	has	
+gap	 	
+word	called	
+gap	 	
+word	Bengal	
+gap	 '...	
+word	the	
+gap	 	
+word	richest	
+gap	, 	
+word	most	
+gap	 	
+word	populous	
+gap	 	
+word	and	
+gap	 	
+word	best	
+gap	 	
+word	cultivated	
+gap	 	
+word	kingdoms	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	.' 	
+word	P	
+gap	.	
+word	J	
+gap	. 	
+word	Marshall	
+gap	, 	
+word	East	
+gap	 	
+word	Indian	
+gap	 	
+word	Fortunes	
+gap	 , 	
+word	p	
+gap	. 5	

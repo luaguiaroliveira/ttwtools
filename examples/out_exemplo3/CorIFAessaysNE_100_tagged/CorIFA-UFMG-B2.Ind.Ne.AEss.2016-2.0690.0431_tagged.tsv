@@ -1,612 +1,1101 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0690.0431.txt
-token	tags
-    	
-Active	JJ CAP
-learning	PRIV NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-way	NN
-of	PIN PREP
-teaching	NN
-based	WZPAST
-on	PIN PREP
-tasks	NN
-accomplishment	NOMZ
-.	
-The	ART CAP DET
-teacher	NN
-gives	VPRT
-some	QUAN DET
-tasks	NN
-to	PIN PREP
-the	ART DET
-students	NN
-,	
-related	PASTP
-to	PIN PREP
-the	ART DET
-subject	NN
-,	
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-have	VPRT
-to	PIN TO PREP
-accomplish	INF
-these	DEMO DET
-tasks	NN
-by	PIN PREP
-doing	PROD PGAS
-research	NN
-and/or	CCONJ
-asking	SUAV PGAS
-for	PIN PREP
-tips	NN
-from	PIN PREP
-the	ART DET
-teacher	NN
-.	
-The	ART CAP DET
-grade	NN
-is	PASS VPRT AUXB
-based	
-,	
-mainly	RB
-,	
-on	PIN PREP
-the	ART DET
-accomplishment	NOMZ
-of	PIN PREP
-the	ART DET
-tasks	NN
-,	
-however	RB CONJ
-,	
-the	ART DET
-teacher	NN
-can	POMD
-apply	INF
-some	QUAN DET
-written	PUBV
-tests	NN
-too	RB
-or	CCONJ
-another	DET
-kinds	NN
-of	PIN PREP
-evaluation	NOMZ
-.	
-Given	CAP
-that	DEMP DET
-,	
-active	JJ
-learning	PRIV NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-teaching	NN
-method	NN
-that	TSUB WHSUB WH
-should	NEMD
-be	AUXB INF
-best	JJ PRED SPADJ
-the	ART DET
-the	ART DET
-traditional	JJ
-methods	NN
-,	
-in	PIN CONJ PREP
-engineering	GER
-courses	NN
-,	
-if	COND PIN SCONJ PREP
-the	ART DET
-classes	NN
-is	PASS VPRT BYPA SPAU AUXB
-well	RB
-managed	
-by	PIN PREP
-the	ART DET
-teacher	NN
-.	
-  	
-A	ART CAP DET INDA
-good	JJ
-engineer	NN
-should	NEMD
-be	BEMA AUXB INF
-capable	JJ PRED
-of	PIN PREP
-find	PRIV INF
-an	ART DET INDA
-elegant	JJ
-and	PHC CCONJ
-efficient	JJ
-solution	NOMZ
-to	PIN PREP
-a	ART DET INDA
-given	
-problem	NN
-.	
-Every	QUAN CAP DET
-problem	NN
-in	PIN CONJ PREP
-many	QUAN JJ
-professional	JJ
-areas	NN
-,	
-including	PGAS
-engineering	GER
-,	
-is	BEMA VPRT AUXB
-different	JJ PRED
-,	
-and	ANDC CCONJ
-should	NEMD
-be	PASS AUXB INF
-dealt	
-with	PIN PREP
-in	PIN CONJ PREP
-a	ART DET INDA
-specific	JJ
-way	NN
-,	
-requiring	SUAV PRESP PGAS
-the	ART DET
-professional	JJ
-to	PIN TO PREP
-adapt	INF
-his	TPP3 PRP SBJP
-/	
-her	TPP3 PRP SBJP
-knowledge	NN
-,	
-do	VPRT
-some	QUAN DET
-research	NN
-and	CCONJ
-find	PRIV INF
-the	ART DET
-best	JJ SPADJ
-solution	NOMZ
-.	
-The	ART CAP DET
-active	JJ
-learning	PRIV NN THATD
-method	NN
-teach	VPRT
-the	ART DET
-students	NN
-to	PIN TO PREP
-seek	INF
-solution	NOMZ
-to	PIN PREP
-different	JJ
-problems	NN
-by	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-,	
-with	PIN PREP
-the	ART DET
-supervision	NOMZ
-of	PIN PREP
-the	ART DET
-teacher	NN
-,	
-and	ANDC CCONJ
-,	
-this	DEMO DET
-way	NN
-,	
-prepares	VPRT
-the	ART DET
-student	NN
-better	RB CMADJ
-for	PIN PREP
-the	ART DET
-labor	NN
-market	NN
-.	
-  	
-An	ART CAP DET INDA
-interesting	JJ
-thing	NN
-in	PIN CONJ PREP
-the	ART DET
-active	JJ
-learning	PRIV NN THATD
-method	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-each	QUAN DET
-student	NN
-can	POMD
-achieve	INF
-his	TPP3 PRP SBJP
-/	
-her	TPP3 PRP SBJP
-own	JJ
-solution	NOMZ
-for	PIN PREP
-the	ART DET
-problem	NN
-.	
-These	DEMO CAP DET
-different	JJ
-solutions	NOMZ
-can	POMD SPAU
-all	QUAN RB
-receive	INF
-the	ART DET
-same	JJ
-grade	NN
-since	OSUB PIN SCONJ PREP
-the	ART DET
-task	NN
-proposed	SUAV WZPAST
-is	BEMA VPRT AUXB
-accomplish	JJ PRED
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-traditional	JJ
-teaching	NN
-method	NN
-,	
-usually	RB
-,	
-just	RB EMPH
-one	NUM
-answer	NN
-is	BEMA VPRT AUXB
-correct	JJ PRED
-for	PIN PREP
-the	ART DET
-problems	NN
-proposed	SUAV WZPAST
-in	PIN CONJ PREP
-the	ART DET
-written	PUBV
-tests	NN
-and	CCONJ
-many	QUAN JJ
-times	NN
-,	
-the	ART DET
-students	NN
-just	RB EMPH
-memorialize	VPRT
-the	ART DET
-answer	NN
-(	
-and	ANDC CCONJ
-forget	PRIV INF
-a	ART DET INDA
-couple	NN
-of	PIN PREP
-days	NN
-after	PIN PREP
-the	ART DET
-test	NN
-)	
-instead	RB CONJ
-of	PIN PREP
-learn	PRIV INF
-the	ART DET
-subject	NN
-.	
-  	
-Subjects	NN CAP
-based	WZPAST
-on	PIN PREP
-active	JJ
-learning	PRIV NN
-can	POMD
-have	INF
-lectures	NN
-and	CCONJ
-written	PUBV
-tests	NN
-as	RB CONJ
-well	RB
-.	
-All	QUAN CAP DET
-depends	VPRT
-on	PIN PREP
-the	ART DET
-subject	JJ
-content	NN
-and	CCONJ
-the	ART DET
-evaluation	NOMZ
-methods	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-teacher	NN
-wants	VPRT
-to	PIN TO PREP
-adopt	INF
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-active	JJ
-learning	PRIV NN
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-complementary	JJ
-method	NN
-to	PIN TO PREP
-help	INF
-the	ART DET
-students	NN
-to	PIN TO PREP
-understand	PRIV INF
-a	ART DET INDA
-given	
-subject	NN
-matter	NN
-by	PIN PREP
-applying	PGAS
-that	DEMO DET
-knowledge	NN
-to	PIN TO PREP
-solve	INF
-a	ART DET INDA
-problem	NN
-,	
-and	ANDC CCONJ
-,	
-in	PIN CONJ PREP
-addition	NOMZ
-to	PIN PREP
-that	DEMP DET
-,	
-helps	VPRT
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-learn	PRIV INF
-how	RB WHCL SCONJ WH
-to	PIN TO PREP
-find	PRIV INF
-solutions	NOMZ
-by	PIN PREP
-using	PGAS
-the	ART DET
-several	QUAN JJ
-sources	NN
-of	PIN PREP
-knowledge	NN
-available	JJ
-nowadays	RB TIME
-.	
-  	
-It	PIT CAP PRP SBJP
-can	POMD
-be	PASS AUXB INF
-argued	PUBV THATD
-that	DEMP DET
-is	VPRT AUXB
-n’t	
-possible	JJ
-to	PIN TO PREP
-apply	INF
-active	JJ
-learning	PRIV NN
-in	PIN CONJ PREP
-basic	JJ
-subjects	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-students	NN
-are	VPRT SPAU AUXB
-yet	RB
-learning	PRIV PGAS
-the	ART DET
-fundamentals	NN
-to	PIN TO PREP
-understand	PRIV INF
-problems	NN
-and	CCONJ
-advanced	JJ
-subjects	NN
-in	PIN CONJ PREP
-engineering	GER
-as	RB CONJ
-well	RB
-;	
-and	ANDC CCONJ
-this	DEMP DET
-is	BEMA VPRT AUXB
-true	JJ PRED
-but	CCONJ
-not	XX0 RB
-for	PIN PREP
-all	QUAN DET
-the	ART DET
-basic	JJ
-subjects	NN
-.	
-For	PIN CAP PREP
-example	NN
-,	
-some	QUAN DET
-physics	NN
-theories	NN
-and	PHC CCONJ
-laws	NN
-like	PIN PREP
-the	ART DET
-Einstein	CAP NNP
-’s	
-General	CAP NNP
-Relativity	CAP NNP
-Theory	CAP NNP
-or	CCONJ
-the	ART DET
-Gravity	CAP NNP
-Law	CAP NNP
-,	
-are	BEMA VPRT AUXB
-theoretical	JJ
-issues	NN
-that	TSUB WHSUB WH
-can	POMD
-be	PASS AUXB INF
-tested	
-but	CCONJ
-they	TPP3 PRP SBJP
-’re	VPRT
-just	RB EMPH
-a	ART DET INDA
-part	NN
-of	PIN PREP
-the	ART DET
-basic	JJ
-knowledge	NN
-necessary	JJ
-to	PIN TO PREP
-understand	PRIV INF
-a	ART DET INDA
-more	RB EMPH CMADJ
-complex	JJ
-problem	NN
-subject	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-’s	VPRT
-solution	NOMZ
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-a	ART DET INDA
-basic	JJ
-subject	NN
-in	PIN CONJ PREP
-engineering	GER
-like	PIN PREP
-Calculus	CAP NNP
-can	POMD
-be	BEMA AUXB INF
-the	ART DET
-only	JJ DWNT
-knowledge	NN
-necessary	JJ
-to	PIN TO PREP
-solve	INF
-many	QUAN JJ
-practical	JJ
-problems	NN
-,	
-so	CCONJ
-this	DEMP DET
-is	BEMA VPRT AUXB
-an	ART DET INDA
-example	NN
-of	PIN PREP
-a	ART DET INDA
-basic	JJ
-subject	NN
-where	RB WHOBJ SCONJ WH
-active	JJ
-learning	PRIV NN
-can	POMD
-be	PASS AUXB INF
-applied	
-.	
-  	
-Active	JJ CAP
-learning	PRIV NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-very	AMP RB
-good	JJ
-method	NN
-for	PIN PREP
-teaching	PGAS
-several	QUAN JJ
-subjects	NN
-in	PIN CONJ PREP
-engineering	GER
-and	CCONJ
-explores	VPRT
-the	ART DET
-knowledge	NN
-of	PIN PREP
-the	ART DET
-students	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-capacity	NOMZ
-to	PIN TO PREP
-find	PRIV INF
-solutions	NOMZ
-for	PIN PREP
-problems	NN
-,	
-helping	PRESP PGAS
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-secure	INF
-the	ART DET
-knowledge	NN
-acquired	VBD
-and	PHC CCONJ
-acquire	INF
-new	JJ
-ones	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-better	JJ CMADJ
-way	NN
-than	PIN PREP
-when	RB SCONJ WH
-they	TPP3 PRP SBJP
-just	RB EMPH
-have	VPRT
-theoretical	JJ
-classes	NN
-and	CCONJ
-written	PUBV
-tests	NN
-.	
-With	PIN CAP PREP
-some	QUAN DET
-adaptation	NOMZ
-,	
-can	POMD
-be	BEMA AUXB INF
-possible	JJ PRED
-to	PIN TO PREP
-apply	INF
-active	JJ
-learning	PRIV NN
-in	PIN CONJ PREP
-another	DET
-knowledge	NN
-fields	NN
-besides	PIN SCONJ PREP
-engineering	GER
-,	
-changing	PRESP PGAS
-this	DEMO DET
-old	JJ
-teaching	NN
-method	NN
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-so	RB EMPH
-rooted	JJ
-in	PIN CONJ PREP
-the	ART DET
-colleges	NN
-and	PHC CCONJ
-universities	NN
-around	PIN PLACE PREP
-the	ART DET
-world	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0690.0431>\n\n<Title: Active Learning>\n\n	
+word	Active	JJ CAP
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	teaching	NN
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	tasks	NN
+gap	 	
+word	accomplishment	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	teacher	NN
+gap	 	
+word	gives	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	tasks	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	, 	
+word	related	PASTP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	subject	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	accomplish	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	tasks	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	doing	PROD PGAS
+gap	 	
+word	research	NN
+gap	 	
+word	and	
+gap	/	
+word	or	
+gap	 	
+word	asking	
+gap	 	
+word	for	
+gap	 	
+word	tips	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	teacher	
+gap	. 	
+word	The	
+gap	 	
+word	grade	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	, 	
+word	mainly	
+gap	, 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	accomplishment	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	tasks	
+gap	, 	
+word	however	
+gap	, 	
+word	the	
+gap	 	
+word	teacher	
+gap	 	
+word	can	
+gap	 	
+word	apply	
+gap	 	
+word	some	
+gap	 	
+word	written	
+gap	 	
+word	tests	
+gap	 	
+word	too	
+gap	 	
+word	or	
+gap	 	
+word	another	
+gap	 	
+word	kinds	
+gap	 	
+word	of	
+gap	 	
+word	evaluation	
+gap	. 	
+word	Given	
+gap	 	
+word	that	
+gap	, 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	teaching	
+gap	 	
+word	method	
+gap	 	
+word	that	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	best	
+gap	 	
+word	the	ART DET
+gap	 	
+word	the	
+gap	 	
+word	traditional	
+gap	 	
+word	methods	
+gap	, 	
+word	in	
+gap	 	
+word	engineering	
+gap	 	
+word	courses	
+gap	, 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	classes	
+gap	 	
+word	is	
+gap	 	
+word	well	
+gap	 	
+word	managed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	teacher	
+gap	.\n\n	
+word	A	
+gap	 	
+word	good	
+gap	 	
+word	engineer	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	capable	
+gap	 	
+word	of	
+gap	 	
+word	find	
+gap	 	
+word	an	
+gap	 	
+word	elegant	
+gap	 	
+word	and	
+gap	 	
+word	efficient	
+gap	 	
+word	solution	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	given	
+gap	 	
+word	problem	
+gap	. 	
+word	Every	
+gap	 	
+word	problem	
+gap	 	
+word	in	
+gap	 	
+word	many	
+gap	 	
+word	professional	
+gap	 	
+word	areas	
+gap	, 	
+word	including	
+gap	 	
+word	engineering	
+gap	, 	
+word	is	
+gap	 	
+word	different	
+gap	, 	
+word	and	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	dealt	
+gap	 	
+word	with	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	specific	
+gap	 	
+word	way	
+gap	, 	
+word	requiring	
+gap	 	
+word	the	
+gap	 	
+word	professional	
+gap	 	
+word	to	
+gap	 	
+word	adapt	
+gap	 	
+word	his	
+gap	/	
+word	her	
+gap	 	
+word	knowledge	
+gap	, 	
+word	do	
+gap	 	
+word	some	
+gap	 	
+word	research	
+gap	 	
+word	and	
+gap	 	
+word	find	
+gap	 	
+word	the	
+gap	 	
+word	best	
+gap	 	
+word	solution	
+gap	. 	
+word	The	
+gap	 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	method	
+gap	 	
+word	teach	
+gap	 	
+word	the	
+gap	 	
+word	students	
+gap	 	
+word	to	
+gap	 	
+word	seek	
+gap	 	
+word	solution	
+gap	 	
+word	to	
+gap	 	
+word	different	
+gap	 	
+word	problems	
+gap	 	
+word	by	
+gap	 	
+word	themselves	
+gap	, 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	supervision	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	teacher	
+gap	, 	
+word	and	
+gap	, 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	prepares	
+gap	 	
+word	the	
+gap	 	
+word	student	
+gap	 	
+word	better	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	labor	
+gap	 	
+word	market	
+gap	.\n\n	
+word	An	
+gap	 	
+word	interesting	
+gap	 	
+word	thing	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	method	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	each	
+gap	 	
+word	student	
+gap	 	
+word	can	
+gap	 	
+word	achieve	
+gap	 	
+word	his	
+gap	/	
+word	her	
+gap	 	
+word	own	
+gap	 	
+word	solution	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	. 	
+word	These	
+gap	 	
+word	different	
+gap	 	
+word	solutions	
+gap	 	
+word	can	
+gap	 	
+word	all	
+gap	 	
+word	receive	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	grade	
+gap	 	
+word	since	
+gap	 	
+word	the	
+gap	 	
+word	task	
+gap	 	
+word	proposed	
+gap	 	
+word	is	
+gap	 	
+word	accomplish	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 	
+word	traditional	
+gap	 	
+word	teaching	
+gap	 	
+word	method	
+gap	, 	
+word	usually	
+gap	, 	
+word	just	
+gap	 	
+word	one	
+gap	 	
+word	answer	
+gap	 	
+word	is	
+gap	 	
+word	correct	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	problems	
+gap	 	
+word	proposed	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	written	
+gap	 	
+word	tests	
+gap	 	
+word	and	
+gap	 	
+word	many	
+gap	 	
+word	times	
+gap	, 	
+word	the	
+gap	 	
+word	students	
+gap	 	
+word	just	
+gap	 	
+word	memorialize	
+gap	 	
+word	the	
+gap	 	
+word	answer	
+gap	 (	
+word	and	
+gap	 	
+word	forget	
+gap	 	
+word	a	
+gap	 	
+word	couple	
+gap	 	
+word	of	
+gap	 	
+word	days	
+gap	 	
+word	after	
+gap	 	
+word	the	
+gap	 	
+word	test	
+gap	) 	
+word	instead	
+gap	 	
+word	of	
+gap	 	
+word	learn	
+gap	 	
+word	the	
+gap	 	
+word	subject	
+gap	.\n\n	
+word	Subjects	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	can	
+gap	 	
+word	have	
+gap	 	
+word	lectures	
+gap	 	
+word	and	
+gap	 	
+word	written	
+gap	 	
+word	tests	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	. 	
+word	All	
+gap	 	
+word	depends	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	subject	
+gap	 	
+word	content	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	evaluation	
+gap	 	
+word	methods	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	teacher	
+gap	 	
+word	wants	
+gap	 	
+word	to	
+gap	 	
+word	adopt	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	complementary	
+gap	 	
+word	method	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	the	
+gap	 	
+word	students	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	a	
+gap	 	
+word	given	
+gap	 	
+word	subject	
+gap	 	
+word	matter	
+gap	 	
+word	by	
+gap	 	
+word	applying	
+gap	 	
+word	that	
+gap	 	
+word	knowledge	
+gap	 	
+word	to	
+gap	 	
+word	solve	
+gap	 	
+word	a	
+gap	 	
+word	problem	
+gap	, 	
+word	and	
+gap	, 	
+word	in	
+gap	 	
+word	addition	
+gap	 	
+word	to	
+gap	 	
+word	that	
+gap	, 	
+word	helps	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	learn	
+gap	 	
+word	how	
+gap	 	
+word	to	
+gap	 	
+word	find	
+gap	 	
+word	solutions	
+gap	 	
+word	by	
+gap	 	
+word	using	
+gap	 	
+word	the	
+gap	 	
+word	several	
+gap	 	
+word	sources	
+gap	 	
+word	of	
+gap	 	
+word	knowledge	
+gap	 	
+word	available	
+gap	 	
+word	nowadays	
+gap	.\n\n	
+word	It	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	argued	
+gap	 	
+word	that	
+gap	 	
+word	isn	
+gap	’	
+word	t	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	apply	
+gap	 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	in	
+gap	 	
+word	basic	
+gap	 	
+word	subjects	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	students	
+gap	 	
+word	are	
+gap	 	
+word	yet	
+gap	 	
+word	learning	
+gap	 	
+word	the	
+gap	 	
+word	fundamentals	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	problems	
+gap	 	
+word	and	
+gap	 	
+word	advanced	
+gap	 	
+word	subjects	
+gap	 	
+word	in	
+gap	 	
+word	engineering	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	; 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	true	
+gap	 	
+word	but	
+gap	 	
+word	not	
+gap	 	
+word	for	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	basic	
+gap	 	
+word	subjects	
+gap	. 	
+word	For	
+gap	 	
+word	example	
+gap	, 	
+word	some	
+gap	 	
+word	physics	
+gap	 	
+word	theories	
+gap	 	
+word	and	
+gap	 	
+word	laws	
+gap	 	
+word	like	
+gap	 	
+word	the	
+gap	 	
+word	Einstein	
+gap	’	
+word	s	
+gap	 	
+word	General	
+gap	 	
+word	Relativity	
+gap	 	
+word	Theory	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	Gravity	
+gap	 	
+word	Law	
+gap	, 	
+word	are	
+gap	 	
+word	theoretical	
+gap	 	
+word	issues	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	tested	
+gap	 	
+word	but	
+gap	 	
+word	they	
+gap	’	
+word	re	
+gap	 	
+word	just	
+gap	 	
+word	a	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	basic	
+gap	 	
+word	knowledge	
+gap	 	
+word	necessary	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	a	
+gap	 	
+word	more	
+gap	 	
+word	complex	
+gap	 	
+word	problem	
+gap	 	
+word	subject	
+gap	 	
+word	and	
+gap	 	
+word	it	
+gap	’	
+word	s	
+gap	 	
+word	solution	
+gap	. 	
+word	On	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	hand	
+gap	, 	
+word	a	
+gap	 	
+word	basic	
+gap	 	
+word	subject	
+gap	 	
+word	in	
+gap	 	
+word	engineering	
+gap	 	
+word	like	
+gap	 	
+word	Calculus	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	only	
+gap	 	
+word	knowledge	
+gap	 	
+word	necessary	
+gap	 	
+word	to	
+gap	 	
+word	solve	
+gap	 	
+word	many	
+gap	 	
+word	practical	
+gap	 	
+word	problems	
+gap	, 	
+word	so	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	basic	
+gap	 	
+word	subject	
+gap	 	
+word	where	
+gap	 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	applied	
+gap	.\n\n	
+word	Active	
+gap	 	
+word	learning	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	very	
+gap	 	
+word	good	
+gap	 	
+word	method	
+gap	 	
+word	for	
+gap	 	
+word	teaching	
+gap	 	
+word	several	
+gap	 	
+word	subjects	
+gap	 	
+word	in	
+gap	 	
+word	engineering	
+gap	 	
+word	and	
+gap	 	
+word	explores	
+gap	 	
+word	the	
+gap	 	
+word	knowledge	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	students	
+gap	 	
+word	and	
+gap	 	
+word	their	
+gap	 	
+word	capacity	
+gap	 	
+word	to	
+gap	 	
+word	find	
+gap	 	
+word	solutions	
+gap	 	
+word	for	
+gap	 	
+word	problems	
+gap	, 	
+word	helping	
+gap	 	
+word	them	
+gap	 	
+word	to	
+gap	 	
+word	secure	
+gap	 	
+word	the	
+gap	 	
+word	knowledge	
+gap	 	
+word	acquired	
+gap	 	
+word	and	
+gap	 	
+word	acquire	
+gap	 	
+word	new	
+gap	 	
+word	ones	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	better	
+gap	 	
+word	way	
+gap	 	
+word	than	
+gap	 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	just	
+gap	 	
+word	have	
+gap	 	
+word	theoretical	
+gap	 	
+word	classes	
+gap	 	
+word	and	
+gap	 	
+word	written	
+gap	 	
+word	tests	
+gap	. 	
+word	With	
+gap	 	
+word	some	
+gap	 	
+word	adaptation	
+gap	, 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	apply	
+gap	 	
+word	active	
+gap	 	
+word	learning	
+gap	 	
+word	in	
+gap	 	
+word	another	
+gap	 	
+word	knowledge	
+gap	 	
+word	fields	
+gap	 	
+word	besides	
+gap	 	
+word	engineering	
+gap	, 	
+word	changing	
+gap	 	
+word	this	
+gap	 	
+word	old	
+gap	 	
+word	teaching	
+gap	 	
+word	method	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	so	
+gap	 	
+word	rooted	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	colleges	
+gap	 	
+word	and	
+gap	 	
+word	universities	
+gap	 	
+word	around	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	. \n	

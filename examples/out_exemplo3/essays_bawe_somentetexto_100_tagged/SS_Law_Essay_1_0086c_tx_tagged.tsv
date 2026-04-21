@@ -1,1653 +1,2760 @@
 # filename: SS_Law_Essay_1_0086c_tx.txt
-token	tags
-INTRODUCTION	NOMZ CAP
-:	
-Tort	NN CAP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-civil	JJ
-wrong	NN
-which	WHOBJ DET WH
-neither	CCONJ
-a	ART DET INDA
-breach	NN
-of	PIN PREP
-contract	NN
-nor	CCONJ
-a	ART DET INDA
-breach	NN
-of	PIN PREP
-trust	NN
-.	
-The	ART CAP DET
-main	JJ
-goal	NN
-of	PIN PREP
-tort	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-compensate	INF
-for	PIN PREP
-injury	NN
-suffered	WZPAST
-by	PIN PREP
-the	ART DET
-victim	NN
-and	CCONJ
-try	INF
-to	PIN TO PREP
-put	INF
-him	TPP3 PRP SBJP ACCU
-back	RB
-to	PIN PREP
-the	ART DET
-position	NOMZ
-had	VBD
-the	ART DET
-accident	NN
-not	XX0 RB
-occurred	VBD
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-I	FPP1 CAP PRP SBJP
-would	PRMD
-look	INF
-at	PIN PREP
-several	QUAN JJ
-areas	NN
-of	PIN PREP
-law	NN
-which	WHSUB DET WH
-tort	VPRT
-law	NN
-delves	VPRT
-into	PIN STPR PREP
-,	
-its	PIT PRP SBJP
-implications	NOMZ
-and	ANDC CCONJ
-what	WH
-can	POMD
-be	PASS AUXB INF
-done	PROD
-to	PIN TO PREP
-improve	INF
-the	ART DET
-law	NN
-.	
-AREAS	NN CAP
-OF	PIN CAP PREP
-TORT	JJ CAP
-LAW	NN CAP
-:	
-Negligence	NN CAP
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-the	ART DET
-important	JJ
-areas	NN
-under	PIN PREP
-tort	NN
-law	NN
-.	
-A	ART CAP DET INDA
-person	NN
-owes	VPRT
-a	ART DET INDA
-duty	NN
-of	PIN PREP
-care	NN
-to	PIN PREP
-several	QUAN JJ
-persons	NN
-and	CCONJ
-would	PRMD
-be	BEMA AUXB INF
-liable	JJ PRED
-if	COND PIN SCONJ PREP
-he	TPP3 PRP SBJP
-breaches	VPRT
-the	ART DET
-same	JJ
-.	
-There	EX CAP
-are	VPRT AUXB
-special	JJ
-duties	NN
-owed	
-,	
-e.g.	RB CONJ
-in	PIN CONJ PREP
-cases	NN
-of	PIN PREP
-nervous	JJ
-shock	NN
-.	
-But	CAP CCONJ
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-tension	NOMZ
-as	PIN CONJ PREP
-to	PIN PREP
-the	ART DET
-degree	NN
-of	PIN PREP
-proximity	NOMZ
-(	
-the	ART DET
-"	QUOT
-neighbour	JJ
-principle	NN
-"	QUOT
-)	
-required	PASTP SUAV
-to	PIN TO PREP
-be	BEMA AUXB INF
-liable	JJ PRED
-under	PIN PREP
-this	DEMP DET
-.	
-Until	PIN CAP PREP
-recently	RB TIME
-the	ART DET
-'	CONT QUOT
-foreseeability	NOMZ
-of	PIN PREP
-injury	NN
-by	PIN PREP
-shock	NN
-'	CONT QUOT
-was	BEMA VBD AUXB
-the	ART DET
-basis	NN
-of	PIN PREP
-compensating	GER PGAS
-victims	NN
-of	PIN PREP
-nervous	JJ
-shock	NN
-(	
-King	NN CAP
-v	PIN PREP
-Phillips	CAP NNP
-[	X
-1953	NUM
-]	
-1	NUM
-QB	CAP NNP
-429	NUM
-)	
-.	
-Now	DPAR RB TIME CAP
-there	EX
-are	VPRT AUXB
-'	CONT QUOT
-primary	JJ
-victims	NN
-'	CONT QUOT
-who	WHQU WH
-are	BEMA VPRT AUXB
-at	PIN PREP
-a	ART DET INDA
-risk	NN
-of	PIN PREP
-physical	JJ
-damage	NN
-and	CCONJ
-'	CONT QUOT
-secondary	JJ
-victims	NN
-'	CONT QUOT
-who	WHQU WH
-are	BEMA VPRT AUXB
-not	XX0 RB
-at	PIN PREP
-risk	NN
-of	PIN PREP
-suffering	PGAS
-physical	JJ
-damage	NN
-,	
-but	CCONJ
-saw	VBD PRIV
-or	CCONJ
-heard	VBD PRIV
-the	ART DET
-accident	NN
-,	
-which	SERE DET WH
-caused	VBD
-the	ART DET
-shock	NN
-.	
-He	TPP3 CAP PRP SBJP
-can	POMD SPAU
-only	DWNT RB
-recover	INF
-if	COND PIN SCONJ PREP
-he	TPP3 PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-person	NN
-of	PIN STPR PREP
-"	QUOT
-normal	JJ
-fortitude	NN
-"	QUOT
-and	ANDC CCONJ
-"	QUOT
-customary	JJ
-phlegm	NN
-"	QUOT
-.	
-Tort	NN CAP
-,	
-Hedley	CAP NNP
-,	
-Steve	CAP NNP
-.	
-Fourth	CAP NNP
-Edition	CAP NNP
--	
-2004	NUM
-,	
-LexisNexis	CAP NNP
-Butterworths	CAP NNP
-@	PIN PREP AT
-pg	NN
-79	NUM
-Casebook	CAP NNP
-on	PIN PREP
-Torts	CAP NNP
-,	
-Kidner	CAP NNP
-,	
-Richard	CAP NNP
-.	
-Eighth	CAP NNP
-Edition	CAP NNP
--	
-2004	NUM
-,	
-Oxford	CAP NNP
-University	CAP NNP
-Press	CAP NNP
-.	
-Bourhill	NN CAP
-v	PIN PREP
-Young	CAP NNP
-[	X
-1943	NUM
-]	
-AC	CAP NNP
-92	NUM
-;	
-Page	NN CAP
-v	NN
-Smith	CAP NNP
-[	X
-1996	NUM
-]	X
-1	NUM
-AC	CAP NNP
-155	NUM
-In	PIN CONJ CAP PREP
-Page	CAP NNP
-v	PIN PREP
-Smith	CAP NNP
-the	ART DET
-claimant	JJ
-(	
-primary	JJ
-victim	NN
-)	
-did	VBD SPAU
-not	XX0 RB
-suffer	INF
-any	QUAN DET
-physical	JJ
-damage	NN
-in	PIN CONJ PREP
-the	ART DET
-accident	NN
-but	CCONJ
-saw	VBD PRIV
-a	ART DET INDA
-revival	NN
-of	PIN PREP
-chronic	JJ
-fatigue	NN
-syndrome	NN
-,	
-which	SERE WHQU DET WH
-he	TPP3 PRP SBJP
-had	VBD PEAS
-suffered	
-a	ART DET INDA
-few	QUAN JJ
-years	NN
-before	RB
-.	
-The	ART CAP DET
-defendant	NN
-was	PASS VBD AUXB
-held	PRIV
-liable	JJ
-for	PIN PREP
-psychiatric	JJ
-illness	NOMZ
-.	
-It	PIT CAP PRP SBJP
-was	PASS VBD AUXB
-laid	
-down	PIN PREP
-that	PIN DEMO SCONJ PREP
-the	ART DET
-defendant	NN
-could	POMD SPAU
-only	DWNT RB
-be	BEMA AUXB INF
-liable	JJ PRED
-if	COND PIN SCONJ PREP
-the	ART DET
-risk	NN
-of	PIN PREP
-psychiatric	JJ
-illness	NOMZ
-was	PASS VBD SPAU AUXB
-reasonably	RB
-foreseen	
-or	CCONJ
-the	ART DET
-risk	NN
-of	PIN PREP
-physical	JJ
-injury	NN
-was	PASS VBD AUXB
-foreseen	
-.	
-There	EX CAP
-was	VBD AUXB
-the	ART DET
-earlier	JJ TIME CMADJ
-case	NN
-of	PIN PREP
-Bourhill	CAP NNP
-v	PIN PREP
-Young	CAP NNP
-where	RB SCONJ WH
-the	ART DET
-claimant	NN
-who	WHSUB WH
-was	BEMA VBD AUXB
-just	RB EMPH
-a	ART DET INDA
-bystander	NN
-miscarried	VBD
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-witnessing	GER PGAS
-a	ART DET INDA
-motorcycle	NN
-accident	NN
-from	PIN PREP
-a	ART DET INDA
-distance	NN
-.	
-Held	PRIV CAP
-,	
-was	BEMA VBD AUXB
-not	XX0 RB
-a	ART DET INDA
-foreseeable	JJ
-victim	NN
-.	
-The	ART CAP DET
-law	NN
-is	BEMA VPRT AUXB
-rather	RB
-absurd	JJ
-because	CAUS PIN SCONJ PREP
-had	VBD PEAS
-she	TPP3 PRP SBJP
-suffered	
-physical	JJ
-injury	NN
-she	TPP3 PRP SBJP
-could	POMD
-have	PEAS INF
-recovered	
-for	PIN PREP
-that	DEMO DET
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-her	TPP3 PRP SBJP
-mental	JJ
-trauma	NN
-but	CCONJ
-since	OSUB PIN SCONJ PREP
-she	TPP3 PRP SBJP
-did	VBD PROD
-n't	XX0 CONT RB
-,	
-she	TPP3 PRP SBJP
-could	POMD SPAU
-not	XX0 RB
-recover	INF
-for	PIN PREP
-anything	QUPR INPR
-.	
-[	X
-1996	NUM
-]	X
-1	NUM
-AC	CAP NNP
-155	NUM
-[	
-1943	NUM
-]	
-AC	CAP NNP
-92	NUM
-Tort	CAP NNP
-,	
-Hedley	CAP NNP
-,	
-Steve	CAP NNP
-.	
-Fourth	CAP NNP
-Edition	CAP NNP
--	
-2004	NUM
-,	
-LexisNexis	CAP NNP
-Butterworths	CAP NNP
-@	PIN PREP AT
-pg	NNP
-.	
-80	NUM
-Alcock	CAP NNP
-v	PIN PREP
-Chief	CAP NNP
-Constable	CAP NNP
-of	PIN PREP
-South	CAP NNP
-Yorkshire	CAP NNP
-was	BEMA VBD AUXB
-a	ART DET INDA
-case	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-relatives	NN
-and	PHC CCONJ
-friends	NN
-of	PIN PREP
-Hillsborough	JJ CAP
-disaster	NN
-victims	NN
-brought	VBD
-claims	PUBV NN
-.	
-It	PIT CAP PRP SBJP
-failed	VBD
-because	CAUS PIN SCONJ PREP
-there	EX
-was	VBD AUXB
-no	SYNE DET
-sufficient	JJ
-proximity	NOMZ
-in	PIN CONJ STPR PREP
-'	CONT QUOT
-time	NN
-and	PHC CCONJ
-space	NN
-'	CONT QUOT
-.	
-The	ART CAP DET
-people	NN
-did	VBD SPAU
-not	XX0 RB
-suffer	INF
-injury	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-witnessing	GER PGAS
-the	ART DET
-incident	NN
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-"	QUOT
-immediate	JJ
-aftermath	NN
-"	QUOT
-.	
-The	ART CAP DET
-court	NN
-also	RB
-held	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-people	NN
-who	WHSUB WH
-brought	VBD
-the	ART DET
-claims	PUBV NN
-had	VBD
-no	SYNE DET
-close	JJ
-tie	NN
-of	PIN PREP
-love	NN
-and	PHC CCONJ
-affection	NOMZ
-.	
-It	PIT CAP PRP SBJP
-was	PASS VBD AUXB
-restricted	
-to	PIN PREP
-spouses	NN
-,	
-parent	NN
-and	PHC CCONJ
-children	NN
-of	PIN PREP
-victims	NN
-.	
-Psychiatric	CAP NNP
-illness	NOMZ
-resulting	WZPRES PGAS
-from	PIN PREP
-witnessing	GER PGAS
-the	ART DET
-incident	NN
-on	PIN PREP
-TV	NN CAP
-was	BEMA VBD AUXB
-not	XX0 RB
-actionable	JJ
-.	
-The	ART CAP DET
-judges	PRIV NN
-may	POMD
-have	PEAS INF
-had	
-the	ART DET
-floodgates	NN
-issue	NN
-at	PIN PREP
-the	ART DET
-back	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-mind	NN
-when	RB WHOBJ SCONJ WH
-they	TPP3 PRP SBJP
-limited	VBD
-the	ART DET
-persons	NN
-who	WHSUB WH
-could	POMD
-bring	INF
-an	ART DET INDA
-action	NOMZ
-for	PIN PREP
-damages	NN
-.	
-In	PIN CONJ CAP PREP
-Chadwick	CAP NNP
-v	PIN PREP
-British	CAP NNP
-Railways	CAP NNP
-Board	CAP NNP
-the	ART DET
-claimant	NN
-assisted	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-Lewisham	CAP NNP
-Train	CAP NNP
-crash	NN
-by	PIN PREP
-giving	PGAS
-injections	NOMZ
-to	PIN PREP
-the	ART DET
-injured	
-by	PIN PREP
-crawling	PGAS
-between	PIN PREP
-the	ART DET
-two	NUM
-collided	
-trains	NN
-.	
-He	TPP3 CAP PRP SBJP
-suffered	VBD
-clinical	JJ
-depression	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-witnessing	GER PGAS
-the	ART DET
-incident	NN
-and	CCONJ
-committed	VBD
-suicide	NN
-.	
-His	TPP3 CAP PRP SBJP
-wife	NN
-could	POMD
-recover	INF
-since	OSUB PIN SCONJ PREP
-rescuers	NN
-were	BEMA VBD AUXB
-primary	JJ
-victims	NN
-.	
-Contrasting	GER PRESP CAP PGAS
-this	DEMP DET
-is	BEMA VPRT AUXB
-the	ART DET
-case	NN
-of	PIN PREP
-White	CAP NNP
-v	NNP
-Chief	CAP NNP
-Constable	CAP NNP
-of	PIN PREP
-South	CAP NNP
-Yorkshire	CAP NNP
-where	RB SCONJ WH
-the	ART DET
-policemen	NN
-who	WHSUB WH
-had	VBD PEAS
-assisted	
-the	ART DET
-victims	NN
-in	PIN CONJ PREP
-the	ART DET
-Hillsborough	CAP NNP
-football	NN
-disaster	NN
-could	POMD SPAU
-not	XX0 RB
-recover	INF
-for	PIN PREP
-the	ART DET
-harm	NN
-suffered	
-.	
-Held	PRIV CAP
-,	
-rescuers	NN
-were	BEMA VBD AUXB
-not	XX0 RB
-primary	JJ
-victims	NN
-or	CCONJ
-a	ART DET INDA
-special	JJ
-category	NN
-of	PIN PREP
-people	NN
-.	
-But	CAP CCONJ
-Lord	CAP NNP
-Steyn	CAP NNP
-has	VPRT PEAS
-said	PUBV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-should	NEMD SPAU
-not	XX0 RB
-make	INF
-a	ART DET INDA
-difference	NN
-because	CAUS PIN STPR SCONJ PREP
-:	
-a	ART DET INDA
-rescuer	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-rescuer	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-rescuer	NN
-.	
-In	PIN CONJ CAP PREP
-McLoughlin	CAP NNP
-v	NN
-O	NN CAP
-'	CONT QUOT
-Brian	CAP NNP
-the	ART DET
-House	CAP NNP
-of	PIN PREP
-Lords	CAP NNP
-held	PRIV
-,	
-liability	NOMZ
-was	PASS VBD AUXB
-owed	
-only	DWNT RB
-if	COND PIN SCONJ PREP
-the	ART DET
-claimant	NN
-was	BEMA VBD AUXB
-present	JJ PRED
-at	PIN PREP
-the	ART DET
-scene	NN
-of	PIN PREP
-the	ART DET
-incident	NN
-,	
-or	CCONJ
-was	BEMA VBD AUXB
-a	ART DET INDA
-person	NN
-who	WHSUB WH
-witnessed	VBD
-the	ART DET
-incident	NN
-in	PIN CONJ PREP
-the	ART DET
-"	QUOT
-immediate	JJ
-aftermath	NN
-"	QUOT
-and	ANDC CCONJ
-had	VBD
-ties	NN
-of	PIN PREP
-love	NN
-and	PHC CCONJ
-affection	NOMZ
-with	PIN PREP
-the	ART DET
-victim	NN
-.	
-[	X
-1991	NUM
-]	
-4	NUM
-All	QUAN CAP DET
-ER	CAP NNP
-907	NUM
-[	X
-1967	NUM
-]	
-2	NUM
-All	QUAN CAP DET
-ER	CAP NNP
-97	NUM
-[	
-1999	NUM
-]	X
-1	NUM
-All	QUAN CAP DET
-ER	CAP NNP
-1	NUM
-'	CONT QUOT
-Nervous	JJ CAP
-Shock	NN CAP
-:	
-Wider	RB CAP
-still	RB
-&	CCONJ
-wider	JJ CMADJ
-?	QUES
-'	CONT QUOT
-[	
-1997	NUM
-]	
-CLJ	NN CAP
-254	NUM
-@	PIN PREP AT
-pg	NNP
-.	
-255	NUM
-.	
-[	X
-1983	NUM
-]	
-AC	CAP NNP
-410	NUM
-The	ART CAP DET
-'	CONT QUOT
-secondary	JJ
-victims	NN
-'	CONT QUOT
-are	BEMA VPRT AUXB
-to	PIN TO PREP
-prove	PRIV INF
-that	PIN THVC SCONJ PREP
-close	JJ
-friends	NN
-or	CCONJ
-relatives	NN
-witnessed	VBD
-a	ART DET INDA
-'	CONT QUOT
-shocking	JJ
-'	CONT QUOT
-event	NN
-.	
-Another	CAP DET
-important	JJ
-area	NN
-under	PIN PREP
-tort	NN
-law	NN
-is	BEMA VPRT AUXB
-Economic	JJ CAP
-loss	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-principle	JJ
-pure	JJ
-economic	JJ
-loss	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-recoverable	JJ
-unless	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-consequential	JJ PRED
-to	PIN PREP
-physical	JJ
-loss	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-an	ART DET INDA
-area	NN
-of	PIN PREP
-contract	NN
-law	NN
-but	CCONJ
-tort	NN
-fills	VPRT
-in	PIN CONJ PREP
-for	PIN PREP
-the	ART DET
-gaps	NN
-created	WZPAST
-by	PIN PREP
-contract	NN
-law	NN
-.	
-Here	RB CAP
-it	PIT PRP SBJP
-only	DWNT RB
-compensates	VPRT
-losses	NN
-,	
-but	CCONJ
-does	VPRT SPAU
-not	XX0 RB
-restore	INF
-status	NN
-quo	NN
-like	PIN PREP
-under	PIN PREP
-the	ART DET
-other	JJ
-areas	NN
-.	
-It	PIT CAP PRP SBJP
-also	RB
-redresses	VPRT
-the	ART DET
-wrongs	NN
-done	WZPAST PROD
-by	PIN PREP
-contract	NN
-law	NN
-.	
-Tort	NN CAP
-law	NN
-provides	VPRT
-remedies	NN
-for	PIN PREP
-strangers	NN
-too	RB
-.	
-Spartan	CAP NNP
-Steel	CAP NNP
-&	CCONJ
-Metal	CAP NNP
-Alloys	CAP NNP
-v	PIN PREP
-Martin	CAP NNP
-&	CCONJ
-Co.	CAP NNP
-[	X
-1972	NUM
-]	
-QB	CAP NNP
-27	NUM
-.	
-Duty	CAP NNP
-of	PIN PREP
-Care	CAP NNP
-&	CCONJ
-Economic	CAP NNP
-Loss	CAP NNP
-:	
-A	ART CAP DET INDA
-wider	JJ CMADJ
-agenda	NN
-(	
-1991	NUM
-)	
-107	NUM
-LQR	CAP NNP
-249	NUM
-@	PIN PREP AT
-pg	NNP
-.	
-249	NUM
-Hedley	CAP NNP
-Byrne	CAP NNP
-&	CCONJ
-Co	CAP NNP
-Ltd.	CAP NNP
-v	PIN PREP
-Heller	CAP NNP
-and	PHC CCONJ
-Partners	CAP NNP
-Ltd	CAP NNP
-.	
-is	BEMA VPRT AUXB
-the	ART DET
-leading	PGAS
-case	NN
-which	WHSUB DET WH
-says	VPRT PUBV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-person	NN
-is	BEMA VPRT AUXB
-responsible	JJ PRED
-for	PIN PREP
-economic	JJ
-loss	NN
-arising	WZPRES PGAS
-out	PIN PREP
-of	PIN PREP
-negligent	JJ
-misstatement	NOMZ
-if	COND PIN SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-special	JJ
-relationship	NN
-between	PIN PREP
-the	ART DET
-parties	NN
-and	ANDC CCONJ
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-voluntary	JJ
-assumption	NOMZ
-of	PIN PREP
-responsibility	NOMZ
-.	
-These	DEMO CAP DET
-restrictions	NOMZ
-are	PASS VPRT AUXB
-placed	
-reduce	INF
-the	ART DET
-number	NN
-of	PIN PREP
-cases	NN
-coming	WZPRES PGAS
-before	PIN PREP
-the	ART DET
-court	NN
-,	
-i.e.	CONJ X
-,	
-the	ART DET
-floodgate	NN
-issue	NN
-.	
-If	COND PIN CAP SCONJ PREP
-there	EX
-were	VBD AUXB
-a	ART DET INDA
-disclaimer	NN
-then	RB
-the	ART DET
-person	NN
-is	BEMA VPRT AUXB
-exempt	JJ PRED
-from	PIN PREP
-responsibility	NOMZ
-;	
-if	COND PIN SCONJ PREP
-someone	QUPR INPR
-with	PIN PREP
-special	JJ
-skill	NN
-gives	VPRT
-any	QUAN DET
-advice	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-reasonably	RB
-foreseeable	JJ
-that	PIN THAC SCONJ PREP
-there	EX
-would	PRMD
-be	BEMA AUXB INF
-a	ART DET INDA
-reliance	NN
-on	PIN PREP
-the	ART DET
-statement	NOMZ
-,	
-making	PRESP PGAS
-him	TPP3 PRP SBJP ACCU
-liable	JJ
-.	
-White	CAP NNP
-v	PIN PREP
-Jones	CAP NNP
-says	VPRT PUBV
-the	ART DET
-relationship	NN
-of	PIN PREP
-a	ART DET INDA
-solicitor	NN
-and	PHC CCONJ
-beneficiary	NN
-of	PIN PREP
-will	PRMD
-is	BEMA VPRT AUXB
-a	ART DET INDA
-fiduciary	JJ
-relationship	NN
-and	CCONJ
-a	ART DET INDA
-special	JJ
-one	NN
-.	
-[	X
-1964	NUM
-]	
-AC	CAP NNP
-465	NUM
-Smith	CAP NNP
-v	PIN PREP
-Eric	CAP NNP
-S.	CAP NNP
-Bush	CAP NNP
-[	X
-1990	NUM
-]	X
-1	NUM
-AC	CAP NNP
-831	NUM
-where	RB SCONJ WH
-it	PIT PRP SBJP
-could	POMD
-be	PASS AUXB INF
-foreseen	
-that	PIN DEMO SCONJ PREP
-the	ART DET
-purchaser	NN
-would	PRMD
-rely	INF
-on	PIN PREP
-the	ART DET
-surveyor	NN
-'s	
-statement	NOMZ
-even	RB
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-was	PASS VBD SPAU AUXB
-not	XX0 RB
-made	
-to	PIN PREP
-her	TPP3 PRP SBJP ACCU
-directly	RB
-.	
-Per	PIN CAP PREP
-Lord	CAP NNP
-Morrison	CAP NNP
-in	PIN CONJ PREP
-Hedley	CAP NNP
-Byrne	CAP NNP
-v	PIN PREP
-Heller	CAP NNP
-&	CCONJ
-Partners	CAP NNP
-[	
-1995	NUM
-]	X
-1	NUM
-All	QUAN CAP DET
-ER	CAP NNP
-691	NUM
-Per	PIN CAP PREP
-Lord	CAP NNP
-Browne	CAP NNP
-Wilkinson	CAP NNP
-in	PIN CONJ PREP
-White	CAP NNP
-v	PIN PREP
-Jones	CAP NNP
-Another	CAP DET
-important	JJ
-yet	RB
-rare	JJ
-area	NN
-of	PIN PREP
-tort	NN
-law	NN
-is	VPRT AUXB
-awarding	PGAS
-punitive	JJ
-damages	NN
-(	
-exemplary	JJ
-damages	NN
-)	
-.	
-These	DEMP CAP DET
-are	PASS VPRT SPAU AUXB
-only	DWNT RB
-awarded	
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-required	SUAV
-for	PIN PREP
-adequately	RB
-punishing	PGAS
-the	ART DET
-defendant	NN
-.	
-Rookes	NN CAP
-v	PIN PREP
-Barnard	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-authority	NOMZ
-on	PIN PREP
-this	DEMP DET
-,	
-it	PIT PRP SBJP
-says	VPRT PUBV
-that	PIN THVC SCONJ PREP
-punitive	JJ
-damages	NN
-can	POMD SPAU
-only	DWNT RB
-be	PASS AUXB INF
-awarded	
-if	COND PIN SCONJ PREP
-the	ART DET
-person	NN
-was	BEMA VBD AUXB
-a	ART DET INDA
-servant	NN
-of	PIN PREP
-the	ART DET
-Government	CAP NNP
-at	PIN PREP
-the	ART DET
-time	NN
-of	PIN PREP
-commission	NOMZ
-of	PIN PREP
-the	ART DET
-tort	NN
-;	
-he	TPP3 PRP SBJP
-committed	VBD
-it	PIT PRP SBJP
-because	CAUS PIN SCONJ PREP
-he	TPP3 PRP SBJP
-figured	VBD
-he	TPP3 PRP SBJP
-would	PRMD
-make	INF
-more	JJ EMPH CMADJ
-money	NN
-than	PIN PREP
-he	TPP3 PRP SBJP
-would	PRMD
-have	INF
-to	PIN TO PREP
-pay	INF
-as	PIN CONJ PREP
-damages	NN
-or	CCONJ
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-statutory	JJ
-award	NN
-.	
-Tort	CAP NNP
-Law	CAP NNP
-,	
-McBride	CAP NNP
-,	
-Nicholas	CAP NNP
-J	CAP NNP
-&	CCONJ
-Bagshaw	CAP NNP
-,	
-Roderick	CAP NNP
-.	
-Second	CAP NNP
-Edition	CAP NNP
--	
-2005	NUM
-,	
-Pearson	CAP NNP
-Longman	CAP NNP
-@	PIN PREP AT
-pg	NN
-.	
-673	NUM
-.	
-[	X
-1964	NUM
-]	
-AC	CAP NNP
-1129	NUM
-Tort	CAP NNP
-Law	CAP NNP
-,	
-McBride	CAP NNP
-,	
-Nicholas	CAP NNP
-J	CAP NNP
-&	CCONJ
-Bagshaw	CAP NNP
-,	
-Roderick	CAP NNP
-.	
-Second	CAP NNP
-Edition	CAP NNP
--	
-2005	NUM
-,	
-Pearson	CAP NNP
-Longman	CAP NNP
-@	PIN PREP AT
-pg	NN
-.	
-676	NUM
-.	
-CONCLUSION	NOMZ CAP
-:	
-Having	PEAS CAP PGAS
-looked	
-at	PIN PREP
-few	QUAN JJ
-important	JJ
-areas	NN
-under	PIN PREP
-tort	NN
-law	NN
-one	PRP SBJP
-would	PRMD
-think	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-law	NN
-deals	VPRT
-with	PIN PREP
-a	ART DET INDA
-number	NN
-of	PIN PREP
-issues	NN
-.	
-If	COND PIN CAP SCONJ PREP
-a	ART DET INDA
-case	NN
-does	VPRT SPAU
-not	XX0 RB
-fall	INF
-under	PIN PREP
-any	QUAN DET
-other	JJ
-civil	JJ
-law	NN
-,	
-it	PIT PRP SBJP
-falls	VPRT
-under	PIN PREP
-tort	NN
-.	
-But	CAP CCONJ
-we	FPP1 PRP SBJP
-can	POMD
-see	PRIV INF
-that	PIN THVC SCONJ PREP
-not	XX0 RB
-only	DWNT RB
-does	VPRT PROD
-tort	NN
-law	NN
-deal	INF
-with	PIN PREP
-cases	NN
-which	WHOBJ DET WH
-other	JJ
-branches	NN
-of	PIN PREP
-law	NN
-do	VPRT SPAU
-not	XX0 RB
-deal	INF
-with	PIN PREP
-but	CCONJ
-also	RB
-ones	NN
-that	TSUB WHSUB WH
-fall	VPRT
-under	PIN PREP
-categories	NN
-of	PIN PREP
-law	NN
-,	
-like	PIN PREP
-contract	NN
-law	NN
-(	
-economic	JJ
-loss	NN
--	
-contractual	JJ
-breach	NN
-)	
-.	
-Again	RB TIME CAP
-,	
-the	ART DET
-aim	NN
-of	PIN PREP
-tort	NN
-law	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-to	PIN TO PREP
-punish	INF
-people	NN
-,	
-but	CCONJ
-to	PIN TO PREP
-compensate	INF
-the	ART DET
-party	NN
-and	CCONJ
-restore	INF
-status	NN
-quo	NN
-.	
-The	ART CAP DET
-award	NN
-of	PIN PREP
-punitive	JJ
-damages	NN
-falls	VPRT
-under	PIN PREP
-criminal	JJ
-law	NN
-.	
-These	DEMO CAP DET
-only	DWNT RB
-increase	VPRT
-the	ART DET
-number	NN
-of	PIN PREP
-cases	NN
-.	
-But	CAP CCONJ
-exemplary	JJ
-damages	NN
-are	PASS VPRT SPAU AUXB
-only	DWNT RB
-awarded	
-rarely	RB
-.	
-Usually	RB CAP
-regular	JJ
-or	CCONJ
-special	JJ
-damages	NN
-are	PASS VPRT AUXB
-awarded	
-.	
-Tort	NN CAP
-law	NN
-has	VPRT PEAS
-been	BEMA AUXB
-there	RB
-for	PIN PREP
-centuries	NN
-and	CCONJ
-there	EX
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-a	ART DET INDA
-sudden	JJ
-change	NN
-,	
-the	ART DET
-judges	PRIV NN
-can	POMD SPAU
-not	XX0 RB
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-would	PRMD SPAU
-only	DWNT RB
-deal	INF
-with	PIN PREP
-particular	JJ CONJ
-areas	NN
-and	CCONJ
-reject	VPRT
-the	ART DET
-rest	NN
-;	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-expected	PRIV
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-address	INF
-the	ART DET
-claims	PUBV NN
-of	PIN PREP
-the	ART DET
-injured	
-party	NN
-.	
-Yet	CAP CCONJ
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-desirable	JJ PRED
-if	COND PIN SCONJ PREP
-tort	NN
-law	NN
-limited	VBD
-its	PIT PRP SBJP
-scope	NN
-to	PIN TO PREP
-promote	INF
-efficiency	NN
-.	
-Yet	RB CAP
-another	DET
-important	JJ
-problem	NN
-under	PIN PREP
-tort	NN
-law	NN
-is	VPRT AUXB
-it	PIT PRP SBJP
-lacks	VPRT
-coherence	NN
-.	
-When	RB CAP SCONJ WH
-we	FPP1 PRP SBJP
-look	VPRT
-at	PIN PREP
-the	ART DET
-cases	NN
-above	PIN PLACE PREP
-we	FPP1 PRP SBJP
-can	POMD
-notice	PRIV INF
-that	PIN THVC SCONJ PREP
-there	EX
-are	VPRT AUXB
-conflicting	JJ
-decisions	NOMZ
-.	
-Judges	PRIV NN CAP
-mostly	RB
-decide	VPRT PRIV SUAV
-cases	NN
-on	PIN PREP
-policy	NN
-arguments	NOMZ
-than	PIN PREP
-relying	PGAS
-upon	PIN SCONJ PREP
-precedents	NN
-.	
-This	DEMP CAP DET
-leads	VPRT
-to	PIN PREP
-incoherence	NN
-in	PIN CONJ PREP
-the	ART DET
-law	NN
-.	
-But	CAP CCONJ
-this	DEMP DET
-has	VPRT PEAS
-been	BEMA AUXB
-the	ART DET
-problem	NN
-prevailing	GER WZPRES PGAS
-since	OSUB PIN SCONJ PREP
-times	NN
-immemorial	NN
-.	
-But	CAP CCONJ
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-welcome	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-tort	NN
-law	NN
-being	BEMA WZPRES AUXB
-more	RB EMPH CMADJ
-coherent	JJ
-,	
-if	COND PIN SCONJ PREP
-the	ART DET
-judges	PRIV NN
-follow	VPRT
-the	ART DET
-'	CONT QUOT
-rule	SUAV NN
-of	PIN PREP
-precedents	NN
-'	CONT QUOT
-,	
-there	EX
-would	PRMD SPAU
-automatically	RB
-be	BEMA AUXB INF
-more	JJ EMPH CMADJ
-coherence	NN
-.	
-And	ANDC CAP CCONJ
-also	RB
-if	COND PIN SCONJ PREP
-the	ART DET
-law	NN
-concentrates	VPRT
-on	PIN PREP
-its	PIT PRP SBJP
-primary	JJ
-aim	NN
-of	PIN PREP
-compensating	GER PGAS
-for	PIN PREP
-the	ART DET
-injuries	NN
-suffered	VBD
-and	PHC CCONJ
-tries	VPRT
-not	XX0 RB
-to	PIN TO PREP
-extend	INF
-the	ART DET
-law	NN
-,	
-then	RB
-tort	NN
-law	NN
-would	PRMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-certain	JJ
-.	
-Extending	PRESP CAP PGAS
-the	ART DET
-law	NN
-would	PRMD SPAU
-only	DWNT RB
-increase	INF
-the	ART DET
-cases	NN
-before	PIN PREP
-it	PIT PRP SBJP
-and	CCONJ
-would	PRMD
-make	INF
-the	ART DET
-law	NN
-inefficient	JJ
-and	PHC CCONJ
-incoherent	JJ
-which	DET WH
-is	BEMA VPRT AUXB
-not	XX0 RB
-desirable	JJ
-.	
+type	content	tags
+word	INTRODUCTION	NOMZ CAP
+gap	: 	
+word	Tort	NN CAP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	civil	JJ
+gap	 	
+word	wrong	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	neither	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	breach	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contract	NN
+gap	 	
+word	nor	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	breach	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	trust	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	goal	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tort	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	compensate	INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	injury	NN
+gap	 	
+word	suffered	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	victim	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	put	INF
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	back	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	position	NOMZ
+gap	 	
+word	had	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	accident	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	occurred	VBD
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	look	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	law	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	tort	VPRT
+gap	 	
+word	law	NN
+gap	 	
+word	delves	VPRT
+gap	 	
+word	into	PIN STPR PREP
+gap	, 	
+word	its	PIT PRP SBJP
+gap	 	
+word	implications	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	what	WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	done	PROD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	. 	
+word	AREAS	NN CAP
+gap	 	
+word	OF	PIN CAP PREP
+gap	 	
+word	TORT	JJ CAP
+gap	 	
+word	LAW	NN CAP
+gap	: 	
+word	Negligence	NN CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	important	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	tort	NN
+gap	 	
+word	law	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	person	NN
+gap	 	
+word	owes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	duty	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	care	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	persons	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	liable	JJ PRED
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	breaches	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	special	JJ
+gap	 	
+word	duties	NN
+gap	 	
+word	owed	
+gap	, 	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	in	
+gap	 	
+word	cases	
+gap	 	
+word	of	
+gap	 	
+word	nervous	
+gap	 	
+word	shock	
+gap	. 	
+word	But	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	tension	
+gap	 	
+word	as	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	degree	
+gap	 	
+word	of	
+gap	 	
+word	proximity	
+gap	 (	
+word	the	
+gap	 "	
+word	neighbour	
+gap	 	
+word	principle	
+gap	") 	
+word	required	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	liable	
+gap	 	
+word	under	
+gap	 	
+word	this	
+gap	. 	
+word	Until	
+gap	 	
+word	recently	
+gap	 	
+word	the	
+gap	 '	
+word	foreseeability	
+gap	 	
+word	of	
+gap	 	
+word	injury	
+gap	 	
+word	by	
+gap	 	
+word	shock	
+gap	' 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	basis	
+gap	 	
+word	of	
+gap	 	
+word	compensating	
+gap	 	
+word	victims	
+gap	 	
+word	of	
+gap	 	
+word	nervous	
+gap	 	
+word	shock	
+gap	 ( 	
+word	King	
+gap	 	
+word	v	
+gap	 	
+word	Phillips	
+gap	 [1953] 1 	
+word	QB	
+gap	 429) . 	
+word	Now	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 '	
+word	primary	
+gap	 	
+word	victims	
+gap	' 	
+word	who	
+gap	 	
+word	are	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	risk	
+gap	 	
+word	of	
+gap	 	
+word	physical	
+gap	 	
+word	damage	
+gap	 	
+word	and	
+gap	 '	
+word	secondary	
+gap	 	
+word	victims	
+gap	' 	
+word	who	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	at	
+gap	 	
+word	risk	
+gap	 	
+word	of	
+gap	 	
+word	suffering	
+gap	 	
+word	physical	
+gap	 	
+word	damage	
+gap	, 	
+word	but	
+gap	 	
+word	saw	
+gap	 	
+word	or	
+gap	 	
+word	heard	
+gap	 	
+word	the	
+gap	 	
+word	accident	
+gap	, 	
+word	which	
+gap	 	
+word	caused	
+gap	 	
+word	the	
+gap	 	
+word	shock	
+gap	 . 	
+word	He	
+gap	 	
+word	can	
+gap	 	
+word	only	
+gap	 	
+word	recover	
+gap	 	
+word	if	
+gap	 	
+word	he	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	 	
+word	of	
+gap	 "	
+word	normal	
+gap	 	
+word	fortitude	
+gap	" 	
+word	and	
+gap	 "	
+word	customary	
+gap	 	
+word	phlegm	
+gap	" . 	
+word	Tort	
+gap	, 	
+word	Hedley	
+gap	, 	
+word	Steve	
+gap	. 	
+word	Fourth	
+gap	 	
+word	Edition	
+gap	 - 2004, 	
+word	LexisNexis	
+gap	 	
+word	Butterworths	
+gap	 @ 	
+word	pg	
+gap	 79 	
+word	Casebook	
+gap	 	
+word	on	
+gap	 	
+word	Torts	
+gap	, 	
+word	Kidner	
+gap	, 	
+word	Richard	
+gap	. 	
+word	Eighth	
+gap	 	
+word	Edition	
+gap	 - 2004, 	
+word	Oxford	
+gap	 	
+word	University	
+gap	 	
+word	Press	
+gap	. 	
+word	Bourhill	
+gap	 	
+word	v	
+gap	 	
+word	Young	
+gap	 [1943] 	
+word	AC	
+gap	 92; 	
+word	Page	
+gap	 	
+word	v	
+gap	 	
+word	Smith	
+gap	 [1996] 1 	
+word	AC	
+gap	 155 	
+word	In	
+gap	 	
+word	Page	
+gap	 	
+word	v	
+gap	 	
+word	Smith	
+gap	 	
+word	the	
+gap	 	
+word	claimant	
+gap	 (	
+word	primary	
+gap	 	
+word	victim	
+gap	) 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	suffer	
+gap	 	
+word	any	
+gap	 	
+word	physical	
+gap	 	
+word	damage	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	accident	
+gap	 	
+word	but	
+gap	 	
+word	saw	
+gap	 	
+word	a	
+gap	 	
+word	revival	
+gap	 	
+word	of	
+gap	 	
+word	chronic	
+gap	 	
+word	fatigue	
+gap	 	
+word	syndrome	
+gap	, 	
+word	which	
+gap	 	
+word	he	
+gap	 	
+word	had	
+gap	 	
+word	suffered	
+gap	 	
+word	a	
+gap	 	
+word	few	
+gap	 	
+word	years	
+gap	 	
+word	before	
+gap	. 	
+word	The	
+gap	 	
+word	defendant	
+gap	 	
+word	was	
+gap	 	
+word	held	
+gap	 	
+word	liable	
+gap	 	
+word	for	
+gap	 	
+word	psychiatric	
+gap	 	
+word	illness	
+gap	. 	
+word	It	
+gap	 	
+word	was	
+gap	 	
+word	laid	
+gap	 	
+word	down	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	defendant	
+gap	 	
+word	could	
+gap	 	
+word	only	
+gap	 	
+word	be	
+gap	 	
+word	liable	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	risk	
+gap	 	
+word	of	
+gap	 	
+word	psychiatric	
+gap	 	
+word	illness	
+gap	 	
+word	was	
+gap	 	
+word	reasonably	
+gap	 	
+word	foreseen	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	risk	
+gap	 	
+word	of	
+gap	 	
+word	physical	
+gap	 	
+word	injury	
+gap	 	
+word	was	
+gap	 	
+word	foreseen	
+gap	. 	
+word	There	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	earlier	
+gap	 	
+word	case	
+gap	 	
+word	of	
+gap	 	
+word	Bourhill	
+gap	 	
+word	v	
+gap	 	
+word	Young	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	claimant	
+gap	 	
+word	who	
+gap	 	
+word	was	
+gap	 	
+word	just	
+gap	 	
+word	a	
+gap	 	
+word	bystander	
+gap	 	
+word	miscarried	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	witnessing	
+gap	 	
+word	a	
+gap	 	
+word	motorcycle	
+gap	 	
+word	accident	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	distance	
+gap	. 	
+word	Held	
+gap	, 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	foreseeable	
+gap	 	
+word	victim	
+gap	. 	
+word	The	
+gap	 	
+word	law	
+gap	 	
+word	is	
+gap	 	
+word	rather	
+gap	 	
+word	absurd	
+gap	 	
+word	because	
+gap	 	
+word	had	
+gap	 	
+word	she	
+gap	 	
+word	suffered	
+gap	 	
+word	physical	
+gap	 	
+word	injury	
+gap	 	
+word	she	
+gap	 	
+word	could	
+gap	 	
+word	have	
+gap	 	
+word	recovered	
+gap	 	
+word	for	
+gap	 	
+word	that	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	her	
+gap	 	
+word	mental	
+gap	 	
+word	trauma	
+gap	 	
+word	but	
+gap	 	
+word	since	
+gap	 	
+word	she	
+gap	 	
+word	didn	
+gap	'	
+word	t	
+gap	, 	
+word	she	
+gap	 	
+word	could	
+gap	 	
+word	not	
+gap	 	
+word	recover	
+gap	 	
+word	for	
+gap	 	
+word	anything	
+gap	 . [1996] 1 	
+word	AC	CAP NNP
+gap	 155 [1943] 	
+word	AC	
+gap	 92 	
+word	Tort	
+gap	, 	
+word	Hedley	
+gap	, 	
+word	Steve	
+gap	. 	
+word	Fourth	
+gap	 	
+word	Edition	
+gap	 - 2004, 	
+word	LexisNexis	
+gap	 	
+word	Butterworths	
+gap	 @ 	
+word	pg	
+gap	. 80 	
+word	Alcock	
+gap	 	
+word	v	
+gap	 	
+word	Chief	
+gap	 	
+word	Constable	
+gap	 	
+word	of	
+gap	 	
+word	South	
+gap	 	
+word	Yorkshire	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	case	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	relatives	
+gap	 	
+word	and	
+gap	 	
+word	friends	
+gap	 	
+word	of	
+gap	 	
+word	Hillsborough	
+gap	 	
+word	disaster	
+gap	 	
+word	victims	
+gap	 	
+word	brought	
+gap	 	
+word	claims	
+gap	. 	
+word	It	
+gap	 	
+word	failed	
+gap	 	
+word	because	
+gap	 	
+word	there	
+gap	 	
+word	was	
+gap	 	
+word	no	
+gap	 	
+word	sufficient	
+gap	 	
+word	proximity	
+gap	 	
+word	in	
+gap	 '	
+word	time	
+gap	 	
+word	and	
+gap	 	
+word	space	
+gap	'. 	
+word	The	
+gap	 	
+word	people	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	suffer	
+gap	 	
+word	injury	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	witnessing	
+gap	 	
+word	the	
+gap	 	
+word	incident	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 "	
+word	immediate	
+gap	 	
+word	aftermath	
+gap	". 	
+word	The	
+gap	 	
+word	court	
+gap	 	
+word	also	
+gap	 	
+word	held	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	people	
+gap	 	
+word	who	
+gap	 	
+word	brought	
+gap	 	
+word	the	
+gap	 	
+word	claims	
+gap	 	
+word	had	
+gap	 	
+word	no	
+gap	 	
+word	close	
+gap	 	
+word	tie	
+gap	 	
+word	of	
+gap	 	
+word	love	
+gap	 	
+word	and	
+gap	 	
+word	affection	
+gap	. 	
+word	It	
+gap	 	
+word	was	
+gap	 	
+word	restricted	
+gap	 	
+word	to	
+gap	 	
+word	spouses	
+gap	, 	
+word	parent	
+gap	 	
+word	and	
+gap	 	
+word	children	
+gap	 	
+word	of	
+gap	 	
+word	victims	
+gap	. 	
+word	Psychiatric	
+gap	 	
+word	illness	
+gap	 	
+word	resulting	
+gap	 	
+word	from	
+gap	 	
+word	witnessing	
+gap	 	
+word	the	
+gap	 	
+word	incident	
+gap	 	
+word	on	
+gap	 	
+word	TV	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	actionable	
+gap	. 	
+word	The	
+gap	 	
+word	judges	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	had	
+gap	 	
+word	the	
+gap	 	
+word	floodgates	
+gap	 	
+word	issue	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	back	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	mind	
+gap	 	
+word	when	
+gap	 	
+word	they	
+gap	 	
+word	limited	
+gap	 	
+word	the	
+gap	 	
+word	persons	
+gap	 	
+word	who	
+gap	 	
+word	could	
+gap	 	
+word	bring	
+gap	 	
+word	an	
+gap	 	
+word	action	
+gap	 	
+word	for	
+gap	 	
+word	damages	
+gap	. 	
+word	In	
+gap	 	
+word	Chadwick	
+gap	 	
+word	v	
+gap	 	
+word	British	
+gap	 	
+word	Railways	
+gap	 	
+word	Board	
+gap	 	
+word	the	
+gap	 	
+word	claimant	
+gap	 	
+word	assisted	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Lewisham	
+gap	 	
+word	Train	
+gap	 	
+word	crash	
+gap	 	
+word	by	
+gap	 	
+word	giving	
+gap	 	
+word	injections	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	injured	
+gap	 	
+word	by	
+gap	 	
+word	crawling	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	collided	
+gap	 	
+word	trains	
+gap	. 	
+word	He	
+gap	 	
+word	suffered	
+gap	 	
+word	clinical	
+gap	 	
+word	depression	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	witnessing	
+gap	 	
+word	the	
+gap	 	
+word	incident	
+gap	 	
+word	and	
+gap	 	
+word	committed	
+gap	 	
+word	suicide	
+gap	. 	
+word	His	
+gap	 	
+word	wife	
+gap	 	
+word	could	
+gap	 	
+word	recover	
+gap	 	
+word	since	
+gap	 	
+word	rescuers	
+gap	 	
+word	were	
+gap	 	
+word	primary	
+gap	 	
+word	victims	
+gap	. 	
+word	Contrasting	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	of	
+gap	 	
+word	White	
+gap	 	
+word	v	
+gap	 	
+word	Chief	
+gap	 	
+word	Constable	
+gap	 	
+word	of	
+gap	 	
+word	South	
+gap	 	
+word	Yorkshire	
+gap	 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	policemen	
+gap	 	
+word	who	
+gap	 	
+word	had	
+gap	 	
+word	assisted	
+gap	 	
+word	the	
+gap	 	
+word	victims	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Hillsborough	
+gap	 	
+word	football	
+gap	 	
+word	disaster	
+gap	 	
+word	could	
+gap	 	
+word	not	
+gap	 	
+word	recover	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	harm	
+gap	 	
+word	suffered	
+gap	. 	
+word	Held	
+gap	, 	
+word	rescuers	
+gap	 	
+word	were	
+gap	 	
+word	not	
+gap	 	
+word	primary	
+gap	 	
+word	victims	
+gap	 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	special	
+gap	 	
+word	category	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	. 	
+word	But	
+gap	 	
+word	Lord	
+gap	 	
+word	Steyn	
+gap	 	
+word	has	
+gap	 	
+word	said	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	should	
+gap	 	
+word	not	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	difference	
+gap	 	
+word	because	
+gap	: 	
+word	a	
+gap	 	
+word	rescuer	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	rescuer	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	rescuer	
+gap	 . 	
+word	In	
+gap	 	
+word	McLoughlin	
+gap	 	
+word	v	
+gap	 	
+word	O	
+gap	' 	
+word	Brian	
+gap	 	
+word	the	
+gap	 	
+word	House	
+gap	 	
+word	of	
+gap	 	
+word	Lords	
+gap	 	
+word	held	
+gap	, 	
+word	liability	
+gap	 	
+word	was	
+gap	 	
+word	owed	
+gap	 	
+word	only	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	claimant	
+gap	 	
+word	was	
+gap	 	
+word	present	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	scene	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	incident	
+gap	, 	
+word	or	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	 	
+word	who	
+gap	 	
+word	witnessed	
+gap	 	
+word	the	
+gap	 	
+word	incident	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 "	
+word	immediate	
+gap	 	
+word	aftermath	
+gap	" 	
+word	and	
+gap	 	
+word	had	
+gap	 	
+word	ties	
+gap	 	
+word	of	
+gap	 	
+word	love	
+gap	 	
+word	and	
+gap	 	
+word	affection	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	victim	
+gap	. [1991] 4 	
+word	All	
+gap	 	
+word	ER	
+gap	 907 [1967] 2 	
+word	All	
+gap	 	
+word	ER	
+gap	 97 [1999] 1 	
+word	All	
+gap	 	
+word	ER	
+gap	 1 '	
+word	Nervous	
+gap	 	
+word	Shock	
+gap	: 	
+word	Wider	
+gap	 	
+word	still	
+gap	 & 	
+word	wider	
+gap	?' [1997] 	
+word	CLJ	
+gap	 254 @ 	
+word	pg	
+gap	. 255. [1983] 	
+word	AC	
+gap	 410 	
+word	The	
+gap	 '	
+word	secondary	
+gap	 	
+word	victims	
+gap	' 	
+word	are	
+gap	 	
+word	to	
+gap	 	
+word	prove	
+gap	 	
+word	that	
+gap	 	
+word	close	
+gap	 	
+word	friends	
+gap	 	
+word	or	
+gap	 	
+word	relatives	
+gap	 	
+word	witnessed	
+gap	 	
+word	a	
+gap	 '	
+word	shocking	
+gap	' 	
+word	event	
+gap	. 	
+word	Another	
+gap	 	
+word	important	
+gap	 	
+word	area	
+gap	 	
+word	under	
+gap	 	
+word	tort	
+gap	 	
+word	law	
+gap	 	
+word	is	
+gap	 	
+word	Economic	
+gap	 	
+word	loss	
+gap	. 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	principle	
+gap	 	
+word	pure	
+gap	 	
+word	economic	
+gap	 	
+word	loss	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	recoverable	
+gap	 	
+word	unless	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	consequential	
+gap	 	
+word	to	
+gap	 	
+word	physical	
+gap	 	
+word	loss	
+gap	 . 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	contract	
+gap	 	
+word	law	
+gap	 	
+word	but	
+gap	 	
+word	tort	
+gap	 	
+word	fills	
+gap	 	
+word	in	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	gaps	
+gap	 	
+word	created	
+gap	 	
+word	by	
+gap	 	
+word	contract	
+gap	 	
+word	law	
+gap	. 	
+word	Here	
+gap	 	
+word	it	
+gap	 	
+word	only	
+gap	 	
+word	compensates	
+gap	 	
+word	losses	
+gap	, 	
+word	but	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	restore	
+gap	 	
+word	status	
+gap	 	
+word	quo	
+gap	 	
+word	like	
+gap	 	
+word	under	
+gap	 	
+word	the	
+gap	 	
+word	other	
+gap	 	
+word	areas	
+gap	. 	
+word	It	
+gap	 	
+word	also	
+gap	 	
+word	redresses	
+gap	 	
+word	the	
+gap	 	
+word	wrongs	
+gap	 	
+word	done	
+gap	 	
+word	by	
+gap	 	
+word	contract	
+gap	 	
+word	law	
+gap	. 	
+word	Tort	
+gap	 	
+word	law	
+gap	 	
+word	provides	
+gap	 	
+word	remedies	
+gap	 	
+word	for	
+gap	 	
+word	strangers	
+gap	 	
+word	too	
+gap	 . 	
+word	Spartan	
+gap	 	
+word	Steel	
+gap	 & 	
+word	Metal	
+gap	 	
+word	Alloys	
+gap	 	
+word	v	
+gap	 	
+word	Martin	
+gap	 & 	
+word	Co	
+gap	. [1972] 	
+word	QB	
+gap	 27. 	
+word	Duty	
+gap	 	
+word	of	
+gap	 	
+word	Care	
+gap	 & 	
+word	Economic	
+gap	 	
+word	Loss	
+gap	: 	
+word	A	
+gap	 	
+word	wider	
+gap	 	
+word	agenda	
+gap	 (1991) 107 	
+word	LQR	
+gap	 249 @ 	
+word	pg	
+gap	. 249 	
+word	Hedley	
+gap	 	
+word	Byrne	
+gap	 & 	
+word	Co	
+gap	 	
+word	Ltd	
+gap	. 	
+word	v	
+gap	 	
+word	Heller	
+gap	 	
+word	and	
+gap	 	
+word	Partners	
+gap	 	
+word	Ltd	
+gap	 . 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	leading	
+gap	 	
+word	case	
+gap	 	
+word	which	
+gap	 	
+word	says	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	 	
+word	is	
+gap	 	
+word	responsible	
+gap	 	
+word	for	
+gap	 	
+word	economic	
+gap	 	
+word	loss	
+gap	 	
+word	arising	
+gap	 	
+word	out	
+gap	 	
+word	of	
+gap	 	
+word	negligent	
+gap	 	
+word	misstatement	
+gap	 	
+word	if	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	special	
+gap	 	
+word	relationship	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	parties	
+gap	 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	voluntary	
+gap	 	
+word	assumption	
+gap	 	
+word	of	
+gap	 	
+word	responsibility	
+gap	. 	
+word	These	
+gap	 	
+word	restrictions	
+gap	 	
+word	are	
+gap	 	
+word	placed	
+gap	 	
+word	reduce	
+gap	 	
+word	the	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	cases	
+gap	 	
+word	coming	
+gap	 	
+word	before	
+gap	 	
+word	the	
+gap	 	
+word	court	
+gap	, 	
+word	i	
+gap	.	
+word	e	
+gap	., 	
+word	the	
+gap	 	
+word	floodgate	
+gap	 	
+word	issue	
+gap	. 	
+word	If	
+gap	 	
+word	there	
+gap	 	
+word	were	
+gap	 	
+word	a	
+gap	 	
+word	disclaimer	
+gap	 	
+word	then	
+gap	 	
+word	the	
+gap	 	
+word	person	
+gap	 	
+word	is	
+gap	 	
+word	exempt	
+gap	 	
+word	from	
+gap	 	
+word	responsibility	
+gap	; 	
+word	if	
+gap	 	
+word	someone	
+gap	 	
+word	with	
+gap	 	
+word	special	
+gap	 	
+word	skill	
+gap	 	
+word	gives	
+gap	 	
+word	any	
+gap	 	
+word	advice	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	reasonably	
+gap	 	
+word	foreseeable	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	reliance	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	statement	
+gap	 , 	
+word	making	
+gap	 	
+word	him	
+gap	 	
+word	liable	
+gap	 . 	
+word	White	
+gap	 	
+word	v	
+gap	 	
+word	Jones	
+gap	 	
+word	says	
+gap	 	
+word	the	
+gap	 	
+word	relationship	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	solicitor	
+gap	 	
+word	and	
+gap	 	
+word	beneficiary	
+gap	 	
+word	of	
+gap	 	
+word	will	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	fiduciary	
+gap	 	
+word	relationship	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	special	
+gap	 	
+word	one	
+gap	 . [1964] 	
+word	AC	
+gap	 465 	
+word	Smith	
+gap	 	
+word	v	
+gap	 	
+word	Eric	
+gap	 	
+word	S	
+gap	. 	
+word	Bush	
+gap	 [1990] 1 	
+word	AC	
+gap	 831 	
+word	where	
+gap	 	
+word	it	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	foreseen	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	purchaser	
+gap	 	
+word	would	
+gap	 	
+word	rely	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	surveyor	
+gap	'	
+word	s	
+gap	 	
+word	statement	
+gap	 	
+word	even	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	made	
+gap	 	
+word	to	
+gap	 	
+word	her	
+gap	 	
+word	directly	
+gap	. 	
+word	Per	
+gap	 	
+word	Lord	
+gap	 	
+word	Morrison	
+gap	 	
+word	in	
+gap	 	
+word	Hedley	
+gap	 	
+word	Byrne	
+gap	 	
+word	v	
+gap	 	
+word	Heller	
+gap	 & 	
+word	Partners	
+gap	 [1995] 1 	
+word	All	
+gap	 	
+word	ER	
+gap	 691 	
+word	Per	
+gap	 	
+word	Lord	
+gap	 	
+word	Browne	
+gap	 	
+word	Wilkinson	
+gap	 	
+word	in	
+gap	 	
+word	White	
+gap	 	
+word	v	
+gap	 	
+word	Jones	
+gap	 	
+word	Another	
+gap	 	
+word	important	
+gap	 	
+word	yet	
+gap	 	
+word	rare	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	tort	
+gap	 	
+word	law	
+gap	 	
+word	is	
+gap	 	
+word	awarding	
+gap	 	
+word	punitive	
+gap	 	
+word	damages	NN
+gap	 (	
+word	exemplary	
+gap	 	
+word	damages	
+gap	). 	
+word	These	
+gap	 	
+word	are	
+gap	 	
+word	only	
+gap	 	
+word	awarded	
+gap	 	
+word	if	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	required	
+gap	 	
+word	for	
+gap	 	
+word	adequately	
+gap	 	
+word	punishing	
+gap	 	
+word	the	
+gap	 	
+word	defendant	
+gap	 . 	
+word	Rookes	
+gap	 	
+word	v	
+gap	 	
+word	Barnard	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	authority	
+gap	 	
+word	on	
+gap	 	
+word	this	
+gap	, 	
+word	it	
+gap	 	
+word	says	
+gap	 	
+word	that	
+gap	 	
+word	punitive	
+gap	 	
+word	damages	
+gap	 	
+word	can	
+gap	 	
+word	only	
+gap	 	
+word	be	
+gap	 	
+word	awarded	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	person	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	servant	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Government	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	commission	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	tort	
+gap	; 	
+word	he	
+gap	 	
+word	committed	
+gap	 	
+word	it	
+gap	 	
+word	because	
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	figured	
+gap	 	
+word	he	
+gap	 	
+word	would	
+gap	 	
+word	make	
+gap	 	
+word	more	
+gap	 	
+word	money	
+gap	 	
+word	than	
+gap	 	
+word	he	
+gap	 	
+word	would	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	pay	
+gap	 	
+word	as	
+gap	 	
+word	damages	
+gap	 	
+word	or	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	statutory	
+gap	 	
+word	award	
+gap	 . 	
+word	Tort	
+gap	 	
+word	Law	
+gap	, 	
+word	McBride	
+gap	, 	
+word	Nicholas	
+gap	 	
+word	J	
+gap	 & 	
+word	Bagshaw	
+gap	, 	
+word	Roderick	
+gap	. 	
+word	Second	
+gap	 	
+word	Edition	
+gap	 - 2005, 	
+word	Pearson	
+gap	 	
+word	Longman	
+gap	 @ 	
+word	pg	
+gap	. 673. [1964] 	
+word	AC	
+gap	 1129 	
+word	Tort	
+gap	 	
+word	Law	
+gap	, 	
+word	McBride	
+gap	, 	
+word	Nicholas	
+gap	 	
+word	J	
+gap	 & 	
+word	Bagshaw	
+gap	, 	
+word	Roderick	
+gap	. 	
+word	Second	
+gap	 	
+word	Edition	
+gap	 - 2005, 	
+word	Pearson	
+gap	 	
+word	Longman	
+gap	 @ 	
+word	pg	
+gap	. 676. 	
+word	CONCLUSION	
+gap	: 	
+word	Having	
+gap	 	
+word	looked	
+gap	 	
+word	at	
+gap	 	
+word	few	
+gap	 	
+word	important	
+gap	 	
+word	areas	
+gap	 	
+word	under	
+gap	 	
+word	tort	
+gap	 	
+word	law	
+gap	 	
+word	one	
+gap	 	
+word	would	
+gap	 	
+word	think	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	law	
+gap	 	
+word	deals	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	issues	
+gap	. 	
+word	If	
+gap	 	
+word	a	
+gap	 	
+word	case	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	fall	
+gap	 	
+word	under	
+gap	 	
+word	any	
+gap	 	
+word	other	
+gap	 	
+word	civil	
+gap	 	
+word	law	
+gap	, 	
+word	it	
+gap	 	
+word	falls	
+gap	 	
+word	under	
+gap	 	
+word	tort	
+gap	. 	
+word	But	
+gap	 	
+word	we	
+gap	 	
+word	can	
+gap	 	
+word	see	
+gap	 	
+word	that	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	does	
+gap	 	
+word	tort	
+gap	 	
+word	law	
+gap	 	
+word	deal	
+gap	 	
+word	with	
+gap	 	
+word	cases	
+gap	 	
+word	which	
+gap	 	
+word	other	
+gap	 	
+word	branches	
+gap	 	
+word	of	
+gap	 	
+word	law	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	deal	
+gap	 	
+word	with	
+gap	 	
+word	but	
+gap	 	
+word	also	
+gap	 	
+word	ones	
+gap	 	
+word	that	
+gap	 	
+word	fall	
+gap	 	
+word	under	
+gap	 	
+word	categories	
+gap	 	
+word	of	
+gap	 	
+word	law	
+gap	, 	
+word	like	
+gap	 	
+word	contract	
+gap	 	
+word	law	
+gap	 (	
+word	economic	
+gap	 	
+word	loss	
+gap	 - 	
+word	contractual	
+gap	 	
+word	breach	
+gap	). 	
+word	Again	
+gap	, 	
+word	the	
+gap	 	
+word	aim	
+gap	 	
+word	of	
+gap	 	
+word	tort	
+gap	 	
+word	law	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	to	
+gap	 	
+word	punish	
+gap	 	
+word	people	
+gap	, 	
+word	but	
+gap	 	
+word	to	
+gap	 	
+word	compensate	
+gap	 	
+word	the	
+gap	 	
+word	party	
+gap	 	
+word	and	
+gap	 	
+word	restore	
+gap	 	
+word	status	
+gap	 	
+word	quo	
+gap	. 	
+word	The	
+gap	 	
+word	award	
+gap	 	
+word	of	
+gap	 	
+word	punitive	
+gap	 	
+word	damages	
+gap	 	
+word	falls	
+gap	 	
+word	under	
+gap	 	
+word	criminal	
+gap	 	
+word	law	
+gap	. 	
+word	These	
+gap	 	
+word	only	
+gap	 	
+word	increase	
+gap	 	
+word	the	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	cases	
+gap	. 	
+word	But	
+gap	 	
+word	exemplary	
+gap	 	
+word	damages	
+gap	 	
+word	are	
+gap	 	
+word	only	
+gap	 	
+word	awarded	
+gap	 	
+word	rarely	
+gap	. 	
+word	Usually	
+gap	 	
+word	regular	
+gap	 	
+word	or	
+gap	 	
+word	special	
+gap	 	
+word	damages	
+gap	 	
+word	are	
+gap	 	
+word	awarded	
+gap	. 	
+word	Tort	
+gap	 	
+word	law	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	there	
+gap	 	
+word	for	
+gap	 	
+word	centuries	
+gap	 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	sudden	
+gap	 	
+word	change	
+gap	, 	
+word	the	
+gap	 	
+word	judges	
+gap	 	
+word	cannot	
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	deal	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	areas	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reject	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	rest	NN
+gap	; 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	address	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	claims	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	injured	
+gap	 	
+word	party	NN
+gap	. 	
+word	Yet	CAP CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	desirable	JJ PRED
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	tort	NN
+gap	 	
+word	law	NN
+gap	 	
+word	limited	VBD
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	scope	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	promote	INF
+gap	 	
+word	efficiency	NN
+gap	. 	
+word	Yet	RB CAP
+gap	 	
+word	another	DET
+gap	 	
+word	important	JJ
+gap	 	
+word	problem	NN
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	tort	NN
+gap	 	
+word	law	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	lacks	VPRT
+gap	 	
+word	coherence	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	look	VPRT
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cases	NN
+gap	 	
+word	above	PIN PLACE PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	notice	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	conflicting	JJ
+gap	 	
+word	decisions	NOMZ
+gap	. 	
+word	Judges	PRIV NN CAP
+gap	 	
+word	mostly	RB
+gap	 	
+word	decide	VPRT PRIV SUAV
+gap	 	
+word	cases	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	policy	NN
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	relying	PGAS
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	precedents	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	incoherence	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	problem	NN
+gap	 	
+word	prevailing	GER WZPRES PGAS
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	times	NN
+gap	 	
+word	immemorial	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	welcome	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	tort	NN
+gap	 	
+word	law	NN
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	coherent	JJ
+gap	, 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	judges	PRIV NN
+gap	 	
+word	follow	VPRT
+gap	 	
+word	the	ART DET
+gap	 '	
+word	rule	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	precedents	NN
+gap	', 	
+word	there	EX
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	automatically	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	coherence	NN
+gap	. 	
+word	And	ANDC CAP CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	concentrates	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	primary	JJ
+gap	 	
+word	aim	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	compensating	GER PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	injuries	NN
+gap	 	
+word	suffered	VBD
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	tries	VPRT
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	extend	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	, 	
+word	then	RB
+gap	 	
+word	tort	NN
+gap	 	
+word	law	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	certain	JJ
+gap	. 	
+word	Extending	PRESP CAP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	increase	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	cases	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	would	PRMD
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	law	NN
+gap	 	
+word	inefficient	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	incoherent	JJ
+gap	 	
+word	which	DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	desirable	JJ
+gap	.	

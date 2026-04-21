@@ -1,992 +1,1749 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2485.1327.txt
-token	tags
-  	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-present	INF
-and	PHC CCONJ
-discuss	INF
-the	ART DET
-idea	NN
-proposed	SUAV WZPAST
-in	PIN CONJ PREP
-Alan	CAP NNP
-Turing	CAP NNP
-’s	
-most	RB EMPH SPADJ
-cited	
-academical	JJ
-work	NN
-,	
-namely	RB CONJ
-,	
-Computing	CAP NNP
-Machinery	CAP NNP
-and	PHC CCONJ
-Intelligence	CAP NNP
-.	
-This	DEMO CAP DET
-work	NN
-is	PASS VPRT AUXB
-claimed	PUBV
-as	PIN CONJ PREP
-one	NUM
-of	PIN PREP
-the	ART DET
-keystones	NN
-upon	PIN SCONJ PREP
-which	PIRE DET WH
-Artificial	CAP NNP
-Intelligence	CAP NNP
-(	
-AI	CAP NNP
-)	
-has	VPRT PEAS
-been	AUXB
-developing	GER PGAS
-since	OSUB PIN SCONJ PREP
-the	ART DET
-advent	NN
-of	PIN PREP
-digital	JJ
-computers	NN
-in	PIN CONJ PREP
-the	ART DET
-first	JJ
-half	NN
-of	PIN PREP
-the	ART DET
-20th	JJ
-century	NN
-.	
- 	
-The	ART CAP DET
-first	JJ
-half	NN
-of	PIN PREP
-the	ART DET
-past	JJ
-century	NN
-was	PASS VBD BYPA AUXB
-marked	
-by	PIN PREP
-strong	JJ
-concept	NN
-proofs	NN
-and	PHC CCONJ
-developments	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-Computer	CAP NNP
-Science	CAP NNP
-field	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-Turing	CAP NNP
-Machines	CAP NNP
--	
-a	ART DET INDA
-theoretical	JJ
-computational	JJ
-model	NN
-capable	JJ
-of	PIN PREP
-proving	PRIV PGAS
-whether	PIN SCONJ PREP
-or	CCONJ
-not	XX0 RB
-a	ART DET INDA
-given	
-problem	NN
-is	BEMA VPRT AUXB
-computable	JJ PRED
--	
-,	
-the	ART DET
-first	JJ
-general	JJ
--	
-purpose	NN
-digital	JJ
-computer	NN
-,	
-and	ANDC CCONJ
-so	RB
-on	RB PIN STPR PREP
-.	
-Among	PIN CAP PREP
-the	ART DET
-greatest	JJ SPADJ
-names	NN
-is	VPRT AUXB
-Alan	CAP NNP
-Turing	CAP NNP
-,	
-regarded	VBD
-as	PIN CONJ PREP
-the	ART DET
-father	NN
-of	PIN PREP
-modern	JJ
-computing	NN
-and	CCONJ
-acknowledged	PUBV
-by	PIN PREP
-his	TPP3 PRP SBJP
-direct	JJ
-and	PHC CCONJ
-indirect	JJ
-contributions	NOMZ
-to	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-varied	JJ
-fields	NN
-of	PIN PREP
-action	NOMZ
-.	
-The	ART CAP DET
-work	NN
-here	RB
-to	PIN TO PREP
-be	PASS AUXB INF
-discussed	
-establishes	PRIV NN
-one	NUM
-of	PIN PREP
-the	ART DET
-first	JJ
-statements	NOMZ
-regarding	WZPRES PGAS
-Artificial	CAP NNP
-Intelligence	CAP NNP
-.	
- 	
-In	PIN CONJ CAP PREP
-the	ART DET
-paper	NN
-,	
-Turing	CAP PGAS
-proposes	VPRT SUAV
-a	ART DET INDA
-simple	JJ
-test	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-way	NN
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-whether	PIN SCONJ PREP
-or	CCONJ
-not	XX0 RB
-a	ART DET INDA
-given	
-computer	NN
-is	PASS VPRT AUXB
-endowed	
-with	PIN PREP
-intelligence	NN
-.	
-The	ART CAP DET
-test	NN
-comprises	VPRT
-two	NUM
-players	NN
-,	
-a	ART DET INDA
-man	NN
-(	
-A	CAP NNP
-)	
-and	ANDC CCONJ
-a	ART DET INDA
-woman	NN
-(	
-B	CAP NNP
-)	
-,	
-and	ANDC CCONJ
-one	NUM
-digital	JJ
-computer	NN
-.	
-The	ART CAP DET
-players	NN
-and	CCONJ
-the	ART DET
-computer	NN
-are	PASS VPRT SPAU AUXB
-physically	RB
-separated	
-and	CCONJ
-the	ART DET
-test	NN
-is	PASS VPRT AUXB
-performed	
-in	PIN CONJ PREP
-a	ART DET INDA
-question	NOMZ
--	
-answering	PGAS
-fashion	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-computer	NN
-performs	VPRT
-questions	NOMZ
-about	PIN PREP
-any	QUAN DET
-topic	NN
-it	PIT PRP SBJP
-finds	VPRT PRIV
-useful	JJ
-to	PIN TO PREP
-unveil	INF
-the	ART DET
-true	JJ
-identity	NOMZ
-of	PIN PREP
-the	ART DET
-individuals	NN
-,	
-however	RB CONJ
-,	
-one	NUM
-of	PIN PREP
-the	ART DET
-players	NN
-’	
-goal	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-provide	INF
-misleading	GER PGAS
-responses	NN
-whereas	OSUB PIN SCONJ PREP
-the	ART DET
-other	JJ
-one	NUM
-must	NEMD SPAU
-always	RB
-give	INF
-correct	JJ
-answers	NN
-.	
-By	PIN CAP PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-endeavor	NN
-,	
-a	ART DET INDA
-computer	NN
-is	PASS VPRT AUXB
-said	PUBV
-intelligent	JJ
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-capable	JJ PRED
-of	PIN PREP
-realizing	PRIV PGAS
-the	ART DET
-individuals	NN
-’	
-correct	JJ
-identities	NN
-.	
- 	
-However	RB CONJ CAP
-,	
-Alan	CAP NNP
-Turing	WZPRES CAP PGAS
-itself	PIT PRP SBJP ACCU
-presents	NN
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-counterpart	NN
-,	
-the	ART DET
-argument	NOMZ
-of	PIN PREP
-consciousness	NOMZ
-.	
-For	PIN CAP PREP
-some	QUAN DET
-,	
-intelligence	NN
-may	POMD
-be	PASS AUXB INF
-interpreted	
-as	PIN CONJ PREP
-a	ART DET INDA
-creative	JJ
-and	PHC CCONJ
-inventive	JJ
-process	NN
-strictly	RB
-bonded	
-to	PIN PREP
-thoughts	NN
-and	PHC CCONJ
-emotions	NOMZ
-in	PIN CONJ PREP
-such	EMPH DET
-a	ART DET INDA
-way	NN
-that	TOBJ WHOBJ WH
-no	SYNE DET
-machine	NN
-would	PRMD SPAU
-ever	RB
-be	BEMA AUXB INF
-capable	JJ PRED
-of	PIN PREP
-developing	GER PGAS
-.	
-This	DEMO CAP DET
-contrastive	JJ
-point	NN
-of	PIN PREP
-view	NN
-may	POMD
-seem	SMP INF
-a	ART DET INDA
-piece	NN
-of	PIN PREP
-evidence	NN
-for	PIN PREP
-the	ART DET
-non	NN
--	NN
-validity	NOMZ
-of	PIN PREP
-the	ART DET
-aforementioned	JJ
-Turing	CAP PGAS
-test	NN
-and	CCONJ
-might	POMD SPAU
-even	RB
-suggest	PUBV SUAV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-only	JJ DWNT
-way	NN
-one	PRP SBJP
-could	POMD
-conclude	PRIV INF
-that	PIN THVC SCONJ PREP
-machines	NN
-think	VPRT PRIV
-is	BEMA VPRT AUXB
-through	PIN PREP
-being	BEMA AUXB
-a	ART DET INDA
-machine	NN
-and	CCONJ
-recognizing	GER PRIV PGAS
-itself	PIT PRP SBJP ACCU
-as	PIN CONJ PREP
-a	ART DET INDA
-thinking	PRIV NN
-being	NN
-,	
-what	WH
-we	FPP1 PRP SBJP
-nowadays	RB TIME
-call	VPRT
-Singularity	NOMZ CAP
-.	
-Likewise	RB CONJ CAP
-,	
-one	NUM
-valid	JJ
-conclusion	NOMZ
-that	TSUB WHSUB WH
-can	POMD
-branch	INF
-from	PIN PREP
-this	DEMO DET
-argument	NOMZ
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-only	JJ DWNT
-way	NN
-to	PIN TO PREP
-tell	INF
-whether	PIN SCONJ PREP
-a	ART DET INDA
-human	JJ
-being	NN
-thinks	PRIV NN
-or	CCONJ
-not	XX0 RB
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-be	BEMA AUXB INF
-that	PIN DEMO SCONJ PREP
-human	JJ
-being	AUXB
-itself	PIT PRP SBJP ACCU
-.	
- 	
-The	ART CAP DET
-intelligence	NN
-test	NN
-can	POMD
-be	PASS AUXB INF
-framed	
-into	PIN PREP
-a	ART DET INDA
-wide	JJ
-variety	NN
-of	PIN PREP
-displays	NN
-related	WZPAST
-to	PIN PREP
-interactions	NOMZ
-between	PIN PREP
-humans	NN
-and	PHC CCONJ
-machines	NN
-.	
-One	CAP NUM
-possible	JJ
-display	NN
-of	PIN PREP
-the	ART DET
-test	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-well	RB
--	
-known	PRIV THATD
-approach	NN
-named	
-Viva	CAP NNP
-Voce	CAP NNP
-that	DEMP WH
-is	PASS VPRT SPAU AUXB
-often	RB
-applied	
-to	PIN PREP
-real	JJ
--	
-world	NN
-situations	NOMZ
-.	
-Viva	CAP NNP
-Voce	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-very	AMP RB
-specific	JJ
-type	NN
-of	PIN PREP
-exam	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-,	
-instead	RB CONJ
-of	PIN PREP
-answering	PGAS
-written	PUBV
-questions	NOMZ
-,	
-the	ART DET
-individuals	NN
-are	PASS VPRT AUXB
-given	
-spoken	
-questions	NOMZ
-and	CCONJ
-their	TPP3 PRP SBJP
-performances	NN
-are	PASS VPRT AUXB
-evaluated	
-based	
-on	PIN PREP
-their	TPP3 PRP SBJP
-abilities	NN
-to	PIN TO PREP
-demonstrate	PRIV INF
-sufficient	JJ
-knowledge	NN
-about	PIN PREP
-the	ART DET
-specific	JJ
-subject	NN
-.	
-To	PIN TO CAP PREP
-cast	INF
-the	ART DET
-original	JJ
-formulation	NOMZ
-of	PIN PREP
-Turing	CAP PGAS
-test	NN
-in	PIN CONJ PREP
-this	DEMO DET
-type	NN
-of	PIN PREP
-exam	NN
-,	
-suppose	PRIV INF
-instead	RB CONJ
-of	PIN PREP
-three	NUM
-parts	NN
-,	
-the	ART DET
-test	NN
-has	VPRT
-now	RB TIME
-only	DWNT RB
-two	NUM
-,	
-the	ART DET
-computer	NN
-and	CCONJ
-one	NUM
-of	PIN PREP
-the	ART DET
-persons	NN
-,	
-either	CCONJ
-the	ART DET
-man	NN
-or	CCONJ
-the	ART DET
-woman	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-spoken	JJ
-fashion	NN
-,	
-the	ART DET
-human	JJ
-participant	NN
-would	PRMD
-be	BEMA AUXB INF
-responsible	JJ PRED
-for	PIN PREP
-conjecturing	GER PRIV PGAS
-questions	NOMZ
-about	PIN PREP
-a	ART DET INDA
-topic	NN
-whereas	OSUB PIN SCONJ PREP
-the	ART DET
-machine	NN
-has	VPRT
-the	ART DET
-obligation	NOMZ
-to	PIN TO PREP
-answer	INF
-the	ART DET
-questions	NOMZ
-.	
-A	ART CAP DET INDA
-machine	NN
-passes	VPRT
-the	ART DET
-test	NN
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-capable	JJ PRED
-of	PIN PREP
-satisfactorily	RB
-answer	INF
-the	ART DET
-formulation	NOMZ
-as	RB CONJ
-inventively	RB
-as	PIN CONJ PREP
-a	ART DET INDA
-human	NN
-would	PRMD
-do	PROD INF
-.	
- 	
-Alan	CAP NNP
-Turing	CAP NNP
-’s	
-perspective	NN
-in	PIN CONJ PREP
-the	ART DET
-proposed	SUAV THATD
-work	NN
-was	BEMA VBD AUXB
-that	PIN STPR DEMP SCONJ PREP
-,	
-by	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-century	NN
-,	
-there	EX
-would	PRMD
-have	INF
-such	JJ
-advancements	NOMZ
-in	PIN CONJ PREP
-computational	JJ
-storage	NN
-and	PHC CCONJ
-power	NN
-that	PIN TOBJ SCONJ PREP
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-natural	JJ PRED
-to	PIN TO PREP
-speak	INF
-about	PIN PREP
-machine	NN
-intelligence	NN
-without	PIN PREP
-even	RB
-be	PASS AUXB INF
-criticized	
-or	CCONJ
-questioned	
-.	
-However	RB CONJ CAP
-,	
-nowadays	RB TIME
-,	
-almost	DWNT RB
-70	NUM
-years	NN
-since	OSUB PIN SCONJ PREP
-his	TPP3 PRP SBJP
-work	NN
-was	PASS VBD AUXB
-released	
-,	
-what	WHQU WH
-can	POMD
-be	PASS AUXB INF
-said	PUBV
-about	PIN PREP
-the	ART DET
-state	PUBV NN
-of	PIN PREP
-Artificial	CAP NNP
-Intelligence	CAP NNP
-systems	NN
-?	QUES
-What	WHQU CAP WH
-are	BEMA VPRT AUXB
-the	ART DET
-main	JJ
-challenges	NN
-?	QUES
-Was	BEMA VBD AUXB CAP
-any	QUAN DET
-system	NN
-capable	JJ
-of	PIN PREP
-passing	PGAS
-Turing	CAP PGAS
-test	NN
-?	QUES
- 	
-Indeed	RB CAP
-,	
-as	PIN CONJ PREP
-Turing	CAP NNP
-expected	VBD PRIV
-,	
-the	ART DET
-advancements	NOMZ
-in	PIN CONJ PREP
-processing	GER
-and	PHC CCONJ
-storage	NN
-were	BEMA VBD AUXB
-quite	RB
-remarkable	JJ
-in	PIN CONJ PREP
-the	ART DET
-last	JJ
-decades	NN
-,	
-however	RB CONJ
-,	
-not	XX0 RB
-enough	JJ
-.	
-With	PIN CAP PREP
-the	ART DET
-advent	NN
-of	PIN PREP
-social	JJ
-media	NN
-and	CCONJ
-mobile	JJ
-devices	NN
-,	
-the	ART DET
-quantity	NOMZ
-of	PIN PREP
-data	NN
-produced	WZPAST
-daily	RB
-(	
-approximately	RB
-2.5	NUM
-x	
-1018	NUM
-bytes	NN
-)	
-is	BEMA VPRT AUXB
-way	RB
-above	PIN PLACE PREP
-the	ART DET
-current	JJ
-processing	GER
-and	PHC CCONJ
-storage	NN
-capacity	NOMZ
-.	
-Data	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-key	JJ
-ingredient	NN
-in	PIN CONJ PREP
-building	PGAS
-powerful	JJ
-artificial	JJ
-intelligence	NN
-systems	NN
-,	
-nonetheless	RB CONJ
-,	
-contemporary	JJ
-approaches	NN
-are	PASS VPRT BYPA SPAU AUXB
-still	RB
-bounded	
-by	PIN PREP
-the	ART DET
-available	JJ
-processors	NN
-’	
-capacities	NN
-and	CCONJ
-the	ART DET
-ability	NOMZ
-to	PIN TO PREP
-handle	INF
-and	PHC CCONJ
-gather	PRIV INF
-representative	JJ
-data	NN
-points	NN
-to	PIN PREP
-the	ART DET
-construction	NOMZ
-of	PIN PREP
-such	JJ
-systems	NN
-.	
- 	
-Actual	JJ CAP
-AI	CAP NNP
-systems	NN
-are	BEMA VPRT AUXB
-capable	JJ PRED
-of	PIN PREP
-satisfactorily	RB
-perform	INF
-a	ART DET INDA
-series	NN
-of	PIN PREP
-tasks	NN
-like	PIN PREP
-text	NN
-/	
-image	NN
-classification	NOMZ
-,	
-anomaly	NNP
-detection	NOMZ
-,	
-clusterization	NOMZ
-,	
-and	ANDC CCONJ
-so	RB
-on	RB PIN STPR PREP
-,	
-however	RB CONJ
-,	
-they	TPP3 PRP SBJP
-have	VPRT PEAS
-shown	PRIV THATD
-a	ART DET INDA
-poor	JJ
-performance	NN
-regarding	WZPRES PGAS
-natural	JJ
-tasks	NN
-for	PIN PREP
-humans	NN
-such	JJ
-as	PIN CONJ PREP
-walking	PGAS
-,	
-identifying	GER PGAS
-sarcasm	NN
-,	
-talking	NN
-and	PHC CCONJ
-speech	NN
-recognition	NNP
--	
-the	ART DET
-latter	JJ
-two	NUM
-specifically	RB
-related	
-to	PIN PREP
-Turing	CAP PGAS
-’s	
-test	NN
-.	
-Many	QUAN JJ CAP
-companies	NN
-like	PIN PREP
-Google	CAP NNP
-,	
-Apple	CAP NNP
-,	
-IBM	CAP NNP
-,	
-Microsoft	CAP NNP
-and	PHC CCONJ
-Amazon	CAP NNP
-have	VPRT PEAS
-been	AUXB
-trying	PGAS
-to	PIN TO PREP
-develop	INF
-efficient	JJ
-ways	NN
-to	PIN TO PREP
-synthesize	INF
-and	PHC CCONJ
-understand	PRIV INF
-speech	NN
-at	PIN PREP
-an	ART DET INDA
-acceptable	JJ
-level	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-way	NN
-to	PIN TO PREP
-aggregate	INF
-value	NN
-to	PIN PREP
-their	TPP3 PRP SBJP
-final	JJ
-products	NN
-and	CCONJ
-,	
-one	NUM
-recent	JJ
-announcement	NOMZ
-from	PIN PREP
-Google	CAP NNP
-suggested	VBD PUBV SUAV
-that	PIN THVC SCONJ PREP
-their	TPP3 PRP SBJP
-artificial	JJ
-intelligence	NN
-system	NN
-passed	VBD
-the	ART DET
-Turing	CAP PGAS
-test	NN
-,	
-a	ART DET INDA
-still	RB
-difficult	JJ
-task	NN
-,	
-nonetheless	RB CONJ
-,	
-easier	JJ CMADJ
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-accomplished	
-by	PIN PREP
-Google	CAP NNP
-due	PIN PREP
-to	PIN PREP
-its	PIT PRP SBJP
-extensive	JJ
-amount	NN
-of	PIN PREP
-relevant	NN
-.	
-The	ART CAP DET
-main	JJ
-challenges	NN
-yet	RB
-to	PIN TO PREP
-be	BEMA AUXB INF
-unsolved	JJ PRED
-are	BEMA VPRT AUXB
-to	PIN TO PREP
-develop	INF
-a	ART DET INDA
-consistent	JJ
-way	NN
-to	PIN TO PREP
-build	INF
-artificial	JJ
-intelligence	NN
-systems	NN
-without	PIN PREP
-the	ART DET
-necessity	NOMZ
-for	PIN PREP
-big	JJ
-loads	NN
-of	PIN PREP
-data	NN
-and	CCONJ
-to	PIN TO PREP
-reduce	INF
-cultural	JJ
-and	PHC CCONJ
-negative	JJ
-biases	NN
-(	
-racism	NN
-,	
-misogyny	NNP
-,	
-xenophobia	NNP
-,	
-etc	X
-.	X
-)	
-from	PIN PREP
-the	ART DET
-learning	PRIV PGAS
-procedure	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2485.1327>\n\n	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	present	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	discuss	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	proposed	SUAV WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Alan	CAP NNP
+gap	 	
+word	Turing	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	cited	
+gap	 	
+word	academical	JJ
+gap	 	
+word	work	NN
+gap	, 	
+word	namely	RB CONJ
+gap	, 	
+word	Computing	CAP NNP
+gap	 	
+word	Machinery	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Intelligence	CAP NNP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	work	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	claimed	PUBV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	keystones	NN
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	Artificial	CAP NNP
+gap	 	
+word	Intelligence	CAP NNP
+gap	 (	
+word	AI	CAP NNP
+gap	) 	
+word	has	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	advent	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	digital	JJ
+gap	 	
+word	computers	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	half	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 20	
+word	th	JJ
+gap	 	
+word	century	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	half	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	past	JJ
+gap	 	
+word	century	NN
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	marked	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	strong	JJ
+gap	 	
+word	concept	NN
+gap	 	
+word	proofs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	developments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Computer	CAP NNP
+gap	 	
+word	Science	CAP NNP
+gap	 	
+word	field	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Turing	CAP NNP
+gap	 	
+word	Machines	CAP NNP
+gap	 - 	
+word	a	ART DET INDA
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	computational	JJ
+gap	 	
+word	model	NN
+gap	 	
+word	capable	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	proving	PRIV PGAS
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	given	
+gap	 	
+word	problem	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	computable	JJ PRED
+gap	 -, 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	general	JJ
+gap	-	
+word	purpose	NN
+gap	 	
+word	digital	JJ
+gap	 	
+word	computer	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	on	RB PIN STPR PREP
+gap	. 	
+word	Among	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	greatest	JJ SPADJ
+gap	 	
+word	names	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	Alan	CAP NNP
+gap	 	
+word	Turing	CAP NNP
+gap	, 	
+word	regarded	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	father	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	computing	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	acknowledged	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	direct	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	indirect	JJ
+gap	 	
+word	contributions	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	varied	JJ
+gap	 	
+word	fields	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	action	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	work	NN
+gap	 	
+word	here	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	discussed	
+gap	 	
+word	establishes	PRIV NN
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	statements	NOMZ
+gap	 	
+word	regarding	WZPRES PGAS
+gap	 	
+word	Artificial	CAP NNP
+gap	 	
+word	Intelligence	CAP NNP
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	paper	NN
+gap	, 	
+word	Turing	CAP PGAS
+gap	 	
+word	proposes	VPRT SUAV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	simple	JJ
+gap	 	
+word	test	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	given	
+gap	 	
+word	computer	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	endowed	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	intelligence	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	test	NN
+gap	 	
+word	comprises	VPRT
+gap	 	
+word	two	NUM
+gap	 	
+word	players	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	man	NN
+gap	 (	
+word	A	CAP NNP
+gap	) 	
+word	and	ANDC CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	woman	NN
+gap	 (	
+word	B	CAP NNP
+gap	), 	
+word	and	ANDC CCONJ
+gap	 	
+word	one	NUM
+gap	 	
+word	digital	JJ
+gap	 	
+word	computer	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	players	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	computer	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	physically	RB
+gap	 	
+word	separated	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	test	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	performed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	question	NOMZ
+gap	-	
+word	answering	PGAS
+gap	 	
+word	fashion	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	computer	NN
+gap	 	
+word	performs	VPRT
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	topic	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	finds	VPRT PRIV
+gap	 	
+word	useful	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	unveil	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	true	JJ
+gap	 	
+word	identity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individuals	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	players	NN
+gap	’ 	
+word	goal	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	misleading	GER PGAS
+gap	 	
+word	responses	NN
+gap	 	
+word	whereas	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	one	NUM
+gap	 	
+word	must	NEMD SPAU
+gap	 	
+word	always	RB
+gap	 	
+word	give	INF
+gap	 	
+word	correct	JJ
+gap	 	
+word	answers	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	endeavor	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	computer	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	said	PUBV
+gap	 	
+word	intelligent	JJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	realizing	PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	individuals	NN
+gap	’ 	
+word	correct	JJ
+gap	 	
+word	identities	NN
+gap	.\n	
+word	However	RB CONJ CAP
+gap	, 	
+word	Alan	CAP NNP
+gap	 	
+word	Turing	WZPRES CAP PGAS
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	 	
+word	presents	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	counterpart	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	consciousness	NOMZ
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	some	QUAN DET
+gap	, 	
+word	intelligence	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	interpreted	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	creative	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	inventive	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	strictly	RB
+gap	 	
+word	bonded	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	thoughts	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	emotions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	machine	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	ever	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	developing	GER PGAS
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	contrastive	JJ
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	seem	SMP INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	piece	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	evidence	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	non	NN
+gap	-	
+word	validity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	aforementioned	JJ
+gap	 	
+word	Turing	CAP PGAS
+gap	 	
+word	test	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	might	POMD SPAU
+gap	 	
+word	even	RB
+gap	 	
+word	suggest	PUBV SUAV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	way	NN
+gap	 	
+word	one	PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	conclude	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	machines	NN
+gap	 	
+word	think	VPRT PRIV
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	machine	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	recognizing	GER PRIV PGAS
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	thinking	PRIV NN
+gap	 	
+word	being	NN
+gap	, 	
+word	what	WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	nowadays	RB TIME
+gap	 	
+word	call	VPRT
+gap	 	
+word	Singularity	NOMZ CAP
+gap	. 	
+word	Likewise	RB CONJ CAP
+gap	, 	
+word	one	NUM
+gap	 	
+word	valid	JJ
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	can	POMD
+gap	 	
+word	branch	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	only	JJ DWNT
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tell	INF
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	human	JJ
+gap	 	
+word	being	NN
+gap	 	
+word	thinks	PRIV NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	being	AUXB
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	intelligence	NN
+gap	 	
+word	test	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	framed	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wide	JJ
+gap	 	
+word	variety	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	displays	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	humans	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	machines	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	possible	JJ
+gap	 	
+word	display	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	test	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	well	RB
+gap	-	
+word	known	PRIV THATD
+gap	 	
+word	approach	NN
+gap	 	
+word	named	
+gap	 	
+word	Viva	CAP NNP
+gap	 	
+word	Voce	CAP NNP
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	often	RB
+gap	 	
+word	applied	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	real	JJ
+gap	-	
+word	world	NN
+gap	 	
+word	situations	NOMZ
+gap	. 	
+word	Viva	CAP NNP
+gap	 	
+word	Voce	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	specific	JJ
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	exam	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	, 	
+word	instead	RB CONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	answering	PGAS
+gap	 	
+word	written	PUBV
+gap	 	
+word	questions	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	individuals	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	given	
+gap	 	
+word	spoken	
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	performances	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	evaluated	
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	abilities	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	demonstrate	PRIV INF
+gap	 	
+word	sufficient	JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	specific	JJ
+gap	 	
+word	subject	NN
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	cast	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	original	JJ
+gap	 	
+word	formulation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Turing	CAP PGAS
+gap	 	
+word	test	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	exam	NN
+gap	, 	
+word	suppose	PRIV INF
+gap	 	
+word	instead	RB CONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	three	NUM
+gap	 	
+word	parts	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	test	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	now	RB TIME
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	two	NUM
+gap	, 	
+word	the	ART DET
+gap	 	
+word	computer	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	persons	NN
+gap	, 	
+word	either	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	man	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	woman	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	spoken	JJ
+gap	 	
+word	fashion	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	participant	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	responsible	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	conjecturing	GER PRIV PGAS
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	topic	NN
+gap	 	
+word	whereas	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	machine	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	obligation	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	answer	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	questions	NOMZ
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	machine	NN
+gap	 	
+word	passes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	test	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	satisfactorily	RB
+gap	 	
+word	answer	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	formulation	NOMZ
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	inventively	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	human	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	do	PROD INF
+gap	.\n	
+word	Alan	CAP NNP
+gap	 	
+word	Turing	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	perspective	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	proposed	SUAV THATD
+gap	 	
+word	work	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	century	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	would	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	such	JJ
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	computational	JJ
+gap	 	
+word	storage	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	power	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	natural	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	speak	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	machine	NN
+gap	 	
+word	intelligence	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	even	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	criticized	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	questioned	
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	nowadays	RB TIME
+gap	, 	
+word	almost	DWNT RB
+gap	 70 	
+word	years	NN
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	released	
+gap	, 	
+word	what	WHQU WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	said	PUBV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Artificial	CAP NNP
+gap	 	
+word	Intelligence	CAP NNP
+gap	 	
+word	systems	NN
+gap	? 	
+word	What	WHQU CAP WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	challenges	NN
+gap	? 	
+word	Was	BEMA VBD AUXB CAP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	system	NN
+gap	 	
+word	capable	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	passing	PGAS
+gap	 	
+word	Turing	CAP PGAS
+gap	 	
+word	test	NN
+gap	? \n	
+word	Indeed	RB CAP
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Turing	CAP NNP
+gap	 	
+word	expected	VBD PRIV
+gap	, 	
+word	the	ART DET
+gap	 	
+word	advancements	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	processing	GER
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	storage	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	quite	RB
+gap	 	
+word	remarkable	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	last	JJ
+gap	 	
+word	decades	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	enough	JJ
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	advent	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	media	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	mobile	JJ
+gap	 	
+word	devices	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	quantity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	data	NN
+gap	 	
+word	produced	WZPAST
+gap	 	
+word	daily	RB
+gap	 (	
+word	approximately	RB
+gap	 2.5 	
+word	x	
+gap	 1018 	
+word	bytes	NN
+gap	) 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	way	RB
+gap	 	
+word	above	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	current	JJ
+gap	 	
+word	processing	GER
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	storage	NN
+gap	 	
+word	capacity	NOMZ
+gap	. 	
+word	Data	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	key	JJ
+gap	 	
+word	ingredient	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	building	PGAS
+gap	 	
+word	powerful	JJ
+gap	 	
+word	artificial	JJ
+gap	 	
+word	intelligence	NN
+gap	 	
+word	systems	NN
+gap	, 	
+word	nonetheless	RB CONJ
+gap	, 	
+word	contemporary	JJ
+gap	 	
+word	approaches	NN
+gap	 	
+word	are	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	bounded	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	available	JJ
+gap	 	
+word	processors	NN
+gap	’ 	
+word	capacities	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	handle	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	gather	PRIV INF
+gap	 	
+word	representative	JJ
+gap	 	
+word	data	NN
+gap	 	
+word	points	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	construction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	such	JJ
+gap	 	
+word	systems	NN
+gap	. \n	
+word	Actual	JJ CAP
+gap	 	
+word	AI	CAP NNP
+gap	 	
+word	systems	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	satisfactorily	RB
+gap	 	
+word	perform	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	series	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	tasks	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	text	NN
+gap	/	
+word	image	NN
+gap	 	
+word	classification	NOMZ
+gap	, 	
+word	anomaly	NNP
+gap	 	
+word	detection	NOMZ
+gap	, 	
+word	clusterization	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	on	RB PIN STPR PREP
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	shown	PRIV THATD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	poor	JJ
+gap	 	
+word	performance	NN
+gap	 	
+word	regarding	WZPRES PGAS
+gap	 	
+word	natural	JJ
+gap	 	
+word	tasks	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	humans	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	walking	PGAS
+gap	, 	
+word	identifying	GER PGAS
+gap	 	
+word	sarcasm	NN
+gap	, 	
+word	talking	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	speech	NN
+gap	 	
+word	recognition	NNP
+gap	 - 	
+word	the	ART DET
+gap	 	
+word	latter	JJ
+gap	 	
+word	two	NUM
+gap	 	
+word	specifically	RB
+gap	 	
+word	related	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Turing	CAP PGAS
+gap	’	
+word	s	
+gap	 	
+word	test	NN
+gap	. 	
+word	Many	QUAN JJ CAP
+gap	 	
+word	companies	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	Google	CAP NNP
+gap	, 	
+word	Apple	CAP NNP
+gap	, 	
+word	IBM	CAP NNP
+gap	, 	
+word	Microsoft	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Amazon	CAP NNP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	trying	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	efficient	JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	synthesize	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	speech	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	acceptable	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	aggregate	INF
+gap	 	
+word	value	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	final	JJ
+gap	 	
+word	products	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	one	NUM
+gap	 	
+word	recent	JJ
+gap	 	
+word	announcement	NOMZ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	Google	CAP NNP
+gap	 	
+word	suggested	VBD PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	artificial	JJ
+gap	 	
+word	intelligence	NN
+gap	 	
+word	system	NN
+gap	 	
+word	passed	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	Turing	CAP PGAS
+gap	 	
+word	test	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	still	RB
+gap	 	
+word	difficult	JJ
+gap	 	
+word	task	NN
+gap	, 	
+word	nonetheless	RB CONJ
+gap	, 	
+word	easier	JJ CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	accomplished	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Google	CAP NNP
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	extensive	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	relevant	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	challenges	NN
+gap	 	
+word	yet	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	unsolved	JJ PRED
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	consistent	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	build	INF
+gap	 	
+word	artificial	JJ
+gap	 	
+word	intelligence	NN
+gap	 	
+word	systems	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	necessity	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	big	JJ
+gap	 	
+word	loads	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	data	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	cultural	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	negative	JJ
+gap	 	
+word	biases	NN
+gap	 (	
+word	racism	NN
+gap	, 	
+word	misogyny	NNP
+gap	, 	
+word	xenophobia	NNP
+gap	, 	
+word	etc	X
+gap	.) 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	procedure	NN
+gap	.	

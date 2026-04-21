@@ -1,1536 +1,2672 @@
 # filename: SS_Sociology_Essay_1_0140d_tx.txt
-token	tags
-The	ART CAP DET
-speed	NN
-and	PHC CCONJ
-vigour	NN
-with	PIN PREP
-which	PIRE DET WH
-democratisation	NOMZ
-has	VPRT PEAS
-occurred	
-in	PIN CONJ PREP
-places	NN
-ranging	WZPRES PGAS
-from	PIN PREP
-Argentina	CAP NNP
-to	PIN PREP
-South	CAP NNP
-Korea	CAP NNP
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-the	ART DET
-new	JJ
-political	JJ
-ideas	NN
-and	PHC CCONJ
-influences	NN
-on	PIN PREP
-previously	RB TIME
-closed	
-authoritarian	JJ
-political	JJ
-systems	NN
-'	CONT VPRT QUOT
-have	VPRT PEAS
-prompted	
-many	QUAN JJ
-observers	NN
-in	PIN CONJ PREP
-recent	JJ
-years	NN
-to	PIN TO PREP
-claim	PUBV THATD INF
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-we	FPP1 PRP SBJP
-are	BEMA VPRT AUXB
-all	QUAN DET
-democrats	NNP
-now	RB TIME
-"	QUOT
-(	
-Fukuyama	CAP NNP
-1989	NUM
-)	
-.	
-Democracy	NN CAP
--	
-it	PIT PRP SBJP
-would	PRMD
-seem	SMP INF
--	
-has	VPRT PEAS
-ceased	
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-contention	NOMZ
-and	CCONJ
-has	VPRT PEAS
-become	
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-convention	NOMZ
-'	CONT QUOT
-(	
-Weale	CAP NNP
-,	
-1999	NUM
-,	
-pp	NNP
-.	
-1	NUM
-)	
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-clear	JJ PRED
-that	PIN THAC SCONJ PREP
-the	ART DET
-legacy	NN
-of	PIN PREP
-authoritarian	JJ
-rule	SUAV NN
-is	BEMA VPRT AUXB
-far	RB PLACE
-from	PIN PREP
-extinct	JJ
-,	
-for	PIN PREP
-example	NN
-,	
-in	PIN CONJ PREP
-China	CAP NNP
-,	
-the	ART DET
-violent	JJ
-putting	PGAS
-down	PIN PREP
-of	PIN PREP
-the	ART DET
-democracy	NN
-demonstrations	NOMZ
-in	PIN CONJ PREP
-Tiananmen	CAP NNP
-Square	CAP NNP
-and	CCONJ
-the	ART DET
-following	PGAS
-persecution	NOMZ
-and	PHC CCONJ
-imprisonment	NOMZ
-of	PIN PREP
-political	JJ
-dissidents	NN
-.	
-Also	RB CAP
-,	
-one	PRP SBJP
-may	POMD
-look	INF
-at	PIN PREP
-the	ART DET
-consequences	NN
-of	PIN PREP
-the	ART DET
-collapse	NN
-of	PIN PREP
-communist	JJ
-and	PHC CCONJ
-authoritarian	JJ
-systems	NN
-where	RB WHOBJ SCONJ WH
-,	
-far	RB PLACE
-from	PIN PREP
-leading	PGAS
-to	PIN PREP
-liberal	JJ
-democracies	NN
-,	
-these	DEMO DET
-collapses	NN
-have	VPRT PEAS
-lead	
-to	PIN PREP
-examples	NN
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-civil	JJ
-war	NN
-in	PIN CONJ PREP
-Bosnia	CAP NNP
-and	CCONJ
-war	NN
-in	PIN CONJ PREP
-Chechnya	CAP NNP
-(	
-effects	NN
-of	PIN PREP
-which	PIRE DET WH
-are	VPRT SPAU AUXB
-still	RB
-being	PASS AUXB
-felt	PRIV
-today	TIME NN
-)	
-.	
-Thirdly	RB CAP
-,	
-even	RB
-in	PIN CONJ PREP
-well	RB
-established	PRIV
-'	CONT QUOT
-democratic	JJ
-'	CONT QUOT
-political	JJ
-systems	NN
-,	
-there	EX
-are	VPRT AUXB
-persistent	JJ PRED
-and	PHC CCONJ
-pertinent	JJ PRED
-questions	NOMZ
-about	PIN PREP
-the	ART DET
-quality	NOMZ
-and	PHC CCONJ
-performance	NN
-of	PIN PREP
-such	EMPH DET
-a	ART DET INDA
-political	JJ
-party	NN
-.	
-Apart	RB CAP
-from	PIN PREP
-the	ART DET
-flaws	NN
-in	PIN CONJ PREP
-the	ART DET
-practical	JJ
-implementation	NOMZ
-of	PIN PREP
-democracy	NN
-,	
-as	PIN CONJ PREP
-the	ART DET
-theoretical	JJ
-foundations	NOMZ
-of	PIN PREP
-democracy	NN
-do	VPRT SPAU
-not	XX0 RB
-elicit	INF
-as	RB CONJ
-much	QUAN JJ
-widespread	JJ
-agreement	NOMZ
-as	PIN CONJ PREP
-the	ART DET
-point	NN
-supposes	VPRT PRIV
-either	RB
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-perhaps	RB
-a	ART DET INDA
-good	JJ
-idea	NN
-to	PIN TO PREP
-weigh	INF
-the	ART DET
-arguments	NOMZ
-for	PIN PREP
-and	CCONJ
-against	PIN PREP
-such	EMPH DET
-a	ART DET INDA
-political	JJ
-system	NN
-.	
-The	ART CAP DET
-different	JJ
-types	NN
-of	PIN PREP
-democracy	NN
-all	QUAN DET
-presume	VPRT PRIV
-that	PIN THVC SCONJ PREP
-those	DEMO DET
-people	NN
-living	WZPRES PGAS
-together	RB
-in	PIN CONJ PREP
-society	NN
-need	INF
-a	ART DET INDA
-process	NN
-allowing	WZPRES SUAV PGAS
-them	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-arrive	INF
-at	PIN PREP
-binding	PGAS
-decisions	NOMZ
-that	TSUB WHSUB WH
-take	VPRT
-into	PIN PREP
-account	NN
-the	ART DET
-interests	NN
-of	PIN PREP
-everyone	QUPR INPR
-.	
-One	CAP NUM
-common	JJ
-justification	NOMZ
-for	PIN PREP
-democratic	JJ
-rule	SUAV NN
-argues	VPRT PUBV
-that	PIN THVC SCONJ PREP
-people	NN
-are	BEMA VPRT AUXB
-generally	RB
-the	ART DET
-best	JJ SPADJ
-judge	PRIV NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-interests	NN
-with	PIN PREP
-the	ART DET
-argument	NOMZ
-that	PIN TOBJ SCONJ PREP
-equal	JJ
-citizenship	NN
-rights	NN
-are	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-protect	INF
-those	DEMO DET
-interests	NN
-,	
-(	
-and	ANDC CCONJ
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-better	JJ CMADJ
-way	NN
-to	PIN TO PREP
-minimize	INF
-the	ART DET
-abuse	NN
-of	PIN PREP
-political	JJ
-power	NN
-than	PIN PREP
-to	PIN TO PREP
-distribute	INF
-it	PIT PRP SBJP
-equally	RB
-.	
-)	
-This	DEMO CAP DET
-instrumentalist	JJ
-justification	NOMZ
-could	POMD SPAU
-thus	RB CONJ
-be	PASS AUXB INF
-said	PUBV
-to	PIN TO PREP
-include	INF
-the	ART DET
-assumption	NOMZ
-of	PIN PREP
-fallibilism	NN
--	
-the	ART DET
-belief	NN
-that	PIN TOBJ SCONJ PREP
-no	SYNE DET
-one	NN
-occupies	VPRT
-a	ART DET INDA
-privileged	JJ
-position	NOMZ
-with	PIN PREP
-respect	NN
-to	PIN PREP
-their	TPP3 PRP SBJP
-political	JJ
-knowledge	NN
-or	CCONJ
-judgment	NOMZ
-and	ANDC CCONJ
-that	DEMO DET
-contestation	NOMZ
-and	PHC CCONJ
-criticism	NN
-of	PIN PREP
-what	WH
-at	PIN PREP
-any	QUAN DET
-other	JJ
-time	NN
-is	PASS VPRT AUXB
-judged	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-in	PIN CONJ PREP
-the	ART DET
-public	JJ
-interest	NN
-is	BEMA VPRT AUXB
-therefore	RB CONJ
-necessary	JJ
-.	
-'	CONT QUOT
-Therefore	RB CONJ CAP
-,	
-democratic	JJ
-institutions	NOMZ
-are	PASS VPRT AUXB
-justified	
-as	PIN CONJ PREP
-those	DEMO DET
-practices	NN
-that	TSUB WHSUB WH
-promote	VPRT
-and	PHC CCONJ
-protect	INF
-the	ART DET
-common	JJ
-interests	NN
-of	PIN PREP
-the	ART DET
-members	NN
-of	PIN PREP
-a	ART DET INDA
-political	JJ
-community	NOMZ
-,	
-when	RB SCONJ WH
-those	DEMO DET
-persons	NN
-regard	VPRT
-themselves	TPP3 PRP SBJP ACCU
-as	PIN CONJ PREP
-political	JJ
-equals	NN
-under	PIN PREP
-conditions	NOMZ
-of	PIN PREP
-human	JJ
-fallibility	NOMZ
-'	CONT QUOT
-(	
-Weale	CAP NNP
-,	
-1999	NUM
-,	
-pp	NNP
-.	
-42	NUM
-)	
-.	
-Another	CAP DET
-complementary	JJ
-justification	NOMZ
-is	BEMA VPRT AUXB
-that	DEMO DET
-popular	JJ
-rule	SUAV NN
-expresses	VPRT
-and	PHC CCONJ
-encourages	VPRT
-the	ART DET
-autonomy	NN
-or	CCONJ
-self	NN
-determination	NOMZ
-,	
-of	PIN PREP
-individuals	NN
-under	PIN PREP
-conditions	NOMZ
-of	PIN PREP
-social	JJ
-interdependence	NN
-,	
-where	RB SCONJ WH
-many	QUAN JJ
-matters	NN
-must	NEMD
-be	PASS AUXB INF
-decided	PRIV SUAV
-collectively	RB
-.	
-However	RB CONJ CAP
-,	
-Lakoff	CAP NNP
-(	
-1996	NUM
-)	
-has	VPRT PEAS
-pointed	
-out	PIN PREP
-that	PIN DEMO SCONJ PREP
-there	EX
-are	VPRT AUXB
-at	RB PIN PREP
-least	RB SPADJ
-three	NUM
-forms	NN
-of	PIN PREP
-autonomy	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS
-been	PASS AUXB
-associated	
-with	PIN PREP
-the	ART DET
-idea	NN
-of	PIN PREP
-democracy	NN
-.	
-The	ART CAP DET
-first	JJ
-is	BEMA VPRT AUXB
-that	DEMO DET
-of	PIN PREP
-communal	JJ
-autonomy	NN
-,	
-or	CCONJ
-the	ART DET
-notion	NOMZ
-that	PIN TOBJ SCONJ PREP
-a	ART DET INDA
-political	JJ
-unit	NN
-should	NEMD
-be	BEMA AUXB INF
-independent	JJ PRED
-of	PIN PREP
-outside	JJ PLACE
-control	NN
-.	
-The	ART CAP DET
-second	JJ
-form	NN
-is	BEMA VPRT AUXB
-that	DEMO DET
-of	PIN PREP
-plural	JJ
-autonomy	NN
-,	
-or	CCONJ
-the	ART DET
-idea	NN
-that	PIN TOBJ SCONJ PREP
-different	JJ
-social	JJ
-groups	NN
-should	NEMD
-share	INF
-in	PIN CONJ PREP
-political	JJ
-power	NN
-.	
-Held	PRIV CAP
-sets	VPRT
-out	PIN PREP
-a	ART DET INDA
-similar	JJ
-notion	NOMZ
-when	RB WHOBJ SCONJ WH
-he	TPP3 PRP SBJP
-claims	VPRT PUBV THATD
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-the	ART DET
-principle	NN
-of	PIN PREP
-autonomy	NN
-entrenched	WZPAST
-in	PIN CONJ PREP
-democratic	JJ
-public	JJ
-law	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-an	ART DET INDA
-individualistic	JJ
-principle	NN
-of	PIN PREP
-self	NN
--	
-determination	NOMZ
-,	
-but	CCONJ
-a	ART DET INDA
-structural	JJ
-principle	NN
-of	PIN PREP
-self	NN
-determination	NOMZ
-'	CONT QUOT
-where	RB SCONJ WH
-the	ART DET
-'	CONT QUOT
-self	NN
-'	CONT QUOT
-is	VPRT AUXB
-part	NN
-of	PIN PREP
-the	ART DET
-'	CONT QUOT
-majority	NOMZ
-'	CONT QUOT
-enabled	VBD
-and	PHC CCONJ
-constrained	
-by	PIN PREP
-the	ART DET
-rules	SUAV NN
-and	PHC CCONJ
-procedures	NN
-of	PIN PREP
-democratic	JJ
-life	NN
-.	
-The	ART CAP DET
-third	JJ
-form	NN
-is	BEMA VPRT AUXB
-that	DEMO DET
-of	PIN PREP
-individual	JJ
-autonomy	NN
-,	
-resting	PGAS
-on	PIN PREP
-the	ART DET
-idea	NN
-that	PIN TOBJ SCONJ PREP
-individuals	NN
-should	NEMD
-control	INF
-their	TPP3 PRP SBJP
-own	JJ
-lives	NN
-.	
-A	ART CAP DET INDA
-number	NN
-of	PIN PREP
-writers	NN
-have	VPRT PEAS
-advanced	
-the	ART DET
-principle	NN
-of	PIN PREP
-autonomy	NN
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-individualistic	JJ
-sense	PRIV NN
-as	PIN CONJ PREP
-being	BEMA AUXB
-essential	JJ PRED
-to	PIN PREP
-the	ART DET
-justification	NOMZ
-of	PIN PREP
-democracy	NN
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT BYPA SPAU AUXB
-also	RB
-argued	PUBV
-by	PIN PREP
-some	QUAN DET
-democratic	JJ
-theorists	NN
-that	DEMP WHOBJ WH
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-democracy	NN
-encourages	VPRT
-people	NN
-to	PIN TO PREP
-take	INF
-responsibility	NOMZ
-for	PIN PREP
-their	TPP3 PRP SBJP
-political	JJ
-lives	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-instrumental	JJ PRED
-to	PIN PREP
-human	JJ
-development	NOMZ
-.	
-Others	NN CAP
-are	BEMA VPRT AUXB
-of	PIN PREP
-the	ART DET
-opinion	NN
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-democracy	NN
-represents	VPRT
-fair	JJ
-terms	NN
-of	PIN PREP
-a	ART DET INDA
-social	JJ
-contract	NN
-among	PIN PREP
-people	NN
-who	WHSUB WH
-share	VPRT
-a	ART DET INDA
-territory	NN
-but	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-agree	PUBV SUAV INF
-upon	PIN SCONJ PREP
-a	ART DET INDA
-single	JJ
-conception	NOMZ
-of	PIN PREP
-the	ART DET
-good	NN
-'	CONT QUOT
-(	
-Gutmann	CAP NNP
-,	
-1993	NUM
-,	
-pp	NNP
-.	
-412	NUM
-)	
-.	
-Democracy	NN CAP
-is	PASS VPRT AUXB
-thought	PRIV
-to	PIN TO PREP
-consist	INF
-of	PIN PREP
-co	NN
--	NN
-operation	NOMZ
-,	
-negotiation	NOMZ
-and	ANDC CCONJ
-thus	RB CONJ
-a	ART DET INDA
-fair	JJ
-moral	JJ
-compromise	NN
-from	PIN PREP
-this	DEMO DET
-contractarian	JJ
-viewpoint	NN
-.	
-However	RB CONJ CAP
-,	
-this	DEMO DET
-perspective	NN
-leads	VPRT
-to	PIN PREP
-the	ART DET
-two	NUM
-main	JJ
-paradoxes	NN
-associated	WZPAST
-with	PIN PREP
-democracy	NN
-.	
-Often	RB CAP
-,	
-a	ART DET INDA
-voter	NN
-may	POMD
-vote	SUAV THATD INF
-a	ART DET INDA
-particular	JJ CONJ
-way	NN
-depending	WZPRES PGAS
-on	PIN PREP
-his	TPP3 PRP SBJP
-or	CCONJ
-her	TPP3 PRP SBJP
-personal	JJ
-beliefs	NN
-on	PIN PREP
-the	ART DET
-issue	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-majority	NOMZ
-votes	VPRT SUAV
-the	ART DET
-other	JJ
-way	NN
-the	ART DET
-voter	NN
-is	PASS VPRT AUXB
-caught	
-in	PIN CONJ PREP
-a	ART DET INDA
-clear	JJ
-paradox	NN
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-or	CCONJ
-she	TPP3 PRP SBJP
-being	BEMA AUXB
-a	ART DET INDA
-reasonable	JJ
-person	NN
-and	CCONJ
-democrat	NNP
-must	NEMD SPAU
-now	RB TIME
-believe	PRIV INF
-contradictory	JJ
-things	NN
-:	
-that	PIN THVC SCONJ PREP
-the	ART DET
-outcome	NN
-is	PASS VPRT BYPA SPAU AUXB
-not	XX0 RB
-justified	
-(	
-by	PIN PREP
-the	ART DET
-best	JJ SPADJ
-reasons	PRIV NN
-)	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-justified	
-(	
-because	CAUS PIN SCONJ PREP
-the	ART DET
-majority	NOMZ
-voted	VBD SUAV
-the	ART DET
-other	JJ
-way	NN
-.	
-)	
-Though	CONC PIN CAP SCONJ PREP
-this	DEMO DET
-paradox	NN
-disappears	VPRT
-on	PIN PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-defensible	JJ
-understanding	GER PRIV
-of	PIN PREP
-the	ART DET
-nature	NN
-of	PIN PREP
-the	ART DET
-democrat	NNP
-'s	
-beliefs	NN
-(	
-Honderich	CAP NNP
-,	
-1973	NUM
-;	
-Pennock	CAP NNP
-,	
-1974	NUM
-)	
-,	
-a	ART DET INDA
-second	JJ
-paradox	NN
-explains	VPRT PUBV
-that	PIN THVC SCONJ PREP
-voting	SUAV NN
-is	BEMA VPRT AUXB
-irrational	JJ PRED
-from	PIN PREP
-the	ART DET
-point	NN
-of	PIN PREP
-view	NN
-of	PIN PREP
-the	ART DET
-cost	NN
--	
-benefit	NN
-calculation	NOMZ
-of	PIN PREP
-an	ART DET INDA
-individual	NN
-in	PIN CONJ PREP
-a	ART DET INDA
-large	JJ
-electorate	NN
-.	
-If	COND PIN CAP SCONJ PREP
-most	JJ EMPH SPADJ
-people	NN
-are	PASS VPRT AUXB
-cost	
-benefit	NN
-calculators	NN
-,	
-then	RB
-democracies	NN
-are	VPRT AUXB
-'	CONT VPRT QUOT
-doomed	
-to	PIN TO PREP
-collapse	INF
-under	PIN PREP
-the	ART DET
-weight	NN
-of	PIN PREP
-all	QUAN DET
-the	ART DET
-rational	JJ
-free	JJ
-riders	NN
-on	PIN PREP
-the	ART DET
-system	NN
-'	CONT QUOT
-(	
-Gutmann	CAP NNP
-,	
-pp	NNP
-.	
-419	NUM
-)	
-If	COND PIN CAP SCONJ PREP
-most	JJ EMPH SPADJ
-people	NN
-are	VPRT AUXB
-not	XX0 RB
-,	
-democracies	NN
-depend	VPRT
-on	PIN PREP
-the	ART DET
-irrationality	NOMZ
-of	PIN PREP
-citizens	NN
-.	
-Both	CAP DET
-these	DEMO DET
-paradoxes	NN
-can	POMD
-be	PASS AUXB INF
-developed	
-into	PIN PREP
-arguments	NOMZ
-against	PIN PREP
-democracy	NN
-which	WHOBJ DET WH
-in	PIN CONJ PREP
-turn	NN
-can	POMD
-be	PASS AUXB INF
-grouped	
-under	PIN PREP
-those	DEMP DET
-that	DEMP WH
-are	BEMA VPRT AUXB
-ideological	JJ PRED
-and	ANDC CCONJ
-those	DEMP DET
-that	DEMP WH
-are	BEMA VPRT AUXB
-practical	JJ
-problems	NN
-.	
-Tocqueville	CAP NNP
-identified	VBD
-two	NUM
-of	PIN PREP
-the	ART DET
-former	JJ
-in	PIN CONJ PREP
-particular	JJ CONJ
-,	
-the	ART DET
-first	JJ
-being	AUXB
-tyranny	NN
-of	PIN PREP
-the	ART DET
-majority	NOMZ
-,	
-when	RB SCONJ WH
-he	TPP3 PRP SBJP
-wrote	VBD PUBV
-'	CONT QUOT
-I	FPP1 CAP PRP SBJP
-can	POMD
-imagine	PRIV INF
-no	SYNE DET
-permanent	JJ
-protection	NOMZ
-against	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-galling	JJ
-tyranny	NN
-;	
-and	ANDC CCONJ
-a	ART DET INDA
-greater	JJ CMADJ
-people	NN
-may	POMD
-be	PASS BYPA AUXB INF
-oppressed	
-by	PIN PREP
-a	ART DET INDA
-small	JJ
-faction	NOMZ
-,	
-or	CCONJ
-by	PIN PREP
-a	ART DET INDA
-single	JJ
-individual	NN
-with	PIN PREP
-impunity	NOMZ
-'	CONT QUOT
-(	
-Tocqueville	CAP NNP
-1835	NUM
-)	
-where	RB SCONJ WH
-the	ART DET
-view	NN
-of	PIN PREP
-the	ART DET
-majority	NOMZ
-effectively	RB
-silences	VPRT
-those	DEMO DET
-with	PIN PREP
-other	JJ
-beliefs	NN
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-democracy	NN
-there	EX
-is	VPRT AUXB
-also	RB
-always	RB
-the	ART DET
-problem	NN
-of	PIN PREP
-a	ART DET INDA
-permanent	JJ
-and	PHC CCONJ
-entrenched	JJ
-minority	NOMZ
-whose	WHOBJ DET WH
-views	NN
-and	PHC CCONJ
-opinions	NN
-are	PASS VPRT SPAU AUXB
-never	RB
-heard	PRIV
-or	CCONJ
-acted	
-upon	PIN SCONJ PREP
-simply	RB
-because	CAUS PIN SCONJ PREP
-the	ART DET
-majority	NOMZ
-is	BEMA VPRT AUXB
-always	RB
-against	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-The	ART CAP DET
-other	JJ
-problem	NN
-Tocqueville	CAP NNP
-identified	VBD
-was	BEMA VBD AUXB
-that	DEMO DET
-of	PIN PREP
-individualism	NN
-:	
-'	CONT QUOT
-a	ART DET INDA
-mature	JJ
-and	PHC CCONJ
-calm	JJ
-feeling	PRIV NN
-,	
-which	SERE DET WH
-disposes	VPRT
-each	QUAN DET
-member	NN
-of	PIN PREP
-the	ART DET
-community	NOMZ
-to	PIN TO PREP
-sever	INF
-himself	TPP3 PRP SBJP ACCU
-from	PIN PREP
-the	ART DET
-mass	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-fellows	NN
-'	CONT QUOT
-and	ANDC CCONJ
-while	OSUB PIN SCONJ PREP
-drawing	PGAS
-apart	RB
-with	PIN PREP
-his	TPP3 PRP SBJP
-family	NN
-and	CCONJ
-his	TPP3 PRP SBJP
-friends	NN
-,	
-forming	PRESP PGAS
-a	ART DET INDA
-circle	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-,	
-and	ANDC CCONJ
-finally	RB
-move	SUAV INF
-away	RB PLACE
-willingly	RB
-from	PIN PREP
-society	NN
-.	
-Tocqueville	CAP NNP
-saw	VBD PRIV
-individualism	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-problem	NN
-as	PIN CONJ STPR PREP
-,	
-at	PIN PREP
-first	RB
-while	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-would	PRMD
-only	DWNT RB
-'	CONT QUOT
-sap	NN
-'	CONT QUOT
-the	ART DET
-virtues	NN
-of	PIN PREP
-public	JJ
-life	NN
-,	
-in	PIN CONJ PREP
-the	ART DET
-long	JJ
-run	NN
-would	PRMD
-destroy	INF
-all	QUAN DET
-others	NN
-and	CCONJ
-eventually	RB TIME
-would	PRMD
-be	AUXB INF
-'	CONT QUOT
-absorbed	PASTP
-in	PIN CONJ PREP
-downright	JJ
-selfishness	NOMZ
-.	
-'	CONT QUOT
-Apart	RB CAP
-to	PIN PREP
-this	DEMO DET
-theory	NN
-,	
-however	RB CONJ
-,	
-he	TPP3 PRP SBJP
-also	RB
-recognised	VBD PRIV
-the	ART DET
-'	CONT QUOT
-principle	NN
-of	PIN PREP
-self	NN
--	
-interest	NN
-rightly	RB
-understood	VBD PRIV
-'	CONT QUOT
-whereby	OSUB RB SCONJ WH
-individuals	NN
-'	CONT QUOT
-content	INF
-themselves	TPP3 PRP SBJP ACCU
-with	PIN PREP
-inquiring	PGAS
-whether	PIN SCONJ PREP
-the	ART DET
-personal	JJ
-advantage	NN
-of	PIN PREP
-each	QUAN DET
-member	NN
-of	PIN PREP
-a	ART DET INDA
-community	NOMZ
-does	VPRT SPAU
-not	XX0 RB
-consist	INF
-in	PIN CONJ PREP
-working	PGAS
-for	PIN PREP
-the	ART DET
-good	NN
-of	PIN PREP
-all	QUAN DET
-.	
-'	CONT QUOT
-It	PIT CAP PRP SBJP
-could	POMD
-be	PASS AUXB INF
-argued	PUBV
-that	PIN THVC SCONJ PREP
-Tocqueville	CAP NNP
-did	VBD SPAU
-not	XX0 RB
-base	INF
-his	TPP3 PRP SBJP
-theory	NN
-on	PIN PREP
-hard	JJ
-evidence	NN
-but	CCONJ
-rather	RB
-on	PIN PREP
-his	TPP3 PRP SBJP
-own	JJ
-subjective	JJ
-observations	NOMZ
-.	
-For	PIN CAP PREP
-Amy	CAP NNP
-Gutmann	CAP NNP
-,	
-'	CONT QUOT
-democracy	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-paradoxical	JJ
-,	
-but	CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-disharmonious	JJ PRED
-'	CONT QUOT
-.	
-In	PIN CONJ CAP PREP
-practice	NN
-,	
-under	PIN PREP
-conditions	NOMZ
-of	PIN PREP
-imperfect	JJ
-information	NOMZ
-and	PHC CCONJ
-understanding	GER PRIV
-,	
-public	JJ
-deliberation	NOMZ
-does	VPRT SPAU
-not	XX0 RB
-yield	INF
-knowledge	NN
-of	PIN PREP
-uniquely	RB
-correct	JJ
-resolutions	NOMZ
-to	PIN PREP
-political	JJ
-controversies	NN
-.	
-In	PIN CONJ CAP PREP
-her	TPP3 PRP SBJP
-opinion	NN
-,	
-democracy	NN
-is	PASS VPRT SPAU AUXB
-thus	RB CONJ
-bound	
-to	PIN TO PREP
-be	BEMA AUXB INF
-disharmonious	JJ PRED
-both	DET
-because	CAUS PIN SCONJ PREP
-individuals	NN
-face	VPRT
-hard	JJ
-political	JJ
-choices	NN
-without	PIN PREP
-any	QUAN DET
-assurance	NN
-of	PIN PREP
-finding	PRIV PGAS
-clear	RB
--	
-cut	
-resolutions	NOMZ
-,	
-and	ANDC CCONJ
-because	CAUS PIN SCONJ PREP
-the	ART DET
-conclusions	NOMZ
-of	PIN PREP
-a	ART DET INDA
-'	CONT QUOT
-community	NOMZ
-of	PIN PREP
-deliberators	NN
-'	CONT QUOT
-are	BEMA VPRT AUXB
-likely	JJ PRED
-to	PIN TO PREP
-differ	INF
-when	RB SCONJ WH
-confronted	
-with	PIN PREP
-a	ART DET INDA
-difficult	JJ
-issue	NN
-such	JJ
-as	PIN CONJ PREP
-homosexual	JJ
-marriage	NN
-.	
-Most	JJ EMPH CAP SPADJ
-theorists	NN
-recognise	VPRT PRIV
-the	ART DET
-arguments	NOMZ
-against	PIN PREP
-democracy	NN
-though	CONC PIN SCONJ PREP
-some	QUAN DET
-feel	VPRT PRIV
-that	PIN THVC SCONJ PREP
-even	RB
-if	COND PIN SCONJ PREP
-democracy	NN
-can	POMD SPAU
-not	XX0 RB
-live	INF
-up	PIN PREP
-to	PIN PREP
-its	PIT PRP SBJP
-aspirations	NOMZ
-and	CCONJ
-the	ART DET
-principles	NN
-of	PIN PREP
-human	JJ
-worth	NN
-,	
-autonomy	NN
-,	
-freedom	NN
-,	
-distributive	JJ
-justice	NN
-,	
-equality	NOMZ
-and	CCONJ
-the	ART DET
-rejection	NOMZ
-of	PIN PREP
-tyranny	NN
-invoked	WZPAST
-by	PIN PREP
-Pennock	CAP NNP
-in	PIN CONJ PREP
-his	TPP3 PRP SBJP
-discussion	NOMZ
-of	PIN PREP
-the	ART DET
-justification	NOMZ
-of	PIN PREP
-democratic	JJ
-theory	NN
-(	
-1979	NUM
-,	
-pp	NNP
-.	
-130	NUM
--	
-60	NUM
-)	
-,	
-its	PIT PRP SBJP
-promise	PUBV NN
-on	PIN PREP
-each	QUAN DET
-of	PIN PREP
-these	DEMO DET
-counts	NN
-is	BEMA VPRT AUXB
-greater	JJ PRED CMADJ
-than	PIN PREP
-that	DEMO DET
-of	PIN PREP
-any	QUAN DET
-non	JJ
--	JJ
-democratic	JJ
-government	NOMZ
-.	
-While	OSUB PIN CAP SCONJ PREP
-tyranny	NN
-of	PIN PREP
-the	ART DET
-majority	NOMZ
-,	
-individualism	NN
-and	PHC CCONJ
-problems	NN
-associated	WZPAST
-with	PIN PREP
-conflicting	GER PGAS
-and	CCONJ
-incommensurable	JJ
-values	NN
-are	BEMA VPRT AUXB
-important	JJ
-arguments	NOMZ
-against	PIN PREP
-democracy	NN
-,	
-greater	JJ CMADJ
-public	JJ
-deliberation	NOMZ
-leading	WZPRES PGAS
-to	PIN PREP
-more	RB EMPH CMADJ
-justifiable	JJ
-public	JJ
-policies	NN
-,	
-and	ANDC CCONJ
-a	ART DET INDA
-reduction	NOMZ
-in	PIN CONJ PREP
-political	JJ
-animosity	NOMZ
-and	PHC CCONJ
-violence	NN
-as	PIN CONJ PREP
-citizens	NN
-learn	VPRT PRIV
-to	PIN TO PREP
-respect	INF
-each	QUAN DET
-other	JJ
-as	PIN CONJ PREP
-deliberative	JJ
-,	
-are	BEMA VPRT AUXB
-among	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-inspiring	JJ
-prospects	NN
-democracy	NN
-has	VPRT
-to	PIN TO PREP
-offer	INF
-.	
-There	EX CAP
-will	PRMD SPAU
-always	RB
-be	AUXB INF
-arguments	NOMZ
-for	PIN PREP
-and	CCONJ
-against	PIN PREP
-any	QUAN DET
-social	JJ
-or	CCONJ
-political	JJ
-institution	NOMZ
-;	
-however	RB CONJ
-the	ART DET
-worldwide	JJ
-rapid	JJ
-spread	NN
-of	PIN PREP
-democracy	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-political	JJ
-system	NN
-goes	VPRT
-to	PIN TO PREP
-prove	PRIV INF
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-could	POMD
-be	BEMA AUXB INF
-the	ART DET
-most	RB EMPH SPADJ
-appropriate	JJ
-political	JJ
-system	NN
-for	PIN PREP
-a	ART DET INDA
-modern	JJ
-nation	NOMZ
-state	PUBV NN
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	speed	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	vigour	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	democratisation	NOMZ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	occurred	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	places	NN
+gap	 	
+word	ranging	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	Argentina	CAP NNP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	South	CAP NNP
+gap	 	
+word	Korea	CAP NNP
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	political	JJ
+gap	 	
+word	ideas	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	influences	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	previously	RB TIME
+gap	 	
+word	closed	
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	political	JJ
+gap	 	
+word	systems	NN
+gap	 '	
+word	have	VPRT PEAS
+gap	 	
+word	prompted	
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	observers	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	recent	JJ
+gap	 	
+word	years	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	claim	PUBV THATD INF
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 "	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	democrats	NNP
+gap	 	
+word	now	RB TIME
+gap	" (	
+word	Fukuyama	CAP NNP
+gap	 1989). 	
+word	Democracy	NN CAP
+gap	 - 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	seem	SMP INF
+gap	 - 	
+word	has	VPRT PEAS
+gap	 	
+word	ceased	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	matter	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contention	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	become	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	matter	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	convention	NOMZ
+gap	' (	
+word	Weale	CAP NNP
+gap	, 1999, 	
+word	pp	NNP
+gap	. 1). 	
+word	However	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	clear	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	legacy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	rule	SUAV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	extinct	JJ
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	China	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	violent	JJ
+gap	 	
+word	putting	PGAS
+gap	 	
+word	down	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	democracy	NN
+gap	 	
+word	demonstrations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Tiananmen	CAP NNP
+gap	 	
+word	Square	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	following	PGAS
+gap	 	
+word	persecution	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	imprisonment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	political	JJ
+gap	 	
+word	dissidents	NN
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	one	PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	look	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	consequences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	collapse	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	communist	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	systems	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	, 	
+word	far	RB PLACE
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	leading	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	liberal	JJ
+gap	 	
+word	democracies	NN
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	collapses	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	lead	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	examples	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	civil	JJ
+gap	 	
+word	war	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Bosnia	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	war	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Chechnya	CAP NNP
+gap	 (	
+word	effects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	are	VPRT SPAU AUXB
+gap	 	
+word	still	RB
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	felt	PRIV
+gap	 	
+word	today	TIME NN
+gap	). 	
+word	Thirdly	RB CAP
+gap	, 	
+word	even	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	well	RB
+gap	 	
+word	established	PRIV
+gap	 '	
+word	democratic	JJ
+gap	' 	
+word	political	JJ
+gap	 	
+word	systems	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	persistent	JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	pertinent	JJ PRED
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	performance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	political	JJ
+gap	 	
+word	party	NN
+gap	. 	
+word	Apart	RB CAP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	flaws	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	practical	JJ
+gap	 	
+word	implementation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	democracy	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	foundations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	democracy	NN
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	elicit	INF
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	widespread	JJ
+gap	 	
+word	agreement	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	supposes	VPRT PRIV
+gap	 	
+word	either	RB
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	perhaps	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	idea	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	weigh	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	political	JJ
+gap	 	
+word	system	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	different	JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	democracy	NN
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	presume	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	people	NN
+gap	 	
+word	living	WZPRES PGAS
+gap	 	
+word	together	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	society	NN
+gap	 	
+word	need	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	process	NN
+gap	 	
+word	allowing	WZPRES SUAV PGAS
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	arrive	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	binding	PGAS
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	take	VPRT
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	account	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	interests	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	everyone	QUPR INPR
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	common	JJ
+gap	 	
+word	justification	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	democratic	JJ
+gap	 	
+word	rule	SUAV NN
+gap	 	
+word	argues	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	generally	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	judge	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	interests	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	argument	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	equal	JJ
+gap	 	
+word	citizenship	NN
+gap	 	
+word	rights	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	protect	INF
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	interests	NN
+gap	, (	
+word	and	ANDC CCONJ
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	minimize	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	abuse	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	political	JJ
+gap	 	
+word	power	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	distribute	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	equally	RB
+gap	.) 	
+word	This	DEMO CAP DET
+gap	 	
+word	instrumentalist	JJ
+gap	 	
+word	justification	NOMZ
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	said	PUBV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	include	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	assumption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fallibilism	NN
+gap	 - 	
+word	the	ART DET
+gap	 	
+word	belief	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	one	NN
+gap	 	
+word	occupies	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	privileged	JJ
+gap	 	
+word	position	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	respect	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	political	JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	judgment	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	contestation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	criticism	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	other	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	judged	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	public	JJ
+gap	 	
+word	interest	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	necessary	JJ
+gap	. '	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	democratic	JJ
+gap	 	
+word	institutions	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	justified	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	practices	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	promote	VPRT
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	protect	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	common	JJ
+gap	 	
+word	interests	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	members	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	political	JJ
+gap	 	
+word	community	NOMZ
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	persons	NN
+gap	 	
+word	regard	VPRT
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	political	JJ
+gap	 	
+word	equals	NN
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	fallibility	NOMZ
+gap	' (	
+word	Weale	CAP NNP
+gap	, 1999, 	
+word	pp	NNP
+gap	. 42). 	
+word	Another	CAP DET
+gap	 	
+word	complementary	JJ
+gap	 	
+word	justification	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	popular	JJ
+gap	 	
+word	rule	SUAV NN
+gap	 	
+word	expresses	VPRT
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	encourages	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	autonomy	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	self	NN
+gap	 	
+word	determination	NOMZ
+gap	, 	
+word	of	PIN PREP
+gap	 	
+word	individuals	NN
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	interdependence	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	matters	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	decided	PRIV SUAV
+gap	 	
+word	collectively	RB
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	Lakoff	CAP NNP
+gap	 (1996) 	
+word	has	VPRT PEAS
+gap	 	
+word	pointed	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	least	RB SPADJ
+gap	 	
+word	three	NUM
+gap	 	
+word	forms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	autonomy	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	associated	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	democracy	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	communal	JJ
+gap	 	
+word	autonomy	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	political	JJ
+gap	 	
+word	unit	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	independent	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	outside	JJ PLACE
+gap	 	
+word	control	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	second	JJ
+gap	 	
+word	form	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	plural	JJ
+gap	 	
+word	autonomy	NN
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	social	JJ
+gap	 	
+word	groups	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	share	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	political	JJ
+gap	 	
+word	power	NN
+gap	. 	
+word	Held	PRIV CAP
+gap	 	
+word	sets	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	similar	JJ
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	claims	VPRT PUBV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 '	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	autonomy	NN
+gap	 	
+word	entrenched	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	democratic	JJ
+gap	 	
+word	public	JJ
+gap	 	
+word	law	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	individualistic	JJ
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	self	NN
+gap	-	
+word	determination	NOMZ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	structural	JJ
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	self	NN
+gap	 	
+word	determination	NOMZ
+gap	' 	
+word	where	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 '	
+word	self	NN
+gap	' 	
+word	is	VPRT AUXB
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	majority	NOMZ
+gap	' 	
+word	enabled	VBD
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	constrained	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rules	SUAV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	procedures	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	democratic	JJ
+gap	 	
+word	life	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	third	JJ
+gap	 	
+word	form	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individual	JJ
+gap	 	
+word	autonomy	NN
+gap	, 	
+word	resting	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	individuals	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	control	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	lives	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	writers	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	advanced	
+gap	 	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	autonomy	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	individualistic	JJ
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	justification	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	democracy	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	argued	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	democratic	JJ
+gap	 	
+word	theorists	NN
+gap	 	
+word	that	DEMP WHOBJ WH
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	democracy	NN
+gap	 	
+word	encourages	VPRT
+gap	 	
+word	people	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	responsibility	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	political	JJ
+gap	 	
+word	lives	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	instrumental	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	human	JJ
+gap	 	
+word	development	NOMZ
+gap	. 	
+word	Others	NN CAP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	opinion	NN
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 '	
+word	democracy	NN
+gap	 	
+word	represents	VPRT
+gap	 	
+word	fair	JJ
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	social	JJ
+gap	 	
+word	contract	NN
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	share	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	territory	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	agree	PUBV SUAV INF
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	single	JJ
+gap	 	
+word	conception	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	good	NN
+gap	' (	
+word	Gutmann	CAP NNP
+gap	, 1993, 	
+word	pp	NNP
+gap	. 412). 	
+word	Democracy	NN CAP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	thought	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	consist	INF
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	co	NN
+gap	-	
+word	operation	NOMZ
+gap	, 	
+word	negotiation	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fair	JJ
+gap	 	
+word	moral	JJ
+gap	 	
+word	compromise	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	contractarian	JJ
+gap	 	
+word	viewpoint	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	perspective	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	main	JJ
+gap	 	
+word	paradoxes	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	democracy	NN
+gap	. 	
+word	Often	RB CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	voter	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	vote	SUAV THATD INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	way	NN
+gap	 	
+word	depending	WZPRES PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	personal	JJ
+gap	 	
+word	beliefs	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	issue	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	votes	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	voter	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	caught	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	clear	JJ
+gap	 	
+word	paradox	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reasonable	JJ
+gap	 	
+word	person	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	democrat	NNP
+gap	 	
+word	must	NEMD SPAU
+gap	 	
+word	now	RB TIME
+gap	 	
+word	believe	PRIV INF
+gap	 	
+word	contradictory	JJ
+gap	 	
+word	things	NN
+gap	: 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	outcome	NN
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	justified	
+gap	 (	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	reasons	PRIV NN
+gap	) 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	justified	
+gap	 (	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	voted	VBD SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	way	NN
+gap	.) 	
+word	Though	CONC PIN CAP SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	paradox	NN
+gap	 	
+word	disappears	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	defensible	JJ
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	democrat	NNP
+gap	'	
+word	s	
+gap	 	
+word	beliefs	NN
+gap	 (	
+word	Honderich	CAP NNP
+gap	, 1973; 	
+word	Pennock	CAP NNP
+gap	, 1974), 	
+word	a	ART DET INDA
+gap	 	
+word	second	JJ
+gap	 	
+word	paradox	NN
+gap	 	
+word	explains	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	voting	SUAV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	irrational	JJ PRED
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cost	NN
+gap	-	
+word	benefit	NN
+gap	 	
+word	calculation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	individual	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	electorate	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	people	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	cost	
+gap	 	
+word	benefit	NN
+gap	 	
+word	calculators	NN
+gap	, 	
+word	then	RB
+gap	 	
+word	democracies	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 '	
+word	doomed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	collapse	INF
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	weight	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	rational	JJ
+gap	 	
+word	free	JJ
+gap	 	
+word	riders	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	system	NN
+gap	' (	
+word	Gutmann	CAP NNP
+gap	, 	
+word	pp	NNP
+gap	. 419) 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	people	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	, 	
+word	democracies	NN
+gap	 	
+word	depend	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	irrationality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	citizens	NN
+gap	. 	
+word	Both	CAP DET
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	paradoxes	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	developed	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	democracy	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	turn	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	grouped	
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	ideological	JJ PRED
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	practical	JJ
+gap	 	
+word	problems	NN
+gap	. 	
+word	Tocqueville	CAP NNP
+gap	 	
+word	identified	VBD
+gap	 	
+word	two	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	former	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	particular	JJ CONJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	being	AUXB
+gap	 	
+word	tyranny	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	wrote	VBD PUBV
+gap	 '	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	imagine	PRIV INF
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	permanent	JJ
+gap	 	
+word	protection	NOMZ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	galling	JJ
+gap	 	
+word	tyranny	NN
+gap	; 	
+word	and	ANDC CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	people	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	oppressed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	small	JJ
+gap	 	
+word	faction	NOMZ
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	single	JJ
+gap	 	
+word	individual	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	impunity	NOMZ
+gap	' (	
+word	Tocqueville	CAP NNP
+gap	 1835) 	
+word	where	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	effectively	RB
+gap	 	
+word	silences	VPRT
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	beliefs	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	democracy	NN
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	always	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	problem	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	permanent	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	entrenched	JJ
+gap	 	
+word	minority	NOMZ
+gap	 	
+word	whose	WHOBJ DET WH
+gap	 	
+word	views	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	opinions	NN
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	never	RB
+gap	 	
+word	heard	PRIV
+gap	 	
+word	or	CCONJ
+gap	 	
+word	acted	
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	simply	RB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	always	RB
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	other	JJ
+gap	 	
+word	problem	NN
+gap	 	
+word	Tocqueville	CAP NNP
+gap	 	
+word	identified	VBD
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individualism	NN
+gap	: '	
+word	a	ART DET INDA
+gap	 	
+word	mature	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	calm	JJ
+gap	 	
+word	feeling	PRIV NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	disposes	VPRT
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	member	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	community	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	sever	INF
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mass	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	fellows	NN
+gap	' 	
+word	and	ANDC CCONJ
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	drawing	PGAS
+gap	 	
+word	apart	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	family	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	friends	NN
+gap	, 	
+word	forming	PRESP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	circle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	finally	RB
+gap	 	
+word	move	SUAV INF
+gap	 	
+word	away	RB PLACE
+gap	 	
+word	willingly	RB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	society	NN
+gap	. 	
+word	Tocqueville	CAP NNP
+gap	 	
+word	saw	VBD PRIV
+gap	 	
+word	individualism	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	problem	NN
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	first	RB
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	only	DWNT RB
+gap	 '	
+word	sap	NN
+gap	' 	
+word	the	ART DET
+gap	 	
+word	virtues	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	life	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	long	JJ
+gap	 	
+word	run	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	destroy	INF
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	others	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	eventually	RB TIME
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 '	
+word	absorbed	PASTP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	downright	JJ
+gap	 	
+word	selfishness	NOMZ
+gap	.' 	
+word	Apart	RB CAP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	theory	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	recognised	VBD PRIV
+gap	 	
+word	the	ART DET
+gap	 '	
+word	principle	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	self	NN
+gap	-	
+word	interest	NN
+gap	 	
+word	rightly	RB
+gap	 	
+word	understood	VBD PRIV
+gap	' 	
+word	whereby	OSUB RB SCONJ WH
+gap	 	
+word	individuals	NN
+gap	 '	
+word	content	INF
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	inquiring	PGAS
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	personal	JJ
+gap	 	
+word	advantage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	member	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	community	NOMZ
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	consist	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	working	PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	good	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	.' 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	argued	PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	Tocqueville	CAP NNP
+gap	 	
+word	did	VBD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	base	INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	theory	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	hard	JJ
+gap	 	
+word	evidence	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	rather	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	subjective	JJ
+gap	 	
+word	observations	NOMZ
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	Amy	CAP NNP
+gap	 	
+word	Gutmann	CAP NNP
+gap	, '	
+word	democracy	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	paradoxical	JJ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	disharmonious	JJ PRED
+gap	'. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	practice	NN
+gap	, 	
+word	under	PIN PREP
+gap	 	
+word	conditions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	imperfect	JJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	understanding	GER PRIV
+gap	, 	
+word	public	JJ
+gap	 	
+word	deliberation	NOMZ
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	yield	INF
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	uniquely	RB
+gap	 	
+word	correct	JJ
+gap	 	
+word	resolutions	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	political	JJ
+gap	 	
+word	controversies	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	opinion	NN
+gap	, 	
+word	democracy	NN
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	bound	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	disharmonious	JJ PRED
+gap	 	
+word	both	DET
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	individuals	NN
+gap	 	
+word	face	VPRT
+gap	 	
+word	hard	JJ
+gap	 	
+word	political	JJ
+gap	 	
+word	choices	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	assurance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	finding	PRIV PGAS
+gap	 	
+word	clear	RB
+gap	-	
+word	cut	
+gap	 	
+word	resolutions	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conclusions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 '	
+word	community	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	deliberators	NN
+gap	' 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	likely	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	differ	INF
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	confronted	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	difficult	JJ
+gap	 	
+word	issue	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	homosexual	JJ
+gap	 	
+word	marriage	NN
+gap	. 	
+word	Most	JJ EMPH CAP SPADJ
+gap	 	
+word	theorists	NN
+gap	 	
+word	recognise	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	democracy	NN
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	feel	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	democracy	NN
+gap	 	
+word	cannot	
+gap	 	
+word	live	
+gap	 	
+word	up	
+gap	 	
+word	to	
+gap	 	
+word	its	
+gap	 	
+word	aspirations	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	principles	
+gap	 	
+word	of	
+gap	 	
+word	human	
+gap	 	
+word	worth	
+gap	, 	
+word	autonomy	
+gap	, 	
+word	freedom	
+gap	, 	
+word	distributive	
+gap	 	
+word	justice	
+gap	, 	
+word	equality	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	rejection	
+gap	 	
+word	of	
+gap	 	
+word	tyranny	
+gap	 	
+word	invoked	
+gap	 	
+word	by	
+gap	 	
+word	Pennock	
+gap	 	
+word	in	
+gap	 	
+word	his	
+gap	 	
+word	discussion	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	justification	
+gap	 	
+word	of	
+gap	 	
+word	democratic	
+gap	 	
+word	theory	
+gap	 (1979, 	
+word	pp	
+gap	. 130-60), 	
+word	its	
+gap	 	
+word	promise	
+gap	 	
+word	on	
+gap	 	
+word	each	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	counts	
+gap	 	
+word	is	
+gap	 	
+word	greater	
+gap	 	
+word	than	
+gap	 	
+word	that	
+gap	 	
+word	of	
+gap	 	
+word	any	
+gap	 	
+word	non	
+gap	-	
+word	democratic	
+gap	 	
+word	government	
+gap	. 	
+word	While	
+gap	 	
+word	tyranny	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	majority	
+gap	, 	
+word	individualism	
+gap	 	
+word	and	
+gap	 	
+word	problems	
+gap	 	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	conflicting	
+gap	 	
+word	and	
+gap	 	
+word	incommensurable	
+gap	 	
+word	values	
+gap	 	
+word	are	
+gap	 	
+word	important	
+gap	 	
+word	arguments	
+gap	 	
+word	against	
+gap	 	
+word	democracy	
+gap	, 	
+word	greater	
+gap	 	
+word	public	
+gap	 	
+word	deliberation	
+gap	 	
+word	leading	
+gap	 	
+word	to	
+gap	 	
+word	more	
+gap	 	
+word	justifiable	
+gap	 	
+word	public	
+gap	 	
+word	policies	
+gap	, 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	reduction	
+gap	 	
+word	in	
+gap	 	
+word	political	
+gap	 	
+word	animosity	
+gap	 	
+word	and	
+gap	 	
+word	violence	
+gap	 	
+word	as	
+gap	 	
+word	citizens	
+gap	 	
+word	learn	
+gap	 	
+word	to	
+gap	 	
+word	respect	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	as	
+gap	 	
+word	deliberative	
+gap	, 	
+word	are	
+gap	 	
+word	among	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	inspiring	
+gap	 	
+word	prospects	
+gap	 	
+word	democracy	
+gap	 	
+word	has	
+gap	 	
+word	to	
+gap	 	
+word	offer	
+gap	. 	
+word	There	
+gap	 	
+word	will	
+gap	 	
+word	always	
+gap	 	
+word	be	
+gap	 	
+word	arguments	
+gap	 	
+word	for	
+gap	 	
+word	and	
+gap	 	
+word	against	
+gap	 	
+word	any	
+gap	 	
+word	social	
+gap	 	
+word	or	
+gap	 	
+word	political	
+gap	 	
+word	institution	
+gap	; 	
+word	however	
+gap	 	
+word	the	
+gap	 	
+word	worldwide	
+gap	 	
+word	rapid	
+gap	 	
+word	spread	
+gap	 	
+word	of	
+gap	 	
+word	democracy	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	political	
+gap	 	
+word	system	
+gap	 	
+word	goes	
+gap	 	
+word	to	
+gap	 	
+word	prove	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	appropriate	
+gap	 	
+word	political	
+gap	 	
+word	system	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	modern	
+gap	 	
+word	nation	
+gap	 	
+word	state	
+gap	.	

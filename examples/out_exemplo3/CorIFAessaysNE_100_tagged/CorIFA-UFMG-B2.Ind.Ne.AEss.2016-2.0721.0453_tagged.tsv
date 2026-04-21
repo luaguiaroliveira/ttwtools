@@ -1,652 +1,1189 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0721.0453.txt
-token	tags
-    	
-We	FPP1 CAP PRP SBJP
-are	VPRT AUXB
-living	PGAS
-in	PIN CONJ PREP
-a	ART DET INDA
-world	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-information	NOMZ
-runs	VPRT
-each	QUAN DET
-times	NN
-faster	RB CMADJ
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	VPRT AUXB
-getting	PGAS
-hard	JJ
-to	PIN TO SPIN PREP
-not	XX0 RB
-belong	INF
-or	CCONJ
-follow	INF
-these	DEMO DET
-new	JJ
-tendencies	NN
-.	
-We	FPP1 CAP PRP SBJP
-stay	VPRT
-all	QUAN DET
-day	NN
-with	PIN PREP
-our	FPP1 PRP SBJP
-phones	NN
-in	PIN CONJ PREP
-hand	NN
-,	
-receiving	PGAS
-and	PHC CCONJ
-sending	PGAS
-information	NOMZ
-,	
-talking	PGAS
-at	PIN PREP
-the	ART DET
-same	JJ
-time	NN
-with	PIN PREP
-a	ART DET INDA
-friend	NN
-in	PIN CONJ PREP
-China	CAP NNP
-and	CCONJ
-with	PIN PREP
-our	FPP1 PRP SBJP
-neighbors	NN
-.	
-But	CAP CCONJ
-the	ART DET
-question	NOMZ
-is	VPRT AUXB
-,	
-are	VPRT AUXB
-we	FPP1 PRP SBJP
-really	RB EMPH
-talking	PGAS
-to	PIN PREP
-them	TPP3 PRP SBJP ACCU
-?	QUES
-Is	VPRT AUXB CAP
-it	PIT PRP SBJP
-possible	JJ
-to	PIN TO PREP
-have	INF
-a	ART DET INDA
-real	JJ
-conversation	NOMZ
-at	PIN PREP
-the	ART DET
-same	JJ
-time	NN
-with	PIN PREP
-lots	NN
-of	PIN PREP
-people	NN
-and	CCONJ
-to	PIN TO PREP
-stay	INF
-present	JJ
-in	PIN CONJ PREP
-each	QUAN DET
-one	NUM
-?	QUES
-That	DEMP CAP DET
-is	BEMA VPRT AUXB
-the	ART DET
-question	NOMZ
-that	TSUB WHSUB WH
-disrupts	VPRT
-our	FPP1 PRP SBJP
-generation	NOMZ
-and	ANDC CCONJ
-that	DEMP DET
-is	BEMA VPRT AUXB
-really	RB EMPH
-present	JJ
-in	PIN CONJ PREP
-the	ART DET
-21th	JJ
-century	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-Essay	NN CAP
-I	FPP1 CAP PRP SBJP
-am	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-discuss	INF
-if	COND PIN STPR SCONJ PREP
-,	
-with	PIN PREP
-the	ART DET
-new	JJ
-technologies	NN
-and	PHC CCONJ
-ways	NN
-of	PIN PREP
-communication	NOMZ
-,	
-people	NN
-are	VPRT AUXB
-getting	PGAS
-more	RB EMPH CMADJ
-distant	JJ
-one	NUM
-of	PIN PREP
-each	QUAN DET
-other	JJ
-.	
-  	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-characteristics	NN
-of	PIN PREP
-technology	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-can	POMD
-change	INF
-distances	NN
-,	
-for	PIN PREP
-example	NN
-making	WZPRES PGAS
-someone	QUPR INPR
-who	WH
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-the	ART DET
-other	JJ
-side	NN
-of	PIN PREP
-the	ART DET
-world	NN
-be	AUXB INF
-talking	PGAS
-to	PIN PREP
-you	SPP2 PRP SBJP
-at	PIN PREP
-real	JJ
-time	NN
-,	
-which	SERE WHQU DET WH
-can	POMD
-make	INF
-great	JJ
-distances	NN
-closer	RB CMADJ
-.	
-But	CAP CCONJ
-how	RB WHQU SCONJ WH
-it	PIT PRP SBJP
-can	POMD
-change	INF
-the	ART DET
-short	JJ
-distances	NN
-?	QUES
-People	NN CAP
-who	WHQU WHSUB WH
-are	BEMA VPRT AUXB
-near	PIN PLACE PREP
-you	SPP2 PRP SBJP
-begin	VPRT
-to	PIN TO PREP
-become	INF
-more	RB EMPH CMADJ
-distant	JJ
-because	CAUS PIN SCONJ PREP
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-starting	PGAS
-to	PIN TO PREP
-use	INF
-technology	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-bridge	NN
-to	PIN PREP
-all	QUAN DET
-kind	NN HDG
-of	PIN PREP
-relations	NOMZ
-,	
-we	FPP1 PRP SBJP
-talk	VPRT
-to	PIN PREP
-our	FPP1 PRP SBJP
-friends	NN
-who	WHSUB WH
-are	BEMA VPRT AUXB
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-room	NN
-as	PIN CONJ PREP
-us	FPP1 PRP SBJP ACCU
-through	PIN PREP
-our	FPP1 PRP SBJP
-phones	NN
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-talk	VPRT
-to	PIN PREP
-our	FPP1 PRP SBJP
-parents	NN
-and	PHC CCONJ
-brothers	NN
-who	WHSUB WH
-live	VPRT
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-house	NN
-as	PIN CONJ PREP
-we	FPP1 PRP SBJP
-using	PGAS
-a	ART DET INDA
-whatsaap	JJ
-group	NN
-and	CCONJ
-not	XX0 RB
-in	PIN CONJ PREP
-a	ART DET INDA
-lunch	NN
-or	CCONJ
-dinner	NN
-every	QUAN DET
-day	NN
-.	
-People	NN CAP
-are	VPRT AUXB
-starting	PGAS
-to	PIN TO PREP
-see	PRIV INF
-the	ART DET
-technology	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-better	JJ CMADJ
-and	PHC CCONJ
-unique	JJ
-way	NN
-to	PIN TO PREP
-interact	INF
-.	
-  	
-Another	CAP DET
-issue	NN
-considerable	JJ
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-technology	NN
-as	PIN CONJ PREP
-the	ART DET
-main	JJ
-platform	NN
-to	PIN TO PREP
-work	NN
-leads	VPRT
-to	PIN TO PREP
-reduce	INF
-the	ART DET
-capacity	NOMZ
-of	PIN PREP
-the	ART DET
-workers	NN
-to	PIN TO PREP
-pass	INF
-trough	JJ
-uncomfortable	JJ
-situations	NOMZ
-and	CCONJ
-reach	INF
-objectives	NN
-by	PIN PREP
-them	TPP3 PRP SBJP ACCU
-selves	NN
-.	
-It	PIT CAP PRP SBJP
-’s	VPRT
-easier	JJ CMADJ
-to	PIN TO PREP
-send	INF
-a	ART DET INDA
-message	NN
-to	PIN PREP
-your	SPP2 PRP SBJP
-employer	NN
-when	RB WHOBJ SCONJ WH
-you	SPP2 PRP SBJP
-are	BEMA VPRT AUXB
-late	JJ TIME PRED
-or	CCONJ
-when	RB SCONJ WH
-you	SPP2 PRP SBJP
-did	VBD PROD
-something	QUPR INPR
-quite	RB
-wrong	JJ
-than	PIN PREP
-to	PIN TO SPIN PREP
-personally	RB
-go	INF
-to	PIN TO PREP
-talk	INF
-with	PIN PREP
-him	TPP3 PRP SBJP ACCU
-,	
-make	INF
-explanations	NOMZ
-and	CCONJ
-probably	RB
-be	PASS AUXB INF
-reproved	
-.	
-Video	NN CAP
-conferences	NN
-and	PHC CCONJ
-e	NN
--	NN
-mails	NN
-are	VPRT AUXB
-also	RB
-ways	NN
-to	PIN TO PREP
-alleviate	INF
-the	ART DET
-impact	NN
-of	PIN PREP
-the	ART DET
-workers	NN
-facing	WZPRES PGAS
-an	ART DET INDA
-uncomfortable	JJ
-situation	NOMZ
-.	
-People	NN CAP
-are	VPRT AUXB
-getting	PGAS
-too	RB
-much	QUAN RB
-comfortable	JJ
-and	CCONJ
-reducing	PGAS
-their	TPP3 PRP SBJP
-capacity	NOMZ
-of	PIN PREP
-interaction	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-work	NN
-plan	NN
-,	
-making	PGAS
-thing	NN
-in	PIN CONJ PREP
-the	ART DET
-easier	JJ CMADJ
-way	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-leads	VPRT
-to	PIN PREP
-the	ART DET
-formation	NOMZ
-of	PIN PREP
-professionals	NN
-less	RB CMADJ
-able	JJ
-to	PIN TO PREP
-do	PROD INF
-their	TPP3 PRP SBJP
-work	NN
-.	
- 	
-This	DEMO CAP DET
-use	NN
-of	PIN PREP
-technology	NN
-to	PIN TO PREP
-interact	INF
-with	PIN PREP
-other	JJ
-people	NN
-plus	PIN CCONJ PREP
-the	ART DET
-adaption	NOMZ
-of	PIN PREP
-people	NN
-'s	
-professionalism	NN
-to	PIN PREP
-an	ART DET INDA
-easy	JJ
-way	NN
-to	PIN TO PREP
-make	INF
-work	NN
-interactions	NOMZ
-can	POMD SPAU
-also	RB
-result	INF
-in	PIN CONJ PREP
-a	ART DET INDA
-self	NN
--	
-exclusion	NOMZ
-of	PIN PREP
-society	NN
-.	
-Work	NN CAP
-are	VPRT AUXB
-being	AUXB
-bring	INF
-to	PIN PREP
-our	FPP1 PRP SBJP
-homes	NN
-and	CCONJ
-with	PIN PREP
-this	DEMO DET
-elasticity	NOMZ
-to	PIN TO PREP
-do	PROD INF
-everything	QUPR INPR
-you	SPP2 PRP SBJP
-need	VPRT
-in	PIN CONJ PREP
-your	SPP2 PRP SBJP
-professional	JJ
-area	NN
-from	PIN PREP
-home	NN
-makes	VPRT
-people	NN
-stop	INF
-interacting	GER PGAS
-with	PIN PREP
-the	ART DET
-society	NN
-and	CCONJ
-excluding	PGAS
-themselves	TPP3 PRP SBJP ACCU
-.	
-Is	VPRT AUXB CAP
-it	PIT PRP SBJP
-easier	JJ CMADJ
-to	PIN TO PREP
-access	INF
-everything	QUPR INPR
-you	SPP2 PRP SBJP
-need	VPRT
-without	PIN PREP
-leaving	PGAS
-home	NN
-,	
-food	NN
-,	
-clothes	NN
-,	
-movies	NN
-,	
-work	NN
-,	
-“	
-social	JJ
-interaction	NOMZ
-”	
-that	THVC WH
-it	PIT PRP SBJP
-becomes	VPRT
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-lifestyle	NN
-.	
-A	ART CAP DET INDA
-new	JJ
-word	NN
-where	RB WHOBJ SCONJ WH
-we	FPP1 PRP SBJP
-can	POMD
-do	PROD INF
-and	CCONJ
-be	AUXB INF
-whatever	DET WH
-we	FPP1 PRP SBJP
-want	VPRT
-is	BEMA VPRT AUXB
-inside	JJ PLACE PRED
-,	
-and	ANDC CCONJ
-the	ART DET
-outside	JJ PLACE
-reality	NOMZ
-gets	VPRT
-the	ART DET
-second	JJ
-plan	NN
-.	
- 	
-Finally	RB CAP
-,	
-what	WH
-I	FPP1 CAP PRP SBJP
-wanted	VBD
-to	PIN TO PREP
-emphasize	INF
-is	BEMA VPRT AUXB
-this	DEMO DET
-accommodation	NOMZ
-in	PIN CONJ PREP
-a	ART DET INDA
-new	JJ
-reality	NOMZ
-created	WZPAST
-by	PIN PREP
-us	FPP1 PRP SBJP ACCU
-.	
-With	PIN CAP PREP
-technology	NN
-,	
-everything	QUPR INPR
-can	POMD
-be	PASS AUXB INF
-made	
-with	PIN PREP
-more	JJ EMPH CMADJ
-facility	NOMZ
-,	
-but	CCONJ
-not	XX0 RB
-completely	AMP RB
-effective	JJ
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-easier	JJ PRED CMADJ
-to	PIN TO PREP
-avoid	INF
-uncomfortable	JJ
-situations	NOMZ
-.	
-We	FPP1 CAP PRP SBJP
-start	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-used	
-to	PIN TO PREP
-take	INF
-easier	JJ CMADJ
-ways	NN
-in	PIN CONJ PREP
-every	QUAN DET
-dimension	NOMZ
-,	
-at	PIN PREP
-work	NN
-,	
-at	PIN PREP
-school	NN
-,	
-with	PIN PREP
-our	FPP1 PRP SBJP
-Family	NN CAP
-and	PHC CCONJ
-friends	NN
-,	
-and	ANDC CCONJ
-by	PIN PREP
-that	DEMO DET
-way	NN
-we	FPP1 PRP SBJP
-end	VPRT
-up	PIN PREP
-loosing	PGAS
-a	ART DET INDA
-bit	NN
-of	PIN PREP
-the	ART DET
-reality	NOMZ
-.	
-People	NN CAP
-should	NEMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-careful	JJ
-about	PIN PREP
-how	RB SCONJ WH
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-using	PGAS
-the	ART DET
-new	JJ
-Technologies	CAP NNP
-and	CCONJ
-try	INF
-to	PIN TO SPIN PREP
-not	XX0 RB
-make	INF
-it	PIT PRP SBJP
-impact	INF
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-relation	NOMZ
-with	PIN PREP
-other	JJ
-real	JJ
-people	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0721.0453>\n\n<Does Technology make us more alone?>\n\n	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	living	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	world	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	information	NOMZ
+gap	 	
+word	runs	VPRT
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	times	NN
+gap	 	
+word	faster	RB CMADJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	getting	PGAS
+gap	 	
+word	hard	JJ
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	belong	INF
+gap	 	
+word	or	CCONJ
+gap	 	
+word	follow	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	tendencies	NN
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	stay	VPRT
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	day	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	phones	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	hand	NN
+gap	, 	
+word	receiving	PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	sending	PGAS
+gap	 	
+word	information	NOMZ
+gap	, 	
+word	talking	PGAS
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	friend	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	China	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	neighbors	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	, 	
+word	are	VPRT AUXB
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	talking	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	? 	
+word	Is	VPRT AUXB CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	possible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	real	JJ
+gap	 	
+word	conversation	NOMZ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	time	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	lots	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	stay	INF
+gap	 	
+word	present	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	one	NUM
+gap	? 	
+word	That	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	disrupts	VPRT
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	generation	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	present	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 21	
+word	th	JJ
+gap	 	
+word	century	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	Essay	NN CAP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	am	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discuss	INF
+gap	 	
+word	if	COND PIN STPR SCONJ PREP
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	technologies	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	ways	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	communication	NOMZ
+gap	, 	
+word	people	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	getting	PGAS
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	distant	JJ
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	.\n\n	
+word	One	CAP NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	characteristics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	change	INF
+gap	 	
+word	distances	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	 	
+word	making	WZPRES PGAS
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	who	WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	side	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	talking	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	real	JJ
+gap	 	
+word	time	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	make	INF
+gap	 	
+word	great	JJ
+gap	 	
+word	distances	NN
+gap	 	
+word	closer	RB CMADJ
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	how	RB WHQU SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	change	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	short	JJ
+gap	 	
+word	distances	NN
+gap	? 	
+word	People	NN CAP
+gap	 	
+word	who	WHQU WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	near	PIN PLACE PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	begin	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	become	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	distant	JJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	starting	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	technology	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bridge	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	kind	NN HDG
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	relations	NOMZ
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	talk	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	friends	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	room	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	phones	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	talk	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	parents	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	brothers	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	live	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	house	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	using	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whatsaap	JJ
+gap	 	
+word	group	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	lunch	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	dinner	NN
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	day	NN
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	starting	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	technology	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	unique	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	interact	INF
+gap	.\n\n	
+word	Another	CAP DET
+gap	 	
+word	issue	NN
+gap	 	
+word	considerable	JJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	platform	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	workers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	pass	INF
+gap	 	
+word	trough	JJ
+gap	 	
+word	uncomfortable	JJ
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reach	INF
+gap	 	
+word	objectives	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	selves	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	send	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	message	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	employer	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	late	JJ TIME PRED
+gap	 	
+word	or	CCONJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	did	VBD PROD
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	quite	RB
+gap	 	
+word	wrong	JJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	personally	RB
+gap	 	
+word	go	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	talk	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	, 	
+word	make	INF
+gap	 	
+word	explanations	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	probably	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	reproved	
+gap	. 	
+word	Video	NN CAP
+gap	 	
+word	conferences	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	e	NN
+gap	-	
+word	mails	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	ways	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	alleviate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	impact	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	workers	NN
+gap	 	
+word	facing	WZPRES PGAS
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	uncomfortable	JJ
+gap	 	
+word	situation	NOMZ
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	getting	PGAS
+gap	 	
+word	too	RB
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	comfortable	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	reducing	PGAS
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	interaction	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	work	NN
+gap	 	
+word	plan	NN
+gap	, 	
+word	making	PGAS
+gap	 	
+word	thing	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	way	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	formation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	professionals	NN
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	.\n	
+word	This	DEMO CAP DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	interact	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	plus	PIN CCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	adaption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	'	
+word	s	
+gap	 	
+word	professionalism	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	easy	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	work	NN
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	result	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	self	NN
+gap	-	
+word	exclusion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	society	NN
+gap	. 	
+word	Work	NN CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	being	AUXB
+gap	 	
+word	bring	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	homes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	elasticity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	everything	QUPR INPR
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	professional	JJ
+gap	 	
+word	area	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	home	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	people	NN
+gap	 	
+word	stop	INF
+gap	 	
+word	interacting	GER PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	society	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	excluding	PGAS
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Is	VPRT AUXB CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	access	INF
+gap	 	
+word	everything	QUPR INPR
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	leaving	PGAS
+gap	 	
+word	home	NN
+gap	, 	
+word	food	NN
+gap	, 	
+word	clothes	NN
+gap	, 	
+word	movies	NN
+gap	, 	
+word	work	NN
+gap	, “	
+word	social	JJ
+gap	 	
+word	interaction	NOMZ
+gap	” 	
+word	that	THVC WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	becomes	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	lifestyle	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	word	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	do	PROD INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	whatever	DET WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	want	VPRT
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	inside	JJ PLACE PRED
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	outside	JJ PLACE
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	gets	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	second	JJ
+gap	 	
+word	plan	NN
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	what	WH
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	wanted	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	emphasize	INF
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	accommodation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	created	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	technology	NN
+gap	, 	
+word	everything	QUPR INPR
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	made	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	facility	NOMZ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	effective	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	easier	JJ PRED CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	 	
+word	uncomfortable	JJ
+gap	 	
+word	situations	NOMZ
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	start	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	ways	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	dimension	NOMZ
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	work	NN
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	school	NN
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	Family	NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	friends	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	way	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	end	VPRT
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	loosing	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bit	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reality	NOMZ
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	careful	JJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	using	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	Technologies	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	try	INF
+gap	 	
+word	to	PIN TO SPIN PREP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	make	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	impact	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	relation	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	real	JJ
+gap	 	
+word	people	NN
+gap	. \n	

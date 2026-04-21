@@ -1,1230 +1,2164 @@
 # filename: AH_Philosophy_Essay_1_0285b_tx.txt
-token	tags
-Hobbes	CAP NNP
-'	CONT QUOT
-claim	PUBV NN
-that	PIN TOBJ THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-that	PIN THAC SCONJ PREP
-something	QUPR INPR
-that	DEMP WH
-thinks	VPRT PRIV
-should	NEMD
-be	AUXB INF
-something	QUPR INPR
-corporeal	JJ
-does	VPRT SPAU
-n't	XX0 CONT RB
-carry	INF
-itself	PIT PRP SBJP ACCU
-with	PIN PREP
-the	ART DET
-same	JJ
-gravitas	NN
-as	PIN CONJ PREP
-Descartes	CAP NNP
-'	CONT QUOT
-arguments	NOMZ
-for	PIN PREP
-the	ART DET
-dualism	NN
-between	PIN PREP
-mind	NN
-and	PHC CCONJ
-body	NN
-.	
-Hobbes	CAP NNP
-'	CONT QUOT
-assertion	NOMZ
-does	VPRT SPAU
-not	XX0 RB
-imply	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-notion	NOMZ
-of	PIN PREP
-thinking	PRIV NN
-being	BEMA WZPRES AUXB
-dependent	JJ PRED
-on	PIN PREP
-a	ART DET INDA
-corporeal	JJ
-object	PUBV NN
-should	NEMD
-be	PASS AUXB INF
-granted	SUAV
-the	ART DET
-same	JJ
-amount	NN
-of	PIN PREP
-acceptance	NN
-by	PIN PREP
-the	ART DET
-common	JJ
-sense	PRIV NN
-of	PIN PREP
-Descartes	CAP NNP
-'	CONT QUOT
-day	NN
-.	
-Instead	RB CONJ CAP
-,	
-Hobbes	CAP NNP
-merely	DWNT RB
-puts	VPRT
-forward	RB
-the	ART DET
-possibility	NOMZ
-that	PIN TOBJ SCONJ PREP
-Descartes	CAP NNP
-'	CONT QUOT
-arguments	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-Second	CAP NNP
-Meditation	CAP NNP
-do	VPRT SPAU
-not	XX0 RB
-render	INF
-the	ART DET
-position	NOMZ
-self	NN
--	
-contradictory	JJ
-.	
-We	FPP1 CAP PRP SBJP
-will	PRMD SPAU
-now	RB TIME
-examine	INF
-Descartes	CAP NNP
-'	CONT QUOT
-arguments	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-Second	CAP NNP
-Meditation	CAP NNP
-to	PIN TO PREP
-see	PRIV INF
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-hold	VPRT PRIV
-up	PIN PREP
-to	PIN PREP
-scrutiny	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-third	JJ
-paragraph	NN
-(	
-J.	CAP NNP
-Cottingham	CAP NNP
-1996	NUM
-:	
-p.16	NNP
-)	
-,	
-while	OSUB PIN SCONJ PREP
-using	PGAS
-the	ART DET
-method	NN
-of	PIN PREP
-doubt	PRIV NN
-,	
-Descartes	CAP NNP
-wonders	NN
-if	COND PIN SCONJ PREP
-his	TPP3 PRP SBJP
-existence	NN
-was	PASS VBD AUXB
-bound	
-up	PIN PREP
-with	PIN PREP
-his	TPP3 PRP SBJP
-body	NN
-and	PHC CCONJ
-senses	PRIV NN
-.	
-He	TPP3 CAP PRP SBJP
-states	VPRT PUBV
-that	PIN THVC SCONJ PREP
-after	PIN PREP
-he	TPP3 PRP SBJP
-has	VPRT PEAS
-convinced	
-himself	TPP3 PRP SBJP ACCU
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-absolutely	AMP RB
-nothing	INPR
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-,	
-he	TPP3 PRP SBJP
-still	RB
-exists	VPRT
-because	CAUS PIN SCONJ PREP
-he	TPP3 PRP SBJP
-has	VPRT PEAS
-convinced	
-himself	TPP3 PRP SBJP ACCU
-of	PIN PREP
-something	QUPR INPR
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-convince	INF
-,	
-one	PRP SBJP
-must	NEMD
-exist	INF
-.	
-Although	CONC PIN CAP SCONJ PREP
-he	TPP3 PRP SBJP
-did	VBD PROD SPAU
-not	XX0 RB
-explicitly	RB
-state	PUBV THATD INF
-it	PIT PRP SBJP
-,	
-Descartes	CAP NNP
-has	VPRT PEAS SPAU
-subtly	RB
-suggested	PUBV SUAV
-that	PIN THVC SCONJ PREP
-his	TPP3 PRP SBJP
-existence	NN
-does	VPRT SPAU
-not	XX0 RB
-depend	INF
-on	PIN PREP
-corporeal	JJ
-entities	NN
-.	
-Moving	SUAV CAP PGAS
-on	PIN STPR PREP
-,	
-Descartes	CAP NNP
-reiterates	VPRT
-his	TPP3 PRP SBJP
-determination	NOMZ
-to	PIN TO PREP
-prohibit	INF
-superfluous	JJ
-properties	NN
-from	PIN PREP
-being	PASS AUXB
-assigned	
-to	PIN PREP
-his	TPP3 PRP SBJP
-identity	NOMZ
-.	
-He	TPP3 CAP PRP SBJP
-maintains	VPRT PUBV
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-will	PRMD
-subtract	INF
-anything	QUPR INPR
-capable	JJ
-of	PIN PREP
-being	PASS AUXB
-weakened	
-from	PIN PREP
-his	TPP3 PRP SBJP
-impression	NOMZ
-of	PIN PREP
-his	TPP3 PRP SBJP
-identity	NOMZ
-so	OSUB PIN SCONJ PREP
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-what	WHQU WH
-is	PASS VPRT AUXB
-left	
-at	PIN PREP
-the	ART DET
-end	NN
-may	POMD
-be	AUXB INF
-exactly	RB
-and	PHC CCONJ
-only	DWNT RB
-what	WH
-is	BEMA VPRT AUXB
-certain	JJ PRED
-and	PHC CCONJ
-unshakable	JJ PRED
-'	CONT QUOT
-(	
-p.17	NNP
-)	
-.	
-This	DEMP CAP DET
-is	VPRT AUXB
-Descartes	CAP NNP
-'	CONT QUOT
-mission	NOMZ
-statement	NOMZ
-for	PIN PREP
-the	ART DET
-next	JJ
-portion	NOMZ
-of	PIN PREP
-the	ART DET
-Second	CAP NNP
-Meditation	CAP NNP
-,	
-and	ANDC CCONJ
-how	RB SCONJ WH
-firmly	RB
-he	TPP3 PRP SBJP
-abides	VPRT
-by	PIN PREP
-it	PIT PRP SBJP
-will	PRMD
-be	PASS AUXB INF
-tested	
-,	
-to	PIN TO PREP
-determine	PRIV SUAV INF
-if	COND PIN SCONJ PREP
-there	EX
-are	VPRT AUXB
-logical	JJ
-gaps	NN
-which	WHOBJ DET WH
-Hobbes	CAP NNP
-might	POMD
-exploit	INF
-.	
-Descartes	NN CAP
-starts	VPRT
-to	PIN TO PREP
-ponder	INF
-on	PIN PREP
-what	WH
-he	TPP3 PRP SBJP
-may	POMD
-describe	INF
-himself	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-be	AUXB INF
-.	
-He	TPP3 CAP PRP SBJP
-disregards	VPRT
-abstract	JJ
-notions	NOMZ
-such	JJ
-as	PIN CONJ PREP
-man	NN
-or	CCONJ
-rational	JJ
-animal	NN
-in	PIN CONJ PREP
-favour	NN
-of	PIN PREP
-more	RB EMPH CMADJ
-certain	JJ
-first	JJ
--	
-person	NN
-experiences	NN
-.	
-He	TPP3 CAP PRP SBJP
-assumes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-had	VBD
-all	QUAN DET
-the	ART DET
-features	NN
-and	CCONJ
-mechanical	JJ
-structure	NN
-of	PIN PREP
-limbs	NN
-which	WHSUB DET WH
-can	POMD
-be	PASS AUXB INF
-seen	PRIV
-in	PIN CONJ PREP
-a	ART DET INDA
-corpse	NN
-,	
-which	SERE DET WH
-he	TPP3 PRP SBJP
-calls	VPRT
-the	ART DET
-body	NN
-.	
-Next	RB CAP
-,	
-quite	RB
-questionably	RB
-,	
-he	TPP3 PRP SBJP
-attributes	VPRT
-the	ART DET
-properties	NN
-of	PIN PREP
-nourishment	NOMZ
-,	
-locomotion	NOMZ
-,	
-sense	VPRT PRIV
-perception	NOMZ
-and	CCONJ
-thinking	PRIV PGAS
-to	PIN PREP
-the	ART DET
-soul	NN
-,	
-which	SERE DET WH
-he	TPP3 PRP SBJP
-imagined	VBD PRIV
-to	PIN TO PREP
-be	AUXB INF
-something	QUPR INPR
-tenuous	JJ
-,	
-like	PIN PREP
-ether	JJ
-,	
-which	SERE DET WH
-permeated	VBD
-his	TPP3 PRP SBJP
-body	NN
-.	
-He	TPP3 CAP PRP SBJP
-goes	VPRT
-on	PIN PREP
-to	PIN PREP
-affirm	PUBV NN
-once	RB TIME
-more	RB EMPH CMADJ
-,	
-at	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-paragraph	NN
-,	
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-the	ART DET
-power	NN
-of	PIN PREP
-self	NN
--	
-movement	NOMZ
-,	
-like	PIN PREP
-the	ART DET
-power	NN
-of	PIN PREP
-sensation	NOMZ
-or	CCONJ
-of	PIN PREP
-thought	PRIV NN
-,	
-was	BEMA VBD AUXB
-quite	RB
-foreign	JJ
-to	PIN PREP
-the	ART DET
-nature	NN
-of	PIN PREP
-the	ART DET
-body	NN
-'	CONT QUOT
-(	
-p.17	NNP
-)	
-.	
-If	COND PIN CAP SCONJ PREP
-these	DEMP DET
-were	VBD AUXB
-Descartes	CAP NNP
-'	CONT QUOT
-premises	NN
-,	
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-easy	JJ PRED
-to	PIN TO PREP
-deduce	PRIV INF
-his	TPP3 PRP SBJP
-conclusion	NOMZ
-that	TSUB WHSUB WH
-should	NEMD
-he	TPP3 PRP SBJP
-not	XX0 RB
-possess	INF
-a	ART DET INDA
-body	NN
-,	
-that	DEMP WH
-which	DET WH
-the	ART DET
-faculties	NN
-of	PIN PREP
-the	ART DET
-soul	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-nourishment	NOMZ
-,	
-locomotion	NOMZ
-and	PHC CCONJ
-sense	PRIV NN THATD
-perception	NOMZ
-are	PASS VPRT AUXB
-bound	
-up	PIN PREP
-with	PIN STPR PREP
-,	
-he	TPP3 PRP SBJP
-would	PRMD SPAU
-simply	RB
-be	BEMA AUXB INF
-a	ART DET INDA
-thinking	PRIV NN
-thing	NN
-.	
-However	RB CONJ CAP
-,	
-such	JJ
-apparent	JJ
-certainty	NN
-is	PASS VPRT BYPA AUXB
-arrived	
-at	PIN PREP
-by	PIN PREP
-the	ART DET
-dubious	JJ
-premise	NN
-that	TSUB WHSUB WH
-thought	VBD PRIV
-is	BEMA VPRT AUXB
-exclusive	JJ PRED
-to	PIN PREP
-the	ART DET
-soul	NN
-.	
-This	DEMO CAP DET
-question	NOMZ
-was	PASS VBD BYPA AUXB
-brought	
-up	PIN PREP
-by	PIN PREP
-Descartes	CAP NNP
-'	CONT QUOT
-contemporaries	NN
-in	PIN CONJ PREP
-the	ART DET
-Objections	CAP NNP
-and	PHC CCONJ
-Replies	PUBV CAP NNP
-.	
-When	RB CAP SCONJ WH
-asked	SUAV
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-was	VBD AUXB
-self	NN
--	
-contradictory	JJ
-to	PIN TO PREP
-assert	PUBV INF
-that	THVC DET
-thought	PRIV NN
-is	BEMA VPRT AUXB
-merely	DWNT RB
-corporeal	JJ
-motion	NOMZ
-,	
-Descartes	CAP NNP
-goes	VPRT
-into	PIN PREP
-an	ART DET INDA
-exposition	NOMZ
-that	PIN TOBJ SCONJ PREP
-he	TPP3 PRP SBJP
-believes	VPRT PRIV
-draws	VPRT
-a	ART DET INDA
-parallel	NN
-between	PIN PREP
-the	ART DET
-different	JJ
-associations	NOMZ
-of	PIN PREP
-thought	PRIV NN
-and	PHC CCONJ
-extension	NOMZ
-,	
-revealing	PRIV PRESP THATD PGAS
-it	PIT PRP SBJP
-to	PIN TO PREP
-be	BEMA AUXB INF
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-convention	NOMZ
-that	TSUB WHSUB WH
-thought	VBD PRIV
-and	CCONJ
-body	NN
-are	BEMA VPRT AUXB
-inseparable	JJ PRED
-.	
-He	TPP3 CAP PRP SBJP
-claims	VPRT PUBV
-that	PIN THVC SCONJ PREP
-those	DEMP DET
-who	WH
-reckon	VPRT PRIV
-that	THVC DET
-thought	PRIV NN
-and	PHC CCONJ
-body	NN
-are	VPRT AUXB
-one	NUM
-regard	NN
-them	TPP3 PRP SBJP ACCU
-as	RB CONJ
-inseparable	JJ
-as	PIN CONJ PREP
-shape	NN
-and	PHC CCONJ
-potential	NN
-for	PIN PREP
-motion	NOMZ
-,	
-or	CCONJ
-understanding	GER PRIV
-and	PHC CCONJ
-volition	NOMZ
-,	
-by	PIN PREP
-which	PIRE DET WH
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-an	ART DET INDA
-object	PUBV NN THATD
-that	TSUB WHSUB WHCL WH
-possesses	VPRT
-one	NUM
-of	PIN PREP
-the	ART DET
-properties	NN
-necessarily	RB
-has	VPRT
-the	ART DET
-other	JJ
-.	
-He	TPP3 CAP PRP SBJP
-labels	VPRT
-such	EMPH DET
-a	ART DET INDA
-relationship	NN
-as	PIN CONJ PREP
-the	ART DET
-unity	NOMZ
-of	PIN PREP
-nature	NN
-.	
-He	TPP3 CAP PRP SBJP
-contrasts	VPRT
-this	DEMO DET
-with	PIN PREP
-the	ART DET
-unity	NOMZ
-of	PIN PREP
-composition	NOMZ
-,	
-which	SERE DET WH
-he	TPP3 PRP SBJP
-regards	VPRT
-as	PIN CONJ PREP
-the	ART DET
-proper	JJ
-way	NN
-of	PIN PREP
-interpreting	GER PGAS
-the	ART DET
-union	NN
-of	PIN PREP
-thought	PRIV NN
-and	PHC CCONJ
-body	NN
-.	
-He	TPP3 CAP PRP SBJP
-likens	VPRT
-the	ART DET
-relationship	NN
-as	PIN CONJ PREP
-that	DEMO DET
-between	PIN PREP
-flesh	NN
-and	PHC CCONJ
-bone	NN
-,	
-in	PIN CONJ PREP
-that	DEMO DET
-flesh	NN
-and	PHC CCONJ
-bone	NN
-are	PASS VPRT AUXB
-united	
-so	RB
-long	RB
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-present	JJ PRED
-within	PIN STPR PREP
-,	
-say	PUBV UH
-,	
-the	ART DET
-same	JJ
-animal	NN
-,	
-but	CCONJ
-nevertheless	RB CONJ
-are	BEMA VPRT AUXB
-capable	JJ PRED
-of	PIN PREP
-being	PASS AUXB
-separated	
-.	
-Descartes	CAP NNP
-admits	VPRT PUBV
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-'	CONT VPRT QUOT
-can	POMD SPAU
-not	XX0 RB
-guarantee	PUBV INF
-that	PIN THVC SCONJ PREP
-others	NN
-can	POMD
-be	PASS AUXB INF
-convinced	
-of	PIN PREP
-it	PIT PRP SBJP
-'	CONT QUOT
-,	
-and	ANDC CCONJ
-this	DEMP DET
-can	POMD
-be	PASS SPAU AUXB INF
-very	AMP RB
-readily	RB
-understood	PRIV
-because	CAUS PIN SCONJ PREP
-he	TPP3 PRP SBJP
-later	RB TIME
-says	VPRT PUBV THATD
-that	PIN STPR DEMP SCONJ PREP
-'	CONT QUOT
-the	ART DET
-only	JJ DWNT
-way	NN
-of	PIN PREP
-understanding	GER PRIV PGAS
-the	ART DET
-distinction	NOMZ
-(	
-between	PIN PREP
-thought	PRIV NN
-and	PHC CCONJ
-extension	NOMZ
-)	
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-realise	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-notions	NOMZ
-of	PIN PREP
-a	ART DET INDA
-thinking	PRIV NN
-thing	NN
-and	CCONJ
-an	ART DET INDA
-extended	JJ
-thing	NN
-are	BEMA VPRT AUXB
-completely	AMP RB
-different	JJ
-,	
-and	ANDC CCONJ
-independent	JJ
-of	PIN PREP
-each	QUAN DET
-other	JJ
-'	CONT QUOT
-(	
-p72	NN
--	
-74	NUM
-)	
-.	
-Granted	SUAV CAP
-,	
-we	FPP1 PRP SBJP
-may	POMD
-assign	INF
-different	JJ
-properties	NN
-to	PIN PREP
-the	ART DET
-mind	NN
-and	PHC CCONJ
-body	NN
-,	
-but	CCONJ
-to	PIN TO PREP
-state	PUBV NN
-that	PIN TOBJ THVC SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-independent	JJ PRED
-of	PIN PREP
-each	QUAN DET
-other	JJ
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-draw	INF
-an	ART DET INDA
-invalid	JJ
-conclusion	NOMZ
-.	
-Who	WHQU CAP WH
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-relationship	NN
-of	PIN PREP
-thought	PRIV NN
-and	PHC CCONJ
-extension	NOMZ
-is	VPRT AUXB
-one	NUM
-of	PIN PREP
-unity	NOMZ
-of	PIN PREP
-composition	NOMZ
-and	CCONJ
-not	XX0 RB
-of	PIN PREP
-nature	NN
-?	QUES
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-,	
-Descartes	CAP NNP
-'	CONT QUOT
-premise	NN
-that	PIN DEMO SCONJ PREP
-mind	NN
-and	PHC CCONJ
-body	NN
-are	BEMA VPRT AUXB
-separate	JJ PRED
-and	PHC CCONJ
-distinct	JJ PRED
-is	BEMA VPRT AUXB
-dubious	JJ PRED
-.	
-Already	RB CAP
-weakened	
-,	
-we	FPP1 PRP SBJP
-shall	PRMD
-analyse	INF
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-Second	CAP NNP
-Meditation	CAP NNP
-to	PIN TO PREP
-see	PRIV INF
-if	COND PIN SCONJ PREP
-Descartes	CAP NNP
-manages	VPRT
-to	PIN TO PREP
-salvage	INF
-his	TPP3 PRP SBJP
-position	NOMZ
-from	PIN PREP
-Hobbes	CAP NNP
-.	
-He	TPP3 CAP PRP SBJP
-doubts	VPRT PRIV
-away	PIN PLACE PREP
-all	QUAN DET
-notions	NOMZ
-of	PIN PREP
-his	TPP3 PRP SBJP
-being	BEMA AUXB
-a	ART DET INDA
-corporeal	JJ
-entity	NOMZ
-or	CCONJ
-even	RB
-tenuous	JJ
-ether	NN
-.	
-After	PIN CAP PREP
-this	DEMP DET
-,	
-he	TPP3 PRP SBJP
-states	VPRT PUBV
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-is	VPRT AUXB
-still	RB
-something	QUPR INPR
-.	
-Here	RB CAP
-Descartes	CAP NNP
-makes	VPRT
-another	DET
-illogical	JJ
-move	SUAV NN
-.	
-It	PIT CAP PRP SBJP
-is	VPRT AUXB
-one	NUM
-thing	NN
-to	PIN TO PREP
-doubt	PRIV INF
-away	PIN PLACE PREP
-all	QUAN DET
-the	ART DET
-features	NN
-you	SPP2 PRP SBJP
-attribute	VPRT
-to	PIN PREP
-yourself	SPP2 PRP SBJP ACCU
-and	CCONJ
-quite	DET
-another	DET
-to	PIN TO PREP
-have	INF
-them	TPP3 PRP SBJP ACCU
-actually	RB
-stripped	
-away	RB PLACE
-.	
-In	PIN CONJ CAP PREP
-a	ART DET INDA
-paradoxical	JJ
-section	NOMZ
-of	PIN PREP
-the	ART DET
-passage	NN
-,	
-he	TPP3 PRP SBJP
-doubts	VPRT PRIV
-the	ART DET
-integrity	NOMZ
-of	PIN PREP
-his	TPP3 PRP SBJP
-method	NN
-of	PIN PREP
-doubt	PRIV NN
-,	
-asking	SUAV PRESP PGAS
-himself	TPP3 PRP SBJP ACCU
-if	COND PIN SCONJ PREP
-the	ART DET
-properties	NN
-he	TPP3 PRP SBJP
-supposes	VPRT PRIV
-as	PIN CONJ PREP
-non	JJ
--	JJ
-existent	JJ
-are	VPRT AUXB
-actually	RB
-part	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-identity	NOMZ
-.	
-He	TPP3 CAP PRP SBJP
-then	RB
-convinces	VPRT
-himself	TPP3 PRP SBJP ACCU
-that	PIN DEMO SCONJ PREP
-if	COND PIN SCONJ PREP
-a	ART DET INDA
-person	NN
-'s	
-identity	NOMZ
-is	VPRT AUXB
-something	QUPR INPR
-that	DEMP WH
-thinks	VPRT PRIV
-,	
-'	CONT QUOT
-knowledge	NN
-of	PIN PREP
-it	PIT PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-depend	INF
-on	PIN PREP
-things	NN
-of	PIN PREP
-whose	PIRE DET WH
-existence	NN
-I	FPP1 CAP PRP SBJP
-am	VPRT AUXB
-as	RB CONJ
-yet	RB
-unaware	JJ
-'	CONT QUOT
-(	
-p18	NN
--	
-19	NUM
-)	
-.	
-This	DEMO CAP DET
-conclusion	NOMZ
-relies	VPRT
-on	PIN PREP
-the	ART DET
-implicit	JJ
-premise	NN
-that	PIN DEMO SCONJ PREP
-if	COND PIN SCONJ PREP
-someone	QUPR INPR
-is	BEMA VPRT AUXB
-a	ART DET INDA
-thinking	PRIV NN
-thing	NN
-,	
-separate	JJ
-from	PIN PREP
-corporeal	JJ
-extensions	NOMZ
-,	
-then	RB
-his	TPP3 PRP SBJP
-identity	NOMZ
-is	BEMA VPRT AUXB
-not	XX0 RB
-reliant	JJ
-on	PIN PREP
-anything	QUPR INPR
-else	RB
-,	
-because	CAUS PIN SCONJ PREP
-everything	QUPR INPR
-else	RB
-falls	VPRT
-into	PIN PREP
-the	ART DET
-same	JJ
-category	NN
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-things	NN
-which	WHOBJ DET WH
-I	FPP1 CAP PRP SBJP
-invent	VPRT
-in	PIN CONJ PREP
-my	FPP1 PRP SBJP
-imagination	NOMZ
-'	CONT QUOT
-,	
-which	SERE WHQU DET WH
-is	VPRT AUXB
-'	CONT QUOT
-simply	RB
-contemplating	GER PGAS
-the	ART DET
-shape	NN
-of	PIN PREP
-image	NN
-of	PIN PREP
-a	ART DET INDA
-corporeal	JJ
-thing'(p19	NN
-)	
-.	
-Notice	PRIV CAP INF
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-premise	NN
-relies	VPRT
-on	PIN PREP
-the	ART DET
-earlier	JJ TIME CMADJ
-assumption	NOMZ
-that	PIN DEMO SCONJ PREP
-thought	PRIV NN
-and	PHC CCONJ
-extension	NOMZ
-are	BEMA VPRT AUXB
-separate	JJ PRED
-and	PHC CCONJ
-distinct	JJ PRED
-,	
-which	SERE WHQU DET WH
-has	VPRT PEAS
-been	PASS AUXB
-undermined	
-.	
-Also	RB CAP
-,	
-Descartes	CAP NNP
-repeats	VPRT PUBV
-the	ART DET
-error	NN
-of	PIN PREP
-believing	PRIV PGAS
-his	TPP3 PRP SBJP
-own	JJ
-conjectures	PRIV NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-case	NN
-,	
-he	TPP3 PRP SBJP
-supposes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-may	POMD
-discard	INF
-all	QUAN DET
-physical	JJ
-objects	PUBV NN
-because	CAUS PIN SCONJ PREP
-he	TPP3 PRP SBJP
-believes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-malicious	JJ
-demon	NN
-that	TSUB WHSUB WH
-renders	VPRT
-them	TPP3 PRP SBJP ACCU
-chimeras	NNP
-.	
-However	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-may	POMD SPAU
-just	RB EMPH
-be	BEMA AUXB INF
-the	ART DET
-case	NN
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-demon	NN
-and	ANDC CCONJ
-that	DEMP DET
-should	NEMD
-he	TPP3 PRP SBJP
-be	PASS AUXB INF
-stripped	
-away	RB PLACE
-of	PIN PREP
-his	TPP3 PRP SBJP
-physical	JJ
-features	NN
-,	
-he	TPP3 PRP SBJP
-would	PRMD SPAU
-n't	XX0 CONT RB
-exist	INF
-.	
-For	PIN CAP PREP
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-Second	CAP NNP
-Meditation	CAP NNP
-,	
-Descartes	CAP NNP
-does	VPRT PROD SPAU
-n't	XX0 CONT RB
-do	PROD INF
-much	QUAN JJ
-to	PIN TO PREP
-add	PUBV INF
-credibility	NOMZ
-to	PIN PREP
-his	TPP3 PRP SBJP
-notion	NOMZ
-that	PIN TSUB SCONJ PREP
-thought	VBD PRIV
-is	BEMA VPRT AUXB
-independent	JJ PRED
-from	PIN PREP
-corporeal	JJ
-substances	NN
-.	
-Hobbes	CAP NNP
-has	VPRT
-the	ART DET
-upper	JJ
-hand	NN
-in	PIN CONJ PREP
-this	DEMO DET
-argument	NOMZ
-,	
-because	CAUS PIN SCONJ PREP
-if	COND PIN SCONJ PREP
-the	ART DET
-intellect	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-proven	
-to	PIN TO PREP
-be	PASS AUXB INF
-liberated	
-from	PIN PREP
-the	ART DET
-body	NN
-,	
-then	RB
-there	EX
-is	VPRT AUXB
-the	ART DET
-possibility	NOMZ
-that	PIN DEMO SCONJ PREP
-thinking	PRIV NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-corporeal	JJ
-faculty	NN
-.	
+type	content	tags
+word	Hobbes	CAP NNP
+gap	' 	
+word	claim	PUBV NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	thinks	VPRT PRIV
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	corporeal	JJ
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	carry	INF
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	gravitas	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	arguments	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dualism	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	mind	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	body	NN
+gap	. 	
+word	Hobbes	CAP NNP
+gap	' 	
+word	assertion	NOMZ
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	imply	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thinking	PRIV NN
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	dependent	JJ PRED
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	corporeal	JJ
+gap	 	
+word	object	PUBV NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	granted	SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	acceptance	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	common	JJ
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	day	NN
+gap	. 	
+word	Instead	RB CONJ CAP
+gap	, 	
+word	Hobbes	CAP NNP
+gap	 	
+word	merely	DWNT RB
+gap	 	
+word	puts	VPRT
+gap	 	
+word	forward	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	arguments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Second	CAP NNP
+gap	 	
+word	Meditation	CAP NNP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	render	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	position	NOMZ
+gap	 	
+word	self	NN
+gap	-	
+word	contradictory	JJ
+gap	. 	
+word	We	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	now	RB TIME
+gap	 	
+word	examine	INF
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	arguments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Second	CAP NNP
+gap	 	
+word	Meditation	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	hold	VPRT PRIV
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	scrutiny	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	third	JJ
+gap	 	
+word	paragraph	NN
+gap	 (	
+word	J	CAP NNP
+gap	. 	
+word	Cottingham	CAP NNP
+gap	 1996: 	
+word	p	NNP
+gap	.16), 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	method	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	doubt	PRIV NN
+gap	, 	
+word	Descartes	CAP NNP
+gap	 	
+word	wonders	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	existence	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	bound	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	body	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	senses	PRIV NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	states	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	convinced	
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	absolutely	AMP RB
+gap	 	
+word	nothing	INPR
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	still	RB
+gap	 	
+word	exists	VPRT
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	convinced	
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	something	QUPR INPR
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	convince	INF
+gap	, 	
+word	one	PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	exist	INF
+gap	. 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	did	VBD PROD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	explicitly	RB
+gap	 	
+word	state	PUBV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	Descartes	CAP NNP
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	subtly	RB
+gap	 	
+word	suggested	PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	existence	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	depend	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	corporeal	JJ
+gap	 	
+word	entities	NN
+gap	. 	
+word	Moving	SUAV CAP PGAS
+gap	 	
+word	on	PIN STPR PREP
+gap	, 	
+word	Descartes	CAP NNP
+gap	 	
+word	reiterates	VPRT
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	determination	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prohibit	INF
+gap	 	
+word	superfluous	JJ
+gap	 	
+word	properties	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	assigned	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	identity	NOMZ
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	maintains	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	subtract	INF
+gap	 	
+word	anything	QUPR INPR
+gap	 	
+word	capable	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	weakened	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	impression	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	identity	NOMZ
+gap	 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 '	
+word	what	WHQU WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	left	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	exactly	RB
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	what	WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	certain	JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	unshakable	JJ PRED
+gap	' (	
+word	p	NNP
+gap	.17). 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	mission	NOMZ
+gap	 	
+word	statement	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	portion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Second	CAP NNP
+gap	 	
+word	Meditation	CAP NNP
+gap	 , 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	firmly	RB
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	abides	VPRT
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	tested	
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	determine	PRIV SUAV INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	logical	JJ
+gap	 	
+word	gaps	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	Hobbes	CAP NNP
+gap	 	
+word	might	POMD
+gap	 	
+word	exploit	INF
+gap	. 	
+word	Descartes	NN CAP
+gap	 	
+word	starts	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ponder	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	describe	INF
+gap	 	
+word	himself	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	disregards	VPRT
+gap	 	
+word	abstract	JJ
+gap	 	
+word	notions	NOMZ
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	man	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	rational	JJ
+gap	 	
+word	animal	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	favour	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	certain	JJ
+gap	 	
+word	first	JJ
+gap	-	
+word	person	NN
+gap	 	
+word	experiences	NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	assumes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	features	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	mechanical	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	limbs	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	corpse	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	calls	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	body	NN
+gap	. 	
+word	Next	RB CAP
+gap	, 	
+word	quite	RB
+gap	 	
+word	questionably	RB
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	attributes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	properties	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nourishment	NOMZ
+gap	, 	
+word	locomotion	NOMZ
+gap	, 	
+word	sense	VPRT PRIV
+gap	 	
+word	perception	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	thinking	PRIV PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	soul	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	imagined	VBD PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	tenuous	JJ
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	ether	JJ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	permeated	VBD
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	body	NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	goes	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	affirm	PUBV NN
+gap	 	
+word	once	RB TIME
+gap	 	
+word	more	RB EMPH CMADJ
+gap	, 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	paragraph	NN
+gap	, 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 '	
+word	the	ART DET
+gap	 	
+word	power	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	self	NN
+gap	-	
+word	movement	NOMZ
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	power	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	sensation	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thought	PRIV NN
+gap	, 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	quite	RB
+gap	 	
+word	foreign	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	body	NN
+gap	' (	
+word	p	NNP
+gap	.17). 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	these	DEMP DET
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	premises	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	easy	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	deduce	PRIV INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	should	NEMD
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	possess	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	body	NN
+gap	, 	
+word	that	DEMP WH
+gap	 	
+word	which	DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	faculties	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	soul	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	nourishment	NOMZ
+gap	, 	
+word	locomotion	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	sense	PRIV NN THATD
+gap	 	
+word	perception	NOMZ
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	bound	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	with	PIN STPR PREP
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	simply	RB
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	thinking	PRIV NN
+gap	 	
+word	thing	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	such	JJ
+gap	 	
+word	apparent	JJ
+gap	 	
+word	certainty	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	arrived	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dubious	JJ
+gap	 	
+word	premise	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	thought	VBD PRIV
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	exclusive	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	soul	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	question	NOMZ
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	brought	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Descartes	CAP NNP
+gap	' 	
+word	contemporaries	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Objections	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Replies	PUBV CAP NNP
+gap	 . 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	asked	SUAV
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	self	NN
+gap	-	
+word	contradictory	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	assert	PUBV INF
+gap	 	
+word	that	THVC DET
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	merely	DWNT RB
+gap	 	
+word	corporeal	JJ
+gap	 	
+word	motion	NOMZ
+gap	, 	
+word	Descartes	CAP NNP
+gap	 	
+word	goes	VPRT
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	exposition	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	believes	VPRT PRIV
+gap	 	
+word	draws	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	parallel	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	associations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	extension	NOMZ
+gap	, 	
+word	revealing	PRIV PRESP THATD PGAS
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	matter	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	convention	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	thought	VBD PRIV
+gap	 	
+word	and	CCONJ
+gap	 	
+word	body	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	inseparable	JJ PRED
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	claims	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	reckon	VPRT PRIV
+gap	 	
+word	that	THVC DET
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	body	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	regard	NN
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	inseparable	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	shape	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	potential	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	motion	NOMZ
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	volition	NOMZ
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	object	PUBV NN THATD
+gap	 	
+word	that	TSUB WHSUB WHCL WH
+gap	 	
+word	possesses	VPRT
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	properties	NN
+gap	 	
+word	necessarily	RB
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	labels	VPRT
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	relationship	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	unity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nature	NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	contrasts	VPRT
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	unity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	composition	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	regards	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	proper	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	interpreting	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	union	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	body	NN
+gap	. 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	likens	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	relationship	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	flesh	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	bone	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	flesh	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	bone	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	united	
+gap	 	
+word	so	RB
+gap	 	
+word	long	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	present	JJ PRED
+gap	 	
+word	within	PIN STPR PREP
+gap	, 	
+word	say	PUBV UH
+gap	, 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	animal	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	nevertheless	RB CONJ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	capable	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	separated	
+gap	. 	
+word	Descartes	CAP NNP
+gap	 	
+word	admits	VPRT PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 '	
+word	cannot	
+gap	 	
+word	guarantee	
+gap	 	
+word	that	
+gap	 	
+word	others	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	convinced	
+gap	 	
+word	of	
+gap	 	
+word	it	
+gap	', 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	very	
+gap	 	
+word	readily	
+gap	 	
+word	understood	
+gap	 	
+word	because	
+gap	 	
+word	he	
+gap	 	
+word	later	
+gap	 	
+word	says	
+gap	 	
+word	that	
+gap	 '	
+word	the	
+gap	 	
+word	only	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	understanding	
+gap	 	
+word	the	
+gap	 	
+word	distinction	
+gap	 (	
+word	between	
+gap	 	
+word	thought	
+gap	 	
+word	and	
+gap	 	
+word	extension	
+gap	) 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	realise	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	notions	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	thinking	
+gap	 	
+word	thing	
+gap	 	
+word	and	
+gap	 	
+word	an	
+gap	 	
+word	extended	
+gap	 	
+word	thing	
+gap	 	
+word	are	
+gap	 	
+word	completely	
+gap	 	
+word	different	
+gap	, 	
+word	and	
+gap	 	
+word	independent	
+gap	 	
+word	of	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	' (	
+word	p	
+gap	72-74). 	
+word	Granted	
+gap	, 	
+word	we	
+gap	 	
+word	may	
+gap	 	
+word	assign	
+gap	 	
+word	different	
+gap	 	
+word	properties	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	 	
+word	and	
+gap	 	
+word	body	
+gap	, 	
+word	but	
+gap	 	
+word	to	
+gap	 	
+word	state	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	independent	
+gap	 	
+word	of	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	draw	
+gap	 	
+word	an	
+gap	 	
+word	invalid	
+gap	 	
+word	conclusion	
+gap	. 	
+word	Who	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	say	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	relationship	
+gap	 	
+word	of	
+gap	 	
+word	thought	
+gap	 	
+word	and	
+gap	 	
+word	extension	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	unity	
+gap	 	
+word	of	
+gap	 	
+word	composition	
+gap	 	
+word	and	
+gap	 	
+word	not	
+gap	 	
+word	of	
+gap	 	
+word	nature	
+gap	? 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	, 	
+word	Descartes	
+gap	' 	
+word	premise	
+gap	 	
+word	that	
+gap	 	
+word	mind	
+gap	 	
+word	and	
+gap	 	
+word	body	
+gap	 	
+word	are	
+gap	 	
+word	separate	
+gap	 	
+word	and	
+gap	 	
+word	distinct	
+gap	 	
+word	is	
+gap	 	
+word	dubious	
+gap	. 	
+word	Already	
+gap	 	
+word	weakened	
+gap	, 	
+word	we	
+gap	 	
+word	shall	
+gap	 	
+word	analyse	
+gap	 	
+word	the	
+gap	 	
+word	rest	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Second	
+gap	 	
+word	Meditation	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	if	
+gap	 	
+word	Descartes	
+gap	 	
+word	manages	
+gap	 	
+word	to	
+gap	 	
+word	salvage	
+gap	 	
+word	his	
+gap	 	
+word	position	
+gap	 	
+word	from	
+gap	 	
+word	Hobbes	
+gap	. 	
+word	He	
+gap	 	
+word	doubts	
+gap	 	
+word	away	
+gap	 	
+word	all	
+gap	 	
+word	notions	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	being	
+gap	 	
+word	a	
+gap	 	
+word	corporeal	
+gap	 	
+word	entity	
+gap	 	
+word	or	
+gap	 	
+word	even	
+gap	 	
+word	tenuous	
+gap	 	
+word	ether	
+gap	. 	
+word	After	
+gap	 	
+word	this	
+gap	, 	
+word	he	
+gap	 	
+word	states	
+gap	 	
+word	that	
+gap	 	
+word	he	
+gap	 	
+word	is	
+gap	 	
+word	still	
+gap	 	
+word	something	
+gap	. 	
+word	Here	
+gap	 	
+word	Descartes	
+gap	 	
+word	makes	
+gap	 	
+word	another	
+gap	 	
+word	illogical	
+gap	 	
+word	move	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	thing	
+gap	 	
+word	to	
+gap	 	
+word	doubt	
+gap	 	
+word	away	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	features	
+gap	 	
+word	you	
+gap	 	
+word	attribute	
+gap	 	
+word	to	
+gap	 	
+word	yourself	
+gap	 	
+word	and	
+gap	 	
+word	quite	
+gap	 	
+word	another	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	them	
+gap	 	
+word	actually	
+gap	 	
+word	stripped	
+gap	 	
+word	away	
+gap	. 	
+word	In	
+gap	 	
+word	a	
+gap	 	
+word	paradoxical	
+gap	 	
+word	section	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	passage	
+gap	, 	
+word	he	
+gap	 	
+word	doubts	
+gap	 	
+word	the	
+gap	 	
+word	integrity	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	method	
+gap	 	
+word	of	
+gap	 	
+word	doubt	
+gap	, 	
+word	asking	
+gap	 	
+word	himself	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	properties	
+gap	 	
+word	he	
+gap	 	
+word	supposes	
+gap	 	
+word	as	
+gap	 	
+word	non	
+gap	-	
+word	existent	
+gap	 	
+word	are	
+gap	 	
+word	actually	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	identity	
+gap	. 	
+word	He	
+gap	 	
+word	then	
+gap	 	
+word	convinces	
+gap	 	
+word	himself	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	'	
+word	s	
+gap	 	
+word	identity	
+gap	 	
+word	is	
+gap	 	
+word	something	
+gap	 	
+word	that	
+gap	 	
+word	thinks	
+gap	, '	
+word	knowledge	
+gap	 	
+word	of	
+gap	 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	depend	
+gap	 	
+word	on	
+gap	 	
+word	things	
+gap	 	
+word	of	
+gap	 	
+word	whose	
+gap	 	
+word	existence	
+gap	 	
+word	I	
+gap	 	
+word	am	
+gap	 	
+word	as	
+gap	 	
+word	yet	
+gap	 	
+word	unaware	
+gap	' (	
+word	p	
+gap	18-19). 	
+word	This	
+gap	 	
+word	conclusion	
+gap	 	
+word	relies	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	implicit	
+gap	 	
+word	premise	
+gap	 	
+word	that	
+gap	 	
+word	if	
+gap	 	
+word	someone	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	thinking	
+gap	 	
+word	thing	
+gap	, 	
+word	separate	
+gap	 	
+word	from	
+gap	 	
+word	corporeal	
+gap	 	
+word	extensions	
+gap	, 	
+word	then	
+gap	 	
+word	his	
+gap	 	
+word	identity	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	reliant	
+gap	 	
+word	on	
+gap	 	
+word	anything	
+gap	 	
+word	else	
+gap	, 	
+word	because	
+gap	 	
+word	everything	
+gap	 	
+word	else	
+gap	 	
+word	falls	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	category	
+gap	 	
+word	as	
+gap	 '	
+word	things	
+gap	 	
+word	which	
+gap	 	
+word	I	
+gap	 	
+word	invent	
+gap	 	
+word	in	
+gap	 	
+word	my	
+gap	 	
+word	imagination	
+gap	', 	
+word	which	
+gap	 	
+word	is	
+gap	 '	
+word	simply	
+gap	 	
+word	contemplating	
+gap	 	
+word	the	
+gap	 	
+word	shape	
+gap	 	
+word	of	
+gap	 	
+word	image	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	corporeal	
+gap	 	
+word	thing	
+gap	'(	
+word	p	
+gap	19). 	
+word	Notice	PRIV CAP INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	premise	NN
+gap	 	
+word	relies	VPRT
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	earlier	JJ TIME CMADJ
+gap	 	
+word	assumption	NOMZ
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	extension	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	separate	JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	distinct	JJ PRED
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	undermined	
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	Descartes	CAP NNP
+gap	 	
+word	repeats	VPRT PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	error	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	believing	PRIV PGAS
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	conjectures	PRIV NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	case	NN
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	supposes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	discard	INF
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	believes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	malicious	JJ
+gap	 	
+word	demon	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	renders	VPRT
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	chimeras	NNP
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	may	POMD SPAU
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	demon	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	should	NEMD
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	stripped	
+gap	 	
+word	away	RB PLACE
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	physical	JJ
+gap	 	
+word	features	NN
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	wouldn	
+gap	'	
+word	t	
+gap	 	
+word	exist	INF
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	rest	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Second	CAP NNP
+gap	 	
+word	Meditation	CAP NNP
+gap	 , 	
+word	Descartes	CAP NNP
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	do	PROD INF
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	add	PUBV INF
+gap	 	
+word	credibility	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	notion	NOMZ
+gap	 	
+word	that	PIN TSUB SCONJ PREP
+gap	 	
+word	thought	VBD PRIV
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	independent	JJ PRED
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	corporeal	JJ
+gap	 	
+word	substances	NN
+gap	. 	
+word	Hobbes	CAP NNP
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	upper	JJ
+gap	 	
+word	hand	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	argument	NOMZ
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	intellect	NN
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	proven	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	liberated	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	body	
+gap	, 	
+word	then	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	that	
+gap	 	
+word	thinking	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	corporeal	
+gap	 	
+word	faculty	
+gap	.	

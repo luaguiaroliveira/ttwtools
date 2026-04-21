@@ -1,850 +1,1443 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2320.1257.txt
-token	tags
-    	
-The	ART CAP DET
-2008	NUM
-financial	JJ
-crisis	NN
-evoked	VBD
-the	ART DET
-return	NN
-of	PIN PREP
-a	ART DET INDA
-series	NN
-of	PIN PREP
-doubts	PRIV NN
-in	PIN CONJ PREP
-concern	NN
-the	ART DET
-limits	NN
-of	PIN PREP
-mainstream	JJ
-economic	JJ
-theory	NN
-.	
-The	ART CAP DET
-idea	NN
-that	PIN DEMO SCONJ PREP
-economy	NN
-follows	VPRT
-a	ART DET INDA
-steady	JJ
-state	PUBV NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-all	QUAN DET
-people	NN
-willing	JJ
-to	PIN TO PREP
-work	INF
-have	INF
-jobs	NN
-—	
-i.e.	CONJ X
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-involuntary	JJ
-unemployment	NOMZ
-—	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-any	QUAN DET
-deviation	NOMZ
-of	PIN PREP
-this	DEMO DET
-trajectory	NN
-is	PASS VPRT BYPA SPAU AUXB
-naturally	RB
-adjusted	
-by	PIN PREP
-the	ART DET
-automatic	JJ
-forces	NN
-of	PIN PREP
-market	NN
-was	PASS VBD SPAU AUXB
-seriously	RB
-contested	
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-the	ART DET
-claim	PUBV NN
-of	PIN PREP
-dysregulated	
-markets	NN
-was	PASS VBD AUXB
-discredited	
-.	
-Although	CONC PIN CAP SCONJ PREP
-died	VBD
-62	NUM
-years	NN
-before	PIN PREP
-the	ART DET
-breakdown	NN
-of	PIN PREP
-the	ART DET
-financial	JJ
-markets	NN
-,	
-Mr.	CAP NNP
-Keynes	CAP NNP
-has	VPRT PEAS
-showed	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-belief	NN
-in	PIN CONJ PREP
-automatic	JJ
-adjustment	NOMZ
-was	VBD AUXB
-nothing	INPR
-more	JJ EMPH CMADJ
-than	PIN PREP
-a	ART DET INDA
-faith	NN
-,	
-and	ANDC CCONJ
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-a	ART DET INDA
-context	NN
-of	PIN PREP
-crisis	NN
-the	ART DET
-intervention	NOMZ
-of	PIN PREP
-Government	CAP NNP
-was	BEMA VBD AUXB
-necessary	JJ PRED
-—	
-just	RB EMPH
-like	PIN PREP
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-in	PIN CONJ PREP
-2008	NUM
-.	
-Compared	PASTP CAP
-only	DWNT RB
-with	PIN PREP
-the	ART DET
-marginalist	NNP
-revolution	NOMZ
-—	
-which	SERE DET WH
-laid	VBD
-the	ART DET
-grounds	NN
-of	PIN PREP
-economic	JJ
-theory	NN
-—	
-and	ANDC CCONJ
-whilst	OSUB PIN SCONJ PREP
-controversial	JJ
-in	PIN CONJ PREP
-academy	NN
-,	
-the	ART DET
-keynesian	NNP
-revolution	NNP
-was	BEMA VBD AUXB
-a	ART DET INDA
-mark	NN
-in	PIN CONJ PREP
-the	ART DET
-XX	CAP NNP
-century	NN
-,	
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-has	VPRT PEAS
-showed	PRIV
-the	ART DET
-blindspots	NN
-of	PIN PREP
-neoclassical	JJ
-economics	NN
-:	
-these	DEMO DET
-autors	NN
-do	VPRT PROD
-n’t	NN
-considerate	NN
-uncertainty	NN
-,	
-the	ART DET
-liquidity	NOMZ
-preference	NN
-or	CCONJ
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-equilibrium	NN
-with	PIN PREP
-subemployment	NOMZ
-.	
-  	
-In	PIN CONJ CAP PREP
-first	JJ
-place	NN
-,	
-one	NUM
-great	JJ
-contribution	NOMZ
-of	PIN PREP
-Keynes	CAP NNP
-for	PIN PREP
-economic	JJ
-theory	NN
-was	BEMA VBD AUXB
-the	ART DET
-concept	NN
-of	PIN PREP
-uncertainty	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-time	NN
-gap	NN
-between	PIN PREP
-the	ART DET
-decision	NOMZ
-of	PIN PREP
-production	NOMZ
-by	PIN PREP
-the	ART DET
-firm	NN
-and	CCONJ
-the	ART DET
-collocation	NOMZ
-of	PIN PREP
-the	ART DET
-product	NN
-in	PIN CONJ PREP
-the	ART DET
-market	NN
-,	
-the	ART DET
-process	NN
-of	PIN PREP
-production	NOMZ
-is	BEMA VPRT AUXB
-expectational	JJ PRED
-.	
-Therefore	RB CONJ CAP
-,	
-once	PIN TIME SCONJ PREP
-that	DEMO DET
-in	PIN CONJ PREP
-the	ART DET
-decision	NOMZ
-moment	NOMZ
-the	ART DET
-current	JJ
-information	NOMZ
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-sufficient	JJ PRED
-to	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-rational	JJ
-choice	NN
-,	
-uncertainty	NN
-envolves	VPRT
-production	NOMZ
-decisions	NOMZ
-of	PIN PREP
-the	ART DET
-agents	NN
-.	
-In	PIN CONJ CAP PREP
-face	NN
-of	PIN PREP
-long	JJ
-term	NN
-choices	NN
-,	
-like	PIN PREP
-a	ART DET INDA
-plan	NN
-of	PIN PREP
-investments	NOMZ
-for	PIN PREP
-10	NUM
-years	NN
-,	
-firms	NN
-can	POMD SPAU
-only	DWNT RB
-conjecture	PRIV INF
-about	PIN PREP
-the	ART DET
-comportament	NOMZ
-of	PIN PREP
-market	NN
-in	PIN CONJ PREP
-the	ART DET
-expected	PRIV
-date	NN
-(	
-CARVALHO	CAP NNP
-,	
-1992a	NUM
-:	
-177	NUM
-)	
-.	
-Neoclassical	JJ CAP
-theorists	NN
-assume	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-risk	NN
-involved	WZPAST
-in	PIN CONJ PREP
-this	DEMO DET
-prospective	JJ
-plans	NN
-can	POMD
-be	PASS AUXB INF
-calculated	PRIV
-,	
-i.e.	CONJ X
-,	
-the	ART DET
-risk	NN
-is	BEMA VPRT AUXB
-probabilistic	JJ PRED
-,	
-while	OSUB PIN SCONJ PREP
-for	PIN PREP
-Keynes	CAP NNP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-possible	JJ
-to	PIN TO PREP
-get	INF
-an	ART DET INDA
-distribution	NOMZ
-of	PIN PREP
-probabilities	NN
-and	CCONJ
-the	ART DET
-subjective	JJ
-probability	NOMZ
-of	PIN PREP
-the	ART DET
-agent	NN
-does	VPRT SPAU
-not	XX0 RB
-equals	VPRT
-to	PIN PREP
-the	ART DET
-objective	JJ
-probability	NOMZ
-of	PIN PREP
-the	ART DET
-event	NN
-(	
-ANDRADE	CAP NNP
-,	
-2011	NUM
-:	
-177	NUM
-)	
-.	
-Economic	JJ CAP
-agents	NN
-just	RB EMPH
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-the	ART DET
-sufficient	JJ
-information	NOMZ
-to	PIN TO PREP
-make	INF
-a	ART DET INDA
-mathematical	JJ
-calculus	NN
-.	
-  	
-Secondly	RB CAP
-,	
-due	PIN PREP
-to	PIN PREP
-uncertainty	NN
-,	
-people	NN
-consider	VPRT PRIV
-as	PIN CONJ PREP
-a	ART DET INDA
-rational	JJ
-choice	NN
-keep	INF
-their	TPP3 PRP SBJP
-wealth	NN
-in	PIN CONJ PREP
-money	NN
-or	CCONJ
-liquidity	NOMZ
-assets	NN
-,	
-like	PIN PREP
-bank	NN
-deposits	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-future	NN
-is	BEMA VPRT AUXB
-uncertain	JJ PRED
-and	CCONJ
-agents	NN
-do	VPRT SPAU
-not	XX0 RB
-share	INF
-the	ART DET
-belief	NN
-that	PIN DEMO SCONJ PREP
-economy	NN
-will	PRMD
-grow	INF
-,	
-they	TPP3 PRP SBJP
-will	PRMD SPAU
-not	XX0 RB
-risk	INF
-their	TPP3 PRP SBJP
-income	NN
-,	
-and	ANDC CCONJ
-will	PRMD
-prefer	SUAV INF
-stay	INF
-“	
-liquid	NN
-”	
-:	
-while	OSUB PIN SCONJ PREP
-keeping	PGAS
-illiquid	JJ
-assets	NN
-,	
-like	PIN PREP
-machines	NN
-or	CCONJ
-land	NN
-,	
-can	POMD
-make	INF
-the	ART DET
-proprietary	JJ
-lose	NN
-with	PIN PREP
-the	ART DET
-depreciation	NOMZ
-,	
-money	NN
-has	VPRT
-the	ART DET
-propriety	NN
-to	PIN TO PREP
-maintain	PUBV INF
-their	TPP3 PRP SBJP
-value	NN
-(	
-in	PIN CONJ PREP
-scenario	NN
-of	PIN PREP
-low	JJ
-inflation	NOMZ
-)	
-and	ANDC CCONJ
-give	INF
-flexibility	NOMZ
-to	PIN PREP
-its	PIT PRP SBJP
-possessor	NN
-,	
- 	
-which	WHQU DET WH
-can	POMD
-enjoy	INF
-good	JJ
-opportunities	NN
-(	
-like	UH
-buy	INF
-an	ART DET INDA
-asset	NN
-that	TSUB WHSUB WH
-will	PRMD
-appreciate	INF
-,	
-or	CCONJ
-engage	INF
-in	PIN CONJ PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-a	ART DET INDA
-commodity	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-believed	PRIV
-will	PRMD
-be	PASS SPAU AUXB INF
-highly	AMP RB
-demanded	SUAV
-)	
-.	
-Then	RB CAP
-,	
-if	COND PIN SCONJ PREP
-expectations	NOMZ
-are	BEMA VPRT AUXB
-pessimistic	JJ PRED
-,	
-the	ART DET
-flexibility	NOMZ
-and	PHC CCONJ
-safety	NN
-of	PIN PREP
-money	NN
-(	
-called	
-liquidity	NOMZ
-premium	NN
-)	
-will	PRMD
-be	BEMA AUXB INF
-higher	JJ PRED CMADJ
-than	PIN PREP
-the	ART DET
-yields	NN
-offered	WZPAST
-by	PIN PREP
-assets	NN
-like	PIN PREP
-investment	NOMZ
-goods	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-choice	NN
-of	PIN PREP
-liquid	JJ
-portfolios	NN
-to	PIN TO PREP
-allocate	INF
-wealth	NN
-will	PRMD
-implicate	INF
-low	JJ
-investment	NOMZ
-,	
-low	JJ
-production	NOMZ
-,	
-low	JJ
-demand	SUAV NN
-of	PIN PREP
-jobs	NN
-and	CCONJ
-the	ART DET
-economy	NN
-,	
-consequently	RB CONJ
-,	
-will	PRMD
-contract	INF
-(	
-CARVALHO	CAP NNP
-,	
-1992b	NUM
-:	
-93	NUM
-)	
-.	
-Therefore	RB CONJ CAP
-,	
-although	CONC PIN SCONJ PREP
-orthodox	JJ
-economists	NN
-declare	VPRT PUBV
-that	PIN THVC SCONJ PREP
-saving	NN
-is	BEMA VPRT AUXB
-good	JJ PRED
-to	PIN PREP
-economy	NN
-,	
-Keynes	CAP NNP
-alleges	VPRT PUBV
-the	ART DET
-inverse	NN
-.	
-   	
-Finally	RB CAP
-,	
-Keynes	CAP NNP
-has	VPRT PEAS
-shown	PRIV
-that	PIN THVC SCONJ PREP
-insufficiency	NN
-of	PIN PREP
-demand	SUAV NN
-can	POMD
-keep	INF
-economy	NN
-below	RB PLACE
-of	PIN PREP
-its	PIT PRP SBJP
-potential	JJ
-product	NN
-and	CCONJ
-,	
-hence	RB CONJ
-,	
-people	NN
-willing	JJ
-to	PIN TO PREP
-work	INF
-will	PRMD SPAU
-not	XX0 RB
-find	PRIV INF
-jobs	NN
-.	
-Once	RB TIME CAP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-portion	NOMZ
-of	PIN PREP
-income	NN
-that	TOBJ WHOBJ WH
-people	NN
-do	VPRT SPAU
-n’t	RB
-spend	INF
-and	CCONJ
-is	PASS VPRT AUXB
-kept	
-as	PIN CONJ PREP
-liquid	JJ
-assets	NN
-,	
-the	ART DET
-aggregate	JJ
-demand	SUAV NN THATD
-function	NOMZ
-has	VPRT
-an	ART DET INDA
-inclination	NOMZ
-lower	JJ CMADJ
-than	PIN PREP
-aggregate	JJ
-supply	NN
-function	NOMZ
-(	
-DAVIDSON	CAP NNP
-,	
-1999:58	NUM
-;	
-CHICK	NN CAP
-,	
-1983:79	NUM
-)	
-,	
-and	ANDC CCONJ
-is	PASS VPRT AUXB
-invalided	
-the	ART DET
-well	RB
--	
-know	JJ PRIV
-Say	PUBV CAP NNP
-Law	CAP NNP
-—	
-the	ART DET
-process	NN
-of	PIN PREP
-production	NOMZ
-,	
-due	JJ
-the	ART DET
-various	JJ
-incomes	NN
-spend	VPRT
-(	
-wages	NN
-,	
-interest	NN
-rate	NN
-)	
-,	
-creates	VPRT
-its	PIT PRP SBJP
-own	JJ
-demand	SUAV NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-demand	SUAV NN
-does	VPRT SPAU
-not	XX0 RB
-equals	VPRT
-to	PIN TO PREP
-supply	INF
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-that	PIN THAC SCONJ PREP
-some	QUAN DET
-production	NOMZ
-will	PRMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-performed	
-,	
-and	ANDC CCONJ
-then	RB
-involuntary	JJ
-unemployment	NOMZ
-will	PRMD
-arise	INF
-;	
-notwithstanding	PIN CONJ PREP
-neoclassics	NN
-supose	VPRT
-all	QUAN DET
-equilibrium	NN
-was	BEMA VBD AUXB
-with	PIN PREP
-full	JJ
-employment	NOMZ
-(	
-the	ART DET
-unemployment	NOMZ
-existing	WZPRES PGAS
-was	BEMA VBD AUXB
-only	DWNT RB
-voluntary	JJ
-or	CCONJ
-temporary	JJ
-)	
-,	
-Keynes	CAP NNP
-pointed	VBD
-that	DEMP WH
-was	BEMA VBD AUXB
-theoretically	RB
-feasible	JJ
-an	ART DET INDA
-equilibrium	NN
-with	PIN PREP
-employment	NOMZ
-bellow	VPRT
-the	ART DET
-maximus	NN
-.	
-  	
-The	ART CAP DET
-contributions	NOMZ
-of	PIN PREP
-Mr.	CAP NNP
-Keynes	CAP NNP
-to	PIN PREP
-economy	NN
-,	
-therefore	RB CONJ
-,	
-is	BEMA VPRT AUXB
-multidimensional	JJ PRED
-,	
-and	ANDC CCONJ
-still	RB
-today	TIME NN
-become	VPRT
-present	JJ
-.	
-The	ART CAP DET
-english	JJ
-economist	NN
-showed	VBD PRIV
-to	PIN PREP
-world	NN
-that	PIN TOBJ THVC SCONJ PREP
-various	JJ
-premisses	NN
-of	PIN PREP
-orthodox	JJ
-economics	NN
-were	BEMA VBD AUXB
-fragile	JJ PRED
-,	
-and	ANDC CCONJ
-attempted	VBD
-to	PIN TO PREP
-tract	INF
-theoretically	RB
- 	
-the	ART DET
-real	JJ
-grounds	NN
-of	PIN PREP
-economic	JJ
-dynamics	NN
-:	
-the	ART DET
-future	NN
-is	BEMA VPRT AUXB
-uncertain	JJ PRED
-,	
-to	PIN TO PREP
-treasure	INF
-(	
-keep	INF
-wealth	NN
-in	PIN CONJ PREP
-money	NN
-)	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-rational	JJ
-decision	NOMZ
-in	PIN CONJ PREP
-this	DEMO DET
-context	NN
-and	ANDC CCONJ
-therefore	RB CONJ
-the	ART DET
-level	NN
-of	PIN PREP
-output	NN
-can	POMD
-be	BEMA AUXB INF
-below	PIN PLACE PREP
-the	ART DET
-most	JJ EMPH SPADJ
-efficiency	NN
-,	
-opening	PGAS
-space	NN
-to	PIN PREP
-government	NOMZ
-intervention	NOMZ
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2320.1257>\n\n<The importance of Mr. Keynes’ ideas for the economic thought>\n\n	
+word	The	ART CAP DET
+gap	 2008 	
+word	financial	JJ
+gap	 	
+word	crisis	NN
+gap	 	
+word	evoked	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	return	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	series	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	doubts	PRIV NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	concern	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	limits	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mainstream	JJ
+gap	 	
+word	economic	JJ
+gap	 	
+word	theory	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	idea	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	economy	NN
+gap	 	
+word	follows	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	steady	JJ
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	people	NN
+gap	 	
+word	willing	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	have	INF
+gap	 	
+word	jobs	NN
+gap	 — 	
+word	i	
+gap	.	
+word	e	
+gap	. 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	involuntary	
+gap	 	
+word	unemployment	
+gap	 — 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	any	
+gap	 	
+word	deviation	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	trajectory	
+gap	 	
+word	is	
+gap	 	
+word	naturally	
+gap	 	
+word	adjusted	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	automatic	
+gap	 	
+word	forces	
+gap	 	
+word	of	
+gap	 	
+word	market	
+gap	 	
+word	was	
+gap	 	
+word	seriously	
+gap	 	
+word	contested	
+gap	, 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	claim	
+gap	 	
+word	of	
+gap	 	
+word	dysregulated	
+gap	 	
+word	markets	
+gap	 	
+word	was	
+gap	 	
+word	discredited	
+gap	. 	
+word	Although	
+gap	 	
+word	died	
+gap	 62 	
+word	years	
+gap	 	
+word	before	
+gap	 	
+word	the	
+gap	 	
+word	breakdown	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	financial	
+gap	 	
+word	markets	
+gap	, 	
+word	Mr	
+gap	. 	
+word	Keynes	
+gap	 	
+word	has	
+gap	 	
+word	showed	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	belief	
+gap	 	
+word	in	
+gap	 	
+word	automatic	
+gap	 	
+word	adjustment	
+gap	 	
+word	was	
+gap	 	
+word	nothing	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	faith	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	context	
+gap	 	
+word	of	
+gap	 	
+word	crisis	
+gap	 	
+word	the	
+gap	 	
+word	intervention	
+gap	 	
+word	of	
+gap	 	
+word	Government	
+gap	 	
+word	was	
+gap	 	
+word	necessary	
+gap	 — 	
+word	just	
+gap	 	
+word	like	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	in	
+gap	 2008. 	
+word	Compared	
+gap	 	
+word	only	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	marginalist	
+gap	 	
+word	revolution	
+gap	 — 	
+word	which	
+gap	 	
+word	laid	
+gap	 	
+word	the	
+gap	 	
+word	grounds	
+gap	 	
+word	of	
+gap	 	
+word	economic	
+gap	 	
+word	theory	
+gap	 — 	
+word	and	
+gap	 	
+word	whilst	
+gap	 	
+word	controversial	
+gap	 	
+word	in	
+gap	 	
+word	academy	
+gap	, 	
+word	the	
+gap	 	
+word	keynesian	
+gap	 	
+word	revolution	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	mark	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	XX	
+gap	 	
+word	century	
+gap	, 	
+word	because	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	showed	
+gap	 	
+word	the	
+gap	 	
+word	blindspots	
+gap	 	
+word	of	
+gap	 	
+word	neoclassical	
+gap	 	
+word	economics	
+gap	: 	
+word	these	
+gap	 	
+word	autors	
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	considerate	
+gap	 	
+word	uncertainty	
+gap	, 	
+word	the	
+gap	 	
+word	liquidity	
+gap	 	
+word	preference	
+gap	 	
+word	or	
+gap	 	
+word	the	
+gap	 	
+word	possibility	
+gap	 	
+word	of	
+gap	 	
+word	equilibrium	
+gap	 	
+word	with	
+gap	 	
+word	subemployment	
+gap	.\n\n	
+word	In	
+gap	 	
+word	first	
+gap	 	
+word	place	
+gap	, 	
+word	one	
+gap	 	
+word	great	
+gap	 	
+word	contribution	
+gap	 	
+word	of	
+gap	 	
+word	Keynes	
+gap	 	
+word	for	
+gap	 	
+word	economic	
+gap	 	
+word	theory	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	concept	
+gap	 	
+word	of	
+gap	 	
+word	uncertainty	
+gap	. 	
+word	Since	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	time	
+gap	 	
+word	gap	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	decision	
+gap	 	
+word	of	
+gap	 	
+word	production	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	firm	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	collocation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	product	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	market	
+gap	, 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	production	
+gap	 	
+word	is	
+gap	 	
+word	expectational	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	once	
+gap	 	
+word	that	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	decision	
+gap	 	
+word	moment	
+gap	 	
+word	the	
+gap	 	
+word	current	
+gap	 	
+word	information	
+gap	 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	sufficient	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	rational	
+gap	 	
+word	choice	
+gap	, 	
+word	uncertainty	
+gap	 	
+word	envolves	
+gap	 	
+word	production	
+gap	 	
+word	decisions	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	agents	
+gap	. 	
+word	In	
+gap	 	
+word	face	
+gap	 	
+word	of	
+gap	 	
+word	long	
+gap	 	
+word	term	
+gap	 	
+word	choices	
+gap	, 	
+word	like	
+gap	 	
+word	a	
+gap	 	
+word	plan	
+gap	 	
+word	of	
+gap	 	
+word	investments	
+gap	 	
+word	for	
+gap	 10 	
+word	years	
+gap	, 	
+word	firms	
+gap	 	
+word	can	
+gap	 	
+word	only	
+gap	 	
+word	conjecture	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	comportament	
+gap	 	
+word	of	
+gap	 	
+word	market	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	expected	
+gap	 	
+word	date	
+gap	 (	
+word	CARVALHO	
+gap	, 1992	
+word	a	
+gap	: 177). 	
+word	Neoclassical	
+gap	 	
+word	theorists	
+gap	 	
+word	assume	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	risk	
+gap	 	
+word	involved	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	prospective	
+gap	 	
+word	plans	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	calculated	
+gap	, 	
+word	i	
+gap	.	
+word	e	
+gap	., 	
+word	the	
+gap	 	
+word	risk	
+gap	 	
+word	is	
+gap	 	
+word	probabilistic	
+gap	, 	
+word	while	
+gap	 	
+word	for	
+gap	 	
+word	Keynes	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	get	
+gap	 	
+word	an	
+gap	 	
+word	distribution	
+gap	 	
+word	of	
+gap	 	
+word	probabilities	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	subjective	
+gap	 	
+word	probability	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	agent	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	equals	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	objective	
+gap	 	
+word	probability	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	event	
+gap	 (	
+word	ANDRADE	
+gap	, 2011: 177). 	
+word	Economic	
+gap	 	
+word	agents	
+gap	 	
+word	just	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	sufficient	
+gap	 	
+word	information	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	mathematical	
+gap	 	
+word	calculus	
+gap	.\n\n	
+word	Secondly	
+gap	, 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	uncertainty	
+gap	, 	
+word	people	
+gap	 	
+word	consider	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	rational	
+gap	 	
+word	choice	
+gap	 	
+word	keep	
+gap	 	
+word	their	
+gap	 	
+word	wealth	
+gap	 	
+word	in	
+gap	 	
+word	money	
+gap	 	
+word	or	
+gap	 	
+word	liquidity	
+gap	 	
+word	assets	
+gap	, 	
+word	like	
+gap	 	
+word	bank	
+gap	 	
+word	deposits	
+gap	. 	
+word	If	
+gap	 	
+word	the	
+gap	 	
+word	future	
+gap	 	
+word	is	
+gap	 	
+word	uncertain	
+gap	 	
+word	and	
+gap	 	
+word	agents	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	share	
+gap	 	
+word	the	
+gap	 	
+word	belief	
+gap	 	
+word	that	
+gap	 	
+word	economy	
+gap	 	
+word	will	
+gap	 	
+word	grow	
+gap	, 	
+word	they	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	risk	
+gap	 	
+word	their	
+gap	 	
+word	income	
+gap	, 	
+word	and	
+gap	 	
+word	will	
+gap	 	
+word	prefer	
+gap	 	
+word	stay	
+gap	 “	
+word	liquid	
+gap	”: 	
+word	while	
+gap	 	
+word	keeping	
+gap	 	
+word	illiquid	
+gap	 	
+word	assets	
+gap	, 	
+word	like	
+gap	 	
+word	machines	
+gap	 	
+word	or	
+gap	 	
+word	land	
+gap	, 	
+word	can	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	proprietary	
+gap	 	
+word	lose	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	depreciation	
+gap	, 	
+word	money	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	propriety	
+gap	 	
+word	to	
+gap	 	
+word	maintain	
+gap	 	
+word	their	
+gap	 	
+word	value	
+gap	 (	
+word	in	
+gap	 	
+word	scenario	
+gap	 	
+word	of	
+gap	 	
+word	low	
+gap	 	
+word	inflation	
+gap	) 	
+word	and	
+gap	 	
+word	give	
+gap	 	
+word	flexibility	
+gap	 	
+word	to	
+gap	 	
+word	its	
+gap	 	
+word	possessor	
+gap	,  	
+word	which	
+gap	 	
+word	can	
+gap	 	
+word	enjoy	
+gap	 	
+word	good	
+gap	 	
+word	opportunities	
+gap	 (	
+word	like	
+gap	 	
+word	buy	
+gap	 	
+word	an	
+gap	 	
+word	asset	
+gap	 	
+word	that	
+gap	 	
+word	will	
+gap	 	
+word	appreciate	
+gap	, 	
+word	or	
+gap	 	
+word	engage	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	production	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	commodity	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	believed	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	highly	
+gap	 	
+word	demanded	
+gap	). 	
+word	Then	
+gap	, 	
+word	if	
+gap	 	
+word	expectations	
+gap	 	
+word	are	
+gap	 	
+word	pessimistic	
+gap	, 	
+word	the	
+gap	 	
+word	flexibility	
+gap	 	
+word	and	
+gap	 	
+word	safety	
+gap	 	
+word	of	
+gap	 	
+word	money	
+gap	 (	
+word	called	
+gap	 	
+word	liquidity	
+gap	 	
+word	premium	
+gap	) 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	higher	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	yields	
+gap	 	
+word	offered	
+gap	 	
+word	by	
+gap	 	
+word	assets	
+gap	 	
+word	like	
+gap	 	
+word	investment	
+gap	 	
+word	goods	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	choice	
+gap	 	
+word	of	
+gap	 	
+word	liquid	
+gap	 	
+word	portfolios	
+gap	 	
+word	to	
+gap	 	
+word	allocate	
+gap	 	
+word	wealth	
+gap	 	
+word	will	
+gap	 	
+word	implicate	
+gap	 	
+word	low	JJ
+gap	 	
+word	investment	
+gap	, 	
+word	low	JJ
+gap	 	
+word	production	
+gap	, 	
+word	low	
+gap	 	
+word	demand	
+gap	 	
+word	of	
+gap	 	
+word	jobs	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	economy	
+gap	, 	
+word	consequently	
+gap	, 	
+word	will	
+gap	 	
+word	contract	
+gap	 (	
+word	CARVALHO	
+gap	, 1992	
+word	b	
+gap	: 93). 	
+word	Therefore	
+gap	, 	
+word	although	
+gap	 	
+word	orthodox	
+gap	 	
+word	economists	
+gap	 	
+word	declare	
+gap	 	
+word	that	
+gap	 	
+word	saving	
+gap	 	
+word	is	
+gap	 	
+word	good	
+gap	 	
+word	to	
+gap	 	
+word	economy	
+gap	, 	
+word	Keynes	
+gap	 	
+word	alleges	
+gap	 	
+word	the	
+gap	 	
+word	inverse	
+gap	.  \n\n	
+word	Finally	
+gap	, 	
+word	Keynes	
+gap	 	
+word	has	
+gap	 	
+word	shown	
+gap	 	
+word	that	
+gap	 	
+word	insufficiency	
+gap	 	
+word	of	
+gap	 	
+word	demand	
+gap	 	
+word	can	
+gap	 	
+word	keep	
+gap	 	
+word	economy	
+gap	 	
+word	below	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	potential	
+gap	 	
+word	product	
+gap	 	
+word	and	
+gap	, 	
+word	hence	
+gap	, 	
+word	people	
+gap	 	
+word	willing	
+gap	 	
+word	to	
+gap	 	
+word	work	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	find	
+gap	 	
+word	jobs	
+gap	. 	
+word	Once	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	portion	
+gap	 	
+word	of	
+gap	 	
+word	income	
+gap	 	
+word	that	
+gap	 	
+word	people	
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	spend	
+gap	 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	kept	
+gap	 	
+word	as	
+gap	 	
+word	liquid	
+gap	 	
+word	assets	
+gap	, 	
+word	the	
+gap	 	
+word	aggregate	
+gap	 	
+word	demand	
+gap	 	
+word	function	
+gap	 	
+word	has	
+gap	 	
+word	an	
+gap	 	
+word	inclination	
+gap	 	
+word	lower	
+gap	 	
+word	than	
+gap	 	
+word	aggregate	
+gap	 	
+word	supply	
+gap	 	
+word	function	
+gap	 (	
+word	DAVIDSON	
+gap	, 1999:58; 	
+word	CHICK	
+gap	, 1983:79), 	
+word	and	
+gap	 	
+word	is	
+gap	 	
+word	invalided	
+gap	 	
+word	the	
+gap	 	
+word	well	
+gap	-	
+word	know	
+gap	 	
+word	Say	
+gap	 	
+word	Law	
+gap	 — 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	of	
+gap	 	
+word	production	
+gap	, 	
+word	due	
+gap	 	
+word	the	
+gap	 	
+word	various	
+gap	 	
+word	incomes	
+gap	 	
+word	spend	
+gap	 (	
+word	wages	
+gap	, 	
+word	interest	
+gap	 	
+word	rate	
+gap	), 	
+word	creates	
+gap	 	
+word	its	
+gap	 	
+word	own	
+gap	 	
+word	demand	SUAV NN
+gap	. 	
+word	Since	
+gap	 	
+word	demand	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	equals	
+gap	 	
+word	to	
+gap	 	
+word	supply	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	that	
+gap	 	
+word	some	
+gap	 	
+word	production	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	performed	
+gap	, 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	involuntary	
+gap	 	
+word	unemployment	
+gap	 	
+word	will	
+gap	 	
+word	arise	
+gap	; 	
+word	notwithstanding	
+gap	 	
+word	neoclassics	
+gap	 	
+word	supose	
+gap	 	
+word	all	
+gap	 	
+word	equilibrium	
+gap	 	
+word	was	
+gap	 	
+word	with	
+gap	 	
+word	full	
+gap	 	
+word	employment	
+gap	 (	
+word	the	
+gap	 	
+word	unemployment	
+gap	 	
+word	existing	
+gap	 	
+word	was	
+gap	 	
+word	only	
+gap	 	
+word	voluntary	
+gap	 	
+word	or	
+gap	 	
+word	temporary	
+gap	), 	
+word	Keynes	
+gap	 	
+word	pointed	
+gap	 	
+word	that	
+gap	 	
+word	was	
+gap	 	
+word	theoretically	
+gap	 	
+word	feasible	
+gap	 	
+word	an	
+gap	 	
+word	equilibrium	
+gap	 	
+word	with	
+gap	 	
+word	employment	
+gap	 	
+word	bellow	
+gap	 	
+word	the	ART CAP DET
+gap	 	
+word	maximus	
+gap	.\n\n	
+word	The	
+gap	 	
+word	contributions	
+gap	 	
+word	of	
+gap	 	
+word	Mr	
+gap	. 	
+word	Keynes	
+gap	 	
+word	to	
+gap	 	
+word	economy	
+gap	, 	
+word	therefore	
+gap	, 	
+word	is	
+gap	 	
+word	multidimensional	
+gap	, 	
+word	and	
+gap	 	
+word	still	
+gap	 	
+word	today	
+gap	 	
+word	become	
+gap	 	
+word	present	
+gap	. 	
+word	The	
+gap	 	
+word	english	
+gap	 	
+word	economist	
+gap	 	
+word	showed	
+gap	 	
+word	to	
+gap	 	
+word	world	
+gap	 	
+word	that	
+gap	 	
+word	various	
+gap	 	
+word	premisses	
+gap	 	
+word	of	
+gap	 	
+word	orthodox	
+gap	 	
+word	economics	
+gap	 	
+word	were	
+gap	 	
+word	fragile	
+gap	, 	
+word	and	
+gap	 	
+word	attempted	
+gap	 	
+word	to	
+gap	 	
+word	tract	
+gap	 	
+word	theoretically	
+gap	  	
+word	the	
+gap	 	
+word	real	
+gap	 	
+word	grounds	
+gap	 	
+word	of	
+gap	 	
+word	economic	
+gap	 	
+word	dynamics	
+gap	: 	
+word	the	
+gap	 	
+word	future	
+gap	 	
+word	is	
+gap	 	
+word	uncertain	
+gap	, 	
+word	to	
+gap	 	
+word	treasure	
+gap	 (	
+word	keep	
+gap	 	
+word	wealth	
+gap	 	
+word	in	
+gap	 	
+word	money	
+gap	) 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	rational	
+gap	 	
+word	decision	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	context	
+gap	 	
+word	and	
+gap	 	
+word	therefore	
+gap	 	
+word	the	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	output	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	below	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	efficiency	
+gap	, 	
+word	opening	
+gap	 	
+word	space	
+gap	 	
+word	to	
+gap	 	
+word	government	
+gap	 	
+word	intervention	
+gap	.\n\n<Bibliographic references>	

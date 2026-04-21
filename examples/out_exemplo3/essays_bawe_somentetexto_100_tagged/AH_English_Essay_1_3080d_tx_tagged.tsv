@@ -1,1262 +1,2152 @@
 # filename: AH_English_Essay_1_3080d_tx.txt
-token	tags
-John	CAP NNP
-Dryden	CAP NNP
-argued	VBD PUBV
-that	PIN THVC SCONJ PREP
-poetry	NN
-written	PUBV WZPAST
-in	PIN CONJ PREP
-blank	JJ
-verse	NN
-was	BEMA VBD AUXB
-in	PIN CONJ PREP
-fact	NN
-not	XX0 RB
-poetry	NN
-:	
-'	CONT QUOT
-poetry	NN
-needed	VBD
-rhyme	NN
-like	PIN PREP
-the	ART DET
-state	PUBV NN
-needed	VBD
-a	ART DET INDA
-king	NN
-.	
-"	QUOT
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-I	FPP1 CAP PRP SBJP
-will	PRMD
-look	INF
-at	PIN PREP
-two	NUM
-poems	NN
-concerned	WZPAST
-with	PIN PREP
-a	ART DET INDA
-similar	JJ
-subject	NN
-matter	NN
-,	
-one	NUM
-engaged	VBD
-in	PIN CONJ PREP
-the	ART DET
-'	CONT QUOT
-bondage	NN
-'	CONT QUOT
-of	PIN PREP
-a	ART DET INDA
-regular	JJ
-rhyme	NN
-scheme	NN
-and	CCONJ
-the	ART DET
-other	JJ
-in	PIN CONJ PREP
-the	ART DET
-'	CONT QUOT
-ancient	JJ
-liberty	NN
-'	CONT QUOT
-of	PIN PREP
-free	JJ
-verse	NN
-.	
-Cited	PASTP CAP
-by	PIN PREP
-Michelle	CAP NNP
-O'Callaghan	CAP NNP
-,	
-approaching	GER PGAS
-poetry	NN
-lecture-31.01.05	NNP
-Milton	CAP NNP
-,	
-cited	PASTP
-by	PIN PREP
-Michelle	CAP NNP
-O'Callaghan	CAP NNP
-,	
-approaching	GER PGAS
-poetry	NN
-lecture-	JJ
-31.01.05	NN
-The	ART CAP DET
-first	JJ
-of	PIN PREP
-these	DEMP DET
-is	VPRT AUXB
-B.	CAP NNP
-Jonson	CAP NNP
-'s	
-'	CONT QUOT
-On	PIN CAP PREP
-My	FPP1 CAP PRP SBJP
-First	CAP NNP
-Son	CAP NNP
-.	
-'	CONT QUOT
-In	PIN CONJ CAP PREP
-this	DEMO DET
-poem	NN
-,	
-the	ART DET
-grief	NN
-of	PIN PREP
-a	ART DET INDA
-father	NN
-who	WHSUB WH
-'s	VPRT
-lost	
-his	TPP3 PRP SBJP
-son	NN
-is	PASS VPRT SPAU AUXB
-strictly	RB
-contained	
-within	PIN PREP
-the	ART DET
-limits	NN
-of	PIN PREP
-a	ART DET INDA
-regular	JJ
-rhyme	NN
-scheme	NN
-.	
-This	DEMP CAP DET
-'	CONT QUOT
-order	SUAV NN
-,	
-regularity	NOMZ
-,	
-skill	NN
-,	
-and	ANDC CCONJ
-art	NN
-'	CONT QUOT
-is	BEMA VPRT AUXB
-characteristic	JJ PRED
-of	PIN PREP
-the	ART DET
-poetry	NN
-of	PIN PREP
-the	ART DET
-time	NN
-.	
-Jonson	CAP NNP
-'s	
-use	NN
-of	PIN PREP
-heroic	JJ
-couplets	NN
-enables	VPRT
-him	TPP3 PRP SBJP ACCU
-to	PIN TO PREP
-present	INF
-each	QUAN DET
-pair	NN
-of	PIN PREP
-lines	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-self	NN
-contained	VBD
-syntactic	JJ
-unit	NN
-.	
-This	DEMP CAP DET
-has	VPRT
-the	ART DET
-effect	NN
-of	PIN PREP
-maintaining	GER PUBV PGAS
-the	ART DET
-momentum	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-For	PIN CAP PREP
-the	ART DET
-most	JJ EMPH SPADJ
-part	NN
-,	
-the	ART DET
-poem	NN
-is	PASS VPRT AUXB
-written	PUBV
-in	PIN CONJ PREP
-iambic	JJ
-pentameter	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-'	CONT QUOT
-most	RB EMPH SPADJ
-popular	JJ
-metrical	JJ
-line	NN
-'	CONT QUOT
-in	PIN CONJ PREP
-English	JJ CAP
-poetry	NN
-.	
-However	RB CONJ CAP
-Jonson	CAP NNP
-makes	VPRT
-a	ART DET INDA
-brief	JJ
-break	NN
-from	PIN PREP
-this	DEMO DET
-in	PIN CONJ PREP
-line	NN
-three	NUM
-:	
-A.	CAP NNP
-de	X
-Tocqueville	CAP NNP
-,	
-cited	PASTP
-in	PIN CONJ PREP
-handout	NN
-,	
-week	NN
-5	NUM
-.	
-'	CONT QUOT
-Approaching	CAP NNP
-Poetry	CAP NNP
-:	
-Free	CAP NNP
-Verse	CAP NNP
-'	CONT QUOT
-Ferguson	CAP NNP
-,	
-Salter	CAP NNP
-,	
-Stallworthy	CAP NNP
-,	
-The	ART CAP DET
-Norton	CAP NNP
-Anthology	CAP NNP
-of	PIN PREP
-Poetry	CAP NNP
-(	
-U.S.A	CAP NNP
-,	
-Norton	CAP NNP
-&	CCONJ
-Company	CAP NNP
-,	
-Inc.	CAP NNP
-1970	NUM
-)	
-4th	NNP
-Edition	CAP NNP
-,	
-introduction	NOMZ
-.	
-'	CONT QUOT
-Seven	CAP NUM
-years	NN
-thou	JJ SPP2
-'	CONT QUOT
-wert	JJ
-lent	NN
-to	PIN PREP
-me	FPP1 PRP SBJP ACCU
-,	
-and	ANDC CCONJ
-I	FPP1 CAP PRP SBJP
-the	ART DET
-pay	NN
-,	
-'	CONT QUOT
-The	ART CAP DET
-first	JJ
-two	NUM
-feet	NN
-in	PIN CONJ PREP
-this	DEMO DET
-line	NN
-are	BEMA VPRT AUXB
-anapaestic	JJ PRED
-.	
-The	ART CAP DET
-addition	NOMZ
-of	PIN PREP
-two	NUM
-extra	JJ
-syllables	NN
-in	PIN CONJ PREP
-this	DEMO DET
-line	NN
-slightly	DWNT RB
-alters	VPRT
-the	ART DET
-beat	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-maintaining	GER PUBV PRESP PGAS
-the	ART DET
-interest	NN
-of	PIN PREP
-the	ART DET
-reader	NN
-.	
-It	PIT CAP PRP SBJP
-also	RB
-has	VPRT
-the	ART DET
-effect	NN
-of	PIN PREP
-suggesting	GER PUBV SUAV PGAS
-Jonson	CAP NNP
-'s	
-difficulty	NN
-at	PIN PREP
-presenting	GER PGAS
-his	TPP3 PRP SBJP
-grief	NN
-within	PIN PREP
-such	EMPH DET
-a	ART DET INDA
-tight	JJ
-metrical	JJ
-scheme	NN
-.	
-Jonson	CAP NNP
-makes	VPRT
-use	NN
-of	PIN PREP
-caesura	NN
-throughout	PIN PREP
-the	ART DET
-poem	NN
-,	
-with	PIN PREP
-lines	NN
-like	PIN STPR PREP
-:	
-'	CONT QUOT
-O	CAP UH
-could	POMD
-I	FPP1 CAP PRP SBJP
-loose	INF
-all	QUAN DET
-father	NN
-now	RB TIME
-!	EXCL
-For	PIN CAP PREP
-why	RB WHQU SCONJ WH
-Will	PRMD CAP
-man	NN
-lament	INF
-the	ART DET
-state	PUBV NN THATD
-he	TPP3 PRP SBJP
-should	NEMD
-envy	INF
-,	
-By	PIN CAP PREP
-fracturing	GER PGAS
-the	ART DET
-lines	NN
-in	PIN CONJ PREP
-this	DEMO DET
-manner	NN
-within	PIN PREP
-the	ART DET
-regular	JJ
-iambic	JJ
-pentameter	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-Jonson	CAP NNP
-is	VPRT SPAU AUXB
-clearly	RB
-showing	PRIV PGAS
-the	ART DET
-distress	NN
-he	TPP3 PRP SBJP
-feels	VPRT PRIV
-at	PIN PREP
-loosing	PGAS
-his	TPP3 PRP SBJP
-eldest	JJ SPADJ
-son	NN
-.	
-He	TPP3 CAP PRP SBJP
-also	RB
-uses	VPRT
-enjambment	NOMZ
-in	PIN CONJ PREP
-this	DEMO DET
-extract	NN
-,	
-flowing	PRESP PGAS
-the	ART DET
-lines	NN
-into	PIN PREP
-each	QUAN DET
-other	JJ
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-maintain	PUBV INF
-the	ART DET
-pace	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-He	TPP3 CAP PRP SBJP
-is	VPRT AUXB
-extending	PGAS
-the	ART DET
-sentence	NN
-concerned	WZPAST
-with	PIN PREP
-the	ART DET
-thought	PRIV NN
-that	PIN TOBJ THVC SCONJ PREP
-he	TPP3 PRP SBJP
-should	NEMD
-be	BEMA AUXB INF
-pleased	JJ PRED
-for	PIN PREP
-his	TPP3 PRP SBJP
-son	NN
-rather	RB
-than	PIN STPR PREP
-'	CONT QUOT
-lamenting	PGAS
-'	CONT QUOT
-his	TPP3 PRP SBJP
-death	NN
-,	
-showing	PRIV PGAS
-that	PIN THVC SCONJ PREP
-while	OSUB PIN SCONJ PREP
-he	TPP3 PRP SBJP
-can	POMD
-reason	PRIV INF
-with	PIN PREP
-himself	TPP3 PRP SBJP ACCU
-,	
-his	TPP3 PRP SBJP
-emotions	NOMZ
-are	BEMA VPRT AUXB
-beyond	PIN PREP
-rational	JJ
-control	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-little	JJ
-figurative	JJ
-language	NN
-in	PIN CONJ PREP
-this	DEMO DET
-poem	NN
-.	
-However	RB CONJ CAP
-,	
-Jonson	CAP NNP
-uses	VPRT
-the	ART DET
-metaphor	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-son	NN
-being	WZPRES AUXB
-'	CONT QUOT
-lent	NN
-'	CONT QUOT
-to	PIN PREP
-him	TPP3 PRP SBJP ACCU
-,	
-and	ANDC CCONJ
-his	TPP3 PRP SBJP
-having	PGAS
-to	PIN TO STPR PREP
-'	CONT QUOT
-pay	INF
-'	CONT QUOT
-for	PIN PREP
-this	DEMO DET
-loan	NN
-on	PIN PREP
-his	TPP3 PRP SBJP
-son	NN
-'s	
-seventh	JJ
-birthday	NN
-.	
-He	TPP3 CAP PRP SBJP
-uses	VPRT
-another	DET
-metaphor	NN
-towards	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-suggesting	GER PUBV SUAV PGAS
-that	PIN THVC SCONJ PREP
-his	TPP3 PRP SBJP
-son	NN
-was	BEMA VBD AUXB
-his	TPP3 PRP SBJP
-'	CONT QUOT
-best	JJ SPADJ
-piece	NN
-of	PIN PREP
-poetry	NN
-.	
-'	CONT QUOT
-Jonson	CAP NNP
-uses	VPRT
-sibilance	NN
-with	PIN STPR PREP
-'	CONT QUOT
-best	JJ SPADJ
-piece	NN
-,	
-'	CONT QUOT
-and	ANDC CCONJ
-coupled	
-with	PIN PREP
-the	ART DET
-meaning	PRIV NN
-of	PIN PREP
-the	ART DET
-metaphor	NN
-,	
-this	DEMP DET
-helps	VPRT
-to	PIN TO PREP
-make	INF
-the	ART DET
-language	NN
-both	CCONJ
-ornamental	JJ
-and	PHC CCONJ
-fundamental	JJ
-to	PIN PREP
-the	ART DET
-meaning	PRIV NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-The	ART CAP DET
-second	JJ
-poem	NN
-is	VPRT AUXB
-J.	CAP NNP
-O'Callaghan	CAP NNP
-'s	
-'	CONT QUOT
-Pleeeeeeeeease	CAP NNP
-.	
-'	CONT QUOT
-Unlike	CAP NNP
-Jonson	CAP NNP
-'s	
-poem	NN
-,	
-this	DEMP DET
-is	PASS VPRT AUXB
-written	PUBV
-in	PIN CONJ PREP
-the	ART DET
-style	NN
-of	PIN PREP
-free	JJ
-verse	NN
-.	
-The	ART CAP DET
-breaks	NN
-in	PIN CONJ PREP
-this	DEMO DET
-poem	NN
-are	BEMA VPRT AUXB
-determined	JJ PRIV SUAV PRED
-'	CONT QUOT
-entirely	AMP RB
-by	PIN PREP
-syntax	NN
-and	PHC CCONJ
-sense	PRIV NN
-.	
-"	QUOT
-O'Callaghan	CAP NNP
-makes	VPRT
-consistent	JJ
-use	NN
-of	PIN PREP
-enjambment	NOMZ
-throughout	PIN PREP
-the	ART DET
-poem	NN
-,	
-with	PIN PREP
-the	ART DET
-only	JJ DWNT
-punctuation	NOMZ
-coming	WZPRES PGAS
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-a	ART DET INDA
-question	NOMZ
-mark	NN
-to	PIN TO PREP
-end	INF
-the	ART DET
-poem	NN
-.	
-Like	PIN CAP PREP
-Jonson	CAP NNP
-,	
-O'Callaghan	CAP NNP
-'s	
-poem	NN
-is	PASS VPRT AUXB
-addressed	
-to	PIN PREP
-someone	QUPR INPR
-who	WH
-has	VPRT PEAS
-died	
-,	
-and	ANDC CCONJ
-by	PIN PREP
-ending	PGAS
-the	ART DET
-poem	NN
-with	PIN PREP
-a	ART DET INDA
-question	NOMZ
-O'Callaghan	CAP NNP
-leaves	VPRT
-the	ART DET
-meaning	PRIV NN
-of	PIN PREP
-the	ART DET
-poem	NN
-hanging	WZPRES PGAS
-in	PIN CONJ PREP
-the	ART DET
-air	NN
-,	
-emphasising	GER PGAS
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-can	POMD SPAU
-never	RB
-be	PASS AUXB INF
-answered	
-.	
-The	ART CAP DET
-poem	NN
-is	BEMA VPRT AUXB
-both	DET
-aural	JJ
-and	PHC CCONJ
-visual	JJ
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-structure	NN
-;	
-although	CONC PIN SCONJ PREP
-the	ART DET
-line	NN
-length	NN
-is	BEMA VPRT AUXB
-mixed	JJ PRED
-,	
-when	RB WHQU SCONJ WH
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-laid	
-out	PIN PREP
-on	PIN PREP
-the	ART DET
-page	NN
-you	SPP2 PRP SBJP
-can	POMD
-see	PRIV INF
-how	RB WHCL SCONJ WH
-the	ART DET
-lines	NN
-are	BEMA VPRT AUXB
-shortest	JJ PRED
-at	PIN PREP
-the	ART DET
-beginning	NN
-and	PHC CCONJ
-end	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-and	CCONJ
-longest	JJ SPADJ
-towards	PIN PREP
-the	ART DET
-middle	NN
-.	
-This	DEMP CAP DET
-has	VPRT
-the	ART DET
-effect	NN
-of	PIN PREP
-showing	PRIV PGAS
-the	ART DET
-speaker	NN
-getting	WZPRES PGAS
-lost	
-in	PIN CONJ PREP
-reminiscence	NN
-as	PIN CONJ PREP
-she	TPP3 PRP SBJP
-gets	VPRT
-into	PIN PREP
-the	ART DET
-poem	NN
-.	
-The	ART CAP DET
-lines	NN
-are	BEMA VPRT AUXB
-stichic	JJ PRED
-,	
-which	SERE DET WH
-stresses	VPRT
-the	ART DET
-flow	NN
-of	PIN PREP
-consciousness	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT BYPA AUXB
-suggested	PUBV SUAV
-by	PIN PREP
-the	ART DET
-lack	NN
-of	PIN PREP
-punctuation	NOMZ
-and	PHC CCONJ
-use	NN
-of	PIN PREP
-enjambment	NOMZ
-.	
-However	RB CONJ CAP
-,	
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-strong	JJ
-relation	NOMZ
-between	PIN PREP
-lineation	NOMZ
-and	PHC CCONJ
-syntax	NN
-,	
-with	PIN PREP
-each	QUAN DET
-line	NN
-presenting	GER WZPRES PGAS
-a	ART DET INDA
-separate	JJ
-thought	PRIV NN
-about	PIN PREP
-an	ART DET INDA
-action	NOMZ
-.	
-This	DEMP CAP DET
-maintains	VPRT PUBV
-the	ART DET
-integrity	NOMZ
-of	PIN PREP
-the	ART DET
-structure	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-and	ANDC CCONJ
-makes	VPRT
-it	PIT PRP SBJP
-easier	JJ CMADJ
-to	PIN TO PREP
-read	INF
-.	
-Derek	CAP NNP
-Attridge	CAP NNP
-,	
-cited	VBD
-in	PIN CONJ PREP
-handout	NN
-,	
-week	NN
-5	NUM
-.	
-'	CONT QUOT
-Approaching	CAP NNP
-Poetry	CAP NNP
-:	
-Free	CAP NNP
-Verse	CAP NNP
-'	CONT QUOT
-O'Callaghan	CAP NNP
-uses	VPRT
-alliteration	NOMZ
-in	PIN CONJ PREP
-line	NN
-6	NUM
-with	PIN STPR PREP
-'	CONT QUOT
-blab	NN
-,	
-'	CONT QUOT
-and	ANDC CCONJ
-'	CONT QUOT
-boats	NN
-and	PHC CCONJ
-bikes	NN
-.	
-'	CONT QUOT
-As	PIN CONJ CAP PREP
-this	DEMP DET
-is	BEMA VPRT AUXB
-the	ART DET
-only	JJ DWNT
-instance	NN
-of	PIN PREP
-alliteration	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-poem	NN
-,	
-it	PIT PRP SBJP
-stands	VPRT
-out	PIN STPR PREP
-,	
-and	ANDC CCONJ
-serves	VPRT
-to	PIN TO PREP
-endear	INF
-the	ART DET
-reader	NN
-to	PIN PREP
-the	ART DET
-subject	NN
-of	PIN PREP
-this	DEMO DET
-poem	NN
-'s	
-irritating	GER PGAS
-habits	NN
-.	
-In	PIN CONJ CAP PREP
-turn	NN
-,	
-this	DEMP DET
-seems	VPRT SMP
-to	PIN TO PREP
-stress	INF
-the	ART DET
-special	JJ
-nature	NN
-of	PIN PREP
-the	ART DET
-relationship	NN
-between	PIN PREP
-the	ART DET
-speaker	NN
-and	CCONJ
-the	ART DET
-subject	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-The	ART CAP DET
-most	RB EMPH SPADJ
-significant	JJ
-structural	JJ
-device	NN
-in	PIN CONJ PREP
-this	DEMO DET
-poem	NN
-is	VPRT AUXB
-O'Callaghan	CAP NNP
-'s	
-use	NN
-of	PIN PREP
-anaphora	NNP
-,	
-beginning	PRESP PGAS
-each	QUAN DET
-line	NN
-with	PIN STPR PREP
-'	CONT QUOT
-and	ANDC CCONJ
-.	
-'	CONT QUOT
-This	DEMP CAP DET
-has	VPRT
-the	ART DET
-same	JJ
-effect	NN
-on	PIN PREP
-the	ART DET
-poem	NN
-as	PIN CONJ PREP
-Jonson	CAP NNP
-'s	
-strict	JJ
-metrical	JJ
-scheme	NN
-:	
-by	PIN PREP
-imposing	PGAS
-a	ART DET INDA
-structure	NN
-onto	PIN PREP
-her	TPP3 PRP SBJP
-thoughts	NN
-,	
-O'Callaghan	CAP NNP
-is	VPRT AUXB
-preventing	GER PGAS
-the	ART DET
-poem	NN
-from	PIN PREP
-becoming	PGAS
-overcome	
-with	PIN PREP
-grief	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-also	RB
-an	ART DET INDA
-example	NN
-of	PIN PREP
-the	ART DET
-'	CONT QUOT
-contrast	NN
-between	PIN PREP
-fixity	NOMZ
-and	PHC CCONJ
-flux	NN
-.	
-"	QUOT
-In	PIN CONJ CAP PREP
-contrasting	GER PGAS
-the	ART DET
-openness	NOMZ
-of	PIN PREP
-the	ART DET
-rhythm	NN
-and	PHC CCONJ
-line	NN
-length	NN
-with	PIN PREP
-a	ART DET INDA
-fixed	JJ
-opening	NN
-to	PIN PREP
-every	QUAN DET
-line	NN
-,	
-O'Callaghan	CAP NNP
-is	VPRT AUXB
-showing	PRIV PGAS
-that	PIN THVC SCONJ PREP
-her	TPP3 PRP SBJP
-poem	NN
-is	VPRT AUXB
-not	XX0 RB
-'	CONT QUOT
-free	JJ
-'	CONT QUOT
-but	CCONJ
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-fact	NN
-controlled	
-.	
-'	CONT QUOT
-The	ART CAP DET
-line	NN
-on	PIN PREP
-the	ART DET
-page	NN
-has	VPRT
-an	ART DET INDA
-integrity	NOMZ
-and	PHC CCONJ
-function	NOMZ
-of	PIN PREP
-its	PIT PRP SBJP
-own	JJ
-.	
-'	CONT QUOT
-T.S	CAP NNP
-Elliot	CAP NNP
-,	
-cited	PASTP
-in	PIN CONJ PREP
-handout	NN
-,	
-week	NN
-5	NUM
-.	
-'	CONT QUOT
-Approaching	CAP NNP
-Poetry	CAP NNP
-:	
-Free	CAP NNP
-Verse	CAP NNP
-'	CONT QUOT
-Derek	CAP NNP
-Attridge	CAP NNP
-,	
-cited	PASTP
-in	PIN CONJ PREP
-handout	NN
-,	
-week	NN
-5	NUM
-.	
-'	CONT QUOT
-Approaching	CAP NNP
-Poetry	CAP NNP
-:	
-Free	CAP NNP
-Verse	CAP NNP
-'	CONT QUOT
-O'Callaghan	CAP NNP
-stresses	VPRT
-that	PIN DEMO SCONJ PREP
-the	ART DET
-poem	NN
-is	PASS VPRT AUXB
-addressed	
-to	PIN PREP
-someone	QUPR INPR
-she	TPP3 PRP SBJP
-knew	VBD PRIV
-well	RB
-with	PIN PREP
-the	ART DET
-use	NN
-of	PIN PREP
-colloquial	JJ
-language	NN
-,	
-such	JJ
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-kooky	NN
-'	CONT QUOT
-in	PIN CONJ PREP
-line	NN
-16	NUM
-and	CCONJ
-by	PIN PREP
-writing	PUBV PGAS
-'	CONT QUOT
-OK	CAP UH
-'	CONT QUOT
-in	PIN CONJ PREP
-the	ART DET
-informal	JJ
-style	NN
-in	PIN CONJ PREP
-line	NN
-19	NUM
-.	
-She	TPP3 CAP PRP SBJP
-also	RB
-refers	VPRT
-to	PIN PREP
-the	ART DET
-'	CONT QUOT
-Prairie	CAP NNP
-Home	CAP NNP
-Companion	CAP NNP
-'	CONT QUOT
-without	PIN PREP
-explanation	NOMZ
-.	
-This	DEMP CAP DET
-seems	VPRT SMP
-to	PIN TO PREP
-make	INF
-the	ART DET
-poem	NN
-feel	PRIV INF
-more	RB EMPH CMADJ
-intimate	JJ
-.	
-The	ART CAP DET
-repetition	NOMZ
-of	PIN PREP
-the	ART DET
-words	NN
-'	CONT QUOT
-I	FPP1 NN CAP
-,	
-'	CONT QUOT
-'	CONT QUOT
-you	SPP2 PRP SBJP
-,	
-'	CONT QUOT
-and	ANDC CCONJ
-most	RB EMPH SPADJ
-significantly	RB
-,	
-'	CONT QUOT
-we	FPP1 PRP SBJP
-,	
-'	CONT QUOT
-has	VPRT
-the	ART DET
-same	JJ
-effect	NN
-.	
-She	TPP3 CAP PRP SBJP
-also	RB
-uses	VPRT
-parallelism	NN
-,	
-by	PIN PREP
-repeating	PUBV PGAS
-the	ART DET
-line	NN
-'	CONT QUOT
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-get	VPRT
-on	PIN PREP
-each	QUAN DET
-other	JJ
-'s	
-nerves	NN
-'	CONT QUOT
-As	PIN CONJ CAP PREP
-this	DEMO DET
-line	NN
-comes	VPRT
-towards	PIN PREP
-the	ART DET
-beginning	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-and	ANDC CCONJ
-then	RB
-again	RB TIME
-towards	PIN PREP
-the	ART DET
-end	NN
-,	
-the	ART DET
-repetition	NOMZ
-serves	VPRT
-to	PIN TO PREP
-bring	INF
-the	ART DET
-poem	NN
-to	PIN PREP
-a	ART DET INDA
-close	NN
-.	
-Although	CONC PIN CAP SCONJ PREP
-these	DEMO DET
-two	NUM
-poems	NN
-are	PASS VPRT AUXB
-written	PUBV
-in	PIN CONJ PREP
-very	AMP RB
-different	JJ
-styles	NN
-,	
-in	PIN CONJ PREP
-both	DET
-cases	NN
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-formal	JJ
-features	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-structure	NN
-which	WHSUB DET WH
-help	VPRT
-to	PIN TO PREP
-control	INF
-their	TPP3 PRP SBJP
-powerful	JJ
-content	NN
-.	
-By	PIN CAP PREP
-presenting	GER PGAS
-the	ART DET
-painful	JJ
-issue	NN
-of	PIN PREP
-death	NN
-in	PIN CONJ PREP
-this	DEMO DET
-measured	JJ
-and	PHC CCONJ
-restrained	JJ
-manner	NN
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-made	
-all	QUAN DET
-the	ART DET
-more	RB EMPH CMADJ
-painful	JJ
-and	CCONJ
-touching	PGAS
-to	PIN PREP
-the	ART DET
-reader	NN
-,	
-rather	RB CONJ
-than	PIN PREP
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-was	PASS VBD SPAU AUXB
-just	RB EMPH
-presented	
-in	PIN CONJ PREP
-an	ART DET INDA
-uncontrolled	JJ
-outpouring	GER
-of	PIN PREP
-grief	NN
-.	
+type	content	tags
+word	John	CAP NNP
+gap	 	
+word	Dryden	CAP NNP
+gap	 	
+word	argued	VBD PUBV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	poetry	NN
+gap	 	
+word	written	PUBV WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	blank	JJ
+gap	 	
+word	verse	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	fact	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	poetry	NN
+gap	: '	
+word	poetry	NN
+gap	 	
+word	needed	VBD
+gap	 	
+word	rhyme	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	needed	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	king	NN
+gap	." 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	look	INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	poems	NN
+gap	 	
+word	concerned	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	similar	JJ
+gap	 	
+word	subject	NN
+gap	 	
+word	matter	NN
+gap	, 	
+word	one	NUM
+gap	 	
+word	engaged	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	bondage	NN
+gap	' 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	regular	JJ
+gap	 	
+word	rhyme	NN
+gap	 	
+word	scheme	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	ancient	JJ
+gap	 	
+word	liberty	NN
+gap	' 	
+word	of	PIN PREP
+gap	 	
+word	free	JJ
+gap	 	
+word	verse	NN
+gap	. 	
+word	Cited	PASTP CAP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Michelle	CAP NNP
+gap	 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	, 	
+word	approaching	
+gap	 	
+word	poetry	
+gap	 	
+word	lecture	
+gap	-31.01.05 	
+word	Milton	
+gap	, 	
+word	cited	
+gap	 	
+word	by	
+gap	 	
+word	Michelle	
+gap	 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	, 	
+word	approaching	
+gap	 	
+word	poetry	
+gap	 	
+word	lecture	
+gap	- 31.01.05 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	is	
+gap	 	
+word	B	
+gap	. 	
+word	Jonson	
+gap	'	
+word	s	
+gap	 ' 	
+word	On	
+gap	 	
+word	My	
+gap	 	
+word	First	
+gap	 	
+word	Son	
+gap	.' 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	poem	
+gap	, 	
+word	the	
+gap	 	
+word	grief	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	father	
+gap	 	
+word	who	
+gap	'	
+word	s	
+gap	 	
+word	lost	
+gap	 	
+word	his	
+gap	 	
+word	son	
+gap	 	
+word	is	
+gap	 	
+word	strictly	
+gap	 	
+word	contained	
+gap	 	
+word	within	
+gap	 	
+word	the	
+gap	 	
+word	limits	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	regular	
+gap	 	
+word	rhyme	
+gap	 	
+word	scheme	
+gap	. 	
+word	This	
+gap	 '	
+word	order	
+gap	, 	
+word	regularity	
+gap	, 	
+word	skill	
+gap	, 	
+word	and	
+gap	 	
+word	art	
+gap	' 	
+word	is	
+gap	 	
+word	characteristic	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poetry	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	 . 	
+word	Jonson	
+gap	'	
+word	s	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	heroic	
+gap	 	
+word	couplets	
+gap	 	
+word	enables	
+gap	 	
+word	him	
+gap	 	
+word	to	
+gap	 	
+word	present	
+gap	 	
+word	each	
+gap	 	
+word	pair	
+gap	 	
+word	of	
+gap	 	
+word	lines	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	self	
+gap	 	
+word	contained	
+gap	 	
+word	syntactic	
+gap	 	
+word	unit	
+gap	. 	
+word	This	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	effect	
+gap	 	
+word	of	
+gap	 	
+word	maintaining	
+gap	 	
+word	the	
+gap	 	
+word	momentum	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	For	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	part	
+gap	, 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	written	
+gap	 	
+word	in	
+gap	 	
+word	iambic	
+gap	 	
+word	pentameter	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 '	
+word	most	
+gap	 	
+word	popular	
+gap	 	
+word	metrical	
+gap	 	
+word	line	
+gap	' 	
+word	in	
+gap	 	
+word	English	
+gap	 	
+word	poetry	
+gap	. 	
+word	However	
+gap	 	
+word	Jonson	
+gap	 	
+word	makes	
+gap	 	
+word	a	
+gap	 	
+word	brief	
+gap	 	
+word	break	
+gap	 	
+word	from	
+gap	 	
+word	this	
+gap	 	
+word	in	
+gap	 	
+word	line	
+gap	 	
+word	three	
+gap	: 	
+word	A	
+gap	. 	
+word	de	
+gap	 	
+word	Tocqueville	
+gap	, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	handout	
+gap	, 	
+word	week	
+gap	 5. ' 	
+word	Approaching	
+gap	 	
+word	Poetry	
+gap	: 	
+word	Free	
+gap	 	
+word	Verse	
+gap	' 	
+word	Ferguson	
+gap	, 	
+word	Salter	
+gap	, 	
+word	Stallworthy	
+gap	, 	
+word	The	
+gap	 	
+word	Norton	
+gap	 	
+word	Anthology	
+gap	 	
+word	of	
+gap	 	
+word	Poetry	
+gap	 (	
+word	U	
+gap	.	
+word	S	
+gap	.	
+word	A	
+gap	, 	
+word	Norton	
+gap	 & 	
+word	Company	
+gap	, 	
+word	Inc	
+gap	. 1970) 4	
+word	th	
+gap	 	
+word	Edition	
+gap	, 	
+word	introduction	
+gap	. '	
+word	Seven	
+gap	 	
+word	years	
+gap	 	
+word	thou	
+gap	 '	
+word	wert	
+gap	 	
+word	lent	
+gap	 	
+word	to	
+gap	 	
+word	me	
+gap	, 	
+word	and	
+gap	 	
+word	I	
+gap	 	
+word	the	
+gap	 	
+word	pay	
+gap	,' 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	two	
+gap	 	
+word	feet	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	line	
+gap	 	
+word	are	
+gap	 	
+word	anapaestic	
+gap	. 	
+word	The	
+gap	 	
+word	addition	
+gap	 	
+word	of	
+gap	 	
+word	two	
+gap	 	
+word	extra	
+gap	 	
+word	syllables	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	line	
+gap	 	
+word	slightly	
+gap	 	
+word	alters	
+gap	 	
+word	the	
+gap	 	
+word	beat	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	maintaining	
+gap	 	
+word	the	
+gap	 	
+word	interest	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	. 	
+word	It	
+gap	 	
+word	also	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	effect	
+gap	 	
+word	of	
+gap	 	
+word	suggesting	
+gap	 	
+word	Jonson	
+gap	'	
+word	s	
+gap	 	
+word	difficulty	
+gap	 	
+word	at	
+gap	 	
+word	presenting	
+gap	 	
+word	his	
+gap	 	
+word	grief	
+gap	 	
+word	within	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	tight	
+gap	 	
+word	metrical	
+gap	 	
+word	scheme	
+gap	. 	
+word	Jonson	
+gap	 	
+word	makes	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	caesura	
+gap	 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	with	
+gap	 	
+word	lines	
+gap	 	
+word	like	
+gap	: '	
+word	O	
+gap	 	
+word	could	
+gap	 	
+word	I	
+gap	 	
+word	loose	
+gap	 	
+word	all	
+gap	 	
+word	father	
+gap	 	
+word	now	
+gap	! 	
+word	For	
+gap	 	
+word	why	
+gap	 	
+word	Will	
+gap	 	
+word	man	
+gap	 	
+word	lament	
+gap	 	
+word	the	
+gap	 	
+word	state	
+gap	 	
+word	he	
+gap	 	
+word	should	
+gap	 	
+word	envy	
+gap	, 	
+word	By	
+gap	 	
+word	fracturing	
+gap	 	
+word	the	
+gap	 	
+word	lines	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	manner	
+gap	 	
+word	within	
+gap	 	
+word	the	
+gap	 	
+word	regular	
+gap	 	
+word	iambic	
+gap	 	
+word	pentameter	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	Jonson	
+gap	 	
+word	is	
+gap	 	
+word	clearly	
+gap	 	
+word	showing	
+gap	 	
+word	the	
+gap	 	
+word	distress	
+gap	 	
+word	he	
+gap	 	
+word	feels	
+gap	 	
+word	at	
+gap	 	
+word	loosing	
+gap	 	
+word	his	
+gap	 	
+word	eldest	
+gap	 	
+word	son	
+gap	. 	
+word	He	
+gap	 	
+word	also	
+gap	 	
+word	uses	
+gap	 	
+word	enjambment	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	extract	
+gap	, 	
+word	flowing	
+gap	 	
+word	the	
+gap	 	
+word	lines	
+gap	 	
+word	into	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	maintain	
+gap	 	
+word	the	
+gap	 	
+word	pace	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	He	
+gap	 	
+word	is	
+gap	 	
+word	extending	
+gap	 	
+word	the	ART DET
+gap	 	
+word	sentence	
+gap	 	
+word	concerned	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	thought	
+gap	 	
+word	that	
+gap	 	
+word	he	
+gap	 	
+word	should	
+gap	 	
+word	be	
+gap	 	
+word	pleased	
+gap	 	
+word	for	
+gap	 	
+word	his	
+gap	 	
+word	son	
+gap	 	
+word	rather	
+gap	 	
+word	than	
+gap	 '	
+word	lamenting	
+gap	' 	
+word	his	
+gap	 	
+word	death	
+gap	, 	
+word	showing	
+gap	 	
+word	that	
+gap	 	
+word	while	
+gap	 	
+word	he	
+gap	 	
+word	can	
+gap	 	
+word	reason	
+gap	 	
+word	with	
+gap	 	
+word	himself	
+gap	, 	
+word	his	
+gap	 	
+word	emotions	
+gap	 	
+word	are	
+gap	 	
+word	beyond	
+gap	 	
+word	rational	
+gap	 	
+word	control	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	little	
+gap	 	
+word	figurative	
+gap	 	
+word	language	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	poem	
+gap	. 	
+word	However	
+gap	, 	
+word	Jonson	
+gap	 	
+word	uses	
+gap	 	
+word	the	
+gap	 	
+word	metaphor	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	son	
+gap	 	
+word	being	
+gap	 '	
+word	lent	
+gap	' 	
+word	to	
+gap	 	
+word	him	
+gap	, 	
+word	and	
+gap	 	
+word	his	
+gap	 	
+word	having	
+gap	 	
+word	to	
+gap	 '	
+word	pay	
+gap	' 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	loan	
+gap	 	
+word	on	
+gap	 	
+word	his	
+gap	 	
+word	son	
+gap	'	
+word	s	
+gap	 	
+word	seventh	
+gap	 	
+word	birthday	
+gap	. 	
+word	He	
+gap	 	
+word	uses	
+gap	 	
+word	another	
+gap	 	
+word	metaphor	
+gap	 	
+word	towards	
+gap	 	
+word	the	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	suggesting	
+gap	 	
+word	that	
+gap	 	
+word	his	
+gap	 	
+word	son	
+gap	 	
+word	was	
+gap	 	
+word	his	
+gap	 '	
+word	best	
+gap	 	
+word	piece	
+gap	 	
+word	of	
+gap	 	
+word	poetry	
+gap	.' 	
+word	Jonson	
+gap	 	
+word	uses	
+gap	 	
+word	sibilance	
+gap	 	
+word	with	
+gap	 '	
+word	best	
+gap	 	
+word	piece	
+gap	,' 	
+word	and	
+gap	 	
+word	coupled	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	meaning	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	metaphor	
+gap	, 	
+word	this	
+gap	 	
+word	helps	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	language	
+gap	 	
+word	both	
+gap	 	
+word	ornamental	
+gap	 	
+word	and	
+gap	 	
+word	fundamental	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	meaning	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	The	
+gap	 	
+word	second	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	J	
+gap	. 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	'	
+word	s	
+gap	 '	
+word	Pleeeeeeeeease	
+gap	.' 	
+word	Unlike	
+gap	 	
+word	Jonson	
+gap	'	
+word	s	
+gap	 	
+word	poem	
+gap	, 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	written	
+gap	 	
+word	in	
+gap	 	
+word	the	ART CAP DET
+gap	 	
+word	style	
+gap	 	
+word	of	
+gap	 	
+word	free	
+gap	 	
+word	verse	
+gap	. 	
+word	The	
+gap	 	
+word	breaks	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	poem	
+gap	 	
+word	are	
+gap	 	
+word	determined	
+gap	 '	
+word	entirely	
+gap	 	
+word	by	
+gap	 	
+word	syntax	
+gap	 	
+word	and	
+gap	 	
+word	sense	
+gap	." 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	 	
+word	makes	
+gap	 	
+word	consistent	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	enjambment	
+gap	 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	only	
+gap	 	
+word	punctuation	
+gap	 	
+word	coming	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	question	
+gap	 	
+word	mark	
+gap	 	
+word	to	
+gap	 	
+word	end	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	Like	
+gap	 	
+word	Jonson	
+gap	, 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	'	
+word	s	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	addressed	
+gap	 	
+word	to	
+gap	 	
+word	someone	
+gap	 	
+word	who	
+gap	 	
+word	has	
+gap	 	
+word	died	
+gap	, 	
+word	and	
+gap	 	
+word	by	
+gap	 	
+word	ending	
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	question	
+gap	 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	 	
+word	leaves	
+gap	 	
+word	the	
+gap	 	
+word	meaning	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	hanging	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	air	
+gap	, 	
+word	emphasising	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	never	
+gap	 	
+word	be	
+gap	 	
+word	answered	
+gap	. 	
+word	The	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	both	
+gap	 	
+word	aural	
+gap	 	
+word	and	
+gap	 	
+word	visual	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	structure	
+gap	; 	
+word	although	
+gap	 	
+word	the	
+gap	 	
+word	line	
+gap	 	
+word	length	
+gap	 	
+word	is	
+gap	 	
+word	mixed	
+gap	, 	
+word	when	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	laid	
+gap	 	
+word	out	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	page	
+gap	 	
+word	you	
+gap	 	
+word	can	
+gap	 	
+word	see	
+gap	 	
+word	how	
+gap	 	
+word	the	
+gap	 	
+word	lines	
+gap	 	
+word	are	
+gap	 	
+word	shortest	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	and	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	and	
+gap	 	
+word	longest	
+gap	 	
+word	towards	
+gap	 	
+word	the	ART DET
+gap	 	
+word	middle	
+gap	. 	
+word	This	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	effect	
+gap	 	
+word	of	
+gap	 	
+word	showing	
+gap	 	
+word	the	
+gap	 	
+word	speaker	
+gap	 	
+word	getting	
+gap	 	
+word	lost	
+gap	 	
+word	in	
+gap	 	
+word	reminiscence	
+gap	 	
+word	as	
+gap	 	
+word	she	
+gap	 	
+word	gets	
+gap	 	
+word	into	
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	
+gap	. 	
+word	The	
+gap	 	
+word	lines	
+gap	 	
+word	are	
+gap	 	
+word	stichic	
+gap	, 	
+word	which	
+gap	 	
+word	stresses	
+gap	 	
+word	the	ART DET
+gap	 	
+word	flow	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	consciousness	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	suggested	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	punctuation	
+gap	 	
+word	and	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	enjambment	
+gap	. 	
+word	However	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	strong	
+gap	 	
+word	relation	
+gap	 	
+word	between	
+gap	 	
+word	lineation	
+gap	 	
+word	and	
+gap	 	
+word	syntax	
+gap	, 	
+word	with	
+gap	 	
+word	each	
+gap	 	
+word	line	
+gap	 	
+word	presenting	
+gap	 	
+word	a	
+gap	 	
+word	separate	
+gap	 	
+word	thought	
+gap	 	
+word	about	
+gap	 	
+word	an	
+gap	 	
+word	action	
+gap	. 	
+word	This	
+gap	 	
+word	maintains	
+gap	 	
+word	the	
+gap	 	
+word	integrity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	structure	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	and	
+gap	 	
+word	makes	
+gap	 	
+word	it	
+gap	 	
+word	easier	
+gap	 	
+word	to	
+gap	 	
+word	read	
+gap	. 	
+word	Derek	
+gap	 	
+word	Attridge	
+gap	, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	handout	
+gap	, 	
+word	week	
+gap	 5. ' 	
+word	Approaching	
+gap	 	
+word	Poetry	
+gap	: 	
+word	Free	
+gap	 	
+word	Verse	
+gap	' 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	 	
+word	uses	
+gap	 	
+word	alliteration	
+gap	 	
+word	in	
+gap	 	
+word	line	
+gap	 6 	
+word	with	
+gap	 '	
+word	blab	
+gap	,' 	
+word	and	
+gap	 '	
+word	boats	
+gap	 	
+word	and	
+gap	 	
+word	bikes	
+gap	.' 	
+word	As	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	only	
+gap	 	
+word	instance	
+gap	 	
+word	of	
+gap	 	
+word	alliteration	
+gap	 	
+word	in	
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	
+gap	, 	
+word	it	
+gap	 	
+word	stands	
+gap	 	
+word	out	
+gap	, 	
+word	and	
+gap	 	
+word	serves	
+gap	 	
+word	to	
+gap	 	
+word	endear	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	subject	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	poem	
+gap	'	
+word	s	
+gap	 	
+word	irritating	
+gap	 	
+word	habits	
+gap	. 	
+word	In	
+gap	 	
+word	turn	
+gap	, 	
+word	this	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	stress	
+gap	 	
+word	the	
+gap	 	
+word	special	
+gap	 	
+word	nature	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	relationship	
+gap	 	
+word	between	
+gap	 	
+word	the	
+gap	 	
+word	speaker	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	subject	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	The	
+gap	 	
+word	most	
+gap	 	
+word	significant	
+gap	 	
+word	structural	
+gap	 	
+word	device	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	'	
+word	s	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	anaphora	
+gap	, 	
+word	beginning	
+gap	 	
+word	each	
+gap	 	
+word	line	
+gap	 	
+word	with	
+gap	 '	
+word	and	
+gap	.' 	
+word	This	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	effect	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	as	
+gap	 	
+word	Jonson	
+gap	'	
+word	s	
+gap	 	
+word	strict	
+gap	 	
+word	metrical	
+gap	 	
+word	scheme	
+gap	: 	
+word	by	
+gap	 	
+word	imposing	
+gap	 	
+word	a	
+gap	 	
+word	structure	
+gap	 	
+word	onto	
+gap	 	
+word	her	
+gap	 	
+word	thoughts	
+gap	, 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	 	
+word	is	
+gap	 	
+word	preventing	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	from	
+gap	 	
+word	becoming	
+gap	 	
+word	overcome	
+gap	 	
+word	with	
+gap	 	
+word	grief	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	an	
+gap	 	
+word	example	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 '	
+word	contrast	
+gap	 	
+word	between	
+gap	 	
+word	fixity	
+gap	 	
+word	and	
+gap	 	
+word	flux	
+gap	." 	
+word	In	
+gap	 	
+word	contrasting	
+gap	 	
+word	the	
+gap	 	
+word	openness	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	rhythm	
+gap	 	
+word	and	
+gap	 	
+word	line	
+gap	 	
+word	length	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	fixed	
+gap	 	
+word	opening	
+gap	 	
+word	to	
+gap	 	
+word	every	
+gap	 	
+word	line	
+gap	, 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	 	
+word	is	
+gap	 	
+word	showing	
+gap	 	
+word	that	
+gap	 	
+word	her	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 '	
+word	free	
+gap	' 	
+word	but	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	fact	
+gap	 	
+word	controlled	
+gap	. '	
+word	The	
+gap	 	
+word	line	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	page	
+gap	 	
+word	has	
+gap	 	
+word	an	
+gap	 	
+word	integrity	
+gap	 	
+word	and	
+gap	 	
+word	function	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	own	
+gap	.' 	
+word	T	
+gap	.	
+word	S	
+gap	 	
+word	Elliot	
+gap	, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	handout	
+gap	, 	
+word	week	
+gap	 5. ' 	
+word	Approaching	
+gap	 	
+word	Poetry	
+gap	: 	
+word	Free	
+gap	 	
+word	Verse	
+gap	' 	
+word	Derek	
+gap	 	
+word	Attridge	
+gap	, 	
+word	cited	
+gap	 	
+word	in	
+gap	 	
+word	handout	
+gap	, 	
+word	week	
+gap	 5. ' 	
+word	Approaching	
+gap	 	
+word	Poetry	
+gap	: 	
+word	Free	
+gap	 	
+word	Verse	
+gap	' 	
+word	O	
+gap	'	
+word	Callaghan	
+gap	 	
+word	stresses	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	addressed	
+gap	 	
+word	to	
+gap	 	
+word	someone	
+gap	 	
+word	she	
+gap	 	
+word	knew	
+gap	 	
+word	well	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	colloquial	
+gap	 	
+word	language	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 '	
+word	kooky	
+gap	' 	
+word	in	
+gap	 	
+word	line	
+gap	 16 	
+word	and	
+gap	 	
+word	by	
+gap	 	
+word	writing	
+gap	 '	
+word	OK	
+gap	' 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	informal	
+gap	 	
+word	style	
+gap	 	
+word	in	
+gap	 	
+word	line	
+gap	 19. 	
+word	She	
+gap	 	
+word	also	
+gap	 	
+word	refers	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 ' 	
+word	Prairie	
+gap	 	
+word	Home	
+gap	 	
+word	Companion	
+gap	 ' 	
+word	without	
+gap	 	
+word	explanation	
+gap	. 	
+word	This	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	feel	
+gap	 	
+word	more	
+gap	 	
+word	intimate	
+gap	. 	
+word	The	
+gap	 	
+word	repetition	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	words	
+gap	 '	
+word	I	
+gap	,' '	
+word	you	
+gap	,' 	
+word	and	
+gap	 	
+word	most	
+gap	 	
+word	significantly	
+gap	, '	
+word	we	FPP1 PRP SBJP
+gap	,' 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	effect	
+gap	. 	
+word	She	
+gap	 	
+word	also	
+gap	 	
+word	uses	
+gap	 	
+word	parallelism	
+gap	, 	
+word	by	
+gap	 	
+word	repeating	
+gap	 	
+word	the	
+gap	 	
+word	line	
+gap	 '	
+word	and	
+gap	 	
+word	we	
+gap	 	
+word	get	
+gap	 	
+word	on	
+gap	 	
+word	each	
+gap	 	
+word	other	
+gap	'	
+word	s	
+gap	 	
+word	nerves	
+gap	' 	
+word	As	
+gap	 	
+word	this	
+gap	 	
+word	line	
+gap	 	
+word	comes	
+gap	 	
+word	towards	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	again	
+gap	 	
+word	towards	
+gap	 	
+word	the	
+gap	 	
+word	end	
+gap	, 	
+word	the	
+gap	 	
+word	repetition	
+gap	 	
+word	serves	
+gap	 	
+word	to	
+gap	 	
+word	bring	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	close	
+gap	. 	
+word	Although	
+gap	 	
+word	these	
+gap	 	
+word	two	
+gap	 	
+word	poems	
+gap	 	
+word	are	
+gap	 	
+word	written	
+gap	 	
+word	in	
+gap	 	
+word	very	
+gap	 	
+word	different	
+gap	 	
+word	styles	
+gap	, 	
+word	in	
+gap	 	
+word	both	
+gap	 	
+word	cases	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	formal	
+gap	 	
+word	features	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	structure	
+gap	 	
+word	which	
+gap	 	
+word	help	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	their	
+gap	 	
+word	powerful	
+gap	 	
+word	content	
+gap	. 	
+word	By	
+gap	 	
+word	presenting	
+gap	 	
+word	the	
+gap	 	
+word	painful	
+gap	 	
+word	issue	
+gap	 	
+word	of	
+gap	 	
+word	death	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	measured	
+gap	 	
+word	and	
+gap	 	
+word	restrained	
+gap	 	
+word	manner	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	made	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	more	
+gap	 	
+word	painful	
+gap	 	
+word	and	
+gap	 	
+word	touching	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	, 	
+word	rather	
+gap	 	
+word	than	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	just	
+gap	 	
+word	presented	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	uncontrolled	
+gap	 	
+word	outpouring	
+gap	 	
+word	of	
+gap	 	
+word	grief	
+gap	.	

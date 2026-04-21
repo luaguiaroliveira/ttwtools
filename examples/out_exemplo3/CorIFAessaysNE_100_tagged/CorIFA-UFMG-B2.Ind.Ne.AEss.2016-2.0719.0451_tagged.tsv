@@ -1,615 +1,1017 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0719.0451.txt
-token	tags
-    	
-Which	CAP DET WH
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-important	JJ
-:	
-talent	NN
-or	CCONJ
-hard	JJ
-work	NN
-?	QUES
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-an	ART DET INDA
-issue	NN
-that	TSUB WHSUB WH
-do	VPRT SPAU
-not	XX0 RB
-have	INF
-consensus	NN
-among	PIN PREP
-specialists	NN
-from	PIN PREP
-several	QUAN JJ
-knowledge	NN
-fields	NN
-–	
-arts	NN
-,	
-music	NN
-,	
-sports	NN
-,	
-education	NOMZ
-etc	X
-.	
-The	ART CAP DET
-talent	NN
-is	PASS VPRT AUXB
-considered	PRIV
-an	ART DET INDA
-innate	JJ
-ability	NOMZ
-–	
-like	PIN PREP
-a	ART DET INDA
-virtue	NN
-–	
-that	DEMP WH
-turn	VPRT
-us	FPP1 PRP SBJP ACCU
-able	JJ
-to	PIN TO PREP
-do	PROD INF
-somethings	GER
-with	PIN PREP
-a	ART DET INDA
-superior	JJ
-quality	NOMZ
-,	
-but	CCONJ
-without	PIN PREP
-great	JJ
-effort	NN
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-the	ART DET
-hard	JJ
-work	NN
-may	POMD
-be	PASS AUXB INF
-seen	PRIV
-as	PIN CONJ PREP
-something	QUPR INPR
-required	SUAV WZPAST
-only	DWNT RB
-for	PIN PREP
-the	ART DET
-people	NN
-that	TSUB WHSUB WH
-would	PRMD
-be	PASS AUXB INF
-unprovided	
-of	PIN PREP
-talent	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-this	DEMP DET
-,	
-the	ART DET
-talent	NN
-people	NN
-are	PASS VPRT AUXB
-regarded	
-better	RB CMADJ
-than	PIN PREP
-the	ART DET
-people	NN
-that	TSUB WHSUB WH
-need	VPRT
-to	PIN TO PREP
-do	PROD INF
-hard	JJ
-work	NN
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-excellence	NN
-degree	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-I	FPP1 CAP PRP SBJP
-will	PRMD
-argue	PUBV THATD INF
-that	PIN STPR DEMP SCONJ PREP
-,	
-oftentimes	NN
-,	
-the	ART DET
-talent	NN
-will	PRMD
-be	BEMA AUXB INF
-not	XX0 RB
-enough	JJ
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-excellence	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-enable	JJ PRED
-fundamentally	RB
-through	PIN PREP
-the	ART DET
-hard	JJ
-work	NN
-and	CCONJ
-,	
-therefore	RB CONJ
-,	
-everyone	QUPR INPR
-is	VPRT AUXB
-habile	NN
-to	PIN TO PREP
-do	PROD INF
-anything	QUPR INPR
-on	PIN PREP
-the	ART DET
-better	JJ CMADJ
-way	NN
-.	
- 	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-unquestionable	JJ PRED
-that	THAC DET
-talent	NN
-is	BEMA VPRT AUXB
-very	AMP RB
-important	JJ
-to	PIN TO PREP
-give	INF
-quality	NOMZ
-in	PIN CONJ PREP
-our	FPP1 PRP SBJP
-dids	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-Arts	CAP NNP
-there	EX
-are	VPRT AUXB
-several	QUAN JJ
-examples	NN
-about	PIN PREP
-artists	NN
-very	AMP RB
-talented	JJ
-–	
-Caravaggio	CAP NNP
-,	
-Rembrandt	CAP NNP
-,	
-Vincent	CAP NNP
-van	NNP
-Gogh	CAP NNP
-etc	X
-.	
-Pieces	NN CAP
-as	PIN CONJ STPR PREP
-“	
-The	ART CAP DET
-Conversion	CAP NNP
-of	PIN PREP
-Saint	CAP NNP
-Paul	CAP NNP
-”	
-,	
-“	
-The	ART CAP DET
-Night	CAP NNP
-Watch	CAP NNP
-”	
-,	
-and	ANDC CCONJ
-“	
-Bedroom	NN CAP
-in	PIN CONJ PREP
-Arles	CAP NNP
-”	
-show	VPRT PRIV
-their	TPP3 PRP SBJP
-talent	NN
-.	
-“	
-The	ART CAP DET
-Brandenburg	CAP NNP
-Concerts	CAP NNP
-”	
-,	
-the	ART DET
-fugues	NN
-,	
-“	
-The	ART CAP DET
-Well	RB CAP
--	
-Tempered	CAP
-Clavier	NN CAP
-”	
-are	VPRT AUXB
-Bach	CAP NNP
-’s	
-masterpieces	NN
-,	
-which	SERE WHQU DET WH
-would	PRMD SPAU
-not	XX0 RB
-compose	INF
-if	COND PIN SCONJ PREP
-he	TPP3 PRP SBJP
-was	PASS VBD AUXB
-unprovided	
-of	PIN PREP
-talent	NN
-.	
-Generally	RB CAP
-,	
-the	ART DET
-talent	NN
-is	BEMA VPRT AUXB
-perceptible	JJ PRED
-,	
-especially	RB
-in	PIN CONJ PREP
-works	NN
-considered	PRIV
-emblematic	JJ
-.	
-Examples	NN CAP
-of	PIN PREP
-this	DEMP DET
-are	BEMA VPRT AUXB
-the	ART DET
-Architectonic	CAP NNP
-Complex	CAP NNP
-of	PIN PREP
-Pampulha	CAP NNP
-–	
-designed	PASTP
-by	PIN PREP
-Oscar	CAP NNP
-Niemeyer	CAP NNP
-when	RB SCONJ WH
-he	TPP3 PRP SBJP
-was	BEMA VBD AUXB
-a	ART DET INDA
-young	JJ
-architect	NN
-–	
-,	
-“	
-Monalisa	CAP NNP
-”	
-of	PIN PREP
-Leonardo	CAP NNP
-da	NNP
-Vinci	CAP NNP
-,	
-and	ANDC CCONJ
-Auguste	CAP NNP
-Rodin	CAP NNP
-with	PIN PREP
-him	TPP3 PRP SBJP ACCU
-“	
-The	ART CAP DET
-Thinker	CAP NNP
-”	
-.	
-If	COND PIN CAP SCONJ PREP
-these	DEMO DET
-artists	NN
-and	PHC CCONJ
-musicians	NN
-were	PASS VBD AUXB
-untalented	
-,	
-may	POMD
-be	AUXB INF
-we	FPP1 PRP SBJP
-could	POMD SPAU
-not	XX0 RB
-joy	INF
-these	DEMO DET
-prodigious	JJ
-pieces	NN
-.	
- 	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-side	NN
-,	
-in	PIN CONJ PREP
-common	JJ
-sense	PRIV NN
-,	
-the	ART DET
-hard	JJ
-work	NN
-is	PASS VPRT AUXB
-seen	PRIV
-as	PIN CONJ PREP
-a	ART DET INDA
-thing	NN
-needful	JJ
-by	PIN PREP
-talentless	JJ
-people	NN
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-this	DEMP DET
-,	
-the	ART DET
-who	WH
-needs	VPRT
-work	NN
-hardly	DWNT RB
-may	POMD
-have	INF
-difficult	JJ
-to	PIN TO PREP
-have	INF
-them	TPP3 PRP SBJP ACCU
-works	NN
-recognized	PRIV
-.	
-In	PIN CONJ CAP PREP
-sports	NN
-,	
-the	ART DET
-athletes	NN
-called	
-“	
-workers	NN
-”	
-are	VPRT AUXB
-,	
-commonly	RB
-,	
-considered	PRIV
-underdogs	NN
-in	PIN CONJ PREP
-sports	NN
-betting	PUBV NN
-.	
-In	PIN CONJ CAP PREP
-school	NN
-,	
-some	QUAN DET
-students	NN
-need	VPRT
-to	PIN TO PREP
-make	INF
-effort	NN
-and	CCONJ
-study	INF
-more	JJ EMPH CMADJ
-than	PIN PREP
-others	NN
-,	
-to	PIN TO PREP
-overcome	INF
-their	TPP3 PRP SBJP
-difficult	JJ
-in	PIN CONJ PREP
-the	ART DET
-various	JJ
-subjects	NN
-.	
-However	RB CONJ CAP
-,	
-with	PIN PREP
-hard	JJ
-work	NN
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-achieve	INF
-goals	NN
-,	
-like	PIN PREP
-the	ART DET
-talented	JJ
-people	NN
-.	
-In	PIN CONJ CAP PREP
-Tennis	CAP NNP
-,	
-for	PIN PREP
-example	NN
-,	
-there	EX
-are	VPRT AUXB
-players	NN
-with	PIN PREP
-less	JJ CMADJ
-talent	NN
-–	
-like	PIN PREP
-David	CAP NNP
-Ferrer	CAP NNP
-–	
-that	DEMP WH
-obtain	VPRT
-good	JJ
-results	NN
-,	
-winning	PGAS
-tournaments	NOMZ
-and	CCONJ
-great	JJ
-prizes	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-same	JJ
-way	NN
-,	
-student	NN
-may	POMD
-acquire	INF
-knowledge	NN
-to	PIN TO PREP
-get	INF
-good	JJ
-grades	NN
-.	
- 	
-Finally	RB CAP
-,	
-the	ART DET
-talent	NN
-and	CCONJ
-the	ART DET
-hard	JJ
-work	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-opposite	JJ PIN STPR PREP
-:	
-the	ART DET
-first	JJ
-may	POMD
-be	PASS BYPA AUXB INF
-complemented	
-by	PIN PREP
-the	ART DET
-last	JJ
-.	
-Even	RB CAP
-they	TPP3 PRP SBJP
-is	PASS VPRT AUXB
-talented	
-,	
-probably	RB
-the	ART DET
-artists	NN
-and	PHC CCONJ
-musicians	NN
-mentioned	PUBV WZPAST
-above	RB PLACE
-did	VBD PROD
-not	XX0 RB
-their	TPP3 PRP SBJP
-masterpieces	NN
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-work	INF
-hardly	DWNT RB
-.	
-Even	RB CAP
-if	COND PIN SCONJ PREP
-the	ART DET
-talent	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-innate	JJ
-virtue	NN
-,	
-it	PIT PRP SBJP
-need	VPRT
-to	PIN TO PREP
-be	AUXB INF
-develop	INF
-to	PIN TO PREP
-improve	INF
-the	ART DET
-quality	NOMZ
-.	
-Roger	CAP NNP
-Federer	CAP NNP
-–	
-considered	VBD PRIV
-the	ART DET
-best	JJ SPADJ
-tennis	NN
-player	NN
-of	PIN PREP
-all	QUAN DET
-time	NN
-–	
-have	VPRT
-trainings	NN
-daily	RB
-to	PIN TO PREP
-keep	INF
-him	TPP3 PRP SBJP ACCU
-good	JJ
-physical	JJ
-and	CCONJ
-technique	NN
-fit	NN
-.	
-Otherwise	RB CONJ CAP
-,	
-he	TPP3 PRP SBJP
-will	PRMD SPAU
-not	XX0 RB
-stay	INF
-in	PIN CONJ PREP
-the	ART DET
-top	JJ
-ten	NUM
-of	PIN PREP
-the	ART DET
-world	NN
-ranking	WZPRES PGAS
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-the	ART DET
-talent	NN
-is	BEMA VPRT AUXB
-very	AMP RB
-important	JJ
-;	
-but	CCONJ
-with	PIN PREP
-no	SYNE DET
-hard	JJ
-work	NN
-,	
-the	ART DET
-talent	NN
-will	PRMD
-do	SPAU INF
-not	XX0 RB
-develop	INF
-and	CCONJ
-will	PRMD
-turn	INF
-stagnant	JJ
-.	
-Therefore	RB CONJ CAP
-,	
-the	ART DET
-talent	NN
-needs	VPRT
-the	ART DET
-hard	JJ
-work	NN
-to	PIN TO PREP
-emerge	INF
-and	PHC CCONJ
-qualify	INF
-the	ART DET
-human	JJ
-dids	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0719.0451>\n\n<Which is more important: talent or hard work?>\n\n	
+word	Which	CAP DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	important	JJ
+gap	: 	
+word	talent	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	? 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	issue	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	INF
+gap	 	
+word	consensus	NN
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	specialists	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	fields	NN
+gap	 – 	
+word	arts	NN
+gap	, 	
+word	music	NN
+gap	, 	
+word	sports	NN
+gap	, 	
+word	education	NOMZ
+gap	 	
+word	etc	X
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	talent	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	innate	JJ
+gap	 	
+word	ability	NOMZ
+gap	 – 	
+word	like	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	virtue	NN
+gap	 – 	
+word	that	DEMP WH
+gap	 	
+word	turn	VPRT
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	somethings	GER
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	superior	JJ
+gap	 	
+word	quality	NOMZ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	great	JJ
+gap	 	
+word	effort	NN
+gap	. 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	something	QUPR INPR
+gap	 	
+word	required	SUAV WZPAST
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	unprovided	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	talent	NN
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	people	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	regarded	
+gap	 	
+word	better	RB CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	excellence	NN
+gap	 	
+word	degree	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	argue	PUBV THATD INF
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	oftentimes	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	enough	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	excellence	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	enable	JJ PRED
+gap	 	
+word	fundamentally	RB
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	therefore	RB CONJ
+gap	, 	
+word	everyone	QUPR INPR
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	habile	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	anything	QUPR INPR
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	way	NN
+gap	.\n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	unquestionable	JJ PRED
+gap	 	
+word	that	THAC DET
+gap	 	
+word	talent	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	important	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	give	INF
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	dids	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Arts	CAP NNP
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	examples	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	artists	NN
+gap	 	
+word	very	AMP RB
+gap	 	
+word	talented	JJ
+gap	 – 	
+word	Caravaggio	CAP NNP
+gap	, 	
+word	Rembrandt	CAP NNP
+gap	, 	
+word	Vincent	CAP NNP
+gap	 	
+word	van	NNP
+gap	 	
+word	Gogh	CAP NNP
+gap	 	
+word	etc	X
+gap	. 	
+word	Pieces	NN CAP
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 “	
+word	The	ART CAP DET
+gap	 	
+word	Conversion	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Saint	CAP NNP
+gap	 	
+word	Paul	CAP NNP
+gap	”, “	
+word	The	ART CAP DET
+gap	 	
+word	Night	CAP NNP
+gap	 	
+word	Watch	CAP NNP
+gap	”, 	
+word	and	ANDC CCONJ
+gap	 “	
+word	Bedroom	NN CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Arles	CAP NNP
+gap	” 	
+word	show	VPRT PRIV
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	talent	NN
+gap	. “	
+word	The	ART CAP DET
+gap	 	
+word	Brandenburg	CAP NNP
+gap	 	
+word	Concerts	CAP NNP
+gap	”, 	
+word	the	ART DET
+gap	 	
+word	fugues	NN
+gap	, “	
+word	The	ART CAP DET
+gap	 	
+word	Well	RB CAP
+gap	-	
+word	Tempered	CAP
+gap	 	
+word	Clavier	NN CAP
+gap	” 	
+word	are	VPRT AUXB
+gap	 	
+word	Bach	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	masterpieces	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	compose	INF
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	unprovided	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	talent	NN
+gap	. 	
+word	Generally	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	perceptible	JJ PRED
+gap	, 	
+word	especially	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	works	NN
+gap	 	
+word	considered	PRIV
+gap	 	
+word	emblematic	JJ
+gap	. 	
+word	Examples	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Architectonic	CAP NNP
+gap	 	
+word	Complex	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Pampulha	CAP NNP
+gap	 – 	
+word	designed	PASTP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Oscar	CAP NNP
+gap	 	
+word	Niemeyer	CAP NNP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	young	JJ
+gap	 	
+word	architect	NN
+gap	 –, “	
+word	Monalisa	CAP NNP
+gap	” 	
+word	of	PIN PREP
+gap	 	
+word	Leonardo	CAP NNP
+gap	 	
+word	da	NNP
+gap	 	
+word	Vinci	CAP NNP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	Auguste	CAP NNP
+gap	 	
+word	Rodin	CAP NNP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 “	
+word	The	ART CAP DET
+gap	 	
+word	Thinker	CAP NNP
+gap	”. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	artists	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	musicians	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	untalented	
+gap	, 	
+word	may	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	joy	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	prodigious	JJ
+gap	 	
+word	pieces	NN
+gap	.\n	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	side	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	common	JJ
+gap	 	
+word	sense	PRIV NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	seen	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	thing	NN
+gap	 	
+word	needful	JJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	talentless	JJ
+gap	 	
+word	people	NN
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	the	ART DET
+gap	 	
+word	who	WH
+gap	 	
+word	needs	VPRT
+gap	 	
+word	work	NN
+gap	 	
+word	hardly	DWNT RB
+gap	 	
+word	may	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	difficult	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	have	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	works	NN
+gap	 	
+word	recognized	PRIV
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	sports	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	athletes	NN
+gap	 	
+word	called	
+gap	 “	
+word	workers	NN
+gap	” 	
+word	are	VPRT AUXB
+gap	, 	
+word	commonly	RB
+gap	, 	
+word	considered	PRIV
+gap	 	
+word	underdogs	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	sports	NN
+gap	 	
+word	betting	PUBV NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	school	NN
+gap	, 	
+word	some	QUAN DET
+gap	 	
+word	students	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	effort	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	study	INF
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	others	NN
+gap	, 	
+word	to	PIN TO PREP
+gap	 	
+word	overcome	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	difficult	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	various	JJ
+gap	 	
+word	subjects	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	with	PIN PREP
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	goals	NN
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	talented	JJ
+gap	 	
+word	people	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	Tennis	CAP NNP
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	players	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	talent	NN
+gap	 – 	
+word	like	PIN PREP
+gap	 	
+word	David	CAP NNP
+gap	 	
+word	Ferrer	CAP NNP
+gap	 – 	
+word	that	DEMP WH
+gap	 	
+word	obtain	VPRT
+gap	 	
+word	good	JJ
+gap	 	
+word	results	NN
+gap	, 	
+word	winning	PGAS
+gap	 	
+word	tournaments	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	great	JJ
+gap	 	
+word	prizes	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	student	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	acquire	INF
+gap	 	
+word	knowledge	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	get	INF
+gap	 	
+word	good	JJ
+gap	 	
+word	grades	NN
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	opposite	JJ PIN STPR PREP
+gap	: 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	complemented	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	last	JJ
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	talented	
+gap	, 	
+word	probably	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	artists	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	musicians	NN
+gap	 	
+word	mentioned	PUBV WZPAST
+gap	 	
+word	above	RB PLACE
+gap	 	
+word	did	VBD PROD
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	masterpieces	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	work	INF
+gap	 	
+word	hardly	DWNT RB
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	innate	JJ
+gap	 	
+word	virtue	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	develop	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	quality	NOMZ
+gap	. 	
+word	Roger	CAP NNP
+gap	 	
+word	Federer	CAP NNP
+gap	 – 	
+word	considered	VBD PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	tennis	NN
+gap	 	
+word	player	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	time	NN
+gap	 – 	
+word	have	VPRT
+gap	 	
+word	trainings	NN
+gap	 	
+word	daily	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	keep	INF
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	good	JJ
+gap	 	
+word	physical	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	technique	NN
+gap	 	
+word	fit	NN
+gap	. 	
+word	Otherwise	RB CONJ CAP
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	stay	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	top	JJ
+gap	 	
+word	ten	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	ranking	WZPRES PGAS
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	important	JJ
+gap	; 	
+word	but	CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	do	SPAU INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	develop	INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	will	PRMD
+gap	 	
+word	turn	INF
+gap	 	
+word	stagnant	JJ
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	talent	NN
+gap	 	
+word	needs	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	hard	JJ
+gap	 	
+word	work	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	emerge	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	qualify	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	dids	NN
+gap	.	

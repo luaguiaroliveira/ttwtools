@@ -1,1465 +1,2572 @@
 # filename: PS_Computer_Science_Essay_1_0228c_tx.txt
-token	tags
-The	ART CAP DET
-new	JJ
-English	CAP NNP
-Penguin	CAP NNP
-dictionary	NN
-defines	VPRT
-a	ART DET INDA
-computer	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-'	CONT QUOT
-programmable	JJ
-electronic	JJ
-device	NN
-that	TSUB WHSUB WH
-can	POMD
-store	INF
-,	
-retrieve	INF
-and	CCONJ
-process	NN
-data	NN
-'	CONT QUOT
-[	X
-1	NUM
-]	
-.	
-Outlined	PASTP CAP
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-it	PIT PRP SBJP
-means	VPRT PRIV THATD
-that	PIN THVC SCONJ PREP
-when	RB SCONJ WH
-talking	PGAS
-about	PIN PREP
-what	WH
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-one	PRP SBJP
-has	VPRT
-to	PIN TO PREP
-take	INF
-into	PIN PREP
-account	NN
-that	PIN DEMO SCONJ PREP
-there	EX
-are	VPRT AUXB
-computers	NN
-in	PIN CONJ PREP
-most	JJ EMPH SPADJ
-electronic	JJ
-equipment	NOMZ
-.	
-Electronic	JJ CAP
-chips	NN
-are	VPRT AUXB
-devices	NN
-that	TSUB WHSUB WH
-have	VPRT PEAS
-been	PASS AUXB
-designed	
-to	PIN TO PREP
-store	INF
-different	JJ
-input	NN
-and	PHC CCONJ
-output	NN
-voltages	NN
-.	
-Hence	RB CONJ CAP
-,	
-all	QUAN DET
-silicon	NN
-chips	NN
-are	VPRT AUXB
-forms	NN
-of	PIN PREP
-a	ART DET INDA
-computer	NN
-and	ANDC CCONJ
-these	DEMP DET
-are	PASS VPRT AUXB
-placed	
-inside	JJ PLACE
-televisions	NOMZ
-,	
-video	NN
-recorders	NN
-,	
-microwaves	NN
-etc	X
-.	
-Another	CAP DET
-point	NN
-to	PIN TO PREP
-make	INF
-is	BEMA VPRT AUXB
-that	PIN DEMP SCONJ PREP
-when	RB SCONJ WH
-discussing	GER PGAS
-what	WH
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-some	QUAN DET
-boundaries	NN
-have	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-defined	
-.	
-It	PIT CAP PRP SBJP
-will	PRMD
-be	BEMA AUXB INF
-very	AMP RB
-easy	JJ
-to	PIN TO PREP
-say	PUBV THATD INF
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-change	INF
-into	PIN PREP
-frogs	NN
-and	CCONJ
-such	JJ
-but	CCONJ
-this	DEMP DET
-would	PRMD
-lead	INF
-to	PIN PREP
-very	AMP RB
-disorganised	JJ
-arguments	NOMZ
-and	PHC CCONJ
-structure	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-when	RB WHSUB SCONJ WH
-discussing	GER PGAS
-what	WH
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-,	
-the	ART DET
-computers	NN
-will	PRMD
-be	PASS SPAU AUXB INF
-mainly	RB
-compared	
-to	PIN PREP
-humans	NN
-.	
-Discovering	GER PRIV PRESP CAP PGAS
-what	WHQU WHCL WH
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-will	PRMD
-have	INF
-to	PIN TO PREP
-be	PASS AUXB INF
-tackled	
-in	PIN CONJ PREP
-a	ART DET INDA
-different	JJ
-way	NN
-.	
-Firstly	RB CAP
-it	PIT PRP SBJP
-may	POMD
-be	BEMA AUXB INF
-important	JJ PRED
-to	PIN TO PREP
-see	PRIV INF
-what	WHCL WH
-computers	NN
-can	POMD
-do	PROD INF
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-find	PRIV INF
-out	PIN PREP
-what	WH
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-.	
-Computers	NN CAP
-were	PASS VBD AUXB
-designed	
-to	PIN TO PREP
-solve	INF
-mathematical	JJ
-problems	NN
-much	QUAN RB
-faster	RB CMADJ
-than	PIN PREP
-humans	NN
-could	POMD
-.	
-This	DEMO CAP DET
-slowly	RB
-progressed	VBD
-onto	PIN PREP
-storage	NN
-of	PIN PREP
-data	NN
-and	ANDC CCONJ
-then	RB
-became	VBD
-the	ART DET
-tool	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-everyday	JJ
-lives	NN
-.	
-The	ART CAP DET
-typical	JJ
-'	CONT QUOT
-personal	JJ
-computer	NN
-'	CONT QUOT
-can	POMD
-perform	INF
-activities	NN
-,	
-which	SERE DET WH
-entertain	NN
-,	
-organise	INF
-and	PHC CCONJ
-help	INF
-the	ART DET
-lives	NN
-of	PIN PREP
-people	NN
-.	
-These	DEMO CAP DET
-computers	NN
-can	POMD
-run	INF
-software	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-games	NN
-,	
-and	ANDC CCONJ
-can	POMD
-assist	INF
-with	PIN PREP
-normal	JJ
-daily	JJ
-activities	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-writing	PUBV NN
-.	
-At	PIN CAP PREP
-a	ART DET INDA
-basic	JJ
-level	NN
-computers	NN
-can	POMD
-be	PASS AUXB INF
-described	
-as	PIN CONJ PREP
-fast	JJ
-processors	NN
-of	PIN PREP
-information	NOMZ
-.	
-However	RB CONJ CAP
-remembering	GER PRIV PGAS
-the	ART DET
-definition	NOMZ
-of	PIN PREP
-the	ART DET
-word	NN
-'	CONT QUOT
-computer	NN
-'	CONT QUOT
-means	VPRT PRIV
-that	PIN THVC SCONJ PREP
-computers	NN
-are	BEMA VPRT AUXB
-in	PIN CONJ PREP
-most	JJ EMPH SPADJ
-electronic	JJ
-items	NN
-.	
-Computers	NN CAP
-are	PASS VPRT AUXB
-integrated	
-in	PIN CONJ PREP
-to	PIN PREP
-the	ART DET
-lifestyle	NN
-of	PIN PREP
-humans	NN
-in	PIN CONJ PREP
-such	EMPH DET
-a	ART DET INDA
-way	NN
-that	PIN TOBJ SCONJ PREP
-computers	NN
-are	PASS VPRT AUXB
-designed	
-to	PIN TO PREP
-help	INF
-in	PIN CONJ PREP
-daily	JJ
-activities	NN
-.	
-Computers	NN CAP
-can	POMD
-do	PROD INF
-most	JJ EMPH SPADJ
-actions	NOMZ
-for	PIN PREP
-example	NN
-,	
-vacuuming	NN
-or	CCONJ
-fly	INF
-planes	NN
-.	
-Computers	NN CAP
-can	POMD
-perform	INF
-most	JJ EMPH SPADJ
-operations	NOMZ
-involving	WZPRES PGAS
-electronics	NN
-.	
-However	RB CONJ CAP
-not	XX0 RB
-all	QUAN DET
-actions	NOMZ
-involve	VPRT
-electronics	NN
-.	
-Some	QUAN CAP DET
-actions	NOMZ
-that	TSUB WHSUB WH
-do	VPRT SPAU
-not	XX0 RB
-involve	INF
-electronics	NN
-involve	VPRT
-some	QUAN DET
-form	NN
-of	PIN PREP
-simple	JJ
-movement	NOMZ
-.	
-Eating	CAP PGAS
-requires	VPRT SUAV
-the	ART DET
-contraction	NOMZ
-and	PHC CCONJ
-dilation	NOMZ
-of	PIN PREP
-muscles	NN
-in	PIN CONJ PREP
-the	ART DET
-arm	NN
-to	PIN TO PREP
-move	SUAV INF
-food	NN
-to	PIN PREP
-the	ART DET
-mouth	NN
-;	
-running	PGAS
-requires	VPRT SUAV
-the	ART DET
-contraction	NOMZ
-and	PHC CCONJ
-dilation	NOMZ
-of	PIN PREP
-muscles	NN
-in	PIN CONJ PREP
-the	ART DET
-legs	NN
-;	
-movement	NOMZ
-in	PIN CONJ PREP
-general	JJ
-requires	VPRT SUAV
-the	ART DET
-contraction	NOMZ
-and	PHC CCONJ
-dilation	NOMZ
-of	PIN PREP
-muscles	NN
-.	
-Computers	NN CAP
-do	VPRT PROD SPAU
-no	RB
-have	INF
-any	QUAN DET
-muscles	NN
-and	ANDC CCONJ
-so	RB
-can	POMD SPAU
-not	XX0 RB
-move	SUAV INF
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-.	
-They	TPP3 CAP PRP SBJP
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-other	JJ
-forms	NN
-of	PIN PREP
-movement	NOMZ
-either	RB
-.	
-Cars	NN CAP
-move	VPRT SUAV
-by	PIN PREP
-converting	GER PGAS
-the	ART DET
-chemical	JJ
-energy	NN
-stored	WZPAST
-in	PIN CONJ PREP
-petrol	NN
-to	PIN PREP
-kinetic	INF
-energy	NN
-.	
-This	DEMO CAP DET
-energy	NN
-drives	VPRT
-the	ART DET
-engine	NN
-,	
-rotating	PRESP PGAS
-the	ART DET
-wheels	NN
-,	
-moving	SUAV PRESP PGAS
-the	ART DET
-car	NN
-forward	RB
-.	
-There	EX CAP
-are	VPRT AUXB
-many	QUAN JJ
-types	NN
-of	PIN PREP
-movement	NOMZ
-but	CCONJ
-computers	NN
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-any	QUAN DET
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-Since	OSUB PIN CAP SCONJ PREP
-computers	NN
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-muscles	NN
-,	
-or	CCONJ
-their	TPP3 PRP SBJP
-equivalents	NN
-,	
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-physically	RB
-move	SUAV INF
-by	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-.	
-Other	JJ CAP
-actions	NOMZ
-that	TSUB WHSUB WH
-do	VPRT SPAU
-not	XX0 RB
-require	SUAV THATD INF
-electronics	NN
-are	VPRT AUXB
-actions	NOMZ
-of	PIN PREP
-the	ART DET
-mind	NN
-.	
-At	PIN CAP PREP
-this	DEMO DET
-moment	NOMZ
-in	PIN CONJ PREP
-time	NN
-computers	NN
-can	POMD
-not	XX0 RB
-'	CONT QUOT
-think	PRIV INF
-'	CONT QUOT
-in	PIN CONJ PREP
-the	ART DET
-way	NN
-that	TOBJ WHOBJ WH
-humans	NN
-do	VPRT PROD
-.	
-Computers	NN CAP
-are	PASS VPRT BYPA AUXB
-designed	
-by	PIN PREP
-humans	NN
-to	PIN TO PREP
-take	INF
-inputs	NN
-,	
-process	VPRT
-these	DEMO DET
-inputs	NN
-,	
-and	ANDC CCONJ
-then	RB
-carry	INF
-out	PIN PREP
-an	ART DET INDA
-action	NOMZ
-based	WZPAST
-on	PIN PREP
-the	ART DET
-input	NN
-.	
-Computers	NN CAP
-do	VPRT SPAU
-not	XX0 RB
-act	INF
-without	PIN PREP
-some	QUAN DET
-form	NN
-of	PIN PREP
-input	NN
-.	
-When	RB CAP SCONJ WH
-humans	NN
-think	VPRT PRIV THATD
-they	TPP3 PRP SBJP
-can	POMD
-think	PRIV INF
-creatively	RB
-and	CCONJ
-produce	INF
-new	JJ
-ideas	NN
-without	PIN PREP
-any	QUAN DET
-real	JJ
-input	NN
-.	
-Computers	NN CAP
-can	POMD SPAU
-only	DWNT RB
-produce	INF
-ideas	NN
-based	WZPAST
-on	PIN PREP
-what	WH
-has	VPRT PEAS
-been	PASS AUXB
-programmed	
-into	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-1950	NUM
-'s	
-,	
-Alan	CAP NNP
-Turing	CAP NNP
-,	
-a	ART DET INDA
-computer	NN
-scientist	NN
-and	CCONJ
-mathematician	NNP
-,	
-designed	VBD
-Turing	CAP NNP
-'s	
-test	NN
-.	
-This	DEMO CAP DET
-test	NN
-was	PASS VBD AUXB
-composed	
-to	PIN TO PREP
-test	INF
-the	ART DET
-artificial	JJ
-intelligence	NN
-of	PIN PREP
-computers	NN
-based	WZPAST
-on	PIN PREP
-verbal	JJ
-response	NN
-.	
-The	ART CAP DET
-test	NN
-can	POMD
-be	PASS AUXB INF
-described	
-as	PIN CONJ PREP
-follows	VPRT
-:	
-'	CONT QUOT
-A	ART CAP DET INDA
-person	NN
-and	CCONJ
-a	ART DET INDA
-machine	NN
-each	QUAN DET
-communicate	VPRT
-with	PIN PREP
-an	ART DET INDA
-inquisitor	NN
-,	
-who	WHQU WH
-must	NEMD
-decide	PRIV SUAV INF
-which	DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-human	NN
-and	ANDC CCONJ
-which	DET WH
-is	BEMA VPRT AUXB
-the	ART DET
-computer	NN
-.	
-If	COND PIN CAP SCONJ PREP
-they	TPP3 PRP SBJP
-guess	VPRT PRIV
-wrong	JJ
-half	DET
-the	ART DET
-time	NN
-,	
-the	ART DET
-computer	NN
-is	BEMA VPRT AUXB
-essentially	RB
-indistinguishable	JJ
-from	PIN PREP
-a	ART DET INDA
-human	NN
-and	CCONJ
-passes	VPRT
-Turing	CAP NNP
-'s	
-test	NN
-.	
-'	CONT QUOT
-[	X
-2	X
-]	X
-No	SYNE CAP DET
-computer	NN
-has	VPRT PEAS SPAU
-ever	RB
-passed	
-this	DEMO DET
-test	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-highest	JJ SPADJ
-scores	NN
-was	BEMA VBD AUXB
-by	PIN PREP
-the	ART DET
-computer	NN
-ALBERT	NN CAP
-which	WHSUB DET WH
-was	PASS VBD AUXB
-deemed	PRIV
-human	JJ
-only	DWNT RB
-11	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-time	NN
-.	
-The	ART CAP DET
-score	NN
-itself	PIT PRP SBJP ACCU
-is	BEMA VPRT AUXB
-not	XX0 RB
-high	JJ
-yet	RB
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-one	NUM
-of	PIN PREP
-the	ART DET
-highest	JJ SPADJ
-scores	NN
-for	PIN PREP
-this	DEMO DET
-test	NN
-.	
-'	CONT QUOT
-Computers	NN CAP
-still	RB
-lack	VPRT
-the	ART DET
-human	JJ
-touch	NN
-'	CONT QUOT
-[	X
-3	NUM
-]	
-says	VPRT PUBV
-Charles	CAP NNP
-Seife	CAP NNP
-of	PIN PREP
-New	CAP NNP
-Scientist	CAP NNP
-magazine	NN
-.	
-Computers	NN CAP
-,	
-at	PIN PREP
-present	NN
-,	
-do	VPRT SPAU
-not	XX0 RB
-have	INF
-the	ART DET
-intelligence	NN
-to	PIN TO PREP
-think	PRIV INF
-like	PIN PREP
-humans	NN
-or	CCONJ
-even	RB
-imitate	VPRT
-them	TPP3 PRP SBJP ACCU
-.	
-As	PIN CONJ CAP PREP
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-think	PRIV INF
-in	PIN CONJ PREP
-they	TPP3 PRP SBJP
-way	NN
-that	PIN TOBJ SCONJ PREP
-humans	NN
-do	VPRT PROD
-they	TPP3 PRP SBJP
-do	VPRT PROD SPAU
-not	XX0 RB
-also	RB
-possess	INF
-'	CONT QUOT
-feelings	NN
-'	CONT QUOT
-or	CCONJ
-emotions	NOMZ
-.	
-Emotions	NOMZ CAP
-are	PASS VPRT AUXB
-felt	PRIV
-in	PIN CONJ PREP
-reaction	NOMZ
-to	PIN PREP
-an	ART DET INDA
-event	NN
-.	
-If	COND PIN CAP SCONJ PREP
-one	NUM
-thought	VBD PRIV
-that	THVC DET
-man	NN
-landing	WZPRES PGAS
-on	PIN PREP
-the	ART DET
-moon	NN
-was	BEMA VBD AUXB
-a	ART DET INDA
-great	JJ
-achievement	NOMZ
-,	
-then	RB
-one	PRP SBJP
-would	PRMD
-feel	PRIV INF
-happy	JJ
-.	
-If	COND PIN CAP SCONJ PREP
-one	NUM
-thought	VBD PRIV
-that	THVC DET
-man	NN
-landing	WZPRES PGAS
-on	PIN PREP
-the	ART DET
-moon	NN
-was	BEMA VBD AUXB
-not	XX0 RB
-a	ART DET INDA
-great	JJ
-achievement	NOMZ
-then	RB
-one	PRP SBJP
-would	PRMD SPAU
-not	XX0 RB
-feel	PRIV INF
-happy	JJ
-as	PIN CONJ PREP
-result	NN
-;	
-more	RB EMPH CMADJ
-likely	JJ
-one	PRP SBJP
-would	PRMD
-feel	PRIV INF
-indifferent	JJ
-.	
-The	ART CAP DET
-way	NN
-we	FPP1 PRP SBJP
-react	VPRT
-to	PIN PREP
-events	NN
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-our	FPP1 PRP SBJP
-ideologies	NN
-and	PHC CCONJ
-beliefs	NN
-.	
-Emotions	NOMZ CAP
-are	PASS VPRT AUXB
-activated	
-in	PIN CONJ PREP
-a	ART DET INDA
-similar	JJ
-way	NN
-to	PIN PREP
-computers	NN
-.	
-Computers	NN CAP
-act	VPRT
-based	
-on	PIN PREP
-their	TPP3 PRP SBJP
-inputs	NN
-.	
-Emotion	NOMZ CAP
-is	PASS VPRT AUXB
-conveyed	PUBV
-due	PIN PREP
-to	PIN PREP
-an	ART DET INDA
-input	NN
-of	PIN PREP
-some	QUAN DET
-sort	NN
-.	
-The	ART CAP DET
-difference	NN
-between	PIN PREP
-these	DEMP DET
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-computers	NN
-have	VPRT PEAS SPAU
-not	XX0 RB
-been	PASS AUXB
-programmed	
-to	PIN TO PREP
-show	PRIV INF
-emotion	NOMZ
-.	
-To	PIN TO CAP PREP
-do	PROD INF
-so	RB
-would	PRMD
-require	SUAV INF
-a	ART DET INDA
-programmer	NN
-to	PIN TO PREP
-tell	INF
-the	ART DET
-computer	NN
-to	PIN TO PREP
-react	INF
-to	PIN PREP
-input	NN
-of	PIN PREP
-certain	JJ
-events	NN
-.	
-The	ART CAP DET
-programmer	NN
-would	PRMD SPAU
-then	RB
-have	INF
-to	PIN TO PREP
-tell	INF
-the	ART DET
-computer	NN
-how	RB SCONJ WH
-to	PIN TO PREP
-react	INF
-to	PIN PREP
-the	ART DET
-event	NN
-,	
-react	INF
-happily	RB
-,	
-angrily	RB
-and	CCONJ
-such	JJ
-.	
-But	CAP CCONJ
-to	PIN TO PREP
-do	PROD INF
-this	DEMP DET
-would	PRMD
-take	INF
-an	ART DET INDA
-incredible	JJ
-amount	NN
-of	PIN PREP
-time	NN
-,	
-deciding	PRIV SUAV PGAS
-on	PIN PREP
-all	QUAN DET
-the	ART DET
-situations	NOMZ
-and	PHC CCONJ
-reactions	NOMZ
-,	
-which	SERE WHQU DET WH
-is	VPRT AUXB
-why	RB SCONJ WH
-it	PIT PRP SBJP
-has	VPRT SPAU
-not	XX0 RB
-be	PASS AUXB INF
-implemented	
-in	PIN CONJ PREP
-the	ART DET
-computers	NN
-we	FPP1 PRP SBJP
-have	VPRT
-today	TIME NN
-.	
-A	ART CAP DET INDA
-different	JJ
-method	NN
-would	PRMD
-be	BEMA AUXB INF
-to	PIN TO PREP
-design	INF
-a	ART DET INDA
-learning	PRIV PGAS
-computer	NN
-.	
-This	DEMP CAP DET
-would	PRMD
-have	INF
-to	PIN TO PREP
-be	BEMA AUXB INF
-similar	JJ PRED
-to	PIN PREP
-humans	NN
-and	PHC CCONJ
-animals	NN
-and	CCONJ
-would	PRMD
-require	SUAV INF
-the	ART DET
-use	NN
-of	PIN PREP
-artificial	JJ
-intelligence	NN
-.	
-Artificial	JJ CAP
-intelligence	NN
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-use	INF
-because	CAUS PIN SCONJ PREP
-the	ART DET
-boundaries	NN
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-clearly	RB
-defined	
-.	
-'	CONT QUOT
-Artificial	JJ CAP
-intelligence	NN
-is	BEMA VPRT AUXB
-as	RB CONJ
-much	QUAN JJ
-a	ART DET INDA
-ragbag	NN
-collection	NOMZ
-of	PIN PREP
-differing	PGAS
-opinions	NN
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-scientific	JJ
-inquiry	NN
-.	
-Few	QUAN JJ CAP
-agree	VPRT PUBV SUAV
-even	RB
-on	PIN PREP
-the	ART DET
-meaning	PRIV NN
-of	PIN PREP
-the	ART DET
-word	NN
-intelligence	NN
-;	
-fewer	JJ CMADJ
-still	RB
-on	PIN PREP
-consciousness	NOMZ
-.	
-'	CONT QUOT
-[	X
-4	X
-]	X
-Artificial	JJ CAP
-intelligence	NN
-involves	VPRT
-programming	GER PGAS
-a	ART DET INDA
-computer	NN
-to	PIN TO PREP
-have	INF
-intelligence	NN
-,	
-when	RB WHQU SCONJ WH
-intelligence	NN
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-clearly	RB
-defined	
-.	
-Artificial	JJ CAP
-intelligence	NN
-is	BEMA VPRT AUXB
-still	RB
-in	PIN CONJ PREP
-its	PIT PRP SBJP
-early	JJ TIME
-stages	NN
-and	CCONJ
-has	VPRT PEAS SPAU
-not	XX0 RB
-yet	RB
-been	PASS SPAU AUXB
-completely	AMP RB
-researched	
-.	
-At	PIN CAP PREP
-present	NN
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-adequate	JJ
-artificial	JJ
-intelligence	NN
-software	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-programming	GER PGAS
-every	QUAN DET
-scenario	NN
-into	PIN PREP
-a	ART DET INDA
-computer	NN
-is	BEMA VPRT AUXB
-arduous	JJ PRED
-,	
-and	ANDC CCONJ
-artificial	JJ
-intelligence	NN
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-fully	AMP RB
-developed	
-,	
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-show	PRIV INF
-anger	NN
-,	
-sadness	NOMZ
-or	CCONJ
-any	QUAN DET
-other	JJ
-emotion	NOMZ
-.	
-Personal	JJ CAP
-computers	NN
-are	PASS VPRT AUXB
-designed	
-to	PIN TO PREP
-improve	INF
-the	ART DET
-quality	NOMZ
-of	PIN PREP
-lives	NN
-.	
-However	RB CONJ CAP
-this	DEMO DET
-design	NN
-is	VPRT AUXB
-not	XX0 RB
-always	RB
-successful	JJ
-.	
-Many	QUAN JJ CAP
-people	NN
-do	VPRT SPAU
-not	XX0 RB
-use	INF
-computers	NN
-,	
-some	QUAN DET
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-find	VPRT PRIV
-computers	NN
-difficult	JJ
-to	PIN TO PREP
-use	INF
-others	NN
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-do	VPRT SPAU
-not	XX0 RB
-find	PRIV INF
-computers	NN
-user	NN
-friendly	JJ
-.	
-In	PIN CONJ CAP PREP
-an	ART DET INDA
-attempt	NN
-to	PIN TO PREP
-overcome	INF
-this	DEMO DET
-problem	NN
-software	NN
-companies	NN
-like	PIN PREP
-Microsoft	CAP NNP
-have	VPRT PEAS
-tried	
-to	PIN TO PREP
-portray	INF
-their	TPP3 PRP SBJP
-products	NN
-with	PIN PREP
-a	ART DET INDA
-certain	JJ
-image	NN
-.	
-They	TPP3 CAP PRP SBJP
-have	VPRT
-lots	NN
-of	PIN PREP
-bright	JJ
-colours	NN
-to	PIN TO PREP
-appeal	INF
-to	PIN PREP
-one	NUM
-type	NN
-of	PIN PREP
-person	NN
-,	
-claim	VPRT PUBV
-ease	NN
-of	PIN PREP
-use	NN
-to	PIN TO PREP
-appeal	INF
-to	PIN PREP
-another	DET
-,	
-and	ANDC CCONJ
-still	RB
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-their	TPP3 PRP SBJP
-product	NN
-is	BEMA VPRT AUXB
-the	ART DET
-most	RB EMPH SPADJ
-powerful	JJ
-tool	NN
-to	PIN PREP
-date	NN
-.	
-The	ART CAP DET
-result	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-many	QUAN JJ
-people	NN
-get	VPRT
-frustrated	
-by	PIN PREP
-too	RB
-much	QUAN JJ
-help	NN
-,	
-whilst	OSUB PIN SCONJ PREP
-others	NN
-can	POMD SPAU
-not	XX0 RB
-find	PRIV INF
-the	ART DET
-right	JJ
-help	NN
-for	PIN PREP
-the	ART DET
-right	JJ
-places	NN
-.	
-Computers	NN CAP
-also	RB
-have	VPRT
-a	ART DET INDA
-tendency	NN
-to	PIN TO STPR PREP
-'	CONT QUOT
-crash	NN
-'	CONT QUOT
-losing	PGAS
-large	JJ
-amounts	NN
-of	PIN PREP
-data	NN
-in	PIN CONJ PREP
-the	ART DET
-process	NN
-.	
-This	DEMP CAP DET
-has	VPRT PEAS
-caused	
-many	QUAN JJ
-people	NN
-to	PIN TO PREP
-become	INF
-upset	JJ
-and	CCONJ
-display	INF
-a	ART DET INDA
-form	NN
-of	PIN PREP
-computer	NN
-rage	NN
-.	
-This	DEMP CAP DET
-occurs	VPRT
-in	PIN CONJ PREP
-a	ART DET INDA
-range	NN
-of	PIN PREP
-environments	NOMZ
-,	
-from	PIN PREP
-workplace	NN
-to	PIN TO PREP
-bedroom	NN
-.	
-Computers	NN CAP
-can	POMD SPAU
-not	XX0 RB
-always	RB
-bring	INF
-happiness	NOMZ
-to	PIN PREP
-the	ART DET
-lives	NN
-of	PIN PREP
-humans	NN
-,	
-giving	PRESP PGAS
-as	RB CONJ
-much	QUAN JJ
-trouble	NN
-as	PIN CONJ PREP
-help	NN
-.	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-everything	QUPR INPR
-.	
-Since	OSUB PIN CAP SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-present	JJ PRED
-in	PIN CONJ PREP
-most	JJ EMPH SPADJ
-electronic	JJ
-items	NN
-they	TPP3 PRP SBJP
-can	POMD
-carry	INF
-out	PIN PREP
-a	ART DET INDA
-huge	JJ
-number	NN
-of	PIN PREP
-actions	NOMZ
-.	
-However	RB CONJ CAP
-not	XX0 RB
-every	QUAN DET
-action	NOMZ
-involves	VPRT
-electronics	NN
-and	ANDC CCONJ
-so	RB
-there	EX
-are	VPRT AUXB
-still	RB
-some	QUAN DET
-actions	NOMZ
-that	PIN TOBJ SCONJ PREP
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-.	
-Most	JJ EMPH CAP SPADJ
-actions	NOMZ
-that	PIN TOBJ SCONJ PREP
-computers	NN
-can	POMD SPAU
-not	XX0 RB
-do	PROD INF
-have	INF
-a	ART DET INDA
-relation	NOMZ
-to	PIN PREP
-humans	NN
-.	
-Humans	NN CAP
-can	POMD
-move	SUAV INF
-whereas	OSUB PIN SCONJ PREP
-computers	NN
-can	POMD
-not	XX0 RB
-.	
-Humans	NN CAP
-can	POMD
-think	PRIV INF
-and	PHC CCONJ
-feel	PRIV INF
-whereas	OSUB PIN SCONJ PREP
-computers	NN
-can	POMD
-not	XX0 RB
-.	
-This	DEMP CAP DET
-may	POMD SPAU
-only	DWNT RB
-be	BEMA AUXB INF
-true	JJ PRED
-for	PIN PREP
-the	ART DET
-present	JJ
-time	NN
-since	OSUB PIN SCONJ PREP
-research	NN
-is	PASS VPRT AUXB
-being	PASS AUXB
-carried	
-out	PIN PREP
-all	QUAN DET
-the	ART DET
-time	NN
-.	
-However	RB CONJ CAP
-,	
-computers	NN
-will	PRMD SPAU
-not	XX0 RB
-bring	INF
-happiness	NOMZ
-to	PIN PREP
-the	ART DET
-lives	NN
-of	PIN PREP
-people	NN
-for	PIN PREP
-a	ART DET INDA
-very	AMP RB
-long	JJ
-time	NN
-,	
-due	PIN PREP
-to	PIN PREP
-its	PIT PRP SBJP
-annoying	JJ
-habit	NN
-of	PIN PREP
-letting	PGAS
-people	NN
-down	PIN STPR PREP
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	new	JJ
+gap	 	
+word	English	CAP NNP
+gap	 	
+word	Penguin	CAP NNP
+gap	 	
+word	dictionary	NN
+gap	 	
+word	defines	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	computer	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 '	
+word	programmable	JJ
+gap	 	
+word	electronic	JJ
+gap	 	
+word	device	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	can	POMD
+gap	 	
+word	store	INF
+gap	, 	
+word	retrieve	INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	process	NN
+gap	 	
+word	data	NN
+gap	' [1] . 	
+word	Outlined	PASTP CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	way	NN
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	means	VPRT PRIV THATD
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	talking	PGAS
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	computers	NN
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	 	
+word	one	
+gap	 	
+word	has	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	into	
+gap	 	
+word	account	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	computers	
+gap	 	
+word	in	
+gap	 	
+word	most	
+gap	 	
+word	electronic	
+gap	 	
+word	equipment	
+gap	. 	
+word	Electronic	
+gap	 	
+word	chips	
+gap	 	
+word	are	
+gap	 	
+word	devices	
+gap	 	
+word	that	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	designed	
+gap	 	
+word	to	
+gap	 	
+word	store	
+gap	 	
+word	different	
+gap	 	
+word	input	
+gap	 	
+word	and	
+gap	 	
+word	output	
+gap	 	
+word	voltages	
+gap	. 	
+word	Hence	
+gap	, 	
+word	all	
+gap	 	
+word	silicon	
+gap	 	
+word	chips	
+gap	 	
+word	are	
+gap	 	
+word	forms	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	computer	
+gap	 	
+word	and	
+gap	 	
+word	these	
+gap	 	
+word	are	
+gap	 	
+word	placed	
+gap	 	
+word	inside	
+gap	 	
+word	televisions	
+gap	, 	
+word	video	
+gap	 	
+word	recorders	
+gap	, 	
+word	microwaves	
+gap	 	
+word	etc	
+gap	. 	
+word	Another	
+gap	 	
+word	point	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	when	
+gap	 	
+word	discussing	
+gap	 	
+word	what	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	 	
+word	some	
+gap	 	
+word	boundaries	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	defined	
+gap	. 	
+word	It	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	very	
+gap	 	
+word	easy	
+gap	 	
+word	to	
+gap	 	
+word	say	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	change	
+gap	 	
+word	into	
+gap	 	
+word	frogs	
+gap	 	
+word	and	
+gap	 	
+word	such	
+gap	 	
+word	but	
+gap	 	
+word	this	
+gap	 	
+word	would	
+gap	 	
+word	lead	
+gap	 	
+word	to	
+gap	 	
+word	very	
+gap	 	
+word	disorganised	
+gap	 	
+word	arguments	
+gap	 	
+word	and	
+gap	 	
+word	structure	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	essay	
+gap	 	
+word	when	
+gap	 	
+word	discussing	
+gap	 	
+word	what	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	, 	
+word	the	
+gap	 	
+word	computers	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	mainly	
+gap	 	
+word	compared	
+gap	 	
+word	to	
+gap	 	
+word	humans	
+gap	. 	
+word	Discovering	
+gap	 	
+word	what	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	 	
+word	will	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	tackled	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	way	
+gap	. 	
+word	Firstly	
+gap	 	
+word	it	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	important	
+gap	 	
+word	to	
+gap	 	
+word	see	
+gap	 	
+word	what	
+gap	 	
+word	computers	
+gap	 	
+word	can	
+gap	 	
+word	do	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	find	
+gap	 	
+word	out	
+gap	 	
+word	what	
+gap	 	
+word	they	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	. 	
+word	Computers	
+gap	 	
+word	were	
+gap	 	
+word	designed	
+gap	 	
+word	to	
+gap	 	
+word	solve	
+gap	 	
+word	mathematical	
+gap	 	
+word	problems	
+gap	 	
+word	much	
+gap	 	
+word	faster	
+gap	 	
+word	than	
+gap	 	
+word	humans	
+gap	 	
+word	could	
+gap	. 	
+word	This	
+gap	 	
+word	slowly	
+gap	 	
+word	progressed	
+gap	 	
+word	onto	
+gap	 	
+word	storage	
+gap	 	
+word	of	
+gap	 	
+word	data	
+gap	 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	became	
+gap	 	
+word	the	
+gap	 	
+word	tool	
+gap	 	
+word	of	
+gap	 	
+word	our	
+gap	 	
+word	everyday	
+gap	 	
+word	lives	
+gap	. 	
+word	The	ART DET
+gap	 	
+word	typical	
+gap	 '	
+word	personal	
+gap	 	
+word	computer	
+gap	' 	
+word	can	
+gap	 	
+word	perform	
+gap	 	
+word	activities	
+gap	, 	
+word	which	
+gap	 	
+word	entertain	
+gap	, 	
+word	organise	
+gap	 	
+word	and	
+gap	 	
+word	help	
+gap	 	
+word	the	
+gap	 	
+word	lives	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	. 	
+word	These	
+gap	 	
+word	computers	
+gap	 	
+word	can	
+gap	 	
+word	run	
+gap	 	
+word	software	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	games	
+gap	, 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	assist	
+gap	 	
+word	with	
+gap	 	
+word	normal	
+gap	 	
+word	daily	
+gap	 	
+word	activities	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	writing	
+gap	. 	
+word	At	
+gap	 	
+word	a	
+gap	 	
+word	basic	
+gap	 	
+word	level	
+gap	 	
+word	computers	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	described	
+gap	 	
+word	as	
+gap	 	
+word	fast	
+gap	 	
+word	processors	
+gap	 	
+word	of	
+gap	 	
+word	information	
+gap	. 	
+word	However	
+gap	 	
+word	remembering	
+gap	 	
+word	the	
+gap	 	
+word	definition	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 '	
+word	computer	
+gap	' 	
+word	means	
+gap	 	
+word	that	
+gap	 	
+word	computers	
+gap	 	
+word	are	
+gap	 	
+word	in	
+gap	 	
+word	most	
+gap	 	
+word	electronic	
+gap	 	
+word	items	
+gap	. 	
+word	Computers	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	integrated	
+gap	 	
+word	in	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	lifestyle	
+gap	 	
+word	of	
+gap	 	
+word	humans	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	way	
+gap	 	
+word	that	
+gap	 	
+word	computers	
+gap	 	
+word	are	
+gap	 	
+word	designed	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	in	
+gap	 	
+word	daily	
+gap	 	
+word	activities	
+gap	. 	
+word	Computers	
+gap	 	
+word	can	
+gap	 	
+word	do	
+gap	 	
+word	most	
+gap	 	
+word	actions	
+gap	 	
+word	for	
+gap	 	
+word	example	
+gap	, 	
+word	vacuuming	
+gap	 	
+word	or	
+gap	 	
+word	fly	
+gap	 	
+word	planes	
+gap	. 	
+word	Computers	
+gap	 	
+word	can	
+gap	 	
+word	perform	
+gap	 	
+word	most	
+gap	 	
+word	operations	
+gap	 	
+word	involving	
+gap	 	
+word	electronics	
+gap	. 	
+word	However	
+gap	 	
+word	not	
+gap	 	
+word	all	
+gap	 	
+word	actions	
+gap	 	
+word	involve	
+gap	 	
+word	electronics	NN
+gap	. 	
+word	Some	
+gap	 	
+word	actions	
+gap	 	
+word	that	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	involve	
+gap	 	
+word	electronics	
+gap	 	
+word	involve	
+gap	 	
+word	some	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	simple	
+gap	 	
+word	movement	
+gap	. 	
+word	Eating	
+gap	 	
+word	requires	
+gap	 	
+word	the	
+gap	 	
+word	contraction	
+gap	 	
+word	and	
+gap	 	
+word	dilation	
+gap	 	
+word	of	
+gap	 	
+word	muscles	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	arm	
+gap	 	
+word	to	
+gap	 	
+word	move	
+gap	 	
+word	food	
+gap	 	
+word	to	
+gap	 	
+word	the	ART DET
+gap	 	
+word	mouth	
+gap	; 	
+word	running	
+gap	 	
+word	requires	
+gap	 	
+word	the	
+gap	 	
+word	contraction	
+gap	 	
+word	and	
+gap	 	
+word	dilation	
+gap	 	
+word	of	
+gap	 	
+word	muscles	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	legs	
+gap	; 	
+word	movement	
+gap	 	
+word	in	
+gap	 	
+word	general	
+gap	 	
+word	requires	
+gap	 	
+word	the	ART DET
+gap	 	
+word	contraction	
+gap	 	
+word	and	
+gap	 	
+word	dilation	
+gap	 	
+word	of	
+gap	 	
+word	muscles	
+gap	. 	
+word	Computers	
+gap	 	
+word	do	
+gap	 	
+word	no	
+gap	 	
+word	have	
+gap	 	
+word	any	
+gap	 	
+word	muscles	NN
+gap	 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	cannot	
+gap	 	
+word	move	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	. 	
+word	They	
+gap	 	
+word	do	
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	have	
+gap	 	
+word	other	
+gap	 	
+word	forms	
+gap	 	
+word	of	
+gap	 	
+word	movement	
+gap	 	
+word	either	
+gap	. 	
+word	Cars	
+gap	 	
+word	move	
+gap	 	
+word	by	
+gap	 	
+word	converting	
+gap	 	
+word	the	
+gap	 	
+word	chemical	
+gap	 	
+word	energy	
+gap	 	
+word	stored	
+gap	 	
+word	in	
+gap	 	
+word	petrol	
+gap	 	
+word	to	
+gap	 	
+word	kinetic	
+gap	 	
+word	energy	
+gap	. 	
+word	This	
+gap	 	
+word	energy	
+gap	 	
+word	drives	
+gap	 	
+word	the	
+gap	 	
+word	engine	
+gap	, 	
+word	rotating	
+gap	 	
+word	the	
+gap	 	
+word	wheels	
+gap	, 	
+word	moving	
+gap	 	
+word	the	
+gap	 	
+word	car	
+gap	 	
+word	forward	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	many	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	movement	
+gap	 	
+word	but	
+gap	 	
+word	computers	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	any	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	. 	
+word	Since	
+gap	 	
+word	computers	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	muscles	
+gap	, 	
+word	or	
+gap	 	
+word	their	
+gap	 	
+word	equivalents	
+gap	, 	
+word	they	
+gap	 	
+word	cannot	
+gap	 	
+word	physically	
+gap	 	
+word	move	
+gap	 	
+word	by	
+gap	 	
+word	themselves	
+gap	. 	
+word	Other	
+gap	 	
+word	actions	
+gap	 	
+word	that	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	require	
+gap	 	
+word	electronics	
+gap	 	
+word	are	
+gap	 	
+word	actions	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	mind	
+gap	. 	
+word	At	
+gap	 	
+word	this	
+gap	 	
+word	moment	
+gap	 	
+word	in	
+gap	 	
+word	time	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 '	
+word	think	
+gap	' 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	way	
+gap	 	
+word	that	
+gap	 	
+word	humans	
+gap	 	
+word	do	
+gap	. 	
+word	Computers	
+gap	 	
+word	are	
+gap	 	
+word	designed	
+gap	 	
+word	by	
+gap	 	
+word	humans	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	inputs	
+gap	, 	
+word	process	
+gap	 	
+word	these	
+gap	 	
+word	inputs	
+gap	, 	
+word	and	
+gap	 	
+word	then	
+gap	 	
+word	carry	
+gap	 	
+word	out	
+gap	 	
+word	an	
+gap	 	
+word	action	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	input	
+gap	. 	
+word	Computers	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	act	
+gap	 	
+word	without	
+gap	 	
+word	some	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	input	NN
+gap	. 	
+word	When	
+gap	 	
+word	humans	
+gap	 	
+word	think	
+gap	 	
+word	they	
+gap	 	
+word	can	
+gap	 	
+word	think	
+gap	 	
+word	creatively	
+gap	 	
+word	and	
+gap	 	
+word	produce	
+gap	 	
+word	new	
+gap	 	
+word	ideas	
+gap	 	
+word	without	
+gap	 	
+word	any	
+gap	 	
+word	real	
+gap	 	
+word	input	
+gap	. 	
+word	Computers	
+gap	 	
+word	can	
+gap	 	
+word	only	
+gap	 	
+word	produce	
+gap	 	
+word	ideas	NN
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	what	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	programmed	
+gap	 	
+word	into	
+gap	 	
+word	them	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 1950'	
+word	s	
+gap	, 	
+word	Alan	
+gap	 	
+word	Turing	
+gap	, 	
+word	a	
+gap	 	
+word	computer	
+gap	 	
+word	scientist	
+gap	 	
+word	and	
+gap	 	
+word	mathematician	
+gap	, 	
+word	designed	
+gap	 	
+word	Turing	
+gap	'	
+word	s	
+gap	 	
+word	test	
+gap	. 	
+word	This	
+gap	 	
+word	test	
+gap	 	
+word	was	
+gap	 	
+word	composed	
+gap	 	
+word	to	
+gap	 	
+word	test	
+gap	 	
+word	the	
+gap	 	
+word	artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	of	
+gap	 	
+word	computers	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	verbal	
+gap	 	
+word	response	
+gap	. 	
+word	The	ART DET
+gap	 	
+word	test	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	described	
+gap	 	
+word	as	
+gap	 	
+word	follows	
+gap	: '	
+word	A	
+gap	 	
+word	person	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	machine	
+gap	 	
+word	each	
+gap	 	
+word	communicate	
+gap	 	
+word	with	
+gap	 	
+word	an	
+gap	 	
+word	inquisitor	
+gap	, 	
+word	who	
+gap	 	
+word	must	
+gap	 	
+word	decide	
+gap	 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	human	
+gap	 	
+word	and	
+gap	 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	computer	
+gap	. 	
+word	If	
+gap	 	
+word	they	
+gap	 	
+word	guess	
+gap	 	
+word	wrong	
+gap	 	
+word	half	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	computer	NN
+gap	 	
+word	is	
+gap	 	
+word	essentially	
+gap	 	
+word	indistinguishable	
+gap	 	
+word	from	
+gap	 	
+word	a	
+gap	 	
+word	human	
+gap	 	
+word	and	
+gap	 	
+word	passes	
+gap	 	
+word	Turing	
+gap	'	
+word	s	
+gap	 	
+word	test	
+gap	.' [2] 	
+word	No	
+gap	 	
+word	computer	
+gap	 	
+word	has	
+gap	 	
+word	ever	
+gap	 	
+word	passed	
+gap	 	
+word	this	
+gap	 	
+word	test	
+gap	. 	
+word	One	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	highest	
+gap	 	
+word	scores	
+gap	 	
+word	was	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	computer	
+gap	 	
+word	ALBERT	
+gap	 	
+word	which	
+gap	 	
+word	was	
+gap	 	
+word	deemed	
+gap	 	
+word	human	
+gap	 	
+word	only	
+gap	 11% 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	
+gap	. 	
+word	The	
+gap	 	
+word	score	
+gap	 	
+word	itself	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	high	
+gap	 	
+word	yet	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	the	ART CAP DET
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	highest	
+gap	 	
+word	scores	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	test	
+gap	. '	
+word	Computers	
+gap	 	
+word	still	
+gap	 	
+word	lack	
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	
+gap	 	
+word	touch	
+gap	' [3] 	
+word	says	
+gap	 	
+word	Charles	
+gap	 	
+word	Seife	
+gap	 	
+word	of	
+gap	 	
+word	New	
+gap	 	
+word	Scientist	
+gap	 	
+word	magazine	
+gap	. 	
+word	Computers	
+gap	, 	
+word	at	
+gap	 	
+word	present	
+gap	, 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	intelligence	
+gap	 	
+word	to	
+gap	 	
+word	think	
+gap	 	
+word	like	
+gap	 	
+word	humans	
+gap	 	
+word	or	
+gap	 	
+word	even	
+gap	 	
+word	imitate	
+gap	 	
+word	them	
+gap	. 	
+word	As	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	think	
+gap	 	
+word	in	
+gap	 	
+word	they	
+gap	 	
+word	way	
+gap	 	
+word	that	
+gap	 	
+word	humans	
+gap	 	
+word	do	
+gap	 	
+word	they	
+gap	 	
+word	do	
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	also	
+gap	 	
+word	possess	
+gap	 '	
+word	feelings	
+gap	' 	
+word	or	
+gap	 	
+word	emotions	
+gap	. 	
+word	Emotions	
+gap	 	
+word	are	
+gap	 	
+word	felt	
+gap	 	
+word	in	
+gap	 	
+word	reaction	
+gap	 	
+word	to	
+gap	 	
+word	an	
+gap	 	
+word	event	
+gap	. 	
+word	If	
+gap	 	
+word	one	
+gap	 	
+word	thought	
+gap	 	
+word	that	
+gap	 	
+word	man	
+gap	 	
+word	landing	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	moon	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	achievement	
+gap	, 	
+word	then	
+gap	 	
+word	one	
+gap	 	
+word	would	
+gap	 	
+word	feel	
+gap	 	
+word	happy	
+gap	. 	
+word	If	
+gap	 	
+word	one	
+gap	 	
+word	thought	
+gap	 	
+word	that	
+gap	 	
+word	man	
+gap	 	
+word	landing	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	moon	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	achievement	
+gap	 	
+word	then	
+gap	 	
+word	one	
+gap	 	
+word	would	
+gap	 	
+word	not	
+gap	 	
+word	feel	
+gap	 	
+word	happy	
+gap	 	
+word	as	
+gap	 	
+word	result	
+gap	; 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	one	
+gap	 	
+word	would	
+gap	 	
+word	feel	
+gap	 	
+word	indifferent	
+gap	. 	
+word	The	
+gap	 	
+word	way	
+gap	 	
+word	we	
+gap	 	
+word	react	
+gap	 	
+word	to	
+gap	 	
+word	events	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	our	
+gap	 	
+word	ideologies	
+gap	 	
+word	and	
+gap	 	
+word	beliefs	
+gap	. 	
+word	Emotions	
+gap	 	
+word	are	
+gap	 	
+word	activated	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	similar	
+gap	 	
+word	way	
+gap	 	
+word	to	
+gap	 	
+word	computers	
+gap	. 	
+word	Computers	
+gap	 	
+word	act	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	their	
+gap	 	
+word	inputs	
+gap	. 	
+word	Emotion	
+gap	 	
+word	is	
+gap	 	
+word	conveyed	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	an	
+gap	 	
+word	input	
+gap	 	
+word	of	
+gap	 	
+word	some	
+gap	 	
+word	sort	
+gap	. 	
+word	The	
+gap	 	
+word	difference	
+gap	 	
+word	between	
+gap	 	
+word	these	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	computers	
+gap	 	
+word	have	
+gap	 	
+word	not	
+gap	 	
+word	been	
+gap	 	
+word	programmed	
+gap	 	
+word	to	
+gap	 	
+word	show	
+gap	 	
+word	emotion	
+gap	. 	
+word	To	
+gap	 	
+word	do	
+gap	 	
+word	so	
+gap	 	
+word	would	
+gap	 	
+word	require	
+gap	 	
+word	a	
+gap	 	
+word	programmer	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tell	
+gap	 	
+word	the	
+gap	 	
+word	computer	
+gap	 	
+word	to	
+gap	 	
+word	react	
+gap	 	
+word	to	
+gap	 	
+word	input	
+gap	 	
+word	of	
+gap	 	
+word	certain	
+gap	 	
+word	events	
+gap	. 	
+word	The	
+gap	 	
+word	programmer	
+gap	 	
+word	would	
+gap	 	
+word	then	
+gap	 	
+word	have	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	tell	
+gap	 	
+word	the	
+gap	 	
+word	computer	
+gap	 	
+word	how	
+gap	 	
+word	to	
+gap	 	
+word	react	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	event	
+gap	, 	
+word	react	
+gap	 	
+word	happily	
+gap	, 	
+word	angrily	
+gap	 	
+word	and	
+gap	 	
+word	such	
+gap	. 	
+word	But	
+gap	 	
+word	to	
+gap	 	
+word	do	
+gap	 	
+word	this	
+gap	 	
+word	would	
+gap	 	
+word	take	
+gap	 	
+word	an	
+gap	 	
+word	incredible	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	time	
+gap	, 	
+word	deciding	
+gap	 	
+word	on	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	situations	
+gap	 	
+word	and	
+gap	 	
+word	reactions	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	why	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	implemented	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	computers	
+gap	 	
+word	we	
+gap	 	
+word	have	
+gap	 	
+word	today	
+gap	. 	
+word	A	
+gap	 	
+word	different	
+gap	 	
+word	method	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	to	
+gap	 	
+word	design	
+gap	 	
+word	a	
+gap	 	
+word	learning	
+gap	 	
+word	computer	
+gap	. 	
+word	This	
+gap	 	
+word	would	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	similar	
+gap	 	
+word	to	
+gap	 	
+word	humans	
+gap	 	
+word	and	
+gap	 	
+word	animals	
+gap	 	
+word	and	
+gap	 	
+word	would	PRMD
+gap	 	
+word	require	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	artificial	
+gap	 	
+word	intelligence	
+gap	. 	
+word	Artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	is	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	because	
+gap	 	
+word	the	
+gap	 	
+word	boundaries	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	clearly	
+gap	 	
+word	defined	
+gap	. '	
+word	Artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	is	
+gap	 	
+word	as	
+gap	 	
+word	much	
+gap	 	
+word	a	
+gap	 	
+word	ragbag	
+gap	 	
+word	collection	
+gap	 	
+word	of	
+gap	 	
+word	differing	
+gap	 	
+word	opinions	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	scientific	
+gap	 	
+word	inquiry	
+gap	. 	
+word	Few	
+gap	 	
+word	agree	
+gap	 	
+word	even	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	meaning	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 	
+word	intelligence	
+gap	; 	
+word	fewer	
+gap	 	
+word	still	
+gap	 	
+word	on	
+gap	 	
+word	consciousness	
+gap	.' [4] 	
+word	Artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	involves	
+gap	 	
+word	programming	
+gap	 	
+word	a	
+gap	 	
+word	computer	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	intelligence	
+gap	, 	
+word	when	
+gap	 	
+word	intelligence	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	clearly	
+gap	 	
+word	defined	
+gap	. 	
+word	Artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	is	
+gap	 	
+word	still	
+gap	 	
+word	in	
+gap	 	
+word	its	
+gap	 	
+word	early	
+gap	 	
+word	stages	
+gap	 	
+word	and	
+gap	 	
+word	has	
+gap	 	
+word	not	
+gap	 	
+word	yet	
+gap	 	
+word	been	
+gap	 	
+word	completely	
+gap	 	
+word	researched	
+gap	. 	
+word	At	
+gap	 	
+word	present	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	adequate	
+gap	 	
+word	artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	software	
+gap	. 	
+word	Since	
+gap	 	
+word	programming	
+gap	 	
+word	every	
+gap	 	
+word	scenario	
+gap	 	
+word	into	
+gap	 	
+word	a	
+gap	 	
+word	computer	
+gap	 	
+word	is	
+gap	 	
+word	arduous	
+gap	, 	
+word	and	
+gap	 	
+word	artificial	
+gap	 	
+word	intelligence	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	fully	
+gap	 	
+word	developed	
+gap	, 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	show	
+gap	 	
+word	anger	
+gap	, 	
+word	sadness	
+gap	 	
+word	or	
+gap	 	
+word	any	
+gap	 	
+word	other	
+gap	 	
+word	emotion	
+gap	. 	
+word	Personal	
+gap	 	
+word	computers	NN
+gap	 	
+word	are	
+gap	 	
+word	designed	
+gap	 	
+word	to	
+gap	 	
+word	improve	
+gap	 	
+word	the	
+gap	 	
+word	quality	
+gap	 	
+word	of	
+gap	 	
+word	lives	
+gap	. 	
+word	However	
+gap	 	
+word	this	
+gap	 	
+word	design	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	always	
+gap	 	
+word	successful	
+gap	. 	
+word	Many	
+gap	 	
+word	people	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	use	
+gap	 	
+word	computers	
+gap	, 	
+word	some	
+gap	 	
+word	because	
+gap	 	
+word	they	
+gap	 	
+word	find	
+gap	 	
+word	computers	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	others	
+gap	 	
+word	because	
+gap	 	
+word	they	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	find	
+gap	 	
+word	computers	
+gap	 	
+word	user	
+gap	 	
+word	friendly	
+gap	. 	
+word	In	
+gap	 	
+word	an	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	overcome	
+gap	 	
+word	this	
+gap	 	
+word	problem	
+gap	 	
+word	software	
+gap	 	
+word	companies	
+gap	 	
+word	like	
+gap	 	
+word	Microsoft	
+gap	 	
+word	have	
+gap	 	
+word	tried	
+gap	 	
+word	to	
+gap	 	
+word	portray	
+gap	 	
+word	their	
+gap	 	
+word	products	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	certain	
+gap	 	
+word	image	
+gap	. 	
+word	They	
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	lots	
+gap	 	
+word	of	
+gap	 	
+word	bright	
+gap	 	
+word	colours	
+gap	 	
+word	to	
+gap	 	
+word	appeal	
+gap	 	
+word	to	
+gap	 	
+word	one	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	person	
+gap	, 	
+word	claim	
+gap	 	
+word	ease	
+gap	 	
+word	of	
+gap	 	
+word	use	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	appeal	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	another	
+gap	, 	
+word	and	
+gap	 	
+word	still	
+gap	 	
+word	say	
+gap	 	
+word	that	
+gap	 	
+word	their	
+gap	 	
+word	product	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	powerful	
+gap	 	
+word	tool	
+gap	 	
+word	to	
+gap	 	
+word	date	
+gap	. 	
+word	The	
+gap	 	
+word	result	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	many	
+gap	 	
+word	people	
+gap	 	
+word	get	
+gap	 	
+word	frustrated	
+gap	 	
+word	by	
+gap	 	
+word	too	
+gap	 	
+word	much	
+gap	 	
+word	help	
+gap	, 	
+word	whilst	
+gap	 	
+word	others	
+gap	 	
+word	cannot	
+gap	 	
+word	find	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	help	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	places	
+gap	. 	
+word	Computers	
+gap	 	
+word	also	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	tendency	
+gap	 	
+word	to	
+gap	 '	
+word	crash	
+gap	' 	
+word	losing	
+gap	 	
+word	large	
+gap	 	
+word	amounts	
+gap	 	
+word	of	
+gap	 	
+word	data	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	process	
+gap	. 	
+word	This	
+gap	 	
+word	has	
+gap	 	
+word	caused	
+gap	 	
+word	many	
+gap	 	
+word	people	
+gap	 	
+word	to	
+gap	 	
+word	become	
+gap	 	
+word	upset	
+gap	 	
+word	and	
+gap	 	
+word	display	
+gap	 	
+word	a	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	computer	
+gap	 	
+word	rage	
+gap	. 	
+word	This	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	range	
+gap	 	
+word	of	
+gap	 	
+word	environments	
+gap	, 	
+word	from	
+gap	 	
+word	workplace	
+gap	 	
+word	to	
+gap	 	
+word	bedroom	
+gap	. 	
+word	Computers	
+gap	 	
+word	cannot	
+gap	 	
+word	always	
+gap	 	
+word	bring	
+gap	 	
+word	happiness	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	lives	
+gap	 	
+word	of	
+gap	 	
+word	humans	
+gap	, 	
+word	giving	
+gap	 	
+word	as	
+gap	 	
+word	much	
+gap	 	
+word	trouble	
+gap	 	
+word	as	
+gap	 	
+word	help	
+gap	. 	
+word	In	
+gap	 	
+word	conclusion	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	 	
+word	everything	
+gap	. 	
+word	Since	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	present	
+gap	 	
+word	in	
+gap	 	
+word	most	
+gap	 	
+word	electronic	
+gap	 	
+word	items	
+gap	 	
+word	they	
+gap	 	
+word	can	
+gap	 	
+word	carry	
+gap	 	
+word	out	
+gap	 	
+word	a	
+gap	 	
+word	huge	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	actions	
+gap	. 	
+word	However	
+gap	 	
+word	not	
+gap	 	
+word	every	
+gap	 	
+word	action	
+gap	 	
+word	involves	
+gap	 	
+word	electronics	
+gap	 	
+word	and	
+gap	 	
+word	so	
+gap	 	
+word	there	
+gap	 	
+word	are	
+gap	 	
+word	still	
+gap	 	
+word	some	
+gap	 	
+word	actions	
+gap	 	
+word	that	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	. 	
+word	Most	
+gap	 	
+word	actions	
+gap	 	
+word	that	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	 	
+word	do	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	relation	
+gap	 	
+word	to	
+gap	 	
+word	humans	
+gap	. 	
+word	Humans	
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	move	
+gap	 	
+word	whereas	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	. 	
+word	Humans	
+gap	 	
+word	can	
+gap	 	
+word	think	
+gap	 	
+word	and	
+gap	 	
+word	feel	
+gap	 	
+word	whereas	
+gap	 	
+word	computers	
+gap	 	
+word	cannot	
+gap	. 	
+word	This	
+gap	 	
+word	may	
+gap	 	
+word	only	
+gap	 	
+word	be	
+gap	 	
+word	true	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	present	
+gap	 	
+word	time	
+gap	 	
+word	since	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	being	
+gap	 	
+word	carried	
+gap	 	
+word	out	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	. 	
+word	However	
+gap	, 	
+word	computers	
+gap	 	
+word	will	
+gap	 	
+word	not	
+gap	 	
+word	bring	
+gap	 	
+word	happiness	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	lives	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	very	
+gap	 	
+word	long	
+gap	 	
+word	time	
+gap	, 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	its	
+gap	 	
+word	annoying	
+gap	 	
+word	habit	
+gap	 	
+word	of	
+gap	 	
+word	letting	
+gap	 	
+word	people	
+gap	 	
+word	down	
+gap	.	

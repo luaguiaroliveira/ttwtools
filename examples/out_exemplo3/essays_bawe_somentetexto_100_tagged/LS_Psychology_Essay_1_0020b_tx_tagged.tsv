@@ -1,1615 +1,2774 @@
 # filename: LS_Psychology_Essay_1_0020b_tx.txt
-token	tags
-The	ART CAP DET
-authoritarian	JJ
-personality	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-personality	NOMZ
-type	NN
-that	TSUB WHSUB WH
-predisposes	VPRT
-a	ART DET INDA
-person	NN
-to	PIN TO PREP
-obey	INF
-unquestionably	RB
-.	
-People	NN CAP
-with	PIN PREP
-this	DEMO DET
-personality	NOMZ
-type	NN
-are	PASS VPRT AUXB
-said	PUBV
-to	PIN TO PREP
-be	AUXB INF
-prejudice	NN
-against	PIN PREP
-minority	NOMZ
-groups	NN
-and	CCONJ
-believe	VPRT PRIV
-strongly	AMP RB
-in	PIN CONJ PREP
-obeying	PGAS
-authority	NOMZ
-.	
-They	TPP3 CAP PRP SBJP
-also	RB
-have	VPRT
-a	ART DET INDA
-general	JJ
-belief	NN
-in	PIN CONJ PREP
-the	ART DET
-importance	NN
-of	PIN PREP
-power	NN
-and	PHC CCONJ
-dominance	NN
-,	
-and	ANDC CCONJ
-the	ART DET
-insignificance	NN
-of	PIN PREP
-those	DEMO DET
-below	PIN PLACE PREP
-them	TPP3 PRP SBJP ACCU
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-feel	VPRT PRIV
-weak	JJ
-and	ANDC CCONJ
-therefore	RB CONJ
-feel	VPRT PRIV THATD
-they	TPP3 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-be	AUXB INF
-part	NN
-of	PIN PREP
-a	ART DET INDA
-powerful	JJ
-group	NN
-and	CCONJ
-have	INF
-a	ART DET INDA
-powerful	JJ
-leader	NN
-.	
-The	ART CAP DET
-authoritarian	JJ
-personality	NOMZ
-has	VPRT PEAS
-shown	PRIV
-a	ART DET INDA
-trend	NN
-in	PIN CONJ PREP
-personality	NOMZ
-patterns	NN
-formed	WZPAST
-in	PIN CONJ PREP
-childhood	NN
-.	
-Research	NN CAP
-has	VPRT PEAS
-found	PRIV
-that	PIN THVC SCONJ PREP
-those	DEMP DET
-who	WH
-score	VPRT
-highly	AMP RB
-on	PIN PREP
-authoritarianism	NN
-tend	VPRT
-to	PIN TO PREP
-describe	INF
-their	TPP3 PRP SBJP
-childhood	NN
-as	PIN CONJ PREP
-being	PASS BYPA AUXB
-dominated	
-by	PIN PREP
-stern	JJ
-harsh	JJ
-fathers	NN
-who	WHSUB WH
-insisted	VBD PUBV SUAV
-on	PIN PREP
-absolute	JJ
-obedience	NN
-.	
-This	DEMO CAP DET
-theory	NN
-is	BEMA VPRT AUXB
-predominately	RB
-a	ART DET INDA
-psychodynamic	JJ
-one	NUM
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-the	ART DET
-idea	NN
-of	PIN STPR PREP
-'	CONT QUOT
-reaction	NOMZ
-formation	NOMZ
-'	CONT QUOT
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-forbidden	JJ
-impulse	NN
-is	PASS VPRT AUXB
-re	PIN PREP
--	
-channelled	
-into	PIN PREP
-a	ART DET INDA
-safer	JJ CMADJ
-course	NN
-.	
-In	PIN CONJ CAP PREP
-effect	NN
-these	DEMO DET
-minority	NOMZ
-groups	NN
-are	PASS VPRT AUXB
-used	
-as	PIN CONJ PREP
-scapegoats	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-are	PASS VPRT AUXB
-considered	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-weak	JJ PRED
-and	PHC CCONJ
-powerless	JJ PRED
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-case	NN
-,	
-the	ART DET
-child	NN
-is	BEMA VPRT AUXB
-unable	JJ PRED
-to	PIN TO PREP
-express	INF
-their	TPP3 PRP SBJP
-anger	NN
-towards	PIN PREP
-their	TPP3 PRP SBJP
-father	NN
-and	ANDC CCONJ
-thus	RB CONJ
-resulting	PGAS
-in	PIN CONJ PREP
-them	TPP3 PRP SBJP ACCU
-redirecting	GER PGAS
-their	TPP3 PRP SBJP
-anger	NN
-towards	PIN PREP
-much	QUAN RB
-safer	JJ CMADJ
-targets	NN
-such	JJ
-as	PIN CONJ PREP
-minority	NOMZ
-groups	NN
-(	
-Gleitman	CAP NNP
-,	
-Fridlund	CAP NNP
-&	CCONJ
-Reisberg	CAP NNP
-,	
-1998	NUM
-)	
-.	
-Defence	NN CAP
-mechanisms	NN
-are	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-hide	INF
-their	TPP3 PRP SBJP
-true	JJ
-feelings	NN
-,	
-for	PIN PREP
-example	NN
-they	TPP3 PRP SBJP
-will	PRMD
-repress	INF
-their	TPP3 PRP SBJP
-aggressive	JJ
-or	CCONJ
-sexual	JJ
-feelings	NN
-and	CCONJ
-project	INF
-those	DEMO DET
-traits	NN
-onto	PIN PREP
-others	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-also	RB
-a	ART DET INDA
-tendency	NN
-to	PIN TO PREP
-view	INF
-the	ART DET
-outside	JJ PLACE
-world	NN
-as	PIN CONJ PREP
-being	PASS AUXB
-populated	
-with	PIN PREP
-dangerous	JJ
-enemies	NN
-who	WHSUB WH
-have	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-attacked	
-before	PIN PREP
-they	TPP3 PRP SBJP
-themselves	TPP3 PRP SBJP ACCU
-are	PASS VPRT AUXB
-attacked	
-.	
-This	DEMO CAP DET
-personality	NOMZ
-consists	VPRT
-of	PIN PREP
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-distrust	NN
-for	PIN PREP
-others	NN
-.	
-This	DEMO CAP DET
-negative	JJ
-view	NN
-of	PIN PREP
-people	NN
-leads	VPRT
-to	PIN PREP
-the	ART DET
-conclusion	NOMZ
-that	PIN TOBJ SCONJ PREP
-harsh	JJ
-laws	NN
-and	PHC CCONJ
-order	SUAV NN
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-control	INF
-people	NN
-.	
-These	DEMO CAP DET
-conclusions	NOMZ
-were	PASS VBD SPAU AUXB
-however	RB CONJ
-based	
-on	PIN PREP
-a	ART DET INDA
-limited	JJ
-sample	NN
-of	PIN PREP
-white	JJ
-middle	JJ
-class	NN
-Californians	CAP NNP
-;	
-therefore	RB CONJ
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-questionable	JJ PRED
-whether	PIN SCONJ PREP
-the	ART DET
-theory	NN
-can	POMD
-be	PASS AUXB INF
-applied	
-to	PIN PREP
-other	JJ
-cultural	JJ
-or	CCONJ
-socio	NN
--	
-economic	JJ
-groups	NN
-.	
-Also	RB CAP
-the	ART DET
-information	NOMZ
-on	PIN PREP
-the	ART DET
-patients	NN
-'s	
-childhood	NN
-was	PASS VBD AUXB
-drawn	
-from	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-recollections	NOMZ
-and	ANDC CCONJ
-so	RB
-the	ART DET
-authenticity	NOMZ
-of	PIN PREP
-the	ART DET
-results	NN
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-certain	JJ PRED
-.	
-The	ART CAP DET
-theory	NN
-can	POMD SPAU
-also	RB
-be	PASS AUXB INF
-seen	PRIV
-as	PIN CONJ PREP
-being	BEMA AUXB
-incomplete	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-explains	VPRT PUBV
-why	RB WHCL SCONJ WH
-some	QUAN DET
-individuals	NN
-become	VPRT
-fascists	NN
-but	CCONJ
-it	PIT PRP SBJP
-does	VPRT SPAU
-n't	XX0 CONT RB
-explain	PUBV INF
-why	RB WHCL SCONJ WH
-racism	NN
-and	PHC CCONJ
-fascism	NN
-became	VBD
-a	ART DET INDA
-widespread	JJ
-phenomenon	NN
-.	
-Some	QUAN CAP DET
-research	NN
-has	VPRT PEAS
-shown	PRIV
-that	PIN THVC SCONJ PREP
-even	RB
-the	ART DET
-fascist	JJ
-elites	NN
-have	VPRT PEAS
-had	
-different	JJ
-types	NN
-of	PIN PREP
-education	NOMZ
-than	PIN PREP
-that	DEMP DET
-which	DET WH
-would	PRMD
-create	INF
-authoritarian	JJ
-personalities	NN
-.	
-Also	RB CAP
-,	
-it	PIT PRP SBJP
-fails	VPRT
-to	PIN TO PREP
-study	INF
-how	RB SCONJ WH
-society	NN
-itself	PIT PRP SBJP ACCU
-influences	VPRT
-the	ART DET
-rise	NN
-of	PIN PREP
-hate	NN
-and	PHC CCONJ
-acceptance	NN
-of	PIN PREP
-authority	NOMZ
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-claimed	PUBV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-person	NN
-'s	
-attitude	NN
-to	PIN PREP
-authority	NOMZ
-is	PASS VPRT BYPA AUXB
-influenced	
-by	PIN PREP
-their	TPP3 PRP SBJP
-attitude	NN
-to	PIN PREP
-their	TPP3 PRP SBJP
-parents	NN
-.	
-(	
-Adorno	CAP NNP
-,	
-Frenkel	CAP NNP
--	
-Brunswick	CAP NNP
-,	
-Levinson	CAP NNP
-&	CCONJ
-Sanford	CAP NNP
-,	
-1950	NUM
-)	
-.	
-However	RB CONJ CAP
-,	
-variations	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-degree	NN
-of	PIN PREP
-racism	NN
-have	VPRT PEAS
-been	PASS AUXB
-shown	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-unrelated	JJ PRED
-to	PIN PREP
-type	NN
-of	PIN PREP
-upbringing	GER
-(	
-Sidanius	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-1986	NUM
-)	
-.	
-The	ART CAP DET
-authoritarian	JJ
-personality	NOMZ
-is	PASS VPRT BYPA AUXB
-supported	
-by	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-studies	NN
-focus	VPRT
-on	PIN PREP
-the	ART DET
-important	JJ
-relationship	NN
-between	PIN PREP
-social	JJ
-and	PHC CCONJ
-political	JJ
-attitudes	NN
-(	
-Brown	CAP NNP
-,	
-1965	NUM
-)	
-.	
-Minority	NOMZ CAP
-prejudice	NN
-does	VPRT EMPH
-tend	INF
-to	PIN TO PREP
-go	INF
-with	PIN PREP
-authoritarianism	NN
-and	PHC CCONJ
-people	NN
-with	PIN PREP
-this	DEMO DET
-type	NN
-of	PIN PREP
-personality	NOMZ
-do	VPRT SPAU
-also	RB
-tend	INF
-to	PIN TO PREP
-hold	PRIV INF
-certain	JJ
-political	JJ
-views	NN
-such	JJ
-as	PIN CONJ STPR PREP
-,	
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-obedient	JJ
-to	PIN PREP
-authority	NOMZ
-and	CCONJ
-tend	VPRT
-to	PIN TO PREP
-accept	PRIV INF
-the	ART DET
-attitudes	NN
-of	PIN PREP
-those	DEMO DET
-in	PIN CONJ PREP
-power	NN
-(	
-Elm	CAP NNP
-&	CCONJ
-Milgram	CAP NNP
-,	
-1996	NUM
-)	
-.	
-However	RB CONJ CAP
-prejudice	NN
-has	VPRT PEAS
-varied	
-historically	RB
-,	
-therefore	RB CONJ
-authoritarianism	NN
-may	POMD SPAU
-just	RB EMPH
-be	BEMA AUXB INF
-a	ART DET INDA
-result	NN
-of	PIN PREP
-societal	JJ
-times	NN
-and	CCONJ
-not	XX0 RB
-ones	NN
-family	NN
-,	
-as	PIN CONJ PREP
-suggested	PUBV SUAV
-by	PIN PREP
-the	ART DET
-psychodynamic	JJ
-approach	NN
-.	
-This	DEMP CAP DET
-calls	VPRT
-into	PIN PREP
-question	NOMZ
-the	ART DET
-causality	NOMZ
-between	PIN PREP
-authoritarianism	NN
-and	PHC CCONJ
-prejudice	NN
-.	
-Further	JJ CAP
-support	NN
-comes	VPRT
-from	PIN PREP
-evidence	NN
-that	PIN DEMO SCONJ PREP
-authoritarianism	NN
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-pronounced	JJ PUBV SUAV
-among	PIN PREP
-people	NN
-with	PIN PREP
-less	JJ CMADJ
-education	NOMZ
-(	
-Chrishe	CAP NNP
-,	
-1954	NUM
-)	
-.	
-The	ART CAP DET
-theory	NN
-supports	VPRT
-this	DEMO DET
-as	PIN CONJ PREP
-working	PGAS
-class	NN
-parents	NN
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-than	PIN PREP
-upper	JJ
-class	NN
-parents	NN
-to	PIN TO PREP
-stress	INF
-obedience	NN
-to	PIN PREP
-authority	NOMZ
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-themselves	TPP3 PRP SBJP ACCU
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-likely	JJ
-to	PIN TO PREP
-obey	INF
-to	PIN PREP
-the	ART DET
-authority	NOMZ
-of	PIN PREP
-a	ART DET INDA
-boss	NN
-or	CCONJ
-a	ART DET INDA
-supervisor	NN
-(	
-Kelly	CAP NNP
-,	
-1969	NUM
-)	
-.	
-And	ANDC CAP CCONJ
-it	PIT PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-found	PRIV
-that	PIN THVC SCONJ PREP
-authoritarian	JJ
-parents	NN
-tend	VPRT
-to	PIN TO PREP
-produce	INF
-dominated	
-children	NN
-who	WHOBJ WH
-themselves	TPP3 PRP SBJP ACCU
-become	VPRT
-authoritarian	JJ
-parents	NN
-(	
-Adorno	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-)	
-.	
-The	ART CAP DET
-theory	NN
-of	PIN PREP
-the	ART DET
-authoritarian	JJ
-personality	NOMZ
-(	
-Adorno	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-)	
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-empirical	JJ
-research	NN
-and	CCONJ
-determines	VPRT PRIV SUAV
-susceptibility	NOMZ
-to	PIN TO PREP
-prejudice	INF
-and	CCONJ
-also	RB
-patterns	NN
-of	PIN PREP
-belief	NN
-and	PHC CCONJ
-ideology	NN
-.	
-The	ART CAP DET
-theory	NN
-was	PASS VBD AUXB
-based	
-on	PIN PREP
-a	ART DET INDA
-research	NN
-project	NN
-where	RB WHOBJ SCONJ WH
-people	NN
-who	WHSUB WH
-were	PASS VBD AUXB
-believed	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-highly	AMP RB
-authoritarian	JJ
-were	PASS VBD AUXB
-interviewed	
-;	
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-found	PRIV
-that	PIN THVC SCONJ PREP
-these	DEMO DET
-people	NN
-shared	VBD
-certain	JJ
-common	JJ
-traits	NN
-.	
-The	ART CAP DET
-purpose	NN
-of	PIN PREP
-the	ART DET
-questionnaire	NN
-was	BEMA VBD AUXB
-to	PIN TO PREP
-measure	INF
-anti	JJ
--	JJ
-Semitism	JJ CAP
-and	CCONJ
-to	PIN TO PREP
-determine	PRIV SUAV INF
-correlates	NN
-of	PIN PREP
-anti	JJ
--	NN
-Semitism	JJ CAP
-.	
-The	ART CAP DET
-answers	NN
-from	PIN PREP
-2000	NUM
-questionnaires	NN
-were	PASS VBD AUXB
-classified	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-put	INF
-each	QUAN DET
-individual	NN
-on	PIN PREP
-a	ART DET INDA
-scale	NN
-of	PIN PREP
-A	CAP NNP
--	
-S	NN CAP
-(	
-anti	JJ
--	NN
-Semitism	CAP NNP
-)	
-,	
-E	CAP NNP
-(	
-ethnocentrism	NN
-)	
-,	
-PEC	CAP NNP
-(	
-political	JJ
--	
-economic	JJ
-conservatism	NN
-)	
-and	ANDC CCONJ
-F	CAP NNP
-(	
-potentially	RB
-fascist	JJ
-)	
-.	
-These	DEMO CAP DET
-results	NN
-helped	VBD
-to	PIN TO PREP
-form	INF
-the	ART DET
-f	NN
--	
-scale	NN
-by	PIN PREP
-assigning	PGAS
-psychometric	JJ
-properties	NN
-to	PIN PREP
-the	ART DET
-scales	NN
-.	
-The	ART CAP DET
-f	NN
--	
-scale	NN
-was	PASS VBD BYPA AUXB
-validated	
-by	PIN PREP
-various	JJ
-means	PRIV NN
-such	JJ
-as	PIN CONJ PREP
-discriminated	JJ
-validation	NOMZ
-,	
-conformity	NOMZ
-methods	NN
-etc	X
-.	
-It	PIT CAP PRP SBJP
-was	PASS VBD AUXB
-developed	
-as	PIN CONJ PREP
-a	ART DET INDA
-personality	NOMZ
-inventory	NN
-that	TSUB WHSUB WH
-measured	VBD
-the	ART DET
-central	JJ
-attributes	NN
-of	PIN PREP
-authoritarian	JJ
-personality	NOMZ
-.	
-The	ART CAP DET
-scale	NN
-consisted	VBD
-of	PIN PREP
-30	NUM
-items	NN
-covering	WZPRES PGAS
-such	JJ
-issues	NN
-as	PIN CONJ PREP
-obedience	NN
-&	CCONJ
-respect	NN
-for	PIN PREP
-authority	NOMZ
-,	
-aggression	NOMZ
-towards	PIN PREP
-deviant	JJ
-groups	NN
-such	JJ
-as	PIN CONJ PREP
-homosexuals	NN
-,	
-and	ANDC CCONJ
-general	JJ
-ethnocentrism	NN
-.	
-The	ART CAP DET
-main	JJ
-criticism	NN
-of	PIN PREP
-the	ART DET
-f	NNP
--	
-scale	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-methodological	JJ
-one	NN
-,	
-all	QUAN DET
-the	ART DET
-items	NN
-are	PASS VPRT AUXB
-worded	
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-direction	NOMZ
-,	
-and	ANDC CCONJ
-therefore	RB CONJ
-agreeing	PUBV SUAV PGAS
-with	PIN PREP
-a	ART DET INDA
-statement	NOMZ
-would	PRMD SPAU
-always	RB
-mean	PRIV INF
-that	PIN THVC SCONJ PREP
-you	SPP2 PRP SBJP
-support	VPRT
-the	ART DET
-authoritarian	JJ
-viewpoint	NN
-.	
-Therefore	RB CONJ CAP
-if	COND PIN SCONJ PREP
-you	SPP2 PRP SBJP
-scored	VBD
-highly	AMP RB
-on	PIN PREP
-the	ART DET
-f	NUM
--	
-scale	NN
-,	
-there	RB
-if	COND PIN SCONJ PREP
-no	SYNE DET
-way	NN
-of	PIN PREP
-determining	GER PRIV SUAV PGAS
-whether	PIN SCONJ PREP
-you	SPP2 PRP SBJP
-are	BEMA VPRT AUXB
-authoritarian	JJ PRED
-or	CCONJ
-just	RB EMPH
-acquiescent	NN
-.	
-The	ART CAP DET
-more	RB EMPH CMADJ
-recent	JJ
-Right	CAP NNP
-Wing	CAP NNP
-Authoritarianism	CAP NNP
-(	
-RWA	CAP NNP
-)	
-scale	NN
-(	
-Altemeyer	CAP NNP
-,	
-1996	NUM
-)	
-claims	VPRT PUBV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-has	VPRT PEAS
-fixed	
-the	ART DET
-problem	NN
-of	PIN PREP
-acquiescence	NN
-.	
-This	DEMO CAP DET
-scale	NN
-uses	VPRT
-cognitive	JJ
-theory	NN
-to	PIN TO PREP
-account	INF
-for	PIN PREP
-authoritarianism	NN
-instead	RB CONJ
-of	PIN PREP
-the	ART DET
-psychodynamic	JJ
-approach	NN
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-used	
-in	PIN CONJ PREP
-the	ART DET
-f	NUM
--	
-scale	NN
-.	
-The	ART CAP DET
-authoritarian	NN
-sees	VPRT PRIV
-the	ART DET
-world	NN
-in	PIN CONJ PREP
-black	JJ
-and	PHC CCONJ
-white	JJ
-terms	NN
-,	
-being	BEMA AUXB
-unable	JJ PRED
-or	CCONJ
-unwilling	JJ
-to	PIN TO PREP
-tolerate	INF
-cognitive	JJ
-ambiguity	NOMZ
-.	
-In	PIN CONJ CAP PREP
-other	JJ
-words	NN
-people	NN
-with	PIN PREP
-a	ART DET INDA
-high	JJ
-RWA	NN CAP
-will	PRMD
-have	INF
-a	ART DET INDA
-different	JJ
-cognitive	JJ
-set	NN
-to	PIN PREP
-those	DEMO DET
-with	PIN PREP
-a	ART DET INDA
-low	JJ
-RWA	NN CAP
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-the	ART DET
-idea	NN
-that	PIN DEMO SCONJ PREP
-authoritarianism	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-personality	NOMZ
-trait	NN
-consisting	GER WZPRES PGAS
-of	PIN PREP
-three	NUM
-covarying	PGAS
-components	NN
-,	
-Conventionalism	CAP NNP
-,	
-authoritarian	JJ
-submission	NOMZ
-and	CCONJ
-authoritarian	JJ
-aggression	NOMZ
-.	
-The	ART CAP DET
-validity	NOMZ
-of	PIN PREP
-the	ART DET
-f	NNP
--	
-scale	NN
-has	VPRT PEAS
-come	
-under	PIN PREP
-question	NOMZ
-a	ART DET INDA
-number	NN
-of	PIN PREP
-times	NN
-.	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-research	NN
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-f	NNP
--	
-scale	NN
-does	VPRT SPAU
-not	XX0 RB
-measure	INF
-what	WH
-it	PIT PRP SBJP
-sets	VPRT
-out	PIN PREP
-to	PIN TO PREP
-measure	INF
-,	
-it	PIT PRP SBJP
-does	VPRT EMPH
-measure	INF
-something	QUPR INPR
-that	DEMP WH
-seems	VPRT SMP
-to	PIN TO PREP
-have	INF
-a	ART DET INDA
-significant	JJ
-effect	NN
-on	PIN PREP
-many	QUAN JJ
-other	JJ
-variables	NN
-(	
-Ray	CAP NNP
-,	
-1990	NUM
-)	
-.	
-Gabennesch	CAP NNP
-(	
-1972	NUM
-)	
-suggested	VBD PUBV SUAV
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-high	JJ
-f	NN
-score	NN
-represents	VPRT
-narrowness	NOMZ
-of	PIN PREP
-world	NN
--	
-view	NN
-and	CCONJ
-a	ART DET INDA
-narrow	JJ
-breadth	NN
-of	PIN PREP
-perspective	NN
-.	
-The	ART CAP DET
-scale	NN
-has	VPRT PEAS SPAU
-also	RB
-been	PASS AUXB
-described	
-as	PIN CONJ PREP
-a	ART DET INDA
-collection	NOMZ
-of	PIN STPR PREP
-'	CONT QUOT
-Victorian	JJ CAP
-values	NN
-'	CONT QUOT
-(	
-Hartmann	CAP NNP
-,	
-1977	NUM
-)	
-;	
-the	ART DET
-attitudes	NN
-were	PASS VBD AUXB
-considered	PRIV
-old	JJ
--	
-fashioned	JJ
-even	RB
-when	RB SCONJ WH
-the	ART DET
-f	NUM
--	
-scale	NN
-was	PASS VBD AUXB
-complied	
-.	
-Therefore	RB CONJ CAP
-we	FPP1 PRP SBJP
-are	BEMA VPRT AUXB
-unable	JJ PRED
-to	PIN TO PREP
-be	BEMA AUXB INF
-sure	JJ PRED
-if	COND PIN SCONJ PREP
-the	ART DET
-scale	NN
-is	VPRT AUXB
-even	RB
-socially	RB
-relevant	JJ
-to	PIN PREP
-today	TIME NN
-'s	
-society	NN
-.	
-What	WHQU CAP WH
-is	PASS VPRT AUXB
-considered	PRIV
-as	PIN CONJ PREP
-an	ART DET INDA
-authority	NOMZ
-personality	NOMZ
-type	NN
-may	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-applicable	JJ PRED
-to	PIN PREP
-today	TIME NN
-'s	
-culture	NN
-either	RB
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-20	NUM
-'s	
-,	
-obedience	NN
-to	PIN PREP
-authority	NOMZ
-was	BEMA VBD AUXB
-the	ART DET
-norm	NN
-and	CCONJ
-was	PASS VBD SPAU AUXB
-actually	RB
-expected	PRIV
-of	PIN PREP
-children	NN
-.	
-However	RB CONJ CAP
-,	
-now	DPAR RB TIME
-,	
-children	NN
-are	PASS VPRT AUXB
-encouraged	
-to	PIN TO PREP
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-autonomous	JJ
-.	
-Therefore	RB CONJ CAP
-if	COND PIN SCONJ PREP
-someone	QUPR INPR
-were	BEMA VBD AUXB
-to	PIN TO PREP
-score	INF
-highly	AMP RB
-on	PIN PREP
-the	ART DET
-f	NN
--	
-scale	NN
-it	PIT PRP SBJP
-could	POMD SPAU
-just	RB EMPH
-mean	PRIV INF
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-old	JJ
-fashioned	JJ
-and	CCONJ
-not	XX0 RB
-authoritarian	JJ
-.	
-Sanford	NN CAP
-(	
-1977	NUM
-)	
-suggested	VBD PUBV SUAV
-that	PIN THVC SCONJ PREP
-due	PIN PREP
-to	PIN PREP
-changing	PGAS
-times	NN
-,	
-interested	JJ
-researchers	NN
-should	NEMD
-attempt	INF
-to	PIN TO PREP
-define	INF
-a	ART DET INDA
-new	JJ
-from	PIN PREP
-of	PIN PREP
-authoritarian	JJ
-personality	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-related	
-more	RB EMPH CMADJ
-to	PIN PREP
-current	JJ
-social	JJ
-issues	NN
-.	
-Relational	NN CAP
-studies	NN
-have	VPRT PEAS
-shown	PRIV
-when	RB WHCL SCONJ WH
-correlating	GER PGAS
-f	NUM
--	NN
-scale	NN
-to	PIN PREP
-various	JJ
-prejudice	NN
-measures	NN
-in	PIN CONJ PREP
-South	CAP NNP
-Africa	CAP NNP
-the	ART DET
-relation	NOMZ
-has	VPRT PEAS
-been	BEMA AUXB
-poor	JJ PRED
-.	
-The	ART CAP DET
-scale	NN
-fails	VPRT
-to	PIN TO PREP
-explain	PUBV INF
-prejudice	NN
-in	PIN CONJ PREP
-societies	NN
-where	RB WHOBJ SCONJ WH
-prejudice	NN
-is	BEMA VPRT AUXB
-the	ART DET
-norm	NN
-(	
-e.g.	RB CONJ
-South	CAP NNP
-Africa	CAP NNP
-&	CCONJ
-Southern	CAP NNP
-USA	CAP NNP
-)	
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-only	DWNT RB
-looks	VPRT
-at	PIN PREP
-the	ART DET
-individual	NN
-.	
-Ray	CAP NNP
-(	
-1980	NUM
-)	
-found	VBD PRIV
-a	ART DET INDA
-0.59	NUM
-correlation	NOMZ
-however	RB CONJ
-,	
-Orpen	CAP NNP
-&	CCONJ
-Van	CAP NNP
-der	NNP
-Schyff	CAP NNP
-(	
-1972	NUM
-)	
-only	DWNT RB
-found	VBD PRIV
-a	ART DET INDA
-0.05	NUM
-correlation	NOMZ
-.	
-This	DEMP CAP DET
-implies	VPRT PRIV
-that	PIN THVC SCONJ PREP
-maybe	RB HDG
-the	ART DET
-concept	NN
-of	PIN PREP
-authoritarianism	NN
-would	PRMD
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-appropriate	JJ
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-applied	
-only	DWNT RB
-to	PIN PREP
-societies	NN
-where	RB WHOBJ SCONJ WH
-prejudice	NN
-is	BEMA VPRT AUXB
-normative	JJ PRED
-.	
-It	PIT CAP PRP SBJP
-has	VPRT PEAS
-been	PASS AUXB
-suggested	PUBV SUAV
-that	PIN THVC SCONJ PREP
-the	ART DET
-potential	NN
-for	PIN PREP
-authoritarianism	NN
-is	VPRT AUXB
-actually	RB
-quite	RB
-high	JJ
-,	
-given	
-the	ART DET
-right	JJ
-circumstances	NN
-(	
-Zimbardo	CAP NNP
-,	
-1971	NUM
-)	
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-estimated	PRIV
-that	PIN THVC SCONJ PREP
-at	RB PIN PREP
-least	RB SPADJ
-80	NUM
-%	NN
-of	PIN PREP
-us	FPP1 PRP SBJP ACCU
-have	VPRT
-prejudices	NN
-.	
-Also	RB CAP
-,	
-Milgram	CAP NNP
-'s	
-study	NN
-of	PIN PREP
-obedience	NN
-(	
-1971	NUM
-)	
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-65	NUM
-%	NN
-of	PIN PREP
-us	FPP1 PRP SBJP ACCU
-would	PRMD SPAU
-physically	RB
-hurt	INF
-someone	QUPR INPR
-if	COND PIN SCONJ PREP
-told	
-to	PIN TO PREP
-do	PROD INF
-so	RB
-by	PIN PREP
-an	ART DET INDA
-authority	NOMZ
-figure	NN
-.	
-This	DEMP CAP DET
-suggests	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-maybe	RB HDG
-there	EX
-are	VPRT AUXB
-parts	NN
-of	PIN PREP
-an	ART DET INDA
-authoritarian	JJ
-personality	NOMZ
-in	PIN CONJ PREP
-all	QUAN DET
-of	PIN PREP
-us	FPP1 PRP SBJP ACCU
-.	
-Research	NN CAP
-into	PIN PREP
-the	ART DET
-authoritarian	JJ
-personality	NOMZ
-is	BEMA VPRT AUXB
-extremely	AMP RB
-important	JJ
-as	PIN CONJ PREP
-the	ART DET
-trait	NN
-can	POMD
-lead	INF
-to	PIN PREP
-anti	JJ
--	JJ
-democratic	JJ
-beliefs	NN
-,	
-ethnocentrism	NN
-and	PHC CCONJ
-prejudice	NN
-.	
-These	DEMO CAP DET
-types	NN
-of	PIN PREP
-social	JJ
-behaviour	NN
-can	POMD
-have	INF
-a	ART DET INDA
-detrimental	JJ
-effect	NN
-on	PIN PREP
-society	NN
-as	PIN CONJ PREP
-we	FPP1 PRP SBJP
-have	VPRT PEAS
-seen	PRIV
-many	QUAN JJ
-times	NN
-in	PIN CONJ PREP
-history	NN
-,	
-for	PIN PREP
-example	NN
-in	PIN CONJ PREP
-Nazi	CAP NNP
-Germany	CAP NNP
-or	CCONJ
-fascist	JJ
-Italy	CAP NNP
-.	
-The	ART CAP DET
-authoritarian	JJ
-personality	NOMZ
-theory	NN
-(	
-Adorno	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-1950	NUM
-)	
-has	VPRT PEAS
-been	PASS SPAU AUXB
-widely	RB
-criticised	
-as	PIN CONJ PREP
-being	BEMA AUXB
-inaccurate	JJ PRED
-.	
-However	RB CONJ CAP
-,	
-even	RB
-with	PIN PREP
-its	PIT PRP SBJP
-errors	NN
-the	ART DET
-authoritarian	JJ
-personality	NOMZ
-theory	NN
-has	VPRT PEAS
-pioneered	
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-research	NN
-in	PIN CONJ PREP
-this	DEMO DET
-field	NN
-,	
-which	SERE DET WH
-in	PIN CONJ PREP
-time	NN
-will	PRMD SPAU
-hopefully	RB
-help	INF
-to	PIN TO PREP
-improve	INF
-and	PHC CCONJ
-expand	INF
-on	PIN PREP
-the	ART DET
-theory	NN
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	type	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	predisposes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	person	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	obey	INF
+gap	 	
+word	unquestionably	RB
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	type	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	said	PUBV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	prejudice	NN
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	minority	NOMZ
+gap	 	
+word	groups	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	believe	VPRT PRIV
+gap	 	
+word	strongly	AMP RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	obeying	PGAS
+gap	 	
+word	authority	NOMZ
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	general	JJ
+gap	 	
+word	belief	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	power	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	dominance	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	insignificance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	below	PIN PLACE PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	feel	VPRT PRIV
+gap	 	
+word	weak	JJ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	therefore	RB CONJ
+gap	 	
+word	feel	VPRT PRIV THATD
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	powerful	JJ
+gap	 	
+word	group	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	powerful	JJ
+gap	 	
+word	leader	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	shown	PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	trend	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	patterns	NN
+gap	 	
+word	formed	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	childhood	NN
+gap	. 	
+word	Research	NN CAP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	found	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	score	VPRT
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	authoritarianism	NN
+gap	 	
+word	tend	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	describe	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	childhood	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	PASS BYPA AUXB
+gap	 	
+word	dominated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	stern	JJ
+gap	 	
+word	harsh	JJ
+gap	 	
+word	fathers	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	insisted	VBD PUBV SUAV
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	absolute	JJ
+gap	 	
+word	obedience	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	theory	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	predominately	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	psychodynamic	JJ
+gap	 	
+word	one	NUM
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	idea	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	 '	
+word	reaction	NOMZ
+gap	 	
+word	formation	NOMZ
+gap	', 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	forbidden	JJ
+gap	 	
+word	impulse	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	re	PIN PREP
+gap	-	
+word	channelled	
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	safer	JJ CMADJ
+gap	 	
+word	course	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	effect	NN
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	minority	NOMZ
+gap	 	
+word	groups	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	scapegoats	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	weak	JJ PRED
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	powerless	JJ PRED
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	case	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	child	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	unable	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	express	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	anger	NN
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	father	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	resulting	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	redirecting	GER PGAS
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	anger	NN
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	much	QUAN RB
+gap	 	
+word	safer	JJ CMADJ
+gap	 	
+word	targets	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	minority	NOMZ
+gap	 	
+word	groups	NN
+gap	 (	
+word	Gleitman	CAP NNP
+gap	, 	
+word	Fridlund	CAP NNP
+gap	 & 	
+word	Reisberg	CAP NNP
+gap	, 1998). 	
+word	Defence	NN CAP
+gap	 	
+word	mechanisms	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	hide	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	true	JJ
+gap	 	
+word	feelings	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	repress	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	aggressive	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	sexual	JJ
+gap	 	
+word	feelings	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	project	INF
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	traits	NN
+gap	 	
+word	onto	PIN PREP
+gap	 	
+word	others	NN
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tendency	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	view	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	outside	JJ PLACE
+gap	 	
+word	world	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	populated	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	dangerous	JJ
+gap	 	
+word	enemies	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	attacked	
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	attacked	
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	consists	VPRT
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	distrust	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	others	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	negative	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	harsh	JJ
+gap	 	
+word	laws	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	control	INF
+gap	 	
+word	people	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	conclusions	NOMZ
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	however	RB CONJ
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	limited	JJ
+gap	 	
+word	sample	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	white	JJ
+gap	 	
+word	middle	JJ
+gap	 	
+word	class	NN
+gap	 	
+word	Californians	CAP NNP
+gap	; 	
+word	therefore	RB CONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	questionable	JJ PRED
+gap	 	
+word	whether	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	theory	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	applied	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	cultural	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	socio	NN
+gap	-	
+word	economic	JJ
+gap	 	
+word	groups	NN
+gap	. 	
+word	Also	RB CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	information	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patients	NN
+gap	'	
+word	s	
+gap	 	
+word	childhood	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	drawn	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	recollections	NOMZ
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	authenticity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	results	NN
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	certain	
+gap	. 	
+word	The	
+gap	 	
+word	theory	
+gap	 	
+word	can	
+gap	 	
+word	also	
+gap	 	
+word	be	
+gap	 	
+word	seen	
+gap	 	
+word	as	
+gap	 	
+word	being	
+gap	 	
+word	incomplete	
+gap	. 	
+word	It	
+gap	 	
+word	explains	
+gap	 	
+word	why	
+gap	 	
+word	some	
+gap	 	
+word	individuals	
+gap	 	
+word	become	
+gap	 	
+word	fascists	
+gap	 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	explain	
+gap	 	
+word	why	
+gap	 	
+word	racism	
+gap	 	
+word	and	
+gap	 	
+word	fascism	
+gap	 	
+word	became	
+gap	 	
+word	a	
+gap	 	
+word	widespread	
+gap	 	
+word	phenomenon	
+gap	. 	
+word	Some	
+gap	 	
+word	research	
+gap	 	
+word	has	
+gap	 	
+word	shown	
+gap	 	
+word	that	
+gap	 	
+word	even	
+gap	 	
+word	the	
+gap	 	
+word	fascist	
+gap	 	
+word	elites	
+gap	 	
+word	have	
+gap	 	
+word	had	
+gap	 	
+word	different	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	education	
+gap	 	
+word	than	
+gap	 	
+word	that	
+gap	 	
+word	which	
+gap	 	
+word	would	
+gap	 	
+word	create	
+gap	 	
+word	authoritarian	
+gap	 	
+word	personalities	
+gap	. 	
+word	Also	
+gap	, 	
+word	it	
+gap	 	
+word	fails	
+gap	 	
+word	to	
+gap	 	
+word	study	
+gap	 	
+word	how	
+gap	 	
+word	society	
+gap	 	
+word	itself	
+gap	 	
+word	influences	
+gap	 	
+word	the	
+gap	 	
+word	rise	
+gap	 	
+word	of	
+gap	 	
+word	hate	
+gap	 	
+word	and	
+gap	 	
+word	acceptance	
+gap	 	
+word	of	
+gap	 	
+word	authority	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	claimed	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	person	
+gap	'	
+word	s	
+gap	 	
+word	attitude	
+gap	 	
+word	to	
+gap	 	
+word	authority	
+gap	 	
+word	is	
+gap	 	
+word	influenced	
+gap	 	
+word	by	
+gap	 	
+word	their	
+gap	 	
+word	attitude	
+gap	 	
+word	to	
+gap	 	
+word	their	
+gap	 	
+word	parents	
+gap	. (	
+word	Adorno	
+gap	, 	
+word	Frenkel	
+gap	-	
+word	Brunswick	
+gap	, 	
+word	Levinson	
+gap	 & 	
+word	Sanford	
+gap	, 1950). 	
+word	However	
+gap	, 	
+word	variations	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	degree	
+gap	 	
+word	of	
+gap	 	
+word	racism	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	shown	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	unrelated	
+gap	 	
+word	to	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	upbringing	
+gap	 (	
+word	Sidanius	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 1986). 	
+word	The	
+gap	 	
+word	authoritarian	
+gap	 	
+word	personality	
+gap	 	
+word	is	
+gap	 	
+word	supported	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	studies	
+gap	 	
+word	focus	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	important	
+gap	 	
+word	relationship	
+gap	 	
+word	between	
+gap	 	
+word	social	
+gap	 	
+word	and	
+gap	 	
+word	political	
+gap	 	
+word	attitudes	
+gap	 (	
+word	Brown	
+gap	, 1965). 	
+word	Minority	
+gap	 	
+word	prejudice	
+gap	 	
+word	does	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	go	
+gap	 	
+word	with	
+gap	 	
+word	authoritarianism	
+gap	 	
+word	and	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	this	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	personality	
+gap	 	
+word	do	
+gap	 	
+word	also	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	hold	
+gap	 	
+word	certain	
+gap	 	
+word	political	
+gap	 	
+word	views	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	, 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	obedient	
+gap	 	
+word	to	
+gap	 	
+word	authority	
+gap	 	
+word	and	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	accept	
+gap	 	
+word	the	
+gap	 	
+word	attitudes	
+gap	 	
+word	of	
+gap	 	
+word	those	
+gap	 	
+word	in	
+gap	 	
+word	power	
+gap	 (	
+word	Elm	
+gap	 & 	
+word	Milgram	
+gap	, 1996). 	
+word	However	
+gap	 	
+word	prejudice	
+gap	 	
+word	has	
+gap	 	
+word	varied	
+gap	 	
+word	historically	
+gap	, 	
+word	therefore	
+gap	 	
+word	authoritarianism	
+gap	 	
+word	may	
+gap	 	
+word	just	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	 	
+word	of	
+gap	 	
+word	societal	
+gap	 	
+word	times	
+gap	 	
+word	and	
+gap	 	
+word	not	
+gap	 	
+word	ones	
+gap	 	
+word	family	
+gap	, 	
+word	as	
+gap	 	
+word	suggested	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	psychodynamic	
+gap	 	
+word	approach	
+gap	. 	
+word	This	
+gap	 	
+word	calls	
+gap	 	
+word	into	
+gap	 	
+word	question	
+gap	 	
+word	the	
+gap	 	
+word	causality	
+gap	 	
+word	between	
+gap	 	
+word	authoritarianism	
+gap	 	
+word	and	
+gap	 	
+word	prejudice	
+gap	. 	
+word	Further	
+gap	 	
+word	support	
+gap	 	
+word	comes	
+gap	 	
+word	from	
+gap	 	
+word	evidence	
+gap	 	
+word	that	
+gap	 	
+word	authoritarianism	
+gap	 	
+word	is	
+gap	 	
+word	more	
+gap	 	
+word	pronounced	
+gap	 	
+word	among	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	less	
+gap	 	
+word	education	
+gap	 (	
+word	Chrishe	
+gap	, 1954). 	
+word	The	
+gap	 	
+word	theory	
+gap	 	
+word	supports	
+gap	 	
+word	this	
+gap	 	
+word	as	
+gap	 	
+word	working	
+gap	 	
+word	class	
+gap	 	
+word	parents	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	than	
+gap	 	
+word	upper	
+gap	 	
+word	class	
+gap	 	
+word	parents	
+gap	 	
+word	to	
+gap	 	
+word	stress	
+gap	 	
+word	obedience	
+gap	 	
+word	to	
+gap	 	
+word	authority	
+gap	 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	themselves	
+gap	 	
+word	are	
+gap	 	
+word	more	
+gap	 	
+word	likely	
+gap	 	
+word	to	
+gap	 	
+word	obey	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	authority	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	boss	
+gap	 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	supervisor	
+gap	 (	
+word	Kelly	
+gap	, 1969). 	
+word	And	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	found	
+gap	 	
+word	that	
+gap	 	
+word	authoritarian	
+gap	 	
+word	parents	
+gap	 	
+word	tend	
+gap	 	
+word	to	
+gap	 	
+word	produce	
+gap	 	
+word	dominated	
+gap	 	
+word	children	
+gap	 	
+word	who	
+gap	 	
+word	themselves	
+gap	 	
+word	become	
+gap	 	
+word	authoritarian	
+gap	 	
+word	parents	
+gap	 (	
+word	Adorno	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	.). 	
+word	The	
+gap	 	
+word	theory	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	authoritarian	
+gap	 	
+word	personality	
+gap	 (	
+word	Adorno	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	.) 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	empirical	
+gap	 	
+word	research	
+gap	 	
+word	and	
+gap	 	
+word	determines	
+gap	 	
+word	susceptibility	
+gap	 	
+word	to	
+gap	 	
+word	prejudice	
+gap	 	
+word	and	
+gap	 	
+word	also	
+gap	 	
+word	patterns	
+gap	 	
+word	of	
+gap	 	
+word	belief	
+gap	 	
+word	and	
+gap	 	
+word	ideology	
+gap	. 	
+word	The	
+gap	 	
+word	theory	
+gap	 	
+word	was	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	research	
+gap	 	
+word	project	
+gap	 	
+word	where	
+gap	 	
+word	people	
+gap	 	
+word	who	
+gap	 	
+word	were	
+gap	 	
+word	believed	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	highly	
+gap	 	
+word	authoritarian	
+gap	 	
+word	were	
+gap	 	
+word	interviewed	
+gap	; 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	found	
+gap	 	
+word	that	
+gap	 	
+word	these	
+gap	 	
+word	people	
+gap	 	
+word	shared	
+gap	 	
+word	certain	
+gap	 	
+word	common	
+gap	 	
+word	traits	
+gap	. 	
+word	The	
+gap	 	
+word	purpose	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	questionnaire	
+gap	 	
+word	was	
+gap	 	
+word	to	
+gap	 	
+word	measure	
+gap	 	
+word	anti	
+gap	-	
+word	Semitism	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	determine	
+gap	 	
+word	correlates	
+gap	 	
+word	of	
+gap	 	
+word	anti	
+gap	-	
+word	Semitism	
+gap	. 	
+word	The	
+gap	 	
+word	answers	
+gap	 	
+word	from	
+gap	 2000 	
+word	questionnaires	
+gap	 	
+word	were	
+gap	 	
+word	classified	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	put	
+gap	 	
+word	each	
+gap	 	
+word	individual	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	scale	
+gap	 	
+word	of	
+gap	 	
+word	A	
+gap	-	
+word	S	
+gap	 (	
+word	anti	
+gap	-	
+word	Semitism	
+gap	), 	
+word	E	
+gap	 (	
+word	ethnocentrism	
+gap	), 	
+word	PEC	
+gap	 (	
+word	political	
+gap	-	
+word	economic	
+gap	 	
+word	conservatism	
+gap	) 	
+word	and	
+gap	 	
+word	F	
+gap	 (	
+word	potentially	
+gap	 	
+word	fascist	
+gap	). 	
+word	These	
+gap	 	
+word	results	
+gap	 	
+word	helped	
+gap	 	
+word	to	
+gap	 	
+word	form	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	by	
+gap	 	
+word	assigning	
+gap	 	
+word	psychometric	
+gap	 	
+word	properties	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	scales	
+gap	. 	
+word	The	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	was	
+gap	 	
+word	validated	
+gap	 	
+word	by	
+gap	 	
+word	various	
+gap	 	
+word	means	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	discriminated	
+gap	 	
+word	validation	
+gap	, 	
+word	conformity	
+gap	 	
+word	methods	
+gap	 	
+word	etc	
+gap	. 	
+word	It	
+gap	 	
+word	was	
+gap	 	
+word	developed	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	personality	
+gap	 	
+word	inventory	
+gap	 	
+word	that	
+gap	 	
+word	measured	
+gap	 	
+word	the	
+gap	 	
+word	central	
+gap	 	
+word	attributes	
+gap	 	
+word	of	
+gap	 	
+word	authoritarian	
+gap	 	
+word	personality	
+gap	. 	
+word	The	
+gap	 	
+word	scale	
+gap	 	
+word	consisted	
+gap	 	
+word	of	
+gap	 30 	
+word	items	
+gap	 	
+word	covering	
+gap	 	
+word	such	
+gap	 	
+word	issues	
+gap	 	
+word	as	
+gap	 	
+word	obedience	
+gap	 & 	
+word	respect	
+gap	 	
+word	for	
+gap	 	
+word	authority	
+gap	, 	
+word	aggression	
+gap	 	
+word	towards	
+gap	 	
+word	deviant	
+gap	 	
+word	groups	
+gap	 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	homosexuals	
+gap	, 	
+word	and	
+gap	 	
+word	general	
+gap	 	
+word	ethnocentrism	
+gap	. 	
+word	The	
+gap	 	
+word	main	
+gap	 	
+word	criticism	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	methodological	
+gap	 	
+word	one	
+gap	, 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	items	
+gap	 	
+word	are	
+gap	 	
+word	worded	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	direction	
+gap	, 	
+word	and	
+gap	 	
+word	therefore	
+gap	 	
+word	agreeing	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	statement	
+gap	 	
+word	would	
+gap	 	
+word	always	
+gap	 	
+word	mean	
+gap	 	
+word	that	
+gap	 	
+word	you	
+gap	 	
+word	support	
+gap	 	
+word	the	
+gap	 	
+word	authoritarian	
+gap	 	
+word	viewpoint	
+gap	. 	
+word	Therefore	
+gap	 	
+word	if	
+gap	 	
+word	you	
+gap	 	
+word	scored	
+gap	 	
+word	highly	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	, 	
+word	there	
+gap	 	
+word	if	
+gap	 	
+word	no	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	determining	
+gap	 	
+word	whether	
+gap	 	
+word	you	
+gap	 	
+word	are	
+gap	 	
+word	authoritarian	
+gap	 	
+word	or	
+gap	 	
+word	just	
+gap	 	
+word	acquiescent	
+gap	. 	
+word	The	
+gap	 	
+word	more	
+gap	 	
+word	recent	
+gap	 	
+word	Right	
+gap	 	
+word	Wing	
+gap	 	
+word	Authoritarianism	
+gap	 (	
+word	RWA	
+gap	) 	
+word	scale	
+gap	 (	
+word	Altemeyer	
+gap	, 1996) 	
+word	claims	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	fixed	
+gap	 	
+word	the	
+gap	 	
+word	problem	
+gap	 	
+word	of	
+gap	 	
+word	acquiescence	
+gap	. 	
+word	This	
+gap	 	
+word	scale	
+gap	 	
+word	uses	
+gap	 	
+word	cognitive	
+gap	 	
+word	theory	
+gap	 	
+word	to	
+gap	 	
+word	account	
+gap	 	
+word	for	
+gap	 	
+word	authoritarianism	
+gap	 	
+word	instead	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	psychodynamic	
+gap	 	
+word	approach	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	. 	
+word	The	
+gap	 	
+word	authoritarian	
+gap	 	
+word	sees	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 	
+word	in	
+gap	 	
+word	black	
+gap	 	
+word	and	
+gap	 	
+word	white	
+gap	 	
+word	terms	
+gap	, 	
+word	being	
+gap	 	
+word	unable	
+gap	 	
+word	or	
+gap	 	
+word	unwilling	
+gap	 	
+word	to	
+gap	 	
+word	tolerate	
+gap	 	
+word	cognitive	
+gap	 	
+word	ambiguity	
+gap	. 	
+word	In	
+gap	 	
+word	other	
+gap	 	
+word	words	
+gap	 	
+word	people	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	high	
+gap	 	
+word	RWA	
+gap	 	
+word	will	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	different	
+gap	 	
+word	cognitive	
+gap	 	
+word	set	
+gap	 	
+word	to	
+gap	 	
+word	those	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	low	
+gap	 	
+word	RWA	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	that	
+gap	 	
+word	authoritarianism	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	personality	
+gap	 	
+word	trait	
+gap	 	
+word	consisting	
+gap	 	
+word	of	
+gap	 	
+word	three	
+gap	 	
+word	covarying	
+gap	 	
+word	components	
+gap	, 	
+word	Conventionalism	
+gap	, 	
+word	authoritarian	
+gap	 	
+word	submission	
+gap	 	
+word	and	
+gap	 	
+word	authoritarian	
+gap	 	
+word	aggression	
+gap	. 	
+word	The	
+gap	 	
+word	validity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	has	
+gap	 	
+word	come	
+gap	 	
+word	under	
+gap	 	
+word	question	
+gap	 	
+word	a	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	times	
+gap	. 	
+word	Even	
+gap	 	
+word	though	
+gap	 	
+word	research	
+gap	 	
+word	suggests	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	measure	
+gap	 	
+word	what	
+gap	 	
+word	it	
+gap	 	
+word	sets	
+gap	 	
+word	out	
+gap	 	
+word	to	
+gap	 	
+word	measure	
+gap	, 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	measure	
+gap	 	
+word	something	
+gap	 	
+word	that	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	significant	
+gap	 	
+word	effect	
+gap	 	
+word	on	
+gap	 	
+word	many	
+gap	 	
+word	other	
+gap	 	
+word	variables	
+gap	 (	
+word	Ray	
+gap	, 1990). 	
+word	Gabennesch	
+gap	 (1972) 	
+word	suggested	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	high	
+gap	 	
+word	f	
+gap	 	
+word	score	
+gap	 	
+word	represents	
+gap	 	
+word	narrowness	
+gap	 	
+word	of	
+gap	 	
+word	world	
+gap	-	
+word	view	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	narrow	
+gap	 	
+word	breadth	
+gap	 	
+word	of	
+gap	 	
+word	perspective	
+gap	. 	
+word	The	
+gap	 	
+word	scale	
+gap	 	
+word	has	
+gap	 	
+word	also	
+gap	 	
+word	been	
+gap	 	
+word	described	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	collection	
+gap	 	
+word	of	
+gap	 '	
+word	Victorian	
+gap	 	
+word	values	
+gap	' (	
+word	Hartmann	
+gap	, 1977); 	
+word	the	
+gap	 	
+word	attitudes	
+gap	 	
+word	were	
+gap	 	
+word	considered	
+gap	 	
+word	old	
+gap	-	
+word	fashioned	
+gap	 	
+word	even	
+gap	 	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	was	
+gap	 	
+word	complied	
+gap	. 	
+word	Therefore	
+gap	 	
+word	we	
+gap	 	
+word	are	
+gap	 	
+word	unable	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	sure	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	scale	
+gap	 	
+word	is	
+gap	 	
+word	even	
+gap	 	
+word	socially	
+gap	 	
+word	relevant	
+gap	 	
+word	to	
+gap	 	
+word	today	
+gap	'	
+word	s	
+gap	 	
+word	society	
+gap	. 	
+word	What	
+gap	 	
+word	is	
+gap	 	
+word	considered	
+gap	 	
+word	as	
+gap	 	
+word	an	
+gap	 	
+word	authority	
+gap	 	
+word	personality	
+gap	 	
+word	type	
+gap	 	
+word	may	
+gap	 	
+word	not	
+gap	 	
+word	be	
+gap	 	
+word	applicable	
+gap	 	
+word	to	
+gap	 	
+word	today	
+gap	'	
+word	s	
+gap	 	
+word	culture	
+gap	 	
+word	either	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 20'	
+word	s	
+gap	, 	
+word	obedience	
+gap	 	
+word	to	
+gap	 	
+word	authority	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	norm	
+gap	 	
+word	and	
+gap	 	
+word	was	
+gap	 	
+word	actually	
+gap	 	
+word	expected	
+gap	 	
+word	of	
+gap	 	
+word	children	
+gap	. 	
+word	However	
+gap	, 	
+word	now	
+gap	, 	
+word	children	
+gap	 	
+word	are	
+gap	 	
+word	encouraged	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	more	
+gap	 	
+word	autonomous	
+gap	. 	
+word	Therefore	
+gap	 	
+word	if	
+gap	 	
+word	someone	
+gap	 	
+word	were	
+gap	 	
+word	to	
+gap	 	
+word	score	
+gap	 	
+word	highly	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	it	
+gap	 	
+word	could	
+gap	 	
+word	just	
+gap	 	
+word	mean	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	old	
+gap	 	
+word	fashioned	
+gap	 	
+word	and	
+gap	 	
+word	not	
+gap	 	
+word	authoritarian	
+gap	. 	
+word	Sanford	
+gap	 (1977) 	
+word	suggested	
+gap	 	
+word	that	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	changing	
+gap	 	
+word	times	
+gap	, 	
+word	interested	
+gap	 	
+word	researchers	
+gap	 	
+word	should	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	define	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	from	
+gap	 	
+word	of	
+gap	 	
+word	authoritarian	
+gap	 	
+word	personality	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	related	
+gap	 	
+word	more	
+gap	 	
+word	to	
+gap	 	
+word	current	
+gap	 	
+word	social	
+gap	 	
+word	issues	
+gap	. 	
+word	Relational	
+gap	 	
+word	studies	
+gap	 	
+word	have	
+gap	 	
+word	shown	
+gap	 	
+word	when	
+gap	 	
+word	correlating	
+gap	 	
+word	f	
+gap	-	
+word	scale	
+gap	 	
+word	to	
+gap	 	
+word	various	
+gap	 	
+word	prejudice	
+gap	 	
+word	measures	
+gap	 	
+word	in	
+gap	 	
+word	South	
+gap	 	
+word	Africa	
+gap	 	
+word	the	
+gap	 	
+word	relation	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	poor	
+gap	. 	
+word	The	
+gap	 	
+word	scale	
+gap	 	
+word	fails	
+gap	 	
+word	to	
+gap	 	
+word	explain	
+gap	 	
+word	prejudice	
+gap	 	
+word	in	
+gap	 	
+word	societies	
+gap	 	
+word	where	
+gap	 	
+word	prejudice	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	norm	
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	. 	
+word	South	CAP NNP
+gap	 	
+word	Africa	CAP NNP
+gap	 & 	
+word	Southern	CAP NNP
+gap	 	
+word	USA	CAP NNP
+gap	) 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	looks	VPRT
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individual	NN
+gap	. 	
+word	Ray	CAP NNP
+gap	 (1980) 	
+word	found	VBD PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 0.59 	
+word	correlation	NOMZ
+gap	 	
+word	however	RB CONJ
+gap	, 	
+word	Orpen	CAP NNP
+gap	 & 	
+word	Van	CAP NNP
+gap	 	
+word	der	NNP
+gap	 	
+word	Schyff	CAP NNP
+gap	 (1972) 	
+word	only	DWNT RB
+gap	 	
+word	found	VBD PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 0.05 	
+word	correlation	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	implies	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	maybe	RB HDG
+gap	 	
+word	the	ART DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	authoritarianism	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	appropriate	JJ
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	applied	
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	societies	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	prejudice	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	normative	JJ PRED
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	suggested	PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	potential	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	authoritarianism	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	actually	RB
+gap	 	
+word	quite	RB
+gap	 	
+word	high	JJ
+gap	, 	
+word	given	
+gap	 	
+word	the	ART DET
+gap	 	
+word	right	JJ
+gap	 	
+word	circumstances	NN
+gap	 (	
+word	Zimbardo	CAP NNP
+gap	, 1971). 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	estimated	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	least	RB SPADJ
+gap	 80% 	
+word	of	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	have	VPRT
+gap	 	
+word	prejudices	NN
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	Milgram	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	study	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	obedience	NN
+gap	 (1971) 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 65% 	
+word	of	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	physically	RB
+gap	 	
+word	hurt	INF
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	told	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	so	RB
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	authority	NOMZ
+gap	 	
+word	figure	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	suggests	VPRT PUBV SUAV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	maybe	RB HDG
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	parts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	us	FPP1 PRP SBJP ACCU
+gap	. 	
+word	Research	NN CAP
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	important	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	trait	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	anti	JJ
+gap	-	
+word	democratic	JJ
+gap	 	
+word	beliefs	NN
+gap	, 	
+word	ethnocentrism	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	prejudice	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	behaviour	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	have	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	detrimental	JJ
+gap	 	
+word	effect	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	society	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	seen	PRIV
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	times	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	history	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Nazi	CAP NNP
+gap	 	
+word	Germany	CAP NNP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	fascist	JJ
+gap	 	
+word	Italy	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	theory	NN
+gap	 (	
+word	Adorno	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 1950) 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	widely	RB
+gap	 	
+word	criticised	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	inaccurate	JJ PRED
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	even	RB
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	errors	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	authoritarian	JJ
+gap	 	
+word	personality	NOMZ
+gap	 	
+word	theory	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	pioneered	
+gap	 	
+word	a	EMPH ART DET INDA
+gap	 	
+word	lot	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	research	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	field	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	time	NN
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	hopefully	RB
+gap	 	
+word	help	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	expand	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	theory	NN
+gap	.	

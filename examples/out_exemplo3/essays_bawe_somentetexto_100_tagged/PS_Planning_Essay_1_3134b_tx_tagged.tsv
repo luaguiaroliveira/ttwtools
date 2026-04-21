@@ -1,1247 +1,2196 @@
 # filename: PS_Planning_Essay_1_3134b_tx.txt
-token	tags
-Introduction	NOMZ CAP
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO PREP
-identify	INF
-the	ART DET
-roles	NN
-and	PHC CCONJ
-interactions	NOMZ
-of	PIN PREP
-different	JJ
-actors	NN
-in	PIN CONJ PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-two	NUM
-different	JJ
-urban	JJ
-areas	NN
-:	
-the	ART DET
-Florence	CAP NNP
-Park	CAP NNP
-estate	NN
-in	PIN CONJ PREP
-Cowley	CAP NNP
-,	
-Oxford	CAP NNP
-and	CCONJ
-the	ART DET
-Byker	CAP NNP
-estate	NN
-in	PIN CONJ PREP
-Newcastle	CAP NNP
-.	
-The	ART CAP DET
-Florence	CAP NNP
-Park	CAP NNP
-estate	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-housing	NN
-development	NOMZ
-in	PIN CONJ PREP
-Cowley	CAP NNP
-.	
-The	ART CAP DET
-area	NN
-developed	VBD
-rapidly	RB
-in	PIN CONJ PREP
-the	ART DET
-20	NUM
-'s	
-and	CCONJ
-30	NUM
-'s	VPRT
-with	PIN PREP
-the	ART DET
-arrival	NN
-of	PIN PREP
-the	ART DET
-Morris	CAP NNP
-Motors	CAP NNP
-car	NN
-works	VPRT
-.	
-The	ART CAP DET
-Byker	CAP NNP
-estate	NN
-in	PIN CONJ PREP
-Newcastle	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-planned	
-social	JJ
-housing	NN
-development	NOMZ
-built	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-70	NUM
-'s	
-as	PIN CONJ PREP
-part	NN
-of	PIN PREP
-a	ART DET INDA
-slum	NN
-clearance	NN
-project	NN
-.	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-examine	INF
-each	QUAN DET
-example	NN
-in	PIN CONJ PREP
-turn	NN
-and	ANDC CCONJ
-then	RB
-draw	INF
-conclusions	NOMZ
-about	PIN PREP
-the	ART DET
-varying	PGAS
-importance	NN
-of	PIN PREP
-different	JJ
-actors	NN
-in	PIN CONJ PREP
-each	QUAN DET
-area	NN
-.	
-Cowley	CAP NNP
-,	
-East	CAP NNP
-Oxford	CAP NNP
-Boundary	CAP NNP
-of	PIN PREP
-Florence	CAP NNP
-Park	CAP NNP
-Estate	CAP NNP
-Map	CAP NNP
-of	PIN PREP
-Cowley	CAP NNP
-(	
-Ordnance	CAP NNP
-survey	NN
-,	
-2003	NUM
-)	
-Up	PIN CAP PREP
-until	PIN PREP
-the	ART DET
-1920s	NN
-Cowley	CAP NNP
-was	BEMA VBD AUXB
-a	ART DET INDA
-predominantly	RB
-rural	JJ
-area	NN
-with	PIN PREP
-only	DWNT RB
-a	ART DET INDA
-few	QUAN JJ
-small	JJ
-clustered	
-settlements	NOMZ
-.	
-Morris	CAP NNP
-motor	NN
-car	NN
-works	NN
-was	PASS VBD AUXB
-established	PRIV
-in	PIN CONJ PREP
-the	ART DET
-area	NN
-in	PIN CONJ PREP
-1913	NUM
-and	CCONJ
-the	ART DET
-Pressed	CAP NNP
-Steel	CAP NNP
-Co.	CAP NNP
-followed	VBD
-.	
-There	EX CAP
-was	VBD AUXB
-a	ART DET INDA
-demand	SUAV NN
-for	PIN PREP
-housing	NN
-close	RB
-to	PIN PREP
-the	ART DET
-factories	NN
-for	PIN PREP
-the	ART DET
-workers	NN
-,	
-many	QUAN JJ
-of	PIN PREP
-whom	PIRE WH
-had	VBD PEAS
-migrated	
-to	PIN PREP
-the	ART DET
-area	NN
-.	
-The	ART CAP DET
-area	NN
-developed	VBD
-rapidly	RB
-from	PIN PREP
-rural	JJ
-to	PIN PREP
-urban	JJ
-.	
-The	ART CAP DET
-housing	NN
-built	WZPAST
-still	RB
-remains	VPRT
-in	PIN CONJ PREP
-Cowley	CAP NNP
-today	TIME NN
-,	
-although	CONC PIN SCONJ PREP
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-houses	NN
-have	VPRT PEAS
-been	PASS AUXB
-extended	
-and	ANDC CCONJ
-there	EX
-are	VPRT AUXB
-areas	NN
-of	PIN PREP
-infill	NN
-.	
-Private	JJ CAP
-housebuilders	NN
-bought	VBD
-areas	NN
-of	PIN PREP
-land	NN
-and	CCONJ
-built	VBD
-large	JJ
-estate	NN
-of	PIN PREP
-houses	NN
-speculatively	RB
-.	
-Florence	CAP NNP
-Park	CAP NNP
-was	PASS VBD BYPA AUXB
-built	
-in	PIN CONJ PREP
-1934	NUM
-by	PIN PREP
-N.	CAP NNP
-Moss	CAP NNP
-and	PHC CCONJ
-Son	CAP NNP
-.	
-The	ART CAP DET
-houses	NN
-were	BEMA VBD AUXB
-all	QUAN DET
-built	
-to	PIN PREP
-a	ART DET INDA
-standard	JJ
-design	NN
-and	PHC CCONJ
-architects	NN
-were	PASS VBD SPAU AUXB
-not	XX0 RB
-used	
-.	
-They	TPP3 CAP PRP SBJP
-were	PASS VBD AUXB
-developed	
-for	PIN PREP
-profit	NN
-and	CCONJ
-were	VBD AUXB
-either	CCONJ
-sold	
-or	CCONJ
-let	INF
-.	
-Example	NN CAP
-of	PIN PREP
-style	NN
-of	PIN PREP
-houses	NN
-.	
-Outram	CAP NNP
-Road	CAP NNP
-,	
-Cowley	CAP NNP
-Estate	CAP NNP
-agents	NN
-were	PASS VBD AUXB
-used	
-to	PIN TO PREP
-sell	INF
-properties	NN
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-were	PASS VBD SPAU AUXB
-also	RB
-advertised	
-in	PIN CONJ PREP
-papers	NN
-and	PHC CCONJ
-magazines	NN
-.	
-Example	NN CAP
-of	PIN PREP
-an	ART DET INDA
-advert	NN
-placed	WZPAST
-at	PIN PREP
-the	ART DET
-time	NN
-(	
-Oxford	CAP NNP
-Monthly	CAP NNP
-,	
-1934	NUM
-)	
-There	EX CAP
-was	VBD AUXB
-no	SYNE DET
-formal	JJ
-planning	NN
-system	NN
-at	PIN PREP
-this	DEMO DET
-time	NN
-although	CONC PIN SCONJ PREP
-the	ART DET
-housing	NN
-had	VBD
-to	PIN TO PREP
-adhere	INF
-to	PIN PREP
-certain	JJ
-bylaws	NN
-.	
-The	ART CAP DET
-council	NN
-had	VBD
-a	ART DET INDA
-role	NN
-in	PIN CONJ PREP
-checking	PRIV PGAS
-and	PHC CCONJ
-approving	PGAS
-plans	NN
-before	PIN PREP
-development	NOMZ
-(	
-the	ART DET
-Housing	CAP NNP
-Subcommittee	CAP NNP
-.	
-)	
-Tenants	NN CAP
-had	VBD
-little	JJ
-power	NN
-and	PHC CCONJ
-conflicts	NN
-arose	VBD
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-united	VBD
-to	PIN TO PREP
-protest	PUBV INF
-at	PIN PREP
-the	ART DET
-high	JJ
-rents	NN
-and	CCONJ
-poor	JJ
-design	NN
-/	
-quality	NOMZ
-of	PIN PREP
-the	ART DET
-houses	NN
-.	
-They	TPP3 CAP PRP SBJP
-felt	VBD PRIV
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-had	VBD PEAS
-been	PASS AUXB
-built	
-as	RB CONJ
-cheaply	RB
-as	PIN CONJ PREP
-possible	JJ
-and	CCONJ
-were	VBD AUXB
-'	CONT QUOT
-so	RB
-badly	RB
-built	
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-said	PUBV
-even	RB
-to	PIN TO PREP
-conform	INF
-with	PIN PREP
-the	ART DET
-bylaws	NN
-.	
-'	CONT QUOT
-(	
-Florence	CAP NNP
-Park	CAP NNP
-Tenants	CAP NNP
-Committee	CAP NNP
-,	
-n.d	NNP
-.	
-)	
-They	TPP3 CAP PRP SBJP
-also	RB
-felt	VBD PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-council	NN
-had	VBD PEAS
-done	PROD
-little	JJ
-to	PIN TO PREP
-protect	INF
-their	TPP3 PRP SBJP
-interests	NN
-,	
-especially	RB
-as	PIN CONJ PREP
-the	ART DET
-builder	NN
-of	PIN PREP
-Florence	CAP NNP
-Park	CAP NNP
-,	
-F.E.	CAP NNP
-Moss	CAP NNP
-,	
-was	BEMA VBD AUXB
-also	RB
-a	ART DET INDA
-city	NN
-councillor	NN
-.	
-Developers	NN CAP
-seem	VPRT SMP
-to	PIN TO PREP
-have	INF
-the	ART DET
-most	JJ EMPH SPADJ
-power	NN
-and	CCONJ
-were	VBD AUXB
-setting	PGAS
-the	ART DET
-agenda	NN
-.	
-Byker	CAP NNP
-estate	NN
-,	
-Newcastle	CAP NNP
-Location	CAP NNP
-of	PIN PREP
-Byker	CAP NNP
-estate	NN
-(	
-Multimap	CAP NNP
-,	
-2005	NUM
-)	
-This	DEMO CAP DET
-area	NN
-of	PIN PREP
-Newcastle	CAP NNP
-was	BEMA VBD AUXB
-originally	RB TIME
-a	ART DET INDA
-working	JJ
--	
-class	NN
-area	NN
-of	PIN PREP
-high	JJ
-density	NOMZ
-back	RB
--	
-to	PIN STPR PREP
--	
-back	RB
-Victorian	JJ CAP
-terraces	NN
-.	
-Many	QUAN JJ CAP
-of	PIN PREP
-these	DEMP DET
-were	BEMA VBD AUXB
-in	PIN CONJ PREP
-poor	JJ
-condition	NOMZ
-and	CCONJ
-lacked	VBD
-one	NUM
-or	CCONJ
-more	JJ EMPH CMADJ
-basic	JJ
-household	NN
-amenities	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-1960s	NN
-Newcastle	CAP NNP
-City	CAP NNP
-Council	CAP NNP
-took	VBD
-the	ART DET
-decision	NOMZ
-to	PIN TO PREP
-redevelop	INF
-it	PIT PRP SBJP
-.	
-80	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-residents	NN
-wanted	VBD
-to	PIN TO PREP
-stay	INF
-in	PIN CONJ PREP
-Byker	CAP NNP
-and	ANDC CCONJ
-in	PIN CONJ PREP
-1968	NUM
-the	ART DET
-Conservatives	CAP NNP
-won	VBD
-one	NUM
-of	PIN PREP
-the	ART DET
-council	NN
-seats	NN
-after	PIN PREP
-campaigning	GER PGAS
-on	PIN PREP
-the	ART DET
-slogan	NN
-'	CONT QUOT
-Byker	CAP NNP
-for	PIN PREP
-Byker	CAP NNP
-people	NN
-.	
-'	CONT QUOT
-The	ART CAP DET
-council	NN
-decided	VBD PRIV SUAV
-to	PIN TO PREP
-clear	INF
-the	ART DET
-slums	NN
-but	CCONJ
-to	PIN TO PREP
-try	INF
-to	PIN TO PREP
-keep	INF
-the	ART DET
-community	NOMZ
-.	
-Ralph	CAP NNP
-Erskine	CAP NNP
-,	
-an	ART DET INDA
-architect	NN
-,	
-was	PASS VBD BYPA AUXB
-appointed	
-by	PIN PREP
-the	ART DET
-Housing	CAP NNP
-Committee	CAP NNP
-as	PIN CONJ PREP
-the	ART DET
-master	NN
-planner	NN
-and	PHC CCONJ
-consultant	NN
-for	PIN PREP
-the	ART DET
-redevelopment	NOMZ
-.	
-The	ART CAP DET
-local	JJ
-authority	NOMZ
-owned	VBD
-the	ART DET
-land	NN
-,	
-financed	VBD
-the	ART DET
-development	NOMZ
-and	CCONJ
-was	BEMA VBD AUXB
-responsible	JJ PRED
-for	PIN PREP
-approving	PGAS
-the	ART DET
-plans	NN
-,	
-and	ANDC CCONJ
-giving	PGAS
-planning	NN
-permission	NOMZ
-.	
-Erskine	CAP NNP
-opened	VBD
-up	PIN PREP
-an	ART DET INDA
-office	NN
-in	PIN CONJ PREP
-an	ART DET INDA
-old	JJ
-shop	NN
-in	PIN CONJ PREP
-the	ART DET
-middle	NN
-of	PIN PREP
-the	ART DET
-redevelopment	JJ
-area	NN
-,	
-and	ANDC CCONJ
-there	EX
-was	VBD AUXB
-an	ART DET INDA
-'	CONT QUOT
-open	JJ
-house	NN
-'	CONT QUOT
-policy	NN
-that	TSUB WHSUB WH
-encouraged	VBD
-local	JJ
-people	NN
-to	PIN TO PREP
-drop	INF
-in	RB PIN CONJ PREP
-and	CCONJ
-talk	INF
-to	PIN PREP
-the	ART DET
-architects	NN
-and	CCONJ
-get	INF
-involved	
-with	PIN PREP
-the	ART DET
-design	NN
-team	NN
-.	
-At	PIN CAP PREP
-the	ART DET
-time	NN
-there	EX
-were	VBD AUXB
-plans	NN
-for	PIN PREP
-a	ART DET INDA
-motorway	NN
-bypass	NN
-to	PIN TO PREP
-run	INF
-through	PIN PREP
-the	ART DET
-area	NN
-.	
-Part	NN CAP
-of	PIN PREP
-the	ART DET
-design	NN
-solution	NOMZ
-to	PIN TO PREP
-screen	INF
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-site	NN
-from	PIN PREP
-this	DEMP DET
-was	BEMA VBD AUXB
-the	ART DET
-Byker	CAP NNP
-Wall	CAP NNP
-:	
-The	ART CAP DET
-Byker	CAP NNP
-Wall	CAP NNP
-(	
-Byker	CAP NNP
-Wall	CAP NNP
-Website	CAP NNP
-,	
-2000	NUM
-)	
-This	DEMO CAP DET
-wall	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-block	NN
-of	PIN PREP
-flats	NN
-/	
-maisonettes	NN
-which	WHSUB DET WH
-winds	VPRT
-around	PIN PLACE PREP
-the	ART DET
-north	PLACE NN
-of	PIN PREP
-the	ART DET
-estate	NN
-.	
-Within	PIN CAP PREP
-the	ART DET
-wall	NN
-,	
-the	ART DET
-development	NOMZ
-consists	VPRT
-of	PIN PREP
-low	JJ
-rise	NN
-housing	NN
-,	
-comprising	GER PGAS
-of	PIN PREP
-a	ART DET INDA
-mixture	NN
-of	PIN PREP
-terraces	NN
-and	PHC CCONJ
-maisonettes	NN
-for	PIN PREP
-2	NUM
-to	PIN PREP
-6	NUM
-people	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-a	ART DET INDA
-great	JJ
-mix	NN
-in	PIN CONJ PREP
-textures	NN
-,	
-styles	NN
-,	
-scales	NN
-and	PHC CCONJ
-colour	NN
-of	PIN PREP
-the	ART DET
-housing	NN
-:	
-Example	NN CAP
-of	PIN PREP
-the	ART DET
-style	NN
-of	PIN PREP
-dwelling	NN
-in	PIN CONJ PREP
-the	ART DET
-Byker	CAP NNP
-Estate	CAP NNP
-(	
-Byker	CAP NNP
-Wall	CAP NNP
-Website	CAP NNP
-,	
-2000	NUM
-)	
-Another	CAP DET
-example	NN
-of	PIN PREP
-the	ART DET
-housing	NN
-in	PIN CONJ PREP
-the	ART DET
-Byker	CAP NNP
-Estate	CAP NNP
-(	
-Byker	CAP NNP
-Wall	CAP NNP
-Website	CAP NNP
-,	
-2000	NUM
-)	
-Green	CAP NNP
-spaces	NN
-and	PHC CCONJ
-landscaping	GER
-were	PASS VBD AUXB
-included	
-in	PIN CONJ PREP
-the	ART DET
-redevelopment	NOMZ
-and	CCONJ
-communal	JJ
-'	CONT QUOT
-hobby	NN
-rooms	NN
-'	CONT QUOT
-were	PASS VBD AUXB
-provided	
-for	PIN PREP
-each	QUAN DET
-group	NN
-of	PIN PREP
-residents	NN
-.	
-The	ART CAP DET
-architects	NN
-had	VBD
-constant	JJ
-feedback	NN
-from	PIN PREP
-tenants	NN
-and	CCONJ
-many	QUAN JJ
-changes	NN
-were	PASS VBD AUXB
-made	
-to	PIN PREP
-the	ART DET
-design	NN
-and	PHC CCONJ
-building	NN
-standards	NN
-in	PIN CONJ PREP
-response	NN
-to	PIN PREP
-the	ART DET
-tenant	NN
-'s	
-views	NN
-.	
-The	ART CAP DET
-scheme	NN
-has	VPRT PEAS
-been	PASS AUXB
-heralded	
-as	PIN CONJ PREP
-the	ART DET
-first	JJ
-example	NN
-of	PIN STPR PREP
-'	CONT QUOT
-community	NOMZ
-architecture	NN
-.	
-'	CONT QUOT
-The	ART CAP DET
-estate	NN
-still	RB
-remains	VPRT
-,	
-although	CONC PIN SCONJ PREP
-in	PIN CONJ PREP
-recent	JJ
-years	NN
-some	QUAN DET
-social	JJ
-problems	NN
-have	VPRT PEAS
-developed	
-,	
-partly	DWNT RB
-due	JJ
-to	PIN PREP
-poor	JJ
-maintenance	NN
-of	PIN PREP
-the	ART DET
-site	NN
-.	
-The	ART CAP DET
-estate	NN
-was	VBD AUXB
-grade	NN
-II	CAP NNP
-listed	
-in	PIN CONJ PREP
-2003	NUM
-The	ART CAP DET
-majority	NOMZ
-view	NN
-seems	VPRT SMP
-to	PIN TO PREP
-be	BEMA AUXB INF
-that	PIN DEMO SCONJ PREP
-the	ART DET
-Byker	CAP NNP
-development	NOMZ
-was	VBD AUXB
-'	CONT QUOT
-highly	AMP RB
-successful	JJ
-'	CONT QUOT
-and	ANDC CCONJ
-'	CONT QUOT
-set	VBD
-new	JJ
-standards	NN
-for	PIN PREP
-local	JJ
-authority	NOMZ
-housing	NN
-.	
-'(Grundy	CONT NNP
-,	
-1992	NUM
-)	
-However	RB CONJ CAP
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-new	JJ
-housing	NN
-was	BEMA VBD AUXB
-at	PIN PREP
-a	ART DET INDA
-lower	JJ CMADJ
-density	NOMZ
-than	PIN PREP
-the	ART DET
-slums	NN
-not	XX0 RB
-all	QUAN DET
-of	PIN PREP
-the	ART DET
-community	NOMZ
-could	POMD
-be	PASS AUXB INF
-rehoused	
-in	PIN CONJ PREP
-the	ART DET
-same	JJ
-area	NN
-.	
-The	ART CAP DET
-main	JJ
-actors	NN
-in	PIN CONJ PREP
-this	DEMO DET
-development	NOMZ
-were	BEMA VBD AUXB
-the	ART DET
-architect	NN
-,	
-the	ART DET
-residents	NN
-and	CCONJ
-the	ART DET
-local	JJ
-authority	NOMZ
-.	
-Conclusion	CAP NNP
-The	ART CAP DET
-Byker	CAP NNP
-estate	NN
-and	CCONJ
-Florence	CAP NNP
-Park	CAP NNP
-estate	NN
-were	PASS VBD AUXB
-developed	
-at	PIN PREP
-different	JJ
-times	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-very	AMP RB
-different	JJ
-ways	NN
-.	
-The	ART CAP DET
-Florence	CAP NNP
-Park	CAP NNP
-estate	NN
-was	PASS VBD AUXB
-developed	
-on	PIN PREP
-greenfield	NN
-land	NN
-,	
-speculatively	RB
-,	
-by	PIN PREP
-private	JJ
-developers	NN
-for	PIN PREP
-profit	NN
-.	
-The	ART CAP DET
-Byker	CAP NNP
-estate	NN
-was	PASS VBD AUXB
-planned	
-redevelopment	NOMZ
-of	PIN PREP
-an	ART DET INDA
-area	NN
-.	
-The	ART CAP DET
-council	NN
-had	VBD
-several	QUAN JJ
-roles	NN
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-the	ART DET
-landowner	NN
-and	PHC CCONJ
-client	NN
-for	PIN PREP
-the	ART DET
-project	NN
-and	CCONJ
-the	ART DET
-development	NOMZ
-was	BEMA VBD AUXB
-for	PIN PREP
-public	JJ
-housing	NN
-.	
-The	ART CAP DET
-council	NN
-also	RB
-had	VBD
-a	ART DET INDA
-role	NN
-as	PIN CONJ PREP
-the	ART DET
-planning	NN
-authority	NOMZ
-.	
-When	RB CAP SCONJ WH
-Florence	CAP NNP
-Park	CAP NNP
-was	PASS VBD AUXB
-being	PASS AUXB
-developed	
-there	EX
-was	VBD AUXB
-not	XX0 RB
-yet	RB
-such	EMPH DET
-a	ART DET INDA
-formal	JJ
-planning	NN
-system	NN
-although	CONC PIN SCONJ PREP
-there	EX
-were	VBD AUXB
-regulations	NOMZ
-that	TSUB WHSUB WH
-should	NEMD
-have	PEAS INF
-been	PASS AUXB
-adhered	
-to	PIN STPR PREP
-.	
-As	PIN CONJ CAP PREP
-the	ART DET
-developer	NN
-was	BEMA VBD AUXB
-also	RB
-a	ART DET INDA
-councillor	NN
-,	
-there	EX
-was	VBD AUXB
-a	ART DET INDA
-conflict	NN
-of	PIN PREP
-interest	NN
-.	
-Private	JJ CAP
-developers	NN
-instigated	VBD
-the	ART DET
-development	NOMZ
-of	PIN PREP
-Florence	CAP NNP
-Park	CAP NNP
-and	CCONJ
-had	VBD
-a	EMPH ART DET INDA
-lot	NN
-of	PIN PREP
-power	NN
-.	
-Tenants	NN CAP
-had	VBD
-no	SYNE DET
-influence	NN
-whereas	OSUB PIN SCONJ PREP
-at	PIN PREP
-Byker	CAP NNP
-the	ART DET
-tenant	NN
-'s	
-views	NN
-were	VBD AUXB
-much	QUAN RB
-more	RB EMPH CMADJ
-influential	JJ
-.	
-The	ART CAP DET
-Byker	CAP NNP
-estate	NN
-was	PASS VBD BYPA AUXB
-designed	
-by	PIN PREP
-an	ART DET INDA
-architect	NN
-,	
-and	ANDC CCONJ
-was	PASS VBD AUXB
-thought	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-very	AMP RB
-innovative	JJ
-.	
-Housing	NN CAP
-was	PASS VBD SPAU AUXB
-individually	RB
-designed	
-with	PIN PREP
-300	NUM
-different	JJ
-types	NN
-of	PIN PREP
-dwelling	NN
-which	WHSUB DET WH
-were	BEMA VBD AUXB
-of	PIN PREP
-good	JJ
-quality	NOMZ
-.	
-Florence	CAP NNP
-Park	CAP NNP
-did	VBD SPAU
-not	XX0 RB
-use	INF
-an	ART DET INDA
-architect	NN
-,	
-housing	NN
-was	BEMA VBD AUXB
-uniform	JJ PRED
-,	
-and	ANDC CCONJ
-there	EX
-were	VBD AUXB
-many	QUAN JJ
-complaints	NN
-about	PIN PREP
-the	ART DET
-standards	NN
-of	PIN PREP
-its	PIT PRP SBJP
-design	NN
-.	
-Tenants	NN CAP
-were	VBD AUXB
-much	QUAN RB
-more	RB EMPH CMADJ
-satisfied	JJ
-with	PIN PREP
-the	ART DET
-housing	NN
-at	PIN PREP
-Byker	CAP NNP
-.	
-These	DEMO CAP DET
-two	NUM
-examples	NN
-demonstrate	VPRT PRIV
-that	PIN THVC SCONJ PREP
-urban	JJ
-areas	NN
-are	PASS VPRT BYPA AUXB
-shaped	
-by	PIN PREP
-a	ART DET INDA
-combination	NOMZ
-of	PIN PREP
-influences	NN
-and	PHC CCONJ
-interactions	NOMZ
-between	PIN PREP
-different	JJ
-actors	NN
-,	
-who	WHQU WH
-have	VPRT
-varying	PGAS
-degrees	NN
-of	PIN PREP
-power	NN
-in	PIN CONJ PREP
-the	ART DET
-development	NOMZ
-process	NN
-.	
-These	DEMO CAP DET
-different	JJ
-influences	NN
-are	BEMA VPRT AUXB
-apparent	JJ PRED
-in	PIN CONJ PREP
-the	ART DET
-final	JJ
-form	NN
-of	PIN PREP
-the	ART DET
-built	
-environment	NOMZ
-.	
+type	content	tags
+word	Introduction	NOMZ CAP
+gap	 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	roles	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	interactions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	actors	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	different	JJ
+gap	 	
+word	urban	JJ
+gap	 	
+word	areas	NN
+gap	: 	
+word	the	ART DET
+gap	 	
+word	Florence	CAP NNP
+gap	 	
+word	Park	CAP NNP
+gap	 	
+word	estate	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Cowley	CAP NNP
+gap	, 	
+word	Oxford	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Byker	CAP NNP
+gap	 	
+word	estate	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Newcastle	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Florence	CAP NNP
+gap	 	
+word	Park	CAP NNP
+gap	 	
+word	estate	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	housing	NN
+gap	 	
+word	development	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Cowley	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	area	NN
+gap	 	
+word	developed	VBD
+gap	 	
+word	rapidly	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 20'	
+word	s	
+gap	 	
+word	and	CCONJ
+gap	 30'	
+word	s	VPRT
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	arrival	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Morris	CAP NNP
+gap	 	
+word	Motors	CAP NNP
+gap	 	
+word	car	NN
+gap	 	
+word	works	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	Byker	CAP NNP
+gap	 	
+word	estate	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Newcastle	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	planned	
+gap	 	
+word	social	JJ
+gap	 	
+word	housing	NN
+gap	 	
+word	development	NOMZ
+gap	 	
+word	built	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 70'	
+word	s	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	slum	NN
+gap	 	
+word	clearance	NN
+gap	 	
+word	project	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	examine	INF
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	example	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	turn	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	then	RB
+gap	 	
+word	draw	INF
+gap	 	
+word	conclusions	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	varying	PGAS
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	actors	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	area	NN
+gap	. 	
+word	Cowley	CAP NNP
+gap	, 	
+word	East	CAP NNP
+gap	 	
+word	Oxford	CAP NNP
+gap	 	
+word	Boundary	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Florence	CAP NNP
+gap	 	
+word	Park	CAP NNP
+gap	 	
+word	Estate	CAP NNP
+gap	 	
+word	Map	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Cowley	CAP NNP
+gap	 (	
+word	Ordnance	CAP NNP
+gap	 	
+word	survey	NN
+gap	, 2003) 	
+word	Up	PIN CAP PREP
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 1920	
+word	s	NN
+gap	 	
+word	Cowley	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	predominantly	RB
+gap	 	
+word	rural	JJ
+gap	 	
+word	area	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	small	JJ
+gap	 	
+word	clustered	
+gap	 	
+word	settlements	NOMZ
+gap	. 	
+word	Morris	CAP NNP
+gap	 	
+word	motor	NN
+gap	 	
+word	car	NN
+gap	 	
+word	works	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	established	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1913 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Pressed	CAP NNP
+gap	 	
+word	Steel	CAP NNP
+gap	 	
+word	Co	CAP NNP
+gap	. 	
+word	followed	VBD
+gap	. 	
+word	There	EX CAP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	housing	NN
+gap	 	
+word	close	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	factories	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	workers	NN
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	whom	PIRE WH
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	migrated	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	area	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	area	NN
+gap	 	
+word	developed	VBD
+gap	 	
+word	rapidly	RB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	rural	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	urban	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	housing	NN
+gap	 	
+word	built	WZPAST
+gap	 	
+word	still	RB
+gap	 	
+word	remains	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Cowley	CAP NNP
+gap	 	
+word	today	TIME NN
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	houses	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	extended	
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	areas	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	infill	NN
+gap	. 	
+word	Private	JJ CAP
+gap	 	
+word	housebuilders	NN
+gap	 	
+word	bought	VBD
+gap	 	
+word	areas	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	land	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	built	VBD
+gap	 	
+word	large	JJ
+gap	 	
+word	estate	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	houses	NN
+gap	 	
+word	speculatively	RB
+gap	. 	
+word	Florence	CAP NNP
+gap	 	
+word	Park	CAP NNP
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	built	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1934 	
+word	by	PIN PREP
+gap	 	
+word	N	CAP NNP
+gap	. 	
+word	Moss	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Son	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	houses	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	built	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	standard	JJ
+gap	 	
+word	design	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	architects	NN
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	used	
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	developed	
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	profit	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	either	CCONJ
+gap	 	
+word	sold	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	let	INF
+gap	. 	
+word	Example	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	style	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	houses	NN
+gap	. 	
+word	Outram	CAP NNP
+gap	 	
+word	Road	CAP NNP
+gap	, 	
+word	Cowley	CAP NNP
+gap	 	
+word	Estate	CAP NNP
+gap	 	
+word	agents	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	sell	INF
+gap	 	
+word	properties	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	advertised	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	papers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	magazines	NN
+gap	. 	
+word	Example	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	advert	NN
+gap	 	
+word	placed	WZPAST
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 (	
+word	Oxford	CAP NNP
+gap	 	
+word	Monthly	CAP NNP
+gap	, 1934) 	
+word	There	EX CAP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	formal	JJ
+gap	 	
+word	planning	NN
+gap	 	
+word	system	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	time	NN
+gap	 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	housing	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	adhere	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	certain	JJ
+gap	 	
+word	bylaws	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	council	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	checking	PRIV PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	approving	PGAS
+gap	 	
+word	plans	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	development	NOMZ
+gap	 (	
+word	the	ART DET
+gap	 	
+word	Housing	CAP NNP
+gap	 	
+word	Subcommittee	CAP NNP
+gap	.) 	
+word	Tenants	NN CAP
+gap	 	
+word	had	VBD
+gap	 	
+word	little	JJ
+gap	 	
+word	power	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	conflicts	NN
+gap	 	
+word	arose	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	united	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	protest	PUBV INF
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	high	JJ
+gap	 	
+word	rents	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	poor	JJ
+gap	 	
+word	design	NN
+gap	/	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	houses	NN
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	felt	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	built	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	cheaply	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	possible	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	were	VBD AUXB
+gap	 '	
+word	so	RB
+gap	 	
+word	badly	RB
+gap	 	
+word	built	
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	said	
+gap	 	
+word	even	
+gap	 	
+word	to	
+gap	 	
+word	conform	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	bylaws	
+gap	.'( 	
+word	Florence	
+gap	 	
+word	Park	
+gap	 	
+word	Tenants	
+gap	 	
+word	Committee	
+gap	, 	
+word	n	
+gap	.	
+word	d	
+gap	. ) 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	felt	VBD PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	council	NN
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	done	PROD
+gap	 	
+word	little	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	protect	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	interests	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	builder	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Florence	CAP NNP
+gap	 	
+word	Park	CAP NNP
+gap	, 	
+word	F	
+gap	.	
+word	E	
+gap	. 	
+word	Moss	
+gap	, 	
+word	was	
+gap	 	
+word	also	
+gap	 	
+word	a	
+gap	 	
+word	city	
+gap	 	
+word	councillor	
+gap	. 	
+word	Developers	
+gap	 	
+word	seem	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	power	
+gap	 	
+word	and	
+gap	 	
+word	were	
+gap	 	
+word	setting	
+gap	 	
+word	the	
+gap	 	
+word	agenda	
+gap	. 	
+word	Byker	
+gap	 	
+word	estate	
+gap	, 	
+word	Newcastle	
+gap	 	
+word	Location	
+gap	 	
+word	of	
+gap	 	
+word	Byker	
+gap	 	
+word	estate	
+gap	 (	
+word	Multimap	
+gap	, 2005) 	
+word	This	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	Newcastle	
+gap	 	
+word	was	
+gap	 	
+word	originally	
+gap	 	
+word	a	
+gap	 	
+word	working	
+gap	-	
+word	class	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	high	
+gap	 	
+word	density	
+gap	 	
+word	back	
+gap	-	
+word	to	
+gap	-	
+word	back	
+gap	 	
+word	Victorian	
+gap	 	
+word	terraces	
+gap	. 	
+word	Many	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	were	
+gap	 	
+word	in	
+gap	 	
+word	poor	
+gap	 	
+word	condition	
+gap	 	
+word	and	
+gap	 	
+word	lacked	
+gap	 	
+word	one	
+gap	 	
+word	or	
+gap	 	
+word	more	
+gap	 	
+word	basic	
+gap	 	
+word	household	
+gap	 	
+word	amenities	
+gap	. 	
+word	In	
+gap	 	
+word	the	
+gap	 1960	
+word	s	
+gap	 	
+word	Newcastle	
+gap	 	
+word	City	
+gap	 	
+word	Council	
+gap	 	
+word	took	
+gap	 	
+word	the	
+gap	 	
+word	decision	
+gap	 	
+word	to	
+gap	 	
+word	redevelop	
+gap	 	
+word	it	
+gap	. 80% 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	residents	
+gap	 	
+word	wanted	
+gap	 	
+word	to	
+gap	 	
+word	stay	
+gap	 	
+word	in	
+gap	 	
+word	Byker	
+gap	 	
+word	and	
+gap	 	
+word	in	
+gap	 1968 	
+word	the	
+gap	 	
+word	Conservatives	
+gap	 	
+word	won	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	council	
+gap	 	
+word	seats	
+gap	 	
+word	after	
+gap	 	
+word	campaigning	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	slogan	
+gap	 '	
+word	Byker	
+gap	 	
+word	for	
+gap	 	
+word	Byker	
+gap	 	
+word	people	
+gap	.' 	
+word	The	
+gap	 	
+word	council	
+gap	 	
+word	decided	
+gap	 	
+word	to	
+gap	 	
+word	clear	
+gap	 	
+word	the	
+gap	 	
+word	slums	
+gap	 	
+word	but	
+gap	 	
+word	to	
+gap	 	
+word	try	
+gap	 	
+word	to	
+gap	 	
+word	keep	
+gap	 	
+word	the	
+gap	 	
+word	community	
+gap	. 	
+word	Ralph	
+gap	 	
+word	Erskine	
+gap	, 	
+word	an	
+gap	 	
+word	architect	
+gap	, 	
+word	was	
+gap	 	
+word	appointed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	Housing	
+gap	 	
+word	Committee	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	master	
+gap	 	
+word	planner	
+gap	 	
+word	and	
+gap	 	
+word	consultant	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	redevelopment	
+gap	. 	
+word	The	
+gap	 	
+word	local	
+gap	 	
+word	authority	
+gap	 	
+word	owned	
+gap	 	
+word	the	
+gap	 	
+word	land	
+gap	, 	
+word	financed	
+gap	 	
+word	the	
+gap	 	
+word	development	
+gap	 	
+word	and	
+gap	 	
+word	was	
+gap	 	
+word	responsible	
+gap	 	
+word	for	
+gap	 	
+word	approving	
+gap	 	
+word	the	
+gap	 	
+word	plans	
+gap	, 	
+word	and	
+gap	 	
+word	giving	
+gap	 	
+word	planning	
+gap	 	
+word	permission	
+gap	. 	
+word	Erskine	
+gap	 	
+word	opened	
+gap	 	
+word	up	
+gap	 	
+word	an	
+gap	 	
+word	office	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	old	
+gap	 	
+word	shop	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	middle	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	redevelopment	
+gap	 	
+word	area	
+gap	, 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	was	
+gap	 	
+word	an	
+gap	 '	
+word	open	
+gap	 	
+word	house	
+gap	' 	
+word	policy	
+gap	 	
+word	that	
+gap	 	
+word	encouraged	
+gap	 	
+word	local	
+gap	 	
+word	people	
+gap	 	
+word	to	
+gap	 	
+word	drop	
+gap	 	
+word	in	
+gap	 	
+word	and	
+gap	 	
+word	talk	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	architects	
+gap	 	
+word	and	
+gap	 	
+word	get	
+gap	 	
+word	involved	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	design	
+gap	 	
+word	team	
+gap	. 	
+word	At	
+gap	 	
+word	the	
+gap	 	
+word	time	
+gap	 	
+word	there	
+gap	 	
+word	were	
+gap	 	
+word	plans	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	motorway	
+gap	 	
+word	bypass	
+gap	 	
+word	to	
+gap	 	
+word	run	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	area	
+gap	. 	
+word	Part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	design	
+gap	 	
+word	solution	
+gap	 	
+word	to	
+gap	 	
+word	screen	
+gap	 	
+word	the	
+gap	 	
+word	rest	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	site	
+gap	 	
+word	from	
+gap	 	
+word	this	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	Byker	
+gap	 	
+word	Wall	
+gap	: 	
+word	The	
+gap	 	
+word	Byker	
+gap	 	
+word	Wall	
+gap	 (	
+word	Byker	
+gap	 	
+word	Wall	
+gap	 	
+word	Website	
+gap	, 2000) 	
+word	This	
+gap	 	
+word	wall	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	block	
+gap	 	
+word	of	
+gap	 	
+word	flats	
+gap	/	
+word	maisonettes	
+gap	 	
+word	which	
+gap	 	
+word	winds	
+gap	 	
+word	around	
+gap	 	
+word	the	
+gap	 	
+word	north	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	estate	
+gap	. 	
+word	Within	
+gap	 	
+word	the	
+gap	 	
+word	wall	
+gap	, 	
+word	the	
+gap	 	
+word	development	
+gap	 	
+word	consists	
+gap	 	
+word	of	
+gap	 	
+word	low	
+gap	 	
+word	rise	
+gap	 	
+word	housing	
+gap	, 	
+word	comprising	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	mixture	
+gap	 	
+word	of	
+gap	 	
+word	terraces	
+gap	 	
+word	and	
+gap	 	
+word	maisonettes	
+gap	 	
+word	for	
+gap	 2 	
+word	to	
+gap	 6 	
+word	people	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	mix	
+gap	 	
+word	in	
+gap	 	
+word	textures	
+gap	, 	
+word	styles	
+gap	, 	
+word	scales	
+gap	 	
+word	and	
+gap	 	
+word	colour	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	housing	
+gap	: 	
+word	Example	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	style	
+gap	 	
+word	of	
+gap	 	
+word	dwelling	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Byker	
+gap	 	
+word	Estate	
+gap	 (	
+word	Byker	
+gap	 	
+word	Wall	
+gap	 	
+word	Website	
+gap	, 2000) 	
+word	Another	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	housing	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Byker	
+gap	 	
+word	Estate	
+gap	 (	
+word	Byker	
+gap	 	
+word	Wall	
+gap	 	
+word	Website	
+gap	, 2000) 	
+word	Green	
+gap	 	
+word	spaces	
+gap	 	
+word	and	
+gap	 	
+word	landscaping	
+gap	 	
+word	were	
+gap	 	
+word	included	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	redevelopment	
+gap	 	
+word	and	
+gap	 	
+word	communal	
+gap	 '	
+word	hobby	
+gap	 	
+word	rooms	
+gap	' 	
+word	were	
+gap	 	
+word	provided	
+gap	 	
+word	for	
+gap	 	
+word	each	
+gap	 	
+word	group	
+gap	 	
+word	of	
+gap	 	
+word	residents	
+gap	. 	
+word	The	
+gap	 	
+word	architects	
+gap	 	
+word	had	
+gap	 	
+word	constant	
+gap	 	
+word	feedback	
+gap	 	
+word	from	
+gap	 	
+word	tenants	
+gap	 	
+word	and	
+gap	 	
+word	many	
+gap	 	
+word	changes	
+gap	 	
+word	were	
+gap	 	
+word	made	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	design	
+gap	 	
+word	and	
+gap	 	
+word	building	
+gap	 	
+word	standards	
+gap	 	
+word	in	
+gap	 	
+word	response	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	tenant	
+gap	'	
+word	s	
+gap	 	
+word	views	
+gap	. 	
+word	The	
+gap	 	
+word	scheme	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	heralded	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 '	
+word	community	
+gap	 	
+word	architecture	
+gap	.' 	
+word	The	
+gap	 	
+word	estate	
+gap	 	
+word	still	
+gap	 	
+word	remains	
+gap	, 	
+word	although	
+gap	 	
+word	in	
+gap	 	
+word	recent	
+gap	 	
+word	years	
+gap	 	
+word	some	
+gap	 	
+word	social	
+gap	 	
+word	problems	
+gap	 	
+word	have	
+gap	 	
+word	developed	
+gap	, 	
+word	partly	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	poor	
+gap	 	
+word	maintenance	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	site	
+gap	. 	
+word	The	
+gap	 	
+word	estate	
+gap	 	
+word	was	
+gap	 	
+word	grade	
+gap	 	
+word	II	
+gap	 	
+word	listed	
+gap	 	
+word	in	
+gap	 2003 	
+word	The	
+gap	 	
+word	majority	
+gap	 	
+word	view	
+gap	 	
+word	seems	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	Byker	
+gap	 	
+word	development	
+gap	 	
+word	was	
+gap	 '	
+word	highly	
+gap	 	
+word	successful	
+gap	' 	
+word	and	
+gap	 '	
+word	set	
+gap	 	
+word	new	
+gap	 	
+word	standards	
+gap	 	
+word	for	
+gap	 	
+word	local	
+gap	 	
+word	authority	
+gap	 	
+word	housing	
+gap	.'(	
+word	Grundy	
+gap	, 1992) 	
+word	However	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	new	
+gap	 	
+word	housing	
+gap	 	
+word	was	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	lower	
+gap	 	
+word	density	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	slums	
+gap	 	
+word	not	
+gap	 	
+word	all	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	community	
+gap	 	
+word	could	
+gap	 	
+word	be	
+gap	 	
+word	rehoused	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	area	
+gap	. 	
+word	The	
+gap	 	
+word	main	
+gap	 	
+word	actors	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	development	
+gap	 	
+word	were	
+gap	 	
+word	the	
+gap	 	
+word	architect	
+gap	, 	
+word	the	
+gap	 	
+word	residents	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	local	
+gap	 	
+word	authority	
+gap	. 	
+word	Conclusion	
+gap	 	
+word	The	
+gap	 	
+word	Byker	
+gap	 	
+word	estate	
+gap	 	
+word	and	
+gap	 	
+word	Florence	
+gap	 	
+word	Park	
+gap	 	
+word	estate	
+gap	 	
+word	were	
+gap	 	
+word	developed	
+gap	 	
+word	at	
+gap	 	
+word	different	
+gap	 	
+word	times	
+gap	 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	very	
+gap	 	
+word	different	
+gap	 	
+word	ways	
+gap	. 	
+word	The	
+gap	 	
+word	Florence	
+gap	 	
+word	Park	
+gap	 	
+word	estate	
+gap	 	
+word	was	
+gap	 	
+word	developed	
+gap	 	
+word	on	
+gap	 	
+word	greenfield	
+gap	 	
+word	land	
+gap	, 	
+word	speculatively	
+gap	, 	
+word	by	
+gap	 	
+word	private	
+gap	 	
+word	developers	
+gap	 	
+word	for	
+gap	 	
+word	profit	
+gap	. 	
+word	The	
+gap	 	
+word	Byker	
+gap	 	
+word	estate	
+gap	 	
+word	was	
+gap	 	
+word	planned	
+gap	 	
+word	redevelopment	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	area	
+gap	. 	
+word	The	
+gap	 	
+word	council	
+gap	 	
+word	had	
+gap	 	
+word	several	
+gap	 	
+word	roles	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	landowner	
+gap	 	
+word	and	
+gap	 	
+word	client	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	project	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	development	
+gap	 	
+word	was	
+gap	 	
+word	for	
+gap	 	
+word	public	
+gap	 	
+word	housing	
+gap	. 	
+word	The	
+gap	 	
+word	council	
+gap	 	
+word	also	
+gap	 	
+word	had	
+gap	 	
+word	a	
+gap	 	
+word	role	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	planning	
+gap	 	
+word	authority	
+gap	. 	
+word	When	
+gap	 	
+word	Florence	
+gap	 	
+word	Park	
+gap	 	
+word	was	
+gap	 	
+word	being	
+gap	 	
+word	developed	
+gap	 	
+word	there	
+gap	 	
+word	was	
+gap	 	
+word	not	
+gap	 	
+word	yet	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	formal	
+gap	 	
+word	planning	
+gap	 	
+word	system	
+gap	 	
+word	although	
+gap	 	
+word	there	
+gap	 	
+word	were	
+gap	 	
+word	regulations	
+gap	 	
+word	that	
+gap	 	
+word	should	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	adhered	
+gap	 	
+word	to	
+gap	. 	
+word	As	
+gap	 	
+word	the	
+gap	 	
+word	developer	
+gap	 	
+word	was	
+gap	 	
+word	also	
+gap	 	
+word	a	
+gap	 	
+word	councillor	
+gap	, 	
+word	there	
+gap	 	
+word	was	
+gap	 	
+word	a	
+gap	 	
+word	conflict	
+gap	 	
+word	of	
+gap	 	
+word	interest	
+gap	. 	
+word	Private	
+gap	 	
+word	developers	
+gap	 	
+word	instigated	
+gap	 	
+word	the	
+gap	 	
+word	development	
+gap	 	
+word	of	
+gap	 	
+word	Florence	
+gap	 	
+word	Park	
+gap	 	
+word	and	
+gap	 	
+word	had	
+gap	 	
+word	a	
+gap	 	
+word	lot	
+gap	 	
+word	of	
+gap	 	
+word	power	
+gap	. 	
+word	Tenants	
+gap	 	
+word	had	
+gap	 	
+word	no	
+gap	 	
+word	influence	
+gap	 	
+word	whereas	
+gap	 	
+word	at	
+gap	 	
+word	Byker	
+gap	 	
+word	the	
+gap	 	
+word	tenant	
+gap	'	
+word	s	
+gap	 	
+word	views	
+gap	 	
+word	were	
+gap	 	
+word	much	
+gap	 	
+word	more	
+gap	 	
+word	influential	
+gap	. 	
+word	The	
+gap	 	
+word	Byker	
+gap	 	
+word	estate	
+gap	 	
+word	was	
+gap	 	
+word	designed	
+gap	 	
+word	by	
+gap	 	
+word	an	
+gap	 	
+word	architect	
+gap	, 	
+word	and	
+gap	 	
+word	was	
+gap	 	
+word	thought	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	very	
+gap	 	
+word	innovative	
+gap	. 	
+word	Housing	
+gap	 	
+word	was	
+gap	 	
+word	individually	
+gap	 	
+word	designed	
+gap	 	
+word	with	
+gap	 300 	
+word	different	
+gap	 	
+word	types	
+gap	 	
+word	of	
+gap	 	
+word	dwelling	
+gap	 	
+word	which	
+gap	 	
+word	were	
+gap	 	
+word	of	
+gap	 	
+word	good	
+gap	 	
+word	quality	
+gap	. 	
+word	Florence	
+gap	 	
+word	Park	
+gap	 	
+word	did	
+gap	 	
+word	not	
+gap	 	
+word	use	
+gap	 	
+word	an	
+gap	 	
+word	architect	
+gap	, 	
+word	housing	
+gap	 	
+word	was	
+gap	 	
+word	uniform	
+gap	, 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	were	
+gap	 	
+word	many	
+gap	 	
+word	complaints	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	standards	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	design	
+gap	. 	
+word	Tenants	
+gap	 	
+word	were	
+gap	 	
+word	much	
+gap	 	
+word	more	
+gap	 	
+word	satisfied	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	housing	
+gap	 	
+word	at	
+gap	 	
+word	Byker	
+gap	. 	
+word	These	
+gap	 	
+word	two	
+gap	 	
+word	examples	
+gap	 	
+word	demonstrate	
+gap	 	
+word	that	
+gap	 	
+word	urban	
+gap	 	
+word	areas	
+gap	 	
+word	are	
+gap	 	
+word	shaped	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	influences	
+gap	 	
+word	and	
+gap	 	
+word	interactions	
+gap	 	
+word	between	
+gap	 	
+word	different	
+gap	 	
+word	actors	
+gap	, 	
+word	who	
+gap	 	
+word	have	
+gap	 	
+word	varying	
+gap	 	
+word	degrees	
+gap	 	
+word	of	
+gap	 	
+word	power	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	development	
+gap	 	
+word	process	
+gap	. 	
+word	These	
+gap	 	
+word	different	
+gap	 	
+word	influences	
+gap	 	
+word	are	
+gap	 	
+word	apparent	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	final	
+gap	 	
+word	form	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	built	
+gap	 	
+word	environment	
+gap	.	

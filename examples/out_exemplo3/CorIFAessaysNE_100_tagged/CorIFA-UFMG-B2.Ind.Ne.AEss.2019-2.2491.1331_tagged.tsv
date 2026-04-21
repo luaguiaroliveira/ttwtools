@@ -1,768 +1,1363 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2491.1331.txt
-token	tags
-  	
-In	PIN CONJ CAP PREP
-modern	JJ
-society	NN
-,	
-those	DEMP DET
-who	WHQU WH
-have	VPRT
-success	NN
-in	PIN CONJ PREP
-School	CAP NNP
-or	CCONJ
-University	CAP NNP
-context	NN
-are	PASS VPRT AUXB
-considered	PRIV
-extremely	AMP RB
-intelligent	JJ
-.	
-However	RB CONJ CAP
-,	
-despite	PIN SCONJ PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-these	DEMO DET
-people	NN
-are	VPRT AUXB
-certainly	RB
-very	AMP RB
-smart	JJ
-,	
-the	ART DET
-called	
-unsuccessful	JJ
-ones	NN
-are	BEMA VPRT AUXB
-also	RB
-capable	JJ
-to	PIN TO PREP
-obtain	INF
-knowledge	NN
-.	
-The	ART CAP DET
-problem	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-education	NOMZ
-system	NN
-that	TSUB WHSUB WH
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-effect	NN
-in	PIN CONJ PREP
-nowadays	RB TIME
-is	BEMA VPRT AUXB
-unfair	JJ PRED
-and	CCONJ
-people	NN
-who	WHSUB WH
-are	BEMA VPRT AUXB
-not	XX0 RB
-adapt	JJ
-are	VPRT AUXB
-label	NN
-as	PIN CONJ PREP
-powerless	JJ
-.	
-As	OSUB RB CONJ CAP
-long	RB
-as	PIN CONJ PREP
-the	ART DET
-maladjusted	
-ones	NN
-keep	VPRT
-being	AUXB
-label	NN
-like	PIN PREP
-that	DEMP DET
-,	
-they	TPP3 PRP SBJP
-start	VPRT
-believe	VPRT PRIV
-in	PIN CONJ PREP
-this	DEMO DET
-vision	NOMZ
-of	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-and	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-change	INF
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-,	
-I	FPP1 CAP PRP SBJP
-will	PRMD
-defend	INF
-that	PIN DEMP SCONJ PREP
-how	RB SCONJ WH
-others	NN
-define	VPRT
-people	NN
-in	PIN CONJ PREP
-the	ART DET
-education	NOMZ
--	
-mostly	RB
-in	PIN CONJ PREP
-subtle	JJ
-ways	NN
--	
-and	ANDC CCONJ
-consequently	RB CONJ
-how	RB SCONJ WH
-these	DEMO DET
-people	NN
-define	VPRT
-their	TPP3 PRP SBJP
-own	JJ
-habillity	NOMZ
-in	PIN CONJ PREP
-studying	PGAS
-affects	VPRT
-the	ART DET
-learning	PRIV NN
-process	NN
-.	
- 	
-Primarily	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-emphasize	INF
-that	DEMO DET
-care	NN
-about	PIN PREP
-each	QUAN DET
-other	JJ
-'s	
-opinions	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-basic	JJ
-characteristic	NN
-of	PIN PREP
-the	ART DET
-human	JJ
-behavior	NN
-.	
-People	NN CAP
-start	VPRT
-to	PIN PREP
-concern	NN
-about	PIN PREP
-what	WH
-society	NN
-thinks	VPRT PRIV
-about	PIN PREP
-them	TPP3 PRP SBJP ACCU
-since	OSUB PIN SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-very	AMP RB
-young	JJ
-and	CCONJ
-change	INF
-their	TPP3 PRP SBJP
-natural	JJ
-behavior	NN
-due	PIN PREP
-to	PIN PREP
-that	DEMP DET
--	
-even	RB
-without	PIN PREP
-realizing	PRIV PGAS
-that	PIN THVC SCONJ PREP
-they	TPP3 PRP SBJP
-are	VPRT AUXB
-changing	PGAS
-.	
-The	ART CAP DET
-mechanism	NN
-that	TSUB WHSUB WH
-results	VPRT
-in	PIN CONJ PREP
-social	JJ
-readjustments	NOMZ
-is	BEMA VPRT AUXB
-very	AMP RB
-simple	JJ
-:	
-if	COND PIN SCONJ PREP
-one	NUM
-behavior	NN
-makes	VPRT
-someone	QUPR INPR
-get	INF
-uncomfortable	JJ
-,	
-this	DEMO DET
-person	NN
-stop	INF
-the	ART DET
-initial	JJ
-action	NOMZ
-,	
-so	CCONJ
-the	ART DET
-discomfort	NN
-goes	VPRT
-away	RB PLACE
-.	
-Humans	NN CAP
-do	VPRT PROD
-that	DEMO DET
-all	QUAN DET
-the	ART DET
-time	NN
-because	CAUS PIN SCONJ PREP
-the	ART DET
-are	BEMA VPRT AUXB
-social	JJ
-beings	NN
-and	ANDC CCONJ
-that	DEMP DET
-is	VPRT AUXB
-why	RB SCONJ WH
-people	NN
-structure	VPRT
-their	TPP3 PRP SBJP
-perspective	NN
-about	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-based	
-on	PIN PREP
-their	TPP3 PRP SBJP
-relationship	NN
-with	PIN PREP
-the	ART DET
-individuals	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-environment	NOMZ
-.	
- 	
-This	DEMO CAP DET
-relationship	NN
-is	BEMA VPRT AUXB
-extremely	AMP RB
-observable	JJ
-in	PIN CONJ PREP
-the	ART DET
-education	NOMZ
-context	NN
-,	
-where	RB SCONJ WH
-teachers	NN
-and	PHC CCONJ
-classmates	NN
-crate	VPRT
-expectations	NOMZ
-on	PIN PREP
-the	ART DET
-students	NN
-based	WZPAST
-in	PIN CONJ PREP
-things	NN
-that	TSUB WHSUB WH
-do	VPRT SPAU
-not	XX0 RB
-necessarily	RB
-reveals	VPRT PRIV
-the	ART DET
-cognitive	JJ
-abilities	NN
-of	PIN PREP
-people	NN
--	
-one	NUM
-bad	JJ
-result	NN
-on	PIN PREP
-a	ART DET INDA
-test	NN
-for	PIN PREP
-example	NN
-.	
-At	PIN CAP PREP
-1966	NUM
-Rosenthal	CAP NNP
-and	PHC CCONJ
-Jacobson	CAP NNP
-validade	VBD
-this	DEMO DET
-phenomenon	NN
-in	PIN CONJ PREP
-the	ART DET
-experiment	NOMZ
-“	
-Teachers	NN CAP
-expectancies	VPRT
-:	
-Determinants	NN CAP
-of	PIN PREP
-pupils	NN
-IQ	NN CAP
-gains	NN
-”	
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-test	NN
-the	ART DET
-psychologists	NN
-told	VBD
-the	ART DET
-teachers	NN
-of	PIN PREP
-Oak	CAP NNP
-School	CAP NNP
-that	PIN DEMO SCONJ PREP
-their	TPP3 PRP SBJP
-students	NN
-took	VBD
-the	ART DET
-"	QUOT
-"	QUOT
-Harvard	CAP NNP
-Test	CAP NNP
-of	PIN PREP
-Inflected	CAP NNP
-Acquisition	CAP NNP
-"	QUOT
-"	QUOT
--	
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-supposed	PRIV
-to	PIN TO PREP
-show	PRIV INF
-wich	NN
-kids	NN
-would	PRMD
-have	INF
-more	RB EMPH CMADJ
-academic	JJ
-success	NN
--	
-,	
-than	PIN PREP
-gave	VBD
-the	ART DET
-educators	NN
-a	ART DET INDA
-list	NN
-of	PIN PREP
-the	ART DET
-10	NUM
-students	NN
-that	TSUB WHSUB WH
-achieved	VBD
-better	JJ CMADJ
-results	NN
-,	
-but	CCONJ
-this	DEMO DET
-ten	NUM
-names	NN
-were	PASS VBD AUXB
-selected	
-randomly	RB
-and	ANDC CCONJ
-those	DEMO DET
-kids	NN
-had	VBD
-nothing	INPR
-else	RB
-different	JJ
-then	RB
-the	ART DET
-others	NN
-.	
-At	PIN CAP PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-school	NN
-year	NN
-,	
-the	ART DET
-students	NN
-were	PASS VBD AUXB
-submit	PUBV
-at	PIN PREP
-the	ART DET
-same	JJ
-test	NN
-and	CCONJ
-the	ART DET
-improvement	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-IQ	CAP NNP
-score	NN
-was	BEMA VBD AUXB
-more	RB EMPH CMADJ
-significant	JJ
-at	PIN PREP
-the	ART DET
-experimental	JJ
-group	NN
-(	
-the	ART DET
-10	NUM
-kids	NN
-on	PIN PREP
-the	ART DET
-list	NN
-)	
-compared	PASTP
-with	PIN PREP
-the	ART DET
-control	NN
-group	NN
-(	
-the	ART DET
-other	JJ
-kids	NN
-)	
-.	
-It	PIT CAP PRP SBJP
-became	VBD
-clear	JJ
-that	PIN THAC SCONJ PREP
-teachers	NN
-opinions	NN
-of	PIN PREP
-the	ART DET
-students	NN
-had	VBD PEAS
-influenced	
-on	PIN PREP
-the	ART DET
-academic	JJ
-achievement	NOMZ
-of	PIN PREP
-the	ART DET
-kids	NN
-.	
- 	
-Nevertheless	RB CONJ CAP
-,	
-the	ART DET
-more	RB EMPH CMADJ
-impressive	JJ
-result	NN
-at	PIN PREP
-this	DEMO DET
-experiment	NOMZ
-was	BEMA VBD AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-preference	NN
-for	PIN PREP
-some	QUAN DET
-students	NN
-was	BEMA VBD AUXB
-not	XX0 RB
-explicit	JJ
-.	
-The	ART CAP DET
-teachers	NN
-tended	VBD
-to	PIN TO PREP
-smile	INF
-more	RB EMPH CMADJ
-frequently	RB
-to	PIN PREP
-the	ART DET
-designed	
-smarts	NN
-ones	NN
-and	CCONJ
-be	BEMA AUXB INF
-more	RB EMPH CMADJ
-open	JJ
-to	PIN PREP
-the	ART DET
-questions	NOMZ
-of	PIN PREP
-this	DEMO DET
-students	NN
-.	
-Just	RB EMPH CAP
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-this	DEMO DET
-subtle	JJ
-actions	NOMZ
-,	
-those	DEMO DET
-kids	NN
-who	WHSUB WH
-were	VBD AUXB
-receiving	PGAS
-special	JJ
-treatment	NOMZ
-believed	PRIV WZPAST
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-own	JJ
-capacity	NOMZ
-and	CCONJ
-had	VBD
-the	ART DET
-opportunity	NOMZ
-to	PIN TO PREP
-development	INF
-their	TPP3 PRP SBJP
-process	NN
-of	PIN PREP
-learning	PRIV PGAS
-;	
-in	PIN CONJ PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-those	DEMP DET
-who	WHQU WH
-were	BEMA VBD AUXB
-implicitly	RB
-unappreciated	JJ
-stopped	VBD
-to	PIN TO PREP
-believe	PRIV INF
-in	PIN CONJ PREP
-themselves	TPP3 PRP SBJP ACCU
-,	
-what	WHQU WH
-had	VBD PEAS
-affected	
-in	PIN CONJ PREP
-a	ART DET INDA
-negative	JJ
-way	NN
-their	TPP3 PRP SBJP
-habillites	NN
-on	PIN PREP
-studies	NN
-.	
-This	DEMO CAP DET
-situations	NOMZ
-demonstrates	VPRT PRIV
-that	PIN THVC SCONJ PREP
-students	NN
-are	PASS VPRT BYPA AUXB
-influenced	
-by	PIN PREP
-teachers	NN
-opinions	NN
-about	PIN PREP
-them	TPP3 PRP SBJP ACCU
-that	DEMO WH
-consequently	RB CONJ
-became	VBD
-their	TPP3 PRP SBJP
-own	JJ
-version	NOMZ
-of	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-.	
-Also	RB CAP
-,	
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-remind	INF
-that	PIN DEMO SCONJ PREP
-students	NN
-have	VPRT
-more	JJ EMPH CMADJ
-influences	NN
-than	PIN PREP
-only	DWNT RB
-their	TPP3 PRP SBJP
-teachers	NN
-,	
-family	NN
-and	PHC CCONJ
-friends	NN
-for	PIN PREP
-example	NN
-.	
-That	DEMO CAP DET
-way	NN
-,	
-it	PIT PRP SBJP
-became	VBD
-clear	JJ
-that	PIN THAC SCONJ PREP
-learning	PRIV NN THATD
-process	NN
-is	VPRT AUXB
-n’t	NN
-a	ART DET INDA
-individual	JJ
-development	NOMZ
-,	
-but	CCONJ
-is	BEMA VPRT AUXB
-actually	RB
-a	ART DET INDA
-social	JJ
-growth	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-it	PIT PRP SBJP
-’s	VPRT
-impossible	JJ
-to	PIN TO PREP
-think	PRIV INF
-about	PIN PREP
-learning	PRIV PGAS
-as	PIN CONJ PREP
-an	ART DET INDA
-one	NUM
-person	NN
-responsibility	NOMZ
-,	
-this	DEMO DET
-cognitive	JJ
-ability	NOMZ
-is	VPRT AUXB
-build	INF
-by	PIN PREP
-a	ART DET INDA
-serie	NN
-of	PIN PREP
-influences	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-,	
-most	JJ EMPH SPADJ
-of	PIN PREP
-the	ART DET
-times	NN
-,	
-out	PIN PREP
-of	PIN PREP
-control	NN
-of	PIN PREP
-those	DEMP DET
-who	WH
-are	VPRT AUXB
-trying	PGAS
-to	PIN TO PREP
-learn	PRIV INF
-.	
-The	ART CAP DET
-education	NOMZ
-system	NN
- 	
-is	BEMA VPRT AUXB
-unfair	JJ PRED
-,	
-because	CAUS PIN SCONJ PREP
-humans	NN
-action	NOMZ
-naturally	RB
-in	PIN CONJ PREP
-an	ART DET INDA
-unfair	JJ
-way	NN
-,	
-constantly	RB
-shaping	PGAS
-others	NN
-,	
-making	PGAS
-people	NN
-accept	PRIV INF
-others	NN
-'	CONT QUOT
-view	NN
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-as	PIN CONJ PREP
-their	TPP3 PRP SBJP
-own	JJ
-perspective	NN
-.	
-Even	RB CAP
-though	CONC PIN SCONJ PREP
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-this	DEMO DET
-influences	NN
-are	BEMA VPRT AUXB
-an	ART DET INDA
-unintentional	JJ
-process	NN
-,	
-they	TPP3 PRP SBJP
-cause	VPRT
-a	ART DET INDA
-large	JJ
-amount	NN
-of	PIN PREP
-people	NN
-not	XX0 RB
-trusting	PGAS
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-capacity	NOMZ
-of	PIN PREP
-learning	PRIV PGAS
-.	
-If	COND PIN CAP SCONJ PREP
-society	NN
-could	POMD
-see	PRIV INF
-learning	PRIV PGAS
-as	PIN CONJ PREP
-a	ART DET INDA
-social	JJ
-construction	NOMZ
-,	
-the	ART DET
-maladjusted	
-ones	NN
-will	PRMD
-stop	INF
-to	PIN TO PREP
-label	INF
-like	PIN PREP
-that	DEMP DET
-,	
-and	ANDC CCONJ
-,	
-therefore	RB CONJ
-,	
-star	NNP
-build	VPRT
-a	ART DET INDA
-fair	JJ
-and	PHC CCONJ
-real	JJ
-vision	NOMZ
-of	PIN PREP
-their	TPP3 PRP SBJP
-cognitive	JJ
-abilities	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2491.1331>\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	modern	JJ
+gap	 	
+word	society	NN
+gap	, 	
+word	those	DEMP DET
+gap	 	
+word	who	WHQU WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	success	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	School	CAP NNP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	University	CAP NNP
+gap	 	
+word	context	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	intelligent	JJ
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	despite	PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	people	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	certainly	RB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	smart	JJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	called	
+gap	 	
+word	unsuccessful	JJ
+gap	 	
+word	ones	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	capable	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	obtain	INF
+gap	 	
+word	knowledge	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	problem	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	education	NOMZ
+gap	 	
+word	system	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	effect	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	nowadays	RB TIME
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	unfair	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	adapt	JJ
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	label	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	powerless	JJ
+gap	. 	
+word	As	OSUB RB CONJ CAP
+gap	 	
+word	long	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	maladjusted	
+gap	 	
+word	ones	NN
+gap	 	
+word	keep	VPRT
+gap	 	
+word	being	AUXB
+gap	 	
+word	label	NN
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	start	VPRT
+gap	 	
+word	believe	VPRT PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	vision	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	and	CCONJ
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	change	INF
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	, 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	defend	INF
+gap	 	
+word	that	PIN DEMP SCONJ PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	others	NN
+gap	 	
+word	define	VPRT
+gap	 	
+word	people	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	education	NOMZ
+gap	 - 	
+word	mostly	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	subtle	JJ
+gap	 	
+word	ways	NN
+gap	 - 	
+word	and	ANDC CCONJ
+gap	 	
+word	consequently	RB CONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	people	NN
+gap	 	
+word	define	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	habillity	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	studying	PGAS
+gap	 	
+word	affects	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	learning	PRIV NN
+gap	 	
+word	process	NN
+gap	. \n	
+word	Primarily	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	emphasize	INF
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	care	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	each	QUAN DET
+gap	 	
+word	other	JJ
+gap	'	
+word	s	
+gap	 	
+word	opinions	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	basic	JJ
+gap	 	
+word	characteristic	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	human	JJ
+gap	 	
+word	behavior	NN
+gap	. 	
+word	People	NN CAP
+gap	 	
+word	start	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	concern	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	society	NN
+gap	 	
+word	thinks	VPRT PRIV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	young	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	change	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	natural	JJ
+gap	 	
+word	behavior	NN
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	 - 	
+word	even	RB
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	realizing	PRIV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	changing	PGAS
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	mechanism	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	results	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	readjustments	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	simple	JJ
+gap	: 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	behavior	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	someone	QUPR INPR
+gap	 	
+word	get	INF
+gap	 	
+word	uncomfortable	JJ
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	person	NN
+gap	 	
+word	stop	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	initial	JJ
+gap	 	
+word	action	NOMZ
+gap	, 	
+word	so	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	discomfort	NN
+gap	 	
+word	goes	VPRT
+gap	 	
+word	away	RB PLACE
+gap	. 	
+word	Humans	NN CAP
+gap	 	
+word	do	VPRT PROD
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	social	JJ
+gap	 	
+word	beings	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	why	RB SCONJ WH
+gap	 	
+word	people	NN
+gap	 	
+word	structure	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	perspective	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	relationship	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	individuals	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	environment	NOMZ
+gap	.\n	
+word	This	DEMO CAP DET
+gap	 	
+word	relationship	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	extremely	AMP RB
+gap	 	
+word	observable	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	education	NOMZ
+gap	 	
+word	context	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	teachers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	classmates	NN
+gap	 	
+word	crate	VPRT
+gap	 	
+word	expectations	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	based	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	things	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	necessarily	RB
+gap	 	
+word	reveals	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	cognitive	JJ
+gap	 	
+word	abilities	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 - 	
+word	one	NUM
+gap	 	
+word	bad	JJ
+gap	 	
+word	result	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	test	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	. 	
+word	At	PIN CAP PREP
+gap	 1966 	
+word	Rosenthal	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Jacobson	CAP NNP
+gap	 	
+word	validade	VBD
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	phenomenon	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	experiment	NOMZ
+gap	 “	
+word	Teachers	NN CAP
+gap	 	
+word	expectancies	VPRT
+gap	: 	
+word	Determinants	NN CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pupils	NN
+gap	 	
+word	IQ	NN CAP
+gap	 	
+word	gains	NN
+gap	”. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	test	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	psychologists	NN
+gap	 	
+word	told	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	teachers	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Oak	CAP NNP
+gap	 	
+word	School	CAP NNP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	students	NN
+gap	 	
+word	took	VBD
+gap	 	
+word	the	ART DET
+gap	 ""	
+word	Harvard	CAP NNP
+gap	 	
+word	Test	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Inflected	CAP NNP
+gap	 	
+word	Acquisition	CAP NNP
+gap	"" - 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	supposed	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	show	PRIV INF
+gap	 	
+word	wich	NN
+gap	 	
+word	kids	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	have	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	academic	JJ
+gap	 	
+word	success	NN
+gap	 - , 	
+word	than	PIN PREP
+gap	 	
+word	gave	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	educators	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	list	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 10 	
+word	students	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	achieved	VBD
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	results	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	ten	NUM
+gap	 	
+word	names	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	selected	
+gap	 	
+word	randomly	RB
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	kids	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	nothing	INPR
+gap	 	
+word	else	RB
+gap	 	
+word	different	JJ
+gap	 	
+word	then	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	others	NN
+gap	. 	
+word	At	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	school	NN
+gap	 	
+word	year	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	submit	PUBV
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	test	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	improvement	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	IQ	CAP NNP
+gap	 	
+word	score	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	significant	JJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	experimental	JJ
+gap	 	
+word	group	NN
+gap	 (	
+word	the	ART DET
+gap	 10 	
+word	kids	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	list	NN
+gap	) 	
+word	compared	PASTP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	control	NN
+gap	 	
+word	group	NN
+gap	 (	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	kids	NN
+gap	). 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	became	VBD
+gap	 	
+word	clear	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	teachers	NN
+gap	 	
+word	opinions	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	students	NN
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	influenced	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	academic	JJ
+gap	 	
+word	achievement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kids	NN
+gap	. \n	
+word	Nevertheless	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	impressive	JJ
+gap	 	
+word	result	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	preference	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	students	NN
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	explicit	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	teachers	NN
+gap	 	
+word	tended	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	smile	INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	frequently	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	designed	
+gap	 	
+word	smarts	NN
+gap	 	
+word	ones	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	open	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	questions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	students	NN
+gap	. 	
+word	Just	RB EMPH CAP
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	subtle	JJ
+gap	 	
+word	actions	NOMZ
+gap	, 	
+word	those	DEMO DET
+gap	 	
+word	kids	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	receiving	PGAS
+gap	 	
+word	special	JJ
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	believed	PRIV WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	had	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	opportunity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	development	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	; 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	those	DEMP DET
+gap	 	
+word	who	WHQU WH
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	implicitly	RB
+gap	 	
+word	unappreciated	JJ
+gap	 	
+word	stopped	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	believe	PRIV INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	, 	
+word	what	WHQU WH
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	affected	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	negative	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	habillites	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	studies	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	situations	NOMZ
+gap	 	
+word	demonstrates	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	students	NN
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	influenced	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	teachers	NN
+gap	 	
+word	opinions	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	that	DEMO WH
+gap	 	
+word	consequently	RB CONJ
+gap	 	
+word	became	VBD
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	version	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	remind	INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	students	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	influences	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	teachers	NN
+gap	, 	
+word	family	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	friends	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	. 	
+word	That	DEMO CAP DET
+gap	 	
+word	way	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	became	VBD
+gap	 	
+word	clear	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	learning	PRIV NN THATD
+gap	 	
+word	process	NN
+gap	 	
+word	isn	
+gap	’	
+word	t	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	individual	JJ
+gap	 	
+word	development	NOMZ
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	actually	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	social	JJ
+gap	 	
+word	growth	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	’	
+word	s	VPRT
+gap	 	
+word	impossible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	one	NUM
+gap	 	
+word	person	NN
+gap	 	
+word	responsibility	NOMZ
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	cognitive	JJ
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	build	INF
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	serie	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	influences	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	VPRT AUXB
+gap	, 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	times	NN
+gap	, 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	control	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	trying	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	learn	PRIV INF
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	education	NOMZ
+gap	 	
+word	system	NN
+gap	  	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	unfair	JJ PRED
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	humans	NN
+gap	 	
+word	action	NOMZ
+gap	 	
+word	naturally	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unfair	JJ
+gap	 	
+word	way	NN
+gap	, 	
+word	constantly	RB
+gap	 	
+word	shaping	PGAS
+gap	 	
+word	others	NN
+gap	, 	
+word	making	PGAS
+gap	 	
+word	people	NN
+gap	 	
+word	accept	PRIV INF
+gap	 	
+word	others	NN
+gap	' 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	perspective	NN
+gap	. 	
+word	Even	RB CAP
+gap	 	
+word	though	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	influences	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unintentional	JJ
+gap	 	
+word	process	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	cause	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	trusting	PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	learning	PRIV PGAS
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	society	NN
+gap	 	
+word	could	POMD
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	learning	PRIV PGAS
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	social	JJ
+gap	 	
+word	construction	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	maladjusted	
+gap	 	
+word	ones	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	stop	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	label	INF
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	and	ANDC CCONJ
+gap	, 	
+word	therefore	RB CONJ
+gap	, 	
+word	star	NNP
+gap	 	
+word	build	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fair	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	real	JJ
+gap	 	
+word	vision	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	cognitive	JJ
+gap	 	
+word	abilities	NN
+gap	.\n	

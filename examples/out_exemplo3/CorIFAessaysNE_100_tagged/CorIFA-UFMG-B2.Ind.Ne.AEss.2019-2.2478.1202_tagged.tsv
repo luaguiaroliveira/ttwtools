@@ -1,1009 +1,1693 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2478.1202.txt
-token	tags
-    	
-Throughout	PIN CAP PREP
-the	ART DET
-history	NN
-,	
-filamentous	JJ
-fungi	NN
-have	VPRT PEAS
-been	PASS AUXB
-used	
-in	PIN CONJ PREP
-many	QUAN JJ
-biotechnological	JJ
-applications	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-for	PIN PREP
-direct	JJ
-alimentation	NOMZ
-(	
-mushrooms	NN
-and	PHC CCONJ
-truffles	NN
-)	
-,	
-fermentation	NOMZ
-process	NN
-for	PIN PREP
-beverages	NN
-and	PHC CCONJ
-bakery	NN
-products	NN
-,	
-and	ANDC CCONJ
-drugs	NN
-and	PHC CCONJ
-cosmetics	NN
-production	NOMZ
-.	
-The	ART CAP DET
-production	NOMZ
-of	PIN PREP
-several	QUAN JJ
-bioactive	NN
-secondary	JJ
-metabolites	NN
-by	PIN PREP
-these	DEMO DET
-organisms	NN
-enables	VPRT
-these	DEMO DET
-applications	NOMZ
-,	
-and	ANDC CCONJ
-considering	GER PRIV PGAS
-the	ART DET
-existing	PGAS
-biological	JJ
-variety	NN
-,	
-there	EX
-are	VPRT AUXB
-several	QUAN JJ
-possibilities	NN
-for	PIN PREP
-studying	PGAS
-.	
-Other	JJ CAP
-interest	NN
-application	NOMZ
-is	BEMA VPRT AUXB
-the	ART DET
-biotransformation	NOMZ
-process	NN
-,	
-which	SERE DET WH
-consist	VPRT
-in	PIN CONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-fungi	NNP
-species	NN
-for	PIN PREP
-chemical	JJ
-transformations	NOMZ
-in	PIN CONJ PREP
-organic	JJ
-compounds	NN
-,	
-process	NN
-carried	WZPAST
-out	PIN PREP
-by	PIN PREP
-enzymes	NN
-produced	WZPAST
-by	PIN PREP
-the	ART DET
-fungi	NN
-(	
-TAKAHASHI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-)	
-.	
-The	ART CAP DET
-technique	NN
-highlights	VPRT
-the	ART DET
-functionalization	NOMZ
-of	PIN PREP
-natural	JJ
-products	NN
-containing	GER WZPRES PGAS
-non	JJ
--	JJ
-activated	
-carbons	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-the	ART DET
-introduction	NOMZ
-of	PIN PREP
-hydroxyl	NNP
-groups	NN
-and	CCONJ
-other	JJ
-organic	JJ
-functions	NOMZ
-(	
-TAKAHASHI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2014	NUM
-)	
-.	
-This	DEMO CAP DET
-approach	NN
-aims	VPRT
-to	PIN TO PREP
-obtain	INF
-new	JJ
-bioactive	NN
-compounds	NN
-and	CCONJ
-also	RB
-to	PIN TO PREP
-remove	INF
-or	CCONJ
-reduce	INF
-pollutants	NN
-contents	NN
-in	PIN CONJ PREP
-aquatic	JJ
-environments	NOMZ
-in	PIN CONJ PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-sustainable	JJ
-way	NN
-.	
-  	
-Firstly	RB CAP
-,	
-the	ART DET
-fungal	NN
-biotransformation	NOMZ
-process	NN
-can	POMD
-be	PASS AUXB INF
-considered	PRIV
-as	PIN CONJ PREP
-an	ART DET INDA
-alternative	JJ
-chemical	NN
-synthesis	NN
-for	PIN PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-bioactive	NN
-molecules	NN
-,	
-especially	RB
-when	RB SCONJ WH
-the	ART DET
-desired	SUAV
-structural	JJ
-modifications	NOMZ
-demands	VPRT SUAV
-many	QUAN JJ
-steps	NN
-and	CCONJ
-high	JJ
-use	NN
-of	PIN PREP
-solvents	NN
-using	WZPRES PGAS
-classical	JJ
-synthetic	JJ
-methods	NN
-or	CCONJ
-even	RB
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-performed	
-(	
-TAKAHASHI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-)	
-.	
-Dos	CAP NNP
-Santos	CAP NNP
-and	CCONJ
-colleagues	NN
-(	
-2018	NUM
-)	
-obtained	VBD
-three	NUM
-other	JJ
-compounds	NN
-from	PIN PREP
-the	ART DET
-interaction	NOMZ
-of	PIN PREP
-the	ART DET
-natural	JJ
-diterpene	NN
-trachyloban-19	NNP
--	
-oic	NNP
-acid	NN
-with	PIN PREP
-the	ART DET
-fungus	NN
-Syncephalastrum	CAP NNP
-racemosum	NN
-.	
-The	ART CAP DET
-new	JJ
-compounds	NN
-were	PASS VBD AUXB
-tested	
-as	PIN CONJ PREP
-acetylcholinesterase	NN
-(	
-AChE	CAP NNP
-)	
-inhinitors	NN
-,	
-the	ART DET
-main	JJ
-enzyme	NN
-related	WZPAST
-to	PIN PREP
-the	ART DET
-Alzheimer	CAP NNP
-’s	
-disease	NN
-.	
-Interestingly	RB CAP
-,	
-these	DEMO DET
-compounds	NN
-presented	VBD
-higher	JJ CMADJ
-activity	NOMZ
-than	PIN PREP
-the	ART DET
-starting	NN
-material	NN
-trachyloban-19	NNP
--	
-oic	NNP
-acid	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-one	NUM
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-showed	VBD PRIV
-even	RB
-higher	JJ CMADJ
-AChE	CAP NNP
-inhibition	NOMZ
-than	PIN PREP
-the	ART DET
-standard	NN
-used	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-test	NN
-,	
-the	ART DET
-anticholinesterase	NN
-agent	NN
-galantamine	NN
-.	
-For	PIN CAP PREP
-the	ART DET
-same	JJ
-compound	NN
-,	
-other	JJ
-fungi	NNP
-species	NN
-showed	VBD PRIV
-efficiency	NN
-in	PIN CONJ PREP
-previous	JJ
-works	NN
-,	
-as	PIN CONJ PREP
-for	PIN PREP
-example	NN
-,	
-Rhizopus	CAP NNP
-stolonifer	NN
-,	
-whose	DET WH
-experiment	NOMZ
-generated	VBD
-the	ART DET
-synthesis	NN
-of	PIN PREP
-six	NUM
-new	JJ
-chemical	NN
-compounds	NN
-of	PIN PREP
-biological	JJ
-interest	NN
-(	
-SILVA	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2002	NUM
-)	
-.	
-Another	CAP DET
-example	NN
-is	BEMA VPRT AUXB
-the	ART DET
-biotransformation	NOMZ
-of	PIN PREP
-the	ART DET
-compound	NN
-20-(S)-protopanaxatriol	NUM
-by	PIN PREP
-the	ART DET
-fungus	NN
-Mucor	CAP NNP
-racemosus	NN
-,	
-providing	PRESP PGAS
-six	NUM
-new	JJ
-compounds	NN
-.	
-The	ART CAP DET
-anti	JJ
--	JJ
-cancer	JJ
-activity	NOMZ
-bioassay	NN
-for	PIN PREP
-these	DEMO DET
-compounds	NN
-disclosed	VBD PUBV
-potent	JJ
-inhibitory	JJ
-activity	NOMZ
-of	PIN PREP
-two	NUM
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-against	PIN PREP
-SH	CAP NNP
--	
-SY5Y	NN CAP
-and	CCONJ
-HepG2	CAP NNP
-cell	NN
-lines	NN
-(	
-CHEN	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2015	NUM
-)	
-.	
-These	DEMO CAP DET
-examples	NN
-shows	VPRT PRIV
-the	ART DET
-claims	PUBV NN
-proposed	SUAV WZPAST
-by	PIN PREP
-the	ART DET
-technique	NN
-being	PASS WZPRES SPAU AUXB
-efficiently	RB
-achieved	
-.	
-  	
-Another	CAP DET
-approach	NN
-for	PIN PREP
-this	DEMO DET
-methodology	NN
-is	BEMA VPRT AUXB
-for	PIN PREP
-environmental	JJ
-applications	NOMZ
-.	
-In	PIN CONJ CAP PREP
-these	DEMO DET
-cases	NN
-,	
-the	ART DET
-process	NN
-can	POMD
-be	PASS SPAU AUXB INF
-also	RB
-called	
-as	PIN CONJ PREP
-bioremediation	NOMZ
-,	
-and	ANDC CCONJ
-the	ART DET
-purpose	NN
-of	PIN PREP
-structural	JJ
-modifications	NOMZ
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-degrade	INF
-organic	JJ
-contaminants	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-pesticides	NN
-,	
-dyes	NN
-,	
-pharmaceuticals	NN
-,	
-and	ANDC CCONJ
-personal	JJ
-care	NN
-products	NN
-,	
-or	CCONJ
-at	PIN PREP
-least	JJ SPADJ
-to	PIN TO PREP
-decrease	INF
-their	TPP3 PRP SBJP
-toxicity	NOMZ
-or	CCONJ
-accumulation	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-environment	NOMZ
-(	
-TAKAHASHI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2014	NUM
-)	
-.	
-A	ART CAP DET INDA
-successful	JJ
-example	NN
-was	BEMA VBD AUXB
-the	ART DET
-use	NN
-of	PIN PREP
-the	ART DET
-fungus	NN
-Trametes	CAP NNP
-versicolor	NN
-,	
-commonly	RB
-grown	
-in	PIN CONJ PREP
-rice	NN
-husk	NN
-,	
-for	PIN PREP
-the	ART DET
-degradation	NOMZ
-of	PIN PREP
-the	ART DET
-pesticide	NN
-carbofuran	NN
-.	
-The	ART CAP DET
-process	NN
-reached	VBD
-55.1	NUM
-%	NN
-of	PIN PREP
-degradation	NOMZ
-,	
-and	ANDC CCONJ
-was	PASS VBD AUXB
-detected	
-that	PIN DEMO SCONJ PREP
-the	ART DET
-biotransformation	NOMZ
-product	NN
-is	VPRT AUXB
-89	NUM
-%	NN
-less	RB CMADJ
-toxic	JJ
-when	RB SCONJ WH
-compared	
-to	PIN PREP
-the	ART DET
-starting	NN
-material	NN
-,	
-carbofuran	NNP
-(	
-RUIZ	CAP NNP
--	
-HIDALGO	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2014	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-recent	JJ
-works	NN
-,	
-Syncephalastrum	CAP NNP
-racemosum	NN
-strains	NN
-showed	VBD PRIV
-promising	JJ PUBV
-results	NN
-for	PIN PREP
-chemical	JJ
-transformations	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-molecule	NN
-of	PIN PREP
-ibuprofen	NNP
-,	
-a	ART DET INDA
-prescription	NOMZ
--	
-free	JJ
-nonsteroidal	NN
-anti	JJ
--	JJ
-inflammatory	JJ
-drug	NN
-,	
-widely	RB
-used	
-throughout	PIN PREP
-the	ART DET
-world	NN
-and	CCONJ
-,	
-for	PIN PREP
-that	DEMO DET
-reason	PRIV NN
-,	
-commonly	RB
-present	JJ
-in	PIN CONJ PREP
-the	ART DET
-water	NN
-bodies	NN
-.	
-This	DEMO CAP DET
-process	NN
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-development	NOMZ
-,	
-aiming	PGAS
-for	PIN PREP
-assist	INF
-the	ART DET
-removal	NN
-of	PIN PREP
-this	DEMO DET
-drug	NN
-from	PIN PREP
-environmental	JJ
-aqueous	JJ
-matrices	NN
-(	
-MARTINS	NN CAP
-and	CCONJ
-TAKAHASHI	CAP NNP
-,	
-2019	NUM
-)	
-.	
-An	ART CAP DET INDA
-important	JJ
-factor	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-bioremediation	NOMZ
-process	NN
-does	VPRT SPAU
-not	XX0 RB
-alter	INF
-the	ART DET
-physicochemical	JJ
-properties	NN
-of	PIN PREP
-the	ART DET
-treatment	NOMZ
-site	NN
-and	CCONJ
-can	POMD
-be	PASS AUXB INF
-used	
-as	PIN CONJ PREP
-an	ART DET INDA
-alternative	NN
-for	PIN PREP
-physical	JJ
-and	CCONJ
-chemical	NN
-processes	NN
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-not	XX0 RB
-applicable	JJ
-in	PIN CONJ PREP
-some	QUAN DET
-situations	NOMZ
-(	
-MARTINS	NN CAP
-et	NNP
-al	NNP
-.	NNP
-,	
-2019	NUM
-)	
-.	
-  	
-A	ART CAP DET INDA
-considerable	JJ
-advantage	NN
-for	PIN PREP
-the	ART DET
-biotransformation	NOMZ
-process	NN
-is	BEMA VPRT AUXB
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-green	JJ
-methodology	NN
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-solvents	NN
-and	PHC CCONJ
-reagents	NN
-are	PASS VPRT AUXB
-reduced	
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-waste	NN
-that	TSUB WHSUB WH
-can	POMD
-be	BEMA AUXB INF
-harmful	JJ PRED
-to	PIN PREP
-human	JJ
-health	NN
-and	CCONJ
-for	PIN PREP
-the	ART DET
-environment	NOMZ
-is	BEMA VPRT AUXB
-low	JJ PRED
-.	
-Fungal	CAP NNP
-biomass	NN
-are	PASS VPRT AUXB
-produced	
-in	PIN CONJ PREP
-high	JJ
-yields	NN
-and	CCONJ
-consists	VPRT
-in	PIN CONJ PREP
-biodegradable	JJ
-organic	JJ
-material	NN
-,	
-and	ANDC CCONJ
-many	QUAN JJ
-fungi	NNP
-species	NN
-are	PASS VPRT SPAU AUXB
-officially	RB
-considered	PRIV
-safe	JJ
-to	PIN TO PREP
-use	INF
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-the	ART DET
-use	NN
-of	PIN PREP
-this	DEMO DET
-sustainable	JJ
-approach	NN
-is	BEMA VPRT AUXB
-advantageous	JJ PRED
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-lower	JJ CMADJ
-cost	NN
-of	PIN PREP
-fungal	JJ
-manipulation	NOMZ
-,	
-in	PIN CONJ PREP
-relation	NOMZ
-to	PIN PREP
-the	ART DET
-cost	NN
-of	PIN PREP
-enzymes	NN
-isolation	NOMZ
-,	
-for	PIN PREP
-example	NN
-.	
-Fungal	CAP NNP
-operation	NOMZ
-is	BEMA VPRT AUXB
-simple	JJ PRED
-and	PHC CCONJ
-fast	JJ PRED
-,	
-and	ANDC CCONJ
-with	PIN PREP
-successive	JJ
-cell	NN
-reintegrations	NOMZ
-,	
-a	ART DET INDA
-single	JJ
-fungal	NN
-strain	NN
-can	POMD
-be	PASS AUXB INF
-used	
-during	PIN PREP
-years	NN
-in	PIN CONJ PREP
-several	QUAN JJ
-interdisciplinary	JJ
-studies	NN
-for	PIN PREP
-exploration	NOMZ
-of	PIN PREP
-the	ART DET
-fungal	JJ
-metabolism	NN
-.	
-As	PIN CONJ CAP PREP
-fungi	NN
-do	VPRT SPAU
-not	XX0 RB
-depend	INF
-on	PIN PREP
-seasonality	NOMZ
-for	PIN PREP
-their	TPP3 PRP SBJP
-growth	NN
-,	
-they	TPP3 PRP SBJP
-can	POMD
-be	PASS AUXB INF
-replicated	
-throughout	PIN PREP
-the	ART DET
-year	NN
-and	CCONJ
-the	ART DET
-process	NN
-can	POMD
-be	PASS BYPA AUXB INF
-optimized	
-by	PIN PREP
-modifying	PGAS
-cultivation	NOMZ
-conditions	NOMZ
-in	PIN CONJ PREP
-considerably	RB
-accessible	JJ
-plant	NN
--	
-based	
-culture	NN
-media	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-source	NN
-of	PIN PREP
-nutrients	NN
-(	
-TAKAHASHI	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2017	NUM
-)	
-.	
-  	
-Considering	GER PRIV CAP PGAS
-all	QUAN DET
-these	DEMO DET
-interesting	JJ
-applications	NOMZ
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-conclude	PRIV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-fungal	NN
-biotransformation	NOMZ
-can	POMD
-be	BEMA AUXB INF
-an	ART DET INDA
-efficient	JJ
-,	
-low	JJ
-cost	NN
-,	
-and	ANDC CCONJ
-sustainable	JJ
-process	NN
-.	
-Consist	CAP INF
-in	PIN CONJ PREP
-a	ART DET INDA
-green	JJ
-alternative	NN
-from	PIN PREP
-conventional	JJ
-chemical	JJ
-synthesis	NN
-and	CCONJ
-conventional	JJ
-waterbodies	NN
-treatments	NOMZ
-,	
-a	ART DET INDA
-desired	SUAV
-aspect	NN
-nowadays	RB TIME
-,	
-where	RB SCONJ WH
-so	RB EMPH
-many	QUAN JJ
-environmental	JJ
-disasters	NN
-and	PHC CCONJ
-recklessness	NOMZ
-are	VPRT AUXB
-occurring	PGAS
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-its	PIT PRP SBJP
-use	NN
-has	VPRT PEAS
-been	PASS SPAU AUXB
-increasingly	RB
-incorporated	
-in	PIN CONJ PREP
-the	ART DET
-pharmaceutical	JJ
-industry	NN
-,	
-for	PIN PREP
-the	ART DET
-production	NOMZ
-of	PIN PREP
-medicines	NN
-of	PIN PREP
-great	JJ
-utility	NOMZ
-and	CCONJ
-high	JJ
-commercial	JJ
-value	NN
-.	
-It	PIT CAP PRP SBJP
-also	RB
-demonstrates	VPRT PRIV
-considerable	JJ
-ecological	JJ
-and	PHC CCONJ
-environmental	JJ
-potential	NN
-,	
-making	PGAS
-possible	JJ
-the	ART DET
-reduction	NOMZ
-of	PIN PREP
-levels	NN
-of	PIN PREP
-some	QUAN DET
-persistent	JJ
-compounds	NN
-that	TSUB WHSUB WH
-represent	VPRT
-a	ART DET INDA
-potential	JJ
-risk	NN
-to	PIN PREP
-the	ART DET
-ecosystem	NN
-.	
-Finally	RB CAP
-,	
-the	ART DET
-rich	JJ
-fungal	JJ
-biodiversity	NOMZ
-enables	VPRT
-an	ART DET INDA
-infinity	NOMZ
-of	PIN PREP
-studies	NN
-for	PIN PREP
-future	JJ
-advances	NN
-in	PIN CONJ PREP
-this	DEMO DET
-area	NN
-of	PIN PREP
-natural	JJ
-products	NN
-chemistry	NN
-,	
-applied	VBD
-microbiology	NN
-,	
-and	ANDC CCONJ
-biotechnology	NN
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2478.1202>\n\n<Fungal biotransformation of natural products and drugs\nXXX / IFA III>\n\n	
+word	Throughout	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	history	NN
+gap	, 	
+word	filamentous	JJ
+gap	 	
+word	fungi	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	biotechnological	JJ
+gap	 	
+word	applications	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	direct	JJ
+gap	 	
+word	alimentation	NOMZ
+gap	 (	
+word	mushrooms	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	truffles	NN
+gap	), 	
+word	fermentation	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	beverages	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	bakery	NN
+gap	 	
+word	products	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	drugs	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	cosmetics	NN
+gap	 	
+word	production	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	production	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	bioactive	NN
+gap	 	
+word	secondary	JJ
+gap	 	
+word	metabolites	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	organisms	NN
+gap	 	
+word	enables	VPRT
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	applications	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	existing	PGAS
+gap	 	
+word	biological	JJ
+gap	 	
+word	variety	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	possibilities	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	studying	PGAS
+gap	. 	
+word	Other	JJ CAP
+gap	 	
+word	interest	NN
+gap	 	
+word	application	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	biotransformation	NOMZ
+gap	 	
+word	process	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	consist	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fungi	NNP
+gap	 	
+word	species	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	chemical	JJ
+gap	 	
+word	transformations	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	organic	JJ
+gap	 	
+word	compounds	NN
+gap	, 	
+word	process	NN
+gap	 	
+word	carried	WZPAST
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	enzymes	NN
+gap	 	
+word	produced	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fungi	NN
+gap	 (	
+word	TAKAHASHI	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2017). 	
+word	The	ART CAP DET
+gap	 	
+word	technique	NN
+gap	 	
+word	highlights	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	functionalization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	products	NN
+gap	 	
+word	containing	GER WZPRES PGAS
+gap	 	
+word	non	JJ
+gap	-	
+word	activated	
+gap	 	
+word	carbons	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	introduction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	hydroxyl	NNP
+gap	 	
+word	groups	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	organic	JJ
+gap	 	
+word	functions	NOMZ
+gap	 (	
+word	TAKAHASHI	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2014). 	
+word	This	DEMO CAP DET
+gap	 	
+word	approach	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	obtain	INF
+gap	 	
+word	new	JJ
+gap	 	
+word	bioactive	NN
+gap	 	
+word	compounds	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	remove	INF
+gap	 	
+word	or	CCONJ
+gap	 	
+word	reduce	INF
+gap	 	
+word	pollutants	NN
+gap	 	
+word	contents	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	aquatic	JJ
+gap	 	
+word	environments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	sustainable	JJ
+gap	 	
+word	way	NN
+gap	.\n\n	
+word	Firstly	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	fungal	NN
+gap	 	
+word	biotransformation	NOMZ
+gap	 	
+word	process	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	alternative	JJ
+gap	 	
+word	chemical	NN
+gap	 	
+word	synthesis	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	production	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	bioactive	NN
+gap	 	
+word	molecules	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	desired	SUAV
+gap	 	
+word	structural	JJ
+gap	 	
+word	modifications	NOMZ
+gap	 	
+word	demands	VPRT SUAV
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	steps	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	high	JJ
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	solvents	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	classical	JJ
+gap	 	
+word	synthetic	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	performed	
+gap	 (	
+word	TAKAHASHI	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2017). 	
+word	Dos	
+gap	 	
+word	Santos	
+gap	 	
+word	and	
+gap	 	
+word	colleagues	
+gap	 (2018) 	
+word	obtained	
+gap	 	
+word	three	
+gap	 	
+word	other	
+gap	 	
+word	compounds	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	interaction	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	natural	
+gap	 	
+word	diterpene	
+gap	 	
+word	trachyloban	
+gap	-19-	
+word	oic	
+gap	 	
+word	acid	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	fungus	
+gap	 	
+word	Syncephalastrum	
+gap	 	
+word	racemosum	
+gap	. 	
+word	The	
+gap	 	
+word	new	
+gap	 	
+word	compounds	
+gap	 	
+word	were	
+gap	 	
+word	tested	
+gap	 	
+word	as	
+gap	 	
+word	acetylcholinesterase	
+gap	 (	
+word	AChE	
+gap	) 	
+word	inhinitors	
+gap	, 	
+word	the	
+gap	 	
+word	main	
+gap	 	
+word	enzyme	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	Alzheimer	
+gap	’	
+word	s	
+gap	 	
+word	disease	
+gap	. 	
+word	Interestingly	
+gap	, 	
+word	these	
+gap	 	
+word	compounds	
+gap	 	
+word	presented	
+gap	 	
+word	higher	
+gap	 	
+word	activity	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	starting	
+gap	 	
+word	material	
+gap	 	
+word	trachyloban	
+gap	-19-	
+word	oic	
+gap	 	
+word	acid	
+gap	. 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	 	
+word	showed	
+gap	 	
+word	even	
+gap	 	
+word	higher	
+gap	 	
+word	AChE	
+gap	 	
+word	inhibition	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	standard	
+gap	 	
+word	used	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	test	
+gap	, 	
+word	the	
+gap	 	
+word	anticholinesterase	
+gap	 	
+word	agent	
+gap	 	
+word	galantamine	
+gap	. 	
+word	For	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	compound	
+gap	, 	
+word	other	
+gap	 	
+word	fungi	
+gap	 	
+word	species	
+gap	 	
+word	showed	
+gap	 	
+word	efficiency	
+gap	 	
+word	in	
+gap	 	
+word	previous	
+gap	 	
+word	works	
+gap	, 	
+word	as	
+gap	 	
+word	for	
+gap	 	
+word	example	
+gap	, 	
+word	Rhizopus	
+gap	 	
+word	stolonifer	
+gap	, 	
+word	whose	
+gap	 	
+word	experiment	
+gap	 	
+word	generated	
+gap	 	
+word	the	
+gap	 	
+word	synthesis	
+gap	 	
+word	of	
+gap	 	
+word	six	
+gap	 	
+word	new	
+gap	 	
+word	chemical	
+gap	 	
+word	compounds	
+gap	 	
+word	of	
+gap	 	
+word	biological	
+gap	 	
+word	interest	
+gap	 (	
+word	SILVA	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2002). 	
+word	Another	
+gap	 	
+word	example	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	biotransformation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	compound	
+gap	 20-(	
+word	S	
+gap	)-	
+word	protopanaxatriol	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fungus	NN
+gap	 	
+word	Mucor	CAP NNP
+gap	 	
+word	racemosus	NN
+gap	, 	
+word	providing	PRESP PGAS
+gap	 	
+word	six	NUM
+gap	 	
+word	new	JJ
+gap	 	
+word	compounds	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	anti	JJ
+gap	-	
+word	cancer	JJ
+gap	 	
+word	activity	NOMZ
+gap	 	
+word	bioassay	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	compounds	NN
+gap	 	
+word	disclosed	VBD PUBV
+gap	 	
+word	potent	JJ
+gap	 	
+word	inhibitory	JJ
+gap	 	
+word	activity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	against	PIN PREP
+gap	 	
+word	SH	CAP NNP
+gap	-	
+word	SY	
+gap	5	
+word	Y	
+gap	 	
+word	and	
+gap	 	
+word	HepG	
+gap	2 	
+word	cell	
+gap	 	
+word	lines	
+gap	 (	
+word	CHEN	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2015). 	
+word	These	
+gap	 	
+word	examples	
+gap	 	
+word	shows	
+gap	 	
+word	the	
+gap	 	
+word	claims	
+gap	 	
+word	proposed	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	technique	
+gap	 	
+word	being	
+gap	 	
+word	efficiently	
+gap	 	
+word	achieved	
+gap	.\n\n	
+word	Another	
+gap	 	
+word	approach	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	methodology	
+gap	 	
+word	is	
+gap	 	
+word	for	
+gap	 	
+word	environmental	
+gap	 	
+word	applications	
+gap	. 	
+word	In	
+gap	 	
+word	these	
+gap	 	
+word	cases	
+gap	, 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	also	
+gap	 	
+word	called	
+gap	 	
+word	as	
+gap	 	
+word	bioremediation	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	purpose	
+gap	 	
+word	of	
+gap	 	
+word	structural	
+gap	 	
+word	modifications	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	degrade	
+gap	 	
+word	organic	
+gap	 	
+word	contaminants	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	pesticides	
+gap	, 	
+word	dyes	
+gap	, 	
+word	pharmaceuticals	
+gap	, 	
+word	and	
+gap	 	
+word	personal	
+gap	 	
+word	care	
+gap	 	
+word	products	
+gap	, 	
+word	or	
+gap	 	
+word	at	
+gap	 	
+word	least	
+gap	 	
+word	to	
+gap	 	
+word	decrease	
+gap	 	
+word	their	
+gap	 	
+word	toxicity	
+gap	 	
+word	or	
+gap	 	
+word	accumulation	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	 (	
+word	TAKAHASHI	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2014). 	
+word	A	
+gap	 	
+word	successful	
+gap	 	
+word	example	
+gap	 	
+word	was	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	fungus	
+gap	 	
+word	Trametes	
+gap	 	
+word	versicolor	
+gap	, 	
+word	commonly	
+gap	 	
+word	grown	
+gap	 	
+word	in	
+gap	 	
+word	rice	
+gap	 	
+word	husk	
+gap	, 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	degradation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	pesticide	
+gap	 	
+word	carbofuran	
+gap	. 	
+word	The	
+gap	 	
+word	process	
+gap	 	
+word	reached	
+gap	 55.1% 	
+word	of	
+gap	 	
+word	degradation	
+gap	, 	
+word	and	
+gap	 	
+word	was	
+gap	 	
+word	detected	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	biotransformation	
+gap	 	
+word	product	
+gap	 	
+word	is	
+gap	 89% 	
+word	less	
+gap	 	
+word	toxic	
+gap	 	
+word	when	
+gap	 	
+word	compared	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	starting	
+gap	 	
+word	material	
+gap	, 	
+word	carbofuran	
+gap	 (	
+word	RUIZ	
+gap	-	
+word	HIDALGO	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2014). 	
+word	In	
+gap	 	
+word	recent	
+gap	 	
+word	works	
+gap	, 	
+word	Syncephalastrum	
+gap	 	
+word	racemosum	
+gap	 	
+word	strains	
+gap	 	
+word	showed	
+gap	 	
+word	promising	
+gap	 	
+word	results	
+gap	 	
+word	for	
+gap	 	
+word	chemical	
+gap	 	
+word	transformations	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	molecule	
+gap	 	
+word	of	
+gap	 	
+word	ibuprofen	
+gap	, 	
+word	a	
+gap	 	
+word	prescription	
+gap	-	
+word	free	
+gap	 	
+word	nonsteroidal	
+gap	 	
+word	anti	
+gap	-	
+word	inflammatory	
+gap	 	
+word	drug	
+gap	, 	
+word	widely	
+gap	 	
+word	used	
+gap	 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 	
+word	and	
+gap	, 	
+word	for	
+gap	 	
+word	that	
+gap	 	
+word	reason	
+gap	, 	
+word	commonly	
+gap	 	
+word	present	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	water	
+gap	 	
+word	bodies	
+gap	. 	
+word	This	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	in	
+gap	 	
+word	development	
+gap	, 	
+word	aiming	
+gap	 	
+word	for	
+gap	 	
+word	assist	
+gap	 	
+word	the	
+gap	 	
+word	removal	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	drug	
+gap	 	
+word	from	
+gap	 	
+word	environmental	
+gap	 	
+word	aqueous	
+gap	 	
+word	matrices	
+gap	 (	
+word	MARTINS	
+gap	 	
+word	and	
+gap	 	
+word	TAKAHASHI	
+gap	, 2019). 	
+word	An	
+gap	 	
+word	important	
+gap	 	
+word	factor	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	bioremediation	
+gap	 	
+word	process	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	alter	
+gap	 	
+word	the	
+gap	 	
+word	physicochemical	
+gap	 	
+word	properties	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	treatment	
+gap	 	
+word	site	
+gap	 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	used	
+gap	 	
+word	as	
+gap	 	
+word	an	
+gap	 	
+word	alternative	
+gap	 	
+word	for	
+gap	 	
+word	physical	
+gap	 	
+word	and	
+gap	 	
+word	chemical	
+gap	 	
+word	processes	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	applicable	
+gap	 	
+word	in	
+gap	 	
+word	some	
+gap	 	
+word	situations	
+gap	 (	
+word	MARTINS	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2019). \n\n	
+word	A	
+gap	 	
+word	considerable	
+gap	 	
+word	advantage	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	biotransformation	
+gap	 	
+word	process	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	green	
+gap	 	
+word	methodology	
+gap	. 	
+word	The	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	solvents	
+gap	 	
+word	and	
+gap	 	
+word	reagents	
+gap	 	
+word	are	
+gap	 	
+word	reduced	
+gap	, 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	production	
+gap	 	
+word	of	
+gap	 	
+word	waste	
+gap	 	
+word	that	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	harmful	
+gap	 	
+word	to	
+gap	 	
+word	human	
+gap	 	
+word	health	
+gap	 	
+word	and	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	 	
+word	is	
+gap	 	
+word	low	
+gap	. 	
+word	Fungal	
+gap	 	
+word	biomass	
+gap	 	
+word	are	
+gap	 	
+word	produced	
+gap	 	
+word	in	
+gap	 	
+word	high	
+gap	 	
+word	yields	
+gap	 	
+word	and	
+gap	 	
+word	consists	
+gap	 	
+word	in	
+gap	 	
+word	biodegradable	
+gap	 	
+word	organic	
+gap	 	
+word	material	
+gap	, 	
+word	and	
+gap	 	
+word	many	
+gap	 	
+word	fungi	
+gap	 	
+word	species	
+gap	 	
+word	are	
+gap	 	
+word	officially	
+gap	 	
+word	considered	
+gap	 	
+word	safe	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	. 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	sustainable	
+gap	 	
+word	approach	
+gap	 	
+word	is	
+gap	 	
+word	advantageous	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	lower	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	fungal	
+gap	 	
+word	manipulation	
+gap	, 	
+word	in	
+gap	 	
+word	relation	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	cost	
+gap	 	
+word	of	
+gap	 	
+word	enzymes	
+gap	 	
+word	isolation	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	. 	
+word	Fungal	
+gap	 	
+word	operation	
+gap	 	
+word	is	
+gap	 	
+word	simple	
+gap	 	
+word	and	
+gap	 	
+word	fast	
+gap	, 	
+word	and	
+gap	 	
+word	with	
+gap	 	
+word	successive	
+gap	 	
+word	cell	
+gap	 	
+word	reintegrations	
+gap	, 	
+word	a	
+gap	 	
+word	single	
+gap	 	
+word	fungal	
+gap	 	
+word	strain	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	used	
+gap	 	
+word	during	
+gap	 	
+word	years	
+gap	 	
+word	in	
+gap	 	
+word	several	
+gap	 	
+word	interdisciplinary	
+gap	 	
+word	studies	
+gap	 	
+word	for	
+gap	 	
+word	exploration	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	fungal	
+gap	 	
+word	metabolism	
+gap	. 	
+word	As	
+gap	 	
+word	fungi	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	depend	
+gap	 	
+word	on	
+gap	 	
+word	seasonality	
+gap	 	
+word	for	
+gap	 	
+word	their	
+gap	 	
+word	growth	
+gap	, 	
+word	they	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	replicated	
+gap	 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	year	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	process	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	optimized	
+gap	 	
+word	by	
+gap	 	
+word	modifying	
+gap	 	
+word	cultivation	
+gap	 	
+word	conditions	
+gap	 	
+word	in	
+gap	 	
+word	considerably	
+gap	 	
+word	accessible	
+gap	 	
+word	plant	
+gap	-	
+word	based	
+gap	 	
+word	culture	
+gap	 	
+word	media	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	nutrients	
+gap	 (	
+word	TAKAHASHI	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	., 2017). \n\n	
+word	Considering	
+gap	 	
+word	all	
+gap	 	
+word	these	
+gap	 	
+word	interesting	
+gap	 	
+word	applications	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	conclude	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	fungal	
+gap	 	
+word	biotransformation	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	an	
+gap	 	
+word	efficient	
+gap	, 	
+word	low	
+gap	 	
+word	cost	
+gap	, 	
+word	and	
+gap	 	
+word	sustainable	
+gap	 	
+word	process	
+gap	. 	
+word	Consist	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	green	
+gap	 	
+word	alternative	
+gap	 	
+word	from	
+gap	 	
+word	conventional	
+gap	 	
+word	chemical	
+gap	 	
+word	synthesis	
+gap	 	
+word	and	
+gap	 	
+word	conventional	
+gap	 	
+word	waterbodies	
+gap	 	
+word	treatments	
+gap	, 	
+word	a	
+gap	 	
+word	desired	
+gap	 	
+word	aspect	
+gap	 	
+word	nowadays	
+gap	, 	
+word	where	
+gap	 	
+word	so	
+gap	 	
+word	many	
+gap	 	
+word	environmental	
+gap	 	
+word	disasters	
+gap	 	
+word	and	
+gap	 	
+word	recklessness	
+gap	 	
+word	are	
+gap	 	
+word	occurring	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	its	
+gap	 	
+word	use	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	increasingly	
+gap	 	
+word	incorporated	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	pharmaceutical	
+gap	 	
+word	industry	
+gap	, 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	production	
+gap	 	
+word	of	
+gap	 	
+word	medicines	
+gap	 	
+word	of	
+gap	 	
+word	great	
+gap	 	
+word	utility	
+gap	 	
+word	and	
+gap	 	
+word	high	
+gap	 	
+word	commercial	
+gap	 	
+word	value	
+gap	. 	
+word	It	
+gap	 	
+word	also	
+gap	 	
+word	demonstrates	
+gap	 	
+word	considerable	
+gap	 	
+word	ecological	
+gap	 	
+word	and	
+gap	 	
+word	environmental	
+gap	 	
+word	potential	
+gap	, 	
+word	making	
+gap	 	
+word	possible	
+gap	 	
+word	the	
+gap	 	
+word	reduction	
+gap	 	
+word	of	
+gap	 	
+word	levels	
+gap	 	
+word	of	
+gap	 	
+word	some	
+gap	 	
+word	persistent	
+gap	 	
+word	compounds	
+gap	 	
+word	that	
+gap	 	
+word	represent	
+gap	 	
+word	a	
+gap	 	
+word	potential	
+gap	 	
+word	risk	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	ecosystem	
+gap	. 	
+word	Finally	
+gap	, 	
+word	the	
+gap	 	
+word	rich	
+gap	 	
+word	fungal	
+gap	 	
+word	biodiversity	
+gap	 	
+word	enables	
+gap	 	
+word	an	
+gap	 	
+word	infinity	
+gap	 	
+word	of	
+gap	 	
+word	studies	
+gap	 	
+word	for	
+gap	 	
+word	future	
+gap	 	
+word	advances	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	natural	
+gap	 	
+word	products	
+gap	 	
+word	chemistry	
+gap	, 	
+word	applied	
+gap	 	
+word	microbiology	
+gap	, 	
+word	and	
+gap	 	
+word	biotechnology	
+gap	.\n\n<Bibliography>	

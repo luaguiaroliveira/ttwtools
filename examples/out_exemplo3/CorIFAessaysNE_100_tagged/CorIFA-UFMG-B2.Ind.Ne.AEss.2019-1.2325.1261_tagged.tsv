@@ -1,750 +1,1229 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2325.1261.txt
-token	tags
-    	
-In	PIN CONJ CAP PREP
-2007	NUM
-,	
-the	ART DET
-United	CAP NNP
-Nations	CAP NNP
-Convention	CAP NNP
-on	PIN PREP
-Biological	CAP NNP
-Diversity	CAP NNP
-(	
-CBD	CAP NNP
-/	
-UN	CAP NNP
-)	
-was	PASS VBD AUXB
-launched	
-and	CCONJ
-Brazil	CAP NNP
-became	VBD
-one	NUM
-of	PIN PREP
-the	ART DET
-signatories	NN
-of	PIN PREP
-the	ART DET
-agreement	NOMZ
-that	DEMP WHOBJ WH
-,	
-herein	INF
-with	PIN PREP
-the	ART DET
-fifteen	NUM
-of	PIN PREP
-the	ART DET
-seventeen	NUM
-U.N.	CAP NNP
-goals	NN
-for	PIN PREP
-sustainable	JJ
-development	NOMZ
-,	
-defined	VBD
-specific	JJ
-targets	NN
-and	PHC CCONJ
-commitments	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-and	PHC CCONJ
-assess	INF
-biodiversity	NOMZ
-through	PIN PREP
-a	ART DET INDA
-series	NN
-of	PIN PREP
-methodologies	NN
-of	PIN PREP
-which	PIRE DET WH
-the	ART DET
-herbariums	NN
-and	CCONJ
-other	JJ
-taxonomical	JJ
-collections	NOMZ
-plays	VPRT
-a	ART DET INDA
-critical	JJ
-role	NN
-as	PIN CONJ PREP
-the	ART DET
-main	JJ
-source	NN
-for	PIN PREP
-present	JJ
-and	PHC CCONJ
-historical	JJ
-data	NN
-about	PIN PREP
-species	NN
-diversity	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-.	
-Our	FPP1 CAP PRP SBJP
-country	NN
-possesses	VPRT
-a	ART DET INDA
-huge	JJ
-and	PHC CCONJ
-threatened	JJ
-biodiversity	NOMZ
-,	
-that	PIN DEMO SCONJ PREP
-ultimately	RB
-,	
-has	VPRT
-an	ART DET INDA
-uncounted	JJ
-impact	NN
-over	PIN PREP
-the	ART DET
-economy	NN
-,	
-culture	NN
-,	
-medicine	NN
-and	CCONJ
-other	JJ
-aspects	NN
-.	
- 	
-Besides	PIN CAP SCONJ PREP
-a	ART DET INDA
-great	JJ
-amount	NN
-of	PIN PREP
-species	NN
-,	
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-considerable	JJ
-knowledge	NN
-gap	NN
-that	TSUB WHSUB WH
-must	NEMD
-be	PASS AUXB INF
-understood	PRIV
-and	PHC CCONJ
-fulfilled	
-with	PIN PREP
-a	ART DET INDA
-range	NN
-of	PIN PREP
-public	JJ
-and	PHC CCONJ
-collective	JJ
-investments	NOMZ
-that	DEMP WHOBJ WH
-,	
-nevertheless	RB CONJ
-,	
-are	PASS VPRT SPAU AUXB
-actually	RB
-been	PASS AUXB
-slowed	
-down	PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-last	JJ
-three	NUM
-years	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-(	
-Angelo	CAP NNP
-,	
-2017	NUM
-)	
-,	
-despite	PIN SCONJ PREP
-the	ART DET
-massive	JJ
-rates	NN
-of	PIN PREP
-species	NN
-extinction	NOMZ
-today	TIME NN
-.	
- 	
-Taxonomical	JJ CAP
-collections	NOMZ
-and	PHC CCONJ
-species	NN
-databases	NN
-are	BEMA VPRT AUXB
-an	ART DET INDA
-important	JJ
-tool	NN
-for	PIN PREP
-society	NN
-and	PHC CCONJ
-governments	NOMZ
-to	PIN TO PREP
-acknowledge	PUBV INF
-,	
-assess	INF
-and	PHC CCONJ
-plan	VPRT
-the	ART DET
-sustainable	JJ
-use	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-subjacent	NN
-biodiversity	NOMZ
-.	
-Until	PIN CAP PREP
-very	AMP RB
-recently	RB TIME
-,	
-practically	DWNT RB
-only	JJ DWNT
-scientists	NN
-could	POMD
-have	INF
-access	NN
-to	PIN PREP
-biodiversity	NOMZ
-information	NOMZ
-,	
-without	PIN PREP
-such	JJ
-practicality	NOMZ
-and	CCONJ
-collectiveness	VPRT
-though	CONC RB
-.	
-Nowadays	RB TIME CAP
-,	
-access	NN
-to	PIN PREP
-these	DEMO DET
-datasets	NN
-have	VPRT PEAS
-become	
-much	QUAN RB
-more	RB EMPH CMADJ
-attainable	JJ
-through	PIN PREP
-the	ART DET
-implementation	NOMZ
-of	PIN PREP
-an	ART DET INDA
-online	JJ
-collaborating	GER PGAS
-network	NN
-.	
-In	PIN CONJ CAP PREP
-Brazil	CAP NNP
-many	QUAN JJ
-projects	NN
-and	CCONJ
-online	JJ
-tools	NN
-were	PASS VBD AUXB
-launched	
-in	PIN CONJ PREP
-that	DEMO DET
-way	NN
-:	
-INCT	NN CAP
-–	
-Herbario	CAP NNP
-Virtual	CAP NNP
-;	
-CRIA	CAP NNP
-;	
-speciesLink	NN
-;	
-SisBiota	CAP NNP
-;	
-Lacunas	CAP NNP
-;	
-BioGeo	CAP NNP
-;	
-ABELHA	CAP NNP
-;	
-SiBBr	CAP NNP
-;	
-Reflora	CAP NNP
-and	PHC CCONJ
-Flora	CAP NNP
-do	VPRT PROD
-Brasil	CAP NNP
-are	BEMA VPRT AUXB
-a	ART DET INDA
-few	QUAN JJ
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-Together	RB CAP
-,	
-they	TPP3 PRP SBJP
-provide	VPRT
-free	JJ
-and	PHC CCONJ
-open	JJ
-access	NN
-to	PIN PREP
-biodiversity	NOMZ
-data	NN
-for	PIN PREP
-society	NN
-,	
-scientists	NN
-and	PHC CCONJ
-policy	NN
-makers	NN
-,	
-corresponding	GER PGAS
-for	PIN PREP
-more	JJ EMPH CMADJ
-than	PIN PREP
-40	NUM
-terabytes	NN
-of	PIN PREP
-information	NOMZ
-,	
-20	NUM
-million	NUM
-exsiccate	NN
-images	NN
-,	
-125	NUM
-national	JJ
-and	PHC CCONJ
-international	JJ
-participating	GER PGAS
-herbariums	NN
-and	CCONJ
-486	NUM
-dataset	JJ
-providers	NN
-.	
- 	
-The	ART CAP DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-we	FPP1 PRP SBJP
-live	VPRT
-in	PIN CONJ PREP
-one	NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-biodiverse	NN
-countries	NN
-in	PIN CONJ PREP
-the	ART DET
-planet	NN
-is	BEMA VPRT AUXB
-already	RB
-familiar	JJ
-.	
-According	CAP PGAS
-to	PIN PREP
-the	ART DET
-Flora	CAP NNP
-do	VPRT PROD
-Brasil	CAP NNP
-project	NN
-(	
-2019	NUM
-)	
-,	
-Brazil	CAP NNP
-accounts	VPRT
-for	PIN PREP
-a	ART DET INDA
-quarter	NN
-of	PIN PREP
-the	ART DET
-worlds	NN
-plants	VPRT
-species	NN
-,	
-of	PIN PREP
-which	PIRE DET WH
-about	RB
-55	NUM
-%	NN
-only	DWNT RB
-exists	VPRT
-in	PIN CONJ PREP
-here	RB
-.	
-Moreover	RB CONJ CAP
-,	
-there	EX
-is	VPRT AUXB
-an	ART DET INDA
-estimated	PRIV
-5.1	NUM
-million	NUM
-fungi	NN
-species	NN
-,	
-yet	RB
-,	
-only	DWNT RB
-70.000	NUM
-are	PASS VPRT BYPA AUXB
-described	
-by	PIN PREP
-science	NN
-(	
-Blackwell	CAP NNP
-,	
-2011	NUM
-)	
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-estimated	PRIV
-that	PIN THVC SCONJ PREP
-an	ART DET INDA
-extensive	JJ
-part	NN
-of	PIN PREP
-global	JJ
-biodiversity	NOMZ
-will	PRMD
-be	PASS SPAU AUXB INF
-forever	RB
-destroyed	
-even	RB
-before	RB
-been	PASS BYPA SPAU AUXB
-ever	RB
-known	PRIV
-by	PIN PREP
-science	NN
-,	
-and	ANDC CCONJ
-that	DEMP DET
-is	BEMA VPRT AUXB
-an	ART DET INDA
-already	RB
-present	JJ
-issue	NN
-(	
-Maia	CAP NNP
-,	
-2017	NUM
-)	
-.	
-The	ART CAP DET
-so	RB
--	
-called	
-sixth	JJ
-global	JJ
-mass	JJ
-extinction	NOMZ
-event	NN
-(	
-associated	PASTP
-with	PIN PREP
-the	ART DET
-demographic	JJ
-human	JJ
-growth	NN
-and	PHC CCONJ
-use	NN
-of	PIN PREP
-planet	NN
-resources	NN
-)	
-may	POMD SPAU
-also	RB
-lead	INF
-to	PIN PREP
-the	ART DET
-coextinction	NOMZ
-of	PIN PREP
-traditional	JJ
-knowledge	NN
-,	
-and	ANDC CCONJ
-certainly	RB
-,	
-to	PIN PREP
-all	QUAN DET
-technological	JJ
-and	PHC CCONJ
-medicinal	JJ
-potential	NN
-associated	WZPAST
-with	PIN PREP
-species	NN
-entities	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-genes	NN
-,	
-that	PIN STPR DEMP SCONJ PREP
-,	
-without	PIN PREP
-mentioning	GER PUBV PGAS
-the	ART DET
-intrinsic	JJ
-biodiversity	NOMZ
-,	
-biological	JJ
-and	PHC CCONJ
-ecosystemic	JJ
-value	NN
-.	
- 	
-As	PIN CONJ CAP PREP
-already	RB
-mentioned	PUBV
-,	
-biodiversity	NOMZ
-implies	VPRT PRIV
-in	PIN CONJ PREP
-many	QUAN JJ
-cultural	JJ
-and	PHC CCONJ
-economic	JJ
-important	JJ
-aspects	NN
-of	PIN PREP
-our	FPP1 PRP SBJP
-society	NN
-,	
-for	PIN PREP
-instance	NN
-,	
-biodiversity	NOMZ
-is	BEMA VPRT AUXB
-a	ART DET INDA
-multibillionaire	NN
-global	JJ
-market	NN
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-costs	NN
-of	PIN PREP
-its	PIT PRP SBJP
-correct	JJ
-conservation	NOMZ
-could	POMD
-surpass	INF
-    	
-U.S.$	CAP NNP
-76	NUM
-billion	NUM
-(	
-McCarthy	CAP NNP
-,	
-2012	NUM
-)	
-.	
-Culturally	RB CAP
-,	
-every	QUAN DET
-traditional	JJ
-population	NOMZ
-,	
-to	PIN TO PREP
-ancient	INF
-until	PIN PREP
-modern	JJ
-times	NN
-,	
-relies	VPRT
-upon	PIN SCONJ PREP
-local	JJ
-biodiversity	NOMZ
-to	PIN TO PREP
-sustain	INF
-its	PIT PRP SBJP
-way	NN
-of	PIN PREP
-life	NN
-,	
-a	ART DET INDA
-very	AMP RB
-conservative	JJ
-estimative	JJ
-suggest	VPRT PUBV SUAV
-that	PIN THVC SCONJ PREP
-each	QUAN DET
-dollar	NN
-invested	WZPAST
-in	PIN CONJ PREP
-conservation	NOMZ
-returns	NN
-seven	NUM
-dollars	NN
-to	PIN PREP
-the	ART DET
-economy	NN
-(	
-Souza	CAP NNP
-et	NN
-al	NNP
-.	NNP
-2017	NUM
-)	
-,	
-therefore	RB CONJ
-,	
-conservation	NOMZ
-and	PHC CCONJ
-comprehension	NOMZ
-of	PIN PREP
-biodiversity	NOMZ
-is	BEMA VPRT AUXB
-essential	JJ PRED
-for	PIN PREP
-a	ART DET INDA
-responsible	JJ
-and	PHC CCONJ
-sustainable	JJ
-human	JJ
-development	NOMZ
-for	PIN PREP
-future	JJ
-and	PHC CCONJ
-present	JJ
-generations	NOMZ
-.	
- 	
-Improving	CAP PGAS
-species	NN
-and	CCONJ
-natural	JJ
-resources	NN
-conservation	NOMZ
-and	CCONJ
-sustainable	JJ
-economic	JJ
-development	NOMZ
-,	
-is	BEMA VPRT AUXB
-already	RB
-a	ART DET INDA
-big	JJ
-task	NN
-by	PIN PREP
-itself	PIT PRP SBJP ACCU
-,	
-however	RB CONJ
-,	
-to	PIN TO PREP
-do	PROD INF
-so	RB
-,	
-we	FPP1 PRP SBJP
-must	NEMD SPAU
-properly	RB
-access	INF
-our	FPP1 PRP SBJP
-biodiversity	NOMZ
-in	PIN CONJ PREP
-collaborative	JJ
-ways	NN
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-solve	INF
-this	DEMO DET
-knowledge	NN
--	
-gap	NN
-problem	NN
-,	
-investments	NOMZ
-on	PIN PREP
-basic	JJ
-science	NN
-,	
-infrastructure	NN
-and	CCONJ
-human	JJ
-resources	NN
-formation	NOMZ
-must	NEMD
-be	PASS AUXB INF
-made	
-,	
-nevertheless	RB CONJ
-,	
-the	ART DET
-Brazilian	CAP NNP
-Science	CAP NNP
-budget	NN
-is	BEMA VPRT AUXB
-now	RB TIME
-at	PIN PREP
-its	PIT PRP SBJP
-lowest	JJ SPADJ
-on	PIN PREP
-a	ART DET INDA
-12	NUM
--	
-year	NN
-history	NN
-record	NN
-,	
-in	PIN CONJ PREP
-2019	NUM
-,	
-the	ART DET
-Ministry	CAP NNP
-of	PIN PREP
-Science	CAP NNP
-,	
-Technology	CAP NNP
-,	
-Innovations	CAP NNP
-and	PHC CCONJ
-Communications	CAP NNP
-(	
-MCTIC	CAP NNP
-)	
-is	VPRT AUXB
-facing	PGAS
-a	ART DET INDA
-catastrophic	JJ
-42	NUM
-%	NN
-halt	NN
-in	PIN CONJ PREP
-budget	NN
-whilst	OSUB PIN SCONJ PREP
-public	JJ
-universities	NN
-are	BEMA VPRT AUXB
-also	RB
-under	PIN PREP
-threat	NN
-.	
-Undoubtedly	RB CAP
-,	
-Brazil	CAP NNP
-is	VPRT AUXB
-losing	PGAS
-biodiversity	NOMZ
-and	CCONJ
-economic	JJ
-potential	NN
-that	TSUB WHSUB WH
-will	PRMD SPAU
-possibly	RB
-never	RB
-be	PASS AUXB INF
-recovered	
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-1.2325.1261>\n\n<Title: Relevance of taxonomical collections and the advantages of its informatization through collaborative networks.>\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 2007, 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	Convention	CAP NNP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	Biological	CAP NNP
+gap	 	
+word	Diversity	CAP NNP
+gap	 (	
+word	CBD	CAP NNP
+gap	/	
+word	UN	CAP NNP
+gap	) 	
+word	was	PASS VBD AUXB
+gap	 	
+word	launched	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	became	VBD
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	signatories	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	agreement	NOMZ
+gap	 	
+word	that	DEMP WHOBJ WH
+gap	, 	
+word	herein	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fifteen	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	seventeen	NUM
+gap	 	
+word	U	
+gap	.	
+word	N	
+gap	. 	
+word	goals	
+gap	 	
+word	for	
+gap	 	
+word	sustainable	
+gap	 	
+word	development	
+gap	, 	
+word	defined	
+gap	 	
+word	specific	
+gap	 	
+word	targets	
+gap	 	
+word	and	
+gap	 	
+word	commitments	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	and	
+gap	 	
+word	assess	
+gap	 	
+word	biodiversity	
+gap	 	
+word	through	
+gap	 	
+word	a	
+gap	 	
+word	series	
+gap	 	
+word	of	
+gap	 	
+word	methodologies	
+gap	 	
+word	of	
+gap	 	
+word	which	
+gap	 	
+word	the	
+gap	 	
+word	herbariums	
+gap	 	
+word	and	
+gap	 	
+word	other	
+gap	 	
+word	taxonomical	
+gap	 	
+word	collections	
+gap	 	
+word	plays	
+gap	 	
+word	a	
+gap	 	
+word	critical	
+gap	 	
+word	role	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	main	
+gap	 	
+word	source	
+gap	 	
+word	for	
+gap	 	
+word	present	
+gap	 	
+word	and	
+gap	 	
+word	historical	
+gap	 	
+word	data	
+gap	 	
+word	about	
+gap	 	
+word	species	
+gap	 	
+word	diversity	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	. 	
+word	Our	
+gap	 	
+word	country	
+gap	 	
+word	possesses	
+gap	 	
+word	a	
+gap	 	
+word	huge	
+gap	 	
+word	and	
+gap	 	
+word	threatened	
+gap	 	
+word	biodiversity	
+gap	, 	
+word	that	
+gap	 	
+word	ultimately	
+gap	, 	
+word	has	
+gap	 	
+word	an	
+gap	 	
+word	uncounted	
+gap	 	
+word	impact	
+gap	 	
+word	over	
+gap	 	
+word	the	
+gap	 	
+word	economy	
+gap	, 	
+word	culture	
+gap	, 	
+word	medicine	
+gap	 	
+word	and	
+gap	 	
+word	other	
+gap	 	
+word	aspects	
+gap	.  	
+word	Besides	
+gap	 	
+word	a	
+gap	 	
+word	great	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	species	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	considerable	
+gap	 	
+word	knowledge	
+gap	 	
+word	gap	
+gap	 	
+word	that	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	understood	
+gap	 	
+word	and	
+gap	 	
+word	fulfilled	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	range	
+gap	 	
+word	of	
+gap	 	
+word	public	
+gap	 	
+word	and	
+gap	 	
+word	collective	
+gap	 	
+word	investments	
+gap	 	
+word	that	
+gap	, 	
+word	nevertheless	
+gap	, 	
+word	are	
+gap	 	
+word	actually	
+gap	 	
+word	been	
+gap	 	
+word	slowed	
+gap	 	
+word	down	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	last	
+gap	 	
+word	three	
+gap	 	
+word	years	
+gap	 	
+word	in	
+gap	 	
+word	Brazil	
+gap	 (	
+word	Angelo	
+gap	, 2017), 	
+word	despite	
+gap	 	
+word	the	
+gap	 	
+word	massive	
+gap	 	
+word	rates	
+gap	 	
+word	of	
+gap	 	
+word	species	
+gap	 	
+word	extinction	
+gap	 	
+word	today	
+gap	. \n	
+word	Taxonomical	
+gap	 	
+word	collections	
+gap	 	
+word	and	
+gap	 	
+word	species	
+gap	 	
+word	databases	
+gap	 	
+word	are	
+gap	 	
+word	an	
+gap	 	
+word	important	
+gap	 	
+word	tool	
+gap	 	
+word	for	
+gap	 	
+word	society	
+gap	 	
+word	and	
+gap	 	
+word	governments	
+gap	 	
+word	to	
+gap	 	
+word	acknowledge	
+gap	, 	
+word	assess	
+gap	 	
+word	and	
+gap	 	
+word	plan	
+gap	 	
+word	the	
+gap	 	
+word	sustainable	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	subjacent	
+gap	 	
+word	biodiversity	
+gap	. 	
+word	Until	
+gap	 	
+word	very	
+gap	 	
+word	recently	
+gap	, 	
+word	practically	
+gap	 	
+word	only	
+gap	 	
+word	scientists	
+gap	 	
+word	could	
+gap	 	
+word	have	
+gap	 	
+word	access	
+gap	 	
+word	to	
+gap	 	
+word	biodiversity	
+gap	 	
+word	information	
+gap	, 	
+word	without	
+gap	 	
+word	such	
+gap	 	
+word	practicality	
+gap	 	
+word	and	
+gap	 	
+word	collectiveness	
+gap	 	
+word	though	
+gap	. 	
+word	Nowadays	
+gap	, 	
+word	access	
+gap	 	
+word	to	
+gap	 	
+word	these	
+gap	 	
+word	datasets	
+gap	 	
+word	have	
+gap	 	
+word	become	
+gap	 	
+word	much	
+gap	 	
+word	more	
+gap	 	
+word	attainable	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	implementation	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	online	
+gap	 	
+word	collaborating	
+gap	 	
+word	network	
+gap	. 	
+word	In	
+gap	 	
+word	Brazil	
+gap	 	
+word	many	
+gap	 	
+word	projects	
+gap	 	
+word	and	
+gap	 	
+word	online	
+gap	 	
+word	tools	
+gap	 	
+word	were	
+gap	 	
+word	launched	
+gap	 	
+word	in	
+gap	 	
+word	that	
+gap	 	
+word	way	
+gap	: 	
+word	INCT	
+gap	 – 	
+word	Herbario	
+gap	 	
+word	Virtual	
+gap	; 	
+word	CRIA	
+gap	; 	
+word	speciesLink	
+gap	; 	
+word	SisBiota	
+gap	; 	
+word	Lacunas	
+gap	; 	
+word	BioGeo	
+gap	; 	
+word	ABELHA	
+gap	; 	
+word	SiBBr	
+gap	; 	
+word	Reflora	
+gap	 	
+word	and	
+gap	 	
+word	Flora	
+gap	 	
+word	do	
+gap	 	
+word	Brasil	
+gap	 	
+word	are	
+gap	 	
+word	a	
+gap	 	
+word	few	
+gap	 	
+word	of	
+gap	 	
+word	them	
+gap	. 	
+word	Together	
+gap	, 	
+word	they	
+gap	 	
+word	provide	
+gap	 	
+word	free	
+gap	 	
+word	and	
+gap	 	
+word	open	
+gap	 	
+word	access	
+gap	 	
+word	to	
+gap	 	
+word	biodiversity	
+gap	 	
+word	data	
+gap	 	
+word	for	
+gap	 	
+word	society	
+gap	, 	
+word	scientists	
+gap	 	
+word	and	
+gap	 	
+word	policy	
+gap	 	
+word	makers	
+gap	, 	
+word	corresponding	
+gap	 	
+word	for	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 40 	
+word	terabytes	
+gap	 	
+word	of	
+gap	 	
+word	information	
+gap	, 20 	
+word	million	
+gap	 	
+word	exsiccate	
+gap	 	
+word	images	
+gap	, 125 	
+word	national	
+gap	 	
+word	and	
+gap	 	
+word	international	
+gap	 	
+word	participating	
+gap	 	
+word	herbariums	
+gap	 	
+word	and	
+gap	 486 	
+word	dataset	
+gap	 	
+word	providers	
+gap	.\n	
+word	The	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	we	
+gap	 	
+word	live	
+gap	 	
+word	in	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	biodiverse	
+gap	 	
+word	countries	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	planet	
+gap	 	
+word	is	
+gap	 	
+word	already	
+gap	 	
+word	familiar	
+gap	. 	
+word	According	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	Flora	
+gap	 	
+word	do	
+gap	 	
+word	Brasil	
+gap	 	
+word	project	
+gap	 (2019), 	
+word	Brazil	
+gap	 	
+word	accounts	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	quarter	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	worlds	
+gap	 	
+word	plants	
+gap	 	
+word	species	
+gap	, 	
+word	of	
+gap	 	
+word	which	
+gap	 	
+word	about	
+gap	 55% 	
+word	only	
+gap	 	
+word	exists	
+gap	 	
+word	in	
+gap	 	
+word	here	
+gap	. 	
+word	Moreover	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	estimated	
+gap	 5.1 	
+word	million	
+gap	 	
+word	fungi	
+gap	 	
+word	species	
+gap	, 	
+word	yet	
+gap	, 	
+word	only	
+gap	 70.000 	
+word	are	
+gap	 	
+word	described	
+gap	 	
+word	by	
+gap	 	
+word	science	
+gap	 (	
+word	Blackwell	
+gap	, 2011). 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	estimated	
+gap	 	
+word	that	
+gap	 	
+word	an	
+gap	 	
+word	extensive	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	global	
+gap	 	
+word	biodiversity	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	forever	
+gap	 	
+word	destroyed	
+gap	 	
+word	even	
+gap	 	
+word	before	
+gap	 	
+word	been	
+gap	 	
+word	ever	
+gap	 	
+word	known	
+gap	 	
+word	by	
+gap	 	
+word	science	
+gap	, 	
+word	and	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	already	
+gap	 	
+word	present	
+gap	 	
+word	issue	
+gap	 (	
+word	Maia	
+gap	, 2017). 	
+word	The	
+gap	 	
+word	so	
+gap	-	
+word	called	
+gap	 	
+word	sixth	
+gap	 	
+word	global	
+gap	 	
+word	mass	
+gap	 	
+word	extinction	
+gap	 	
+word	event	
+gap	 (	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	demographic	
+gap	 	
+word	human	
+gap	 	
+word	growth	
+gap	 	
+word	and	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	planet	
+gap	 	
+word	resources	
+gap	) 	
+word	may	
+gap	 	
+word	also	
+gap	 	
+word	lead	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	coextinction	
+gap	 	
+word	of	
+gap	 	
+word	traditional	
+gap	 	
+word	knowledge	
+gap	, 	
+word	and	
+gap	 	
+word	certainly	
+gap	, 	
+word	to	
+gap	 	
+word	all	
+gap	 	
+word	technological	
+gap	 	
+word	and	
+gap	 	
+word	medicinal	
+gap	 	
+word	potential	
+gap	 	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	species	
+gap	 	
+word	entities	
+gap	 	
+word	and	
+gap	 	
+word	their	
+gap	 	
+word	genes	
+gap	, 	
+word	that	
+gap	, 	
+word	without	
+gap	 	
+word	mentioning	
+gap	 	
+word	the	
+gap	 	
+word	intrinsic	
+gap	 	
+word	biodiversity	
+gap	, 	
+word	biological	
+gap	 	
+word	and	
+gap	 	
+word	ecosystemic	
+gap	 	
+word	value	
+gap	. \n	
+word	As	
+gap	 	
+word	already	
+gap	 	
+word	mentioned	
+gap	, 	
+word	biodiversity	
+gap	 	
+word	implies	
+gap	 	
+word	in	
+gap	 	
+word	many	
+gap	 	
+word	cultural	
+gap	 	
+word	and	
+gap	 	
+word	economic	
+gap	 	
+word	important	
+gap	 	
+word	aspects	
+gap	 	
+word	of	
+gap	 	
+word	our	
+gap	 	
+word	society	
+gap	, 	
+word	for	
+gap	 	
+word	instance	
+gap	, 	
+word	biodiversity	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	multibillionaire	
+gap	 	
+word	global	
+gap	 	
+word	market	
+gap	, 	
+word	although	
+gap	 	
+word	the	
+gap	 	
+word	costs	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	correct	
+gap	 	
+word	conservation	
+gap	 	
+word	could	
+gap	 	
+word	surpass	
+gap	     	
+word	U	
+gap	.	
+word	S	
+gap	.$ 76 	
+word	billion	
+gap	 (	
+word	McCarthy	
+gap	, 2012). 	
+word	Culturally	
+gap	, 	
+word	every	
+gap	 	
+word	traditional	
+gap	 	
+word	population	
+gap	, 	
+word	to	
+gap	 	
+word	ancient	
+gap	 	
+word	until	
+gap	 	
+word	modern	
+gap	 	
+word	times	
+gap	, 	
+word	relies	
+gap	 	
+word	upon	
+gap	 	
+word	local	
+gap	 	
+word	biodiversity	
+gap	 	
+word	to	
+gap	 	
+word	sustain	
+gap	 	
+word	its	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	life	
+gap	, 	
+word	a	
+gap	 	
+word	very	
+gap	 	
+word	conservative	
+gap	 	
+word	estimative	
+gap	 	
+word	suggest	
+gap	 	
+word	that	
+gap	 	
+word	each	
+gap	 	
+word	dollar	
+gap	 	
+word	invested	
+gap	 	
+word	in	
+gap	 	
+word	conservation	
+gap	 	
+word	returns	
+gap	 	
+word	seven	
+gap	 	
+word	dollars	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	economy	
+gap	 (	
+word	Souza	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. 2017), 	
+word	therefore	
+gap	, 	
+word	conservation	
+gap	 	
+word	and	
+gap	 	
+word	comprehension	
+gap	 	
+word	of	
+gap	 	
+word	biodiversity	
+gap	 	
+word	is	
+gap	 	
+word	essential	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	responsible	
+gap	 	
+word	and	
+gap	 	
+word	sustainable	
+gap	 	
+word	human	
+gap	 	
+word	development	
+gap	 	
+word	for	
+gap	 	
+word	future	
+gap	 	
+word	and	
+gap	 	
+word	present	
+gap	 	
+word	generations	
+gap	.\n	
+word	Improving	
+gap	 	
+word	species	
+gap	 	
+word	and	
+gap	 	
+word	natural	
+gap	 	
+word	resources	
+gap	 	
+word	conservation	
+gap	 	
+word	and	
+gap	 	
+word	sustainable	
+gap	 	
+word	economic	
+gap	 	
+word	development	
+gap	, 	
+word	is	
+gap	 	
+word	already	
+gap	 	
+word	a	
+gap	 	
+word	big	
+gap	 	
+word	task	
+gap	 	
+word	by	
+gap	 	
+word	itself	
+gap	, 	
+word	however	
+gap	, 	
+word	to	
+gap	 	
+word	do	
+gap	 	
+word	so	
+gap	, 	
+word	we	
+gap	 	
+word	must	
+gap	 	
+word	properly	
+gap	 	
+word	access	
+gap	 	
+word	our	
+gap	 	
+word	biodiversity	
+gap	 	
+word	in	
+gap	 	
+word	collaborative	
+gap	 	
+word	ways	
+gap	. 	
+word	In	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	solve	
+gap	 	
+word	this	
+gap	 	
+word	knowledge	
+gap	-	
+word	gap	
+gap	 	
+word	problem	
+gap	, 	
+word	investments	
+gap	 	
+word	on	
+gap	 	
+word	basic	
+gap	 	
+word	science	
+gap	, 	
+word	infrastructure	
+gap	 	
+word	and	
+gap	 	
+word	human	
+gap	 	
+word	resources	
+gap	 	
+word	formation	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	made	
+gap	, 	
+word	nevertheless	
+gap	, 	
+word	the	
+gap	 	
+word	Brazilian	
+gap	 	
+word	Science	
+gap	 	
+word	budget	
+gap	 	
+word	is	
+gap	 	
+word	now	
+gap	 	
+word	at	
+gap	 	
+word	its	
+gap	 	
+word	lowest	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 12-	
+word	year	
+gap	 	
+word	history	
+gap	 	
+word	record	
+gap	, 	
+word	in	
+gap	 2019, 	
+word	the	
+gap	 	
+word	Ministry	
+gap	 	
+word	of	
+gap	 	
+word	Science	
+gap	, 	
+word	Technology	
+gap	, 	
+word	Innovations	
+gap	 	
+word	and	
+gap	 	
+word	Communications	
+gap	 (	
+word	MCTIC	
+gap	) 	
+word	is	
+gap	 	
+word	facing	
+gap	 	
+word	a	
+gap	 	
+word	catastrophic	
+gap	 42% 	
+word	halt	
+gap	 	
+word	in	
+gap	 	
+word	budget	
+gap	 	
+word	whilst	
+gap	 	
+word	public	
+gap	 	
+word	universities	
+gap	 	
+word	are	
+gap	 	
+word	also	
+gap	 	
+word	under	
+gap	 	
+word	threat	
+gap	. 	
+word	Undoubtedly	
+gap	, 	
+word	Brazil	
+gap	 	
+word	is	
+gap	 	
+word	losing	
+gap	 	
+word	biodiversity	
+gap	 	
+word	and	
+gap	 	
+word	economic	
+gap	 	
+word	potential	
+gap	 	
+word	that	
+gap	 	
+word	will	
+gap	 	
+word	possibly	
+gap	 	
+word	never	
+gap	 	
+word	be	
+gap	 	
+word	recovered	
+gap	.\n\n<REFERENCES>	

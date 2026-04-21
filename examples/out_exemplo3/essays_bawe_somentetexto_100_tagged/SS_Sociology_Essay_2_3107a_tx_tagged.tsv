@@ -1,856 +1,1428 @@
 # filename: SS_Sociology_Essay_2_3107a_tx.txt
-token	tags
-What	CAP WH
-is	VPRT AUXB
-perhaps	RB
-most	RB EMPH SPADJ
-interesting	JJ
-about	PIN PREP
-the	ART DET
-responses	NN
-that	TOBJ WHOBJ WH
-I	FPP1 CAP PRP SBJP
-received	VBD
-during	PIN PREP
-a	ART DET INDA
-pair	NN
-of	PIN PREP
-loosely	RB
-structured	JJ
-interviews	NN
-exploring	WZPRES PGAS
-gender	NN
-,	
-is	BEMA VPRT AUXB
-the	ART DET
-extent	NN
-to	PIN PREP
-which	PIRE DET WH
-certain	JJ
-'	CONT QUOT
-common	JJ
-sense	PRIV NN
-'	CONT QUOT
-opinions	NN
-about	PIN PREP
-differences	NN
-between	PIN PREP
-men	NN
-and	PHC CCONJ
-women	NN
-appeared	VBD SMP
-to	PIN PREP
-the	ART DET
-two	NUM
-participants	NN
-to	PIN TO PREP
-be	AUXB INF
-self	NN
--	
-evident	JJ
-and	CCONJ
-almost	DWNT RB
-incontestable	JJ
-.	
-For	PIN CAP PREP
-both	DET
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-,	
-the	ART DET
-web	NN
-of	PIN PREP
-assumptions	NOMZ
-and	PHC CCONJ
-behaviours	NN
-that	TSUB WHSUB WH
-constitute	VPRT
-their	TPP3 PRP SBJP
-gendered	
-lives	NN
-seemed	VBD SMP
-so	RB EMPH
-natural	JJ
-that	PIN THAC SCONJ PREP
-they	TPP3 PRP SBJP
-were	BEMA VBD AUXB
-quite	RB
-dismissive	JJ
-of	PIN PREP
-the	ART DET
-whole	JJ
-gender	NN
-debate	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-clearly	RB
-a	ART DET INDA
-politicized	JJ
-area	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-essay	NN
-I	FPP1 CAP PRP SBJP
-will	PRMD
-reflect	PRIV INF
-on	PIN PREP
-my	FPP1 PRP SBJP
-participants	NN
-'	CONT QUOT
-thoughts	NN
-,	
-and	ANDC CCONJ
-attempt	INF
-to	PIN TO PREP
-relate	INF
-them	TPP3 PRP SBJP ACCU
-to	PIN PREP
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-key	JJ
-theoretical	JJ
-perspectives	NN
-.	
-In	PIN CONJ CAP PREP
-an	ART DET INDA
-echo	NN
-of	PIN PREP
-the	ART DET
-dichotomy	NN
-which	WHOBJ DET WH
-Freedman	CAP NNP
-describes	VPRT
-as	PIN CONJ STPR PREP
-'	CONT QUOT
-central	JJ
-to	PIN PREP
-feminist	JJ
-analysis	NN
-'	CONT QUOT
-(	
-2001	NUM
-:	
-8)	NNP
-,	
-Anna	CAP NNP
-,	
-my	FPP1 PRP SBJP
-female	JJ
-participant	NN
-,	
-stated	VBD PUBV
-stridently	RB
-early	RB TIME
-on	RB PIN PREP
-in	PIN CONJ PREP
-our	FPP1 PRP SBJP
-interview	NN
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-men	NN
-and	PHC CCONJ
-women	NN
-are	BEMA VPRT AUXB
-fundamentally	RB
-different	JJ
--	
-I	FPP1 CAP PRP SBJP
-stress	VPRT
-the	ART DET
-word	NN
-different	JJ
-,	
-not	XX0 RB
-unequal	JJ
-"	QUOT
-.	
-Her	TPP3 CAP PRP SBJP
-world	NN
-is	BEMA VPRT AUXB
-somewhat	DWNT RB
-binary	JJ
-:	
-men	NN
-are	VPRT AUXB
-characteristically	RB
-more	RB EMPH CMADJ
-instrumental	JJ
-and	PHC CCONJ
-aggressive	JJ
-than	PIN PREP
-women	NN
-,	
-and	ANDC CCONJ
-can	POMD
-usually	RB
-"	QUOT
-read	INF
-maps	NN
-"	QUOT
-;	
-women	NN
-have	VPRT
-more	RB EMPH CMADJ
-intuitive	JJ
-,	
-emotional	JJ
-traits	NN
-which	WHSUB DET WH
-make	VPRT
-them	TPP3 PRP SBJP ACCU
-"	QUOT
-tuned	PASTP
-in	PIN CONJ PREP
-to	PIN PREP
-people	NN
-'s	
-feelings	NN
-"	QUOT
-.	
-Despite	PIN CAP SCONJ PREP
-this	DEMO DET
-separation	NOMZ
-into	PIN PREP
-distinct	JJ
-spheres	NN
-,	
-Anna	CAP NNP
-does	VPRT SPAU
-not	XX0 RB
-acknowledge	PUBV THATD INF
-a	ART DET INDA
-resultant	JJ
-inequality	NOMZ
-affecting	WZPRES PGAS
-her	TPP3 PRP SBJP
-everyday	JJ
-life	NN
-,	
-perhaps	RB
-because	CAUS PIN SCONJ PREP
-it	PIT PRP SBJP
-appears	VPRT SMP
-that	PIN THVC SCONJ PREP
-she	TPP3 PRP SBJP
-sees	VPRT PRIV
-the	ART DET
-boundaries	NN
-between	PIN PREP
-male	JJ
-and	PHC CCONJ
-female	JJ
-behaviour	NN
-as	PIN CONJ PREP
-permeable	JJ
-,	
-even	RB
-if	COND PIN SCONJ PREP
-this	DEMP DET
-is	PASS VPRT AUXB
-done	PROD
-with	PIN PREP
-a	ART DET INDA
-struggle	NN
-.	
-This	DEMP CAP DET
-was	PASS VBD AUXB
-made	
-clear	JJ
-when	RB SCONJ WH
-she	TPP3 PRP SBJP
-recounted	VBD
-a	ART DET INDA
-time	NN
-when	RB WHOBJ SCONJ WH
-she	TPP3 PRP SBJP
-was	VBD AUXB
-competing	PGAS
-with	PIN PREP
-men	NN
-at	PIN PREP
-a	ART DET INDA
-local	JJ
-karate	NN
-club	NN
--	
-a	ART DET INDA
-very	AMP RB
-male	NN
--	
-dominated	
-environment	NOMZ
-.	
-She	TPP3 CAP PRP SBJP
-admitted	VBD PUBV THATD
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-I	FPP1 CAP PRP SBJP
-had	VBD
-to	PIN TO PREP
-be	BEMA AUXB INF
-ultra	JJ
--	JJ
-aggressive	JJ
-and	CCONJ
-the	ART DET
-first	JJ
-to	PIN TO PREP
-volunteer	NN
-...	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-be	PASS AUXB INF
-taken	
-seriously	RB
-and	CCONJ
-given	
-respect	NN
-"	QUOT
-.	
-Anna	CAP NNP
-'s	
-interpretation	NOMZ
-of	PIN PREP
-the	ART DET
-cause	NN
-of	PIN PREP
-what	WH
-Connell	CAP NNP
-has	VPRT PEAS
-referred	
-to	PIN PREP
-as	PIN CONJ PREP
-this	DEMP DET
-'	CONT QUOT
-character	NN
-dichotomy	NN
-'	CONT QUOT
-(	
-2002	NUM
-:	
-40	NUM
-)	
-in	PIN CONJ PREP
-gender	NN
-is	BEMA VPRT AUXB
-emphatically	RB
-sociobiological	JJ
-.	
-"	QUOT
-Society	CAP NNP
-is	VPRT AUXB
-changing	PGAS
-"	QUOT
-,	
-she	TPP3 PRP SBJP
-claims	VPRT PUBV
-,	
-"	QUOT
-and	ANDC CCONJ
-faster	RB CMADJ
-than	PIN PREP
-the	ART DET
-50,000	NUM
-years	NN
-or	CCONJ
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-took	VBD
-for	PIN PREP
-women	NN
-to	PIN TO PREP
-evolve	INF
-to	PIN TO PREP
-tend	INF
-the	ART DET
-campfires	NN
-,	
-cook	NN
-,	
-clean	JJ
-and	CCONJ
-raise	INF
-babies	NN
-...	
-[	X
-while	OSUB PIN STPR SCONJ PREP
-]	
-men	NN
-hunted	VBD
-"	QUOT
-.	
-Sociobiology	NN CAP
-seeks	VPRT
-to	PIN TO PREP
-reduce	INF
-gender	NN
-practices	NN
-to	PIN PREP
-the	ART DET
-evolutionary	JJ
-imperatives	NN
-of	PIN PREP
-natural	JJ
-selection	NOMZ
-.	
-Men	NN CAP
-'s	
-and	CCONJ
-women	NN
-'s	
-various	JJ
-ways	NN
-of	PIN PREP
-behaving	PGAS
-become	
-entrenched	JJ
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-direct	JJ
-or	CCONJ
-indirect	JJ
-reproductive	JJ
-advantage	NN
-they	TPP3 PRP SBJP
-provide	VPRT
-,	
-thus	RB CONJ
-women	NN
-develop	VPRT
-an	ART DET INDA
-instinct	NN
-for	PIN PREP
-nurturing	PGAS
-and	CCONJ
-men	NN
-are	BEMA VPRT AUXB
-sexually	RB
-promiscuous	JJ
-to	PIN TO PREP
-provide	INF
-the	ART DET
-best	JJ SPADJ
-chances	NN
-for	PIN PREP
-their	TPP3 PRP SBJP
-genetic	JJ
-survival	NN
-(	
-Connell	CAP NNP
-,	
-2002	NUM
-:	
-31	NUM
-)	
-.	
-Although	CONC PIN CAP SCONJ PREP
-these	DEMO DET
-concepts	NN
-have	VPRT
-a	ART DET INDA
-seductive	JJ
-simplicity	NOMZ
-which	WHSUB DET WH
-may	POMD
-have	PEAS INF
-driven	
-their	TPP3 PRP SBJP
-popularization	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-media	NN
-and	CCONJ
-'	CONT QUOT
-pop	NN
-psychology	NN
-'	CONT QUOT
-literature	NN
-of	PIN PREP
-the	ART DET
-1990s	NN
-,	
-(	
-ibid	INF
-.	
-:	
-31	NUM
-)	
-they	TPP3 PRP SBJP
-can	POMD
-be	PASS AUXB INF
-criticized	
-on	PIN PREP
-several	QUAN JJ
-fronts	NN
-.	
-Crucially	RB CAP
-,	
-the	ART DET
-arguments	NOMZ
-are	BEMA VPRT AUXB
-biologically	RB
-deterministic	JJ
-,	
-and	ANDC CCONJ
-do	VPRT SPAU
-not	XX0 RB
-account	INF
-satisfactorily	RB
-for	PIN PREP
-transgressions	NOMZ
-or	CCONJ
-rejections	NOMZ
-of	PIN PREP
-gendered	
-behaviour	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-Anna	CAP NNP
-'s	
-displays	NN
-of	PIN PREP
-aggression	NOMZ
-in	PIN CONJ PREP
-sport	NN
-.	
-Peter	CAP NNP
-'s	
-view	NN
-of	PIN PREP
-gender	NN
-relates	VPRT
-to	PIN PREP
-a	ART DET INDA
-different	JJ
-tradition	NOMZ
-within	PIN PREP
-sociology	NN
-:	
-functionalism	NN
-.	
-Growing	CAP PGAS
-up	PIN PREP
-in	PIN CONJ PREP
-the	ART DET
-1950s	NN
-,	
-he	TPP3 PRP SBJP
-saw	VBD PRIV THATD
-gender	NN
-expressed	WZPAST
-in	PIN CONJ PREP
-quite	RB
-different	JJ
-ways	NN
-to	PIN PREP
-Anna	CAP NNP
-.	
-For	PIN CAP PREP
-him	TPP3 PRP SBJP ACCU
-,	
-little	JJ
-movement	NOMZ
-was	BEMA VBD AUXB
-possible	JJ PRED
-or	CCONJ
-desirable	JJ
-between	PIN STPR PREP
-"	QUOT
-men	NN
-'s	
-work	NN
-and	PHC CCONJ
-women	NN
-'s	
-work	NN
-"	QUOT
-;	
-and	ANDC CCONJ
-transgression	NOMZ
-was	BEMA VBD AUXB
-almost	DWNT RB
-unknown	JJ
-.	
-While	OSUB PIN CAP SCONJ PREP
-his	TPP3 PRP SBJP
-mother	NN
-stayed	VBD
-at	PIN PREP
-home	NN
-raising	WZPRES PGAS
-the	ART DET
-children	NN
-,	
-his	TPP3 PRP SBJP
-father	NN
-laboured	VBD
-as	PIN CONJ PREP
-a	ART DET INDA
-carpenter	NN
-.	
-"	QUOT
-Everyone	QUPR INPR CAP
-seemed	VBD SMP
-surer	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-place	NN
-in	PIN CONJ PREP
-society	NN
-then	RB
-,	
-I	FPP1 CAP PRP SBJP
-suppose	VPRT PRIV
-"	QUOT
-,	
-he	TPP3 PRP SBJP
-commented	VBD PUBV
-,	
-going	PGAS
-on	PIN PREP
-to	PIN TO PREP
-explain	PUBV INF
-that	PIN THVC SCONJ PREP
-although	CONC PIN SCONJ PREP
-women	NN
-might	POMD
-have	PEAS INF
-had	
-few	QUAN JJ
-opportunities	NN
-to	PIN TO PREP
-work	INF
-outside	PIN PLACE PREP
-the	ART DET
-home	NN
-,	
-they	TPP3 PRP SBJP
-were	VBD AUXB
-"	QUOT
-given	
-more	JJ EMPH CMADJ
-respect	NN
--	
-you	SPP2 PRP SBJP
-would	PRMD SPAU
-always	RB
-give	INF
-up	PIN PREP
-your	SPP2 PRP SBJP
-seat	NN
-for	PIN PREP
-a	ART DET INDA
-lady	NN
-[	X
-on	PIN PREP
-public	JJ
-transport	NN
-]	
-"	QUOT
-.	
-He	TPP3 CAP PRP SBJP
-misses	VPRT
-this	DEMP DET
-.	
-Insomuch	OSUB NN CAP
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-thinks	VPRT PRIV
-about	PIN PREP
-gender	NN
-at	RB PIN PREP
-all	QUAN RB
-,	
-Peter	CAP NNP
-feels	VPRT PRIV
-that	PIN THVC SCONJ PREP
-these	DEMP DET
-defined	
-sex	NN
-roles	NN
-underpinned	VBD
-the	ART DET
-way	NN
-families	NN
-worked	VBD
-,	
-and	ANDC CCONJ
-lays	VPRT
-some	QUAN DET
-of	PIN PREP
-the	ART DET
-blame	NN
-for	PIN PREP
-a	ART DET INDA
-more	RB EMPH CMADJ
-atomized	
-society	NN
-in	PIN CONJ PREP
-the	ART DET
-decline	NN
-of	PIN PREP
-this	DEMO DET
-stability	NOMZ
-:	
-"	QUOT
-you	SPP2 PRP SBJP
-knew	VBD PRIV
-where	RB WHCL SCONJ WH
-you	SPP2 PRP SBJP
-were	VBD AUXB
-[	X
-and	CCONJ
-]	X
-there	EX
-was	VBD AUXB
-more	JJ PRED EMPH CMADJ
-a	ART DET INDA
-path	NN
-through	PIN PREP
-life	NN
-set	WZPAST
-out	PIN PREP
-before	PIN PREP
-you	SPP2 PRP SBJP
-...	
-it	PIT PRP SBJP
-'s	VPRT
-less	RB CMADJ
-clear	JJ
-now	RB TIME
-"	QUOT
-.	
-Functionalism	NN CAP
-would	PRMD
-attempt	INF
-to	PIN TO PREP
-explain	PUBV INF
-this	DEMO DET
-situation	NOMZ
-by	PIN PREP
-looking	PGAS
-at	PIN PREP
-the	ART DET
-way	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-fairly	RB
-fixed	
-'	CONT QUOT
-sex	NN
-roles	NN
-'	CONT QUOT
-contribute	NN
-to	PIN PREP
-the	ART DET
-stable	JJ
-functioning	GER
-of	PIN PREP
-other	JJ
-institutions	NOMZ
-in	PIN CONJ PREP
-society	NN
-,	
-such	JJ
-as	PIN CONJ PREP
-women	NN
-'s	
-unpaid	JJ
-household	NN
-labour	NN
-supporting	GER WZPRES PGAS
-male	NN
-paid	
-labour	NN
-(	
-Connell	CAP NNP
-,	
-2002	NUM
-:	
-123	NUM
--	
-4	NUM
-)	
-.	
-This	DEMO CAP DET
-in	PIN CONJ PREP
-turn	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-fairly	RB
-static	JJ
-view	NN
-of	PIN PREP
-society	NN
-which	WHSUB DET WH
-does	VPRT SPAU
-not	XX0 RB
-go	INF
-far	RB PLACE
-towards	PIN PREP
-explaining	GER PUBV PGAS
-clear	JJ
-changes	NN
-in	PIN CONJ PREP
-these	DEMO DET
-roles	NN
-over	PIN PREP
-the	ART DET
-past	JJ
-40	NUM
-years	NN
-.	
-Both	CAP DET
-participants	NN
-'	CONT QUOT
-constructions	NOMZ
-of	PIN PREP
-their	TPP3 PRP SBJP
-gender	NN
-identity	NOMZ
-go	INF
-some	QUAN DET
-way	NN
-towards	PIN PREP
-an	ART DET INDA
-explanation	NOMZ
-.	
-My	FPP1 CAP PRP SBJP
-concluding	GER PRIV THATD
-thought	PRIV NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-despite	PIN SCONJ PREP
-these	DEMO DET
-ideas	NN
-being	BEMA WZPRES AUXB
-deeply	RB
-ingrained	JJ
-,	
-they	TPP3 PRP SBJP
-are	PASS VPRT SPAU AUXB
-seldom	RB
-actually	RB
-reconsidered	
-or	CCONJ
-tested	
-,	
-and	ANDC CCONJ
-embody	INF
-a	ART DET INDA
-tacit	JJ
-acceptance	NN
-of	PIN PREP
-inequality	NOMZ
-between	PIN PREP
-men	NN
-and	PHC CCONJ
-women	NN
-.	
+type	content	tags
+word	What	CAP WH
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	perhaps	RB
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	interesting	JJ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	responses	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	received	VBD
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	pair	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	loosely	RB
+gap	 	
+word	structured	JJ
+gap	 	
+word	interviews	NN
+gap	 	
+word	exploring	WZPRES PGAS
+gap	 	
+word	gender	NN
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	extent	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	certain	JJ
+gap	 '	
+word	common	JJ
+gap	 	
+word	sense	PRIV NN
+gap	' 	
+word	opinions	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	differences	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	men	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	women	NN
+gap	 	
+word	appeared	VBD SMP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	participants	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	self	NN
+gap	-	
+word	evident	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	almost	DWNT RB
+gap	 	
+word	incontestable	JJ
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	both	DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	, 	
+word	the	ART DET
+gap	 	
+word	web	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	assumptions	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	behaviours	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	constitute	VPRT
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	gendered	
+gap	 	
+word	lives	NN
+gap	 	
+word	seemed	VBD SMP
+gap	 	
+word	so	RB EMPH
+gap	 	
+word	natural	JJ
+gap	 	
+word	that	PIN THAC SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	quite	RB
+gap	 	
+word	dismissive	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	whole	JJ
+gap	 	
+word	gender	NN
+gap	 	
+word	debate	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	clearly	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	politicized	JJ
+gap	 	
+word	area	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	reflect	PRIV INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	participants	NN
+gap	' 	
+word	thoughts	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	attempt	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	relate	INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	key	JJ
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	perspectives	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	echo	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	dichotomy	NN
+gap	 	
+word	which	WHOBJ DET WH
+gap	 	
+word	Freedman	CAP NNP
+gap	 	
+word	describes	VPRT
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	 '	
+word	central	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	feminist	JJ
+gap	 	
+word	analysis	NN
+gap	' (2001: 8), 	
+word	Anna	CAP NNP
+gap	, 	
+word	my	FPP1 PRP SBJP
+gap	 	
+word	female	JJ
+gap	 	
+word	participant	NN
+gap	, 	
+word	stated	VBD PUBV
+gap	 	
+word	stridently	RB
+gap	 	
+word	early	RB TIME
+gap	 	
+word	on	RB PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	interview	NN
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 "	
+word	men	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	women	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	fundamentally	RB
+gap	 	
+word	different	JJ
+gap	 - 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	stress	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	word	NN
+gap	 	
+word	different	JJ
+gap	, 	
+word	not	XX0 RB
+gap	 	
+word	unequal	JJ
+gap	". 	
+word	Her	TPP3 CAP PRP SBJP
+gap	 	
+word	world	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	somewhat	DWNT RB
+gap	 	
+word	binary	JJ
+gap	: 	
+word	men	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	characteristically	RB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	instrumental	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	aggressive	JJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	women	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	can	POMD
+gap	 	
+word	usually	RB
+gap	 "	
+word	read	INF
+gap	 	
+word	maps	NN
+gap	"; 	
+word	women	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	intuitive	JJ
+gap	, 	
+word	emotional	JJ
+gap	 	
+word	traits	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	make	VPRT
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 "	
+word	tuned	PASTP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	people	NN
+gap	'	
+word	s	
+gap	 	
+word	feelings	NN
+gap	". 	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	separation	NOMZ
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	distinct	JJ
+gap	 	
+word	spheres	NN
+gap	, 	
+word	Anna	CAP NNP
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	acknowledge	PUBV THATD INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	resultant	JJ
+gap	 	
+word	inequality	NOMZ
+gap	 	
+word	affecting	WZPRES PGAS
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	everyday	JJ
+gap	 	
+word	life	NN
+gap	, 	
+word	perhaps	RB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	sees	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	boundaries	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	male	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	female	JJ
+gap	 	
+word	behaviour	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	permeable	JJ
+gap	, 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	done	PROD
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	struggle	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	made	
+gap	 	
+word	clear	JJ
+gap	 	
+word	when	RB SCONJ WH
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	recounted	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	time	NN
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	competing	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	men	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	local	JJ
+gap	 	
+word	karate	NN
+gap	 	
+word	club	NN
+gap	 - 	
+word	a	ART DET INDA
+gap	 	
+word	very	AMP RB
+gap	 	
+word	male	NN
+gap	-	
+word	dominated	
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	She	TPP3 CAP PRP SBJP
+gap	 	
+word	admitted	VBD PUBV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	 "	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	had	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	ultra	JJ
+gap	-	
+word	aggressive	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	volunteer	NN
+gap	... 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	taken	
+gap	 	
+word	seriously	RB
+gap	 	
+word	and	CCONJ
+gap	 	
+word	given	
+gap	 	
+word	respect	NN
+gap	". 	
+word	Anna	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	interpretation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	cause	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	what	WH
+gap	 	
+word	Connell	CAP NNP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	referred	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 '	
+word	character	NN
+gap	 	
+word	dichotomy	NN
+gap	' (2002: 40) 	
+word	in	PIN CONJ PREP
+gap	 	
+word	gender	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	emphatically	RB
+gap	 	
+word	sociobiological	JJ
+gap	. "	
+word	Society	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	changing	PGAS
+gap	", 	
+word	she	TPP3 PRP SBJP
+gap	 	
+word	claims	VPRT PUBV
+gap	, "	
+word	and	ANDC CCONJ
+gap	 	
+word	faster	RB CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 50,000 	
+word	years	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	so	OSUB PIN SCONJ PREP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	took	VBD
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	women	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	evolve	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tend	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	campfires	NN
+gap	, 	
+word	cook	NN
+gap	, 	
+word	clean	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	raise	INF
+gap	 	
+word	babies	NN
+gap	... [	
+word	while	OSUB PIN STPR SCONJ PREP
+gap	] 	
+word	men	NN
+gap	 	
+word	hunted	VBD
+gap	". 	
+word	Sociobiology	NN CAP
+gap	 	
+word	seeks	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	gender	NN
+gap	 	
+word	practices	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	evolutionary	JJ
+gap	 	
+word	imperatives	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	natural	JJ
+gap	 	
+word	selection	NOMZ
+gap	. 	
+word	Men	NN CAP
+gap	'	
+word	s	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	women	NN
+gap	'	
+word	s	
+gap	 	
+word	various	JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	behaving	PGAS
+gap	 	
+word	become	
+gap	 	
+word	entrenched	JJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	direct	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	indirect	JJ
+gap	 	
+word	reproductive	JJ
+gap	 	
+word	advantage	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	provide	VPRT
+gap	, 	
+word	thus	RB CONJ
+gap	 	
+word	women	NN
+gap	 	
+word	develop	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	instinct	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	nurturing	PGAS
+gap	 	
+word	and	CCONJ
+gap	 	
+word	men	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	sexually	RB
+gap	 	
+word	promiscuous	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	chances	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	genetic	JJ
+gap	 	
+word	survival	NN
+gap	 (	
+word	Connell	CAP NNP
+gap	, 2002: 31). 	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	concepts	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	seductive	JJ
+gap	 	
+word	simplicity	NOMZ
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	may	POMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	driven	
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	popularization	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	media	NN
+gap	 	
+word	and	CCONJ
+gap	 '	
+word	pop	NN
+gap	 	
+word	psychology	NN
+gap	' 	
+word	literature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 1990	
+word	s	NN
+gap	, (	
+word	ibid	INF
+gap	.: 31) 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	criticized	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	fronts	NN
+gap	. 	
+word	Crucially	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	arguments	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	biologically	RB
+gap	 	
+word	deterministic	JJ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	account	INF
+gap	 	
+word	satisfactorily	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	transgressions	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	rejections	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gendered	
+gap	 	
+word	behaviour	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Anna	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	displays	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	aggression	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	sport	NN
+gap	. 	
+word	Peter	CAP NNP
+gap	'	
+word	s	
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	gender	NN
+gap	 	
+word	relates	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	different	JJ
+gap	 	
+word	tradition	NOMZ
+gap	 	
+word	within	PIN PREP
+gap	 	
+word	sociology	NN
+gap	: 	
+word	functionalism	NN
+gap	. 	
+word	Growing	CAP PGAS
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 1950	
+word	s	NN
+gap	, 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	saw	VBD PRIV THATD
+gap	 	
+word	gender	NN
+gap	 	
+word	expressed	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	quite	RB
+gap	 	
+word	different	JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Anna	CAP NNP
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	, 	
+word	little	JJ
+gap	 	
+word	movement	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	or	CCONJ
+gap	 	
+word	desirable	JJ
+gap	 	
+word	between	PIN STPR PREP
+gap	 "	
+word	men	NN
+gap	'	
+word	s	
+gap	 	
+word	work	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	women	NN
+gap	'	
+word	s	
+gap	 	
+word	work	NN
+gap	"; 	
+word	and	ANDC CCONJ
+gap	 	
+word	transgression	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	almost	DWNT RB
+gap	 	
+word	unknown	JJ
+gap	. 	
+word	While	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	mother	NN
+gap	 	
+word	stayed	VBD
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	home	NN
+gap	 	
+word	raising	WZPRES PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	children	NN
+gap	, 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	father	NN
+gap	 	
+word	laboured	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	carpenter	NN
+gap	. "	
+word	Everyone	QUPR INPR CAP
+gap	 	
+word	seemed	VBD SMP
+gap	 	
+word	surer	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	place	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	society	NN
+gap	 	
+word	then	RB
+gap	, 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	suppose	VPRT PRIV
+gap	", 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	commented	VBD PUBV
+gap	, 	
+word	going	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	women	NN
+gap	 	
+word	might	POMD
+gap	 	
+word	have	PEAS INF
+gap	 	
+word	had	
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	opportunities	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	work	INF
+gap	 	
+word	outside	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	home	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	were	VBD AUXB
+gap	 "	
+word	given	
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	respect	NN
+gap	 - 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	always	RB
+gap	 	
+word	give	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	seat	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	lady	NN
+gap	 [	
+word	on	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	transport	NN
+gap	]". 	
+word	He	TPP3 CAP PRP SBJP
+gap	 	
+word	misses	VPRT
+gap	 	
+word	this	DEMP DET
+gap	. 	
+word	Insomuch	OSUB NN CAP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	he	TPP3 PRP SBJP
+gap	 	
+word	thinks	VPRT PRIV
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	gender	NN
+gap	 	
+word	at	RB PIN PREP
+gap	 	
+word	all	QUAN RB
+gap	, 	
+word	Peter	CAP NNP
+gap	 	
+word	feels	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	these	DEMP DET
+gap	 	
+word	defined	
+gap	 	
+word	sex	NN
+gap	 	
+word	roles	NN
+gap	 	
+word	underpinned	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	families	NN
+gap	 	
+word	worked	VBD
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	lays	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	blame	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	atomized	
+gap	 	
+word	society	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	decline	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	stability	NOMZ
+gap	: "	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	knew	VBD PRIV
+gap	 	
+word	where	RB WHCL SCONJ WH
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	were	VBD AUXB
+gap	 [	
+word	and	CCONJ
+gap	] 	
+word	there	EX
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	more	JJ PRED EMPH CMADJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	path	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	set	WZPAST
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	... 	
+word	it	PIT PRP SBJP
+gap	'	
+word	s	VPRT
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	clear	JJ
+gap	 	
+word	now	RB TIME
+gap	". 	
+word	Functionalism	NN CAP
+gap	 	
+word	would	PRMD
+gap	 	
+word	attempt	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	looking	PGAS
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	fairly	RB
+gap	 	
+word	fixed	
+gap	 '	
+word	sex	NN
+gap	 	
+word	roles	NN
+gap	' 	
+word	contribute	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stable	JJ
+gap	 	
+word	functioning	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	institutions	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	society	NN
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	women	NN
+gap	'	
+word	s	
+gap	 	
+word	unpaid	JJ
+gap	 	
+word	household	NN
+gap	 	
+word	labour	NN
+gap	 	
+word	supporting	GER WZPRES PGAS
+gap	 	
+word	male	NN
+gap	 	
+word	paid	
+gap	 	
+word	labour	NN
+gap	 (	
+word	Connell	CAP NNP
+gap	, 2002: 123-4). 	
+word	This	DEMO CAP DET
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	turn	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fairly	RB
+gap	 	
+word	static	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	society	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	go	INF
+gap	 	
+word	far	RB PLACE
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	explaining	GER PUBV PGAS
+gap	 	
+word	clear	JJ
+gap	 	
+word	changes	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	roles	NN
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	past	JJ
+gap	 40 	
+word	years	NN
+gap	. 	
+word	Both	CAP DET
+gap	 	
+word	participants	NN
+gap	' 	
+word	constructions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	gender	NN
+gap	 	
+word	identity	NOMZ
+gap	 	
+word	go	INF
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	way	NN
+gap	 	
+word	towards	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	explanation	NOMZ
+gap	. 	
+word	My	FPP1 CAP PRP SBJP
+gap	 	
+word	concluding	GER PRIV THATD
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	despite	PIN SCONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	ideas	NN
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	deeply	RB
+gap	 	
+word	ingrained	JJ
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	seldom	RB
+gap	 	
+word	actually	RB
+gap	 	
+word	reconsidered	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	tested	
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	embody	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	tacit	JJ
+gap	 	
+word	acceptance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	inequality	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	men	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	women	NN
+gap	.	

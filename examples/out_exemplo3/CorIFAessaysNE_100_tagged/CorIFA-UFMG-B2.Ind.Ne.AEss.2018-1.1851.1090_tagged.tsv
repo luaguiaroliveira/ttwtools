@@ -1,599 +1,1035 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1851.1090.txt
-token	tags
-  	
-As	PIN CONJ CAP PREP
-our	FPP1 PRP SBJP
-country	NN
-still	RB
-a	ART DET INDA
-democracy	NN
-,	
-Brazil	CAP NNP
-’s	
-population	NOMZ
-should	NEMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-position	INF
-about	PIN PREP
-important	JJ
-decisions	NOMZ
-such	JJ
-as	PIN CONJ PREP
-therapeutic	JJ
-potential	NN
-of	PIN PREP
-stem	NN
-cell	NN
-therapy	NN
-,	
-use	NN
-of	PIN PREP
-transgenic	JJ
-food	NN
-and	PHC CCONJ
-animal	NN
-models	NN
-at	PIN PREP
-laboratories	NN
-.	
-According	CAP PGAS
-to	PIN PREP
-OCDE	CAP NNP
-[	X
-1	NUM
-]	
-,	
-just	RB EMPH
-14	NUM
-%	NN
-of	PIN PREP
-Brazilians	CAP NNP
-were	PASS VBD AUXB
-graduated	
-in	PIN CONJ PREP
-2014	NUM
-and	CCONJ
-the	ART DET
-power	NN
-of	PIN PREP
-taking	PGAS
-supported	
-decisions	NOMZ
-with	PIN PREP
-reliable	JJ
-sources	NN
-and	PHC CCONJ
-information	NOMZ
-can	POMD
-be	PASS AUXB INF
-compromised	
-.	
- 	
-At	PIN CAP PREP
-this	DEMO DET
-scenario	NN
-,	
-scientists	NN
-should	NEMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-tackle	INF
-the	ART DET
-challenge	NN
-of	PIN PREP
-communication	NOMZ
-of	PIN PREP
-science	NN
-to	PIN PREP
-the	ART DET
-general	JJ
-public	NN
-and	CCONJ
-provide	INF
-skills	NN
-to	PIN PREP
-better	JJ CMADJ
-understanding	GER PRIV
-of	PIN PREP
-our	FPP1 PRP SBJP
-environment	NOMZ
-and	PHC CCONJ
-society	NN
-.	
- 	
-Although	CONC PIN CAP SCONJ PREP
-is	PASS VPRT AUXB
-expected	PRIV
-from	PIN PREP
-scientists	NN
-the	ART DET
-ability	NOMZ
-of	PIN PREP
-communication	NOMZ
-through	PIN PREP
-books	NN
-and	PHC CCONJ
-articles	NN
-and	CCONJ
-all	QUAN DET
-the	ART DET
-expertise	NN
-in	PIN CONJ PREP
-analytical	JJ
-skills	NN
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-research	NN
-methodologies	NN
-,	
-it	PIT PRP SBJP
-may	POMD
-be	BEMA AUXB INF
-difficult	JJ
-communicating	GER
-science	NN
-or	CCONJ
-a	ART DET INDA
-specific	JJ
-topic	NN
-to	PIN PREP
-a	ART DET INDA
-layperson	NN
-.	
-One	CAP NUM
-possible	JJ
-reason	PRIV NN
-for	PIN PREP
-this	DEMO DET
-impasse	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-people	NN
-often	RB
-can	POMD
-be	BEMA AUXB INF
-not	XX0 RB
-familiar	JJ
-with	PIN PREP
-specialized	JJ
-terms	NN
-and	PHC CCONJ
-data	NN
-analysis	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-in	PIN CONJ PREP
-Brazil	CAP NNP
-,	
-when	RB SCONJ WH
-students	NN
-left	VBD
-school	NN
-,	
-only	DWNT RB
-7,3	NUM
-%	NN
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-are	BEMA VPRT AUXB
-proficient	JJ PRED
-at	PIN PREP
-mathematics	NN
-.	
-The	ART CAP DET
-scenario	NN
-is	VPRT AUXB
-worst	JJ PRED SPADJ
-at	PIN PREP
-public	JJ
-schools	NN
-,	
-just	RB EMPH
-3,6	NUM
-%	NN
-have	VPRT
-satisfactory	JJ
-learning	PRIV NN THATD
-aims	NN
-achieved	WZPAST
-at	PIN PREP
-math	NN
-.	
-In	PIN CONJ CAP PREP
-other	JJ
-words	NN
-,	
-96,4	NUM
-%	NN
-of	PIN PREP
-Brazilian	JJ CAP
-students	NN
-of	PIN PREP
-public	JJ
-schools	NN
-do	VPRT SPAU
-not	XX0 RB
-learn	PRIV THATD INF
-what	WH
-is	PASS VPRT AUXB
-expected	PRIV
-from	PIN PREP
-them	TPP3 PRP SBJP ACCU
-on	PIN PREP
-this	DEMO DET
-subject	NN
-[	X
-2	NUM
-]	
-.	
-Another	CAP DET
-reason	PRIV NN
-which	WHSUB DET WH
-can	POMD
-contribute	INF
-to	PIN PREP
-is	BEMA VPRT AUXB
-the	ART DET
-lack	NN
-of	PIN PREP
-formal	JJ
-training	NN
-to	PIN PREP
-scientists	NN
-for	PIN PREP
-the	ART DET
-scientific	JJ
-spread	NN
-of	PIN PREP
-knowledge	NN
-.	
-To	PIN TO CAP PREP
-give	INF
-an	ART DET INDA
-illustration	NOMZ
-,	
-a	ART DET INDA
-few	QUAN JJ
-universities	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-have	VPRT
-a	ART DET INDA
-module	NN
-called	
-science	NN
-communication	NOMZ
-.	
-Notably	RB CAP
-,	
-Universidade	CAP NNP
-Federal	CAP NNP
-de	NNP
-São	CAP NNP
-Paulo	CAP NNP
-(	
-USP	CAP NNP
-)	
-and	ANDC CCONJ
-Universidade	CAP NNP
-Federal	CAP NNP
-de	NNP
-Minas	CAP NNP
-Gerais	CAP NNP
-(	
-UFMG	CAP NNP
-)	
-are	VPRT AUXB
-providing	PGAS
-specific	JJ
-disciplines	NN
-dedicated	WZPAST
-to	PIN PREP
-the	ART DET
-theme	NN
-[	X
-3	NUM
-]	
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-modules	NN
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-required	SUAV
-for	PIN PREP
-graduation	NOMZ
-and	CCONJ
-sometimes	RB
-they	TPP3 PRP SBJP
-may	POMD
-be	PASS SPAU AUXB INF
-only	DWNT RB
-offered	
-to	PIN PREP
-masters	NN
-and	PHC CCONJ
-PhD	NN CAP
-students	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-consequence	NN
-,	
-it	PIT PRP SBJP
-seems	VPRT SMP
-the	ART DET
-scientists	NN
-do	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-the	ART DET
-skill	NN
-of	PIN PREP
-communication	NOMZ
-and	CCONJ
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-people	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-prepared	JJ
-to	PIN TO PREP
-hear	PRIV INF
-.	
- 	
-Despite	PIN CAP SCONJ PREP
-these	DEMO DET
-issues	NN
-concerned	JJ
-about	PIN PREP
-the	ART DET
-transmission	NOMZ
-of	PIN PREP
-information	NOMZ
-,	
-only	DWNT RB
-relevant	JJ
-evidence	NN
-is	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-make	INF
-people	NN
-take	INF
-informed	JJ
-decisions	NOMZ
-.	
-To	PIN TO CAP PREP
-put	INF
-it	PIT PRP SBJP
-another	DET
-way	NN
-,	
-unwise	JJ
-decisions	NOMZ
-are	PASS VPRT AUXB
-taken	
-with	PIN PREP
-poor	JJ
-knowledge	NN
-about	PIN PREP
-a	ART DET INDA
-topic	NN
-.	
-As	PIN CONJ CAP PREP
-an	ART DET INDA
-example	NN
-,	
-in	PIN CONJ PREP
-our	FPP1 PRP SBJP
-daily	JJ
-life	NN
-,	
-numerous	JJ
-situations	NOMZ
-require	VPRT SUAV
-high	JJ
-quality	NOMZ
-information	NOMZ
-:	
-a	ART DET INDA
-decision	NOMZ
-of	PIN PREP
-buying	PGAS
-an	ART DET INDA
-electronic	JJ
-device	NN
-,	
-which	SERE DET WH
-politician	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-chosen	
-,	
-an	ART DET INDA
-intervention	NOMZ
-at	PIN PREP
-the	ART DET
-water	NN
-treatment	NOMZ
-system	NN
-,	
-a	ART DET INDA
-new	JJ
-vaccine	NN
-suggested	PUBV SUAV WZPAST
-by	PIN PREP
-the	ART DET
-government	NOMZ
-and	CCONJ
-even	RB
-our	FPP1 PRP SBJP
-way	NN
-of	PIN PREP
-feeding	NN
-and	PHC CCONJ
-workout	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-laypersons	NN
-are	BEMA VPRT AUXB
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-society	NN
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-take	INF
-huge	JJ
-decisions	NOMZ
-as	PIN CONJ PREP
-a	ART DET INDA
-community	NOMZ
-or	CCONJ
-a	ART DET INDA
-group	NN
-.	
-A	ART CAP DET INDA
-plebiscite	NN
-is	BEMA VPRT AUXB
-perhaps	RB
-the	ART DET
-clearest	JJ SPADJ
-example	NN
-of	PIN PREP
-the	ART DET
-necessity	NOMZ
-of	PIN PREP
-quality	NOMZ
-information	NOMZ
-to	PIN PREP
-a	ART DET INDA
-society	NN
-.	
-In	PIN CONJ CAP PREP
-an	ART DET INDA
-opportunity	NOMZ
-to	PIN TO PREP
-take	INF
-an	ART DET INDA
-important	JJ
-political	JJ
-decision	NOMZ
-several	QUAN JJ
-opinions	NN
-can	POMD
-be	PASS BYPA AUXB INF
-misguided	
-by	PIN STPR PREP
-“	
-fake	JJ
-news	NN
-”	
-,	
-rumors	NN
-and	CCONJ
-weak	JJ
-evidence	NN
-.	
-Therefore	RB CONJ CAP
-,	
-besides	PIN SCONJ PREP
-the	ART DET
-enormous	JJ
-challenge	NN
-of	PIN PREP
-bringing	PGAS
-information	NOMZ
-to	PIN PREP
-society	NN
-,	
-scientists	NN
-must	NEMD
-be	BEMA AUXB INF
-able	JJ PRED
-of	PIN PREP
-positioning	GER PGAS
-as	PIN CONJ PREP
-the	ART DET
-ones	NN
-in	PIN CONJ PREP
-charge	NN
-of	PIN PREP
-the	ART DET
-task	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-the	ART DET
-scientists	NN
-must	NEMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-spread	INF
-the	ART DET
-knowledge	NN
-to	PIN PREP
-society	NN
-,	
-not	XX0 RB
-only	DWNT RB
-by	PIN PREP
-done	PROD
-solutions	NOMZ
-,	
-tools	NN
-or	CCONJ
-consumer	NN
-goods	NN
-but	CCONJ
-mainly	RB
-providing	PGAS
-information	NOMZ
-to	PIN PREP
-supported	
-decisions	NOMZ
-.	
-It	PIT CAP PRP SBJP
-is	PASS VPRT AUXB
-expected	PRIV
-from	PIN PREP
-all	QUAN DET
-scientists	NN
-the	ART DET
-ability	NOMZ
-of	PIN PREP
-innovation	NOMZ
-,	
-creativity	NOMZ
-and	PHC CCONJ
-capacity	NOMZ
-of	PIN PREP
-find	PRIV INF
-new	JJ
-solutions	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-way	NN
-we	FPP1 PRP SBJP
-communicate	VPRT
-science	NN
-to	PIN PREP
-society	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1851.1090>\n\n	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	country	NN
+gap	 	
+word	still	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	democracy	NN
+gap	, 	
+word	Brazil	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	population	NOMZ
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	position	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	important	JJ
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	therapeutic	JJ
+gap	 	
+word	potential	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	stem	NN
+gap	 	
+word	cell	NN
+gap	 	
+word	therapy	NN
+gap	, 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	transgenic	JJ
+gap	 	
+word	food	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	animal	NN
+gap	 	
+word	models	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	laboratories	NN
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	OCDE	CAP NNP
+gap	 [1], 	
+word	just	RB EMPH
+gap	 14% 	
+word	of	PIN PREP
+gap	 	
+word	Brazilians	CAP NNP
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	graduated	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 2014 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	power	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	taking	PGAS
+gap	 	
+word	supported	
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	reliable	JJ
+gap	 	
+word	sources	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	compromised	
+gap	.  	
+word	At	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	scenario	NN
+gap	, 	
+word	scientists	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	tackle	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	challenge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	communication	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	science	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	general	JJ
+gap	 	
+word	public	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	provide	INF
+gap	 	
+word	skills	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	environment	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	society	NN
+gap	.\n	
+word	Although	CONC PIN CAP SCONJ PREP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	scientists	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	communication	NOMZ
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	books	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	articles	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	expertise	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	analytical	JJ
+gap	 	
+word	skills	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	research	NN
+gap	 	
+word	methodologies	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	may	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	difficult	JJ
+gap	 	
+word	communicating	GER
+gap	 	
+word	science	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	specific	JJ
+gap	 	
+word	topic	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	layperson	NN
+gap	. 	
+word	One	CAP NUM
+gap	 	
+word	possible	JJ
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	impasse	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	often	RB
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	familiar	JJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	specialized	JJ
+gap	 	
+word	terms	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	data	NN
+gap	 	
+word	analysis	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	students	NN
+gap	 	
+word	left	VBD
+gap	 	
+word	school	NN
+gap	, 	
+word	only	DWNT RB
+gap	 7,3% 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	proficient	JJ PRED
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	mathematics	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	scenario	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	worst	JJ PRED SPADJ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	schools	NN
+gap	, 	
+word	just	RB EMPH
+gap	 3,6% 	
+word	have	VPRT
+gap	 	
+word	satisfactory	JJ
+gap	 	
+word	learning	PRIV NN THATD
+gap	 	
+word	aims	NN
+gap	 	
+word	achieved	WZPAST
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	math	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 96,4% 	
+word	of	PIN PREP
+gap	 	
+word	Brazilian	JJ CAP
+gap	 	
+word	students	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	schools	NN
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	learn	PRIV THATD INF
+gap	 	
+word	what	WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	expected	PRIV
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	subject	NN
+gap	 [2]. 	
+word	Another	CAP DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	contribute	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	lack	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	formal	JJ
+gap	 	
+word	training	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	scientists	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scientific	JJ
+gap	 	
+word	spread	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	give	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	illustration	NOMZ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	few	QUAN JJ
+gap	 	
+word	universities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	module	NN
+gap	 	
+word	called	
+gap	 	
+word	science	NN
+gap	 	
+word	communication	NOMZ
+gap	. 	
+word	Notably	RB CAP
+gap	, 	
+word	Universidade	CAP NNP
+gap	 	
+word	Federal	CAP NNP
+gap	 	
+word	de	NNP
+gap	 	
+word	São	
+gap	 	
+word	Paulo	
+gap	 (	
+word	USP	
+gap	) 	
+word	and	
+gap	 	
+word	Universidade	
+gap	 	
+word	Federal	
+gap	 	
+word	de	
+gap	 	
+word	Minas	
+gap	 	
+word	Gerais	
+gap	 (	
+word	UFMG	
+gap	) 	
+word	are	
+gap	 	
+word	providing	
+gap	 	
+word	specific	
+gap	 	
+word	disciplines	
+gap	 	
+word	dedicated	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	theme	
+gap	 [3]. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	modules	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	required	
+gap	 	
+word	for	
+gap	 	
+word	graduation	
+gap	 	
+word	and	
+gap	 	
+word	sometimes	
+gap	 	
+word	they	
+gap	 	
+word	may	
+gap	 	
+word	be	
+gap	 	
+word	only	
+gap	 	
+word	offered	
+gap	 	
+word	to	
+gap	 	
+word	masters	
+gap	 	
+word	and	
+gap	 	
+word	PhD	
+gap	 	
+word	students	
+gap	. 	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	consequence	
+gap	, 	
+word	it	
+gap	 	
+word	seems	
+gap	 	
+word	the	
+gap	 	
+word	scientists	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	the	
+gap	 	
+word	skill	
+gap	 	
+word	of	
+gap	 	
+word	communication	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	majority	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	 	
+word	are	
+gap	 	
+word	not	
+gap	 	
+word	prepared	
+gap	 	
+word	to	
+gap	 	
+word	hear	
+gap	.\n	
+word	Despite	
+gap	 	
+word	these	
+gap	 	
+word	issues	
+gap	 	
+word	concerned	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	transmission	
+gap	 	
+word	of	
+gap	 	
+word	information	
+gap	, 	
+word	only	
+gap	 	
+word	relevant	
+gap	 	
+word	evidence	
+gap	 	
+word	is	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	people	
+gap	 	
+word	take	
+gap	 	
+word	informed	
+gap	 	
+word	decisions	
+gap	. 	
+word	To	
+gap	 	
+word	put	
+gap	 	
+word	it	
+gap	 	
+word	another	
+gap	 	
+word	way	
+gap	, 	
+word	unwise	
+gap	 	
+word	decisions	
+gap	 	
+word	are	
+gap	 	
+word	taken	
+gap	 	
+word	with	
+gap	 	
+word	poor	
+gap	 	
+word	knowledge	
+gap	 	
+word	about	
+gap	 	
+word	a	
+gap	 	
+word	topic	
+gap	. 	
+word	As	
+gap	 	
+word	an	
+gap	 	
+word	example	
+gap	, 	
+word	in	
+gap	 	
+word	our	
+gap	 	
+word	daily	
+gap	 	
+word	life	
+gap	, 	
+word	numerous	
+gap	 	
+word	situations	
+gap	 	
+word	require	
+gap	 	
+word	high	
+gap	 	
+word	quality	
+gap	 	
+word	information	
+gap	: 	
+word	a	
+gap	 	
+word	decision	
+gap	 	
+word	of	
+gap	 	
+word	buying	
+gap	 	
+word	an	
+gap	 	
+word	electronic	
+gap	 	
+word	device	
+gap	, 	
+word	which	
+gap	 	
+word	politician	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	chosen	
+gap	, 	
+word	an	
+gap	 	
+word	intervention	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	water	
+gap	 	
+word	treatment	
+gap	 	
+word	system	
+gap	, 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	vaccine	
+gap	 	
+word	suggested	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	government	
+gap	 	
+word	and	
+gap	 	
+word	even	
+gap	 	
+word	our	
+gap	 	
+word	way	
+gap	 	
+word	of	
+gap	 	
+word	feeding	
+gap	 	
+word	and	
+gap	 	
+word	workout	
+gap	. 	
+word	In	
+gap	 	
+word	addition	
+gap	, 	
+word	laypersons	
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 	
+word	majority	
+gap	 	
+word	of	
+gap	 	
+word	society	
+gap	 	
+word	and	
+gap	 	
+word	they	
+gap	 	
+word	are	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	huge	
+gap	 	
+word	decisions	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	community	
+gap	 	
+word	or	
+gap	 	
+word	a	
+gap	 	
+word	group	
+gap	. 	
+word	A	
+gap	 	
+word	plebiscite	
+gap	 	
+word	is	
+gap	 	
+word	perhaps	
+gap	 	
+word	the	
+gap	 	
+word	clearest	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	necessity	
+gap	 	
+word	of	
+gap	 	
+word	quality	
+gap	 	
+word	information	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	society	
+gap	. 	
+word	In	
+gap	 	
+word	an	
+gap	 	
+word	opportunity	
+gap	 	
+word	to	
+gap	 	
+word	take	
+gap	 	
+word	an	
+gap	 	
+word	important	
+gap	 	
+word	political	
+gap	 	
+word	decision	
+gap	 	
+word	several	
+gap	 	
+word	opinions	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	misguided	
+gap	 	
+word	by	
+gap	 “	
+word	fake	
+gap	 	
+word	news	
+gap	”, 	
+word	rumors	
+gap	 	
+word	and	
+gap	 	
+word	weak	
+gap	 	
+word	evidence	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	besides	
+gap	 	
+word	the	
+gap	 	
+word	enormous	
+gap	 	
+word	challenge	
+gap	 	
+word	of	
+gap	 	
+word	bringing	
+gap	 	
+word	information	
+gap	 	
+word	to	
+gap	 	
+word	society	
+gap	, 	
+word	scientists	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	of	
+gap	 	
+word	positioning	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	ones	
+gap	 	
+word	in	
+gap	 	
+word	charge	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	task	
+gap	. \n	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	the	
+gap	 	
+word	scientists	
+gap	 	
+word	must	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	spread	
+gap	 	
+word	the	
+gap	 	
+word	knowledge	
+gap	 	
+word	to	
+gap	 	
+word	society	
+gap	, 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	by	
+gap	 	
+word	done	
+gap	 	
+word	solutions	
+gap	, 	
+word	tools	
+gap	 	
+word	or	
+gap	 	
+word	consumer	
+gap	 	
+word	goods	
+gap	 	
+word	but	
+gap	 	
+word	mainly	
+gap	 	
+word	providing	
+gap	 	
+word	information	
+gap	 	
+word	to	
+gap	 	
+word	supported	
+gap	 	
+word	decisions	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	expected	
+gap	 	
+word	from	
+gap	 	
+word	all	
+gap	 	
+word	scientists	
+gap	 	
+word	the	
+gap	 	
+word	ability	
+gap	 	
+word	of	
+gap	 	
+word	innovation	
+gap	, 	
+word	creativity	
+gap	 	
+word	and	
+gap	 	
+word	capacity	
+gap	 	
+word	of	
+gap	 	
+word	find	
+gap	 	
+word	new	
+gap	 	
+word	solutions	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	way	
+gap	 	
+word	we	
+gap	 	
+word	communicate	
+gap	 	
+word	science	
+gap	 	
+word	to	
+gap	 	
+word	society	
+gap	.	

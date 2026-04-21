@@ -1,505 +1,843 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0697.0412.txt
-token	tags
-﻿	NNP
-  	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-well	RB
-known	PRIV
-that	PIN THVC SCONJ PREP
-physical	JJ
-activities	NN
-are	BEMA VPRT AUXB
-essential	JJ PRED
-for	PIN PREP
-promote	INF
-a	ART DET INDA
-general	JJ
-health	NN
-avoiding	WZPRES PGAS
-many	QUAN JJ
-chronicle	NN
-and	CCONJ
-non	JJ
--	JJ
-chronicle	JJ
-diseases	NN
-such	JJ
-as	PIN CONJ PREP
-hypertension	NOMZ
-,	
-coronary	JJ
-heart	NN
-disease	NN
-,	
-stroke	NN
-,	
-diabetes	NN
-,	
-breast	NN
-and	PHC CCONJ
-colon	NN
-cancer	NN
-.	
-It	PIT CAP PRP SBJP
-also	RB
-reduces	VPRT
-the	ART DET
-risk	NN
-of	PIN PREP
-falls	NN
-,	
-promotes	VPRT
-bone	NN
-and	CCONJ
-functional	JJ
-health	NN
-and	CCONJ
-is	BEMA VPRT AUXB
-fundamental	JJ PRED
-to	PIN PREP
-energy	NN
-balance	NN
-and	PHC CCONJ
-weight	NN
-control	NN
-(	
-WHO	CAP NNP
-,	
-2016	NUM
-)	
-.	
-But	CAP CCONJ
-what	WH
-most	JJ EMPH SPADJ
-people	NN
-do	VPRT SPAU
-n’t	RB
-know	PRIV INF
-is	BEMA VPRT AUXB
-about	PIN PREP
-the	ART DET
-mental	JJ
-benefits	NN
-of	PIN PREP
-physical	JJ
-activities	NN
-.	
- 	
-According	CAP PGAS
-to	PIN PREP
-World	CAP NNP
-Health	CAP NNP
-Organization	CAP NNP
-(	
-WHO	CAP NNP
-)	
-Mental	JJ CAP
-health	NN
-Atlas	CAP NNP
-country	NN
-profile	NN
-(	
-2014	NUM
-)	
-,	
-in	PIN CONJ PREP
-the	ART DET
-United	CAP NNP
-States	PUBV CAP NNP
-of	PIN PREP
-America	CAP NNP
-4	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-population	NOMZ
-has	VPRT
-some	QUAN DET
-serious	JJ
-mental	JJ
-disease	NN
-registered	
-.	
-But	CAP CCONJ
-as	PIN CONJ PREP
-said	PUBV
-by	PIN PREP
-Fox	CAP NNP
-(	
-1999	NUM
-)	
-There	EX CAP
-are	VPRT AUXB
-the	ART DET
-less	RB CMADJ
-severe	JJ
-problems	NN
-that	TSUB WHSUB WH
-afflicts	VPRT
-many	QUAN JJ
-other	JJ
-people	NN
-and	CCONJ
-represents	VPRT
-the	ART DET
-biggest	JJ SPADJ
-part	NN
-of	PIN PREP
-the	ART DET
-health	NN
-disease	NN
-problem	NN
-in	PIN CONJ PREP
-population	NOMZ
-.	
-Those	DEMP CAP DET
-are	VPRT AUXB
-,	
-for	PIN PREP
-example	NN
-:	
-Depression	NOMZ CAP
-(	
-which	SERE WHQU DET WH
-can	POMD
-affect	INF
-5	NUM
-to	PIN PREP
-10	NUM
-percent	NN
-of	PIN PREP
-population	NOMZ
-in	PIN CONJ PREP
-most	RB EMPH SPADJ
-developed	
-countries	NN
-)	
-,	
-emotional	JJ
-distress	NN
-,	
-low	JJ
-self	NN
--	
-esteem	NN
-,	
-poor	JJ
-body	NN
-image	NN
-,	
-sense	PRIV NN
-of	PIN PREP
-hopelessness	NOMZ
-,	
-chronic	JJ
-stress	NN
-and	PHC CCONJ
-anxiety	NN
-.	
- 	
-This	DEMO CAP DET
-study	NN
-from	PIN PREP
-Dr	CAP NNP
-Kenneth	CAP NNP
-R	CAP NNP
-Fox	CAP NNP
-(	
-1999	NUM
-)	
-made	PASTP
-on	PIN PREP
-the	ART DET
-Department	CAP NNP
-of	PIN PREP
-Exercise	CAP NNP
-and	PHC CCONJ
-Health	CAP NNP
-Sciences	CAP NNP
-of	PIN PREP
-the	ART DET
-University	CAP NNP
-of	PIN PREP
-Bristol	CAP NNP
-,	
-UK	CAP NNP
-,	
-was	BEMA VBD AUXB
-an	ART DET INDA
-over	JJ
-view	NN
-on	PIN PREP
-studies	NN
-about	PIN PREP
-this	DEMO DET
-topic	NN
-at	PIN PREP
-the	ART DET
-time	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-showed	VBD PRIV THATD
-how	RB WHCL SCONJ WH
-physical	JJ
-activities	NN
-can	POMD
-be	BEMA AUXB INF
-determinant	JJ PRED
-on	PIN PREP
-mental	JJ
-health	NN
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-in	PIN CONJ PREP
-physical	JJ
-health	NN
-.	
-According	CAP PGAS
-to	PIN PREP
-him	TPP3 PRP SBJP ACCU
-there	EX
-is	VPRT AUXB
-four	NUM
-ways	NN
-the	ART DET
-physical	JJ
-exercises	NN
-can	POMD
-act	INF
-on	PIN PREP
-the	ART DET
-psychological	JJ
-health	NN
-:	
-Treating	CAP PGAS
-mental	JJ
-,	
-preventing	GER PGAS
-of	PIN PREP
-mental	JJ
-illness	NOMZ
-and	PHC CCONJ
-disorders	NN
-,	
-improving	PGAS
-mental	JJ
-and	PHC CCONJ
-physical	JJ
-well	RB
--	
-being	BEMA NN
-of	PIN PREP
-people	NN
-with	PIN PREP
-mental	JJ
-illness	NOMZ
-and	CCONJ
-Improvement	CAP NNP
-of	PIN PREP
-mental	JJ
-well	NN
--	
-being	BEMA NN
-of	PIN PREP
-the	ART DET
-general	JJ
-population	NOMZ
-.	
- 	
-Still	RB CAP
-on	PIN PREP
-Fox	CAP NNP
-(	
-1999	NUM
-)	
-study	NN
-,	
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-shown	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-physical	JJ
-activity	NOMZ
-can	POMD
-act	INF
-on	PIN PREP
-those	DEMO DET
-mental	JJ
-disorders	NN
-that	TSUB WHSUB WH
-afflict	VPRT
-most	JJ EMPH SPADJ
-part	NN
-of	PIN PREP
-the	ART DET
-population	NOMZ
-.	
-The	ART CAP DET
-evidences	NN
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-risk	NN
-of	PIN PREP
-clinical	JJ
-depression	NOMZ
-is	PASS VPRT AUXB
-decreased	
-with	PIN PREP
-physical	JJ
-activity	NOMZ
-,	
-aerobic	JJ
-and	CCONJ
-resistance	NN
-training	NN
-has	VPRT
-positive	JJ
-effects	NN
-treating	WZPRES PGAS
-depression	NOMZ
-and	CCONJ
-the	ART DET
-magnitude	NN
-of	PIN PREP
-this	DEMO DET
-improvement	NOMZ
-can	POMD
-be	PASS AUXB INF
-compared	
-to	PIN PREP
-psychotherapeutic	JJ
-interventions	NOMZ
-as	PIN CONJ PREP
-shown	PRIV
-by	PIN PREP
-experiment	NOMZ
-studies	NN
-;	
-It	PIT CAP PRP SBJP
-can	POMD
-provide	INF
-reduces	NN
-on	PIN PREP
-anxiety	NN
-and	PHC CCONJ
-stress	NN
-;	
-It	PIT CAP PRP SBJP
-also	RB
-has	VPRT PEAS
-been	PASS AUXB
-shown	PRIV
-that	PIN THVC SCONJ PREP
-exercises	NN
-promote	VPRT
-a	ART DET INDA
-positive	JJ
-effect	NN
-on	PIN PREP
-your	SPP2 PRP SBJP
-mood	NN
-,	
-As	PIN CONJ CAP PREP
-said	PUBV
-by	PIN PREP
-the	ART DET
-author	NN
-:	
-“	
- 	
-”	
-;	
-Exercise	NN CAP
-can	POMD
-change	INF
-people	NN
-’s	
-perceptions	NOMZ
-of	PIN PREP
-their	TPP3 PRP SBJP
-physical	JJ
-self	NN
-and	PHC CCONJ
-identity	NOMZ
-in	PIN CONJ PREP
-a	ART DET INDA
-positive	JJ
-way	NN
-;	
-For	PIN CAP PREP
-the	ART DET
-elderly	JJ
-,	
-Physical	JJ CAP
-activity	NOMZ
-can	POMD
-keep	INF
-you	SPP2 PRP SBJP
-alert	JJ
-and	PHC CCONJ
-jovial	JJ
-;	
-It	PIT CAP PRP SBJP
-also	RB
-improve	VPRT
-the	ART DET
-sleep	NN
-quality	NOMZ
-.	
- 	
-As	PIN CONJ CAP PREP
-we	FPP1 PRP SBJP
-can	POMD
-see	PRIV INF
-,	
-the	ART DET
-physical	JJ
-activity	NOMZ
-has	VPRT
-many	QUAN JJ
-good	JJ
-effects	NN
-in	PIN CONJ PREP
-the	ART DET
-physic	NN
-an	ART DET INDA
-also	RB
-mental	JJ
-health	NN
-.	
-For	PIN CAP PREP
-this	DEMO DET
-reason	PRIV NN
-a	ART DET INDA
-combination	NOMZ
-of	PIN PREP
-cardiorespiratory	NN
-exercise	NN
-,	
-resistance	NN
-exercise	NN
-,	
-flexibility	NOMZ
-exercise	NN
-and	PHC CCONJ
-neuromotor	NN
-exercise	NN
-is	PASS VPRT BYPA SPAU AUXB
-highly	AMP RB
-recommended	SUAV
-by	PIN PREP
-the	ART DET
-American	CAP NNP
-College	CAP NNP
-of	PIN PREP
-Sports	CAP NNP
-Medicine	CAP NNP
-(	
-ACSM	CAP NNP
-)	
-.	
-        	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-2.0697.0412>\n\n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	well	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	physical	JJ
+gap	 	
+word	activities	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	essential	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	promote	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	general	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	avoiding	WZPRES PGAS
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	chronicle	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	non	JJ
+gap	-	
+word	chronicle	JJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	hypertension	NOMZ
+gap	, 	
+word	coronary	JJ
+gap	 	
+word	heart	NN
+gap	 	
+word	disease	NN
+gap	, 	
+word	stroke	NN
+gap	, 	
+word	diabetes	NN
+gap	, 	
+word	breast	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	colon	NN
+gap	 	
+word	cancer	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	reduces	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	risk	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	falls	NN
+gap	, 	
+word	promotes	VPRT
+gap	 	
+word	bone	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	functional	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	fundamental	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	energy	NN
+gap	 	
+word	balance	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	weight	NN
+gap	 	
+word	control	NN
+gap	 (	
+word	WHO	CAP NNP
+gap	, 2016). 	
+word	But	CAP CCONJ
+gap	 	
+word	what	WH
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	people	NN
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	know	PRIV INF
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mental	JJ
+gap	 	
+word	benefits	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	physical	JJ
+gap	 	
+word	activities	NN
+gap	.\n	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	Health	CAP NNP
+gap	 	
+word	Organization	CAP NNP
+gap	 (	
+word	WHO	CAP NNP
+gap	) 	
+word	Mental	JJ CAP
+gap	 	
+word	health	NN
+gap	 	
+word	Atlas	CAP NNP
+gap	 	
+word	country	NN
+gap	 	
+word	profile	NN
+gap	 (2014), 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	States	PUBV CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	America	CAP NNP
+gap	 4% 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	 	
+word	has	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	serious	JJ
+gap	 	
+word	mental	JJ
+gap	 	
+word	disease	NN
+gap	 	
+word	registered	
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	said	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Fox	CAP NNP
+gap	 (1999) 	
+word	There	EX CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	less	RB CMADJ
+gap	 	
+word	severe	JJ
+gap	 	
+word	problems	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	afflicts	VPRT
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	other	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	represents	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	biggest	JJ SPADJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	health	NN
+gap	 	
+word	disease	NN
+gap	 	
+word	problem	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	population	NOMZ
+gap	. 	
+word	Those	DEMP CAP DET
+gap	 	
+word	are	VPRT AUXB
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	: 	
+word	Depression	NOMZ CAP
+gap	 (	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	affect	INF
+gap	 5 	
+word	to	PIN PREP
+gap	 10 	
+word	percent	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	population	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	developed	
+gap	 	
+word	countries	NN
+gap	), 	
+word	emotional	JJ
+gap	 	
+word	distress	NN
+gap	, 	
+word	low	JJ
+gap	 	
+word	self	NN
+gap	-	
+word	esteem	NN
+gap	, 	
+word	poor	JJ
+gap	 	
+word	body	NN
+gap	 	
+word	image	NN
+gap	, 	
+word	sense	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	hopelessness	NOMZ
+gap	, 	
+word	chronic	JJ
+gap	 	
+word	stress	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	anxiety	NN
+gap	.\n	
+word	This	DEMO CAP DET
+gap	 	
+word	study	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	Dr	CAP NNP
+gap	 	
+word	Kenneth	CAP NNP
+gap	 	
+word	R	CAP NNP
+gap	 	
+word	Fox	CAP NNP
+gap	 (1999) 	
+word	made	PASTP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Department	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Exercise	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Health	CAP NNP
+gap	 	
+word	Sciences	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	University	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Bristol	CAP NNP
+gap	, 	
+word	UK	CAP NNP
+gap	, 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	over	JJ
+gap	 	
+word	view	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	studies	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	topic	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	showed	VBD PRIV THATD
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	physical	JJ
+gap	 	
+word	activities	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	determinant	JJ PRED
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	mental	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	physical	JJ
+gap	 	
+word	health	NN
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	him	TPP3 PRP SBJP ACCU
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	four	NUM
+gap	 	
+word	ways	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	exercises	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	act	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	psychological	JJ
+gap	 	
+word	health	NN
+gap	: 	
+word	Treating	CAP PGAS
+gap	 	
+word	mental	JJ
+gap	, 	
+word	preventing	GER PGAS
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mental	JJ
+gap	 	
+word	illness	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	disorders	NN
+gap	, 	
+word	improving	PGAS
+gap	 	
+word	mental	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	physical	JJ
+gap	 	
+word	well	RB
+gap	-	
+word	being	BEMA NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	mental	JJ
+gap	 	
+word	illness	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Improvement	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	mental	JJ
+gap	 	
+word	well	NN
+gap	-	
+word	being	BEMA NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	general	JJ
+gap	 	
+word	population	NOMZ
+gap	.\n	
+word	Still	RB CAP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	Fox	CAP NNP
+gap	 (1999) 	
+word	study	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	shown	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	activity	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	act	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	mental	JJ
+gap	 	
+word	disorders	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	afflict	VPRT
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	population	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	evidences	NN
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	risk	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	clinical	JJ
+gap	 	
+word	depression	NOMZ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	decreased	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	physical	JJ
+gap	 	
+word	activity	NOMZ
+gap	, 	
+word	aerobic	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	resistance	NN
+gap	 	
+word	training	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	positive	JJ
+gap	 	
+word	effects	NN
+gap	 	
+word	treating	WZPRES PGAS
+gap	 	
+word	depression	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	magnitude	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	improvement	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	compared	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	psychotherapeutic	JJ
+gap	 	
+word	interventions	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	shown	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	studies	NN
+gap	; 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	provide	INF
+gap	 	
+word	reduces	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	anxiety	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	stress	NN
+gap	; 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	shown	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	exercises	NN
+gap	 	
+word	promote	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	positive	JJ
+gap	 	
+word	effect	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	your	SPP2 PRP SBJP
+gap	 	
+word	mood	NN
+gap	, 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	said	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	author	NN
+gap	: “ <exercises makes you feel good> ”; 	
+word	Exercise	NN CAP
+gap	 	
+word	can	POMD
+gap	 	
+word	change	INF
+gap	 	
+word	people	NN
+gap	’	
+word	s	
+gap	 	
+word	perceptions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	physical	JJ
+gap	 	
+word	self	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	identity	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	positive	JJ
+gap	 	
+word	way	NN
+gap	; 	
+word	For	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	elderly	JJ
+gap	, 	
+word	Physical	JJ CAP
+gap	 	
+word	activity	NOMZ
+gap	 	
+word	can	POMD
+gap	 	
+word	keep	INF
+gap	 	
+word	you	SPP2 PRP SBJP
+gap	 	
+word	alert	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	jovial	JJ
+gap	; 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	also	RB
+gap	 	
+word	improve	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	sleep	NN
+gap	 	
+word	quality	NOMZ
+gap	.\n	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	see	PRIV INF
+gap	, 	
+word	the	ART DET
+gap	 	
+word	physical	JJ
+gap	 	
+word	activity	NOMZ
+gap	 	
+word	has	VPRT
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	good	JJ
+gap	 	
+word	effects	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	physic	NN
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	also	RB
+gap	 	
+word	mental	JJ
+gap	 	
+word	health	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cardiorespiratory	NN
+gap	 	
+word	exercise	NN
+gap	, 	
+word	resistance	NN
+gap	 	
+word	exercise	NN
+gap	, 	
+word	flexibility	NOMZ
+gap	 	
+word	exercise	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	neuromotor	NN
+gap	 	
+word	exercise	NN
+gap	 	
+word	is	PASS VPRT BYPA SPAU AUXB
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	recommended	SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	American	CAP NNP
+gap	 	
+word	College	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Sports	CAP NNP
+gap	 	
+word	Medicine	CAP NNP
+gap	 (	
+word	ACSM	CAP NNP
+gap	).\n\n<References>\n<Global Strategy on Diet, Physical Activity and Health, (2016). Available at: http://www.who.int/dietphysicalactivity/pa/en/>\n<Fox, Kenneth R. "The influence of physical activity on mental well-being." Public health nutrition 2.3a (1999): 411-418.>\n<Mental health Atlas country profile, (2014). Avaliable at: http://www.who.int/mental_health/evidence/atlas/profiles-2014/usa.pdf?ua=1>\n<ACSM Issues New Recommendations on Quantity and Quality of Exercise, (2008) Avaliable at: http://www.acsm.org/about-acsm/media-room/news-releases/2011/08/01/acsm-issues-new-recommendations-on-quantity-and-quality-of-exercise>\n<Nelson, M. E., Rejeski, W. J., Blair, S. N., Duncan, P. W., Judge, J. O., King, A. C., ... Castaneda-Sceppa, C. (2007). Physical activity and public health in older adults: Recommendation from the American College of Sports Medicine and the American Heart Association. Circulation, 116(9), 1094-1105.>\n	

@@ -1,1452 +1,2458 @@
 # filename: AH_English_Essay_3_3061a_tx.txt
-token	tags
-As	PIN CONJ CAP PREP
-the	ART DET
-title	NN
-already	RB
-indicates	VPRT PRIV
-,	
-the	ART DET
-poem	NN
-"	QUOT
-Not	XX0 RB CAP
-a	ART DET INDA
-Nice	CAP NNP
-Place	CAP NNP
-"	QUOT
-describes	VPRT
-a	ART DET INDA
-violent	JJ
-place	NN
-,	
-probably	RB
-a	ART DET INDA
-whole	JJ
-country	NN
-,	
-where	RB SCONJ WH
-people	NN
-live	VPRT
-in	PIN CONJ PREP
-danger	NN
-and	CCONJ
-have	VPRT
-to	PIN TO PREP
-fear	PRIV INF
-for	PIN PREP
-their	TPP3 PRP SBJP
-lives	NN
-every	QUAN DET
-day	NN
-.	
-The	ART CAP DET
-mood	NN
-of	PIN PREP
-chaos	NN
-and	PHC CCONJ
-violence	NN
-in	PIN CONJ PREP
-the	ART DET
-poem	NN
-is	PASS VPRT AUXB
-established	PRIV
-with	PIN PREP
-the	ART DET
-help	NN
-of	PIN PREP
-different	JJ
-linguistic	JJ
-features	NN
-,	
-namely	RB CONJ
-the	ART DET
-lexis	NN
-and	PHC CCONJ
-word	NN
-combination	NOMZ
-,	
-the	ART DET
-sound	NN
-and	CCONJ
-visual	JJ
-patterning	GER
-and	CCONJ
-the	ART DET
-structure	NN
-.	
-Thus	RB CONJ CAP
-,	
-this	DEMO DET
-essay	NN
-is	VPRT AUXB
-going	PGAS
-to	PIN TO PREP
-analyse	INF
-the	ART DET
-poem	NN
-with	PIN PREP
-respect	NN
-to	PIN PREP
-the	ART DET
-above	RB PLACE
-mentioned	PUBV
-features	NN
-.	
-The	ART CAP DET
-first	JJ
-two	NUM
-lines	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-"	QUOT
-Holy	JJ CAP
-cow	NN
-!	EXCL
-You	SPP2 CAP PRP SBJP
-should	NEMD
-see	PRIV INF
-that	THVC DET
-place	NN
-.	
-"	QUOT
-make	INF
-clear	JJ
-right	JJ
-from	PIN PREP
-the	ART DET
-beginning	NN
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-persona	NN
-directly	RB
-addressing	GER PGAS
-its	PIT PRP SBJP
-audience	NN
-.	
-This	DEMP CAP DET
-is	PASS VPRT AUXB
-be	PASS AUXB INF
-done	PROD
-with	PIN PREP
-the	ART DET
-pronoun	NN
-"	QUOT
-you	SPP2 PRP SBJP
-"	QUOT
-and	ANDC CCONJ
-as	PIN CONJ PREP
-this	DEMP DET
-can	POMD
-be	AUXB INF
-either	CCONJ
-singular	JJ
-or	CCONJ
-plural	NN
-,	
-there	EX
-may	POMD
-be	AUXB INF
-either	CCONJ
-one	NUM
-addressee	JJ
-or	CCONJ
-several	QUAN JJ
-.	
-Thus	RB CONJ CAP
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-poem	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-monologue	NN
-,	
-a	ART DET INDA
-situation	NOMZ
-like	PIN PREP
-in	PIN CONJ PREP
-a	ART DET INDA
-dialogue	NN
-is	PASS VPRT AUXB
-established	PRIV
-because	CAUS PIN SCONJ PREP
-there	EX
-is	VPRT AUXB
-more	JJ PRED EMPH CMADJ
-than	PIN PREP
-one	NUM
-participant	NN
-.	
-The	ART CAP DET
-main	JJ
-part	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-then	RB
-(	
-l.	NNP
-3	NUM
--	
-26	NUM
-)	
-contains	VPRT
-a	ART DET INDA
-detailed	JJ
-description	NOMZ
-of	PIN PREP
-the	ART DET
-place	NN
-hinted	PUBV WZPAST
-to	PIN PREP
-in	PIN CONJ PREP
-line	NN
-2	NUM
-and	ANDC CCONJ
-thus	RB CONJ
-refers	VPRT
-back	RB
-to	PIN PREP
-that	DEMO DET
-line	NN
-.	
-Here	RB CAP
-,	
-the	ART DET
-persona	NN
-takes	VPRT
-over	PIN PREP
-the	ART DET
-role	NN
-of	PIN PREP
-an	ART DET INDA
-observer	NN
-and	CCONJ
-informs	VPRT
-the	ART DET
-addressee	NN
-of	PIN PREP
-the	ART DET
-violence	NN
-and	PHC CCONJ
-danger	NN
-people	NN
-live	VPRT
-in	PIN CONJ STPR PREP
-.	
-Thus	RB CONJ CAP
-,	
-the	ART DET
-favoured	
-sentence	NN
--	
-type	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-stating	PUBV PGAS
-one	NUM
-and	CCONJ
-the	ART DET
-third	JJ
-person	NN
-plural	NN
-is	BEMA VPRT AUXB
-predominant	JJ PRED
-,	
-either	CCONJ
-as	PIN CONJ PREP
-personal	JJ
-pronoun	NN
-"	QUOT
-they	TPP3 PRP SBJP
-"	QUOT
-(	
-l.8	NNP
-)	
-or	CCONJ
-in	PIN CONJ PREP
-subjects	NN
-like	PIN STPR PREP
-"	QUOT
-children	NN
-"	QUOT
-(	
-l.3	NNP
-)	
-,	
-"	QUOT
-men	NN
-"	QUOT
-(	
-l.6	NN
-)	
-,	
-"	QUOT
-women	NN
-"	QUOT
-(	
-l.7	NNP
-)	
-and	ANDC CCONJ
-"	QUOT
-people	NN
-"	QUOT
-(	
-l.5	NN
-)	
-.	
-This	DEMP CAP DET
-shows	VPRT PRIV
-that	PIN THVC SCONJ PREP
-everybody	QUPR INPR
-,	
-even	RB
-children	NN
-,	
-is	PASS VPRT AUXB
-involved	
-in	PIN CONJ PREP
-the	ART DET
-conflict	NN
-.	
-The	ART CAP DET
-last	JJ
-two	NUM
-lines	NN
-are	BEMA VPRT AUXB
-similar	JJ PRED
-to	PIN PREP
-the	ART DET
-first	JJ
-two	NUM
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-involve	VPRT
-a	ART DET INDA
-direct	JJ
-address	NN
-to	PIN PREP
-the	ART DET
-audience	NN
-via	PIN PREP
-a	ART DET INDA
-rhetorical	JJ
-question	NOMZ
-.	
-By	PIN CAP PREP
-this	DEMP DET
-,	
-a	ART DET INDA
-frame	NN
-is	PASS VPRT AUXB
-created	
-which	DET WH
-underlines	VPRT
-the	ART DET
-persona´s	JJ
-shock	NN
-(	
-"	QUOT
-Holy	JJ CAP
-cow	NN
-!	EXCL
-"	QUOT
-(	
-l.1	RB
-)	
-)	
-about	PIN PREP
-what	WH
-he	TPP3 PRP SBJP
-/	
-she	TPP3 PRP SBJP
-sees	VPRT PRIV
-and	ANDC CCONJ
-which	DET WH
--	
-in	PIN CONJ PREP
-contrast	NN
-to	PIN PREP
-the	ART DET
-mainly	RB
-descriptive	JJ
-main	JJ
-part	NN
--	
-displays	VPRT
-his	TPP3 PRP SBJP
-/	
-her	TPP3 PRP SBJP
-personal	JJ
-judgement	NOMZ
-of	PIN PREP
-the	ART DET
-events	NN
-.	
-Concerning	GER PRESP CAP PGAS
-the	ART DET
-visual	JJ
-and	CCONJ
-sound	NN
-pattern	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-striking	JJ
-that	PIN THAC SCONJ PREP
-the	ART DET
-poem	NN
-does	VPRT SPAU
-not	XX0 RB
-fulfil	INF
-many	QUAN JJ
-of	PIN PREP
-the	ART DET
-typical	JJ
-features	NN
-of	PIN PREP
-its	PIT PRP SBJP
-genre	NN
-poetry	NN
-.	
-It	PIT CAP PRP SBJP
-is	VPRT AUXB
-neither	CCONJ
-subdivided	
-into	PIN PREP
-stanzas	NN
-,	
-nor	CCONJ
-is	VPRT AUXB
-there	EX
-a	ART DET INDA
-particular	JJ CONJ
-rhyme	NN
-scheme	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-also	RB
-no	SYNE DET
-regular	JJ
-rhythm	NN
-or	CCONJ
-metre	NN
-.	
-The	ART CAP DET
-only	JJ DWNT
-visual	JJ
-aspect	NN
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-maintained	PUBV
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-poem	NN
-is	PASS VPRT AUXB
-written	PUBV
-in	PIN CONJ PREP
-lines	NN
-.	
-But	CAP CCONJ
-unlike	PIN PREP
-other	JJ
-poems	NN
-,	
-where	RB SCONJ WH
-every	QUAN DET
-line	NN
-begins	VPRT
-with	PIN PREP
-a	ART DET INDA
-capital	NN
-letter	NN
-,	
-no	RB
-matter	RB
-if	COND PIN SCONJ PREP
-the	ART DET
-line	NN
-starts	VPRT
-in	PIN CONJ PREP
-the	ART DET
-middle	NN
-of	PIN PREP
-a	ART DET INDA
-sentence	NN
-,	
-some	QUAN DET
-lines	NN
-also	RB
-begin	VPRT
-with	PIN PREP
-small	JJ
-letters	NN
-here	RB
-.	
-They	TPP3 CAP PRP SBJP
-are	PASS VPRT SPAU AUXB
-only	DWNT RB
-capitalized	
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-mark	VPRT
-the	ART DET
-beginning	NN
-of	PIN PREP
-a	ART DET INDA
-new	JJ
-sentence	NN
-.	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-normal	JJ
-sentence	NN
-structure	NN
-of	PIN PREP
-SVO	CAP NNP
-is	PASS VPRT AUXB
-maintained	PUBV
-and	ANDC CCONJ
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-deviation	NOMZ
-from	PIN PREP
-it	PIT PRP SBJP
-.	
-To	PIN CAP PREP
-my	FPP1 PRP SBJP
-mind	NN
-,	
-all	QUAN DET
-this	DEMP DET
-has	VPRT
-the	ART DET
-effect	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-poem	NN
-resembles	VPRT
-more	JJ EMPH CMADJ
-a	ART DET INDA
-dramatic	JJ
-speech	NN
-spoken	WZPAST
-to	PIN PREP
-an	ART DET INDA
-audience	NN
-.	
-This	DEMO CAP DET
-also	RB
-fits	VPRT
-to	PIN PREP
-the	ART DET
-findings	NN
-of	PIN PREP
-the	ART DET
-first	JJ
-paragraph	NN
-,	
-namely	RB CONJ
-that	PIN DEMO SCONJ PREP
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-persona	NN
-(	
-or	CCONJ
-speaker	NN
-)	
-addressing	GER PRESP PGAS
-an	ART DET INDA
-addressee	JJ
-(	
-audience	NN
-)	
-to	PIN TO PREP
-inform	INF
-and	PHC CCONJ
-make	INF
-them	TPP3 PRP SBJP ACCU
-think	PRIV INF
-about	PIN PREP
-the	ART DET
-miserable	JJ
-conditions	NOMZ
-the	ART DET
-people	NN
-have	VPRT
-to	PIN TO PREP
-live	INF
-in	PIN CONJ STPR PREP
-.	
-These	DEMO CAP DET
-terrible	JJ
-conditions	NOMZ
-are	PASS VPRT BYPA SPAU AUXB
-mainly	RB
-illustrated	
-by	PIN PREP
-the	ART DET
-lexis	NN
-and	CCONJ
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-words	NN
-.	
-The	ART CAP DET
-vocabulary	NN
-is	BEMA VPRT AUXB
-predominantly	RB
-from	PIN PREP
-the	ART DET
-area	NN
-of	PIN PREP
-war	NN
-as	PIN CONJ PREP
-for	PIN PREP
-example	NN
-the	ART DET
-words	NN
-"	QUOT
-bulletproof	NN
-"	QUOT
-(	
-l.3	NNP
-)	
-,	
-"	QUOT
-war	NN
-surgeons	NN
-"	QUOT
-(	
-l.11	X
-)	
-,	
-"	QUOT
-shot	
-"	QUOT
-(	
-l.12	NNP
-)	
-and	ANDC CCONJ
-"	QUOT
-Uzi	NN CAP
-sub	JJ
--	JJ
-machine	JJ
-guns	NN
-"	QUOT
-(	
-l.23	NN
-)	
-show	PRIV NN
-.	
-By	PIN CAP PREP
-this	DEMP DET
-,	
-an	ART DET INDA
-atmosphere	NN
-of	PIN PREP
-chaos	NN
-and	PHC CCONJ
-danger	NN
-is	PASS VPRT AUXB
-established	PRIV
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-parallelisms	NN
-underlines	NN
-this	DEMO DET
-impression	NOMZ
-.	
-In	PIN CONJ CAP PREP
-particular	JJ CONJ
-the	ART DET
-parallelism	NN
-in	PIN CONJ PREP
-lines	NN
-12	NUM
--	
-16	NUM
-supports	VPRT
-the	ART DET
-image	NN
-of	PIN PREP
-violation	NOMZ
-of	PIN PREP
-law	NN
-as	PIN CONJ PREP
-you	SPP2 PRP SBJP
-can	POMD
-get	INF
-killed	
-"	QUOT
-for	PIN PREP
-your	SPP2 PRP SBJP
-Rolex	CAP NNP
-watch	NN
-/	
-or	CCONJ
-your	SPP2 PRP SBJP
-Nike	CAP NNP
-boots/	NUM
-or	CCONJ
-if	COND PIN SCONJ PREP
-you	SPP2 PRP SBJP
-look	VPRT
-crooked	JJ
-at	PIN PREP
-somebody	QUPR INPR
-"	QUOT
-(	
-l.13	NNP
--	
-15	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-parallelism	NN
-,	
-the	ART DET
-reason	PRIV NN
-for	PIN PREP
-getting	PGAS
-shot	NN
-becomes	VPRT
-less	RB CMADJ
-and	PHC CCONJ
-less	RB CMADJ
-important	JJ
-.	
-First	RB CAP
-you	SPP2 PRP SBJP
-are	PASS VPRT AUXB
-shot	
-for	PIN PREP
-the	ART DET
-expensive	JJ
-things	NN
-you	SPP2 PRP SBJP
-wear	VPRT
--"Rolex	NNP
-"	QUOT
-and	ANDC CCONJ
-"	QUOT
-Nike	CAP NNP
-"	QUOT
-serve	NN
-as	PIN CONJ PREP
-symbols	NN
-for	PIN PREP
-expensive	JJ
-branches	NN
-(	
-Rolex	CAP NNP
-is	VPRT AUXB
-even	RB
-more	RB EMPH CMADJ
-expensive	JJ
-than	PIN PREP
-Nike	CAP NNP
-)	
-here	RB
--	
-but	CCONJ
-then	RB
-even	RB
-for	PIN PREP
-the	ART DET
-way	NN
-you	SPP2 PRP SBJP
-look	VPRT
-at	PIN PREP
-other	JJ
-people	NN
-.	
-Thus	RB CONJ CAP
-,	
-the	ART DET
-parallelism	NN
-stresses	VPRT
-the	ART DET
-senseless-	NN
-and	PHC CCONJ
-arbitrariness	NOMZ
-of	PIN PREP
-the	ART DET
-crime	NN
-.	
-Another	CAP DET
-aspect	NN
-,	
-which	SERE WHQU DET WH
-is	VPRT AUXB
-graphically	RB
-salient	NN
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-inverted	
-commas	NN
-,	
-is	BEMA VPRT AUXB
-the	ART DET
-use	NN
-of	PIN PREP
-direct	JJ
-speech	NN
-in	PIN CONJ PREP
-line	NN
-21	NUM
-.	
-By	PIN CAP PREP
-foregrounding	GER PGAS
-the	ART DET
-"	QUOT
-Have	VPRT CAP
-a	ART DET INDA
-nice	JJ
-day	NN
-"	QUOT
-,	
-the	ART DET
-people	NN
-'s	
-ignorance	NN
-and	PHC CCONJ
-attempt	NN
-to	PIN TO PREP
-live	INF
-a	ART DET INDA
-normal	JJ
-life	NN
-is	PASS VPRT AUXB
-contrasted	
-to	PIN PREP
-the	ART DET
-harsh	JJ
-reality	NOMZ
-that	TSUB WHSUB WH
-is	PASS VPRT AUXB
-described	
-in	PIN CONJ PREP
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-.	
-The	ART CAP DET
-sentence	NN
-has	VPRT
-also	RB
-an	ART DET INDA
-ironical	JJ
-connotation	NOMZ
-as	PIN CONJ PREP
-you	SPP2 PRP SBJP
-will	PRMD SPAU
-never	RB
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-have	INF
-a	ART DET INDA
-nice	JJ
-day	NN
-in	PIN CONJ PREP
-such	EMPH DET
-a	ART DET INDA
-surrounding	GER
-.	
-Besides	PIN CAP SCONJ PREP
-the	ART DET
-word	NN
-choice	NN
-and	PHC CCONJ
-combination	NOMZ
-,	
-the	ART DET
-phonology	NN
-of	PIN PREP
-the	ART DET
-words	NN
-also	RB
-helps	VPRT
-to	PIN TO PREP
-draw	INF
-a	ART DET INDA
-picture	NN
-of	PIN PREP
-a	ART DET INDA
-violent	JJ
-and	PHC CCONJ
-dangerous	JJ
-place	NN
-.	
-Throughout	PIN CAP PREP
-the	ART DET
-poem	NN
-,	
-many	QUAN JJ
-plosives	NN
--	
-especially	RB
-the	ART DET
-bilabial	JJ
-phoneme	NN
-/p/	NN
--	
-are	PASS VPRT AUXB
-used	
-.	
-As	PIN CONJ CAP PREP
-these	DEMP DET
-are	BEMA VPRT AUXB
-very	AMP RB
-short	JJ
-and	PHC CCONJ
-aspirated	JJ
-sounds	NN
-,	
-they	TPP3 PRP SBJP
-sound	VPRT
-like	PIN PREP
-single	JJ
-gun	NN
-shots	NN
-and	ANDC CCONJ
-thus	RB CONJ
-support	INF
-the	ART DET
-image	NN
-of	PIN PREP
-war	NN
-.	
-A	ART CAP DET INDA
-very	AMP RB
-good	JJ
-example	NN
-are	BEMA VPRT AUXB
-the	ART DET
-"	QUOT
-b	NNP
-ullet	JJ
-p	NN
-roof	NN
-b	NNP
-ack	NN
-p	NN
-acks	NN
-"	QUOT
-(	
-l.3	UH
-)	
-as	PIN CONJ STPR PREP
--	
-when	RB SCONJ WH
-read	
-aloud	RB
--	
-it	PIT PRP SBJP
-really	RB EMPH
-seems	VPRT SMP
-as	PIN CONJ PREP
-if	COND PIN SCONJ PREP
-bullets	NN
-were	PASS VBD AUXB
-shot	
-with	PIN PREP
-a	ART DET INDA
-machine	NN
-gun	NN
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-/b/	
-/p/	NNP
-/b/	
-/p/	NNP
-sequence	NN
-.	
-Another	CAP DET
-example	NN
-is	VPRT AUXB
-"	QUOT
-c	NNP
-ould	NNP
-ge	NNP
-t	NNP
-sho	NNP
-t	NN
-"	QUOT
-(	
-l.12	NNP
-)	
-where	RB SCONJ WH
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-the	ART DET
-plosives	NN
-/k/	
-and	ANDC CCONJ
-/t/	NNP
-with	PIN PREP
-monosyllabic	JJ
-words	NN
-produces	VPRT
-disjoint	NN
-,	
-machine	NN
-gun	NN
-like	PIN PREP
-sounds	NN
-.	
-Besides	PIN CAP SCONJ PREP
-the	ART DET
-plosives	NN
-,	
-the	ART DET
-use	NN
-of	PIN PREP
-the	ART DET
-/oi/	NNP
-and	CCONJ
-/ei/	JJ
-diphtongs	NN
-in	PIN CONJ STPR PREP
-"	QUOT
-oi	X
-vei	X
-"	QUOT
-(	
-l.	NNP
-12	NUM
-)	
-helps	VPRT
-to	PIN TO PREP
-create	INF
-a	ART DET INDA
-sound	NN
-of	PIN PREP
-deep	JJ
-sorrow	NN
-to	PIN TO PREP
-display	INF
-the	ART DET
-persona	NN
-'s	
-grief	NN
-about	PIN PREP
-the	ART DET
-situation	NOMZ
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-because	CAUS PIN SCONJ PREP
-diphthongs	NN
-are	BEMA VPRT AUXB
-very	AMP RB
-long	JJ
-sounds	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-glide	VPRT
-from	PIN PREP
-one	NUM
-vowel	NN
-to	PIN PREP
-another	DET
-and	ANDC CCONJ
-they	TPP3 PRP SBJP
-can	POMD
-be	PASS BYPA AUXB INF
-drawn	
-out	PIN PREP
-by	PIN PREP
-a	ART DET INDA
-speaker	NN
-as	OSUB RB CONJ
-long	RB
-as	PIN CONJ PREP
-he	TPP3 PRP SBJP
-/	
-she	TPP3 PRP SBJP
-wishes	VPRT
-.	
-Another	CAP DET
-sound	NN
-pattern	NN
-is	BEMA VPRT AUXB
-the	ART DET
-alliteration	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-title	NN
-"	QUOT
-N	NN CAP
-ot	X
-a	ART DET INDA
-N	CAP NNP
-ice	NN
-Place	CAP NNP
-"	QUOT
-that	WHQU DEMP WH
-is	PASS VPRT SPAU AUXB
-also	RB
-repeated	PUBV
-in	PIN CONJ PREP
-line	NN
-10	NUM
-.	
-By	PIN CAP PREP
-foregrounding	GER PGAS
-the	ART DET
-"	QUOT
-not	XX0 RB
-nice	JJ
-"	QUOT
-phonologically	RB
-,	
-the	ART DET
-euphemism	NN
-of	PIN PREP
-that	DEMO DET
-expression	NOMZ
-is	PASS VPRT AUXB
-underlined	
-as	PIN CONJ PREP
-the	ART DET
-place	NN
-is	VPRT AUXB
-not	XX0 RB
-only	DWNT RB
-not	XX0 RB
-nice	JJ
-but	CCONJ
-rather	RB
-like	PIN PREP
-hell	NN
-.	
-For	PIN CAP PREP
-my	FPP1 PRP SBJP
-rewrite	NN
-,	
-I	FPP1 CAP PRP SBJP
-have	VPRT PEAS SPAU
-also	RB
-chosen	
-this	DEMO DET
-line	NN
-and	ANDC CCONJ
-I	FPP1 CAP PRP SBJP
-will	PRMD
-rewrite	INF
-it	PIT PRP SBJP
-from	PIN STPR PREP
-"	QUOT
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-nice	JJ
-place	NN
-"	QUOT
-to	PIN TO STPR PREP
-"	QUOT
-Oh	CAP UH
-,	
-it	PIT PRP SBJP
-'s	VPRT
-such	EMPH DET
-a	ART DET INDA
-lovely	JJ
-place	NN
-.	
-"	QUOT
-The	ART CAP DET
-reason	PRIV NN
-for	PIN PREP
-this	DEMO DET
-rewriting	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-people	NN
-often	RB
-,	
-when	RB SCONJ WH
-asked	SUAV
-about	PIN PREP
-their	TPP3 PRP SBJP
-home	NN
-country	NN
-and	ANDC CCONJ
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-like	VPRT
-it	PIT PRP SBJP
-there	RB
-,	
-answer	INF
-something	QUPR INPR
-similar	JJ
-to	PIN PREP
-the	ART DET
-rewrite	NN
-.	
-But	CAP CCONJ
-in	PIN CONJ PREP
-this	DEMO DET
-context	NN
-,	
-such	DET
-an	ART DET INDA
-answer	NN
-is	BEMA VPRT AUXB
-completely	AMP RB
-inappropriate	JJ
-as	PIN CONJ PREP
-the	ART DET
-place	NN
-described	WZPAST
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-place	NN
-that	DEMO WHOBJ WH
-anybody	QUPR INPR
-would	PRMD
-call	INF
-"	QUOT
-lovely	JJ
-"	QUOT
-.	
-Thus	RB CONJ CAP
-,	
-with	PIN PREP
-the	ART DET
-help	NN
-of	PIN PREP
-the	ART DET
-sharp	JJ
-contrast	NN
-between	PIN PREP
-this	DEMO DET
-line	NN
-and	CCONJ
-the	ART DET
-rest	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-the	ART DET
-addressee	NN
-realizes	VPRT PRIV
-the	ART DET
-irony	NN
-of	PIN PREP
-the	ART DET
-sentence	NN
-and	CCONJ
-its	PIT PRP SBJP
-sarcastic	JJ
-connotation	NOMZ
-.	
-To	PIN CAP PREP
-my	FPP1 PRP SBJP
-mind	NN
-,	
-the	ART DET
-rewritten	
-line	NN
-is	BEMA VPRT AUXB
-even	RB
-more	JJ EMPH CMADJ
-salient	NN
-than	PIN PREP
-the	ART DET
-original	JJ
-one	NN
-as	PIN CONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-the	ART DET
-word	NN
-"	QUOT
-lovely	JJ
-"	QUOT
-creates	VPRT
-a	ART DET INDA
-greater	JJ CMADJ
-deviation	NOMZ
-from	PIN PREP
-the	ART DET
-general	JJ
-mood	NN
-and	PHC CCONJ
-lexis	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-than	PIN PREP
-does	VPRT PROD
-"	QUOT
-not	XX0 RB
-nice	JJ
-"	QUOT
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-the	ART DET
-ironic	JJ
-connotation	NOMZ
-,	
-the	ART DET
-persona	NN
-'s	
-criticism	NN
-and	PHC CCONJ
-attempt	NN
-to	PIN TO PREP
-dissociate	INF
-himself	TPP3 PRP SBJP ACCU
-/	
-herself	TPP3 PRP SBJP ACCU
-from	PIN PREP
-the	ART DET
-described	
-place	NN
-becomes	VPRT
-even	RB
-clearer	JJ CMADJ
-.	
-All	QUAN CAP DET
-in	RB PIN CONJ PREP
-all	QUAN DET
-,	
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-a	ART DET INDA
-persona	NN
-directly	RB
-addresses	VPRT
-the	ART DET
-audience	NN
-like	PIN PREP
-in	PIN CONJ PREP
-a	ART DET INDA
-dramatic	JJ
-speech	NN
-has	VPRT
-the	ART DET
-effect	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-poem	NN
-'s	
-content	NN
-is	PASS VPRT AUXB
-brought	
-closer	RB CMADJ
-to	PIN PREP
-the	ART DET
-addressee	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-get	VPRT
-more	RB EMPH CMADJ
-involved	JJ
-.	
-Furthermore	RB CONJ CAP
-,	
-by	PIN PREP
-combining	PGAS
-war	NN
-vocabulary	NN
-with	PIN PREP
-such	JJ
-phonological	JJ
-effects	NN
-as	PIN CONJ PREP
-described	
-in	PIN CONJ PREP
-the	ART DET
-essay	NN
-,	
-the	ART DET
-danger	NN
-and	PHC CCONJ
-violation	NOMZ
-of	PIN PREP
-law	NN
-can	POMD
-be	PASS AUXB INF
-stressed	
-effectively	RB
-as	PIN CONJ PREP
-these	DEMP DET
-are	PASS VPRT AUXB
-perceived	PRIV
-visually	RB
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-audibly	RB
-.	
-Thus	RB CONJ CAP
-,	
-each	QUAN DET
-linguistic	JJ
-feature	NN
-that	TSUB WHSUB WH
-has	VPRT PEAS
-been	PASS AUXB
-described	
-above	PIN PLACE PREP
-contributes	VPRT
-to	PIN PREP
-the	ART DET
-main	JJ
-topic	NN
-of	PIN PREP
-the	ART DET
-poem	NN
-,	
-namely	RB CONJ
-to	PIN TO PREP
-draw	INF
-a	ART DET INDA
-picture	NN
-of	PIN PREP
-a	ART DET INDA
-violent	JJ
-and	PHC CCONJ
-dangerous	JJ
-place	NN
-and	CCONJ
-to	PIN TO PREP
-criticize	INF
-the	ART DET
-behaviour	NN
-of	PIN PREP
-the	ART DET
-people	NN
-living	WZPRES PGAS
-there	RB
-.	
+type	content	tags
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	title	NN
+gap	 	
+word	already	RB
+gap	 	
+word	indicates	VPRT PRIV
+gap	, 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 "	
+word	Not	XX0 RB CAP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Nice	CAP NNP
+gap	 	
+word	Place	CAP NNP
+gap	" 	
+word	describes	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	violent	JJ
+gap	 	
+word	place	NN
+gap	, 	
+word	probably	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	whole	JJ
+gap	 	
+word	country	NN
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	people	NN
+gap	 	
+word	live	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	danger	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	have	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	fear	PRIV INF
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	lives	NN
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	day	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	mood	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	chaos	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	violence	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	established	PRIV
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	help	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	linguistic	JJ
+gap	 	
+word	features	NN
+gap	, 	
+word	namely	RB CONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	lexis	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	word	NN
+gap	 	
+word	combination	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	sound	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	visual	JJ
+gap	 	
+word	patterning	GER
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	structure	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	going	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	analyse	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	respect	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	above	RB PLACE
+gap	 	
+word	mentioned	PUBV
+gap	 	
+word	features	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	two	NUM
+gap	 	
+word	lines	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 "	
+word	Holy	JJ CAP
+gap	 	
+word	cow	NN
+gap	! 	
+word	You	SPP2 CAP PRP SBJP
+gap	 	
+word	should	NEMD
+gap	 	
+word	see	PRIV INF
+gap	 	
+word	that	THVC DET
+gap	 	
+word	place	NN
+gap	." 	
+word	make	INF
+gap	 	
+word	clear	JJ
+gap	 	
+word	right	JJ
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	persona	NN
+gap	 	
+word	directly	RB
+gap	 	
+word	addressing	GER PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	audience	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	done	PROD
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pronoun	NN
+gap	 "	
+word	you	SPP2 PRP SBJP
+gap	" 	
+word	and	ANDC CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	can	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	either	CCONJ
+gap	 	
+word	singular	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	plural	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	may	POMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	either	CCONJ
+gap	 	
+word	one	NUM
+gap	 	
+word	addressee	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	several	QUAN JJ
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	monologue	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	dialogue	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	established	PRIV
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	more	JJ PRED EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	one	NUM
+gap	 	
+word	participant	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	poem	NN
+gap	 	
+word	then	RB
+gap	 (	
+word	l	NNP
+gap	. 3-26) 	
+word	contains	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	detailed	JJ
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	place	NN
+gap	 	
+word	hinted	PUBV WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	line	NN
+gap	 2 	
+word	and	ANDC CCONJ
+gap	 	
+word	thus	RB CONJ
+gap	 	
+word	refers	VPRT
+gap	 	
+word	back	RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	line	NN
+gap	. 	
+word	Here	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	persona	NN
+gap	 	
+word	takes	VPRT
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	role	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	observer	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	informs	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	addressee	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	violence	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	danger	NN
+gap	 	
+word	people	NN
+gap	 	
+word	live	VPRT
+gap	 	
+word	in	PIN CONJ STPR PREP
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	favoured	
+gap	 	
+word	sentence	NN
+gap	-	
+word	type	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	stating	PUBV PGAS
+gap	 	
+word	one	NUM
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	third	JJ
+gap	 	
+word	person	NN
+gap	 	
+word	plural	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	predominant	JJ PRED
+gap	, 	
+word	either	CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	personal	JJ
+gap	 	
+word	pronoun	NN
+gap	 "	
+word	they	TPP3 PRP SBJP
+gap	" (	
+word	l	NNP
+gap	.8) 	
+word	or	CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	subjects	NN
+gap	 	
+word	like	PIN STPR PREP
+gap	 "	
+word	children	NN
+gap	" (	
+word	l	NNP
+gap	.3), "	
+word	men	NN
+gap	" (	
+word	l	NN
+gap	.6), "	
+word	women	NN
+gap	" (	
+word	l	NNP
+gap	.7) 	
+word	and	ANDC CCONJ
+gap	 "	
+word	people	NN
+gap	" (	
+word	l	NN
+gap	.5). 	
+word	This	DEMP CAP DET
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	everybody	QUPR INPR
+gap	, 	
+word	even	RB
+gap	 	
+word	children	NN
+gap	, 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	involved	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conflict	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	last	JJ
+gap	 	
+word	two	NUM
+gap	 	
+word	lines	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	similar	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	two	NUM
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	involve	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	direct	JJ
+gap	 	
+word	address	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	audience	NN
+gap	 	
+word	via	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	rhetorical	JJ
+gap	 	
+word	question	NOMZ
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	frame	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	created	
+gap	 	
+word	which	DET WH
+gap	 	
+word	underlines	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	persona	
+gap	´	
+word	s	
+gap	 	
+word	shock	
+gap	 ("	
+word	Holy	
+gap	 	
+word	cow	
+gap	!" (	
+word	l	
+gap	.1) ) 	
+word	about	
+gap	 	
+word	what	
+gap	 	
+word	he	
+gap	/	
+word	she	
+gap	 	
+word	sees	
+gap	 	
+word	and	
+gap	 	
+word	which	
+gap	 - 	
+word	in	
+gap	 	
+word	contrast	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	mainly	
+gap	 	
+word	descriptive	
+gap	 	
+word	main	
+gap	 	
+word	part	
+gap	 - 	
+word	displays	
+gap	 	
+word	his	
+gap	/	
+word	her	
+gap	 	
+word	personal	
+gap	 	
+word	judgement	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	events	
+gap	. 	
+word	Concerning	
+gap	 	
+word	the	
+gap	 	
+word	visual	
+gap	 	
+word	and	
+gap	 	
+word	sound	
+gap	 	
+word	pattern	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	very	
+gap	 	
+word	striking	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	fulfil	
+gap	 	
+word	many	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	typical	
+gap	 	
+word	features	
+gap	 	
+word	of	
+gap	 	
+word	its	
+gap	 	
+word	genre	
+gap	 	
+word	poetry	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	neither	
+gap	 	
+word	subdivided	
+gap	 	
+word	into	
+gap	 	
+word	stanzas	
+gap	, 	
+word	nor	
+gap	 	
+word	is	
+gap	 	
+word	there	
+gap	 	
+word	a	
+gap	 	
+word	particular	
+gap	 	
+word	rhyme	
+gap	 	
+word	scheme	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	no	
+gap	 	
+word	regular	
+gap	 	
+word	rhythm	
+gap	 	
+word	or	
+gap	 	
+word	metre	
+gap	. 	
+word	The	
+gap	 	
+word	only	
+gap	 	
+word	visual	
+gap	 	
+word	aspect	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	maintained	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	is	
+gap	 	
+word	written	
+gap	 	
+word	in	
+gap	 	
+word	lines	
+gap	. 	
+word	But	
+gap	 	
+word	unlike	
+gap	 	
+word	other	
+gap	 	
+word	poems	
+gap	, 	
+word	where	
+gap	 	
+word	every	
+gap	 	
+word	line	
+gap	 	
+word	begins	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	capital	
+gap	 	
+word	letter	
+gap	, 	
+word	no	
+gap	 	
+word	matter	
+gap	 	
+word	if	
+gap	 	
+word	the	
+gap	 	
+word	line	
+gap	 	
+word	starts	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	middle	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	sentence	
+gap	, 	
+word	some	
+gap	 	
+word	lines	
+gap	 	
+word	also	
+gap	 	
+word	begin	
+gap	 	
+word	with	
+gap	 	
+word	small	
+gap	 	
+word	letters	
+gap	 	
+word	here	
+gap	. 	
+word	They	
+gap	 	
+word	are	
+gap	 	
+word	only	
+gap	 	
+word	capitalized	
+gap	 	
+word	if	
+gap	 	
+word	they	
+gap	 	
+word	mark	
+gap	 	
+word	the	
+gap	 	
+word	beginning	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	new	
+gap	 	
+word	sentence	
+gap	. 	
+word	Furthermore	
+gap	, 	
+word	the	
+gap	 	
+word	normal	
+gap	 	
+word	sentence	
+gap	 	
+word	structure	
+gap	 	
+word	of	
+gap	 	
+word	SVO	
+gap	 	
+word	is	
+gap	 	
+word	maintained	
+gap	 	
+word	and	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	deviation	
+gap	 	
+word	from	
+gap	 	
+word	it	
+gap	. 	
+word	To	
+gap	 	
+word	my	
+gap	 	
+word	mind	
+gap	, 	
+word	all	
+gap	 	
+word	this	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	effect	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	resembles	
+gap	 	
+word	more	
+gap	 	
+word	a	
+gap	 	
+word	dramatic	
+gap	 	
+word	speech	
+gap	 	
+word	spoken	
+gap	 	
+word	to	
+gap	 	
+word	an	
+gap	 	
+word	audience	
+gap	. 	
+word	This	
+gap	 	
+word	also	
+gap	 	
+word	fits	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	findings	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	paragraph	
+gap	, 	
+word	namely	
+gap	 	
+word	that	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	persona	
+gap	 (	
+word	or	
+gap	 	
+word	speaker	
+gap	) 	
+word	addressing	
+gap	 	
+word	an	
+gap	 	
+word	addressee	
+gap	 (	
+word	audience	
+gap	) 	
+word	to	
+gap	 	
+word	inform	
+gap	 	
+word	and	
+gap	 	
+word	make	
+gap	 	
+word	them	
+gap	 	
+word	think	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	miserable	
+gap	 	
+word	conditions	
+gap	 	
+word	the	
+gap	 	
+word	people	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	 	
+word	in	
+gap	. 	
+word	These	
+gap	 	
+word	terrible	
+gap	 	
+word	conditions	
+gap	 	
+word	are	
+gap	 	
+word	mainly	
+gap	 	
+word	illustrated	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	lexis	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	words	
+gap	. 	
+word	The	
+gap	 	
+word	vocabulary	
+gap	 	
+word	is	
+gap	 	
+word	predominantly	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	area	
+gap	 	
+word	of	
+gap	 	
+word	war	
+gap	 	
+word	as	
+gap	 	
+word	for	
+gap	 	
+word	example	
+gap	 	
+word	the	
+gap	 	
+word	words	
+gap	 "	
+word	bulletproof	
+gap	" (	
+word	l	
+gap	.3), "	
+word	war	
+gap	 	
+word	surgeons	
+gap	" (	
+word	l	
+gap	.11), "	
+word	shot	
+gap	" (	
+word	l	
+gap	.12) 	
+word	and	
+gap	 "	
+word	Uzi	
+gap	 	
+word	sub	
+gap	-	
+word	machine	
+gap	 	
+word	guns	
+gap	" (	
+word	l	
+gap	.23) 	
+word	show	
+gap	. 	
+word	By	
+gap	 	
+word	this	
+gap	, 	
+word	an	
+gap	 	
+word	atmosphere	
+gap	 	
+word	of	
+gap	 	
+word	chaos	
+gap	 	
+word	and	
+gap	 	
+word	danger	
+gap	 	
+word	is	
+gap	 	
+word	established	
+gap	. 	
+word	The	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	parallelisms	
+gap	 	
+word	underlines	
+gap	 	
+word	this	
+gap	 	
+word	impression	
+gap	. 	
+word	In	
+gap	 	
+word	particular	
+gap	 	
+word	the	
+gap	 	
+word	parallelism	
+gap	 	
+word	in	
+gap	 	
+word	lines	
+gap	 12-16 	
+word	supports	
+gap	 	
+word	the	
+gap	 	
+word	image	
+gap	 	
+word	of	
+gap	 	
+word	violation	
+gap	 	
+word	of	
+gap	 	
+word	law	
+gap	 	
+word	as	
+gap	 	
+word	you	
+gap	 	
+word	can	
+gap	 	
+word	get	
+gap	 	
+word	killed	
+gap	 "	
+word	for	
+gap	 	
+word	your	
+gap	 	
+word	Rolex	
+gap	 	
+word	watch	
+gap	/	
+word	or	
+gap	 	
+word	your	
+gap	 	
+word	Nike	
+gap	 	
+word	boots	
+gap	/ 	
+word	or	
+gap	 	
+word	if	
+gap	 	
+word	you	
+gap	 	
+word	look	
+gap	 	
+word	crooked	
+gap	 	
+word	at	
+gap	 	
+word	somebody	
+gap	" (	
+word	l	
+gap	.13-15). 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	parallelism	
+gap	, 	
+word	the	
+gap	 	
+word	reason	
+gap	 	
+word	for	
+gap	 	
+word	getting	
+gap	 	
+word	shot	
+gap	 	
+word	becomes	
+gap	 	
+word	less	
+gap	 	
+word	and	
+gap	 	
+word	less	
+gap	 	
+word	important	
+gap	. 	
+word	First	
+gap	 	
+word	you	
+gap	 	
+word	are	
+gap	 	
+word	shot	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	expensive	
+gap	 	
+word	things	
+gap	 	
+word	you	
+gap	 	
+word	wear	
+gap	 -"	
+word	Rolex	
+gap	" 	
+word	and	
+gap	 "	
+word	Nike	
+gap	" 	
+word	serve	
+gap	 	
+word	as	
+gap	 	
+word	symbols	
+gap	 	
+word	for	
+gap	 	
+word	expensive	
+gap	 	
+word	branches	
+gap	 (	
+word	Rolex	
+gap	 	
+word	is	
+gap	 	
+word	even	
+gap	 	
+word	more	
+gap	 	
+word	expensive	
+gap	 	
+word	than	
+gap	 	
+word	Nike	
+gap	) 	
+word	here	
+gap	 - 	
+word	but	
+gap	 	
+word	then	
+gap	 	
+word	even	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	way	
+gap	 	
+word	you	
+gap	 	
+word	look	
+gap	 	
+word	at	
+gap	 	
+word	other	
+gap	 	
+word	people	
+gap	. 	
+word	Thus	
+gap	, 	
+word	the	
+gap	 	
+word	parallelism	
+gap	 	
+word	stresses	
+gap	 	
+word	the	
+gap	 	
+word	senseless	
+gap	- 	
+word	and	
+gap	 	
+word	arbitrariness	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	crime	
+gap	. 	
+word	Another	
+gap	 	
+word	aspect	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	graphically	
+gap	 	
+word	salient	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	inverted	
+gap	 	
+word	commas	
+gap	, 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	direct	
+gap	 	
+word	speech	
+gap	 	
+word	in	
+gap	 	
+word	line	
+gap	 21. 	
+word	By	
+gap	 	
+word	foregrounding	
+gap	 	
+word	the	
+gap	 "	
+word	Have	
+gap	 	
+word	a	
+gap	 	
+word	nice	
+gap	 	
+word	day	
+gap	", 	
+word	the	
+gap	 	
+word	people	
+gap	'	
+word	s	
+gap	 	
+word	ignorance	
+gap	 	
+word	and	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	live	
+gap	 	
+word	a	
+gap	 	
+word	normal	
+gap	 	
+word	life	
+gap	 	
+word	is	
+gap	 	
+word	contrasted	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	harsh	
+gap	 	
+word	reality	
+gap	 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	described	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	rest	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	. 	
+word	The	
+gap	 	
+word	sentence	
+gap	 	
+word	has	
+gap	 	
+word	also	
+gap	 	
+word	an	
+gap	 	
+word	ironical	
+gap	 	
+word	connotation	
+gap	 	
+word	as	
+gap	 	
+word	you	
+gap	 	
+word	will	
+gap	 	
+word	never	
+gap	 	
+word	be	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	nice	
+gap	 	
+word	day	
+gap	 	
+word	in	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	surrounding	
+gap	. 	
+word	Besides	
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 	
+word	choice	
+gap	 	
+word	and	
+gap	 	
+word	combination	
+gap	, 	
+word	the	
+gap	 	
+word	phonology	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	words	
+gap	 	
+word	also	
+gap	 	
+word	helps	
+gap	 	
+word	to	
+gap	 	
+word	draw	
+gap	 	
+word	a	
+gap	 	
+word	picture	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	violent	
+gap	 	
+word	and	
+gap	 	
+word	dangerous	
+gap	 	
+word	place	
+gap	. 	
+word	Throughout	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	many	
+gap	 	
+word	plosives	
+gap	 - 	
+word	especially	
+gap	 	
+word	the	
+gap	 	
+word	bilabial	
+gap	 	
+word	phoneme	
+gap	 /	
+word	p	
+gap	/ - 	
+word	are	
+gap	 	
+word	used	
+gap	. 	
+word	As	
+gap	 	
+word	these	
+gap	 	
+word	are	
+gap	 	
+word	very	
+gap	 	
+word	short	
+gap	 	
+word	and	
+gap	 	
+word	aspirated	
+gap	 	
+word	sounds	
+gap	, 	
+word	they	
+gap	 	
+word	sound	
+gap	 	
+word	like	
+gap	 	
+word	single	
+gap	 	
+word	gun	
+gap	 	
+word	shots	
+gap	 	
+word	and	
+gap	 	
+word	thus	
+gap	 	
+word	support	
+gap	 	
+word	the	
+gap	 	
+word	image	
+gap	 	
+word	of	
+gap	 	
+word	war	
+gap	. 	
+word	A	
+gap	 	
+word	very	
+gap	 	
+word	good	
+gap	 	
+word	example	
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 " 	
+word	b	
+gap	 	
+word	ullet	
+gap	 	
+word	p	
+gap	 	
+word	roof	
+gap	 	
+word	b	
+gap	 	
+word	ack	
+gap	 	
+word	p	
+gap	 	
+word	acks	
+gap	" (	
+word	l	
+gap	.3) 	
+word	as	
+gap	 - 	
+word	when	
+gap	 	
+word	read	
+gap	 	
+word	aloud	
+gap	 - 	
+word	it	
+gap	 	
+word	really	
+gap	 	
+word	seems	
+gap	 	
+word	as	
+gap	 	
+word	if	
+gap	 	
+word	bullets	
+gap	 	
+word	were	
+gap	 	
+word	shot	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	machine	
+gap	 	
+word	gun	
+gap	 	
+word	because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 /	
+word	b	
+gap	/ /	
+word	p	
+gap	/ /	
+word	b	
+gap	/ /	
+word	p	
+gap	/ 	
+word	sequence	
+gap	. 	
+word	Another	
+gap	 	
+word	example	
+gap	 	
+word	is	
+gap	 " 	
+word	c	
+gap	 	
+word	ould	
+gap	 	
+word	ge	
+gap	 	
+word	t	
+gap	 	
+word	sho	
+gap	 	
+word	t	
+gap	 " (	
+word	l	
+gap	.12) 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	combination	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	plosives	
+gap	 /	
+word	k	
+gap	/ 	
+word	and	
+gap	 /	
+word	t	
+gap	/ 	
+word	with	
+gap	 	
+word	monosyllabic	
+gap	 	
+word	words	
+gap	 	
+word	produces	
+gap	 	
+word	disjoint	
+gap	, 	
+word	machine	
+gap	 	
+word	gun	
+gap	 	
+word	like	
+gap	 	
+word	sounds	
+gap	. 	
+word	Besides	
+gap	 	
+word	the	
+gap	 	
+word	plosives	
+gap	, 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 /	
+word	oi	
+gap	/ 	
+word	and	
+gap	 /	
+word	ei	
+gap	/ 	
+word	diphtongs	
+gap	 	
+word	in	
+gap	 "	
+word	oi	
+gap	 	
+word	vei	
+gap	" (	
+word	l	
+gap	. 12) 	
+word	helps	
+gap	 	
+word	to	
+gap	 	
+word	create	
+gap	 	
+word	a	
+gap	 	
+word	sound	
+gap	 	
+word	of	
+gap	 	
+word	deep	
+gap	 	
+word	sorrow	
+gap	 	
+word	to	
+gap	 	
+word	display	
+gap	 	
+word	the	
+gap	 	
+word	persona	
+gap	'	
+word	s	
+gap	 	
+word	grief	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	situation	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	because	
+gap	 	
+word	diphthongs	
+gap	 	
+word	are	
+gap	 	
+word	very	
+gap	 	
+word	long	
+gap	 	
+word	sounds	
+gap	 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	glide	
+gap	 	
+word	from	
+gap	 	
+word	one	
+gap	 	
+word	vowel	
+gap	 	
+word	to	
+gap	 	
+word	another	
+gap	 	
+word	and	
+gap	 	
+word	they	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	drawn	
+gap	 	
+word	out	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	speaker	
+gap	 	
+word	as	
+gap	 	
+word	long	
+gap	 	
+word	as	
+gap	 	
+word	he	
+gap	/	
+word	she	
+gap	 	
+word	wishes	
+gap	. 	
+word	Another	
+gap	 	
+word	sound	
+gap	 	
+word	pattern	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	alliteration	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	title	
+gap	 " 	
+word	N	
+gap	 	
+word	ot	
+gap	 	
+word	a	
+gap	 	
+word	N	
+gap	 	
+word	ice	
+gap	 	
+word	Place	
+gap	" 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	also	
+gap	 	
+word	repeated	
+gap	 	
+word	in	
+gap	 	
+word	line	
+gap	 10. 	
+word	By	
+gap	 	
+word	foregrounding	
+gap	 	
+word	the	
+gap	 "	
+word	not	
+gap	 	
+word	nice	
+gap	" 	
+word	phonologically	
+gap	, 	
+word	the	
+gap	 	
+word	euphemism	
+gap	 	
+word	of	
+gap	 	
+word	that	
+gap	 	
+word	expression	
+gap	 	
+word	is	
+gap	 	
+word	underlined	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	place	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	only	
+gap	 	
+word	not	
+gap	 	
+word	nice	
+gap	 	
+word	but	
+gap	 	
+word	rather	
+gap	 	
+word	like	
+gap	 	
+word	hell	
+gap	. 	
+word	For	
+gap	 	
+word	my	
+gap	 	
+word	rewrite	
+gap	, 	
+word	I	
+gap	 	
+word	have	
+gap	 	
+word	also	
+gap	 	
+word	chosen	
+gap	 	
+word	this	
+gap	 	
+word	line	
+gap	 	
+word	and	
+gap	 	
+word	I	
+gap	 	
+word	will	
+gap	 	
+word	rewrite	
+gap	 	
+word	it	
+gap	 	
+word	from	
+gap	 "	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	nice	
+gap	 	
+word	place	
+gap	" 	
+word	to	
+gap	 "	
+word	Oh	
+gap	, 	
+word	it	
+gap	'	
+word	s	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	lovely	
+gap	 	
+word	place	
+gap	." 	
+word	The	
+gap	 	
+word	reason	
+gap	 	
+word	for	
+gap	 	
+word	this	
+gap	 	
+word	rewriting	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	people	
+gap	 	
+word	often	
+gap	, 	
+word	when	
+gap	 	
+word	asked	
+gap	 	
+word	about	
+gap	 	
+word	their	
+gap	 	
+word	home	
+gap	 	
+word	country	
+gap	 	
+word	and	
+gap	 	
+word	if	
+gap	 	
+word	they	
+gap	 	
+word	like	
+gap	 	
+word	it	
+gap	 	
+word	there	
+gap	, 	
+word	answer	
+gap	 	
+word	something	
+gap	 	
+word	similar	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	rewrite	
+gap	. 	
+word	But	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	context	
+gap	, 	
+word	such	
+gap	 	
+word	an	
+gap	 	
+word	answer	
+gap	 	
+word	is	
+gap	 	
+word	completely	
+gap	 	
+word	inappropriate	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	place	
+gap	 	
+word	described	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	a	
+gap	 	
+word	place	
+gap	 	
+word	that	
+gap	 	
+word	anybody	
+gap	 	
+word	would	
+gap	 	
+word	call	
+gap	 "	
+word	lovely	
+gap	". 	
+word	Thus	
+gap	, 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	help	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	sharp	
+gap	 	
+word	contrast	
+gap	 	
+word	between	
+gap	 	
+word	this	
+gap	 	
+word	line	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	rest	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	the	
+gap	 	
+word	addressee	
+gap	 	
+word	realizes	
+gap	 	
+word	the	
+gap	 	
+word	irony	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	sentence	
+gap	 	
+word	and	
+gap	 	
+word	its	
+gap	 	
+word	sarcastic	
+gap	 	
+word	connotation	
+gap	. 	
+word	To	
+gap	 	
+word	my	
+gap	 	
+word	mind	
+gap	, 	
+word	the	
+gap	 	
+word	rewritten	
+gap	 	
+word	line	
+gap	 	
+word	is	
+gap	 	
+word	even	
+gap	 	
+word	more	
+gap	 	
+word	salient	
+gap	 	
+word	than	
+gap	 	
+word	the	
+gap	 	
+word	original	
+gap	 	
+word	one	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	word	
+gap	 "	
+word	lovely	
+gap	" 	
+word	creates	
+gap	 	
+word	a	
+gap	 	
+word	greater	
+gap	 	
+word	deviation	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	general	
+gap	 	
+word	mood	
+gap	 	
+word	and	
+gap	 	
+word	lexis	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	 	
+word	than	
+gap	 	
+word	does	
+gap	 "	
+word	not	
+gap	 	
+word	nice	
+gap	". 	
+word	Because	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	ironic	
+gap	 	
+word	connotation	
+gap	, 	
+word	the	
+gap	 	
+word	persona	
+gap	'	
+word	s	
+gap	 	
+word	criticism	
+gap	 	
+word	and	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	dissociate	
+gap	 	
+word	himself	
+gap	/	
+word	herself	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	described	
+gap	 	
+word	place	
+gap	 	
+word	becomes	
+gap	 	
+word	even	
+gap	 	
+word	clearer	
+gap	. 	
+word	All	
+gap	 	
+word	in	
+gap	 	
+word	all	
+gap	, 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	persona	
+gap	 	
+word	directly	
+gap	 	
+word	addresses	
+gap	 	
+word	the	
+gap	 	
+word	audience	
+gap	 	
+word	like	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	dramatic	
+gap	 	
+word	speech	
+gap	 	
+word	has	
+gap	 	
+word	the	
+gap	 	
+word	effect	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	'	
+word	s	
+gap	 	
+word	content	
+gap	 	
+word	is	
+gap	 	
+word	brought	
+gap	 	
+word	closer	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	addressee	
+gap	 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	get	
+gap	 	
+word	more	
+gap	 	
+word	involved	
+gap	. 	
+word	Furthermore	
+gap	, 	
+word	by	
+gap	 	
+word	combining	
+gap	 	
+word	war	
+gap	 	
+word	vocabulary	
+gap	 	
+word	with	
+gap	 	
+word	such	
+gap	 	
+word	phonological	
+gap	 	
+word	effects	
+gap	 	
+word	as	
+gap	 	
+word	described	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	essay	
+gap	, 	
+word	the	
+gap	 	
+word	danger	
+gap	 	
+word	and	
+gap	 	
+word	violation	
+gap	 	
+word	of	
+gap	 	
+word	law	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	stressed	
+gap	 	
+word	effectively	
+gap	 	
+word	as	
+gap	 	
+word	these	
+gap	 	
+word	are	
+gap	 	
+word	perceived	
+gap	 	
+word	visually	
+gap	 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	audibly	
+gap	. 	
+word	Thus	
+gap	, 	
+word	each	
+gap	 	
+word	linguistic	
+gap	 	
+word	feature	
+gap	 	
+word	that	
+gap	 	
+word	has	
+gap	 	
+word	been	
+gap	 	
+word	described	
+gap	 	
+word	above	
+gap	 	
+word	contributes	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	main	
+gap	 	
+word	topic	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	poem	
+gap	, 	
+word	namely	
+gap	 	
+word	to	
+gap	 	
+word	draw	
+gap	 	
+word	a	
+gap	 	
+word	picture	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	violent	
+gap	 	
+word	and	
+gap	 	
+word	dangerous	
+gap	 	
+word	place	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	criticize	
+gap	 	
+word	the	
+gap	 	
+word	behaviour	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	people	
+gap	 	
+word	living	
+gap	 	
+word	there	
+gap	.	

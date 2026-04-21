@@ -1,1310 +1,2292 @@
 # filename: AH_other_Essay_1_0061b_tx.txt
-token	tags
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-writer	NN
-of	PIN PREP
-short	JJ
-stories	NN
-the	ART DET
-author	NN
-'s	
-main	JJ
-objective	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-keep	INF
-the	ART DET
-reader	NN
-interested	JJ
-and	CCONJ
-to	PIN TO PREP
-avoid	INF
-any	QUAN DET
-opportunities	NN
-for	PIN PREP
-tangent	NN
-thoughts	NN
-relating	WZPRES PGAS
-to	PIN PREP
-themes	NN
-or	CCONJ
-issues	NN
-arising	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-story	NN
-.	
-Therefore	RB CONJ CAP
-,	
-the	ART DET
-effects	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-composition	NOMZ
-are	BEMA VPRT AUXB
-always	RB
-in	PIN CONJ PREP
-the	ART DET
-forefront	NN
-of	PIN PREP
-Mérimée	CAP NNP
-'s	
-mind	NN
-.	
-The	ART CAP DET
-'	CONT QUOT
-nouvelle	NN
-'	CONT QUOT
-is	PASS VPRT AUXB
-supposed	PRIV
-to	PIN TO PREP
-be	PASS AUXB INF
-read	
-all	QUAN DET
-in	PIN CONJ PREP
-one	NUM
-go	NN
-and	CCONJ
-Mérimée	CAP NNP
-ensures	VPRT PRIV SUAV
-this	DEMO DET
-possibility	NOMZ
-using	WZPRES PGAS
-a	ART DET INDA
-number	NN
-of	PIN PREP
-techniques	NN
-.	
-The	ART CAP DET
-first	JJ
-reminder	NN
-we	FPP1 PRP SBJP
-see	VPRT PRIV
-in	PIN CONJ PREP
-both	DET
-'	CONT QUOT
-Mateo	CAP NNP
-Falcone	CAP NNP
-'	CONT QUOT
-and	ANDC CCONJ
-'	CONT QUOT
-Tamango	CAP NNP
-'	CONT QUOT
-of	PIN PREP
-Mérimée	CAP NNP
-'s	
-attempt	NN
-to	PIN TO PREP
-control	INF
-the	ART DET
-reader	NN
-is	BEMA VPRT AUXB
-the	ART DET
-use	NN
-of	PIN PREP
-a	ART DET INDA
-narrator	NN
-;	
-the	ART DET
-author	NN
-is	VPRT SPAU AUXB
-not	XX0 RB
-telling	PGAS
-the	ART DET
-story	NN
-.	
-The	ART CAP DET
-stories	NN
-are	PASS VPRT AUXB
-based	
-on	PIN PREP
-a	ART DET INDA
-few	QUAN JJ
-key	JJ
-events	NN
-that	TSUB WHSUB WH
-only	DWNT RB
-take	VPRT
-place	NN
-over	PIN PREP
-a	ART DET INDA
-matter	NN
-of	PIN PREP
-hours	NN
-or	CCONJ
-days	NN
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-a	ART DET INDA
-narrator	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-important	JJ
-element	NOMZ
-in	PIN CONJ PREP
-Mérimée	CAP NNP
-'s	
-composition	NOMZ
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-helps	VPRT
-to	PIN TO PREP
-control	INF
-the	ART DET
-reader	NN
-by	PIN PREP
-distancing	GER PGAS
-them	TPP3 PRP SBJP ACCU
-from	PIN PREP
-the	ART DET
-characters	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-significant	JJ PRED
-as	PIN CONJ PREP
-one	NUM
-of	PIN PREP
-the	ART DET
-dangers	NN
-of	PIN PREP
-a	ART DET INDA
-short	JJ
-story	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-reader	NN
-gets	VPRT
-too	RB
-concerned	JJ
-with	PIN PREP
-characteristics	NN
-and	CCONJ
-his	TPP3 PRP SBJP
-attention	NOMZ
-can	POMD
-be	PASS AUXB INF
-diverted	
-from	PIN PREP
-the	ART DET
-narrative	NN
-.	
-Ergo	CAP NNP
-,	
-Mérimée	CAP NNP
-can	POMD
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-way	NN
-,	
-stay	INF
-completely	AMP RB
-objective	JJ
--	
-neither	SYNE CCONJ
-opinion	NN
-nor	SYNE CCONJ
-judgement	NOMZ
-is	PASS VPRT AUXB
-cast	
-and	ANDC CCONJ
-we	FPP1 PRP SBJP
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-reader	NN
-,	
-are	PASS VPRT AUXB
-left	
-to	PIN TO PREP
-make	INF
-up	PIN PREP
-our	FPP1 PRP SBJP
-own	JJ
-minds	NN
-about	PIN PREP
-the	ART DET
-characters	NN
-and	CCONJ
-their	TPP3 PRP SBJP
-actions	NOMZ
-.	
-One	CAP NUM
-example	NN
-of	PIN PREP
-this	DEMP DET
-is	BEMA VPRT AUXB
-the	ART DET
-killing	NN
-of	PIN PREP
-Fortunato	CAP NNP
-;	
-in	PIN CONJ PREP
-any	QUAN DET
-other	JJ
-story	NN
-after	PIN PREP
-such	EMPH DET
-a	ART DET INDA
-horrific	JJ
-image	NN
-of	PIN PREP
-a	ART DET INDA
-father	NN
-killing	WZPRES PGAS
-his	TPP3 PRP SBJP
-son	NN
-,	
-one	PRP SBJP
-would	PRMD
-expect	PRIV INF
-some	QUAN DET
-sort	NN HDG
-of	PIN PREP
-moral	JJ
-judgement	NOMZ
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-cast	
-by	PIN PREP
-the	ART DET
-author	NN
-.	
-Instead	RB CONJ CAP
-Mérimée	CAP NNP
-simply	RB
-ends	VPRT
-:	
-"	QUOT
-(	
-Fortunato	CAP NNP
-est	X
-)	
-Dans	CAP NNP
-le	X
-ravin	NN
-.	
-Je	CAP NNP
-(	
-Mateo	CAP NNP
-Falcone	CAP NNP
-)	
-vais	NNP
-l'enterrer	NNP
-.	
-Il	CAP NNP
-est	X
-mort	NN
-en	X
-Chrétien	CAP NNP
-;	
-je	NNP
-lui	NNP
-ferai	NNP
-une	NNP
-messe	NNP
-.	
-"	QUOT
-Another	CAP DET
-technique	NN
-used	WZPAST
-by	PIN PREP
-Mérimée	CAP NNP
-to	PIN TO PREP
-control	INF
-the	ART DET
-reader	NN
-and	CCONJ
-remain	VPRT
-objective	JJ
-is	BEMA VPRT AUXB
-his	TPP3 PRP SBJP
-florid	JJ
-,	
-impersonal	JJ
-style	NN
-;	
-he	TPP3 PRP SBJP
-uses	VPRT
-'	CONT QUOT
-on	PIN STPR PREP
-'	CONT QUOT
-to	PIN TO PREP
-enhance	INF
-his	TPP3 PRP SBJP
-calm	JJ
-objective	NN
-storytelling	GER
--	
-he	TPP3 PRP SBJP
-also	RB
-narrates	VPRT
-casually	RB
-:	
-"	QUOT
-Je	CAP NNP
-ne	NNP
-sais	NNP
-combien	NNP
-de	NNP
-temps	NNP
-"	QUOT
-.	
-Son	CAP NNP
-of	PIN PREP
-Mateo	CAP NNP
-Falcone	CAP NNP
-Mateo	CAP NNP
-Falcone	CAP NNP
-,	
-pg	VPRT
-68	NUM
-Tamango	CAP NNP
-,	
-pg	NNP
-103	NUM
-Another	CAP DET
-aid	NN
-to	PIN TO PREP
-control	INF
-the	ART DET
-reader	NN
-is	PASS VPRT AUXB
-found	PRIV
-in	PIN CONJ PREP
-Mérimée	CAP NNP
-'s	
-ability	NOMZ
-to	PIN TO PREP
-change	INF
-the	ART DET
-pace	NN
-of	PIN PREP
-the	ART DET
-story	NN
-.	
-"	QUOT
-le	NNP
-bout	X
-de	X
-la	NNP
-chaîne	NN
-...	
-Le	CAP NNP
-cadran	NNP
-était	NN
-azuré	NNP
-...	
-la	PIN PREP
-boîte	JJ
-nouvellement	JJ
-fourbie	NN
-...	
-au	NNP
-soleil	NNP
-elle	NNP
-paraissait	NNP
-toute	NNP
-de	X
-feu	NNP
-...	
-La	CAP NNP
-tentation	NOMZ
-était	INF
-trop	NNP
-forte	NN
-.	
-"	QUOT
-Here	RB CAP
-,	
-Mérimeée	CAP NNP
-uses	VPRT
-an	ART DET INDA
-increase	NN
-of	PIN PREP
-punctuation	NOMZ
-to	PIN TO PREP
-slow	INF
-down	PIN PREP
-the	ART DET
-reading	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-technique	NN
-of	PIN PREP
-Mérimée	CAP NNP
-'s	
-composition	NOMZ
-to	PIN TO PREP
-make	INF
-the	ART DET
-reader	NN
-take	INF
-particular	JJ CONJ
-note	PRIV NN
-of	PIN PREP
-the	ART DET
-description	NOMZ
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-case	NN
-the	ART DET
-awe	NN
-Fortunato	CAP NNP
-feels	VPRT PRIV
-for	PIN PREP
-the	ART DET
-watch	NN
-offered	WZPAST
-to	PIN PREP
-him	TPP3 PRP SBJP ACCU
-.	
-Mérimée	CAP NNP
-succeeds	VPRT
-in	PIN CONJ PREP
-portraying	GER PGAS
-a	ART DET INDA
-trait	NN
-of	PIN PREP
-character	NN
-here	RB
--	
-namely	RB CONJ
-Fortunato	CAP NNP
-'s	
-greed	NN
--	
-merely	DWNT RB
-by	PIN PREP
-changing	PGAS
-the	ART DET
-pace	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-prose	NN
-.	
-The	ART CAP DET
-opposite	JJ PIN PREP
-effect	NN
-is	PASS VPRT BYPA AUXB
-used	
-also	RB
-by	PIN PREP
-Mérimée	CAP NNP
-to	PIN TO PREP
-speed	INF
-up	PIN PREP
-and	ANDC CCONJ
-therefore	RB CONJ
-intensify	INF
-key	JJ
-,	
-dramatic	JJ
-scenes	NN
-:	
-"	QUOT
-Les	CAP NNP
-deux	NNP
-chefs	NNP
-se	NNP
-joignirent	NNP
-sur	NNP
-un	NNP
-des	NNP
-passages	NN
-"	QUOT
-This	DEMO CAP DET
-time	NN
-Mérimée	CAP NNP
-uses	VPRT
-a	ART DET INDA
-repeated	PUBV
-'s	
-'	CONT QUOT
-sound	NN
-and	CCONJ
-little	JJ
-punctuation	NOMZ
-to	PIN TO PREP
-help	INF
-the	ART DET
-story	NN
-flow	INF
-and	PHC CCONJ
-provoke	INF
-a	ART DET INDA
-quicker	JJ CMADJ
-,	
-more	RB EMPH CMADJ
-intense	JJ
-reading	NN
-.	
-Mérimée	CAP NNP
-changes	VPRT
-tense	RB
-from	PIN PREP
-the	ART DET
-past	JJ
-historic	JJ
-into	PIN PREP
-the	ART DET
-dramatic	JJ
-present	NN
-:	
-"	QUOT
-Il	CAP NNP
-s'élança	NNP
-dans	NN
-les	NNP
-bras	X
-de	X
-son	NNP
-adversaire	NN
-,	
-et	X
-lui	NN
-saisit	NN
-la	X
-main	JJ
-do	VPRT PROD
-n't	XX0 CONT RB
-il	NNP
-tenait	NNP
-son	NNP
-sabre	NNP
-.	
-L'un	CAP NNP
-s'efforce	NNP
-de	NNP
-retenir	NNP
-son	NN
-arme	NNP
-,	
-l'autre	NNP
-de	X
-l'arracher	NNP
-.	
-Dans	CAP NNP
-cette	NNP
-lutte	NNP
-furieuse	NNP
-,	
-ils	VBD
-tombent	JJ
-tous	JJ
-les	X
-deux	NNP
-"	QUOT
-.	
-This	DEMP CAP DET
-,	
-again	RB TIME
-,	
-speeds	VPRT
-up	PIN PREP
-the	ART DET
-reader	NN
-at	PIN PREP
-a	ART DET INDA
-dramatic	JJ
-point	NN
-in	PIN CONJ PREP
-the	ART DET
-narrative	NN
-and	CCONJ
-makes	VPRT
-the	ART DET
-tale	NN
-more	RB EMPH CMADJ
-immediate	JJ
-and	PHC CCONJ
-exciting	JJ
-.	
-Mateo	CAP NNP
-Falcone	CAP NNP
-,	
-pg	NN
-61	NUM
-Tamango	CAP NNP
-,	
-pg	NNP
-Tamango	CAP NNP
-,	
-pg	INF
-94	NUM
-Vivid	CAP NNP
-,	
-yet	RB
-concise	JJ
-description	NOMZ
-is	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-control	INF
-the	ART DET
-reader	NN
-.	
-This	DEMP CAP DET
-allows	VPRT SUAV
-Mérimée	CAP NNP
-to	PIN TO PREP
-force	INF
-the	ART DET
-reader	NN
-into	PIN PREP
-taking	PGAS
-particular	JJ CONJ
-notes	PRIV NN
-of	PIN PREP
-key	JJ
-scenes	NN
-:	
-"	QUOT
-la	NNP
-montre	NNP
-oscillait	NNP
-,	
-tournait	NNP
-,	
-et	NNP
-quelquefois	NNP
-lui	NNP
-heurait	NNP
-le	NNP
-bout	NNP
-du	NNP
-nez	NNP
-.	
-Enfin	NN CAP
-,	
-peu	INF
-à	DET
-peu	NN
-sa	NNP
-main	JJ
-droite	NNP
-s'éleva	NNP
-vers	NN
-la	NNP
-montre	NNP
-"	QUOT
-.	
-Here	RB CAP
-Mérimée	CAP NNP
-uses	VPRT
-vivid	JJ
-description	NOMZ
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-reader	NN
-is	BEMA VPRT AUXB
-aware	JJ PRED
-of	PIN PREP
-the	ART DET
-importance	NN
-of	PIN PREP
-the	ART DET
-watch	NN
--	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-symbol	NN
-of	PIN PREP
-Fortunato	CAP NNP
-'s	
-betrayal	NN
-and	CCONJ
-Mérimée	CAP NNP
-succeeds	VPRT
-in	PIN CONJ PREP
-making	PGAS
-it	PIT PRP SBJP
-visual	JJ
-.	
-Mateo	CAP NNP
-Falcone	CAP NNP
-,	
-pg	VBD
-61	NUM
-Mérimée	CAP NNP
-does	VPRT SPAU
-n't	XX0 CONT RB
-allow	SUAV INF
-the	ART DET
-reader	NN
-to	PIN TO PREP
-lose	INF
-concentration	NOMZ
-at	PIN PREP
-any	QUAN DET
-point	NN
-in	PIN CONJ PREP
-the	ART DET
-story	NN
-.	
-He	TPP3 CAP PRP SBJP
-does	VPRT PROD
-this	DEMO DET
-by	PIN PREP
-making	PGAS
-it	PIT PRP SBJP
-very	AMP RB
-difficult	JJ
-to	PIN TO PREP
-anticipate	PRIV THATD INF
-what	WH
-is	VPRT AUXB
-coming	PGAS
-next	RB
-in	PIN CONJ PREP
-the	ART DET
-narrative	NN
-.	
-There	EX CAP
-are	VPRT AUXB
-a	ART DET INDA
-number	NN
-of	PIN PREP
-twists	NN
-in	PIN CONJ PREP
-the	ART DET
-story	NN
-designed	WZPAST
-to	PIN TO PREP
-shock	INF
-the	ART DET
-reader	NN
-;	
-for	PIN PREP
-example	NN
-,	
-although	CONC PIN SCONJ PREP
-entitled	
-'	CONT QUOT
-Mateo	CAP NNP
-Falcone	CAP NNP
-'	CONT QUOT
-there	EX
-is	VPRT AUXB
-actually	RB
-very	AMP RB
-little	JJ
-reference	NN
-to	PIN PREP
-this	DEMO DET
-man	NN
-at	RB PIN PREP
-all	QUAN RB
-in	PIN CONJ PREP
-the	ART DET
-story	NN
-.	
-When	RB WHQU CAP SCONJ WH
-we	FPP1 PRP SBJP
-do	VPRT EMPH
-see	PRIV INF
-him	TPP3 PRP SBJP ACCU
-he	TPP3 PRP SBJP
-is	VPRT AUXB
-perhaps	RB
-somewhat	DWNT RB
-different	JJ
-to	PIN PREP
-what	WH
-the	ART DET
-reader	NN
-may	POMD
-have	PEAS INF
-expected	PRIV
-;	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-surprising	JJ PRED
-that	PIN THAC SCONJ PREP
-a	ART DET INDA
-man	NN
-who	WHSUB WH
-holds	VPRT PRIV
-the	ART DET
-virtue	NN
-of	PIN PREP
-loyalty	NN
-so	RB EMPH
-dear	JJ
-,	
-would	PRMD
-kill	INF
-his	TPP3 PRP SBJP
-own	JJ
-son	NN
-.	
-Indeed	RB CAP
-the	ART DET
-whole	JJ
-relationship	NN
-between	PIN PREP
-father	NN
-and	PHC CCONJ
-son	NN
-is	BEMA VPRT AUXB
-surprising	JJ PRED
-as	PIN CONJ PREP
-a	ART DET INDA
-close	JJ
-father	NN
--	
-son	NN
-bond	NN
-would	PRMD SPAU
-perhaps	RB
-have	PEAS INF
-been	PASS AUXB
-anticipated	PRIV
-,	
-especially	RB
-as	PIN CONJ PREP
-the	ART DET
-son	NN
-and	PHC CCONJ
-heir	NN
-is	BEMA VPRT AUXB
-so	RB EMPH
-proud	JJ
-of	PIN PREP
-his	TPP3 PRP SBJP
-dad	NN
-.	
-The	ART CAP DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-Mateo	CAP NNP
-Falcone	CAP NNP
-himself	TPP3 PRP SBJP ACCU
-,	
-a	ART DET INDA
-crook	NN
-and	CCONJ
-a	ART DET INDA
-cold	JJ
--	
-blooded	JJ
-killer	NN
-,	
-has	VPRT
-any	QUAN DET
-sort	NN HDG
-of	PIN PREP
-moral	JJ
-code	NN
-is	BEMA VPRT AUXB
-unexpected	JJ PRED
-,	
-let	INF
-alone	RB
-any	QUAN DET
-religious	JJ
-beliefs	NN
-to	PIN PREP
-the	ART DET
-extent	NN
-of	PIN PREP
-making	PGAS
-Fortunato	CAP NNP
-pray	SUAV INF
-before	PIN PREP
-being	PASS AUXB
-shot	
-.	
-Mateo	CAP NNP
-Falcone	CAP NNP
-,	
-throughout	PIN PREP
-the	ART DET
-opening	NN
-of	PIN PREP
-the	ART DET
-story	NN
-is	PASS VPRT AUXB
-built	
-up	PIN PREP
-as	PIN CONJ PREP
-a	ART DET INDA
-hero	NN
-and	CCONJ
-to	PIN TO PREP
-shoot	INF
-his	TPP3 PRP SBJP
-own	JJ
-son	NN
-in	PIN CONJ PREP
-cold	JJ
-blood	NN
-comes	VPRT
-as	PIN CONJ PREP
-a	ART DET INDA
-shock	NN
-.	
-In	PIN CONJ STPR CAP PREP
-'	CONT QUOT
-Tamango	CAP NNP
-'	CONT QUOT
-a	ART DET INDA
-similar	JJ
-technique	NN
-is	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-same	JJ
-effect	NN
-;	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-surprising	JJ PRED
-that	PIN THAC SCONJ PREP
-Tamango	CAP NNP
-is	PASS VPRT BYPA AUXB
-rescued	
-by	PIN PREP
-the	ART DET
-very	AMP JJ
-slaves	NN
-he	TPP3 PRP SBJP
-had	VBD PEAS
-betrayed	
-,	
-and	ANDC CCONJ
-the	ART DET
-ease	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-he	TPP3 PRP SBJP
-was	PASS VBD AUXB
-captured	
-before	PIN PREP
-hand	NN
-was	BEMA VBD AUXB
-an	ART DET INDA
-anti	JJ
--	NN
-climax	JJ
-.	
-Again	RB TIME CAP
-,	
-at	PIN PREP
-the	ART DET
-end	NN
-,	
-we	FPP1 PRP SBJP
-see	VPRT PRIV
-a	ART DET INDA
-twist	NN
-in	PIN CONJ PREP
-that	PIN STPR DEMP SCONJ PREP
-"	QUOT
-il	NNP
-mourut	NNP
-à	NNP
-l'hôpital	NNP
-d'une	NUM
-inflammation	NOMZ
-de	X
-poitrine	NN
-.	
-"	QUOT
-this	DEMP DET
-is	VPRT SPAU AUXB
-certainly	RB
-not	XX0 RB
-gratifying	GER PGAS
-for	PIN PREP
-the	ART DET
-reader	NN
-but	CCONJ
-does	VPRT EMPH
-control	INF
-him	TPP3 PRP SBJP ACCU
--	
-ensuring	PRIV SUAV PGAS
-kept	VBD
-concentration	NOMZ
-and	CCONJ
-no	SYNE DET
-time	NN
-for	PIN PREP
-reflex	JJ
-ion	NN
-on	PIN PREP
-previous	JJ
-points	NN
-.	
-Tamango	CAP NNP
-,	
-pg	NNP
-103	NUM
-However	RB CONJ CAP
-,	
-having	PEAS PGAS
-said	PUBV
-that	PIN THVC SCONJ PREP
-Mérimée	CAP NNP
-does	VPRT SPAU
-not	XX0 RB
-aim	INF
-to	PIN TO PREP
-gratify	INF
-the	ART DET
-reader	NN
-whilst	OSUB PIN SCONJ PREP
-reading	PGAS
-the	ART DET
-story	NN
-,	
-he	TPP3 PRP SBJP
-perhaps	RB
-does	VPRT EMPH
-provoke	INF
-contemplation	NOMZ
-afterwards	RB TIME
-.	
-Thanks	NN CAP
-to	PIN PREP
-the	ART DET
-dramatic	JJ
-twists	NN
-,	
-vivid	JJ
-descriptions	NOMZ
-,	
-objectivity	NOMZ
-and	PHC CCONJ
-changes	NN
-of	PIN PREP
-pace	NN
-in	PIN CONJ PREP
-the	ART DET
-narrative	NN
-,	
-the	ART DET
-reader	NN
-does	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-time	NN
-to	PIN TO PREP
-think	PRIV INF
-about	PIN PREP
-issues	NN
-arising	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-story	NN
-,	
-characteristics	NN
-,	
-or	CCONJ
-to	PIN TO PREP
-make	INF
-a	ART DET INDA
-moral	JJ
-judgement	NOMZ
-.	
-Mérimée	CAP NNP
-does	VPRT EMPH
-succeed	INF
-,	
-however	RB CONJ
-,	
-in	PIN CONJ PREP
-shocking	PGAS
-the	ART DET
-reader	NN
-but	CCONJ
-this	DEMO DET
-shock	NN
-is	PASS VPRT AUXB
-delayed	
-until	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-story	NN
-.	
-Mérimée	CAP NNP
-uses	VPRT
-irony	NN
-too	RB
-to	PIN TO PREP
-add	PUBV INF
-to	PIN PREP
-the	ART DET
-reader	NN
-'s	
-thoughts	NN
-after	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-narrative	NN
-.	
-Fortunato	CAP NNP
-'s	
-name	NN
-is	VPRT AUXB
-one	NUM
-such	JJ
-irony	NN
-,	
-as	PIN CONJ PREP
-is	BEMA VPRT AUXB
-the	ART DET
-name	NN
-of	PIN PREP
-the	ART DET
-ship	NN
-(	
-l'esperence	NN
-)	
-and	ANDC CCONJ
-Ledoux	CAP NNP
-in	PIN CONJ STPR PREP
-'	CONT QUOT
-Tamango	CAP NNP
-'	CONT QUOT
-.	
-At	PIN CAP PREP
-the	ART DET
-very	AMP JJ
-end	NN
-of	PIN STPR PREP
-'	CONT QUOT
-Mateo	CAP NNP
-Falcone	CAP NNP
-'	CONT QUOT
-we	FPP1 PRP SBJP
-see	VPRT PRIV
-that	PIN THVC SCONJ PREP
-Fortunato	CAP NNP
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-be	PASS BYPA AUXB INF
-replaced	
-by	PIN STPR PREP
-"	QUOT
-Tiodoro	CAP NNP
-Bianchi	CAP NNP
-"	QUOT
--	
-ironically	RB
-sharing	PGAS
-his	TPP3 PRP SBJP
-first	JJ
-name	NN
-with	PIN PREP
-the	ART DET
-corporal	NN
-and	CCONJ
-his	TPP3 PRP SBJP
-last	JJ
-being	PASS AUXB
-associated	
-with	PIN PREP
-white	JJ
-skin	NN
-colour	NN
-.	
-Two	CAP NUM
-things	NN
-that	TOBJ WHOBJ WH
-Mateo	CAP NNP
-Falcone	CAP NNP
-stands	VPRT
-against	PIN STPR PREP
-.	
-Tamango	CAP NNP
-,	
-pg	
-68	NUM
-Therefore	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-clear	JJ PRED
-,	
-after	PIN PREP
-analysing	PGAS
-the	ART DET
-various	JJ
-techniques	NN
-used	WZPAST
-by	PIN PREP
-Mérimée	CAP NNP
-,	
-that	PIN THVC SCONJ PREP
-he	TPP3 PRP SBJP
-does	VPRT PROD
-have	INF
-in	PIN CONJ PREP
-mind	NN
-the	ART DET
-effects	NN
-of	PIN PREP
-his	TPP3 PRP SBJP
-composition	NOMZ
-at	PIN PREP
-all	QUAN DET
-times	NN
-.	
-He	TPP3 CAP PRP SBJP
-does	VPRT PROD
-above	PIN PLACE PREP
-all	QUAN DET
-attempt	NN
-to	PIN TO PREP
-control	INF
-the	ART DET
-reader	NN
-to	PIN TO PREP
-make	INF
-the	ART DET
-story	NN
-more	RB EMPH CMADJ
-effective	JJ
-.	
-Although	CONC PIN CAP SCONJ PREP
-not	XX0 RB
-always	RB
-gratifying	GER PGAS
-during	PIN PREP
-the	ART DET
-narrative	NN
-,	
-Mérimée	CAP NNP
-provokes	VPRT
-independent	JJ
-thoughts	NN
-,	
-arguments	NOMZ
-and	PHC CCONJ
-judgements	NOMZ
-at	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-book	NN
-.	
+type	content	tags
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	writer	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	short	JJ
+gap	 	
+word	stories	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	author	NN
+gap	'	
+word	s	
+gap	 	
+word	main	JJ
+gap	 	
+word	objective	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	keep	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	reader	NN
+gap	 	
+word	interested	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	avoid	INF
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	opportunities	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	tangent	NN
+gap	 	
+word	thoughts	NN
+gap	 	
+word	relating	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	themes	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	issues	NN
+gap	 	
+word	arising	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	story	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	effects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	composition	NOMZ
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	always	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	forefront	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Mérimée	
+gap	'	
+word	s	
+gap	 	
+word	mind	
+gap	. 	
+word	The	
+gap	 '	
+word	nouvelle	
+gap	' 	
+word	is	
+gap	 	
+word	supposed	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	read	
+gap	 	
+word	all	
+gap	 	
+word	in	
+gap	 	
+word	one	
+gap	 	
+word	go	
+gap	 	
+word	and	
+gap	 	
+word	Mérimée	
+gap	 	
+word	ensures	
+gap	 	
+word	this	
+gap	 	
+word	possibility	
+gap	 	
+word	using	
+gap	 	
+word	a	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	techniques	
+gap	. 	
+word	The	
+gap	 	
+word	first	
+gap	 	
+word	reminder	
+gap	 	
+word	we	
+gap	 	
+word	see	
+gap	 	
+word	in	
+gap	 	
+word	both	
+gap	 '	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	' 	
+word	and	
+gap	 '	
+word	Tamango	
+gap	' 	
+word	of	
+gap	 	
+word	Mérimée	
+gap	'	
+word	s	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	is	
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	narrator	
+gap	; 	
+word	the	
+gap	 	
+word	author	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	telling	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	. 	
+word	The	
+gap	 	
+word	stories	
+gap	 	
+word	are	
+gap	 	
+word	based	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	few	
+gap	 	
+word	key	
+gap	 	
+word	events	
+gap	 	
+word	that	
+gap	 	
+word	only	
+gap	 	
+word	take	
+gap	 	
+word	place	
+gap	 	
+word	over	
+gap	 	
+word	a	
+gap	 	
+word	matter	
+gap	 	
+word	of	
+gap	 	
+word	hours	
+gap	 	
+word	or	
+gap	 	
+word	days	
+gap	. 	
+word	The	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	narrator	
+gap	 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	important	
+gap	 	
+word	element	
+gap	 	
+word	in	
+gap	 	
+word	Mérimée	
+gap	'	
+word	s	
+gap	 	
+word	composition	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	helps	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	by	
+gap	 	
+word	distancing	
+gap	 	
+word	them	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	characters	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	significant	
+gap	 	
+word	as	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	dangers	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	short	
+gap	 	
+word	story	
+gap	 	
+word	is	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	gets	
+gap	 	
+word	too	
+gap	 	
+word	concerned	
+gap	 	
+word	with	
+gap	 	
+word	characteristics	
+gap	 	
+word	and	
+gap	 	
+word	his	
+gap	 	
+word	attention	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	diverted	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	narrative	
+gap	. 	
+word	Ergo	
+gap	, 	
+word	Mérimée	
+gap	 	
+word	can	
+gap	, 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	stay	
+gap	 	
+word	completely	
+gap	 	
+word	objective	
+gap	 - 	
+word	neither	
+gap	 	
+word	opinion	
+gap	 	
+word	nor	
+gap	 	
+word	judgement	
+gap	 	
+word	is	
+gap	 	
+word	cast	
+gap	 	
+word	and	
+gap	 	
+word	we	
+gap	, 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	reader	
+gap	, 	
+word	are	
+gap	 	
+word	left	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	up	
+gap	 	
+word	our	
+gap	 	
+word	own	
+gap	 	
+word	minds	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	characters	
+gap	 	
+word	and	
+gap	 	
+word	their	
+gap	 	
+word	actions	
+gap	. 	
+word	One	
+gap	 	
+word	example	
+gap	 	
+word	of	
+gap	 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	killing	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Fortunato	
+gap	 ; 	
+word	in	
+gap	 	
+word	any	
+gap	 	
+word	other	
+gap	 	
+word	story	
+gap	 	
+word	after	
+gap	 	
+word	such	
+gap	 	
+word	a	
+gap	 	
+word	horrific	
+gap	 	
+word	image	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	father	
+gap	 	
+word	killing	
+gap	 	
+word	his	
+gap	 	
+word	son	
+gap	, 	
+word	one	
+gap	 	
+word	would	
+gap	 	
+word	expect	
+gap	 	
+word	some	
+gap	 	
+word	sort	
+gap	 	
+word	of	
+gap	 	
+word	moral	
+gap	 	
+word	judgement	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	cast	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	author	
+gap	. 	
+word	Instead	
+gap	 	
+word	Mérimée	
+gap	 	
+word	simply	
+gap	 	
+word	ends	
+gap	: "(	
+word	Fortunato	
+gap	 	
+word	est	
+gap	) 	
+word	Dans	
+gap	 	
+word	le	
+gap	 	
+word	ravin	
+gap	. 	
+word	Je	
+gap	 (	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	) 	
+word	vais	
+gap	 	
+word	l	
+gap	'	
+word	enterrer	
+gap	. 	
+word	Il	
+gap	 	
+word	est	
+gap	 	
+word	mort	
+gap	 	
+word	en	
+gap	 	
+word	Chrétien	
+gap	; 	
+word	je	
+gap	 	
+word	lui	
+gap	 	
+word	ferai	
+gap	 	
+word	une	
+gap	 	
+word	messe	
+gap	." 	
+word	Another	
+gap	 	
+word	technique	
+gap	 	
+word	used	
+gap	 	
+word	by	
+gap	 	
+word	Mérimée	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	and	
+gap	 	
+word	remain	
+gap	 	
+word	objective	
+gap	 	
+word	is	
+gap	 	
+word	his	
+gap	 	
+word	florid	
+gap	, 	
+word	impersonal	
+gap	 	
+word	style	
+gap	; 	
+word	he	
+gap	 	
+word	uses	
+gap	 '	
+word	on	
+gap	' 	
+word	to	
+gap	 	
+word	enhance	
+gap	 	
+word	his	
+gap	 	
+word	calm	
+gap	 	
+word	objective	
+gap	 	
+word	storytelling	
+gap	 - 	
+word	he	
+gap	 	
+word	also	
+gap	 	
+word	narrates	
+gap	 	
+word	casually	
+gap	: "	
+word	Je	
+gap	 	
+word	ne	
+gap	 	
+word	sais	
+gap	 	
+word	combien	
+gap	 	
+word	de	
+gap	 	
+word	temps	
+gap	". 	
+word	Son	
+gap	 	
+word	of	
+gap	 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	, 	
+word	pg	
+gap	 68 	
+word	Tamango	
+gap	, 	
+word	pg	
+gap	 103 	
+word	Another	
+gap	 	
+word	aid	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	is	
+gap	 	
+word	found	
+gap	 	
+word	in	
+gap	 	
+word	Mérimée	
+gap	'	
+word	s	
+gap	 	
+word	ability	
+gap	 	
+word	to	
+gap	 	
+word	change	
+gap	 	
+word	the	
+gap	 	
+word	pace	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	. "	
+word	le	
+gap	 	
+word	bout	
+gap	 	
+word	de	
+gap	 	
+word	la	
+gap	 	
+word	chaîne	
+gap	... 	
+word	Le	
+gap	 	
+word	cadran	
+gap	 	
+word	était	
+gap	 	
+word	azuré	
+gap	...	
+word	la	
+gap	 	
+word	boîte	
+gap	 	
+word	nouvellement	
+gap	 	
+word	fourbie	
+gap	...	
+word	au	
+gap	 	
+word	soleil	
+gap	 	
+word	elle	
+gap	 	
+word	paraissait	
+gap	 	
+word	toute	
+gap	 	
+word	de	
+gap	 	
+word	feu	
+gap	... 	
+word	La	
+gap	 	
+word	tentation	
+gap	 	
+word	était	
+gap	 	
+word	trop	
+gap	 	
+word	forte	
+gap	." 	
+word	Here	
+gap	, 	
+word	Mérimeée	
+gap	 	
+word	uses	
+gap	 	
+word	an	
+gap	 	
+word	increase	
+gap	 	
+word	of	
+gap	 	
+word	punctuation	
+gap	 	
+word	to	
+gap	 	
+word	slow	
+gap	 	
+word	down	
+gap	 	
+word	the	
+gap	 	
+word	reading	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	technique	
+gap	 	
+word	of	
+gap	 	
+word	Mérimée	
+gap	'	
+word	s	
+gap	 	
+word	composition	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	take	
+gap	 	
+word	particular	
+gap	 	
+word	note	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	description	
+gap	, 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	case	
+gap	 	
+word	the	
+gap	 	
+word	awe	
+gap	 	
+word	Fortunato	
+gap	 	
+word	feels	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	watch	
+gap	 	
+word	offered	
+gap	 	
+word	to	
+gap	 	
+word	him	
+gap	. 	
+word	Mérimée	
+gap	 	
+word	succeeds	
+gap	 	
+word	in	
+gap	 	
+word	portraying	
+gap	 	
+word	a	
+gap	 	
+word	trait	
+gap	 	
+word	of	
+gap	 	
+word	character	
+gap	 	
+word	here	
+gap	 - 	
+word	namely	
+gap	 	
+word	Fortunato	
+gap	'	
+word	s	
+gap	 	
+word	greed	
+gap	 - 	
+word	merely	
+gap	 	
+word	by	
+gap	 	
+word	changing	
+gap	 	
+word	the	
+gap	 	
+word	pace	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	prose	
+gap	. 	
+word	The	
+gap	 	
+word	opposite	
+gap	 	
+word	effect	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	also	
+gap	 	
+word	by	
+gap	 	
+word	Mérimée	
+gap	 	
+word	to	
+gap	 	
+word	speed	
+gap	 	
+word	up	
+gap	 	
+word	and	
+gap	 	
+word	therefore	
+gap	 	
+word	intensify	
+gap	 	
+word	key	
+gap	, 	
+word	dramatic	
+gap	 	
+word	scenes	
+gap	: "	
+word	Les	
+gap	 	
+word	deux	
+gap	 	
+word	chefs	
+gap	 	
+word	se	
+gap	 	
+word	joignirent	
+gap	 	
+word	sur	
+gap	 	
+word	un	
+gap	 	
+word	des	
+gap	 	
+word	passages	
+gap	" 	
+word	This	
+gap	 	
+word	time	
+gap	 	
+word	Mérimée	
+gap	 	
+word	uses	
+gap	 	
+word	a	
+gap	 	
+word	repeated	
+gap	 '	
+word	s	
+gap	' 	
+word	sound	
+gap	 	
+word	and	
+gap	 	
+word	little	
+gap	 	
+word	punctuation	
+gap	 	
+word	to	
+gap	 	
+word	help	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	 	
+word	flow	
+gap	 	
+word	and	
+gap	 	
+word	provoke	
+gap	 	
+word	a	
+gap	 	
+word	quicker	
+gap	, 	
+word	more	
+gap	 	
+word	intense	
+gap	 	
+word	reading	
+gap	. 	
+word	Mérimée	
+gap	 	
+word	changes	
+gap	 	
+word	tense	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	past	
+gap	 	
+word	historic	
+gap	 	
+word	into	
+gap	 	
+word	the	
+gap	 	
+word	dramatic	
+gap	 	
+word	present	
+gap	: "	
+word	Il	
+gap	 	
+word	s	
+gap	'	
+word	élança	
+gap	 	
+word	dans	
+gap	 	
+word	les	
+gap	 	
+word	bras	
+gap	 	
+word	de	
+gap	 	
+word	son	
+gap	 	
+word	adversaire	
+gap	, 	
+word	et	
+gap	 	
+word	lui	
+gap	 	
+word	saisit	
+gap	 	
+word	la	
+gap	 	
+word	main	
+gap	 	
+word	don	
+gap	'	
+word	t	
+gap	 	
+word	il	
+gap	 	
+word	tenait	
+gap	 	
+word	son	
+gap	 	
+word	sabre	
+gap	. 	
+word	L	
+gap	'	
+word	un	
+gap	 	
+word	s	
+gap	'	
+word	efforce	
+gap	 	
+word	de	
+gap	 	
+word	retenir	
+gap	 	
+word	son	NNP
+gap	 	
+word	arme	
+gap	, 	
+word	l	
+gap	'	
+word	autre	
+gap	 	
+word	de	
+gap	 	
+word	l	
+gap	'	
+word	arracher	
+gap	. 	
+word	Dans	
+gap	 	
+word	cette	
+gap	 	
+word	lutte	
+gap	 	
+word	furieuse	
+gap	, 	
+word	ils	
+gap	 	
+word	tombent	
+gap	 	
+word	tous	
+gap	 	
+word	les	
+gap	 	
+word	deux	
+gap	" . 	
+word	This	
+gap	, 	
+word	again	
+gap	, 	
+word	speeds	
+gap	 	
+word	up	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	at	
+gap	 	
+word	a	
+gap	 	
+word	dramatic	
+gap	 	
+word	point	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	narrative	
+gap	 	
+word	and	
+gap	 	
+word	makes	
+gap	 	
+word	the	
+gap	 	
+word	tale	
+gap	 	
+word	more	
+gap	 	
+word	immediate	
+gap	 	
+word	and	
+gap	 	
+word	exciting	
+gap	. 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	, 	
+word	pg	
+gap	 61 	
+word	Tamango	
+gap	, 	
+word	pg	
+gap	 	
+word	Tamango	
+gap	, 	
+word	pg	
+gap	 94 	
+word	Vivid	
+gap	, 	
+word	yet	
+gap	 	
+word	concise	
+gap	 	
+word	description	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	. 	
+word	This	
+gap	 	
+word	allows	
+gap	 	
+word	Mérimée	
+gap	 	
+word	to	
+gap	 	
+word	force	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	into	
+gap	 	
+word	taking	
+gap	 	
+word	particular	
+gap	 	
+word	notes	
+gap	 	
+word	of	
+gap	 	
+word	key	
+gap	 	
+word	scenes	
+gap	: "	
+word	la	
+gap	 	
+word	montre	
+gap	 	
+word	oscillait	
+gap	, 	
+word	tournait	
+gap	, 	
+word	et	
+gap	 	
+word	quelquefois	
+gap	 	
+word	lui	
+gap	 	
+word	heurait	
+gap	 	
+word	le	
+gap	 	
+word	bout	
+gap	 	
+word	du	
+gap	 	
+word	nez	
+gap	. 	
+word	Enfin	
+gap	, 	
+word	peu	
+gap	 	
+word	à	
+gap	 	
+word	peu	
+gap	 	
+word	sa	
+gap	 	
+word	main	
+gap	 	
+word	droite	
+gap	 	
+word	s	
+gap	'	
+word	éleva	
+gap	 	
+word	vers	
+gap	 	
+word	la	
+gap	 	
+word	montre	
+gap	". 	
+word	Here	
+gap	 	
+word	Mérimée	
+gap	 	
+word	uses	
+gap	 	
+word	vivid	
+gap	 	
+word	description	
+gap	 	
+word	to	
+gap	 	
+word	ensure	
+gap	 	
+word	that	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	is	
+gap	 	
+word	aware	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	importance	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	watch	
+gap	 - 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	symbol	
+gap	 	
+word	of	
+gap	 	
+word	Fortunato	
+gap	'	
+word	s	
+gap	 	
+word	betrayal	
+gap	 	
+word	and	
+gap	 	
+word	Mérimée	
+gap	 	
+word	succeeds	
+gap	 	
+word	in	
+gap	 	
+word	making	
+gap	 	
+word	it	
+gap	 	
+word	visual	
+gap	. 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	, 	
+word	pg	
+gap	 61 	
+word	Mérimée	
+gap	 	
+word	doesn	
+gap	'	
+word	t	
+gap	 	
+word	allow	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	lose	
+gap	 	
+word	concentration	
+gap	 	
+word	at	
+gap	 	
+word	any	
+gap	 	
+word	point	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	. 	
+word	He	
+gap	 	
+word	does	
+gap	 	
+word	this	
+gap	 	
+word	by	
+gap	 	
+word	making	
+gap	 	
+word	it	
+gap	 	
+word	very	
+gap	 	
+word	difficult	
+gap	 	
+word	to	
+gap	 	
+word	anticipate	
+gap	 	
+word	what	
+gap	 	
+word	is	
+gap	 	
+word	coming	
+gap	 	
+word	next	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	narrative	
+gap	. 	
+word	There	
+gap	 	
+word	are	
+gap	 	
+word	a	
+gap	 	
+word	number	
+gap	 	
+word	of	
+gap	 	
+word	twists	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	 	
+word	designed	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	shock	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	; 	
+word	for	
+gap	 	
+word	example	
+gap	, 	
+word	although	
+gap	 	
+word	entitled	
+gap	 '	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	' 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	actually	
+gap	 	
+word	very	
+gap	 	
+word	little	
+gap	 	
+word	reference	
+gap	 	
+word	to	
+gap	 	
+word	this	
+gap	 	
+word	man	
+gap	 	
+word	at	
+gap	 	
+word	all	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	. 	
+word	When	
+gap	 	
+word	we	
+gap	 	
+word	do	
+gap	 	
+word	see	
+gap	 	
+word	him	
+gap	 	
+word	he	
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	perhaps	
+gap	 	
+word	somewhat	
+gap	 	
+word	different	
+gap	 	
+word	to	
+gap	 	
+word	what	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	may	
+gap	 	
+word	have	
+gap	 	
+word	expected	
+gap	; 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	surprising	
+gap	 	
+word	that	
+gap	 	
+word	a	
+gap	 	
+word	man	
+gap	 	
+word	who	
+gap	 	
+word	holds	
+gap	 	
+word	the	
+gap	 	
+word	virtue	
+gap	 	
+word	of	
+gap	 	
+word	loyalty	
+gap	 	
+word	so	
+gap	 	
+word	dear	
+gap	, 	
+word	would	
+gap	 	
+word	kill	
+gap	 	
+word	his	
+gap	 	
+word	own	
+gap	 	
+word	son	
+gap	. 	
+word	Indeed	
+gap	 	
+word	the	
+gap	 	
+word	whole	
+gap	 	
+word	relationship	
+gap	 	
+word	between	
+gap	 	
+word	father	
+gap	 	
+word	and	
+gap	 	
+word	son	
+gap	 	
+word	is	
+gap	 	
+word	surprising	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	close	
+gap	 	
+word	father	
+gap	-	
+word	son	
+gap	 	
+word	bond	
+gap	 	
+word	would	
+gap	 	
+word	perhaps	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	anticipated	
+gap	, 	
+word	especially	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	son	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	heir	
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	so	
+gap	 	
+word	proud	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	dad	
+gap	. 	
+word	The	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	 	
+word	himself	
+gap	, 	
+word	a	
+gap	 	
+word	crook	
+gap	 	
+word	and	
+gap	 	
+word	a	
+gap	 	
+word	cold	
+gap	-	
+word	blooded	
+gap	 	
+word	killer	
+gap	, 	
+word	has	
+gap	 	
+word	any	
+gap	 	
+word	sort	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	moral	
+gap	 	
+word	code	
+gap	 	
+word	is	
+gap	 	
+word	unexpected	
+gap	, 	
+word	let	
+gap	 	
+word	alone	
+gap	 	
+word	any	
+gap	 	
+word	religious	
+gap	 	
+word	beliefs	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	extent	
+gap	 	
+word	of	
+gap	 	
+word	making	
+gap	 	
+word	Fortunato	
+gap	 	
+word	pray	
+gap	 	
+word	before	
+gap	 	
+word	being	
+gap	 	
+word	shot	
+gap	. 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	, 	
+word	throughout	
+gap	 	
+word	the	
+gap	 	
+word	opening	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	 	
+word	is	
+gap	 	
+word	built	
+gap	 	
+word	up	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	hero	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	shoot	
+gap	 	
+word	his	
+gap	 	
+word	own	
+gap	 	
+word	son	
+gap	 	
+word	in	
+gap	 	
+word	cold	
+gap	 	
+word	blood	
+gap	 	
+word	comes	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	shock	
+gap	. 	
+word	In	
+gap	 '	
+word	Tamango	
+gap	' 	
+word	a	
+gap	 	
+word	similar	
+gap	 	
+word	technique	
+gap	 	
+word	is	
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	effect	
+gap	; 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	surprising	
+gap	 	
+word	that	
+gap	 	
+word	Tamango	
+gap	 	
+word	is	
+gap	 	
+word	rescued	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	very	
+gap	 	
+word	slaves	
+gap	 	
+word	he	
+gap	 	
+word	had	
+gap	 	
+word	betrayed	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	ease	
+gap	 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	he	
+gap	 	
+word	was	
+gap	 	
+word	captured	
+gap	 	
+word	before	
+gap	 	
+word	hand	
+gap	 	
+word	was	
+gap	 	
+word	an	
+gap	 	
+word	anti	
+gap	-	
+word	climax	
+gap	. 	
+word	Again	
+gap	, 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	end	
+gap	, 	
+word	we	
+gap	 	
+word	see	
+gap	 	
+word	a	
+gap	 	
+word	twist	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	that	
+gap	 "	
+word	il	
+gap	 	
+word	mourut	
+gap	 	
+word	à	
+gap	 	
+word	l	
+gap	'	
+word	hôpital	
+gap	 	
+word	d	
+gap	'	
+word	une	
+gap	 	
+word	inflammation	
+gap	 	
+word	de	
+gap	 	
+word	poitrine	
+gap	." 	
+word	this	
+gap	 	
+word	is	
+gap	 	
+word	certainly	
+gap	 	
+word	not	
+gap	 	
+word	gratifying	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	but	
+gap	 	
+word	does	
+gap	 	
+word	control	
+gap	 	
+word	him	
+gap	 - 	
+word	ensuring	
+gap	 	
+word	kept	
+gap	 	
+word	concentration	
+gap	 	
+word	and	
+gap	 	
+word	no	
+gap	 	
+word	time	
+gap	 	
+word	for	
+gap	 	
+word	reflex	
+gap	 	
+word	ion	
+gap	 	
+word	on	
+gap	 	
+word	previous	
+gap	 	
+word	points	
+gap	. 	
+word	Tamango	
+gap	, 	
+word	pg	
+gap	 103 	
+word	However	
+gap	, 	
+word	having	
+gap	 	
+word	said	
+gap	 	
+word	that	
+gap	 	
+word	Mérimée	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	aim	
+gap	 	
+word	to	
+gap	 	
+word	gratify	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	whilst	
+gap	 	
+word	reading	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	, 	
+word	he	
+gap	 	
+word	perhaps	
+gap	 	
+word	does	
+gap	 	
+word	provoke	
+gap	 	
+word	contemplation	
+gap	 	
+word	afterwards	
+gap	. 	
+word	Thanks	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	dramatic	
+gap	 	
+word	twists	
+gap	, 	
+word	vivid	
+gap	 	
+word	descriptions	
+gap	, 	
+word	objectivity	
+gap	 	
+word	and	
+gap	 	
+word	changes	
+gap	 	
+word	of	
+gap	 	
+word	pace	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	narrative	
+gap	, 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	time	
+gap	 	
+word	to	
+gap	 	
+word	think	
+gap	 	
+word	about	
+gap	 	
+word	issues	
+gap	 	
+word	arising	
+gap	 	
+word	from	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	, 	
+word	characteristics	
+gap	, 	
+word	or	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	a	
+gap	 	
+word	moral	
+gap	 	
+word	judgement	
+gap	. 	
+word	Mérimée	
+gap	 	
+word	does	VPRT PROD SPAU
+gap	 	
+word	succeed	
+gap	, 	
+word	however	
+gap	, 	
+word	in	
+gap	 	
+word	shocking	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	but	
+gap	 	
+word	this	
+gap	 	
+word	shock	
+gap	 	
+word	is	
+gap	 	
+word	delayed	
+gap	 	
+word	until	
+gap	 	
+word	the	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	. 	
+word	Mérimée	
+gap	 	
+word	uses	
+gap	 	
+word	irony	
+gap	 	
+word	too	
+gap	 	
+word	to	
+gap	 	
+word	add	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	'	
+word	s	
+gap	 	
+word	thoughts	
+gap	 	
+word	after	
+gap	 	
+word	the	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	narrative	
+gap	. 	
+word	Fortunato	
+gap	'	
+word	s	
+gap	 	
+word	name	
+gap	 	
+word	is	
+gap	 	
+word	one	
+gap	 	
+word	such	
+gap	 	
+word	irony	NN
+gap	, 	
+word	as	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	name	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	ship	
+gap	 (	
+word	l	
+gap	'	
+word	esperence	
+gap	) 	
+word	and	
+gap	 	
+word	Ledoux	
+gap	 	
+word	in	
+gap	 '	
+word	Tamango	
+gap	'. 	
+word	At	
+gap	 	
+word	the	
+gap	 	
+word	very	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 '	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	' 	
+word	we	
+gap	 	
+word	see	
+gap	 	
+word	that	
+gap	 	
+word	Fortunato	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	replaced	
+gap	 	
+word	by	
+gap	 "	
+word	Tiodoro	
+gap	 	
+word	Bianchi	
+gap	" - 	
+word	ironically	
+gap	 	
+word	sharing	
+gap	 	
+word	his	
+gap	 	
+word	first	
+gap	 	
+word	name	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	corporal	
+gap	 	
+word	and	
+gap	 	
+word	his	
+gap	 	
+word	last	
+gap	 	
+word	being	
+gap	 	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	white	
+gap	 	
+word	skin	
+gap	 	
+word	colour	
+gap	. 	
+word	Two	
+gap	 	
+word	things	
+gap	 	
+word	that	
+gap	 	
+word	Mateo	
+gap	 	
+word	Falcone	
+gap	 	
+word	stands	
+gap	 	
+word	against	
+gap	. 	
+word	Tamango	
+gap	, 	
+word	pg	
+gap	 68 	
+word	Therefore	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	clear	
+gap	, 	
+word	after	
+gap	 	
+word	analysing	
+gap	 	
+word	the	
+gap	 	
+word	various	
+gap	 	
+word	techniques	
+gap	 	
+word	used	
+gap	 	
+word	by	
+gap	 	
+word	Mérimée	
+gap	, 	
+word	that	
+gap	 	
+word	he	
+gap	 	
+word	does	
+gap	 	
+word	have	
+gap	 	
+word	in	
+gap	 	
+word	mind	
+gap	 	
+word	the	
+gap	 	
+word	effects	
+gap	 	
+word	of	
+gap	 	
+word	his	
+gap	 	
+word	composition	
+gap	 	
+word	at	
+gap	 	
+word	all	
+gap	 	
+word	times	
+gap	. 	
+word	He	
+gap	 	
+word	does	
+gap	 	
+word	above	
+gap	 	
+word	all	
+gap	 	
+word	attempt	
+gap	 	
+word	to	
+gap	 	
+word	control	
+gap	 	
+word	the	
+gap	 	
+word	reader	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	story	
+gap	 	
+word	more	
+gap	 	
+word	effective	
+gap	. 	
+word	Although	
+gap	 	
+word	not	
+gap	 	
+word	always	
+gap	 	
+word	gratifying	
+gap	 	
+word	during	
+gap	 	
+word	the	
+gap	 	
+word	narrative	
+gap	, 	
+word	Mérimée	
+gap	 	
+word	provokes	
+gap	 	
+word	independent	
+gap	 	
+word	thoughts	
+gap	, 	
+word	arguments	
+gap	 	
+word	and	
+gap	 	
+word	judgements	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	book	
+gap	.	

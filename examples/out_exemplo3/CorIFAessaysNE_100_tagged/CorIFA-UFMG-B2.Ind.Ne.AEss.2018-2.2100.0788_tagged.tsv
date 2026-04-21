@@ -1,563 +1,965 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2100.0788.txt
-token	tags
-    	
-Biomedical	CAP NNP
-engineering	GER
-,	
-also	RB
-known	PRIV
-as	PIN CONJ PREP
-bioengineering	GER
-,	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-combination	NOMZ
-of	PIN PREP
-the	ART DET
-design	NN
-and	PHC CCONJ
-problem	NN
-solving	WZPRES PGAS
-techniques	NN
-of	PIN PREP
-engineering	GER
-applied	WZPAST
-on	PIN PREP
-the	ART DET
-biological	JJ
-and	PHC CCONJ
-medical	JJ
-sciences	NN
-.	
-These	DEMO CAP DET
-both	DET
-areas	NN
-,	
-together	RB
-,	
-focus	INF
-on	PIN PREP
-the	ART DET
-advances	NN
-that	TSUB WHSUB WH
-improve	VPRT
-human	JJ
-health	NN
-and	PHC CCONJ
-health	NN
-care	NN
-at	PIN PREP
-all	QUAN DET
-levels	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-responsible	JJ PRED
-for	PIN PREP
-the	ART DET
-development	NOMZ
-and	PHC CCONJ
-creation	NOMZ
-of	PIN PREP
-prostheses	NN
-,	
-medical	JJ
-instruments	NOMZ
-,	
-diagnostic	JJ
-equipment	NOMZ
-and	CCONJ
-the	ART DET
-study	NN
-about	PIN PREP
-the	ART DET
-living	PGAS
-organisms	NN
-from	PIN PREP
-the	ART DET
-engineering	GER
-point	NN
-of	PIN PREP
-view	NN
-.	
-The	ART CAP DET
-oldest	RB SPADJ
-known	PRIV THATD
-occurrence	NN
-is	BEMA VPRT AUXB
-from	PIN PREP
-a	ART DET INDA
-mummy	NN
-in	PIN CONJ PREP
-Thebes	CAP NNP
-.	
-The	ART CAP DET
-body	NN
-had	VBD
-an	ART DET INDA
-instance	NN
-of	PIN PREP
-prosthesis	NN
-in	PIN CONJ PREP
-the	ART DET
-form	NN
-of	PIN PREP
-a	ART DET INDA
-wooden	JJ
-toe	NN
-that	TSUB WHSUB WH
-had	VBD PEAS
-been	PASS AUXB
-attached	
-to	PIN PREP
-the	ART DET
-foot	NN
-using	WZPRES PGAS
-string	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-then	RB
-,	
-bioengineering	GER
-has	VPRT PEAS
-developed	
-a	ART DET INDA
-great	JJ
-deal	NN
-and	CCONJ
-keep	INF
-growing	PGAS
-every	QUAN DET
-day	NN
-.	
-Therefore	RB CONJ CAP
-,	
-considering	GER PRIV PGAS
-its	PIT PRP SBJP
-importance	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-invest	INF
-and	PHC CCONJ
-improve	INF
-the	ART DET
-techniques	NN
-already	RB
-existing	PGAS
-.	
- 	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-generally	RB
-believed	PRIV
-that	PIN THVC SCONJ PREP
-different	JJ
-areas	NN
-may	POMD
-work	INF
-together	RB
-to	PIN TO PREP
-provide	INF
-a	ART DET INDA
-wide	JJ
-range	NN
-of	PIN PREP
-knowledge	NN
-.	
-Thus	RB CONJ CAP
-,	
-by	PIN PREP
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-medicine	NN
-and	PHC CCONJ
-engineering	GER
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-improve	INF
-life	NN
-of	PIN PREP
-the	ART DET
-people	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-crucial	JJ PRED
-for	PIN PREP
-the	ART DET
-biomedical	NNP
-engineers	NN
-confront	NNP
-,	
-understand	VPRT PRIV
-and	PHC CCONJ
-solve	INF
-highly	AMP RB
-complex	JJ
-problems	NN
-in	PIN CONJ PREP
-biomedicine	NN
-,	
-bringing	PRESP PGAS
-together	RB
-the	ART DET
-tools	NN
-available	JJ
-in	PIN CONJ PREP
-the	ART DET
-fields	NN
-of	PIN PREP
-experimental	JJ
-science	NN
-,	
-life	NN
-science	NN
-and	PHC CCONJ
-engineering	GER
-in	PIN CONJ PREP
-all	QUAN DET
-their	TPP3 PRP SBJP
-facts	NN
-.	
-This	DEMO CAP DET
-science	NN
-is	BEMA VPRT AUXB
-responsible	JJ PRED
-for	PIN PREP
-the	ART DET
-creation	NOMZ
-of	PIN PREP
-artificial	JJ
-organs	NN
-,	
-automated	
-patient	NN
-monitoring	GER
-,	
-blood	NN
-chemistry	NN
-sensors	NN
-,	
-advanced	JJ
-therapeutic	JJ
-and	PHC CCONJ
-surgical	JJ
-devices	NN
-,	
-biomechanics	NN
-for	PIN PREP
-injury	NN
-and	PHC CCONJ
-wound	NN
-healing	NN
-,	
-among	PIN PREP
-many	QUAN JJ
-others	NN
-.	
-Biomedical	JJ CAP
-engineers	NN
-are	BEMA VPRT AUXB
-present	JJ PRED
-in	PIN CONJ PREP
-research	NN
-centers	NN
-,	
-in	PIN CONJ PREP
-companies	NN
-,	
-in	PIN CONJ PREP
-hospitals	NN
-and	PHC CCONJ
-universities	NN
-.	
-Besides	PIN CAP SCONJ PREP
-that	DEMP DET
-,	
-Bioengineering	GER CAP PGAS
-is	VPRT AUXB
-now	RB TIME
-one	NUM
-of	PIN PREP
-the	ART DET
-fastest	JJ SPADJ
-growing	PGAS
-fields	NN
-.	
- 	
-Meanwhile	RB CAP
-,	
-some	QUAN DET
-obstacles	NN
-hinder	NN
-bioengineering	GER
-of	PIN PREP
-increase	NN
-equally	RB
-around	PIN PLACE PREP
-the	ART DET
-world	NN
-.	
-A	ART CAP DET INDA
-new	JJ
-product	NN
-takes	VPRT
-time	NN
-and	CCONJ
-needs	VPRT
-investments	NOMZ
-to	PIN TO PREP
-be	PASS AUXB INF
-created	
-.	
-Electrocardiography	CAP NNP
-,	
-an	ART DET INDA
-important	JJ
-vital	JJ
-signal	NN
-recorded	
-and	PHC CCONJ
-monitored	
-in	PIN CONJ PREP
-most	JJ EMPH SPADJ
-clinical	JJ
-routines	NN
-,	
-took	VBD
-many	QUAN JJ
-scientists	NN
-experimenting	GER WZPRES PGAS
-over	PIN PREP
-the	ART DET
-years	NN
-,	
-from	PIN PREP
-the	ART DET
-famous	JJ
-electricity	NOMZ
-experiment	NOMZ
-on	PIN PREP
-legs	NN
-of	PIN PREP
-a	ART DET INDA
-frog	NN
-in	PIN CONJ PREP
-1786	NUM
-,	
-until	PIN PREP
-the	ART DET
-construction	NOMZ
-of	PIN PREP
-the	ART DET
-first	JJ
-commercialized	
-device	NN
-in	PIN CONJ PREP
-the	ART DET
-20th	JJ
-century	NN
-.	
-Unfortunately	RB CAP
-,	
-investments	NOMZ
-for	PIN PREP
-the	ART DET
-search	NN
-and	PHC CCONJ
-development	NOMZ
-of	PIN PREP
-a	ART DET INDA
-product	NN
-do	VPRT SPAU
-not	XX0 RB
-occur	INF
-all	QUAN DET
-the	ART DET
-time	NN
-.	
-Some	QUAN CAP DET
-companies	NN
-,	
-then	RB
-,	
-prefer	VPRT SUAV
-to	PIN TO PREP
-import	INF
-machines	NN
-already	RB
-ready	JJ
-than	PIN PREP
-develop	INF
-a	ART DET INDA
-national	JJ
-one	NN
-.	
-However	RB CONJ CAP
-,	
-biomedical	JJ
-engineering	GER
-is	BEMA VPRT AUXB
-a	ART DET INDA
-new	JJ
-area	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-is	VPRT AUXB
-promising	PUBV PGAS
-for	PIN PREP
-the	ART DET
-next	JJ
-years	NN
-.	
-In	PIN CONJ CAP PREP
-2012	NUM
-there	EX
-were	VBD AUXB
-about	RB
-19,400	NUM
-biomedical	JJ
-engineers	NN
-employed	WZPAST
-in	PIN CONJ PREP
-the	ART DET
-US	FPP1 CAP NNP
-,	
-and	ANDC CCONJ
-the	ART DET
-field	NN
-was	PASS VBD BYPA AUXB
-predicted	PUBV
-to	PIN TO PREP
-grow	INF
-by	PIN PREP
-27	NUM
-%	NN
-from	PIN PREP
-2012	NUM
-to	PIN PREP
-2022	NUM
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-future	NN
-,	
-it	PIT PRP SBJP
-will	PRMD
-be	BEMA AUXB INF
-necessary	JJ
-people	NN
-specialized	WZPAST
-in	PIN CONJ PREP
-this	DEMP DET
-rising	PGAS
-area	NN
-.	
- 	
-Finally	RB CAP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-conclude	PRIV INF
-that	PIN THVC SCONJ PREP
-investments	NOMZ
-in	PIN CONJ PREP
-biomedical	JJ
-engineering	GER
-is	BEMA VPRT AUXB
-important	JJ PRED
-for	PIN PREP
-the	ART DET
-evolution	NOMZ
-.	
-The	ART CAP DET
-society	NN
-is	PASS VPRT AUXB
-made	
-up	PIN PREP
-of	PIN PREP
-people	NN
-,	
-the	ART DET
-ones	NN
-who	WHSUB WH
-maintain	VPRT PUBV
-the	ART DET
-status	NN
-quo	NN
-of	PIN PREP
-the	ART DET
-environment	NOMZ
-.	
-However	RB CONJ CAP
-,	
-these	DEMO DET
-people	NN
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-cared	
-too	RB
-.	
-Around	PIN PLACE CAP PREP
-the	ART DET
-world	NN
-,	
-new	JJ
-technologies	NN
-are	PASS VPRT AUXB
-being	PASS AUXB
-created	
-all	QUAN DET
-the	ART DET
-time	NN
-.	
-Indeed	RB CAP
-,	
-the	ART DET
-expectation	NOMZ
-of	PIN PREP
-life	NN
-also	RB
-has	VPRT PEAS
-been	AUXB
-increasing	GER PGAS
-over	PIN PREP
-the	ART DET
-years	NN
-.	
-Overall	RB CAP
-,	
-considering	GER PRIV PRESP PGAS
-the	ART DET
-development	NOMZ
-of	PIN PREP
-technology	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-crucial	JJ PRED
-to	PIN TO PREP
-make	INF
-products	NN
-to	PIN TO PREP
-help	INF
-people	NN
-improve	INF
-their	TPP3 PRP SBJP
-health	NN
-,	
-comfort	NN
-,	
-and	ANDC CCONJ
-happiness	NOMZ
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-2.2100.0788>\n\n<Biomedical Engineering in people's life>\n\n	
+word	Biomedical	CAP NNP
+gap	 	
+word	engineering	GER
+gap	, 	
+word	also	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	bioengineering	GER
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	design	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	problem	NN
+gap	 	
+word	solving	WZPRES PGAS
+gap	 	
+word	techniques	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	engineering	GER
+gap	 	
+word	applied	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	biological	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	medical	JJ
+gap	 	
+word	sciences	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	both	DET
+gap	 	
+word	areas	NN
+gap	, 	
+word	together	RB
+gap	, 	
+word	focus	INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	advances	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	improve	VPRT
+gap	 	
+word	human	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	levels	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	responsible	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	prostheses	NN
+gap	, 	
+word	medical	JJ
+gap	 	
+word	instruments	NOMZ
+gap	, 	
+word	diagnostic	JJ
+gap	 	
+word	equipment	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	study	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	living	PGAS
+gap	 	
+word	organisms	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	engineering	GER
+gap	 	
+word	point	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	view	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	oldest	RB SPADJ
+gap	 	
+word	known	PRIV THATD
+gap	 	
+word	occurrence	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	mummy	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Thebes	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	body	NN
+gap	 	
+word	had	VBD
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	instance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	prosthesis	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	form	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wooden	JJ
+gap	 	
+word	toe	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	had	VBD PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	attached	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	foot	NN
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	string	NN
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	then	RB
+gap	, 	
+word	bioengineering	GER
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	developed	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	deal	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	keep	INF
+gap	 	
+word	growing	PGAS
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	day	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	importance	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	invest	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	improve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	techniques	NN
+gap	 	
+word	already	RB
+gap	 	
+word	existing	PGAS
+gap	.\n	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	generally	RB
+gap	 	
+word	believed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	areas	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	work	INF
+gap	 	
+word	together	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	provide	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wide	JJ
+gap	 	
+word	range	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicine	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	engineering	GER
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	improve	INF
+gap	 	
+word	life	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	crucial	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	biomedical	NNP
+gap	 	
+word	engineers	NN
+gap	 	
+word	confront	NNP
+gap	, 	
+word	understand	VPRT PRIV
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	solve	INF
+gap	 	
+word	highly	AMP RB
+gap	 	
+word	complex	JJ
+gap	 	
+word	problems	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	biomedicine	NN
+gap	, 	
+word	bringing	PRESP PGAS
+gap	 	
+word	together	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	tools	NN
+gap	 	
+word	available	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fields	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	experimental	JJ
+gap	 	
+word	science	NN
+gap	, 	
+word	life	NN
+gap	 	
+word	science	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	engineering	GER
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	facts	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	science	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	responsible	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	artificial	JJ
+gap	 	
+word	organs	NN
+gap	, 	
+word	automated	
+gap	 	
+word	patient	NN
+gap	 	
+word	monitoring	GER
+gap	, 	
+word	blood	NN
+gap	 	
+word	chemistry	NN
+gap	 	
+word	sensors	NN
+gap	, 	
+word	advanced	JJ
+gap	 	
+word	therapeutic	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	surgical	JJ
+gap	 	
+word	devices	NN
+gap	, 	
+word	biomechanics	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	injury	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	wound	NN
+gap	 	
+word	healing	NN
+gap	, 	
+word	among	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	others	NN
+gap	. 	
+word	Biomedical	JJ CAP
+gap	 	
+word	engineers	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	present	JJ PRED
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	research	NN
+gap	 	
+word	centers	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	companies	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	hospitals	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	universities	NN
+gap	. 	
+word	Besides	PIN CAP SCONJ PREP
+gap	 	
+word	that	DEMP DET
+gap	, 	
+word	Bioengineering	GER CAP PGAS
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	now	RB TIME
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fastest	JJ SPADJ
+gap	 	
+word	growing	PGAS
+gap	 	
+word	fields	NN
+gap	.\n	
+word	Meanwhile	RB CAP
+gap	, 	
+word	some	QUAN DET
+gap	 	
+word	obstacles	NN
+gap	 	
+word	hinder	NN
+gap	 	
+word	bioengineering	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	increase	NN
+gap	 	
+word	equally	RB
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	product	NN
+gap	 	
+word	takes	VPRT
+gap	 	
+word	time	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	needs	VPRT
+gap	 	
+word	investments	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	created	
+gap	. 	
+word	Electrocardiography	CAP NNP
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	vital	JJ
+gap	 	
+word	signal	NN
+gap	 	
+word	recorded	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	monitored	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	clinical	JJ
+gap	 	
+word	routines	NN
+gap	, 	
+word	took	VBD
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	scientists	NN
+gap	 	
+word	experimenting	GER WZPRES PGAS
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	years	NN
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	famous	JJ
+gap	 	
+word	electricity	NOMZ
+gap	 	
+word	experiment	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	legs	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	frog	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1786, 	
+word	until	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	construction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	commercialized	
+gap	 	
+word	device	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 20	
+word	th	JJ
+gap	 	
+word	century	NN
+gap	. 	
+word	Unfortunately	RB CAP
+gap	, 	
+word	investments	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	search	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	product	NN
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	occur	INF
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	companies	NN
+gap	, 	
+word	then	RB
+gap	, 	
+word	prefer	VPRT SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	import	INF
+gap	 	
+word	machines	NN
+gap	 	
+word	already	RB
+gap	 	
+word	ready	JJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	develop	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	national	JJ
+gap	 	
+word	one	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	biomedical	JJ
+gap	 	
+word	engineering	GER
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	area	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	promising	PUBV PGAS
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	years	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 2012 	
+word	there	EX
+gap	 	
+word	were	VBD AUXB
+gap	 	
+word	about	RB
+gap	 19,400 	
+word	biomedical	JJ
+gap	 	
+word	engineers	NN
+gap	 	
+word	employed	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	US	FPP1 CAP NNP
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	field	NN
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	predicted	PUBV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	grow	INF
+gap	 	
+word	by	PIN PREP
+gap	 27% 	
+word	from	PIN PREP
+gap	 2012 	
+word	to	PIN PREP
+gap	 2022. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	future	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	necessary	JJ
+gap	 	
+word	people	NN
+gap	 	
+word	specialized	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	rising	PGAS
+gap	 	
+word	area	NN
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	conclude	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	investments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	biomedical	JJ
+gap	 	
+word	engineering	GER
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	evolution	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	society	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	made	
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	ones	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	maintain	VPRT PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	status	NN
+gap	 	
+word	quo	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	environment	NOMZ
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	these	DEMO DET
+gap	 	
+word	people	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	cared	
+gap	 	
+word	too	RB
+gap	. 	
+word	Around	PIN PLACE CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	, 	
+word	new	JJ
+gap	 	
+word	technologies	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	being	PASS AUXB
+gap	 	
+word	created	
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	. 	
+word	Indeed	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	expectation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	also	RB
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	years	NN
+gap	. 	
+word	Overall	RB CAP
+gap	, 	
+word	considering	GER PRIV PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	crucial	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	products	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	help	INF
+gap	 	
+word	people	NN
+gap	 	
+word	improve	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	health	NN
+gap	, 	
+word	comfort	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	happiness	NOMZ
+gap	.	

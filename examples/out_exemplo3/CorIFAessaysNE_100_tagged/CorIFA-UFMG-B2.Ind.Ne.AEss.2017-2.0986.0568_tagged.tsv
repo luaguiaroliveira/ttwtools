@@ -1,561 +1,965 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0986.0568.txt
-token	tags
-﻿	NNP
-    	
-Intensification	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-harm	NN
-associated	WZPAST
-with	PIN PREP
-medicines	NN
-and	PHC CCONJ
-prescribing	GER
-can	POMD
-be	PASS AUXB INF
-defined	
-as	PIN CONJ PREP
-medication	NOMZ
-error	NN
-(	
-Dean	CAP NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2000	NUM
-)	
-.	
-As	PIN CONJ CAP PREP
-reported	PUBV
-by	PIN PREP
-World	CAP NNP
-Health	CAP NNP
-Organization	CAP NNP
-(	
-WHO	CAP NNP
-)	
-in	PIN CONJ PREP
-2017	NUM
-,	
-the	ART DET
-cost	NN
-associated	WZPAST
-with	PIN PREP
-medication	NOMZ
-errors	NN
-might	POMD
-be	BEMA AUXB INF
-equal	JJ PRED
-to	PIN PREP
-US$	CAP
-42	NUM
-billion	NUM
-.	
-However	RB CONJ CAP
-,	
-according	PGAS
-to	PIN PREP
-this	DEMO DET
-Organization	CAP NNP
-,	
-errors	NN
-are	BEMA VPRT AUXB
-inevitable	JJ PRED
-and	CCONJ
-the	ART DET
-challenge	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-reduce	INF
-their	TPP3 PRP SBJP
-frequency	NN
-and	PHC CCONJ
-impact	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-sense	PRIV NN
-,	
-clinical	JJ
-pharmacists	NN
-can	POMD
-be	BEMA AUXB INF
-an	ART DET INDA
-effective	JJ
-strategy	NN
-,	
-considering	GER PRIV PGAS
-their	TPP3 PRP SBJP
-expertise	NN
-in	PIN CONJ PREP
-medications	NOMZ
-associated	WZPAST
-with	PIN PREP
-their	TPP3 PRP SBJP
-sociobehavioral	JJ
-and	PHC CCONJ
-clinical	JJ
-understanding	GER PRIV
-.	
- 	
-First	RB CAP
-,	
-reducing	PGAS
-medication	NOMZ
-errors	NN
-involves	VPRT
-the	ART DET
-capacity	NOMZ
-to	PIN TO PREP
-predict	PUBV INF
-,	
-explain	PUBV INF
-and	CCONJ
-elucidate	JJ
-problems	NN
-related	WZPAST
-to	PIN PREP
-medicines	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN PREP
-a	ART DET INDA
-clinical	JJ
-pharmacist	NN
-.	
-The	ART CAP DET
-pharmacy	NN
-curricula	NN
-provide	VPRT
-more	JJ EMPH CMADJ
-courses	NN
-on	PIN PREP
-drug	NN
-chemistry	NN
-than	PIN PREP
-do	PROD INF
-those	DEMO DET
-of	PIN PREP
-other	JJ
-health	NN
-care	NN
-professions	NOMZ
-,	
-which	SERE DET WH
-allows	VPRT SUAV
-to	PIN PREP
-pharmacists	NN
-identify	INF
-problems	NN
-related	WZPAST
-to	PIN PREP
-medications	NOMZ
-(	
-David	CAP NNP
-,	
-2009	NUM
-)	
-.	
-Thus	RB CONJ CAP
-,	
-dosage	NN
-errors	NN
-,	
-drug	NN
-incompatibilities	NN
-,	
-especially	RB
-in	PIN CONJ PREP
-those	DEMP DET
-that	DEMO WH
-frequently	RB
-occur	VPRT
-after	PIN PREP
-mixing	PGAS
-parenteral	JJ
-solutions	NOMZ
-,	
-and	ANDC CCONJ
-incorrect	JJ
-monotherapy	NN
-are	VPRT AUXB
-problems	NN
-that	TOBJ WHOBJ WH
-clinical	JJ
-pharmacists	NN
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-solve	INF
-based	
-on	PIN PREP
-their	TPP3 PRP SBJP
-deep	JJ
-knowledge	NN
-of	PIN PREP
-medicines	NN
-.	
-The	ART CAP DET
-consequences	NN
-to	PIN PREP
-the	ART DET
-health	NN
-system	NN
-are	VPRT AUXB
-,	
-therefore	RB CONJ
-,	
-a	ART DET INDA
-patient	JJ
-safety	NN
-culture	NN
-and	CCONJ
-fewer	JJ CMADJ
-expenses	NN
-related	WZPAST
-to	PIN PREP
-medication	NOMZ
-errors	NN
-.	
- 	
-Another	CAP DET
-fundamental	JJ
-fact	NN
-that	PIN TSUB SCONJ PREP
-impacts	VPRT
-the	ART DET
-chain	NN
-of	PIN PREP
-a	ART DET INDA
-safety	NN
-medication	NOMZ
-is	BEMA VPRT AUXB
-the	ART DET
-health	NN
-education	NOMZ
-.	
-Clinical	JJ CAP
-pharmacists	NN
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-instruct	SUAV INF
-the	ART DET
-patient	NN
-about	PIN PREP
-the	ART DET
-best	JJ SPADJ
-way	NN
-to	PIN TO PREP
-take	INF
-,	
-store	INF
-and	PHC CCONJ
-prepare	INF
-his	TPP3 PRP SBJP
-or	CCONJ
-her	TPP3 PRP SBJP
-medications	NOMZ
-.	
-In	PIN CONJ CAP PREP
-diabetes	NN
-therapy	NN
-,	
-for	PIN PREP
-instance	NN
-,	
-the	ART DET
-patients	NN
-who	WHSUB WH
-use	VPRT
-insulin	NN
-can	POMD SPAU
-frequently	RB
-put	INF
-the	ART DET
-insulin	NN
-in	PIN CONJ PREP
-the	ART DET
-freezer	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-known	PRIV
-to	PIN TO PREP
-degrade	INF
-it	PIT PRP SBJP
-,	
-or	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-administer	INF
-this	DEMO DET
-medicine	NN
-correctly	RB
-.	
-The	ART CAP DET
-consequences	NN
-of	PIN PREP
-this	DEMP DET
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-not	XX0 RB
-effective	JJ
-therapy	NN
-,	
-which	SERE WHQU DET WH
-might	POMD
-increase	INF
-the	ART DET
-rate	NN
-of	PIN PREP
-hospitalized	
-patients	NN
-,	
-higher	JJ CMADJ
-dosages	NN
-of	PIN PREP
-insulin	NN
-and	CCONJ
-irreversible	JJ
-harms	NN
-related	WZPAST
-to	PIN PREP
-diabetes	NN
-not	XX0 RB
-controlled	
-,	
-as	PIN CONJ PREP
-kidney	NN
-failure	NN
-and	PHC CCONJ
-blindness	NOMZ
-.	
-Avoiding	PRESP CAP PGAS
-this	DEMP DET
-means	VPRT PRIV
-quality	NOMZ
-of	PIN PREP
-life	NN
-to	PIN PREP
-the	ART DET
-patient	NN
-and	CCONJ
-a	ART DET INDA
-system	NN
-of	PIN PREP
-health	NN
-care	NN
-where	RB WHOBJ SCONJ WH
-the	ART DET
-frequency	NN
-of	PIN PREP
-medication	NOMZ
-errors	NN
-is	BEMA VPRT AUXB
-minimal	JJ PRED
-.	
- 	
-Finally	RB CAP
-,	
-increasing	GER PRESP PGAS
-a	ART DET INDA
-safe	JJ
-an	ART DET INDA
-effective	JJ
-use	NN
-of	PIN PREP
-medicines	NN
-requires	VPRT SUAV
-the	ART DET
-ability	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-sociobehavioral	JJ
-and	CCONJ
-the	ART DET
-clinical	JJ
-science	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-provided	
-in	PIN CONJ PREP
-clinical	JJ
-pharmacy	NN
-discipline	NN
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-identify	INF
-problems	NN
-related	WZPAST
-to	PIN PREP
-medicines	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-the	ART DET
-capacity	NOMZ
-to	PIN TO PREP
-interpret	INF
-clinical	JJ
-exams	NN
-,	
-as	PIN CONJ PREP
-high	JJ
-blood	NN
-potassium	NN
-meaning	WZPRES PRIV PGAS
-a	ART DET INDA
-possible	JJ
-inappropriate	JJ
-dosage	NN
-of	PIN PREP
-some	QUAN DET
-medicine	NN
-and	CCONJ
-,	
-also	RB
-,	
-behaviors	NN
-presented	WZPAST
-by	PIN PREP
-the	ART DET
-patient	NN
-,	
-as	PIN CONJ PREP
-irritability	NOMZ
-,	
-which	SERE WHQU DET WH
-can	POMD
-be	PASS BYPA AUXB INF
-caused	
-by	PIN PREP
-medicines	NN
-that	TSUB WHSUB WH
-act	VPRT
-in	PIN CONJ PREP
-the	ART DET
-brain	NN
-.	
-Thus	RB CONJ CAP
-,	
-clinical	JJ
-pharmacists	NN
-are	BEMA VPRT AUXB
-able	JJ PRED
-to	PIN TO PREP
-optimize	INF
-medication	NOMZ
-therapy	NN
-based	WZPAST
-on	PIN PREP
-their	TPP3 PRP SBJP
-knowledge	NN
-of	PIN PREP
-the	ART DET
-multiple	JJ
-abilities	NN
-related	WZPAST
-to	PIN PREP
-health	NN
-care	NN
-.	
- 	
-Therefore	RB CONJ CAP
-,	
-an	ART DET INDA
-effective	JJ
-strategy	NN
-to	PIN TO PREP
-reduce	INF
-the	ART DET
-frequency	NN
-and	PHC CCONJ
-impact	NN
-of	PIN PREP
-medications	NOMZ
-errors	NN
-is	BEMA VPRT AUXB
-the	ART DET
-use	NN
-of	PIN PREP
-clinical	JJ
-pharmacists	NN
-.	
-To	PIN TO CAP PREP
-achieve	INF
-the	ART DET
-aim	NN
-launched	WZPAST
-for	PIN PREP
-the	ART DET
-WHO	CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-Third	CAP NNP
-Global	CAP NNP
-Patient	CAP NNP
-Safety	CAP NNP
-Challenge	CAP NNP
-,	
-which	SERE DET WH
-involves	VPRT
-decreasing	GER PGAS
-the	ART DET
-medication	NOMZ
-errors	NN
-by	PIN PREP
-more	JJ EMPH CMADJ
-than	PIN PREP
-50	NUM
-%	NN
-in	PIN CONJ PREP
-all	QUAN DET
-countries	NN
-over	PIN PREP
-the	ART DET
-next	JJ
-five	NUM
-years	NN
-,	
-a	ART DET INDA
-key	JJ
-method	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-apply	INF
-the	ART DET
-abilities	NN
-presented	WZPAST
-by	PIN PREP
-clinical	JJ
-pharmacist	NN
-,	
-as	PIN CONJ PREP
-deep	JJ
-knowledge	NN
-of	PIN PREP
-medications	NOMZ
-,	
-health	NN
-education	NOMZ
-capacity	NOMZ
-,	
-sociobehavioral	JJ
-and	PHC CCONJ
-clinical	JJ
-science	NN
-understanding	GER PRIV
-.	
- 	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0986.0568>\n\n<Clinical pharmacist as a solution to reduce medication errors>\n\n	
+word	Intensification	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	harm	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	medicines	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	prescribing	GER
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	defined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	error	NN
+gap	 (	
+word	Dean	CAP NNP
+gap	 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2000). 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	reported	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	Health	CAP NNP
+gap	 	
+word	Organization	CAP NNP
+gap	 (	
+word	WHO	CAP NNP
+gap	) 	
+word	in	PIN CONJ PREP
+gap	 2017, 	
+word	the	ART DET
+gap	 	
+word	cost	NN
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	errors	NN
+gap	 	
+word	might	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	equal	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	US	CAP
+gap	$ 42 	
+word	billion	NUM
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	according	PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	Organization	CAP NNP
+gap	, 	
+word	errors	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	inevitable	JJ PRED
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	challenge	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	frequency	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	impact	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	sense	PRIV NN
+gap	, 	
+word	clinical	JJ
+gap	 	
+word	pharmacists	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	effective	JJ
+gap	 	
+word	strategy	NN
+gap	, 	
+word	considering	GER PRIV PGAS
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	expertise	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	medications	NOMZ
+gap	 	
+word	associated	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	sociobehavioral	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	clinical	JJ
+gap	 	
+word	understanding	GER PRIV
+gap	.\n	
+word	First	RB CAP
+gap	, 	
+word	reducing	PGAS
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	errors	NN
+gap	 	
+word	involves	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	predict	PUBV INF
+gap	, 	
+word	explain	PUBV INF
+gap	 	
+word	and	CCONJ
+gap	 	
+word	elucidate	JJ
+gap	 	
+word	problems	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	medicines	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	clinical	JJ
+gap	 	
+word	pharmacist	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	pharmacy	NN
+gap	 	
+word	curricula	NN
+gap	 	
+word	provide	VPRT
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	courses	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	drug	NN
+gap	 	
+word	chemistry	NN
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	do	PROD INF
+gap	 	
+word	those	DEMO DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	 	
+word	professions	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	pharmacists	NN
+gap	 	
+word	identify	INF
+gap	 	
+word	problems	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	medications	NOMZ
+gap	 (	
+word	David	CAP NNP
+gap	, 2009). 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	dosage	NN
+gap	 	
+word	errors	NN
+gap	, 	
+word	drug	NN
+gap	 	
+word	incompatibilities	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	that	DEMO WH
+gap	 	
+word	frequently	RB
+gap	 	
+word	occur	VPRT
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	mixing	PGAS
+gap	 	
+word	parenteral	JJ
+gap	 	
+word	solutions	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	incorrect	JJ
+gap	 	
+word	monotherapy	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	problems	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	clinical	JJ
+gap	 	
+word	pharmacists	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	solve	INF
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	deep	JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicines	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	consequences	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	health	NN
+gap	 	
+word	system	NN
+gap	 	
+word	are	VPRT AUXB
+gap	, 	
+word	therefore	RB CONJ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	patient	JJ
+gap	 	
+word	safety	NN
+gap	 	
+word	culture	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	fewer	JJ CMADJ
+gap	 	
+word	expenses	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	errors	NN
+gap	.\n	
+word	Another	CAP DET
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	fact	NN
+gap	 	
+word	that	PIN TSUB SCONJ PREP
+gap	 	
+word	impacts	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	chain	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	safety	NN
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	health	NN
+gap	 	
+word	education	NOMZ
+gap	. 	
+word	Clinical	JJ CAP
+gap	 	
+word	pharmacists	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	instruct	SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	way	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	, 	
+word	store	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	prepare	INF
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	or	CCONJ
+gap	 	
+word	her	TPP3 PRP SBJP
+gap	 	
+word	medications	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	diabetes	NN
+gap	 	
+word	therapy	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	patients	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	use	VPRT
+gap	 	
+word	insulin	NN
+gap	 	
+word	can	POMD SPAU
+gap	 	
+word	frequently	RB
+gap	 	
+word	put	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	insulin	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	freezer	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	degrade	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	or	CCONJ
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	administer	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	medicine	NN
+gap	 	
+word	correctly	RB
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	consequences	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	effective	JJ
+gap	 	
+word	therapy	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	might	POMD
+gap	 	
+word	increase	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	rate	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	hospitalized	
+gap	 	
+word	patients	NN
+gap	, 	
+word	higher	JJ CMADJ
+gap	 	
+word	dosages	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	insulin	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	irreversible	JJ
+gap	 	
+word	harms	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	diabetes	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	controlled	
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	kidney	NN
+gap	 	
+word	failure	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	blindness	NOMZ
+gap	. 	
+word	Avoiding	PRESP CAP PGAS
+gap	 	
+word	this	DEMP DET
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	system	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	frequency	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	errors	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	minimal	JJ PRED
+gap	.\n	
+word	Finally	RB CAP
+gap	, 	
+word	increasing	GER PRESP PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	safe	JJ
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	effective	JJ
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medicines	NN
+gap	 	
+word	requires	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	sociobehavioral	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	clinical	JJ
+gap	 	
+word	science	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	provided	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	clinical	JJ
+gap	 	
+word	pharmacy	NN
+gap	 	
+word	discipline	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	problems	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	medicines	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	the	ART DET
+gap	 	
+word	capacity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	interpret	INF
+gap	 	
+word	clinical	JJ
+gap	 	
+word	exams	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	high	JJ
+gap	 	
+word	blood	NN
+gap	 	
+word	potassium	NN
+gap	 	
+word	meaning	WZPRES PRIV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	possible	JJ
+gap	 	
+word	inappropriate	JJ
+gap	 	
+word	dosage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	medicine	NN
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	also	RB
+gap	, 	
+word	behaviors	NN
+gap	 	
+word	presented	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	patient	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	irritability	NOMZ
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	caused	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	medicines	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	act	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	brain	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	clinical	JJ
+gap	 	
+word	pharmacists	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	optimize	INF
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	therapy	NN
+gap	 	
+word	based	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	multiple	JJ
+gap	 	
+word	abilities	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	health	NN
+gap	 	
+word	care	NN
+gap	.\n	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	an	ART DET INDA
+gap	 	
+word	effective	JJ
+gap	 	
+word	strategy	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	frequency	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	impact	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medications	NOMZ
+gap	 	
+word	errors	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	clinical	JJ
+gap	 	
+word	pharmacists	NN
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	aim	NN
+gap	 	
+word	launched	WZPAST
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	WHO	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Third	CAP NNP
+gap	 	
+word	Global	CAP NNP
+gap	 	
+word	Patient	CAP NNP
+gap	 	
+word	Safety	CAP NNP
+gap	 	
+word	Challenge	CAP NNP
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	involves	VPRT
+gap	 	
+word	decreasing	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	medication	NOMZ
+gap	 	
+word	errors	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	than	PIN PREP
+gap	 50% 	
+word	in	PIN CONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	countries	NN
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	next	JJ
+gap	 	
+word	five	NUM
+gap	 	
+word	years	NN
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	key	JJ
+gap	 	
+word	method	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	apply	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	abilities	NN
+gap	 	
+word	presented	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	clinical	JJ
+gap	 	
+word	pharmacist	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	deep	JJ
+gap	 	
+word	knowledge	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	medications	NOMZ
+gap	, 	
+word	health	NN
+gap	 	
+word	education	NOMZ
+gap	 	
+word	capacity	NOMZ
+gap	, 	
+word	sociobehavioral	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	clinical	JJ
+gap	 	
+word	science	NN
+gap	 	
+word	understanding	GER PRIV
+gap	.\n	

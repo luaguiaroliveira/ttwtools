@@ -1,1198 +1,2023 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2490.1330.txt
-token	tags
-     	
-At	PIN CAP PREP
-the	ART DET
-beginning	NN
-of	PIN PREP
-fifty	NUM
-decade	NN
-,	
-the	ART DET
-Belgian	JJ CAP
-engineer	NN
-Abraham	CAP NNP
-Lipski	CAP NNP
-,	
-assisted	PASTP
-by	PIN PREP
-professor	NN
-Louis	CAP NNP
-Baes	CAP NNP
-,	
-developed	VBD
-a	ART DET INDA
-composite	JJ
-beam	NN
-with	PIN PREP
-an	ART DET INDA
-innovative	JJ
-prestressing	GER
-method	NN
-that	TSUB WHSUB WH
-received	VBD
-the	ART DET
-commercial	JJ
-name	NN
-“	
-PREFLEX	CAP NNP
-”	
-beam	NN
-(	
-ESPION	NN CAP
-,	
-2011	NUM
-)	
-.	
-A	ART CAP DET INDA
-Preflex	CAP NNP
-beam	NN
-is	PASS VPRT AUXB
-composed	
-of	PIN PREP
-a	ART DET INDA
-precambered	
-I	FPP1 NN CAP
--	
-shaped	
-steel	NN
-girder	NN
-and	CCONJ
-a	ART DET INDA
-bottom	JJ
-flange	NN
-of	PIN PREP
-precast	JJ
-prestressed	
-concrete	NN
-that	TSUB WHSUB WH
-encompasses	VPRT
-the	ART DET
-steel	NN
-girder	NN
-bottom	NN
-flange	NN
-.	
-The	ART CAP DET
-construction	NOMZ
-of	PIN PREP
-a	ART DET INDA
-Preflex	CAP NNP
-beam	NN
-involves	VPRT
-some	QUAN DET
-sequential	JJ
-steps	NN
-,	
-illustrated	VBD
-in	PIN CONJ PREP
-Figure	CAP NNP
-1	NUM
-and	CCONJ
-described	
-as	PIN CONJ PREP
-following	PGAS
-:	
-(	
-a	X
-)	
-firstly	RB
-,	
-the	ART DET
-precambered	
-I	FPP1 NN CAP
--	
-shaped	
-steel	NN
-girder	NN
-is	PASS VPRT AUXB
-placed	
-above	PIN PLACE PREP
-end	NN
-supports	NN
-;	
-(	
-b	X
-)	
-two	NUM
-concentrated	JJ
-vertical	JJ
-loads	NN
-are	PASS VPRT AUXB
-applied	
-at	PIN PREP
-the	ART DET
-quarters	NN
-of	PIN PREP
-the	ART DET
-girder	NN
-span	NN
-,	
-submitting	GER PUBV PRESP PGAS
-the	ART DET
-steel	NN
-bottom	NN
-flange	NN
-to	PIN PREP
-tensile	JJ
-stresses	NN
-;	
-(	
-c	NN
-)	
-the	ART DET
-steel	NN
-girder	NN
-bottom	NN
-flange	NN
-is	PASS VPRT BYPA AUXB
-encased	
-by	PIN PREP
-concrete	NN
-(	
-the	ART DET
-loads	NN
-are	PASS VPRT AUXB
-sustained	
-until	PIN PREP
-concrete	JJ
-hardens	NN
-)	
-;	
-(	
-d	X
-)	
-when	RB SCONJ WH
-the	ART DET
-concrete	JJ
-flange	NN
-reaches	VPRT
-sufficient	JJ
-strength	NN
-,	
-which	SERE DET WH
-generally	RB
-occurs	VPRT
-up	PIN PREP
-to	PIN PREP
-seven	NUM
-days	NN
-after	PIN PREP
-its	PIT PRP SBJP
-cast	NN
-,	
-the	ART DET
-concentrated	JJ
-loads	NN
-are	PASS VPRT AUXB
-removed	
-;	
-(	
-e	X
-)	
-finally	RB
-,	
-the	ART DET
-remaining	PGAS
-exposed	
-part	NN
-of	PIN PREP
-steel	NN
-girder	NN
-can	POMD
-be	PASS BYPA AUXB INF
-covered	
-by	PIN PREP
-a	ART DET INDA
-second	JJ
-cast	NN
-phase	NN
-of	PIN PREP
-concrete	NN
-,	
-although	CONC PIN SCONJ PREP
-this	DEMO DET
-step	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-mandatory	JJ
-in	PIN CONJ PREP
-the	ART DET
-construction	NOMZ
-of	PIN PREP
-a	ART DET INDA
-Preflex	CAP NNP
-beam	NN
-(	
-steps	NN
-“	
-a	X
-”	
-to	PIN STPR PREP
-“	
-d	NNP
-”	
-)	
-.	
-    	
-Some	QUAN CAP DET
-important	JJ
-details	NN
-related	WZPAST
-to	PIN PREP
-the	ART DET
-construction	NOMZ
-procedure	NN
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-quoted	
-.	
-The	ART CAP DET
-first	JJ
-one	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-the	ART DET
-maximum	JJ
-stresses	NN
-on	PIN PREP
-the	ART DET
-beam	NN
-cross	NN
--	NN
-section	NOMZ
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-concentrated	JJ
-loads	NN
-at	PIN PREP
-step	NN
-“	
-b	NN
-”	
-can	POMD SPAU
-not	XX0 RB
-exceed	INF
-the	ART DET
-material	JJ
-elastic	JJ
-range	NN
-(	
-it	PIT PRP SBJP
-corresponds	VPRT
-to	PIN STPR PREP
-,	
-approximately	RB
-,	
-80	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-steel	NN
-yield	NN
-strength	NN
-,	
-fy	NNP
-)	
-.	
-Secondly	RB CAP
-,	
-with	PIN PREP
-the	ART DET
-loads	NN
-’	
-removal	NN
-at	PIN PREP
-step	NN
-“	
-d	NNP
-”	
-,	
-the	ART DET
-beam	NN
-tends	VPRT
-to	PIN TO PREP
-assume	PRIV INF
-its	PIT PRP SBJP
-original	JJ
-configuration	NOMZ
-(	
-step	INF
-“	
-a	ART DET INDA
-”	
-)	
-,	
-but	CCONJ
-the	ART DET
-presence	NN
-of	PIN PREP
-the	ART DET
-hardened	JJ
-concrete	JJ
-bottom	NN
-flange	NN
-does	VPRT SPAU
-not	XX0 RB
-allow	SUAV THATD INF
-it	PIT PRP SBJP
-entirely	AMP RB
-.	
- 	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-,	
-part	NN
-of	PIN PREP
-the	ART DET
-tensile	JJ
-stresses	NN
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-previous	JJ
-deformation	NOMZ
-of	PIN PREP
-steel	NN
-bottom	NN
-flange	NN
-is	PASS VPRT BYPA AUXB
-transferred	
-by	PIN PREP
-friction	NOMZ
-to	PIN PREP
-the	ART DET
-concrete	JJ
-flange	NN
-(	
-prestressing	GER
-)	
-–	
-this	DEMP DET
-explains	VPRT PUBV
-the	ART DET
-minimum	JJ
-compressive	JJ
-strength	NN
-requirement	NOMZ
-for	PIN PREP
-the	ART DET
-concrete	JJ
-material	NN
-at	PIN PREP
-this	DEMO DET
-stage	NN
-.	
-Lastly	RB CAP
-,	
-as	PIN CONJ PREP
-the	ART DET
-construction	NOMZ
-procedure	NN
-demands	VPRT SUAV
-the	ART DET
-maintenance	NN
-of	PIN PREP
-the	ART DET
-concentrated	JJ
-loads	NN
-for	PIN PREP
-a	ART DET INDA
-few	QUAN JJ
-days	NN
-,	
-a	ART DET INDA
-DYWIDAG	CAP NNP
-system	NN
-will	PRMD
-be	PASS AUXB INF
-employed	
-to	PIN TO PREP
-achieve	INF
-it	PIT PRP SBJP
-.	
-  	
-According	CAP PGAS
-to	PIN PREP
-Staquet	CAP NNP
-et	NNP
-al	NNP
-.	
-(	
-2004	NUM
-)	
-,	
-among	PIN PREP
-the	ART DET
-technical	JJ
-advantages	NN
-that	TSUB WHSUB WH
-distinguish	VPRT
-the	ART DET
-Preflex	CAP NNP
-beam	NN
-of	PIN PREP
-other	JJ
-beam	NN
-types	NN
-with	PIN PREP
-the	ART DET
-same	JJ
-depth	NN
-,	
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-highlighted	
-its	PIT PRP SBJP
-greater	JJ CMADJ
-stiffness	NOMZ
-and	CCONJ
-,	
-consequently	RB CONJ
-,	
-the	ART DET
-increase	NN
-of	PIN PREP
-the	ART DET
-structure	NN
-natural	JJ
-frequency	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-especially	RB
-desirable	JJ
-in	PIN CONJ PREP
-constructions	NOMZ
-subjected	WZPAST
-to	PIN PREP
-loads	NN
-that	TSUB WHSUB WH
-would	PRMD
-be	BEMA AUXB INF
-capable	JJ PRED
-to	PIN TO PREP
-excite	INF
-the	ART DET
-structure	NN
-and	CCONJ
-generate	INF
-resonance	NN
-problems	NN
-(	
-when	RB SCONJ WH
-the	ART DET
-loads	NN
-that	TSUB WHSUB WH
-act	VPRT
-on	PIN PREP
-a	ART DET INDA
-structure	NN
-promote	VPRT
-a	ART DET INDA
-frequency	NN
-equal	JJ
-or	CCONJ
-close	JJ
-to	PIN PREP
-the	ART DET
-natural	JJ
-frequency	NN
-of	PIN PREP
-the	ART DET
-structure	NN
-,	
-it	PIT PRP SBJP
-has	VPRT
-higher	JJ CMADJ
-deflexions	NN
-and	PHC CCONJ
-motion	NOMZ
-amplitudes	NN
-,	
-leading	PGAS
-to	PIN PREP
-excessive	JJ
-,	
-uncomfortable	JJ
-and	PHC CCONJ
-noticeable	JJ
-vibrations	NOMZ
-or	CCONJ
-even	RB
-to	PIN PREP
-the	ART DET
-structural	JJ
-collapse	NN
-)	
-.	
-Furthermore	RB CONJ CAP
-,	
-a	ART DET INDA
-Preflex	CAP NNP
-beam	NN
-has	VPRT
-good	JJ
-fatigue	NN
-and	PHC CCONJ
-fire	NN
-resistance	NN
-,	
-and	ANDC CCONJ
-can	POMD
-be	PASS AUXB INF
-employed	
-with	PIN PREP
-span	NN
--	
-to	PIN STPR PREP
--	
-depth	NN
-ratio	NN
-values	NN
-up	PIN PREP
-to	PIN PREP
-45	NUM
-(	
-MANNINI	CAP NNP
-,	
-2002	NUM
-)	
-–	
-usually	RB
-,	
-this	DEMO DET
-ratio	NN
-value	NN
-does	VPRT SPAU
-not	XX0 RB
-exceed	INF
-25	NUM
-for	PIN PREP
-standard	JJ
-composite	JJ
-structures	NN
-.	
-  	
-There	EX CAP
-is	VPRT AUXB
-a	ART DET INDA
-motivation	NOMZ
-in	PIN CONJ PREP
-enabling	PGAS
-the	ART DET
-use	NN
-of	PIN PREP
-rectangular	JJ
-tubular	JJ
-section	NOMZ
-as	PIN CONJ PREP
-beam	NN
-elements	NOMZ
-,	
-however	RB CONJ
-their	TPP3 PRP SBJP
-use	NN
-is	PASS VPRT AUXB
-restricted	
-to	PIN PREP
-small	JJ
-spans	NN
-due	PIN PREP
-to	PIN PREP
-limitations	NOMZ
-related	WZPAST
-to	PIN PREP
-their	TPP3 PRP SBJP
-height	NN
-.	
-Front	NN CAP
-of	PIN PREP
-what	WH
-was	PASS VBD SPAU AUXB
-previously	RB TIME
-exposed	
-and	PHC CCONJ
-observing	PRIV THATD PGAS
-the	ART DET
-technical	JJ
-advantages	NN
-presented	WZPAST
-for	PIN PREP
-Preflex	CAP NNP
-beams	NN
-consisted	VBD
-of	PIN PREP
-I	FPP1 CAP NNP
--	
-section	NOMZ
-steel	NN
-profiles	NN
-,	
-comes	VPRT
-up	PIN PREP
-the	ART DET
-idea	NN
-of	PIN PREP
-evaluating	GER PGAS
-this	DEMO DET
-prestressing	GER
-methodology	NN
-in	PIN CONJ PREP
-composite	JJ
-beams	NN
-consisted	WZPAST
-of	PIN PREP
-rectangular	JJ
-tubular	JJ
-steel	NN
-profile	NN
-filled	WZPAST
-with	PIN PREP
-concrete	NN
-.	
-  	
-On	PIN CAP PREP
-the	ART DET
-experimental	JJ
-program	NN
-that	TSUB WHSUB WH
-will	PRMD
-investigate	INF
-the	ART DET
-behaviour	NN
-of	PIN PREP
-prestressed	JJ
-composite	JJ
-beams	NN
-composed	WZPAST
-by	PIN PREP
-rectangular	JJ
-tubular	JJ
-steel	NN
-profiles	NN
-filled	WZPAST
-with	PIN PREP
-concrete	NN
-,	
-one	NUM
-of	PIN PREP
-the	ART DET
-challenges	NN
-is	BEMA VPRT AUXB
-to	PIN TO PREP
-sustain	INF
-the	ART DET
-applied	
-loads	NN
-until	PIN PREP
-concrete	JJ
-hardens	NN
-(	
-5	NUM
-to	PIN PREP
-7	NUM
-days	NN
-)	
-,	
-which	SERE DET WH
-comprises	VPRT
-steps	NN
-“	
-b	NN
-”	
-and	ANDC CCONJ
-“	
-c	NN
-”	
-cited	PASTP
-earlier	RB TIME CMADJ
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-possible	JJ
-to	PIN TO PREP
-use	INF
-the	ART DET
-equipment	NOMZ
-of	PIN PREP
-the	ART DET
-Laboratory	CAP NNP
-(	
-LAEES	CAP NNP
-–	
-Laboratorio	CAP NNP
-de	NNP
-Analise	CAP NNP
-Experimental	CAP NNP
-de	NNP
-Estruturas	CAP NNP
-)	
-that	WHQU DEMP WH
-is	PASS VPRT SPAU AUXB
-generally	RB
-employed	
-to	PIN TO PREP
-apply	INF
-forces	NN
-(	
-MTS	CAP NNP
-actuator	NN
-)	
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-kept	
-on	PIN PREP
-during	PIN PREP
-all	QUAN DET
-these	DEMO DET
-seven	NUM
-days	NN
-.	
-To	PIN TO CAP PREP
-get	INF
-around	PIN PLACE PREP
-this	DEMO DET
-issue	NN
-,	
-a	ART DET INDA
-DYWIDAG	CAP NNP
-system	NN
-is	PASS VPRT AUXB
-utilized	
-,	
-as	PIN CONJ PREP
-showed	PRIV
-in	PIN CONJ PREP
-Figure	CAP NNP
-2	NUM
-(	
-prototype	INF
-lateral	JJ
-view	NN
-)	
-.	
-Two	CAP NUM
-cross	NN
-beams	NN
-are	PASS VPRT AUXB
-placed	
-at	PIN PREP
-the	ART DET
-top	NN
-of	PIN PREP
-the	ART DET
-tubular	JJ
-steel	NN
-beam	NN
-,	
-where	RB SCONJ WH
-the	ART DET
-two	NUM
-concentrated	JJ
-vertical	JJ
-loads	NN
-will	PRMD
-be	PASS SPAU AUXB INF
-indirectly	RB
-applied	
-at	PIN PREP
-the	ART DET
-quarters	NN
-of	PIN PREP
-the	ART DET
-span	NN
-.	
-At	PIN CAP PREP
-each	QUAN DET
-end	NN
-of	PIN PREP
-these	DEMO DET
-cross	NN
-beams	NN
-,	
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-DYWIDAG	CAP NNP
-steel	NN
-bar	NN
-that	TSUB WHSUB WH
-passes	VPRT
-through	PIN PREP
-the	ART DET
-exiting	NN
-holes	NN
-of	PIN PREP
-the	ART DET
-laboratory	NN
-concrete	JJ
-slab	NN
-.	
-These	DEMO CAP DET
-four	NUM
-bars	NN
-are	PASS VPRT AUXB
-pretensioned	
-at	PIN PREP
-the	ART DET
-lower	JJ CMADJ
-ending	NN
-using	WZPRES PGAS
-hydraulic	JJ
-jacks	NN
-until	PIN PREP
-the	ART DET
-tubular	JJ
-steel	NN
-beam	NN
-reaches	VPRT
-the	ART DET
-deformation	NOMZ
-that	TSUB WHSUB WH
-would	PRMD
-occur	INF
-if	COND PIN SCONJ PREP
-it	PIT PRP SBJP
-was	PASS VBD SPAU AUXB
-directly	RB
-subjected	
-to	PIN PREP
-the	ART DET
-bending	PGAS
-loads	NN
-.	
-The	ART CAP DET
-proposed	SUAV
-designed	
-system	NN
-is	BEMA VPRT AUXB
-very	AMP RB
-interesting	JJ
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-allows	VPRT SUAV
-a	ART DET INDA
-safe	JJ
-,	
-economical	JJ
-and	PHC CCONJ
-reliable	JJ
-form	NN
-to	PIN TO PREP
-achieve	INF
-the	ART DET
-necessary	JJ
-step	NN
-.	
-Moreover	RB CONJ CAP
-,	
-this	DEMO DET
-system	NN
-admits	VPRT PUBV
-that	PIN THVC SCONJ PREP
-more	JJ EMPH CMADJ
-than	PIN PREP
-one	NUM
-prototype	NN
-be	PASS AUXB INF
-produced	
-at	PIN PREP
-the	ART DET
-same	JJ
-time	NN
-,	
-since	OSUB PIN SCONJ PREP
-both	DET
-material	NN
-and	PHC CCONJ
-diameter	NN
-of	PIN PREP
-the	ART DET
-DYWIDAG	CAP NNP
-bars	NN
-have	VPRT
-enough	JJ
-resistance	NN
-to	PIN TO PREP
-support	INF
-more	JJ EMPH CMADJ
-than	PIN PREP
-four	NUM
-times	NN
-the	ART DET
-bending	PGAS
-loads	NN
-.	
-    	
-Another	CAP DET
-challenge	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-faced	
-during	PIN PREP
-the	ART DET
-research	NN
-is	BEMA VPRT AUXB
-the	ART DET
-prestress	NN
-loss	NN
-.	
-Concrete	NN CAP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-material	NN
-that	TSUB WHSUB WH
-has	VPRT
-time	NN
--	
-dependent	JJ
-deformations	NOMZ
-,	
-named	PASTP
-as	PIN CONJ PREP
-creep	JJ
-and	CCONJ
-shrinkage	NN
-effects	NN
-.	
-All	QUAN CAP DET
-studies	NN
-involving	WZPRES PGAS
-Preflex	CAP NNP
-beams	NN
-pointed	VBD
-that	PIN DEMO SCONJ PREP
-these	DEMO DET
-two	NUM
-effects	NN
-minimize	VPRT
-,	
-with	PIN PREP
-time	NN
-,	
-the	ART DET
-initial	JJ
-prestress	NN
-of	PIN PREP
-the	ART DET
-concrete	NN
-and	ANDC CCONJ
-this	DEMO DET
-loss	NN
-impacts	VPRT
-negatively	RB
-on	PIN PREP
-the	ART DET
-service	NN
-load	NN
-capacity	NOMZ
-of	PIN PREP
-the	ART DET
-beam	NN
-.	
-One	CAP NUM
-of	PIN PREP
-the	ART DET
-main	JJ
-manners	NN
-to	PIN TO PREP
-make	INF
-the	ART DET
-loss	NN
-as	RB CONJ
-small	JJ
-as	PIN CONJ PREP
-possible	JJ
-is	VPRT AUXB
-keeping	PGAS
-the	ART DET
-compressive	JJ
-prestress	NN
-between	PIN PREP
-40	NUM
-%	NN
-and	CCONJ
-60	NUM
-%	NN
-of	PIN PREP
-the	ART DET
-concrete	JJ
-strength	NN
-achieved	WZPAST
-at	PIN PREP
-the	ART DET
-day	NN
-of	PIN PREP
-the	ART DET
-load	NN
-release	NN
-–	
-this	DEMP DET
-diminishes	VPRT
-creep	JJ
-effects	NN
-.	
-The	ART CAP DET
-other	JJ
-one	NN
-naturally	RB
-occurs	VPRT
-in	PIN CONJ PREP
-the	ART DET
-case	NN
-of	PIN PREP
-a	ART DET INDA
-Preflex	CAP NNP
-beam	NN
-constituted	WZPAST
-by	PIN PREP
-a	ART DET INDA
-steel	NN
-tube	NN
-profile	NN
-,	
-as	PIN CONJ PREP
-there	EX
-is	VPRT AUXB
-no	SYNE DET
-concrete	JJ
-water	NN
-loss	NN
-to	PIN PREP
-the	ART DET
-environment	NOMZ
-(	
-the	ART DET
-steel	NN
-tube	NN
-protects	VPRT
-the	ART DET
-concrete	JJ
-core	NN
-)	
-and	ANDC CCONJ
-,	
-consequently	RB CONJ
-,	
-no	SYNE DET
-shrinkage	NN
-effects	NN
-.	
-Thus	RB CONJ CAP
-,	
-although	CONC PIN SCONJ PREP
-the	ART DET
-inevitable	JJ
-existence	NN
-of	PIN PREP
-initial	JJ
-prestress	NN
-loss	NN
-,	
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-controlled	
-using	PGAS
-an	ART DET INDA
-adequate	JJ
-type	NN
-of	PIN PREP
-concrete	NN
-(	
-preferably	RB
-,	
-a	ART DET INDA
-high	JJ
-strength	NN
-one	NUM
-)	
-.	
-  	
-The	ART CAP DET
-Preflex	CAP NNP
-beam	NN
-,	
-as	PIN CONJ PREP
-seen	PRIV
-,	
-is	BEMA VPRT AUXB
-an	ART DET INDA
-interesting	JJ
-and	PHC CCONJ
-challenging	JJ
-type	NN
-of	PIN PREP
-structural	JJ
-element	NOMZ
-.	
-The	ART CAP DET
-lack	NN
-of	PIN PREP
-research	NN
-employing	WZPRES PGAS
-its	PIT PRP SBJP
-prestress	NN
-technique	NN
-using	WZPRES PGAS
-rectangular	JJ
-tubular	JJ
-steel	NN
-section	NOMZ
-filled	WZPAST
-with	PIN PREP
-concrete	NN
-,	
-associated	PASTP
-with	PIN PREP
-the	ART DET
-several	QUAN JJ
-advantages	NN
-that	TOBJ WHOBJ WH
-it	PIT PRP SBJP
-presents	VPRT
-over	PIN PREP
-other	JJ
-types	NN
-beams	NN
-,	
-encourage	INF
-further	JJ
-studies	NN
-on	PIN PREP
-this	DEMO DET
-subject	NN
-,	
-becoming	PGAS
-part	NN
-of	PIN PREP
-a	ART DET INDA
-research	NN
-line	NN
-that	TSUB WHSUB WH
-has	VPRT
-being	AUXB
-developing	GER PGAS
-at	PIN PREP
-the	ART DET
-Structural	CAP NNP
-Engineering	CAP NNP
-Department	CAP NNP
-of	PIN PREP
-Federal	CAP NNP
-University	CAP NNP
-of	PIN PREP
-Minas	CAP NNP
-Gerais	CAP NNP
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2490.1330>\n\n<Preflex Beam: using the DYWIDAG system on experimental tests>\n\n\t	
+word	At	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beginning	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fifty	NUM
+gap	 	
+word	decade	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Belgian	JJ CAP
+gap	 	
+word	engineer	NN
+gap	 	
+word	Abraham	CAP NNP
+gap	 	
+word	Lipski	CAP NNP
+gap	, 	
+word	assisted	PASTP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	professor	NN
+gap	 	
+word	Louis	CAP NNP
+gap	 	
+word	Baes	CAP NNP
+gap	, 	
+word	developed	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	composite	JJ
+gap	 	
+word	beam	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	innovative	JJ
+gap	 	
+word	prestressing	GER
+gap	 	
+word	method	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	received	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	commercial	JJ
+gap	 	
+word	name	NN
+gap	 “	
+word	PREFLEX	CAP NNP
+gap	” 	
+word	beam	NN
+gap	 (	
+word	ESPION	NN CAP
+gap	, 2011). 	
+word	A	ART CAP DET INDA
+gap	 	
+word	Preflex	CAP NNP
+gap	 	
+word	beam	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	composed	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	precambered	
+gap	 	
+word	I	FPP1 NN CAP
+gap	-	
+word	shaped	
+gap	 	
+word	steel	NN
+gap	 	
+word	girder	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bottom	JJ
+gap	 	
+word	flange	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	precast	JJ
+gap	 	
+word	prestressed	
+gap	 	
+word	concrete	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	encompasses	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	steel	NN
+gap	 	
+word	girder	NN
+gap	 	
+word	bottom	NN
+gap	 	
+word	flange	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	construction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Preflex	CAP NNP
+gap	 	
+word	beam	NN
+gap	 	
+word	involves	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	sequential	JJ
+gap	 	
+word	steps	NN
+gap	, 	
+word	illustrated	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Figure	CAP NNP
+gap	 1 	
+word	and	CCONJ
+gap	 	
+word	described	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	following	PGAS
+gap	: (	
+word	a	X
+gap	) 	
+word	firstly	RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	precambered	
+gap	 	
+word	I	FPP1 NN CAP
+gap	-	
+word	shaped	
+gap	 	
+word	steel	NN
+gap	 	
+word	girder	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	placed	
+gap	 	
+word	above	PIN PLACE PREP
+gap	 	
+word	end	NN
+gap	 	
+word	supports	NN
+gap	; (	
+word	b	X
+gap	) 	
+word	two	NUM
+gap	 	
+word	concentrated	JJ
+gap	 	
+word	vertical	JJ
+gap	 	
+word	loads	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	applied	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	quarters	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	girder	NN
+gap	 	
+word	span	NN
+gap	, 	
+word	submitting	GER PUBV PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	steel	NN
+gap	 	
+word	bottom	NN
+gap	 	
+word	flange	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	tensile	JJ
+gap	 	
+word	stresses	NN
+gap	; (	
+word	c	NN
+gap	) 	
+word	the	ART DET
+gap	 	
+word	steel	NN
+gap	 	
+word	girder	NN
+gap	 	
+word	bottom	NN
+gap	 	
+word	flange	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	encased	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	concrete	NN
+gap	 (	
+word	the	ART DET
+gap	 	
+word	loads	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	sustained	
+gap	 	
+word	until	PIN PREP
+gap	 	
+word	concrete	JJ
+gap	 	
+word	hardens	NN
+gap	); (	
+word	d	X
+gap	) 	
+word	when	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	concrete	JJ
+gap	 	
+word	flange	NN
+gap	 	
+word	reaches	VPRT
+gap	 	
+word	sufficient	JJ
+gap	 	
+word	strength	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	generally	RB
+gap	 	
+word	occurs	VPRT
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	seven	NUM
+gap	 	
+word	days	NN
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	cast	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	concentrated	JJ
+gap	 	
+word	loads	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	removed	
+gap	; (	
+word	e	X
+gap	) 	
+word	finally	RB
+gap	, 	
+word	the	ART DET
+gap	 	
+word	remaining	PGAS
+gap	 	
+word	exposed	
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	steel	NN
+gap	 	
+word	girder	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	covered	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	second	JJ
+gap	 	
+word	cast	NN
+gap	 	
+word	phase	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	concrete	NN
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	step	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	mandatory	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	construction	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Preflex	CAP NNP
+gap	 	
+word	beam	NN
+gap	 (	
+word	steps	NN
+gap	 “	
+word	a	X
+gap	” 	
+word	to	PIN STPR PREP
+gap	 “	
+word	d	NNP
+gap	”).\n<Figure 1>\n\n\t	
+word	Some	QUAN CAP DET
+gap	 	
+word	important	JJ
+gap	 	
+word	details	NN
+gap	 	
+word	related	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	construction	NOMZ
+gap	 	
+word	procedure	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	quoted	
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	first	JJ
+gap	 	
+word	one	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	maximum	JJ
+gap	 	
+word	stresses	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	beam	NN
+gap	 	
+word	cross	NN
+gap	-	
+word	section	NOMZ
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	concentrated	JJ
+gap	 	
+word	loads	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	step	NN
+gap	 “	
+word	b	NN
+gap	” 	
+word	cannot	
+gap	 	
+word	exceed	
+gap	 	
+word	the	
+gap	 	
+word	material	
+gap	 	
+word	elastic	
+gap	 	
+word	range	
+gap	 (	
+word	it	
+gap	 	
+word	corresponds	
+gap	 	
+word	to	
+gap	, 	
+word	approximately	
+gap	, 80% 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	steel	
+gap	 	
+word	yield	
+gap	 	
+word	strength	
+gap	, 	
+word	fy	
+gap	). 	
+word	Secondly	
+gap	, 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	loads	
+gap	’ 	
+word	removal	
+gap	 	
+word	at	
+gap	 	
+word	step	
+gap	 “	
+word	d	
+gap	”, 	
+word	the	
+gap	 	
+word	beam	
+gap	 	
+word	tends	
+gap	 	
+word	to	
+gap	 	
+word	assume	
+gap	 	
+word	its	
+gap	 	
+word	original	
+gap	 	
+word	configuration	
+gap	 (	
+word	step	
+gap	 “	
+word	a	
+gap	”), 	
+word	but	
+gap	 	
+word	the	
+gap	 	
+word	presence	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	hardened	
+gap	 	
+word	concrete	
+gap	 	
+word	bottom	
+gap	 	
+word	flange	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	allow	
+gap	 	
+word	it	
+gap	 	
+word	entirely	
+gap	.  	
+word	As	
+gap	 	
+word	a	
+gap	 	
+word	result	
+gap	, 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	tensile	
+gap	 	
+word	stresses	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	previous	
+gap	 	
+word	deformation	
+gap	 	
+word	of	
+gap	 	
+word	steel	
+gap	 	
+word	bottom	
+gap	 	
+word	flange	
+gap	 	
+word	is	
+gap	 	
+word	transferred	
+gap	 	
+word	by	
+gap	 	
+word	friction	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	concrete	
+gap	 	
+word	flange	
+gap	 (	
+word	prestressing	
+gap	) – 	
+word	this	
+gap	 	
+word	explains	
+gap	 	
+word	the	
+gap	 	
+word	minimum	
+gap	 	
+word	compressive	
+gap	 	
+word	strength	
+gap	 	
+word	requirement	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	concrete	
+gap	 	
+word	material	
+gap	 	
+word	at	
+gap	 	
+word	this	
+gap	 	
+word	stage	
+gap	. 	
+word	Lastly	
+gap	, 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	construction	
+gap	 	
+word	procedure	
+gap	 	
+word	demands	
+gap	 	
+word	the	
+gap	 	
+word	maintenance	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	concentrated	
+gap	 	
+word	loads	
+gap	 	
+word	for	
+gap	 	
+word	a	
+gap	 	
+word	few	
+gap	 	
+word	days	
+gap	, 	
+word	a	
+gap	 	
+word	DYWIDAG	
+gap	 	
+word	system	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	employed	
+gap	 	
+word	to	
+gap	 	
+word	achieve	
+gap	 	
+word	it	
+gap	.\n\t	
+word	According	
+gap	 	
+word	to	
+gap	 	
+word	Staquet	
+gap	 	
+word	et	
+gap	 	
+word	al	
+gap	. (2004), 	
+word	among	
+gap	 	
+word	the	
+gap	 	
+word	technical	
+gap	 	
+word	advantages	
+gap	 	
+word	that	
+gap	 	
+word	distinguish	
+gap	 	
+word	the	
+gap	 	
+word	Preflex	
+gap	 	
+word	beam	
+gap	 	
+word	of	
+gap	 	
+word	other	
+gap	 	
+word	beam	
+gap	 	
+word	types	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	depth	
+gap	, 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	highlighted	
+gap	 	
+word	its	
+gap	 	
+word	greater	
+gap	 	
+word	stiffness	
+gap	 	
+word	and	
+gap	, 	
+word	consequently	
+gap	, 	
+word	the	
+gap	 	
+word	increase	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	structure	
+gap	 	
+word	natural	
+gap	 	
+word	frequency	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	especially	
+gap	 	
+word	desirable	
+gap	 	
+word	in	
+gap	 	
+word	constructions	
+gap	 	
+word	subjected	
+gap	 	
+word	to	
+gap	 	
+word	loads	
+gap	 	
+word	that	
+gap	 	
+word	would	
+gap	 	
+word	be	
+gap	 	
+word	capable	
+gap	 	
+word	to	
+gap	 	
+word	excite	
+gap	 	
+word	the	
+gap	 	
+word	structure	
+gap	 	
+word	and	
+gap	 	
+word	generate	
+gap	 	
+word	resonance	
+gap	 	
+word	problems	
+gap	 (	
+word	when	
+gap	 	
+word	the	
+gap	 	
+word	loads	
+gap	 	
+word	that	
+gap	 	
+word	act	
+gap	 	
+word	on	
+gap	 	
+word	a	
+gap	 	
+word	structure	
+gap	 	
+word	promote	
+gap	 	
+word	a	
+gap	 	
+word	frequency	
+gap	 	
+word	equal	
+gap	 	
+word	or	
+gap	 	
+word	close	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	natural	
+gap	 	
+word	frequency	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	structure	
+gap	, 	
+word	it	
+gap	 	
+word	has	
+gap	 	
+word	higher	
+gap	 	
+word	deflexions	
+gap	 	
+word	and	
+gap	 	
+word	motion	
+gap	 	
+word	amplitudes	
+gap	, 	
+word	leading	
+gap	 	
+word	to	
+gap	 	
+word	excessive	
+gap	, 	
+word	uncomfortable	
+gap	 	
+word	and	
+gap	 	
+word	noticeable	
+gap	 	
+word	vibrations	
+gap	 	
+word	or	
+gap	 	
+word	even	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	structural	
+gap	 	
+word	collapse	
+gap	). 	
+word	Furthermore	
+gap	, 	
+word	a	
+gap	 	
+word	Preflex	
+gap	 	
+word	beam	
+gap	 	
+word	has	
+gap	 	
+word	good	
+gap	 	
+word	fatigue	
+gap	 	
+word	and	
+gap	 	
+word	fire	
+gap	 	
+word	resistance	
+gap	, 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	employed	
+gap	 	
+word	with	
+gap	 	
+word	span	
+gap	-	
+word	to	
+gap	-	
+word	depth	
+gap	 	
+word	ratio	
+gap	 	
+word	values	
+gap	 	
+word	up	
+gap	 	
+word	to	
+gap	 45 (	
+word	MANNINI	
+gap	, 2002) – 	
+word	usually	
+gap	, 	
+word	this	
+gap	 	
+word	ratio	
+gap	 	
+word	value	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	exceed	
+gap	 25 	
+word	for	
+gap	 	
+word	standard	
+gap	 	
+word	composite	
+gap	 	
+word	structures	
+gap	.\n\t	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	motivation	
+gap	 	
+word	in	
+gap	 	
+word	enabling	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	rectangular	
+gap	 	
+word	tubular	
+gap	 	
+word	section	
+gap	 	
+word	as	
+gap	 	
+word	beam	
+gap	 	
+word	elements	
+gap	, 	
+word	however	
+gap	 	
+word	their	
+gap	 	
+word	use	
+gap	 	
+word	is	
+gap	 	
+word	restricted	
+gap	 	
+word	to	
+gap	 	
+word	small	
+gap	 	
+word	spans	
+gap	 	
+word	due	
+gap	 	
+word	to	
+gap	 	
+word	limitations	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	their	
+gap	 	
+word	height	
+gap	. 	
+word	Front	
+gap	 	
+word	of	
+gap	 	
+word	what	
+gap	 	
+word	was	
+gap	 	
+word	previously	
+gap	 	
+word	exposed	
+gap	 	
+word	and	
+gap	 	
+word	observing	
+gap	 	
+word	the	
+gap	 	
+word	technical	
+gap	 	
+word	advantages	
+gap	 	
+word	presented	
+gap	 	
+word	for	
+gap	 	
+word	Preflex	
+gap	 	
+word	beams	
+gap	 	
+word	consisted	
+gap	 	
+word	of	
+gap	 	
+word	I	
+gap	-	
+word	section	
+gap	 	
+word	steel	
+gap	 	
+word	profiles	
+gap	, 	
+word	comes	
+gap	 	
+word	up	
+gap	 	
+word	the	
+gap	 	
+word	idea	
+gap	 	
+word	of	
+gap	 	
+word	evaluating	
+gap	 	
+word	this	
+gap	 	
+word	prestressing	
+gap	 	
+word	methodology	
+gap	 	
+word	in	
+gap	 	
+word	composite	
+gap	 	
+word	beams	
+gap	 	
+word	consisted	
+gap	 	
+word	of	
+gap	 	
+word	rectangular	
+gap	 	
+word	tubular	
+gap	 	
+word	steel	
+gap	 	
+word	profile	
+gap	 	
+word	filled	
+gap	 	
+word	with	
+gap	 	
+word	concrete	
+gap	.\n\t	
+word	On	
+gap	 	
+word	the	
+gap	 	
+word	experimental	
+gap	 	
+word	program	
+gap	 	
+word	that	
+gap	 	
+word	will	
+gap	 	
+word	investigate	
+gap	 	
+word	the	
+gap	 	
+word	behaviour	
+gap	 	
+word	of	
+gap	 	
+word	prestressed	
+gap	 	
+word	composite	
+gap	 	
+word	beams	
+gap	 	
+word	composed	
+gap	 	
+word	by	
+gap	 	
+word	rectangular	
+gap	 	
+word	tubular	
+gap	 	
+word	steel	
+gap	 	
+word	profiles	
+gap	 	
+word	filled	
+gap	 	
+word	with	
+gap	 	
+word	concrete	
+gap	, 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	challenges	
+gap	 	
+word	is	
+gap	 	
+word	to	
+gap	 	
+word	sustain	
+gap	 	
+word	the	
+gap	 	
+word	applied	
+gap	 	
+word	loads	
+gap	 	
+word	until	
+gap	 	
+word	concrete	
+gap	 	
+word	hardens	
+gap	 (5 	
+word	to	
+gap	 7 	
+word	days	
+gap	), 	
+word	which	
+gap	 	
+word	comprises	
+gap	 	
+word	steps	
+gap	 “	
+word	b	
+gap	” 	
+word	and	
+gap	 “	
+word	c	
+gap	” 	
+word	cited	
+gap	 	
+word	earlier	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	use	
+gap	 	
+word	the	
+gap	 	
+word	equipment	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	Laboratory	
+gap	 (	
+word	LAEES	
+gap	 – 	
+word	Laboratorio	
+gap	 	
+word	de	
+gap	 	
+word	Analise	
+gap	 	
+word	Experimental	
+gap	 	
+word	de	
+gap	 	
+word	Estruturas	
+gap	) 	
+word	that	
+gap	 	
+word	is	
+gap	 	
+word	generally	
+gap	 	
+word	employed	
+gap	 	
+word	to	
+gap	 	
+word	apply	
+gap	 	
+word	forces	
+gap	 (	
+word	MTS	
+gap	 	
+word	actuator	
+gap	), 	
+word	since	
+gap	 	
+word	it	
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	kept	
+gap	 	
+word	on	
+gap	 	
+word	during	
+gap	 	
+word	all	
+gap	 	
+word	these	
+gap	 	
+word	seven	
+gap	 	
+word	days	
+gap	. 	
+word	To	
+gap	 	
+word	get	
+gap	 	
+word	around	
+gap	 	
+word	this	
+gap	 	
+word	issue	
+gap	, 	
+word	a	
+gap	 	
+word	DYWIDAG	
+gap	 	
+word	system	
+gap	 	
+word	is	
+gap	 	
+word	utilized	
+gap	, 	
+word	as	
+gap	 	
+word	showed	
+gap	 	
+word	in	
+gap	 	
+word	Figure	
+gap	 2 (	
+word	prototype	
+gap	 	
+word	lateral	
+gap	 	
+word	view	
+gap	). 	
+word	Two	
+gap	 	
+word	cross	
+gap	 	
+word	beams	
+gap	 	
+word	are	
+gap	 	
+word	placed	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	top	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	tubular	
+gap	 	
+word	steel	
+gap	 	
+word	beam	
+gap	, 	
+word	where	
+gap	 	
+word	the	
+gap	 	
+word	two	
+gap	 	
+word	concentrated	
+gap	 	
+word	vertical	
+gap	 	
+word	loads	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	indirectly	
+gap	 	
+word	applied	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	quarters	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	span	
+gap	. 	
+word	At	
+gap	 	
+word	each	
+gap	 	
+word	end	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	cross	
+gap	 	
+word	beams	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	DYWIDAG	
+gap	 	
+word	steel	
+gap	 	
+word	bar	
+gap	 	
+word	that	
+gap	 	
+word	passes	
+gap	 	
+word	through	
+gap	 	
+word	the	
+gap	 	
+word	exiting	
+gap	 	
+word	holes	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	laboratory	
+gap	 	
+word	concrete	
+gap	 	
+word	slab	
+gap	. 	
+word	These	
+gap	 	
+word	four	
+gap	 	
+word	bars	
+gap	 	
+word	are	
+gap	 	
+word	pretensioned	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	lower	
+gap	 	
+word	ending	
+gap	 	
+word	using	
+gap	 	
+word	hydraulic	
+gap	 	
+word	jacks	
+gap	 	
+word	until	
+gap	 	
+word	the	
+gap	 	
+word	tubular	
+gap	 	
+word	steel	
+gap	 	
+word	beam	
+gap	 	
+word	reaches	
+gap	 	
+word	the	
+gap	 	
+word	deformation	
+gap	 	
+word	that	
+gap	 	
+word	would	
+gap	 	
+word	occur	
+gap	 	
+word	if	
+gap	 	
+word	it	
+gap	 	
+word	was	
+gap	 	
+word	directly	
+gap	 	
+word	subjected	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	bending	
+gap	 	
+word	loads	
+gap	. 	
+word	The	
+gap	 	
+word	proposed	
+gap	 	
+word	designed	
+gap	 	
+word	system	
+gap	 	
+word	is	
+gap	 	
+word	very	
+gap	 	
+word	interesting	
+gap	 	
+word	as	
+gap	 	
+word	it	
+gap	 	
+word	allows	
+gap	 	
+word	a	
+gap	 	
+word	safe	
+gap	, 	
+word	economical	
+gap	 	
+word	and	
+gap	 	
+word	reliable	
+gap	 	
+word	form	
+gap	 	
+word	to	
+gap	 	
+word	achieve	
+gap	 	
+word	the	
+gap	 	
+word	necessary	
+gap	 	
+word	step	
+gap	. 	
+word	Moreover	
+gap	, 	
+word	this	
+gap	 	
+word	system	
+gap	 	
+word	admits	
+gap	 	
+word	that	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 	
+word	one	
+gap	 	
+word	prototype	
+gap	 	
+word	be	
+gap	 	
+word	produced	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	time	
+gap	, 	
+word	since	
+gap	 	
+word	both	
+gap	 	
+word	material	
+gap	 	
+word	and	
+gap	 	
+word	diameter	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	DYWIDAG	
+gap	 	
+word	bars	
+gap	 	
+word	have	
+gap	 	
+word	enough	
+gap	 	
+word	resistance	
+gap	 	
+word	to	
+gap	 	
+word	support	
+gap	 	
+word	more	
+gap	 	
+word	than	
+gap	 	
+word	four	
+gap	 	
+word	times	
+gap	 	
+word	the	
+gap	 	
+word	bending	
+gap	 	
+word	loads	
+gap	.\n<Figure 2>\n\n\t	
+word	Another	
+gap	 	
+word	challenge	
+gap	 	
+word	to	
+gap	 	
+word	be	
+gap	 	
+word	faced	
+gap	 	
+word	during	
+gap	 	
+word	the	
+gap	 	
+word	research	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	prestress	
+gap	 	
+word	loss	
+gap	. 	
+word	Concrete	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	material	
+gap	 	
+word	that	
+gap	 	
+word	has	
+gap	 	
+word	time	
+gap	-	
+word	dependent	
+gap	 	
+word	deformations	
+gap	, 	
+word	named	
+gap	 	
+word	as	
+gap	 	
+word	creep	
+gap	 	
+word	and	
+gap	 	
+word	shrinkage	
+gap	 	
+word	effects	
+gap	. 	
+word	All	
+gap	 	
+word	studies	
+gap	 	
+word	involving	
+gap	 	
+word	Preflex	
+gap	 	
+word	beams	
+gap	 	
+word	pointed	
+gap	 	
+word	that	
+gap	 	
+word	these	
+gap	 	
+word	two	
+gap	 	
+word	effects	
+gap	 	
+word	minimize	
+gap	, 	
+word	with	
+gap	 	
+word	time	
+gap	, 	
+word	the	
+gap	 	
+word	initial	
+gap	 	
+word	prestress	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	concrete	
+gap	 	
+word	and	
+gap	 	
+word	this	
+gap	 	
+word	loss	
+gap	 	
+word	impacts	
+gap	 	
+word	negatively	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	service	
+gap	 	
+word	load	
+gap	 	
+word	capacity	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	beam	
+gap	. 	
+word	One	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	main	
+gap	 	
+word	manners	
+gap	 	
+word	to	
+gap	 	
+word	make	
+gap	 	
+word	the	
+gap	 	
+word	loss	
+gap	 	
+word	as	
+gap	 	
+word	small	
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	possible	
+gap	 	
+word	is	
+gap	 	
+word	keeping	
+gap	 	
+word	the	
+gap	 	
+word	compressive	
+gap	 	
+word	prestress	
+gap	 	
+word	between	
+gap	 40% 	
+word	and	
+gap	 60% 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	concrete	
+gap	 	
+word	strength	
+gap	 	
+word	achieved	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	day	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	load	
+gap	 	
+word	release	
+gap	 – 	
+word	this	
+gap	 	
+word	diminishes	
+gap	 	
+word	creep	
+gap	 	
+word	effects	
+gap	. 	
+word	The	
+gap	 	
+word	other	
+gap	 	
+word	one	
+gap	 	
+word	naturally	
+gap	 	
+word	occurs	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	case	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	Preflex	
+gap	 	
+word	beam	
+gap	 	
+word	constituted	
+gap	 	
+word	by	
+gap	 	
+word	a	
+gap	 	
+word	steel	
+gap	 	
+word	tube	
+gap	 	
+word	profile	
+gap	, 	
+word	as	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	no	
+gap	 	
+word	concrete	
+gap	 	
+word	water	
+gap	 	
+word	loss	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	environment	
+gap	 (	
+word	the	ART DET
+gap	 	
+word	steel	
+gap	 	
+word	tube	
+gap	 	
+word	protects	
+gap	 	
+word	the	
+gap	 	
+word	concrete	
+gap	 	
+word	core	
+gap	) 	
+word	and	
+gap	, 	
+word	consequently	
+gap	, 	
+word	no	
+gap	 	
+word	shrinkage	
+gap	 	
+word	effects	
+gap	. 	
+word	Thus	
+gap	, 	
+word	although	
+gap	 	
+word	the	
+gap	 	
+word	inevitable	
+gap	 	
+word	existence	
+gap	 	
+word	of	
+gap	 	
+word	initial	
+gap	 	
+word	prestress	
+gap	 	
+word	loss	
+gap	, 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	controlled	
+gap	 	
+word	using	
+gap	 	
+word	an	
+gap	 	
+word	adequate	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	concrete	
+gap	 (	
+word	preferably	
+gap	, 	
+word	a	
+gap	 	
+word	high	
+gap	 	
+word	strength	
+gap	 	
+word	one	
+gap	).\n\t	
+word	The	
+gap	 	
+word	Preflex	
+gap	 	
+word	beam	
+gap	, 	
+word	as	
+gap	 	
+word	seen	
+gap	, 	
+word	is	
+gap	 	
+word	an	
+gap	 	
+word	interesting	
+gap	 	
+word	and	
+gap	 	
+word	challenging	
+gap	 	
+word	type	
+gap	 	
+word	of	
+gap	 	
+word	structural	
+gap	 	
+word	element	
+gap	. 	
+word	The	
+gap	 	
+word	lack	
+gap	 	
+word	of	
+gap	 	
+word	research	
+gap	 	
+word	employing	
+gap	 	
+word	its	
+gap	 	
+word	prestress	
+gap	 	
+word	technique	
+gap	 	
+word	using	
+gap	 	
+word	rectangular	
+gap	 	
+word	tubular	
+gap	 	
+word	steel	
+gap	 	
+word	section	
+gap	 	
+word	filled	
+gap	 	
+word	with	
+gap	 	
+word	concrete	
+gap	, 	
+word	associated	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	several	
+gap	 	
+word	advantages	
+gap	 	
+word	that	
+gap	 	
+word	it	
+gap	 	
+word	presents	
+gap	 	
+word	over	
+gap	 	
+word	other	
+gap	 	
+word	types	
+gap	 	
+word	beams	
+gap	, 	
+word	encourage	
+gap	 	
+word	further	
+gap	 	
+word	studies	
+gap	 	
+word	on	
+gap	 	
+word	this	
+gap	 	
+word	subject	
+gap	, 	
+word	becoming	
+gap	 	
+word	part	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	research	
+gap	 	
+word	line	
+gap	 	
+word	that	
+gap	 	
+word	has	
+gap	 	
+word	being	
+gap	 	
+word	developing	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	Structural	
+gap	 	
+word	Engineering	
+gap	 	
+word	Department	
+gap	 	
+word	of	
+gap	 	
+word	Federal	
+gap	 	
+word	University	
+gap	 	
+word	of	
+gap	 	
+word	Minas	
+gap	 	
+word	Gerais	
+gap	.\n<Bibliography references>	

@@ -1,599 +1,1005 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2471.1317.txt
-token	tags
-     	
-A	ART CAP DET INDA
-considerable	JJ
-number	NN
-of	PIN PREP
-orofacial	JJ
-diseases	NN
-and	PHC CCONJ
-conditions	NOMZ
-,	
-like	PIN PREP
-dental	JJ
-caries	NN
-,	
-fractures	NN
-,	
-root	NN
-canal	NN
-treatment	NOMZ
-,	
-and	ANDC CCONJ
-wisdom	NN
-tooth	NN
-surgeries	NN
-may	POMD
-be	PASS AUXB INF
-associated	
-with	PIN PREP
-pain	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-scenario	NN
-,	
-outpatients	NN
-generally	RB
-associate	VPRT
-dental	JJ
-treatment	NOMZ
-as	PIN CONJ PREP
-painful	JJ
-and	CCONJ
-,	
-then	RB
-procrastinate	INF
-specialized	JJ
-service	NN
-attendance	NN
-what	WHSUB WH
-can	POMD
-lead	INF
-to	PIN PREP
-serious	JJ
-health	NN
-complications	NOMZ
-.	
-To	PIN TO CAP PREP
-reduce	INF
-pain	NN
-experience	NN
-,	
-dental	JJ
-practitioners	NN
-should	NEMD
-be	BEMA AUXB INF
-aware	JJ PRED
-of	PIN PREP
-the	ART DET
-pharmacology	NN
-and	CCONJ
-the	ART DET
-prescription	NOMZ
-indications	NOMZ
-of	PIN PREP
-analgesics	NN
-,	
-anti	NN
--	NN
-inflammatories	NN
-,	
-and	ANDC CCONJ
-opioids	NN
-.	
-This	DEMO CAP DET
-essay	NN
-aims	VPRT
-to	PIN TO PREP
-present	INF
-and	PHC CCONJ
-discuss	INF
-the	ART DET
-rationale	NN
-of	PIN PREP
-dental	JJ
-prescription	NOMZ
-patterns	NN
-of	PIN PREP
-pain	NN
-killers	NNP
-.	
-  	
-Analgesic	JJ CAP
-medications	NOMZ
-,	
-as	PIN CONJ PREP
-metamizole	NN
-,	
-acetaminophen	RB
-,	
-and	ANDC CCONJ
-acetylsalicylic	JJ
-acid	NN
-,	
-are	BEMA VPRT AUXB
-among	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-prescribed	JJ
-and	CCONJ
-consumed	
-drugs	NN
-in	PIN CONJ PREP
-Brazil	CAP NNP
-.	
-The	ART CAP DET
-vast	JJ
-consumption	NOMZ
-of	PIN PREP
-these	DEMO DET
-drugs	NN
-is	PASS VPRT BYPA AUXB
-explained	PUBV
-by	PIN PREP
-their	TPP3 PRP SBJP
-efficacy	NN
-,	
-low	JJ
-adverse	JJ
-effects	NN
-and	CCONJ
-also	RB
-because	CAUS PIN SCONJ PREP
-they	TPP3 PRP SBJP
-are	BEMA VPRT AUXB
-available	JJ PRED
-over	PIN PREP
-the	ART DET
-counter-	NN
-this	DEMP DET
-means	VPRT PRIV
-a	ART DET INDA
-person	NN
-does	VPRT SPAU
-not	XX0 RB
-need	INF
-a	ART DET INDA
-receipt	NN
-to	PIN TO PREP
-buy	INF
-formulas	NN
-with	PIN PREP
-the	ART DET
-main	JJ
-active	JJ
-product	NN
-.	
-Dental	JJ CAP
-prescriptions	NOMZ
-of	PIN PREP
-analgesics	NN
-are	VPRT AUXB
-increasing	GER PGAS
-over	PIN PREP
-the	ART DET
-years	NN
-,	
-which	SERE DET WH
-means	VPRT PRIV
-,	
-dentists	NN
-are	BEMA VPRT AUXB
-sensitive	JJ PRED
-to	PIN PREP
-their	TPP3 PRP SBJP
-patients	NN
-.	
-However	RB CONJ CAP
-,	
-despite	PIN SCONJ PREP
-all	QUAN DET
-the	ART DET
-benefits	NN
-,	
-analgesics	NN
-work	VPRT
-non	RB
-selectively	RB
-inhibiting	GER PGAS
-cyclooxygenase	NN
-(	
-COX	CAP NNP
-)	
-enzymes	VPRT
-only	DWNT RB
-in	PIN CONJ PREP
-the	ART DET
-supraspinal	JJ
-cord	NN
-producing	WZPRES PGAS
-moderate	JJ
-pain	NN
-relief	NN
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-matter	NN
-,	
-dental	JJ
-procedures	NN
-that	TSUB WHSUB WH
-may	POMD
-cause	INF
-higher	JJ CMADJ
-pain	NN
-rates	NN
-must	NEMD
-demand	SUAV INF
-the	ART DET
-association	NOMZ
-or	CCONJ
-the	ART DET
-prescription	NOMZ
-of	PIN PREP
-other	JJ
-drugs	NN
-,	
-for	PIN PREP
-instance	NN
-,	
-anti	JJ
--	NN
-inflammatories	NN
-.	
-  	
-Non	JJ CAP
--	JJ
-steroidal	JJ
-anti	JJ
--	JJ
-inflammatory	JJ
-drugs	NN
-(	
-NSAIDs	NN CAP
-)	
-are	BEMA VPRT AUXB
-the	ART DET
-golden	JJ
-standard	NN
-to	PIN TO PREP
-control	INF
-dental	JJ
-pain	NN
-.	
-This	DEMP CAP DET
-is	PASS VPRT AUXB
-explained	PUBV
-,	
-first	RB
-because	CAUS PIN SCONJ PREP
-the	ART DET
-majority	NOMZ
-of	PIN PREP
-invasive	JJ
-oral	JJ
-procedures	NN
-induce	VPRT
-an	ART DET INDA
-inflammatory	JJ
-response	NN
-and	CCONJ
-second	JJ
-,	
-NSAIDs	NN CAP
-have	VPRT
-plenty	NN
-of	PIN PREP
-evidence	NN
-about	PIN PREP
-their	TPP3 PRP SBJP
-security	NOMZ
-and	PHC CCONJ
-efficacy	NN
-.	
-Despite	PIN CAP SCONJ PREP
-the	ART DET
-mentioned	PUBV
-,	
-ibuprofen	NN
-,	
-diclofenac	NN
-,	
-nimesulide	JJ
-among	PIN PREP
-others	NN
-,	
-are	BEMA VPRT AUXB
-low	JJ
-price	NN
-drugs	NN
-what	WHSUB WH
-play	VPRT
-an	ART DET INDA
-important	JJ
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-society	NN
-,	
-especially	RB
-in	PIN CONJ PREP
-Brazil	CAP NNP
-;	
-a	ART DET INDA
-country	NN
-full	JJ
-of	PIN PREP
-inequalities	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-the	ART DET
-public	JJ
-health	NN
-system	NN
-can	POMD SPAU
-not	XX0 RB
-secure	INF
-the	ART DET
-whole	JJ
-population	NOMZ
-and	CCONJ
-the	ART DET
-income	NN
-of	PIN PREP
-most	JJ EMPH SPADJ
-of	PIN PREP
-the	ART DET
-families	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-barrier	NN
-to	PIN PREP
-drug	NN
-access1	NNP
-.	
- 	
-The	ART CAP DET
-success	NN
-of	PIN PREP
-NSAIDS	CAP NNP
-also	RB
-relies	VPRT
-on	PIN PREP
-the	ART DET
-fact	NN
-that	PIN TOBJ SCONJ PREP
-one	NUM
-drug	NN
-controls	VPRT
-all	QUAN DET
-the	ART DET
-cardinal	JJ
-symptoms	NN
-of	PIN PREP
-inflammation-	JJ
-redness	NOMZ
-,	
-swelling	NN
-,	
-heat	NN
-,	
-pain	NN
-,	
-and	ANDC CCONJ
-loss	NN
-of	PIN PREP
-function	NOMZ
-.	
- 	
-A	ART CAP DET INDA
-research	NN
-conducted	WZPAST
-in	PIN CONJ PREP
-Australia	CAP NNP
-from	PIN PREP
-2001	NUM
-to	PIN PREP
-2012	NUM
-demonstrated	VBD PRIV
-the	ART DET
-overall	JJ
-increase	NN
-in	PIN CONJ PREP
-the	ART DET
-dental	JJ
-prescriptions	NOMZ
-of	PIN PREP
-these	DEMO DET
-drugs	NN
-by	PIN PREP
-32	NUM
-%	NN
-,	
-being	AUXB
-ibuprofen	NN
-corresponding	GER WZPRES PGAS
-to	PIN PREP
-68	NUM
-%	NN
-of	PIN PREP
-all	QUAN DET
-prescriptions	NOMZ
-.	
-Several	QUAN JJ CAP
-clinical	JJ
-trials	NN
-demonstrated	VBD PRIV
-that	PIN THVC SCONJ PREP
-NSAIDs	NN CAP
-are	BEMA VPRT AUXB
-the	ART DET
-first	JJ
-basis	NN
-treatment	NOMZ
-choice	NN
-to	PIN TO PREP
-manage	INF
-dental	JJ
-pain	NN
-,	
-however	RB CONJ
-,	
-outpatients	NN
-with	PIN PREP
-low	JJ
-pain	NN
-threshold	NN
-must	NEMD
-demand	SUAV INF
-the	ART DET
-disposal	NN
-of	PIN PREP
-opioids	NN
-.	
-  	
-Morphine	CAP NNP
-,	
-codeine	NN
-,	
-oxycodone	NN
-,	
-and	ANDC CCONJ
-fentanyl	JJ
-are	VPRT AUXB
-kinds	NN
-of	PIN PREP
-opioids	NN
-that	TSUB WHSUB WH
-act	VPRT
-in	PIN CONJ PREP
-the	ART DET
-Central	CAP NNP
-Nervous	CAP NNP
-System	CAP NNP
-(	
-CNS	CAP NNP
-)	
-used	VBD
-to	PIN TO PREP
-manage	INF
-mild	JJ
-to	PIN PREP
-severe	JJ
-pain	NN
-.	
-Opioids	NN CAP
-have	VPRT PEAS
-been	PASS AUXB
-used	
-for	PIN PREP
-thousands	NN
-of	PIN PREP
-years	NN
-in	PIN CONJ PREP
-the	ART DET
-treatment	NOMZ
-of	PIN PREP
-pain	NN
-;	
-registers	NN
-from	PIN PREP
-ancient	JJ
-Egypt	CAP NNP
-evidence	NN
-that	DEMP DET
-.	
- 	
-In	PIN CONJ CAP PREP
-Brazil	CAP NNP
-,	
-opioid	JJ
-use	NN
-has	VPRT PEAS
-increased	
-in	PIN CONJ PREP
-dental	JJ
-practice	NN
-in	PIN CONJ PREP
-the	ART DET
-last	JJ
-few	QUAN JJ
-decades	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-consumption	NOMZ
-rates	NN
-of	PIN PREP
-these	DEMO DET
-drugs	NN
-are	BEMA VPRT AUXB
-considerable	JJ
-low	JJ
-comparing	PGAS
-to	PIN PREP
-developed	
-countries	NN
-like	PIN PREP
-the	ART DET
-United	CAP NNP
-States	PUBV CAP NNP
-of	PIN PREP
-America	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-America	CAP NNP
-,	
-the	ART DET
-indiscriminate	JJ
-usage	NN
-brought	VBD
-serious	JJ
-consequences	NN
-as	PIN CONJ PREP
-the	ART DET
-increased	
-prevalence	NN
-of	PIN PREP
-overdoses	NN
-,	
-dependence	NN
-,	
-addiction	NOMZ
-,	
-and	ANDC CCONJ
-deaths	NN
-related	WZPAST
-to	PIN PREP
-opioids	NN
-.	
-Despite	PIN CAP SCONJ PREP
-that	DEMP DET
-,	
-opioids	NN
-play	VPRT
-an	ART DET INDA
-important	JJ
-role	NN
-in	PIN CONJ PREP
-managing	PGAS
-pain	NN
-related	WZPAST
-to	PIN PREP
-facial	JJ
-cancer	NN
-,	
-huge	JJ
-traumas	NN
-,	
-and	ANDC CCONJ
-trigeminal	JJ
-neuralgia	NNP
-,	
-for	PIN PREP
-instance	NN
-.	
-    	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2471.1317>\n\n<Pain management in the dental practice>\n\n\n	
+word	A	ART CAP DET INDA
+gap	 	
+word	considerable	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	orofacial	JJ
+gap	 	
+word	diseases	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	conditions	NOMZ
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	dental	JJ
+gap	 	
+word	caries	NN
+gap	, 	
+word	fractures	NN
+gap	, 	
+word	root	NN
+gap	 	
+word	canal	NN
+gap	 	
+word	treatment	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	wisdom	NN
+gap	 	
+word	tooth	NN
+gap	 	
+word	surgeries	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	associated	
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	pain	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	scenario	NN
+gap	, 	
+word	outpatients	NN
+gap	 	
+word	generally	RB
+gap	 	
+word	associate	VPRT
+gap	 	
+word	dental	JJ
+gap	 	
+word	treatment	NOMZ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	painful	JJ
+gap	 	
+word	and	CCONJ
+gap	, 	
+word	then	RB
+gap	 	
+word	procrastinate	INF
+gap	 	
+word	specialized	JJ
+gap	 	
+word	service	NN
+gap	 	
+word	attendance	NN
+gap	 	
+word	what	WHSUB WH
+gap	 	
+word	can	POMD
+gap	 	
+word	lead	INF
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	serious	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	complications	NOMZ
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	reduce	INF
+gap	 	
+word	pain	NN
+gap	 	
+word	experience	NN
+gap	, 	
+word	dental	JJ
+gap	 	
+word	practitioners	NN
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	aware	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pharmacology	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	prescription	NOMZ
+gap	 	
+word	indications	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	analgesics	NN
+gap	, 	
+word	anti	NN
+gap	-	
+word	inflammatories	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	opioids	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	aims	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	present	INF
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	discuss	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	rationale	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	dental	JJ
+gap	 	
+word	prescription	NOMZ
+gap	 	
+word	patterns	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pain	NN
+gap	 	
+word	killers	NNP
+gap	. \n\n	
+word	Analgesic	JJ CAP
+gap	 	
+word	medications	NOMZ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	metamizole	NN
+gap	, 	
+word	acetaminophen	RB
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	acetylsalicylic	JJ
+gap	 	
+word	acid	NN
+gap	, 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	prescribed	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	consumed	
+gap	 	
+word	drugs	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	vast	JJ
+gap	 	
+word	consumption	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	drugs	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	explained	PUBV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	efficacy	NN
+gap	, 	
+word	low	JJ
+gap	 	
+word	adverse	JJ
+gap	 	
+word	effects	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	available	JJ PRED
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	counter	NN
+gap	- 	
+word	this	DEMP DET
+gap	 	
+word	means	VPRT PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	person	NN
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	need	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	receipt	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	buy	INF
+gap	 	
+word	formulas	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	active	JJ
+gap	 	
+word	product	NN
+gap	. 	
+word	Dental	JJ CAP
+gap	 	
+word	prescriptions	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	analgesics	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	increasing	GER PGAS
+gap	 	
+word	over	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	years	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	means	VPRT PRIV
+gap	, 	
+word	dentists	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	sensitive	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	patients	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	despite	PIN SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	benefits	NN
+gap	, 	
+word	analgesics	NN
+gap	 	
+word	work	VPRT
+gap	 	
+word	non	RB
+gap	 	
+word	selectively	RB
+gap	 	
+word	inhibiting	GER PGAS
+gap	 	
+word	cyclooxygenase	NN
+gap	 (	
+word	COX	CAP NNP
+gap	) 	
+word	enzymes	VPRT
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	supraspinal	JJ
+gap	 	
+word	cord	NN
+gap	 	
+word	producing	WZPRES PGAS
+gap	 	
+word	moderate	JJ
+gap	 	
+word	pain	NN
+gap	 	
+word	relief	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	matter	NN
+gap	, 	
+word	dental	JJ
+gap	 	
+word	procedures	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	may	POMD
+gap	 	
+word	cause	INF
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	pain	NN
+gap	 	
+word	rates	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	demand	SUAV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	association	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	prescription	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	drugs	NN
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	anti	JJ
+gap	-	
+word	inflammatories	NN
+gap	. \n\n	
+word	Non	JJ CAP
+gap	-	
+word	steroidal	JJ
+gap	 	
+word	anti	JJ
+gap	-	
+word	inflammatory	JJ
+gap	 	
+word	drugs	NN
+gap	 (	
+word	NSAIDs	NN CAP
+gap	) 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	golden	JJ
+gap	 	
+word	standard	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	control	INF
+gap	 	
+word	dental	JJ
+gap	 	
+word	pain	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	explained	PUBV
+gap	, 	
+word	first	RB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	majority	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	invasive	JJ
+gap	 	
+word	oral	JJ
+gap	 	
+word	procedures	NN
+gap	 	
+word	induce	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	inflammatory	JJ
+gap	 	
+word	response	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	second	JJ
+gap	, 	
+word	NSAIDs	NN CAP
+gap	 	
+word	have	VPRT
+gap	 	
+word	plenty	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	evidence	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	security	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	efficacy	NN
+gap	. 	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mentioned	PUBV
+gap	, 	
+word	ibuprofen	NN
+gap	, 	
+word	diclofenac	NN
+gap	, 	
+word	nimesulide	JJ
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	others	NN
+gap	, 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	low	JJ
+gap	 	
+word	price	NN
+gap	 	
+word	drugs	NN
+gap	 	
+word	what	WHSUB WH
+gap	 	
+word	play	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	society	NN
+gap	, 	
+word	especially	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	; 	
+word	a	ART DET INDA
+gap	 	
+word	country	NN
+gap	 	
+word	full	JJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	inequalities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	public	JJ
+gap	 	
+word	health	NN
+gap	 	
+word	system	NN
+gap	 	
+word	cannot	
+gap	 	
+word	secure	
+gap	 	
+word	the	
+gap	 	
+word	whole	
+gap	 	
+word	population	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	income	
+gap	 	
+word	of	
+gap	 	
+word	most	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	families	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	barrier	
+gap	 	
+word	to	
+gap	 	
+word	drug	
+gap	 	
+word	access	
+gap	1.  	
+word	The	
+gap	 	
+word	success	
+gap	 	
+word	of	
+gap	 	
+word	NSAIDS	
+gap	 	
+word	also	
+gap	 	
+word	relies	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	fact	
+gap	 	
+word	that	
+gap	 	
+word	one	
+gap	 	
+word	drug	
+gap	 	
+word	controls	
+gap	 	
+word	all	
+gap	 	
+word	the	
+gap	 	
+word	cardinal	
+gap	 	
+word	symptoms	
+gap	 	
+word	of	
+gap	 	
+word	inflammation	
+gap	- 	
+word	redness	
+gap	, 	
+word	swelling	
+gap	, 	
+word	heat	
+gap	, 	
+word	pain	
+gap	, 	
+word	and	
+gap	 	
+word	loss	
+gap	 	
+word	of	
+gap	 	
+word	function	
+gap	.  	
+word	A	
+gap	 	
+word	research	
+gap	 	
+word	conducted	
+gap	 	
+word	in	
+gap	 	
+word	Australia	
+gap	 	
+word	from	
+gap	 2001 	
+word	to	
+gap	 2012 	
+word	demonstrated	
+gap	 	
+word	the	
+gap	 	
+word	overall	
+gap	 	
+word	increase	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	dental	
+gap	 	
+word	prescriptions	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	drugs	
+gap	 	
+word	by	
+gap	 32%, 	
+word	being	
+gap	 	
+word	ibuprofen	
+gap	 	
+word	corresponding	
+gap	 	
+word	to	
+gap	 68% 	
+word	of	
+gap	 	
+word	all	
+gap	 	
+word	prescriptions	
+gap	. 	
+word	Several	
+gap	 	
+word	clinical	
+gap	 	
+word	trials	
+gap	 	
+word	demonstrated	
+gap	 	
+word	that	
+gap	 	
+word	NSAIDs	
+gap	 	
+word	are	
+gap	 	
+word	the	
+gap	 	
+word	first	
+gap	 	
+word	basis	
+gap	 	
+word	treatment	
+gap	 	
+word	choice	
+gap	 	
+word	to	
+gap	 	
+word	manage	
+gap	 	
+word	dental	
+gap	 	
+word	pain	
+gap	, 	
+word	however	
+gap	, 	
+word	outpatients	
+gap	 	
+word	with	
+gap	 	
+word	low	
+gap	 	
+word	pain	
+gap	 	
+word	threshold	
+gap	 	
+word	must	
+gap	 	
+word	demand	
+gap	 	
+word	the	
+gap	 	
+word	disposal	
+gap	 	
+word	of	
+gap	 	
+word	opioids	
+gap	. \n\n	
+word	Morphine	
+gap	, 	
+word	codeine	
+gap	, 	
+word	oxycodone	
+gap	, 	
+word	and	
+gap	 	
+word	fentanyl	
+gap	 	
+word	are	
+gap	 	
+word	kinds	
+gap	 	
+word	of	
+gap	 	
+word	opioids	
+gap	 	
+word	that	
+gap	 	
+word	act	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	Central	
+gap	 	
+word	Nervous	
+gap	 	
+word	System	
+gap	 (	
+word	CNS	
+gap	) 	
+word	used	
+gap	 	
+word	to	
+gap	 	
+word	manage	
+gap	 	
+word	mild	
+gap	 	
+word	to	
+gap	 	
+word	severe	
+gap	 	
+word	pain	
+gap	. 	
+word	Opioids	
+gap	 	
+word	have	
+gap	 	
+word	been	
+gap	 	
+word	used	
+gap	 	
+word	for	
+gap	 	
+word	thousands	
+gap	 	
+word	of	
+gap	 	
+word	years	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	treatment	
+gap	 	
+word	of	
+gap	 	
+word	pain	
+gap	; 	
+word	registers	
+gap	 	
+word	from	
+gap	 	
+word	ancient	
+gap	 	
+word	Egypt	
+gap	 	
+word	evidence	
+gap	 	
+word	that	
+gap	.  	
+word	In	
+gap	 	
+word	Brazil	
+gap	, 	
+word	opioid	
+gap	 	
+word	use	
+gap	 	
+word	has	
+gap	 	
+word	increased	
+gap	 	
+word	in	
+gap	 	
+word	dental	
+gap	 	
+word	practice	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	last	
+gap	 	
+word	few	
+gap	 	
+word	decades	
+gap	. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	consumption	
+gap	 	
+word	rates	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	drugs	
+gap	 	
+word	are	
+gap	 	
+word	considerable	
+gap	 	
+word	low	
+gap	 	
+word	comparing	
+gap	 	
+word	to	
+gap	 	
+word	developed	
+gap	 	
+word	countries	
+gap	 	
+word	like	
+gap	 	
+word	the	
+gap	 	
+word	United	
+gap	 	
+word	States	
+gap	 	
+word	of	
+gap	 	
+word	America	
+gap	. 	
+word	In	
+gap	 	
+word	America	
+gap	, 	
+word	the	
+gap	 	
+word	indiscriminate	
+gap	 	
+word	usage	
+gap	 	
+word	brought	
+gap	 	
+word	serious	
+gap	 	
+word	consequences	
+gap	 	
+word	as	
+gap	 	
+word	the	
+gap	 	
+word	increased	
+gap	 	
+word	prevalence	
+gap	 	
+word	of	
+gap	 	
+word	overdoses	
+gap	, 	
+word	dependence	
+gap	, 	
+word	addiction	
+gap	, 	
+word	and	
+gap	 	
+word	deaths	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	opioids	
+gap	. 	
+word	Despite	
+gap	 	
+word	that	
+gap	, 	
+word	opioids	
+gap	 	
+word	play	
+gap	 	
+word	an	
+gap	 	
+word	important	
+gap	 	
+word	role	
+gap	 	
+word	in	
+gap	 	
+word	managing	
+gap	 	
+word	pain	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	facial	
+gap	 	
+word	cancer	
+gap	, 	
+word	huge	
+gap	 	
+word	traumas	
+gap	, 	
+word	and	
+gap	 	
+word	trigeminal	
+gap	 	
+word	neuralgia	
+gap	, 	
+word	for	
+gap	 	
+word	instance	
+gap	. \n\n\n\n<References>	

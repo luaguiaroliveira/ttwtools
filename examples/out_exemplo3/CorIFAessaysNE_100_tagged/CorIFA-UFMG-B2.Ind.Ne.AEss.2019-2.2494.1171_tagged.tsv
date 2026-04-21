@@ -1,628 +1,1149 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2494.1171.txt
-token	tags
-    	
-Brownian	JJ CAP
-motion	NOMZ
-was	PASS VBD BYPA SPAU AUXB
-first	RB
-systematically	RB
-observed	PRIV
-by	PIN PREP
-the	ART DET
-botanist	NN
-Robert	CAP NNP
-Brown	CAP NNP
-in	PIN CONJ PREP
-1827	NUM
-and	CCONJ
-refers	VPRT
-to	PIN PREP
-the	ART DET
-random	JJ
-motion	NOMZ
-of	PIN PREP
-colloidal	NN
-particles	NN
-suspended	WZPAST
-in	PIN CONJ PREP
-water	NN
-.	
-According	CAP PGAS
-to	PIN PREP
-Brown	CAP NNP
-,	
-the	ART DET
-motion	NOMZ
-of	PIN PREP
-pollen	NN
-was	PASS VBD AUXB
-given	
-due	PIN PREP
-the	ART DET
-“	
-life	NN
-”	
-of	PIN PREP
-the	ART DET
-pollen	NN
-however	RB CONJ
-later	RB TIME
-test	NN
-with	PIN PREP
-death	NN
-pollen	NN
-still	RB
-show	VPRT PRIV
-the	ART DET
-same	JJ
-results	NN
-.	
-This	DEMO CAP DET
-observation	NOMZ
-was	PASS VBD SPAU AUXB
-not	XX0 RB
-solved	
-until	PIN PREP
-1905	NUM
-,	
-when	RB SCONJ WH
-Einstein	CAP NNP
-publish	INF
-an	ART DET INDA
-paper	NN
-that	TSUB WHSUB WH
-explained	VBD PUBV
-the	ART DET
-pollen	NN
-was	PASS VBD BYPA AUXB
-being	PASS BYPA AUXB
-moved	SUAV
-by	PIN PREP
-the	ART DET
-water	NN
-molecules	NN
-in	PIN CONJ PREP
-the	ART DET
-liquid	NN
-,	
-Einstein	CAP NNP
-use	VPRT
-the	ART DET
-term	NN
-Brownian	CAP NNP
-Motion	CAP NNP
-to	PIN TO PREP
-explain	PUBV INF
-random	JJ
-movements	NOMZ
-of	PIN PREP
-the	ART DET
-particles	NN
-.	
-This	DEMO CAP DET
-explanation	NOMZ
-served	VBD
-as	PIN CONJ PREP
-indirect	JJ
-evidence	NN
-of	PIN PREP
-the	ART DET
-existence	NN
-of	PIN PREP
-atoms	NN
-and	PHC CCONJ
-molecules	NN
-which	WHSUB DET WH
-are	PASS VPRT BYPA AUXB
-proved	PRIV
-in	PIN CONJ PREP
-1908	NUM
-by	PIN PREP
-Jean	CAP NNP
-Perrin	CAP NNP
-.	
- 	
-The	ART CAP DET
-Einstein	CAP NNP
-’s	NN
-and	CCONJ
-Perrin	CAP NNP
-’s	
-efforts	NN
-helped	VBD
-raise	INF
-the	ART DET
-status	NN
-of	PIN PREP
-atoms	NN
-from	PIN PREP
-useful	JJ
-hypothetical	JJ
-objects	PUBV NN
-to	PIN PREP
-objects	PUBV NN
-whose	WHOBJ WHCL DET WH
-existence	NN
-could	POMD SPAU
-no	RB
-longer	RB
-be	PASS AUXB INF
-denied	PUBV
-and	PHC CCONJ
-ignored	
-.	
- 	
-With	PIN CAP PREP
-all	QUAN DET
-work	NN
-of	PIN PREP
-Einstein	CAP NNP
-and	PHC CCONJ
-Perrin	CAP NNP
-a	ART DET INDA
-quantitative	JJ
-analysis	NN
-was	PASS VBD AUXB
-made	
-,	
-where	RB SCONJ WH
-Einstein	CAP NNP
-state	PUBV NN THATD
-the	ART DET
-mathematical	JJ
-laws	NN
-governing	WZPRES PGAS
-the	ART DET
-movement	NOMZ
-of	PIN PREP
-particles	NN
-.	
-According	CAP PGAS
- 	
-to	PIN PREP
-the	ART DET
-principles	NN
-of	PIN PREP
-the	ART DET
-kinetic	JJ
--	
-molecular	JJ
-theory	NN
-of	PIN PREP
-heat	NN
-,	
-bodies	NN
-suspended	WZPAST
-in	PIN CONJ PREP
-a	ART DET INDA
-liquid	NN
-will	PRMD
-perform	INF
-a	ART DET INDA
-irregular	JJ
-thermal	JJ
-movements	NOMZ
-called	
-Brownian	CAP NNP
-Molecular	CAP NNP
-Motion	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-investigation	NOMZ
-Einstein	CAP NNP
-use	INF
-a	ART DET INDA
-cylindrical	JJ
-vessel	NN
-containing	GER WZPRES PGAS
-a	ART DET INDA
-dilute	NN
-solution	NOMZ
-of	PIN PREP
-two	NUM
-different	JJ
-concentrations	NOMZ
-and	CCONJ
-a	ART DET INDA
-movable	JJ
-piston	NN
-is	PASS VPRT AUXB
-used	
-to	PIN TO PREP
-divide	INF
-bove	NN
-solution	NOMZ
-but	CCONJ
-as	PIN CONJ PREP
-a	ART DET INDA
-semi	JJ
--	JJ
-permeable	JJ
-partition	NOMZ
-.	
-This	DEMP CAP DET
-allow	VPRT SUAV
-the	ART DET
-diffusion	NOMZ
-and	PHC CCONJ
-osmosis	NN
-process	NN
-to	PIN TO PREP
-take	INF
-place	NN
-but	CCONJ
-osmotic	JJ
-differences	NN
-exist	VPRT
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-of	PIN PREP
-the	ART DET
-variation	NOMZ
-in	PIN CONJ PREP
-concentrations	NOMZ
-.	
-This	DEMP CAP DET
-creates	VPRT
-an	ART DET INDA
-osmotic	JJ
-pressure	NN
-force	NN
-that	TSUB WHSUB WH
-brings	VPRT
-the	ART DET
-equalization	NOMZ
-of	PIN PREP
-the	ART DET
-concentration	NOMZ
-in	PIN CONJ PREP
-diffusion	NOMZ
-.	
-Therefore	RB CONJ CAP
-,	
-osmotic	JJ
-pressure	NN
-can	POMD
-be	PASS AUXB INF
-looked	
-upon	PIN SCONJ PREP
-as	PIN CONJ PREP
-the	ART DET
-driving	PGAS
-force	NN
-in	PIN CONJ PREP
-diffusion	NOMZ
-cases	NN
-.	
-A	ART CAP DET INDA
-mathematical	JJ
-evaluation	NOMZ
-of	PIN PREP
-this	DEMO DET
-phenomenon	NN
-,	
-based	PASTP
-on	PIN PREP
-the	ART DET
-kinetic	NN
--	
-molecular	JJ
-theory	NN
-of	PIN PREP
-heat	NN
-,	
-produced	VBD
-an	ART DET INDA
-expression	NOMZ
-for	PIN PREP
-the	ART DET
-Diffusion	CAP NNP
-Coefficient	CAP NNP
-.	
-This	DEMO CAP DET
-coefficient	NN
-was	PASS VBD AUXB
-found	PRIV
-to	PIN TO PREP
-be	BEMA AUXB INF
-independent	JJ PRED
-of	PIN PREP
-the	ART DET
-nature	NN
-of	PIN PREP
-the	ART DET
-solution	NOMZ
-except	PIN SCONJ PREP
-for	PIN PREP
-the	ART DET
-viscosity	NOMZ
-of	PIN PREP
-the	ART DET
-solvent	NN
-and	CCONJ
-for	PIN PREP
-the	ART DET
-size	NN
-of	PIN PREP
-the	ART DET
-solute	NN
-molecules	NN
-.	
-Thus	RB CONJ CAP
-the	ART DET
-Diffusion	CAP NNP
-can	POMD
-be	PASS AUXB INF
-considered	PRIV
-a	ART DET INDA
-macroscopic	JJ
-example	NN
-of	PIN PREP
-Brownian	JJ CAP
-motion	NOMZ
-.	
- 	
-Other	JJ CAP
-types	NN
-of	PIN PREP
-Brownian	CAP NNP
-Motion	CAP NNP
-can	POMD
-be	PASS AUXB INF
-observed	PRIV
-in	PIN CONJ PREP
-microscope	NN
-,	
-as	PIN CONJ PREP
-a	ART DET INDA
-result	NN
-,	
-it	PIT PRP SBJP
-now	RB TIME
-can	POMD
-be	PASS AUXB INF
-treated	
-as	PIN CONJ PREP
-a	ART DET INDA
-practical	JJ
-mathematical	JJ
-model	NN
-and	CCONJ
-more	RB EMPH CMADJ
-scientific	JJ
-theories	NN
-were	PASS VBD AUXB
-developed	
-and	CCONJ
-subsequently	RB TIME
-play	INF
-major	JJ
-roles	NN
-in	PIN CONJ PREP
-the	ART DET
-world	NN
-of	PIN PREP
-Physics	CAP NNP
-.	
- 	
-Brownian	JJ CAP
-motion	NOMZ
-also	RB
-help	VPRT
-develop	INF
-great	JJ
-experiments	NOMZ
-for	PIN PREP
-undergraduates	VPRT
-students	NN
-,	
-in	PIN CONJ PREP
-Chemistry	CAP NNP
-,	
-Biology	CAP NNP
-and	PHC CCONJ
-Physics	CAP NNP
-.	
-In	PIN CONJ CAP PREP
-computational	JJ
-physics	NN
-Brownian	JJ CAP
-motion	NOMZ
-take	VPRT
-a	ART DET INDA
-new	JJ
-landscaping	GER
-,	
-using	PGAS
-microscopy	NN
-and	PHC CCONJ
-video	NN
-technology	NN
-for	PIN PREP
-tracking	PGAS
-the	ART DET
-movement	NOMZ
-of	PIN PREP
-the	ART DET
-particles	NN
-,	
-meaning	PRIV PGAS
-that	PIN THVC SCONJ PREP
-now	RB TIME
-we	FPP1 PRP SBJP
-can	POMD
-do	PROD INF
-more	RB EMPH CMADJ
-precisely	RB
-experiment	NOMZ
-,	
-such	JJ
-as	PIN CONJ PREP
-Measuring	CAP NNP
-Heat	CAP NNP
-in	PIN CONJ PREP
-molecular	JJ
-levels	NN
-or	CCONJ
-macroscopic	JJ
-level	NN
-and	CCONJ
-become	INF
-easier	JJ CMADJ
-and	PHC CCONJ
-helpful	JJ
-to	PIN TO PREP
-understand	PRIV INF
-some	QUAN DET
-already	RB
-state	PUBV NN
-theories	NN
-such	JJ
-as	PIN CONJ PREP
-Boltzmann	CAP NNP
-’s	
-constant	NN
-.	
-The	ART CAP DET
-measuring	NN
-of	PIN PREP
-Boltzmann	CAP NNP
-’s	
-constant	JJ
-using	PGAS
-Brownian	JJ CAP
-motion	NOMZ
-serves	VPRT
-to	PIN TO PREP
-introduce	INF
-statistical	JJ
-mechanics	NN
-concepts	NN
-in	PIN CONJ PREP
-an	ART DET INDA
-engaging	JJ
-way	NN
-into	PIN PREP
-an	ART DET INDA
-upper	JJ
-level	NN
-undergraduate	NN
-setting	NN
-while	OSUB PIN SCONJ PREP
-simultaneously	RB TIME
-determining	GER PRIV SUAV PGAS
-a	ART DET INDA
-fundamental	JJ
-constant	NN
-of	PIN PREP
-nature	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-the	ART DET
-Brownian	JJ CAP
-motion	NOMZ
-theory	NN
-has	VPRT PEAS
-come	
-a	ART DET INDA
-long	JJ
-way	NN
-since	OSUB PIN SCONJ PREP
-its	PIT PRP SBJP
-humble	JJ
-beginnings	GER
-in	PIN CONJ PREP
-the	ART DET
-nineteenth	JJ
-century	NN
-,	
-and	ANDC CCONJ
-there	EX
-now	RB TIME
-exists	VPRT
-a	ART DET INDA
-large	JJ
-number	NN
-of	PIN PREP
-applications	NOMZ
-that	TSUB WHSUB WH
-have	VPRT PEAS
-evolved	
-from	PIN PREP
-it	PIT PRP SBJP
-and	CCONJ
-countless	JJ
-others	NN
-that	TSUB WHSUB WH
-revolve	VPRT
-around	PIN PLACE PREP
-it	PIT PRP SBJP
-.	
-This	DEMO CAP DET
-theory	NN
-covers	VPRT
-such	EMPH DET
-a	ART DET INDA
-vast	JJ
-number	NN
-of	PIN PREP
-interesting	JJ
-aspects	NN
-of	PIN PREP
-life	NN
-without	PIN PREP
-our	FPP1 PRP SBJP
-being	BEMA AUXB
-aware	JJ PRED
-of	PIN PREP
-its	PIT PRP SBJP
-role	NN
-.	
-With	PIN CAP PREP
-the	ART DET
-random	JJ
-and	CCONJ
-often	RB
-unpredictable	JJ
-nature	NN
-of	PIN PREP
-events	NN
-that	TSUB WHSUB WH
-take	VPRT
-place	NN
-in	PIN CONJ PREP
-this	DEMO DET
-world	NN
-of	PIN PREP
-ours	PRP SBJP
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-no	SYNE DET
-wonder	NN
-that	PIN TOBJ SCONJ PREP
-researchers	NN
-have	VPRT
-yet	RB
-to	PIN TO PREP
-find	PRIV INF
-the	ART DET
-perfect	JJ
-solutions	NOMZ
-to	PIN PREP
-their	TPP3 PRP SBJP
-unending	JJ
-problems	NN
-making	WZPRES PGAS
-it	PIT PRP SBJP
-never	RB
-obsolete	JJ
-in	PIN CONJ PREP
-the	ART DET
-scientific	JJ
-world	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2494.1171>\n\n<Brownian Motion and Further Contribution.>\n\n	
+word	Brownian	JJ CAP
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	was	PASS VBD BYPA SPAU AUXB
+gap	 	
+word	first	RB
+gap	 	
+word	systematically	RB
+gap	 	
+word	observed	PRIV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	botanist	NN
+gap	 	
+word	Robert	CAP NNP
+gap	 	
+word	Brown	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1827 	
+word	and	CCONJ
+gap	 	
+word	refers	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	random	JJ
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	colloidal	NN
+gap	 	
+word	particles	NN
+gap	 	
+word	suspended	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	water	NN
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	Brown	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	pollen	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	given	
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 “	
+word	life	NN
+gap	” 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	pollen	NN
+gap	 	
+word	however	RB CONJ
+gap	 	
+word	later	RB TIME
+gap	 	
+word	test	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	death	NN
+gap	 	
+word	pollen	NN
+gap	 	
+word	still	RB
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	results	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	observation	NOMZ
+gap	 	
+word	was	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	solved	
+gap	 	
+word	until	PIN PREP
+gap	 1905, 	
+word	when	RB SCONJ WH
+gap	 	
+word	Einstein	CAP NNP
+gap	 	
+word	publish	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	paper	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	explained	VBD PUBV
+gap	 	
+word	the	ART DET
+gap	 	
+word	pollen	NN
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	being	PASS BYPA AUXB
+gap	 	
+word	moved	SUAV
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	water	NN
+gap	 	
+word	molecules	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	liquid	NN
+gap	, 	
+word	Einstein	CAP NNP
+gap	 	
+word	use	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	term	NN
+gap	 	
+word	Brownian	CAP NNP
+gap	 	
+word	Motion	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	random	JJ
+gap	 	
+word	movements	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	particles	NN
+gap	.	
+word	This	DEMO CAP DET
+gap	 	
+word	explanation	NOMZ
+gap	 	
+word	served	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	indirect	JJ
+gap	 	
+word	evidence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	existence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	atoms	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	molecules	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	proved	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1908 	
+word	by	PIN PREP
+gap	 	
+word	Jean	CAP NNP
+gap	 	
+word	Perrin	CAP NNP
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	Einstein	CAP NNP
+gap	’	
+word	s	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	Perrin	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	efforts	NN
+gap	 	
+word	helped	VBD
+gap	 	
+word	raise	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	status	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	atoms	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	useful	JJ
+gap	 	
+word	hypothetical	JJ
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	objects	PUBV NN
+gap	 	
+word	whose	WHOBJ WHCL DET WH
+gap	 	
+word	existence	NN
+gap	 	
+word	could	POMD SPAU
+gap	 	
+word	no	RB
+gap	 	
+word	longer	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	denied	PUBV
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	ignored	
+gap	.\n	
+word	With	PIN CAP PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	work	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Einstein	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Perrin	CAP NNP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	quantitative	JJ
+gap	 	
+word	analysis	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	made	
+gap	, 	
+word	where	RB SCONJ WH
+gap	 	
+word	Einstein	CAP NNP
+gap	 	
+word	state	PUBV NN THATD
+gap	 	
+word	the	ART DET
+gap	 	
+word	mathematical	JJ
+gap	 	
+word	laws	NN
+gap	 	
+word	governing	WZPRES PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	movement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	particles	NN
+gap	. 	
+word	According	CAP PGAS
+gap	  	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	principles	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kinetic	JJ
+gap	-	
+word	molecular	JJ
+gap	 	
+word	theory	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	heat	NN
+gap	, 	
+word	bodies	NN
+gap	 	
+word	suspended	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	liquid	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	perform	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	irregular	JJ
+gap	 	
+word	thermal	JJ
+gap	 	
+word	movements	NOMZ
+gap	 	
+word	called	
+gap	 	
+word	Brownian	CAP NNP
+gap	 	
+word	Molecular	CAP NNP
+gap	 	
+word	Motion	CAP NNP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	investigation	NOMZ
+gap	 	
+word	Einstein	CAP NNP
+gap	 	
+word	use	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	cylindrical	JJ
+gap	 	
+word	vessel	NN
+gap	 	
+word	containing	GER WZPRES PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	dilute	NN
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	different	JJ
+gap	 	
+word	concentrations	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	movable	JJ
+gap	 	
+word	piston	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	divide	INF
+gap	 	
+word	bove	NN
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	but	CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	semi	JJ
+gap	-	
+word	permeable	JJ
+gap	 	
+word	partition	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	allow	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	diffusion	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	osmosis	NN
+gap	 	
+word	process	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	place	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	osmotic	JJ
+gap	 	
+word	differences	NN
+gap	 	
+word	exist	VPRT
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	variation	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	concentrations	NOMZ
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	creates	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	osmotic	JJ
+gap	 	
+word	pressure	NN
+gap	 	
+word	force	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	brings	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	equalization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	concentration	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	diffusion	NOMZ
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	osmotic	JJ
+gap	 	
+word	pressure	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	looked	
+gap	 	
+word	upon	PIN SCONJ PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	driving	PGAS
+gap	 	
+word	force	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	diffusion	NOMZ
+gap	 	
+word	cases	NN
+gap	. 	
+word	A	ART CAP DET INDA
+gap	 	
+word	mathematical	JJ
+gap	 	
+word	evaluation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	phenomenon	NN
+gap	, 	
+word	based	PASTP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	kinetic	NN
+gap	-	
+word	molecular	JJ
+gap	 	
+word	theory	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	heat	NN
+gap	, 	
+word	produced	VBD
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	expression	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Diffusion	CAP NNP
+gap	 	
+word	Coefficient	CAP NNP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	coefficient	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	found	PRIV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	independent	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solution	NOMZ
+gap	 	
+word	except	PIN SCONJ PREP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	viscosity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solvent	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	size	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	solute	NN
+gap	 	
+word	molecules	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Diffusion	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	considered	PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	macroscopic	JJ
+gap	 	
+word	example	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Brownian	JJ CAP
+gap	 	
+word	motion	NOMZ
+gap	.\n	
+word	Other	JJ CAP
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Brownian	CAP NNP
+gap	 	
+word	Motion	CAP NNP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	observed	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	microscope	NN
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	now	RB TIME
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	treated	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	practical	JJ
+gap	 	
+word	mathematical	JJ
+gap	 	
+word	model	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	scientific	JJ
+gap	 	
+word	theories	NN
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	developed	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	subsequently	RB TIME
+gap	 	
+word	play	INF
+gap	 	
+word	major	JJ
+gap	 	
+word	roles	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Physics	CAP NNP
+gap	.\n	
+word	Brownian	JJ CAP
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	also	RB
+gap	 	
+word	help	VPRT
+gap	 	
+word	develop	INF
+gap	 	
+word	great	JJ
+gap	 	
+word	experiments	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	undergraduates	VPRT
+gap	 	
+word	students	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Chemistry	CAP NNP
+gap	, 	
+word	Biology	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Physics	CAP NNP
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	computational	JJ
+gap	 	
+word	physics	NN
+gap	 	
+word	Brownian	JJ CAP
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	take	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	landscaping	GER
+gap	, 	
+word	using	PGAS
+gap	 	
+word	microscopy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	video	NN
+gap	 	
+word	technology	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	tracking	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	movement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	particles	NN
+gap	, 	
+word	meaning	PRIV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	now	RB TIME
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	do	PROD INF
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	precisely	RB
+gap	 	
+word	experiment	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Measuring	CAP NNP
+gap	 	
+word	Heat	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	molecular	JJ
+gap	 	
+word	levels	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	macroscopic	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	become	INF
+gap	 	
+word	easier	JJ CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	helpful	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	already	RB
+gap	 	
+word	state	PUBV NN
+gap	 	
+word	theories	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Boltzmann	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	constant	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	measuring	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Boltzmann	CAP NNP
+gap	’	
+word	s	
+gap	 	
+word	constant	JJ
+gap	 	
+word	using	PGAS
+gap	 	
+word	Brownian	JJ CAP
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	serves	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	introduce	INF
+gap	 	
+word	statistical	JJ
+gap	 	
+word	mechanics	NN
+gap	 	
+word	concepts	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	engaging	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	upper	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	undergraduate	NN
+gap	 	
+word	setting	NN
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	simultaneously	RB TIME
+gap	 	
+word	determining	GER PRIV SUAV PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	fundamental	JJ
+gap	 	
+word	constant	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	nature	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	 	
+word	the	ART DET
+gap	 	
+word	Brownian	JJ CAP
+gap	 	
+word	motion	NOMZ
+gap	 	
+word	theory	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	come	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	humble	JJ
+gap	 	
+word	beginnings	GER
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	nineteenth	JJ
+gap	 	
+word	century	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	there	EX
+gap	 	
+word	now	RB TIME
+gap	 	
+word	exists	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	applications	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	evolved	
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	countless	JJ
+gap	 	
+word	others	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	revolve	VPRT
+gap	 	
+word	around	PIN PLACE PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	theory	NN
+gap	 	
+word	covers	VPRT
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	vast	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	interesting	JJ
+gap	 	
+word	aspects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	life	NN
+gap	 	
+word	without	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	aware	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	role	NN
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	random	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	often	RB
+gap	 	
+word	unpredictable	JJ
+gap	 	
+word	nature	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	events	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	take	VPRT
+gap	 	
+word	place	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	world	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	ours	PRP SBJP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	wonder	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	researchers	NN
+gap	 	
+word	have	VPRT
+gap	 	
+word	yet	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	find	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	perfect	JJ
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	unending	JJ
+gap	 	
+word	problems	NN
+gap	 	
+word	making	WZPRES PGAS
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	never	RB
+gap	 	
+word	obsolete	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	scientific	JJ
+gap	 	
+word	world	NN
+gap	.	

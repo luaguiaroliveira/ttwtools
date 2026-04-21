@@ -1,663 +1,1171 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0999.0581.txt
-token	tags
-﻿	NNP
-    	
-Interdisciplinary	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-link	NN
-between	PIN PREP
-the	ART DET
-understandings	GER
-of	PIN PREP
-the	ART DET
-disciplines	NN
-at	PIN PREP
-their	TPP3 PRP SBJP
-various	JJ
-areas	NN
-.	
-Some	QUAN CAP DET
-author	NN
-affirm	PUBV NN
-that	PIN TOBJ THVC SCONJ PREP
-ideas	NN
-which	WHSUB DET WH
-refer	VPRT
-to	PIN PREP
-interdisciplinary	NN
-are	BEMA VPRT AUXB
-ancient	JJ PRED
-,	
-Plato	CAP NNP
-and	PHC CCONJ
-Aristotle	CAP NNP
-are	PASS VPRT AUXB
-called	
-"	QUOT
-interdisciplinary	NN
-"	QUOT
-due	JJ
-to	PIN PREP
-the	ART DET
-proximity	NOMZ
-of	PIN PREP
-their	TPP3 PRP SBJP
-ideas	NN
-to	PIN TO PREP
-sense	PRIV INF
-of	PIN PREP
-an	ART DET INDA
-unification	NOMZ
-of	PIN PREP
-wisdom	NN
-.	
-Meanwhile	RB CAP
-,	
-it	PIT PRP SBJP
-appears	VPRT SMP
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-sense	PRIV NN
-of	PIN PREP
-unity	NOMZ
-of	PIN PREP
-knowledge	NN
-got	VBD
-lost	
-in	PIN CONJ PREP
-philosophy	NN
-’s	
-book	NN
-.	
-Nowadays	RB TIME CAP
-,	
-in	PIN CONJ PREP
-Brazil	CAP NNP
-,	
-knowledge	NN
-centers	NN
-does	VPRT SPAU
-n’t	RB
-worry	INF
-about	PIN PREP
-diversified	JJ
-knowledge	NN
-,	
-and	ANDC CCONJ
-it	PIT PRP SBJP
-can	POMD
-bring	INF
-amount	NN
-of	PIN PREP
-professionals	NN
-so	RB
-attached	
-of	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-ability	NOMZ
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-can	POMD SPAU
-not	XX0 RB
-even	RB
-give	INF
-an	ART DET INDA
-opinion	NN
-about	PIN PREP
-other	JJ
-knowledge	NN
-field	NN
-.	
-But	CAP CCONJ
-the	ART DET
-advent	NN
-of	PIN PREP
-dynamism	NN
-at	PIN PREP
-the	ART DET
-world	NN
-brings	VPRT
-a	ART DET INDA
-necessity	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-complexity	NOMZ
-of	PIN PREP
-society	NN
-and	CCONJ
-of	PIN PREP
-other	JJ
-cultures	NN
-.	
- 	
-It	PIT CAP PRP SBJP
-is	PASS VPRT SPAU AUXB
-widely	RB
-accepted	PRIV
-that	PIN THVC SCONJ PREP
-society	NN
-realizes	VPRT PRIV
-a	ART DET INDA
-silence	NN
-and/or	CCONJ
-yelling	PGAS
-influence	NN
-in	PIN CONJ PREP
-different	JJ
-field	NN
-in	PIN CONJ PREP
-our	FPP1 PRP SBJP
-life	NN
-such	JJ
-as	PIN CONJ PREP
-appearance	NN
-,	
-behaviour	NN
-and	CCONJ
-the	ART DET
-way	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-learn	VPRT PRIV
-.	
-The	ART CAP DET
-role	NN
-concepts	NN
-of	PIN PREP
-interdisciplinary	NN
-believe	VPRT PRIV
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-can	POMD
-learn	PRIV INF
-in	PIN CONJ PREP
-every	QUAN DET
-place	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-every	QUAN DET
-experience	NN
-,	
-even	RB
-if	COND PIN SCONJ PREP
-those	DEMP DET
-are	BEMA VPRT AUXB
-good	JJ PRED
-or	CCONJ
-not	XX0 RB
-.	
-Thus	RB CONJ CAP
-,	
-we	FPP1 PRP SBJP
-are	VPRT AUXB
-expression	NOMZ
-of	PIN PREP
-choices	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-made	VBD
-and	CCONJ
-the	ART DET
-paths	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-decided	VBD PRIV SUAV
-to	PIN TO PREP
-follow	INF
-.	
-Therefore	RB CONJ CAP
-,	
-as	PIN CONJ PREP
-many	QUAN JJ
-museums	NN
-and	PHC CCONJ
-parks	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-visit	VPRT
-,	
-books	NN
-that	TOBJ WHOBJ WH
-we	FPP1 PRP SBJP
-read	VPRT
-and	CCONJ
-people	NN
-with	PIN PREP
-different	JJ
-reality	NOMZ
-we	FPP1 PRP SBJP
-interact	VPRT
-richer	JJ CMADJ
-our	FPP1 PRP SBJP
-baggage	NN
-of	PIN PREP
-knowledge	NN
-will	PRMD
-be	AUXB INF
-.	
-In	PIN CONJ CAP PREP
-other	JJ
-words	NN
-,	
-wisdom	NN
-is	VPRT AUXB
-not	XX0 RB
-inmate	NN
-at	PIN PREP
-Universities	CAP NNP
-surroundings	GER
-,	
-but	CCONJ
-also	RB
-any	QUAN DET
-place	NN
-that	TSUB WHSUB WH
-brings	VPRT
-new	JJ
-experiences	NN
-.	
- 	
-The	ART CAP DET
-advent	NN
-of	PIN PREP
-internet	NN
-has	VPRT PEAS
-been	AUXB
-one	NUM
-of	PIN PREP
-developments	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-history	NN
-.	
-It	PIT CAP PRP SBJP
-brings	VPRT
-to	PIN PREP
-the	ART DET
-world	NN
-new	JJ
-possibilities	NN
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-achieve	INF
-these	DEMO DET
-opportunities	NN
-we	FPP1 PRP SBJP
-should	NEMD
-be	PASS AUXB INF
-prepared	
-.	
-The	ART CAP DET
-internet	NN
-has	VPRT PEAS
-helped	
-to	PIN TO PREP
-make	INF
-the	ART DET
-world	NN
-a	ART DET INDA
-smaller	JJ CMADJ
-place	NN
-,	
-the	ART DET
-necessity	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-multi	JJ
--	JJ
-cultural	JJ
-became	VBD
-a	ART DET INDA
-reality	NOMZ
-not	XX0 RB
-only	DWNT RB
-for	PIN PREP
-businessman	NN
-but	CCONJ
-also	RB
-for	PIN PREP
-college	NN
-students	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-in	PIN CONJ PREP
-universities	NN
-are	VPRT AUXB
-growing	PGAS
-the	ART DET
-demand	SUAV NN
-of	PIN PREP
-language	NN
-classes	NN
-,	
-international	JJ
-relations	NOMZ
-,	
-history	NN
-and	PHC CCONJ
-culture	NN
-from	PIN PREP
-other	JJ
-countries	NN
-.	
-Also	RB CAP
-,	
-knowledge	NN
-from	PIN PREP
-different	JJ
-field	NN
-improves	VPRT
-mental	JJ
-function	NOMZ
-.	
-In	PIN CONJ CAP PREP
-spite	NN
-of	PIN PREP
-individuals	NN
-become	VPRT
-very	AMP RB
-attached	JJ
-for	PIN PREP
-their	TPP3 PRP SBJP
-own	JJ
-area	NN
-,	
-develop	INF
-new	JJ
-abilities	NN
-in	PIN CONJ PREP
-different	JJ
-fields	NN
-stimulates	VPRT
-parts	NN
-of	PIN PREP
-the	ART DET
-brain	NN
-that	DEMP WHOBJ WH
-,	
-perhaps	RB
-,	
-is	VPRT AUXB
-n’t	RB
-use	NN
-on	PIN PREP
-a	ART DET INDA
-regular	JJ
-basics	NN
-.	
- 	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-many	QUAN JJ
-students	NN
-do	VPRT PROD
-n’t	RB
-desire	SUAV NN
-go	INF
-out	PIN PREP
-from	PIN PREP
-their	TPP3 PRP SBJP
-comfort	NN
-zone	NN
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-a	ART DET INDA
-reflex	NN
-of	PIN PREP
-apathy	NN
-from	PIN PREP
-things	NN
-that	TSUB WHSUB WH
-are	VPRT AUXB
-not	XX0 RB
-directly	RB
-on	PIN PREP
-the	ART DET
-own	JJ
-reality	NOMZ
-and	CCONJ
-many	QUAN JJ
-times	NN
-,	
-institutions	NOMZ
-do	VPRT SPAU
-n’t	RB
-encourage	INF
-interdisciplinary	JJ
-education	NOMZ
-.	
-In	PIN CONJ CAP PREP
-spite	NN
-of	PIN STPR PREP
-,	
-many	QUAN JJ
-classes	NN
-stay	VPRT
-empty	JJ
-,	
-some	QUAN DET
-universities	NN
-do	VPRT PROD
-n’t	NNP
-divulge	NN
-and	CCONJ
-even	RB
-less	JJ CMADJ
-stimulates	NN
-ungraduated	VBD
-student	NN
-take	INF
-class	NN
-in	PIN CONJ PREP
-different	JJ
-courses	NN
-.	
-And	ANDC CAP CCONJ
-for	PIN PREP
-many	QUAN JJ
-subjects	NN
-the	ART DET
-obligatory	JJ
-schedule	NN
-is	BEMA VPRT AUXB
-very	AMP RB
-intense	JJ
-,	
-so	CCONJ
-became	VBD
-almost	DWNT RB
-impossible	JJ
-to	PIN TO PREP
-handle	INF
-with	PIN PREP
-new	JJ
-knowledge	NN
-.	
-However	RB CONJ CAP
-,	
-UFMG	CAP NNP
-,	
-for	PIN PREP
-example	NN
-,	
-is	VPRT AUXB
-trying	PGAS
-to	PIN TO PREP
-adjust	INF
-schedule	NN
-of	PIN PREP
-some	QUAN DET
-courses	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-transfer	INF
-part	NN
-of	PIN PREP
-obligatory	JJ
-schedule	NN
-to	PIN TO PREP
-alternative	INF
-subject	JJ
-(	
-related	JJ
-or	CCONJ
-not	XX0 RB
-to	PIN TO PREP
-student	INF
-’s	
-major	NN
-)	
-.	
-For	PIN CAP PREP
-example	NN
-,	
-in	PIN CONJ PREP
-pharmacy	NN
-undergrad	NN
-course	NN
-,	
-approximately	RB
-300	NUM
-hours	NN
-of	PIN PREP
-obligatory	JJ
-schedule	NN
-will	PRMD
-be	AUXB INF
-transfer	NN
-to	PIN PREP
-alternative	JJ
-subject	NN
-.	
-With	PIN CAP PREP
-this	DEMO DET
-change	NN
-,	
-the	ART DET
-university	NOMZ
-want	VPRT
-to	PIN TO PREP
-turn	INF
-student	NN
-as	PIN CONJ PREP
-the	ART DET
-major	JJ
-responsible	JJ
-to	PIN TO PREP
-construct	INF
-their	TPP3 PRP SBJP
-own	JJ
-journey	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-achieve	INF
-wisdom	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-interdisciplinary	NN
-suppose	VPRT PRIV
-openness	NOMZ
-of	PIN PREP
-thought	PRIV NN
-,	
-curiosity	NOMZ
-that	TSUB WHSUB WH
-seek	VPRT
-beyond	PIN PREP
-itself	PIT PRP SBJP ACCU
-.	
-Since	OSUB PIN CAP SCONJ PREP
-antique	JJ
-,	
-interdisciplinary	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-concept	NN
-difficult	JJ
-to	PIN TO PREP
-be	PASS AUXB INF
-defined	
-and	CCONJ
-even	RB
-more	JJ EMPH CMADJ
-to	PIN TO PREP
-put	INF
-in	PIN CONJ PREP
-our	FPP1 PRP SBJP
-ordinary	JJ
-life	NN
-.	
-This	DEMO CAP DET
-barrier	NN
-can	POMD
-be	PASS BYPA AUXB INF
-constructed	
-by	PIN PREP
-educational	JJ
-institution	NOMZ
-or	CCONJ
-by	PIN PREP
-personal	JJ
-behavior	NN
-.	
-Meanwhile	RB CAP
-,	
-dynamism	NN
-of	PIN PREP
-the	ART DET
-world	NN
-bring	VPRT
-a	ART DET INDA
-necessity	NOMZ
-to	PIN TO PREP
-understand	PRIV INF
-the	ART DET
-complexity	NOMZ
-of	PIN PREP
-society	NN
-and	CCONJ
-of	PIN PREP
-other	JJ
-cultures	NN
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-achieve	INF
-these	DEMO DET
-new	JJ
-opportunities	NN
-we	FPP1 PRP SBJP
-need	VPRT
-to	PIN TO PREP
-be	BEMA AUXB INF
-the	ART DET
-major	JJ
-responsible	JJ
-to	PIN TO PREP
-construct	INF
-our	FPP1 PRP SBJP
-own	JJ
-journey	NN
-to	PIN TO PREP
-catch	INF
-up	PIN PREP
-wisdom	NN
-.	
-     	
+type	content	tags
+gap	﻿<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-2.0999.0581>\n\n<Why diversity of wisdom is so important, nowadays?>\n\n	
+word	Interdisciplinary	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	link	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	understandings	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	disciplines	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	various	JJ
+gap	 	
+word	areas	NN
+gap	. 	
+word	Some	QUAN CAP DET
+gap	 	
+word	author	NN
+gap	 	
+word	affirm	PUBV NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	ideas	NN
+gap	 	
+word	which	WHSUB DET WH
+gap	 	
+word	refer	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	interdisciplinary	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	ancient	JJ PRED
+gap	, 	
+word	Plato	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Aristotle	CAP NNP
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	called	
+gap	 "	
+word	interdisciplinary	NN
+gap	" 	
+word	due	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	proximity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	ideas	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	sense	PRIV INF
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unification	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	wisdom	NN
+gap	. 	
+word	Meanwhile	RB CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	appears	VPRT SMP
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	unity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	got	VBD
+gap	 	
+word	lost	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	philosophy	NN
+gap	’	
+word	s	
+gap	 	
+word	book	NN
+gap	. 	
+word	Nowadays	RB TIME CAP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	Brazil	CAP NNP
+gap	, 	
+word	knowledge	NN
+gap	 	
+word	centers	NN
+gap	 	
+word	doesn	
+gap	’	
+word	t	
+gap	 	
+word	worry	INF
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	diversified	JJ
+gap	 	
+word	knowledge	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	bring	INF
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	professionals	NN
+gap	 	
+word	so	RB
+gap	 	
+word	attached	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	cannot	
+gap	 	
+word	even	
+gap	 	
+word	give	
+gap	 	
+word	an	
+gap	 	
+word	opinion	
+gap	 	
+word	about	
+gap	 	
+word	other	
+gap	 	
+word	knowledge	
+gap	 	
+word	field	
+gap	. 	
+word	But	
+gap	 	
+word	the	
+gap	 	
+word	advent	
+gap	 	
+word	of	
+gap	 	
+word	dynamism	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	world	
+gap	 	
+word	brings	
+gap	 	
+word	a	
+gap	 	
+word	necessity	
+gap	 	
+word	to	
+gap	 	
+word	understand	
+gap	 	
+word	the	
+gap	 	
+word	complexity	
+gap	 	
+word	of	
+gap	 	
+word	society	
+gap	 	
+word	and	
+gap	 	
+word	of	
+gap	 	
+word	other	
+gap	 	
+word	cultures	
+gap	.\n	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	widely	
+gap	 	
+word	accepted	
+gap	 	
+word	that	
+gap	 	
+word	society	
+gap	 	
+word	realizes	
+gap	 	
+word	a	
+gap	 	
+word	silence	
+gap	 	
+word	and	
+gap	/	
+word	or	
+gap	 	
+word	yelling	PGAS
+gap	 	
+word	influence	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	field	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	life	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	appearance	NN
+gap	, 	
+word	behaviour	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	way	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	learn	VPRT PRIV
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	role	NN
+gap	 	
+word	concepts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	interdisciplinary	NN
+gap	 	
+word	believe	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	learn	PRIV INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	place	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	every	QUAN DET
+gap	 	
+word	experience	NN
+gap	, 	
+word	even	RB
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	good	JJ PRED
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	expression	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	choices	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	made	VBD
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	paths	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	decided	VBD PRIV SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	follow	INF
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	museums	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	parks	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	visit	VPRT
+gap	, 	
+word	books	NN
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	read	VPRT
+gap	 	
+word	and	CCONJ
+gap	 	
+word	people	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	interact	VPRT
+gap	 	
+word	richer	JJ CMADJ
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	baggage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	knowledge	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	AUXB INF
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 	
+word	wisdom	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	inmate	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	Universities	CAP NNP
+gap	 	
+word	surroundings	GER
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	place	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	brings	VPRT
+gap	 	
+word	new	JJ
+gap	 	
+word	experiences	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	advent	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	internet	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	developments	NOMZ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	history	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	brings	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	new	JJ
+gap	 	
+word	possibilities	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	opportunities	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	should	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	prepared	
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	internet	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	helped	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	smaller	JJ CMADJ
+gap	 	
+word	place	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	necessity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	multi	JJ
+gap	-	
+word	cultural	JJ
+gap	 	
+word	became	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	businessman	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	college	NN
+gap	 	
+word	students	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	universities	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	growing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	language	NN
+gap	 	
+word	classes	NN
+gap	, 	
+word	international	JJ
+gap	 	
+word	relations	NOMZ
+gap	, 	
+word	history	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	culture	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	countries	NN
+gap	. 	
+word	Also	RB CAP
+gap	, 	
+word	knowledge	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	field	NN
+gap	 	
+word	improves	VPRT
+gap	 	
+word	mental	JJ
+gap	 	
+word	function	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	spite	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	individuals	NN
+gap	 	
+word	become	VPRT
+gap	 	
+word	very	AMP RB
+gap	 	
+word	attached	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	area	NN
+gap	, 	
+word	develop	INF
+gap	 	
+word	new	JJ
+gap	 	
+word	abilities	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	fields	NN
+gap	 	
+word	stimulates	VPRT
+gap	 	
+word	parts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	brain	NN
+gap	 	
+word	that	DEMP WHOBJ WH
+gap	, 	
+word	perhaps	RB
+gap	, 	
+word	isn	
+gap	’	
+word	t	
+gap	 	
+word	use	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	regular	JJ
+gap	 	
+word	basics	NN
+gap	.\n	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	students	NN
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	desire	SUAV NN
+gap	 	
+word	go	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	comfort	NN
+gap	 	
+word	zone	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	reflex	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	apathy	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	things	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	directly	RB
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	own	JJ
+gap	 	
+word	reality	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	times	NN
+gap	, 	
+word	institutions	NOMZ
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	encourage	INF
+gap	 	
+word	interdisciplinary	JJ
+gap	 	
+word	education	NOMZ
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	spite	NN
+gap	 	
+word	of	PIN STPR PREP
+gap	, 	
+word	many	QUAN JJ
+gap	 	
+word	classes	NN
+gap	 	
+word	stay	VPRT
+gap	 	
+word	empty	JJ
+gap	, 	
+word	some	QUAN DET
+gap	 	
+word	universities	NN
+gap	 	
+word	don	
+gap	’	
+word	t	
+gap	 	
+word	divulge	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	less	JJ CMADJ
+gap	 	
+word	stimulates	NN
+gap	 	
+word	ungraduated	VBD
+gap	 	
+word	student	NN
+gap	 	
+word	take	INF
+gap	 	
+word	class	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	courses	NN
+gap	. 	
+word	And	ANDC CAP CCONJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	subjects	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	obligatory	JJ
+gap	 	
+word	schedule	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	intense	JJ
+gap	, 	
+word	so	CCONJ
+gap	 	
+word	became	VBD
+gap	 	
+word	almost	DWNT RB
+gap	 	
+word	impossible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	handle	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	knowledge	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	UFMG	CAP NNP
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	is	VPRT AUXB
+gap	 	
+word	trying	PGAS
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	adjust	INF
+gap	 	
+word	schedule	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	courses	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	transfer	INF
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	obligatory	JJ
+gap	 	
+word	schedule	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	alternative	INF
+gap	 	
+word	subject	JJ
+gap	 (	
+word	related	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	student	INF
+gap	’	
+word	s	
+gap	 	
+word	major	NN
+gap	). 	
+word	For	PIN CAP PREP
+gap	 	
+word	example	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	pharmacy	NN
+gap	 	
+word	undergrad	NN
+gap	 	
+word	course	NN
+gap	, 	
+word	approximately	RB
+gap	 300 	
+word	hours	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	obligatory	JJ
+gap	 	
+word	schedule	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	transfer	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	alternative	JJ
+gap	 	
+word	subject	NN
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	change	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	university	NOMZ
+gap	 	
+word	want	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	turn	INF
+gap	 	
+word	student	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	major	JJ
+gap	 	
+word	responsible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	construct	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	journey	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	wisdom	NN
+gap	.\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	conclusion	NOMZ
+gap	, 	
+word	interdisciplinary	NN
+gap	 	
+word	suppose	VPRT PRIV
+gap	 	
+word	openness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thought	PRIV NN
+gap	, 	
+word	curiosity	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	seek	VPRT
+gap	 	
+word	beyond	PIN PREP
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	antique	JJ
+gap	, 	
+word	interdisciplinary	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	concept	NN
+gap	 	
+word	difficult	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	defined	
+gap	 	
+word	and	CCONJ
+gap	 	
+word	even	RB
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	put	INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	ordinary	JJ
+gap	 	
+word	life	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	barrier	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	constructed	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	educational	JJ
+gap	 	
+word	institution	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	personal	JJ
+gap	 	
+word	behavior	NN
+gap	. 	
+word	Meanwhile	RB CAP
+gap	, 	
+word	dynamism	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	bring	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	necessity	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	complexity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	society	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	cultures	NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	opportunities	NN
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	major	JJ
+gap	 	
+word	responsible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	construct	INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	own	JJ
+gap	 	
+word	journey	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	catch	INF
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	wisdom	NN
+gap	.     \n	

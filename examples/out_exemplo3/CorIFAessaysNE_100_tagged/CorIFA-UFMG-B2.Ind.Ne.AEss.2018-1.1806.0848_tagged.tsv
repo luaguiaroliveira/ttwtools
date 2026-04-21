@@ -1,558 +1,997 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1806.0848.txt
-token	tags
-  	
-The	ART CAP DET
-League	CAP NNP
-of	PIN PREP
-Nations	CAP NNP
-and	CCONJ
-the	ART DET
-United	CAP NNP
-Nations	CAP NNP
-are	VPRT AUXB
-examples	NN
-of	PIN PREP
-international	JJ
-organizations	NOMZ
-that	TSUB WHSUB WH
-are	BEMA VPRT AUXB
-of	PIN PREP
-extreme	JJ
-importance	NN
-for	PIN PREP
-cooperation	NOMZ
-among	PIN PREP
-States	PUBV CAP NNP
-in	PIN CONJ PREP
-the	ART DET
-international	JJ
-system	NN
-.	
-The	ART CAP DET
-League	CAP NNP
-of	PIN PREP
-Nations	CAP NNP
-was	PASS VBD AUXB
-created	
-at	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-World	CAP NNP
-War	CAP NNP
-I	FPP1 CAP PRP SBJP
-to	PIN TO PREP
-prevent	INF
-conflicts	NN
-of	PIN PREP
-that	DEMO DET
-magnitude	NN
-from	PIN PREP
-occurring	PGAS
-again	RB TIME
-,	
-but	CCONJ
-it	PIT PRP SBJP
-failed	VBD
-in	PIN CONJ PREP
-some	QUAN DET
-points	NN
-and	CCONJ
-eventually	RB TIME
-ceased	
-to	PIN TO PREP
-exist	INF
-.	
-The	ART CAP DET
-United	CAP NNP
-Nations	CAP NNP
-(	
-UN	CAP NNP
-)	
-was	BEMA VBD AUXB
-the	ART DET
-League	CAP NNP
-that	DEMP WH
-worked	VBD
-.	
-Established	PASTP PRIV CAP
-in	PIN CONJ PREP
-1945	NUM
-at	PIN PREP
-the	ART DET
-end	NN
-of	PIN PREP
-the	ART DET
-World	CAP NNP
-War	CAP NNP
-II	CAP NNP
-,	
-the	ART DET
-UN	CAP NNP
-has	VPRT PEAS
-emerged	
-not	XX0 RB
-only	DWNT RB
-to	PIN TO PREP
-prevent	INF
-new	JJ
-wars	NN
-from	PIN PREP
-happening	PGAS
-,	
-but	CCONJ
-also	RB
-to	PIN TO PREP
-defend	INF
-the	ART DET
-rights	NN
-of	PIN PREP
-both	DET
-States	PUBV NN CAP
-and	PHC CCONJ
-men	NN
-.	
-These	DEMO CAP DET
-organizations	NOMZ
-were	BEMA VBD AUXB
-important	JJ PRED
-to	PIN PREP
-the	ART DET
-working	NN
-of	PIN PREP
-international	JJ
-system	NN
-known	PRIV
-today	TIME NN
-.	
- 	
-The	ART CAP DET
-First	CAP NNP
-World	CAP NNP
-War	CAP NNP
-ended	VBD
-with	PIN PREP
-the	ART DET
-Peace	CAP NNP
-Conference	CAP NNP
-,	
-which	SERE DET WH
-adopted	VBD
-on	PIN PREP
-April	CAP NNP
-,	
-28	NUM
-of	PIN PREP
-1919	NUM
-,	
-the	ART DET
-League	CAP NNP
-of	PIN PREP
-Nations	CAP NNP
-.	
-It	PIT CAP PRP SBJP
-was	BEMA VBD AUXB
-a	ART DET INDA
-permanent	JJ
-association	NOMZ
-,	
-which	SERE DET WH
-aimed	VBD
-at	PIN PREP
-collective	JJ
-security	NOMZ
-among	PIN PREP
-States	PUBV CAP NNP
-.	
-Its	PIT CAP PRP SBJP
-function	NOMZ
-was	VBD AUXB
-:	
-safety	NN
-,	
-economic	JJ
-,	
-social	JJ
-and	PHC CCONJ
-humanitarian	JJ
-cooperation	NOMZ
-,	
-and	ANDC CCONJ
-implementation	NOMZ
-of	PIN PREP
-points	NN
-of	PIN PREP
-the	ART DET
-Treaty	CAP NNP
-of	PIN PREP
-Versailles	CAP NNP
-.	
-The	ART CAP DET
-League	CAP NNP
-was	BEMA VBD AUXB
-first	JJ PRED
-International	CAP NNP
-Organization	CAP NNP
-dealing	WZPRES PGAS
-with	PIN PREP
-peace	NN
-with	PIN PREP
-legal	JJ
-mechanisms	NN
-,	
-and	ANDC CCONJ
-only	DWNT RB
-possible	JJ
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-a	ART DET INDA
-large	JJ
-number	NN
-of	PIN PREP
-deaths	NN
-in	PIN CONJ PREP
-the	ART DET
-war	NN
-.	
- 	
-The	ART CAP DET
-United	CAP NNP
-Nation	CAP NNP
-emerged	VBD
-after	PIN PREP
-the	ART DET
-Second	CAP NNP
-World	CAP NNP
-War	CAP NNP
-by	PIN PREP
-the	ART DET
-Charter	CAP NNP
-of	PIN PREP
-the	ART DET
-United	CAP NNP
-Nations	CAP NNP
-,	
-adopted	PASTP
-on	PIN PREP
-June	CAP NNP
-29	NUM
-,	
-1945	NUM
-.	
-During	PIN CAP PREP
-the	ART DET
-Nazi	CAP NNP
-coalition	NOMZ
-,	
-the	ART DET
-United	CAP NNP
-States	PUBV CAP NNP
-and	CCONJ
-the	ART DET
-United	CAP NNP
-Kingdom	CAP NNP
-established	VBD PRIV
-principles	NN
-that	TSUB WHSUB WH
-would	PRMD
-guide	INF
-international	JJ
-relations	NOMZ
-after	PIN PREP
-the	ART DET
-war	NN
-.	
-The	ART CAP DET
-main	JJ
-function	NOMZ
-of	PIN PREP
-United	CAP NNP
-Nation	CAP NNP
-is	VPRT AUXB
-security	NOMZ
-administration	NOMZ
-;	
-equality	NOMZ
-between	PIN PREP
-sovereign	JJ
-states	PUBV NN
-.	
- 	
-Its	PIT CAP PRP SBJP
-action	NOMZ
-goes	VPRT
-beyond	PIN PREP
-the	ART DET
-principle	NN
-that	PIN TOBJ SCONJ PREP
-international	JJ
-law	NN
-is	PASS VPRT AUXB
-constituted	
-of	PIN PREP
-norms	NN
-referring	WZPRES PGAS
-only	DWNT RB
-to	PIN PREP
-the	ART DET
-States	PUBV CAP NNP
-an	ART DET INDA
-example	NN
-is	BEMA VPRT AUXB
-the	ART DET
-Universal	CAP NNP
-Declaration	CAP NNP
-of	PIN PREP
-Human	CAP NNP
-Rights	CAP NNP
-adopted	
-by	PIN PREP
-a	ART DET INDA
-big	JJ
-amount	NN
-of	PIN PREP
-States	PUBV CAP NNP
-in	PIN CONJ PREP
-1948	NUM
-.	
- 	
-Some	QUAN CAP DET
-of	PIN PREP
-the	ART DET
-important	JJ
-achievements	NOMZ
-of	PIN PREP
-the	ART DET
-League	CAP NNP
-of	PIN PREP
-Nations	CAP NNP
-was	BEMA VBD AUXB
-that	DEMO DET
-specific	JJ
-declarations	NOMZ
-and	PHC CCONJ
-conventions	NOMZ
-have	VPRT PEAS
-been	PASS AUXB
-adopted	
-worldwide	RB
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-place	INF
-racial	JJ
-,	
-religious	JJ
-or	CCONJ
-linguistic	JJ
-minorities	NN
-under	PIN PREP
-international	JJ
-guarantees	PUBV NN
-.	
-The	ART CAP DET
-United	CAP NNP
-Nations	CAP NNP
-was	BEMA VBD AUXB
-responsible	JJ PRED
-for	PIN PREP
-drawing	PGAS
-up	PIN PREP
-agreements	NOMZ
-between	PIN PREP
-aligned	JJ
-and	PHC CCONJ
-non	JJ
--	JJ
-aligned	JJ
-and	CCONJ
-very	AMP RB
-effective	JJ
-states	PUBV NN
-in	PIN CONJ PREP
-the	ART DET
-decolonization	NOMZ
-disputes	NN
-,	
-taking	PGAS
-Africa	CAP NNP
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-imperialist	JJ
-remnants	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-also	RB
-responsible	JJ
-for	PIN PREP
-producing	PGAS
-numerous	JJ
-policy	NN
-studies	NN
-and	PHC CCONJ
-reports	PUBV NN
-covering	WZPRES PGAS
-a	ART DET INDA
-wide	JJ
-range	NN
-of	PIN PREP
-economic	JJ
-and	PHC CCONJ
-social	JJ
-issues	NN
-of	PIN PREP
-global	JJ
-concern	NN
-.	
-Humanitarian	JJ CAP
-issues	NN
-at	PIN PREP
-the	ART DET
-UN	CAP NNP
-also	RB
-gained	VBD
-momentum	NN
-,	
-and	ANDC CCONJ
-with	PIN PREP
-that	DEMP DET
-began	VBD
-the	ART DET
-creation	NOMZ
-of	PIN PREP
-UNICEF	CAP NNP
-and	CCONJ
-the	ART DET
-World	CAP NNP
-Organization	CAP NNP
-of	PIN PREP
-Refugees	CAP NNP
-to	PIN TO PREP
-deal	INF
-with	PIN PREP
-the	ART DET
-mass	JJ
-social	JJ
-dislocations	NOMZ
-,	
-famine	NN
-and	PHC CCONJ
-refugee	NN
-flows	NN
-resulting	WZPRES PGAS
-from	PIN PREP
-the	ART DET
-Second	CAP NNP
-World	CAP NNP
-War	CAP NNP
-.	
-Major	JJ CAP
-natural	JJ
-disasters	NN
-in	PIN CONJ PREP
-the	ART DET
-early	JJ TIME
-1970s	NN
-generated	VBD
-the	ART DET
-need	NN
-for	PIN PREP
-greater	JJ CMADJ
-coordination	NOMZ
-of	PIN PREP
-the	ART DET
-UN	CAP NNP
-and	CCONJ
-its	PIT PRP SBJP
-agencies	NN
-in	PIN CONJ PREP
-providing	PGAS
-humanitarian	JJ
-services	NN
- 	
-To	PIN TO CAP PREP
-conclude	PRIV INF
-,	
-the	ART DET
-League	CAP NNP
-of	PIN PREP
-Nations	CAP NNP
-and	CCONJ
-the	ART DET
-United	CAP NNP
-Nations	CAP NNP
-were	BEMA VBD AUXB
-the	ART DET
-first	JJ
-organizations	NOMZ
-of	PIN PREP
-international	JJ
-scope	NN
-that	TSUB WHSUB WH
-were	BEMA VBD AUXB
-able	JJ PRED
-to	PIN TO PREP
-establish	PRIV INF
-an	ART DET INDA
-agreement	NOMZ
-among	PIN PREP
-countries	NN
-that	TSUB WHSUB WH
-had	VBD
-some	QUAN DET
-type	NN
-of	PIN PREP
-conflict	NN
-between	PIN PREP
-them	TPP3 PRP SBJP ACCU
-.	
-The	ART CAP DET
-main	JJ
-importance	NN
-,	
-however	RB CONJ
-,	
-was	BEMA VBD AUXB
-that	PIN DEMO SCONJ PREP
-these	DEMO DET
-organizations	NOMZ
-opened	VBD
-the	ART DET
-eyes	NN
-of	PIN PREP
-the	ART DET
-world	NN
-to	PIN PREP
-the	ART DET
-issues	NN
-of	PIN PREP
-being	BEMA AUXB
-human	JJ PRED
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-we	FPP1 PRP SBJP
-have	VPRT
-rights	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-respected	
-and	PHC CCONJ
-protected	
-,	
-and	ANDC CCONJ
-that	PIN THVC SCONJ PREP
-this	DEMO DET
-function	NOMZ
-is	BEMA VPRT AUXB
-due	JJ PRED
-to	PIN PREP
-the	ART DET
-State	PUBV CAP NNP
-to	PIN TO PREP
-guarantee	PUBV INF
-our	FPP1 PRP SBJP
-rights	NN
-.	
- 	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1806.0848>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	examples	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	organizations	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	extreme	JJ
+gap	 	
+word	importance	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	cooperation	NOMZ
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	States	PUBV CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	international	JJ
+gap	 	
+word	system	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	created	
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	War	CAP NNP
+gap	 	
+word	I	FPP1 CAP PRP SBJP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prevent	INF
+gap	 	
+word	conflicts	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	magnitude	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	occurring	PGAS
+gap	 	
+word	again	RB TIME
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	failed	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	points	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	eventually	RB TIME
+gap	 	
+word	ceased	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	exist	INF
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nations	CAP NNP
+gap	 (	
+word	UN	CAP NNP
+gap	) 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	that	DEMP WH
+gap	 	
+word	worked	VBD
+gap	. 	
+word	Established	PASTP PRIV CAP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1945 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	end	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	War	CAP NNP
+gap	 	
+word	II	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	UN	CAP NNP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	emerged	
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	prevent	INF
+gap	 	
+word	new	JJ
+gap	 	
+word	wars	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	happening	PGAS
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	defend	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	rights	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	both	DET
+gap	 	
+word	States	PUBV NN CAP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	men	NN
+gap	. 	
+word	These	DEMO CAP DET
+gap	 	
+word	organizations	NOMZ
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	working	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	system	NN
+gap	 	
+word	known	PRIV
+gap	 	
+word	today	TIME NN
+gap	. \n	
+word	The	ART CAP DET
+gap	 	
+word	First	CAP NNP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	War	CAP NNP
+gap	 	
+word	ended	VBD
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Peace	CAP NNP
+gap	 	
+word	Conference	CAP NNP
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	adopted	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	April	CAP NNP
+gap	, 28 	
+word	of	PIN PREP
+gap	 1919, 	
+word	the	ART DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nations	CAP NNP
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	permanent	JJ
+gap	 	
+word	association	NOMZ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	aimed	VBD
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	collective	JJ
+gap	 	
+word	security	NOMZ
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	States	PUBV CAP NNP
+gap	. 	
+word	Its	PIT CAP PRP SBJP
+gap	 	
+word	function	NOMZ
+gap	 	
+word	was	VBD AUXB
+gap	: 	
+word	safety	NN
+gap	, 	
+word	economic	JJ
+gap	, 	
+word	social	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	humanitarian	JJ
+gap	 	
+word	cooperation	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	implementation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	points	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Treaty	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Versailles	CAP NNP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	first	JJ PRED
+gap	 	
+word	International	CAP NNP
+gap	 	
+word	Organization	CAP NNP
+gap	 	
+word	dealing	WZPRES PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	peace	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	legal	JJ
+gap	 	
+word	mechanisms	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	possible	JJ
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	large	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	deaths	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	war	NN
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nation	CAP NNP
+gap	 	
+word	emerged	VBD
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Second	CAP NNP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	War	CAP NNP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Charter	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nations	CAP NNP
+gap	, 	
+word	adopted	PASTP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	June	CAP NNP
+gap	 29, 1945. 	
+word	During	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Nazi	CAP NNP
+gap	 	
+word	coalition	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	States	PUBV CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Kingdom	CAP NNP
+gap	 	
+word	established	VBD PRIV
+gap	 	
+word	principles	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	would	PRMD
+gap	 	
+word	guide	INF
+gap	 	
+word	international	JJ
+gap	 	
+word	relations	NOMZ
+gap	 	
+word	after	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	war	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	function	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nation	CAP NNP
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	security	NOMZ
+gap	 	
+word	administration	NOMZ
+gap	; 	
+word	equality	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	sovereign	JJ
+gap	 	
+word	states	PUBV NN
+gap	.  	
+word	Its	PIT CAP PRP SBJP
+gap	 	
+word	action	NOMZ
+gap	 	
+word	goes	VPRT
+gap	 	
+word	beyond	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	principle	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	law	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	constituted	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	norms	NN
+gap	 	
+word	referring	WZPRES PGAS
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	States	PUBV CAP NNP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	example	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	Universal	CAP NNP
+gap	 	
+word	Declaration	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Human	CAP NNP
+gap	 	
+word	Rights	CAP NNP
+gap	 	
+word	adopted	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	big	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	States	PUBV CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 1948.\n	
+word	Some	QUAN CAP DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	important	JJ
+gap	 	
+word	achievements	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	specific	JJ
+gap	 	
+word	declarations	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	conventions	NOMZ
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	adopted	
+gap	 	
+word	worldwide	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	place	INF
+gap	 	
+word	racial	JJ
+gap	, 	
+word	religious	JJ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	linguistic	JJ
+gap	 	
+word	minorities	NN
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	guarantees	PUBV NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	responsible	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	drawing	PGAS
+gap	 	
+word	up	PIN PREP
+gap	 	
+word	agreements	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	aligned	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	non	JJ
+gap	-	
+word	aligned	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	very	AMP RB
+gap	 	
+word	effective	JJ
+gap	 	
+word	states	PUBV NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	decolonization	NOMZ
+gap	 	
+word	disputes	NN
+gap	, 	
+word	taking	PGAS
+gap	 	
+word	Africa	CAP NNP
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	imperialist	JJ
+gap	 	
+word	remnants	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	responsible	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	producing	PGAS
+gap	 	
+word	numerous	JJ
+gap	 	
+word	policy	NN
+gap	 	
+word	studies	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	reports	PUBV NN
+gap	 	
+word	covering	WZPRES PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	wide	JJ
+gap	 	
+word	range	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	economic	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	social	JJ
+gap	 	
+word	issues	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	global	JJ
+gap	 	
+word	concern	NN
+gap	. 	
+word	Humanitarian	JJ CAP
+gap	 	
+word	issues	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UN	CAP NNP
+gap	 	
+word	also	RB
+gap	 	
+word	gained	VBD
+gap	 	
+word	momentum	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	began	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	UNICEF	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	Organization	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Refugees	CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	deal	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	mass	JJ
+gap	 	
+word	social	JJ
+gap	 	
+word	dislocations	NOMZ
+gap	, 	
+word	famine	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	refugee	NN
+gap	 	
+word	flows	NN
+gap	 	
+word	resulting	WZPRES PGAS
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Second	CAP NNP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	War	CAP NNP
+gap	. 	
+word	Major	JJ CAP
+gap	 	
+word	natural	JJ
+gap	 	
+word	disasters	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	early	JJ TIME
+gap	 1970	
+word	s	NN
+gap	 	
+word	generated	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	need	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	coordination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	UN	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	agencies	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	providing	PGAS
+gap	 	
+word	humanitarian	JJ
+gap	 	
+word	services	NN
+gap	\n	
+word	To	PIN TO CAP PREP
+gap	 	
+word	conclude	PRIV INF
+gap	, 	
+word	the	ART DET
+gap	 	
+word	League	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	Nations	CAP NNP
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	organizations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	international	JJ
+gap	 	
+word	scope	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	establish	PRIV INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	agreement	NOMZ
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	countries	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	had	VBD
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	type	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	conflict	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	main	JJ
+gap	 	
+word	importance	NN
+gap	, 	
+word	however	RB CONJ
+gap	, 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	organizations	NOMZ
+gap	 	
+word	opened	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	eyes	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	world	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	issues	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	human	JJ PRED
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	rights	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	respected	
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	protected	
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	function	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	due	JJ PRED
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	State	PUBV CAP NNP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	guarantee	PUBV INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	rights	NN
+gap	.\n	

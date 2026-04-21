@@ -1,705 +1,1273 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1817.0400.txt
-token	tags
-    	
-By	PIN CAP PREP
-using	PGAS
-a	ART DET INDA
-library	NN
-catalog	NN
-,	
-we	FPP1 PRP SBJP
-have	VPRT
-all	QUAN DET
-been	PASS AUXB
-frustrated	
-because	CAUS PIN SCONJ PREP
-we	FPP1 PRP SBJP
-needed	VBD
-to	PIN TO PREP
-go	INF
-through	PIN PREP
-multiple	JJ
-pages	NN
-with	PIN PREP
-records	NN
-of	PIN PREP
-different	JJ
-resources	NN
-and	CCONJ
-had	VBD
-no	SYNE DET
-clarity	NOMZ
-of	PIN PREP
-which	PIRE DET WH
-ones	NN
-would	PRMD SPAU
-most	RB EMPH SPADJ
-accurately	RB
-answer	INF
-our	FPP1 PRP SBJP
-search	NN
-query	NN
-.	
-Catalogs	NN CAP
-are	VPRT AUXB
-usually	RB
-compilations	NOMZ
-of	PIN PREP
-repeated	PUBV
-,	
-overly	RB
-detailed	JJ
-and	CCONJ
-poorly	RB
-articulated	
-records	NN
-,	
-arranged	PASTP SUAV
-in	PIN CONJ PREP
-an	ART DET INDA
-unfriendly	JJ
-interface	NN
-and	CCONJ
-lacking	PGAS
-relationships	NN
-that	TSUB WHSUB WH
-facilitate	VPRT
-the	ART DET
-choice	NN
-of	PIN PREP
-users	NN
-by	PIN PREP
-the	ART DET
-resources	NN
-sought	
-or	CCONJ
-other	JJ
-related	JJ
-resources	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-experience	NN
-can	POMD
-be	BEMA AUXB INF
-completely	AMP RB
-different	JJ
-.	
-The	ART CAP DET
-development	NOMZ
-of	PIN PREP
-catalogs	NN
-according	WZPRES PGAS
-to	PIN PREP
-the	ART DET
-guidelines	NN
-defined	WZPAST
-by	PIN PREP
-the	ART DET
-Functional	CAP NNP
-Requirements	CAP NNP
-for	PIN PREP
-Bibliographic	CAP NNP
-Records	CAP NNP
-(	
-RFBR	CAP NNP
-)	
-can	POMD
-facilitate	INF
-the	ART DET
-search	NN
-of	PIN PREP
-users	NN
-and	CCONJ
-make	INF
-the	ART DET
-navigation	NOMZ
-experience	NN
-richer	JJ CMADJ
-,	
-since	OSUB PIN SCONJ PREP
-the	ART DET
-records	NN
-are	PASS VPRT AUXB
-presented	
-not	XX0 RB
-only	DWNT RB
-as	PIN CONJ PREP
-a	ART DET INDA
-listing	NN
-but	CCONJ
-based	
-on	PIN PREP
-greater	JJ CMADJ
-standardization	NOMZ
-and	CCONJ
-focused	VBD
-on	PIN PREP
-the	ART DET
-conceptual	JJ
-relationships	NN
-that	PIN TOBJ SCONJ PREP
-the	ART DET
-different	JJ
-resources	NN
-establish	PRIV INF
-among	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-.	
-  	
-According	CAP PGAS
-to	PIN PREP
-FRBR	CAP NNP
-,	
-the	ART DET
-catalog	NN
-is	BEMA VPRT AUXB
-not	XX0 RB
-a	ART DET INDA
-sequence	NN
-of	PIN PREP
-bibliographic	JJ
-records	NN
-and	CCONJ
-a	ART DET INDA
-copy	NN
-of	PIN PREP
-the	ART DET
-traditional	JJ
-catalog	NN
-,	
-but	CCONJ
-rather	RB
-the	ART DET
-network	NN
-of	PIN PREP
-interconnected	
-data	NN
-,	
-enabling	PRESP PGAS
-the	ART DET
-user	NN
-to	PIN TO PREP
-perform	INF
-seamlessly	RB
-all	QUAN DET
-the	ART DET
-necessary	JJ
-functions	NOMZ
-(	
-IFLA	CAP NNP
-,	
-2008	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-allow	SUAV INF
-related	JJ
-data	NN
-to	PIN TO PREP
-be	PASS AUXB INF
-displayed	
-in	PIN CONJ PREP
-an	ART DET INDA
-articulated	JJ
-way	NN
-as	PIN CONJ PREP
-search	NN
-results	NN
-,	
-this	DEMO DET
-conceptual	JJ
-model	NN
-proposes	VPRT SUAV
-the	ART DET
-connection	NOMZ
-between	PIN PREP
-eleven	NUM
-entities	NN
-that	TSUB WHSUB WH
-aim	VPRT
-to	PIN TO PREP
-cover	INF
-the	ART DET
-description	NOMZ
-of	PIN PREP
-formal	JJ
-,	
-intellectual	JJ
-,	
-authorial	NN
-and	PHC CCONJ
-content	NN
-aspects	NN
-of	PIN PREP
-documents	NOMZ
-.	
-This	DEMO CAP DET
-structure	NN
-is	PASS VPRT AUXB
-based	
-on	PIN PREP
-the	ART DET
-Entity	CAP NNP
--	
-Relationship	CAP NNP
-model	NN
-and	CCONJ
-is	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-appropriate	JJ
-to	PIN PREP
-the	ART DET
-digital	JJ
-environment	NOMZ
-,	
-as	PIN CONJ PREP
-it	PIT PRP SBJP
-abandons	VPRT
-the	ART DET
-logic	NN
-of	PIN PREP
-composition	NOMZ
-and	PHC CCONJ
-presentation	NOMZ
-inherited	WZPAST
-from	PIN PREP
-card	NN
-catalogs	NN
-and	CCONJ
-proposes	VPRT SUAV
-solutions	NOMZ
-that	TSUB WHSUB WH
-consider	VPRT PRIV
-the	ART DET
-web	NN
-browsing	WZPRES PGAS
-experience	NN
-.	
-Thus	RB CONJ CAP
-,	
-FRBR	CAP NNP
-proposes	VPRT SUAV
-a	ART DET INDA
-definitive	JJ
-entry	NN
-of	PIN PREP
-catalogs	NN
-in	PIN CONJ PREP
-the	ART DET
-digital	JJ
-world	NN
-and	CCONJ
-the	ART DET
-abandonment	NOMZ
-of	PIN PREP
-surpassed	
-practices	NN
-that	TSUB WHSUB WH
-make	VPRT
-users	NN
-consider	PRIV INF
-them	TPP3 PRP SBJP ACCU
-ineffective	JJ
-search	NN
-engines	NN
-.	
-  	
-As	PIN CONJ CAP PREP
-the	ART DET
-resources	NN
-will	PRMD
-be	PASS BYPA AUXB INF
-articulated	
-by	PIN PREP
-the	ART DET
-eleven	NUM
-entities	NN
-that	TSUB WHSUB WH
-structure	VPRT
-the	ART DET
-model	NN
-,	
-they	TPP3 PRP SBJP
-can	POMD
-be	PASS AUXB INF
-shown	PRIV
-in	PIN CONJ PREP
-a	ART DET INDA
-more	JJ EMPH CMADJ
-user	NN
--	
-friendly	JJ
-way	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-search	NN
-is	PASS VPRT BYPA AUXB
-made	
-by	PIN PREP
-Macunaíma	CAP NNP
-,	
-from	PIN PREP
-Mário	CAP NNP
-de	NNP
-Andrade	CAP NNP
-,	
-the	ART DET
-user	NN
-will	PRMD
-be	PASS AUXB INF
-referred	
-to	PIN PREP
-the	ART DET
-novel	NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-will	PRMD SPAU
-also	RB
-be	PASS AUXB INF
-shown	PRIV
-that	PIN THVC SCONJ PREP
-in	PIN CONJ PREP
-that	DEMO DET
-catalog	NN
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-derivative	JJ
-work	NN
-,	
-which	SERE DET WH
-consists	VPRT
-of	PIN PREP
-an	ART DET INDA
-adaptation	NOMZ
-of	PIN PREP
-the	ART DET
-novel	JJ
-Macunaíma	CAP NNP
-for	PIN PREP
-the	ART DET
-theater	NN
-.	
-The	ART CAP DET
-user	NN
-'s	
-first	JJ
-choice	NN
-is	BEMA VPRT AUXB
-then	RB
-to	PIN TO PREP
-address	INF
-the	ART DET
-set	NN
-of	PIN PREP
-documents	NOMZ
-related	WZPAST
-to	PIN PREP
-the	ART DET
-original	JJ
-work	NN
-,	
-or	CCONJ
-to	PIN PREP
-the	ART DET
-set	NN
-of	PIN PREP
-documents	NOMZ
-related	WZPAST
-to	PIN PREP
-the	ART DET
-derivative	JJ
-work	NN
-.	
-With	PIN CAP PREP
-regard	NN
-to	PIN PREP
-the	ART DET
-original	JJ
-work	NN
-,	
-for	PIN PREP
-example	NN
-:	
-the	ART DET
-novel	NN
-itself	PIT PRP SBJP ACCU
-,	
-the	ART DET
-translations	NOMZ
-for	PIN PREP
-other	JJ
-languages	NN
-,	
-audiobooks	NN
-,	
-the	ART DET
-different	JJ
-editions	NOMZ
-published	
-and	CCONJ
-the	ART DET
-identification	NOMZ
-of	PIN PREP
-the	ART DET
-place	NN
-of	PIN PREP
-custody	NN
-of	PIN PREP
-each	QUAN DET
-one	NUM
-of	PIN PREP
-the	ART DET
-items	NN
-.	
-Unlike	PIN CAP PREP
-the	ART DET
-traditional	JJ
-catalog	NN
-,	
-Le	CAP NNP
-Boeuf	CAP NNP
-argues	VPRT PUBV
-(	
-2007	NUM
-)	
-that	PIN DEMO SCONJ PREP
-in	PIN CONJ PREP
-a	ART DET INDA
-catalog	NN
-structured	WZPAST
-on	PIN PREP
-the	ART DET
-FRBR	CAP NNP
-model	NN
-the	ART DET
-records	NN
-are	PASS VPRT SPAU AUXB
-hierarchically	RB
-arranged	SUAV
-so	PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-reflect	PRIV INF
-the	ART DET
-level	NN
-of	PIN PREP
-relationship	NN
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-establish	VPRT PRIV
-with	PIN PREP
-the	ART DET
-work	NN
-sought	
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-way	NN
-,	
-the	ART DET
-user	NN
-has	VPRT
-the	ART DET
-ability	NOMZ
-to	PIN TO PREP
-choose	INF
-more	RB EMPH CMADJ
-clearly	RB
-which	DET WH
-documents	NOMZ
-are	BEMA VPRT AUXB
-best	RB SPADJ
-suited	JJ
-to	PIN PREP
-the	ART DET
-search	NN
-query	NN
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-not	XX0 RB
-necessary	JJ
-to	PIN TO PREP
-go	INF
-through	PIN PREP
-an	ART DET INDA
-infinite	JJ
-listing	NN
-of	PIN PREP
-isolated	JJ
-and	CCONJ
-frequently	RB
-repeated	PUBV
-records	NN
-.	
-There	EX CAP
-is	VPRT AUXB
-comprehensibility	NOMZ
-about	PIN PREP
-the	ART DET
-resources	NN
-available	JJ
-since	OSUB PIN SCONJ PREP
-different	JJ
-resources	NN
-can	POMD
-be	PASS AUXB INF
-grouped	
-around	PIN PLACE PREP
-the	ART DET
-same	JJ
-work	NN
-,	
-while	OSUB PIN SCONJ PREP
-identical	JJ
-resources	NN
-are	PASS VPRT AUXB
-referenced	
-only	DWNT RB
-once	RB TIME
-and	CCONJ
-without	PIN PREP
-redundancy	NN
-.	
-  	
-Failure	NN CAP
-in	PIN CONJ PREP
-representing	GER PGAS
-a	ART DET INDA
-portion	NOMZ
-of	PIN PREP
-the	ART DET
-bibliographic	JJ
-universe	NN
-larger	JJ CMADJ
-than	PIN PREP
-a	ART DET INDA
-record	NN
-relating	WZPRES PGAS
-to	PIN PREP
-a	ART DET INDA
-single	JJ
-item	NN
-in	PIN CONJ PREP
-an	ART DET INDA
-orderly	JJ
-way	NN
-,	
-stands	VPRT
-out	PIN PREP
-as	PIN CONJ PREP
-one	NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-evident	JJ
-deficiencies	NN
-of	PIN PREP
-the	ART DET
-traditional	JJ
-catalogs	NN
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-FRBR	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-path	NN
-to	PIN TO PREP
-grant	SUAV INF
-a	ART DET INDA
-logical	JJ
-and	CCONJ
-well	RB
--	
-organized	
-arrangement	NOMZ
-of	PIN PREP
-data	NN
-relating	WZPRES PGAS
-to	PIN PREP
-surrogates	NN
-for	PIN PREP
-documents	NOMZ
-.	
-This	DEMO CAP DET
-conceptual	JJ
-model	NN
-can	POMD
-orientate	INF
-online	JJ
-library	NN
-catalogs	NN
-to	PIN TO PREP
-respond	INF
-better	RB CMADJ
-to	PIN PREP
-the	ART DET
-needs	NN
-of	PIN PREP
-users	NN
-,	
-increasing	GER PGAS
-their	TPP3 PRP SBJP
-ability	NOMZ
-to	PIN TO PREP
-discover	PRIV INF
-and	PHC CCONJ
-choose	INF
-easily	RB
-the	ART DET
-documents	NOMZ
-they	TPP3 PRP SBJP
-want	VPRT
-.	
-It	PIT CAP PRP SBJP
-can	POMD SPAU
-also	RB
-broaden	INF
-and	PHC CCONJ
-clarify	INF
-the	ART DET
-existing	PGAS
-links	NN
-between	PIN PREP
-different	JJ
-works	NN
-,	
-which	SERE DET WH
-allows	VPRT SUAV
-to	PIN TO PREP
-enhance	INF
-the	ART DET
-effectiveness	NOMZ
-of	PIN PREP
-the	ART DET
-searches	NN
-made	WZPAST
-by	PIN PREP
-users	NN
-and	CCONJ
-,	
-consequently	RB CONJ
-,	
-their	TPP3 PRP SBJP
-level	NN
-of	PIN PREP
-satisfaction	NOMZ
-in	PIN CONJ PREP
-the	ART DET
-use	NN
-of	PIN PREP
-these	DEMO DET
-devices	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1817.0400>\n\n<Why FRBR can be a solution to re-link users and libraries?>\n\n	
+word	By	PIN CAP PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	library	NN
+gap	 	
+word	catalog	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	frustrated	
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	needed	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	go	INF
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	multiple	JJ
+gap	 	
+word	pages	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	records	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	resources	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	had	VBD
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	clarity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	which	PIRE DET WH
+gap	 	
+word	ones	NN
+gap	 	
+word	would	PRMD SPAU
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	accurately	RB
+gap	 	
+word	answer	INF
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	search	NN
+gap	 	
+word	query	NN
+gap	. 	
+word	Catalogs	NN CAP
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	usually	RB
+gap	 	
+word	compilations	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	repeated	PUBV
+gap	, 	
+word	overly	RB
+gap	 	
+word	detailed	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	poorly	RB
+gap	 	
+word	articulated	
+gap	 	
+word	records	NN
+gap	, 	
+word	arranged	PASTP SUAV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	unfriendly	JJ
+gap	 	
+word	interface	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	lacking	PGAS
+gap	 	
+word	relationships	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	facilitate	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	choice	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	users	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	resources	NN
+gap	 	
+word	sought	
+gap	 	
+word	or	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	related	JJ
+gap	 	
+word	resources	NN
+gap	. 	
+word	However	RB CONJ CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	experience	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	completely	AMP RB
+gap	 	
+word	different	JJ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	catalogs	NN
+gap	 	
+word	according	WZPRES PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	guidelines	NN
+gap	 	
+word	defined	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Functional	CAP NNP
+gap	 	
+word	Requirements	CAP NNP
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	Bibliographic	CAP NNP
+gap	 	
+word	Records	CAP NNP
+gap	 (	
+word	RFBR	CAP NNP
+gap	) 	
+word	can	POMD
+gap	 	
+word	facilitate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	search	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	users	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	navigation	NOMZ
+gap	 	
+word	experience	NN
+gap	 	
+word	richer	JJ CMADJ
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	records	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	presented	
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	listing	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	greater	JJ CMADJ
+gap	 	
+word	standardization	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	focused	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	conceptual	JJ
+gap	 	
+word	relationships	NN
+gap	 	
+word	that	PIN TOBJ SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	different	JJ
+gap	 	
+word	resources	NN
+gap	 	
+word	establish	PRIV INF
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	themselves	TPP3 PRP SBJP ACCU
+gap	.\n\n	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	FRBR	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	catalog	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	sequence	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	bibliographic	JJ
+gap	 	
+word	records	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	copy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	JJ
+gap	 	
+word	catalog	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	rather	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	network	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	interconnected	
+gap	 	
+word	data	NN
+gap	, 	
+word	enabling	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	user	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	perform	INF
+gap	 	
+word	seamlessly	RB
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	necessary	JJ
+gap	 	
+word	functions	NOMZ
+gap	 (	
+word	IFLA	CAP NNP
+gap	, 2008). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	allow	SUAV INF
+gap	 	
+word	related	JJ
+gap	 	
+word	data	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	displayed	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	articulated	JJ
+gap	 	
+word	way	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	search	NN
+gap	 	
+word	results	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	conceptual	JJ
+gap	 	
+word	model	NN
+gap	 	
+word	proposes	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	connection	NOMZ
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	eleven	NUM
+gap	 	
+word	entities	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	aim	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	cover	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	description	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	formal	JJ
+gap	, 	
+word	intellectual	JJ
+gap	, 	
+word	authorial	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	content	NN
+gap	 	
+word	aspects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	documents	NOMZ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	structure	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Entity	CAP NNP
+gap	-	
+word	Relationship	CAP NNP
+gap	 	
+word	model	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	appropriate	JJ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	digital	JJ
+gap	 	
+word	environment	NOMZ
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	abandons	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	logic	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	composition	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	presentation	NOMZ
+gap	 	
+word	inherited	WZPAST
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	card	NN
+gap	 	
+word	catalogs	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	proposes	VPRT SUAV
+gap	 	
+word	solutions	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	consider	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	web	NN
+gap	 	
+word	browsing	WZPRES PGAS
+gap	 	
+word	experience	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	FRBR	CAP NNP
+gap	 	
+word	proposes	VPRT SUAV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	definitive	JJ
+gap	 	
+word	entry	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	catalogs	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	digital	JJ
+gap	 	
+word	world	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	abandonment	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	surpassed	
+gap	 	
+word	practices	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	make	VPRT
+gap	 	
+word	users	NN
+gap	 	
+word	consider	PRIV INF
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	ineffective	JJ
+gap	 	
+word	search	NN
+gap	 	
+word	engines	NN
+gap	.\n\n	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	resources	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	articulated	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	eleven	NUM
+gap	 	
+word	entities	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	structure	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	model	NN
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	shown	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	user	NN
+gap	-	
+word	friendly	JJ
+gap	 	
+word	way	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	search	NN
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	made	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Macunaíma	
+gap	, 	
+word	from	
+gap	 	
+word	Mário	
+gap	 	
+word	de	
+gap	 	
+word	Andrade	
+gap	, 	
+word	the	
+gap	 	
+word	user	
+gap	 	
+word	will	
+gap	 	
+word	be	
+gap	 	
+word	referred	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	novel	
+gap	, 	
+word	but	
+gap	 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	also	
+gap	 	
+word	be	
+gap	 	
+word	shown	
+gap	 	
+word	that	
+gap	 	
+word	in	
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	catalog	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	derivative	
+gap	 	
+word	work	
+gap	, 	
+word	which	
+gap	 	
+word	consists	
+gap	 	
+word	of	
+gap	 	
+word	an	
+gap	 	
+word	adaptation	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	novel	
+gap	 	
+word	Macunaíma	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	theater	
+gap	. 	
+word	The	
+gap	 	
+word	user	
+gap	'	
+word	s	
+gap	 	
+word	first	
+gap	 	
+word	choice	
+gap	 	
+word	is	
+gap	 	
+word	then	
+gap	 	
+word	to	
+gap	 	
+word	address	
+gap	 	
+word	the	
+gap	 	
+word	set	
+gap	 	
+word	of	
+gap	 	
+word	documents	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	original	
+gap	 	
+word	work	
+gap	, 	
+word	or	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	set	
+gap	 	
+word	of	
+gap	 	
+word	documents	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	derivative	
+gap	 	
+word	work	
+gap	. 	
+word	With	
+gap	 	
+word	regard	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	original	
+gap	 	
+word	work	
+gap	, 	
+word	for	
+gap	 	
+word	example	
+gap	: 	
+word	the	
+gap	 	
+word	novel	
+gap	 	
+word	itself	
+gap	, 	
+word	the	ART DET
+gap	 	
+word	translations	
+gap	 	
+word	for	
+gap	 	
+word	other	
+gap	 	
+word	languages	
+gap	, 	
+word	audiobooks	
+gap	, 	
+word	the	
+gap	 	
+word	different	
+gap	 	
+word	editions	
+gap	 	
+word	published	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	identification	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	place	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	custody	
+gap	 	
+word	of	
+gap	 	
+word	each	
+gap	 	
+word	one	
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	
+gap	 	
+word	items	
+gap	. 	
+word	Unlike	
+gap	 	
+word	the	ART DET
+gap	 	
+word	traditional	
+gap	 	
+word	catalog	
+gap	, 	
+word	Le	
+gap	 	
+word	Boeuf	
+gap	 	
+word	argues	
+gap	 (2007) 	
+word	that	
+gap	 	
+word	in	
+gap	 	
+word	a	
+gap	 	
+word	catalog	
+gap	 	
+word	structured	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	FRBR	
+gap	 	
+word	model	
+gap	 	
+word	the	ART DET
+gap	 	
+word	records	
+gap	 	
+word	are	
+gap	 	
+word	hierarchically	
+gap	 	
+word	arranged	
+gap	 	
+word	so	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	possible	
+gap	 	
+word	to	
+gap	 	
+word	reflect	
+gap	 	
+word	the	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	relationship	
+gap	 	
+word	that	
+gap	 	
+word	they	
+gap	 	
+word	establish	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	work	
+gap	 	
+word	sought	
+gap	. 	
+word	In	
+gap	 	
+word	this	
+gap	 	
+word	way	
+gap	, 	
+word	the	
+gap	 	
+word	user	
+gap	 	
+word	has	
+gap	 	
+word	the	ART DET
+gap	 	
+word	ability	
+gap	 	
+word	to	
+gap	 	
+word	choose	
+gap	 	
+word	more	
+gap	 	
+word	clearly	
+gap	 	
+word	which	
+gap	 	
+word	documents	
+gap	 	
+word	are	
+gap	 	
+word	best	
+gap	 	
+word	suited	
+gap	 	
+word	to	
+gap	 	
+word	the	
+gap	 	
+word	search	
+gap	 	
+word	query	
+gap	, 	
+word	since	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	necessary	
+gap	 	
+word	to	
+gap	 	
+word	go	
+gap	 	
+word	through	
+gap	 	
+word	an	
+gap	 	
+word	infinite	
+gap	 	
+word	listing	
+gap	 	
+word	of	
+gap	 	
+word	isolated	
+gap	 	
+word	and	
+gap	 	
+word	frequently	
+gap	 	
+word	repeated	
+gap	 	
+word	records	
+gap	. 	
+word	There	
+gap	 	
+word	is	
+gap	 	
+word	comprehensibility	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	resources	
+gap	 	
+word	available	
+gap	 	
+word	since	
+gap	 	
+word	different	
+gap	 	
+word	resources	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	grouped	
+gap	 	
+word	around	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	work	
+gap	, 	
+word	while	
+gap	 	
+word	identical	
+gap	 	
+word	resources	
+gap	 	
+word	are	
+gap	 	
+word	referenced	
+gap	 	
+word	only	
+gap	 	
+word	once	
+gap	 	
+word	and	
+gap	 	
+word	without	
+gap	 	
+word	redundancy	
+gap	.\n\n	
+word	Failure	
+gap	 	
+word	in	
+gap	 	
+word	representing	
+gap	 	
+word	a	
+gap	 	
+word	portion	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	bibliographic	
+gap	 	
+word	universe	
+gap	 	
+word	larger	
+gap	 	
+word	than	
+gap	 	
+word	a	
+gap	 	
+word	record	
+gap	 	
+word	relating	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	single	
+gap	 	
+word	item	
+gap	 	
+word	in	
+gap	 	
+word	an	
+gap	 	
+word	orderly	
+gap	 	
+word	way	
+gap	, 	
+word	stands	
+gap	 	
+word	out	
+gap	 	
+word	as	
+gap	 	
+word	one	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	most	
+gap	 	
+word	evident	
+gap	 	
+word	deficiencies	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	traditional	
+gap	 	
+word	catalogs	
+gap	. 	
+word	The	ART DET
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	FRBR	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	path	
+gap	 	
+word	to	
+gap	 	
+word	grant	
+gap	 	
+word	a	
+gap	 	
+word	logical	
+gap	 	
+word	and	
+gap	 	
+word	well	
+gap	-	
+word	organized	
+gap	 	
+word	arrangement	
+gap	 	
+word	of	
+gap	 	
+word	data	
+gap	 	
+word	relating	
+gap	 	
+word	to	
+gap	 	
+word	surrogates	
+gap	 	
+word	for	
+gap	 	
+word	documents	
+gap	. 	
+word	This	
+gap	 	
+word	conceptual	
+gap	 	
+word	model	
+gap	 	
+word	can	
+gap	 	
+word	orientate	
+gap	 	
+word	online	
+gap	 	
+word	library	
+gap	 	
+word	catalogs	
+gap	 	
+word	to	
+gap	 	
+word	respond	
+gap	 	
+word	better	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	the	
+gap	 	
+word	needs	
+gap	 	
+word	of	
+gap	 	
+word	users	
+gap	, 	
+word	increasing	
+gap	 	
+word	their	
+gap	 	
+word	ability	
+gap	 	
+word	to	
+gap	 	
+word	discover	
+gap	 	
+word	and	
+gap	 	
+word	choose	
+gap	 	
+word	easily	
+gap	 	
+word	the	
+gap	 	
+word	documents	
+gap	 	
+word	they	
+gap	 	
+word	want	
+gap	. 	
+word	It	
+gap	 	
+word	can	
+gap	 	
+word	also	
+gap	 	
+word	broaden	
+gap	 	
+word	and	
+gap	 	
+word	clarify	
+gap	 	
+word	the	
+gap	 	
+word	existing	
+gap	 	
+word	links	
+gap	 	
+word	between	
+gap	 	
+word	different	
+gap	 	
+word	works	
+gap	, 	
+word	which	
+gap	 	
+word	allows	
+gap	 	
+word	to	
+gap	 	
+word	enhance	
+gap	 	
+word	the	
+gap	 	
+word	effectiveness	
+gap	 	
+word	of	
+gap	 	
+word	the	ART DET
+gap	 	
+word	searches	
+gap	 	
+word	made	
+gap	 	
+word	by	
+gap	 	
+word	users	
+gap	 	
+word	and	
+gap	, 	
+word	consequently	
+gap	, 	
+word	their	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	satisfaction	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	these	
+gap	 	
+word	devices	
+gap	.	

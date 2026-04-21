@@ -1,996 +1,1705 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2475.1143.txt
-token	tags
-  	
-The	ART CAP DET
-accounting	GER
-standards	NN
-issued	WZPAST
-by	PIN PREP
-IFRS	CAP NNP
-(	
-International	CAP NNP
-Financial	CAP NNP
-Reporting	PUBV CAP NNP
-Standards	CAP NNP
-)	
-Foundation	CAP NNP
-enable	VPRT
-the	ART DET
-investors	NN
-and	CCONJ
-other	JJ
-users	NN
-of	PIN PREP
-financial	JJ
-statements	NOMZ
-access	VPRT
-a	ART DET INDA
-piece	NN
-of	PIN PREP
-accurate	JJ
-and	PHC CCONJ
-high	JJ
--	
-quality	NOMZ
-information	NOMZ
-about	PIN PREP
-leases	NN
-contracts	NN
-.	
-Then	RB CAP
-,	
-the	ART DET
-understanding	GER PRIV
-what	WHOBJ WHCL WH
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-this	DEMO DET
-modality	NOMZ
-of	PIN PREP
-contract	NN
-and	ANDC CCONJ
-how	RB SCONJ WH
-the	ART DET
-same	JJ
-is	PASS VPRT AUXB
-applied	
-in	PIN CONJ PREP
-entrepreneurial	JJ
-context	NN
-is	BEMA VPRT AUXB
-the	ART DET
-reason	PRIV NN
-of	PIN PREP
-this	DEMO DET
-scholar	NN
-work	NN
-.	
-To	PIN TO CAP PREP
-illustrate	INF
-this	DEMP DET
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-discussed	
-about	PIN PREP
-how	RB SCONJ WH
-valuable	JJ
-and	PHC CCONJ
-efficient	JJ
-might	POMD
-be	BEMA AUXB INF
-the	ART DET
-use	NN
-of	PIN PREP
-leases	NN
-contracts	NN
-as	PIN CONJ PREP
-companies	NN
-funding	WZPRES PGAS
-mechanisms	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-when	RB SCONJ WH
-an	ART DET INDA
-enterprise	NN
-decides	VPRT PRIV SUAV
-to	PIN TO PREP
-acquire	INF
-an	ART DET INDA
-underlying	GER PGAS
-asset	NN
-during	PIN PREP
-a	ART DET INDA
-long	JJ
--	
-term	NN
-and	CCONJ
-determined	JJ PRIV SUAV
-period	NN
-,	
-by	PIN PREP
-all	QUAN DET
-means	PRIV NN
-,	
-it	PIT PRP SBJP
-must	NEMD
-be	PASS BYPA AUXB INF
-registered	
-by	PIN PREP
-a	ART DET INDA
-leases	NN
-contract	NN
-.	
-As	PIN CONJ CAP PREP
-a	ART DET INDA
-result	NN
-,	
-the	ART DET
-most	RB EMPH SPADJ
-interested	JJ
-in	PIN CONJ PREP
-this	DEMO DET
-financial	JJ
-information	NOMZ
-will	PRMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-perceive	PRIV THATD INF
-what	WH
-are	BEMA VPRT AUXB
-the	ART DET
-best	JJ SPADJ
-investments	NOMZ
-that	TOBJ WHOBJ WH
-they	TPP3 PRP SBJP
-might	POMD
-do	PROD INF
-on	PIN STPR PREP
--	
-trade	NN
-market	NN
-,	
-because	CAUS PIN SCONJ PREP
-the	ART DET
-financial	JJ
-reporting	PUBV NN
-must	NEMD
-follow	INF
-this	DEMO DET
-accounting	GER
-standard	NN
-if	COND PIN SCONJ PREP
-they	TPP3 PRP SBJP
-want	VPRT
-to	PIN TO PREP
-keep	INF
-a	ART DET INDA
-relevant	JJ
-and	PHC CCONJ
-spotlighted	JJ
-place	NN
-on	PIN PREP
-business	NOMZ
-scenario	NN
-.	
-IFRS	NN CAP
-16	NUM
-emphasises	VPRT
-what	WH
-were	BEMA VBD AUXB
-the	ART DET
-changings	NN
-for	PIN PREP
-two	NUM
-members	NN
-of	PIN PREP
-leases	NN
-agreements	NOMZ
-,	
-whose	WHQU DET WH
-participants	NN
-are	VPRT AUXB
-lessees	NN
-and	PHC CCONJ
-lessor	NN
-.	
-In	PIN CONJ CAP PREP
-the	ART DET
-case	NN
-of	PIN PREP
-the	ART DET
-first	JJ
-one	NUM
-,	
-it	PIT PRP SBJP
-happened	VBD
-several	QUAN JJ
-modifications	NOMZ
-on	PIN PREP
-accounting	GER
-rules	SUAV NN
-,	
-that	WHQU DEMP WH
-are	BEMA VPRT AUXB
-worthy	JJ PRED
-of	PIN PREP
-discussion	NOMZ
-and	PHC CCONJ
-comprehension	NOMZ
-why	RB WHOBJ SCONJ WH
-this	DEMO DET
-phenomenon	NN
-was	PASS VBD AUXB
-established	PRIV
-.	
-On	PIN CAP PREP
-the	ART DET
-contrary	NN
-,	
-it	PIT PRP SBJP
-notes	VPRT PRIV
-that	PIN THVC SCONJ PREP
-any	QUAN DET
-changing	PGAS
-was	PASS VBD BYPA AUXB
-pointed	
-out	PIN PREP
-by	PIN PREP
-new	JJ
-standard	NN
-in	PIN CONJ PREP
-comparison	NN
-with	PIN PREP
-IAS	CAP NNP
-17	NUM
-.	
-  	
-In	PIN CONJ CAP PREP
-past	JJ
-years	NN
-,	
-the	ART DET
-accounting	GER
-rules	SUAV NN
-suffered	VBD
-a	ART DET INDA
-gradual	JJ
-process	NN
-of	PIN PREP
-convergence	NN
-,	
-because	CAUS PIN SCONJ PREP
-stakeholders	NN
-needed	VBD
-to	PIN TO PREP
-assure	INF
-that	PIN DEMO SCONJ PREP
-their	TPP3 PRP SBJP
-decisions	NOMZ
-were	PASS VBD AUXB
-based	
-on	PIN PREP
-accurate	JJ
-and	PHC CCONJ
-precise	JJ
-financial	JJ
-statements	NOMZ
-.	
-Then	RB CAP
-,	
-IFRS	CAP NNP
-(	
-International	CAP NNP
-Financial	CAP NNP
-Reporting	PUBV CAP NNP
-Standards	CAP NNP
-)	
-,	
-an	ART DET INDA
-institution	NOMZ
-responsible	JJ
-to	PIN TO PREP
-promote	INF
-adoption	NOMZ
-and	PHC CCONJ
-comprehension	NOMZ
-of	PIN PREP
-accounting	GER
-standards	NN
-,	
-issued	PASTP
-in	PIN CONJ PREP
-2013	NUM
-IFRS	CAP NNP
-16	NUM
-that	DEMP WH
-established	VBD PRIV
-a	ART DET INDA
-new	JJ
-pattern	NN
-of	PIN PREP
-lease	NN
-contracts	NN
-.	
-Before	PIN CAP PREP
-this	DEMO DET
-statement	NOMZ
-,	
-there	EX
-was	VBD AUXB
-IAS	CAP NNP
-17	NUM
-a	ART DET INDA
-rule	SUAV NN THATD
-that	TSUB WHSUB WH
-was	BEMA VBD AUXB
-not	XX0 RB
-able	JJ
-to	PIN TO PREP
-clarify	INF
-the	ART DET
-real	JJ
-recognition	NOMZ
-of	PIN PREP
-right	JJ
--	
-of	PIN STPR NN PREP
--	
-use	NN
-of	PIN PREP
-non	JJ
--	JJ
-financial	JJ
-assets	NN
-and	CCONJ
-financial	JJ
-liabilities	NN
-acquired	WZPAST
-by	PIN PREP
-companies	NN
-through	PIN PREP
-leases	NN
-.	
-Consequently	RB CONJ CAP
-,	
-a	ART DET INDA
-lessee	NN
-will	PRMD
-recognise	PRIV INF
-on	PIN PREP
-his	TPP3 PRP SBJP
-balance	NN
-sheet	NN
-depreciation	NOMZ
-by	PIN PREP
-property	NN
-of	PIN PREP
-assets	NN
-and	PHC CCONJ
-interest	NN
-on	PIN PREP
-the	ART DET
-lease	NN
-liabilities	NN
-.	
-Therefore	RB CONJ CAP
-,	
-both	DET
-types	NN
-of	PIN PREP
-leases	NN
-contracts	NN
-will	PRMD
-be	PASS AUXB INF
-registered	
-in	PIN CONJ PREP
-statements	NOMZ
-being	BEMA WZPRES AUXB
-able	JJ PRED
-to	PIN TO PREP
-disclose	PUBV INF
-the	ART DET
-real	JJ EMPH
-financial	JJ
-position	NOMZ
-of	PIN PREP
-enterprises	NN
-.	
-Moreover	RB CONJ CAP
-,	
-this	DEMO DET
-standard	JJ
-cooperates	VPRT
-to	PIN TO PREP
-create	INF
-value	NN
-and	CCONJ
-increase	INF
-wealth	NN
-,	
-being	PASS AUXB
-considered	PRIV
-one	NUM
-of	PIN PREP
-the	ART DET
-most	RB EMPH SPADJ
-important	JJ
-funding	NN
-sources	NN
-for	PIN PREP
-enterprises	NN
-.	
-  	
-Financial	JJ CAP
-market	NN
-will	PRMD
-be	BEMA AUXB INF
-able	JJ PRED
-to	PIN TO PREP
-use	INF
-transparency	NN
-and	CCONJ
-high	JJ
--	
-quality	NOMZ
-accounting	GER
-information	NOMZ
-as	OSUB RB CONJ
-long	RB
-as	PIN CONJ PREP
-there	EX
-will	PRMD
-be	BEMA AUXB INF
-regular	JJ
-institutions	NOMZ
-responsible	JJ
-for	PIN PREP
-regulatory	JJ
-roles	NN
-.	
-Thus	RB CONJ CAP
-,	
-IFRS	NN CAP
-standards	NN
-charges	NN
-of	PIN PREP
-this	DEMO DET
-role	NN
-in	PIN CONJ PREP
-the	ART DET
-global	JJ
-economic	JJ
-scenario	NN
-by	PIN PREP
-improving	PGAS
-financial	JJ
-report	PUBV NN
-,	
-such	DET
-an	ART DET INDA
-important	JJ
-statement	NOMZ
-to	PIN PREP
-investors	NN
-and	CCONJ
-other	JJ
-market	NN
-participants	NN
-enabling	WZPRES PGAS
-their	TPP3 PRP SBJP
-economic	JJ
- 	
-decisions	NOMZ
-(	
-IFRS	CAP NNP
-16	NUM
-)	
-.	
-In	PIN CONJ CAP PREP
-this	DEMO DET
-context	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-fundamental	JJ PRED
-to	PIN TO PREP
-explain	PUBV THATD INF
-that	DEMP DET
-was	VBD AUXB
-such	EMPH DET
-a	ART DET INDA
-great	JJ
-accountant	NN
--	
-registering	GER PGAS
-difference	NN
-between	PIN PREP
-two	NUM
-types	NN
-of	PIN PREP
-leases	NN
-contracts	NN
-before	PIN PREP
-IFRS	CAP NNP
-16	NUM
-.	
-So	RB CAP
-,	
-lessee	NN
-must	NEMD
-segregate	INF
-“	
-the	ART DET
-total	JJ
-amount	NN
-paid	WZPAST
-into	PIN PREP
-principal	NN
-”	
-(	
-IFRS	CAP NNP
-16,2017	NUM
-)	
-,	
-whose	WHQU DET WH
-presentation	NOMZ
-was	BEMA VBD AUXB
-just	RB EMPH
-in	PIN CONJ PREP
-financial	JJ
-contracts	NN
-,	
-from	PIN PREP
-interests	NN
-,	
-which	SERE WHQU DET WH
-was	PASS VBD AUXB
-issued	
-in	PIN CONJ PREP
-both	DET
-contracts	NN
-.	
-As	PIN CONJ CAP PREP
-could	POMD
-be	PASS AUXB INF
-identified	
-during	PIN PREP
-these	DEMO DET
-years	NN
-,	
-this	DEMO DET
-model	NN
-of	PIN PREP
-accounting	GER
-disclosure	NN
-,	
-pointed	VBD
-out	PIN PREP
-by	PIN PREP
-IAS	CAP NNP
-17	NUM
-,	
-indicates	VPRT PRIV THATD
-that	DEMP DET
-was	BEMA VBD AUXB
-not	XX0 RB
-able	JJ
-to	PIN TO PREP
-identify	INF
-right	JJ
--	
-of	PIN STPR PREP
--	
-use	NN
-and	PHC CCONJ
-property	NN
-of	PIN PREP
-financial	JJ
-assets	NN
-and	PHC CCONJ
-liabilities	NN
-acquired	WZPAST
-by	PIN PREP
-lessees	NN
-.	
-By	PIN CAP PREP
-new	JJ
-standard	JJ
-implementation	NOMZ
-,	
-a	ART DET INDA
-huge	JJ
-number	NN
-of	PIN PREP
-rights	NN
-and	PHC CCONJ
-obligations	NOMZ
-that	TSUB WHSUB WH
-were	PASS VBD SPAU AUXB
-not	XX0 RB
-found	PRIV
-in	PIN CONJ PREP
-balance	NN
--	
-sheet	NN
-will	PRMD
-be	AUXB INF
-disclosure	NN
-(	
-SACARIN	CAP NNP
-,	
-2017	NUM
-)	
-.	
-Therefore	RB CONJ CAP
-,	
-a	ART DET INDA
-new	JJ
-guidance	NN
-will	PRMD
-be	BEMA AUXB INF
-responsible	JJ PRED
-by	PIN PREP
-improving	PGAS
-quality	NOMZ
-of	PIN PREP
-information	NOMZ
-showing	WZPRES PRIV PGAS
-off	PIN PREP
-an	ART DET INDA
-accurate	JJ
-financial	JJ
-position	NOMZ
-.	
-  	
-As	PIN CONJ CAP PREP
-an	ART DET INDA
-important	JJ
-part	NN
-of	PIN PREP
-lease	NN
-transactions	NOMZ
-,	
-IFRS	NN CAP
-concerned	WZPAST
-with	PIN PREP
-how	RB SCONJ WH
-it	PIT PRP SBJP
-would	PRMD
-be	BEMA AUXB INF
-the	ART DET
-situation	NOMZ
-of	PIN PREP
-members	NN
-of	PIN PREP
-this	DEMO DET
-contractual	JJ
-relationship	NN
-.	
-For	PIN CAP PREP
-lessors	NN
-,	
-there	EX
-was	VBD AUXB
-no	SYNE DET
-material	NN
-changing	WZPRES PGAS
-in	PIN CONJ PREP
-terms	NN
-of	PIN PREP
-classification	NOMZ
-,	
-thus	RB CONJ
-,	
-the	ART DET
-two	NUM
-types	NN
-of	PIN PREP
-leases	NN
-will	PRMD
-be	PASS AUXB INF
-accounted	
-in	PIN CONJ PREP
-different	JJ
-ways	NN
-as	PIN CONJ PREP
-financial	JJ
-and	CCONJ
-operating	NN
-leases	NN
-.	
-It	PIT CAP PRP SBJP
-might	POMD
-be	PASS AUXB INF
-noted	PRIV
-that	PIN THVC SCONJ PREP
-IFRS	CAP NNP
-16	NUM
-maintained	VBD PUBV THATD
-the	ART DET
-same	JJ
-requirement	NOMZ
-pointed	VBD
-out	PIN PREP
-by	PIN PREP
-older	JJ CMADJ
-rule	SUAV NN
-,	
-in	PIN CONJ PREP
-this	DEMO DET
-case	NN
-,	
-IAS	CAP NNP
-17	NUM
-.	
-On	PIN CAP PREP
-the	ART DET
-other	JJ
-hand	NN
-,	
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-a	ART DET INDA
-significant	JJ
-modification	NOMZ
-for	PIN PREP
-lessees	NN
-,	
-who	WHQU WH
-have	VPRT
-the	ART DET
-rights	NN
-of	PIN PREP
-use	NN
-of	PIN PREP
-underlying	JJ
-assets	NN
-.	
-IFRS	NN CAP
-16	NUM
-states	PUBV NN
-that	PIN TOBJ THVC SCONJ PREP
-assets	NN
-and	PHC CCONJ
-liabilities	NN
-regarded	WZPAST
-with	PIN PREP
-leases	NN
-contracts	NN
-must	NEMD
-be	PASS AUXB INF
-recognized	PRIV
-in	PIN CONJ PREP
-the	ART DET
-statement	NOMZ
-of	PIN PREP
-financial	JJ
-position	NOMZ
-,	
-in	PIN CONJ PREP
-other	JJ
-words	NN
-,	
-every	QUAN DET
-right	NN
-and	PHC CCONJ
-obligation	NOMZ
-can	POMD SPAU
-not	XX0 RB
-be	BEMA AUXB INF
-out	PIN PREP
-of	PIN PREP
-balance	NN
-sheet	NN
-.	
-For	PIN CAP PREP
-instance	NN
-,	
-any	QUAN DET
-enterprise	NN
-which	WHSUB DET WH
-detains	VPRT
-a	ART DET INDA
-property	NN
-or	CCONJ
-equipment	NOMZ
-and	CCONJ
-do	VPRT SPAU
-not	XX0 RB
-register	INF
-these	DEMO DET
-non	JJ
--	JJ
-financial	JJ
-assets	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-financial	JJ
-reports	PUBV NN
-fails	VPRT
-to	PIN TO PREP
-apply	INF
-IFRS	CAP NNP
-16	NUM
-,	
-the	ART DET
-major	JJ
-international	JJ
-current	JJ
-standard	NN
-.	
-For	PIN CAP PREP
-this	DEMO DET
-reason	PRIV NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-plausible	JJ PRED
-that	THAC WH
-lessees	NN
-attend	VPRT
-to	PIN PREP
-standardization	NOMZ
-aiming	WZPRES PGAS
-to	PIN TO PREP
-follow	INF
-the	ART DET
-rules	SUAV NN
-,	
-so	OSUB PIN SCONJ PREP
-that	PIN DEMO SCONJ PREP
-investors	NN
-might	POMD
-be	AUXB INF
-access	NN
-high	JJ
-quality	NOMZ
-,	
-fair	JJ
-and	PHC CCONJ
-accurate	JJ
-accounting	GER
-information	NOMZ
-(	
-SACARIN	CAP NNP
-,	
-2017	NUM
-)	
-.	
-  	
-As	PIN CONJ CAP PREP
-discussed	
-in	PIN CONJ PREP
-this	DEMO DET
-essay	NN
-,	
-IFRS	CAP NNP
-16	NUM
-contributed	VBD
-significantly	RB
-to	PIN TO PREP
-clarify	INF
-about	PIN PREP
-leases	NN
-contracts	NN
-might	POMD
-be	PASS AUXB INF
-implemented	
-in	PIN CONJ PREP
-financial	JJ
-statements	NOMZ
-.	
-Sacarin	NN CAP
-(	
-2017	NUM
-)	
-makes	VPRT
-clear	JJ
-that	PIN THAC SCONJ PREP
-implementation	NOMZ
-of	PIN PREP
-accounting	GER
-standards	NN
-in	PIN CONJ PREP
-the	ART DET
-business	NOMZ
-universe	NN
-it	PIT PRP SBJP
-will	PRMD
-provide	INF
-investors	NN
-put	INF
-their	TPP3 PRP SBJP
-money	NN
-in	PIN CONJ PREP
-safe	JJ
-and	PHC CCONJ
-transparent	JJ
-companies	NN
-.	
-Therefore	RB CONJ CAP
-,	
-enabling	PRESP PGAS
-the	ART DET
-users	NN
-of	PIN PREP
-information	NOMZ
-might	POMD
-perceive	PRIV INF
-if	COND PIN SCONJ PREP
-their	TPP3 PRP SBJP
-wealth	NN
-is	PASS VPRT AUXB
-invested	
-on	PIN PREP
-an	ART DET INDA
-assured	JJ
-source	NN
-of	PIN PREP
-money	NN
-cooperates	NN
-for	PIN PREP
-the	ART DET
-welfare	NN
-state	PUBV NN
-of	PIN PREP
-the	ART DET
-trade	NN
-market	NN
-.	
-Current	JJ CAP
-standardization	NOMZ
-expresses	VPRT
-how	RB SCONJ WH
-relevant	JJ
-it	PIT PRP SBJP
-is	VPRT AUXB
-accounting	GER PGAS
-an	ART DET INDA
-underlying	GER PGAS
-asset	NN
-with	PIN PREP
-its	PIT PRP SBJP
-“	
-total	JJ
-amount	NN
-of	PIN PREP
-cash	NN
-paid	WZPAST
-into	PIN PREP
-principal	NN
-and	PHC CCONJ
-interest	NN
-”	
-(	
-IFRS	CAP NNP
-16	NUM
-)	
-in	PIN CONJ PREP
-the	ART DET
-perspective	NN
-of	PIN PREP
-lessee	NN
-.	
-Actually	RB CAP
-,	
-there	EX
-is	VPRT AUXB
-such	JJ
-evidences	NN
-that	TSUB WHSUB WH
-illustrates	VPRT
-how	RB SCONJ WH
-this	DEMO DET
-rule	SUAV NN
-contributes	VPRT
-to	PIN PREP
-accurate	JJ
-presentation	NOMZ
-of	PIN PREP
-accounting	GER
-information	NOMZ
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2019-2.2475.1143>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	accounting	GER
+gap	 	
+word	standards	NN
+gap	 	
+word	issued	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	IFRS	CAP NNP
+gap	 (	
+word	International	CAP NNP
+gap	 	
+word	Financial	CAP NNP
+gap	 	
+word	Reporting	PUBV CAP NNP
+gap	 	
+word	Standards	CAP NNP
+gap	) 	
+word	Foundation	CAP NNP
+gap	 	
+word	enable	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	investors	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	users	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	financial	JJ
+gap	 	
+word	statements	NOMZ
+gap	 	
+word	access	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	piece	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	accurate	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	high	JJ
+gap	-	
+word	quality	NOMZ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	contracts	NN
+gap	. 	
+word	Then	RB CAP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	understanding	GER PRIV
+gap	 	
+word	what	WHOBJ WHCL WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	modality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	contract	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	applied	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	entrepreneurial	JJ
+gap	 	
+word	context	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	reason	PRIV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	scholar	NN
+gap	 	
+word	work	NN
+gap	. 	
+word	To	PIN TO CAP PREP
+gap	 	
+word	illustrate	INF
+gap	 	
+word	this	DEMP DET
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	discussed	
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	valuable	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	efficient	JJ
+gap	 	
+word	might	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	contracts	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	companies	NN
+gap	 	
+word	funding	WZPRES PGAS
+gap	 	
+word	mechanisms	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	instance	NN
+gap	, 	
+word	when	RB SCONJ WH
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	enterprise	NN
+gap	 	
+word	decides	VPRT PRIV SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	acquire	INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	underlying	GER PGAS
+gap	 	
+word	asset	NN
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	long	JJ
+gap	-	
+word	term	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	determined	JJ PRIV SUAV
+gap	 	
+word	period	NN
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	means	PRIV NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	registered	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	leases	NN
+gap	 	
+word	contract	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	result	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	interested	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	financial	JJ
+gap	 	
+word	information	NOMZ
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	perceive	PRIV THATD INF
+gap	 	
+word	what	WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	best	JJ SPADJ
+gap	 	
+word	investments	NOMZ
+gap	 	
+word	that	TOBJ WHOBJ WH
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	might	POMD
+gap	 	
+word	do	PROD INF
+gap	 	
+word	on	PIN STPR PREP
+gap	-	
+word	trade	NN
+gap	 	
+word	market	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	financial	JJ
+gap	 	
+word	reporting	PUBV NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	follow	INF
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	accounting	GER
+gap	 	
+word	standard	NN
+gap	 	
+word	if	COND PIN SCONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	want	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	keep	INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	relevant	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	spotlighted	JJ
+gap	 	
+word	place	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	business	NOMZ
+gap	 	
+word	scenario	NN
+gap	. 	
+word	IFRS	NN CAP
+gap	 16 	
+word	emphasises	VPRT
+gap	 	
+word	what	WH
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	changings	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	members	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	agreements	NOMZ
+gap	, 	
+word	whose	WHQU DET WH
+gap	 	
+word	participants	NN
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	lessees	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	lessor	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	case	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	first	JJ
+gap	 	
+word	one	NUM
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	happened	VBD
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	modifications	NOMZ
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	accounting	GER
+gap	 	
+word	rules	SUAV NN
+gap	, 	
+word	that	WHQU DEMP WH
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	worthy	JJ PRED
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	discussion	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	comprehension	NOMZ
+gap	 	
+word	why	RB WHOBJ SCONJ WH
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	phenomenon	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	established	PRIV
+gap	. 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	contrary	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	notes	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	any	QUAN DET
+gap	 	
+word	changing	PGAS
+gap	 	
+word	was	PASS VBD BYPA AUXB
+gap	 	
+word	pointed	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	standard	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	comparison	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	IAS	CAP NNP
+gap	 17.\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	past	JJ
+gap	 	
+word	years	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	accounting	GER
+gap	 	
+word	rules	SUAV NN
+gap	 	
+word	suffered	VBD
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	gradual	JJ
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	convergence	NN
+gap	, 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	stakeholders	NN
+gap	 	
+word	needed	VBD
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	assure	INF
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	decisions	NOMZ
+gap	 	
+word	were	PASS VBD AUXB
+gap	 	
+word	based	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	accurate	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	precise	JJ
+gap	 	
+word	financial	JJ
+gap	 	
+word	statements	NOMZ
+gap	. 	
+word	Then	RB CAP
+gap	, 	
+word	IFRS	CAP NNP
+gap	 (	
+word	International	CAP NNP
+gap	 	
+word	Financial	CAP NNP
+gap	 	
+word	Reporting	PUBV CAP NNP
+gap	 	
+word	Standards	CAP NNP
+gap	), 	
+word	an	ART DET INDA
+gap	 	
+word	institution	NOMZ
+gap	 	
+word	responsible	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	promote	INF
+gap	 	
+word	adoption	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	comprehension	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	accounting	GER
+gap	 	
+word	standards	NN
+gap	, 	
+word	issued	PASTP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 2013 	
+word	IFRS	CAP NNP
+gap	 16 	
+word	that	DEMP WH
+gap	 	
+word	established	VBD PRIV
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	pattern	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	lease	NN
+gap	 	
+word	contracts	NN
+gap	. 	
+word	Before	PIN CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	statement	NOMZ
+gap	, 	
+word	there	EX
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	IAS	CAP NNP
+gap	 17 	
+word	a	ART DET INDA
+gap	 	
+word	rule	SUAV NN THATD
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	clarify	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ
+gap	 	
+word	recognition	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	right	JJ
+gap	-	
+word	of	PIN STPR NN PREP
+gap	-	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	non	JJ
+gap	-	
+word	financial	JJ
+gap	 	
+word	assets	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	financial	JJ
+gap	 	
+word	liabilities	NN
+gap	 	
+word	acquired	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	companies	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	leases	NN
+gap	. 	
+word	Consequently	RB CONJ CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	lessee	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	recognise	PRIV INF
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	balance	NN
+gap	 	
+word	sheet	NN
+gap	 	
+word	depreciation	NOMZ
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	property	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	assets	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	interest	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lease	NN
+gap	 	
+word	liabilities	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	both	DET
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	contracts	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	registered	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	statements	NOMZ
+gap	 	
+word	being	BEMA WZPRES AUXB
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	disclose	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	real	JJ EMPH
+gap	 	
+word	financial	JJ
+gap	 	
+word	position	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	enterprises	NN
+gap	. 	
+word	Moreover	RB CONJ CAP
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	standard	JJ
+gap	 	
+word	cooperates	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	create	INF
+gap	 	
+word	value	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	increase	INF
+gap	 	
+word	wealth	NN
+gap	, 	
+word	being	PASS AUXB
+gap	 	
+word	considered	PRIV
+gap	 	
+word	one	NUM
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	most	RB EMPH SPADJ
+gap	 	
+word	important	JJ
+gap	 	
+word	funding	NN
+gap	 	
+word	sources	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	enterprises	NN
+gap	.\n\n	
+word	Financial	JJ CAP
+gap	 	
+word	market	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	able	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	use	INF
+gap	 	
+word	transparency	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	high	JJ
+gap	-	
+word	quality	NOMZ
+gap	 	
+word	accounting	GER
+gap	 	
+word	information	NOMZ
+gap	 	
+word	as	OSUB RB CONJ
+gap	 	
+word	long	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	regular	JJ
+gap	 	
+word	institutions	NOMZ
+gap	 	
+word	responsible	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	regulatory	JJ
+gap	 	
+word	roles	NN
+gap	. 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	IFRS	NN CAP
+gap	 	
+word	standards	NN
+gap	 	
+word	charges	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	global	JJ
+gap	 	
+word	economic	JJ
+gap	 	
+word	scenario	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	improving	PGAS
+gap	 	
+word	financial	JJ
+gap	 	
+word	report	PUBV NN
+gap	, 	
+word	such	DET
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	statement	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	investors	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	other	JJ
+gap	 	
+word	market	NN
+gap	 	
+word	participants	NN
+gap	 	
+word	enabling	WZPRES PGAS
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	economic	JJ
+gap	\n	
+word	decisions	NOMZ
+gap	 (	
+word	IFRS	CAP NNP
+gap	 16). 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	fundamental	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV THATD INF
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	such	EMPH DET
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	great	JJ
+gap	 	
+word	accountant	NN
+gap	-	
+word	registering	GER PGAS
+gap	 	
+word	difference	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	two	NUM
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	contracts	NN
+gap	 	
+word	before	PIN PREP
+gap	 	
+word	IFRS	CAP NNP
+gap	 16. 	
+word	So	RB CAP
+gap	, 	
+word	lessee	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	segregate	INF
+gap	 “	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	paid	WZPAST
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	principal	NN
+gap	” (	
+word	IFRS	CAP NNP
+gap	 16,2017), 	
+word	whose	WHQU DET WH
+gap	 	
+word	presentation	NOMZ
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	financial	JJ
+gap	 	
+word	contracts	NN
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	interests	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	issued	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	both	DET
+gap	 	
+word	contracts	NN
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	could	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	identified	
+gap	 	
+word	during	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	years	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	model	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	accounting	GER
+gap	 	
+word	disclosure	NN
+gap	, 	
+word	pointed	VBD
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	IAS	CAP NNP
+gap	 17, 	
+word	indicates	VPRT PRIV THATD
+gap	 	
+word	that	DEMP DET
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	able	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	identify	INF
+gap	 	
+word	right	JJ
+gap	-	
+word	of	PIN STPR PREP
+gap	-	
+word	use	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	property	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	financial	JJ
+gap	 	
+word	assets	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	liabilities	NN
+gap	 	
+word	acquired	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	lessees	NN
+gap	. 	
+word	By	PIN CAP PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	standard	JJ
+gap	 	
+word	implementation	NOMZ
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	huge	JJ
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	rights	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	obligations	NOMZ
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	were	PASS VBD SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	found	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	balance	NN
+gap	-	
+word	sheet	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	AUXB INF
+gap	 	
+word	disclosure	NN
+gap	 (	
+word	SACARIN	CAP NNP
+gap	, 2017). 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	new	JJ
+gap	 	
+word	guidance	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	responsible	JJ PRED
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	improving	PGAS
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	information	NOMZ
+gap	 	
+word	showing	WZPRES PRIV PGAS
+gap	 	
+word	off	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	accurate	JJ
+gap	 	
+word	financial	JJ
+gap	 	
+word	position	NOMZ
+gap	.\n\n	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	lease	NN
+gap	 	
+word	transactions	NOMZ
+gap	, 	
+word	IFRS	NN CAP
+gap	 	
+word	concerned	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	situation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	members	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	contractual	JJ
+gap	 	
+word	relationship	NN
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	lessors	NN
+gap	, 	
+word	there	EX
+gap	 	
+word	was	VBD AUXB
+gap	 	
+word	no	SYNE DET
+gap	 	
+word	material	NN
+gap	 	
+word	changing	WZPRES PGAS
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	terms	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	classification	NOMZ
+gap	, 	
+word	thus	RB CONJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	two	NUM
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	accounted	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	different	JJ
+gap	 	
+word	ways	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	financial	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	operating	NN
+gap	 	
+word	leases	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	might	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	noted	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	IFRS	CAP NNP
+gap	 16 	
+word	maintained	VBD PUBV THATD
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	requirement	NOMZ
+gap	 	
+word	pointed	VBD
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	older	JJ CMADJ
+gap	 	
+word	rule	SUAV NN
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	case	NN
+gap	, 	
+word	IAS	CAP NNP
+gap	 17. 	
+word	On	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 	
+word	hand	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	significant	JJ
+gap	 	
+word	modification	NOMZ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	lessees	NN
+gap	, 	
+word	who	WHQU WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	rights	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	use	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	underlying	JJ
+gap	 	
+word	assets	NN
+gap	. 	
+word	IFRS	NN CAP
+gap	 16 	
+word	states	PUBV NN
+gap	 	
+word	that	PIN TOBJ THVC SCONJ PREP
+gap	 	
+word	assets	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	liabilities	NN
+gap	 	
+word	regarded	WZPAST
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	leases	NN
+gap	 	
+word	contracts	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	recognized	PRIV
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	statement	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	financial	JJ
+gap	 	
+word	position	NOMZ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	words	NN
+gap	, 	
+word	every	QUAN DET
+gap	 	
+word	right	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	obligation	NOMZ
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	out	
+gap	 	
+word	of	
+gap	 	
+word	balance	
+gap	 	
+word	sheet	
+gap	. 	
+word	For	
+gap	 	
+word	instance	
+gap	, 	
+word	any	
+gap	 	
+word	enterprise	
+gap	 	
+word	which	
+gap	 	
+word	detains	
+gap	 	
+word	a	
+gap	 	
+word	property	
+gap	 	
+word	or	
+gap	 	
+word	equipment	
+gap	 	
+word	and	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	register	
+gap	 	
+word	these	
+gap	 	
+word	non	
+gap	-	
+word	financial	
+gap	 	
+word	assets	
+gap	 	
+word	in	
+gap	 	
+word	their	
+gap	 	
+word	financial	
+gap	 	
+word	reports	
+gap	 	
+word	fails	
+gap	 	
+word	to	
+gap	 	
+word	apply	
+gap	 	
+word	IFRS	
+gap	 16, 	
+word	the	
+gap	 	
+word	major	
+gap	 	
+word	international	
+gap	 	
+word	current	
+gap	 	
+word	standard	
+gap	. 	
+word	For	
+gap	 	
+word	this	
+gap	 	
+word	reason	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	plausible	
+gap	 	
+word	that	
+gap	 	
+word	lessees	
+gap	 	
+word	attend	
+gap	 	
+word	to	
+gap	 	
+word	standardization	
+gap	 	
+word	aiming	
+gap	 	
+word	to	
+gap	 	
+word	follow	
+gap	 	
+word	the	
+gap	 	
+word	rules	
+gap	, 	
+word	so	
+gap	 	
+word	that	
+gap	 	
+word	investors	
+gap	 	
+word	might	
+gap	 	
+word	be	
+gap	 	
+word	access	
+gap	 	
+word	high	
+gap	 	
+word	quality	
+gap	, 	
+word	fair	
+gap	 	
+word	and	
+gap	 	
+word	accurate	
+gap	 	
+word	accounting	
+gap	 	
+word	information	
+gap	 (	
+word	SACARIN	
+gap	, 2017).\n\n	
+word	As	
+gap	 	
+word	discussed	
+gap	 	
+word	in	
+gap	 	
+word	this	
+gap	 	
+word	essay	
+gap	, 	
+word	IFRS	
+gap	 16 	
+word	contributed	
+gap	 	
+word	significantly	
+gap	 	
+word	to	
+gap	 	
+word	clarify	
+gap	 	
+word	about	
+gap	 	
+word	leases	
+gap	 	
+word	contracts	
+gap	 	
+word	might	
+gap	 	
+word	be	
+gap	 	
+word	implemented	
+gap	 	
+word	in	
+gap	 	
+word	financial	
+gap	 	
+word	statements	
+gap	. 	
+word	Sacarin	
+gap	 (2017) 	
+word	makes	
+gap	 	
+word	clear	
+gap	 	
+word	that	
+gap	 	
+word	implementation	
+gap	 	
+word	of	
+gap	 	
+word	accounting	
+gap	 	
+word	standards	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	business	
+gap	 	
+word	universe	
+gap	 	
+word	it	
+gap	 	
+word	will	
+gap	 	
+word	provide	
+gap	 	
+word	investors	
+gap	 	
+word	put	
+gap	 	
+word	their	
+gap	 	
+word	money	
+gap	 	
+word	in	
+gap	 	
+word	safe	
+gap	 	
+word	and	
+gap	 	
+word	transparent	
+gap	 	
+word	companies	
+gap	. 	
+word	Therefore	
+gap	, 	
+word	enabling	
+gap	 	
+word	the	
+gap	 	
+word	users	
+gap	 	
+word	of	
+gap	 	
+word	information	
+gap	 	
+word	might	
+gap	 	
+word	perceive	
+gap	 	
+word	if	
+gap	 	
+word	their	
+gap	 	
+word	wealth	
+gap	 	
+word	is	
+gap	 	
+word	invested	
+gap	 	
+word	on	
+gap	 	
+word	an	
+gap	 	
+word	assured	
+gap	 	
+word	source	
+gap	 	
+word	of	
+gap	 	
+word	money	
+gap	 	
+word	cooperates	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	welfare	
+gap	 	
+word	state	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	trade	
+gap	 	
+word	market	
+gap	. 	
+word	Current	
+gap	 	
+word	standardization	
+gap	 	
+word	expresses	
+gap	 	
+word	how	
+gap	 	
+word	relevant	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	accounting	
+gap	 	
+word	an	
+gap	 	
+word	underlying	
+gap	 	
+word	asset	
+gap	 	
+word	with	
+gap	 	
+word	its	
+gap	 “	
+word	total	
+gap	 	
+word	amount	
+gap	 	
+word	of	
+gap	 	
+word	cash	
+gap	 	
+word	paid	
+gap	 	
+word	into	
+gap	 	
+word	principal	
+gap	 	
+word	and	
+gap	 	
+word	interest	
+gap	” (	
+word	IFRS	
+gap	 16) 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	perspective	
+gap	 	
+word	of	
+gap	 	
+word	lessee	
+gap	. 	
+word	Actually	
+gap	, 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	such	
+gap	 	
+word	evidences	
+gap	 	
+word	that	
+gap	 	
+word	illustrates	
+gap	 	
+word	how	
+gap	 	
+word	this	
+gap	 	
+word	rule	
+gap	 	
+word	contributes	
+gap	 	
+word	to	
+gap	 	
+word	accurate	
+gap	 	
+word	presentation	
+gap	 	
+word	of	
+gap	 	
+word	accounting	
+gap	 	
+word	information	
+gap	.	

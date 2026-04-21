@@ -1,608 +1,1069 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0935.0542.txt
-token	tags
-  	
-Technology	CAP NNP
-has	VPRT PEAS
-been	BEMA AUXB
-a	ART DET INDA
-target	NN
-of	PIN PREP
-concern	NN
-when	RB WHSUB SCONJ WH
-linked	
-to	PIN PREP
-the	ART DET
-childhood	NN
-.	
-Among	PIN CAP PREP
-children	NN
-,	
-games	NN
-and	CCONJ
-social	JJ
-medias	NN
-have	VPRT PEAS
-been	AUXB
-more	RB EMPH CMADJ
-and	PHC CCONJ
-more	RB EMPH CMADJ
-popular	JJ
-as	PIN CONJ PREP
-the	ART DET
-number	NN
-of	PIN PREP
-access	NN
-platforms	NN
-increases	VPRT
-:	
-computers	NN
-,	
-smartphones	NN
-,	
-tablets	NN
-,	
-video	NN
-games	NN
-and	ANDC CCONJ
-so	RB
-on	RB PIN STPR PREP
-.	
-Since	OSUB PIN CAP SCONJ PREP
-the	ART DET
-role	NN
-of	PIN PREP
-technology	NN
-in	PIN CONJ PREP
-children	NN
-lives	NN
-is	BEMA VPRT AUXB
-an	ART DET INDA
-important	JJ
-field	NN
-of	PIN PREP
-discussion	NOMZ
-at	PIN PREP
-the	ART DET
-post	JJ
--	JJ
-modern	JJ
-world	NN
-and	CCONJ
-a	ART DET INDA
-controversial	JJ
-one	NN
-,	
-this	DEMO DET
-essay	NN
-has	VPRT
-the	ART DET
-intention	NOMZ
-of	PIN PREP
-treat	NN
-that	DEMO DET
-theme	NN
-in	PIN CONJ PREP
-some	QUAN DET
-of	PIN PREP
-its	PIT PRP SBJP
-relevant	JJ
-aspects	NN
-,	
-showing	PRIV PGAS
-that	PIN THVC SCONJ PREP
-the	ART DET
-society	NN
-is	VPRT AUXB
-evolving	PGAS
-with	PIN PREP
-the	ART DET
-technology	NN
-and	ANDC CCONJ
-it	PIT PRP SBJP
-should	NEMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-seen	PRIV
-as	PIN CONJ PREP
-harmful	JJ
-.	
-  	
-First	RB CAP
-of	PIN PREP
-all	QUAN DET
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-necessary	JJ PRED
-to	PIN TO PREP
-demystify	INF
-the	ART DET
-early	JJ TIME
-exposure	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-very	AMP RB
-common	JJ
-to	PIN TO PREP
-think	PRIV INF
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-the	ART DET
-children	NN
-predisposition	NOMZ
-,	
-here	RB
-considering	GER PRIV THATD PGAS
-those	DEMP DET
-who	WH
-have	VPRT
-a	ART DET INDA
-certain	JJ
-level	NN
-of	PIN PREP
-thought	PRIV NN
-independence	NN
-and	PHC CCONJ
-ability	NOMZ
-to	PIN TO PREP
-manipulate	INF
-appliances	NN
-,	
-that	DEMP WH
-leads	VPRT
-to	PIN PREP
-an	ART DET INDA
-overly	RB
-alienation	NOMZ
-.	
-Nevertheless	RB CONJ CAP
-,	
-that	DEMO DET
-exposure	NN
-can	POMD
-come	INF
-from	PIN PREP
-the	ART DET
-parents	NN
-as	RB CONJ
-well	RB
-,	
-one	NUM
-example	NN
-is	BEMA VPRT AUXB
-the	ART DET
-so	RB
-called	
-“	
-sharent	JJ
-”	
-.	
-Sharent	CAP NNP
-is	BEMA VPRT AUXB
-a	ART DET INDA
-blend	NN
-of	PIN PREP
-the	ART DET
-verb	NN
-“	
-share	NN
-”	
-and	ANDC CCONJ
-the	ART DET
-noun	NNP
-“	
-parent	NNP
-”	
-,	
-a	ART DET INDA
-concept	NN
-created	WZPAST
-to	PIN TO PREP
-illustrate	INF
-the	ART DET
-parents	NN
-action	NOMZ
-of	PIN PREP
-communicate	NN
-by	PIN PREP
-social	JJ
-medias	NN
-their	TPP3 PRP SBJP
-children	NN
-’s	
-pictures	NN
-,	
-private	JJ
-moments	NOMZ
-and	CCONJ
-general	JJ
-information	NOMZ
-.	
-As	PIN CONJ CAP PREP
-all	QUAN DET
-the	ART DET
-aspects	NN
-of	PIN PREP
-technology	NN
-,	
-this	DEMO DET
-action	NOMZ
-has	VPRT
-a	ART DET INDA
-bad	JJ
-and	CCONJ
-a	ART DET INDA
-good	JJ
-side	NN
-:	
-although	CONC PIN SCONJ PREP
-it	PIT PRP SBJP
-interferes	VPRT
-in	PIN CONJ PREP
-the	ART DET
-child	NN
-privacy	NN
-and	PHC CCONJ
-security	NOMZ
-,	
-it	PIT PRP SBJP
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-mediator	NN
-between	PIN PREP
-the	ART DET
-family	NN
-and	CCONJ
-distant	JJ
-relatives	NN
-,	
-all	QUAN DET
-depends	VPRT
-of	PIN PREP
-the	ART DET
-people	NN
-’s	
-information	NOMZ
-usage	NN
-.	
-  	
-Whereas	OSUB PIN CAP SCONJ PREP
-some	QUAN DET
-see	VPRT PRIV
-the	ART DET
-electronic	JJ
-usage	NN
-as	RB CONJ
-problematic	JJ
-for	PIN PREP
-many	QUAN JJ
-reasons	PRIV NN
-,	
-like	PIN PREP
-sedentary	JJ
-lifestyle	NN
-,	
-difficulty	NN
-in	PIN CONJ PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-empathy	NN
-and	PHC CCONJ
-curiosity	NOMZ
-,	
-aggressive	JJ
-behaviour	NN
-,	
-sleep	NN
-deprivation	NOMZ
-and	PHC CCONJ
-shortening	GER
-of	PIN PREP
-family	NN
-quality	NOMZ
-time	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-to	PIN TO PREP
-say	PUBV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-blame	NN
-can	POMD SPAU
-not	XX0 RB
-be	PASS AUXB INF
-laid	
-in	PIN CONJ PREP
-the	ART DET
-devices	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-the	ART DET
-figure	NN
-of	PIN PREP
-children	NN
-and	PHC CCONJ
-teenagers	NN
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-worthwhile	JJ PRED
-to	PIN TO PREP
-utter	INF
-that	PIN DEMO SCONJ PREP
-younger	JJ CMADJ
-generations	NOMZ
-are	PASS VPRT AUXB
-provided	
-with	PIN PREP
-a	ART DET INDA
-much	QUAN RB
-wider	JJ CMADJ
-framework	NN
-of	PIN PREP
-action	NOMZ
-and	PHC CCONJ
-interaction	NOMZ
-,	
-thus	RB CONJ
-the	ART DET
-same	JJ
-behaviour	NN
-as	PIN CONJ PREP
-that	DEMO DET
-of	PIN PREP
-previous	JJ
-ones	NN
-is	PASS VPRT AUXB
-highlighted	
-and	PHC CCONJ
-expanded	
-,	
-what	WH
-happens	VPRT
-in	PIN CONJ PREP
-extraordinary	JJ
-cases	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-problem	NN
-of	PIN PREP
-the	ART DET
-family	NN
-structure	NN
-,	
-which	SERE WHQU DET WH
-is	VPRT SPAU AUXB
-not	XX0 RB
-being	BEMA AUXB
-able	JJ PRED
-to	PIN TO PREP
-deal	INF
-with	PIN PREP
-those	DEMO DET
-environment	NOMZ
-changes	NN
-–	
-environment	NOMZ
-changes	NN
-do	VPRT SPAU
-not	XX0 RB
-mean	PRIV INF
-,	
-by	PIN PREP
-themselves	TPP3 PRP SBJP ACCU
-,	
-character	NN
-or	CCONJ
-behavioural	JJ
-disorders	NN
-.	
-  	
-Given	CAP
-the	ART DET
-right	JJ
-usage	NN
-,	
-technology	NN
-can	POMD
-lead	INF
-to	PIN PREP
-many	QUAN JJ
-positive	JJ
-effects	NN
-in	PIN CONJ PREP
-children	NN
-and	PHC CCONJ
-family	NN
-lives	NN
-.	
-Computers	NN CAP
-,	
-videogames	NN
-and	CCONJ
-other	JJ
-devices	NN
-can	POMD
-help	INF
-with	PIN PREP
-fine	JJ
-motor	NN
-skills	NN
-like	PIN PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-eye	NN
-hand	NN
-coordination	NOMZ
-,	
-promote	INF
-contact	NN
-with	PIN PREP
-a	ART DET INDA
-wider	JJ CMADJ
-cultural	JJ
-field	NN
-,	
-contributing	GER PGAS
-with	PIN PREP
-language	NN
-and	CCONJ
-intellectual	JJ
-development	NOMZ
-,	
-can	POMD
-mediate	INF
-and	PHC CCONJ
-facilitate	INF
-family	NN
-conversation	NOMZ
-on	PIN PREP
-more	RB EMPH CMADJ
-delicate	JJ
-topics	NN
-and	CCONJ
-can	POMD
-be	PASS AUXB INF
-involved	
-in	PIN CONJ PREP
-family	NN
-reunions	NN
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-keep	INF
-up	PIN PREP
-with	PIN PREP
-the	ART DET
-youngers	NN
-dynamics	NN
-.	
-  	
-As	PIN CONJ CAP PREP
-shown	PRIV
-,	
-computers	NN
-and	PHC CCONJ
-videogames	NN
-play	VPRT
-a	ART DET INDA
-big	JJ
-role	NN
-in	PIN CONJ PREP
-children	NN
-lives	VPRT
-nowadays	RB TIME
-,	
-but	CCONJ
-that	DEMP DET
-should	NEMD SPAU
-not	XX0 RB
-instantly	RB TIME
-have	INF
-a	ART DET INDA
-bad	JJ
-meaning	PRIV NN
-.	
-Technology	NN CAP
-does	VPRT PROD SPAU
-not	XX0 RB
-have	INF
-a	ART DET INDA
-free	JJ
-will	NN
-,	
-all	QUAN DET
-it	PIT PRP SBJP
-does	VPRT PROD
-is	VPRT AUXB
-reflect	PRIV INF
-humans	NN
-’	
-values	NN
-.	
-As	PIN CONJ CAP PREP
-it	PIT PRP SBJP
-can	POMD
-be	BEMA AUXB INF
-a	ART DET INDA
-very	AMP RB
-present	JJ
-trigger	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-important	JJ PRED
-for	PIN PREP
-the	ART DET
-society	NN
-to	PIN TO PREP
-learn	PRIV INF
-how	RB WHCL SCONJ WH
-to	PIN TO PREP
-deal	INF
-with	PIN PREP
-this	DEMO DET
-tool	NN
-which	WHSUB DET WH
-can	POMD
-,	
-very	AMP RB
-easily	RB
-,	
-become	VPRT
-a	ART DET INDA
-weapon	NN
-.	
-The	ART CAP DET
-family	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-whole	NN
-have	VPRT
-to	PIN TO PREP
-learn	PRIV INF
-about	PIN PREP
-the	ART DET
-potential	JJ
-dangers	NN
-and	PHC CCONJ
-benefits	NN
-they	TPP3 PRP SBJP
-may	POMD
-face	INF
-and	CCONJ
-about	PIN PREP
-the	ART DET
-power	NN
-it	PIT PRP SBJP
-gives	VPRT
-for	PIN PREP
-the	ART DET
-user	NN
-.	
-Build	CAP INF
-a	ART DET INDA
-solid	JJ
-foundation	NOMZ
-about	PIN PREP
-the	ART DET
-topic	NN
-leads	VPRT
-to	PIN PREP
-a	ART DET INDA
-well	RB
--	
-formed	
-digital	JJ
-child	NN
-and	PHC CCONJ
-home	NN
-.	
-  	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2017-1.0935.0542>\n\n	
+word	Technology	CAP NNP
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	BEMA AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	target	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	concern	NN
+gap	 	
+word	when	RB WHSUB SCONJ WH
+gap	 	
+word	linked	
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	childhood	NN
+gap	. 	
+word	Among	PIN CAP PREP
+gap	 	
+word	children	NN
+gap	, 	
+word	games	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	social	JJ
+gap	 	
+word	medias	NN
+gap	 	
+word	have	VPRT PEAS
+gap	 	
+word	been	AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	popular	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	number	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	access	NN
+gap	 	
+word	platforms	NN
+gap	 	
+word	increases	VPRT
+gap	: 	
+word	computers	NN
+gap	, 	
+word	smartphones	NN
+gap	, 	
+word	tablets	NN
+gap	, 	
+word	video	NN
+gap	 	
+word	games	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	so	RB
+gap	 	
+word	on	RB PIN STPR PREP
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	role	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	children	NN
+gap	 	
+word	lives	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	field	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	discussion	NOMZ
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	post	JJ
+gap	-	
+word	modern	JJ
+gap	 	
+word	world	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	controversial	JJ
+gap	 	
+word	one	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	intention	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	treat	NN
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	theme	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	relevant	JJ
+gap	 	
+word	aspects	NN
+gap	, 	
+word	showing	PRIV PGAS
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	society	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	evolving	PGAS
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	technology	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	should	NEMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	harmful	JJ
+gap	.\n\n	
+word	First	RB CAP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	all	QUAN DET
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	necessary	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	demystify	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	early	JJ TIME
+gap	 	
+word	exposure	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	very	AMP RB
+gap	 	
+word	common	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	children	NN
+gap	 	
+word	predisposition	NOMZ
+gap	, 	
+word	here	RB
+gap	 	
+word	considering	GER PRIV THATD PGAS
+gap	 	
+word	those	DEMP DET
+gap	 	
+word	who	WH
+gap	 	
+word	have	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	certain	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	thought	PRIV NN
+gap	 	
+word	independence	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	manipulate	INF
+gap	 	
+word	appliances	NN
+gap	, 	
+word	that	DEMP WH
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	overly	RB
+gap	 	
+word	alienation	NOMZ
+gap	. 	
+word	Nevertheless	RB CONJ CAP
+gap	, 	
+word	that	DEMO DET
+gap	 	
+word	exposure	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	come	INF
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	parents	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	, 	
+word	one	NUM
+gap	 	
+word	example	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	so	RB
+gap	 	
+word	called	
+gap	 “	
+word	sharent	JJ
+gap	”. 	
+word	Sharent	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	blend	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	verb	NN
+gap	 “	
+word	share	NN
+gap	” 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	noun	NNP
+gap	 “	
+word	parent	NNP
+gap	”, 	
+word	a	ART DET INDA
+gap	 	
+word	concept	NN
+gap	 	
+word	created	WZPAST
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	illustrate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	parents	NN
+gap	 	
+word	action	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	communicate	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	social	JJ
+gap	 	
+word	medias	NN
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	children	NN
+gap	’	
+word	s	
+gap	 	
+word	pictures	NN
+gap	, 	
+word	private	JJ
+gap	 	
+word	moments	NOMZ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	general	JJ
+gap	 	
+word	information	NOMZ
+gap	. 	
+word	As	PIN CONJ CAP PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	the	ART DET
+gap	 	
+word	aspects	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	technology	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	action	NOMZ
+gap	 	
+word	has	VPRT
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bad	JJ
+gap	 	
+word	and	CCONJ
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	good	JJ
+gap	 	
+word	side	NN
+gap	: 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	interferes	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	child	NN
+gap	 	
+word	privacy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	security	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	mediator	NN
+gap	 	
+word	between	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	family	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	distant	JJ
+gap	 	
+word	relatives	NN
+gap	, 	
+word	all	QUAN DET
+gap	 	
+word	depends	VPRT
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	people	NN
+gap	’	
+word	s	
+gap	 	
+word	information	NOMZ
+gap	 	
+word	usage	NN
+gap	.\n\n	
+word	Whereas	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	see	VPRT PRIV
+gap	 	
+word	the	ART DET
+gap	 	
+word	electronic	JJ
+gap	 	
+word	usage	NN
+gap	 	
+word	as	RB CONJ
+gap	 	
+word	problematic	JJ
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	reasons	PRIV NN
+gap	, 	
+word	like	PIN PREP
+gap	 	
+word	sedentary	JJ
+gap	 	
+word	lifestyle	NN
+gap	, 	
+word	difficulty	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	empathy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	curiosity	NOMZ
+gap	, 	
+word	aggressive	JJ
+gap	 	
+word	behaviour	NN
+gap	, 	
+word	sleep	NN
+gap	 	
+word	deprivation	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	shortening	GER
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	family	NN
+gap	 	
+word	quality	NOMZ
+gap	 	
+word	time	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	important	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	say	PUBV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	blame	NN
+gap	 	
+word	cannot	
+gap	 	
+word	be	
+gap	 	
+word	laid	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	devices	
+gap	 	
+word	and	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	figure	
+gap	 	
+word	of	
+gap	 	
+word	children	
+gap	 	
+word	and	
+gap	 	
+word	teenagers	
+gap	. 	
+word	It	
+gap	 	
+word	is	
+gap	 	
+word	worthwhile	
+gap	 	
+word	to	
+gap	 	
+word	utter	
+gap	 	
+word	that	
+gap	 	
+word	younger	
+gap	 	
+word	generations	
+gap	 	
+word	are	
+gap	 	
+word	provided	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	much	
+gap	 	
+word	wider	
+gap	 	
+word	framework	
+gap	 	
+word	of	
+gap	 	
+word	action	
+gap	 	
+word	and	
+gap	 	
+word	interaction	
+gap	, 	
+word	thus	
+gap	 	
+word	the	
+gap	 	
+word	same	
+gap	 	
+word	behaviour	
+gap	 	
+word	as	
+gap	 	
+word	that	
+gap	 	
+word	of	
+gap	 	
+word	previous	
+gap	 	
+word	ones	
+gap	 	
+word	is	
+gap	 	
+word	highlighted	
+gap	 	
+word	and	
+gap	 	
+word	expanded	
+gap	, 	
+word	what	
+gap	 	
+word	happens	
+gap	 	
+word	in	
+gap	 	
+word	extraordinary	
+gap	 	
+word	cases	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	problem	
+gap	 	
+word	of	
+gap	 	
+word	the	
+gap	 	
+word	family	
+gap	 	
+word	structure	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	being	
+gap	 	
+word	able	
+gap	 	
+word	to	
+gap	 	
+word	deal	
+gap	 	
+word	with	
+gap	 	
+word	those	
+gap	 	
+word	environment	
+gap	 	
+word	changes	
+gap	 – 	
+word	environment	
+gap	 	
+word	changes	
+gap	 	
+word	do	
+gap	 	
+word	not	
+gap	 	
+word	mean	
+gap	, 	
+word	by	
+gap	 	
+word	themselves	
+gap	, 	
+word	character	
+gap	 	
+word	or	
+gap	 	
+word	behavioural	
+gap	 	
+word	disorders	
+gap	.\n\n	
+word	Given	
+gap	 	
+word	the	
+gap	 	
+word	right	
+gap	 	
+word	usage	
+gap	, 	
+word	technology	
+gap	 	
+word	can	
+gap	 	
+word	lead	
+gap	 	
+word	to	
+gap	 	
+word	many	
+gap	 	
+word	positive	
+gap	 	
+word	effects	
+gap	 	
+word	in	
+gap	 	
+word	children	
+gap	 	
+word	and	
+gap	 	
+word	family	
+gap	 	
+word	lives	
+gap	. 	
+word	Computers	
+gap	, 	
+word	videogames	
+gap	 	
+word	and	
+gap	 	
+word	other	
+gap	 	
+word	devices	
+gap	 	
+word	can	
+gap	 	
+word	help	
+gap	 	
+word	with	
+gap	 	
+word	fine	
+gap	 	
+word	motor	
+gap	 	
+word	skills	
+gap	 	
+word	like	
+gap	 	
+word	the	
+gap	 	
+word	development	
+gap	 	
+word	of	
+gap	 	
+word	eye	
+gap	 	
+word	hand	
+gap	 	
+word	coordination	
+gap	, 	
+word	promote	
+gap	 	
+word	contact	
+gap	 	
+word	with	
+gap	 	
+word	a	
+gap	 	
+word	wider	
+gap	 	
+word	cultural	
+gap	 	
+word	field	
+gap	, 	
+word	contributing	
+gap	 	
+word	with	
+gap	 	
+word	language	
+gap	 	
+word	and	
+gap	 	
+word	intellectual	
+gap	 	
+word	development	
+gap	, 	
+word	can	
+gap	 	
+word	mediate	
+gap	 	
+word	and	
+gap	 	
+word	facilitate	
+gap	 	
+word	family	
+gap	 	
+word	conversation	
+gap	 	
+word	on	
+gap	 	
+word	more	
+gap	 	
+word	delicate	
+gap	 	
+word	topics	
+gap	 	
+word	and	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	involved	
+gap	 	
+word	in	
+gap	 	
+word	family	
+gap	 	
+word	reunions	
+gap	 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	keep	
+gap	 	
+word	up	
+gap	 	
+word	with	
+gap	 	
+word	the	
+gap	 	
+word	youngers	
+gap	 	
+word	dynamics	
+gap	.\n\n	
+word	As	
+gap	 	
+word	shown	
+gap	, 	
+word	computers	
+gap	 	
+word	and	
+gap	 	
+word	videogames	
+gap	 	
+word	play	
+gap	 	
+word	a	
+gap	 	
+word	big	
+gap	 	
+word	role	
+gap	 	
+word	in	
+gap	 	
+word	children	
+gap	 	
+word	lives	
+gap	 	
+word	nowadays	
+gap	, 	
+word	but	
+gap	 	
+word	that	
+gap	 	
+word	should	
+gap	 	
+word	not	
+gap	 	
+word	instantly	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	bad	
+gap	 	
+word	meaning	
+gap	. 	
+word	Technology	
+gap	 	
+word	does	
+gap	 	
+word	not	
+gap	 	
+word	have	
+gap	 	
+word	a	
+gap	 	
+word	free	
+gap	 	
+word	will	
+gap	, 	
+word	all	
+gap	 	
+word	it	
+gap	 	
+word	does	
+gap	 	
+word	is	
+gap	 	
+word	reflect	
+gap	 	
+word	humans	
+gap	’ 	
+word	values	
+gap	. 	
+word	As	
+gap	 	
+word	it	
+gap	 	
+word	can	
+gap	 	
+word	be	
+gap	 	
+word	a	
+gap	 	
+word	very	
+gap	 	
+word	present	
+gap	 	
+word	trigger	
+gap	, 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	important	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	society	
+gap	 	
+word	to	
+gap	 	
+word	learn	
+gap	 	
+word	how	
+gap	 	
+word	to	
+gap	 	
+word	deal	
+gap	 	
+word	with	
+gap	 	
+word	this	
+gap	 	
+word	tool	
+gap	 	
+word	which	
+gap	 	
+word	can	
+gap	, 	
+word	very	
+gap	 	
+word	easily	
+gap	, 	
+word	become	
+gap	 	
+word	a	
+gap	 	
+word	weapon	
+gap	. 	
+word	The	
+gap	 	
+word	family	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	whole	
+gap	 	
+word	have	
+gap	 	
+word	to	
+gap	 	
+word	learn	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	potential	
+gap	 	
+word	dangers	
+gap	 	
+word	and	
+gap	 	
+word	benefits	
+gap	 	
+word	they	
+gap	 	
+word	may	
+gap	 	
+word	face	
+gap	 	
+word	and	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	power	
+gap	 	
+word	it	
+gap	 	
+word	gives	
+gap	 	
+word	for	
+gap	 	
+word	the	
+gap	 	
+word	user	
+gap	. 	
+word	Build	
+gap	 	
+word	a	
+gap	 	
+word	solid	
+gap	 	
+word	foundation	
+gap	 	
+word	about	
+gap	 	
+word	the	
+gap	 	
+word	topic	
+gap	 	
+word	leads	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	well	
+gap	-	
+word	formed	
+gap	 	
+word	digital	
+gap	 	
+word	child	
+gap	 	
+word	and	
+gap	 	
+word	home	
+gap	. \n\n	

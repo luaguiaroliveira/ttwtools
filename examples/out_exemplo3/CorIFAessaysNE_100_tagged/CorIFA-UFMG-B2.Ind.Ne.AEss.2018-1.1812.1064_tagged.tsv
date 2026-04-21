@@ -1,912 +1,1531 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1812.1064.txt
-token	tags
-    	
-In	PIN CONJ CAP PREP
-order	SUAV NN
-to	PIN TO PREP
-understand	PRIV INF
- 	
-this	DEMO DET
-essay	NN
-,	
-we	FPP1 PRP SBJP
-need	VPRT
-first	RB
-to	PIN TO PREP
-visualize	INF
- 	
-that	DEMO DET
-level	NN
-of	PIN PREP
-Portuguese	JJ CAP
-literacy	NN
- 	
-is	BEMA VPRT AUXB
-lower	JJ PRED CMADJ
-comparing	PGAS
-other	JJ
-level	NN
-of	PIN PREP
-proficiency	NN
-from	PIN PREP
-in	PIN CONJ PREP
-developing	GER PGAS
-countries	NN
-.	
-This	DEMO CAP DET
-essay	NN
-was	PASS VBD AUXB
-built	
-based	
-in	PIN CONJ PREP
-checking	PRIV PGAS
-the	ART DET
-levels	NN
-of	PIN PREP
-reading	PGAS
-proficiency	NN
-of	PIN PREP
-students	NN
-enrolled	VBD
-in	PIN CONJ PREP
-third	JJ
-grade	NN
-of	PIN PREP
-High	CAP NNP
-School	CAP NNP
-.	
-For	PIN CAP PREP
-supporting	GER PGAS
-the	ART DET
-this	DEMO DET
-thesis	NN
-,	
-two	NUM
-mains	NN
-education	NOMZ
-assessments	NOMZ
-made	WZPAST
-by	PIN PREP
-Federal	CAP NNP
-Government	CAP NNP
-was	PASS VBD AUXB
-adopted	
-as	PIN CONJ PREP
-a	ART DET INDA
-source	NN
-of	PIN PREP
-investigation	NOMZ
-.	
-The	ART CAP DET
-analyses	NN
-of	PIN PREP
-them	TPP3 PRP SBJP ACCU
-show	VPRT PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-level	NN
-of	PIN PREP
-literacy	NN
-of	PIN PREP
-students	NN
-from	PIN PREP
-public	JJ
-is	BEMA VPRT AUXB
-lower	JJ PRED CMADJ
-.	
-According	CAP PGAS
-to	PIN PREP
-this	DEMO DET
-context	NN
-,	
-this	DEMO DET
-essay	NN
-intends	VPRT SUAV
-to	PIN TO PREP
-discuss	INF
-how	RB SCONJ WH
-a	ART DET INDA
-pedagogic	JJ
-strategies	NN
-can	POMD
-aid	INF
-these	DEMO DET
-students	NN
-to	PIN TO PREP
-acquire	INF
-better	JJ CMADJ
-grades	NN
-.	
-This	DEMO CAP DET
-essay	NN
- 	
-focus	NN
-in	PIN CONJ PREP
-practicing	GER PGAS
-very	AMP RB
-knowing	PRIV PGAS
-among	PIN PREP
-adolescents	NN
-called	VBD
-the	ART DET
-fan	NN
- 	
-fiction	NOMZ
- 	
-writing	PUBV NN
-or	CCONJ
-fanfiction	NOMZ
-.	
-My	FPP1 CAP PRP SBJP
-thesis	NN
-is	BEMA VPRT AUXB
-through	PIN PREP
-the	ART DET
-fanfictions	NOMZ
-,	
- 	
-young	JJ
-students	NN
-from	PIN PREP
-public	JJ
-schools	NN
-can	POMD
-acquire	INF
-better	JJ CMADJ
-literacy	NN
-while	OSUB PIN SCONJ PREP
-reading	PGAS
-and	PHC CCONJ
-writing	PUBV PGAS
-stories	NN
-of	PIN PREP
-idols	NN
-.	
-The	ART CAP DET
-participants	NN
-were	BEMA VBD AUXB
-Portuguese	JJ PRED CAP
-Language	CAP NNP
-teachers	NN
-and	PHC CCONJ
-students	NN
-enrolled	VBD
-in	PIN CONJ PREP
-third	JJ
-grade	NN
-at	PIN PREP
-a	ART DET INDA
-Public	CAP NNP
-High	CAP NNP
-School	CAP NNP
-.	
-This	DEMO CAP DET
-essay	NN
-will	PRMD
-explain	PUBV INF
-the	ART DET
-methods	NN
-opted	WZPAST
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-carry	INF
-out	PIN PREP
-this	DEMO DET
-study	NN
-:	
-bibliographic	JJ
-study	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-desk	NN
-and	PHC CCONJ
-field	NN
-researches	NN
-.	
- 	
-Theoretical	JJ CAP
-foundations	NOMZ
-came	VBD
-from	PIN PREP
-the	ART DET
-contribution	NOMZ
-of	PIN PREP
-several	QUAN JJ
-authors	NN
-who	WHSUB WH
-discuss	VPRT
-about	PIN PREP
-language	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-new	JJ
-methods	NN
-of	PIN PREP
-teaching	NN
-with	PIN PREP
-the	ART DET
-new	JJ
-technologies	NN
-of	PIN PREP
-information	NOMZ
-and	PHC CCONJ
-communication	NOMZ
-,	
-such	JJ
-as	PIN CONJ STPR PREP
-:	
-Bakhtin	CAP NNP
-,	
-(	
-1953/2011	NUM
-)	
-,	
-Rojo	CAP NNP
-(	
-2004	NUM
-;	
-2009	NUM
-;	
-2012	NUM
-;	
-2013	NUM
-)	
-,	
-Gomes	CAP NNP
-(	
-2010	NUM
-;	
-2012	NUM
-;	
-2014	NUM
-;	
-2015	NUM
-)	
-,	
-Coscarelli	CAP NNP
-(	
-2011	NUM
-;	
-2013	NUM
-)	
-,	
- 	
-Coscarelli	CAP NNP
-and	PHC CCONJ
-Cafiero	CAP NNP
-(	
-2013	NUM
-)	
-,	
-among	PIN PREP
-others	NN
-.	
-The	ART CAP DET
-bibliographic	JJ
-study	NN
-shows	VPRT PRIV
-how	RB WHCL SCONJ WH
-relevant	JJ
-is	BEMA VPRT AUXB
-this	DEMO DET
-issue	NN
-mainly	RB
-because	CAUS PIN SCONJ PREP
-many	QUAN JJ
-schools	NN
-do	VPRT SPAU
-not	XX0 RB
-incorporate	INF
-the	ART DET
-technology	NN
-in	PIN CONJ PREP
-their	TPP3 PRP SBJP
-pedagogic	JJ
-routine	NN
-currently	RB
-.	
-The	ART CAP DET
-importance	NN
-of	PIN PREP
-this	DEMO DET
-point	NN
-must	NEMD
-be	PASS AUXB INF
-overlooked	
-:	
-while	OSUB PIN SCONJ PREP
-devices	NN
-are	PASS VPRT AUXB
-remodeled	
-through	PIN PREP
-the	ART DET
-time	NN
-,	
-education	NOMZ
-field	NN
-has	VPRT
-the	ART DET
-same	JJ
-structure	NN
-of	PIN PREP
- 	
-last	JJ
-century	NN
-.	
-New	JJ CAP
-practices	NN
-need	VPRT
-to	PIN TO PREP
-be	PASS AUXB INF
-adopted	
-in	PIN CONJ PREP
-education	NOMZ
-field	NN
- 	
-and	CCONJ
-them	TPP3 PRP SBJP ACCU
-must	NEMD
-make	INF
-sense	PRIV NN
-with	PIN PREP
-our	FPP1 PRP SBJP
-lives	NN
-in	PIN CONJ PREP
-community	NOMZ
-.	
-Chandler	CAP NNP
--	
-Olcott	CAP NNP
-and	PHC CCONJ
-Mahar	CAP NNP
-(	
-2003	NUM
-)	
-drew	VBD
-on	PIN PREP
-the	ART DET
-work	NN
-of	PIN PREP
-several	QUAN JJ
-New	CAP NNP
-Literacy	CAP NNP
-Studies	CAP NNP
- 	
-researchers	NN
-to	PIN TO PREP
-examine	INF
-the	ART DET
-fanfiction	NOMZ
-practicing	GER WZPRES PGAS
-as	PIN CONJ PREP
-a	ART DET INDA
-valid	JJ
-literacy	NN
-practice	NN
-.	
-This	DEMO CAP DET
-essay	NN
-seeks	VPRT
-to	PIN TO PREP
-extend	INF
-their	TPP3 PRP SBJP
-work	NN
-into	PIN PREP
-the	ART DET
-virtual	JJ
-realm	NN
-by	PIN PREP
- 	
-a	ART DET INDA
-theoretical	JJ
-lens	NN
-to	PIN TO PREP
-explore	INF
-the	ART DET
-ways	NN
-the	ART DET
-digital	JJ
-medium	NN
-not	XX0 RB
-only	DWNT RB
-scaffolds	NN
-but	CCONJ
-also	RB
-is	BEMA VPRT AUXB
-an	ART DET INDA
-integral	JJ
-part	NN
-of	PIN PREP
-the	ART DET
-literacy	NN
-and	PHC CCONJ
-meaning	PRIV NN
--	
-making	PGAS
-practices	NN
-(	
-e.g.	RB CONJ
-,	
-composing	NN
-and	CCONJ
-interacting	GER PGAS
-in	PIN CONJ PREP
-multiple	JJ
-genres	NN
-and	CCONJ
-social	JJ
-registers	NN
-and	CCONJ
-offering	PGAS
-sophisticated	JJ
-reviews	NN
-and	CCONJ
-meta	JJ
--	
-analyses	NN
-of	PIN PREP
-fictions	NOMZ
-)	
-that	PIN DEMO SCONJ PREP
-adolescent	JJ
-student	NN
-of	PIN PREP
-Portuguese	JJ CAP
-language	NN
-use	NN
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-post	VPRT
-fanfictions	NOMZ
-.	
-To	PIN CAP PREP
-that	DEMO DET
-end	NN
-,	
-some	QUAN DET
-literacy	NN
-researchers	NN
-claimed	VBD PUBV
-to	PIN TO PREP
-look	INF
-in	PIN CONJ PREP
-earnest	NN
-at	PIN PREP
-the	ART DET
-Internet	NN CAP
-and	CCONJ
-the	ART DET
-opportunities	NN
-it	PIT PRP SBJP
-provides	VPRT
-for	PIN PREP
-authentic	JJ
-linguistic	JJ
-and	PHC CCONJ
-social	JJ
-interactions	NOMZ
-within	PIN PREP
-contexts	DET
-that	DEMP WH
-are	BEMA VPRT AUXB
-meaningful	JJ PRED
-for	PIN PREP
-participants	NN
-.	
- 	
-Furthermore	RB CONJ CAP
-,	
-the	ART DET
-desk	NN
-research	NN
-reveals	VPRT PRIV THATD
-there	EX
-is	VPRT AUXB
-a	ART DET INDA
-public	JJ
-policy	NN
-for	PIN PREP
-adoption	NOMZ
-of	PIN PREP
-digital	JJ
-technologies	NN
-in	PIN CONJ PREP
-class	NN
-.	
-Although	CONC PIN STPR CAP SCONJ PREP
-,	
-the	ART DET
-illiteracy	NN
-it	PIT PRP SBJP
-is	PASS VPRT SPAU AUXB
-not	XX0 RB
-solved	
-only	DWNT RB
-supply	NN
-schools	NN
- 	
-with	PIN PREP
-digital	JJ
-gadgets	NN
-.	
-Thus	RB CONJ CAP
-,	
-analyses	VPRT
-focus	NN
-on	PIN PREP
-the	ART DET
-various	JJ
-ways	NN
-in	PIN CONJ PREP
-which	PIRE DET WH
-interplay	NN
-enables	VPRT
-adolescent	JJ
-students	NN
-to	PIN TO PREP
-forge	INF
-connections	NOMZ
-with	PIN PREP
-other	JJ
-fans	NN
-and	CCONJ
-to	PIN TO PREP
-establish	PRIV INF
-a	ART DET INDA
-social	JJ
-base	NN
-within	PIN PREP
-this	DEMO DET
-discourse	NN
-community	NOMZ
-.	
-This	DEMP CAP DET
-,	
-in	PIN CONJ PREP
-turn	NN
-,	
-provides	VPRT
-them	TPP3 PRP SBJP ACCU
-with	PIN PREP
-24	NUM
--	
-hour	NN
-access	NN
-to	PIN PREP
- 	
-your	SPP2 PRP SBJP
-community	NOMZ
-and	CCONJ
-facilitates	VPRT
-authentic	JJ
-,	
-meaningful	JJ
-use	NN
-of	PIN PREP
-language	NN
-and	PHC CCONJ
-literacy	NN
-(	
-Warschauer	CAP NNP
-,	
-2000	NUM
-)	
-.	
-It	PIT CAP PRP SBJP
-reveals	VPRT PRIV
-that	PIN THVC SCONJ PREP
-digital	JJ
-inclusion	NOMZ
-precedes	VPRT
- 	
-behavior	NN
-involvement	NOMZ
-allied	WZPAST
-on	PIN PREP
-social	JJ
-interests	NN
-.	
- 	
-Moreover	RB CONJ CAP
-Freeman	CAP NNP
-and	PHC CCONJ
-Freeman	CAP NNP
-(	
-1994	NUM
-)	
-discussed	VBD
-the	ART DET
-interplay	NN
-of	PIN PREP
-a	ART DET INDA
-range	NN
-of	PIN PREP
-in-	X
-and	CCONJ
-out	RB PIN STPR PREP
--	
-of	PIN STPR PREP
--	
-school	NN
-factors	NN
-that	TSUB WHSUB WH
-contribute	VPRT
-to	PIN PREP
-a	ART DET INDA
-language	NN
-learner	NN
-’s	
-access	NN
-to	PIN PREP
-Second	CAP NNP
-Learning	PRIV CAP NNP
-Acquistion	CAP NNP
-,	
-such	JJ
-as	PIN CONJ PREP
-level	NN
-of	PIN PREP
-acceptance	NN
-by	PIN PREP
-the	ART DET
-community	NOMZ
-,	
-background	NN
-knowledge	NN
-and	PHC CCONJ
-experiences	NN
-,	
-and	ANDC CCONJ
-interactions	NOMZ
-with	PIN PREP
-peers	NN
-and	PHC CCONJ
-teachers	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-teaching	NN
-and	CCONJ
-learning	PRIV PGAS
-approaches	NN
-within	PIN PREP
-the	ART DET
-community	NOMZ
-.	
-This	DEMP CAP DET
-is	BEMA VPRT AUXB
-particularly	RB
-relevant	JJ
-for	PIN PREP
-literacy	NN
- 	
-researchers	NN
-and	CCONJ
-noteworthy	JJ
-for	PIN PREP
-educators	NN
-is	BEMA VPRT AUXB
-the	ART DET
-kinds	NN
-of	PIN PREP
-writing	PUBV NN
-going	WZPRES PGAS
-on	PIN STPR PREP
-,	
-the	ART DET
-metatalk	NN
-about	PIN PREP
-writing	PUBV NN
-,	
-the	ART DET
-meaning	PRIV NN
--	
-making	NN
-and	PHC CCONJ
-identity	NOMZ
-work	NN
-related	WZPAST
-to	PIN PREP
-writing	PUBV NN
-,	
-and	ANDC CCONJ
-the	ART DET
-sort	NN HDG
-of	PIN PREP
-people	NN
-who	WHSUB WH
-are	VPRT AUXB
-doing	PROD PGAS
-the	ART DET
-writing	PUBV NN
-.	
-This	DEMO CAP DET
-statement	NOMZ
-was	PASS VBD AUXB
-proofed	
-on	PIN PREP
-data	NN
-collection	NOMZ
-which	WHSUB DET WH
-was	PASS VBD AUXB
-held	PRIV
-through	PIN PREP
-interviews	NN
-,	
-questionnaires	NN
-and	CCONJ
-participant	JJ
-observation	NOMZ
-.	
-Many	QUAN JJ CAP
-participants	NN
-reported	VBD PUBV
-the	ART DET
-range	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-writings	NN
-and	PHC CCONJ
-acceptance	NN
-of	PIN PREP
-their	TPP3 PRP SBJP
-works	NN
-among	PIN PREP
-peers	NN
-from	PIN PREP
-other	JJ
-communities	NN
-.	
- 	
-In	PIN CONJ CAP PREP
-conclusion	NOMZ
-,	
-the	ART DET
- 	
-thesis	NN
-points	VPRT
-the	ART DET
-adoption	NOMZ
-of	PIN PREP
-simple	JJ
-pedagogic	JJ
-strategies	NN
-can	POMD
-produce	INF
-efficient	JJ
-works	NN
-in	PIN CONJ PREP
-the	ART DET
-field	NN
-of	PIN PREP
-language	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-on	PIN PREP
-Portuguese	JJ CAP
-literacy	NN
-,	
-considering	GER PRIV PRESP PGAS
-the	ART DET
-use	NN
-Technology	CAP NNP
-as	PIN CONJ PREP
-an	ART DET INDA
-important	JJ
-tool	NN
-for	PIN PREP
-improving	PGAS
-the	ART DET
-digital	JJ
-literacy	NN
-.	
-The	ART CAP DET
-use	NN
-of	PIN PREP
-fanfiction	JJ
-genre	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-good	JJ
-example	NN
-how	RB WHOBJ SCONJ WH
-we	FPP1 PRP SBJP
-can	POMD
-use	INF
-simple	JJ
-and	PHC CCONJ
-modern	JJ
-technique	NN
-to	PIN TO PREP
-stimulate	INF
-for	PIN PREP
-producing	PGAS
-good	JJ
-writings	NN
-.	
-However	RB CONJ CAP
-,	
-the	ART DET
-survey	NN
-field	NN
-revealed	VBD PRIV
- 	
-the	ART DET
-necessity	NOMZ
-of	PIN PREP
-investments	NOMZ
-in	PIN CONJ PREP
-teacher	NN
-training	NN
-,	
-projects	NN
-,	
-actions	NOMZ
-and	PHC CCONJ
-policies	NN
-in	PIN CONJ PREP
-reading	PGAS
-teaching	NN
-,	
-in	PIN CONJ PREP
-order	SUAV NN
-to	PIN TO PREP
-improve	INF
-the	ART DET
-level	NN
-of	PIN PREP
- 	
-high	JJ
- 	
-school	NN
-education	NOMZ
-.	
-These	DEMO CAP DET
-results	NN
-showed	VBD PRIV
-how	RB WHCL SCONJ WH
-relevant	JJ
-is	VPRT AUXB
-provide	INF
- 	
-a	ART DET INDA
-better	JJ CMADJ
-development	NOMZ
-of	PIN PREP
-all	QUAN DET
-reading	NN
-skills	NN
-in	PIN CONJ PREP
-students	NN
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-essential	JJ PRED
-for	PIN PREP
-their	TPP3 PRP SBJP
-schooling	NN
-,	
-as	RB CONJ
-well	RB
-as	PIN CONJ PREP
-their	TPP3 PRP SBJP
-full	JJ
-right	NN
-to	PIN PREP
-an	ART DET INDA
-emancipatory	JJ
-public	JJ
-education	NOMZ
-,	
-in	PIN CONJ PREP
-all	QUAN DET
-levels	NN
-.	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2018-1.1812.1064>\n\n<The Literacy and Composition Practices of Portuguese‐Language Learners in an Online Fanfiction Community>\n\n	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	understand	PRIV INF
+gap	  	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	, 	
+word	we	FPP1 PRP SBJP
+gap	 	
+word	need	VPRT
+gap	 	
+word	first	RB
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	visualize	INF
+gap	  	
+word	that	DEMO DET
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Portuguese	JJ CAP
+gap	 	
+word	literacy	NN
+gap	  	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	lower	JJ PRED CMADJ
+gap	 	
+word	comparing	PGAS
+gap	 	
+word	other	JJ
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	proficiency	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	developing	GER PGAS
+gap	 	
+word	countries	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	built	
+gap	 	
+word	based	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	checking	PRIV PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	levels	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reading	PGAS
+gap	 	
+word	proficiency	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	students	NN
+gap	 	
+word	enrolled	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	third	JJ
+gap	 	
+word	grade	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	High	CAP NNP
+gap	 	
+word	School	CAP NNP
+gap	. 	
+word	For	PIN CAP PREP
+gap	 	
+word	supporting	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	thesis	NN
+gap	, 	
+word	two	NUM
+gap	 	
+word	mains	NN
+gap	 	
+word	education	NOMZ
+gap	 	
+word	assessments	NOMZ
+gap	 	
+word	made	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	Federal	CAP NNP
+gap	 	
+word	Government	CAP NNP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	adopted	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	source	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	investigation	NOMZ
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	analyses	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	show	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	level	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	literacy	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	students	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	lower	JJ PRED CMADJ
+gap	. 	
+word	According	CAP PGAS
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	context	NN
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	 	
+word	intends	VPRT SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	discuss	INF
+gap	 	
+word	how	RB SCONJ WH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	pedagogic	JJ
+gap	 	
+word	strategies	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	aid	INF
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	students	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	acquire	INF
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	grades	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	  	
+word	focus	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	practicing	GER PGAS
+gap	 	
+word	very	AMP RB
+gap	 	
+word	knowing	PRIV PGAS
+gap	 	
+word	among	PIN PREP
+gap	 	
+word	adolescents	NN
+gap	 	
+word	called	VBD
+gap	 	
+word	the	ART DET
+gap	 	
+word	fan	NN
+gap	  	
+word	fiction	NOMZ
+gap	  	
+word	writing	PUBV NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	fanfiction	NOMZ
+gap	. 	
+word	My	FPP1 CAP PRP SBJP
+gap	 	
+word	thesis	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	fanfictions	NOMZ
+gap	,  	
+word	young	JJ
+gap	 	
+word	students	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	public	JJ
+gap	 	
+word	schools	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	acquire	INF
+gap	 	
+word	better	JJ CMADJ
+gap	 	
+word	literacy	NN
+gap	 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	reading	PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	writing	PUBV PGAS
+gap	 	
+word	stories	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	idols	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	participants	NN
+gap	 	
+word	were	BEMA VBD AUXB
+gap	 	
+word	Portuguese	JJ PRED CAP
+gap	 	
+word	Language	CAP NNP
+gap	 	
+word	teachers	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	students	NN
+gap	 	
+word	enrolled	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	third	JJ
+gap	 	
+word	grade	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	Public	CAP NNP
+gap	 	
+word	High	CAP NNP
+gap	 	
+word	School	CAP NNP
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	methods	NN
+gap	 	
+word	opted	WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	order	SUAV NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	carry	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	study	NN
+gap	: 	
+word	bibliographic	JJ
+gap	 	
+word	study	NN
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	desk	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	field	NN
+gap	 	
+word	researches	NN
+gap	.\n	
+word	Theoretical	JJ CAP
+gap	 	
+word	foundations	NOMZ
+gap	 	
+word	came	VBD
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	contribution	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	authors	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	discuss	VPRT
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	language	NN
+gap	, 	
+word	as	RB CONJ
+gap	 	
+word	well	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	methods	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	teaching	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	new	JJ
+gap	 	
+word	technologies	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	information	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	communication	NOMZ
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ STPR PREP
+gap	: 	
+word	Bakhtin	CAP NNP
+gap	, (1953/2011), 	
+word	Rojo	CAP NNP
+gap	 (2004; 2009; 2012; 2013), 	
+word	Gomes	CAP NNP
+gap	 (2010; 2012; 2014; 2015), 	
+word	Coscarelli	CAP NNP
+gap	 (2011; 2013),  	
+word	Coscarelli	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Cafiero	CAP NNP
+gap	 (2013), 	
+word	among	PIN PREP
+gap	 	
+word	others	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	bibliographic	JJ
+gap	 	
+word	study	NN
+gap	 	
+word	shows	VPRT PRIV
+gap	 	
+word	how	RB WHCL SCONJ WH
+gap	 	
+word	relevant	JJ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	issue	NN
+gap	 	
+word	mainly	RB
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	schools	NN
+gap	 	
+word	do	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	incorporate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	technology	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	pedagogic	JJ
+gap	 	
+word	routine	NN
+gap	 	
+word	currently	RB
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	importance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	point	NN
+gap	 	
+word	must	NEMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	overlooked	
+gap	: 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	devices	NN
+gap	 	
+word	are	PASS VPRT AUXB
+gap	 	
+word	remodeled	
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	time	NN
+gap	, 	
+word	education	NOMZ
+gap	 	
+word	field	NN
+gap	 	
+word	has	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	  	
+word	last	JJ
+gap	 	
+word	century	NN
+gap	. 	
+word	New	JJ CAP
+gap	 	
+word	practices	NN
+gap	 	
+word	need	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	adopted	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	education	NOMZ
+gap	 	
+word	field	NN
+gap	  	
+word	and	CCONJ
+gap	 	
+word	them	TPP3 PRP SBJP ACCU
+gap	 	
+word	must	NEMD
+gap	 	
+word	make	INF
+gap	 	
+word	sense	PRIV NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	our	FPP1 PRP SBJP
+gap	 	
+word	lives	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	community	NOMZ
+gap	. 	
+word	Chandler	CAP NNP
+gap	-	
+word	Olcott	CAP NNP
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	Mahar	CAP NNP
+gap	 (2003) 	
+word	drew	VBD
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	work	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	New	CAP NNP
+gap	 	
+word	Literacy	CAP NNP
+gap	 	
+word	Studies	CAP NNP
+gap	  	
+word	researchers	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	examine	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	fanfiction	NOMZ
+gap	 	
+word	practicing	GER WZPRES PGAS
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	valid	JJ
+gap	 	
+word	literacy	NN
+gap	 	
+word	practice	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	essay	NN
+gap	 	
+word	seeks	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	extend	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	work	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	virtual	JJ
+gap	 	
+word	realm	NN
+gap	 	
+word	by	PIN PREP
+gap	  	
+word	a	ART DET INDA
+gap	 	
+word	theoretical	JJ
+gap	 	
+word	lens	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explore	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	ways	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	digital	JJ
+gap	 	
+word	medium	NN
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	scaffolds	NN
+gap	 	
+word	but	CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	integral	JJ
+gap	 	
+word	part	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	literacy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	meaning	PRIV NN
+gap	-	
+word	making	PGAS
+gap	 	
+word	practices	NN
+gap	 (	
+word	e	
+gap	.	
+word	g	
+gap	., 	
+word	composing	
+gap	 	
+word	and	
+gap	 	
+word	interacting	
+gap	 	
+word	in	
+gap	 	
+word	multiple	
+gap	 	
+word	genres	
+gap	 	
+word	and	
+gap	 	
+word	social	
+gap	 	
+word	registers	
+gap	 	
+word	and	
+gap	 	
+word	offering	
+gap	 	
+word	sophisticated	
+gap	 	
+word	reviews	
+gap	 	
+word	and	
+gap	 	
+word	meta	
+gap	-	
+word	analyses	
+gap	 	
+word	of	
+gap	 	
+word	fictions	
+gap	) 	
+word	that	
+gap	 	
+word	adolescent	
+gap	 	
+word	student	
+gap	 	
+word	of	
+gap	 	
+word	Portuguese	
+gap	 	
+word	language	
+gap	 	
+word	use	
+gap	 	
+word	as	
+gap	 	
+word	they	
+gap	 	
+word	post	
+gap	 	
+word	fanfictions	
+gap	. 	
+word	To	
+gap	 	
+word	that	
+gap	 	
+word	end	
+gap	, 	
+word	some	
+gap	 	
+word	literacy	
+gap	 	
+word	researchers	
+gap	 	
+word	claimed	
+gap	 	
+word	to	
+gap	 	
+word	look	
+gap	 	
+word	in	
+gap	 	
+word	earnest	
+gap	 	
+word	at	
+gap	 	
+word	the	
+gap	 	
+word	Internet	
+gap	 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	opportunities	
+gap	 	
+word	it	
+gap	 	
+word	provides	
+gap	 	
+word	for	
+gap	 	
+word	authentic	
+gap	 	
+word	linguistic	
+gap	 	
+word	and	
+gap	 	
+word	social	
+gap	 	
+word	interactions	
+gap	 	
+word	within	
+gap	 	
+word	contexts	
+gap	 	
+word	that	
+gap	 	
+word	are	
+gap	 	
+word	meaningful	
+gap	 	
+word	for	
+gap	 	
+word	participants	
+gap	.\n	
+word	Furthermore	
+gap	, 	
+word	the	
+gap	 	
+word	desk	
+gap	 	
+word	research	
+gap	 	
+word	reveals	
+gap	 	
+word	there	
+gap	 	
+word	is	
+gap	 	
+word	a	
+gap	 	
+word	public	
+gap	 	
+word	policy	
+gap	 	
+word	for	
+gap	 	
+word	adoption	
+gap	 	
+word	of	
+gap	 	
+word	digital	
+gap	 	
+word	technologies	
+gap	 	
+word	in	
+gap	 	
+word	class	
+gap	. 	
+word	Although	
+gap	, 	
+word	the	
+gap	 	
+word	illiteracy	
+gap	 	
+word	it	
+gap	 	
+word	is	
+gap	 	
+word	not	
+gap	 	
+word	solved	
+gap	 	
+word	only	
+gap	 	
+word	supply	
+gap	 	
+word	schools	
+gap	  	
+word	with	
+gap	 	
+word	digital	
+gap	 	
+word	gadgets	
+gap	. 	
+word	Thus	
+gap	, 	
+word	analyses	
+gap	 	
+word	focus	
+gap	 	
+word	on	
+gap	 	
+word	the	
+gap	 	
+word	various	
+gap	 	
+word	ways	
+gap	 	
+word	in	
+gap	 	
+word	which	
+gap	 	
+word	interplay	
+gap	 	
+word	enables	
+gap	 	
+word	adolescent	
+gap	 	
+word	students	
+gap	 	
+word	to	
+gap	 	
+word	forge	
+gap	 	
+word	connections	
+gap	 	
+word	with	
+gap	 	
+word	other	
+gap	 	
+word	fans	
+gap	 	
+word	and	
+gap	 	
+word	to	
+gap	 	
+word	establish	
+gap	 	
+word	a	
+gap	 	
+word	social	
+gap	 	
+word	base	
+gap	 	
+word	within	
+gap	 	
+word	this	
+gap	 	
+word	discourse	
+gap	 	
+word	community	
+gap	. 	
+word	This	
+gap	, 	
+word	in	
+gap	 	
+word	turn	
+gap	, 	
+word	provides	
+gap	 	
+word	them	
+gap	 	
+word	with	
+gap	 24-	
+word	hour	
+gap	 	
+word	access	
+gap	 	
+word	to	
+gap	  	
+word	your	
+gap	 	
+word	community	
+gap	 	
+word	and	
+gap	 	
+word	facilitates	
+gap	 	
+word	authentic	
+gap	, 	
+word	meaningful	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	language	
+gap	 	
+word	and	
+gap	 	
+word	literacy	
+gap	 (	
+word	Warschauer	
+gap	, 2000). 	
+word	It	
+gap	 	
+word	reveals	
+gap	 	
+word	that	
+gap	 	
+word	digital	
+gap	 	
+word	inclusion	
+gap	 	
+word	precedes	
+gap	  	
+word	behavior	
+gap	 	
+word	involvement	
+gap	 	
+word	allied	
+gap	 	
+word	on	
+gap	 	
+word	social	
+gap	 	
+word	interests	
+gap	. \n	
+word	Moreover	
+gap	 	
+word	Freeman	
+gap	 	
+word	and	
+gap	 	
+word	Freeman	
+gap	 (1994) 	
+word	discussed	
+gap	 	
+word	the	
+gap	 	
+word	interplay	
+gap	 	
+word	of	
+gap	 	
+word	a	
+gap	 	
+word	range	
+gap	 	
+word	of	
+gap	 	
+word	in	
+gap	- 	
+word	and	
+gap	 	
+word	out	
+gap	-	
+word	of	
+gap	-	
+word	school	
+gap	 	
+word	factors	
+gap	 	
+word	that	
+gap	 	
+word	contribute	
+gap	 	
+word	to	
+gap	 	
+word	a	
+gap	 	
+word	language	
+gap	 	
+word	learner	
+gap	’	
+word	s	
+gap	 	
+word	access	
+gap	 	
+word	to	
+gap	 	
+word	Second	
+gap	 	
+word	Learning	
+gap	 	
+word	Acquistion	
+gap	, 	
+word	such	
+gap	 	
+word	as	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	 	
+word	acceptance	
+gap	 	
+word	by	
+gap	 	
+word	the	
+gap	 	
+word	community	
+gap	, 	
+word	background	
+gap	 	
+word	knowledge	
+gap	 	
+word	and	
+gap	 	
+word	experiences	
+gap	, 	
+word	and	
+gap	 	
+word	interactions	
+gap	 	
+word	with	
+gap	 	
+word	peers	
+gap	 	
+word	and	
+gap	 	
+word	teachers	
+gap	, 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	teaching	
+gap	 	
+word	and	
+gap	 	
+word	learning	
+gap	 	
+word	approaches	
+gap	 	
+word	within	
+gap	 	
+word	the	
+gap	 	
+word	community	
+gap	. 	
+word	This	
+gap	 	
+word	is	
+gap	 	
+word	particularly	
+gap	 	
+word	relevant	
+gap	 	
+word	for	
+gap	 	
+word	literacy	
+gap	  	
+word	researchers	
+gap	 	
+word	and	
+gap	 	
+word	noteworthy	
+gap	 	
+word	for	
+gap	 	
+word	educators	
+gap	 	
+word	is	
+gap	 	
+word	the	
+gap	 	
+word	kinds	
+gap	 	
+word	of	
+gap	 	
+word	writing	
+gap	 	
+word	going	
+gap	 	
+word	on	
+gap	, 	
+word	the	
+gap	 	
+word	metatalk	
+gap	 	
+word	about	
+gap	 	
+word	writing	
+gap	, 	
+word	the	
+gap	 	
+word	meaning	
+gap	-	
+word	making	
+gap	 	
+word	and	
+gap	 	
+word	identity	
+gap	 	
+word	work	
+gap	 	
+word	related	
+gap	 	
+word	to	
+gap	 	
+word	writing	
+gap	, 	
+word	and	
+gap	 	
+word	the	
+gap	 	
+word	sort	
+gap	 	
+word	of	
+gap	 	
+word	people	
+gap	 	
+word	who	
+gap	 	
+word	are	
+gap	 	
+word	doing	
+gap	 	
+word	the	
+gap	 	
+word	writing	
+gap	. 	
+word	This	
+gap	 	
+word	statement	
+gap	 	
+word	was	
+gap	 	
+word	proofed	
+gap	 	
+word	on	
+gap	 	
+word	data	
+gap	 	
+word	collection	
+gap	 	
+word	which	
+gap	 	
+word	was	
+gap	 	
+word	held	
+gap	 	
+word	through	
+gap	 	
+word	interviews	
+gap	, 	
+word	questionnaires	
+gap	 	
+word	and	
+gap	 	
+word	participant	
+gap	 	
+word	observation	
+gap	. 	
+word	Many	
+gap	 	
+word	participants	
+gap	 	
+word	reported	
+gap	 	
+word	the	
+gap	 	
+word	range	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	writings	
+gap	 	
+word	and	
+gap	 	
+word	acceptance	
+gap	 	
+word	of	
+gap	 	
+word	their	
+gap	 	
+word	works	
+gap	 	
+word	among	
+gap	 	
+word	peers	
+gap	 	
+word	from	
+gap	 	
+word	other	
+gap	 	
+word	communities	
+gap	.\n	
+word	In	
+gap	 	
+word	conclusion	
+gap	, 	
+word	the	
+gap	  	
+word	thesis	
+gap	 	
+word	points	
+gap	 	
+word	the	
+gap	 	
+word	adoption	
+gap	 	
+word	of	
+gap	 	
+word	simple	
+gap	 	
+word	pedagogic	
+gap	 	
+word	strategies	
+gap	 	
+word	can	
+gap	 	
+word	produce	
+gap	 	
+word	efficient	
+gap	 	
+word	works	
+gap	 	
+word	in	
+gap	 	
+word	the	
+gap	 	
+word	field	
+gap	 	
+word	of	
+gap	 	
+word	language	
+gap	, 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	on	
+gap	 	
+word	Portuguese	
+gap	 	
+word	literacy	
+gap	, 	
+word	considering	
+gap	 	
+word	the	
+gap	 	
+word	use	
+gap	 	
+word	Technology	
+gap	 	
+word	as	
+gap	 	
+word	an	
+gap	 	
+word	important	
+gap	 	
+word	tool	
+gap	 	
+word	for	
+gap	 	
+word	improving	
+gap	 	
+word	the	
+gap	 	
+word	digital	
+gap	 	
+word	literacy	
+gap	. 	
+word	The	
+gap	 	
+word	use	
+gap	 	
+word	of	
+gap	 	
+word	fanfiction	
+gap	 	
+word	genre	
+gap	 	
+word	as	
+gap	 	
+word	a	
+gap	 	
+word	good	
+gap	 	
+word	example	
+gap	 	
+word	how	
+gap	 	
+word	we	
+gap	 	
+word	can	
+gap	 	
+word	use	
+gap	 	
+word	simple	
+gap	 	
+word	and	
+gap	 	
+word	modern	
+gap	 	
+word	technique	
+gap	 	
+word	to	
+gap	 	
+word	stimulate	
+gap	 	
+word	for	
+gap	 	
+word	producing	
+gap	 	
+word	good	
+gap	 	
+word	writings	
+gap	. 	
+word	However	
+gap	, 	
+word	the	
+gap	 	
+word	survey	
+gap	 	
+word	field	
+gap	 	
+word	revealed	
+gap	  	
+word	the	
+gap	 	
+word	necessity	
+gap	 	
+word	of	
+gap	 	
+word	investments	
+gap	 	
+word	in	
+gap	 	
+word	teacher	
+gap	 	
+word	training	
+gap	, 	
+word	projects	
+gap	, 	
+word	actions	
+gap	 	
+word	and	
+gap	 	
+word	policies	
+gap	 	
+word	in	
+gap	 	
+word	reading	
+gap	 	
+word	teaching	
+gap	, 	
+word	in	
+gap	 	
+word	order	
+gap	 	
+word	to	
+gap	 	
+word	improve	
+gap	 	
+word	the	
+gap	 	
+word	level	
+gap	 	
+word	of	
+gap	  	
+word	high	
+gap	  	
+word	school	
+gap	 	
+word	education	
+gap	. 	
+word	These	
+gap	 	
+word	results	
+gap	 	
+word	showed	
+gap	 	
+word	how	
+gap	 	
+word	relevant	
+gap	 	
+word	is	
+gap	 	
+word	provide	
+gap	  	
+word	a	
+gap	 	
+word	better	
+gap	 	
+word	development	
+gap	 	
+word	of	
+gap	 	
+word	all	
+gap	 	
+word	reading	
+gap	 	
+word	skills	
+gap	 	
+word	in	
+gap	 	
+word	students	
+gap	, 	
+word	which	
+gap	 	
+word	is	
+gap	 	
+word	essential	
+gap	 	
+word	for	
+gap	 	
+word	their	
+gap	 	
+word	schooling	
+gap	, 	
+word	as	
+gap	 	
+word	well	
+gap	 	
+word	as	
+gap	 	
+word	their	
+gap	 	
+word	full	
+gap	 	
+word	right	
+gap	 	
+word	to	
+gap	 	
+word	an	
+gap	 	
+word	emancipatory	
+gap	 	
+word	public	
+gap	 	
+word	education	
+gap	, 	
+word	in	
+gap	 	
+word	all	
+gap	 	
+word	levels	
+gap	.	

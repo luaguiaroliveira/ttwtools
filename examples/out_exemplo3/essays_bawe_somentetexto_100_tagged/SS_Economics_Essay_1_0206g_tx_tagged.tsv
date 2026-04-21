@@ -1,950 +1,1630 @@
 # filename: SS_Economics_Essay_1_0206g_tx.txt
-token	tags
-The	ART CAP DET
-money	NN
-multiplier	RB CMADJ
-is	PASS VPRT AUXB
-defined	
-as	PIN CONJ PREP
-the	ART DET
-change	NN
-in	PIN CONJ PREP
-the	ART DET
-supply	NN
-of	PIN PREP
-money	NN
-given	
-a	ART DET INDA
-change	NN
-in	PIN CONJ PREP
-central	JJ
-bank	NN
-money	NN
-(	
-high	JJ
-powered	
-money	NN
-)	
-.	
-The	ART CAP DET
-average	JJ
-man	NN
-on	PIN PREP
-the	ART DET
-street	NN
-would	PRMD
-think	PRIV INF
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-bank	NN
-is	BEMA VPRT AUXB
-just	RB EMPH
-a	ART DET INDA
-place	NN
-to	PIN TO PREP
-store	INF
-savings	NN
-or	CCONJ
-to	PIN TO PREP
-take	INF
-out	PIN PREP
-a	ART DET INDA
-loan	NN
-.	
-Banks	NN CAP
-are	BEMA VPRT AUXB
-more	RB EMPH CMADJ
-useful	JJ
-and	PHC CCONJ
-potent	JJ
-than	PIN PREP
-this	DEMO DET
-actually	RB
-,	
-as	PIN CONJ PREP
-they	TPP3 PRP SBJP
-have	VPRT
-the	ART DET
-capability	NOMZ
-to	PIN TO STPR PREP
-'	CONT QUOT
-create	INF
-'	CONT QUOT
-money	NN
-.	
-The	ART CAP DET
-concept	NN
-of	PIN PREP
-a	ART DET INDA
-bank	NN
-as	PIN CONJ PREP
-a	ART DET INDA
-'	CONT QUOT
-creator	NN
-'	CONT QUOT
-of	PIN PREP
-money	NN
-will	PRMD
-explain	PUBV INF
-the	ART DET
-significance	NN
-of	PIN PREP
-the	ART DET
-money	NN
-multiplier	RB CMADJ
-.	
-Consider	PRIV CAP INF
-an	ART DET INDA
-economy	NN
-where	RB WHOBJ SCONJ WH
-people	NN
-choose	VPRT
-to	PIN TO PREP
-make	INF
-all	QUAN DET
-monetary	JJ
-transactions	NOMZ
-using	WZPRES PGAS
-bank	NN
-deposits	NN
-only	DWNT RB
-,	
-for	PIN PREP
-example	NN
-through	PIN PREP
-debit	NN
-cards	NN
-or	CCONJ
-cheques	NN
-.	
-Hence	RB CONJ CAP
-,	
-although	CONC PIN SCONJ PREP
-dollar	NN
-bills	NN
-exist	VPRT
-,	
-they	TPP3 PRP SBJP
-are	PASS VPRT SPAU AUXB
-not	XX0 RB
-used	
-to	PIN TO PREP
-make	INF
-purchases	NN
-.	
-They	TPP3 CAP PRP SBJP
-are	PASS VPRT SPAU AUXB
-only	DWNT RB
-kept	
-under	PIN PREP
-people	NN
-'s	
-pillows	NN
-or	CCONJ
-in	PIN CONJ PREP
-bank	NN
-reserves	NN
-.	
-Assume	PRIV CAP INF
-that	PIN THVC SCONJ PREP
-there	EX
-is	VPRT AUXB
-already	RB
-a	ART DET INDA
-particular	JJ CONJ
-amount	NN
-of	PIN PREP
-money	NN
-in	PIN CONJ PREP
-the	ART DET
-economy	NN
-and	ANDC CCONJ
-in	PIN CONJ PREP
-the	ART DET
-banks	NN
-.	
-Suppose	PRIV CAP INF
-,	
-then	RB
-that	DEMO DET
-one	NUM
-day	NN
-,	
-someone	QUPR INPR
-banks	NN
-in	PIN CONJ PREP
-$	
-1000	NUM
-of	PIN PREP
-dollar	NN
-bills	NN
-into	PIN PREP
-a	ART DET INDA
-local	JJ
-bank	NN
-,	
-probably	RB
-from	PIN PREP
-the	ART DET
-stash	NN
-of	PIN PREP
-money	NN
-from	PIN PREP
-under	PIN PREP
-his	TPP3 PRP SBJP
-pillow	NN
-.	
-The	ART CAP DET
-bank	NN
-will	PRMD
-take	INF
-the	ART DET
-$	
-1000	NUM
-and	CCONJ
-store	INF
-it	PIT PRP SBJP
-and	CCONJ
-add	PUBV THATD INF
-it	PIT PRP SBJP
-into	PIN PREP
-its	PIT PRP SBJP
-books	NN
-.	
-But	CAP CCONJ
-as	PIN CONJ PREP
-stated	PUBV
-earlier	JJ TIME CMADJ
-banks	NN
-also	RB
-give	VPRT
-out	PIN PREP
-loans	NN
-.	
-Loans	NN CAP
-given	WZPAST
-out	PIN PREP
-by	PIN PREP
-banks	NN
-are	PASS VPRT BYPA AUXB
-funded	
-by	PIN PREP
-the	ART DET
-deposits	NN
-of	PIN PREP
-other	JJ
-customers	NN
-.	
-When	RB CAP SCONJ WH
-giving	PGAS
-out	PIN PREP
-loans	NN
-,	
-banks	NN
-usually	RB
-assume	VPRT PRIV
-that	PIN THVC SCONJ PREP
-people	NN
-will	PRMD SPAU
-not	XX0 RB
-really	RB EMPH
-need	INF
-to	PIN TO PREP
-withdraw	INF
-much	QUAN JJ
-cash	NN
-very	AMP RB
-often	RB
-.	
-Hence	RB CONJ CAP
-they	TPP3 PRP SBJP
-will	PRMD
-set	INF
-apart	RB
-a	ART DET INDA
-proportion	NOMZ
-of	PIN PREP
-that	DEMO DET
-deposit	NN
-and	CCONJ
-keep	INF
-it	PIT PRP SBJP
-in	PIN CONJ PREP
-as	PIN CONJ PREP
-reserves	NN
-.	
-The	ART CAP DET
-balance	NN
-of	PIN PREP
-it	PIT PRP SBJP
-,	
-it	PIT PRP SBJP
-gives	VPRT
-out	PIN PREP
-as	PIN CONJ PREP
-loans	NN
-.	
-This	DEMO CAP DET
-proportion	NOMZ
-of	PIN PREP
-money	NN
-kept	VBD
-as	PIN CONJ PREP
-reserves	NN
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-total	JJ
-cash	NN
-deposit	NN
-is	PASS VPRT AUXB
-called	
-the	ART DET
-reserve	NN
-ratio	NN
-.	
-This	DEMO CAP DET
-ratio	NN
-may	POMD
-be	PASS BYPA AUXB INF
-set	
-by	PIN PREP
-the	ART DET
-banks	NN
-itself	PIT PRP SBJP ACCU
-,	
-depending	PGAS
-on	PIN PREP
-the	ART DET
-banks	NN
-desire	VPRT SUAV
-to	PIN TO PREP
-make	INF
-the	ART DET
-maximum	JJ
-amount	NN
-of	PIN PREP
-profit	NN
-(	
-hence	RB CONJ
-giving	PGAS
-out	PIN PREP
-more	JJ EMPH CMADJ
-loans	NN
-)	
-while	OSUB PIN SCONJ PREP
-remaining	PGAS
-sufficiently	RB
-liquid	NN
-(	
-to	PIN TO PREP
-meet	INF
-the	ART DET
-demand	SUAV NN
-of	PIN PREP
-people	NN
-who	WHSUB WH
-want	VPRT
-to	PIN TO PREP
-withdraw	INF
-their	TPP3 PRP SBJP
-money	NN
-)	
-.	
-Governments	NOMZ CAP
-,	
-through	PIN PREP
-central	JJ
-banks	NN
-,	
-also	RB
-usually	RB
-set	VBD
-regulations	NOMZ
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-a	ART DET INDA
-minimum	JJ
-reserve	NN
-ratio	NN
-exists	VPRT
-for	PIN PREP
-reasons	PRIV NN
-such	JJ
-as	PIN CONJ PREP
-to	PIN TO PREP
-ensure	PRIV SUAV INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-bank	NN
-possesses	VPRT
-enough	JJ
-liquidity	NOMZ
-,	
-and	ANDC CCONJ
-also	RB
-for	PIN PREP
-monetary	JJ
-policy	NN
-,	
-which	SERE WHQU DET WH
-will	PRMD
-be	PASS AUXB INF
-explained	PUBV
-later	RB TIME
-.	
-Assume	PRIV CAP INF
-that	PIN THVC SCONJ PREP
-the	ART DET
-reserve	NN
-ratio	NN
-is	VPRT AUXB
-10	NUM
-%	NN
-.	
-Hence	RB CONJ CAP
-from	PIN PREP
-that	DEMO DET
-initial	JJ
-$	
-1000	NUM
-deposit	NN
-,	
-the	ART DET
-bank	NN
-will	PRMD
-set	INF
-aside	RB
-$	
-100	NUM
-and	CCONJ
-keep	INF
-it	PIT PRP SBJP
-as	PIN CONJ PREP
-reserves	NN
-.	
-The	ART CAP DET
-other	JJ
-$	
-900	NUM
-will	PRMD
-be	PASS AUXB INF
-given	
-out	PIN PREP
-as	PIN CONJ PREP
-a	ART DET INDA
-loan	NN
-.	
-That	DEMO CAP DET
-$	
-900	NUM
-given	
-out	PIN PREP
-will	PRMD
-be	PASS AUXB INF
-deposited	
-in	PIN CONJ PREP
-the	ART DET
-borrower	NN
-'s	
-bank	NN
-account	NN
-.	
-With	PIN CAP PREP
-that	DEMO DET
-deposit	NN
-,	
-the	ART DET
-bank	NN
-will	PRMD SPAU
-again	RB TIME
-set	INF
-aside	RB
-10	NUM
-%	NN
-of	PIN PREP
-that	DEMO DET
-amount	NN
-(	
-$	
-90	NUM
-)	
-and	ANDC CCONJ
-distribute	INF
-the	ART DET
-other	JJ
-90	NUM
-%	NN
-(	
-$	
-810	NUM
-)	
-as	PIN CONJ PREP
-loans	NN
-.	
-This	DEMO CAP DET
-cycle	NN
-will	PRMD
-continue	INF
-,	
-and	ANDC CCONJ
-the	ART DET
-total	JJ
-amount	NN
-of	PIN PREP
-money	NN
-'	CONT QUOT
-created	
-'	CONT QUOT
-each	QUAN DET
-time	NN
-a	ART DET INDA
-loan	NN
-is	PASS VPRT AUXB
-given	
-out	PIN PREP
-is	VPRT AUXB
-:	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-actually	RB
-the	ART DET
-sum	NN
-to	PIN PREP
-infinity	NOMZ
-of	PIN PREP
-a	ART DET INDA
-geometric	JJ
-progression	NOMZ
-:	
-It	PIT CAP PRP SBJP
-can	POMD
-be	PASS AUXB INF
-seen	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-amount	NN
-of	PIN PREP
-money	NN
-has	VPRT PEAS
-increased	
-to	PIN PREP
-$	
-10000	NUM
-from	PIN PREP
-$	
-1000	NUM
-,	
-which	SERE WHQU DET WH
-is	BEMA VPRT AUXB
-by	PIN PREP
-10	NUM
-times	NN
-,	
-and	ANDC CCONJ
-this	DEMO DET
-value	NN
-is	PASS VPRT AUXB
-known	PRIV
-as	PIN CONJ PREP
-the	ART DET
-money	NN
-multiplier	JJ CMADJ
-,	
-which	SERE WHQU DET WH
-has	VPRT PEAS SPAU
-already	RB
-been	PASS AUXB
-defined	
-earlier	RB TIME CMADJ
-.	
-This	DEMO CAP DET
-process	NN
-of	PIN PREP
-banks	NN
-'	CONT WZPRES QUOT PGAS
-creating	PGAS
-'	CONT QUOT
-money	NN
-is	PASS VPRT SPAU AUXB
-also	RB
-known	PRIV
-as	PIN CONJ PREP
-credit	NN
-creation	NOMZ
-,	
-and	ANDC CCONJ
-in	PIN CONJ PREP
-general	JJ
-,	
-the	ART DET
-total	JJ
-increase	NN
-in	PIN CONJ PREP
-money	NN
-supply	NN
-due	PIN PREP
-to	PIN PREP
-a	ART DET INDA
-deposit	NN
-is	VPRT AUXB
-:	
-where	RB WHQU SCONJ WH
-M	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-amount	NN
-of	PIN PREP
-money	NN
-,	
-H	CAP NNP
-is	BEMA VPRT AUXB
-the	ART DET
-monetary	JJ
-base	NN
-(	
-in	PIN CONJ PREP
-this	DEMO DET
-case	NN
-the	ART DET
-cash	NN
-deposited	
-)	
-,	
-and	ANDC CCONJ
-θ	PIN PREP
-the	ART DET
-reserve	NN
-ratio	NN
-.	
-In	PIN CONJ CAP PREP
-general	JJ
-,	
-given	PASTP
-that	PIN DEMO SCONJ PREP
-people	NN
-also	RB
-use	VPRT
-currency	NN
-notes	PRIV NN
-in	PIN CONJ PREP
-addition	NOMZ
-to	PIN PREP
-bank	NN
-deposits	NN
-for	PIN PREP
-monetary	JJ
-transactions	NOMZ
-,	
-the	ART DET
-money	NN
-multiplier	RB CMADJ
-is	PASS VPRT BYPA AUXB
-given	
-by	PIN PREP
-the	ART DET
-equation	NOMZ
-:	
-where	RB SCONJ WH
-M	CAP NNP
-,	
-H	CAP NNP
-and	CCONJ
-θ	JJ
-are	BEMA VPRT AUXB
-the	ART DET
-same	JJ
-as	PIN CONJ PREP
-before	RB
-,	
-and	ANDC CCONJ
-c	PIN PREP
-being	BEMA AUXB
-the	ART DET
-proportion	NOMZ
-of	PIN PREP
-money	NN
-held	PRIV WZPAST
-in	PIN CONJ PREP
-currency	NN
-.	
-How	RB CAP SCONJ WH
-this	DEMO DET
-multiplier	RB CMADJ
-was	PASS VBD AUXB
-derived	
-would	PRMD
-be	BEMA AUXB INF
-impossible	JJ PRED
-to	PIN TO PREP
-explain	PUBV INF
-in	PIN CONJ PREP
-this	DEMO DET
-essay	NN
-.	
-But	CAP CCONJ
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-seen	PRIV
-that	PIN THVC SCONJ PREP
-in	PIN CONJ PREP
-general	JJ
-an	ART DET INDA
-increase	NN
-in	PIN CONJ PREP
-the	ART DET
-value	NN
-of	PIN PREP
-the	ART DET
-reserve	NN
-ratio	NN
-will	PRMD
-cause	INF
-credit	NN
-creation	NOMZ
-to	PIN TO PREP
-be	BEMA AUXB INF
-less	JJ PRED CMADJ
-'	CONT QUOT
-potent	JJ
-'	CONT QUOT
-,	
-since	OSUB PIN SCONJ PREP
-a	ART DET INDA
-smaller	JJ CMADJ
-proportion	NOMZ
-of	PIN PREP
-a	ART DET INDA
-deposit	NN
-can	POMD
-be	PASS AUXB INF
-lent	
-out	PIN PREP
-in	PIN CONJ PREP
-loans	NN
-.	
-It	PIT CAP PRP SBJP
-should	NEMD SPAU
-also	RB
-be	PASS AUXB INF
-noted	PRIV
-that	PIN THVC SCONJ PREP
-the	ART DET
-lower	JJ CMADJ
-the	ART DET
-value	NN
-of	PIN PREP
-c	NN
-,	
-the	ART DET
-higher	JJ CMADJ
-the	ART DET
-multiplier	JJ CMADJ
-value	NN
-.	
-If	COND PIN CAP SCONJ PREP
-more	JJ EMPH CMADJ
-of	PIN PREP
-the	ART DET
-money	NN
-lay	VBD
-in	PIN CONJ PREP
-the	ART DET
-banks	NN
-'	CONT QUOT
-hands	NN
-,	
-the	ART DET
-more	JJ EMPH CMADJ
-loans	NN
-they	TPP3 PRP SBJP
-can	POMD
-give	INF
-out	PIN STPR PREP
-.	
-The	ART CAP DET
-ability	NOMZ
-of	PIN PREP
-central	JJ
-banks	NN
-to	PIN TO PREP
-regulate	INF
-reserve	NN
-ratios	NN
-of	PIN PREP
-banks	NN
-allows	VPRT SUAV
-the	ART DET
-central	JJ
-bank	NN
-to	PIN TO PREP
-conduct	INF
-monetary	JJ
-policy	NN
-.	
-Since	OSUB PIN CAP SCONJ PREP
-monetary	JJ
-policy	NN
-is	BEMA VPRT AUXB
-all	QUAN RB
-about	PIN PREP
-controlling	GER PGAS
-the	ART DET
-amount	NN
-of	PIN PREP
-money	NN
-in	PIN CONJ PREP
-the	ART DET
-economy	NN
-and	PHC CCONJ
-interest	NN
-rates	NN
-,	
-reserve	NN
-requirements	NOMZ
-imposed	WZPAST
-on	PIN PREP
-credit	NN
-creation	NOMZ
-is	BEMA VPRT AUXB
-an	ART DET INDA
-instrument	NOMZ
-of	PIN PREP
-monetary	JJ
-policy	NN
-.	
-If	COND PIN CAP SCONJ PREP
-the	ART DET
-central	JJ
-bank	NN
-wants	VPRT
-to	PIN TO PREP
-raise	INF
-interest	NN
-rates	NN
-,	
-without	PIN PREP
-changing	PGAS
-the	ART DET
-supply	NN
-of	PIN PREP
-central	JJ
-bank	NN
-money	NN
-(	
-printing	NN
-/	
-destroying	GER PGAS
-bank	NN
-notes	PRIV NN
-and	PHC CCONJ
-coins	NN
-)	
-it	PIT PRP SBJP
-can	POMD
-impose	INF
-higher	JJ CMADJ
-reserve	NN
-requirements	NOMZ
-,	
-forcing	PGAS
-banks	NN
-to	PIN TO PREP
-increase	INF
-reserves	NN
-and	CCONJ
-cut	VBD
-down	PIN PREP
-on	PIN PREP
-lending	NN
-.	
-This	DEMP CAP DET
-will	PRMD
-cause	INF
-the	ART DET
-demand	SUAV NN
-for	PIN PREP
-central	JJ
-bank	NN
-money	NN
-(	
-notes	PRIV NN
-and	PHC CCONJ
-coins	NN
-and	PHC CCONJ
-reserves	NN
-)	
-to	PIN TO PREP
-rise	INF
-and	ANDC CCONJ
-hence	RB CONJ
-raises	VPRT
-the	ART DET
-equilibrium	NN
-interest	NN
-rate	NN
-.	
-Hence	RB CONJ CAP
-it	PIT PRP SBJP
-can	POMD
-be	PASS AUXB INF
-seen	PRIV
-that	PIN THVC SCONJ PREP
-although	CONC PIN SCONJ PREP
-central	JJ
-bank	NN
-money	NN
-is	BEMA VPRT AUXB
-a	ART DET INDA
-small	JJ
-amount	NN
-out	PIN PREP
-of	PIN PREP
-the	ART DET
-total	JJ
-amount	NN
-of	PIN PREP
-money	NN
-in	PIN CONJ PREP
-the	ART DET
-economy	NN
-,	
-banks	NN
-play	VPRT
-an	ART DET INDA
-important	JJ
-role	NN
-in	PIN CONJ PREP
-creating	PGAS
-money	NN
-through	PIN PREP
-credit	NN
-creation	NOMZ
-.	
-At	PIN CAP PREP
-the	ART DET
-same	JJ
-time	NN
-,	
-the	ART DET
-central	JJ
-bank	NN
-can	POMD
-regulate	INF
-reserve	NN
-requirements	NOMZ
-,	
-along	PIN PREP
-with	PIN PREP
-using	PGAS
-other	JJ
-instruments	NOMZ
-to	PIN TO PREP
-achieve	INF
-certain	JJ
-monetary	JJ
-policy	NN
-objectives	NN
-.	
+type	content	tags
+word	The	ART CAP DET
+gap	 	
+word	money	NN
+gap	 	
+word	multiplier	RB CMADJ
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	defined	
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	supply	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	given	
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	change	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	money	NN
+gap	 (	
+word	high	JJ
+gap	 	
+word	powered	
+gap	 	
+word	money	NN
+gap	). 	
+word	The	ART CAP DET
+gap	 	
+word	average	JJ
+gap	 	
+word	man	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	street	NN
+gap	 	
+word	would	PRMD
+gap	 	
+word	think	PRIV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	just	RB EMPH
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	place	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	store	INF
+gap	 	
+word	savings	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	take	INF
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	loan	NN
+gap	. 	
+word	Banks	NN CAP
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	more	RB EMPH CMADJ
+gap	 	
+word	useful	JJ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	potent	JJ
+gap	 	
+word	than	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	actually	RB
+gap	, 	
+word	as	PIN CONJ PREP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	have	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	capability	NOMZ
+gap	 	
+word	to	PIN TO STPR PREP
+gap	 '	
+word	create	INF
+gap	' 	
+word	money	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	concept	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	bank	NN
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 '	
+word	creator	NN
+gap	' 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	significance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	money	NN
+gap	 	
+word	multiplier	RB CMADJ
+gap	. 	
+word	Consider	PRIV CAP INF
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	economy	NN
+gap	 	
+word	where	RB WHOBJ SCONJ WH
+gap	 	
+word	people	NN
+gap	 	
+word	choose	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	monetary	JJ
+gap	 	
+word	transactions	NOMZ
+gap	 	
+word	using	WZPRES PGAS
+gap	 	
+word	bank	NN
+gap	 	
+word	deposits	NN
+gap	 	
+word	only	DWNT RB
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	example	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	debit	NN
+gap	 	
+word	cards	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	cheques	NN
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	, 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	dollar	NN
+gap	 	
+word	bills	NN
+gap	 	
+word	exist	VPRT
+gap	, 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	used	
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	purchases	NN
+gap	. 	
+word	They	TPP3 CAP PRP SBJP
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	only	DWNT RB
+gap	 	
+word	kept	
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	people	NN
+gap	'	
+word	s	
+gap	 	
+word	pillows	NN
+gap	 	
+word	or	CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	bank	NN
+gap	 	
+word	reserves	NN
+gap	. 	
+word	Assume	PRIV CAP INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	there	EX
+gap	 	
+word	is	VPRT AUXB
+gap	 	
+word	already	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	particular	JJ CONJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	banks	NN
+gap	. 	
+word	Suppose	PRIV CAP INF
+gap	, 	
+word	then	RB
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	one	NUM
+gap	 	
+word	day	NN
+gap	, 	
+word	someone	QUPR INPR
+gap	 	
+word	banks	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 $1000 	
+word	of	PIN PREP
+gap	 	
+word	dollar	NN
+gap	 	
+word	bills	NN
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	local	JJ
+gap	 	
+word	bank	NN
+gap	, 	
+word	probably	RB
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stash	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	under	PIN PREP
+gap	 	
+word	his	TPP3 PRP SBJP
+gap	 	
+word	pillow	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	bank	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	take	INF
+gap	 	
+word	the	ART DET
+gap	 $1000 	
+word	and	CCONJ
+gap	 	
+word	store	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	add	PUBV THATD INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	into	PIN PREP
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	books	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	stated	PUBV
+gap	 	
+word	earlier	JJ TIME CMADJ
+gap	 	
+word	banks	NN
+gap	 	
+word	also	RB
+gap	 	
+word	give	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	loans	NN
+gap	. 	
+word	Loans	NN CAP
+gap	 	
+word	given	WZPAST
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	banks	NN
+gap	 	
+word	are	PASS VPRT BYPA AUXB
+gap	 	
+word	funded	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	deposits	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	customers	NN
+gap	. 	
+word	When	RB CAP SCONJ WH
+gap	 	
+word	giving	PGAS
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	loans	NN
+gap	, 	
+word	banks	NN
+gap	 	
+word	usually	RB
+gap	 	
+word	assume	VPRT PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	really	RB EMPH
+gap	 	
+word	need	INF
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	withdraw	INF
+gap	 	
+word	much	QUAN JJ
+gap	 	
+word	cash	NN
+gap	 	
+word	very	AMP RB
+gap	 	
+word	often	RB
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	set	INF
+gap	 	
+word	apart	RB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	proportion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	deposit	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	keep	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	reserves	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	balance	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	gives	VPRT
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	loans	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	proportion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	kept	VBD
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	reserves	NN
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	cash	NN
+gap	 	
+word	deposit	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	called	
+gap	 	
+word	the	ART DET
+gap	 	
+word	reserve	NN
+gap	 	
+word	ratio	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	ratio	NN
+gap	 	
+word	may	POMD
+gap	 	
+word	be	PASS BYPA AUXB INF
+gap	 	
+word	set	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	banks	NN
+gap	 	
+word	itself	PIT PRP SBJP ACCU
+gap	, 	
+word	depending	PGAS
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	banks	NN
+gap	 	
+word	desire	VPRT SUAV
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	make	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	maximum	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	profit	NN
+gap	 (	
+word	hence	RB CONJ
+gap	 	
+word	giving	PGAS
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	loans	NN
+gap	) 	
+word	while	OSUB PIN SCONJ PREP
+gap	 	
+word	remaining	PGAS
+gap	 	
+word	sufficiently	RB
+gap	 	
+word	liquid	NN
+gap	 (	
+word	to	PIN TO PREP
+gap	 	
+word	meet	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	people	NN
+gap	 	
+word	who	WHSUB WH
+gap	 	
+word	want	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	withdraw	INF
+gap	 	
+word	their	TPP3 PRP SBJP
+gap	 	
+word	money	NN
+gap	). 	
+word	Governments	NOMZ CAP
+gap	, 	
+word	through	PIN PREP
+gap	 	
+word	central	JJ
+gap	 	
+word	banks	NN
+gap	, 	
+word	also	RB
+gap	 	
+word	usually	RB
+gap	 	
+word	set	VBD
+gap	 	
+word	regulations	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	minimum	JJ
+gap	 	
+word	reserve	NN
+gap	 	
+word	ratio	NN
+gap	 	
+word	exists	VPRT
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	reasons	PRIV NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	ensure	PRIV SUAV INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	bank	NN
+gap	 	
+word	possesses	VPRT
+gap	 	
+word	enough	JJ
+gap	 	
+word	liquidity	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	also	RB
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	monetary	JJ
+gap	 	
+word	policy	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	explained	PUBV
+gap	 	
+word	later	RB TIME
+gap	. 	
+word	Assume	PRIV CAP INF
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reserve	NN
+gap	 	
+word	ratio	NN
+gap	 	
+word	is	VPRT AUXB
+gap	 10%. 	
+word	Hence	RB CONJ CAP
+gap	 	
+word	from	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	initial	JJ
+gap	 $1000 	
+word	deposit	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	bank	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	set	INF
+gap	 	
+word	aside	RB
+gap	 $100 	
+word	and	CCONJ
+gap	 	
+word	keep	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	reserves	NN
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	other	JJ
+gap	 $900 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	given	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	loan	NN
+gap	. 	
+word	That	DEMO CAP DET
+gap	 $900 	
+word	given	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	deposited	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	borrower	NN
+gap	'	
+word	s	
+gap	 	
+word	bank	NN
+gap	 	
+word	account	NN
+gap	. 	
+word	With	PIN CAP PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	deposit	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	bank	NN
+gap	 	
+word	will	PRMD SPAU
+gap	 	
+word	again	RB TIME
+gap	 	
+word	set	INF
+gap	 	
+word	aside	RB
+gap	 10% 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	amount	NN
+gap	 ($90) 	
+word	and	ANDC CCONJ
+gap	 	
+word	distribute	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	other	JJ
+gap	 90% ($810) 	
+word	as	PIN CONJ PREP
+gap	 	
+word	loans	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	cycle	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	continue	INF
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 '	
+word	created	
+gap	' 	
+word	each	QUAN DET
+gap	 	
+word	time	NN
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	loan	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	given	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	is	VPRT AUXB
+gap	: 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	actually	RB
+gap	 	
+word	the	ART DET
+gap	 	
+word	sum	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	infinity	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	geometric	JJ
+gap	 	
+word	progression	NOMZ
+gap	: 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	increased	
+gap	 	
+word	to	PIN PREP
+gap	 $10000 	
+word	from	PIN PREP
+gap	 $1000, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	by	PIN PREP
+gap	 10 	
+word	times	NN
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	value	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	money	NN
+gap	 	
+word	multiplier	JJ CMADJ
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	has	VPRT PEAS SPAU
+gap	 	
+word	already	RB
+gap	 	
+word	been	PASS AUXB
+gap	 	
+word	defined	
+gap	 	
+word	earlier	RB TIME CMADJ
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	process	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	banks	NN
+gap	 '	
+word	creating	PGAS
+gap	' 	
+word	money	NN
+gap	 	
+word	is	PASS VPRT SPAU AUXB
+gap	 	
+word	also	RB
+gap	 	
+word	known	PRIV
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	credit	NN
+gap	 	
+word	creation	NOMZ
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	general	JJ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	money	NN
+gap	 	
+word	supply	NN
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	deposit	NN
+gap	 	
+word	is	VPRT AUXB
+gap	: 	
+word	where	RB WHQU SCONJ WH
+gap	 	
+word	M	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	, 	
+word	H	CAP NNP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	monetary	JJ
+gap	 	
+word	base	NN
+gap	 (	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	case	NN
+gap	 	
+word	the	ART DET
+gap	 	
+word	cash	NN
+gap	 	
+word	deposited	
+gap	), 	
+word	and	ANDC CCONJ
+gap	 θ 	
+word	the	ART DET
+gap	 	
+word	reserve	NN
+gap	 	
+word	ratio	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	general	JJ
+gap	, 	
+word	given	PASTP
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	people	NN
+gap	 	
+word	also	RB
+gap	 	
+word	use	VPRT
+gap	 	
+word	currency	NN
+gap	 	
+word	notes	PRIV NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	addition	NOMZ
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	bank	NN
+gap	 	
+word	deposits	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	monetary	JJ
+gap	 	
+word	transactions	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	money	NN
+gap	 	
+word	multiplier	RB CMADJ
+gap	 	
+word	is	PASS VPRT BYPA AUXB
+gap	 	
+word	given	
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	equation	NOMZ
+gap	: 	
+word	where	RB SCONJ WH
+gap	 	
+word	M	CAP NNP
+gap	, 	
+word	H	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 θ 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	before	RB
+gap	, 	
+word	and	ANDC CCONJ
+gap	 	
+word	c	PIN PREP
+gap	 	
+word	being	BEMA AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	proportion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	held	PRIV WZPAST
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	currency	NN
+gap	. 	
+word	How	RB CAP SCONJ WH
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	multiplier	RB CMADJ
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	derived	
+gap	 	
+word	would	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	impossible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	explain	PUBV INF
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	essay	NN
+gap	. 	
+word	But	CAP CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	general	JJ
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	increase	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	value	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	reserve	NN
+gap	 	
+word	ratio	NN
+gap	 	
+word	will	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	credit	NN
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	less	JJ PRED CMADJ
+gap	 '	
+word	potent	JJ
+gap	', 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	smaller	JJ CMADJ
+gap	 	
+word	proportion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	deposit	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	lent	
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	loans	NN
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	should	NEMD SPAU
+gap	 	
+word	also	RB
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	noted	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	lower	JJ CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	value	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	c	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	multiplier	JJ CMADJ
+gap	 	
+word	value	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	money	NN
+gap	 	
+word	lay	VBD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	banks	NN
+gap	' 	
+word	hands	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	more	JJ EMPH CMADJ
+gap	 	
+word	loans	NN
+gap	 	
+word	they	TPP3 PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	give	INF
+gap	 	
+word	out	PIN STPR PREP
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	ability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	central	JJ
+gap	 	
+word	banks	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	regulate	INF
+gap	 	
+word	reserve	NN
+gap	 	
+word	ratios	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	banks	NN
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	conduct	INF
+gap	 	
+word	monetary	JJ
+gap	 	
+word	policy	NN
+gap	. 	
+word	Since	OSUB PIN CAP SCONJ PREP
+gap	 	
+word	monetary	JJ
+gap	 	
+word	policy	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	all	QUAN RB
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	controlling	GER PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	interest	NN
+gap	 	
+word	rates	NN
+gap	, 	
+word	reserve	NN
+gap	 	
+word	requirements	NOMZ
+gap	 	
+word	imposed	WZPAST
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	credit	NN
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	instrument	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	monetary	JJ
+gap	 	
+word	policy	NN
+gap	. 	
+word	If	COND PIN CAP SCONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	wants	VPRT
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	raise	INF
+gap	 	
+word	interest	NN
+gap	 	
+word	rates	NN
+gap	, 	
+word	without	PIN PREP
+gap	 	
+word	changing	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	supply	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	money	NN
+gap	 (	
+word	printing	NN
+gap	/	
+word	destroying	GER PGAS
+gap	 	
+word	bank	NN
+gap	 	
+word	notes	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	coins	NN
+gap	) 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	impose	INF
+gap	 	
+word	higher	JJ CMADJ
+gap	 	
+word	reserve	NN
+gap	 	
+word	requirements	NOMZ
+gap	, 	
+word	forcing	PGAS
+gap	 	
+word	banks	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	increase	INF
+gap	 	
+word	reserves	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	cut	VBD
+gap	 	
+word	down	PIN PREP
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	lending	NN
+gap	. 	
+word	This	DEMP CAP DET
+gap	 	
+word	will	PRMD
+gap	 	
+word	cause	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	demand	SUAV NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	money	NN
+gap	 (	
+word	notes	PRIV NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	coins	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	reserves	NN
+gap	) 	
+word	to	PIN TO PREP
+gap	 	
+word	rise	INF
+gap	 	
+word	and	ANDC CCONJ
+gap	 	
+word	hence	RB CONJ
+gap	 	
+word	raises	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	equilibrium	NN
+gap	 	
+word	interest	NN
+gap	 	
+word	rate	NN
+gap	. 	
+word	Hence	RB CONJ CAP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	can	POMD
+gap	 	
+word	be	PASS AUXB INF
+gap	 	
+word	seen	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	although	CONC PIN SCONJ PREP
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	money	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	small	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	out	PIN PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	total	JJ
+gap	 	
+word	amount	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	money	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	economy	NN
+gap	, 	
+word	banks	NN
+gap	 	
+word	play	VPRT
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	important	JJ
+gap	 	
+word	role	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	creating	PGAS
+gap	 	
+word	money	NN
+gap	 	
+word	through	PIN PREP
+gap	 	
+word	credit	NN
+gap	 	
+word	creation	NOMZ
+gap	. 	
+word	At	PIN CAP PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	same	JJ
+gap	 	
+word	time	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	central	JJ
+gap	 	
+word	bank	NN
+gap	 	
+word	can	POMD
+gap	 	
+word	regulate	INF
+gap	 	
+word	reserve	NN
+gap	 	
+word	requirements	NOMZ
+gap	, 	
+word	along	PIN PREP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	using	PGAS
+gap	 	
+word	other	JJ
+gap	 	
+word	instruments	NOMZ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	achieve	INF
+gap	 	
+word	certain	JJ
+gap	 	
+word	monetary	JJ
+gap	 	
+word	policy	NN
+gap	 	
+word	objectives	NN
+gap	.	

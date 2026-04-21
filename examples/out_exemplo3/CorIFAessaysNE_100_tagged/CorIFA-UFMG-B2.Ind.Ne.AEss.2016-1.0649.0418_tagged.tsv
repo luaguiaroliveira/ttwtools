@@ -1,643 +1,1083 @@
 # filename: CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0649.0418.txt
-token	tags
-    	
-The	ART CAP DET
-poly	JJ
-(	
-tetrafluoroethylene	NN
-)	
--	
-PTFE	CAP NNP
-,	
-known	PASTP PRIV
-commercially	RB
-as	PIN CONJ PREP
-Teflon	CAP NNP
-,	
-is	BEMA VPRT AUXB
-a	ART DET INDA
-polymer	NN
-that	TSUB WHSUB WH
-has	VPRT
-valuable	JJ
-properties	NN
-such	JJ
-as	PIN CONJ PREP
-high	JJ
-mechanical	JJ
-strength	NN
-and	CCONJ
-high	JJ
-melting	NN
-temperature	NN
-.	
-This	DEMO CAP DET
-fact	NN
-makes	VPRT
-the	ART DET
-PTFE	CAP NNP
-a	ART DET INDA
-target	NN
-of	PIN PREP
-many	QUAN JJ
-researches	NN
-,	
-including	PGAS
-studies	NN
-that	TSUB WHSUB WH
-propose	VPRT SUAV
-the	ART DET
-creation	NOMZ
-of	PIN PREP
-new	JJ
-materials	NN
-,	
-from	PIN PREP
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-others	NN
-that	TSUB WHSUB WH
-already	RB
-exist	VPRT
-.	
-The	ART CAP DET
-biggest	JJ SPADJ
-problem	NN
-in	PIN CONJ PREP
-manipulating	GER PGAS
-this	DEMO DET
-polymer	NN
-is	BEMA VPRT AUXB
-that	PIN DEMO SCONJ PREP
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-chemically	RB
-inert	JJ
-,	
-which	SERE DET WH
-makes	VPRT
-it	PIT PRP SBJP
-very	AMP RB
-difficult	JJ
-to	PIN TO PREP
-incorporate	INF
-it	PIT PRP SBJP
-in	PIN CONJ PREP
-other	JJ
-materials	NN
-.	
-Therefore	RB CONJ CAP
-,	
-there	EX
-are	VPRT AUXB
-studies	NN
-about	PIN PREP
-the	ART DET
-possibility	NOMZ
-of	PIN PREP
-modifying	PGAS
-the	ART DET
-structure	NN
-of	PIN PREP
-the	ART DET
-polymer	NN
-by	PIN PREP
-irradiation	NOMZ
-with	PIN PREP
-electron	NN
-beams	NN
-and	PHC CCONJ
-gamma	NN
-rays	NN
-(	
-TAEGER	CAP NNP
-,	
-a.	NN
-et	NNP
-al	NNP
-.	NNP
-,	
-2014	NUM
-)	
-.	
-Thus	RB CONJ CAP
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-believed	PRIV
-that	PIN THVC SCONJ PREP
-it	PIT PRP SBJP
-will	PRMD
-be	BEMA AUXB INF
-possible	JJ PRED
-to	PIN TO PREP
-mix	INF
-PTFE	CAP NNP
-with	PIN PREP
-other	JJ
-substances	NN
-,	
-what	WH
-leads	VPRT
-to	PIN PREP
-creating	PGAS
-new	JJ
-materials	NN
-that	TSUB WHSUB WH
-contain	VPRT
-some	QUAN DET
-advantageous	JJ
-properties	NN
-of	PIN PREP
-PTFE	CAP NNP
-and	CCONJ
-acquire	INF
-new	JJ
-properties	NN
-of	PIN PREP
-interest	NN
-for	PIN PREP
-various	JJ
-applications	NOMZ
-.	
- 	
-The	ART CAP DET
-poly	JJ
-(	
-tetrafluoroethylene	NN
-)	
-was	PASS VBD AUXB
-discovered	PRIV
-accidentally	RB
-in	PIN CONJ PREP
-the	ART DET
-United	CAP NNP
-States	PUBV CAP NNP
-,	
-in	PIN CONJ PREP
-1938	NUM
-,	
-in	PIN CONJ PREP
-the	ART DET
-laboratories	NN
-of	PIN PREP
-a	ART DET INDA
-chemistry	NN
-called	
-Du	CAP NNP
-Pont	CAP NNP
-.	
-At	PIN CAP PREP
-first	RB
-,	
-this	DEMO DET
-researcher	NN
-did	VBD SPAU
-not	XX0 RB
-realize	PRIV INF
-the	ART DET
-value	NN
-of	PIN PREP
-this	DEMO DET
-polymer	NN
-,	
-but	CCONJ
-it	PIT PRP SBJP
-was	PASS VBD AUXB
-proved	PRIV
-useful	JJ
-in	PIN CONJ PREP
-World	CAP NNP
-War	CAP NNP
-II	CAP NNP
-,	
-for	PIN PREP
-the	ART DET
-storage	NN
-of	PIN PREP
-toxic	JJ
-substance	NN
-,	
-corrosive	NNP
-uranium	NN
-hexafluoride	NN
-,	
-which	SERE WHQU DET WH
-is	PASS VPRT AUXB
-used	
-in	PIN CONJ PREP
-the	ART DET
-development	NOMZ
-of	PIN PREP
-the	ART DET
-atomic	JJ
-bomb	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-it	PIT PRP SBJP
-was	BEMA VBD AUXB
-useful	JJ PRED
-for	PIN PREP
-the	ART DET
-coverage	NN
-of	PIN PREP
-the	ART DET
-front	NN
-of	PIN PREP
-the	ART DET
-missile	NN
-cones	NN
-at	PIN PREP
-the	ART DET
-War	CAP NNP
-.	
-Because	CAUS PIN CAP SCONJ PREP
-of	PIN PREP
-the	ART DET
-success	NN
-of	PIN PREP
-these	DEMO DET
-applications	NOMZ
-,	
-in	PIN CONJ PREP
-1944	NUM
-,	
-Du	CAP NNP
-Pont	CAP NNP
-patented	
-PTFE	CAP NNP
-as	PIN CONJ PREP
-Teflon	CAP NNP
-.	
-Nowadays	RB TIME CAP
-,	
-it	PIT PRP SBJP
-is	PASS VPRT AUXB
-recognized	PRIV
-that	PIN THVC SCONJ PREP
-Teflon	CAP NNP
-has	VPRT
-unique	JJ
-properties	NN
-like	PIN STPR PREP
-:	
-chemically	RB
-inert	NN
--	
-it	PIT PRP SBJP
-does	VPRT SPAU
-not	XX0 RB
-react	INF
-with	PIN PREP
-most	JJ EMPH SPADJ
-chemicals	NN
-,	
-which	SERE DET WH
-gives	VPRT
-applications	NOMZ
-like	PIN PREP
-waterproofing	GER PGAS
-fabrics	NN
-and	PHC CCONJ
-wallpapers	NN
-;	
-high	JJ
-melting	PGAS
-temperature	NN
--	
-heat	NN
--	
-resistant	JJ
-,	
-which	SERE DET WH
-allows	VPRT SUAV
-its	PIT PRP SBJP
-use	NN
-in	PIN CONJ PREP
-coating	NN
-of	PIN PREP
-cooking	PGAS
-utensils	NN
-;	
-high	JJ
-mechanical	JJ
-resistance	NN
-to	PIN PREP
-traction	NOMZ
-and	PHC CCONJ
-compression	NOMZ
--	
-low	JJ
-superficial	JJ
-deformation	NOMZ
-when	RB WHOBJ SCONJ WH
-an	ART DET INDA
-external	JJ
-force	NN
-is	PASS VPRT AUXB
-applied	
-on	PIN PREP
-it	PIT PRP SBJP
-.	
- 	
-Despite	PIN CAP SCONJ PREP
-all	QUAN DET
-these	DEMO DET
-utilities	NN
-provided	WZPAST
-by	PIN PREP
-the	ART DET
-properties	NN
-mentioned	PUBV
-,	
-there	EX
-are	VPRT AUXB
-negative	JJ
-points	NN
-of	PIN PREP
-these	DEMO DET
-characteristics	NN
-of	PIN PREP
-PTFE	CAP NNP
-,	
-the	ART DET
-main	JJ
-fact	NN
-is	BEMA VPRT AUXB
-the	ART DET
-difficulty	NN
-to	PIN TO PREP
-react	INF
-the	ART DET
-polymer	NN
-with	PIN PREP
-other	JJ
-substances	NN
-,	
-making	PRESP PGAS
-the	ART DET
-production	NOMZ
-of	PIN PREP
-new	JJ
-materials	NN
-with	PIN PREP
-Teflon	CAP NNP
-very	AMP RB
-hard	RB
-.	
-It	PIT CAP PRP SBJP
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-to	PIN TO PREP
-incorporate	INF
-the	ART DET
-virgin	JJ
-PTFE	CAP NNP
-powder	NN
-evenly	RB
-in	PIN CONJ PREP
-other	JJ
-materials	NN
-,	
-by	PIN PREP
-grinding	PGAS
-and	PHC CCONJ
-mixing	PGAS
-,	
-a	ART DET INDA
-conventional	JJ
-physical	JJ
-technique	NN
-applied	VBD
-to	PIN PREP
-other	JJ
-polymers	NN
-.	
-In	PIN CONJ CAP PREP
-addition	NOMZ
-,	
-the	ART DET
-chemical	JJ
-transformations	NOMZ
-are	PASS VPRT SPAU AUXB
-largely	RB
-used	
-in	PIN CONJ PREP
-chemistry	NN
-of	PIN PREP
-polymers	NN
-are	BEMA VPRT AUXB
-not	XX0 RB
-suitable	JJ
-due	PIN PREP
-to	PIN PREP
-the	ART DET
-high	JJ
-chemical	NN
-stability	NOMZ
-of	PIN PREP
-PTFE	CAP NNP
-(	
-LUNKWITZ	CAP NNP
-,	
-k.	NNP
-et	NNP
-al	NNP
-.	NNP
-,	
-2004	NUM
-)	
-.	
-The	ART CAP DET
-mechanical	JJ
-pulverization	NOMZ
-of	PIN PREP
-this	DEMO DET
-stuff	NN
-is	BEMA VPRT AUXB
-difficult	JJ PRED
-because	CAUS PIN SCONJ PREP
-of	PIN PREP
-the	ART DET
-stiffness	NOMZ
-of	PIN PREP
-the	ART DET
-polymer	NN
-.	
-Besides	RB PIN CAP PREP
-,	
-the	ART DET
-thermal	JJ
-decomposition	NOMZ
-is	BEMA VPRT AUXB
-complicated	JJ PRED
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-produces	VPRT
-many	QUAN JJ
-types	NN
-of	PIN PREP
-toxic	JJ
-compounds	NN
-of	PIN PREP
-fluorine	NN
-(	
-KAGIYA	CAP NNP
-,	
-v.	NNP
-t.	NNP
-and	PHC CCONJ
-HAGIWARA	CAP NNP
-,	
-1975	NUM
-)	
-.	
-Therefore	RB CONJ CAP
-,	
-a	ART DET INDA
-different	JJ
-technique	NN
-is	PASS VPRT AUXB
-required	SUAV
-for	PIN PREP
-modification	NOMZ
-or	CCONJ
-activation	NOMZ
-of	PIN PREP
-the	ART DET
-surface	NN
-of	PIN PREP
-that	DEMO DET
-material	NN
-.	
- 	
-Thus	RB CONJ CAP
-,	
-modification	NOMZ
-of	PIN PREP
-PTFE	CAP NNP
-by	PIN PREP
-irradiation	NOMZ
-with	PIN PREP
-electron	NN
-beams	NN
-and	PHC CCONJ
-gamma	NN
-rays	NN
-has	VPRT PEAS
-been	PASS SPAU AUXB
-heavily	RB
-researched	
-,	
-since	OSUB PIN SCONJ PREP
-it	PIT PRP SBJP
-results	VPRT
-in	PIN CONJ PREP
-the	ART DET
-formation	NOMZ
-of	PIN PREP
-reactive	JJ
-groups	NN
-on	PIN PREP
-the	ART DET
-surface	NN
-of	PIN PREP
-the	ART DET
-polymer	NN
-,	
-allowing	SUAV PRESP PGAS
-the	ART DET
-combination	NOMZ
-of	PIN PREP
-Teflon	CAP NNP
-with	PIN PREP
-other	JJ
-substances	NN
-.	
-Experiments	NOMZ CAP
-done	WZPAST PROD
-in	PIN CONJ PREP
-the	ART DET
-Laboratory	CAP NNP
-of	PIN PREP
-Chemistry	CAP NNP
-of	PIN PREP
-Materials	CAP NNP
-of	PIN PREP
-Nuclear	CAP NNP
-Technology	CAP NNP
-Development	CAP NNP
-Center	CAP NNP
--	
-Belo	CAP NNP
-Horizonte	CAP NNP
-,	
-MG	CAP NNP
-,	
-show	VPRT PRIV THATD
-that	PIN STPR DEMP SCONJ PREP
-,	
-after	PIN PREP
-the	ART DET
-radiolysis	NN
-(	
-radiation	NOMZ
-decomposition	NOMZ
-)	
-of	PIN PREP
-PTFE	CAP NNP
-in	PIN CONJ PREP
-an	ART DET INDA
-atmosphere	NN
-of	PIN PREP
-oxygen	NN
-,	
-it	PIT PRP SBJP
-is	BEMA VPRT AUXB
-possible	JJ PRED
-to	PIN TO PREP
-incorporate	INF
-substances	NN
-at	PIN PREP
-the	ART DET
-Teflon	CAP NNP
-,	
-such	JJ
-as	PIN CONJ PREP
-nitric	JJ
-acid	NN
-,	
-the	ART DET
-Poly	CAP NNP
-(	
-vinyl	NN
-acetate	NNP
-)	
-chloride	NNP
-(	
-PVA	CAP NNP
-)	
-,	
-dispersion	NOMZ
-of	PIN PREP
-graphite	NN
-and	CCONJ
-observe	PRIV INF
-the	ART DET
-structural	JJ
-changes	NN
-and	CCONJ
-the	ART DET
-several	QUAN JJ
-properties	NN
-provided	WZPAST
-to	PIN PREP
-these	DEMO DET
-new	JJ
-materials	NN
-.	
-       	
+type	content	tags
+gap	<CorIFA-UFMG-B2.Ind.Ne.AEss.2016-1.0649.0418>\n\n<FUNCIONALIZATION OF POLY (TETRAFLUOROETHYLENE) IRRADIATED>\n\n	
+word	The	ART CAP DET
+gap	 	
+word	poly	JJ
+gap	 (	
+word	tetrafluoroethylene	NN
+gap	) - 	
+word	PTFE	CAP NNP
+gap	, 	
+word	known	PASTP PRIV
+gap	 	
+word	commercially	RB
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Teflon	CAP NNP
+gap	, 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	polymer	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	has	VPRT
+gap	 	
+word	valuable	JJ
+gap	 	
+word	properties	NN
+gap	 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	high	JJ
+gap	 	
+word	mechanical	JJ
+gap	 	
+word	strength	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	high	JJ
+gap	 	
+word	melting	NN
+gap	 	
+word	temperature	NN
+gap	. 	
+word	This	DEMO CAP DET
+gap	 	
+word	fact	NN
+gap	 	
+word	makes	VPRT
+gap	 	
+word	the	ART DET
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	target	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	researches	NN
+gap	, 	
+word	including	PGAS
+gap	 	
+word	studies	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	propose	VPRT SUAV
+gap	 	
+word	the	ART DET
+gap	 	
+word	creation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	materials	NN
+gap	, 	
+word	from	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	others	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	already	RB
+gap	 	
+word	exist	VPRT
+gap	. 	
+word	The	ART CAP DET
+gap	 	
+word	biggest	JJ SPADJ
+gap	 	
+word	problem	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	manipulating	GER PGAS
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	polymer	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	that	PIN DEMO SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	chemically	RB
+gap	 	
+word	inert	JJ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	makes	VPRT
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	very	AMP RB
+gap	 	
+word	difficult	JJ
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	incorporate	INF
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	materials	NN
+gap	. 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	studies	NN
+gap	 	
+word	about	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	possibility	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	modifying	PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	structure	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	polymer	NN
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	irradiation	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	electron	NN
+gap	 	
+word	beams	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	gamma	NN
+gap	 	
+word	rays	NN
+gap	 (	
+word	TAEGER	CAP NNP
+gap	, 	
+word	a	NN
+gap	. 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2014). 	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	believed	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	will	PRMD
+gap	 	
+word	be	BEMA AUXB INF
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	mix	INF
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	substances	NN
+gap	, 	
+word	what	WH
+gap	 	
+word	leads	VPRT
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	creating	PGAS
+gap	 	
+word	new	JJ
+gap	 	
+word	materials	NN
+gap	 	
+word	that	TSUB WHSUB WH
+gap	 	
+word	contain	VPRT
+gap	 	
+word	some	QUAN DET
+gap	 	
+word	advantageous	JJ
+gap	 	
+word	properties	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	and	CCONJ
+gap	 	
+word	acquire	INF
+gap	 	
+word	new	JJ
+gap	 	
+word	properties	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	interest	NN
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	various	JJ
+gap	 	
+word	applications	NOMZ
+gap	.\n	
+word	The	ART CAP DET
+gap	 	
+word	poly	JJ
+gap	 (	
+word	tetrafluoroethylene	NN
+gap	) 	
+word	was	PASS VBD AUXB
+gap	 	
+word	discovered	PRIV
+gap	 	
+word	accidentally	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	United	CAP NNP
+gap	 	
+word	States	PUBV CAP NNP
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 1938, 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	laboratories	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	a	ART DET INDA
+gap	 	
+word	chemistry	NN
+gap	 	
+word	called	
+gap	 	
+word	Du	CAP NNP
+gap	 	
+word	Pont	CAP NNP
+gap	. 	
+word	At	PIN CAP PREP
+gap	 	
+word	first	RB
+gap	, 	
+word	this	DEMO DET
+gap	 	
+word	researcher	NN
+gap	 	
+word	did	VBD SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	realize	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	value	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	polymer	NN
+gap	, 	
+word	but	CCONJ
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	PASS VBD AUXB
+gap	 	
+word	proved	PRIV
+gap	 	
+word	useful	JJ
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	World	CAP NNP
+gap	 	
+word	War	CAP NNP
+gap	 	
+word	II	CAP NNP
+gap	, 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	storage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	toxic	JJ
+gap	 	
+word	substance	NN
+gap	, 	
+word	corrosive	NNP
+gap	 	
+word	uranium	NN
+gap	 	
+word	hexafluoride	NN
+gap	, 	
+word	which	SERE WHQU DET WH
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	development	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	atomic	JJ
+gap	 	
+word	bomb	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	was	BEMA VBD AUXB
+gap	 	
+word	useful	JJ PRED
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	coverage	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	front	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	missile	NN
+gap	 	
+word	cones	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	War	CAP NNP
+gap	. 	
+word	Because	CAUS PIN CAP SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	success	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	applications	NOMZ
+gap	, 	
+word	in	PIN CONJ PREP
+gap	 1944, 	
+word	Du	CAP NNP
+gap	 	
+word	Pont	CAP NNP
+gap	 	
+word	patented	
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	Teflon	CAP NNP
+gap	. 	
+word	Nowadays	RB TIME CAP
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	recognized	PRIV
+gap	 	
+word	that	PIN THVC SCONJ PREP
+gap	 	
+word	Teflon	CAP NNP
+gap	 	
+word	has	VPRT
+gap	 	
+word	unique	JJ
+gap	 	
+word	properties	NN
+gap	 	
+word	like	PIN STPR PREP
+gap	: 	
+word	chemically	RB
+gap	 	
+word	inert	NN
+gap	 - 	
+word	it	PIT PRP SBJP
+gap	 	
+word	does	VPRT SPAU
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	react	INF
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	most	JJ EMPH SPADJ
+gap	 	
+word	chemicals	NN
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	gives	VPRT
+gap	 	
+word	applications	NOMZ
+gap	 	
+word	like	PIN PREP
+gap	 	
+word	waterproofing	GER PGAS
+gap	 	
+word	fabrics	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	wallpapers	NN
+gap	; 	
+word	high	JJ
+gap	 	
+word	melting	PGAS
+gap	 	
+word	temperature	NN
+gap	 - 	
+word	heat	NN
+gap	-	
+word	resistant	JJ
+gap	, 	
+word	which	SERE DET WH
+gap	 	
+word	allows	VPRT SUAV
+gap	 	
+word	its	PIT PRP SBJP
+gap	 	
+word	use	NN
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	coating	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	cooking	PGAS
+gap	 	
+word	utensils	NN
+gap	; 	
+word	high	JJ
+gap	 	
+word	mechanical	JJ
+gap	 	
+word	resistance	NN
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	traction	NOMZ
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	compression	NOMZ
+gap	 - 	
+word	low	JJ
+gap	 	
+word	superficial	JJ
+gap	 	
+word	deformation	NOMZ
+gap	 	
+word	when	RB WHOBJ SCONJ WH
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	external	JJ
+gap	 	
+word	force	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	applied	
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	.\n	
+word	Despite	PIN CAP SCONJ PREP
+gap	 	
+word	all	QUAN DET
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	utilities	NN
+gap	 	
+word	provided	WZPAST
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	properties	NN
+gap	 	
+word	mentioned	PUBV
+gap	, 	
+word	there	EX
+gap	 	
+word	are	VPRT AUXB
+gap	 	
+word	negative	JJ
+gap	 	
+word	points	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	characteristics	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	PTFE	CAP NNP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	main	JJ
+gap	 	
+word	fact	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	the	ART DET
+gap	 	
+word	difficulty	NN
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	react	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	polymer	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	substances	NN
+gap	, 	
+word	making	PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	production	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	new	JJ
+gap	 	
+word	materials	NN
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	Teflon	CAP NNP
+gap	 	
+word	very	AMP RB
+gap	 	
+word	hard	RB
+gap	. 	
+word	It	PIT CAP PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	incorporate	INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	virgin	JJ
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	powder	NN
+gap	 	
+word	evenly	RB
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	materials	NN
+gap	, 	
+word	by	PIN PREP
+gap	 	
+word	grinding	PGAS
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	mixing	PGAS
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	conventional	JJ
+gap	 	
+word	physical	JJ
+gap	 	
+word	technique	NN
+gap	 	
+word	applied	VBD
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	polymers	NN
+gap	. 	
+word	In	PIN CONJ CAP PREP
+gap	 	
+word	addition	NOMZ
+gap	, 	
+word	the	ART DET
+gap	 	
+word	chemical	JJ
+gap	 	
+word	transformations	NOMZ
+gap	 	
+word	are	PASS VPRT SPAU AUXB
+gap	 	
+word	largely	RB
+gap	 	
+word	used	
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	chemistry	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	polymers	NN
+gap	 	
+word	are	BEMA VPRT AUXB
+gap	 	
+word	not	XX0 RB
+gap	 	
+word	suitable	JJ
+gap	 	
+word	due	PIN PREP
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	high	JJ
+gap	 	
+word	chemical	NN
+gap	 	
+word	stability	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	PTFE	CAP NNP
+gap	 (	
+word	LUNKWITZ	CAP NNP
+gap	, 	
+word	k	NNP
+gap	. 	
+word	et	NNP
+gap	 	
+word	al	NNP
+gap	., 2004). 	
+word	The	ART CAP DET
+gap	 	
+word	mechanical	JJ
+gap	 	
+word	pulverization	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	this	DEMO DET
+gap	 	
+word	stuff	NN
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	difficult	JJ PRED
+gap	 	
+word	because	CAUS PIN SCONJ PREP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	stiffness	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	polymer	NN
+gap	. 	
+word	Besides	RB PIN CAP PREP
+gap	, 	
+word	the	ART DET
+gap	 	
+word	thermal	JJ
+gap	 	
+word	decomposition	NOMZ
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	complicated	JJ PRED
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	produces	VPRT
+gap	 	
+word	many	QUAN JJ
+gap	 	
+word	types	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	toxic	JJ
+gap	 	
+word	compounds	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	fluorine	NN
+gap	 (	
+word	KAGIYA	CAP NNP
+gap	, 	
+word	v	NNP
+gap	. 	
+word	t	NNP
+gap	. 	
+word	and	PHC CCONJ
+gap	 	
+word	HAGIWARA	CAP NNP
+gap	, 1975). 	
+word	Therefore	RB CONJ CAP
+gap	, 	
+word	a	ART DET INDA
+gap	 	
+word	different	JJ
+gap	 	
+word	technique	NN
+gap	 	
+word	is	PASS VPRT AUXB
+gap	 	
+word	required	SUAV
+gap	 	
+word	for	PIN PREP
+gap	 	
+word	modification	NOMZ
+gap	 	
+word	or	CCONJ
+gap	 	
+word	activation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	that	DEMO DET
+gap	 	
+word	material	NN
+gap	.\n	
+word	Thus	RB CONJ CAP
+gap	, 	
+word	modification	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	by	PIN PREP
+gap	 	
+word	irradiation	NOMZ
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	electron	NN
+gap	 	
+word	beams	NN
+gap	 	
+word	and	PHC CCONJ
+gap	 	
+word	gamma	NN
+gap	 	
+word	rays	NN
+gap	 	
+word	has	VPRT PEAS
+gap	 	
+word	been	PASS SPAU AUXB
+gap	 	
+word	heavily	RB
+gap	 	
+word	researched	
+gap	, 	
+word	since	OSUB PIN SCONJ PREP
+gap	 	
+word	it	PIT PRP SBJP
+gap	 	
+word	results	VPRT
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	formation	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	reactive	JJ
+gap	 	
+word	groups	NN
+gap	 	
+word	on	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	surface	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	polymer	NN
+gap	, 	
+word	allowing	SUAV PRESP PGAS
+gap	 	
+word	the	ART DET
+gap	 	
+word	combination	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Teflon	CAP NNP
+gap	 	
+word	with	PIN PREP
+gap	 	
+word	other	JJ
+gap	 	
+word	substances	NN
+gap	. 	
+word	Experiments	NOMZ CAP
+gap	 	
+word	done	WZPAST PROD
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Laboratory	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Chemistry	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Materials	CAP NNP
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	Nuclear	CAP NNP
+gap	 	
+word	Technology	CAP NNP
+gap	 	
+word	Development	CAP NNP
+gap	 	
+word	Center	CAP NNP
+gap	 - 	
+word	Belo	CAP NNP
+gap	 	
+word	Horizonte	CAP NNP
+gap	, 	
+word	MG	CAP NNP
+gap	, 	
+word	show	VPRT PRIV THATD
+gap	 	
+word	that	PIN STPR DEMP SCONJ PREP
+gap	, 	
+word	after	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	radiolysis	NN
+gap	 (	
+word	radiation	NOMZ
+gap	 	
+word	decomposition	NOMZ
+gap	) 	
+word	of	PIN PREP
+gap	 	
+word	PTFE	CAP NNP
+gap	 	
+word	in	PIN CONJ PREP
+gap	 	
+word	an	ART DET INDA
+gap	 	
+word	atmosphere	NN
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	oxygen	NN
+gap	, 	
+word	it	PIT PRP SBJP
+gap	 	
+word	is	BEMA VPRT AUXB
+gap	 	
+word	possible	JJ PRED
+gap	 	
+word	to	PIN TO PREP
+gap	 	
+word	incorporate	INF
+gap	 	
+word	substances	NN
+gap	 	
+word	at	PIN PREP
+gap	 	
+word	the	ART DET
+gap	 	
+word	Teflon	CAP NNP
+gap	, 	
+word	such	JJ
+gap	 	
+word	as	PIN CONJ PREP
+gap	 	
+word	nitric	JJ
+gap	 	
+word	acid	NN
+gap	, 	
+word	the	ART DET
+gap	 	
+word	Poly	CAP NNP
+gap	 (	
+word	vinyl	NN
+gap	 	
+word	acetate	NNP
+gap	) 	
+word	chloride	NNP
+gap	 (	
+word	PVA	CAP NNP
+gap	), 	
+word	dispersion	NOMZ
+gap	 	
+word	of	PIN PREP
+gap	 	
+word	graphite	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	observe	PRIV INF
+gap	 	
+word	the	ART DET
+gap	 	
+word	structural	JJ
+gap	 	
+word	changes	NN
+gap	 	
+word	and	CCONJ
+gap	 	
+word	the	ART DET
+gap	 	
+word	several	QUAN JJ
+gap	 	
+word	properties	NN
+gap	 	
+word	provided	WZPAST
+gap	 	
+word	to	PIN PREP
+gap	 	
+word	these	DEMO DET
+gap	 	
+word	new	JJ
+gap	 	
+word	materials	NN
+gap	.\n\n<REFERENCES>\n<KAGIYA, V. T.; HAGIWARA, M. Radiation recycling process of waste poly (tetrafluorethylene) scrap. IAEA – SM – 194/704, 1975.>\n<LUNKWITZ, K. et al. Modification of perfluorinated polymers by high-energy irradiation. Journal of Fluorine Chemistry, v. 125, p. 863-873, 2004.>\n<ROBINSON, J. T. et al. Properties of Fluorinated Graphene Films. Nano Letters, v. 10, p. 3001-3005, 2010.>\n<TAEGER, A. et al. Evidence of chemical compatibilization reaction between poly (ether ketone) and irradiation-modified poly (tetrafluoroethylene). High Performance Polymers. v. 26, n. 2, p. 188-196, 2014.>\n<TEFLON – How Products are Made. Available: http://www.madehow.com/Volume-7/Teflon.html (Accessed 01/05/2016).>	
