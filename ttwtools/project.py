@@ -63,11 +63,13 @@ CREATE TABLE IF NOT EXISTS tagged_files (
 );
 
 CREATE TABLE IF NOT EXISTS feature_tables (
-    id           INTEGER PRIMARY KEY AUTOINCREMENT,
-    corpus_name  TEXT    NOT NULL,
-    table_type   TEXT    NOT NULL CHECK(table_type IN ('rawcount', 'norm1000')),
-    data         TEXT    NOT NULL,
-    UNIQUE (corpus_name, table_type)
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    corpus_name   TEXT    NOT NULL,
+    table_type    TEXT    NOT NULL CHECK(table_type IN ('rawcount', 'norm1000')),
+    tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
+    tagger_config TEXT    NOT NULL DEFAULT '{}',
+    data          TEXT    NOT NULL,
+    UNIQUE (corpus_name, table_type, tagger_type)
 );
 
 CREATE TABLE IF NOT EXISTS kfa_results (
@@ -92,8 +94,38 @@ def _connect(path: str | Path) -> sqlite3.Connection:
     con = sqlite3.connect(str(path))
     con.row_factory = sqlite3.Row
     con.executescript(_SCHEMA_SQL)
+    _migrate_feature_tables(con)
     con.commit()
     return con
+
+
+def _migrate_feature_tables(con: sqlite3.Connection) -> None:
+    """Migra feature_tables de .ttwa antigos: adiciona colunas de tagger e
+    reconstrói o índice UNIQUE para incluir tagger_type.
+    No-op se a tabela já estiver na versão atual."""
+    cols = {row[1] for row in con.execute("PRAGMA table_info(feature_tables)")}
+    if "tagger_type" in cols:
+        return
+    # Rename+recreate pattern (SQLite não suporta ADD CONSTRAINT após criação)
+    con.executescript("""
+        ALTER TABLE feature_tables ADD COLUMN tagger_type  TEXT NOT NULL DEFAULT 'biberplus';
+        ALTER TABLE feature_tables ADD COLUMN tagger_config TEXT NOT NULL DEFAULT '{}';
+        CREATE TABLE feature_tables_v2 (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            corpus_name   TEXT    NOT NULL,
+            table_type    TEXT    NOT NULL CHECK(table_type IN ('rawcount', 'norm1000')),
+            tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
+            tagger_config TEXT    NOT NULL DEFAULT '{}',
+            data          TEXT    NOT NULL,
+            UNIQUE (corpus_name, table_type, tagger_type)
+        );
+        INSERT INTO feature_tables_v2 (id, corpus_name, table_type, tagger_type, tagger_config, data)
+            SELECT id, corpus_name, table_type, tagger_type, tagger_config, data
+            FROM feature_tables;
+        DROP TABLE feature_tables;
+        ALTER TABLE feature_tables_v2 RENAME TO feature_tables;
+    """)
+    con.commit()
 
 
 def _now_iso() -> str:
@@ -384,62 +416,87 @@ class TTWAProject:
         corpus_name: str,
         df: pd.DataFrame,
         table_type: str = "rawcount",
+        tagger_type: str = "biberplus",
+        tagger_config: dict | None = None,
     ) -> None:
         """
         Persiste um DataFrame de features no projeto.
 
         Args:
             corpus_name: Nome do corpus.
-            df: DataFrame com colunas de features Biber.
+            df: DataFrame com colunas de features.
             table_type: 'rawcount' ou 'norm1000'.
+            tagger_type: Identificador do tagger usado (ex: 'biberplus', 'mfte').
+            tagger_config: Configuração do tagger em dicionário (serializado como JSON).
         """
         if table_type not in ("rawcount", "norm1000"):
             raise ValueError("table_type deve ser 'rawcount' ou 'norm1000'.")
         data_json = df.to_json(orient="records", force_ascii=False)
+        cfg_json = json.dumps(tagger_config or {})
         self._con.execute(
-            "INSERT INTO feature_tables (corpus_name, table_type, data) VALUES (?, ?, ?)"
-            " ON CONFLICT(corpus_name, table_type) DO UPDATE SET data=excluded.data",
-            (corpus_name, table_type, data_json),
+            "INSERT INTO feature_tables"
+            " (corpus_name, table_type, tagger_type, tagger_config, data)"
+            " VALUES (?, ?, ?, ?, ?)"
+            " ON CONFLICT(corpus_name, table_type, tagger_type)"
+            " DO UPDATE SET data=excluded.data, tagger_config=excluded.tagger_config",
+            (corpus_name, table_type, tagger_type, cfg_json, data_json),
         )
         self._con.commit()
-        print(f"  + Feature table '{table_type}' salva para corpus '{corpus_name}' ({len(df)} docs).")
+        print(
+            f"  + Feature table '{table_type}' [{tagger_type}] salva para"
+            f" corpus '{corpus_name}' ({len(df)} docs)."
+        )
 
     def save_feature_table_from_csv(
         self,
         corpus_name: str,
         csv_path: str | Path,
         table_type: str = "rawcount",
+        tagger_type: str = "biberplus",
+        tagger_config: dict | None = None,
     ) -> pd.DataFrame:
         """
-        Lê um CSV de features Biber e o persiste no projeto.
+        Lê um CSV de features e o persiste no projeto.
         Retorna o DataFrame carregado.
         """
         df = pd.read_csv(csv_path)
-        self.save_feature_table(corpus_name, df, table_type)
+        self.save_feature_table(corpus_name, df, table_type,
+                                tagger_type=tagger_type, tagger_config=tagger_config)
         return df
 
     def load_feature_table(
         self,
         corpus_name: str,
         table_type: str = "norm1000",
+        tagger_type: str = "biberplus",
     ) -> Optional[pd.DataFrame]:
         """
-        Retorna o DataFrame de features de um corpus, ou None se não existir.
+        Retorna o DataFrame de features de um corpus/tagger, ou None se não existir.
         """
         row = self._con.execute(
-            "SELECT data FROM feature_tables WHERE corpus_name = ? AND table_type = ?",
-            (corpus_name, table_type),
+            "SELECT data FROM feature_tables"
+            " WHERE corpus_name = ? AND table_type = ? AND tagger_type = ?",
+            (corpus_name, table_type, tagger_type),
         ).fetchone()
         if row is None:
             return None
         return pd.read_json(io.StringIO(row["data"]), orient="records")
 
     def list_feature_tables(self) -> list[dict]:
-        """Lista todos os pares (corpus_name, table_type) disponíveis."""
+        """Lista todas as feature tables disponíveis com tagger info."""
         rows = self._con.execute(
-            "SELECT corpus_name, table_type FROM feature_tables ORDER BY corpus_name, table_type"
+            "SELECT corpus_name, table_type, tagger_type, tagger_config"
+            " FROM feature_tables ORDER BY corpus_name, table_type, tagger_type"
         ).fetchall()
-        return [dict(r) for r in rows]
+        result = []
+        for r in rows:
+            d = dict(r)
+            try:
+                d["tagger_config"] = json.loads(d["tagger_config"])
+            except (json.JSONDecodeError, TypeError):
+                pass
+            result.append(d)
+        return result
 
     # ------------------------------------------------------------------
     # KFA results
@@ -509,7 +566,7 @@ class TTWAProject:
                     "files": len(self.list_corpus_files(name)),
                     "tagged": len(self.list_tagged_files(name)),
                     "feature_tables": [
-                        r["table_type"]
+                        f"{r['table_type']}[{r['tagger_type']}]"
                         for r in self.list_feature_tables()
                         if r["corpus_name"] == name
                     ],
