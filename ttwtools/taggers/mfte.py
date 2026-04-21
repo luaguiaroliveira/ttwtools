@@ -97,8 +97,13 @@ def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None):
     Parameters
     ----------
     device    : ``"cuda"`` or ``"cpu"`` (MPS excluded — see ``_detect_device``)
-    model_dir : path to a pre-downloaded Stanza model directory; ``None`` uses
-                the default ``~/.stanza/`` or ``~/Library/Caches/stanza/``.
+    model_dir : path to a pre-downloaded Stanza model directory.
+                Resolved in order:
+                1. explicit ``model_dir`` argument
+                2. ``STANZA_RESOURCES_DIR`` environment variable
+                3. Stanza default (``~/stanza_resources/``)
+                This allows PyInstaller bundles to point Stanza at a bundled
+                model directory without modifying application code.
 
     Note
     ----
@@ -109,7 +114,11 @@ def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None):
       (it does not activate MPS).
     - ``device="cuda"`` is explicit and quiet.
     """
+    import os
     import stanza  # noqa: imported lazily — stanza/torch not loaded until first call
+
+    if model_dir is None:
+        model_dir = os.environ.get("STANZA_RESOURCES_DIR") or None
 
     key = (device, model_dir or "")
     if key not in _pipeline_cache:
