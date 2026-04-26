@@ -61,7 +61,7 @@ def cohens_d(group1, group2):
     return (mean1 - mean2) / std_pooled
 
 
-def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.2, join: str = "union"):
+def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = "union"):
     """Realiza a analise de key features (KFA) entre dois corpora norm1000.csv."""
     c1 = Path(corpus1_path).name
     c2 = Path(corpus2_path).name
@@ -124,8 +124,8 @@ def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: 
         values1 = df1[feature].values
         values2 = df2[feature].values
 
-        values1 = values1[~np.isnan(values1)]
-        values2 = values2[~np.isnan(values2)]
+        values1 = np.where(np.isnan(values1), 0.0, values1)
+        values2 = np.where(np.isnan(values2), 0.0, values2)
 
         if len(values1) < 2 or len(values2) < 2:
             print(f"  ! Feature '{feature}' ignorada - dados insuficientes (C1={len(values1)}, C2={len(values2)})")
@@ -168,7 +168,7 @@ def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: 
     return results_df
 
 
-def kfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.2, join: str = "union"):
+def kfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = "union"):
     """Alias de alto nivel para Key Feature Analysis."""
     return analyze_key_features(
         corpus1_path=corpus1_path,
