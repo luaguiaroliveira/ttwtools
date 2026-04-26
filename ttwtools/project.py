@@ -58,8 +58,9 @@ CREATE TABLE IF NOT EXISTS tagged_files (
     id           INTEGER PRIMARY KEY AUTOINCREMENT,
     corpus_name  TEXT    NOT NULL,
     filename     TEXT    NOT NULL,
+    tagger_type  TEXT    NOT NULL DEFAULT 'biberplus',
     content      TEXT    NOT NULL,
-    UNIQUE (corpus_name, filename)
+    UNIQUE (corpus_name, filename, tagger_type)
 );
 
 CREATE TABLE IF NOT EXISTS feature_tables (
@@ -95,10 +96,34 @@ def _connect(path: str | Path) -> sqlite3.Connection:
     con = sqlite3.connect(str(path))
     con.row_factory = sqlite3.Row
     con.executescript(_SCHEMA_SQL)
+    _migrate_tagged_files(con)
     _migrate_feature_tables(con)
     _migrate_kfa_results(con)
     con.commit()
     return con
+
+
+def _migrate_tagged_files(con: sqlite3.Connection) -> None:
+    """Migra tagged_files antigos: adiciona tagger_type e reconstrói UNIQUE."""
+    cols = {row[1] for row in con.execute("PRAGMA table_info(tagged_files)")}
+    if "tagger_type" in cols:
+        return
+    con.executescript("""
+        CREATE TABLE tagged_files_v2 (
+            id           INTEGER PRIMARY KEY AUTOINCREMENT,
+            corpus_name  TEXT    NOT NULL,
+            filename     TEXT    NOT NULL,
+            tagger_type  TEXT    NOT NULL DEFAULT 'biberplus',
+            content      TEXT    NOT NULL,
+            UNIQUE (corpus_name, filename, tagger_type)
+        );
+        INSERT INTO tagged_files_v2 (id, corpus_name, filename, tagger_type, content)
+            SELECT id, corpus_name, filename, 'biberplus', content
+            FROM tagged_files;
+        DROP TABLE tagged_files;
+        ALTER TABLE tagged_files_v2 RENAME TO tagged_files;
+    """)
+    con.commit()
 
 
 def _migrate_kfa_results(con: sqlite3.Connection) -> None:
@@ -389,13 +414,17 @@ class TTWAProject:
     # ------------------------------------------------------------------
 
     def save_tagged_file(
-        self, corpus_name: str, filename: str, content: str
+        self,
+        corpus_name: str,
+        filename: str,
+        content: str,
+        tagger_type: str = "biberplus",
     ) -> None:
         """Armazena o conteúdo de um arquivo .tsv tagueado."""
         self._con.execute(
-            "INSERT INTO tagged_files (corpus_name, filename, content) VALUES (?, ?, ?)"
-            " ON CONFLICT(corpus_name, filename) DO UPDATE SET content=excluded.content",
-            (corpus_name, filename, content),
+            "INSERT INTO tagged_files (corpus_name, filename, tagger_type, content) VALUES (?, ?, ?, ?)"
+            " ON CONFLICT(corpus_name, filename, tagger_type) DO UPDATE SET content=excluded.content",
+            (corpus_name, filename, tagger_type, content),
         )
         self._con.commit()
 
@@ -405,6 +434,7 @@ class TTWAProject:
         tagged_folder: str | Path,
         glob: str = "*.tsv",
         encoding: str = "utf-8",
+        tagger_type: str = "biberplus",
     ) -> int:
         """Importa todos os .tsv de uma pasta tagueada para o projeto."""
         folder = Path(tagged_folder).resolve()
@@ -413,27 +443,51 @@ class TTWAProject:
         for tsv_path in files:
             content = tsv_path.read_text(encoding=encoding, errors="ignore")
             self._con.execute(
-                "INSERT INTO tagged_files (corpus_name, filename, content) VALUES (?, ?, ?)"
-                " ON CONFLICT(corpus_name, filename) DO UPDATE SET content=excluded.content",
-                (corpus_name, tsv_path.name, content),
+                "INSERT INTO tagged_files (corpus_name, filename, tagger_type, content) VALUES (?, ?, ?, ?)"
+                " ON CONFLICT(corpus_name, filename, tagger_type) DO UPDATE SET content=excluded.content",
+                (corpus_name, tsv_path.name, tagger_type, content),
             )
             imported += 1
         self._con.commit()
         print(f"  + {imported} arquivo(s) tagueados importados para '{corpus_name}'.")
         return imported
 
-    def list_tagged_files(self, corpus_name: str) -> list[str]:
-        rows = self._con.execute(
-            "SELECT filename FROM tagged_files WHERE corpus_name = ? ORDER BY filename",
-            (corpus_name,),
-        ).fetchall()
+    def list_tagged_files(self, corpus_name: str, tagger_type: str | None = None) -> list[str]:
+        if tagger_type is None:
+            rows = self._con.execute(
+                "SELECT filename FROM tagged_files WHERE corpus_name = ? ORDER BY filename",
+                (corpus_name,),
+            ).fetchall()
+        else:
+            rows = self._con.execute(
+                "SELECT filename FROM tagged_files WHERE corpus_name = ? AND tagger_type = ? ORDER BY filename",
+                (corpus_name, tagger_type),
+            ).fetchall()
         return [r["filename"] for r in rows]
 
-    def get_tagged_file(self, corpus_name: str, filename: str) -> Optional[str]:
-        row = self._con.execute(
-            "SELECT content FROM tagged_files WHERE corpus_name = ? AND filename = ?",
-            (corpus_name, filename),
-        ).fetchone()
+    def list_tagged_entries(self, corpus_name: str) -> list[dict]:
+        rows = self._con.execute(
+            "SELECT filename, tagger_type FROM tagged_files WHERE corpus_name = ? ORDER BY tagger_type, filename",
+            (corpus_name,),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+    def get_tagged_file(
+        self,
+        corpus_name: str,
+        filename: str,
+        tagger_type: str | None = None,
+    ) -> Optional[str]:
+        if tagger_type is None:
+            row = self._con.execute(
+                "SELECT content FROM tagged_files WHERE corpus_name = ? AND filename = ? ORDER BY id DESC LIMIT 1",
+                (corpus_name, filename),
+            ).fetchone()
+        else:
+            row = self._con.execute(
+                "SELECT content FROM tagged_files WHERE corpus_name = ? AND filename = ? AND tagger_type = ?",
+                (corpus_name, filename, tagger_type),
+            ).fetchone()
         return row["content"] if row else None
 
     # ------------------------------------------------------------------
@@ -660,6 +714,7 @@ def save_analysis_to_project(
     kfa_min_effect: float = 0.2,
     kfa_join_method: str = "union",
     include_originals: bool = True,
+    tagger_type: str = "biberplus",
 ) -> TTWAProject:
     """
     Função all-in-one: cria (ou sobrescreve) um projeto .ttwa e importa tudo de uma vez.
@@ -693,9 +748,9 @@ def save_analysis_to_project(
         if include_originals and folder:
             proj.add_corpus_folder(cname, folder)
         if tagged_folder:
-            proj.save_tagged_folder(cname, tagged_folder)
-        proj.save_feature_table_from_csv(cname, raw_csv, "rawcount")
-        proj.save_feature_table_from_csv(cname, norm_csv, "norm1000")
+            proj.save_tagged_folder(cname, tagged_folder, tagger_type=tagger_type)
+        proj.save_feature_table_from_csv(cname, raw_csv, "rawcount", tagger_type=tagger_type)
+        proj.save_feature_table_from_csv(cname, norm_csv, "norm1000", tagger_type=tagger_type)
 
     if kfa_results_df is not None:
         proj.save_kfa_result(
@@ -704,6 +759,7 @@ def save_analysis_to_project(
             kfa_results_df,
             min_effect=kfa_min_effect,
             join_method=kfa_join_method,
+            tagger_type=tagger_type,
         )
 
     return proj
