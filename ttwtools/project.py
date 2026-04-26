@@ -76,11 +76,12 @@ CREATE TABLE IF NOT EXISTS kfa_results (
     id            INTEGER PRIMARY KEY AUTOINCREMENT,
     corpus1_name  TEXT    NOT NULL,
     corpus2_name  TEXT    NOT NULL,
-    min_effect    REAL    NOT NULL DEFAULT 0.2,
+    min_effect    REAL    NOT NULL DEFAULT 0.0,
     join_method   TEXT    NOT NULL DEFAULT 'union',
+    tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
     data          TEXT    NOT NULL,
     created_at    TEXT    NOT NULL,
-    UNIQUE (corpus1_name, corpus2_name, min_effect, join_method)
+    UNIQUE (corpus1_name, corpus2_name, min_effect, join_method, tagger_type)
 );
 """
 
@@ -95,8 +96,36 @@ def _connect(path: str | Path) -> sqlite3.Connection:
     con.row_factory = sqlite3.Row
     con.executescript(_SCHEMA_SQL)
     _migrate_feature_tables(con)
+    _migrate_kfa_results(con)
     con.commit()
     return con
+
+
+def _migrate_kfa_results(con: sqlite3.Connection) -> None:
+    """Migra kfa_results antigos: adiciona tagger_type e reconstrói UNIQUE."""
+    cols = {row[1] for row in con.execute("PRAGMA table_info(kfa_results)")}
+    if "tagger_type" in cols:
+        return
+    # SQLite rename-recreate to change UNIQUE constraint
+    con.executescript("""
+        CREATE TABLE kfa_results_v2 (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            corpus1_name  TEXT    NOT NULL,
+            corpus2_name  TEXT    NOT NULL,
+            min_effect    REAL    NOT NULL DEFAULT 0.0,
+            join_method   TEXT    NOT NULL DEFAULT 'union',
+            tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
+            data          TEXT    NOT NULL,
+            created_at    TEXT    NOT NULL,
+            UNIQUE (corpus1_name, corpus2_name, min_effect, join_method, tagger_type)
+        );
+        INSERT INTO kfa_results_v2 (id, corpus1_name, corpus2_name, min_effect, join_method, tagger_type, data, created_at)
+            SELECT id, corpus1_name, corpus2_name, min_effect, join_method, 'biberplus', data, created_at
+            FROM kfa_results;
+        DROP TABLE kfa_results;
+        ALTER TABLE kfa_results_v2 RENAME TO kfa_results;
+    """)
+    con.commit()
 
 
 def _migrate_feature_tables(con: sqlite3.Connection) -> None:
@@ -507,39 +536,52 @@ class TTWAProject:
         corpus1_name: str,
         corpus2_name: str,
         df: pd.DataFrame,
-        min_effect: float = 0.2,
+        min_effect: float = 0.0,
         join_method: str = "union",
+        tagger_type: str = "biberplus",
     ) -> None:
         """Persiste o DataFrame de resultados de uma KFA entre dois corpora."""
         data_json = df.to_json(orient="records", force_ascii=False)
         self._con.execute(
             """INSERT INTO kfa_results
-               (corpus1_name, corpus2_name, min_effect, join_method, data, created_at)
-               VALUES (?, ?, ?, ?, ?, ?)
-               ON CONFLICT(corpus1_name, corpus2_name, min_effect, join_method)
+               (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, data, created_at)
+               VALUES (?, ?, ?, ?, ?, ?, ?)
+               ON CONFLICT(corpus1_name, corpus2_name, min_effect, join_method, tagger_type)
                DO UPDATE SET data=excluded.data, created_at=excluded.created_at""",
-            (corpus1_name, corpus2_name, min_effect, join_method, data_json, _now_iso()),
+            (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, data_json, _now_iso()),
         )
         self._con.commit()
         print(
             f"  + KFA salva: '{corpus1_name}' vs '{corpus2_name}'"
-            f" | d>={min_effect} | {join_method} | {len(df)} features."
+            f" | tagger={tagger_type} | d>={min_effect} | {join_method} | {len(df)} features."
         )
 
     def load_kfa_result(
         self,
         corpus1_name: str,
         corpus2_name: str,
-        min_effect: float = 0.2,
+        min_effect: float = 0.0,
         join_method: str = "union",
+        tagger_type: str | None = None,
     ) -> Optional[pd.DataFrame]:
-        """Retorna o DataFrame de resultados de uma KFA, ou None se não existir."""
-        row = self._con.execute(
-            """SELECT data FROM kfa_results
-               WHERE corpus1_name = ? AND corpus2_name = ?
-                 AND min_effect = ? AND join_method = ?""",
-            (corpus1_name, corpus2_name, min_effect, join_method),
-        ).fetchone()
+        """Retorna o DataFrame de resultados de uma KFA, ou None se não existir.
+        Se tagger_type=None, retorna a KFA mais recente para o par (qualquer tagger)."""
+        if tagger_type is not None:
+            row = self._con.execute(
+                """SELECT data FROM kfa_results
+                   WHERE corpus1_name = ? AND corpus2_name = ?
+                     AND min_effect = ? AND join_method = ? AND tagger_type = ?
+                   ORDER BY created_at DESC LIMIT 1""",
+                (corpus1_name, corpus2_name, min_effect, join_method, tagger_type),
+            ).fetchone()
+        else:
+            row = self._con.execute(
+                """SELECT data FROM kfa_results
+                   WHERE corpus1_name = ? AND corpus2_name = ?
+                     AND min_effect = ? AND join_method = ?
+                   ORDER BY created_at DESC LIMIT 1""",
+                (corpus1_name, corpus2_name, min_effect, join_method),
+            ).fetchone()
         if row is None:
             return None
         return pd.read_json(io.StringIO(row["data"]), orient="records")
@@ -547,7 +589,7 @@ class TTWAProject:
     def list_kfa_results(self) -> list[dict]:
         """Lista todas as KFAs armazenadas."""
         rows = self._con.execute(
-            "SELECT corpus1_name, corpus2_name, min_effect, join_method, created_at"
+            "SELECT corpus1_name, corpus2_name, min_effect, join_method, tagger_type, created_at"
             " FROM kfa_results ORDER BY created_at DESC"
         ).fetchall()
         return [dict(r) for r in rows]
