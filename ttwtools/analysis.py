@@ -61,15 +61,61 @@ def cohens_d(group1, group2):
     return (mean1 - mean2) / std_pooled
 
 
-def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = "union"):
-    """Realiza a analise de key features (KFA) entre dois corpora norm1000.csv."""
+def pooled_std_biber(std1: float, std2: float) -> float:
+    """SD combinado conforme Biber & Egbert: sqrt((SD1^2 + SD2^2) / 2)."""
+    if np.isnan(std1) or np.isnan(std2):
+        warnings.warn("Desvio padrao de um ou ambos os grupos e NaN.", UserWarning)
+        return np.nan
+    return np.sqrt((std1 ** 2 + std2 ** 2) / 2)
+
+
+def cohens_d_biber(group1, group2):
+    """Cohen's D usando a formula de SD combinado de Biber & Egbert: sqrt((SD1^2+SD2^2)/2)."""
+    if len(group1) == 0 or len(group2) == 0:
+        warnings.warn("Um ou ambos os grupos estao vazios.", UserWarning)
+        return np.nan
+
+    mean1 = np.mean(group1)
+    mean2 = np.mean(group2)
+
+    if len(group1) < 2 or len(group2) < 2:
+        warnings.warn(
+            f"Um dos grupos tem tamanho menor que 2 (n1={len(group1)}, n2={len(group2)}).",
+            UserWarning,
+        )
+        return np.nan
+
+    std1 = np.std(group1, ddof=1)
+    std2 = np.std(group2, ddof=1)
+    sp = pooled_std_biber(std1, std2)
+
+    if sp == 0 or np.isnan(sp):
+        warnings.warn("Desvio padrao combinado e zero ou NaN.", UserWarning)
+        return np.nan
+
+    return (mean1 - mean2) / sp
+
+
+def analyze_key_features(
+    corpus1_path: str,
+    corpus2_path: str,
+    min_effect_size: float = 0.0,
+    join: str = "union",
+    metric: str = "kfa",
+):
+    """Realiza a analise de key features (KFA) entre dois corpora norm1000.csv.
+
+    metric="kfa"  — formula de Biber & Egbert: SD_pooled = sqrt((SD1^2+SD2^2)/2)  [padrao]
+    metric="kfa2" — formula ponderada pelo tamanho: SD_pooled classico (atual)
+    """
     c1 = Path(corpus1_path).name
     c2 = Path(corpus2_path).name
     print(f"\n{'=' * 60}")
     print("  Key Feature Analysis (KFA)")
     print(f"  Corpus 1 : {c1}")
     print(f"  Corpus 2 : {c2}")
-    print(f"  Metodo   : {join}  |  effect size minimo: {min_effect_size}")
+    metric_label = "Biber & Egbert [sqrt((SD1²+SD2²)/2)]" if metric == "kfa" else "ponderada pelo tamanho [sqrt(((n1-1)s1²+(n2-1)s2²)/(n1+n2-2))]"
+    print(f"  Metodo   : {join}  |  effect size minimo: {min_effect_size}  |  metrica: {metric_label}")
     print(f"{'=' * 60}")
 
     print("  -> Lendo arquivos CSV...")
@@ -136,7 +182,10 @@ def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: 
         std1 = np.std(values1, ddof=1)
         std2 = np.std(values2, ddof=1)
 
-        effect_size = cohens_d(values1, values2)
+        if metric == "kfa":
+            effect_size = cohens_d_biber(values1, values2)
+        else:
+            effect_size = cohens_d(values1, values2)
 
         if np.isnan(effect_size):
             print(f"  ! Feature '{feature}' ignorada - Cohen's D indefinido (medias: {mean1:.3f} vs {mean2:.3f})")
@@ -168,11 +217,34 @@ def analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: 
     return results_df
 
 
-def kfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = "union"):
-    """Alias de alto nivel para Key Feature Analysis."""
+def kfa(
+    corpus1_path: str,
+    corpus2_path: str,
+    min_effect_size: float = 0.0,
+    join: str = "union",
+    metric: str = "kfa",
+):
+    """KFA padrao (Biber & Egbert): SD_pooled = sqrt((SD1^2+SD2^2)/2)."""
     return analyze_key_features(
         corpus1_path=corpus1_path,
         corpus2_path=corpus2_path,
         min_effect_size=min_effect_size,
         join=join,
+        metric=metric,
+    )
+
+
+def kfa2(
+    corpus1_path: str,
+    corpus2_path: str,
+    min_effect_size: float = 0.0,
+    join: str = "union",
+):
+    """KFA2: SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2))."""
+    return analyze_key_features(
+        corpus1_path=corpus1_path,
+        corpus2_path=corpus2_path,
+        min_effect_size=min_effect_size,
+        join=join,
+        metric="kfa2",
     )

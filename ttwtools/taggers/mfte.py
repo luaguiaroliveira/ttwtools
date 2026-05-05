@@ -177,6 +177,66 @@ def _map_span(start: int, end: int, offset_map: list[int] | None) -> tuple[int, 
 # Core tagging function
 # ---------------------------------------------------------------------------
 
+def tag_from_doc_mfte(doc, original_text: str, offset_map, extended: bool = True) -> list[dict]:
+    """Apply MFTE rules to a pre-computed Stanza *doc* and return token dicts.
+
+    This is the inner kernel shared by :func:`_tag_document_mfte` and
+    :func:`~ttwtools.taggers.stanza_pos.extract_stanza_combined_features_from_folder`
+    so that the Stanza ``nlp(text)`` inference call is performed only once when
+    multiple Stanza-based taggers are requested together.
+
+    Parameters
+    ----------
+    doc           : Stanza ``Document`` produced by ``Pipeline("en", processors="tokenize,pos")``.
+    original_text : raw file content (may include ``<…>`` markup).
+    offset_map    : mapping from stripped-text positions to original-text positions,
+                    as returned by :func:`_build_offset_map`.
+    extended      : whether to apply extended MFTE semantic-category rules.
+
+    Returns
+    -------
+    List of dicts with keys: ``start_char``, ``end_char``, ``word``, ``xpos``,
+    ``tags``.
+    """
+    from MFTE import process_sentence, process_sentence_extended  # noqa: lazy import
+
+    all_tokens: list[tuple[int, int, str, str]] = []  # (start, end, word, xpos)
+    mfte_input: list[str] = []
+
+    for sentence in doc.sentences:
+        mfte_input.extend([" "] * 20)
+        for word in sentence.words:
+            mfte_input.append(f"{word.text}_{word.xpos}")
+            all_tokens.append((word.start_char, word.end_char, word.text, word.xpos))
+
+    mfte_input.extend([" "] * 20)
+
+    tagged = process_sentence(mfte_input, extended=extended)
+    if extended:
+        tagged = process_sentence_extended(tagged)
+
+    filtered = [w for w in tagged if w != " "]
+
+    result: list[dict] = []
+    for i, (st, en, word, stanza_xpos) in enumerate(all_tokens):
+        if i >= len(filtered):
+            break
+        raw = filtered[i]
+        parts = raw.split()
+        mfte_xpos = parts[0].rsplit("_", 1)[-1] if len(parts) > 0 and "_" in parts[0] else stanza_xpos
+        tags = parts[1:]
+        mapped_start, mapped_end = _map_span(st, en, offset_map)
+        result.append({
+            "start_char": mapped_start,
+            "end_char": mapped_end,
+            "word": word,
+            "xpos": mfte_xpos,
+            "tags": tags,
+        })
+
+    return result
+
+
 def _tag_document_mfte(
     original_text: str,
     nlp,
@@ -196,8 +256,6 @@ def _tag_document_mfte(
     ``tags``.  ``xpos`` is the MFTE-modified Penn Treebank tag (may differ from
     Stanza's original tag because MFTE re-categorises some POS values).
     """
-    from MFTE import process_sentence, process_sentence_extended  # noqa: lazy import
-
     # 1. Strip HTML so markup tokens don't confuse MFTE rules
     text = re.sub(r"<[^>]*>", "", original_text)
     offset_map = _build_offset_map(original_text, text)
@@ -205,46 +263,8 @@ def _tag_document_mfte(
     # 2. Stanza tokenisation on stripped text → per-token offsets
     doc = nlp(text)
 
-    # 3. Build MFTE input list + parallel offset list
-    all_tokens: list[tuple[int, int, str, str]] = []  # (start, end, word, xpos)
-    mfte_input: list[str] = []
-
-    for sentence in doc.sentences:
-        mfte_input.extend([" "] * 20)          # sentence-boundary sentinels
-        for word in sentence.words:
-            mfte_input.append(f"{word.text}_{word.xpos}")
-            all_tokens.append((word.start_char, word.end_char, word.text, word.xpos))
-
-    mfte_input.extend([" "] * 20)              # final sentinel
-
-    # 4. Apply MFTE tagging (pure function, no I/O)
-    tagged = process_sentence(mfte_input, extended=extended)
-    if extended:
-        tagged = process_sentence_extended(tagged)
-
-    # 5. Filter out sentinel entries (single-space strings); result is 1:1 with all_tokens
-    filtered = [w for w in tagged if w != " "]
-
-    # 6. Reassociate tags with offsets
-    result: list[dict] = []
-    for i, (st, en, word, stanza_xpos) in enumerate(all_tokens):
-        if i >= len(filtered):
-            break  # safety — should not happen
-        raw = filtered[i]           # e.g. "study_NN NNABSPROC"
-        parts = raw.split()
-        # MFTE may reclassify the POS (e.g. NNS → NN); use the MFTE version
-        mfte_xpos = parts[0].rsplit("_", 1)[-1] if len(parts) > 0 and "_" in parts[0] else stanza_xpos
-        tags = parts[1:]            # all tokens after the first word_POS token
-        mapped_start, mapped_end = _map_span(st, en, offset_map)
-        result.append({
-            "start_char": mapped_start,
-            "end_char": mapped_end,
-            "word": word,
-            "xpos": mfte_xpos,
-            "tags": tags,
-        })
-
-    return result
+    # 3–6. Delegate to the shared kernel
+    return tag_from_doc_mfte(doc, original_text, offset_map, extended=extended)
 
 
 # ---------------------------------------------------------------------------

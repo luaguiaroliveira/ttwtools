@@ -5,8 +5,9 @@ tqdm
 matplotlib
 seaborn
 biberplus
+spacy>=3.0
 
-# Required model for tagging workflow (install separately):
+# Required English model for spaCy taggers (install separately):
 # python -m spacy download en_core_web_sm
 
 # Optional — MFTE backend (installs torch + stanza, ~500 MB):
