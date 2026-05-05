@@ -42,6 +42,28 @@ TTWA_MODE_COMPACT = "compact"   # apenas tagged + análise (sem textos originais
 SCHEMA_VERSION_LEGACY  = "0.1"
 SCHEMA_VERSION_CURRENT = "0.2"
 
+
+def _schema_version_parts(value) -> tuple[int, ...]:
+    """Normaliza versão de schema para comparação segura.
+
+    Aceita str/float/int (ex.: "0.2", 0.2, 2) e retorna uma tupla comparável.
+    """
+    if value is None:
+        value = SCHEMA_VERSION_LEGACY
+    s = str(value).strip()
+    # Mantém apenas dígitos e pontos para tolerar formatos inesperados.
+    s = "".join(ch for ch in s if ch.isdigit() or ch == ".")
+    if not s:
+        s = SCHEMA_VERSION_LEGACY
+    parts = []
+    for p in s.split("."):
+        parts.append(int(p) if p else 0)
+    return tuple(parts)
+
+
+def _schema_is_at_least(value, target: str) -> bool:
+    return _schema_version_parts(value) >= _schema_version_parts(target)
+
 # Mapeamento de unificação de taggers para v0.2 (Option A):
 # spacy_upos e spacy_ptb são gerados numa mesma passagem e têm conteúdo equivalente;
 # no formato 0.2, ambos são armazenados como uma única linha 'spacy' (idem para stanza).
@@ -597,7 +619,10 @@ class TTWAProject:
             Ao salvar o segundo tagger da dupla, o conteudo ja existente é mantido
             (ON CONFLICT DO NOTHING) para evitar sobrescrever dados equivalentes.
         """
-        is_v2 = self.get_meta("schema_version", SCHEMA_VERSION_LEGACY) >= SCHEMA_VERSION_CURRENT
+        is_v2 = _schema_is_at_least(
+            self.get_meta("schema_version", SCHEMA_VERSION_LEGACY),
+            SCHEMA_VERSION_CURRENT,
+        )
 
         # Option A: unify tagger name in v0.2
         stored_tagger = _TAGGER_UNIFIED_MAP.get(tagger_type, tagger_type) if is_v2 else tagger_type
@@ -916,7 +941,7 @@ class TTWAProject:
             dict com estatísticas: rows_converted, rows_deduped, size_before, size_after.
         """
         schema_v = self.get_meta("schema_version", SCHEMA_VERSION_LEGACY)
-        if schema_v >= SCHEMA_VERSION_CURRENT:
+        if _schema_is_at_least(schema_v, SCHEMA_VERSION_CURRENT):
             return {"rows_converted": 0, "rows_deduped": 0, "already_v2": True}
 
         size_before = self.path.stat().st_size
