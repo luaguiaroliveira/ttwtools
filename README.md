@@ -3,6 +3,8 @@
 ttwtools is a Python package for corpus linguistics workflows: linguistic tagging,
 feature extraction, and Key Feature Analysis (KFA) over corpora.
 
+NOTE: on mac intel use a python 3.11 environment (to use stanza and pytorch!)
+
 ---
 
 ## What changed in this version
