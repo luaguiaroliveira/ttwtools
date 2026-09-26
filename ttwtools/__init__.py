@@ -11,7 +11,7 @@ from typing import TYPE_CHECKING
 
 from ._version import __version__
 
-_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "cli")
+_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "backends", "annotate", "cli")
 
 # nome público → submódulo que o define
 _EXPORTS = {
@@ -65,6 +65,10 @@ _EXPORTS = {
     "get_document_meta": "corpus",
     "TokenizerConfig": "corpus",
     "tokenize": "corpus",
+    # annotate: etiquetar com cache de camadas
+    "tag_corpus": "annotate",
+    "find_layer": "annotate",
+    "build_request": "annotate",
 }
 
 __all__ = ["__version__", *(m for m in _SUBMODULES if m != "cli"), *_EXPORTS]
@@ -96,6 +100,7 @@ if TYPE_CHECKING:  # para editores e verificadores de tipo
         TokenizerConfig, filter_documents, get_document_meta, import_corpus, list_groups,
         set_document_meta, tokenize,
     )
+    from .annotate import build_request, find_layer, tag_corpus  # noqa: F401
     from .taggers import (  # noqa: F401
         biberplus, extract_biber_features_from_folder, extract_mfte_features_from_folder,
         extract_spacy_combined_features_from_folder, extract_spacy_pos_features_from_folder,

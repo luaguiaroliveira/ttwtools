@@ -169,7 +169,11 @@ def test_ttwl_missing_and_changed_corpus(v2_copy, tmp_path):
         assert len(report["relinked"]) == 9 and report["changed"] == [(GROUPS[0], doc["filename"])]
         assert light.check_corpus()["missing"] == [(GROUPS[0], doc["filename"])]
         report = light.relink_corpus(moved, accept_changed=True)
-        assert light.check_corpus()["changed"] == [(GROUPS[0], doc["filename"])]
+        assert not light.check_corpus()["changed"] and not light.check_corpus()["missing"]
+        # o hash novo passou a valer: a camada antiga (texto velho) fica marcada pelo text_hash
+        new_hash = light.list_documents(GROUPS[0])[0]["content_hash"]
+        assert new_hash != doc["content_hash"]
+        assert all(l["text_hash"] != new_hash for l in light.list_layers(GROUPS[0]) if l["filename"] == doc["filename"])
 
 
 def test_ttwl_created_directly(tmp_path, corpus5):

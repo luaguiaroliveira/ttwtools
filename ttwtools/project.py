@@ -1083,8 +1083,17 @@ class TTWAProject:
             "SELECT id FROM documents WHERE corpus_name = ? AND filename = ?", (corpus_name, doc_name)
         ).fetchone()
         doc_id = doc_id["id"] if doc_id else self._upsert_document(corpus_name, doc_name, None)
-        text_h = self._con.execute("SELECT content_hash FROM documents WHERE id = ?", (doc_id,)).fetchone()[0]
-        key = (doc_id, tool, info["tool_version"], info["model"], info["config_hash"])
+        return self.save_layer(doc_id, tool, info["tool_version"], info["model"], info["config"], tokens)
+
+    def save_layer(self, doc_id: int, tool: str, tool_version: str, model: str, config: dict,
+                   tokens: list[dict], text_hash: str | None = None) -> int:
+        """Grava uma camada e seus tokens (substitui a de mesma identidade). Sem commit.
+
+        text_hash padrão: o hash atual do documento."""
+        if text_hash is None:
+            text_hash = self._con.execute("SELECT content_hash FROM documents WHERE id = ?", (doc_id,)).fetchone()[0]
+        c_hash = _layers.config_hash(config)
+        key = (doc_id, tool, tool_version, model, c_hash)
         self._con.execute(
             "DELETE FROM layers WHERE doc_id = ? AND tool = ? AND tool_version = ? AND model = ? AND config_hash = ?",
             key,
@@ -1092,8 +1101,8 @@ class TTWAProject:
         cur = self._con.execute(
             "INSERT INTO layers (doc_id, tool, tool_version, model, config, config_hash, text_hash, n_tokens, created_at)"
             " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            (*key[:4], json.dumps(info["config"], ensure_ascii=False, sort_keys=True), info["config_hash"],
-             text_h, len(tokens), _now_iso()),
+            (*key[:4], json.dumps(config, ensure_ascii=False, sort_keys=True), c_hash,
+             text_hash, len(tokens), _now_iso()),
         )
         layer_id = cur.lastrowid
         self._con.executemany(
@@ -1102,6 +1111,28 @@ class TTWAProject:
             ((layer_id, i, doc_id, *_layers.token_row(t)) for i, t in enumerate(tokens)),
         )
         return layer_id
+
+    def clone_layer(self, layer_id: int, doc_id: int) -> int:
+        """Copia uma camada (e os tokens) para outro documento com o mesmo texto. Sem commit."""
+        src = self._con.execute("SELECT * FROM layers WHERE id = ?", (layer_id,)).fetchone()
+        self._con.execute(
+            "DELETE FROM layers WHERE doc_id = ? AND tool = ? AND tool_version = ? AND model = ? AND config_hash = ?",
+            (doc_id, src["tool"], src["tool_version"], src["model"], src["config_hash"]),
+        )
+        cur = self._con.execute(
+            "INSERT INTO layers (doc_id, tool, tool_version, model, config, config_hash, text_hash, n_tokens, created_at)"
+            " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (doc_id, src["tool"], src["tool_version"], src["model"], src["config"], src["config_hash"],
+             src["text_hash"], src["n_tokens"], _now_iso()),
+        )
+        new_id = cur.lastrowid
+        self._con.execute(
+            "INSERT INTO tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
+            " SELECT ?, idx, ?, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
+            " FROM tokens WHERE layer_id = ?",
+            (new_id, doc_id, layer_id),
+        )
+        return new_id
 
     def list_layers(self, corpus_name: str | None = None, tool: str | None = None) -> list[dict]:
         """Camadas do projeto, com corpus e arquivo do documento."""
@@ -1259,11 +1290,15 @@ class TTWAProject:
             if path is None:
                 report["missing"].append(key)
                 continue
-            changed = _layers.text_hash(_read_text(path)) != doc["content_hash"]
+            text = _read_text(path)
+            changed = _layers.text_hash(text) != doc["content_hash"]
             if changed:
                 report["changed"].append(key)
                 if not accept_changed:
                     continue
+                # o texto novo passa a valer: camadas feitas sobre o antigo deixam de servir
+                self._con.execute("UPDATE documents SET content_hash = ?, n_chars = ? WHERE id = ?",
+                                  (_layers.text_hash(text), len(text), doc["id"]))
             self._con.execute("UPDATE documents SET rel_path = ? WHERE id = ?",
                               (_relative_to_project(self.path, path), doc["id"]))
             if not changed:

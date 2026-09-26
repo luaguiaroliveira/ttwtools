@@ -198,14 +198,19 @@ def tag_from_doc_stanza_pos(doc, original_text: str, offset_map, mode: str = "up
             feature_tag = upos if mode == "upos" else xpos
             tags = [feature_tag] if feature_tag and feature_tag != "_" else []
             mapped_start, mapped_end = _map_span(word.start_char, word.end_char, offset_map)
-            result.append({
+            tok = {
                 "start_char": mapped_start,
                 "end_char": mapped_end,
                 "word": word.text,
                 "upos": upos,
                 "xpos": xpos,
                 "tags": tags,
-            })
+            }
+            if getattr(word, "lemma", None):
+                tok["lemma"] = word.lemma
+            if getattr(word, "feats", None):
+                tok["feats"] = word.feats
+            result.append(tok)
     return result
 
 

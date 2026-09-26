@@ -200,14 +200,14 @@ def tag_from_doc_mfte(doc, original_text: str, offset_map, extended: bool = True
     """
     from MFTE import process_sentence, process_sentence_extended  # noqa: lazy import
 
-    all_tokens: list[tuple[int, int, str, str]] = []  # (start, end, word, xpos)
+    all_tokens: list[tuple[int, int, str, str, object]] = []  # (start, end, word, xpos, stanza word)
     mfte_input: list[str] = []
 
     for sentence in doc.sentences:
         mfte_input.extend([" "] * 20)
         for word in sentence.words:
             mfte_input.append(f"{word.text}_{word.xpos}")
-            all_tokens.append((word.start_char, word.end_char, word.text, word.xpos))
+            all_tokens.append((word.start_char, word.end_char, word.text, word.xpos, word))
 
     mfte_input.extend([" "] * 20)
 
@@ -218,7 +218,7 @@ def tag_from_doc_mfte(doc, original_text: str, offset_map, extended: bool = True
     filtered = [w for w in tagged if w != " "]
 
     result: list[dict] = []
-    for i, (st, en, word, stanza_xpos) in enumerate(all_tokens):
+    for i, (st, en, word, stanza_xpos, sw) in enumerate(all_tokens):
         if i >= len(filtered):
             break
         raw = filtered[i]
@@ -226,13 +226,19 @@ def tag_from_doc_mfte(doc, original_text: str, offset_map, extended: bool = True
         mfte_xpos = parts[0].rsplit("_", 1)[-1] if len(parts) > 0 and "_" in parts[0] else stanza_xpos
         tags = parts[1:]
         mapped_start, mapped_end = _map_span(st, en, offset_map)
-        result.append({
+        tok = {
             "start_char": mapped_start,
             "end_char": mapped_end,
             "word": word,
             "xpos": mfte_xpos,
             "tags": tags,
-        })
+        }
+        # Campos da análise do Stanza, quando disponíveis (upos, lema, traços)
+        for key, value in (("upos", getattr(sw, "upos", None)), ("lemma", getattr(sw, "lemma", None)),
+                           ("feats", getattr(sw, "feats", None))):
+            if value:
+                tok[key] = value
+        result.append(tok)
 
     return result
 

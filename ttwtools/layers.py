@@ -19,7 +19,8 @@ from typing import Any
 # Chaves do metadado JSONL que identificam o arquivo, não a configuração
 _BASE_META_KEYS = {"type", "tagger", "tagger_version", "filename"}
 # Opções de desempenho: guardadas na config, mas fora do config_hash
-PERFORMANCE_KEYS = {"device", "use_gpu", "n_processes", "batch_size", "combined_pass"}
+PERFORMANCE_KEYS = {"device", "use_gpu", "n_processes", "batch_size", "processing_size",
+                    "show_progress", "combined_pass"}
 # Chaves que indicam o modelo usado
 _MODEL_KEYS = ("model", "spacy_model", "stanza_model")
 
@@ -94,3 +95,18 @@ def token_row(tok: dict) -> tuple:
         json.dumps(tags, ensure_ascii=False) if tags is not None else None,
         json.dumps(extra, ensure_ascii=False) if extra else None,
     )
+
+
+def layer_satisfies(layer_config: dict[str, Any], request_config: dict[str, Any]) -> bool:
+    """Uma camada atende um pedido se as opções que mudam o resultado são as
+    mesmas e ela tem todos os componentes pedidos (ou mais). Ferramenta, versão
+    e modelo são conferidos antes, na busca.
+
+    Ex.: camada com componentes {pos, lemma} atende pedido só de {pos}; o contrário não.
+    """
+    def relevant(cfg):
+        return {k: v for k, v in cfg.items() if k not in PERFORMANCE_KEYS and k != "components"}
+    if relevant(layer_config) != relevant(request_config):
+        return False
+    have = set(layer_config.get("components", []))
+    return set(request_config.get("components", [])) <= have

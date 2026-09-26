@@ -144,14 +144,20 @@ def tag_from_doc_spacy_pos(doc, original_text: str, offset_map, mode: str = "upo
         start = token.idx
         end   = token.idx + len(token.text)
         mapped_start, mapped_end = _map_span(start, end, offset_map)
-        result.append({
+        tok = {
             "start_char": mapped_start,
             "end_char":   mapped_end,
             "word":       token.text,
             "upos":       upos,
             "ptb":        ptb,
             "tags":       tags,
-        })
+        }
+        if token.lemma_:
+            tok["lemma"] = token.lemma_
+        morph = str(token.morph)
+        if morph:
+            tok["feats"] = morph
+        result.append(tok)
     return result
 
 

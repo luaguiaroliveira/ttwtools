@@ -95,7 +95,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
     "describe":       ("Estatísticas e descrição de um corpus", "1.7"),
-    "tag":            ("Etiqueta um corpus com um tagger", "1.4/1.5"),
     "tagger-options": ("Lista os taggers disponíveis e suas opções", "1.5"),
     "tagset":         ("Mostra o tagset de um tagger", "1.5"),
     "kwic":           ("Concordância (palavra-chave em contexto)", "1.8"),
@@ -163,6 +162,47 @@ def _cmd_documents(args: argparse.Namespace) -> int:
     return EXIT_OK
 
 
+def _parse_value(text: str):
+    try:
+        return json.loads(text)          # true, false, 3, 0.5, "x"
+    except json.JSONDecodeError:
+        return text
+
+
+def _cmd_tag(args: argparse.Namespace) -> int:
+    from .annotate import tag_corpus
+    from .corpus import parse_where
+    options = {}
+    for item in args.option or []:
+        key, sep, value = item.partition("=")
+        if not sep:
+            raise SystemExit(f"ttwtools: opção inválida '{item}' (use chave=valor)")
+        options[key.strip()] = _parse_value(value.strip())
+
+    def progress(done, total, filename):
+        if args.format == "table":
+            print(f"  [{done}/{total}] {filename}", file=sys.stderr)
+
+    with _open_or_create(args.project, create=False) as proj:
+        report = tag_corpus(proj, args.corpus, args.tagger, options,
+                            components=args.components.split(",") if args.components else None,
+                            where=parse_where(args.where or []), force=args.force, progress=progress)
+    report["layer_ids"] = len(report["layer_ids"])
+    emit(report, args.format)
+    return EXIT_OK
+
+
+def _configure_tag(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl")
+    p.add_argument("--corpus", required=True, help="corpus a etiquetar")
+    p.add_argument("--tagger", required=True, help="spacy, stanza, mfte ou biberplus")
+    p.add_argument("--option", action="append", metavar="CHAVE=VALOR",
+                   help="opção do tagger (ex.: model=en_core_web_sm, extended=false)")
+    p.add_argument("--components", help="componentes, separados por vírgula (ex.: pos,lemma)")
+    p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
+    p.add_argument("--force", action="store_true", help="etiquetar de novo mesmo havendo camada")
+
+
 def _configure_import(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl (criado se não existir)")
     p.add_argument("source", help="pasta de .txt, arquivo .txt, .csv com coluna de texto, ou - (texto pela entrada padrão)")
@@ -191,6 +231,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_import, _cmd_import),
     "documents": ("Lista documentos e metadados, com filtro por metadado",
                   _configure_documents, _cmd_documents),
+    "tag":       ("Etiqueta um corpus, reaproveitando camadas já feitas",
+                  _configure_tag, _cmd_tag),
 }
 
 
