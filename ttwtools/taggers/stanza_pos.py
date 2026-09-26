@@ -213,7 +213,7 @@ def tag_from_doc_stanza_pos(doc, original_text: str, offset_map, mode: str = "up
     mode          : ``"upos"`` or ``"xpos"``.
     """
     result: list[dict] = []
-    for sentence in doc.sentences:
+    for sent_idx, sentence in enumerate(doc.sentences):
         for word in sentence.words:
             upos = word.upos or ""
             xpos = word.xpos or ""
@@ -228,6 +228,7 @@ def tag_from_doc_stanza_pos(doc, original_text: str, offset_map, mode: str = "up
                 "xpos": xpos,
                 "tags": tags,
             }
+            tok["sent"] = sent_idx   # índice da frase (para CoNLL-U e VRT)
             if getattr(word, "lemma", None):
                 tok["lemma"] = word.lemma
             if getattr(word, "feats", None):

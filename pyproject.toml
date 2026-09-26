@@ -22,12 +22,13 @@ dependencies = [
 [project.optional-dependencies]
 mfte = ["stanza>=1.9", "MFTE>=1.0", "torch"]
 dev = ["pytest"]
+parquet = ["pyarrow"]
 
 [project.scripts]
 ttwtools = "ttwtools.cli:main"
 
 [tool.setuptools]
-packages = ["ttwtools", "ttwtools.taggers"]
+packages = ["ttwtools", "ttwtools.taggers", "ttwtools.formats"]
 
 [tool.setuptools.package-data]
 ttwtools = ["*.json", "data/*/*.json"]

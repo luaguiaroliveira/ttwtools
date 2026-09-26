@@ -1,0 +1,29 @@
+# newdoc id = doc1
+# newpar
+# sent_id = doc1-s1
+# text = I don't like cats.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2-3	don't	_	_	_	_	_	_	_	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	n't	not	PART	RB	_	4	advmod	4:advmod	_
+4	like	like	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	cats	cat	NOUN	NNS	Number=Plur	4	obj	4:obj	SpaceAfter=No
+6	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = doc1-s2
+# text = Sue went, and so did Bob.
+1	Sue	Sue	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	,	_	6	punct	6:punct	_
+4	and	and	CCONJ	CC	_	6	cc	6:cc	_
+5	so	so	ADV	RB	_	6	advmod	6:advmod	_
+6	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj	_
+6.1	went	go	VERB	VBD	_	_	_	2:conj	_
+7	Bob	Bob	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# newdoc id = doc2
+# sent_id = doc2-s1
+1	Hello	hello	INTJ	UH	_	0	root	0:root	SpaceAfter=No
+2	!	!	PUNCT	.	_	1	punct	1:punct	_
+

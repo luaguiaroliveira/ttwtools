@@ -131,8 +131,27 @@ def _open_or_create(path: str, create: bool):
     return TTWAProject.create(p)
 
 
+def _import_format(args: argparse.Namespace) -> str:
+    from pathlib import Path
+    if args.format_in != "auto":
+        return args.format_in
+    suffix = Path(args.source).suffix.lower()
+    return {".conllu": "conllu", ".conll": "conllu"}.get(suffix, "txt")
+
+
 def _cmd_import(args: argparse.Namespace) -> int:
     from .corpus import TokenizerConfig, import_corpus
+    fmt = _import_format(args) if args.source != "-" else "txt"
+    if fmt in ("conllu", "nltk"):
+        from .formats import import_conllu, import_nltk_tagged
+        with _open_or_create(args.project, create=True) as proj:
+            if fmt == "conllu":
+                report = import_conllu(proj, args.source, args.name)
+            else:
+                report = import_nltk_tagged(proj, args.source, args.name, tagset=args.tagset or "")
+        report.pop("files")
+        emit(report, args.format)
+        return EXIT_OK
     text = sys.stdin.read() if args.source == "-" else None
     tokenizer = None
     if any(v is not None for v in (args.lowercase, args.keep_punct, args.no_numbers, args.contractions)):
@@ -272,6 +291,9 @@ def _configure_import(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl (criado se não existir)")
     p.add_argument("source", help="pasta de .txt, arquivo .txt, .csv com coluna de texto, ou - (texto pela entrada padrão)")
     p.add_argument("--name", required=True, help="nome do corpus no projeto")
+    p.add_argument("--format", dest="format_in", default="auto", choices=["auto", "txt", "conllu", "nltk"],
+                   help="auto (pela extensão), txt (pasta/.txt/.csv), conllu, nltk (palavra/TAG: Brown, LOB)")
+    p.add_argument("--tagset", help="nome do tagset das etiquetas (só --format nltk; ex.: brown)")
     p.add_argument("--fields", help="campos no nome do arquivo, separados por vírgula (ex.: grupo,texto)")
     p.add_argument("--delimiter", default="_", help="delimitador dos campos no nome do arquivo (padrão: _)")
     p.add_argument("--meta-csv", help="CSV de metadados com a coluna filename")
@@ -281,6 +303,31 @@ def _configure_import(p: argparse.ArgumentParser) -> None:
     tok.add_argument("--keep-punct", action="store_const", const=True, help="manter pontuação")
     tok.add_argument("--no-numbers", action="store_const", const=True, help="remover números")
     tok.add_argument("--contractions", choices=["keep", "split"], help="contrações: manter ou separar")
+
+
+def _cmd_export(args: argparse.Namespace) -> int:
+    from .corpus import parse_where
+    from .formats import export_conllu, export_tokens, export_vrt
+    where = parse_where(args.where or [])
+    with _open_or_create(args.project, create=False) as proj:
+        if args.to == "conllu":
+            report = export_conllu(proj, args.corpus, args.out, tool=args.tool, where=where)
+        elif args.to == "vrt":
+            report = export_vrt(proj, args.corpus, args.out, tool=args.tool, where=where)
+        else:
+            report = export_tokens(proj, args.corpus, args.out, fmt=args.to, tool=args.tool, where=where)
+    emit(report, args.format)
+    return EXIT_OK
+
+
+def _configure_export(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl")
+    p.add_argument("--corpus", required=True)
+    p.add_argument("--to", required=True, choices=["conllu", "vrt", "csv", "jsonl", "parquet"],
+                   help="formato de saída (jsonl: uma pasta, um arquivo por documento)")
+    p.add_argument("--out", required=True, help="arquivo (ou pasta, para jsonl) de saída")
+    p.add_argument("--tool", help="camada de qual ferramenta (padrão: a mais recente de cada documento)")
+    p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
 
 
 def _configure_documents(p: argparse.ArgumentParser) -> None:
@@ -298,6 +345,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_documents, _cmd_documents),
     "tag":       ("Etiqueta um corpus, reaproveitando camadas já feitas",
                   _configure_tag, _cmd_tag),
+    "export":    ("Exporta uma camada em CoNLL-U, VRT, CSV, JSONL ou Parquet",
+                  _configure_export, _cmd_export),
     "tagger-options": ("Opções de um tagger, com explicações (sem argumento: disponibilidade)",
                        _configure_tagger_options, _cmd_tagger_options),
     "tagset":    ("Repertório de tags de um tagger ou tagset, com definições",
