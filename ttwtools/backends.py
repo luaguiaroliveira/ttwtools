@@ -215,7 +215,42 @@ class BiberPlusBackend(Backend):
         return _tokens_with_offsets_regex(stripped, tagged_words, offset_map)
 
 
-BACKENDS: dict[str, Backend] = {b.name: b for b in (SpacyBackend(), StanzaBackend(), MfteBackend(), BiberPlusBackend())}
+# ---------------------------------------------------------------------------
+# Tokenizador simples (sem dependências): camada de formas para buscar sem tagger
+# ---------------------------------------------------------------------------
+
+class SimpleBackend(Backend):
+    """Só formas e posições, com o tokenizador do pacote (corpus.tokenize).
+    Permite KWIC, frequência e colocados antes de etiquetar."""
+    name = "simple"
+    defaults = {"contractions": "keep"}
+    components = ("tokens",)
+    default_components = ("tokens",)
+
+    def tool_version(self) -> str:
+        from ._version import __version__
+        return __version__
+
+    def model(self, options: dict) -> str:
+        return "regex"
+
+    def tag(self, text, options, components):
+        from .corpus import _TOKEN_RE, _SPLIT_RE
+        out = []
+        sent = 0
+        for m in _TOKEN_RE.finditer(text):
+            word, start = m.group(), m.start()
+            sm = _SPLIT_RE.match(word) if m.lastgroup == "word" and options.get("contractions") == "split" else None
+            parts = [(sm.group("head"), start), (sm.group("clitic"), start + len(sm.group("head")))] if sm and sm.group("head") else [(word, start)]
+            for w, s in parts:
+                out.append({"start_char": s, "end_char": s + len(w), "word": w, "tags": [], "sent": sent})
+            if m.lastgroup == "punct" and word in ".!?":
+                sent += 1
+        return out
+
+
+BACKENDS: dict[str, Backend] = {b.name: b for b in (SpacyBackend(), StanzaBackend(), MfteBackend(),
+                                                     BiberPlusBackend(), SimpleBackend())}
 
 
 def get_backend(name: str) -> Backend:

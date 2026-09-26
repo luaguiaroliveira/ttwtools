@@ -12,7 +12,7 @@ from typing import TYPE_CHECKING
 
 from ._version import __version__
 
-_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "backends", "annotate", "formats", "stats", "cli")
+_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "backends", "annotate", "formats", "stats", "query", "cli")
 
 # nome público → submódulo que o define
 _EXPORTS = {
@@ -73,6 +73,12 @@ _EXPORTS = {
     # stats: estatísticas descritivas
     "describe": "stats",
     "stopwords": "stats",
+    # query: busca, KWIC, frequência, colocados, dispersão
+    "search": "query",
+    "kwic": "query",
+    "frequency": "query",
+    "collocates": "query",
+    "dispersion": "query",
 }
 
 __all__ = ["__version__", *(m for m in _SUBMODULES if m != "cli"), *_EXPORTS]

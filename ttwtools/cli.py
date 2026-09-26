@@ -94,8 +94,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
-    "kwic":           ("Concordância (palavra-chave em contexto)", "1.8"),
-    "freq":           ("Listas de frequência", "1.8"),
     "keywords":       ("Palavras-chave contra um corpus de referência", "1.9"),
     "compare":        ("Compara corpora (KFA e afins)", "1.7/1.9"),
     "help":           ("Ajuda sobre conceitos e ferramentas", "1.10"),
@@ -382,6 +380,127 @@ def _configure_describe(p: argparse.ArgumentParser) -> None:
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
 
 
+def _query_common(p: argparse.ArgumentParser, needs_query: bool = True) -> None:
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl")
+    p.add_argument("--corpus", required=True)
+    if needs_query:
+        p.add_argument("query", help="consulta: casa, cas*, /regex/, lemma=run, pos=NOUN, tag=PASS; espaços = frase")
+    p.add_argument("--layer", help="ferramenta da camada (padrão: a mais recente; sem camada: formas)")
+    p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
+
+
+def _cmd_search(args):
+    from .corpus import parse_where
+    from .query import search
+    with _open_or_create(args.project, create=False) as proj:
+        r = search(proj, args.corpus, args.query, args.layer, parse_where(args.where or []), args.group_by)
+    if args.format == "json":
+        emit(r, "json")
+    else:
+        if args.format == "table":
+            print(f"{r['query']}: {r['total']} ocorrência(s) em {r['documents']} documento(s)")
+        emit(r.get("per_group") or r["per_document"], args.format)
+    return EXIT_OK
+
+
+def _cmd_kwic(args):
+    from .corpus import parse_where
+    from .query import kwic
+    with _open_or_create(args.project, create=False) as proj:
+        r = kwic(proj, args.corpus, args.query, args.layer, parse_where(args.where or []), context=args.context,
+                 limit=args.limit, offset=args.offset, sort=args.sort, with_sentence=args.sentence)
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    if args.format == "table":
+        print(f"{r['total']} ocorrência(s); mostrando {args.offset + 1}–{args.offset + len(r['lines'])}")
+        w = max((len(l["left"]) for l in r["lines"]), default=0)
+        for l in r["lines"]:
+            print(f"{l['left'].rjust(w)}  [{l['match']}]  {l['right']}    ({l['filename']}:{l['start_char']})")
+    else:
+        emit(r["lines"], "csv", columns=["filename", "idx", "start_char", "end_char", "left", "match", "right", "pos", "lemma"])
+    return EXIT_OK
+
+
+def _cmd_freq(args):
+    from .corpus import parse_where
+    from .query import frequency
+    from .stats import stopwords
+    stop = stopwords(args.stopwords_lang) if args.hide_stopwords else None
+    with _open_or_create(args.project, create=False) as proj:
+        r = frequency(proj, args.corpus, args.unit, args.n, args.by, args.layer, parse_where(args.where or []),
+                      args.top, stop=stop)
+    emit(r if args.format == "json" else r["rows"], args.format)
+    return EXIT_OK
+
+
+def _cmd_collocates(args):
+    from .corpus import parse_where
+    from .query import collocates
+    with _open_or_create(args.project, create=False) as proj:
+        r = collocates(proj, args.corpus, args.query, (args.left, args.right), args.unit, args.layer,
+                       parse_where(args.where or []), args.min_freq, args.top, args.sort)
+    if args.format == "json":
+        emit(r, "json")
+    else:
+        if args.format == "table":
+            print(f"nó: {r['node']} ({r['node_freq']}x) · janela {r['window'][0]}E/{r['window'][1]}D · {r['corpus_words']} palavras")
+        emit(r["rows"], args.format, columns=["collocate", "freq", "coll_total", "ll", "mi", "t_score", "position"])
+    return EXIT_OK
+
+
+def _cmd_dispersion(args):
+    from .corpus import parse_where
+    from .query import dispersion
+    with _open_or_create(args.project, create=False) as proj:
+        r = dispersion(proj, args.corpus, args.query, args.layer, parse_where(args.where or []))
+    if args.format == "json":
+        emit(r, "json")
+    else:
+        if args.format == "table":
+            print(f"{r['query']}: freq {r['freq']} · range {r['range']}/{r['documents']} · DP {r['dp']} · DP norm. {r['dp_norm']}")
+        emit(r["per_document"], args.format, columns=["filename", "size", "freq"])
+    return EXIT_OK
+
+
+def _configure_search(p):
+    _query_common(p)
+    p.add_argument("--group-by", help="metadado para contar por grupo")
+
+
+def _configure_kwic(p):
+    _query_common(p)
+    p.add_argument("--context", type=int, default=5, help="tokens de cada lado (padrão 5)")
+    p.add_argument("--limit", type=int, default=50)
+    p.add_argument("--offset", type=int, default=0)
+    p.add_argument("--sort", choices=["position", "left", "right"], default="position")
+    p.add_argument("--no-sentence", dest="sentence", action="store_false", help="não buscar a frase inteira")
+
+
+def _configure_freq(p):
+    _query_common(p, needs_query=False)
+    p.add_argument("--unit", choices=["form", "lemma", "word_pos", "pos", "ngram"], default="form")
+    p.add_argument("-n", type=int, default=2, help="tamanho do n-grama (com --unit ngram)")
+    p.add_argument("--by", default="corpus", help="corpus, document ou nome de metadado")
+    p.add_argument("--top", type=int, default=50)
+    p.add_argument("--hide-stopwords", action="store_true")
+    p.add_argument("--stopwords-lang", default="en")
+
+
+def _configure_collocates(p):
+    _query_common(p)
+    p.add_argument("--left", type=int, default=5)
+    p.add_argument("--right", type=int, default=5)
+    p.add_argument("--unit", choices=["form", "lemma", "word_pos", "pos"], default="form")
+    p.add_argument("--min-freq", type=int, default=2)
+    p.add_argument("--top", type=int, default=30)
+    p.add_argument("--sort", choices=["ll", "mi", "t", "freq"], default="ll")
+
+
+def _configure_dispersion(p):
+    _query_common(p)
+
+
 def _configure_documents(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", help="só este corpus")
@@ -397,6 +516,11 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_documents, _cmd_documents),
     "tag":       ("Etiqueta um corpus, reaproveitando camadas já feitas",
                   _configure_tag, _cmd_tag),
+    "search":    ("Conta ocorrências de uma consulta (total, por documento ou grupo)", _configure_search, _cmd_search),
+    "kwic":      ("Concordância (palavra-chave em contexto), paginada", _configure_kwic, _cmd_kwic),
+    "freq":      ("Lista de frequência (forma, lema, palavra+classe, classe, n-grama)", _configure_freq, _cmd_freq),
+    "collocates": ("Colocados com log-likelihood, MI, T-score e frequência", _configure_collocates, _cmd_collocates),
+    "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",
                   _configure_describe, _cmd_describe),
     "export":    ("Exporta uma camada em CoNLL-U, VRT, CSV, JSONL ou Parquet",

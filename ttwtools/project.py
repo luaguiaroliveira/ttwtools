@@ -201,6 +201,10 @@ CREATE INDEX IF NOT EXISTS idx_tokens_word  ON tokens (word);
 CREATE INDEX IF NOT EXISTS idx_tokens_lemma ON tokens (lemma);
 CREATE INDEX IF NOT EXISTS idx_tokens_xpos  ON tokens (xpos);
 CREATE INDEX IF NOT EXISTS idx_tokens_doc   ON tokens (doc_id);
+-- busca sem distinguir maiúsculas (KWIC, frequência): índices de expressão
+CREATE INDEX IF NOT EXISTS idx_tokens_lword  ON tokens (lower(word));
+CREATE INDEX IF NOT EXISTS idx_tokens_llemma ON tokens (lower(lemma));
+CREATE INDEX IF NOT EXISTS idx_tokens_upos   ON tokens (upos);
 
 CREATE TABLE IF NOT EXISTS analyses (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
