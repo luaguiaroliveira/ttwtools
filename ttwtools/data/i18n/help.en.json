@@ -1,0 +1,10 @@
+{
+ "help.fallback": "(English text: no translation yet)",
+ "help.not_found": "Help topic '{topic}' not found.",
+ "help.related": "See also",
+ "tour.primeiro_corpus.importar": "Import your texts",
+ "tour.primeiro_corpus.keywords": "Compare with a reference",
+ "tour.primeiro_corpus.kwic": "Search the corpus",
+ "tour.primeiro_corpus.tagger": "Choose the tagger",
+ "tour.primeiro_corpus.title": "First corpus"
+}

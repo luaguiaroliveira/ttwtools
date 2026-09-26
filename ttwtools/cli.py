@@ -95,7 +95,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
     "compare":        ("Compara corpora (KFA e afins)", "1.7/1.9"),
-    "help":           ("Ajuda sobre conceitos e ferramentas", "1.10"),
 }
 
 
@@ -556,6 +555,31 @@ def _configure_reference_list(p):
         p.add_argument(f"--{k}", help=f"ficha do corpus: {k}")
 
 
+def _cmd_help(args):
+    from . import help as h
+    if args.search:
+        emit(h.search(args.search, args.lang), args.format)
+        return EXIT_OK
+    if not args.topic:
+        emit(h.topics(args.lang), args.format, columns=["id", "area", "title", "summary"])
+        return EXIT_OK
+    try:
+        if args.format == "table":
+            print(h.render(args.topic, args.lang))
+        else:
+            emit(h.get(args.topic, args.lang), args.format)
+    except KeyError as exc:
+        print(exc.args[0], file=sys.stderr)
+        return EXIT_ERROR
+    return EXIT_OK
+
+
+def _configure_help(p):
+    p.add_argument("topic", nargs="?", help="tópico (ex.: cohens_d, kwic, keyness); vazio = lista")
+    p.add_argument("--lang", choices=["pt", "en"])
+    p.add_argument("--search", help="procurar nos textos de ajuda")
+
+
 def _configure_documents(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", help="só este corpus")
@@ -580,6 +604,7 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_keywords, _cmd_keywords),
     "reference-list": ("Gera a lista de frequência de referência (.tsv com ficha) de um corpus",
                        _configure_reference_list, _cmd_reference_list),
+    "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",
                   _configure_describe, _cmd_describe),
     "export":    ("Exporta uma camada em CoNLL-U, VRT, CSV, JSONL ou Parquet",
