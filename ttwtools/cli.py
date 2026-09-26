@@ -119,6 +119,81 @@ def _not_implemented(name: str) -> Callable[[argparse.Namespace], int]:
     return handler
 
 
+# ---------------------------------------------------------------------------
+# Subcomandos implementados
+# ---------------------------------------------------------------------------
+
+def _open_or_create(path: str, create: bool):
+    from .project import TTWAProject
+    from pathlib import Path
+    p = Path(path)
+    if p.exists():
+        return TTWAProject.open(p)
+    if not create:
+        raise SystemExit(f"ttwtools: projeto não encontrado: {p}")
+    return TTWAProject.create(p)
+
+
+def _cmd_import(args: argparse.Namespace) -> int:
+    from .corpus import TokenizerConfig, import_corpus
+    text = sys.stdin.read() if args.source == "-" else None
+    tokenizer = None
+    if any(v is not None for v in (args.lowercase, args.keep_punct, args.no_numbers, args.contractions)):
+        tokenizer = TokenizerConfig(lowercase=bool(args.lowercase), keep_punct=bool(args.keep_punct),
+                                    keep_numbers=not args.no_numbers, contractions=args.contractions or "keep")
+    with _open_or_create(args.project, create=True) as proj:
+        report = import_corpus(
+            proj, None if text is not None else args.source, args.name, text=text,
+            filename_fields=args.fields.split(",") if args.fields else None, delimiter=args.delimiter,
+            metadata_csv=args.meta_csv, text_column=args.text_column, tokenizer=tokenizer,
+        )
+    report.pop("files")
+    emit(report, args.format)
+    return EXIT_OK
+
+
+def _cmd_documents(args: argparse.Namespace) -> int:
+    from .corpus import filter_documents, parse_where
+    with _open_or_create(args.project, create=False) as proj:
+        docs = filter_documents(proj, args.corpus, parse_where(args.where or []))
+    keys = sorted({k for d in docs for k in d["meta"]})
+    rows = [{"corpus": d["corpus_name"], "arquivo": d["filename"], "caracteres": d["n_chars"],
+             **{k: d["meta"].get(k) for k in keys}} for d in docs]
+    emit(rows, args.format, columns=["corpus", "arquivo", "caracteres", *keys])
+    return EXIT_OK
+
+
+def _configure_import(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl (criado se não existir)")
+    p.add_argument("source", help="pasta de .txt, arquivo .txt, .csv com coluna de texto, ou - (texto pela entrada padrão)")
+    p.add_argument("--name", required=True, help="nome do corpus no projeto")
+    p.add_argument("--fields", help="campos no nome do arquivo, separados por vírgula (ex.: grupo,texto)")
+    p.add_argument("--delimiter", default="_", help="delimitador dos campos no nome do arquivo (padrão: _)")
+    p.add_argument("--meta-csv", help="CSV de metadados com a coluna filename")
+    p.add_argument("--text-column", default="text", help="coluna de texto quando a origem é um CSV")
+    tok = p.add_argument_group("tokenização simples (estatísticas antes de etiquetar)")
+    tok.add_argument("--lowercase", action="store_const", const=True, help="minúsculas")
+    tok.add_argument("--keep-punct", action="store_const", const=True, help="manter pontuação")
+    tok.add_argument("--no-numbers", action="store_const", const=True, help="remover números")
+    tok.add_argument("--contractions", choices=["keep", "split"], help="contrações: manter ou separar")
+
+
+def _configure_documents(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl")
+    p.add_argument("--corpus", help="só este corpus")
+    p.add_argument("--where", action="append", metavar="CHAVE=VALOR",
+                   help="filtro por metadado; repita para OU na mesma chave e E entre chaves")
+
+
+# nome → (descrição, configuração dos argumentos, função)
+IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]] = {
+    "import":    ("Importa textos para um corpus do projeto (pasta, .txt, CSV ou texto colado)",
+                  _configure_import, _cmd_import),
+    "documents": ("Lista documentos e metadados, com filtro por metadado",
+                  _configure_documents, _cmd_documents),
+}
+
+
 def _add_output_flags(parser: argparse.ArgumentParser) -> None:
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--json", dest="format", action="store_const", const="json",
@@ -135,6 +210,11 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument("--version", action="version", version=f"ttwtools {__version__}")
     sub = parser.add_subparsers(dest="command", metavar="<comando>")
+    for name, (description, configure, handler) in IMPLEMENTED.items():
+        p = sub.add_parser(name, help=description, description=description)
+        configure(p)
+        _add_output_flags(p)
+        p.set_defaults(handler=handler)
     for name, (description, _step) in COMMANDS.items():
         p = sub.add_parser(name, help=description, description=description)
         _add_output_flags(p)

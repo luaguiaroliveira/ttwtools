@@ -11,7 +11,7 @@ from typing import TYPE_CHECKING
 
 from ._version import __version__
 
-_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "cli")
+_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "cli")
 
 # nome público → submódulo que o define
 _EXPORTS = {
@@ -57,6 +57,14 @@ _EXPORTS = {
     "relink_corpus": "project",
     "embed_corpus": "project",
     "detach_corpus": "project",
+    # corpus: importação, metadados, tokenização simples, filtros
+    "import_corpus": "corpus",
+    "filter_documents": "corpus",
+    "list_groups": "corpus",
+    "set_document_meta": "corpus",
+    "get_document_meta": "corpus",
+    "TokenizerConfig": "corpus",
+    "tokenize": "corpus",
 }
 
 __all__ = ["__version__", *(m for m in _SUBMODULES if m != "cli"), *_EXPORTS]
@@ -83,6 +91,10 @@ if TYPE_CHECKING:  # para editores e verificadores de tipo
         TTWA_EXTENSION, TTWA_MIME_TYPE, TTWA_MODE_COMPACT, TTWA_MODE_FULL,
         TTWAProject, create_project, open_project, save_analysis_to_project,
         TTWL_EXTENSION, detach_corpus, embed_corpus, export_corpus_next_to, relink_corpus,
+    )
+    from .corpus import (  # noqa: F401
+        TokenizerConfig, filter_documents, get_document_meta, import_corpus, list_groups,
+        set_document_meta, tokenize,
     )
     from .taggers import (  # noqa: F401
         biberplus, extract_biber_features_from_folder, extract_mfte_features_from_folder,

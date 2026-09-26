@@ -1,0 +1,353 @@
+"""
+corpus.py — Importação de corpora, metadados por documento, tokenização simples e filtros.
+
+- `import_corpus`: pasta de .txt, um .txt, CSV (texto + colunas de metadados) ou texto colado.
+- Metadados de documento (`document_meta`): do nome do arquivo (campos separados por um
+  delimitador) e/ou de um CSV com a coluna `filename`.
+- `TokenizerConfig` / `tokenize`: tokenização por expressão regular, sem tagger, usada nas
+  estatísticas antes da etiquetagem; a configuração fica gravada por corpus no projeto.
+- `filter_documents`: seleção de documentos por metadado, reutilizada pelas análises.
+"""
+
+from __future__ import annotations
+
+import csv
+import re
+from dataclasses import asdict, dataclass
+from pathlib import Path
+from typing import Any, Iterable, Mapping
+
+from .project import TTWAProject
+
+# ---------------------------------------------------------------------------
+# Tokenização
+# ---------------------------------------------------------------------------
+
+CONTRACTIONS = ("keep", "split")
+
+
+@dataclass(frozen=True)
+class TokenizerConfig:
+    """Opções da tokenização simples (sem tagger).
+
+    lowercase       — tudo em minúsculas
+    keep_punct      — manter sinais de pontuação como tokens
+    keep_numbers    — manter números (ex.: 2026, 3,5)
+    contractions    — "keep": `don't` é um token; "split": `do` + `n't`, `it` + `'s`
+    """
+    lowercase: bool = False
+    keep_punct: bool = False
+    keep_numbers: bool = True
+    contractions: str = "keep"
+
+    def __post_init__(self):
+        if self.contractions not in CONTRACTIONS:
+            raise ValueError(f"contractions deve ser um de {CONTRACTIONS}")
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, data: Mapping | None) -> "TokenizerConfig":
+        return cls(**{k: v for k, v in (data or {}).items() if k in cls.__dataclass_fields__})
+
+
+_APOS = "'’"
+_WORD = rf"[^\W\d_]+(?:[{_APOS}][^\W\d_]+)*"          # letras, com apóstrofo interno
+_NUMBER = r"\d+(?:[.,]\d+)*"
+_TOKEN_RE = re.compile(rf"(?P<word>{_WORD})|(?P<number>{_NUMBER})|(?P<punct>[^\w\s])", re.UNICODE)
+_SPLIT_RE = re.compile(rf"^(?P<head>.+?)(?P<clitic>n[{_APOS}]t|[{_APOS}](?:s|re|ve|ll|d|m))$", re.IGNORECASE)
+
+
+def tokenize(text: str, config: TokenizerConfig | None = None) -> list[str]:
+    """Divide o texto em tokens conforme a configuração."""
+    config = config or TokenizerConfig()
+    out: list[str] = []
+    for m in _TOKEN_RE.finditer(text):
+        kind = m.lastgroup
+        tok = m.group()
+        if kind == "punct" and not config.keep_punct:
+            continue
+        if kind == "number" and not config.keep_numbers:
+            continue
+        if config.lowercase:
+            tok = tok.lower()
+        if kind == "word" and config.contractions == "split":
+            sm = _SPLIT_RE.match(tok)
+            if sm and sm.group("head"):
+                out += [sm.group("head"), sm.group("clitic")]
+                continue
+        out.append(tok)
+    return out
+
+
+def set_tokenizer_config(project: TTWAProject, corpus_name: str, config: TokenizerConfig) -> None:
+    configs = project.get_meta("tokenizer_configs") or {}
+    configs[corpus_name] = config.to_dict()
+    project.set_meta("tokenizer_configs", configs)
+
+
+def get_tokenizer_config(project: TTWAProject, corpus_name: str) -> TokenizerConfig:
+    return TokenizerConfig.from_dict((project.get_meta("tokenizer_configs") or {}).get(corpus_name))
+
+
+# ---------------------------------------------------------------------------
+# Metadados de documento
+# ---------------------------------------------------------------------------
+
+def _doc_id(project: TTWAProject, corpus_name: str, filename: str) -> int | None:
+    row = project._con.execute(
+        "SELECT id FROM documents WHERE corpus_name = ? AND filename = ?", (corpus_name, filename)
+    ).fetchone()
+    return row["id"] if row else None
+
+
+def set_document_meta(project: TTWAProject, corpus_name: str, filename: str, meta: Mapping[str, Any]) -> None:
+    """Grava (ou substitui) pares chave/valor de metadados de um documento."""
+    doc_id = _doc_id(project, corpus_name, filename)
+    if doc_id is None:
+        raise KeyError(f"documento não encontrado: {corpus_name}/{filename}")
+    project._con.executemany(
+        "INSERT INTO document_meta (doc_id, key, value) VALUES (?, ?, ?)"
+        " ON CONFLICT(doc_id, key) DO UPDATE SET value = excluded.value",
+        [(doc_id, str(k), "" if v is None else str(v)) for k, v in meta.items()],
+    )
+    project._con.commit()
+
+
+def get_document_meta(project: TTWAProject, corpus_name: str, filename: str) -> dict[str, str]:
+    doc_id = _doc_id(project, corpus_name, filename)
+    if doc_id is None:
+        return {}
+    rows = project._con.execute("SELECT key, value FROM document_meta WHERE doc_id = ? ORDER BY key", (doc_id,))
+    return {r["key"]: r["value"] for r in rows}
+
+
+def meta_from_filename(filename: str, fields: list[str], delimiter: str = "_") -> dict[str, str]:
+    """Metadados a partir do nome do arquivo: `grupoA_texto01.txt` com fields
+    ["grupo", "texto"] → {"grupo": "grupoA", "texto": "texto01"}. O último campo
+    recebe o resto do nome; campos a mais ficam de fora."""
+    parts = Path(filename).stem.split(delimiter, len(fields) - 1) if fields else []
+    return dict(zip(fields, parts))
+
+
+def _csv_reader(fh) -> csv.DictReader:
+    """DictReader com delimitador detectado (`,`, `;` ou tab); vírgula se não der para saber."""
+    sample = fh.read(8192)
+    fh.seek(0)
+    try:
+        dialect = csv.Sniffer().sniff(sample, delimiters=",;\t")
+    except csv.Error:
+        dialect = csv.excel
+    return csv.DictReader(fh, dialect=dialect)
+
+
+def read_metadata_csv(path: str | Path, filename_column: str = "filename") -> dict[str, dict[str, str]]:
+    """CSV de metadados → {arquivo: {coluna: valor}}. Aceita `;` ou `,` e BOM."""
+    path = Path(path)
+    with path.open(encoding="utf-8-sig", newline="") as fh:
+        reader = _csv_reader(fh)
+        if filename_column not in (reader.fieldnames or []):
+            raise ValueError(f"o CSV '{path.name}' não tem a coluna '{filename_column}'")
+        return {row[filename_column]: {k: v for k, v in row.items() if k != filename_column and k is not None}
+                for row in reader if row.get(filename_column)}
+
+
+def apply_metadata(project: TTWAProject, corpus_name: str, table: Mapping[str, Mapping[str, Any]]) -> dict:
+    """Aplica {arquivo: metadados} aos documentos do corpus (casa com ou sem `.txt`).
+
+    Devolve {"applied": n, "unmatched": [nomes do CSV sem documento]}."""
+    docs = {d["filename"]: d["filename"] for d in project.list_documents(corpus_name)}
+    docs.update({Path(f).stem: f for f in list(docs)})
+    applied, unmatched = 0, []
+    for name, meta in table.items():
+        filename = docs.get(name) or docs.get(Path(name).stem)
+        if filename is None:
+            unmatched.append(name)
+            continue
+        set_document_meta(project, corpus_name, filename, meta)
+        applied += 1
+    return {"applied": applied, "unmatched": unmatched}
+
+
+# ---------------------------------------------------------------------------
+# Importação
+# ---------------------------------------------------------------------------
+
+def _add_text(project: TTWAProject, corpus_name: str, filename: str, content: str) -> None:
+    """Texto sem arquivo de origem: dentro do `.ttwa`; no `.ttwl`, gravado na pasta do corpus."""
+    if project.is_light:
+        dest = project.path.parent / f"{project.path.stem}_corpus" / corpus_name / filename
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(content, encoding="utf-8", newline="")
+        project.add_corpus_file(corpus_name, dest)
+    else:
+        project.add_corpus_text(corpus_name, filename, content)
+
+
+def _unique_filename(project: TTWAProject, corpus_name: str, base: str) -> str:
+    existing = {d["filename"] for d in project.list_documents(corpus_name)}
+    stem, suffix = Path(base).stem, Path(base).suffix or ".txt"
+    name, n = f"{stem}{suffix}", 1
+    while name in existing:
+        n += 1
+        name = f"{stem}_{n}{suffix}"
+    return name
+
+
+def import_corpus(
+    project: TTWAProject,
+    source: str | Path | None,
+    name: str,
+    *,
+    text: str | None = None,
+    text_filename: str = "texto_colado.txt",
+    glob: str = "*.txt",
+    encoding: str = "utf-8",
+    filename_fields: list[str] | None = None,
+    delimiter: str = "_",
+    metadata_csv: str | Path | None = None,
+    text_column: str = "text",
+    filename_column: str = "filename",
+    tokenizer: TokenizerConfig | None = None,
+) -> dict:
+    """Importa textos para o corpus `name` do projeto.
+
+    source          — pasta de .txt, um arquivo .txt, ou um .csv com uma coluna de
+                      texto (`text_column`) e colunas de metadados; None com `text=`.
+    text            — texto colado (gravado como `text_filename`, sem sobrescrever).
+    filename_fields — nomes dos campos no nome do arquivo, separados por `delimiter`.
+    metadata_csv    — CSV com a coluna `filename_column` e colunas de metadados.
+    tokenizer       — configuração da tokenização simples deste corpus.
+
+    Devolve {"corpus", "imported", "files", "metadata_applied", "unmatched"}.
+    """
+    added: list[str] = []
+    csv_meta: dict[str, dict[str, str]] = {}
+
+    if text is not None:
+        filename = _unique_filename(project, name, text_filename)
+        _add_text(project, name, filename, text)
+        added.append(filename)
+
+    if source is not None:
+        src = Path(source)
+        if src.is_dir():
+            files = sorted(src.glob(glob))
+            if not files:
+                raise ValueError(f"Nenhum arquivo '{glob}' em '{src}'.")
+            for f in files:
+                project._store_text(name, f.resolve(), f.read_text(encoding=encoding, errors="ignore"))
+                added.append(f.name)
+            project._con.commit()
+        elif src.suffix.lower() == ".csv":
+            with src.open(encoding="utf-8-sig", newline="") as fh:
+                reader = _csv_reader(fh)
+                if text_column not in (reader.fieldnames or []):
+                    raise ValueError(f"o CSV '{src.name}' não tem a coluna de texto '{text_column}'")
+                for i, row in enumerate(reader, 1):
+                    base = row.get(filename_column) or f"{name}_{i:04d}.txt"
+                    filename = _unique_filename(project, name, base)
+                    _add_text(project, name, filename, row[text_column] or "")
+                    added.append(filename)
+                    csv_meta[filename] = {k: v for k, v in row.items()
+                                          if k not in (text_column, filename_column) and k is not None}
+        elif src.is_file():
+            project.add_corpus_file(name, src, encoding=encoding)
+            added.append(src.name)
+        else:
+            raise FileNotFoundError(f"Origem não encontrada: '{src}'")
+
+    applied = 0
+    if filename_fields:
+        for f in added:
+            set_document_meta(project, name, f, meta_from_filename(f, filename_fields, delimiter))
+        applied = len(added)
+    if csv_meta:
+        applied = max(applied, apply_metadata(project, name, csv_meta)["applied"])
+    unmatched: list[str] = []
+    if metadata_csv is not None:
+        report = apply_metadata(project, name, read_metadata_csv(metadata_csv, filename_column))
+        applied = max(applied, report["applied"])
+        unmatched = report["unmatched"]
+    if tokenizer is not None:
+        set_tokenizer_config(project, name, tokenizer)
+
+    return {"corpus": name, "imported": len(added), "files": added,
+            "metadata_applied": applied, "unmatched": unmatched}
+
+
+# ---------------------------------------------------------------------------
+# Filtros por metadado
+# ---------------------------------------------------------------------------
+
+def parse_where(items: Iterable[str]) -> dict[str, list[str]]:
+    """["grupo=A", "grupo=B", "ano=2020"] → {"grupo": ["A", "B"], "ano": ["2020"]} (linha de comando)."""
+    where: dict[str, list[str]] = {}
+    for item in items:
+        key, sep, value = item.partition("=")
+        if not sep:
+            raise ValueError(f"filtro inválido '{item}' (use chave=valor)")
+        where.setdefault(key.strip(), []).append(value.strip())
+    return where
+
+
+def filter_documents(
+    project: TTWAProject,
+    corpus_name: str | None = None,
+    where: Mapping[str, str | Iterable[str]] | None = None,
+) -> list[dict]:
+    """Documentos do corpus (ou de todos) cujos metadados batem com `where`.
+
+    `where` = {chave: valor} ou {chave: [valores aceitos]}; chaves diferentes
+    se combinam com E, valores da mesma chave com OU. Cada documento vem com
+    seus metadados em `meta`.
+    """
+    sql = "SELECT d.id, d.corpus_name, d.filename, d.content_hash, d.n_chars FROM documents d WHERE 1=1"
+    args: list = []
+    if corpus_name is not None:
+        sql += " AND d.corpus_name = ?"
+        args.append(corpus_name)
+    for key, values in (where or {}).items():
+        values = [values] if isinstance(values, str) else list(values)
+        sql += (" AND EXISTS (SELECT 1 FROM document_meta m WHERE m.doc_id = d.id AND m.key = ?"
+                f" AND m.value IN ({','.join('?' * len(values))}))")
+        args += [key, *values]
+    docs = [dict(r) for r in project._con.execute(sql + " ORDER BY d.corpus_name, d.filename", args)]
+    if docs:
+        ids = [d["id"] for d in docs]
+        meta: dict[int, dict] = {i: {} for i in ids}
+        for r in project._con.execute(
+            f"SELECT doc_id, key, value FROM document_meta WHERE doc_id IN ({','.join('?' * len(ids))})", ids
+        ):
+            meta[r["doc_id"]][r["key"]] = r["value"]
+        for d in docs:
+            d["meta"] = meta[d["id"]]
+    return docs
+
+
+def list_groups(project: TTWAProject, corpus_name: str | None, key: str) -> dict[str, int]:
+    """Valores de um metadado e quantos documentos têm cada um."""
+    sql = ("SELECT m.value, COUNT(*) AS n FROM document_meta m JOIN documents d ON d.id = m.doc_id"
+           " WHERE m.key = ?")
+    args: list = [key]
+    if corpus_name is not None:
+        sql += " AND d.corpus_name = ?"
+        args.append(corpus_name)
+    return {r["value"]: r["n"] for r in project._con.execute(sql + " GROUP BY m.value ORDER BY m.value", args)}
+
+
+def metadata_keys(project: TTWAProject, corpus_name: str | None = None) -> list[str]:
+    sql = "SELECT DISTINCT m.key FROM document_meta m JOIN documents d ON d.id = m.doc_id"
+    args: tuple = ()
+    if corpus_name is not None:
+        sql += " WHERE d.corpus_name = ?"
+        args = (corpus_name,)
+    return [r["key"] for r in project._con.execute(sql + " ORDER BY m.key", args)]
+
+
+__all__ = [
+    "TokenizerConfig", "tokenize", "set_tokenizer_config", "get_tokenizer_config",
+    "set_document_meta", "get_document_meta", "meta_from_filename", "read_metadata_csv", "apply_metadata",
+    "import_corpus", "parse_where", "filter_documents", "list_groups", "metadata_keys",
+]
