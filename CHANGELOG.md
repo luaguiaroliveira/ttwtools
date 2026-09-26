@@ -4,6 +4,15 @@ All notable changes to ttwtools are documented here.
 
 ---
 
+## [Unreleased]
+
+### Added
+- Command line `ttwtools` (`python -m ttwtools`): `--version` and subcommands `describe`, `tag`, `tagger-options`, `tagset`, `kwic`, `freq`, `keywords`, `compare`, `help` (stubs for now); standard output as table, `--json` or `--csv` (`ttwtools.cli.emit`).
+- `ttwtools.__version__` (from `pyproject.toml`) and a `pytest` suite in `tests/` (smoke tests: project, tagged JSONL, BiberPlus + KFA; CLI).
+
+### Changed
+- `import ttwtools` is lazy (PEP 562): public names are unchanged but load on first use (import time 4.2 s → 0.04 s). Python ≥ 3.11.
+
 ## [0.1.0] — 2026-04-21
 
 ### Added

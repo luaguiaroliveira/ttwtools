@@ -7,7 +7,7 @@ name = "ttwtools"
 version = "0.1.0"
 description = "Tagging and key feature analysis tools built around BiberPlus workflows."
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.11"
 dependencies = [
   "numpy",
   "pandas",
@@ -21,6 +21,16 @@ dependencies = [
 
 [project.optional-dependencies]
 mfte = ["stanza>=1.9", "MFTE>=1.0", "torch"]
+dev = ["pytest"]
+
+[project.scripts]
+ttwtools = "ttwtools.cli:main"
 
 [tool.setuptools]
 packages = ["ttwtools", "ttwtools.taggers"]
+
+[tool.setuptools.package-data]
+ttwtools = ["*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

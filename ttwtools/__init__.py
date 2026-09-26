@@ -1,66 +1,87 @@
-from . import analysis, tagging, taggers, tagged_io, project
-from .analysis import analyze_key_features, cohens_d, cohens_d_biber, kfa, kfa2, pooled_std, pooled_std_biber
-from .taggers import (
-    biberplus, extract_biber_features_from_folder, normalize_biber_features,
-    mfte, extract_mfte_features_from_folder, normalize_mfte_features,
-    stanza_upos, stanza_xpos, extract_stanza_pos_features_from_folder, normalize_stanza_pos_features,
-    extract_stanza_combined_features_from_folder,
-    spacy_upos, spacy_ptb, extract_spacy_pos_features_from_folder, normalize_spacy_pos_features,
-    extract_spacy_combined_features_from_folder,
-)
-from .project import (
-    TTWAProject,
-    create_project,
-    open_project,
-    save_analysis_to_project,
-    TTWA_MIME_TYPE,
-    TTWA_EXTENSION,
-    TTWA_MODE_FULL,
-    TTWA_MODE_COMPACT,
-)
+"""ttwtools — etiquetagem, tabelas de traços e análise de key features.
 
-__all__ = [
-    # sub-módulos
-    "analysis",
-    "tagging",
-    "taggers",
-    "tagged_io",
-    "project",
+Os nomes públicos são carregados sob demanda (PEP 562): `import ttwtools` é
+rápido e só importa spaCy, pandas, torch etc. quando a função é usada.
+"""
+
+from __future__ import annotations
+
+import importlib
+from typing import TYPE_CHECKING
+
+from ._version import __version__
+
+_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "cli")
+
+# nome público → submódulo que o define
+_EXPORTS = {
     # tagging — BiberPlus
-    "biberplus",
-    "extract_biber_features_from_folder",
-    "normalize_biber_features",
+    "biberplus": "taggers",
+    "extract_biber_features_from_folder": "taggers",
+    "normalize_biber_features": "taggers",
     # tagging — MFTE
-    "mfte",
-    "extract_mfte_features_from_folder",
-    "normalize_mfte_features",
+    "mfte": "taggers",
+    "extract_mfte_features_from_folder": "taggers",
+    "normalize_mfte_features": "taggers",
     # tagging — Stanza POS (UPOS / XPOS)
-    "stanza_upos",
-    "stanza_xpos",
-    "extract_stanza_pos_features_from_folder",
-    "normalize_stanza_pos_features",
-    "extract_stanza_combined_features_from_folder",
+    "stanza_upos": "taggers",
+    "stanza_xpos": "taggers",
+    "extract_stanza_pos_features_from_folder": "taggers",
+    "normalize_stanza_pos_features": "taggers",
+    "extract_stanza_combined_features_from_folder": "taggers",
     # tagging — spaCy POS (UPOS / PTB)
-    "spacy_upos",
-    "spacy_ptb",
-    "extract_spacy_pos_features_from_folder",
-    "normalize_spacy_pos_features",
-    "extract_spacy_combined_features_from_folder",
+    "spacy_upos": "taggers",
+    "spacy_ptb": "taggers",
+    "extract_spacy_pos_features_from_folder": "taggers",
+    "normalize_spacy_pos_features": "taggers",
+    "extract_spacy_combined_features_from_folder": "taggers",
     # analysis
-    "kfa",
-    "kfa2",
-    "analyze_key_features",
-    "cohens_d",
-    "cohens_d_biber",
-    "pooled_std",
-    "pooled_std_biber",
+    "kfa": "analysis",
+    "kfa2": "analysis",
+    "analyze_key_features": "analysis",
+    "cohens_d": "analysis",
+    "cohens_d_biber": "analysis",
+    "pooled_std": "analysis",
+    "pooled_std_biber": "analysis",
     # project / persistence
-    "TTWAProject",
-    "create_project",
-    "open_project",
-    "save_analysis_to_project",
-    "TTWA_MIME_TYPE",
-    "TTWA_EXTENSION",
-    "TTWA_MODE_FULL",
-    "TTWA_MODE_COMPACT",
-]
+    "TTWAProject": "project",
+    "create_project": "project",
+    "open_project": "project",
+    "save_analysis_to_project": "project",
+    "TTWA_MIME_TYPE": "project",
+    "TTWA_EXTENSION": "project",
+    "TTWA_MODE_FULL": "project",
+    "TTWA_MODE_COMPACT": "project",
+}
+
+__all__ = ["__version__", *(m for m in _SUBMODULES if m != "cli"), *_EXPORTS]
+
+
+def __getattr__(name: str):
+    if name in _SUBMODULES:
+        return importlib.import_module(f".{name}", __name__)
+    if name in _EXPORTS:
+        value = getattr(importlib.import_module(f".{_EXPORTS[name]}", __name__), name)
+        globals()[name] = value
+        return value
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
+
+
+def __dir__():
+    return sorted(set(globals()) | set(__all__))
+
+
+if TYPE_CHECKING:  # para editores e verificadores de tipo
+    from . import analysis, project, tagged_io, taggers, tagging  # noqa: F401
+    from .analysis import analyze_key_features, cohens_d, cohens_d_biber, kfa, kfa2, pooled_std, pooled_std_biber  # noqa: F401
+    from .project import (  # noqa: F401
+        TTWA_EXTENSION, TTWA_MIME_TYPE, TTWA_MODE_COMPACT, TTWA_MODE_FULL,
+        TTWAProject, create_project, open_project, save_analysis_to_project,
+    )
+    from .taggers import (  # noqa: F401
+        biberplus, extract_biber_features_from_folder, extract_mfte_features_from_folder,
+        extract_spacy_combined_features_from_folder, extract_spacy_pos_features_from_folder,
+        extract_stanza_combined_features_from_folder, extract_stanza_pos_features_from_folder,
+        mfte, normalize_biber_features, normalize_mfte_features, normalize_spacy_pos_features,
+        normalize_stanza_pos_features, spacy_ptb, spacy_upos, stanza_upos, stanza_xpos,
+    )
