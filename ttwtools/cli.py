@@ -94,7 +94,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
-    "describe":       ("Estatísticas e descrição de um corpus", "1.7"),
     "kwic":           ("Concordância (palavra-chave em contexto)", "1.8"),
     "freq":           ("Listas de frequência", "1.8"),
     "keywords":       ("Palavras-chave contra um corpus de referência", "1.9"),
@@ -330,6 +329,59 @@ def _configure_export(p: argparse.ArgumentParser) -> None:
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
 
 
+def _cmd_describe(args: argparse.Namespace) -> int:
+    import tempfile
+    from pathlib import Path
+    from .corpus import import_corpus, parse_where
+    from .project import TTWAProject
+    from .stats import describe
+    kwargs = dict(layer=args.layer, where=parse_where(args.where or []), top=args.top,
+                  hide_stopwords=args.hide_stopwords, stopwords_lang=args.stopwords_lang,
+                  extra_stopwords=args.add_stopword)
+    src = Path(args.project)
+    if src.is_dir():                      # pasta de .txt: projeto temporário
+        with tempfile.TemporaryDirectory() as tmp:
+            with TTWAProject.create(Path(tmp) / "tmp.ttwa") as proj:
+                import_corpus(proj, src, src.name)
+                result = describe(proj, src.name, **kwargs)
+    else:
+        if not args.corpus:
+            raise SystemExit("ttwtools: informe --corpus")
+        with _open_or_create(args.project, create=False) as proj:
+            result = describe(proj, args.corpus, **kwargs)
+    if args.format == "json":
+        emit(result, "json")
+        return EXIT_OK
+    txt = result["text"]
+    summary = {k: txt[k] for k in ("documents", "tokens", "types", "hapax", "ttr", "sttr", "cttr", "mattr",
+                                    "mean_word_length", "sentences", "mean_sentence_length")}
+    summary.update({f"doc_{k}": v for k, v in txt["document_tokens"].items()})
+    if args.format == "csv":
+        emit(summary, "csv")
+        return EXIT_OK
+    print("Estatísticas do texto (estimativas: tokenização simples, sem tagger)"
+          + (" — do cache" if result["cached"] else ""))
+    emit(summary)
+    print("\nPalavras mais frequentes")
+    emit(txt["top_words"])
+    lay = result["layer"]
+    if lay:
+        print(f"\nCamada {lay['layer']}: {lay['words']} palavras, densidade lexical {lay['lexical_density']}")
+        emit([{"classe": k, "freq": n} for k, n in list(lay["upos"].items())[:args.top]])
+    return EXIT_OK
+
+
+def _configure_describe(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa/.ttwl, ou uma pasta de .txt")
+    p.add_argument("--corpus", help="corpus do projeto")
+    p.add_argument("--layer", help="ferramenta da camada (spacy, stanza, mfte, biberplus, conllu...) para as estatísticas pós-etiquetagem")
+    p.add_argument("--top", type=int, default=20)
+    p.add_argument("--hide-stopwords", action="store_true", help="tirar palavras funcionais da lista de mais frequentes")
+    p.add_argument("--stopwords-lang", default="en", help="idioma da lista de palavras funcionais (en, pt)")
+    p.add_argument("--add-stopword", action="append", help="palavra funcional a acrescentar (repita)")
+    p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
+
+
 def _configure_documents(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", help="só este corpus")
@@ -345,6 +397,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_documents, _cmd_documents),
     "tag":       ("Etiqueta um corpus, reaproveitando camadas já feitas",
                   _configure_tag, _cmd_tag),
+    "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",
+                  _configure_describe, _cmd_describe),
     "export":    ("Exporta uma camada em CoNLL-U, VRT, CSV, JSONL ou Parquet",
                   _configure_export, _cmd_export),
     "tagger-options": ("Opções de um tagger, com explicações (sem argumento: disponibilidade)",

@@ -31,7 +31,7 @@ ttwtools = "ttwtools.cli:main"
 packages = ["ttwtools", "ttwtools.taggers", "ttwtools.formats"]
 
 [tool.setuptools.package-data]
-ttwtools = ["*.json", "data/*/*.json"]
+ttwtools = ["*.json", "data/*/*.json", "data/*/*.txt"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
