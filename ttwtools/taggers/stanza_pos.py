@@ -72,7 +72,9 @@ def _detect_device() -> str:
 _pipeline_cache: dict = {}
 
 
-def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None):
+def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None, *, lang: str | None = None,
+                          processors: str = "tokenize,pos", package: str | None = None,
+                          download: bool = True, **stanza_options):
     """Return a cached ``stanza.Pipeline`` for the given device.
 
     Parameters
@@ -83,6 +85,11 @@ def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None):
                 1. explicit ``model_dir`` argument
                 2. ``STANZA_RESOURCES_DIR`` environment variable
                 3. Stanza default (``~/stanza_resources/``)
+    lang, package, processors : idioma, pacote (treebank) e processadores; padrões do
+                descritor ``data/taggers/stanza.options.json`` (en, default).
+    download  : se False, não baixa nada: modelo ausente vira TaggerUnavailable com
+                o comando para baixar.
+    stanza_options : outras opções do Pipeline (tokenize_no_ssplit, pos_batch_size...).
     """
     import os
     import stanza  # noqa: imported lazily
@@ -90,17 +97,32 @@ def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None):
     if model_dir is None:
         model_dir = os.environ.get("STANZA_RESOURCES_DIR") or None
 
-    key = (device, model_dir or "")
+    if lang is None or package is None:
+        from .catalog import result_defaults
+        defaults = result_defaults("stanza")
+        lang = lang or defaults["lang"]
+        package = package or defaults["package"]
+
+    key = (device, model_dir or "", lang, package, processors, tuple(sorted(stanza_options.items())))
     if key not in _pipeline_cache:
+        if not download:
+            from .catalog import TaggerUnavailable, stanza_download_command, stanza_package_installed
+            from ..i18n import t
+            if not stanza_package_installed(lang, package, processors.split(","), model_dir):
+                command = stanza_download_command(lang, package, processors)
+                raise TaggerUnavailable("stanza", t("tagger.reason.missing_model", model=f"stanza {lang}/{package}",
+                                                    command=command), command)
         kwargs: dict = {
-            "processors": "tokenize,pos",
+            "processors": processors,
+            "package": package,
             "device": device,
             "verbose": False,
-            "download_method": stanza.DownloadMethod.REUSE_RESOURCES,
+            "download_method": stanza.DownloadMethod.REUSE_RESOURCES if download else None,
+            **stanza_options,
         }
         if model_dir:
             kwargs["dir"] = model_dir
-        _pipeline_cache[key] = stanza.Pipeline("en", **kwargs)
+        _pipeline_cache[key] = stanza.Pipeline(lang, **kwargs)
     return _pipeline_cache[key]
 
 

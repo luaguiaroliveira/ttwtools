@@ -1,0 +1,655 @@
+{
+ "tagset": "biber",
+ "name": "tagset.biber.name",
+ "about": "tagset.biber.about",
+ "source": "Biber (1988), Variation across speech and writing; BiberPlus (https://github.com/davidjurgens/biberplus)",
+ "taggers": [
+  "biberplus"
+ ],
+ "groups": [
+  {
+   "id": "A",
+   "label": "tagset.biber.group.A"
+  },
+  {
+   "id": "B",
+   "label": "tagset.biber.group.B"
+  },
+  {
+   "id": "C",
+   "label": "tagset.biber.group.C"
+  },
+  {
+   "id": "D",
+   "label": "tagset.biber.group.D"
+  },
+  {
+   "id": "E",
+   "label": "tagset.biber.group.E"
+  },
+  {
+   "id": "F",
+   "label": "tagset.biber.group.F"
+  },
+  {
+   "id": "G",
+   "label": "tagset.biber.group.G"
+  },
+  {
+   "id": "H",
+   "label": "tagset.biber.group.H"
+  },
+  {
+   "id": "I",
+   "label": "tagset.biber.group.I"
+  },
+  {
+   "id": "J",
+   "label": "tagset.biber.group.J"
+  },
+  {
+   "id": "K",
+   "label": "tagset.biber.group.K"
+  },
+  {
+   "id": "L",
+   "label": "tagset.biber.group.L"
+  },
+  {
+   "id": "M",
+   "label": "tagset.biber.group.M"
+  },
+  {
+   "id": "N",
+   "label": "tagset.biber.group.N"
+  },
+  {
+   "id": "O",
+   "label": "tagset.biber.group.O"
+  },
+  {
+   "id": "P",
+   "label": "tagset.biber.group.P"
+  },
+  {
+   "id": "Q",
+   "label": "tagset.biber.group.Q"
+  },
+  {
+   "id": "R",
+   "label": "tagset.biber.group.R"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "VBD",
+   "group": "A",
+   "definition": "tagset.biber.tag.VBD",
+   "example": ""
+  },
+  {
+   "tag": "PEAS",
+   "group": "A",
+   "definition": "tagset.biber.tag.PEAS",
+   "example": ""
+  },
+  {
+   "tag": "VPRT",
+   "group": "A",
+   "definition": "tagset.biber.tag.VPRT",
+   "example": ""
+  },
+  {
+   "tag": "PGAS",
+   "group": "A",
+   "definition": "tagset.biber.tag.PGAS",
+   "example": ""
+  },
+  {
+   "tag": "PLACE",
+   "group": "B",
+   "definition": "tagset.biber.tag.PLACE",
+   "example": ""
+  },
+  {
+   "tag": "TIME",
+   "group": "B",
+   "definition": "tagset.biber.tag.TIME",
+   "example": ""
+  },
+  {
+   "tag": "FPP1",
+   "group": "C",
+   "definition": "tagset.biber.tag.FPP1",
+   "example": ""
+  },
+  {
+   "tag": "SPP2",
+   "group": "C",
+   "definition": "tagset.biber.tag.SPP2",
+   "example": ""
+  },
+  {
+   "tag": "TPP3",
+   "group": "C",
+   "definition": "tagset.biber.tag.TPP3",
+   "example": ""
+  },
+  {
+   "tag": "PIT",
+   "group": "C",
+   "definition": "tagset.biber.tag.PIT",
+   "example": ""
+  },
+  {
+   "tag": "INPR",
+   "group": "C",
+   "definition": "tagset.biber.tag.INPR",
+   "example": ""
+  },
+  {
+   "tag": "DEMP",
+   "group": "C",
+   "definition": "tagset.biber.tag.DEMP",
+   "example": ""
+  },
+  {
+   "tag": "PROD",
+   "group": "C",
+   "definition": "tagset.biber.tag.PROD",
+   "example": ""
+  },
+  {
+   "tag": "WHQU",
+   "group": "D",
+   "definition": "tagset.biber.tag.WHQU",
+   "example": ""
+  },
+  {
+   "tag": "NOMZ",
+   "group": "E",
+   "definition": "tagset.biber.tag.NOMZ",
+   "example": ""
+  },
+  {
+   "tag": "GER",
+   "group": "E",
+   "definition": "tagset.biber.tag.GER",
+   "example": ""
+  },
+  {
+   "tag": "NN",
+   "group": "E",
+   "definition": "tagset.biber.tag.NN",
+   "example": ""
+  },
+  {
+   "tag": "PASS",
+   "group": "F",
+   "definition": "tagset.biber.tag.PASS",
+   "example": ""
+  },
+  {
+   "tag": "BYPA",
+   "group": "F",
+   "definition": "tagset.biber.tag.BYPA",
+   "example": ""
+  },
+  {
+   "tag": "BEMA",
+   "group": "G",
+   "definition": "tagset.biber.tag.BEMA",
+   "example": ""
+  },
+  {
+   "tag": "EX",
+   "group": "G",
+   "definition": "tagset.biber.tag.EX",
+   "example": ""
+  },
+  {
+   "tag": "THVC",
+   "group": "H",
+   "definition": "tagset.biber.tag.THVC",
+   "example": ""
+  },
+  {
+   "tag": "PASTP",
+   "group": "H",
+   "definition": "tagset.biber.tag.PASTP",
+   "example": ""
+  },
+  {
+   "tag": "WZPAST",
+   "group": "H",
+   "definition": "tagset.biber.tag.WZPAST",
+   "example": ""
+  },
+  {
+   "tag": "WZPRES",
+   "group": "H",
+   "definition": "tagset.biber.tag.WZPRES",
+   "example": ""
+  },
+  {
+   "tag": "TSUB",
+   "group": "H",
+   "definition": "tagset.biber.tag.TSUB",
+   "example": ""
+  },
+  {
+   "tag": "TOBJ",
+   "group": "H",
+   "definition": "tagset.biber.tag.TOBJ",
+   "example": ""
+  },
+  {
+   "tag": "WHSUB",
+   "group": "H",
+   "definition": "tagset.biber.tag.WHSUB",
+   "example": ""
+  },
+  {
+   "tag": "WHOBJ",
+   "group": "H",
+   "definition": "tagset.biber.tag.WHOBJ",
+   "example": ""
+  },
+  {
+   "tag": "PIRE",
+   "group": "H",
+   "definition": "tagset.biber.tag.PIRE",
+   "example": ""
+  },
+  {
+   "tag": "SERE",
+   "group": "H",
+   "definition": "tagset.biber.tag.SERE",
+   "example": ""
+  },
+  {
+   "tag": "CAUS",
+   "group": "H",
+   "definition": "tagset.biber.tag.CAUS",
+   "example": ""
+  },
+  {
+   "tag": "CONC",
+   "group": "H",
+   "definition": "tagset.biber.tag.CONC",
+   "example": ""
+  },
+  {
+   "tag": "COND",
+   "group": "H",
+   "definition": "tagset.biber.tag.COND",
+   "example": ""
+  },
+  {
+   "tag": "OSUB",
+   "group": "H",
+   "definition": "tagset.biber.tag.OSUB",
+   "example": ""
+  },
+  {
+   "tag": "PIN",
+   "group": "I",
+   "definition": "tagset.biber.tag.PIN",
+   "example": ""
+  },
+  {
+   "tag": "JJ",
+   "group": "I",
+   "definition": "tagset.biber.tag.JJ",
+   "example": ""
+  },
+  {
+   "tag": "PRED",
+   "group": "I",
+   "definition": "tagset.biber.tag.PRED",
+   "example": ""
+  },
+  {
+   "tag": "RB",
+   "group": "I",
+   "definition": "tagset.biber.tag.RB",
+   "example": ""
+  },
+  {
+   "tag": "TTR",
+   "group": "J",
+   "definition": "tagset.biber.tag.TTR",
+   "example": ""
+  },
+  {
+   "tag": "AWL",
+   "group": "J",
+   "definition": "tagset.biber.tag.AWL",
+   "example": ""
+  },
+  {
+   "tag": "CONJ",
+   "group": "K",
+   "definition": "tagset.biber.tag.CONJ",
+   "example": ""
+  },
+  {
+   "tag": "DWNT",
+   "group": "K",
+   "definition": "tagset.biber.tag.DWNT",
+   "example": ""
+  },
+  {
+   "tag": "AMP",
+   "group": "K",
+   "definition": "tagset.biber.tag.AMP",
+   "example": ""
+  },
+  {
+   "tag": "DPAR",
+   "group": "K",
+   "definition": "tagset.biber.tag.DPAR",
+   "example": ""
+  },
+  {
+   "tag": "HDG",
+   "group": "K",
+   "definition": "tagset.biber.tag.HDG",
+   "example": ""
+  },
+  {
+   "tag": "EMPH",
+   "group": "K",
+   "definition": "tagset.biber.tag.EMPH",
+   "example": ""
+  },
+  {
+   "tag": "DEMO",
+   "group": "K",
+   "definition": "tagset.biber.tag.DEMO",
+   "example": ""
+  },
+  {
+   "tag": "POMD",
+   "group": "L",
+   "definition": "tagset.biber.tag.POMD",
+   "example": ""
+  },
+  {
+   "tag": "NEMD",
+   "group": "L",
+   "definition": "tagset.biber.tag.NEMD",
+   "example": ""
+  },
+  {
+   "tag": "PRMD",
+   "group": "L",
+   "definition": "tagset.biber.tag.PRMD",
+   "example": ""
+  },
+  {
+   "tag": "PUBV",
+   "group": "M",
+   "definition": "tagset.biber.tag.PUBV",
+   "example": ""
+  },
+  {
+   "tag": "PRIV",
+   "group": "M",
+   "definition": "tagset.biber.tag.PRIV",
+   "example": ""
+  },
+  {
+   "tag": "SUAV",
+   "group": "M",
+   "definition": "tagset.biber.tag.SUAV",
+   "example": ""
+  },
+  {
+   "tag": "SMP",
+   "group": "M",
+   "definition": "tagset.biber.tag.SMP",
+   "example": ""
+  },
+  {
+   "tag": "CONT",
+   "group": "N",
+   "definition": "tagset.biber.tag.CONT",
+   "example": ""
+  },
+  {
+   "tag": "THATD",
+   "group": "N",
+   "definition": "tagset.biber.tag.THATD",
+   "example": ""
+  },
+  {
+   "tag": "STPR",
+   "group": "N",
+   "definition": "tagset.biber.tag.STPR",
+   "example": ""
+  },
+  {
+   "tag": "SPIN",
+   "group": "N",
+   "definition": "tagset.biber.tag.SPIN",
+   "example": ""
+  },
+  {
+   "tag": "SPAU",
+   "group": "N",
+   "definition": "tagset.biber.tag.SPAU",
+   "example": ""
+  },
+  {
+   "tag": "PHC",
+   "group": "O",
+   "definition": "tagset.biber.tag.PHC",
+   "example": ""
+  },
+  {
+   "tag": "ANDC",
+   "group": "O",
+   "definition": "tagset.biber.tag.ANDC",
+   "example": ""
+  },
+  {
+   "tag": "XX0",
+   "group": "P",
+   "definition": "tagset.biber.tag.XX0",
+   "example": ""
+  },
+  {
+   "tag": "SYNE",
+   "group": "P",
+   "definition": "tagset.biber.tag.SYNE",
+   "example": ""
+  },
+  {
+   "tag": "QUAN",
+   "group": "Q",
+   "definition": "tagset.biber.tag.QUAN",
+   "example": ""
+  },
+  {
+   "tag": "QUPR",
+   "group": "Q",
+   "definition": "tagset.biber.tag.QUPR",
+   "example": ""
+  },
+  {
+   "tag": "ART",
+   "group": "Q",
+   "definition": "tagset.biber.tag.ART",
+   "example": ""
+  },
+  {
+   "tag": "AUXB",
+   "group": "Q",
+   "definition": "tagset.biber.tag.AUXB",
+   "example": ""
+  },
+  {
+   "tag": "CAP",
+   "group": "Q",
+   "definition": "tagset.biber.tag.CAP",
+   "example": ""
+  },
+  {
+   "tag": "SCONJ",
+   "group": "Q",
+   "definition": "tagset.biber.tag.SCONJ",
+   "example": ""
+  },
+  {
+   "tag": "CCONJ",
+   "group": "Q",
+   "definition": "tagset.biber.tag.CCONJ",
+   "example": ""
+  },
+  {
+   "tag": "DET",
+   "group": "Q",
+   "definition": "tagset.biber.tag.DET",
+   "example": ""
+  },
+  {
+   "tag": "INF",
+   "group": "Q",
+   "definition": "tagset.biber.tag.INF",
+   "example": ""
+  },
+  {
+   "tag": "UH",
+   "group": "Q",
+   "definition": "tagset.biber.tag.UH",
+   "example": ""
+  },
+  {
+   "tag": "NUM",
+   "group": "Q",
+   "definition": "tagset.biber.tag.NUM",
+   "example": ""
+  },
+  {
+   "tag": "PRP",
+   "group": "Q",
+   "definition": "tagset.biber.tag.PRP",
+   "example": ""
+  },
+  {
+   "tag": "PREP",
+   "group": "Q",
+   "definition": "tagset.biber.tag.PREP",
+   "example": ""
+  },
+  {
+   "tag": "NNP",
+   "group": "Q",
+   "definition": "tagset.biber.tag.NNP",
+   "example": ""
+  },
+  {
+   "tag": "SBJP",
+   "group": "Q",
+   "definition": "tagset.biber.tag.SBJP",
+   "example": ""
+  },
+  {
+   "tag": "WH",
+   "group": "Q",
+   "definition": "tagset.biber.tag.WH",
+   "example": ""
+  },
+  {
+   "tag": "INDA",
+   "group": "Q",
+   "definition": "tagset.biber.tag.INDA",
+   "example": ""
+  },
+  {
+   "tag": "ACCU",
+   "group": "Q",
+   "definition": "tagset.biber.tag.ACCU",
+   "example": ""
+  },
+  {
+   "tag": "CMADJ",
+   "group": "Q",
+   "definition": "tagset.biber.tag.CMADJ",
+   "example": ""
+  },
+  {
+   "tag": "SPADJ",
+   "group": "Q",
+   "definition": "tagset.biber.tag.SPADJ",
+   "example": ""
+  },
+  {
+   "tag": "X",
+   "group": "Q",
+   "definition": "tagset.biber.tag.X",
+   "example": ""
+  },
+  {
+   "tag": "TRB",
+   "group": "Q",
+   "definition": "tagset.biber.tag.TRB",
+   "example": ""
+  },
+  {
+   "tag": "EMOJ",
+   "group": "R",
+   "definition": "tagset.biber.tag.EMOJ",
+   "example": ""
+  },
+  {
+   "tag": "EMOT",
+   "group": "R",
+   "definition": "tagset.biber.tag.EMOT",
+   "example": ""
+  },
+  {
+   "tag": "EXCL",
+   "group": "R",
+   "definition": "tagset.biber.tag.EXCL",
+   "example": ""
+  },
+  {
+   "tag": "HASH",
+   "group": "R",
+   "definition": "tagset.biber.tag.HASH",
+   "example": ""
+  },
+  {
+   "tag": "LAUGH",
+   "group": "R",
+   "definition": "tagset.biber.tag.LAUGH",
+   "example": ""
+  },
+  {
+   "tag": "QUES",
+   "group": "R",
+   "definition": "tagset.biber.tag.QUES",
+   "example": ""
+  },
+  {
+   "tag": "QUOT",
+   "group": "R",
+   "definition": "tagset.biber.tag.QUOT",
+   "example": ""
+  },
+  {
+   "tag": "AT",
+   "group": "R",
+   "definition": "tagset.biber.tag.AT",
+   "example": ""
+  },
+  {
+   "tag": "URL",
+   "group": "R",
+   "definition": "tagset.biber.tag.URL",
+   "example": ""
+  }
+ ]
+}

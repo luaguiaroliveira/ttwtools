@@ -1,0 +1,1094 @@
+{
+ "tagset": "mfte",
+ "name": "tagset.mfte.name",
+ "about": "tagset.mfte.about",
+ "source": "https://github.com/mshakirDr/MFTE (Le Foll 2021; Shakir)",
+ "taggers": [
+  "mfte"
+ ],
+ "review": true,
+ "groups": [
+  {
+   "id": "verb",
+   "label": "tagset.mfte.group.verb"
+  },
+  {
+   "id": "modal",
+   "label": "tagset.mfte.group.modal"
+  },
+  {
+   "id": "pron",
+   "label": "tagset.mfte.group.pron"
+  },
+  {
+   "id": "noun",
+   "label": "tagset.mfte.group.noun"
+  },
+  {
+   "id": "adj",
+   "label": "tagset.mfte.group.adj"
+  },
+  {
+   "id": "adv",
+   "label": "tagset.mfte.group.adv"
+  },
+  {
+   "id": "clause",
+   "label": "tagset.mfte.group.clause"
+  },
+  {
+   "id": "inter",
+   "label": "tagset.mfte.group.inter"
+  },
+  {
+   "id": "other",
+   "label": "tagset.mfte.group.other"
+  },
+  {
+   "id": "sem",
+   "label": "tagset.mfte.group.sem"
+  },
+  {
+   "id": "stance",
+   "label": "tagset.mfte.group.stance"
+  },
+  {
+   "id": "total",
+   "label": "tagset.mfte.group.total"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "VBD",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.VBD",
+   "example": "walked"
+  },
+  {
+   "tag": "VPRT",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.VPRT",
+   "example": "walks"
+  },
+  {
+   "tag": "VB",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.VB",
+   "example": "walk"
+  },
+  {
+   "tag": "VIMP",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.VIMP",
+   "example": "Look at this."
+  },
+  {
+   "tag": "PEAS",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.PEAS",
+   "example": "has walked"
+  },
+  {
+   "tag": "PROG",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.PROG",
+   "example": "is walking"
+  },
+  {
+   "tag": "GTO",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.GTO",
+   "example": "going to leave"
+  },
+  {
+   "tag": "HGOT",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.HGOT",
+   "example": "I've got"
+  },
+  {
+   "tag": "BEMA",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.BEMA",
+   "example": "She is tall."
+  },
+  {
+   "tag": "BEAUX",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.BEAUX",
+   "example": "is going"
+  },
+  {
+   "tag": "DOAUX",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.DOAUX",
+   "example": "Do you know?"
+  },
+  {
+   "tag": "PASS",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.PASS",
+   "example": "was taken"
+  },
+  {
+   "tag": "PGET",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.PGET",
+   "example": "got arrested"
+  },
+  {
+   "tag": "ABLE",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.ABLE",
+   "example": "able to swim"
+  },
+  {
+   "tag": "USEDTO",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.USEDTO",
+   "example": "used to live"
+  },
+  {
+   "tag": "GER",
+   "group": "verb",
+   "definition": "tagset.mfte.tag.GER",
+   "example": "Swimming is fun."
+  },
+  {
+   "tag": "MDCA",
+   "group": "modal",
+   "definition": "tagset.mfte.tag.MDCA",
+   "example": "can"
+  },
+  {
+   "tag": "MDCO",
+   "group": "modal",
+   "definition": "tagset.mfte.tag.MDCO",
+   "example": "could"
+  },
+  {
+   "tag": "MDMM",
+   "group": "modal",
+   "definition": "tagset.mfte.tag.MDMM",
+   "example": "may, might"
+  },
+  {
+   "tag": "MDWS",
+   "group": "modal",
+   "definition": "tagset.mfte.tag.MDWS",
+   "example": "will, shall"
+  },
+  {
+   "tag": "MDWO",
+   "group": "modal",
+   "definition": "tagset.mfte.tag.MDWO",
+   "example": "would"
+  },
+  {
+   "tag": "MDNE",
+   "group": "modal",
+   "definition": "tagset.mfte.tag.MDNE",
+   "example": "must, have to, need to"
+  },
+  {
+   "tag": "PP1S",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PP1S",
+   "example": "I, me, my"
+  },
+  {
+   "tag": "PP1P",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PP1P",
+   "example": "we, us, our"
+  },
+  {
+   "tag": "PP2",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PP2",
+   "example": "you, your"
+  },
+  {
+   "tag": "PP3f",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PP3f",
+   "example": "she, her"
+  },
+  {
+   "tag": "PP3m",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PP3m",
+   "example": "he, him"
+  },
+  {
+   "tag": "PP3t",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PP3t",
+   "example": "they, them"
+  },
+  {
+   "tag": "PIT",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.PIT",
+   "example": "it, its"
+  },
+  {
+   "tag": "DEMO",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.DEMO",
+   "example": "this, that, these"
+  },
+  {
+   "tag": "QUPR",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.QUPR",
+   "example": "everybody, nothing"
+  },
+  {
+   "tag": "EX",
+   "group": "pron",
+   "definition": "tagset.mfte.tag.EX",
+   "example": "there is"
+  },
+  {
+   "tag": "NN",
+   "group": "noun",
+   "definition": "tagset.mfte.tag.NN",
+   "example": "idea, books"
+  },
+  {
+   "tag": "NNP",
+   "group": "noun",
+   "definition": "tagset.mfte.tag.NNP",
+   "example": "London"
+  },
+  {
+   "tag": "NCOMP",
+   "group": "noun",
+   "definition": "tagset.mfte.tag.NCOMP",
+   "example": "bus stop"
+  },
+  {
+   "tag": "NOMZ",
+   "group": "noun",
+   "definition": "tagset.mfte.tag.NOMZ",
+   "example": "decision, happiness"
+  },
+  {
+   "tag": "JJAT",
+   "group": "adj",
+   "definition": "tagset.mfte.tag.JJAT",
+   "example": "a tall man"
+  },
+  {
+   "tag": "JJPR",
+   "group": "adj",
+   "definition": "tagset.mfte.tag.JJPR",
+   "example": "he is tall"
+  },
+  {
+   "tag": "COMPAR",
+   "group": "adj",
+   "definition": "tagset.mfte.tag.COMPAR",
+   "example": "taller, more useful"
+  },
+  {
+   "tag": "SUPER",
+   "group": "adj",
+   "definition": "tagset.mfte.tag.SUPER",
+   "example": "tallest, most useful"
+  },
+  {
+   "tag": "QUAN",
+   "group": "adj",
+   "definition": "tagset.mfte.tag.QUAN",
+   "example": "all, many, several"
+  },
+  {
+   "tag": "RB",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.RB",
+   "example": "quickly"
+  },
+  {
+   "tag": "AMP",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.AMP",
+   "example": "very, totally"
+  },
+  {
+   "tag": "DWNT",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.DWNT",
+   "example": "slightly, barely"
+  },
+  {
+   "tag": "EMPH",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.EMPH",
+   "example": "really, for sure"
+  },
+  {
+   "tag": "HDG",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.HDG",
+   "example": "maybe, sort of"
+  },
+  {
+   "tag": "FREQ",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.FREQ",
+   "example": "usually, never"
+  },
+  {
+   "tag": "PLACE",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.PLACE",
+   "example": "abroad, nearby"
+  },
+  {
+   "tag": "TIME",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.TIME",
+   "example": "now, tomorrow"
+  },
+  {
+   "tag": "SO",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.SO",
+   "example": "so"
+  },
+  {
+   "tag": "XX0",
+   "group": "adv",
+   "definition": "tagset.mfte.tag.XX0",
+   "example": "not, n't"
+  },
+  {
+   "tag": "THSC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.THSC",
+   "example": "I think that..."
+  },
+  {
+   "tag": "THRC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.THRC",
+   "example": "the book that..."
+  },
+  {
+   "tag": "WHSC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.WHSC",
+   "example": "I know what..."
+  },
+  {
+   "tag": "THATD",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.THATD",
+   "example": "I think [] he left"
+  },
+  {
+   "tag": "CUZ",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.CUZ",
+   "example": "because, 'cause"
+  },
+  {
+   "tag": "COND",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.COND",
+   "example": "if, unless"
+  },
+  {
+   "tag": "CONC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.CONC",
+   "example": "although"
+  },
+  {
+   "tag": "ELAB",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.ELAB",
+   "example": "for example, similarly"
+  },
+  {
+   "tag": "CC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.CC",
+   "example": "and, or"
+  },
+  {
+   "tag": "IN",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.IN",
+   "example": "in, on, of"
+  },
+  {
+   "tag": "STPR",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.STPR",
+   "example": "the man I spoke to"
+  },
+  {
+   "tag": "PHC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.PHC",
+   "example": "cats and dogs"
+  },
+  {
+   "tag": "THAC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.THAC",
+   "example": "glad that..."
+  },
+  {
+   "tag": "WHAC",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.WHAC",
+   "example": "unsure whether..."
+  },
+  {
+   "tag": "SPLIT",
+   "group": "clause",
+   "definition": "tagset.mfte.tag.SPLIT",
+   "example": "to really go"
+  },
+  {
+   "tag": "YNQU",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.YNQU",
+   "example": "Are you ready?"
+  },
+  {
+   "tag": "WHQU",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.WHQU",
+   "example": "What is it?"
+  },
+  {
+   "tag": "WQ",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.WQ",
+   "example": "?"
+  },
+  {
+   "tag": "QUTAG",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.QUTAG",
+   "example": "isn't it?"
+  },
+  {
+   "tag": "DMA",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.DMA",
+   "example": "anyway, yeah, well"
+  },
+  {
+   "tag": "FPUH",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.FPUH",
+   "example": "uh, um, oh"
+  },
+  {
+   "tag": "POLITE",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.POLITE",
+   "example": "please, thanks"
+  },
+  {
+   "tag": "LIKE",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.LIKE",
+   "example": "like"
+  },
+  {
+   "tag": "QLIKE",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.QLIKE",
+   "example": "she was like..."
+  },
+  {
+   "tag": "CONT",
+   "group": "inter",
+   "definition": "tagset.mfte.tag.CONT",
+   "example": "'s, 're, 'll"
+  },
+  {
+   "tag": "EMO",
+   "group": "other",
+   "definition": "tagset.mfte.tag.EMO",
+   "example": "🙂"
+  },
+  {
+   "tag": "HST",
+   "group": "other",
+   "definition": "tagset.mfte.tag.HST",
+   "example": "#corpus"
+  },
+  {
+   "tag": "URL",
+   "group": "other",
+   "definition": "tagset.mfte.tag.URL",
+   "example": "www.example.com"
+  },
+  {
+   "tag": "FU",
+   "group": "other",
+   "definition": "tagset.mfte.tag.FU",
+   "example": "日本"
+  },
+  {
+   "tag": "SYM",
+   "group": "other",
+   "definition": "tagset.mfte.tag.SYM",
+   "example": "%"
+  },
+  {
+   "tag": "CD",
+   "group": "other",
+   "definition": "tagset.mfte.tag.CD",
+   "example": "42"
+  },
+  {
+   "tag": "AFX",
+   "group": "other",
+   "definition": "tagset.mfte.tag.AFX",
+   "example": "pre-"
+  },
+  {
+   "tag": "NNHUMAN",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNHUMAN",
+   "example": "teacher, family"
+  },
+  {
+   "tag": "NNCOG",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNCOG",
+   "example": "idea, knowledge"
+  },
+  {
+   "tag": "NNCONC",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNCONC",
+   "example": "table, stone"
+  },
+  {
+   "tag": "NNPLACE",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNPLACE",
+   "example": "city, room"
+  },
+  {
+   "tag": "NNQUANT",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNQUANT",
+   "example": "amount, number"
+  },
+  {
+   "tag": "NNGRP",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNGRP",
+   "example": "committee, company"
+  },
+  {
+   "tag": "NNTECH",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNTECH",
+   "example": "software, cell"
+  },
+  {
+   "tag": "NNABSPROC",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.NNABSPROC",
+   "example": "development, system"
+  },
+  {
+   "tag": "JJSIZE",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.JJSIZE",
+   "example": "big, small"
+  },
+  {
+   "tag": "JJTIME",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.JJTIME",
+   "example": "new, early"
+  },
+  {
+   "tag": "JJCOLR",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.JJCOLR",
+   "example": "red, dark"
+  },
+  {
+   "tag": "JJEVAL",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.JJEVAL",
+   "example": "good, important"
+  },
+  {
+   "tag": "JJREL",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.JJREL",
+   "example": "general, total"
+  },
+  {
+   "tag": "JJTOPIC",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.JJTOPIC",
+   "example": "political, economic"
+  },
+  {
+   "tag": "ACT",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.ACT",
+   "example": "buy, make"
+  },
+  {
+   "tag": "COMM",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.COMM",
+   "example": "say, tell"
+  },
+  {
+   "tag": "MENTAL",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.MENTAL",
+   "example": "think, know"
+  },
+  {
+   "tag": "CAUSE",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.CAUSE",
+   "example": "help, let"
+  },
+  {
+   "tag": "OCCUR",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.OCCUR",
+   "example": "happen, become"
+  },
+  {
+   "tag": "EXIST",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.EXIST",
+   "example": "seem, include"
+  },
+  {
+   "tag": "ASPECT",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.ASPECT",
+   "example": "start, keep"
+  },
+  {
+   "tag": "RATT",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.RATT",
+   "example": "surprisingly, hopefully"
+  },
+  {
+   "tag": "RFACT",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.RFACT",
+   "example": "certainly, undoubtedly"
+  },
+  {
+   "tag": "RNONFACT",
+   "group": "sem",
+   "definition": "tagset.mfte.tag.RNONFACT",
+   "example": "probably, apparently"
+  },
+  {
+   "tag": "ToVDSR",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToVDSR",
+   "example": "want to"
+  },
+  {
+   "tag": "ToVEFRT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToVEFRT",
+   "example": "try to"
+  },
+  {
+   "tag": "ToVPROB",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToVPROB",
+   "example": "seem to"
+  },
+  {
+   "tag": "ToVSPCH",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToVSPCH",
+   "example": "ask to"
+  },
+  {
+   "tag": "ToVMNTL",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToVMNTL",
+   "example": "expect to"
+  },
+  {
+   "tag": "ToJCRTN",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToJCRTN",
+   "example": "sure to"
+  },
+  {
+   "tag": "ToJABL",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToJABL",
+   "example": "able to"
+  },
+  {
+   "tag": "ToJEFCT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToJEFCT",
+   "example": "happy to"
+  },
+  {
+   "tag": "ToJEASE",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToJEASE",
+   "example": "easy to"
+  },
+  {
+   "tag": "ToJEVAL",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToJEVAL",
+   "example": "important to"
+  },
+  {
+   "tag": "ToNSTNC",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ToNSTNC",
+   "example": "the decision to"
+  },
+  {
+   "tag": "ThVCOMM",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThVCOMM",
+   "example": "say that"
+  },
+  {
+   "tag": "ThVATT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThVATT",
+   "example": "hope that"
+  },
+  {
+   "tag": "ThVFCT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThVFCT",
+   "example": "show that"
+  },
+  {
+   "tag": "ThVLIK",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThVLIK",
+   "example": "suggest that"
+  },
+  {
+   "tag": "ThJATT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThJATT",
+   "example": "glad that"
+  },
+  {
+   "tag": "ThJFCT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThJFCT",
+   "example": "clear that"
+  },
+  {
+   "tag": "ThJLIK",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThJLIK",
+   "example": "likely that"
+  },
+  {
+   "tag": "ThJEVL",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThJEVL",
+   "example": "important that"
+  },
+  {
+   "tag": "ThNATT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThNATT",
+   "example": "the hope that"
+  },
+  {
+   "tag": "ThNFCT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThNFCT",
+   "example": "the fact that"
+  },
+  {
+   "tag": "ThNNFCT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThNNFCT",
+   "example": "the claim that"
+  },
+  {
+   "tag": "ThNLIK",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.ThNLIK",
+   "example": "the possibility that"
+  },
+  {
+   "tag": "WhVATT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.WhVATT",
+   "example": "wonder why"
+  },
+  {
+   "tag": "WhVFCT",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.WhVFCT",
+   "example": "know what"
+  },
+  {
+   "tag": "WhVLIK",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.WhVLIK",
+   "example": "doubt whether"
+  },
+  {
+   "tag": "WhVCOM",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.WhVCOM",
+   "example": "explain how"
+  },
+  {
+   "tag": "PrepNSTNC",
+   "group": "stance",
+   "definition": "tagset.mfte.tag.PrepNSTNC",
+   "example": "the possibility of"
+  },
+  {
+   "tag": "ToVSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ToVSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ToJSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ToJSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ToSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ToSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ThVSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ThVSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ThJSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ThJSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ThNSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ThNSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ThSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ThSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "ToThNSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ToThNSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "WhVSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.WhVSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "RSTNCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.RSTNCall",
+   "example": ""
+  },
+  {
+   "tag": "MDPOSSCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.MDPOSSCall",
+   "example": ""
+  },
+  {
+   "tag": "MDPREDall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.MDPREDall",
+   "example": ""
+  },
+  {
+   "tag": "PASSall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.PASSall",
+   "example": ""
+  },
+  {
+   "tag": "PP1all",
+   "group": "total",
+   "definition": "tagset.mfte.tag.PP1all",
+   "example": ""
+  },
+  {
+   "tag": "PP3all",
+   "group": "total",
+   "definition": "tagset.mfte.tag.PP3all",
+   "example": ""
+  },
+  {
+   "tag": "MDother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.MDother",
+   "example": ""
+  },
+  {
+   "tag": "PPother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.PPother",
+   "example": ""
+  },
+  {
+   "tag": "NNother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.NNother",
+   "example": ""
+  },
+  {
+   "tag": "NSTNCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.NSTNCother",
+   "example": ""
+  },
+  {
+   "tag": "JJATother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.JJATother",
+   "example": ""
+  },
+  {
+   "tag": "JJPRother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.JJPRother",
+   "example": ""
+  },
+  {
+   "tag": "JJATDother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.JJATDother",
+   "example": ""
+  },
+  {
+   "tag": "JJEPSTother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.JJEPSTother",
+   "example": ""
+  },
+  {
+   "tag": "RBother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.RBother",
+   "example": ""
+  },
+  {
+   "tag": "INother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.INother",
+   "example": ""
+  },
+  {
+   "tag": "THSCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.THSCother",
+   "example": ""
+  },
+  {
+   "tag": "THRCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.THRCother",
+   "example": ""
+  },
+  {
+   "tag": "WHSCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.WHSCother",
+   "example": ""
+  },
+  {
+   "tag": "JJDESCall",
+   "group": "total",
+   "definition": "tagset.mfte.tag.JJDESCall",
+   "example": ""
+  },
+  {
+   "tag": "JJEpstAtdOther",
+   "group": "total",
+   "definition": "tagset.mfte.tag.JJEpstAtdOther",
+   "example": ""
+  },
+  {
+   "tag": "RSTNCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.RSTNCother",
+   "example": ""
+  },
+  {
+   "tag": "ThVSTNCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ThVSTNCother",
+   "example": ""
+  },
+  {
+   "tag": "ToVSTNCother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.ToVSTNCother",
+   "example": ""
+  },
+  {
+   "tag": "VATTother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.VATTother",
+   "example": ""
+  },
+  {
+   "tag": "VCOMMother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.VCOMMother",
+   "example": ""
+  },
+  {
+   "tag": "VFCTother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.VFCTother",
+   "example": ""
+  },
+  {
+   "tag": "VLIKother",
+   "group": "total",
+   "definition": "tagset.mfte.tag.VLIKother",
+   "example": ""
+  }
+ ]
+}

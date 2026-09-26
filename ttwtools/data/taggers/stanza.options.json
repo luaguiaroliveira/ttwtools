@@ -1,0 +1,162 @@
+{
+ "tagger": "stanza",
+ "name": "tagger.stanza.name",
+ "about": "tagger.stanza.about",
+ "aliases": {
+  "stanza_upos": {
+   "tagset": "upos"
+  },
+  "stanza_xpos": {
+   "tagset": "ptb"
+  }
+ },
+ "tagsets": {
+  "upos": "upos",
+  "xpos": "ptb"
+ },
+ "langs": [
+  "en"
+ ],
+ "requires": [
+  "torch",
+  "stanza"
+ ],
+ "options": [
+  {
+   "id": "lang",
+   "grupo": "modelo",
+   "tipo": "escolha",
+   "padrao": "en",
+   "valores": [
+    "en"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.stanza.opt.lang.name",
+   "explicacao": "tagger.stanza.opt.lang.explain"
+  },
+  {
+   "id": "package",
+   "grupo": "modelo",
+   "tipo": "escolha",
+   "padrao": "default",
+   "valores": [
+    "default",
+    "default_fast",
+    "default_accurate",
+    "combined",
+    "ewt",
+    "gum",
+    "partut",
+    "lines",
+    "atis",
+    "eslspok"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.stanza.opt.package.name",
+   "explicacao": "tagger.stanza.opt.package.explain",
+   "impacto": {
+    "velocidade": "maior",
+    "memoria": "maior",
+    "download": "talvez"
+   },
+   "disponibilidade": {
+    "tipo": "stanza_package"
+   },
+   "instalar": "python -c \"import stanza; stanza.download('{lang}', package='{value}', processors='tokenize,pos,lemma')\""
+  },
+  {
+   "id": "components",
+   "grupo": "extrair",
+   "tipo": "lista",
+   "padrao": [
+    "morph",
+    "pos"
+   ],
+   "valores": [
+    "pos",
+    "morph",
+    "lemma"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.stanza.opt.components.name",
+   "explicacao": "tagger.stanza.opt.components.explain",
+   "impacto": {
+    "velocidade": "maior"
+   }
+  },
+  {
+   "id": "tokenize_no_ssplit",
+   "grupo": "extrair",
+   "tipo": "booleano",
+   "padrao": false,
+   "afeta_resultado": true,
+   "nome": "tagger.stanza.opt.tokenize_no_ssplit.name",
+   "explicacao": "tagger.stanza.opt.tokenize_no_ssplit.explain"
+  },
+  {
+   "id": "tokenize_pretokenized",
+   "grupo": "extrair",
+   "tipo": "booleano",
+   "padrao": false,
+   "afeta_resultado": true,
+   "nome": "tagger.stanza.opt.tokenize_pretokenized.name",
+   "explicacao": "tagger.stanza.opt.tokenize_pretokenized.explain"
+  },
+  {
+   "id": "device",
+   "grupo": "desempenho",
+   "tipo": "escolha",
+   "padrao": "auto",
+   "valores": [
+    "auto",
+    "cpu",
+    "cuda"
+   ],
+   "afeta_resultado": false,
+   "nome": "tagger.stanza.opt.device.name",
+   "explicacao": "tagger.stanza.opt.device.explain"
+  },
+  {
+   "id": "pos_batch_size",
+   "grupo": "desempenho",
+   "tipo": "inteiro",
+   "padrao": 5000,
+   "afeta_resultado": false,
+   "nome": "tagger.stanza.opt.pos_batch_size.name",
+   "explicacao": "tagger.stanza.opt.pos_batch_size.explain",
+   "min": 1
+  },
+  {
+   "id": "model_dir",
+   "grupo": "avancado",
+   "tipo": "texto",
+   "padrao": "",
+   "afeta_resultado": false,
+   "nome": "tagger.stanza.opt.model_dir.name",
+   "explicacao": "tagger.stanza.opt.model_dir.explain"
+  }
+ ],
+ "presets": {
+  "rapido": {
+   "package": "default_fast",
+   "components": [
+    "pos"
+   ]
+  },
+  "recomendado": {
+   "package": "default",
+   "components": [
+    "morph",
+    "pos"
+   ]
+  },
+  "preciso": {
+   "package": "default_accurate",
+   "components": [
+    "lemma",
+    "morph",
+    "pos"
+   ]
+  }
+ }
+}

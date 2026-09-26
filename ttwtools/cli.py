@@ -95,8 +95,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
     "describe":       ("Estatísticas e descrição de um corpus", "1.7"),
-    "tagger-options": ("Lista os taggers disponíveis e suas opções", "1.5"),
-    "tagset":         ("Mostra o tagset de um tagger", "1.5"),
     "kwic":           ("Concordância (palavra-chave em contexto)", "1.8"),
     "freq":           ("Listas de frequência", "1.8"),
     "keywords":       ("Palavras-chave contra um corpus de referência", "1.9"),
@@ -173,7 +171,7 @@ def _cmd_tag(args: argparse.Namespace) -> int:
     from .annotate import tag_corpus
     from .corpus import parse_where
     options = {}
-    for item in args.option or []:
+    for item in args.set or []:
         key, sep, value = item.partition("=")
         if not sep:
             raise SystemExit(f"ttwtools: opção inválida '{item}' (use chave=valor)")
@@ -186,7 +184,8 @@ def _cmd_tag(args: argparse.Namespace) -> int:
     with _open_or_create(args.project, create=False) as proj:
         report = tag_corpus(proj, args.corpus, args.tagger, options,
                             components=args.components.split(",") if args.components else None,
-                            where=parse_where(args.where or []), force=args.force, progress=progress)
+                            where=parse_where(args.where or []), force=args.force, progress=progress,
+                            preset=args.preset)
     report["layer_ids"] = len(report["layer_ids"])
     emit(report, args.format)
     return EXIT_OK
@@ -195,12 +194,78 @@ def _cmd_tag(args: argparse.Namespace) -> int:
 def _configure_tag(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", required=True, help="corpus a etiquetar")
-    p.add_argument("--tagger", required=True, help="spacy, stanza, mfte ou biberplus")
-    p.add_argument("--option", action="append", metavar="CHAVE=VALOR",
-                   help="opção do tagger (ex.: model=en_core_web_sm, extended=false)")
+    p.add_argument("--tagger", required=True, help="spacy, stanza, mfte ou biberplus (ou atalhos: spacy_upos...)")
+    p.add_argument("--set", "--option", dest="set", action="append", metavar="CHAVE=VALOR",
+                   help="opção do tagger (ex.: model=en_core_web_sm, extended=false); ver tagger-options")
+    p.add_argument("--preset", choices=["rapido", "recomendado", "preciso"], help="predefinição de opções")
     p.add_argument("--components", help="componentes, separados por vírgula (ex.: pos,lemma)")
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
     p.add_argument("--force", action="store_true", help="etiquetar de novo mesmo havendo camada")
+
+
+def _cmd_tagger_options(args: argparse.Namespace) -> int:
+    from .i18n import t
+    from .taggers import catalog
+    if not args.tagger:
+        rows = [{"tagger": a["id"], "disponivel": "sim" if a["disponivel"] else "não", "atalhos": ", ".join(a["atalhos"]),
+                 "motivo": a["motivo"]} for a in catalog.available(args.lang)]
+        emit(rows, args.format)
+        return EXIT_OK
+    d = catalog.options(args.tagger, lang=args.lang)
+    if args.format == "json":
+        emit(d, "json")
+        return EXIT_OK
+    rows = []
+    for o in d["options"]:
+        rows.append({
+            "opcao": o["id"],
+            "grupo": t(f"tagger.group.{o['grupo']}", args.lang),
+            "padrao": o["padrao"],
+            "valores": ", ".join(map(str, o.get("valores", []))),
+            "efeito": t("tagger.affects.yes" if o["afeta_resultado"] else "tagger.affects.no", args.lang),
+            "explicacao": o["explicacao"],
+        })
+    if args.format == "table":
+        print(f"{d['name']} — {d['about']}\n")
+        emit(rows, "table", columns=["opcao", "grupo", "padrao", "valores", "efeito"])
+        print()
+        for r in rows:
+            print(f"  {r['opcao']}: {r['explicacao']}")
+        presets = "; ".join(f"{t('tagger.preset.' + k, args.lang)} ({k}): "
+                            + ", ".join(f"{kk}={vv}" for kk, vv in val.items()) for k, val in d.get("presets", {}).items())
+        print(f"\n  --preset → {presets}")
+    else:
+        emit(rows, args.format)
+    return EXIT_OK
+
+
+def _cmd_tagset(args: argparse.Namespace) -> int:
+    from .taggers import catalog
+    if not args.id:
+        emit([{"tagset": name} for name in catalog.list_tagsets()], args.format)
+        return EXIT_OK
+    ts = catalog.get_tagset(args.id, lang=args.lang, group=args.group)
+    if args.format == "json":
+        emit(ts, "json")
+        return EXIT_OK
+    groups = {g["id"]: g["label"] for g in ts["groups"]}
+    rows = [{"tag": tg["tag"], "grupo": groups.get(tg["group"], tg["group"]), "definicao": tg["definition"],
+             "exemplo": tg["example"]} for tg in ts["tags"]]
+    if args.format == "table":
+        print(f"{ts['name']} — {ts['about']}\n")
+    emit(rows, args.format)
+    return EXIT_OK
+
+
+def _configure_tagger_options(p: argparse.ArgumentParser) -> None:
+    p.add_argument("tagger", nargs="?", help="spacy, stanza, mfte, biberplus ou atalho; vazio = disponibilidade")
+    p.add_argument("--lang", choices=["pt", "en"], help="idioma das explicações (padrão: TTWTOOLS_LANG ou pt)")
+
+
+def _configure_tagset(p: argparse.ArgumentParser) -> None:
+    p.add_argument("id", nargs="?", help="tagset (upos, ptb, biber, mfte) ou tagger (spacy_upos, biberplus...)")
+    p.add_argument("--group", help="só as tags deste grupo")
+    p.add_argument("--lang", choices=["pt", "en"], help="idioma das definições")
 
 
 def _configure_import(p: argparse.ArgumentParser) -> None:
@@ -233,6 +298,10 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_documents, _cmd_documents),
     "tag":       ("Etiqueta um corpus, reaproveitando camadas já feitas",
                   _configure_tag, _cmd_tag),
+    "tagger-options": ("Opções de um tagger, com explicações (sem argumento: disponibilidade)",
+                       _configure_tagger_options, _cmd_tagger_options),
+    "tagset":    ("Repertório de tags de um tagger ou tagset, com definições",
+                  _configure_tagset, _cmd_tagset),
 }
 
 

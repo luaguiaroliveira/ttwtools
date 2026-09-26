@@ -19,7 +19,8 @@ from typing import Any
 # Chaves do metadado JSONL que identificam o arquivo, não a configuração
 _BASE_META_KEYS = {"type", "tagger", "tagger_version", "filename"}
 # Opções de desempenho: guardadas na config, mas fora do config_hash
-PERFORMANCE_KEYS = {"device", "use_gpu", "n_processes", "batch_size", "processing_size",
+PERFORMANCE_KEYS = {"device", "use_gpu", "n_processes", "n_process", "batch_size", "processing_size",
+                    "pos_batch_size", "tokenize_batch_size", "max_length", "model_dir",
                     "show_progress", "combined_pass"}
 # Chaves que indicam o modelo usado
 _MODEL_KEYS = ("model", "spacy_model", "stanza_model")

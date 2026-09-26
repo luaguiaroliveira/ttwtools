@@ -1,0 +1,129 @@
+{
+ "tagset": "upos",
+ "name": "tagset.upos.name",
+ "about": "tagset.upos.about",
+ "source": "https://universaldependencies.org/u/pos/",
+ "taggers": [
+  "spacy",
+  "stanza",
+  "mfte"
+ ],
+ "groups": [
+  {
+   "id": "open",
+   "label": "tagset.upos.group.open"
+  },
+  {
+   "id": "closed",
+   "label": "tagset.upos.group.closed"
+  },
+  {
+   "id": "other",
+   "label": "tagset.upos.group.other"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "ADJ",
+   "group": "open",
+   "definition": "tagset.upos.tag.ADJ",
+   "example": "big, old, green"
+  },
+  {
+   "tag": "ADV",
+   "group": "open",
+   "definition": "tagset.upos.tag.ADV",
+   "example": "very, well, exactly"
+  },
+  {
+   "tag": "INTJ",
+   "group": "open",
+   "definition": "tagset.upos.tag.INTJ",
+   "example": "oh, hello, wow"
+  },
+  {
+   "tag": "NOUN",
+   "group": "open",
+   "definition": "tagset.upos.tag.NOUN",
+   "example": "girl, cat, idea"
+  },
+  {
+   "tag": "PROPN",
+   "group": "open",
+   "definition": "tagset.upos.tag.PROPN",
+   "example": "Mary, London, NATO"
+  },
+  {
+   "tag": "VERB",
+   "group": "open",
+   "definition": "tagset.upos.tag.VERB",
+   "example": "run, eat, think"
+  },
+  {
+   "tag": "ADP",
+   "group": "closed",
+   "definition": "tagset.upos.tag.ADP",
+   "example": "in, to, during"
+  },
+  {
+   "tag": "AUX",
+   "group": "closed",
+   "definition": "tagset.upos.tag.AUX",
+   "example": "has, will, should, is"
+  },
+  {
+   "tag": "CCONJ",
+   "group": "closed",
+   "definition": "tagset.upos.tag.CCONJ",
+   "example": "and, or, but"
+  },
+  {
+   "tag": "DET",
+   "group": "closed",
+   "definition": "tagset.upos.tag.DET",
+   "example": "a, the, this"
+  },
+  {
+   "tag": "NUM",
+   "group": "closed",
+   "definition": "tagset.upos.tag.NUM",
+   "example": "1, 2026, one, seventy"
+  },
+  {
+   "tag": "PART",
+   "group": "closed",
+   "definition": "tagset.upos.tag.PART",
+   "example": "to, 's, not"
+  },
+  {
+   "tag": "PRON",
+   "group": "closed",
+   "definition": "tagset.upos.tag.PRON",
+   "example": "I, you, herself, who"
+  },
+  {
+   "tag": "SCONJ",
+   "group": "closed",
+   "definition": "tagset.upos.tag.SCONJ",
+   "example": "that, if, while"
+  },
+  {
+   "tag": "PUNCT",
+   "group": "other",
+   "definition": "tagset.upos.tag.PUNCT",
+   "example": ". , ( ) ?"
+  },
+  {
+   "tag": "SYM",
+   "group": "other",
+   "definition": "tagset.upos.tag.SYM",
+   "example": "$, %, §, :)"
+  },
+  {
+   "tag": "X",
+   "group": "other",
+   "definition": "tagset.upos.tag.X",
+   "example": "etc., xfgh"
+  }
+ ]
+}

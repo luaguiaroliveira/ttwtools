@@ -56,8 +56,16 @@ except Exception:
 #: Default spaCy English model.  Override via the ``spacy_model`` parameter.
 DEFAULT_SPACY_MODEL = "en_core_web_sm"
 
-#: Components disabled by default — POS tagging does not need parser or NER.
-_DISABLED = ["ner", "parser"]
+def disabled_pipes(components=None) -> list[str]:
+    """Pipes do spaCy a desligar para os componentes pedidos (pos, tag, lemma, morph).
+
+    Parser e NER nunca são necessários para etiquetar; o lematizador só se o lema
+    for pedido. Padrão: componentes padrão do descritor (data/taggers/spacy.options.json).
+    """
+    if components is None:
+        from .catalog import default_components
+        components = default_components("spacy")
+    return ["ner", "parser"] + ([] if "lemma" in components else ["lemmatizer"])
 
 # ---------------------------------------------------------------------------
 # Pipeline cache
@@ -66,12 +74,21 @@ _DISABLED = ["ner", "parser"]
 _pipeline_cache: dict = {}
 
 
-def _load_spacy_pipeline(model_name: str = DEFAULT_SPACY_MODEL):
-    """Return a cached spaCy NLP pipeline for *model_name*."""
-    if model_name not in _pipeline_cache:
+def _load_spacy_pipeline(model_name: str = DEFAULT_SPACY_MODEL, disable: list[str] | None = None):
+    """Return a cached spaCy NLP pipeline for *model_name* (pipes em `disable` desligados)."""
+    disable = disabled_pipes() if disable is None else disable
+    key = (model_name, tuple(disable))
+    if key not in _pipeline_cache:
         import spacy  # noqa: lazy import
-        _pipeline_cache[model_name] = spacy.load(model_name, disable=_DISABLED)
-    return _pipeline_cache[model_name]
+        try:
+            _pipeline_cache[key] = spacy.load(model_name, disable=disable)
+        except OSError as exc:
+            from .catalog import TaggerUnavailable
+            from ..i18n import t
+            command = f"python -m spacy download {model_name}"
+            raise TaggerUnavailable("spacy", t("tagger.reason.missing_model", model=model_name, command=command),
+                                    command) from exc
+    return _pipeline_cache[key]
 
 
 # ---------------------------------------------------------------------------

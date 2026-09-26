@@ -1,0 +1,71 @@
+{
+ "tagger": "biberplus",
+ "name": "tagger.biberplus.name",
+ "about": "tagger.biberplus.about",
+ "aliases": {
+  "biberplus": {
+   "tagset": "biber"
+  }
+ },
+ "tagsets": {
+  "tags": "biber"
+ },
+ "langs": [
+  "en"
+ ],
+ "requires": [
+  "biberplus",
+  "spacy"
+ ],
+ "options": [
+  {
+   "id": "function_words",
+   "grupo": "extrair",
+   "tipo": "booleano",
+   "padrao": false,
+   "afeta_resultado": true,
+   "nome": "tagger.biberplus.opt.function_words.name",
+   "explicacao": "tagger.biberplus.opt.function_words.explain"
+  },
+  {
+   "id": "binary_tags",
+   "grupo": "extrair",
+   "tipo": "booleano",
+   "padrao": false,
+   "afeta_resultado": true,
+   "nome": "tagger.biberplus.opt.binary_tags.name",
+   "explicacao": "tagger.biberplus.opt.binary_tags.explain"
+  },
+  {
+   "id": "n_processes",
+   "grupo": "desempenho",
+   "tipo": "inteiro",
+   "padrao": 1,
+   "afeta_resultado": false,
+   "nome": "tagger.biberplus.opt.n_processes.name",
+   "explicacao": "tagger.biberplus.opt.n_processes.explain",
+   "min": 1
+  },
+  {
+   "id": "processing_size",
+   "grupo": "desempenho",
+   "tipo": "inteiro",
+   "padrao": 10000,
+   "afeta_resultado": false,
+   "nome": "tagger.biberplus.opt.processing_size.name",
+   "explicacao": "tagger.biberplus.opt.processing_size.explain",
+   "min": 100
+  }
+ ],
+ "presets": {
+  "rapido": {
+   "function_words": false
+  },
+  "recomendado": {
+   "function_words": false
+  },
+  "preciso": {
+   "function_words": false
+  }
+ }
+}

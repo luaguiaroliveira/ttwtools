@@ -1,0 +1,347 @@
+{
+ "tagset": "ptb",
+ "name": "tagset.ptb.name",
+ "about": "tagset.ptb.about",
+ "source": "https://catalog.ldc.upenn.edu/docs/LDC99T42/tagguid1.pdf",
+ "taggers": [
+  "spacy",
+  "stanza",
+  "mfte"
+ ],
+ "groups": [
+  {
+   "id": "noun",
+   "label": "tagset.ptb.group.noun"
+  },
+  {
+   "id": "verb",
+   "label": "tagset.ptb.group.verb"
+  },
+  {
+   "id": "adj",
+   "label": "tagset.ptb.group.adj"
+  },
+  {
+   "id": "adv",
+   "label": "tagset.ptb.group.adv"
+  },
+  {
+   "id": "pron",
+   "label": "tagset.ptb.group.pron"
+  },
+  {
+   "id": "func",
+   "label": "tagset.ptb.group.func"
+  },
+  {
+   "id": "punct",
+   "label": "tagset.ptb.group.punct"
+  },
+  {
+   "id": "other",
+   "label": "tagset.ptb.group.other"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "NN",
+   "group": "noun",
+   "definition": "tagset.ptb.tag.NN",
+   "example": "cat, water"
+  },
+  {
+   "tag": "NNS",
+   "group": "noun",
+   "definition": "tagset.ptb.tag.NNS",
+   "example": "cats, ideas"
+  },
+  {
+   "tag": "NNP",
+   "group": "noun",
+   "definition": "tagset.ptb.tag.NNP",
+   "example": "London, Mary"
+  },
+  {
+   "tag": "NNPS",
+   "group": "noun",
+   "definition": "tagset.ptb.tag.NNPS",
+   "example": "Americans, Alps"
+  },
+  {
+   "tag": "VB",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.VB",
+   "example": "take, be"
+  },
+  {
+   "tag": "VBD",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.VBD",
+   "example": "took, was"
+  },
+  {
+   "tag": "VBG",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.VBG",
+   "example": "taking, being"
+  },
+  {
+   "tag": "VBN",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.VBN",
+   "example": "taken, been"
+  },
+  {
+   "tag": "VBP",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.VBP",
+   "example": "take, are"
+  },
+  {
+   "tag": "VBZ",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.VBZ",
+   "example": "takes, is"
+  },
+  {
+   "tag": "MD",
+   "group": "verb",
+   "definition": "tagset.ptb.tag.MD",
+   "example": "can, would, must"
+  },
+  {
+   "tag": "JJ",
+   "group": "adj",
+   "definition": "tagset.ptb.tag.JJ",
+   "example": "big, green"
+  },
+  {
+   "tag": "JJR",
+   "group": "adj",
+   "definition": "tagset.ptb.tag.JJR",
+   "example": "bigger, better"
+  },
+  {
+   "tag": "JJS",
+   "group": "adj",
+   "definition": "tagset.ptb.tag.JJS",
+   "example": "biggest, best"
+  },
+  {
+   "tag": "AFX",
+   "group": "adj",
+   "definition": "tagset.ptb.tag.AFX",
+   "example": "pre-, non-"
+  },
+  {
+   "tag": "RB",
+   "group": "adv",
+   "definition": "tagset.ptb.tag.RB",
+   "example": "quickly, very, not"
+  },
+  {
+   "tag": "RBR",
+   "group": "adv",
+   "definition": "tagset.ptb.tag.RBR",
+   "example": "faster, more"
+  },
+  {
+   "tag": "RBS",
+   "group": "adv",
+   "definition": "tagset.ptb.tag.RBS",
+   "example": "fastest, most"
+  },
+  {
+   "tag": "RP",
+   "group": "adv",
+   "definition": "tagset.ptb.tag.RP",
+   "example": "up (in give up), off"
+  },
+  {
+   "tag": "WRB",
+   "group": "adv",
+   "definition": "tagset.ptb.tag.WRB",
+   "example": "where, when, how"
+  },
+  {
+   "tag": "PRP",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.PRP",
+   "example": "I, she, them"
+  },
+  {
+   "tag": "PRP$",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.PRP$",
+   "example": "my, her, their"
+  },
+  {
+   "tag": "WP",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.WP",
+   "example": "who, what"
+  },
+  {
+   "tag": "WP$",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.WP$",
+   "example": "whose"
+  },
+  {
+   "tag": "DT",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.DT",
+   "example": "the, a, this"
+  },
+  {
+   "tag": "PDT",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.PDT",
+   "example": "all (in all the), both"
+  },
+  {
+   "tag": "WDT",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.WDT",
+   "example": "which, that (relative)"
+  },
+  {
+   "tag": "EX",
+   "group": "pron",
+   "definition": "tagset.ptb.tag.EX",
+   "example": "there (in there is)"
+  },
+  {
+   "tag": "IN",
+   "group": "func",
+   "definition": "tagset.ptb.tag.IN",
+   "example": "in, of, because"
+  },
+  {
+   "tag": "TO",
+   "group": "func",
+   "definition": "tagset.ptb.tag.TO",
+   "example": "to"
+  },
+  {
+   "tag": "CC",
+   "group": "func",
+   "definition": "tagset.ptb.tag.CC",
+   "example": "and, but, or"
+  },
+  {
+   "tag": "CD",
+   "group": "func",
+   "definition": "tagset.ptb.tag.CD",
+   "example": "3, twenty"
+  },
+  {
+   "tag": "POS",
+   "group": "func",
+   "definition": "tagset.ptb.tag.POS",
+   "example": "'s"
+  },
+  {
+   "tag": "UH",
+   "group": "func",
+   "definition": "tagset.ptb.tag.UH",
+   "example": "oh, uh, yes"
+  },
+  {
+   "tag": "LS",
+   "group": "func",
+   "definition": "tagset.ptb.tag.LS",
+   "example": "a), 1."
+  },
+  {
+   "tag": "FW",
+   "group": "other",
+   "definition": "tagset.ptb.tag.FW",
+   "example": "et, cetera"
+  },
+  {
+   "tag": "ADD",
+   "group": "other",
+   "definition": "tagset.ptb.tag.ADD",
+   "example": "www.example.com"
+  },
+  {
+   "tag": "XX",
+   "group": "other",
+   "definition": "tagset.ptb.tag.XX",
+   "example": ""
+  },
+  {
+   "tag": "_SP",
+   "group": "other",
+   "definition": "tagset.ptb.tag._SP",
+   "example": ""
+  },
+  {
+   "tag": ",",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.,",
+   "example": ","
+  },
+  {
+   "tag": ".",
+   "group": "punct",
+   "definition": "tagset.ptb.tag..",
+   "example": ". ? !"
+  },
+  {
+   "tag": ":",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.:",
+   "example": ": ; -- ..."
+  },
+  {
+   "tag": "``",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.``",
+   "example": "“ ``"
+  },
+  {
+   "tag": "''",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.''",
+   "example": "” ''"
+  },
+  {
+   "tag": "-LRB-",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.-LRB-",
+   "example": "( ["
+  },
+  {
+   "tag": "-RRB-",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.-RRB-",
+   "example": ") ]"
+  },
+  {
+   "tag": "HYPH",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.HYPH",
+   "example": "-"
+  },
+  {
+   "tag": "NFP",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.NFP",
+   "example": "***, ..."
+  },
+  {
+   "tag": "$",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.$",
+   "example": "$, £"
+  },
+  {
+   "tag": "SYM",
+   "group": "punct",
+   "definition": "tagset.ptb.tag.SYM",
+   "example": "%, &, +"
+  }
+ ]
+}

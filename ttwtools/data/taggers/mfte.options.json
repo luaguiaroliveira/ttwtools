@@ -1,0 +1,104 @@
+{
+ "tagger": "mfte",
+ "name": "tagger.mfte.name",
+ "about": "tagger.mfte.about",
+ "aliases": {
+  "mfte": {
+   "tagset": "mfte"
+  },
+  "mfte_ext": {
+   "tagset": "mfte",
+   "options": {
+    "extended": true
+   }
+  }
+ },
+ "tagsets": {
+  "tags": "mfte",
+  "xpos": "ptb",
+  "upos": "upos"
+ },
+ "langs": [
+  "en"
+ ],
+ "requires": [
+  "torch",
+  "stanza",
+  "MFTE"
+ ],
+ "options": [
+  {
+   "id": "extended",
+   "grupo": "extrair",
+   "tipo": "booleano",
+   "padrao": true,
+   "afeta_resultado": true,
+   "nome": "tagger.mfte.opt.extended.name",
+   "explicacao": "tagger.mfte.opt.extended.explain"
+  },
+  {
+   "id": "components",
+   "grupo": "extrair",
+   "tipo": "lista",
+   "padrao": [
+    "mfte",
+    "morph",
+    "pos"
+   ],
+   "valores": [
+    "mfte",
+    "pos",
+    "morph"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.mfte.opt.components.name",
+   "explicacao": "tagger.mfte.opt.components.explain"
+  },
+  {
+   "id": "lang",
+   "grupo": "modelo",
+   "tipo": "escolha",
+   "padrao": "en",
+   "valores": [
+    "en"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.mfte.opt.lang.name",
+   "explicacao": "tagger.mfte.opt.lang.explain"
+  },
+  {
+   "id": "device",
+   "grupo": "desempenho",
+   "tipo": "escolha",
+   "padrao": "auto",
+   "valores": [
+    "auto",
+    "cpu",
+    "cuda"
+   ],
+   "afeta_resultado": false,
+   "nome": "tagger.mfte.opt.device.name",
+   "explicacao": "tagger.mfte.opt.device.explain"
+  },
+  {
+   "id": "model_dir",
+   "grupo": "avancado",
+   "tipo": "texto",
+   "padrao": "",
+   "afeta_resultado": false,
+   "nome": "tagger.mfte.opt.model_dir.name",
+   "explicacao": "tagger.mfte.opt.model_dir.explain"
+  }
+ ],
+ "presets": {
+  "rapido": {
+   "extended": false
+  },
+  "recomendado": {
+   "extended": true
+  },
+  "preciso": {
+   "extended": true
+  }
+ }
+}

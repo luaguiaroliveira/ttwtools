@@ -62,6 +62,7 @@ class Backend:
 # ---------------------------------------------------------------------------
 
 class SpacyBackend(Backend):
+    """Opções: data/taggers/spacy.options.json (model, components, max_length...)."""
     name = "spacy"
     defaults = {"model": "en_core_web_sm"}
     # pos = UPOS (token.pos_), tag = Penn/XPOS (token.tag_), lemma, morph = traços (feats)
@@ -74,14 +75,11 @@ class SpacyBackend(Backend):
     def model(self, options: dict) -> str:
         return options["model"]
 
-    def _nlp(self, options: dict):
-        key = ("spacy", options["model"])
-        if key not in _pipelines:
-            import spacy
-            nlp = spacy.load(options["model"], disable=["ner", "parser"])
-            nlp.max_length = 5_000_000
-            _pipelines[key] = nlp
-        return _pipelines[key]
+    def _nlp(self, options: dict, components):
+        from .taggers.spacy_pos import _load_spacy_pipeline, disabled_pipes
+        nlp = _load_spacy_pipeline(options["model"], disable=disabled_pipes(components))
+        nlp.max_length = int(options.get("max_length", 5_000_000))
+        return nlp
 
     def model_version(self, options: dict) -> str:
         # pelos metadados do pacote do modelo: não carrega o pipeline
@@ -90,7 +88,7 @@ class SpacyBackend(Backend):
     def tag(self, text, options, components):
         from .taggers.spacy_pos import tag_from_doc_spacy_pos
         stripped, offset_map = _strip_markup(text)
-        tokens = tag_from_doc_spacy_pos(self._nlp(options)(stripped), text, offset_map, mode="upos")
+        tokens = tag_from_doc_spacy_pos(self._nlp(options, components)(stripped), text, offset_map, mode="upos")
         drop = {"pos": "upos", "tag": "ptb", "lemma": "lemma", "morph": "feats"}
         for comp, field in drop.items():
             if comp not in components:
@@ -105,21 +103,30 @@ class SpacyBackend(Backend):
 # Stanza (e MFTE, que usa o mesmo pipeline)
 # ---------------------------------------------------------------------------
 
-def _stanza_nlp(lang: str, processors: str):
-    key = ("stanza", lang, processors)
-    if key not in _pipelines:
-        import stanza
-        from .taggers.stanza_pos import _detect_device
-        _pipelines[key] = stanza.Pipeline(
-            lang, processors=processors, device=_detect_device(), verbose=False,
-            download_method=stanza.DownloadMethod.REUSE_RESOURCES,
-        )
-    return _pipelines[key]
+def _require_torch(tagger: str) -> None:
+    from .taggers.catalog import TaggerUnavailable, _torch_status
+    from .i18n import t
+    ok, why = _torch_status()
+    if not ok:
+        raise TaggerUnavailable(tagger, t(f"tagger.reason.{why[0]}", **why[1]))
+
+
+def _stanza_nlp(tagger: str, options: dict, processors: str):
+    _require_torch(tagger)
+    from .taggers.stanza_pos import _detect_device, _load_stanza_pipeline
+    device = options.get("device", "auto")
+    extra = {k: options[k] for k in ("tokenize_no_ssplit", "tokenize_pretokenized", "pos_batch_size") if k in options}
+    return _load_stanza_pipeline(
+        _detect_device() if device == "auto" else device, options.get("model_dir") or None,
+        lang=options.get("lang", "en"), package=options.get("package", "default"),
+        processors=processors, download=False, **extra,
+    )
 
 
 class StanzaBackend(Backend):
+    """Opções: data/taggers/stanza.options.json (lang, package, components, tokenize_*...)."""
     name = "stanza"
-    defaults = {"lang": "en", "package": "default"}
+    defaults = {"lang": "en", "package": "default", "tokenize_no_ssplit": False, "tokenize_pretokenized": False}
     components = ("pos", "morph", "lemma")
     default_components = ("pos", "morph")      # lema pede outro processador (mais lento)
 
@@ -133,7 +140,7 @@ class StanzaBackend(Backend):
         from .taggers.stanza_pos import tag_from_doc_stanza_pos
         processors = "tokenize,pos" + (",lemma" if "lemma" in components else "")
         stripped, offset_map = _strip_markup(text)
-        doc = _stanza_nlp(options["lang"], processors)(stripped)
+        doc = _stanza_nlp(self.name, options, processors)(stripped)
         tokens = tag_from_doc_stanza_pos(doc, text, offset_map, mode="upos")
         for t in tokens:
             t["tags"] = []
@@ -143,6 +150,7 @@ class StanzaBackend(Backend):
 
 
 class MfteBackend(Backend):
+    """Opções: data/taggers/mfte.options.json (extended, lang, device...)."""
     name = "mfte"
     defaults = {"extended": True, "lang": "en"}
     components = ("mfte", "pos", "morph")
@@ -160,8 +168,14 @@ class MfteBackend(Backend):
     def tag(self, text, options, components):
         from .taggers.mfte import tag_from_doc_mfte
         stripped, offset_map = _strip_markup(text)
-        doc = _stanza_nlp(options["lang"], "tokenize,pos")(stripped)
-        return tag_from_doc_mfte(doc, text, offset_map, extended=bool(options["extended"]))
+        doc = _stanza_nlp(self.name, {**options, "package": "default"}, "tokenize,pos")(stripped)
+        tokens = tag_from_doc_mfte(doc, text, offset_map, extended=bool(options["extended"]))
+        for t in tokens:
+            if "pos" not in components:
+                t.pop("upos", None)
+            if "morph" not in components:
+                t.pop("feats", None)
+        return tokens
 
 
 # ---------------------------------------------------------------------------
@@ -170,7 +184,7 @@ class MfteBackend(Backend):
 
 class BiberPlusBackend(Backend):
     name = "biberplus"
-    defaults = {"biber": True, "function_words": False, "binary_tags": False}
+    defaults = {"function_words": False, "binary_tags": False}
     components = ("biber",)
     default_components = ("biber",)
 
@@ -191,10 +205,10 @@ class BiberPlusBackend(Backend):
         return _pipelines[key]
 
     def tag(self, text, options, components):
-        from biberplus.tagger import load_config, tag_text
+        from biberplus.tagger import load_config, tag_text  # ImportError → indisponível (tag_corpus)
         from .taggers.biberplus import _tokens_with_offsets_regex
         config = load_config()
-        config.update({k: options[k] for k in self.defaults})
+        config.update({k: options[k] for k in ("function_words", "binary_tags") if k in options})
         config.update({k: options[k] for k in ("n_processes", "processing_size") if k in options})
         stripped, offset_map = _strip_markup(text)
         tagged_words = tag_text(stripped, pipeline=self._pipeline(config), config=config)
@@ -205,6 +219,11 @@ BACKENDS: dict[str, Backend] = {b.name: b for b in (SpacyBackend(), StanzaBacken
 
 
 def get_backend(name: str) -> Backend:
+    """Adaptador pelo nome ou por um atalho do descritor (spacy_upos → spacy, mfte_ext → mfte)."""
+    if name not in BACKENDS:
+        from .taggers.catalog import has_descriptor, resolve
+        if has_descriptor(name):
+            name = resolve(name)[0]
     try:
         return BACKENDS[name]
     except KeyError:

@@ -1,0 +1,129 @@
+{
+ "tagger": "spacy",
+ "name": "tagger.spacy.name",
+ "about": "tagger.spacy.about",
+ "aliases": {
+  "spacy_upos": {
+   "tagset": "upos"
+  },
+  "spacy_ptb": {
+   "tagset": "ptb"
+  }
+ },
+ "tagsets": {
+  "upos": "upos",
+  "xpos": "ptb"
+ },
+ "langs": [
+  "en"
+ ],
+ "requires": [
+  "spacy"
+ ],
+ "options": [
+  {
+   "id": "model",
+   "grupo": "modelo",
+   "tipo": "escolha",
+   "padrao": "en_core_web_sm",
+   "valores": [
+    "en_core_web_sm",
+    "en_core_web_md",
+    "en_core_web_lg",
+    "en_core_web_trf"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.spacy.opt.model.name",
+   "explicacao": "tagger.spacy.opt.model.explain",
+   "impacto": {
+    "velocidade": "maior",
+    "memoria": "maior",
+    "download": "talvez"
+   },
+   "disponibilidade": {
+    "tipo": "spacy_model"
+   },
+   "instalar": "python -m spacy download {value}"
+  },
+  {
+   "id": "components",
+   "grupo": "extrair",
+   "tipo": "lista",
+   "padrao": [
+    "lemma",
+    "morph",
+    "pos",
+    "tag"
+   ],
+   "valores": [
+    "pos",
+    "tag",
+    "lemma",
+    "morph"
+   ],
+   "afeta_resultado": true,
+   "nome": "tagger.spacy.opt.components.name",
+   "explicacao": "tagger.spacy.opt.components.explain",
+   "impacto": {
+    "velocidade": "maior"
+   }
+  },
+  {
+   "id": "batch_size",
+   "grupo": "desempenho",
+   "tipo": "inteiro",
+   "padrao": 32,
+   "afeta_resultado": false,
+   "nome": "tagger.spacy.opt.batch_size.name",
+   "explicacao": "tagger.spacy.opt.batch_size.explain",
+   "min": 1
+  },
+  {
+   "id": "n_process",
+   "grupo": "desempenho",
+   "tipo": "inteiro",
+   "padrao": 1,
+   "afeta_resultado": false,
+   "nome": "tagger.spacy.opt.n_process.name",
+   "explicacao": "tagger.spacy.opt.n_process.explain",
+   "min": 1
+  },
+  {
+   "id": "max_length",
+   "grupo": "avancado",
+   "tipo": "inteiro",
+   "padrao": 5000000,
+   "afeta_resultado": false,
+   "nome": "tagger.spacy.opt.max_length.name",
+   "explicacao": "tagger.spacy.opt.max_length.explain",
+   "min": 1000
+  }
+ ],
+ "presets": {
+  "rapido": {
+   "model": "en_core_web_sm",
+   "components": [
+    "pos",
+    "tag"
+   ]
+  },
+  "recomendado": {
+   "model": "en_core_web_sm",
+   "components": [
+    "lemma",
+    "morph",
+    "pos",
+    "tag"
+   ]
+  },
+  "preciso": {
+   "model": "en_core_web_trf",
+   "components": [
+    "lemma",
+    "morph",
+    "pos",
+    "tag"
+   ]
+  }
+ }
+}

@@ -7,6 +7,7 @@ rápido e só importa spaCy, pandas, torch etc. quando a função é usada.
 from __future__ import annotations
 
 import importlib
+from types import ModuleType
 from typing import TYPE_CHECKING
 
 from ._version import __version__
@@ -79,6 +80,8 @@ def __getattr__(name: str):
         return importlib.import_module(f".{name}", __name__)
     if name in _EXPORTS:
         value = getattr(importlib.import_module(f".{_EXPORTS[name]}", __name__), name)
+        if isinstance(value, ModuleType):   # submódulo com o mesmo nome da função (biberplus, mfte)
+            value = getattr(value, name)
         globals()[name] = value
         return value
     raise AttributeError(f"module {__name__!r} has no attribute {name!r}")

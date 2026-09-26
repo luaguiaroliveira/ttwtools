@@ -120,18 +120,9 @@ def _load_stanza_pipeline(device: str, model_dir: Optional[str] = None):
     if model_dir is None:
         model_dir = os.environ.get("STANZA_RESOURCES_DIR") or None
 
-    key = (device, model_dir or "")
-    if key not in _pipeline_cache:
-        kwargs: dict = {
-            "processors": "tokenize,pos",
-            "device": device,
-            "verbose": False,
-            "download_method": stanza.DownloadMethod.REUSE_RESOURCES,
-        }
-        if model_dir:
-            kwargs["dir"] = model_dir
-        _pipeline_cache[key] = stanza.Pipeline("en", **kwargs)
-    return _pipeline_cache[key]
+    # Mesmo carregador do Stanza (idioma, pacote e processadores vêm do descritor)
+    from .stanza_pos import _load_stanza_pipeline as _shared_loader
+    return _shared_loader(device, model_dir)
 
 
 # ---------------------------------------------------------------------------

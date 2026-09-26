@@ -24,25 +24,45 @@ from .project import TTWAProject
 
 
 def build_request(tagger: str, options: Mapping[str, Any] | None = None,
-                  components: Iterable[str] | None = None) -> dict:
+                  components: Iterable[str] | None = None, preset: str | None = None) -> dict:
     """Normaliza um pedido: opções padrão por extenso, componentes e versões.
+
+    tagger  — nome ou atalho (spacy, spacy_upos, stanza_xpos, mfte_ext, biberplus...)
+    options — dicionário único de opções, validado contra o descritor do tagger
+              (data/taggers/<tagger>.options.json); `components` pode vir aqui ou à parte
+    preset  — "rapido", "recomendado" ou "preciso": preenche opções (as explícitas vencem)
 
     Devolve {"tool", "tool_version", "model", "config", "performance"}; `config`
     é a configuração efetiva que identifica a camada (sem as opções de desempenho).
     """
-    backend = get_backend(tagger)
+    from .taggers import catalog
     options = dict(options or {})
-    performance = {k: options.pop(k) for k in list(options) if k in _layers.PERFORMANCE_KEYS}
-    unknown = sorted(set(options) - set(backend.defaults))
-    if unknown:
-        raise ValueError(f"opções desconhecidas para '{tagger}': {', '.join(unknown)} "
-                         f"(aceitas: {', '.join(sorted(backend.defaults))})")
-    effective = {**backend.defaults, **options}
-    comps = sorted(set(components or backend.default_components))
-    bad = sorted(set(comps) - set(backend.components))
-    if bad:
-        raise ValueError(f"componentes indisponíveis em '{tagger}': {', '.join(bad)} "
-                         f"(disponíveis: {', '.join(backend.components)})")
+    if catalog.has_descriptor(tagger):
+        name, info = catalog.resolve(tagger)
+        backend = get_backend(name)
+        merged = {**(catalog.preset(name, preset) if preset else {}), **info.get("options", {}), **options}
+        if components is not None:
+            merged["components"] = list(components)
+        catalog.validate_options(name, merged)
+        perf_keys = catalog.performance_keys(name)
+        performance = {k: merged.pop(k) for k in list(merged) if k in perf_keys}
+        comps = sorted(set(merged.pop("components", None) or catalog.default_components(name)))
+        effective = {**catalog.result_defaults(name), **merged}
+    else:  # adaptadores sem descritor (testes, extensões): validação mínima
+        if preset:
+            raise ValueError(f"'{tagger}' não tem predefinições")
+        backend = get_backend(tagger)
+        performance = {k: options.pop(k) for k in list(options) if k in _layers.PERFORMANCE_KEYS}
+        unknown = sorted(set(options) - set(backend.defaults) - {"components"})
+        if unknown:
+            raise ValueError(f"opções desconhecidas para '{tagger}': {', '.join(unknown)} "
+                             f"(aceitas: {', '.join(sorted(backend.defaults))})")
+        comps = sorted(set(components or options.pop("components", None) or backend.default_components))
+        effective = {**backend.defaults, **options}
+        bad = sorted(set(comps) - set(backend.components))
+        if bad:
+            raise ValueError(f"componentes indisponíveis em '{tagger}': {', '.join(bad)} "
+                             f"(disponíveis: {', '.join(backend.components)})")
     config = {**effective, "components": comps, "model_version": backend.model_version(effective)}
     return {"tool": backend.name, "tool_version": backend.tool_version(), "model": backend.model(effective),
             "config": config, "performance": performance}
@@ -86,8 +106,11 @@ def tag_corpus(
     where: Mapping[str, Any] | None = None,
     force: bool = False,
     progress: Callable[[int, int, str], None] | None = None,
+    preset: str | None = None,
 ) -> dict:
     """Etiqueta os documentos do corpus que ainda não têm camada suficiente.
+
+    tagger/options/components/preset — ver build_request
 
     where    — filtro por metadado (ver corpus.filter_documents)
     force    — etiqueta de novo mesmo havendo camada
@@ -96,8 +119,8 @@ def tag_corpus(
     Devolve {"corpus", "tool", "documents", "tagged", "reused", "cloned",
     "missing_text", "layer_ids"}.
     """
-    request = build_request(tagger, options, components)
-    backend = get_backend(tagger)
+    request = build_request(tagger, options, components, preset)
+    backend = get_backend(request["tool"])
     run_options = {**request["config"], **request["performance"]}
     run_options.pop("components")
     run_options.pop("model_version")
@@ -123,7 +146,11 @@ def tag_corpus(
                     if progress:
                         progress(i, len(docs), doc["filename"])
                     continue
-                tokens = backend.tag(text, run_options, comps)
+                try:
+                    tokens = backend.tag(text, run_options, comps)
+                except ImportError as exc:
+                    from .taggers.catalog import TaggerUnavailable
+                    raise TaggerUnavailable(request["tool"], f"{type(exc).__name__}: {exc}") from exc
                 layer_id = project.save_layer(doc["id"], request["tool"], request["tool_version"], request["model"],
                                               request["config"], tokens, text_hash=_layers.text_hash(text))
                 report["tagged"] += 1
