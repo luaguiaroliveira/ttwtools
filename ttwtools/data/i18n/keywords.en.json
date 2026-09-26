@@ -1,0 +1,11 @@
+{
+ "keywords.warn.language_mismatch": "Different languages: target in '{target}', reference in '{reference}'. Keywords are not meaningful.",
+ "keywords.warn.no_reference_docs": "The reference has no per-item text counts: the dispersion filter applies to the target only.",
+ "keywords.warn.same_data": "Target and reference are the same documents.",
+ "keywords.warn.small_reference": "Small reference ({words} words): prefer a reference larger than the target.",
+ "keywords.warn.small_target": "Small target ({words} words): results are unstable. Prefer corpora with at least {minimum} words.",
+ "keywords.warn.tokenizer_mismatch": "Different tokenisation ({target} × {reference}): contractions and hyphens may be counted differently.",
+ "keywords.warn.tool_mismatch": "Target tagged with {target} and reference with {reference}: lemmas and classes may not be comparable. Use forms or tag with the same tagger.",
+ "keywords.warn.tool_version_mismatch": "Same tagger ({tool}) in different versions ({target} × {reference}): small differences are possible.",
+ "keywords.warn.unit_unavailable": "Unit '{unit}' needs {field}, which layer {tool} lacks; items without {field} were counted by form."
+}

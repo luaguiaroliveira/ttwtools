@@ -94,7 +94,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
-    "keywords":       ("Palavras-chave contra um corpus de referência", "1.9"),
     "compare":        ("Compara corpora (KFA e afins)", "1.7/1.9"),
     "help":           ("Ajuda sobre conceitos e ferramentas", "1.10"),
 }
@@ -501,6 +500,62 @@ def _configure_dispersion(p):
     _query_common(p)
 
 
+def _cmd_keywords(args):
+    from .corpus import parse_where
+    from .keywords import keywords
+    with _open_or_create(args.project, create=False) as proj:
+        r = keywords(proj, args.corpus, args.reference, unit=args.unit, measure=args.measure, n=args.n,
+                     layer=args.layer, where=parse_where(args.where or []), min_freq=args.min_freq,
+                     min_range=args.min_range, correction=args.correction, top=args.top, lang=args.lang)
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    cols = ["item", "direction", "freq_target", "freq_reference", "ll", "log_ratio", "pct_diff", "log_odds",
+            "p_adj", "range_target"]
+    if args.format == "table":
+        print(f"{r['target']} ({r['target_words']} palavras) × {r['reference']} ({r['reference_words']} palavras)"
+              f" · unidade {args.unit} · ordenado por {args.measure}")
+        for w in r["warnings"]:
+            print(f"  [{w['severity']}] {w['message']}")
+    emit(r["rows"], args.format, columns=cols)
+    return EXIT_OK
+
+
+def _cmd_reference_list(args):
+    from .keywords import make_reference_list
+    card = {k: getattr(args, k) for k in ("lang", "variety", "period", "genres", "license", "source", "version")
+            if getattr(args, k)}
+    card["name"] = args.name or args.corpus
+    with _open_or_create(args.project, create=False) as proj:
+        out = make_reference_list(proj, args.corpus, args.out, unit=args.unit, layer=args.layer, card=card)
+    emit({"out": str(out), **card}, args.format)
+    return EXIT_OK
+
+
+def _configure_keywords(p):
+    _query_common(p, needs_query=False)
+    p.add_argument("--reference", required=True,
+                   help="lista .tsv, nome de outro corpus do projeto, ou rest:<metadado> (com --where definindo o alvo)")
+    p.add_argument("--unit", choices=["form", "lemma", "pos", "word_pos", "ngram"], default="form")
+    p.add_argument("-n", type=int, default=2, help="tamanho do n-grama")
+    p.add_argument("--measure", choices=["ll", "log_ratio", "pct_diff", "log_odds"], default="ll")
+    p.add_argument("--min-freq", type=int, default=5)
+    p.add_argument("--min-range", type=int, default=1, help="mínimo de textos do alvo em que o item aparece")
+    p.add_argument("--correction", choices=["bonferroni", "fdr", "none"], default="bonferroni")
+    p.add_argument("--top", type=int, default=50)
+    p.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
+
+
+def _configure_reference_list(p):
+    p.add_argument("project")
+    p.add_argument("--corpus", required=True)
+    p.add_argument("--out", required=True, help="arquivo .tsv de saída")
+    p.add_argument("--unit", choices=["form", "lemma", "pos", "word_pos"], default="form")
+    p.add_argument("--layer")
+    for k in ("name", "lang", "variety", "period", "genres", "license", "source", "version"):
+        p.add_argument(f"--{k}", help=f"ficha do corpus: {k}")
+
+
 def _configure_documents(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", help="só este corpus")
@@ -521,6 +576,10 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
     "freq":      ("Lista de frequência (forma, lema, palavra+classe, classe, n-grama)", _configure_freq, _cmd_freq),
     "collocates": ("Colocados com log-likelihood, MI, T-score e frequência", _configure_collocates, _cmd_collocates),
     "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
+    "keywords":  ("Palavras-chave do corpus contra uma referência (LL, log ratio, %%DIFF, log-odds)",
+                  _configure_keywords, _cmd_keywords),
+    "reference-list": ("Gera a lista de frequência de referência (.tsv com ficha) de um corpus",
+                       _configure_reference_list, _cmd_reference_list),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",
                   _configure_describe, _cmd_describe),
     "export":    ("Exporta uma camada em CoNLL-U, VRT, CSV, JSONL ou Parquet",

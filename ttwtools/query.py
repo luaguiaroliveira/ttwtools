@@ -11,8 +11,8 @@ Cada token aceita:
     lemma=run&pos=VERB    condições juntas no mesmo token
 
 Camada: `layer` escolhe a ferramenta (spacy, stanza, conllu...); sem `layer`, usa
-a camada mais recente de cada documento. Se o corpus não tem camada nenhuma, é
-criada a camada `simple` (só formas, sem tagger) na primeira consulta.
+a camada mais recente de cada documento. Documentos sem camada nenhuma ganham a
+camada `simple` (só formas, sem tagger) na primeira consulta.
 """
 
 from __future__ import annotations
@@ -39,12 +39,17 @@ def _select_layers(project: TTWAProject, corpus_name: str, layer: str | None, wh
     docs = filter_documents(project, corpus_name, where)
     if not docs:
         return {}
-    ids = [d["id"] for d in docs]
-    has_any = project._con.execute(
-        f"SELECT 1 FROM layers WHERE doc_id IN ({','.join('?' * len(ids))}) LIMIT 1", ids).fetchone()
-    if not has_any and layer in (None, "simple"):
-        from .annotate import tag_corpus
-        tag_corpus(project, corpus_name, "simple", where=where)
+    if layer in (None, "simple"):
+        # documentos sem camada nenhuma ganham a camada `simple` (só formas)
+        ids = [d["id"] for d in docs]
+        with_layer = {r[0] for r in project._con.execute(
+            f"SELECT DISTINCT doc_id FROM layers WHERE doc_id IN ({','.join('?' * len(ids))})", ids)}
+        missing = [d["filename"] for d in docs if d["id"] not in with_layer]
+        if layer == "simple":
+            missing = [d["filename"] for d in docs]
+        if missing:
+            from .annotate import tag_corpus
+            tag_corpus(project, corpus_name, "simple", filenames=missing)
     sel: dict[int, dict] = {}
     for d in docs:
         sql = "SELECT id FROM layers WHERE doc_id = ?" + (" AND tool = ?" if layer else "") + " ORDER BY id DESC LIMIT 1"

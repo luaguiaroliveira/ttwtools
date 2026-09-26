@@ -107,8 +107,11 @@ def tag_corpus(
     force: bool = False,
     progress: Callable[[int, int, str], None] | None = None,
     preset: str | None = None,
+    filenames: Iterable[str] | None = None,
 ) -> dict:
     """Etiqueta os documentos do corpus que ainda não têm camada suficiente.
+
+    filenames — só estes documentos (além do filtro `where`)
 
     tagger/options/components/preset — ver build_request
 
@@ -127,6 +130,9 @@ def tag_corpus(
     comps = tuple(request["config"]["components"])
 
     docs = filter_documents(project, corpus_name, where)
+    if filenames is not None:
+        wanted = set(filenames)
+        docs = [d for d in docs if d["filename"] in wanted]
     report = {"corpus": corpus_name, "tool": request["tool"], "documents": len(docs), "tagged": 0,
               "reused": 0, "cloned": 0, "missing_text": [], "layer_ids": []}
     for i, doc in enumerate(docs, 1):
