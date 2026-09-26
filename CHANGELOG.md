@@ -8,6 +8,8 @@ All notable changes to ttwtools are documented here.
 
 ### Added
 - Command line `ttwtools` (`python -m ttwtools`): `--version` and subcommands `describe`, `tag`, `tagger-options`, `tagset`, `kwic`, `freq`, `keywords`, `compare`, `help` (stubs for now); standard output as table, `--json` or `--csv` (`ttwtools.cli.emit`).
+- Project schema **v0.3**: tables `documents` (text hash), `document_meta`, `layers` (tool, version, model, config, `config_hash`, `text_hash`), `tokens` (indexed by word/lemma/xpos) and `analyses`; `ttwtools.layers` (JSONL → tokens, `config_hash` without performance options). Old projects migrate on open, with a warning, without deleting anything.
+- Light projects **`.ttwl`** (corpus in a folder next to the file, checked by hash): `export_corpus_next_to`, `relink_corpus`, `embed_corpus` (`.ttwl` → `.ttwa`), `detach_corpus` (`.ttwa` → `.ttwl`), `check_corpus`; `add_corpus_text`; `save_analysis`/`list_analyses`/`load_analysis`.
 - `ttwtools.__version__` (from `pyproject.toml`) and a `pytest` suite in `tests/` (smoke tests: project, tagged JSONL, BiberPlus + KFA; CLI).
 
 ### Changed

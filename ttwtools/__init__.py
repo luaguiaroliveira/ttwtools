@@ -11,7 +11,7 @@ from typing import TYPE_CHECKING
 
 from ._version import __version__
 
-_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "cli")
+_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "cli")
 
 # nome público → submódulo que o define
 _EXPORTS = {
@@ -52,6 +52,11 @@ _EXPORTS = {
     "TTWA_EXTENSION": "project",
     "TTWA_MODE_FULL": "project",
     "TTWA_MODE_COMPACT": "project",
+    "TTWL_EXTENSION": "project",
+    "export_corpus_next_to": "project",
+    "relink_corpus": "project",
+    "embed_corpus": "project",
+    "detach_corpus": "project",
 }
 
 __all__ = ["__version__", *(m for m in _SUBMODULES if m != "cli"), *_EXPORTS]
@@ -77,6 +82,7 @@ if TYPE_CHECKING:  # para editores e verificadores de tipo
     from .project import (  # noqa: F401
         TTWA_EXTENSION, TTWA_MIME_TYPE, TTWA_MODE_COMPACT, TTWA_MODE_FULL,
         TTWAProject, create_project, open_project, save_analysis_to_project,
+        TTWL_EXTENSION, detach_corpus, embed_corpus, export_corpus_next_to, relink_corpus,
     )
     from .taggers import (  # noqa: F401
         biberplus, extract_biber_features_from_folder, extract_mfte_features_from_folder,
