@@ -11,7 +11,7 @@ from scipy.special import xlogy
 import ttwtools
 from ttwtools import cli
 from ttwtools.corpus import set_document_meta
-from ttwtools.keywords import (FreqTable, _adjust, chi2_p, keywords, log_likelihood, log_odds, log_ratio,
+from ttwtools.keyness import (FreqTable, _adjust, chi2_p, keywords, log_likelihood, log_odds, log_ratio,
                                make_reference_list, pct_diff, read_reference_list)
 from collections import Counter
 

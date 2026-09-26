@@ -1,5 +1,5 @@
 """
-keywords.py — Palavras-chave de um alvo contra uma referência (novomodelo.md §16).
+keyness.py — Palavras-chave de um alvo contra uma referência (novomodelo.md §16).
 
     keywords(proj, "meu_corpus", reference="brown.tsv", unit="lemma", measure="log_ratio")
     keywords(proj, "meu_corpus", reference="outro_corpus")                 # corpus do projeto

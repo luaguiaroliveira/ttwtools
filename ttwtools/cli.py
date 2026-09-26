@@ -501,7 +501,7 @@ def _configure_dispersion(p):
 
 def _cmd_keywords(args):
     from .corpus import parse_where
-    from .keywords import keywords
+    from .keyness import keywords
     with _open_or_create(args.project, create=False) as proj:
         r = keywords(proj, args.corpus, args.reference, unit=args.unit, measure=args.measure, n=args.n,
                      layer=args.layer, where=parse_where(args.where or []), min_freq=args.min_freq,
@@ -521,7 +521,7 @@ def _cmd_keywords(args):
 
 
 def _cmd_reference_list(args):
-    from .keywords import make_reference_list
+    from .keyness import make_reference_list
     card = {k: getattr(args, k) for k in ("lang", "variety", "period", "genres", "license", "source", "version")
             if getattr(args, k)}
     card["name"] = args.name or args.corpus

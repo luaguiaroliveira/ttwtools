@@ -231,11 +231,13 @@ def describe(
     extra_stopwords: Iterable[str] | None = None,
     own_stopwords: Iterable[str] | None = None,
     use_cache: bool = True,
-) -> dict:
+    cache_only: bool = False,
+) -> dict | None:
     """Estatísticas do corpus (§12.1) e, com `layer` (ferramenta: spacy, stanza...), da camada (§12.2).
 
     Devolve {"text": {...}, "layer": {...} ou None, "cached": bool}. `hide_stopwords`
     tira as palavras funcionais da lista de mais frequentes (não das contagens).
+    `cache_only` devolve só o resultado guardado (ou None), sem calcular.
     """
     docs = filter_documents(project, corpus_name, where)
     stop = stopwords(stopwords_lang, extra_stopwords, own_stopwords) if hide_stopwords else None
@@ -247,6 +249,8 @@ def describe(
         for a in reversed(project.list_analyses("describe")):
             if a["params"] == json.loads(json.dumps(params, sort_keys=True)):
                 return {**project.load_analysis(a["id"])["result"], "cached": True}
+    if cache_only:
+        return None
     result = {
         "text": _text_stats(project, corpus_name, docs, tok_cfg, top, sttr_block, mattr_window, stop),
         "layer": _layer_stats(project, corpus_name, layer, top, where) if layer else None,
