@@ -22,6 +22,7 @@ TEXT_FIELDS = {"name", "about", "nome", "explicacao", "label", "definition"}
 
 
 def default_lang() -> str:
+    """Idioma padrão dos textos: TTWTOOLS_LANG ou pt."""
     lang = os.environ.get("TTWTOOLS_LANG", "pt").split("_")[0].lower()
     return lang if lang in LANGS else "pt"
 
@@ -35,6 +36,7 @@ def messages(lang: str) -> dict[str, str]:
 
 
 def t(key: str, lang: str | None = None, **fmt: Any) -> str:
+    """Texto traduzido da chave (cai no inglês e, por fim, na própria chave); `fmt` preenche {campos}."""
     lang = lang or default_lang()
     text = messages(lang).get(key) or messages("en").get(key) or key
     return text.format(**fmt) if fmt else text

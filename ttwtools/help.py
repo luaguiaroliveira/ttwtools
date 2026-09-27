@@ -81,6 +81,7 @@ def search(query: str, lang: str | None = None) -> list[dict]:
 
 
 def tours() -> list[str]:
+    """Ids dos tours guiados disponíveis."""
     return sorted(p.stem for p in (_DIR / "tours").glob("*.json"))
 
 

@@ -36,6 +36,7 @@ NON_WORD_UPOS = {"PUNCT", "SYM", "X", "SPACE"}
 # ---------------------------------------------------------------------------
 
 def stopword_languages() -> list[str]:
+    """Idiomas com lista de palavras funcionais (data/stopwords)."""
     return sorted(p.stem for p in _STOP_DIR.glob("*.txt"))
 
 
@@ -82,6 +83,7 @@ def stopwords(lang: str = "en", add: Iterable[str] | None = None, replace: Itera
 # ---------------------------------------------------------------------------
 
 def ttr(tokens: list[str]) -> float | None:
+    """Razão tipo/ocorrência (TTR) de uma lista de tokens."""
     return len(set(tokens)) / len(tokens) if tokens else None
 
 

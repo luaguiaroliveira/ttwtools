@@ -1,11 +1,23 @@
 # ttwtools
 
-ttwtools is a Python package for corpus linguistics workflows: linguistic tagging,
-feature extraction, and Key Feature Analysis (KFA) over corpora.
+Pacote Python de linguística de corpus usado pelo aplicativo [TTWtools](https://github.com/luaguiaroliveira/ttwtools-app): projetos `.ttwa` com camadas de anotação reaproveitáveis (spaCy, Stanza, BiberPlus, MFTE), busca, KWIC, frequência, colocados, dispersão, palavras-chave, faixas de frequência, KFA, comparação de N grupos (experimental), catálogo de corpora e importação/exportação (CoNLL-U, VRT, TEI, GrAF...). Tudo também pela linha de comando `ttwtools`.
 
-NOTE: on mac intel use a python 3.11 environment (to use stanza and pytorch!)
+*A Python corpus-linguistics package (used by the TTWtools app): reusable annotation layers, search, KWIC, frequency, collocates, dispersion, keywords, frequency bands, KFA, N-group comparison, corpus catalog and import/export — also as the `ttwtools` command.*
+
+- **Guia rápido:** [`docs/guia_rapido.md`](docs/guia_rapido.md)
+- **Referência de todas as funções públicas** (gerada das docstrings): [`docs/referencia.md`](docs/referencia.md) — `python docs/gerar_referencia.py` para atualizar
+- **Mudanças:** [`CHANGELOG.md`](CHANGELOG.md)
+
+```bash
+pip install -e .              # + [mfte] para Stanza/MFTE (torch); no Mac Intel use Python 3.11 e torch 2.2.2
+ttwtools --help
+```
 
 ---
+
+## Histórico: notas da versão 0.1 (API clássica de etiquetagem e KFA)
+
+As seções abaixo descrevem a API anterior, baseada em pastas de arquivos etiquetados (JSONL) e tabelas de traços; ela continua disponível.
 
 ## What changed in this version
 

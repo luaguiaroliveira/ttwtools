@@ -82,12 +82,14 @@ def tokenize(text: str, config: TokenizerConfig | None = None) -> list[str]:
 
 
 def set_tokenizer_config(project: TTWAProject, corpus_name: str, config: TokenizerConfig) -> None:
+    """Grava a configuração da tokenização simples do corpus."""
     configs = project.get_meta("tokenizer_configs") or {}
     configs[corpus_name] = config.to_dict()
     project.set_meta("tokenizer_configs", configs)
 
 
 def get_tokenizer_config(project: TTWAProject, corpus_name: str) -> TokenizerConfig:
+    """Configuração da tokenização simples do corpus (a padrão, se não houver)."""
     return TokenizerConfig.from_dict((project.get_meta("tokenizer_configs") or {}).get(corpus_name))
 
 
@@ -116,6 +118,7 @@ def set_document_meta(project: TTWAProject, corpus_name: str, filename: str, met
 
 
 def get_document_meta(project: TTWAProject, corpus_name: str, filename: str) -> dict[str, str]:
+    """Metadados de um documento ({chave: valor})."""
     doc_id = _doc_id(project, corpus_name, filename)
     if doc_id is None:
         return {}
@@ -338,6 +341,7 @@ def list_groups(project: TTWAProject, corpus_name: str | None, key: str) -> dict
 
 
 def metadata_keys(project: TTWAProject, corpus_name: str | None = None) -> list[str]:
+    """Chaves de metadados usadas nos documentos do corpus, em ordem alfabética."""
     sql = "SELECT DISTINCT m.key FROM document_meta m JOIN documents d ON d.id = m.doc_id"
     args: tuple = ()
     if corpus_name is not None:

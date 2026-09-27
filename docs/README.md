@@ -2,6 +2,11 @@
 
 Este diretório concentra a documentação técnica do pacote ttwtools.
 
+- **[Guia rápido](guia_rapido.md)** — projetos, camadas, exploração, comparação, catálogo, formatos e linha de comando.
+- **[Referência da API](referencia.md)** — todas as funções públicas, gerada por [`gerar_referencia.py`](gerar_referencia.py).
+
+As seções abaixo documentam a arquitetura e a API clássica (etiquetagem em pastas, JSONL, tabelas de traços).
+
 Para uma visão geral rápida e o guia de migração, veja o
 [README principal](../README.md).
 

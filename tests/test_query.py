@@ -151,3 +151,16 @@ def test_read_document(proj):
     assert d["text"][d["tokens"][2]["start_char"]:d["tokens"][2]["end_char"]] == "cat"
     with pytest.raises(KeyError):
         read_document(proj, "c", "nao.txt")
+
+
+def test_default_layer_has_needed_field(tmp_path, spacy_model):
+    """Sem `layer`, `lemma=`/`pos=` usam a camada mais recente QUE TENHA o campo (não uma sem lema)."""
+    import ttwtools
+    with ttwtools.create_project(tmp_path / "l.ttwa") as p:
+        p.add_corpus_text("c", "a.txt", "They make things. She made a cake and makes tea.")
+        ttwtools.tag_corpus(p, "c", "spacy", options={"model": "en_core_web_sm"})
+        ttwtools.tag_corpus(p, "c", "simple", force=True)       # camada mais recente, sem lema nem classe
+        assert ttwtools.search(p, "c", "lemma=make")["total"] == 3
+        assert ttwtools.search(p, "c", "pos=VERB")["total"] >= 3
+        assert ttwtools.frequency(p, "c", unit="lemma")["rows"][0]["item"] in ("make", ".")
+        assert ttwtools.search(p, "c", "make")["total"] == 1      # forma: vale a camada mais recente

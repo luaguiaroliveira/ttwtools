@@ -55,11 +55,13 @@ def data_dir() -> Path:
 
 
 def settings() -> dict:
+    """Configurações do usuário (settings.json da pasta de dados)."""
     path = data_dir() / "settings.json"
     return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else {}
 
 
 def set_setting(key: str, value: Any) -> None:
+    """Grava uma configuração em settings.json da pasta de dados."""
     s = settings()
     s[key] = value
     (data_dir() / "settings.json").write_text(json.dumps(s, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -77,6 +79,7 @@ def catalog_url() -> str | None:
 # ---------------------------------------------------------------------------
 
 def validate_ficha(ficha: Mapping[str, Any], for_catalog: bool = True) -> list[str]:
+    """Erros da ficha de um corpus; `for_catalog` exige licença conferida, redistribuível e tamanho."""
     errors = []
     for key, typ in _FICHA_REQUIRED.items():
         if not isinstance(ficha.get(key), typ):
@@ -100,6 +103,7 @@ def validate_ficha(ficha: Mapping[str, Any], for_catalog: bool = True) -> list[s
 
 
 def validate_catalog(catalog: Mapping[str, Any]) -> list[str]:
+    """Erros do catálogo (lista vazia = válido), incluindo a regra de licença de cada entrada."""
     errors = []
     if catalog.get("format") != CATALOG_FORMAT:
         errors.append(f"format deve ser {CATALOG_FORMAT}")
@@ -200,6 +204,7 @@ def make_reference_package(project_path: str | Path, out_dir: str | Path, ficha:
 
 
 def write_catalog(entries: list[Mapping], path: str | Path) -> dict:
+    """Valida e grava `catalogo.json` com as entradas dadas."""
     catalog = {"format": CATALOG_FORMAT, "updated": dt.date.today().isoformat(), "packages": list(entries)}
     errors = validate_catalog(catalog)
     if errors:
@@ -219,6 +224,7 @@ def _open_url(url: str):
 
 
 def load_catalog(url: str | None = None) -> dict:
+    """Lê o catálogo (URL http(s) ou arquivo; padrão: o configurado) e confere o formato."""
     url = url or catalog_url()
     if not url:
         raise ValueError("nenhum catálogo configurado (settings.json 'catalog_url' ou TTWTOOLS_CATALOG_URL)")

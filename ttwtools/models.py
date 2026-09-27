@@ -24,6 +24,7 @@ SPACY_WHEEL = "https://github.com/explosion/spacy-models/releases/download/{name
 
 
 def models_dir() -> Path:
+    """Pasta dos modelos baixados (<dados>/models)."""
     d = data_dir() / "models"
     d.mkdir(parents=True, exist_ok=True)
     return d
@@ -40,6 +41,7 @@ def activate() -> None:
 
 
 def spacy_model_version(name: str) -> str:
+    """Versão do modelo compatível com o spaCy instalado (compatibility.json)."""
     import spacy
     minor = ".".join(spacy.__version__.split(".")[:2])
     compat = json.load(urllib.request.urlopen(SPACY_COMPAT, timeout=30))["spacy"]
@@ -75,6 +77,7 @@ def download_spacy_model(name: str, progress: Callable[[int, int, str], None] | 
 
 def download_stanza(lang: str, package: str = "default", processors: str = "tokenize,pos,lemma",
                     progress: Callable[[int, int, str], None] | None = None) -> Path:
+    """Baixa os modelos do Stanza para o idioma (pasta de dados, salvo STANZA_RESOURCES_DIR)."""
     import stanza
     target = Path(os.environ.get("STANZA_RESOURCES_DIR") or models_dir() / "stanza")
     if progress:

@@ -29,6 +29,7 @@ FEATURES = ("tags", "upos", "xpos")
 
 
 def default_feature(tool: str) -> str:
+    """Traço padrão da camada: `tags` no BiberPlus/MFTE, `upos` nos demais."""
     return "tags" if tool in ("biberplus", "mfte") else "upos"
 
 

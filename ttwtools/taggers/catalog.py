@@ -64,6 +64,7 @@ def resolve(tagger_id: str) -> tuple[str, dict]:
 
 
 def has_descriptor(tagger: str) -> bool:
+    """O tagger (ou atalho) tem descritor de opções?"""
     return tagger in _aliases()
 
 
@@ -133,6 +134,7 @@ def result_defaults(tagger: str) -> dict:
 
 
 def default_components(tagger: str) -> list[str]:
+    """Componentes que o tagger roda por padrão (segundo o descritor)."""
     for o in _load_descriptor(tagger)["options"]:
         if o["id"] == "components":
             return list(o["padrao"])
@@ -140,10 +142,12 @@ def default_components(tagger: str) -> list[str]:
 
 
 def performance_keys(tagger: str) -> set[str]:
+    """Opções que só mudam desempenho (lote, processos...), fora do cache de camadas."""
     return {o["id"] for o in _load_descriptor(tagger)["options"] if not o["afeta_resultado"]}
 
 
 def preset(tagger_id: str, name: str) -> dict:
+    """Opções de um atalho do tagger (rapido, recomendado, preciso)."""
     tagger, _ = resolve(tagger_id)
     presets = _load_descriptor(tagger).get("presets", {})
     if name not in presets:
@@ -189,6 +193,7 @@ def validate_options(tagger_id: str, opts: Mapping[str, Any] | None) -> dict:
 # ---------------------------------------------------------------------------
 
 def list_tagsets() -> list[str]:
+    """Ids dos tagsets com repertório documentado (upos, ptb, biber, mfte...)."""
     return sorted(p.name.split(".")[0] for p in (_DATA / "tagsets").glob("*.tagset.json"))
 
 
@@ -234,10 +239,12 @@ def _torch_status() -> tuple[bool, str | None]:
 
 
 def spacy_model_installed(model: str) -> bool:
+    """O modelo do spaCy pode ser importado (instalado no ambiente ou baixado)?"""
     return importlib.util.find_spec(model) is not None
 
 
 def stanza_model_dir(model_dir: str | None = None) -> Path:
+    """Pasta dos modelos do Stanza (argumento, STANZA_RESOURCES_DIR ou a padrão)."""
     import os
     if model_dir:
         return Path(model_dir)
@@ -270,6 +277,7 @@ def stanza_package_installed(lang: str, package: str, processors: Iterable[str] 
 
 
 def stanza_download_command(lang: str, package: str, processors: str = "tokenize,pos,lemma") -> str:
+    """Comando para baixar o pacote de modelos do Stanza para o idioma."""
     return f"python -c \"import stanza; stanza.download('{lang}', package='{package}', processors='{processors}')\""
 
 
@@ -325,6 +333,7 @@ def available(lang: str | None = None) -> list[dict]:
 
 
 def require_available(tagger: str) -> None:
+    """Levanta TaggerUnavailable (com motivo e comando) se o tagger não puder rodar."""
     info = _check(tagger, None)
     if not info["disponivel"]:
         raise TaggerUnavailable(tagger, info["motivo"], info["comando"] or None)

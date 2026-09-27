@@ -34,8 +34,33 @@ _FIELDS = {"word": "lower(t{i}.word)", "lemma": "lower(t{i}.lemma)", "upos": "t{
 # Seleção de camadas
 # ---------------------------------------------------------------------------
 
-def _select_layers(project: TTWAProject, corpus_name: str, layer: str | None, where: Mapping | None) -> dict[int, dict]:
-    """{layer_id: documento} com uma camada por documento; grava em TEMP _sel."""
+_NEEDS_SQL = {"lemma": "t.lemma IS NOT NULL AND t.lemma <> ''",
+              "pos": "(t.upos IS NOT NULL AND t.upos <> '') OR (t.xpos IS NOT NULL AND t.xpos <> '')",
+              "tags": "t.tags IS NOT NULL AND t.tags NOT IN ('', '[]')"}
+
+
+def _needs(query: str | None = None, unit: str | None = None) -> str | None:
+    """Campo que a consulta ou a unidade exige da camada (lemma, pos, tags) ou None."""
+    if unit == "lemma":
+        return "lemma"
+    if unit in ("pos", "word_pos"):
+        return "pos"
+    q = query or ""
+    if re.search(r"\blemma=", q):
+        return "lemma"
+    if re.search(r"\b(pos|upos|xpos)=", q):
+        return "pos"
+    if re.search(r"\btag=", q):
+        return "tags"
+    return None
+
+
+def _select_layers(project: TTWAProject, corpus_name: str, layer: str | None, where: Mapping | None,
+                   needs: str | None = None) -> dict[int, dict]:
+    """{layer_id: documento} com uma camada por documento; grava em TEMP _sel.
+    Sem `layer`, usa a camada mais recente de cada documento; com `needs` (lemma, pos,
+    tags), a mais recente que tenha esse campo (ex.: `lemma=` não cai numa camada
+    BiberPlus, que não tem lema), e só na falta dela a mais recente."""
     docs = filter_documents(project, corpus_name, where)
     if not docs:
         return {}
@@ -52,8 +77,14 @@ def _select_layers(project: TTWAProject, corpus_name: str, layer: str | None, wh
             tag_corpus(project, corpus_name, "simple", filenames=missing)
     sel: dict[int, dict] = {}
     for d in docs:
-        sql = "SELECT id FROM layers WHERE doc_id = ?" + (" AND tool = ?" if layer else "") + " ORDER BY id DESC LIMIT 1"
-        row = project._con.execute(sql, (d["id"], layer) if layer else (d["id"],)).fetchone()
+        row = None
+        if not layer and needs in _NEEDS_SQL:
+            row = project._con.execute(
+                "SELECT l.id FROM layers l WHERE l.doc_id = ? AND EXISTS (SELECT 1 FROM tokens t WHERE t.layer_id = l.id"
+                f" AND ({_NEEDS_SQL[needs]})) ORDER BY l.id DESC LIMIT 1", (d["id"],)).fetchone()
+        if row is None:
+            sql = "SELECT id FROM layers WHERE doc_id = ?" + (" AND tool = ?" if layer else "") + " ORDER BY id DESC LIMIT 1"
+            row = project._con.execute(sql, (d["id"], layer) if layer else (d["id"],)).fetchone()
         if row:
             sel[row["id"]] = d
     con = project._con
@@ -145,7 +176,7 @@ def search(project: TTWAProject, corpus_name: str, query: str, layer: str | None
            where: Mapping | None = None, group_by: str | None = None) -> dict:
     """Quantas vezes a consulta aparece: total, por documento e (com `group_by`,
     nome de metadado) por grupo."""
-    sel = _select_layers(project, corpus_name, layer, where)
+    sel = _select_layers(project, corpus_name, layer, where, _needs(query))
     _ensure_regexp(project)
     sql, args, _ = _match_sql(query)
     per_doc = Counter()
@@ -176,7 +207,7 @@ def kwic(project: TTWAProject, corpus_name: str, query: str, layer: str | None =
     """Concordância: cada ocorrência com `context` tokens de cada lado, classe,
     arquivo e posição no texto. Paginada (`limit`/`offset`) no SQL; `sort` =
     position, left (palavra à esquerda) ou right (palavra à direita)."""
-    sel = _select_layers(project, corpus_name, layer, where)
+    sel = _select_layers(project, corpus_name, layer, where, _needs(query))
     _ensure_regexp(project)
     sql, args, n = _match_sql(query)
     order = {
@@ -213,7 +244,7 @@ def kwic(project: TTWAProject, corpus_name: str, query: str, layer: str | None =
 
 def explain(project: TTWAProject, corpus_name: str, query: str, layer: str | None = None) -> list[str]:
     """Plano de execução do SQLite para a consulta (para conferir o uso de índices)."""
-    _select_layers(project, corpus_name, layer, None)
+    _select_layers(project, corpus_name, layer, None, _needs(query))
     _ensure_regexp(project)
     sql, args, _ = _match_sql(query)
     return [r["detail"] for r in project._con.execute(f"EXPLAIN QUERY PLAN {sql}", args)]
@@ -261,7 +292,7 @@ def frequency(project: TTWAProject, corpus_name: str, unit: str = "form", n: int
     Devolve freq absoluta e por 1000 palavras."""
     if unit not in UNITS:
         raise ValueError(f"unidade deve ser uma de {UNITS}")
-    sel = _select_layers(project, corpus_name, layer, where)
+    sel = _select_layers(project, corpus_name, layer, where, _needs(unit=unit))
     stop = {s.lower() for s in (stop or [])}
     counts: dict[str, Counter] = defaultdict(Counter)
     sizes: Counter = Counter()
@@ -294,7 +325,7 @@ def collocates(project: TTWAProject, corpus_name: str, node: str, window: tuple[
     direita) de palavras. Medidas: freq (observada), MI, T-score e log-likelihood
     (tabela 2×2, como no #LancsBox). `position` indica onde o colocado aparece mais."""
     left, right = window
-    sel = _select_layers(project, corpus_name, layer, where)
+    sel = _select_layers(project, corpus_name, layer, where, _needs(node) or _needs(unit=unit))
     _ensure_regexp(project)
     sql, args, n = _match_sql(node)
     hits: dict[int, set[int]] = defaultdict(set)
@@ -364,7 +395,7 @@ def dispersion(project: TTWAProject, corpus_name: str, query: str, layer: str | 
     DP = ½ Σ |oᵢ − eᵢ|, com oᵢ = parte das ocorrências no documento i e eᵢ = parte
     do corpus que o documento i representa. 0 = distribuição uniforme; perto de 1 =
     concentrada. DP_norm = DP / (1 − min eᵢ)."""
-    sel = _select_layers(project, corpus_name, layer, where)
+    sel = _select_layers(project, corpus_name, layer, where, _needs(query))
     _ensure_regexp(project)
     sql, args, _ = _match_sql(query)
     positions: dict[int, list[int]] = defaultdict(list)

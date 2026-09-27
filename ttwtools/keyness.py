@@ -29,7 +29,7 @@ from typing import Any, Mapping
 
 from .i18n import t
 from .project import TTWAProject
-from .query import _is_word, _layer_tokens, _select_layers, _unit_value
+from .query import _is_word, _layer_tokens, _needs, _select_layers, _unit_value
 
 UNITS = ("form", "lemma", "pos", "word_pos", "ngram")
 MEASURES = ("ll", "log_ratio", "pct_diff", "log_odds")
@@ -69,7 +69,7 @@ def corpus_freqs(project: TTWAProject, corpus_name: str, unit: str = "form", n: 
     documentos que batem com `exclude`)."""
     if unit not in UNITS:
         raise ValueError(f"unidade deve ser uma de {UNITS}")
-    sel = _select_layers(project, corpus_name, layer, None if exclude else where)
+    sel = _select_layers(project, corpus_name, layer, None if exclude else where, _needs(unit=unit))
     if exclude:
         from .corpus import filter_documents
         drop = {d["id"] for d in filter_documents(project, corpus_name, exclude)}
@@ -129,6 +129,7 @@ def write_reference_list(path: str | Path, table: FreqTable, card: Mapping[str, 
 
 
 def read_reference_list(path: str | Path) -> FreqTable:
+    """Lê uma lista de referência `.tsv` (ficha na 1ª linha) como FreqTable."""
     path = Path(path)
     lines = path.read_text(encoding="utf-8").splitlines()
     if not lines or not lines[0].startswith("# {"):
@@ -169,15 +170,18 @@ def log_likelihood(a: float, b: float, c: float, d: float) -> float:
 
 
 def log_ratio(a: float, b: float, c: float, d: float) -> float:
+    """Log2 da razão das frequências relativas (Hardie 2014; 0,5 no lugar de zero)."""
     return math.log2(((a or 0.5) / c) / ((b or 0.5) / d))
 
 
 def pct_diff(a: float, b: float, c: float, d: float) -> float:
+    """%DIFF de Gabrielatos & Marchi (2012)."""
     na, nb = a / c * 1e6, b / d * 1e6
     return (na - nb) * 100 / (nb or 1e-18)
 
 
 def log_odds(a: float, b: float, c: float, d: float) -> tuple[float, float]:
+    """Log da razão de chances com +0,5 em cada célula, e o z correspondente."""
     lo = math.log((a + 0.5) / (c - a + 0.5)) - math.log((b + 0.5) / (d - b + 0.5))
     se = math.sqrt(1 / (a + 0.5) + 1 / (c - a + 0.5) + 1 / (b + 0.5) + 1 / (d - b + 0.5))
     return lo, lo / se
