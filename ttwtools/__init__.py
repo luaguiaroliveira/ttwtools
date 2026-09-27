@@ -82,6 +82,7 @@ _EXPORTS = {
     "frequency": "query",
     "collocates": "query",
     "dispersion": "query",
+    "read_document": "query",
     "keywords": "keyness",
     "make_reference_list": "keyness",
     "read_reference_list": "keyness",

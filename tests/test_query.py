@@ -139,3 +139,15 @@ def test_cli_other_commands(proj, capsys):
     assert "black" in capsys.readouterr().out
     assert cli.main(["dispersion", path, "dog*", "--corpus", "c"]) == 0
     assert "range 2/3" in capsys.readouterr().out
+
+
+def test_read_document(proj):
+    from ttwtools.query import read_document
+    d = read_document(proj, "c", "a.txt")
+    assert d["text"] == TEXTS["a.txt"] and d["layer"] is None and d["tokens"] == []
+    search(proj, "c", "cat")                                    # cria a camada simple
+    d = read_document(proj, "c", "a.txt")
+    assert d["layer"]["tool"] == "simple" and d["tokens"][2]["word"] == "cat"
+    assert d["text"][d["tokens"][2]["start_char"]:d["tokens"][2]["end_char"]] == "cat"
+    with pytest.raises(KeyError):
+        read_document(proj, "c", "nao.txt")

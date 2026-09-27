@@ -384,3 +384,21 @@ def dispersion(project: TTWAProject, corpus_name: str, query: str, layer: str | 
         dp_norm = dp / (1 - min_e) if min_e < 1 else 0.0
     return {"query": query, "freq": total_freq, "range": sum(1 for d in docs if d["freq"]),
             "documents": len(docs), "dp": dp, "dp_norm": dp_norm, "per_document": docs}
+
+
+def read_document(project: TTWAProject, corpus_name: str, filename: str, layer: str | None = None) -> dict:
+    """Texto de um documento e os tokens da camada (a mais recente de `layer`, ou de
+    qualquer ferramenta), para o leitor com etiquetas. `text` é None se o texto não
+    estiver disponível (.ttwl sem a pasta do corpus)."""
+    doc = project._con.execute("SELECT id FROM documents WHERE corpus_name = ? AND filename = ?",
+                               (corpus_name, filename)).fetchone()
+    if doc is None:
+        raise KeyError(f"documento não encontrado: {corpus_name}/{filename}")
+    sql = "SELECT id, tool, tool_version, model FROM layers WHERE doc_id = ?" + (" AND tool = ?" if layer else "")
+    row = project._con.execute(sql + " ORDER BY id DESC LIMIT 1", (doc["id"], layer) if layer else (doc["id"],)).fetchone()
+    tokens = []
+    if row:
+        tokens = [{k: t[k] for k in ("idx", "start_char", "end_char", "word", "lemma", "upos", "xpos", "feats", "tags")}
+                  for t in project.get_tokens(row["id"])]
+    return {"corpus": corpus_name, "filename": filename, "text": project.get_corpus_file(corpus_name, filename),
+            "layer": dict(row) if row else None, "tokens": tokens}
