@@ -513,6 +513,8 @@ class TTWAProject:
             )
         if p.exists():
             p.unlink()
+        for side in ("-journal", "-wal", "-shm"):      # restos do SQLite do arquivo antigo
+            Path(str(p) + side).unlink(missing_ok=True)
         proj = cls(p)
         proj._con = _connect(p)
         proj._set_meta("project_name", name or p.stem)
