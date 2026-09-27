@@ -75,6 +75,25 @@ def options(tagger_id: str, lang: str | None | bool = None) -> dict:
     return d if lang is False else localize(d, lang)
 
 
+def value_availability(tagger_id: str) -> dict[str, dict[str, dict]]:
+    """Para opções cujos valores dependem de algo instalado (modelos do spaCy,
+    pacotes do Stanza): {opção: {valor: {"installed": bool, "command": str}}}."""
+    tagger, _ = resolve(tagger_id)
+    out: dict[str, dict[str, dict]] = {}
+    for o in _load_descriptor(tagger)["options"]:
+        kind = (o.get("disponibilidade") or {}).get("tipo")
+        if kind == "spacy_model":
+            out[o["id"]] = {v: {"installed": spacy_model_installed(v), "command": o["instalar"].format(value=v)}
+                            for v in o["valores"]}
+        elif kind == "stanza_package":
+            try:
+                out[o["id"]] = {v: {"installed": stanza_package_installed("en", v),
+                                    "command": stanza_download_command("en", v)} for v in o["valores"]}
+            except Exception:      # stanza ausente: tudo indisponível
+                out[o["id"]] = {v: {"installed": False, "command": stanza_download_command("en", v)} for v in o["valores"]}
+    return out
+
+
 def result_defaults(tagger: str) -> dict:
     """Valores padrão das opções que mudam o resultado (sem os componentes)."""
     return {o["id"]: o["padrao"] for o in _load_descriptor(tagger)["options"]

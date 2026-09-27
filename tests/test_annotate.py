@@ -196,3 +196,23 @@ def test_biberplus_backend(proj, spacy_model):
     layer = proj.list_layers("c", tool="biberplus")[0]
     toks = proj.get_tokens(layer["id"])
     assert toks and all(isinstance(t["tags"], list) for t in toks) and any(t["tags"] for t in toks)
+
+
+def test_plan_tagging(proj, fake):
+    from ttwtools.annotate import plan_tagging
+    p = plan_tagging(proj, "c", "fake")
+    assert (p["documents"], p["reusable"], p["to_tag"]) == (3, 0, 3)
+    tag_corpus(proj, "c", "fake", where=None, filenames=["t1.txt"])
+    proj.add_corpus_text("d", "copia.txt", "The cat sat.")
+    p = plan_tagging(proj, "c", "fake")
+    assert (p["reusable"], p["to_tag"]) == (1, 2)
+    assert plan_tagging(proj, "d", "fake")["clonable"] == 1
+    assert fake.calls == 1                              # o plano não chama o tagger
+
+
+def test_value_availability():
+    from ttwtools.taggers import value_availability
+    import importlib.util
+    av = value_availability("spacy_upos")["model"]
+    assert av["en_core_web_sm"]["installed"] == (importlib.util.find_spec("en_core_web_sm") is not None)
+    assert av["en_core_web_lg"]["command"] == "python -m spacy download en_core_web_lg"

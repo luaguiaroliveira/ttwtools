@@ -165,3 +165,31 @@ def tag_corpus(
         if progress:
             progress(i, len(docs), doc["filename"])
     return report
+
+
+def plan_tagging(
+    project: TTWAProject,
+    corpus_name: str,
+    tagger: str,
+    options: Mapping[str, Any] | None = None,
+    components: Iterable[str] | None = None,
+    where: Mapping[str, Any] | None = None,
+    preset: str | None = None,
+) -> dict:
+    """O que `tag_corpus` faria, sem etiquetar: quantos documentos já têm camada
+    suficiente (`reusable`), quantos podem copiar de outro com o mesmo texto
+    (`clonable`), quantos serão processados (`to_tag`) e quantos estão sem texto."""
+    request = build_request(tagger, options, components, preset)
+    docs = filter_documents(project, corpus_name, where)
+    out = {"documents": len(docs), "reusable": 0, "clonable": 0, "to_tag": 0, "missing_text": 0,
+           "tool": request["tool"], "config": request["config"]}
+    for doc in docs:
+        if find_layer(project, doc, request):
+            out["reusable"] += 1
+        elif doc["content_hash"] and _find_same_text(project, doc["content_hash"], request):
+            out["clonable"] += 1
+        elif doc["content_hash"] is None and not project.is_light:
+            out["missing_text"] += 1
+        else:
+            out["to_tag"] += 1
+    return out

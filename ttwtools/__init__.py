@@ -72,6 +72,7 @@ _EXPORTS = {
     "tag_corpus": "annotate",
     "find_layer": "annotate",
     "build_request": "annotate",
+    "plan_tagging": "annotate",
     # stats: estatísticas descritivas
     "describe": "stats",
     "stopwords": "stats",

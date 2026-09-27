@@ -20,6 +20,7 @@ All notable changes to ttwtools are documented here.
 - Help system: topics in `data/help/<lang>/<area>/<topic>.md` (title, summary, related; "how to read" and "caveats"), tours in `data/help/tours/*.json`; `ttwtools.help.get/topics/search/tour/render` with English fallback; first topics in pt and en (Cohen's d, per-1,000 normalisation, KWIC, Biber features, keyness, dispersion). CLI `ttwtools help [topic] [--search]`. All CLI subcommands are now implemented.
 - `ttwtools.codegen`: CLI command and Python code equivalent to an analysis (`cli_command`, `python_code`; POSIX and Windows quoting) — generated commands reproduce the function results. `describe(cache_only=True)`. The keywords module is now `ttwtools.keyness` (the public function stays `ttwtools.keywords`; the old module name shadowed it).
 - `list_corpora`/`layer_summary` (corpus library with layer coverage) and the interface texts (`data/i18n/ui.{pt,en}.json`) served to the Vue UI.
+- `plan_tagging` (how many documents would be reused, copied or tagged, without tagging) and `taggers.value_availability` (installed spaCy models / Stanza packages per option value).
 - `ttwtools.__version__` (from `pyproject.toml`) and a `pytest` suite in `tests/` (smoke tests: project, tagged JSONL, BiberPlus + KFA; CLI).
 
 ### Changed
