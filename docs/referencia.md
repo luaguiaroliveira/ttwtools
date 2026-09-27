@@ -1553,6 +1553,14 @@ or repr(object).
 encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
+### `add_step` · **`ttwtools.add_step`**
+
+```python
+add_step(project: 'TTWAProject', corpus_name: 'str', step: 'Mapping[str, Any]') -> 'list[dict]'
+```
+
+Acrescenta um passo à lista (validado; passo idêntico não entra duas vezes). Devolve a lista.
+
 ### `biberplus` · **`ttwtools.biberplus`**
 
 ```python
@@ -1560,6 +1568,14 @@ biberplus(*args, **kwargs)
 ```
 
 Lazy wrapper — imports ttwtools.taggers.biberplus on first call.
+
+### `clear_steps` · **`ttwtools.clear_steps`**
+
+```python
+clear_steps(project: 'TTWAProject', corpus_name: 'str') -> 'None'
+```
+
+Esvazia a lista "a executar" do corpus.
 
 ### `extract_biber_features_from_folder` · **`ttwtools.extract_biber_features_from_folder`**
 
@@ -1649,6 +1665,14 @@ normalize_stanza_pos_features(*args, **kwargs)
 
 Lazy wrapper — imports ttwtools.taggers.stanza_pos on first call.
 
+### `pending_steps` · **`ttwtools.pending_steps`**
+
+```python
+pending_steps(project: 'TTWAProject', corpus_name: 'str') -> 'list[dict]'
+```
+
+Passos guardados na lista "a executar" do corpus (a ordem de execução põe `stats` no fim).
+
 ### `preview_filenames` · **`ttwtools.preview_filenames`**
 
 ```python
@@ -1659,6 +1683,25 @@ Como os nomes dos arquivos da pasta viram metadados, sem importar nada.
 
 Devolve {"total", "parts" (nº de pedaços mais comum), "irregular" (até 5 nomes com
 outro nº de pedaços), "n_irregular", "examples": [{"file", "parts", "meta"}]}.
+
+### `remove_step` · **`ttwtools.remove_step`**
+
+```python
+remove_step(project: 'TTWAProject', corpus_name: 'str', index: 'int') -> 'list[dict]'
+```
+
+Tira o passo `index` (0 = primeiro) da lista. Devolve a lista.
+
+### `run_steps` · **`ttwtools.run_steps`**
+
+```python
+run_steps(project: 'TTWAProject', corpus_name: 'str', progress: 'Callable[[int, int, str], None] | None' = None) -> 'dict'
+```
+
+Executa a lista do corpus: etiquetagens na ordem e, por último, as estatísticas básicas.
+
+Cada passo concluído sai da lista (se um falhar, os seguintes continuam guardados).
+Devolve {"done": [{"step", "report"}], "remaining": [...]}.
 
 ### `spacy_ptb` · **`ttwtools.spacy_ptb`**
 

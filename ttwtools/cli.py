@@ -191,6 +191,53 @@ def _configure_names(p: argparse.ArgumentParser) -> None:
     p.add_argument("-n", type=int, default=5, help="quantos arquivos mostrar")
 
 
+def _cmd_pipeline(args: argparse.Namespace) -> int:
+    from . import pipeline
+    with _open_or_create(args.project, create=False) as proj:
+        if args.action == "add-stats":
+            pipeline.add_step(proj, args.corpus, {"kind": "stats"})
+        elif args.action == "add-tag":
+            if not args.tagger:
+                raise SystemExit("ttwtools: add-tag precisa de --tagger")
+            options = {}
+            for item in args.set or []:
+                key, sep, value = item.partition("=")
+                if not sep:
+                    raise SystemExit(f"ttwtools: opção inválida '{item}' (use chave=valor)")
+                options[key.strip()] = _parse_value(value.strip())
+            pipeline.add_step(proj, args.corpus, {"kind": "tag", "tagger": args.tagger, "options": options,
+                                                  "preset": args.preset})
+        elif args.action == "remove":
+            pipeline.remove_step(proj, args.corpus, args.index - 1)
+        elif args.action == "clear":
+            pipeline.clear_steps(proj, args.corpus)
+        elif args.action == "run":
+            def progress(done, total, msg):
+                if args.format == "table":
+                    print(f"  [{done}/{total}] {msg}", file=sys.stderr)
+            r = pipeline.run_steps(proj, args.corpus, progress=progress)
+            emit([{"passo": d["step"].get("tagger", "estatísticas"), **{k: v for k, v in d["report"].items()
+                                                                          if not isinstance(v, (list, dict))}}
+                  for d in r["done"]], args.format)
+            return EXIT_OK
+        steps = pipeline.pending_steps(proj, args.corpus)
+    emit([{"nº": i + 1, "passo": s.get("tagger", "estatísticas básicas"),
+           "opções": json.dumps(s.get("options") or {}, ensure_ascii=False), "atalho": s.get("preset", "")}
+          for i, s in enumerate(steps)] or "lista vazia", args.format)
+    return EXIT_OK
+
+
+def _configure_pipeline(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl")
+    p.add_argument("action", choices=["list", "add-stats", "add-tag", "remove", "clear", "run"],
+                   help="list (mostra), add-stats, add-tag (com --tagger), remove (com --index), clear, run (executa)")
+    p.add_argument("--corpus", required=True, help="corpus")
+    p.add_argument("--tagger", help="spacy, stanza, mfte ou biberplus (add-tag)")
+    p.add_argument("--set", "--option", dest="set", action="append", metavar="CHAVE=VALOR", help="opção do tagger (add-tag)")
+    p.add_argument("--preset", choices=["rapido", "recomendado", "preciso"], help="atalho de opções (add-tag)")
+    p.add_argument("--index", type=int, default=1, help="nº do passo a remover (remove; 1 = primeiro)")
+
+
 def _cmd_documents(args: argparse.Namespace) -> int:
     from .corpus import filter_documents, parse_where
     with _open_or_create(args.project, create=False) as proj:
@@ -783,6 +830,8 @@ def _configure_documents(p: argparse.ArgumentParser) -> None:
 IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]] = {
     "import":    ("Importa textos para um corpus do projeto (pasta, .txt, CSV ou texto colado)",
                   _configure_import, _cmd_import),
+    "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela",
+                  _configure_pipeline, _cmd_pipeline),
     "names":     ("Mostra como os nomes dos arquivos de uma pasta viram metadados (sem importar)",
                   _configure_names, _cmd_names),
     "documents": ("Lista documentos e metadados, com filtro por metadado",

@@ -12,7 +12,7 @@ from typing import TYPE_CHECKING
 
 from ._version import __version__
 
-_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "backends", "annotate", "formats", "stats", "query", "keyness", "features", "viz", "corpus_catalog", "models", "experimental", "i18n", "help", "codegen", "cli")
+_SUBMODULES = ("analysis", "tagging", "taggers", "tagged_io", "project", "layers", "corpus", "backends", "annotate", "formats", "stats", "query", "keyness", "features", "viz", "corpus_catalog", "models", "pipeline", "experimental", "i18n", "help", "codegen", "cli")
 
 # nome público → submódulo que o define
 _EXPORTS = {
@@ -61,6 +61,11 @@ _EXPORTS = {
     # corpus: importação, metadados, tokenização simples, filtros
     "import_corpus": "corpus",
     "preview_filenames": "corpus",
+    "pending_steps": "pipeline",
+    "add_step": "pipeline",
+    "remove_step": "pipeline",
+    "clear_steps": "pipeline",
+    "run_steps": "pipeline",
     "filter_documents": "corpus",
     "list_groups": "corpus",
     "set_document_meta": "corpus",

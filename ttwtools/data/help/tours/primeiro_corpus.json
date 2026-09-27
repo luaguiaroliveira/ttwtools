@@ -10,11 +10,11 @@
    "rota": "/corpora"
   },
   {
-   "alvo": "#botao-tagger",
+   "alvo": "#adicionar-camadas",
    "titulo": "tour.primeiro_corpus.tagger",
    "texto_ref": "conceitos/tagset_biber",
    "posicao": "direita",
-   "rota": "/corpora"
+   "rota": "/etiquetagem"
   },
   {
    "alvo": "#busca-kwic",

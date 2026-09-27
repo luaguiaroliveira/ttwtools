@@ -5,6 +5,6 @@
  "tour.primeiro_corpus.importar": "Import your texts",
  "tour.primeiro_corpus.keywords": "Compare with a reference",
  "tour.primeiro_corpus.kwic": "Search the corpus",
- "tour.primeiro_corpus.tagger": "Choose the tagger",
+ "tour.primeiro_corpus.tagger": "Add layers and run",
  "tour.primeiro_corpus.title": "First corpus"
 }
