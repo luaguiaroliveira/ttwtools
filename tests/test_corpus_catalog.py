@@ -90,3 +90,33 @@ def test_cli_catalog(env, capsys):
     assert json.loads(capsys.readouterr().out)["versão"] == "1.0"
     assert cli.main(["catalog", "validate", env["catalog"]]) == 0
     assert cli.main(["catalog", "remove", "demo", "--json"]) == 0
+
+
+def test_version_key_mixed():
+    assert sorted(["2", "1961-nltk.1", "10", "1.2"], key=cc.version_key) == ["1.2", "2", "10", "1961-nltk.1"]
+
+
+def test_reference_package_keywords_and_bands(env, capsys):
+    """Passo 4.4: pacote só com a lista; catalog:<id> como referência; faixas de frequência."""
+    ref = cc.make_reference_package(env["tmp"] / "demo.ttwa", env["tmp"] / "pub", FICHA)
+    with zipfile.ZipFile(env["tmp"] / "pub" / ref["url"]) as z:
+        assert "corpus.ttwa" not in z.namelist() and "referencia-form.tsv" in z.namelist()
+    assert ref["id"] == "demo-lista" and ref["ficha"]["of"] == "demo"
+    cc.write_catalog([env["entry"], ref], env["catalog"])
+    cc.install("demo-lista", catalog=cc.load_catalog(env["catalog"]))
+    lists = cc.reference_lists()
+    assert {r["ref"] for r in lists} == {"catalog:demo"} and {"form", "lemma"} <= {r["unit"] for r in lists}
+    target = env["tmp"] / "alvo.ttwa"
+    with ttwtools.create_project(target) as p:
+        p.add_corpus_text("alvo", "a.txt", "The cat sat. Zebras ran on the mat. The zebra ate.")
+        ttwtools.tag_corpus(p, "alvo", "simple")
+        kw = ttwtools.keywords(p, "alvo", "catalog:demo", min_freq=1, save=False)
+        assert kw["reference"].startswith("Demo") and kw["reference_words"] > 0
+        bands = ttwtools.frequency_bands(p, "alvo", "catalog:demo", bands=(2, 5))
+        by = {r["band"]: r for r in bands["rows"]}
+        assert list(by) == ["1-2", "3-5", ">5", "off_list"]
+        assert "zebras" in by["off_list"]["examples"] and sum(r["tokens"] for r in bands["rows"]) == bands["tokens"]
+        with pytest.raises(ValueError, match="não instalada"):
+            ttwtools.frequency_bands(p, "alvo", "catalog:brown")
+    assert cli.main(["bands", str(target), "--corpus", "alvo", "--reference", "catalog:demo", "--json"]) == 0
+    assert json.loads(capsys.readouterr().out)["rows"][-1]["band"] == "off_list"

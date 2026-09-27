@@ -519,6 +519,32 @@ def _cmd_keywords(args):
     return EXIT_OK
 
 
+def _cmd_bands(args):
+    from .corpus import parse_where
+    from .keyness import frequency_bands
+    with _open_or_create(args.project, create=False) as proj:
+        r = frequency_bands(proj, args.corpus, args.reference, unit=args.unit, layer=args.layer,
+                            where=parse_where(args.where or []),
+                            bands=tuple(int(b) for b in args.bands.split(",")))
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    if args.format == "table":
+        print(f"{r['target']} ({r['tokens']} ocorrências, {r['types']} tipos) × {r['reference']}"
+              f" ({r['reference_words']} palavras) · unidade {args.unit}")
+    emit([{**{k: row[k] for k in ("band", "tokens", "types")}, "pct_tokens": round(row["pct_tokens"], 2),
+           "pct_types": round(row["pct_types"], 2), "examples": " ".join(row["examples"])} for row in r["rows"]],
+         args.format)
+    return EXIT_OK
+
+
+def _configure_bands(p):
+    _query_common(p, needs_query=False)
+    p.add_argument("--reference", required=True, help="catalog:<id>, lista .tsv ou nome de outro corpus do projeto")
+    p.add_argument("--unit", choices=["form", "lemma", "word_pos"], default="form")
+    p.add_argument("--bands", default="1000,2000,3000,5000,10000", help="limites das faixas (posições na referência)")
+
+
 def _cmd_reference_list(args):
     from .keyness import make_reference_list
     card = {k: getattr(args, k) for k in ("lang", "variety", "period", "genres", "license", "source", "version")
@@ -533,7 +559,8 @@ def _cmd_reference_list(args):
 def _configure_keywords(p):
     _query_common(p, needs_query=False)
     p.add_argument("--reference", required=True,
-                   help="lista .tsv, nome de outro corpus do projeto, ou rest:<metadado> (com --where definindo o alvo)")
+                   help="lista .tsv, catalog:<id> (lista instalada pelo catálogo), nome de outro corpus do projeto, "
+                        "ou rest:<metadado> (com --where definindo o alvo)")
     p.add_argument("--unit", choices=["form", "lemma", "pos", "word_pos", "ngram"], default="form")
     p.add_argument("-n", type=int, default=2, help="tamanho do n-grama")
     p.add_argument("--measure", choices=["ll", "log_ratio", "pct_diff", "log_odds"], default="ll")
@@ -637,6 +664,9 @@ def _cmd_catalog(args):
         errors = cc.validate_catalog(_json.loads(open(args.id, encoding="utf-8").read()))
         emit([{"erro": e} for e in errors] if errors else "catálogo válido", args.format)
         return EXIT_ERROR if errors else EXIT_OK
+    elif act == "references":
+        emit([{k: r[k] for k in ("ref", "unit", "words", "documents", "lang", "license", "version")}
+              for r in cc.reference_lists()], args.format)
     elif act == "models":
         emit(models.list_models()["spacy"], args.format)
     elif act == "download-model":
@@ -647,8 +677,8 @@ def _cmd_catalog(args):
 
 
 def _configure_catalog(p):
-    p.add_argument("action", choices=["list", "installed", "install", "remove", "update", "validate", "models",
-                                      "download-model"])
+    p.add_argument("action", choices=["list", "installed", "install", "remove", "update", "validate", "references",
+                                      "models", "download-model"])
     p.add_argument("id", nargs="?", help="id do pacote (install/remove), caminho do catálogo (validate) ou modelo "
                                          "(download-model: en_core_web_md, stanza:pt)")
     p.add_argument("--version", dest="version", help="versão do pacote")
@@ -679,9 +709,11 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_compare, _cmd_compare),
     "keywords":  ("Palavras-chave do corpus contra uma referência (LL, log ratio, %%DIFF, log-odds)",
                   _configure_keywords, _cmd_keywords),
+    "bands":     ("Faixas de frequência lexical: parte do texto entre as 1.000, 2.000... palavras mais frequentes",
+                  _configure_bands, _cmd_bands),
     "reference-list": ("Gera a lista de frequência de referência (.tsv com ficha) de um corpus",
                        _configure_reference_list, _cmd_reference_list),
-    "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, models, download-model",
+    "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, references, models, download-model",
                   _configure_catalog, _cmd_catalog),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",

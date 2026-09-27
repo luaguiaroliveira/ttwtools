@@ -106,6 +106,14 @@ def corpus_freqs(project: TTWAProject, corpus_name: str, unit: str = "form", n: 
                      frozenset(d["id"] for d in sel.values()))
 
 
+def _catalog_reference(reference, unit: str):
+    """`catalog:<id>` → caminho da lista instalada; o resto passa como está."""
+    if isinstance(reference, str) and reference.startswith("catalog:"):
+        from .corpus_catalog import reference_list_path
+        return reference_list_path(reference, unit)
+    return reference
+
+
 def write_reference_list(path: str | Path, table: FreqTable, card: Mapping[str, Any] | None = None) -> Path:
     """Grava uma lista de frequência de referência (.tsv com a ficha na 1ª linha)."""
     path = Path(path)
@@ -268,6 +276,7 @@ def keywords(
     if measure not in MEASURES:
         raise ValueError(f"medida deve ser uma de {MEASURES}")
     target = corpus_freqs(project, corpus_name, unit, n, layer, where)
+    reference = _catalog_reference(reference, unit)
     ref_id: str
     if isinstance(reference, FreqTable):
         ref, ref_id = reference, reference.meta.get("name", "tabela")
@@ -323,3 +332,51 @@ def keywords(
                                       "reference_version": ref.meta.get("version"), "unit": unit, "measure": measure,
                                       "min_freq": min_freq, "min_range": min_range, "correction": correction})
     return result
+
+
+# ---------------------------------------------------------------------------
+# Faixas de frequência lexical
+# ---------------------------------------------------------------------------
+
+BANDS = (1000, 2000, 3000, 5000, 10000)
+
+
+def frequency_bands(project: TTWAProject, corpus_name: str, reference: str | Path | FreqTable,
+                    unit: str = "form", bands: tuple[int, ...] = BANDS, layer: str | None = None,
+                    where: Mapping | None = None, examples: int = 8) -> dict:
+    """Perfil de frequência lexical (Laufer & Nation 1995): quanto do texto está entre
+    as 1.000, 2.000... palavras mais frequentes da referência, e quanto fica fora da lista.
+    `reference` como em keywords() (lista .tsv, `catalog:<id>`, outro corpus ou FreqTable).
+    Devolve {"rows": [{band, from, to, tokens, types, pct_tokens, pct_types, examples}],
+    "tokens", "types", "reference", "reference_words", "unit"}."""
+    if unit not in ("form", "lemma", "word_pos"):
+        raise ValueError("faixas de frequência usam form, lemma ou word_pos")
+    reference = _catalog_reference(reference, unit)
+    if isinstance(reference, FreqTable):
+        ref = reference
+    elif Path(str(reference)).suffix.lower() in (".tsv", ".txt") and Path(str(reference)).is_file():
+        ref = read_reference_list(reference)
+    else:
+        ref = corpus_freqs(project, str(reference), unit, layer=layer)
+    target = corpus_freqs(project, corpus_name, unit, layer=layer, where=where)
+    rank = {item: i + 1 for i, (item, _) in enumerate(ref.counts.most_common())}
+    edges = sorted(bands)
+    labels = [(lo + 1, hi) for lo, hi in zip((0,) + tuple(edges[:-1]), edges)] + [(edges[-1] + 1, None), (None, None)]
+    acc = [{"tokens": 0, "types": 0, "items": Counter()} for _ in labels]
+    for item, f in target.counts.items():
+        r = rank.get(item)
+        i = len(labels) - 1 if r is None else next((j for j, hi in enumerate(edges) if r <= hi), len(edges))
+        acc[i]["tokens"] += f
+        acc[i]["types"] += 1
+        acc[i]["items"][item] = f
+    tokens = sum(target.counts.values())
+    types = len(target.counts)
+    rows = []
+    for (lo, hi), a in zip(labels, acc):
+        band = "off_list" if lo is None else (f"{lo}-{hi}" if hi else f">{lo - 1}")
+        rows.append({"band": band, "from": lo, "to": hi, "tokens": a["tokens"], "types": a["types"],
+                     "pct_tokens": 100 * a["tokens"] / tokens if tokens else 0.0,
+                     "pct_types": 100 * a["types"] / types if types else 0.0,
+                     "examples": [w for w, _ in a["items"].most_common(examples)]})
+    return {"target": corpus_name, "unit": unit, "tokens": tokens, "types": types, "rows": rows,
+            "reference": ref.meta.get("name", str(reference)), "reference_words": ref.words}

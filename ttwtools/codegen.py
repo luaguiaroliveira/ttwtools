@@ -39,6 +39,8 @@ SPECS: dict[str, tuple[str, str, list[str], dict[str, tuple[str, Any]]]] = {
                  {"unit": ("--unit", "form"), "measure": ("--measure", "ll"), "layer": ("--layer", None),
                   "min_freq": ("--min-freq", 5), "min_range": ("--min-range", 1),
                   "correction": ("--correction", "bonferroni"), "top": ("--top", 100)}),
+    "bands": ("bands", "frequency_bands", ["corpus", "reference"],
+              {"unit": ("--unit", "form"), "layer": ("--layer", None)}),
     "kfa": ("compare", "kfa_layers", ["corpus", "corpus2", "layer"],
             {"feature": ("--feature", None), "metric": ("--metric", "kfa"), "min_effect": ("--min-effect", 0.0),
              "join": ("--join", "union")}),
@@ -70,7 +72,7 @@ def cli_command(analysis: str, project_path: str, params: Mapping[str, Any], win
         else:
             parts.append(q(params[name]))
     parts += ["--corpus", q(params["corpus"])]
-    if analysis == "keywords":
+    if analysis in ("keywords", "bands"):
         parts += ["--reference", q(params["reference"])]
     if analysis == "tag":
         parts += ["--tagger", q(params["tagger"])]

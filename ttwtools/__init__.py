@@ -87,6 +87,7 @@ _EXPORTS = {
     "feature_table": "features",
     "kfa_layers": "features",
     "make_reference_list": "keyness",
+    "frequency_bands": "keyness",
     "read_reference_list": "keyness",
 }
 

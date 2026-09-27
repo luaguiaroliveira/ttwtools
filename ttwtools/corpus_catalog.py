@@ -184,6 +184,21 @@ def make_package(project_path: str | Path, out_dir: str | Path, ficha: Mapping[s
             "size": pkg.stat().st_size, "sha256": _sha256(pkg), "ficha": ficha}
 
 
+def make_reference_package(project_path: str | Path, out_dir: str | Path, ficha: Mapping[str, Any],
+                           corpus_name: str | None = None, layer: str | None = None) -> dict:
+    """Pacote só com as listas de frequência (`<id>-lista`): a referência de palavras-chave
+    e das faixas de frequência sem baixar o corpus. A licença é a da lista derivada
+    (`license.reference_list`), que pode diferir da do texto."""
+    lic = dict(ficha["license"])
+    ref_lic = {"name": lic.get("reference_list") or lic["name"],
+               "redistributable": lic.get("reference_list_redistributable", lic.get("redistributable")),
+               "verified_on": lic.get("verified_on")}
+    lf = {k: v for k, v in ficha.items() if k not in ("size", "layers", "files")}
+    lf.update(id=f"{ficha['id']}-lista", name=f"{ficha['name']} (lista de frequências)", of=ficha["id"],
+              provides="reference_lists", license=ref_lic)
+    return make_package(project_path, out_dir, lf, corpus_name, include_corpus=False, layer=layer)
+
+
 def write_catalog(entries: list[Mapping], path: str | Path) -> dict:
     catalog = {"format": CATALOG_FORMAT, "updated": dt.date.today().isoformat(), "packages": list(entries)}
     errors = validate_catalog(catalog)
@@ -221,6 +236,12 @@ def _resolve(base: str, url: str) -> str:
     return str(Path(urllib.parse.unquote(base.removeprefix("file://"))).parent / url)
 
 
+def version_key(version: str) -> list[tuple[int, int | str]]:
+    """Ordena versões por partes: números como números, texto depois de número."""
+    import re
+    return [(0, int(x)) if x.isdigit() else (1, x) for x in re.split(r"[.\-]", version)]
+
+
 def installed() -> list[dict]:
     """Pacotes instalados: ficha + caminho de cada um."""
     out = []
@@ -240,7 +261,7 @@ def install(package_id: str, version: str | None = None, catalog: Mapping | None
     entries = [e for e in catalog["packages"] if e["id"] == package_id and (version is None or e["version"] == version)]
     if not entries:
         raise KeyError(f"pacote '{package_id}' não está no catálogo")
-    entry = sorted(entries, key=lambda e: [int(x) if x.isdigit() else x for x in e["version"].split(".")])[-1]
+    entry = sorted(entries, key=lambda e: version_key(e["version"]))[-1]
     if entry.get("kind", "package") != "package":
         raise ValueError(f"'{package_id}' não é redistribuível: use a receita de preparo")
     dest = data_dir() / "corpora" / entry["id"] / entry["version"]
@@ -268,6 +289,36 @@ def install(package_id: str, version: str | None = None, catalog: Mapping | None
     return next(i for i in installed() if i["path"] == str(dest))
 
 
+def reference_lists() -> list[dict]:
+    """Listas de referência instaladas (pacotes completos ou `-lista`), uma por unidade.
+    `ref` é o que `keywords()`/`frequency_bands()` aceitam: `catalog:<id>`."""
+    out = []
+    for item in installed():
+        for path in item["reference_lists"]:
+            with open(path, encoding="utf-8") as fh:
+                meta = json.loads(fh.readline()[2:])
+            corpus_id = item["ficha"].get("of", item["id"])
+            out.append({"ref": f"catalog:{corpus_id}", "package": item["id"], "version": item["version"],
+                        "name": item["ficha"].get("name"), "unit": meta.get("unit"), "words": meta.get("words"),
+                        "documents": meta.get("documents"), "lang": meta.get("lang"),
+                        "variety": item["ficha"].get("variety"), "license": meta.get("license"), "path": path})
+    return out
+
+
+def reference_list_path(ref: str, unit: str = "form") -> Path:
+    """Caminho da lista `catalog:<id>[@versão]` na unidade pedida (a versão mais nova instalada)."""
+    spec = ref.split(":", 1)[1] if ref.startswith("catalog:") else ref
+    corpus_id, _, version = spec.partition("@")
+    found = [r for r in reference_lists() if r["ref"] == f"catalog:{corpus_id}" and r["unit"] == unit
+             and (not version or r["version"] == version)]
+    if not found:
+        units = sorted({r["unit"] for r in reference_lists() if r["ref"] == f"catalog:{corpus_id}"})
+        if units:
+            raise ValueError(f"'{corpus_id}' não tem lista de '{unit}' instalada (tem: {', '.join(units)})")
+        raise ValueError(f"lista de referência '{corpus_id}' não instalada: ttwtools catalog install {corpus_id}-lista")
+    return Path(max(found, key=lambda r: version_key(r["version"]))["path"])
+
+
 def remove(package_id: str, version: str | None = None) -> int:
     """Remove as versões instaladas (todas, ou só `version`). Devolve quantas."""
     n = 0
@@ -284,7 +335,7 @@ def remove(package_id: str, version: str | None = None) -> int:
 def updates(catalog: Mapping | None = None) -> list[dict]:
     """Pacotes instalados com versão mais nova no catálogo."""
     catalog = catalog or load_catalog()
-    key = lambda v: [int(x) if x.isdigit() else x for x in v.split(".")]  # noqa: E731
+    key = version_key
     out = []
     for item in installed():
         newer = [e["version"] for e in catalog["packages"] if e["id"] == item["id"] and key(e["version"]) > key(item["version"])]
