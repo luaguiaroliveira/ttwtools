@@ -39,6 +39,9 @@ SPECS: dict[str, tuple[str, str, list[str], dict[str, tuple[str, Any]]]] = {
                  {"unit": ("--unit", "form"), "measure": ("--measure", "ll"), "layer": ("--layer", None),
                   "min_freq": ("--min-freq", 5), "min_range": ("--min-range", 1),
                   "correction": ("--correction", "bonferroni"), "top": ("--top", 100)}),
+    "kfa": ("compare", "kfa_layers", ["corpus", "corpus2", "layer"],
+            {"feature": ("--feature", None), "metric": ("--metric", "kfa"), "min_effect": ("--min-effect", 0.0),
+             "join": ("--join", "union")}),
     "tag": ("tag", "tag_corpus", ["corpus", "tagger"],
             {"preset": ("--preset", None), "options": ("--set", None), "components": ("--components", None),
              "force": ("--force", False)}),
@@ -62,7 +65,7 @@ def cli_command(analysis: str, project_path: str, params: Mapping[str, Any], win
             continue
         if name == "node":
             parts.append(q(params["node"]))
-        elif name in ("reference", "tagger"):
+        elif name in ("reference", "tagger", "corpus2", "layer"):
             continue
         else:
             parts.append(q(params[name]))
@@ -71,6 +74,8 @@ def cli_command(analysis: str, project_path: str, params: Mapping[str, Any], win
         parts += ["--reference", q(params["reference"])]
     if analysis == "tag":
         parts += ["--tagger", q(params["tagger"])]
+    if analysis == "kfa":
+        parts += ["--corpus2", q(params["corpus2"]), "--layer", q(params["layer"])]
     for name, (flag, _default) in options.items():
         value = params.get(name)
         if value is None:

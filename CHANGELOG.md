@@ -22,6 +22,7 @@ All notable changes to ttwtools are documented here.
 - `list_corpora`/`layer_summary` (corpus library with layer coverage) and the interface texts (`data/i18n/ui.{pt,en}.json`) served to the Vue UI.
 - `plan_tagging` (how many documents would be reused, copied or tagged, without tagging) and `taggers.value_availability` (installed spaCy models / Stanza packages per option value).
 - `read_document` (text + layer tokens for the tagged reader) and the Explore screen texts.
+- `ttwtools.features`: `feature_table` (per-document feature counts from a layer, word counts following each tagger's legacy rule) and `kfa_layers` (KFA between corpora or metadata groups, from layers, saved in `analyses`); `feature_values`. CLI `ttwtools compare` (was a stub). A fresh BiberPlus layer now reproduces the legacy rawcount table exactly: the BiberPlus aligner keeps punctuation tokens and zero-width tokens it cannot locate, so no tag is lost.
 - `ttwtools.__version__` (from `pyproject.toml`) and a `pytest` suite in `tests/` (smoke tests: project, tagged JSONL, BiberPlus + KFA; CLI).
 
 ### Changed

@@ -94,7 +94,6 @@ def emit(result: Any, fmt: str = "table", columns: Sequence[str] | None = None, 
 
 # nome → (descrição, passo do plano que o implementa)
 COMMANDS: dict[str, tuple[str, str]] = {
-    "compare":        ("Compara corpora (KFA e afins)", "1.7/1.9"),
 }
 
 
@@ -580,6 +579,34 @@ def _configure_help(p):
     p.add_argument("--search", help="procurar nos textos de ajuda")
 
 
+def _cmd_compare(args):
+    from .corpus import parse_where
+    from .features import kfa_layers
+    with _open_or_create(args.project, create=False) as proj:
+        r = kfa_layers(proj, args.corpus, args.corpus2 or args.corpus, args.layer, args.feature, args.metric,
+                       args.min_effect, args.join, parse_where(args.where or []), parse_where(args.where2 or []))
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    if args.format == "table":
+        print(f"KFA {r['corpus1']} ({r['n1']}) × {r['corpus2']} ({r['n2']}) · camada {r['layer']} · {r['metric']}")
+    emit(r["rows"], args.format, columns=["Feature", "Effect_Size", "Mean_Corpus1", "Mean_Corpus2", "Difference"])
+    return EXIT_OK
+
+
+def _configure_compare(p):
+    p.add_argument("project")
+    p.add_argument("--corpus", required=True, help="corpus 1")
+    p.add_argument("--corpus2", help="corpus 2 (padrão: o mesmo, comparando grupos com --where/--where2)")
+    p.add_argument("--layer", required=True, help="camada: biberplus, mfte, spacy, stanza...")
+    p.add_argument("--feature", choices=["tags", "upos", "xpos"], help="o que contar (padrão: tags no BiberPlus/MFTE, upos nos demais)")
+    p.add_argument("--metric", choices=["kfa", "kfa2"], default="kfa")
+    p.add_argument("--min-effect", type=float, default=0.0)
+    p.add_argument("--join", choices=["union", "intersection"], default="union")
+    p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="filtro do lado 1")
+    p.add_argument("--where2", action="append", metavar="CHAVE=VALOR", help="filtro do lado 2")
+
+
 def _configure_documents(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", help="só este corpus")
@@ -600,6 +627,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
     "freq":      ("Lista de frequência (forma, lema, palavra+classe, classe, n-grama)", _configure_freq, _cmd_freq),
     "collocates": ("Colocados com log-likelihood, MI, T-score e frequência", _configure_collocates, _cmd_collocates),
     "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
+    "compare":   ("KFA (d de Cohen por traço) entre dois corpora ou grupos, a partir das camadas",
+                  _configure_compare, _cmd_compare),
     "keywords":  ("Palavras-chave do corpus contra uma referência (LL, log ratio, %%DIFF, log-odds)",
                   _configure_keywords, _cmd_keywords),
     "reference-list": ("Gera a lista de frequência de referência (.tsv com ficha) de um corpus",

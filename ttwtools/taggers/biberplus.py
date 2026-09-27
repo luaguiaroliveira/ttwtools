@@ -148,21 +148,24 @@ def _tokens_with_offsets_regex(text: str, tagged_words: list, offset_map: list[i
 
     Works correctly for any left-to-right tokeniser because we advance the
     search cursor past each found token.  ``xpos`` is left empty because the
-    NLTK-based pipeline does not provide Penn Treebank tags.
+    NLTK-based pipeline does not provide Penn Treebank tags.  Punctuation tokens
+    are kept, and tokens that cannot be located get a zero-width span, so that
+    every tag produced by BiberPlus is preserved.
     """
     result = []
     search_pos = 0
 
     for w in tagged_words:
         word_text = _get_tw_word(w)
-        if not _has_alnum.search(word_text):
-            continue
-
         tags = w.get("tags", []) if isinstance(w, dict) else []
 
-        pos = text.find(word_text, search_pos)
+        pos = text.find(word_text, search_pos) if word_text else -1
         if pos == -1:
-            continue  # token not found in remaining text — skip
+            # Não achado no texto (forma normalizada pelo tagger): guarda com largura
+            # zero para não perder as etiquetas (as contagens batem com tag_text).
+            mapped, _ = _map_span(search_pos, search_pos, offset_map)
+            result.append({"start_char": mapped, "end_char": mapped, "word": word_text, "xpos": "", "tags": tags})
+            continue
 
         end_pos = pos + len(word_text)
         mapped_start, mapped_end = _map_span(pos, end_pos, offset_map)
