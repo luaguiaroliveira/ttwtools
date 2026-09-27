@@ -373,6 +373,7 @@
  "wizard.csv_title": "Usar uma planilha em vez dos nomes dos arquivos",
  "wizard.file": "Arquivo",
  "wizard.folder": "Pasta",
+ "wizard.folder_or_type": "ou digite o caminho da pasta",
  "wizard.format": "Formato dos arquivos",
  "wizard.format.conllu": "CoNLL-U (já anotado)",
  "wizard.format.graf": "GrAF (OANC, MASC)",
@@ -395,6 +396,8 @@
  "wizard.pieces": "Pedaços do nome, a partir de {file}",
  "wizard.pieces_hint": "Deixe em branco os pedaços que não interessam.",
  "wizard.preview": "Como vai ficar ({n} de {total} arquivos)",
+ "wizard.rename_hint": "Em branco, o corpus usa o nome da pasta.",
+ "wizard.rename_title": "Renomear o corpus (opcional)",
  "wizard.see_overview": "Ver a visão geral",
  "wizard.sep.dot": ". (ponto)",
  "wizard.sep.hyphen": "- (hífen)",
@@ -404,5 +407,6 @@
  "wizard.step_next": "O que fazer agora",
  "wizard.step_source": "De onde vêm os textos",
  "wizard.tag_now": "Etiquetar agora",
- "wizard.text": "Texto"
+ "wizard.text": "Texto",
+ "wizard.will_be_called": "O corpus vai se chamar"
 }
