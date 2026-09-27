@@ -77,7 +77,8 @@ def options(tagger_id: str, lang: str | None | bool = None) -> dict:
 
 def value_availability(tagger_id: str) -> dict[str, dict[str, dict]]:
     """Para opções cujos valores dependem de algo instalado (modelos do spaCy,
-    pacotes do Stanza): {opção: {valor: {"installed": bool, "command": str}}}."""
+    pacotes do Stanza): {opção: {valor: {"installed": bool, "command": str}}}. Pacotes do
+    Stanza de outro idioma vêm em `opção@idioma` (ex.: "package@pt")."""
     tagger, _ = resolve(tagger_id)
     out: dict[str, dict[str, dict]] = {}
     for o in _load_descriptor(tagger)["options"]:
@@ -86,11 +87,42 @@ def value_availability(tagger_id: str) -> dict[str, dict[str, dict]]:
             out[o["id"]] = {v: {"installed": spacy_model_installed(v), "command": o["instalar"].format(value=v)}
                             for v in o["valores"]}
         elif kind == "stanza_package":
-            try:
-                out[o["id"]] = {v: {"installed": stanza_package_installed("en", v),
-                                    "command": stanza_download_command("en", v)} for v in o["valores"]}
-            except Exception:      # stanza ausente: tudo indisponível
-                out[o["id"]] = {v: {"installed": False, "command": stanza_download_command("en", v)} for v in o["valores"]}
+            by_lang = o.get("por_idioma") or {"en": o["valores"]}
+            for lang, values in by_lang.items():      # "package" = inglês; "package@pt" = português...
+                key = o["id"] if lang == "en" else f"{o['id']}@{lang}"
+                try:
+                    out[key] = {v: {"installed": stanza_package_installed(lang, v),
+                                    "command": stanza_download_command(lang, v)} for v in values}
+                except Exception:      # stanza ausente: tudo indisponível
+                    out[key] = {v: {"installed": False, "command": stanza_download_command(lang, v)} for v in values}
+    return out
+
+
+def language_defaults(tagger_id: str, lang: str | None, current: Mapping[str, Any] | None = None) -> dict:
+    """Opções que adaptam o tagger ao idioma do corpus (ex.: pt → model=pt_core_news_sm
+    no spaCy, lang=pt no Stanza). Com `current` (ex.: um atalho), mantém o tamanho do
+    modelo (sm, md, lg; trf → o maior disponível); senão prefere o menor já instalado.
+    Devolve só o que muda ({} se nada muda)."""
+    if not lang:
+        return {}
+    tagger, _ = resolve(tagger_id)
+    d = _load_descriptor(tagger)
+    if lang not in d.get("langs", [lang]):
+        return {}
+    out = {}
+    avail = value_availability(tagger)
+    for o in d["options"]:
+        if o["id"] == "lang" and lang in o.get("valores", []) and o.get("padrao") != lang:
+            out["lang"] = lang
+        elif (o.get("disponibilidade") or {}).get("tipo") == "spacy_model":
+            cur = str((current or {}).get(o["id"]) or o.get("padrao", ""))
+            same = [v for v in o["valores"] if v.startswith(f"{lang}_")]
+            if cur.startswith(f"{lang}_") or not same:
+                continue
+            size = cur.rsplit("_", 1)[-1] if current and o["id"] in current else None
+            sized = [v for v in same if v.endswith(f"_{size}")] or (same[-1:] if size == "trf" else [])
+            installed = [v for v in same if avail.get(o["id"], {}).get(v, {}).get("installed")]
+            out[o["id"]] = (sized or installed or same)[0]
     return out
 
 
@@ -137,6 +169,11 @@ def validate_options(tagger_id: str, opts: Mapping[str, Any] | None) -> dict:
             errors.append(f"'{key}' deve ser inteiro" + (f" ≥ {o['min']}" if "min" in o else ""))
         elif kind == "escolha" and value not in o["valores"]:
             errors.append(f"'{key}' deve ser um de: {', '.join(map(str, o['valores']))}")
+        elif kind == "escolha" and o.get("por_idioma"):          # ex.: pacote do Stanza depende do idioma
+            lang = (opts or {}).get("lang") or next((x.get("padrao") for x in spec.values() if x["id"] == "lang"), None)
+            allowed = o["por_idioma"].get(lang)
+            if allowed is not None and value not in allowed:
+                errors.append(f"'{key}' para o idioma '{lang}' deve ser um de: {', '.join(allowed)}")
         elif kind == "lista" and (not isinstance(value, (list, tuple)) or not value
                                   or not set(value) <= set(o["valores"])):
             errors.append(f"'{key}' deve ser uma lista com valores entre: {', '.join(o['valores'])}")

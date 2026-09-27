@@ -39,6 +39,31 @@ def stopword_languages() -> list[str]:
     return sorted(p.stem for p in _STOP_DIR.glob("*.txt"))
 
 
+def guess_language(project: TTWAProject, corpus_name: str, sample_docs: int = 20) -> str | None:
+    """Idioma do corpus: o das camadas (modelo en_*/pt_*, Stanza lang), senão o que tiver
+    mais palavras funcionais numa amostra do texto (entre os idiomas com lista)."""
+    import re as _re
+    from .keyness import _lang_of
+    langs = Counter()
+    for r in project._con.execute(
+            "SELECT l.tool, l.model, l.config FROM layers l JOIN documents d ON d.id = l.doc_id WHERE d.corpus_name = ?",
+            (corpus_name,)):
+        lang = _lang_of(r["tool"], r["model"] or "", json.loads(r["config"] or "{}"))
+        if lang:
+            langs[lang] += 1
+    if langs:
+        return langs.most_common(1)[0][0]
+    words: Counter = Counter()
+    for d in filter_documents(project, corpus_name)[:sample_docs]:
+        text = project.get_corpus_file(corpus_name, d["filename"]) or ""
+        words.update(w.lower() for w in _re.findall(r"\w+", text[:5000]))
+    if not words:
+        return None
+    scores = {lang: sum(words[w] for w in stopwords(lang)) for lang in stopword_languages()}
+    best = max(scores, key=scores.get)
+    return best if scores[best] else None
+
+
 def stopwords(lang: str = "en", add: Iterable[str] | None = None, replace: Iterable[str] | None = None) -> set[str]:
     """Lista de palavras funcionais do idioma (data/stopwords/<lang>.txt), com
     palavras acrescentadas (`add`) ou uma lista própria no lugar (`replace`)."""
@@ -227,7 +252,7 @@ def describe(
     sttr_block: int = 1000,
     mattr_window: int = 50,
     hide_stopwords: bool = False,
-    stopwords_lang: str = "en",
+    stopwords_lang: str | None = None,
     extra_stopwords: Iterable[str] | None = None,
     own_stopwords: Iterable[str] | None = None,
     use_cache: bool = True,
@@ -240,6 +265,8 @@ def describe(
     `cache_only` devolve só o resultado guardado (ou None), sem calcular.
     """
     docs = filter_documents(project, corpus_name, where)
+    if hide_stopwords and not stopwords_lang:
+        stopwords_lang = guess_language(project, corpus_name) or "en"
     stop = stopwords(stopwords_lang, extra_stopwords, own_stopwords) if hide_stopwords else None
     tok_cfg = get_tokenizer_config(project, corpus_name)
     params = {"corpus": corpus_name, "layer": layer, "where": dict(where or {}), "top": top,

@@ -381,7 +381,7 @@ def _configure_describe(p: argparse.ArgumentParser) -> None:
     p.add_argument("--layer", help="ferramenta da camada (spacy, stanza, mfte, biberplus, conllu...) para as estatísticas pós-etiquetagem")
     p.add_argument("--top", type=int, default=20)
     p.add_argument("--hide-stopwords", action="store_true", help="tirar palavras funcionais da lista de mais frequentes")
-    p.add_argument("--stopwords-lang", default="en", help="idioma da lista de palavras funcionais (en, pt)")
+    p.add_argument("--stopwords-lang", help="idioma da lista de palavras funcionais (en, pt; padrão: o do corpus)")
     p.add_argument("--add-stopword", action="append", help="palavra funcional a acrescentar (repita)")
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
 
@@ -431,9 +431,9 @@ def _cmd_kwic(args):
 def _cmd_freq(args):
     from .corpus import parse_where
     from .query import frequency
-    from .stats import stopwords
-    stop = stopwords(args.stopwords_lang) if args.hide_stopwords else None
+    from .stats import guess_language, stopwords
     with _open_or_create(args.project, create=False) as proj:
+        stop = stopwords(args.stopwords_lang or guess_language(proj, args.corpus) or "en") if args.hide_stopwords else None
         r = frequency(proj, args.corpus, args.unit, args.n, args.by, args.layer, parse_where(args.where or []),
                       args.top, stop=stop)
     emit(r if args.format == "json" else r["rows"], args.format)
@@ -490,7 +490,7 @@ def _configure_freq(p):
     p.add_argument("--by", default="corpus", help="corpus, document ou nome de metadado")
     p.add_argument("--top", type=int, default=50)
     p.add_argument("--hide-stopwords", action="store_true")
-    p.add_argument("--stopwords-lang", default="en")
+    p.add_argument("--stopwords-lang", help="en, pt (padrão: o do corpus)")
 
 
 def _configure_collocates(p):

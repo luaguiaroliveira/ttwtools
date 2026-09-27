@@ -69,7 +69,7 @@ def parse_conllu(source: str | Path, default_doc: str = "doc") -> list[dict]:
         if line.startswith("#"):
             key, sep, value = line[1:].strip().partition("=")
             key, value = key.strip(), value.strip()
-            if key in ("newdoc id", "newdoc"):
+            if key in ("newdoc id", "newdoc_id", "newdoc"):          # newdoc_id: Bosque e outros
                 flush_sentence()
                 doc = new_doc(value or f"{default_doc}_{len(docs) + 1}")
             elif key == "newpar" or key.startswith("newpar"):

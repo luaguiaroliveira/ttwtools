@@ -13,7 +13,7 @@ MFTE backend is imported lazily (torch/stanza not loaded until first use).
 
 from .catalog import (  # descritores de opções, tagsets e disponibilidade (sem imports pesados)
     TaggerUnavailable, available, get_tagset, list_tagsets, options, preset, run, validate_options,
-    value_availability,
+    value_availability, language_defaults,
 )
 
 

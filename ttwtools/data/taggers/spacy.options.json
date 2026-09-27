@@ -15,7 +15,8 @@
   "xpos": "ptb"
  },
  "langs": [
-  "en"
+  "en",
+  "pt"
  ],
  "requires": [
   "spacy"
@@ -30,7 +31,10 @@
     "en_core_web_sm",
     "en_core_web_md",
     "en_core_web_lg",
-    "en_core_web_trf"
+    "en_core_web_trf",
+    "pt_core_news_sm",
+    "pt_core_news_md",
+    "pt_core_news_lg"
    ],
    "afeta_resultado": true,
    "nome": "tagger.spacy.opt.model.name",
@@ -124,6 +128,12 @@
     "pos",
     "tag"
    ]
+  }
+ },
+ "tagsets_by_lang": {
+  "pt": {
+   "upos": "upos",
+   "xpos": "upos"
   }
  }
 }

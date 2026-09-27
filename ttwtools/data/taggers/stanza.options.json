@@ -15,7 +15,8 @@
   "xpos": "ptb"
  },
  "langs": [
-  "en"
+  "en",
+  "pt"
  ],
  "requires": [
   "torch",
@@ -28,7 +29,8 @@
    "tipo": "escolha",
    "padrao": "en",
    "valores": [
-    "en"
+    "en",
+    "pt"
    ],
    "afeta_resultado": true,
    "nome": "tagger.stanza.opt.lang.name",
@@ -49,7 +51,13 @@
     "partut",
     "lines",
     "atis",
-    "eslspok"
+    "eslspok",
+    "bosque",
+    "cintil",
+    "dantestocks",
+    "gsd",
+    "petrogold",
+    "porttinari"
    ],
    "afeta_resultado": true,
    "nome": "tagger.stanza.opt.package.name",
@@ -62,7 +70,30 @@
    "disponibilidade": {
     "tipo": "stanza_package"
    },
-   "instalar": "python -c \"import stanza; stanza.download('{lang}', package='{value}', processors='tokenize,pos,lemma')\""
+   "instalar": "python -c \"import stanza; stanza.download('{lang}', package='{value}', processors='tokenize,pos,lemma')\"",
+   "por_idioma": {
+    "en": [
+     "default",
+     "default_fast",
+     "default_accurate",
+     "combined",
+     "ewt",
+     "gum",
+     "partut",
+     "lines",
+     "atis",
+     "eslspok"
+    ],
+    "pt": [
+     "default",
+     "bosque",
+     "cintil",
+     "dantestocks",
+     "gsd",
+     "petrogold",
+     "porttinari"
+    ]
+   }
   },
   {
    "id": "components",
@@ -157,6 +188,12 @@
     "morph",
     "pos"
    ]
+  }
+ },
+ "tagsets_by_lang": {
+  "pt": {
+   "upos": "upos",
+   "xpos": null
   }
  }
 }
