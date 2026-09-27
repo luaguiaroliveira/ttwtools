@@ -606,9 +606,56 @@ def _configure_help(p):
     p.add_argument("--search", help="procurar nos textos de ajuda")
 
 
+def _parse_group(spec: str, default_corpus: str) -> dict:
+    """`rótulo=corpus[:chave=valor[,valor]]` ou `corpus[:chave=valor]` → grupo de experimental."""
+    label, _, rest = spec.partition("=") if "=" in spec.split(":", 1)[0] else ("", "", spec)
+    corpus, _, cond = rest.partition(":")
+    group: dict = {"corpus": corpus or default_corpus}
+    if cond:
+        key, _, vals = cond.partition("=")
+        group["where"] = {key: vals.split(",")}
+    group["label"] = label or (f"{group['corpus']}:{cond}" if cond else group["corpus"])
+    return group
+
+
+def _cmd_compare_groups(args):
+    from . import experimental as ex
+    with _open_or_create(args.project, create=False) as proj:
+        groups = ex.groups_by_metadata(proj, args.corpus, args.group_by) if args.group_by else \
+            [_parse_group(g, args.corpus) for g in args.group]
+        r = ex.compare_groups(proj, groups, args.layer, method=args.method, feature=args.feature, metric=args.metric,
+                              top=args.top, correction=args.correction, lang=args.lang)
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    sizes = ", ".join("{} ({})".format(g["label"], g["n"]) for g in r["groups"])
+    print(f"[experimental] {args.method} · {sizes} · camada {args.layer}", file=sys.stderr)
+    for w in r["warnings"]:
+        print(f"  [{w['severity']}] {w['message']}", file=sys.stderr)
+    m = args.method
+    if m == "one_vs_rest":
+        rows = [{"grupo": g["label"], **f} for g in r["results"] for f in g["features"]]
+    elif m == "pairwise":
+        rows = [{"a": pr["a"], "b": pr["b"], "mean_abs_d": pr["mean_abs_d"], "d>=0.8": pr["large"],
+                 "traços": " ".join(f["feature"] for f in pr["features"][:5])} for pr in r["pairs"]]
+    elif m == "anova":
+        rows = [{k: x[k] for k in ("feature", "H", "epsilon2", "p", "p_adj")} for x in r["results"]]
+    elif m == "profile":
+        rows = r["reduction"]["coords"]
+    elif m == "dendrogram":
+        rows = [{"ordem": i + 1, "grupo": g} for i, g in enumerate(r["order"])]
+    else:
+        rows = [{"referência": x["label"], "distância": x["distance"],
+                 "traços": " ".join(f["feature"] for f in x["features"][:5])} for x in r["results"]]
+    emit(rows, args.format)
+    return EXIT_OK
+
+
 def _cmd_compare(args):
     from .corpus import parse_where
     from .features import kfa_layers
+    if args.group_by or args.group:
+        return _cmd_compare_groups(args)
     with _open_or_create(args.project, create=False) as proj:
         r = kfa_layers(proj, args.corpus, args.corpus2 or args.corpus, args.layer, args.feature, args.metric,
                        args.min_effect, args.join, parse_where(args.where or []), parse_where(args.where2 or []))
@@ -632,6 +679,15 @@ def _configure_compare(p):
     p.add_argument("--join", choices=["union", "intersection"], default="union")
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="filtro do lado 1")
     p.add_argument("--where2", action="append", metavar="CHAVE=VALOR", help="filtro do lado 2")
+    lab = p.add_argument_group("N grupos (experimental; ttwtools.experimental.compare_groups)")
+    lab.add_argument("--group-by", metavar="CHAVE", help="um grupo por valor deste metadado do --corpus")
+    lab.add_argument("--group", action="append", metavar="[RÓTULO=]CORPUS[:CHAVE=VALOR]",
+                     help="um grupo; repita (com nearest, o primeiro é o 'meu texto')")
+    lab.add_argument("--method", choices=["one_vs_rest", "pairwise", "anova", "profile", "dendrogram", "nearest"],
+                     default="one_vs_rest")
+    lab.add_argument("--top", type=int, default=10, help="traços por grupo ou par")
+    lab.add_argument("--correction", choices=["fdr", "bonferroni", "none"], default="fdr")
+    lab.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
 
 
 def _cmd_catalog(args):

@@ -44,6 +44,9 @@ SPECS: dict[str, tuple[str, str, list[str], dict[str, tuple[str, Any]]]] = {
     "kfa": ("compare", "kfa_layers", ["corpus", "corpus2", "layer"],
             {"feature": ("--feature", None), "metric": ("--metric", "kfa"), "min_effect": ("--min-effect", 0.0),
              "join": ("--join", "union")}),
+    "lab": ("compare", "experimental.compare_groups", ["groups", "layer"],
+            {"method": ("--method", "one_vs_rest"), "feature": ("--feature", None), "metric": ("--metric", "kfa"),
+             "top": ("--top", 10), "correction": ("--correction", "fdr")}),
     "tag": ("tag", "tag_corpus", ["corpus", "tagger"],
             {"preset": ("--preset", None), "options": ("--set", None), "components": ("--components", None),
              "force": ("--force", False)}),
@@ -62,6 +65,18 @@ def cli_command(analysis: str, project_path: str, params: Mapping[str, Any], win
     q = (lambda s: '"' + str(s).replace('"', '\\"') + '"' if any(c in str(s) for c in ' &|<>^"\'') else str(s)) \
         if windows else (lambda s: shlex.quote(str(s)))
     parts = ["ttwtools", sub, q(project_path)]
+    if analysis == "lab":                    # N grupos: compare --group-by CHAVE ou --group ... (repetido)
+        parts += ["--corpus", q(params.get("corpus") or params["groups"][0]["corpus"]), "--layer", q(params["layer"])]
+        if params.get("group_by"):
+            parts += ["--group-by", q(params["group_by"])]
+        else:
+            for g in params["groups"]:
+                cond = ";".join(f"{k}={','.join(v if isinstance(v, list) else [v])}" for k, v in (g.get("where") or {}).items())
+                parts += ["--group", q(f"{g['label']}={g['corpus']}" + (f":{cond}" if cond else ""))]
+        for name, (flag, _default) in options.items():
+            if params.get(name) is not None:
+                parts += [flag, q(params[name])]
+        return " ".join(parts)
     for name in positional:
         if name == "corpus":
             continue

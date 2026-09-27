@@ -7,5 +7,9 @@
  "keywords.warn.tokenizer_mismatch": "Tokenização diferente ({target} × {reference}): contrações e hífens podem ser contados de outro modo.",
  "keywords.warn.tool_mismatch": "Alvo etiquetado com {target} e referência com {reference}: lemas e classes podem não ser comparáveis. Use formas ou etiquete com o mesmo tagger.",
  "keywords.warn.tool_version_mismatch": "Mesmo tagger ({tool}) em versões diferentes ({target} × {reference}): pequenas diferenças são possíveis.",
- "keywords.warn.unit_unavailable": "A unidade '{unit}' pede {field}, que a camada {tool} não tem; os itens sem {field} foram contados pela forma."
+ "keywords.warn.unit_unavailable": "A unidade '{unit}' pede {field}, que a camada {tool} não tem; os itens sem {field} foram contados pela forma.",
+ "lab.warn.experimental": "Método experimental: resultado exploratório, não evidência. A API e os números podem mudar.",
+ "lab.warn.multiple": "{tests} comparações: com tantos testes, algumas diferenças aparecem por acaso. Prefira tamanhos de efeito e p corrigido.",
+ "lab.warn.small_group": "Grupos com menos de {n} textos ({groups}): as estimativas ficam instáveis.",
+ "lab.warn.unequal": "Grupos de tamanhos muito diferentes ({min} a {max} textos): compare com cuidado (a métrica kfa2 pondera pelo tamanho)."
 }
