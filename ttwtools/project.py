@@ -45,6 +45,12 @@ from . import layers as _layers
 TTWA_MIME_TYPE = "application/x-ttwa+sqlite3"
 TTWA_EXTENSION = ".ttwa"
 TTWL_EXTENSION = ".ttwl"
+TTWC_EXTENSION = ".ttwc"     # um corpus só, texto dentro (funciona como .ttwa)
+TTWCL_EXTENSION = ".ttwcl"   # um corpus só, leve (funciona como .ttwl)
+TTWT_EXTENSION = ".ttwt"     # compactado (formato antigo de envio; hoje todo projeto salva compactado)
+PROJECT_EXTENSIONS = (TTWA_EXTENSION, TTWL_EXTENSION, TTWC_EXTENSION, TTWCL_EXTENSION, TTWT_EXTENSION)
+SINGLE_CORPUS_EXTENSIONS = (TTWC_EXTENSION, TTWCL_EXTENSION)
+LIGHT_EXTENSIONS = (TTWL_EXTENSION, TTWCL_EXTENSION)
 
 # Tipo do projeto gravado em project_meta['project_kind']
 PROJECT_KIND_TTWA = "ttwa"   # texto do corpus dentro do arquivo
@@ -278,6 +284,63 @@ def compress_to_ttwt(
                 progress_cb(done, total)
 
 
+_GZIP_MAGIC = b"\x1f\x8b"
+_XZ_MAGIC = b"\xfd7zXZ\x00"
+COMPRESS_LEVEL = 1        # gzip rápido: ~18 s para 3 GB, ~1/3 do tamanho (lzma máximo levaria >10 min)
+
+
+def compression_of(path: "str | Path") -> str | None:
+    """"gzip" ou "xz" se o arquivo de projeto está compactado; None se é o banco SQLite direto."""
+    with open(Path(path).expanduser(), "rb") as fh:
+        head = fh.read(6)
+    if head.startswith(_GZIP_MAGIC):
+        return "gzip"
+    if head.startswith(_XZ_MAGIC):
+        return "xz"
+    return None
+
+
+def compress_project_file(
+    source: "str | Path",
+    dest: "str | Path",
+    progress_cb: "Optional[Callable[[int, int], None]]" = None,
+) -> None:
+    """Compacta o banco `source` em `dest` (gzip rápido). progress_cb(bytes lidos, total)."""
+    import gzip
+    source, dest = Path(source).expanduser(), Path(dest).expanduser()
+    total, done = source.stat().st_size, 0
+    with source.open("rb") as src, gzip.open(dest, "wb", compresslevel=COMPRESS_LEVEL) as dst:
+        for chunk in iter(lambda: src.read(1 << 20), b""):
+            dst.write(chunk)
+            done += len(chunk)
+            if progress_cb:
+                progress_cb(done, total)
+
+
+def decompress_project_file(
+    source: "str | Path",
+    dest: "str | Path",
+    progress_cb: "Optional[Callable[[int, int], None]]" = None,
+) -> None:
+    """Descompacta um projeto (gzip ou xz, conforme o conteúdo) para o banco `dest`.
+    progress_cb(bytes compactados lidos, total compactado)."""
+    import gzip
+    source, dest = Path(source).expanduser(), Path(dest).expanduser()
+    kind = compression_of(source)
+    if kind is None:
+        raise ValueError(f"'{source.name}' não está compactado")
+    if kind == "xz":
+        return decompress_from_ttwt(source, dest, progress_cb=progress_cb)
+    total = source.stat().st_size
+    with source.open("rb") as raw, gzip.GzipFile(fileobj=raw) as src, open(dest, "wb") as dst:
+        for chunk in iter(lambda: src.read(1 << 20), b""):
+            dst.write(chunk)
+            if progress_cb:
+                progress_cb(raw.tell(), total)
+    if progress_cb:
+        progress_cb(total, total)
+
+
 def checkpoint(path: "str | Path") -> None:
     """Consolida o WAL no arquivo principal do projeto (antes de copiar ou compactar)."""
     con = sqlite3.connect(str(Path(path).expanduser()))
@@ -291,29 +354,28 @@ def save_project_as(
     source: "str | Path",
     dest: "str | Path",
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
+    compress: bool = True,
 ) -> Path:
-    """Grava o projeto `source` (.ttwa/.ttwl) em `dest`, com as alterações recentes.
+    """Grava o projeto `source` (banco aberto) em `dest`, com as alterações recentes.
 
-    A extensão de `dest` escolhe o formato: `.ttwt` compacta, qualquer outra copia o
-    banco (cópia consistente pela API de backup do SQLite). O WAL é consolidado antes,
-    então nada fica para trás. `progress_cb(feitos, total)` em bytes (compactar) ou
-    páginas (copiar)."""
+    Por padrão o arquivo sai compactado (gzip rápido), em qualquer extensão; `compress=False`
+    grava o banco direto (abre sem descompactar e salva sozinho, mas é bem maior). `.ttwt`
+    sai sempre compactado. O WAL é consolidado antes e a gravação vai para `.part`, que só
+    substitui o destino no fim. `progress_cb(feitos, total)`."""
     src, out = Path(source).expanduser(), Path(dest).expanduser()
     out.parent.mkdir(parents=True, exist_ok=True)
     checkpoint(src)
-    if out.suffix.lower() == ".ttwt":
-        tmp = out.with_name(out.name + ".part")
-        compress_to_ttwt(src, tmp, progress_cb=progress_cb)
-        tmp.replace(out)                 # só substitui o antigo quando a gravação terminou
-        return out
     tmp = out.with_name(out.name + ".part")
     tmp.unlink(missing_ok=True)
-    a, b = sqlite3.connect(str(src)), sqlite3.connect(str(tmp))
-    try:
-        a.backup(b, pages=4096, progress=(lambda _st, rem, tot: progress_cb(tot - rem, tot)) if progress_cb else None)
-    finally:
-        b.close()
-        a.close()
+    if compress or out.suffix.lower() == TTWT_EXTENSION:
+        compress_project_file(src, tmp, progress_cb=progress_cb)
+    else:
+        a, b = sqlite3.connect(str(src)), sqlite3.connect(str(tmp))
+        try:
+            a.backup(b, pages=4096, progress=(lambda _st, rem, tot: progress_cb(tot - rem, tot)) if progress_cb else None)
+        finally:
+            b.close()
+            a.close()
     for side in ("-journal", "-wal", "-shm"):
         Path(str(out) + side).unlink(missing_ok=True)
     tmp.replace(out)
@@ -325,13 +387,15 @@ def decompress_from_ttwt(
     dest_ttwa: "str | Path",
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
 ) -> None:
-    """Descomprime um arquivo .ttwt para um arquivo .ttwa (SQLite).
+    """Descomprime um arquivo .ttwt (xz; gzip também é aceito) para um arquivo .ttwa (SQLite).
 
     O progresso é calculado sobre o tamanho do arquivo comprimido (fonte).
     progress_cb(done_bytes, total_bytes) é chamado a cada chunk lido.
     """
     source = Path(source_ttwt).expanduser()
     dest_ttwa = Path(dest_ttwa).expanduser()
+    if compression_of(source) == "gzip":
+        return decompress_project_file(source, dest_ttwa, progress_cb=progress_cb)
     total = source.stat().st_size
     done = 0
     dec = lzma.LZMADecompressor()
@@ -530,10 +594,42 @@ class TTWAProject:
         df = proj.load_feature_table("corpus_A", "norm1000")
     """
 
-    def __init__(self, path: str | Path):
+    def __init__(self, path: str | Path, home: str | Path | None = None):
         self.path = Path(path).expanduser().resolve()
+        # arquivo real do projeto: `path` é uma cópia de trabalho quando o arquivo está compactado
+        self.home = Path(home).expanduser().resolve() if home else self.path
         self._con: sqlite3.Connection | None = None
         self.migration_report: dict | None = None
+        self._workdir: Path | None = None       # pasta temporária da cópia de trabalho (se houver)
+        self._saved_changes = 0
+
+    @property
+    def is_working_copy(self) -> bool:
+        """Aberto de um arquivo compactado: as alterações só vão para `home` com save()."""
+        return self.home != self.path
+
+    @property
+    def single_corpus(self) -> bool:
+        """.ttwc/.ttwcl: projeto de um corpus só."""
+        return self.home.suffix.lower() in SINGLE_CORPUS_EXTENSIONS or bool(self.get_meta("single_corpus"))
+
+    def save(self, progress_cb: "Optional[Callable[[int, int], None]]" = None, compress: bool = True) -> Path:
+        """Grava o projeto no arquivo real (`home`), compactado por padrão. Num banco aberto
+        direto (sem compressão) as alterações já estão no arquivo: só consolida o WAL."""
+        self._con.commit()
+        if not self.is_working_copy and not compress:
+            checkpoint(self.path)
+            return self.path
+        if not self.is_working_copy:
+            raise ValueError("este projeto está aberto direto do banco; use save_project_as() para outro arquivo")
+        out = save_project_as(self.path, self.home, progress_cb=progress_cb, compress=compress)
+        self._saved_changes = self._con.total_changes
+        return out
+
+    @property
+    def unsaved(self) -> bool:
+        """Cópia de trabalho com alterações ainda não gravadas em `home`."""
+        return self.is_working_copy and self._con is not None and self._con.total_changes > self._saved_changes
 
     # ------------------------------------------------------------------
     # Ciclo de vida
@@ -572,14 +668,20 @@ class TTWAProject:
         proj._set_meta("ttwtools_version", _get_ttwtools_version())
         proj._set_meta("schema_version", SCHEMA_VERSION_CURRENT if compress else SCHEMA_VERSION_LEGACY)
         proj._set_meta("project_kind", _kind_from_suffix(p))
+        if p.suffix.lower() in SINGLE_CORPUS_EXTENSIONS:
+            proj._set_meta("single_corpus", True)
         proj._con.commit()
         return proj
 
     @classmethod
     def open(cls, path: str | Path, migrate: bool = True,
-             progress: Callable[[int, int, str], None] | None = None) -> "TTWAProject":
-        """Abre um projeto `.ttwa` ou `.ttwl` existente.
+             progress: Callable[[int, int, str], None] | None = None,
+             home: str | Path | None = None) -> "TTWAProject":
+        """Abre um projeto (.ttwa, .ttwl, .ttwc, .ttwcl ou .ttwt).
 
+        Arquivo compactado (o padrão ao salvar): descompacta numa cópia de trabalho
+        temporária; `save()` grava de volta e `close()` grava se houve alterações.
+        `home` informa o arquivo real quando `path` já é uma cópia de trabalho (o app).
         Projetos de esquema anterior ao v0.3 são migrados ao abrir (migrate=True):
         a migração só acrescenta tabelas (nada é apagado) e emite um aviso; o
         relatório fica em `proj.migration_report`.
@@ -587,8 +689,19 @@ class TTWAProject:
         p = Path(path).expanduser().resolve()
         if not p.exists():
             raise FileNotFoundError(f"Arquivo não encontrado: '{p}'")
-        proj = cls(p)
-        proj._con = _connect(p)
+        workdir = None
+        if home is None and compression_of(p):
+            import tempfile
+            workdir = Path(tempfile.mkdtemp(prefix="ttw_"))
+            work = workdir / p.name
+            decompress_project_file(p, work,
+                                    progress_cb=(lambda d, t: progress(d, t, "decompress")) if progress else None)
+            proj = cls(work, home=p)
+            proj._workdir = workdir
+        else:
+            proj = cls(p, home=home)
+        proj._con = _connect(proj.path)
+        p = proj.home
         old = proj.get_meta("schema_version", SCHEMA_VERSION_LEGACY)
         if migrate and not _schema_is_at_least(old, SCHEMA_VERSION_CURRENT):
             proj.migration_report = proj.migrate_to_v3(progress=progress)
@@ -604,17 +717,24 @@ class TTWAProject:
     @property
     def kind(self) -> str:
         """`ttwa` (texto dentro) ou `ttwl` (texto numa pasta ao lado)."""
-        return self.get_meta("project_kind") or _kind_from_suffix(self.path)
+        return self.get_meta("project_kind") or _kind_from_suffix(self.home)
 
     @property
     def is_light(self) -> bool:
         return self.kind == PROJECT_KIND_TTWL
 
-    def close(self) -> None:
-        """Fecha a conexão com o banco."""
+    def close(self, save: bool | None = None) -> None:
+        """Fecha a conexão. Numa cópia de trabalho aberta por `open()` (arquivo compactado),
+        grava em `home` se houve alterações (save=None) ou conforme `save`, e apaga a cópia."""
         if self._con:
+            if self._workdir and (self.unsaved if save is None else save):
+                self.save()
             self._con.close()
             self._con = None
+        if self._workdir:
+            import shutil
+            shutil.rmtree(self._workdir, ignore_errors=True)
+            self._workdir = None
 
     def __enter__(self) -> "TTWAProject":
         return self
@@ -719,7 +839,7 @@ class TTWAProject:
         """Guarda o texto (`.ttwa`) ou só o caminho relativo (`.ttwl`), e o hash."""
         rel_path = None
         if self.is_light:
-            rel_path = _relative_to_project(self.path, file_path)
+            rel_path = _relative_to_project(self.home, file_path)
         else:
             self._con.execute(
                 "INSERT INTO corpus_files (corpus_name, filename, content) VALUES (?, ?, ?)"
@@ -1095,6 +1215,11 @@ class TTWAProject:
     def _upsert_document(self, corpus_name: str, filename: str, content: str | None,
                          rel_path: str | None = None) -> int:
         """Cria ou atualiza o documento, com hash e tamanho do texto."""
+        if self.single_corpus:
+            others = {r[0] for r in self._con.execute("SELECT DISTINCT corpus_name FROM documents")} - {corpus_name}
+            if others:
+                raise ValueError(f"'{self.home.name}' guarda um corpus só ({', '.join(sorted(others))}); "
+                                 "para vários corpora, use um projeto .ttwa ou .ttwl")
         h = _layers.text_hash(content) if content is not None else None
         n = len(content) if content is not None else None
         self._con.execute(
@@ -1116,7 +1241,7 @@ class TTWAProject:
         ).fetchone()
         if row is None or not row["rel_path"]:
             return None
-        return (self.path.parent / row["rel_path"]).resolve()
+        return (self.home.parent / row["rel_path"]).resolve()
 
     def list_documents(self, corpus_name: str | None = None) -> list[dict]:
         """Documentos do projeto (id, corpus, arquivo, hash, tamanho, caminho relativo)."""
@@ -1347,7 +1472,7 @@ class TTWAProject:
                 continue
             if not doc["rel_path"]:
                 continue
-            path = self.path.parent / doc["rel_path"]
+            path = self.home.parent / doc["rel_path"]
             key = (doc["corpus_name"], doc["filename"])
             if not path.is_file():
                 report["missing"].append(key)
@@ -1386,7 +1511,7 @@ class TTWAProject:
                 self._con.execute("UPDATE documents SET content_hash = ?, n_chars = ? WHERE id = ?",
                                   (_layers.text_hash(text), len(text), doc["id"]))
             self._con.execute("UPDATE documents SET rel_path = ? WHERE id = ?",
-                              (_relative_to_project(self.path, path), doc["id"]))
+                              (_relative_to_project(self.home, path), doc["id"]))
             if not changed:
                 report["relinked"].append(key)
         self._con.commit()
@@ -1396,7 +1521,7 @@ class TTWAProject:
         """Exporta os textos para `<pasta do projeto>/<nome>_corpus/<corpus>/<arquivo>`.
 
         No `.ttwl`, passa a apontar para a cópia exportada. Devolve a pasta."""
-        dest = Path(folder).expanduser().resolve() if folder else self.path.parent / f"{self.path.stem}_corpus"
+        dest = Path(folder).expanduser().resolve() if folder else self.home.parent / f"{self.home.stem}_corpus"
         for corpus in self.list_corpus_names():
             for filename in self.list_corpus_files(corpus):
                 content = self.get_corpus_file(corpus, filename)
@@ -1407,7 +1532,7 @@ class TTWAProject:
                 out.write_text(content, encoding="utf-8", newline="")
                 if self.is_light:
                     self._con.execute("UPDATE documents SET rel_path = ? WHERE corpus_name = ? AND filename = ?",
-                                      (_relative_to_project(self.path, out), corpus, filename))
+                                      (_relative_to_project(self.home, out), corpus, filename))
         self._con.commit()
         return dest
 
@@ -1460,7 +1585,7 @@ class TTWAProject:
         for doc in self.list_documents():
             if not doc["rel_path"]:
                 continue
-            content = _read_text(self.path.parent / doc["rel_path"])
+            content = _read_text(self.home.parent / doc["rel_path"])
             full._con.execute(
                 "INSERT INTO corpus_files (corpus_name, filename, content) VALUES (?, ?, ?)"
                 " ON CONFLICT(corpus_name, filename) DO UPDATE SET content=excluded.content",
@@ -1671,6 +1796,87 @@ def embed_corpus(project: TTWAProject, dest: str | Path | None = None, allow_cha
     return project.embed_corpus(dest, allow_changed=allow_changed)
 
 
+def save_corpus_as(
+    project: TTWAProject,
+    corpus_name: str,
+    dest: str | Path,
+    progress_cb: "Optional[Callable[[int, int], None]]" = None,
+    compress: bool = True,
+) -> Path:
+    """Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
+    `.ttwcl` (textos numa pasta `<nome>_corpus` ao lado do arquivo).
+
+    Vão junto os metadados, as camadas, a lista "a executar" e as análises que só usam
+    esse corpus (comparações com outros corpora ficam de fora). Compactado por padrão.
+    O projeto de origem não muda."""
+    import json as _json
+    import shutil
+    import tempfile
+    out = Path(dest).expanduser().resolve()
+    if out.suffix.lower() not in SINGLE_CORPUS_EXTENSIONS:
+        raise ValueError(f"use a extensão .ttwc (textos dentro) ou .ttwcl (textos ao lado), não '{out.suffix}'")
+    names = project.list_corpus_names()
+    if corpus_name not in names:
+        raise ValueError(f"corpus '{corpus_name}' não existe no projeto")
+    others = [n for n in names if n != corpus_name]
+    light_out = out.suffix.lower() in LIGHT_EXTENSIONS
+    project._con.commit()
+    workdir = Path(tempfile.mkdtemp(prefix="ttw_"))
+    try:
+        work_path = workdir / ("work" + out.suffix)
+        target = sqlite3.connect(str(work_path))
+        project._con.backup(target)
+        target.close()
+        work = TTWAProject.open(work_path, migrate=False, home=out)
+        con = work._con
+        # textos: ler da origem antes de mexer (no .ttwl de origem, da pasta ao lado dela)
+        texts = {fn: project.get_corpus_file(corpus_name, fn) for fn in project.list_corpus_files(corpus_name)}
+        kept_docs = [r[0] for r in con.execute("SELECT id FROM documents WHERE corpus_name = ?", (corpus_name,))]
+        for table, col in (("corpus_files", "corpus_name"), ("tagged_files", "corpus_name"),
+                           ("feature_tables", "corpus_name"), ("documents", "corpus_name")):
+            con.execute(f"DELETE FROM {table} WHERE {col} != ?", (corpus_name,))
+        con.execute("DELETE FROM kfa_results WHERE corpus1_name != ? OR corpus2_name != ?", (corpus_name, corpus_name))
+        kept_layers = {r[0] for r in con.execute("SELECT id FROM layers")}
+        for aid, name, params, refs in con.execute("SELECT id, name, params, layer_refs FROM analyses").fetchall():
+            ids = set(_json.loads(refs or "[]"))
+            text = f"{name} {params}"
+            if (ids and not ids <= kept_layers) or (not ids and any(o in text for o in others)):
+                con.execute("DELETE FROM analyses WHERE id = ?", (aid,))
+        for (key,) in con.execute("SELECT key FROM project_meta").fetchall():
+            if any(key.endswith("." + o) for o in others):
+                con.execute("DELETE FROM project_meta WHERE key = ?", (key,))
+        # onde ficam os textos no arquivo novo
+        if light_out:
+            folder = out.parent / f"{out.stem}_corpus" / corpus_name
+            con.execute("DELETE FROM corpus_files")
+            for fn, content in texts.items():
+                if content is None:
+                    continue
+                f = folder / fn
+                f.parent.mkdir(parents=True, exist_ok=True)
+                f.write_text(content, encoding="utf-8", newline="")
+                con.execute("UPDATE documents SET rel_path = ? WHERE corpus_name = ? AND filename = ?",
+                            (_relative_to_project(out, f), corpus_name, fn))
+            work._set_meta("project_kind", PROJECT_KIND_TTWL)
+        else:
+            for fn, content in texts.items():
+                if content is not None:
+                    con.execute("INSERT INTO corpus_files (corpus_name, filename, content) VALUES (?, ?, ?)"
+                                " ON CONFLICT(corpus_name, filename) DO UPDATE SET content=excluded.content",
+                                (corpus_name, fn, content))
+            con.execute("UPDATE documents SET rel_path = NULL WHERE corpus_name = ?", (corpus_name,))
+            work._set_meta("project_kind", PROJECT_KIND_TTWA)
+        work._set_meta("single_corpus", True)
+        work._set_meta("project_name", corpus_name)
+        con.commit()
+        con.execute("VACUUM")
+        work.close()
+        del kept_docs
+        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress)
+    finally:
+        shutil.rmtree(workdir, ignore_errors=True)
+
+
 def detach_corpus(project: TTWAProject, dest: str | Path | None = None,
                   corpus_folder: str | Path | None = None) -> TTWAProject:
     """`.ttwa` → `.ttwl` + pasta de textos. Devolve o novo projeto aberto."""
@@ -1751,7 +1957,7 @@ def save_analysis_to_project(
 # ---------------------------------------------------------------------------
 
 def _kind_from_suffix(path: Path) -> str:
-    return PROJECT_KIND_TTWL if Path(path).suffix.lower() == TTWL_EXTENSION else PROJECT_KIND_TTWA
+    return PROJECT_KIND_TTWL if Path(path).suffix.lower() in LIGHT_EXTENSIONS else PROJECT_KIND_TTWA
 
 
 def _relative_to_project(project_path: Path, file_path: Path) -> str:

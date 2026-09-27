@@ -16,6 +16,7 @@ import csv
 import io
 import json
 import sys
+from pathlib import Path
 from typing import Any, Callable, Iterable, Sequence
 
 from ._version import __version__
@@ -189,6 +190,28 @@ def _configure_names(p: argparse.ArgumentParser) -> None:
     p.add_argument("--delimiter", default="_", help="separador dos pedaços do nome (padrão: _)")
     p.add_argument("--fields", help="nomes dos pedaços, separados por vírgula; vazio pula o pedaço (ex.: aluno,,ano)")
     p.add_argument("-n", type=int, default=5, help="quantos arquivos mostrar")
+
+
+def _cmd_save_as(args: argparse.Namespace) -> int:
+    from .project import SINGLE_CORPUS_EXTENSIONS, compression_of, save_corpus_as, save_project_as
+    single = Path(args.dest).suffix.lower() in SINGLE_CORPUS_EXTENSIONS
+    if single and not args.corpus:
+        raise SystemExit("ttwtools: .ttwc/.ttwcl guardam um corpus só: diga qual com --corpus")
+    with _open_or_create(args.project, create=False) as proj:
+        proj._con.commit()
+        out = (save_corpus_as(proj, args.corpus, args.dest, compress=not args.no_compress) if single
+               else save_project_as(proj.path, args.dest, compress=not args.no_compress))
+    emit({"arquivo": str(out), "compactado": compression_of(out) is not None,
+          "tamanho_mb": round(out.stat().st_size / 1e6, 1)}, args.format)
+    return EXIT_OK
+
+
+def _configure_save_as(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="projeto de origem (.ttwa, .ttwl, .ttwc, .ttwcl ou .ttwt)")
+    p.add_argument("dest", help="arquivo de destino; a extensão diz o tipo (.ttwc/.ttwcl: um corpus só, com --corpus)")
+    p.add_argument("--corpus", help="corpus a gravar num .ttwc (textos dentro) ou .ttwcl (textos ao lado)")
+    p.add_argument("--no-compress", action="store_true",
+                   help="grava o banco sem compressão (abre sem descompactar, arquivo bem maior)")
 
 
 def _cmd_pipeline(args: argparse.Namespace) -> int:
@@ -830,6 +853,8 @@ def _configure_documents(p: argparse.ArgumentParser) -> None:
 IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]] = {
     "import":    ("Importa textos para um corpus do projeto (pasta, .txt, CSV ou texto colado)",
                   _configure_import, _cmd_import),
+    "save-as":   ("Salva o projeto em outro arquivo (compactado por padrão; --no-compress para o banco direto)",
+                  _configure_save_as, _cmd_save_as),
     "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela",
                   _configure_pipeline, _cmd_pipeline),
     "names":     ("Mostra como os nomes dos arquivos de uma pasta viram metadados (sem importar)",

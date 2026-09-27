@@ -40,6 +40,14 @@ checkpoint(path: "'str | Path'") -> 'None'
 
 Consolida o WAL no arquivo principal do projeto (antes de copiar ou compactar).
 
+### `compress_project_file`
+
+```python
+compress_project_file(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None) -> 'None'
+```
+
+Compacta o banco `source` em `dest` (gzip rápido). progress_cb(bytes lidos, total).
+
 ### `compress_to_ttwt`
 
 ```python
@@ -49,6 +57,14 @@ compress_to_ttwt(source_ttwa: "'str | Path'", dest_ttwt: "'str | Path'", progres
 Comprime um arquivo .ttwa (SQLite) para o formato .ttwt (lzma preset máximo).
 
 progress_cb(done_bytes, total_bytes) é chamado a cada chunk lido da fonte.
+
+### `compression_of` · **`ttwtools.compression_of`**
+
+```python
+compression_of(path: "'str | Path'") -> 'str | None'
+```
+
+"gzip" ou "xz" se o arquivo de projeto está compactado; None se é o banco SQLite direto.
 
 ### `create_project` · **`ttwtools.create_project`**
 
@@ -64,10 +80,19 @@ Cria e retorna um novo projeto .ttwa.
 decompress_from_ttwt(source_ttwt: "'str | Path'", dest_ttwa: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None) -> 'None'
 ```
 
-Descomprime um arquivo .ttwt para um arquivo .ttwa (SQLite).
+Descomprime um arquivo .ttwt (xz; gzip também é aceito) para um arquivo .ttwa (SQLite).
 
 O progresso é calculado sobre o tamanho do arquivo comprimido (fonte).
 progress_cb(done_bytes, total_bytes) é chamado a cada chunk lido.
+
+### `decompress_project_file`
+
+```python
+decompress_project_file(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None) -> 'None'
+```
+
+Descompacta um projeto (gzip ou xz, conforme o conteúdo) para o banco `dest`.
+progress_cb(bytes compactados lidos, total compactado).
 
 ### `detach_corpus` · **`ttwtools.detach_corpus`**
 
@@ -145,23 +170,36 @@ Parâmetros opcionais:
 
 Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
 
+### `save_corpus_as` · **`ttwtools.save_corpus_as`**
+
+```python
+save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True) -> 'Path'
+```
+
+Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
+`.ttwcl` (textos numa pasta `<nome>_corpus` ao lado do arquivo).
+
+Vão junto os metadados, as camadas, a lista "a executar" e as análises que só usam
+esse corpus (comparações com outros corpora ficam de fora). Compactado por padrão.
+O projeto de origem não muda.
+
 ### `save_project_as` · **`ttwtools.save_project_as`**
 
 ```python
-save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None) -> 'Path'
+save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True) -> 'Path'
 ```
 
-Grava o projeto `source` (.ttwa/.ttwl) em `dest`, com as alterações recentes.
+Grava o projeto `source` (banco aberto) em `dest`, com as alterações recentes.
 
-A extensão de `dest` escolhe o formato: `.ttwt` compacta, qualquer outra copia o
-banco (cópia consistente pela API de backup do SQLite). O WAL é consolidado antes,
-então nada fica para trás. `progress_cb(feitos, total)` em bytes (compactar) ou
-páginas (copiar).
+Por padrão o arquivo sai compactado (gzip rápido), em qualquer extensão; `compress=False`
+grava o banco direto (abre sem descompactar e salva sozinho, mas é bem maior). `.ttwt`
+sai sempre compactado. O WAL é consolidado antes e a gravação vai para `.part`, que só
+substitui o destino no fim. `progress_cb(feitos, total)`.
 
 ### `TTWAProject` · **`ttwtools.TTWAProject`**
 
 ```python
-classe TTWAProject(path: 'str | Path')
+classe TTWAProject(path: 'str | Path', home: 'str | Path | None' = None)
 ```
 
 Representa um projeto ttwtools persistido em um arquivo .ttwa.

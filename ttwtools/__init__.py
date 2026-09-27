@@ -50,6 +50,8 @@ _EXPORTS = {
     "open_project": "project",
     "needs_migration": "project",
     "save_project_as": "project",
+    "save_corpus_as": "project",
+    "compression_of": "project",
     "checkpoint": "project",
     "save_analysis_to_project": "project",
     "TTWA_MIME_TYPE": "project",
