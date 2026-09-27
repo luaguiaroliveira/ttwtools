@@ -23,6 +23,7 @@ All notable changes to ttwtools are documented here.
 - `plan_tagging` (how many documents would be reused, copied or tagged, without tagging) and `taggers.value_availability` (installed spaCy models / Stanza packages per option value).
 - `read_document` (text + layer tokens for the tagged reader) and the Explore screen texts.
 - `ttwtools.features`: `feature_table` (per-document feature counts from a layer, word counts following each tagger's legacy rule) and `kfa_layers` (KFA between corpora or metadata groups, from layers, saved in `analyses`); `feature_values`. CLI `ttwtools compare` (was a stub). A fresh BiberPlus layer now reproduces the legacy rawcount table exactly: the BiberPlus aligner keeps punctuation tokens and zero-width tokens it cannot locate, so no tag is lost.
+- `ttwtools.viz`: data for the comparison gallery — `feature_matrix` (per-text feature values for both sides), `heatmap` (z-scores) and `reduction` (PCA 2D/3D, t-SNE, UMAP, MDS on the highest-variance features), from layers; moved out of the app routes.
 - `ttwtools.__version__` (from `pyproject.toml`) and a `pytest` suite in `tests/` (smoke tests: project, tagged JSONL, BiberPlus + KFA; CLI).
 
 ### Changed
