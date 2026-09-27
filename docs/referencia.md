@@ -32,6 +32,14 @@ Módulo `ttwtools.project`.
 
 project.py — Persistência de projetos ttwtools em arquivos .ttwa (SQLite).
 
+### `checkpoint` · **`ttwtools.checkpoint`**
+
+```python
+checkpoint(path: "'str | Path'") -> 'None'
+```
+
+Consolida o WAL no arquivo principal do projeto (antes de copiar ou compactar).
+
 ### `compress_to_ttwt`
 
 ```python
@@ -136,6 +144,19 @@ Parâmetros opcionais:
                                 O modo fica registrado em project_meta['project_mode'].
 
 Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
+
+### `save_project_as` · **`ttwtools.save_project_as`**
+
+```python
+save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None) -> 'Path'
+```
+
+Grava o projeto `source` (.ttwa/.ttwl) em `dest`, com as alterações recentes.
+
+A extensão de `dest` escolhe o formato: `.ttwt` compacta, qualquer outra copia o
+banco (cópia consistente pela API de backup do SQLite). O WAL é consolidado antes,
+então nada fica para trás. `progress_cb(feitos, total)` em bytes (compactar) ou
+páginas (copiar).
 
 ### `TTWAProject` · **`ttwtools.TTWAProject`**
 

@@ -62,3 +62,30 @@ def test_migracao_com_progresso_e_retomada(tmp_path, monkeypatch):
     names = {r[0] for r in proj._con.execute("SELECT name FROM sqlite_master WHERE type='index'")}
     assert {n for n, _ in P._TOKEN_INDEXES} <= names
     proj.close()
+
+
+def test_salvar_como_inclui_alteracoes_recentes(tmp_path):
+    """Com o projeto aberto (WAL), a cópia e o .ttwt levam o que ainda não foi consolidado."""
+    import ttwtools
+    from ttwtools.project import decompress_from_ttwt
+    src = tmp_path / "a.ttwa"
+    proj = ttwtools.create_project(src)
+    proj.add_corpus_file("c", _txt(tmp_path, "t1.txt", "um texto"))
+    proj._con.commit()
+    seen = []
+    for dest in (tmp_path / "b.ttwa", tmp_path / "c.ttwt"):
+        ttwtools.save_project_as(src, dest, progress_cb=lambda d, t: seen.append((d, t)))
+    proj.close()
+    assert seen and seen[-1][0] == seen[-1][1]
+    with ttwtools.open_project(tmp_path / "b.ttwa") as b:
+        assert b.list_corpus_names() == ["c"]
+    decompress_from_ttwt(tmp_path / "c.ttwt", tmp_path / "d.ttwa")
+    with ttwtools.open_project(tmp_path / "d.ttwa") as d:
+        assert d.list_corpus_names() == ["c"]
+    assert not list(tmp_path.glob("*.part"))
+
+
+def _txt(folder, name, text):
+    f = folder / name
+    f.write_text(text, encoding="utf-8")
+    return f

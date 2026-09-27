@@ -278,6 +278,48 @@ def compress_to_ttwt(
                 progress_cb(done, total)
 
 
+def checkpoint(path: "str | Path") -> None:
+    """Consolida o WAL no arquivo principal do projeto (antes de copiar ou compactar)."""
+    con = sqlite3.connect(str(Path(path).expanduser()))
+    try:
+        con.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+    finally:
+        con.close()
+
+
+def save_project_as(
+    source: "str | Path",
+    dest: "str | Path",
+    progress_cb: "Optional[Callable[[int, int], None]]" = None,
+) -> Path:
+    """Grava o projeto `source` (.ttwa/.ttwl) em `dest`, com as alterações recentes.
+
+    A extensão de `dest` escolhe o formato: `.ttwt` compacta, qualquer outra copia o
+    banco (cópia consistente pela API de backup do SQLite). O WAL é consolidado antes,
+    então nada fica para trás. `progress_cb(feitos, total)` em bytes (compactar) ou
+    páginas (copiar)."""
+    src, out = Path(source).expanduser(), Path(dest).expanduser()
+    out.parent.mkdir(parents=True, exist_ok=True)
+    checkpoint(src)
+    if out.suffix.lower() == ".ttwt":
+        tmp = out.with_name(out.name + ".part")
+        compress_to_ttwt(src, tmp, progress_cb=progress_cb)
+        tmp.replace(out)                 # só substitui o antigo quando a gravação terminou
+        return out
+    tmp = out.with_name(out.name + ".part")
+    tmp.unlink(missing_ok=True)
+    a, b = sqlite3.connect(str(src)), sqlite3.connect(str(tmp))
+    try:
+        a.backup(b, pages=4096, progress=(lambda _st, rem, tot: progress_cb(tot - rem, tot)) if progress_cb else None)
+    finally:
+        b.close()
+        a.close()
+    for side in ("-journal", "-wal", "-shm"):
+        Path(str(out) + side).unlink(missing_ok=True)
+    tmp.replace(out)
+    return out
+
+
 def decompress_from_ttwt(
     source_ttwt: "str | Path",
     dest_ttwa: "str | Path",

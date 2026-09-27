@@ -7,7 +7,7 @@
    "titulo": "tour.primeiro_corpus.importar",
    "texto_ref": "telas/kwic",
    "posicao": "direita",
-   "rota": "/corpora"
+   "rota": "/arquivo"
   },
   {
    "alvo": "#adicionar-camadas",
