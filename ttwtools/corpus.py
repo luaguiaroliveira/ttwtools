@@ -346,7 +346,39 @@ def metadata_keys(project: TTWAProject, corpus_name: str | None = None) -> list[
     return [r["key"] for r in project._con.execute(sql + " ORDER BY m.key", args)]
 
 
+# ---------------------------------------------------------------------------
+# Resumo dos corpora e das camadas (biblioteca na interface)
+# ---------------------------------------------------------------------------
+
+def layer_summary(project: TTWAProject, corpus_name: str) -> list[dict]:
+    """Camadas do corpus agrupadas por configuração: ferramenta, versão, modelo,
+    configuração efetiva, quantos documentos cobre e quantos tokens tem."""
+    import json as _json
+    rows = project._con.execute(
+        "SELECT l.tool, l.tool_version, l.model, l.config, l.config_hash, COUNT(*) AS documents,"
+        " SUM(l.n_tokens) AS tokens, MAX(l.created_at) AS created_at"
+        " FROM layers l JOIN documents d ON d.id = l.doc_id WHERE d.corpus_name = ?"
+        " GROUP BY l.tool, l.tool_version, l.model, l.config_hash ORDER BY created_at DESC",
+        (corpus_name,)).fetchall()
+    total = project._con.execute("SELECT COUNT(*) FROM documents WHERE corpus_name = ?", (corpus_name,)).fetchone()[0]
+    return [{**dict(r), "config": _json.loads(r["config"]), "coverage": r["documents"] / total if total else 0.0}
+            for r in rows]
+
+
+def list_corpora(project: TTWAProject) -> list[dict]:
+    """Corpora do projeto: documentos, caracteres, chaves de metadados e camadas."""
+    out = []
+    for name in project.list_corpus_names():
+        row = project._con.execute(
+            "SELECT COUNT(*) AS documents, COALESCE(SUM(n_chars), 0) AS chars FROM documents WHERE corpus_name = ?",
+            (name,)).fetchone()
+        out.append({"name": name, "documents": row["documents"], "chars": row["chars"],
+                    "metadata_keys": metadata_keys(project, name), "layers": layer_summary(project, name)})
+    return out
+
+
 __all__ = [
+    "layer_summary", "list_corpora",
     "TokenizerConfig", "tokenize", "set_tokenizer_config", "get_tokenizer_config",
     "set_document_meta", "get_document_meta", "meta_from_filename", "read_metadata_csv", "apply_metadata",
     "import_corpus", "parse_where", "filter_documents", "list_groups", "metadata_keys",

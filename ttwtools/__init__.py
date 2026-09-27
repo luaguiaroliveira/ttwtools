@@ -66,6 +66,8 @@ _EXPORTS = {
     "get_document_meta": "corpus",
     "TokenizerConfig": "corpus",
     "tokenize": "corpus",
+    "list_corpora": "corpus",
+    "layer_summary": "corpus",
     # annotate: etiquetar com cache de camadas
     "tag_corpus": "annotate",
     "find_layer": "annotate",

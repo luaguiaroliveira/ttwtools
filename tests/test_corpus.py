@@ -125,3 +125,16 @@ def test_cli_import_and_documents(tmp_path, folder, capsys):
     assert lines[1].startswith("ens,grupoB_texto01.txt,")
     assert cli.main(["documents", project, "--corpus", "ens"]) == 0
     assert "grupoA_texto02.txt" in capsys.readouterr().out
+
+
+def test_list_corpora_and_layer_summary(proj, folder):
+    import_corpus(proj, folder, "ensaios", filename_fields=["grupo", "texto"])
+    from ttwtools.annotate import tag_corpus
+    from ttwtools.corpus import list_corpora
+    tag_corpus(proj, "ensaios", "simple", where={"grupo": "grupoA"})
+    [c] = list_corpora(proj)
+    assert (c["name"], c["documents"], c["metadata_keys"]) == ("ensaios", 3, ["grupo", "texto"])
+    assert c["chars"] == sum(len(t) for t in TEXTS.values())
+    [layer] = c["layers"]
+    assert layer["tool"] == "simple" and layer["documents"] == 2 and layer["coverage"] == pytest.approx(2 / 3)
+    assert layer["tokens"] > 0 and "components" in layer["config"]
