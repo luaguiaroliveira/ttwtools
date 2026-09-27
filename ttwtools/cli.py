@@ -130,17 +130,25 @@ def _import_format(args: argparse.Namespace) -> str:
     if args.format_in != "auto":
         return args.format_in
     suffix = Path(args.source).suffix.lower()
+    if suffix in (".anc", ".hdr"):
+        return "graf"
+    if suffix == ".xml":
+        return "tei"
     return {".conllu": "conllu", ".conll": "conllu"}.get(suffix, "txt")
 
 
 def _cmd_import(args: argparse.Namespace) -> int:
     from .corpus import TokenizerConfig, import_corpus
     fmt = _import_format(args) if args.source != "-" else "txt"
-    if fmt in ("conllu", "nltk"):
-        from .formats import import_conllu, import_nltk_tagged
+    if fmt in ("conllu", "nltk", "tei", "graf"):
+        from .formats import import_conllu, import_graf, import_nltk_tagged, import_tei
         with _open_or_create(args.project, create=True) as proj:
             if fmt == "conllu":
                 report = import_conllu(proj, args.source, args.name)
+            elif fmt == "tei":
+                report = import_tei(proj, args.source, args.name)
+            elif fmt == "graf":
+                report = import_graf(proj, args.source, args.name)
             else:
                 report = import_nltk_tagged(proj, args.source, args.name, tagset=args.tagset or "")
         report.pop("files")
@@ -285,8 +293,9 @@ def _configure_import(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl (criado se não existir)")
     p.add_argument("source", help="pasta de .txt, arquivo .txt, .csv com coluna de texto, ou - (texto pela entrada padrão)")
     p.add_argument("--name", required=True, help="nome do corpus no projeto")
-    p.add_argument("--format", dest="format_in", default="auto", choices=["auto", "txt", "conllu", "nltk"],
-                   help="auto (pela extensão), txt (pasta/.txt/.csv), conllu, nltk (palavra/TAG: Brown, LOB)")
+    p.add_argument("--format", dest="format_in", default="auto", choices=["auto", "txt", "conllu", "nltk", "tei", "graf"],
+                   help="auto (pela extensão), txt (pasta/.txt/.csv), conllu, nltk (palavra/TAG: Brown, LOB), "
+                        "tei (TEI XML, BNC XML), graf (standoff do OANC/MASC: pasta ou cabeçalho .anc)")
     p.add_argument("--tagset", help="nome do tagset das etiquetas (só --format nltk; ex.: brown)")
     p.add_argument("--fields", help="campos no nome do arquivo, separados por vírgula (ex.: grupo,texto)")
     p.add_argument("--delimiter", default="_", help="delimitador dos campos no nome do arquivo (padrão: _)")
