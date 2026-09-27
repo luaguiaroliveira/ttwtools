@@ -607,6 +607,54 @@ def _configure_compare(p):
     p.add_argument("--where2", action="append", metavar="CHAVE=VALOR", help="filtro do lado 2")
 
 
+def _cmd_catalog(args):
+    from . import corpus_catalog as cc
+    from . import models
+    act = args.action
+    if act == "list":
+        cat = cc.load_catalog(args.url)
+        have = {(i["id"], i["version"]) for i in cc.installed()}
+        rows = [{"id": e["id"], "versão": e["version"], "tipo": e.get("kind", "package"), "idioma": e["ficha"].get("lang"),
+                 "palavras": e["ficha"].get("size", {}).get("words"), "licença": e["ficha"].get("license", {}).get("name"),
+                 "instalado": "sim" if (e["id"], e["version"]) in have else ""} for e in cat["packages"]]
+        emit(rows, args.format)
+    elif act == "installed":
+        emit([{"id": i["id"], "versão": i["version"], "pasta": i["path"]} for i in cc.installed()], args.format)
+    elif act == "install":
+        def progress(done, total, name):
+            if args.format == "table":
+                print(f"\r  {name}: {done // 1024} / {total // 1024} KB", end="", file=sys.stderr)
+        item = cc.install(args.id, args.version, cc.load_catalog(args.url), progress)
+        if args.format == "table":
+            print(file=sys.stderr)
+        emit({"id": item["id"], "versão": item["version"], "pasta": item["path"], "projeto": item["project"]}, args.format)
+    elif act == "remove":
+        emit({"removidos": cc.remove(args.id, args.version)}, args.format)
+    elif act == "update":
+        emit(cc.updates(cc.load_catalog(args.url)), args.format)
+    elif act == "validate":
+        import json as _json
+        errors = cc.validate_catalog(_json.loads(open(args.id, encoding="utf-8").read()))
+        emit([{"erro": e} for e in errors] if errors else "catálogo válido", args.format)
+        return EXIT_ERROR if errors else EXIT_OK
+    elif act == "models":
+        emit(models.list_models()["spacy"], args.format)
+    elif act == "download-model":
+        path = models.download_spacy_model(args.id) if not args.id.startswith("stanza:") else \
+            models.download_stanza(args.id.split(":", 1)[1])
+        emit({"modelo": args.id, "pasta": str(path)}, args.format)
+    return EXIT_OK
+
+
+def _configure_catalog(p):
+    p.add_argument("action", choices=["list", "installed", "install", "remove", "update", "validate", "models",
+                                      "download-model"])
+    p.add_argument("id", nargs="?", help="id do pacote (install/remove), caminho do catálogo (validate) ou modelo "
+                                         "(download-model: en_core_web_md, stanza:pt)")
+    p.add_argument("--version", dest="version", help="versão do pacote")
+    p.add_argument("--url", help="URL ou caminho do catalogo.json (padrão: configuração)")
+
+
 def _configure_documents(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", help="só este corpus")
@@ -633,6 +681,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_keywords, _cmd_keywords),
     "reference-list": ("Gera a lista de frequência de referência (.tsv com ficha) de um corpus",
                        _configure_reference_list, _cmd_reference_list),
+    "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, models, download-model",
+                  _configure_catalog, _cmd_catalog),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",
                   _configure_describe, _cmd_describe),
@@ -674,6 +724,8 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: Iterable[str] | None = None) -> int:
+    from .models import activate
+    activate()                      # modelos baixados pelo catálogo entram no caminho
     parser = build_parser()
     args = parser.parse_args(None if argv is None else list(argv))
     if not getattr(args, "command", None):
