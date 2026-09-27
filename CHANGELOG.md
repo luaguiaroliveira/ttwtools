@@ -7,6 +7,7 @@ All notable changes to ttwtools are documented here.
 ## [Unreleased]
 
 ### Added
+- `ttwtools.models`: model sheets in `data/models.json` (`model_info()`; `list_models(lang)` returns `models` with purpose, source, licence, training data, download size, installed/available and the reason when a model cannot run here; Stanza en/pt included). `download_spacy_model()` refuses a model that cannot run in this installation (e.g. `en_core_web_trf` without `spacy_curated_transformers`). `ttwtools catalog models` prints the sheets.
 - `ttwtools.corpus_catalog`: corpus packages (`.zip` with `ficha.json`, an indexed and tagged `corpus.ttwa` and/or reference lists), `catalogo.json` with URL, size and sha256, licence rule (only verified, redistributable corpora become packages; the rest are recipes), install with hash check and progress, remove, updates, user data folder (`platformdirs`, `TTWTOOLS_DATA_DIR`); list-only packages (`make_reference_package`), `reference_lists()` and `catalog:<id>` as a reference in `keywords()`. CLI `ttwtools catalog list|installed|install|remove|update|validate|references|models|download-model`.
 - `ttwtools.models`: spaCy models downloaded as wheels from GitHub into the data folder and put on `sys.path` by `activate()` (works in the frozen app, without pip); Stanza models into the data folder.
 - `frequency_bands()` (lexical frequency profile: tokens and types in the reference's top 1,000, 2,000… and off list). CLI `ttwtools bands`.
@@ -16,6 +17,7 @@ All notable changes to ttwtools are documented here.
 - Documentation: `docs/guia_rapido.md` and `docs/referencia.md` (every public function, generated from docstrings by `docs/gerar_referencia.py`; a test checks coverage).
 
 ### Fixed
+- Paths starting with `~` are expanded everywhere the package takes a path (projects, `.ttwt`, import and export, taggers); before, `create_project('~/x.ttwa')` failed with "unable to open database file".
 - Without an explicit `layer`, queries that need lemma or POS (`lemma=`, `pos=`, `tag=`, unit lemma/pos) now use the most recent layer **that has** that field, instead of the most recent layer (e.g. a BiberPlus layer without lemmas silently returned 0 hits).
 - Command line `ttwtools` (`python -m ttwtools`): `--version` and subcommands `describe`, `tag`, `tagger-options`, `tagset`, `kwic`, `freq`, `keywords`, `compare`, `help` (stubs for now); standard output as table, `--json` or `--csv` (`ttwtools.cli.emit`).
 - Project schema **v0.3**: tables `documents` (text hash), `document_meta`, `layers` (tool, version, model, config, `config_hash`, `text_hash`), `tokens` (indexed by word/lemma/xpos) and `analyses`; `ttwtools.layers` (JSONL → tokens, `config_hash` without performance options). Old projects migrate on open, with a warning, without deleting anything.

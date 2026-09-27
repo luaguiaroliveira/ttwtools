@@ -1235,6 +1235,9 @@ download_spacy_model(name: 'str', progress: 'Callable[[int, int, str], None] | N
 
 Baixa e extrai o modelo spaCy. Devolve a pasta do pacote do modelo.
 
+Recusa (ValueError) um modelo que não rodaria nesta instalação (ex.: en_core_web_trf sem
+spacy_curated_transformers).
+
 ### `download_stanza`
 
 ```python
@@ -1246,10 +1249,19 @@ Baixa os modelos do Stanza para o idioma (pasta de dados, salvo STANZA_RESOURCES
 ### `list_models`
 
 ```python
-list_models() -> 'dict'
+list_models(lang: 'str | None' = None) -> 'dict'
 ```
 
-Modelos spaCy disponíveis (instalados no ambiente ou baixados) e pastas do Stanza.
+Modelos baixáveis com a ficha, se estão instalados e se podem rodar aqui (`models`);
+`spacy` mantém a lista simples de antes (nome, installed, downloaded).
+
+### `model_info`
+
+```python
+model_info() -> 'list[dict]'
+```
+
+Fichas dos modelos baixáveis (data/models.json): idioma, tamanho, fonte, licença, dados de treino.
 
 ### `models_dir`
 

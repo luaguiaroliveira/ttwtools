@@ -165,7 +165,7 @@ def parse_tei(source: str | Path) -> list[dict]:
 def import_tei(project: TTWAProject, source: str | Path, corpus_name: str, glob: str = "*.xml") -> dict:
     """Importa um arquivo TEI ou uma pasta de arquivos TEI. Texto anotado (`<w>`) ganha uma camada `tei`."""
     from ..corpus import _add_text, _unique_filename, set_document_meta
-    src = Path(source)
+    src = Path(source).expanduser()
     paths = sorted(src.rglob(glob)) if src.is_dir() else [src]
     files, n_tokens, with_layer = [], 0, 0
     for path in paths:

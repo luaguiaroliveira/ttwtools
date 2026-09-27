@@ -293,13 +293,13 @@ def extract_mfte_features_from_folder(
     extended        : apply extended MFTE semantic-category tagging.
     model_dir       : override path for Stanza model resources.
     """
-    corpus_path = Path(folder_path_str).resolve()
+    corpus_path = Path(folder_path_str).expanduser().resolve()
     if not corpus_path.is_dir():
         print(f"Erro: A pasta '{corpus_path}' nao foi encontrada.")
         return
 
     if output_dir:
-        base_out = Path(output_dir).resolve()
+        base_out = Path(output_dir).expanduser().resolve()
         base_out.mkdir(parents=True, exist_ok=True)
     else:
         base_out = corpus_path.parent
@@ -454,7 +454,7 @@ def normalize_mfte_features(csv_path_str: str, decimal_places=None):
     decimal_places:
         If given, round normalised values to this many decimal places.
     """
-    csv_path = Path(csv_path_str).resolve()
+    csv_path = Path(csv_path_str).expanduser().resolve()
     if not csv_path.is_file():
         print(f"Erro: O arquivo '{csv_path}' nao foi encontrado.")
         return

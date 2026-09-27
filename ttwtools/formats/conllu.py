@@ -152,7 +152,7 @@ def _add_sentence(doc: dict, lines: list[list[str]], comments: dict[str, str]) -
 
 def import_conllu(project: TTWAProject, path: str | Path, corpus_name: str) -> dict:
     """Importa um arquivo CoNLL-U: um documento por `# newdoc` e uma camada `conllu`."""
-    path = Path(path)
+    path = Path(path).expanduser()
     docs = parse_conllu(path, default_doc=path.stem)
     files = []
     for d in docs:

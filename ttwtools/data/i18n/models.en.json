@@ -1,0 +1,18 @@
+{
+ "model.family.spacy": "spaCy",
+ "model.family.stanza": "Stanza",
+ "model.tier.sm": "small",
+ "model.tier.md": "medium",
+ "model.tier.lg": "large",
+ "model.tier.trf": "transformer",
+ "model.tier.stanza": "neural",
+ "model.purpose": "Tags parts of speech and lemmas in {language} texts.",
+ "model.about.sm": "Fast and light; a good choice to start with and for large corpora.",
+ "model.about.md": "A bit more accurate than the small one; includes word vectors (useful for similarity).",
+ "model.about.lg": "More word vectors than the medium one; part-of-speech accuracy is similar, but the download is large.",
+ "model.about.trf": "spaCy's most accurate model, transformer-based (RoBERTa); much slower, and it needs a component this app does not ship yet.",
+ "model.about.stanza": "Neural model from Stanza (Stanford University), used by the Stanza tagger; slower than spaCy and usually more accurate for lemmas and parts of speech.",
+ "model.lang.en": "English",
+ "model.lang.pt": "Portuguese",
+ "model.reason.requires": "Needs the Python package '{module}', which is not available in this installation."
+}

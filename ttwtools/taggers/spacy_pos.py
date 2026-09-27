@@ -258,12 +258,12 @@ def extract_spacy_combined_features_from_folder(
     if not taggers:
         return {}
 
-    corpus_path = Path(folder_path_str).resolve()
+    corpus_path = Path(folder_path_str).expanduser().resolve()
     if not corpus_path.is_dir():
         print(f"Erro: A pasta '{corpus_path}' nao foi encontrada.")
         return {}
 
-    base_out = Path(output_dir).resolve() if output_dir else corpus_path.parent
+    base_out = Path(output_dir).expanduser().resolve() if output_dir else corpus_path.parent
     base_out.mkdir(parents=True, exist_ok=True)
 
     if save_tagged:
@@ -385,7 +385,7 @@ def normalize_spacy_pos_features(csv_path_str: str, decimal_places=None):
     Reads ``*_spacy_{mode}_rawcount.csv`` and writes
     ``*_spacy_{mode}_norm1000.csv``.
     """
-    csv_path = Path(csv_path_str).resolve()
+    csv_path = Path(csv_path_str).expanduser().resolve()
     if not csv_path.is_file():
         print(f"Erro: O arquivo '{csv_path}' nao foi encontrado.")
         return

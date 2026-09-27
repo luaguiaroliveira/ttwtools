@@ -116,7 +116,7 @@ def _catalog_reference(reference, unit: str):
 
 def write_reference_list(path: str | Path, table: FreqTable, card: Mapping[str, Any] | None = None) -> Path:
     """Grava uma lista de frequência de referência (.tsv com a ficha na 1ª linha)."""
-    path = Path(path)
+    path = Path(path).expanduser()
     meta = {**{k: v for k, v in table.meta.items() if k != "missing_field"}, **(card or {}),
             "words": table.words, "documents": table.n_docs, "format": "ttwtools-reference-list/1"}
     with path.open("w", encoding="utf-8", newline="") as fh:
@@ -130,7 +130,7 @@ def write_reference_list(path: str | Path, table: FreqTable, card: Mapping[str, 
 
 def read_reference_list(path: str | Path) -> FreqTable:
     """Lê uma lista de referência `.tsv` (ficha na 1ª linha) como FreqTable."""
-    path = Path(path)
+    path = Path(path).expanduser()
     lines = path.read_text(encoding="utf-8").splitlines()
     if not lines or not lines[0].startswith("# {"):
         raise ValueError(f"'{path.name}' não é uma lista de referência do ttwtools (falta a ficha na 1ª linha)")

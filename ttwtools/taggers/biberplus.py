@@ -210,13 +210,13 @@ def extract_biber_features_from_folder(
     copy_originals  : if True, copy source ``.txt`` files to
                       ``<output_dir>/originals/<corpus>/``.
     """
-    corpus_path = Path(folder_path_str).resolve()
+    corpus_path = Path(folder_path_str).expanduser().resolve()
     if not corpus_path.is_dir():
         print(f"Erro: A pasta '{corpus_path}' nao foi encontrada.")
         return
 
     if output_dir:
-        base_out = Path(output_dir).resolve()
+        base_out = Path(output_dir).expanduser().resolve()
         base_out.mkdir(parents=True, exist_ok=True)
     else:
         base_out = corpus_path.parent
@@ -400,7 +400,7 @@ def normalize_biber_features(csv_path_str: str, decimal_places=None):
     Reads a raw-count CSV produced by ``extract_biber_features_from_folder``
     and writes a ``*_norm1000.csv`` alongside it.
     """
-    csv_path = Path(csv_path_str).resolve()
+    csv_path = Path(csv_path_str).expanduser().resolve()
     if not csv_path.is_file():
         print(f"Erro: O arquivo '{csv_path}' nao foi encontrado.")
         return

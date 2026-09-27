@@ -57,7 +57,7 @@ def parse_nltk_tagged(source: str | Path, lowercase_tags: bool = False) -> dict:
 def import_nltk_tagged(project: TTWAProject, source: str | Path, corpus_name: str, glob: str = "*",
                        tagset: str = "") -> dict:
     """Importa um arquivo ou uma pasta de arquivos `palavra/TAG` (um documento por arquivo)."""
-    src = Path(source)
+    src = Path(source).expanduser()
     files = sorted(p for p in src.glob(glob) if p.is_file() and not p.name.startswith(".")) if src.is_dir() else [src]
     out = []
     n_tokens = 0

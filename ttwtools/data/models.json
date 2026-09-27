@@ -1,0 +1,174 @@
+{
+ "models": [
+  {
+   "id": "en_core_web_sm",
+   "family": "spacy",
+   "lang": "en",
+   "tier": "sm",
+   "download_mb": 13,
+   "license": "MIT",
+   "license_url": "https://opensource.org/license/mit",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/en",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "OntoNotes 5",
+    "ClearNLP",
+    "WordNet 3.0"
+   ],
+   "requires": []
+  },
+  {
+   "id": "en_core_web_md",
+   "family": "spacy",
+   "lang": "en",
+   "tier": "md",
+   "download_mb": 33,
+   "license": "MIT",
+   "license_url": "https://opensource.org/license/mit",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/en",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "OntoNotes 5",
+    "ClearNLP",
+    "WordNet 3.0",
+    "Explosion Vectors (OSCAR, Wikipedia, OpenSubtitles, WMT News Crawl)"
+   ],
+   "requires": []
+  },
+  {
+   "id": "en_core_web_lg",
+   "family": "spacy",
+   "lang": "en",
+   "tier": "lg",
+   "download_mb": 401,
+   "license": "MIT",
+   "license_url": "https://opensource.org/license/mit",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/en",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "OntoNotes 5",
+    "ClearNLP",
+    "WordNet 3.0",
+    "Explosion Vectors (OSCAR, Wikipedia, OpenSubtitles, WMT News Crawl)"
+   ],
+   "requires": []
+  },
+  {
+   "id": "en_core_web_trf",
+   "family": "spacy",
+   "lang": "en",
+   "tier": "trf",
+   "download_mb": 457,
+   "license": "MIT",
+   "license_url": "https://opensource.org/license/mit",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/en",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "OntoNotes 5",
+    "ClearNLP",
+    "WordNet 3.0",
+    "roberta-base"
+   ],
+   "requires": [
+    "spacy_curated_transformers"
+   ]
+  },
+  {
+   "id": "pt_core_news_sm",
+   "family": "spacy",
+   "lang": "pt",
+   "tier": "sm",
+   "download_mb": 13,
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/pt",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "UD Portuguese Bosque v2.8",
+    "WikiNER"
+   ],
+   "requires": []
+  },
+  {
+   "id": "pt_core_news_md",
+   "family": "spacy",
+   "lang": "pt",
+   "tier": "md",
+   "download_mb": 42,
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/pt",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "UD Portuguese Bosque v2.8",
+    "WikiNER",
+    "Explosion fastText (OSCAR, Wikipedia)"
+   ],
+   "requires": []
+  },
+  {
+   "id": "pt_core_news_lg",
+   "family": "spacy",
+   "lang": "pt",
+   "tier": "lg",
+   "download_mb": 568,
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "Explosion (spaCy)",
+   "source_url": "https://spacy.io/models/pt",
+   "download_from": "github.com/explosion/spacy-models",
+   "trained_on": [
+    "UD Portuguese Bosque v2.8",
+    "WikiNER",
+    "Explosion fastText (OSCAR, Wikipedia)"
+   ],
+   "requires": []
+  },
+  {
+   "id": "stanza:en",
+   "family": "stanza",
+   "lang": "en",
+   "tier": "stanza",
+   "download_mb": 225,
+   "license": "Apache 2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "source": "Stanford NLP (Stanza)",
+   "source_url": "https://stanfordnlp.github.io/stanza/",
+   "download_from": "huggingface.co/stanfordnlp",
+   "trained_on": [
+    "Universal Dependencies (English, combined)"
+   ],
+   "requires": [
+    "stanza",
+    "torch"
+   ],
+   "package": "default"
+  },
+  {
+   "id": "stanza:pt",
+   "family": "stanza",
+   "lang": "pt",
+   "tier": "stanza",
+   "download_mb": null,
+   "license": "Apache 2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "source": "Stanford NLP (Stanza)",
+   "source_url": "https://stanfordnlp.github.io/stanza/",
+   "download_from": "huggingface.co/stanfordnlp",
+   "trained_on": [
+    "UD Portuguese Bosque"
+   ],
+   "requires": [
+    "stanza",
+    "torch"
+   ],
+   "package": "default"
+  }
+ ]
+}

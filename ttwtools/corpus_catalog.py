@@ -151,7 +151,7 @@ def make_package(project_path: str | Path, out_dir: str | Path, ficha: Mapping[s
     from .project import TTWAProject
 
     ficha = dict(ficha)
-    out_dir = Path(out_dir)
+    out_dir = Path(out_dir).expanduser()
     out_dir.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as tmp, TTWAProject.open(project_path, migrate=True) as proj:
         tmp = Path(tmp)

@@ -117,7 +117,7 @@ def _not_implemented(name: str) -> Callable[[argparse.Namespace], int]:
 def _open_or_create(path: str, create: bool):
     from .project import TTWAProject
     from pathlib import Path
-    p = Path(path)
+    p = Path(path).expanduser()
     if p.exists():
         return TTWAProject.open(p)
     if not create:
@@ -733,7 +733,8 @@ def _cmd_catalog(args):
         emit([{k: r[k] for k in ("ref", "unit", "words", "documents", "lang", "license", "version")}
               for r in cc.reference_lists()], args.format)
     elif act == "models":
-        emit(models.list_models()["spacy"], args.format)
+        emit([{k: m[k] for k in ("id", "lang", "tier", "download_mb", "license", "installed", "available", "reason")}
+              for m in models.list_models()["models"]], args.format)
     elif act == "download-model":
         path = models.download_spacy_model(args.id) if not args.id.startswith("stanza:") else \
             models.download_stanza(args.id.split(":", 1)[1])

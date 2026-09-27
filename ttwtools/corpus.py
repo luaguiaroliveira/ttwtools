@@ -147,7 +147,7 @@ def _csv_reader(fh) -> csv.DictReader:
 
 def read_metadata_csv(path: str | Path, filename_column: str = "filename") -> dict[str, dict[str, str]]:
     """CSV de metadados → {arquivo: {coluna: valor}}. Aceita `;` ou `,` e BOM."""
-    path = Path(path)
+    path = Path(path).expanduser()
     with path.open(encoding="utf-8-sig", newline="") as fh:
         reader = _csv_reader(fh)
         if filename_column not in (reader.fieldnames or []):
@@ -234,7 +234,7 @@ def import_corpus(
         added.append(filename)
 
     if source is not None:
-        src = Path(source)
+        src = Path(source).expanduser()
         if src.is_dir():
             files = sorted(src.glob(glob))
             if not files:

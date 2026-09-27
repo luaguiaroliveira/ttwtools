@@ -52,7 +52,15 @@ def spacy_model_version(name: str) -> str:
 
 
 def download_spacy_model(name: str, progress: Callable[[int, int, str], None] | None = None) -> Path:
-    """Baixa e extrai o modelo spaCy. Devolve a pasta do pacote do modelo."""
+    """Baixa e extrai o modelo spaCy. Devolve a pasta do pacote do modelo.
+
+    Recusa (ValueError) um modelo que não rodaria nesta instalação (ex.: en_core_web_trf sem
+    spacy_curated_transformers)."""
+    info = next((m for m in model_info() if m["id"] == name), None)
+    if info:
+        reason = _model_status(info, None)["reason"]
+        if reason:
+            raise ValueError(reason)
     version = spacy_model_version(name)
     url = SPACY_WHEEL.format(name=name, v=version)
     target = models_dir() / "python"
@@ -88,12 +96,38 @@ def download_stanza(lang: str, package: str = "default", processors: str = "toke
     return target
 
 
-def list_models() -> dict:
-    """Modelos spaCy disponíveis (instalados no ambiente ou baixados) e pastas do Stanza."""
+def model_info() -> list[dict]:
+    """Fichas dos modelos baixáveis (data/models.json): idioma, tamanho, fonte, licença, dados de treino."""
+    return json.loads((Path(__file__).parent / "data" / "models.json").read_text(encoding="utf-8"))["models"]
+
+
+def _model_status(m: dict, lang: str | None) -> dict:
+    import importlib.util
+    from .i18n import t
+    missing = [mod for mod in m.get("requires", []) if importlib.util.find_spec(mod) is None]
+    if m["family"] == "stanza":
+        from .taggers.catalog import stanza_package_installed
+        installed = not missing and stanza_package_installed(m["lang"], m.get("package", "default"))
+    else:
+        installed = importlib.util.find_spec(m["id"]) is not None
+    tier = m["tier"]
+    return {**m,
+            "installed": installed,
+            "available": not missing,
+            "reason": t("model.reason.requires", lang, module=missing[0]) if missing else None,
+            "name": f"{t('model.family.' + m['family'], lang)} · {t('model.lang.' + m['lang'], lang)} · {t('model.tier.' + tier, lang)}",
+            "purpose": t("model.purpose", lang, language=t("model.lang." + m["lang"], lang)),
+            "about": t("model.about." + tier, lang)}
+
+
+def list_models(lang: str | None = None) -> dict:
+    """Modelos baixáveis com a ficha, se estão instalados e se podem rodar aqui (`models`);
+    `spacy` mantém a lista simples de antes (nome, installed, downloaded)."""
     import importlib.util
     from .taggers.catalog import _load_descriptor
     spacy_values = next(o["valores"] for o in _load_descriptor("spacy")["options"] if o["id"] == "model")
     downloaded = {p.name for p in (models_dir() / "python").glob("*") if p.is_dir()} if (models_dir() / "python").is_dir() else set()
-    return {"spacy": [{"name": m, "installed": importlib.util.find_spec(m) is not None, "downloaded": m in downloaded}
+    return {"models": [_model_status(m, lang) for m in model_info()],
+            "spacy": [{"name": m, "installed": importlib.util.find_spec(m) is not None, "downloaded": m in downloaded}
                       for m in spacy_values],
             "data_dir": str(models_dir())}

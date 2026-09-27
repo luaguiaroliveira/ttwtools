@@ -56,7 +56,7 @@ def _features(a: ET.Element) -> dict[str, str]:
 
 def read_header(path: str | Path) -> dict:
     """Cabeçalho `.anc`/`.hdr`: {"text": caminho do .txt, "annotations": {f.id: caminho}, "meta": {...}}."""
-    path = Path(path)
+    path = Path(path).expanduser()
     root = ET.parse(path).getroot()
     text, annotations, meta = None, {}, {}
     for el in root.iter():
@@ -152,7 +152,7 @@ def import_graf(project: TTWAProject, source: str | Path, corpus_name: str, toke
                 encoding: str = "utf-8") -> dict:
     """Importa uma pasta do OANC/MASC (ou um cabeçalho .anc/.hdr) para `corpus_name`,
     com uma camada `graf` (forma, lema, PTB e UPOS) por documento."""
-    src = Path(source)
+    src = Path(source).expanduser()
     docs = [read_header(src)] if src.is_file() else _discover(src)
     if not docs:
         raise ValueError(f"nenhum documento GrAF (cabeçalho .anc/.hdr ou .txt com -*.xml) em '{src}'")

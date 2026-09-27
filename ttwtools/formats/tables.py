@@ -31,7 +31,7 @@ def _rows(project, corpus_name, tool, where):
 def export_tokens(project: TTWAProject, corpus_name: str, out: str | Path, fmt: str = "csv",
                   tool: str | None = None, where: dict | None = None) -> dict:
     """Exporta os tokens de uma camada como tabela: CSV, JSONL ou Parquet (se houver pyarrow)."""
-    out = Path(out)
+    out = Path(out).expanduser()
     if fmt == "csv":
         n = 0
         with out.open("w", encoding="utf-8", newline="") as fh:

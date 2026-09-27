@@ -49,7 +49,7 @@ def write_tagged_jsonl(
     tokens   : list of token dicts (see module docstring for required fields).
     path     : destination file path; parent directories are created if needed.
     """
-    path = Path(path)
+    path = Path(path).expanduser()
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
         f.write(json.dumps({"type": "metadata", **metadata}, ensure_ascii=False))
@@ -70,7 +70,7 @@ def read_tagged_jsonl(path: str | Path) -> tuple[dict[str, Any], list[dict[str, 
     ------
     ValueError  if the file appears to be in the legacy TSV format.
     """
-    path = Path(path)
+    path = Path(path).expanduser()
     with path.open("r", encoding="utf-8") as f:
         first_line = f.readline().rstrip("\n")
 
@@ -114,7 +114,7 @@ def export_tagged(
 
     if out_path is None:
         out_path = jsonl_path.with_suffix(f".{fmt}")
-    out_path = Path(out_path)
+    out_path = Path(out_path).expanduser()
 
     if fmt == "json":
         with out_path.open("w", encoding="utf-8") as f:

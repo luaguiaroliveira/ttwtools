@@ -296,13 +296,13 @@ def extract_stanza_combined_features_from_folder(
         # Lazy import — avoids loading torch/MFTE at package import time
         from .mfte import tag_from_doc_mfte as _mfte_kernel
 
-    corpus_path = Path(folder_path_str).resolve()
+    corpus_path = Path(folder_path_str).expanduser().resolve()
     if not corpus_path.is_dir():
         print(f"Erro: A pasta '{corpus_path}' nao foi encontrada.")
         return {}
 
     if output_dir:
-        base_out = Path(output_dir).resolve()
+        base_out = Path(output_dir).expanduser().resolve()
         base_out.mkdir(parents=True, exist_ok=True)
     else:
         base_out = corpus_path.parent
@@ -469,13 +469,13 @@ def extract_stanza_pos_features_from_folder(
     if mode not in ("upos", "xpos"):
         raise ValueError(f"mode deve ser 'upos' ou 'xpos', não '{mode}'.")
 
-    corpus_path = Path(folder_path_str).resolve()
+    corpus_path = Path(folder_path_str).expanduser().resolve()
     if not corpus_path.is_dir():
         print(f"Erro: A pasta '{corpus_path}' nao foi encontrada.")
         return
 
     if output_dir:
-        base_out = Path(output_dir).resolve()
+        base_out = Path(output_dir).expanduser().resolve()
         base_out.mkdir(parents=True, exist_ok=True)
     else:
         base_out = corpus_path.parent
@@ -631,7 +631,7 @@ def normalize_stanza_pos_features(csv_path_str: str, decimal_places=None):
     decimal_places:
         If given, round normalised values to this many decimal places.
     """
-    csv_path = Path(csv_path_str).resolve()
+    csv_path = Path(csv_path_str).expanduser().resolve()
     if not csv_path.is_file():
         print(f"Erro: O arquivo '{csv_path}' nao foi encontrado.")
         return

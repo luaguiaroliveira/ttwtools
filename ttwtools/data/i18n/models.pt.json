@@ -1,0 +1,18 @@
+{
+ "model.family.spacy": "spaCy",
+ "model.family.stanza": "Stanza",
+ "model.tier.sm": "pequeno",
+ "model.tier.md": "médio",
+ "model.tier.lg": "grande",
+ "model.tier.trf": "transformer",
+ "model.tier.stanza": "neural",
+ "model.purpose": "Etiqueta classes gramaticais e lemas de textos em {language}.",
+ "model.about.sm": "Rápido e leve; boa escolha para começar e para corpora grandes.",
+ "model.about.md": "Um pouco mais preciso que o pequeno; inclui vetores de palavras (úteis para similaridade).",
+ "model.about.lg": "Mais vetores de palavras que o médio; a precisão das classes é parecida, mas o download é grande.",
+ "model.about.trf": "O mais preciso do spaCy, baseado em transformer (RoBERTa); bem mais lento e exige um componente que este aplicativo ainda não traz.",
+ "model.about.stanza": "Modelo neural do Stanza (Universidade de Stanford), usado pelo etiquetador Stanza; mais lento que o spaCy e costuma ser mais preciso em lemas e classes.",
+ "model.lang.en": "inglês",
+ "model.lang.pt": "português",
+ "model.reason.requires": "Precisa do pacote Python '{module}', que não está disponível nesta instalação."
+}

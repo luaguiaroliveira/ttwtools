@@ -256,7 +256,8 @@ def compress_to_ttwt(
 
     progress_cb(done_bytes, total_bytes) é chamado a cada chunk lido da fonte.
     """
-    source = Path(source_ttwa)
+    source = Path(source_ttwa).expanduser()
+    dest_ttwt = Path(dest_ttwt).expanduser()
     total = source.stat().st_size
     done = 0
     with source.open("rb") as src, lzma.open(dest_ttwt, "wb", preset=9 | lzma.PRESET_EXTREME) as dst:
@@ -280,7 +281,8 @@ def decompress_from_ttwt(
     O progresso é calculado sobre o tamanho do arquivo comprimido (fonte).
     progress_cb(done_bytes, total_bytes) é chamado a cada chunk lido.
     """
-    source = Path(source_ttwt)
+    source = Path(source_ttwt).expanduser()
+    dest_ttwa = Path(dest_ttwa).expanduser()
     total = source.stat().st_size
     done = 0
     dec = lzma.LZMADecompressor()
@@ -480,7 +482,7 @@ class TTWAProject:
     """
 
     def __init__(self, path: str | Path):
-        self.path = Path(path).resolve()
+        self.path = Path(path).expanduser().resolve()
         self._con: sqlite3.Connection | None = None
         self.migration_report: dict | None = None
 
@@ -504,7 +506,7 @@ class TTWAProject:
                                     tabelas de documentos, camadas e tokens.
         compress=False          — formato v0.1 compatível com versões antigas.
         """
-        p = Path(path).resolve()
+        p = Path(path).expanduser().resolve()
         if p.exists() and not overwrite:
             raise FileExistsError(
                 f"O arquivo '{p}' já existe. Use overwrite=True para substituir."
@@ -530,7 +532,7 @@ class TTWAProject:
         a migração só acrescenta tabelas (nada é apagado) e emite um aviso; o
         relatório fica em `proj.migration_report`.
         """
-        p = Path(path).resolve()
+        p = Path(path).expanduser().resolve()
         if not p.exists():
             raise FileNotFoundError(f"Arquivo não encontrado: '{p}'")
         proj = cls(p)
@@ -624,7 +626,7 @@ class TTWAProject:
 
         Retorna o número de arquivos importados.
         """
-        folder = Path(folder_path).resolve()
+        folder = Path(folder_path).expanduser().resolve()
         if not folder.is_dir():
             raise NotADirectoryError(f"Pasta não encontrada: '{folder}'")
 
@@ -649,7 +651,7 @@ class TTWAProject:
         encoding: str = "utf-8",
     ) -> None:
         """Importa um único arquivo de texto para o corpus."""
-        p = Path(file_path).resolve()
+        p = Path(file_path).expanduser().resolve()
         content = p.read_text(encoding=encoding, errors="ignore")
         self._store_text(corpus_name, p, content)
         self._con.commit()
@@ -722,7 +724,7 @@ class TTWAProject:
         encoding: str = "utf-8",
     ) -> int:
         """Exporta todos os arquivos de um corpus para uma pasta no disco."""
-        dest = Path(dest_folder).resolve()
+        dest = Path(dest_folder).expanduser().resolve()
         dest.mkdir(parents=True, exist_ok=True)
         n = 0
         for filename in self.list_corpus_files(corpus_name):
@@ -797,7 +799,7 @@ class TTWAProject:
         tagger_type: str = "biberplus",
     ) -> int:
         """Importa todos os .tsv/.jsonl de uma pasta tagueada para o projeto."""
-        folder = Path(tagged_folder).resolve()
+        folder = Path(tagged_folder).expanduser().resolve()
         files = list(folder.glob(glob))
         imported = 0
         for tsv_path in files:
@@ -1285,7 +1287,7 @@ class TTWAProject:
         """
         if not self.is_light:
             raise ValueError("relink_corpus só se aplica a projetos .ttwl")
-        folder = Path(folder).resolve()
+        folder = Path(folder).expanduser().resolve()
         report: dict[str, list] = {"relinked": [], "changed": [], "missing": []}
         for doc in self.list_documents():
             key = (doc["corpus_name"], doc["filename"])
@@ -1314,7 +1316,7 @@ class TTWAProject:
         """Exporta os textos para `<pasta do projeto>/<nome>_corpus/<corpus>/<arquivo>`.
 
         No `.ttwl`, passa a apontar para a cópia exportada. Devolve a pasta."""
-        dest = Path(folder).resolve() if folder else self.path.parent / f"{self.path.stem}_corpus"
+        dest = Path(folder).expanduser().resolve() if folder else self.path.parent / f"{self.path.stem}_corpus"
         for corpus in self.list_corpus_names():
             for filename in self.list_corpus_files(corpus):
                 content = self.get_corpus_file(corpus, filename)
@@ -1345,8 +1347,8 @@ class TTWAProject:
         dest padrão: mesmo nome com `.ttwl`; pasta padrão: `<dest>_corpus` ao lado."""
         if self.is_light:
             raise ValueError("O projeto já é .ttwl")
-        dest = Path(dest).resolve() if dest else self.path.with_suffix(TTWL_EXTENSION)
-        folder = Path(corpus_folder).resolve() if corpus_folder else dest.parent / f"{dest.stem}_corpus"
+        dest = Path(dest).expanduser().resolve() if dest else self.path.with_suffix(TTWL_EXTENSION)
+        folder = Path(corpus_folder).expanduser().resolve() if corpus_folder else dest.parent / f"{dest.stem}_corpus"
         light = self._copy_to(dest)
         for corpus in light.list_corpus_names():
             for filename in light.list_corpus_files(corpus):
@@ -1373,7 +1375,7 @@ class TTWAProject:
                 f"Corpus incompleto ou alterado: {len(status['missing'])} ausente(s), "
                 f"{len(status['changed'])} alterado(s). Use relink_corpus() antes."
             )
-        dest = Path(dest).resolve() if dest else self.path.with_suffix(TTWA_EXTENSION)
+        dest = Path(dest).expanduser().resolve() if dest else self.path.with_suffix(TTWA_EXTENSION)
         full = self._copy_to(dest)
         for doc in self.list_documents():
             if not doc["rel_path"]:
@@ -1657,9 +1659,9 @@ def _kind_from_suffix(path: Path) -> str:
 def _relative_to_project(project_path: Path, file_path: Path) -> str:
     """Caminho do texto relativo à pasta do projeto (absoluto se em outro disco)."""
     try:
-        return Path(os.path.relpath(Path(file_path).resolve(), Path(project_path).resolve().parent)).as_posix()
+        return Path(os.path.relpath(Path(file_path).expanduser().resolve(), Path(project_path).expanduser().resolve().parent)).as_posix()
     except ValueError:  # Windows: outra unidade
-        return Path(file_path).resolve().as_posix()
+        return Path(file_path).expanduser().resolve().as_posix()
 
 
 def _read_text(path: Path) -> str:
