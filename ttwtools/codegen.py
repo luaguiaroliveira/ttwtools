@@ -90,9 +90,10 @@ def cli_command(analysis: str, project_path: str, params: Mapping[str, Any], win
             parts += [flag, q(",".join(value))]
         else:
             parts += [flag, q(value)]
-    for key, values in (params.get("where") or {}).items():
-        for v in ([values] if isinstance(values, str) else values):
-            parts += ["--where", q(f"{key}={v}")]
+    for flag, key_name in (("--where", "where"), ("--where2", "where2")):
+        for key, values in (params.get(key_name) or {}).items():
+            for v in ([values] if isinstance(values, str) else values):
+                parts += [flag, q(f"{key}={v}")]
     return " ".join(parts)
 
 
@@ -110,7 +111,9 @@ def python_code(analysis: str, project_path: str, params: Mapping[str, Any]) -> 
     if analysis == "collocates" and ("left" in params or "right" in params):
         kwargs.append(f"window={(params.get('left', 5), params.get('right', 5))!r}")
     if params.get("where"):
-        kwargs.append(f"where={dict(params['where'])!r}")
+        kwargs.append(f"{'where1' if analysis == 'kfa' else 'where'}={dict(params['where'])!r}")
+    if params.get("where2"):
+        kwargs.append(f"where2={dict(params['where2'])!r}")
     call = ", ".join(["proj", *args, *kwargs])
     return "\n".join([
         "import ttwtools",
