@@ -60,6 +60,7 @@ _EXPORTS = {
     "detach_corpus": "project",
     # corpus: importação, metadados, tokenização simples, filtros
     "import_corpus": "corpus",
+    "preview_filenames": "corpus",
     "filter_documents": "corpus",
     "list_groups": "corpus",
     "set_document_meta": "corpus",

@@ -7,6 +7,7 @@ All notable changes to ttwtools are documented here.
 ## [Unreleased]
 
 ### Added
+- `preview_filenames()` and `ttwtools names FOLDER`: how file names become metadata, without importing (pieces, a few examples, names with a different number of pieces). An empty name in `filename_fields` skips that piece.
 - `ttwtools.models`: model sheets in `data/models.json` (`model_info()`; `list_models(lang)` returns `models` with purpose, source, licence, training data, download size, installed/available and the reason when a model cannot run here; Stanza en/pt included). `download_spacy_model()` refuses a model that cannot run in this installation (e.g. `en_core_web_trf` without `spacy_curated_transformers`). `ttwtools catalog models` prints the sheets.
 - `ttwtools.corpus_catalog`: corpus packages (`.zip` with `ficha.json`, an indexed and tagged `corpus.ttwa` and/or reference lists), `catalogo.json` with URL, size and sha256, licence rule (only verified, redistributable corpora become packages; the rest are recipes), install with hash check and progress, remove, updates, user data folder (`platformdirs`, `TTWTOOLS_DATA_DIR`); list-only packages (`make_reference_package`), `reference_lists()` and `catalog:<id>` as a reference in `keywords()`. CLI `ttwtools catalog list|installed|install|remove|update|validate|references|models|download-model`.
 - `ttwtools.models`: spaCy models downloaded as wheels from GitHub into the data folder and put on `sys.path` by `activate()` (works in the frozen app, without pip); Stanza models into the data folder.

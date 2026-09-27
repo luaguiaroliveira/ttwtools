@@ -138,3 +138,15 @@ def test_list_corpora_and_layer_summary(proj, folder):
     [layer] = c["layers"]
     assert layer["tool"] == "simple" and layer["documents"] == 2 and layer["coverage"] == pytest.approx(2 / 3)
     assert layer["tokens"] > 0 and "components" in layer["config"]
+
+
+def test_preview_filenames_e_pedaco_ignorado(tmp_path):
+    from ttwtools.corpus import meta_from_filename, preview_filenames
+    for n in ("ana_B1_2024.txt", "joao_C1_2023.txt", "sem_ano.txt"):
+        (tmp_path / n).write_text("x", encoding="utf-8")
+    pv = preview_filenames(tmp_path, "_", ["aluno", "", "ano"])
+    assert pv["total"] == 3 and pv["parts"] == 3 and pv["irregular"] == ["sem_ano.txt"]
+    ana = next(e for e in pv["examples"] if e["file"].startswith("ana"))
+    assert ana["parts"] == ["ana", "B1", "2024"] and ana["meta"] == {"aluno": "ana", "ano": "2024"}
+    assert meta_from_filename("ana_B1_2024.txt", ["aluno", "nivel", ""]) == {"aluno": "ana", "nivel": "B1"}
+    assert preview_filenames(tmp_path / "nao_existe")["total"] == 0

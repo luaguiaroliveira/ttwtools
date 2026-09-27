@@ -244,7 +244,8 @@ meta_from_filename(filename: 'str', fields: 'list[str]', delimiter: 'str' = '_')
 
 Metadados a partir do nome do arquivo: `grupoA_texto01.txt` com fields
 ["grupo", "texto"] → {"grupo": "grupoA", "texto": "texto01"}. O último campo
-recebe o resto do nome; campos a mais ficam de fora.
+recebe o resto do nome; campos a mais ficam de fora; campo vazio ("") pula
+aquele pedaço.
 
 ### `metadata_keys`
 
@@ -1647,6 +1648,17 @@ normalize_stanza_pos_features(*args, **kwargs)
 ```
 
 Lazy wrapper — imports ttwtools.taggers.stanza_pos on first call.
+
+### `preview_filenames` · **`ttwtools.preview_filenames`**
+
+```python
+preview_filenames(source: 'str | Path', delimiter: 'str' = '_', fields: 'list[str] | None' = None, n: 'int' = 5, glob: 'str' = '*.txt') -> 'dict'
+```
+
+Como os nomes dos arquivos da pasta viram metadados, sem importar nada.
+
+Devolve {"total", "parts" (nº de pedaços mais comum), "irregular" (até 5 nomes com
+outro nº de pedaços), "n_irregular", "examples": [{"file", "parts", "meta"}]}.
 
 ### `spacy_ptb` · **`ttwtools.spacy_ptb`**
 

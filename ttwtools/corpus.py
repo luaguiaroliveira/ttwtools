@@ -129,9 +129,29 @@ def get_document_meta(project: TTWAProject, corpus_name: str, filename: str) -> 
 def meta_from_filename(filename: str, fields: list[str], delimiter: str = "_") -> dict[str, str]:
     """Metadados a partir do nome do arquivo: `grupoA_texto01.txt` com fields
     ["grupo", "texto"] → {"grupo": "grupoA", "texto": "texto01"}. O último campo
-    recebe o resto do nome; campos a mais ficam de fora."""
+    recebe o resto do nome; campos a mais ficam de fora; campo vazio ("") pula
+    aquele pedaço."""
     parts = Path(filename).stem.split(delimiter, len(fields) - 1) if fields else []
-    return dict(zip(fields, parts))
+    return {k: v for k, v in zip(fields, parts) if k}
+
+
+def preview_filenames(source: str | Path, delimiter: str = "_", fields: list[str] | None = None,
+                      n: int = 5, glob: str = "*.txt") -> dict:
+    """Como os nomes dos arquivos da pasta viram metadados, sem importar nada.
+
+    Devolve {"total", "parts" (nº de pedaços mais comum), "irregular" (até 5 nomes com
+    outro nº de pedaços), "n_irregular", "examples": [{"file", "parts", "meta"}]}."""
+    from collections import Counter
+    src = Path(source).expanduser()
+    files = sorted(f.name for f in src.glob(glob)) if src.is_dir() else []
+    split = {f: Path(f).stem.split(delimiter) if delimiter else [Path(f).stem] for f in files}
+    counts = Counter(len(p) for p in split.values())
+    parts = counts.most_common(1)[0][0] if counts else 0
+    irregular = [f for f, p in split.items() if len(p) != parts]
+    return {"total": len(files), "parts": parts, "irregular": irregular[:5], "n_irregular": len(irregular),
+            "examples": [{"file": f, "parts": split[f],
+                          "meta": meta_from_filename(f, fields, delimiter) if fields else {}}
+                         for f in files[:n]]}
 
 
 def _csv_reader(fh) -> csv.DictReader:

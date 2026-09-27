@@ -170,6 +170,27 @@ def _cmd_import(args: argparse.Namespace) -> int:
     return EXIT_OK
 
 
+def _cmd_names(args: argparse.Namespace) -> int:
+    from .corpus import preview_filenames
+    fields = args.fields.split(",") if args.fields else None
+    pv = preview_filenames(args.folder, args.delimiter, fields, n=args.n)
+    rows = [{"arquivo": e["file"], **({k: v for k, v in e["meta"].items()} if fields else
+                                       {f"pedaço {i + 1}": v for i, v in enumerate(e["parts"])})}
+            for e in pv["examples"]]
+    emit(rows, args.format)
+    if pv["n_irregular"]:
+        print(f"aviso: {pv['n_irregular']} de {pv['total']} nomes não têm {pv['parts']} pedaços "
+              f"(ex.: {', '.join(pv['irregular'])})", file=sys.stderr)
+    return EXIT_OK
+
+
+def _configure_names(p: argparse.ArgumentParser) -> None:
+    p.add_argument("folder", help="pasta com os .txt")
+    p.add_argument("--delimiter", default="_", help="separador dos pedaços do nome (padrão: _)")
+    p.add_argument("--fields", help="nomes dos pedaços, separados por vírgula; vazio pula o pedaço (ex.: aluno,,ano)")
+    p.add_argument("-n", type=int, default=5, help="quantos arquivos mostrar")
+
+
 def _cmd_documents(args: argparse.Namespace) -> int:
     from .corpus import filter_documents, parse_where
     with _open_or_create(args.project, create=False) as proj:
@@ -762,6 +783,8 @@ def _configure_documents(p: argparse.ArgumentParser) -> None:
 IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]] = {
     "import":    ("Importa textos para um corpus do projeto (pasta, .txt, CSV ou texto colado)",
                   _configure_import, _cmd_import),
+    "names":     ("Mostra como os nomes dos arquivos de uma pasta viram metadados (sem importar)",
+                  _configure_names, _cmd_names),
     "documents": ("Lista documentos e metadados, com filtro por metadado",
                   _configure_documents, _cmd_documents),
     "tag":       ("Etiqueta um corpus, reaproveitando camadas já feitas",
