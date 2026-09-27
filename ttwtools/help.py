@@ -91,7 +91,8 @@ def tour(tour_id: str, lang: str | None = None) -> dict:
     for step in data["passos"]:
         topic = get(step["texto_ref"], lang)
         out["steps"].append({"target": step["alvo"], "title": t(step["titulo"], lang), "topic": topic["id"],
-                             "text": topic["summary"], "position": step.get("posicao", "direita")})
+                             "text": topic["summary"], "position": step.get("posicao", "direita"),
+                             "route": step.get("rota")})
     return out
 
 

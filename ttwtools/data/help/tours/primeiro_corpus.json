@@ -2,9 +2,33 @@
  "id": "primeiro_corpus",
  "titulo": "tour.primeiro_corpus.title",
  "passos": [
-  {"alvo": "#importar-corpus", "titulo": "tour.primeiro_corpus.importar", "texto_ref": "telas/kwic", "posicao": "direita"},
-  {"alvo": "#botao-tagger", "titulo": "tour.primeiro_corpus.tagger", "texto_ref": "conceitos/tagset_biber", "posicao": "direita"},
-  {"alvo": "#busca-kwic", "titulo": "tour.primeiro_corpus.kwic", "texto_ref": "telas/kwic", "posicao": "baixo"},
-  {"alvo": "#palavras-chave", "titulo": "tour.primeiro_corpus.keywords", "texto_ref": "metricas/keyness", "posicao": "esquerda"}
+  {
+   "alvo": "#importar-corpus",
+   "titulo": "tour.primeiro_corpus.importar",
+   "texto_ref": "telas/kwic",
+   "posicao": "direita",
+   "rota": "/corpora"
+  },
+  {
+   "alvo": "#botao-tagger",
+   "titulo": "tour.primeiro_corpus.tagger",
+   "texto_ref": "conceitos/tagset_biber",
+   "posicao": "direita",
+   "rota": "/corpora"
+  },
+  {
+   "alvo": "#busca-kwic",
+   "titulo": "tour.primeiro_corpus.kwic",
+   "texto_ref": "telas/kwic",
+   "posicao": "baixo",
+   "rota": "/explorar/kwic"
+  },
+  {
+   "alvo": "#palavras-chave",
+   "titulo": "tour.primeiro_corpus.keywords",
+   "texto_ref": "metricas/keyness",
+   "posicao": "esquerda",
+   "rota": "/comparar"
+  }
  ]
 }
