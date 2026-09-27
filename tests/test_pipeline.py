@@ -45,3 +45,13 @@ def test_executar_etiqueta_antes_das_estatisticas(proj):
     assert "spacy" in r["done"][1]["report"]["layers"]
     assert ttwtools.describe(proj, "c", layer="spacy", cache_only=True) is not None
     assert ttwtools.pending_steps(proj, "c") == []
+
+
+def test_andamento_por_passo(proj):
+    pytest.importorskip("spacy")
+    ttwtools.add_step(proj, "c", {"kind": "tag", "tagger": "spacy", "preset": "rapido"})
+    ttwtools.add_step(proj, "c", {"kind": "stats"})
+    seen = []
+    ttwtools.run_steps(proj, "c", on_step=lambda i, st: seen.append((i, st["status"], st["done"], st["total"])))
+    assert (0, "running", 5, 5) in seen and (0, "done", 1, 1) in seen
+    assert seen[-1] == (1, "done", 1, 1) and any(s[0] == 1 and s[1] == "running" and s[3] for s in seen)

@@ -93,10 +93,14 @@ def _ordered(steps: list[dict]) -> list[dict]:
 
 
 def run_steps(project: TTWAProject, corpus_name: str,
-              progress: Callable[[int, int, str], None] | None = None) -> dict:
+              progress: Callable[[int, int, str], None] | None = None,
+              on_step: Callable[[int, dict], None] | None = None) -> dict:
     """Executa a lista do corpus: etiquetagens na ordem e, por último, as estatísticas básicas.
 
-    Cada passo concluído sai da lista (se um falhar, os seguintes continuam guardados).
+    `progress(passo, total_de_passos, mensagem)` dá o andamento geral; `on_step(i, estado)`
+    dá o de cada passo, com estado = {"status": "running"|"done"|"error", "done", "total",
+    "item"} (feitos/total dentro do passo e o texto atual). Cada passo concluído sai da
+    lista (se um falhar, ele e os seguintes continuam guardados).
     Devolve {"done": [{"step", "report"}], "remaining": [...]}.
     """
     from .annotate import tag_corpus
@@ -105,23 +109,40 @@ def run_steps(project: TTWAProject, corpus_name: str,
 
     steps = _ordered(pending_steps(project, corpus_name))
     done = []
+
+    def tell(i, **state):
+        if on_step:
+            on_step(i, state)
+
     for i, step in enumerate(steps):
         label = step.get("tagger", "stats")
         if progress:
             progress(i, len(steps), label)
-        if step["kind"] == "tag":
-            sub = (lambda d, t, f, i=i: progress(i, len(steps), f"{label}: {f} ({d}/{t})")) if progress else None
-            report = tag_corpus(project, corpus_name, step["tagger"], step.get("options"),
-                                components=step.get("components"), preset=step.get("preset"), progress=sub)
-            report = {k: v for k, v in report.items() if k != "layer_ids"}
-        else:
-            layers = [None] + sorted({layer["tool"] for layer in layer_summary(project, corpus_name)})
-            for layer in layers:
-                for hide in (False, True):
+        tell(i, status="running", done=0, total=None, item=None)
+        try:
+            if step["kind"] == "tag":
+                def sub(d, t, f, i=i):
+                    tell(i, status="running", done=d, total=t, item=f)
+                    if progress:
+                        progress(i, len(steps), f"{label}: {f} ({d}/{t})")
+                report = tag_corpus(project, corpus_name, step["tagger"], step.get("options"),
+                                    components=step.get("components"), preset=step.get("preset"), progress=sub)
+                report = {k: v for k, v in report.items() if k != "layer_ids"}
+            else:
+                layers = [None] + sorted({layer["tool"] for layer in layer_summary(project, corpus_name)})
+                jobs = [(layer, hide) for layer in layers for hide in (False, True)]
+                for n, (layer, hide) in enumerate(jobs):
+                    tell(i, status="running", done=n, total=len(jobs), item=layer or "texto")
+                    if progress:
+                        progress(i, len(steps), f"stats: {layer or 'texto'}")
                     describe(project, corpus_name, layer=layer, hide_stopwords=hide)
-            report = {"layers": [layer or "texto" for layer in layers]}
+                report = {"layers": [layer or "texto" for layer in layers]}
+        except BaseException:
+            tell(i, status="error", done=None, total=None, item=None)
+            raise
         done.append({"step": step, "report": report})
         _save(project, corpus_name, [s for s in pending_steps(project, corpus_name) if s != step])
+        tell(i, status="done", done=1, total=1, item=None)
     if progress:
         progress(len(steps), len(steps), "ok")
     return {"done": done, "remaining": pending_steps(project, corpus_name)}
