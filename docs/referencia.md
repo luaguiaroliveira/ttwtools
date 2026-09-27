@@ -85,15 +85,24 @@ export_corpus_next_to(project: 'TTWAProject', folder: 'str | Path | None' = None
 
 Exporta os textos do projeto para uma pasta ao lado dele (ver TTWAProject.export_corpus_next_to).
 
+### `needs_migration` · **`ttwtools.needs_migration`**
+
+```python
+needs_migration(path: 'str | Path') -> 'bool'
+```
+
+O projeto está num esquema anterior ao v0.3 (abrir vai migrar)? Não altera o arquivo.
+
 ### `open_project` · **`ttwtools.open_project`**
 
 ```python
-open_project(path: 'str | Path', migrate: 'bool' = True) -> 'TTWAProject'
+open_project(path: 'str | Path', migrate: 'bool' = True, progress: 'Callable[[int, int, str], None] | None' = None) -> 'TTWAProject'
 ```
 
 Abre um projeto `.ttwa` ou `.ttwl` (o tipo vem do próprio arquivo).
 
-Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open).
+Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open);
+`progress(feitos, total, etapa)` acompanha a migração, que pode ser demorada.
 
 ### `relink_corpus` · **`ttwtools.relink_corpus`**
 
@@ -1671,7 +1680,7 @@ Lazy wrapper — imports ttwtools.taggers.stanza_pos on first call.
 pending_steps(project: 'TTWAProject', corpus_name: 'str') -> 'list[dict]'
 ```
 
-Passos guardados na lista "a executar" do corpus (a ordem de execução põe `stats` no fim).
+Passos guardados na lista "a executar" do corpus, na ordem em que rodam (`stats` no fim).
 
 ### `preview_filenames` · **`ttwtools.preview_filenames`**
 
@@ -1695,12 +1704,15 @@ Tira o passo `index` (0 = primeiro) da lista. Devolve a lista.
 ### `run_steps` · **`ttwtools.run_steps`**
 
 ```python
-run_steps(project: 'TTWAProject', corpus_name: 'str', progress: 'Callable[[int, int, str], None] | None' = None) -> 'dict'
+run_steps(project: 'TTWAProject', corpus_name: 'str', progress: 'Callable[[int, int, str], None] | None' = None, on_step: 'Callable[[int, dict], None] | None' = None) -> 'dict'
 ```
 
 Executa a lista do corpus: etiquetagens na ordem e, por último, as estatísticas básicas.
 
-Cada passo concluído sai da lista (se um falhar, os seguintes continuam guardados).
+`progress(passo, total_de_passos, mensagem)` dá o andamento geral; `on_step(i, estado)`
+dá o de cada passo, com estado = {"status": "running"|"done"|"error", "done", "total",
+"item"} (feitos/total dentro do passo e o texto atual). Cada passo concluído sai da
+lista (se um falhar, ele e os seguintes continuam guardados).
 Devolve {"done": [{"step", "report"}], "remaining": [...]}.
 
 ### `spacy_ptb` · **`ttwtools.spacy_ptb`**

@@ -17,3 +17,48 @@ def test_sobrescrever_apaga_restos_do_sqlite(tmp_path):
     ttwtools.create_project(p, overwrite=True).close()
     assert not (tmp_path / "p.ttwa-journal").exists()
     ttwtools.open_project(p).close()
+
+
+def test_migracao_com_progresso_e_retomada(tmp_path, monkeypatch):
+    """Interrompida no meio, a migração v0.3 continua de onde parou e dá o mesmo resultado."""
+    import shutil
+    from pathlib import Path
+    import warnings
+    import pytest
+    import ttwtools
+    from ttwtools import project as P
+    src = Path(__file__).parent / "data" / "v2_small.ttwa"
+    a, b = tmp_path / "a.ttwa", tmp_path / "b.ttwa"
+    shutil.copy(src, a)
+    shutil.copy(src, b)
+    assert ttwtools.needs_migration(a)
+    warnings.simplefilter("ignore")
+
+    seen = []
+    ref = ttwtools.open_project(a, progress=lambda d, t, m: seen.append((d, t, m)))
+    total = seen[-1][1]
+    assert seen[-1][2] == "indexes" and any(m == "layers" for _d, _t, m in seen)
+    expected = ref._con.execute("SELECT COUNT(*) FROM tokens").fetchone()[0]
+    ref.close()
+    assert not ttwtools.needs_migration(a)
+
+    monkeypatch.setattr(P, "_MIGRATION_BATCH", 1)
+    real, calls = P.TTWAProject._index_tagged, {"n": 0}
+
+    def boom(self, *args):
+        calls["n"] += 1
+        if calls["n"] == 2:
+            raise KeyboardInterrupt("fechou a janela")
+        return real(self, *args)
+    monkeypatch.setattr(P.TTWAProject, "_index_tagged", boom)
+    with pytest.raises(KeyboardInterrupt):
+        ttwtools.open_project(b)
+    monkeypatch.setattr(P.TTWAProject, "_index_tagged", real)
+    resumed = []
+    proj = ttwtools.open_project(b, progress=lambda d, t, m: resumed.append(d))
+    assert resumed[0] > 0 and resumed[-1] == total            # não recomeçou do zero
+    assert proj._con.execute("SELECT COUNT(*) FROM tokens").fetchone()[0] == expected
+    assert proj.get_meta("migration_v3.last_tagged_id") is None
+    names = {r[0] for r in proj._con.execute("SELECT name FROM sqlite_master WHERE type='index'")}
+    assert {n for n, _ in P._TOKEN_INDEXES} <= names
+    proj.close()

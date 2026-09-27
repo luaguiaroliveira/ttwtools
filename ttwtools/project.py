@@ -97,6 +97,20 @@ _TAGGER_UNIFIED_MAP: dict[str, str] = {
 # ---------------------------------------------------------------------------
 # DDL
 # ---------------------------------------------------------------------------
+_MIGRATION_BATCH = 200   # arquivos etiquetados por gravação na migração v0.3 (ponto de retomada)
+
+# índices da tabela tokens: no esquema e desligados/recriados pela migração (carga em massa)
+_TOKEN_INDEXES = [
+    ("idx_tokens_word", "CREATE INDEX IF NOT EXISTS idx_tokens_word  ON tokens (word)"),
+    ("idx_tokens_lemma", "CREATE INDEX IF NOT EXISTS idx_tokens_lemma ON tokens (lemma)"),
+    ("idx_tokens_xpos", "CREATE INDEX IF NOT EXISTS idx_tokens_xpos  ON tokens (xpos)"),
+    ("idx_tokens_doc", "CREATE INDEX IF NOT EXISTS idx_tokens_doc   ON tokens (doc_id)"),
+    # busca sem distinguir maiúsculas (KWIC, frequência): índices de expressão
+    ("idx_tokens_lword", "CREATE INDEX IF NOT EXISTS idx_tokens_lword  ON tokens (lower(word))"),
+    ("idx_tokens_llemma", "CREATE INDEX IF NOT EXISTS idx_tokens_llemma ON tokens (lower(lemma))"),
+    ("idx_tokens_upos", "CREATE INDEX IF NOT EXISTS idx_tokens_upos   ON tokens (upos)"),
+]
+
 _SCHEMA_SQL = """
 PRAGMA journal_mode = WAL;
 PRAGMA foreign_keys = ON;
@@ -197,14 +211,7 @@ CREATE TABLE IF NOT EXISTS tokens (
     extra       TEXT,     -- campos adicionais do JSONL (JSON), para não perder nada
     PRIMARY KEY (layer_id, idx)
 ) WITHOUT ROWID;
-CREATE INDEX IF NOT EXISTS idx_tokens_word  ON tokens (word);
-CREATE INDEX IF NOT EXISTS idx_tokens_lemma ON tokens (lemma);
-CREATE INDEX IF NOT EXISTS idx_tokens_xpos  ON tokens (xpos);
-CREATE INDEX IF NOT EXISTS idx_tokens_doc   ON tokens (doc_id);
--- busca sem distinguir maiúsculas (KWIC, frequência): índices de expressão
-CREATE INDEX IF NOT EXISTS idx_tokens_lword  ON tokens (lower(word));
-CREATE INDEX IF NOT EXISTS idx_tokens_llemma ON tokens (lower(lemma));
-CREATE INDEX IF NOT EXISTS idx_tokens_upos   ON tokens (upos);
+{token_indexes}
 
 CREATE TABLE IF NOT EXISTS analyses (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -215,7 +222,7 @@ CREATE TABLE IF NOT EXISTS analyses (
     result      TEXT,                          -- JSON
     created_at  TEXT    NOT NULL
 );
-"""
+""".replace("{token_indexes}", "\n".join(sql + ";" for _n, sql in _TOKEN_INDEXES))
 
 
 # ---------------------------------------------------------------------------
@@ -527,7 +534,8 @@ class TTWAProject:
         return proj
 
     @classmethod
-    def open(cls, path: str | Path, migrate: bool = True) -> "TTWAProject":
+    def open(cls, path: str | Path, migrate: bool = True,
+             progress: Callable[[int, int, str], None] | None = None) -> "TTWAProject":
         """Abre um projeto `.ttwa` ou `.ttwl` existente.
 
         Projetos de esquema anterior ao v0.3 são migrados ao abrir (migrate=True):
@@ -541,7 +549,7 @@ class TTWAProject:
         proj._con = _connect(p)
         old = proj.get_meta("schema_version", SCHEMA_VERSION_LEGACY)
         if migrate and not _schema_is_at_least(old, SCHEMA_VERSION_CURRENT):
-            proj.migration_report = proj.migrate_to_v3()
+            proj.migration_report = proj.migrate_to_v3(progress=progress)
             r = proj.migration_report
             warnings.warn(
                 f"Projeto '{p.name}' migrado do esquema {old} para {SCHEMA_VERSION_CURRENT}: "
@@ -1182,26 +1190,41 @@ class TTWAProject:
             out.append(d)
         return out
 
-    def migrate_to_v3(self) -> dict:
+    def migrate_to_v3(self, progress: Callable[[int, int, str], None] | None = None) -> dict:
         """Migra o projeto para o esquema v0.3 sem apagar nada.
 
         Cria `documents` a partir de `corpus_files` (com hash) e `layers`/`tokens` a
         partir dos blocos JSONL de `tagged_files`. Projetos v0.1 passam antes pela
         compressão de `upgrade_to_v2`. Arquivos no formato TSV antigo são contados
         em `skipped_legacy` e continuam em `tagged_files`.
+
+        Grava de tempos em tempos e anota até onde chegou (`migration_v3.last_tagged_id`):
+        se for interrompida, a próxima abertura continua dali. Os índices de `tokens`
+        ficam desligados durante a carga e são recriados no fim (bem mais rápido).
+        `progress(feitos, total, etapa)` informa o andamento.
         """
         old = self.get_meta("schema_version", SCHEMA_VERSION_LEGACY)
         if _schema_is_at_least(old, SCHEMA_VERSION_CURRENT):
             return {"from": old, "documents": 0, "layers": 0, "tokens": 0, "skipped_legacy": 0, "already_v3": True}
         if not _schema_is_at_least(old, SCHEMA_VERSION_COMPRESSED):
+            if progress:
+                progress(0, 1, "compress")
             self.upgrade_to_v2()
 
-        for row in self._con.execute("SELECT corpus_name, filename, content FROM corpus_files").fetchall():
-            self._upsert_document(row["corpus_name"], row["filename"], row["content"])
+        start = int(self.get_meta("migration_v3.last_tagged_id") or 0)
+        if not start:
+            for row in self._con.execute("SELECT corpus_name, filename, content FROM corpus_files").fetchall():
+                self._upsert_document(row["corpus_name"], row["filename"], row["content"])
+            self._con.commit()
 
-        n_layers = n_skipped = 0
-        ids = [r["id"] for r in self._con.execute("SELECT id FROM tagged_files ORDER BY id")]
-        for tid in ids:
+        for name, _sql in _TOKEN_INDEXES:
+            self._con.execute(f"DROP INDEX IF EXISTS {name}")
+        n_layers = int(self.get_meta("migration_v3.layers") or 0)
+        n_skipped = int(self.get_meta("migration_v3.skipped") or 0)
+        ids = [r["id"] for r in self._con.execute("SELECT id FROM tagged_files WHERE id > ? ORDER BY id", (start,))]
+        before = self._con.execute("SELECT COUNT(*) FROM tagged_files WHERE id <= ?", (start,)).fetchone()[0]
+        total = before + len(ids)
+        for n, tid in enumerate(ids, 1):
             row = self._con.execute(
                 "SELECT corpus_name, filename, tagger_type, content, encoding FROM tagged_files WHERE id = ?", (tid,)
             ).fetchone()
@@ -1210,7 +1233,20 @@ class TTWAProject:
                 n_skipped += 1
             else:
                 n_layers += 1
+            if n % _MIGRATION_BATCH == 0 or n == len(ids):
+                self._set_meta("migration_v3.last_tagged_id", tid)
+                self._set_meta("migration_v3.layers", n_layers)
+                self._set_meta("migration_v3.skipped", n_skipped)
+                self._con.commit()
+                if progress:
+                    progress(before + n, total, "layers")
+        if progress:
+            progress(total, total, "indexes")
+        for _name, sql in _TOKEN_INDEXES:
+            self._con.execute(sql)
 
+        for key in ("migration_v3.last_tagged_id", "migration_v3.layers", "migration_v3.skipped"):
+            self._con.execute("DELETE FROM project_meta WHERE key = ?", (key,))
         if not self.get_meta("project_kind"):
             self._set_meta("project_kind", PROJECT_KIND_TTWA)
         self._set_meta("schema_version", SCHEMA_VERSION_CURRENT)
@@ -1553,11 +1589,29 @@ def create_project(
     return TTWAProject.create(path, name=name, description=description, overwrite=overwrite)
 
 
-def open_project(path: str | Path, migrate: bool = True) -> TTWAProject:
+def open_project(path: str | Path, migrate: bool = True,
+                 progress: Callable[[int, int, str], None] | None = None) -> TTWAProject:
     """Abre um projeto `.ttwa` ou `.ttwl` (o tipo vem do próprio arquivo).
 
-    Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open)."""
-    return TTWAProject.open(path, migrate=migrate)
+    Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open);
+    `progress(feitos, total, etapa)` acompanha a migração, que pode ser demorada."""
+    return TTWAProject.open(path, migrate=migrate, progress=progress)
+
+
+def needs_migration(path: str | Path) -> bool:
+    """O projeto está num esquema anterior ao v0.3 (abrir vai migrar)? Não altera o arquivo."""
+    p = Path(path).expanduser()
+    if p.suffix.lower() == ".ttwt":
+        return False
+    try:
+        con = sqlite3.connect(f"file:{p}?mode=ro", uri=True)
+        try:
+            row = con.execute("SELECT value FROM project_meta WHERE key = 'schema_version'").fetchone()
+        finally:
+            con.close()
+    except sqlite3.Error:
+        return False
+    return not _schema_is_at_least(row[0] if row else SCHEMA_VERSION_LEGACY, SCHEMA_VERSION_CURRENT)
 
 
 def export_corpus_next_to(project: TTWAProject, folder: str | Path | None = None) -> Path:

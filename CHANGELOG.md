@@ -19,6 +19,7 @@ All notable changes to ttwtools are documented here.
 - Documentation: `docs/guia_rapido.md` and `docs/referencia.md` (every public function, generated from docstrings by `docs/gerar_referencia.py`; a test checks coverage).
 
 ### Fixed
+- v0.3 migration of large projects: commits in batches and resumes after an interruption (`migration_v3.last_tagged_id`), drops the `tokens` indexes during the bulk load and recreates them at the end, and reports progress (`open_project(progress=)`, `migrate_to_v3(progress=)`). New `needs_migration(path)`.
 - Paths starting with `~` are expanded everywhere the package takes a path (projects, `.ttwt`, import and export, taggers); before, `create_project('~/x.ttwa')` failed with "unable to open database file".
 - Without an explicit `layer`, queries that need lemma or POS (`lemma=`, `pos=`, `tag=`, unit lemma/pos) now use the most recent layer **that has** that field, instead of the most recent layer (e.g. a BiberPlus layer without lemmas silently returned 0 hits).
 - Command line `ttwtools` (`python -m ttwtools`): `--version` and subcommands `describe`, `tag`, `tagger-options`, `tagset`, `kwic`, `freq`, `keywords`, `compare`, `help` (stubs for now); standard output as table, `--json` or `--csv` (`ttwtools.cli.emit`).

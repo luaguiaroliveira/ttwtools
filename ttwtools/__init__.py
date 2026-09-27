@@ -48,6 +48,7 @@ _EXPORTS = {
     "TTWAProject": "project",
     "create_project": "project",
     "open_project": "project",
+    "needs_migration": "project",
     "save_analysis_to_project": "project",
     "TTWA_MIME_TYPE": "project",
     "TTWA_EXTENSION": "project",
