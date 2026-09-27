@@ -219,6 +219,13 @@ CREATE TABLE IF NOT EXISTS tokens (
 ) WITHOUT ROWID;
 {token_indexes}
 
+-- camadas empacotadas (zlib + JSON das linhas de tokens), quando o arquivo é salvo sem as
+-- tabelas de busca; ao abrir, os tokens são recriados daqui (rebuild_search_tables)
+CREATE TABLE IF NOT EXISTS layer_blobs (
+    layer_id  INTEGER PRIMARY KEY REFERENCES layers(id) ON DELETE CASCADE,
+    data      BLOB    NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS analyses (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
     type        TEXT    NOT NULL,              -- kfa, freq, collocates, kwic...
@@ -282,6 +289,20 @@ def compress_to_ttwt(
             done += len(chunk)
             if progress_cb:
                 progress_cb(done, total)
+
+
+# cópias de trabalho abertas por um aplicativo: caminho da cópia → arquivo real (ver register_working_copy)
+_WORKING_COPIES: dict[str, str] = {}
+
+
+def register_working_copy(work: "str | Path", home: "str | Path | None") -> None:
+    """Informa que `work` é a cópia de trabalho de `home` (None desfaz). Toda abertura de
+    `work` passa a usar `home` como arquivo real (pasta dos textos do .ttwl, nome, tipo)."""
+    key = str(Path(work).expanduser().resolve())
+    if home is None:
+        _WORKING_COPIES.pop(key, None)
+    else:
+        _WORKING_COPIES[key] = str(Path(home).expanduser().resolve())
 
 
 _GZIP_MAGIC = b"\x1f\x8b"
@@ -355,8 +376,14 @@ def save_project_as(
     dest: "str | Path",
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
     compress: bool = True,
+    search_tables: bool = True,
+    progress: "Optional[Callable[[int, int, str], None]]" = None,
 ) -> Path:
     """Grava o projeto `source` (banco aberto) em `dest`, com as alterações recentes.
+
+    `search_tables=False` grava sem as tabelas de busca (tokens e índices): as camadas vão
+    empacotadas e o arquivo fica bem menor, mas a abertura recria as tabelas (demora).
+    `progress(feitos, total, etapa)` acompanha o empacotamento.
 
     Por padrão o arquivo sai compactado (gzip rápido), em qualquer extensão; `compress=False`
     grava o banco direto (abre sem descompactar e salva sozinho, mas é bem maior). `.ttwt`
@@ -365,6 +392,29 @@ def save_project_as(
     src, out = Path(source).expanduser(), Path(dest).expanduser()
     out.parent.mkdir(parents=True, exist_ok=True)
     checkpoint(src)
+    if not search_tables:
+        import shutil
+        import tempfile
+        workdir = Path(tempfile.mkdtemp(prefix="ttw_pack_"))
+        try:
+            packed = workdir / src.name
+            a, b = sqlite3.connect(str(src)), sqlite3.connect(str(packed))
+            try:
+                a.backup(b)
+            finally:
+                b.close()
+                a.close()
+            proj = TTWAProject(packed)
+            proj._con = _connect(packed)
+            proj.pack_search_tables(progress=progress)
+            proj._set_meta("save.search_tables", False)
+            proj._set_meta("save.compress", bool(compress))
+            proj._con.commit()
+            proj._con.execute("VACUUM")
+            proj.close()
+            return save_project_as(packed, out, progress_cb=progress_cb, compress=compress)
+        finally:
+            shutil.rmtree(workdir, ignore_errors=True)
     tmp = out.with_name(out.name + ".part")
     tmp.unlink(missing_ok=True)
     if compress or out.suffix.lower() == TTWT_EXTENSION:
@@ -613,18 +663,90 @@ class TTWAProject:
         """.ttwc/.ttwcl: projeto de um corpus só."""
         return self.home.suffix.lower() in SINGLE_CORPUS_EXTENSIONS or bool(self.get_meta("single_corpus"))
 
-    def save(self, progress_cb: "Optional[Callable[[int, int], None]]" = None, compress: bool = True) -> Path:
-        """Grava o projeto no arquivo real (`home`), compactado por padrão. Num banco aberto
-        direto (sem compressão) as alterações já estão no arquivo: só consolida o WAL."""
+    def save_options(self) -> dict:
+        """Como o arquivo é gravado: {"compress", "search_tables"} (lembrado no próprio arquivo)."""
+        c, st = self.get_meta("save.compress"), self.get_meta("save.search_tables")
+        return {"compress": True if c is None else bool(c), "search_tables": True if st is None else bool(st)}
+
+    def set_save_options(self, compress: bool | None = None, search_tables: bool | None = None) -> dict:
+        """Muda (e lembra) como o arquivo é gravado; None mantém. Devolve as opções."""
+        if compress is not None:
+            self._set_meta("save.compress", bool(compress))
+        if search_tables is not None:
+            self._set_meta("save.search_tables", bool(search_tables))
         self._con.commit()
-        if not self.is_working_copy and not compress:
+        return self.save_options()
+
+    def save(self, progress_cb: "Optional[Callable[[int, int], None]]" = None, compress: bool | None = None,
+             search_tables: bool | None = None) -> Path:
+        """Grava o projeto no arquivo real (`home`) com as opções lembradas (padrão: compactado e
+        com tabelas de busca); os argumentos as mudam. Num banco aberto direto (sem compressão)
+        as alterações já estão no arquivo: só consolida o WAL."""
+        opts = self.set_save_options(compress, search_tables)
+        compress, search_tables = opts["compress"], opts["search_tables"]
+        self._con.commit()
+        if not self.is_working_copy and not compress and search_tables:
             checkpoint(self.path)
             return self.path
         if not self.is_working_copy:
             raise ValueError("este projeto está aberto direto do banco; use save_project_as() para outro arquivo")
-        out = save_project_as(self.path, self.home, progress_cb=progress_cb, compress=compress)
+        out = save_project_as(self.path, self.home, progress_cb=progress_cb, compress=compress,
+                              search_tables=search_tables)
         self._saved_changes = self._con.total_changes
         return out
+
+    @property
+    def has_search_tables(self) -> bool:
+        """As tabelas de busca (tokens e índices) estão presentes? False num arquivo salvo sem elas."""
+        return self.get_meta("search_tables") is not False
+
+    def pack_search_tables(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> int:
+        """Empacota os tokens de cada camada em `layer_blobs` e apaga tokens e índices (o arquivo
+        fica bem menor; nada se perde). Devolve o número de camadas empacotadas. Sem commit final
+        de VACUUM: quem grava o arquivo decide."""
+        con = self._con
+        ids = [r[0] for r in con.execute("SELECT id FROM layers WHERE id NOT IN (SELECT layer_id FROM layer_blobs) ORDER BY id")]
+        cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
+        for n, lid in enumerate(ids, 1):
+            rows = con.execute(f"SELECT {cols} FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
+            data = zlib.compress(json.dumps([list(r) for r in rows], ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
+            con.execute("INSERT OR REPLACE INTO layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
+            if progress and (n % 200 == 0 or n == len(ids)):
+                progress(n, len(ids), "pack")
+        for name, _sql in _TOKEN_INDEXES:
+            con.execute(f"DROP INDEX IF EXISTS {name}")
+        con.execute("DELETE FROM tokens")
+        self._set_meta("search_tables", False)
+        con.commit()
+        return len(ids)
+
+    def rebuild_search_tables(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> int:
+        """Recria tokens e índices a partir de `layer_blobs` (arquivo salvo sem tabelas de busca).
+        Devolve o número de camadas recriadas."""
+        con = self._con
+        for name, _sql in _TOKEN_INDEXES:
+            con.execute(f"DROP INDEX IF EXISTS {name}")
+        rows = con.execute("SELECT b.layer_id, l.doc_id FROM layer_blobs b JOIN layers l ON l.id = b.layer_id ORDER BY b.layer_id").fetchall()
+        for n, (lid, doc_id) in enumerate(rows, 1):
+            data = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (lid,)).fetchone()[0]
+            toks = json.loads(zlib.decompress(data).decode("utf-8"))
+            con.execute("DELETE FROM tokens WHERE layer_id = ?", (lid,))
+            con.executemany(
+                "INSERT INTO tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
+                " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                ((lid, i, doc_id, *t) for i, t in enumerate(toks)))
+            if n % 200 == 0 or n == len(rows):
+                con.commit()
+                if progress:
+                    progress(n, len(rows), "search")
+        if progress:
+            progress(len(rows), len(rows), "indexes")
+        for _name, sql in _TOKEN_INDEXES:
+            con.execute(sql)
+        con.execute("DELETE FROM layer_blobs")
+        self._set_meta("search_tables", True)
+        con.commit()
+        return len(rows)
 
     @property
     def unsaved(self) -> bool:
@@ -690,6 +812,8 @@ class TTWAProject:
         if not p.exists():
             raise FileNotFoundError(f"Arquivo não encontrado: '{p}'")
         workdir = None
+        if home is None:
+            home = _WORKING_COPIES.get(str(p))
         if home is None and compression_of(p):
             import tempfile
             workdir = Path(tempfile.mkdtemp(prefix="ttw_"))
@@ -712,6 +836,9 @@ class TTWAProject:
                 + (f"; {r['skipped_legacy']} arquivos no formato TSV antigo não indexados" if r["skipped_legacy"] else ""),
                 stacklevel=2,
             )
+        if migrate and proj.get_meta("search_tables") is False:
+            proj.rebuild_search_tables(progress=progress)
+            proj._saved_changes = proj._con.total_changes     # recriar não é alteração a salvar
         return proj
 
     @property
@@ -1552,7 +1679,7 @@ class TTWAProject:
         dest padrão: mesmo nome com `.ttwl`; pasta padrão: `<dest>_corpus` ao lado."""
         if self.is_light:
             raise ValueError("O projeto já é .ttwl")
-        dest = Path(dest).expanduser().resolve() if dest else self.path.with_suffix(TTWL_EXTENSION)
+        dest = Path(dest).expanduser().resolve() if dest else self.home.with_suffix(TTWL_EXTENSION)
         folder = Path(corpus_folder).expanduser().resolve() if corpus_folder else dest.parent / f"{dest.stem}_corpus"
         light = self._copy_to(dest)
         for corpus in light.list_corpus_names():
@@ -1580,7 +1707,7 @@ class TTWAProject:
                 f"Corpus incompleto ou alterado: {len(status['missing'])} ausente(s), "
                 f"{len(status['changed'])} alterado(s). Use relink_corpus() antes."
             )
-        dest = Path(dest).expanduser().resolve() if dest else self.path.with_suffix(TTWA_EXTENSION)
+        dest = Path(dest).expanduser().resolve() if dest else self.home.with_suffix(TTWA_EXTENSION)
         full = self._copy_to(dest)
         for doc in self.list_documents():
             if not doc["rel_path"]:
@@ -1774,10 +1901,13 @@ def needs_migration(path: str | Path) -> bool:
         con = sqlite3.connect(f"file:{p}?mode=ro", uri=True)
         try:
             row = con.execute("SELECT value FROM project_meta WHERE key = 'schema_version'").fetchone()
+            st = con.execute("SELECT value FROM project_meta WHERE key = 'search_tables'").fetchone()
         finally:
             con.close()
     except sqlite3.Error:
         return False
+    if st and st[0] in ("false", "0"):
+        return True                     # salvo sem tabelas de busca: abrir recria (demora)
     return not _schema_is_at_least(row[0] if row else SCHEMA_VERSION_LEGACY, SCHEMA_VERSION_CURRENT)
 
 
@@ -1802,6 +1932,7 @@ def save_corpus_as(
     dest: str | Path,
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
     compress: bool = True,
+    search_tables: bool = True,
 ) -> Path:
     """Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
     `.ttwcl` (textos numa pasta `<nome>_corpus` ao lado do arquivo).
@@ -1832,6 +1963,12 @@ def save_corpus_as(
         # textos: ler da origem antes de mexer (no .ttwl de origem, da pasta ao lado dela)
         texts = {fn: project.get_corpus_file(corpus_name, fn) for fn in project.list_corpus_files(corpus_name)}
         kept_docs = [r[0] for r in con.execute("SELECT id FROM documents WHERE corpus_name = ?", (corpus_name,))]
+        # apagar milhões de tokens com 7 índices ativos é lento: tira os índices, apaga pela chave
+        # (layer_id) e recria no fim, já só com o corpus que fica
+        for name, _sql in _TOKEN_INDEXES:
+            con.execute(f"DROP INDEX IF EXISTS {name}")
+        con.execute("DELETE FROM tokens WHERE layer_id IN (SELECT l.id FROM layers l JOIN documents d ON d.id = l.doc_id"
+                    " WHERE d.corpus_name != ?)", (corpus_name,))
         for table, col in (("corpus_files", "corpus_name"), ("tagged_files", "corpus_name"),
                            ("feature_tables", "corpus_name"), ("documents", "corpus_name")):
             con.execute(f"DELETE FROM {table} WHERE {col} != ?", (corpus_name,))
@@ -1869,10 +2006,13 @@ def save_corpus_as(
         work._set_meta("single_corpus", True)
         work._set_meta("project_name", corpus_name)
         con.commit()
+        for _name, sql in _TOKEN_INDEXES:
+            con.execute(sql)
+        con.commit()
         con.execute("VACUUM")
         work.close()
         del kept_docs
-        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress)
+        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=search_tables)
     finally:
         shutil.rmtree(workdir, ignore_errors=True)
 

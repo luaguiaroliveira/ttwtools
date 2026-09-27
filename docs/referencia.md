@@ -137,6 +137,15 @@ Abre um projeto `.ttwa` ou `.ttwl` (o tipo vem do próprio arquivo).
 Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open);
 `progress(feitos, total, etapa)` acompanha a migração, que pode ser demorada.
 
+### `register_working_copy` · **`ttwtools.register_working_copy`**
+
+```python
+register_working_copy(work: "'str | Path'", home: "'str | Path | None'") -> 'None'
+```
+
+Informa que `work` é a cópia de trabalho de `home` (None desfaz). Toda abertura de
+`work` passa a usar `home` como arquivo real (pasta dos textos do .ttwl, nome, tipo).
+
 ### `relink_corpus` · **`ttwtools.relink_corpus`**
 
 ```python
@@ -173,7 +182,7 @@ Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
 ### `save_corpus_as` · **`ttwtools.save_corpus_as`**
 
 ```python
-save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True) -> 'Path'
+save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True) -> 'Path'
 ```
 
 Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
@@ -186,10 +195,14 @@ O projeto de origem não muda.
 ### `save_project_as` · **`ttwtools.save_project_as`**
 
 ```python
-save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True) -> 'Path'
+save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
 ```
 
 Grava o projeto `source` (banco aberto) em `dest`, com as alterações recentes.
+
+`search_tables=False` grava sem as tabelas de busca (tokens e índices): as camadas vão
+empacotadas e o arquivo fica bem menor, mas a abertura recria as tabelas (demora).
+`progress(feitos, total, etapa)` acompanha o empacotamento.
 
 Por padrão o arquivo sai compactado (gzip rápido), em qualquer extensão; `compress=False`
 grava o banco direto (abre sem descompactar e salva sozinho, mas é bem maior). `.ttwt`

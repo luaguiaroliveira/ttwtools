@@ -197,10 +197,13 @@ def _cmd_save_as(args: argparse.Namespace) -> int:
     single = Path(args.dest).suffix.lower() in SINGLE_CORPUS_EXTENSIONS
     if single and not args.corpus:
         raise SystemExit("ttwtools: .ttwc/.ttwcl guardam um corpus só: diga qual com --corpus")
+    compress, tables = not args.no_compress, not args.no_search_tables
     with _open_or_create(args.project, create=False) as proj:
+        proj._set_meta("save.compress", compress)
+        proj._set_meta("save.search_tables", tables)
         proj._con.commit()
-        out = (save_corpus_as(proj, args.corpus, args.dest, compress=not args.no_compress) if single
-               else save_project_as(proj.path, args.dest, compress=not args.no_compress))
+        out = (save_corpus_as(proj, args.corpus, args.dest, compress=compress, search_tables=tables) if single
+               else save_project_as(proj.path, args.dest, compress=compress, search_tables=tables))
     emit({"arquivo": str(out), "compactado": compression_of(out) is not None,
           "tamanho_mb": round(out.stat().st_size / 1e6, 1)}, args.format)
     return EXIT_OK
@@ -212,6 +215,8 @@ def _configure_save_as(p: argparse.ArgumentParser) -> None:
     p.add_argument("--corpus", help="corpus a gravar num .ttwc (textos dentro) ou .ttwcl (textos ao lado)")
     p.add_argument("--no-compress", action="store_true",
                    help="grava o banco sem compressão (abre sem descompactar, arquivo bem maior)")
+    p.add_argument("--no-search-tables", action="store_true",
+                   help="grava sem as tabelas de busca (tokens e índices): arquivo bem menor, mas abrir recria as tabelas")
 
 
 def _cmd_pipeline(args: argparse.Namespace) -> int:

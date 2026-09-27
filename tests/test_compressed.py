@@ -115,3 +115,27 @@ def test_ttwc_novo_recusa_segundo_corpus(tmp_path):
     with pytest.raises(ValueError):
         ttwtools.import_corpus(p, BAWE, "d")
     p.close()
+
+
+def test_salvar_sem_tabelas_de_busca_e_recriar(tmp_path):
+    import pytest
+    pytest.importorskip("spacy")
+    from ttwtools.project import needs_migration
+    p = ttwtools.create_project(tmp_path / "t.ttwa")
+    ttwtools.import_corpus(p, CORPUS, "c")
+    ttwtools.tag_corpus(p, "c", "spacy", preset="rapido")
+    cols = "layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
+    before = p._con.execute(f"SELECT {cols} FROM tokens ORDER BY layer_id, idx").fetchall()
+    p._con.commit()
+    full = save_project_as(p.path, tmp_path / "com.ttwa", compress=False)
+    small = save_project_as(p.path, tmp_path / "sem.ttwa", compress=False, search_tables=False)
+    small_z = save_project_as(p.path, tmp_path / "sem_z.ttwa", search_tables=False)
+    p.close()
+    assert small.stat().st_size < full.stat().st_size and needs_migration(small) and not needs_migration(full)
+    seen = []
+    with ttwtools.open_project(small_z, progress=lambda d, t, m: seen.append(m)) as q:
+        assert "search" in seen and "indexes" in seen and q.has_search_tables and not q.unsaved
+        after = q._con.execute(f"SELECT {cols} FROM tokens ORDER BY layer_id, idx").fetchall()
+        assert [tuple(r) for r in after] == [tuple(r) for r in before]
+        assert q._con.execute("SELECT COUNT(*) FROM layer_blobs").fetchone()[0] == 0
+        assert ttwtools.kwic(q, "c", "the", limit=1)["total"] > 0

@@ -52,6 +52,7 @@ _EXPORTS = {
     "save_project_as": "project",
     "save_corpus_as": "project",
     "compression_of": "project",
+    "register_working_copy": "project",
     "checkpoint": "project",
     "save_analysis_to_project": "project",
     "TTWA_MIME_TYPE": "project",
