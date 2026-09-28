@@ -603,5 +603,15 @@
  "writing.colloc_flag.only_in_text": "only in your text",
  "writing.colloc_flag.typical_reference": "typical reference pairing",
  "writing.collocates_empty": "No collocates with this window.",
- "writing.text_short": "text"
+ "writing.text_short": "text",
+ "writing.lexis_title": "Lexical richness and sentences",
+ "writing.lexis_what": "Descriptive measures of vocabulary and sentence length. MTLD and Guiraud are less sensitive to text size than the type/token ratio (TTR).",
+ "writing.lexis_words": "{types} types in {words} words",
+ "writing.lexis_ttr": "Type/token (TTR)",
+ "writing.lexis_guiraud": "Guiraud",
+ "writing.lexis_mtld": "MTLD",
+ "writing.lexis_sent": "Words per sentence",
+ "writing.lexis_long": "Long words (7+)",
+ "writing.see_in_corpus": "See in corpus",
+ "writing.ddl_note": "DDL tip: click “See in corpus” on a result and look at real concordances in the reference to draw your own conclusions."
 }

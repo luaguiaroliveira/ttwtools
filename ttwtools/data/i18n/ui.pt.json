@@ -603,5 +603,15 @@
  "writing.colloc_flag.only_in_text": "só no seu texto",
  "writing.colloc_flag.typical_reference": "combinação típica da referência",
  "writing.collocates_empty": "Não há colocados suficientes com esta janela.",
- "writing.text_short": "texto"
+ "writing.text_short": "texto",
+ "writing.lexis_title": "Riqueza lexical e frases",
+ "writing.lexis_what": "Medidas descritivas do vocabulário e do tamanho das frases. MTLD e Guiraud são menos sensíveis ao tamanho do texto que a razão tipos/tokens (TTR).",
+ "writing.lexis_words": "{types} tipos em {words} palavras",
+ "writing.lexis_ttr": "Tipos/tokens (TTR)",
+ "writing.lexis_guiraud": "Guiraud",
+ "writing.lexis_mtld": "MTLD",
+ "writing.lexis_sent": "Palavras por frase",
+ "writing.lexis_long": "Palavras longas (7+)",
+ "writing.see_in_corpus": "Ver no corpus",
+ "writing.ddl_note": "Dica DDL: clique em “Ver no corpus” num resultado e observe as concordâncias reais na referência para tirar suas próprias conclusões."
 }

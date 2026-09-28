@@ -1765,6 +1765,14 @@ extract_text(blob: 'bytes', filename: 'str') -> 'str'
 
 Texto puro de um upload: txt/md, docx, odt ou pdf (este se `pypdf` estiver instalado).
 
+### `lexical_profile` · **`ttwtools.lexical_profile`**
+
+```python
+lexical_profile(text: 'str', tokenizer: 'TokenizerConfig | None' = None) -> 'dict'
+```
+
+Perfil lexical e de frases de um texto (descritivo).
+
 ### `mfte` · **`ttwtools.mfte`**
 
 ```python
@@ -1772,6 +1780,14 @@ mfte(*args, **kwargs)
 ```
 
 Lazy wrapper — imports ttwtools.taggers.mfte on first call.
+
+### `mtld` · **`ttwtools.mtld`**
+
+```python
+mtld(tokens: 'list[str]', threshold: 'float' = 0.72) -> 'float | None'
+```
+
+MTLD (média das passagens direta e reversa); None se o texto for curto demais.
 
 ### `normalize_biber_features` · **`ttwtools.normalize_biber_features`**
 

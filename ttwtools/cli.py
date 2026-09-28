@@ -690,6 +690,11 @@ def _cmd_writing(args):
         print(f"{r['text_name']} ({r['target_words']} palavras) × {r['reference']} ({r['reference_words']} palavras)"
               f" · unidade {r['unit']} · correção {r['correction']}")
         print("  Texto único: resultado descritivo/exploratório — não é inferência sobre uma população.")
+        lx = r.get("lexis")
+        if lx:
+            mtld_txt = "—" if lx["mtld"] is None else f"{lx['mtld']:.1f}"
+            print(f"  Léxico: {lx['types']} tipos / {lx['words']} palavras · TTR {lx['ttr']:.3f} · "
+                  f"MTLD {mtld_txt} · {lx['mean_sentence_len']:.1f} palavras/frase")
     cols = ["item", "direction", "freq_target", "per_1000_target", "freq_reference", "per_1000_reference",
             "ll", "p_adj", "log_ratio", "pct_diff", "range_reference_pct", "flags"]
     emit(r["rows"], args.format, columns=cols)

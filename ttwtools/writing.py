@@ -183,7 +183,9 @@ def analyze_text(project: TTWAProject, text: str, reference, unit: str = "form",
         pos = [r for r in rows if r["direction"] == "+"][:top]
         neg = [r for r in rows if r["direction"] == "-"][:top]
         rows = pos + neg
+    from .sophistication import lexical_profile
     return {"kind": "writing", "text_name": text_name, "filename": filename,
+            "lexis": lexical_profile(text, tokenizer),
             "target_words": target.words, "reference": ref_id, "reference_words": ref.words,
             "reference_documents": ref.n_docs,
             "reference_card": {k: v for k, v in ref.meta.items() if k != "missing_field"},
