@@ -594,5 +594,14 @@
  "writing.patterns_no_results": "Nenhum molde se destacou com os filtros atuais.",
  "writing.warn.short_patterns": "Texto curto ({words} palavras): o perfil de construções é apenas indicativo.",
  "writing.error.patterns_need_corpus": "Construções precisam de um corpus do projeto com camada de classes (a lista .tsv guarda palavras, não padrões).",
- "writing.error.patterns_tagger": "Este corpus foi etiquetado com {tool}; para construções, use um corpus etiquetado com spaCy."
+ "writing.error.patterns_tagger": "Este corpus foi etiquetado com {tool}; para construções, use um corpus etiquetado com spaCy.",
+ "writing.collocates_title": "Colocados de “{node}”",
+ "writing.collocates_what": "Colocados são as palavras que andam junto. Comparar o que o seu texto combina com uma palavra e o que a referência costuma combinar mostra escolhas de escrita.",
+ "writing.col_collocate": "Colocado",
+ "writing.collocates_hint": "Clique numa palavra para ver com o que ela anda junto.",
+ "writing.node_freq": "{n}× no seu texto · {m}× na referência",
+ "writing.colloc_flag.only_in_text": "só no seu texto",
+ "writing.colloc_flag.typical_reference": "combinação típica da referência",
+ "writing.collocates_empty": "Não há colocados suficientes com esta janela.",
+ "writing.text_short": "texto"
 }

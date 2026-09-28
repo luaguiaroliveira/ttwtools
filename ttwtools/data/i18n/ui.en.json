@@ -594,5 +594,14 @@
  "writing.patterns_no_results": "No pattern stood out with the current filters.",
  "writing.warn.short_patterns": "Short text ({words} words): the construction profile is indicative only.",
  "writing.error.patterns_need_corpus": "Constructions need a project corpus with a class layer (the .tsv list stores words, not patterns).",
- "writing.error.patterns_tagger": "This corpus was tagged with {tool}; for constructions, use a corpus tagged with spaCy."
+ "writing.error.patterns_tagger": "This corpus was tagged with {tool}; for constructions, use a corpus tagged with spaCy.",
+ "writing.collocates_title": "Collocates of “{node}”",
+ "writing.collocates_what": "Collocates are the words that go together. Comparing what your text pairs with a word and what the reference usually pairs shows writing choices.",
+ "writing.col_collocate": "Collocate",
+ "writing.collocates_hint": "Click a word to see what goes with it.",
+ "writing.node_freq": "{n}× in your text · {m}× in the reference",
+ "writing.colloc_flag.only_in_text": "only in your text",
+ "writing.colloc_flag.typical_reference": "typical reference pairing",
+ "writing.collocates_empty": "No collocates with this window.",
+ "writing.text_short": "text"
 }

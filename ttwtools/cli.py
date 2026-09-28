@@ -745,6 +745,40 @@ def _configure_patterns(p):
     p.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
 
 
+def _cmd_collocates_text(args):
+    from .collocations import collocate_profile
+    from .writing import extract_text
+    name = "entrada.txt" if args.text == "-" else args.text
+    blob = sys.stdin.buffer.read() if args.text == "-" else Path(args.text).read_bytes()
+    text = extract_text(blob, name)
+    with _open_or_create(args.project, create=False) as proj:
+        r = collocate_profile(proj, text, args.node, args.reference, window=(args.left, args.right),
+                              top=args.top, min_freq=args.min_freq, layer=args.layer, lang=args.lang, text_name=name)
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    if args.format == "table":
+        print(f"Colocados de '{r['node']}': texto ({r['node_freq_text']}×) × {r['reference']} "
+              f"({r['node_freq_reference']}×) · janela {r['window']}")
+    cols = ["collocate", "freq_text", "per_1000_text", "freq_reference", "per_1000_reference",
+            "log_ratio", "ll", "position"]
+    emit(r["rows"], args.format, columns=cols)
+    return EXIT_OK
+
+
+def _configure_collocates_text(p):
+    p.add_argument("project")
+    p.add_argument("--text", required=True, help="arquivo txt/md/docx/odt/pdf, ou - para a entrada padrão")
+    p.add_argument("--reference", required=True, help="corpus do projeto")
+    p.add_argument("--node", required=True, help="palavra consultada")
+    p.add_argument("--left", type=int, default=5)
+    p.add_argument("--right", type=int, default=5)
+    p.add_argument("--min-freq", type=int, default=2)
+    p.add_argument("--top", type=int, default=30)
+    p.add_argument("--layer")
+    p.add_argument("--lang", choices=["pt", "en"])
+
+
 def _configure_reference_list(p):
     p.add_argument("project")
     p.add_argument("--corpus", required=True)
@@ -954,6 +988,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_writing, _cmd_writing),
     "patterns":  ("Perfil de construções do texto (n-gramas de classes/etiquetas) contra a referência",
                   _configure_patterns, _cmd_patterns),
+    "collocates-text": ("Colocados de uma palavra no texto do aluno, comparados com a referência",
+                        _configure_collocates_text, _cmd_collocates_text),
     "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, references, models, download-model",
                   _configure_catalog, _cmd_catalog),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),

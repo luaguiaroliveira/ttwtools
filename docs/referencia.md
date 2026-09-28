@@ -1691,6 +1691,14 @@ clear_steps(project: 'TTWAProject', corpus_name: 'str') -> 'None'
 
 Esvazia a lista "a executar" do corpus.
 
+### `collocate_profile` · **`ttwtools.collocate_profile`**
+
+```python
+collocate_profile(project: 'TTWAProject', text: 'str', node: 'str', reference, unit: 'str' = 'form', window: 'tuple[int, int]' = (5, 5), top: 'int' = 30, min_freq: 'int' = 2, layer: 'str | None' = None, lang: 'str | None' = None, text_name: 'str' = 'Meu texto') -> 'dict'
+```
+
+Compara os colocados de `node` no texto do aluno e na referência.
+
 ### `corpus_patterns` · **`ttwtools.corpus_patterns`**
 
 ```python
@@ -1877,6 +1885,14 @@ tag_text(text: 'str', model: 'str | None' = None, lang: 'str | None' = None) -> 
 ```
 
 Tokens do texto com UPOS e XPOS (spaCy). Devolve [{word, upos, xpos}].
+
+### `text_collocates` · **`ttwtools.text_collocates`**
+
+```python
+text_collocates(text: 'str', node: 'str', window: 'tuple[int, int]' = (5, 5), tokenizer: 'TokenizerConfig | None' = None) -> 'dict'
+```
+
+Colocados de `node` no texto: contagens e nº de palavras.
 
 ### `text_freqs` · **`ttwtools.text_freqs`**
 
