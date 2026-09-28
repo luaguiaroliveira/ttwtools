@@ -676,6 +676,39 @@ def _configure_keywords(p):
     p.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
 
 
+def _cmd_writing(args):
+    from .writing import analyze_file
+    name = "entrada.txt" if args.text == "-" else args.text
+    blob = sys.stdin.buffer.read() if args.text == "-" else Path(args.text).read_bytes()
+    with _open_or_create(args.project, create=False) as proj:
+        r = analyze_file(proj, blob, name, args.reference, unit=args.unit, n=args.n, measure=args.measure,
+                         min_freq=args.min_freq, correction=args.correction, top=args.top, lang=args.lang)
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    if args.format == "table":
+        print(f"{r['text_name']} ({r['target_words']} palavras) × {r['reference']} ({r['reference_words']} palavras)"
+              f" · unidade {r['unit']} · correção {r['correction']}")
+        print("  Texto único: resultado descritivo/exploratório — não é inferência sobre uma população.")
+    cols = ["item", "direction", "freq_target", "per_1000_target", "freq_reference", "per_1000_reference",
+            "ll", "p_adj", "log_ratio", "pct_diff", "range_reference_pct", "flags"]
+    emit(r["rows"], args.format, columns=cols)
+    return EXIT_OK
+
+
+def _configure_writing(p):
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl (para referência de corpus/catálogo)")
+    p.add_argument("--text", required=True, help="arquivo txt/md/docx/odt/pdf, ou - para a entrada padrão")
+    p.add_argument("--reference", required=True, help="lista .tsv, catalog:<id> ou nome de um corpus do projeto")
+    p.add_argument("--unit", choices=["form", "ngram"], default="form")
+    p.add_argument("-n", type=int, default=2, help="tamanho do n-grama")
+    p.add_argument("--measure", choices=["ll", "log_ratio", "pct_diff", "log_odds"], default="log_ratio")
+    p.add_argument("--min-freq", type=int, default=2)
+    p.add_argument("--correction", choices=["bonferroni", "fdr", "none"], default="fdr")
+    p.add_argument("--top", type=int, default=50)
+    p.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
+
+
 def _configure_reference_list(p):
     p.add_argument("project")
     p.add_argument("--corpus", required=True)
@@ -881,6 +914,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_bands, _cmd_bands),
     "reference-list": ("Gera a lista de frequência de referência (.tsv com ficha) de um corpus",
                        _configure_reference_list, _cmd_reference_list),
+    "writing":   ("Compara um texto individual (n=1) com um corpus de referência; descritivo, com dispersão e FDR",
+                  _configure_writing, _cmd_writing),
     "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, references, models, download-model",
                   _configure_catalog, _cmd_catalog),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),

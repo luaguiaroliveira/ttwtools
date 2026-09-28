@@ -247,6 +247,43 @@ def comparability(target: FreqTable, reference: FreqTable, unit: str, lang: str 
 
 
 # ---------------------------------------------------------------------------
+# Medidas por item (compartilhado com a Escrita)
+# ---------------------------------------------------------------------------
+
+def keyword_rows(target: FreqTable, ref: FreqTable, unit: str = "form", measure: str = "ll",
+                 min_freq: int = 5, min_range: int = 1, correction: str = "bonferroni",
+                 alpha: float = 0.05, both_directions: bool = True) -> list[dict]:
+    """Linhas de palavras-chave de `target` contra `ref`, já com p corrigido e ordenadas."""
+    if measure not in MEASURES:
+        raise ValueError(f"medida deve ser uma de {MEASURES}")
+    c, d = target.words, ref.words
+    if not c or not d:
+        return []
+    rows = []
+    for item in set(target.counts) | (set(ref.counts) if both_directions else set()):
+        a, b = target.counts.get(item, 0), ref.counts.get(item, 0)
+        rng = target.docs.get(item, 0) if target.docs is not None else 0
+        over = a / c >= b / d
+        if over and (a < min_freq or rng < min_range):
+            continue
+        if not over and (not both_directions or b < min_freq):
+            continue
+        ll = log_likelihood(a, b, c, d)
+        lo, z = log_odds(a, b, c, d)
+        rows.append({"item": item, "direction": "+" if over else "-", "freq_target": a, "freq_reference": b,
+                     "per_1000_target": 1000 * a / c, "per_1000_reference": 1000 * b / d,
+                     "range_target": rng, "range_reference": ref.docs.get(item, 0) if ref.docs is not None else None,
+                     "ll": ll, "p": chi2_p(ll), "log_ratio": log_ratio(a, b, c, d),
+                     "pct_diff": pct_diff(a, b, c, d) if b else None, "log_odds": lo, "z": z})
+    for r, padj in zip(rows, _adjust([r["p"] for r in rows], correction)):
+        r["p_adj"] = padj
+        r["significant"] = padj < alpha
+    key = {"ll": "ll", "log_ratio": "log_ratio", "pct_diff": "pct_diff", "log_odds": "log_odds"}[measure]
+    rows.sort(key=lambda r: (r["direction"] != "+", -(abs(r[key]) if r[key] is not None else math.inf)))
+    return rows
+
+
+# ---------------------------------------------------------------------------
 # keywords
 # ---------------------------------------------------------------------------
 
@@ -301,27 +338,7 @@ def keywords(
         return {"target": corpus_name, "reference": ref_id, "rows": [], "warnings": warnings,
                 "target_words": c, "reference_words": d}
 
-    rows = []
-    for item in set(target.counts) | (set(ref.counts) if both_directions else set()):
-        a, b = target.counts.get(item, 0), ref.counts.get(item, 0)
-        rng = target.docs.get(item, 0)
-        over = a / c >= b / d
-        if over and (a < min_freq or rng < min_range):
-            continue
-        if not over and (not both_directions or b < min_freq):
-            continue
-        ll = log_likelihood(a, b, c, d)
-        lo, z = log_odds(a, b, c, d)
-        rows.append({"item": item, "direction": "+" if over else "-", "freq_target": a, "freq_reference": b,
-                     "per_1000_target": 1000 * a / c, "per_1000_reference": 1000 * b / d,
-                     "range_target": rng, "range_reference": ref.docs.get(item, 0) if ref.docs is not None else None,
-                     "ll": ll, "p": chi2_p(ll), "log_ratio": log_ratio(a, b, c, d),
-                     "pct_diff": pct_diff(a, b, c, d) if b else None, "log_odds": lo, "z": z})
-    for r, padj in zip(rows, _adjust([r["p"] for r in rows], correction)):
-        r["p_adj"] = padj
-        r["significant"] = padj < alpha
-    key = {"ll": "ll", "log_ratio": "log_ratio", "pct_diff": "pct_diff", "log_odds": "log_odds"}[measure]
-    rows.sort(key=lambda r: (r["direction"] != "+", -(abs(r[key]) if r[key] is not None else math.inf)))
+    rows = keyword_rows(target, ref, unit, measure, min_freq, min_range, correction, alpha, both_directions)
     if top:
         pos = [r for r in rows if r["direction"] == "+"][:top]
         neg = [r for r in rows if r["direction"] == "-"][:top]

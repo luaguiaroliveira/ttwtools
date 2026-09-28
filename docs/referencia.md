@@ -976,6 +976,14 @@ as 1.000, 2.000... palavras mais frequentes da referência, e quanto fica fora d
 Devolve {"rows": [{band, from, to, tokens, types, pct_tokens, pct_types, examples}],
 "tokens", "types", "reference", "reference_words", "unit"}.
 
+### `keyword_rows`
+
+```python
+keyword_rows(target: 'FreqTable', ref: 'FreqTable', unit: 'str' = 'form', measure: 'str' = 'll', min_freq: 'int' = 5, min_range: 'int' = 1, correction: 'str' = 'bonferroni', alpha: 'float' = 0.05, both_directions: 'bool' = True) -> 'list[dict]'
+```
+
+Linhas de palavras-chave de `target` contra `ref`, já com p corrigido e ordenadas.
+
 ### `keywords` · **`ttwtools.keywords`**
 
 ```python
@@ -1642,6 +1650,23 @@ add_step(project: 'TTWAProject', corpus_name: 'str', step: 'Mapping[str, Any]') 
 
 Acrescenta um passo à lista (validado; passo idêntico não entra duas vezes). Devolve a lista.
 
+### `analyze_file` · **`ttwtools.analyze_file`**
+
+```python
+analyze_file(project: 'TTWAProject', blob: 'bytes', filename: 'str', reference, **kwargs) -> 'dict'
+```
+
+Lê o arquivo e chama `analyze_text` (atalho usado pela rota e pela CLI).
+
+### `analyze_text` · **`ttwtools.analyze_text`**
+
+```python
+analyze_text(project: 'TTWAProject', text: 'str', reference, unit: 'str' = 'form', n: 'int' = 2, measure: 'str' = 'log_ratio', min_freq: 'int' = 2, min_range: 'int' = 1, correction: 'str' = 'fdr', alpha: 'float' = 0.05, top: 'int | None' = 100, both_directions: 'bool' = True, lang: 'str | None' = None, text_name: 'str' = 'Meu texto', filename: 'str | None' = None) -> 'dict'
+```
+
+Palavras-chave de um texto único contra `reference` (corpus do projeto, lista .tsv
+ou `catalog:<id>`), com dispersão na referência e badges de confiabilidade.
+
 ### `biberplus` · **`ttwtools.biberplus`**
 
 ```python
@@ -1705,6 +1730,14 @@ extract_stanza_pos_features_from_folder(*args, **kwargs)
 ```
 
 Lazy wrapper — imports ttwtools.taggers.stanza_pos on first call.
+
+### `extract_text` · **`ttwtools.extract_text`**
+
+```python
+extract_text(blob: 'bytes', filename: 'str') -> 'str'
+```
+
+Texto puro de um upload: txt/md, docx, odt ou pdf (este se `pypdf` estiver instalado).
 
 ### `mfte` · **`ttwtools.mfte`**
 
@@ -1818,3 +1851,11 @@ stanza_xpos(*args, **kwargs)
 ```
 
 Lazy wrapper — imports ttwtools.taggers.stanza_pos on first call.
+
+### `text_freqs` · **`ttwtools.text_freqs`**
+
+```python
+text_freqs(text: 'str', unit: 'str' = 'form', n: 'int' = 2, tokenizer: 'TokenizerConfig | None' = None, name: 'str' = 'Meu texto') -> 'FreqTable'
+```
+
+FreqTable do texto (docs = 1 em cada item, pois é um único texto).
