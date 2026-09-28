@@ -950,11 +950,12 @@ Avisos estruturados: {"code", "severity", "message", "params"}.
 ### `corpus_freqs`
 
 ```python
-corpus_freqs(project: 'TTWAProject', corpus_name: 'str', unit: 'str' = 'form', n: 'int' = 2, layer: 'str | None' = None, where: 'Mapping | None' = None, exclude: 'Mapping | None' = None) -> 'FreqTable'
+corpus_freqs(project: 'TTWAProject', corpus_name: 'str', unit: 'str' = 'form', n: 'int' = 2, layer: 'str | None' = None, where: 'Mapping | None' = None, exclude: 'Mapping | None' = None, keep: 'set | None' = None) -> 'FreqTable'
 ```
 
 Frequências de um corpus do projeto (com filtro `where`, ou excluindo os
-documentos que batem com `exclude`).
+documentos que batem com `exclude`). Com `keep`, guarda também, por documento, a
+contagem desses itens e o tamanho do documento (para z-scores descritivos).
 
 ### `FreqTable`
 
@@ -1699,6 +1700,14 @@ collocate_profile(project: 'TTWAProject', text: 'str', node: 'str', reference, u
 
 Compara os colocados de `node` no texto do aluno e na referência.
 
+### `corpus_examples` · **`ttwtools.corpus_examples`**
+
+```python
+corpus_examples(project: 'TTWAProject', corpus_name: 'str', item: 'str', kind: 'str' = 'word', field: 'str' = 'upos', n: 'int' = 3, limit: 'int' = 5, width: 'int' = 8, layer: 'str | None' = None) -> 'list[dict]'
+```
+
+Exemplos da referência (tokens direto das camadas, sem reetiquetar).
+
 ### `corpus_patterns` · **`ttwtools.corpus_patterns`**
 
 ```python
@@ -1910,6 +1919,14 @@ text_collocates(text: 'str', node: 'str', window: 'tuple[int, int]' = (5, 5), to
 
 Colocados de `node` no texto: contagens e nº de palavras.
 
+### `text_examples` · **`ttwtools.text_examples`**
+
+```python
+text_examples(text: 'str', item: 'str', kind: 'str' = 'word', field: 'str' = 'upos', n: 'int' = 3, limit: 'int' = 5, width: 'int' = 8, lang: 'str | None' = None) -> 'list[dict]'
+```
+
+Exemplos do texto do aluno (tokens com classe e acerto marcado).
+
 ### `text_freqs` · **`ttwtools.text_freqs`**
 
 ```python
@@ -1925,3 +1942,11 @@ text_patterns(text: 'str', field: 'str' = 'upos', n: 'int' = 3, model: 'str | No
 ```
 
 FreqTable dos padrões do texto do aluno.
+
+### `writing_examples` · **`ttwtools.writing_examples`**
+
+```python
+writing_examples(project: 'TTWAProject', text: 'str', item: 'str', reference, kind: 'str' = 'word', field: 'str' = 'upos', n: 'int' = 3, limit: 'int' = 5, width: 'int' = 8, lang: 'str | None' = None, text_name: 'str' = 'Meu texto') -> 'dict'
+```
+
+Exemplos do item no texto e, quando a referência é um corpus, também nele.

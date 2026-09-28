@@ -40,7 +40,8 @@ def tag_text(text: str, model: str | None = None, lang: str | None = None) -> li
     model = model or _DEFAULT_MODEL.get((lang or "en")[:2], _DEFAULT_MODEL["en"])
     nlp = _load_spacy_pipeline(model)
     toks = _tag_document_spacy_pos(text, nlp, mode="upos")
-    return [{"word": tk.get("word", ""), "upos": tk.get("upos", ""), "xpos": tk.get("ptb", "")} for tk in toks]
+    return [{"word": tk.get("word", ""), "upos": tk.get("upos", ""), "xpos": tk.get("ptb", ""),
+             "start": tk.get("start_char"), "end": tk.get("end_char")} for tk in toks]
 
 
 def _is_word_row(r: Mapping) -> bool:

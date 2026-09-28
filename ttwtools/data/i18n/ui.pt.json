@@ -613,5 +613,13 @@
  "writing.lexis_sent": "Palavras por frase",
  "writing.lexis_long": "Palavras longas (7+)",
  "writing.see_in_corpus": "Ver no corpus",
- "writing.ddl_note": "Dica DDL: clique em “Ver no corpus” num resultado e observe as concordâncias reais na referência para tirar suas próprias conclusões."
+ "writing.ddl_note": "Dica DDL: clique em “Ver no corpus” num resultado e observe as concordâncias reais na referência para tirar suas próprias conclusões.",
+ "writing.examples_title": "Exemplos de “{item}”",
+ "writing.examples_text": "No seu texto",
+ "writing.examples_corpus": "Na referência",
+ "writing.examples_none": "Sem exemplos com esta configuração.",
+ "writing.examples_hint": "Clique num resultado para ver exemplos no texto e no corpus, com as classes coloridas.",
+ "writing.chart_title": "O que mais se distancia (log ratio)",
+ "writing.chart_hint": "Positivo: mais no seu texto; negativo: menos. É a distância ao padrão da referência (z). Clique num item para ver exemplos.",
+ "writing.reference_not_corpus": "Só há exemplos do seu texto (a referência não é um corpus do projeto)."
 }

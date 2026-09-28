@@ -66,9 +66,11 @@ def _lang_of(tool: str, model: str, config: dict) -> str | None:
 
 
 def corpus_freqs(project: TTWAProject, corpus_name: str, unit: str = "form", n: int = 2,
-                 layer: str | None = None, where: Mapping | None = None, exclude: Mapping | None = None) -> FreqTable:
+                 layer: str | None = None, where: Mapping | None = None, exclude: Mapping | None = None,
+                 keep: set | None = None) -> FreqTable:
     """Frequências de um corpus do projeto (com filtro `where`, ou excluindo os
-    documentos que batem com `exclude`)."""
+    documentos que batem com `exclude`). Com `keep`, guarda também, por documento, a
+    contagem desses itens e o tamanho do documento (para z-scores descritivos)."""
     if unit not in UNITS:
         raise ValueError(f"unidade deve ser uma de {UNITS}")
     sel = _select_layers(project, corpus_name, layer, None if exclude else where, _needs(unit=unit))
@@ -77,12 +79,17 @@ def corpus_freqs(project: TTWAProject, corpus_name: str, unit: str = "form", n: 
         drop = {d["id"] for d in filter_documents(project, corpus_name, exclude)}
         sel = {lid: d for lid, d in sel.items() if d["id"] not in drop}
     counts, docs = Counter(), Counter()
+    doc_words: dict = {}
+    doc_counts: dict = {}
     words = 0
     tools = Counter()
     missing_field = 0
     for doc, rows in _layer_tokens(project, sel):
         toks = [r for r in rows if _is_word(r)] if unit != "pos" else [r for r in rows if r["upos"] or r["xpos"]]
-        words += sum(1 for r in rows if _is_word(r))
+        w = sum(1 for r in rows if _is_word(r))
+        words += w
+        if keep is not None:
+            doc_words[doc["id"]] = w
         if unit == "ngram":
             forms = [(r["word"] or "").lower() for r in toks]
             items = [" ".join(forms[i:i + n]) for i in range(len(forms) - n + 1)]
@@ -96,6 +103,8 @@ def corpus_freqs(project: TTWAProject, corpus_name: str, unit: str = "form", n: 
         c = Counter(items)
         counts.update(c)
         docs.update(c.keys())
+        if keep is not None:
+            doc_counts[doc["id"]] = Counter({k: v for k, v in c.items() if k in keep})
     layer_rows = project._con.execute(
         f"SELECT tool, tool_version, model, config FROM layers WHERE id IN ({','.join('?' * len(sel))})",
         list(sel)).fetchall() if sel else []
@@ -105,7 +114,7 @@ def corpus_freqs(project: TTWAProject, corpus_name: str, unit: str = "form", n: 
     return FreqTable(counts, docs, words, len(sel),
                      {"name": corpus_name, "lang": lang, "tool": tool, "tool_version": version, "model": model,
                       "unit": unit, "missing_field": missing_field},
-                     frozenset(d["id"] for d in sel.values()))
+                     frozenset(d["id"] for d in sel.values()), doc_words or None, doc_counts or None)
 
 
 def _catalog_reference(reference, unit: str):

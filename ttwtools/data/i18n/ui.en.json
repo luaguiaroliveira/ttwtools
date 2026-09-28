@@ -613,5 +613,13 @@
  "writing.lexis_sent": "Words per sentence",
  "writing.lexis_long": "Long words (7+)",
  "writing.see_in_corpus": "See in corpus",
- "writing.ddl_note": "DDL tip: click “See in corpus” on a result and look at real concordances in the reference to draw your own conclusions."
+ "writing.ddl_note": "DDL tip: click “See in corpus” on a result and look at real concordances in the reference to draw your own conclusions.",
+ "writing.examples_title": "Examples of “{item}”",
+ "writing.examples_text": "In your text",
+ "writing.examples_corpus": "In the reference",
+ "writing.examples_none": "No examples with this setting.",
+ "writing.examples_hint": "Click a result to see examples in the text and the corpus, with classes coloured.",
+ "writing.chart_title": "What stands out most (log ratio)",
+ "writing.chart_hint": "Positive: more in your text; negative: less. Distance from the reference pattern (z). Click an item to see examples.",
+ "writing.reference_not_corpus": "Only examples from your text (the reference is not a project corpus)."
 }

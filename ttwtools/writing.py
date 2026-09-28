@@ -126,6 +126,24 @@ def text_freqs(text: str, unit: str = "form", n: int = 2, tokenizer: TokenizerCo
 # Análise
 # ---------------------------------------------------------------------------
 
+def _z_from_docs(doc_counts, doc_words) -> dict:
+    """{item: (média, desvio) da taxa por 1000 palavras nos documentos da referência}."""
+    if not doc_counts or not doc_words:
+        return {}
+    import numpy as np
+    words = {d: w for d, w in doc_words.items() if w > 0}
+    if len(words) < 2:
+        return {}
+    items: set = set()
+    for c in doc_counts.values():
+        items |= set(c)
+    out = {}
+    for item in items:
+        rates = [1000 * doc_counts.get(d, {}).get(item, 0) / w for d, w in words.items()]
+        out[item] = (float(np.mean(rates)), float(np.std(rates)))
+    return out
+
+
 def _reliability_flags(row: Mapping, ref: FreqTable) -> list[str]:
     flags = []
     if row["freq_target"] < 3:
@@ -147,6 +165,7 @@ def analyze_text(project: TTWAProject, text: str, reference, unit: str = "form",
     """Palavras-chave de um texto único contra `reference` (corpus do projeto, lista .tsv
     ou `catalog:<id>`), com dispersão na referência e badges de confiabilidade."""
     reference = _catalog_reference(reference, unit)
+    ref_corpus = None
     if isinstance(reference, FreqTable):
         ref, ref_id = reference, reference.meta.get("name", "tabela")
         tokenizer = None
@@ -157,7 +176,8 @@ def analyze_text(project: TTWAProject, text: str, reference, unit: str = "form",
     elif str(reference).startswith("rest:"):
         raise ValueError("a Escrita não usa 'rest:' (o alvo já é um texto só)")
     else:
-        ref = corpus_freqs(project, str(reference), unit, n)
+        ref_corpus = str(reference)
+        ref = corpus_freqs(project, ref_corpus, unit, n)
         ref_id = str(reference)
         tokenizer = get_tokenizer_config(project, str(reference))
 
@@ -176,8 +196,16 @@ def analyze_text(project: TTWAProject, text: str, reference, unit: str = "form",
                          "message": t("writing.warn.no_reference_docs", lang), "params": {}})
 
     rows = keyword_rows(target, ref, unit, measure, min_freq, min_range, correction, alpha, both_directions)
+    # z-score descritivo: taxa do item no texto vs distribuição dos documentos da referência
+    zs = {}
+    if ref_corpus and rows:
+        ref2 = corpus_freqs(project, ref_corpus, unit, n, keep={r["item"] for r in rows})
+        zs = _z_from_docs(ref2.doc_counts, ref2.doc_words)
     for r in rows:
         r["range_reference_pct"] = (100 * ref.docs.get(r["item"], 0) / ref.n_docs) if (ref.docs is not None and ref.n_docs) else None
+        z = zs.get(r["item"])
+        r["z_reference"] = ((r["per_1000_target"] - z[0]) / z[1]) if z and z[1] else None
+        r["per_1000_reference_doc_mean"] = z[0] if z else None
         r["flags"] = _reliability_flags(r, ref)
     if top:
         pos = [r for r in rows if r["direction"] == "+"][:top]
