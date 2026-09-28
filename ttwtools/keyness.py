@@ -45,6 +45,8 @@ class FreqTable:
     n_docs: int
     meta: dict = field(default_factory=dict)   # lang, tool, tool_version, model, name...
     doc_ids: frozenset = frozenset()
+    doc_words: dict | None = None              # {doc_id: palavras} (para z-scores por documento)
+    doc_counts: dict | None = None             # {doc_id: Counter(item)} só dos itens pedidos
 
 
 # ---------------------------------------------------------------------------

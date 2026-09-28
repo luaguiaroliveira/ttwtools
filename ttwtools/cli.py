@@ -709,6 +709,42 @@ def _configure_writing(p):
     p.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
 
 
+def _cmd_patterns(args):
+    from .constructions import analyze_patterns
+    from .writing import extract_text
+    name = "entrada.txt" if args.text == "-" else args.text
+    blob = sys.stdin.buffer.read() if args.text == "-" else Path(args.text).read_bytes()
+    text = extract_text(blob, name)
+    with _open_or_create(args.project, create=False) as proj:
+        r = analyze_patterns(proj, text, args.reference, field=args.field, n=args.n, measure=args.measure,
+                             min_freq=args.min_freq, correction=args.correction, top=args.top, lang=args.lang,
+                             text_name=name)
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    if args.format == "table":
+        print(f"{r['text_name']} ({r['target_words']} palavras) × {r['reference']} · construções de "
+              f"{r['field']} (n={r['n']}) · correção {r['correction']}")
+        print("  Sequências de classes gramaticais (moldes), não palavras: 'DT JJ NN', 'VBN by'...")
+    cols = ["item", "direction", "freq_target", "per_1000_target", "freq_reference", "per_1000_reference",
+            "ll", "p_adj", "log_ratio", "range_reference_pct", "z_reference", "flags"]
+    emit(r["rows"], args.format, columns=cols)
+    return EXIT_OK
+
+
+def _configure_patterns(p):
+    p.add_argument("project", help="arquivo .ttwa ou .ttwl")
+    p.add_argument("--text", required=True, help="arquivo txt/md/docx/odt/pdf, ou - para a entrada padrão")
+    p.add_argument("--reference", required=True, help="corpus do projeto com camada POS (spaCy/Stanza)")
+    p.add_argument("--field", choices=["upos", "xpos"], default="upos", help="classe universal (upos) ou detalhada (xpos)")
+    p.add_argument("-n", type=int, default=3, help="tamanho do n-grama de classes")
+    p.add_argument("--measure", choices=["ll", "log_ratio", "pct_diff", "log_odds"], default="log_ratio")
+    p.add_argument("--min-freq", type=int, default=2)
+    p.add_argument("--correction", choices=["bonferroni", "fdr", "none"], default="fdr")
+    p.add_argument("--top", type=int, default=60)
+    p.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
+
+
 def _configure_reference_list(p):
     p.add_argument("project")
     p.add_argument("--corpus", required=True)
@@ -916,6 +952,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                        _configure_reference_list, _cmd_reference_list),
     "writing":   ("Compara um texto individual (n=1) com um corpus de referência; descritivo, com dispersão e FDR",
                   _configure_writing, _cmd_writing),
+    "patterns":  ("Perfil de construções do texto (n-gramas de classes/etiquetas) contra a referência",
+                  _configure_patterns, _cmd_patterns),
     "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, references, models, download-model",
                   _configure_catalog, _cmd_catalog),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),

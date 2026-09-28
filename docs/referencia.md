@@ -959,7 +959,7 @@ documentos que batem com `exclude`).
 ### `FreqTable`
 
 ```python
-classe FreqTable(counts: 'Counter', docs: 'Counter | None', words: 'int', n_docs: 'int', meta: 'dict' = <factory>, doc_ids: 'frozenset' = frozenset()) -> None
+classe FreqTable(counts: 'Counter', docs: 'Counter | None', words: 'int', n_docs: 'int', meta: 'dict' = <factory>, doc_ids: 'frozenset' = frozenset(), doc_words: 'dict | None' = None, doc_counts: 'dict | None' = None) -> None
 ```
 
 Frequências agregadas de um lado da comparação.
@@ -1658,6 +1658,14 @@ analyze_file(project: 'TTWAProject', blob: 'bytes', filename: 'str', reference, 
 
 Lê o arquivo e chama `analyze_text` (atalho usado pela rota e pela CLI).
 
+### `analyze_patterns` · **`ttwtools.analyze_patterns`**
+
+```python
+analyze_patterns(project: 'TTWAProject', text: 'str', reference, field: 'str' = 'upos', n: 'int' = 3, measure: 'str' = 'log_ratio', min_freq: 'int' = 2, correction: 'str' = 'fdr', alpha: 'float' = 0.05, top: 'int | None' = 60, lang: 'str | None' = None, text_name: 'str' = 'Meu texto', filename: 'str | None' = None, z_scores: 'bool' = True, layer: 'str | None' = None) -> 'dict'
+```
+
+Perfil de construções (n-gramas de UPOS/XPOS) do texto contra um corpus de referência.
+
 ### `analyze_text` · **`ttwtools.analyze_text`**
 
 ```python
@@ -1682,6 +1690,16 @@ clear_steps(project: 'TTWAProject', corpus_name: 'str') -> 'None'
 ```
 
 Esvazia a lista "a executar" do corpus.
+
+### `corpus_patterns` · **`ttwtools.corpus_patterns`**
+
+```python
+corpus_patterns(project: 'TTWAProject', corpus_name: 'str', field: 'str' = 'upos', n: 'int' = 3, layer: 'str | None' = None, where: 'Mapping | None' = None, keep: 'set[str] | None' = None) -> 'FreqTable'
+```
+
+FreqTable dos n-gramas de etiquetas de um corpus. Com `keep`, também guarda, por
+documento, a contagem desses padrões (`doc_counts`) e o tamanho de cada documento
+(`doc_words`) — é o que permite o z-score descritivo.
 
 ### `extract_biber_features_from_folder` · **`ttwtools.extract_biber_features_from_folder`**
 
@@ -1852,6 +1870,14 @@ stanza_xpos(*args, **kwargs)
 
 Lazy wrapper — imports ttwtools.taggers.stanza_pos on first call.
 
+### `tag_text` · **`ttwtools.tag_text`**
+
+```python
+tag_text(text: 'str', model: 'str | None' = None, lang: 'str | None' = None) -> 'list[dict]'
+```
+
+Tokens do texto com UPOS e XPOS (spaCy). Devolve [{word, upos, xpos}].
+
 ### `text_freqs` · **`ttwtools.text_freqs`**
 
 ```python
@@ -1859,3 +1885,11 @@ text_freqs(text: 'str', unit: 'str' = 'form', n: 'int' = 2, tokenizer: 'Tokenize
 ```
 
 FreqTable do texto (docs = 1 em cada item, pois é um único texto).
+
+### `text_patterns` · **`ttwtools.text_patterns`**
+
+```python
+text_patterns(text: 'str', field: 'str' = 'upos', n: 'int' = 3, model: 'str | None' = None, lang: 'str | None' = None, name: 'str' = 'Meu texto') -> 'FreqTable'
+```
+
+FreqTable dos padrões do texto do aluno.
