@@ -172,3 +172,11 @@ def test_run_with_project_and_legacy_folder(tmp_path, proj, spacy_model):
     (folder / "a.txt").write_text("The cats sat.", encoding="utf-8")
     ttwtools.taggers.run("spacy_upos", str(folder), {"model": "en_core_web_sm"}, output_dir=str(tmp_path / "out"))
     assert list((tmp_path / "out").glob("*_rawcount.csv"))
+
+
+def test_mfte_tagset_has_official_docs():
+    tags = {t["tag"]: t for t in catalog.get_tagset("mfte", lang="en")["tags"]}
+    jjat = tags["JJAT"]["doc"]
+    assert jjat["feature"] == "Attributive adjectives" and jjat["operationalisation"] and jjat["unit"] == "Nouns"
+    assert catalog.get_tagset("mfte")["doc_version"] == "1.6"
+    assert sum("doc" in t for t in tags.values()) >= 150
