@@ -456,6 +456,7 @@
  "reader.mark.circle": "Círculo",
  "reader.mark.box": "Retângulo",
  "reader.mark.highlight": "Marca-texto",
+ "reader.mark.off": "Não mostrar",
  "reader.mark.underline": "Sublinhado",
  "reader.mark": "Tipo de marcação",
  "reader.legend": "Legenda (clique para destacar)",

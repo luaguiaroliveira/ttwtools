@@ -456,6 +456,7 @@
  "reader.mark.circle": "Circle",
  "reader.mark.box": "Rectangle",
  "reader.mark.highlight": "Highlight",
+ "reader.mark.off": "Hide",
  "reader.mark.underline": "Underline",
  "reader.mark": "Markup style",
  "reader.legend": "Legend (click to highlight)",
