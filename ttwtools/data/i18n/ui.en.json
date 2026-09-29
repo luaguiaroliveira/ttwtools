@@ -512,6 +512,8 @@
  "tagdoc.by": "Defined by",
  "tagdoc.operationalisation": "Operationalisation",
  "tagdoc.original": "original text",
+ "chart.row_height": "Row height",
+ "explore.open_reader": "Open in reader",
  "reader.mark": "Markup style",
  "reader.legend": "Legend (click to highlight)",
  "reader.next": "Next highlighted",
