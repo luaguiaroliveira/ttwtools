@@ -99,6 +99,8 @@
  "corpora.title": "Project",
  "corpora.words_est": "words (est.)",
  "density.label": "Compact density",
+ "nav.expand": "Show names in menu",
+ "nav.collapse": "Collapse menu",
  "explain.button": "Explain this screen",
  "explain.close": "Close explanations",
  "explain.compare.tabs": "Compare the active corpus with a reference (keywords) or with another corpus/group (KFA).",
