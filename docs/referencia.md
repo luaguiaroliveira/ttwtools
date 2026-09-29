@@ -845,6 +845,16 @@ search(project: 'TTWAProject', corpus_name: 'str', query: 'str', layer: 'str | N
 Quantas vezes a consulta aparece: total, por documento e (com `group_by`,
 nome de metadado) por grupo.
 
+### `tag_counts` · **`ttwtools.tag_counts`**
+
+```python
+tag_counts(project: 'TTWAProject', corpus_name: 'str', layer: 'str | None' = None, field: 'str' = 'tags') -> 'dict'
+```
+
+Quantas vezes cada etiqueta ocorre no corpus todo (leitor: ordenar por ocorrências no corpus).
+`field`: "upos", "xpos" ou "tags" (primeira tag do token, como no leitor). Usa a camada mais
+recente de `layer` (ou de qualquer ferramenta) em cada documento.
+
 <a id="stats"></a>
 ## Estatísticas do corpus
 

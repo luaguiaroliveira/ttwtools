@@ -603,6 +603,23 @@ def _configure_dispersion(p):
     _query_common(p)
 
 
+def _cmd_tag_counts(args):
+    from .query import tag_counts
+    with _open_or_create(args.project, create=False) as proj:
+        r = tag_counts(proj, args.corpus, args.layer, args.field)
+    rows = [{"tag": k, "freq": v} for k, v in sorted(r["counts"].items(), key=lambda kv: (-kv[1], kv[0]))]
+    if args.format == "json":
+        emit(r, "json")
+    else:
+        emit(rows, args.format, columns=["tag", "freq"])
+    return EXIT_OK
+
+
+def _configure_tag_counts(p):
+    _query_common(p, needs_query=False)
+    p.add_argument("--field", choices=["upos", "xpos", "tags"], default="tags", help="o que contar (padrão: primeira tag do token)")
+
+
 def _cmd_keywords(args):
     from .corpus import parse_where
     from .keyness import keywords
@@ -996,6 +1013,7 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
     "freq":      ("Lista de frequência (forma, lema, palavra+classe, classe, n-grama)", _configure_freq, _cmd_freq),
     "collocates": ("Colocados com log-likelihood, MI, T-score e frequência", _configure_collocates, _cmd_collocates),
     "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
+    "tag-counts": ("Ocorrências de cada etiqueta no corpus todo (upos, xpos ou tags)", _configure_tag_counts, _cmd_tag_counts),
     "compare":   ("KFA (d de Cohen por traço) entre dois corpora ou grupos, a partir das camadas",
                   _configure_compare, _cmd_compare),
     "keywords":  ("Palavras-chave do corpus contra uma referência (LL, log ratio, %%DIFF, log-odds)",

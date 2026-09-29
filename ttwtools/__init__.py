@@ -95,6 +95,7 @@ _EXPORTS = {
     "collocates": "query",
     "dispersion": "query",
     "read_document": "query",
+    "tag_counts": "query",
     "keywords": "keyness",
     "feature_table": "features",
     "kfa_layers": "features",

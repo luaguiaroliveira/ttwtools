@@ -12,7 +12,7 @@ import pytest
 import ttwtools
 from ttwtools import cli
 from ttwtools.corpus import set_document_meta
-from ttwtools.query import collocates, dispersion, explain, frequency, kwic, search
+from ttwtools.query import collocates, dispersion, explain, frequency, kwic, search, tag_counts
 
 TEXTS = {
     "a.txt": "The black cat sat on the mat. The cat slept.",       # 12 tokens, 10 palavras
@@ -125,6 +125,18 @@ def test_dispersion_dp_by_hand(proj):
     assert r["dp"] == pytest.approx(dp) and r["dp_norm"] == pytest.approx(dp / (1 - 6 / 25))
     a = next(d for d in r["per_document"] if d["filename"] == "a.txt")
     assert a["positions"] == [pytest.approx(2 / 12), pytest.approx(9 / 12)]
+
+
+def test_tag_counts_upos_matches_frequency(proj, spacy_model, capsys):
+    ttwtools.tag_corpus(proj, "c", "spacy")
+    pos = {r["item"]: r["freq"] for r in frequency(proj, "c", "pos", layer="spacy", top=None)["rows"]}
+    r = tag_counts(proj, "c", "spacy", "upos")
+    assert r["counts"] == pos and r["documents"] == 3
+    with pytest.raises(ValueError):
+        tag_counts(proj, "c", "spacy", "nada")
+    proj._con.commit()
+    assert cli.main(["tag-counts", str(proj.path), "--corpus", "c", "--layer", "spacy", "--field", "upos", "--json"]) == 0
+    assert json.loads(capsys.readouterr().out)["counts"] == pos
 
 
 def test_cli_other_commands(proj, capsys):

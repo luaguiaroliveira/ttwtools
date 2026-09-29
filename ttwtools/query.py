@@ -433,3 +433,23 @@ def read_document(project: TTWAProject, corpus_name: str, filename: str, layer: 
                   for t in project.get_tokens(row["id"])]
     return {"corpus": corpus_name, "filename": filename, "text": project.get_corpus_file(corpus_name, filename),
             "layer": dict(row) if row else None, "tokens": tokens}
+
+
+def tag_counts(project: TTWAProject, corpus_name: str, layer: str | None = None, field: str = "tags") -> dict:
+    """Quantas vezes cada etiqueta ocorre no corpus todo (leitor: ordenar por ocorrências no corpus).
+    `field`: "upos", "xpos" ou "tags" (primeira tag do token, como no leitor). Usa a camada mais
+    recente de `layer` (ou de qualquer ferramenta) em cada documento."""
+    if field not in ("upos", "xpos", "tags"):
+        raise ValueError("field deve ser upos, xpos ou tags")
+    counts: dict[str, int] = {}
+    docs = project._con.execute("SELECT id FROM documents WHERE corpus_name = ?", (corpus_name,)).fetchall()
+    for doc in docs:
+        sql = "SELECT id FROM layers WHERE doc_id = ?" + (" AND tool = ?" if layer else "")
+        row = project._con.execute(sql + " ORDER BY id DESC LIMIT 1", (doc["id"], layer) if layer else (doc["id"],)).fetchone()
+        if not row:
+            continue
+        for t in project.get_tokens(row["id"]):
+            v = (t["tags"][0] if t["tags"] else None) if field == "tags" else t[field]
+            if v:
+                counts[v] = counts.get(v, 0) + 1
+    return {"corpus": corpus_name, "layer": layer, "field": field, "documents": len(docs), "counts": counts}
