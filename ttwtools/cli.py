@@ -813,6 +813,21 @@ def _cmd_help(args):
     return EXIT_OK
 
 
+def _cmd_recent(args):
+    from . import recent
+    if args.clear:
+        recent.clear()
+    elif args.remove:
+        recent.remove(args.remove)
+    emit(recent.listing(), args.format, columns=["name", "ext", "exists", "folder"])
+    return EXIT_OK
+
+
+def _configure_recent(p):
+    p.add_argument("--remove", metavar="ARQUIVO", help="tira um arquivo da lista")
+    p.add_argument("--clear", action="store_true", help="esvazia a lista")
+
+
 def _configure_help(p):
     p.add_argument("topic", nargs="?", help="tópico (ex.: cohens_d, kwic, keyness); vazio = lista")
     p.add_argument("--lang", choices=["pt", "en"])
@@ -997,6 +1012,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                         _configure_collocates_text, _cmd_collocates_text),
     "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, references, models, download-model",
                   _configure_catalog, _cmd_catalog),
+    "recent":    ("Arquivos .ttwa/.ttwl/.ttwc/.ttwcl abertos recentemente (lista, --remove, --clear)",
+                  _configure_recent, _cmd_recent),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",
                   _configure_describe, _cmd_describe),
