@@ -99,6 +99,8 @@
  "corpora.title": "Projeto",
  "corpora.words_est": "palavras (est.)",
  "density.label": "Densidade compacta",
+ "project.opening_title": "Abrindo o arquivo",
+ "project.saving_title": "Salvando o arquivo",
  "nav.expand": "Mostrar nomes no menu",
  "nav.collapse": "Recolher menu",
  "explain.button": "Explicar esta tela",

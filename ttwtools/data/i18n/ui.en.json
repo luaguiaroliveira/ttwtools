@@ -99,6 +99,8 @@
  "corpora.title": "Project",
  "corpora.words_est": "words (est.)",
  "density.label": "Compact density",
+ "project.opening_title": "Opening the file",
+ "project.saving_title": "Saving the file",
  "nav.expand": "Show names in menu",
  "nav.collapse": "Collapse menu",
  "explain.button": "Explain this screen",
