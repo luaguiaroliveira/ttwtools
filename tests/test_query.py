@@ -139,6 +139,12 @@ def test_tag_counts_upos_matches_frequency(proj, spacy_model, capsys):
     assert json.loads(capsys.readouterr().out)["counts"] == pos
 
 
+def test_kwic_layer_with_only_tags_shows_first_tag(proj):
+    ttwtools.tag_corpus(proj, "c", "biberplus")
+    lines = ttwtools.kwic(proj, "c", "cat", layer="biberplus")["lines"]
+    assert lines and all(l["pos"] for l in lines)     # sem upos/xpos: cai para a primeira tag
+
+
 def test_cli_other_commands(proj, capsys):
     path = str(proj.path)
     proj._con.commit()

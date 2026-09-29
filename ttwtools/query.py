@@ -225,14 +225,14 @@ def kwic(project: TTWAProject, corpus_name: str, query: str, layer: str | None =
     for r in rows:
         doc = sel[r["layer_id"]]
         ctx = project._con.execute(
-            "SELECT idx, word, upos, xpos, lemma FROM tokens WHERE layer_id = ? AND idx BETWEEN ? AND ? ORDER BY idx",
+            "SELECT idx, word, upos, xpos, lemma, tags FROM tokens WHERE layer_id = ? AND idx BETWEEN ? AND ? ORDER BY idx",
             (r["layer_id"], r["idx"] - context, r["idx"] + n - 1 + context)).fetchall()
         left = [c["word"] for c in ctx if c["idx"] < r["idx"]]
         hit = [c for c in ctx if r["idx"] <= c["idx"] < r["idx"] + n]
         right = [c["word"] for c in ctx if c["idx"] >= r["idx"] + n]
         line = {"filename": doc["filename"], "idx": r["idx"], "start_char": r["start_char"], "end_char": r["end_char"],
                 "left": " ".join(left), "match": " ".join(c["word"] for c in hit), "right": " ".join(right),
-                "pos": " ".join(c["upos"] or c["xpos"] or "" for c in hit).strip() or None,
+                "pos": " ".join(c["upos"] or c["xpos"] or _first_tag(c["tags"]) for c in hit).strip() or None,
                 "lemma": " ".join(c["lemma"] or "" for c in hit).strip() or None}
         if with_sentence:
             if r["doc_id"] not in texts:
@@ -240,6 +240,15 @@ def kwic(project: TTWAProject, corpus_name: str, query: str, layer: str | None =
             line["sentence"] = _sentence(texts[r["doc_id"]], r["start_char"], r["end_char"])
         lines.append(line)
     return {"query": query, "total": total, "limit": limit, "offset": offset, "sort": sort, "lines": lines}
+
+
+def _first_tag(raw: str | None) -> str:
+    """Primeira tag do token (camadas só com `tags`, como BiberPlus e MFTE); "" se não houver."""
+    try:
+        tags = json.loads(raw) if raw else []
+    except ValueError:
+        return ""
+    return str(tags[0]) if tags else ""
 
 
 def explain(project: TTWAProject, corpus_name: str, query: str, layer: str | None = None) -> list[str]:
