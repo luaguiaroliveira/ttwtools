@@ -145,6 +145,14 @@ def test_kwic_layer_with_only_tags_shows_first_tag(proj):
     assert lines and all(l["pos"] for l in lines)     # sem upos/xpos: cai para a primeira tag
 
 
+def test_tag_query_falls_back_to_upos_xpos_without_tags(proj, spacy_model):
+    ttwtools.tag_corpus(proj, "c", "spacy")
+    noun = search(proj, "c", "pos=NOUN", layer="spacy")["total"]
+    assert noun > 0 and search(proj, "c", "tag=NOUN", layer="spacy")["total"] == noun
+    ttwtools.tag_corpus(proj, "c", "biberplus")
+    assert search(proj, "c", "tag=NOUN", layer="biberplus")["total"] == 0        # BiberPlus tem tags próprias: sem cair para UPOS
+
+
 def test_cli_other_commands(proj, capsys):
     path = str(proj.path)
     proj._con.commit()

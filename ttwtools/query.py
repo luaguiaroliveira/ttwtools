@@ -125,8 +125,9 @@ def _token_conditions(spec: str, i: int) -> tuple[list[str], list[Any]]:
             args += [value, value]
             continue
         if key == "tag":
-            conds.append(f"t{i}.tags LIKE ?")
-            args.append(f'%"{value}"%')
+            # camadas com tags (BiberPlus, MFTE): a tag; sem tags (spaCy, Stanza), cai para UPOS/XPOS
+            conds.append(f"(t{i}.tags LIKE ? OR ((t{i}.tags IS NULL OR t{i}.tags IN ('', '[]')) AND (t{i}.upos = ? OR t{i}.xpos = ?)))")
+            args += [f'%"{value}"%', value, value]
             continue
         if key not in _FIELDS:
             raise ValueError(f"campo desconhecido '{key}' (use word, lemma, pos, upos, xpos, tag)")
