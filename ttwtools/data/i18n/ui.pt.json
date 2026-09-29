@@ -98,6 +98,7 @@
  "corpora.single_hint": "Este arquivo guarda um corpus só (.ttwc/.ttwcl). Para juntar corpora, use Salvar como… .ttwa.",
  "corpora.title": "Projeto",
  "corpora.words_est": "palavras (est.)",
+ "density.label": "Densidade compacta",
  "explain.button": "Explicar esta tela",
  "explain.close": "Fechar explicações",
  "explain.compare.tabs": "Compare o corpus ativo com uma referência (palavras-chave) ou com outro corpus/grupo (KFA).",
