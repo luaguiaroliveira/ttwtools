@@ -505,7 +505,7 @@
  "reader.col.corpus": "Corpus",
  "reader.group_other": "No group",
  "tagdoc.title": "Official documentation (v{version})",
- "tagdoc.feature": "Feature",
+ "tagdoc.feature": "Official name",
  "tagdoc.category": "Category",
  "tagdoc.examples": "Examples",
  "tagdoc.unit": "Normalised by",
