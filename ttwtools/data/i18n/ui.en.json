@@ -229,6 +229,7 @@
  "home.version": "Version {app} · ttwtools package {ttwtools}",
  "home.welcome": "Welcome to TTWtools",
  "job.cancel": "Cancel task",
+ "job.overall": "Overall progress",
  "job.cancelled": "Cancelled",
  "job.done": "Done",
  "job.error": "Error",
