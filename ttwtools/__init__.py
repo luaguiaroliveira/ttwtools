@@ -60,6 +60,10 @@ _EXPORTS = {
     "TTWA_MODE_FULL": "project",
     "TTWA_MODE_COMPACT": "project",
     "TTWL_EXTENSION": "project",
+    "TTWAL_EXTENSION": "project",
+    "save_corpora_as": "project",
+    "TTWAL_EXTENSION": "project",
+    "save_corpora_as": "project",
     "export_corpus_next_to": "project",
     "relink_corpus": "project",
     "embed_corpus": "project",
@@ -149,7 +153,7 @@ if TYPE_CHECKING:  # para editores e verificadores de tipo
     from .project import (  # noqa: F401
         TTWA_EXTENSION, TTWA_MIME_TYPE, TTWA_MODE_COMPACT, TTWA_MODE_FULL,
         TTWAProject, create_project, open_project, save_analysis_to_project,
-        TTWL_EXTENSION, detach_corpus, embed_corpus, export_corpus_next_to, relink_corpus,
+        TTWAL_EXTENSION, TTWAL_EXTENSION, TTWL_EXTENSION, detach_corpus, embed_corpus, export_corpus_next_to, relink_corpus,
     )
     from .corpus import (  # noqa: F401
         TokenizerConfig, filter_documents, get_document_meta, import_corpus, list_groups,

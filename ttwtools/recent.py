@@ -1,4 +1,4 @@
-"""Arquivos abertos recentemente (.ttwa, .ttwl, .ttwc, .ttwcl, .ttwt), do mais novo ao mais antigo.
+"""Arquivos abertos recentemente (.ttwa, .ttwl, .ttwal, .ttwc, .ttwcl, .ttwt), do mais novo ao mais antigo.
 
 A lista fica num JSON na pasta de configuração da pessoa (`TTWTOOLS_HOME` a substitui) e é a
 mesma para o aplicativo e a linha de comando.
@@ -13,7 +13,7 @@ import time
 from pathlib import Path
 
 MAX_RECENT = 12
-EXTENSIONS = (".ttwa", ".ttwl", ".ttwc", ".ttwcl", ".ttwt")
+EXTENSIONS = (".ttwa", ".ttwl", ".ttwal", ".ttwc", ".ttwcl", ".ttwt")
 
 
 def config_dir() -> Path:

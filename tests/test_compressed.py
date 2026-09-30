@@ -1,6 +1,7 @@
 """Projetos salvos compactados por padrão: cópia de trabalho, save(), close() e .ttwl com a pasta ao lado."""
 from pathlib import Path
 
+import pytest
 import ttwtools
 from ttwtools.project import compression_of, save_project_as
 
@@ -139,3 +140,38 @@ def test_salvar_sem_tabelas_de_busca_e_recriar(tmp_path):
         assert [tuple(r) for r in after] == [tuple(r) for r in before]
         assert q._con.execute("SELECT COUNT(*) FROM layer_blobs").fetchone()[0] == 0
         assert ttwtools.kwic(q, "c", "the", limit=1)["total"] > 0
+
+
+def test_ttwal_pacote_leve_com_varios_corpora(tmp_path):
+    p = _two(tmp_path)
+    out = ttwtools.save_corpora_as(p, ["c", "d"], tmp_path / "pac" / "dois.ttwal")
+    only_d = ttwtools.save_corpora_as(p, ["d"], tmp_path / "pac" / "so_d.ttwal", compress=False)
+    with pytest.raises(ValueError, match="ao menos um"):
+        ttwtools.save_corpora_as(p, [], tmp_path / "x.ttwal")
+    with pytest.raises(ValueError, match="não existe"):
+        ttwtools.save_corpora_as(p, ["c", "nada"], tmp_path / "y.ttwal")
+    with pytest.raises(ValueError, match="use a extensão"):
+        ttwtools.save_corpora_as(p, ["c"], tmp_path / "z.ttwc")
+    p.close()
+    assert (tmp_path / "pac" / "dois_corpus" / "c").is_dir() and (tmp_path / "pac" / "dois_corpus" / "d").is_dir()
+    with ttwtools.open_project(out) as pk:
+        assert pk.is_light and not pk.single_corpus and set(pk.list_corpus_names()) == {"c", "d"}
+        st = pk.check_corpus()
+        assert not st["missing"] and not st["changed"]
+        assert [layer["tool"] for layer in ttwtools.layer_summary(pk, "c")] == ["spacy"]
+        ttwtools.import_corpus(pk, None, "novo", text="ainda dá para acrescentar")           # não é de um corpus só
+    with ttwtools.open_project(only_d) as pd:
+        assert pd.list_corpus_names() == ["d"] and pd.is_light and not pd.single_corpus
+    with ttwtools.open_project(tmp_path / "dois.ttwa") as orig:
+        assert set(orig.list_corpus_names()) == {"c", "d"}
+
+
+def test_cli_save_as_ttwal_com_selecao(tmp_path, capsys):
+    p = _two(tmp_path)
+    p.close()
+    from ttwtools import cli
+    src = str(tmp_path / "dois.ttwa")
+    assert cli.main(["save-as", src, str(tmp_path / "todos.ttwal"), "--json"]) == 0            # sem --corpus: todos
+    assert cli.main(["save-as", src, str(tmp_path / "um.ttwal"), "--corpus", "c", "--json"]) == 0
+    with ttwtools.open_project(tmp_path / "todos.ttwal") as a, ttwtools.open_project(tmp_path / "um.ttwal") as b:
+        assert set(a.list_corpus_names()) == {"c", "d"} and b.list_corpus_names() == ["c"]

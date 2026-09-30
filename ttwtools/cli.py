@@ -193,26 +193,35 @@ def _configure_names(p: argparse.ArgumentParser) -> None:
 
 
 def _cmd_save_as(args: argparse.Namespace) -> int:
-    from .project import SINGLE_CORPUS_EXTENSIONS, compression_of, save_corpus_as, save_project_as
-    single = Path(args.dest).suffix.lower() in SINGLE_CORPUS_EXTENSIONS
-    if single and not args.corpus:
+    from .project import MULTI_CORPUS_EXTENSIONS, SINGLE_CORPUS_EXTENSIONS, compression_of, save_corpora_as, save_corpus_as, save_project_as
+    suffix = Path(args.dest).suffix.lower()
+    single = suffix in SINGLE_CORPUS_EXTENSIONS
+    corpora = args.corpus or []
+    if single and len(corpora) != 1:
         raise SystemExit("ttwtools: .ttwc/.ttwcl guardam um corpus só: diga qual com --corpus")
+    if corpora and not single and suffix not in MULTI_CORPUS_EXTENSIONS:
+        raise SystemExit("ttwtools: --corpus vale para .ttwc/.ttwcl (um corpus) e .ttwal/.ttwl/.ttwa (uma seleção)")
     compress, tables = not args.no_compress, not args.no_search_tables
     with _open_or_create(args.project, create=False) as proj:
         proj._set_meta("save.compress", compress)
         proj._set_meta("save.search_tables", tables)
         proj._con.commit()
-        out = (save_corpus_as(proj, args.corpus, args.dest, compress=compress, search_tables=tables) if single
-               else save_project_as(proj.path, args.dest, compress=compress, search_tables=tables))
+        if single:
+            out = save_corpus_as(proj, corpora[0], args.dest, compress=compress, search_tables=tables)
+        elif corpora or suffix == ".ttwal":          # seleção de corpora (.ttwal sem --corpus = todos, em versão leve)
+            out = save_corpora_as(proj, corpora or proj.list_corpus_names(), args.dest, compress=compress, search_tables=tables)
+        else:
+            out = save_project_as(proj.path, args.dest, compress=compress, search_tables=tables)
     emit({"arquivo": str(out), "compactado": compression_of(out) is not None,
           "tamanho_mb": round(out.stat().st_size / 1e6, 1)}, args.format)
     return EXIT_OK
 
 
 def _configure_save_as(p: argparse.ArgumentParser) -> None:
-    p.add_argument("project", help="projeto de origem (.ttwa, .ttwl, .ttwc, .ttwcl ou .ttwt)")
-    p.add_argument("dest", help="arquivo de destino; a extensão diz o tipo (.ttwc/.ttwcl: um corpus só, com --corpus)")
-    p.add_argument("--corpus", help="corpus a gravar num .ttwc (textos dentro) ou .ttwcl (textos ao lado)")
+    p.add_argument("project", help="projeto de origem (.ttwa, .ttwl, .ttwal, .ttwc, .ttwcl ou .ttwt)")
+    p.add_argument("dest", help="arquivo de destino; a extensão diz o tipo (.ttwc/.ttwcl: um corpus, com --corpus; "
+                                ".ttwal: pacote leve com vários corpora, com --corpus repetido ou sem ele para todos)")
+    p.add_argument("--corpus", action="append", help="corpus a gravar (repita para uma seleção, em .ttwal/.ttwl/.ttwa)")
     p.add_argument("--no-compress", action="store_true",
                    help="grava o banco sem compressão (abre sem descompactar, arquivo bem maior)")
     p.add_argument("--no-search-tables", action="store_true",
@@ -1030,7 +1039,7 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                         _configure_collocates_text, _cmd_collocates_text),
     "catalog":   ("Catálogo de corpora e modelos: list, install, remove, update, validate, references, models, download-model",
                   _configure_catalog, _cmd_catalog),
-    "recent":    ("Arquivos .ttwa/.ttwl/.ttwc/.ttwcl abertos recentemente (lista, --remove, --clear)",
+    "recent":    ("Arquivos .ttwa/.ttwl/.ttwal/.ttwc/.ttwcl abertos recentemente (lista, --remove, --clear)",
                   _configure_recent, _cmd_recent),
     "help":      ("Ajuda sobre conceitos, métricas e telas (ex.: ttwtools help cohens_d)", _configure_help, _cmd_help),
     "describe":  ("Estatísticas do corpus (sem tagger) e, com --layer, da camada",

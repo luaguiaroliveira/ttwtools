@@ -47,10 +47,12 @@ TTWA_EXTENSION = ".ttwa"
 TTWL_EXTENSION = ".ttwl"
 TTWC_EXTENSION = ".ttwc"     # um corpus só, texto dentro (funciona como .ttwa)
 TTWCL_EXTENSION = ".ttwcl"   # um corpus só, leve (funciona como .ttwl)
+TTWAL_EXTENSION = ".ttwal"   # vários corpora (um pacote), leve: sinônimo do .ttwl, para exportar uma seleção
 TTWT_EXTENSION = ".ttwt"     # compactado (formato antigo de envio; hoje todo projeto salva compactado)
-PROJECT_EXTENSIONS = (TTWA_EXTENSION, TTWL_EXTENSION, TTWC_EXTENSION, TTWCL_EXTENSION, TTWT_EXTENSION)
+PROJECT_EXTENSIONS = (TTWA_EXTENSION, TTWL_EXTENSION, TTWAL_EXTENSION, TTWC_EXTENSION, TTWCL_EXTENSION, TTWT_EXTENSION)
 SINGLE_CORPUS_EXTENSIONS = (TTWC_EXTENSION, TTWCL_EXTENSION)
-LIGHT_EXTENSIONS = (TTWL_EXTENSION, TTWCL_EXTENSION)
+LIGHT_EXTENSIONS = (TTWL_EXTENSION, TTWAL_EXTENSION, TTWCL_EXTENSION)
+MULTI_CORPUS_EXTENSIONS = (TTWA_EXTENSION, TTWL_EXTENSION, TTWAL_EXTENSION)   # destinos de `save_corpora_as`
 
 # Tipo do projeto gravado em project_meta['project_kind']
 PROJECT_KIND_TTWA = "ttwa"   # texto do corpus dentro do arquivo
@@ -1940,16 +1942,44 @@ def save_corpus_as(
     Vão junto os metadados, as camadas, a lista "a executar" e as análises que só usam
     esse corpus (comparações com outros corpora ficam de fora). Compactado por padrão.
     O projeto de origem não muda."""
+    if Path(dest).suffix.lower() not in SINGLE_CORPUS_EXTENSIONS:
+        raise ValueError(f"use a extensão .ttwc (textos dentro) ou .ttwcl (textos ao lado), não '{Path(dest).suffix}'")
+    return _save_corpora_subset(project, [corpus_name], dest, True, progress_cb, compress, search_tables)
+
+
+def save_corpora_as(
+    project: TTWAProject,
+    corpus_names: "list[str]",
+    dest: str | Path,
+    progress_cb: "Optional[Callable[[int, int], None]]" = None,
+    compress: bool = True,
+    search_tables: bool = True,
+) -> Path:
+    """Grava uma seleção de corpora do projeto num pacote: `.ttwal` (leve: textos numa pasta
+    `<nome>_corpus/<corpus>` ao lado do arquivo; é o `.ttwl` para uma seleção), `.ttwl` (idem)
+    ou `.ttwa` (textos dentro). Vão junto metadados, camadas, lista "a executar" e as análises
+    que só usam corpora da seleção (comparações com quem ficou de fora são descartadas).
+    O projeto de origem não muda."""
+    if Path(dest).suffix.lower() not in MULTI_CORPUS_EXTENSIONS:
+        raise ValueError(f"use a extensão .ttwal (leve), .ttwl (leve) ou .ttwa (textos dentro), não '{Path(dest).suffix}'")
+    if not corpus_names:
+        raise ValueError("escolha ao menos um corpus")
+    return _save_corpora_subset(project, list(dict.fromkeys(corpus_names)), dest, False, progress_cb, compress, search_tables)
+
+
+def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Path, single: bool,
+                         progress_cb, compress: bool, search_tables: bool) -> Path:
+    """Base de `save_corpus_as` e `save_corpora_as`: copia o projeto e tira o que não é dos corpora `keep`."""
     import json as _json
     import shutil
     import tempfile
     out = Path(dest).expanduser().resolve()
-    if out.suffix.lower() not in SINGLE_CORPUS_EXTENSIONS:
-        raise ValueError(f"use a extensão .ttwc (textos dentro) ou .ttwcl (textos ao lado), não '{out.suffix}'")
     names = project.list_corpus_names()
-    if corpus_name not in names:
-        raise ValueError(f"corpus '{corpus_name}' não existe no projeto")
-    others = [n for n in names if n != corpus_name]
+    for c in keep:
+        if c not in names:
+            raise ValueError(f"corpus '{c}' não existe no projeto")
+    others = [n for n in names if n not in keep]
+    marks = ",".join("?" * len(keep))
     light_out = out.suffix.lower() in LIGHT_EXTENSIONS
     project._con.commit()
     workdir = Path(tempfile.mkdtemp(prefix="ttw_"))
@@ -1961,18 +1991,17 @@ def save_corpus_as(
         work = TTWAProject.open(work_path, migrate=False, home=out)
         con = work._con
         # textos: ler da origem antes de mexer (no .ttwl de origem, da pasta ao lado dela)
-        texts = {fn: project.get_corpus_file(corpus_name, fn) for fn in project.list_corpus_files(corpus_name)}
-        kept_docs = [r[0] for r in con.execute("SELECT id FROM documents WHERE corpus_name = ?", (corpus_name,))]
+        texts = {(c, fn): project.get_corpus_file(c, fn) for c in keep for fn in project.list_corpus_files(c)}
         # apagar milhões de tokens com 7 índices ativos é lento: tira os índices, apaga pela chave
-        # (layer_id) e recria no fim, já só com o corpus que fica
+        # (layer_id) e recria no fim, já só com o que fica
         for name, _sql in _TOKEN_INDEXES:
             con.execute(f"DROP INDEX IF EXISTS {name}")
         con.execute("DELETE FROM tokens WHERE layer_id IN (SELECT l.id FROM layers l JOIN documents d ON d.id = l.doc_id"
-                    " WHERE d.corpus_name != ?)", (corpus_name,))
+                    f" WHERE d.corpus_name NOT IN ({marks}))", keep)
         for table, col in (("corpus_files", "corpus_name"), ("tagged_files", "corpus_name"),
                            ("feature_tables", "corpus_name"), ("documents", "corpus_name")):
-            con.execute(f"DELETE FROM {table} WHERE {col} != ?", (corpus_name,))
-        con.execute("DELETE FROM kfa_results WHERE corpus1_name != ? OR corpus2_name != ?", (corpus_name, corpus_name))
+            con.execute(f"DELETE FROM {table} WHERE {col} NOT IN ({marks})", keep)
+        con.execute(f"DELETE FROM kfa_results WHERE corpus1_name NOT IN ({marks}) OR corpus2_name NOT IN ({marks})", keep + keep)
         kept_layers = {r[0] for r in con.execute("SELECT id FROM layers")}
         for aid, name, params, refs in con.execute("SELECT id, name, params, layer_refs FROM analyses").fetchall():
             ids = set(_json.loads(refs or "[]"))
@@ -1984,34 +2013,32 @@ def save_corpus_as(
                 con.execute("DELETE FROM project_meta WHERE key = ?", (key,))
         # onde ficam os textos no arquivo novo
         if light_out:
-            folder = out.parent / f"{out.stem}_corpus" / corpus_name
             con.execute("DELETE FROM corpus_files")
-            for fn, content in texts.items():
+            for (c, fn), content in texts.items():
                 if content is None:
                     continue
-                f = folder / fn
+                f = out.parent / f"{out.stem}_corpus" / c / fn
                 f.parent.mkdir(parents=True, exist_ok=True)
                 f.write_text(content, encoding="utf-8", newline="")
                 con.execute("UPDATE documents SET rel_path = ? WHERE corpus_name = ? AND filename = ?",
-                            (_relative_to_project(out, f), corpus_name, fn))
+                            (_relative_to_project(out, f), c, fn))
             work._set_meta("project_kind", PROJECT_KIND_TTWL)
         else:
-            for fn, content in texts.items():
+            for (c, fn), content in texts.items():
                 if content is not None:
                     con.execute("INSERT INTO corpus_files (corpus_name, filename, content) VALUES (?, ?, ?)"
                                 " ON CONFLICT(corpus_name, filename) DO UPDATE SET content=excluded.content",
-                                (corpus_name, fn, content))
-            con.execute("UPDATE documents SET rel_path = NULL WHERE corpus_name = ?", (corpus_name,))
+                                (c, fn, content))
+            con.execute(f"UPDATE documents SET rel_path = NULL WHERE corpus_name IN ({marks})", keep)
             work._set_meta("project_kind", PROJECT_KIND_TTWA)
-        work._set_meta("single_corpus", True)
-        work._set_meta("project_name", corpus_name)
+        work._set_meta("single_corpus", bool(single))
+        work._set_meta("project_name", keep[0] if single else out.stem)
         con.commit()
         for _name, sql in _TOKEN_INDEXES:
             con.execute(sql)
         con.commit()
         con.execute("VACUUM")
         work.close()
-        del kept_docs
         return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=search_tables)
     finally:
         shutil.rmtree(workdir, ignore_errors=True)

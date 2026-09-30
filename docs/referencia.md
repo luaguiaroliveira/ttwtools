@@ -179,6 +179,18 @@ Parâmetros opcionais:
 
 Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
 
+### `save_corpora_as` · **`ttwtools.save_corpora_as`**
+
+```python
+save_corpora_as(project: 'TTWAProject', corpus_names: "'list[str]'", dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True) -> 'Path'
+```
+
+Grava uma seleção de corpora do projeto num pacote: `.ttwal` (leve: textos numa pasta
+`<nome>_corpus/<corpus>` ao lado do arquivo; é o `.ttwl` para uma seleção), `.ttwl` (idem)
+ou `.ttwa` (textos dentro). Vão junto metadados, camadas, lista "a executar" e as análises
+que só usam corpora da seleção (comparações com quem ficou de fora são descartadas).
+O projeto de origem não muda.
+
 ### `save_corpus_as` · **`ttwtools.save_corpus_as`**
 
 ```python
@@ -1567,6 +1579,23 @@ Trecho Python equivalente, usando a API pública do pacote.
 ## Outros nomes de `ttwtools`
 
 Taggers da API clássica e utilitários exportados no nível do pacote.
+
+### `TTWAL_EXTENSION` · **`ttwtools.TTWAL_EXTENSION`**
+
+```python
+TTWAL_EXTENSION
+```
+
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to 'utf-8'.
+errors defaults to 'strict'.
 
 ### `TTWA_EXTENSION` · **`ttwtools.TTWA_EXTENSION`**
 
