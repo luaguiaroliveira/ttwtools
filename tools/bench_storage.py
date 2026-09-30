@@ -81,10 +81,53 @@ def machine_info() -> list[str]:
         f"Data: {dt.datetime.now():%Y-%m-%d %H:%M}",
         f"Sistema: {platform.platform()}",
         f"Processador: {cpu} ({os.cpu_count()} núcleos lógicos)",
-        f"Memória: {_mb(int(mem)) if mem.isdigit() else '?'}",
+        f"Memória: {_mb(int(mem)) if mem.isdigit() else '?'} · troca (swap): {_sh(['sysctl', '-n', 'vm.swapusage']) or '?'}",
+        f"Pressão de memória: {(_sh(['memory_pressure']).splitlines() or ['?'])[-1]}",
         f"Python {platform.python_version()} · SQLite {sqlite3.sqlite_version} · ttwtools {getattr(ttwtools, '__version__', '?')}"
         + (f" (commit {rev})" if rev else ""),
     ]
+
+
+def ticker():
+    """Callback de progresso que imprime no terminal no máximo a cada 3 s (etapa e andamento)."""
+    last = [0.0]
+
+    def cb(done, total, stage="") -> None:
+        now = time.perf_counter()
+        if now - last[0] < 3 and done != total:
+            return
+        last[0] = now
+        if stage == "decompress":
+            txt = f"descompactando {done / 1e6:,.0f} / {total / 1e6:,.0f} MB".replace(",", ".")
+        else:
+            txt = f"{stage}: {done:,} / {total:,}".replace(",", ".")
+        print(f"\n      {txt}", end="", flush=True)
+    return cb
+
+
+def describe(src: Path) -> list[str]:
+    """Que tipo de arquivo é (compactado, banco direto, esquema, tabelas de busca) e o que abrir vai fazer."""
+    import sqlite3
+    from ttwtools.project import compression_of, needs_migration
+    out = []
+    kind = compression_of(src)
+    out.append(f"formato: **{'compactado (' + kind + ')' if kind else 'banco direto (SQLite)'}**, {_mb(src.stat().st_size)}")
+    if kind:
+        out.append("abrir = **descompactar** para uma cópia de trabalho (o tamanho cresce na pasta `tmp/ttw_work_*`)")
+        return out
+    try:
+        con = sqlite3.connect(f"file:{src}?mode=ro", uri=True)
+        try:
+            v = con.execute("SELECT value FROM project_meta WHERE key='schema_version'").fetchone()
+        finally:
+            con.close()
+        out.append(f"esquema: **{v[0] if v else 'antigo (sem versão)'}**")
+    except sqlite3.Error:
+        pass
+    if needs_migration(src):
+        out.append("**abrir vai MIGRAR o arquivo** (esquema antigo, ou salvo sem tabelas): pode levar muitos minutos; "
+                   "para medir o ciclo normal use um projeto já migrado")
+    return out
 
 
 def med(fn, n: int = 3) -> float:
@@ -190,6 +233,14 @@ def queries(p, corpus: str) -> dict:
     }
 
 
+def _both(tick, stages):
+    def cb(d, t, s=""):
+        if s not in stages:
+            stages.append(s)
+        tick(d, t, s)
+    return cb
+
+
 def real_project(rep: Report, work: Path, src: Path) -> None:
     import ttwtools
     from ttwtools import searchindex, storage
@@ -203,10 +254,15 @@ def real_project(rep: Report, work: Path, src: Path) -> None:
         return
     copy = work / "projeto_copia" / src.name
     copy.parent.mkdir()
+    info = describe(src)
+    lines += [f"- {i}" for i in info]
+    rep.write()
+    for i in info:
+        print("    " + i.replace("**", ""))
     step(rep, lines, "copiar o projeto para a pasta de trabalho (o original não é tocado)", lambda: shutil.copyfile(src, copy))
     res: dict = {}                                       # etapa -> (segundos, extra)
     t0 = time.perf_counter()
-    p = step(rep, lines, "A. abrir o arquivo original", lambda: ttwtools.open_project(copy))
+    p = step(rep, lines, "A. abrir o arquivo original", lambda: ttwtools.open_project(copy, progress=ticker()))
     if p is None:
         return
     res["abrir_original"] = time.perf_counter() - t0
@@ -261,7 +317,7 @@ def real_project(rep: Report, work: Path, src: Path) -> None:
         os.environ["TTWTOOLS_INDEX_CACHE"] = "0"
         t = time.perf_counter()
         q = step(rep, lines, "H. abrir SEM tabelas, cache desligado (recria as tabelas em toda abertura)",
-                 lambda: ttwtools.open_project(lean))
+                 lambda: ttwtools.open_project(lean, progress=ticker()))
         if q:
             res["abrir_recria"] = time.perf_counter() - t
             q.close()
@@ -270,7 +326,7 @@ def real_project(rep: Report, work: Path, src: Path) -> None:
         stages: list[str] = []
         t = time.perf_counter()
         q = step(rep, lines, "I. abrir SEM tabelas com índice em cache, 1ª vez (constrói)",
-                 lambda: ttwtools.open_project(lean, progress=lambda d, tt, s: stages.append(s) if s not in stages else None))
+                 lambda: ttwtools.open_project(lean, progress=_both(ticker(), stages)))
         if q:
             res["abrir_cache_1"] = time.perf_counter() - t
             res["banco_cache"] = Path(q.path).stat().st_size
