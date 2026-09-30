@@ -120,3 +120,22 @@ def test_cli_keywords(proj, tmp_path, capsys):
     assert data["rows"][0]["item"] == "cat"
     assert cli.main(["keywords", path, "--corpus", "alvo", "--reference", "ref", "--min-freq", "2", "--lang", "pt"]) == 0
     assert "Alvo pequeno" in capsys.readouterr().out
+
+
+def test_reference_where_compares_two_groups_of_the_same_corpus(tmp_path):
+    import shutil
+    from pathlib import Path
+    import ttwtools
+    dest = tmp_path / "v2.ttwa"
+    shutil.copy(Path(__file__).parent / "data" / "v2_small.ttwa", dest)
+    with ttwtools.open_project(dest) as p:
+        c = p.list_corpus_names()[0]
+        ids = [d["id"] for d in p.list_documents() if d["corpus_name"] == c]
+        for i, doc_id in enumerate(ids):
+            p._con.execute("INSERT INTO document_meta (doc_id, key, value) VALUES (?, 'g', ?)", (doc_id, "a" if i < 2 else "b"))
+        p._con.commit()
+        r = ttwtools.keywords(p, c, c, where={"g": ["a"]}, reference_where={"g": ["b"]}, min_freq=1, save=False)
+        b = ttwtools.frequency_bands(p, c, c, where={"g": ["a"]}, reference_where={"g": ["b"]})
+        whole = ttwtools.keywords(p, c, c, min_freq=1, save=False)
+        assert r["target_words"] and r["reference_words"] and r["reference_words"] < whole["reference_words"]
+        assert b["reference_words"] == r["reference_words"]

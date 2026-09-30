@@ -375,10 +375,11 @@ BANDS = (1000, 2000, 3000, 5000, 10000)
 
 def frequency_bands(project: TTWAProject, corpus_name: str, reference: str | Path | FreqTable,
                     unit: str = "form", bands: tuple[int, ...] = BANDS, layer: str | None = None,
-                    where: Mapping | None = None, examples: int = 8) -> dict:
+                    where: Mapping | None = None, examples: int = 8, reference_where: Mapping | None = None) -> dict:
     """Perfil de frequência lexical (Laufer & Nation 1995): quanto do texto está entre
     as 1.000, 2.000... palavras mais frequentes da referência, e quanto fica fora da lista.
-    `reference` como em keywords() (lista .tsv, `catalog:<id>`, outro corpus ou FreqTable).
+    `reference` como em keywords() (lista .tsv, `catalog:<id>`, outro corpus ou FreqTable); `reference_where` filtra os
+    documentos da referência quando ela é um corpus (ex.: dois grupos do mesmo corpus).
     Devolve {"rows": [{band, from, to, tokens, types, pct_tokens, pct_types, examples}],
     "tokens", "types", "reference", "reference_words", "unit"}."""
     if unit not in ("form", "lemma", "word_pos"):
@@ -389,7 +390,7 @@ def frequency_bands(project: TTWAProject, corpus_name: str, reference: str | Pat
     elif Path(str(reference)).suffix.lower() in (".tsv", ".txt") and Path(str(reference)).is_file():
         ref = read_reference_list(reference)
     else:
-        ref = corpus_freqs(project, str(reference), unit, layer=layer)
+        ref = corpus_freqs(project, str(reference), unit, layer=layer, where=reference_where)
     target = corpus_freqs(project, corpus_name, unit, layer=layer, where=where)
     rank = {item: i + 1 for i, (item, _) in enumerate(ref.counts.most_common())}
     edges = sorted(bands)

@@ -743,7 +743,8 @@ def _cmd_keywords(args):
     from .keyness import keywords
     with _open_or_create(args.project, create=False) as proj:
         r = keywords(proj, args.corpus, args.reference, unit=args.unit, measure=args.measure, n=args.n,
-                     layer=args.layer, where=parse_where(args.where or []), min_freq=args.min_freq,
+                     layer=args.layer, where=parse_where(args.where or []),
+                     reference_where=parse_where(args.reference_where or []) or None, min_freq=args.min_freq,
                      min_range=args.min_range, correction=args.correction, top=args.top, lang=args.lang)
     if args.format == "json":
         emit(r, "json")
@@ -764,7 +765,7 @@ def _cmd_bands(args):
     from .keyness import frequency_bands
     with _open_or_create(args.project, create=False) as proj:
         r = frequency_bands(proj, args.corpus, args.reference, unit=args.unit, layer=args.layer,
-                            where=parse_where(args.where or []),
+                            where=parse_where(args.where or []), reference_where=parse_where(args.reference_where or []) or None,
                             bands=tuple(int(b) for b in args.bands.split(",")))
     if args.format == "json":
         emit(r, "json")
@@ -781,6 +782,7 @@ def _cmd_bands(args):
 def _configure_bands(p):
     _query_common(p, needs_query=False)
     p.add_argument("--reference", required=True, help="catalog:<id>, lista .tsv ou nome de outro corpus do projeto")
+    p.add_argument("--reference-where", action="append", metavar="CHAVE=VALOR", help="só documentos da referência (quando é um corpus) com este metadado")
     p.add_argument("--unit", choices=["form", "lemma", "word_pos"], default="form")
     p.add_argument("--bands", default="1000,2000,3000,5000,10000", help="limites das faixas (posições na referência)")
 
@@ -801,6 +803,7 @@ def _configure_keywords(p):
     p.add_argument("--reference", required=True,
                    help="lista .tsv, catalog:<id> (lista instalada pelo catálogo), nome de outro corpus do projeto, "
                         "ou rest:<metadado> (com --where definindo o alvo)")
+    p.add_argument("--reference-where", action="append", metavar="CHAVE=VALOR", help="só documentos da referência (quando é um corpus) com este metadado")
     p.add_argument("--unit", choices=["form", "lemma", "pos", "word_pos", "ngram"], default="form")
     p.add_argument("-n", type=int, default=2, help="tamanho do n-grama")
     p.add_argument("--measure", choices=["ll", "log_ratio", "pct_diff", "log_odds"], default="ll")
