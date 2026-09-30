@@ -212,6 +212,8 @@ def layer_has(store: "IdStore", layer_id: int, needs: str) -> bool:
         return _present(store, layer_id, UPOS, ("",))
     if needs == "xpos":
         return _present(store, layer_id, XPOS, ("",))
+    if needs == "feats":
+        return _present(store, layer_id, FEATS, ("",))
     raise Unsupported(needs)
 
 

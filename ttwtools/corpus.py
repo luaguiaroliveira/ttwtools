@@ -414,6 +414,10 @@ def _layer_fields(project: TTWAProject, corpus_name: str, tool: str, version: st
         (corpus_name, tool, version, model, config_hash))]
     if not ids:
         return []
+    from . import idquery
+    store = idquery.available(project, {i: {"corpus_name": corpus_name} for i in ids})
+    if store is not None:                       # camada `TCL2` empacotada: dos ids, sem montar o índice de busca
+        return [name for name in ("tags", "upos", "xpos", "lemma", "feats") if any(idquery.layer_has(store, i, name) for i in ids)]
     marks = ",".join("?" * len(ids))
     row = project._con.execute(
         "SELECT MAX(tags IS NOT NULL AND tags NOT IN ('', '[]')), MAX(upos IS NOT NULL AND upos <> ''),"

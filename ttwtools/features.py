@@ -51,10 +51,13 @@ def resolve_feature(project: TTWAProject, sel: Mapping, feature: str | None) -> 
         return feature
     ids = sorted(sel)
     if ids:
-        store = idquery.available(project, sel)
-        if store is not None:
+        by_corpus: dict[str, dict] = {}
+        for i in ids:
+            by_corpus.setdefault(sel[i]["corpus_name"], {})[i] = sel[i]
+        stores = [(idquery.available(project, part), part) for part in by_corpus.values()]
+        if all(st is not None for st, _ in stores):             # `TCL2` empacotado: dos ids, um corpus por vez
             for cand in ("tags", "xpos", "upos"):
-                if any(idquery.layer_has(store, i, cand) for i in ids):
+                if any(idquery.layer_has(st, i, cand) for st, part in stores for i in part):
                     return cand
             return "tags"
         marks = ",".join("?" * len(ids))

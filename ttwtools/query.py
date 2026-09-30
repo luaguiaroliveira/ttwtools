@@ -316,7 +316,13 @@ def _is_word(t) -> bool:
 
 
 def _layer_tokens(project: TTWAProject, sel: dict[int, dict]):
+    """(documento, tokens da camada) para cada camada escolhida; `TCL2` empacotado é lido dos ids, sem `tokens`."""
+    store = idquery.available(project, sel)
     for layer_id, doc in sel.items():
+        if store is not None:
+            yield doc, [{"idx": i, "word": r[2], "lemma": r[3], "upos": r[4], "xpos": r[5]}
+                        for i, r in enumerate(store.rows(layer_id))]
+            continue
         rows = project._con.execute(
             "SELECT idx, word, lemma, upos, xpos FROM tokens WHERE layer_id = ? ORDER BY idx", (layer_id,)).fetchall()
         yield doc, rows

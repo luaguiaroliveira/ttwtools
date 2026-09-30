@@ -63,6 +63,11 @@ def battery(p):
         "tag_tags": query.tag_counts(p, C, field="tags"),
         "feature_table": features.feature_table(p, C, tool).sort_values("filename").reset_index(drop=True).to_dict("list"),
     }
+    out["corpora"] = ttwtools.list_corpora(p)            # o que a interface pede ao abrir: campos de cada camada
+    other = "essays_bawe_somentetexto_5"
+    for unit in ("form", "lemma", "pos", "word_pos", "ngram"):
+        out[f"kw_{unit}"] = ttwtools.keywords(p, C, other, unit=unit, min_freq=1, top=50, save=False)
+    out["bands"] = ttwtools.frequency_bands(p, C, other, unit="form")
     for t in sorted({l["tool"] for l in p.list_layers(C)}):        # cada ferramenta: camadas com e sem lema, etiquetas, etc.
         out[f"tags_{t}"] = {f: query.tag_counts(p, C, layer=t, field=f) for f in ("upos", "xpos", "tags")}
         out[f"disp_{t}"] = query.dispersion(p, C, "the", layer=t)
@@ -70,6 +75,8 @@ def battery(p):
             features._TABLES.clear()
             out[f"ft_{t}_{f}"] = features.feature_table(p, C, t, f, per1000=True).sort_values("filename").reset_index(drop=True).to_dict("list")
         features._TABLES.clear()
+        two = {**query._select_layers(p, C, t, None), **query._select_layers(p, other, t, None)}     # dois corpora (KFA)
+        out[f"ft_{t}_auto2"] = features.resolve_feature(p, two, None)
         out[f"ft_{t}_auto"] = features.resolve_feature(p, query._select_layers(p, C, t, None), None)
         out[f"doc_{t}"] = query.read_document(p, C, doc, layer=t)
     return out
