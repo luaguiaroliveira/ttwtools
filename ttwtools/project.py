@@ -667,6 +667,15 @@ def _now_iso() -> str:
 # API pública
 # ---------------------------------------------------------------------------
 
+# Quem controla "não salvo" por fora do objeto (o aplicativo compara o arquivo de trabalho com o último gravado)
+# registra aqui (entrar, sair): `entrar()` roda antes de gravar um resultado derivado e devolve uma marca que
+# `sair(marca)` recebe depois. Ver `TTWAProject._derived`.
+DERIVED_HOOKS: "list[tuple[Callable[[], object], Callable[[object], None]]]" = []
+
+
+CLOSE_HOOKS: "list[Callable[[], None]]" = []          # rodam depois de fechar uma conexão (ver app/state.py)
+
+
 class TTWAProject:
     """
     Representa um projeto ttwtools persistido em um arquivo .ttwa.
@@ -817,6 +826,23 @@ class TTWAProject:
         con.commit()
         return len(rows)
 
+    def _derived(self):
+        """Contexto para gravar resultado derivado (KFA, tabelas de features): entra no arquivo na próxima gravação,
+        mas não conta como alteração a salvar (o selo "não salvo" só reflete mudanças de conteúdo)."""
+        from contextlib import contextmanager
+
+        @contextmanager
+        def cm():
+            before = self._con.total_changes
+            tokens = [enter() for enter, _ in DERIVED_HOOKS]
+            try:
+                yield
+            finally:
+                self._saved_changes += self._con.total_changes - before
+                for (_, leave), tok in zip(DERIVED_HOOKS, tokens):
+                    leave(tok)
+        return cm()
+
     @property
     def unsaved(self) -> bool:
         """Cópia de trabalho com alterações ainda não gravadas em `home`."""
@@ -933,6 +959,8 @@ class TTWAProject:
                 self.save()
             self._con.close()
             self._con = None
+            for hook in CLOSE_HOOKS:                 # o checkpoint do WAL ao fechar muda o arquivo: quem mede "não salvo" reavalia
+                hook()
         if self._workdir:
             import shutil
             shutil.rmtree(self._workdir, ignore_errors=True)
@@ -1262,15 +1290,16 @@ class TTWAProject:
             raise ValueError("table_type deve ser 'rawcount' ou 'norm1000'.")
         data_json = df.to_json(orient="records", force_ascii=False)
         cfg_json = json.dumps(tagger_config or {})
-        self._con.execute(
-            "INSERT INTO feature_tables"
-            " (corpus_name, table_type, tagger_type, tagger_config, data)"
-            " VALUES (?, ?, ?, ?, ?)"
-            " ON CONFLICT(corpus_name, table_type, tagger_type)"
-            " DO UPDATE SET data=excluded.data, tagger_config=excluded.tagger_config",
-            (corpus_name, table_type, tagger_type, cfg_json, data_json),
-        )
-        self._con.commit()
+        with self._derived():
+            self._con.execute(
+                "INSERT INTO feature_tables"
+                " (corpus_name, table_type, tagger_type, tagger_config, data)"
+                " VALUES (?, ?, ?, ?, ?)"
+                " ON CONFLICT(corpus_name, table_type, tagger_type)"
+                " DO UPDATE SET data=excluded.data, tagger_config=excluded.tagger_config",
+                (corpus_name, table_type, tagger_type, cfg_json, data_json),
+            )
+            self._con.commit()
         print(
             f"  + Feature table '{table_type}' [{tagger_type}] salva para"
             f" corpus '{corpus_name}' ({len(df)} docs)."
@@ -1347,15 +1376,16 @@ class TTWAProject:
         import json as _json
         data_json = df.to_json(orient="records", force_ascii=False)
         features_json = _json.dumps(features_meta or [])
-        self._con.execute(
-            """INSERT INTO kfa_results
-               (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric, features_meta, data, created_at)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-               ON CONFLICT(corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric)
-               DO UPDATE SET data=excluded.data, features_meta=excluded.features_meta, created_at=excluded.created_at""",
-            (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric, features_json, data_json, _now_iso()),
-        )
-        self._con.commit()
+        with self._derived():
+            self._con.execute(
+                """INSERT INTO kfa_results
+                   (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric, features_meta, data, created_at)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                   ON CONFLICT(corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric)
+                   DO UPDATE SET data=excluded.data, features_meta=excluded.features_meta, created_at=excluded.created_at""",
+                (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric, features_json, data_json, _now_iso()),
+            )
+            self._con.commit()
         print(
             f"  + KFA salva: '{corpus1_name}' vs '{corpus2_name}'"
             f" | tagger={tagger_type} | analysis={analysis_name} | metric={metric} | d>={min_effect} | {join_method} | {len(df)} features."
@@ -1633,12 +1663,13 @@ class TTWAProject:
     def save_analysis(self, type: str, result, params: dict | None = None,
                       layer_refs: list[int] | None = None, name: str = "") -> int:
         """Guarda o resultado de uma análise (JSON) com parâmetros e camadas usadas."""
-        cur = self._con.execute(
-            "INSERT INTO analyses (type, name, params, layer_refs, result, created_at) VALUES (?, ?, ?, ?, ?, ?)",
-            (type, name, json.dumps(params or {}, ensure_ascii=False, sort_keys=True),
-             json.dumps(layer_refs or []), json.dumps(result, ensure_ascii=False, default=str), _now_iso()),
-        )
-        self._con.commit()
+        with self._derived():
+            cur = self._con.execute(
+                "INSERT INTO analyses (type, name, params, layer_refs, result, created_at) VALUES (?, ?, ?, ?, ?, ?)",
+                (type, name, json.dumps(params or {}, ensure_ascii=False, sort_keys=True),
+                 json.dumps(layer_refs or []), json.dumps(result, ensure_ascii=False, default=str), _now_iso()),
+            )
+            self._con.commit()
         return cur.lastrowid
 
     @staticmethod
@@ -2083,6 +2114,7 @@ class LayerStore:
         self.fmt = fmt or _layerfmt.default_format()
         self._lex: dict[str, _layerfmt.Lexicon] = {}
         self._corpus: dict[int, str] = {}
+        self._print: dict[str, str] = {}
 
     def corpus_of(self, layer_id: int) -> str:
         c = self._corpus.get(layer_id)
@@ -2136,6 +2168,9 @@ class LayerStore:
     def fingerprint(self, layer_id: int) -> str:
         """Identifica o léxico do corpus da camada (entra na chave do índice em cache dos blobs `TCL2`)."""
         corpus = self.corpus_of(layer_id)
+        cached = self._print.get(corpus)
+        if cached is not None:
+            return cached
         h = hashlib.sha256(corpus.encode())
         try:
             for col, part, data in self.con.execute(f"SELECT col, part, data FROM {self.schema}.lexicon_parts"
@@ -2144,7 +2179,8 @@ class LayerStore:
                 h.update(hashlib.sha256(data).digest())
         except sqlite3.OperationalError:
             pass
-        return h.hexdigest()[:16]
+        self._print[corpus] = h.hexdigest()[:16]
+        return self._print[corpus]
 
 
 def _layer_rows(con: sqlite3.Connection, layer_id: int) -> list[tuple] | None:

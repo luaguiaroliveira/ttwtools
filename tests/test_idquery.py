@@ -43,6 +43,9 @@ def paired(tmp_path_factory):
         for node in ("the", "lemma=be", "of the", "pos=NOUN"):
             for unit in ("form", "lemma", "pos", "word_pos"):
                 calls.append(("collocates", None, dict(corpus=corpus, node=node, unit=unit, layer=layer, min_freq=1, top=40)))
+        for node in ("the", "lemma=be", "of the"):
+            for coll in ("of", "to", "a", "be"):
+                calls.append(("collocate_examples", None, dict(corpus=corpus, node=node, collocate=coll, layer=layer, limit=6, offset=1)))
     def run(proj):
         out = []
         for kind, _, kw in calls:
@@ -81,3 +84,22 @@ def test_ids_path_off_switch(paired, monkeypatch):
     calls, sql, run, p = paired
     monkeypatch.setenv("TTWTOOLS_ID_QUERIES", "0")
     assert idquery.available(p, {1: {"corpus_name": "x"}}) is None
+
+
+def test_collocate_examples_match_the_collocates_table(tmp_path):
+    """Os exemplos de um colocado somam exatamente a frequência que a tabela de colocados mostra."""
+    dest = tmp_path / "v2.ttwa"
+    shutil.copy(V2_FIXTURE, dest)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        p = ttwtools.open_project(dest)
+    corpus = p.list_corpus_names()[0]
+    tab = query.collocates(p, corpus, "the", (5, 5), "form", "spacy", None, 1, 30)
+    assert tab["rows"]
+    for r in tab["rows"][:8]:
+        ex = query.collocate_examples(p, corpus, "the", r["collocate"], (5, 5), "form", "spacy", None, limit=100000)
+        n_hits = sum(c["hit"] for l in ex["lines"] for c in l["left"] + l["right"])
+        assert not ex["capped"] and ex["total"] == len(ex["lines"]) and n_hits == r["freq"], (r["collocate"], n_hits, r["freq"])
+        assert all(l["node"] and all(c["w"].lower() == "the" for c in l["node"]) for l in ex["lines"])
+        assert all(c["hit"] is False or c["w"].lower() == r["collocate"] for l in ex["lines"] for c in l["left"] + l["right"])
+    p.close()

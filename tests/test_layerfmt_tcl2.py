@@ -122,3 +122,17 @@ def test_export_from_tcl1_light_file_converts_to_tcl2(real, tmp_path, monkeypatc
     assert blobs and all(layerfmt.is_tcl2(b) for b in blobs)
     with ttwtools.open_project(new) as q:
         assert _tokens(q) == expected
+
+
+def test_saving_derived_results_does_not_mark_the_project_unsaved(tmp_path):
+    import pandas as pd
+    p = ttwtools.create_project(tmp_path / "t.ttwa")
+    p._saved_changes = p._con.total_changes
+    p.save_kfa_result("c1", "c2", pd.DataFrame({"Feature": ["a"], "Effect_Size": [0.5]}), 0.2)
+    p.save_analysis("describe", {"x": 1}, name="c1")
+    p.save_feature_table("c1", pd.DataFrame({"x": [1]}), "norm1000", "spacy")
+    assert p._con.execute("SELECT COUNT(*) FROM kfa_results").fetchone()[0] == 1                 # gravou de fato
+    assert p._con.total_changes == p._saved_changes                                              # e não sujou
+    p._con.execute("INSERT INTO project_meta (key, value) VALUES ('x', '1') ON CONFLICT(key) DO UPDATE SET value='1'")
+    assert p._con.total_changes > p._saved_changes                                               # mudança real continua contando
+    p.close()

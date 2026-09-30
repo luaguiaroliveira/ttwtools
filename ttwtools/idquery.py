@@ -590,3 +590,14 @@ def collocates(store: IdStore, sel: dict[int, dict], node: str, window: tuple[in
     out.sort(key=lambda r: (r[k] is None, -(r[k] or 0)))
     return {"node": node, "node_freq": node_freq, "corpus_words": total_words, "window": [left, right],
             "unit": unit, "rows": out[:top]}
+
+
+def hits(store: IdStore, sel: dict[int, dict], node: str) -> "tuple[list[tuple[int, int, int]], int]":
+    """Ocorrências da consulta como (camada, documento, idx), em ordem de documento e posição, e o tamanho da sequência."""
+    s = Selection(store, sel)
+    pos, n = find(s, node)
+    lay, idx = s.lay[pos], s.idx[pos].astype(np.int64)
+    doc_id = np.array([d["id"] for d in s.docs], dtype=np.int64)[lay] if len(pos) else np.zeros(0, np.int64)
+    order = np.lexsort((idx, doc_id))
+    ids = np.array(s.layer_ids, dtype=np.int64)
+    return [(int(ids[lay[i]]), int(doc_id[i]), int(idx[i])) for i in order], n

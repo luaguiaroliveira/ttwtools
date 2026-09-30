@@ -848,6 +848,17 @@ Módulo `ttwtools.query`.
 
 query.py — Busca, KWIC, frequência, colocados e dispersão sobre a tabela `tokens`.
 
+### `collocate_examples` · **`ttwtools.collocate_examples`**
+
+```python
+collocate_examples(project: 'TTWAProject', corpus_name: 'str', node: 'str', collocate: 'str | None', window: 'tuple[int, int]' = (5, 5), unit: 'str' = 'form', layer: 'str | None' = None, where: 'Mapping | None' = None, limit: 'int' = 20, offset: 'int' = 0, scan: 'int' = 5000) -> 'dict'
+```
+
+Ocorrências do nó que têm `collocate` dentro da janela (as mesmas de `collocates`), para conferir na prática.
+Cada linha traz `left`, `node` e `right`: listas de {"w": palavra, "hit": True se é o colocado}; a janela conta
+palavras (sem pontuação), mas a pontuação aparece no texto. Paginada (`limit`/`offset`); olha no máximo `scan`
+ocorrências do nó (`capped` avisa se houve corte).
+
 ### `collocates` · **`ttwtools.collocates`**
 
 ```python

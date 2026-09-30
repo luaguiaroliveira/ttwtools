@@ -641,6 +641,23 @@ def _cmd_collocates(args):
     return EXIT_OK
 
 
+def _cmd_collocate_examples(args):
+    from .corpus import parse_where
+    from .query import collocate_examples
+    with _open_or_create(args.project, create=False) as proj:
+        r = collocate_examples(proj, args.corpus, args.query, args.collocate, (args.left, args.right), args.unit, args.layer,
+                               parse_where(args.where or []), args.limit, args.offset)
+    if args.format == "json":
+        emit(r, "json")
+    else:
+        rows = [{"filename": l["filename"], "idx": l["idx"],
+                 "left": " ".join(("[" + c["w"] + "]") if c["hit"] else c["w"] for c in l["left"]),
+                 "node": " ".join(c["w"] for c in l["node"]),
+                 "right": " ".join(("[" + c["w"] + "]") if c["hit"] else c["w"] for c in l["right"])} for l in r["lines"]]
+        emit(rows, args.format, columns=["filename", "idx", "left", "node", "right"])
+    return EXIT_OK
+
+
 def _cmd_dispersion(args):
     from .corpus import parse_where
     from .query import dispersion
@@ -687,6 +704,16 @@ def _configure_collocates(p):
     p.add_argument("--min-freq", type=int, default=2)
     p.add_argument("--top", type=int, default=30)
     p.add_argument("--sort", choices=["ll", "mi", "t", "freq"], default="ll")
+
+
+def _configure_collocate_examples(p):
+    _query_common(p)
+    p.add_argument("--collocate", required=True, help="o colocado (valor da unidade, como na lista de colocados)")
+    p.add_argument("--left", type=int, default=5)
+    p.add_argument("--right", type=int, default=5)
+    p.add_argument("--unit", choices=["form", "lemma", "word_pos", "pos"], default="form")
+    p.add_argument("--limit", type=int, default=20)
+    p.add_argument("--offset", type=int, default=0)
 
 
 def _configure_dispersion(p):
@@ -1108,6 +1135,7 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
     "kwic":      ("Concordância (palavra-chave em contexto), paginada", _configure_kwic, _cmd_kwic),
     "freq":      ("Lista de frequência (forma, lema, palavra+classe, classe, n-grama)", _configure_freq, _cmd_freq),
     "collocates": ("Colocados com log-likelihood, MI, T-score e frequência", _configure_collocates, _cmd_collocates),
+    "collocate-examples": ("Ocorrências do nó com um colocado na janela (exemplos de um colocado)", _configure_collocate_examples, _cmd_collocate_examples),
     "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
     "tag-counts": ("Ocorrências de cada etiqueta no corpus todo (upos, xpos ou tags)", _configure_tag_counts, _cmd_tag_counts),
     "compare":   ("KFA (d de Cohen por traço) entre dois corpora ou grupos, a partir das camadas",

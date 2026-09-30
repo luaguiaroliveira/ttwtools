@@ -105,6 +105,7 @@ _EXPORTS = {
     "kwic": "query",
     "frequency": "query",
     "collocates": "query",
+    "collocate_examples": "query",
     "dispersion": "query",
     "read_document": "query",
     "tag_counts": "query",
