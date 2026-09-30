@@ -1,5 +1,9 @@
 """layerfmt.py — Formato colunar das camadas empacotadas (`layer_blobs`), versão `TCL1`.
 
+`TCL` = *TTWtools Columnar Layer*: nome próprio deste projeto (não é um formato ou pacote externo, nem tem
+relação com a linguagem Tcl). `TCL1` é também o código de 4 bytes que abre cada blob; mantido por
+compatibilidade com os arquivos já gravados.
+
 Cada camada vira uma tabela de colunas, em vez de uma lista JSON de linhas:
 
     blob = layerfmt.encode(rows)      # rows: linhas de `tokens` (start, end, word, lemma, upos, xpos, feats, tags, extra)
