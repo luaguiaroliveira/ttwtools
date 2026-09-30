@@ -40,6 +40,24 @@ checkpoint(path: "'str | Path'") -> 'None'
 
 Consolida o WAL no arquivo principal do projeto (antes de copiar ou compactar).
 
+### `compact_project` · **`ttwtools.compact_project`**
+
+```python
+compact_project(project: 'TTWAProject', dry_run: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'dict'
+```
+
+Remove de `tagged_files` (cópia legada da saída dos etiquetadores) o que já está nas camadas.
+
+Uma linha só é apagada quando existe camada equivalente: mesmo documento, mesma ferramenta,
+versão, modelo e configuração, e tokens iguais **token a token** aos do JSONL. O que não
+puder ser provado equivalente (TSV antigo, sem camada, tokens diferentes) fica, com o motivo.
+Com dry_run=True (padrão) nada é alterado. Sem dry_run, grava e roda `VACUUM` no fim (o
+arquivo pode chegar a ocupar o dobro do espaço durante essa etapa).
+
+Devolve {"dry_run", "removed": [...], "kept": [{..., "reason"}], "n_removed", "n_kept",
+"bytes_freed" (conteúdo das linhas), "size_before", "size_after" (arquivo; só sem dry_run)}.
+`progress(feitos, total, etapa)` com etapa "check" ou "vacuum".
+
 ### `compress_project_file`
 
 ```python

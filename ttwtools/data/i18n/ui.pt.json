@@ -724,5 +724,19 @@
  "writing.examples_hint": "Clique num resultado para ver exemplos no texto e no corpus, com as classes coloridas.",
  "writing.chart_title": "O que mais se distancia (log ratio)",
  "writing.chart_hint": "Positivo: mais no seu texto; negativo: menos. É a distância ao padrão da referência (z). Clique num item para ver exemplos.",
- "writing.reference_not_corpus": "Só há exemplos do seu texto (a referência não é um corpus do projeto)."
+ "writing.reference_not_corpus": "Só há exemplos do seu texto (a referência não é um corpus do projeto).",
+ "job.stage.check": "Conferindo cada cópia antiga com as camadas",
+ "job.stage.vacuum": "Reduzindo o arquivo (pode usar temporariamente o dobro do espaço)",
+ "project.compact": "Compactar projeto (remover cópias antigas)",
+ "project.compact_explain": "Projetos antigos guardam, além das camadas, uma cópia da saída de cada etiquetador. Esta opção confere cópia por cópia, palavra por palavra, e só apaga a que já está nas camadas; o que não puder ser provado igual fica. Buscas e resultados não mudam. Durante a etapa final o arquivo pode ocupar temporariamente o dobro do espaço.",
+ "project.compact_result": "{n} cópia(s) antiga(s) podem ser removidas (cerca de {mb} MB); {kept} ficam.",
+ "project.compact_none": "Nada a remover: o projeto já está compacto ({kept} cópia(s) mantida(s)).",
+ "project.compact_confirm": "Remover agora",
+ "project.compact_done": "Projeto compactado: {n} cópia(s) removida(s); o arquivo foi de {before} MB para {after} MB.",
+ "project.compact_kept": "Mantidas por: {reasons}",
+ "project.compact_reason.not_jsonl": "formato antigo (TSV)",
+ "project.compact_reason.no_document": "sem documento",
+ "project.compact_reason.no_layer": "sem camada equivalente",
+ "project.compact_reason.tokens_differ": "tokens diferentes",
+ "project.compact_title": "Compactando o projeto"
 }

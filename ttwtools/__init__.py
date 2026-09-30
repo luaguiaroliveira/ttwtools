@@ -70,6 +70,7 @@ _EXPORTS = {
     "relink_corpus": "project",
     "embed_corpus": "project",
     "detach_corpus": "project",
+    "compact_project": "project",
     # corpus: importação, metadados, tokenização simples, filtros
     "import_corpus": "corpus",
     "preview_filenames": "corpus",
@@ -156,6 +157,7 @@ if TYPE_CHECKING:  # para editores e verificadores de tipo
         TTWA_EXTENSION, TTWA_MIME_TYPE, TTWA_MODE_COMPACT, TTWA_MODE_FULL,
         TTWAProject, create_project, open_project, save_analysis_to_project,
         TTWAL_EXTENSION, TTWAL_EXTENSION, TTWL_EXTENSION, detach_corpus, embed_corpus, export_corpus_next_to, relink_corpus,
+        compact_project,
     )
     from .corpus import (  # noqa: F401
         TokenizerConfig, filter_documents, get_document_meta, import_corpus, list_groups,

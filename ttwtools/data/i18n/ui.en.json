@@ -724,5 +724,19 @@
  "writing.examples_hint": "Click a result to see examples in the text and the corpus, with classes coloured.",
  "writing.chart_title": "What stands out most (log ratio)",
  "writing.chart_hint": "Positive: more in your text; negative: less. Distance from the reference pattern (z). Click an item to see examples.",
- "writing.reference_not_corpus": "Only examples from your text (the reference is not a project corpus)."
+ "writing.reference_not_corpus": "Only examples from your text (the reference is not a project corpus).",
+ "job.stage.check": "Checking each old copy against the layers",
+ "job.stage.vacuum": "Shrinking the file (may temporarily use twice the space)",
+ "project.compact": "Compact project (remove old copies)",
+ "project.compact_explain": "Older projects keep, besides the layers, a copy of each tagger's output. This option checks copy by copy, token by token, and only deletes what is already in the layers; anything that cannot be proven identical stays. Searches and results do not change. During the final step the file may temporarily take twice the space.",
+ "project.compact_result": "{n} old copy(ies) can be removed (about {mb} MB); {kept} stay.",
+ "project.compact_none": "Nothing to remove: the project is already compact ({kept} copy(ies) kept).",
+ "project.compact_confirm": "Remove now",
+ "project.compact_done": "Project compacted: {n} copy(ies) removed; the file went from {before} MB to {after} MB.",
+ "project.compact_kept": "Kept because: {reasons}",
+ "project.compact_reason.not_jsonl": "old format (TSV)",
+ "project.compact_reason.no_document": "no document",
+ "project.compact_reason.no_layer": "no equivalent layer",
+ "project.compact_reason.tokens_differ": "different tokens",
+ "project.compact_title": "Compacting the project"
 }

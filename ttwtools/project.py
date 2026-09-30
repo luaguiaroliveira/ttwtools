@@ -1975,6 +1975,112 @@ def save_corpora_as(
     return _save_corpora_subset(project, list(dict.fromkeys(corpus_names)), dest, False, progress_cb, compress, search_tables, progress)
 
 
+def _layer_rows(con: sqlite3.Connection, layer_id: int) -> list[tuple] | None:
+    """Linhas de tokens de uma camada (mesma ordem de `layers.token_row`), da tabela `tokens` ou,
+    no arquivo salvo sem tabelas de busca, de `layer_blobs`. None se a camada não tem nenhum dos dois."""
+    cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
+    rows = con.execute(f"SELECT {cols} FROM tokens WHERE layer_id = ? ORDER BY idx", (layer_id,)).fetchall()
+    if rows:
+        return [tuple(r) for r in rows]
+    blob = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (layer_id,)).fetchone()
+    if blob is None:
+        return []
+    return [tuple(t) for t in json.loads(zlib.decompress(blob[0]).decode("utf-8"))]
+
+
+def compact_project(project: TTWAProject, dry_run: bool = True,
+                    progress: "Optional[Callable[[int, int, str], None]]" = None) -> dict:
+    """Remove de `tagged_files` (cópia legada da saída dos etiquetadores) o que já está nas camadas.
+
+    Uma linha só é apagada quando existe camada equivalente: mesmo documento, mesma ferramenta,
+    versão, modelo e configuração, e tokens iguais **token a token** aos do JSONL. O que não
+    puder ser provado equivalente (TSV antigo, sem camada, tokens diferentes) fica, com o motivo.
+    Com dry_run=True (padrão) nada é alterado. Sem dry_run, grava e roda `VACUUM` no fim (o
+    arquivo pode chegar a ocupar o dobro do espaço durante essa etapa).
+
+    Devolve {"dry_run", "removed": [...], "kept": [{..., "reason"}], "n_removed", "n_kept",
+    "bytes_freed" (conteúdo das linhas), "size_before", "size_after" (arquivo; só sem dry_run)}.
+    `progress(feitos, total, etapa)` com etapa "check" ou "vacuum"."""
+    con = project._con
+    ids = [r[0] for r in con.execute("SELECT id FROM tagged_files ORDER BY id")]
+    removed: list[dict] = []
+    kept: list[dict] = []
+    freed = 0
+    for n, tid in enumerate(ids, 1):
+        row = con.execute("SELECT corpus_name, filename, tagger_type, content, encoding FROM tagged_files WHERE id = ?",
+                          (tid,)).fetchone()
+        item = {"corpus": row["corpus_name"], "filename": row["filename"], "tagger": row["tagger_type"]}
+        reason = _equivalent_layer_reason(con, row)
+        if reason is None:
+            removed.append(item)
+            freed += len(row["content"])
+            if not dry_run:
+                con.execute("DELETE FROM tagged_files WHERE id = ?", (tid,))
+        else:
+            kept.append({**item, "reason": reason})
+        if progress and (n % 50 == 0 or n == len(ids)):
+            progress(n, len(ids), "check")
+    report = {"dry_run": dry_run, "removed": removed, "kept": kept, "n_removed": len(removed),
+              "n_kept": len(kept), "bytes_freed": freed}
+    if not dry_run:
+        con.commit()
+        con.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+        report["size_before"] = _db_size(project.path)
+        if removed:
+            if progress:
+                progress(0, 1, "vacuum")
+            con.execute("VACUUM")
+            con.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+            report["size_after"] = _db_size(project.path)
+            if progress:
+                progress(1, 1, "vacuum")
+        else:
+            report["size_after"] = report["size_before"]
+    return report
+
+
+def _db_size(path: Path) -> int:
+    """Tamanho do arquivo do banco (com o WAL, se houver)."""
+    return sum(p.stat().st_size for p in (path, Path(str(path) + "-wal")) if p.exists())
+
+
+def _equivalent_layer_reason(con: sqlite3.Connection, row) -> str | None:
+    """None se a linha de `tagged_files` tem camada equivalente; senão o motivo (código curto)."""
+    parsed = _layers.parse_tagged_jsonl(_decode_content(row["content"], row["encoding"]))
+    if parsed is None:
+        return "not_jsonl"
+    meta, tokens = parsed
+    info = _layers.layer_info(meta)
+    doc = con.execute("SELECT id FROM documents WHERE corpus_name = ? AND filename = ?",
+                      (row["corpus_name"], meta.get("filename") or row["filename"])).fetchone()
+    if doc is None:
+        return "no_document"
+    layer = con.execute(
+        "SELECT id FROM layers WHERE doc_id = ? AND tool = ? AND tool_version = ? AND model = ? AND config_hash = ?",
+        (doc["id"], row["tagger_type"], info["tool_version"], info["model"], info["config_hash"])).fetchone()
+    if layer is None:
+        return "no_layer"
+    if not _same_token_rows([_layers.token_row(t) for t in tokens], _layer_rows(con, layer["id"])):
+        return "tokens_differ"
+    return None
+
+
+def _same_token_rows(file_rows: list[tuple], layer_rows: list[tuple]) -> bool:
+    """Tokens iguais um a um. Única tolerância: `tags` (coluna 7) do arquivo pode ser `[upos]` ou `[xpos]`
+    do próprio token da camada. Stanza e spaCy têm um arquivo para UPOS e outro para XPOS, mas uma camada
+    só, cuja `tags` guarda a de um deles; o outro tem a mesma informação nas colunas `upos` e `xpos`."""
+    if file_rows == layer_rows:
+        return True
+    if len(file_rows) != len(layer_rows):
+        return False
+    for a, b in zip(file_rows, layer_rows):
+        if a == b:
+            continue
+        if a[:7] != b[:7] or a[8] != b[8] or a[7] not in tuple(json.dumps([v], ensure_ascii=False) for v in b[4:6] if v):
+            return False
+    return True
+
+
 def make_workdir(prefix: str = "ttw_work_") -> Path:
     """Pasta temporária com um arquivo `owner.pid` (o processo dono). Se o processo morrer sem limpar,
     `purge_orphan_workdirs()` reconhece a pasta como abandonada (sem esperar horas)."""

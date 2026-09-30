@@ -138,6 +138,32 @@ def _import_format(args: argparse.Namespace) -> str:
     return {".conllu": "conllu", ".conll": "conllu"}.get(suffix, "txt")
 
 
+def _cmd_compact(args: argparse.Namespace) -> int:
+    from .project import compact_project
+    with _open_or_create(args.project, create=False) as proj:
+        report = compact_project(proj, dry_run=args.dry_run,
+                                 progress=None if args.format != "table" else
+                                 lambda d, t, s: print(f"\r  {s}: {d}/{t}", end="", file=sys.stderr))
+        if args.format == "table":
+            print(file=sys.stderr)
+        if not args.dry_run and proj.is_working_copy and report["n_removed"]:
+            proj.save()             # arquivo compactado (.ttwt): grava a cópia de trabalho de volta
+    out = {"simulação": args.dry_run, "removidos": report["n_removed"], "mantidos": report["n_kept"],
+           "mb_liberados": round(report["bytes_freed"] / 1e6, 1)}
+    if "size_after" in report:
+        out["tamanho_antes_mb"] = round(report["size_before"] / 1e6, 1)
+        out["tamanho_depois_mb"] = round(report["size_after"] / 1e6, 1)
+    if report["kept"]:
+        out["motivos"] = {r: sum(1 for k in report["kept"] if k["reason"] == r) for r in sorted({k["reason"] for k in report["kept"]})}
+    emit(out, args.format)
+    return EXIT_OK
+
+
+def _configure_compact(p: argparse.ArgumentParser) -> None:
+    p.add_argument("project", help="arquivo .ttwa, .ttwl ou .ttwt")
+    p.add_argument("--dry-run", action="store_true", help="só mostra o que seria removido, sem alterar o arquivo")
+
+
 def _cmd_import(args: argparse.Namespace) -> int:
     from .corpus import TokenizerConfig, import_corpus
     fmt = _import_format(args) if args.source != "-" else "txt"
@@ -1013,6 +1039,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_import, _cmd_import),
     "save-as":   ("Salva o projeto em outro arquivo (compactado por padrão; --no-compress para o banco direto)",
                   _configure_save_as, _cmd_save_as),
+    "compact":   ("Remove do projeto as cópias antigas das etiquetagens (tagged_files) já presentes nas camadas",
+                  _configure_compact, _cmd_compact),
     "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela",
                   _configure_pipeline, _cmd_pipeline),
     "names":     ("Mostra como os nomes dos arquivos de uma pasta viram metadados (sem importar)",
