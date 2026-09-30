@@ -10,7 +10,7 @@ from pathlib import Path
 import pytest
 
 import ttwtools
-from ttwtools import features, query, storage
+from ttwtools import features, layerfmt, query, storage
 from ttwtools.project import save_project_as
 
 V2 = Path(__file__).parent / "data" / "v2_small.ttwa"
@@ -200,12 +200,24 @@ def test_on_demand_build_reports_progress_through_index_progress(pair):
         full.close()
 
 
-def test_tcl1_file_builds_the_index_on_first_read_and_matches(pair, tmp_path, monkeypatch):
-    full, _ = pair
+def _make_tcl1(src, dest):
+    """Arquivo de antes do TCL2: os mesmos blobs regravados em TCL1 (salvar já não grava TCL1)."""
+    from ttwtools.project import LayerStore
+    shutil.copy(src, dest)
+    con = sqlite3.connect(dest)
+    store = LayerStore(con)
+    for lid, data in con.execute("SELECT layer_id, data FROM layer_blobs").fetchall():
+        con.execute("UPDATE layer_blobs SET data = ? WHERE layer_id = ?", (layerfmt.encode(store.unpack(lid, data)), lid))
+    con.execute("DELETE FROM lexicon_parts")
+    con.commit()
+    con.close()
+    return dest
+
+
+def test_tcl1_file_builds_the_index_on_first_read_and_matches(pair, tmp_path):
+    full, lean = pair
     want = battery(full)
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
-    lean1 = save_project_as(full.path, tmp_path / "lean1.ttwa", search_tables=False, compress=False)
-    monkeypatch.delenv("TTWTOOLS_LAYER_FORMAT")
+    lean1 = _make_tcl1(lean, tmp_path / "lean1.ttwa")
     q = _open(lean1)
     try:
         assert q.index_pending
@@ -213,4 +225,24 @@ def test_tcl1_file_builds_the_index_on_first_read_and_matches(pair, tmp_path, mo
         assert not q.index_pending             # TCL1 não tem ids: a primeira leitura montou o índice
     finally:
         q.close()
+        full.close()
+
+
+def test_saving_a_tcl1_file_converts_its_layers_to_tcl2(pair, tmp_path):
+    full, lean = pair
+    lean1 = _make_tcl1(lean, tmp_path / "lean1.ttwa")
+    magics = lambda path: {bytes(r[0]) for r in sqlite3.connect(path).execute("SELECT substr(data, 1, 4) FROM layer_blobs")}
+    assert magics(lean1) == {b"TCL1"}
+    q = _open(lean1)
+    try:
+        out = save_project_as(q.path, tmp_path / "salvo.ttwa", search_tables=False, compress=False)
+    finally:
+        q.close()
+    assert magics(out) == {b"TCL2"}
+    r = _open(out)
+    try:
+        assert battery(r) == battery(full)
+        assert r.index_pending                 # agora com ids: nada de índice
+    finally:
+        r.close()
         full.close()

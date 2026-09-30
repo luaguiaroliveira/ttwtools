@@ -77,7 +77,7 @@ def test_real_layers_roundtrip_token_by_token(real):
 
 @pytest.mark.parametrize("fmt", ["tcl1", "tcl2"])
 def test_pack_and_rebuild_use_the_new_format_and_keep_everything(real, tmp_path, monkeypatch, fmt):
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", fmt)          # o padrão é tcl2; tcl1 ainda grava e lê
+    monkeypatch.setattr(layerfmt, "default_format", lambda: fmt)          # o padrão é tcl2; tcl1 ainda grava e lê
     before = {l["id"]: real.get_tokens(l["id"]) for l in real.list_layers()}
     real.pack_search_tables()
     blobs = [r[0] for r in real._con.execute("SELECT data FROM layer_blobs")]

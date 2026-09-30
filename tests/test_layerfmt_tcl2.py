@@ -61,7 +61,7 @@ def _tokens(p):
 
 
 def test_pack_rebuild_and_light_export_in_tcl2(real, tmp_path, monkeypatch):
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl2")
+    monkeypatch.setattr(layerfmt, "default_format", lambda: "tcl2")
     before = _tokens(real)
     real.pack_search_tables()
     blobs = [r[0] for r in real._con.execute("SELECT data FROM layer_blobs")]
@@ -84,7 +84,7 @@ def test_pack_rebuild_and_light_export_in_tcl2(real, tmp_path, monkeypatch):
     with ttwtools.open_project(out) as q:
         got = _tokens(q)
     assert {k: got[k] for k in got if k in keep} == {k: keep[k] for k in got if k in keep} and got
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
+    monkeypatch.setattr(layerfmt, "default_format", lambda: "tcl1")
     with ttwtools.open_project(out) as q:
         out1 = save_corpus_as(q, corpus, tmp_path / "volta.ttwcl", compress=False)
     with ttwtools.open_project(out1) as q:
@@ -93,26 +93,24 @@ def test_pack_rebuild_and_light_export_in_tcl2(real, tmp_path, monkeypatch):
 
 
 def test_tcl2_file_smaller_than_tcl1(real, tmp_path, monkeypatch):
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
+    monkeypatch.setattr(layerfmt, "default_format", lambda: "tcl1")
     a = save_project_as(real.path, tmp_path / "a.ttwa", compress=False, search_tables=False)
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl2")
+    monkeypatch.setattr(layerfmt, "default_format", lambda: "tcl2")
     b = save_project_as(real.path, tmp_path / "b.ttwa", compress=False, search_tables=False)
     assert b.stat().st_size < a.stat().st_size * 1.1                        # projeto pequeno: só não pode ser muito pior
 
 
-def test_tcl2_is_the_default_and_tcl1_can_be_forced(monkeypatch):
-    monkeypatch.delenv("TTWTOOLS_LAYER_FORMAT", raising=False)
+def test_tcl2_is_the_only_format_written(monkeypatch):
+    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")         # o antigo interruptor não existe mais
     assert layerfmt.default_format() == "tcl2"
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
-    assert layerfmt.default_format() == "tcl1"
 
 
 def test_export_from_tcl1_light_file_converts_to_tcl2(real, tmp_path, monkeypatch):
     import sqlite3
-    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
+    monkeypatch.setattr(layerfmt, "default_format", lambda: "tcl1")
     corpus = real.list_corpus_names()[0]
     old = save_corpus_as(real, corpus, tmp_path / "antigo.ttwcl", compress=False)
-    monkeypatch.delenv("TTWTOOLS_LAYER_FORMAT")
+    monkeypatch.undo()
     with ttwtools.open_project(old) as q:
         expected = _tokens(q)
         new = save_corpus_as(q, corpus, tmp_path / "novo.ttwcl", compress=False)
@@ -150,3 +148,71 @@ def test_default_feature_is_tags_with_fallback_and_layer_fields(real):
     assert resolve_feature(real, sel, None) in ("tags", "xpos", "upos") and resolve_feature(real, sel, "upos") == "upos"
     assert resolve_feature(real, sel, None) == "tags"                                   # o padrão é tags quando a camada tem
     assert set(feature_table(real, corpus, "spacy", "xpos").columns) - {"filename", "Words", "TTR"}
+
+
+def _legacy_v1(rows, lex):
+    """O TCL2 da primeira versão (posições int32, sem layout v2), para provar que os arquivos de antes ainda abrem."""
+    import struct
+    import zlib
+    from array import array
+    cols = list(zip(*rows))
+    for c in range(2, 9):
+        lex.add(c, [v for v in dict.fromkeys(cols[c]) if v not in lex.index[c]])
+    prev, d = 0, []
+    for v in cols[0]:
+        d.append(v - prev)
+        prev = v
+    chunks = [(4, layerfmt._le(array("i", d))), (4, layerfmt._le(array("i", [e - s for s, e in zip(cols[0], cols[1])])))]
+    for c in range(2, 9):
+        chunks.append((4, layerfmt._le(array("I", [lex.index[c][v] for v in cols[c]]))))
+    out = [layerfmt.MAGIC2, struct.pack("<I", len(rows))]
+    for w, raw in chunks:
+        z = zlib.compress(raw)
+        out += [struct.pack("<BI", w, len(z)), z]
+    return b"".join(out)
+
+
+def test_layout_v2_positions_tags_and_legacy_blobs():
+    import json
+    rows = [(0, 3, "The", "the", "DET", "DT", None, json.dumps(["DT"]), None),
+            (4, 9, "house", "house", "NOUN", "NN", None, json.dumps(["NN"]), None),
+            (9, 10, ".", ".", "PUNCT", ".", None, json.dumps(["."]), None),
+            (12, 12 + 7, "naïve—", "naive", "ADJ", "JJ", None, json.dumps(["JJ"]), None)]     # end != start + len(word)
+    lex = layerfmt.Lexicon()
+    b = layerfmt.encode_tcl2(rows, lex)
+    assert layerfmt.tcl2_layout(b) == 2 and layerfmt.blob_length(b) == 4
+    assert [tuple(r) for r in layerfmt.decode(b, lex)] == rows
+    tags = layerfmt.decode_ids(b, (7,), lex)[7]                            # tags derivadas de xpos, pelos ids do léxico
+    assert [lex.values[7][i] for i in tags] == [r[7] for r in rows]
+    with pytest.raises(ValueError, match="xpos"):
+        layerfmt.decode_ids(b, (7,))
+    old = _legacy_v1(rows, layerfmt.Lexicon())
+    lex1 = layerfmt.Lexicon()
+    old = _legacy_v1(rows, lex1)
+    assert layerfmt.tcl2_layout(old) == 1 and [tuple(r) for r in layerfmt.decode(old, lex1)] == rows
+    assert layerfmt.decode_ids(old, (7,))[7]                               # v1 traz a coluna; não exige léxico
+    # tags que não repetem xpos: a coluna é gravada
+    other = [rows[0][:7] + ('["X"]', None)] + [list(r) for r in rows[1:]]
+    lex2 = layerfmt.Lexicon()
+    b2 = layerfmt.encode_tcl2(other, lex2)
+    assert [list(r) for r in layerfmt.decode(b2, lex2)] == [list(r) for r in other]
+    assert layerfmt.decode_ids(b2, (7,))[7]
+    # fim ausente com início presente; início ausente
+    odd = [(0, None, "a", None, None, None, None, None, None), (5, 6, "b", None, None, None, None, None, None),
+           (None, None, "c", None, None, None, None, None, None), (9, 10, "d", None, None, None, None, None, None)]
+    lex3 = layerfmt.Lexicon()
+    assert [tuple(r) for r in layerfmt.decode(layerfmt.encode_tcl2(odd, lex3), lex3)] == odd
+    with pytest.raises(ValueError):
+        layerfmt.encode_tcl2([(None, 3, "a", None, None, None, None, None, None)], layerfmt.Lexicon())
+
+
+def test_positions_are_tiny_in_layout_v2():
+    text = " ".join(["word"] * 2000)
+    rows, pos = [], 0
+    for _ in range(2000):
+        rows.append((pos, pos + 4, "word", "word", "NOUN", "NN", None, '["NN"]', None))
+        pos += 5
+    lex = layerfmt.Lexicon()
+    b = layerfmt.encode_tcl2(rows, lex)
+    n, ch, _ = layerfmt._chunks2(b)
+    assert len(ch[0][1]) < 100 and len(ch[1][1]) < 100 and ch[7][0] == 0 and len(b) < 400

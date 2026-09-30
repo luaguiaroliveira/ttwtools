@@ -141,7 +141,7 @@ class IdStore:
         key = (layer_id, c)
         a = self._cols.get(key)
         if a is None:
-            arr = layerfmt.decode_ids(self.blob(layer_id), (c,))[c]
+            arr = layerfmt.decode_ids(self.blob(layer_id), (c,), self.lexicon(self.layers.corpus_of(layer_id)))[c]
             a = np.frombuffer(arr, dtype=arr.typecode).astype(np.uint32, copy=False) if len(arr) else np.zeros(0, np.uint32)
             self._cols[key] = a
             self._bytes += a.nbytes

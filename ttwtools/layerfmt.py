@@ -19,7 +19,7 @@ texto (n_dic:u32, dicionário em JSON, largura do índice:u8, índices) ). Littl
 biblioteca padrão. `decode` aceita também o blob antigo (zlib de JSON), para ler arquivos
 antigos para sempre. Um blob só de versão anterior do TTWtools não abre este formato.
 
-`TCL2` (padrão desde 2026-09-30; `TTWTOOLS_LAYER_FORMAT=tcl1` volta a gravar `TCL1`, ver `default_format`): as colunas de texto
+`TCL2` (único formato gravado desde 2026-09-30; `TCL1` e o JSON antigo só são lidos): as colunas de texto
 viram **ids inteiros** de um léxico compartilhado por corpus (`Lexicon`), que só cresce (ids estáveis:
 blobs já gravados continuam válidos quando entram camadas novas). O léxico mora fora do blob (tabela
 `lexicon_parts` do projeto, ver `project.LayerStore`); o blob guarda `b"TCL2"` + n:u32 + 9 colunas, cada uma
@@ -155,10 +155,9 @@ def decode(blob: bytes, lex: "Lexicon | None" = None) -> list[list]:
 # ---------------------------------------------------------------------------
 
 def default_format() -> str:
-    """Formato em que se gravam camadas novas: `tcl2` (padrão) ou `tcl1` (variável TTWTOOLS_LAYER_FORMAT=tcl1,
-    para gerar arquivos que versões anteriores do TTWtools abrem). A leitura aceita sempre os três formatos."""
-    v = os.environ.get("TTWTOOLS_LAYER_FORMAT", "tcl2").strip().lower()
-    return "tcl1" if v == "tcl1" else "tcl2"
+    """Formato em que se gravam camadas: sempre `tcl2` (decidido: salvar só em TCL2). A leitura aceita os três.
+    Os testes trocam esta função para gerar arquivos `TCL1` de antes."""
+    return "tcl2"
 
 
 def is_tcl2(blob: bytes) -> bool:
@@ -195,90 +194,178 @@ class Lexicon:
         self.saved = {c: len(v) - 1 for c, v in self.values.items()}
 
 
+_V2 = 0x80000000                    # bit alto de `n` no cabeçalho: layout v2 (posições relativas, `tags` derivável)
+_NARROW = {1: ("b", -128), 2: ("h", -32768), 4: ("i", _NONE)}     # largura → (tipo, valor de None)
+_TAGS, _XPOS, _WORD = 7, 5, 2
+
+
+def _signed_col(values: Sequence) -> "tuple[int, bytes]":
+    """Inteiros com sinal (ou None) na menor largura que cabe (1, 2 ou 4 bytes); None é o menor valor da largura."""
+    top = 0
+    for v in values:
+        if v is None:
+            continue
+        if type(v) is not int or not -(2 ** 31) < v < 2 ** 31:
+            raise ValueError(f"valor não inteiro numa coluna de posição: {v!r}")
+        top = max(top, abs(v))
+    w = 1 if top < 127 else 2 if top < 32767 else 4
+    tc, none = _NARROW[w]
+    return w, _le(array(tc, [none if v is None else v for v in values]))
+
+
+def _from_signed(w: int, raw: bytes) -> "list[int | None]":
+    tc, none = _NARROW[w]
+    return [None if v == none else v for v in _from_le(tc, raw)]
+
+
+def _tags_from_xpos(cols) -> bool:
+    """Em todos os tokens, `tags` é exatamente `[xpos]` (spaCy, Stanza)? Então a coluna não precisa ser gravada."""
+    xs, ts = cols[_XPOS], cols[_TAGS]
+    return bool(xs) and all(type(x) is str and x and t == json.dumps([x]) for x, t in zip(xs, ts))
+
+
 def encode_tcl2(rows: Sequence[Sequence], lex: Lexicon) -> bytes:
-    """Linhas de tokens → blob `TCL2`; valores novos entram no léxico. ValueError se as linhas fugirem do padrão
-    (o léxico não é alterado nesse caso)."""
+    """Linhas de tokens → blob `TCL2` (layout v2); valores novos entram no léxico. ValueError se as linhas fugirem
+    do padrão (o léxico não é alterado nesse caso).
+
+    Posições: `start` como folga em relação ao fim do token anterior (quase sempre 0 ou 1) e `end` como
+    `end - start - len(word)` (quase sempre 0), em 1 byte quando cabe: o que sobra é ruído que o zlib elimina.
+    `tags`: se em toda a camada vale `[xpos]`, a coluna é omitida (largura 0) e reconstruída pelo léxico."""
     n = len(rows)
     for r in rows:
         if len(r) != N_COLUMNS:
             raise ValueError(f"linha de token com {len(r)} colunas (esperado {N_COLUMNS})")
+    if n >= _V2:
+        raise ValueError("camada grande demais")
     cols = list(zip(*rows)) if n else [()] * N_COLUMNS
+    derive_tags = _tags_from_xpos(cols)
     news = {}
     for c in range(2, N_COLUMNS):
         d = lex.index[c]
-        new = [v for v in dict.fromkeys(cols[c]) if v not in d]
+        src = cols[c]
+        if c == _TAGS and derive_tags:
+            src = [json.dumps([x]) for x in dict.fromkeys(cols[_XPOS])]
+        new = [v for v in dict.fromkeys(src) if v not in d]
         if any(type(v) is not str for v in new):
             raise ValueError("valor não textual numa coluna de texto")
         news[c] = new
-    starts, ends = cols[0], cols[1]
-    prev, d_start = 0, []
-    for v in starts:
-        d_start.append(None if v is None else v - prev)
-        prev = prev if v is None else v
-    length = [None if e is None or s is None else e - s for s, e in zip(starts, ends)]
-    pos = [(4, _le(_int_col(d_start))), (4, _le(_int_col(length)))]      # levanta ValueError se não for inteiro
+    gaps, extra, prev_end = [], [], 0
+    for s_, e_, w_ in zip(cols[0], cols[1], cols[_WORD]):
+        if s_ is None:
+            if e_ is not None:
+                raise ValueError("fim sem início")
+            gaps.append(None)
+            extra.append(None)
+            continue
+        if type(s_) is not int or (e_ is not None and type(e_) is not int):
+            raise ValueError(f"valor não inteiro numa coluna de posição: {(s_, e_)!r}")
+        gaps.append(s_ - prev_end)
+        if e_ is None:
+            extra.append(None)
+            prev_end = s_
+        else:
+            extra.append(e_ - s_ - (len(w_) if type(w_) is str else 0))
+            prev_end = e_
+    chunks = [_signed_col(gaps), _signed_col(extra)]      # levantam ValueError se não for inteiro
     for c, new in news.items():
         lex.add(c, new)
-    parts = [MAGIC2, struct.pack("<I", n)]
-    chunks = list(pos)
     for c in range(2, N_COLUMNS):
+        if c == _TAGS and derive_tags:
+            chunks.append((0, b""))
+            continue
         idx = array("I", map(lex.index[c].__getitem__, cols[c]))
         top = max(idx) if n else 0
         w, tc = (1, "B") if top < 256 else (2, "H") if top < 65536 else (4, "I")
         chunks.append((w, _le(idx if w == 4 else array(tc, idx))))
+    parts = [MAGIC2, struct.pack("<I", n | _V2)]
     for w, raw in chunks:
-        z = zlib.compress(raw, _LEVEL)
+        z = zlib.compress(raw, _LEVEL) if w else b""
         parts += [struct.pack("<BI", w, len(z)), z]
     return b"".join(parts)
 
 
-def _chunks2(blob: bytes) -> "tuple[int, list[tuple[int, bytes]]]":
+def _chunks2(blob: bytes) -> "tuple[int, list[tuple[int, bytes]], bool]":
+    """(n, [(largura, zlib)] das 9 colunas, layout v2?)."""
     blob = bytes(blob)
     (n,) = struct.unpack_from("<I", blob, 4)
+    v2, n = bool(n & _V2), n & ~_V2
     pos, out = 8, []
     for _ in range(N_COLUMNS):
         w, ln = struct.unpack_from("<BI", blob, pos)
         out.append((w, blob[pos + 5:pos + 5 + ln]))
         pos += 5 + ln
-    return n, out
+    return n, out, v2
 
 
 def blob_length(blob: bytes) -> int:
     """Número de tokens de um blob `TCL2`, sem decodificar."""
-    return struct.unpack_from("<I", bytes(blob[:8]), 4)[0]
+    return struct.unpack_from("<I", bytes(blob[:8]), 4)[0] & ~_V2
 
 
-def decode_ids(blob: bytes, columns: "Sequence[int]" = tuple(range(2, N_COLUMNS))) -> "dict[int, array]":
-    """`TCL2`: só os ids das colunas de texto pedidas (2..8), como `array('I')`; 0 = None. Não precisa do léxico."""
-    n, ch = _chunks2(blob)
+def tcl2_layout(blob: bytes) -> int:
+    """1 = `TCL2` da primeira versão (posições em int32); 2 = layout v2 (posições relativas, `tags` derivável)."""
+    return 2 if struct.unpack_from("<I", bytes(blob[:8]), 4)[0] & _V2 else 1
+
+
+def decode_ids(blob: bytes, columns: "Sequence[int]" = tuple(range(2, N_COLUMNS)),
+               lex: "Lexicon | None" = None) -> "dict[int, array]":
+    """`TCL2`: só os ids das colunas de texto pedidas (2..8), como `array('I')`; 0 = None. Não precisa do léxico,
+    exceto para `tags` quando a camada a deriva de `xpos` (layout v2): então `lex` é obrigatório."""
+    n, ch, _v2 = _chunks2(blob)
     out = {}
     for c in columns:
         w, z = ch[c]
+        if w == 0:
+            if lex is None:
+                raise ValueError("a coluna tags desta camada é derivada de xpos: informe o léxico do corpus")
+            x = decode_ids(blob, (_XPOS,))[_XPOS]
+            xv, ti = lex.values[_XPOS], lex.index[_TAGS]
+            m = array("I", [0] + [ti.get(json.dumps([v]), 0) for v in xv[1:]])
+            out[c] = array("I", map(m.__getitem__, x))
+            continue
         out[c] = _from_le({1: "B", 2: "H", 4: "I"}[w], zlib.decompress(z))
     return out
 
 
 def decode_tcl2(blob: bytes, lex: Lexicon) -> list[list]:
     """Blob `TCL2` → linhas de tokens (listas de 9 valores), como `decode`."""
-    n, ch = _chunks2(blob)
+    n, ch, v2 = _chunks2(blob)
     if n == 0:
         return []
-    ints = [_from_le("i", zlib.decompress(ch[i][1])) for i in range(2)]
-    starts: list = []
-    prev = 0
-    for d in ints[0]:
-        if d == _NONE:
-            starts.append(None)
-        else:
-            prev += d
-            starts.append(prev)
-    ends = [None if (ln == _NONE or s is None) else s + ln for s, ln in zip(starts, ints[1])]
-    cols: list = [starts, ends]
-    ids = decode_ids(blob)
+    ids = decode_ids(blob, tuple(range(2, N_COLUMNS)), lex)
+    texts = []
     for c in range(2, N_COLUMNS):
         vals = lex.values[c]
         try:
-            cols.append([vals[i] for i in ids[c]])
+            texts.append([vals[i] for i in ids[c]])
         except IndexError:
             raise ValueError("o léxico do corpus não tem os ids deste blob (léxico ausente ou de outro arquivo)") from None
-    return [list(r) for r in zip(*cols)]
+    starts: list = []
+    ends: list = []
+    if v2:
+        gaps, extra = _from_signed(ch[0][0], zlib.decompress(ch[0][1])), _from_signed(ch[1][0], zlib.decompress(ch[1][1]))
+        prev_end = 0
+        for g, x, w in zip(gaps, extra, texts[0]):
+            if g is None:
+                starts.append(None)
+                ends.append(None)
+                continue
+            s_ = prev_end + g
+            starts.append(s_)
+            if x is None:
+                ends.append(None)
+                prev_end = s_
+            else:
+                prev_end = s_ + x + (len(w) if w is not None else 0)
+                ends.append(prev_end)
+    else:
+        ints = [_from_le("i", zlib.decompress(ch[i][1])) for i in range(2)]
+        prev = 0
+        for d in ints[0]:
+            if d == _NONE:
+                starts.append(None)
+            else:
+                prev += d
+                starts.append(prev)
+        ends = [None if (ln == _NONE or s_ is None) else s_ + ln for s_, ln in zip(starts, ints[1])]
+    return [list(r) for r in zip(starts, ends, *texts)]

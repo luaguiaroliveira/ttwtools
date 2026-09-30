@@ -440,6 +440,7 @@ def save_project_as(
                 proj._set_meta("save.search_tables", True)
             else:
                 proj.pack_search_tables(progress=progress)
+                proj.convert_layers_to_tcl2(progress)
                 proj._set_meta("save.search_tables", False)
             proj._set_meta("save.compress", bool(compress))
             proj._con.commit()
@@ -812,6 +813,8 @@ class TTWAProject:
         ids = [r[0] for r in con.execute("SELECT id FROM layers WHERE id NOT IN (SELECT layer_id FROM layer_blobs) ORDER BY id")]
         cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
         store = LayerStore(con)
+        store.seed_by_frequency(ids, lambda lid: con.execute(
+            f"SELECT {cols} FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall())
         for n, lid in enumerate(ids, 1):
             rows = con.execute(f"SELECT {cols} FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
             data = store.pack(lid, rows)
@@ -825,6 +828,25 @@ class TTWAProject:
         self._set_meta("search_tables", False)
         con.commit()
         return len(ids)
+
+    def convert_layers_to_tcl2(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> int:
+        """Reescreve no `TCL2` atual (layout v2) as camadas empacotadas em `TCL1`, JSON antigo ou `TCL2` de layout 1
+        (salvar grava só o formato atual). Os valores novos do léxico entram por frequência decrescente (ids
+        pequenos para o que mais se repete). Devolve quantas converteu. Sem commit final: quem grava decide."""
+        con = self._con
+        old = [r[0] for r in con.execute("SELECT layer_id, data FROM layer_blobs ORDER BY layer_id")
+               if not (_layerfmt.is_tcl2(r[1]) and _layerfmt.tcl2_layout(r[1]) == 2)]
+        store = LayerStore(con, fmt="tcl2")
+
+        def rows_of(lid):
+            return store.unpack(lid, con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (lid,)).fetchone()[0])
+        store.seed_by_frequency(old, rows_of)
+        for n, lid in enumerate(old, 1):
+            con.execute("UPDATE layer_blobs SET data = ? WHERE layer_id = ?", (store.pack(lid, rows_of(lid)), lid))
+            if progress and (n % 200 == 0 or n == len(old)):
+                progress(n, len(old), "pack")
+        store.flush()
+        return len(old)
 
     def rebuild_search_tables(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> int:
         """Recria tokens e índices a partir de `layer_blobs` (arquivo salvo sem tabelas de busca).
@@ -2211,6 +2233,28 @@ class LayerStore:
             except ValueError:
                 pass
         return _pack_rows(rows)
+
+    def seed_by_frequency(self, layer_ids, rows_of) -> None:
+        """Antes de empacotar um lote: põe no léxico os valores novos por frequência decrescente (no lote), para que
+        as formas mais repetidas tenham os ids menores. `rows_of(layer_id)` devolve as linhas da camada. Só vale
+        para `TCL2`; ids já existentes não mudam."""
+        if self.fmt != "tcl2":
+            return
+        counts: dict[str, list] = {}
+        for lid in layer_ids:
+            corpus = self.corpus_of(lid)
+            per = counts.setdefault(corpus, [{} for _ in range(_layerfmt.N_COLUMNS)])
+            for r in rows_of(lid):
+                for c in range(2, _layerfmt.N_COLUMNS):
+                    v = r[c]
+                    if type(v) is str:
+                        per[c][v] = per[c].get(v, 0) + 1
+        for corpus, per in counts.items():
+            lex = self.lexicon(corpus)
+            for c in range(2, _layerfmt.N_COLUMNS):
+                new = [v for v in per[c] if v not in lex.index[c]]
+                new.sort(key=lambda v: -per[c][v])          # estável: empate fica na ordem de chegada
+                lex.add(c, new)
 
     def unpack(self, layer_id: int, blob) -> list[tuple]:
         blob = bytes(blob)
