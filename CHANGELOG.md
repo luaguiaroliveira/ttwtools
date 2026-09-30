@@ -6,6 +6,18 @@ All notable changes to ttwtools are documented here.
 
 ## [Unreleased]
 
+## [0.2.0] — 2026-10-01
+
+### Added
+- Lazy search index: `open_project(..., lazy_index=True)` (default) no longer builds the index when a file saved without search tables is opened; it is built on the first read of `tokens` (single point: the project connection) or by `TTWAProject.ensure_index(progress)`. `index_pending`, `index_progress`.
+- Queries straight from the layer ids (`idquery`): `dispersion`, `read_document`, `tag_counts`, `get_tokens`, `feature_table`/`resolve_feature` (several corpora), `_layer_tokens` (keywords, bands, constructions, examples) and `list_corpora` layer fields no longer need the `tokens` table for `TCL2` layers.
+- `reference_where` in `keywords()` and `frequency_bands()` (and `--reference-where` on the CLI): compare two groups of the same corpus.
+- `TTWAProject.convert_layers_to_tcl2()`: saving rewrites `TCL1`/old JSON/`TCL2` layout 1 layers into the current `TCL2`, with lexicon values ordered by frequency.
+
+### Changed
+- **`TCL2` is the only format written** (`TTWTOOLS_LAYER_FORMAT` removed; `TCL1` and old JSON are still read). New layout v2: positions relative to the previous token (1 byte), `end` derived from the word length, and `tags` omitted when it equals `[xpos]` in the whole layer. Test file: 139 → 102 MB (from `TCL1`: 177 → 101 MB), all 26.5 M tokens identical. Files saved by this version do not open in earlier versions.
+- `needs_migration()` no longer reports files saved without search tables (opening them is instant).
+
 ### Changed
 - `kfa_layers(progress=, reuse=)`: reports progress per document (`kfa_count`, `kfa_calc`) and returns the saved result when the same KFA is asked again on the same layers (`cached` in the result); repeated runs replace the saved analysis instead of piling up (`find_analysis`, `replace_analysis`). `feature_table(progress=, sel=)` keeps counted tables in memory keyed by layer content.
 
