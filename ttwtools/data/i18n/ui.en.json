@@ -510,7 +510,7 @@
  "reader.mark.underline": "Underline",
  "reader.color": "Tag color",
  "reader.find": "Find in text",
- "reader.find_hint": "word, ca*, ?at, /regex/",
+ "reader.find_hint": "fragment, ca*, ?at, /regex/",
  "reader.find_prev": "Previous match (Shift+Enter)",
  "reader.find_next": "Next match (Enter)",
  "reader.find_count": "{i} of {n}",

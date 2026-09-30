@@ -510,7 +510,7 @@
  "reader.mark.underline": "Sublinhado",
  "reader.color": "Cor da etiqueta",
  "reader.find": "Buscar no texto",
- "reader.find_hint": "palavra, ca*, ?at, /regex/",
+ "reader.find_hint": "fragmento, ca*, ?at, /regex/",
  "reader.find_prev": "Ocorrência anterior (Shift+Enter)",
  "reader.find_next": "Próxima ocorrência (Enter)",
  "reader.find_count": "{i} de {n}",
