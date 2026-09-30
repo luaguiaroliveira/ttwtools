@@ -510,6 +510,8 @@
  "reader.copy_text": "Texto todo",
  "reader.copy_selection": "Seleção",
  "reader.copied": "Copiado",
+ "reader.mark_tag": "Marcar {tag} no texto",
+ "reader.mark_hint": "Ou dê dois cliques na palavra.",
  "reader.color_custom": "Outra cor",
  "reader.color_reset": "Cor original",
  "reader.color_wheel": "Roda",

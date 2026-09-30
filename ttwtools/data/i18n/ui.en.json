@@ -510,6 +510,8 @@
  "reader.copy_text": "Whole text",
  "reader.copy_selection": "Selection",
  "reader.copied": "Copied",
+ "reader.mark_tag": "Highlight {tag} in the text",
+ "reader.mark_hint": "Or double-click the word.",
  "reader.color_custom": "Custom color",
  "reader.color_reset": "Original color",
  "reader.color_wheel": "Wheel",
