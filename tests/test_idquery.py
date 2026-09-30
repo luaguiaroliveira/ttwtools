@@ -40,7 +40,7 @@ def paired(tmp_path_factory):
                 calls.append(("frequency", None, dict(corpus=corpus, unit=unit, n=2, by=by, layer=layer, top=15)))
         calls.append(("frequency", None, dict(corpus=corpus, unit="ngram", n=3, layer=layer, top=None, words_only=False)))
         calls.append(("frequency", None, dict(corpus=corpus, unit="form", layer=layer, top=20, stop=["the", "of"])))
-        for node in ("the", "lemma=be", "of the", "pos=NOUN"):
+        for node in ("the", "lemma=be", "of the", "pos=NOUN", "th*", "/^(the|a)$/"):
             for unit in ("form", "lemma", "pos", "word_pos"):
                 calls.append(("collocates", None, dict(corpus=corpus, node=node, unit=unit, layer=layer, min_freq=1, top=40)))
         for node in ("the", "lemma=be", "of the"):

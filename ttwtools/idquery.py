@@ -523,7 +523,9 @@ def collocates(store: IdStore, sel: dict[int, dict], node: str, window: tuple[in
     total_words = int(isw.sum())
     coll_freq = np.bincount(keyed[isw], minlength=NONE + 1) if total_words else np.zeros(NONE + 1, np.int64)
     # acertos: um por (camada, idx) — conjunto — e só os que são palavras
-    order_events_keys, order_events_side = [], []
+    order_events_keys, order_events_side, order_events_node = [], [], []
+    node_vocab = _Vocab()
+    wv_all, wid_all = s.values(WORD), s.col(WORD)
     node_freq = 0
     hits_by_layer: "dict[int, set[int]]" = defaultdict(set)
     for L, i in zip(lay.tolist(), idx.tolist()):
@@ -550,11 +552,27 @@ def collocates(store: IdStore, sel: dict[int, dict], node: str, window: tuple[in
         vals = keyed[words_flat[gj]]
         order_events_keys.append(vals[valid])
         order_events_side.append(np.broadcast_to(offs < 0, j.shape)[valid])
+        # forma do nó de cada acerto: palavras k..k+n-1 da camada, em minúsculas (como no caminho SQL)
+        nid = np.array([node_vocab.add(" ".join((wv_all[wid_all[words_flat[first_word + i]]] or "").lower()
+                                                 for i in range(int(kk), min(nw, int(kk) + n)))) for kk in k], dtype=np.int64)
+        order_events_node.append(np.broadcast_to(nid[:, None], j.shape)[valid])
     if order_events_keys:
         ev_keys = np.concatenate(order_events_keys)
         ev_left = np.concatenate(order_events_side)
+        ev_node = np.concatenate(order_events_node)
     else:
-        ev_keys, ev_left = np.zeros(0, np.int64), np.zeros(0, bool)
+        ev_keys, ev_left, ev_node = np.zeros(0, np.int64), np.zeros(0, bool), np.zeros(0, np.int64)
+    # forma do nó mais frequente por colocado (empate: a que apareceu primeiro, como Counter.most_common)
+    best_form: dict = {}
+    if len(ev_keys):
+        nn = len(node_vocab.strings) + 1
+        combo = ev_keys.astype(np.int64) * nn + ev_node
+        cu, cfirst, ccnt = np.unique(combo, return_index=True, return_counts=True)
+        ckey, cnode = cu // nn, cu % nn
+        order = np.lexsort((cfirst, -ccnt, ckey))
+        ukeys, ufirst, ucount = np.unique(ckey[order], return_index=True, return_counts=True)
+        for key_, at, c_ in zip(ukeys.tolist(), ufirst.tolist(), ucount.tolist()):
+            best_form[key_] = (node_vocab.strings[int(cnode[order][at])], c_)
     # `hits` no SQL vinha de um conjunto por camada, e as camadas em ordem de `sel`: reproduz a 1ª aparição
     uniq, first, cnt = np.unique(ev_keys, return_index=True, return_counts=True)
     lcount = np.bincount(np.searchsorted(uniq, ev_keys[ev_left]), minlength=len(uniq)) if len(uniq) else np.zeros(0, np.int64)
@@ -583,7 +601,7 @@ def collocates(store: IdStore, sel: dict[int, dict], node: str, window: tuple[in
         out.append({"collocate": w, "freq": o, "coll_total": fc, "expected": e,
                     "mi": math.log2(o / e) if e else None, "t_score": (o - e) / math.sqrt(o) if o else None,
                     "ll": 2 * ll, "position": "L" if lc > rc else "R" if rc > lc else "L=R",
-                    "left": lc, "right": rc})
+                    "left": lc, "right": rc, "node_form": best_form[key][0], "node_forms": best_form[key][1]})
     k = {"ll": "ll", "mi": "mi", "t": "t_score", "freq": "freq"}.get(sort)
     if k is None:
         raise ValueError("sort deve ser ll, mi, t ou freq")

@@ -133,14 +133,14 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
     sel1 = _select_layers(project, corpus1, layer, where1)
     sel2 = _select_layers(project, corpus2, layer, where2)
     feature = resolve_feature(project, {**sel1, **sel2}, feature)
+    # o |d| mínimo só filtra o que voltar: a análise guardada é a completa, então mudar o mínimo nunca recalcula
     params = {"corpus1": corpus1, "corpus2": corpus2, "where1": dict(where1 or {}), "where2": dict(where2 or {}),
-              "layer": layer, "feature": feature, "metric": metric,
-              "min_effect": min_effect, "join": join}
+              "layer": layer, "feature": feature, "metric": metric, "join": join}
     refs = sorted(set(sel1) | set(sel2))
     if save and reuse:
         hit = project.find_analysis("kfa", params, refs)
         if hit is not None:
-            return {**hit["result"], "cached": True}
+            return {**_min_filtered(hit["result"], min_effect), "cached": True}
     total = len(sel1) + len(sel2)
 
     def side(offset):
@@ -162,12 +162,18 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
         import contextlib
         import io
         with contextlib.redirect_stdout(io.StringIO()):     # a função antiga imprime o progresso
-            df = analyze_key_features(str(p1), str(p2), min_effect_size=min_effect, join=join, metric=metric)
+            df = analyze_key_features(str(p1), str(p2), min_effect_size=0.0, join=join, metric=metric)
     rows = df.to_dict(orient="records") if not df.empty else []
     result = {**params, "n1": len(t1), "n2": len(t2), "rows": rows}
     if save:
         project.replace_analysis("kfa", result, name=f"{corpus1} × {corpus2} [{layer}]", params=params, layer_refs=refs)
-    return result
+    return _min_filtered(result, min_effect)
+
+
+def _min_filtered(result: dict, min_effect: float) -> dict:
+    """Resultado completo da KFA → só os atributos com |d| ≥ `min_effect` (o resultado guardado não muda)."""
+    rows = [r for r in result["rows"] if abs(r["Effect_Size"]) >= min_effect]
+    return {**result, "min_effect": min_effect, "rows": rows}
 
 
 def feature_values(project: TTWAProject, corpus_name: str, layer: str, feature_name: str,

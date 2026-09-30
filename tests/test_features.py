@@ -108,3 +108,14 @@ def test_feature_table_is_reused_and_invalidated_by_new_layers(tmp_path):
     features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=True, progress=lambda d, t: seen.append(d))
     assert seen                                                  # camada nova: contou de novo
     p.close()
+
+
+def test_min_effect_only_filters_and_never_recomputes(v2):
+    full = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", min_effect=0.0)
+    assert not full.get("cached") and full["rows"]
+    cut = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", min_effect=0.5)
+    assert cut["cached"] and cut["min_effect"] == 0.5                      # reaproveitou a análise completa
+    assert cut["rows"] == [r for r in full["rows"] if abs(r["Effect_Size"]) >= 0.5]
+    assert len(cut["rows"]) < len(full["rows"])
+    again = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", min_effect=0.1)
+    assert again["rows"] == [r for r in full["rows"] if abs(r["Effect_Size"]) >= 0.1]

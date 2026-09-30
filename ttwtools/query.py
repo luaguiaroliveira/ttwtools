@@ -370,6 +370,7 @@ def collocates(project: TTWAProject, corpus_name: str, node: str, window: tuple[
     coll_freq: Counter = Counter()
     observed: Counter = Counter()
     side: dict[str, Counter] = defaultdict(Counter)
+    node_forms: dict = defaultdict(Counter)            # colocado → formas do nó que aparecem com ele (o nó pode ter curingas)
     node_freq = 0
     for layer_id, doc in sel.items():
         rows = project._con.execute("SELECT idx, word, lemma, upos, xpos FROM tokens WHERE layer_id = ? ORDER BY idx",
@@ -384,11 +385,13 @@ def collocates(project: TTWAProject, corpus_name: str, node: str, window: tuple[
                 continue
             k = pos_of[idx]
             node_freq += 1
+            ntext = " ".join((words[i]["word"] or "").lower() for i in range(k, min(len(words), k + n)))
             for j in range(max(0, k - left), min(len(words), k + n + right)):
                 if k <= j < k + n:
                     continue
                 observed[values[j]] += 1
                 side[values[j]]["L" if j < k else "R"] += 1
+                node_forms[values[j]][ntext] += 1
     span = left + right
     out = []
     for w, o in observed.items():
@@ -409,7 +412,8 @@ def collocates(project: TTWAProject, corpus_name: str, node: str, window: tuple[
         out.append({"collocate": w, "freq": o, "coll_total": fc, "expected": e,
                     "mi": math.log2(o / e) if e else None, "t_score": (o - e) / math.sqrt(o) if o else None,
                     "ll": 2 * ll, "position": "L" if side[w]["L"] > side[w]["R"] else "R" if side[w]["R"] > side[w]["L"] else "L=R",
-                    "left": side[w]["L"], "right": side[w]["R"]})
+                    "left": side[w]["L"], "right": side[w]["R"],
+                    "node_form": node_forms[w].most_common(1)[0][0], "node_forms": len(node_forms[w])})
     key = {"ll": "ll", "mi": "mi", "t": "t_score", "freq": "freq"}.get(sort)
     if key is None:
         raise ValueError("sort deve ser ll, mi, t ou freq")
