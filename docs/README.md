@@ -1,116 +1,27 @@
-# ttwtools — Documentação de Referência
+# ttwtools: notas técnicas e API clássica
 
-Este diretório concentra a documentação técnica do pacote ttwtools.
+Complementa o [guia rápido](guia_rapido.md) (tudo o que o aplicativo faz, em Python e na linha de comando) e a [referência da API](referencia.md) (gerada das docstrings por `gerar_referencia.py`). Aqui: arquitetura, taggers, formato JSONL, a **API clássica da 0.1** (etiquetagem em pastas, tabelas de traços, KFA por CSV), integração do MFTE, empacotamento e licença.
 
-- **[Guia rápido](guia_rapido.md)** — projetos, camadas, exploração, comparação, catálogo, formatos e linha de comando.
-- **[Referência da API](referencia.md)** — todas as funções públicas, gerada por [`gerar_referencia.py`](gerar_referencia.py).
+## 1. Arquitetura
 
-As seções abaixo documentam a arquitetura e a API clássica (etiquetagem em pastas, JSONL, tabelas de traços).
+Módulos principais: `project.py` (projeto `.ttwa`/`.ttwl`/`.ttwc`… em SQLite; esquema v0.3 com `documents`, `layers`, `tokens`, `layer_blobs`), `layers.py` e `annotate.py` (camadas com cache por texto, ferramenta, versão, modelo e configuração), `layerfmt.py` (camadas colunares `TCL1`), `searchindex.py` (índice de busca em cache), `storage.py` (espaço livre, pastas de trabalho, cache), `query.py` (busca, KWIC, frequência, colocados, dispersão), `keyness.py`, `features.py` e `analysis.py` (palavras-chave, KFA), `stats.py`, `experimental.py` (Laboratório), `corpus_catalog.py`, `formats/`, `taggers/` (`biberplus`, `mfte`, `spacy_pos`, `stanza_pos`), `tagged_io.py` (JSONL), `writing.py` e afins (Escrita), `help.py`, `cli.py`. **Import lazy:** `import ttwtools` não carrega torch nem stanza; só a primeira chamada ao backend que precisa deles.
 
-Para uma visão geral rápida e o guia de migração, veja o
-[README principal](../README.md).
+## 2. Taggers
 
----
+| Tagger | `tagger_type` | Dependências | Features |
+|---|---|---|---|
+| BiberPlus (regex) | `biberplus` | spaCy (modelo `en_core_web_sm`) | ~67 traços de Biber |
+| BiberPlus + spaCy/Stanza | `biberplus_nlp` | spaCy ou Stanza | ~67 |
+| MFTE | `mfte` | Stanza, torch, MFTE | ~80 |
+| MFTE estendido | `mfte_ext` | idem | ~120 |
 
-## Índice
+Stanza não é um tagger separado: é o tokenizador do MFTE (e opcional do BiberPlus). `pip install "ttwtools[mfte]"` instala `stanza`, `MFTE` e `torch` (~550 MB com modelos), por isso é opcional; modelos: `python -c "import stanza; stanza.download('en', processors='tokenize,pos')"` (~250–300 MB; `STANZA_RESOURCES_DIR` muda a pasta; o pacote usa `REUSE_RESOURCES`, sem atualizar sozinho). **Desempenho** (100 documentos de ~4.500 palavras): BiberPlus regex ~20 s; MFTE em CPU ~80 s; **MPS (Apple Silicon) é ~2,4× mais lento que CPU: não usar**.
 
-1. [Arquitetura do pacote](#1-arquitetura-do-pacote)
-2. [Taggers disponíveis](#2-taggers-disponíveis)
-3. [Formato JSONL de arquivos taggeados](#3-formato-jsonl-de-arquivos-taggeados)
-4. [Projetos .ttwa — schema e migração](#4-projetos-ttwa--schema-e-migração)
-5. [API completa](#5-api-completa)
-6. [PyInstaller — integração em apps](#6-pyinstaller--integração-em-apps)
-7. [Compatibilidade retroativa](#7-compatibilidade-retroativa)
+**Integração do MFTE (importa a API interna; sem subprocesso):** passar a `process_sentence` uma **lista** de strings `"palavra_xpos"`, com `[' '] * 20` como sentinelas antes de cada frase e no fim (uma string `" " * 20` causa `IndexError`); `process_sentence_extended` preserva 1:1 o tamanho da lista, então filtrar as sentinelas só depois das duas passagens; `processors='tokenize,pos'` basta; `process_sentence` é sem estado (seguro em paralelo), mas `stanza.Pipeline` não é thread-safe (uma instância por processo).
 
----
+## 3. Formato JSONL das etiquetagens
 
-## 1. Arquitetura do pacote
-
-```
-ttwtools/
-  taggers/
-    __init__.py       — lazy re-exports; torch/stanza NÃO carregados no import
-    biberplus.py      — backend BiberPlus/spaCy
-    mfte.py           — backend MFTE/Stanza (opcional)
-  tagging.py          — shim de compatibilidade (re-exporta de taggers.biberplus)
-  analysis.py         — KFA, Cohen's d, pooled_std
-  project.py          — persistência .ttwa (SQLite)
-  tagged_io.py        — leitura/escrita/export do formato JSONL
-  __init__.py         — re-exports de nível de pacote
-```
-
-**Princípio de import lazy:** `import ttwtools` não carrega torch nem stanza.
-Essas dependências são importadas apenas na primeira chamada a `ttwtools.mfte()`
-ou a qualquer função do backend MFTE. Apps que usam apenas BiberPlus têm
-custo zero de startup.
-
----
-
-## 2. Taggers disponíveis
-
-### 2.1 BiberPlus
-
-Backend padrão. Sem dependências opcionais além do spaCy.
-
-```python
-import ttwtools
-
-ttwtools.biberplus(
-    folder_path_str="caminho/para/corpus",
-    output_dir="saida",          # default: pasta pai do corpus
-    save_tagged=True,            # grava .jsonl por documento
-    copy_originals=False,        # copia .txt originais para saida/originals/
-    usenlp=False,                # False = regex (rápido); True = spaCy (mais preciso)
-)
-ttwtools.normalize_biber_features("saida/corpus_biberfeatures_rawcount.csv")
-```
-
-Arquivos gerados:
-- `<output_dir>/<corpus>_biberfeatures_rawcount.csv`
-- `<output_dir>/<corpus>_biberfeatures_norm1000.csv`
-- `<output_dir>/<corpus>_tagged/<stem>_biberplus.jsonl` (se `save_tagged=True`)
-
-### 2.2 MFTE
-
-Backend opcional. Requer `pip install ttwtools[mfte]` e modelos Stanza.
-
-```python
-import ttwtools
-
-# Baixar modelos Stanza uma vez (não necessário se já baixados):
-# import stanza; stanza.download("en", processors="tokenize,pos")
-
-ttwtools.mfte(
-    folder_path_str="caminho/para/corpus",
-    output_dir="saida",
-    save_tagged=True,
-    copy_originals=False,
-    use_gpu=None,       # None = auto (CUDA se disponível, senão CPU; MPS excluído)
-    extended=True,      # inclui categorias semânticas Biber 2006
-    model_dir=None,     # sobrescreve caminho dos modelos Stanza
-                        # (ou usar env var STANZA_RESOURCES_DIR)
-)
-ttwtools.normalize_mfte_features("saida/corpus_mfte_rawcount.csv")
-```
-
-Arquivos gerados:
-- `<output_dir>/<corpus>_mfte_rawcount.csv`
-- `<output_dir>/<corpus>_mfte_norm1000.csv`
-- `<output_dir>/<corpus>_tagged/<stem>_mfte.jsonl` (se `save_tagged=True`)
-
-**Performance (referência — 100 docs, ~4500 palavras/doc):**
-- BiberPlus (regex): ~20 s
-- MFTE (CPU, Stanza BiLSTM): ~80 s
-- MFTE (MPS/Apple Silicon): ~2.4× mais lento que CPU — **não use MPS**
-
----
-
-## 3. Formato JSONL de arquivos taggeados
-
-Todos os taggers gravam no mesmo formato canônico **JSONL** (JSON Lines).
-Cada arquivo tem uma linha de metadados seguida de uma linha por token.
-
-### Estrutura
+Uma linha de metadados e uma linha por token, igual para todos os taggers:
 
 ```jsonl
 {"type":"metadata","tagger":"mfte","tagger_version":"1.0.0.7","stanza_model":"en","device":"cpu","extended":true,"filename":"documento.txt"}
@@ -118,210 +29,25 @@ Cada arquivo tem uma linha de metadados seguida de uma linha por token.
 {"start_char":4,"end_char":9,"word":"study","xpos":"NN","tags":["NN","NNABSPROC"]}
 ```
 
-### Campos de token
+Campos: `start_char` (inclusivo), `end_char` (exclusivo), `word` (invariante: `texto[start_char:end_char] == word`), `xpos` (Penn Treebank), `tags` (lista). Nomes: `<saida>/<corpus>_tagged/<arquivo>_<tagger>.jsonl`. `tagged_io.read_tagged_jsonl(path)` devolve `(metadados, tokens)`; `export_tagged(path, fmt="tsv"|"csv"|"json")`. O formato antigo (`type|content|tags` em TSV) é detectado pelo cabeçalho, com aviso, e **não** recupera offsets: reprocessar o corpus.
 
-| Campo | Tipo | Descrição |
-|---|---|---|
-| `start_char` | int | Offset de início no arquivo original (inclusivo) |
-| `end_char` | int | Offset de fim no arquivo original (exclusivo) |
-| `word` | str | Forma superficial exata. Invariante: `original[start_char:end_char] == word` |
-| `xpos` | str | POS tag Penn Treebank. Fonte: `token.tag_` (spaCy) ou `word.xpos` (Stanza) |
-| `tags` | list[str] | Tags do tagger. `[]` se nenhuma |
-
-### Leitura e export
+## 4. API clássica (0.1), ainda disponível
 
 ```python
-from ttwtools import tagged_io
-
-# Ler
-meta, tokens = tagged_io.read_tagged_jsonl("doc_mfte.jsonl")
-
-# Verificar invariante de offsets
-original = open(meta["filename"]).read()
-for tok in tokens:
-    assert original[tok["start_char"]:tok["end_char"]] == tok["word"]
-
-# Exportar para TSV ou CSV (gerado ao lado do .jsonl)
-tagged_io.export_tagged("doc_mfte.jsonl", fmt="tsv")
-tagged_io.export_tagged("doc_mfte.jsonl", fmt="csv")
-tagged_io.export_tagged("doc_mfte.jsonl", fmt="json")  # array JSON completo
-```
-
-### Nomenclatura de arquivos
-
-```
-<output_dir>/originals/<corpus>/documento.txt
-<output_dir>/<corpus>_tagged/documento_biberplus.jsonl
-<output_dir>/<corpus>_tagged/documento_mfte.jsonl
-```
-
-### Arquivos legados (formato antigo `type|content|tags` TSV)
-
-O `tagged_io.read_tagged_jsonl()` detecta o formato antigo pelo cabeçalho e
-emite um aviso. Offsets não podem ser recuperados automaticamente — é necessário
-re-processar o corpus com o tagger.
-
----
-
-## 4. Projetos .ttwa — schema e migração
-
-### Schema atual da tabela `feature_tables`
-
-```sql
-CREATE TABLE feature_tables (
-    id            INTEGER PRIMARY KEY AUTOINCREMENT,
-    corpus_name   TEXT    NOT NULL,
-    table_type    TEXT    NOT NULL CHECK(table_type IN ('rawcount', 'norm1000')),
-    tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
-    tagger_config TEXT    NOT NULL DEFAULT '{}',   -- JSON
-    data          TEXT    NOT NULL,                -- DataFrame em JSON
-    UNIQUE (corpus_name, table_type, tagger_type)
-);
-```
-
-**Mudança em relação à versão anterior:** adição de `tagger_type` e
-`tagger_config`. A constraint UNIQUE agora inclui `tagger_type`, permitindo
-armazenar tabelas de múltiplos taggers para o mesmo corpus.
-
-### Migração automática
-
-Arquivos `.ttwa` antigos (sem `tagger_type`) são migrados automaticamente ao
-serem abertos: as linhas existentes recebem `tagger_type='biberplus'` e
-`tagger_config='{}'`. Nenhuma ação necessária no app.
-
-### API
-
-```python
-from ttwtools import open_project
-
-proj = open_project("projeto.ttwa")  # migra automaticamente se necessário
-
-# Salvar — tagger_type default é 'biberplus' (compatível com código antigo)
-proj.save_feature_table("corpus_A", df, "rawcount")
-proj.save_feature_table("corpus_A", df, "norm1000")
-
-# Salvar tabela MFTE para o mesmo corpus
-proj.save_feature_table("corpus_A", df_mfte, "rawcount",
-                        tagger_type="mfte",
-                        tagger_config={"extended": True, "device": "cpu"})
-
-# Carregar — tagger_type default é 'biberplus'
-df = proj.load_feature_table("corpus_A", "norm1000")
-df_mfte = proj.load_feature_table("corpus_A", "norm1000", tagger_type="mfte")
-
-# Listar todas as tabelas (inclui tagger_type e tagger_config)
-proj.list_feature_tables()
-# => [{'corpus_name': 'corpus_A', 'table_type': 'norm1000',
-#      'tagger_type': 'biberplus', 'tagger_config': {}}, ...]
-
-# Resumo do projeto
-proj.summary()
-# => {'corpora': {'corpus_A': {'feature_tables': ['norm1000[biberplus]',
-#                                                  'norm1000[mfte]', ...]}}}
-proj.close()
-```
-
----
-
-## 5. API completa
-
-### ttwtools.biberplus / ttwtools.mfte
-
-```
-biberplus(folder_path_str, output_dir=None, save_tagged=False,
-          copy_originals=False, usenlp=False)
-
-mfte(folder_path_str, output_dir=None, save_tagged=False,
-     copy_originals=False, use_gpu=None, extended=True, model_dir=None)
-```
-
-### ttwtools.normalize_biber_features / normalize_mfte_features
-
-```
-normalize_biber_features(csv_path_str, decimal_places=None)
-normalize_mfte_features(csv_path_str, decimal_places=None)
-```
-
-Lê o `*_rawcount.csv` e grava um `*_norm1000.csv` com contagens divididas por
-palavas × 1000.
-
-### ttwtools.kfa / analyze_key_features
-
-```
-kfa(csv1, csv2, min_effect=0.2, join_method="union") -> pd.DataFrame
-analyze_key_features(df1, df2, ...) -> pd.DataFrame
-```
-
-Funciona com qualquer CSV de features — independe do tagger.
-
-### ttwtools.tagged_io
-
-```
-write_tagged_jsonl(metadata: dict, tokens: list[dict], path)
-read_tagged_jsonl(path) -> (metadata: dict, tokens: list[dict])
-export_tagged(jsonl_path, fmt: str, out_path=None)
-    fmt: "tsv" | "csv" | "json"
-```
-
-### ttwtools.TTWAProject
-
-```
-TTWAProject.create(path, name, description, overwrite) -> TTWAProject
-TTWAProject.open(path) -> TTWAProject
-proj.add_corpus_folder(corpus_name, folder_path, encoding, glob)
-proj.save_feature_table(corpus_name, df, table_type,
-                        tagger_type="biberplus", tagger_config=None)
-proj.save_feature_table_from_csv(corpus_name, csv_path, table_type,
-                                  tagger_type="biberplus", tagger_config=None)
-proj.load_feature_table(corpus_name, table_type="norm1000",
-                        tagger_type="biberplus") -> pd.DataFrame | None
-proj.list_feature_tables() -> list[dict]
-proj.save_kfa_result(corpus1, corpus2, df, min_effect, join_method)
-proj.load_kfa_result(corpus1, corpus2, min_effect, join_method)
-proj.export_corpus_to_folder(corpus_name, dest_folder)
-proj.summary() -> dict
-```
-
----
-
-## 6. PyInstaller — integração em apps
-
-### Variáveis de ambiente reconhecidas
-
-| Variável | Módulo | Efeito |
-|---|---|---|
-| `STANZA_RESOURCES_DIR` | `taggers/mfte.py` | Diretório raiz dos modelos Stanza; substitui `~/stanza_resources/` |
-
-### Uso em app bundlado
-
-```python
-import os, sys, pathlib
-
-if getattr(sys, "frozen", False):
-    # Apontar Stanza para os modelos bundlados
-    os.environ["STANZA_RESOURCES_DIR"] = str(
-        pathlib.Path(sys._MEIPASS) / "stanza_resources"
-    )
-
 import ttwtools
-ttwtools.mfte(corpus_folder, ...)
+ttwtools.biberplus("corpus/", output_dir="saida", save_tagged=True, usenlp=False)   # regex; True = spaCy
+ttwtools.mfte("corpus/", output_dir="saida", save_tagged=True, extended=True, use_gpu=None, model_dir=None)
+ttwtools.normalize_biber_features("saida/corpus_biberfeatures_rawcount.csv")        # → *_norm1000.csv
+res = ttwtools.kfa("saida/A_biberfeatures_norm1000.csv", "saida/B_biberfeatures_norm1000.csv", min_effect=0.2)
 ```
 
-Veja `todoc.md` na raiz do repositório para:
-- Spec completo do Cenário B (bundle CPU com MFTE)
-- Arquitetura two-bundle do Cenário C (companion `mfte_worker` para GPU)
-- Checklist de build e assinatura de executável
+Os dois taggers geram CSVs com as mesmas colunas (`filename`, `Words`, `TTR`, traços), então `kfa()` serve a qualquer um. `TTWAProject`: `create`, `open`, `add_corpus_folder`, `save_feature_table(corpus, df, "rawcount"|"norm1000", tagger_type="biberplus", tagger_config=None)`, `load_feature_table`, `list_feature_tables`, `save_kfa_result`, `load_kfa_result`, `export_corpus_to_folder`, `summary`; `save_analysis_to_project(...)` faz tudo de uma vez. Projetos antigos migram ao abrir (`tagger_type='biberplus'` nas linhas sem ele; esquema 0.2 → 0.3 com progresso). **Compatibilidade:** `from ttwtools.tagging import biberplus, normalize_biber_features` continua valendo (`tagging.py` é um shim); `save_tagged=True` agora grava `.jsonl`, **não** `.tsv`. O que o aplicativo faz hoje (camadas, busca, comparação, catálogo) está no guia rápido.
 
----
+## 5. Empacotamento (PyInstaller) e licença
 
-## 7. Compatibilidade retroativa
-
-| Código antigo | Status | Observação |
-|---|---|---|
-| `from ttwtools.tagging import biberplus` | Funciona | `tagging.py` é shim |
-| `from ttwtools.tagging import normalize_biber_features` | Funciona | `tagging.py` é shim |
-| `ttwtools.biberplus(...)` | Funciona | Equivalente |
-| `save_tagged=True` gerando `.tsv` | **Quebrado** | Agora gera `.jsonl` |
-| `proj.save_feature_table(name, df, type)` | Funciona | `tagger_type` default = `'biberplus'` |
-| `proj.load_feature_table(name, type)` | Funciona | `tagger_type` default = `'biberplus'` |
-| `.ttwa` antigos sem `tagger_type` | Migrados | Auto-migração na abertura |
+- **Cenário A, só BiberPlus:** incluir o modelo spaCy no `.spec` (`get_package_path("en_core_web_sm")`) e `hiddenimports += ["spacy", "biberplus"]`.
+- **Cenário B, BiberPlus + MFTE em CPU:** baixar os modelos Stanza antes do build; coletar os binários do torch; em app congelado, apontar `os.environ["STANZA_RESOURCES_DIR"]` para `Path(sys._MEIPASS) / "stanza_resources"` antes de `ttwtools.mfte`. O empacotamento real do aplicativo está em `build/ttwtools-app.spec` (repositório do app).
+- **Cenário C, `mfte_worker` à parte:** dois executáveis (app sem torch/stanza + worker com torch, Stanza e MFTE); serve a GPU, a bundle menor e à questão de licença abaixo.
+- **Variável de ambiente:** `STANZA_RESOURCES_DIR` (`taggers/mfte.py`); outras do pacote no guia rápido.
+- **Licença:** o código do `ttwtools` é **MIT** (`LICENSE`); Biberplus (MIT, modificado e incorporado em `taggers/biberplus.py`); Stanza (Apache 2.0, opcional); **MFTE é GPL-3.0** (opcional, não incluído no repositório). Um executável que empacota o MFTE junto é obra combinada sujeita à GPL-3.0: **conferir com assessoria jurídica antes de distribuir o Cenário B**; no Cenário C o worker seria o binário GPL e o app principal, sem código GPL, pode manter outra licença. Ver GPL FAQ, "GPLInProprietarySystem".
+- **Checklist de build:** ambiente isolado com versões fixadas; modelos Stanza e spaCy baixados antes; teste de fumaça pós-build com um corpus de 5 documentos; assinar o executável (decisão D4 do plano do aplicativo).
