@@ -109,9 +109,8 @@ _TAGGER_UNIFIED_MAP: dict[str, str] = {
 _MIGRATION_BATCH = 200   # arquivos etiquetados por gravação na migração v0.3 (ponto de retomada)
 
 # índices da tabela tokens: no esquema e desligados/recriados pela migração (carga em massa)
+# (A4: os índices simples de word e lemma saíram: as consultas sempre usam lower(...); ver _OBSOLETE_INDEXES)
 _TOKEN_INDEXES = [
-    ("idx_tokens_word", "CREATE INDEX IF NOT EXISTS idx_tokens_word  ON tokens (word)"),
-    ("idx_tokens_lemma", "CREATE INDEX IF NOT EXISTS idx_tokens_lemma ON tokens (lemma)"),
     ("idx_tokens_xpos", "CREATE INDEX IF NOT EXISTS idx_tokens_xpos  ON tokens (xpos)"),
     ("idx_tokens_doc", "CREATE INDEX IF NOT EXISTS idx_tokens_doc   ON tokens (doc_id)"),
     # busca sem distinguir maiúsculas (KWIC, frequência): índices de expressão
@@ -119,6 +118,9 @@ _TOKEN_INDEXES = [
     ("idx_tokens_llemma", "CREATE INDEX IF NOT EXISTS idx_tokens_llemma ON tokens (lower(lemma))"),
     ("idx_tokens_upos", "CREATE INDEX IF NOT EXISTS idx_tokens_upos   ON tokens (upos)"),
 ]
+
+# índices de versões anteriores que nenhuma consulta usa: apagados ao abrir (ocupavam ~20% do arquivo)
+_OBSOLETE_INDEXES = ("idx_tokens_word", "idx_tokens_lemma")
 
 _SCHEMA_SQL = """
 PRAGMA journal_mode = WAL;
@@ -485,6 +487,8 @@ def _connect(path: str | Path) -> sqlite3.Connection:
     """Abre (ou cria) o arquivo .ttwa e garante o schema."""
     con = sqlite3.connect(str(path))
     con.row_factory = sqlite3.Row
+    for name in _OBSOLETE_INDEXES:
+        con.execute(f"DROP INDEX IF EXISTS {name}")
     con.executescript(_SCHEMA_SQL)
     _migrate_tagged_files(con)
     _migrate_tagged_encoding(con)
