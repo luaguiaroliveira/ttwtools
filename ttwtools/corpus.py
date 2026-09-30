@@ -400,8 +400,26 @@ def layer_summary(project: TTWAProject, corpus_name: str) -> list[dict]:
         " GROUP BY l.tool, l.tool_version, l.model, l.config_hash ORDER BY created_at DESC",
         (corpus_name,)).fetchall()
     total = project._con.execute("SELECT COUNT(*) FROM documents WHERE corpus_name = ?", (corpus_name,)).fetchone()[0]
-    return [{**dict(r), "config": _json.loads(r["config"]), "coverage": r["documents"] / total if total else 0.0}
+    return [{**dict(r), "config": _json.loads(r["config"]), "coverage": r["documents"] / total if total else 0.0,
+             "fields": _layer_fields(project, corpus_name, r["tool"], r["tool_version"], r["model"], r["config_hash"])}
             for r in rows]
+
+
+def _layer_fields(project: TTWAProject, corpus_name: str, tool: str, version: str, model: str, config_hash: str) -> list[str]:
+    """Campos preenchidos da camada (`tags`, `upos`, `xpos`, `lemma`, `feats`), por amostra das 3 primeiras camadas:
+    a interface só oferece `upos`/`xpos` como traço quando existem."""
+    ids = [r[0] for r in project._con.execute(
+        "SELECT l.id FROM layers l JOIN documents d ON d.id = l.doc_id WHERE d.corpus_name = ? AND l.tool = ?"
+        " AND l.tool_version = ? AND l.model = ? AND l.config_hash = ? ORDER BY l.id LIMIT 3",
+        (corpus_name, tool, version, model, config_hash))]
+    if not ids:
+        return []
+    marks = ",".join("?" * len(ids))
+    row = project._con.execute(
+        "SELECT MAX(tags IS NOT NULL AND tags NOT IN ('', '[]')), MAX(upos IS NOT NULL AND upos <> ''),"
+        " MAX(xpos IS NOT NULL AND xpos <> ''), MAX(lemma IS NOT NULL AND lemma <> ''),"
+        f" MAX(feats IS NOT NULL AND feats <> '') FROM tokens WHERE layer_id IN ({marks})", ids).fetchone()
+    return [name for name, v in zip(("tags", "upos", "xpos", "lemma", "feats"), row) if v]
 
 
 def list_corpora(project: TTWAProject) -> list[dict]:

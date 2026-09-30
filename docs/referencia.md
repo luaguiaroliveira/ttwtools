@@ -1159,10 +1159,10 @@ features.py — Tabelas de traços a partir das camadas e KFA entre corpora ou g
 ### `default_feature`
 
 ```python
-default_feature(tool: 'str') -> 'str'
+default_feature(tool: 'str' = '') -> 'str'
 ```
 
-Traço padrão da camada: `tags` no BiberPlus/MFTE, `upos` nos demais.
+Traço padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanza, `upos` e `xpos` ficam como opção).
 
 ### `feature_table` · **`ttwtools.feature_table`**
 
@@ -1196,6 +1196,15 @@ Com `save`, o resultado fica nas análises do projeto junto das camadas usadas; 
 mesma KFA sobre as mesmas camadas devolve o resultado guardado (`reuse=True`; `cached` no
 resultado) em vez de contar tudo outra vez. `progress(feitos, total, etapa)`: `kfa_count` (um
 documento de cada vez, nos dois lados) e `kfa_calc`.
+
+### `resolve_feature`
+
+```python
+resolve_feature(project: 'TTWAProject', sel: 'Mapping', feature: 'str | None') -> 'str'
+```
+
+`feature` pedido, ou o padrão `tags`; se a camada não tem `tags` (etiquetagem antiga), o primeiro de
+`xpos`, `upos` que ela tem. Assim o padrão nunca dá tabela vazia por falta do traço.
 
 <a id="viz"></a>
 ## Dados para gráficos de comparação

@@ -138,6 +138,15 @@ def test_saving_derived_results_does_not_mark_the_project_unsaved(tmp_path):
     p.close()
 
 
-def test_default_feature_for_tag_layers():
-    from ttwtools.features import default_feature
-    assert [default_feature(t) for t in ("biberplus", "mfte", "mfte_ext", "spacy", "stanza")] == ["tags", "tags", "tags", "upos", "upos"]
+def test_default_feature_is_tags_with_fallback_and_layer_fields(real):
+    from ttwtools.corpus import layer_summary
+    from ttwtools.features import default_feature, feature_table, resolve_feature
+    from ttwtools.query import _select_layers
+    assert all(default_feature(t) == "tags" for t in ("biberplus", "mfte", "mfte_ext", "spacy", "stanza"))
+    corpus = real.list_corpus_names()[0]
+    fields = {l["tool"]: l["fields"] for l in layer_summary(real, corpus)}
+    assert "tags" in fields["biberplus"] and "upos" not in fields["biberplus"]
+    sel = _select_layers(real, corpus, "spacy", None)
+    assert resolve_feature(real, sel, None) in ("tags", "xpos", "upos") and resolve_feature(real, sel, "upos") == "upos"
+    assert resolve_feature(real, sel, None) == "tags"                                   # o padrão é tags quando a camada tem
+    assert set(feature_table(real, corpus, "spacy", "xpos").columns) - {"filename", "Words", "TTR"}

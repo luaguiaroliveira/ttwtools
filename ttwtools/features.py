@@ -32,9 +32,30 @@ _HAS_ALPHA = re.compile(r"[A-Za-z]")
 FEATURES = ("tags", "upos", "xpos")
 
 
-def default_feature(tool: str) -> str:
-    """Traço padrão da camada: `tags` no BiberPlus e no MFTE (`mfte`, `mfte_ext`), `upos` nos demais."""
-    return "tags" if tool in ("biberplus", "mfte", "mfte_ext") else "upos"
+_PRESENT_SQL = {"tags": "tags IS NOT NULL AND tags NOT IN ('', '[]')", "xpos": "xpos IS NOT NULL AND xpos <> ''",
+                "upos": "upos IS NOT NULL AND upos <> ''"}
+
+
+def default_feature(tool: str = "") -> str:
+    """Traço padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanza, `upos` e `xpos` ficam como opção)."""
+    return "tags"
+
+
+def resolve_feature(project: TTWAProject, sel: Mapping, feature: str | None) -> str:
+    """`feature` pedido, ou o padrão `tags`; se a camada não tem `tags` (etiquetagem antiga), o primeiro de
+    `xpos`, `upos` que ela tem. Assim o padrão nunca dá tabela vazia por falta do traço."""
+    if feature:
+        if feature not in FEATURES:
+            raise ValueError(f"feature deve ser uma de {FEATURES}")
+        return feature
+    ids = sorted(sel)
+    if ids:
+        marks = ",".join("?" * len(ids))
+        for cand in ("tags", "xpos", "upos"):
+            if project._con.execute(f"SELECT 1 FROM tokens WHERE layer_id IN ({marks}) AND {_PRESENT_SQL[cand]} LIMIT 1",
+                                    ids).fetchone():
+                return cand
+    return "tags"
 
 
 def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: str | None = None,
@@ -43,10 +64,8 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
     """Uma linha por documento: filename, Words, TTR e uma coluna por traço
     (contagem bruta ou por 1000 palavras). `progress(feitos, total)` a cada documento;
     `sel` (opcional): camadas já escolhidas por `_select_layers`."""
-    feature = feature or default_feature(layer)
-    if feature not in FEATURES:
-        raise ValueError(f"feature deve ser uma de {FEATURES}")
     sel = sel if sel is not None else _select_layers(project, corpus_name, layer, where)
+    feature = resolve_feature(project, sel, feature)
     # Contar é a parte cara. Uma camada (id) nunca muda, então a chave é o conteúdo das camadas escolhidas:
     # o detalhe de uma feature, a galeria e a KFA repetida reaproveitam a tabela (só em memória, por sessão).
     key = _table_key(project, sel, layer, feature, per1000)
@@ -111,11 +130,12 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
     resultado) em vez de contar tudo outra vez. `progress(feitos, total, etapa)`: `kfa_count` (um
     documento de cada vez, nos dois lados) e `kfa_calc`."""
     from .analysis import analyze_key_features
-    params = {"corpus1": corpus1, "corpus2": corpus2, "where1": dict(where1 or {}), "where2": dict(where2 or {}),
-              "layer": layer, "feature": feature or default_feature(layer), "metric": metric,
-              "min_effect": min_effect, "join": join}
     sel1 = _select_layers(project, corpus1, layer, where1)
     sel2 = _select_layers(project, corpus2, layer, where2)
+    feature = resolve_feature(project, {**sel1, **sel2}, feature)
+    params = {"corpus1": corpus1, "corpus2": corpus2, "where1": dict(where1 or {}), "where2": dict(where2 or {}),
+              "layer": layer, "feature": feature, "metric": metric,
+              "min_effect": min_effect, "join": join}
     refs = sorted(set(sel1) | set(sel2))
     if save and reuse:
         hit = project.find_analysis("kfa", params, refs)
@@ -133,7 +153,7 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
         raise ValueError("cada lado precisa de pelo menos 2 documentos com a camada")
     meta = {"filename", "Words", "TTR"}
     if not ({*t1.columns} | {*t2.columns}) - meta:
-        raise ValueError(f"a camada '{layer}' não tem o traço '{feature or default_feature(layer)}' nesses corpora "
+        raise ValueError(f"a camada '{layer}' não tem o traço '{feature}' nesses corpora "
                          "(escolha outra camada no topo ou outro traço)")
     with tempfile.TemporaryDirectory() as tmp:
         p1, p2 = Path(tmp) / "c1_norm1000.csv", Path(tmp) / "c2_norm1000.csv"
