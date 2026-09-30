@@ -23,6 +23,7 @@ import re
 from collections import Counter, defaultdict
 from typing import Any, Iterable, Mapping
 
+from . import idquery
 from .corpus import filter_documents
 from .project import TTWAProject
 
@@ -178,6 +179,12 @@ def search(project: TTWAProject, corpus_name: str, query: str, layer: str | None
     """Quantas vezes a consulta aparece: total, por documento e (com `group_by`,
     nome de metadado) por grupo."""
     sel = _select_layers(project, corpus_name, layer, where, _needs(query))
+    store = idquery.available(project, sel)
+    if store is not None:                        # camadas TCL2: consulta sobre ids (mesmo resultado)
+        try:
+            return idquery.search(store, sel, query, group_by)
+        except idquery.Unsupported:
+            pass
     _ensure_regexp(project)
     sql, args, _ = _match_sql(query)
     per_doc = Counter()
@@ -209,6 +216,12 @@ def kwic(project: TTWAProject, corpus_name: str, query: str, layer: str | None =
     arquivo e posição no texto. Paginada (`limit`/`offset`) no SQL; `sort` =
     position, left (palavra à esquerda) ou right (palavra à direita)."""
     sel = _select_layers(project, corpus_name, layer, where, _needs(query))
+    store = idquery.available(project, sel)
+    if store is not None:
+        try:
+            return idquery.kwic(project, store, sel, query, context, limit, offset, sort, with_sentence)
+        except idquery.Unsupported:
+            pass
     _ensure_regexp(project)
     sql, args, n = _match_sql(query)
     order = {
@@ -304,6 +317,12 @@ def frequency(project: TTWAProject, corpus_name: str, unit: str = "form", n: int
         raise ValueError(f"unidade deve ser uma de {UNITS}")
     sel = _select_layers(project, corpus_name, layer, where, _needs(unit=unit))
     stop = {s.lower() for s in (stop or [])}
+    store = idquery.available(project, sel)
+    if store is not None:
+        try:
+            return idquery.frequency(store, sel, unit, n, by, top, words_only, stop)
+        except idquery.Unsupported:
+            pass
     counts: dict[str, Counter] = defaultdict(Counter)
     sizes: Counter = Counter()
     for doc, rows in _layer_tokens(project, sel):
@@ -336,6 +355,12 @@ def collocates(project: TTWAProject, corpus_name: str, node: str, window: tuple[
     (tabela 2×2, como no #LancsBox). `position` indica onde o colocado aparece mais."""
     left, right = window
     sel = _select_layers(project, corpus_name, layer, where, _needs(node) or _needs(unit=unit))
+    store = idquery.available(project, sel)
+    if store is not None:
+        try:
+            return idquery.collocates(store, sel, node, window, unit, min_freq, top, sort)
+        except idquery.Unsupported:
+            pass
     _ensure_regexp(project)
     sql, args, n = _match_sql(node)
     hits: dict[int, set[int]] = defaultdict(set)

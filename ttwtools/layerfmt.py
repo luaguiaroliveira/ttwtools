@@ -243,6 +243,11 @@ def _chunks2(blob: bytes) -> "tuple[int, list[tuple[int, bytes]]]":
     return n, out
 
 
+def blob_length(blob: bytes) -> int:
+    """Número de tokens de um blob `TCL2`, sem decodificar."""
+    return struct.unpack_from("<I", bytes(blob[:8]), 4)[0]
+
+
 def decode_ids(blob: bytes, columns: "Sequence[int]" = tuple(range(2, N_COLUMNS))) -> "dict[int, array]":
     """`TCL2`: só os ids das colunas de texto pedidas (2..8), como `array('I')`; 0 = None. Não precisa do léxico."""
     n, ch = _chunks2(blob)
