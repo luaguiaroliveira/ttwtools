@@ -149,7 +149,7 @@ Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.op
 ### `purge_orphan_workdirs` · **`ttwtools.purge_orphan_workdirs`**
 
 ```python
-purge_orphan_workdirs(prefixes: "'tuple[str, ...]'" = ('ttw_work_', 'ttw_export_'), max_age_hours: 'float' = 24) -> 'int'
+purge_orphan_workdirs(prefixes: "'tuple[str, ...]'" = ('ttw_work_', 'ttw_export_', 'ttw_pack_'), max_age_hours: 'float' = 24) -> 'int'
 ```
 
 Apaga pastas temporárias do TTWtools abandonadas: a do processo que já morreu (marca `owner.pid`),
@@ -200,23 +200,29 @@ Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
 ### `save_corpora_as` · **`ttwtools.save_corpora_as`**
 
 ```python
-save_corpora_as(project: 'TTWAProject', corpus_names: "'list[str]'", dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
+save_corpora_as(project: 'TTWAProject', corpus_names: "'list[str]'", dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: "'bool | None'" = None, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
 ```
 
-Grava uma seleção de corpora do projeto num pacote: `.ttwal` (leve: textos numa pasta
-`<nome>_corpus/<corpus>` ao lado do arquivo; é o `.ttwl` para uma seleção), `.ttwl` (idem)
-ou `.ttwa` (textos dentro). Vão junto metadados, camadas, lista "a executar" e as análises
+Grava uma seleção de corpora do projeto num pacote: `.ttwal` (LEVE: textos numa pasta
+`<nome>_corpus/<corpus>` ao lado do arquivo e, por padrão, sem as tabelas de busca), `.ttwl`
+(textos ao lado, com as tabelas) ou `.ttwa` (textos dentro, com as tabelas). `search_tables`
+como em `save_corpus_as`: `None` = sem tabelas só no `.ttwal`. Vão junto metadados, camadas, lista "a executar" e as análises
 que só usam corpora da seleção (comparações com quem ficou de fora são descartadas).
 O projeto de origem não muda.
 
 ### `save_corpus_as` · **`ttwtools.save_corpus_as`**
 
 ```python
-save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
+save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: "'bool | None'" = None, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
 ```
 
 Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
-`.ttwcl` (textos numa pasta `<nome>_corpus` ao lado do arquivo).
+`.ttwcl` (LEVE: textos numa pasta `<nome>_corpus` ao lado do arquivo e, por padrão, sem as
+tabelas de busca).
+
+`search_tables=None` (padrão): `.ttwc` leva as tabelas de busca (abre pronto para buscar);
+`.ttwcl` não leva (fica bem menor: tokens e índices são a maior parte do arquivo; abrir
+recria as tabelas, com progresso). `True`/`False` forçam.
 
 Vão junto os metadados, as camadas, a lista "a executar" e as análises que só usam
 esse corpus (comparações com outros corpora ficam de fora). Compactado por padrão.

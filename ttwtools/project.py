@@ -397,7 +397,7 @@ def save_project_as(
     if not search_tables:
         import shutil
         import tempfile
-        workdir = Path(tempfile.mkdtemp(prefix="ttw_pack_"))
+        workdir = make_workdir("ttw_pack_")
         try:
             packed = workdir / src.name
             a, b = sqlite3.connect(str(src)), sqlite3.connect(str(packed))
@@ -818,7 +818,7 @@ class TTWAProject:
             home = _WORKING_COPIES.get(str(p))
         if home is None and compression_of(p):
             import tempfile
-            workdir = Path(tempfile.mkdtemp(prefix="ttw_"))
+            workdir = make_workdir("ttw_work_")     # com o PID do dono: se o processo morrer, a limpeza de órfãs apaga
             work = workdir / p.name
             decompress_project_file(p, work,
                                     progress_cb=(lambda d, t: progress(d, t, "decompress")) if progress else None)
@@ -1934,11 +1934,16 @@ def save_corpus_as(
     dest: str | Path,
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
     compress: bool = True,
-    search_tables: bool = True,
+    search_tables: "bool | None" = None,
     progress: "Optional[Callable[[int, int, str], None]]" = None,
 ) -> Path:
     """Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
-    `.ttwcl` (textos numa pasta `<nome>_corpus` ao lado do arquivo).
+    `.ttwcl` (LEVE: textos numa pasta `<nome>_corpus` ao lado do arquivo e, por padrão, sem as
+    tabelas de busca).
+
+    `search_tables=None` (padrão): `.ttwc` leva as tabelas de busca (abre pronto para buscar);
+    `.ttwcl` não leva (fica bem menor: tokens e índices são a maior parte do arquivo; abrir
+    recria as tabelas, com progresso). `True`/`False` forçam.
 
     Vão junto os metadados, as camadas, a lista "a executar" e as análises que só usam
     esse corpus (comparações com outros corpora ficam de fora). Compactado por padrão.
@@ -1954,12 +1959,13 @@ def save_corpora_as(
     dest: str | Path,
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
     compress: bool = True,
-    search_tables: bool = True,
+    search_tables: "bool | None" = None,
     progress: "Optional[Callable[[int, int, str], None]]" = None,
 ) -> Path:
-    """Grava uma seleção de corpora do projeto num pacote: `.ttwal` (leve: textos numa pasta
-    `<nome>_corpus/<corpus>` ao lado do arquivo; é o `.ttwl` para uma seleção), `.ttwl` (idem)
-    ou `.ttwa` (textos dentro). Vão junto metadados, camadas, lista "a executar" e as análises
+    """Grava uma seleção de corpora do projeto num pacote: `.ttwal` (LEVE: textos numa pasta
+    `<nome>_corpus/<corpus>` ao lado do arquivo e, por padrão, sem as tabelas de busca), `.ttwl`
+    (textos ao lado, com as tabelas) ou `.ttwa` (textos dentro, com as tabelas). `search_tables`
+    como em `save_corpus_as`: `None` = sem tabelas só no `.ttwal`. Vão junto metadados, camadas, lista "a executar" e as análises
     que só usam corpora da seleção (comparações com quem ficou de fora são descartadas).
     O projeto de origem não muda."""
     if Path(dest).suffix.lower() not in MULTI_CORPUS_EXTENSIONS:
@@ -1992,7 +1998,7 @@ def _pid_alive(pid: int) -> bool:
     return True
 
 
-def purge_orphan_workdirs(prefixes: "tuple[str, ...]" = ("ttw_work_", "ttw_export_"), max_age_hours: float = 24) -> int:
+def purge_orphan_workdirs(prefixes: "tuple[str, ...]" = ("ttw_work_", "ttw_export_", "ttw_pack_"), max_age_hours: float = 24) -> int:
     """Apaga pastas temporárias do TTWtools abandonadas: a do processo que já morreu (marca `owner.pid`),
     ou, sem marca (versões antigas), a que ninguém mexe há `max_age_hours`. Devolve quantas apagou."""
     import shutil
@@ -2026,7 +2032,7 @@ def _copy_rows(con: sqlite3.Connection, table: str, where: str = "", args: tuple
 
 
 def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Path, single: bool,
-                         progress_cb, compress: bool, search_tables: bool,
+                         progress_cb, compress: bool, search_tables: "bool | None",
                          progress: "Optional[Callable[[int, int, str], None]]" = None) -> Path:
     """Base de `save_corpus_as` e `save_corpora_as`. Monta um arquivo novo copiando SÓ o que é dos
     corpora `keep` (em vez de copiar o projeto todo e apagar o resto: num projeto de vários GB isso
@@ -2035,6 +2041,8 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
     import json as _json
     import shutil
     out = Path(dest).expanduser().resolve()
+    if search_tables is None:                 # os formatos "leves" (.ttwcl, .ttwal) são leves de verdade: sem tokens e índices
+        search_tables = out.suffix.lower() not in (TTWCL_EXTENSION, TTWAL_EXTENSION)
     names = project.list_corpus_names()
     for c in keep:
         if c not in names:
@@ -2067,9 +2075,19 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
         _copy_rows(con, "analyses")
         con.commit()
         layer_ids = [r[0] for r in con.execute("SELECT id FROM main.layers ORDER BY id")]
+        pack = not search_tables                       # leve: cada camada já entra empacotada, sem tokens nem índices
+        cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
         for i, lid in enumerate(layer_ids):            # camada a camada: progresso e transações curtas
-            _copy_rows(con, "tokens", "WHERE layer_id = ?", (lid,))
-            _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
+            if pack:
+                rows = con.execute(f"SELECT {cols} FROM src.tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
+                if rows:
+                    data = zlib.compress(json.dumps([list(r) for r in rows], ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
+                    con.execute("INSERT OR REPLACE INTO main.layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
+                else:                                  # origem já sem tabelas de busca: a camada já está empacotada
+                    _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
+            else:
+                _copy_rows(con, "tokens", "WHERE layer_id = ?", (lid,))
+                _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
             if i % 20 == 0:
                 con.commit()
             if progress:
@@ -2116,11 +2134,17 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
         work._set_meta("single_corpus", bool(single))
         work._set_meta("project_name", keep[0] if single else out.stem)
         con.commit()
-        for _name, sql in _TOKEN_INDEXES:
-            con.execute(sql)
+        if pack:
+            work._set_meta("search_tables", False)
+            work._set_meta("save.search_tables", False)
+            work._set_meta("save.compress", bool(compress))
+        else:
+            for _name, sql in _TOKEN_INDEXES:
+                con.execute(sql)
         con.commit()
         work.close()
-        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=search_tables, progress=progress)
+        # já empacotado acima: `search_tables=True` só grava (nada de outra cópia do banco para empacotar de novo)
+        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=True, progress=progress)
     finally:
         shutil.rmtree(workdir, ignore_errors=True)
 

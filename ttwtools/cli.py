@@ -201,17 +201,19 @@ def _cmd_save_as(args: argparse.Namespace) -> int:
         raise SystemExit("ttwtools: .ttwc/.ttwcl guardam um corpus só: diga qual com --corpus")
     if corpora and not single and suffix not in MULTI_CORPUS_EXTENSIONS:
         raise SystemExit("ttwtools: --corpus vale para .ttwc/.ttwcl (um corpus) e .ttwal/.ttwl/.ttwa (uma seleção)")
-    compress, tables = not args.no_compress, not args.no_search_tables
+    compress = not args.no_compress
+    tables = False if args.no_search_tables else (True if args.with_search_tables else None)   # None: o padrão do formato
     with _open_or_create(args.project, create=False) as proj:
-        proj._set_meta("save.compress", compress)
-        proj._set_meta("save.search_tables", tables)
+        if not (single or corpora or suffix == ".ttwal"):       # exportar não muda as opções lembradas no projeto de origem
+            proj._set_meta("save.compress", compress)
+            proj._set_meta("save.search_tables", True if tables is None else tables)
         proj._con.commit()
         if single:
             out = save_corpus_as(proj, corpora[0], args.dest, compress=compress, search_tables=tables)
         elif corpora or suffix == ".ttwal":          # seleção de corpora (.ttwal sem --corpus = todos, em versão leve)
             out = save_corpora_as(proj, corpora or proj.list_corpus_names(), args.dest, compress=compress, search_tables=tables)
         else:
-            out = save_project_as(proj.path, args.dest, compress=compress, search_tables=tables)
+            out = save_project_as(proj.path, args.dest, compress=compress, search_tables=True if tables is None else tables)
     emit({"arquivo": str(out), "compactado": compression_of(out) is not None,
           "tamanho_mb": round(out.stat().st_size / 1e6, 1)}, args.format)
     return EXIT_OK
@@ -226,6 +228,8 @@ def _configure_save_as(p: argparse.ArgumentParser) -> None:
                    help="grava o banco sem compressão (abre sem descompactar, arquivo bem maior)")
     p.add_argument("--no-search-tables", action="store_true",
                    help="grava sem as tabelas de busca (tokens e índices): arquivo bem menor, mas abrir recria as tabelas")
+    p.add_argument("--with-search-tables", action="store_true",
+                   help="grava COM as tabelas de busca também nos formatos leves (.ttwcl, .ttwal), que por padrão ficam sem elas")
 
 
 def _cmd_pipeline(args: argparse.Namespace) -> int:

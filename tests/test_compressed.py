@@ -201,3 +201,20 @@ def test_purge_orphan_workdirs_pelo_dono(tmp_path, monkeypatch):
     os.utime(old, (1, 1))                                      # sem marca e antiga: abandonada
     assert ttwtools.purge_orphan_workdirs() == 2
     assert not dead.exists() and not old.exists() and alive.exists() and new.exists()
+
+
+def test_formatos_leves_saem_sem_tabelas_de_busca_por_padrao(tmp_path):
+    p = _two(tmp_path)
+    cheio = ttwtools.save_corpus_as(p, "c", tmp_path / "c.ttwc")                                   # .ttwc: com tabelas
+    leve = ttwtools.save_corpus_as(p, "c", tmp_path / "leve" / "c.ttwcl")                         # .ttwcl: leve de verdade
+    forcado = ttwtools.save_corpus_as(p, "c", tmp_path / "forcado" / "c.ttwcl", search_tables=True)
+    pacote = ttwtools.save_corpora_as(p, ["c", "d"], tmp_path / "pac" / "dois.ttwal")
+    p.close()
+    assert leve.stat().st_size < cheio.stat().st_size and pacote.stat().st_size < cheio.stat().st_size * 2
+    for path, com_tabelas in ((cheio, True), (leve, False), (forcado, True), (pacote, False)):
+        with ttwtools.open_project(path, migrate=False) as q:
+            assert q.has_search_tables is com_tabelas
+    with ttwtools.open_project(leve) as q:                                                         # abrir recria as tabelas
+        if not q.has_search_tables:
+            q.rebuild_search_tables()
+        assert ttwtools.search(q, "c", "the", layer="spacy")["total"] > 0
