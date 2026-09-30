@@ -15,7 +15,7 @@ As demais ficam no módulo indicado (ex.: `from ttwtools.experimental import com
 - [Consultas: busca, KWIC, frequência, colocados, dispersão](#query) — `ttwtools.query`
 - [Estatísticas do corpus](#stats) — `ttwtools.stats`
 - [Palavras-chave, listas de referência e faixas de frequência](#keyness) — `ttwtools.keyness`
-- [Tabelas de traços e KFA a partir das camadas](#features) — `ttwtools.features`
+- [Tabelas de atributos e KFA a partir das camadas](#features) — `ttwtools.features`
 - [Dados para gráficos de comparação](#viz) — `ttwtools.viz`
 - [Laboratório: N grupos (experimental)](#experimental) — `ttwtools.experimental`
 - [Catálogo de corpora](#corpus_catalog) — `ttwtools.corpus_catalog`
@@ -1150,11 +1150,11 @@ write_reference_list(path: 'str | Path', table: 'FreqTable', card: 'Mapping[str,
 Grava uma lista de frequência de referência (.tsv com a ficha na 1ª linha).
 
 <a id="features"></a>
-## Tabelas de traços e KFA a partir das camadas
+## Tabelas de atributos e KFA a partir das camadas
 
 Módulo `ttwtools.features`.
 
-features.py — Tabelas de traços a partir das camadas e KFA entre corpora ou grupos.
+features.py — Tabelas de atributos a partir das camadas e KFA entre corpora ou grupos.
 
 ### `default_feature`
 
@@ -1162,7 +1162,7 @@ features.py — Tabelas de traços a partir das camadas e KFA entre corpora ou g
 default_feature(tool: 'str' = '') -> 'str'
 ```
 
-Traço padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanza, `upos` e `xpos` ficam como opção).
+Atributo padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanza, `upos` e `xpos` ficam como opção).
 
 ### `feature_table` · **`ttwtools.feature_table`**
 
@@ -1170,7 +1170,7 @@ Traço padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanz
 feature_table(project: 'TTWAProject', corpus_name: 'str', layer: 'str', feature: 'str | None' = None, per1000: 'bool' = False, where: 'Mapping | None' = None, progress: "'Callable[[int, int], None] | None'" = None, sel: 'Mapping | None' = None) -> 'pd.DataFrame'
 ```
 
-Uma linha por documento: filename, Words, TTR e uma coluna por traço
+Uma linha por documento: filename, Words, TTR e uma coluna por atributo
 (contagem bruta ou por 1000 palavras). `progress(feitos, total)` a cada documento;
 `sel` (opcional): camadas já escolhidas por `_select_layers`.
 
@@ -1180,7 +1180,7 @@ Uma linha por documento: filename, Words, TTR e uma coluna por traço
 feature_values(project: 'TTWAProject', corpus_name: 'str', layer: 'str', feature_name: 'str', feature: 'str | None' = None, where: 'Mapping | None' = None) -> 'list[dict]'
 ```
 
-Valor por 1000 palavras de um traço em cada documento (detalhe do traço).
+Valor por 1000 palavras de um atributo em cada documento (detalhe do atributo).
 
 ### `kfa_layers` · **`ttwtools.kfa_layers`**
 
@@ -1188,7 +1188,7 @@ Valor por 1000 palavras de um traço em cada documento (detalhe do traço).
 kfa_layers(project: 'TTWAProject', corpus1: 'str', corpus2: 'str', layer: 'str', feature: 'str | None' = None, metric: 'str' = 'kfa', min_effect: 'float' = 0.0, join: 'str' = 'union', where1: 'Mapping | None' = None, where2: 'Mapping | None' = None, save: 'bool' = True, progress: "'Callable[[int, int, str], None] | None'" = None, reuse: 'bool' = True) -> 'dict'
 ```
 
-KFA (d de Cohen por traço, por 1000 palavras) entre dois corpora — ou dois
+KFA (d de Cohen por atributo, por 1000 palavras) entre dois corpora — ou dois
 grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
 ou kfa2 (desvio combinado ponderado).
 
@@ -1204,7 +1204,7 @@ resolve_feature(project: 'TTWAProject', sel: 'Mapping', feature: 'str | None') -
 ```
 
 `feature` pedido, ou o padrão `tags`; se a camada não tem `tags` (etiquetagem antiga), o primeiro de
-`xpos`, `upos` que ela tem. Assim o padrão nunca dá tabela vazia por falta do traço.
+`xpos`, `upos` que ela tem. Assim o padrão nunca dá tabela vazia por falta do atributo.
 
 <a id="viz"></a>
 ## Dados para gráficos de comparação
@@ -1219,7 +1219,7 @@ viz.py — Dados para os gráficos de comparação (a interface só desenha).
 feature_matrix(project: 'TTWAProject', sides: 'list[Mapping]', layer: 'str', features: 'Iterable[str] | None' = None, feature: 'str | None' = None, top: 'int' = 20) -> 'dict'
 ```
 
-Valor (por 1000 palavras) de cada traço em cada texto, com o lado de cada texto.
+Valor (por 1000 palavras) de cada atributo em cada texto, com o lado de cada texto.
 Sem `features`, usa os `top` de maior variância.
 
 ### `heatmap`
@@ -1228,7 +1228,7 @@ Sem `features`, usa os `top` de maior variância.
 heatmap(project: 'TTWAProject', sides: 'list[Mapping]', layer: 'str', feature: 'str | None' = None, top: 'int' = 20) -> 'dict'
 ```
 
-z-score de cada traço (colunas) em cada texto (linhas), textos agrupados por lado.
+z-score de cada atributo (colunas) em cada texto (linhas), textos agrupados por lado.
 
 ### `reduction`
 
@@ -1237,7 +1237,7 @@ reduction(project: 'TTWAProject', sides: 'list[Mapping]', layer: 'str', method: 
 ```
 
 Projeção 2D/3D dos textos. Devolve coords [{filename, side, x, y[, z]}], variância
-explicada (PCA) e cargas dos traços (PCA 2D).
+explicada (PCA) e cargas dos atributos (PCA 2D).
 
 <a id="experimental"></a>
 ## Laboratório: N grupos (experimental)
@@ -1253,7 +1253,7 @@ nomes, parâmetros e resultados podem mudar entre versões.
 compare_groups(project: 'TTWAProject', groups: 'list[Mapping]', layer: 'str', method: 'str' = 'one_vs_rest', feature: 'str | None' = None, metric: 'str' = 'kfa', top: 'int' = 10, correction: 'str' = 'fdr', lang: 'str | None' = None, save: 'bool' = True) -> 'dict[str, Any]'
 ```
 
-Compara N grupos de textos pelos traços da camada `layer` (ver o cabeçalho do módulo).
+Compara N grupos de textos pelos atributos da camada `layer` (ver o cabeçalho do módulo).
 Devolve {"method", "groups": [{label, n}], "warnings", ...resultado do método}.
 
 ### `groups_by_metadata`

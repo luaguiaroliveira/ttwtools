@@ -1,9 +1,9 @@
 """
-features.py — Tabelas de traços a partir das camadas e KFA entre corpora ou grupos.
+features.py — Tabelas de atributos a partir das camadas e KFA entre corpora ou grupos.
 
     feature_table(proj, "corpus", layer="biberplus")          # contagens por texto
     feature_table(proj, "corpus", layer="spacy", feature="xpos", per1000=True)
-    kfa_layers(proj, "A", "B", layer="biberplus")             # d de Cohen por traço
+    kfa_layers(proj, "A", "B", layer="biberplus")             # d de Cohen por atributo
 
 As contagens vêm dos tokens da camada (sem reetiquetar). "Words" segue a regra de
 cada tagger no fluxo antigo, para a KFA dar o mesmo resultado: BiberPlus conta
@@ -37,13 +37,13 @@ _PRESENT_SQL = {"tags": "tags IS NOT NULL AND tags NOT IN ('', '[]')", "xpos": "
 
 
 def default_feature(tool: str = "") -> str:
-    """Traço padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanza, `upos` e `xpos` ficam como opção)."""
+    """Atributo padrão de qualquer camada: `tags` (etiquetas do tagger; em spaCy e Stanza, `upos` e `xpos` ficam como opção)."""
     return "tags"
 
 
 def resolve_feature(project: TTWAProject, sel: Mapping, feature: str | None) -> str:
     """`feature` pedido, ou o padrão `tags`; se a camada não tem `tags` (etiquetagem antiga), o primeiro de
-    `xpos`, `upos` que ela tem. Assim o padrão nunca dá tabela vazia por falta do traço."""
+    `xpos`, `upos` que ela tem. Assim o padrão nunca dá tabela vazia por falta do atributo."""
     if feature:
         if feature not in FEATURES:
             raise ValueError(f"feature deve ser uma de {FEATURES}")
@@ -61,7 +61,7 @@ def resolve_feature(project: TTWAProject, sel: Mapping, feature: str | None) -> 
 def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: str | None = None,
                   per1000: bool = False, where: Mapping | None = None,
                   progress: "Callable[[int, int], None] | None" = None, sel: Mapping | None = None) -> pd.DataFrame:
-    """Uma linha por documento: filename, Words, TTR e uma coluna por traço
+    """Uma linha por documento: filename, Words, TTR e uma coluna por atributo
     (contagem bruta ou por 1000 palavras). `progress(feitos, total)` a cada documento;
     `sel` (opcional): camadas já escolhidas por `_select_layers`."""
     sel = sel if sel is not None else _select_layers(project, corpus_name, layer, where)
@@ -121,7 +121,7 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
                metric: str = "kfa", min_effect: float = 0.0, join: str = "union",
                where1: Mapping | None = None, where2: Mapping | None = None, save: bool = True,
                progress: "Callable[[int, int, str], None] | None" = None, reuse: bool = True) -> dict:
-    """KFA (d de Cohen por traço, por 1000 palavras) entre dois corpora — ou dois
+    """KFA (d de Cohen por atributo, por 1000 palavras) entre dois corpora — ou dois
     grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
     ou kfa2 (desvio combinado ponderado).
 
@@ -153,8 +153,8 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
         raise ValueError("cada lado precisa de pelo menos 2 documentos com a camada")
     meta = {"filename", "Words", "TTR"}
     if not ({*t1.columns} | {*t2.columns}) - meta:
-        raise ValueError(f"a camada '{layer}' não tem o traço '{feature}' nesses corpora "
-                         "(escolha outra camada no topo ou outro traço)")
+        raise ValueError(f"a camada '{layer}' não tem o atributo '{feature}' nesses corpora "
+                         "(escolha outra camada no topo ou outro atributo)")
     with tempfile.TemporaryDirectory() as tmp:
         p1, p2 = Path(tmp) / "c1_norm1000.csv", Path(tmp) / "c2_norm1000.csv"
         t1.to_csv(p1, index=False)
@@ -172,7 +172,7 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
 
 def feature_values(project: TTWAProject, corpus_name: str, layer: str, feature_name: str,
                    feature: str | None = None, where: Mapping | None = None) -> list[dict]:
-    """Valor por 1000 palavras de um traço em cada documento (detalhe do traço)."""
+    """Valor por 1000 palavras de um atributo em cada documento (detalhe do atributo)."""
     t = feature_table(project, corpus_name, layer, feature, per1000=True, where=where)
     if t.empty:
         return []

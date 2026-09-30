@@ -1,4 +1,4 @@
-"""ttwtools — etiquetagem, tabelas de traços e análise de key features.
+"""ttwtools — etiquetagem, tabelas de atributos e análise de key features.
 
 Os nomes públicos são carregados sob demanda (PEP 562): `import ttwtools` é
 rápido e só importa spaCy, pandas, torch etc. quando a função é usada.

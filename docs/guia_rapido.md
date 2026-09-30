@@ -15,7 +15,7 @@ python -m spacy download en_core_web_sm   # ou: ttwtools catalog download-model 
 ## Conceitos
 
 - **Projeto** (`.ttwa`): um arquivo SQLite com corpora, documentos (texto e metadados), **camadas** de anotação e análises salvas. `.ttwl` guarda os textos numa pasta ao lado; `.ttwt` é o `.ttwa` comprimido.
-- **Camada**: o resultado de um tagger sobre um documento (ferramenta, versão, modelo, opções e tokens com forma, lema, UPOS, XPOS, traços, tags). Etiquetar de novo com a mesma configuração reaproveita a camada.
+- **Camada**: o resultado de um tagger sobre um documento (ferramenta, versão, modelo, opções e tokens com forma, lema, UPOS, XPOS, atributos, tags). Etiquetar de novo com a mesma configuração reaproveita a camada.
 - **Referência**: outro corpus do projeto, um grupo do mesmo corpus (`rest:<metadado>`), uma lista `.tsv` ou uma lista do catálogo (`catalog:<id>`).
 
 ## Um fluxo completo em Python

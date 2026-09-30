@@ -29,7 +29,7 @@ MODULES = {
     "query": "Consultas: busca, KWIC, frequência, colocados, dispersão",
     "stats": "Estatísticas do corpus",
     "keyness": "Palavras-chave, listas de referência e faixas de frequência",
-    "features": "Tabelas de traços e KFA a partir das camadas",
+    "features": "Tabelas de atributos e KFA a partir das camadas",
     "viz": "Dados para gráficos de comparação",
     "experimental": "Laboratório: N grupos (experimental)",
     "corpus_catalog": "Catálogo de corpora",

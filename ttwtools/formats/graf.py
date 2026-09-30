@@ -92,7 +92,7 @@ def parse_graf(text: str, annotations: dict[str, Path], token_file: str | None =
     """Tokens e frases de um documento GrAF. Devolve {"tokens", "token_file", "mismatches", "sentences"}."""
     regions: dict[str, tuple[int, int]] = {}
     nodes: dict[str, list[str]] = {}
-    anns: dict[str, list[tuple[str, dict]]] = {}          # arquivo → [(nó, traços)] das anotações
+    anns: dict[str, list[tuple[str, dict]]] = {}          # arquivo → [(nó, atributos)] das anotações
     labels: dict[str, list[str]] = {}
     for fid, path in annotations.items():
         if not Path(path).is_file():

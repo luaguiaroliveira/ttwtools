@@ -6,9 +6,9 @@ viz.py — Dados para os gráficos de comparação (a interface só desenha).
     reduction(proj, [side1, side2], layer="biberplus", method="pca2d")
     heatmap(proj, [side1, side2], layer="biberplus", top=20)
 
-Tudo parte da tabela de traços por texto (features.feature_table, por 1000 palavras),
+Tudo parte da tabela de atributos por texto (features.feature_table, por 1000 palavras),
 sem reetiquetar. Redução: PCA 2D/3D, t-SNE, MDS (scikit-learn) e UMAP (umap-learn,
-opcional), sobre os traços de maior variância, padronizados (z-score).
+opcional), sobre os atributos de maior variância, padronizados (z-score).
 """
 
 from __future__ import annotations
@@ -48,7 +48,7 @@ def _combined(tables: list[pd.DataFrame]) -> tuple[pd.DataFrame, list[str]]:
 
 def feature_matrix(project: TTWAProject, sides: list[Mapping], layer: str, features: Iterable[str] | None = None,
                    feature: str | None = None, top: int = 20) -> dict:
-    """Valor (por 1000 palavras) de cada traço em cada texto, com o lado de cada texto.
+    """Valor (por 1000 palavras) de cada atributo em cada texto, com o lado de cada texto.
     Sem `features`, usa os `top` de maior variância."""
     df, feats = _combined(_tables(project, sides, layer, feature))
     chosen = list(features) if features else list(df[feats].var().nlargest(top).index)
@@ -61,7 +61,7 @@ def feature_matrix(project: TTWAProject, sides: list[Mapping], layer: str, featu
 
 
 def heatmap(project: TTWAProject, sides: list[Mapping], layer: str, feature: str | None = None, top: int = 20) -> dict:
-    """z-score de cada traço (colunas) em cada texto (linhas), textos agrupados por lado."""
+    """z-score de cada atributo (colunas) em cada texto (linhas), textos agrupados por lado."""
     df, feats = _combined(_tables(project, sides, layer, feature))
     chosen = list(df[feats].var().nlargest(top).index)
     x = df[chosen].astype(float)
@@ -75,7 +75,7 @@ def reduction(project: TTWAProject, sides: list[Mapping], layer: str, method: st
               feature: str | None = None, top_features: int = 30, perplexity: float = 30.0,
               n_neighbors: int = 15, min_dist: float = 0.1, metric: str = "euclidean", random_state: int = 42) -> dict:
     """Projeção 2D/3D dos textos. Devolve coords [{filename, side, x, y[, z]}], variância
-    explicada (PCA) e cargas dos traços (PCA 2D)."""
+    explicada (PCA) e cargas dos atributos (PCA 2D)."""
     if method not in METHODS:
         raise ValueError(f"método deve ser um de {METHODS}")
     from sklearn.preprocessing import StandardScaler

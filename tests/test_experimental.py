@@ -63,7 +63,7 @@ def test_warnings_and_errors(proj):
         assert "unequal" not in {w["code"] for w in r["warnings"]}
         with pytest.raises(ValueError, match="2 grupos"):
             ex.compare_groups(p, small[:1], "spacy")
-        with pytest.raises(ValueError, match="traços"):
+        with pytest.raises(ValueError, match="atributos"):
             ex.compare_groups(p, small, "spacy", feature="tags")
         with pytest.raises(ValueError, match="rótulos"):
             ex.compare_groups(p, [small[0], small[0]], "spacy")

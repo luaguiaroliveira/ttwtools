@@ -1,5 +1,5 @@
 """Acrescenta ao tagset do MFTE a documentação oficial (List_Features_MFTE_python_<versão>.xlsx,
-do repositório do MFTE): nome do traço, categoria, exemplos, operacionalização, unidade de
+do repositório do MFTE): nome do atributo, categoria, exemplos, operacionalização, unidade de
 normalização e autoria. Texto em inglês, como na fonte; a definição curta em pt/en segue nas
 chaves de tradução. Uso: python docs/enriquecer_mfte.py CAMINHO/List_Features_MFTE_python_1.6.xlsx 1.6
 (o .xlsx é lido sem dependências: é um zip de XML)."""

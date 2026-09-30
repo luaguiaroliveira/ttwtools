@@ -65,7 +65,7 @@ class SpacyBackend(Backend):
     """Opções: data/taggers/spacy.options.json (model, components, max_length...)."""
     name = "spacy"
     defaults = {"model": "en_core_web_sm"}
-    # pos = UPOS (token.pos_), tag = Penn/XPOS (token.tag_), lemma, morph = traços (feats)
+    # pos = UPOS (token.pos_), tag = Penn/XPOS (token.tag_), lemma, morph = atributos (feats)
     components = ("pos", "tag", "lemma", "morph")
     default_components = ("pos", "tag", "lemma", "morph")
 
@@ -95,7 +95,7 @@ class SpacyBackend(Backend):
                 for t in tokens:
                     t.pop(field, None)
         for t in tokens:
-            t["tags"] = []   # as classes ficam em upos/xpos; tags é para taggers de traços
+            t["tags"] = []   # as classes ficam em upos/xpos; tags é para taggers de atributos
         return tokens
 
 

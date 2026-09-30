@@ -407,7 +407,7 @@ def layer_summary(project: TTWAProject, corpus_name: str) -> list[dict]:
 
 def _layer_fields(project: TTWAProject, corpus_name: str, tool: str, version: str, model: str, config_hash: str) -> list[str]:
     """Campos preenchidos da camada (`tags`, `upos`, `xpos`, `lemma`, `feats`), por amostra das 3 primeiras camadas:
-    a interface só oferece `upos`/`xpos` como traço quando existem."""
+    a interface só oferece `upos`/`xpos` como atributo quando existem."""
     ids = [r[0] for r in project._con.execute(
         "SELECT l.id FROM layers l JOIN documents d ON d.id = l.doc_id WHERE d.corpus_name = ? AND l.tool = ?"
         " AND l.tool_version = ? AND l.model = ? AND l.config_hash = ? ORDER BY l.id LIMIT 3",

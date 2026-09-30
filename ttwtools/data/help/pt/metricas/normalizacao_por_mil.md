@@ -11,7 +11,7 @@ Exemplo: 12 passivas num texto de 2400 palavras = 5 por 1000; 4 passivas em 500 
 
 ## Como ler
 - O número é "quantas vezes a cada 1000 palavras". Para itens raros, use por milhão.
-- Nas tabelas de traços (rawcount × norm1000), é a versão normalizada que entra na KFA.
+- Nas tabelas de atributos (rawcount × norm1000), é a versão normalizada que entra na KFA.
 
 ## Cuidados
 - Em textos muito curtos, uma ocorrência a mais muda muito o valor.

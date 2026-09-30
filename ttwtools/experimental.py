@@ -3,7 +3,7 @@ experimental.py — Laboratório: comparar N grupos (novomodelo.md §14). API EX
 nomes, parâmetros e resultados podem mudar entre versões.
 
 Um grupo é um lado como em viz: {"corpus": "A", "where": {"nível": ["B1"]}, "label": "B1"}.
-Toda comparação parte da tabela textos × traços (por 1000 palavras) de uma camada.
+Toda comparação parte da tabela textos × atributos (por 1000 palavras) de uma camada.
 
     groups = groups_by_metadata(proj, "alunos", "nível")
     compare_groups(proj, groups, layer="biberplus", method="one_vs_rest")
@@ -11,13 +11,13 @@ Toda comparação parte da tabela textos × traços (por 1000 palavras) de uma c
     compare_groups(proj, [meu_texto] + referencias, layer="biberplus", method="nearest")
 
 Métodos:
-    one_vs_rest  d de Cohen de cada grupo contra todos os demais juntos, por traço
+    one_vs_rest  d de Cohen de cada grupo contra todos os demais juntos, por atributo
     pairwise     d de Cohen para cada par; matriz N×N de distância (média de |d|)
-    anova        Kruskal-Wallis por traço, epsilon² e p corrigido (FDR ou Bonferroni)
+    anova        Kruskal-Wallis por atributo, epsilon² e p corrigido (FDR ou Bonferroni)
     profile      PCA dos textos, coloridos pelo grupo (viz.reduction)
     dendrogram   agrupamento hierárquico (Ward) dos perfis médios dos grupos (z-score)
     nearest      o 1º grupo ("meu texto") contra os demais (referências): distância
-                 pelo z médio e os traços que mais afastam da referência mais próxima
+                 pelo z médio e os atributos que mais afastam da referência mais próxima
 """
 
 from __future__ import annotations
@@ -112,7 +112,7 @@ def _warnings(sizes: dict[str, int], method: str, n_features: int, lang: str | N
 def compare_groups(project: TTWAProject, groups: list[Mapping], layer: str, method: str = "one_vs_rest",
                    feature: str | None = None, metric: str = "kfa", top: int = 10, correction: str = "fdr",
                    lang: str | None = None, save: bool = True) -> dict[str, Any]:
-    """Compara N grupos de textos pelos traços da camada `layer` (ver o cabeçalho do módulo).
+    """Compara N grupos de textos pelos atributos da camada `layer` (ver o cabeçalho do módulo).
     Devolve {"method", "groups": [{label, n}], "warnings", ...resultado do método}."""
     if method not in METHODS:
         raise ValueError(f"método deve ser um de {METHODS}")
@@ -127,7 +127,7 @@ def compare_groups(project: TTWAProject, groups: list[Mapping], layer: str, meth
     if len(labels) < 2:
         raise ValueError("menos de 2 grupos têm textos com a camada")
     if not feats:
-        raise ValueError(f"a camada '{layer}' não tem traços do tipo '{feature or 'padrão'}' (sem etiquetas)")
+        raise ValueError(f"a camada '{layer}' não tem atributos do tipo '{feature or 'padrão'}' (sem etiquetas)")
     X = df[feats].to_numpy(dtype=float)
     grp = df["__group"].to_numpy()
     out: dict[str, Any] = {"method": method, "layer": layer, "feature": feature, "metric": metric,

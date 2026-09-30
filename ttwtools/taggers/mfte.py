@@ -224,7 +224,7 @@ def tag_from_doc_mfte(doc, original_text: str, offset_map, extended: bool = True
             "xpos": mfte_xpos,
             "tags": tags,
         }
-        # Campos da análise do Stanza, quando disponíveis (upos, lema, traços)
+        # Campos da análise do Stanza, quando disponíveis (upos, lema, atributos)
         for key, value in (("upos", getattr(sw, "upos", None)), ("lemma", getattr(sw, "lemma", None)),
                            ("feats", getattr(sw, "feats", None))):
             if value:

@@ -1,4 +1,4 @@
-"""Tabelas de traços das camadas e KFA (passo 3.7): mesmo resultado do fluxo antigo."""
+"""Tabelas de atributos das camadas e KFA (passo 3.7): mesmo resultado do fluxo antigo."""
 
 from __future__ import annotations
 

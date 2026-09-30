@@ -999,7 +999,7 @@ def _cmd_compare_groups(args):
         rows = [{"grupo": g["label"], **f} for g in r["results"] for f in g["features"]]
     elif m == "pairwise":
         rows = [{"a": pr["a"], "b": pr["b"], "mean_abs_d": pr["mean_abs_d"], "d>=0.8": pr["large"],
-                 "traços": " ".join(f["feature"] for f in pr["features"][:5])} for pr in r["pairs"]]
+                 "atributos": " ".join(f["feature"] for f in pr["features"][:5])} for pr in r["pairs"]]
     elif m == "anova":
         rows = [{k: x[k] for k in ("feature", "H", "epsilon2", "p", "p_adj")} for x in r["results"]]
     elif m == "profile":
@@ -1008,7 +1008,7 @@ def _cmd_compare_groups(args):
         rows = [{"ordem": i + 1, "grupo": g} for i, g in enumerate(r["order"])]
     else:
         rows = [{"referência": x["label"], "distância": x["distance"],
-                 "traços": " ".join(f["feature"] for f in x["features"][:5])} for x in r["results"]]
+                 "atributos": " ".join(f["feature"] for f in x["features"][:5])} for x in r["results"]]
     emit(rows, args.format)
     return EXIT_OK
 
@@ -1047,7 +1047,7 @@ def _configure_compare(p):
                      help="um grupo; repita (com nearest, o primeiro é o 'meu texto')")
     lab.add_argument("--method", choices=["one_vs_rest", "pairwise", "anova", "profile", "dendrogram", "nearest"],
                      default="one_vs_rest")
-    lab.add_argument("--top", type=int, default=10, help="traços por grupo ou par")
+    lab.add_argument("--top", type=int, default=10, help="atributos por grupo ou par")
     lab.add_argument("--correction", choices=["fdr", "bonferroni", "none"], default="fdr")
     lab.add_argument("--lang", choices=["pt", "en"], help="idioma dos avisos")
 
@@ -1138,7 +1138,7 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
     "collocate-examples": ("Ocorrências do nó com um colocado na janela (exemplos de um colocado)", _configure_collocate_examples, _cmd_collocate_examples),
     "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
     "tag-counts": ("Ocorrências de cada etiqueta no corpus todo (upos, xpos ou tags)", _configure_tag_counts, _cmd_tag_counts),
-    "compare":   ("KFA (d de Cohen por traço) entre dois corpora ou grupos, a partir das camadas",
+    "compare":   ("KFA (d de Cohen por atributo) entre dois corpora ou grupos, a partir das camadas",
                   _configure_compare, _cmd_compare),
     "keywords":  ("Palavras-chave do corpus contra uma referência (LL, log ratio, %%DIFF, log-odds)",
                   _configure_keywords, _cmd_keywords),

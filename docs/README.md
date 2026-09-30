@@ -1,6 +1,6 @@
 # ttwtools: notas técnicas e API clássica
 
-Complementa o [guia rápido](guia_rapido.md) (tudo o que o aplicativo faz, em Python e na linha de comando) e a [referência da API](referencia.md) (gerada das docstrings por `gerar_referencia.py`). Aqui: arquitetura, taggers, formato JSONL, a **API clássica da 0.1** (etiquetagem em pastas, tabelas de traços, KFA por CSV), integração do MFTE, empacotamento e licença.
+Complementa o [guia rápido](guia_rapido.md) (tudo o que o aplicativo faz, em Python e na linha de comando) e a [referência da API](referencia.md) (gerada das docstrings por `gerar_referencia.py`). Aqui: arquitetura, taggers, formato JSONL, a **API clássica da 0.1** (etiquetagem em pastas, tabelas de atributos, KFA por CSV), integração do MFTE, empacotamento e licença.
 
 ## 1. Arquitetura
 
@@ -10,7 +10,7 @@ Módulos principais: `project.py` (projeto `.ttwa`/`.ttwl`/`.ttwc`… em SQLite;
 
 | Tagger | `tagger_type` | Dependências | Features |
 |---|---|---|---|
-| BiberPlus (regex) | `biberplus` | spaCy (modelo `en_core_web_sm`) | ~67 traços de Biber |
+| BiberPlus (regex) | `biberplus` | spaCy (modelo `en_core_web_sm`) | ~67 atributos de Biber |
 | BiberPlus + spaCy/Stanza | `biberplus_nlp` | spaCy ou Stanza | ~67 |
 | MFTE | `mfte` | Stanza, torch, MFTE | ~80 |
 | MFTE estendido | `mfte_ext` | idem | ~120 |
@@ -41,7 +41,7 @@ ttwtools.normalize_biber_features("saida/corpus_biberfeatures_rawcount.csv")    
 res = ttwtools.kfa("saida/A_biberfeatures_norm1000.csv", "saida/B_biberfeatures_norm1000.csv", min_effect=0.2)
 ```
 
-Os dois taggers geram CSVs com as mesmas colunas (`filename`, `Words`, `TTR`, traços), então `kfa()` serve a qualquer um. `TTWAProject`: `create`, `open`, `add_corpus_folder`, `save_feature_table(corpus, df, "rawcount"|"norm1000", tagger_type="biberplus", tagger_config=None)`, `load_feature_table`, `list_feature_tables`, `save_kfa_result`, `load_kfa_result`, `export_corpus_to_folder`, `summary`; `save_analysis_to_project(...)` faz tudo de uma vez. Projetos antigos migram ao abrir (`tagger_type='biberplus'` nas linhas sem ele; esquema 0.2 → 0.3 com progresso). **Compatibilidade:** `from ttwtools.tagging import biberplus, normalize_biber_features` continua valendo (`tagging.py` é um shim); `save_tagged=True` agora grava `.jsonl`, **não** `.tsv`. O que o aplicativo faz hoje (camadas, busca, comparação, catálogo) está no guia rápido.
+Os dois taggers geram CSVs com as mesmas colunas (`filename`, `Words`, `TTR`, atributos), então `kfa()` serve a qualquer um. `TTWAProject`: `create`, `open`, `add_corpus_folder`, `save_feature_table(corpus, df, "rawcount"|"norm1000", tagger_type="biberplus", tagger_config=None)`, `load_feature_table`, `list_feature_tables`, `save_kfa_result`, `load_kfa_result`, `export_corpus_to_folder`, `summary`; `save_analysis_to_project(...)` faz tudo de uma vez. Projetos antigos migram ao abrir (`tagger_type='biberplus'` nas linhas sem ele; esquema 0.2 → 0.3 com progresso). **Compatibilidade:** `from ttwtools.tagging import biberplus, normalize_biber_features` continua valendo (`tagging.py` é um shim); `save_tagged=True` agora grava `.jsonl`, **não** `.tsv`. O que o aplicativo faz hoje (camadas, busca, comparação, catálogo) está no guia rápido.
 
 ## 5. Empacotamento (PyInstaller) e licença
 
