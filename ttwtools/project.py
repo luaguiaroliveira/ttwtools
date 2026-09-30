@@ -37,6 +37,7 @@ from typing import Callable, Optional
 import pandas as pd
 
 from . import layers as _layers
+from . import storage as _storage
 
 
 # ---------------------------------------------------------------------------
@@ -352,6 +353,7 @@ def decompress_project_file(
     kind = compression_of(source)
     if kind is None:
         raise ValueError(f"'{source.name}' não está compactado")
+    _storage.ensure_free_space(dest.parent, _storage.estimate_open(source), "open")
     if kind == "xz":
         return decompress_from_ttwt(source, dest, progress_cb=progress_cb)
     total = source.stat().st_size
@@ -392,8 +394,12 @@ def save_project_as(
     sai sempre compactado. O WAL é consolidado antes e a gravação vai para `.part`, que só
     substitui o destino no fim. `progress_cb(feitos, total)`."""
     src, out = Path(source).expanduser(), Path(dest).expanduser()
-    out.parent.mkdir(parents=True, exist_ok=True)
     checkpoint(src)
+    need = _storage.with_margin(_db_size(src))
+    _storage.ensure_free_space(out.parent, need, "save")
+    if not search_tables:
+        _storage.ensure_free_space(_tmp_root(), need, "save")    # a cópia empacotada vai para a pasta temporária
+    out.parent.mkdir(parents=True, exist_ok=True)
     if not search_tables:
         import shutil
         import tempfile
@@ -448,6 +454,7 @@ def decompress_from_ttwt(
     dest_ttwa = Path(dest_ttwa).expanduser()
     if compression_of(source) == "gzip":
         return decompress_project_file(source, dest_ttwa, progress_cb=progress_cb)
+    _storage.ensure_free_space(dest_ttwa.parent, _storage.estimate_open(source), "open")
     total = source.stat().st_size
     done = 0
     dec = lzma.LZMADecompressor()
@@ -820,8 +827,13 @@ class TTWAProject:
             import tempfile
             workdir = make_workdir("ttw_work_")     # com o PID do dono: se o processo morrer, a limpeza de órfãs apaga
             work = workdir / p.name
-            decompress_project_file(p, work,
-                                    progress_cb=(lambda d, t: progress(d, t, "decompress")) if progress else None)
+            try:
+                decompress_project_file(p, work,
+                                        progress_cb=(lambda d, t: progress(d, t, "decompress")) if progress else None)
+            except BaseException:
+                import shutil
+                shutil.rmtree(workdir, ignore_errors=True)      # sem espaço, corrompido ou cancelado: não deixa a pasta
+                raise
             proj = cls(work, home=p)
             proj._workdir = workdir
         else:
@@ -2039,6 +2051,34 @@ def compact_project(project: TTWAProject, dry_run: bool = True,
     return report
 
 
+def _tmp_root() -> Path:
+    import tempfile
+    return Path(tempfile.gettempdir())
+
+
+def _share_of_documents(project: TTWAProject, keep: "list[str]") -> float:
+    """Fração dos documentos do projeto que está nos corpora `keep` (estimativa do tamanho de uma exportação)."""
+    total = project._con.execute("SELECT COUNT(*) FROM documents").fetchone()[0]
+    if not total:
+        return 1.0
+    marks = ",".join("?" * len(keep))
+    part = project._con.execute(f"SELECT COUNT(*) FROM documents WHERE corpus_name IN ({marks})", tuple(keep)).fetchone()[0]
+    return max(part / total, 0.01)
+
+
+def estimate_export_bytes(project: TTWAProject, corpora: "list[str] | None" = None) -> int:
+    """Espaço estimado para exportar arquivos soltos (textos, etiquetados, tabelas) dos corpora: os textos
+    e as tabelas como estão, e os etiquetados (guardados em zlib) descompactados, ~5× o tamanho guardado."""
+    con = project._con
+    names = corpora if corpora is not None else project.list_corpus_names()
+    marks = ",".join("?" * len(names)) or "''"
+    args = tuple(names)
+    n = con.execute(f"SELECT COALESCE(SUM(n_chars), 0) FROM documents WHERE corpus_name IN ({marks})", args).fetchone()[0]
+    tagged = con.execute(f"SELECT COALESCE(SUM(LENGTH(content)), 0) FROM tagged_files WHERE corpus_name IN ({marks})", args).fetchone()[0]
+    tables = con.execute(f"SELECT COALESCE(SUM(LENGTH(data)), 0) FROM feature_tables WHERE corpus_name IN ({marks})", args).fetchone()[0]
+    return _storage.with_margin(int(n) * 2 + int(tagged) * 5 + int(tables) * 2)
+
+
 def _db_size(path: Path) -> int:
     """Tamanho do arquivo do banco (com o WAL, se houver)."""
     return sum(p.stat().st_size for p in (path, Path(str(path) + "-wal")) if p.exists())
@@ -2159,6 +2199,9 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
     project._con.commit()
     src_path = str(project.path)
     checkpoint(src_path)
+    need = _storage.with_margin(int(_db_size(project.path) * _share_of_documents(project, keep)))
+    _storage.ensure_free_space(out.parent, need, "export")
+    _storage.ensure_free_space(_tmp_root(), need, "export")      # o arquivo é montado na pasta temporária
     workdir = make_workdir("ttw_export_")
     try:
         work_path = workdir / ("work" + out.suffix)

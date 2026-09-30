@@ -218,6 +218,20 @@ def _unique_filename(project: TTWAProject, corpus_name: str, base: str) -> str:
     return name
 
 
+def _check_import_space(project: TTWAProject, source, glob: str, text: str | None) -> None:
+    """Recusa antes de gravar se o disco do projeto não comporta os textos (no banco e no WAL)."""
+    from . import storage
+    size = len(text.encode("utf-8")) if text else 0
+    if source is not None:
+        src = Path(source).expanduser()
+        if src.is_dir():
+            size += sum(f.stat().st_size for f in src.glob(glob) if f.is_file())
+        elif src.is_file():
+            size += src.stat().st_size
+    if size:
+        storage.ensure_free_space(project.path.parent, storage.with_margin(size * 2), "import")
+
+
 def import_corpus(
     project: TTWAProject,
     source: str | Path | None,
@@ -247,6 +261,7 @@ def import_corpus(
     """
     added: list[str] = []
     csv_meta: dict[str, dict[str, str]] = {}
+    _check_import_space(project, source, glob, text)
 
     if text is not None:
         filename = _unique_filename(project, name, text_filename)

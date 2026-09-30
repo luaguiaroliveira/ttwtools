@@ -1121,7 +1121,12 @@ def main(argv: Iterable[str] | None = None) -> int:
     if not getattr(args, "command", None):
         parser.print_help()
         return EXIT_OK
-    return args.handler(args)
+    from .storage import InsufficientDiskSpace
+    try:
+        return args.handler(args)
+    except InsufficientDiskSpace as exc:        # recusado antes de gravar: nada ficou pela metade
+        print(f"ttwtools: {exc}", file=sys.stderr)
+        return EXIT_ERROR
 
 
 if __name__ == "__main__":

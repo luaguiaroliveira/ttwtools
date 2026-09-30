@@ -738,5 +738,11 @@
  "project.compact_reason.no_document": "sem documento",
  "project.compact_reason.no_layer": "sem camada equivalente",
  "project.compact_reason.tokens_differ": "tokens diferentes",
- "project.compact_title": "Compactando o projeto"
+ "project.compact_title": "Compactando o projeto",
+ "error.disk_space": "Espaço em disco insuficiente para {what}: precisa de cerca de {needed_mb} MB e há {free_mb} MB livres em {path}. Nada foi alterado; libere espaço e tente de novo.",
+ "disk.what.save": "salvar",
+ "disk.what.save_as": "salvar como",
+ "disk.what.export": "exportar",
+ "disk.what.open": "abrir o arquivo",
+ "disk.what.import": "importar"
 }

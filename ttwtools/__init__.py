@@ -71,6 +71,8 @@ _EXPORTS = {
     "embed_corpus": "project",
     "detach_corpus": "project",
     "compact_project": "project",
+    "ensure_free_space": "storage",
+    "InsufficientDiskSpace": "storage",
     # corpus: importação, metadados, tokenização simples, filtros
     "import_corpus": "corpus",
     "preview_filenames": "corpus",

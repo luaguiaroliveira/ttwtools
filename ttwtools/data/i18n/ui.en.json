@@ -738,5 +738,11 @@
  "project.compact_reason.no_document": "no document",
  "project.compact_reason.no_layer": "no equivalent layer",
  "project.compact_reason.tokens_differ": "different tokens",
- "project.compact_title": "Compacting the project"
+ "project.compact_title": "Compacting the project",
+ "error.disk_space": "Not enough disk space to {what}: about {needed_mb} MB needed and {free_mb} MB free in {path}. Nothing was changed; free some space and try again.",
+ "disk.what.save": "save",
+ "disk.what.save_as": "save as",
+ "disk.what.export": "export",
+ "disk.what.open": "open the file",
+ "disk.what.import": "import"
 }

@@ -128,6 +128,15 @@ embed_corpus(project: 'TTWAProject', dest: 'str | Path | None' = None, allow_cha
 
 `.ttwl` → `.ttwa` (texto para dentro). Devolve o novo projeto aberto.
 
+### `estimate_export_bytes`
+
+```python
+estimate_export_bytes(project: 'TTWAProject', corpora: "'list[str] | None'" = None) -> 'int'
+```
+
+Espaço estimado para exportar arquivos soltos (textos, etiquetados, tabelas) dos corpora: os textos
+e as tabelas como estão, e os etiquetados (guardados em zlib) descompactados, ~5× o tamanho guardado.
+
 ### `export_corpus_next_to` · **`ttwtools.export_corpus_next_to`**
 
 ```python
@@ -1622,6 +1631,14 @@ Trecho Python equivalente, usando a API pública do pacote.
 
 Taggers da API clássica e utilitários exportados no nível do pacote.
 
+### `InsufficientDiskSpace` · **`ttwtools.InsufficientDiskSpace`**
+
+```python
+InsufficientDiskSpace(what: 'str', needed: 'int', free: 'int', path: "'str | Path'")
+```
+
+Não há espaço livre para a operação. Nada foi criado.
+
 ### `TTWAL_EXTENSION` · **`ttwtools.TTWAL_EXTENSION`**
 
 ```python
@@ -1798,6 +1815,15 @@ corpus_patterns(project: 'TTWAProject', corpus_name: 'str', field: 'str' = 'upos
 FreqTable dos n-gramas de etiquetas de um corpus. Com `keep`, também guarda, por
 documento, a contagem desses padrões (`doc_counts`) e o tamanho de cada documento
 (`doc_words`) — é o que permite o z-score descritivo.
+
+### `ensure_free_space` · **`ttwtools.ensure_free_space`**
+
+```python
+ensure_free_space(path: "'str | Path'", needed_bytes: 'int', what: 'str' = '') -> 'None'
+```
+
+Levanta `InsufficientDiskSpace` se o disco de `path` não comporta `needed_bytes` (já com folga).
+Não cria nada: `path` pode ainda não existir.
 
 ### `extract_biber_features_from_folder` · **`ttwtools.extract_biber_features_from_folder`**
 
