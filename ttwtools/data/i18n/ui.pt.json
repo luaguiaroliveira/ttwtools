@@ -287,6 +287,7 @@
  "kfa.mean": "Média por 1000",
  "kfa.metric": "Métrica",
  "kfa.min_effect": "|d| mínimo",
+ "kfa.min_effect_filter": "Filtra o resultado já calculado; não recalcula.",
  "kfa.no_layer": "O corpus ativo não tem camada etiquetada: etiquete em Etiquetagem.",
  "kfa.open_reader": "Ver no leitor",
  "kfa.results": "{n} atributos · lado 1: {n1} textos · lado 2: {n2} textos",
