@@ -767,5 +767,7 @@
  "job.stage.idx_upos": "Building the part-of-speech index",
  "job.stage.idx_xpos": "Building the tag index",
  "project.index_hint": "First time only: the search index is kept on this computer (see Disk usage) and later openings are fast.",
- "disk.what.index": "build the search index"
+ "disk.what.index": "build the search index",
+ "job.stage.kfa_count": "Counting the features of each text",
+ "job.stage.kfa_calc": "Computing the KFA"
 }

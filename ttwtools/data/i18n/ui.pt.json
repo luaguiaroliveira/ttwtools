@@ -767,5 +767,7 @@
  "job.stage.idx_upos": "Criando o índice de classes gramaticais",
  "job.stage.idx_xpos": "Criando o índice de etiquetas",
  "project.index_hint": "Só na primeira vez: o índice de busca fica guardado neste computador (em Uso de disco) e as próximas aberturas são rápidas.",
- "disk.what.index": "criar o índice de busca"
+ "disk.what.index": "criar o índice de busca",
+ "job.stage.kfa_count": "Contando as features de cada texto",
+ "job.stage.kfa_calc": "Calculando o KFA"
 }

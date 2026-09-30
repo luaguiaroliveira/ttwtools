@@ -1627,6 +1627,24 @@ class TTWAProject:
         self._con.commit()
         return cur.lastrowid
 
+    @staticmethod
+    def _analysis_key(params: dict | None) -> str:
+        return json.dumps(params or {}, ensure_ascii=False, sort_keys=True)
+
+    def find_analysis(self, type: str, params: dict, layer_refs: list[int]) -> dict | None:
+        """Análise já guardada com os mesmos parâmetros **e** sobre as mesmas camadas (ids), ou None.
+        Uma camada nova ou trocada muda os ids e invalida o resultado guardado."""
+        row = self._con.execute(
+            "SELECT id FROM analyses WHERE type = ? AND params = ? AND layer_refs = ? AND result IS NOT NULL"
+            " ORDER BY id DESC LIMIT 1",
+            (type, self._analysis_key(params), json.dumps(list(layer_refs)))).fetchone()
+        return self.load_analysis(row["id"]) if row else None
+
+    def replace_analysis(self, type: str, result, params: dict, layer_refs: list[int], name: str = "") -> int:
+        """Guarda a análise no lugar de qualquer outra do mesmo tipo e parâmetros (não acumula repetições)."""
+        self._con.execute("DELETE FROM analyses WHERE type = ? AND params = ?", (type, self._analysis_key(params)))
+        return self.save_analysis(type, result, params=params, layer_refs=list(layer_refs), name=name)
+
     def list_analyses(self, type: str | None = None) -> list[dict]:
         sql = "SELECT id, type, name, params, layer_refs, created_at FROM analyses"
         rows = self._con.execute(sql + (" WHERE type = ?" if type else "") + " ORDER BY id",

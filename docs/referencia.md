@@ -1147,11 +1147,12 @@ Traço padrão da camada: `tags` no BiberPlus/MFTE, `upos` nos demais.
 ### `feature_table` · **`ttwtools.feature_table`**
 
 ```python
-feature_table(project: 'TTWAProject', corpus_name: 'str', layer: 'str', feature: 'str | None' = None, per1000: 'bool' = False, where: 'Mapping | None' = None) -> 'pd.DataFrame'
+feature_table(project: 'TTWAProject', corpus_name: 'str', layer: 'str', feature: 'str | None' = None, per1000: 'bool' = False, where: 'Mapping | None' = None, progress: "'Callable[[int, int], None] | None'" = None, sel: 'Mapping | None' = None) -> 'pd.DataFrame'
 ```
 
 Uma linha por documento: filename, Words, TTR e uma coluna por traço
-(contagem bruta ou por 1000 palavras).
+(contagem bruta ou por 1000 palavras). `progress(feitos, total)` a cada documento;
+`sel` (opcional): camadas já escolhidas por `_select_layers`.
 
 ### `feature_values`
 
@@ -1164,12 +1165,17 @@ Valor por 1000 palavras de um traço em cada documento (detalhe do traço).
 ### `kfa_layers` · **`ttwtools.kfa_layers`**
 
 ```python
-kfa_layers(project: 'TTWAProject', corpus1: 'str', corpus2: 'str', layer: 'str', feature: 'str | None' = None, metric: 'str' = 'kfa', min_effect: 'float' = 0.0, join: 'str' = 'union', where1: 'Mapping | None' = None, where2: 'Mapping | None' = None, save: 'bool' = True) -> 'dict'
+kfa_layers(project: 'TTWAProject', corpus1: 'str', corpus2: 'str', layer: 'str', feature: 'str | None' = None, metric: 'str' = 'kfa', min_effect: 'float' = 0.0, join: 'str' = 'union', where1: 'Mapping | None' = None, where2: 'Mapping | None' = None, save: 'bool' = True, progress: "'Callable[[int, int, str], None] | None'" = None, reuse: 'bool' = True) -> 'dict'
 ```
 
 KFA (d de Cohen por traço, por 1000 palavras) entre dois corpora — ou dois
 grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
 ou kfa2 (desvio combinado ponderado).
+
+Com `save`, o resultado fica nas análises do projeto junto das camadas usadas; pedir de novo a
+mesma KFA sobre as mesmas camadas devolve o resultado guardado (`reuse=True`; `cached` no
+resultado) em vez de contar tudo outra vez. `progress(feitos, total, etapa)`: `kfa_count` (um
+documento de cada vez, nos dois lados) e `kfa_calc`.
 
 <a id="viz"></a>
 ## Dados para gráficos de comparação

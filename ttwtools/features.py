@@ -14,9 +14,10 @@ from __future__ import annotations
 
 import re
 import tempfile
-from collections import Counter
+import threading
+from collections import Counter, OrderedDict
 from pathlib import Path
-from typing import Mapping
+from typing import Callable, Mapping
 
 import pandas as pd
 
@@ -24,6 +25,9 @@ from .project import TTWAProject
 from .query import _select_layers
 
 _WORD_RE = re.compile(r"\b[A-Za-z]+\b")
+_TABLES: "OrderedDict[tuple, pd.DataFrame]" = OrderedDict()     # tabelas já contadas (memória; ver feature_table)
+_TABLES_MAX = 12
+_TABLES_LOCK = threading.Lock()
 _HAS_ALPHA = re.compile(r"[A-Za-z]")
 FEATURES = ("tags", "upos", "xpos")
 
@@ -34,15 +38,26 @@ def default_feature(tool: str) -> str:
 
 
 def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: str | None = None,
-                  per1000: bool = False, where: Mapping | None = None) -> pd.DataFrame:
+                  per1000: bool = False, where: Mapping | None = None,
+                  progress: "Callable[[int, int], None] | None" = None, sel: Mapping | None = None) -> pd.DataFrame:
     """Uma linha por documento: filename, Words, TTR e uma coluna por traço
-    (contagem bruta ou por 1000 palavras)."""
+    (contagem bruta ou por 1000 palavras). `progress(feitos, total)` a cada documento;
+    `sel` (opcional): camadas já escolhidas por `_select_layers`."""
     feature = feature or default_feature(layer)
     if feature not in FEATURES:
         raise ValueError(f"feature deve ser uma de {FEATURES}")
-    sel = _select_layers(project, corpus_name, layer, where)
+    sel = sel if sel is not None else _select_layers(project, corpus_name, layer, where)
+    # Contar é a parte cara. Uma camada (id) nunca muda, então a chave é o conteúdo das camadas escolhidas:
+    # o detalhe de uma feature, a galeria e a KFA repetida reaproveitam a tabela (só em memória, por sessão).
+    key = _table_key(project, sel, layer, feature, per1000)
+    with _TABLES_LOCK:
+        if key in _TABLES:
+            _TABLES.move_to_end(key)
+            return _TABLES[key].copy()
     records = []
-    for layer_id, doc in sel.items():
+    for n_done, (layer_id, doc) in enumerate(sel.items(), 1):
+        if progress:
+            progress(n_done - 1, len(sel))
         toks = project._con.execute("SELECT word, upos, xpos, tags FROM tokens WHERE layer_id = ? ORDER BY idx",
                                     (layer_id,)).fetchall()
         counts: Counter = Counter()
@@ -67,18 +82,53 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
     if not df.empty:
         meta = ["filename", "Words", "TTR"]
         df = df[meta + sorted(c for c in df.columns if c not in meta)].fillna(0)
+    with _TABLES_LOCK:
+        _TABLES[key] = df.copy()
+        while len(_TABLES) > _TABLES_MAX:
+            _TABLES.popitem(last=False)
     return df
+
+
+def _table_key(project: TTWAProject, sel: Mapping, layer: str, feature: str, per1000: bool) -> tuple:
+    """Identidade do conteúdo contado: camadas (id, hash do texto, configuração, tokens) mais o que muda a conta."""
+    ids = sorted(sel)
+    marks = ",".join("?" * len(ids))
+    rows = project._con.execute(
+        f"SELECT id, text_hash, config_hash, n_tokens FROM layers WHERE id IN ({marks}) ORDER BY id", ids).fetchall() if ids else []
+    return (layer, feature, per1000, tuple(tuple(r) for r in rows))
 
 
 def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, feature: str | None = None,
                metric: str = "kfa", min_effect: float = 0.0, join: str = "union",
-               where1: Mapping | None = None, where2: Mapping | None = None, save: bool = True) -> dict:
+               where1: Mapping | None = None, where2: Mapping | None = None, save: bool = True,
+               progress: "Callable[[int, int, str], None] | None" = None, reuse: bool = True) -> dict:
     """KFA (d de Cohen por traço, por 1000 palavras) entre dois corpora — ou dois
     grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
-    ou kfa2 (desvio combinado ponderado)."""
+    ou kfa2 (desvio combinado ponderado).
+
+    Com `save`, o resultado fica nas análises do projeto junto das camadas usadas; pedir de novo a
+    mesma KFA sobre as mesmas camadas devolve o resultado guardado (`reuse=True`; `cached` no
+    resultado) em vez de contar tudo outra vez. `progress(feitos, total, etapa)`: `kfa_count` (um
+    documento de cada vez, nos dois lados) e `kfa_calc`."""
     from .analysis import analyze_key_features
-    t1 = feature_table(project, corpus1, layer, feature, per1000=True, where=where1)
-    t2 = feature_table(project, corpus2, layer, feature, per1000=True, where=where2)
+    params = {"corpus1": corpus1, "corpus2": corpus2, "where1": dict(where1 or {}), "where2": dict(where2 or {}),
+              "layer": layer, "feature": feature or default_feature(layer), "metric": metric,
+              "min_effect": min_effect, "join": join}
+    sel1 = _select_layers(project, corpus1, layer, where1)
+    sel2 = _select_layers(project, corpus2, layer, where2)
+    refs = sorted(set(sel1) | set(sel2))
+    if save and reuse:
+        hit = project.find_analysis("kfa", params, refs)
+        if hit is not None:
+            return {**hit["result"], "cached": True}
+    total = len(sel1) + len(sel2)
+
+    def side(offset):
+        return (lambda d, t: progress(offset + d, total, "kfa_count")) if progress else None
+    t1 = feature_table(project, corpus1, layer, feature, per1000=True, where=where1, progress=side(0), sel=sel1)
+    t2 = feature_table(project, corpus2, layer, feature, per1000=True, where=where2, progress=side(len(sel1)), sel=sel2)
+    if progress:
+        progress(total, total, "kfa_calc")
     if len(t1) < 2 or len(t2) < 2:
         raise ValueError("cada lado precisa de pelo menos 2 documentos com a camada")
     with tempfile.TemporaryDirectory() as tmp:
@@ -90,13 +140,9 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
         with contextlib.redirect_stdout(io.StringIO()):     # a função antiga imprime o progresso
             df = analyze_key_features(str(p1), str(p2), min_effect_size=min_effect, join=join, metric=metric)
     rows = df.to_dict(orient="records") if not df.empty else []
-    result = {"corpus1": corpus1, "corpus2": corpus2, "where1": dict(where1 or {}), "where2": dict(where2 or {}),
-              "layer": layer, "feature": feature or default_feature(layer), "metric": metric,
-              "min_effect": min_effect, "join": join, "n1": len(t1), "n2": len(t2), "rows": rows}
+    result = {**params, "n1": len(t1), "n2": len(t2), "rows": rows}
     if save:
-        project.save_analysis("kfa", result, name=f"{corpus1} × {corpus2} [{layer}]",
-                              params={k: result[k] for k in ("corpus1", "corpus2", "where1", "where2", "layer",
-                                                              "feature", "metric", "min_effect", "join")})
+        project.replace_analysis("kfa", result, name=f"{corpus1} × {corpus2} [{layer}]", params=params, layer_refs=refs)
     return result
 
 

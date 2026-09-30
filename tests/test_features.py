@@ -75,3 +75,36 @@ def test_groups_values_and_cli(v2, capsys):
     assert [x["Feature"] for x in out["rows"]] == [x["Feature"] for x in direct["rows"]]
     with pytest.raises(ValueError):
         kfa_layers(v2, "CorIFAessaysNE_5", "CorIFAessaysNE_5", "spacy", where1={"g": "B"}, where2={"g": "nada"})
+
+
+def test_feature_table_is_reused_and_invalidated_by_new_layers(tmp_path):
+    """A 2ª chamada não recontar (memória); uma camada nova muda a chave e recalcula."""
+    import shutil
+    import warnings
+    from pathlib import Path
+    import ttwtools
+    from ttwtools import features
+    features._TABLES.clear()
+    path = tmp_path / "p.ttwa"
+    shutil.copy(Path(__file__).parent / "data" / "v2_small.ttwa", path)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        p = ttwtools.open_project(path)
+
+    a = features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=True)
+    n = len(features._TABLES)
+    seen = []
+    b = features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=True, progress=lambda d, t: seen.append(d))
+    assert b.equals(a) and b is not a and seen == []            # veio da memória (sem andamento) e é cópia
+    b.loc[0, "Words"] = -1                                       # mexer na cópia não estraga o cache
+    assert features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=True).equals(a)
+    assert len(features._TABLES) == n
+    c = features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=False)      # outra forma: outra entrada
+    assert not c.equals(a) and len(features._TABLES) == n + 1
+    doc = p.list_documents("CorIFAessaysNE_5")[0]
+    p.save_layer(doc["id"], "spacy", "9", "outro", {"x": 1}, [{"word": "zzz", "lemma": "zzz", "upos": "X", "start_char": 0, "end_char": 3}])
+    p._con.commit()
+    seen = []
+    features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=True, progress=lambda d, t: seen.append(d))
+    assert seen                                                  # camada nova: contou de novo
+    p.close()

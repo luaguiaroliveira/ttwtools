@@ -6,6 +6,9 @@ All notable changes to ttwtools are documented here.
 
 ## [Unreleased]
 
+### Changed
+- `kfa_layers(progress=, reuse=)`: reports progress per document (`kfa_count`, `kfa_calc`) and returns the saved result when the same KFA is asked again on the same layers (`cached` in the result); repeated runs replace the saved analysis instead of piling up (`find_analysis`, `replace_analysis`). `feature_table(progress=, sel=)` keeps counted tables in memory keyed by layer content.
+
 ### Added
 - `compact_project(project, dry_run=True)` and `ttwtools compact PROJECT [--dry-run]`: removes legacy `tagged_files` rows proven equivalent (token by token) to an existing layer; reports what is kept and why.
 - `ttwtools.storage`: `ensure_free_space()` / `InsufficientDiskSpace` (checked before save, save-as, export, open compressed and import; nothing is created on refusal), working folders with an owner (`workdir`, `list_workdirs`, `purge_orphans`), cache with limit and LRU cleanup (`cache_dir`, `cache_entry`, `enforce_cache_limit`, `clear_cache`), `disk_usage()`. CLI `ttwtools cache list|clear`.
