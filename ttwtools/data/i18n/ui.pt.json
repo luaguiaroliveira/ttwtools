@@ -759,5 +759,13 @@
  "disk.clear_hint": "Apaga o cache e as pastas abandonadas; o que está em uso fica.",
  "disk.cleared": "{mb} MB liberados.",
  "disk.warn_purged": "Ao iniciar, foram apagados {mb} MB de restos de sessões anteriores.",
- "disk.warn_orphans": "Há {mb} MB de restos de sessões anteriores ocupando disco."
+ "disk.warn_orphans": "Há {mb} MB de restos de sessões anteriores ocupando disco.",
+ "job.stage.idx_read": "Lendo as camadas para o índice de busca",
+ "job.stage.idx_words": "Criando o índice de formas",
+ "job.stage.idx_lemmas": "Criando o índice de lemas",
+ "job.stage.idx_doc": "Criando o índice de documentos",
+ "job.stage.idx_upos": "Criando o índice de classes gramaticais",
+ "job.stage.idx_xpos": "Criando o índice de etiquetas",
+ "project.index_hint": "Só na primeira vez: o índice de busca fica guardado neste computador (em Uso de disco) e as próximas aberturas são rápidas.",
+ "disk.what.index": "criar o índice de busca"
 }

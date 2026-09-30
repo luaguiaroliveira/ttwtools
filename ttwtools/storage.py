@@ -22,7 +22,7 @@ MARGIN_RATIO = 0.10                  # e 10% do estimado
 _OPEN_FACTOR = 3                     # sem tamanho no cabeçalho (xz): descompactado ≈ 3× o arquivo
 
 _WHAT_PT = {"save": "salvar", "save_as": "salvar como", "export": "exportar", "open": "abrir o arquivo",
-            "import": "importar"}
+            "import": "importar", "index": "criar o índice de busca"}
 
 
 class InsufficientDiskSpace(OSError):
@@ -233,8 +233,9 @@ def cache_entries() -> list[dict]:
     return sorted(out, key=lambda e: e["last_used"])
 
 
-def enforce_cache_limit(limit: int | None = None) -> list[str]:
-    """Remove os itens menos usados até o cache caber no limite. Devolve as chaves removidas."""
+def enforce_cache_limit(limit: int | None = None, keep: "tuple[str, ...]" = ()) -> list[str]:
+    """Remove os itens menos usados até o cache caber no limite. `keep`: chaves que não saem (em uso
+    agora). Devolve as chaves removidas."""
     limit = cache_limit() if limit is None else limit
     entries = cache_entries()
     total = sum(e["bytes"] for e in entries)
@@ -242,6 +243,8 @@ def enforce_cache_limit(limit: int | None = None) -> list[str]:
     for e in entries:
         if total <= limit:
             break
+        if e["key"] in keep:
+            continue
         shutil.rmtree(cache_dir() / e["key"], ignore_errors=True)
         total -= e["bytes"]
         removed.append(e["key"])

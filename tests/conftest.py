@@ -48,3 +48,12 @@ def no_temp_residue():
     yield
     left = now() - before
     assert not left, f"pastas temporárias deixadas para trás: {sorted(left)}"
+
+
+
+@pytest.fixture(autouse=True)
+def _isolated_cache(tmp_path_factory, monkeypatch):
+    """Os testes nunca escrevem no cache nem na pasta de dados reais do usuário."""
+    base = tmp_path_factory.mktemp("ttw_user")
+    monkeypatch.setenv("TTWTOOLS_CACHE_DIR", str(base / "cache"))
+    monkeypatch.setenv("TTWTOOLS_DATA_DIR", str(base / "data"))

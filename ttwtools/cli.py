@@ -190,6 +190,31 @@ def _configure_cache(p: argparse.ArgumentParser) -> None:
                    help="list: o que ocupa disco (cache e pastas de trabalho); clear: apaga o cache e as pastas abandonadas")
 
 
+def _cmd_index(args: argparse.Namespace) -> int:
+    from . import searchindex
+    from .project import TTWAProject
+    from pathlib import Path
+    prog = None if args.format != "table" else (lambda d, t, s: print(f"\r  {s}: {d}/{t}", end="", file=sys.stderr))
+    # build: abrir já constrói o que falta e anexa (com progresso); status e clear não constroem nada
+    with TTWAProject.open(Path(args.project).expanduser(), migrate=args.action == "build", progress=prog) as proj:
+        if args.action == "clear":
+            emit({"mb_liberados": round(searchindex.clear(proj) / 1e6, 1)}, args.format)
+            return EXIT_OK
+        st = searchindex.status(proj)
+    if prog:
+        print(file=sys.stderr)
+    rows = [{"chave": e["key"], "camadas": e["layers"], "tokens": e["tokens"], "pronto": "sim" if e["ready"] else "não",
+             "mb": round(e["bytes"] / 1e6, 1)} for e in st["entries"]]
+    emit(rows or "este projeto não usa índice em cache (tem tabelas de busca dentro ou nenhuma camada empacotada)", args.format)
+    return EXIT_OK
+
+
+def _configure_index(p: argparse.ArgumentParser) -> None:
+    p.add_argument("action", choices=["status", "build", "clear"],
+                   help="status: índices em cache do projeto; build: constrói o que falta (com progresso); clear: apaga do cache")
+    p.add_argument("project", help="arquivo .ttwa, .ttwl, .ttwc ou .ttwcl salvo sem tabelas de busca")
+
+
 def _cmd_import(args: argparse.Namespace) -> int:
     from .corpus import TokenizerConfig, import_corpus
     fmt = _import_format(args) if args.source != "-" else "txt"
@@ -1067,6 +1092,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_save_as, _cmd_save_as),
     "compact":   ("Remove do projeto as cópias antigas das etiquetagens (tagged_files) já presentes nas camadas",
                   _configure_compact, _cmd_compact),
+    "index":     ("Índice de busca em cache de um projeto salvo sem tabelas de busca: status, build, clear",
+                  _configure_index, _cmd_index),
     "cache":     ("Uso de disco do TTWtools: lista (list) ou limpa (clear) o cache e as pastas de trabalho abandonadas",
                   _configure_cache, _cmd_cache),
     "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela",

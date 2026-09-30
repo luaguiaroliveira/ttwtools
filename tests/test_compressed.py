@@ -118,9 +118,10 @@ def test_ttwc_novo_recusa_segundo_corpus(tmp_path):
     p.close()
 
 
-def test_salvar_sem_tabelas_de_busca_e_recriar(tmp_path):
+def test_salvar_sem_tabelas_de_busca_e_recriar(tmp_path, monkeypatch):
     import pytest
     pytest.importorskip("spacy")
+    monkeypatch.setenv("TTWTOOLS_INDEX_CACHE", "0")      # o caminho antigo: recriar as tabelas dentro do projeto
     from ttwtools.project import needs_migration
     p = ttwtools.create_project(tmp_path / "t.ttwa")
     ttwtools.import_corpus(p, CORPUS, "c")

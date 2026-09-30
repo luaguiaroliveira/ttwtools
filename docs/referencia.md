@@ -256,10 +256,13 @@ O projeto de origem não muda.
 ### `save_project_as` · **`ttwtools.save_project_as`**
 
 ```python
-save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
+save_project_as(source: "'str | Path'", dest: "'str | Path'", progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None, raw: 'bool' = False) -> 'Path'
 ```
 
 Grava o projeto `source` (banco aberto) em `dest`, com as alterações recentes.
+
+Se `source` está sem tabelas de busca (usa o índice em cache) e se pede `search_tables=True`, as
+tabelas são materializadas numa cópia temporária antes de gravar. `raw=True` grava o banco como está.
 
 `search_tables=False` grava sem as tabelas de busca (tokens e índices): as camadas vão
 empacotadas e o arquivo fica bem menor, mas a abertura recria as tabelas (demora).

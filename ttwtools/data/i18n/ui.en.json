@@ -759,5 +759,13 @@
  "disk.clear_hint": "Deletes the cache and abandoned folders; what is in use stays.",
  "disk.cleared": "{mb} MB freed.",
  "disk.warn_purged": "On startup, {mb} MB of leftovers from earlier sessions were deleted.",
- "disk.warn_orphans": "{mb} MB of leftovers from earlier sessions are taking up disk space."
+ "disk.warn_orphans": "{mb} MB of leftovers from earlier sessions are taking up disk space.",
+ "job.stage.idx_read": "Reading the layers for the search index",
+ "job.stage.idx_words": "Building the word-form index",
+ "job.stage.idx_lemmas": "Building the lemma index",
+ "job.stage.idx_doc": "Building the document index",
+ "job.stage.idx_upos": "Building the part-of-speech index",
+ "job.stage.idx_xpos": "Building the tag index",
+ "project.index_hint": "First time only: the search index is kept on this computer (see Disk usage) and later openings are fast.",
+ "disk.what.index": "build the search index"
 }

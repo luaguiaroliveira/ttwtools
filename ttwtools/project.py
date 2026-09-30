@@ -385,8 +385,12 @@ def save_project_as(
     compress: bool = True,
     search_tables: bool = True,
     progress: "Optional[Callable[[int, int, str], None]]" = None,
+    raw: bool = False,
 ) -> Path:
     """Grava o projeto `source` (banco aberto) em `dest`, com as alterações recentes.
+
+    Se `source` está sem tabelas de busca (usa o índice em cache) e se pede `search_tables=True`, as
+    tabelas são materializadas numa cópia temporária antes de gravar. `raw=True` grava o banco como está.
 
     `search_tables=False` grava sem as tabelas de busca (tokens e índices): as camadas vão
     empacotadas e o arquivo fica bem menor, mas a abertura recria as tabelas (demora).
@@ -398,12 +402,14 @@ def save_project_as(
     substitui o destino no fim. `progress_cb(feitos, total)`."""
     src, out = Path(source).expanduser(), Path(dest).expanduser()
     checkpoint(src)
-    need = _storage.with_margin(_db_size(src))
+    materialize = search_tables and not raw and _search_tables_off(src)
+    extra = _blob_tokens(src) * 110 if materialize else 0          # tokens e índices que passam a existir
+    need = _storage.with_margin(_db_size(src) + extra)
     _storage.ensure_free_space(out.parent, need, "save")
-    if not search_tables:
+    if not search_tables or materialize:
         _storage.ensure_free_space(_tmp_root(), need, "save")    # a cópia empacotada vai para a pasta temporária
     out.parent.mkdir(parents=True, exist_ok=True)
-    if not search_tables:
+    if not search_tables or materialize:
         import shutil
         import tempfile
         workdir = make_workdir("ttw_pack_")
@@ -417,13 +423,17 @@ def save_project_as(
                 a.close()
             proj = TTWAProject(packed)
             proj._con = _connect(packed)
-            proj.pack_search_tables(progress=progress)
-            proj._set_meta("save.search_tables", False)
+            if materialize:
+                proj.rebuild_search_tables(progress=progress)
+                proj._set_meta("save.search_tables", True)
+            else:
+                proj.pack_search_tables(progress=progress)
+                proj._set_meta("save.search_tables", False)
             proj._set_meta("save.compress", bool(compress))
             proj._con.commit()
             proj._con.execute("VACUUM")
             proj.close()
-            return save_project_as(packed, out, progress_cb=progress_cb, compress=compress)
+            return save_project_as(packed, out, progress_cb=progress_cb, compress=compress, raw=True)
         finally:
             shutil.rmtree(workdir, ignore_errors=True)
     tmp = out.with_name(out.name + ".part")
@@ -486,7 +496,7 @@ def decompress_from_ttwt(
 
 def _connect(path: str | Path) -> sqlite3.Connection:
     """Abre (ou cria) o arquivo .ttwa e garante o schema."""
-    con = sqlite3.connect(str(path))
+    con = sqlite3.connect(str(path), uri=True)      # uri: só para ATTACH de "file:..." (caminhos comuns não mudam)
     con.row_factory = sqlite3.Row
     for name in _OBSOLETE_INDEXES:
         con.execute(f"DROP INDEX IF EXISTS {name}")
@@ -672,6 +682,7 @@ class TTWAProject:
         self.migration_report: dict | None = None
         self._workdir: Path | None = None       # pasta temporária da cópia de trabalho (se houver)
         self._saved_changes = 0
+        self._idx_attached: list[str] = []      # bancos do índice em cache anexados (ver searchindex)
 
     @property
     def is_working_copy(self) -> bool:
@@ -720,6 +731,29 @@ class TTWAProject:
         """As tabelas de busca (tokens e índices) estão presentes? False num arquivo salvo sem elas."""
         return self.get_meta("search_tables") is not False
 
+    def attach_search_index(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> bool:
+        """Arquivo salvo sem tabelas de busca: usa o índice em cache (construído uma vez, com progresso
+        por etapa; anexado somente leitura) em vez de recriar `tokens` dentro do projeto. O projeto
+        continua sem tabelas de busca no arquivo. False se o cache está desligado
+        (`searchindex.enabled`) ou falhou por outro motivo que não disco; aí a abertura recria as tabelas."""
+        from . import searchindex
+        if not searchindex.enabled():
+            return False
+        try:
+            searchindex.ensure(self, progress)
+        except _storage.InsufficientDiskSpace:
+            raise
+        except (OSError, sqlite3.Error) as exc:
+            warnings.warn(f"índice em cache indisponível ({exc}); as tabelas de busca serão recriadas", stacklevel=2)
+            searchindex.detach(self)
+            return False
+        return True
+
+    def detach_search_index(self) -> None:
+        """Solta o índice em cache (a view `tokens` e os bancos anexados)."""
+        from . import searchindex
+        searchindex.detach(self)
+
     def pack_search_tables(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> int:
         """Empacota os tokens de cada camada em `layer_blobs` e apaga tokens e índices (o arquivo
         fica bem menor; nada se perde). Devolve o número de camadas empacotadas. Sem commit final
@@ -735,7 +769,7 @@ class TTWAProject:
                 progress(n, len(ids), "pack")
         for name, _sql in _TOKEN_INDEXES:
             con.execute(f"DROP INDEX IF EXISTS {name}")
-        con.execute("DELETE FROM tokens")
+        con.execute("DELETE FROM main.tokens")
         self._set_meta("search_tables", False)
         con.commit()
         return len(ids)
@@ -743,6 +777,7 @@ class TTWAProject:
     def rebuild_search_tables(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> int:
         """Recria tokens e índices a partir de `layer_blobs` (arquivo salvo sem tabelas de busca).
         Devolve o número de camadas recriadas."""
+        self.detach_search_index()          # materializa dentro do projeto: sem a view do cache
         con = self._con
         for name, _sql in _TOKEN_INDEXES:
             con.execute(f"DROP INDEX IF EXISTS {name}")
@@ -750,9 +785,9 @@ class TTWAProject:
         for n, (lid, doc_id) in enumerate(rows, 1):
             data = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (lid,)).fetchone()[0]
             toks = _layerfmt.decode(data)
-            con.execute("DELETE FROM tokens WHERE layer_id = ?", (lid,))
+            con.execute("DELETE FROM main.tokens WHERE layer_id = ?", (lid,))
             con.executemany(
-                "INSERT INTO tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
+                "INSERT INTO main.tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
                 " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                 ((lid, i, doc_id, *t) for i, t in enumerate(toks)))
             if n % 200 == 0 or n == len(rows):
@@ -862,7 +897,8 @@ class TTWAProject:
                 stacklevel=2,
             )
         if migrate and proj.get_meta("search_tables") is False:
-            proj.rebuild_search_tables(progress=progress)
+            if not proj.attach_search_index(progress):
+                proj.rebuild_search_tables(progress=progress)
             proj._saved_changes = proj._con.total_changes     # recriar não é alteração a salvar
         return proj
 
@@ -1441,7 +1477,7 @@ class TTWAProject:
         )
         layer_id = cur.lastrowid
         self._con.executemany(
-            "INSERT INTO tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
+            "INSERT INTO main.tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
             " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             ((layer_id, i, doc_id, *_layers.token_row(t)) for i, t in enumerate(tokens)),
         )
@@ -1462,7 +1498,7 @@ class TTWAProject:
         )
         new_id = cur.lastrowid
         self._con.execute(
-            "INSERT INTO tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
+            "INSERT INTO main.tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
             " SELECT ?, idx, ?, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
             " FROM tokens WHERE layer_id = ?",
             (new_id, doc_id, layer_id),
@@ -2070,6 +2106,31 @@ def compact_project(project: TTWAProject, dry_run: bool = True,
     return report
 
 
+def _search_tables_off(path: Path) -> bool:
+    """O arquivo foi salvo sem tabelas de busca (meta `search_tables` falso)? Lê sem alterar."""
+    try:
+        con = sqlite3.connect(f"file:{path}?mode=ro", uri=True)
+        try:
+            row = con.execute("SELECT value FROM project_meta WHERE key = 'search_tables'").fetchone()
+        finally:
+            con.close()
+    except sqlite3.Error:
+        return False
+    return bool(row) and row[0] in ("false", "0")
+
+
+def _blob_tokens(path: Path) -> int:
+    """Tokens das camadas que só existem empacotadas (estimativa do que materializar)."""
+    try:
+        con = sqlite3.connect(f"file:{path}?mode=ro", uri=True)
+        try:
+            return con.execute("SELECT COALESCE(SUM(n_tokens), 0) FROM layers WHERE id IN (SELECT layer_id FROM layer_blobs)").fetchone()[0]
+        finally:
+            con.close()
+    except sqlite3.Error:
+        return 0
+
+
 def _tmp_root() -> Path:
     import tempfile
     return Path(tempfile.gettempdir())
@@ -2162,6 +2223,20 @@ def _copy_rows(con: sqlite3.Connection, table: str, where: str = "", args: tuple
     con.execute(f'INSERT INTO main."{table}" ({lst}) SELECT {lst} FROM src."{table}" {where}', args)
 
 
+def _materialize_layer(con: sqlite3.Connection, layer_id: int) -> None:
+    """Camada que só existe em `main.layer_blobs`: decodifica para `main.tokens` e apaga o blob."""
+    blob = con.execute("SELECT data FROM main.layer_blobs WHERE layer_id = ?", (layer_id,)).fetchone()
+    if blob is None:
+        return
+    if con.execute("SELECT 1 FROM main.tokens WHERE layer_id = ? LIMIT 1", (layer_id,)).fetchone() is None:
+        doc_id = con.execute("SELECT doc_id FROM main.layers WHERE id = ?", (layer_id,)).fetchone()[0]
+        con.executemany(
+            "INSERT INTO main.tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
+            " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            ((layer_id, i, doc_id, *t) for i, t in enumerate(_layerfmt.decode(blob[0]))))
+    con.execute("DELETE FROM main.layer_blobs WHERE layer_id = ?", (layer_id,))
+
+
 def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Path, single: bool,
                          progress_cb, compress: bool, search_tables: "bool | None",
                          progress: "Optional[Callable[[int, int, str], None]]" = None) -> Path:
@@ -2222,6 +2297,7 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
             else:
                 _copy_rows(con, "tokens", "WHERE layer_id = ?", (lid,))
                 _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
+                _materialize_layer(con, lid)            # origem sem tabelas de busca (índice em cache): tokens reais
             if i % 20 == 0:
                 con.commit()
             if progress:
@@ -2273,12 +2349,13 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
             work._set_meta("save.search_tables", False)
             work._set_meta("save.compress", bool(compress))
         else:
+            work._set_meta("search_tables", True)        # a origem pode ter vindo sem elas: aqui os tokens são reais
             for _name, sql in _TOKEN_INDEXES:
                 con.execute(sql)
         con.commit()
         work.close()
         # já empacotado acima: `search_tables=True` só grava (nada de outra cópia do banco para empacotar de novo)
-        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=True, progress=progress)
+        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=True, progress=progress, raw=True)
     finally:
         shutil.rmtree(workdir, ignore_errors=True)
 
