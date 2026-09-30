@@ -192,19 +192,37 @@ def available(project, sel: dict[int, dict]) -> "IdStore | None":
     return store
 
 
+def _present(store: "IdStore", layer_id: int, c: int, bad: tuple) -> bool:
+    """Algum token da camada tem a coluna `c` com valor que não é None nem um dos `bad`?"""
+    vals = store.layers.lexicon(_corpus_of(store, layer_id)).values[c]
+    ok = np.fromiter((v is not None and v not in bad for v in vals), dtype=bool, count=len(vals))
+    return bool(len(ok) and ok[store.column(layer_id, c)].any())
+
+
 def layer_has(store: "IdStore", layer_id: int, needs: str) -> bool:
-    """A camada tem o campo `needs` (lemma, pos, tags) em algum token? Mesma regra do SQL de `query._select`."""
-    def present(c: int, bad: tuple) -> bool:
-        vals = store.layers.lexicon(_corpus_of(store, layer_id)).values[c]
-        ok = np.fromiter((v is not None and v not in bad for v in vals), dtype=bool, count=len(vals))
-        return bool(len(ok) and ok[store.column(layer_id, c)].any())
+    """A camada tem o campo `needs` (lemma, pos, tags, upos, xpos) em algum token? Mesma regra do SQL de `query._select`
+    e de `features.resolve_feature`."""
     if needs == "lemma":
-        return present(LEMMA, ("",))
+        return _present(store, layer_id, LEMMA, ("",))
     if needs == "pos":
-        return present(UPOS, ("",)) or present(XPOS, ("",))
+        return _present(store, layer_id, UPOS, ("",)) or _present(store, layer_id, XPOS, ("",))
     if needs == "tags":
-        return present(TAGS, ("", "[]"))
+        return _present(store, layer_id, TAGS, ("", "[]"))
+    if needs == "upos":
+        return _present(store, layer_id, UPOS, ("",))
+    if needs == "xpos":
+        return _present(store, layer_id, XPOS, ("",))
     raise Unsupported(needs)
+
+
+def token_dicts(store: "IdStore", layer_id: int) -> list[dict]:
+    """O mesmo que `TTWAProject.get_tokens` (tags e extra decodificados), lido dos ids."""
+    out = []
+    for i, r in enumerate(store.rows(layer_id)):
+        out.append({"idx": i, "start_char": r[0], "end_char": r[1], "word": r[2], "lemma": r[3], "upos": r[4],
+                    "xpos": r[5], "feats": r[6], "tags": json.loads(r[7]) if r[7] else [],
+                    "extra": json.loads(r[8]) if r[8] else {}})
+    return out
 
 
 def _corpus_of(store: "IdStore", layer_id: int) -> str:
@@ -639,3 +657,59 @@ def hits(store: IdStore, sel: dict[int, dict], node: str) -> "tuple[list[tuple[i
     order = np.lexsort((idx, doc_id))
     ids = np.array(s.layer_ids, dtype=np.int64)
     return [(int(ids[lay[i]]), int(doc_id[i]), int(idx[i])) for i in order], n
+
+
+# ---------------------------------------------------------------------------
+# dispersão, contagem de etiquetas
+# ---------------------------------------------------------------------------
+
+def dispersion(store: IdStore, sel: dict[int, dict], query: str) -> dict:
+    """Mesmo resultado de `query.dispersion` pelo SQL (DP de Gries, Range e posições relativas por documento)."""
+    from collections import defaultdict
+    s = Selection(store, sel)
+    pos, _ = find(s, query)
+    where: dict[int, list[int]] = defaultdict(list)
+    lay, idx = s.lay[pos], s.idx[pos]
+    for k, i in zip(lay.tolist(), idx.tolist()):
+        where[k].append(i)
+    docs = []
+    for k, layer_id in enumerate(s.layer_ids):
+        size = int(s.counts[k])
+        hits = where.get(k, [])
+        docs.append({"filename": s.docs[k]["filename"], "size": size, "freq": len(hits),
+                     "positions": sorted(p / size for p in hits) if size else []})
+    total_size = sum(d["size"] for d in docs)
+    total_freq = sum(d["freq"] for d in docs)
+    dp = dp_norm = None
+    if total_size and total_freq:
+        dp = 0.5 * sum(abs(d["freq"] / total_freq - d["size"] / total_size) for d in docs)
+        min_e = min(d["size"] / total_size for d in docs)
+        dp_norm = dp / (1 - min_e) if min_e < 1 else 0.0
+    return {"query": query, "freq": total_freq, "range": sum(1 for d in docs if d["freq"]),
+            "documents": len(docs), "dp": dp, "dp_norm": dp_norm, "per_document": docs}
+
+
+def tag_counts(store: IdStore, sel: dict[int, dict], field: str) -> dict[str, int]:
+    """{etiqueta: ocorrências} como `query.tag_counts` (mesma ordem de primeira aparição)."""
+    s = Selection(store, sel)
+    if not s.total:
+        return {}
+    ids = s.col(TAGS if field == "tags" else (UPOS if field == "upos" else XPOS))
+    vals = s.values(TAGS if field == "tags" else (UPOS if field == "upos" else XPOS))
+    if field == "tags":
+        first = []
+        for v in vals:
+            t = json.loads(v) if v else []
+            first.append(t[0] if t else None)
+    else:
+        first = list(vals)
+    label = np.array([bool(f) for f in first], dtype=bool)
+    sel_ids = ids[label[ids]]
+    if not len(sel_ids):
+        return {}
+    uniq, first_at, cnt = np.unique(sel_ids, return_index=True, return_counts=True)
+    out: dict[str, int] = {}
+    for k in np.argsort(first_at, kind="stable"):
+        name = first[int(uniq[k])]
+        out[name] = out.get(name, 0) + int(cnt[k])
+    return out

@@ -42,6 +42,7 @@ def _tool(p):
 def battery(p):
     """Tudo que ainda lê `tokens` (ou que tem de dar o mesmo com e sem índice), em forma comparável."""
     tool = _tool(p)
+    features._TABLES.clear()                 # a tabela em memória é por conteúdo: sem limpar, os dois lados dariam o mesmo por cache
     layer_ids = sorted(l["id"] for l in p.list_layers(C))
     doc = p.list_documents()[0]["filename"]
     out = {
@@ -62,19 +63,29 @@ def battery(p):
         "tag_tags": query.tag_counts(p, C, field="tags"),
         "feature_table": features.feature_table(p, C, tool).sort_values("filename").reset_index(drop=True).to_dict("list"),
     }
+    for t in sorted({l["tool"] for l in p.list_layers(C)}):        # cada ferramenta: camadas com e sem lema, etiquetas, etc.
+        out[f"tags_{t}"] = {f: query.tag_counts(p, C, layer=t, field=f) for f in ("upos", "xpos", "tags")}
+        out[f"disp_{t}"] = query.dispersion(p, C, "the", layer=t)
+        for f in ("tags", "upos", "xpos"):
+            features._TABLES.clear()
+            out[f"ft_{t}_{f}"] = features.feature_table(p, C, t, f, per1000=True).sort_values("filename").reset_index(drop=True).to_dict("list")
+        features._TABLES.clear()
+        out[f"ft_{t}_auto"] = features.resolve_feature(p, query._select_layers(p, C, t, None), None)
+        out[f"doc_{t}"] = query.read_document(p, C, doc, layer=t)
     return out
 
 
 def test_battery_same_with_and_without_index(pair):
     full, lean = pair
     want = battery(full)
+    assert any(v["counts"] for k, d in want.items() if k.startswith("tags_") for v in d.values())     # a bateria vê etiquetas
     lazy = _open(lean)
     eager = _open(lean, lazy_index=False)
     try:
         assert lazy.index_pending and not eager.index_pending and eager._idx_attached
         assert battery(lazy) == want
         assert battery(eager) == want
-        assert not lazy.index_pending          # alguma parte da bateria leu tokens
+        assert lazy.index_pending              # tudo saiu dos ids (TCL2): o índice nem foi montado
     finally:
         for q in (lazy, eager, full):
             q.close()
@@ -93,6 +104,10 @@ def test_open_does_not_build_and_id_queries_do_not_need_the_index(pair):
         query.collocates(q, C, "the", top=5)
         query.search(q, C, "lemma=the")                  # exigem campo da camada: lido dos ids, não de tokens
         query.search(q, C, "upos=NOUN")
+        query.dispersion(q, C, "the")                    # estas três também pelos ids
+        query.read_document(q, C, q.list_documents()[0]["filename"])
+        query.tag_counts(q, C, field="upos")
+        query.tag_counts(q, C, field="tags")
         assert q.index_pending and not list(storage.cache_dir().glob("idx-*"))     # nada montou o índice
     finally:
         q.close()
@@ -107,6 +122,7 @@ def test_first_read_of_tokens_builds_once_and_ensure_index_is_explicit(pair):
         assert q._con.execute("SELECT COUNT(*) FROM main.tokens").fetchone()[0] == 0     # escrever/ler main não dispara
         assert q._con.execute("SELECT SUM(n_tokens) FROM layers").fetchone()[0] > 0      # coluna n_tokens não dispara
         assert q.index_pending
+        assert q.get_tokens(lid) == full.get_tokens(lid) and q.index_pending       # TCL2: lido dos ids, sem índice
         seen = []
         q.ensure_index(progress=lambda d, t, s: seen.append(s))                          # explícito, com andamento
         assert not q.index_pending and q._idx_attached and "idx_read" in seen
@@ -128,10 +144,10 @@ def test_unsaved_flag_untouched_and_failure_keeps_pending(pair, monkeypatch):
             raise storage.InsufficientDiskSpace("sem espaço") if False else OSError("x")
         monkeypatch.setattr(q, "attach_search_index", lambda progress=None: (_ for _ in ()).throw(KeyboardInterrupt()))
         with pytest.raises(KeyboardInterrupt):
-            q.get_tokens(q.list_layers(C)[0]["id"])
+            q._con.execute("SELECT COUNT(*) FROM tokens")
         assert q.index_pending                                   # cancelado: tenta de novo na próxima leitura
         monkeypatch.undo()
-        assert q.get_tokens(q.list_layers(C)[0]["id"])
+        assert q._con.execute("SELECT COUNT(*) FROM tokens").fetchone()[0]
         assert not q.index_pending and not q.unsaved
     finally:
         q.close()
@@ -177,8 +193,24 @@ def test_on_demand_build_reports_progress_through_index_progress(pair):
     seen = []
     q.index_progress = lambda d, t, s: seen.append(s)
     try:
-        q.get_tokens(q.list_layers(C)[0]["id"])
+        q._con.execute("SELECT COUNT(*) FROM tokens")
         assert seen[0] == "idx_read" and "idx_words" in seen
+    finally:
+        q.close()
+        full.close()
+
+
+def test_tcl1_file_builds_the_index_on_first_read_and_matches(pair, tmp_path, monkeypatch):
+    full, _ = pair
+    want = battery(full)
+    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
+    lean1 = save_project_as(full.path, tmp_path / "lean1.ttwa", search_tables=False, compress=False)
+    monkeypatch.delenv("TTWTOOLS_LAYER_FORMAT")
+    q = _open(lean1)
+    try:
+        assert q.index_pending
+        assert battery(q) == want
+        assert not q.index_pending             # TCL1 não tem ids: a primeira leitura montou o índice
     finally:
         q.close()
         full.close()

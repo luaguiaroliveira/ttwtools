@@ -21,6 +21,7 @@ from typing import Callable, Mapping
 
 import pandas as pd
 
+from . import idquery
 from .project import TTWAProject
 from .query import _select_layers
 
@@ -50,6 +51,12 @@ def resolve_feature(project: TTWAProject, sel: Mapping, feature: str | None) -> 
         return feature
     ids = sorted(sel)
     if ids:
+        store = idquery.available(project, sel)
+        if store is not None:
+            for cand in ("tags", "xpos", "upos"):
+                if any(idquery.layer_has(store, i, cand) for i in ids):
+                    return cand
+            return "tags"
         marks = ",".join("?" * len(ids))
         for cand in ("tags", "xpos", "upos"):
             if project._con.execute(f"SELECT 1 FROM tokens WHERE layer_id IN ({marks}) AND {_PRESENT_SQL[cand]} LIMIT 1",
@@ -77,8 +84,7 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
     for n_done, (layer_id, doc) in enumerate(sel.items(), 1):
         if progress:
             progress(n_done - 1, len(sel))
-        toks = project._con.execute("SELECT word, upos, xpos, tags FROM tokens WHERE layer_id = ? ORDER BY idx",
-                                    (layer_id,)).fetchall()
+        toks = _layer_fields(project, layer_id, doc)
         counts: Counter = Counter()
         for t in toks:
             if feature == "tags":
@@ -106,6 +112,16 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
         while len(_TABLES) > _TABLES_MAX:
             _TABLES.popitem(last=False)
     return df
+
+
+def _layer_fields(project: TTWAProject, layer_id: int, doc: Mapping) -> list:
+    """(word, upos, xpos, tags) de cada token da camada, em ordem: dos ids se a camada é `TCL2` empacotada
+    (sem montar o índice de busca); senão da tabela `tokens`."""
+    store = idquery.available(project, {layer_id: doc})
+    if store is not None:
+        return [{"word": r[2], "upos": r[4], "xpos": r[5], "tags": r[7]} for r in store.rows(layer_id)]
+    return project._con.execute("SELECT word, upos, xpos, tags FROM tokens WHERE layer_id = ? ORDER BY idx",
+                                (layer_id,)).fetchall()
 
 
 def _table_key(project: TTWAProject, sel: Mapping, layer: str, feature: str, per1000: bool) -> tuple:

@@ -511,6 +511,12 @@ def dispersion(project: TTWAProject, corpus_name: str, query: str, layer: str | 
     do corpus que o documento i representa. 0 = distribuição uniforme; perto de 1 =
     concentrada. DP_norm = DP / (1 − min eᵢ)."""
     sel = _select_layers(project, corpus_name, layer, where, _needs(query))
+    store = idquery.available(project, sel)
+    if store is not None:
+        try:
+            return idquery.dispersion(store, sel, query)
+        except idquery.Unsupported:
+            pass
     _ensure_regexp(project)
     sql, args, _ = _match_sql(query)
     positions: dict[int, list[int]] = defaultdict(list)
@@ -545,7 +551,7 @@ def read_document(project: TTWAProject, corpus_name: str, filename: str, layer: 
     tokens = []
     if row:
         tokens = [{k: t[k] for k in ("idx", "start_char", "end_char", "word", "lemma", "upos", "xpos", "feats", "tags")}
-                  for t in project.get_tokens(row["id"])]
+                  for t in project.get_tokens(row["id"], corpus_name)]
     return {"corpus": corpus_name, "filename": filename, "text": project.get_corpus_file(corpus_name, filename),
             "layer": dict(row) if row else None, "tokens": tokens}
 
@@ -558,12 +564,18 @@ def tag_counts(project: TTWAProject, corpus_name: str, layer: str | None = None,
         raise ValueError("field deve ser upos, xpos ou tags")
     counts: dict[str, int] = {}
     docs = project._con.execute("SELECT id FROM documents WHERE corpus_name = ?", (corpus_name,)).fetchall()
+    chosen: dict[int, dict] = {}
     for doc in docs:
         sql = "SELECT id FROM layers WHERE doc_id = ?" + (" AND tool = ?" if layer else "")
         row = project._con.execute(sql + " ORDER BY id DESC LIMIT 1", (doc["id"], layer) if layer else (doc["id"],)).fetchone()
-        if not row:
-            continue
-        for t in project.get_tokens(row["id"]):
+        if row:
+            chosen[row["id"]] = {"corpus_name": corpus_name}
+    store = idquery.available(project, chosen)
+    if store is not None:
+        return {"corpus": corpus_name, "layer": layer, "field": field, "documents": len(docs),
+                "counts": idquery.tag_counts(store, chosen, field)}
+    for layer_id in chosen:
+        for t in project.get_tokens(layer_id):
             v = (t["tags"][0] if t["tags"] else None) if field == "tags" else t[field]
             if v:
                 counts[v] = counts.get(v, 0) + 1

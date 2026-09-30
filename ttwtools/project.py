@@ -1631,8 +1631,18 @@ class TTWAProject:
         ).fetchone()
         return dict(row) if row else None
 
-    def get_tokens(self, layer_id: int) -> list[dict]:
-        """Tokens de uma camada, em ordem, com `tags`/`extra` decodificados."""
+    def get_tokens(self, layer_id: int, corpus_name: str | None = None) -> list[dict]:
+        """Tokens de uma camada, em ordem, com `tags`/`extra` decodificados. Camada `TCL2` empacotada é lida dos
+        ids, sem montar o índice de busca."""
+        if self.index_pending:
+            from . import idquery
+            if corpus_name is None:
+                r = self._con.execute("SELECT d.corpus_name FROM layers l JOIN documents d ON d.id = l.doc_id"
+                                      " WHERE l.id = ?", (layer_id,)).fetchone()
+                corpus_name = r[0] if r else None
+            store = idquery.available(self, {layer_id: {"corpus_name": corpus_name}}) if corpus_name else None
+            if store is not None:
+                return idquery.token_dicts(store, layer_id)
         rows = self._con.execute(
             "SELECT idx, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
             " FROM tokens WHERE layer_id = ? ORDER BY idx", (layer_id,)
