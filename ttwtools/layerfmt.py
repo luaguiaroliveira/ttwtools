@@ -19,7 +19,7 @@ texto (n_dic:u32, dicionário em JSON, largura do índice:u8, índices) ). Littl
 biblioteca padrão. `decode` aceita também o blob antigo (zlib de JSON), para ler arquivos
 antigos para sempre. Um blob só de versão anterior do TTWtools não abre este formato.
 
-`TCL2` (experimental; ligado por `TTWTOOLS_LAYER_FORMAT=tcl2`, ver `default_format`): as colunas de texto
+`TCL2` (padrão desde 2026-09-30; `TTWTOOLS_LAYER_FORMAT=tcl1` volta a gravar `TCL1`, ver `default_format`): as colunas de texto
 viram **ids inteiros** de um léxico compartilhado por corpus (`Lexicon`), que só cresce (ids estáveis:
 blobs já gravados continuam válidos quando entram camadas novas). O léxico mora fora do blob (tabela
 `lexicon_parts` do projeto, ver `project.LayerStore`); o blob guarda `b"TCL2"` + n:u32 + 9 colunas, cada uma
@@ -155,9 +155,10 @@ def decode(blob: bytes, lex: "Lexicon | None" = None) -> list[list]:
 # ---------------------------------------------------------------------------
 
 def default_format() -> str:
-    """Formato em que se gravam camadas novas: `tcl1` (padrão) ou `tcl2` (variável TTWTOOLS_LAYER_FORMAT)."""
-    v = os.environ.get("TTWTOOLS_LAYER_FORMAT", "tcl1").strip().lower()
-    return "tcl2" if v == "tcl2" else "tcl1"
+    """Formato em que se gravam camadas novas: `tcl2` (padrão) ou `tcl1` (variável TTWTOOLS_LAYER_FORMAT=tcl1,
+    para gerar arquivos que versões anteriores do TTWtools abrem). A leitura aceita sempre os três formatos."""
+    v = os.environ.get("TTWTOOLS_LAYER_FORMAT", "tcl2").strip().lower()
+    return "tcl1" if v == "tcl1" else "tcl2"
 
 
 def is_tcl2(blob: bytes) -> bool:

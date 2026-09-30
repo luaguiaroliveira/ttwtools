@@ -98,3 +98,27 @@ def test_tcl2_file_smaller_than_tcl1(real, tmp_path, monkeypatch):
     monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl2")
     b = save_project_as(real.path, tmp_path / "b.ttwa", compress=False, search_tables=False)
     assert b.stat().st_size < a.stat().st_size * 1.1                        # projeto pequeno: só não pode ser muito pior
+
+
+def test_tcl2_is_the_default_and_tcl1_can_be_forced(monkeypatch):
+    monkeypatch.delenv("TTWTOOLS_LAYER_FORMAT", raising=False)
+    assert layerfmt.default_format() == "tcl2"
+    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
+    assert layerfmt.default_format() == "tcl1"
+
+
+def test_export_from_tcl1_light_file_converts_to_tcl2(real, tmp_path, monkeypatch):
+    import sqlite3
+    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", "tcl1")
+    corpus = real.list_corpus_names()[0]
+    old = save_corpus_as(real, corpus, tmp_path / "antigo.ttwcl", compress=False)
+    monkeypatch.delenv("TTWTOOLS_LAYER_FORMAT")
+    with ttwtools.open_project(old) as q:
+        expected = _tokens(q)
+        new = save_corpus_as(q, corpus, tmp_path / "novo.ttwcl", compress=False)
+    raw = sqlite3.connect(new)
+    blobs = [r[0] for r in raw.execute("SELECT data FROM layer_blobs")]
+    raw.close()
+    assert blobs and all(layerfmt.is_tcl2(b) for b in blobs)
+    with ttwtools.open_project(new) as q:
+        assert _tokens(q) == expected

@@ -75,11 +75,13 @@ def test_real_layers_roundtrip_token_by_token(real):
     assert n > 10_000
 
 
-def test_pack_and_rebuild_use_the_new_format_and_keep_everything(real, tmp_path):
+@pytest.mark.parametrize("fmt", ["tcl1", "tcl2"])
+def test_pack_and_rebuild_use_the_new_format_and_keep_everything(real, tmp_path, monkeypatch, fmt):
+    monkeypatch.setenv("TTWTOOLS_LAYER_FORMAT", fmt)          # o padrão é tcl2; tcl1 ainda grava e lê
     before = {l["id"]: real.get_tokens(l["id"]) for l in real.list_layers()}
     real.pack_search_tables()
     blobs = [r[0] for r in real._con.execute("SELECT data FROM layer_blobs")]
-    assert blobs and all(layerfmt.is_columnar(b) for b in blobs)
+    assert blobs and all((layerfmt.is_tcl2(b) if fmt == "tcl2" else layerfmt.is_columnar(b)) for b in blobs)
     assert _layer_rows(real._con, next(iter(before))) is not None                 # lê de layer_blobs
     real.rebuild_search_tables()
     assert {l["id"]: real.get_tokens(l["id"]) for l in real.list_layers()} == before
