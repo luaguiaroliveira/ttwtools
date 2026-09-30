@@ -28,6 +28,7 @@ import io
 import json
 import lzma
 import os
+import re
 import sqlite3
 import warnings
 import zlib
@@ -505,9 +506,37 @@ def decompress_from_ttwt(
 # Helpers internos
 # ---------------------------------------------------------------------------
 
+_READS_TOKENS = re.compile(r"\b(?:from|join)\s+tokens\b|,\s*tokens\b", re.I)    # lê a tabela `tokens` (a view do cache, não main.tokens)
+
+
+class _Connection(sqlite3.Connection):
+    """Conexão com o **ponto único de leitura de `tokens`**: enquanto `lazy_index` está definido (arquivo salvo
+    sem tabelas de busca, aberto sem montar o índice), a primeira instrução que lê `tokens` chama o gancho, que
+    anexa (ou constrói) o índice; sem isso a leitura daria resultado vazio, em silêncio. Depois disso, custo zero."""
+    lazy_index = None
+
+    def _need_tokens(self, sql) -> None:
+        hook = self.lazy_index
+        if hook is not None and isinstance(sql, str) and _READS_TOKENS.search(sql):
+            self.lazy_index = None              # o próprio gancho lê tokens: sem recursão
+            try:
+                hook()
+            except BaseException:
+                self.lazy_index = hook          # falhou ou foi cancelado: tenta de novo na próxima leitura
+                raise
+
+    def execute(self, sql, *args):
+        self._need_tokens(sql)
+        return super().execute(sql, *args)
+
+    def executemany(self, sql, *args):
+        self._need_tokens(sql)
+        return super().executemany(sql, *args)
+
+
 def _connect(path: str | Path) -> sqlite3.Connection:
     """Abre (ou cria) o arquivo .ttwa e garante o schema."""
-    con = sqlite3.connect(str(path), uri=True)      # uri: só para ATTACH de "file:..." (caminhos comuns não mudam)
+    con = sqlite3.connect(str(path), uri=True, factory=_Connection)      # uri: só para ATTACH de "file:..." (caminhos comuns não mudam)
     con.row_factory = sqlite3.Row
     for name in _OBSOLETE_INDEXES:
         con.execute(f"DROP INDEX IF EXISTS {name}")
@@ -703,6 +732,7 @@ class TTWAProject:
         self._workdir: Path | None = None       # pasta temporária da cópia de trabalho (se houver)
         self._saved_changes = 0
         self._idx_attached: list[str] = []      # bancos do índice em cache anexados (ver searchindex)
+        self.index_progress: "Optional[Callable[[int, int, str], None]]" = None     # andamento se o índice for montado sob demanda
 
     @property
     def is_working_copy(self) -> bool:
@@ -893,8 +923,11 @@ class TTWAProject:
     @classmethod
     def open(cls, path: str | Path, migrate: bool = True,
              progress: Callable[[int, int, str], None] | None = None,
-             home: str | Path | None = None) -> "TTWAProject":
+             home: str | Path | None = None, lazy_index: bool = True) -> "TTWAProject":
         """Abre um projeto (.ttwa, .ttwl, .ttwc, .ttwcl ou .ttwt).
+
+        `lazy_index` (padrão): um arquivo salvo sem tabelas de busca abre sem montar o índice; ele só é
+        montado na primeira leitura de `tokens` (ou em `ensure_index`). As consultas por ids não precisam dele.
 
         Arquivo compactado (o padrão ao salvar): descompacta numa cópia de trabalho
         temporária; `save()` grava de volta e `close()` grava se houve alterações.
@@ -937,10 +970,33 @@ class TTWAProject:
                 stacklevel=2,
             )
         if migrate and proj.get_meta("search_tables") is False:
-            if not proj.attach_search_index(progress):
-                proj.rebuild_search_tables(progress=progress)
-            proj._saved_changes = proj._con.total_changes     # recriar não é alteração a salvar
+            if lazy_index:
+                proj._con.lazy_index = proj._realize_index
+            else:
+                proj._realize_index(progress)
         return proj
+
+    @property
+    def index_pending(self) -> bool:
+        """O índice de busca ainda não foi montado nesta abertura (arquivo sem tabelas de busca)?"""
+        return self._con is not None and self._con.lazy_index is not None
+
+    def ensure_index(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> None:
+        """Monta (ou anexa, se já está em cache) o índice de busca agora, com andamento por etapa. Não faz nada se
+        já está pronto ou se o arquivo tem as tabelas de busca."""
+        if self.index_pending:
+            self._con.lazy_index = None
+            try:
+                self._realize_index(progress)
+            except BaseException:
+                self._con.lazy_index = self._realize_index
+                raise
+
+    def _realize_index(self, progress: "Optional[Callable[[int, int, str], None]]" = None) -> None:
+        progress = progress or self.index_progress
+        if not self.attach_search_index(progress):
+            self.rebuild_search_tables(progress=progress)
+        self._saved_changes = self._con.total_changes         # montar o índice não é alteração a salvar
 
     @property
     def kind(self) -> str:
@@ -2008,12 +2064,12 @@ def create_project(
 
 
 def open_project(path: str | Path, migrate: bool = True,
-                 progress: Callable[[int, int, str], None] | None = None) -> TTWAProject:
+                 progress: Callable[[int, int, str], None] | None = None, lazy_index: bool = True) -> TTWAProject:
     """Abre um projeto `.ttwa` ou `.ttwl` (o tipo vem do próprio arquivo).
 
     Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open);
     `progress(feitos, total, etapa)` acompanha a migração, que pode ser demorada."""
-    return TTWAProject.open(path, migrate=migrate, progress=progress)
+    return TTWAProject.open(path, migrate=migrate, progress=progress, lazy_index=lazy_index)
 
 
 def needs_migration(path: str | Path) -> bool:
@@ -2025,13 +2081,10 @@ def needs_migration(path: str | Path) -> bool:
         con = sqlite3.connect(f"file:{p}?mode=ro", uri=True)
         try:
             row = con.execute("SELECT value FROM project_meta WHERE key = 'schema_version'").fetchone()
-            st = con.execute("SELECT value FROM project_meta WHERE key = 'search_tables'").fetchone()
         finally:
             con.close()
     except sqlite3.Error:
         return False
-    if st and st[0] in ("false", "0"):
-        return True                     # salvo sem tabelas de busca: abrir recria (demora)
     return not _schema_is_at_least(row[0] if row else SCHEMA_VERSION_LEGACY, SCHEMA_VERSION_CURRENT)
 
 

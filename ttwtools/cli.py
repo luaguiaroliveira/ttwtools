@@ -196,7 +196,8 @@ def _cmd_index(args: argparse.Namespace) -> int:
     from pathlib import Path
     prog = None if args.format != "table" else (lambda d, t, s: print(f"\r  {s}: {d}/{t}", end="", file=sys.stderr))
     # build: abrir já constrói o que falta e anexa (com progresso); status e clear não constroem nada
-    with TTWAProject.open(Path(args.project).expanduser(), migrate=args.action == "build", progress=prog) as proj:
+    with TTWAProject.open(Path(args.project).expanduser(), migrate=args.action == "build", progress=prog,
+                          lazy_index=False) as proj:
         if args.action == "clear":
             emit({"mb_liberados": round(searchindex.clear(proj) / 1e6, 1)}, args.format)
             return EXIT_OK

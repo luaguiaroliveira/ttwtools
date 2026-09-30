@@ -26,7 +26,7 @@ def lean(tmp_path):
     shutil.copy(V2, full)
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        p = ttwtools.open_project(full)
+        p = ttwtools.open_project(full, lazy_index=False)
     before = [tuple(r) for r in p._con.execute(f"SELECT {COLS} FROM tokens ORDER BY layer_id, idx")]
     p._con.commit()
     out = save_project_as(p.path, tmp_path / "lean.ttwa", search_tables=False, compress=False)
@@ -51,7 +51,7 @@ def test_ddl_matches_project_tokens_table(tmp_path):
 def test_open_uses_cached_index_and_leaves_project_small(lean):
     path, before = lean
     stages = []
-    with ttwtools.open_project(path, progress=lambda d, t, s: stages.append(s)) as q:
+    with ttwtools.open_project(path, progress=lambda d, t, s: stages.append(s), lazy_index=False) as q:
         assert q._idx_attached and not q.has_search_tables and not q.unsaved
         assert q._con.execute("SELECT COUNT(*) FROM main.tokens").fetchone()[0] == 0         # nada dentro do projeto
         assert q._con.execute("SELECT COUNT(*) FROM layer_blobs").fetchone()[0] > 0           # blobs continuam
@@ -66,21 +66,21 @@ def test_open_uses_cached_index_and_leaves_project_small(lean):
 
 def test_second_open_does_not_build_and_copies_share_the_cache(lean, tmp_path):
     path, before = lean
-    ttwtools.open_project(path).close()
+    ttwtools.open_project(path, lazy_index=False).close()
     n = len(list(storage.cache_dir().glob("idx-*")))
     copy = tmp_path / "copia.ttwa"
     shutil.copy(path, copy)                                    # mesma linhagem: mesmos ids e blobs
     stages = []
-    with ttwtools.open_project(copy, progress=lambda d, t, s: stages.append(s)) as q:
+    with ttwtools.open_project(copy, progress=lambda d, t, s: stages.append(s), lazy_index=False) as q:
         assert [s for s in stages if s != "decompress"] == [] and _tokens(q) == before      # nenhuma construção
     assert len(list(storage.cache_dir().glob("idx-*"))) == n
 
 
 def test_queries_match_a_fully_materialized_project(lean, tmp_path):
     path, _ = lean
-    a = ttwtools.open_project(path)
+    a = ttwtools.open_project(path, lazy_index=False)
     mat = save_project_as(a.path, tmp_path / "mat.ttwa", search_tables=True)        # materializa (vem do modo cache)
-    b = ttwtools.open_project(mat)
+    b = ttwtools.open_project(mat, lazy_index=False)
     try:
         assert a._idx_attached and not b._idx_attached and b.has_search_tables
         c = "CorIFAessaysNE_5"
@@ -95,7 +95,7 @@ def test_queries_match_a_fully_materialized_project(lean, tmp_path):
 
 def test_live_layers_and_saving_in_cache_mode(lean, tmp_path):
     path, before = lean
-    with ttwtools.open_project(path) as q:
+    with ttwtools.open_project(path, lazy_index=False) as q:
         doc = q.list_documents()[0]
         toks = [{"word": "zzz", "lemma": "zzz", "upos": "X", "start_char": 0, "end_char": 3}]
         new = q.save_layer(doc["id"], "fake", "1", "m", {}, toks)              # camada nova: vai para main.tokens
@@ -104,36 +104,36 @@ def test_live_layers_and_saving_in_cache_mode(lean, tmp_path):
         assert len(_tokens(q)) == len(before) + 1                               # a view junta main e cache
         again = save_project_as(q.path, tmp_path / "again.ttwa", search_tables=False)   # empacota só a nova
         full = save_project_as(q.path, tmp_path / "again_full.ttwa", search_tables=True)  # materializa tudo
-    with ttwtools.open_project(again) as r:
+    with ttwtools.open_project(again, lazy_index=False) as r:
         assert len(_tokens(r)) == len(before) + 1 and r._idx_attached
-    with ttwtools.open_project(full) as r:
+    with ttwtools.open_project(full, lazy_index=False) as r:
         assert not r._idx_attached and r.has_search_tables and len(_tokens(r)) == len(before) + 1
         assert r._con.execute("SELECT COUNT(*) FROM layer_blobs").fetchone()[0] == 0
 
 
 def test_export_with_tables_from_cache_mode(lean, tmp_path):
     path, _ = lean
-    with ttwtools.open_project(path) as q:
+    with ttwtools.open_project(path, lazy_index=False) as q:
         c = save_corpus_as(q, "CorIFAessaysNE_5", tmp_path / "c.ttwc")                # com tabelas de busca
         leve = save_corpus_as(q, "CorIFAessaysNE_5", tmp_path / "c.ttwcl")            # leve
         want = [r for r in _tokens(q) if r[0] in {l["id"] for l in q.list_layers("CorIFAessaysNE_5")}]
-    with ttwtools.open_project(c) as r:
+    with ttwtools.open_project(c, lazy_index=False) as r:
         assert r.has_search_tables and not r._idx_attached and _tokens(r) == want
         assert r._con.execute("SELECT COUNT(*) FROM layer_blobs").fetchone()[0] == 0
-    with ttwtools.open_project(leve) as r:
+    with ttwtools.open_project(leve, lazy_index=False) as r:
         assert _tokens(r) == want
 
 
 def test_disabled_falls_back_to_rebuild(lean, monkeypatch):
     path, before = lean
     monkeypatch.setenv("TTWTOOLS_INDEX_CACHE", "0")
-    with ttwtools.open_project(path) as q:
+    with ttwtools.open_project(path, lazy_index=False) as q:
         assert not q._idx_attached and q.has_search_tables and _tokens(q) == before
 
 
 def test_cache_removed_rebuilds_and_cancel_leaves_nothing(lean):
     path, before = lean
-    ttwtools.open_project(path).close()
+    ttwtools.open_project(path, lazy_index=False).close()
     storage.clear_cache()
     searchindex._memo.clear()
 
@@ -145,9 +145,9 @@ def test_cache_removed_rebuilds_and_cancel_leaves_nothing(lean):
             raise Cancel()
 
     with pytest.raises(Cancel):                                 # cancelar no meio da construção
-        ttwtools.open_project(path, progress=stop)
+        ttwtools.open_project(path, progress=stop, lazy_index=False)
     assert not list(storage.cache_dir().glob("idx-*/tokens.sqlite*"))      # nem pronto nem .part
-    with ttwtools.open_project(path) as q:                      # e reconstrói sem problema
+    with ttwtools.open_project(path, lazy_index=False) as q:                      # e reconstrói sem problema
         assert _tokens(q) == before
 
 
@@ -155,13 +155,13 @@ def test_full_disk_refuses_before_building(lean, monkeypatch):
     path, _ = lean
     monkeypatch.setattr(shutil, "disk_usage", lambda _p: Usage(10**9, 10**9 - 1000, 1000))
     with pytest.raises(storage.InsufficientDiskSpace) as e:
-        ttwtools.open_project(path)
+        ttwtools.open_project(path, lazy_index=False)
     assert e.value.what == "index" and not list(storage.cache_dir().glob("idx-*/tokens.sqlite*"))
 
 
 def test_status_and_clear(lean):
     path, _ = lean
-    with ttwtools.open_project(path) as q:
+    with ttwtools.open_project(path, lazy_index=False) as q:
         st = searchindex.status(q)
         assert st["entries"] and all(e["ready"] and e["bytes"] > 0 for e in st["entries"]) and st["missing_tokens"] == 0
         assert searchindex.clear(q) > 0
@@ -192,7 +192,7 @@ def test_compressed_file_with_cache_mode_and_cli(tmp_path, capsys):
     shutil.copy(V2, full)
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        p = ttwtools.open_project(full)
+        p = ttwtools.open_project(full, lazy_index=False)
     n = p._con.execute("SELECT COUNT(*) FROM tokens").fetchone()[0]
     p._con.commit()
     z = save_project_as(p.path, tmp_path / "z.ttwa", search_tables=False)              # compactado (padrão)
@@ -203,7 +203,7 @@ def test_compressed_file_with_cache_mode_and_cli(tmp_path, capsys):
     assert cli_main(["index", "build", str(z), "--json"]) == 0
     st = json.loads(capsys.readouterr().out)
     assert all(e["pronto"] == "sim" and e["mb"] > 0 for e in st)
-    with ttwtools.open_project(z) as q:                                                   # cópia de trabalho + cache
+    with ttwtools.open_project(z, lazy_index=False) as q:                                                   # cópia de trabalho + cache
         assert q.is_working_copy and q._idx_attached and not q.unsaved
         assert q._con.execute("SELECT COUNT(*) FROM tokens").fetchone()[0] == n
     assert cli_main(["index", "clear", str(z), "--json"]) == 0

@@ -192,6 +192,26 @@ def available(project, sel: dict[int, dict]) -> "IdStore | None":
     return store
 
 
+def layer_has(store: "IdStore", layer_id: int, needs: str) -> bool:
+    """A camada tem o campo `needs` (lemma, pos, tags) em algum token? Mesma regra do SQL de `query._select`."""
+    def present(c: int, bad: tuple) -> bool:
+        vals = store.layers.lexicon(_corpus_of(store, layer_id)).values[c]
+        ok = np.fromiter((v is not None and v not in bad for v in vals), dtype=bool, count=len(vals))
+        return bool(len(ok) and ok[store.column(layer_id, c)].any())
+    if needs == "lemma":
+        return present(LEMMA, ("",))
+    if needs == "pos":
+        return present(UPOS, ("",)) or present(XPOS, ("",))
+    if needs == "tags":
+        return present(TAGS, ("", "[]"))
+    raise Unsupported(needs)
+
+
+def _corpus_of(store: "IdStore", layer_id: int) -> str:
+    return store.con.execute("SELECT d.corpus_name FROM layers l JOIN documents d ON d.id = l.doc_id WHERE l.id = ?",
+                             (layer_id,)).fetchone()[0]
+
+
 # ---------------------------------------------------------------------------
 # Consulta → máscaras sobre o léxico
 # ---------------------------------------------------------------------------

@@ -79,7 +79,9 @@ def _select_layers(project: TTWAProject, corpus_name: str, layer: str | None, wh
     sel: dict[int, dict] = {}
     for d in docs:
         row = None
-        if not layer and needs in _NEEDS_SQL:
+        if not layer and needs in _NEEDS_SQL and project.index_pending:
+            row = _latest_with_ids(project, d, needs)               # sem montar o índice: lê os ids da camada
+        elif not layer and needs in _NEEDS_SQL:
             row = project._con.execute(
                 "SELECT l.id FROM layers l WHERE l.doc_id = ? AND EXISTS (SELECT 1 FROM tokens t WHERE t.layer_id = l.id"
                 f" AND ({_NEEDS_SQL[needs]})) ORDER BY l.id DESC LIMIT 1", (d["id"],)).fetchone()
@@ -93,6 +95,19 @@ def _select_layers(project: TTWAProject, corpus_name: str, layer: str | None, wh
     con.execute("DELETE FROM _sel")
     con.executemany("INSERT INTO _sel VALUES (?)", [(i,) for i in sel])
     return sel
+
+
+def _latest_with_ids(project: TTWAProject, doc: dict, needs: str):
+    """Como o `EXISTS` sobre `tokens` de `_select`, mas pelos ids (`TCL2`); o que não for `TCL2` lê `tokens`."""
+    for r in project._con.execute("SELECT id FROM layers WHERE doc_id = ? ORDER BY id DESC", (doc["id"],)).fetchall():
+        store = idquery.available(project, {r["id"]: doc})
+        if store is not None:
+            if idquery.layer_has(store, r["id"], needs):
+                return r
+        elif project._con.execute(
+                "SELECT 1 FROM tokens t WHERE t.layer_id = ? AND (" + _NEEDS_SQL[needs] + ") LIMIT 1", (r["id"],)).fetchone():
+            return r
+    return None
 
 
 def _ensure_regexp(project: TTWAProject) -> None:

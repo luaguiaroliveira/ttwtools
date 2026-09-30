@@ -133,9 +133,9 @@ def test_salvar_sem_tabelas_de_busca_e_recriar(tmp_path, monkeypatch):
     small = save_project_as(p.path, tmp_path / "sem.ttwa", compress=False, search_tables=False)
     small_z = save_project_as(p.path, tmp_path / "sem_z.ttwa", search_tables=False)
     p.close()
-    assert small.stat().st_size < full.stat().st_size and needs_migration(small) and not needs_migration(full)
+    assert small.stat().st_size < full.stat().st_size and not needs_migration(small) and not needs_migration(full)   # abrir não monta o índice
     seen = []
-    with ttwtools.open_project(small_z, progress=lambda d, t, m: seen.append(m)) as q:
+    with ttwtools.open_project(small_z, progress=lambda d, t, m: seen.append(m), lazy_index=False) as q:
         assert "search" in seen and "indexes" in seen and q.has_search_tables and not q.unsaved
         after = q._con.execute(f"SELECT {cols} FROM tokens ORDER BY layer_id, idx").fetchall()
         assert [tuple(r) for r in after] == [tuple(r) for r in before]
