@@ -61,6 +61,8 @@ _EXPORTS = {
     "TTWA_MODE_COMPACT": "project",
     "TTWL_EXTENSION": "project",
     "TTWAL_EXTENSION": "project",
+    "make_workdir": "project",
+    "purge_orphan_workdirs": "project",
     "save_corpora_as": "project",
     "TTWAL_EXTENSION": "project",
     "save_corpora_as": "project",

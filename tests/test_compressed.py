@@ -175,3 +175,29 @@ def test_cli_save_as_ttwal_com_selecao(tmp_path, capsys):
     assert cli.main(["save-as", src, str(tmp_path / "um.ttwal"), "--corpus", "c", "--json"]) == 0
     with ttwtools.open_project(tmp_path / "todos.ttwal") as a, ttwtools.open_project(tmp_path / "um.ttwal") as b:
         assert set(a.list_corpus_names()) == {"c", "d"} and b.list_corpus_names() == ["c"]
+
+
+def test_exportar_corpus_reporta_etapas_e_nao_deixa_lixo_temporario(tmp_path):
+    import tempfile
+    p = _two(tmp_path)
+    stages = []
+    before = set(Path(tempfile.gettempdir()).glob("ttw_export_*"))
+    ttwtools.save_corpora_as(p, ["c", "d"], tmp_path / "x.ttwal", progress=lambda d, t, m: stages.append((d, t, m)))
+    p.close()
+    copy = [s for s in stages if s[2] == "copy"]
+    assert copy and copy[-1][0] == copy[-1][1] and copy[-1][1] >= 2          # uma etapa por camada copiada
+    assert set(Path(tempfile.gettempdir()).glob("ttw_export_*")) == before   # a pasta temporária foi apagada
+
+
+def test_purge_orphan_workdirs_pelo_dono(tmp_path, monkeypatch):
+    import os
+    import tempfile
+    monkeypatch.setattr(tempfile, "tempdir", str(tmp_path))
+    dead, alive, old, new = (tmp_path / n for n in ("ttw_work_dead", "ttw_work_alive", "ttw_work_old", "ttw_work_new"))
+    for d in (dead, alive, old, new):
+        d.mkdir()
+    (dead / "owner.pid").write_text("999999")                  # processo que não existe
+    (alive / "owner.pid").write_text(str(os.getpid()))
+    os.utime(old, (1, 1))                                      # sem marca e antiga: abandonada
+    assert ttwtools.purge_orphan_workdirs() == 2
+    assert not dead.exists() and not old.exists() and alive.exists() and new.exists()

@@ -118,6 +118,15 @@ export_corpus_next_to(project: 'TTWAProject', folder: 'str | Path | None' = None
 
 Exporta os textos do projeto para uma pasta ao lado dele (ver TTWAProject.export_corpus_next_to).
 
+### `make_workdir` · **`ttwtools.make_workdir`**
+
+```python
+make_workdir(prefix: 'str' = 'ttw_work_') -> 'Path'
+```
+
+Pasta temporária com um arquivo `owner.pid` (o processo dono). Se o processo morrer sem limpar,
+`purge_orphan_workdirs()` reconhece a pasta como abandonada (sem esperar horas).
+
 ### `needs_migration` · **`ttwtools.needs_migration`**
 
 ```python
@@ -136,6 +145,15 @@ Abre um projeto `.ttwa` ou `.ttwl` (o tipo vem do próprio arquivo).
 
 Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.open);
 `progress(feitos, total, etapa)` acompanha a migração, que pode ser demorada.
+
+### `purge_orphan_workdirs` · **`ttwtools.purge_orphan_workdirs`**
+
+```python
+purge_orphan_workdirs(prefixes: "'tuple[str, ...]'" = ('ttw_work_', 'ttw_export_'), max_age_hours: 'float' = 24) -> 'int'
+```
+
+Apaga pastas temporárias do TTWtools abandonadas: a do processo que já morreu (marca `owner.pid`),
+ou, sem marca (versões antigas), a que ninguém mexe há `max_age_hours`. Devolve quantas apagou.
 
 ### `register_working_copy` · **`ttwtools.register_working_copy`**
 
@@ -182,7 +200,7 @@ Retorna o TTWAProject aberto (não fechado — use .close() ou `with`).
 ### `save_corpora_as` · **`ttwtools.save_corpora_as`**
 
 ```python
-save_corpora_as(project: 'TTWAProject', corpus_names: "'list[str]'", dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True) -> 'Path'
+save_corpora_as(project: 'TTWAProject', corpus_names: "'list[str]'", dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
 ```
 
 Grava uma seleção de corpora do projeto num pacote: `.ttwal` (leve: textos numa pasta
@@ -194,7 +212,7 @@ O projeto de origem não muda.
 ### `save_corpus_as` · **`ttwtools.save_corpus_as`**
 
 ```python
-save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True) -> 'Path'
+save_corpus_as(project: 'TTWAProject', corpus_name: 'str', dest: 'str | Path', progress_cb: "'Optional[Callable[[int, int], None]]'" = None, compress: 'bool' = True, search_tables: 'bool' = True, progress: "'Optional[Callable[[int, int, str], None]]'" = None) -> 'Path'
 ```
 
 Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou

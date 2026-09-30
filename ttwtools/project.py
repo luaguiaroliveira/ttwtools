@@ -1935,6 +1935,7 @@ def save_corpus_as(
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
     compress: bool = True,
     search_tables: bool = True,
+    progress: "Optional[Callable[[int, int, str], None]]" = None,
 ) -> Path:
     """Grava um corpus do projeto num arquivo de um corpus só: `.ttwc` (textos dentro) ou
     `.ttwcl` (textos numa pasta `<nome>_corpus` ao lado do arquivo).
@@ -1944,7 +1945,7 @@ def save_corpus_as(
     O projeto de origem não muda."""
     if Path(dest).suffix.lower() not in SINGLE_CORPUS_EXTENSIONS:
         raise ValueError(f"use a extensão .ttwc (textos dentro) ou .ttwcl (textos ao lado), não '{Path(dest).suffix}'")
-    return _save_corpora_subset(project, [corpus_name], dest, True, progress_cb, compress, search_tables)
+    return _save_corpora_subset(project, [corpus_name], dest, True, progress_cb, compress, search_tables, progress)
 
 
 def save_corpora_as(
@@ -1954,6 +1955,7 @@ def save_corpora_as(
     progress_cb: "Optional[Callable[[int, int], None]]" = None,
     compress: bool = True,
     search_tables: bool = True,
+    progress: "Optional[Callable[[int, int, str], None]]" = None,
 ) -> Path:
     """Grava uma seleção de corpora do projeto num pacote: `.ttwal` (leve: textos numa pasta
     `<nome>_corpus/<corpus>` ao lado do arquivo; é o `.ttwl` para uma seleção), `.ttwl` (idem)
@@ -1964,15 +1966,74 @@ def save_corpora_as(
         raise ValueError(f"use a extensão .ttwal (leve), .ttwl (leve) ou .ttwa (textos dentro), não '{Path(dest).suffix}'")
     if not corpus_names:
         raise ValueError("escolha ao menos um corpus")
-    return _save_corpora_subset(project, list(dict.fromkeys(corpus_names)), dest, False, progress_cb, compress, search_tables)
+    return _save_corpora_subset(project, list(dict.fromkeys(corpus_names)), dest, False, progress_cb, compress, search_tables, progress)
+
+
+def make_workdir(prefix: str = "ttw_work_") -> Path:
+    """Pasta temporária com um arquivo `owner.pid` (o processo dono). Se o processo morrer sem limpar,
+    `purge_orphan_workdirs()` reconhece a pasta como abandonada (sem esperar horas)."""
+    import os
+    import tempfile
+    d = Path(tempfile.mkdtemp(prefix=prefix))
+    (d / "owner.pid").write_text(str(os.getpid()))
+    return d
+
+
+def _pid_alive(pid: int) -> bool:
+    import os
+    try:
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True
+    except OSError:
+        return False
+    return True
+
+
+def purge_orphan_workdirs(prefixes: "tuple[str, ...]" = ("ttw_work_", "ttw_export_"), max_age_hours: float = 24) -> int:
+    """Apaga pastas temporárias do TTWtools abandonadas: a do processo que já morreu (marca `owner.pid`),
+    ou, sem marca (versões antigas), a que ninguém mexe há `max_age_hours`. Devolve quantas apagou."""
+    import shutil
+    import tempfile
+    import time
+    n = 0
+    for prefix in prefixes:
+        for d in Path(tempfile.gettempdir()).glob(prefix + "*"):
+            try:
+                marker = d / "owner.pid"
+                if marker.is_file():
+                    pid = int(marker.read_text().strip() or 0)
+                    dead = pid > 0 and not _pid_alive(pid)
+                else:
+                    dead = time.time() - d.stat().st_mtime > max_age_hours * 3600
+                if dead:
+                    shutil.rmtree(d, ignore_errors=True)
+                    n += 1
+            except (OSError, ValueError):
+                pass
+    return n
+
+
+def _copy_rows(con: sqlite3.Connection, table: str, where: str = "", args: tuple = ()) -> None:
+    """INSERT ... SELECT de `src.<table>` para `main.<table>`, só nas colunas que existem nos dois lados
+    (um projeto de esquema mais antigo pode ter menos colunas)."""
+    have = {r[1] for r in con.execute(f"PRAGMA main.table_info({table})")}
+    cols = [r[1] for r in con.execute(f"PRAGMA src.table_info({table})") if r[1] in have]
+    lst = ", ".join(f'"{c}"' for c in cols)
+    con.execute(f'INSERT INTO main."{table}" ({lst}) SELECT {lst} FROM src."{table}" {where}', args)
 
 
 def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Path, single: bool,
-                         progress_cb, compress: bool, search_tables: bool) -> Path:
-    """Base de `save_corpus_as` e `save_corpora_as`: copia o projeto e tira o que não é dos corpora `keep`."""
+                         progress_cb, compress: bool, search_tables: bool,
+                         progress: "Optional[Callable[[int, int, str], None]]" = None) -> Path:
+    """Base de `save_corpus_as` e `save_corpora_as`. Monta um arquivo novo copiando SÓ o que é dos
+    corpora `keep` (em vez de copiar o projeto todo e apagar o resto: num projeto de vários GB isso
+    dobrava o uso de disco e demorava). `progress(feitos, total, etapa)`: etapa "copy" (camadas
+    copiadas), depois as do empacotamento ("pack") e da gravação."""
     import json as _json
     import shutil
-    import tempfile
     out = Path(dest).expanduser().resolve()
     names = project.list_corpus_names()
     for c in keep:
@@ -1982,26 +2043,43 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
     marks = ",".join("?" * len(keep))
     light_out = out.suffix.lower() in LIGHT_EXTENSIONS
     project._con.commit()
-    workdir = Path(tempfile.mkdtemp(prefix="ttw_"))
+    src_path = str(project.path)
+    checkpoint(src_path)
+    workdir = make_workdir("ttw_export_")
     try:
         work_path = workdir / ("work" + out.suffix)
-        target = sqlite3.connect(str(work_path))
-        project._con.backup(target)
-        target.close()
-        work = TTWAProject.open(work_path, migrate=False, home=out)
-        con = work._con
-        # textos: ler da origem antes de mexer (no .ttwl de origem, da pasta ao lado dela)
+        # textos: ler da origem antes de tudo (no .ttwl de origem, da pasta ao lado dela)
         texts = {(c, fn): project.get_corpus_file(c, fn) for c in keep for fn in project.list_corpus_files(c)}
-        # apagar milhões de tokens com 7 índices ativos é lento: tira os índices, apaga pela chave
-        # (layer_id) e recria no fim, já só com o que fica
-        for name, _sql in _TOKEN_INDEXES:
+        con = _connect(work_path)                      # esquema atual, vazio
+        for name, _sql in _TOKEN_INDEXES:              # índices só no fim: inserir com eles é bem mais lento
             con.execute(f"DROP INDEX IF EXISTS {name}")
-        con.execute("DELETE FROM tokens WHERE layer_id IN (SELECT l.id FROM layers l JOIN documents d ON d.id = l.doc_id"
-                    f" WHERE d.corpus_name NOT IN ({marks}))", keep)
-        for table, col in (("corpus_files", "corpus_name"), ("tagged_files", "corpus_name"),
-                           ("feature_tables", "corpus_name"), ("documents", "corpus_name")):
-            con.execute(f"DELETE FROM {table} WHERE {col} NOT IN ({marks})", keep)
-        con.execute(f"DELETE FROM kfa_results WHERE corpus1_name NOT IN ({marks}) OR corpus2_name NOT IN ({marks})", keep + keep)
+        con.commit()
+        con.execute("ATTACH DATABASE ? AS src", (src_path,))
+        known = {"project_meta", "documents", "document_meta", "layers", "tokens", "layer_blobs", "corpus_files",
+                 "tagged_files", "feature_tables", "kfa_results", "analyses"}
+        _copy_rows(con, "project_meta")
+        _copy_rows(con, "documents", f"WHERE corpus_name IN ({marks})", tuple(keep))
+        for table in ("corpus_files", "tagged_files", "feature_tables"):
+            _copy_rows(con, table, f"WHERE corpus_name IN ({marks})", tuple(keep))
+        _copy_rows(con, "kfa_results", f"WHERE corpus1_name IN ({marks}) AND corpus2_name IN ({marks})", tuple(keep) * 2)
+        _copy_rows(con, "document_meta", "WHERE doc_id IN (SELECT id FROM main.documents)")
+        _copy_rows(con, "layers", "WHERE doc_id IN (SELECT id FROM main.documents)")
+        _copy_rows(con, "analyses")
+        con.commit()
+        layer_ids = [r[0] for r in con.execute("SELECT id FROM main.layers ORDER BY id")]
+        for i, lid in enumerate(layer_ids):            # camada a camada: progresso e transações curtas
+            _copy_rows(con, "tokens", "WHERE layer_id = ?", (lid,))
+            _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
+            if i % 20 == 0:
+                con.commit()
+            if progress:
+                progress(i + 1, len(layer_ids), "copy")
+        for (t,) in con.execute("SELECT name FROM src.sqlite_master WHERE type = 'table' AND name NOT LIKE 'sqlite_%'").fetchall():
+            if t not in known and con.execute("SELECT 1 FROM main.sqlite_master WHERE type='table' AND name = ?", (t,)).fetchone():
+                _copy_rows(con, t)                     # tabela que este código não conhece: leva inteira (nada se perde)
+        con.commit()
+        con.execute("DETACH DATABASE src")
+        # análises que dependem de algo que ficou de fora
         kept_layers = {r[0] for r in con.execute("SELECT id FROM layers")}
         for aid, name, params, refs in con.execute("SELECT id, name, params, layer_refs FROM analyses").fetchall():
             ids = set(_json.loads(refs or "[]"))
@@ -2011,6 +2089,10 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
         for (key,) in con.execute("SELECT key FROM project_meta").fetchall():
             if any(key.endswith("." + o) for o in others):
                 con.execute("DELETE FROM project_meta WHERE key = ?", (key,))
+        con.commit()
+        con.close()
+        work = TTWAProject.open(work_path, migrate=False, home=out)
+        con = work._con
         # onde ficam os textos no arquivo novo
         if light_out:
             con.execute("DELETE FROM corpus_files")
@@ -2037,9 +2119,8 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
         for _name, sql in _TOKEN_INDEXES:
             con.execute(sql)
         con.commit()
-        con.execute("VACUUM")
         work.close()
-        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=search_tables)
+        return save_project_as(work_path, out, progress_cb=progress_cb, compress=compress, search_tables=search_tables, progress=progress)
     finally:
         shutil.rmtree(workdir, ignore_errors=True)
 

@@ -235,6 +235,7 @@
  "job.progress": "{done} de {total}",
  "job.queued": "Na fila",
  "job.running": "Em andamento",
+ "job.stage.copy": "Copiando os dados dos corpora escolhidos",
  "job.stage.decompress": "Descompactando o arquivo",
  "job.stage.done": "Pronto",
  "job.stage.indexes": "Preparando as buscas (índices)",
