@@ -34,8 +34,10 @@ def _raw_snapshot(path: Path) -> dict:
     return out
 
 
-def test_fixture_is_v2():
-    assert _raw_snapshot(V2_FIXTURE)["schema"] == "0.2"
+def test_fixture_is_v2(tmp_path):
+    copy = tmp_path / "f.ttwa"          # numa cópia: abrir o banco em WAL cria -wal/-shm ao lado do original
+    shutil.copy(V2_FIXTURE, copy)
+    assert _raw_snapshot(copy)["schema"] == "0.2"
 
 
 def test_migrate_v2_keeps_everything(v2_copy):
