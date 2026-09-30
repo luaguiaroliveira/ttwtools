@@ -103,3 +103,19 @@ def test_collocate_examples_match_the_collocates_table(tmp_path):
         assert all(l["node"] and all(c["w"].lower() == "the" for c in l["node"]) for l in ex["lines"])
         assert all(c["hit"] is False or c["w"].lower() == r["collocate"] for l in ex["lines"] for c in l["left"] + l["right"])
     p.close()
+
+
+def test_collocate_examples_carry_the_position_to_open_the_reader(tmp_path):
+    dest = tmp_path / "v2.ttwa"
+    shutil.copy(V2_FIXTURE, dest)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        p = ttwtools.open_project(dest)
+    corpus = p.list_corpus_names()[0]
+    ex = query.collocate_examples(p, corpus, "the", "of", (5, 5), "form", "spacy", None, limit=5)
+    assert ex["lines"]
+    for l in ex["lines"]:
+        text = p.get_corpus_file(corpus, l["filename"])
+        assert isinstance(l["start_char"], int) and l["end_char"] > l["start_char"]
+        assert text[l["start_char"]:l["end_char"]].lower() == "the"
+    p.close()

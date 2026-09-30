@@ -855,7 +855,7 @@ collocate_examples(project: 'TTWAProject', corpus_name: 'str', node: 'str', coll
 ```
 
 Ocorrências do nó que têm `collocate` dentro da janela (as mesmas de `collocates`), para conferir na prática.
-Cada linha traz `left`, `node` e `right`: listas de {"w": palavra, "hit": True se é o colocado}; a janela conta
+Cada linha traz `filename`, `start_char` e `end_char` do nó (para abrir o texto) e `left`, `node` e `right`: listas de {"w": palavra, "hit": True se é o colocado}; a janela conta
 palavras (sem pontuação), mas a pontuação aparece no texto. Paginada (`limit`/`offset`); olha no máximo `scan`
 ocorrências do nó (`capped` avisa se houve corte).
 

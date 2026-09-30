@@ -426,7 +426,7 @@ def collocate_examples(project: TTWAProject, corpus_name: str, node: str, colloc
                        window: tuple[int, int] = (5, 5), unit: str = "form", layer: str | None = None,
                        where: Mapping | None = None, limit: int = 20, offset: int = 0, scan: int = 5000) -> dict:
     """Ocorrências do nó que têm `collocate` dentro da janela (as mesmas de `collocates`), para conferir na prática.
-    Cada linha traz `left`, `node` e `right`: listas de {"w": palavra, "hit": True se é o colocado}; a janela conta
+    Cada linha traz `filename`, `start_char` e `end_char` do nó (para abrir o texto) e `left`, `node` e `right`: listas de {"w": palavra, "hit": True se é o colocado}; a janela conta
     palavras (sem pontuação), mas a pontuação aparece no texto. Paginada (`limit`/`offset`); olha no máximo `scan`
     ocorrências do nó (`capped` avisa se houve corte)."""
     left, right = window
@@ -435,8 +435,8 @@ def collocate_examples(project: TTWAProject, corpus_name: str, node: str, colloc
     if store is not None:
         try:
             found, n = idquery.hits(store, sel, node)
-            fetch = lambda lid: [{"idx": i, "word": r[2], "lemma": r[3], "upos": r[4], "xpos": r[5]}  # noqa: E731
-                                 for i, r in enumerate(store.rows(lid))]
+            fetch = lambda lid: [{"idx": i, "word": r[2], "lemma": r[3], "upos": r[4], "xpos": r[5],  # noqa: E731
+                                  "start_char": r[0], "end_char": r[1]} for i, r in enumerate(store.rows(lid))]
         except idquery.Unsupported:
             store = None
     if store is None:
@@ -444,7 +444,7 @@ def collocate_examples(project: TTWAProject, corpus_name: str, node: str, colloc
         sql, args, n = _match_sql(node)
         found = [(r["layer_id"], r["doc_id"], r["idx"]) for r in project._con.execute(f"SELECT * FROM ({sql}) ORDER BY doc_id, idx", args)]
         fetch = lambda lid: [dict(r) for r in project._con.execute(  # noqa: E731
-            "SELECT idx, word, lemma, upos, xpos FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,))]
+            "SELECT idx, word, lemma, upos, xpos, start_char, end_char FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,))]
     capped = len(found) > scan
     found = found[:scan]
     docs = {lid: d for lid, d in sel.items()}
@@ -472,7 +472,10 @@ def collocate_examples(project: TTWAProject, corpus_name: str, node: str, colloc
         first, last = words[lo]["idx"], words[hi - 1]["idx"]
         shown = [t for t in toks if first <= t["idx"] <= last]
         cell = lambda t: {"w": t["word"] or "", "hit": t["idx"] in hit_idx}  # noqa: E731
+        node_toks = [t for t in shown if idx <= t["idx"] < idx + n]
         lines.append({"filename": docs[lid]["filename"], "idx": idx,
+                      "start_char": node_toks[0]["start_char"] if node_toks else None,      # para abrir o texto no Leitor
+                      "end_char": node_toks[-1]["end_char"] if node_toks else None,
                       "left": [cell(t) for t in shown if t["idx"] < idx],
                       "node": [cell(t) for t in shown if idx <= t["idx"] < idx + n],
                       "right": [cell(t) for t in shown if t["idx"] >= idx + n]})
