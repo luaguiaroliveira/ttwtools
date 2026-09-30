@@ -744,5 +744,20 @@
  "disk.what.save_as": "salvar como",
  "disk.what.export": "exportar",
  "disk.what.open": "abrir o arquivo",
- "disk.what.import": "importar"
+ "disk.what.import": "importar",
+ "disk.title": "Uso de disco",
+ "disk.intro": "O que o TTWtools guarda no disco além dos seus arquivos: cópias de trabalho (temporárias, apagadas ao sair) e o cache (recriável, com limite; o menos usado sai primeiro).",
+ "disk.free": "Livre no disco",
+ "disk.workdirs": "Cópias de trabalho",
+ "disk.cache": "Cache",
+ "disk.of_limit": "(limite {mb} MB)",
+ "disk.in_use": "em uso",
+ "disk.abandoned": "abandonada",
+ "disk.no_owner": "sem dono",
+ "disk.rebuildable": "recriável",
+ "disk.clear": "Limpar restos",
+ "disk.clear_hint": "Apaga o cache e as pastas abandonadas; o que está em uso fica.",
+ "disk.cleared": "{mb} MB liberados.",
+ "disk.warn_purged": "Ao iniciar, foram apagados {mb} MB de restos de sessões anteriores.",
+ "disk.warn_orphans": "Há {mb} MB de restos de sessões anteriores ocupando disco."
 }

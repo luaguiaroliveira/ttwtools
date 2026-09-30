@@ -3,14 +3,18 @@
     ensure_free_space(destino, bytes_necessários, "save")     # levanta InsufficientDiskSpace
     ensure_free_space(destino, estimate_open(arquivo), "open")
 
-Só a biblioteca padrão. `what` é o nome da operação ("save", "save_as", "export", "open",
+Também reúne as pastas do aplicativo: de trabalho (temporárias, com dono) e o cache (índices e
+derivados, com limite e limpeza). Só a biblioteca padrão. `what` é o nome da operação ("save", "save_as", "export", "open",
 "import"); a tela traduz pelo código e pelos valores de `InsufficientDiskSpace.params`.
 """
 
 from __future__ import annotations
 
+import os
 import shutil
 import struct
+import tempfile
+import time
 from pathlib import Path
 
 MARGIN_FIXED = 64 * 1024 * 1024      # folga fixa somada a toda estimativa
@@ -79,3 +83,192 @@ def estimate_open(path: "str | Path") -> int:
     if isize is not None and isize >= size:
         return with_margin(isize)
     return with_margin(size * _OPEN_FACTOR)
+
+
+# ---------------------------------------------------------------------------
+# Pastas de trabalho (temporárias, com dono)
+# ---------------------------------------------------------------------------
+
+WORKDIR_PREFIXES = {"work": "ttw_work_", "export": "ttw_export_", "pack": "ttw_pack_"}
+OWNER_FILE = "owner.pid"
+last_purge = {"count": 0, "bytes": 0}      # o que a última limpeza de órfãs apagou (o app avisa ao iniciar)
+
+
+def make_workdir(prefix: str = "ttw_work_") -> Path:
+    """Pasta temporária com `owner.pid` (o processo dono). Se o processo morrer sem limpar,
+    `purge_orphans()` reconhece a pasta como abandonada, sem esperar horas."""
+    d = Path(tempfile.mkdtemp(prefix=prefix))
+    (d / OWNER_FILE).write_text(str(os.getpid()))
+    return d
+
+
+def workdir(kind: str = "work") -> Path:
+    """Nova pasta de trabalho de um tipo: "work" (cópia de trabalho), "export" ou "pack" (empacotamento)."""
+    return make_workdir(WORKDIR_PREFIXES[kind])
+
+
+def _pid_alive(pid: int) -> bool:
+    try:
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True
+    except OSError:
+        return False
+    return True
+
+
+def dir_size(path: "str | Path") -> int:
+    """Tamanho total dos arquivos de uma pasta (ou do arquivo)."""
+    p = Path(path)
+    if p.is_file():
+        return p.stat().st_size
+    total = 0
+    for root, _dirs, files in os.walk(p):
+        for f in files:
+            try:
+                total += os.lstat(os.path.join(root, f)).st_size
+            except OSError:
+                pass
+    return total
+
+
+def _owner(d: Path) -> int | None:
+    try:
+        return int((d / OWNER_FILE).read_text().strip() or 0) or None
+    except (OSError, ValueError):
+        return None
+
+
+def list_workdirs(prefixes: "tuple[str, ...] | None" = None) -> list[dict]:
+    """Pastas de trabalho na pasta temporária: caminho, tipo, bytes, pid do dono, se o dono vive
+    (None sem marca), idade em horas e `mine` (deste processo)."""
+    prefixes = prefixes or tuple(WORKDIR_PREFIXES.values())
+    kinds = {v: k for k, v in WORKDIR_PREFIXES.items()}
+    out = []
+    for d in sorted(Path(tempfile.gettempdir()).glob("ttw_*")):
+        pre = next((p for p in prefixes if d.name.startswith(p)), None)
+        if pre is None or not d.is_dir():
+            continue
+        pid = _owner(d)
+        out.append({"path": str(d), "kind": kinds.get(pre, pre), "bytes": dir_size(d), "pid": pid,
+                    "alive": _pid_alive(pid) if pid else None,
+                    "age_hours": round((time.time() - d.stat().st_mtime) / 3600, 2),
+                    "mine": pid == os.getpid()})
+    return out
+
+
+def purge_orphans(prefixes: "tuple[str, ...] | None" = None, max_age_hours: float = 24) -> int:
+    """Apaga pastas de trabalho abandonadas: as de processo que já morreu (marca `owner.pid`) e, sem
+    marca (versões antigas), as com mais de `max_age_hours`. As de processos vivos ficam. Devolve
+    quantas apagou; `last_purge` guarda também os bytes."""
+    n = freed = 0
+    for w in list_workdirs(prefixes):
+        dead = (w["alive"] is False) if w["pid"] else w["age_hours"] > max_age_hours
+        if dead:
+            shutil.rmtree(w["path"], ignore_errors=True)
+            n += 1
+            freed += w["bytes"]
+    last_purge.update(count=n, bytes=freed)
+    return n
+
+
+def release_own_workdirs() -> int:
+    """Apaga as pastas de trabalho deste processo (ao sair)."""
+    n = 0
+    for w in list_workdirs():
+        if w["mine"]:
+            shutil.rmtree(w["path"], ignore_errors=True)
+            n += 1
+    return n
+
+
+# ---------------------------------------------------------------------------
+# Cache (índices e derivados: recriáveis, com limite e limpeza LRU)
+# ---------------------------------------------------------------------------
+
+DEFAULT_CACHE_LIMIT_MB = 5120
+_LAST_USED = ".last_used"
+
+
+def cache_dir() -> Path:
+    """Pasta do cache (recriável). TTWTOOLS_CACHE_DIR a muda; padrão: pasta de cache do usuário."""
+    if os.environ.get("TTWTOOLS_CACHE_DIR"):
+        base = Path(os.environ["TTWTOOLS_CACHE_DIR"])
+    else:
+        import platformdirs
+        base = Path(platformdirs.user_cache_dir("TTWtools", appauthor=False))
+    base.mkdir(parents=True, exist_ok=True)
+    return base
+
+
+def cache_limit() -> int:
+    """Limite do cache em bytes: `cache_limit_mb` do settings.json (padrão 5 GB)."""
+    from .corpus_catalog import settings
+    return int(float(settings().get("cache_limit_mb") or DEFAULT_CACHE_LIMIT_MB) * 1024 * 1024)
+
+
+def cache_entry(key: str) -> Path:
+    """Pasta do item `key` do cache (criada se preciso); marca o uso agora."""
+    d = cache_dir() / key
+    d.mkdir(parents=True, exist_ok=True)
+    touch_cache(key)
+    return d
+
+
+def touch_cache(key: str) -> None:
+    (cache_dir() / key / _LAST_USED).write_text(str(time.time()))
+
+
+def cache_entries() -> list[dict]:
+    """Itens do cache, do menos ao mais recentemente usado: key, bytes, last_used (epoch)."""
+    out = []
+    for d in cache_dir().iterdir():
+        if not d.is_dir():
+            continue
+        mark = d / _LAST_USED
+        used = mark.stat().st_mtime if mark.exists() else d.stat().st_mtime
+        out.append({"key": d.name, "bytes": dir_size(d), "last_used": used})
+    return sorted(out, key=lambda e: e["last_used"])
+
+
+def enforce_cache_limit(limit: int | None = None) -> list[str]:
+    """Remove os itens menos usados até o cache caber no limite. Devolve as chaves removidas."""
+    limit = cache_limit() if limit is None else limit
+    entries = cache_entries()
+    total = sum(e["bytes"] for e in entries)
+    removed = []
+    for e in entries:
+        if total <= limit:
+            break
+        shutil.rmtree(cache_dir() / e["key"], ignore_errors=True)
+        total -= e["bytes"]
+        removed.append(e["key"])
+    return removed
+
+
+def clear_cache(key: str | None = None) -> int:
+    """Apaga o cache (ou um item). Devolve os bytes liberados."""
+    freed = 0
+    for e in cache_entries():
+        if key is None or e["key"] == key:
+            shutil.rmtree(cache_dir() / e["key"], ignore_errors=True)
+            freed += e["bytes"]
+    return freed
+
+
+def disk_usage(path: "str | Path | None" = None) -> dict:
+    """Uso de disco do TTWtools: pastas de trabalho, cache e espaço livre (para a tela e `ttwtools cache list`)."""
+    work = list_workdirs()
+    cache = cache_entries()
+    return {"workdirs": work, "workdirs_bytes": sum(w["bytes"] for w in work),
+            "orphans_bytes": sum(w["bytes"] for w in work if (w["alive"] is False) or (w["pid"] is None and not w["mine"])),
+            "cache": cache, "cache_bytes": sum(e["bytes"] for e in cache), "cache_limit_bytes": cache_limit(),
+            "free_bytes": free_bytes(path or tempfile.gettempdir()), "last_purge": dict(last_purge)}
+
+
+def cleanup(exit: bool = False) -> dict:
+    """Limpeza ao iniciar (órfãs e limite do cache) ou ao sair (`exit=True`: também as pastas deste processo)."""
+    own = release_own_workdirs() if exit else 0
+    return {"orphans": purge_orphans(), "own": own, "cache_removed": enforce_cache_limit()}

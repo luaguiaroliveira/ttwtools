@@ -36,3 +36,15 @@ def spacy_model():
         return spacy.load("en_core_web_sm")
     except OSError:
         pytest.skip("modelo en_core_web_sm não instalado")
+
+
+@pytest.fixture
+def no_temp_residue():
+    """Falha se o teste deixar pasta `ttw_*` na pasta temporária (cópias de trabalho, exportação, empacotamento)."""
+    import tempfile
+    def now():
+        return {p.name for p in Path(tempfile.gettempdir()).glob("ttw_*")}
+    before = now()
+    yield
+    left = now() - before
+    assert not left, f"pastas temporárias deixadas para trás: {sorted(left)}"

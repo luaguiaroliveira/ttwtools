@@ -164,6 +164,32 @@ def _configure_compact(p: argparse.ArgumentParser) -> None:
     p.add_argument("--dry-run", action="store_true", help="só mostra o que seria removido, sem alterar o arquivo")
 
 
+def _cmd_cache(args: argparse.Namespace) -> int:
+    from . import storage
+    if args.action == "clear":
+        freed = storage.clear_cache()
+        n = storage.purge_orphans()
+        emit({"cache_liberado_mb": round(freed / 1e6, 1), "pastas_de_trabalho_apagadas": n,
+              "bytes_das_pastas_mb": round(storage.last_purge["bytes"] / 1e6, 1)}, args.format)
+        return EXIT_OK
+    u = storage.disk_usage()
+    rows = [{"tipo": "cache", "nome": e["key"], "mb": round(e["bytes"] / 1e6, 1),
+             "estado": "recriável"} for e in u["cache"]]
+    rows += [{"tipo": w["kind"], "nome": Path(w["path"]).name, "mb": round(w["bytes"] / 1e6, 1),
+              "estado": "em uso" if w["alive"] else ("abandonada" if w["alive"] is False else "sem dono")}
+             for w in u["workdirs"]]
+    emit(rows or "nada guardado (sem cache nem pastas de trabalho)", args.format)
+    if args.format == "table":
+        print(f"cache: {u['cache_bytes'] / 1e6:.1f} MB de {u['cache_limit_bytes'] / 1e6:.0f} MB · "
+              f"livre: {u['free_bytes'] / 1e9:.1f} GB", file=sys.stderr)
+    return EXIT_OK
+
+
+def _configure_cache(p: argparse.ArgumentParser) -> None:
+    p.add_argument("action", choices=["list", "clear"],
+                   help="list: o que ocupa disco (cache e pastas de trabalho); clear: apaga o cache e as pastas abandonadas")
+
+
 def _cmd_import(args: argparse.Namespace) -> int:
     from .corpus import TokenizerConfig, import_corpus
     fmt = _import_format(args) if args.source != "-" else "txt"
@@ -1041,6 +1067,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_save_as, _cmd_save_as),
     "compact":   ("Remove do projeto as cópias antigas das etiquetagens (tagged_files) já presentes nas camadas",
                   _configure_compact, _cmd_compact),
+    "cache":     ("Uso de disco do TTWtools: lista (list) ou limpa (clear) o cache e as pastas de trabalho abandonadas",
+                  _configure_cache, _cmd_cache),
     "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela",
                   _configure_pipeline, _cmd_pipeline),
     "names":     ("Mostra como os nomes dos arquivos de uma pasta viram metadados (sem importar)",

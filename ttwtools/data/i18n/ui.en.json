@@ -744,5 +744,20 @@
  "disk.what.save_as": "save as",
  "disk.what.export": "export",
  "disk.what.open": "open the file",
- "disk.what.import": "import"
+ "disk.what.import": "import",
+ "disk.title": "Disk usage",
+ "disk.intro": "What TTWtools keeps on disk besides your files: working copies (temporary, deleted on exit) and the cache (rebuildable, limited; least used goes first).",
+ "disk.free": "Free on disk",
+ "disk.workdirs": "Working copies",
+ "disk.cache": "Cache",
+ "disk.of_limit": "(limit {mb} MB)",
+ "disk.in_use": "in use",
+ "disk.abandoned": "abandoned",
+ "disk.no_owner": "no owner",
+ "disk.rebuildable": "rebuildable",
+ "disk.clear": "Clean up leftovers",
+ "disk.clear_hint": "Deletes the cache and abandoned folders; what is in use stays.",
+ "disk.cleared": "{mb} MB freed.",
+ "disk.warn_purged": "On startup, {mb} MB of leftovers from earlier sessions were deleted.",
+ "disk.warn_orphans": "{mb} MB of leftovers from earlier sessions are taking up disk space."
 }

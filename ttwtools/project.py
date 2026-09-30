@@ -425,18 +425,24 @@ def save_project_as(
             shutil.rmtree(workdir, ignore_errors=True)
     tmp = out.with_name(out.name + ".part")
     tmp.unlink(missing_ok=True)
-    if compress or out.suffix.lower() == TTWT_EXTENSION:
-        compress_project_file(src, tmp, progress_cb=progress_cb)
-    else:
-        a, b = sqlite3.connect(str(src)), sqlite3.connect(str(tmp))
-        try:
-            a.backup(b, pages=4096, progress=(lambda _st, rem, tot: progress_cb(tot - rem, tot)) if progress_cb else None)
-        finally:
-            b.close()
-            a.close()
-    for side in ("-journal", "-wal", "-shm"):
-        Path(str(out) + side).unlink(missing_ok=True)
-    tmp.replace(out)
+    try:
+        if compress or out.suffix.lower() == TTWT_EXTENSION:
+            compress_project_file(src, tmp, progress_cb=progress_cb)
+        else:
+            a, b = sqlite3.connect(str(src)), sqlite3.connect(str(tmp))
+            try:
+                a.backup(b, pages=4096, progress=(lambda _st, rem, tot: progress_cb(tot - rem, tot)) if progress_cb else None)
+            finally:
+                b.close()
+                a.close()
+        for side in ("-journal", "-wal", "-shm"):
+            Path(str(out) + side).unlink(missing_ok=True)
+        tmp.replace(out)
+    except BaseException:
+        tmp.unlink(missing_ok=True)            # cancelado ou falhou (disco cheio...): o `.part` não fica
+        for side in ("-journal", "-wal", "-shm"):
+            Path(str(tmp) + side).unlink(missing_ok=True)
+        raise
     return out
 
 
@@ -2122,50 +2128,16 @@ def _same_token_rows(file_rows: list[tuple], layer_rows: list[tuple]) -> bool:
 
 
 def make_workdir(prefix: str = "ttw_work_") -> Path:
-    """Pasta temporária com um arquivo `owner.pid` (o processo dono). Se o processo morrer sem limpar,
-    `purge_orphan_workdirs()` reconhece a pasta como abandonada (sem esperar horas)."""
-    import os
-    import tempfile
-    d = Path(tempfile.mkdtemp(prefix=prefix))
-    (d / "owner.pid").write_text(str(os.getpid()))
-    return d
+    """Pasta temporária com marca do processo dono (ver `storage.make_workdir`)."""
+    return _storage.make_workdir(prefix)
 
 
-def _pid_alive(pid: int) -> bool:
-    import os
-    try:
-        os.kill(pid, 0)
-    except ProcessLookupError:
-        return False
-    except PermissionError:
-        return True
-    except OSError:
-        return False
-    return True
+_pid_alive = _storage._pid_alive
 
 
 def purge_orphan_workdirs(prefixes: "tuple[str, ...]" = ("ttw_work_", "ttw_export_", "ttw_pack_"), max_age_hours: float = 24) -> int:
-    """Apaga pastas temporárias do TTWtools abandonadas: a do processo que já morreu (marca `owner.pid`),
-    ou, sem marca (versões antigas), a que ninguém mexe há `max_age_hours`. Devolve quantas apagou."""
-    import shutil
-    import tempfile
-    import time
-    n = 0
-    for prefix in prefixes:
-        for d in Path(tempfile.gettempdir()).glob(prefix + "*"):
-            try:
-                marker = d / "owner.pid"
-                if marker.is_file():
-                    pid = int(marker.read_text().strip() or 0)
-                    dead = pid > 0 and not _pid_alive(pid)
-                else:
-                    dead = time.time() - d.stat().st_mtime > max_age_hours * 3600
-                if dead:
-                    shutil.rmtree(d, ignore_errors=True)
-                    n += 1
-            except (OSError, ValueError):
-                pass
-    return n
+    """Apaga pastas de trabalho abandonadas (ver `storage.purge_orphans`)."""
+    return _storage.purge_orphans(prefixes, max_age_hours)
 
 
 def _copy_rows(con: sqlite3.Connection, table: str, where: str = "", args: tuple = ()) -> None:

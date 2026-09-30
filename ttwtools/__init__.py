@@ -72,6 +72,9 @@ _EXPORTS = {
     "detach_corpus": "project",
     "compact_project": "project",
     "ensure_free_space": "storage",
+    "cache_dir": "storage",
+    "disk_usage": "storage",
+    "purge_orphans": "storage",
     "InsufficientDiskSpace": "storage",
     # corpus: importação, metadados, tokenização simples, filtros
     "import_corpus": "corpus",

@@ -151,8 +151,7 @@ Exporta os textos do projeto para uma pasta ao lado dele (ver TTWAProject.export
 make_workdir(prefix: 'str' = 'ttw_work_') -> 'Path'
 ```
 
-Pasta temporária com um arquivo `owner.pid` (o processo dono). Se o processo morrer sem limpar,
-`purge_orphan_workdirs()` reconhece a pasta como abandonada (sem esperar horas).
+Pasta temporária com marca do processo dono (ver `storage.make_workdir`).
 
 ### `needs_migration` · **`ttwtools.needs_migration`**
 
@@ -179,8 +178,7 @@ Projetos de esquema antigo são migrados para v0.3 com aviso (ver TTWAProject.op
 purge_orphan_workdirs(prefixes: "'tuple[str, ...]'" = ('ttw_work_', 'ttw_export_', 'ttw_pack_'), max_age_hours: 'float' = 24) -> 'int'
 ```
 
-Apaga pastas temporárias do TTWtools abandonadas: a do processo que já morreu (marca `owner.pid`),
-ou, sem marca (versões antigas), a que ninguém mexe há `max_age_hours`. Devolve quantas apagou.
+Apaga pastas de trabalho abandonadas (ver `storage.purge_orphans`).
 
 ### `register_working_copy` · **`ttwtools.register_working_copy`**
 
@@ -1782,6 +1780,14 @@ biberplus(*args, **kwargs)
 
 Lazy wrapper — imports ttwtools.taggers.biberplus on first call.
 
+### `cache_dir` · **`ttwtools.cache_dir`**
+
+```python
+cache_dir() -> 'Path'
+```
+
+Pasta do cache (recriável). TTWTOOLS_CACHE_DIR a muda; padrão: pasta de cache do usuário.
+
 ### `clear_steps` · **`ttwtools.clear_steps`**
 
 ```python
@@ -1815,6 +1821,14 @@ corpus_patterns(project: 'TTWAProject', corpus_name: 'str', field: 'str' = 'upos
 FreqTable dos n-gramas de etiquetas de um corpus. Com `keep`, também guarda, por
 documento, a contagem desses padrões (`doc_counts`) e o tamanho de cada documento
 (`doc_words`) — é o que permite o z-score descritivo.
+
+### `disk_usage` · **`ttwtools.disk_usage`**
+
+```python
+disk_usage(path: "'str | Path | None'" = None) -> 'dict'
+```
+
+Uso de disco do TTWtools: pastas de trabalho, cache e espaço livre (para a tela e `ttwtools cache list`).
 
 ### `ensure_free_space` · **`ttwtools.ensure_free_space`**
 
@@ -1955,6 +1969,16 @@ Como os nomes dos arquivos da pasta viram metadados, sem importar nada.
 
 Devolve {"total", "parts" (nº de pedaços mais comum), "irregular" (até 5 nomes com
 outro nº de pedaços), "n_irregular", "examples": [{"file", "parts", "meta"}]}.
+
+### `purge_orphans` · **`ttwtools.purge_orphans`**
+
+```python
+purge_orphans(prefixes: "'tuple[str, ...] | None'" = None, max_age_hours: 'float' = 24) -> 'int'
+```
+
+Apaga pastas de trabalho abandonadas: as de processo que já morreu (marca `owner.pid`) e, sem
+marca (versões antigas), as com mais de `max_age_hours`. As de processos vivos ficam. Devolve
+quantas apagou; `last_purge` guarda também os bytes.
 
 ### `remove_step` · **`ttwtools.remove_step`**
 
