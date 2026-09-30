@@ -8,7 +8,7 @@ e grande) roda também o ciclo completo numa CÓPIA: o original nunca é tocado.
 (cópias, cache, pastas temporárias) fica na pasta de trabalho e é apagado ao fim, mesmo com Ctrl-C.
 O relatório é regravado a cada etapa: se interromper, o que já foi medido fica salvo.
 
-Um processo só; nada roda em segundo plano. Guia passo a passo: novodesenho/verificacao/macos-intel-armazenamento.md
+Um processo só; nada roda em segundo plano. Guia passo a passo e registro dos resultados: novodesenho/macintel.md
 """
 
 from __future__ import annotations
