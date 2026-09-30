@@ -136,3 +136,8 @@ def test_saving_derived_results_does_not_mark_the_project_unsaved(tmp_path):
     p._con.execute("INSERT INTO project_meta (key, value) VALUES ('x', '1') ON CONFLICT(key) DO UPDATE SET value='1'")
     assert p._con.total_changes > p._saved_changes                                               # mudança real continua contando
     p.close()
+
+
+def test_default_feature_for_tag_layers():
+    from ttwtools.features import default_feature
+    assert [default_feature(t) for t in ("biberplus", "mfte", "mfte_ext", "spacy", "stanza")] == ["tags", "tags", "tags", "upos", "upos"]

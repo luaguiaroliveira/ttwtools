@@ -33,8 +33,8 @@ FEATURES = ("tags", "upos", "xpos")
 
 
 def default_feature(tool: str) -> str:
-    """Traço padrão da camada: `tags` no BiberPlus/MFTE, `upos` nos demais."""
-    return "tags" if tool in ("biberplus", "mfte") else "upos"
+    """Traço padrão da camada: `tags` no BiberPlus e no MFTE (`mfte`, `mfte_ext`), `upos` nos demais."""
+    return "tags" if tool in ("biberplus", "mfte", "mfte_ext") else "upos"
 
 
 def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: str | None = None,
@@ -131,6 +131,10 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
         progress(total, total, "kfa_calc")
     if len(t1) < 2 or len(t2) < 2:
         raise ValueError("cada lado precisa de pelo menos 2 documentos com a camada")
+    meta = {"filename", "Words", "TTR"}
+    if not ({*t1.columns} | {*t2.columns}) - meta:
+        raise ValueError(f"a camada '{layer}' não tem o traço '{feature or default_feature(layer)}' nesses corpora "
+                         "(escolha outra camada no topo ou outro traço)")
     with tempfile.TemporaryDirectory() as tmp:
         p1, p2 = Path(tmp) / "c1_norm1000.csv", Path(tmp) / "c2_norm1000.csv"
         t1.to_csv(p1, index=False)
