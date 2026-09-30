@@ -36,6 +36,7 @@ from typing import Callable, Optional
 
 import pandas as pd
 
+from . import layerfmt as _layerfmt
 from . import layers as _layers
 from . import storage as _storage
 
@@ -728,7 +729,7 @@ class TTWAProject:
         cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
         for n, lid in enumerate(ids, 1):
             rows = con.execute(f"SELECT {cols} FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
-            data = zlib.compress(json.dumps([list(r) for r in rows], ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
+            data = _pack_rows(rows)
             con.execute("INSERT OR REPLACE INTO layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
             if progress and (n % 200 == 0 or n == len(ids)):
                 progress(n, len(ids), "pack")
@@ -748,7 +749,7 @@ class TTWAProject:
         rows = con.execute("SELECT b.layer_id, l.doc_id FROM layer_blobs b JOIN layers l ON l.id = b.layer_id ORDER BY b.layer_id").fetchall()
         for n, (lid, doc_id) in enumerate(rows, 1):
             data = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (lid,)).fetchone()[0]
-            toks = json.loads(zlib.decompress(data).decode("utf-8"))
+            toks = _layerfmt.decode(data)
             con.execute("DELETE FROM tokens WHERE layer_id = ?", (lid,))
             con.executemany(
                 "INSERT INTO tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
@@ -1997,6 +1998,14 @@ def save_corpora_as(
     return _save_corpora_subset(project, list(dict.fromkeys(corpus_names)), dest, False, progress_cb, compress, search_tables, progress)
 
 
+def _pack_rows(rows) -> bytes:
+    """Linhas de tokens → blob de `layer_blobs`: colunar (`TCL1`); JSON+zlib antigo se as linhas fugirem do padrão."""
+    try:
+        return _layerfmt.encode(rows)
+    except ValueError:
+        return zlib.compress(json.dumps([list(r) for r in rows], ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
+
+
 def _layer_rows(con: sqlite3.Connection, layer_id: int) -> list[tuple] | None:
     """Linhas de tokens de uma camada (mesma ordem de `layers.token_row`), da tabela `tokens` ou,
     no arquivo salvo sem tabelas de busca, de `layer_blobs`. None se a camada não tem nenhum dos dois."""
@@ -2007,7 +2016,7 @@ def _layer_rows(con: sqlite3.Connection, layer_id: int) -> list[tuple] | None:
     blob = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (layer_id,)).fetchone()
     if blob is None:
         return []
-    return [tuple(t) for t in json.loads(zlib.decompress(blob[0]).decode("utf-8"))]
+    return [tuple(t) for t in _layerfmt.decode(blob[0])]
 
 
 def compact_project(project: TTWAProject, dry_run: bool = True,
@@ -2206,7 +2215,7 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
             if pack:
                 rows = con.execute(f"SELECT {cols} FROM src.tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
                 if rows:
-                    data = zlib.compress(json.dumps([list(r) for r in rows], ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
+                    data = _pack_rows(rows)
                     con.execute("INSERT OR REPLACE INTO main.layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
                 else:                                  # origem já sem tabelas de busca: a camada já está empacotada
                     _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
