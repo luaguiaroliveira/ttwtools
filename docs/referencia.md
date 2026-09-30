@@ -145,6 +145,15 @@ export_corpus_next_to(project: 'TTWAProject', folder: 'str | Path | None' = None
 
 Exporta os textos do projeto para uma pasta ao lado dele (ver TTWAProject.export_corpus_next_to).
 
+### `LayerStore`
+
+```python
+classe LayerStore(con: 'sqlite3.Connection', schema: 'str' = 'main', fmt: 'str | None' = None)
+```
+
+Empacota e desempacota camadas de `<schema>.layer_blobs` (`TCL1`, `TCL2`, JSON antigo). O léxico `TCL2`
+de cada corpus é carregado sob demanda e gravado por `flush()` (chame antes de cada commit).
+
 ### `make_workdir` · **`ttwtools.make_workdir`**
 
 ```python

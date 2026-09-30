@@ -242,11 +242,13 @@ def open_copy(src: Path, work: Path) -> Path:
     return dst
 
 
-def layer_list(con, corpus, tools, cap):
+def layer_list(con, corpus, tools, cap, with_lemma=False):
     out = []
     for t in tools:
         q = ("SELECT l.id, l.doc_id, l.n_tokens FROM layers l JOIN documents d ON d.id = l.doc_id "
-             "WHERE l.tool = ? AND d.corpus_name = ? ORDER BY l.id")
+             "WHERE l.tool = ? AND d.corpus_name = ?"
+             + (" AND EXISTS (SELECT 1 FROM tokens t WHERE t.layer_id = l.id AND t.lemma IS NOT NULL)" if with_lemma else "")
+             + " ORDER BY l.id")
         rows = con.execute(q, (t, corpus)).fetchall()
         out += [(t, *r) for r in (rows[:cap] if cap else rows)]
     return out
@@ -280,7 +282,7 @@ def run(args, work: Path, out: list[str]):
     con = sqlite3.connect(copy)
     has_tokens = con.execute("SELECT count(*) FROM (SELECT 1 FROM tokens LIMIT 1)").fetchone()[0] > 0
     tools = [x.strip() for x in args.ferramentas.split(",")]
-    layers = layer_list(con, args.corpus, tools, args.max_camadas)
+    layers = layer_list(con, args.corpus, tools, args.max_camadas, args.so_com_lema)
     if not layers:
         raise SystemExit(f"Nenhuma camada de {tools} no corpus {args.corpus!r}.")
     ntok = sum(x[3] for x in layers)
@@ -371,6 +373,21 @@ def run(args, work: Path, out: list[str]):
         if decode_rows(blobs[k], lex) != [tuple(r) for r in read_rows(con, layers[k][1], has_tokens)]:
             bad += 1
     R["verif_ruins"] = bad
+    # implementação real (biblioteca padrão): layerfmt.encode_tcl2 / decode, léxico na ordem de chegada
+    rl = layerfmt.Lexicon()
+    t_re = t_rd = 0.0
+    real_size = 0
+    real_bad = 0
+    for k, (tool, lid, did, n) in enumerate(layers):
+        rows = [tuple(r) for r in read_rows(con, lid, has_tokens)]
+        t = pc(); b = layerfmt.encode_tcl2(rows, rl); t_re += pc() - t
+        real_size += len(b)
+        t = pc(); back = layerfmt.decode(b, rl); t_rd += pc() - t
+        if k % 50 == 0 and [tuple(r) for r in back] != rows:
+            real_bad += 1
+    R["real_size"] = real_size
+    R["real_lex"] = sum(len(zlib.compress(json.dumps(rl.values[c][1:], ensure_ascii=False, separators=(",", ":")).encode(), _LEVEL)) for c in TEXT)
+    R["t_real_e"], R["t_real_d"], R["real_bad"] = t_re, t_rd, real_bad
     ref = np.concatenate([decode_ids(b, (2,))[2] for b in blobs[:50]]).astype(np.uint64)
     vraw = varint_encode(ref)
     t = pc(); back = varint_decode(vraw); R["t_d_varint"], R["varint_tok"] = pc() - t, len(ref)
@@ -457,6 +474,7 @@ def markdown(R, args, hdr):
           row("`TCL2` varint + zlib por coluna, camadas + léxico", R["tcl2_var"] + R["lex_size"])]
     if "sql_sem_ind" in R:
         L += [row("tabela `tokens` sem índices", R["sql_sem_ind"]), row("tabela `tokens` com os 5 índices (hoje)", R["sql_com_ind"])]
+    L += [row("**`TCL2` real** (`layerfmt.encode_tcl2`, biblioteca padrão, léxico em ordem de chegada; camadas + léxico)", R["real_size"] + R["real_lex"])]
     L += ["", "### Onde estão os bytes do `TCL2` (camadas, sem o léxico)", "", "| coluna | fixa (MB) | varint (MB) | bytes/token (fixa) |", "|---|---|---|---|"]
     L += [f"| {COLS[i]} | {num(R['colf'][i] / 1e6)} | {num(R['colv'][i] / 1e6)} | {num(R['colf'][i] / n)} |" for i in range(9)]
     L += ["", f"_Léxico serializado (JSON+zlib): {mb(R['lex_size'])} MB. Entradas de dicionário somadas por camada no `TCL1`: "
@@ -473,8 +491,11 @@ def markdown(R, args, hdr):
                     ("decodificar `TCL2`: 1 coluna de ids (`word`)", R["t_d_id1"]),
                     ("decodificar `TCL2`: 4 colunas de ids (word, lemma, upos, xpos)", R["t_d_ids4"]),
                     ("decodificar `TCL2`: 9 colunas (só ids e posições)", R["t_d_ids9"]),
-                    ("decodificar `TCL2`: linhas completas com strings", R["t_d_rows"])]:
+                    ("decodificar `TCL2`: linhas completas com strings", R["t_d_rows"]),
+                    ("**`TCL2` real**: codificar (`encode_tcl2`, biblioteca padrão)", R["t_real_e"]),
+                    ("**`TCL2` real**: decodificar linhas completas (`decode`)", R["t_real_d"])]:
         L.append(f"| {name} | {num(t)} | {tps(t)} |")
+    L += ["", f"_`TCL2` real: {R['real_bad']} camadas amostradas com ida e volta diferente (esperado 0)._"]
     L += ["", f"_Verificação: {R['verif_ruins']} camadas amostradas com decodificação diferente da original (esperado 0). "
           f"Varint (vetorizado com numpy; em biblioteca padrão seria laço Python): decodificar `word` de 50 camadas "
           f"({ti(R['varint_tok'])} ids) em {num(R['t_d_varint'], 3)} s, ida e volta {'ok' if R['varint_ok'] else '**FALHOU**'}._"]
@@ -507,6 +528,7 @@ def main():
     ap.add_argument("--pasta", default=None)
     ap.add_argument("--saida", default=None)
     ap.add_argument("--max-camadas", type=int, default=0)
+    ap.add_argument("--so-com-lema", action="store_true", help="só camadas com lema preenchido (exige a tabela tokens)")
     ap.add_argument("--sem-sqlite", action="store_true", help="pula a tabela tokens temporária e as comparações com SQLite")
     ap.add_argument("--min-livre-gb", type=float, default=20)
     args = ap.parse_args()

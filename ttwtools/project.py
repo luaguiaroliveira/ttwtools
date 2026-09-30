@@ -23,6 +23,7 @@ o caminho relativo e o hash de cada texto; o corpus fica numa pasta ao lado).
 
 from __future__ import annotations
 
+import hashlib
 import io
 import json
 import lzma
@@ -231,6 +232,16 @@ CREATE TABLE IF NOT EXISTS layer_blobs (
     layer_id  INTEGER PRIMARY KEY REFERENCES layers(id) ON DELETE CASCADE,
     data      BLOB    NOT NULL
 );
+
+-- léxico por corpus das camadas `TCL2` (layerfmt): só cresce; cada gravação acrescenta uma parte
+-- (zlib + JSON da lista de valores novos da coluna); ler = juntar as partes em ordem
+CREATE TABLE IF NOT EXISTS lexicon_parts (
+    corpus_name TEXT    NOT NULL,
+    col         INTEGER NOT NULL,
+    part        INTEGER NOT NULL,
+    data        BLOB    NOT NULL,
+    PRIMARY KEY (corpus_name, col, part)
+) WITHOUT ROWID;
 
 CREATE TABLE IF NOT EXISTS analyses (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -761,12 +772,14 @@ class TTWAProject:
         con = self._con
         ids = [r[0] for r in con.execute("SELECT id FROM layers WHERE id NOT IN (SELECT layer_id FROM layer_blobs) ORDER BY id")]
         cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
+        store = LayerStore(con)
         for n, lid in enumerate(ids, 1):
             rows = con.execute(f"SELECT {cols} FROM tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
-            data = _pack_rows(rows)
+            data = store.pack(lid, rows)
             con.execute("INSERT OR REPLACE INTO layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
             if progress and (n % 200 == 0 or n == len(ids)):
                 progress(n, len(ids), "pack")
+        store.flush()
         for name, _sql in _TOKEN_INDEXES:
             con.execute(f"DROP INDEX IF EXISTS {name}")
         con.execute("DELETE FROM main.tokens")
@@ -782,9 +795,10 @@ class TTWAProject:
         for name, _sql in _TOKEN_INDEXES:
             con.execute(f"DROP INDEX IF EXISTS {name}")
         rows = con.execute("SELECT b.layer_id, l.doc_id FROM layer_blobs b JOIN layers l ON l.id = b.layer_id ORDER BY b.layer_id").fetchall()
+        store = LayerStore(con)
         for n, (lid, doc_id) in enumerate(rows, 1):
             data = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (lid,)).fetchone()[0]
-            toks = _layerfmt.decode(data)
+            toks = store.unpack(lid, data)
             con.execute("DELETE FROM main.tokens WHERE layer_id = ?", (lid,))
             con.executemany(
                 "INSERT INTO main.tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
@@ -2060,6 +2074,79 @@ def _pack_rows(rows) -> bytes:
         return zlib.compress(json.dumps([list(r) for r in rows], ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
 
 
+class LayerStore:
+    """Empacota e desempacota camadas de `<schema>.layer_blobs` (`TCL1`, `TCL2`, JSON antigo). O léxico `TCL2`
+    de cada corpus é carregado sob demanda e gravado por `flush()` (chame antes de cada commit)."""
+
+    def __init__(self, con: sqlite3.Connection, schema: str = "main", fmt: str | None = None):
+        self.con, self.schema = con, schema
+        self.fmt = fmt or _layerfmt.default_format()
+        self._lex: dict[str, _layerfmt.Lexicon] = {}
+        self._corpus: dict[int, str] = {}
+
+    def corpus_of(self, layer_id: int) -> str:
+        c = self._corpus.get(layer_id)
+        if c is None:
+            r = self.con.execute(f"SELECT d.corpus_name FROM {self.schema}.layers l JOIN {self.schema}.documents d"
+                                 " ON d.id = l.doc_id WHERE l.id = ?", (layer_id,)).fetchone()
+            if r is None:
+                raise ValueError(f"camada {layer_id} sem documento em {self.schema}")
+            c = self._corpus[layer_id] = r[0]
+        return c
+
+    def lexicon(self, corpus: str) -> "_layerfmt.Lexicon":
+        lex = self._lex.get(corpus)
+        if lex is None:
+            values: dict[int, list] = {}
+            try:
+                parts = self.con.execute(f"SELECT col, data FROM {self.schema}.lexicon_parts WHERE corpus_name = ?"
+                                         " ORDER BY col, part", (corpus,)).fetchall()
+            except sqlite3.OperationalError:                   # arquivo de antes do TCL2
+                parts = []
+            for col, data in parts:
+                values.setdefault(col, []).extend(json.loads(zlib.decompress(data).decode("utf-8")))
+            lex = self._lex[corpus] = _layerfmt.Lexicon(values)
+        return lex
+
+    def pack(self, layer_id: int, rows) -> bytes:
+        """Linhas → blob no formato escolhido; JSON antigo se as linhas fugirem do padrão."""
+        if self.fmt == "tcl2":
+            try:
+                return _layerfmt.encode_tcl2(rows, self.lexicon(self.corpus_of(layer_id)))
+            except ValueError:
+                pass
+        return _pack_rows(rows)
+
+    def unpack(self, layer_id: int, blob) -> list[tuple]:
+        blob = bytes(blob)
+        lex = self.lexicon(self.corpus_of(layer_id)) if _layerfmt.is_tcl2(blob) else None
+        return [tuple(t) for t in _layerfmt.decode(blob, lex)]
+
+    def flush(self) -> None:
+        """Grava no arquivo o que entrou nos léxicos (uma parte por corpus e coluna)."""
+        for corpus, lex in self._lex.items():
+            for col, vals in lex.pending().items():
+                part = self.con.execute(f"SELECT COALESCE(MAX(part), -1) + 1 FROM {self.schema}.lexicon_parts"
+                                        " WHERE corpus_name = ? AND col = ?", (corpus, col)).fetchone()[0]
+                data = zlib.compress(json.dumps(vals, ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 6)
+                self.con.execute(f"INSERT INTO {self.schema}.lexicon_parts (corpus_name, col, part, data) VALUES (?, ?, ?, ?)",
+                                 (corpus, col, part, data))
+            lex.mark_saved()
+
+    def fingerprint(self, layer_id: int) -> str:
+        """Identifica o léxico do corpus da camada (entra na chave do índice em cache dos blobs `TCL2`)."""
+        corpus = self.corpus_of(layer_id)
+        h = hashlib.sha256(corpus.encode())
+        try:
+            for col, part, data in self.con.execute(f"SELECT col, part, data FROM {self.schema}.lexicon_parts"
+                                                    " WHERE corpus_name = ? ORDER BY col, part", (corpus,)):
+                h.update(f"{col}:{part}:{len(data)}:".encode())
+                h.update(hashlib.sha256(data).digest())
+        except sqlite3.OperationalError:
+            pass
+        return h.hexdigest()[:16]
+
+
 def _layer_rows(con: sqlite3.Connection, layer_id: int) -> list[tuple] | None:
     """Linhas de tokens de uma camada (mesma ordem de `layers.token_row`), da tabela `tokens` ou,
     no arquivo salvo sem tabelas de busca, de `layer_blobs`. None se a camada não tem nenhum dos dois."""
@@ -2070,7 +2157,7 @@ def _layer_rows(con: sqlite3.Connection, layer_id: int) -> list[tuple] | None:
     blob = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (layer_id,)).fetchone()
     if blob is None:
         return []
-    return [tuple(t) for t in _layerfmt.decode(blob[0])]
+    return LayerStore(con).unpack(layer_id, blob[0])
 
 
 def compact_project(project: TTWAProject, dry_run: bool = True,
@@ -2241,8 +2328,10 @@ def _copy_rows(con: sqlite3.Connection, table: str, where: str = "", args: tuple
     con.execute(f'INSERT INTO main."{table}" ({lst}) SELECT {lst} FROM src."{table}" {where}', args)
 
 
-def _materialize_layer(con: sqlite3.Connection, layer_id: int) -> None:
-    """Camada que só existe em `main.layer_blobs`: decodifica para `main.tokens` e apaga o blob."""
+def _materialize_layer(con: sqlite3.Connection, layer_id: int, store: "LayerStore | None" = None) -> None:
+    """Camada que só existe em `main.layer_blobs`: decodifica para `main.tokens` e apaga o blob. `store`: quem
+    decodifica (o léxico `TCL2` pode estar em outro banco, ex. `src`)."""
+    store = store or LayerStore(con)
     blob = con.execute("SELECT data FROM main.layer_blobs WHERE layer_id = ?", (layer_id,)).fetchone()
     if blob is None:
         return
@@ -2251,7 +2340,7 @@ def _materialize_layer(con: sqlite3.Connection, layer_id: int) -> None:
         con.executemany(
             "INSERT INTO main.tokens (layer_id, idx, doc_id, start_char, end_char, word, lemma, upos, xpos, feats, tags, extra)"
             " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            ((layer_id, i, doc_id, *t) for i, t in enumerate(_layerfmt.decode(blob[0]))))
+            ((layer_id, i, doc_id, *t) for i, t in enumerate(store.unpack(layer_id, blob[0]))))
     con.execute("DELETE FROM main.layer_blobs WHERE layer_id = ?", (layer_id,))
 
 
@@ -2291,7 +2380,7 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
         con.commit()
         con.execute("ATTACH DATABASE ? AS src", (src_path,))
         known = {"project_meta", "documents", "document_meta", "layers", "tokens", "layer_blobs", "corpus_files",
-                 "tagged_files", "feature_tables", "kfa_results", "analyses"}
+                 "tagged_files", "feature_tables", "kfa_results", "analyses", "lexicon_parts"}
         _copy_rows(con, "project_meta")
         _copy_rows(con, "documents", f"WHERE corpus_name IN ({marks})", tuple(keep))
         for table in ("corpus_files", "tagged_files", "feature_tables"):
@@ -2304,22 +2393,31 @@ def _save_corpora_subset(project: TTWAProject, keep: "list[str]", dest: str | Pa
         layer_ids = [r[0] for r in con.execute("SELECT id FROM main.layers ORDER BY id")]
         pack = not search_tables                       # leve: cada camada já entra empacotada, sem tokens nem índices
         cols = "start_char, end_char, word, lemma, upos, xpos, feats, tags, extra"
+        dest_store, src_store = LayerStore(con), LayerStore(con, "src")
         for i, lid in enumerate(layer_ids):            # camada a camada: progresso e transações curtas
             if pack:
                 rows = con.execute(f"SELECT {cols} FROM src.tokens WHERE layer_id = ? ORDER BY idx", (lid,)).fetchall()
                 if rows:
-                    data = _pack_rows(rows)
+                    data = dest_store.pack(lid, rows)
                     con.execute("INSERT OR REPLACE INTO main.layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
                 else:                                  # origem já sem tabelas de busca: a camada já está empacotada
-                    _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
+                    blob = con.execute("SELECT data FROM src.layer_blobs WHERE layer_id = ?", (lid,)).fetchone()
+                    if blob is not None:
+                        if _layerfmt.is_tcl2(blob[0]) or dest_store.fmt == "tcl2":      # léxicos diferem: reescreve os ids
+                            data = dest_store.pack(lid, src_store.unpack(lid, blob[0]))
+                            con.execute("INSERT OR REPLACE INTO main.layer_blobs (layer_id, data) VALUES (?, ?)", (lid, data))
+                        else:
+                            _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
             else:
                 _copy_rows(con, "tokens", "WHERE layer_id = ?", (lid,))
                 _copy_rows(con, "layer_blobs", "WHERE layer_id = ?", (lid,))
-                _materialize_layer(con, lid)            # origem sem tabelas de busca (índice em cache): tokens reais
+                _materialize_layer(con, lid, src_store)  # origem sem tabelas de busca (índice em cache): tokens reais
             if i % 20 == 0:
+                dest_store.flush()
                 con.commit()
             if progress:
                 progress(i + 1, len(layer_ids), "copy")
+        dest_store.flush()
         for (t,) in con.execute("SELECT name FROM src.sqlite_master WHERE type = 'table' AND name NOT LIKE 'sqlite_%'").fetchall():
             if t not in known and con.execute("SELECT 1 FROM main.sqlite_master WHERE type='table' AND name = ?", (t,)).fetchone():
                 _copy_rows(con, t)                     # tabela que este código não conhece: leva inteira (nada se perde)

@@ -95,11 +95,15 @@ def plan_entries(layers: list[dict], max_entries: int) -> list[list[dict]]:
 
 def entry_key(con: sqlite3.Connection, group: list[dict]) -> str:
     """Chave de conteúdo do grupo (formato, ids e blobs)."""
+    from .project import LayerStore
+    store = LayerStore(con)
     h = hashlib.sha256(f"tcidx{FORMAT}".encode())
     for l in group:
         blob = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (l["id"],)).fetchone()[0]
         h.update(f"{l['id']}:{l['doc_id']}:{l['tokens']}:{len(blob)}:".encode())
         h.update(hashlib.sha256(blob).digest())
+        if layerfmt.is_tcl2(blob):                  # os ids só fazem sentido com o léxico do corpus
+            h.update(store.fingerprint(l["id"]).encode())
     return h.hexdigest()[:24]
 
 
@@ -162,11 +166,13 @@ def build_entry(con: sqlite3.Connection, group: list[dict], key: str, progress: 
         db.execute("PRAGMA journal_mode = OFF")
         db.execute("PRAGMA synchronous = OFF")
         db.execute(_DDL)
+        from .project import LayerStore
+        store = LayerStore(con)
         for n, l in enumerate(group, 1):
             blob = con.execute("SELECT data FROM layer_blobs WHERE layer_id = ?", (l["id"],)).fetchone()[0]
             db.executemany(
                 f"INSERT INTO tokens ({_COLS}) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                ((l["id"], i, l["doc_id"], *t) for i, t in enumerate(layerfmt.decode(blob))))
+                ((l["id"], i, l["doc_id"], *t) for i, t in enumerate(store.unpack(l["id"], blob))))
             if n % 20 == 0 or n == len(group):
                 db.commit()
                 if progress:
