@@ -1,6 +1,6 @@
 # Referência da API do `ttwtools`
 
-Gerada de `docs/gerar_referencia.py` para a versão 0.2.0.dev0. Não edite à mão.
+Gerada de `docs/gerar_referencia.py` para a versão 0.2.0. Não edite à mão.
 
 Funções marcadas com **`ttwtools.nome`** podem ser usadas direto do pacote (`import ttwtools`).
 As demais ficam no módulo indicado (ex.: `from ttwtools.experimental import compare_groups`).
@@ -173,7 +173,7 @@ O projeto está num esquema anterior ao v0.3 (abrir vai migrar)? Não altera o a
 ### `open_project` · **`ttwtools.open_project`**
 
 ```python
-open_project(path: 'str | Path', migrate: 'bool' = True, progress: 'Callable[[int, int, str], None] | None' = None) -> 'TTWAProject'
+open_project(path: 'str | Path', migrate: 'bool' = True, progress: 'Callable[[int, int, str], None] | None' = None, lazy_index: 'bool' = True) -> 'TTWAProject'
 ```
 
 Abre um projeto `.ttwa` ou `.ttwl` (o tipo vem do próprio arquivo).
@@ -1062,12 +1062,13 @@ Frequências agregadas de um lado da comparação.
 ### `frequency_bands` · **`ttwtools.frequency_bands`**
 
 ```python
-frequency_bands(project: 'TTWAProject', corpus_name: 'str', reference: 'str | Path | FreqTable', unit: 'str' = 'form', bands: 'tuple[int, ...]' = (1000, 2000, 3000, 5000, 10000), layer: 'str | None' = None, where: 'Mapping | None' = None, examples: 'int' = 8) -> 'dict'
+frequency_bands(project: 'TTWAProject', corpus_name: 'str', reference: 'str | Path | FreqTable', unit: 'str' = 'form', bands: 'tuple[int, ...]' = (1000, 2000, 3000, 5000, 10000), layer: 'str | None' = None, where: 'Mapping | None' = None, examples: 'int' = 8, reference_where: 'Mapping | None' = None) -> 'dict'
 ```
 
 Perfil de frequência lexical (Laufer & Nation 1995): quanto do texto está entre
 as 1.000, 2.000... palavras mais frequentes da referência, e quanto fica fora da lista.
-`reference` como em keywords() (lista .tsv, `catalog:<id>`, outro corpus ou FreqTable).
+`reference` como em keywords() (lista .tsv, `catalog:<id>`, outro corpus ou FreqTable); `reference_where` filtra os
+documentos da referência quando ela é um corpus (ex.: dois grupos do mesmo corpus).
 Devolve {"rows": [{band, from, to, tokens, types, pct_tokens, pct_types, examples}],
 "tokens", "types", "reference", "reference_words", "unit"}.
 
@@ -1180,7 +1181,9 @@ Uma linha por documento: filename, Words, TTR e uma coluna por atributo
 feature_values(project: 'TTWAProject', corpus_name: 'str', layer: 'str', feature_name: 'str', feature: 'str | None' = None, where: 'Mapping | None' = None) -> 'list[dict]'
 ```
 
-Valor por 1000 palavras de um atributo em cada documento (detalhe do atributo).
+Um item por documento de um atributo (detalhe do atributo): `value` (ocorrências por 1000
+palavras), `count` (ocorrências absolutas) e `words` (tamanho do texto). A lista vai na ordem
+dos documentos; quem precisa de ordem decrescente ordena por `value` ou `count`.
 
 ### `kfa_layers` · **`ttwtools.kfa_layers`**
 

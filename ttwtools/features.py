@@ -197,9 +197,15 @@ def _min_filtered(result: dict, min_effect: float) -> dict:
 
 def feature_values(project: TTWAProject, corpus_name: str, layer: str, feature_name: str,
                    feature: str | None = None, where: Mapping | None = None) -> list[dict]:
-    """Valor por 1000 palavras de um atributo em cada documento (detalhe do atributo)."""
-    t = feature_table(project, corpus_name, layer, feature, per1000=True, where=where)
+    """Um item por documento de um atributo (detalhe do atributo): `value` (ocorrências por 1000
+    palavras), `count` (ocorrências absolutas) e `words` (tamanho do texto). A lista vai na ordem
+    dos documentos; quem precisa de ordem decrescente ordena por `value` ou `count`."""
+    t = feature_table(project, corpus_name, layer, feature, per1000=False, where=where)
     if t.empty:
         return []
     col = t[feature_name] if feature_name in t.columns else pd.Series(0.0, index=t.index)
-    return [{"filename": f, "value": float(v), "words": int(w)} for f, v, w in zip(t["filename"], col, t["Words"])]
+    out = []
+    for f, c, w in zip(t["filename"], col, t["Words"]):
+        n = int(w)
+        out.append({"filename": f, "count": int(c), "words": n, "value": float(c * 1000 / n) if n else 0.0})
+    return out

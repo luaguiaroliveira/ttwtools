@@ -65,6 +65,11 @@ def test_groups_values_and_cli(v2, capsys):
     assert (r["n1"], r["n2"]) == (3, 2) and r["rows"]
     vals = feature_values(v2, "CorIFAessaysNE_5", "spacy", "NOUN")
     assert len(vals) == 5 and all(v["value"] > 0 for v in vals)
+    raw = feature_table(v2, "CorIFAessaysNE_5", "spacy", per1000=False).set_index("filename")
+    for v in vals:
+        assert v["count"] == int(raw.loc[v["filename"], "NOUN"])
+        assert v["words"] == int(raw.loc[v["filename"], "Words"])
+        assert v["value"] == (v["count"] * 1000 / v["words"] if v["words"] else 0.0)
     v2._con.commit()
     params = {"corpus": "CorIFAessaysNE_5", "corpus2": "essays_bawe_somentetexto_5", "layer": "mfte", "min_effect": 0.5}
     cmd = cli_command("kfa", str(v2.path), params)
