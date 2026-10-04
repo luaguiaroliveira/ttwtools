@@ -334,6 +334,7 @@
  "kfa.freq_abs": "Ocorrências",
  "kfa.no_texts": "Nenhum texto com este atributo.",
  "kfa.texts_hint": "Textos em que o atributo ocorre, da maior para a menor frequência.",
+ "kfa.open_text_hint": "Clique num texto para abri-lo no Leitor (há um botão para voltar).",
  "kfa.back": "Voltar",
  "kfa.results": "{n} atributos · lado 1: {n1} textos · lado 2: {n2} textos",
  "kfa.same_corpus_groups": "mesmo corpus, dois grupos",

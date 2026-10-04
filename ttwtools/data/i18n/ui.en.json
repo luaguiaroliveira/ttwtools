@@ -334,6 +334,7 @@
  "kfa.freq_abs": "Occurrences",
  "kfa.no_texts": "No text has this feature.",
  "kfa.texts_hint": "Texts where the feature occurs, from highest to lowest frequency.",
+ "kfa.open_text_hint": "Click a text to open it in the Reader (there is a back button).",
  "kfa.back": "Back",
  "kfa.results": "{n} features · side 1: {n1} texts · side 2: {n2} texts",
  "kfa.same_corpus_groups": "same corpus, two groups",
