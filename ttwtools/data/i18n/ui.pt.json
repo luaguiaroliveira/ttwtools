@@ -1,4 +1,9 @@
 {
+ "analysis.divider": "Divisória entre o gráfico e a tabela; use as setas para ajustar",
+ "analysis.hide_chart": "Ocultar o gráfico",
+ "analysis.hide_table": "Ocultar a tabela",
+ "analysis.show_chart": "Mostrar o gráfico",
+ "analysis.show_table": "Mostrar a tabela",
  "api.error.exists": "Já existe um arquivo com esse nome.",
  "api.error.http": "O servidor respondeu {status}: {detail}",
  "api.error.no_project": "Nenhum projeto aberto. Abra ou crie um em Projeto.",

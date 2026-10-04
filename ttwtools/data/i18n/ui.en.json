@@ -1,4 +1,9 @@
 {
+ "analysis.divider": "Divider between the chart and the table; use the arrow keys to adjust",
+ "analysis.hide_chart": "Hide the chart",
+ "analysis.hide_table": "Hide the table",
+ "analysis.show_chart": "Show the chart",
+ "analysis.show_table": "Show the table",
  "api.error.exists": "A file with that name already exists.",
  "api.error.http": "The server answered {status}: {detail}",
  "api.error.no_project": "No project open. Open or create one in Project.",
