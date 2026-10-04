@@ -329,6 +329,8 @@
  "kfa.view_analysis": "Ver análise",
  "kfa.back_to_setup": "Voltar à configuração",
  "kfa.tag_texts": "Textos com «{feature}»",
+ "kfa.texts_tagger": "Etiquetador: {tagger}",
+ "kfa.texts_compare": "Corpora comparados:",
  "kfa.text_column": "Texto",
  "kfa.freq_per_1000": "Ocorrências por 1000 palavras",
  "kfa.freq_abs": "Ocorrências",
