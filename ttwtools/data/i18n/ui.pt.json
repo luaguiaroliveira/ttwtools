@@ -160,7 +160,6 @@
  "explore.disp_table": "O/E",
  "explore.disp_view": "Visão da dispersão",
  "explore.disp_dp": "DP de Gries",
- "explore.disp_dp_norm": "normalizado",
  "explore.disp_range": "range",
  "explore.disp_report": "Dispersão de Gries por consulta",
  "explore.dp": "DP de Gries {dp} · normalizado {dp_norm} · range {range}/{documents}",

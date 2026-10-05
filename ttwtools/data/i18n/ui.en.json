@@ -160,7 +160,6 @@
  "explore.disp_table": "O/E",
  "explore.disp_view": "Dispersion view",
  "explore.disp_dp": "Gries' DP",
- "explore.disp_dp_norm": "normalised",
  "explore.disp_range": "range",
  "explore.disp_report": "Gries' dispersion per query",
  "explore.dp": "Gries' DP {dp} · normalised {dp_norm} · range {range}/{documents}",
