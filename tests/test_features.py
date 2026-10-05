@@ -115,6 +115,15 @@ def test_feature_table_is_reused_and_invalidated_by_new_layers(tmp_path):
     p.close()
 
 
+def test_kfa_reports_raw_counts_per_side(v2):
+    """A KFA devolve, por atributo, a contagem bruta (total no corpus) de cada lado, além da média por 1000."""
+    r = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", metric="kfa2")
+    raw = feature_table(v2, "CorIFAessaysNE_5", "mfte", per1000=False).drop(columns=["filename", "Words", "TTR"]).sum()
+    assert r["rows"] and all("Count_Corpus1" in row and "Count_Corpus2" in row for row in r["rows"])
+    for row in r["rows"]:
+        assert row["Count_Corpus1"] == int(raw.get(row["Feature"], 0))
+
+
 def test_min_effect_only_filters_and_never_recomputes(v2):
     full = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", min_effect=0.0)
     assert not full.get("cached") and full["rows"]

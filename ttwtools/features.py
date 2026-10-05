@@ -154,7 +154,7 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
     feature = resolve_feature(project, {**sel1, **sel2}, feature)
     # o |d| mínimo só filtra o que voltar: a análise guardada é a completa, então mudar o mínimo nunca recalcula
     params = {"corpus1": corpus1, "corpus2": corpus2, "where1": dict(where1 or {}), "where2": dict(where2 or {}),
-              "layer": layer, "feature": feature, "metric": metric, "join": join}
+              "layer": layer, "feature": feature, "metric": metric, "join": join, "counts": 1}
     refs = sorted(set(sel1) | set(sel2))
     if save and reuse:
         hit = project.find_analysis("kfa", params, refs)
@@ -183,6 +183,10 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
         with contextlib.redirect_stdout(io.StringIO()):     # a função antiga imprime o progresso
             df = analyze_key_features(str(p1), str(p2), min_effect_size=0.0, join=join, metric=metric)
     rows = df.to_dict(orient="records") if not df.empty else []
+    totals1, totals2 = _feature_totals(t1), _feature_totals(t2)
+    for r in rows:
+        r["Count_Corpus1"] = totals1.get(r["Feature"], 0)
+        r["Count_Corpus2"] = totals2.get(r["Feature"], 0)
     result = {**params, "n1": len(t1), "n2": len(t2), "rows": rows}
     if save:
         project.replace_analysis("kfa", result, name=f"{corpus1} × {corpus2} [{layer}]", params=params, layer_refs=refs)
@@ -193,6 +197,20 @@ def _min_filtered(result: dict, min_effect: float) -> dict:
     """Resultado completo da KFA → só os atributos com |d| ≥ `min_effect` (o resultado guardado não muda)."""
     rows = [r for r in result["rows"] if abs(r["Effect_Size"]) >= min_effect]
     return {**result, "min_effect": min_effect, "rows": rows}
+
+
+def _feature_totals(table: pd.DataFrame) -> dict:
+    """Total absoluto de cada atributo no corpus (soma dos documentos) a partir da tabela por 1000:
+    `count = value * Words / 1000` (a tabela guarda `Words` por documento, então não há 2ª contagem)."""
+    totals: dict[str, int] = {}
+    if table.empty:
+        return totals
+    words = table["Words"]
+    for col in table.columns:
+        if col in ("filename", "Words", "TTR"):
+            continue
+        totals[col] = int(round(float((table[col] * words / 1000).sum())))
+    return totals
 
 
 def feature_values(project: TTWAProject, corpus_name: str, layer: str, feature_name: str,
