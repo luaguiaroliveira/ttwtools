@@ -882,6 +882,18 @@ DP = ½ Σ |oᵢ − eᵢ|, com oᵢ = parte das ocorrências no documento i e e
 do corpus que o documento i representa. 0 = distribuição uniforme; perto de 1 =
 concentrada. DP_norm = DP / (1 − min eᵢ).
 
+### `dispersion_compare` · **`ttwtools.dispersion_compare`**
+
+```python
+dispersion_compare(project: 'TTWAProject', corpus_name: 'str', query: 'str', layer: 'str | None' = None, where: 'Mapping | None' = None, reference: 'str | None' = None, reference_where: 'Mapping | None' = None) -> 'dict'
+```
+
+Dispersão de Gries da consulta nos dois lados de uma comparação. O lado `target`
+é o corpus ativo (`corpus_name`, filtrado por `where`); o lado `reference` é outro
+corpus (`reference`) ou outro grupo do mesmo corpus (`reference` ausente ⇒ o próprio
+corpus, filtrado por `reference_where`). Só chama `dispersion` em cada lado — nenhum
+cálculo novo — e devolve o par para a tela Comparar.
+
 ### `explain`
 
 ```python

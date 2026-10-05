@@ -33,6 +33,8 @@ SPECS: dict[str, tuple[str, str, list[str], dict[str, tuple[str, Any]]]] = {
                     "layer": ("--layer", None), "min_freq": ("--min-freq", 2), "top": ("--top", 50),
                     "sort": ("--sort", "ll")}),
     "dispersion": ("dispersion", "dispersion", ["corpus", "query"], {"layer": ("--layer", None)}),
+    "dispersion_compare": ("dispersion-compare", "dispersion_compare", ["corpus", "query"],
+                           {"layer": ("--layer", None), "reference": ("--reference", None)}),
     "describe": ("describe", "describe", ["corpus"],
                  {"layer": ("--layer", None), "top": ("--top", 20), "hide_stopwords": ("--hide-stopwords", False)}),
     "keywords": ("keywords", "keywords", ["corpus", "reference"],
@@ -107,7 +109,7 @@ def cli_command(analysis: str, project_path: str, params: Mapping[str, Any], win
             parts += [flag, q(",".join(value))]
         else:
             parts += [flag, q(value)]
-    for flag, key_name in (("--where", "where"), ("--where2", "where2")):
+    for flag, key_name in (("--where", "where"), ("--where2", "where2"), ("--reference-where", "reference_where")):
         for key, values in (params.get(key_name) or {}).items():
             for v in ([values] if isinstance(values, str) else values):
                 parts += [flag, q(f"{key}={v}")]
@@ -131,6 +133,8 @@ def python_code(analysis: str, project_path: str, params: Mapping[str, Any]) -> 
         kwargs.append(f"{'where1' if analysis == 'kfa' else 'where'}={dict(params['where'])!r}")
     if params.get("where2"):
         kwargs.append(f"where2={dict(params['where2'])!r}")
+    if params.get("reference_where"):
+        kwargs.append(f"reference_where={dict(params['reference_where'])!r}")
     call = ", ".join(["proj", *args, *kwargs])
     return "\n".join([
         "import ttwtools",

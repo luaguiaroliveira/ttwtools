@@ -12,7 +12,7 @@ import pytest
 import ttwtools
 from ttwtools import cli
 from ttwtools.corpus import set_document_meta
-from ttwtools.query import collocates, dispersion, explain, frequency, kwic, search, tag_counts
+from ttwtools.query import collocates, dispersion, dispersion_compare, explain, frequency, kwic, search, tag_counts
 
 TEXTS = {
     "a.txt": "The black cat sat on the mat. The cat slept.",       # 12 tokens, 10 palavras
@@ -125,6 +125,38 @@ def test_dispersion_dp_by_hand(proj):
     assert r["dp"] == pytest.approx(dp) and r["dp_norm"] == pytest.approx(dp / (1 - 6 / 25))
     a = next(d for d in r["per_document"] if d["filename"] == "a.txt")
     assert a["positions"] == [pytest.approx(2 / 12), pytest.approx(9 / 12)]
+
+
+def test_dispersion_compare_two_groups_and_two_corpora(proj):
+    a = dispersion(proj, "c", "cat", where={"grupo": "A"})
+    b = dispersion(proj, "c", "cat", where={"grupo": "B"})
+    r = dispersion_compare(proj, "c", "cat", where={"grupo": "A"}, reference_where={"grupo": "B"})
+    assert r["target"]["corpus"] == "c" and r["reference"]["corpus"] == "c"
+    assert r["target"]["per_document"] == a["per_document"]
+    assert r["reference"]["per_document"] == b["per_document"]
+    assert r["target"]["dp"] == pytest.approx(a["dp"]) and r["reference"]["dp"] == pytest.approx(b["dp"])
+    # outro corpus como referência
+    proj.add_corpus_text("d", "x.txt", "one cat and another cat here.")
+    c = dispersion(proj, "d", "cat")
+    r2 = dispersion_compare(proj, "c", "cat", reference="d")
+    assert r2["reference"]["corpus"] == "d" and r2["reference"]["per_document"] == c["per_document"]
+
+
+def test_dispersion_compare_cli_and_codegen(proj, capsys):
+    from ttwtools import codegen
+    proj.add_corpus_text("d", "x.txt", "one cat and another cat here.")
+    proj._con.commit()
+    assert cli.main(["dispersion-compare", str(proj.path), "cat", "--corpus", "c", "--reference", "d", "--json"]) == 0
+    out = json.loads(capsys.readouterr().out)
+    assert out["target"]["corpus"] == "c" and out["reference"]["corpus"] == "d"
+    params = {"corpus": "c", "query": "cat", "reference": "d",
+              "where": {"grupo": "A"}, "reference_where": {"grupo": "B"}}
+    cmd = codegen.cli_command("dispersion_compare", "p.ttwa", params)
+    assert "dispersion-compare" in cmd and "--reference d" in cmd
+    assert "grupo=A" in cmd and "--reference-where grupo=B" in cmd
+    py = codegen.python_code("dispersion_compare", "p.ttwa", params)
+    assert "dispersion_compare" in py and "reference=" in py
+    assert "where=" in py and "reference_where=" in py
 
 
 def test_tag_counts_upos_matches_frequency(proj, spacy_model, capsys):

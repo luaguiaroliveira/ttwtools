@@ -107,6 +107,7 @@ _EXPORTS = {
     "collocates": "query",
     "collocate_examples": "query",
     "dispersion": "query",
+    "dispersion_compare": "query",
     "read_document": "query",
     "tag_counts": "query",
     "keywords": "keyness",

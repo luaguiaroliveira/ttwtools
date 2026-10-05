@@ -558,6 +558,22 @@ def dispersion(project: TTWAProject, corpus_name: str, query: str, layer: str | 
             "documents": len(docs), "dp": dp, "dp_norm": dp_norm, "per_document": docs}
 
 
+def dispersion_compare(project: TTWAProject, corpus_name: str, query: str, layer: str | None = None,
+                       where: Mapping | None = None, reference: str | None = None,
+                       reference_where: Mapping | None = None) -> dict:
+    """Dispersão de Gries da consulta nos dois lados de uma comparação. O lado `target`
+    é o corpus ativo (`corpus_name`, filtrado por `where`); o lado `reference` é outro
+    corpus (`reference`) ou outro grupo do mesmo corpus (`reference` ausente ⇒ o próprio
+    corpus, filtrado por `reference_where`). Só chama `dispersion` em cada lado — nenhum
+    cálculo novo — e devolve o par para a tela Comparar."""
+    target = dispersion(project, corpus_name, query, layer, where)
+    ref_name = reference or corpus_name
+    ref = dispersion(project, ref_name, query, layer, reference_where)
+    return {"query": query,
+            "target": {"corpus": corpus_name, "where": dict(where) if where else None, **target},
+            "reference": {"corpus": ref_name, "where": dict(reference_where) if reference_where else None, **ref}}
+
+
 def read_document(project: TTWAProject, corpus_name: str, filename: str, layer: str | None = None) -> dict:
     """Texto de um documento e os tokens da camada (a mais recente de `layer`, ou de
     qualquer ferramenta), para o leitor com etiquetas. `text` é None se o texto não
