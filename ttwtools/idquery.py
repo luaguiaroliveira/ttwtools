@@ -254,7 +254,27 @@ def _cond_mask(s: Selection, spec: str) -> np.ndarray:
     return total
 
 
+def _split_alts(value: str) -> list[str]:
+    """Alternativas de um valor separadas por `|` (fora de `/regex/`): `tag=A|B` casa A ou B."""
+    if len(value) > 1 and value.startswith("/") and value.endswith("/"):
+        return [value]                              # regex: o `|` é da própria expressão
+    return value.split("|") if "|" in value else [value]
+
+
 def _one_condition(s: Selection, key: str, value: str) -> np.ndarray:
+    alts = [a for a in _split_alts(value) if a]
+    if not alts:
+        raise ValueError(f"valor vazio em '{key}='")
+    if len(alts) == 1:
+        return _single_condition(s, key, alts[0])
+    total = None
+    for alt in alts:
+        m = _single_condition(s, key, alt)
+        total = m if total is None else (total | m)
+    return total
+
+
+def _single_condition(s: Selection, key: str, value: str) -> np.ndarray:
     if key == "pos":
         u, x = s.values(UPOS), s.values(XPOS)
         return (_mask(u, lambda v: v is not None and v == value)[s.col(UPOS)]

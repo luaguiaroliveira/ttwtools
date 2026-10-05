@@ -577,7 +577,7 @@ def _query_common(p: argparse.ArgumentParser, needs_query: bool = True) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("--corpus", required=True)
     if needs_query:
-        p.add_argument("query", help="consulta: casa, cas*, /regex/, lemma=run, pos=NOUN, tag=PASS; espaços = frase")
+        p.add_argument("query", help="consulta: casa, cas*, /regex/, lemma=run, pos=NOUN, tag=PASS, tag=A|B (& = e, | = ou); espaços = frase")
     p.add_argument("--layer", help="ferramenta da camada (padrão: a mais recente; sem camada: formas)")
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="só documentos com este metadado")
 

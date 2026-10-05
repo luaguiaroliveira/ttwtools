@@ -8,7 +8,8 @@ Cada token aceita:
     /^run(s|ning)$/ expressão regular na forma (sem distinguir maiúsculas)
     lemma=run       lema          pos=NOUN   UPOS ou XPOS     upos=  xpos=
     tag=PASS        etiqueta do tagger (BiberPlus, MFTE)       word=  (forma)
-    lemma=run&pos=VERB    condições juntas no mesmo token
+    lemma=run&pos=VERB    condições juntas no mesmo token (& = e)
+    tag=PASS|NN  pos=NOUN|VERB   alternativas no mesmo campo (| = ou)
 
 Camada: `layer` escolhe a ferramenta (spacy, stanza, conllu...); sem `layer`, usa
 a camada mais recente de cada documento. Documentos sem camada nenhuma ganham a
@@ -128,6 +129,34 @@ def _glob_to_range(pattern: str) -> tuple[str, str] | None:
     return None
 
 
+def _split_alts(value: str) -> list[str]:
+    """Alternativas de um valor separadas por `|` (fora de `/regex/`): `tag=A|B` casa A ou B."""
+    if len(value) > 1 and value.startswith("/") and value.endswith("/"):
+        return [value]                              # regex: o `|` é da própria expressão
+    return value.split("|") if "|" in value else [value]
+
+
+def _one_condition_sql(key: str, value: str, i: int) -> tuple[list[str], list[Any]]:
+    """Uma condição de um único valor (sem `|`) para o token `i`."""
+    if key == "pos":
+        return [f"(t{i}.upos = ? OR t{i}.xpos = ?)"], [value, value]
+    if key == "tag":
+        # camadas com tags (BiberPlus, MFTE): a tag; sem tags (spaCy, Stanza), cai para UPOS/XPOS
+        return [f"(t{i}.tags LIKE ? OR ((t{i}.tags IS NULL OR t{i}.tags IN ('', '[]')) AND (t{i}.upos = ? OR t{i}.xpos = ?)))"], \
+               [f'%"{value}"%', value, value]
+    col = _FIELDS[key].format(i=i)
+    if len(value) > 1 and value.startswith("/") and value.endswith("/"):
+        raw = {"word": f"t{i}.word", "lemma": f"t{i}.lemma"}.get(key, col)
+        return [f"{raw} REGEXP ?"], [value[1:-1]]
+    v = value.lower() if key in ("word", "lemma") else value
+    rng = _glob_to_range(v)
+    if rng:
+        return [f"{col} >= ? AND {col} < ?"], list(rng)
+    if re.search(r"[*?]", v):
+        return [f"{col} GLOB ?"], [v]
+    return [f"{col} = ?"], [v]
+
+
 def _token_conditions(spec: str, i: int) -> tuple[list[str], list[Any]]:
     conds, args = [], []
     for part in spec.split("&"):
@@ -136,34 +165,19 @@ def _token_conditions(spec: str, i: int) -> tuple[list[str], list[Any]]:
             key, value = "word", part
         key = key.strip().lower()
         value = value.strip()
-        if key == "pos":
-            conds.append(f"(t{i}.upos = ? OR t{i}.xpos = ?)")
-            args += [value, value]
-            continue
-        if key == "tag":
-            # camadas com tags (BiberPlus, MFTE): a tag; sem tags (spaCy, Stanza), cai para UPOS/XPOS
-            conds.append(f"(t{i}.tags LIKE ? OR ((t{i}.tags IS NULL OR t{i}.tags IN ('', '[]')) AND (t{i}.upos = ? OR t{i}.xpos = ?)))")
-            args += [f'%"{value}"%', value, value]
-            continue
-        if key not in _FIELDS:
+        if key not in ("pos", "tag", "word", "lemma", "upos", "xpos"):
             raise ValueError(f"campo desconhecido '{key}' (use word, lemma, pos, upos, xpos, tag)")
-        col = _FIELDS[key].format(i=i)
-        if len(value) > 1 and value.startswith("/") and value.endswith("/"):
-            raw = {"word": f"t{i}.word", "lemma": f"t{i}.lemma"}.get(key, col)
-            conds.append(f"{raw} REGEXP ?")
-            args.append(value[1:-1])
-            continue
-        v = value.lower() if key in ("word", "lemma") else value
-        rng = _glob_to_range(v)
-        if rng:
-            conds.append(f"{col} >= ? AND {col} < ?")
-            args += list(rng)
-        elif re.search(r"[*?]", v):
-            conds.append(f"{col} GLOB ?")
-            args.append(v)
-        else:
-            conds.append(f"{col} = ?")
-            args.append(v)
+        sub, subargs = [], []
+        for alt in _split_alts(value):
+            if not alt:
+                continue
+            c, a = _one_condition_sql(key, alt, i)
+            sub += c
+            subargs += a
+        if not sub:
+            raise ValueError(f"valor vazio em '{key}='")
+        conds.append(sub[0] if len(sub) == 1 else "(" + " OR ".join(sub) + ")")
+        args += subargs
     return conds, args
 
 

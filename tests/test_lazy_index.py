@@ -51,6 +51,8 @@ def battery(p):
         "search_lemma": query.search(p, C, "lemma=the"),
         "search_upos": query.search(p, C, "upos=NOUN"),
         "search_tag": query.search(p, C, "tag=NN"),
+        "search_alt": query.search(p, C, "the|of"),
+        "search_tag_alt": query.search(p, C, "tag=NN|NNS"),
         "kwic": query.kwic(p, C, "the", limit=30),
         "kwic2": query.kwic(p, C, "of the", limit=10),
         "freq_form": query.frequency(p, C, unit="form", top=40),

@@ -153,6 +153,24 @@ def test_tag_query_falls_back_to_upos_xpos_without_tags(proj, spacy_model):
     assert search(proj, "c", "tag=NOUN", layer="biberplus")["total"] == 0        # BiberPlus tem tags próprias: sem cair para UPOS
 
 
+def test_query_alternatives_or(proj):
+    # `|` = ou, no mesmo campo: forma, curinga e regex (o `|` do regex não é separador)
+    assert search(proj, "c", "cat|dog*")["total"] == 6        # cat×3 + (dog, Dogs×2)
+    assert search(proj, "c", "cat|dog")["total"] == 4         # dog exato = 1
+    assert search(proj, "c", "word=cat|mat")["total"] == 4    # cat×3 + mat
+    assert search(proj, "c", "/^d.gs?$/")["total"] == 3       # regex inteira
+
+
+def test_query_alternatives_with_tagger(proj, spacy_model):
+    ttwtools.tag_corpus(proj, "c", "spacy")
+    noun = search(proj, "c", "pos=NOUN", layer="spacy")["total"]
+    verb = search(proj, "c", "pos=VERB", layer="spacy")["total"]
+    both = search(proj, "c", "pos=NOUN|VERB", layer="spacy")["total"]
+    assert both == noun + verb
+    assert search(proj, "c", "tag=NOUN|VERB", layer="spacy")["total"] == both
+    assert search(proj, "c", "cat&pos=NOUN|VERB", layer="spacy")["total"] == search(proj, "c", "cat&pos=NOUN", layer="spacy")["total"]
+
+
 def test_cli_other_commands(proj, capsys):
     path = str(proj.path)
     proj._con.commit()
