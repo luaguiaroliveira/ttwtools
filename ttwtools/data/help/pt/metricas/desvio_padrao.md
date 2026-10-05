@@ -10,21 +10,21 @@ O desvio-padrão (SD, de *standard deviation*) mede o quanto, em média, as taxa
 3. **Eleve ao quadrado** cada desvio, some e divida por (n menos 1). Isso é a **variância**.
 4. Tire a **raiz quadrada** da variância. Isso é o **SD**.
 
-    variância = Σ(taxa − M)² / (n − 1)
-    SD = √variância
+$$\text{variância} = \frac{\sum (x_i - M)^2}{n - 1}$$
+$$SD = \sqrt{\text{variância}}$$
 
 ## Exemplo
-O Corpus A tem taxas 2, 4, 4, 6, então M = 4. Os desvios são −2, 0, 0, +2, e seus quadrados são 4, 0, 0, 4. A variância é 8 / 3 ≈ 2,67, então SD ≈ 1,63.
+O Corpus A tem taxas 2, 4, 4, 6, então M = 4. Os desvios são −2, 0, 0, +2, e seus quadrados são 4, 0, 0, 4. A variância é $8/3 \approx 2{,}67$, então $SD \approx 1{,}63$.
 
-O Corpus B tem taxas 0, 4, 4, 8: a mesma média (4), mas maior dispersão. A variância é 32 / 3 ≈ 10,67, então SD ≈ 3,27.
+O Corpus B tem taxas 0, 4, 4, 8: a mesma média (4), mas maior dispersão. A variância é $32/3 \approx 10{,}67$, então $SD \approx 3{,}27$.
 
 Duas médias iguais podem esconder dispersões muito diferentes: é por isso que a KFA não compara só as médias.
 
 ## Desvio-padrão combinado (na KFA)
 O *d* de Cohen divide a diferença entre as médias por **um único número** que reúne a dispersão dos dois corpora: o desvio-padrão combinado.
 
-    kfa:   SD_combinado = √[ (SD1² + SD2²) / 2 ]
-    kfa2:  SD_combinado = √[ ( (n1 − 1)·SD1² + (n2 − 1)·SD2² ) / (n1 + n2 − 2) ]
+$$\text{kfa:}\quad SD_{\text{combinado}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
+$$\text{kfa2:}\quad SD_{\text{combinado}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
 Na kfa os dois corpora pesam igual; na kfa2 (para corpora com números diferentes de textos) o corpus maior pesa mais, porque sua estimativa de variação é mais confiável.
 
