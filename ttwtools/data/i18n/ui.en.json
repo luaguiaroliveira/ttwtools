@@ -88,7 +88,7 @@
  "compare.tool.palavras-chave": "Keywords",
  "compare.words": "{target} ({tw} words) × {reference} ({rw} words)",
  "corpora.active": "active",
- "disp_compare.caption": "Each row is a text; columns are bands of the text (start → end). The background and ticks use the side's colour.",
+ "disp_compare.caption": "Each row is a text; columns are bands of the text (start → end). The background uses the side's colour; the ticks use the tag's colour (or the side's colour for text queries).",
  "disp_compare.intro": "Compare where the query appears in each text of both sides (Gries' DP, heatmap by band).",
  "disp_compare.need_query": "Type a query to compare.",
  "disp_compare.order": "Sort texts by",

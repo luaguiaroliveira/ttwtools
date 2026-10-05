@@ -88,7 +88,7 @@
  "compare.tool.palavras-chave": "Palavras-chave",
  "compare.words": "{target} ({tw} palavras) × {reference} ({rw} palavras)",
  "corpora.active": "ativo",
- "disp_compare.caption": "Cada linha é um texto; as colunas são faixas do texto (início → fim). O fundo e os traços usam a cor do lado.",
+ "disp_compare.caption": "Cada linha é um texto; as colunas são faixas do texto (início → fim). O fundo usa a cor do lado; os traços, a cor da etiqueta (ou a cor do lado, em consultas de texto).",
  "disp_compare.intro": "Compare onde a consulta aparece em cada texto dos dois lados (DP de Gries, mapa de calor por faixa).",
  "disp_compare.need_query": "Digite uma consulta para comparar.",
  "disp_compare.order": "Ordenar textos por",
