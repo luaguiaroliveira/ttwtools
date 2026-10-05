@@ -12,7 +12,7 @@ import pytest
 import ttwtools
 from ttwtools import cli
 from ttwtools.corpus import set_document_meta
-from ttwtools.query import collocates, dispersion, dispersion_compare, explain, frequency, kwic, search, tag_counts
+from ttwtools.query import collocates, dispersion, dispersion_compare, dispersion_multi, explain, frequency, kwic, search, tag_counts
 
 TEXTS = {
     "a.txt": "The black cat sat on the mat. The cat slept.",       # 12 tokens, 10 palavras
@@ -125,6 +125,25 @@ def test_dispersion_dp_by_hand(proj):
     assert r["dp"] == pytest.approx(dp) and r["dp_norm"] == pytest.approx(dp / (1 - 6 / 25))
     a = next(d for d in r["per_document"] if d["filename"] == "a.txt")
     assert a["positions"] == [pytest.approx(2 / 12), pytest.approx(9 / 12)]
+    # métricas "por texto" de Gries: esperado, observado e desvio |o−e| por documento
+    assert a["expected"] == pytest.approx(12 / 25)
+    assert a["observed"] == pytest.approx(2 / 3)
+    assert a["deviation"] == pytest.approx(abs(2 / 3 - 12 / 25), abs=1e-6)
+    b = next(d for d in r["per_document"] if d["filename"] == "b.txt")
+    assert b["expected"] == pytest.approx(7 / 25) and b["observed"] == pytest.approx(1 / 3)
+
+
+def test_dispersion_multi_one_pass(proj):
+    r = dispersion_multi(proj, "c", ["cat", "dog"])
+    assert [q["query"] for q in r["queries"]] == ["cat", "dog"]
+    assert r["queries"][0] == dispersion(proj, "c", "cat")     # mesmas métricas de `dispersion`
+    assert all("expected" in d and "observed" in d and "deviation" in d for d in r["queries"][0]["per_document"])
+
+
+def test_dispersion_multi_cli(proj, capsys):
+    assert cli.main(["dispersion-multi", str(proj.path), "--corpus", "c", "--query", "cat", "--query", "dog", "--json"]) == 0
+    out = json.loads(capsys.readouterr().out)
+    assert [q["query"] for q in out["queries"]] == ["cat", "dog"]
 
 
 def test_dispersion_compare_two_groups_and_two_corpora(proj):

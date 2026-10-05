@@ -693,6 +693,22 @@ def _cmd_dispersion_compare(args):
     return EXIT_OK
 
 
+def _cmd_dispersion_multi(args):
+    from .corpus import parse_where
+    from .query import dispersion_multi
+    with _open_or_create(args.project, create=False) as proj:
+        r = dispersion_multi(proj, args.corpus, args.query, args.layer, parse_where(args.where or []))
+    if args.format == "json":
+        emit(r, "json")
+        return EXIT_OK
+    for q in r["queries"]:
+        print(f"{q['query']}: freq {q['freq']} · range {q['range']}/{q['documents']} · DP {q['dp']} · DP norm. {q['dp_norm']}")
+    cols = ["query", "filename", "size", "freq", "expected", "observed", "deviation"]
+    rows = [{"query": q["query"], **{k: d[k] for k in cols[1:]}} for q in r["queries"] for d in q["per_document"]]
+    emit(rows, args.format, columns=cols)
+    return EXIT_OK
+
+
 def _configure_search(p):
     _query_common(p)
     p.add_argument("--group-by", help="metadado para contar por grupo")
@@ -739,6 +755,11 @@ def _configure_collocate_examples(p):
 
 def _configure_dispersion(p):
     _query_common(p)
+
+
+def _configure_dispersion_multi(p):
+    _query_common(p, needs_query=False)
+    p.add_argument("--query", action="append", required=True, metavar="CONSULTA", help="consulta (pode repetir; uma por etiqueta/camada)")
 
 
 def _configure_dispersion_compare(p):
@@ -1167,6 +1188,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
     "collocates": ("Colocados com log-likelihood, MI, T-score e frequência", _configure_collocates, _cmd_collocates),
     "collocate-examples": ("Ocorrências do nó com um colocado na janela (exemplos de um colocado)", _configure_collocate_examples, _cmd_collocate_examples),
     "dispersion": ("Dispersão (DP de Gries, Range) e posições para o gráfico", _configure_dispersion, _cmd_dispersion),
+    "dispersion-multi": ("Dispersão de várias consultas de uma vez (uma etiqueta/camada por consulta)",
+                         _configure_dispersion_multi, _cmd_dispersion_multi),
     "dispersion-compare": ("Dispersão de Gries comparada (dois lados) por documento",
                            _configure_dispersion_compare, _cmd_dispersion_compare),
     "tag-counts": ("Ocorrências de cada etiqueta no corpus todo (upos, xpos ou tags)", _configure_tag_counts, _cmd_tag_counts),

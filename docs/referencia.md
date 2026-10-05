@@ -894,6 +894,16 @@ corpus (`reference`) ou outro grupo do mesmo corpus (`reference` ausente ⇒ o p
 corpus, filtrado por `reference_where`). Só chama `dispersion` em cada lado — nenhum
 cálculo novo — e devolve o par para a tela Comparar.
 
+### `dispersion_multi` · **`ttwtools.dispersion_multi`**
+
+```python
+dispersion_multi(project: 'TTWAProject', corpus_name: 'str', queries: 'Iterable[str]', layer: 'str | None' = None, where: 'Mapping | None' = None) -> 'dict'
+```
+
+Dispersão de várias consultas de uma vez, no mesmo projeto/camada: reusa a abertura do projeto e
+as colunas já decodificadas (uma etiqueta/camada por consulta), devolvendo as mesmas métricas de
+`dispersion` para cada uma. É o caminho rápido para o gráfico em camadas do Explorar.
+
 ### `explain`
 
 ```python

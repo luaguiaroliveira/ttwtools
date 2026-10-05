@@ -685,6 +685,26 @@ def hits(store: IdStore, sel: dict[int, dict], node: str) -> "tuple[list[tuple[i
 # dispersão, contagem de etiquetas
 # ---------------------------------------------------------------------------
 
+def finalize_dispersion(query: str, docs: list[dict]) -> dict:
+    """Fecha o resultado da dispersão: acrescenta `expected`, `observed` e `deviation` (|o−e|) a cada
+    documento — as métricas "por texto" de Gries — e calcula DP e DP_norm "por corpus"."""
+    total_size = sum(d["size"] for d in docs)
+    total_freq = sum(d["freq"] for d in docs)
+    for d in docs:
+        e = d["size"] / total_size if total_size else 0.0
+        o = d["freq"] / total_freq if total_freq else 0.0
+        d["expected"] = round(e, 6)
+        d["observed"] = round(o, 6)
+        d["deviation"] = round(abs(o - e), 6)
+    dp = dp_norm = None
+    if total_size and total_freq:
+        dp = 0.5 * sum(abs(d["freq"] / total_freq - d["size"] / total_size) for d in docs)
+        min_e = min(d["size"] / total_size for d in docs)
+        dp_norm = dp / (1 - min_e) if min_e < 1 else 0.0
+    return {"query": query, "freq": total_freq, "range": sum(1 for d in docs if d["freq"]),
+            "documents": len(docs), "dp": dp, "dp_norm": dp_norm, "per_document": docs}
+
+
 def dispersion(store: IdStore, sel: dict[int, dict], query: str) -> dict:
     """Mesmo resultado de `query.dispersion` pelo SQL (DP de Gries, Range e posições relativas por documento)."""
     from collections import defaultdict
@@ -700,15 +720,7 @@ def dispersion(store: IdStore, sel: dict[int, dict], query: str) -> dict:
         hits = where.get(k, [])
         docs.append({"filename": s.docs[k]["filename"], "size": size, "freq": len(hits),
                      "positions": sorted(p / size for p in hits) if size else []})
-    total_size = sum(d["size"] for d in docs)
-    total_freq = sum(d["freq"] for d in docs)
-    dp = dp_norm = None
-    if total_size and total_freq:
-        dp = 0.5 * sum(abs(d["freq"] / total_freq - d["size"] / total_size) for d in docs)
-        min_e = min(d["size"] / total_size for d in docs)
-        dp_norm = dp / (1 - min_e) if min_e < 1 else 0.0
-    return {"query": query, "freq": total_freq, "range": sum(1 for d in docs if d["freq"]),
-            "documents": len(docs), "dp": dp, "dp_norm": dp_norm, "per_document": docs}
+    return finalize_dispersion(query, docs)
 
 
 def tag_counts(store: IdStore, sel: dict[int, dict], field: str) -> dict[str, int]:

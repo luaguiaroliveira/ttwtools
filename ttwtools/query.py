@@ -547,15 +547,17 @@ def dispersion(project: TTWAProject, corpus_name: str, query: str, layer: str | 
         size = project._con.execute("SELECT COUNT(*) FROM tokens WHERE layer_id = ?", (layer_id,)).fetchone()[0]
         docs.append({"filename": doc["filename"], "size": size, "freq": len(positions[layer_id]),
                      "positions": sorted(p / size for p in positions[layer_id]) if size else []})
-    total_size = sum(d["size"] for d in docs)
-    total_freq = sum(d["freq"] for d in docs)
-    dp = dp_norm = None
-    if total_size and total_freq:
-        dp = 0.5 * sum(abs(d["freq"] / total_freq - d["size"] / total_size) for d in docs)
-        min_e = min(d["size"] / total_size for d in docs)
-        dp_norm = dp / (1 - min_e) if min_e < 1 else 0.0
-    return {"query": query, "freq": total_freq, "range": sum(1 for d in docs if d["freq"]),
-            "documents": len(docs), "dp": dp, "dp_norm": dp_norm, "per_document": docs}
+    return idquery.finalize_dispersion(query, docs)
+
+
+def dispersion_multi(project: TTWAProject, corpus_name: str, queries: Iterable[str],
+                     layer: str | None = None, where: Mapping | None = None) -> dict:
+    """Dispersão de várias consultas de uma vez, no mesmo projeto/camada: reusa a abertura do projeto e
+    as colunas já decodificadas (uma etiqueta/camada por consulta), devolvendo as mesmas métricas de
+    `dispersion` para cada uma. É o caminho rápido para o gráfico em camadas do Explorar."""
+    queries = list(queries)
+    return {"corpus": corpus_name, "where": dict(where) if where else None,
+            "queries": [dispersion(project, corpus_name, q, layer, where) for q in queries]}
 
 
 def dispersion_compare(project: TTWAProject, corpus_name: str, query: str, layer: str | None = None,
