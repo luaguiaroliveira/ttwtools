@@ -333,6 +333,8 @@
  "kfa.texts_compare": "Corpora comparados:",
  "kfa.raw_count": "Contagem bruta",
  "kfa.per_1000": "Por 1000 palavras",
+ "kfa.col_raw": "bruta",
+ "kfa.col_per1000": "por 1000",
  "kfa.sort": "Ordenar",
  "kfa.sort_asc": "Crescente",
  "kfa.sort_desc": "Decrescente",

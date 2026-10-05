@@ -333,6 +333,8 @@
  "kfa.texts_compare": "Compared corpora:",
  "kfa.raw_count": "Raw count",
  "kfa.per_1000": "Per 1,000 words",
+ "kfa.col_raw": "raw",
+ "kfa.col_per1000": "per 1,000",
  "kfa.sort": "Sort",
  "kfa.sort_asc": "Ascending",
  "kfa.sort_desc": "Descending",
