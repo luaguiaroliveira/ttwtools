@@ -1,36 +1,125 @@
 ---
-titulo: Key-Feature Analysis (KFA)
-resumo: Compares two sets of texts feature by feature, by effect size (Cohen's d).
-relacionados: cohens_d, normalizacao_por_mil, tagset_biber, keyness
+titulo: Key Feature Analysis (KFA)
+resumo: Quantitative method that identifies the lexico-grammatical features that distinguish two text varieties, using Cohen's d.
+relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyness
 ---
-**Key-Feature analysis** (KF analysis, by Egbert and Biber) compares two sets of texts — two corpora or two groups of the same corpus — and shows which **lexico-grammatical features** (tenses, pronouns, passives, modals...) characterise each side. It answers the question "what distinguishes this register from that one?".
+> **In one sentence:** KF analysis is a quantitative method for identifying the lexico-grammatical features that distinguish two text varieties.
 
-## How it works
-KF analysis follows six steps:
-1. Define the two sides of the comparison (target × reference, or two groups).
-2. Select features **motivated by a linguistic question** — preferably features already used in the literature, not the whole tag repertory.
-3. Count each feature **in each text** and normalise (e.g. per 1,000 words).
-4. Compute the mean and standard deviation of the feature on each side.
-5. Compute the feature's **Cohen's d**: the difference between the means expressed in standard deviations.
-6. Rank the features by d and interpret the extremes with examples from the texts themselves.
+**Definition.** KF analysis (Key Feature Analysis, by Egbert and Biber) is an exploratory, quantitative method for comparing two text varieties (corpora). It works with a set of functionally motivated lexico-grammatical features, measures the rate of occurrence of each feature in every text, and identifies the features that distinguish the two varieties using Cohen's *d*, which expresses the difference between the two corpora relative to the variation across texts.
 
-The key point is that the unit of observation is the **text**, not the whole corpus. Comparing only overall frequencies loses the variation from text to text; KFA measures that variation in the denominator of d. A feature is therefore "key" only when it is used **consistently more** on one side, beyond that normal variation.
+**How to use this page.** Click a box title for an extra explanation, and move the sliders in section 4 to see how *d* changes.
 
-## How to read
-- **Sign:** positive = the feature is more frequent on side 1; negative = on side 2.
-- **Size** (Cohen's convention): |d| ~ 0.2 small; ~ 0.5 medium; 0.8 or more large. These are only guidelines: in short texts, large effects may be accidental.
-- KFA is **exploratory**: it ranks features by effect size but does not decide "significant / not significant" as a hypothesis test does.
-- Compare with the alternatives: keyword and key-tag analysis compare whole-corpus frequencies; Multidimensional (MD) analysis looks for dimensions that vary together. KFA sits in between: as simple as keyness but looking at each text, like MD.
+---
 
-## Caveats
-- KFA does **not** test significance: the value of d says nothing about whether the difference could be due to chance.
-- Rare features (almost always zero) can give a large d by chance; a high d is not automatically "important".
-- Feature selection matters: including dozens of features only raises the chance of spurious differences. Prefer interpretable features.
-- Every value is relative to the chosen reference corpus.
-- Always interpret the number together with real examples from the texts (open the KWIC or the Reader), never from the bar alone.
+## 1. The 30-second answer
+| Step | Question | Answer |
+|:-|:-|:-|
+| 1 | What do I have? | Two text varieties (corpora) and a set of functionally motivated features |
+| 2 | What do I want? | The lexico-grammatical features that distinguish the two varieties |
+| 3 | How is it measured? | The difference between the two corpora, standardized by how much the feature varies across texts (**Cohen's *d***) |
+| 4 | How do I read it? | Big \|*d*\| = strong marker of one corpus; small \|*d*\| = similar in both |
 
-## References
-- EGBERT, J.; BIBER, D. Key feature analysis: a simple, yet powerful method for comparing text varieties. *Corpora*, v. 18, n. 1, p. 121–133, 2023.
-- BIBER, D.; EGBERT, J. *Register Variation Online*. Cambridge: Cambridge University Press, 2018.
-- BIBER, D. *Variation across Speech and Writing*. Cambridge: Cambridge University Press, 1988.
-- BREZINA, V. *Statistics in Corpus Linguistics: A Practical Guide*. Cambridge: Cambridge University Press, 2018.
+## 2. When to use it
+- Comparing two registers or text varieties.
+- Comparing two platforms, authors, or groups.
+- Choosing features to teach or to analyze further.
+
+:::details How is it different from a keyword analysis?
+A keyword analysis looks for words (or POS tags) that are significantly over- or under-used across a whole corpus. KF analysis works **per text**, with **functionally selected features**, and reports an **effect size** (how large the difference is), not a yes/no significance decision.
+:::
+
+## 3. Cohen's *d* in KF analysis: the idea
+In KF analysis, we calculate a Cohen's *d* value for **each feature**, and every value compares the same feature in two corpora. The x-axis is the rate of the feature in a text; each text of a corpus contributes one point, and the curve is the distribution of those rates. The two curves are the same feature measured in Corpus 1 and Corpus 2, never two different features.
+- **The center of the curve** is the mean (M): the average rate of the feature across the texts of that corpus.
+- **The width of the curve** is the spread of the rates around that mean, summarized by the standard deviation (SD): how much the feature varies from text to text.
+- **Cohen's *d* = difference between the two means / spread.** A large |*d*| means the feature is distinctive of one corpus compared with the other.
+
+:::details Why divide by the spread?
+The spread is the ruler. The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread). A gap of 3 occurrences per 1,000 words is a strong marker if the texts vary by about 2, but a weak one if they vary by about 15.
+:::
+
+## 4. How *d* is calculated (step by step)
+    d = (M1 − M2) / SD_pooled
+
+- **M1, M2**: the means of the feature (the average rate across texts) in the two corpora.
+- **SD_pooled**: the pooled standard deviation, a single number for how much the texts vary inside the two corpora. It is the denominator of *d*, so it sets the unit (the ruler) in which the difference between the means is measured. See the **Standard Deviation (SD)** card.
+
+    SD_pooled = √[ (SD1² + SD2²) / 2 ]
+
+**Worked example.** Feature: first-person pronouns (per 1,000 words).
+- Corpus 1 rates: 2, 4, 6 → mean 4.
+- Corpus 2 rates: 5, 7, 9 → mean 7.
+
+:::details Step 1. The means
+M1 = 4; M2 = 7.
+:::
+:::details Step 2. The gap (numerator)
+M1 − M2 = 4 − 7 = **−3**. The negative sign means the feature is more frequent in **Corpus 2**.
+:::
+:::details Step 3. The spread (denominator)
+Each corpus has a standard deviation of 2. The pooled standard deviation is √[(2² + 2²) / 2] = **2**.
+:::
+:::details Step 4. Divide
+*d* = −3 / 2 = **−1.5** → a large effect: the feature is strongly distinctive of Corpus 2.
+:::
+
+**Try it.** Move the sliders to see how the two means and the pooled standard deviation change *d*.
+
+::cohen-widget::
+
+## 5. Reading the value of *d*
+| \|*d*\| | Reading | Overlap between the corpora |
+|:-|:-|:-|
+| < 0.20 | not key | almost complete |
+| ≈ 0.20 | small | high |
+| ≈ 0.50 | medium | moderate |
+| ≥ 0.80 | large | low |
+
+- The **sign** gives the direction: **positive → Corpus 1**, **negative → Corpus 2**.
+- These cut-offs are conventions, not fixed laws.
+
+:::details Can a rare feature be key?
+Yes. A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other. Frequency alone does not decide keyness.
+:::
+
+## 6. Which method: kfa or kfa2?
+| Your two corpora | Use |
+|:-|:-|
+| same number of texts | **kfa** (Biber, 2023) |
+| different numbers of texts | **kfa2** (weighted) |
+
+:::details What changes in kfa2?
+In kfa2, the pooled standard deviation is **weighted by corpus size**:
+
+    SD_pooled = √[ ( (n1 − 1)·SD1² + (n2 − 1)·SD2² ) / (n1 + n2 − 2) ]
+
+The larger corpus gets more weight, because its estimate of variation is more reliable.
+:::
+
+## 7. Check yourself
+:::details 1) A feature has *d* = 0.05. Is it key?
+No. |*d*| is below 0.20 (negligible).
+:::
+:::details 2) *d* = −0.70. Which corpus uses the feature more?
+Corpus 2 (the sign is negative).
+:::
+:::details 3) Feature A has |*d*| = 0.30; feature B has |*d*| = 1.20. Which is more distinctive?
+Feature B.
+:::
+:::details 4) The corpora have 50 and 120 texts. Which method?
+kfa2, because the corpora have different numbers of texts.
+:::
+
+## 8. Functional analysis
+The quantitative part ends with the ranking by |*d*|. That ranking says **which** features are key and **for which corpus**, but it does not say **why**. The last step is qualitative: we interpret the function that each key feature performs in the variety, using examples from the texts.
+- Work from **examples in both corpora**, not only from the value of *d*.
+- Base the interpretation on the **grammar**, on **previous research**, and on the **situation** of the variety (who communicates, with whom, and for what purpose).
+- Ask what the feature **helps the writer or speaker do** in that variety.
+- Present the interpretation with **evidence** (patterns and concordance lines, in KWIC or the Reader).
+
+## 9. Warnings
+- *d* is an **approximation**: it assumes roughly normal data and similar variances. Linguistic data are often skewed.
+- *d* is **not** a significance test: it does not tell whether the difference could be due to chance.
+- Small corpora give unstable values.
+- Always check **examples from the texts**, not only the number.
+- Every value is relative to the corpus used as reference.

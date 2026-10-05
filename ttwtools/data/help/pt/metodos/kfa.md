@@ -1,36 +1,125 @@
 ---
-titulo: Análise de Key-Features (KFA)
-resumo: Compara dois conjuntos de textos atributo a atributo, pelo tamanho de efeito (d de Cohen).
-relacionados: cohens_d, normalizacao_por_mil, tagset_biber, keyness
+titulo: Key Feature Analysis (KFA)
+resumo: Método quantitativo que identifica os atributos léxico-gramaticais que distinguem duas variedades de texto, pelo d de Cohen.
+relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyness
 ---
-A **análise de Key-Features** (KF analysis, de Egbert e Biber) compara dois conjuntos de textos — dois corpora ou dois grupos do mesmo corpus — e mostra quais **atributos léxico-gramaticais** (tempos verbais, pronomes, passivas, modalizadores...) caracterizam cada lado. Ela responde à pergunta "o que distingue este registro daquele?".
+> **Em uma frase:** a análise de KF é um método quantitativo para identificar os atributos léxico-gramaticais que distinguem duas variedades de texto.
 
-## Como funciona
-A KFA segue seis passos:
-1. Escolha os dois lados da comparação (alvo × referência, ou dois grupos).
-2. Selecione atributos **motivados por uma pergunta linguística** — de preferência atributos já usados na literatura, e não todo o repertório de etiquetas.
-3. Conte cada atributo **em cada texto** e normalize (por exemplo, por 1000 palavras).
-4. Calcule a média e o desvio-padrão do atributo em cada lado.
-5. Calcule o **d de Cohen** do atributo: a diferença das médias expressa em desvios-padrão.
-6. Ordene os atributos pelo d e interprete os extremos com exemplos dos próprios textos.
+**Definição.** A análise de KF (Key Feature Analysis, de Egbert e Biber) é um método exploratório e quantitativo para comparar duas variedades de texto (corpora). Ela parte de um conjunto de atributos léxico-gramaticais funcionalmente motivados, mede a taxa de ocorrência de cada atributo em cada texto e identifica os que distinguem as duas variedades por meio do *d* de Cohen, que expressa a diferença entre os dois corpora em relação à variação entre os textos.
 
-O ponto central é que a unidade de observação é o **texto**, não o corpus inteiro. Quando se compara só a frequência total de dois corpora, perde-se a variação de texto para texto; a KFA mede essa variação no denominador do d. Por isso um atributo só é "key" quando é usado **consistentemente mais** num lado, para além dessa variação natural.
+**Como usar esta página.** Clique no título de uma caixa para ver uma explicação extra e mova os controles da seção 4 para ver como o *d* muda.
 
-## Como ler
-- **Sinal:** positivo = o atributo é mais frequente no lado 1; negativo = mais frequente no lado 2.
-- **Tamanho** (convenção de Cohen): |d| ~ 0,2 pequeno; ~ 0,5 médio; 0,8 ou mais grande. São apenas referências: em textos curtos, efeitos grandes podem ser casuais.
-- A KFA é **exploratória**: ela ranqueia os atributos pelo tamanho de efeito, mas não decide "significativo / não significativo" como um teste de hipótese.
-- Compare com as alternativas: palavras-chave e tags-chave comparam frequências do corpus inteiro; a análise multidimensional (MD) procura dimensões que variam junto. A KFA fica no meio: simples como a keyness, mas olhando cada texto, como a MD.
+---
 
-## Cuidados
-- A KFA **não** testa significância: o valor de d não diz se a diferença poderia ser fruto do acaso.
-- Atributos raros (quase sempre zero) podem produzir d grande por acaso; um d alto não significa automaticamente "importante".
-- A seleção de atributos importa: incluir dezenas de atributos só aumenta a chance de diferenças espúrias. Prefira atributos interpretáveis.
-- Todo valor é relativo ao corpus de referência escolhido.
-- Interprete sempre o número junto de exemplos reais dos textos (abra o KWIC ou o Leitor), nunca só pela barra do gráfico.
+## 1. A resposta em 30 segundos
+| Passo | Pergunta | Resposta |
+|:-|:-|:-|
+| 1 | O que eu tenho? | Duas variedades de texto (corpora) e um conjunto de atributos funcionalmente motivados |
+| 2 | O que eu quero? | Os atributos léxico-gramaticais que distinguem as duas variedades |
+| 3 | Como é medido? | A diferença entre os dois corpora, padronizada pelo quanto o atributo varia entre os textos (**o *d* de Cohen**) |
+| 4 | Como leio? | \|*d*\| grande = forte marcador de um corpus; \|*d*\| pequeno = parecido nos dois |
 
-## Referências
-- EGBERT, J.; BIBER, D. Key feature analysis: a simple, yet powerful method for comparing text varieties. *Corpora*, v. 18, n. 1, p. 121–133, 2023.
-- BIBER, D.; EGBERT, J. *Register Variation Online*. Cambridge: Cambridge University Press, 2018.
-- BIBER, D. *Variation across Speech and Writing*. Cambridge: Cambridge University Press, 1988.
-- BREZINA, V. *Statistics in Corpus Linguistics: A Practical Guide*. Cambridge: Cambridge University Press, 2018.
+## 2. Quando usar
+- Comparar dois registros ou variedades de texto.
+- Comparar duas plataformas, autores ou grupos.
+- Escolher atributos para ensinar ou para analisar em detalhe.
+
+:::details Qual é a diferença em relação à análise de palavras-chave?
+A análise de palavras-chave procura palavras (ou classes gramaticais) significativamente mais ou menos usadas em todo um corpus. A análise de KF trabalha **por texto**, com **atributos escolhidos funcionalmente**, e reporta um **tamanho de efeito** (o quanto a diferença é grande), não uma decisão de sim/não sobre significância.
+:::
+
+## 3. O *d* de Cohen na análise de KF: a ideia
+Na análise de KF, calculamos um valor de *d* de Cohen para **cada atributo**, e cada valor compara o mesmo atributo em dois corpora. O eixo x é a taxa do atributo em um texto; cada texto do corpus fornece um ponto, e a curva é a distribuição dessas taxas. As duas curvas são o mesmo atributo medido no Corpus 1 e no Corpus 2, nunca dois atributos diferentes.
+- **O centro da curva** é a média (M): a taxa média do atributo entre os textos daquele corpus.
+- **A largura da curva** é a dispersão das taxas em torno dessa média, resumida pelo desvio-padrão (SD): o quanto o atributo varia de texto para texto.
+- ***d* de Cohen = diferença entre as médias / dispersão.** Um |*d*| grande significa que o atributo é distintivo de um corpus em comparação com o outro.
+
+:::details Por que dividir pela dispersão?
+A dispersão é a régua. A mesma distância entre as duas médias vale mais quando os textos são consistentes (dispersão pequena) e menos quando são heterogêneos (dispersão grande). Uma diferença de 3 ocorrências por 1.000 palavras é um marcador forte se os textos variam cerca de 2, mas fraco se variam cerca de 15.
+:::
+
+## 4. Como o *d* é calculado (passo a passo)
+    d = (M1 − M2) / SD_combinado
+
+- **M1, M2**: as médias do atributo (a taxa média entre os textos) nos dois corpora.
+- **SD_combinado**: o desvio-padrão combinado, um único número para o quanto os textos variam dentro dos dois corpora. É o denominador do *d*, então define a unidade (a régua) com que a diferença entre as médias é medida. Veja o cartão **Desvio-padrão (SD)**.
+
+    SD_combinado = √[ (SD1² + SD2²) / 2 ]
+
+**Exemplo resolvido.** Atributo: pronomes de primeira pessoa (por 1.000 palavras).
+- Taxas do Corpus 1: 2, 4, 6 → média 4.
+- Taxas do Corpus 2: 5, 7, 9 → média 7.
+
+:::details Passo 1. As médias
+M1 = 4; M2 = 7.
+:::
+:::details Passo 2. A distância (numerador)
+M1 − M2 = 4 − 7 = **−3**. O sinal negativo indica que o atributo é mais frequente no **Corpus 2**.
+:::
+:::details Passo 3. A dispersão (denominador)
+Cada corpus tem desvio-padrão 2. O desvio-padrão combinado é √[(2² + 2²) / 2] = **2**.
+:::
+:::details Passo 4. Divida
+*d* = −3 / 2 = **−1,5** → efeito grande: o atributo é fortemente distintivo do Corpus 2.
+:::
+
+**Experimente.** Mova os controles para ver como as duas médias e o desvio-padrão combinado mudam o *d*.
+
+::cohen-widget::
+
+## 5. Como ler o valor de *d*
+| \|*d*\| | Leitura | Sobreposição entre os corpora |
+|:-|:-|:-|
+| < 0,20 | não key | quase total |
+| ≈ 0,20 | pequeno | alta |
+| ≈ 0,50 | médio | moderada |
+| ≥ 0,80 | grande | baixa |
+
+- O **sinal** indica a direção: **positivo → Corpus 1**, **negativo → Corpus 2**.
+- Esses pontos de corte são convenções, não leis fixas.
+
+:::details Um atributo raro pode ser key?
+Sim. Um atributo raro pode ser fortemente key se for usado de forma consistente em um corpus e quase ausente no outro. A frequência sozinha não decide a keyness.
+:::
+
+## 6. Qual método usar: kfa ou kfa2?
+| Seus dois corpora | Use |
+|:-|:-|
+| mesmo número de textos | **kfa** (Biber, 2023) |
+| números diferentes de textos | **kfa2** (ponderada) |
+
+:::details O que muda no kfa2?
+No kfa2, o desvio-padrão combinado é **ponderado pelo tamanho do corpus**:
+
+    SD_combinado = √[ ( (n1 − 1)·SD1² + (n2 − 1)·SD2² ) / (n1 + n2 − 2) ]
+
+O corpus maior recebe mais peso, porque sua estimativa de variação é mais confiável.
+:::
+
+## 7. Teste você mesmo
+:::details 1) Um atributo tem *d* = 0,05. Ele é key?
+Não. |*d*| está abaixo de 0,20 (desprezível).
+:::
+:::details 2) *d* = −0,70. Qual corpus usa mais o atributo?
+O Corpus 2 (o sinal é negativo).
+:::
+:::details 3) O atributo A tem |*d*| = 0,30; o atributo B tem |*d*| = 1,20. Qual é mais distintivo?
+O atributo B.
+:::
+:::details 4) Os corpora têm 50 e 120 textos. Qual método?
+kfa2, porque os corpora têm números diferentes de textos.
+:::
+
+## 8. Análise funcional
+A parte quantitativa termina com o ranking por |*d*|. Esse ranking diz **quais** atributos são key e **para qual corpus**, mas não diz **por quê**. A última etapa é qualitativa: interpretamos a função que cada atributo key desempenha na variedade, com base em exemplos dos textos.
+- Parta de **exemplos dos dois corpora**, e não apenas do valor de *d*.
+- Baseie a interpretação na **gramática**, em **pesquisas anteriores** e na **situação** da variedade (quem comunica, com quem e com que propósito).
+- Pergunte o que o atributo **ajuda o autor ou falante a fazer** naquela variedade.
+- Apresente a interpretação com **evidências** (padrões e linhas de concordância, no KWIC ou no Leitor).
+
+## 9. Avisos
+- O *d* é uma **aproximação**: pressupõe dados aproximadamente normais e variâncias semelhantes. Dados linguísticos costumam ser assimétricos.
+- O *d* **não** é um teste de significância: não diz se a diferença pode ser devida ao acaso.
+- Corpora pequenos geram valores instáveis.
+- Confira sempre **exemplos dos textos**, e não apenas o número.
+- Todo valor é relativo ao corpus usado como referência.

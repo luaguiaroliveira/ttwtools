@@ -1,7 +1,7 @@
 ---
 titulo: d de Cohen
 resumo: Tamanho da diferença entre dois grupos, em desvios-padrão. É a medida da KFA.
-relacionados: kfa, normalizacao_por_mil, tagset_biber
+relacionados: kfa, desvio_padrao, normalizacao_por_mil, tagset_biber
 ---
 O **d de Cohen** é uma medida de **tamanho de efeito**: diz quão distantes estão as médias de dois grupos, medido em unidades de desvio-padrão. Foi proposto por Jacob Cohen (1988) e é a medida que a KFA usa para comparar dois conjuntos de textos.
 

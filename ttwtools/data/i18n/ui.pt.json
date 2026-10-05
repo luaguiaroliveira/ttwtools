@@ -919,5 +919,19 @@
  "project.index_hint": "Só na primeira vez: o índice de busca fica guardado neste computador (em Uso de disco) e as próximas aberturas são rápidas.",
  "disk.what.index": "criar o índice de busca",
  "job.stage.kfa_count": "Contando as features de cada texto",
- "job.stage.kfa_calc": "Calculando o KFA"
+ "job.stage.kfa_calc": "Calculando o KFA",
+ "kfaw.m1": "Média do Corpus 1",
+ "kfaw.m2": "Média do Corpus 2",
+ "kfaw.sd": "Desvio-padrão combinado",
+ "kfaw.xlabel": "Taxa do atributo em um texto (por 1.000 palavras)",
+ "kfaw.caption": "Cada texto do corpus fornece um ponto no eixo x: a taxa do atributo naquele texto. A curva mostra como essas taxas se distribuem entre os textos. O eixo vertical está em escala relativa: leia a posição (média) e a largura (dispersão) de cada curva, não a altura.",
+ "kfaw.d": "d de Cohen",
+ "kfaw.overlap": "sobreposição",
+ "kfaw.higher1": "maior no Corpus 1",
+ "kfaw.higher2": "maior no Corpus 2",
+ "kfaw.read.none": "não key",
+ "kfaw.read.small": "pequeno",
+ "kfaw.read.medium": "médio",
+ "kfaw.read.large": "grande",
+ "kfaw.readout": "d de Cohen = {d}, {reading}, sobreposição {overlap}%"
 }

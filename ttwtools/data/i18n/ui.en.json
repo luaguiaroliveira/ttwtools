@@ -919,5 +919,19 @@
  "project.index_hint": "First time only: the search index is kept on this computer (see Disk usage) and later openings are fast.",
  "disk.what.index": "build the search index",
  "job.stage.kfa_count": "Counting the features of each text",
- "job.stage.kfa_calc": "Computing the KFA"
+ "job.stage.kfa_calc": "Computing the KFA",
+ "kfaw.m1": "Mean of Corpus 1",
+ "kfaw.m2": "Mean of Corpus 2",
+ "kfaw.sd": "Pooled standard deviation",
+ "kfaw.xlabel": "Rate of the feature in a text (per 1,000 words)",
+ "kfaw.caption": "Each text of a corpus gives one point on the x-axis: the rate of the feature in that text. The curve shows how those rates are distributed across the texts. The vertical axis is a relative scale: read the position (mean) and the width (spread) of each curve, not its height.",
+ "kfaw.d": "Cohen's d",
+ "kfaw.overlap": "overlap",
+ "kfaw.higher1": "higher in Corpus 1",
+ "kfaw.higher2": "higher in Corpus 2",
+ "kfaw.read.none": "not key",
+ "kfaw.read.small": "small",
+ "kfaw.read.medium": "medium",
+ "kfaw.read.large": "large",
+ "kfaw.readout": "Cohen's d = {d}, {reading}, overlap {overlap}%"
 }

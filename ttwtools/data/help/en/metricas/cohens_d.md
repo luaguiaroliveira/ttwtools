@@ -1,7 +1,7 @@
 ---
 titulo: Cohen's d
 resumo: Size of the difference between two groups, in standard deviations. The measure used by KFA.
-relacionados: kfa, normalizacao_por_mil, tagset_biber
+relacionados: kfa, desvio_padrao, normalizacao_por_mil, tagset_biber
 ---
 **Cohen's d** is a measure of **effect size**: it tells how far apart the means of two groups are, in standard-deviation units. It was proposed by Jacob Cohen (1988) and is the measure KFA uses to compare two sets of texts.
 
