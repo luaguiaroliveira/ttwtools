@@ -157,7 +157,7 @@
  "explore.disp_queries": "Queries",
  "explore.disp_queries_hint": "Search adds a query; each has its own colour. Click a text to open the Reader with the searched items highlighted.",
  "explore.disp_remove": "Remove query {query}",
- "explore.disp_table": "Table",
+ "explore.disp_table": "O/E",
  "explore.disp_view": "Dispersion view",
  "explore.disp_dp": "Gries' DP",
  "explore.disp_dp_norm": "normalised",

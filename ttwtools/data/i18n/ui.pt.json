@@ -157,7 +157,7 @@
  "explore.disp_queries": "Consultas",
  "explore.disp_queries_hint": "Buscar acrescenta uma consulta; cada uma tem sua cor. Clique num texto para abrir o Leitor com os itens buscados destacados.",
  "explore.disp_remove": "Remover consulta {query}",
- "explore.disp_table": "Tabela",
+ "explore.disp_table": "O/E",
  "explore.disp_view": "Visão da dispersão",
  "explore.disp_dp": "DP de Gries",
  "explore.disp_dp_norm": "normalizado",
