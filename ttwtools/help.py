@@ -81,12 +81,11 @@ def search(query: str, lang: str | None = None) -> list[dict]:
     return out
 
 
-# Destaques animados no texto: `[texto]{circulo azul}` ou `==texto==`. Mantenha igual a
+# Destaques animados no texto (marca-texto e caneta): `[texto]{marca amarelo}`, `[texto]{sublinhado azul}` ou `==texto==`. Mantenha igual a
 # frontend-vue/src/utils/highlights.js. Cor também em hexadecimal (`#e11d48`).
-HIGHLIGHT_TYPES = {"marca", "highlight", "sublinhado", "underline", "circulo", "circle", "caixa", "box",
-                   "riscado", "strike", "cruz", "cross", "colchete", "bracket"}
-HIGHLIGHT_COLORS = {"laranja", "orange", "azul", "blue", "roxo", "purple", "verde", "green",
-                    "amarelo", "yellow", "rosa", "pink"}
+HIGHLIGHT_TYPES = {"marca", "highlight", "sublinhado", "underline"}
+HIGHLIGHT_COLORS = {"amarelo", "yellow", "rosa", "pink", "verde", "green", "azul", "blue", "laranja", "orange",
+                    "roxo", "purple", "vermelho", "red", "preto", "black"}
 _SPAN = re.compile(r"\[([^\[\]]+?)\]\{([^{}]*)\}")
 
 

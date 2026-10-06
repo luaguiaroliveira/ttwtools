@@ -1,23 +1,23 @@
 ---
 titulo: Key Feature Analysis (KFA)
-resumo: Quantitative method that identifies the [lexico-grammatical features that distinguish]{highlight blue} two text varieties, using Cohen's d.
+resumo: Quantitative method that identifies the [lexico-grammatical features that distinguish]{marca amarelo} two text varieties, using Cohen's d.
 relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyness
 ---
-> **In one sentence:** KF analysis is a [quantitative method]{underline green} for identifying the lexico-grammatical features that distinguish two text varieties.
+> **In one sentence:** KF analysis is a [quantitative method]{sublinhado azul} for identifying the lexico-grammatical features that distinguish two text varieties.
 
-**Definition.** KF analysis (Key Feature Analysis, by Egbert and Biber) is an exploratory, quantitative method for comparing two text varieties (corpora). It works with a set of functionally motivated lexico-grammatical features, measures the rate of occurrence of each feature in every text, and identifies the features that distinguish the two varieties using Cohen's *d*, which expresses the difference between the two corpora relative to the variation across texts.
+**Definition.** KF analysis (Key Feature Analysis, by Egbert and Biber) is an exploratory, quantitative method for comparing two text varieties (corpora or sub-corpora). It works with a set of functionally motivated lexico-grammatical features, measures the rate of occurrence of each feature in every text, and identifies the features that distinguish the two varieties using Cohen's *d*, which expresses the difference between the two corpora relative to the variation across texts.
 
-**How to use this page.** Click a box title for an extra explanation, and [move the sliders in section 4]{highlight yellow} to see how *d* changes.
+**How to use this page.** Click a box title for an extra explanation, and [move the sliders in section 4]{marca verde} to see how *d* changes.
 
 ---
 
 ## 1. The 30-second answer
-| Step | Question | Answer |
-|:-|:-|:-|
-| 1 | What do I have? | Two text varieties (corpora) and a set of functionally motivated features |
-| 2 | What do I want? | The lexico-grammatical features that distinguish the two varieties |
-| 3 | How is it measured? | The difference between the two corpora, standardized by how much the feature varies across texts (**Cohen's *d***) |
-| 4 | How do I read it? | Big $\lvert d\rvert$ = strong marker of one corpus; small $\lvert d\rvert$ = similar in both |
+| Step | Question            | Answer                                                                                                             |
+| :--- | :------------------ | :----------------------------------------------------------------------------------------------------------------- |
+| 1    | What do I have?     | Two text varieties (corpora) and a set of functionally motivated features                                          |
+| 2    | What do I want?     | The lexico-grammatical features that distinguish the two varieties                                                 |
+| 3    | How is it measured? | The difference between the two corpora, standardized by how much the feature varies across texts (**Cohen's *d***) |
+| 4    | How do I read it?   | Big $\lvert d\rvert$ = strong marker of one corpus; small $\lvert d\rvert$ = similar in both                       |
 
 ## 2. When to use it
 - Comparing two registers or text varieties.
@@ -35,7 +35,7 @@ In KF analysis, we calculate a Cohen's *d* value for **each feature**, and every
 - **Cohen's *d* = difference between the two means / spread.** A large $\lvert d\rvert$ means the feature is distinctive of one corpus compared with the other.
 
 :::details Why divide by the spread?
-The spread is the ruler. The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread). A gap of 3 occurrences per 1,000 words is a strong marker if the texts vary by about 2, but a weak one if they vary by about 15.
+[The spread is the ruler]{sublinhado azul}. The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread). A gap of 3 occurrences per 1,000 words is a strong marker if the texts vary by about 2, but a weak one if they vary by about 15.
 :::
 
 ## 4. How *d* is calculated (step by step)
@@ -69,24 +69,24 @@ $d = -3/2 =$ **$-1.5$** → a large effect: the feature is strongly distinctive 
 
 ## 5. Reading the value of *d*
 | $\lvert d\rvert$ | Reading | Overlap between the corpora |
-|:-|:-|:-|
-| < 0.20 | not key | almost complete |
-| ≈ 0.20 | small | high |
-| ≈ 0.50 | medium | moderate |
-| ≥ 0.80 | large | low |
+| :--------------- | :------ | :-------------------------- |
+| < 0.20           | not key | almost complete             |
+| ≈ 0.20           | small   | high                        |
+| ≈ 0.50           | medium  | moderate                    |
+| ≥ 0.80           | large   | low                         |
 
-- The **sign** gives the direction: **positive → Corpus 1**, **negative → Corpus 2**.
-- These cut-offs are conventions, not fixed laws.
+- [The **sign** gives the direction: **positive → Corpus 1**, **negative → Corpus 2**]{marca verde}.
+- [These cut-offs are conventions, not fixed laws]{marca rosa}.
 
 :::details Can a rare feature be key?
-Yes. A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other. Frequency alone does not decide keyness.
+Yes. A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other. [Frequency alone does not decide keyness]{marca amarelo}.
 :::
 
 ## 6. Which method: kfa or kfa2?
-| Your two corpora | Use |
-|:-|:-|
-| same number of texts | **kfa** (Biber, 2023) |
-| different numbers of texts | **kfa2** (weighted) |
+| Your two corpora           | Use                   |
+| :------------------------- | :-------------------- |
+| same number of texts       | **kfa** (Biber, 2023) |
+| different numbers of texts | **kfa2** (weighted)   |
 
 :::details What changes in kfa2?
 In kfa2, the pooled standard deviation is **weighted by corpus size**:

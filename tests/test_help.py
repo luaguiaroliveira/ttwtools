@@ -68,7 +68,7 @@ def test_check_reports_problems(tmp_path, monkeypatch):
     for lang in i18n.LANGS:
         (tmp_path / lang / "metricas").mkdir(parents=True)
     (tmp_path / "pt" / "metricas" / "a.md").write_text(
-        "---\ntitulo: A\nresumo: s\nrelacionados: nada\n---\n[ok]{circulo azul} [ruim]{rodopio} [x]{azul} ==aberto", encoding="utf-8")
+        "---\ntitulo: A\nresumo: s\nrelacionados: nada\n---\n[ok]{marca azul} [ruim]{rodopio} [x]{azul} ==aberto", encoding="utf-8")
     monkeypatch.setattr(h, "_DIR", tmp_path)
     h._index.cache_clear()
     try:

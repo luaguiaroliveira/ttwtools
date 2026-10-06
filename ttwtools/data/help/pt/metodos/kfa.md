@@ -3,21 +3,21 @@ titulo: Key Feature Analysis (KFA)
 resumo: Método quantitativo que identifica os atributos léxico-gramaticais que distinguem duas variedades de texto, pelo d de Cohen.
 relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyness
 ---
-> **Em uma frase:** a análise de KF é um [método quantitativo]{sublinhado verde} para identificar os [atributos léxico-gramaticais que distinguem]{marca azul} duas variedades de texto.
+> **Em uma frase:** a análise de KF é um [método quantitativo]{sublinhado azul} para identificar os [atributos léxico-gramaticais que distinguem]{marca amarelo} duas variedades de texto.
 
-**Definição.** A análise de KF (Key Feature Analysis, de Egbert e Biber) é um método exploratório e quantitativo para comparar duas variedades de texto (corpora). Ela parte de um conjunto de atributos léxico-gramaticais funcionalmente motivados, mede a taxa de ocorrência de cada atributo em cada texto e identifica os que distinguem as duas variedades por meio do *d* de Cohen, que expressa a diferença entre os dois corpora em relação à variação entre os textos.
+**Definição.** A análise de KF (Key Feature Analysis, de Egbert e Biber) é um método exploratório e quantitativo para comparar duas variedades de texto (corpora ou sub-corpora). Ela parte de um conjunto de atributos léxico-gramaticais funcionalmente motivados, mede a taxa de ocorrência de cada atributo em cada texto e identifica os que distinguem as duas variedades por meio do *d* de Cohen, que expressa a diferença entre os dois corpora em relação à variação entre os textos.
 
-**Como usar esta página.** Clique no título de uma caixa para ver uma explicação extra e [mova os controles da seção 4]{marca amarelo} para ver como o *d* muda.
+**Como usar esta página.** Clique no título de uma caixa para ver uma explicação extra e [mova os controles da seção 4]{marca verde} para ver como o *d* muda.
 
 ---
 
 ## 1. A resposta em 30 segundos
-| Passo | Pergunta | Resposta |
-|:-|:-|:-|
-| 1 | O que eu tenho? | Duas variedades de texto (corpora) e um conjunto de atributos funcionalmente motivados |
-| 2 | O que eu quero? | Os atributos léxico-gramaticais que distinguem as duas variedades |
-| 3 | Como é medido? | A diferença entre os dois corpora, padronizada pelo quanto o atributo varia entre os textos (**o *d* de Cohen**) |
-| 4 | Como leio? | $\lvert d\rvert$ grande = forte marcador de um corpus; $\lvert d\rvert$ pequeno = parecido nos dois |
+| Passo | Pergunta        | Resposta                                                                                                         |
+| :---- | :-------------- | :--------------------------------------------------------------------------------------------------------------- |
+| 1     | O que eu tenho? | Duas variedades de texto (corpora) e um conjunto de atributos funcionalmente motivados                           |
+| 2     | O que eu quero? | Os atributos léxico-gramaticais que distinguem as duas variedades                                                |
+| 3     | Como é medido?  | A diferença entre os dois corpora, padronizada pelo quanto o atributo varia entre os textos (**o *d* de Cohen**) |
+| 4     | Como leio?      | $\lvert d\rvert$ grande = forte marcador de um corpus; $\lvert d\rvert$ pequeno = parecido nos dois              |
 
 ## 2. Quando usar
 - Comparar dois registros ou variedades de texto.
@@ -35,7 +35,7 @@ Na análise de KF, calculamos um valor de *d* de Cohen para **cada atributo**, e
 - ***d* de Cohen = diferença entre as médias / dispersão.** Um $\lvert d\rvert$ grande significa que o atributo é distintivo de um corpus em comparação com o outro.
 
 :::details Por que dividir pela dispersão?
-A dispersão é a régua. A mesma distância entre as duas médias vale mais quando os textos são consistentes (dispersão pequena) e menos quando são heterogêneos (dispersão grande). Uma diferença de 3 ocorrências por 1.000 palavras é um marcador forte se os textos variam cerca de 2, mas fraco se variam cerca de 15.
+[A dispersão é a régua]{sublinhado azul}. A mesma distância entre as duas médias vale mais quando os textos são consistentes (dispersão pequena) e menos quando são heterogêneos (dispersão grande). Uma diferença de 3 ocorrências por 1.000 palavras é um marcador forte se os textos variam cerca de 2, mas fraco se variam cerca de 15.
 :::
 
 ## 4. Como o *d* é calculado (passo a passo)
@@ -69,24 +69,24 @@ $d = -3/2 =$ **$-1{,}5$** → efeito grande: o atributo é fortemente distintivo
 
 ## 5. Como ler o valor de *d*
 | $\lvert d\rvert$ | Leitura | Sobreposição entre os corpora |
-|:-|:-|:-|
-| < 0,20 | não key | quase total |
-| ≈ 0,20 | pequeno | alta |
-| ≈ 0,50 | médio | moderada |
-| ≥ 0,80 | grande | baixa |
+| :--------------- | :------ | :---------------------------- |
+| < 0,20           | não key | quase total                   |
+| ≈ 0,20           | pequeno | alta                          |
+| ≈ 0,50           | médio   | moderada                      |
+| ≥ 0,80           | grande  | baixa                         |
 
-- O **sinal** indica a direção: **positivo → Corpus 1**, **negativo → Corpus 2**.
-- Esses pontos de corte são convenções, não leis fixas.
+- [O **sinal** indica a direção: **positivo → Corpus 1**, **negativo → Corpus 2**]{marca verde}.
+- [Esses pontos de corte são convenções, não leis fixas]{marca rosa}.
 
 :::details Um atributo raro pode ser key?
-Sim. Um atributo raro pode ser fortemente key se for usado de forma consistente em um corpus e quase ausente no outro. A frequência sozinha não decide a keyness.
+Sim. Um atributo raro pode ser fortemente key se for usado de forma consistente em um corpus e quase ausente no outro. [A frequência sozinha não decide a keyness]{marca amarelo}.
 :::
 
 ## 6. Qual método usar: kfa ou kfa2?
-| Seus dois corpora | Use |
-|:-|:-|
-| mesmo número de textos | **kfa** (Biber, 2023) |
-| números diferentes de textos | **kfa2** (ponderada) |
+| Seus dois corpora            | Use                   |
+| :--------------------------- | :-------------------- |
+| mesmo número de textos       | **kfa** (Biber, 2023) |
+| números diferentes de textos | **kfa2** (ponderada)  |
 
 :::details O que muda no kfa2?
 No kfa2, o desvio-padrão combinado é **ponderado pelo tamanho do corpus**:

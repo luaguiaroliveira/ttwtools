@@ -19,25 +19,31 @@ tabelas (`| a | b |`), fórmulas (`$d$` no texto; `$$...$$` sozinho na linha),
 blocos recolhíveis (`:::details Título` ... `:::`) e linha `---`.
 `::cohen-widget::` (sozinho na linha) insere o widget interativo: não apague.
 
-## Destaques animados (rough-notation)
+## Destaques (marca-texto e caneta)
 
-Marque o trecho com colchetes e, logo depois, o estilo entre chaves:
+Duas "canetas": **marca-texto** (`marca`) e **caneta de tinta** (`sublinhado`). Marque o trecho com colchetes e,
+logo depois, o estilo e a cor entre chaves:
 
-    [método quantitativo]{sublinhado}
-    [atributos que distinguem]{circulo azul}
-    ==ideia central==                      (atalho de marca-texto)
+    [diz quão distantes estão as médias]{marca amarelo}
+    [razão sinal/ruído]{sublinhado azul}
+    ==ideia central==                      (atalho: marca-texto amarelo)
 
-| Estilo | Efeito | | Cor (opcional) |
-|---|---|---|---|
-| `marca` | marca-texto | | `laranja` `azul` `verde` |
-| `sublinhado` | traço embaixo | | `roxo` `amarelo` `rosa` |
-| `circulo` | contorno ao redor | | sem cor = cor dominante do tema |
-| `caixa` | retângulo | | |
-| `riscado` · `cruz` · `colchete` | riscar, cortar em X, colchete | | |
+Cores: `amarelo` `rosa` `verde` `azul` `laranja` `roxo` `vermelho` `preto` (ou em inglês: `yellow` `pink` `green`
+`blue` `orange` `purple` `red` `black`). Também vale hexadecimal: `{marca #ffd400}`. Sem cor: marca amarela e tinta azul.
+Estilo e cor podem vir em qualquer ordem. **Use as mesmas cores em `pt/` e `en/`.**
 
-Cor também pode ser hexadecimal (`{marca #e11d48}`). Estilo e cor podem vir em qualquer ordem (`{azul caixa}`); também valem os nomes em inglês
-(`underline`, `circle`, `box`, `blue`...). Os destaques se desenham quando o trecho entra na tela;
-o **olho** no alto do verbete os mostra ou oculta (a escolha fica guardada). Use poucos: um ou dois por parágrafo, no que o leitor não pode perder.
+Convenção dos verbetes (para o leitor aprender o código de cores):
+
+| Uso | Estilo |
+|---|---|
+| ideia central, definição | `marca amarelo` |
+| como ler, o que fazer | `marca verde` |
+| cuidado, limite | `marca rosa` |
+| termo-chave, fórmula | `sublinhado azul` |
+| alerta forte (o erro mais comum) | `sublinhado vermelho` |
+
+Os destaques começam **ocultos**: o leitor clica no **olho** no alto do verbete para vê-los, e cada trecho se desenha
+(como escrito à mão) ao entrar na tela. Use poucos: um ou dois por parágrafo, só no que não pode ser perdido.
 
 ## Antes de guardar
 
