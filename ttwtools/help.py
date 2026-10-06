@@ -82,7 +82,7 @@ def search(query: str, lang: str | None = None) -> list[dict]:
 
 
 # Destaques animados no texto: `[texto]{circulo azul}` ou `==texto==`. Mantenha igual a
-# frontend-vue/src/utils/highlights.js.
+# frontend-vue/src/utils/highlights.js. Cor também em hexadecimal (`#e11d48`).
 HIGHLIGHT_TYPES = {"marca", "highlight", "sublinhado", "underline", "circulo", "circle", "caixa", "box",
                    "riscado", "strike", "cruz", "cross", "colchete", "bracket"}
 HIGHLIGHT_COLORS = {"laranja", "orange", "azul", "blue", "roxo", "purple", "verde", "green",
@@ -116,7 +116,7 @@ def check(lang: str | None = None) -> list[str]:
             body = d["body"]
             for m in _SPAN.finditer(body):
                 words = [w for w in re.split(r"[\s,]+", m.group(2).lower()) if w]
-                bad = [w for w in words if w not in HIGHLIGHT_TYPES | HIGHLIGHT_COLORS]
+                bad = [w for w in words if w not in HIGHLIGHT_TYPES | HIGHLIGHT_COLORS and not re.fullmatch(r"#[0-9a-f]{6}", w)]
                 if bad or not any(w in HIGHLIGHT_TYPES for w in words):
                     problems.append(f"{where}: destaque inválido [{m.group(1)[:30]}]{{{m.group(2)}}}"
                                     + (f" (desconhecido: {', '.join(bad)})" if bad else " (falta o tipo)"))

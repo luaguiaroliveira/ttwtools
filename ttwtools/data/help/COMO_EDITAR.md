@@ -35,7 +35,7 @@ Marque o trecho com colchetes e, logo depois, o estilo entre chaves:
 | `caixa` | retângulo | | |
 | `riscado` · `cruz` · `colchete` | riscar, cortar em X, colchete | | |
 
-Estilo e cor podem vir em qualquer ordem (`{azul caixa}`); também valem os nomes em inglês
+Cor também pode ser hexadecimal (`{marca #e11d48}`). Estilo e cor podem vir em qualquer ordem (`{azul caixa}`); também valem os nomes em inglês
 (`underline`, `circle`, `box`, `blue`...). Os destaques se desenham quando o trecho entra na tela;
 o **olho** no alto do verbete os mostra ou oculta (a escolha fica guardada). Use poucos: um ou dois por parágrafo, no que o leitor não pode perder.
 
