@@ -18,6 +18,7 @@ Sem tradução, cai no inglês (`fallback: True`).
 from __future__ import annotations
 
 import json
+import re
 from functools import lru_cache
 from pathlib import Path
 
@@ -80,6 +81,50 @@ def search(query: str, lang: str | None = None) -> list[dict]:
     return out
 
 
+# Destaques animados no texto: `[texto]{circulo azul}` ou `==texto==`. Mantenha igual a
+# frontend-vue/src/utils/highlights.js.
+HIGHLIGHT_TYPES = {"marca", "highlight", "sublinhado", "underline", "circulo", "circle", "caixa", "box",
+                   "riscado", "strike", "cruz", "cross", "colchete", "bracket"}
+HIGHLIGHT_COLORS = {"laranja", "orange", "azul", "blue", "roxo", "purple", "verde", "green",
+                    "amarelo", "yellow", "rosa", "pink"}
+_SPAN = re.compile(r"\[([^\[\]]+?)\]\{([^{}]*)\}")
+
+
+def check(lang: str | None = None) -> list[str]:
+    """Confere os textos de ajuda e devolve a lista de problemas (vazia = tudo certo).
+
+    Verifica: tópico sem tradução em pt/en, título ou resumo vazios, `relacionados` que não existem,
+    destaques com tipo/cor desconhecidos e `==` sem par. Para quem edita os `.md` de `data/help`."""
+    langs = [lang] if lang else list(LANGS)
+    problems: list[str] = []
+    every = set().union(*(set(_index(x)) for x in LANGS))
+    for code in langs:
+        for tid in sorted(every):
+            path = _index(code).get(tid)
+            if path is None:
+                problems.append(f"{code}/{tid}: sem tradução (cai no inglês)")
+                continue
+            where = f"{code}/{path.parent.name}/{path.name}"
+            d = _parse(path)
+            if not d["summary"]:
+                problems.append(f"{where}: sem 'resumo' no cabeçalho")
+            if d["title"] == path.stem:
+                problems.append(f"{where}: sem 'titulo' no cabeçalho")
+            for rel in d["related"]:
+                if rel not in every:
+                    problems.append(f"{where}: relacionado inexistente '{rel}'")
+            body = d["body"]
+            for m in _SPAN.finditer(body):
+                words = [w for w in re.split(r"[\s,]+", m.group(2).lower()) if w]
+                bad = [w for w in words if w not in HIGHLIGHT_TYPES | HIGHLIGHT_COLORS]
+                if bad or not any(w in HIGHLIGHT_TYPES for w in words):
+                    problems.append(f"{where}: destaque inválido [{m.group(1)[:30]}]{{{m.group(2)}}}"
+                                    + (f" (desconhecido: {', '.join(bad)})" if bad else " (falta o tipo)"))
+            if len(re.findall(r"==", _SPAN.sub("", body).replace("```", ""))) % 2:
+                problems.append(f"{where}: '==' sem par (destaque aberto e não fechado)")
+    return problems
+
+
 def tours() -> list[str]:
     """Ids dos tours guiados disponíveis."""
     return sorted(p.stem for p in (_DIR / "tours").glob("*.json"))
@@ -108,4 +153,4 @@ def render(topic: str, lang: str | None = None) -> str:
     return "\n".join(lines)
 
 
-__all__ = ["LANGS", "get", "topics", "search", "tours", "tour", "render", "localize"]
+__all__ = ["LANGS", "get", "topics", "search", "check", "tours", "tour", "render", "localize"]

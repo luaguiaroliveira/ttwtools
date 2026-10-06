@@ -422,6 +422,8 @@
  "layers.none": "Sem camadas: o corpus ainda não foi etiquetado.",
  "layers.title": "Camadas",
  "layers.use": "Usar",
+ "learn.hl_hide": "Ocultar destaques",
+ "learn.hl_show": "Mostrar destaques",
  "learn.area.conceitos": "Conceitos",
  "learn.area.metodos": "Métodos",
  "learn.area.metricas": "Métricas",

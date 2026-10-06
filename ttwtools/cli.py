@@ -981,6 +981,12 @@ def _configure_reference_list(p):
 
 def _cmd_help(args):
     from . import help as h
+    if args.check:
+        problems = h.check(args.lang)
+        for line in problems:
+            print(line)
+        print(f"{len(problems)} problema(s)" if problems else "textos de ajuda ok", file=sys.stderr)
+        return EXIT_ERROR if problems else EXIT_OK
     if args.search:
         emit(h.search(args.search, args.lang), args.format)
         return EXIT_OK
@@ -1017,6 +1023,7 @@ def _configure_help(p):
     p.add_argument("topic", nargs="?", help="tópico (ex.: cohens_d, kwic, keyness); vazio = lista")
     p.add_argument("--lang", choices=["pt", "en"])
     p.add_argument("--search", help="procurar nos textos de ajuda")
+    p.add_argument("--check", action="store_true", help="conferir os textos de ajuda (traduções, relacionados, destaques) e listar problemas")
 
 
 def _parse_group(spec: str, default_corpus: str) -> dict:

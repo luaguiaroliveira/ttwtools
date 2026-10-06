@@ -62,3 +62,23 @@ def test_cli_help(capsys):
     assert cli.main(["help", "--lang", "en"]) == 0
     assert "keyness" in capsys.readouterr().out
     assert cli.main(["help", "nada"]) == cli.EXIT_ERROR
+
+
+def test_check_reports_problems(tmp_path, monkeypatch):
+    for lang in i18n.LANGS:
+        (tmp_path / lang / "metricas").mkdir(parents=True)
+    (tmp_path / "pt" / "metricas" / "a.md").write_text(
+        "---\ntitulo: A\nresumo: s\nrelacionados: nada\n---\n[ok]{circulo azul} [ruim]{rodopio} [x]{azul} ==aberto", encoding="utf-8")
+    monkeypatch.setattr(h, "_DIR", tmp_path)
+    h._index.cache_clear()
+    try:
+        out = "\n".join(h.check())
+    finally:
+        h._index.cache_clear()
+    assert "en/a: sem tradução" in out and "relacionado inexistente 'nada'" in out
+    assert "rodopio" in out and "falta o tipo" in out and "'==' sem par" in out
+    assert "[ok]" not in out
+
+
+def test_shipped_help_texts_are_clean():
+    assert h.check() == []

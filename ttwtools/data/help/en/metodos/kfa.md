@@ -1,13 +1,13 @@
 ---
 titulo: Key Feature Analysis (KFA)
-resumo: Quantitative method that identifies the lexico-grammatical features that distinguish two text varieties, using Cohen's d.
+resumo: Quantitative method that identifies the [lexico-grammatical features that distinguish]{circle} two text varieties, using Cohen's d.
 relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyness
 ---
-> **In one sentence:** KF analysis is a quantitative method for identifying the lexico-grammatical features that distinguish two text varieties.
+> **In one sentence:** KF analysis is a [quantitative method]{underline} for identifying the lexico-grammatical features that distinguish two text varieties.
 
 **Definition.** KF analysis (Key Feature Analysis, by Egbert and Biber) is an exploratory, quantitative method for comparing two text varieties (corpora). It works with a set of functionally motivated lexico-grammatical features, measures the rate of occurrence of each feature in every text, and identifies the features that distinguish the two varieties using Cohen's *d*, which expresses the difference between the two corpora relative to the variation across texts.
 
-**How to use this page.** Click a box title for an extra explanation, and move the sliders in section 4 to see how *d* changes.
+**How to use this page.** Click a box title for an extra explanation, and ==move the sliders in section 4== to see how *d* changes.
 
 ---
 

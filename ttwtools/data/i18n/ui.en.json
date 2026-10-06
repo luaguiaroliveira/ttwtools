@@ -422,6 +422,8 @@
  "layers.none": "No layers: the corpus has not been tagged yet.",
  "layers.title": "Layers",
  "layers.use": "Use",
+ "learn.hl_hide": "Hide highlights",
+ "learn.hl_show": "Show highlights",
  "learn.area.conceitos": "Concepts",
  "learn.area.metodos": "Methods",
  "learn.area.metricas": "Metrics",
