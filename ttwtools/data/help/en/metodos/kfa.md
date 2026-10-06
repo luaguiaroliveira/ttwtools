@@ -82,14 +82,14 @@ $d = -3/2 =$ **$-1.5$** → [a large effect: the feature is strongly distinctive
 Yes. [A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other]{marca amarelo}. [Frequency alone does not decide keyness]{marca amarelo}.
 :::
 
-## 6. Which method: kfa or kfa2?
+## 6. Which method: kfa or wkfa?
 | Your two corpora           | Use                   |
 | :------------------------- | :-------------------- |
 | same number of texts       | **kfa** (Biber, 2023) |
-| different numbers of texts | **kfa2** (weighted)   |
+| different numbers of texts | **wkfa** (*weighted key feature analysis*)   |
 
-:::details What changes in kfa2?
-In kfa2, the pooled standard deviation is [**weighted by corpus size**]{sublinhado azul}:
+:::details What changes in wkfa?
+In wkfa (*weighted key feature analysis*), the pooled standard deviation is [**weighted by corpus size**]{sublinhado azul}:
 
 $$SD_{\text{pooled}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
@@ -107,7 +107,7 @@ Corpus 2 (the sign is negative).
 Feature B.
 :::
 :::details 4) The corpora have 50 and 120 texts. Which method?
-kfa2, because the corpora have different numbers of texts.
+wkfa, because the corpora have different numbers of texts.
 :::
 
 ## 8. Functional analysis

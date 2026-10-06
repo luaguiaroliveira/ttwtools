@@ -15,4 +15,4 @@ relacionados: cohens_d, keyness
 ## Caveats
 - [This is **exploratory**: the methods are under evaluation and the API may change]{marca rosa}.
 - [Many features × many groups = many tests]{marca rosa}: look at effect sizes and corrected p.
-- [Groups with fewer than 5 texts give unstable estimates]{marca rosa}; groups of very different sizes call for care (the kfa2 metric weights by size).
+- [Groups with fewer than 5 texts give unstable estimates]{marca rosa}; groups of very different sizes call for care (the wkfa metric weights by size).

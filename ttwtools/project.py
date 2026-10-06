@@ -41,6 +41,7 @@ import pandas as pd
 from . import layerfmt as _layerfmt
 from . import layers as _layers
 from . import storage as _storage
+from .analysis import normalize_metric
 
 
 # ---------------------------------------------------------------------------
@@ -169,7 +170,7 @@ CREATE TABLE IF NOT EXISTS kfa_results (
     join_method   TEXT    NOT NULL DEFAULT 'union',
     tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
     analysis_name TEXT    NOT NULL DEFAULT 'default',
-    metric        TEXT    NOT NULL DEFAULT 'kfa2',
+    metric        TEXT    NOT NULL DEFAULT 'wkfa',
     features_meta TEXT    NOT NULL DEFAULT '[]',
     data          TEXT    NOT NULL,
     created_at    TEXT    NOT NULL,
@@ -635,7 +636,7 @@ def _migrate_kfa_results(con: sqlite3.Connection) -> None:
         cols = {row[1] for row in con.execute("PRAGMA table_info(kfa_results)")}
 
     if "metric" not in cols:
-        # v4 migration: add metric column (default 'kfa2' for backward compat), rebuild UNIQUE
+        # v4 migration: add metric column (default 'wkfa' for backward compat), rebuild UNIQUE
         con.executescript("""
             CREATE TABLE kfa_results_v4 (
                 id            INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -645,18 +646,24 @@ def _migrate_kfa_results(con: sqlite3.Connection) -> None:
                 join_method   TEXT    NOT NULL DEFAULT 'union',
                 tagger_type   TEXT    NOT NULL DEFAULT 'biberplus',
                 analysis_name TEXT    NOT NULL DEFAULT 'default',
-                metric        TEXT    NOT NULL DEFAULT 'kfa2',
+                metric        TEXT    NOT NULL DEFAULT 'wkfa',
                 features_meta TEXT    NOT NULL DEFAULT '[]',
                 data          TEXT    NOT NULL,
                 created_at    TEXT    NOT NULL,
                 UNIQUE (corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric)
             );
             INSERT INTO kfa_results_v4 (id, corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, metric, features_meta, data, created_at)
-                SELECT id, corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, 'kfa2', features_meta, data, created_at
+                SELECT id, corpus1_name, corpus2_name, min_effect, join_method, tagger_type, analysis_name, 'wkfa', features_meta, data, created_at
                 FROM kfa_results;
             DROP TABLE kfa_results;
             ALTER TABLE kfa_results_v4 RENAME TO kfa_results;
         """)
+        con.commit()
+
+    # nome antigo da métrica ponderada: "kfa2" → "wkfa" (se já existir a linha equivalente, a antiga é descartada)
+    if con.execute("SELECT 1 FROM kfa_results WHERE metric = 'kfa2' LIMIT 1").fetchone():
+        con.execute("UPDATE OR IGNORE kfa_results SET metric = 'wkfa' WHERE metric = 'kfa2'")
+        con.execute("DELETE FROM kfa_results WHERE metric = 'kfa2'")
         con.commit()
 
 
@@ -1450,6 +1457,7 @@ class TTWAProject:
         metric: str = "kfa",
         features_meta: list | None = None,
     ) -> None:
+        metric = normalize_metric(metric)
         """Persiste o DataFrame de resultados de uma KFA entre dois corpora."""
         import json as _json
         data_json = df.to_json(orient="records", force_ascii=False)
@@ -1491,7 +1499,7 @@ class TTWAProject:
             params.append(analysis_name)
         if metric is not None:
             where += " AND metric = ?"
-            params.append(metric)
+            params.append(normalize_metric(metric))
         row = self._con.execute(
             f"SELECT data FROM kfa_results WHERE {where} ORDER BY created_at DESC LIMIT 1",
             params,

@@ -142,7 +142,7 @@ def kfa_layers(project: TTWAProject, corpus1: str, corpus2: str, layer: str, fea
                progress: "Callable[[int, int, str], None] | None" = None, reuse: bool = True) -> dict:
     """KFA (d de Cohen por atributo, por 1000 palavras) entre dois corpora — ou dois
     grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
-    ou kfa2 (desvio combinado ponderado).
+    ou wkfa (weighted key feature analysis: desvio combinado ponderado).
 
     Com `save`, o resultado fica nas análises do projeto junto das camadas usadas; pedir de novo a
     mesma KFA sobre as mesmas camadas devolve o resultado guardado (`reuse=True`; `cached` no

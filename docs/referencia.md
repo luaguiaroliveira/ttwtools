@@ -1215,7 +1215,7 @@ kfa_layers(project: 'TTWAProject', corpus1: 'str', corpus2: 'str', layer: 'str',
 
 KFA (d de Cohen por atributo, por 1000 palavras) entre dois corpora — ou dois
 grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
-ou kfa2 (desvio combinado ponderado).
+ou wkfa (desvio combinado ponderado).
 
 Com `save`, o resultado fica nas análises do projeto junto das camadas usadas; pedir de novo a
 mesma KFA sobre as mesmas camadas devolve o resultado guardado (`reuse=True`; `cached` no
@@ -1518,7 +1518,7 @@ analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: floa
 Realiza a analise de key features (KFA) entre dois corpora norm1000.csv.
 
 metric="kfa"  — formula de Biber & Egbert: SD_pooled = sqrt((SD1^2+SD2^2)/2)  [padrao]
-metric="kfa2" — formula ponderada pelo tamanho: SD_pooled classico (atual)
+metric="wkfa" — formula ponderada pelo tamanho: SD_pooled classico (atual)
 
 ### `cohens_d` · **`ttwtools.cohens_d`**
 
@@ -1544,13 +1544,13 @@ kfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: st
 
 KFA padrao (Biber & Egbert): SD_pooled = sqrt((SD1^2+SD2^2)/2).
 
-### `kfa2` · **`ttwtools.kfa2`**
+### `wkfa` · **`ttwtools.wkfa`**
 
 ```python
-kfa2(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = 'union')
+wkfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = 'union')
 ```
 
-KFA2: SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2)).
+wKFA (weighted key feature analysis): SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2)).
 
 ### `pooled_std` · **`ttwtools.pooled_std`**
 

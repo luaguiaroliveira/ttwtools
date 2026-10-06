@@ -11,5 +11,5 @@
  "lab.warn.experimental": "Método experimental: resultado exploratório, não evidência. A API e os números podem mudar.",
  "lab.warn.multiple": "{tests} comparações: com tantos testes, algumas diferenças aparecem por acaso. Prefira tamanhos de efeito e p corrigido.",
  "lab.warn.small_group": "Grupos com menos de {n} textos ({groups}): as estimativas ficam instáveis.",
- "lab.warn.unequal": "Grupos de tamanhos muito diferentes ({min} a {max} textos): compare com cuidado (a métrica kfa2 pondera pelo tamanho)."
+ "lab.warn.unequal": "Grupos de tamanhos muito diferentes ({min} a {max} textos): compare com cuidado (a métrica wkfa pondera pelo tamanho)."
 }

@@ -4,6 +4,15 @@ import warnings
 import numpy as np
 import pandas as pd
 
+# Métricas da KFA: "kfa" (Biber & Egbert) e "wkfa" (weighted key feature analysis, desvio combinado ponderado).
+# "kfa2" era o nome antigo de "wkfa": ainda é lido (projetos salvos, chamadas antigas) e vira "wkfa".
+METRICS = ("kfa", "wkfa")
+_LEGACY_METRICS = {"kfa2": "wkfa"}
+
+
+def normalize_metric(metric: str) -> str:
+    return _LEGACY_METRICS.get(metric, metric)
+
 
 def pooled_std(group1, group2):
     """Calcula o desvio padrao combinado (pooled standard deviation) para dois grupos."""
@@ -106,8 +115,10 @@ def analyze_key_features(
     """Realiza a analise de key features (KFA) entre dois corpora norm1000.csv.
 
     metric="kfa"  — formula de Biber & Egbert: SD_pooled = sqrt((SD1^2+SD2^2)/2)  [padrao]
-    metric="kfa2" — formula ponderada pelo tamanho: SD_pooled classico (atual)
+    metric="wkfa" — formula ponderada pelo tamanho (weighted key feature analysis): SD_pooled classico
+    ("kfa2" ainda e aceito como nome antigo de "wkfa")
     """
+    metric = normalize_metric(metric)
     c1 = Path(corpus1_path).name
     c2 = Path(corpus2_path).name
     print(f"\n{'=' * 60}")
@@ -234,17 +245,17 @@ def kfa(
     )
 
 
-def kfa2(
+def wkfa(
     corpus1_path: str,
     corpus2_path: str,
     min_effect_size: float = 0.0,
     join: str = "union",
 ):
-    """KFA2: SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2))."""
+    """wKFA (weighted key feature analysis): SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2))."""
     return analyze_key_features(
         corpus1_path=corpus1_path,
         corpus2_path=corpus2_path,
         min_effect_size=min_effect_size,
         join=join,
-        metric="kfa2",
+        metric="wkfa",
     )

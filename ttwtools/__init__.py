@@ -38,7 +38,7 @@ _EXPORTS = {
     "extract_spacy_combined_features_from_folder": "taggers",
     # analysis
     "kfa": "analysis",
-    "kfa2": "analysis",
+    "wkfa": "analysis",
     "analyze_key_features": "analysis",
     "cohens_d": "analysis",
     "cohens_d_biber": "analysis",
@@ -160,7 +160,7 @@ def __dir__():
 
 if TYPE_CHECKING:  # para editores e verificadores de tipo
     from . import analysis, project, tagged_io, taggers, tagging  # noqa: F401
-    from .analysis import analyze_key_features, cohens_d, cohens_d_biber, kfa, kfa2, pooled_std, pooled_std_biber  # noqa: F401
+    from .analysis import analyze_key_features, cohens_d, cohens_d_biber, kfa, wkfa, pooled_std, pooled_std_biber  # noqa: F401
     from .project import (  # noqa: F401
         TTWA_EXTENSION, TTWA_MIME_TYPE, TTWA_MODE_COMPACT, TTWA_MODE_FULL,
         TTWAProject, create_project, open_project, save_analysis_to_project,

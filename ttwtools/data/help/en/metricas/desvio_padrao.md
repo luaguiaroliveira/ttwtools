@@ -24,9 +24,9 @@ Corpus B has rates 0, 4, 4, 8: the same mean (4) but a larger spread. The varian
 Cohen's *d* divides the difference between the means by [**a single number** that combines the spread of the two corpora]{sublinhado azul}: the pooled standard deviation.
 
 $$\text{kfa:}\quad SD_{\text{pooled}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
-$$\text{kfa2:}\quad SD_{\text{pooled}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
+$$\text{wkfa:}\quad SD_{\text{pooled}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
-[In kfa the two corpora weigh the same; in kfa2 (for corpora with different numbers of texts) the larger corpus weighs more]{marca verde}, because its estimate of variation is more reliable.
+[In kfa the two corpora weigh the same; in wkfa (for corpora with different numbers of texts) the larger corpus weighs more]{marca verde}, because its estimate of variation is more reliable.
 
 ## How to read it
 - [Small SD: the texts are consistent]{marca verde}; even a small gap between the means is striking.

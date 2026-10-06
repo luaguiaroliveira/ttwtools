@@ -47,7 +47,7 @@ def test_fresh_biberplus_layer_equals_legacy_and_kfa(v2, tmp_path, spacy_model):
         old = v2.load_feature_table("CorIFAessaysNE_5", "rawcount", tagger_type="biberplus").set_index("filename").sort_index()
         cols = [c for c in old.columns if c not in ("field", "section")]
         pd.testing.assert_frame_equal(new[cols], old[cols].fillna(0), check_dtype=False, atol=1e-9)
-        r = kfa_layers(q, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "biberplus", metric="kfa2")
+        r = kfa_layers(q, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "biberplus", metric="wkfa")
         legacy = v2.load_kfa_result("CorIFAessaysNE_5", "essays_bawe_somentetexto_5", tagger_type="biberplus")
         mine = pd.DataFrame(r["rows"]).set_index("Feature")["Effect_Size"]
         theirs = legacy.set_index("Feature")["Effect_Size"]
@@ -117,7 +117,7 @@ def test_feature_table_is_reused_and_invalidated_by_new_layers(tmp_path):
 
 def test_kfa_reports_raw_counts_per_side(v2):
     """A KFA devolve, por atributo, a contagem bruta (total no corpus) de cada lado, além da média por 1000."""
-    r = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", metric="kfa2")
+    r = kfa_layers(v2, "CorIFAessaysNE_5", "essays_bawe_somentetexto_5", "mfte", metric="wkfa")
     raw = feature_table(v2, "CorIFAessaysNE_5", "mfte", per1000=False).drop(columns=["filename", "Words", "TTR"]).sum()
     assert r["rows"] and all("Count_Corpus1" in row and "Count_Corpus2" in row for row in r["rows"])
     for row in r["rows"]:

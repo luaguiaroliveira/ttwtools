@@ -62,10 +62,11 @@ def _table(project: TTWAProject, groups: list[Mapping], layer: str, feature: str
 
 
 def _d(a: np.ndarray, b: np.ndarray, metric: str) -> np.ndarray:
-    """d de Cohen por coluna (a − b). kfa: SD = sqrt((s1²+s2²)/2); kfa2: SD combinado ponderado."""
+    """d de Cohen por coluna (a − b). kfa: SD = sqrt((s1²+s2²)/2); wkfa: SD combinado ponderado."""
+    from .analysis import normalize_metric
     m1, m2 = a.mean(axis=0), b.mean(axis=0)
     v1, v2 = a.var(axis=0, ddof=1), b.var(axis=0, ddof=1)
-    if metric == "kfa2":
+    if normalize_metric(metric) == "wkfa":
         n1, n2 = len(a), len(b)
         sd = np.sqrt(((n1 - 1) * v1 + (n2 - 1) * v2) / (n1 + n2 - 2))
     else:

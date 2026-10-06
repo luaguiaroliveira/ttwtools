@@ -1094,7 +1094,9 @@ def _configure_compare(p):
     p.add_argument("--corpus2", help="corpus 2 (padrão: o mesmo, comparando grupos com --where/--where2)")
     p.add_argument("--layer", required=True, help="camada: biberplus, mfte, spacy, stanza...")
     p.add_argument("--feature", choices=["tags", "upos", "xpos"], help="o que contar (padrão: tags no BiberPlus/MFTE, upos nos demais)")
-    p.add_argument("--metric", choices=["kfa", "kfa2"], default="kfa")
+    from .analysis import normalize_metric
+    p.add_argument("--metric", choices=["kfa", "wkfa"], type=normalize_metric, default="kfa",
+                   help="kfa (Biber & Egbert) ou wkfa (weighted key feature analysis); kfa2 = nome antigo de wkfa")
     p.add_argument("--min-effect", type=float, default=0.0)
     p.add_argument("--join", choices=["union", "intersection"], default="union")
     p.add_argument("--where", action="append", metavar="CHAVE=VALOR", help="filtro do lado 1")

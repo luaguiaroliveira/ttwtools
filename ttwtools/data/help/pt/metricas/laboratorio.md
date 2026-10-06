@@ -15,4 +15,4 @@ relacionados: cohens_d, keyness
 ## Cuidados
 - [É **exploratório**: os métodos estão em avaliação e a API pode mudar]{marca rosa}.
 - [Muitos atributos × muitos grupos = muitos testes]{marca rosa}: olhe tamanhos de efeito e p corrigido.
-- [Grupos com menos de 5 textos dão estimativas instáveis]{marca rosa}; grupos de tamanhos muito diferentes pedem cuidado (a métrica kfa2 pondera pelo tamanho).
+- [Grupos com menos de 5 textos dão estimativas instáveis]{marca rosa}; grupos de tamanhos muito diferentes pedem cuidado (a métrica wkfa pondera pelo tamanho).

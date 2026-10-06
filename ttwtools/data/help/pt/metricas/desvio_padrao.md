@@ -24,9 +24,9 @@ O Corpus B tem taxas 0, 4, 4, 8: a mesma média (4), mas maior dispersão. A var
 O *d* de Cohen divide a diferença entre as médias por [**um único número** que reúne a dispersão dos dois corpora]{sublinhado azul}: o desvio-padrão combinado.
 
 $$\text{kfa:}\quad SD_{\text{combinado}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
-$$\text{kfa2:}\quad SD_{\text{combinado}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
+$$\text{wkfa:}\quad SD_{\text{combinado}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
-[Na kfa os dois corpora pesam igual; na kfa2 (para corpora com números diferentes de textos) o corpus maior pesa mais]{marca verde}, porque sua estimativa de variação é mais confiável.
+[Na kfa os dois corpora pesam igual; na wkfa (para corpora com números diferentes de textos) o corpus maior pesa mais]{marca verde}, porque sua estimativa de variação é mais confiável.
 
 ## Como ler
 - [SD pequeno: os textos são consistentes]{marca verde}; uma diferença pequena entre as médias já é marcante.

@@ -11,5 +11,5 @@
  "lab.warn.experimental": "Experimental method: exploratory result, not evidence. The API and figures may change.",
  "lab.warn.multiple": "{tests} comparisons: with this many tests some differences appear by chance. Prefer effect sizes and corrected p.",
  "lab.warn.small_group": "Groups with fewer than {n} texts ({groups}): estimates are unstable.",
- "lab.warn.unequal": "Groups of very different sizes ({min} to {max} texts): compare with care (the kfa2 metric weights by size)."
+ "lab.warn.unequal": "Groups of very different sizes ({min} to {max} texts): compare with care (the wkfa metric weights by size)."
 }

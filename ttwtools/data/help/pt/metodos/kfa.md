@@ -82,14 +82,14 @@ $d = -3/2 =$ **$-1{,}5$** → [efeito grande: o atributo é fortemente distintiv
 Sim. [Um atributo raro pode ser fortemente key se for usado de forma consistente em um corpus e quase ausente no outro]{marca amarelo}. [A frequência sozinha não decide a keyness]{marca amarelo}.
 :::
 
-## 6. Qual método usar: kfa ou kfa2?
+## 6. Qual método usar: kfa ou wkfa?
 | Seus dois corpora            | Use                   |
 | :--------------------------- | :-------------------- |
 | mesmo número de textos       | **kfa** (Biber, 2023) |
-| números diferentes de textos | **kfa2** (ponderada)  |
+| números diferentes de textos | **wkfa** (*weighted key feature analysis*, ponderada)  |
 
-:::details O que muda no kfa2?
-No kfa2, o desvio-padrão combinado é [**ponderado pelo tamanho do corpus**]{sublinhado azul}:
+:::details O que muda no wkfa?
+No wkfa (*weighted key feature analysis*, KFA ponderada), o desvio-padrão combinado é [**ponderado pelo tamanho do corpus**]{sublinhado azul}:
 
 $$SD_{\text{combinado}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
@@ -107,7 +107,7 @@ O Corpus 2 (o sinal é negativo).
 O atributo B.
 :::
 :::details 4) Os corpora têm 50 e 120 textos. Qual método?
-kfa2, porque os corpora têm números diferentes de textos.
+wkfa, porque os corpora têm números diferentes de textos.
 :::
 
 ## 8. Análise funcional
