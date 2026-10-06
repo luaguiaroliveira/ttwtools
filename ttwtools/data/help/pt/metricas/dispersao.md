@@ -5,8 +5,8 @@ relacionados: keyness, kwic
 ---
 [A frequência não diz **onde** a palavra aparece]{marca amarelo}. Duas palavras com 100 ocorrências podem estar em todos os textos ou num só.
 
-- **Range:** em quantos textos a palavra aparece.
-- **DP de Gries:** compara a parte das ocorrências em cada texto com a parte que o texto representa no corpus. [DP = ½ Σ |oᵢ − eᵢ|]{sublinhado azul}. **0** = espalhada como o esperado; perto de **1** = concentrada. O DP normalizado vai de 0 a 1 independentemente do número de textos.
+- [**Range:** em quantos textos a palavra aparece]{sublinhado azul}.
+- [**DP de Gries:** compara a parte das ocorrências em cada texto com a parte que o texto representa no corpus]{marca amarelo}. [$DP = \frac{1}{2} \sum_i \lvert o_i - e_i \rvert$]{sublinhado azul}. [**0** = espalhada como o esperado; perto de **1** = concentrada]{marca verde}. O DP normalizado vai de 0 a 1 independentemente do número de textos.
 
 O gráfico de "código de barras" mostra cada ocorrência como um traço na posição relativa dentro de cada texto.
 
@@ -15,4 +15,4 @@ O gráfico de "código de barras" mostra cada ocorrência como um traço na posi
 
 ## Cuidados
 - [Com poucos textos, o DP varia muito]{marca rosa}.
-- Textos de tamanhos muito diferentes pesam diferente no esperado (eᵢ).
+- Textos de tamanhos muito diferentes pesam diferente no esperado ($e_i$).

@@ -45,6 +45,11 @@ Convenção dos verbetes (para o leitor aprender o código de cores):
 Os destaques começam **ocultos**: o leitor clica no **olho** no alto do verbete para vê-los, e cada trecho se desenha
 (como escrito à mão) ao entrar na tela. Use poucos: um ou dois por parágrafo, só no que não pode ser perdido.
 
+## Fórmulas
+
+Sempre em KaTeX, nunca em código nem em texto solto: `$d$`, `$S_{\text{comb}}$` no meio do texto e `$$d = \frac{M_1 - M_2}{SD}$$` sozinho na linha.
+Uma fórmula também pode receber destaque: `[$d = \dfrac{a}{b}$]{marca amarelo}`. Evite bloco indentado (vira código) e crases para fórmulas.
+
 ## Antes de guardar
 
     python -m ttwtools help --check          # tradução faltando, relacionados e destaques inválidos

@@ -5,7 +5,7 @@ relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyne
 ---
 > **In one sentence:** KF analysis is a [quantitative method]{sublinhado azul} for identifying the lexico-grammatical features that distinguish two text varieties.
 
-**Definition.** KF analysis (Key Feature Analysis, by Egbert and Biber) is an exploratory, quantitative method for comparing two text varieties (corpora or sub-corpora). It works with a set of functionally motivated lexico-grammatical features, measures the rate of occurrence of each feature in every text, and identifies the features that distinguish the two varieties using Cohen's *d*, which expresses the difference between the two corpora relative to the variation across texts.
+**Definition.** KF analysis (Key Feature Analysis, by Egbert and Biber) is an exploratory, quantitative method for comparing two text varieties (corpora or sub-corpora). It works with a set of [functionally motivated lexico-grammatical features]{sublinhado azul}, [measures the rate of occurrence of each feature in every text]{marca amarelo}, and identifies the features that distinguish the two varieties using Cohen's *d*, which expresses [the difference between the two corpora relative to the variation across texts]{marca amarelo}.
 
 **How to use this page.** Click a box title for an extra explanation, and [move the sliders in section 4]{marca verde} to see how *d* changes.
 
@@ -25,24 +25,24 @@ relacionados: desvio_padrao, cohens_d, normalizacao_por_mil, tagset_biber, keyne
 - Choosing features to teach or to analyze further.
 
 :::details How is it different from a keyword analysis?
-A keyword analysis looks for words (or POS tags) that are significantly over- or under-used across a whole corpus. KF analysis works **per text**, with **functionally selected features**, and reports an **effect size** (how large the difference is), not a yes/no significance decision.
+A keyword analysis looks for words (or POS tags) that are significantly over- or under-used across a whole corpus. KF analysis [works **per text**, with **functionally selected features**, and reports an **effect size**]{marca amarelo} (how large the difference is), [not a yes/no significance decision]{marca rosa}.
 :::
 
 ## 3. Cohen's *d* in KF analysis: the idea
-In KF analysis, we calculate a Cohen's *d* value for **each feature**, and every value compares the same feature in two corpora. The x-axis is the rate of the feature in a text; each text of a corpus contributes one point, and the curve is the distribution of those rates. The two curves are the same feature measured in Corpus 1 and Corpus 2, never two different features.
-- **The center of the curve** is the mean (M): the average rate of the feature across the texts of that corpus.
-- **The width of the curve** is the spread of the rates around that mean, summarized by the standard deviation (SD): how much the feature varies from text to text.
-- **Cohen's *d* = difference between the two means / spread.** A large $\lvert d\rvert$ means the feature is distinctive of one corpus compared with the other.
+In KF analysis, [we calculate a Cohen's *d* value for **each feature**]{marca amarelo}, and every value compares the same feature in two corpora. The x-axis is the rate of the feature in a text; each text of a corpus contributes one point, and the curve is the distribution of those rates. The two curves are the same feature measured in Corpus 1 and Corpus 2, never two different features.
+- [**The center of the curve**]{sublinhado azul} is the mean (M): the average rate of the feature across the texts of that corpus.
+- [**The width of the curve**]{sublinhado azul} is the spread of the rates around that mean, summarized by the standard deviation (SD): how much the feature varies from text to text.
+- [$d = \dfrac{\text{difference between the two means}}{\text{spread}}$]{marca amarelo}. A large $\lvert d\rvert$ [means the feature is distinctive of one corpus compared with the other]{marca verde}.
 
 :::details Why divide by the spread?
-[The spread is the ruler]{sublinhado azul}. The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread). A gap of 3 occurrences per 1,000 words is a strong marker if the texts vary by about 2, but a weak one if they vary by about 15.
+[The spread is the ruler]{sublinhado azul}. [The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread)]{marca verde}. A gap of 3 occurrences per 1,000 words is a strong marker if the texts vary by about 2, but a weak one if they vary by about 15.
 :::
 
 ## 4. How *d* is calculated (step by step)
 $$d = \frac{M_1 - M_2}{SD_{\text{pooled}}}$$
 
 - **$M_1$, $M_2$**: the means of the feature (the average rate across texts) in the two corpora.
-- **$SD_{\text{pooled}}$**: the pooled standard deviation, a single number for how much the texts vary inside the two corpora. It is the denominator of *d*, so it sets the unit (the ruler) in which the difference between the means is measured. See the **Standard Deviation (SD)** card.
+- **$SD_{\text{pooled}}$**: the pooled standard deviation, [a single number for how much the texts vary inside the two corpora]{marca amarelo}. It is the denominator of *d*, so [it sets the unit (the ruler) in which the difference between the means is measured]{marca verde}. See the **Standard Deviation (SD)** card.
 
 $$SD_{\text{pooled}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
 
@@ -54,13 +54,13 @@ $$SD_{\text{pooled}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
 $M_1 = 4$; $M_2 = 7$.
 :::
 :::details Step 2. The gap (numerator)
-$M_1 - M_2 = 4 - 7 =$ **$-3$**. The negative sign means the feature is more frequent in **Corpus 2**.
+$M_1 - M_2 = 4 - 7 =$ **$-3$**. [The negative sign means the feature is more frequent in **Corpus 2**]{marca verde}.
 :::
 :::details Step 3. The spread (denominator)
 Each corpus has a standard deviation of 2. The pooled standard deviation is $\sqrt{(2^2 + 2^2)/2} =$ **$2$**.
 :::
 :::details Step 4. Divide
-$d = -3/2 =$ **$-1.5$** → a large effect: the feature is strongly distinctive of Corpus 2.
+$d = -3/2 =$ **$-1.5$** → [a large effect: the feature is strongly distinctive of Corpus 2]{marca verde}.
 :::
 
 **Try it.** Move the sliders to see how the two means and the pooled standard deviation change *d*.
@@ -79,7 +79,7 @@ $d = -3/2 =$ **$-1.5$** → a large effect: the feature is strongly distinctive 
 - [These cut-offs are conventions, not fixed laws]{marca rosa}.
 
 :::details Can a rare feature be key?
-Yes. A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other. [Frequency alone does not decide keyness]{marca amarelo}.
+Yes. [A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other]{marca amarelo}. [Frequency alone does not decide keyness]{marca amarelo}.
 :::
 
 ## 6. Which method: kfa or kfa2?
@@ -89,11 +89,11 @@ Yes. A rare feature can be strongly key if it is used consistently in one corpus
 | different numbers of texts | **kfa2** (weighted)   |
 
 :::details What changes in kfa2?
-In kfa2, the pooled standard deviation is **weighted by corpus size**:
+In kfa2, the pooled standard deviation is [**weighted by corpus size**]{sublinhado azul}:
 
 $$SD_{\text{pooled}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
-The larger corpus gets more weight, because its estimate of variation is more reliable.
+[The larger corpus gets more weight, because its estimate of variation is more reliable]{marca verde}.
 :::
 
 ## 7. Check yourself
@@ -111,15 +111,15 @@ kfa2, because the corpora have different numbers of texts.
 :::
 
 ## 8. Functional analysis
-The quantitative part ends with the ranking by $\lvert d\rvert$. That ranking says **which** features are key and **for which corpus**, but it does not say **why**. The last step is qualitative: we interpret the function that each key feature performs in the variety, using examples from the texts.
-- Work from **examples in both corpora**, not only from the value of *d*.
+The quantitative part ends with the ranking by $\lvert d\rvert$. That ranking says **which** features are key and **for which corpus**, [but it does not say **why**]{marca rosa}. [The last step is qualitative: we interpret the function that each key feature performs in the variety]{marca amarelo}, using examples from the texts.
+- [Work from **examples in both corpora**, not only from the value of *d*]{marca verde}.
 - Base the interpretation on the **grammar**, on **previous research**, and on the **situation** of the variety (who communicates, with whom, and for what purpose).
-- Ask what the feature **helps the writer or speaker do** in that variety.
+- [Ask what the feature **helps the writer or speaker do** in that variety]{marca verde}.
 - Present the interpretation with **evidence** (patterns and concordance lines, in KWIC or the Reader).
 
 ## 9. Warnings
-- *d* is an **approximation**: it assumes roughly normal data and similar variances. Linguistic data are often skewed.
-- *d* is **not** a significance test: it does not tell whether the difference could be due to chance.
-- Small corpora give unstable values.
+- [*d* is an **approximation**: it assumes roughly normal data and similar variances]{marca rosa}. Linguistic data are often skewed.
+- [*d* is **not** a significance test: it does not tell whether the difference could be due to chance]{sublinhado vermelho}.
+- [Small corpora give unstable values]{marca rosa}.
 - Always check **examples from the texts**, not only the number.
-- Every value is relative to the corpus used as reference.
+- [Every value is relative to the corpus used as reference]{marca rosa}.

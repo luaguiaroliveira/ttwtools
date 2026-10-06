@@ -7,8 +7,8 @@ The standard deviation (SD) [measures how far, on average, the rates of the text
 
 1. Find the **mean** (M) of the rates.
 2. For each text, compute the **deviation** from the mean: rate minus M.
-3. **Square** each deviation, add them, and divide by (n minus 1). This is the **variance**.
-4. Take the **square root** of the variance. This is the **SD**.
+3. **Square** each deviation, add them, and divide by (n minus 1). [This is the **variance**]{sublinhado azul}.
+4. Take the **square root** of the variance. [This is the **SD**]{sublinhado azul}.
 
 $$\text{variance} = \frac{\sum (x_i - M)^2}{n - 1}$$
 $$SD = \sqrt{\text{variance}}$$
@@ -26,7 +26,7 @@ Cohen's *d* divides the difference between the means by [**a single number** tha
 $$\text{kfa:}\quad SD_{\text{pooled}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
 $$\text{kfa2:}\quad SD_{\text{pooled}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
-In kfa the two corpora weigh the same; in kfa2 (for corpora with different numbers of texts) the larger corpus weighs more, because its estimate of variation is more reliable.
+[In kfa the two corpora weigh the same; in kfa2 (for corpora with different numbers of texts) the larger corpus weighs more]{marca verde}, because its estimate of variation is more reliable.
 
 ## How to read it
 - [Small SD: the texts are consistent]{marca verde}; even a small gap between the means is striking.

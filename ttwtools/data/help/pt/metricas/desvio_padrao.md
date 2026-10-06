@@ -7,8 +7,8 @@ O desvio-padrão (SD, de *standard deviation*) [mede o quanto, em média, as tax
 
 1. Encontre a **média** (M) das taxas.
 2. Para cada texto, calcule o **desvio** em relação à média: taxa menos M.
-3. **Eleve ao quadrado** cada desvio, some e divida por (n menos 1). Isso é a **variância**.
-4. Tire a **raiz quadrada** da variância. Isso é o **SD**.
+3. **Eleve ao quadrado** cada desvio, some e divida por (n menos 1). [Isso é a **variância**]{sublinhado azul}.
+4. Tire a **raiz quadrada** da variância. [Isso é o **SD**]{sublinhado azul}.
 
 $$\text{variância} = \frac{\sum (x_i - M)^2}{n - 1}$$
 $$SD = \sqrt{\text{variância}}$$
@@ -26,7 +26,7 @@ O *d* de Cohen divide a diferença entre as médias por [**um único número** q
 $$\text{kfa:}\quad SD_{\text{combinado}} = \sqrt{\frac{SD_1^2 + SD_2^2}{2}}$$
 $$\text{kfa2:}\quad SD_{\text{combinado}} = \sqrt{\frac{(n_1 - 1)\,SD_1^2 + (n_2 - 1)\,SD_2^2}{n_1 + n_2 - 2}}$$
 
-Na kfa os dois corpora pesam igual; na kfa2 (para corpora com números diferentes de textos) o corpus maior pesa mais, porque sua estimativa de variação é mais confiável.
+[Na kfa os dois corpora pesam igual; na kfa2 (para corpora com números diferentes de textos) o corpus maior pesa mais]{marca verde}, porque sua estimativa de variação é mais confiável.
 
 ## Como ler
 - [SD pequeno: os textos são consistentes]{marca verde}; uma diferença pequena entre as médias já é marcante.
