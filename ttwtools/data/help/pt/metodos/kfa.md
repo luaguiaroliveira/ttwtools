@@ -29,13 +29,18 @@ A análise de palavras-chave procura palavras (ou classes gramaticais) significa
 :::
 
 ## 3. O *d* de Cohen na análise de KF: a ideia
-Na análise de KF, [calculamos um valor de *d* de Cohen para **cada atributo**]{marca amarelo}, e cada valor compara o mesmo atributo em dois corpora. O eixo x é a taxa do atributo em um texto; cada texto do corpus fornece um ponto, e a curva é a distribuição dessas taxas. As duas curvas são o mesmo atributo medido no Corpus 1 e no Corpus 2, nunca dois atributos diferentes.
+
+![Um atributo medido em dois corpora: as duas curvas são o mesmo atributo (substantivos comuns, NN). A distância entre as médias é a diferença a medir; a largura de cada curva é a dispersão usada como régua.](/api/help/assets/kfa_big_picture.png)
+
+Na análise de KF, [calculamos um valor de *d* de Cohen para **cada atributo**]{marca amarelo}, e cada valor compara o mesmo atributo em dois corpora. Na figura, o atributo é substantivos comuns (NN). O eixo x é a taxa do atributo em um texto; cada texto do corpus fornece um ponto, e a curva é a distribuição dessas taxas. As duas curvas são o mesmo atributo medido no Corpus 1 e no Corpus 2.
 - [**O centro da curva**]{sublinhado azul} é a média (M): a taxa média do atributo entre os textos daquele corpus.
 - [**A largura da curva**]{sublinhado azul} é a dispersão das taxas em torno dessa média, resumida pelo desvio-padrão (SD): o quanto o atributo varia de texto para texto.
 - [$d = \dfrac{\text{diferença entre as médias}}{\text{dispersão}}$]{marca amarelo}. Um $\lvert d\rvert$ grande [significa que o atributo é distintivo de um corpus em comparação com o outro]{marca verde}.
 
 :::details Por que dividir pela dispersão?
-[A dispersão é a régua]{sublinhado azul}. [A mesma distância entre as duas médias vale mais quando os textos são consistentes (dispersão pequena) e menos quando são heterogêneos (dispersão grande)]{marca verde}. Uma diferença de 3 ocorrências por 1.000 palavras é um marcador forte se os textos variam cerca de 2, mas fraco se variam cerca de 15.
+[A dispersão é a régua]{sublinhado azul}. [A mesma diferença entre as médias vale mais quando os textos são consistentes (dispersão pequena) e menos quando são heterogêneos (dispersão grande)]{marca verde}.
+
+Tome dois corpora cujas taxas são 2, 4, 6 (média 4) e 5, 7, 9 (média 7). A diferença é 7 − 4 = **3**. Dentro de cada corpus, cada texto está a cerca de 2 ocorrências da própria média, então a dispersão é cerca de **2**, e $d = 3/2 =$ **$1{,}5$**: efeito grande, porque a diferença é maior que a dispersão. Agora mantenha a mesma diferença de 3, mas deixe os textos variarem muito mais em torno das médias. Tome dois corpora cujas taxas são 15, 30, 45 (média 30) e 18, 33, 48 (média 33). A diferença ainda é 33 − 30 = 3, mas agora cada texto está a cerca de 15 ocorrências da própria média, então a dispersão é cerca de **15** e $d = 3/15 =$ **$0{,}2$**: efeito pequeno, porque a diferença agora se perde dentro da dispersão.
 :::
 
 ## 4. Como o *d* é calculado (passo a passo)
@@ -63,6 +68,22 @@ Cada corpus tem desvio-padrão 2. O desvio-padrão combinado é $\sqrt{(2^2 + 2^
 $d = -3/2 =$ **$-1{,}5$** → [efeito grande: o atributo é fortemente distintivo do Corpus 2]{marca verde}.
 :::
 
+:::details Como o desvio-padrão (SD) é calculado?
+O desvio-padrão (SD) [mede o quanto, em média, as taxas dos textos se afastam da média]{marca amarelo}. Ele é construído em quatro passos.
+
+1. Encontre a **média** (M) das taxas.
+2. Para cada texto, calcule o **desvio** em relação à média: taxa menos M.
+3. **Eleve ao quadrado** cada desvio, some e divida por (n menos 1). Isso é a **variância**.
+4. Tire a **raiz quadrada** da variância. Isso é o **SD**.
+
+$$\text{variância} = \frac{\sum (x_i - M)^2}{n - 1}$$
+$$SD = \sqrt{\text{variância}}$$
+
+**Exemplo.** O Corpus A tem taxas 2, 4, 4, 6, então M = 4. Os desvios são −2, 0, 0, +2, e seus quadrados são 4, 0, 0, 4. A variância é $8/3 \approx 2{,}67$, então $SD \approx 1{,}63$. O Corpus B tem taxas 0, 4, 4, 8, a mesma média (4) mas maior dispersão: a variância é $32/3 \approx 10{,}67$, então $SD \approx 3{,}27$.
+
+![Dois corpora com a mesma média (4) mas dispersões diferentes. Cada linha é um texto, a linha tracejada é a média, as setas são os desvios e a faixa sombreada é um SD em torno da média.](/api/help/assets/kfa_sd_explained.png)
+:::
+
 **Experimente.** Mova os controles para ver como as duas médias e o desvio-padrão combinado mudam o *d*.
 
 ::cohen-widget::
@@ -77,6 +98,11 @@ $d = -3/2 =$ **$-1{,}5$** → [efeito grande: o atributo é fortemente distintiv
 
 - [O **sinal** indica a direção: **positivo → Corpus 1**, **negativo → Corpus 2**]{marca verde}.
 - [Esses pontos de corte são convenções, não leis fixas]{marca rosa}.
+
+Com dados reais, a leitura funciona do mesmo modo:
+
+![Três atributos reais ordenados por tamanho de efeito. O tempo passado (VBD) não é key, pois as curvas se sobrepõem muito; os adjetivos (JJ) são um marcador moderado; e as locuções prepositivas (PIN) são um marcador grande, pois as curvas se separam. Em cada painel, as duas curvas são o mesmo atributo nos dois corpora.](/api/help/assets/kfa_reading_d.png)
+*Fonte: elaborado pelo autor a partir de dados coletados nesta tese.*
 
 :::details Um atributo raro pode ser key?
 Sim. [Um atributo raro pode ser fortemente key se for usado de forma consistente em um corpus e quase ausente no outro]{marca amarelo}. [A frequência sozinha não decide a keyness]{marca amarelo}.
@@ -118,8 +144,7 @@ A parte quantitativa termina com o ranking por $\lvert d\rvert$. Esse ranking di
 - Apresente a interpretação com **evidências** (padrões e linhas de concordância, no KWIC ou no Leitor).
 
 ## 9. Avisos
-- [O *d* é uma **aproximação**: pressupõe dados aproximadamente normais e variâncias semelhantes]{marca rosa}. Dados linguísticos costumam ser assimétricos.
+- [O *d* é uma **aproximação**: pressupõe que a taxa do atributo se distribui aproximadamente de forma normal entre os textos e que os dois corpora têm variâncias semelhantes]{marca rosa}. Na prática, a distribuição da taxa de um atributo entre os textos de um corpus costuma ser assimétrica (muitos textos com taxa baixa e poucos com taxa alta).
 - [O *d* **não** é um teste de significância: não diz se a diferença pode ser devida ao acaso]{sublinhado vermelho}.
-- [Corpora pequenos geram valores instáveis]{marca rosa}.
 - Confira sempre **exemplos dos textos**, e não apenas o número.
-- [Todo valor é relativo ao corpus usado como referência]{marca rosa}.
+

@@ -6,6 +6,16 @@ All notable changes to ttwtools are documented here.
 
 ## [Unreleased]
 
+## [0.3.1] — 2026-10-06
+
+### Added
+- Images in the help topics: `![alt](/api/help/assets/name.png)` and the new `help.asset_path(name)`, which resolves a file in `data/help/assets/` (used by the app route `GET /api/help/assets/{name}`). `data/help/assets/*` is shipped as package data.
+- Figures in the KFA method card (`kfa_big_picture.png`, `kfa_sd_explained.png`, `kfa_reading_d.png`).
+
+### Changed
+- KFA help text (pt/en) revised against the updated material: figures in sections 3, 4 and 5, the "why divide by the spread" example, the standard-deviation step-by-step and the warnings expanded. The weighted method stays `wkfa`; the Portuguese text uses "atributo".
+- Editing guide `COMO_EDITAR.md` documents images.
+
 ## [0.3.0] — 2026-10-05
 
 ### Changed

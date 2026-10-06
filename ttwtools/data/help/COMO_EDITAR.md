@@ -19,6 +19,15 @@ tabelas (`| a | b |`), fórmulas (`$d$` no texto; `$$...$$` sozinho na linha),
 blocos recolhíveis (`:::details Título` ... `:::`) e linha `---`.
 `::cohen-widget::` (sozinho na linha) insere o widget interativo: não apague.
 
+## Imagens
+
+Coloque o arquivo em `data/help/assets/` e referencie pelo caminho da API:
+
+    ![descrição da imagem](/api/help/assets/nome.png)
+
+A descrição (`alt`) é lida por leitores de tela e aparece se a imagem não carregar; escreva-a
+completa. Use imagens pequenas (PNG/JPG) e nome sem espaços.
+
 ## Destaques (marca-texto e caneta)
 
 Duas "canetas": **marca-texto** (`marca`) e **caneta de tinta** (`sublinhado`). Marque o trecho com colchetes e,

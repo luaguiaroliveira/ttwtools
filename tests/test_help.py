@@ -82,3 +82,9 @@ def test_check_reports_problems(tmp_path, monkeypatch):
 
 def test_shipped_help_texts_are_clean():
     assert h.check() == []
+
+
+def test_help_assets_come_from_the_package():
+    assert h.asset_path("kfa_big_picture.png").is_file()
+    assert h.asset_path("nada.png") is None
+    assert h.asset_path("../kfa.md") is None and h.asset_path("sub/x.png") is None and h.asset_path("") is None

@@ -29,13 +29,18 @@ A keyword analysis looks for words (or POS tags) that are significantly over- or
 :::
 
 ## 3. Cohen's *d* in KF analysis: the idea
-In KF analysis, [we calculate a Cohen's *d* value for **each feature**]{marca amarelo}, and every value compares the same feature in two corpora. The x-axis is the rate of the feature in a text; each text of a corpus contributes one point, and the curve is the distribution of those rates. The two curves are the same feature measured in Corpus 1 and Corpus 2, never two different features.
+
+![One feature measured in two corpora: both curves are the same feature (common nouns, NN). The distance between the means is the difference to be measured; the width of each curve is the spread used as the ruler.](/api/help/assets/kfa_big_picture.png)
+
+In KF analysis, [we calculate a Cohen's *d* value for **each feature**]{marca amarelo}, and every value compares the same feature in two corpora. In the figure, the feature is common nouns (NN). The x-axis is the rate of the feature in a text; each text of a corpus contributes one point, and the curve is the distribution of those rates. The two curves are the same feature measured in Corpus 1 and Corpus 2.
 - [**The center of the curve**]{sublinhado azul} is the mean (M): the average rate of the feature across the texts of that corpus.
 - [**The width of the curve**]{sublinhado azul} is the spread of the rates around that mean, summarized by the standard deviation (SD): how much the feature varies from text to text.
 - [$d = \dfrac{\text{difference between the two means}}{\text{spread}}$]{marca amarelo}. A large $\lvert d\rvert$ [means the feature is distinctive of one corpus compared with the other]{marca verde}.
 
 :::details Why divide by the spread?
-[The spread is the ruler]{sublinhado azul}. [The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread)]{marca verde}. A gap of 3 occurrences per 1,000 words is a strong marker if the texts vary by about 2, but a weak one if they vary by about 15.
+[The spread is the ruler]{sublinhado azul}. [The same gap between the two means counts for more when the texts are consistent (small spread) and for less when the texts are heterogeneous (large spread)]{marca verde}.
+
+Take two corpora whose rates are 2, 4, 6 (mean 4) and 5, 7, 9 (mean 7). The gap is 7 − 4 = **3**. Inside each corpus, every text sits about 2 occurrences from its own mean, so the spread is about **2**, and $d = 3/2 =$ **$1.5$**: a large effect, because the gap is bigger than the spread. Now keep the same gap of 3, but let the texts vary much more around their means. Take two corpora whose rates are 15, 30, 45 (mean 30) and 18, 33, 48 (mean 33). The gap is still 33 − 30 = 3, but now every text sits about 15 occurrences from its own mean, so the spread is about **15** and $d = 3/15 =$ **$0.2$**: a small effect, because the gap is now lost inside the spread.
 :::
 
 ## 4. How *d* is calculated (step by step)
@@ -63,6 +68,22 @@ Each corpus has a standard deviation of 2. The pooled standard deviation is $\sq
 $d = -3/2 =$ **$-1.5$** → [a large effect: the feature is strongly distinctive of Corpus 2]{marca verde}.
 :::
 
+:::details How is the standard deviation (SD) calculated?
+The standard deviation (SD) [measures how far, on average, the rates of the texts lie from the mean]{marca amarelo}. It is built in four steps.
+
+1. Find the **mean** (M) of the rates.
+2. For each text, compute the **deviation** from the mean: rate minus M.
+3. **Square** each deviation, add them, and divide by (n minus 1). This is the **variance**.
+4. Take the **square root** of the variance. This is the **SD**.
+
+$$\text{variance} = \frac{\sum (x_i - M)^2}{n - 1}$$
+$$SD = \sqrt{\text{variance}}$$
+
+**Example.** Corpus A has rates 2, 4, 4, 6, so M = 4. The deviations are −2, 0, 0, +2, and their squares are 4, 0, 0, 4. The variance is $8/3 \approx 2.67$, so $SD \approx 1.63$. Corpus B has rates 0, 4, 4, 8, the same mean (4) but a larger spread: the variance is $32/3 \approx 10.67$, so $SD \approx 3.27$.
+
+![Two corpora with the same mean (4) but different spreads. Each row is one text, the dashed line is the mean, the arrows are the deviations, and the shaded band is one SD around the mean.](/api/help/assets/kfa_sd_explained.png)
+:::
+
 **Try it.** Move the sliders to see how the two means and the pooled standard deviation change *d*.
 
 ::cohen-widget::
@@ -77,6 +98,11 @@ $d = -3/2 =$ **$-1.5$** → [a large effect: the feature is strongly distinctive
 
 - [The **sign** gives the direction: **positive → Corpus 1**, **negative → Corpus 2**]{marca verde}.
 - [These cut-offs are conventions, not fixed laws]{marca rosa}.
+
+With real data, the reading works the same way:
+
+![Three real features ordered by effect size. Past tense (VBD) is not key, since the curves overlap heavily; adjectives (JJ) are a moderate marker; and prepositional phrases (PIN) are a large marker, since the curves separate. In each panel the two curves are the same feature in the two corpora.](/api/help/assets/kfa_reading_d.png)
+*Source: elaborated by the author from data collected in this thesis.*
 
 :::details Can a rare feature be key?
 Yes. [A rare feature can be strongly key if it is used consistently in one corpus and almost absent in the other]{marca amarelo}. [Frequency alone does not decide keyness]{marca amarelo}.
@@ -118,8 +144,6 @@ The quantitative part ends with the ranking by $\lvert d\rvert$. That ranking sa
 - Present the interpretation with **evidence** (patterns and concordance lines, in KWIC or the Reader).
 
 ## 9. Warnings
-- [*d* is an **approximation**: it assumes roughly normal data and similar variances]{marca rosa}. Linguistic data are often skewed.
+- [*d* is an **approximation**: it assumes that the feature's rate is roughly normally distributed across the texts and that the two corpora have similar variances]{marca rosa}. In practice, the distribution of a feature's rate across the texts of a corpus is often skewed (many texts with a low rate and a few with a high rate).
 - [*d* is **not** a significance test: it does not tell whether the difference could be due to chance]{sublinhado vermelho}.
-- [Small corpora give unstable values]{marca rosa}.
 - Always check **examples from the texts**, not only the number.
-- [Every value is relative to the corpus used as reference]{marca rosa}.

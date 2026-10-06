@@ -25,6 +25,15 @@ from pathlib import Path
 from .i18n import LANGS, default_lang, localize, t
 
 _DIR = Path(__file__).parent / "data" / "help"
+_ASSETS = _DIR / "assets"
+
+
+def asset_path(name: str) -> Path | None:
+    """Caminho de uma imagem dos verbetes (`data/help/assets`), ou None se não existir ou o nome for inválido."""
+    if not name or "/" in name or "\\" in name or name.startswith("."):
+        return None
+    path = _ASSETS / name
+    return path if path.is_file() else None
 
 
 def _parse(path: Path) -> dict:
@@ -152,4 +161,4 @@ def render(topic: str, lang: str | None = None) -> str:
     return "\n".join(lines)
 
 
-__all__ = ["LANGS", "get", "topics", "search", "check", "tours", "tour", "render", "localize"]
+__all__ = ["LANGS", "get", "topics", "search", "check", "tours", "tour", "render", "asset_path", "localize"]
