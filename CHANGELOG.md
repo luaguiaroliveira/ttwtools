@@ -6,6 +6,16 @@ All notable changes to ttwtools are documented here.
 
 ## [Unreleased]
 
+## [0.3.0] — 2026-10-05
+
+### Changed
+- **`kfa2` is now `wkfa`** (weighted key feature analysis): `ttwtools.wkfa()`, `metric="wkfa"`, `--metric wkfa`. The old name `kfa2` is still accepted as an input value (`analysis.normalize_metric`), and saved projects are migrated on open (`kfa_results.metric`: `kfa2` → `wkfa`). The function `kfa2()` was removed.
+- Help texts (concepts, methods, metrics, screens) revised in pt and en: formulas in KaTeX, key passages marked.
+
+### Added
+- Highlights in help texts (marker and pen): `[text]{marca amarelo}`, `[text]{sublinhado azul}`, `==text==`.
+- `help.check()` and `ttwtools help --check`: lists missing translations, unknown related topics and invalid highlights. Editing guide in `data/help/COMO_EDITAR.md`.
+
 ## [0.2.0] — 2026-10-01
 
 ### Added
