@@ -33,6 +33,9 @@ import pandas as pd
 from tqdm.auto import tqdm
 from biberplus.tagger import tag_text, load_config, load_pipeline
 
+from .. import _biberplus_compat
+_biberplus_compat.apply()
+
 from ..tagged_io import write_tagged_jsonl
 
 try:

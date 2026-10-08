@@ -91,6 +91,7 @@ def download_stanza(lang: str, package: str = "default", processors: str = "toke
     if progress:
         progress(0, 1, f"stanza {lang}/{package}")
     stanza.download(lang, package=package, processors=processors, model_dir=str(target), verbose=False)
+    activate()      # o primeiro download da sessão: sem isso o Stanza só acharia o modelo após reiniciar
     if progress:
         progress(1, 1, f"stanza {lang}/{package}")
     return target

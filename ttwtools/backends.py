@@ -200,11 +200,15 @@ class BiberPlusBackend(Backend):
     def _pipeline(self, config: dict):
         key = ("biberplus",)
         if key not in _pipelines:
+            from . import _biberplus_compat
+            _biberplus_compat.apply()
             from biberplus.tagger import load_pipeline
             _pipelines[key] = load_pipeline(config)
         return _pipelines[key]
 
     def tag(self, text, options, components):
+        from . import _biberplus_compat
+        _biberplus_compat.apply()
         from biberplus.tagger import load_config, tag_text  # ImportError → indisponível (tag_corpus)
         from .taggers.biberplus import _tokens_with_offsets_regex
         config = load_config()
