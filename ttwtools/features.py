@@ -78,11 +78,13 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
     feature = resolve_feature(project, sel, feature)
     # Contar é a parte cara. Uma camada (id) nunca muda, então a chave é o conteúdo das camadas escolhidas:
     # o detalhe de uma feature, a galeria e a KFA repetida reaproveitam a tabela (só em memória, por sessão).
-    key = _table_key(project, sel, layer, feature, per1000)
+    # Só a tabela de contagens brutas é guardada: a de "por 1000" sai dela (c * 1000 / Words). Assim a KFA (por 1000)
+    # e o detalhe do atributo (bruta) dividem a mesma contagem em vez de cada um percorrer todos os tokens.
+    key = _table_key(project, sel, layer, feature, False)
     with _TABLES_LOCK:
         if key in _TABLES:
             _TABLES.move_to_end(key)
-            return _TABLES[key].copy()
+            return _per1000(_TABLES[key]) if per1000 else _TABLES[key].copy()
     records = []
     for n_done, (layer_id, doc) in enumerate(sel.items(), 1):
         if progress:
@@ -104,7 +106,7 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
         types = set(words) if layer == "biberplus" else {w.lower() for w in words}   # regra antiga de cada tagger
         rec = {"filename": doc["filename"], "Words": n, "TTR": len(types) / n if n else 0.0}
         for tag, c in counts.items():
-            rec[tag] = (c * 1000 / n if n else 0.0) if per1000 else c
+            rec[tag] = c
         records.append(rec)
     df = pd.DataFrame(records)
     if not df.empty:
@@ -114,6 +116,16 @@ def feature_table(project: TTWAProject, corpus_name: str, layer: str, feature: s
         _TABLES[key] = df.copy()
         while len(_TABLES) > _TABLES_MAX:
             _TABLES.popitem(last=False)
+    return _per1000(df) if per1000 else df
+
+
+def _per1000(raw: pd.DataFrame) -> pd.DataFrame:
+    """Tabela de contagens brutas → por 1000 palavras (0 se o documento não tem palavras)."""
+    df = raw.copy()
+    cols = [c for c in df.columns if c not in ("filename", "Words", "TTR")]
+    if cols:
+        words = df["Words"].astype(float)
+        df[cols] = df[cols].astype(float).mul(1000).div(words.where(words > 0), axis=0).fillna(0.0)
     return df
 
 

@@ -104,8 +104,11 @@ def test_feature_table_is_reused_and_invalidated_by_new_layers(tmp_path):
     b.loc[0, "Words"] = -1                                       # mexer na cópia não estraga o cache
     assert features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=True).equals(a)
     assert len(features._TABLES) == n
-    c = features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=False)      # outra forma: outra entrada
-    assert not c.equals(a) and len(features._TABLES) == n + 1
+    seen = []
+    c = features.feature_table(p, "CorIFAessaysNE_5", "spacy", per1000=False, progress=lambda d, t: seen.append(d))
+    assert not c.equals(a) and len(features._TABLES) == n and seen == []   # bruta e por 1000 dividem a mesma contagem
+    cols = [x for x in c.columns if x not in ("filename", "Words", "TTR")]
+    assert (c[cols].mul(1000).div(c["Words"], axis=0) - a[cols]).abs().max().max() < 1e-9
     doc = p.list_documents("CorIFAessaysNE_5")[0]
     p.save_layer(doc["id"], "spacy", "9", "outro", {"x": 1}, [{"word": "zzz", "lemma": "zzz", "upos": "X", "start_char": 0, "end_char": 3}])
     p._con.commit()
