@@ -596,8 +596,8 @@ def read_document(project: TTWAProject, corpus_name: str, filename: str, layer: 
 
 def tag_counts(project: TTWAProject, corpus_name: str, layer: str | None = None, field: str = "tags") -> dict:
     """Quantas vezes cada etiqueta ocorre no corpus todo (leitor: ordenar por ocorrências no corpus).
-    `field`: "upos", "xpos" ou "tags" (primeira tag do token, como no leitor). Usa a camada mais
-    recente de `layer` (ou de qualquer ferramenta) em cada documento."""
+    `field`: "upos", "xpos" ou "tags" (todas as tags do token — BiberPlus e MFTE podem ter várias). Usa a
+    camada mais recente de `layer` (ou de qualquer ferramenta) em cada documento."""
     if field not in ("upos", "xpos", "tags"):
         raise ValueError("field deve ser upos, xpos ou tags")
     counts: dict[str, int] = {}
@@ -614,7 +614,12 @@ def tag_counts(project: TTWAProject, corpus_name: str, layer: str | None = None,
                 "counts": idquery.tag_counts(store, chosen, field)}
     for layer_id in chosen:
         for t in project.get_tokens(layer_id):
-            v = (t["tags"][0] if t["tags"] else None) if field == "tags" else t[field]
+            if field == "tags":
+                for v in t["tags"] or []:
+                    if v:
+                        counts[v] = counts.get(v, 0) + 1
+                continue
+            v = t[field]
             if v:
                 counts[v] = counts.get(v, 0) + 1
     return {"corpus": corpus_name, "layer": layer, "field": field, "documents": len(docs), "counts": counts}

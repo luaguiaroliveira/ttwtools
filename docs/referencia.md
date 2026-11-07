@@ -1,6 +1,6 @@
 # Referência da API do `ttwtools`
 
-Gerada de `docs/gerar_referencia.py` para a versão 0.2.0. Não edite à mão.
+Gerada de `docs/gerar_referencia.py` para a versão 0.3.1. Não edite à mão.
 
 Funções marcadas com **`ttwtools.nome`** podem ser usadas direto do pacote (`import ttwtools`).
 As demais ficam no módulo indicado (ex.: `from ttwtools.experimental import compare_groups`).
@@ -958,8 +958,8 @@ tag_counts(project: 'TTWAProject', corpus_name: 'str', layer: 'str | None' = Non
 ```
 
 Quantas vezes cada etiqueta ocorre no corpus todo (leitor: ordenar por ocorrências no corpus).
-`field`: "upos", "xpos" ou "tags" (primeira tag do token, como no leitor). Usa a camada mais
-recente de `layer` (ou de qualquer ferramenta) em cada documento.
+`field`: "upos", "xpos" ou "tags" (todas as tags do token — BiberPlus e MFTE podem ter várias). Usa a
+camada mais recente de `layer` (ou de qualquer ferramenta) em cada documento.
 
 <a id="stats"></a>
 ## Estatísticas do corpus
@@ -1215,7 +1215,7 @@ kfa_layers(project: 'TTWAProject', corpus1: 'str', corpus2: 'str', layer: 'str',
 
 KFA (d de Cohen por atributo, por 1000 palavras) entre dois corpora — ou dois
 grupos do mesmo corpus, com `where1`/`where2`. `metric`: kfa (Biber & Egbert)
-ou wkfa (desvio combinado ponderado).
+ou wkfa (weighted key feature analysis: desvio combinado ponderado).
 
 Com `save`, o resultado fica nas análises do projeto junto das camadas usadas; pedir de novo a
 mesma KFA sobre as mesmas camadas devolve o resultado guardado (`reuse=True`; `cached` no
@@ -1518,7 +1518,8 @@ analyze_key_features(corpus1_path: str, corpus2_path: str, min_effect_size: floa
 Realiza a analise de key features (KFA) entre dois corpora norm1000.csv.
 
 metric="kfa"  — formula de Biber & Egbert: SD_pooled = sqrt((SD1^2+SD2^2)/2)  [padrao]
-metric="wkfa" — formula ponderada pelo tamanho: SD_pooled classico (atual)
+metric="wkfa" — formula ponderada pelo tamanho (weighted key feature analysis): SD_pooled classico
+("kfa2" ainda e aceito como nome antigo de "wkfa")
 
 ### `cohens_d` · **`ttwtools.cohens_d`**
 
@@ -1544,13 +1545,13 @@ kfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: st
 
 KFA padrao (Biber & Egbert): SD_pooled = sqrt((SD1^2+SD2^2)/2).
 
-### `wkfa` · **`ttwtools.wkfa`**
+### `normalize_metric`
 
 ```python
-wkfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = 'union')
+normalize_metric(metric: str) -> str
 ```
 
-wKFA (weighted key feature analysis): SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2)).
+*(sem descrição)*
 
 ### `pooled_std` · **`ttwtools.pooled_std`**
 
@@ -1568,12 +1569,39 @@ pooled_std_biber(std1: float, std2: float) -> float
 
 SD combinado conforme Biber & Egbert: sqrt((SD1^2 + SD2^2) / 2).
 
+### `wkfa` · **`ttwtools.wkfa`**
+
+```python
+wkfa(corpus1_path: str, corpus2_path: str, min_effect_size: float = 0.0, join: str = 'union')
+```
+
+wKFA (weighted key feature analysis): SD_pooled ponderado pelo tamanho — sqrt(((n1-1)s1^2+(n2-1)s2^2)/(n1+n2-2)).
+
 <a id="help"></a>
 ## Ajuda e tours
 
 Módulo `ttwtools.help`.
 
 help.py — Textos de ajuda do pacote e do aplicativo (novomodelo.md §13.2).
+
+### `asset_path`
+
+```python
+asset_path(name: 'str') -> 'Path | None'
+```
+
+Caminho de uma imagem dos verbetes (`data/help/assets`), ou None se não existir ou o nome for inválido.
+
+### `check`
+
+```python
+check(lang: 'str | None' = None) -> 'list[str]'
+```
+
+Confere os textos de ajuda e devolve a lista de problemas (vazia = tudo certo).
+
+Verifica: tópico sem tradução em pt/en, título ou resumo vazios, `relacionados` que não existem,
+destaques com tipo/cor desconhecidos e `==` sem par. Para quem edita os `.md` de `data/help`.
 
 ### `get`
 
@@ -1714,7 +1742,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to 'utf-8'.
+encoding defaults to sys.getdefaultencoding().
 errors defaults to 'strict'.
 
 ### `TTWA_EXTENSION` · **`ttwtools.TTWA_EXTENSION`**
@@ -1731,7 +1759,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to 'utf-8'.
+encoding defaults to sys.getdefaultencoding().
 errors defaults to 'strict'.
 
 ### `TTWA_MIME_TYPE` · **`ttwtools.TTWA_MIME_TYPE`**
@@ -1748,7 +1776,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to 'utf-8'.
+encoding defaults to sys.getdefaultencoding().
 errors defaults to 'strict'.
 
 ### `TTWA_MODE_COMPACT` · **`ttwtools.TTWA_MODE_COMPACT`**
@@ -1765,7 +1793,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to 'utf-8'.
+encoding defaults to sys.getdefaultencoding().
 errors defaults to 'strict'.
 
 ### `TTWA_MODE_FULL` · **`ttwtools.TTWA_MODE_FULL`**
@@ -1782,7 +1810,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to 'utf-8'.
+encoding defaults to sys.getdefaultencoding().
 errors defaults to 'strict'.
 
 ### `TTWL_EXTENSION` · **`ttwtools.TTWL_EXTENSION`**
@@ -1799,7 +1827,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to 'utf-8'.
+encoding defaults to sys.getdefaultencoding().
 errors defaults to 'strict'.
 
 ### `add_step` · **`ttwtools.add_step`**

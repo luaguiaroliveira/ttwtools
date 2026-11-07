@@ -731,19 +731,21 @@ def tag_counts(store: IdStore, sel: dict[int, dict], field: str) -> dict[str, in
     ids = s.col(TAGS if field == "tags" else (UPOS if field == "upos" else XPOS))
     vals = s.values(TAGS if field == "tags" else (UPOS if field == "upos" else XPOS))
     if field == "tags":
-        first = []
-        for v in vals:
-            t = json.loads(v) if v else []
-            first.append(t[0] if t else None)
-    else:
-        first = list(vals)
-    label = np.array([bool(f) for f in first], dtype=bool)
+        uniq, first_at, cnt = np.unique(ids, return_index=True, return_counts=True)
+        out: dict[str, int] = {}
+        for k in np.argsort(first_at, kind="stable"):       # cada id é o JSON das tags do token
+            raw = vals[int(uniq[k])]
+            for tag in json.loads(raw) if raw else []:
+                if tag:
+                    out[tag] = out.get(tag, 0) + int(cnt[k])
+        return out
+    label = np.array([bool(v) for v in vals], dtype=bool)
     sel_ids = ids[label[ids]]
     if not len(sel_ids):
         return {}
     uniq, first_at, cnt = np.unique(sel_ids, return_index=True, return_counts=True)
-    out: dict[str, int] = {}
+    out = {}
     for k in np.argsort(first_at, kind="stable"):
-        name = first[int(uniq[k])]
+        name = vals[int(uniq[k])]
         out[name] = out.get(name, 0) + int(cnt[k])
     return out

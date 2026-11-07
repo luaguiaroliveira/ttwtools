@@ -190,6 +190,18 @@ def test_tag_counts_upos_matches_frequency(proj, spacy_model, capsys):
     assert json.loads(capsys.readouterr().out)["counts"] == pos
 
 
+def test_tag_counts_tags_counts_every_tag(proj):
+    ttwtools.tag_corpus(proj, "c", "biberplus")
+    layers = proj.list_layers("c", tool="biberplus")
+    tokens = [t for layer in layers for t in proj.get_tokens(layer["id"])]
+    expected = {}
+    for t in tokens:
+        for tag in t["tags"]:
+            expected[tag] = expected.get(tag, 0) + 1
+    assert any(len(t["tags"]) > 1 for t in tokens)         # há token com várias tags (ex.: PIN, TO, PREP)
+    assert tag_counts(proj, "c", "biberplus", "tags")["counts"] == expected
+
+
 def test_kwic_layer_with_only_tags_shows_first_tag(proj):
     ttwtools.tag_corpus(proj, "c", "biberplus")
     lines = ttwtools.kwic(proj, "c", "cat", layer="biberplus")["lines"]
