@@ -64,14 +64,32 @@ def build_request(tagger: str, options: Mapping[str, Any] | None = None,
             raise ValueError(f"componentes indisponíveis em '{tagger}': {', '.join(bad)} "
                              f"(disponíveis: {', '.join(backend.components)})")
     config = {**effective, "components": comps, "model_version": backend.model_version(effective)}
-    return {"tool": backend.name, "tool_version": backend.tool_version(), "model": backend.model(effective),
+    # `tool` identifica a camada: o modo do MFTE (usual/extendido) muda o nome (mfte/mfte_ext),
+    # para as duas camadas conviverem no projeto e na interface.
+    tool = catalog.layer_tool(tagger, effective) if catalog.has_descriptor(tagger) else backend.name
+    return {"tool": tool, "tool_version": backend.tool_version(), "model": backend.model(effective),
             "config": config, "performance": performance}
 
 
+def _tool_names(tool: str) -> list[str]:
+    """Nomes aceitos em `layers.tool` para um pedido: o próprio e, se for atalho, a ferramenta base
+    (projetos antigos guardavam o MFTE estendido como `mfte`; a camada continua valendo)."""
+    from .taggers import catalog
+    names = [tool]
+    if catalog.has_descriptor(tool):
+        base, _ = catalog.resolve(tool)
+        if base != tool:
+            names.append(base)
+    return names
+
+
 def _candidates(project: TTWAProject, request: dict, where_sql: str, args: tuple) -> list:
+    tools = _tool_names(request["tool"])
+    marks = ",".join("?" * len(tools))
     return project._con.execute(
-        "SELECT id, doc_id, config FROM layers WHERE tool = ? AND tool_version = ? AND model = ? AND " + where_sql,
-        (request["tool"], request["tool_version"], request["model"], *args),
+        f"SELECT id, doc_id, config FROM layers WHERE tool IN ({marks}) AND tool_version = ? AND model = ? AND "
+        + where_sql,
+        (*tools, request["tool_version"], request["model"], *args),
     ).fetchall()
 
 

@@ -64,6 +64,38 @@ def test_import_with_metadata_csv(proj, folder, tmp_path):
     assert [d["filename"] for d in filter_documents(proj, "ensaios", {"nivel": "C1"})] == ["grupoB_texto01.txt"]
 
 
+def _um_corpus_por_pasta(parent, spec):
+    for group, names in spec.items():
+        (parent / group).mkdir(parents=True)
+        for n in names:
+            (parent / group / n).write_text(f"Texto de {n}.", encoding="utf-8")
+
+
+def test_subfolders_preview(proj, tmp_path):
+    parent = tmp_path / "pasta"
+    _um_corpus_por_pasta(parent, {"turmaB": ["b_01.txt"], "turmaA": ["a_01.txt", "a_02.txt"], "vazia": []})
+    (parent / ".oculta").mkdir()
+    (parent / ".oculta" / "x.txt").write_text("x", encoding="utf-8")
+    (parent / "solto.txt").write_text("solto", encoding="utf-8")
+    assert [(f["name"], f["files"]) for f in ttwtools.subfolders(parent)] == [("turmaA", 2), ("turmaB", 1)]
+    assert ttwtools.subfolders(parent)[0]["path"] == str(parent / "turmaA")
+    assert ttwtools.subfolders(tmp_path / "nao_existe") == []
+
+
+def test_import_each_subfolder(proj, tmp_path):
+    parent = tmp_path / "corpora"
+    _um_corpus_por_pasta(parent, {"turmaA": ["x_01.txt", "x_02.txt"], "turmaB": ["y_01.txt"]})
+    r = ttwtools.import_subfolders(proj, parent, filename_fields=["grupo", "texto"])
+    assert [c["corpus"] for c in r["corpora"]] == ["turmaA", "turmaB"]
+    assert r["imported"] == 3 and r["folders"] == ["turmaA", "turmaB"]
+    assert {c["name"] for c in ttwtools.list_corpora(proj)} == {"turmaA", "turmaB"}
+    assert get_document_meta(proj, "turmaA", "x_01.txt") == {"grupo": "x", "texto": "01"}
+    with pytest.raises(ValueError, match="subpasta sem"):
+        ttwtools.import_subfolders(proj, parent, names=["turmaA", "nada"])
+    with pytest.raises(ValueError, match="Nenhuma subpasta"):
+        ttwtools.import_subfolders(proj, tmp_path / "pasta_sem_subpastas")
+
+
 def test_import_csv_corpus(proj, tmp_path):
     src = tmp_path / "corpus.csv"
     src.write_text('filename,text,autor\nd1.txt,"Hello, world.",Ana\n,"Sem nome, com vírgula.",Bia\n', encoding="utf-8")

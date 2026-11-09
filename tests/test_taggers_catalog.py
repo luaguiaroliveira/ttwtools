@@ -73,6 +73,10 @@ def test_build_request_presets_aliases_and_hash():
     assert build_request("spacy", {"components": ["lemma", "pos"]}, preset="rapido")["config"]["components"] == ["lemma", "pos"]
     assert build_request("spacy_upos")["tool"] == "spacy"
     assert build_request("mfte_ext")["config"]["extended"] is True
+    # o modo do MFTE identifica a camada: usual e estendido convivem como mfte e mfte_ext
+    assert build_request("mfte", {"extended": False})["tool"] == "mfte"
+    assert build_request("mfte", {"extended": True})["tool"] == "mfte_ext"
+    assert build_request("mfte_ext")["tool"] == "mfte_ext"
     r1 = build_request("stanza", {"pos_batch_size": 10, "device": "cpu", "package": "default"})
     r2 = build_request("stanza_xpos", {"device": "cuda", "pos_batch_size": 999})
     assert r1["performance"] == {"pos_batch_size": 10, "device": "cpu"}

@@ -104,6 +104,13 @@ def test_layer_satisfies_rule():
     assert not layer_satisfies(layer, {"model": "n", "components": ["pos"]})
 
 
+def test_mfte_estendido_antigo_continua_valendo():
+    from ttwtools.annotate import _tool_names
+    assert _tool_names("mfte_ext") == ["mfte_ext", "mfte"]      # camadas antigas gravadas como mfte
+    assert _tool_names("mfte") == ["mfte"]
+    assert _tool_names("spacy") == ["spacy"]                    # sem atalho, nada a somar
+
+
 def test_resume_after_interruption(proj, fake):
     fake.fail_on = "dog"
     with pytest.raises(RuntimeError):

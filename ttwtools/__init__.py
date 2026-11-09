@@ -78,6 +78,8 @@ _EXPORTS = {
     "InsufficientDiskSpace": "storage",
     # corpus: importação, metadados, tokenização simples, filtros
     "import_corpus": "corpus",
+    "import_subfolders": "corpus",
+    "subfolders": "corpus",
     "preview_filenames": "corpus",
     "pending_steps": "pipeline",
     "add_step": "pipeline",

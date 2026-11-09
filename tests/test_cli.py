@@ -36,6 +36,19 @@ def test_no_command_prints_help(capsys):
     assert "<comando>" in capsys.readouterr().out
 
 
+def test_import_each_subfolder(tmp_path, capsys):
+    parent = tmp_path / "pasta"
+    for name in ("A", "B"):
+        (parent / name).mkdir(parents=True)
+        (parent / name / f"{name}_01.txt").write_text("Um texto.", encoding="utf-8")
+    project = tmp_path / "p.ttwa"
+    assert cli.main(["import", str(project), str(parent), "--each-subfolder", "--json"]) == cli.EXIT_OK
+    rows = json.loads(capsys.readouterr().out)
+    assert [(r["corpus"], r["documentos"]) for r in rows] == [("A", 1), ("B", 1)]
+    with ttwtools.open_project(project) as p:
+        assert {c["name"] for c in ttwtools.list_corpora(p)} == {"A", "B"}
+
+
 ROWS = [{"palavra": "casa", "freq": 12, "por_mil": 3.14159}, {"palavra": "rua", "freq": 3, "por_mil": 0.5}]
 
 

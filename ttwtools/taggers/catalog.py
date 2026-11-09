@@ -68,6 +68,20 @@ def has_descriptor(tagger: str) -> bool:
     return tagger in _aliases()
 
 
+def layer_tool(tagger: str, effective: Mapping[str, Any]) -> str:
+    """Nome gravado em `layers.tool`: o atalho do descritor quando as opções efetivas
+    coincidem com as dele. Assim a mesma ferramenta em modos diferentes vira camadas
+    distintas (mfte com `extended` verdadeiro → `mfte_ext`; falso → `mfte`)."""
+    if not has_descriptor(tagger):
+        return tagger
+    name, _ = resolve(tagger)
+    for alias, (base, info) in _aliases().items():
+        fixed = info.get("options") or {}
+        if alias != name and base == name and fixed and all(effective.get(k) == v for k, v in fixed.items()):
+            return alias
+    return name
+
+
 def options(tagger_id: str, lang: str | None | bool = None) -> dict:
     """Descritor de opções do tagger, com os textos no idioma `lang` (padrão:
     TTWTOOLS_LANG ou pt). `lang=False` devolve as chaves de tradução."""

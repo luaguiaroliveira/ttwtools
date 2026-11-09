@@ -365,6 +365,18 @@ tokenizer       — configuração da tokenização simples deste corpus.
 
 Devolve {"corpus", "imported", "files", "metadata_applied", "unmatched"}.
 
+### `import_subfolders` · **`ttwtools.import_subfolders`**
+
+```python
+import_subfolders(project: 'TTWAProject', source: 'str | Path', *, glob: 'str' = '*.txt', encoding: 'str' = 'utf-8', filename_fields: 'list[str] | None' = None, delimiter: 'str' = '_', metadata_csv: 'str | Path | None' = None, text_column: 'str' = 'text', names: 'list[str] | None' = None) -> 'dict'
+```
+
+Importa cada subpasta de `source` como um corpus com o nome da pasta.
+
+`names` restringe (e ordena) as subpastas; sem ele, todas as que têm `glob`.
+Devolve {"parent", "corpora": [relatórios de import_corpus], "imported": total,
+"files": [...], "folders": [nomes]}.
+
 ### `layer_summary` · **`ttwtools.layer_summary`**
 
 ```python
@@ -440,6 +452,17 @@ set_tokenizer_config(project: 'TTWAProject', corpus_name: 'str', config: 'Tokeni
 ```
 
 Grava a configuração da tokenização simples do corpus.
+
+### `subfolders` · **`ttwtools.subfolders`**
+
+```python
+subfolders(source: 'str | Path', glob: 'str' = '*.txt') -> 'list[dict]'
+```
+
+Subpastas imediatas com arquivos que casam com `glob` — uma por corpus a importar.
+
+Devolve [{"name", "path", "files"}] em ordem alfabética, só as que têm arquivos
+(pastas ocultas ficam de fora).
 
 ### `tokenize` · **`ttwtools.tokenize`**
 
@@ -578,6 +601,16 @@ Opções que adaptam o tagger ao idioma do corpus (ex.: pt → model=pt_core_new
 no spaCy, lang=pt no Stanza). Com `current` (ex.: um atalho), mantém o tamanho do
 modelo (sm, md, lg; trf → o maior disponível); senão prefere o menor já instalado.
 Devolve só o que muda ({} se nada muda).
+
+### `layer_tool`
+
+```python
+layer_tool(tagger: 'str', effective: 'Mapping[str, Any]') -> 'str'
+```
+
+Nome gravado em `layers.tool`: o atalho do descritor quando as opções efetivas
+coincidem com as dele. Assim a mesma ferramenta em modos diferentes vira camadas
+distintas (mfte com `extended` verdadeiro → `mfte_ext`; falso → `mfte`).
 
 ### `list_tagsets`
 
@@ -1551,7 +1584,7 @@ KFA padrao (Biber & Egbert): SD_pooled = sqrt((SD1^2+SD2^2)/2).
 normalize_metric(metric: str) -> str
 ```
 
-*(sem descrição)*
+Nome atual da métrica da KFA: "kfa2" (antigo) vira "wkfa"; os demais passam iguais.
 
 ### `pooled_std` · **`ttwtools.pooled_std`**
 

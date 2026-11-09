@@ -33,6 +33,7 @@
  "tagger.mfte.opt.device.name": "Device",
  "tagger.mfte.opt.extended.explain": "Adds the semantic and stance classes (stance verbs, nouns, adjectives and clauses). Changes the feature set.",
  "tagger.mfte.opt.extended.name": "Extended mode",
+ "tagger.mfte_ext.name": "MFTE (extended)",
  "tagger.mfte.opt.lang.explain": "MFTE only exists for English.",
  "tagger.mfte.opt.lang.name": "Language",
  "tagger.mfte.opt.model_dir.explain": "Where the Stanza models used by MFTE are stored.",

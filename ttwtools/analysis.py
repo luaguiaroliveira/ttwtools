@@ -11,6 +11,7 @@ _LEGACY_METRICS = {"kfa2": "wkfa"}
 
 
 def normalize_metric(metric: str) -> str:
+    """Nome atual da métrica da KFA: "kfa2" (antigo) vira "wkfa"; os demais passam iguais."""
     return _LEGACY_METRICS.get(metric, metric)
 
 

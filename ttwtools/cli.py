@@ -217,8 +217,23 @@ def _configure_index(p: argparse.ArgumentParser) -> None:
 
 
 def _cmd_import(args: argparse.Namespace) -> int:
-    from .corpus import TokenizerConfig, import_corpus
+    from .corpus import TokenizerConfig, import_corpus, import_subfolders
     fmt = _import_format(args) if args.source != "-" else "txt"
+    if args.each_subfolder:
+        if fmt != "txt":
+            raise SystemExit("ttwtools: --each-subfolder só vale para pastas de .txt")
+        with _open_or_create(args.project, create=True) as proj:
+            try:
+                report = import_subfolders(
+                    proj, args.source, filename_fields=args.fields.split(",") if args.fields else None,
+                    delimiter=args.delimiter, metadata_csv=args.meta_csv)
+            except ValueError as exc:
+                raise SystemExit(f"ttwtools: {exc}") from exc
+        emit([{"corpus": r["corpus"], "documentos": r["imported"], "metadados": r["metadata_applied"]}
+              for r in report["corpora"]], args.format)
+        return EXIT_OK
+    if not args.name:
+        raise SystemExit("ttwtools: --name é obrigatório (ou use --each-subfolder)")
     if fmt in ("conllu", "nltk", "tei", "graf"):
         from .formats import import_conllu, import_graf, import_nltk_tagged, import_tei
         with _open_or_create(args.project, create=True) as proj:
@@ -508,7 +523,9 @@ def _configure_tagset(p: argparse.ArgumentParser) -> None:
 def _configure_import(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl (criado se não existir)")
     p.add_argument("source", help="pasta de .txt, arquivo .txt, .csv com coluna de texto, ou - (texto pela entrada padrão)")
-    p.add_argument("--name", required=True, help="nome do corpus no projeto")
+    p.add_argument("--name", help="nome do corpus no projeto (obrigatório sem --each-subfolder)")
+    p.add_argument("--each-subfolder", action="store_true",
+                   help="importa cada subpasta de SOURCE como um corpus com o nome da pasta")
     p.add_argument("--format", dest="format_in", default="auto", choices=["auto", "txt", "conllu", "nltk", "tei", "graf"],
                    help="auto (pela extensão), txt (pasta/.txt/.csv), conllu, nltk (palavra/TAG: Brown, LOB), "
                         "tei (TEI XML, BNC XML), graf (standoff do OANC/MASC: pasta ou cabeçalho .anc)")
@@ -1202,7 +1219,8 @@ def _configure_documents(p: argparse.ArgumentParser) -> None:
 
 # nome → (descrição, configuração dos argumentos, função)
 IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]] = {
-    "import":    ("Importa textos para um corpus do projeto (pasta, .txt, CSV ou texto colado)",
+    "import":    ("Importa textos para um corpus do projeto (pasta, .txt, CSV ou texto colado); "
+                  "--each-subfolder importa cada subpasta como um corpus",
                   _configure_import, _cmd_import),
     "save-as":   ("Salva o projeto em outro arquivo (compactado por padrão; --no-compress para o banco direto)",
                   _configure_save_as, _cmd_save_as),

@@ -154,6 +154,23 @@ def preview_filenames(source: str | Path, delimiter: str = "_", fields: list[str
                          for f in files[:n]]}
 
 
+def subfolders(source: str | Path, glob: str = "*.txt") -> list[dict]:
+    """Subpastas imediatas com arquivos que casam com `glob` — uma por corpus a importar.
+
+    Devolve [{"name", "path", "files"}] em ordem alfabética, só as que têm arquivos
+    (pastas ocultas ficam de fora)."""
+    src = Path(source).expanduser()
+    if not src.is_dir():
+        return []
+    out = []
+    for sub in sorted((p for p in src.iterdir() if p.is_dir() and not p.name.startswith(".")),
+                      key=lambda p: p.name.lower()):
+        n = sum(1 for f in sub.glob(glob) if f.is_file())
+        if n:
+            out.append({"name": sub.name, "path": str(sub), "files": n})
+    return out
+
+
 def _csv_reader(fh) -> csv.DictReader:
     """DictReader com delimitador detectado (`,`, `;` ou tab); vírgula se não der para saber."""
     sample = fh.read(8192)
@@ -315,6 +332,37 @@ def import_corpus(
             "metadata_applied": applied, "unmatched": unmatched}
 
 
+def import_subfolders(project: TTWAProject, source: str | Path, *,
+                      glob: str = "*.txt", encoding: str = "utf-8",
+                      filename_fields: list[str] | None = None, delimiter: str = "_",
+                      metadata_csv: str | Path | None = None, text_column: str = "text",
+                      names: list[str] | None = None) -> dict:
+    """Importa cada subpasta de `source` como um corpus com o nome da pasta.
+
+    `names` restringe (e ordena) as subpastas; sem ele, todas as que têm `glob`.
+    Devolve {"parent", "corpora": [relatórios de import_corpus], "imported": total,
+    "files": [...], "folders": [nomes]}.
+    """
+    folders = subfolders(source, glob)
+    if not folders:
+        raise ValueError(f"Nenhuma subpasta com '{glob}' em '{Path(source).expanduser()}'.")
+    if names is not None:
+        wanted = list(dict.fromkeys(names))
+        known = {f["name"] for f in folders}
+        missing = [n for n in wanted if n not in known]
+        if missing:
+            raise ValueError(f"subpasta sem '{glob}': {', '.join(missing)}")
+        folders = [f for n in wanted for f in folders if f["name"] == n]
+    reports = [import_corpus(project, f["path"], f["name"], glob=glob, encoding=encoding,
+                             filename_fields=filename_fields, delimiter=delimiter,
+                             metadata_csv=metadata_csv, text_column=text_column)
+               for f in folders]
+    return {"parent": str(Path(source).expanduser()), "corpora": reports,
+            "imported": sum(r["imported"] for r in reports),
+            "files": [filename for r in reports for filename in r["files"]],
+            "folders": [f["name"] for f in folders]}
+
+
 # ---------------------------------------------------------------------------
 # Filtros por metadado
 # ---------------------------------------------------------------------------
@@ -442,5 +490,6 @@ __all__ = [
     "layer_summary", "list_corpora",
     "TokenizerConfig", "tokenize", "set_tokenizer_config", "get_tokenizer_config",
     "set_document_meta", "get_document_meta", "meta_from_filename", "read_metadata_csv", "apply_metadata",
-    "import_corpus", "parse_where", "filter_documents", "list_groups", "metadata_keys",
+    "import_corpus", "import_subfolders", "subfolders", "parse_where", "filter_documents",
+    "list_groups", "metadata_keys",
 ]

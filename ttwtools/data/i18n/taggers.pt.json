@@ -33,6 +33,7 @@
  "tagger.mfte.opt.device.name": "Dispositivo",
  "tagger.mfte.opt.extended.explain": "Acrescenta as classes semânticas e de postura (verbos, substantivos, adjetivos e orações de postura). Muda o conjunto de atributos.",
  "tagger.mfte.opt.extended.name": "Modo estendido",
+ "tagger.mfte_ext.name": "MFTE (estendido)",
  "tagger.mfte.opt.lang.explain": "O MFTE só existe para inglês.",
  "tagger.mfte.opt.lang.name": "Idioma",
  "tagger.mfte.opt.model_dir.explain": "Onde ficam os modelos do Stanza usados pelo MFTE.",
