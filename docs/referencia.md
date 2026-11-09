@@ -1742,7 +1742,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to sys.getdefaultencoding().
+encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
 ### `TTWA_EXTENSION` · **`ttwtools.TTWA_EXTENSION`**
@@ -1759,7 +1759,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to sys.getdefaultencoding().
+encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
 ### `TTWA_MIME_TYPE` · **`ttwtools.TTWA_MIME_TYPE`**
@@ -1776,7 +1776,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to sys.getdefaultencoding().
+encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
 ### `TTWA_MODE_COMPACT` · **`ttwtools.TTWA_MODE_COMPACT`**
@@ -1793,7 +1793,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to sys.getdefaultencoding().
+encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
 ### `TTWA_MODE_FULL` · **`ttwtools.TTWA_MODE_FULL`**
@@ -1810,7 +1810,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to sys.getdefaultencoding().
+encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
 ### `TTWL_EXTENSION` · **`ttwtools.TTWL_EXTENSION`**
@@ -1827,7 +1827,7 @@ errors is specified, then the object must expose a data buffer
 that will be decoded using the given encoding and error handler.
 Otherwise, returns the result of object.__str__() (if defined)
 or repr(object).
-encoding defaults to sys.getdefaultencoding().
+encoding defaults to 'utf-8'.
 errors defaults to 'strict'.
 
 ### `add_step` · **`ttwtools.add_step`**
@@ -1837,6 +1837,14 @@ add_step(project: 'TTWAProject', corpus_name: 'str', step: 'Mapping[str, Any]') 
 ```
 
 Acrescenta um passo à lista (validado; passo idêntico não entra duas vezes). Devolve a lista.
+
+### `add_step_all` · **`ttwtools.add_step_all`**
+
+```python
+add_step_all(project: 'TTWAProject', step: 'Mapping[str, Any]', corpora: 'list[str] | None' = None) -> 'dict[str, list[dict]]'
+```
+
+Acrescenta o mesmo passo à lista de cada corpus (todos, se `corpora` for None). Devolve {corpus: passos}.
 
 ### `analyze_file` · **`ttwtools.analyze_file`**
 
@@ -2050,6 +2058,14 @@ pending_steps(project: 'TTWAProject', corpus_name: 'str') -> 'list[dict]'
 
 Passos guardados na lista "a executar" do corpus, na ordem em que rodam (`stats` no fim).
 
+### `pending_steps_all` · **`ttwtools.pending_steps_all`**
+
+```python
+pending_steps_all(project: 'TTWAProject', corpora: 'list[str] | None' = None) -> 'dict[str, list[dict]]'
+```
+
+Listas "a executar" de todos os corpora que têm passos: {corpus: passos}, na ordem do projeto.
+
 ### `preview_filenames` · **`ttwtools.preview_filenames`**
 
 ```python
@@ -2078,6 +2094,20 @@ remove_step(project: 'TTWAProject', corpus_name: 'str', index: 'int') -> 'list[d
 ```
 
 Tira o passo `index` (0 = primeiro) da lista. Devolve a lista.
+
+### `run_all` · **`ttwtools.run_all`**
+
+```python
+run_all(project: 'TTWAProject', corpora: 'list[str] | None' = None, progress: 'Callable[[int, int, str], None] | None' = None, on_step: 'Callable[[int, dict], None] | None' = None) -> 'dict'
+```
+
+Executa as listas dos corpora em sequência, numa etapa só.
+
+Os passos de todos os corpora formam uma fila única: `on_step(i, estado)` recebe o
+índice global (`i`) e o estado de cada passo com o campo extra `"corpus"`;
+`progress(feitos, total, mensagem)` conta os passos de todos os corpora e prefixa a
+mensagem com o corpus em execução. Devolve {"done": [{"corpus", "step", "report"}],
+"remaining": {corpus: passos}}.
 
 ### `run_steps` · **`ttwtools.run_steps`**
 

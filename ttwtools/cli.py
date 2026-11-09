@@ -310,11 +310,27 @@ def _configure_save_as(p: argparse.ArgumentParser) -> None:
                    help="grava COM as tabelas de busca também nos formatos leves (.ttwcl, .ttwal), que por padrão ficam sem elas")
 
 
+def _pipeline_rows(steps: list[dict], corpus: str | None = None) -> list[dict]:
+    rows = []
+    for i, s in enumerate(steps):
+        row = {"nº": i + 1, "passo": s.get("tagger", "estatísticas básicas"),
+               "opções": json.dumps(s.get("options") or {}, ensure_ascii=False), "atalho": s.get("preset", "")}
+        rows.append({"corpus": corpus, **row} if corpus is not None else row)
+    return rows
+
+
 def _cmd_pipeline(args: argparse.Namespace) -> int:
     from . import pipeline
+    if not args.all and not args.corpus:
+        raise SystemExit("ttwtools: use --corpus CORPUS (um corpus) ou --all (todos)")
+    if args.action == "remove" and not args.corpus:
+        raise SystemExit("ttwtools: remove precisa de --corpus (cada lista tem os seus índices)")
     with _open_or_create(args.project, create=False) as proj:
         if args.action == "add-stats":
-            pipeline.add_step(proj, args.corpus, {"kind": "stats"})
+            if args.all:
+                pipeline.add_step_all(proj, {"kind": "stats"})
+            else:
+                pipeline.add_step(proj, args.corpus, {"kind": "stats"})
         elif args.action == "add-tag":
             if not args.tagger:
                 raise SystemExit("ttwtools: add-tag precisa de --tagger")
@@ -324,25 +340,36 @@ def _cmd_pipeline(args: argparse.Namespace) -> int:
                 if not sep:
                     raise SystemExit(f"ttwtools: opção inválida '{item}' (use chave=valor)")
                 options[key.strip()] = _parse_value(value.strip())
-            pipeline.add_step(proj, args.corpus, {"kind": "tag", "tagger": args.tagger, "options": options,
-                                                  "preset": args.preset})
+            step = {"kind": "tag", "tagger": args.tagger, "options": options, "preset": args.preset}
+            if args.all:
+                pipeline.add_step_all(proj, step)
+            else:
+                pipeline.add_step(proj, args.corpus, step)
         elif args.action == "remove":
             pipeline.remove_step(proj, args.corpus, args.index - 1)
         elif args.action == "clear":
-            pipeline.clear_steps(proj, args.corpus)
+            if args.all:
+                for name in pipeline.pending_steps_all(proj):
+                    pipeline.clear_steps(proj, name)
+            else:
+                pipeline.clear_steps(proj, args.corpus)
         elif args.action == "run":
             def progress(done, total, msg):
                 if args.format == "table":
                     print(f"  [{done}/{total}] {msg}", file=sys.stderr)
-            r = pipeline.run_steps(proj, args.corpus, progress=progress)
+            r = pipeline.run_all(proj, progress=progress) if args.all else \
+                pipeline.run_steps(proj, args.corpus, progress=progress)
             emit([{"passo": d["step"].get("tagger", "estatísticas"), **{k: v for k, v in d["report"].items()
-                                                                          if not isinstance(v, (list, dict))}}
+                                                                          if not isinstance(v, (list, dict))},
+                   **({"corpus": d["corpus"]} if "corpus" in d else {})}
                   for d in r["done"]], args.format)
             return EXIT_OK
-        steps = pipeline.pending_steps(proj, args.corpus)
-    emit([{"nº": i + 1, "passo": s.get("tagger", "estatísticas básicas"),
-           "opções": json.dumps(s.get("options") or {}, ensure_ascii=False), "atalho": s.get("preset", "")}
-          for i, s in enumerate(steps)] or "lista vazia", args.format)
+        if args.all:
+            rows = [row for name, steps in pipeline.pending_steps_all(proj).items()
+                    for row in _pipeline_rows(steps, name)]
+        else:
+            rows = _pipeline_rows(pipeline.pending_steps(proj, args.corpus))
+    emit(rows or "lista vazia", args.format)
     return EXIT_OK
 
 
@@ -350,7 +377,9 @@ def _configure_pipeline(p: argparse.ArgumentParser) -> None:
     p.add_argument("project", help="arquivo .ttwa ou .ttwl")
     p.add_argument("action", choices=["list", "add-stats", "add-tag", "remove", "clear", "run"],
                    help="list (mostra), add-stats, add-tag (com --tagger), remove (com --index), clear, run (executa)")
-    p.add_argument("--corpus", required=True, help="corpus")
+    p.add_argument("--corpus", help="corpus (obrigatório sem --all)")
+    p.add_argument("--all", action="store_true",
+                   help="vale para todos os corpora do projeto (list, add-*, clear e run); em remove, use --corpus")
     p.add_argument("--tagger", help="spacy, stanza, mfte ou biberplus (add-tag)")
     p.add_argument("--set", "--option", dest="set", action="append", metavar="CHAVE=VALOR", help="opção do tagger (add-tag)")
     p.add_argument("--preset", choices=["rapido", "recomendado", "preciso"], help="atalho de opções (add-tag)")
@@ -1183,7 +1212,8 @@ IMPLEMENTED: dict[str, tuple[str, Callable, Callable[[argparse.Namespace], int]]
                   _configure_index, _cmd_index),
     "cache":     ("Uso de disco do TTWtools: lista (list) ou limpa (clear) o cache e as pastas de trabalho abandonadas",
                   _configure_cache, _cmd_cache),
-    "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela",
+    "pipeline":  ("Lista de camadas a calcular depois (estatísticas e etiquetagens) e a execução dela; "
+                  "--all vale para todos os corpora",
                   _configure_pipeline, _cmd_pipeline),
     "names":     ("Mostra como os nomes dos arquivos de uma pasta viram metadados (sem importar)",
                   _configure_names, _cmd_names),

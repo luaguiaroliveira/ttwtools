@@ -55,3 +55,34 @@ def test_andamento_por_passo(proj):
     ttwtools.run_steps(proj, "c", on_step=lambda i, st: seen.append((i, st["status"], st["done"], st["total"])))
     assert (0, "running", 5, 5) in seen and (0, "done", 1, 1) in seen
     assert seen[-1] == (1, "done", 1, 1) and any(s[0] == 1 and s[1] == "running" and s[3] for s in seen)
+
+
+@pytest.fixture
+def doiscorpora(proj):
+    ttwtools.import_corpus(proj, CORPUS, "d")
+    return proj
+
+
+def test_lista_de_todos_os_corpora(doiscorpora):
+    assert ttwtools.pending_steps_all(doiscorpora) == {}
+    ttwtools.add_step(doiscorpora, "c", {"kind": "stats"})
+    assert list(ttwtools.pending_steps_all(doiscorpora)) == ["c"]           # só os que têm passos
+    r = ttwtools.add_step_all(doiscorpora, {"kind": "tag", "tagger": "biberplus"})
+    assert set(r) == {"c", "d"}
+    assert [s["kind"] for s in r["d"]] == ["tag"]
+    assert [s["kind"] for s in r["c"]] == ["tag", "stats"]                  # na ordem em que roda
+    assert list(ttwtools.pending_steps_all(doiscorpora, ["d"])) == ["d"]
+    with pytest.raises(ValueError):
+        ttwtools.add_step_all(doiscorpora, {"kind": "stats"}, ["d", "outro"])
+
+
+def test_executar_todos_os_corpora(doiscorpora):
+    ttwtools.add_step_all(doiscorpora, {"kind": "stats"})
+    seen, progress = [], []
+    r = ttwtools.run_all(doiscorpora, on_step=lambda i, st: seen.append((i, st["corpus"], st["status"])),
+                         progress=lambda d, t, m: progress.append((d, t, m)))
+    assert [(d["corpus"], d["step"]["kind"]) for d in r["done"]] == [("c", "stats"), ("d", "stats")]
+    assert r["remaining"] == {} and ttwtools.pending_steps_all(doiscorpora) == {}
+    assert progress[-1][:2] == (2, 2)
+    assert {(i, c) for i, c, _ in seen} == {(0, "c"), (1, "d")}
+    assert all(m.startswith(("c: ", "d: ")) for _, _, m in progress)       # a mensagem diz o corpus

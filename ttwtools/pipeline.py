@@ -88,6 +88,35 @@ def _corpora(project: TTWAProject) -> list[dict]:
     return list_corpora(project)
 
 
+def _names(project: TTWAProject, corpora: list[str] | None = None) -> list[str]:
+    """Nomes dos corpora do projeto (ou só os indicados, sem repetir e na ordem dada)."""
+    names = [c["name"] for c in _corpora(project)]
+    if corpora is None:
+        return names
+    unknown = [c for c in corpora if c not in names]
+    if unknown:
+        raise ValueError(f"corpus não existe no projeto: {', '.join(unknown)}")
+    return list(dict.fromkeys(corpora))
+
+
+def pending_steps_all(project: TTWAProject, corpora: list[str] | None = None) -> dict[str, list[dict]]:
+    """Listas "a executar" de todos os corpora que têm passos: {corpus: passos}, na ordem do projeto."""
+    out = {}
+    for name in _names(project, corpora):
+        steps = pending_steps(project, name)
+        if steps:
+            out[name] = steps
+    return out
+
+
+def add_step_all(project: TTWAProject, step: Mapping[str, Any],
+                 corpora: list[str] | None = None) -> dict[str, list[dict]]:
+    """Acrescenta o mesmo passo à lista de cada corpus (todos, se `corpora` for None). Devolve {corpus: passos}."""
+    names = _names(project, corpora)
+    _normalize(step)                                     # valida uma vez, antes de tocar no projeto
+    return {name: add_step(project, name, step) for name in names}
+
+
 def _ordered(steps: list[dict]) -> list[dict]:
     return [s for s in steps if s["kind"] != "stats"] + [s for s in steps if s["kind"] == "stats"]
 
@@ -146,3 +175,40 @@ def run_steps(project: TTWAProject, corpus_name: str,
     if progress:
         progress(len(steps), len(steps), "ok")
     return {"done": done, "remaining": pending_steps(project, corpus_name)}
+
+
+def run_all(project: TTWAProject, corpora: list[str] | None = None,
+            progress: Callable[[int, int, str], None] | None = None,
+            on_step: Callable[[int, dict], None] | None = None) -> dict:
+    """Executa as listas dos corpora em sequência, numa etapa só.
+
+    Os passos de todos os corpora formam uma fila única: `on_step(i, estado)` recebe o
+    índice global (`i`) e o estado de cada passo com o campo extra `"corpus"`;
+    `progress(feitos, total, mensagem)` conta os passos de todos os corpora e prefixa a
+    mensagem com o corpus em execução. Devolve {"done": [{"corpus", "step", "report"}],
+    "remaining": {corpus: passos}}.
+    """
+    queues = pending_steps_all(project, corpora)
+    total = sum(len(_ordered(steps)) for steps in queues.values())
+    done = []
+    remaining = {}
+    base = 0                                             # passos já executados nos corpora anteriores
+    for name in queues:
+        steps = _ordered(pending_steps(project, name))   # a mesma ordem que run_steps vai executar
+        if not steps:
+            continue
+
+        def on_local(i, state, base=base, name=name):
+            if on_step:
+                on_step(base + i, {**state, "corpus": name})
+
+        def tell(d, t, msg, base=base, name=name):
+            if progress:
+                progress(base + d, total, f"{name}: {msg}")
+
+        r = run_steps(project, name, progress=tell, on_step=on_local)
+        done.extend({**d, "corpus": name} for d in r["done"])
+        if r["remaining"]:
+            remaining[name] = r["remaining"]
+        base += len(steps)
+    return {"done": done, "remaining": remaining}
